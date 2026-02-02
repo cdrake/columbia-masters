@@ -1,0 +1,44 @@
+[
+  {
+    "id": "COLM_200_m_backstroke_lcm_men_70_74",
+    "team": "COLM",
+    "event": "200 M Backstroke",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "3:20.40",
+    "timeInSeconds": 200.4,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "2015 Georgia LCM State Championships",
+    "year": "2015"
+  },
+  {
+    "id": "COLM_100_m_butterfly_lcm_men_70_74",
+    "team": "COLM",
+    "event": "100 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "1:14.73",
+    "timeInSeconds": 74.73,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "2015 Georgia LCM State Championships",
+    "year": "2015"
+  },
+  {
+    "id": "COLM_200_m_butterfly_lcm_men_70_74",
+    "team": "COLM",
+    "event": "200 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "3:09.85",
+    "timeInSeconds": 189.85,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "2015 Georgia LCM State Championships",
+    "year": "2015"
+  }
+]

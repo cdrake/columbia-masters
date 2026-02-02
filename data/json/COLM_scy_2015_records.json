@@ -1,0 +1,58 @@
+[
+  {
+    "id": "COLM_100_y_freestyle_scy_men_70_74",
+    "team": "COLM",
+    "event": "100 Y Freestyle",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "1:01.29",
+    "timeInSeconds": 61.29,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "41st Annual Sunbelt Meet",
+    "year": "2015"
+  },
+  {
+    "id": "COLM_50_y_butterfly_scy_men_70_74",
+    "team": "COLM",
+    "event": "50 Y Butterfly",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "29.45",
+    "timeInSeconds": 29.45,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "Growler Invitational",
+    "year": "2015"
+  },
+  {
+    "id": "COLM_100_y_butterfly_scy_men_70_74",
+    "team": "COLM",
+    "event": "100 Y Butterfly",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "1:04.08",
+    "timeInSeconds": 64.08,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "Growler Invitational",
+    "year": "2015"
+  },
+  {
+    "id": "COLM_200_y_butterfly_scy_men_70_74",
+    "team": "COLM",
+    "event": "200 Y Butterfly",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "2:34.70",
+    "timeInSeconds": 154.7,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "Growler Invitational",
+    "year": "2015"
+  }
+]

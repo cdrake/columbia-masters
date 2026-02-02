@@ -1,0 +1,30 @@
+[
+  {
+    "id": "COLM_50_y_freestyle_scy_men_65_69",
+    "team": "COLM",
+    "event": "50 Y Freestyle",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "65-69",
+    "time": "26.89",
+    "timeInSeconds": 26.89,
+    "swimmer": "Michael Burley",
+    "date": null,
+    "meet": "2021 Palmetto Masters SCY Meet",
+    "year": "2021"
+  },
+  {
+    "id": "COLM_200_y_freestyle_scy_men_65_69",
+    "team": "COLM",
+    "event": "200 Y Freestyle",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "65-69",
+    "time": "2:14.91",
+    "timeInSeconds": 134.91,
+    "swimmer": "Michael Burley",
+    "date": null,
+    "meet": "2021 Palmetto Masters SCY Meet",
+    "year": "2021"
+  }
+]

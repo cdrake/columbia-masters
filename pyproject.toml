@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "usms-scraper"
+version = "0.1.0"
+description = "Scrape USMS team records and transform to JSON for Firebase"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "pandas>=2.0.0",
+    "lxml>=5.0.0",
+    "selenium>=4.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "ruff>=0.1.0",
+]
+
+[project.scripts]
+usms-scraper = "usms_scraper.cli:main"
+
+[tool.hatch.envs.default]
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "pandas>=2.0.0",
+    "lxml>=5.0.0",
+    "selenium>=4.0.0",
+]
+
+[tool.hatch.envs.default.scripts]
+scrape = "python -m usms_scraper.cli scrape {args}"
+transform = "python -m usms_scraper.cli transform {args}"
+all = "python -m usms_scraper.cli all {args}"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "COLM_50_m_butterfly_lcm_men_70_74",
+    "team": "COLM",
+    "event": "50 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "32.84",
+    "timeInSeconds": 32.84,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "2016 SC LCM Championships ~ Shut Up &amp; Swim Roy Dessloch Invitational",
+    "year": "2016"
+  },
+  {
+    "id": "COLM_200_m_butterfly_lcm_men_70_74",
+    "team": "COLM",
+    "event": "200 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "70-74",
+    "time": "3:37.91",
+    "timeInSeconds": 217.91,
+    "swimmer": "Robert M Poiletman",
+    "date": null,
+    "meet": "2016 SC LCM Championships ~ Shut Up &amp; Swim Roy Dessloch Invitational",
+    "year": "2016"
+  }
+]

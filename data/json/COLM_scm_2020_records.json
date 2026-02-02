@@ -1,0 +1,44 @@
+[
+  {
+    "id": "COLM_50_m_backstroke_scm_men_65_69",
+    "team": "COLM",
+    "event": "50 M Backstroke",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "65-69",
+    "time": "47.36",
+    "timeInSeconds": 47.36,
+    "swimmer": "Richard S McCain",
+    "date": null,
+    "meet": "2020 South Carolina SCM State Meet",
+    "year": "2020"
+  },
+  {
+    "id": "COLM_100_m_backstroke_scm_men_65_69",
+    "team": "COLM",
+    "event": "100 M Backstroke",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "65-69",
+    "time": "1:43.24",
+    "timeInSeconds": 103.24000000000001,
+    "swimmer": "Richard S McCain",
+    "date": null,
+    "meet": "2020 South Carolina SCM State Meet",
+    "year": "2020"
+  },
+  {
+    "id": "COLM_100_m_breaststroke_scm_men_65_69",
+    "team": "COLM",
+    "event": "100 M Breaststroke",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "65-69",
+    "time": "1:40.09",
+    "timeInSeconds": 100.09,
+    "swimmer": "Richard S McCain",
+    "date": null,
+    "meet": "2020 South Carolina SCM State Meet",
+    "year": "2020"
+  }
+]
