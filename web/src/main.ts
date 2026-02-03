@@ -1,4 +1,5 @@
-import type { TeamRecord } from "./types";
+import type { TeamRecord, SiteEvent, ScheduleEntry, BoardMember } from "./types";
+import { fetchAllSheets } from "./sheets";
 import "./style.css";
 
 let allRecords: TeamRecord[] = [];
@@ -10,8 +11,16 @@ const $ = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)
 // --- Init ---
 
 async function init() {
-  const res = await fetch(`${import.meta.env.BASE_URL}data/COLM_all_records.json`);
-  allRecords = await res.json();
+  const [recordsRes, sheetData] = await Promise.all([
+    fetch(`${import.meta.env.BASE_URL}data/COLM_all_records.json`).then((r) => r.json()),
+    fetchAllSheets(),
+  ]);
+  allRecords = recordsRes;
+
+  if (sheetData.events.length) renderEvents(sheetData.events);
+  if (sheetData.schedule.length) renderSchedule(sheetData.schedule);
+  if (sheetData.board.length) renderBoard(sheetData.board);
+  if (Object.keys(sheetData.content).length) renderContent(sheetData.content);
 
   populateFilters();
   wireEvents();
@@ -171,6 +180,77 @@ function render() {
 
   $<HTMLSpanElement>("#record-count").textContent =
     `Showing ${sorted.length} of ${allRecords.length} records`;
+}
+
+// --- Sheet Renderers ---
+
+function renderEvents(events: SiteEvent[]) {
+  const el = $<HTMLDivElement>("#events-list");
+  el.innerHTML = events
+    .map((e) => {
+      const d = parseEventDate(e.date);
+      const month = d ? d.toLocaleString("en", { month: "short" }) : "";
+      const day = e.endDate ? `${d?.getDate()}-${parseEventDate(e.endDate)?.getDate()}` : String(d?.getDate() ?? "");
+      return `<article class="event-card">
+        <div class="event-date"><span class="month">${esc(month)}</span><span class="day">${esc(day)}</span></div>
+        <div class="event-info">
+          <h3>${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</h3>
+          <p>${esc(e.location)}${e.notes ? " &mdash; " + esc(e.notes) : ""}</p>
+        </div>
+      </article>`;
+    })
+    .join("");
+}
+
+function parseEventDate(s: string): Date | null {
+  if (!s) return null;
+  // Parse as local date parts to avoid UTC midnight shifting to previous day
+  const [y, m, d] = s.split("-").map(Number);
+  if (!y || !m || !d) return null;
+  return new Date(y, m - 1, d);
+}
+
+function renderSchedule(entries: ScheduleEntry[]) {
+  const el = $<HTMLDivElement>("#schedule-grid");
+  el.innerHTML = entries
+    .map((e) => {
+      const badgeClass = e.type?.toLowerCase().includes("closed") ? "badge-closed" : "badge-open";
+      return `<div class="schedule-card">
+        <div class="schedule-day">${esc(e.day)}</div>
+        <div class="schedule-time">${esc(e.time)}</div>
+        <span class="badge ${badgeClass}">${esc(e.type)}</span>
+      </div>`;
+    })
+    .join("");
+}
+
+function renderBoard(members: BoardMember[]) {
+  const el = $<HTMLDivElement>("#board-grid");
+  el.innerHTML = members
+    .map(
+      (m) => `<div class="board-card">
+        <div class="board-role">${esc(m.role)}</div>
+        <div class="board-name">${esc(m.name)}</div>
+      </div>`
+    )
+    .join("");
+}
+
+function renderContent(content: Record<string, string>) {
+  if (content.hero_sub) {
+    $<HTMLParagraphElement>("#hero-sub").textContent = content.hero_sub;
+  }
+  if (content.hero_tagline) {
+    $<HTMLParagraphElement>("#hero-tagline").textContent = content.hero_tagline;
+  }
+  if (content.about_text) {
+    const el = $<HTMLDivElement>("#about-text");
+    const paragraphs = [content.about_text, content.about_text_2, content.about_text_3].filter(Boolean);
+    el.innerHTML = paragraphs.map((p) => `<p>${esc(p)}</p>`).join("");
+  }
+  if (content.schedule_note) {
+    $<HTMLParagraphElement>("#schedule-note").innerHTML = esc(content.schedule_note);
+  }
 }
 
 // --- Helpers ---

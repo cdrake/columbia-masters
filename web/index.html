@@ -27,8 +27,8 @@
     <section id="hero">
       <div class="hero-content">
         <h1>Columbia Masters Swim Team</h1>
-        <p class="hero-sub">The Columbia Bills &mdash; Columbia, South Carolina</p>
-        <p class="hero-tagline">A US Masters Swimming club based at the Charles R. Drew Wellness Center</p>
+        <p id="hero-sub" class="hero-sub">The Columbia Bills &mdash; Columbia, South Carolina</p>
+        <p id="hero-tagline" class="hero-tagline">A US Masters Swimming club based at the Charles R. Drew Wellness Center</p>
         <div class="hero-actions">
           <a href="#records" class="btn btn-primary">View Team Records</a>
           <a href="#schedule" class="btn btn-outline">Practice Schedule</a>
@@ -41,7 +41,7 @@
       <div class="container">
         <h2>About COLM</h2>
         <div class="about-grid">
-          <div class="about-text">
+          <div id="about-text" class="about-text">
             <p>We are the <strong>Columbia Bills</strong>, a US Masters Swimming team based at the
               <strong>Charles R. Drew Wellness Center</strong> in Columbia, South Carolina. Our members
               range from fitness swimmers to nationally competitive athletes across all age groups.</p>
@@ -53,7 +53,7 @@
           </div>
           <div class="about-card">
             <h3>Quick Facts</h3>
-            <dl>
+            <dl id="about-facts">
               <dt>Team Code</dt><dd>COLM</dd>
               <dt>LMSC</dt><dd>South Carolina</dd>
               <dt>Pool</dt><dd>Charles R. Drew Wellness Center</dd>
@@ -68,7 +68,8 @@
     <section id="schedule" class="section section-alt">
       <div class="container">
         <h2>Practice Schedule</h2>
-        <div class="schedule-grid">
+        <div id="schedule-grid" class="schedule-grid">
+          <!-- Populated from Google Sheets; fallback content below -->
           <div class="schedule-card">
             <div class="schedule-day">Sunday</div>
             <div class="schedule-time">5:00 &ndash; 5:45 PM</div>
@@ -95,7 +96,7 @@
             <span class="badge badge-closed">Closed Pool</span>
           </div>
         </div>
-        <p class="schedule-note">
+        <p id="schedule-note" class="schedule-note">
           <strong>Closed pool</strong> sessions require USMS membership.
           All sessions require a Drew Center membership or day pass.
         </p>
@@ -106,7 +107,8 @@
     <section id="events" class="section">
       <div class="container">
         <h2>Upcoming Events</h2>
-        <div class="events-list">
+        <div id="events-list" class="events-list">
+          <!-- Populated from Google Sheets; fallback content below -->
           <article class="event-card">
             <div class="event-date"><span class="month">Feb</span><span class="day">7-8</span></div>
             <div class="event-info">
@@ -164,7 +166,7 @@
     <section id="coaches" class="section section-alt">
       <div class="container">
         <h2>Board &amp; Leadership</h2>
-        <div class="board-grid">
+        <div id="board-grid" class="board-grid">
           <div class="board-card">
             <div class="board-role">Chair</div>
             <div class="board-name">Amanda Moyer</div>
