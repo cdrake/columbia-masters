@@ -3,6 +3,7 @@
 import argparse
 import csv
 import logging
+import shutil
 import sys
 from datetime import date
 from pathlib import Path
@@ -234,38 +235,87 @@ def cmd_update(args: argparse.Namespace) -> int:
 
         if not any_changes:
             logging.info("No changes detected — data is up to date.")
+            return 0
 
-        # Optionally run transform
-        if any_changes and args.transform:
-            logging.info("Running transform...")
-            csv_files = list(output_dir.glob("*.csv"))
-            json_output = Path(args.json_output)
-            json_output.mkdir(parents=True, exist_ok=True)
+        # Transform all CSVs to JSON
+        logging.info("Running transform...")
+        csv_files = list(output_dir.glob("*.csv"))
+        json_output = Path(args.json_output)
+        json_output.mkdir(parents=True, exist_ok=True)
 
-            combined_path = json_output / f"{args.team}_all_records.json"
-            all_records = transform_multiple_csvs(
-                csv_paths=csv_files,
-                output_dir=json_output,
-                combined_output=combined_path,
-                pretty=True,
-            )
+        combined_path = json_output / f"{args.team}_all_records.json"
+        all_records = transform_multiple_csvs(
+            csv_paths=csv_files,
+            output_dir=json_output,
+            combined_output=combined_path,
+            pretty=True,
+        )
 
-            combined_records = []
-            for records in all_records.values():
-                combined_records.extend(records)
+        combined_records = []
+        for records in all_records.values():
+            combined_records.extend(records)
 
-            if args.firebase:
-                firebase_path = json_output / f"{args.team}_firebase_import.json"
-                generate_firebase_import(combined_records, firebase_path)
-                logging.info(f"  Firebase import: {firebase_path}")
+        if args.firebase:
+            firebase_path = json_output / f"{args.team}_firebase_import.json"
+            generate_firebase_import(combined_records, firebase_path)
+            logging.info(f"  Firebase import: {firebase_path}")
 
-            logging.info(f"  Transform complete. Output in {json_output}")
+        logging.info(f"  Transform complete. Output in {json_output}")
+
+        # Copy combined JSON to web public data directory
+        web_data_dir = Path(args.web_data)
+        web_data_dir.mkdir(parents=True, exist_ok=True)
+        dest = web_data_dir / combined_path.name
+        shutil.copy2(combined_path, dest)
+        logging.info(f"  Updated website data: {dest}")
 
         return 0
 
     except Exception as e:
         logging.error(f"Update failed: {e}")
         return 1
+
+
+def cmd_publish(args: argparse.Namespace) -> int:
+    """Transform existing CSVs and copy JSON to the web public data directory."""
+    csv_dir = Path(args.csv_input)
+    json_output = Path(args.json_output)
+    web_data_dir = Path(args.web_data)
+
+    csv_files = list(csv_dir.glob("*.csv"))
+    if not csv_files:
+        logging.error(f"No CSV files found in {csv_dir}")
+        return 1
+
+    logging.info(f"Transforming {len(csv_files)} CSV file(s)...")
+    json_output.mkdir(parents=True, exist_ok=True)
+
+    combined_path = json_output / f"{args.team}_all_records.json"
+    all_records = transform_multiple_csvs(
+        csv_paths=csv_files,
+        output_dir=json_output,
+        combined_output=combined_path,
+        pretty=True,
+    )
+
+    combined_records = []
+    for records in all_records.values():
+        combined_records.extend(records)
+
+    if args.firebase:
+        firebase_path = json_output / f"{args.team}_firebase_import.json"
+        generate_firebase_import(combined_records, firebase_path)
+        logging.info(f"  Firebase import: {firebase_path}")
+
+    logging.info(f"  Transform complete. Output in {json_output}")
+
+    web_data_dir.mkdir(parents=True, exist_ok=True)
+    dest = web_data_dir / combined_path.name
+    shutil.copy2(combined_path, dest)
+    logging.info(f"  Updated website data: {dest}")
+    logging.info(f"  Total records: {len(combined_records)}")
+
+    return 0
 
 
 def cmd_all(args: argparse.Namespace) -> int:
@@ -288,7 +338,7 @@ def main() -> int:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Scrape COLM records for 2015-2025
+  # Scrape COLM records
   usms-scraper scrape --team COLM --output ./data/csv
 
   # Scrape specific years
@@ -318,7 +368,7 @@ Examples:
     scrape_parser.add_argument(
         "--years",
         "-y",
-        default="2015-2025",
+        default=f"2015-{date.today().year}",
         help="Year range (e.g., 2015-2025) or comma-separated (e.g., 2020,2022,2024)",
     )
     scrape_parser.add_argument(
@@ -401,12 +451,12 @@ Examples:
         "--debug-html", action="store_true", help="Save raw HTML for debugging"
     )
     update_parser.add_argument(
-        "--transform",
-        action="store_true",
-        help="Also regenerate JSON output after updating CSVs",
+        "--json-output", default="./data/json", help="Output directory for JSON"
     )
     update_parser.add_argument(
-        "--json-output", default="./data/json", help="Output directory for JSON (with --transform)"
+        "--web-data",
+        default="./web/public/data",
+        help="Web public data directory for website JSON (default: ./web/public/data)",
     )
     update_parser.add_argument(
         "--firebase",
@@ -416,6 +466,28 @@ Examples:
     )
     update_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     update_parser.set_defaults(func=cmd_update)
+
+    # Publish command (transform + copy to web)
+    publish_parser = subparsers.add_parser(
+        "publish", help="Transform existing CSVs and copy JSON to the website"
+    )
+    publish_parser.add_argument("--team", "-t", required=True, help="Team code (e.g., COLM)")
+    publish_parser.add_argument(
+        "--csv-input", default="./data/csv", help="Directory containing CSV files"
+    )
+    publish_parser.add_argument(
+        "--json-output", default="./data/json", help="Output directory for JSON"
+    )
+    publish_parser.add_argument(
+        "--web-data",
+        default="./web/public/data",
+        help="Web public data directory (default: ./web/public/data)",
+    )
+    publish_parser.add_argument(
+        "--firebase", "-f", action="store_true", help="Generate Firebase import format"
+    )
+    publish_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    publish_parser.set_defaults(func=cmd_publish)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")
@@ -429,7 +501,7 @@ Examples:
     all_parser.add_argument(
         "--years",
         "-y",
-        default="2015-2025",
+        default=f"2015-{date.today().year}",
         help="Year range (e.g., 2015-2025) or comma-separated",
     )
     all_parser.add_argument(

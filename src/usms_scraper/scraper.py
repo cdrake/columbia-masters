@@ -4,6 +4,7 @@ import csv
 import re
 import time
 import logging
+from datetime import date
 from pathlib import Path
 from dataclasses import dataclass, field
 
@@ -33,7 +34,7 @@ class ScraperConfig:
     team_code: str
     output_dir: Path
     lmsc_id: str = "55"  # South Carolina
-    years: list[int] = field(default_factory=lambda: list(range(2015, 2026)))
+    years: list[int] = field(default_factory=lambda: list(range(2015, date.today().year + 1)))
     courses: list[str] = field(default_factory=lambda: ["SCY", "SCM", "LCM"])
     delay_between_requests: float = 2.0
     timeout: int = 30
@@ -156,6 +157,12 @@ class USMSScraper:
         if self.config.save_debug_html:
             self._dump_page_source(f"form_{course}_{year}")
 
+        # Check if the year is available in the dropdown
+        available_years = self._get_available_years()
+        if available_years is not None and year not in available_years:
+            logger.info(f"  Year {year} not available in form (max: {max(available_years)})")
+            return []
+
         # Fill in the form
         try:
             self._fill_form(year, course)
@@ -175,19 +182,50 @@ class USMSScraper:
         # Parse results
         return self._parse_results(course, year)
 
+    def _get_available_years(self) -> list[int] | None:
+        """Read available years from a <select> dropdown, if present.
+
+        Returns a sorted list of year ints, or None if the year field is not a dropdown.
+        """
+        for name in ["Year", "year", "YearID", "yearID"]:
+            try:
+                select = Select(self.driver.find_element(By.NAME, name))
+                years = []
+                for option in select.options:
+                    text = option.text.strip()
+                    if text.isdigit():
+                        years.append(int(text))
+                if years:
+                    return sorted(years)
+            except (NoSuchElementException, Exception):
+                continue
+        return None
+
     def _fill_form(self, year: int, course: str) -> None:
         """Fill in the toptenlocal.php form fields."""
-        # Try to find and fill the Year field
+        # Try to find and fill the Year field — prefer <select> dropdown
         year_filled = False
-        for selector in ["input[name='Year']", "input[name='year']", "input[type='text']"]:
+
+        for name in ["Year", "year", "YearID", "yearID"]:
             try:
-                year_input = self.driver.find_element(By.CSS_SELECTOR, selector)
-                year_input.clear()
-                year_input.send_keys(str(year))
+                select = Select(self.driver.find_element(By.NAME, name))
+                select.select_by_visible_text(str(year))
                 year_filled = True
                 break
-            except NoSuchElementException:
+            except (NoSuchElementException, Exception):
                 continue
+
+        # Fall back to text input
+        if not year_filled:
+            for selector in ["input[name='Year']", "input[name='year']", "input[type='text']"]:
+                try:
+                    year_input = self.driver.find_element(By.CSS_SELECTOR, selector)
+                    year_input.clear()
+                    year_input.send_keys(str(year))
+                    year_filled = True
+                    break
+                except NoSuchElementException:
+                    continue
 
         if not year_filled:
             # Try finding by label text
@@ -470,7 +508,7 @@ def scrape_team_records(
         List of CSV file paths created
     """
     if years is None:
-        years = list(range(2015, 2026))
+        years = list(range(2015, date.today().year + 1))
     if courses is None:
         courses = ["SCY", "SCM", "LCM"]
 

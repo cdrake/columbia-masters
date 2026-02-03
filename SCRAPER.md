@@ -32,11 +32,11 @@ hatch run scrape --team COLM --output ./data/csv --delay 3.0
 Scrapes only the current year and diffs against existing data. Idempotent — running it twice with no new meets produces no changes.
 
 ```bash
-# Check for new results
-hatch run update --team COLM --output ./data/csv
+# Check for new results, transform, and update website data
+hatch run update --team COLM
 
-# Update and regenerate JSON for Firebase
-hatch run update --team COLM --output ./data/csv --transform --firebase --json-output ./data/json
+# Also generate Firebase import format
+hatch run update --team COLM --firebase
 ```
 
 ### Transform CSV to JSON
