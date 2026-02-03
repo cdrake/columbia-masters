@@ -38,6 +38,7 @@ dependencies = [
 scrape = "python -m usms_scraper.cli scrape {args}"
 transform = "python -m usms_scraper.cli transform {args}"
 all = "python -m usms_scraper.cli all {args}"
+update = "python -m usms_scraper.cli update {args}"
 
 [tool.ruff]
 line-length = 100

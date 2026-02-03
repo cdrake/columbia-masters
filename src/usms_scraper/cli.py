@@ -1,11 +1,13 @@
 """Command-line interface for USMS scraper."""
 
 import argparse
+import csv
 import logging
 import sys
+from datetime import date
 from pathlib import Path
 
-from .scraper import scrape_team_records
+from .scraper import scrape_team_records, ScraperConfig, USMSScraper
 from .transformer import (
     transform_multiple_csvs,
     generate_firebase_import,
@@ -111,6 +113,161 @@ def cmd_transform(args: argparse.Namespace) -> int:
         return 1
 
 
+def _record_key(record: dict) -> tuple:
+    """Key that identifies a unique slot: event + course + gender + age_group + rank."""
+    return (
+        record["event"],
+        record["course"],
+        record["gender"],
+        record["age_group"],
+        record["rank"],
+    )
+
+
+def _record_content(record: dict) -> tuple:
+    """Content tuple for change detection."""
+    return (record["time"], record["swimmer"], record["meet"])
+
+
+def _load_existing_csv(path: Path) -> list[dict]:
+    """Load records from an existing CSV file."""
+    if not path.exists():
+        return []
+    with open(path, newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
+def _save_records_csv(records: list[dict], path: Path) -> None:
+    """Write records to a CSV file."""
+    fieldnames = [
+        "team",
+        "event",
+        "course",
+        "gender",
+        "age_group",
+        "time",
+        "swimmer",
+        "date",
+        "meet",
+        "year",
+        "rank",
+    ]
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(records)
+
+
+def cmd_update(args: argparse.Namespace) -> int:
+    """Scrape the current year and only update CSVs when new or changed records are found."""
+    current_year = date.today().year
+    output_dir = Path(args.output)
+    courses = [c.strip().upper() for c in args.courses.split(",")]
+
+    logging.info(f"Updating {args.team} records for {current_year} ({', '.join(courses)})")
+
+    try:
+        config = ScraperConfig(
+            team_code=args.team,
+            output_dir=output_dir,
+            lmsc_id=args.lmsc,
+            years=[current_year],
+            courses=courses,
+            delay_between_requests=args.delay,
+            headless=not args.show_browser,
+            save_debug_html=args.debug_html,
+        )
+        scraper = USMSScraper(config)
+        scraped = scraper.scrape_all_raw()
+
+        any_changes = False
+
+        for (year, course), new_records in scraped.items():
+            csv_path = output_dir / f"{args.team}_{course.lower()}_{year}_records.csv"
+            existing = _load_existing_csv(csv_path)
+
+            # Build lookup of existing records by key
+            existing_by_key = {_record_key(r): _record_content(r) for r in existing}
+            new_by_key = {_record_key(r): _record_content(r) for r in new_records}
+
+            # Detect changes
+            added = []
+            updated = []
+            for r in new_records:
+                key = _record_key(r)
+                if key not in existing_by_key:
+                    added.append(r)
+                elif _record_content(r) != existing_by_key[key]:
+                    updated.append(r)
+
+            if not added and not updated and len(new_records) == len(existing):
+                logging.info(f"  {course} {year}: no changes")
+                continue
+
+            any_changes = True
+
+            if added:
+                logging.info(f"  {course} {year}: {len(added)} new record(s)")
+                for r in added:
+                    logging.info(
+                        f"    + {r['gender']} {r['age_group']} {r['event']}"
+                        f" — {r['time']} ({r['swimmer']})"
+                    )
+
+            if updated:
+                logging.info(f"  {course} {year}: {len(updated)} updated record(s)")
+                for r in updated:
+                    key = _record_key(r)
+                    old = existing_by_key[key]
+                    logging.info(
+                        f"    ~ {r['gender']} {r['age_group']} {r['event']}"
+                        f" — {old[0]} -> {r['time']} ({r['swimmer']})"
+                    )
+
+            removed_count = len(existing_by_key) - len(set(existing_by_key) & set(new_by_key))
+            if removed_count:
+                logging.info(f"  {course} {year}: {removed_count} record(s) no longer in results")
+
+            _save_records_csv(new_records, csv_path)
+            logging.info(f"  Wrote {len(new_records)} records to {csv_path.name}")
+
+        if not any_changes:
+            logging.info("No changes detected — data is up to date.")
+
+        # Optionally run transform
+        if any_changes and args.transform:
+            logging.info("Running transform...")
+            csv_files = list(output_dir.glob("*.csv"))
+            json_output = Path(args.json_output)
+            json_output.mkdir(parents=True, exist_ok=True)
+
+            combined_path = json_output / f"{args.team}_all_records.json"
+            all_records = transform_multiple_csvs(
+                csv_paths=csv_files,
+                output_dir=json_output,
+                combined_output=combined_path,
+                pretty=True,
+            )
+
+            combined_records = []
+            for records in all_records.values():
+                combined_records.extend(records)
+
+            if args.firebase:
+                firebase_path = json_output / f"{args.team}_firebase_import.json"
+                generate_firebase_import(combined_records, firebase_path)
+                logging.info(f"  Firebase import: {firebase_path}")
+
+            logging.info(f"  Transform complete. Output in {json_output}")
+
+        return 0
+
+    except Exception as e:
+        logging.error(f"Update failed: {e}")
+        return 1
+
+
 def cmd_all(args: argparse.Namespace) -> int:
     """Run scrape + transform."""
     args.output = args.csv_output
@@ -159,27 +316,36 @@ Examples:
         "--output", "-o", default="./output/csv", help="Output directory for CSVs"
     )
     scrape_parser.add_argument(
-        "--years", "-y", default="2015-2025",
+        "--years",
+        "-y",
+        default="2015-2025",
         help="Year range (e.g., 2015-2025) or comma-separated (e.g., 2020,2022,2024)",
     )
     scrape_parser.add_argument(
-        "--courses", default="SCY,SCM,LCM",
+        "--courses",
+        default="SCY,SCM,LCM",
         help="Comma-separated courses (default: SCY,SCM,LCM)",
     )
     scrape_parser.add_argument(
-        "--lmsc", default="55",
+        "--lmsc",
+        default="55",
         help="LMSC ID (default: 55 for South Carolina)",
     )
     scrape_parser.add_argument(
-        "--delay", "-d", type=float, default=2.0,
+        "--delay",
+        "-d",
+        type=float,
+        default=2.0,
         help="Delay between requests in seconds (default: 2.0)",
     )
     scrape_parser.add_argument(
-        "--show-browser", action="store_true",
+        "--show-browser",
+        action="store_true",
         help="Show browser window (default: headless)",
     )
     scrape_parser.add_argument(
-        "--debug-html", action="store_true",
+        "--debug-html",
+        action="store_true",
         help="Save raw HTML pages for debugging",
     )
     scrape_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
@@ -203,13 +369,53 @@ Examples:
     transform_parser.add_argument(
         "--ndjson", "-n", action="store_true", help="Generate NDJSON format"
     )
-    transform_parser.add_argument(
-        "--minify", "-m", action="store_true", help="Minify JSON output"
-    )
+    transform_parser.add_argument("--minify", "-m", action="store_true", help="Minify JSON output")
     transform_parser.add_argument(
         "-v", "--verbose", action="store_true", help="Enable debug logging"
     )
     transform_parser.set_defaults(func=cmd_transform)
+
+    # Update command (current year only, idempotent)
+    update_parser = subparsers.add_parser(
+        "update", help="Scrape current year and update only if new/changed records found"
+    )
+    update_parser.add_argument("--team", "-t", required=True, help="Team code (e.g., COLM)")
+    update_parser.add_argument(
+        "--output", "-o", default="./data/csv", help="Output directory for CSVs"
+    )
+    update_parser.add_argument(
+        "--courses",
+        default="SCY,SCM,LCM",
+        help="Comma-separated courses (default: SCY,SCM,LCM)",
+    )
+    update_parser.add_argument(
+        "--lmsc",
+        default="55",
+        help="LMSC ID (default: 55 for South Carolina)",
+    )
+    update_parser.add_argument(
+        "--delay", "-d", type=float, default=2.0, help="Delay between requests (seconds)"
+    )
+    update_parser.add_argument("--show-browser", action="store_true", help="Show browser window")
+    update_parser.add_argument(
+        "--debug-html", action="store_true", help="Save raw HTML for debugging"
+    )
+    update_parser.add_argument(
+        "--transform",
+        action="store_true",
+        help="Also regenerate JSON output after updating CSVs",
+    )
+    update_parser.add_argument(
+        "--json-output", default="./data/json", help="Output directory for JSON (with --transform)"
+    )
+    update_parser.add_argument(
+        "--firebase",
+        "-f",
+        action="store_true",
+        help="Generate Firebase import format (with --transform)",
+    )
+    update_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    update_parser.set_defaults(func=cmd_update)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")
@@ -221,34 +427,31 @@ Examples:
         "--json-output", default="./output/json", help="Output directory for JSON"
     )
     all_parser.add_argument(
-        "--years", "-y", default="2015-2025",
+        "--years",
+        "-y",
+        default="2015-2025",
         help="Year range (e.g., 2015-2025) or comma-separated",
     )
     all_parser.add_argument(
-        "--courses", default="SCY,SCM,LCM",
+        "--courses",
+        default="SCY,SCM,LCM",
         help="Comma-separated courses (default: SCY,SCM,LCM)",
     )
     all_parser.add_argument(
-        "--lmsc", default="55", help="LMSC ID (default: 55 for South Carolina)",
+        "--lmsc",
+        default="55",
+        help="LMSC ID (default: 55 for South Carolina)",
     )
     all_parser.add_argument(
         "--delay", "-d", type=float, default=2.0, help="Delay between requests (seconds)"
     )
-    all_parser.add_argument(
-        "--show-browser", action="store_true", help="Show browser window"
-    )
-    all_parser.add_argument(
-        "--debug-html", action="store_true", help="Save raw HTML for debugging"
-    )
+    all_parser.add_argument("--show-browser", action="store_true", help="Show browser window")
+    all_parser.add_argument("--debug-html", action="store_true", help="Save raw HTML for debugging")
     all_parser.add_argument(
         "--firebase", "-f", action="store_true", help="Generate Firebase import format"
     )
-    all_parser.add_argument(
-        "--ndjson", "-n", action="store_true", help="Generate NDJSON format"
-    )
-    all_parser.add_argument(
-        "--minify", "-m", action="store_true", help="Minify JSON output"
-    )
+    all_parser.add_argument("--ndjson", "-n", action="store_true", help="Generate NDJSON format")
+    all_parser.add_argument("--minify", "-m", action="store_true", help="Minify JSON output")
     all_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     all_parser.set_defaults(func=cmd_all)
 

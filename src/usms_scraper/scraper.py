@@ -84,9 +84,7 @@ class USMSScraper:
                     if records:
                         output_file = self._save_to_csv(records, course, year)
                         output_files.append(output_file)
-                        logger.info(
-                            f"  Saved {len(records)} records to {output_file.name}"
-                        )
+                        logger.info(f"  Saved {len(records)} records to {output_file.name}")
                     else:
                         logger.info(f"  No records found for {course} {year}")
 
@@ -99,6 +97,39 @@ class USMSScraper:
 
         return output_files
 
+    def scrape_all_raw(self) -> dict[tuple[int, str], list[dict]]:
+        """Scrape all records and return them grouped by (year, course) without writing files."""
+        results: dict[tuple[int, str], list[dict]] = {}
+
+        try:
+            self.driver = self._create_driver()
+            logger.info(f"Browser started. Scraping {self.config.team_code} records...")
+
+            for year in self.config.years:
+                for course in self.config.courses:
+                    logger.info(f"Fetching {course} {year} for {self.config.team_code}...")
+
+                    try:
+                        records = self._scrape_year_course(year, course)
+                    except Exception as e:
+                        logger.error(f"Failed {course} {year}: {e}")
+                        continue
+
+                    results[(year, course)] = records
+                    if records:
+                        logger.info(f"  Found {len(records)} records")
+                    else:
+                        logger.info(f"  No records found for {course} {year}")
+
+                    time.sleep(self.config.delay_between_requests)
+
+        finally:
+            if self.driver:
+                self.driver.quit()
+                logger.info("Browser closed.")
+
+        return results
+
     def _scrape_year_course(self, year: int, course: str) -> list[dict]:
         """Scrape all records for a given year and course."""
         self.driver.get(TOP_TEN_LOCAL_URL)
@@ -108,15 +139,11 @@ class USMSScraper:
         # Wait for form to be present — try multiple strategies
         try:
             # Look for any form element or input
-            wait.until(
-                EC.presence_of_element_located((By.TAG_NAME, "form"))
-            )
+            wait.until(EC.presence_of_element_located((By.TAG_NAME, "form")))
         except TimeoutException:
             # If no form tag, wait for any input element
             try:
-                wait.until(
-                    EC.presence_of_element_located((By.TAG_NAME, "input"))
-                )
+                wait.until(EC.presence_of_element_located((By.TAG_NAME, "input")))
             except TimeoutException:
                 logger.warning("Page did not load form elements")
                 self._dump_page_source(f"no_form_{course}_{year}")
@@ -293,19 +320,17 @@ class USMSScraper:
         raise RuntimeError("Could not find submit button or form to submit")
 
     # Regex for event header lines like "Men 45-49 50 Y Freestyle"
-    _EVENT_HEADER_RE = re.compile(
-        r"^(Men|Women)\s+(\d+-\d+)\s+(.+?)\s*$"
-    )
+    _EVENT_HEADER_RE = re.compile(r"^(Men|Women)\s+(\d+-\d+)\s+(.+?)\s*$")
 
     # Regex for data lines like "  1      26.85 Joshua McDuffie, M48, COLM, 554U-YZFEE,"
     # Time can be: 26.85, 1:01.20, 10:01.20, 1:02:45.67
     _DATA_LINE_RE = re.compile(
-        r"^\s*(\d+)\s+"           # rank
-        r"([\d:]+\.\d+)\s+"      # time
-        r"(.+?),\s*"             # swimmer name
-        r"([MF]\d+),\s*"         # gender+age (e.g. M48)
-        r"(\w+),\s*"             # club code
-        r"([\w-]+),\s*"          # USMS ID
+        r"^\s*(\d+)\s+"  # rank
+        r"([\d:]+\.\d+)\s+"  # time
+        r"(.+?),\s*"  # swimmer name
+        r"([MF]\d+),\s*"  # gender+age (e.g. M48)
+        r"(\w+),\s*"  # club code
+        r"([\w-]+),\s*"  # USMS ID
     )
 
     def _parse_results(self, course: str, year: int) -> list[dict]:
@@ -388,8 +413,17 @@ class USMSScraper:
         filepath = self.config.output_dir / filename
 
         fieldnames = [
-            "team", "event", "course", "gender", "age_group",
-            "time", "swimmer", "date", "meet", "year", "rank",
+            "team",
+            "event",
+            "course",
+            "gender",
+            "age_group",
+            "time",
+            "swimmer",
+            "date",
+            "meet",
+            "year",
+            "rank",
         ]
 
         with open(filepath, "w", newline="", encoding="utf-8") as f:
