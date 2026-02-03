@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="/src/style.css" />
   </head>
   <body>
+    <!-- Site Alert Banner (driven by Google Sheets content tab: key=alert_message) -->
+    <div id="site-alert" class="site-alert" hidden>
+      <span id="site-alert-text"></span>
+      <button id="site-alert-dismiss" class="site-alert-dismiss" aria-label="Dismiss alert">&times;</button>
+    </div>
+
     <!-- Navigation -->
     <nav id="main-nav">
       <div class="nav-inner">
