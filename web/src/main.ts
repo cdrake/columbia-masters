@@ -10,7 +10,7 @@ const $ = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)
 // --- Init ---
 
 async function init() {
-  const res = await fetch("/data/COLM_all_records.json");
+  const res = await fetch(`${import.meta.env.BASE_URL}data/COLM_all_records.json`);
   allRecords = await res.json();
 
   populateFilters();
