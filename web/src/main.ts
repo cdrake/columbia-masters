@@ -251,7 +251,7 @@ function renderContent(content: Record<string, string>) {
   if (content.schedule_note) {
     $<HTMLParagraphElement>("#schedule-note").innerHTML = esc(content.schedule_note);
   }
-  if (content.alert_message) {
+  if (content.alert_message?.trim()) {
     const banner = $<HTMLDivElement>("#site-alert");
     $<HTMLSpanElement>("#site-alert-text").textContent = content.alert_message;
     banner.hidden = false;
