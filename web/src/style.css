@@ -617,6 +617,10 @@ footer p {
 }
 
 /* Site Alert Banner */
+.site-alert[hidden] {
+  display: none;
+}
+
 .site-alert {
   display: flex;
   align-items: center;
