@@ -34,6 +34,12 @@ jobs:
         working-directory: web
         run: npm run build
 
+      # <<< Create CNAME in the publish directory so Pages sees it >>>
+      - name: Create CNAME for GitHub Pages
+        run: |
+          mkdir -p web/dist
+          printf "www.columbiamastersswim.org\n" > web/dist/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
