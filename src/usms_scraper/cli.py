@@ -2,6 +2,7 @@
 
 import argparse
 import csv
+import json
 import logging
 import shutil
 import sys
@@ -160,6 +161,22 @@ def _save_records_csv(records: list[dict], path: Path) -> None:
         writer.writerows(records)
 
 
+def _update_data_index(web_data_dir: Path, record_count: int) -> None:
+    """Update the records count and lastUpdated date in index.json."""
+    index_path = web_data_dir / "index.json"
+    if not index_path.exists():
+        return
+    with open(index_path, "r", encoding="utf-8") as f:
+        index = json.load(f)
+    for dataset in index.get("datasets", []):
+        dataset["records"] = record_count
+    index["lastUpdated"] = date.today().isoformat()
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    logging.info(f"  Updated {index_path} (records: {record_count}, date: {index['lastUpdated']})")
+
+
 def cmd_update(args: argparse.Namespace) -> int:
     """Scrape the current year and only update CSVs when new or changed records are found."""
     current_year = date.today().year
@@ -269,6 +286,8 @@ def cmd_update(args: argparse.Namespace) -> int:
         shutil.copy2(combined_path, dest)
         logging.info(f"  Updated website data: {dest}")
 
+        _update_data_index(web_data_dir, len(combined_records))
+
         return 0
 
     except Exception as e:
@@ -314,6 +333,8 @@ def cmd_publish(args: argparse.Namespace) -> int:
     shutil.copy2(combined_path, dest)
     logging.info(f"  Updated website data: {dest}")
     logging.info(f"  Total records: {len(combined_records)}")
+
+    _update_data_index(web_data_dir, len(combined_records))
 
     return 0
 
