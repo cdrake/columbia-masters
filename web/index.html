@@ -293,12 +293,44 @@
         "@type": "SportsClub",
         "name": "Columbia Masters Swim Team",
         "url": "https://www.columbiamastersswim.org",
+        "description": "The Columbia Bills (COLM) are a US Masters Swimming club based at the Charles R. Drew Wellness Center in Columbia, South Carolina. Practices for all levels.",
+        "sport": "Swimming",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "2101 Walker Solomon Way",
           "addressLocality": "Columbia",
           "addressRegion": "SC",
           "postalCode": "29204"
+        },
+        "memberOf": {
+          "@type": "SportsOrganization",
+          "name": "US Masters Swimming",
+          "url": "https://www.usms.org/"
+        },
+        "sameAs": [
+          "https://www.instagram.com/drew.swims",
+          "https://www.strava.com/clubs/1463141"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "COLM Team Records",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Dataset",
+                "name": "Columbia Masters Swim Team Records",
+                "description": "All COLM top times across every course, event, gender, and age group, sourced from the USMS top-times database.",
+                "url": "https://www.columbiamastersswim.org/data/COLM_all_records.json",
+                "encodingFormat": "application/json",
+                "publisher": {
+                  "@type": "SportsClub",
+                  "name": "Columbia Masters Swim Team",
+                  "url": "https://www.columbiamastersswim.org"
+                }
+              }
+            }
+          ]
         }
       }
     </script>
