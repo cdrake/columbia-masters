@@ -1,0 +1,35 @@
+{
+  "name": "Columbia Masters Swim Team (COLM) — Team Records",
+  "description": "Top times and team records for COLM, a US Masters Swimming club in Columbia, SC. Each record represents the fastest time by a COLM swimmer in a given event, course, gender, and age group.",
+  "organization": {
+    "name": "Columbia Masters Swim Team",
+    "teamCode": "COLM",
+    "location": "Columbia, SC",
+    "website": "https://www.columbiamastersswim.org"
+  },
+  "datasets": [
+    {
+      "name": "All Team Records",
+      "url": "https://www.columbiamastersswim.org/data/COLM_all_records.json",
+      "format": "JSON array",
+      "records": 505,
+      "description": "All COLM top times across every course, event, gender, and age group.",
+      "schema": {
+        "id": "Deterministic key: {team}_{event}_{course}_{gender}_{ageGroup}",
+        "team": "USMS team code (always COLM)",
+        "event": "Event name, e.g. '100 Y Freestyle'",
+        "course": "Pool course: scy (Short Course Yards), scm (Short Course Meters), or lcm (Long Course Meters)",
+        "gender": "men or women",
+        "ageGroup": "USMS age group, e.g. '25-29', '30-34'",
+        "time": "Formatted swim time, e.g. '1:01.29'",
+        "timeInSeconds": "Numeric time in seconds for sorting/comparison",
+        "swimmer": "Swimmer's full name",
+        "date": "Date of the swim (ISO string or null)",
+        "meet": "Name of the meet where the time was recorded",
+        "year": "Year the time was recorded"
+      }
+    }
+  ],
+  "source": "US Masters Swimming (usms.org) top times database",
+  "lastUpdated": "2026-02-09"
+}
