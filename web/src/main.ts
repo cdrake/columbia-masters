@@ -1,6 +1,16 @@
+import { Marked } from "marked";
 import type { TeamRecord, SiteEvent, ScheduleEntry, BoardMember } from "./types";
 import { fetchAllSheets } from "./sheets";
 import "./style.css";
+
+const marked = new Marked();
+
+/** Parse inline markdown to HTML. Links open in a new tab. */
+function md(s: string): string {
+  if (!s) return "";
+  const html = marked.parseInline(s) as string;
+  return html.replace(/<a /g, '<a target="_blank" rel="noopener" ');
+}
 
 let allRecords: TeamRecord[] = [];
 let sortKey: keyof TeamRecord = "time";
@@ -195,7 +205,7 @@ function renderEvents(events: SiteEvent[]) {
         <div class="event-date"><span class="month">${esc(month)}</span><span class="day">${esc(day)}</span></div>
         <div class="event-info">
           <h3>${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</h3>
-          <p>${esc(e.location)}${e.notes ? " &mdash; " + esc(e.notes) : ""}</p>
+          <p>${esc(e.location)}${e.notes ? " &mdash; " + md(e.notes) : ""}</p>
         </div>
       </article>`;
     })
@@ -238,22 +248,22 @@ function renderBoard(members: BoardMember[]) {
 
 function renderContent(content: Record<string, string>) {
   if (content.hero_sub) {
-    $<HTMLParagraphElement>("#hero-sub").textContent = content.hero_sub;
+    $<HTMLParagraphElement>("#hero-sub").innerHTML = md(content.hero_sub);
   }
   if (content.hero_tagline) {
-    $<HTMLParagraphElement>("#hero-tagline").textContent = content.hero_tagline;
+    $<HTMLParagraphElement>("#hero-tagline").innerHTML = md(content.hero_tagline);
   }
   if (content.about_text) {
     const el = $<HTMLDivElement>("#about-text");
     const paragraphs = [content.about_text, content.about_text_2, content.about_text_3].filter(Boolean);
-    el.innerHTML = paragraphs.map((p) => `<p>${esc(p)}</p>`).join("");
+    el.innerHTML = paragraphs.map((p) => `<p>${md(p)}</p>`).join("");
   }
   if (content.schedule_note) {
-    $<HTMLParagraphElement>("#schedule-note").innerHTML = esc(content.schedule_note);
+    $<HTMLParagraphElement>("#schedule-note").innerHTML = md(content.schedule_note);
   }
   if (content.alert_message?.trim()) {
     const banner = $<HTMLDivElement>("#site-alert");
-    $<HTMLSpanElement>("#site-alert-text").textContent = content.alert_message;
+    $<HTMLSpanElement>("#site-alert-text").innerHTML = md(content.alert_message);
     banner.hidden = false;
     $<HTMLButtonElement>("#site-alert-dismiss").addEventListener("click", () => {
       banner.hidden = true;
