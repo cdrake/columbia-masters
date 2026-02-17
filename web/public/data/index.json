@@ -12,7 +12,7 @@
       "name": "All Team Records",
       "url": "https://www.columbiamastersswim.org/data/COLM_all_records.json",
       "format": "JSON array",
-      "records": 505,
+      "records": 517,
       "description": "All COLM top times across every course, event, gender, and age group.",
       "schema": {
         "id": "Deterministic key: {team}_{event}_{course}_{gender}_{ageGroup}",
@@ -31,5 +31,5 @@
     }
   ],
   "source": "US Masters Swimming (usms.org) top times database",
-  "lastUpdated": "2026-02-09"
+  "lastUpdated": "2026-02-17"
 }
