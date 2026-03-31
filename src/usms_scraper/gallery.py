@@ -102,6 +102,9 @@ def build_index(gallery_dir: Path) -> dict:
                     "caption": captions.get(img.name, ""),
                 })
 
+        if not photos:
+            continue
+
         events.append({
             "slug": slug,
             "name": meta.get("name", slug),
