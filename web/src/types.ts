@@ -23,6 +23,16 @@ export interface SiteContent {
   value: string;
 }
 
+export interface GalleryEvent {
+  slug: string;
+  name: string;
+  date: string;
+  description: string;
+  type: "meet" | "social";
+  course: string;
+  photos: { file: string; caption: string }[];
+}
+
 export interface TeamRecord {
   id: string;
   team: string;

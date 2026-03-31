@@ -9,6 +9,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
+from .gallery import build_index, create_event_folder, init_from_records
 from .scraper import scrape_team_records, ScraperConfig, USMSScraper
 from .transformer import (
     transform_multiple_csvs,
@@ -339,6 +340,72 @@ def cmd_publish(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_gallery_init(args: argparse.Namespace) -> int:
+    """Scan meet names from CSVs and create a gallery folder for each."""
+    gallery_dir = Path(args.gallery_dir)
+    csv_dir = Path(args.csv_input)
+
+    if not csv_dir.exists():
+        logging.error(f"CSV directory not found: {csv_dir}")
+        return 1
+
+    gallery_dir.mkdir(parents=True, exist_ok=True)
+    logging.info(f"Initializing gallery folders from {csv_dir}...")
+    folders = init_from_records(gallery_dir, csv_dir)
+    logging.info(f"Done. {len(folders)} event folder(s) in {gallery_dir}")
+
+    # Auto-generate index
+    _write_gallery_index(gallery_dir)
+    return 0
+
+
+def cmd_gallery_add(args: argparse.Namespace) -> int:
+    """Add a gallery event folder (for social events or manual meets)."""
+    gallery_dir = Path(args.gallery_dir)
+    gallery_dir.mkdir(parents=True, exist_ok=True)
+
+    folder = create_event_folder(
+        gallery_dir,
+        name=args.name,
+        date=args.date or "",
+        description=args.description or "",
+        event_type=args.type,
+        course=args.course or "",
+    )
+    logging.info(f"Event folder ready: {folder}")
+    logging.info("Drop images into this folder, then run: hatch run gallery-index")
+
+    # Auto-generate index
+    _write_gallery_index(gallery_dir)
+    return 0
+
+
+def cmd_gallery_index(args: argparse.Namespace) -> int:
+    """Scan gallery folders and regenerate index.json."""
+    gallery_dir = Path(args.gallery_dir)
+
+    if not gallery_dir.exists():
+        logging.error(f"Gallery directory not found: {gallery_dir}")
+        return 1
+
+    _write_gallery_index(gallery_dir)
+    return 0
+
+
+def _write_gallery_index(gallery_dir: Path) -> None:
+    """Build and write the gallery index.json."""
+    index = build_index(gallery_dir)
+    index_path = gallery_dir / "index.json"
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+    total_photos = sum(len(e["photos"]) for e in index["events"])
+    logging.info(
+        f"Gallery index: {len(index['events'])} event(s), {total_photos} photo(s) → {index_path}"
+    )
+
+
 def cmd_all(args: argparse.Namespace) -> int:
     """Run scrape + transform."""
     args.output = args.csv_output
@@ -509,6 +576,55 @@ Examples:
     )
     publish_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     publish_parser.set_defaults(func=cmd_publish)
+
+    # Gallery init command
+    gi_parser = subparsers.add_parser(
+        "gallery-init", help="Create gallery folders from existing meet records"
+    )
+    gi_parser.add_argument(
+        "--csv-input", default="./data/csv", help="Directory containing record CSVs"
+    )
+    gi_parser.add_argument(
+        "--gallery-dir",
+        default="./web/public/gallery",
+        help="Gallery directory (default: ./web/public/gallery)",
+    )
+    gi_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    gi_parser.set_defaults(func=cmd_gallery_init)
+
+    # Gallery add command
+    ga_parser = subparsers.add_parser(
+        "gallery-add", help="Add a gallery event folder (meets or social events)"
+    )
+    ga_parser.add_argument("--name", "-n", required=True, help="Event name")
+    ga_parser.add_argument("--date", "-d", default="", help="Event date (YYYY-MM-DD)")
+    ga_parser.add_argument("--description", default="", help="Event description")
+    ga_parser.add_argument(
+        "--type",
+        default="social",
+        choices=["meet", "social"],
+        help="Event type (default: social)",
+    )
+    ga_parser.add_argument("--course", default="", help="Course code (scy/scm/lcm) for meets")
+    ga_parser.add_argument(
+        "--gallery-dir",
+        default="./web/public/gallery",
+        help="Gallery directory (default: ./web/public/gallery)",
+    )
+    ga_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    ga_parser.set_defaults(func=cmd_gallery_add)
+
+    # Gallery index command
+    gx_parser = subparsers.add_parser(
+        "gallery-index", help="Regenerate gallery index.json from event folders"
+    )
+    gx_parser.add_argument(
+        "--gallery-dir",
+        default="./web/public/gallery",
+        help="Gallery directory (default: ./web/public/gallery)",
+    )
+    gx_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    gx_parser.set_defaults(func=cmd_gallery_index)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")

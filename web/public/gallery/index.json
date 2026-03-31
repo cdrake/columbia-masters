@@ -1,0 +1,382 @@
+{
+  "events": [
+    {
+      "slug": "2026-south-carolina-scy-championship",
+      "name": "2026 South Carolina SCY Championship",
+      "date": "2026-02-27",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "51st-annual-jerry-clark-sunbelt-championships",
+      "name": "51st Annual Jerry Clark Sunbelt Championships",
+      "date": "2026-02-11",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": [
+        {
+          "file": "IMG_3202.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "slug": "2025-south-carolina-scm-state-meet",
+      "name": "2025 South Carolina SCM State Meet",
+      "date": "2025-12-06",
+      "description": "",
+      "type": "meet",
+      "course": "scm",
+      "photos": [
+        {
+          "file": "IMG_0112.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_2229.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_2853.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_4100.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_6183.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "slug": "blue-tides-spooky-fall-classic-2025",
+      "name": "Blue Tides Spooky Fall Classic 2025",
+      "date": "2025-10-04",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": [
+        {
+          "file": "IMG_8999.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "slug": "south-carolina-senior-sports-classic",
+      "name": "South Carolina Senior Sports Classic",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "south-carolina-senior-games",
+      "name": "South Carolina Senior Games",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "south-carolina-scm-championships",
+      "name": "South Carolina SCM Championships",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scm",
+      "photos": []
+    },
+    {
+      "slug": "misc",
+      "name": "Miscellaneous",
+      "date": "",
+      "description": "Unmatched photos — help us identify these events!",
+      "type": "social",
+      "course": "",
+      "photos": [
+        {
+          "file": "IMG_2903.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_2905.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_2920.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_3056.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_3057.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_3060.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_3061.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_3062.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_3064.jpg",
+          "caption": ""
+        },
+        {
+          "file": "IMG_4956.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "slug": "maria-thrash-memorial-meet",
+      "name": "Maria Thrash Memorial Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "growler-invitational",
+      "name": "Growler Invitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "blue-tides-dog-days-of-summer-invitational",
+      "name": "Blue Tides Dog Days of Summer Invitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "lcm",
+      "photos": []
+    },
+    {
+      "slug": "blue-tide-spooky-fall-classic",
+      "name": "Blue Tide Spooky Fall Classic",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "6th-annual-growler-invitational",
+      "name": "6th Annual Growler Invitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "50th-annual-jerry-clark-sunbelt-championships",
+      "name": "50th Annual Jerry Clark Sunbelt Championships",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "4th-annual-growler-invitational",
+      "name": "4th Annual Growler Invitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "49th-annual-jerry-clark-sunbelt-swimming-championships",
+      "name": "49th Annual Jerry Clark Sunbelt Swimming Championships",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "46th-annual-sunbelt-meet",
+      "name": "46th Annual Sunbelt Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "43rd-annual-sunbelt-meet",
+      "name": "43rd Annual Sunbelt Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "41st-annual-sunbelt-meet",
+      "name": "41st Annual Sunbelt Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "3rd-annual-growler-invitational",
+      "name": "3rd Annual Growler Invitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "25th-annual-valentine-s-meet",
+      "name": "25th Annual Valentine's Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2026-augusta-winter-festival",
+      "name": "2026 Augusta Winter Festival",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2025-south-carolina-scy-championship",
+      "name": "2025 South Carolina SCY Championship",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2025-masters-funvitational",
+      "name": "2025 Masters Funvitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2025-cola-classic",
+      "name": "2025 Cola Classic",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "lcm",
+      "photos": []
+    },
+    {
+      "slug": "2024-u-s-masters-swimming-spring-national-championship",
+      "name": "2024 U.S. Masters Swimming Spring National Championship",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2024-south-carolina-scy-championship",
+      "name": "2024 South Carolina SCY Championship",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2024-south-carolina-scm-state-meet",
+      "name": "2024 South Carolina SCM State Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scm",
+      "photos": []
+    },
+    {
+      "slug": "2023-south-carolina-scm-state-meet",
+      "name": "2023 South Carolina SCM State Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scm",
+      "photos": []
+    },
+    {
+      "slug": "2021-palmetto-masters-scy-meet",
+      "name": "2021 Palmetto Masters SCY Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2020-south-carolina-scm-state-meet",
+      "name": "2020 South Carolina SCM State Meet",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scm",
+      "photos": []
+    },
+    {
+      "slug": "2016-sunbelt-masters-meet",
+      "name": "2016 SUNBELT MASTERS MEET",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "scy",
+      "photos": []
+    },
+    {
+      "slug": "2016-sc-lcm-championships-shut-up-amp-swim-roy-dessloch-invitational",
+      "name": "2016 SC LCM Championships ~ Shut Up &amp; Swim Roy Dessloch Invitational",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "lcm",
+      "photos": []
+    },
+    {
+      "slug": "2015-georgia-lcm-state-championships",
+      "name": "2015 Georgia LCM State Championships",
+      "date": "",
+      "description": "",
+      "type": "meet",
+      "course": "lcm",
+      "photos": []
+    }
+  ]
+}

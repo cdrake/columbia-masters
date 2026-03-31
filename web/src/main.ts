@@ -1,5 +1,5 @@
 import { Marked } from "marked";
-import type { TeamRecord, SiteEvent, ScheduleEntry, BoardMember } from "./types";
+import type { TeamRecord, SiteEvent, ScheduleEntry, BoardMember, GalleryEvent } from "./types";
 import { fetchAllSheets } from "./sheets";
 import "./style.css";
 
@@ -29,6 +29,7 @@ async function init() {
 
   if (sheetData.events.length) renderEvents(sheetData.events);
   if (sheetData.schedule.length) renderSchedule(sheetData.schedule);
+  await initGallery();
   if (sheetData.board.length) renderBoard(sheetData.board);
   if (Object.keys(sheetData.content).length) renderContent(sheetData.content);
 
@@ -218,6 +219,139 @@ function parseEventDate(s: string): Date | null {
   const [y, m, d] = s.split("-").map(Number);
   if (!y || !m || !d) return null;
   return new Date(y, m - 1, d);
+}
+
+let galleryEvents: GalleryEvent[] = [];
+
+async function initGallery() {
+  try {
+    const res = await fetch(`${import.meta.env.BASE_URL}gallery/index.json`);
+    if (!res.ok) return;
+    const data = await res.json();
+    galleryEvents = ((data.events ?? []) as GalleryEvent[]).filter((e) => e.photos.length > 0);
+  } catch {
+    return;
+  }
+  if (!galleryEvents.length) return;
+
+  $<HTMLElement>("#gallery").hidden = false;
+  renderGalleryNav();
+  selectGalleryEvent(galleryEvents[0].slug);
+  wireGalleryLightbox();
+}
+
+function renderGalleryNav() {
+  const nav = $<HTMLDivElement>("#gallery-nav");
+  nav.innerHTML = galleryEvents
+    .map((evt) => {
+      const d = parseEventDate(evt.date);
+      const dateLabel = d
+        ? d.toLocaleDateString("en-US", { month: "short", year: "numeric" })
+        : "";
+      const typeClass = evt.type === "social" ? "gallery-tab-social" : "gallery-tab-meet";
+      return `<button class="gallery-tab ${typeClass}" data-slug="${esc(evt.slug)}">
+        <span class="gallery-tab-name">${esc(evt.name)}</span>
+        ${dateLabel ? `<span class="gallery-tab-date">${esc(dateLabel)}</span>` : ""}
+      </button>`;
+    })
+    .join("");
+
+  nav.addEventListener("click", (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLButtonElement>(".gallery-tab");
+    if (btn?.dataset.slug) selectGalleryEvent(btn.dataset.slug);
+  });
+}
+
+function selectGalleryEvent(slug: string) {
+  const evt = galleryEvents.find((e) => e.slug === slug);
+  if (!evt) return;
+
+  // Update active tab
+  for (const tab of document.querySelectorAll<HTMLButtonElement>(".gallery-tab")) {
+    tab.classList.toggle("active", tab.dataset.slug === slug);
+  }
+
+  const detail = $<HTMLDivElement>("#gallery-detail");
+  const base = `${import.meta.env.BASE_URL}gallery/${evt.slug}/`;
+
+  const d = parseEventDate(evt.date);
+  const dateStr = d
+    ? d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })
+    : "";
+
+  const photosHtml = evt.photos.length
+    ? evt.photos
+        .map(
+          (p) => `<figure class="gallery-photo">
+          <img src="${esc(base + p.file)}" alt="${esc(p.caption || evt.name)}" loading="lazy" />
+          ${p.caption ? `<figcaption>${esc(p.caption)}</figcaption>` : ""}
+        </figure>`
+        )
+        .join("")
+    : `<p class="gallery-empty">No photos yet — drop images into the <code>${esc(evt.slug)}</code> folder and run <code>hatch run gallery-index</code>.</p>`;
+
+  const records = findMatchingRecords(evt.name, evt.course);
+  const recordsHtml =
+    evt.type === "meet" && records.length
+      ? `<details class="gallery-records">
+          <summary>Team Records from This Meet (${records.length})</summary>
+          <div class="table-wrap">
+            <table>
+              <thead><tr>
+                <th>Event</th><th>Swimmer</th><th>Time</th>
+                <th>Age Group</th><th>Gender</th>
+              </tr></thead>
+              <tbody>${records
+                .sort((a, b) => a.event.localeCompare(b.event))
+                .map(
+                  (r) => `<tr>
+                  <td>${esc(r.event)}</td>
+                  <td>${esc(r.swimmer)}</td>
+                  <td class="time">${esc(r.time)}</td>
+                  <td>${esc(r.ageGroup)}</td>
+                  <td>${esc(capitalize(r.gender))}</td>
+                </tr>`
+                )
+                .join("")}</tbody>
+            </table>
+          </div>
+        </details>`
+      : "";
+
+  detail.innerHTML = `
+    <div class="gallery-event-header">
+      <h3>${esc(evt.name)}</h3>
+      <div class="gallery-event-meta">
+        ${dateStr ? `<span class="gallery-date">${esc(dateStr)}</span>` : ""}
+        <span class="badge ${evt.type === "social" ? "badge-social" : "badge-meet"}">${esc(evt.type)}</span>
+      </div>
+    </div>
+    ${evt.description ? `<p class="gallery-description">${md(evt.description)}</p>` : ""}
+    <div class="gallery-photos ${evt.photos.length === 1 ? "gallery-photos-single" : ""}">${photosHtml}</div>
+    ${recordsHtml}
+  `;
+}
+
+function findMatchingRecords(meet: string, course: string): TeamRecord[] {
+  const meetLower = meet.toLowerCase();
+  return allRecords.filter((r) => {
+    if (!r.meet) return false;
+    const rMeet = r.meet.toLowerCase();
+    if (course && r.course.toLowerCase() !== course) return false;
+    return rMeet.includes(meetLower) || meetLower.includes(rMeet);
+  });
+}
+
+function wireGalleryLightbox() {
+  $<HTMLDivElement>("#gallery-detail").addEventListener("click", (e) => {
+    const img = (e.target as HTMLElement).closest(".gallery-photo img") as HTMLImageElement | null;
+    if (!img) return;
+    const overlay = document.createElement("div");
+    overlay.className = "gallery-lightbox";
+    overlay.innerHTML = `<img src="${img.src}" alt="${img.alt}" />`;
+    overlay.addEventListener("click", () => overlay.remove());
+    document.body.appendChild(overlay);
+  });
 }
 
 function renderSchedule(entries: ScheduleEntry[]) {

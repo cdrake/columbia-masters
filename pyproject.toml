@@ -40,6 +40,9 @@ transform = "python -m usms_scraper.cli transform {args}"
 all = "python -m usms_scraper.cli all {args}"
 update = "python -m usms_scraper.cli update {args}"
 publish = "python -m usms_scraper.cli publish {args}"
+gallery-init = "python -m usms_scraper.cli gallery-init {args}"
+gallery-add = "python -m usms_scraper.cli gallery-add {args}"
+gallery-index = "python -m usms_scraper.cli gallery-index {args}"
 
 [tool.ruff]
 line-length = 100
