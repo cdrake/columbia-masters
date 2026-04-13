@@ -257,6 +257,12 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.schedule-location {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
 .badge {
   display: inline-block;
   font-size: 0.7rem;

@@ -11,6 +11,7 @@ export interface ScheduleEntry {
   day: string;
   time: string;
   type: string;
+  location?: string;
 }
 
 export interface BoardMember {

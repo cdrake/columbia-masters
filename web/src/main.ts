@@ -359,10 +359,12 @@ function renderSchedule(entries: ScheduleEntry[]) {
   el.innerHTML = entries
     .map((e) => {
       const badgeClass = e.type?.toLowerCase().includes("closed") ? "badge-closed" : "badge-open";
+      const location = e.location?.trim();
       return `<div class="schedule-card">
         <div class="schedule-day">${esc(e.day)}</div>
         <div class="schedule-time">${esc(e.time)}</div>
         <span class="badge ${badgeClass}">${esc(e.type)}</span>
+        ${location ? `<div class="schedule-location">${esc(location)}</div>` : ""}
       </div>`;
     })
     .join("");
