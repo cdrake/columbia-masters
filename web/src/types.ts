@@ -24,6 +24,12 @@ export interface SiteContent {
   value: string;
 }
 
+export interface LocationEntry {
+  slug: string;
+  name: string;
+  photos: { file: string; caption: string }[];
+}
+
 export interface GalleryEvent {
   slug: string;
   name: string;

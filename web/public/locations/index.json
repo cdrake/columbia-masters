@@ -1,0 +1,24 @@
+{
+  "locations": [
+    {
+      "slug": "blatt-pe-center",
+      "name": "Blatt PE Center",
+      "photos": []
+    },
+    {
+      "slug": "columbia-college",
+      "name": "Columbia College",
+      "photos": [
+        {
+          "file": "1000013910.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "slug": "drew-wellness-center",
+      "name": "Drew Wellness Center",
+      "photos": []
+    }
+  ]
+}

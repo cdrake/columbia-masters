@@ -10,6 +10,7 @@ from datetime import date
 from pathlib import Path
 
 from .gallery import build_index, create_event_folder, init_from_records
+from .locations import build_index as build_locations_index, create_location_folder
 from .scraper import scrape_team_records, ScraperConfig, USMSScraper
 from .transformer import (
     transform_multiple_csvs,
@@ -406,6 +407,39 @@ def _write_gallery_index(gallery_dir: Path) -> None:
     )
 
 
+def cmd_locations_add(args: argparse.Namespace) -> int:
+    """Create a location folder for practice location images."""
+    locations_dir = Path(args.locations_dir)
+    locations_dir.mkdir(parents=True, exist_ok=True)
+    create_location_folder(locations_dir, args.name)
+    _write_locations_index(locations_dir)
+    return 0
+
+
+def cmd_locations_index(args: argparse.Namespace) -> int:
+    """Scan location folders and regenerate locations/index.json."""
+    locations_dir = Path(args.locations_dir)
+    if not locations_dir.exists():
+        logging.error(f"Locations directory not found: {locations_dir}")
+        return 1
+    _write_locations_index(locations_dir)
+    return 0
+
+
+def _write_locations_index(locations_dir: Path) -> None:
+    """Build and write the locations index.json."""
+    index = build_locations_index(locations_dir)
+    index_path = locations_dir / "index.json"
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    total_photos = sum(len(loc["photos"]) for loc in index["locations"])
+    logging.info(
+        f"Locations index: {len(index['locations'])} location(s), "
+        f"{total_photos} photo(s) → {index_path}"
+    )
+
+
 def cmd_all(args: argparse.Namespace) -> int:
     """Run scrape + transform."""
     args.output = args.csv_output
@@ -625,6 +659,31 @@ Examples:
     )
     gx_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     gx_parser.set_defaults(func=cmd_gallery_index)
+
+    # Locations add command
+    la_parser = subparsers.add_parser(
+        "locations-add", help="Create a practice location folder for images"
+    )
+    la_parser.add_argument("--name", "-n", required=True, help="Location name")
+    la_parser.add_argument(
+        "--locations-dir",
+        default="./web/public/locations",
+        help="Locations directory (default: ./web/public/locations)",
+    )
+    la_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    la_parser.set_defaults(func=cmd_locations_add)
+
+    # Locations index command
+    lx_parser = subparsers.add_parser(
+        "locations-index", help="Regenerate locations/index.json from location folders"
+    )
+    lx_parser.add_argument(
+        "--locations-dir",
+        default="./web/public/locations",
+        help="Locations directory (default: ./web/public/locations)",
+    )
+    lx_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    lx_parser.set_defaults(func=cmd_locations_index)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")

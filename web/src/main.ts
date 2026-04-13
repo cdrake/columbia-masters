@@ -1,5 +1,12 @@
 import { Marked } from "marked";
-import type { TeamRecord, SiteEvent, ScheduleEntry, BoardMember, GalleryEvent } from "./types";
+import type {
+  TeamRecord,
+  SiteEvent,
+  ScheduleEntry,
+  BoardMember,
+  GalleryEvent,
+  LocationEntry,
+} from "./types";
 import { fetchAllSheets } from "./sheets";
 import "./style.css";
 
@@ -30,6 +37,7 @@ async function init() {
   if (sheetData.events.length) renderEvents(sheetData.events);
   if (sheetData.schedule.length) renderSchedule(sheetData.schedule);
   await initGallery();
+  await initLocationInfo(sheetData.schedule, sheetData.content);
   if (sheetData.board.length) renderBoard(sheetData.board);
   if (Object.keys(sheetData.content).length) renderContent(sheetData.content);
 
@@ -368,6 +376,84 @@ function renderSchedule(entries: ScheduleEntry[]) {
       </div>`;
     })
     .join("");
+}
+
+function locationSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+async function initLocationInfo(
+  schedule: ScheduleEntry[],
+  content: Record<string, string>
+) {
+  const container = $<HTMLDivElement>("#location-info");
+  container.innerHTML = "";
+
+  const uniqueLocations = [
+    ...new Map(
+      schedule
+        .map((s) => s.location?.trim())
+        .filter((l): l is string => !!l)
+        .map((l) => [locationSlug(l), l])
+    ).entries(),
+  ];
+  if (!uniqueLocations.length) return;
+
+  let locationsByslug = new Map<string, LocationEntry>();
+  try {
+    const res = await fetch(`${import.meta.env.BASE_URL}locations/index.json`);
+    if (res.ok) {
+      const data = await res.json();
+      for (const loc of (data.locations ?? []) as LocationEntry[]) {
+        locationsByslug.set(loc.slug, loc);
+      }
+    }
+  } catch {
+    // ignore
+  }
+
+  const sections: string[] = [];
+  for (const [slug, name] of uniqueLocations) {
+    const loc = locationsByslug.get(slug);
+    const photos = loc?.photos ?? [];
+    const infoHtml = (content[`location_info_${slug}`] ?? "").trim();
+    if (!photos.length && !infoHtml) continue;
+
+    const base = `${import.meta.env.BASE_URL}locations/${slug}/`;
+    const photosHtml = photos.length
+      ? `<div class="location-photos">${photos
+          .map(
+            (p) => `<figure class="location-photo">
+              <img src="${esc(base + p.file)}" alt="${esc(p.caption || name)}" loading="lazy" />
+              ${p.caption ? `<figcaption>${esc(p.caption)}</figcaption>` : ""}
+            </figure>`
+          )
+          .join("")}</div>`
+      : "";
+
+    sections.push(`<details class="location-section">
+      <summary><span class="location-pin">📍</span> ${esc(name)}</summary>
+      <div class="location-body">
+        ${infoHtml ? `<div class="location-text">${infoHtml}</div>` : ""}
+        ${photosHtml}
+      </div>
+    </details>`);
+  }
+
+  container.innerHTML = sections.join("");
+
+  container.addEventListener("click", (e) => {
+    const img = (e.target as HTMLElement).closest(".location-photo img") as HTMLImageElement | null;
+    if (!img) return;
+    const overlay = document.createElement("div");
+    overlay.className = "gallery-lightbox";
+    overlay.innerHTML = `<img src="${img.src}" alt="${img.alt}" />`;
+    overlay.addEventListener("click", () => overlay.remove());
+    document.body.appendChild(overlay);
+  });
 }
 
 function renderBoard(members: BoardMember[]) {
