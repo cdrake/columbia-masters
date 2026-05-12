@@ -205,7 +205,13 @@ function render() {
 
 function renderEvents(events: SiteEvent[]) {
   const el = $<HTMLDivElement>("#events-list");
-  el.innerHTML = events
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const upcoming = events.filter((e) => {
+    const end = parseEventDate(e.endDate) ?? parseEventDate(e.date);
+    return end ? end >= today : true;
+  });
+  el.innerHTML = upcoming
     .map((e) => {
       const d = parseEventDate(e.date);
       const month = d ? d.toLocaleString("en", { month: "short" }) : "";
