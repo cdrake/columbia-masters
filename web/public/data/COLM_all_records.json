@@ -4262,11 +4262,11 @@
     "course": "scy",
     "gender": "women",
     "ageGroup": "65-69",
-    "time": "1:50.81",
-    "timeInSeconds": 110.81,
+    "time": "1:48.05",
+    "timeInSeconds": 108.05,
     "swimmer": "Patricia Graham",
     "date": null,
-    "meet": "51st Annual Jerry Clark Sunbelt Championships",
+    "meet": "South Carolina Senior Games",
     "year": "2026"
   },
   {
@@ -4290,11 +4290,11 @@
     "course": "scy",
     "gender": "women",
     "ageGroup": "65-69",
-    "time": "1:49.87",
-    "timeInSeconds": 109.87,
+    "time": "1:49.53",
+    "timeInSeconds": 109.53,
     "swimmer": "Patricia Graham",
     "date": null,
-    "meet": "2026 Augusta Winter Festival",
+    "meet": "South Carolina Senior Games",
     "year": "2026"
   },
   {
@@ -4318,11 +4318,11 @@
     "course": "scy",
     "gender": "women",
     "ageGroup": "65-69",
-    "time": "1:48.16",
-    "timeInSeconds": 108.16,
+    "time": "1:42.81",
+    "timeInSeconds": 102.81,
     "swimmer": "Patricia Graham",
     "date": null,
-    "meet": "2025 Masters Funvitational",
+    "meet": "South Carolina Senior Games",
     "year": "2026"
   },
   {
@@ -4956,6 +4956,20 @@
     "year": "2026"
   },
   {
+    "id": "COLM_50_y_freestyle_scy_men_55_59",
+    "team": "COLM",
+    "event": "50 Y Freestyle",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "55-59",
+    "time": "45.14",
+    "timeInSeconds": 45.14,
+    "swimmer": "Michael B Simmons",
+    "date": null,
+    "meet": "South Carolina Senior Games",
+    "year": "2026"
+  },
+  {
     "id": "COLM_100_y_freestyle_scy_men_55_59",
     "team": "COLM",
     "event": "100 Y Freestyle",
@@ -5130,11 +5144,11 @@
     "course": "scy",
     "gender": "men",
     "ageGroup": "60-64",
-    "time": "36.72",
-    "timeInSeconds": 36.72,
+    "time": "36.55",
+    "timeInSeconds": 36.55,
     "swimmer": "Bradley D Smith",
     "date": null,
-    "meet": "2026 South Carolina SCY Championship",
+    "meet": "South Carolina Senior Games",
     "year": "2026"
   },
   {
