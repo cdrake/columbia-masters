@@ -7698,5 +7698,33 @@
     "date": null,
     "meet": "2020 South Carolina SCM State Meet",
     "year": "2020"
+  },
+  {
+    "id": "COLM_50_m_freestyle_lcm_women_18_24",
+    "team": "COLM",
+    "event": "50 M Freestyle",
+    "course": "lcm",
+    "gender": "women",
+    "ageGroup": "18-24",
+    "time": "38.99",
+    "timeInSeconds": 38.99,
+    "swimmer": "Ava Li",
+    "date": null,
+    "meet": "2026 Augusta Dog Days of Summer LCM",
+    "year": "2026"
+  },
+  {
+    "id": "COLM_50_m_breaststroke_lcm_women_18_24",
+    "team": "COLM",
+    "event": "50 M Breaststroke",
+    "course": "lcm",
+    "gender": "women",
+    "ageGroup": "18-24",
+    "time": "55.81",
+    "timeInSeconds": 55.81,
+    "swimmer": "Ava Li",
+    "date": null,
+    "meet": "2026 Augusta Dog Days of Summer LCM",
+    "year": "2026"
   }
 ]
