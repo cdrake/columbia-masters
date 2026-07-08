@@ -12,6 +12,7 @@ from pathlib import Path
 from .gallery import build_index, create_event_folder, init_from_records
 from .locations import build_index as build_locations_index, create_location_folder
 from .scraper import scrape_team_records, ScraperConfig, USMSScraper
+from .tenants import Tenant, load_tenant, load_tenants
 from .transformer import (
     transform_multiple_csvs,
     generate_firebase_import,
@@ -163,13 +164,66 @@ def _save_records_csv(records: list[dict], path: Path) -> None:
         writer.writerows(records)
 
 
-def _update_data_index(web_data_dir: Path, record_count: int) -> None:
-    """Update the records count and lastUpdated date in index.json."""
+def _new_data_index(tenant: Tenant, record_count: int) -> dict:
+    """Create a fresh data index.json from tenant config."""
+    c = tenant.raw
+    city_region = f"{c['address']['city']}, {c['address']['region']}"
+    return {
+        "name": f"{tenant.name} ({tenant.team_code}) — Team Records",
+        "description": (
+            f"Top times and team records for {tenant.team_code}, a US Masters Swimming club "
+            f"in {city_region}. Each record represents the fastest time by a "
+            f"{tenant.team_code} swimmer in a given event, course, gender, and age group."
+        ),
+        "organization": {
+            "name": tenant.name,
+            "teamCode": tenant.team_code,
+            "location": city_region,
+            "website": tenant.domain,
+        },
+        "datasets": [
+            {
+                "name": "All Team Records",
+                "url": f"{tenant.domain}/data/{tenant.team_code}_all_records.json",
+                "format": "JSON array",
+                "records": record_count,
+                "description": (
+                    f"All {tenant.team_code} top times across every course, event, "
+                    f"gender, and age group."
+                ),
+                "schema": {
+                    "id": "Deterministic key: {team}_{event}_{course}_{gender}_{ageGroup}",
+                    "team": f"USMS team code (always {tenant.team_code})",
+                    "event": "Event name, e.g. '100 Y Freestyle'",
+                    "course": (
+                        "Pool course: scy (Short Course Yards), scm (Short Course Meters), "
+                        "or lcm (Long Course Meters)"
+                    ),
+                    "gender": "men or women",
+                    "ageGroup": "USMS age group, e.g. '25-29', '30-34'",
+                    "time": "Formatted swim time, e.g. '1:01.29'",
+                    "timeInSeconds": "Numeric time in seconds for sorting/comparison",
+                    "swimmer": "Swimmer's full name",
+                    "date": "Date of the swim (ISO string or null)",
+                    "meet": "Name of the meet where the time was recorded",
+                    "year": "Year the time was recorded",
+                },
+            }
+        ],
+        "source": "US Masters Swimming (usms.org) top times database",
+    }
+
+
+def _update_data_index(web_data_dir: Path, record_count: int, tenant: Tenant | None = None) -> None:
+    """Update records count and lastUpdated in index.json, creating it from tenant if missing."""
     index_path = web_data_dir / "index.json"
-    if not index_path.exists():
+    if index_path.exists():
+        with open(index_path, "r", encoding="utf-8") as f:
+            index = json.load(f)
+    elif tenant is not None:
+        index = _new_data_index(tenant, record_count)
+    else:
         return
-    with open(index_path, "r", encoding="utf-8") as f:
-        index = json.load(f)
     for dataset in index.get("datasets", []):
         dataset["records"] = record_count
     index["lastUpdated"] = date.today().isoformat()
@@ -179,142 +233,104 @@ def _update_data_index(web_data_dir: Path, record_count: int) -> None:
     logging.info(f"  Updated {index_path} (records: {record_count}, date: {index['lastUpdated']})")
 
 
-def cmd_update(args: argparse.Namespace) -> int:
-    """Scrape the current year and only update CSVs when new or changed records are found."""
-    current_year = date.today().year
-    output_dir = Path(args.output)
-    courses = [c.strip().upper() for c in args.courses.split(",")]
+def _scrape_and_diff(
+    team: str,
+    csv_dir: Path,
+    lmsc_id: str,
+    years: list[int],
+    courses: list[str],
+    delay: float,
+    headless: bool = True,
+    save_debug_html: bool = False,
+) -> bool:
+    """Scrape the given years and update CSVs only when records changed. Returns True on change."""
+    config = ScraperConfig(
+        team_code=team,
+        output_dir=csv_dir,
+        lmsc_id=lmsc_id,
+        years=years,
+        courses=courses,
+        delay_between_requests=delay,
+        headless=headless,
+        save_debug_html=save_debug_html,
+    )
+    scraper = USMSScraper(config)
+    scraped = scraper.scrape_all_raw()
 
-    logging.info(f"Updating {args.team} records for {current_year} ({', '.join(courses)})")
+    any_changes = False
 
-    try:
-        config = ScraperConfig(
-            team_code=args.team,
-            output_dir=output_dir,
-            lmsc_id=args.lmsc,
-            years=[current_year],
-            courses=courses,
-            delay_between_requests=args.delay,
-            headless=not args.show_browser,
-            save_debug_html=args.debug_html,
-        )
-        scraper = USMSScraper(config)
-        scraped = scraper.scrape_all_raw()
+    for (year, course), new_records in scraped.items():
+        csv_path = csv_dir / f"{team}_{course.lower()}_{year}_records.csv"
+        existing = _load_existing_csv(csv_path)
 
-        any_changes = False
+        # Build lookup of existing records by key
+        existing_by_key = {_record_key(r): _record_content(r) for r in existing}
+        new_by_key = {_record_key(r): _record_content(r) for r in new_records}
 
-        for (year, course), new_records in scraped.items():
-            csv_path = output_dir / f"{args.team}_{course.lower()}_{year}_records.csv"
-            existing = _load_existing_csv(csv_path)
+        # Detect changes
+        added = []
+        updated = []
+        for r in new_records:
+            key = _record_key(r)
+            if key not in existing_by_key:
+                added.append(r)
+            elif _record_content(r) != existing_by_key[key]:
+                updated.append(r)
 
-            # Build lookup of existing records by key
-            existing_by_key = {_record_key(r): _record_content(r) for r in existing}
-            new_by_key = {_record_key(r): _record_content(r) for r in new_records}
+        if not added and not updated and len(new_records) == len(existing):
+            logging.info(f"  {course} {year}: no changes")
+            continue
 
-            # Detect changes
-            added = []
-            updated = []
-            for r in new_records:
+        any_changes = True
+
+        if added:
+            logging.info(f"  {course} {year}: {len(added)} new record(s)")
+            for r in added:
+                logging.info(
+                    f"    + {r['gender']} {r['age_group']} {r['event']}"
+                    f" — {r['time']} ({r['swimmer']})"
+                )
+
+        if updated:
+            logging.info(f"  {course} {year}: {len(updated)} updated record(s)")
+            for r in updated:
                 key = _record_key(r)
-                if key not in existing_by_key:
-                    added.append(r)
-                elif _record_content(r) != existing_by_key[key]:
-                    updated.append(r)
+                old = existing_by_key[key]
+                logging.info(
+                    f"    ~ {r['gender']} {r['age_group']} {r['event']}"
+                    f" — {old[0]} -> {r['time']} ({r['swimmer']})"
+                )
 
-            if not added and not updated and len(new_records) == len(existing):
-                logging.info(f"  {course} {year}: no changes")
-                continue
+        removed_count = len(existing_by_key) - len(set(existing_by_key) & set(new_by_key))
+        if removed_count:
+            logging.info(f"  {course} {year}: {removed_count} record(s) no longer in results")
 
-            any_changes = True
+        _save_records_csv(new_records, csv_path)
+        logging.info(f"  Wrote {len(new_records)} records to {csv_path.name}")
 
-            if added:
-                logging.info(f"  {course} {year}: {len(added)} new record(s)")
-                for r in added:
-                    logging.info(
-                        f"    + {r['gender']} {r['age_group']} {r['event']}"
-                        f" — {r['time']} ({r['swimmer']})"
-                    )
-
-            if updated:
-                logging.info(f"  {course} {year}: {len(updated)} updated record(s)")
-                for r in updated:
-                    key = _record_key(r)
-                    old = existing_by_key[key]
-                    logging.info(
-                        f"    ~ {r['gender']} {r['age_group']} {r['event']}"
-                        f" — {old[0]} -> {r['time']} ({r['swimmer']})"
-                    )
-
-            removed_count = len(existing_by_key) - len(set(existing_by_key) & set(new_by_key))
-            if removed_count:
-                logging.info(f"  {course} {year}: {removed_count} record(s) no longer in results")
-
-            _save_records_csv(new_records, csv_path)
-            logging.info(f"  Wrote {len(new_records)} records to {csv_path.name}")
-
-        if not any_changes:
-            logging.info("No changes detected — data is up to date.")
-            return 0
-
-        # Transform all CSVs to JSON
-        logging.info("Running transform...")
-        csv_files = list(output_dir.glob("*.csv"))
-        json_output = Path(args.json_output)
-        json_output.mkdir(parents=True, exist_ok=True)
-
-        combined_path = json_output / f"{args.team}_all_records.json"
-        all_records = transform_multiple_csvs(
-            csv_paths=csv_files,
-            output_dir=json_output,
-            combined_output=combined_path,
-            pretty=True,
-        )
-
-        combined_records = []
-        for records in all_records.values():
-            combined_records.extend(records)
-
-        if args.firebase:
-            firebase_path = json_output / f"{args.team}_firebase_import.json"
-            generate_firebase_import(combined_records, firebase_path)
-            logging.info(f"  Firebase import: {firebase_path}")
-
-        logging.info(f"  Transform complete. Output in {json_output}")
-
-        # Copy combined JSON to web public data directory
-        web_data_dir = Path(args.web_data)
-        web_data_dir.mkdir(parents=True, exist_ok=True)
-        dest = web_data_dir / combined_path.name
-        shutil.copy2(combined_path, dest)
-        logging.info(f"  Updated website data: {dest}")
-
-        _update_data_index(web_data_dir, len(combined_records))
-
-        return 0
-
-    except Exception as e:
-        logging.error(f"Update failed: {e}")
-        return 1
+    return any_changes
 
 
-def cmd_publish(args: argparse.Namespace) -> int:
-    """Transform existing CSVs and copy JSON to the web public data directory."""
-    csv_dir = Path(args.csv_input)
-    json_output = Path(args.json_output)
-    web_data_dir = Path(args.web_data)
-
+def _publish_records(
+    team: str,
+    csv_dir: Path,
+    json_dir: Path,
+    web_data_dir: Path,
+    firebase: bool = False,
+    tenant: Tenant | None = None,
+) -> int:
+    """Transform all CSVs and copy the combined JSON to the web data dir. Returns record count."""
     csv_files = list(csv_dir.glob("*.csv"))
     if not csv_files:
-        logging.error(f"No CSV files found in {csv_dir}")
-        return 1
+        raise FileNotFoundError(f"No CSV files found in {csv_dir}")
 
     logging.info(f"Transforming {len(csv_files)} CSV file(s)...")
-    json_output.mkdir(parents=True, exist_ok=True)
+    json_dir.mkdir(parents=True, exist_ok=True)
 
-    combined_path = json_output / f"{args.team}_all_records.json"
+    combined_path = json_dir / f"{team}_all_records.json"
     all_records = transform_multiple_csvs(
         csv_paths=csv_files,
-        output_dir=json_output,
+        output_dir=json_dir,
         combined_output=combined_path,
         pretty=True,
     )
@@ -323,28 +339,199 @@ def cmd_publish(args: argparse.Namespace) -> int:
     for records in all_records.values():
         combined_records.extend(records)
 
-    if args.firebase:
-        firebase_path = json_output / f"{args.team}_firebase_import.json"
+    if firebase:
+        firebase_path = json_dir / f"{team}_firebase_import.json"
         generate_firebase_import(combined_records, firebase_path)
         logging.info(f"  Firebase import: {firebase_path}")
 
-    logging.info(f"  Transform complete. Output in {json_output}")
+    logging.info(f"  Transform complete. Output in {json_dir}")
 
     web_data_dir.mkdir(parents=True, exist_ok=True)
     dest = web_data_dir / combined_path.name
     shutil.copy2(combined_path, dest)
     logging.info(f"  Updated website data: {dest}")
-    logging.info(f"  Total records: {len(combined_records)}")
 
-    _update_data_index(web_data_dir, len(combined_records))
+    _update_data_index(web_data_dir, len(combined_records), tenant)
 
+    return len(combined_records)
+
+
+def cmd_update(args: argparse.Namespace) -> int:
+    """Scrape the current year and only update CSVs when new or changed records are found."""
+    tenant = load_tenant(args.tenant) if args.tenant else None
+    team = args.team or (tenant.team_code if tenant else None)
+    if not team:
+        logging.error("Provide --team or --tenant")
+        return 1
+    lmsc = args.lmsc or (tenant.lmsc_id if tenant else "55")
+    csv_dir = (
+        Path(args.output) if args.output else (tenant.csv_dir if tenant else Path("./data/csv"))
+    )
+    json_dir = (
+        Path(args.json_output)
+        if args.json_output
+        else (tenant.json_dir if tenant else Path("./data/json"))
+    )
+    web_data_dir = (
+        Path(args.web_data) if args.web_data else (tenant.web_data_dir if tenant else None)
+    )
+    if web_data_dir is None:
+        logging.error("Provide --web-data or --tenant")
+        return 1
+
+    current_year = date.today().year
+    courses = [c.strip().upper() for c in args.courses.split(",")]
+
+    logging.info(f"Updating {team} records for {current_year} ({', '.join(courses)})")
+
+    try:
+        any_changes = _scrape_and_diff(
+            team=team,
+            csv_dir=csv_dir,
+            lmsc_id=lmsc,
+            years=[current_year],
+            courses=courses,
+            delay=args.delay,
+            headless=not args.show_browser,
+            save_debug_html=args.debug_html,
+        )
+
+        if not any_changes:
+            logging.info("No changes detected — data is up to date.")
+            return 0
+
+        logging.info("Running transform...")
+        _publish_records(
+            team=team,
+            csv_dir=csv_dir,
+            json_dir=json_dir,
+            web_data_dir=web_data_dir,
+            firebase=args.firebase,
+            tenant=tenant,
+        )
+        return 0
+
+    except Exception as e:
+        logging.error(f"Update failed: {e}")
+        return 1
+
+
+def cmd_refresh(args: argparse.Namespace) -> int:
+    """One-shot: refresh records + gallery/locations indexes for all tenants (or one)."""
+    if args.tenant:
+        tenants = [load_tenant(args.tenant)]
+    else:
+        tenants = load_tenants()
+    if not tenants:
+        logging.error("No tenants found under tenants/")
+        return 1
+
+    courses = [c.strip().upper() for c in args.courses.split(",")]
+    current_year = date.today().year
+    failures: list[str] = []
+
+    for tenant in tenants:
+        logging.info(f"=== {tenant.slug} ({tenant.team_code}) ===")
+        try:
+            changed = False
+            if not args.skip_scrape:
+                years = (
+                    list(range(tenant.start_year, current_year + 1))
+                    if args.full
+                    else [current_year]
+                )
+                changed = _scrape_and_diff(
+                    team=tenant.team_code,
+                    csv_dir=tenant.csv_dir,
+                    lmsc_id=tenant.lmsc_id,
+                    years=years,
+                    courses=courses,
+                    delay=args.delay,
+                    headless=True,
+                    save_debug_html=False,
+                )
+
+            records_json = tenant.web_data_dir / f"{tenant.team_code}_all_records.json"
+            if changed or args.full or not records_json.exists():
+                _publish_records(
+                    team=tenant.team_code,
+                    csv_dir=tenant.csv_dir,
+                    json_dir=tenant.json_dir,
+                    web_data_dir=tenant.web_data_dir,
+                    tenant=tenant,
+                )
+            else:
+                logging.info("  Records unchanged — skipping transform.")
+
+            if tenant.gallery_dir.exists():
+                _write_gallery_index(tenant.gallery_dir)
+            if tenant.locations_dir.exists():
+                _write_locations_index(tenant.locations_dir)
+
+        except Exception as e:
+            logging.error(f"  {tenant.slug} failed: {e}")
+            failures.append(tenant.slug)
+
+    ok = len(tenants) - len(failures)
+    logging.info(f"Refresh complete: {ok}/{len(tenants)} tenant(s) OK")
+    if failures:
+        logging.error(f"Failed tenants: {', '.join(failures)}")
+        return 1
     return 0
+
+
+def cmd_publish(args: argparse.Namespace) -> int:
+    """Transform existing CSVs and copy JSON to the web public data directory."""
+    tenant = load_tenant(args.tenant) if args.tenant else None
+    team = args.team or (tenant.team_code if tenant else None)
+    if not team:
+        logging.error("Provide --team or --tenant")
+        return 1
+    csv_dir = (
+        Path(args.csv_input)
+        if args.csv_input
+        else (tenant.csv_dir if tenant else Path("./data/csv"))
+    )
+    json_dir = (
+        Path(args.json_output)
+        if args.json_output
+        else (tenant.json_dir if tenant else Path("./data/json"))
+    )
+    web_data_dir = (
+        Path(args.web_data) if args.web_data else (tenant.web_data_dir if tenant else None)
+    )
+    if web_data_dir is None:
+        logging.error("Provide --web-data or --tenant")
+        return 1
+
+    try:
+        count = _publish_records(
+            team=team,
+            csv_dir=csv_dir,
+            json_dir=json_dir,
+            web_data_dir=web_data_dir,
+            firebase=args.firebase,
+            tenant=tenant,
+        )
+        logging.info(f"  Total records: {count}")
+        return 0
+    except Exception as e:
+        logging.error(f"Publish failed: {e}")
+        return 1
+
+
+def _tenant_dir(args: argparse.Namespace, attr: str, override: str | None) -> Path:
+    """Resolve a directory from an explicit flag or the --tenant registry entry."""
+    if override:
+        return Path(override)
+    tenant = load_tenant(args.tenant)
+    return getattr(tenant, attr)
 
 
 def cmd_gallery_init(args: argparse.Namespace) -> int:
     """Scan meet names from CSVs and create a gallery folder for each."""
-    gallery_dir = Path(args.gallery_dir)
-    csv_dir = Path(args.csv_input)
+    gallery_dir = _tenant_dir(args, "gallery_dir", args.gallery_dir)
+    csv_dir = _tenant_dir(args, "csv_dir", args.csv_input)
 
     if not csv_dir.exists():
         logging.error(f"CSV directory not found: {csv_dir}")
@@ -362,7 +549,7 @@ def cmd_gallery_init(args: argparse.Namespace) -> int:
 
 def cmd_gallery_add(args: argparse.Namespace) -> int:
     """Add a gallery event folder (for social events or manual meets)."""
-    gallery_dir = Path(args.gallery_dir)
+    gallery_dir = _tenant_dir(args, "gallery_dir", args.gallery_dir)
     gallery_dir.mkdir(parents=True, exist_ok=True)
 
     folder = create_event_folder(
@@ -383,7 +570,7 @@ def cmd_gallery_add(args: argparse.Namespace) -> int:
 
 def cmd_gallery_index(args: argparse.Namespace) -> int:
     """Scan gallery folders and regenerate index.json."""
-    gallery_dir = Path(args.gallery_dir)
+    gallery_dir = _tenant_dir(args, "gallery_dir", args.gallery_dir)
 
     if not gallery_dir.exists():
         logging.error(f"Gallery directory not found: {gallery_dir}")
@@ -409,7 +596,7 @@ def _write_gallery_index(gallery_dir: Path) -> None:
 
 def cmd_locations_add(args: argparse.Namespace) -> int:
     """Create a location folder for practice location images."""
-    locations_dir = Path(args.locations_dir)
+    locations_dir = _tenant_dir(args, "locations_dir", args.locations_dir)
     locations_dir.mkdir(parents=True, exist_ok=True)
     create_location_folder(locations_dir, args.name)
     _write_locations_index(locations_dir)
@@ -418,7 +605,7 @@ def cmd_locations_add(args: argparse.Namespace) -> int:
 
 def cmd_locations_index(args: argparse.Namespace) -> int:
     """Scan location folders and regenerate locations/index.json."""
-    locations_dir = Path(args.locations_dir)
+    locations_dir = _tenant_dir(args, "locations_dir", args.locations_dir)
     if not locations_dir.exists():
         logging.error(f"Locations directory not found: {locations_dir}")
         return 1
@@ -551,9 +738,12 @@ Examples:
     update_parser = subparsers.add_parser(
         "update", help="Scrape current year and update only if new/changed records found"
     )
-    update_parser.add_argument("--team", "-t", required=True, help="Team code (e.g., COLM)")
     update_parser.add_argument(
-        "--output", "-o", default="./data/csv", help="Output directory for CSVs"
+        "--tenant", default=None, help="Tenant slug — resolves team/lmsc/paths from tenants/"
+    )
+    update_parser.add_argument("--team", "-t", default=None, help="Team code (e.g., COLM)")
+    update_parser.add_argument(
+        "--output", "-o", default=None, help="Output directory for CSVs (default: tenant's)"
     )
     update_parser.add_argument(
         "--courses",
@@ -562,8 +752,8 @@ Examples:
     )
     update_parser.add_argument(
         "--lmsc",
-        default="55",
-        help="LMSC ID (default: 55 for South Carolina)",
+        default=None,
+        help="LMSC ID (default: tenant's, or 55)",
     )
     update_parser.add_argument(
         "--delay", "-d", type=float, default=2.0, help="Delay between requests (seconds)"
@@ -573,12 +763,12 @@ Examples:
         "--debug-html", action="store_true", help="Save raw HTML for debugging"
     )
     update_parser.add_argument(
-        "--json-output", default="./data/json", help="Output directory for JSON"
+        "--json-output", default=None, help="Output directory for JSON (default: tenant's)"
     )
     update_parser.add_argument(
         "--web-data",
-        default="./web/public/data",
-        help="Web public data directory for website JSON (default: ./web/public/data)",
+        default=None,
+        help="Web public data directory for website JSON (default: tenant's)",
     )
     update_parser.add_argument(
         "--firebase",
@@ -593,17 +783,20 @@ Examples:
     publish_parser = subparsers.add_parser(
         "publish", help="Transform existing CSVs and copy JSON to the website"
     )
-    publish_parser.add_argument("--team", "-t", required=True, help="Team code (e.g., COLM)")
     publish_parser.add_argument(
-        "--csv-input", default="./data/csv", help="Directory containing CSV files"
+        "--tenant", default=None, help="Tenant slug — resolves team/paths from tenants/"
+    )
+    publish_parser.add_argument("--team", "-t", default=None, help="Team code (e.g., COLM)")
+    publish_parser.add_argument(
+        "--csv-input", default=None, help="Directory containing CSV files (default: tenant's)"
     )
     publish_parser.add_argument(
-        "--json-output", default="./data/json", help="Output directory for JSON"
+        "--json-output", default=None, help="Output directory for JSON (default: tenant's)"
     )
     publish_parser.add_argument(
         "--web-data",
-        default="./web/public/data",
-        help="Web public data directory (default: ./web/public/data)",
+        default=None,
+        help="Web public data directory (default: tenant's)",
     )
     publish_parser.add_argument(
         "--firebase", "-f", action="store_true", help="Generate Firebase import format"
@@ -615,13 +808,14 @@ Examples:
     gi_parser = subparsers.add_parser(
         "gallery-init", help="Create gallery folders from existing meet records"
     )
+    gi_parser.add_argument("--tenant", default="colm", help="Tenant slug (default: colm)")
     gi_parser.add_argument(
-        "--csv-input", default="./data/csv", help="Directory containing record CSVs"
+        "--csv-input", default=None, help="Directory containing record CSVs (default: tenant's)"
     )
     gi_parser.add_argument(
         "--gallery-dir",
-        default="./web/public/gallery",
-        help="Gallery directory (default: ./web/public/gallery)",
+        default=None,
+        help="Gallery directory (default: tenant's)",
     )
     gi_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     gi_parser.set_defaults(func=cmd_gallery_init)
@@ -640,10 +834,11 @@ Examples:
         help="Event type (default: social)",
     )
     ga_parser.add_argument("--course", default="", help="Course code (scy/scm/lcm) for meets")
+    ga_parser.add_argument("--tenant", default="colm", help="Tenant slug (default: colm)")
     ga_parser.add_argument(
         "--gallery-dir",
-        default="./web/public/gallery",
-        help="Gallery directory (default: ./web/public/gallery)",
+        default=None,
+        help="Gallery directory (default: tenant's)",
     )
     ga_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     ga_parser.set_defaults(func=cmd_gallery_add)
@@ -652,10 +847,11 @@ Examples:
     gx_parser = subparsers.add_parser(
         "gallery-index", help="Regenerate gallery index.json from event folders"
     )
+    gx_parser.add_argument("--tenant", default="colm", help="Tenant slug (default: colm)")
     gx_parser.add_argument(
         "--gallery-dir",
-        default="./web/public/gallery",
-        help="Gallery directory (default: ./web/public/gallery)",
+        default=None,
+        help="Gallery directory (default: tenant's)",
     )
     gx_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     gx_parser.set_defaults(func=cmd_gallery_index)
@@ -665,10 +861,11 @@ Examples:
         "locations-add", help="Create a practice location folder for images"
     )
     la_parser.add_argument("--name", "-n", required=True, help="Location name")
+    la_parser.add_argument("--tenant", default="colm", help="Tenant slug (default: colm)")
     la_parser.add_argument(
         "--locations-dir",
-        default="./web/public/locations",
-        help="Locations directory (default: ./web/public/locations)",
+        default=None,
+        help="Locations directory (default: tenant's)",
     )
     la_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     la_parser.set_defaults(func=cmd_locations_add)
@@ -677,13 +874,42 @@ Examples:
     lx_parser = subparsers.add_parser(
         "locations-index", help="Regenerate locations/index.json from location folders"
     )
+    lx_parser.add_argument("--tenant", default="colm", help="Tenant slug (default: colm)")
     lx_parser.add_argument(
         "--locations-dir",
-        default="./web/public/locations",
-        help="Locations directory (default: ./web/public/locations)",
+        default=None,
+        help="Locations directory (default: tenant's)",
     )
     lx_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     lx_parser.set_defaults(func=cmd_locations_index)
+
+    # Refresh command (one-shot across all tenants)
+    refresh_parser = subparsers.add_parser(
+        "refresh", help="One-shot refresh of records + indexes for all tenants (or one)"
+    )
+    refresh_parser.add_argument(
+        "--tenant", default=None, help="Only refresh this tenant slug (default: all)"
+    )
+    refresh_parser.add_argument(
+        "--full",
+        action="store_true",
+        help="Re-scrape all years from the tenant's records.startYear (default: current year)",
+    )
+    refresh_parser.add_argument(
+        "--skip-scrape",
+        action="store_true",
+        help="Skip scraping; only rebuild JSON and gallery/locations indexes",
+    )
+    refresh_parser.add_argument(
+        "--courses",
+        default="SCY,SCM,LCM",
+        help="Comma-separated courses (default: SCY,SCM,LCM)",
+    )
+    refresh_parser.add_argument(
+        "--delay", "-d", type=float, default=2.0, help="Delay between requests (seconds)"
+    )
+    refresh_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    refresh_parser.set_defaults(func=cmd_refresh)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")
