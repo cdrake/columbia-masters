@@ -743,6 +743,48 @@ body {
   border-radius: 4px;
 }
 
+/* ─── Coaches ─── */
+
+.coach-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.coach-card {
+  display: flex;
+  gap: 1.5rem;
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+  align-items: flex-start;
+}
+
+.coach-photo {
+  width: 200px;
+  max-width: 100%;
+  border-radius: var(--radius);
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.coach-bio h3 {
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+
+.coach-bio p {
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.coach-bio p:last-child {
+  margin-bottom: 0;
+}
+
 /* ─── Board ─── */
 
 .board-grid {
@@ -1008,6 +1050,15 @@ footer p {
 
   .board-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .coach-card {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .coach-bio h3 {
+    text-align: center;
   }
 
   .event-card {
