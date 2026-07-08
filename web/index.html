@@ -3,16 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Columbia Masters Swim Team — COLM</title>
-    <meta
-  name="description"
-  content="The Columbia Bills (COLM) are a US Masters Swimming club based at the Charles R. Drew Wellness Center in Columbia, South Carolina. Practices for all levels."
-/>
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description }}" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <meta property="og:image" content="https://www.columbiamastersswim.org/icon-512.png" />
+    <meta property="og:image" content="{{ ogImage }}" />
     <link rel="stylesheet" href="/src/style.css" />
+    <!-- tenant:color-vars -->
     <link rel="help" type="text/plain" href="/llms.txt" />
   </head>
   <body>
@@ -25,7 +23,7 @@
     <!-- Navigation -->
     <nav id="main-nav">
       <div class="nav-inner">
-        <a href="#" class="nav-logo">COLM</a>
+        <a href="#" class="nav-logo">{{ shortName }}</a>
         <button class="nav-toggle" aria-label="Toggle menu">&#9776;</button>
         <ul class="nav-links">
           <li><a href="#about">About</a></li>
@@ -44,9 +42,9 @@
     <!-- Hero -->
     <section id="hero">
       <div class="hero-content">
-        <h1>Columbia Masters Swim Team</h1>
-        <p id="hero-sub" class="hero-sub">The Columbia Bills &mdash; Columbia, South Carolina</p>
-        <p id="hero-tagline" class="hero-tagline">A US Masters Swimming club based at the Charles R. Drew Wellness Center</p>
+        <h1>{{ name }}</h1>
+        <p id="hero-sub" class="hero-sub">{{ heroSub }}</p>
+        <p id="hero-tagline" class="hero-tagline">{{ heroTagline }}</p>
         <div class="hero-actions">
           <a href="#records" class="btn btn-primary">View Team Records</a>
           <a href="#schedule" class="btn btn-outline">Practice Schedule</a>
@@ -57,25 +55,15 @@
     <!-- About -->
     <section id="about" class="section">
       <div class="container">
-        <h2>About COLM</h2>
+        <h2>About {{ shortName }}</h2>
         <div class="about-grid">
           <div id="about-text" class="about-text">
-            <p>We are the <strong>Columbia Bills</strong>, a US Masters Swimming team based at the
-              <strong>Charles R. Drew Wellness Center</strong> in Columbia, South Carolina. Our members
-              range from fitness swimmers to nationally competitive athletes across all age groups.</p>
-            <p>Whether you're returning to the pool after years away or training for your next
-              championship meet, our coached workouts and supportive team environment will help
-              you reach your goals.</p>
-            <p>USMS membership is required for evening closed-pool sessions.
-              All practices require a Drew Center membership or day pass.</p>
+            <!-- tenant:about-text -->
           </div>
           <div class="about-card">
             <h3>Quick Facts</h3>
             <dl id="about-facts">
-              <dt>Team Code</dt><dd>COLM</dd>
-              <dt>LMSC</dt><dd>South Carolina</dd>
-              <dt>Pool</dt><dd>Charles R. Drew Wellness Center</dd>
-              <dt>Address</dt><dd>2101 Walker Solomon Way<br>Columbia, SC 29204</dd>
+              <!-- tenant:quick-facts -->
             </dl>
           </div>
         </div>
@@ -87,38 +75,11 @@
       <div class="container">
         <h2>Practice Schedule</h2>
         <div id="schedule-grid" class="schedule-grid">
-          <!-- Populated from Google Sheets; fallback content below -->
-          <div class="schedule-card">
-            <div class="schedule-day">Sunday</div>
-            <div class="schedule-time">5:00 &ndash; 5:45 PM</div>
-            <span class="badge badge-closed">Closed Pool</span>
-          </div>
-          <div class="schedule-card">
-            <div class="schedule-day">Monday</div>
-            <div class="schedule-time">7:00 &ndash; 8:00 PM</div>
-            <span class="badge badge-closed">Closed Pool</span>
-          </div>
-          <div class="schedule-card">
-            <div class="schedule-day">Tuesday</div>
-            <div class="schedule-time">5:30 &ndash; 6:30 AM</div>
-            <span class="badge badge-open">Open Pool</span>
-          </div>
-          <div class="schedule-card">
-            <div class="schedule-day">Thursday (AM)</div>
-            <div class="schedule-time">5:30 &ndash; 6:30 AM</div>
-            <span class="badge badge-open">Open Pool</span>
-          </div>
-          <div class="schedule-card">
-            <div class="schedule-day">Thursday (PM)</div>
-            <div class="schedule-time">7:00 &ndash; 8:00 PM</div>
-            <span class="badge badge-closed">Closed Pool</span>
-          </div>
+          <!-- Populated from Google Sheets at runtime; static fallback below -->
+          <!-- tenant:schedule-fallback -->
         </div>
         <div id="location-info" class="location-info"></div>
-        <p id="schedule-note" class="schedule-note">
-          <strong>Closed pool</strong> sessions require USMS membership.
-          All sessions require a Drew Center membership or day pass.
-        </p>
+        <p id="schedule-note" class="schedule-note">{{ scheduleNote }}</p>
       </div>
     </section>
 
@@ -127,56 +88,8 @@
       <div class="container">
         <h2>Upcoming Events</h2>
         <div id="events-list" class="events-list">
-          <!-- Populated from Google Sheets; fallback content below -->
-          <article class="event-card">
-            <div class="event-date"><span class="month">Feb</span><span class="day">7-8</span></div>
-            <div class="event-info">
-              <h3>Jerry Clark Sunbelt Meet</h3>
-              <p>Charlotte, NC</p>
-            </div>
-          </article>
-          <article class="event-card">
-            <div class="event-date"><span class="month">Feb</span><span class="day">27</span></div>
-            <div class="event-info">
-              <h3>SC State SCY Championships</h3>
-              <p>North Myrtle Beach, SC &mdash; Feb 27 &ndash; Mar 1</p>
-            </div>
-          </article>
-          <article class="event-card">
-            <div class="event-date"><span class="month">Apr</span><span class="day">3-4</span></div>
-            <div class="event-info">
-              <h3>USMS Open Water Nationals</h3>
-              <p>Sarasota, FL</p>
-            </div>
-          </article>
-          <article class="event-card">
-            <div class="event-date"><span class="month">Apr</span><span class="day">11</span></div>
-            <div class="event-info">
-              <h3>SC Senior Games</h3>
-              <p>North Charleston, SC</p>
-            </div>
-          </article>
-          <article class="event-card">
-            <div class="event-date"><span class="month">Apr</span><span class="day">30</span></div>
-            <div class="event-info">
-              <h3>USMS Spring Nationals</h3>
-              <p>Greensboro, NC &mdash; Apr 30 &ndash; May 3</p>
-            </div>
-          </article>
-          <article class="event-card">
-            <div class="event-date"><span class="month">Jun</span><span class="day">6</span></div>
-            <div class="event-info">
-              <h3>Beaufort River Swim</h3>
-              <p>Beaufort, SC &mdash; Open Water</p>
-            </div>
-          </article>
-          <article class="event-card">
-            <div class="event-date"><span class="month">Aug</span><span class="day">8</span></div>
-            <div class="event-info">
-              <h3>Cola Classic (LCM)</h3>
-              <p>Blatt Aquatic Center, Columbia, SC</p>
-            </div>
-          </article>
+          <!-- Populated from Google Sheets at runtime; static fallback below -->
+          <!-- tenant:events-fallback -->
         </div>
       </div>
     </section>
@@ -186,37 +99,7 @@
       <div class="container">
         <h2>Classes &amp; Programs</h2>
         <div id="classes-list" class="classes-list">
-          <article class="class-card">
-            <div class="class-info">
-              <h3>Grown-Up Swimming<sup>&reg;</sup> &mdash; 2026 Columbia Summer League</h3>
-              <p class="class-tagline">Registration is now open for the 2026 summer league.
-                Coach Nicole Smith is the Columbia League Director, and USMS-registered swimmers
-                get a discount on league registration. Cost is $75 for the season &mdash;
-                3 meets plus a championship, mid-May through August, with a brewery social after each meet.</p>
-              <div class="class-callout">
-                <div class="class-callout-title">Columbia Bills swimmers &mdash; join the Drew Sharks</div>
-                <p>We've formed the <strong>Drew Sharks</strong> as our Grown-Up Swimming team.
-                  Join us, or form your own team &mdash; it'll be fun watching us race each other.</p>
-              </div>
-              <ul class="class-links">
-                <li><a href="https://www.grownupswimming.com/columbia" target="_blank" rel="noopener">Register for the 2026 summer league &rarr;</a></li>
-                <li><a href="mailto:nicole@grownupswimming.com">Email Nicole Smith (League Director)</a></li>
-              </ul>
-            </div>
-            <a
-              href="/classes/grown-up-swimming/flyer.jpg"
-              target="_blank"
-              rel="noopener"
-              class="class-flyer"
-              aria-label="Open Grown-Up Swimming Columbia summer league flyer"
-            >
-              <img
-                src="/classes/grown-up-swimming/flyer.jpg"
-                alt="Grown-Up Swimming Columbia summer league flyer — $75 season fee with USMS discount, 3 meets plus championship, mid-May through August"
-                loading="lazy"
-              />
-            </a>
-          </article>
+          <!-- tenant:classes -->
         </div>
       </div>
     </section>
@@ -235,74 +118,7 @@
       <div class="container">
         <h2>Meet Our Coaches</h2>
         <div class="coach-list">
-          <article class="coach-card">
-            <img class="coach-photo" src="/coaches/karen-fitch.jpg" alt="Coach Karen Fitch" loading="lazy" />
-            <div class="coach-bio">
-              <h3>Karen Fitch</h3>
-              <p>Karen Fitch (formerly Willdermood) began her swim coaching career with Brookland-Cayce
-                High School in 2008. From 2013&ndash;2021, Karen served as the head coach for the boys and
-                girls swim team at Ridge View High School. Karen spent two years coaching the Greenview
-                Dolphins year-round team and one year with the Harbison Stingrays. She also coached the
-                Greenview Summer League team for three seasons and Edenwood for one. Karen began swimming
-                for Columbia Masters in 2008. She is currently the Secretary of the South Carolina&rsquo;s
-                Local Masters Swimming Committee.</p>
-              <p>Originally from Indiana, Karen attended the University of Kansas for one year before
-                transferring and graduating from Purdue University. She swam Intramurals at Purdue for
-                her sorority Sigma Delta Tau. Karen went on to earn her master&rsquo;s degree in Sport
-                Management at Xavier University in Cincinnati.</p>
-              <p>Coach Karen taught middle and high school English and journalism for twelve years. She
-                also spent five years working in youth, collegiate, and Major League Baseball. She is
-                currently Member Services Coordinator at the Charles R. Drew Wellness Center. She is
-                also a content writer for the magazine Southern Paws and Tails. Karen lives in Cayce,
-                where she serves as the Secretary of the Public Safety Foundation. She enjoys swimming,
-                rooting on the Colts and spending time with her husband David and their fur babies.</p>
-            </div>
-          </article>
-          <article class="coach-card">
-            <img class="coach-photo" src="/coaches/josh-mcduffie.jpg" alt="Coach Josh McDuffie" loading="lazy" />
-            <div class="coach-bio">
-              <h3>Josh McDuffie</h3>
-              <p>Dr. Joshua (Josh) McDuffie began his swim coaching career in Knoxville, Tennessee where
-                he spent six years as the head coach for Central High School and three years coaching
-                year-round swimming with University Club. He also spent a year coaching the Prime Time
-                Masters.</p>
-              <p>Josh began swimming with the Columbia Masters in 2007. That same year he won the Short
-                Course Meters Championship High Point award. In 2023, Josh qualified for the Short Course
-                Yard National Championship in the 50 yard freestyle.</p>
-              <p>Originally from Tennessee, Josh swam for the University of Rochester for one year before
-                transferring and graduating from University of Tennessee. Josh went on to earn his MBA at
-                Tennessee and his PhD in Geography at the University of South Carolina.</p>
-              <p>Josh is currently the Director of Technology at Milliken Advisors. Prior, he worked for
-                the State and the Department of Defense as a contractor, earning the South Carolina State
-                Commendation Ribbon and the Commanding General&rsquo;s Award of Excellence at the US Army
-                Training Center and Fort Jackson.</p>
-              <p>In his free time, Josh enjoys traveling, boating, volunteering and taking his wife of
-                18 years and his two daughters to amusement parks.</p>
-            </div>
-          </article>
-          <article class="coach-card">
-            <img class="coach-photo" src="/coaches/nicole-smith.jpg" alt="Coach Nicole Smith" loading="lazy" />
-            <div class="coach-bio">
-              <h3>Nicole Smith</h3>
-              <p>Nicole Smith (formerly Molitor) began her swim coaching career in South Carolina at
-                Lexington High School in 2010. From there she went on to serve as the head coach for
-                Blythewood High School from 2013&ndash;2016 and again from 2016&ndash;2020. Coach Nicole
-                also spent a year coaching the Columbia YMCA Mudcats and six seasons coaching Summer
-                League with various teams in the city.</p>
-              <p>Nicole has spent the past four years coaching and swimming for the now former Soda City
-                Swarm at the Jeep Rogers YMCA. She is currently the Chair of the South Carolina&rsquo;s
-                Local Masters Swimming Committee.</p>
-              <p>Nicole began swimming Masters in 2008 and in 2022, she broke the South Carolina Masters
-                50 meter breaststroke record for females 40&ndash;44.</p>
-              <p>Originally from Indiana, Nicole swam for and graduated from the University of Akron,
-                breaking the 200 yard breaststroke record while she was there. She went on to earn her
-                master&rsquo;s degree from Columbia College.</p>
-              <p>Nicole currently teaches 8th Grade Language Arts in Kershaw County. In her free time,
-                she enjoys running 5ks, competing in triathlons, reading, and playing cards. She also
-                volunteers at her church. Nicole is a proud Army wife. She and her husband have two
-                boys.</p>
-            </div>
-          </article>
+          <!-- tenant:coaches -->
         </div>
       </div>
     </section>
@@ -312,30 +128,7 @@
       <div class="container">
         <h2>Board &amp; Leadership</h2>
         <div id="board-grid" class="board-grid">
-          <div class="board-card">
-            <div class="board-role">Chair</div>
-            <div class="board-name">Amanda Moyer</div>
-          </div>
-          <div class="board-card">
-            <div class="board-role">Vice Chair</div>
-            <div class="board-name">Mitch Smith</div>
-          </div>
-          <div class="board-card">
-            <div class="board-role">Treasurer</div>
-            <div class="board-name">Tim Vitolla</div>
-          </div>
-          <div class="board-card">
-            <div class="board-role">Registrar</div>
-            <div class="board-name">Mary Peyton Wall</div>
-          </div>
-          <div class="board-card">
-            <div class="board-role">Secretary</div>
-            <div class="board-name">Zach Ogle</div>
-          </div>
-          <div class="board-card">
-            <div class="board-role">Communications</div>
-            <div class="board-name">Jimi Adams</div>
-          </div>
+          <!-- tenant:board-fallback -->
         </div>
       </div>
     </section>
@@ -391,18 +184,12 @@
       <div class="container">
         <div class="footer-grid">
           <div class="footer-col">
-            <h3>Columbia Masters Swim Team</h3>
-            <p>Charles R. Drew Wellness Center<br>
-              2101 Walker Solomon Way<br>
-              Columbia, SC 29204</p>
+            <!-- tenant:footer-address -->
           </div>
           <div class="footer-col">
             <h3>Connect</h3>
             <ul class="footer-links">
-              <li><a href="https://www.usms.org/clubs" target="_blank" rel="noopener">USMS Club Page</a></li>
-              <li><a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a></li>
-              <li><a href="https://www.instagram.com/drew.swims" target="_blank" rel="noopener">Instagram @drew.swims</a></li>
-              <li><a href="https://www.strava.com/clubs/1463141" target="_blank" rel="noopener">Strava Club</a></li>
+              <!-- tenant:footer-socials -->
             </ul>
           </div>
           <div class="footer-col">
@@ -415,64 +202,14 @@
           </div>
         </div>
         <div class="footer-bottom">
-          <p>&copy; 2026 Columbia Masters Swim Team (COLM). All rights reserved.</p>
+          <p><!-- tenant:copyright --></p>
         </div>
       </div>
     </footer>
 
     <script type="module" src="/src/main.ts"></script>
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "SportsClub",
-        "name": "Columbia Masters Swim Team",
-        "url": "https://www.columbiamastersswim.org",
-        "description": "The Columbia Bills (COLM) are a US Masters Swimming club based at the Charles R. Drew Wellness Center in Columbia, South Carolina. Practices for all levels.",
-        "sport": "Swimming",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "2101 Walker Solomon Way",
-          "addressLocality": "Columbia",
-          "addressRegion": "SC",
-          "postalCode": "29204"
-        },
-        "memberOf": {
-          "@type": "SportsOrganization",
-          "name": "US Masters Swimming",
-          "url": "https://www.usms.org/"
-        },
-        "sameAs": [
-          "https://www.instagram.com/drew.swims",
-          "https://www.strava.com/clubs/1463141"
-        ],
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "COLM Team Records",
-          "itemListElement": [
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Dataset",
-                "name": "Columbia Masters Swim Team Records",
-                "description": "All COLM top times across every course, event, gender, and age group, sourced from the USMS top-times database.",
-                "url": "https://www.columbiamastersswim.org/data/COLM_all_records.json",
-                "encodingFormat": "application/json",
-                "license": "https://creativecommons.org/licenses/by/4.0/",
-                "creator": {
-                  "@type": "Organization",
-                  "name": "Columbia Masters Swim Team",
-                  "url": "https://www.columbiamastersswim.org"
-                },
-                "publisher": {
-                  "@type": "Organization",
-                  "name": "Columbia Masters Swim Team",
-                  "url": "https://www.columbiamastersswim.org"
-                }
-              }
-            }
-          ]
-        }
-      }
+      <!-- tenant:json-ld -->
     </script>
 
   </body>

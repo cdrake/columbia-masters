@@ -1,6 +1,8 @@
 import Papa from "papaparse";
-import { SHEET_URLS } from "./config";
+import tenant from "virtual:tenant";
 import type { SiteEvent, ScheduleEntry, BoardMember, SiteContent } from "./types";
+
+const SHEET_URLS = tenant.sheetUrls;
 
 async function fetchSheet<T>(url: string): Promise<T[]> {
   if (!url) return [];
