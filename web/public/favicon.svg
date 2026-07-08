@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Columbia Bills pelican mascot — vector favicon (transparent background) -->
+  <defs><clipPath id="badge"><circle cx="64" cy="64" r="58"/></clipPath></defs>
+  <circle cx="64" cy="64" r="58" fill="#F7EC86" stroke="#2B3277" stroke-width="4"/>
+  <g clip-path="url(#badge)">
+    <path d="M76 54 C 96 58, 110 74, 110 96 L 112 130 L 52 130 C 56 110, 58 90, 56 72 C 62 60, 68 55, 76 54 Z" fill="#9EA0A8" stroke="#2B3277" stroke-width="3"/>
+    <path d="M84 62 C 94 52, 108 50, 120 56 L 110 63 C 117 66, 121 71, 122 78 L 109 76 C 110 84, 106 91, 98 94 C 92 83, 87 72, 84 62 Z" fill="#C8C9CE" stroke="#2B3277" stroke-width="2.5"/>
+  </g>
+  <circle cx="72" cy="49" r="21" fill="#9EA0A8" stroke="#2B3277" stroke-width="3"/>
+  <path d="M58 38 L 8 49 C 4.5 49.7, 4.5 54.5, 8 55.5 L 54 63 C 61 64, 66 60, 65 52 C 64 44, 60 38, 58 38 Z" fill="#C9702E" stroke="#2B3277" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M55 42.5 L 14 50.5" stroke="#E08A44" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M52 41 C 52 28, 63 22, 73 23 C 84 24, 92 33, 92 44 C 83 36, 62 36, 52 41 Z" fill="#2B3277" stroke="#232B6B" stroke-width="2"/>
+  <path d="M60 30 C 66 27, 74 27, 81 31" stroke="#4A55A8" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M57 35 C 66 31, 78 31, 87 38" stroke="#4A55A8" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M53 41 C 67 34, 81 35, 92 43" stroke="#232B6B" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <circle cx="59" cy="36" r="5.5" fill="#FFFFFF" stroke="#232B6B" stroke-width="2.5"/>
+  <circle cx="69" cy="34" r="5.5" fill="#FFFFFF" stroke="#232B6B" stroke-width="2.5"/>
+  <circle cx="63" cy="46" r="2.6" fill="#1B2050"/>
+</svg>
