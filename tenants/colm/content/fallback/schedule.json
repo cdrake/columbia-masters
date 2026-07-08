@@ -1,0 +1,7 @@
+[
+  { "day": "Sunday", "time": "5:00 – 5:45 PM", "type": "Closed Pool" },
+  { "day": "Monday", "time": "7:00 – 8:00 PM", "type": "Closed Pool" },
+  { "day": "Tuesday", "time": "5:30 – 6:30 AM", "type": "Open Pool" },
+  { "day": "Thursday (AM)", "time": "5:30 – 6:30 AM", "type": "Open Pool" },
+  { "day": "Thursday (PM)", "time": "7:00 – 8:00 PM", "type": "Closed Pool" }
+]

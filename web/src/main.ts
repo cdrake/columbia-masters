@@ -7,6 +7,7 @@ import type {
   GalleryEvent,
   LocationEntry,
 } from "./types";
+import tenant from "virtual:tenant";
 import { fetchAllSheets } from "./sheets";
 import "./style.css";
 
@@ -29,7 +30,7 @@ const $ = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)
 
 async function init() {
   const [recordsRes, sheetData] = await Promise.all([
-    fetch(`${import.meta.env.BASE_URL}data/COLM_all_records.json`).then((r) => r.json()),
+    fetch(`${import.meta.env.BASE_URL}data/${tenant.teamCode}_all_records.json`).then((r) => r.json()),
     fetchAllSheets(),
   ]);
   allRecords = recordsRes;
