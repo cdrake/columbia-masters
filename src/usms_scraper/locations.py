@@ -39,16 +39,20 @@ def build_index(locations_dir: Path) -> dict:
         photos = []
         for img in sorted(folder.iterdir()):
             if img.suffix.lower() in IMAGE_EXTENSIONS:
-                photos.append({
-                    "file": img.name,
-                    "caption": captions.get(img.name, ""),
-                })
+                photos.append(
+                    {
+                        "file": img.name,
+                        "caption": captions.get(img.name, ""),
+                    }
+                )
 
-        locations.append({
-            "slug": slug,
-            "name": meta.get("name", slug),
-            "photos": photos,
-        })
+        locations.append(
+            {
+                "slug": slug,
+                "name": meta.get("name", slug),
+                "photos": photos,
+            }
+        )
 
     locations.sort(key=lambda loc: loc["name"])
     return {"locations": locations}
