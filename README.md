@@ -1,16 +1,18 @@
-# COLM Team Portal
+# Masters Swim Club Sites
 
-A website and data pipeline for the Columbia Masters (COLM) swim team. The site serves as a team portal featuring swimming records, swimmer profiles, meet schedules, and news — powered by data scraped from US Masters Swimming (USMS) and stored in Firebase.
+A multi-tenant website platform + data pipeline for US Masters Swimming clubs (first tenant: Columbia Masters, COLM). Each club gets a static site — records, schedule, events, coaches, gallery — built from one shared codebase and deployed on Cloudflare Pages.
 
 ## Architecture
 
 ```
-USMS website → Scraper (Selenium) → CSV → Transformer → JSON → Firebase/Firestore → Website
+USMS website → Scraper (Selenium) → CSV → Transformer → JSON ─┐
+Google Sheet (per club: schedule/events/board/content) ───────┼→ Static site (Vite)
+tenants/<slug>/ (identity, bios, classes, fallbacks, assets) ─┘
 ```
 
+- **Tenants** live under `tenants/<slug>/` — `tenant.json` (identity, domain, Sheet ids), markdown content (about, coach bios, classes), JSON fallbacks, and the club's static assets in `public/`
 - **Scraper** fetches team records from [usms.org](https://www.usms.org) across all courses (SCY, SCM, LCM), events, genders, and age groups
-- **Transformer** converts CSV data to JSON with deterministic record IDs for Firebase upserts
-- **Website** reads from Firestore to display team records and information
+- **Web build** (`web/`, Vite) renders one club per build: `TENANT=<slug> npm run build` (defaults to `colm`). Each club is its own Cloudflare Pages project pointing at this repo with that env var.
 
 ## Quick Start
 
@@ -21,16 +23,21 @@ hatch shell
 
 ## Keeping Data Up to Date
 
-After the team competes in a meet, run the update command to pull in new results:
+After clubs compete, refresh everything in one shot:
 
 ```bash
-hatch run update --team COLM --output ./data/csv
+hatch run refresh                    # all clubs: scrape current year, rebuild data + indexes
+hatch run refresh -- --tenant colm   # a single club
+hatch run refresh -- --full          # re-scrape all years from each club's startYear
+hatch run refresh -- --skip-scrape   # only rebuild JSON + gallery/locations indexes
 ```
 
-This scrapes the current year from USMS, diffs against existing data, and only writes CSVs when new or changed records are found. To also regenerate JSON for Firebase:
+Scraping is idempotent — CSVs are only rewritten when USMS shows new or changed records, and the transform/publish step is skipped when nothing changed. Then commit and push: every club's Pages project rebuilds from the same commit.
+
+Single-club update (same behavior the refresh loop uses):
 
 ```bash
-hatch run update --team COLM --output ./data/csv --transform --firebase --json-output ./data/json
+hatch run update -- --tenant colm
 ```
 
 ## Managing Website Content

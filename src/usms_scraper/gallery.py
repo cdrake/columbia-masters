@@ -97,23 +97,27 @@ def build_index(gallery_dir: Path) -> dict:
         photos = []
         for img in sorted(folder.iterdir()):
             if img.suffix.lower() in IMAGE_EXTENSIONS:
-                photos.append({
-                    "file": img.name,
-                    "caption": captions.get(img.name, ""),
-                })
+                photos.append(
+                    {
+                        "file": img.name,
+                        "caption": captions.get(img.name, ""),
+                    }
+                )
 
         if not photos:
             continue
 
-        events.append({
-            "slug": slug,
-            "name": meta.get("name", slug),
-            "date": meta.get("date", ""),
-            "description": meta.get("description", ""),
-            "type": meta.get("type", "meet"),
-            "course": meta.get("course", ""),
-            "photos": photos,
-        })
+        events.append(
+            {
+                "slug": slug,
+                "name": meta.get("name", slug),
+                "date": meta.get("date", ""),
+                "description": meta.get("description", ""),
+                "type": meta.get("type", "meet"),
+                "course": meta.get("course", ""),
+                "photos": photos,
+            }
+        )
 
     # Sort by date descending (newest first), then by name
     events.sort(key=lambda e: (e["date"] or "0000", e["name"]), reverse=True)
