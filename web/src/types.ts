@@ -37,7 +37,9 @@ export interface GalleryEvent {
   description: string;
   type: "meet" | "social";
   course: string;
-  photos: { file: string; caption: string }[];
+  // Photos are either git-tracked (`file`, relative to the event folder) or hosted
+  // on Cloudflare Images (`url`, absolute). Exactly one is set.
+  photos: { file?: string; url?: string; caption: string }[];
 }
 
 export interface TeamRecord {

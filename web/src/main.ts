@@ -298,7 +298,7 @@ function selectGalleryEvent(slug: string) {
     ? evt.photos
         .map(
           (p) => `<figure class="gallery-photo">
-          <img src="${esc(base + p.file)}" alt="${esc(p.caption || evt.name)}" loading="lazy" />
+          <img src="${esc(p.url ?? base + (p.file ?? ""))}" alt="${esc(p.caption || evt.name)}" loading="lazy" />
           ${p.caption ? `<figcaption>${esc(p.caption)}</figcaption>` : ""}
         </figure>`
         )
