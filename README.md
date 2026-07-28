@@ -44,7 +44,7 @@ hatch run update -- --tenant colm
 
 The website pulls dynamic content from a published Google Sheet. Organizers can update the site without any code changes or rebuilds — just edit the spreadsheet and the site reflects changes on the next page load.
 
-The Google Sheet has four tabs:
+The Google Sheet has four tabs, plus an optional fifth for FAQs:
 
 | Tab | What it controls |
 |-----|-----------------|
@@ -52,6 +52,20 @@ The Google Sheet has four tabs:
 | **Schedule** | Practice days, times, and pool type |
 | **Board** | Board members and their roles |
 | **Content** | Hero text, about section, alerts, and other copy |
+| **FAQ** *(optional)* | Frequently asked questions, shown as an expandable list |
+
+### Adding the FAQ Tab
+
+The FAQ section reads from an optional Sheet tab. Until a club adds one, the site shows the static fallback in `tenants/<slug>/content/fallback/faq.json` instead. To wire up the live Sheet version:
+
+1. In the club's Google Sheet, add a new tab named **FAQ** with a header row: `question`, `answer` (one question per row; `answer` supports basic markdown like links and bold text).
+2. Re-publish the sheet to the web if it isn't already published in full (File → Share → Publish to web).
+3. Open the FAQ tab and copy its `gid` from the browser URL (the number after `gid=`).
+4. Add that value to the tenant's `tenant.json` under `sheet.gids.faq`, e.g.:
+   ```json
+   "gids": { "events": 0, "schedule": 169167840, "board": 1134517228, "content": 439056656, "faq": 123456789 }
+   ```
+5. Commit and push — once deployed, the FAQ section pulls live from the Sheet and updates on every page load, no rebuild needed. The static fallback keeps working as a backup if the Sheet is ever unreachable.
 
 ### Publishing an Alert (e.g., Pool Closure)
 

@@ -67,6 +67,11 @@ export interface FallbackBoardMember {
   name: string;
 }
 
+export interface FallbackFaqEntry {
+  question: string;
+  answer: string;
+}
+
 export interface Tenant {
   config: TenantConfig;
   aboutHtml: string;
@@ -76,6 +81,7 @@ export interface Tenant {
     schedule: FallbackScheduleEntry[];
     events: FallbackEvent[];
     board: FallbackBoardMember[];
+    faq: FallbackFaqEntry[];
   };
   dir: string;
   publicDir: string;
@@ -127,6 +133,7 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     req(typeof config.sheet.gids[tab] === "number", `tenant.json missing sheet.gids.${tab}`);
   }
   req(Array.isArray(config.socials), `tenant.json missing socials[]`);
+  // "faq" is an optional sheet tab — tenants that haven't added it yet simply omit the gid.
 
   const contentDir = path.join(dir, "content");
   const aboutFile = path.join(contentDir, "about.md");
@@ -159,6 +166,7 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     schedule: readJsonIfExists<FallbackScheduleEntry[]>(path.join(fallbackDir, "schedule.json")) ?? [],
     events: readJsonIfExists<FallbackEvent[]>(path.join(fallbackDir, "events.json")) ?? [],
     board: readJsonIfExists<FallbackBoardMember[]>(path.join(fallbackDir, "board.json")) ?? [],
+    faq: readJsonIfExists<FallbackFaqEntry[]>(path.join(fallbackDir, "faq.json")) ?? [],
   };
 
   const publicDir = path.join(dir, "public");

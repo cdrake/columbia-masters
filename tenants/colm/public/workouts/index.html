@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sample Workouts — Columbia Masters Swim Team (COLM)</title>
+    <meta
+      name="description"
+      content="Three sample one-hour masters swim practices from the Columbia Bills (COLM) — endurance, sprint, and IM/technique focused."
+    />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <style>
+      :root {
+        --navy: #16213e;
+        --blue: #4a6fa5;
+        --accent: #e8b931;
+        --bg: #f5f6fa;
+        --bg-alt: #eef0f6;
+        --text: #1a1a2e;
+        --text-muted: #666;
+        --white: #fff;
+        --radius: 8px;
+        --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        color: var(--text);
+        background: var(--bg);
+        line-height: 1.6;
+      }
+      header {
+        background: var(--navy);
+        color: var(--white);
+        padding: 2.25rem 1rem 2rem;
+      }
+      .wrap {
+        max-width: 780px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+      header .wrap { padding: 0 1rem; }
+      header a.back {
+        color: var(--accent);
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 600;
+      }
+      header a.back:hover { text-decoration: underline; }
+      header h1 {
+        margin: 0.75rem 0 0.4rem;
+        font-size: 1.9rem;
+      }
+      header p.sub {
+        margin: 0;
+        color: #cdd6e8;
+        font-size: 1rem;
+      }
+      main.wrap { padding-top: 2rem; padding-bottom: 3rem; }
+      .intro {
+        background: var(--white);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        padding: 1.25rem 1.5rem;
+        margin-bottom: 2rem;
+        font-size: 0.97rem;
+      }
+      .intro p { margin: 0 0 0.6rem; }
+      .intro p:last-child { margin-bottom: 0; }
+      .intro strong { color: var(--navy); }
+      .key {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.6rem 1.4rem;
+        margin-top: 0.9rem;
+        font-size: 0.85rem;
+        color: var(--text-muted);
+      }
+      .key span strong { color: var(--text); }
+      .workout {
+        background: var(--white);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        border-left: 4px solid var(--accent);
+        padding: 1.5rem 1.6rem 1.7rem;
+        margin-bottom: 1.75rem;
+      }
+      .workout h2 {
+        margin: 0 0 0.15rem;
+        color: var(--navy);
+        font-size: 1.3rem;
+      }
+      .workout .meta {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        margin-bottom: 1.1rem;
+      }
+      .workout .meta strong { color: var(--blue); }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.92rem;
+        margin-bottom: 0.4rem;
+      }
+      caption {
+        text-align: left;
+        font-weight: 600;
+        color: var(--navy);
+        margin: 1.1rem 0 0.4rem;
+        font-size: 0.95rem;
+      }
+      caption.first { margin-top: 0; }
+      th, td {
+        text-align: left;
+        padding: 0.4rem 0.5rem;
+        border-bottom: 1px solid var(--bg-alt);
+        vertical-align: top;
+      }
+      th {
+        font-size: 0.72rem;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        color: var(--text-muted);
+        border-bottom: 2px solid var(--bg-alt);
+      }
+      td.dist, th.dist { white-space: nowrap; width: 5.5rem; }
+      td.rest, th.rest { white-space: nowrap; width: 5.5rem; }
+      .total {
+        margin-top: 0.9rem;
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: var(--navy);
+        text-align: right;
+      }
+      .note {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        font-style: italic;
+        margin-top: 0.5rem;
+      }
+      footer {
+        text-align: center;
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        padding: 0 1rem 2.5rem;
+      }
+      footer a { color: var(--blue); }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <a class="back" href="/#classes">&larr; Back to columbiamastersswim.org</a>
+        <h1>Sample Workouts</h1>
+        <p class="sub">Three coached-style practices from the Columbia Bills (COLM) — about an hour each.</p>
+      </div>
+    </header>
+    <main class="wrap">
+      <div class="intro">
+        <p>
+          Curious what practice looks like before you jump in? Here are three sample workouts we swim
+          regularly, each designed to run about <strong>60 minutes</strong> for a typical masters lane —
+          faster swimmers can add distance or tighten the rest, slower swimmers can round distances down or
+          take a few extra seconds of rest. Actual coached practices vary by day, pool availability, and who
+          shows up, so treat these as a preview, not a substitute for showing up and following your coach.
+        </p>
+        <p>
+          Distances are written in <strong>short-course yards (SCY)</strong>, since that's our home pool at
+          the Drew. Swimming long course (meters)? Use the same set structure and just swim the same
+          distances in meters — the workout will run a little longer per repeat, which is fine.
+        </p>
+        <div class="key">
+          <span><strong>@ :XX</strong> = send-off interval (rest = interval minus your swim time)</span>
+          <span><strong>desc</strong> = descend (each one faster than the last)</span>
+          <span><strong>DPS</strong> = distance per stroke, easy focus on technique</span>
+        </div>
+      </div>
+
+      <section class="workout">
+        <h2>1. Aerobic Endurance</h2>
+        <p class="meta">Best for: building an aerobic base &middot; Total: <strong>~2,800 yd</strong></p>
+
+        <table>
+          <caption class="first">Warm-Up</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">400</td><td>Easy swim, mix strokes every 100</td><td class="rest">—</td></tr>
+            <tr><td class="dist">200</td><td>Kick with board, choice of kick</td><td class="rest">—</td></tr>
+            <tr><td class="dist">4 x 50</td><td>Drill / swim by 25s, focus on DPS</td><td class="rest">:10</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Pre-Set</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">8 x 50</td><td>Freestyle, build effort each one</td><td class="rest">:10</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Main Set</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">5 x 200</td><td>Freestyle, negative split (2nd 100 faster than 1st)</td><td class="rest">:20</td></tr>
+            <tr><td class="dist">4 x 100</td><td>Freestyle, steady aerobic pace</td><td class="rest">:15</td></tr>
+          </tbody>
+        </table>
+        <p class="note">Pressed for time? Swim 4 x 200 instead of 5 x 200 in the main set (~2,600 yd total).</p>
+
+        <table>
+          <caption>Cool-Down</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
+          </tbody>
+        </table>
+        <p class="total">Total: 400 + 200 + 200 + 400 + 1,000 + 400 + 200 = 2,800 yd</p>
+      </section>
+
+      <section class="workout">
+        <h2>2. Sprint &amp; Speed</h2>
+        <p class="meta">Best for: race pace, quick-twitch power &middot; Total: <strong>~1,950 yd</strong></p>
+
+        <table>
+          <caption class="first">Warm-Up</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">300</td><td>Easy swim</td><td class="rest">—</td></tr>
+            <tr><td class="dist">200</td><td>Kick, alternate 25 easy / 25 fast</td><td class="rest">—</td></tr>
+            <tr><td class="dist">4 x 50</td><td>Drill / swim by 25s</td><td class="rest">:10</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Pre-Set</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">8 x 25</td><td>Build each one; last 25 near max effort</td><td class="rest">:15</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Main Set</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">3 rounds of<br>4 x 50</td><td>Descend 1&ndash;4 within each round (easy &rarr; fast)</td><td class="rest">:10</td></tr>
+            <tr><td class="dist">6 x 25</td><td>Max effort sprint, freestyle</td><td class="rest">:30&ndash;:45</td></tr>
+          </tbody>
+        </table>
+        <p class="note">Sprint 25s should feel all-out — take the extra rest if you need it to hit true speed.</p>
+
+        <table>
+          <caption>Cool-Down</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">300</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
+          </tbody>
+        </table>
+        <p class="total">Total: 300 + 200 + 200 + 200 + 600 + 150 + 300 = 1,950 yd (add a 4th round of the descending 50s for ~2,150 yd)</p>
+      </section>
+
+      <section class="workout">
+        <h2>3. IM &amp; Technique</h2>
+        <p class="meta">Best for: all four strokes, drill focus &middot; Total: <strong>~2,100 yd</strong></p>
+
+        <table>
+          <caption class="first">Warm-Up</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">400</td><td>Easy swim, mix strokes</td><td class="rest">—</td></tr>
+            <tr><td class="dist">4 x 75</td><td>By stroke (fly / back / breast / free), 25 drill + 50 swim</td><td class="rest">:15</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Pre-Set</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">4 x 100</td><td>IM order (fly / back / breast / free), steady pace</td><td class="rest">:20</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Main Set</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">8 x 75</td><td>25 drill / 25 kick / 25 swim &mdash; rotate stroke every 2 rounds</td><td class="rest">:15</td></tr>
+            <tr><td class="dist">4 x 50</td><td>Choice stroke, fast &amp; controlled</td><td class="rest">:15</td></tr>
+          </tbody>
+        </table>
+
+        <table>
+          <caption>Cool-Down</caption>
+          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+          <tbody>
+            <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
+          </tbody>
+        </table>
+        <p class="total">Total: 400 + 300 + 400 + 600 + 200 + 200 = 2,100 yd (extend to 12 x 75 instead of 8 x 75 for ~2,400 yd)</p>
+      </section>
+
+      <p class="note" style="text-align: center; margin-top: 0.5rem;">
+        New to Masters or coming back after time off? Tell your coach before practice — they're happy to
+        adjust distances, offer modifications, or pair you with a lane that matches your pace.
+      </p>
+    </main>
+    <footer>
+      <p><a href="/#coaches">Meet our coaches</a> &middot; <a href="/#schedule">Practice schedule</a> &middot; <a href="/">columbiamastersswim.org</a></p>
+    </footer>
+  </body>
+</html>

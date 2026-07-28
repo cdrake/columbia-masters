@@ -6,6 +6,7 @@ import type {
   BoardMember,
   GalleryEvent,
   LocationEntry,
+  FAQEntry,
 } from "./types";
 import tenant from "virtual:tenant";
 import { fetchAllSheets } from "./sheets";
@@ -40,6 +41,7 @@ async function init() {
   await initGallery();
   await initLocationInfo(sheetData.schedule, sheetData.content);
   if (sheetData.board.length) renderBoard(sheetData.board);
+  if (sheetData.faq.length) renderFAQ(sheetData.faq);
   if (Object.keys(sheetData.content).length) renderContent(sheetData.content);
 
   populateFilters();
@@ -471,6 +473,18 @@ function renderBoard(members: BoardMember[]) {
         <div class="board-role">${esc(m.role)}</div>
         <div class="board-name">${esc(m.name)}</div>
       </div>`
+    )
+    .join("");
+}
+
+function renderFAQ(entries: FAQEntry[]) {
+  const el = $<HTMLDivElement>("#faq-list");
+  el.innerHTML = entries
+    .map(
+      (e) => `<details class="faq-item">
+        <summary>${esc(e.question)}</summary>
+        <div class="faq-answer">${md(e.answer)}</div>
+      </details>`
     )
     .join("");
 }
