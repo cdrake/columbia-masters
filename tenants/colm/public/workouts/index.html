@@ -178,129 +178,138 @@
         </div>
       </div>
 
-      <section class="workout">
-        <h2>1. Aerobic Endurance</h2>
-        <p class="meta">Best for: building an aerobic base &middot; Total: <strong>~2,800 yd</strong></p>
+      <!--
+        Everything inside #workouts-container below is the static fallback (no-JS / Sheet
+        unreachable). The script at the bottom of this page fetches the optional "Workouts" tab
+        from the club's published Google Sheet and, if it finds rows, replaces this container's
+        content with the live version. See README.md "Adding the Workouts Tab" for the Sheet
+        schema and how to wire up SHEET_GID below once that tab exists.
+      -->
+      <div id="workouts-container">
+        <section class="workout">
+          <h2>1. Aerobic Endurance</h2>
+          <p class="meta">Best for: building an aerobic base &middot; Total: <strong>~2,800 yd</strong></p>
 
-        <table>
-          <caption class="first">Warm-Up</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">400</td><td>Easy swim, mix strokes every 100</td><td class="rest">—</td></tr>
-            <tr><td class="dist">200</td><td>Kick with board, choice of kick</td><td class="rest">—</td></tr>
-            <tr><td class="dist">4 x 50</td><td>Drill / swim by 25s, focus on DPS</td><td class="rest">:10</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption class="first">Warm-Up</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">400</td><td>Easy swim, mix strokes every 100</td><td class="rest">—</td></tr>
+              <tr><td class="dist">200</td><td>Kick with board, choice of kick</td><td class="rest">—</td></tr>
+              <tr><td class="dist">4 x 50</td><td>Drill / swim by 25s, focus on DPS</td><td class="rest">:10</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Pre-Set</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">8 x 50</td><td>Freestyle, build effort each one</td><td class="rest">:10</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption>Pre-Set</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">8 x 50</td><td>Freestyle, build effort each one</td><td class="rest">:10</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Main Set</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">5 x 200</td><td>Freestyle, negative split (2nd 100 faster than 1st)</td><td class="rest">:20</td></tr>
-            <tr><td class="dist">4 x 100</td><td>Freestyle, steady aerobic pace</td><td class="rest">:15</td></tr>
-          </tbody>
-        </table>
-        <p class="note">Pressed for time? Swim 4 x 200 instead of 5 x 200 in the main set (~2,600 yd total).</p>
+          <table>
+            <caption>Main Set</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">5 x 200</td><td>Freestyle, negative split (2nd 100 faster than 1st)</td><td class="rest">:20</td></tr>
+              <tr><td class="dist">4 x 100</td><td>Freestyle, steady aerobic pace</td><td class="rest">:15</td></tr>
+            </tbody>
+          </table>
+          <p class="note">Pressed for time? Swim 4 x 200 instead of 5 x 200 in the main set (~2,600 yd total).</p>
 
-        <table>
-          <caption>Cool-Down</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
-          </tbody>
-        </table>
-        <p class="total">Total: 400 + 200 + 200 + 400 + 1,000 + 400 + 200 = 2,800 yd</p>
-      </section>
+          <table>
+            <caption>Cool-Down</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
+            </tbody>
+          </table>
+          <p class="total">Total: 400 + 200 + 200 + 400 + 1,000 + 400 + 200 = 2,800 yd</p>
+        </section>
 
-      <section class="workout">
-        <h2>2. Sprint &amp; Speed</h2>
-        <p class="meta">Best for: race pace, quick-twitch power &middot; Total: <strong>~1,950 yd</strong></p>
+        <section class="workout">
+          <h2>2. Sprint &amp; Speed</h2>
+          <p class="meta">Best for: race pace, quick-twitch power &middot; Total: <strong>~1,950 yd</strong></p>
 
-        <table>
-          <caption class="first">Warm-Up</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">300</td><td>Easy swim</td><td class="rest">—</td></tr>
-            <tr><td class="dist">200</td><td>Kick, alternate 25 easy / 25 fast</td><td class="rest">—</td></tr>
-            <tr><td class="dist">4 x 50</td><td>Drill / swim by 25s</td><td class="rest">:10</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption class="first">Warm-Up</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">300</td><td>Easy swim</td><td class="rest">—</td></tr>
+              <tr><td class="dist">200</td><td>Kick, alternate 25 easy / 25 fast</td><td class="rest">—</td></tr>
+              <tr><td class="dist">4 x 50</td><td>Drill / swim by 25s</td><td class="rest">:10</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Pre-Set</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">8 x 25</td><td>Build each one; last 25 near max effort</td><td class="rest">:15</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption>Pre-Set</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">8 x 25</td><td>Build each one; last 25 near max effort</td><td class="rest">:15</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Main Set</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">3 rounds of<br>4 x 50</td><td>Descend 1&ndash;4 within each round (easy &rarr; fast)</td><td class="rest">:10</td></tr>
-            <tr><td class="dist">6 x 25</td><td>Max effort sprint, freestyle</td><td class="rest">:30&ndash;:45</td></tr>
-          </tbody>
-        </table>
-        <p class="note">Sprint 25s should feel all-out — take the extra rest if you need it to hit true speed.</p>
+          <table>
+            <caption>Main Set</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">3 rounds of<br>4 x 50</td><td>Descend 1&ndash;4 within each round (easy &rarr; fast)</td><td class="rest">:10</td></tr>
+              <tr><td class="dist">6 x 25</td><td>Max effort sprint, freestyle</td><td class="rest">:30&ndash;:45</td></tr>
+            </tbody>
+          </table>
+          <p class="note">Sprint 25s should feel all-out — take the extra rest if you need it to hit true speed.</p>
 
-        <table>
-          <caption>Cool-Down</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">300</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
-          </tbody>
-        </table>
-        <p class="total">Total: 300 + 200 + 200 + 200 + 600 + 150 + 300 = 1,950 yd (add a 4th round of the descending 50s for ~2,150 yd)</p>
-      </section>
+          <table>
+            <caption>Cool-Down</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">300</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
+            </tbody>
+          </table>
+          <p class="total">Total: 300 + 200 + 200 + 200 + 600 + 150 + 300 = 1,950 yd (add a 4th round of the descending 50s for ~2,150 yd)</p>
+        </section>
 
-      <section class="workout">
-        <h2>3. IM &amp; Technique</h2>
-        <p class="meta">Best for: all four strokes, drill focus &middot; Total: <strong>~2,100 yd</strong></p>
+        <section class="workout">
+          <h2>3. IM &amp; Technique</h2>
+          <p class="meta">Best for: all four strokes, drill focus &middot; Total: <strong>~2,100 yd</strong></p>
 
-        <table>
-          <caption class="first">Warm-Up</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">400</td><td>Easy swim, mix strokes</td><td class="rest">—</td></tr>
-            <tr><td class="dist">4 x 75</td><td>By stroke (fly / back / breast / free), 25 drill + 50 swim</td><td class="rest">:15</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption class="first">Warm-Up</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">400</td><td>Easy swim, mix strokes</td><td class="rest">—</td></tr>
+              <tr><td class="dist">4 x 75</td><td>By stroke (fly / back / breast / free), 25 drill + 50 swim</td><td class="rest">:15</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Pre-Set</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">4 x 100</td><td>IM order (fly / back / breast / free), steady pace</td><td class="rest">:20</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption>Pre-Set</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">4 x 100</td><td>IM order (fly / back / breast / free), steady pace</td><td class="rest">:20</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Main Set</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">8 x 75</td><td>25 drill / 25 kick / 25 swim &mdash; rotate stroke every 2 rounds</td><td class="rest">:15</td></tr>
-            <tr><td class="dist">4 x 50</td><td>Choice stroke, fast &amp; controlled</td><td class="rest">:15</td></tr>
-          </tbody>
-        </table>
+          <table>
+            <caption>Main Set</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">8 x 75</td><td>25 drill / 25 kick / 25 swim &mdash; rotate stroke every 2 rounds</td><td class="rest">:15</td></tr>
+              <tr><td class="dist">4 x 50</td><td>Choice stroke, fast &amp; controlled</td><td class="rest">:15</td></tr>
+            </tbody>
+          </table>
 
-        <table>
-          <caption>Cool-Down</caption>
-          <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
-          <tbody>
-            <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
-          </tbody>
-        </table>
-        <p class="total">Total: 400 + 300 + 400 + 600 + 200 + 200 = 2,100 yd (extend to 12 x 75 instead of 8 x 75 for ~2,400 yd)</p>
-      </section>
+          <table>
+            <caption>Cool-Down</caption>
+            <thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead>
+            <tbody>
+              <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
+            </tbody>
+          </table>
+          <p class="total">Total: 400 + 300 + 400 + 600 + 200 + 200 = 2,100 yd (extend to 12 x 75 instead of 8 x 75 for ~2,400 yd)</p>
+        </section>
+      </div>
 
       <p class="note" style="text-align: center; margin-top: 0.5rem;">
         New to Masters or coming back after time off? Tell your coach before practice — they're happy to
@@ -310,5 +319,153 @@
     <footer>
       <p><a href="/#coaches">Meet our coaches</a> &middot; <a href="/#schedule">Practice schedule</a> &middot; <a href="/">columbiamastersswim.org</a></p>
     </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script>
+      // Optional "Workouts" Sheet tab — same published spreadsheet as the main site
+      // (tenants/colm/tenant.json -> sheet.publishedId). Leave SHEET_GID as null until the
+      // tab exists; once it does, set it to the tab's gid (see README "Adding the Workouts Tab").
+      var SHEET_PUBLISHED_ID = "2PACX-1vR9y_rKw1wRo0Xqy0T9zKn4qXK3r1GHAXZvivmnIGdtsaxLp3n8TzB3QUQ2IcnBhZYQ-3wRUKiklEbs";
+      var SHEET_GID = 2107277; // Workouts tab gid
+
+      function esc(s) {
+        var d = document.createElement("div");
+        d.textContent = s == null ? "" : s;
+        return d.innerHTML;
+      }
+
+      function extractTotalYards(details) {
+        var m = /=\s*([\d,]+)\s*yd/.exec(details || "");
+        return m ? "~" + m[1] + " yd" : "";
+      }
+
+      var SECTION_ORDER = ["Warm-Up", "Pre-Set", "Main Set", "Cool-Down"];
+
+      function renderWorkout(rows) {
+        var title = rows[0].workout;
+        var bestFor = rows[0].bestFor;
+        var bySection = {};
+        var totalDetails = "";
+        var noteDetails = "";
+
+        rows.forEach(function (r) {
+          var section = (r.section || "").trim();
+          if (section === "Total") {
+            totalDetails = r.details;
+          } else if (section === "Note") {
+            noteDetails = r.details;
+          } else if (section) {
+            if (!bySection[section]) bySection[section] = [];
+            bySection[section].push(r);
+          }
+        });
+
+        var totalYards = extractTotalYards(totalDetails);
+        var metaHtml =
+          '<p class="meta">Best for: ' +
+          esc(bestFor) +
+          (totalYards ? " &middot; Total: <strong>" + esc(totalYards) + "</strong>" : "") +
+          "</p>";
+
+        var tablesHtml = SECTION_ORDER.filter(function (s) {
+          return bySection[s] && bySection[s].length;
+        })
+          .map(function (section, i) {
+            var rowsHtml = bySection[section]
+              .map(function (r) {
+                return (
+                  "<tr><td class=\"dist\">" +
+                  esc(r.distance) +
+                  "</td><td>" +
+                  esc(r.details) +
+                  "</td><td class=\"rest\">" +
+                  esc(r.rest) +
+                  "</td></tr>"
+                );
+              })
+              .join("");
+            return (
+              "<table><caption" +
+              (i === 0 ? ' class="first"' : "") +
+              ">" +
+              esc(section) +
+              '</caption><thead><tr><th class="dist">Distance</th><th>Set</th><th class="rest">Rest</th></tr></thead><tbody>' +
+              rowsHtml +
+              "</tbody></table>"
+            );
+          })
+          .join("");
+
+        var noteHtml = noteDetails ? '<p class="note">' + esc(noteDetails) + "</p>" : "";
+        var totalHtml = totalDetails ? '<p class="total">' + esc(totalDetails) + "</p>" : "";
+
+        // Note appears right after Main Set (matching the static layout), total at the very end.
+        var mainIndex = SECTION_ORDER.indexOf("Main Set");
+        var afterMainSection = SECTION_ORDER.slice(0, mainIndex + 1).filter(function (s) {
+          return bySection[s] && bySection[s].length;
+        }).length;
+        var tableParts = tablesHtml.split("</table>").filter(Boolean).map(function (t) {
+          return t + "</table>";
+        });
+        var beforeNote = tableParts.slice(0, afterMainSection).join("");
+        var afterNote = tableParts.slice(afterMainSection).join("");
+
+        return (
+          '<section class="workout"><h2>' +
+          esc(title) +
+          "</h2>" +
+          metaHtml +
+          beforeNote +
+          noteHtml +
+          afterNote +
+          totalHtml +
+          "</section>"
+        );
+      }
+
+      function loadWorkouts() {
+        if (!SHEET_GID) return;
+        var url =
+          "https://docs.google.com/spreadsheets/d/e/" +
+          SHEET_PUBLISHED_ID +
+          "/pub?gid=" +
+          SHEET_GID +
+          "&single=true&output=csv";
+
+        fetch(url)
+          .then(function (res) {
+            return res.text();
+          })
+          .then(function (csv) {
+            var parsed = Papa.parse(csv, { header: true, skipEmptyLines: true });
+            var rows = (parsed.data || []).filter(function (r) {
+              return r.workout && r.workout.trim();
+            });
+            if (!rows.length) return; // keep static fallback
+
+            var order = [];
+            var byWorkout = {};
+            rows.forEach(function (r) {
+              var key = r.workout.trim();
+              if (!byWorkout[key]) {
+                byWorkout[key] = [];
+                order.push(key);
+              }
+              byWorkout[key].push(r);
+            });
+
+            var html = order.map(function (key) {
+              return renderWorkout(byWorkout[key]);
+            }).join("\n");
+
+            document.getElementById("workouts-container").innerHTML = html;
+          })
+          .catch(function () {
+            // Network or parse error — static fallback above stays as-is.
+          });
+      }
+
+      loadWorkouts();
+    </script>
   </body>
 </html>

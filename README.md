@@ -44,7 +44,7 @@ hatch run update -- --tenant colm
 
 The website pulls dynamic content from a published Google Sheet. Organizers can update the site without any code changes or rebuilds — just edit the spreadsheet and the site reflects changes on the next page load.
 
-The Google Sheet has four tabs, plus an optional fifth for FAQs:
+The Google Sheet has four tabs, plus two optional ones for FAQs and sample workouts:
 
 | Tab | What it controls |
 |-----|-----------------|
@@ -53,6 +53,7 @@ The Google Sheet has four tabs, plus an optional fifth for FAQs:
 | **Board** | Board members and their roles |
 | **Content** | Hero text, about section, alerts, and other copy |
 | **FAQ** *(optional)* | Frequently asked questions, shown as an expandable list |
+| **Workouts** *(optional)* | Sample practices shown on the `/workouts/` page |
 
 ### Adding the FAQ Tab
 
@@ -66,6 +67,25 @@ The FAQ section reads from an optional Sheet tab. Until a club adds one, the sit
    "gids": { "events": 0, "schedule": 169167840, "board": 1134517228, "content": 439056656, "faq": 123456789 }
    ```
 5. Commit and push — once deployed, the FAQ section pulls live from the Sheet and updates on every page load, no rebuild needed. The static fallback keeps working as a backup if the Sheet is ever unreachable.
+
+### Adding the Workouts Tab
+
+The `/workouts/` sample-workouts page (`tenants/<slug>/public/workouts/index.html`) is a standalone static page — it isn't part of the Vite build, so it can't read `tenant.json` at build time. Instead it fetches an optional **Workouts** Sheet tab directly at runtime, with the same published spreadsheet used everywhere else. Until that tab is wired up, the page shows the static workouts baked into the HTML.
+
+Sheet schema — one row per set line, flat columns: `workout`, `bestFor`, `section`, `distance`, `details`, `rest`.
+
+- `workout` — the workout's title (e.g. `1. Aerobic Endurance`), repeated on every row belonging to it.
+- `bestFor` — short phrase shown next to "Best for:" in the header, also repeated per row.
+- `section` — one of `Warm-Up`, `Pre-Set`, `Main Set`, `Cool-Down` for a normal set row, or the special values `Note` (a callout shown after the Main Set table) or `Total` (the yardage breakdown shown at the end — the page extracts the trailing `= 2,800 yd` into the compact header total automatically).
+- `distance`, `details`, `rest` — the three table columns for normal rows; leave `distance`/`rest` blank for `Note`/`Total` rows.
+
+To wire it up:
+
+1. Add a new tab named **Workouts** to the club's Google Sheet with that header row, then add your rows (workouts can be added, removed, or reordered freely — the page renders whatever's there, in row order).
+2. Re-publish to the web if needed (File → Share → Publish to web).
+3. Open the Workouts tab and copy its `gid` from the browser URL.
+4. In `tenants/<slug>/public/workouts/index.html`, find the `SHEET_GID` constant near the bottom of the file and set it to that number (it starts as `null`, meaning "no tab yet, show the static fallback").
+5. Commit and push. The static markup in `#workouts-container` stays in the file as a fallback if the Sheet is ever unreachable — no need to remove it.
 
 ### Publishing an Alert (e.g., Pool Closure)
 
