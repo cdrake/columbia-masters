@@ -7,6 +7,7 @@ declare module "virtual:tenant" {
       schedule: string;
       board: string;
       content: string;
+      faq?: string;
     };
     /** "https://imagedelivery.net/<accountHash>/" or "" until Cloudflare Images is configured. */
     imageBase: string;

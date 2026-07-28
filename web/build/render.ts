@@ -1,5 +1,5 @@
 import type { Tenant } from "./load-tenant";
-import { mdInline } from "./load-tenant";
+import { mdInline, mdBlock } from "./load-tenant";
 
 function esc(s: string): string {
   return s
@@ -141,6 +141,18 @@ export function boardFallback(t: Tenant): string {
             <div class="board-role">${esc(m.role)}</div>
             <div class="board-name">${esc(m.name)}</div>
           </div>`
+    )
+    .join("\n          ");
+}
+
+/** Static fallback FAQ items — same markup as renderFAQ() in src/main.ts. */
+export function faqFallback(t: Tenant): string {
+  return t.fallback.faq
+    .map(
+      (f) => `<details class="faq-item">
+            <summary>${esc(f.question)}</summary>
+            <div class="faq-answer">${mdBlock(f.answer)}</div>
+          </details>`
     )
     .join("\n          ");
 }

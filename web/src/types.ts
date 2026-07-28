@@ -24,6 +24,11 @@ export interface SiteContent {
   value: string;
 }
 
+export interface FAQEntry {
+  question: string;
+  answer: string;
+}
+
 export interface LocationEntry {
   slug: string;
   name: string;

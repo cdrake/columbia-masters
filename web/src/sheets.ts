@@ -1,10 +1,10 @@
 import Papa from "papaparse";
 import tenant from "virtual:tenant";
-import type { SiteEvent, ScheduleEntry, BoardMember, SiteContent } from "./types";
+import type { SiteEvent, ScheduleEntry, BoardMember, SiteContent, FAQEntry } from "./types";
 
 const SHEET_URLS = tenant.sheetUrls;
 
-async function fetchSheet<T>(url: string): Promise<T[]> {
+async function fetchSheet<T>(url: string | undefined): Promise<T[]> {
   if (!url) return [];
   const res = await fetch(url);
   const csv = await res.text();
@@ -33,12 +33,19 @@ export async function fetchContent(): Promise<Record<string, string>> {
   return map;
 }
 
+/** FAQ tab is optional — tenants that haven't added it yet just get no gid, so this resolves to []. */
+export async function fetchFAQ(): Promise<FAQEntry[]> {
+  const rows = await fetchSheet<FAQEntry>(SHEET_URLS.faq);
+  return rows.filter((r) => r.question?.trim() && r.answer?.trim());
+}
+
 export async function fetchAllSheets() {
-  const [events, schedule, board, content] = await Promise.all([
+  const [events, schedule, board, content, faq] = await Promise.all([
     fetchEvents(),
     fetchSchedule(),
     fetchBoard(),
     fetchContent(),
+    fetchFAQ(),
   ]);
-  return { events, schedule, board, content };
+  return { events, schedule, board, content, faq };
 }

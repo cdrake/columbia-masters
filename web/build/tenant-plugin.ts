@@ -16,6 +16,7 @@ function sections(t: Tenant): Record<string, string> {
     classes: render.classesSection(t),
     coaches: render.coachesSection(t),
     "board-fallback": render.boardFallback(t),
+    "faq-fallback": render.faqFallback(t),
     "footer-address": render.footerAddress(t),
     "footer-socials": render.footerSocials(t),
     copyright: render.copyright(t),

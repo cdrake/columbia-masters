@@ -54,7 +54,8 @@ Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenant
 ## Key Details
 
 - The Sheet `content` tab overrides baked-in HTML at runtime (keys: hero_sub, about_text, alert_message, location_info_<slug>, …) — template changes must keep those element ids.
-- Fallback schedule/events/board in tenants/<slug>/content/fallback/ are intentional static/SEO content (rendered into HTML at build), replaced at runtime by Sheet data when available.
+- Fallback schedule/events/board/faq in tenants/<slug>/content/fallback/ are intentional static/SEO content (rendered into HTML at build), replaced at runtime by Sheet data when available.
+- The `faq` Sheet tab is optional (gid lives at `sheet.gids.faq`); tenants without it just show the static fallback. See README.md "Adding the FAQ Tab" for setup.
 - `hatch run refresh` must stay idempotent: no-op when USMS has no new records and indexes are current.
 - USMS HTML parsing in `_parse_results_table()` is generic and may need adjustment when the site structure changes — check `ScraperConfig` URL patterns first.
 - Ruff config: line-length 100, target Python 3.10. Web: `tsc && vite build` typechecks `web/src/` only (web/build/ is bundled by Vite's esbuild).
