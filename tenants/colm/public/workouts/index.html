@@ -167,9 +167,9 @@
           shows up, so treat these as a preview, not a substitute for showing up and following your coach.
         </p>
         <p>
-          Distances are written in <strong>short-course yards (SCY)</strong>, since that's our home pool at
-          the Drew. Swimming long course (meters)? Use the same set structure and just swim the same
-          distances in meters — the workout will run a little longer per repeat, which is fine.
+          Distances are written in <strong>short-course meters (SCM)</strong> — the Drew is a 25-meter
+          pool. Swimming long course (50 m)? Use the same set structure and the same distances; the
+          workout will just run a little longer per repeat, which is fine.
         </p>
         <div class="key">
           <span><strong>@ :XX</strong> = send-off interval (rest = interval minus your swim time)</span>
@@ -188,7 +188,7 @@
       <div id="workouts-container">
         <section class="workout">
           <h2>1. Aerobic Endurance</h2>
-          <p class="meta">Best for: building an aerobic base &middot; Total: <strong>~2,800 yd</strong></p>
+          <p class="meta">Best for: building an aerobic base &middot; Total: <strong>~2,800 m</strong></p>
 
           <table>
             <caption class="first">Warm-Up</caption>
@@ -216,7 +216,7 @@
               <tr><td class="dist">4 x 100</td><td>Freestyle, steady aerobic pace</td><td class="rest">:15</td></tr>
             </tbody>
           </table>
-          <p class="note">Pressed for time? Swim 4 x 200 instead of 5 x 200 in the main set (~2,600 yd total).</p>
+          <p class="note">Pressed for time? Swim 4 x 200 instead of 5 x 200 in the main set (~2,600 m total).</p>
 
           <table>
             <caption>Cool-Down</caption>
@@ -225,12 +225,12 @@
               <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
             </tbody>
           </table>
-          <p class="total">Total: 400 + 200 + 200 + 400 + 1,000 + 400 + 200 = 2,800 yd</p>
+          <p class="total">Total: 400 + 200 + 200 + 400 + 1,000 + 400 + 200 = 2,800 m</p>
         </section>
 
         <section class="workout">
           <h2>2. Sprint &amp; Speed</h2>
-          <p class="meta">Best for: race pace, quick-twitch power &middot; Total: <strong>~1,950 yd</strong></p>
+          <p class="meta">Best for: race pace, quick-twitch power &middot; Total: <strong>~1,950 m</strong></p>
 
           <table>
             <caption class="first">Warm-Up</caption>
@@ -267,12 +267,12 @@
               <tr><td class="dist">300</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
             </tbody>
           </table>
-          <p class="total">Total: 300 + 200 + 200 + 200 + 600 + 150 + 300 = 1,950 yd (add a 4th round of the descending 50s for ~2,150 yd)</p>
+          <p class="total">Total: 300 + 200 + 200 + 200 + 600 + 150 + 300 = 1,950 m (add a 4th round of the descending 50s for ~2,150 m)</p>
         </section>
 
         <section class="workout">
           <h2>3. IM &amp; Technique</h2>
-          <p class="meta">Best for: all four strokes, drill focus &middot; Total: <strong>~2,100 yd</strong></p>
+          <p class="meta">Best for: all four strokes, drill focus &middot; Total: <strong>~2,100 m</strong></p>
 
           <table>
             <caption class="first">Warm-Up</caption>
@@ -307,7 +307,7 @@
               <tr><td class="dist">200</td><td>Easy swim, choice stroke</td><td class="rest">—</td></tr>
             </tbody>
           </table>
-          <p class="total">Total: 400 + 300 + 400 + 600 + 200 + 200 = 2,100 yd (extend to 12 x 75 instead of 8 x 75 for ~2,400 yd)</p>
+          <p class="total">Total: 400 + 300 + 400 + 600 + 200 + 200 = 2,100 m (extend to 12 x 75 instead of 8 x 75 for ~2,400 m)</p>
         </section>
       </div>
 
@@ -334,9 +334,10 @@
         return d.innerHTML;
       }
 
-      function extractTotalYards(details) {
-        var m = /=\s*([\d,]+)\s*yd/.exec(details || "");
-        return m ? "~" + m[1] + " yd" : "";
+      function extractTotalDistance(details) {
+        // Echo whichever unit the Sheet's Total row uses ("m" for our 25 m pool, or "yd").
+        var m = /=\s*([\d,]+)\s*(yd|m)\b/.exec(details || "");
+        return m ? "~" + m[1] + " " + m[2] : "";
       }
 
       var SECTION_ORDER = ["Warm-Up", "Pre-Set", "Main Set", "Cool-Down"];
@@ -360,11 +361,11 @@
           }
         });
 
-        var totalYards = extractTotalYards(totalDetails);
+        var totalDistance = extractTotalDistance(totalDetails);
         var metaHtml =
           '<p class="meta">Best for: ' +
           esc(bestFor) +
-          (totalYards ? " &middot; Total: <strong>" + esc(totalYards) + "</strong>" : "") +
+          (totalDistance ? " &middot; Total: <strong>" + esc(totalDistance) + "</strong>" : "") +
           "</p>";
 
         var tablesHtml = SECTION_ORDER.filter(function (s) {

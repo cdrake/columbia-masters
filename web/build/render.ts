@@ -171,6 +171,13 @@ export function footerSocials(t: Tenant): string {
     .join("\n              ");
 }
 
+/** Optional club document links (e.g. bylaws PDF) appended to the footer Resources list. */
+export function footerResources(t: Tenant): string {
+  return (t.config.documents ?? [])
+    .map((d) => `<li><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.label)}</a></li>`)
+    .join("\n              ");
+}
+
 export function copyright(t: Tenant): string {
   const year = new Date().getFullYear();
   return `&copy; ${year} ${esc(t.config.name)} (${esc(t.config.teamCode)}). All rights reserved.`;
