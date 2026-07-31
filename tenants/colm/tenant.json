@@ -23,8 +23,12 @@
   "socials": [
     { "label": "USMS Club Page", "url": "https://www.usms.org/clubs" },
     { "label": "Facebook", "url": "https://www.facebook.com/" },
+    { "label": "Instagram @billssc_mastersswim", "url": "https://www.instagram.com/billssc_mastersswim", "sameAs": true },
     { "label": "Instagram @drew.swims", "url": "https://www.instagram.com/drew.swims", "sameAs": true },
     { "label": "Strava Club", "url": "https://www.strava.com/clubs/1463141", "sameAs": true }
+  ],
+  "documents": [
+    { "label": "Club Bylaws (PDF)", "url": "/bylaws.pdf" }
   ],
   "sheet": {
     "publishedId": "2PACX-1vR9y_rKw1wRo0Xqy0T9zKn4qXK3r1GHAXZvivmnIGdtsaxLp3n8TzB3QUQ2IcnBhZYQ-3wRUKiklEbs",

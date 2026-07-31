@@ -19,6 +19,7 @@ function sections(t: Tenant): Record<string, string> {
     "faq-fallback": render.faqFallback(t),
     "footer-address": render.footerAddress(t),
     "footer-socials": render.footerSocials(t),
+    "footer-resources": render.footerResources(t),
     copyright: render.copyright(t),
     "json-ld": render.jsonLd(t),
   };

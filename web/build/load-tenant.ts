@@ -11,6 +11,11 @@ export interface TenantSocial {
   sameAs?: boolean;
 }
 
+export interface TenantDocument {
+  label: string;
+  url: string;
+}
+
 export interface TenantConfig {
   slug: string;
   teamCode: string;
@@ -25,6 +30,8 @@ export interface TenantConfig {
   scheduleNote: string;
   colors: Record<string, string>;
   socials: TenantSocial[];
+  // Optional club documents (e.g. bylaws PDF) linked in the footer "Resources" column.
+  documents?: TenantDocument[];
   sheet: { publishedId: string; gids: Record<string, number> };
   records: { startYear: number };
   images?: { accountHash: string };
