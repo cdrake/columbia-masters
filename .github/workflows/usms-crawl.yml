@@ -93,7 +93,8 @@ jobs:
           import json
           s = json.load(open("data/usms/crawl_state.json"))
           total = len(s["lmscs"]) * (s["end_year"] - s["start_year"] + 1) * len(s["courses"])
-          print(f"phase1 {len(s[\"phase1_done\"])}/{total}, phase2 {len(s[\"phase2_done\"])}/{total}, {s[\"requests_made\"]} requests")
+          p1, p2, n = len(s["phase1_done"]), len(s["phase2_done"]), s["requests_made"]
+          print(f"phase1 {p1}/{total}, phase2 {p2}/{total}, {n} requests")
           ')
           git commit -m "USMS crawl: $summary" -m "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
           for attempt in 1 2 3; do
