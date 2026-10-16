@@ -26,7 +26,7 @@ interface TreeEntry {
 
 const CONFLICT = "The site changed since you started editing.";
 
-export const onRequestPost: AdminFunction = async ({ request, env, data }) => {
+export const onRequestPost: AdminFunction = async ({ request, env }) => {
   let body: PublishRequest;
   try {
     body = (await request.json()) as PublishRequest;
@@ -73,7 +73,7 @@ export const onRequestPost: AdminFunction = async ({ request, env, data }) => {
 
   const newTree = await gh.api<{ sha: string }>("POST", "/git/trees", { base_tree: await gh.treeSha(head), tree });
   const commit = await gh.api<{ sha: string; html_url: string }>("POST", "/git/commits", {
-    message: commitMessage(tenant, body, data.user),
+    message: commitMessage(tenant, body),
     tree: newTree.sha,
     parents: [head],
   });

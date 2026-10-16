@@ -90,7 +90,8 @@ export function validatePublish(body: unknown): string[] {
   return errs;
 }
 
-export function commitMessage(tenant: string, req: PublishRequest, user: string | null): string {
+// No author email in the message: the repo is public. Access logs record who signed in.
+export function commitMessage(tenant: string, req: PublishRequest): string {
   const summary = req.message?.trim().split("\n")[0].slice(0, 72) || "Update pages";
-  return `[admin:${tenant}] ${summary}${user ? `\n\nEdited-by: ${user}` : ""}\n`;
+  return `[admin:${tenant}] ${summary}\n`;
 }

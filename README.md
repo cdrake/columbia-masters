@@ -117,7 +117,7 @@ Club web admins can rearrange the home page, add content blocks, and create new 
 - **Built-in sections** (Hero, About, Schedule, …): drag to reorder or hide them. Their content still comes from the Sheet.
 - **Blocks**: Heading, Text (markdown), Image (uploads are resized in the browser), Buttons, Callout, Embed (YouTube, Google Maps/Forms/Calendar) and Divider.
 - **Pages**: each new page lives at `/<address>/` and can appear in the site menu. It is listed in the sitemap and `llms.txt` automatically.
-- Drafts autosave in the admin's browser. **Publish** commits `tenants/<slug>/content/pages/*.json` (and any new images under `public/uploads/`) to `main` as one commit, with an `Edited-by:` trailer. Cloudflare Pages then rebuilds, and the change is live in about 2 minutes. To roll back, revert the commit.
+- Drafts autosave in the admin's browser. **Publish** commits `tenants/<slug>/content/pages/*.json` (and any new images under `public/uploads/`) to `main` as one commit (`[admin:<slug>] …`, with no author email, since the repo is public; Cloudflare Access logs show who signed in). Cloudflare Pages then rebuilds, and the change is live in about 2 minutes. To roll back, revert the commit.
 - If two admins publish at the same time, the second one is told and can either load the latest version or publish over it.
 
 **Local:** `cd web && TENANT=colm npm run dev`, then open http://localhost:5173/admin/. In dev, Publish writes the tenant files directly; nothing is committed.
