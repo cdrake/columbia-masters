@@ -205,12 +205,25 @@ def _new_data_index(tenant: Tenant, record_count: int) -> dict:
     }
 
 
-def _update_data_index(web_data_dir: Path, record_count: int, tenant: Tenant | None = None) -> None:
-    """Update records count and lastUpdated in index.json, creating it from tenant if missing."""
+def _update_data_index(
+    web_data_dir: Path,
+    record_count: int,
+    tenant: Tenant | None = None,
+    records_changed: bool = True,
+) -> None:
+    """Update records count and lastUpdated in index.json, creating it from tenant if missing.
+
+    lastUpdated is the date the published records last changed, so republishing identical
+    records (e.g. `refresh --full`) leaves index.json untouched.
+    """
     index_path = web_data_dir / "index.json"
     if index_path.exists():
         with open(index_path, "r", encoding="utf-8") as f:
             index = json.load(f)
+        counts = [d.get("records") for d in index.get("datasets", [])]
+        if not records_changed and all(c == record_count for c in counts):
+            logging.info(f"  {index_path} unchanged (records: {record_count})")
+            return
     elif tenant is not None:
         index = _new_data_index(tenant, record_count)
     else:
@@ -339,10 +352,14 @@ def _publish_records(
 
     web_data_dir.mkdir(parents=True, exist_ok=True)
     dest = web_data_dir / combined_path.name
-    shutil.copy2(combined_path, dest)
-    logging.info(f"  Updated website data: {dest}")
+    records_changed = not dest.exists() or dest.read_bytes() != combined_path.read_bytes()
+    if records_changed:
+        shutil.copy2(combined_path, dest)
+        logging.info(f"  Updated website data: {dest}")
+    else:
+        logging.info(f"  Website data unchanged: {dest}")
 
-    _update_data_index(web_data_dir, len(combined_records), tenant)
+    _update_data_index(web_data_dir, len(combined_records), tenant, records_changed)
 
     return len(combined_records)
 
