@@ -131,6 +131,11 @@ Every club can choose a site template in the editor, much like picking a theme i
 | **Lane Line** (default) | Classic navy and gold, clean cards, centered headings |
 | **Deep End** | Dark and athletic, huge condensed headlines, bright accent |
 | **Morning Swim** | Bright and rounded, friendly type, a sunny lane-tile hero |
+| **Kickboard** | Loud and playful, thick outlines, offset shadows, candy colors |
+| **Heritage** | Traditional club, cream paper, forest green, serif headlines, gold rules |
+| **Open Water** | Calm and airy, ocean-gradient hero with a wave edge, sky-blue sections |
+| **Pace Clock** | Crisp Swiss grid, numbered sections, monospace times |
+| **Poolside** | Seventies retro, sunset stripes, chunky script headlines |
 
 - The choice is saved in `tenants/<slug>/content/site.json`, for example `{ "theme": "morning-swim", "accent": "#ffd166" }`. If the file is missing, the club gets Lane Line with its `tenant.json` colors. A bad value fails the build, so the last good deploy stays live.
 - Designs change only CSS and fonts. The content, Sheet overrides and element ids are the same in every design.

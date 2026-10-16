@@ -3,7 +3,16 @@
 // and the publish API. Themes are CSS-only (web/src/themes/<id>.css, scoped by
 // [data-theme="<id>"]), so switching never changes markup or element ids.
 
-export const THEME_IDS = ["lane-line", "deep-end", "morning-swim"] as const;
+export const THEME_IDS = [
+  "lane-line",
+  "deep-end",
+  "morning-swim",
+  "kickboard",
+  "heritage",
+  "open-water",
+  "pace-clock",
+  "poolside",
+] as const;
 export type ThemeId = (typeof THEME_IDS)[number];
 
 export interface ThemeInfo {
@@ -43,6 +52,48 @@ export const THEMES: Record<ThemeId, ThemeInfo> = {
     fonts:
       "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap",
     accents: ["#ff9a7a", "#ffd166", "#9ad8c8", "#c3b4ff"],
+    stylesheet: true,
+  },
+  kickboard: {
+    id: "kickboard",
+    label: "Kickboard",
+    description: "Loud and playful. Thick outlines, offset shadows and candy colors — fun-first clubs.",
+    fonts: "https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;600;700&display=swap",
+    accents: ["#ffd23f", "#3bceac", "#ee4266", "#5b8cff"],
+    stylesheet: true,
+  },
+  heritage: {
+    id: "heritage",
+    label: "Heritage",
+    description: "Traditional club. Cream paper, forest green, serif headlines and gold rules.",
+    fonts:
+      "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Libre+Franklin:wght@400;500;600;700&display=swap",
+    accents: ["#b08d3c", "#8c2f39", "#2f5d8c", "#4f7d5c"],
+    stylesheet: true,
+  },
+  "open-water": {
+    id: "open-water",
+    label: "Open Water",
+    description: "Calm and airy. An ocean-gradient hero with a wave edge, soft sky-blue sections.",
+    fonts: "https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600;700&display=swap",
+    accents: ["#ffb547", "#5ee0c4", "#ff7a7a", "#9ec9ff"],
+    stylesheet: true,
+  },
+  "pace-clock": {
+    id: "pace-clock",
+    label: "Pace Clock",
+    description: "Crisp and data-driven. Swiss grid lines and monospace times, like the clock on the wall.",
+    fonts:
+      "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;800&family=JetBrains+Mono:wght@400;600&display=swap",
+    accents: ["#0057ff", "#ff3d00", "#00a86b", "#111111"],
+    stylesheet: true,
+  },
+  poolside: {
+    id: "poolside",
+    label: "Poolside",
+    description: "Seventies retro. Warm cream, sunset stripes and a chunky script headline.",
+    fonts: "https://fonts.googleapis.com/css2?family=Shrikhand&family=Rubik:wght@400;500;600;700&display=swap",
+    accents: ["#e8743b", "#f2b134", "#2a9d8f", "#d1495b"],
     stylesheet: true,
   },
 };

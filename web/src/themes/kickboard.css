@@ -1,0 +1,447 @@
+/* Kickboard — loud, playful, neo-brutalist.
+   Scoped to [data-theme="kickboard"] (on <html> for the site, on the editor
+   canvas for previews). Restyles the shared markup only. */
+
+/* :root[...] outranks style.css's :root tokens whatever the load order (dev injects
+   style.css last); the bare selector themes the editor canvas. */
+:root[data-theme="kickboard"],
+[data-theme="kickboard"] {
+  --navy: #111111;
+  --navy-light: #2b2b2b;
+  --blue: #111111;
+  --blue-light: #555555;
+  --bg: #fffdf5;
+  --bg-alt: #fff3c4;
+  --text: #111111;
+  --text-muted: #4a4a4a;
+  --white: #ffffff;
+  --radius: 12px;
+  --ink: #111111;
+  --mint: #3bceac;
+  --pink: #ee4266;
+  --shadow: 0 0 0 3px var(--ink), 6px 6px 0 3px var(--ink);
+  --shadow-lg: 0 0 0 3px var(--ink), 9px 9px 0 3px var(--ink);
+  --font-body: "Archivo", system-ui, sans-serif;
+  --font-display: "Archivo Black", "Archivo", system-ui, sans-serif;
+}
+
+/* ─── Nav ─── */
+
+[data-theme="kickboard"] #main-nav {
+  background: var(--bg);
+  box-shadow: none;
+  border-bottom: 3px solid var(--ink);
+}
+
+[data-theme="kickboard"] .nav-inner {
+  height: 64px;
+}
+
+[data-theme="kickboard"] .nav-logo {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.15rem;
+  letter-spacing: 0;
+  color: var(--on-accent);
+  background: var(--accent);
+  padding: 0.2rem 0.65rem;
+  border: 3px solid var(--ink);
+  border-radius: 10px;
+  box-shadow: 3px 3px 0 var(--ink);
+  rotate: -2deg;
+}
+
+[data-theme="kickboard"] .nav-toggle {
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .nav-links a {
+  color: var(--ink);
+  font-weight: 700;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
+
+[data-theme="kickboard"] .nav-links a:hover,
+[data-theme="kickboard"] .nav-links a[aria-current="page"] {
+  background: var(--white);
+  color: var(--ink);
+  border-color: var(--ink);
+}
+
+/* ─── Hero ─── */
+
+[data-theme="kickboard"] #hero {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle, rgba(0, 0, 0, 0.12) 1.5px, transparent 1.6px) 0 0 / 22px 22px,
+    var(--accent);
+  color: var(--on-accent);
+  border-bottom: 3px solid var(--ink);
+  padding: 5rem 1rem 4.5rem;
+}
+
+[data-theme="kickboard"] .hero-content h1 {
+  font-weight: 400;
+  font-size: clamp(2.4rem, 6vw, 4.6rem);
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  margin-bottom: 1.25rem;
+}
+
+[data-theme="kickboard"] .hero-sub {
+  display: inline-block;
+  background: var(--white);
+  color: var(--ink);
+  font-weight: 700;
+  padding: 0.3rem 0.9rem;
+  border: 3px solid var(--ink);
+  border-radius: 999px;
+  box-shadow: 3px 3px 0 var(--ink);
+  rotate: 1.5deg;
+  opacity: 1;
+  margin-bottom: 1rem;
+}
+
+[data-theme="kickboard"] .hero-tagline {
+  font-size: 1.2rem;
+  font-weight: 500;
+  opacity: 0.9;
+}
+
+/* ─── Buttons ─── */
+
+[data-theme="kickboard"] .btn {
+  border: 3px solid var(--ink);
+  border-radius: 12px;
+  box-shadow: 4px 4px 0 var(--ink);
+  font-weight: 800;
+  padding: 0.75rem 1.5rem;
+  transition: transform 0.1s, box-shadow 0.1s;
+}
+
+[data-theme="kickboard"] .btn:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 var(--ink);
+}
+
+[data-theme="kickboard"] .btn:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 var(--ink);
+}
+
+/* On the accent-colored hero the primary button flips to white so it still stands out. */
+[data-theme="kickboard"] #hero .btn-primary {
+  background: var(--white);
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .btn-outline,
+[data-theme="kickboard"] .btn-secondary {
+  background: var(--ink);
+  color: var(--white);
+}
+
+[data-theme="kickboard"] .btn-outline:hover,
+[data-theme="kickboard"] .btn-secondary:hover {
+  border-color: var(--ink);
+}
+
+/* ─── Sections ─── */
+
+[data-theme="kickboard"] .section {
+  padding: 4.5rem 0;
+}
+
+[data-theme="kickboard"] .section-alt {
+  border-top: 3px solid var(--ink);
+  border-bottom: 3px solid var(--ink);
+}
+
+[data-theme="kickboard"] .section h2,
+[data-theme="kickboard"] .page-header h1 {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  letter-spacing: -0.01em;
+}
+
+/* Highlighter swipe under the section title. */
+[data-theme="kickboard"] .section h2 {
+  width: fit-content;
+  margin-inline: auto;
+  padding: 0 0.3em;
+  background: linear-gradient(transparent 58%, var(--accent) 58% 92%, transparent 92%);
+}
+
+[data-theme="kickboard"] .page-header {
+  background: var(--accent);
+  color: var(--on-accent);
+  border-bottom: 3px solid var(--ink);
+}
+
+[data-theme="kickboard"] .about-card,
+[data-theme="kickboard"] .block-callout {
+  border-left: 0;
+}
+
+[data-theme="kickboard"] .about-card {
+  background: var(--mint);
+  rotate: 1deg;
+}
+
+[data-theme="kickboard"] .about-card h3,
+[data-theme="kickboard"] .schedule-day,
+[data-theme="kickboard"] .board-name,
+[data-theme="kickboard"] .coach-bio h3,
+[data-theme="kickboard"] .block-callout-title,
+[data-theme="kickboard"] .class-callout-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .about-card dt {
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .about-text p,
+[data-theme="kickboard"] .gallery-description {
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .faq-item > summary,
+[data-theme="kickboard"] .location-section > summary {
+  font-weight: 800;
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .faq-item > summary::after,
+[data-theme="kickboard"] .location-section > summary::after {
+  display: grid;
+  place-items: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--on-accent);
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+[data-theme="kickboard"] .location-section,
+[data-theme="kickboard"] .faq-item {
+  border-left: 0;
+}
+
+/* ─── Schedule ─── */
+
+[data-theme="kickboard"] .schedule-grid {
+  gap: 1.5rem;
+}
+
+[data-theme="kickboard"] .schedule-card:nth-child(4n + 1) { background: var(--white); }
+[data-theme="kickboard"] .schedule-card:nth-child(4n + 2) { background: #d9f6ee; }
+[data-theme="kickboard"] .schedule-card:nth-child(4n + 3) { background: #ffe0e7; }
+[data-theme="kickboard"] .schedule-card:nth-child(4n + 4) { background: #e1e9ff; }
+
+[data-theme="kickboard"] .schedule-card:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: var(--shadow-lg);
+}
+
+[data-theme="kickboard"] .schedule-day {
+  font-size: 1.25rem;
+}
+
+[data-theme="kickboard"] .schedule-time {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .badge {
+  border: 2px solid var(--ink);
+  font-weight: 800;
+}
+
+[data-theme="kickboard"] .badge-open,
+[data-theme="kickboard"] .badge-meet {
+  background: var(--mint);
+  color: var(--ink);
+}
+
+[data-theme="kickboard"] .badge-closed {
+  background: var(--pink);
+  color: var(--white);
+}
+
+[data-theme="kickboard"] .badge-social {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+/* ─── Events ─── */
+
+[data-theme="kickboard"] .events-list {
+  gap: 1.25rem;
+}
+
+[data-theme="kickboard"] .event-card:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: var(--shadow-lg);
+}
+
+[data-theme="kickboard"] .event-date {
+  background: var(--accent);
+  color: var(--on-accent);
+  border: 3px solid var(--ink);
+  border-radius: 10px;
+  rotate: -3deg;
+}
+
+[data-theme="kickboard"] .event-date .day {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+
+[data-theme="kickboard"] .event-info h3,
+[data-theme="kickboard"] .class-info h3,
+[data-theme="kickboard"] .gallery-event-header h3 {
+  color: var(--ink);
+  font-weight: 800;
+}
+
+/* ─── Coaches, board, classes ─── */
+
+[data-theme="kickboard"] .coach-photo {
+  border: 3px solid var(--ink);
+  border-radius: 14px;
+  box-shadow: 6px 6px 0 var(--accent), 6px 6px 0 3px var(--ink);
+}
+
+[data-theme="kickboard"] .board-role {
+  display: inline-block;
+  color: var(--ink);
+  background: var(--accent);
+  border: 2px solid var(--ink);
+  border-radius: 6px;
+  padding: 0.05rem 0.4rem;
+}
+
+[data-theme="kickboard"] .class-callout {
+  background: var(--bg-alt);
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+}
+
+/* ─── Gallery ─── */
+
+[data-theme="kickboard"] .gallery-tab {
+  border: 0;
+}
+
+[data-theme="kickboard"] .gallery-tab.active {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+[data-theme="kickboard"] .gallery-photo img,
+[data-theme="kickboard"] .location-photo img {
+  border: 3px solid var(--ink);
+  border-radius: 10px;
+}
+
+[data-theme="kickboard"] .gallery-empty code {
+  background: var(--bg-alt);
+  border: 2px solid var(--ink);
+}
+
+/* ─── Records table ─── */
+
+[data-theme="kickboard"] #search,
+[data-theme="kickboard"] .filters select {
+  border: 3px solid var(--ink);
+  border-radius: 10px;
+  background: var(--white);
+}
+
+[data-theme="kickboard"] #search:focus {
+  box-shadow: 4px 4px 0 var(--accent), 4px 4px 0 3px var(--ink);
+  outline: none;
+}
+
+[data-theme="kickboard"] table {
+  border: 3px solid var(--ink);
+}
+
+[data-theme="kickboard"] th {
+  background: var(--ink);
+  font-weight: 800;
+}
+
+[data-theme="kickboard"] th:hover {
+  background: var(--navy-light);
+}
+
+[data-theme="kickboard"] td {
+  border-bottom: 2px solid var(--ink);
+}
+
+[data-theme="kickboard"] tbody tr:nth-child(even) {
+  background: var(--bg);
+}
+
+[data-theme="kickboard"] tbody tr:hover {
+  background: var(--bg-alt);
+}
+
+/* ─── Blocks ─── */
+
+[data-theme="kickboard"] .block-prose a,
+[data-theme="kickboard"] .block-callout a {
+  color: var(--ink);
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--pink);
+}
+
+[data-theme="kickboard"] .block-divider {
+  border: 0;
+  height: 3px;
+  background: var(--ink);
+}
+
+[data-theme="kickboard"] .block-embed iframe {
+  border: 3px solid var(--ink);
+  border-radius: 12px;
+  box-shadow: 6px 6px 0 var(--ink);
+}
+
+/* ─── Footer ─── */
+
+[data-theme="kickboard"] footer {
+  background: var(--ink);
+  border-top: 6px solid var(--accent);
+}
+
+[data-theme="kickboard"] footer h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  color: var(--accent);
+}
+
+/* ─── Responsive ─── */
+
+@media (max-width: 640px) {
+  [data-theme="kickboard"] .nav-links {
+    background: var(--bg);
+    border-bottom: 3px solid var(--ink);
+  }
+
+  [data-theme="kickboard"] .about-card {
+    rotate: 0deg;
+  }
+}

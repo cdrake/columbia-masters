@@ -1,0 +1,418 @@
+/* Poolside — seventies retro: warm cream, sunset stripes, chunky script headlines.
+   Scoped to [data-theme="poolside"] (on <html> for the site, on the editor
+   canvas for previews). Restyles the shared markup only. */
+
+/* :root[...] outranks style.css's :root tokens whatever the load order (dev injects
+   style.css last); the bare selector themes the editor canvas. */
+:root[data-theme="poolside"],
+[data-theme="poolside"] {
+  --navy: #3d2817;
+  --navy-light: #553a24;
+  --blue: #7a4a2a;
+  --blue-light: #c49a6c;
+  --bg: #fbf3e4;
+  --bg-alt: #f5e6cc;
+  --text: #3d2817;
+  --text-muted: #7a6450;
+  --white: #fffaf0;
+  --radius: 18px;
+  --brown: #3d2817;
+  --orange: #e8743b;
+  --mustard: #f2b134;
+  --rust: #b5522a;
+  --stripes: linear-gradient(var(--orange) 0 33.3%, var(--mustard) 33.3% 66.6%, var(--rust) 66.6%);
+  --shadow: 0 0 0 2px var(--brown);
+  --shadow-lg: 0 0 0 2px var(--brown), 5px 5px 0 2px var(--mustard);
+  --font-body: "Rubik", system-ui, sans-serif;
+  --font-display: "Shrikhand", Georgia, serif;
+}
+
+/* ─── Nav ─── */
+
+[data-theme="poolside"] #main-nav {
+  background: var(--brown);
+  box-shadow: none;
+}
+
+[data-theme="poolside"] .nav-inner {
+  height: 64px;
+}
+
+[data-theme="poolside"] .nav-logo {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.4rem;
+  letter-spacing: 0;
+  color: var(--mustard);
+}
+
+[data-theme="poolside"] .nav-links a {
+  color: var(--bg);
+  font-weight: 500;
+  border-radius: 999px;
+}
+
+[data-theme="poolside"] .nav-links a:hover,
+[data-theme="poolside"] .nav-links a[aria-current="page"] {
+  background: var(--orange);
+  color: var(--white);
+}
+
+/* ─── Hero ─── */
+
+[data-theme="poolside"] #hero {
+  position: relative;
+  overflow: hidden;
+  background: var(--bg);
+  color: var(--brown);
+  padding: 5rem 1rem 11rem;
+}
+
+/* Setting sun sinking into three sunset stripes along the bottom. */
+[data-theme="poolside"] #hero::before,
+[data-theme="poolside"] #hero::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+[data-theme="poolside"] #hero::before {
+  left: 50%;
+  bottom: 30px;
+  width: 300px;
+  height: 150px;
+  translate: -50% 0;
+  border-radius: 150px 150px 0 0;
+  background:
+    repeating-linear-gradient(transparent 0 14px, var(--bg) 14px 20px) bottom / 100% 60px no-repeat,
+    var(--accent);
+  opacity: 0.9;
+}
+
+[data-theme="poolside"] #hero::after {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 54px;
+  background: var(--stripes);
+}
+
+[data-theme="poolside"] .hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+[data-theme="poolside"] .hero-content h1 {
+  font-weight: 400;
+  font-size: clamp(2.6rem, 7vw, 5rem);
+  line-height: 1.05;
+  color: var(--brown);
+  text-shadow: 3px 3px 0 var(--mustard), 6px 6px 0 var(--orange);
+  margin-bottom: 1rem;
+}
+
+[data-theme="poolside"] .hero-sub {
+  font-size: 1.15rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  opacity: 1;
+  color: var(--rust);
+}
+
+[data-theme="poolside"] .hero-tagline {
+  font-size: 1.15rem;
+  opacity: 0.85;
+}
+
+/* ─── Buttons ─── */
+
+[data-theme="poolside"] .btn {
+  border-radius: 999px;
+  border: 2px solid var(--brown);
+  font-weight: 700;
+  padding: 0.8rem 1.7rem;
+}
+
+[data-theme="poolside"] .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 0 var(--brown);
+}
+
+[data-theme="poolside"] .btn-outline,
+[data-theme="poolside"] .btn-secondary {
+  background: var(--white);
+  color: var(--brown);
+}
+
+[data-theme="poolside"] .btn-outline:hover,
+[data-theme="poolside"] .btn-secondary:hover {
+  border-color: var(--brown);
+}
+
+/* ─── Sections ─── */
+
+[data-theme="poolside"] .section {
+  padding: 4.5rem 0;
+}
+
+[data-theme="poolside"] .section h2,
+[data-theme="poolside"] .page-header h1 {
+  font-weight: 400;
+  font-size: clamp(2rem, 4.5vw, 2.9rem);
+  color: var(--brown);
+}
+
+[data-theme="poolside"] .section h2::after {
+  content: "";
+  display: block;
+  width: 90px;
+  height: 12px;
+  margin: 0.6rem auto 0;
+  border-radius: 3px;
+  background: var(--stripes);
+}
+
+[data-theme="poolside"] .page-header {
+  background: var(--bg-alt);
+  border-bottom: 12px solid transparent;
+  border-image: var(--stripes) 1;
+}
+
+[data-theme="poolside"] .page-header h1 {
+  text-shadow: 3px 3px 0 var(--mustard);
+}
+
+[data-theme="poolside"] .about-card,
+[data-theme="poolside"] .block-callout {
+  border-left: 0;
+  background: var(--white);
+}
+
+[data-theme="poolside"] .about-card h3,
+[data-theme="poolside"] .schedule-day,
+[data-theme="poolside"] .coach-bio h3,
+[data-theme="poolside"] .gallery-event-header h3,
+[data-theme="poolside"] .block-callout-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  color: var(--rust);
+}
+
+[data-theme="poolside"] .about-card dt {
+  color: var(--blue);
+}
+
+[data-theme="poolside"] .about-text p,
+[data-theme="poolside"] .gallery-description {
+  color: var(--text);
+}
+
+[data-theme="poolside"] .faq-item,
+[data-theme="poolside"] .location-section {
+  border-left: 0;
+}
+
+[data-theme="poolside"] .faq-item > summary,
+[data-theme="poolside"] .location-section > summary {
+  color: var(--brown);
+  font-weight: 600;
+}
+
+[data-theme="poolside"] .faq-item > summary::after,
+[data-theme="poolside"] .location-section > summary::after {
+  color: var(--orange);
+  font-weight: 700;
+}
+
+/* ─── Schedule ─── */
+
+[data-theme="poolside"] .schedule-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+[data-theme="poolside"] .schedule-day {
+  font-size: 1.4rem;
+}
+
+[data-theme="poolside"] .schedule-time {
+  color: var(--brown);
+  font-weight: 500;
+}
+
+[data-theme="poolside"] .badge {
+  border: 2px solid var(--brown);
+}
+
+[data-theme="poolside"] .badge-open,
+[data-theme="poolside"] .badge-meet {
+  background: #cfe7dc;
+  color: #1e5e46;
+}
+
+[data-theme="poolside"] .badge-closed {
+  background: #f8d3c0;
+  color: #8a3416;
+}
+
+[data-theme="poolside"] .badge-social {
+  background: var(--mustard);
+  color: var(--brown);
+}
+
+/* ─── Events ─── */
+
+[data-theme="poolside"] .event-card:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+[data-theme="poolside"] .event-date {
+  background: var(--orange);
+  color: var(--white);
+  border: 2px solid var(--brown);
+  border-radius: 14px;
+  box-shadow: 3px 3px 0 var(--mustard);
+}
+
+[data-theme="poolside"] .event-date .day {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+
+[data-theme="poolside"] .event-info h3,
+[data-theme="poolside"] .class-info h3,
+[data-theme="poolside"] .board-name {
+  color: var(--brown);
+}
+
+/* ─── Coaches, board, classes ─── */
+
+[data-theme="poolside"] .coach-photo {
+  border-radius: 999px 999px 18px 18px;
+  border: 3px solid var(--brown);
+  box-shadow: 6px 6px 0 var(--orange);
+}
+
+[data-theme="poolside"] .board-role {
+  color: var(--rust);
+}
+
+[data-theme="poolside"] .class-callout {
+  background: var(--bg-alt);
+  border-left-color: var(--orange);
+  border-radius: 12px;
+}
+
+/* ─── Gallery ─── */
+
+[data-theme="poolside"] .gallery-tab {
+  border: 2px solid var(--brown);
+  border-radius: 999px;
+}
+
+[data-theme="poolside"] .gallery-tab.active {
+  background: var(--orange);
+  border-color: var(--brown);
+  color: var(--white);
+}
+
+[data-theme="poolside"] .gallery-photo img,
+[data-theme="poolside"] .location-photo img {
+  border-radius: 14px;
+  border: 2px solid var(--brown);
+}
+
+[data-theme="poolside"] .gallery-empty code {
+  background: var(--bg-alt);
+}
+
+/* ─── Records table ─── */
+
+[data-theme="poolside"] #search,
+[data-theme="poolside"] .filters select {
+  border: 2px solid var(--brown);
+  border-radius: 999px;
+  background: var(--white);
+}
+
+[data-theme="poolside"] #search:focus {
+  box-shadow: 0 0 0 3px var(--mustard);
+  outline: none;
+}
+
+[data-theme="poolside"] table {
+  border: 2px solid var(--brown);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+[data-theme="poolside"] th {
+  background: var(--brown);
+  color: var(--bg);
+}
+
+[data-theme="poolside"] th:hover {
+  background: var(--navy-light);
+}
+
+[data-theme="poolside"] td {
+  border-bottom-color: #ead8b8;
+}
+
+[data-theme="poolside"] tbody tr:nth-child(even) {
+  background: var(--white);
+}
+
+[data-theme="poolside"] tbody tr:hover {
+  background: #f7dcb0;
+}
+
+/* ─── Blocks ─── */
+
+[data-theme="poolside"] .block-prose a,
+[data-theme="poolside"] .block-callout a {
+  color: var(--rust);
+}
+
+[data-theme="poolside"] .block-divider {
+  border: 0;
+  height: 12px;
+  max-width: 200px;
+  margin-inline: auto;
+  border-radius: 3px;
+  background: var(--stripes);
+}
+
+[data-theme="poolside"] .block-embed iframe {
+  border: 2px solid var(--brown);
+  border-radius: 14px;
+}
+
+/* ─── Footer ─── */
+
+[data-theme="poolside"] footer {
+  background: var(--brown);
+  border-top: 18px solid transparent;
+  border-image: var(--stripes) 1;
+}
+
+[data-theme="poolside"] footer h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  color: var(--mustard);
+}
+
+/* ─── Responsive ─── */
+
+@media (max-width: 640px) {
+  [data-theme="poolside"] #hero::before {
+    width: 220px;
+    height: 110px;
+  }
+
+  [data-theme="poolside"] .nav-links {
+    background: var(--brown);
+  }
+}
