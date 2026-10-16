@@ -1,5 +1,6 @@
 import type { Tenant } from "./load-tenant";
 import { mdInline, mdBlock } from "./load-tenant";
+import { accentVars, THEMES } from "../shared/site";
 
 function esc(s: string): string {
   return s
@@ -22,6 +23,31 @@ export function scalars(t: Tenant): Record<string, string> {
     heroTagline: mdInline(c.hero.tagline),
     scheduleNote: mdInline(c.scheduleNote),
   };
+}
+
+/** `<html>` attributes selecting the design template; empty without content/site.json. */
+export function themeAttrs(t: Tenant): string {
+  if (!t.site) return "";
+  return ` data-theme="${t.site.theme}" style="${accentVars(t.site)}"`;
+}
+
+/**
+ * Theme stylesheet + web fonts, injected before Vite processes the HTML so the
+ * theme CSS is bundled and hashed like style.css.
+ */
+export function themeHead(t: Tenant): string {
+  const theme = t.site ? THEMES[t.site.theme] : null;
+  if (!theme) return "";
+  const tags: string[] = [];
+  if (theme.fonts) {
+    tags.push(
+      `<link rel="preconnect" href="https://fonts.googleapis.com" />`,
+      `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />`,
+      `<link rel="stylesheet" href="${esc(theme.fonts)}" />`
+    );
+  }
+  if (theme.stylesheet) tags.push(`<link rel="stylesheet" href="/src/themes/${theme.id}.css" />`);
+  return tags.join("\n    ");
 }
 
 /** Optional :root color overrides, injected after the stylesheet link. */
@@ -233,19 +259,32 @@ export function robotsTxt(t: Tenant): string {
   return `User-agent: *
 Allow: /
 Allow: /data/
+Disallow: /admin/
+Disallow: /api/
 
 Sitemap: ${t.config.domain}/sitemap.xml
 `;
 }
 
 export function sitemapXml(t: Tenant): string {
+  const pages = t.pages
+    .slice(1)
+    .map(
+      (p) => `
+  <url>
+    <loc>${t.config.domain}/${p.slug}/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>`
+    )
+    .join("");
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>${t.config.domain}/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
+  </url>${pages}
 </urlset>
 `;
 }
@@ -268,6 +307,9 @@ Pool: ${c.pool}, ${c.address.street}, ${c.address.city}, ${c.address.region} ${c
 ## Site
 
 - [Home](${c.domain}/): Main site with about info, practice schedule, upcoming events, coach bios, board members, and searchable team records
-- [Sitemap](${c.domain}/sitemap.xml): XML sitemap
+${t.pages
+  .slice(1)
+  .map((p) => `- [${p.title}](${c.domain}/${p.slug}/)${p.description ? `: ${p.description}` : ""}\n`)
+  .join("")}- [Sitemap](${c.domain}/sitemap.xml): XML sitemap
 `;
 }

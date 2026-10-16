@@ -10,6 +10,7 @@ import type {
 } from "./types";
 import tenant from "virtual:tenant";
 import { fetchAllSheets } from "./sheets";
+import { initThemePreview } from "./theme-preview";
 import "./style.css";
 
 const marked = new Marked();
@@ -26,12 +27,17 @@ let sortKey: keyof TeamRecord = "time";
 let sortAsc = true;
 
 const $ = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
+// Sections can be hidden or absent (admin layout, non-home pages): look up optionally.
+const $opt = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel);
 
 // --- Init ---
 
 async function init() {
+  const hasRecords = !!$opt("#results");
   const [recordsRes, sheetData] = await Promise.all([
-    fetch(`${import.meta.env.BASE_URL}data/${tenant.teamCode}_all_records.json`).then((r) => r.json()),
+    hasRecords
+      ? fetch(`${import.meta.env.BASE_URL}data/${tenant.teamCode}_all_records.json`).then((r) => r.json())
+      : Promise.resolve([]),
     fetchAllSheets(),
   ]);
   allRecords = recordsRes;
@@ -44,6 +50,7 @@ async function init() {
   if (sheetData.faq.length) renderFAQ(sheetData.faq);
   if (Object.keys(sheetData.content).length) renderContent(sheetData.content);
 
+  if (!hasRecords) return;
   populateFilters();
   wireEvents();
   updateSortIndicators();
@@ -207,7 +214,8 @@ function render() {
 // --- Sheet Renderers ---
 
 function renderEvents(events: SiteEvent[]) {
-  const el = $<HTMLDivElement>("#events-list");
+  const el = $opt<HTMLDivElement>("#events-list");
+  if (!el) return;
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const upcoming = events.filter((e) => {
@@ -241,6 +249,7 @@ function parseEventDate(s: string): Date | null {
 let galleryEvents: GalleryEvent[] = [];
 
 async function initGallery() {
+  if (!$opt("#gallery")) return;
   try {
     const res = await fetch(`${import.meta.env.BASE_URL}gallery/index.json`);
     if (!res.ok) return;
@@ -372,7 +381,8 @@ function wireGalleryLightbox() {
 }
 
 function renderSchedule(entries: ScheduleEntry[]) {
-  const el = $<HTMLDivElement>("#schedule-grid");
+  const el = $opt<HTMLDivElement>("#schedule-grid");
+  if (!el) return;
   el.innerHTML = entries
     .map((e) => {
       const badgeClass = e.type?.toLowerCase().includes("closed") ? "badge-closed" : "badge-open";
@@ -398,7 +408,8 @@ async function initLocationInfo(
   schedule: ScheduleEntry[],
   content: Record<string, string>
 ) {
-  const container = $<HTMLDivElement>("#location-info");
+  const container = $opt<HTMLDivElement>("#location-info");
+  if (!container) return;
   container.innerHTML = "";
 
   const uniqueLocations = [
@@ -466,7 +477,8 @@ async function initLocationInfo(
 }
 
 function renderBoard(members: BoardMember[]) {
-  const el = $<HTMLDivElement>("#board-grid");
+  const el = $opt<HTMLDivElement>("#board-grid");
+  if (!el) return;
   el.innerHTML = members
     .map(
       (m) => `<div class="board-card">
@@ -478,7 +490,8 @@ function renderBoard(members: BoardMember[]) {
 }
 
 function renderFAQ(entries: FAQEntry[]) {
-  const el = $<HTMLDivElement>("#faq-list");
+  const el = $opt<HTMLDivElement>("#faq-list");
+  if (!el) return;
   el.innerHTML = entries
     .map(
       (e) => `<details class="faq-item">
@@ -490,20 +503,18 @@ function renderFAQ(entries: FAQEntry[]) {
 }
 
 function renderContent(content: Record<string, string>) {
-  if (content.hero_sub) {
-    $<HTMLParagraphElement>("#hero-sub").innerHTML = md(content.hero_sub);
-  }
-  if (content.hero_tagline) {
-    $<HTMLParagraphElement>("#hero-tagline").innerHTML = md(content.hero_tagline);
-  }
-  if (content.about_text) {
-    const el = $<HTMLDivElement>("#about-text");
+  const setHtml = (sel: string, html: string) => {
+    const el = $opt(sel);
+    if (el) el.innerHTML = html;
+  };
+  if (content.hero_sub) setHtml("#hero-sub", md(content.hero_sub));
+  if (content.hero_tagline) setHtml("#hero-tagline", md(content.hero_tagline));
+  const el = $opt<HTMLDivElement>("#about-text");
+  if (content.about_text && el) {
     const paragraphs = [content.about_text, content.about_text_2, content.about_text_3].filter(Boolean);
     el.innerHTML = paragraphs.map((p) => `<p>${md(p)}</p>`).join("");
   }
-  if (content.schedule_note) {
-    $<HTMLParagraphElement>("#schedule-note").innerHTML = md(content.schedule_note);
-  }
+  if (content.schedule_note) setHtml("#schedule-note", md(content.schedule_note));
   if (content.alert_message?.trim()) {
     const banner = $<HTMLDivElement>("#site-alert");
     $<HTMLSpanElement>("#site-alert-text").innerHTML = md(content.alert_message);
@@ -550,4 +561,5 @@ function wireMobileNav() {
 
 // --- Go ---
 wireMobileNav();
+initThemePreview();
 init();

@@ -1,67 +1,73 @@
 import type { Plugin } from "vite";
-import { loadTenant, sheetUrls, type Tenant } from "./load-tenant";
+import { adminDevApi } from "./admin-dev-api";
+import { loadTenant, sheetUrls } from "./load-tenant";
+import { composePage, loadSectionPartials, pageForUrl, renderShell } from "./pages";
 import * as render from "./render";
 
 const VIRTUAL_ID = "virtual:tenant";
 const RESOLVED_VIRTUAL_ID = "\0" + VIRTUAL_ID;
 
-/** Section blocks replace `<!-- tenant:name -->` markers in index.html. */
-function sections(t: Tenant): Record<string, string> {
-  return {
-    "color-vars": render.colorVars(t),
-    "about-text": render.aboutText(t),
-    "quick-facts": render.quickFacts(t),
-    "schedule-fallback": render.scheduleFallback(t),
-    "events-fallback": render.eventsFallback(t),
-    classes: render.classesSection(t),
-    coaches: render.coachesSection(t),
-    "board-fallback": render.boardFallback(t),
-    "faq-fallback": render.faqFallback(t),
-    "footer-address": render.footerAddress(t),
-    "footer-socials": render.footerSocials(t),
-    "footer-resources": render.footerResources(t),
-    copyright: render.copyright(t),
-    "json-ld": render.jsonLd(t),
-  };
-}
+/** Only the site template is tenant-rendered (not e.g. admin/index.html). */
+const isSiteTemplate = (p: string) => p === "/index.html";
 
-export function tenantPlugin(webRoot: string, slug: string): Plugin {
+export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
   let tenant = loadTenant(webRoot, slug);
 
-  return {
+  // Runs before Vite processes the HTML, so the theme stylesheet link is
+  // bundled/hashed; everything else is filled after (see transformIndexHtml below).
+  const theme: Plugin = {
+    name: "tenant-theme",
+    transformIndexHtml: {
+      order: "pre",
+      handler(html, ctx) {
+        if (!isSiteTemplate(ctx.path)) return html;
+        if (!html.includes("<!-- tenant:theme -->")) {
+          throw new Error("[tenant] index.html is missing marker <!-- tenant:theme -->");
+        }
+        return html
+          .replace(/^([ \t]*)<!-- tenant:theme -->\n/m, (_, indent: string) => {
+            const head = render.themeHead(tenant);
+            return head ? `${indent}${head}\n` : "";
+          })
+          .replace(/<html([^>]*)>/, (_, attrs: string) => `<html${attrs}${render.themeAttrs(tenant)}>`);
+      },
+    },
+  };
+
+  const main: Plugin = {
     name: "tenant",
 
     // Reload tenant files on dev-server restart-worthy changes.
     configureServer(server) {
-      server.watcher.add(tenant.dir);
-      server.watcher.on("change", (file) => {
-        if (file.startsWith(tenant.dir) && !file.startsWith(tenant.publicDir)) {
-          tenant = loadTenant(webRoot, slug);
+      // /api/admin/* backed by the local tenant files (see functions/ for production).
+      server.middlewares.use(adminDevApi(webRoot, slug));
+
+      const sectionsDir = `${webRoot}/build/sections`;
+      server.watcher.add([tenant.dir, sectionsDir]);
+      server.watcher.on("all", (_event, file) => {
+        if (file.startsWith(sectionsDir)) {
+          server.ws.send({ type: "full-reload" });
+        } else if (file.startsWith(tenant.dir) && !file.startsWith(tenant.publicDir)) {
+          try {
+            tenant = loadTenant(webRoot, slug);
+          } catch (e) {
+            // Keep serving the last good tenant; a bad hand edit shouldn't kill the dev server.
+            server.config.logger.error(String(e));
+            return;
+          }
           server.ws.send({ type: "full-reload" });
         }
       });
     },
 
-    transformIndexHtml(html) {
-      let out = html;
-
-      for (const [name, content] of Object.entries(sections(tenant))) {
-        const marker = `<!-- tenant:${name} -->`;
-        if (!out.includes(marker)) {
-          throw new Error(`[tenant] index.html is missing marker ${marker}`);
-        }
-        out = out.replace(marker, content);
-      }
-
-      out = out.replace(/\{\{\s*(\w+)\s*\}\}/g, (_, key: string) => {
-        const value = render.scalars(tenant)[key];
-        if (value === undefined) {
-          throw new Error(`[tenant] index.html references unknown scalar {{ ${key} }}`);
-        }
-        return value;
-      });
-
-      return out;
+    // Build: leave page markers in place; generateBundle composes each page
+    // from the final (asset-hashed) HTML. Dev: compose the requested page now.
+    transformIndexHtml(html, ctx) {
+      if (!isSiteTemplate(ctx.path)) return html;
+      const shell = renderShell(html, tenant);
+      if (!ctx.server) return shell;
+      const page = pageForUrl(tenant, ctx.originalUrl ?? "/");
+      return composePage(shell, tenant, page, loadSectionPartials(webRoot));
     },
 
     resolveId(id) {
@@ -81,15 +87,36 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin {
       return `export default ${JSON.stringify(runtime)};`;
     },
 
-    generateBundle() {
-      const files: Record<string, string> = {
-        "robots.txt": render.robotsTxt(tenant),
-        "sitemap.xml": render.sitemapXml(tenant),
-        "llms.txt": render.llmsTxt(tenant),
-      };
-      for (const [fileName, source] of Object.entries(files)) {
-        this.emitFile({ type: "asset", fileName, source });
-      }
+    generateBundle: {
+      // After vite:build-html has emitted index.html with hashed asset tags.
+      order: "post",
+      handler(_options, bundle) {
+        const index = bundle["index.html"];
+        if (index?.type !== "asset") throw new Error("[tenant] index.html missing from bundle");
+        const shell = String(index.source);
+        const partials = loadSectionPartials(webRoot);
+        const [home, ...rest] = tenant.pages;
+
+        index.source = composePage(shell, tenant, home, partials);
+        for (const page of rest) {
+          this.emitFile({
+            type: "asset",
+            fileName: `${page.slug}/index.html`,
+            source: composePage(shell, tenant, page, partials),
+          });
+        }
+
+        const files: Record<string, string> = {
+          "robots.txt": render.robotsTxt(tenant),
+          "sitemap.xml": render.sitemapXml(tenant),
+          "llms.txt": render.llmsTxt(tenant),
+        };
+        for (const [fileName, source] of Object.entries(files)) {
+          this.emitFile({ type: "asset", fileName, source });
+        }
+      },
     },
   };
+
+  return [theme, main];
 }

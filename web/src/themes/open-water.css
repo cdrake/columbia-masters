@@ -1,0 +1,354 @@
+/* Open Water — calm and airy: ocean-gradient hero with a wave edge, sky-blue sections.
+   Scoped to [data-theme="open-water"] (on <html> for the site, on the editor
+   canvas for previews). Restyles the shared markup only. */
+
+/* :root[...] outranks style.css's :root tokens whatever the load order (dev injects
+   style.css last); the bare selector themes the editor canvas. */
+:root[data-theme="open-water"],
+[data-theme="open-water"] {
+  --navy: #0a2540;
+  --navy-light: #12365a;
+  --blue: #0e6e8c;
+  --blue-light: #7fc3d6;
+  --bg: #ffffff;
+  --bg-alt: #eef7fb;
+  --text: #0f2236;
+  --text-muted: #557086;
+  --white: #ffffff;
+  --radius: 14px;
+  --sea: #0e6e8c;
+  --foam: #dff0f7;
+  --shadow: 0 1px 2px rgba(10, 37, 64, 0.06), 0 6px 20px rgba(10, 37, 64, 0.07);
+  --shadow-lg: 0 2px 4px rgba(10, 37, 64, 0.06), 0 16px 40px rgba(10, 37, 64, 0.14);
+  --font-body: "DM Sans", system-ui, sans-serif;
+  --font-display: "DM Serif Display", Georgia, serif;
+}
+
+/* ─── Nav ─── */
+
+[data-theme="open-water"] #main-nav {
+  background: var(--navy);
+  box-shadow: none;
+}
+
+[data-theme="open-water"] .nav-inner {
+  height: 64px;
+}
+
+[data-theme="open-water"] .nav-logo {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.45rem;
+  letter-spacing: 0;
+  color: var(--white);
+}
+
+[data-theme="open-water"] .nav-logo::after {
+  content: " ~";
+  color: var(--accent);
+}
+
+[data-theme="open-water"] .nav-links a {
+  color: rgba(255, 255, 255, 0.8);
+  border-radius: 999px;
+}
+
+[data-theme="open-water"] .nav-links a:hover,
+[data-theme="open-water"] .nav-links a[aria-current="page"] {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--white);
+}
+
+/* ─── Hero ─── */
+
+/* The wave is a mask on the hero's bottom edge, so whatever sits behind shows through. */
+[data-theme="open-water"] #hero {
+  background:
+    radial-gradient(ellipse 60% 50% at 80% 10%, rgba(127, 195, 214, 0.35), transparent 70%),
+    linear-gradient(170deg, var(--navy) 0%, #0b4a6a 55%, var(--sea) 100%);
+  color: var(--white);
+  padding: 6rem 1rem 7rem;
+  -webkit-mask:
+    linear-gradient(#000 0 0) top / 100% calc(100% - 47px) no-repeat,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 48' preserveAspectRatio='none'%3E%3Cpath d='M0 0h1200v18c-100 0-150 26-300 26S700 6 600 6 400 40 300 40 100 18 0 18z'/%3E%3C/svg%3E")
+      bottom / 100% 48px no-repeat;
+  mask:
+    linear-gradient(#000 0 0) top / 100% calc(100% - 47px) no-repeat,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 48' preserveAspectRatio='none'%3E%3Cpath d='M0 0h1200v18c-100 0-150 26-300 26S700 6 600 6 400 40 300 40 100 18 0 18z'/%3E%3C/svg%3E")
+      bottom / 100% 48px no-repeat;
+}
+
+[data-theme="open-water"] .hero-content h1 {
+  font-weight: 400;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  line-height: 1.05;
+  margin-bottom: 1rem;
+}
+
+[data-theme="open-water"] .hero-sub {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+[data-theme="open-water"] .hero-tagline {
+  opacity: 0.75;
+}
+
+/* ─── Buttons ─── */
+
+[data-theme="open-water"] .btn {
+  border-radius: 999px;
+  padding: 0.8rem 1.7rem;
+}
+
+[data-theme="open-water"] .btn-outline {
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+[data-theme="open-water"] .btn-secondary {
+  border: 1.5px solid var(--blue-light);
+  color: var(--sea);
+}
+
+/* ─── Sections ─── */
+
+[data-theme="open-water"] .section {
+  padding: 5rem 0;
+}
+
+[data-theme="open-water"] .section h2,
+[data-theme="open-water"] .page-header h1 {
+  font-weight: 400;
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  color: var(--navy);
+}
+
+[data-theme="open-water"] .page-header {
+  background: linear-gradient(170deg, var(--navy), var(--sea));
+}
+
+[data-theme="open-water"] .page-header h1 {
+  color: var(--white);
+}
+
+[data-theme="open-water"] .about-card,
+[data-theme="open-water"] .block-callout {
+  border-left: 0;
+  background: var(--foam);
+  box-shadow: none;
+}
+
+[data-theme="open-water"] .section-alt .about-card,
+[data-theme="open-water"] .section-alt .block-callout {
+  background: var(--white);
+}
+
+[data-theme="open-water"] .about-card h3,
+[data-theme="open-water"] .coach-bio h3,
+[data-theme="open-water"] .gallery-event-header h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.35rem;
+  color: var(--navy);
+}
+
+[data-theme="open-water"] .about-text p,
+[data-theme="open-water"] .gallery-description {
+  color: #33506a;
+}
+
+[data-theme="open-water"] .faq-item,
+[data-theme="open-water"] .location-section {
+  border-left: 0;
+}
+
+[data-theme="open-water"] .faq-item > summary::after,
+[data-theme="open-water"] .location-section > summary::after {
+  color: var(--sea);
+}
+
+/* ─── Schedule ─── */
+
+[data-theme="open-water"] .schedule-card {
+  position: relative;
+  overflow: hidden;
+  padding-top: 1.6rem;
+}
+
+/* Thin current along the top of each card. */
+[data-theme="open-water"] .schedule-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 4px;
+  background: linear-gradient(90deg, var(--sea), var(--accent));
+}
+
+[data-theme="open-water"] .schedule-day {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: var(--navy);
+}
+
+[data-theme="open-water"] .schedule-time {
+  color: #33506a;
+}
+
+[data-theme="open-water"] .badge {
+  border-radius: 999px;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.78rem;
+}
+
+[data-theme="open-water"] .badge-open,
+[data-theme="open-water"] .badge-meet {
+  background: var(--foam);
+  color: var(--sea);
+}
+
+[data-theme="open-water"] .badge-closed {
+  background: #ffeede;
+  color: #9a4a12;
+}
+
+/* ─── Events ─── */
+
+[data-theme="open-water"] .event-date {
+  background: linear-gradient(170deg, var(--navy), var(--sea));
+  border-radius: 12px;
+}
+
+[data-theme="open-water"] .event-date .day {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.35rem;
+}
+
+[data-theme="open-water"] .event-info h3,
+[data-theme="open-water"] .class-info h3,
+[data-theme="open-water"] .board-name {
+  color: var(--navy);
+}
+
+/* ─── Coaches, board, classes ─── */
+
+[data-theme="open-water"] .coach-photo {
+  border-radius: 999px 999px 18px 18px;
+}
+
+[data-theme="open-water"] .board-role {
+  color: var(--sea);
+}
+
+[data-theme="open-water"] .class-callout {
+  background: var(--foam);
+  border-left-color: var(--sea);
+  border-radius: 10px;
+}
+
+/* ─── Gallery ─── */
+
+[data-theme="open-water"] .gallery-tab {
+  border-radius: 999px;
+  border-color: var(--foam);
+}
+
+[data-theme="open-water"] .gallery-tab.active {
+  background: var(--sea);
+  border-color: var(--sea);
+  color: var(--white);
+}
+
+[data-theme="open-water"] .gallery-photo img,
+[data-theme="open-water"] .location-photo img {
+  border-radius: 12px;
+}
+
+/* ─── Records table ─── */
+
+[data-theme="open-water"] #search {
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  border-color: #cfe3ec;
+}
+
+[data-theme="open-water"] .filters select {
+  border-radius: 10px;
+  border-color: #cfe3ec;
+}
+
+[data-theme="open-water"] #search:focus {
+  border-color: var(--sea);
+  box-shadow: 0 0 0 3px var(--foam);
+  outline: none;
+}
+
+[data-theme="open-water"] table {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+[data-theme="open-water"] th {
+  background: var(--navy);
+}
+
+[data-theme="open-water"] th:hover {
+  background: var(--navy-light);
+}
+
+[data-theme="open-water"] td {
+  border-bottom-color: #e6f0f5;
+}
+
+[data-theme="open-water"] tbody tr:nth-child(even) {
+  background: #f6fbfd;
+}
+
+[data-theme="open-water"] tbody tr:hover {
+  background: var(--foam);
+}
+
+/* ─── Blocks ─── */
+
+[data-theme="open-water"] .block-prose a,
+[data-theme="open-water"] .block-callout a {
+  color: var(--sea);
+}
+
+[data-theme="open-water"] .block-divider {
+  border: 0;
+  height: 12px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='12'%3E%3Cpath d='M0 6q10-6 20 0t20 0' fill='none' stroke='%237fc3d6' stroke-width='2'/%3E%3C/svg%3E")
+    center / 40px 12px repeat-x;
+}
+
+[data-theme="open-water"] .block-embed iframe {
+  border-radius: 14px;
+}
+
+/* ─── Footer ─── */
+
+[data-theme="open-water"] footer {
+  background: var(--navy);
+}
+
+[data-theme="open-water"] footer h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+/* ─── Responsive ─── */
+
+@media (max-width: 640px) {
+  [data-theme="open-water"] #hero {
+    padding: 4.5rem 1rem 5.5rem;
+  }
+
+  [data-theme="open-water"] .nav-links {
+    background: var(--navy);
+  }
+}

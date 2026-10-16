@@ -20,6 +20,9 @@
   --radius: 8px;
   --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   --shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.12);
+  /* Design templates (src/themes/*.css) override these on [data-theme]. */
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-display: var(--font-body);
 }
 
 html {
@@ -28,7 +31,7 @@ html {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--font-body);
   color: var(--text);
   background: var(--bg);
   line-height: 1.6;
@@ -150,7 +153,13 @@ body {
 
 .btn-primary {
   background: var(--accent);
-  color: var(--navy);
+  color: var(--on-accent, var(--navy));
+}
+
+.hero-content h1,
+.section h2,
+.page-header h1 {
+  font-family: var(--font-display);
 }
 
 .btn-outline {
@@ -1037,6 +1046,147 @@ footer p {
   opacity: 0.6;
 }
 
+/* ─── Admin-built pages & blocks (shared/pages.ts) ─── */
+
+.page-header {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--blue) 100%);
+  color: var(--white);
+  text-align: center;
+  padding: 3rem 1rem 2.5rem;
+}
+
+.page-header h1 {
+  font-size: 2.25rem;
+  font-weight: 800;
+}
+
+.nav-links a[aria-current="page"] {
+  background: rgba(255, 255, 255, 0.15);
+  color: var(--white);
+}
+
+/* Consecutive blocks on the same background read as one section. */
+.block-tight {
+  padding-top: 0;
+}
+
+.block-subtitle {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  margin-top: -1rem;
+}
+
+.block-prose,
+.block-callout {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.block-prose > * + *,
+.block-callout > * + * {
+  margin-top: 0.85rem;
+}
+
+.block-prose ul,
+.block-prose ol,
+.block-callout ul,
+.block-callout ol {
+  padding-left: 1.5rem;
+}
+
+.block-prose a,
+.block-callout a {
+  color: var(--blue);
+}
+
+.block-prose h3,
+.block-prose h4 {
+  color: var(--navy);
+}
+
+.block-callout {
+  background: var(--white);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.25rem 1.5rem;
+}
+
+.block-callout-title {
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 0.25rem;
+}
+
+.block-figure {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.block-figure-narrow {
+  max-width: 480px;
+}
+
+.block-figure-wide {
+  max-width: 860px;
+}
+
+.block-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.block-figure figcaption {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.block-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn-secondary {
+  border: 2px solid var(--navy);
+  color: var(--navy);
+}
+
+.block-embed {
+  position: relative;
+  max-width: 860px;
+  margin: 0 auto;
+  aspect-ratio: 16 / 9;
+}
+
+.block-embed-tall {
+  aspect-ratio: 3 / 4;
+  max-width: 640px;
+}
+
+.block-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--white);
+}
+
+.block-divider {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  max-width: 760px;
+  margin: 0 auto;
+}
+
 /* ─── Responsive ─── */
 
 @media (max-width: 768px) {
@@ -1044,7 +1194,8 @@ footer p {
     padding: 3.5rem 1rem 3rem;
   }
 
-  .hero-content h1 {
+  .hero-content h1,
+  .page-header h1 {
     font-size: 1.75rem;
   }
 

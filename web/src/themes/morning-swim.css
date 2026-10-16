@@ -1,0 +1,415 @@
+/* Morning Swim — bright, rounded, welcoming.
+   Scoped to [data-theme="morning-swim"] (on <html> for the site, on the editor
+   canvas for previews). Restyles the shared markup only. */
+
+/* :root[...] outranks style.css's :root tokens whatever the load order (dev injects
+   style.css last); the bare selector themes the editor canvas. */
+:root[data-theme="morning-swim"],
+[data-theme="morning-swim"] {
+  --navy: #1d2a2f;
+  --navy-light: #2a3b41;
+  --blue: #0f6466;
+  --blue-light: #5fa7a5;
+  --bg: #ffffff;
+  --bg-alt: #f4faf9;
+  --text: #1d2a2f;
+  --text-muted: #4f6267;
+  --radius: 22px;
+  --shadow: 0 0 0 1px #e3ecee;
+  --shadow-lg: 0 10px 28px rgba(15, 100, 102, 0.16);
+  --teal: #0f6466;
+  --teal-soft: #e3f3f1;
+  --coral-soft: #fff1ea;
+  --font-body: "Figtree", system-ui, sans-serif;
+  --font-display: "Bricolage Grotesque", "Figtree", system-ui, sans-serif;
+}
+
+/* ─── Nav ─── */
+
+[data-theme="morning-swim"] #main-nav {
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 1px 0 #e3ecee;
+}
+
+[data-theme="morning-swim"] .nav-inner {
+  height: 68px;
+}
+
+[data-theme="morning-swim"] .nav-logo {
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.4rem;
+  letter-spacing: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+[data-theme="morning-swim"] .nav-logo::before {
+  content: "";
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: inset 0 -0.45rem 0 var(--teal-soft);
+}
+
+[data-theme="morning-swim"] .nav-toggle {
+  color: var(--navy);
+}
+
+[data-theme="morning-swim"] .nav-links a {
+  color: #33464d;
+  font-size: 0.95rem;
+  border-radius: 999px;
+}
+
+[data-theme="morning-swim"] .nav-links a:hover,
+[data-theme="morning-swim"] .nav-links a[aria-current="page"] {
+  background: var(--teal-soft);
+  color: var(--teal);
+}
+
+/* ─── Hero ─── */
+
+[data-theme="morning-swim"] #hero {
+  position: relative;
+  overflow: hidden;
+  background: var(--bg);
+  color: var(--navy);
+  text-align: left;
+  padding: 4.5rem 1rem 5.5rem;
+}
+
+/* Pool-lane tile + sun, purely decorative. */
+[data-theme="morning-swim"] #hero::before,
+[data-theme="morning-swim"] #hero::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+[data-theme="morning-swim"] #hero::before {
+  right: max(1rem, calc(50% - 550px));
+  top: 50%;
+  width: 400px;
+  height: 400px;
+  translate: 0 -50%;
+  border-radius: 40px;
+  background:
+    linear-gradient(90deg, transparent 24.4%, #fff 24.4% 25.6%, transparent 25.6% 49.4%, #fff 49.4% 50.6%,
+      transparent 50.6% 74.4%, #fff 74.4% 75.6%, transparent 75.6%),
+    var(--teal-soft);
+}
+
+[data-theme="morning-swim"] #hero::after {
+  right: calc(max(1rem, calc(50% - 550px)) + 48px);
+  top: calc(50% - 160px);
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+[data-theme="morning-swim"] .hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-right: 460px;
+}
+
+[data-theme="morning-swim"] .hero-content h1 {
+  font-weight: 800;
+  font-size: clamp(2.4rem, 5.5vw, 4.4rem);
+  line-height: 1.03;
+  letter-spacing: -0.02em;
+  margin-bottom: 1.25rem;
+}
+
+[data-theme="morning-swim"] .hero-sub {
+  display: inline-block;
+  background: var(--teal-soft);
+  color: var(--teal);
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.3rem 0.95rem;
+  border-radius: 999px;
+  opacity: 1;
+  margin-bottom: 1rem;
+}
+
+[data-theme="morning-swim"] .hero-tagline {
+  color: var(--text-muted);
+  font-size: 1.25rem;
+  opacity: 1;
+}
+
+[data-theme="morning-swim"] .hero-actions {
+  justify-content: flex-start;
+}
+
+/* ─── Buttons ─── */
+
+[data-theme="morning-swim"] .btn {
+  border-radius: 999px;
+  padding: 0.85rem 1.6rem;
+  font-size: 1rem;
+}
+
+[data-theme="morning-swim"] .btn-outline,
+[data-theme="morning-swim"] .btn-secondary {
+  border: 2px solid #b9dcd9;
+  color: var(--teal);
+}
+
+[data-theme="morning-swim"] .btn-outline:hover,
+[data-theme="morning-swim"] .btn-secondary:hover {
+  border-color: var(--teal);
+}
+
+/* ─── Sections ─── */
+
+[data-theme="morning-swim"] .section {
+  padding: 5rem 0;
+}
+
+[data-theme="morning-swim"] .section h2,
+[data-theme="morning-swim"] .page-header h1 {
+  color: var(--navy);
+  font-weight: 800;
+  font-size: clamp(1.9rem, 4vw, 2.75rem);
+  letter-spacing: -0.015em;
+  margin-bottom: 2rem;
+}
+
+[data-theme="morning-swim"] .page-header {
+  background: var(--bg-alt);
+  color: var(--navy);
+}
+
+[data-theme="morning-swim"] .about-text p,
+[data-theme="morning-swim"] .gallery-description {
+  color: #33464d;
+}
+
+[data-theme="morning-swim"] .about-card,
+[data-theme="morning-swim"] .block-callout {
+  border-left: 0;
+  background: var(--coral-soft);
+  box-shadow: none;
+}
+
+[data-theme="morning-swim"] .faq-item,
+[data-theme="morning-swim"] .location-section {
+  border-left: 0;
+  border-radius: 18px;
+}
+
+[data-theme="morning-swim"] .faq-item > summary,
+[data-theme="morning-swim"] .location-section > summary {
+  padding: 1rem 1.3rem;
+}
+
+[data-theme="morning-swim"] .faq-item > summary::after,
+[data-theme="morning-swim"] .location-section > summary::after {
+  content: "+";
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  background: var(--teal-soft);
+  color: var(--teal);
+  font-size: 1.1rem;
+}
+
+[data-theme="morning-swim"] .faq-item[open] > summary::after,
+[data-theme="morning-swim"] .location-section[open] > summary::after {
+  content: "−";
+}
+
+/* ─── Schedule ─── */
+
+[data-theme="morning-swim"] .schedule-card {
+  text-align: left;
+  padding: 1.4rem;
+  box-shadow: 0 0 0 2px #e3ecee;
+}
+
+[data-theme="morning-swim"] .schedule-card:hover {
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+[data-theme="morning-swim"] .schedule-day {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 800;
+}
+
+[data-theme="morning-swim"] .schedule-time {
+  color: #33464d;
+}
+
+[data-theme="morning-swim"] .badge {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.8rem;
+  padding: 0.25rem 0.75rem;
+}
+
+[data-theme="morning-swim"] .badge-open,
+[data-theme="morning-swim"] .badge-meet {
+  background: var(--teal-soft);
+  color: var(--teal);
+}
+
+[data-theme="morning-swim"] .badge-closed {
+  background: var(--coral-soft);
+  color: #8a3a1c;
+}
+
+/* ─── Events ─── */
+
+[data-theme="morning-swim"] .event-card {
+  padding: 1rem 1.25rem;
+}
+
+[data-theme="morning-swim"] .event-date {
+  min-width: 60px;
+  padding: 0.55rem 0.6rem;
+  border-radius: 16px;
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+[data-theme="morning-swim"] .event-date .month {
+  opacity: 0.85;
+}
+
+[data-theme="morning-swim"] .event-info h3 {
+  font-size: 1.05rem;
+}
+
+[data-theme="morning-swim"] .event-info p {
+  font-size: 0.9rem;
+}
+
+/* ─── Coaches, board, classes ─── */
+
+[data-theme="morning-swim"] .coach-card {
+  align-items: center;
+}
+
+[data-theme="morning-swim"] .coach-photo {
+  width: 168px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  box-shadow: 0 0 0 6px var(--teal-soft);
+}
+
+[data-theme="morning-swim"] .coach-bio h3 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+}
+
+[data-theme="morning-swim"] .board-role {
+  color: var(--teal);
+}
+
+[data-theme="morning-swim"] .class-callout {
+  background: var(--teal-soft);
+  border-left: 0;
+  border-radius: 14px;
+}
+
+/* ─── Gallery ─── */
+
+[data-theme="morning-swim"] .gallery-tab {
+  border-radius: 999px;
+  border-color: #e3ecee;
+}
+
+[data-theme="morning-swim"] .gallery-tab.active {
+  background: var(--teal);
+  border-color: var(--teal);
+}
+
+[data-theme="morning-swim"] .gallery-photo img,
+[data-theme="morning-swim"] .location-photo img {
+  border-radius: 16px;
+}
+
+/* ─── Records table ─── */
+
+[data-theme="morning-swim"] #search {
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  border-color: #cfdfe1;
+}
+
+[data-theme="morning-swim"] .filters select {
+  border-radius: 12px;
+  border-color: #cfdfe1;
+}
+
+[data-theme="morning-swim"] #search:focus {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px var(--teal-soft);
+}
+
+[data-theme="morning-swim"] th {
+  background: var(--teal);
+}
+
+[data-theme="morning-swim"] th:hover {
+  background: #0c5355;
+}
+
+[data-theme="morning-swim"] td {
+  border-bottom-color: #edf3f4;
+}
+
+[data-theme="morning-swim"] tbody tr:nth-child(even) {
+  background: var(--bg-alt);
+}
+
+[data-theme="morning-swim"] tbody tr:hover {
+  background: var(--teal-soft);
+}
+
+/* ─── Footer ─── */
+
+[data-theme="morning-swim"] footer {
+  background: #0f3f41;
+}
+
+[data-theme="morning-swim"] footer h3 {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+}
+
+/* ─── Responsive ─── */
+
+@media (max-width: 1000px) {
+  [data-theme="morning-swim"] #hero::before,
+  [data-theme="morning-swim"] #hero::after {
+    display: none;
+  }
+
+  [data-theme="morning-swim"] .hero-content {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 640px) {
+  [data-theme="morning-swim"] .nav-links {
+    background: #fff;
+    box-shadow: 0 8px 20px rgba(29, 42, 47, 0.12);
+  }
+
+  [data-theme="morning-swim"] .coach-photo {
+    width: 140px;
+  }
+}

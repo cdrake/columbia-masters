@@ -1,0 +1,486 @@
+/* Deep End — dark, athletic, condensed display type.
+   Scoped to [data-theme="deep-end"] (on <html> for the site, on the editor
+   canvas for previews). Restyles the shared markup only; never add ids/classes
+   here that the templates don't already have. */
+
+/* :root[...] outranks style.css's :root tokens whatever the load order (dev injects
+   style.css last); the bare selector themes the editor canvas. */
+:root[data-theme="deep-end"],
+[data-theme="deep-end"] {
+  --navy: #0b1117;
+  --navy-light: #16212b;
+  --blue: var(--accent);
+  --blue-light: var(--accent);
+  --bg: #0b1117;
+  --bg-alt: #111a22;
+  --text: #e6edf2;
+  --text-muted: #9fb0bd;
+  --radius: 0;
+  --shadow: none;
+  --shadow-lg: none;
+  --surface: #16212b;
+  --line: #243340;
+  --font-body: "Barlow", system-ui, sans-serif;
+  --font-display: "Big Shoulders Display", Impact, "Arial Narrow", sans-serif;
+}
+
+/* ─── Nav ─── */
+
+[data-theme="deep-end"] #main-nav {
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  box-shadow: none;
+}
+
+[data-theme="deep-end"] .nav-inner,
+[data-theme="deep-end"] .container,
+[data-theme="deep-end"] .hero-content {
+  max-width: 1200px;
+}
+
+[data-theme="deep-end"] .nav-inner {
+  height: 64px;
+}
+
+[data-theme="deep-end"] .nav-logo {
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+[data-theme="deep-end"] .nav-logo::after {
+  content: "/";
+  color: var(--accent);
+  margin-left: 0.1em;
+}
+
+[data-theme="deep-end"] .nav-links a {
+  color: #b7c4cf;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border-radius: 0;
+}
+
+[data-theme="deep-end"] .nav-links a:hover,
+[data-theme="deep-end"] .nav-links a[aria-current="page"] {
+  background: transparent;
+  color: var(--accent);
+}
+
+/* ─── Hero ─── */
+
+[data-theme="deep-end"] #hero {
+  background: var(--bg);
+  text-align: left;
+  padding: 6rem 1rem 5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+[data-theme="deep-end"] .hero-content {
+  margin: 0 auto;
+}
+
+[data-theme="deep-end"] .hero-content h1 {
+  font-weight: 900;
+  font-size: clamp(3.25rem, 9vw, 8rem);
+  line-height: 0.9;
+  text-transform: uppercase;
+  max-width: 12ch;
+  margin-bottom: 1.75rem;
+}
+
+[data-theme="deep-end"] .hero-sub {
+  color: var(--accent);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  opacity: 1;
+}
+
+[data-theme="deep-end"] .hero-tagline {
+  color: #b7c4cf;
+  font-size: 1.25rem;
+  max-width: 34rem;
+  opacity: 1;
+}
+
+[data-theme="deep-end"] .hero-actions {
+  justify-content: flex-start;
+}
+
+/* ─── Buttons ─── */
+
+[data-theme="deep-end"] .btn {
+  border-radius: 0;
+  padding: 0.95rem 1.7rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+[data-theme="deep-end"] .btn:hover {
+  box-shadow: none;
+}
+
+[data-theme="deep-end"] .btn-outline,
+[data-theme="deep-end"] .btn-secondary {
+  border: 2px solid #3a4a58;
+  color: #fff;
+}
+
+[data-theme="deep-end"] .btn-outline:hover,
+[data-theme="deep-end"] .btn-secondary:hover {
+  border-color: var(--accent);
+}
+
+/* ─── Sections ─── */
+
+[data-theme="deep-end"] .section {
+  padding: 5.5rem 0;
+}
+
+[data-theme="deep-end"] .section h2,
+[data-theme="deep-end"] .page-header h1 {
+  color: #fff;
+  font-weight: 900;
+  font-size: clamp(2.5rem, 5.5vw, 4.25rem);
+  line-height: 0.95;
+  text-transform: uppercase;
+  text-align: left;
+  margin-bottom: 2.5rem;
+}
+
+[data-theme="deep-end"] .page-header {
+  background: var(--bg);
+  text-align: left;
+  padding: 4.5rem 1rem 1.5rem;
+}
+
+[data-theme="deep-end"] .page-header .container {
+  padding: 0;
+}
+
+[data-theme="deep-end"] .events-list,
+[data-theme="deep-end"] .faq-list,
+[data-theme="deep-end"] .classes-list,
+[data-theme="deep-end"] .coach-list,
+[data-theme="deep-end"] .board-grid,
+[data-theme="deep-end"] .gallery-detail {
+  max-width: none;
+}
+
+[data-theme="deep-end"] .block-subtitle {
+  text-align: left;
+  margin-top: -1.75rem;
+  margin-bottom: 1.5rem;
+}
+
+[data-theme="deep-end"] .schedule-note {
+  text-align: left;
+}
+
+/* Cards become flat panels */
+[data-theme="deep-end"] .about-card,
+[data-theme="deep-end"] .schedule-card,
+[data-theme="deep-end"] .location-section,
+[data-theme="deep-end"] .faq-item,
+[data-theme="deep-end"] .event-card,
+[data-theme="deep-end"] .class-card,
+[data-theme="deep-end"] .coach-card,
+[data-theme="deep-end"] .board-card,
+[data-theme="deep-end"] .gallery-detail,
+[data-theme="deep-end"] .block-callout,
+[data-theme="deep-end"] .gallery-tab {
+  background: var(--surface);
+  border-color: var(--line);
+}
+
+[data-theme="deep-end"] .schedule-day,
+[data-theme="deep-end"] .about-card h3,
+[data-theme="deep-end"] .event-info h3,
+[data-theme="deep-end"] .class-info h3,
+[data-theme="deep-end"] .coach-bio h3,
+[data-theme="deep-end"] .board-name,
+[data-theme="deep-end"] .faq-item > summary,
+[data-theme="deep-end"] .location-section > summary,
+[data-theme="deep-end"] .location-text strong,
+[data-theme="deep-end"] .class-callout-title,
+[data-theme="deep-end"] .block-callout-title,
+[data-theme="deep-end"] .gallery-event-header h3,
+[data-theme="deep-end"] .block-prose h3,
+[data-theme="deep-end"] .block-prose h4 {
+  color: #fff;
+}
+
+[data-theme="deep-end"] .about-text p,
+[data-theme="deep-end"] .gallery-description {
+  color: var(--text);
+}
+
+[data-theme="deep-end"] .about-text a,
+[data-theme="deep-end"] .faq-answer a,
+[data-theme="deep-end"] .location-text a,
+[data-theme="deep-end"] .schedule-note a,
+[data-theme="deep-end"] .coach-bio a {
+  color: var(--accent);
+}
+
+[data-theme="deep-end"] .about-card {
+  border-left: 0;
+  border-top: 3px solid var(--accent);
+}
+
+/* ─── Schedule ─── */
+
+[data-theme="deep-end"] .schedule-grid {
+  gap: 2px;
+  background: var(--line);
+  border: 2px solid var(--line);
+}
+
+[data-theme="deep-end"] .schedule-card {
+  text-align: left;
+  padding: 1.5rem;
+}
+
+[data-theme="deep-end"] .schedule-card:hover {
+  transform: none;
+}
+
+[data-theme="deep-end"] .schedule-day {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.1;
+}
+
+[data-theme="deep-end"] .schedule-time {
+  font-size: 1.2rem;
+  font-variant-numeric: tabular-nums;
+}
+
+[data-theme="deep-end"] .badge {
+  border-radius: 0;
+  background: transparent;
+  border: 1px solid currentColor;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+}
+
+[data-theme="deep-end"] .badge-open,
+[data-theme="deep-end"] .badge-meet {
+  color: var(--accent);
+}
+
+[data-theme="deep-end"] .badge-closed {
+  color: #c9d3db;
+}
+
+[data-theme="deep-end"] .badge-social {
+  color: #c9b8f0;
+}
+
+/* ─── Events ─── */
+
+[data-theme="deep-end"] .events-list {
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+[data-theme="deep-end"] .event-card {
+  background: transparent;
+  border-bottom: 1px solid var(--line);
+  padding: 1.25rem 0;
+  gap: 2rem;
+}
+
+[data-theme="deep-end"] .event-card:hover {
+  transform: none;
+}
+
+[data-theme="deep-end"] .event-date {
+  flex-direction: row;
+  gap: 0.4rem;
+  align-items: baseline;
+  min-width: 7.5rem;
+  padding: 0;
+  background: transparent;
+  color: var(--accent);
+  font-family: var(--font-display);
+  text-transform: uppercase;
+}
+
+[data-theme="deep-end"] .event-date .month {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  opacity: 1;
+}
+
+[data-theme="deep-end"] .event-date .day {
+  font-size: 1.5rem;
+}
+
+[data-theme="deep-end"] .event-info h3 {
+  font-size: 1.15rem;
+}
+
+[data-theme="deep-end"] .event-info p {
+  font-size: 0.95rem;
+}
+
+/* ─── Coaches, board, classes ─── */
+
+[data-theme="deep-end"] .coach-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2px;
+  background: var(--line);
+  border: 2px solid var(--line);
+}
+
+[data-theme="deep-end"] .coach-card {
+  flex-direction: column;
+}
+
+[data-theme="deep-end"] .coach-photo {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  filter: grayscale(0.35) contrast(1.05);
+}
+
+[data-theme="deep-end"] .coach-bio h3 {
+  font-family: var(--font-display);
+  font-size: 1.9rem;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+[data-theme="deep-end"] .board-role {
+  color: var(--accent);
+}
+
+[data-theme="deep-end"] .class-callout {
+  background: var(--bg);
+  border-left-color: var(--accent);
+}
+
+/* ─── FAQ / locations ─── */
+
+[data-theme="deep-end"] .faq-item > summary::after,
+[data-theme="deep-end"] .location-section > summary::after {
+  color: var(--accent);
+}
+
+/* ─── Gallery ─── */
+
+[data-theme="deep-end"] .gallery-tab {
+  color: var(--text);
+}
+
+[data-theme="deep-end"] .gallery-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--on-accent);
+}
+
+[data-theme="deep-end"] .gallery-photo img,
+[data-theme="deep-end"] .location-photo img {
+  border-radius: 0;
+}
+
+[data-theme="deep-end"] .gallery-empty code {
+  background: var(--bg);
+}
+
+/* ─── Records table ─── */
+
+[data-theme="deep-end"] #search,
+[data-theme="deep-end"] .filters select {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 0;
+}
+
+[data-theme="deep-end"] #search::placeholder {
+  color: #7d8f9d;
+}
+
+[data-theme="deep-end"] table {
+  background: var(--surface);
+}
+
+[data-theme="deep-end"] th {
+  background: #1d2a35;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.8rem;
+}
+
+[data-theme="deep-end"] th:hover {
+  background: #263643;
+}
+
+[data-theme="deep-end"] td {
+  border-bottom-color: var(--line);
+}
+
+[data-theme="deep-end"] tbody tr:nth-child(even) {
+  background: #131d26;
+}
+
+[data-theme="deep-end"] tbody tr:hover {
+  background: #1f2d39;
+}
+
+/* ─── Blocks ─── */
+
+[data-theme="deep-end"] .block-prose a,
+[data-theme="deep-end"] .block-callout a {
+  color: var(--accent);
+}
+
+[data-theme="deep-end"] .block-divider {
+  border-top-color: var(--line);
+}
+
+[data-theme="deep-end"] .block-embed iframe {
+  background: var(--surface);
+}
+
+/* ─── Footer ─── */
+
+[data-theme="deep-end"] footer {
+  background: #070b0f;
+  border-top: 1px solid var(--line);
+}
+
+[data-theme="deep-end"] footer h3 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  text-transform: uppercase;
+}
+
+@media (max-width: 640px) {
+  [data-theme="deep-end"] .event-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  [data-theme="deep-end"] .coach-list {
+    grid-template-columns: 1fr;
+  }
+
+  [data-theme="deep-end"] .nav-links {
+    border-bottom: 1px solid var(--line);
+  }
+}

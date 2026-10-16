@@ -1,0 +1,48 @@
+{
+  "slug": "home",
+  "title": "",
+  "description": "",
+  "nav": null,
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "section"
+    },
+    {
+      "id": "about",
+      "type": "section"
+    },
+    {
+      "id": "schedule",
+      "type": "section"
+    },
+    {
+      "id": "events",
+      "type": "section"
+    },
+    {
+      "id": "classes",
+      "type": "section"
+    },
+    {
+      "id": "faq",
+      "type": "section"
+    },
+    {
+      "id": "gallery",
+      "type": "section"
+    },
+    {
+      "id": "coaches",
+      "type": "section"
+    },
+    {
+      "id": "board",
+      "type": "section"
+    },
+    {
+      "id": "records",
+      "type": "section"
+    }
+  ]
+}

@@ -110,6 +110,65 @@ To remove the alert, clear the `value` cell for `alert_message`.
 | `schedule_note` | Note displayed below the schedule grid |
 | `alert_message` | Site-wide alert banner (red bar at top) |
 
+## Editing the Site (Page Editor)
+
+Club web admins can rearrange the home page, add content blocks, and create new pages at **`/admin/`** without touching code. The Google Sheet still owns the schedule, events, board, FAQ and site copy. The editor controls the *layout*: which sections appear, in what order, and any extra pages.
+
+- **Built-in sections** (Hero, About, Schedule, …): drag to reorder or hide them. Their content still comes from the Sheet.
+- **Blocks**: Heading, Text (markdown), Image (uploads are resized in the browser), Buttons, Callout, Embed (YouTube, Google Maps/Forms/Calendar) and Divider.
+- **Pages**: each new page lives at `/<address>/` and can appear in the site menu. It is listed in the sitemap and `llms.txt` automatically.
+- Drafts autosave in the admin's browser. **Publish** commits `tenants/<slug>/content/pages/*.json` (and any new images under `public/uploads/`) to `main` as one commit (`[admin:<slug>] …`, with no author email, since the repo is public; Cloudflare Access logs show who signed in). Cloudflare Pages then rebuilds, and the change is live in about 2 minutes. To roll back, revert the commit.
+- If two admins publish at the same time, the second one is told and can either load the latest version or publish over it.
+
+**Local:** `cd web && TENANT=colm npm run dev`, then open http://localhost:5173/admin/. In dev, Publish writes the tenant files directly; nothing is committed.
+
+### Choosing a design
+
+Every club can choose a site template in the editor, much like picking a theme in Word. Click **Design** in the editor's top bar. Hover over a design to preview it on the page, pick an accent color (or a custom one), then click **Apply design** and **Publish**.
+
+| Design | Look |
+|--------|------|
+| **Lane Line** (default) | Classic navy and gold, clean cards, centered headings |
+| **Deep End** | Dark and athletic, huge condensed headlines, bright accent |
+| **Morning Swim** | Bright and rounded, friendly type, a sunny lane-tile hero |
+| **Kickboard** | Loud and playful, thick outlines, offset shadows, candy colors |
+| **Heritage** | Traditional club, cream paper, forest green, serif headlines, gold rules |
+| **Open Water** | Calm and airy, ocean-gradient hero with a wave edge, sky-blue sections |
+| **Pace Clock** | Crisp Swiss grid, numbered sections, monospace times |
+| **Poolside** | Seventies retro, sunset stripes, chunky script headlines |
+
+- The choice is saved in `tenants/<slug>/content/site.json`, for example `{ "theme": "morning-swim", "accent": "#ffd166" }`. If the file is missing, the club gets Lane Line with its `tenant.json` colors. A bad value fails the build, so the last good deploy stays live.
+- Designs change only CSS and fonts. The content, Sheet overrides and element ids are the same in every design.
+- A chosen accent is applied to `<html>`, so it takes priority over `colors.accent` in `tenant.json`.
+- **Preview without publishing:** add `?theme=<id>&accent=%23rrggbb` to any page URL, for example `/?theme=deep-end`. The **Preview full site** link in the Design gallery opens one. The design switches in the browser, and nothing is saved. On the dev server, a floating **Design** switcher in the corner changes it live.
+- To add a design:
+  1. Add an entry to `THEMES` in `web/shared/site.ts`.
+  2. Create `web/src/themes/<id>.css`, with every rule scoped under `[data-theme="<id>"]`. The token block must use `:root[data-theme="<id>"], [data-theme="<id>"]`.
+- The standalone `/workouts/` page is a static file outside the build, so it keeps the default look.
+
+### One-time setup per club (Cloudflare dashboard)
+
+1. **Access application.** Go to Zero Trust → Access → Applications → *Self-hosted*. Add these hostnames/paths:
+   - `<club-domain>/admin*`
+   - `<club-domain>/api/admin/*`
+   - the same two paths on `<project>.pages.dev` and `*.<project>.pages.dev` (previews)
+
+   Add an *Allow* policy listing the admins' emails, and copy the application's **AUD tag**.
+2. **GitHub token.** Create a fine-grained personal access token with access to this repository only and the **Contents: Read and write** permission.
+3. **Pages environment variables.** In the Pages project → Settings → Variables and Secrets, for Production:
+   | Name | Value |
+   |------|-------|
+   | `TENANT` | club slug (already set for the build) |
+   | `GITHUB_TOKEN` | the token from step 2 (type: *Secret*) |
+   | `GITHUB_REPO` | `owner/repo`, e.g. `cdrake/columbia-masters` |
+   | `GITHUB_BRANCH` | optional, defaults to `main` |
+   | `ACCESS_TEAM_DOMAIN` | your Zero Trust team name, e.g. `myteam` (from `myteam.cloudflareaccess.com`) |
+   | `ACCESS_AUD` | the AUD tag from step 1 |
+4. Redeploy. Until every variable is set, `/api/admin/*` returns "isn't set up yet". The API also re-checks the Access login on every request, so it stays closed even if step 1 is incomplete.
+5. *(Optional, multi-club)* Set **Build watch paths** to `web/*` and `tenants/<slug>/*`, so an edit to one club doesn't rebuild every other club.
+
+> Admin edits land on `main`. Run `git pull` before pushing local `hatch run refresh` commits.
+
 ## Scraper Documentation
 
 For full scraper usage, data formats, and troubleshooting, see [SCRAPER.md](SCRAPER.md).

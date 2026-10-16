@@ -2,6 +2,8 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { Marked } from "marked";
+import { defaultHomePage, HOME_SLUG, validatePage, type Page } from "../shared/pages";
+import { validateSite, type SiteSettings } from "../shared/site";
 
 const marked = new Marked();
 
@@ -90,6 +92,10 @@ export interface Tenant {
     board: FallbackBoardMember[];
     faq: FallbackFaqEntry[];
   };
+  /** Site pages from content/pages/*.json; home is always first. */
+  pages: Page[];
+  /** Design template + accent from content/site.json (written by the editor); null = default look. */
+  site: SiteSettings | null;
   dir: string;
   publicDir: string;
 }
@@ -179,7 +185,42 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
   const publicDir = path.join(dir, "public");
   req(fs.existsSync(publicDir), `missing ${publicDir}`);
 
-  return { config, aboutHtml, coaches, classes, fallback, dir, publicDir };
+  const pages = loadPages(path.join(contentDir, "pages"), publicDir);
+
+  const siteFile = path.join(contentDir, "site.json");
+  const site = readJsonIfExists<SiteSettings>(siteFile);
+  if (site) {
+    const errs = validateSite(site);
+    req(!errs.length, `${siteFile}:\n  ${errs.join("\n  ")}`);
+  }
+
+  return { config, aboutHtml, coaches, classes, fallback, pages, site, dir, publicDir };
+}
+
+/**
+ * Load and validate content/pages/*.json (written by the /admin editor). Any
+ * invalid page fails the build so a bad edit never replaces the live site.
+ * Tenants without a pages/ dir get the built-in home layout.
+ */
+function loadPages(dir: string, publicDir: string): Page[] {
+  if (!fs.existsSync(dir)) return [defaultHomePage()];
+  const pages = fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith(".json"))
+    .sort()
+    .map((f) => {
+      const file = path.join(dir, f);
+      const page = readJson<Page>(file);
+      const errs = validatePage(page, f.slice(0, -".json".length));
+      req(!errs.length, `${file}:\n  ${errs.join("\n  ")}`);
+      req(
+        page.slug === HOME_SLUG || !fs.existsSync(path.join(publicDir, page.slug)),
+        `${file}: slug "${page.slug}" collides with public/${page.slug}`
+      );
+      return page;
+    });
+  const home = pages.find((p) => p.slug === HOME_SLUG) ?? defaultHomePage();
+  return [home, ...pages.filter((p) => p.slug !== HOME_SLUG)];
 }
 
 function readJsonIfExists<T>(file: string): T | null {

@@ -1,0 +1,507 @@
+/* Pace Clock — crisp Swiss grid, monospace numbers, like the clock on the pool wall.
+   Scoped to [data-theme="pace-clock"] (on <html> for the site, on the editor
+   canvas for previews). Restyles the shared markup only. */
+
+/* :root[...] outranks style.css's :root tokens whatever the load order (dev injects
+   style.css last); the bare selector themes the editor canvas. */
+:root[data-theme="pace-clock"],
+[data-theme="pace-clock"] {
+  --navy: #111111;
+  --navy-light: #2a2a2a;
+  --blue: #111111;
+  --blue-light: #8a8a8a;
+  --bg: #ffffff;
+  --bg-alt: #f4f4f1;
+  --text: #111111;
+  --text-muted: #5c5c5c;
+  --white: #ffffff;
+  --radius: 0;
+  --line: #111111;
+  --shadow: 0 0 0 1px var(--line);
+  --shadow-lg: 0 0 0 1px var(--line);
+  --font-body: "Inter Tight", system-ui, sans-serif;
+  --font-display: "Inter Tight", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+/* ─── Nav ─── */
+
+[data-theme="pace-clock"] #main-nav {
+  background: var(--bg);
+  box-shadow: none;
+  border-bottom: 1px solid var(--line);
+}
+
+[data-theme="pace-clock"] .nav-logo {
+  color: var(--text);
+  font-weight: 800;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Clock face: a ring with a single sweep hand. */
+[data-theme="pace-clock"] .nav-logo::before {
+  content: "";
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 50%;
+  border: 2px solid var(--text);
+  background: linear-gradient(var(--accent), var(--accent)) 50% 15% / 2px 40% no-repeat;
+}
+
+[data-theme="pace-clock"] .nav-toggle {
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .nav-links a {
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-radius: 0;
+}
+
+[data-theme="pace-clock"] .nav-links a:hover,
+[data-theme="pace-clock"] .nav-links a[aria-current="page"] {
+  background: var(--text);
+  color: var(--bg);
+}
+
+/* ─── Hero ─── */
+
+[data-theme="pace-clock"] #hero {
+  background:
+    linear-gradient(var(--bg-alt) 1px, transparent 1px) 0 0 / 100% 48px,
+    linear-gradient(90deg, var(--bg-alt) 1px, transparent 1px) 0 0 / 48px 100%,
+    var(--bg);
+  color: var(--text);
+  text-align: left;
+  padding: 5rem 1rem 4.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+[data-theme="pace-clock"] .hero-content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+[data-theme="pace-clock"] .hero-sub {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 1;
+  margin-bottom: 1.25rem;
+}
+
+[data-theme="pace-clock"] .hero-sub::before {
+  content: "";
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+[data-theme="pace-clock"] .hero-content h1 {
+  font-weight: 800;
+  font-size: clamp(2.6rem, 7vw, 5.4rem);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  max-width: 14ch;
+  margin-bottom: 1.25rem;
+}
+
+[data-theme="pace-clock"] .hero-tagline {
+  max-width: 48ch;
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+[data-theme="pace-clock"] .hero-actions {
+  justify-content: flex-start;
+  gap: 0;
+}
+
+/* ─── Buttons ─── */
+
+[data-theme="pace-clock"] .btn {
+  border-radius: 0;
+  border: 1px solid var(--line);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.9rem 1.4rem;
+}
+
+[data-theme="pace-clock"] .btn:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+[data-theme="pace-clock"] .btn-primary:hover {
+  filter: brightness(1.1);
+}
+
+[data-theme="pace-clock"] .btn + .btn {
+  margin-left: -1px;
+}
+
+[data-theme="pace-clock"] .btn-outline,
+[data-theme="pace-clock"] .btn-secondary {
+  background: var(--bg);
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .btn-outline:hover,
+[data-theme="pace-clock"] .btn-secondary:hover {
+  border-color: var(--line);
+  background: var(--text);
+  color: var(--bg);
+}
+
+/* ─── Sections ─── */
+
+[data-theme="pace-clock"] body,
+[data-theme="pace-clock"] .adm-frame {
+  counter-reset: pc-section;
+}
+
+[data-theme="pace-clock"] .section {
+  padding: 4rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+[data-theme="pace-clock"] .section h2,
+[data-theme="pace-clock"] .page-header h1 {
+  text-align: left;
+  font-weight: 800;
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  letter-spacing: -0.03em;
+}
+
+/* Section numbers like split times: 01, 02, … */
+[data-theme="pace-clock"] .section h2 {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--line);
+}
+
+[data-theme="pace-clock"] .section h2::before {
+  counter-increment: pc-section;
+  content: counter(pc-section, decimal-leading-zero);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  color: var(--accent);
+}
+
+[data-theme="pace-clock"] .page-header {
+  background: var(--bg);
+  color: var(--text);
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+}
+
+[data-theme="pace-clock"] .block-subtitle,
+[data-theme="pace-clock"] .schedule-note {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+[data-theme="pace-clock"] .about-card,
+[data-theme="pace-clock"] .block-callout {
+  border-left: 0;
+  border-top: 4px solid var(--accent);
+}
+
+[data-theme="pace-clock"] .about-card h3,
+[data-theme="pace-clock"] .block-callout-title,
+[data-theme="pace-clock"] .class-callout-title {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .about-card dt {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+[data-theme="pace-clock"] .about-text p,
+[data-theme="pace-clock"] .gallery-description {
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .faq-list,
+[data-theme="pace-clock"] .events-list,
+[data-theme="pace-clock"] .classes-list,
+[data-theme="pace-clock"] .board-grid {
+  gap: 0;
+}
+
+[data-theme="pace-clock"] .faq-item,
+[data-theme="pace-clock"] .location-section {
+  border-left: 0;
+  margin-top: -1px;
+}
+
+[data-theme="pace-clock"] .faq-item > summary,
+[data-theme="pace-clock"] .location-section > summary {
+  font-weight: 600;
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .faq-item > summary::after,
+[data-theme="pace-clock"] .location-section > summary::after {
+  font-family: var(--font-mono);
+  color: var(--accent);
+}
+
+/* ─── Schedule ─── */
+
+[data-theme="pace-clock"] .schedule-grid {
+  gap: 0;
+}
+
+[data-theme="pace-clock"] .schedule-card {
+  text-align: left;
+  margin: 0 0 -1px -1px;
+}
+
+[data-theme="pace-clock"] .schedule-card:hover {
+  transform: none;
+  background: var(--bg-alt);
+}
+
+[data-theme="pace-clock"] .schedule-day {
+  font-weight: 800;
+  font-size: 1.15rem;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .schedule-time {
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  color: var(--text);
+}
+
+[data-theme="pace-clock"] .badge {
+  border-radius: 0;
+  font-family: var(--font-mono);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  background: none;
+  border: 1px solid currentColor;
+}
+
+[data-theme="pace-clock"] .badge-open,
+[data-theme="pace-clock"] .badge-meet {
+  color: #007a4d;
+}
+
+[data-theme="pace-clock"] .badge-closed {
+  color: #c62d00;
+}
+
+[data-theme="pace-clock"] .badge-social {
+  color: var(--text);
+}
+
+/* ─── Events ─── */
+
+[data-theme="pace-clock"] .event-card {
+  margin-top: -1px;
+}
+
+[data-theme="pace-clock"] .event-card:hover {
+  transform: none;
+  background: var(--bg-alt);
+}
+
+[data-theme="pace-clock"] .event-date {
+  background: var(--text);
+  color: var(--bg);
+  border-radius: 0;
+  border-bottom: 4px solid var(--accent);
+  font-family: var(--font-mono);
+}
+
+[data-theme="pace-clock"] .event-date .day {
+  font-size: 1.3rem;
+}
+
+[data-theme="pace-clock"] .event-info h3,
+[data-theme="pace-clock"] .class-info h3,
+[data-theme="pace-clock"] .coach-bio h3,
+[data-theme="pace-clock"] .board-name,
+[data-theme="pace-clock"] .gallery-event-header h3 {
+  color: var(--text);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+[data-theme="pace-clock"] .event-info p {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+}
+
+/* ─── Coaches, board, classes ─── */
+
+[data-theme="pace-clock"] .coach-photo {
+  border-radius: 0;
+  filter: grayscale(1) contrast(1.05);
+  box-shadow: 0 0 0 1px var(--line);
+}
+
+[data-theme="pace-clock"] .board-card {
+  margin: 0 0 -1px -1px;
+}
+
+[data-theme="pace-clock"] .board-role {
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+}
+
+[data-theme="pace-clock"] .class-card {
+  margin-top: -1px;
+}
+
+[data-theme="pace-clock"] .class-callout {
+  background: var(--bg-alt);
+  border-left: 3px solid var(--accent);
+  border-radius: 0;
+}
+
+/* ─── Gallery ─── */
+
+[data-theme="pace-clock"] .gallery-tab {
+  border: 1px solid var(--line);
+  border-radius: 0;
+  font-family: var(--font-mono);
+}
+
+[data-theme="pace-clock"] .gallery-tab.active {
+  background: var(--text);
+  border-color: var(--text);
+  color: var(--bg);
+}
+
+[data-theme="pace-clock"] .gallery-photo img,
+[data-theme="pace-clock"] .location-photo img {
+  border-radius: 0;
+}
+
+[data-theme="pace-clock"] .gallery-empty code {
+  border-radius: 0;
+}
+
+/* ─── Records table ─── */
+
+[data-theme="pace-clock"] #search,
+[data-theme="pace-clock"] .filters select {
+  border: 1px solid var(--line);
+  border-radius: 0;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
+[data-theme="pace-clock"] #search:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+[data-theme="pace-clock"] table {
+  border: 1px solid var(--line);
+}
+
+[data-theme="pace-clock"] th {
+  background: var(--bg);
+  color: var(--text);
+  border-bottom: 2px solid var(--line);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+[data-theme="pace-clock"] th:hover {
+  background: var(--bg-alt);
+}
+
+[data-theme="pace-clock"] td {
+  border-bottom: 1px solid #dedede;
+}
+
+[data-theme="pace-clock"] td.time {
+  font-family: var(--font-mono);
+  font-weight: 600;
+}
+
+[data-theme="pace-clock"] tbody tr:nth-child(even) {
+  background: var(--bg);
+}
+
+[data-theme="pace-clock"] tbody tr:hover {
+  background: var(--bg-alt);
+}
+
+/* ─── Blocks ─── */
+
+[data-theme="pace-clock"] .block-prose a,
+[data-theme="pace-clock"] .block-callout a {
+  color: var(--text);
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+}
+
+[data-theme="pace-clock"] .block-divider {
+  border: 0;
+  height: 10px;
+  background: repeating-linear-gradient(90deg, var(--line) 0 1px, transparent 1px 12px);
+}
+
+[data-theme="pace-clock"] .block-embed iframe {
+  border: 1px solid var(--line);
+  border-radius: 0;
+}
+
+/* ─── Footer ─── */
+
+[data-theme="pace-clock"] footer {
+  background: #111111;
+}
+
+[data-theme="pace-clock"] footer h3 {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* ─── Responsive ─── */
+
+@media (max-width: 640px) {
+  [data-theme="pace-clock"] .nav-links {
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+  }
+}
