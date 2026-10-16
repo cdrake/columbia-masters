@@ -1,45 +1,63 @@
 # AGENTS.md
 
-This file provides guidance to Codex (Codex.ai/code) when working with code in this repository.
+Guidance for coding agents (Codex, Claude Code, etc.) working in this repository. CLAUDE.md
+carries the same content in more detail; keep the two in sync.
 
 ## Project Overview
 
-Python CLI tool that scrapes US Masters Swimming (USMS) team records from usms.org and transforms them into JSON for Firebase/Firestore import. Uses hatch for project management.
+Multi-tenant platform for US Masters Swimming club sites (first tenant: COLM). Two halves:
+
+- **Python pipeline** (hatch project, `src/usms_scraper/`) scrapes USMS top-10 listings into
+  CSV with Selenium (usms.org sits behind an Azure WAF JavaScript challenge, so plain HTTP
+  fails), transforms them to JSON, and rebuilds gallery/locations indexes per tenant.
+- **Web app** (`web/`, vanilla TypeScript + Vite) builds one static club site per
+  `TENANT=<slug>` from the tenant registry under `tenants/<slug>/`.
 
 ## Commands
 
 ```bash
-# Enter dev environment
 hatch shell
 
-# Run scraper
-hatch run scrape --team COLM --output ./data/csv
-hatch run transform --input ./data/csv --output ./data/json --team COLM --firebase
-hatch run all --team COLM --csv-output ./data/csv --json-output ./data/json
+# Per-club data refresh (idempotent; no-op when USMS has nothing new)
+hatch run refresh                           # all tenants, current year
+hatch run refresh -- --tenant colm --full   # one club, all years
 
-# Run directly
-python -m usms_scraper.cli scrape --team COLM
+# Nationwide paced crawl: every LMSC + club, resumes from data/usms/crawl_state.json
+hatch run crawl                             # one slice; scheduled twice daily by usms-crawl.yml
+hatch run crawl -- --status                 # progress + next budget, no browser
+hatch run crawl -- --reset --lmsc 55 --start-year 2024 --days 1   # small test crawl
 
-# Lint
-ruff check src/
-ruff format src/
+# Web
+cd web && npm run build
+TENANT=<slug> npm run dev
 
-# Test
+# Lint / test
+ruff check src/ && ruff format src/
 pytest
 ```
 
 ## Architecture
 
-The pipeline is: **scrape HTML → CSV → transform → JSON (for Firebase)**.
+Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenants/<slug>/public/data/ → static build**.
 
-- `src/usms_scraper/cli.py` — argparse CLI with three subcommands: `scrape`, `transform`, `all`
-- `src/usms_scraper/scraper.py` — `USMSScraper` class fetches USMS top-times pages via requests+BeautifulSoup, filters by team code, writes CSV. `ScraperConfig` holds URL patterns and parameters that may need updating if the USMS site changes.
-- `src/usms_scraper/transformer.py` — Reads CSVs, creates `TeamRecord` objects, outputs JSON in three formats: array, Firebase keyed-by-ID, and NDJSON.
-- `src/usms_scraper/models.py` — `TeamRecord` dataclass with `to_dict()` that converts snake_case fields to camelCase for Firebase. Contains normalization helpers for time strings, event names, course codes, and gender values.
+- `src/usms_scraper/cli.py` — argparse CLI: `scrape`, `transform`, `all`, `update`, `publish`,
+  `refresh`, `crawl`, plus gallery/locations commands.
+- `src/usms_scraper/scraper.py` — `USMSScraper` drives the toptenlocal.php form for one club.
+  Module-level `parse_top_ten_html`, `create_driver`, and `write_records_csv` are shared with
+  the crawler.
+- `src/usms_scraper/crawl.py` — paced nationwide crawl. `LMSCS` table, `CrawlState` checkpoint
+  (per-run budget = remaining requests / runs left before the deadline), `UsmsCrawler` loads
+  `toptenlocalind.php` GET URLs directly. Phase 1 = LMSC listings (discovers clubs), phase 2 =
+  per-club listings. Output under `data/csv/usms/<lmscId>/`.
+- `src/usms_scraper/transformer.py` / `models.py` — CSV → `TeamRecord` JSON (camelCase,
+  deterministic IDs `{team}_{event}_{course}_{gender}_{ageGroup}`).
+- `src/usms_scraper/tenants.py` — tenant registry loader.
+- `.github/workflows/usms-crawl.yml` — runs a crawl slice at 03:00 and 15:00 UTC and commits
+  results; `workflow_dispatch` with `reset=true` starts a new crawl.
 
 ## Key Details
 
-- Record IDs are deterministic: `{team}_{event}_{course}_{gender}_{ageGroup}` (see `TeamRecord.id`)
-- The scraper iterates over all combinations of course (SCY/SCM/LCM) × event × gender, with a configurable delay between requests
-- USMS HTML parsing in `_parse_results_table()` is generic and may need adjustment when the site structure changes — check `ScraperConfig` URL patterns first
-- Ruff config: line-length 100, target Python 3.10
+- Records CSV columns are shared (`RECORD_FIELDS` in scraper.py); `team` is the club code.
+- `hatch run refresh` and `hatch run crawl` must stay idempotent/resumable.
+- USMS HTML parsing lives in `parse_top_ten_html`; check it first if the site changes.
+- Ruff config: line-length 100, target Python 3.10.

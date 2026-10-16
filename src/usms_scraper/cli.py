@@ -9,9 +9,17 @@ import sys
 from datetime import date
 from pathlib import Path
 
+from .crawl import (
+    DEFAULT_START_YEAR,
+    LMSCS,
+    CrawlBlockedError,
+    CrawlState,
+    UsmsCrawler,
+    write_clubs_index,
+)
 from .gallery import build_index, create_event_folder, init_from_records
 from .locations import build_index as build_locations_index, create_location_folder
-from .scraper import scrape_team_records, ScraperConfig, USMSScraper
+from .scraper import scrape_team_records, ScraperConfig, USMSScraper, write_records_csv
 from .tenants import Tenant, load_tenant, load_tenants
 from .transformer import (
     transform_multiple_csvs,
@@ -144,24 +152,7 @@ def _load_existing_csv(path: Path) -> list[dict]:
 
 def _save_records_csv(records: list[dict], path: Path) -> None:
     """Write records to a CSV file."""
-    fieldnames = [
-        "team",
-        "event",
-        "course",
-        "gender",
-        "age_group",
-        "time",
-        "swimmer",
-        "date",
-        "meet",
-        "year",
-        "rank",
-    ]
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(records)
+    write_records_csv(records, path)
 
 
 def _new_data_index(tenant: Tenant, record_count: int) -> dict:
@@ -478,6 +469,89 @@ def cmd_refresh(args: argparse.Namespace) -> int:
         logging.error(f"Failed tenants: {', '.join(failures)}")
         return 1
     return 0
+
+
+def cmd_crawl(args: argparse.Namespace) -> int:
+    """Run one paced slice of the nationwide USMS crawl (every LMSC, every club)."""
+    state_path = Path(args.state)
+    output_dir = Path(args.output)
+    courses = [c.strip().upper() for c in args.courses.split(",")]
+    lmscs = [x.strip() for x in args.lmsc.split(",") if x.strip()] if args.lmsc else list(LMSCS)
+    unknown = [x for x in lmscs if x not in LMSCS]
+    if unknown:
+        logging.error(f"Unknown LMSC id(s): {', '.join(unknown)}")
+        return 1
+
+    if state_path.exists() and not args.reset:
+        state = CrawlState.load(state_path)
+        logging.info(f"Resuming crawl started {state.started} (deadline {state.deadline})")
+    else:
+        end_year = args.end_year or date.today().year
+        state = CrawlState.new(
+            days=args.days,
+            runs_per_day=args.runs_per_day,
+            start_year=args.start_year,
+            end_year=end_year,
+            courses=courses,
+            lmscs=lmscs,
+            club_window=args.club_window,
+        )
+        state.save(state_path)
+        logging.info(
+            f"New crawl: {len(lmscs)} LMSC(s), {args.start_year}-{end_year}, "
+            f"{', '.join(courses)}, {args.days} day(s) x {args.runs_per_day} run(s)/day"
+        )
+
+    if state.finished and not args.reset:
+        logging.info(f"Crawl already finished {state.finished}. Use --reset to start over.")
+        _log_progress(state)
+        return 0
+
+    budget = args.budget if args.budget is not None else state.budget_for_run()
+    _log_progress(state)
+    logging.info(f"This run's request budget: {budget}")
+
+    if args.status or args.dry_run:
+        return 0
+
+    crawler = UsmsCrawler(
+        state=state,
+        state_path=state_path,
+        output_dir=output_dir,
+        delay=args.delay,
+        headless=not args.show_browser,
+        debug_dir=output_dir / "debug" if args.debug_html else None,
+    )
+    try:
+        summary = crawler.run(budget=budget, max_minutes=args.max_minutes)
+    except CrawlBlockedError as e:
+        logging.error(f"Crawl aborted: {e}")
+        write_clubs_index(state, state_path.parent / "clubs.json")
+        return 2
+    finally:
+        _log_progress(state)
+
+    write_clubs_index(state, state_path.parent / "clubs.json")
+    logging.info(
+        f"Run done: {summary['units']} unit(s), {summary['requests']} request(s) "
+        f"of budget {summary['budget']} in {summary['minutes']} min"
+    )
+    if state.finished:
+        logging.info("Nationwide crawl is complete.")
+    return 0
+
+
+def _log_progress(state: CrawlState) -> None:
+    p = state.progress()
+    logging.info(
+        f"Progress: phase1 {p['phase1_done']}/{p['units_total']}, "
+        f"phase2 {p['phase2_done']}/{p['units_total']}, "
+        f"{p['clubs_seen']} club(s) in {p['lmscs_with_clubs']} LMSC(s), "
+        f"{p['requests_made']} requests made, ~{p['requests_remaining_est']} remaining, "
+        f"{p['runs_remaining']} run(s) left before {p['deadline']}"
+    )
+    if p["failed_units"]:
+        logging.warning(f"Permanently failed units: {', '.join(p['failed_units'])}")
 
 
 def cmd_publish(args: argparse.Namespace) -> int:
@@ -910,6 +984,85 @@ Examples:
     )
     refresh_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     refresh_parser.set_defaults(func=cmd_refresh)
+
+    # Crawl command (paced nationwide crawl, resumable)
+    crawl_parser = subparsers.add_parser(
+        "crawl",
+        help="Run one slice of a paced crawl of every LMSC and club (resumes from state file)",
+    )
+    crawl_parser.add_argument(
+        "--days", type=int, default=15, help="Spread a new crawl over this many days (default: 15)"
+    )
+    crawl_parser.add_argument(
+        "--runs-per-day",
+        type=int,
+        default=2,
+        help="How often the scheduler invokes this command per day (default: 2)",
+    )
+    crawl_parser.add_argument(
+        "--start-year",
+        type=int,
+        default=DEFAULT_START_YEAR,
+        help=f"First year to crawl (default: {DEFAULT_START_YEAR}, earliest USMS data)",
+    )
+    crawl_parser.add_argument(
+        "--end-year", type=int, default=None, help="Last year to crawl (default: current year)"
+    )
+    crawl_parser.add_argument(
+        "--courses",
+        default="SCY,SCM,LCM",
+        help="Comma-separated courses (default: SCY,SCM,LCM)",
+    )
+    crawl_parser.add_argument(
+        "--lmsc",
+        default=None,
+        help="Comma-separated LMSC ids to limit a new crawl to (default: all 52)",
+    )
+    crawl_parser.add_argument(
+        "--club-window",
+        type=int,
+        default=2,
+        help="Query a club for a year only if it appeared in an LMSC listing within this many "
+        "years of it; -1 queries every club for every year (default: 2)",
+    )
+    crawl_parser.add_argument(
+        "--budget",
+        type=int,
+        default=None,
+        help="Override the computed per-run request budget",
+    )
+    crawl_parser.add_argument(
+        "--max-minutes",
+        type=float,
+        default=None,
+        help="Stop starting new units after this many minutes (checkpoint and exit 0)",
+    )
+    crawl_parser.add_argument(
+        "--delay", "-d", type=float, default=1.0, help="Delay between requests (seconds)"
+    )
+    crawl_parser.add_argument(
+        "--output", "-o", default="./data/csv/usms", help="CSV output root (default: data/csv/usms)"
+    )
+    crawl_parser.add_argument(
+        "--state",
+        default="./data/usms/crawl_state.json",
+        help="Checkpoint file (default: data/usms/crawl_state.json)",
+    )
+    crawl_parser.add_argument(
+        "--reset", action="store_true", help="Discard the checkpoint and start a new crawl"
+    )
+    crawl_parser.add_argument(
+        "--status", action="store_true", help="Print progress and this run's budget, then exit"
+    )
+    crawl_parser.add_argument(
+        "--dry-run", action="store_true", help="Create/print the plan without opening a browser"
+    )
+    crawl_parser.add_argument("--show-browser", action="store_true", help="Show browser window")
+    crawl_parser.add_argument(
+        "--debug-html", action="store_true", help="Save page HTML when a fetch times out"
+    )
+    crawl_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    crawl_parser.set_defaults(func=cmd_crawl)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")

@@ -1,0 +1,111 @@
+name: USMS nationwide crawl
+
+# Runs one paced slice of the nationwide USMS top-10 crawl twice a day and commits the
+# results. The crawl state file (data/usms/crawl_state.json) decides how much work each
+# run does so the whole crawl finishes by its deadline (15 days by default). Once the
+# state file says the crawl is finished, scheduled runs become no-ops.
+#
+# Start a fresh crawl with "Run workflow" and reset=true.
+
+on:
+  schedule:
+    - cron: "0 3,15 * * *"
+  workflow_dispatch:
+    inputs:
+      reset:
+        description: "Discard the checkpoint and start a new crawl"
+        type: boolean
+        default: false
+      days:
+        description: "Days to spread a new crawl over"
+        type: number
+        default: 15
+      lmsc:
+        description: "Comma-separated LMSC ids for a new crawl (blank = all)"
+        type: string
+        default: ""
+      start_year:
+        description: "First year for a new crawl"
+        type: number
+        default: 2000
+      budget:
+        description: "Override this run's request budget (blank = computed)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: usms-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install scraper
+        run: pip install .
+
+      - name: Chrome version
+        run: google-chrome --version
+
+      - name: Run crawl slice
+        id: crawl
+        env:
+          RESET: ${{ inputs.reset }}
+          DAYS: ${{ inputs.days }}
+          LMSC: ${{ inputs.lmsc }}
+          START_YEAR: ${{ inputs.start_year }}
+          BUDGET: ${{ inputs.budget }}
+        run: |
+          args=(--max-minutes 320 --debug-html)
+          [ "$RESET" = "true" ] && args+=(--reset)
+          [ -n "$DAYS" ] && args+=(--days "$DAYS")
+          [ -n "$LMSC" ] && args+=(--lmsc "$LMSC")
+          [ -n "$START_YEAR" ] && args+=(--start-year "$START_YEAR")
+          [ -n "$BUDGET" ] && args+=(--budget "$BUDGET")
+          python -m usms_scraper.cli crawl "${args[@]}"
+
+      - name: Commit crawl results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for d in data/usms data/csv/usms; do
+            [ -d "$d" ] && git add -A -- "$d"
+          done
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          summary=$(python -c '
+          import json
+          s = json.load(open("data/usms/crawl_state.json"))
+          total = len(s["lmscs"]) * (s["end_year"] - s["start_year"] + 1) * len(s["courses"])
+          print(f"phase1 {len(s[\"phase1_done\"])}/{total}, phase2 {len(s[\"phase2_done\"])}/{total}, {s[\"requests_made\"]} requests")
+          ')
+          git commit -m "USMS crawl: $summary" -m "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 10
+          done
+          exit 1
+
+      - name: Upload debug HTML
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: usms-crawl-debug
+          path: data/csv/usms/debug
+          if-no-files-found: ignore

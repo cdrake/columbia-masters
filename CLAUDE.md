@@ -20,6 +20,10 @@ hatch run refresh
 hatch run refresh -- --tenant colm --full   # one club, all years from records.startYear
 hatch run refresh -- --skip-scrape          # indexes only, no network
 
+# Nationwide paced crawl (every LMSC + club; resumes from data/usms/crawl_state.json)
+hatch run crawl                              # one slice; scheduled twice daily by usms-crawl.yml
+hatch run crawl -- --status                  # progress + next budget, no browser
+
 # Single-club update / publish (tenant-aware defaults)
 hatch run update -- --tenant colm
 hatch run publish -- --tenant colm
@@ -46,6 +50,7 @@ Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenant
 - `src/usms_scraper/tenants.py` — `Tenant` dataclass + `load_tenants()`; path properties for all per-tenant dirs.
 - `src/usms_scraper/cli.py` — argparse CLI. `refresh` is the one-shot across tenants; `update`/`publish` and the gallery/locations commands accept `--tenant` and derive defaults from the registry. Core helpers: `_scrape_and_diff` (idempotent CSV update), `_publish_records` (transform + copy + index.json), `_update_data_index` (creates data/index.json from tenant.json when missing).
 - `src/usms_scraper/scraper.py` — `USMSScraper` fetches USMS top-times pages; `ScraperConfig` holds URL patterns that may need updating if the USMS site changes.
+- `src/usms_scraper/crawl.py` — paced nationwide crawl: `LMSCS` table, `CrawlState` checkpoint (per-run budget = remaining requests / runs left before the deadline), `UsmsCrawler` drives headless Chrome straight to `toptenlocalind.php` GET URLs. Output under `data/csv/usms/<lmscId>/`; parsing is shared with the team scraper via `parse_top_ten_html`.
 - `src/usms_scraper/transformer.py` / `models.py` — CSV → `TeamRecord` JSON (camelCase for the site; deterministic IDs `{team}_{event}_{course}_{gender}_{ageGroup}`).
 - `web/build/` — Vite tenant plugin: `load-tenant.ts` (load + validate tenant files), `render.ts` (HTML renderers for head/JSON-LD/sections), `tenant-plugin.ts` (transformIndexHtml `{{ key }}` + `<!-- tenant:section -->` markers, `virtual:tenant` runtime module, emits robots.txt/sitemap.xml/llms.txt).
 - `web/index.html` — the template. Element ids must be preserved: the runtime (main.ts) and the Google Sheet content-tab overrides target them.

@@ -22,5 +22,7 @@ web/dist/
 
 # Debug/output
 data/csv/debug/
+data/csv/usms/debug/
+data/usms/*.tmp
 output/
 sample_data/

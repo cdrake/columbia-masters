@@ -42,6 +42,124 @@ class ScraperConfig:
     save_debug_html: bool = False
 
 
+# Column order shared by every records CSV this package writes.
+RECORD_FIELDS = [
+    "team",
+    "event",
+    "course",
+    "gender",
+    "age_group",
+    "time",
+    "swimmer",
+    "date",
+    "meet",
+    "year",
+    "rank",
+]
+
+# Event header lines inside the <pre> block: <strong><u>Men 45-49 50 Y Freestyle </u></strong>
+_EVENT_HEADER_HTML_RE = re.compile(r"<strong><u>(Men|Women)\s+(\d+-\d+)\s+(.+?)\s*</u></strong>")
+
+# Data lines like "  1      26.85 Joshua McDuffie, M48, COLM, 554U-YZFEE,"
+# Time can be: 26.85, 1:01.20, 10:01.20, 1:02:45.67
+_DATA_LINE_RE = re.compile(
+    r"^\s*(\d+)\s+"  # rank
+    r"([\d:]+\.\d+)\s+"  # time
+    r"(.+?),\s*"  # swimmer name
+    r"([MF]\d+),\s*"  # gender+age (e.g. M48)
+    r"(\w+),\s*"  # club code
+    r"([\w-]+),\s*"  # USMS ID
+)
+
+_MEET_LINK_RE = re.compile(r'<a\s+href="[^"]*">([^<]+)</a>')
+_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def create_driver(headless: bool = True) -> webdriver.Chrome:
+    """Create a Chrome browser instance configured for usms.org."""
+    options = webdriver.ChromeOptions()
+    if headless:
+        options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    )
+    return webdriver.Chrome(options=options)
+
+
+def parse_top_ten_html(
+    html: str, course: str, year: int, team_code: str | None = None
+) -> list[dict]:
+    """Parse a toptenlocalind.php results page into record dicts.
+
+    ``team_code`` fixes the ``team`` column (a single-club query). When it is None the
+    club code found on each data line is used instead, which is what an LMSC-wide
+    listing needs.
+    """
+    records: list[dict] = []
+    soup = BeautifulSoup(html, "lxml")
+
+    pre = soup.find("pre")
+    if not pre:
+        logger.warning("No <pre> block found on results page")
+        return records
+
+    current_gender = ""
+    current_age_group = ""
+    current_event = ""
+
+    # Walk the raw HTML line by line so meet names can be pulled from the <a> tags.
+    for line in str(pre).split("\n"):
+        if not line.strip():
+            continue
+
+        header_match = _EVENT_HEADER_HTML_RE.search(line)
+        if header_match:
+            current_gender = "M" if header_match.group(1) == "Men" else "W"
+            current_age_group = header_match.group(2)
+            current_event = header_match.group(3).strip()
+            continue
+
+        clean_line = _TAG_RE.sub("", line)
+        data_match = _DATA_LINE_RE.match(clean_line)
+        if not data_match:
+            continue
+
+        # Each data line ends with: <a>View</a> | <a>Meet Name</a>
+        meet_links = _MEET_LINK_RE.findall(line)
+        meet = meet_links[-1].strip() if len(meet_links) >= 2 else ""
+
+        records.append(
+            {
+                "team": team_code or data_match.group(5),
+                "event": current_event,
+                "course": course,
+                "gender": current_gender,
+                "age_group": current_age_group,
+                "time": data_match.group(2),
+                "swimmer": data_match.group(3).strip(),
+                "date": "",
+                "meet": meet,
+                "year": str(year),
+                "rank": data_match.group(1),
+            }
+        )
+
+    return records
+
+
+def write_records_csv(records: list[dict], path: Path) -> None:
+    """Write records to a CSV file using the shared column order."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=RECORD_FIELDS)
+        writer.writeheader()
+        writer.writerows(records)
+
+
 class USMSScraper:
     """Scraper for USMS team records using Selenium."""
 
@@ -51,17 +169,7 @@ class USMSScraper:
 
     def _create_driver(self) -> webdriver.Chrome:
         """Create a headless Chrome browser instance."""
-        options = webdriver.ChromeOptions()
-        if self.config.headless:
-            options.add_argument("--headless=new")
-        options.add_argument("--no-sandbox")
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--disable-gpu")
-        options.add_argument(
-            "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
-        return webdriver.Chrome(options=options)
+        return create_driver(headless=self.config.headless)
 
     def scrape_all(self) -> list[Path]:
         """Scrape all records for the configured team across years and courses."""
@@ -357,91 +465,16 @@ class USMSScraper:
 
         raise RuntimeError("Could not find submit button or form to submit")
 
-    # Regex for event header lines like "Men 45-49 50 Y Freestyle"
-    _EVENT_HEADER_RE = re.compile(r"^(Men|Women)\s+(\d+-\d+)\s+(.+?)\s*$")
-
-    # Regex for data lines like "  1      26.85 Joshua McDuffie, M48, COLM, 554U-YZFEE,"
-    # Time can be: 26.85, 1:01.20, 10:01.20, 1:02:45.67
-    _DATA_LINE_RE = re.compile(
-        r"^\s*(\d+)\s+"  # rank
-        r"([\d:]+\.\d+)\s+"  # time
-        r"(.+?),\s*"  # swimmer name
-        r"([MF]\d+),\s*"  # gender+age (e.g. M48)
-        r"(\w+),\s*"  # club code
-        r"([\w-]+),\s*"  # USMS ID
-    )
-
     def _parse_results(self, course: str, year: int) -> list[dict]:
         """Parse results from the <pre> block on the results page."""
-        records = []
-
         time.sleep(2)
 
         html = self.driver.page_source
-        soup = BeautifulSoup(html, "lxml")
 
         if self.config.save_debug_html:
             self._dump_page_source(f"results_{course}_{year}")
 
-        pre = soup.find("pre")
-        if not pre:
-            logger.warning("No <pre> block found on results page")
-            return records
-
-        # Extract meet names from <a> tags before stripping HTML
-        # Each data line has: ... <a href="...">View</a> | <a href="...">Meet Name</a>
-        pre_html = str(pre)
-
-        current_gender = ""
-        current_age_group = ""
-        current_event = ""
-
-        # Process line by line using the raw HTML to extract meet names
-        for line in pre_html.split("\n"):
-            line_stripped = line.strip()
-            if not line_stripped:
-                continue
-
-            # Check for event header: <strong><u>Men 45-49 50 Y Freestyle </u></strong>
-            header_match = re.search(
-                r"<strong><u>(Men|Women)\s+(\d+-\d+)\s+(.+?)\s*</u></strong>",
-                line,
-            )
-            if header_match:
-                current_gender = "M" if header_match.group(1) == "Men" else "W"
-                current_age_group = header_match.group(2)
-                current_event = header_match.group(3).strip()
-                continue
-
-            # Check for data line — strip HTML first for rank/time/name parsing
-            clean_line = re.sub(r"<[^>]+>", "", line)
-            data_match = self._DATA_LINE_RE.match(clean_line)
-            if not data_match:
-                continue
-
-            rank = data_match.group(1)
-            swim_time = data_match.group(2)
-            swimmer = data_match.group(3).strip()
-
-            # Extract meet name from the second <a> tag (after "View")
-            meet_links = re.findall(r'<a\s+href="[^"]*">([^<]+)</a>', line)
-            meet = meet_links[-1].strip() if len(meet_links) >= 2 else ""
-
-            record = {
-                "team": self.config.team_code,
-                "event": current_event,
-                "course": course,
-                "gender": current_gender,
-                "age_group": current_age_group,
-                "time": swim_time,
-                "swimmer": swimmer,
-                "date": "",
-                "meet": meet,
-                "year": str(year),
-                "rank": rank,
-            }
-            records.append(record)
-
+        records = parse_top_ten_html(html, course, year, team_code=self.config.team_code)
         logger.debug(f"Parsed {len(records)} records from {course} {year}")
         return records
 
@@ -449,26 +482,7 @@ class USMSScraper:
         """Save records to CSV file."""
         filename = f"{self.config.team_code}_{course.lower()}_{year}_records.csv"
         filepath = self.config.output_dir / filename
-
-        fieldnames = [
-            "team",
-            "event",
-            "course",
-            "gender",
-            "age_group",
-            "time",
-            "swimmer",
-            "date",
-            "meet",
-            "year",
-            "rank",
-        ]
-
-        with open(filepath, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(records)
-
+        write_records_csv(records, filepath)
         return filepath
 
     def _dump_page_source(self, label: str) -> None:

@@ -39,6 +39,51 @@ hatch run update --team COLM
 hatch run update --team COLM --firebase
 ```
 
+### Nationwide Crawl (Paced)
+
+Crawls the local top-10 listings for **every LMSC and every club** in the USMS database
+(2000 to the current year, SCY/SCM/LCM) and spreads the work evenly over a number of days
+so usms.org is never hammered. Each invocation does one slice and checkpoints to
+`data/usms/crawl_state.json`; re-running resumes where it left off.
+
+```bash
+# Start (or resume) a 15-day crawl; run this twice a day
+hatch run crawl
+
+# See progress and the budget the next run would use, without opening a browser
+hatch run crawl -- --status
+
+# Start over, or crawl just a few LMSCs / recent years
+hatch run crawl -- --reset
+hatch run crawl -- --reset --lmsc 55,13 --start-year 2020 --days 2
+
+# Force a bigger/smaller slice, or cap wall-clock time (checkpoints and exits 0)
+hatch run crawl -- --budget 500 --max-minutes 60
+```
+
+How it works:
+
+1. **Phase 1 – LMSC listings.** One request per (LMSC, year, course) with the club field
+   blank. The LMSC-wide top 10 is saved to
+   `data/csv/usms/<lmscId>/lmsc_top10/<lmscId>_<course>_<year>_top10.csv` and every club
+   code seen is recorded.
+2. **Phase 2 – club listings.** One request per (LMSC, year, course, club) for each club
+   seen in that LMSC within `--club-window` years (default 2) of the target year. The
+   per-club rows are combined into
+   `data/csv/usms/<lmscId>/<lmscId>_<course>_<year>_records.csv` (same columns as the
+   team CSVs; `team` is the club code).
+
+The per-run request budget is `remaining requests / runs left before the deadline`
+(`--days` x `--runs-per-day`), so the crawl finishes on time whether runs are fast or slow.
+`data/usms/clubs.json` summarises every club discovered per LMSC. A unit that fails three
+times is skipped; five consecutive failures abort the run with exit code 2 (usms.org is
+probably serving its WAF challenge). Pass `--debug-html` to keep the offending pages in
+`data/csv/usms/debug/`.
+
+The GitHub Actions workflow `.github/workflows/usms-crawl.yml` runs a slice at 03:00 and
+15:00 UTC and commits the results. Use **Run workflow** with `reset=true` to start a new
+crawl; once the state file is marked finished, scheduled runs are no-ops.
+
 ### Transform CSV to JSON
 
 ```bash
