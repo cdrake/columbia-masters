@@ -1,0 +1,929 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SFTL,50 M Freestyle,SCM,W,18-24,30.10,Merle Liivand,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,100 M Freestyle,SCM,W,18-24,58.87,Alina K Schulhofer,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,200 M Freestyle,SCM,W,18-24,2:05.86,Alina K Schulhofer,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,400 M Freestyle,SCM,W,18-24,4:22.31,Alina K Schulhofer,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,W,18-24,5:06.02,Merle Liivand,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Backstroke,SCM,W,18-24,40.27,Merle Liivand,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,200 M Backstroke,SCM,W,18-24,2:26.45,Alina K Schulhofer,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Breaststroke,SCM,W,18-24,34.82,Merle Liivand,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Breaststroke,SCM,W,18-24,1:16.26,Merle Liivand,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Breaststroke,SCM,W,18-24,2:48.58,Merle Liivand,,2015 EU Swim International Invitational,2015,1
+SFTL,200 M Individual Medley,SCM,W,18-24,2:44.28,Merle Liivand,,2015 EU Swim International Invitational,2015,1
+SOFL,50 M Freestyle,SCM,W,25-29,25.98,Claire C Donahue,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,50 M Freestyle,SCM,W,25-29,26.56,Catalina Mendieta,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,50 M Freestyle,SCM,W,25-29,31.29,Kelley T Baum,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Freestyle,SCM,W,25-29,31.85,Amanda L Singleton,,Coral Springs Holiday Classic SCM Meet,2015,4
+SOFL,100 M Freestyle,SCM,W,25-29,57.50,Claire C Donahue,,Coral Springs Holiday Classic SCM Meet,2015,1
+BIMC,200 M Freestyle,SCM,W,25-29,2:20.11,Kirsten Esplin,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,200 M Freestyle,SCM,W,25-29,2:20.44,CJ Pisano,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,200 M Freestyle,SCM,W,25-29,2:34.69,Kelley T Baum,,Coral Springs Holiday Classic SCM Meet,2015,3
+WOW,200 M Freestyle,SCM,W,25-29,2:39.05,Lenore R Brown,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,400 M Freestyle,SCM,W,25-29,4:41.10,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,1
+WOW,400 M Freestyle,SCM,W,25-29,5:37.33,Lenore R Brown,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Backstroke,SCM,W,25-29,1:12.35,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,100 M Backstroke,SCM,W,25-29,1:14.39,CJ Pisano,,Coral Springs Holiday Classic SCM Meet,2015,2
+BIMC,200 M Backstroke,SCM,W,25-29,2:38.48,Kirsten Esplin,,Coral Springs Holiday Classic SCM Meet,2015,1
+WOW,200 M Backstroke,SCM,W,25-29,2:57.90,Lenore R Brown,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Breaststroke,SCM,W,25-29,35.17,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Breaststroke,SCM,W,25-29,36.97,CJ Pisano,,Coral Springs Holiday Classic SCM Meet,2015,2
+BIMC,50 M Breaststroke,SCM,W,25-29,37.53,Kirsten Esplin,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Breaststroke,SCM,W,25-29,40.68,Amanda L Singleton,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,200 M Breaststroke,SCM,W,25-29,2:43.71,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,1
+BIMC,200 M Breaststroke,SCM,W,25-29,3:00.26,Kirsten Esplin,,Coral Springs Holiday Classic SCM Meet,2015,2
+WOW,200 M Breaststroke,SCM,W,25-29,3:19.34,Lenore R Brown,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,50 M Butterfly,SCM,W,25-29,26.31,Claire C Donahue,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,50 M Butterfly,SCM,W,25-29,27.87,Catalina Mendieta,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,50 M Butterfly,SCM,W,25-29,30.07,CJ Pisano,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Butterfly,SCM,W,25-29,31.34,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,4
+SOFL,100 M Butterfly,SCM,W,25-29,58.11,Claire C Donahue,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,100 M Butterfly,SCM,W,25-29,1:02.70,Catalina Mendieta,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,100 M Butterfly,SCM,W,25-29,1:27.37,Kelley T Baum,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,200 M Butterfly,SCM,W,25-29,2:17.83,Claire C Donahue,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Butterfly,SCM,W,25-29,2:26.21,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,2
+WOW,100 M Individual Medley,SCM,W,25-29,1:23.11,Lenore R Brown,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Individual Medley,SCM,W,25-29,2:47.70,Amanda L Singleton,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Individual Medley,SCM,W,25-29,5:06.03,Jamie L Marks,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Freestyle,SCM,W,30-34,30.26,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Freestyle,SCM,W,30-34,31.49,Ellary H Wray,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Freestyle,SCM,W,30-34,46.60,Andrea Zilizi-Medus,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,100 M Freestyle,SCM,W,30-34,1:07.96,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Freestyle,SCM,W,30-34,1:10.04,Jodi M Thorpe,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,W,30-34,1:10.45,Ellary H Wray,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,100 M Freestyle,SCM,W,30-34,1:44.18,Julie Finlon,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,200 M Freestyle,SCM,W,30-34,2:26.92,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Freestyle,SCM,W,30-34,2:40.76,Ellary H Wray,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Freestyle,SCM,W,30-34,2:42.04,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,3
+WOW,400 M Freestyle,SCM,W,30-34,5:05.71,Laura Nuudi,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,W,30-34,5:36.05,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,400 M Freestyle,SCM,W,30-34,5:48.35,Kathleen J Stutz,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,800 M Freestyle,SCM,W,30-34,12:10.69,Kathleen J Stutz,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,1500 M Freestyle,SCM,W,30-34,22:58.75,Kathleen J Stutz,,2015 Shark Tank SCM Meet,2015,1
+WOW,50 M Backstroke,SCM,W,30-34,34.00,Laura Nuudi,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Backstroke,SCM,W,30-34,34.28,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Backstroke,SCM,W,30-34,37.60,Ellary H Wray,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,50 M Backstroke,SCM,W,30-34,37.66,Jodi M Thorpe,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Backstroke,SCM,W,30-34,38.49,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,5
+PBM,100 M Backstroke,SCM,W,30-34,1:14.43,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Backstroke,SCM,W,30-34,1:20.68,Jodi M Thorpe,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Backstroke,SCM,W,30-34,1:22.00,Ellary H Wray,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,100 M Backstroke,SCM,W,30-34,1:24.33,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,100 M Backstroke,SCM,W,30-34,2:09.83,Julie Finlon,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,200 M Backstroke,SCM,W,30-34,2:41.30,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+WOW,200 M Backstroke,SCM,W,30-34,2:41.32,Laura Nuudi,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Backstroke,SCM,W,30-34,2:58.55,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,200 M Backstroke,SCM,W,30-34,3:00.79,Ellary H Wray,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Breaststroke,SCM,W,30-34,46.51,Kathleen J Stutz,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Breaststroke,SCM,W,30-34,54.35,Andrea Zilizi-Medus,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Breaststroke,SCM,W,30-34,1:36.67,Kathleen J Stutz,,2015 Shark Tank SCM Meet,2015,1
+WOW,100 M Breaststroke,SCM,W,30-34,1:43.89,Laura L Yager,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Breaststroke,SCM,W,30-34,3:34.11,Kathleen J Stutz,,2015 NE-LMSC SCM Championships,2015,1
+SFTL,50 M Butterfly,SCM,W,30-34,38.22,Ellary H Wray,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,W,30-34,1:04.58,Julie Finlon,,Coral Springs Holiday Classic SCM Meet,2015,2
+WOW,100 M Butterfly,SCM,W,30-34,1:15.23,Laura Nuudi,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Butterfly,SCM,W,30-34,3:32.04,Kathleen J Stutz,,2015 NE-LMSC SCM Championships,2015,1
+WOW,100 M Individual Medley,SCM,W,30-34,1:13.41,Laura Nuudi,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,100 M Individual Medley,SCM,W,30-34,1:16.43,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,W,30-34,1:18.81,Jodi M Thorpe,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Individual Medley,SCM,W,30-34,1:22.96,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,100 M Individual Medley,SCM,W,30-34,1:25.69,Ellary H Wray,,Rowdy Gaines Masters Classic VII,2015,5
+WOW,100 M Individual Medley,SCM,W,30-34,1:28.71,Laura L Yager,,Rowdy Gaines Masters Classic VII,2015,6
+PBM,200 M Individual Medley,SCM,W,30-34,2:48.30,Mary C Milburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Individual Medley,SCM,W,30-34,2:58.29,Ara Bergillos,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Individual Medley,SCM,W,30-34,3:10.77,Kathleen J Stutz,,2015 Shark Tank SCM Meet,2015,3
+SFTL,50 M Freestyle,SCM,W,35-39,34.07,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+BIMC,50 M Freestyle,SCM,W,35-39,34.13,Noelle Rivas,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Freestyle,SCM,W,35-39,36.35,Brenda Shepherd,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Freestyle,SCM,W,35-39,37.14,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,50 M Freestyle,SCM,W,35-39,37.38,Julia Fermayer,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,50 M Freestyle,SCM,W,35-39,37.41,Andia Chaves-Fonnegra,,Rowdy Gaines Masters Classic VII,2015,6
+SFTL,100 M Freestyle,SCM,W,35-39,1:15.28,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,W,35-39,1:22.92,Andia Chaves-Fonnegra,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Freestyle,SCM,W,35-39,1:54.39,Elizabeth A Kamerick,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,200 M Freestyle,SCM,W,35-39,2:45.52,Tatiana B Barbosa,,Rowdy Gaines Masters Classic VII,2015,1
+BIMC,200 M Freestyle,SCM,W,35-39,2:51.63,Noelle Rivas,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,W,35-39,2:56.45,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,W,35-39,2:58.39,Julia Fermayer,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,400 M Freestyle,SCM,W,35-39,5:12.76,Sonja Koppenwallner,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,W,35-39,5:44.17,Tatiana B Barbosa,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,400 M Freestyle,SCM,W,35-39,6:21.79,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,400 M Freestyle,SCM,W,35-39,8:56.98,Elizabeth A Kamerick,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,50 M Backstroke,SCM,W,35-39,39.57,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Backstroke,SCM,W,35-39,40.20,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,2
+GOLD,100 M Backstroke,SCM,W,35-39,1:25.64,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Backstroke,SCM,W,35-39,3:02.35,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Breaststroke,SCM,W,35-39,40.37,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+BIMC,50 M Breaststroke,SCM,W,35-39,43.94,Noelle Rivas,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Breaststroke,SCM,W,35-39,45.28,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Breaststroke,SCM,W,35-39,47.03,Andia Chaves-Fonnegra,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,50 M Breaststroke,SCM,W,35-39,48.63,Julia Fermayer,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,100 M Breaststroke,SCM,W,35-39,1:27.99,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+GOLD,100 M Breaststroke,SCM,W,35-39,1:40.84,Sara R Kirchner,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Breaststroke,SCM,W,35-39,1:41.75,Andia Chaves-Fonnegra,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,200 M Breaststroke,SCM,W,35-39,3:08.57,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+SFTL,200 M Breaststroke,SCM,W,35-39,3:30.52,Andia Chaves-Fonnegra,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Butterfly,SCM,W,35-39,37.66,Tatiana B Barbosa,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Butterfly,SCM,W,35-39,1:27.20,Tatiana B Barbosa,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Butterfly,SCM,W,35-39,3:13.87,Sonja Koppenwallner,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Individual Medley,SCM,W,35-39,1:22.17,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+SFTL,100 M Individual Medley,SCM,W,35-39,1:34.13,Andia Chaves-Fonnegra,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Individual Medley,SCM,W,35-39,2:55.56,Tatiana B Barbosa,,2015 Shark Tank SCM Meet,2015,1
+GOLD,200 M Individual Medley,SCM,W,35-39,3:34.81,Julia Fermayer,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Individual Medley,SCM,W,35-39,6:23.28,Tatiana B Barbosa,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,50 M Freestyle,SCM,W,40-44,26.50,Lisa Blackburn,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Freestyle,SCM,W,40-44,30.36,Marcia C Ramos Camera,,Coral Springs Holiday Classic SCM Meet,2015,2
+WOW,50 M Freestyle,SCM,W,40-44,32.09,LeAnn H Matsumura,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Freestyle,SCM,W,40-44,40.30,Daniela Rosenblat,,Rowdy Gaines Masters Classic VII,2015,4
+SOFL,100 M Freestyle,SCM,W,40-44,57.20,Lisa Blackburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,W,40-44,1:46.50,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Freestyle,SCM,W,40-44,3:41.74,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,400 M Freestyle,SCM,W,40-44,7:33.51,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,W,40-44,40.36,Yukako Beatty,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Backstroke,SCM,W,40-44,1:29.34,Yukako Beatty,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Backstroke,SCM,W,40-44,2:08.89,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,200 M Backstroke,SCM,W,40-44,3:18.66,Yukako Beatty,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Backstroke,SCM,W,40-44,4:32.90,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,2
+SOFL,50 M Breaststroke,SCM,W,40-44,33.40,Lisa Blackburn,,Rowdy Gaines Masters Classic VII,2015,1
+WOW,50 M Breaststroke,SCM,W,40-44,40.78,LeAnn H Matsumura,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Breaststroke,SCM,W,40-44,45.21,Yukako Beatty,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Breaststroke,SCM,W,40-44,48.68,Daniela Rosenblat,,Rowdy Gaines Masters Classic VII,2015,4
+SOFL,100 M Breaststroke,SCM,W,40-44,1:12.53,Lisa Blackburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Breaststroke,SCM,W,40-44,1:44.68,Daniela Rosenblat,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Breaststroke,SCM,W,40-44,3:47.65,Daniela Rosenblat,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,50 M Butterfly,SCM,W,40-44,29.34,Lisa Blackburn,,Coral Springs Holiday Classic SCM Meet,2015,1
+WOW,50 M Butterfly,SCM,W,40-44,36.35,LeAnn H Matsumura,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Butterfly,SCM,W,40-44,1:01.82,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,100 M Butterfly,SCM,W,40-44,2:14.04,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,200 M Butterfly,SCM,W,40-44,3:48.01,Yukako Beatty,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Butterfly,SCM,W,40-44,4:53.50,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,2
+SOFL,100 M Individual Medley,SCM,W,40-44,1:04.19,Lisa Blackburn,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Individual Medley,SCM,W,40-44,1:44.65,Daniela Rosenblat,,Rowdy Gaines Masters Classic VII,2015,2
+SOFL,200 M Individual Medley,SCM,W,40-44,2:19.83,Lisa Blackburn,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Individual Medley,SCM,W,40-44,3:39.19,Daniela Rosenblat,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Individual Medley,SCM,W,40-44,4:17.08,Kristin R Volz,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,400 M Individual Medley,SCM,W,40-44,7:06.43,Yukako Beatty,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Freestyle,SCM,W,45-49,30.43,Dale A LeClair,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,50 M Freestyle,SCM,W,45-49,40.99,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Freestyle,SCM,W,45-49,1:06.00,Dale A LeClair,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Freestyle,SCM,W,45-49,1:27.36,Carla Kinugawa,,2015 Shark Tank SCM Meet,2015,2
+SOFL,100 M Freestyle,SCM,W,45-49,1:36.83,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,100 M Freestyle,SCM,W,45-49,1:43.86,Ingrid Bon,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,200 M Freestyle,SCM,W,45-49,2:25.05,Dale A LeClair,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Freestyle,SCM,W,45-49,3:02.95,Carla Kinugawa,,Coral Springs Holiday Classic SCM Meet,2015,2
+SOFL,200 M Freestyle,SCM,W,45-49,3:36.72,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,400 M Freestyle,SCM,W,45-49,5:09.90,Dale A LeClair,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,400 M Freestyle,SCM,W,45-49,5:43.89,Megan M Lassen,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Freestyle,SCM,W,45-49,6:33.82,Carla Kinugawa,,2015 Shark Tank SCM Meet,2015,3
+PBM,400 M Freestyle,SCM,W,45-49,7:51.20,Ingrid Bon,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,800 M Freestyle,SCM,W,45-49,11:57.72,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,1500 M Freestyle,SCM,W,45-49,22:30.94,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,W,45-49,33.93,Ann K Stewart,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,W,45-49,38.59,Dale A LeClair,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Backstroke,SCM,W,45-49,38.72,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,3
+SOFL,50 M Backstroke,SCM,W,45-49,49.76,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,100 M Backstroke,SCM,W,45-49,1:13.98,Ann K Stewart,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Backstroke,SCM,W,45-49,1:24.28,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Backstroke,SCM,W,45-49,1:38.51,Carla Kinugawa,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,100 M Backstroke,SCM,W,45-49,1:51.03,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,200 M Backstroke,SCM,W,45-49,3:06.69,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Backstroke,SCM,W,45-49,3:32.31,Carla Kinugawa,,Coral Springs Holiday Classic SCM Meet,2015,2
+SOFL,50 M Breaststroke,SCM,W,45-49,54.09,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Breaststroke,SCM,W,45-49,1:36.96,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Breaststroke,SCM,W,45-49,3:26.60,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Butterfly,SCM,W,45-49,34.17,Dale A LeClair,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,50 M Butterfly,SCM,W,45-49,36.75,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,W,45-49,1:19.11,Dale A LeClair,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Individual Medley,SCM,W,45-49,1:26.04,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Individual Medley,SCM,W,45-49,1:40.52,Carla Kinugawa,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,100 M Individual Medley,SCM,W,45-49,1:47.71,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,200 M Individual Medley,SCM,W,45-49,2:56.26,Dale A LeClair,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Individual Medley,SCM,W,45-49,3:12.84,Megan M Lassen,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Individual Medley,SCM,W,45-49,3:34.94,Carla Kinugawa,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,200 M Individual Medley,SCM,W,45-49,4:02.58,Paula Berti,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,400 M Individual Medley,SCM,W,45-49,6:18.80,Dale A LeClair,,Coral Springs Holiday Classic SCM Meet,2015,1
+UC50,50 M Freestyle,SCM,W,50-54,34.85,Lori A Schick,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Freestyle,SCM,W,50-54,35.31,Sheryl R Tucker,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Freestyle,SCM,W,50-54,36.95,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Freestyle,SCM,W,50-54,40.61,Cathy W Goodwin,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,50 M Freestyle,SCM,W,50-54,40.63,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,50 M Freestyle,SCM,W,50-54,41.80,Jeanne G Danford,,Coral Springs Holiday Classic SCM Meet,2015,6
+PBM,50 M Freestyle,SCM,W,50-54,49.02,Junko Altman,,Coral Springs Holiday Classic SCM Meet,2015,7
+SFTL,100 M Freestyle,SCM,W,50-54,1:23.11,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,100 M Freestyle,SCM,W,50-54,1:31.08,Cathy W Goodwin,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,W,50-54,3:01.34,Sheryl R Tucker,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,200 M Freestyle,SCM,W,50-54,3:06.76,Jeanne G Danford,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Freestyle,SCM,W,50-54,3:18.37,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,400 M Freestyle,SCM,W,50-54,6:23.94,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,1
+UC50,50 M Backstroke,SCM,W,50-54,37.57,Lori A Schick,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Backstroke,SCM,W,50-54,53.17,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,2
+UC50,50 M Breaststroke,SCM,W,50-54,37.69,Lori A Schick,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Breaststroke,SCM,W,50-54,41.39,Krissy Phillips,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Breaststroke,SCM,W,50-54,48.49,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Breaststroke,SCM,W,50-54,56.84,Cathy W Goodwin,,Coral Springs Holiday Classic SCM Meet,2015,4
+UC50,100 M Breaststroke,SCM,W,50-54,1:23.23,Lori A Schick,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,100 M Breaststroke,SCM,W,50-54,1:29.99,Krissy Phillips,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,100 M Breaststroke,SCM,W,50-54,2:00.60,Cathy W Goodwin,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,200 M Breaststroke,SCM,W,50-54,3:52.64,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,200 M Breaststroke,SCM,W,50-54,4:03.44,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Butterfly,SCM,W,50-54,40.43,Sheryl R Tucker,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Butterfly,SCM,W,50-54,1:09.72,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Butterfly,SCM,W,50-54,4:10.65,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,1
+UC50,100 M Individual Medley,SCM,W,50-54,1:19.83,Lori A Schick,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,100 M Individual Medley,SCM,W,50-54,1:21.50,Krissy Phillips,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,W,50-54,1:34.09,Sheryl R Tucker,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Individual Medley,SCM,W,50-54,1:43.40,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,100 M Individual Medley,SCM,W,50-54,1:47.95,Cathy W Goodwin,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,100 M Individual Medley,SCM,W,50-54,1:50.12,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,200 M Individual Medley,SCM,W,50-54,3:25.87,Sheryl R Tucker,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Individual Medley,SCM,W,50-54,3:43.47,Sarah L Bennett,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,400 M Individual Medley,SCM,W,50-54,9:17.58,Virginia M Brennan,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Freestyle,SCM,W,55-59,28.74,Chris Wenzel,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Freestyle,SCM,W,55-59,31.34,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Freestyle,SCM,W,55-59,32.77,Celia C Devanney,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Freestyle,SCM,W,55-59,33.64,Debra Attin Neville,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,50 M Freestyle,SCM,W,55-59,33.98,Lydia S Seier,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,50 M Freestyle,SCM,W,55-59,35.06,Melissa Hinton,,Coral Springs Holiday Classic SCM Meet,2015,6
+PBM,50 M Freestyle,SCM,W,55-59,37.78,Tamara Burton,,Coral Springs Holiday Classic SCM Meet,2015,7
+PBM,50 M Freestyle,SCM,W,55-59,37.93,Helen C Soucie,,Coral Springs Holiday Classic SCM Meet,2015,8
+SFTL,50 M Freestyle,SCM,W,55-59,39.03,Cynthia P Henley,,Coral Springs Holiday Classic SCM Meet,2015,9
+SOFL,50 M Freestyle,SCM,W,55-59,42.74,Terri D Rivera,,Coral Springs Holiday Classic SCM Meet,2015,10
+SOFL,50 M Freestyle,SCM,W,55-59,44.74,Lucie E De Barros,,Coral Springs Holiday Classic SCM Meet,2015,11
+PBM,50 M Freestyle,SCM,W,55-59,49.75,Sabina A Cowie,,Coral Springs Holiday Classic SCM Meet,2015,12
+SFTL,100 M Freestyle,SCM,W,55-59,1:07.38,Chris Wenzel,,2015 Shark Tank SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,W,55-59,1:11.52,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,100 M Freestyle,SCM,W,55-59,1:12.01,Celia C Devanney,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,100 M Freestyle,SCM,W,55-59,1:13.92,Lydia S Seier,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,100 M Freestyle,SCM,W,55-59,1:22.51,Melissa Hinton,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,100 M Freestyle,SCM,W,55-59,1:27.24,Helen C Soucie,,Coral Springs Holiday Classic SCM Meet,2015,6
+SOFL,100 M Freestyle,SCM,W,55-59,1:39.87,Lucie E De Barros,,Coral Springs Holiday Classic SCM Meet,2015,7
+PBM,100 M Freestyle,SCM,W,55-59,1:55.91,Sabina A Cowie,,Coral Springs Holiday Classic SCM Meet,2015,8
+PBM,100 M Freestyle,SCM,W,55-59,2:31.09,Nancy Munro,,Coral Springs Holiday Classic SCM Meet,2015,9
+SFTL,200 M Freestyle,SCM,W,55-59,2:27.89,Chris Wenzel,,2015 Shark Tank SCM Meet,2015,1
+SFTL,200 M Freestyle,SCM,W,55-59,2:34.20,Maria E Hung,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,W,55-59,2:38.49,Celia C Devanney,,Camp.NAL.DE NAT.MASTERS DE C.C. 2015-2016,2015,3
+PBM,200 M Freestyle,SCM,W,55-59,2:56.11,Tamara Burton,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,200 M Freestyle,SCM,W,55-59,3:04.36,Melissa Hinton,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,200 M Freestyle,SCM,W,55-59,3:09.28,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,6
+SOFL,200 M Freestyle,SCM,W,55-59,3:25.66,Terri D Rivera,,Coral Springs Holiday Classic SCM Meet,2015,7
+SFTL,200 M Freestyle,SCM,W,55-59,3:27.44,Isabela C Goldbas,,Rowdy Gaines Masters Classic VII,2015,8
+SFTL,200 M Freestyle,SCM,W,55-59,3:30.49,Marci A Grady,,Coral Springs Holiday Classic SCM Meet,2015,9
+PBM,200 M Freestyle,SCM,W,55-59,3:35.65,Jo-Ann Berry,,Coral Springs Holiday Classic SCM Meet,2015,10
+PBM,200 M Freestyle,SCM,W,55-59,4:10.64,Sabina A Cowie,,Coral Springs Holiday Classic SCM Meet,2015,11
+PBM,200 M Freestyle,SCM,W,55-59,5:02.17,Nancy Munro,,Rowdy Gaines Masters Classic VII,2015,12
+GOLD,400 M Freestyle,SCM,W,55-59,5:35.51,Celia C Devanney,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,400 M Freestyle,SCM,W,55-59,5:38.35,Chris Wenzel,,2015 Shark Tank SCM Meet,2015,2
+GOLD,400 M Freestyle,SCM,W,55-59,5:45.03,Debbie D Cavanaugh,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,400 M Freestyle,SCM,W,55-59,5:50.94,Lydia S Seier,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,400 M Freestyle,SCM,W,55-59,6:06.69,Tamara Burton,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,400 M Freestyle,SCM,W,55-59,6:36.49,Melissa Hinton,,Coral Springs Holiday Classic SCM Meet,2015,6
+SFTL,400 M Freestyle,SCM,W,55-59,6:41.04,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,7
+SOFL,400 M Freestyle,SCM,W,55-59,7:59.77,Angela De La Pena,,Coral Springs Holiday Classic SCM Meet,2015,8
+PBM,400 M Freestyle,SCM,W,55-59,10:01.33,Nancy Munro,,Coral Springs Holiday Classic SCM Meet,2015,9
+GOLD,800 M Freestyle,SCM,W,55-59,11:37.14,Celia C Devanney,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,800 M Freestyle,SCM,W,55-59,14:02.18,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,800 M Freestyle,SCM,W,55-59,14:38.92,Isabela C Goldbas,,Rowdy Gaines Masters Classic VII,2015,3
+PBM,800 M Freestyle,SCM,W,55-59,20:06.57,Nancy Munro,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,1500 M Freestyle,SCM,W,55-59,26:17.10,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,1500 M Freestyle,SCM,W,55-59,27:18.14,Isabela C Goldbas,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Backstroke,SCM,W,55-59,37.21,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,50 M Backstroke,SCM,W,55-59,38.86,Chris Wenzel,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Backstroke,SCM,W,55-59,40.15,Celia C Devanney,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Backstroke,SCM,W,55-59,40.83,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Backstroke,SCM,W,55-59,42.44,Debra Attin Neville,,Rowdy Gaines Masters Classic VII,2015,5
+PBM,50 M Backstroke,SCM,W,55-59,44.26,Tamara Burton,,Coral Springs Holiday Classic SCM Meet,2015,6
+SFTL,50 M Backstroke,SCM,W,55-59,44.79,Ellen R Itzler,,Coral Springs Holiday Classic SCM Meet,2015,7
+SOFL,50 M Backstroke,SCM,W,55-59,50.14,Terri D Rivera,,Coral Springs Holiday Classic SCM Meet,2015,8
+PBM,50 M Backstroke,SCM,W,55-59,50.27,Helen C Soucie,,Coral Springs Holiday Classic SCM Meet,2015,9
+SFTL,50 M Backstroke,SCM,W,55-59,1:00.87,Isabela C Goldbas,,Rowdy Gaines Masters Classic VII,2015,10
+PBM,50 M Backstroke,SCM,W,55-59,1:29.51,Nancy Munro,,Coral Springs Holiday Classic SCM Meet,2015,11
+GOLD,100 M Backstroke,SCM,W,55-59,1:20.76,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,100 M Backstroke,SCM,W,55-59,1:32.73,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,2
+SOFL,100 M Backstroke,SCM,W,55-59,1:50.94,Terri D Rivera,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Backstroke,SCM,W,55-59,1:56.28,Cynthia P Henley,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,100 M Backstroke,SCM,W,55-59,2:55.68,Nancy Munro,,Rowdy Gaines Masters Classic VII,2015,5
+GOLD,200 M Backstroke,SCM,W,55-59,2:58.92,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,200 M Backstroke,SCM,W,55-59,4:02.76,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,200 M Backstroke,SCM,W,55-59,6:31.13,Nancy Munro,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Breaststroke,SCM,W,55-59,38.86,Chris Wenzel,,2015 Shark Tank SCM Meet,2015,1
+GOLD,50 M Breaststroke,SCM,W,55-59,41.02,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,2
+PBM,50 M Breaststroke,SCM,W,55-59,47.21,Janet Siniscalchi,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Breaststroke,SCM,W,55-59,49.74,Caroline Gatto,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Breaststroke,SCM,W,55-59,49.88,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,5
+SFTL,50 M Breaststroke,SCM,W,55-59,50.19,Ellen R Itzler,,Coral Springs Holiday Classic SCM Meet,2015,6
+SFTL,50 M Breaststroke,SCM,W,55-59,50.21,Adrienne Chin-Ogilvie,,Coral Springs Holiday Classic SCM Meet,2015,7
+PBM,50 M Breaststroke,SCM,W,55-59,1:37.27,Nancy Munro,,Rowdy Gaines Masters Classic VII,2015,8
+SFTL,100 M Breaststroke,SCM,W,55-59,1:25.47,Chris Wenzel,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Breaststroke,SCM,W,55-59,1:32.39,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,2
+SFTL,100 M Breaststroke,SCM,W,55-59,1:45.63,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,100 M Breaststroke,SCM,W,55-59,1:47.19,Ellen R Itzler,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,100 M Breaststroke,SCM,W,55-59,1:53.31,Caroline Gatto,,Rowdy Gaines Masters Classic VII,2015,5
+SFTL,100 M Breaststroke,SCM,W,55-59,2:01.59,Isabela C Goldbas,,Rowdy Gaines Masters Classic VII,2015,6
+SFTL,200 M Breaststroke,SCM,W,55-59,3:11.71,Chris Wenzel,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Breaststroke,SCM,W,55-59,3:46.81,Ellen R Itzler,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Breaststroke,SCM,W,55-59,3:49.24,Cynthia P Henley,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,200 M Breaststroke,SCM,W,55-59,6:37.35,Nancy Munro,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Butterfly,SCM,W,55-59,33.82,Chris Wenzel,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Butterfly,SCM,W,55-59,35.78,Celia C Devanney,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Butterfly,SCM,W,55-59,37.09,Lydia S Seier,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Butterfly,SCM,W,55-59,38.24,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,50 M Butterfly,SCM,W,55-59,44.40,Melissa Hinton,,Coral Springs Holiday Classic SCM Meet,2015,5
+SOFL,50 M Butterfly,SCM,W,55-59,1:00.34,Lucie E De Barros,,Coral Springs Holiday Classic SCM Meet,2015,6
+PBM,50 M Butterfly,SCM,W,55-59,1:10.56,Sabina A Cowie,,Coral Springs Holiday Classic SCM Meet,2015,7
+SFTL,100 M Butterfly,SCM,W,55-59,1:19.72,Maria E Hung,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Butterfly,SCM,W,55-59,1:24.03,Celia C Devanney,,Camp.NAL.DE NAT.MASTERS DE C.C. 2015-2016,2015,2
+GOLD,100 M Butterfly,SCM,W,55-59,1:24.38,Lydia S Seier,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Butterfly,SCM,W,55-59,1:50.19,Marci A Grady,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,100 M Butterfly,SCM,W,55-59,1:57.31,Adrienne Chin-Ogilvie,,Rowdy Gaines Masters Classic VII,2015,5
+SOFL,100 M Butterfly,SCM,W,55-59,2:13.22,Angela De La Pena,,Coral Springs Holiday Classic SCM Meet,2015,6
+SFTL,200 M Butterfly,SCM,W,55-59,4:24.02,Adrienne Chin-Ogilvie,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,200 M Butterfly,SCM,W,55-59,4:38.43,Angela De La Pena,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Individual Medley,SCM,W,55-59,1:15.53,Chris Wenzel,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Individual Medley,SCM,W,55-59,1:22.54,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,2
+SFTL,100 M Individual Medley,SCM,W,55-59,1:25.61,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,100 M Individual Medley,SCM,W,55-59,1:40.02,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,100 M Individual Medley,SCM,W,55-59,1:42.90,Melissa Hinton,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,100 M Individual Medley,SCM,W,55-59,1:50.43,Caroline Gatto,,Rowdy Gaines Masters Classic VII,2015,6
+SFTL,100 M Individual Medley,SCM,W,55-59,1:57.93,Isabela C Goldbas,,Rowdy Gaines Masters Classic VII,2015,7
+SOFL,100 M Individual Medley,SCM,W,55-59,2:15.54,Lucie E De Barros,,Coral Springs Holiday Classic SCM Meet,2015,8
+PBM,100 M Individual Medley,SCM,W,55-59,2:56.93,Nancy Munro,,Coral Springs Holiday Classic SCM Meet,2015,9
+SFTL,200 M Individual Medley,SCM,W,55-59,2:54.43,Chris Wenzel,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,200 M Individual Medley,SCM,W,55-59,3:01.78,Debbie D Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,2
+SFTL,200 M Individual Medley,SCM,W,55-59,3:12.97,Ann B Thomas,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,200 M Individual Medley,SCM,W,55-59,3:50.07,Cynthia P Henley,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,200 M Individual Medley,SCM,W,55-59,4:01.65,Marci A Grady,,Coral Springs Holiday Classic SCM Meet,2015,5
+SOFL,200 M Individual Medley,SCM,W,55-59,4:20.44,Angela De La Pena,,Coral Springs Holiday Classic SCM Meet,2015,6
+SOFL,200 M Individual Medley,SCM,W,55-59,4:44.96,Lucie E De Barros,,Coral Springs Holiday Classic SCM Meet,2015,7
+GOLD,400 M Individual Medley,SCM,W,55-59,6:45.35,Celia C Devanney,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Individual Medley,SCM,W,55-59,7:44.91,Cynthia P Henley,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Individual Medley,SCM,W,55-59,8:47.98,Adrienne Chin-Ogilvie,,Rowdy Gaines Masters Classic VII,2015,3
+SOFL,400 M Individual Medley,SCM,W,55-59,9:00.47,Angela De La Pena,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,50 M Freestyle,SCM,W,60-64,32.71,Peggy H McDonnell,,2015 Shark Tank SCM Meet,2015,1
+PBM,50 M Freestyle,SCM,W,60-64,33.41,Darcy H LaFountain,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Freestyle,SCM,W,60-64,34.81,Barbara Protzman,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Freestyle,SCM,W,60-64,35.45,Linda L Larson,,Huntsman World Senior Games,2015,4
+SFTL,50 M Freestyle,SCM,W,60-64,42.48,Sherie Berk,,2015 NE-LMSC SCM Championships,2015,5
+PLAN,50 M Freestyle,SCM,W,60-64,44.52,Wendy A Kahn,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,50 M Freestyle,SCM,W,60-64,51.53,Catalina U Fazzano,,Coral Springs Holiday Classic SCM Meet,2015,7
+GOLD,100 M Freestyle,SCM,W,60-64,1:11.04,Peggy H McDonnell,,2015 Shark Tank SCM Meet,2015,1
+PBM,100 M Freestyle,SCM,W,60-64,1:13.14,Darcy H LaFountain,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,W,60-64,1:17.08,Linda L Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+GOLD,100 M Freestyle,SCM,W,60-64,1:19.24,Barbara Protzman,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,100 M Freestyle,SCM,W,60-64,1:31.97,Sherie Berk,,2015 NE-LMSC SCM Championships,2015,5
+GOLD,100 M Freestyle,SCM,W,60-64,1:57.63,Catalina U Fazzano,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,200 M Freestyle,SCM,W,60-64,2:34.87,Peggy H McDonnell,,2015 Shark Tank SCM Meet,2015,1
+PBM,200 M Freestyle,SCM,W,60-64,2:37.31,Darcy H LaFountain,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,W,60-64,2:50.56,Barbara Protzman,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,200 M Freestyle,SCM,W,60-64,2:52.86,Linda L Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+GOLD,200 M Freestyle,SCM,W,60-64,4:14.42,Catalina U Fazzano,,Coral Springs Holiday Classic SCM Meet,2015,5
+PLAN,200 M Freestyle,SCM,W,60-64,4:14.83,Wendy A Kahn,,Coral Springs Holiday Classic SCM Meet,2015,6
+PBM,400 M Freestyle,SCM,W,60-64,5:32.21,Darcy H LaFountain,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,400 M Freestyle,SCM,W,60-64,5:56.57,Catherine M Rust,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,400 M Freestyle,SCM,W,60-64,5:56.94,Linda L Larson,,2015 Canadian Masters Swimming Championships,2015,3
+GOLD,400 M Freestyle,SCM,W,60-64,6:00.23,Barbara Protzman,,Rowdy Gaines Masters Classic VII,2015,4
+PBM,800 M Freestyle,SCM,W,60-64,11:33.48,Darcy H LaFountain,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,800 M Freestyle,SCM,W,60-64,11:59.25,Catherine M Rust,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,800 M Freestyle,SCM,W,60-64,12:20.39,Linda L Larson,,Huntsman World Senior Games,2015,3
+PBM,1500 M Freestyle,SCM,W,60-64,21:36.98,Darcy H LaFountain,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,1500 M Freestyle,SCM,W,60-64,22:38.47,Catherine M Rust,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,1500 M Freestyle,SCM,W,60-64,23:39.34,Linda L Larson,,2015 NE-LMSC SCM Championships,2015,3
+SFTL,50 M Backstroke,SCM,W,60-64,39.06,Linda L Larson,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,100 M Backstroke,SCM,W,60-64,1:23.56,Linda L Larson,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,200 M Backstroke,SCM,W,60-64,2:59.28,Linda L Larson,,Huntsman World Senior Games,2015,1
+GOLD,50 M Breaststroke,SCM,W,60-64,40.99,Peggy H McDonnell,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Breaststroke,SCM,W,60-64,51.78,Linda L Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+GOLD,50 M Breaststroke,SCM,W,60-64,58.85,Catalina U Fazzano,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Breaststroke,SCM,W,60-64,1:30.20,Peggy H McDonnell,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,100 M Breaststroke,SCM,W,60-64,1:53.48,Maureen Fitzpatrick,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Breaststroke,SCM,W,60-64,1:54.95,Linda L Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+GOLD,100 M Breaststroke,SCM,W,60-64,2:13.01,Catalina U Fazzano,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,200 M Breaststroke,SCM,W,60-64,3:21.88,Peggy H McDonnell,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Breaststroke,SCM,W,60-64,3:55.26,Linda L Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+GOLD,200 M Breaststroke,SCM,W,60-64,4:49.55,Catalina U Fazzano,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Butterfly,SCM,W,60-64,35.79,Peggy H McDonnell,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,W,60-64,40.44,Barbara Protzman,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Butterfly,SCM,W,60-64,41.08,Linda L Larson,,Huntsman World Senior Games,2015,3
+GOLD,100 M Butterfly,SCM,W,60-64,1:37.16,Barbara Protzman,,2015 Shark Tank SCM Meet,2015,1
+SFTL,100 M Butterfly,SCM,W,60-64,1:37.49,Linda L Larson,,Huntsman World Senior Games,2015,2
+SFTL,200 M Butterfly,SCM,W,60-64,3:47.46,Linda L Larson,,2015 Canadian Masters Swimming Championships,2015,1
+GOLD,100 M Individual Medley,SCM,W,60-64,1:21.70,Peggy H McDonnell,,2015 Shark Tank SCM Meet,2015,1
+GOLD,100 M Individual Medley,SCM,W,60-64,1:31.19,Barbara Protzman,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Individual Medley,SCM,W,60-64,1:32.08,Linda L Larson,,Huntsman World Senior Games,2015,3
+PBM,100 M Individual Medley,SCM,W,60-64,1:54.90,Maureen Fitzpatrick,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,100 M Individual Medley,SCM,W,60-64,2:12.90,Catalina U Fazzano,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,200 M Individual Medley,SCM,W,60-64,2:58.82,Peggy H McDonnell,,2015 Shark Tank SCM Meet,2015,1
+SFTL,200 M Individual Medley,SCM,W,60-64,3:15.88,Linda L Larson,,2015 Canadian Masters Swimming Championships,2015,2
+GOLD,200 M Individual Medley,SCM,W,60-64,3:17.84,Barbara Protzman,,2015 Shark Tank SCM Meet,2015,3
+GOLD,200 M Individual Medley,SCM,W,60-64,5:09.22,Catalina U Fazzano,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,400 M Individual Medley,SCM,W,60-64,6:24.96,Peggy H McDonnell,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,400 M Individual Medley,SCM,W,60-64,7:00.99,Barbara Protzman,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,400 M Individual Medley,SCM,W,60-64,7:04.05,Linda L Larson,,2015 Canadian Masters Swimming Championships,2015,3
+SFTL,50 M Freestyle,SCM,W,65-69,38.11,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,1
+GOLD,50 M Freestyle,SCM,W,65-69,40.97,Deborah B Hatic,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Freestyle,SCM,W,65-69,42.21,Jeannie R Mitchell,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Freestyle,SCM,W,65-69,45.25,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,4
+PBM,100 M Freestyle,SCM,W,65-69,1:14.56,Fran E Hare,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,W,65-69,1:27.49,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,2
+GOLD,100 M Freestyle,SCM,W,65-69,1:32.74,Jeannie R Mitchell,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,100 M Freestyle,SCM,W,65-69,1:34.12,Deborah B Hatic,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,100 M Freestyle,SCM,W,65-69,2:04.08,Anita M Mitchell,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,200 M Freestyle,SCM,W,65-69,2:48.14,Fran E Hare,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Freestyle,SCM,W,65-69,3:07.94,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,2
+GOLD,200 M Freestyle,SCM,W,65-69,3:29.93,Jeannie R Mitchell,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,400 M Freestyle,SCM,W,65-69,6:49.88,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,1
+SFTL,400 M Freestyle,SCM,W,65-69,7:57.36,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,800 M Freestyle,SCM,W,65-69,16:24.43,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,1500 M Freestyle,SCM,W,65-69,30:55.70,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,W,65-69,47.94,Jeannie R Mitchell,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Backstroke,SCM,W,65-69,48.10,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,2
+GOLD,50 M Backstroke,SCM,W,65-69,53.72,Deborah B Hatic,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Backstroke,SCM,W,65-69,56.47,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Backstroke,SCM,W,65-69,1:16.98,Anita M Mitchell,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,100 M Backstroke,SCM,W,65-69,1:41.65,Jeannie R Mitchell,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Backstroke,SCM,W,65-69,1:42.49,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,2
+SFTL,100 M Backstroke,SCM,W,65-69,2:09.91,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,200 M Backstroke,SCM,W,65-69,3:42.74,Rosa V Ventura,,2015 NE-LMSC SCM Championships,2015,1
+GOLD,200 M Backstroke,SCM,W,65-69,3:45.74,Jeannie R Mitchell,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Backstroke,SCM,W,65-69,4:35.41,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,50 M Breaststroke,SCM,W,65-69,55.79,Jeannie R Mitchell,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Breaststroke,SCM,W,65-69,1:01.71,Suzanne Mitchell,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Breaststroke,SCM,W,65-69,2:27.57,Anita M Mitchell,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,W,65-69,57.31,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Butterfly,SCM,W,65-69,2:03.27,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Butterfly,SCM,W,65-69,4:35.85,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Individual Medley,SCM,W,65-69,1:49.25,Jeannie R Mitchell,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Individual Medley,SCM,W,65-69,4:17.52,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,400 M Individual Medley,SCM,W,65-69,9:09.31,Michelle E Martin,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Freestyle,SCM,W,70-74,37.58,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+PBM,50 M Freestyle,SCM,W,70-74,47.51,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,W,70-74,1:25.33,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+PBM,100 M Freestyle,SCM,W,70-74,1:46.25,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Freestyle,SCM,W,70-74,3:17.03,Linda Webb,,2015 NE-LMSC SCM Championships,2015,1
+PBM,200 M Freestyle,SCM,W,70-74,3:47.06,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Freestyle,SCM,W,70-74,6:52.31,Linda Webb,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,400 M Freestyle,SCM,W,70-74,7:46.36,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,800 M Freestyle,SCM,W,70-74,14:07.46,Linda Webb,,2015 NE-LMSC SCM Championships,2015,1
+SFTL,1500 M Freestyle,SCM,W,70-74,26:54.03,Linda Webb,,2015 NE-LMSC SCM Championships,2015,1
+SFTL,50 M Backstroke,SCM,W,70-74,50.35,Linda Webb,,2015 NE-LMSC SCM Championships,2015,1
+PBM,50 M Backstroke,SCM,W,70-74,56.77,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,100 M Backstroke,SCM,W,70-74,2:00.27,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,200 M Backstroke,SCM,W,70-74,4:15.21,Carolynn Foley,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Breaststroke,SCM,W,70-74,48.77,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,100 M Breaststroke,SCM,W,70-74,1:48.07,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,200 M Breaststroke,SCM,W,70-74,4:03.26,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,50 M Butterfly,SCM,W,70-74,47.13,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,100 M Individual Medley,SCM,W,70-74,1:40.13,Linda Webb,,2015 Canadian Masters Swimming Championships,2015,1
+SFTL,200 M Individual Medley,SCM,W,70-74,3:54.36,Linda Webb,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Freestyle,SCM,W,85-89,1:29.84,Helene O Gladis,,South Carolina SCM Championships,2015,1
+GOLD,50 M Backstroke,SCM,W,85-89,1:24.22,Helene O Gladis,,South Carolina SCM Championships,2015,1
+SFTL,50 M Freestyle,SCM,M,18-24,24.76,Johnathon J Purdy,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,50 M Freestyle,SCM,M,18-24,25.11,Alejandro Zambrano,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Freestyle,SCM,M,18-24,26.17,Logan J McGuire,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,100 M Freestyle,SCM,M,18-24,55.45,Alejandro Zambrano,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Freestyle,SCM,M,18-24,55.65,Johnathon J Purdy,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,M,18-24,58.70,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,400 M Freestyle,SCM,M,18-24,7:25.19,Peter Vila,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Backstroke,SCM,M,18-24,30.77,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Backstroke,SCM,M,18-24,1:11.94,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Backstroke,SCM,M,18-24,2:24.62,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,50 M Breaststroke,SCM,M,18-24,28.74,Kile A Aukerman,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,100 M Breaststroke,SCM,M,18-24,1:02.43,Kile A Aukerman,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Breaststroke,SCM,M,18-24,1:12.25,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,100 M Breaststroke,SCM,M,18-24,2:04.91,Peter Vila,,Coral Springs Holiday Classic SCM Meet,2015,3
+SOFL,200 M Breaststroke,SCM,M,18-24,2:16.24,Kile A Aukerman,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Breaststroke,SCM,M,18-24,4:26.37,Peter Vila,,Coral Springs Holiday Classic SCM Meet,2015,2
+SOFL,50 M Butterfly,SCM,M,18-24,26.94,Alejandro Zambrano,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Butterfly,SCM,M,18-24,28.32,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,2
+SOFL,100 M Butterfly,SCM,M,18-24,58.68,Alejandro Zambrano,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Butterfly,SCM,M,18-24,1:00.51,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,200 M Butterfly,SCM,M,18-24,2:19.51,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,1
+SOFL,100 M Individual Medley,SCM,M,18-24,56.40,Kile A Aukerman,,Coral Springs Holiday Classic SCM Meet,2015,1
+SOFL,100 M Individual Medley,SCM,M,18-24,1:01.64,Alejandro Zambrano,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Individual Medley,SCM,M,18-24,1:04.87,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,100 M Individual Medley,SCM,M,18-24,1:50.76,Peter Vila,,Coral Springs Holiday Classic SCM Meet,2015,4
+SOFL,200 M Individual Medley,SCM,M,18-24,2:08.35,Kile A Aukerman,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,200 M Individual Medley,SCM,M,18-24,3:55.85,Peter Vila,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Individual Medley,SCM,M,18-24,5:02.43,Kristof Kertesz,,Rowdy Gaines Masters Classic VII,2015,1
+PAQM,50 M Freestyle,SCM,M,25-29,25.00,Rory Grigull,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Freestyle,SCM,M,25-29,27.17,Alex Goldstein,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Freestyle,SCM,M,25-29,38.79,Jason D Baum,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Freestyle,SCM,M,25-29,1:05.09,Ramon Montero,,Coral Springs Holiday Classic SCM Meet,2015,4
+PAQM,100 M Freestyle,SCM,M,25-29,59.70,Rory Grigull,,Coral Springs Holiday Classic SCM Meet,2015,1
+PAQM,200 M Freestyle,SCM,M,25-29,2:09.96,Davin Harding,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Freestyle,SCM,M,25-29,2:14.92,Alex Goldstein,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,M,25-29,5:29.38,Ramon Montero,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Backstroke,SCM,M,25-29,32.52,Daniel J Lebost,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Backstroke,SCM,M,25-29,1:07.06,Alex Goldstein,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Breaststroke,SCM,M,25-29,47.55,Jason D Baum,,Coral Springs Holiday Classic SCM Meet,2015,1
+PAQM,50 M Butterfly,SCM,M,25-29,28.00,Rory Grigull,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,M,25-29,29.20,Alex Goldstein,,Coral Springs Holiday Classic SCM Meet,2015,2
+PAQM,100 M Butterfly,SCM,M,25-29,1:01.58,Davin Harding,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Butterfly,SCM,M,25-29,1:05.41,Alex Goldstein,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,M,25-29,1:07.48,Alex Goldstein,,Coral Springs Holiday Classic SCM Meet,2015,1
+PAQM,100 M Individual Medley,SCM,M,25-29,1:10.28,Rory Grigull,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Freestyle,SCM,M,30-34,24.97,Sebastian Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Freestyle,SCM,M,30-34,25.32,Rinaldo A Sintjago,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Freestyle,SCM,M,30-34,25.41,Ian M Warren,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Freestyle,SCM,M,30-34,27.17,Matthew R Arkebauer,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,50 M Freestyle,SCM,M,30-34,27.46,Daniel Y Ellinger,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,50 M Freestyle,SCM,M,30-34,28.97,Chris Perry,,Coral Springs Holiday Classic SCM Meet,2015,6
+WOW,50 M Freestyle,SCM,M,30-34,32.24,David C Reynolds,,Coral Springs Holiday Classic SCM Meet,2015,7
+GOLD,50 M Freestyle,SCM,M,30-34,33.63,Marcos G Silvera,,Coral Springs Holiday Classic SCM Meet,2015,8
+GOLD,50 M Freestyle,SCM,M,30-34,36.10,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,9
+SFTL,100 M Freestyle,SCM,M,30-34,55.67,Rinaldo A Sintjago,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,M,30-34,56.26,Sebastian Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Freestyle,SCM,M,30-34,1:01.00,Matthew R Arkebauer,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Freestyle,SCM,M,30-34,1:17.94,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,200 M Freestyle,SCM,M,30-34,2:12.78,Sebastian Cuellar,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,200 M Freestyle,SCM,M,30-34,2:19.70,Matthew R Arkebauer,,Coral Springs Holiday Classic SCM Meet,2015,2
+WOW,200 M Freestyle,SCM,M,30-34,2:49.19,David C Reynolds,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,M,30-34,2:58.84,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,200 M Freestyle,SCM,M,30-34,3:08.79,Andres H Miyares,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,400 M Freestyle,SCM,M,30-34,4:35.16,Sebastian Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,M,30-34,4:49.81,Juan C Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Backstroke,SCM,M,30-34,32.60,Sebastian Cuellar,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Backstroke,SCM,M,30-34,33.64,Juan C Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Backstroke,SCM,M,30-34,1:15.49,Juan C Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,1
+AZFL,200 M Backstroke,SCM,M,30-34,2:13.67,Guilherme Goncalves Ferreira,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Breaststroke,SCM,M,30-34,31.86,Ian M Warren,,Coral Springs Holiday Classic SCM Meet,2015,1
+AZFL,50 M Breaststroke,SCM,M,30-34,31.89,Guilherme Goncalves Ferreira,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Breaststroke,SCM,M,30-34,34.16,Sebastian Cuellar,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,50 M Breaststroke,SCM,M,30-34,34.24,Matthew R Arkebauer,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,50 M Breaststroke,SCM,M,30-34,35.28,Daniel Y Ellinger,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,50 M Breaststroke,SCM,M,30-34,46.41,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,100 M Breaststroke,SCM,M,30-34,1:16.87,Matthew R Arkebauer,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Breaststroke,SCM,M,30-34,1:45.84,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Breaststroke,SCM,M,30-34,2:44.15,Sebastian Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,M,30-34,27.42,Sebastian Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,M,30-34,29.29,Juan C Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Butterfly,SCM,M,30-34,1:00.55,Sebastian Cuellar,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Butterfly,SCM,M,30-34,1:37.04,Andres H Miyares,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Individual Medley,SCM,M,30-34,1:05.80,Sebastian Cuellar,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Individual Medley,SCM,M,30-34,1:11.18,Matthew R Arkebauer,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,M,30-34,1:31.34,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Individual Medley,SCM,M,30-34,3:21.13,Nicholas Perry,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,400 M Individual Medley,SCM,M,30-34,7:48.67,Andres H Miyares,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Freestyle,SCM,M,35-39,25.86,Dan Weinberg,,Coral Springs Holiday Classic SCM Meet,2015,1
+WOW,50 M Freestyle,SCM,M,35-39,26.93,Patrick Billingsley,,Coral Springs Holiday Classic SCM Meet,2015,2
+ARDS,50 M Freestyle,SCM,M,35-39,27.03,Andy Hunter,,Dr. Bill Ross Memorial Masters Swim Meet,2015,3
+WOW,50 M Freestyle,SCM,M,35-39,27.29,Jeremy F Cole,,Coral Springs Holiday Classic SCM Meet,2015,4
+WOW,50 M Freestyle,SCM,M,35-39,33.59,Colin Goldsmith,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,50 M Freestyle,SCM,M,35-39,37.76,Manuel L Gutierrez,,Coral Springs Holiday Classic SCM Meet,2015,6
+WOW,100 M Freestyle,SCM,M,35-39,59.41,Jeremy F Cole,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,100 M Freestyle,SCM,M,35-39,1:00.40,Dan Weinberg,,Coral Springs Holiday Classic SCM Meet,2015,2
+WOW,100 M Freestyle,SCM,M,35-39,1:00.41,Patrick Billingsley,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Freestyle,SCM,M,35-39,1:06.65,Michel Vogel,,Rowdy Gaines Masters Classic VII,2015,4
+WOW,100 M Freestyle,SCM,M,35-39,1:12.21,Colin Goldsmith,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,100 M Freestyle,SCM,M,35-39,1:30.04,Manuel L Gutierrez,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,100 M Freestyle,SCM,M,35-39,1:41.74,Lee M Scharf,,Coral Springs Holiday Classic SCM Meet,2015,7
+WOW,200 M Freestyle,SCM,M,35-39,2:12.98,Patrick Billingsley,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,200 M Freestyle,SCM,M,35-39,2:15.37,Dan Weinberg,,Coral Springs Holiday Classic SCM Meet,2015,2
+WOW,400 M Freestyle,SCM,M,35-39,4:48.27,Patrick Billingsley,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,M,35-39,5:28.30,Michel Vogel,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Backstroke,SCM,M,35-39,30.64,Dan Weinberg,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Backstroke,SCM,M,35-39,59.69,Lee M Scharf,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,100 M Backstroke,SCM,M,35-39,1:08.15,Dan Weinberg,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Backstroke,SCM,M,35-39,1:30.99,Michel Vogel,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Backstroke,SCM,M,35-39,3:12.05,Michel Vogel,,Rowdy Gaines Masters Classic VII,2015,1
+WOW,50 M Breaststroke,SCM,M,35-39,35.27,Patrick Billingsley,,Coral Springs Holiday Classic SCM Meet,2015,1
+WOW,100 M Breaststroke,SCM,M,35-39,1:19.21,Patrick Billingsley,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Butterfly,SCM,M,35-39,28.80,Dan Weinberg,,Coral Springs Holiday Classic SCM Meet,2015,1
+ARDS,50 M Butterfly,SCM,M,35-39,29.34,Andy Hunter,,Dr. Bill Ross Memorial Masters Swim Meet,2015,2
+WOW,50 M Butterfly,SCM,M,35-39,31.23,Patrick Billingsley,,Rowdy Gaines Masters Classic VII,2015,3
+WOW,50 M Butterfly,SCM,M,35-39,32.10,Jeremy F Cole,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,50 M Butterfly,SCM,M,35-39,34.38,Charles-Lee Howard,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,50 M Butterfly,SCM,M,35-39,37.06,Michel Vogel,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,50 M Butterfly,SCM,M,35-39,45.96,Lee M Scharf,,Coral Springs Holiday Classic SCM Meet,2015,7
+WOW,100 M Individual Medley,SCM,M,35-39,1:10.24,Patrick Billingsley,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Individual Medley,SCM,M,35-39,1:24.85,Michel Vogel,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,100 M Individual Medley,SCM,M,35-39,1:28.27,Charles-Lee Howard,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Individual Medley,SCM,M,35-39,1:52.91,Lee M Scharf,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,200 M Individual Medley,SCM,M,35-39,2:56.88,Michel Vogel,,Rowdy Gaines Masters Classic VII,2015,1
+UC50,50 M Freestyle,SCM,M,40-44,28.40,Douglas Gawriljuk,,Coral Springs Holiday Classic SCM Meet,2015,1
+AZFL,50 M Freestyle,SCM,M,40-44,29.05,Robert A Declercq,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Freestyle,SCM,M,40-44,30.72,Raymond F Cox,,Coral Springs Holiday Classic SCM Meet,2015,3
+AZFL,50 M Freestyle,SCM,M,40-44,33.95,Marc S Anton,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,50 M Freestyle,SCM,M,40-44,35.56,Adam J Martz,,Rowdy Gaines Masters Classic VII,2015,5
+AZFL,100 M Freestyle,SCM,M,40-44,1:06.53,Robert A Declercq,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,M,40-44,1:12.02,Raymond F Cox,,2015 Shark Tank SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,M,40-44,1:19.52,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,100 M Freestyle,SCM,M,40-44,1:22.87,Adam J Martz,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,200 M Freestyle,SCM,M,40-44,2:09.99,Eduard Tiozzo,,Coral Springs Holiday Classic SCM Meet,2015,1
+AZFL,200 M Freestyle,SCM,M,40-44,2:29.76,Robert A Declercq,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Freestyle,SCM,M,40-44,2:37.55,Raymond F Cox,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,200 M Freestyle,SCM,M,40-44,2:59.43,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,200 M Freestyle,SCM,M,40-44,3:08.62,Adam J Martz,,Rowdy Gaines Masters Classic VII,2015,5
+AZFL,200 M Freestyle,SCM,M,40-44,3:15.81,Marc S Anton,,Coral Springs Holiday Classic SCM Meet,2015,6
+AZFL,400 M Freestyle,SCM,M,40-44,5:22.59,Robert A Declercq,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Backstroke,SCM,M,40-44,38.77,Raymond F Cox,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Backstroke,SCM,M,40-44,44.08,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Backstroke,SCM,M,40-44,1:33.85,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Breaststroke,SCM,M,40-44,37.06,Dan Brassil,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Breaststroke,SCM,M,40-44,38.39,Raymond F Cox,,Coral Springs Holiday Classic SCM Meet,2015,2
+UC50,50 M Breaststroke,SCM,M,40-44,39.80,Douglas Gawriljuk,,Coral Springs Holiday Classic SCM Meet,2015,3
+AZFL,50 M Breaststroke,SCM,M,40-44,45.40,Marc S Anton,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,50 M Breaststroke,SCM,M,40-44,47.86,Adam J Martz,,Rowdy Gaines Masters Classic VII,2015,5
+GOLD,100 M Breaststroke,SCM,M,40-44,1:21.18,Dan Brassil,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Breaststroke,SCM,M,40-44,1:28.02,Raymond F Cox,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Breaststroke,SCM,M,40-44,1:36.27,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,50 M Butterfly,SCM,M,40-44,34.56,Dan Brassil,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,M,40-44,35.38,Raymond F Cox,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Butterfly,SCM,M,40-44,41.68,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Butterfly,SCM,M,40-44,45.32,Adam J Martz,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,100 M Individual Medley,SCM,M,40-44,1:15.86,Dan Brassil,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Individual Medley,SCM,M,40-44,1:21.29,Raymond F Cox,,2015 Shark Tank SCM Meet,2015,2
+SFTL,100 M Individual Medley,SCM,M,40-44,1:28.06,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,100 M Individual Medley,SCM,M,40-44,1:35.61,Adam J Martz,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,200 M Individual Medley,SCM,M,40-44,3:14.33,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,400 M Individual Medley,SCM,M,40-44,6:57.53,Jason D Lassen,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Freestyle,SCM,M,45-49,25.42,Christopher E Beach,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Freestyle,SCM,M,45-49,25.87,Mark Nieuwenhuis,,Rowdy Gaines Masters Classic VII,2015,2
+AZFL,50 M Freestyle,SCM,M,45-49,27.63,Robert W Vale,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Freestyle,SCM,M,45-49,29.23,Eddie Ames,,2015 Shark Tank SCM Meet,2015,4
+UC50,50 M Freestyle,SCM,M,45-49,29.86,Alirio J Martinez,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,100 M Freestyle,SCM,M,45-49,55.78,Christopher E Beach,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Freestyle,SCM,M,45-49,56.25,Mark Nieuwenhuis,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,100 M Freestyle,SCM,M,45-49,1:00.27,Lennart Lindahl,,Coral Springs Holiday Classic SCM Meet,2015,3
+AZFL,100 M Freestyle,SCM,M,45-49,1:03.40,Robert W Vale,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,100 M Freestyle,SCM,M,45-49,1:06.35,Eddie Ames,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,100 M Freestyle,SCM,M,45-49,1:09.55,Glen A Hanks,,Coral Springs Holiday Classic SCM Meet,2015,6
+PBM,200 M Freestyle,SCM,M,45-49,2:04.90,Christopher E Beach,,Rowdy Gaines Masters Classic VII,2015,1
+AZFL,200 M Freestyle,SCM,M,45-49,2:24.27,Robert W Vale,,Coral Springs Holiday Classic SCM Meet,2015,2
+UC50,200 M Freestyle,SCM,M,45-49,2:31.85,Alirio J Martinez,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,200 M Freestyle,SCM,M,45-49,2:31.99,Eddie Ames,,Coral Springs Holiday Classic SCM Meet,2015,4
+AZFL,400 M Freestyle,SCM,M,45-49,5:17.61,Robert W Vale,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Backstroke,SCM,M,45-49,29.32,Christopher E Beach,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Backstroke,SCM,M,45-49,38.96,Eddie Ames,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Breaststroke,SCM,M,45-49,33.20,Graeme A Fiser,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Breaststroke,SCM,M,45-49,38.42,Eddie Ames,,Coral Springs Holiday Classic SCM Meet,2015,2
+UC50,50 M Breaststroke,SCM,M,45-49,39.20,Alirio J Martinez,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Breaststroke,SCM,M,45-49,1:10.85,Graeme A Fiser,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Breaststroke,SCM,M,45-49,2:43.09,Graeme A Fiser,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Butterfly,SCM,M,45-49,27.81,Christopher E Beach,,Coral Springs Holiday Classic SCM Meet,2015,1
+PBM,50 M Butterfly,SCM,M,45-49,29.41,Lennart Lindahl,,Coral Springs Holiday Classic SCM Meet,2015,2
+AZFL,50 M Butterfly,SCM,M,45-49,32.54,Robert W Vale,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Butterfly,SCM,M,45-49,33.41,Eddie Ames,,Coral Springs Holiday Classic SCM Meet,2015,4
+PBM,100 M Individual Medley,SCM,M,45-49,1:04.88,Christopher E Beach,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Individual Medley,SCM,M,45-49,1:19.33,Eddie Ames,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Freestyle,SCM,M,50-54,25.68,Bryan R Tatterson,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Freestyle,SCM,M,50-54,26.49,PETER C HORWITZ,,Rowdy Gaines Masters Classic VII,2015,2
+UC50,50 M Freestyle,SCM,M,50-54,27.62,VICTOR E CREIGHTON,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Freestyle,SCM,M,50-54,28.05,Michael Aubrey,,Rowdy Gaines Masters Classic VII,2015,4
+WOW,50 M Freestyle,SCM,M,50-54,32.79,Robert P Neuman,,Coral Springs Holiday Classic SCM Meet,2015,5
+PLAN,50 M Freestyle,SCM,M,50-54,33.35,Fernando Abad,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,50 M Freestyle,SCM,M,50-54,33.70,Robert M Nunnally,,Coral Springs Holiday Classic SCM Meet,2015,7
+SFTL,100 M Freestyle,SCM,M,50-54,57.54,Bryan R Tatterson,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Freestyle,SCM,M,50-54,58.39,PETER C HORWITZ,,Rowdy Gaines Masters Classic VII,2015,2
+WOW,100 M Freestyle,SCM,M,50-54,1:15.78,Robert P Neuman,,Coral Springs Holiday Classic SCM Meet,2015,3
+PLAN,200 M Freestyle,SCM,M,50-54,2:50.05,Fernando Abad,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Freestyle,SCM,M,50-54,2:55.76,Robert M Nunnally,,Coral Springs Holiday Classic SCM Meet,2015,2
+GRSC,400 M Freestyle,SCM,M,50-54,4:19.98,Ricardo J Valdivia,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,M,50-54,4:57.08,Michael Aubrey,,2015 Shark Tank SCM Meet,2015,2
+WOW,400 M Freestyle,SCM,M,50-54,6:22.65,Robert P Neuman,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,1500 M Freestyle,SCM,M,50-54,20:18.15,Michael Aubrey,,2015 Shark Tank SCM Meet,2015,1
+SFTL,50 M Backstroke,SCM,M,50-54,30.71,PETER C HORWITZ,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,M,50-54,40.80,Robert M Nunnally,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Backstroke,SCM,M,50-54,1:06.36,PETER C HORWITZ,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Backstroke,SCM,M,50-54,1:30.43,Robert M Nunnally,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Breaststroke,SCM,M,50-54,32.38,Michael Aubrey,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Breaststroke,SCM,M,50-54,1:13.60,Michael Aubrey,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Breaststroke,SCM,M,50-54,2:47.35,Michael Aubrey,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,M,50-54,27.53,Bryan R Tatterson,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Butterfly,SCM,M,50-54,28.98,PETER C HORWITZ,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Butterfly,SCM,M,50-54,29.26,Michael Aubrey,,Rowdy Gaines Masters Classic VII,2015,3
+WOW,50 M Butterfly,SCM,M,50-54,37.17,Robert P Neuman,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,100 M Butterfly,SCM,M,50-54,1:08.87,Michael Aubrey,,Rowdy Gaines Masters Classic VII,2015,1
+WOW,100 M Butterfly,SCM,M,50-54,1:31.74,Robert P Neuman,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Individual Medley,SCM,M,50-54,1:07.35,Michael Aubrey,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Individual Medley,SCM,M,50-54,2:33.16,Michael Aubrey,,Coral Springs Holiday Classic SCM Meet,2015,1
+PLAN,200 M Individual Medley,SCM,M,50-54,3:10.83,Fernando Abad,,Coral Springs Holiday Classic SCM Meet,2015,2
+GRSC,400 M Individual Medley,SCM,M,50-54,4:51.98,Ricardo J Valdivia,,Coral Springs Holiday Classic SCM Meet,2015,1
+GRSC,50 M Freestyle,SCM,M,55-59,26.97,Mike LaMonica,,Coral Springs Holiday Classic SCM Meet,2015,1
+AZFL,50 M Freestyle,SCM,M,55-59,27.90,Francisco J Parra,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Freestyle,SCM,M,55-59,28.81,Jeffrey P Service,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Freestyle,SCM,M,55-59,29.14,Al Moreno,,2015 Shark Tank SCM Meet,2015,4
+GOLD,50 M Freestyle,SCM,M,55-59,29.23,John S Grzeszczak,,Coral Springs Holiday Classic SCM Meet,2015,5
+PBM,50 M Freestyle,SCM,M,55-59,30.72,Chris J Kane,,Coral Springs Holiday Classic SCM Meet,2015,6
+PAQM,50 M Freestyle,SCM,M,55-59,31.51,Jeffrey Shover,,Coral Springs Holiday Classic SCM Meet,2015,7
+BIMC,50 M Freestyle,SCM,M,55-59,33.63,Roger H McVeigh,,Coral Springs Holiday Classic SCM Meet,2015,8
+DAP,50 M Freestyle,SCM,M,55-59,36.46,Thaddeus D Gamory,,Coral Springs Holiday Classic SCM Meet,2015,9
+GOLD,50 M Freestyle,SCM,M,55-59,36.52,Cary Zinkin,,Coral Springs Holiday Classic SCM Meet,2015,10
+GOLD,50 M Freestyle,SCM,M,55-59,40.12,Roy S Sonenshein,,Rowdy Gaines Masters Classic VII,2015,11
+PBM,100 M Freestyle,SCM,M,55-59,1:12.72,Chris J Kane,,Coral Springs Holiday Classic SCM Meet,2015,1
+PAQM,100 M Freestyle,SCM,M,55-59,1:14.39,Jeffrey Shover,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Freestyle,SCM,M,55-59,1:26.54,Cary Zinkin,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Freestyle,SCM,M,55-59,1:28.20,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,4
+BIMC,200 M Freestyle,SCM,M,55-59,2:42.99,Roger H McVeigh,,Coral Springs Holiday Classic SCM Meet,2015,1
+PAQM,200 M Freestyle,SCM,M,55-59,3:06.32,Jeffrey Shover,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,M,55-59,3:18.64,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,M,55-59,3:23.25,Cary Zinkin,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,400 M Freestyle,SCM,M,55-59,5:17.29,Marty Hendrick,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,400 M Freestyle,SCM,M,55-59,6:46.41,Roy S Sonenshein,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Backstroke,SCM,M,55-59,33.88,Marty Hendrick,,2015 Shark Tank SCM Meet,2015,1
+GOLD,50 M Backstroke,SCM,M,55-59,34.49,John S Grzeszczak,,Coral Springs Holiday Classic SCM Meet,2015,2
+AZFL,50 M Backstroke,SCM,M,55-59,34.62,Francisco J Parra,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Backstroke,SCM,M,55-59,37.75,Chris J Kane,,Coral Springs Holiday Classic SCM Meet,2015,4
+UC50,50 M Backstroke,SCM,M,55-59,52.52,Randolph W Mayweather,,Rowdy Gaines Masters Classic VII,2015,5
+GOLD,50 M Backstroke,SCM,M,55-59,52.63,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,6
+SFTL,100 M Backstroke,SCM,M,55-59,1:12.91,Marty Hendrick,,2015 Shark Tank SCM Meet,2015,1
+GOLD,100 M Backstroke,SCM,M,55-59,1:53.80,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Backstroke,SCM,M,55-59,3:57.00,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Breaststroke,SCM,M,55-59,34.62,Al Moreno,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Breaststroke,SCM,M,55-59,42.28,Chris J Kane,,Coral Springs Holiday Classic SCM Meet,2015,2
+BIMC,50 M Breaststroke,SCM,M,55-59,42.68,Roger H McVeigh,,Coral Springs Holiday Classic SCM Meet,2015,3
+UC50,50 M Breaststroke,SCM,M,55-59,44.56,Randolph W Mayweather,,Rowdy Gaines Masters Classic VII,2015,4
+DAP,50 M Breaststroke,SCM,M,55-59,57.79,Thaddeus D Gamory,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,100 M Breaststroke,SCM,M,55-59,1:18.31,Al Moreno,,Rowdy Gaines Masters Classic VII,2015,1
+UC50,100 M Breaststroke,SCM,M,55-59,1:43.38,Randolph W Mayweather,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,100 M Breaststroke,SCM,M,55-59,1:52.48,Roy S Sonenshein,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,200 M Breaststroke,SCM,M,55-59,2:48.53,Al Moreno,,2015 Shark Tank SCM Meet,2015,1
+UC50,200 M Breaststroke,SCM,M,55-59,3:50.85,Randolph W Mayweather,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,200 M Breaststroke,SCM,M,55-59,4:17.39,Roy S Sonenshein,,Rowdy Gaines Masters Classic VII,2015,3
+GRSC,50 M Butterfly,SCM,M,55-59,28.51,Mike LaMonica,,Coral Springs Holiday Classic SCM Meet,2015,1
+AZFL,50 M Butterfly,SCM,M,55-59,30.03,Francisco J Parra,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Butterfly,SCM,M,55-59,33.46,Al Moreno,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Butterfly,SCM,M,55-59,34.37,Chris J Kane,,Coral Springs Holiday Classic SCM Meet,2015,4
+UC50,50 M Butterfly,SCM,M,55-59,43.47,Randolph W Mayweather,,Rowdy Gaines Masters Classic VII,2015,5
+GOLD,50 M Butterfly,SCM,M,55-59,51.09,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,6
+GRSC,100 M Butterfly,SCM,M,55-59,1:04.07,Mike LaMonica,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Butterfly,SCM,M,55-59,2:00.88,Roy S Sonenshein,,Rowdy Gaines Masters Classic VII,2015,2
+GRSC,200 M Butterfly,SCM,M,55-59,2:24.30,Mike LaMonica,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Butterfly,SCM,M,55-59,4:18.42,Roy S Sonenshein,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,100 M Individual Medley,SCM,M,55-59,1:14.38,Al Moreno,,Coral Springs Holiday Classic SCM Meet,2015,1
+UC50,100 M Individual Medley,SCM,M,55-59,1:38.52,Randolph W Mayweather,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,100 M Individual Medley,SCM,M,55-59,1:46.87,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,3
+BIMC,200 M Individual Medley,SCM,M,55-59,3:10.60,Roger H McVeigh,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Individual Medley,SCM,M,55-59,3:48.86,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Individual Medley,SCM,M,55-59,5:54.21,Marty Hendrick,,2015 Shark Tank SCM Meet,2015,1
+GOLD,400 M Individual Medley,SCM,M,55-59,8:09.63,Roy S Sonenshein,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,50 M Freestyle,SCM,M,60-64,29.05,Neil Puhse,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Freestyle,SCM,M,60-64,29.70,Beda C Dondi,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Freestyle,SCM,M,60-64,32.66,Jim Wright,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Freestyle,SCM,M,60-64,1:04.14,Neil Puhse,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Freestyle,SCM,M,60-64,1:06.55,Beda C Dondi,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,100 M Freestyle,SCM,M,60-64,1:41.68,Timothy D MCGONIGAL,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,M,60-64,2:37.48,Scott P McMillen,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,400 M Freestyle,SCM,M,60-64,5:18.65,Neil Puhse,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Backstroke,SCM,M,60-64,35.29,Scott P McMillen,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,M,60-64,37.22,Jim Wright,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Backstroke,SCM,M,60-64,42.02,Chris Burt,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Backstroke,SCM,M,60-64,1:18.77,Scott P McMillen,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Backstroke,SCM,M,60-64,1:32.92,Chris Burt,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Backstroke,SCM,M,60-64,2:50.05,Scott P McMillen,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,50 M Breaststroke,SCM,M,60-64,38.80,Beda C Dondi,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Breaststroke,SCM,M,60-64,39.31,Michael L Yagemann,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Breaststroke,SCM,M,60-64,40.60,Jim Wright,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Breaststroke,SCM,M,60-64,3:29.02,Jim Wright,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,M,60-64,31.77,Neil Puhse,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Butterfly,SCM,M,60-64,33.46,Beda C Dondi,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,100 M Butterfly,SCM,M,60-64,1:13.53,Neil Puhse,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,100 M Individual Medley,SCM,M,60-64,1:16.33,Beda C Dondi,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Individual Medley,SCM,M,60-64,1:16.44,Scott P McMillen,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,100 M Individual Medley,SCM,M,60-64,1:17.84,Michael L Yagemann,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Individual Medley,SCM,M,60-64,1:19.87,Jim Wright,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,200 M Individual Medley,SCM,M,60-64,2:54.26,Scott P McMillen,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,400 M Individual Medley,SCM,M,60-64,6:15.32,Scott P McMillen,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Freestyle,SCM,M,65-69,28.14,George L Schmidt,,2015 Shark Tank SCM Meet,2015,1
+GOLD,50 M Freestyle,SCM,M,65-69,28.22,Lee Childs,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Freestyle,SCM,M,65-69,31.31,Walter Kramer,,2015 Shark Tank SCM Meet,2015,3
+WOW,50 M Freestyle,SCM,M,65-69,32.74,David J Beuttenmuller,,UCLA Bruin Masters SCM Swim Meet,2015,4
+SFTL,50 M Freestyle,SCM,M,65-69,33.44,Michael M Koonin,,Coral Springs Holiday Classic SCM Meet,2015,5
+SFTL,50 M Freestyle,SCM,M,65-69,34.08,David L Solomon,,Rowdy Gaines Masters Classic VII,2015,6
+PBM,50 M Freestyle,SCM,M,65-69,35.22,Roger L Parsons,,2015 Shark Tank SCM Meet,2015,7
+GOLD,50 M Freestyle,SCM,M,65-69,35.64,Allen J De Weese,,Coral Springs Holiday Classic SCM Meet,2015,8
+GOLD,50 M Freestyle,SCM,M,65-69,37.94,NEIL S EICHELBAUM,,Coral Springs Holiday Classic SCM Meet,2015,9
+SFTL,50 M Freestyle,SCM,M,65-69,57.85,Clyde Akbar,,Rowdy Gaines Masters Classic VII,2015,10
+GOLD,100 M Freestyle,SCM,M,65-69,1:03.31,Lee Childs,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Freestyle,SCM,M,65-69,1:03.89,George L Schmidt,,Rowdy Gaines Masters Classic VII,2015,2
+PBM,100 M Freestyle,SCM,M,65-69,1:13.10,Robert T Bertrand,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,100 M Freestyle,SCM,M,65-69,1:18.43,David L Solomon,,Rowdy Gaines Masters Classic VII,2015,4
+WOW,100 M Freestyle,SCM,M,65-69,1:19.92,David J Beuttenmuller,,UCLA Bruin Masters SCM Swim Meet,2015,5
+SFTL,100 M Freestyle,SCM,M,65-69,2:20.66,Clyde Akbar,,Rowdy Gaines Masters Classic VII,2015,6
+GOLD,200 M Freestyle,SCM,M,65-69,2:21.32,Lee Childs,,2015 Shark Tank SCM Meet,2015,1
+GOLD,200 M Freestyle,SCM,M,65-69,2:40.07,Walter Kramer,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,200 M Freestyle,SCM,M,65-69,2:51.91,Roger L Parsons,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,M,65-69,2:57.92,Allen J De Weese,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,400 M Freestyle,SCM,M,65-69,5:46.16,Walter Kramer,,2015 Shark Tank SCM Meet,2015,1
+GOLD,400 M Freestyle,SCM,M,65-69,6:55.41,NEIL S EICHELBAUM,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Backstroke,SCM,M,65-69,34.68,George L Schmidt,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Backstroke,SCM,M,65-69,35.01,Lee Childs,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Backstroke,SCM,M,65-69,39.29,Roger L Parsons,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Backstroke,SCM,M,65-69,46.71,David L Solomon,,Rowdy Gaines Masters Classic VII,2015,4
+SFTL,50 M Backstroke,SCM,M,65-69,1:20.73,Clyde Akbar,,Rowdy Gaines Masters Classic VII,2015,5
+GOLD,100 M Backstroke,SCM,M,65-69,1:14.03,George L Schmidt,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Backstroke,SCM,M,65-69,1:25.76,Walter Kramer,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,100 M Backstroke,SCM,M,65-69,1:26.46,Roger L Parsons,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Backstroke,SCM,M,65-69,2:45.32,George L Schmidt,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,200 M Backstroke,SCM,M,65-69,3:15.75,Roger L Parsons,,2015 Shark Tank SCM Meet,2015,2
+GOLD,200 M Backstroke,SCM,M,65-69,3:44.66,Allen J De Weese,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,50 M Breaststroke,SCM,M,65-69,44.64,Roger L Parsons,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,50 M Breaststroke,SCM,M,65-69,48.88,David L Solomon,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Breaststroke,SCM,M,65-69,49.01,NEIL S EICHELBAUM,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Breaststroke,SCM,M,65-69,51.36,Allen J De Weese,,Coral Springs Holiday Classic SCM Meet,2015,4
+FLAQ,50 M Breaststroke,SCM,M,65-69,52.92,Robert L Jacobsohn,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,100 M Breaststroke,SCM,M,65-69,1:53.35,NEIL S EICHELBAUM,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,M,65-69,30.41,Lee Childs,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,M,65-69,31.95,George L Schmidt,,2015 Shark Tank SCM Meet,2015,2
+GOLD,50 M Butterfly,SCM,M,65-69,35.01,Walter Kramer,,2015 Shark Tank SCM Meet,2015,3
+SFTL,50 M Butterfly,SCM,M,65-69,43.23,David L Solomon,,Rowdy Gaines Masters Classic VII,2015,4
+PBM,50 M Butterfly,SCM,M,65-69,45.84,Roger L Parsons,,2015 Shark Tank SCM Meet,2015,5
+GOLD,100 M Butterfly,SCM,M,65-69,1:11.74,Lee Childs,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Butterfly,SCM,M,65-69,1:16.55,George L Schmidt,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,100 M Butterfly,SCM,M,65-69,1:20.94,Walter Kramer,,2015 Shark Tank SCM Meet,2015,3
+GOLD,200 M Butterfly,SCM,M,65-69,3:27.28,Walter Kramer,,2015 Shark Tank SCM Meet,2015,1
+GOLD,100 M Individual Medley,SCM,M,65-69,1:11.71,George L Schmidt,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Individual Medley,SCM,M,65-69,1:13.05,Lee Childs,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,100 M Individual Medley,SCM,M,65-69,1:33.78,Roger L Parsons,,Huntsman World Senior Games,2015,3
+SFTL,100 M Individual Medley,SCM,M,65-69,1:35.16,David L Solomon,,Rowdy Gaines Masters Classic VII,2015,4
+GOLD,200 M Individual Medley,SCM,M,65-69,2:42.42,Lee Childs,,2015 Shark Tank SCM Meet,2015,1
+GOLD,200 M Individual Medley,SCM,M,65-69,2:44.34,George L Schmidt,,2015 Shark Tank SCM Meet,2015,2
+GOLD,50 M Freestyle,SCM,M,70-74,29.03,Keefe L Lodwig,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Freestyle,SCM,M,70-74,29.12,David Quiggin,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Freestyle,SCM,M,70-74,30.41,Jan Soderstrom,,Rowdy Gaines Masters Classic VII,2015,3
+SFTL,50 M Freestyle,SCM,M,70-74,37.13,Marcos SZEINFELD,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,50 M Freestyle,SCM,M,70-74,38.54,Mervyn E Goldbas,,Rowdy Gaines Masters Classic VII,2015,5
+GOLD,50 M Freestyle,SCM,M,70-74,40.19,Doug Houston,,Coral Springs Holiday Classic SCM Meet,2015,6
+GOLD,100 M Freestyle,SCM,M,70-74,1:04.80,David Quiggin,,2015 Shark Tank SCM Meet,2015,1
+GOLD,100 M Freestyle,SCM,M,70-74,1:06.11,Keefe L Lodwig,,2015 Shark Tank SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,M,70-74,1:27.28,Marcos SZEINFELD,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,M,70-74,2:24.34,David Quiggin,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,200 M Freestyle,SCM,M,70-74,2:28.30,Keefe L Lodwig,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,200 M Freestyle,SCM,M,70-74,3:10.15,Mervyn E Goldbas,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,400 M Freestyle,SCM,M,70-74,5:23.77,David Quiggin,,2015 Shark Tank SCM Meet,2015,1
+GOLD,400 M Freestyle,SCM,M,70-74,5:28.00,Keefe L Lodwig,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,400 M Freestyle,SCM,M,70-74,6:44.57,Mervyn E Goldbas,,Rowdy Gaines Masters Classic VII,2015,3
+GOLD,800 M Freestyle,SCM,M,70-74,11:19.68,David Quiggin,,2015 Shark Tank SCM Meet,2015,1
+SFTL,800 M Freestyle,SCM,M,70-74,14:29.28,Mervyn E Goldbas,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,1500 M Freestyle,SCM,M,70-74,21:07.65,David Quiggin,,2015 Shark Tank SCM Meet,2015,1
+SFTL,1500 M Freestyle,SCM,M,70-74,26:58.13,Mervyn E Goldbas,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,50 M Backstroke,SCM,M,70-74,38.00,David Quiggin,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Backstroke,SCM,M,70-74,38.56,Jan Soderstrom,,Rowdy Gaines Masters Classic VII,2015,2
+SFTL,50 M Backstroke,SCM,M,70-74,49.84,Marcos SZEINFELD,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,100 M Backstroke,SCM,M,70-74,1:25.10,David Quiggin,,2015 Shark Tank SCM Meet,2015,1
+GOLD,100 M Backstroke,SCM,M,70-74,1:25.22,Jan Soderstrom,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,100 M Backstroke,SCM,M,70-74,1:36.29,Eliot Winokur,,7th Annual UVAC Leaf Peepers Masters SCM Meet,2015,3
+PBM,200 M Backstroke,SCM,M,70-74,3:12.94,David Quiggin,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Backstroke,SCM,M,70-74,3:24.63,Eliot Winokur,,7th Annual UVAC Leaf Peepers Masters SCM Meet,2015,2
+GOLD,50 M Butterfly,SCM,M,70-74,32.40,David Quiggin,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Butterfly,SCM,M,70-74,32.48,Keefe L Lodwig,,2015 Shark Tank SCM Meet,2015,2
+GOLD,100 M Butterfly,SCM,M,70-74,1:40.52,Eliot Winokur,,Coral Springs Holiday Classic SCM Meet,2015,1
+SFTL,200 M Butterfly,SCM,M,70-74,3:48.31,Gerry G Delong,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,200 M Butterfly,SCM,M,70-74,3:55.22,Eliot Winokur,,7th Annual UVAC Leaf Peepers Masters SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,M,70-74,1:18.57,David Quiggin,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Individual Medley,SCM,M,70-74,1:21.07,Keefe L Lodwig,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,200 M Individual Medley,SCM,M,70-74,3:01.21,David Quiggin,,2015 Shark Tank SCM Meet,2015,1
+GOLD,200 M Individual Medley,SCM,M,70-74,3:25.59,Eliot Winokur,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,400 M Individual Medley,SCM,M,70-74,7:26.38,Eliot Winokur,,7th Annual UVAC Leaf Peepers Masters SCM Meet,2015,1
+SFTL,400 M Individual Medley,SCM,M,70-74,7:44.42,Gerry G Delong,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Freestyle,SCM,M,75-79,35.07,David R McIntyre,,2015 Shark Tank SCM Meet,2015,1
+GOLD,50 M Freestyle,SCM,M,75-79,36.46,Bill Dykstra,,Coral Springs Holiday Classic SCM Meet,2015,2
+PBM,50 M Freestyle,SCM,M,75-79,47.03,Patrick Cannan,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Freestyle,SCM,M,75-79,54.77,Carl House,,Coral Springs Holiday Classic SCM Meet,2015,4
+SFTL,50 M Freestyle,SCM,M,75-79,56.11,Nahum Gorwitz,,Coral Springs Holiday Classic SCM Meet,2015,5
+GOLD,100 M Freestyle,SCM,M,75-79,1:18.13,Howard Rolston,,USMS Last Chance Meet,2015,1
+PBM,100 M Freestyle,SCM,M,75-79,1:47.71,Patrick Cannan,,Coral Springs Holiday Classic SCM Meet,2015,2
+SFTL,100 M Freestyle,SCM,M,75-79,2:03.84,Nahum Gorwitz,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,200 M Freestyle,SCM,M,75-79,2:48.43,Howard Rolston,,USMS Last Chance Meet,2015,1
+PBM,200 M Freestyle,SCM,M,75-79,3:46.96,Patrick Cannan,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Freestyle,SCM,M,75-79,5:25.41,Carl House,,Coral Springs Holiday Classic SCM Meet,2015,3
+PBM,400 M Freestyle,SCM,M,75-79,8:00.45,Patrick Cannan,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,400 M Freestyle,SCM,M,75-79,11:21.45,Carl House,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Backstroke,SCM,M,75-79,39.25,Howard Rolston,,3rd Annual Solstice SCM Swim Meet,2015,1
+GOLD,50 M Backstroke,SCM,M,75-79,42.13,David R McIntyre,,2015 Shark Tank SCM Meet,2015,2
+GOLD,50 M Backstroke,SCM,M,75-79,42.64,Joseph M Lammert,,2015 Shark Tank SCM Meet,2015,3
+SFTL,50 M Backstroke,SCM,M,75-79,1:12.58,Nahum Gorwitz,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,100 M Backstroke,SCM,M,75-79,1:26.84,Howard Rolston,,USMS Last Chance Meet,2015,1
+GOLD,100 M Backstroke,SCM,M,75-79,3:31.17,Carl House,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Backstroke,SCM,M,75-79,3:12.11,Howard Rolston,,3rd Annual Solstice SCM Swim Meet,2015,1
+GOLD,50 M Breaststroke,SCM,M,75-79,45.91,Karl E Wiedamann,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,50 M Breaststroke,SCM,M,75-79,48.88,David R McIntyre,,2015 Shark Tank SCM Meet,2015,2
+GOLD,50 M Breaststroke,SCM,M,75-79,1:05.22,Carl House,,Coral Springs Holiday Classic SCM Meet,2015,3
+SFTL,50 M Breaststroke,SCM,M,75-79,1:10.81,Nahum Gorwitz,,Coral Springs Holiday Classic SCM Meet,2015,4
+GOLD,100 M Breaststroke,SCM,M,75-79,1:44.33,Karl E Wiedamann,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,100 M Breaststroke,SCM,M,75-79,2:33.11,Nahum Gorwitz,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Breaststroke,SCM,M,75-79,3:57.56,Karl E Wiedamann,,Rowdy Gaines Masters Classic VII,2015,1
+SFTL,200 M Breaststroke,SCM,M,75-79,5:25.43,Nahum Gorwitz,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,200 M Breaststroke,SCM,M,75-79,5:47.89,Carl House,,Coral Springs Holiday Classic SCM Meet,2015,3
+GOLD,50 M Butterfly,SCM,M,75-79,38.56,Joseph M Lammert,,2015 Shark Tank SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,M,75-79,39.25,Howard Rolston,,2015 Albatross Open,2015,2
+GOLD,100 M Individual Medley,SCM,M,75-79,1:25.22,Howard Rolston,,2015 Albatross Open,2015,1
+GOLD,200 M Individual Medley,SCM,M,75-79,3:13.77,Howard Rolston,,2015 Albatross Open,2015,1
+GOLD,50 M Freestyle,SCM,M,80-84,32.90,Cav Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,1
+GOLD,50 M Freestyle,SCM,M,80-84,43.69,Alan S Rapperport,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,50 M Freestyle,SCM,M,80-84,1:02.80,Leonard Silverstein,,2015 Shark Tank SCM Meet,2015,3
+GOLD,100 M Freestyle,SCM,M,80-84,1:15.16,Cav Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,1
+GOLD,100 M Freestyle,SCM,M,80-84,1:44.05,Alan S Rapperport,,Rowdy Gaines Masters Classic VII,2015,2
+GOLD,200 M Freestyle,SCM,M,80-84,2:52.14,Cav Cavanaugh,,2015 Canadian Masters Swimming Championships,2015,1
+GOLD,200 M Freestyle,SCM,M,80-84,3:57.24,Alan S Rapperport,,Coral Springs Holiday Classic SCM Meet,2015,2
+GOLD,400 M Freestyle,SCM,M,80-84,8:31.45,Alan S Rapperport,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,400 M Freestyle,SCM,M,80-84,11:40.46,Leonard Silverstein,,2015 Shark Tank SCM Meet,2015,2
+GOLD,50 M Backstroke,SCM,M,80-84,55.39,Alan S Rapperport,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Backstroke,SCM,M,80-84,2:02.20,Alan S Rapperport,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,200 M Backstroke,SCM,M,80-84,4:36.98,Alan S Rapperport,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,50 M Breaststroke,SCM,M,80-84,49.78,Jerry L Marchbanks,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,50 M Butterfly,SCM,M,80-84,46.33,Cav Cavanaugh,,Rowdy Gaines Masters Classic VII,2015,1
+PBM,100 M Butterfly,SCM,M,80-84,2:11.34,Jerry L Marchbanks,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,100 M Butterfly,SCM,M,80-84,3:26.79,Leonard Silverstein,,2015 Shark Tank SCM Meet,2015,2
+GOLD,100 M Individual Medley,SCM,M,80-84,1:35.54,Cav Cavanaugh,,Rowdy Gaines Masters Classic VII,2015,1
+GOLD,100 M Individual Medley,SCM,M,80-84,2:47.41,Leonard Silverstein,,2015 Shark Tank SCM Meet,2015,2
+PBM,400 M Individual Medley,SCM,M,80-84,8:44.25,Jerry L Marchbanks,,Coral Springs Holiday Classic SCM Meet,2015,1
+GOLD,400 M Individual Medley,SCM,M,80-84,13:31.59,Leonard Silverstein,,2015 Shark Tank SCM Meet,2015,2

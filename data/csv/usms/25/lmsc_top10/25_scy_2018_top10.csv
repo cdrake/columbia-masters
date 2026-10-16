@@ -1,0 +1,754 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+RICE,50 Y Freestyle,SCY,W,18-24,27.79,Joanne Hsu,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,1000 Y Freestyle,SCY,W,18-24,12:53.78,Joanne Hsu,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Backstroke,SCY,W,18-24,33.85,Joanne Hsu,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Breaststroke,SCY,W,18-24,36.13,Joanne Hsu,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Butterfly,SCY,W,18-24,31.69,Joanne Hsu,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,100 Y Individual Medley,SCY,W,18-24,1:09.96,Joanne Hsu,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Freestyle,SCY,W,25-29,26.70,Carly Antonucci,,2018 Sweetheart Swim,2018,1
+DADS,50 Y Freestyle,SCY,W,25-29,26.87,Alisha M Rembach,,2018 Sweetheart Swim,2018,2
+RICE,50 Y Freestyle,SCY,W,25-29,28.15,Hannah B Bridges,,Rice Aquatics Masters March Madness,2018,3
+DADS,100 Y Freestyle,SCY,W,25-29,57.80,Alisha M Rembach,,2018 Sweetheart Swim,2018,1
+RICE,50 Y Backstroke,SCY,W,25-29,31.40,Julieta Garzón Munguia,,Rice Aquatics Masters March Madness,2018,1
+DADS,100 Y Backstroke,SCY,W,25-29,1:01.50,Carleigh L Kutac,,2018 Sweetheart Swim,2018,1
+DADS,200 Y Backstroke,SCY,W,25-29,2:12.29,Carleigh L Kutac,,2018 Sweetheart Swim,2018,1
+RICE,50 Y Breaststroke,SCY,W,25-29,32.05,Julieta Garzón Munguia,,Rice Aquatics Masters March Madness,2018,1
+RICE,50 Y Breaststroke,SCY,W,25-29,35.79,Hannah B Bridges,,Rice Aquatics Masters March Madness,2018,2
+RICE,100 Y Breaststroke,SCY,W,25-29,1:13.11,Julieta Garzón Munguia,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Breaststroke,SCY,W,25-29,1:15.79,Hannah B Bridges,,Rice Aquatics Masters March Madness,2018,2
+COOG,200 Y Breaststroke,SCY,W,25-29,2:40.59,Carly Antonucci,,2018 Sweetheart Swim,2018,1
+RICE,50 Y Butterfly,SCY,W,25-29,28.85,Julieta Garzón Munguia,,Rice Aquatics Masters March Madness,2018,1
+DADS,50 Y Butterfly,SCY,W,25-29,29.40,Alisha M Rembach,,2018 Sweetheart Swim,2018,2
+RICE,50 Y Butterfly,SCY,W,25-29,34.04,Hannah B Bridges,,Rice Aquatics Masters March Madness,2018,3
+DADS,100 Y Butterfly,SCY,W,25-29,59.28,Carleigh L Kutac,,2018 Sweetheart Swim,2018,1
+COOG,100 Y Butterfly,SCY,W,25-29,1:02.66,Carly Antonucci,,2018 Sweetheart Swim,2018,2
+DADS,200 Y Butterfly,SCY,W,25-29,2:28.71,Alisha M Rembach,,2018 Sweetheart Swim,2018,1
+RICE,100 Y Individual Medley,SCY,W,25-29,1:08.37,Julieta Garzón Munguia,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Individual Medley,SCY,W,25-29,1:11.44,Hannah B Bridges,,Rice Aquatics Masters March Madness,2018,2
+DADS,200 Y Individual Medley,SCY,W,25-29,2:18.01,Carleigh L Kutac,,2018 Sweetheart Swim,2018,1
+LTHO,50 Y Freestyle,SCY,W,30-34,32.17,Kelly E Greenwood,,2018 Sweetheart Swim,2018,1
+SSSM,50 Y Freestyle,SCY,W,30-34,33.82,Lindsay M Price,,2018 Sweetheart Swim,2018,2
+ROCC,100 Y Freestyle,SCY,W,30-34,59.20,Andrea Palmai,,2018 Sweetheart Swim,2018,1
+LTHO,100 Y Freestyle,SCY,W,30-34,1:12.18,Kelly E Greenwood,,2018 Sweetheart Swim,2018,2
+UC25,100 Y Backstroke,SCY,W,30-34,1:11.59,Megan T Gordon,,Rice Aquatics Masters March Madness,2018,1
+SSSM,100 Y Backstroke,SCY,W,30-34,1:23.88,Lindsay M Price,,2018 Sweetheart Swim,2018,2
+UC25,200 Y Backstroke,SCY,W,30-34,2:34.53,Megan T Gordon,,Rice Aquatics Masters March Madness,2018,1
+UC25,200 Y Breaststroke,SCY,W,30-34,2:57.35,Megan T Gordon,,Rice Aquatics Masters March Madness,2018,1
+ROCC,50 Y Butterfly,SCY,W,30-34,29.73,Andrea Palmai,,2018 Sweetheart Swim,2018,1
+LTHO,50 Y Butterfly,SCY,W,30-34,36.06,Kelly E Greenwood,,2018 Sweetheart Swim,2018,2
+SSSM,50 Y Butterfly,SCY,W,30-34,38.73,Lindsay M Price,,2018 Sweetheart Swim,2018,3
+LTHO,100 Y Individual Medley,SCY,W,30-34,1:26.17,Kelly E Greenwood,,2018 Sweetheart Swim,2018,1
+SSSM,100 Y Individual Medley,SCY,W,30-34,1:27.94,Lindsay M Price,,2018 Sweetheart Swim,2018,2
+SSSM,200 Y Individual Medley,SCY,W,30-34,3:01.76,Lindsay M Price,,2018 Sweetheart Swim,2018,1
+COOG,50 Y Freestyle,SCY,W,35-39,28.28,Cara Chasin,,Rice Aquatics Masters March Madness,2018,1
+COOG,50 Y Freestyle,SCY,W,35-39,28.32,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MAMC,50 Y Freestyle,SCY,W,35-39,29.86,Julie A Geistfeld,,Rice Aquatics Masters March Madness,2018,3
+UH20,50 Y Freestyle,SCY,W,35-39,34.14,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+DADS,50 Y Freestyle,SCY,W,35-39,36.72,Sarah Hughes,,Rice Aquatics Masters March Madness,2018,5
+COOG,100 Y Freestyle,SCY,W,35-39,1:01.05,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,100 Y Freestyle,SCY,W,35-39,1:01.54,Cara Chasin,,Rice Aquatics Masters March Madness,2018,2
+WMST,100 Y Freestyle,SCY,W,35-39,1:01.98,Christina M Toth,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+MAMC,100 Y Freestyle,SCY,W,35-39,1:08.17,Julie A Geistfeld,,Rice Aquatics Masters March Madness,2018,4
+UC25,100 Y Freestyle,SCY,W,35-39,1:10.79,Kelly M Sells,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+MAMC,200 Y Freestyle,SCY,W,35-39,2:37.27,Julie A Geistfeld,,Rice Aquatics Masters March Madness,2018,1
+DADS,200 Y Freestyle,SCY,W,35-39,2:57.68,Sarah Hughes,,Rice Aquatics Masters March Madness,2018,2
+UH20,200 Y Freestyle,SCY,W,35-39,2:59.66,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+DADS,500 Y Freestyle,SCY,W,35-39,7:45.56,Sarah Hughes,,Rice Aquatics Masters March Madness,2018,1
+UH20,500 Y Freestyle,SCY,W,35-39,8:17.57,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+WMST,50 Y Backstroke,SCY,W,35-39,31.62,Christina M Toth,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Backstroke,SCY,W,35-39,32.33,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,50 Y Backstroke,SCY,W,35-39,35.28,Kelly M Sells,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+MAMC,50 Y Backstroke,SCY,W,35-39,37.45,Julie A Geistfeld,,Rice Aquatics Masters March Madness,2018,4
+UH20,50 Y Backstroke,SCY,W,35-39,44.33,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+COOG,100 Y Backstroke,SCY,W,35-39,1:07.42,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+MAMC,100 Y Backstroke,SCY,W,35-39,1:20.26,Julie A Geistfeld,,Rice Aquatics Masters March Madness,2018,2
+UH20,100 Y Backstroke,SCY,W,35-39,1:35.01,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+COOG,200 Y Backstroke,SCY,W,35-39,2:26.86,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,200 Y Backstroke,SCY,W,35-39,3:31.95,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+HOST,50 Y Breaststroke,SCY,W,35-39,32.89,Victoria Bahr,,Rice Aquatics Masters March Madness,2018,1
+WMST,50 Y Breaststroke,SCY,W,35-39,37.67,Christina M Toth,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,50 Y Breaststroke,SCY,W,35-39,37.96,Cara Chasin,,Rice Aquatics Masters March Madness,2018,3
+UC25,50 Y Breaststroke,SCY,W,35-39,40.19,Kelly M Sells,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+UH20,50 Y Breaststroke,SCY,W,35-39,46.21,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+UH20,100 Y Breaststroke,SCY,W,35-39,1:39.15,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+HOST,200 Y Breaststroke,SCY,W,35-39,2:38.06,Victoria Bahr,,Rice Aquatics Masters March Madness,2018,1
+UH20,200 Y Breaststroke,SCY,W,35-39,3:45.52,Anna Bass,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,50 Y Butterfly,SCY,W,35-39,29.72,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Butterfly,SCY,W,35-39,33.89,Cara Chasin,,Rice Aquatics Masters March Madness,2018,2
+COOG,100 Y Butterfly,SCY,W,35-39,1:07.59,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Butterfly,SCY,W,35-39,1:08.45,Christina M Toth,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+HOST,100 Y Individual Medley,SCY,W,35-39,1:04.27,Victoria Bahr,,Rice Aquatics Masters March Madness,2018,1
+WMST,100 Y Individual Medley,SCY,W,35-39,1:09.43,Christina M Toth,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,100 Y Individual Medley,SCY,W,35-39,1:13.34,Cara Chasin,,Rice Aquatics Masters March Madness,2018,3
+DADS,100 Y Individual Medley,SCY,W,35-39,1:34.44,Sarah Hughes,,Rice Aquatics Masters March Madness,2018,4
+HOST,200 Y Individual Medley,SCY,W,35-39,2:17.94,Victoria Bahr,,Rice Aquatics Masters March Madness,2018,1
+COOG,200 Y Individual Medley,SCY,W,35-39,2:34.50,Lisa Linerode,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+DADS,200 Y Individual Medley,SCY,W,35-39,3:16.53,Sarah Hughes,,Rice Aquatics Masters March Madness,2018,3
+UC25,50 Y Freestyle,SCY,W,40-44,27.71,Colette Franz,,Rice Aquatics Masters March Madness,2018,1
+COOG,50 Y Freestyle,SCY,W,40-44,33.37,Tessa A Kole,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,100 Y Freestyle,SCY,W,40-44,1:00.23,Colette Franz,,Rice Aquatics Masters March Madness,2018,1
+COOG,100 Y Freestyle,SCY,W,40-44,1:15.32,Tessa A Kole,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,200 Y Freestyle,SCY,W,40-44,2:46.53,Tessa A Kole,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Backstroke,SCY,W,40-44,41.70,Tessa A Kole,,2018 Sweetheart Swim,2018,1
+COOG,50 Y Breaststroke,SCY,W,40-44,51.51,Tessa A Kole,,2018 Sweetheart Swim,2018,1
+UC25,50 Y Butterfly,SCY,W,40-44,35.00,Colette Franz,,Rice Aquatics Masters March Madness,2018,1
+UC25,100 Y Individual Medley,SCY,W,40-44,1:10.71,Colette Franz,,Rice Aquatics Masters March Madness,2018,1
+COOG,100 Y Individual Medley,SCY,W,40-44,1:33.92,Tessa A Kole,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,50 Y Freestyle,SCY,W,45-49,26.96,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+FCST,50 Y Freestyle,SCY,W,45-49,30.17,Jill A Quinn,,Rice Aquatics Masters March Madness,2018,2
+COOG,100 Y Freestyle,SCY,W,45-49,58.24,Linda Visser,,2018 Sweetheart Swim,2018,1
+COOG,100 Y Freestyle,SCY,W,45-49,1:06.43,Melissa Weininger,,2018 Sweetheart Swim,2018,2
+FCST,100 Y Freestyle,SCY,W,45-49,1:10.40,Jill A Quinn,,Rice Aquatics Masters March Madness,2018,3
+RICE,200 Y Freestyle,SCY,W,45-49,2:07.22,Nicole P Van Nood,,Rice Aquatics Masters March Madness,2018,1
+COOG,200 Y Freestyle,SCY,W,45-49,2:10.65,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,500 Y Freestyle,SCY,W,45-49,5:24.40,Nicole P Van Nood,,Rice Aquatics Masters March Madness,2018,1
+FCST,500 Y Freestyle,SCY,W,45-49,6:50.24,Jill A Quinn,,Rice Aquatics Masters March Madness,2018,2
+COOG,50 Y Backstroke,SCY,W,45-49,30.55,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+FCST,50 Y Backstroke,SCY,W,45-49,34.53,Jill A Quinn,,Rice Aquatics Masters March Madness,2018,2
+RICE,50 Y Backstroke,SCY,W,45-49,36.20,Nicole P Van Nood,,Rice Aquatics Masters March Madness,2018,3
+COOG,100 Y Backstroke,SCY,W,45-49,1:06.44,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+FCST,100 Y Backstroke,SCY,W,45-49,1:17.15,Jill A Quinn,,Rice Aquatics Masters March Madness,2018,2
+COOG,200 Y Backstroke,SCY,W,45-49,2:28.46,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Breaststroke,SCY,W,45-49,33.29,Linda Visser,,2018 Sweetheart Swim,2018,1
+RICE,50 Y Breaststroke,SCY,W,45-49,34.25,Nicole P Van Nood,,Rice Aquatics Masters March Madness,2018,2
+COOG,100 Y Breaststroke,SCY,W,45-49,1:10.83,Linda Visser,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,100 Y Breaststroke,SCY,W,45-49,1:25.94,Melissa Weininger,,2018 Sweetheart Swim,2018,2
+COOG,200 Y Breaststroke,SCY,W,45-49,2:34.75,Linda Visser,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,200 Y Breaststroke,SCY,W,45-49,3:05.46,Melissa Weininger,,2018 Sweetheart Swim,2018,2
+COOG,50 Y Butterfly,SCY,W,45-49,29.00,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Butterfly,SCY,W,45-49,35.37,Melissa Weininger,,2018 Sweetheart Swim,2018,2
+COOG,100 Y Butterfly,SCY,W,45-49,1:03.87,Linda Visser,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,100 Y Individual Medley,SCY,W,45-49,1:04.45,Linda Visser,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,100 Y Individual Medley,SCY,W,45-49,1:18.88,Melissa Weininger,,2018 Sweetheart Swim,2018,2
+COOG,200 Y Individual Medley,SCY,W,45-49,2:21.19,Linda Visser,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,400 Y Individual Medley,SCY,W,45-49,4:58.43,Linda Visser,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,400 Y Individual Medley,SCY,W,45-49,5:04.22,Nicole P Van Nood,,Rice Aquatics Masters March Madness,2018,2
+ROCC,50 Y Freestyle,SCY,W,50-54,31.78,Karen W Chiao,,2018 Sweetheart Swim,2018,1
+COOG,50 Y Freestyle,SCY,W,50-54,32.05,Cheryl B Hubbard,,2018 Sweetheart Swim,2018,2
+UC25,50 Y Freestyle,SCY,W,50-54,32.60,Tina T Tilghman,,Rice Aquatics Masters March Madness,2018,3
+MAMC,50 Y Freestyle,SCY,W,50-54,33.88,PaTTi A Bates,,Rice Aquatics Masters March Madness,2018,4
+RICE,50 Y Freestyle,SCY,W,50-54,35.02,Sanghee Yoo,,Rice Aquatics Masters March Madness,2018,5
+ROCC,50 Y Freestyle,SCY,W,50-54,35.23,Kelley H Trammell,,2018 Sweetheart Swim,2018,6
+COOG,100 Y Freestyle,SCY,W,50-54,1:10.23,Cheryl B Hubbard,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+UC25,100 Y Freestyle,SCY,W,50-54,1:14.89,Tina T Tilghman,,Rice Aquatics Masters March Madness,2018,2
+RICE,100 Y Freestyle,SCY,W,50-54,1:17.10,Sanghee Yoo,,Rice Aquatics Masters March Madness,2018,3
+MAMC,100 Y Freestyle,SCY,W,50-54,1:18.55,PaTTi A Bates,,Rice Aquatics Masters March Madness,2018,4
+SSSM,100 Y Freestyle,SCY,W,50-54,1:28.66,Joanne Murphey,,2018 Sweetheart Swim,2018,5
+UC25,200 Y Freestyle,SCY,W,50-54,2:03.92,Jill E Gellatly,,2018 Southwest Zone Short Course Yards Championship,2018,1
+MAMC,200 Y Freestyle,SCY,W,50-54,2:50.98,PaTTi A Bates,,Rice Aquatics Masters March Madness,2018,2
+COOG,200 Y Freestyle,SCY,W,50-54,3:35.54,Lynne Nguyen,,Rice Aquatics Masters March Madness,2018,3
+UC25,500 Y Freestyle,SCY,W,50-54,5:31.72,Jill E Gellatly,,2018 Southwest Zone Short Course Yards Championship,2018,1
+UC25,500 Y Freestyle,SCY,W,50-54,7:11.62,Tina T Tilghman,,Rice Aquatics Masters March Madness,2018,2
+MAMC,500 Y Freestyle,SCY,W,50-54,7:40.18,PaTTi A Bates,,Rice Aquatics Masters March Madness,2018,3
+COOG,500 Y Freestyle,SCY,W,50-54,9:24.16,Lynne Nguyen,,Rice Aquatics Masters March Madness,2018,4
+COOG,1000 Y Freestyle,SCY,W,50-54,13:47.20,Cheryl B Hubbard,,2018 Sweetheart Swim,2018,1
+COOG,1000 Y Freestyle,SCY,W,50-54,20:05.30,Lynne Nguyen,,2018 Sweetheart Swim,2018,2
+COOG,1650 Y Freestyle,SCY,W,50-54,23:00.33,Cheryl B Hubbard,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+ROCC,50 Y Backstroke,SCY,W,50-54,37.99,Karen W Chiao,,2018 Sweetheart Swim,2018,1
+SSSM,100 Y Backstroke,SCY,W,50-54,1:45.44,Joanne Murphey,,2018 Sweetheart Swim,2018,1
+COOG,200 Y Backstroke,SCY,W,50-54,2:57.89,Cheryl B Hubbard,,2018 Sweetheart Swim,2018,1
+SSSM,200 Y Backstroke,SCY,W,50-54,3:43.68,Joanne Murphey,,2018 Sweetheart Swim,2018,2
+RICE,50 Y Breaststroke,SCY,W,50-54,44.78,Sanghee Yoo,,Rice Aquatics Masters March Madness,2018,1
+ROCC,50 Y Breaststroke,SCY,W,50-54,45.17,Kelley H Trammell,,2018 Sweetheart Swim,2018,2
+UC25,200 Y Breaststroke,SCY,W,50-54,2:46.93,Jill E Gellatly,,2018 Southwest Zone Short Course Yards Championship,2018,1
+COOG,200 Y Breaststroke,SCY,W,50-54,3:16.13,Cheryl B Hubbard,,2018 Sweetheart Swim,2018,2
+SSSM,200 Y Breaststroke,SCY,W,50-54,3:51.40,Joanne Murphey,,2018 Sweetheart Swim,2018,3
+UC25,50 Y Butterfly,SCY,W,50-54,39.11,Tina T Tilghman,,Rice Aquatics Masters March Madness,2018,1
+COOG,100 Y Butterfly,SCY,W,50-54,1:17.43,Cheryl B Hubbard,,2018 Sweetheart Swim,2018,1
+COOG,200 Y Butterfly,SCY,W,50-54,2:57.68,Cheryl B Hubbard,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+UC25,100 Y Individual Medley,SCY,W,50-54,1:07.99,Jill E Gellatly,,2018 Southwest Zone Short Course Yards Championship,2018,1
+UC25,100 Y Individual Medley,SCY,W,50-54,1:27.81,Tina T Tilghman,,Rice Aquatics Masters March Madness,2018,2
+ROCC,100 Y Individual Medley,SCY,W,50-54,1:28.98,Karen W Chiao,,2018 Sweetheart Swim,2018,3
+SSSM,100 Y Individual Medley,SCY,W,50-54,1:46.72,Joanne Murphey,,2018 Sweetheart Swim,2018,4
+UC25,200 Y Individual Medley,SCY,W,50-54,2:23.07,Jill E Gellatly,,2018 Southwest Zone Short Course Yards Championship,2018,1
+COOG,200 Y Individual Medley,SCY,W,50-54,2:55.28,Cheryl B Hubbard,,Jesse Coon Memorial Swim Meet (MOB),2018,2
+UC25,400 Y Individual Medley,SCY,W,50-54,5:02.53,Jill E Gellatly,,2018 Southwest Zone Short Course Yards Championship,2018,1
+WMST,50 Y Freestyle,SCY,W,55-59,31.15,Stacey M Eicks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Freestyle,SCY,W,55-59,34.99,Patty Hermann,,2018 Sweetheart Swim,2018,2
+ROCC,50 Y Freestyle,SCY,W,55-59,42.47,Vivian C Chambers,,2018 Sweetheart Swim,2018,3
+WMST,100 Y Freestyle,SCY,W,55-59,1:10.38,Stacey M Eicks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,100 Y Freestyle,SCY,W,55-59,1:16.84,Patty Hermann,,2018 Sweetheart Swim,2018,2
+WMST,200 Y Freestyle,SCY,W,55-59,2:33.34,Stacey M Eicks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,200 Y Freestyle,SCY,W,55-59,2:47.07,Patty Hermann,,2018 Sweetheart Swim,2018,2
+WMST,500 Y Freestyle,SCY,W,55-59,6:51.14,Stacey M Eicks,,Rice Aquatics Masters March Madness,2018,1
+COOG,500 Y Freestyle,SCY,W,55-59,7:12.44,Patty Hermann,,2018 Sweetheart Swim,2018,2
+COOG,1000 Y Freestyle,SCY,W,55-59,14:48.34,Patty Hermann,,2018 Sweetheart Swim,2018,1
+SSSM,50 Y Backstroke,SCY,W,55-59,1:07.43,Kathleen A Scharchburg,,2018 Sweetheart Swim,2018,1
+WMST,100 Y Butterfly,SCY,W,55-59,1:35.91,Lisa L White,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Butterfly,SCY,W,55-59,3:38.27,Lisa L White,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Individual Medley,SCY,W,55-59,1:24.24,Stacey M Eicks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Individual Medley,SCY,W,55-59,1:34.90,Lisa L White,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MOB,50 Y Freestyle,SCY,W,60-64,37.41,Leslie Schueckler,,2018 Texas Senior Games,2018,1
+WMST,100 Y Freestyle,SCY,W,60-64,1:11.92,Mary Anne Hines,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+MACA,100 Y Freestyle,SCY,W,60-64,1:45.12,Lynn A Cadena,,2018 Texas Senior Games,2018,2
+COOG,200 Y Freestyle,SCY,W,60-64,2:42.17,Karlene Denby,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+MOB,200 Y Freestyle,SCY,W,60-64,3:02.80,Leslie Schueckler,,2018 Texas Senior Games,2018,2
+WMST,500 Y Freestyle,SCY,W,60-64,6:51.13,Mary Anne Hines,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,500 Y Freestyle,SCY,W,60-64,6:59.51,Karlene Denby,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+MACA,500 Y Freestyle,SCY,W,60-64,9:55.58,Lynn A Cadena,,2018 Texas Senior Games,2018,3
+COOG,1000 Y Freestyle,SCY,W,60-64,14:27.22,Karlene Denby,,2018 Sweetheart Swim,2018,1
+COOG,1650 Y Freestyle,SCY,W,60-64,23:48.68,Karlene Denby,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,50 Y Backstroke,SCY,W,60-64,39.06,Karlene Denby,,DAM Spring Short Course Yards Swim Meet,2018,1
+MOB,50 Y Backstroke,SCY,W,60-64,48.36,Leslie Schueckler,,2018 Texas Senior Games,2018,2
+COOG,100 Y Backstroke,SCY,W,60-64,1:24.74,Karlene Denby,,DAM Spring Short Course Yards Swim Meet,2018,1
+MOB,100 Y Backstroke,SCY,W,60-64,1:46.27,Leslie Schueckler,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,200 Y Backstroke,SCY,W,60-64,2:58.50,Karlene Denby,,DAM Spring Short Course Yards Swim Meet,2018,1
+CFSC,50 Y Breaststroke,SCY,W,60-64,43.26,Susan Honeywell,,2018 Sweetheart Swim,2018,1
+MOB,50 Y Breaststroke,SCY,W,60-64,50.21,Leslie Schueckler,,2018 Texas Senior Games,2018,2
+MACA,50 Y Breaststroke,SCY,W,60-64,59.49,Lynn A Cadena,,2018 Sweetheart Swim,2018,3
+CFSC,100 Y Breaststroke,SCY,W,60-64,1:38.87,Susan Honeywell,,2018 Sweetheart Swim,2018,1
+MOB,100 Y Breaststroke,SCY,W,60-64,1:49.87,Leslie Schueckler,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MACA,100 Y Breaststroke,SCY,W,60-64,2:18.57,Lynn A Cadena,,2018 Sweetheart Swim,2018,3
+CFSC,200 Y Breaststroke,SCY,W,60-64,3:33.38,Susan Honeywell,,2018 Sweetheart Swim,2018,1
+MOB,200 Y Breaststroke,SCY,W,60-64,4:02.66,Leslie Schueckler,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MACA,200 Y Breaststroke,SCY,W,60-64,4:33.63,Lynn A Cadena,,2018 Texas Senior Games,2018,3
+MOB,50 Y Butterfly,SCY,W,60-64,46.63,Leslie Schueckler,,2018 Texas Senior Games,2018,1
+MOB,100 Y Individual Medley,SCY,W,60-64,1:38.15,Leslie Schueckler,,2018 Texas Senior Games,2018,1
+MACA,100 Y Individual Medley,SCY,W,60-64,2:04.70,Lynn A Cadena,,2018 Texas Senior Games,2018,2
+FBMS,50 Y Freestyle,SCY,W,65-69,32.36,Jane A Harper,,Coastal Master's Invitational,2018,1
+RICE,50 Y Freestyle,SCY,W,65-69,32.40,Suzy Reierson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+WMST,50 Y Freestyle,SCY,W,65-69,32.99,Deb S Coellner,,National Senior Games,2018,3
+FBMS,100 Y Freestyle,SCY,W,65-69,1:13.35,Jane A Harper,,Coastal Master's Invitational,2018,1
+RICE,100 Y Freestyle,SCY,W,65-69,1:38.53,Judy Levison,,2018 Sweetheart Swim,2018,2
+WMST,200 Y Freestyle,SCY,W,65-69,2:47.38,Sue A Bloomfield,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,500 Y Freestyle,SCY,W,65-69,7:14.24,Sue A Bloomfield,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,500 Y Freestyle,SCY,W,65-69,7:22.31,Suzy Reierson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,500 Y Freestyle,SCY,W,65-69,9:09.50,Judy Levison,,2018 Sweetheart Swim,2018,3
+RICE,1000 Y Freestyle,SCY,W,65-69,15:00.20,Judy Levison,,2018 Sweetheart Swim,2018,1
+WMST,1000 Y Freestyle,SCY,W,65-69,15:27.82,Sue A Bloomfield,,Jesse Coon Memorial Swim Meet (MOB),2018,2
+RICE,50 Y Backstroke,SCY,W,65-69,38.35,Suzy Reierson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+FBMS,50 Y Backstroke,SCY,W,65-69,40.50,Jane A Harper,,Coastal Master's Invitational,2018,2
+RICE,100 Y Backstroke,SCY,W,65-69,1:29.73,Suzy Reierson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,200 Y Backstroke,SCY,W,65-69,3:09.08,Suzy Reierson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UC25,50 Y Breaststroke,SCY,W,65-69,38.69,Deb S Coellner,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+FBMS,50 Y Breaststroke,SCY,W,65-69,43.01,Jane A Harper,,Coastal Master's Invitational,2018,2
+RICE,50 Y Breaststroke,SCY,W,65-69,52.15,Judy Levison,,2018 Sweetheart Swim,2018,3
+WMST,100 Y Breaststroke,SCY,W,65-69,1:28.23,Deb S Coellner,,National Senior Games,2018,1
+FBMS,100 Y Breaststroke,SCY,W,65-69,1:32.50,Jane A Harper,,Coastal Master's Invitational,2018,2
+RICE,100 Y Breaststroke,SCY,W,65-69,1:51.73,Judy Levison,,2018 Sweetheart Swim,2018,3
+WMST,200 Y Breaststroke,SCY,W,65-69,3:35.44,Sue A Bloomfield,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Butterfly,SCY,W,65-69,1:43.29,Sue A Bloomfield,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Individual Medley,SCY,W,65-69,3:20.97,Sue A Bloomfield,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+WMST,400 Y Individual Medley,SCY,W,65-69,6:53.56,Sue A Bloomfield,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Freestyle,SCY,W,70-74,2:40.34,Carolyn Boak,,Rice Aquatics Masters March Madness,2018,1
+MOB,100 Y Backstroke,SCY,W,70-74,2:04.44,Jane R Cobos,,National Senior Games,2018,1
+MOB,200 Y Backstroke,SCY,W,70-74,4:26.76,Jane R Cobos,,National Senior Games,2018,1
+WMST,200 Y Butterfly,SCY,W,70-74,3:13.93,Carolyn Boak,,Rice Aquatics Masters March Madness,2018,1
+WMST,50 Y Freestyle,SCY,W,75-79,41.24,Joann Leilich,,Colonies Zone SCY Championship,2018,1
+SWYM,50 Y Freestyle,SCY,W,75-79,1:12.07,Mary Anne M Janish,,2018 Texas Senior Games,2018,2
+SWYM,100 Y Freestyle,SCY,W,75-79,2:25.69,Mary Anne M Janish,,2018 Texas Senior Games,2018,1
+WMST,200 Y Freestyle,SCY,W,75-79,3:17.76,Joann Leilich,,2018 Sweetheart Swim,2018,1
+SWYM,200 Y Freestyle,SCY,W,75-79,5:15.91,Mary Anne M Janish,,2018 Texas Senior Games,2018,2
+WMST,500 Y Freestyle,SCY,W,75-79,8:29.48,Joann Leilich,,Rice Aquatics Masters March Madness,2018,1
+SWYM,500 Y Freestyle,SCY,W,75-79,13:37.60,Mary Anne M Janish,,2018 Texas Senior Games,2018,2
+SWYM,100 Y Backstroke,SCY,W,75-79,3:10.98,Mary Anne M Janish,,2018 Texas Senior Games,2018,1
+SWYM,200 Y Backstroke,SCY,W,75-79,6:27.50,Mary Anne M Janish,,2018 Texas Senior Games,2018,1
+WMST,50 Y Breaststroke,SCY,W,75-79,45.18,Joann Leilich,,YMCA Masters National Meet,2018,1
+WMST,100 Y Breaststroke,SCY,W,75-79,1:35.52,Joann Leilich,,Rice Aquatics Masters March Madness,2018,1
+WMST,200 Y Breaststroke,SCY,W,75-79,3:34.88,Joann Leilich,,YMCA Masters National Meet,2018,1
+WMST,100 Y Individual Medley,SCY,W,75-79,1:37.67,Joann Leilich,,Rice Aquatics Masters March Madness,2018,1
+WMST,200 Y Individual Medley,SCY,W,75-79,3:30.49,Joann Leilich,,2018 Sweetheart Swim,2018,1
+RICE,50 Y Freestyle,SCY,W,80-84,45.32,Carol A Mungavin,,National Senior Games,2018,1
+RICE,100 Y Freestyle,SCY,W,80-84,1:48.14,Carol A Mungavin,,National Senior Games,2018,1
+RICE,200 Y Freestyle,SCY,W,80-84,3:55.88,Carol A Mungavin,,National Senior Games,2018,1
+RICE,500 Y Freestyle,SCY,W,80-84,0.00,Carol A Mungavin,,2018 Texas Senior Games,2018,1
+RICE,50 Y Backstroke,SCY,W,80-84,59.54,Carol A Mungavin,,National Senior Games,2018,1
+RICE,50 Y Breaststroke,SCY,W,80-84,1:10.73,Carol A Mungavin,,National Senior Games,2018,1
+PACK,50 Y Freestyle,SCY,M,18-24,21.95,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,50 Y Freestyle,SCY,M,18-24,22.59,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,50 Y Freestyle,SCY,M,18-24,24.47,Shawn Wallace,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+CFSC,50 Y Freestyle,SCY,M,18-24,25.94,Armand G Sisante,,Rice Aquatics Masters March Madness,2018,4
+MOB,50 Y Freestyle,SCY,M,18-24,44.18,Frederick A Evans,,Jesse Coon Memorial Swim Meet (MOB),2018,5
+PACK,100 Y Freestyle,SCY,M,18-24,48.02,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,100 Y Freestyle,SCY,M,18-24,49.92,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,100 Y Freestyle,SCY,M,18-24,53.20,Shawn Wallace,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+CFSC,100 Y Freestyle,SCY,M,18-24,58.94,Armand G Sisante,,Rice Aquatics Masters March Madness,2018,4
+PACK,200 Y Freestyle,SCY,M,18-24,1:46.97,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UC25,200 Y Freestyle,SCY,M,18-24,2:00.97,Shawn Wallace,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+PACK,500 Y Freestyle,SCY,M,18-24,4:59.01,Kyle B Hendricks,,2018 Sweetheart Swim,2018,1
+PACK,1000 Y Freestyle,SCY,M,18-24,10:45.89,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+PACK,1650 Y Freestyle,SCY,M,18-24,17:56.12,Kyle B Hendricks,,DAM Spring Short Course Yards Swim Meet,2018,1
+PACK,50 Y Backstroke,SCY,M,18-24,24.40,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+PACK,100 Y Backstroke,SCY,M,18-24,53.15,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,100 Y Backstroke,SCY,M,18-24,1:01.75,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+PACK,200 Y Backstroke,SCY,M,18-24,1:59.99,Kyle B Hendricks,,2018 Sweetheart Swim,2018,1
+PACK,50 Y Breaststroke,SCY,M,18-24,27.64,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+CFSC,50 Y Breaststroke,SCY,M,18-24,32.19,Armand G Sisante,,2018 Sweetheart Swim,2018,2
+MOB,50 Y Breaststroke,SCY,M,18-24,57.72,Frederick A Evans,,Jesse Coon Memorial Swim Meet (MOB),2018,3
+PACK,100 Y Breaststroke,SCY,M,18-24,1:00.01,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,100 Y Breaststroke,SCY,M,18-24,1:02.51,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+CFSC,100 Y Breaststroke,SCY,M,18-24,1:10.31,Armand G Sisante,,Rice Aquatics Masters March Madness,2018,3
+MOB,100 Y Breaststroke,SCY,M,18-24,1:58.17,Frederick A Evans,,Jesse Coon Memorial Swim Meet (MOB),2018,4
+PACK,200 Y Breaststroke,SCY,M,18-24,2:14.22,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+PACK,50 Y Butterfly,SCY,M,18-24,23.16,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UC25,50 Y Butterfly,SCY,M,18-24,27.48,Shawn Wallace,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MOB,50 Y Butterfly,SCY,M,18-24,1:05.53,Frederick A Evans,,Jesse Coon Memorial Swim Meet (MOB),2018,3
+PACK,100 Y Butterfly,SCY,M,18-24,50.54,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,100 Y Butterfly,SCY,M,18-24,1:00.09,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,100 Y Butterfly,SCY,M,18-24,1:02.42,Shawn Wallace,,The Need for Speed,2018,3
+PACK,200 Y Butterfly,SCY,M,18-24,1:57.31,Kyle B Hendricks,,Rice Aquatics Masters March Madness,2018,1
+PACK,100 Y Individual Medley,SCY,M,18-24,53.39,Kyle B Hendricks,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UH20,100 Y Individual Medley,SCY,M,18-24,56.75,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+PACK,200 Y Individual Medley,SCY,M,18-24,2:01.82,Kyle B Hendricks,,2018 Sweetheart Swim,2018,1
+UH20,200 Y Individual Medley,SCY,M,18-24,2:06.71,Brian Ruggles,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+PACK,400 Y Individual Medley,SCY,M,18-24,4:29.07,Kyle B Hendricks,,2018 Sweetheart Swim,2018,1
+WMST,50 Y Freestyle,SCY,M,25-29,22.64,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Freestyle,SCY,M,25-29,23.25,Michael Peron,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UH20,50 Y Freestyle,SCY,M,25-29,23.55,Robert J Clark,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+CFSC,50 Y Freestyle,SCY,M,25-29,23.74,Tyler N McFarland,,2018 Sweetheart Swim,2018,4
+RICE,50 Y Freestyle,SCY,M,25-29,24.01,Andrew J Corman,,Rice Aquatics Masters March Madness,2018,5
+ROCC,50 Y Freestyle,SCY,M,25-29,25.90,Michael Kain,,2018 Sweetheart Swim,2018,6
+RICE,50 Y Freestyle,SCY,M,25-29,27.08,Sebastian E Leal,,Rice Aquatics Masters March Madness,2018,7
+COOG,50 Y Freestyle,SCY,M,25-29,28.73,Philip N Bich,,2018 Sweetheart Swim,2018,8
+SCAT,50 Y Freestyle,SCY,M,25-29,30.59,William M Duong,,2018 Sweetheart Swim,2018,9
+COOG,50 Y Freestyle,SCY,M,25-29,39.14,Pedro E Pinto,,2018 Sweetheart Swim,2018,10
+RICE,100 Y Freestyle,SCY,M,25-29,43.97,William J Wagner,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Freestyle,SCY,M,25-29,49.11,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,100 Y Freestyle,SCY,M,25-29,49.40,Ryan A Littlefield,,Rice Aquatics Masters March Madness,2018,3
+RICE,100 Y Freestyle,SCY,M,25-29,50.10,Michael Peron,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+CFSC,100 Y Freestyle,SCY,M,25-29,52.02,Tyler N McFarland,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+UH20,100 Y Freestyle,SCY,M,25-29,52.63,Robert J Clark,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,6
+RICE,100 Y Freestyle,SCY,M,25-29,52.99,Wing Lam,,Rice Aquatics Masters March Madness,2018,7
+RICE,100 Y Freestyle,SCY,M,25-29,53.16,Vitor Villar,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,8
+RICE,100 Y Freestyle,SCY,M,25-29,53.24,Andrew J Corman,,Rice Aquatics Masters March Madness,2018,9
+RICE,100 Y Freestyle,SCY,M,25-29,1:01.38,Sebastian E Leal,,Rice Aquatics Masters March Madness,2018,10
+SCAT,100 Y Freestyle,SCY,M,25-29,1:08.36,William M Duong,,2018 Sweetheart Swim,2018,11
+COOG,100 Y Freestyle,SCY,M,25-29,1:27.55,Pedro E Pinto,,2018 Sweetheart Swim,2018,12
+RICE,200 Y Freestyle,SCY,M,25-29,1:47.38,Rodolfo Escalante,,Rice Aquatics Masters March Madness,2018,1
+RICE,200 Y Freestyle,SCY,M,25-29,1:47.42,Ryan A Littlefield,,Rice Aquatics Masters March Madness,2018,2
+RICE,200 Y Freestyle,SCY,M,25-29,1:58.75,Vitor Villar,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+UH20,200 Y Freestyle,SCY,M,25-29,2:03.67,Robert J Clark,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+RICE,500 Y Freestyle,SCY,M,25-29,5:07.26,Rodolfo Escalante,,Rice Aquatics Masters March Madness,2018,1
+UH20,500 Y Freestyle,SCY,M,25-29,5:35.39,Robert J Clark,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+SCAT,500 Y Freestyle,SCY,M,25-29,7:39.58,William M Duong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+WMST,50 Y Backstroke,SCY,M,25-29,26.08,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Backstroke,SCY,M,25-29,33.12,Philip N Bich,,2018 Sweetheart Swim,2018,2
+RICE,50 Y Backstroke,SCY,M,25-29,37.00,Sebastian E Leal,,Rice Aquatics Masters March Madness,2018,3
+SCAT,50 Y Backstroke,SCY,M,25-29,43.96,William M Duong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+RICE,100 Y Backstroke,SCY,M,25-29,50.36,Austin J Surhoff,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Backstroke,SCY,M,25-29,56.24,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UH20,100 Y Backstroke,SCY,M,25-29,1:05.51,Robert J Clark,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+RICE,100 Y Backstroke,SCY,M,25-29,1:10.24,John E Ezaki,,Rice Aquatics Masters March Madness,2018,4
+WMST,200 Y Backstroke,SCY,M,25-29,2:06.37,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,50 Y Breaststroke,SCY,M,25-29,27.68,Andrew D Smiddy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Breaststroke,SCY,M,25-29,30.17,Andrew J Corman,,Rice Aquatics Masters March Madness,2018,2
+RICE,50 Y Breaststroke,SCY,M,25-29,30.55,Michael Peron,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+RICE,50 Y Breaststroke,SCY,M,25-29,30.83,Vitor Villar,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+ROCC,50 Y Breaststroke,SCY,M,25-29,33.64,Michael Kain,,2018 Sweetheart Swim,2018,5
+SCAT,50 Y Breaststroke,SCY,M,25-29,41.15,William M Duong,,2018 Sweetheart Swim,2018,6
+WMST,100 Y Breaststroke,SCY,M,25-29,1:00.03,Andrew D Smiddy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Breaststroke,SCY,M,25-29,2:14.32,Andrew D Smiddy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,50 Y Butterfly,SCY,M,25-29,24.61,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Butterfly,SCY,M,25-29,25.14,Michael Peron,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,50 Y Butterfly,SCY,M,25-29,30.68,Philip N Bich,,2018 Sweetheart Swim,2018,3
+RICE,50 Y Butterfly,SCY,M,25-29,33.20,Sebastian E Leal,,Rice Aquatics Masters March Madness,2018,4
+SCAT,50 Y Butterfly,SCY,M,25-29,34.65,William M Duong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+CFSC,100 Y Butterfly,SCY,M,25-29,56.72,Tyler N McFarland,,2018 Sweetheart Swim,2018,1
+RICE,100 Y Butterfly,SCY,M,25-29,59.96,Wing Lam,,Rice Aquatics Masters March Madness,2018,2
+SCAT,100 Y Butterfly,SCY,M,25-29,1:21.68,William M Duong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+WMST,100 Y Individual Medley,SCY,M,25-29,55.98,Andrew D Smiddy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Individual Medley,SCY,M,25-29,56.46,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,100 Y Individual Medley,SCY,M,25-29,58.58,Andrew J Corman,,Rice Aquatics Masters March Madness,2018,3
+CFSC,100 Y Individual Medley,SCY,M,25-29,58.59,Tyler N McFarland,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+RICE,100 Y Individual Medley,SCY,M,25-29,59.21,Michael Peron,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+RICE,100 Y Individual Medley,SCY,M,25-29,1:00.35,Wing Lam,,Rice Aquatics Masters March Madness,2018,6
+UH20,100 Y Individual Medley,SCY,M,25-29,1:02.14,Robert J Clark,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,7
+RICE,100 Y Individual Medley,SCY,M,25-29,1:04.18,John E Ezaki,,Rice Aquatics Masters March Madness,2018,8
+SCAT,100 Y Individual Medley,SCY,M,25-29,1:20.13,William M Duong,,2018 Sweetheart Swim,2018,9
+WMST,200 Y Individual Medley,SCY,M,25-29,2:02.15,Andrew D Smiddy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,200 Y Individual Medley,SCY,M,25-29,2:02.24,Rodolfo Escalante,,Rice Aquatics Masters March Madness,2018,2
+WMST,200 Y Individual Medley,SCY,M,25-29,2:06.20,Mark Reeves,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+RICE,200 Y Individual Medley,SCY,M,25-29,2:14.62,Wing Lam,,Rice Aquatics Masters March Madness,2018,4
+RICE,200 Y Individual Medley,SCY,M,25-29,2:21.91,John E Ezaki,,Rice Aquatics Masters March Madness,2018,5
+SCAT,200 Y Individual Medley,SCY,M,25-29,3:01.96,William M Duong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,6
+DADS,50 Y Freestyle,SCY,M,30-34,21.90,YASUSHI HASHIOKA,,Rice Aquatics Masters March Madness,2018,1
+PEAQ,50 Y Freestyle,SCY,M,30-34,27.00,Guillermo J Ortiz,,Rice Aquatics Masters March Madness,2018,2
+AMBU,50 Y Freestyle,SCY,M,30-34,27.90,Calvin J Rowland,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+UC25,50 Y Freestyle,SCY,M,30-34,32.33,Kyle S Mendel,,2018 Sweetheart Swim,2018,4
+MOB,50 Y Freestyle,SCY,M,30-34,41.05,John Bohnsack,,Jesse Coon Memorial Swim Meet (MOB),2018,5
+DADS,100 Y Freestyle,SCY,M,30-34,48.25,YASUSHI HASHIOKA,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Freestyle,SCY,M,30-34,52.47,Wing Lam,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,100 Y Freestyle,SCY,M,30-34,56.72,Cody Warrick,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+PEAQ,100 Y Freestyle,SCY,M,30-34,1:00.64,Guillermo J Ortiz,,Rice Aquatics Masters March Madness,2018,4
+AMBU,100 Y Freestyle,SCY,M,30-34,1:04.44,Calvin J Rowland,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+UC25,100 Y Freestyle,SCY,M,30-34,1:17.56,Kyle S Mendel,,2018 Sweetheart Swim,2018,6
+MOB,100 Y Freestyle,SCY,M,30-34,1:30.17,John Bohnsack,,Jesse Coon Memorial Swim Meet (MOB),2018,7
+AMBU,200 Y Freestyle,SCY,M,30-34,2:22.93,Calvin J Rowland,,Rice Aquatics Masters March Madness,2018,1
+UC25,200 Y Freestyle,SCY,M,30-34,3:13.44,Kyle S Mendel,,2018 Sweetheart Swim,2018,2
+UC25,500 Y Freestyle,SCY,M,30-34,9:05.85,Kyle S Mendel,,2018 Sweetheart Swim,2018,1
+MOB,500 Y Freestyle,SCY,M,30-34,9:45.49,John Bohnsack,,Jesse Coon Memorial Swim Meet (MOB),2018,2
+WMST,50 Y Backstroke,SCY,M,30-34,30.53,JING YANG,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+PEAQ,100 Y Backstroke,SCY,M,30-34,1:16.93,Guillermo J Ortiz,,Rice Aquatics Masters March Madness,2018,1
+AMBU,100 Y Backstroke,SCY,M,30-34,1:17.42,Calvin J Rowland,,Rice Aquatics Masters March Madness,2018,2
+AMBU,50 Y Breaststroke,SCY,M,30-34,41.30,Calvin J Rowland,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+AMBU,50 Y Butterfly,SCY,M,30-34,23.59,Daniel McCleary,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,50 Y Butterfly,SCY,M,30-34,25.74,Wing Lam,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+WMST,50 Y Butterfly,SCY,M,30-34,27.32,JING YANG,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+UC43,50 Y Butterfly,SCY,M,30-34,31.28,Guillermo J Ortiz,,2018 Sweetheart Swim,2018,4
+AMBU,50 Y Butterfly,SCY,M,30-34,31.91,Calvin J Rowland,,Rice Aquatics Masters March Madness,2018,5
+AMBU,100 Y Butterfly,SCY,M,30-34,51.52,Daniel McCleary,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,100 Y Butterfly,SCY,M,30-34,58.01,Wing Lam,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+WMST,100 Y Butterfly,SCY,M,30-34,59.39,JING YANG,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+AMBU,200 Y Butterfly,SCY,M,30-34,1:53.74,Daniel McCleary,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+WMST,200 Y Butterfly,SCY,M,30-34,2:14.79,JING YANG,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,100 Y Individual Medley,SCY,M,30-34,59.76,Wing Lam,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Individual Medley,SCY,M,30-34,1:02.85,JING YANG,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,100 Y Individual Medley,SCY,M,30-34,1:06.44,Cody Warrick,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+PEAQ,100 Y Individual Medley,SCY,M,30-34,1:10.96,Guillermo J Ortiz,,Rice Aquatics Masters March Madness,2018,4
+AMBU,100 Y Individual Medley,SCY,M,30-34,1:14.40,Calvin J Rowland,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,5
+RICE,200 Y Individual Medley,SCY,M,30-34,2:14.81,Wing Lam,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Individual Medley,SCY,M,30-34,2:21.12,JING YANG,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,50 Y Freestyle,SCY,M,35-39,23.93,OSCAR I BERMUDEZ,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+UC25,50 Y Freestyle,SCY,M,35-39,27.02,Trevor A Hall,,Rice Aquatics Masters March Madness,2018,2
+RICE,50 Y Freestyle,SCY,M,35-39,27.04,Timothy C Chung,,2018 Sweetheart Swim,2018,3
+DADS,50 Y Freestyle,SCY,M,35-39,28.06,Stephen J Seals,,2018 Sweetheart Swim,2018,4
+WMST,100 Y Freestyle,SCY,M,35-39,52.92,Gabriel Melo,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+DADS,100 Y Freestyle,SCY,M,35-39,1:05.05,Stephen J Seals,,2018 Sweetheart Swim,2018,2
+UC25,100 Y Freestyle,SCY,M,35-39,1:05.42,Trevor A Hall,,Rice Aquatics Masters March Madness,2018,3
+RICE,200 Y Freestyle,SCY,M,35-39,1:56.32,Timothy C Chung,,2018 Sweetheart Swim,2018,1
+UC25,200 Y Freestyle,SCY,M,35-39,2:12.96,Geoffrey Konopka,,2018 Sweetheart Swim,2018,2
+RICE,50 Y Backstroke,SCY,M,35-39,27.11,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Backstroke,SCY,M,35-39,30.34,OSCAR I BERMUDEZ,,Rice Aquatics Masters March Madness,2018,2
+DADS,50 Y Backstroke,SCY,M,35-39,34.15,Stephen J Seals,,2018 Sweetheart Swim,2018,3
+UC25,50 Y Backstroke,SCY,M,35-39,34.44,Trevor A Hall,,Rice Aquatics Masters March Madness,2018,4
+RICE,100 Y Backstroke,SCY,M,35-39,58.67,Jeremy E Lankford,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Backstroke,SCY,M,35-39,59.18,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,50 Y Breaststroke,SCY,M,35-39,27.89,OSCAR I BERMUDEZ,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,50 Y Breaststroke,SCY,M,35-39,30.21,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,50 Y Breaststroke,SCY,M,35-39,38.52,Trevor A Hall,,Rice Aquatics Masters March Madness,2018,3
+COOG,100 Y Breaststroke,SCY,M,35-39,1:00.94,OSCAR I BERMUDEZ,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,100 Y Breaststroke,SCY,M,35-39,1:06.71,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,200 Y Breaststroke,SCY,M,35-39,2:18.14,OSCAR I BERMUDEZ,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,50 Y Butterfly,SCY,M,35-39,25.85,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Butterfly,SCY,M,35-39,26.77,OSCAR I BERMUDEZ,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+RICE,100 Y Butterfly,SCY,M,35-39,57.59,Timothy C Chung,,2018 Sweetheart Swim,2018,1
+RICE,100 Y Individual Medley,SCY,M,35-39,57.49,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,200 Y Individual Medley,SCY,M,35-39,2:10.99,Timothy C Chung,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,200 Y Individual Medley,SCY,M,35-39,2:12.89,OSCAR I BERMUDEZ,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,200 Y Individual Medley,SCY,M,35-39,2:21.39,Geoffrey Konopka,,2018 Sweetheart Swim,2018,3
+RICE,50 Y Freestyle,SCY,M,40-44,22.49,Dominic R Mastracchio,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+HOST,50 Y Freestyle,SCY,M,40-44,24.95,Martin Lythgoe,,Rice Aquatics Masters March Madness,2018,2
+UC25,50 Y Freestyle,SCY,M,40-44,25.16,Derrick Mauk,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+RICE,100 Y Freestyle,SCY,M,40-44,50.62,Dominic R Mastracchio,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+HOST,200 Y Freestyle,SCY,M,40-44,2:06.55,Martin Lythgoe,,Rice Aquatics Masters March Madness,2018,1
+UC25,50 Y Backstroke,SCY,M,40-44,27.49,Derrick Mauk,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Backstroke,SCY,M,40-44,28.09,Dominic R Mastracchio,,Jesse Coon Memorial Swim Meet (MOB),2018,2
+UC25,100 Y Backstroke,SCY,M,40-44,1:00.35,Derrick Mauk,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,50 Y Breaststroke,SCY,M,40-44,26.06,Jarrod T Marrs,,Rice Aquatics Masters March Madness,2018,1
+WMST,50 Y Breaststroke,SCY,M,40-44,29.91,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,50 Y Breaststroke,SCY,M,40-44,30.83,Dominic R Mastracchio,,2018 Sweetheart Swim,2018,3
+COOG,100 Y Breaststroke,SCY,M,40-44,57.28,Jarrod T Marrs,,Rice Aquatics Masters March Madness,2018,1
+WMST,100 Y Breaststroke,SCY,M,40-44,1:03.36,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,200 Y Breaststroke,SCY,M,40-44,2:06.50,Jarrod T Marrs,,Rice Aquatics Masters March Madness,2018,1
+WMST,200 Y Breaststroke,SCY,M,40-44,2:23.61,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,50 Y Butterfly,SCY,M,40-44,24.86,Dominic R Mastracchio,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+WMST,50 Y Butterfly,SCY,M,40-44,26.24,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+HOST,50 Y Butterfly,SCY,M,40-44,29.45,Martin Lythgoe,,Rice Aquatics Masters March Madness,2018,3
+RICE,100 Y Butterfly,SCY,M,40-44,57.86,Dominic R Mastracchio,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+UC25,100 Y Butterfly,SCY,M,40-44,1:00.21,Derrick Mauk,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+WMST,100 Y Individual Medley,SCY,M,40-44,57.58,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,100 Y Individual Medley,SCY,M,40-44,58.48,Dominic R Mastracchio,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+UC25,100 Y Individual Medley,SCY,M,40-44,1:02.52,Derrick Mauk,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+WMST,200 Y Individual Medley,SCY,M,40-44,2:06.29,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,400 Y Individual Medley,SCY,M,40-44,4:39.62,Jonathan W Armstrong,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Freestyle,SCY,M,45-49,21.89,John F De Groot,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,50 Y Freestyle,SCY,M,45-49,23.00,James W Connolly,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+FCST,50 Y Freestyle,SCY,M,45-49,26.33,CHUN WONG,,Rice Aquatics Masters March Madness,2018,3
+ROCC,50 Y Freestyle,SCY,M,45-49,32.25,Edward C EARLE,,Rice Aquatics Masters March Madness,2018,4
+ROCC,50 Y Freestyle,SCY,M,45-49,36.37,Stephen Smith,,2018 Sweetheart Swim,2018,5
+UC25,50 Y Freestyle,SCY,M,45-49,36.56,Christian Otto,,Adult Mini Meet,2018,6
+KAMS,50 Y Freestyle,SCY,M,45-49,37.08,Lee A Glaesemann,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,7
+RICE,100 Y Freestyle,SCY,M,45-49,48.67,John F De Groot,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+SCAT,100 Y Freestyle,SCY,M,45-49,1:04.40,Edmond Puckett,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+ROCC,100 Y Freestyle,SCY,M,45-49,1:10.04,Rogers Herndon,,2018 Sweetheart Swim,2018,3
+ROCC,100 Y Freestyle,SCY,M,45-49,1:12.19,Edward C EARLE,,2018 Sweetheart Swim,2018,4
+DADS,100 Y Freestyle,SCY,M,45-49,1:15.44,Kevin A Kirk,,2018 Sweetheart Swim,2018,5
+KAMS,100 Y Freestyle,SCY,M,45-49,1:16.82,Lee A Glaesemann,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,6
+ROCC,100 Y Freestyle,SCY,M,45-49,1:22.09,Stephen Smith,,2018 Sweetheart Swim,2018,7
+UC25,100 Y Freestyle,SCY,M,45-49,1:33.81,Christian Otto,,Adult Mini Meet,2018,8
+RICE,200 Y Freestyle,SCY,M,45-49,1:54.78,John F De Groot,,Rice Aquatics Masters March Madness,2018,1
+SCAT,200 Y Freestyle,SCY,M,45-49,2:26.95,Edmond Puckett,,Rice Aquatics Masters March Madness,2018,2
+KAMS,200 Y Freestyle,SCY,M,45-49,2:57.73,Lee A Glaesemann,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+DADS,200 Y Freestyle,SCY,M,45-49,3:10.02,Kevin A Kirk,,2018 Sweetheart Swim,2018,4
+UC25,200 Y Freestyle,SCY,M,45-49,3:21.35,Christian Otto,,Adult Mini Meet,2018,5
+SCAT,500 Y Freestyle,SCY,M,45-49,6:40.46,Edmond Puckett,,Rice Aquatics Masters March Madness,2018,1
+DADS,500 Y Freestyle,SCY,M,45-49,7:23.36,Lawrence Waldron,,2018 Sweetheart Swim,2018,2
+ROCC,500 Y Freestyle,SCY,M,45-49,7:30.56,Rogers Herndon,,2018 Sweetheart Swim,2018,3
+KAMS,500 Y Freestyle,SCY,M,45-49,7:40.17,Lee A Glaesemann,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+ROCC,500 Y Freestyle,SCY,M,45-49,8:11.39,Stephen Smith,,2018 Sweetheart Swim,2018,5
+DADS,1000 Y Freestyle,SCY,M,45-49,14:02.70,Lawrence Waldron,,2018 Sweetheart Swim,2018,1
+KAMS,1000 Y Freestyle,SCY,M,45-49,15:44.63,Lee A Glaesemann,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UC25,1000 Y Freestyle,SCY,M,45-49,20:37.90,Christian Otto,,Adult Mini Meet,2018,3
+RICE,50 Y Backstroke,SCY,M,45-49,26.98,James W Connolly,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+FCST,50 Y Backstroke,SCY,M,45-49,32.49,CHUN WONG,,Rice Aquatics Masters March Madness,2018,2
+MOB,50 Y Backstroke,SCY,M,45-49,34.66,Dan Bryant,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+DADS,50 Y Backstroke,SCY,M,45-49,58.68,Kevin A Kirk,,2018 Sweetheart Swim,2018,4
+RICE,100 Y Backstroke,SCY,M,45-49,1:09.90,James W Connolly,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+MOB,100 Y Backstroke,SCY,M,45-49,1:14.97,Dan Bryant,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MOB,200 Y Backstroke,SCY,M,45-49,2:40.40,Dan Bryant,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Breaststroke,SCY,M,45-49,28.43,James W Connolly,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+FCST,50 Y Breaststroke,SCY,M,45-49,36.82,CHUN WONG,,2018 Sweetheart Swim,2018,2
+MOB,50 Y Breaststroke,SCY,M,45-49,38.05,Dan Bryant,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+ROCC,50 Y Breaststroke,SCY,M,45-49,39.36,Edward C EARLE,,2018 Sweetheart Swim,2018,4
+DADS,50 Y Breaststroke,SCY,M,45-49,46.39,Kevin A Kirk,,2018 Sweetheart Swim,2018,5
+RICE,100 Y Breaststroke,SCY,M,45-49,1:02.23,James W Connolly,,Rice Aquatics Masters March Madness,2018,1
+MOB,100 Y Breaststroke,SCY,M,45-49,1:23.57,Dan Bryant,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+ROCC,100 Y Breaststroke,SCY,M,45-49,1:28.58,Edward C EARLE,,Rice Aquatics Masters March Madness,2018,3
+UC25,100 Y Breaststroke,SCY,M,45-49,1:37.98,Christian Otto,,Adult Mini Meet,2018,4
+DADS,100 Y Breaststroke,SCY,M,45-49,1:49.30,Kevin A Kirk,,2018 Sweetheart Swim,2018,5
+RICE,200 Y Breaststroke,SCY,M,45-49,2:19.48,James W Connolly,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+SCAT,200 Y Breaststroke,SCY,M,45-49,3:10.37,Edmond Puckett,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+FCST,50 Y Butterfly,SCY,M,45-49,30.88,CHUN WONG,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Individual Medley,SCY,M,45-49,57.51,James W Connolly,,2018 Sweetheart Swim,2018,1
+FCST,100 Y Individual Medley,SCY,M,45-49,1:09.87,CHUN WONG,,Rice Aquatics Masters March Madness,2018,2
+MOB,100 Y Individual Medley,SCY,M,45-49,1:11.47,Dan Bryant,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+SCAT,100 Y Individual Medley,SCY,M,45-49,1:18.42,Edmond Puckett,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+DADS,50 Y Freestyle,SCY,M,50-54,24.14,Lars Farestvedt,,2018 Sweetheart Swim,2018,1
+SSSM,50 Y Freestyle,SCY,M,50-54,26.98,Paul Duport,,2018 Sweetheart Swim,2018,2
+TFY,50 Y Freestyle,SCY,M,50-54,31.58,Patrick M Riban,,2018 Sweetheart Swim,2018,3
+COOG,50 Y Freestyle,SCY,M,50-54,43.40,Victor Kaiser,,Rice Aquatics Masters March Madness,2018,4
+UC25,50 Y Freestyle,SCY,M,50-54,50.16,Jonathan E Johnson,,2018 Texas Senior Games,2018,5
+DADS,100 Y Freestyle,SCY,M,50-54,55.13,Lars Farestvedt,,2018 Sweetheart Swim,2018,1
+SSSM,100 Y Freestyle,SCY,M,50-54,57.62,Paul Duport,,2018 Sweetheart Swim,2018,2
+COOG,100 Y Freestyle,SCY,M,50-54,1:04.11,Joe Steiner,,2018 Sweetheart Swim,2018,3
+COOG,100 Y Freestyle,SCY,M,50-54,1:06.35,John M Keen,,2018 Sweetheart Swim,2018,4
+TFY,100 Y Freestyle,SCY,M,50-54,1:10.93,Patrick M Riban,,2018 Sweetheart Swim,2018,5
+COOG,100 Y Freestyle,SCY,M,50-54,1:37.29,Victor Kaiser,,Rice Aquatics Masters March Madness,2018,6
+SWYM,200 Y Freestyle,SCY,M,50-54,2:03.29,Stuart B Muirhead,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,200 Y Freestyle,SCY,M,50-54,2:22.54,John M Keen,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+SWYM,500 Y Freestyle,SCY,M,50-54,5:36.45,Stuart B Muirhead,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,500 Y Freestyle,SCY,M,50-54,6:21.62,John M Keen,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+COOG,500 Y Freestyle,SCY,M,50-54,9:14.27,Victor Kaiser,,Rice Aquatics Masters March Madness,2018,3
+SWYM,1000 Y Freestyle,SCY,M,50-54,12:05.83,Stuart B Muirhead,,2018 Sweetheart Swim,2018,1
+COOG,1000 Y Freestyle,SCY,M,50-54,13:09.26,John M Keen,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+SWYM,1650 Y Freestyle,SCY,M,50-54,19:47.05,Stuart B Muirhead,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,1650 Y Freestyle,SCY,M,50-54,22:25.40,John M Keen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+SWYM,100 Y Backstroke,SCY,M,50-54,1:06.04,Stuart B Muirhead,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+COOG,100 Y Backstroke,SCY,M,50-54,1:22.03,Joe Steiner,,2018 Sweetheart Swim,2018,2
+SWYM,200 Y Backstroke,SCY,M,50-54,2:23.38,Stuart B Muirhead,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UC25,50 Y Breaststroke,SCY,M,50-54,55.51,Jonathan E Johnson,,2018 Texas Senior Games,2018,1
+TFY,100 Y Breaststroke,SCY,M,50-54,1:30.84,Patrick M Riban,,2018 Sweetheart Swim,2018,1
+TFY,200 Y Breaststroke,SCY,M,50-54,3:25.32,Patrick M Riban,,2018 Sweetheart Swim,2018,1
+DADS,50 Y Butterfly,SCY,M,50-54,26.17,Lars Farestvedt,,2018 Sweetheart Swim,2018,1
+SSSM,50 Y Butterfly,SCY,M,50-54,28.95,Paul Duport,,2018 Sweetheart Swim,2018,2
+COOG,50 Y Butterfly,SCY,M,50-54,32.91,Joe Steiner,,2018 Sweetheart Swim,2018,3
+COOG,50 Y Butterfly,SCY,M,50-54,33.64,John M Keen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+DADS,100 Y Butterfly,SCY,M,50-54,58.60,Lars Farestvedt,,2018 Sweetheart Swim,2018,1
+SWYM,100 Y Butterfly,SCY,M,50-54,1:05.45,Stuart B Muirhead,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+COOG,100 Y Butterfly,SCY,M,50-54,1:25.27,John M Keen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+SSSM,100 Y Individual Medley,SCY,M,50-54,1:13.75,Paul Duport,,2018 Sweetheart Swim,2018,1
+COOG,50 Y Freestyle,SCY,M,55-59,24.19,Don Mahaffey,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+SSSM,50 Y Freestyle,SCY,M,55-59,28.06,Stuart Bernau,,2018 Sweetheart Swim,2018,2
+MOB,50 Y Freestyle,SCY,M,55-59,28.45,David R Sahm,,2018 Texas Senior Games,2018,3
+SWYM,50 Y Freestyle,SCY,M,55-59,28.47,Russell L Hubbard,,2018 Sweetheart Swim,2018,4
+MOB,50 Y Freestyle,SCY,M,55-59,28.84,David G Ruff,,Jesse Coon Memorial Swim Meet (MOB),2018,5
+SSSM,50 Y Freestyle,SCY,M,55-59,29.00,Matthew S Paulson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,6
+UC25,50 Y Freestyle,SCY,M,55-59,32.01,Mike R Smotherman,,Rice Aquatics Masters March Madness,2018,7
+MACA,50 Y Freestyle,SCY,M,55-59,35.65,Peter T Foster,,2018 Sweetheart Swim,2018,8
+COOG,100 Y Freestyle,SCY,M,55-59,54.47,Don Mahaffey,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,100 Y Freestyle,SCY,M,55-59,55.13,Dean E Putterman,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,100 Y Freestyle,SCY,M,55-59,55.59,David M Guthrie,,Rice Aquatics Masters March Madness,2018,3
+SWYM,100 Y Freestyle,SCY,M,55-59,1:00.76,Russell L Hubbard,,2018 Sweetheart Swim,2018,4
+MOB,100 Y Freestyle,SCY,M,55-59,1:03.48,David G Ruff,,Jesse Coon Memorial Swim Meet (MOB),2018,5
+UC25,100 Y Freestyle,SCY,M,55-59,1:11.73,Mike R Smotherman,,2018 Sweetheart Swim,2018,6
+MACA,100 Y Freestyle,SCY,M,55-59,1:24.46,Peter T Foster,,2018 Sweetheart Swim,2018,7
+COOG,200 Y Freestyle,SCY,M,55-59,2:08.62,Don Mahaffey,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+SWYM,200 Y Freestyle,SCY,M,55-59,2:15.12,Russell L Hubbard,,2018 Sweetheart Swim,2018,2
+RICE,200 Y Freestyle,SCY,M,55-59,2:21.62,Eric J Thomas,,Rice Aquatics Masters March Madness,2018,3
+MOB,200 Y Freestyle,SCY,M,55-59,2:24.41,David R Sahm,,2018 Texas Senior Games,2018,4
+WMST,200 Y Freestyle,SCY,M,55-59,2:27.61,Doug Allen,,Jesse Coon Memorial Swim Meet (MOB),2018,5
+SSSM,200 Y Freestyle,SCY,M,55-59,2:28.90,Matthew S Paulson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,6
+WMST,500 Y Freestyle,SCY,M,55-59,6:28.21,Doug Allen,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+WMST,1000 Y Freestyle,SCY,M,55-59,13:36.41,Doug Allen,,2018 Sweetheart Swim,2018,1
+WMST,1650 Y Freestyle,SCY,M,55-59,22:39.28,Doug Allen,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+COOG,1650 Y Freestyle,SCY,M,55-59,23:35.44,Don Mahaffey,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,50 Y Backstroke,SCY,M,55-59,26.55,Jay Yarid,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+UC25,50 Y Backstroke,SCY,M,55-59,36.74,Mike R Smotherman,,Rice Aquatics Masters March Madness,2018,2
+RICE,100 Y Backstroke,SCY,M,55-59,59.54,Jay Yarid,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,100 Y Backstroke,SCY,M,55-59,1:03.05,David M Guthrie,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,100 Y Backstroke,SCY,M,55-59,1:14.85,Eric J Thomas,,Rice Aquatics Masters March Madness,2018,3
+UC25,100 Y Backstroke,SCY,M,55-59,1:19.53,Mike R Smotherman,,2018 Sweetheart Swim,2018,4
+RICE,200 Y Backstroke,SCY,M,55-59,2:21.00,Jay Yarid,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,50 Y Breaststroke,SCY,M,55-59,27.52,David M Guthrie,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,50 Y Breaststroke,SCY,M,55-59,30.04,Dean E Putterman,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+MOB,50 Y Breaststroke,SCY,M,55-59,39.28,David R Sahm,,2018 Texas Senior Games,2018,3
+MOB,50 Y Breaststroke,SCY,M,55-59,39.46,David G Ruff,,Jesse Coon Memorial Swim Meet (MOB),2018,4
+UC25,50 Y Breaststroke,SCY,M,55-59,47.98,Mike R Smotherman,,Rice Aquatics Masters March Madness,2018,5
+RICE,100 Y Breaststroke,SCY,M,55-59,1:00.61,David M Guthrie,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,200 Y Breaststroke,SCY,M,55-59,2:12.98,David M Guthrie,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,50 Y Butterfly,SCY,M,55-59,26.10,Bruce C Kone,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+COOG,50 Y Butterfly,SCY,M,55-59,27.67,Don Mahaffey,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+RICE,50 Y Butterfly,SCY,M,55-59,28.94,Timothy E Madden,,Rice Aquatics Masters March Madness,2018,3
+RICE,50 Y Butterfly,SCY,M,55-59,31.04,David G Kehn,,Rice Aquatics Masters March Madness,2018,4
+SWYM,50 Y Butterfly,SCY,M,55-59,31.40,Russell L Hubbard,,2018 Sweetheart Swim,2018,5
+MOB,50 Y Butterfly,SCY,M,55-59,31.91,David G Ruff,,Jesse Coon Memorial Swim Meet (MOB),2018,6
+UC25,50 Y Butterfly,SCY,M,55-59,35.20,Mike R Smotherman,,Rice Aquatics Masters March Madness,2018,7
+SSSM,50 Y Butterfly,SCY,M,55-59,36.92,Matthew S Paulson,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,8
+RICE,100 Y Butterfly,SCY,M,55-59,58.87,Bruce C Kone,,Jesse Coon Memorial Swim Meet (MOB),2018,1
+COOG,100 Y Butterfly,SCY,M,55-59,1:04.56,Don Mahaffey,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,2
+RICE,100 Y Butterfly,SCY,M,55-59,1:04.61,Timothy E Madden,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+SWYM,100 Y Butterfly,SCY,M,55-59,1:07.79,Russell L Hubbard,,2018 Sweetheart Swim,2018,4
+RICE,100 Y Individual Medley,SCY,M,55-59,57.25,David M Guthrie,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+COOG,100 Y Individual Medley,SCY,M,55-59,1:07.78,Don Mahaffey,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,100 Y Individual Medley,SCY,M,55-59,1:08.21,Timothy E Madden,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+RICE,100 Y Individual Medley,SCY,M,55-59,1:12.16,David G Kehn,,Rice Aquatics Masters March Madness,2018,4
+SSSM,100 Y Individual Medley,SCY,M,55-59,1:14.64,Stuart Bernau,,2018 Sweetheart Swim,2018,5
+MOB,100 Y Individual Medley,SCY,M,55-59,1:18.24,David G Ruff,,Jesse Coon Memorial Swim Meet (MOB),2018,6
+UC25,100 Y Individual Medley,SCY,M,55-59,1:25.55,Mike R Smotherman,,2018 Sweetheart Swim,2018,7
+RICE,200 Y Individual Medley,SCY,M,55-59,2:07.82,David M Guthrie,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,1
+RICE,200 Y Individual Medley,SCY,M,55-59,2:31.88,Timothy E Madden,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,200 Y Individual Medley,SCY,M,55-59,2:39.06,David G Kehn,,Rice Aquatics Masters March Madness,2018,3
+SSSM,200 Y Individual Medley,SCY,M,55-59,3:03.23,Stuart Bernau,,2018 Sweetheart Swim,2018,4
+RICE,50 Y Freestyle,SCY,M,60-64,23.15,Bruce C Kone,,Auburn Masters 2018 SCY Invitational,2018,1
+RICE,50 Y Freestyle,SCY,M,60-64,23.98,Gary Schatz,,Rice Aquatics Masters March Madness,2018,2
+RICE,50 Y Freestyle,SCY,M,60-64,24.18,Bruce F Williams,,2018 Texas Senior Games,2018,3
+RICE,50 Y Freestyle,SCY,M,60-64,27.28,David W Childers,,2018 Texas Senior Games,2018,4
+UC25,50 Y Freestyle,SCY,M,60-64,27.40,Byron Haven,,Rice Aquatics Masters March Madness,2018,5
+UH20,50 Y Freestyle,SCY,M,60-64,29.08,Mark Kelly,,2018 Texas Senior Games,2018,6
+UC25,50 Y Freestyle,SCY,M,60-64,29.69,Richard E Flato,,Rice Aquatics Masters March Madness,2018,7
+UC25,50 Y Freestyle,SCY,M,60-64,38.49,Randy Hall,,2018 Texas Senior Games,2018,8
+MACA,50 Y Freestyle,SCY,M,60-64,43.66,Stephen A Mendel,,2018 Sweetheart Swim,2018,9
+RICE,100 Y Freestyle,SCY,M,60-64,54.42,Gary Schatz,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Freestyle,SCY,M,60-64,59.80,David W Childers,,2018 Texas Senior Games,2018,2
+UC25,100 Y Freestyle,SCY,M,60-64,1:03.82,Byron Haven,,Rice Aquatics Masters March Madness,2018,3
+WMST,100 Y Freestyle,SCY,M,60-64,1:04.39,Niels U Wolfhagen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+UH20,100 Y Freestyle,SCY,M,60-64,1:06.54,Mark Kelly,,2018 Texas Senior Games,2018,5
+UC25,100 Y Freestyle,SCY,M,60-64,1:06.90,Richard E Flato,,2018 Sweetheart Swim,2018,6
+RICE,100 Y Freestyle,SCY,M,60-64,1:14.28,Bruce F Williams,,2018 Texas Senior Games,2018,7
+MACA,100 Y Freestyle,SCY,M,60-64,1:39.56,Stephen A Mendel,,2018 Sweetheart Swim,2018,8
+RICE,200 Y Freestyle,SCY,M,60-64,2:04.24,John A Fields,,Rice Aquatics Masters March Madness,2018,1
+WMST,200 Y Freestyle,SCY,M,60-64,2:15.48,Niels U Wolfhagen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+UH20,200 Y Freestyle,SCY,M,60-64,2:31.15,Mark Kelly,,2018 Texas Senior Games,2018,3
+MACA,200 Y Freestyle,SCY,M,60-64,3:37.98,Stephen A Mendel,,2018 Sweetheart Swim,2018,4
+RICE,500 Y Freestyle,SCY,M,60-64,0.00,David W Childers,,2018 Texas Senior Games,2018,1
+RICE,500 Y Freestyle,SCY,M,60-64,5:48.90,John A Fields,,Rice Aquatics Masters March Madness,2018,2
+WMST,500 Y Freestyle,SCY,M,60-64,6:13.09,Niels U Wolfhagen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+UH20,500 Y Freestyle,SCY,M,60-64,7:12.86,Mark Kelly,,2018 Texas Senior Games,2018,4
+MOB,500 Y Freestyle,SCY,M,60-64,7:52.15,Stanley L Woods,,Red River Masters Winter Invitational,2018,5
+MACA,500 Y Freestyle,SCY,M,60-64,9:34.01,Stephen A Mendel,,2018 Sweetheart Swim,2018,6
+WMST,1650 Y Freestyle,SCY,M,60-64,21:07.36,Niels U Wolfhagen,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Backstroke,SCY,M,60-64,26.60,Bruce C Kone,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,50 Y Backstroke,SCY,M,60-64,29.13,Bruce F Williams,,2018 Texas Senior Games,2018,2
+RICE,50 Y Backstroke,SCY,M,60-64,31.12,Gary Schatz,,2018 Sweetheart Swim,2018,3
+UC25,50 Y Backstroke,SCY,M,60-64,33.50,Sergio Vallejo,,National Senior Games,2018,4
+RICE,100 Y Backstroke,SCY,M,60-64,1:02.17,Bruce F Williams,,2018 Texas Senior Games,2018,1
+RICE,100 Y Backstroke,SCY,M,60-64,1:07.82,Gary Schatz,,2018 Sweetheart Swim,2018,2
+RICE,100 Y Backstroke,SCY,M,60-64,1:11.72,David W Childers,,2018 Texas Senior Games,2018,3
+UC25,100 Y Backstroke,SCY,M,60-64,1:12.87,Sergio Vallejo,,National Senior Games,2018,4
+UC25,200 Y Backstroke,SCY,M,60-64,2:36.92,Sergio Vallejo,,National Senior Games,2018,1
+RICE,200 Y Backstroke,SCY,M,60-64,2:43.17,David W Childers,,2018 Texas Senior Games,2018,2
+RICE,200 Y Backstroke,SCY,M,60-64,3:44.16,Bruce C Kone,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+RICE,50 Y Breaststroke,SCY,M,60-64,28.30,Bruce C Kone,,Auburn Masters 2018 SCY Invitational,2018,1
+UC25,50 Y Breaststroke,SCY,M,60-64,34.81,Byron Haven,,Rice Aquatics Masters March Madness,2018,2
+RICE,50 Y Breaststroke,SCY,M,60-64,35.39,Gary Schatz,,2018 Sweetheart Swim,2018,3
+MOB,50 Y Breaststroke,SCY,M,60-64,40.75,Stanley L Woods,,Red River Masters Winter Invitational,2018,4
+UC25,50 Y Breaststroke,SCY,M,60-64,44.43,Randy Hall,,2018 Texas Senior Games,2018,5
+UC25,100 Y Breaststroke,SCY,M,60-64,1:18.09,Byron Haven,,Rice Aquatics Masters March Madness,2018,1
+MOB,100 Y Breaststroke,SCY,M,60-64,1:29.28,Stanley L Woods,,Red River Masters Winter Invitational,2018,2
+MOB,200 Y Breaststroke,SCY,M,60-64,3:23.17,Stanley L Woods,,Red River Masters Winter Invitational,2018,1
+RICE,50 Y Butterfly,SCY,M,60-64,24.36,Bruce C Kone,,Auburn Masters 2018 SCY Invitational,2018,1
+RICE,50 Y Butterfly,SCY,M,60-64,27.07,Gary Schatz,,2018 Sweetheart Swim,2018,2
+RICE,50 Y Butterfly,SCY,M,60-64,27.50,Bruce F Williams,,2018 Texas Senior Games,2018,3
+UC25,50 Y Butterfly,SCY,M,60-64,32.46,Sergio Vallejo,,National Senior Games,2018,4
+UH20,50 Y Butterfly,SCY,M,60-64,34.88,Mark Kelly,,2018 Texas Senior Games,2018,5
+RICE,100 Y Butterfly,SCY,M,60-64,1:09.47,David W Childers,,2018 Texas Senior Games,2018,1
+RICE,100 Y Individual Medley,SCY,M,60-64,1:05.65,Gary Schatz,,Rice Aquatics Masters March Madness,2018,1
+RICE,100 Y Individual Medley,SCY,M,60-64,1:17.95,Bruce F Williams,,2018 Texas Senior Games,2018,2
+UC25,100 Y Individual Medley,SCY,M,60-64,1:18.77,Richard E Flato,,Rice Aquatics Masters March Madness,2018,3
+UH20,100 Y Individual Medley,SCY,M,60-64,1:22.32,Mark Kelly,,2018 Texas Senior Games,2018,4
+UC25,50 Y Freestyle,SCY,M,65-69,26.64,Bruce W Rollins,,National Senior Games,2018,1
+WMST,50 Y Freestyle,SCY,M,65-69,28.13,Greg J Tharp,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,50 Y Freestyle,SCY,M,65-69,30.45,James Smolen,,Rice Aquatics Masters March Madness,2018,3
+DADS,50 Y Freestyle,SCY,M,65-69,34.90,James H Morris,,2018 Sweetheart Swim,2018,4
+DADS,50 Y Freestyle,SCY,M,65-69,51.15,Timothy J Howard,,2018 Sweetheart Swim,2018,5
+UC25,100 Y Freestyle,SCY,M,65-69,59.12,Bruce W Rollins,,National Senior Games,2018,1
+DADS,100 Y Freestyle,SCY,M,65-69,1:21.09,James H Morris,,2018 Sweetheart Swim,2018,2
+MTM,100 Y Freestyle,SCY,M,65-69,1:26.55,George V Rux,,2018 Texas Senior Games,2018,3
+DADS,100 Y Freestyle,SCY,M,65-69,1:50.01,Timothy J Howard,,2018 Sweetheart Swim,2018,4
+WMST,50 Y Backstroke,SCY,M,65-69,32.52,Greg J Tharp,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,100 Y Backstroke,SCY,M,65-69,1:09.48,Greg J Tharp,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Backstroke,SCY,M,65-69,2:34.02,Greg J Tharp,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UC25,50 Y Breaststroke,SCY,M,65-69,35.07,Bruce W Rollins,,National Senior Games,2018,1
+DADS,50 Y Breaststroke,SCY,M,65-69,43.21,James H Morris,,2018 Sweetheart Swim,2018,2
+UC25,50 Y Breaststroke,SCY,M,65-69,43.44,Denison S Coellner,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,3
+UC25,100 Y Breaststroke,SCY,M,65-69,1:25.65,Bruce W Rollins,,2018 Texas Senior Games,2018,1
+DADS,100 Y Breaststroke,SCY,M,65-69,1:40.57,James H Morris,,2018 Sweetheart Swim,2018,2
+UC25,100 Y Breaststroke,SCY,M,65-69,1:43.28,Denison S Coellner,,2018 Nationwide U.S. Masters Swimming Spring National Championship,2018,3
+UC25,200 Y Breaststroke,SCY,M,65-69,2:57.27,Bruce W Rollins,,National Senior Games,2018,1
+UC25,50 Y Butterfly,SCY,M,65-69,0.00,Bruce W Rollins,,2018 Texas Senior Games,2018,1
+WMST,50 Y Butterfly,SCY,M,65-69,30.38,Greg J Tharp,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,50 Y Butterfly,SCY,M,65-69,40.29,James Smolen,,Rice Aquatics Masters March Madness,2018,3
+DADS,50 Y Butterfly,SCY,M,65-69,43.02,James H Morris,,2018 Sweetheart Swim,2018,4
+UC25,100 Y Butterfly,SCY,M,65-69,1:23.42,Bruce W Rollins,,2018 Texas Senior Games,2018,1
+UC25,200 Y Butterfly,SCY,M,65-69,2:46.51,Bruce W Rollins,,National Senior Games,2018,1
+RICE,100 Y Individual Medley,SCY,M,65-69,1:31.25,James Smolen,,Rice Aquatics Masters March Madness,2018,1
+MTM,100 Y Individual Medley,SCY,M,65-69,2:00.84,George V Rux,,2018 Texas Senior Games,2018,2
+DADS,200 Y Individual Medley,SCY,M,65-69,3:54.18,James H Morris,,2018 Sweetheart Swim,2018,1
+UC25,400 Y Individual Medley,SCY,M,65-69,5:45.85,Bruce W Rollins,,National Senior Games,2018,1
+RICE,50 Y Freestyle,SCY,M,70-74,29.50,Rog Hardy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,50 Y Freestyle,SCY,M,70-74,30.17,Thomas D Boak,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+ROCC,50 Y Freestyle,SCY,M,70-74,41.30,Richard W Weekley,,2018 Sweetheart Swim,2018,3
+KAMS,50 Y Freestyle,SCY,M,70-74,45.76,Pieter F Cramerus,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,4
+ROCC,50 Y Freestyle,SCY,M,70-74,50.96,Marshall Ashmore,,2018 Sweetheart Swim,2018,5
+RICE,100 Y Freestyle,SCY,M,70-74,1:07.47,Rog Hardy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+KAMS,100 Y Freestyle,SCY,M,70-74,1:48.19,Pieter F Cramerus,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,200 Y Freestyle,SCY,M,70-74,2:33.62,Rog Hardy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+KAMS,200 Y Freestyle,SCY,M,70-74,3:52.66,Pieter F Cramerus,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+RICE,500 Y Freestyle,SCY,M,70-74,7:07.01,Rog Hardy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+KAMS,500 Y Freestyle,SCY,M,70-74,10:54.43,Pieter F Cramerus,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+KAMS,1000 Y Freestyle,SCY,M,70-74,22:43.23,Pieter F Cramerus,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+KAMS,1650 Y Freestyle,SCY,M,70-74,37:33.91,Pieter F Cramerus,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,50 Y Backstroke,SCY,M,70-74,37.94,Thomas D Boak,,Rice Aquatics Masters March Madness,2018,1
+WMST,100 Y Backstroke,SCY,M,70-74,1:22.47,Thomas D Boak,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,200 Y Backstroke,SCY,M,70-74,3:03.34,Thomas D Boak,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+UC25,50 Y Breaststroke,SCY,M,70-74,38.41,Edward W Jonas,,2018 Texas Senior Games,2018,1
+WMST,50 Y Breaststroke,SCY,M,70-74,38.69,Thomas D Boak,,Rice Aquatics Masters March Madness,2018,2
+RICE,50 Y Breaststroke,SCY,M,70-74,41.40,Rog Hardy,,Rice Aquatics Masters March Madness,2018,3
+WMST,100 Y Breaststroke,SCY,M,70-74,1:26.70,Thomas D Boak,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+RICE,100 Y Breaststroke,SCY,M,70-74,1:28.54,Rog Hardy,,Rice Aquatics Masters March Madness,2018,2
+RICE,200 Y Breaststroke,SCY,M,70-74,3:15.53,Rog Hardy,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+ETEX,50 Y Freestyle,SCY,M,75-79,38.02,Kent Ferguson,,National Senior Games,2018,1
+WMST,50 Y Freestyle,SCY,M,75-79,41.13,Hershel P Glanz,,2018 Texas Senior Games,2018,2
+AMBU,50 Y Freestyle,SCY,M,75-79,45.64,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,3
+SWYM,50 Y Freestyle,SCY,M,75-79,55.63,James D Durham,,2018 Texas Senior Games,2018,4
+WMST,100 Y Freestyle,SCY,M,75-79,1:35.51,Hershel P Glanz,,2018 Sweetheart Swim,2018,1
+AMBU,100 Y Freestyle,SCY,M,75-79,1:44.10,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+WMST,200 Y Freestyle,SCY,M,75-79,3:36.37,Hershel P Glanz,,2018 Texas Senior Games,2018,1
+AMBU,200 Y Freestyle,SCY,M,75-79,3:49.29,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+AMBU,500 Y Freestyle,SCY,M,75-79,10:15.27,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,1
+WMST,50 Y Backstroke,SCY,M,75-79,46.97,Hershel P Glanz,,2018 Sweetheart Swim,2018,1
+AMBU,50 Y Backstroke,SCY,M,75-79,58.61,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+SWYM,50 Y Backstroke,SCY,M,75-79,59.60,James D Durham,,2018 Texas Senior Games,2018,3
+WMST,100 Y Backstroke,SCY,M,75-79,1:41.46,Hershel P Glanz,,2018 Texas Senior Games,2018,1
+AMBU,100 Y Backstroke,SCY,M,75-79,1:59.44,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+SWYM,100 Y Backstroke,SCY,M,75-79,2:12.63,James D Durham,,2018 Texas Senior Games,2018,3
+WMST,200 Y Backstroke,SCY,M,75-79,3:44.49,Hershel P Glanz,,2018 Sweetheart Swim,2018,1
+AMBU,200 Y Backstroke,SCY,M,75-79,4:04.85,Craig A Wood,,2018 MASTERS SOUTH CENTRAL ZONE CHAMPIONSHIPS,2018,2
+SWYM,200 Y Backstroke,SCY,M,75-79,4:47.61,James D Durham,,2018 Sweetheart Swim,2018,3
+ETEX,50 Y Breaststroke,SCY,M,75-79,42.31,Kent Ferguson,,National Senior Games,2018,1
+SWYM,50 Y Breaststroke,SCY,M,75-79,1:03.55,James D Durham,,2018 Sweetheart Swim,2018,2
+ETEX,100 Y Breaststroke,SCY,M,75-79,1:43.03,Kent Ferguson,,National Senior Games,2018,1
+SWYM,100 Y Breaststroke,SCY,M,75-79,2:10.35,James D Durham,,2018 Texas Senior Games,2018,2
+WMST,100 Y Breaststroke,SCY,M,75-79,2:11.34,Hershel P Glanz,,2018 Texas Senior Games,2018,3
+ETEX,200 Y Breaststroke,SCY,M,75-79,4:12.27,Kent Ferguson,,National Senior Games,2018,1
+SWYM,200 Y Breaststroke,SCY,M,75-79,4:31.72,James D Durham,,2018 Sweetheart Swim,2018,2
+ETEX,100 Y Individual Medley,SCY,M,75-79,1:46.73,Kent Ferguson,,National Senior Games,2018,1
+WMST,100 Y Individual Medley,SCY,M,75-79,1:58.86,Hershel P Glanz,,2018 Sweetheart Swim,2018,2
+WMST,200 Y Individual Medley,SCY,M,75-79,4:35.33,Hershel P Glanz,,2018 Texas Senior Games,2018,1
+COOG,100 Y Freestyle,SCY,M,80-84,1:53.98,James W Rosborough,,2018 Sweetheart Swim,2018,1
+MACA,200 Y Freestyle,SCY,M,80-84,4:13.35,L. Waldo Leggett,,National Senior Games,2018,1
+COOG,500 Y Freestyle,SCY,M,80-84,11:02.42,James W Rosborough,,2018 Sweetheart Swim,2018,1
+MACA,500 Y Freestyle,SCY,M,80-84,11:21.65,L. Waldo Leggett,,National Senior Games,2018,2
+MACA,100 Y Backstroke,SCY,M,80-84,2:20.21,L. Waldo Leggett,,National Senior Games,2018,1
+MACA,200 Y Backstroke,SCY,M,80-84,4:53.73,L. Waldo Leggett,,National Senior Games,2018,1
+COOG,50 Y Breaststroke,SCY,M,80-84,55.62,James W Rosborough,,2018 Sweetheart Swim,2018,1
+COOG,100 Y Breaststroke,SCY,M,80-84,2:07.69,James W Rosborough,,2018 Sweetheart Swim,2018,1
+COOG,200 Y Breaststroke,SCY,M,80-84,4:25.51,James W Rosborough,,2018 Sweetheart Swim,2018,1
+MACA,100 Y Individual Medley,SCY,M,80-84,2:10.91,L. Waldo Leggett,,National Senior Games,2018,1
+MACA,200 Y Individual Medley,SCY,M,80-84,5:05.82,L. Waldo Leggett,,National Senior Games,2018,1
+WMST,50 Y Freestyle,SCY,M,90-94,1:08.69,Baker L Shannon,,National Senior Games,2018,1
+WMST,100 Y Freestyle,SCY,M,90-94,3:18.42,Baker L Shannon,,National Senior Games,2018,1
+WMST,200 Y Freestyle,SCY,M,90-94,8:24.75,Baker L Shannon,,National Senior Games,2018,1
+WMST,50 Y Backstroke,SCY,M,90-94,1:31.96,Baker L Shannon,,National Senior Games,2018,1
+WMST,50 Y Breaststroke,SCY,M,90-94,1:38.36,Baker L Shannon,,National Senior Games,2018,1
+WMST,100 Y Breaststroke,SCY,M,90-94,4:11.48,Baker L Shannon,,National Senior Games,2018,1

@@ -1,0 +1,535 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+OREG,50 M Freestyle,LCM,W,18-24,31.37,Trista N Hedlund,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Freestyle,LCM,W,18-24,1:07.71,Trista N Hedlund,,Tualatin Hills Long Course Meet,2005,1
+OREG,800 M Freestyle,LCM,W,18-24,12:11.16,Jennifer E Billings,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,W,18-24,1:20.49,Trista N Hedlund,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Backstroke,LCM,W,18-24,1:37.61,Jennifer E Billings,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,W,18-24,34.76,Trista N Hedlund,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Butterfly,LCM,W,18-24,1:18.84,Trista N Hedlund,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,W,25-29,33.39,Meg A Upshaw,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,25-29,36.37,Anita M McEntarffer,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,W,25-29,43.55,Tiffany A Beers,,Tualatin Hills Long Course Meet,2005,3
+OREG,200 M Freestyle,LCM,W,25-29,4:07.53,Tiffany A Beers,,Tualatin Hills Long Course Meet,2005,1
+OREG,400 M Freestyle,LCM,W,25-29,5:12.57,Jennifer N Alden,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,W,25-29,34.66,Jennifer N Alden,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,W,25-29,1:13.50,Jennifer N Alden,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,W,25-29,1:28.85,Anita M McEntarffer,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,W,25-29,40.89,Jennifer N Alden,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,W,25-29,44.39,Meg A Upshaw,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,W,25-29,33.02,Jennifer N Alden,,Oregon State Games,2005,1
+OREG,50 M Butterfly,LCM,W,25-29,1:07.10,Tiffany A Beers,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,W,25-29,2:50.51,Jennifer N Alden,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,W,30-34,38.04,Zan Z Gibbs,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,30-34,6:04.40,Lisa B Parmentier,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,30-34,7:21.89,Linda H Wong,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,W,30-34,1:40.69,Lisa B Parmentier,,Oregon State Games,2005,1
+OREG,100 M Breaststroke,LCM,W,30-34,1:46.01,Zan Z Gibbs,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,35-39,34.63,Kathy B Marsh,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,W,35-39,35.78,Rachel Skoss,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,W,35-39,36.15,Alison B Moore,,Tualatin Hills Long Course Meet,2005,3
+OREG,50 M Freestyle,LCM,W,35-39,36.39,Stephanie J Simmons,,Oregon State Games,2005,4
+OREG,50 M Freestyle,LCM,W,35-39,40.35,Kathryn E Vanasse,,Tualatin Hills Long Course Meet,2005,5
+OREG,100 M Freestyle,LCM,W,35-39,1:20.72,Susan M Shaw,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,W,35-39,1:32.85,Kathryn E Vanasse,,Tualatin Hills Long Course Meet,2005,2
+MACO,200 M Freestyle,LCM,W,35-39,2:33.10,Laura L Tyrrell,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Freestyle,LCM,W,35-39,2:55.82,Susan M Shaw,,Oregon State Games,2005,2
+OREG,200 M Freestyle,LCM,W,35-39,3:08.37,Stephanie J Simmons,,Oregon State Games,2005,3
+OREG,200 M Freestyle,LCM,W,35-39,3:22.75,Kathryn E Vanasse,,Oregon State Games,2005,4
+MACO,400 M Freestyle,LCM,W,35-39,5:20.96,Laura L Tyrrell,,2005 USMS Long Course Nationals,2005,1
+OREG,400 M Freestyle,LCM,W,35-39,5:52.19,Alison B Moore,,Oregon State Games,2005,2
+MACO,800 M Freestyle,LCM,W,35-39,11:03.20,Laura L Tyrrell,,2005 USMS Long Course Nationals,2005,1
+OREG,800 M Freestyle,LCM,W,35-39,13:30.25,Rachel Skoss,,Oregon State Games,2005,2
+OREG,800 M Freestyle,LCM,W,35-39,14:37.54,Kathryn E Vanasse,,Tualatin Hills Long Course Meet,2005,3
+MACO,1500 M Freestyle,LCM,W,35-39,21:26.85,Laura L Tyrrell,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Backstroke,LCM,W,35-39,1:43.15,Susan M Shaw,,Oregon State Games,2005,1
+OREG,200 M Backstroke,LCM,W,35-39,3:37.10,Susan M Shaw,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,35-39,44.31,Kathy B Marsh,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,W,35-39,45.71,Alison B Moore,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,W,35-39,47.39,Rachel Skoss,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Breaststroke,LCM,W,35-39,1:44.39,Susan M Shaw,,Oregon State Games,2005,1
+OREG,200 M Breaststroke,LCM,W,35-39,3:24.93,Alison B Moore,,Oregon State Games,2005,1
+OREG,200 M Breaststroke,LCM,W,35-39,3:45.36,Susan M Shaw,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Butterfly,LCM,W,35-39,40.17,Kathy B Marsh,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,35-39,3:19.06,Kathy B Marsh,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Individual Medley,LCM,W,35-39,3:23.63,Susan M Shaw,,Oregon State Games,2005,2
+OREG,400 M Individual Medley,LCM,W,35-39,7:16.06,Kathy B Marsh,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,40-44,31.55,Valerie G Jenkins,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,40-44,37.25,Kippi L Odermott,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,W,40-44,37.30,Naomi Steinberg,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,W,40-44,1:05.26,Arlene Delmage,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Freestyle,LCM,W,40-44,1:39.89,Danielle M Thalman,,Oregon State Games,2005,2
+OREG,200 M Freestyle,LCM,W,40-44,2:32.79,Dianne Viales,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,W,40-44,2:36.47,Valerie G Jenkins,,Oregon State Games,2005,2
+OREG,50 M Backstroke,LCM,W,40-44,40.81,Arlene Delmage,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Backstroke,LCM,W,40-44,45.35,Pam J Snider,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Backstroke,LCM,W,40-44,49.87,Kim L Burres,,Oregon State Games,2005,3
+OREG,100 M Backstroke,LCM,W,40-44,1:20.95,Valerie G Jenkins,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,W,40-44,1:24.25,Martina Ralle,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,W,40-44,1:25.57,Arlene Delmage,,2005 USMS Long Course Nationals,2005,3
+OREG,200 M Backstroke,LCM,W,40-44,3:00.95,Martina Ralle,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,40-44,45.55,Pam J Snider,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,W,40-44,49.00,Danielle M Thalman,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,W,40-44,50.65,Kippi L Odermott,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Breaststroke,LCM,W,40-44,1:37.42,Pam J Snider,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Breaststroke,LCM,W,40-44,3:51.13,Danielle M Thalman,,Oregon State Games,2005,1
+OREG,50 M Butterfly,LCM,W,40-44,31.66,Arlene Delmage,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Butterfly,LCM,W,40-44,40.94,Naomi Steinberg,,Oregon State Games,2005,2
+OREG,100 M Butterfly,LCM,W,40-44,1:08.99,Arlene Delmage,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Butterfly,LCM,W,40-44,1:54.92,Kim L Burres,,Oregon State Games,2005,2
+OREG,200 M Butterfly,LCM,W,40-44,2:39.04,Arlene Delmage,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Butterfly,LCM,W,40-44,3:12.94,Martina Ralle,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,W,40-44,3:01.33,Dianne Viales,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,40-44,3:13.79,Pam J Snider,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,W,40-44,4:02.78,Kim L Burres,,Oregon State Games,2005,3
+OREG,400 M Individual Medley,LCM,W,40-44,6:18.06,Martina Ralle,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,45-49,29.58,Karen Andrus-Hughes,,"World Masters Games, US Swimmers Only",2005,1
+MACO,50 M Freestyle,LCM,W,45-49,30.86,Sharon E Foley,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,W,45-49,32.31,Colette M Crabbe,,Tualatin Hills Long Course Meet,2005,3
+OREG,50 M Freestyle,LCM,W,45-49,33.10,Joileen M Latham,,Oregon State Games,2005,4
+OREG,50 M Freestyle,LCM,W,45-49,33.15,Nancy C Vincent,,Oregon State Games,2005,5
+OREG,50 M Freestyle,LCM,W,45-49,38.91,Lynn R Snyder,,Oregon State Games,2005,6
+OREG,50 M Freestyle,LCM,W,45-49,44.33,Gail M Kimberling,,Oregon State Games,2005,7
+OREG,100 M Freestyle,LCM,W,45-49,1:04.84,Karen Andrus-Hughes,,"World Masters Games, US Swimmers Only",2005,1
+MACO,100 M Freestyle,LCM,W,45-49,1:09.18,Sharon E Foley,,2005 USMS Long Course Nationals,2005,2
+OREG,100 M Freestyle,LCM,W,45-49,1:15.14,Nancy C Vincent,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,W,45-49,1:15.68,Joileen M Latham,,Oregon State Games,2005,4
+OREG,100 M Freestyle,LCM,W,45-49,1:25.47,Christina M Fox,,Tualatin Hills Long Course Meet,2005,5
+OREG,200 M Freestyle,LCM,W,45-49,2:27.57,Karen Andrus-Hughes,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,W,45-49,2:31.46,Colette M Crabbe,,Oregon State Games,2005,2
+OREG,200 M Freestyle,LCM,W,45-49,2:49.86,Joileen M Latham,,Oregon State Games,2005,3
+OREG,200 M Freestyle,LCM,W,45-49,2:50.47,Nancy C Vincent,,Oregon State Games,2005,4
+OREG,200 M Freestyle,LCM,W,45-49,3:04.18,Christina M Fox,,Oregon State Games,2005,5
+OREG,200 M Freestyle,LCM,W,45-49,3:32.30,Gail M Kimberling,,Oregon State Games,2005,6
+OREG,400 M Freestyle,LCM,W,45-49,5:52.70,Barb Harris,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,45-49,6:05.98,Joileen M Latham,,Oregon State Games,2005,2
+OREG,800 M Freestyle,LCM,W,45-49,10:57.85,Colette M Crabbe,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Backstroke,LCM,W,45-49,33.78,Karen Andrus-Hughes,,"World Masters Games, US Swimmers Only",2005,1
+OREG,50 M Backstroke,LCM,W,45-49,48.32,Lynn R Snyder,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,W,45-49,1:14.89,Karen Andrus-Hughes,,"World Masters Games, US Swimmers Only",2005,1
+OREG,100 M Backstroke,LCM,W,45-49,1:29.85,Christina M Fox,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,W,45-49,1:44.61,Lynn R Snyder,,Oregon State Games,2005,3
+OREG,200 M Backstroke,LCM,W,45-49,2:45.59,Karen Andrus-Hughes,,"World Masters Games, US Swimmers Only",2005,1
+OREG,200 M Backstroke,LCM,W,45-49,3:14.78,Christina M Fox,,Oregon State Games,2005,2
+MACO,50 M Breaststroke,LCM,W,45-49,43.11,Sharon E Foley,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,45-49,43.73,Nancy C Vincent,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,W,45-49,44.30,Barb Harris,,Oregon State Games,2005,3
+UNAT,50 M Breaststroke,LCM,W,45-49,44.78,Lori E Lamoureux,,Oregon State Games,2005,4
+OREG,50 M Breaststroke,LCM,W,45-49,46.59,Joileen M Latham,,Oregon State Games,2005,5
+OREG,50 M Breaststroke,LCM,W,45-49,49.93,Lynn R Snyder,,Oregon State Games,2005,6
+OREG,100 M Breaststroke,LCM,W,45-49,1:23.89,Colette M Crabbe,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Breaststroke,LCM,W,45-49,1:32.73,Nancy C Vincent,,Oregon State Games,2005,2
+MACO,100 M Breaststroke,LCM,W,45-49,1:35.85,Sharon E Foley,,Oregon State Games,2005,3
+OREG,100 M Breaststroke,LCM,W,45-49,1:41.85,Joileen M Latham,,Oregon State Games,2005,4
+OREG,100 M Breaststroke,LCM,W,45-49,1:43.08,Christina M Fox,,Oregon State Games,2005,5
+OREG,100 M Breaststroke,LCM,W,45-49,2:11.18,Gail M Kimberling,,Oregon State Games,2005,6
+OREG,200 M Breaststroke,LCM,W,45-49,3:20.78,Nancy C Vincent,,Oregon State Games,2005,1
+UNAT,200 M Breaststroke,LCM,W,45-49,3:37.09,Lori E Lamoureux,,Oregon State Games,2005,2
+OREG,200 M Breaststroke,LCM,W,45-49,3:45.24,Lynn R Snyder,,Oregon State Games,2005,3
+OREG,50 M Butterfly,LCM,W,45-49,33.86,Colette M Crabbe,,Tualatin Hills Long Course Meet,2005,1
+MACO,50 M Butterfly,LCM,W,45-49,34.88,Sharon E Foley,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,W,45-49,35.19,Laura A Worden,,Tualatin Hills Long Course Meet,2005,3
+OREG,50 M Butterfly,LCM,W,45-49,53.60,Gail M Kimberling,,Oregon State Games,2005,4
+OREG,100 M Butterfly,LCM,W,45-49,1:11.57,Colette M Crabbe,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Butterfly,LCM,W,45-49,1:20.99,Laura A Worden,,Tualatin Hills Long Course Meet,2005,2
+MACO,100 M Butterfly,LCM,W,45-49,1:23.53,Sharon E Foley,,2005 USMS Long Course Nationals,2005,3
+OREG,200 M Butterfly,LCM,W,45-49,2:37.84,Colette M Crabbe,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Individual Medley,LCM,W,45-49,2:44.74,Colette M Crabbe,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,45-49,3:08.33,Laura A Worden,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,W,45-49,3:21.07,Christina M Fox,,Tualatin Hills Long Course Meet,2005,3
+OREG,400 M Individual Medley,LCM,W,45-49,5:40.96,Colette M Crabbe,,2005 USMS Long Course Nationals,2005,1
+OREG,400 M Individual Medley,LCM,W,45-49,6:39.03,Laura A Worden,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,W,50-54,32.19,Robyn L Richards,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,W,50-54,36.53,Lori L Hollingsworth,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,W,50-54,37.62,Mary Anne Royle,,Oregon State Games,2005,3
+OREG,50 M Freestyle,LCM,W,50-54,52.24,Maggi Young,,Tualatin Hills Long Course Meet,2005,4
+MACO,100 M Freestyle,LCM,W,50-54,1:06.03,Robin B Parisi,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Freestyle,LCM,W,50-54,1:16.00,Robyn L Richards,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Freestyle,LCM,W,50-54,1:25.29,Elke M Asleson,,"World Masters Games, US Swimmers Only",2005,3
+OREG,100 M Freestyle,LCM,W,50-54,1:27.55,Mary Anne Royle,,Oregon State Games,2005,4
+OREG,100 M Freestyle,LCM,W,50-54,1:54.69,Maggi Young,,Tualatin Hills Long Course Meet,2005,5
+OREG,200 M Freestyle,LCM,W,50-54,2:51.66,Elizabeth Budd,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Freestyle,LCM,W,50-54,3:04.38,Lori L Hollingsworth,,Oregon State Games,2005,2
+MACO,400 M Freestyle,LCM,W,50-54,5:24.03,Robin B Parisi,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,50-54,6:29.09,Jody M Welborn,,2005 USMS Long Course Nationals,2005,2
+OREG,400 M Freestyle,LCM,W,50-54,6:43.42,Elke M Asleson,,"World Masters Games, US Swimmers Only",2005,3
+OREG,400 M Freestyle,LCM,W,50-54,7:44.02,Susan K Sanders,,Oregon State Games,2005,4
+OREG,800 M Freestyle,LCM,W,50-54,13:26.37,Lori L Hollingsworth,,Oregon State Games,2005,1
+OREG,1500 M Freestyle,LCM,W,50-54,24:34.65,Jody M Welborn,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Backstroke,LCM,W,50-54,42.27,Elizabeth Budd,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Backstroke,LCM,W,50-54,44.58,Mary Anne Royle,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,W,50-54,1:39.70,Mary Anne Royle,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,50-54,50.48,Robyn L Richards,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,50-54,57.79,Susan K Sanders,,Oregon State Games,2005,2
+OREG,100 M Breaststroke,LCM,W,50-54,1:44.97,Elizabeth Budd,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,W,50-54,36.86,Robyn L Richards,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,W,50-54,42.61,Elke M Asleson,,"World Masters Games, US Swimmers Only",2005,2
+OREG,100 M Butterfly,LCM,W,50-54,1:35.18,Elke M Asleson,,"World Masters Games, US Swimmers Only",2005,1
+MACO,200 M Individual Medley,LCM,W,50-54,2:50.07,Robin B Parisi,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,50-54,3:14.86,Elizabeth Budd,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,W,50-54,3:32.44,Elke M Asleson,,"World Masters Games, US Swimmers Only",2005,3
+MACO,400 M Individual Medley,LCM,W,50-54,6:03.90,Robin B Parisi,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Freestyle,LCM,W,55-59,34.82,Janet Gettling,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,55-59,56.23,Ellen F Quale,,Tualatin Hills Long Course Meet,2005,2
+OREG,800 M Freestyle,LCM,W,55-59,13:44.98,Suzanne L Rague,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Backstroke,LCM,W,55-59,42.57,Janet Gettling,,Oregon State Games,2005,1
+MACO,50 M Backstroke,LCM,W,55-59,45.31,Ginger L Pierson,,2005 USMS Long Course Nationals,2005,2
+OREG,50 M Backstroke,LCM,W,55-59,1:08.95,Ellen F Quale,,Tualatin Hills Long Course Meet,2005,3
+MACO,100 M Backstroke,LCM,W,55-59,1:48.36,Ginger L Pierson,,Oregon State Games,2005,1
+MACO,50 M Breaststroke,LCM,W,55-59,42.15,Ginger L Pierson,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Breaststroke,LCM,W,55-59,44.19,Janet Gettling,,2005 USMS Long Course Nationals,2005,2
+OREG,50 M Breaststroke,LCM,W,55-59,1:08.95,Ellen F Quale,,Tualatin Hills Long Course Meet,2005,3
+MACO,100 M Breaststroke,LCM,W,55-59,1:34.38,Ginger L Pierson,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Breaststroke,LCM,W,55-59,1:40.34,Janet Gettling,,2005 USMS Long Course Nationals,2005,2
+OREG,100 M Breaststroke,LCM,W,55-59,2:49.18,Ellen F Quale,,Tualatin Hills Long Course Meet,2005,3
+MACO,200 M Breaststroke,LCM,W,55-59,3:33.30,Ginger L Pierson,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Butterfly,LCM,W,55-59,39.61,Janet Gettling,,2005 USMS Long Course Nationals,2005,1
+MACO,50 M Butterfly,LCM,W,55-59,47.36,Ginger L Pierson,,Saddleback CC Long Course Meet,2005,2
+MACO,100 M Butterfly,LCM,W,55-59,1:34.09,Ginger L Pierson,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Butterfly,LCM,W,55-59,1:36.77,Janet Gettling,,2005 USMS Long Course Nationals,2005,2
+MACO,200 M Butterfly,LCM,W,55-59,3:26.88,Ginger L Pierson,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Butterfly,LCM,W,55-59,3:42.61,Janet Gettling,,2005 USMS Long Course Nationals,2005,2
+OREG,200 M Individual Medley,LCM,W,55-59,3:34.82,Suzanne L Rague,,Tualatin Hills Long Course Meet,2005,1
+MACO,200 M Individual Medley,LCM,W,55-59,3:35.91,Ginger L Pierson,,Saddleback CC Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,W,60-64,35.44,Barbara Frid,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,60-64,36.20,Joy Ward,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,W,60-64,58.60,Darby M Sitter,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Freestyle,LCM,W,60-64,1:21.99,Barbara Frid,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,60-64,7:39.30,Pam J Himstreet,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,W,60-64,42.72,Joy Ward,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Backstroke,LCM,W,60-64,44.71,Barbara Frid,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,W,60-64,1:31.20,Joy Ward,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Backstroke,LCM,W,60-64,2:43.15,Darby M Sitter,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Backstroke,LCM,W,60-64,3:17.27,Joy Ward,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,60-64,47.66,Barbara Frid,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,60-64,57.92,Pam J Himstreet,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,W,60-64,1:20.41,Darby M Sitter,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Breaststroke,LCM,W,60-64,1:46.37,Barbara Frid,,Oregon State Games,2005,1
+OREG,100 M Breaststroke,LCM,W,60-64,2:08.06,Pam J Himstreet,,Oregon State Games,2005,2
+OREG,200 M Breaststroke,LCM,W,60-64,4:20.19,Pam J Himstreet,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,W,60-64,38.19,Joy Ward,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Butterfly,LCM,W,60-64,40.52,Barbara Frid,,Oregon State Games,2005,2
+OREG,100 M Butterfly,LCM,W,60-64,1:34.11,Joy Ward,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Butterfly,LCM,W,60-64,3:44.97,Joy Ward,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,60-64,3:27.80,Joy Ward,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,60-64,4:14.49,Pam J Himstreet,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,W,60-64,5:37.76,Darby M Sitter,,Tualatin Hills Long Course Meet,2005,3
+OREG,400 M Individual Medley,LCM,W,60-64,8:52.37,Pam J Himstreet,,Tualatin Hills Long Course Meet,2005,1
+MACO,50 M Freestyle,LCM,W,65-69,38.72,Susanne Schumann,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Freestyle,LCM,W,65-69,56.28,Sherin Lance,,Tualatin Hills Long Course Meet,2005,2
+MACO,100 M Freestyle,LCM,W,65-69,1:25.78,Susanne Schumann,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Freestyle,LCM,W,65-69,2:00.24,Kaleo B Schroder,,"World Masters Games, US Swimmers Only",2005,2
+OREG,100 M Freestyle,LCM,W,65-69,2:05.44,Sherin Lance,,Tualatin Hills Long Course Meet,2005,3
+OREG,200 M Freestyle,LCM,W,65-69,4:30.74,Kaleo B Schroder,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,W,65-69,4:39.37,Sherin Lance,,Tualatin Hills Long Course Meet,2005,2
+MACO,400 M Freestyle,LCM,W,65-69,6:45.87,Susanne Schumann,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Backstroke,LCM,W,65-69,1:06.01,Kaleo B Schroder,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,W,65-69,2:11.22,Kaleo B Schroder,,"World Masters Games, US Swimmers Only",2005,1
+OREG,100 M Backstroke,LCM,W,65-69,2:43.95,Sherin Lance,,Tualatin Hills Long Course Meet,2005,2
+MACO,50 M Breaststroke,LCM,W,65-69,52.55,Susanne Schumann,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,W,65-69,1:30.20,Sherin Lance,,Tualatin Hills Long Course Meet,2005,2
+MACO,100 M Breaststroke,LCM,W,65-69,1:51.81,Susanne Schumann,,2005 USMS Long Course Nationals,2005,1
+OREG,100 M Breaststroke,LCM,W,65-69,2:07.16,Peggie H Hodge,,Oregon State Games,2005,2
+OREG,100 M Breaststroke,LCM,W,65-69,2:42.95,Kaleo B Schroder,,"World Masters Games, US Swimmers Only",2005,3
+MACO,200 M Breaststroke,LCM,W,65-69,4:03.09,Susanne Schumann,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Breaststroke,LCM,W,65-69,5:40.01,Kaleo B Schroder,,"World Masters Games, US Swimmers Only",2005,2
+OREG,200 M Butterfly,LCM,W,65-69,4:27.77,Peggie H Hodge,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,W,70-74,2:15.28,Beverly L'Esperance,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,W,70-74,4:41.49,Beverly L'Esperance,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,70-74,10:02.70,Beverly L'Esperance,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,W,70-74,1:10.15,Beverly L'Esperance,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Backstroke,LCM,W,70-74,2:31.36,Beverly L'Esperance,,"World Masters Games, US Swimmers Only",2005,1
+OREG,200 M Backstroke,LCM,W,70-74,5:39.69,Beverly L'Esperance,,Oregon State Games,2005,1
+MACO,50 M Freestyle,LCM,W,75-79,1:09.17,Betsy M Austen,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,75-79,1:16.27,Margaret A Wells,,Tualatin Hills Long Course Meet,2005,2
+MACO,200 M Freestyle,LCM,W,75-79,5:15.34,Betsy M Austen,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,W,75-79,5:50.30,Margaret A Wells,,Tualatin Hills Long Course Meet,2005,2
+MACO,800 M Freestyle,LCM,W,75-79,22:09.23,Betsy M Austen,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,W,75-79,2:44.75,Margaret A Wells,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Individual Medley,LCM,W,75-79,6:47.90,Margaret A Wells,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,W,80-84,1:08.12,Pauline B Stangel,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,W,80-84,2:38.19,Pauline B Stangel,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,W,80-84,5:45.51,Pauline B Stangel,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,W,80-84,12:17.61,Pauline B Stangel,,Oregon State Games,2005,1
+OREG,800 M Freestyle,LCM,W,80-84,23:44.82,Pauline B Stangel,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Backstroke,LCM,W,80-84,3:48.57,Elfie J Stevenin,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Backstroke,LCM,W,80-84,8:07.48,Elfie J Stevenin,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,W,80-84,1:27.05,Pauline B Stangel,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Breaststroke,LCM,W,80-84,6:30.98,Pauline B Stangel,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,W,80-84,2:43.30,Elfie J Stevenin,,Oregon State Games,2005,1
+OREG,100 M Butterfly,LCM,W,80-84,6:15.33,Elfie J Stevenin,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,W,80-84,9:46.43,Elfie J Stevenin,,Tualatin Hills Long Course Meet,2005,1
+OREG,400 M Individual Medley,LCM,W,80-84,21:17.16,Elfie J Stevenin,,Tualatin Hills Long Course Meet,2005,1
+UNAT,50 M Freestyle,LCM,W,85-89,1:49.54,Leola E Baumgartner,,"World Masters Games, US Swimmers Only",2005,1
+UNAT,50 M Backstroke,LCM,W,85-89,1:45.24,Leola E Baumgartner,,"World Masters Games, US Swimmers Only",2005,1
+UNAT,50 M Breaststroke,LCM,W,85-89,2:13.54,Leola E Baumgartner,,"World Masters Games, US Swimmers Only",2005,1
+OREG,50 M Freestyle,LCM,W,90-94,2:21.90,Hilda G Buel,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Backstroke,LCM,W,90-94,2:48.29,Hilda G Buel,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,W,90-94,2:58.60,Hilda G Buel,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,W,90-94,5:11.98,Hilda G Buel,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Individual Medley,LCM,W,90-94,14:32.19,Hilda G Buel,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,M,18-24,28.87,Kevin H Cleary,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,M,18-24,2:27.06,Kevin H Cleary,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,18-24,39.30,Kevin H Cleary,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,M,18-24,2:53.87,Kevin H Cleary,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,M,30-34,32.18,Sam F Louie,,Saddleback CC Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,M,30-34,48.40,Sam F Louie,,Saddleback CC Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,30-34,48.86,Sam F Louie,,Saddleback CC Long Course Meet,2005,1
+MACO,50 M Freestyle,LCM,M,35-39,27.58,Troy A Drawz,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,M,35-39,27.96,Jon-Erik Larsen,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,M,35-39,38.83,Ken M Kramer,,Tualatin Hills Long Course Meet,2005,3
+OREG,200 M Freestyle,LCM,M,35-39,3:18.16,Ken M Kramer,,Tualatin Hills Long Course Meet,2005,1
+MACO,400 M Freestyle,LCM,M,35-39,4:53.43,Troy A Drawz,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,35-39,35.51,Jon-Erik Larsen,,Oregon State Games,2005,1
+OREG,100 M Breaststroke,LCM,M,35-39,1:39.52,Ken M Kramer,,Tualatin Hills Long Course Meet,2005,1
+MACO,50 M Butterfly,LCM,M,35-39,29.44,Troy A Drawz,,Oregon State Games,2005,1
+OREG,50 M Butterfly,LCM,M,35-39,30.92,Jon-Erik Larsen,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,M,40-44,27.67,Steve D Parmentier,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,M,40-44,29.22,Chris Gaarder,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,M,40-44,35.00,Chris E Cox,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,M,40-44,1:02.72,Charles A Mirho,,Oregon State Games,2005,1
+UNAT,100 M Freestyle,LCM,M,40-44,1:04.45,Anthony A Morgan,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Freestyle,LCM,M,40-44,1:12.31,Andrei Karyukin,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,M,40-44,1:19.61,Jeff J Bemrose,,Oregon State Games,2005,4
+OREG,100 M Freestyle,LCM,M,40-44,1:19.78,Chris E Cox,,Tualatin Hills Long Course Meet,2005,5
+MACO,200 M Freestyle,LCM,M,40-44,2:37.10,Tomas Oliva,,2005 USMS Long Course Nationals,2005,1
+OREG,400 M Freestyle,LCM,M,40-44,4:12.26,Dennis G Baker,,2005 USMS Long Course Nationals,2005,1
+OREG,400 M Freestyle,LCM,M,40-44,4:36.82,Doug D Stewart,,Oregon State Games,2005,2
+OREG,400 M Freestyle,LCM,M,40-44,5:27.85,Charles A Mirho,,Oregon State Games,2005,3
+OREG,50 M Backstroke,LCM,M,40-44,32.91,Steve D Parmentier,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,M,40-44,40.20,Chris Gaarder,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Backstroke,LCM,M,40-44,1:40.59,Jeffrey Butson,,Tualatin Hills Long Course Meet,2005,3
+UNAT,100 M Backstroke,LCM,M,40-44,1:13.18,Anthony A Morgan,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Backstroke,LCM,M,40-44,1:14.09,Gano Butcher,,Tualatin Hills Long Course Meet,2005,2
+UNAT,200 M Backstroke,LCM,M,40-44,2:41.87,Anthony A Morgan,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,M,40-44,35.91,Chris Gaarder,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,M,40-44,37.28,Charles A Mirho,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,M,40-44,41.45,Andrei Karyukin,,Tualatin Hills Long Course Meet,2005,3
+OREG,50 M Breaststroke,LCM,M,40-44,47.88,Jeff J Bemrose,,Oregon State Games,2005,4
+MACO,100 M Breaststroke,LCM,M,40-44,1:17.77,Tomas Oliva,,Oregon State Games,2005,1
+OREG,100 M Breaststroke,LCM,M,40-44,1:22.53,Chris Gaarder,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Breaststroke,LCM,M,40-44,1:33.14,Andrei Karyukin,,Oregon State Games,2005,3
+OREG,200 M Breaststroke,LCM,M,40-44,3:44.64,Chris E Cox,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,40-44,28.70,Douglas A Christensen,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,40-44,30.02,Steve D Parmentier,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,M,40-44,32.35,Chris Gaarder,,Tualatin Hills Long Course Meet,2005,3
+OREG,50 M Butterfly,LCM,M,40-44,32.94,Andrei Karyukin,,Tualatin Hills Long Course Meet,2005,4
+OREG,50 M Butterfly,LCM,M,40-44,40.07,Chris E Cox,,Oregon State Games,2005,5
+OREG,100 M Butterfly,LCM,M,40-44,59.97,Dennis G Baker,,Oregon State Games,2005,1
+OREG,100 M Butterfly,LCM,M,40-44,1:05.93,Douglas A Christensen,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Butterfly,LCM,M,40-44,1:11.36,Gano Butcher,,Tualatin Hills Long Course Meet,2005,3
+UNAT,100 M Butterfly,LCM,M,40-44,1:14.72,Anthony A Morgan,,Tualatin Hills Long Course Meet,2005,4
+OREG,100 M Butterfly,LCM,M,40-44,1:23.98,Andrei Karyukin,,Oregon State Games,2005,5
+OREG,100 M Butterfly,LCM,M,40-44,1:41.29,Chris E Cox,,Oregon State Games,2005,6
+OREG,200 M Individual Medley,LCM,M,40-44,2:30.10,Doug D Stewart,,Oregon State Games,2005,1
+MACO,200 M Individual Medley,LCM,M,40-44,2:34.73,Tomas Oliva,,2005 USMS Long Course Nationals,2005,2
+OREG,200 M Individual Medley,LCM,M,40-44,2:35.46,Douglas A Christensen,,Tualatin Hills Long Course Meet,2005,3
+UNAT,200 M Individual Medley,LCM,M,40-44,2:44.16,Anthony A Morgan,,Tualatin Hills Long Course Meet,2005,4
+OREG,200 M Individual Medley,LCM,M,40-44,3:27.14,Chris E Cox,,Oregon State Games,2005,5
+OREG,200 M Individual Medley,LCM,M,40-44,3:53.93,Jeff J Bemrose,,Oregon State Games,2005,6
+OREG,400 M Individual Medley,LCM,M,40-44,4:49.42,Dennis G Baker,,2005 USMS Long Course Nationals,2005,1
+MACO,400 M Individual Medley,LCM,M,40-44,5:53.91,Tomas Oliva,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,M,45-49,29.18,Keith J Stelzer,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,M,45-49,30.18,Mark B Wren,,Oregon State Games,2005,2
+UNAT,50 M Freestyle,LCM,M,45-49,31.72,Charles R Taylor,,Oregon State Games,2005,3
+OREG,50 M Freestyle,LCM,M,45-49,32.10,Jon Fairhurst,,Tualatin Hills Long Course Meet,2005,4
+MACO,100 M Freestyle,LCM,M,45-49,1:12.81,Stuart A Munro,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Freestyle,LCM,M,45-49,2:35.02,Robert M Bergstrom,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,M,45-49,2:36.39,Mark B Wren,,Oregon State Games,2005,2
+MACO,200 M Freestyle,LCM,M,45-49,2:39.71,Stuart A Munro,,Oregon State Games,2005,3
+MACO,400 M Freestyle,LCM,M,45-49,5:26.04,Stuart A Munro,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,M,45-49,6:18.64,Doug E Eichner,,Oregon State Games,2005,2
+OREG,800 M Freestyle,LCM,M,45-49,9:56.65,Patrick Allender,,Oregon State Games,2005,1
+OREG,800 M Freestyle,LCM,M,45-49,11:20.01,Ed Ramsey,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Backstroke,LCM,M,45-49,35.65,Ed Ramsey,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Backstroke,LCM,M,45-49,41.82,Jon Fairhurst,,Tualatin Hills Long Course Meet,2005,2
+MACO,100 M Backstroke,LCM,M,45-49,1:15.88,Douglas E Otto,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,M,45-49,1:19.03,Ed Ramsey,,Tualatin Hills Long Course Meet,2005,2
+MACO,200 M Backstroke,LCM,M,45-49,2:40.99,Douglas E Otto,,Oregon State Games,2005,1
+OREG,200 M Backstroke,LCM,M,45-49,2:42.91,Patrick Allender,,Oregon State Games,2005,2
+OREG,200 M Backstroke,LCM,M,45-49,3:01.75,Ed Ramsey,,Tualatin Hills Long Course Meet,2005,3
+OREG,50 M Breaststroke,LCM,M,45-49,34.34,Patrick Allender,,Oregon State Games,2005,1
+UNAT,50 M Breaststroke,LCM,M,45-49,37.11,Charles R Taylor,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,M,45-49,41.39,Jon Fairhurst,,Oregon State Games,2005,3
+OREG,100 M Breaststroke,LCM,M,45-49,1:14.63,Patrick Allender,,Oregon State Games,2005,1
+MACO,100 M Breaststroke,LCM,M,45-49,1:21.19,Douglas E Otto,,Oregon State Games,2005,2
+UNAT,100 M Breaststroke,LCM,M,45-49,1:25.54,Charles R Taylor,,Oregon State Games,2005,3
+MACO,100 M Breaststroke,LCM,M,45-49,1:30.73,Stuart A Munro,,2005 USMS Long Course Nationals,2005,4
+OREG,100 M Breaststroke,LCM,M,45-49,1:31.23,Jon Fairhurst,,Oregon State Games,2005,5
+OREG,200 M Breaststroke,LCM,M,45-49,2:39.61,Patrick Allender,,Oregon State Games,2005,1
+MACO,200 M Breaststroke,LCM,M,45-49,2:56.59,Douglas E Otto,,Oregon State Games,2005,2
+UNAT,200 M Breaststroke,LCM,M,45-49,3:10.81,Charles R Taylor,,Oregon State Games,2005,3
+MACO,200 M Breaststroke,LCM,M,45-49,3:18.40,Stuart A Munro,,Oregon State Games,2005,4
+OREG,200 M Breaststroke,LCM,M,45-49,3:20.25,Jon Fairhurst,,Oregon State Games,2005,5
+OREG,50 M Butterfly,LCM,M,45-49,29.65,Patrick Allender,,Oregon State Games,2005,1
+OREG,50 M Butterfly,LCM,M,45-49,33.92,Mark B Wren,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,M,45-49,35.18,Jon Fairhurst,,Tualatin Hills Long Course Meet,2005,3
+UNAT,50 M Butterfly,LCM,M,45-49,35.91,Charles R Taylor,,Oregon State Games,2005,4
+OREG,50 M Butterfly,LCM,M,45-49,36.82,Keith J Stelzer,,Tualatin Hills Long Course Meet,2005,5
+MACO,100 M Butterfly,LCM,M,45-49,1:22.52,Stuart A Munro,,Tualatin Hills Long Course Meet,2005,1
+MACO,200 M Butterfly,LCM,M,45-49,3:04.54,Stuart A Munro,,Oregon State Games,2005,1
+MACO,200 M Individual Medley,LCM,M,45-49,2:35.91,Douglas E Otto,,Oregon State Games,2005,1
+MACO,200 M Individual Medley,LCM,M,45-49,3:11.95,Stuart A Munro,,Tualatin Hills Long Course Meet,2005,2
+MACO,400 M Individual Medley,LCM,M,45-49,5:44.88,Douglas E Otto,,Oregon State Games,2005,1
+MACO,400 M Individual Medley,LCM,M,45-49,6:43.05,Stuart A Munro,,Tualatin Hills Long Course Meet,2005,2
+OREG,400 M Individual Medley,LCM,M,45-49,7:03.60,Jon Fairhurst,,Oregon State Games,2005,3
+OREG,400 M Individual Medley,LCM,M,45-49,7:04.84,Ed Ramsey,,Tualatin Hills Long Course Meet,2005,4
+OREG,50 M Freestyle,LCM,M,50-54,27.01,Mike J Tennant,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,M,50-54,29.65,Doug Brockbank,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,M,50-54,29.73,Keith C Dow,,Oregon State Games,2005,3
+OREG,50 M Freestyle,LCM,M,50-54,29.77,Michael A Paholsky,,Oregon State Games,2005,4
+OREG,50 M Freestyle,LCM,M,50-54,34.43,Stephen Darnell,,Tualatin Hills Long Course Meet,2005,5
+OREG,50 M Freestyle,LCM,M,50-54,39.98,James L Butler,,Tualatin Hills Long Course Meet,2005,6
+OREG,100 M Freestyle,LCM,M,50-54,1:06.71,Keith C Dow,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,M,50-54,1:07.89,Doug Brockbank,,Oregon State Games,2005,2
+OREG,100 M Freestyle,LCM,M,50-54,1:09.20,Michael A Paholsky,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,M,50-54,1:24.68,Stephen Darnell,,Oregon State Games,2005,4
+OREG,100 M Freestyle,LCM,M,50-54,1:38.43,James L Butler,,Tualatin Hills Long Course Meet,2005,5
+OREG,200 M Freestyle,LCM,M,50-54,2:21.40,Mike J Tennant,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,M,50-54,2:24.42,Stephen D Kevan,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Freestyle,LCM,M,50-54,2:32.60,Keith C Dow,,Oregon State Games,2005,3
+OREG,200 M Freestyle,LCM,M,50-54,3:43.05,James L Butler,,Tualatin Hills Long Course Meet,2005,4
+OREG,400 M Freestyle,LCM,M,50-54,5:31.54,Kermit D Yensen,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,M,50-54,5:43.48,Keith C Dow,,Oregon State Games,2005,2
+OREG,400 M Freestyle,LCM,M,50-54,6:29.35,James W Schwetz,,Oregon State Games,2005,3
+OREG,800 M Freestyle,LCM,M,50-54,12:01.02,Kermit D Yensen,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,M,50-54,34.77,Wes Edwards,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,M,50-54,43.03,Stephen Darnell,,Oregon State Games,2005,2
+OREG,50 M Backstroke,LCM,M,50-54,56.33,James L Butler,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Backstroke,LCM,M,50-54,1:12.45,Wes Edwards,,Oregon State Games,2005,1
+OREG,100 M Backstroke,LCM,M,50-54,1:16.88,Stephen D Kevan,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Backstroke,LCM,M,50-54,1:36.89,Stephen Darnell,,Tualatin Hills Long Course Meet,2005,3
+OREG,200 M Backstroke,LCM,M,50-54,2:42.20,Wes Edwards,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,50-54,40.42,Doug Brockbank,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,50-54,42.05,Kermit D Yensen,,Oregon State Games,2005,2
+OREG,50 M Breaststroke,LCM,M,50-54,50.64,Stephen Darnell,,Oregon State Games,2005,3
+OREG,100 M Breaststroke,LCM,M,50-54,1:54.40,Stephen Darnell,,Oregon State Games,2005,1
+OREG,50 M Butterfly,LCM,M,50-54,30.73,Stephen D Kevan,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,50-54,32.10,Kermit D Yensen,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,M,50-54,33.03,Doug Brockbank,,Oregon State Games,2005,3
+OREG,50 M Butterfly,LCM,M,50-54,34.39,Michael A Paholsky,,Oregon State Games,2005,4
+OREG,100 M Butterfly,LCM,M,50-54,1:15.90,Stephen D Kevan,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Butterfly,LCM,M,50-54,1:16.38,David C Fryefield,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Butterfly,LCM,M,50-54,1:18.30,Kermit D Yensen,,Oregon State Games,2005,3
+OREG,200 M Butterfly,LCM,M,50-54,2:57.93,David C Fryefield,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Butterfly,LCM,M,50-54,3:05.92,Kermit D Yensen,,Oregon State Games,2005,2
+OREG,200 M Individual Medley,LCM,M,50-54,2:41.92,Stephen D Kevan,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Individual Medley,LCM,M,50-54,2:47.32,David C Fryefield,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Individual Medley,LCM,M,50-54,3:13.70,Michael A Paholsky,,Oregon State Games,2005,3
+OREG,50 M Freestyle,LCM,M,55-59,43.73,James D Jenkins,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,M,55-59,1:10.66,Daniel W Rueff,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Freestyle,LCM,M,55-59,2:40.16,Daniel W Rueff,,Oregon State Games,2005,1
+OREG,200 M Freestyle,LCM,M,55-59,3:24.12,John L Ellis,,Oregon State Games,2005,2
+OREG,200 M Freestyle,LCM,M,55-59,3:56.37,James D Jenkins,,Oregon State Games,2005,3
+OREG,400 M Freestyle,LCM,M,55-59,5:38.29,Daniel W Rueff,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,M,55-59,7:17.38,John L Ellis,,Oregon State Games,2005,2
+OREG,800 M Freestyle,LCM,M,55-59,10:32.85,Steve M Johnson,,Tualatin Hills Long Course Meet,2005,1
+OREG,800 M Freestyle,LCM,M,55-59,15:14.14,John L Ellis,,Oregon State Games,2005,2
+OREG,100 M Backstroke,LCM,M,55-59,1:29.48,Daniel W Rueff,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,55-59,34.66,Allen L Stark,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,M,55-59,41.03,Bob A Bruce,,Oregon State Games,2005,2
+OREG,100 M Breaststroke,LCM,M,55-59,1:19.93,Allen L Stark,,"World Masters Games, US Swimmers Only",2005,1
+OREG,100 M Breaststroke,LCM,M,55-59,1:27.25,Douglas J Adams,,Oregon State Games,2005,2
+OREG,100 M Breaststroke,LCM,M,55-59,1:33.07,Bob A Bruce,,Oregon State Games,2005,3
+OREG,100 M Breaststroke,LCM,M,55-59,1:42.68,John L Ellis,,Oregon State Games,2005,4
+OREG,200 M Breaststroke,LCM,M,55-59,2:54.84,Allen L Stark,,"World Masters Games, US Swimmers Only",2005,1
+OREG,200 M Breaststroke,LCM,M,55-59,3:51.21,John L Ellis,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,M,55-59,32.41,Douglas J Adams,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,55-59,32.93,Bob A Bruce,,Oregon State Games,2005,2
+OREG,50 M Butterfly,LCM,M,55-59,33.93,Daniel W Rueff,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Butterfly,LCM,M,55-59,1:24.12,Daniel W Rueff,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Butterfly,LCM,M,55-59,3:06.16,Allen L Stark,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Butterfly,LCM,M,55-59,3:14.29,Douglas J Adams,,Oregon State Games,2005,2
+OREG,200 M Individual Medley,LCM,M,55-59,2:53.45,Bob A Bruce,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,M,55-59,2:54.96,Douglas J Adams,,Oregon State Games,2005,2
+OREG,200 M Individual Medley,LCM,M,55-59,2:59.22,Daniel W Rueff,,Tualatin Hills Long Course Meet,2005,3
+OREG,200 M Individual Medley,LCM,M,55-59,3:54.68,John L Ellis,,Oregon State Games,2005,4
+OREG,400 M Individual Medley,LCM,M,55-59,6:40.27,Daniel W Rueff,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,M,60-64,28.79,Robert S Smith,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,M,60-64,31.11,Michael R Silvey,,Oregon State Games,2005,2
+OREG,100 M Freestyle,LCM,M,60-64,1:04.23,Tom Landis,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,M,60-64,1:11.62,Michael R Silvey,,Oregon State Games,2005,2
+OREG,100 M Freestyle,LCM,M,60-64,1:28.60,Ralph W Mohr,,Oregon State Games,2005,3
+OREG,200 M Freestyle,LCM,M,60-64,2:25.36,Tom Landis,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,M,60-64,5:10.19,Tom Landis,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,M,60-64,6:28.09,Ralph W Mohr,,Oregon State Games,2005,2
+OREG,400 M Freestyle,LCM,M,60-64,7:50.49,Richard H Juhala,,Oregon State Games,2005,3
+OREG,800 M Freestyle,LCM,M,60-64,10:52.25,Tom Landis,,Oregon State Games,2005,1
+OREG,800 M Freestyle,LCM,M,60-64,16:24.99,Richard H Juhala,,Oregon State Games,2005,2
+OREG,50 M Backstroke,LCM,M,60-64,34.52,Robert S Smith,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Backstroke,LCM,M,60-64,4:07.60,Richard H Juhala,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,60-64,39.40,Robert S Smith,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Breaststroke,LCM,M,60-64,1:46.70,Richard H Juhala,,Oregon State Games,2005,1
+OREG,200 M Breaststroke,LCM,M,60-64,3:58.89,Richard H Juhala,,Oregon State Games,2005,1
+OREG,50 M Butterfly,LCM,M,60-64,31.90,Robert S Smith,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,60-64,35.53,Michael R Silvey,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Butterfly,LCM,M,60-64,1:31.13,Michael R Silvey,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,M,60-64,3:45.44,Ralph W Mohr,,Oregon State Games,2005,1
+OREG,400 M Individual Medley,LCM,M,60-64,6:24.39,Tom Landis,,Oregon State Games,2005,1
+OREG,400 M Individual Medley,LCM,M,60-64,8:34.00,Richard H Juhala,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,M,65-69,33.62,George D Thayer,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,M,65-69,33.63,Bert L Petersen,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,M,65-69,39.02,David J Keudell,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,M,65-69,1:21.73,George D Thayer,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Freestyle,LCM,M,65-69,1:37.01,David J Keudell,,Tualatin Hills Long Course Meet,2005,2
+OREG,400 M Freestyle,LCM,M,65-69,6:05.68,Brent L Lake,,2005 USMS Long Course Nationals,2005,1
+OREG,800 M Freestyle,LCM,M,65-69,12:27.85,Brent L Lake,,2005 USMS Long Course Nationals,2005,1
+OREG,1500 M Freestyle,LCM,M,65-69,24:04.50,Brent L Lake,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Backstroke,LCM,M,65-69,40.29,Brent L Lake,,Oregon State Games,2005,1
+OREG,50 M Backstroke,LCM,M,65-69,43.53,George D Thayer,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Backstroke,LCM,M,65-69,50.51,David J Keudell,,2005 USMS Long Course Nationals,2005,3
+OREG,100 M Backstroke,LCM,M,65-69,1:27.93,Brent L Lake,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Backstroke,LCM,M,65-69,3:16.10,Brent L Lake,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,M,65-69,45.19,David J Keudell,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,65-69,45.74,George D Thayer,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Breaststroke,LCM,M,65-69,46.65,Bert L Petersen,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Breaststroke,LCM,M,65-69,1:39.67,David J Keudell,,2005 USMS Long Course Nationals,2005,1
+OREG,200 M Breaststroke,LCM,M,65-69,3:42.79,David J Keudell,,2005 USMS Long Course Nationals,2005,1
+OREG,50 M Butterfly,LCM,M,65-69,32.80,Bert L Petersen,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,M,70-74,30.96,David A Radcliff,,Oregon State Games,2005,1
+OREG,100 M Freestyle,LCM,M,70-74,1:06.47,David A Radcliff,,"World Masters Games, US Swimmers Only",2005,1
+OREG,100 M Freestyle,LCM,M,70-74,1:19.02,Bill King,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Freestyle,LCM,M,70-74,1:50.83,William C Holman,,Oregon State Games,2005,3
+OREG,200 M Freestyle,LCM,M,70-74,2:28.48,David A Radcliff,,"World Masters Games, US Swimmers Only",2005,1
+OREG,200 M Freestyle,LCM,M,70-74,3:03.76,Bill King,,Tualatin Hills Long Course Meet,2005,2
+OREG,400 M Freestyle,LCM,M,70-74,5:21.00,David A Radcliff,,"World Masters Games, US Swimmers Only",2005,1
+OREG,400 M Freestyle,LCM,M,70-74,8:31.35,William C Holman,,Oregon State Games,2005,2
+OREG,800 M Freestyle,LCM,M,70-74,11:23.16,David A Radcliff,,"World Masters Games, US Swimmers Only",2005,1
+MACO,50 M Backstroke,LCM,M,70-74,47.03,John C English,,Oregon State Games,2005,1
+MACO,100 M Backstroke,LCM,M,70-74,1:43.63,John C English,,Oregon State Games,2005,1
+MACO,50 M Freestyle,LCM,M,75-79,53.78,Clark D Austen,,Oregon State Games,2005,1
+MACO,200 M Freestyle,LCM,M,75-79,4:57.73,Clark D Austen,,Oregon State Games,2005,1
+MACO,800 M Freestyle,LCM,M,75-79,21:51.69,Clark D Austen,,Oregon State Games,2005,1
+MACO,50 M Backstroke,LCM,M,75-79,54.09,Lee J Miesen,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Backstroke,LCM,M,75-79,1:46.00,Milton R Marks,,Oregon State Games,2005,1
+MACO,100 M Backstroke,LCM,M,75-79,1:56.92,Lee J Miesen,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Breaststroke,LCM,M,75-79,45.67,Milton R Marks,,Oregon State Games,2005,1
+MACO,50 M Breaststroke,LCM,M,75-79,47.38,Lee J Miesen,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Breaststroke,LCM,M,75-79,1:47.47,Milton R Marks,,Oregon State Games,2005,1
+MACO,100 M Breaststroke,LCM,M,75-79,1:57.65,Lee J Miesen,,Tualatin Hills Long Course Meet,2005,2
+OREG,200 M Breaststroke,LCM,M,75-79,3:57.09,Milton R Marks,,Oregon State Games,2005,1
+OREG,200 M Individual Medley,LCM,M,75-79,3:54.68,Milton R Marks,,Oregon State Games,2005,1
+OREG,400 M Individual Medley,LCM,M,75-79,8:37.25,Milton R Marks,,Oregon State Games,2005,1
+OREG,50 M Freestyle,LCM,M,80-84,46.92,Gilbert N Young,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Freestyle,LCM,M,80-84,56.96,Rupert E Fixott,,Oregon State Games,2005,2
+OREG,50 M Freestyle,LCM,M,80-84,58.18,Charles L Bushey,,Tualatin Hills Long Course Meet,2005,3
+OREG,100 M Freestyle,LCM,M,80-84,1:40.95,Gilbert N Young,,Tualatin Hills Long Course Meet,2005,1
+OREG,100 M Freestyle,LCM,M,80-84,2:17.05,Charles L Bushey,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Freestyle,LCM,M,80-84,2:20.89,Rupert E Fixott,,Oregon State Games,2005,3
+OREG,100 M Freestyle,LCM,M,80-84,2:45.63,Khosrow Shadbeh,,Tualatin Hills Long Course Meet,2005,4
+OREG,200 M Freestyle,LCM,M,80-84,3:51.64,Gilbert N Young,,Tualatin Hills Long Course Meet,2005,1
+OREG,200 M Freestyle,LCM,M,80-84,5:00.79,Charles L Bushey,,Tualatin Hills Long Course Meet,2005,2
+OREG,400 M Freestyle,LCM,M,80-84,8:08.22,Gilbert N Young,,Oregon State Games,2005,1
+OREG,400 M Freestyle,LCM,M,80-84,10:47.49,Charles L Bushey,,Oregon State Games,2005,2
+OREG,400 M Freestyle,LCM,M,80-84,12:44.91,Joseph A Mallon,,Oregon State Games,2005,3
+OREG,800 M Freestyle,LCM,M,80-84,16:31.41,Gilbert N Young,,Oregon State Games,2005,1
+OREG,800 M Freestyle,LCM,M,80-84,21:54.72,Charles L Bushey,,Oregon State Games,2005,2
+OREG,50 M Backstroke,LCM,M,80-84,1:11.92,Charles L Bushey,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Backstroke,LCM,M,80-84,1:29.19,Khosrow Shadbeh,,Tualatin Hills Long Course Meet,2005,2
+OREG,100 M Backstroke,LCM,M,80-84,2:50.47,Charles L Bushey,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,80-84,1:09.00,Rupert E Fixott,,Oregon State Games,2005,1
+OREG,50 M Breaststroke,LCM,M,80-84,1:25.30,Khosrow Shadbeh,,Oregon State Games,2005,2
+OREG,100 M Breaststroke,LCM,M,80-84,2:45.19,Rupert E Fixott,,Oregon State Games,2005,1
+OREG,100 M Breaststroke,LCM,M,80-84,3:23.51,Khosrow Shadbeh,,Tualatin Hills Long Course Meet,2005,2
+OREG,50 M Freestyle,LCM,M,85-89,38.43,Andrew W Holden,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Breaststroke,LCM,M,85-89,59.39,Andrew W Holden,,Tualatin Hills Long Course Meet,2005,1
+OREG,50 M Butterfly,LCM,M,85-89,49.33,Andrew W Holden,,Tualatin Hills Long Course Meet,2005,1

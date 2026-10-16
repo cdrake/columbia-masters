@@ -1,0 +1,56 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 M Freestyle,LCM,W,18-24,34.56,Adrien M Zap,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Freestyle,LCM,W,18-24,1:17.31,Adrien M Zap,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Freestyle,LCM,W,18-24,2:58.75,Adrien M Zap,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Breaststroke,LCM,W,18-24,1:43.25,Katherine A Woolery,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Butterfly,LCM,W,18-24,40.90,Katherine A Woolery,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Individual Medley,LCM,W,18-24,3:31.99,Katherine A Woolery,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Breaststroke,LCM,W,35-39,40.57,Cheryl A Kupan,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Breaststroke,LCM,W,35-39,1:29.56,Cheryl A Kupan,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Butterfly,LCM,W,35-39,33.24,Jill A Looney,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Butterfly,LCM,W,35-39,1:14.50,Jill A Looney,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Butterfly,LCM,W,35-39,1:15.52,Cheryl A Kupan,,2002 USMS Long Course Nationals,2002,2
+CONN,200 M Butterfly,LCM,W,35-39,2:44.76,Jill A Looney,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Individual Medley,LCM,W,35-39,2:48.00,Jill A Looney,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Individual Medley,LCM,W,35-39,2:50.39,Cheryl A Kupan,,2002 USMS Long Course Nationals,2002,2
+CONN,400 M Individual Medley,LCM,W,35-39,5:55.99,Jill A Looney,,2002 USMS Long Course Nationals,2002,1
+CONN,400 M Individual Medley,LCM,W,35-39,6:03.80,Cheryl A Kupan,,2002 USMS Long Course Nationals,2002,2
+CONN,400 M Freestyle,LCM,W,50-54,5:47.33,Meredith A Moore,,2002 USMS Long Course Nationals,2002,1
+CONN,1500 M Freestyle,LCM,W,50-54,23:01.30,Meredith A Moore,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Backstroke,LCM,W,50-54,39.39,Meredith A Moore,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Backstroke,LCM,W,50-54,1:27.45,Meredith A Moore,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Backstroke,LCM,W,50-54,3:07.27,Meredith A Moore,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Breaststroke,LCM,W,60-64,47.50,Margit H Jebe,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Breaststroke,LCM,W,60-64,1:40.81,Margit H Jebe,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Breaststroke,LCM,W,60-64,3:49.28,Margit H Jebe,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Butterfly,LCM,W,60-64,1:46.42,Margit H Jebe,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Freestyle,LCM,W,75-79,44.52,Suzanne B Graham,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Freestyle,LCM,W,75-79,3:51.03,Suzanne B Graham,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Breaststroke,LCM,W,75-79,1:00.74,Suzanne B Graham,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Breaststroke,LCM,W,75-79,2:18.31,Suzanne B Graham,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Freestyle,LCM,M,18-24,27.89,Benjamin D Elder,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Freestyle,LCM,M,18-24,2:21.24,Benjamin D Elder,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Freestyle,LCM,M,25-29,26.31,Jared W Walkenhorst,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Breaststroke,LCM,M,25-29,31.43,Jared W Walkenhorst,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Breaststroke,LCM,M,25-29,1:09.75,Jared W Walkenhorst,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Breaststroke,LCM,M,25-29,2:37.70,Jared W Walkenhorst,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Individual Medley,LCM,M,25-29,2:28.85,Jared W Walkenhorst,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Backstroke,LCM,M,45-49,1:13.82,John M Craig,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Butterfly,LCM,M,45-49,29.04,John M Craig,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Butterfly,LCM,M,45-49,1:04.26,John M Craig,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Butterfly,LCM,M,45-49,2:22.45,John M Craig,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Individual Medley,LCM,M,45-49,2:36.40,John M Craig,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Freestyle,LCM,M,60-64,28.23,Jack Geoghegan,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Freestyle,LCM,M,60-64,1:03.51,Jack Geoghegan,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Freestyle,LCM,M,60-64,2:20.97,Jack Geoghegan,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Freestyle,LCM,M,60-64,2:39.16,Daniel H Davis,,2002 USMS Long Course Nationals,2002,2
+CONN,400 M Freestyle,LCM,M,60-64,5:01.83,Jack Geoghegan,,2002 USMS Long Course Nationals,2002,1
+CONN,400 M Freestyle,LCM,M,60-64,5:45.25,Daniel H Davis,,2002 USMS Long Course Nationals,2002,2
+CONN,800 M Freestyle,LCM,M,60-64,11:58.23,Daniel H Davis,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Backstroke,LCM,M,60-64,33.18,Jack Geoghegan,,2002 USMS Long Course Nationals,2002,1
+CONN,200 M Individual Medley,LCM,M,60-64,3:18.55,Daniel H Davis,,2002 USMS Long Course Nationals,2002,1
+CONN,400 M Individual Medley,LCM,M,60-64,7:14.96,Daniel H Davis,,2002 USMS Long Course Nationals,2002,1
+CONN,1500 M Freestyle,LCM,M,65-69,23:15.59,George E Brunstad,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Freestyle,LCM,M,70-74,38.05,John B Hogan,,2002 USMS Long Course Nationals,2002,1
+CONN,100 M Freestyle,LCM,M,70-74,1:38.00,John B Hogan,,2002 USMS Long Course Nationals,2002,1
+CONN,50 M Breaststroke,LCM,M,70-74,1:22.10,John B Hogan,,2002 USMS Long Course Nationals,2002,1

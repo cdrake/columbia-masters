@@ -1,0 +1,795 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ARIZ,50 M Freestyle,SCM,W,18-24,25.58,Jennifer K Beckberger,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,18-24,33.50,Rochelle A Gardner,,2010 Ron Johnson Invitational,2010,2
+MMAC,50 M Freestyle,SCM,W,18-24,34.04,Paige B Mullaney,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,W,18-24,50.86,Mary-Christine Beck,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,W,18-24,55.86,Jennifer K Beckberger,,2010 Ron Johnson Invitational,2010,1
+MMAC,100 M Freestyle,SCM,W,18-24,1:19.38,Paige B Mullaney,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,W,18-24,2:28.04,Nichole D Atkin,,2010 Ron Johnson Invitational,2010,1
+MMAC,200 M Freestyle,SCM,W,18-24,2:48.20,Paige B Mullaney,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,W,18-24,4:15.37,Mary-Christine Beck,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,W,18-24,5:46.55,Rochelle A Gardner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,18-24,41.80,Rochelle A Gardner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,18-24,43.32,Nichole D Atkin,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,W,18-24,1:31.20,Rochelle A Gardner,,2010 Ron Johnson Invitational,2010,1
+MMAC,50 M Butterfly,SCM,W,18-24,37.67,Paige B Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,W,18-24,1:01.77,Jennifer K Beckberger,,2010 Ron Johnson Invitational,2010,1
+MMAC,100 M Butterfly,SCM,W,18-24,1:28.98,Paige B Mullaney,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,W,18-24,1:03.23,Jennifer K Beckberger,,2010 Ron Johnson Invitational,2010,1
+MMAC,100 M Individual Medley,SCM,W,18-24,1:25.82,Paige B Mullaney,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,W,18-24,1:26.12,Rochelle A Gardner,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,W,25-29,28.50,Lindsey E Urbatchka,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,25-29,30.22,Christina A Eddy,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,W,25-29,30.22,Whitney M Warman,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,W,25-29,34.46,Deborah E Brown,,2010 Ron Johnson Invitational,2010,4
+PHX,50 M Freestyle,SCM,W,25-29,34.65,Kerri D McKinney,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,W,25-29,38.83,Jamina C Winston,,2010 Ron Johnson Invitational,2010,6
+ARIZ,50 M Freestyle,SCM,W,25-29,41.20,Raquel Lopez,,2010 Ron Johnson Invitational,2010,7
+ARIZ,100 M Freestyle,SCM,W,25-29,1:00.31,Kelly M Harrigan,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,W,25-29,1:01.42,Lindsey E Urbatchka,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,W,25-29,1:04.33,Whitney M Warman,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Freestyle,SCM,W,25-29,1:07.86,Christina A Eddy,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,W,25-29,1:25.55,Jamina C Winston,,2010 Ron Johnson Invitational,2010,5
+ARIZ,200 M Freestyle,SCM,W,25-29,2:22.21,Whitney M Warman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,25-29,2:26.30,Christina A Eddy,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,W,25-29,2:28.56,Summer Bezdek,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Freestyle,SCM,W,25-29,2:47.98,Kerri D McKinney,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,W,25-29,3:10.79,Jamina C Winston,,2010 Ron Johnson Invitational,2010,5
+ARIZ,200 M Freestyle,SCM,W,25-29,3:26.07,Raquel Lopez,,2010 Ron Johnson Invitational,2010,6
+ARIZ,400 M Freestyle,SCM,W,25-29,5:19.58,Christina A Eddy,,2010 Ron Johnson Invitational,2010,1
+PHX,400 M Freestyle,SCM,W,25-29,6:00.38,Kerri D McKinney,,2010 Ron Johnson Invitational,2010,2
+PHX,800 M Freestyle,SCM,W,25-29,12:13.47,Kerri D McKinney,,2010 Ron Johnson Invitational,2010,1
+PHX,1500 M Freestyle,SCM,W,25-29,23:27.77,Kerri D McKinney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,25-29,38.01,Summer Bezdek,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,25-29,38.69,Christina A Eddy,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,W,25-29,43.58,Jamina C Winston,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Backstroke,SCM,W,25-29,49.06,Raquel Lopez,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Backstroke,SCM,W,25-29,1:37.11,Jamina C Winston,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Backstroke,SCM,W,25-29,2:18.22,Kelly M Harrigan,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,25-29,39.38,Whitney M Warman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,25-29,40.60,Stacey E Brinkerhoff,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,W,25-29,44.30,Deborah E Brown,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Breaststroke,SCM,W,25-29,44.88,Christina A Eddy,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Breaststroke,SCM,W,25-29,1:28.43,Summer Bezdek,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,W,25-29,1:30.52,Whitney M Warman,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,W,25-29,1:54.94,Megan Wisenbaugh,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,25-29,30.04,Lindsey E Urbatchka,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,W,25-29,33.37,Stacey E Brinkerhoff,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,25-29,33.70,Christina A Eddy,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,25-29,44.40,Jamina C Winston,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Butterfly,SCM,W,25-29,1:05.85,Lindsey E Urbatchka,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,W,25-29,1:13.88,Megan Wisenbaugh,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Butterfly,SCM,W,25-29,1:30.77,Kerri D McKinney,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:16.09,Whitney M Warman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:19.00,Stacey E Brinkerhoff,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:20.71,Christina A Eddy,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:39.89,Jamina C Winston,,2010 Ron Johnson Invitational,2010,4
+ARIZ,400 M Individual Medley,SCM,W,25-29,5:47.74,Summer Bezdek,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,30-34,27.72,Hannah Caldas,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,50 M Freestyle,SCM,W,30-34,31.90,Helene R Nehrebecki,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,W,30-34,1:00.42,Hannah Caldas,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,100 M Freestyle,SCM,W,30-34,1:11.24,Helene R Nehrebecki,,Pacific Masters SCM Championships,2010,2
+ARIZ,200 M Freestyle,SCM,W,30-34,2:13.00,Hannah Caldas,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,200 M Freestyle,SCM,W,30-34,2:36.44,Kendra Carter,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,W,30-34,2:40.51,Carriee L Thompsen,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,W,30-34,3:16.04,Helene R Nehrebecki,,Pacific Masters SCM Championships,2010,4
+ARIZ,400 M Freestyle,SCM,W,30-34,5:29.77,Kendra Carter,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,W,30-34,5:49.67,Helene R Nehrebecki,,Pacific Masters SCM Championships,2010,2
+ARIZ,800 M Freestyle,SCM,W,30-34,11:05.11,Kendra Carter,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,W,30-34,11:25.92,Carriee L Thompsen,,2010 Ron Johnson Invitational,2010,2
+ARIZ,1500 M Freestyle,SCM,W,30-34,21:37.11,Kendra Carter,,2010 Ron Johnson Invitational,2010,1
+ARIZ,1500 M Freestyle,SCM,W,30-34,21:41.53,Carriee L Thompsen,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,W,30-34,38.69,Helene R Nehrebecki,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,30-34,39.22,Kendra Carter,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Backstroke,SCM,W,30-34,1:18.03,Hannah Caldas,,"SDSM 2010 SCM Meet, San Diego, CA",2010,1
+ARIZ,200 M Backstroke,SCM,W,30-34,2:40.65,Hannah Caldas,,"SDSM 2010 SCM Meet, San Diego, CA",2010,1
+ARIZ,50 M Breaststroke,SCM,W,30-34,35.32,Hannah Caldas,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,30-34,41.74,Helene R Nehrebecki,,Pacific Masters SCM Championships,2010,2
+ARIZ,100 M Breaststroke,SCM,W,30-34,1:18.88,Hannah Caldas,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,W,30-34,1:29.45,Helene R Nehrebecki,,Pacific Masters SCM Championships,2010,2
+ARIZ,200 M Breaststroke,SCM,W,30-34,2:50.74,Hannah Caldas,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,200 M Breaststroke,SCM,W,30-34,3:15.79,Helene R Nehrebecki,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,30-34,31.35,Hannah Caldas,,"SDSM 2010 SCM Meet, San Diego, CA",2010,1
+ARIZ,50 M Butterfly,SCM,W,30-34,34.97,Helene R Nehrebecki,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,W,30-34,1:15.24,Hannah Caldas,,"SDSM 2010 SCM Meet, San Diego, CA",2010,1
+ARIZ,100 M Individual Medley,SCM,W,30-34,1:08.52,Hannah Caldas,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,30-34,1:20.62,Helene R Nehrebecki,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,W,30-34,1:27.40,Kendra Carter,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Individual Medley,SCM,W,30-34,2:31.78,Hannah Caldas,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,400 M Individual Medley,SCM,W,30-34,5:26.31,Hannah Caldas,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,50 M Freestyle,SCM,W,35-39,30.50,Katherine K Gleason,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,35-39,39.42,Wendy Rother,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,W,35-39,40.23,Tamela M Trujillo,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Freestyle,SCM,W,35-39,1:35.69,Wendy Rother,,2010 Ron Johnson Invitational,2010,1
+UNAT,100 M Freestyle,SCM,W,35-39,1:49.56,Ling-Xiao Wang,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,W,35-39,35.42,Katherine K Gleason,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,35-39,42.22,Shannon L Moxley,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,W,35-39,50.91,Wendy Rother,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Breaststroke,SCM,W,35-39,41.34,Katherine K Gleason,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,35-39,45.45,Shannon L Moxley,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,W,35-39,54.82,Wendy Rother,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Breaststroke,SCM,W,35-39,1:40.37,Shannon L Moxley,,2010 Ron Johnson Invitational,2010,1
+UNAT,100 M Breaststroke,SCM,W,35-39,2:01.92,Ling-Xiao Wang,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,35-39,34.34,Katherine K Gleason,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,W,35-39,39.52,Shannon L Moxley,,2010 Ron Johnson Invitational,2010,2
+UNAT,50 M Butterfly,SCM,W,35-39,51.68,Ling-Xiao Wang,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,35-39,54.74,Wendy Rother,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Butterfly,SCM,W,35-39,1:16.91,Katherine K Gleason,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,35-39,1:17.41,Katherine K Gleason,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,35-39,1:28.50,Shannon L Moxley,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,W,35-39,1:50.46,Wendy Rother,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Individual Medley,SCM,W,35-39,3:11.30,Shannon L Moxley,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Freestyle,SCM,W,40-44,31.93,Heather A Fazio,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Freestyle,SCM,W,40-44,32.63,Lisa D Maynard,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,W,40-44,35.46,Lacey Strickland,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,W,40-44,43.72,Aliza Rain,,2010 Ron Johnson Invitational,2010,4
+PHX,100 M Freestyle,SCM,W,40-44,1:09.44,Heather A Fazio,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,W,40-44,1:19.16,Louise M So,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,W,40-44,1:41.07,Aliza Rain,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,W,40-44,2:24.10,Laura K Smith,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,40-44,2:34.98,Erica L McClurg,,2010 Ron Johnson Invitational,2010,2
+UNAT,200 M Freestyle,SCM,W,40-44,2:39.34,Lisa D Maynard,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,W,40-44,2:42.61,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,W,40-44,3:32.38,Tricia Schafer,,2010 Ron Johnson Invitational,2010,5
+ARIZ,400 M Freestyle,SCM,W,40-44,4:50.76,Laurel S Hill,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,W,40-44,4:57.95,Laura K Smith,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,W,40-44,5:42.83,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,W,40-44,5:49.89,Lacey Strickland,,2010 Ron Johnson Invitational,2010,4
+ARIZ,400 M Freestyle,SCM,W,40-44,5:57.27,Louise M So,,2010 Ron Johnson Invitational,2010,5
+ARIZ,400 M Freestyle,SCM,W,40-44,7:12.34,Tricia Schafer,,2010 Ron Johnson Invitational,2010,6
+ARIZ,400 M Freestyle,SCM,W,40-44,8:49.15,Susanna I Astarte,,2010 Ron Johnson Invitational,2010,7
+ARIZ,800 M Freestyle,SCM,W,40-44,10:49.09,Erica L McClurg,,2010 Ron Johnson Invitational,2010,1
+UNAT,800 M Freestyle,SCM,W,40-44,11:44.15,Lisa D Maynard,,2010 Ron Johnson Invitational,2010,2
+ARIZ,800 M Freestyle,SCM,W,40-44,11:44.17,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,3
+ARIZ,800 M Freestyle,SCM,W,40-44,14:43.93,Tricia Schafer,,2010 Ron Johnson Invitational,2010,4
+ARIZ,1500 M Freestyle,SCM,W,40-44,22:11.51,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,40-44,36.28,Laura K Smith,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,40-44,37.07,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,2
+PHX,50 M Backstroke,SCM,W,40-44,37.49,Heather A Fazio,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Backstroke,SCM,W,40-44,1:15.98,Laura K Smith,,2010 Ron Johnson Invitational,2010,1
+PHX,100 M Backstroke,SCM,W,40-44,1:19.67,Heather A Fazio,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,W,40-44,2:39.21,Laura K Smith,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,40-44,37.36,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,40-44,41.89,Lacey Strickland,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,W,40-44,49.30,Aliza Rain,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Breaststroke,SCM,W,40-44,1:02.99,Susanna I Astarte,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Breaststroke,SCM,W,40-44,1:23.08,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,W,40-44,1:34.58,Lacey Strickland,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,W,40-44,1:54.94,Aliza Rain,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Breaststroke,SCM,W,40-44,2:58.49,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Breaststroke,SCM,W,40-44,3:15.75,Louise M So,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,40-44,33.59,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Butterfly,SCM,W,40-44,33.69,Sarah J Marshall,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,40-44,35.42,Laura K Smith,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,40-44,36.64,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Butterfly,SCM,W,40-44,39.44,Lacey Strickland,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Butterfly,SCM,W,40-44,52.69,Aliza Rain,,2010 Ron Johnson Invitational,2010,6
+ARIZ,50 M Butterfly,SCM,W,40-44,56.33,Tricia Schafer,,2010 Ron Johnson Invitational,2010,7
+ARIZ,50 M Butterfly,SCM,W,40-44,1:01.49,Susanna I Astarte,,2010 Ron Johnson Invitational,2010,8
+VOSY,50 M Butterfly,SCM,W,40-44,1:23.98,Anabel Aportela,,2010 Ron Johnson Invitational,2010,9
+ARIZ,100 M Butterfly,SCM,W,40-44,1:14.84,Laura K Smith,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,W,40-44,1:16.76,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,W,40-44,1:27.12,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:10.99,Laurel S Hill,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:16.58,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Individual Medley,SCM,W,40-44,1:16.72,Heather A Fazio,,2010 Ron Johnson Invitational,2010,3
+UNAT,100 M Individual Medley,SCM,W,40-44,1:18.92,Sarah J Marshall,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:26.76,Beth C Cooperrider,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:26.96,Lacey Strickland,,2010 Ron Johnson Invitational,2010,6
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:46.58,Tricia Schafer,,2010 Ron Johnson Invitational,2010,7
+ARIZ,200 M Individual Medley,SCM,W,40-44,2:48.22,Maureen T Rankin,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,W,40-44,3:09.46,Louise M So,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Individual Medley,SCM,W,40-44,5:23.47,Laurel S Hill,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Individual Medley,SCM,W,40-44,8:23.98,Tricia Schafer,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,W,45-49,28.72,Liz Hobbs,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,45-49,30.91,Kathy Gallagher,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,W,45-49,31.09,Becki P Major,,2010 SPMA Short Course Meters Championships,2010,3
+UNAT,100 M Freestyle,SCM,W,45-49,1:13.20,Susan M Jurek,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,W,45-49,1:26.38,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Freestyle,SCM,W,45-49,1:28.88,Lois W Courtright,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,W,45-49,2:28.63,Becki P Major,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,200 M Freestyle,SCM,W,45-49,2:28.86,Kathy Gallagher,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,W,45-49,2:34.14,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Freestyle,SCM,W,45-49,3:12.14,Lois W Courtright,,2010 Ron Johnson Invitational,2010,4
+ARIZ,400 M Freestyle,SCM,W,45-49,5:15.99,Becki P Major,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,400 M Freestyle,SCM,W,45-49,5:19.89,Kathy Gallagher,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,W,45-49,5:33.68,Liz Hobbs,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,W,45-49,6:39.17,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,4
+PHX,400 M Freestyle,SCM,W,45-49,6:51.24,Lois W Courtright,,2010 Ron Johnson Invitational,2010,5
+ARIZ,800 M Freestyle,SCM,W,45-49,10:56.85,Kathy Gallagher,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,W,45-49,11:11.44,Becki P Major,,2010 SPMA Short Course Meters Championships,2010,2
+PHX,800 M Freestyle,SCM,W,45-49,13:36.95,Lois W Courtright,,2010 Ron Johnson Invitational,2010,3
+ARIZ,800 M Freestyle,SCM,W,45-49,13:47.19,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,4
+PHX,1500 M Freestyle,SCM,W,45-49,26:08.90,Lois W Courtright,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,45-49,34.89,Liz Hobbs,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,45-49,34.98,Brigid J Bunch,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,W,45-49,47.54,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Backstroke,SCM,W,45-49,1:12.90,Brigid J Bunch,,2010 SPMA Short Course Meters Championships,2010,1
+UNAT,100 M Backstroke,SCM,W,45-49,1:20.50,Susan M Jurek,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,W,45-49,2:32.70,Brigid J Bunch,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,45-49,39.06,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,45-49,39.79,Brigid J Bunch,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:26.46,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:28.83,Brigid J Bunch,,2010 SPMA Short Course Meters Championships,2010,2
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:36.11,Kathy Gallagher,,2010 Ron Johnson Invitational,2010,3
+PHX,100 M Breaststroke,SCM,W,45-49,1:54.32,Lois W Courtright,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:09.92,Brigid J Bunch,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:10.27,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,45-49,33.63,Liz Hobbs,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Butterfly,SCM,W,45-49,33.70,Susan M Jurek,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,W,45-49,34.23,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,45-49,40.61,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,4
+PHX,50 M Butterfly,SCM,W,45-49,43.25,Brenda Creswell-Liotta,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Butterfly,SCM,W,45-49,1:20.30,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,W,45-49,1:42.88,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Butterfly,SCM,W,45-49,3:53.47,JoAnne M Bolivar,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:16.65,Brigid J Bunch,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:19.97,Kathy Gallagher,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:20.51,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:23.29,Liz Hobbs,,2010 Ron Johnson Invitational,2010,4
+PHX,100 M Individual Medley,SCM,W,45-49,1:30.32,Brenda Creswell-Liotta,,2010 Ron Johnson Invitational,2010,5
+ARIZ,200 M Individual Medley,SCM,W,45-49,2:43.25,Brigid J Bunch,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,200 M Individual Medley,SCM,W,45-49,2:56.06,Susan E Dawson-Cook,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Individual Medley,SCM,W,45-49,6:00.46,Brigid J Bunch,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,50-54,34.61,Sara J Rippentrop,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,W,50-54,1:25.51,Teresa L Dozer,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,50-54,2:44.70,Amy Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,50-54,2:49.05,Sara J Rippentrop,,2010 Ron Johnson Invitational,2010,2
+ARIZ,800 M Freestyle,SCM,W,50-54,13:09.73,Teresa L Dozer,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,50-54,41.94,Sara J Rippentrop,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,50-54,51.66,Michelle K Charles,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,W,50-54,3:59.28,Michelle K Charles,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,50-54,42.10,Amy Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,50-54,45.72,Teresa L Dozer,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,W,50-54,1:31.32,Amy Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,W,50-54,1:43.38,Teresa L Dozer,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Breaststroke,SCM,W,50-54,3:17.71,Amy Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Breaststroke,SCM,W,50-54,3:42.07,Teresa L Dozer,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Breaststroke,SCM,W,50-54,4:12.85,Michelle K Charles,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,50-54,37.91,Amy Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,W,50-54,1:57.20,Michelle K Charles,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Butterfly,SCM,W,50-54,4:36.60,Michelle K Charles,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,50-54,1:23.98,Amy Mullaney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,50-54,1:50.26,Michelle K Charles,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Individual Medley,SCM,W,50-54,3:55.35,Michelle K Charles,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Individual Medley,SCM,W,50-54,8:44.04,Michelle K Charles,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,55-59,37.10,Jonelle Schmidt,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,55-59,43.51,Nancy L Hewes,,Huntsman Senior Games,2010,2
+ARIZ,100 M Freestyle,SCM,W,55-59,1:23.92,Jonelle Schmidt,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,55-59,2:51.16,Jonelle Schmidt,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,55-59,3:45.68,Nancy L Hewes,,Huntsman Senior Games,2010,2
+ARIZ,400 M Freestyle,SCM,W,55-59,6:05.33,Jonelle Schmidt,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,W,55-59,8:16.68,Nancy L Hewes,,Huntsman Senior Games,2010,2
+ARIZ,800 M Freestyle,SCM,W,55-59,12:42.41,Katy James,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,800 M Freestyle,SCM,W,55-59,16:24.29,Nancy L Hewes,,Huntsman Senior Games,2010,2
+ARIZ,1500 M Freestyle,SCM,W,55-59,25:07.58,Katy James,,2010 Ron Johnson Invitational,2010,1
+ARIZ,1500 M Freestyle,SCM,W,55-59,31:42.09,Nancy L Hewes,,Huntsman Senior Games,2010,2
+ARIZ,50 M Backstroke,SCM,W,55-59,39.33,Katy James,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,55-59,59.86,Nancy L Hewes,,Huntsman Senior Games,2010,2
+ARIZ,100 M Backstroke,SCM,W,55-59,1:29.38,Katy James,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,200 M Backstroke,SCM,W,55-59,3:18.11,Katy James,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,50 M Breaststroke,SCM,W,55-59,59.90,Nancy L Hewes,,Huntsman Senior Games,2010,1
+ARIZ,50 M Butterfly,SCM,W,55-59,59.20,Nancy L Hewes,,Huntsman Senior Games,2010,1
+ARIZ,200 M Butterfly,SCM,W,55-59,3:41.48,Katy James,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,100 M Individual Medley,SCM,W,55-59,2:01.64,Nancy L Hewes,,Huntsman Senior Games,2010,1
+ARIZ,400 M Individual Medley,SCM,W,55-59,7:09.34,Katy James,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,50 M Freestyle,SCM,W,60-64,32.85,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,60-64,36.26,Joanne Menard,,2010 SPMA Short Course Meters Championships,2010,2
+ARIZ,50 M Freestyle,SCM,W,60-64,52.66,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Freestyle,SCM,W,60-64,1:17.15,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,W,60-64,1:35.07,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,100 M Freestyle,SCM,W,60-64,2:00.90,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,W,60-64,3:29.56,Judy L Gillies,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,60-64,3:43.41,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,200 M Freestyle,SCM,W,60-64,4:06.85,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,W,60-64,6:13.97,Joanne Menard,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,400 M Freestyle,SCM,W,60-64,7:58.31,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,400 M Freestyle,SCM,W,60-64,8:31.43,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,800 M Freestyle,SCM,W,60-64,12:30.41,Joanne Menard,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,800 M Freestyle,SCM,W,60-64,14:14.87,Judy L Gillies,,2010 Ron Johnson Invitational,2010,2
+ARIZ,1500 M Freestyle,SCM,W,60-64,24:10.49,Joanne Menard,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,50 M Backstroke,SCM,W,60-64,42.28,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,60-64,52.26,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,50 M Backstroke,SCM,W,60-64,1:06.65,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Backstroke,SCM,W,60-64,1:33.12,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,W,60-64,1:56.54,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,200 M Backstroke,SCM,W,60-64,4:23.90,Karen A Teichman,,Huntsman Senior Games,2010,1
+ARIZ,50 M Breaststroke,SCM,W,60-64,46.17,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,60-64,54.77,Judy L Gillies,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,W,60-64,1:04.36,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,W,60-64,38.28,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,W,60-64,54.96,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,50 M Butterfly,SCM,W,60-64,1:11.68,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Butterfly,SCM,W,60-64,1:29.59,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,W,60-64,2:18.74,Karen A Teichman,,Huntsman Senior Games,2010,2
+ARIZ,100 M Individual Medley,SCM,W,60-64,1:28.99,Christie Altman,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,60-64,2:16.25,Jennifer P Nore,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Individual Medley,SCM,W,60-64,4:16.79,Karen A Teichman,,Huntsman Senior Games,2010,1
+ARIZ,100 M Freestyle,SCM,W,65-69,1:41.65,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,200 M Freestyle,SCM,W,65-69,3:38.51,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,400 M Freestyle,SCM,W,65-69,7:44.49,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,1500 M Freestyle,SCM,W,65-69,29:52.86,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,50 M Breaststroke,SCM,W,65-69,56.07,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,100 M Breaststroke,SCM,W,65-69,2:08.04,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,50 M Butterfly,SCM,W,65-69,56.34,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,100 M Butterfly,SCM,W,65-69,2:13.51,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,200 M Individual Medley,SCM,W,65-69,4:33.85,Wendy L Weinberg,,Huntsman Senior Games,2010,1
+ARIZ,50 M Freestyle,SCM,W,70-74,41.67,Mary Ann Case,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,70-74,56.71,Helen H Bayly,,2010 Empire State Games,2010,2
+ARIZ,100 M Freestyle,SCM,W,70-74,1:43.24,Mary Ann Case,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,W,70-74,7:53.79,Jan Miller,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,W,70-74,23:53.09,Helen H Bayly,,2010 Empire State Games,2010,1
+ARIZ,800 M Freestyle,SCM,W,70-74,26:04.35,Gaile Harden,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,W,70-74,1:15.95,Gaile Harden,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,W,70-74,2:39.07,Gaile Harden,,Huntsman Senior Games,2010,1
+ARIZ,200 M Backstroke,SCM,W,70-74,5:57.84,Helen H Bayly,,2010 Empire State Games,2010,1
+ARIZ,50 M Breaststroke,SCM,W,70-74,1:17.50,Gaile Harden,,Huntsman Senior Games,2010,1
+ARIZ,100 M Breaststroke,SCM,W,70-74,1:54.32,Gaile Harden,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,W,70-74,1:55.24,Anne Burnett,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Breaststroke,SCM,W,70-74,6:17.11,Gaile Harden,,Huntsman Senior Games,2010,1
+ARIZ,50 M Butterfly,SCM,W,70-74,49.40,Mary Ann Case,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,W,70-74,57.88,Jan Miller,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,W,70-74,1:58.27,Mary Ann Case,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,W,70-74,2:04.11,Mary Ann Case,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Freestyle,SCM,W,80-84,47.90,Nancy Kinney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,80-84,1:03.47,Elisebeth Harvey,,Huntsman Senior Games,2010,2
+ARIZ,100 M Freestyle,SCM,W,80-84,2:29.21,Elisebeth Harvey,,Huntsman Senior Games,2010,1
+PHX,50 M Backstroke,SCM,W,80-84,52.56,Nancy Kinney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,80-84,1:11.73,Elisebeth Harvey,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Backstroke,SCM,W,80-84,1:56.30,Nancy Kinney,,2010 Ron Johnson Invitational,2010,1
+PHX,200 M Backstroke,SCM,W,80-84,4:10.12,Nancy Kinney,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Breaststroke,SCM,W,80-84,1:05.52,Nancy Kinney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,80-84,1:40.78,Elisebeth Harvey,,Huntsman Senior Games,2010,2
+PHX,100 M Individual Medley,SCM,W,80-84,2:03.26,Nancy Kinney,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,W,85-89,1:03.33,Ruth M Manfredi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,W,85-89,5:09.39,Ruth M Manfredi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,W,85-89,1:26.69,Ruth M Manfredi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,W,85-89,1:52.25,Ruth M Manfredi,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Freestyle,SCM,M,18-24,24.46,Bear Behrmann,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,18-24,27.30,Tony W Borr,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,18-24,27.90,Nathan A Curtisi,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,18-24,29.01,Chris S Rogers,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,M,18-24,59.10,Tony W Borr,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,18-24,1:02.42,Nathan A Curtisi,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,18-24,1:02.54,Chris S Rogers,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,M,18-24,2:16.74,Nathan A Curtisi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,18-24,2:18.00,Tony W Borr,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,M,18-24,2:23.92,Chris S Rogers,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,M,18-24,4:43.89,Tony W Borr,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,M,18-24,4:59.84,Chris S Rogers,,2010 Ron Johnson Invitational,2010,2
+ARIZ,800 M Freestyle,SCM,M,18-24,10:16.35,Tony W Borr,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,M,18-24,10:41.27,Nathan A Curtisi,,2010 Ron Johnson Invitational,2010,2
+UNAT,50 M Backstroke,SCM,M,18-24,29.54,Bear Behrmann,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,18-24,34.44,Nathan A Curtisi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,18-24,36.57,Ryne Drogemuller,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,M,18-24,37.42,Chris S Rogers,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Breaststroke,SCM,M,18-24,1:20.10,Ryne Drogemuller,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,18-24,1:20.73,Chris S Rogers,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,18-24,30.22,Nathan A Curtisi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,18-24,31.00,Tony W Borr,,2010 Ron Johnson Invitational,2010,2
+UNAT,100 M Butterfly,SCM,M,18-24,1:03.55,Bear Behrmann,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,18-24,1:14.03,Tony W Borr,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Individual Medley,SCM,M,18-24,2:37.63,Tony W Borr,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,25-29,23.86,Kyle M Shores,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,25-29,26.95,John T Swick,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,25-29,27.49,Donald A Van Slyke,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,25-29,27.75,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Freestyle,SCM,M,25-29,28.63,Kirk Hasler,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,M,25-29,29.40,Charles H Mazin,,2010 Ron Johnson Invitational,2010,6
+ARIZ,50 M Freestyle,SCM,M,25-29,32.14,Jose A Ponce,,2010 Ron Johnson Invitational,2010,7
+ARIZ,50 M Freestyle,SCM,M,25-29,33.21,David M Decker,,2010 Ron Johnson Invitational,2010,8
+ARIZ,100 M Freestyle,SCM,M,25-29,59.15,John T Swick,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,25-29,1:00.35,Jose A Ponce,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,25-29,1:01.56,Donald A Van Slyke,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Freestyle,SCM,M,25-29,1:02.31,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,M,25-29,1:04.26,Kirk Hasler,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Freestyle,SCM,M,25-29,1:05.66,Charles H Mazin,,2010 Ron Johnson Invitational,2010,6
+ARIZ,100 M Freestyle,SCM,M,25-29,1:19.30,David M Decker,,2010 Ron Johnson Invitational,2010,7
+ARIZ,200 M Freestyle,SCM,M,25-29,2:10.34,John T Swick,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,25-29,2:28.00,Charles H Mazin,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,25-29,4:44.99,John T Swick,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,25-29,33.68,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,25-29,41.33,David M Decker,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Backstroke,SCM,M,25-29,1:35.44,David M Decker,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,25-29,33.57,Kirk Hasler,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,25-29,34.95,John T Swick,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,M,25-29,35.19,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Breaststroke,SCM,M,25-29,40.22,Charles H Mazin,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Breaststroke,SCM,M,25-29,48.06,David M Decker,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Breaststroke,SCM,M,25-29,1:16.39,Kirk Hasler,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,25-29,1:16.56,John T Swick,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,M,25-29,1:18.82,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Breaststroke,SCM,M,25-29,2:50.82,John T Swick,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,25-29,25.76,Kyle M Shores,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,25-29,28.81,Jose A Ponce,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,25-29,29.07,Donald A Van Slyke,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,M,25-29,38.39,David M Decker,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Butterfly,SCM,M,25-29,57.02,Kyle M Shores,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,25-29,1:07.34,Donald A Van Slyke,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,M,25-29,1:08.11,Jose A Ponce,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:08.14,John T Swick,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:09.12,Donald A Van Slyke,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:09.17,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:16.62,Charles H Mazin,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:28.30,David M Decker,,2010 Ron Johnson Invitational,2010,5
+ARIZ,200 M Individual Medley,SCM,M,25-29,2:37.16,Nathan T Arrowsmith,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,30-34,24.70,Brandon J Schindler,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,30-34,27.26,Jason M Turner,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,30-34,28.94,David Glaeseman,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,30-34,32.70,Jose C Salazar,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Freestyle,SCM,M,30-34,33.15,Samuel T Holdren,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Freestyle,SCM,M,30-34,1:02.99,Jason M Turner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,30-34,1:12.93,Samuel T Holdren,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,30-34,1:19.16,Jose C Salazar,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,M,30-34,2:00.40,R Sean Justice,,2010 Ron Johnson Invitational,2010,1
+UNAT,200 M Freestyle,SCM,M,30-34,2:29.61,Scott W Newell,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,30-34,4:12.18,R Sean Justice,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,M,30-34,8:36.69,R Sean Justice,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,M,30-34,14:05.45,Jose C Salazar,,2010 Ron Johnson Invitational,2010,2
+ARIZ,1500 M Freestyle,SCM,M,30-34,16:27.27,R Sean Justice,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,30-34,30.19,Brandon J Schindler,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Backstroke,SCM,M,30-34,34.77,Scott W Newell,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,M,30-34,39.76,Samuel T Holdren,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Backstroke,SCM,M,30-34,41.95,Jose C Salazar,,2010 Ron Johnson Invitational,2010,4
+UNAT,100 M Backstroke,SCM,M,30-34,1:13.30,Scott W Newell,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,30-34,33.12,Jacob A Palmer,,2010 Ron Johnson Invitational,2010,1
+MMAC,50 M Breaststroke,SCM,M,30-34,33.69,John R Lowry,,2010 Ron Johnson Invitational,2010,2
+UNAT,50 M Breaststroke,SCM,M,30-34,39.11,Scott W Newell,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Breaststroke,SCM,M,30-34,42.00,Samuel T Holdren,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Breaststroke,SCM,M,30-34,44.59,David Glaeseman,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Breaststroke,SCM,M,30-34,1:15.13,Jonathan P Tunstall,,2010 Ron Johnson Invitational,2010,1
+MMAC,100 M Breaststroke,SCM,M,30-34,1:15.64,John R Lowry,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,30-34,29.05,Jason M Turner,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Butterfly,SCM,M,30-34,32.74,Scott W Newell,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,30-34,34.20,Sean Hranac,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,M,30-34,36.40,Samuel T Holdren,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Butterfly,SCM,M,30-34,39.03,Jose C Salazar,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Butterfly,SCM,M,30-34,1:06.04,Jason M Turner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,30-34,1:07.08,Jacob A Palmer,,2010 Ron Johnson Invitational,2010,2
+UNAT,100 M Butterfly,SCM,M,30-34,1:18.22,Scott W Newell,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:05.56,Jonathan P Tunstall,,2010 Ron Johnson Invitational,2010,1
+UNAT,100 M Individual Medley,SCM,M,30-34,1:13.12,Scott W Newell,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:19.44,Sean Hranac,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:23.17,Samuel T Holdren,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:32.33,David Glaeseman,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:35.12,Jose C Salazar,,2010 Ron Johnson Invitational,2010,6
+UNAT,200 M Individual Medley,SCM,M,30-34,2:52.45,Scott W Newell,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,35-39,25.06,Joel M Wainwright,,2010 Ron Johnson Invitational,2010,1
+SLN,50 M Freestyle,SCM,M,35-39,26.31,Jesse Melnick,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,35-39,26.48,Trent Guerin,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,35-39,27.25,Marc A Valle,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Freestyle,SCM,M,35-39,28.25,Jack Beaver,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,M,35-39,32.16,Ronald C Conner,,2010 Ron Johnson Invitational,2010,6
+ARIZ,100 M Freestyle,SCM,M,35-39,54.94,Joel M Wainwright,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,35-39,1:00.31,Marc A Valle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,35-39,1:04.14,Jack Beaver,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Freestyle,SCM,M,35-39,1:12.24,Ronald C Conner,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,M,35-39,2:17.27,Jack Beaver,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,35-39,2:18.94,Marc A Valle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,35-39,4:42.49,Brian Campbell,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,M,35-39,5:00.10,Marc A Valle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,35-39,5:02.53,Jack Beaver,,2010 Ron Johnson Invitational,2010,3
+PHX,400 M Freestyle,SCM,M,35-39,6:08.26,John Butt,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Backstroke,SCM,M,35-39,27.91,Joel M Wainwright,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,35-39,29.22,Trent Guerin,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Backstroke,SCM,M,35-39,59.89,Joel M Wainwright,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,M,35-39,1:05.12,Trent Guerin,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,M,35-39,2:12.48,Joel M Wainwright,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,35-39,28.33,Jeff P Commings,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,35-39,33.07,D C Spires,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,M,35-39,39.21,Ronald C Conner,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Breaststroke,SCM,M,35-39,1:01.86,Jeff P Commings,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,35-39,1:26.81,Ronald C Conner,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Breaststroke,SCM,M,35-39,3:14.32,Stephen S So,,2010 Ron Johnson Invitational,2010,1
+SLN,50 M Butterfly,SCM,M,35-39,27.87,Jesse Melnick,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,35-39,28.90,Marc A Valle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,35-39,28.91,Brian Campbell,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,M,35-39,31.49,Jack Beaver,,2010 Ron Johnson Invitational,2010,4
+ARIZ,50 M Butterfly,SCM,M,35-39,31.87,Stephen S So,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Butterfly,SCM,M,35-39,37.78,Ronald C Conner,,2010 Ron Johnson Invitational,2010,6
+ARIZ,50 M Butterfly,SCM,M,35-39,43.96,Eddie R Mylan,,2010 Ron Johnson Invitational,2010,7
+ARIZ,100 M Butterfly,SCM,M,35-39,1:00.92,Joel M Wainwright,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,35-39,1:05.78,Marc A Valle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,M,35-39,1:07.87,Jack Beaver,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Butterfly,SCM,M,35-39,2:45.30,Marc A Valle,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Butterfly,SCM,M,35-39,2:46.73,Jack Beaver,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,M,35-39,57.17,Jeff P Commings,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,M,35-39,1:05.81,Trent Guerin,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,M,35-39,1:15.80,Jack Beaver,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,35-39,1:16.85,Marc A Valle,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Individual Medley,SCM,M,35-39,1:22.36,Ronald C Conner,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Individual Medley,SCM,M,35-39,1:23.97,Stephen S So,,2010 Ron Johnson Invitational,2010,6
+ARIZ,200 M Individual Medley,SCM,M,35-39,2:09.22,Jeff P Commings,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,35-39,2:50.25,Stephen S So,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Individual Medley,SCM,M,35-39,3:11.35,Ronald C Conner,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,40-44,25.80,Patrick W Brundage,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,40-44,28.37,William D Montgomery,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,40-44,29.98,Ryan N Vogt,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,40-44,32.14,Hank Hoffman,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,M,40-44,55.72,Patrick W Brundage,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,40-44,1:00.48,Brad Biddle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,40-44,1:03.18,Michael J Brauer,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Freestyle,SCM,M,40-44,1:03.22,William D Montgomery,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,M,40-44,1:14.49,Hank Hoffman,,2010 Ron Johnson Invitational,2010,5
+ARIZ,200 M Freestyle,SCM,M,40-44,2:04.16,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,40-44,2:11.48,Brad Biddle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,M,40-44,2:23.74,Ryan N Vogt,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,M,40-44,4:20.70,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,M,40-44,4:46.36,Kent M Johnson,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,40-44,4:49.80,Brad Biddle,,2010 Ron Johnson Invitational,2010,3
+ARIZ,800 M Freestyle,SCM,M,40-44,9:03.67,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,M,40-44,9:51.76,Kent M Johnson,,2010 Ron Johnson Invitational,2010,2
+ARIZ,800 M Freestyle,SCM,M,40-44,9:56.99,Brad Biddle,,2010 Ron Johnson Invitational,2010,3
+ARIZ,1500 M Freestyle,SCM,M,40-44,17:26.45,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,1500 M Freestyle,SCM,M,40-44,19:01.12,Brad Biddle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,1500 M Freestyle,SCM,M,40-44,19:02.81,Kent M Johnson,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Backstroke,SCM,M,40-44,36.68,William D Montgomery,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,40-44,37.68,Brad Biddle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Backstroke,SCM,M,40-44,1:05.03,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,M,40-44,1:13.06,Michael J Brauer,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,M,40-44,2:15.85,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,40-44,37.80,Ryan N Vogt,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,40-44,38.52,Brad Biddle,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Breaststroke,SCM,M,40-44,3:10.40,Brad Biddle,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,40-44,27.62,Patrick W Brundage,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,40-44,29.05,Michael J Brauer,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,40-44,31.37,William D Montgomery,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Butterfly,SCM,M,40-44,1:00.30,Patrick W Brundage,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,40-44,1:13.74,William D Montgomery,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Butterfly,SCM,M,40-44,2:22.58,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:13.05,William D Montgomery,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:39.99,Kent M Johnson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:44.66,William D Montgomery,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Individual Medley,SCM,M,40-44,5:03.27,Kurt F Dickson,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,45-49,25.67,Terry A De Biase,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,45-49,29.77,John C Becker,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,45-49,30.17,Boyd C Heidenreich,,2010 Ron Johnson Invitational,2010,3
+PHX,50 M Freestyle,SCM,M,45-49,31.30,Michael J Wagner,,2010 Ron Johnson Invitational,2010,4
+UNAT,50 M Freestyle,SCM,M,45-49,31.82,Theodore Collins,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,M,45-49,34.31,Rodney (Scott) Harnisch,,2010 Ron Johnson Invitational,2010,6
+ARIZ,50 M Freestyle,SCM,M,45-49,38.29,Donald E Weaver,,2010 Ron Johnson Invitational,2010,7
+ARIZ,50 M Freestyle,SCM,M,45-49,39.73,Douglas D Everett,,2010 Ron Johnson Invitational,2010,8
+ARIZ,100 M Freestyle,SCM,M,45-49,56.46,Terry A De Biase,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,45-49,1:03.23,Mark D Hickman,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Freestyle,SCM,M,45-49,1:10.17,Michael J Wagner,,2010 Ron Johnson Invitational,2010,3
+UNAT,100 M Freestyle,SCM,M,45-49,1:11.54,Theodore Collins,,2010 Ron Johnson Invitational,2010,4
+ARIZ,100 M Freestyle,SCM,M,45-49,1:15.54,Rodney (Scott) Harnisch,,2010 Ron Johnson Invitational,2010,5
+ARIZ,100 M Freestyle,SCM,M,45-49,1:22.60,Douglas D Everett,,2010 SPMA Short Course Meters Championships,2010,6
+ARIZ,100 M Freestyle,SCM,M,45-49,1:36.40,Donald E Weaver,,2010 Ron Johnson Invitational,2010,7
+ARIZ,200 M Freestyle,SCM,M,45-49,2:03.39,Terry A De Biase,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,45-49,2:07.52,Erwin D Kratz,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,M,45-49,2:20.30,John C Becker,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,M,45-49,2:25.57,Boyd C Heidenreich,,2010 Ron Johnson Invitational,2010,4
+UNAT,200 M Freestyle,SCM,M,45-49,2:36.67,Theodore Collins,,2010 Ron Johnson Invitational,2010,5
+PHX,200 M Freestyle,SCM,M,45-49,2:42.45,Michael J Wagner,,2010 Ron Johnson Invitational,2010,6
+ARIZ,200 M Freestyle,SCM,M,45-49,2:46.34,Rodney (Scott) Harnisch,,2010 Ron Johnson Invitational,2010,7
+ARIZ,200 M Freestyle,SCM,M,45-49,2:55.04,John D Alfonso,,2010 Ron Johnson Invitational,2010,8
+ARIZ,200 M Freestyle,SCM,M,45-49,2:56.29,Douglas D Everett,,2010 SPMA Short Course Meters Championships,2010,9
+ARIZ,200 M Freestyle,SCM,M,45-49,3:39.91,Donald E Weaver,,2010 Ron Johnson Invitational,2010,10
+ARIZ,400 M Freestyle,SCM,M,45-49,4:29.68,Terry A De Biase,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,M,45-49,5:19.68,Boyd C Heidenreich,,2010 Ron Johnson Invitational,2010,2
+UNAT,400 M Freestyle,SCM,M,45-49,5:39.69,Theodore Collins,,2010 Ron Johnson Invitational,2010,3
+PHX,400 M Freestyle,SCM,M,45-49,5:49.30,Michael J Wagner,,2010 Ron Johnson Invitational,2010,4
+ARIZ,400 M Freestyle,SCM,M,45-49,6:21.94,Douglas D Everett,,2010 SPMA Short Course Meters Championships,2010,5
+ARIZ,800 M Freestyle,SCM,M,45-49,10:20.13,John C Becker,,2010 Ron Johnson Invitational,2010,1
+UNAT,800 M Freestyle,SCM,M,45-49,11:47.36,Theodore Collins,,2010 Ron Johnson Invitational,2010,2
+ARIZ,800 M Freestyle,SCM,M,45-49,13:13.55,Douglas D Everett,,2010 SPMA Short Course Meters Championships,2010,3
+ARIZ,1500 M Freestyle,SCM,M,45-49,25:21.84,Douglas D Everett,,2010 SPMA Short Course Meters Championships,2010,1
+UNAT,50 M Backstroke,SCM,M,45-49,37.28,Theodore Collins,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,M,45-49,1:08.49,Mark D Hickman,,2010 Ron Johnson Invitational,2010,1
+UNAT,100 M Backstroke,SCM,M,45-49,1:23.25,Theodore Collins,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,M,45-49,2:21.93,Erwin D Kratz,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Backstroke,SCM,M,45-49,2:30.03,Mark D Hickman,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,M,45-49,4:10.26,Douglas D Everett,,2010 Ron Johnson Invitational,2010,3
+PHX,50 M Breaststroke,SCM,M,45-49,40.34,Michael J Wagner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,45-49,44.14,Donald E Weaver,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,M,45-49,1:01.40,Douglas D Everett,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Breaststroke,SCM,M,45-49,1:22.52,Boyd C Heidenreich,,2010 Ron Johnson Invitational,2010,1
+PHX,100 M Breaststroke,SCM,M,45-49,1:30.73,Michael J Wagner,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,M,45-49,1:43.38,Douglas D Everett,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Breaststroke,SCM,M,45-49,3:24.36,Michael J Wagner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Breaststroke,SCM,M,45-49,3:44.62,Donald E Weaver,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,45-49,27.64,Terry A De Biase,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,45-49,38.66,Rodney (Scott) Harnisch,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,M,45-49,1:01.33,Terry A De Biase,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,45-49,1:05.76,Marty Sarussi,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Butterfly,SCM,M,45-49,2:45.86,Marty Sarussi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Butterfly,SCM,M,45-49,3:48.10,Douglas D Everett,,2010 SPMA Short Course Meters Championships,2010,2
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:12.08,Marty Sarussi,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:14.43,Boyd C Heidenreich,,2010 Ron Johnson Invitational,2010,2
+UNAT,100 M Individual Medley,SCM,M,45-49,1:25.44,Theodore Collins,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:29.00,Rodney (Scott) Harnisch,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Individual Medley,SCM,M,45-49,2:22.07,Erwin D Kratz,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,45-49,2:44.02,Marty Sarussi,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Individual Medley,SCM,M,45-49,5:04.19,Erwin D Kratz,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,50-54,25.95,Paul L Smith,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Freestyle,SCM,M,50-54,30.03,Jeff A Baird,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,50-54,31.37,David J Farnsworth,,2010 Ron Johnson Invitational,2010,3
+UNAT,50 M Freestyle,SCM,M,50-54,33.18,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,4
+PHX,50 M Freestyle,SCM,M,50-54,34.60,David H Getts,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,M,50-54,39.64,Randall L Baum,,2010 Ron Johnson Invitational,2010,6
+ARIZ,100 M Freestyle,SCM,M,50-54,1:04.28,Jim S Stites,,2010 SPMA Short Course Meters Championships,2010,1
+UNAT,100 M Freestyle,SCM,M,50-54,1:13.09,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Freestyle,SCM,M,50-54,1:16.21,David H Getts,,2010 Ron Johnson Invitational,2010,3
+PHX,100 M Freestyle,SCM,M,50-54,1:25.88,Michael J Lotz,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,M,50-54,2:21.73,Jim S Stites,,2010 SPMA Short Course Meters Championships,2010,1
+PHX,200 M Freestyle,SCM,M,50-54,2:32.38,Jeff A Baird,,2010 Ron Johnson Invitational,2010,2
+UNAT,200 M Freestyle,SCM,M,50-54,2:41.51,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,M,50-54,3:02.50,William E Shaw,,2010 Ron Johnson Invitational,2010,4
+ARIZ,400 M Freestyle,SCM,M,50-54,5:04.25,Jim S Stites,,2010 SPMA Short Course Meters Championships,2010,1
+PHX,400 M Freestyle,SCM,M,50-54,5:47.98,David H Getts,,2010 Ron Johnson Invitational,2010,2
+PHX,400 M Freestyle,SCM,M,50-54,6:38.20,Michael J Lotz,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Freestyle,SCM,M,50-54,6:39.19,William E Shaw,,2010 Ron Johnson Invitational,2010,4
+ARIZ,800 M Freestyle,SCM,M,50-54,10:36.20,Jim S Stites,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,800 M Freestyle,SCM,M,50-54,13:37.68,William E Shaw,,2010 Ron Johnson Invitational,2010,2
+ARIZ,1500 M Freestyle,SCM,M,50-54,20:04.86,Jim S Stites,,2010 SPMA Short Course Meters Championships,2010,1
+ARIZ,50 M Backstroke,SCM,M,50-54,38.83,Daniel Vargas,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Backstroke,SCM,M,50-54,40.30,David H Getts,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Backstroke,SCM,M,50-54,1:30.78,David H Getts,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Breaststroke,SCM,M,50-54,35.99,Jeff A Baird,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,50-54,36.03,Daniel Vargas,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,M,50-54,39.48,David J Farnsworth,,2010 Ron Johnson Invitational,2010,3
+UNAT,50 M Breaststroke,SCM,M,50-54,41.56,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,4
+PHX,50 M Breaststroke,SCM,M,50-54,41.75,David H Getts,,2010 Ron Johnson Invitational,2010,5
+PHX,100 M Breaststroke,SCM,M,50-54,1:21.80,Jeff A Baird,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:30.02,David J Farnsworth,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Breaststroke,SCM,M,50-54,1:32.56,David H Getts,,2010 Ron Johnson Invitational,2010,3
+UNAT,100 M Breaststroke,SCM,M,50-54,1:34.01,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,4
+PHX,200 M Breaststroke,SCM,M,50-54,2:58.86,Jeff A Baird,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,50-54,27.15,Paul L Smith,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Butterfly,SCM,M,50-54,31.70,Jeff A Baird,,2010 Ron Johnson Invitational,2010,2
+UNAT,50 M Butterfly,SCM,M,50-54,42.41,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,3
+PHX,100 M Individual Medley,SCM,M,50-54,1:14.18,Jeff A Baird,,2010 Ron Johnson Invitational,2010,1
+PHX,100 M Individual Medley,SCM,M,50-54,1:25.23,David H Getts,,2010 Ron Johnson Invitational,2010,2
+UNAT,100 M Individual Medley,SCM,M,50-54,1:28.92,Glen Y Kishi,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:39.30,William E Shaw,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Individual Medley,SCM,M,50-54,3:52.91,William E Shaw,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,55-59,26.09,Barry Roth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,55-59,27.45,John T Piecuch,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Freestyle,SCM,M,55-59,29.46,Gordon S Taylor,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,55-59,29.80,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,4
+UNAT,50 M Freestyle,SCM,M,55-59,31.58,Tom Kaufman,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,M,55-59,35.43,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,6
+ARIZ,100 M Freestyle,SCM,M,55-59,58.45,Barry Roth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Freestyle,SCM,M,55-59,1:07.19,Gordon S Taylor,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,55-59,1:22.05,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Freestyle,SCM,M,55-59,2:22.97,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,55-59,2:40.29,Kurt S Mickelson,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Freestyle,SCM,M,55-59,2:43.52,Don R Perry,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Freestyle,SCM,M,55-59,2:43.54,Robert Liotta,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,M,55-59,2:55.11,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,5
+ARIZ,400 M Freestyle,SCM,M,55-59,4:50.58,Barry Roth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,M,55-59,5:00.96,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,55-59,5:41.93,Don R Perry,,2010 Ron Johnson Invitational,2010,3
+ARIZ,800 M Freestyle,SCM,M,55-59,10:38.75,Barry Roth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,800 M Freestyle,SCM,M,55-59,11:40.34,Don R Perry,,2010 Ron Johnson Invitational,2010,2
+ARIZ,800 M Freestyle,SCM,M,55-59,12:42.85,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,3
+ARIZ,1500 M Freestyle,SCM,M,55-59,22:13.30,Don R Perry,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,55-59,35.05,Gordon S Taylor,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,M,55-59,1:17.13,Gordon S Taylor,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Backstroke,SCM,M,55-59,2:51.02,Gordon S Taylor,,2010 Ron Johnson Invitational,2010,1
+PHX,200 M Backstroke,SCM,M,55-59,3:05.98,Robert Liotta,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Backstroke,SCM,M,55-59,3:29.83,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Breaststroke,SCM,M,55-59,35.79,Barry Roth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,55-59,37.70,Kurt S Mickelson,,2010 Ron Johnson Invitational,2010,2
+PHX,50 M Breaststroke,SCM,M,55-59,38.15,Robert Liotta,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:19.15,Barry Roth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:36.45,Don R Perry,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:38.09,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Breaststroke,SCM,M,55-59,3:09.91,Robert Liotta,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Breaststroke,SCM,M,55-59,3:23.17,Don R Perry,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Breaststroke,SCM,M,55-59,3:27.05,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,M,55-59,31.85,Gordon S Taylor,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Butterfly,SCM,M,55-59,31.89,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Butterfly,SCM,M,55-59,1:11.25,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Butterfly,SCM,M,55-59,1:14.05,Hunter Yost,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Butterfly,SCM,M,55-59,2:42.41,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,1
+PHX,200 M Butterfly,SCM,M,55-59,2:57.13,Robert Liotta,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,M,55-59,1:15.52,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,55-59,2:44.57,Robert J Ditolla,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,55-59,3:18.92,Don R Perry,,2010 Ron Johnson Invitational,2010,2
+ARIZ,200 M Individual Medley,SCM,M,55-59,3:19.98,Jim D Koubeck,,2010 Ron Johnson Invitational,2010,3
+ARIZ,400 M Individual Medley,SCM,M,55-59,5:57.14,Hunter Yost,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Individual Medley,SCM,M,55-59,6:56.90,Don R Perry,,2010 Ron Johnson Invitational,2010,2
+UNAT,50 M Freestyle,SCM,M,60-64,30.48,Jeffery J Hauflaire,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,60-64,30.56,Michael B Johnston,,2010 Ron Johnson Invitational,2010,2
+PHX,50 M Freestyle,SCM,M,60-64,32.54,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,3
+UNAT,50 M Freestyle,SCM,M,60-64,36.50,John P Plante,,2010 Ron Johnson Invitational,2010,4
+PHX,50 M Freestyle,SCM,M,60-64,38.30,Allan Duckworth,,2010 Ron Johnson Invitational,2010,5
+ARIZ,50 M Freestyle,SCM,M,60-64,39.89,John C Welton,,Huntsman Senior Games,2010,6
+ARIZ,50 M Freestyle,SCM,M,60-64,53.43,Earl J Charles,,2010 Ron Johnson Invitational,2010,7
+ARIZ,100 M Freestyle,SCM,M,60-64,1:08.44,Michael B Johnston,,2010 Ron Johnson Invitational,2010,1
+UNAT,100 M Freestyle,SCM,M,60-64,1:09.97,Jeffery J Hauflaire,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Freestyle,SCM,M,60-64,1:32.21,John C Welton,,Huntsman Senior Games,2010,3
+ARIZ,100 M Freestyle,SCM,M,60-64,1:56.88,Earl J Charles,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,M,60-64,2:29.56,Michael B Johnston,,2010 Ron Johnson Invitational,2010,1
+PHX,200 M Freestyle,SCM,M,60-64,2:36.41,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,2
+UNAT,200 M Freestyle,SCM,M,60-64,2:57.05,John P Plante,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Freestyle,SCM,M,60-64,3:07.47,Allan Duckworth,,2010 Ron Johnson Invitational,2010,4
+ARIZ,200 M Freestyle,SCM,M,60-64,3:20.83,John C Welton,,Huntsman Senior Games,2010,5
+ARIZ,200 M Freestyle,SCM,M,60-64,4:48.78,Earl J Charles,,2010 Ron Johnson Invitational,2010,6
+PHX,400 M Freestyle,SCM,M,60-64,5:35.49,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Freestyle,SCM,M,60-64,5:39.96,Michael B Johnston,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,60-64,5:49.16,Hop Bailey,,2010 Ron Johnson Invitational,2010,3
+ARIZ,800 M Freestyle,SCM,M,60-64,11:24.03,Michael B Johnston,,2010 Ron Johnson Invitational,2010,1
+UNAT,800 M Freestyle,SCM,M,60-64,12:49.82,John P Plante,,2010 Ron Johnson Invitational,2010,2
+ARIZ,1500 M Freestyle,SCM,M,60-64,22:37.95,Michael B Johnston,,2010 Ron Johnson Invitational,2010,1
+UNAT,1500 M Freestyle,SCM,M,60-64,24:48.12,John P Plante,,2010 Ron Johnson Invitational,2010,2
+PHX,50 M Backstroke,SCM,M,60-64,40.59,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,60-64,40.97,Michael B Johnston,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Backstroke,SCM,M,60-64,1:27.65,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,M,60-64,1:31.25,Michael B Johnston,,2010 Ron Johnson Invitational,2010,2
+PHX,200 M Backstroke,SCM,M,60-64,3:05.99,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,1
+PHX,50 M Breaststroke,SCM,M,60-64,43.87,Allan Duckworth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,60-64,47.42,John C Welton,,Huntsman Senior Games,2010,2
+PHX,100 M Breaststroke,SCM,M,60-64,1:37.58,Allan Duckworth,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,60-64,1:50.43,John C Welton,,Huntsman Senior Games,2010,2
+ARIZ,200 M Breaststroke,SCM,M,60-64,4:09.10,John C Welton,,Huntsman Senior Games,2010,1
+PHX,50 M Butterfly,SCM,M,60-64,34.71,Dave G Gemmill,,2010 Ron Johnson Invitational,2010,1
+UNAT,50 M Butterfly,SCM,M,60-64,38.75,Jeffery J Hauflaire,,2010 Ron Johnson Invitational,2010,2
+UNAT,100 M Butterfly,SCM,M,60-64,1:39.04,Jeffery J Hauflaire,,2010 Ron Johnson Invitational,2010,1
+UNAT,100 M Individual Medley,SCM,M,60-64,1:31.41,Jeffery J Hauflaire,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:41.44,John C Welton,,Huntsman Senior Games,2010,2
+ARIZ,200 M Individual Medley,SCM,M,60-64,3:11.56,Hop Bailey,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Individual Medley,SCM,M,60-64,3:45.85,John C Welton,,Huntsman Senior Games,2010,2
+UNAT,400 M Individual Medley,SCM,M,60-64,7:16.79,Jeffery J Hauflaire,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Freestyle,SCM,M,65-69,30.69,Todd S Boyd,,Sacramento Pentathlon,2010,1
+UNAT,50 M Freestyle,SCM,M,65-69,33.96,LeRoy Gaintner,,2010 Ron Johnson Invitational,2010,2
+UNAT,50 M Freestyle,SCM,M,65-69,38.86,Ray J Conn,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Freestyle,SCM,M,65-69,40.49,Bob L Jones,,2010 Ron Johnson Invitational,2010,4
+UNAT,200 M Freestyle,SCM,M,65-69,3:05.49,LeRoy Gaintner,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Freestyle,SCM,M,65-69,3:08.11,Bob L Jones,,2010 Ron Johnson Invitational,2010,2
+ARIZ,400 M Freestyle,SCM,M,65-69,6:14.89,Todd S Boyd,,MVM Alan Liu Memorial SCM Meet,2010,1
+ARIZ,800 M Freestyle,SCM,M,65-69,13:30.56,Bob L Jones,,2010 Ron Johnson Invitational,2010,1
+ARIZ,1500 M Freestyle,SCM,M,65-69,25:43.95,Bob L Jones,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Backstroke,SCM,M,65-69,42.96,Todd S Boyd,,Sacramento Pentathlon,2010,1
+UNAT,50 M Backstroke,SCM,M,65-69,49.72,LeRoy Gaintner,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Backstroke,SCM,M,65-69,53.00,Bob L Jones,,2010 Ron Johnson Invitational,2010,3
+PHX,100 M Backstroke,SCM,M,65-69,2:24.01,Martin R Hahm,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Backstroke,SCM,M,65-69,3:56.37,Todd S Boyd,,MVM Alan Liu Memorial SCM Meet,2010,1
+PHX,200 M Backstroke,SCM,M,65-69,5:04.35,Martin R Hahm,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Breaststroke,SCM,M,65-69,38.70,Kimball V Bernard,,2010 Ron Johnson Invitational,2010,1
+ARIZ,50 M Breaststroke,SCM,M,65-69,48.87,Todd S Boyd,,Sacramento Pentathlon,2010,2
+ARIZ,50 M Breaststroke,SCM,M,65-69,49.95,Peter A Eisenklam,,2010 Ron Johnson Invitational,2010,3
+ARIZ,100 M Breaststroke,SCM,M,65-69,1:28.06,Kimball V Bernard,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Breaststroke,SCM,M,65-69,1:55.24,Peter A Eisenklam,,2010 Ron Johnson Invitational,2010,2
+PHX,100 M Breaststroke,SCM,M,65-69,2:12.95,Martin R Hahm,,2010 Ron Johnson Invitational,2010,3
+ARIZ,200 M Breaststroke,SCM,M,65-69,4:26.11,Todd S Boyd,,MVM Alan Liu Memorial SCM Meet,2010,1
+PHX,200 M Breaststroke,SCM,M,65-69,4:52.26,Martin R Hahm,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,65-69,36.08,Todd S Boyd,,Sacramento Pentathlon,2010,1
+ARIZ,50 M Butterfly,SCM,M,65-69,36.98,Wyatt Earp,,2010 Ron Johnson Invitational,2010,2
+ARIZ,50 M Butterfly,SCM,M,65-69,48.73,Bob L Jones,,2010 Ron Johnson Invitational,2010,3
+ARIZ,50 M Butterfly,SCM,M,65-69,53.26,Peter A Eisenklam,,2010 Ron Johnson Invitational,2010,4
+PHX,100 M Butterfly,SCM,M,65-69,2:10.14,Martin R Hahm,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Butterfly,SCM,M,65-69,3:50.35,Todd S Boyd,,MVM Alan Liu Memorial SCM Meet,2010,1
+PHX,200 M Butterfly,SCM,M,65-69,4:51.91,Martin R Hahm,,2010 Ron Johnson Invitational,2010,2
+ARIZ,100 M Individual Medley,SCM,M,65-69,1:28.25,Wyatt Earp,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Individual Medley,SCM,M,65-69,1:29.51,Todd S Boyd,,Sacramento Pentathlon,2010,2
+ARIZ,100 M Individual Medley,SCM,M,65-69,1:52.46,Peter A Eisenklam,,2010 Ron Johnson Invitational,2010,3
+PHX,200 M Individual Medley,SCM,M,65-69,4:43.60,Martin R Hahm,,2010 Ron Johnson Invitational,2010,1
+ARIZ,400 M Individual Medley,SCM,M,65-69,7:41.22,Todd S Boyd,,MVM Alan Liu Memorial SCM Meet,2010,1
+ARIZ,50 M Freestyle,SCM,M,70-74,44.57,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,100 M Freestyle,SCM,M,70-74,1:51.99,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,50 M Breaststroke,SCM,M,70-74,1:01.84,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,50 M Butterfly,SCM,M,70-74,49.46,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,100 M Butterfly,SCM,M,70-74,2:24.19,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,200 M Butterfly,SCM,M,70-74,5:48.22,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,100 M Individual Medley,SCM,M,70-74,2:00.50,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,200 M Individual Medley,SCM,M,70-74,4:48.13,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,400 M Individual Medley,SCM,M,70-74,11:13.33,Simon Goldstein,,Huntsman Senior Games,2010,1
+ARIZ,50 M Freestyle,SCM,M,75-79,44.36,Gene J Donner,,2010 Empire State Games,2010,1
+SSC,100 M Freestyle,SCM,M,75-79,1:33.12,Glenn A Tewksbury,,Huntsman Senior Games,2010,1
+SSC,200 M Freestyle,SCM,M,75-79,3:30.67,Glenn A Tewksbury,,Huntsman Senior Games,2010,1
+SSC,400 M Freestyle,SCM,M,75-79,8:03.38,Glenn A Tewksbury,,Huntsman Senior Games,2010,1
+ARIZ,50 M Backstroke,SCM,M,75-79,52.20,Gene J Donner,,2010 Empire State Games,2010,1
+SSC,50 M Backstroke,SCM,M,75-79,52.54,Glenn A Tewksbury,,Huntsman Senior Games,2010,2
+ARIZ,50 M Backstroke,SCM,M,75-79,55.68,Harold E Peter,,Huntsman Senior Games,2010,3
+SSC,100 M Backstroke,SCM,M,75-79,2:03.50,Glenn A Tewksbury,,Huntsman Senior Games,2010,1
+ARIZ,100 M Backstroke,SCM,M,75-79,2:05.36,Gene J Donner,,2010 Empire State Games,2010,2
+ARIZ,200 M Backstroke,SCM,M,75-79,4:29.34,Gene J Donner,,2010 Empire State Games,2010,1
+ARIZ,50 M Breaststroke,SCM,M,75-79,52.62,Harold E Peter,,Huntsman Senior Games,2010,1
+ARIZ,100 M Breaststroke,SCM,M,75-79,2:02.60,Harold E Peter,,Huntsman Senior Games,2010,1
+SSC,100 M Individual Medley,SCM,M,75-79,2:12.99,Glenn A Tewksbury,,Huntsman Senior Games,2010,1
+ARIZ,400 M Freestyle,SCM,M,80-84,7:04.69,Bob K Miller,,2010 Ron Johnson Invitational,2010,1
+ARIZ,100 M Backstroke,SCM,M,80-84,1:37.44,Bob K Miller,,2010 Ron Johnson Invitational,2010,1
+ARIZ,200 M Backstroke,SCM,M,80-84,3:24.71,Bob K Miller,,2010 Ron Johnson Invitational,2010,1

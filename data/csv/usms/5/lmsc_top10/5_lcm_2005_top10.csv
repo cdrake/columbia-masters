@@ -1,0 +1,177 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,100 M Freestyle,LCM,W,18-24,1:28.12,Adrien M Zap,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,18-24,3:27.29,Adrien M Zap,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,W,18-24,7:10.89,Adrien M Zap,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,25-29,32.01,Amy M Gladwell,,Brown University Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,W,25-29,1:12.25,Amy M Gladwell,,Brown University Long Course Meet,2005,1
+CONN,100 M Backstroke,LCM,W,25-29,1:23.29,Amy M Gladwell,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,W,25-29,39.22,Ann K Carcaterra,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,W,25-29,1:23.90,Ann K Carcaterra,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,W,25-29,31.38,Ann K Carcaterra,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,W,25-29,34.70,Amy M Gladwell,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Butterfly,LCM,W,25-29,1:17.60,Amy M Gladwell,,Brown University Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,W,25-29,2:41.68,Ann K Carcaterra,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,W,25-29,3:00.49,Amy M Gladwell,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Freestyle,LCM,W,30-34,1:24.29,Michele E Stawasz,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,30-34,3:11.49,Michele E Stawasz,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,W,30-34,45.51,Michele E Stawasz,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,W,30-34,1:37.54,Michele E Stawasz,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,W,30-34,3:27.73,Michele E Stawasz,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,35-39,33.49,Donna A Spaulding,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,35-39,38.46,Kimberly A Russo,,Wilton YMCA Long Course Meet,2005,2
+CONN,200 M Freestyle,LCM,W,35-39,2:40.16,Donna A Spaulding,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,35-39,3:01.92,Kimberly A Russo,,Wilton YMCA Long Course Meet,2005,2
+CONN,400 M Freestyle,LCM,W,35-39,6:17.37,Kimberly A Russo,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,W,35-39,37.08,Donna A Spaulding,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,40-44,34.01,Rae Ann Rutkowski,,Colonies Zone LC Champs,2005,1
+CONN,50 M Freestyle,LCM,W,40-44,35.42,Kathleen A May,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Freestyle,LCM,W,40-44,1:17.51,Rae Ann Rutkowski,,Colonies Zone LC Champs,2005,1
+CONN,100 M Freestyle,LCM,W,40-44,1:19.26,Kathleen A May,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Freestyle,LCM,W,40-44,1:28.99,Marie-Pierre G Graf,,Wilton YMCA Long Course Meet,2005,3
+CONN,200 M Freestyle,LCM,W,40-44,3:12.50,Marie-Pierre G Graf,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,W,40-44,6:51.92,Marie-Pierre G Graf,,Wilton YMCA Long Course Meet,2005,1
+CONN,800 M Freestyle,LCM,W,40-44,10:36.32,Tait Michael,,2005 USMS Long Course Nationals,2005,1
+CONN,50 M Backstroke,LCM,W,40-44,39.55,Tait Michael,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Backstroke,LCM,W,40-44,1:26.46,Tait Michael,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Backstroke,LCM,W,40-44,2:50.93,Tait Michael,,2005 USMS Long Course Nationals,2005,1
+CONN,50 M Breaststroke,LCM,W,40-44,41.40,Cheryl A Kupan,,Jason Nessel Memorial LC Invite,2005,1
+CONN,50 M Breaststroke,LCM,W,40-44,45.01,Rae Ann Rutkowski,,Colonies Zone LC Champs,2005,2
+CONN,50 M Breaststroke,LCM,W,40-44,46.92,Sian Nimkoff,,Wilton YMCA Long Course Meet,2005,3
+CONN,50 M Breaststroke,LCM,W,40-44,48.13,Kathleen A May,,Wilton YMCA Long Course Meet,2005,4
+CONN,100 M Breaststroke,LCM,W,40-44,1:34.28,Cheryl A Kupan,,Jason Nessel Memorial LC Invite,2005,1
+CONN,100 M Breaststroke,LCM,W,40-44,1:40.23,Rae Ann Rutkowski,,Colonies Zone LC Champs,2005,2
+CONN,100 M Breaststroke,LCM,W,40-44,1:45.21,Marie-Pierre G Graf,,Wilton YMCA Long Course Meet,2005,3
+CONN,200 M Breaststroke,LCM,W,40-44,3:50.40,Marie-Pierre G Graf,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,W,40-44,34.52,Cheryl A Kupan,,Jason Nessel Memorial LC Invite,2005,1
+CONN,50 M Butterfly,LCM,W,40-44,36.22,Sian Nimkoff,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Butterfly,LCM,W,40-44,1:19.03,Cheryl A Kupan,,Jason Nessel Memorial LC Invite,2005,1
+CONN,200 M Individual Medley,LCM,W,40-44,2:52.25,Cheryl A Kupan,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,W,40-44,3:19.28,Kathleen A May,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Freestyle,LCM,W,45-49,43.84,Joan A Tschudi,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,W,45-49,5:11.72,Karen L Einsidler,,Jason Nessel Memorial LC Invite,2005,1
+CONN,400 M Freestyle,LCM,W,45-49,8:00.92,Joan A Tschudi,,Wilton YMCA Long Course Meet,2005,2
+CONN,200 M Backstroke,LCM,W,45-49,2:53.75,Karen L Einsidler,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,50-54,44.91,Sara L Schrager,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Backstroke,LCM,W,50-54,57.24,Sara L Schrager,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,W,50-54,4:13.31,Sara L Schrager,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,55-59,48.44,Lynne M Zareski,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,W,55-59,1:40.55,Lynne M Zareski,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,55-59,3:48.57,Lynne M Zareski,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,W,55-59,7:53.05,Lynne M Zareski,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Backstroke,LCM,W,55-59,45.57,Meredith A Moore,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Backstroke,LCM,W,55-59,1:38.61,Meredith A Moore,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,W,55-59,42.52,Meredith A Moore,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,60-64,3:55.41,Ann Louise Onton,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,W,60-64,8:11.21,Ann Louise Onton,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Backstroke,LCM,W,60-64,4:36.99,Ann Louise Onton,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,W,60-64,4:32.05,Ann Louise Onton,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Individual Medley,LCM,W,60-64,9:38.63,Ann Louise Onton,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Backstroke,LCM,W,65-69,1:48.67,Margit H Jebe,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,W,65-69,50.27,Margit H Jebe,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,W,65-69,1:48.51,Margit H Jebe,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,W,70-74,49.66,Margaret Collins,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,70-74,4:31.22,Diane M Stuart,,"World Masters Games, US Swimmers Only",2005,1
+CONN,800 M Freestyle,LCM,W,70-74,19:44.14,Diane M Stuart,,"World Masters Games, US Swimmers Only",2005,1
+CONN,100 M Freestyle,LCM,W,75-79,1:55.05,Suzanne B Graham,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,W,75-79,4:07.46,Suzanne B Graham,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,W,75-79,1:06.06,Suzanne B Graham,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,W,75-79,2:22.43,Suzanne B Graham,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,W,75-79,5:02.37,Suzanne B Graham,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,25-29,27.46,Joshua Usdavin,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,25-29,5:06.26,Joshua Usdavin,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,M,25-29,2:37.76,Joshua Usdavin,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,30-34,26.77,Jared W Walkenhorst,,Brown University Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,M,30-34,33.16,Jared W Walkenhorst,,Brown University Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,M,30-34,1:14.68,Jared W Walkenhorst,,Brown University Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,M,35-39,1:07.44,Adrian Stroie,,2005 USMS Long Course Nationals,2005,1
+CONN,50 M Breaststroke,LCM,M,35-39,37.35,Adrian Stroie,,2005 USMS Long Course Nationals,2005,1
+CONN,100 M Butterfly,LCM,M,35-39,1:12.40,Adrian Stroie,,2005 USMS Long Course Nationals,2005,1
+CONN,100 M Freestyle,LCM,M,40-44,1:06.13,Michael Hoffmann,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,M,40-44,1:12.88,Viorel Stroie,,2005 USMS Long Course Nationals,2005,2
+CONN,50 M Backstroke,LCM,M,40-44,38.74,Viorel Stroie,,2005 USMS Long Course Nationals,2005,1
+CONN,200 M Individual Medley,LCM,M,40-44,2:50.29,Michael Hoffmann,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,M,40-44,3:02.05,Viorel Stroie,,2005 USMS Long Course Nationals,2005,2
+UNAT,50 M Freestyle,LCM,M,45-49,27.51,Jim Gawronski,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,45-49,29.06,William Buttenweiser,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Freestyle,LCM,M,45-49,1:04.94,William Buttenweiser,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,M,45-49,1:36.43,David Logan,,Wilton YMCA Long Course Meet,2005,2
+CONN,200 M Freestyle,LCM,M,45-49,2:38.28,William Buttenweiser,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,45-49,5:48.69,William Buttenweiser,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,M,45-49,3:35.30,David Logan,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Butterfly,LCM,M,45-49,1:27.39,David Logan,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,50-54,29.48,John M Craig,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,M,50-54,1:06.74,John M Craig,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,M,50-54,1:33.80,Rick C Fulljames,,Wilton YMCA Long Course Meet,2005,2
+CONN,200 M Freestyle,LCM,M,50-54,2:40.77,James M Bayles,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Backstroke,LCM,M,50-54,3:02.28,James M Bayles,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,M,50-54,41.28,Rick C Fulljames,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,M,50-54,43.32,Brian G Quinn,,"World Masters Games, US Swimmers Only",2005,2
+CONN,100 M Breaststroke,LCM,M,50-54,1:33.00,Rick C Fulljames,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,M,50-54,1:44.45,Brian G Quinn,,"World Masters Games, US Swimmers Only",2005,2
+CONN,200 M Breaststroke,LCM,M,50-54,3:28.10,Rick C Fulljames,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,M,50-54,3:56.57,Brian G Quinn,,"World Masters Games, US Swimmers Only",2005,2
+CONN,50 M Butterfly,LCM,M,50-54,30.53,John M Craig,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Butterfly,LCM,M,50-54,1:40.15,Brian G Quinn,,"World Masters Games, US Swimmers Only",2005,1
+CONN,200 M Butterfly,LCM,M,50-54,4:14.11,Brian G Quinn,,"World Masters Games, US Swimmers Only",2005,1
+CONN,200 M Individual Medley,LCM,M,50-54,2:45.03,John M Craig,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,55-59,29.59,William J Geoghegan,,Colonies Zone LC Champs,2005,1
+CONN,50 M Freestyle,LCM,M,55-59,34.55,James P Elder,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Freestyle,LCM,M,55-59,40.05,Albert F Gould,,Brown University Long Course Meet,2005,3
+CONN,100 M Freestyle,LCM,M,55-59,1:06.58,William J Geoghegan,,Colonies Zone LC Champs,2005,1
+CONN,100 M Freestyle,LCM,M,55-59,1:16.86,James P Elder,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Freestyle,LCM,M,55-59,1:37.94,Albert F Gould,,Brown University Long Course Meet,2005,3
+CONN,200 M Freestyle,LCM,M,55-59,2:33.01,William J Geoghegan,,Colonies Zone LC Champs,2005,1
+CONN,200 M Freestyle,LCM,M,55-59,3:34.13,Albert F Gould,,Brown University Long Course Meet,2005,2
+CONN,400 M Freestyle,LCM,M,55-59,5:50.47,William J Geoghegan,,Colonies Zone LC Champs,2005,1
+CONN,100 M Backstroke,LCM,M,55-59,1:33.33,Robert M Cahill,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Backstroke,LCM,M,55-59,3:17.66,William J Geoghegan,,Colonies Zone LC Champs,2005,1
+CONN,200 M Backstroke,LCM,M,55-59,3:20.82,Robert M Cahill,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Breaststroke,LCM,M,55-59,49.76,Albert F Gould,,Brown University Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,M,55-59,1:51.19,Albert F Gould,,Brown University Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,M,55-59,3:32.39,William J Geoghegan,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,M,55-59,37.01,Robert M Cahill,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,M,55-59,2:59.04,William J Geoghegan,,Colonies Zone LC Champs,2005,1
+CONN,50 M Freestyle,LCM,M,60-64,30.34,Jack Geoghegan,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,60-64,35.55,Douglas H Clelford,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Freestyle,LCM,M,60-64,40.24,Peter P Berghaus,,Wilton YMCA Long Course Meet,2005,3
+CONN,100 M Freestyle,LCM,M,60-64,1:29.66,Douglas H Clelford,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,M,60-64,2:32.12,Jack Geoghegan,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,60-64,5:25.35,Jack Geoghegan,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,60-64,8:27.53,Peter P Berghaus,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Backstroke,LCM,M,60-64,35.96,Jack Geoghegan,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Backstroke,LCM,M,60-64,49.73,Peter P Berghaus,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Breaststroke,LCM,M,60-64,41.42,Michael A Laux,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,M,60-64,1:32.86,Michael A Laux,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,M,60-64,3:30.37,Michael A Laux,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,M,60-64,3:51.54,Peter P Berghaus,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Butterfly,LCM,M,60-64,35.84,Michael A Laux,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,M,60-64,41.55,Douglas H Clelford,,Wilton YMCA Long Course Meet,2005,2
+CONN,50 M Butterfly,LCM,M,60-64,53.62,Peter P Berghaus,,Wilton YMCA Long Course Meet,2005,3
+CONN,200 M Individual Medley,LCM,M,60-64,3:12.88,Michael A Laux,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,65-69,7:56.24,Raymond A Thornberg,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,M,65-69,4:34.05,Raymond A Thornberg,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Freestyle,LCM,M,70-74,1:05.04,James A Goldsmith,,Brown University Long Course Meet,2005,1
+CONN,100 M Freestyle,LCM,M,70-74,2:45.51,James A Goldsmith,,Brown University Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,M,70-74,6:09.31,James A Goldsmith,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,70-74,6:22.82,George E Brunstad,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,70-74,13:26.59,James A Goldsmith,,Wilton YMCA Long Course Meet,2005,2
+CONN,100 M Backstroke,LCM,M,70-74,3:36.91,James A Goldsmith,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Backstroke,LCM,M,70-74,8:03.11,James A Goldsmith,,Brown University Long Course Meet,2005,1
+CONN,200 M Breaststroke,LCM,M,70-74,3:59.76,George E Brunstad,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Individual Medley,LCM,M,70-74,3:44.65,George E Brunstad,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Individual Medley,LCM,M,70-74,7:37.58,George E Brunstad,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Freestyle,LCM,M,75-79,4:11.70,Fred H Goldner,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,75-79,8:45.65,Fred H Goldner,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,M,75-79,44.80,Charles J Urstadt,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,M,75-79,1:47.97,Charles J Urstadt,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Butterfly,LCM,M,75-79,1:43.51,Lenrod Goldstone,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Butterfly,LCM,M,75-79,3:55.94,Lenrod Goldstone,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Individual Medley,LCM,M,75-79,7:53.48,Lenrod Goldstone,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Backstroke,LCM,M,80-84,1:11.72,Ted M Simon,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Breaststroke,LCM,M,80-84,1:15.62,Ted M Simon,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Breaststroke,LCM,M,80-84,3:00.47,Ted M Simon,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Butterfly,LCM,M,80-84,1:37.51,Ted M Simon,,Wilton YMCA Long Course Meet,2005,1
+CONN,400 M Freestyle,LCM,M,85-89,9:20.99,John Merrill,,Wilton YMCA Long Course Meet,2005,1
+CONN,50 M Backstroke,LCM,M,85-89,54.36,John Merrill,,Wilton YMCA Long Course Meet,2005,1
+CONN,100 M Backstroke,LCM,M,85-89,2:03.86,John Merrill,,Wilton YMCA Long Course Meet,2005,1
+CONN,200 M Backstroke,LCM,M,85-89,4:28.20,John Merrill,,Wilton YMCA Long Course Meet,2005,1

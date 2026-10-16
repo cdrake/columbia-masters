@@ -1,0 +1,765 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ARIZ,50 Y Freestyle,SCY,W,18-24,25.75,Jacqueline E Jenner,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Freestyle,SCY,W,18-24,26.20,Whitney M Warman,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Freestyle,SCY,W,18-24,26.96,Heather E Richter,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,W,18-24,28.52,Callie J Langellier,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Freestyle,SCY,W,18-24,29.67,Kathleen M Applegate,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Freestyle,SCY,W,18-24,30.45,Luisa M Bryce,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Freestyle,SCY,W,18-24,56.20,Jacqueline E Jenner,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Freestyle,SCY,W,18-24,56.84,Laura L Hernandez,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,W,18-24,57.47,Whitney M Warman,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Freestyle,SCY,W,18-24,59.81,Heather E Richter,,Sun Devil Masters Invite,2005,4
+ARIZ,100 Y Freestyle,SCY,W,18-24,1:06.30,Luisa M Bryce,,SW Zone SCY Champs,2005,5
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:02.30,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:10.75,Heather E Richter,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:15.03,Whitney M Warman,,Sun Devil Masters Invite,2005,3
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:19.82,Luisa M Bryce,,SW Zone SCY Champs,2005,4
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:26.60,Callie J Langellier,,Sun Devil Masters Invite,2005,5
+ARIZ,500 Y Freestyle,SCY,W,18-24,5:25.06,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,W,18-24,5:55.37,Heather E Richter,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,W,18-24,6:11.08,Luisa M Bryce,,SW Zone SCY Champs,2005,3
+ARIZ,1000 Y Freestyle,SCY,W,18-24,13:03.90,Luisa M Bryce,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,W,18-24,20:19.43,Heather E Richter,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,W,18-24,1:00.53,April M Beltran,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Backstroke,SCY,W,18-24,2:18.09,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Backstroke,SCY,W,18-24,2:18.49,April M Beltran,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Backstroke,SCY,W,18-24,2:38.56,Heather E Richter,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Breaststroke,SCY,W,18-24,38.90,Heather E Richter,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,18-24,39.54,Kathleen M Applegate,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,18-24,1:15.08,Whitney M Warman,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,18-24,1:25.48,Kathleen M Applegate,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Butterfly,SCY,W,18-24,27.30,April M Beltran,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Butterfly,SCY,W,18-24,30.93,Heather E Richter,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,W,18-24,31.58,Callie J Langellier,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Butterfly,SCY,W,18-24,32.05,Luisa M Bryce,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Butterfly,SCY,W,18-24,1:00.54,April M Beltran,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Butterfly,SCY,W,18-24,2:20.55,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:05.67,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:10.32,Heather E Richter,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:14.87,Callie J Langellier,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:15.10,Luisa M Bryce,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:17.19,Kathleen M Applegate,,Sun Devil Masters Invite,2005,5
+ARIZ,200 Y Individual Medley,SCY,W,18-24,2:16.48,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,W,18-24,4:48.15,Laura L Hernandez,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,W,18-24,5:25.42,Heather E Richter,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,W,25-29,25.44,Marcie R Herzog,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,25-29,34.02,Maria E Ochoa,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,W,25-29,55.36,Marcie R Herzog,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,W,25-29,1:00.12,Robin L Watson,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,W,25-29,1:13.56,Maria E Ochoa,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Freestyle,SCY,W,25-29,2:02.56,Marcie R Herzog,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Freestyle,SCY,W,25-29,2:10.42,Robin L Watson,,2005 USMS Short Course Nationals,2005,2
+ARIZ,200 Y Freestyle,SCY,W,25-29,2:41.85,Maria E Ochoa,,Sun Devil Masters Invite,2005,3
+ARIZ,500 Y Freestyle,SCY,W,25-29,5:25.70,Marcie R Herzog,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,W,25-29,5:39.01,Robin L Watson,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,W,25-29,8:03.97,Maria E Ochoa,,SW Zone SCY Champs,2005,3
+ARIZ,1000 Y Freestyle,SCY,W,25-29,11:16.15,Marcie R Herzog,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,25-29,36.32,Robin L Watson,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,25-29,42.55,Maria E Ochoa,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,25-29,1:18.34,Robin L Watson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,25-29,1:36.16,Maria E Ochoa,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Butterfly,SCY,W,25-29,1:02.04,Marcie R Herzog,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,25-29,1:05.45,Marcie R Herzog,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,25-29,1:09.87,Robin L Watson,,2005 USMS Short Course Nationals,2005,2
+ARIZ,200 Y Individual Medley,SCY,W,25-29,2:32.69,Robin L Watson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,30-34,25.51,Susan L Fawcett,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,30-34,31.10,Sylvia B Beavers,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Freestyle,SCY,W,30-34,55.85,Susan L Fawcett,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,W,30-34,58.20,Laura Von Gluck,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,W,30-34,6:17.35,Sylvia B Beavers,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,30-34,28.09,Camilla M Johansson-Sponseller,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,W,30-34,58.36,Camilla M Johansson-Sponseller,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Backstroke,SCY,W,30-34,2:07.35,Camilla M Johansson-Sponseller,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,30-34,31.52,Susan L Fawcett,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,30-34,34.19,Laura Von Gluck,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,30-34,38.58,Sylvia B Beavers,,2005 USMS Short Course Nationals,2005,3
+ARIZ,100 Y Breaststroke,SCY,W,30-34,1:24.03,Sylvia B Beavers,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,30-34,28.20,Laura Von Gluck,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,30-34,33.62,Sylvia B Beavers,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,W,30-34,1:00.38,Laura Von Gluck,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,30-34,1:05.27,Laura Von Gluck,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,30-34,1:05.52,Camilla M Johansson-Sponseller,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Individual Medley,SCY,W,30-34,1:16.05,Sylvia B Beavers,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Individual Medley,SCY,W,30-34,2:14.67,Camilla M Johansson-Sponseller,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Individual Medley,SCY,W,30-34,2:17.61,Laura Von Gluck,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,W,30-34,2:25.50,Susan L Fawcett,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Individual Medley,SCY,W,30-34,2:39.82,Sylvia B Beavers,,2005 USMS Short Course Nationals,2005,4
+ARIZ,50 Y Freestyle,SCY,W,35-39,24.36,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,35-39,27.07,Louise Keogh,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,W,35-39,31.11,Tracy L Thomas,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Freestyle,SCY,W,35-39,52.06,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,35-39,1:53.31,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,35-39,2:35.62,Tracy L Thomas,,Sun Devil Masters Invite,2005,2
+ARIZ,500 Y Freestyle,SCY,W,35-39,5:06.37,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,W,35-39,18:08.99,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,W,35-39,20:04.36,Louise Keogh,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,35-39,32.99,Louise Keogh,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,35-39,1:12.89,Louise Keogh,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Breaststroke,SCY,W,35-39,2:38.74,Louise Keogh,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,35-39,37.03,Tracy L Thomas,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Butterfly,SCY,W,35-39,1:03.18,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,W,35-39,2:21.51,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:05.30,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:08.06,Louise Keogh,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:19.35,Tracy L Thomas,,Sun Devil Masters Invite,2005,3
+ARIZ,200 Y Individual Medley,SCY,W,35-39,2:25.80,Louise Keogh,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,W,35-39,4:53.57,Melanie M Valerio,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,40-44,26.65,Sheila M Arredondo,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,40-44,27.16,Monica M Bailey,,Dallas Aquatic Masters Spring Meet,2005,2
+ARIZ,50 Y Freestyle,SCY,W,40-44,27.46,Becki P Major,,2005 USMS Short Course Nationals,2005,3
+ARIZ,50 Y Freestyle,SCY,W,40-44,29.78,Brenda Creswell-Liotta,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Freestyle,SCY,W,40-44,30.63,Paula D Turkon,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Freestyle,SCY,W,40-44,31.72,Laurie J Peterson,,SW Zone SCY Champs,2005,6
+ARIZ,50 Y Freestyle,SCY,W,40-44,35.63,JoAnne M Bolivar,,SW Zone SCY Champs,2005,7
+ARIZ,50 Y Freestyle,SCY,W,40-44,37.65,Tamra G Dozer,,SW Zone SCY Champs,2005,8
+ARIZ,50 Y Freestyle,SCY,W,40-44,37.75,Michelle K Charles,,SW Zone SCY Champs,2005,9
+ARIZ,100 Y Freestyle,SCY,W,40-44,58.15,Monica M Bailey,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Freestyle,SCY,W,40-44,58.65,Becki P Major,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:07.44,Teresa L Dozer,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:08.32,Paula D Turkon,,Sun Devil Masters Invite,2005,4
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:09.88,Brenda Creswell-Liotta,,Sun Devil Masters Invite,2005,5
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:10.42,Laurie J Peterson,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:24.33,Michelle K Charles,,SW Zone SCY Champs,2005,7
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:15.79,Monica M Bailey,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:16.40,Becki P Major,,2005 USMS Short Course Nationals,2005,2
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:28.39,Teresa L Dozer,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Freestyle,SCY,W,40-44,3:06.12,Michelle K Charles,,Sun Devil Masters Invite,2005,4
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:35.43,Teresa L Dozer,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:41.39,Becki P Major,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,40-44,13:27.36,Brigid J Bunch,,SW Zone SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,W,40-44,14:09.76,Teresa L Dozer,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,40-44,17:09.11,Michelle K Charles,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Backstroke,SCY,W,40-44,30.50,Monica M Bailey,,Dallas Aquatic Masters Spring Meet,2005,1
+ARIZ,50 Y Backstroke,SCY,W,40-44,33.49,Becki P Major,,2005 USMS Short Course Nationals,2005,2
+ARIZ,50 Y Backstroke,SCY,W,40-44,35.12,Brigid J Bunch,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Backstroke,SCY,W,40-44,40.21,Brenda Creswell-Liotta,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Backstroke,SCY,W,40-44,41.32,JoAnne M Bolivar,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Backstroke,SCY,W,40-44,41.74,Teresa L Dozer,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:05.81,Monica M Bailey,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:10.46,Brigid J Bunch,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:25.89,Brenda Creswell-Liotta,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:32.81,Laurie J Peterson,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:40.57,Michelle K Charles,,SW Zone SCY Champs,2005,5
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:26.90,Brigid J Bunch,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:33.47,Monica M Bailey,,Dallas Aquatic Masters Spring Meet,2005,2
+ARIZ,200 Y Backstroke,SCY,W,40-44,3:04.05,Brenda Creswell-Liotta,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Breaststroke,SCY,W,40-44,32.83,Sheila M Arredondo,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,40-44,37.74,Brigid J Bunch,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,40-44,38.55,Teresa L Dozer,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Breaststroke,SCY,W,40-44,39.44,Brenda Creswell-Liotta,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Breaststroke,SCY,W,40-44,40.89,Laurie J Peterson,,SW Zone SCY Champs,2005,5
+ARIZ,50 Y Breaststroke,SCY,W,40-44,46.48,Michelle K Charles,,SW Zone SCY Champs,2005,6
+ARIZ,50 Y Breaststroke,SCY,W,40-44,55.83,Tamra G Dozer,,SW Zone SCY Champs,2005,7
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:13.14,Sheila M Arredondo,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:19.75,Brigid J Bunch,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:23.29,Teresa L Dozer,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:26.37,Brenda Creswell-Liotta,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:27.53,Amy B Mullaney,,Sun Devil Masters Invite,2005,5
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:32.56,Laurie J Peterson,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:45.59,Michelle K Charles,,SW Zone SCY Champs,2005,7
+ARIZ,200 Y Breaststroke,SCY,W,40-44,2:46.64,Sheila M Arredondo,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,W,40-44,2:54.64,Brigid J Bunch,,2005 USMS Short Course Nationals,2005,2
+ARIZ,200 Y Breaststroke,SCY,W,40-44,3:01.98,Teresa L Dozer,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Breaststroke,SCY,W,40-44,3:05.47,Brenda Creswell-Liotta,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Butterfly,SCY,W,40-44,29.58,Sheila M Arredondo,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,40-44,31.12,Becki P Major,,2005 USMS Short Course Nationals,2005,2
+ARIZ,50 Y Butterfly,SCY,W,40-44,37.44,Paula D Turkon,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Butterfly,SCY,W,40-44,39.29,JoAnne M Bolivar,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Butterfly,SCY,W,40-44,42.60,Michelle K Charles,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:07.28,Sheila M Arredondo,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:10.68,Monica M Bailey,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:28.76,JoAnne M Bolivar,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Butterfly,SCY,W,40-44,3:21.35,JoAnne M Bolivar,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:06.33,Monica M Bailey,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:07.57,Sheila M Arredondo,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:19.79,Paula D Turkon,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:22.71,Laurie J Peterson,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:22.85,Teresa L Dozer,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:35.07,Michelle K Charles,,SW Zone SCY Champs,2005,6
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:30.73,Brigid J Bunch,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:50.06,Amy B Mullaney,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,W,40-44,3:34.72,Michelle K Charles,,SW Zone SCY Champs,2005,3
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:19.85,Brigid J Bunch,,2005 USMS Short Course Nationals,2005,1
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:23.63,Monica M Bailey,,Dallas Aquatic Masters Spring Meet,2005,2
+ARIZ,50 Y Freestyle,SCY,W,45-49,28.13,Laura H Winslow,,CMSA State SC Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,45-49,30.31,Mitzi G Schechter,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,W,45-49,34.60,Stacey B Lane,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Freestyle,SCY,W,45-49,57.92,Laura H Winslow,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:21.22,Stacey B Lane,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:06.03,Laura H Winslow,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Freestyle,SCY,W,45-49,3:01.69,Amy L Atherton,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,W,45-49,3:59.90,Jane E Nicoletti-Jones,,SW Zone SCY Champs,2005,3
+ARIZ,500 Y Freestyle,SCY,W,45-49,5:45.11,Laura H Winslow,,YMCA Nationals,2005,1
+ARIZ,500 Y Freestyle,SCY,W,45-49,7:02.43,Katy James,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,45-49,12:50.23,Laura H Winslow,,SW Zone SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,W,45-49,13:54.18,Mitzi G Schechter,,SW Zone SCY Champs,2005,2
+ARIZ,1650 Y Freestyle,SCY,W,45-49,24:45.41,Katy James,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,45-49,35.82,Katy James,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,45-49,40.21,Amy L Atherton,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Backstroke,SCY,W,45-49,1:18.31,Katy James,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,W,45-49,1:30.33,Amy L Atherton,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Backstroke,SCY,W,45-49,2:39.22,Laura H Winslow,,YMCA Nationals,2005,1
+ARIZ,200 Y Backstroke,SCY,W,45-49,2:51.66,Katy James,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,45-49,34.77,Laura H Winslow,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,45-49,39.40,Mitzi G Schechter,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,45-49,44.22,Stacey B Lane,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:17.45,Laura H Winslow,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:26.10,Mitzi G Schechter,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,45-49,2:07.74,Jane E Nicoletti-Jones,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Breaststroke,SCY,W,45-49,3:10.52,Mitzi G Schechter,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Butterfly,SCY,W,45-49,31.24,Laura H Winslow,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:07.56,Laura H Winslow,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:21.61,Mitzi Schechter,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Individual Medley,SCY,W,45-49,2:31.85,Laura H Winslow,,YMCA Nationals,2005,1
+ARIZ,200 Y Individual Medley,SCY,W,45-49,3:00.17,Katy James,,SW Zone SCY Champs,2005,2
+ARIZ,400 Y Individual Medley,SCY,W,45-49,6:15.28,Katy James,,SW Zone SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,W,50-54,18:24.65,Diane T Kenneally,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,50-54,31.72,Evie S Lynch,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,W,50-54,1:07.99,Evie S Lynch,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Backstroke,SCY,W,50-54,2:28.89,Evie S Lynch,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,50-54,38.35,Evie S Lynch,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,50-54,1:22.38,Evie S Lynch,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,50-54,32.03,Evie S Lynch,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Butterfly,SCY,W,50-54,1:11.79,Evie S Lynch,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:09.27,Evie S Lynch,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Individual Medley,SCY,W,50-54,2:33.04,Evie S Lynch,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,55-59,29.64,Christie Altman,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,55-59,31.75,Joanne C Menard,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,W,55-59,34.68,Linda Webb,,2005 USMS Short Course Nationals,2005,3
+ARIZ,50 Y Freestyle,SCY,W,55-59,41.07,Wendy L Weinberg,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:05.85,Christie Altman,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:08.64,Joanne C Menard,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:22.52,Linda Webb,,Mission Viejo SCY Meet,2005,3
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:33.90,Wendy L Weinberg,,SPMA SCY Champs,2005,4
+ARIZ,200 Y Freestyle,SCY,W,55-59,2:30.94,Joanne C Menard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Freestyle,SCY,W,55-59,2:48.25,Judy L Gillies,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Freestyle,SCY,W,55-59,3:03.55,Linda Webb,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Freestyle,SCY,W,55-59,3:30.41,Wendy L Weinberg,,SW Zone SCY Champs,2005,4
+ARIZ,500 Y Freestyle,SCY,W,55-59,6:39.01,Joanne C Menard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,500 Y Freestyle,SCY,W,55-59,6:56.44,Christie Altman,,Sun Devil Masters Invite,2005,2
+ARIZ,500 Y Freestyle,SCY,W,55-59,7:28.88,Judy L Gillies,,Sun Devil Masters Invite,2005,3
+ARIZ,500 Y Freestyle,SCY,W,55-59,8:08.39,Linda Webb,,SW Zone SCY Champs,2005,4
+ARIZ,500 Y Freestyle,SCY,W,55-59,9:08.52,Wendy L Weinberg,,SPMA SCY Champs,2005,5
+ARIZ,1000 Y Freestyle,SCY,W,55-59,13:42.56,Joanne C Menard,,SPMA SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,W,55-59,13:58.28,Christie Altman,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,55-59,16:26.43,Linda Webb,,2005 USMS Short Course Nationals,2005,3
+ARIZ,1000 Y Freestyle,SCY,W,55-59,19:00.04,Wendy L Weinberg,,SPMA SCY Champs,2005,4
+ARIZ,50 Y Backstroke,SCY,W,55-59,38.26,Christie Altman,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,55-59,40.66,Joanne C Menard,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,55-59,42.11,Christie Altman,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,55-59,44.96,Linda Webb,,2005 USMS Short Course Nationals,2005,3
+ARIZ,50 Y Breaststroke,SCY,W,55-59,46.71,Judy L Gillies,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Breaststroke,SCY,W,55-59,53.03,Wendy L Weinberg,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:32.24,Joanne C Menard,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:36.01,Linda Webb,,2005 USMS Short Course Nationals,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:41.83,Judy L Gillies,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Breaststroke,SCY,W,55-59,2:05.28,Wendy L Weinberg,,SW Zone SCY Champs,2005,4
+ARIZ,200 Y Breaststroke,SCY,W,55-59,3:26.89,Linda Webb,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Breaststroke,SCY,W,55-59,3:42.64,Judy L Gillies,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Breaststroke,SCY,W,55-59,4:25.38,Wendy L Weinberg,,SPMA SCY Champs,2005,3
+ARIZ,50 Y Butterfly,SCY,W,55-59,34.51,Joanne C Menard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Butterfly,SCY,W,55-59,34.71,Christie Altman,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,W,55-59,42.38,Linda Webb,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Butterfly,SCY,W,55-59,1:20.89,Christie Altman,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,55-59,1:18.75,Christie Altman,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,55-59,1:33.96,Linda Webb,,SW Zone SCY Champs,2005,2
+ARIZ,400 Y Individual Medley,SCY,W,55-59,6:25.23,Christie Altman,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,60-64,43.84,Bobbi Malone,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,60-64,44.17,Charlaine A Spencer-Cimolino,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,W,60-64,44.81,Diane W Lewis,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:36.79,Diane W Lewis,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:39.92,Bobbi Malone,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,W,60-64,3:25.49,Diane W Lewis,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,W,60-64,8:55.83,Diane W Lewis,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,W,60-64,43:00.92,Carol K Walters,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,60-64,53.03,Bobbi Malone,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,60-64,58.37,Diane W Lewis,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Backstroke,SCY,W,60-64,1:05.55,Carol K Walters,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Backstroke,SCY,W,60-64,1:53.30,Bobbi Malone,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,W,60-64,2:19.56,Carol K Walters,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Backstroke,SCY,W,60-64,4:05.06,Bobbi Malone,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Backstroke,SCY,W,60-64,5:07.45,Carol K Walters,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,W,60-64,1:03.03,Diane W Lewis,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,60-64,1:02.36,Diane W Lewis,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,60-64,2:02.81,Diane W Lewis,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,65-69,31.89,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,65-69,44.94,Anne Burnett,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,W,65-69,1:11.93,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,65-69,2:46.78,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,65-69,4:47.07,Gaile Harden,,YMCA Nationals,2005,2
+ARIZ,500 Y Freestyle,SCY,W,65-69,7:26.62,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,W,65-69,9:27.15,Lou J Hughes,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,65-69,15:42.70,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,W,65-69,22:39.16,Anne Burnett,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,65-69,27:18.38,Gaile Harden,,YMCA Nationals,2005,3
+ARIZ,50 Y Backstroke,SCY,W,65-69,59.74,Gaile Harden,,YMCA Nationals,2005,1
+ARIZ,100 Y Backstroke,SCY,W,65-69,2:05.34,Anne Burnett,,Las Vegas Masters SCY Meet,2005,1
+ARIZ,100 Y Backstroke,SCY,W,65-69,2:06.50,Gaile Harden,,YMCA Nationals,2005,2
+ARIZ,200 Y Backstroke,SCY,W,65-69,4:34.56,Gaile Harden,,YMCA Nationals,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,65-69,59.05,Anne Burnett,,Las Vegas Masters SCY Meet,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,65-69,1:04.15,Gaile Harden,,YMCA Nationals,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,65-69,2:08.52,Anne Burnett,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,65-69,2:11.51,Gaile Harden,,YMCA Nationals,2005,2
+ARIZ,200 Y Breaststroke,SCY,W,65-69,4:36.10,Anne Burnett,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,W,65-69,4:49.49,Gaile Harden,,YMCA Nationals,2005,2
+ARIZ,50 Y Butterfly,SCY,W,65-69,38.79,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,65-69,54.47,Anne Burnett,,Las Vegas Masters SCY Meet,2005,2
+ARIZ,100 Y Butterfly,SCY,W,65-69,1:25.39,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,W,65-69,2:09.44,Anne Burnett,,Las Vegas Masters SCY Meet,2005,2
+ARIZ,200 Y Butterfly,SCY,W,65-69,3:24.74,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,65-69,1:31.79,Sally A Bolar,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,65-69,1:56.82,Anne Burnett,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,W,65-69,4:29.42,Anne Burnett,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,W,65-69,9:51.57,Anne Burnett,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,70-74,42.81,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,W,70-74,50.36,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,70-74,50.15,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,70-74,1:47.56,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,W,70-74,3:56.86,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,W,70-74,52.68,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,70-74,1:44.32,Sumie Anderson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,75-79,33.87,Gail P Roper,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,W,75-79,42.71,Edie B Gruender,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,W,75-79,1:16.23,Gail P Roper,,YMCA Nationals,2005,1
+ARIZ,100 Y Freestyle,SCY,W,75-79,1:31.96,Edie B Gruender,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,W,75-79,2:53.25,Gail P Roper,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,W,75-79,3:24.39,Edie B Gruender,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,W,75-79,7:43.81,Gail P Roper,,Pacific Masters SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,W,75-79,8:40.57,Edie B Gruender,,2005 USMS Short Course Nationals,2005,2
+ARIZ,1000 Y Freestyle,SCY,W,75-79,16:06.49,Gail P Roper,,YMCA Nationals,2005,1
+ARIZ,1000 Y Freestyle,SCY,W,75-79,17:55.47,Edie B Gruender,,2005 USMS Short Course Nationals,2005,2
+ARIZ,1650 Y Freestyle,SCY,W,75-79,27:18.05,Gail P Roper,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,W,75-79,30:41.97,Edie B Gruender,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Backstroke,SCY,W,75-79,45.93,Nancy Kinney,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Backstroke,SCY,W,75-79,55.28,Edie B Gruender,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Backstroke,SCY,W,75-79,1:37.03,Nancy Kinney,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Backstroke,SCY,W,75-79,3:30.97,Nancy Kinney,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,75-79,44.78,Gail P Roper,,NW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,W,75-79,46.51,Carol P Taylor,,Pacific Masters SCY Champs,2005,2
+ARIZ,100 Y Breaststroke,SCY,W,75-79,1:38.87,Gail P Roper,,NW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,W,75-79,1:43.12,Carol P Taylor,,Pacific Masters SCY Champs,2005,2
+ARIZ,200 Y Breaststroke,SCY,W,75-79,3:34.10,Gail P Roper,,NW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,W,75-79,3:45.03,Carol P Taylor,,Pacific Masters SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,W,75-79,39.05,Gail P Roper,,YMCA Nationals,2005,1
+ARIZ,50 Y Butterfly,SCY,W,75-79,46.65,Carol P Taylor,,Pacific Masters SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,W,75-79,50.55,Edie B Gruender,,2005 USMS Short Course Nationals,2005,3
+ARIZ,100 Y Butterfly,SCY,W,75-79,1:37.03,Gail P Roper,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,W,75-79,1:48.78,Carol P Taylor,,Pacific Masters SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,W,75-79,2:02.47,Edie B Gruender,,2005 USMS Short Course Nationals,2005,3
+ARIZ,200 Y Butterfly,SCY,W,75-79,4:37.05,Edie B Gruender,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,75-79,1:27.31,Gail P Roper,,YMCA Nationals,2005,1
+ARIZ,100 Y Individual Medley,SCY,W,75-79,1:37.59,Nancy Kinney,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Individual Medley,SCY,W,75-79,1:40.20,Carol P Taylor,,Pacific Masters SCY Champs,2005,3
+ARIZ,200 Y Individual Medley,SCY,W,75-79,3:18.40,Gail P Roper,,YMCA Nationals,2005,1
+ARIZ,200 Y Individual Medley,SCY,W,75-79,3:45.59,Nancy Kinney,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,W,75-79,4:13.03,Edie B Gruender,,Sun Devil Masters Invite,2005,3
+ARIZ,400 Y Individual Medley,SCY,W,75-79,7:03.61,Gail P Roper,,NW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,W,75-79,8:29.83,Edie B Gruender,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,18-24,24.95,Jonathan M Shaw,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Butterfly,SCY,M,18-24,56.17,Jonathan M Shaw,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,18-24,57.55,Jonathan M Shaw,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,18-24,2:06.83,Jonathan M Shaw,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Freestyle,SCY,M,25-29,27.01,Ken Kung,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,M,25-29,59.78,Ken Kung,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,25-29,32.99,Ken Kung,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,25-29,30.53,Ken Kung,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,25-29,1:09.07,Ken Kung,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,30-34,23.50,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,30-34,23.60,Stephen S So,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Freestyle,SCY,M,30-34,24.04,Leslie F Bleamaster,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,M,30-34,24.51,John R Lapp,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Freestyle,SCY,M,30-34,25.15,Jack Beaver,,SW Zone SCY Champs,2005,5
+ARIZ,50 Y Freestyle,SCY,M,30-34,25.16,Michael J Wilda,,Sun Devil Masters Invite,2005,6
+ARIZ,100 Y Freestyle,SCY,M,30-34,51.48,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,M,30-34,52.72,John R Lapp,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,M,30-34,53.37,Leslie F Bleamaster,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Freestyle,SCY,M,30-34,55.72,Jack Beaver,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Freestyle,SCY,M,30-34,56.52,Michael J Wilda,,Sun Devil Masters Invite,2005,5
+ARIZ,100 Y Freestyle,SCY,M,30-34,58.31,Stephen S So,,SW Zone SCY Champs,2005,6
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:54.91,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,30-34,2:03.69,Jack Beaver,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:18.44,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:27.29,Leslie F Bleamaster,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:38.98,Jack Beaver,,SW Zone SCY Champs,2005,3
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:42.08,Simon Percy,,Sun Devil Masters Invite,2005,4
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:52.58,Kenneth M Bixler,,SW Zone SCY Champs,2005,5
+ARIZ,1000 Y Freestyle,SCY,M,30-34,11:11.48,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,M,30-34,11:18.45,Leslie F Bleamaster,,SW Zone SCY Champs,2005,2
+ARIZ,1000 Y Freestyle,SCY,M,30-34,11:46.27,Jack Beaver,,SW Zone SCY Champs,2005,3
+ARIZ,1650 Y Freestyle,SCY,M,30-34,19:30.69,Stephen S So,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,30-34,28.02,Leslie F Bleamaster,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,30-34,28.53,Stephen S So,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Backstroke,SCY,M,30-34,30.59,John R Lapp,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Backstroke,SCY,M,30-34,1:13.52,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,30-34,29.19,Juan Beltran,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,30-34,30.34,Stephen S So,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,30-34,1:06.48,Stephen S So,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,30-34,1:13.28,Michael J Wilda,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Breaststroke,SCY,M,30-34,2:26.01,Stephen S So,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,30-34,25.95,Leslie F Bleamaster,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,30-34,26.39,John R Lapp,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,30-34,27.34,Kenneth M Bixler,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Butterfly,SCY,M,30-34,27.47,Jack Beaver,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Butterfly,SCY,M,30-34,56.89,John R Lapp,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,M,30-34,58.17,Leslie F Bleamaster,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,M,30-34,1:02.07,Jack Beaver,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Butterfly,SCY,M,30-34,2:18.37,Leslie F Bleamaster,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,M,30-34,2:21.04,Jack Beaver,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,30-34,59.20,Leslie F Bleamaster,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:03.84,Dickie Fernandez,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:04.17,Kenneth M Bixler,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:05.80,Michael J Wilda,,Sun Devil Masters Invite,2005,4
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:09.27,Eric J Iwersen,,Sun Devil Masters Invite,2005,5
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:15.67,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:20.62,Kenneth M Bixler,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:29.75,Eric J Iwersen,,Sun Devil Masters Invite,2005,3
+ARIZ,400 Y Individual Medley,SCY,M,30-34,4:56.04,Dickie Fernandez,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,35-39,23.99,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,35-39,25.87,Bowen M Johnson,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,M,35-39,26.09,Brian M Flood,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Freestyle,SCY,M,35-39,46.17,John Harris,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Freestyle,SCY,M,35-39,51.89,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,M,35-39,59.62,Craig B Little,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Freestyle,SCY,M,35-39,1:50.40,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,35-39,1:54.58,Patrick W Brundage,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Freestyle,SCY,M,35-39,2:14.29,Alex E Gort,,Sun Devil Masters Invite,2005,3
+ARIZ,200 Y Freestyle,SCY,M,35-39,2:14.48,Craig B Little,,Sun Devil Masters Invite,2005,4
+ARIZ,200 Y Freestyle,SCY,M,35-39,3:01.94,Jack R York,,SW Zone SCY Champs,2005,5
+ARIZ,500 Y Freestyle,SCY,M,35-39,4:55.70,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:31.59,Kent M Johnson,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:43.52,Matthew R Rankin,,SW Zone SCY Champs,2005,3
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:45.67,Brian M Flood,,Sun Devil Masters Invite,2005,4
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:50.32,Mark D Hickman,,SW Zone SCY Champs,2005,5
+ARIZ,500 Y Freestyle,SCY,M,35-39,6:14.61,Craig B Little,,Sun Devil Masters Invite,2005,6
+ARIZ,1000 Y Freestyle,SCY,M,35-39,10:12.97,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,1000 Y Freestyle,SCY,M,35-39,12:14.62,Matthew R Rankin,,SW Zone SCY Champs,2005,2
+ARIZ,1650 Y Freestyle,SCY,M,35-39,19:57.16,Mark P Hummels,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,M,35-39,20:12.44,Kent M Johnson,,SW Zone SCY Champs,2005,2
+ARIZ,1650 Y Freestyle,SCY,M,35-39,20:24.29,Mark D Hickman,,SW Zone SCY Champs,2005,3
+ARIZ,1650 Y Freestyle,SCY,M,35-39,30:00.00,Jack R York,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Backstroke,SCY,M,35-39,27.75,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,M,35-39,57.25,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,M,35-39,1:17.36,Alex E Gort,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Backstroke,SCY,M,35-39,2:04.26,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Backstroke,SCY,M,35-39,2:17.77,Mark D Hickman,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,35-39,30.47,Bowen M Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,35-39,34.82,Ryan N Vogt,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,35-39,56.24,John Harris,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:07.41,Bowen M Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:09.63,Matthew R Rankin,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,35-39,2:04.21,John Harris,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:29.55,Bowen M Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:33.97,Matthew R Rankin,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:38.05,Mark D Hickman,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:49.87,Kent M Johnson,,SW Zone SCY Champs,2005,4
+ARIZ,200 Y Breaststroke,SCY,M,35-39,4:35.65,John Harris,,SW Zone SCY Champs,2005,5
+ARIZ,50 Y Butterfly,SCY,M,35-39,26.01,Matthew R Rankin,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,35-39,26.91,Bowen M Johnson,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,35-39,27.54,Kent M Johnson,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Butterfly,SCY,M,35-39,29.39,Alex E Gort,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Butterfly,SCY,M,35-39,55.99,John Harris,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Butterfly,SCY,M,35-39,58.59,Matthew R Rankin,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,M,35-39,1:00.64,Mark P Hummels,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,M,35-39,1:01.37,Kent M Johnson,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Butterfly,SCY,M,35-39,2:17.15,Kent M Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,M,35-39,2:21.00,Mark P Hummels,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Butterfly,SCY,M,35-39,2:24.29,Matthew R Rankin,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,35-39,57.88,Patrick W Brundage,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:00.27,Matthew R Rankin,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:03.59,Bowen M Johnson,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:04.24,Craig B Little,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:04.44,Kent M Johnson,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:07.17,Brian M Flood,,Sun Devil Masters Invite,2005,6
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:11.80,Alex E Gort,,Sun Devil Masters Invite,2005,7
+ARIZ,100 Y Individual Medley,SCY,M,35-39,2:03.14,John Harris,,SW Zone SCY Champs,2005,8
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:13.78,Matthew R Rankin,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:16.86,Mark P Hummels,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:19.00,Bowen M Johnson,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:24.38,Kent M Johnson,,SW Zone SCY Champs,2005,4
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:36.62,Craig B Little,,Sun Devil Masters Invite,2005,5
+ARIZ,400 Y Individual Medley,SCY,M,35-39,4:29.77,Kurt F Dickson,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,M,35-39,4:37.98,Patrick W Brundage,,Sun Devil Masters Invite,2005,2
+ARIZ,400 Y Individual Medley,SCY,M,35-39,5:01.19,Kent M Johnson,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,M,40-44,24.34,Geoffrey Cleveland,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Freestyle,SCY,M,40-44,24.49,Greg L Stelzer,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,M,40-44,26.06,Kevin J Hinrichs,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Freestyle,SCY,M,40-44,26.64,Todd M Christiansen,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Freestyle,SCY,M,40-44,27.39,Christopher J Aikman,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Freestyle,SCY,M,40-44,30.05,Rodney (Scott) Harnisch,,Sun Devil Masters Invite,2005,6
+ARIZ,50 Y Freestyle,SCY,M,40-44,35.82,Douglas D Everett,,SW Zone SCY Champs,2005,7
+ARIZ,100 Y Freestyle,SCY,M,40-44,52.75,Greg L Stelzer,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,M,40-44,59.99,Kevin J Hinrichs,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:02.22,Todd M Christiansen,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:18.41,Douglas D Everett,,SW Zone SCY Champs,2005,4
+ARIZ,200 Y Freestyle,SCY,M,40-44,1:57.34,Greg L Stelzer,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,40-44,1:59.39,Terry Richardson,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:08.53,David G Peters,,Sun Devil Masters Invite,2005,3
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:14.47,Kevin J Hinrichs,,Sun Devil Masters Invite,2005,4
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:26.47,Todd M Christiansen,,Sun Devil Masters Invite,2005,5
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:38.82,Rodney (Scott) Harnisch,,Sun Devil Masters Invite,2005,6
+ARIZ,200 Y Freestyle,SCY,M,40-44,3:02.34,Douglas D Everett,,SW Zone SCY Champs,2005,7
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:22.61,Geoffrey Cleveland,,Sun Devil Masters Invite,2005,1
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:48.67,David G Peters,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,M,40-44,6:09.90,Christopher J Aikman,,Sun Devil Masters Invite,2005,3
+ARIZ,500 Y Freestyle,SCY,M,40-44,8:34.89,Douglas D Everett,,SW Zone SCY Champs,2005,4
+ARIZ,1000 Y Freestyle,SCY,M,40-44,12:08.91,David G Peters,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,M,40-44,30:00.29,Douglas D Everett,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,40-44,51.00,Douglas D Everett,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,M,40-44,1:07.38,David G Peters,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,M,40-44,1:07.73,Terry Richardson,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Backstroke,SCY,M,40-44,1:53.15,Douglas D Everett,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Breaststroke,SCY,M,40-44,56.14,Douglas D Everett,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,40-44,1:14.30,David G Peters,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,40-44,2:47.51,David G Peters,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,40-44,26.60,Greg L Stelzer,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,40-44,27.04,Jan E Lorant,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,40-44,27.40,Terry Richardson,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Butterfly,SCY,M,40-44,29.27,David G Peters,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Butterfly,SCY,M,40-44,31.09,Kevin J Hinrichs,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Butterfly,SCY,M,40-44,37.44,Rodney (Scott) Harnisch,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Butterfly,SCY,M,40-44,58.03,Greg L Stelzer,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,M,40-44,59.66,Jan E Lorant,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,M,40-44,1:07.43,David G Peters,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Butterfly,SCY,M,40-44,2:24.29,Terry Richardson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:02.02,Terry Richardson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:03.42,Jan E Lorant,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:04.58,David G Peters,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:16.95,Todd M Christiansen,,Sun Devil Masters Invite,2005,4
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:22.34,Rodney (Scott) Harnisch,,SW Zone SCY Champs,2005,5
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:18.40,Jan E Lorant,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:20.61,Terry Richardson,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:26.36,David G Peters,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Freestyle,SCY,M,45-49,23.69,John T Piecuch,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,45-49,27.84,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,M,45-49,27.88,Craig S Wheeler,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,M,45-49,30.39,Michael K Blake,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Freestyle,SCY,M,45-49,55.11,John T Piecuch,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:02.21,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:03.50,Jim S Stites,,Sun Devil Masters Invite,2005,3
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:51.56,Scott D Shake,,2005 USMS Short Course Nationals,2005,1
+ARIZ,500 Y Freestyle,SCY,M,45-49,5:01.48,Scott D Shake,,2005 USMS Short Course Nationals,2005,1
+ARIZ,500 Y Freestyle,SCY,M,45-49,5:26.22,Jim S Stites,,2005 USMS Short Course Nationals,2005,2
+ARIZ,1000 Y Freestyle,SCY,M,45-49,10:19.64,Scott D Shake,,2005 USMS Short Course Nationals,2005,1
+ARIZ,1000 Y Freestyle,SCY,M,45-49,11:24.50,Jim S Stites,,2005 USMS Short Course Nationals,2005,2
+ARIZ,1650 Y Freestyle,SCY,M,45-49,21:25.99,Joel E Parker,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,45-49,27.26,Scott D Shake,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Backstroke,SCY,M,45-49,33.77,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Backstroke,SCY,M,45-49,41.73,Michael K Blake,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Backstroke,SCY,M,45-49,56.76,Scott D Shake,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Backstroke,SCY,M,45-49,1:13.39,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Backstroke,SCY,M,45-49,2:02.86,Scott D Shake,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Backstroke,SCY,M,45-49,2:39.13,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,45-49,32.33,Craig S Wheeler,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,45-49,38.05,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,45-49,40.68,Michael K Blake,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:10.11,Craig S Wheeler,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:23.83,Earl D Fuchs,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Breaststroke,SCY,M,45-49,2:32.95,Craig S Wheeler,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,45-49,26.66,Casey Smith,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Butterfly,SCY,M,45-49,38.05,Michael K Blake,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,M,45-49,1:00.56,Casey Smith,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,M,45-49,2:18.61,Jim S Stites,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,M,45-49,3:17.83,Douglas D Miller,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:04.50,Casey Smith,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:10.13,Craig S Wheeler,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:11.76,Earl D Fuchs,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:26.47,Michael K Blake,,SW Zone SCY Champs,2005,4
+ARIZ,200 Y Individual Medley,SCY,M,45-49,2:24.01,Casey Smith,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,M,45-49,6:30.77,Douglas D Miller,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,50-54,24.34,Barry Roth,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Freestyle,SCY,M,50-54,26.57,Michael S Orlikoff,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,M,50-54,27.47,John E Grucky,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,M,50-54,27.86,Joel Lorenzen,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Freestyle,SCY,M,50-54,28.43,Michael B Withey,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Freestyle,SCY,M,50-54,31.50,Allan Duckworth,,SW Zone SCY Champs,2005,6
+ARIZ,50 Y Freestyle,SCY,M,50-54,32.56,Robert J Liotta,,SW Zone SCY Champs,2005,7
+ARIZ,50 Y Freestyle,SCY,M,50-54,32.65,William H Skalak,,SW Zone SCY Champs,2005,8
+ARIZ,100 Y Freestyle,SCY,M,50-54,53.89,Barry Roth,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Freestyle,SCY,M,50-54,56.28,Robert J Ditolla,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,M,50-54,58.85,Michael S Orlikoff,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:03.68,Robert C Balling,,Sun Devil Masters Invite,2005,4
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:05.35,Don R Perry,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:11.45,Allan Duckworth,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:11.73,Robert J Liotta,,Sun Devil Masters Invite,2005,7
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:13.41,William H Skalak,,SW Zone SCY Champs,2005,8
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:02.91,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:24.78,Don R Perry,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:47.92,William H Skalak,,SW Zone SCY Champs,2005,3
+ARIZ,500 Y Freestyle,SCY,M,50-54,5:24.04,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,M,50-54,6:04.42,Robert C Balling,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,M,50-54,6:17.19,Michael S Orlikoff,,SW Zone SCY Champs,2005,3
+ARIZ,500 Y Freestyle,SCY,M,50-54,6:20.79,Don R Perry,,SW Zone SCY Champs,2005,4
+ARIZ,1000 Y Freestyle,SCY,M,50-54,12:36.73,Ken A Holmes,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,M,50-54,19:02.66,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,M,50-54,19:40.55,Hunter Yost,,SW Zone SCY Champs,2005,2
+ARIZ,1650 Y Freestyle,SCY,M,50-54,21:35.36,Don R Perry,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Backstroke,SCY,M,50-54,32.38,Ken A Holmes,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,50-54,34.99,Gene B Fougner,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Backstroke,SCY,M,50-54,1:15.09,Robert J Liotta,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Backstroke,SCY,M,50-54,2:26.58,Ken A Holmes,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,50-54,30.84,Ken A Holmes,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,50-54,32.77,Barry Roth,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,50-54,34.37,John E Grucky,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Breaststroke,SCY,M,50-54,38.00,Allan Duckworth,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:09.57,Ken A Holmes,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:10.49,Robert J Liotta,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:12.06,Barry Roth,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:18.00,Gene B Fougner,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:25.39,Don R Perry,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:26.45,Allan Duckworth,,SW Zone SCY Champs,2005,6
+ARIZ,200 Y Breaststroke,SCY,M,50-54,2:35.61,Robert J Liotta,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,50-54,2:43.88,Ken A Holmes,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Breaststroke,SCY,M,50-54,3:01.79,Don R Perry,,SW Zone SCY Champs,2005,3
+ARIZ,200 Y Breaststroke,SCY,M,50-54,3:14.87,Allan Duckworth,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Butterfly,SCY,M,50-54,28.18,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,50-54,29.57,Joel Lorenzen,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Butterfly,SCY,M,50-54,30.39,Gene B Fougner,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Butterfly,SCY,M,50-54,30.43,Robert J Liotta,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Butterfly,SCY,M,50-54,30.54,Michael B Withey,,Sun Devil Masters Invite,2005,5
+ARIZ,100 Y Butterfly,SCY,M,50-54,1:00.79,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,M,50-54,2:15.10,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Butterfly,SCY,M,50-54,3:03.48,Don R Perry,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:08.82,Joel Lorenzen,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:09.59,Gene B Fougner,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:11.37,Robert J Liotta,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:11.46,Michael B Withey,,Sun Devil Masters Invite,2005,4
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:25.76,Allan Duckworth,,SW Zone SCY Champs,2005,5
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:21.33,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:25.30,Ken A Holmes,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:54.67,Don R Perry,,SW Zone SCY Champs,2005,3
+ARIZ,400 Y Individual Medley,SCY,M,50-54,5:01.93,Robert J Ditolla,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,M,50-54,6:04.36,Don R Perry,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,M,55-59,27.51,R P Jones,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Freestyle,SCY,M,55-59,27.67,Patrick Sparr,,2005 USMS Short Course Nationals,2005,2
+ARIZ,50 Y Freestyle,SCY,M,55-59,29.88,Hop Bailey,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,M,55-59,30.75,Andrew D Hurwitz,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Freestyle,SCY,M,55-59,44.40,James L Coleman,,SW Zone SCY Champs,2005,5
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:00.92,Patrick Sparr,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:02.41,R P Jones,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:06.16,Hop Bailey,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:10.34,Andrew D Hurwitz,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:41.59,James L Coleman,,SW Zone SCY Champs,2005,5
+ARIZ,200 Y Freestyle,SCY,M,55-59,2:13.92,Patrick Sparr,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Freestyle,SCY,M,55-59,2:22.53,Hop Bailey,,SW Zone SCY Champs,2005,2
+ARIZ,500 Y Freestyle,SCY,M,55-59,5:57.53,Hop Bailey,,2005 USMS Short Course Nationals,2005,1
+ARIZ,500 Y Freestyle,SCY,M,55-59,6:12.01,Patrick Sparr,,2005 USMS Short Course Nationals,2005,2
+ARIZ,500 Y Freestyle,SCY,M,55-59,6:24.10,R P Jones,,SW Zone SCY Champs,2005,3
+ARIZ,500 Y Freestyle,SCY,M,55-59,7:48.20,Garry J Bond,,SW Zone SCY Champs,2005,4
+ARIZ,1000 Y Freestyle,SCY,M,55-59,12:20.03,Hop Bailey,,2005 USMS Short Course Nationals,2005,1
+ARIZ,1000 Y Freestyle,SCY,M,55-59,12:51.66,Patrick Sparr,,2005 USMS Short Course Nationals,2005,2
+ARIZ,200 Y Backstroke,SCY,M,55-59,3:24.71,Garry J Bond,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,55-59,37.77,Andrew D Hurwitz,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,55-59,1:29.48,Hop Bailey,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,55-59,3:07.19,Andrew D Hurwitz,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,55-59,30.90,R P Jones,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Butterfly,SCY,M,55-59,1:13.67,R P Jones,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,55-59,1:16.68,Hop Bailey,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,55-59,2:33.56,Hop Bailey,,2005 USMS Short Course Nationals,2005,1
+ARIZ,400 Y Individual Medley,SCY,M,55-59,5:49.80,Hop Bailey,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,60-64,26.24,Robert C Wilson,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Freestyle,SCY,M,60-64,26.50,James L White,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Freestyle,SCY,M,60-64,28.40,James P Van Loon,,SW Zone SCY Champs,2005,3
+ARIZ,50 Y Freestyle,SCY,M,60-64,30.26,Richard E McGee,,Sun Devil Masters Invite,2005,4
+ARIZ,50 Y Freestyle,SCY,M,60-64,30.88,Phillip Whitten,,SW Zone SCY Champs,2005,5
+ARIZ,50 Y Freestyle,SCY,M,60-64,30.95,Robert W Lewis,,SW Zone SCY Champs,2005,6
+ARIZ,50 Y Freestyle,SCY,M,60-64,32.13,Peter A Eisenklam,,Sun Devil Masters Invite,2005,7
+ARIZ,50 Y Freestyle,SCY,M,60-64,36.48,Carsten N Wilms,,Sun Devil Masters Invite,2005,8
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:00.69,James L White,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:06.29,James P Van Loon,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:14.92,Peter A Eisenklam,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:15.68,Richard E McGee,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:23.49,David W Fitzgibbons,,Sun Devil Masters Invite,2005,5
+ARIZ,200 Y Freestyle,SCY,M,60-64,2:51.01,Richard J LeRoy,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,60-64,3:07.89,David W Fitzgibbons,,Sun Devil Masters Invite,2005,2
+ARIZ,500 Y Freestyle,SCY,M,60-64,7:35.49,Richard J LeRoy,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,M,60-64,7:56.51,Carsten N Wilms,,Sun Devil Masters Invite,2005,2
+ARIZ,500 Y Freestyle,SCY,M,60-64,8:16.07,David W Fitzgibbons,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Backstroke,SCY,M,60-64,35.57,James P Van Loon,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,60-64,35.87,Robert C Wilson,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Backstroke,SCY,M,60-64,37.66,Phillip Whitten,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Backstroke,SCY,M,60-64,1:21.52,Phillip Whitten,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,M,60-64,1:28.03,Richard J LeRoy,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Backstroke,SCY,M,60-64,3:20.72,Richard J LeRoy,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Backstroke,SCY,M,60-64,3:34.57,Phillip Whitten,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,60-64,31.42,Kimball Bernard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,60-64,35.04,Robert W Lewis,,Sun Devil Masters Invite,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,60-64,36.35,Robert C Wilson,,Sun Devil Masters Invite,2005,3
+ARIZ,50 Y Breaststroke,SCY,M,60-64,36.94,Phillip Whitten,,SW Zone SCY Champs,2005,4
+ARIZ,50 Y Breaststroke,SCY,M,60-64,40.36,Peter A Eisenklam,,Sun Devil Masters Invite,2005,5
+ARIZ,50 Y Breaststroke,SCY,M,60-64,41.41,Richard E McGee,,SW Zone SCY Champs,2005,6
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:07.68,Kimball Bernard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:17.10,Robert W Lewis,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:22.44,Phillip Whitten,,Sun Devil Masters Invite,2005,3
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:32.70,Peter A Eisenklam,,Sun Devil Masters Invite,2005,4
+ARIZ,200 Y Breaststroke,SCY,M,60-64,2:52.99,Robert W Lewis,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,60-64,3:15.00,Phillip Whitten,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,60-64,32.59,Robert C Wilson,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Butterfly,SCY,M,60-64,36.95,Richard E McGee,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,60-64,42.65,Richard J LeRoy,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Butterfly,SCY,M,60-64,1:43.01,Carsten N Wilms,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Butterfly,SCY,M,60-64,1:47.28,Richard J LeRoy,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:04.37,Kimball Bernard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:10.26,James L White,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:16.20,Phillip Whitten,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:31.01,Richard J LeRoy,,SW Zone SCY Champs,2005,4
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:44.07,David W Fitzgibbons,,Sun Devil Masters Invite,2005,5
+ARIZ,200 Y Individual Medley,SCY,M,60-64,2:24.40,Kimball Bernard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,200 Y Individual Medley,SCY,M,60-64,3:23.79,Richard J LeRoy,,SW Zone SCY Champs,2005,2
+ARIZ,400 Y Individual Medley,SCY,M,60-64,5:19.81,Kimball Bernard,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Freestyle,SCY,M,65-69,30.96,Robert J Bracken,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:16.04,Robert J Bracken,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,65-69,37.45,Art R Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,65-69,41.58,Robert J Bracken,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Backstroke,SCY,M,65-69,43.00,Frank E Eissing,,SW Zone SCY Champs,2005,3
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:25.29,Art R Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:38.08,Frank E Eissing,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Backstroke,SCY,M,65-69,3:09.60,Art R Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Backstroke,SCY,M,65-69,3:35.79,Frank E Eissing,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Breaststroke,SCY,M,65-69,38.29,Robert J Bracken,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,65-69,42.33,Frank E Eissing,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,65-69,1:29.82,Robert J Bracken,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,65-69,3:26.99,Robert J Bracken,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,65-69,3:31.28,Frank E Eissing,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Butterfly,SCY,M,65-69,38.29,Robert J Bracken,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,65-69,1:21.02,Robert J Bracken,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,65-69,1:32.30,Frank E Eissing,,SW Zone SCY Champs,2005,2
+ARIZ,50 Y Freestyle,SCY,M,70-74,27.05,Ronald L Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Freestyle,SCY,M,70-74,39.77,Edward W Sefic,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Freestyle,SCY,M,70-74,1:01.12,Ronald L Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Freestyle,SCY,M,70-74,1:41.56,Edward W Sefic,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Freestyle,SCY,M,70-74,3:45.41,Edward W Sefic,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,70-74,37.01,Ronald L Johnson,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,70-74,46.46,Gordon H Gillin,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,70-74,1:20.08,Ronald L Johnson,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Butterfly,SCY,M,70-74,30.38,Ronald L Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Butterfly,SCY,M,70-74,42.68,Gordon H Gillin,,SW Zone SCY Champs,2005,2
+ARIZ,100 Y Butterfly,SCY,M,70-74,1:12.31,Ronald L Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Butterfly,SCY,M,70-74,1:40.93,Gordon H Gillin,,SW Zone SCY Champs,2005,2
+ARIZ,200 Y Butterfly,SCY,M,70-74,3:53.52,Gordon H Gillin,,Sun Devil Masters Invite,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,70-74,1:13.21,Ronald L Johnson,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,70-74,1:34.39,Gordon H Gillin,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Individual Medley,SCY,M,70-74,3:28.54,Gordon H Gillin,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,M,70-74,7:37.41,Gordon H Gillin,,Sun Devil Masters Invite,2005,1
+ARIZ,50 Y Freestyle,SCY,M,75-79,34.94,Tom D Rigley,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,75-79,3:34.37,Lou Silverstein,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,M,75-79,9:17.02,Lou Silverstein,,2005 USMS Short Course Nationals,2005,1
+ARIZ,1000 Y Freestyle,SCY,M,75-79,19:29.52,Daniel Gruender,,SW Zone SCY Champs,2005,1
+ARIZ,1650 Y Freestyle,SCY,M,75-79,31:23.60,Daniel Gruender,,2005 USMS Short Course Nationals,2005,1
+ARIZ,1650 Y Freestyle,SCY,M,75-79,31:23.95,Lou Silverstein,,2005 USMS Short Course Nationals,2005,2
+ARIZ,50 Y Backstroke,SCY,M,75-79,43.29,Tom D Rigley,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Backstroke,SCY,M,75-79,52.54,Art Kelley,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Backstroke,SCY,M,75-79,1:41.31,Lou Silverstein,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Backstroke,SCY,M,75-79,1:55.31,Art Kelley,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Backstroke,SCY,M,75-79,3:47.57,Lou Silverstein,,2005 USMS Short Course Nationals,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,75-79,41.01,Daniel Gruender,,SW Zone SCY Champs,2005,1
+ARIZ,50 Y Breaststroke,SCY,M,75-79,53.56,Art Kelley,,Sun Devil Masters Invite,2005,2
+ARIZ,100 Y Breaststroke,SCY,M,75-79,1:32.81,Daniel Gruender,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Breaststroke,SCY,M,75-79,2:02.77,Art Kelley,,Sun Devil Masters Invite,2005,2
+ARIZ,200 Y Breaststroke,SCY,M,75-79,3:38.50,Daniel Gruender,,Sun Devil Masters Invite,2005,1
+ARIZ,200 Y Breaststroke,SCY,M,75-79,4:33.96,Art Kelley,,Pacific Masters SCY Champs,2005,2
+ARIZ,200 Y Individual Medley,SCY,M,75-79,4:22.13,Lou Silverstein,,SW Zone SCY Champs,2005,1
+ARIZ,400 Y Individual Medley,SCY,M,75-79,9:00.55,Lou Silverstein,,2005 USMS Short Course Nationals,2005,1
+ARIZ,100 Y Freestyle,SCY,M,80-84,1:21.49,John Jorgensen,,SW Zone SCY Champs,2005,1
+ARIZ,200 Y Freestyle,SCY,M,80-84,3:01.04,John Jorgensen,,SW Zone SCY Champs,2005,1
+ARIZ,500 Y Freestyle,SCY,M,80-84,8:12.66,John Jorgensen,,SW Zone SCY Champs,2005,1
+ARIZ,100 Y Individual Medley,SCY,M,80-84,1:33.70,John Jorgensen,,SW Zone SCY Champs,2005,1

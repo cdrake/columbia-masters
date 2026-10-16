@@ -1,0 +1,337 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 Y Freestyle,SCY,W,25-29,28.42,Amy M Gladwell,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Freestyle,SCY,W,25-29,1:01.24,Amy M Gladwell,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Breaststroke,SCY,W,25-29,33.41,Katharine E Larson,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,W,25-29,38.48,Christine C Capizzi,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,W,25-29,1:11.08,Katharine E Larson,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,W,25-29,1:23.03,Christine C Capizzi,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Breaststroke,SCY,W,25-29,2:58.45,Christine C Capizzi,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,W,25-29,28.96,Katharine E Larson,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,W,25-29,29.49,Amy M Gladwell,,East Lyme Turkey Time SCY,2007,2
+CONN,100 Y Individual Medley,SCY,W,25-29,1:17.75,Christine C Capizzi,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Individual Medley,SCY,W,25-29,2:20.81,Katharine E Larson,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Individual Medley,SCY,W,25-29,2:45.35,Christine C Capizzi,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,W,30-34,29.83,Nicole C Ballarini,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Freestyle,SCY,W,30-34,1:05.01,Nicole C Ballarini,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Freestyle,SCY,W,30-34,2:24.60,Jennifer R Madonia,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,W,30-34,6:38.81,Jennifer R Madonia,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,W,30-34,39.59,Michele E Stawasz,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,W,30-34,1:25.17,Michele E Stawasz,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,W,30-34,33.26,Nicole C Ballarini,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Butterfly,SCY,W,30-34,35.10,Jennifer R Madonia,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Butterfly,SCY,W,30-34,1:16.80,Jennifer R Madonia,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,W,30-34,1:19.47,Nicole C Ballarini,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Individual Medley,SCY,W,30-34,1:21.48,Michele E Stawasz,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,W,35-39,39.52,Lucy R Peralta-Hayes,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,W,35-39,1:02.89,Galen D Rinaldi,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Freestyle,SCY,W,35-39,1:12.66,Kimberly A Russo,,East Lyme Turkey Time SCY,2007,2
+CONN,100 Y Freestyle,SCY,W,35-39,1:35.71,Lucy R Peralta-Hayes,,Ground Hog Meet at Weston CT,2007,3
+CONN,200 Y Freestyle,SCY,W,35-39,2:16.08,Galen D Rinaldi,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Freestyle,SCY,W,35-39,2:36.10,Kimberly A Russo,,East Lyme Turkey Time SCY,2007,2
+CONN,500 Y Freestyle,SCY,W,35-39,6:05.57,Galen D Rinaldi,,East Lyme Turkey Time SCY,2007,1
+CONN,500 Y Freestyle,SCY,W,35-39,6:45.62,Kimberly A Russo,,East Lyme Turkey Time SCY,2007,2
+CONN,1000 Y Freestyle,SCY,W,35-39,13:33.12,Kimberly A Russo,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,W,35-39,54.51,Lucy R Peralta-Hayes,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,W,35-39,34.75,Galen D Rinaldi,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Individual Medley,SCY,W,35-39,1:15.53,Galen D Rinaldi,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Freestyle,SCY,W,40-44,28.64,Marie Kenny,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Freestyle,SCY,W,40-44,36.98,Carolyn Daniels,,East Lyme Turkey Time SCY,2007,2
+CONN,50 Y Freestyle,SCY,W,40-44,39.63,Amy L Bolotin,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Freestyle,SCY,W,40-44,40.19,Cathy A Wein,,Ground Hog Meet at Weston CT,2007,4
+CONN,50 Y Freestyle,SCY,W,40-44,43.39,Jan E Dearth,,Ground Hog Meet at Weston CT,2007,5
+CONN,50 Y Freestyle,SCY,W,40-44,44.20,Allison I Goldberg,,Ground Hog Meet at Weston CT,2007,6
+CONN,100 Y Freestyle,SCY,W,40-44,1:27.02,Carolyn Daniels,,New England SCY Champs,2007,1
+CONN,100 Y Freestyle,SCY,W,40-44,1:31.66,Cathy A Wein,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,W,40-44,1:34.70,Amy L Bolotin,,Ground Hog Meet at Weston CT,2007,3
+CONN,200 Y Freestyle,SCY,W,40-44,2:49.60,Kerry L King,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,W,40-44,7:36.60,Kerry L King,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,W,40-44,8:48.38,Carolyn Daniels,,New England SCY Champs,2007,2
+CONN,50 Y Backstroke,SCY,W,40-44,54.83,Jan E Dearth,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,W,40-44,45.37,Carolyn Daniels,,New England SCY Champs,2007,1
+CONN,50 Y Breaststroke,SCY,W,40-44,51.15,Allison I Goldberg,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,W,40-44,1:45.42,Carolyn Daniels,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Breaststroke,SCY,W,40-44,3:28.10,Kerry L King,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,W,40-44,31.42,Marie Kenny,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Butterfly,SCY,W,40-44,50.53,Carolyn Daniels,,New England SCY Champs,2007,2
+CONN,100 Y Butterfly,SCY,W,40-44,1:20.31,Marie Kenny,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Individual Medley,SCY,W,40-44,1:16.35,Marie Kenny,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Individual Medley,SCY,W,40-44,1:48.97,Carolyn Daniels,,East Lyme Turkey Time SCY,2007,2
+CONN,100 Y Individual Medley,SCY,W,40-44,1:55.39,Allison I Goldberg,,Ground Hog Meet at Weston CT,2007,3
+CONN,100 Y Individual Medley,SCY,W,40-44,2:05.74,Jan E Dearth,,Ground Hog Meet at Weston CT,2007,4
+CONN,50 Y Freestyle,SCY,W,45-49,26.78,Sheila M Stolarski,,2007 YMCA Masters Nationals at Indianapolis SCY,2007,1
+CONN,50 Y Freestyle,SCY,W,45-49,29.53,Teresa A Rough,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,W,45-49,31.99,Maria C Klutey,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Freestyle,SCY,W,45-49,37.35,Leah Cohen,,Ground Hog Meet at Weston CT,2007,4
+CONN,200 Y Freestyle,SCY,W,45-49,2:39.54,Maria C Klutey,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Freestyle,SCY,W,45-49,3:20.92,Deborah R Lasala,,Ground Hog Meet at Weston CT,2007,2
+CONN,500 Y Freestyle,SCY,W,45-49,7:44.37,Lisa J O'Keefe,,East Lyme Turkey Time SCY,2007,1
+CONN,500 Y Freestyle,SCY,W,45-49,8:05.82,Deborah R Lasala,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Backstroke,SCY,W,45-49,30.18,Sheila M Stolarski,,2007 YMCA Masters Nationals at Indianapolis SCY,2007,1
+CONN,50 Y Backstroke,SCY,W,45-49,36.74,Teresa A Rough,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Backstroke,SCY,W,45-49,39.16,Lisa J O'Keefe,,East Lyme Turkey Time SCY,2007,3
+CONN,100 Y Backstroke,SCY,W,45-49,1:04.79,Sheila M Stolarski,,2007 YMCA Masters Nationals at Indianapolis SCY,2007,1
+CONN,200 Y Backstroke,SCY,W,45-49,2:19.03,Sheila M Stolarski,,2007 YMCA Masters Nationals at Indianapolis SCY,2007,1
+CONN,200 Y Backstroke,SCY,W,45-49,3:38.59,Deborah R Lasala,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Breaststroke,SCY,W,45-49,45.14,Lisa J O'Keefe,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Breaststroke,SCY,W,45-49,46.25,Leah Cohen,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Butterfly,SCY,W,45-49,29.35,Sheila M Stolarski,,2007 YMCA Masters Nationals at Indianapolis SCY,2007,1
+CONN,50 Y Butterfly,SCY,W,45-49,35.14,Teresa A Rough,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Butterfly,SCY,W,45-49,35.83,Lisa J O'Keefe,,East Lyme Turkey Time SCY,2007,3
+CONN,50 Y Butterfly,SCY,W,45-49,46.82,Leah Cohen,,Ground Hog Meet at Weston CT,2007,4
+CONN,100 Y Butterfly,SCY,W,45-49,1:40.25,Deborah R Lasala,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:16.41,Teresa A Rough,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:19.00,Maria C Klutey,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Individual Medley,SCY,W,45-49,1:23.74,Lisa J O'Keefe,,East Lyme Turkey Time SCY,2007,3
+CONN,100 Y Individual Medley,SCY,W,45-49,1:38.67,Leah Cohen,,Ground Hog Meet at Weston CT,2007,4
+CONN,200 Y Individual Medley,SCY,W,45-49,2:50.36,Maria C Klutey,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,W,50-54,42.00,Terry Wildrick,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,W,50-54,44.33,Robyn B Guimont,,East Lyme Turkey Time SCY,2007,2
+CONN,100 Y Freestyle,SCY,W,50-54,1:25.23,Dinah Wells,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Freestyle,SCY,W,50-54,3:11.14,Terry Wildrick,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,W,50-54,8:18.25,Dinah Wells,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,W,50-54,50.00,Robyn B Guimont,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Breaststroke,SCY,W,50-54,45.45,Robyn B Guimont,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Breaststroke,SCY,W,50-54,1:40.23,Robyn B Guimont,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Butterfly,SCY,W,50-54,46.29,Dinah Wells,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Butterfly,SCY,W,50-54,1:44.23,Terry Wildrick,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:38.30,Dinah Wells,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:40.83,Terry Wildrick,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,W,55-59,31.17,Christie M Hayes,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Breaststroke,SCY,W,55-59,39.07,Christie M Hayes,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Breaststroke,SCY,W,55-59,1:26.49,Christie M Hayes,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Individual Medley,SCY,W,55-59,2:56.93,Christie M Hayes,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Freestyle,SCY,W,60-64,3:15.37,Janit P Romayko,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,W,60-64,9:47.78,Ann Louise Onton,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,W,60-64,43.51,Janit P Romayko,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,W,60-64,1:33.37,Janit P Romayko,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Breaststroke,SCY,W,60-64,3:24.63,Janit P Romayko,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,W,60-64,50.44,Ann Louise Onton,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Butterfly,SCY,W,60-64,1:59.25,Ann Louise Onton,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Butterfly,SCY,W,60-64,4:32.44,Ann Louise Onton,,Ground Hog Meet at Weston CT,2007,1
+CONN,400 Y Individual Medley,SCY,W,60-64,8:45.23,Ann Louise Onton,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Breaststroke,SCY,W,80-84,4:42.73,Suzanne B Graham,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,18-24,28.60,Robert E Duguay,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Freestyle,SCY,M,18-24,2:18.10,Robert E Duguay,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,M,18-24,6:09.03,Robert E Duguay,,East Lyme Turkey Time SCY,2007,1
+CONN,1000 Y Freestyle,SCY,M,18-24,13:02.96,Robert E Duguay,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Breaststroke,SCY,M,18-24,1:24.02,Robert E Duguay,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,M,25-29,50.74,Mike Krajewski,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Freestyle,SCY,M,25-29,52.18,Attila D Libertiny,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,25-29,1:04.40,Roy C Edwards,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Breaststroke,SCY,M,25-29,35.75,Roy C Edwards,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,M,25-29,1:04.40,Mike Krajewski,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Breaststroke,SCY,M,25-29,1:18.89,Roy C Edwards,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Breaststroke,SCY,M,25-29,3:01.72,Roy C Edwards,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Butterfly,SCY,M,25-29,56.04,Mike Krajewski,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Butterfly,SCY,M,25-29,2:14.53,Attila D Libertiny,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Individual Medley,SCY,M,25-29,2:12.15,Attila D Libertiny,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,30-34,24.04,Joshua Usdavin,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,30-34,24.16,Adam B Breiner,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,30-34,52.73,Adam B Breiner,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,M,30-34,53.23,Joshua Usdavin,,Ground Hog Meet at Weston CT,2007,2
+CONN,500 Y Freestyle,SCY,M,30-34,5:42.94,Joshua Usdavin,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,M,30-34,26.11,Adam B Breiner,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Individual Medley,SCY,M,30-34,2:19.40,Joshua Usdavin,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,35-39,22.44,Karl W Slatoff,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,35-39,25.90,Patrick L Good,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,M,35-39,26.56,Lyes Mahfoudia,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Freestyle,SCY,M,35-39,26.76,Michael R Mahoney,,Ground Hog Meet at Weston CT,2007,4
+CONN,50 Y Freestyle,SCY,M,35-39,29.12,Richard J Bell,,Colonies Zone SCY Champs,2007,5
+CONN,50 Y Freestyle,SCY,M,35-39,31.31,Stuart B Hayes,,Ground Hog Meet at Weston CT,2007,6
+CONN,100 Y Freestyle,SCY,M,35-39,58.18,Patrick L Good,,New England SCY Champs,2007,1
+CONN,100 Y Freestyle,SCY,M,35-39,59.79,Michael R Mahoney,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,35-39,1:09.36,Richard J Bell,,Colonies Zone SCY Champs,2007,3
+CONN,100 Y Freestyle,SCY,M,35-39,1:12.14,Stuart B Hayes,,Ground Hog Meet at Weston CT,2007,4
+CONN,200 Y Freestyle,SCY,M,35-39,2:11.40,Patrick L Good,,New England SCY Champs,2007,1
+CONN,200 Y Freestyle,SCY,M,35-39,2:14.22,Michael R Mahoney,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Freestyle,SCY,M,35-39,2:46.98,Richard J Bell,,New England SCY Champs,2007,3
+CONN,500 Y Freestyle,SCY,M,35-39,6:20.79,Michael R Mahoney,,Ground Hog Meet at Weston CT,2007,1
+CONN,1650 Y Freestyle,SCY,M,35-39,20:50.16,Michael R Mahoney,,New England SCY Champs,2007,1
+CONN,50 Y Backstroke,SCY,M,35-39,42.52,Richard J Bell,,Colonies Zone SCY Champs,2007,1
+CONN,200 Y Backstroke,SCY,M,35-39,2:23.01,Michael R Mahoney,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,35-39,34.83,Richard J Bell,,Colonies Zone SCY Champs,2007,1
+CONN,100 Y Breaststroke,SCY,M,35-39,1:19.16,Richard J Bell,,Colonies Zone SCY Champs,2007,1
+CONN,200 Y Breaststroke,SCY,M,35-39,2:53.54,Mark A Locken,,New England SCY Champs,2007,1
+CONN,200 Y Breaststroke,SCY,M,35-39,2:57.62,Richard J Bell,,Colonies Zone SCY Champs,2007,2
+CONN,50 Y Butterfly,SCY,M,35-39,27.98,Mark A Locken,,New England SCY Champs,2007,1
+CONN,50 Y Butterfly,SCY,M,35-39,28.55,Patrick L Good,,New England SCY Champs,2007,2
+CONN,50 Y Butterfly,SCY,M,35-39,35.22,Stuart B Hayes,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Butterfly,SCY,M,35-39,35.41,Richard J Bell,,Colonies Zone SCY Champs,2007,4
+CONN,100 Y Butterfly,SCY,M,35-39,1:05.34,Patrick L Good,,New England SCY Champs,2007,1
+CONN,100 Y Individual Medley,SCY,M,35-39,1:10.37,Patrick L Good,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,M,35-39,1:21.30,Richard J Bell,,New England SCY Champs,2007,2
+CONN,200 Y Individual Medley,SCY,M,35-39,2:31.60,Mark A Locken,,New England SCY Champs,2007,1
+CONN,50 Y Freestyle,SCY,M,40-44,25.33,Michael F Farrell,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Freestyle,SCY,M,40-44,28.49,Joseph H Hardison,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,M,40-44,34.04,Daniel W Adamik,,Ground Hog Meet at Weston CT,2007,3
+CONN,100 Y Freestyle,SCY,M,40-44,56.18,Michael F Farrell,,East Lyme Turkey Time SCY,2007,1
+CONN,500 Y Freestyle,SCY,M,40-44,5:59.23,Rick Klutey,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,40-44,37.79,Joseph H Hardison,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,40-44,40.75,Daniel W Adamik,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,M,40-44,1:15.34,Rick Klutey,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Breaststroke,SCY,M,40-44,2:40.97,Rick Klutey,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,M,40-44,40.79,Daniel W Adamik,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Individual Medley,SCY,M,40-44,1:31.60,Daniel W Adamik,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Individual Medley,SCY,M,40-44,2:29.23,Rick Klutey,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,45-49,23.33,Matt M Wood,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Freestyle,SCY,M,45-49,24.48,Justin O Merrill,,East Lyme Turkey Time SCY,2007,2
+CONN,100 Y Freestyle,SCY,M,45-49,53.44,Justin O Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Freestyle,SCY,M,45-49,1:55.40,Justin O Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Freestyle,SCY,M,45-49,2:42.24,Scott G Estabrook,,Ground Hog Meet at Weston CT,2007,2
+CONN,500 Y Freestyle,SCY,M,45-49,5:34.08,Justin O Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,M,45-49,30.38,James J Coleman,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Backstroke,SCY,M,45-49,1:05.63,Tom K Coffey,,New England SCY Champs,2007,1
+CONN,200 Y Backstroke,SCY,M,45-49,2:59.43,David Logan,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Breaststroke,SCY,M,45-49,30.11,Matt M Wood,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,45-49,38.69,David Logan,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,M,45-49,1:21.49,David Logan,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,M,45-49,1:30.33,Scott G Estabrook,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Breaststroke,SCY,M,45-49,2:53.96,David Logan,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,M,45-49,25.31,Matt M Wood,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Butterfly,SCY,M,45-49,26.60,Tom K Coffey,,2007 USMS Short Course Nationals,2007,2
+CONN,100 Y Butterfly,SCY,M,45-49,56.83,Matt M Wood,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Butterfly,SCY,M,45-49,58.64,Tom K Coffey,,2007 USMS Short Course Nationals,2007,2
+CONN,200 Y Butterfly,SCY,M,45-49,2:15.97,Tom K Coffey,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Individual Medley,SCY,M,45-49,59.68,Matt M Wood,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,M,45-49,1:04.10,Tom K Coffey,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Individual Medley,SCY,M,45-49,1:05.62,James J Coleman,,Ground Hog Meet at Weston CT,2007,3
+CONN,100 Y Individual Medley,SCY,M,45-49,1:20.81,Scott G Estabrook,,Ground Hog Meet at Weston CT,2007,4
+CONN,200 Y Individual Medley,SCY,M,45-49,2:12.53,Tom K Coffey,,2007 USMS Short Course Nationals,2007,1
+CONN,200 Y Individual Medley,SCY,M,45-49,2:56.81,Scott G Estabrook,,Ground Hog Meet at Weston CT,2007,2
+CONN,400 Y Individual Medley,SCY,M,45-49,4:56.47,Tom K Coffey,,2007 USMS Short Course Nationals,2007,1
+CONN,50 Y Freestyle,SCY,M,50-54,30.31,Kevin M Morrissey,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,M,50-54,59.38,Robert E Eckhoff,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Freestyle,SCY,M,50-54,1:06.10,Chet M Morton,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,50-54,1:09.05,Kevin M Morrissey,,Ground Hog Meet at Weston CT,2007,3
+CONN,200 Y Freestyle,SCY,M,50-54,2:10.33,Robert E Eckhoff,,New England SCY Champs,2007,1
+CONN,200 Y Freestyle,SCY,M,50-54,2:22.33,Chet M Morton,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Freestyle,SCY,M,50-54,2:27.21,Kevin T Murray,,East Lyme Turkey Time SCY,2007,3
+CONN,500 Y Freestyle,SCY,M,50-54,6:07.64,Robert E Eckhoff,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,M,50-54,6:42.68,Kevin T Murray,,East Lyme Turkey Time SCY,2007,2
+CONN,50 Y Backstroke,SCY,M,50-54,32.26,Robert E Eckhoff,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Backstroke,SCY,M,50-54,34.56,Kevin M Morrissey,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Backstroke,SCY,M,50-54,1:16.42,Kevin M Morrissey,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Backstroke,SCY,M,50-54,2:22.47,Robert E Eckhoff,,New England SCY Champs,2007,1
+CONN,200 Y Backstroke,SCY,M,50-54,3:01.24,F Scott Gray,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Breaststroke,SCY,M,50-54,36.52,F Scott Gray,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,M,50-54,1:26.19,F Scott Gray,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Butterfly,SCY,M,50-54,1:05.83,Kevin T Hoffman,,New England SCY Champs,2007,1
+CONN,200 Y Butterfly,SCY,M,50-54,2:28.72,Kevin T Hoffman,,New England SCY Champs,2007,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:19.62,F Scott Gray,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:23.65,Chet M Morton,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Freestyle,SCY,M,55-59,26.29,William J Geoghegan,,Colonies Zone SCY Champs,2007,1
+CONN,50 Y Freestyle,SCY,M,55-59,28.23,John T Marchacos,,New England SCY Champs,2007,2
+CONN,50 Y Freestyle,SCY,M,55-59,35.52,Donald R Werner,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Freestyle,SCY,M,55-59,36.85,Bill D Corry,,Ground Hog Meet at Weston CT,2007,4
+CONN,100 Y Freestyle,SCY,M,55-59,1:21.40,Bill D Corry,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Freestyle,SCY,M,55-59,2:21.40,William J Geoghegan,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,M,55-59,37.18,Robert M Cahill,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Backstroke,SCY,M,55-59,1:18.97,Robert M Cahill,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Backstroke,SCY,M,55-59,2:36.67,William J Geoghegan,,Colonies Zone SCY Champs,2007,1
+CONN,200 Y Backstroke,SCY,M,55-59,2:50.86,Robert M Cahill,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Breaststroke,SCY,M,55-59,36.53,Rick C Fulljames,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,55-59,41.68,Bill D Corry,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,M,55-59,1:22.22,Rick C Fulljames,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Breaststroke,SCY,M,55-59,1:31.42,Bill D Corry,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,M,55-59,1:36.42,Donald R Werner,,Ground Hog Meet at Weston CT,2007,3
+CONN,200 Y Breaststroke,SCY,M,55-59,3:40.11,Donald R Werner,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,M,55-59,29.21,John T Marchacos,,New England SCY Champs,2007,1
+CONN,100 Y Butterfly,SCY,M,55-59,1:10.22,John T Marchacos,,New England SCY Champs,2007,1
+CONN,100 Y Butterfly,SCY,M,55-59,1:16.30,William J Geoghegan,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Butterfly,SCY,M,55-59,2:50.24,William J Geoghegan,,Colonies Zone SCY Champs,2007,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:09.04,William J Geoghegan,,Colonies Zone SCY Champs,2007,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:21.16,Rick C Fulljames,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Individual Medley,SCY,M,55-59,2:32.40,William J Geoghegan,,Colonies Zone SCY Champs,2007,1
+CONN,400 Y Individual Medley,SCY,M,55-59,5:33.67,William J Geoghegan,,Colonies Zone SCY Champs,2007,1
+CONN,50 Y Freestyle,SCY,M,60-64,26.76,Jack Geoghegan,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,60-64,33.98,Albert F Gould,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,60-64,58.39,Jack Geoghegan,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,M,60-64,1:22.73,Albert F Gould,,Ground Hog Meet at Weston CT,2007,2
+CONN,200 Y Freestyle,SCY,M,60-64,2:10.64,Jack Geoghegan,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Freestyle,SCY,M,60-64,2:35.72,Michael A Laux,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Freestyle,SCY,M,60-64,3:14.78,Albert F Gould,,Ground Hog Meet at Weston CT,2007,3
+CONN,500 Y Freestyle,SCY,M,60-64,6:57.25,Michael A Laux,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,M,60-64,32.01,Jack Geoghegan,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Backstroke,SCY,M,60-64,1:23.65,Michael A Laux,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Backstroke,SCY,M,60-64,3:03.54,Michael A Laux,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Breaststroke,SCY,M,60-64,42.48,Albert F Gould,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Individual Medley,SCY,M,60-64,3:00.05,Michael A Laux,,East Lyme Turkey Time SCY,2007,1
+CONN,400 Y Individual Medley,SCY,M,60-64,5:27.12,Jack Geoghegan,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,65-69,38.12,Raymond A Thornberg,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Freestyle,SCY,M,65-69,45.98,C Douglas Yarnall,,East Lyme Turkey Time SCY,2007,2
+CONN,100 Y Freestyle,SCY,M,65-69,1:01.43,Michael A Laux,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Freestyle,SCY,M,65-69,1:25.53,Raymond A Thornberg,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,65-69,1:43.25,C Douglas Yarnall,,East Lyme Turkey Time SCY,2007,3
+CONN,200 Y Freestyle,SCY,M,65-69,2:24.93,Michael A Laux,,Colonies Zone SCY Champs,2007,1
+CONN,200 Y Freestyle,SCY,M,65-69,3:06.70,Peter P Berghaus,,NY State SCY Champs at Skidmore  College,2007,2
+CONN,200 Y Freestyle,SCY,M,65-69,3:12.69,Raymond A Thornberg,,Ground Hog Meet at Weston CT,2007,3
+CONN,200 Y Freestyle,SCY,M,65-69,3:34.11,C Douglas Yarnall,,East Lyme Turkey Time SCY,2007,4
+CONN,500 Y Freestyle,SCY,M,65-69,7:05.00,Michael A Laux,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,M,65-69,8:23.46,Peter P Berghaus,,NY State SCY Champs at Skidmore  College,2007,2
+CONN,50 Y Backstroke,SCY,M,65-69,43.36,Peter P Berghaus,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Backstroke,SCY,M,65-69,48.54,Raymond A Thornberg,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Backstroke,SCY,M,65-69,1:05.87,C Douglas Yarnall,,East Lyme Turkey Time SCY,2007,3
+CONN,100 Y Backstroke,SCY,M,65-69,1:34.43,Peter P Berghaus,,NY State SCY Champs at Skidmore  College,2007,1
+CONN,100 Y Backstroke,SCY,M,65-69,2:16.78,C Douglas Yarnall,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Backstroke,SCY,M,65-69,2:47.40,Michael A Laux,,2007 USMS Short Course Nationals,2007,1
+CONN,200 Y Backstroke,SCY,M,65-69,3:30.15,Peter P Berghaus,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Backstroke,SCY,M,65-69,3:50.14,Raymond A Thornberg,,Ground Hog Meet at Weston CT,2007,3
+CONN,50 Y Breaststroke,SCY,M,65-69,35.39,Michael A Laux,,Colonies Zone SCY Champs,2007,1
+CONN,50 Y Breaststroke,SCY,M,65-69,41.16,Peter P Berghaus,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,M,65-69,1:16.80,Michael A Laux,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Breaststroke,SCY,M,65-69,1:31.72,Peter P Berghaus,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Breaststroke,SCY,M,65-69,2:53.74,Michael A Laux,,2007 USMS Short Course Nationals,2007,1
+CONN,200 Y Breaststroke,SCY,M,65-69,3:20.53,Peter P Berghaus,,NY State SCY Champs at Skidmore  College,2007,2
+CONN,50 Y Butterfly,SCY,M,65-69,30.98,Michael A Laux,,Colonies Zone SCY Champs,2007,1
+CONN,50 Y Butterfly,SCY,M,65-69,41.86,Peter P Berghaus,,Ground Hog Meet at Weston CT,2007,2
+CONN,50 Y Butterfly,SCY,M,65-69,49.33,Raymond A Thornberg,,East Lyme Turkey Time SCY,2007,3
+CONN,100 Y Individual Medley,SCY,M,65-69,1:11.04,Michael A Laux,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Individual Medley,SCY,M,65-69,1:27.60,Peter P Berghaus,,NY State SCY Champs at Skidmore  College,2007,2
+CONN,100 Y Individual Medley,SCY,M,65-69,1:50.72,Raymond A Thornberg,,East Lyme Turkey Time SCY,2007,3
+CONN,200 Y Individual Medley,SCY,M,65-69,2:38.89,Michael A Laux,,Colonies Zone SCY Champs,2007,1
+CONN,200 Y Individual Medley,SCY,M,65-69,3:23.37,Peter P Berghaus,,East Lyme Turkey Time SCY,2007,2
+CONN,50 Y Freestyle,SCY,M,70-74,1:03.20,James A Goldsmith,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,M,70-74,2:32.98,James A Goldsmith,,New England SCY Champs,2007,1
+CONN,200 Y Freestyle,SCY,M,70-74,5:47.88,James A Goldsmith,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,M,70-74,16:58.71,James A Goldsmith,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Backstroke,SCY,M,70-74,1:24.65,James A Goldsmith,,New England SCY Champs,2007,1
+CONN,100 Y Backstroke,SCY,M,70-74,3:17.88,James A Goldsmith,,New England SCY Champs,2007,1
+CONN,200 Y Backstroke,SCY,M,70-74,6:36.19,James A Goldsmith,,New England SCY Champs,2007,1
+CONN,50 Y Freestyle,SCY,M,75-79,39.64,Francis M Dooley,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,75-79,39.97,Arthur M Figur,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Freestyle,SCY,M,75-79,1:28.90,Arthur M Figur,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Freestyle,SCY,M,75-79,1:30.28,Francis M Dooley,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Freestyle,SCY,M,75-79,3:20.11,Francis M Dooley,,East Lyme Turkey Time SCY,2007,1
+CONN,500 Y Freestyle,SCY,M,75-79,9:46.61,Fred H Goldner,,East Lyme Turkey Time SCY,2007,1
+CONN,1000 Y Freestyle,SCY,M,75-79,19:08.00,Fred H Goldner,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,M,75-79,52.17,Arthur M Figur,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,75-79,41.66,Charles J Urstadt,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Breaststroke,SCY,M,75-79,46.88,Arthur M Figur,,Ground Hog Meet at Weston CT,2007,2
+CONN,100 Y Breaststroke,SCY,M,75-79,1:39.92,Charles J Urstadt,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Breaststroke,SCY,M,75-79,3:50.13,Charles J Urstadt,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Butterfly,SCY,M,75-79,39.60,Lenrod Goldstone,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Butterfly,SCY,M,75-79,1:33.21,Lenrod Goldstone,,Ground Hog Meet at Weston CT,2007,1
+CONN,200 Y Butterfly,SCY,M,75-79,3:43.89,Lenrod Goldstone,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,M,75-79,1:31.09,Lenrod Goldstone,,Ground Hog Meet at Weston CT,2007,1
+CONN,100 Y Individual Medley,SCY,M,75-79,1:44.23,Arthur M Figur,,Ground Hog Meet at Weston CT,2007,2
+CONN,400 Y Individual Medley,SCY,M,75-79,7:18.89,Lenrod Goldstone,,Ground Hog Meet at Weston CT,2007,1
+CONN,50 Y Freestyle,SCY,M,80-84,45.65,Fred H Goldner,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Freestyle,SCY,M,80-84,1:33.97,Fred H Goldner,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Freestyle,SCY,M,80-84,2:16.19,Vladimir I Ouchakof,,East Lyme Turkey Time SCY,2007,2
+CONN,200 Y Freestyle,SCY,M,80-84,3:25.44,Fred H Goldner,,2007 USMS Short Course Nationals,2007,1
+CONN,500 Y Freestyle,SCY,M,80-84,8:52.99,Fred H Goldner,,2007 USMS Short Course Nationals,2007,1
+CONN,1650 Y Freestyle,SCY,M,80-84,30:47.19,Fred H Goldner,,2007 USMS Short Course Nationals,2007,1
+CONN,100 Y Backstroke,SCY,M,80-84,2:43.57,Vladimir I Ouchakof,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Breaststroke,SCY,M,80-84,2:36.77,Vladimir I Ouchakof,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Butterfly,SCY,M,80-84,3:37.81,Vladimir I Ouchakof,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Individual Medley,SCY,M,80-84,5:46.06,Vladimir I Ouchakof,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Freestyle,SCY,M,85-89,50.54,John Merrill,,Ground Hog Meet at Weston CT,2007,1
+CONN,500 Y Freestyle,SCY,M,85-89,10:15.43,John Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,50 Y Backstroke,SCY,M,85-89,48.57,John Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Backstroke,SCY,M,85-89,1:49.24,John Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,200 Y Backstroke,SCY,M,85-89,3:51.27,John Merrill,,East Lyme Turkey Time SCY,2007,1
+CONN,100 Y Freestyle,SCY,M,90-94,1:53.61,John Merrill,,New England SCY Champs,2007,1
+CONN,500 Y Freestyle,SCY,M,90-94,10:35.90,John Merrill,,New England SCY Champs,2007,1
+CONN,50 Y Backstroke,SCY,M,90-94,49.65,John Merrill,,New England SCY Champs,2007,1
+CONN,100 Y Backstroke,SCY,M,90-94,1:46.67,John Merrill,,New England SCY Champs,2007,1
+CONN,200 Y Backstroke,SCY,M,90-94,3:54.03,John Merrill,,New England SCY Champs,2007,1

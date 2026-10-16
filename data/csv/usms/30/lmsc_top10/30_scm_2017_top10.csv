@@ -1,0 +1,422 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MINN,100 M Freestyle,SCM,W,18-24,1:10.42,Carolyn A Fittipaldi,,Minnesota Masters Short Course Meters State,2017,1
+MINN,1500 M Freestyle,SCM,W,18-24,20:31.09,Carolyn A Fittipaldi,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,18-24,1:19.27,Carolyn A Fittipaldi,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Individual Medley,SCM,W,18-24,2:49.36,Carolyn A Fittipaldi,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,25-29,30.12,Katherine Kaiser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,25-29,1:04.68,Emma J Sill,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,25-29,1:10.34,Jordan M Skaar,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,W,25-29,35.18,Katherine Kaiser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,25-29,38.25,Katherine Maguire,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Backstroke,SCM,W,25-29,1:17.99,Katherine Kaiser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,W,25-29,1:23.86,Jordan M Skaar,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Backstroke,SCM,W,25-29,2:59.65,Katherine Maguire,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,W,25-29,42.83,Katherine Kaiser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,W,25-29,34.03,Katherine Kaiser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,W,25-29,36.86,Jordan M Skaar,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,W,25-29,1:16.85,Katherine Kaiser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,25-29,1:17.14,Emma J Sill,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,W,30-34,46.88,Jacqueline A Walstrom,,Minnesota Masters Short Course Meters State,2017,1
+WMNS,100 M Freestyle,SCM,W,30-34,1:08.87,Ashley M Gregory,,2017 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2017,1
+ISMT,100 M Freestyle,SCM,W,30-34,1:16.12,Ingrid L Jeske,,Minnesota Masters Short Course Meters State,2017,2
+NORT,100 M Freestyle,SCM,W,30-34,1:19.42,Shannon L Walling,,Minnesota Masters Short Course Meters State,2017,3
+MINN,200 M Freestyle,SCM,W,30-34,2:19.79,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+WMNS,200 M Freestyle,SCM,W,30-34,2:27.47,Ashley M Gregory,,2017 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2017,2
+MINN,400 M Freestyle,SCM,W,30-34,4:43.66,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+WMNS,400 M Freestyle,SCM,W,30-34,5:13.16,Ashley M Gregory,,2017 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2017,2
+NORT,400 M Freestyle,SCM,W,30-34,5:28.61,Amy M Flessert,,Minnesota Masters Short Course Meters State,2017,3
+MINN,800 M Freestyle,SCM,W,30-34,9:39.89,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+NORT,800 M Freestyle,SCM,W,30-34,11:14.91,Amy M Flessert,,Minnesota Masters Short Course Meters State,2017,2
+MINN,1500 M Freestyle,SCM,W,30-34,18:17.97,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+NORT,1500 M Freestyle,SCM,W,30-34,21:08.60,Amy M Flessert,,Minnesota Masters Short Course Meters State,2017,2
+NORT,50 M Backstroke,SCM,W,30-34,42.35,Shannon L Walling,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,W,30-34,2:35.23,Kathryn E Vandam,,Minnesota Masters Short Course Meters State,2017,1
+ISMT,50 M Breaststroke,SCM,W,30-34,43.46,Ingrid L Jeske,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Breaststroke,SCM,W,30-34,1:38.79,Shannon L Walling,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,W,30-34,1:56.35,Jacqueline A Walstrom,,Minnesota Masters Short Course Meters State,2017,2
+NORT,200 M Breaststroke,SCM,W,30-34,3:16.03,Amy M Flessert,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Butterfly,SCM,W,30-34,1:15.57,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Butterfly,SCM,W,30-34,2:38.70,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+WMNS,200 M Butterfly,SCM,W,30-34,3:00.95,Ashley M Gregory,,2017 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2017,2
+ISMT,100 M Individual Medley,SCM,W,30-34,1:27.32,Ingrid L Jeske,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Individual Medley,SCM,W,30-34,1:29.70,Shannon L Walling,,Minnesota Masters Short Course Meters State,2017,2
+WMNS,200 M Individual Medley,SCM,W,30-34,2:51.68,Ashley M Gregory,,2017 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2017,1
+MINN,400 M Individual Medley,SCM,W,30-34,5:33.59,Sandra E Frimerman-Bergquist,,Minnesota Masters Short Course Meters State,2017,1
+WMNS,400 M Individual Medley,SCM,W,30-34,5:59.79,Ashley M Gregory,,2017 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2017,2
+MINN,50 M Freestyle,SCM,W,35-39,29.72,Elizabeth A Nymeyer,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,35-39,1:06.10,Stacey Thureen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,35-39,1:46.60,Nicole M Moen,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,W,35-39,2:24.02,Stacey Thureen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,35-39,37.90,Elizabeth A Nymeyer,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,35-39,41.89,Rachel C Hughey,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,W,35-39,55.71,Nicole M Moen,,Minnesota Masters Short Course Meters State,2017,3
+MINN,200 M Backstroke,SCM,W,35-39,3:06.12,Rachel C Hughey,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,W,35-39,1:01.17,Nicole M Moen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,W,35-39,2:11.85,Nicole M Moen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Breaststroke,SCM,W,35-39,4:33.15,Nicole M Moen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,35-39,1:17.12,Stacey Thureen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,35-39,2:01.64,Nicole M Moen,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Individual Medley,SCM,W,35-39,2:45.75,Stacey Thureen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,40-44,31.07,Erin E Piorier,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,40-44,35.39,Becky E Youngberg,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,W,40-44,40.50,Christine R Moss,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,W,40-44,1:09.40,Erin E Piorier,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,40-44,1:18.65,Becky E Youngberg,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,W,40-44,1:29.04,Susan M Hilal,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,W,40-44,1:35.11,Christine R Moss,,Minnesota Masters Short Course Meters State,2017,4
+MINN,200 M Freestyle,SCM,W,40-44,2:33.59,Erin E Piorier,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,W,40-44,3:15.17,Susan M Hilal,,Minnesota Masters Short Course Meters State,2017,2
+MINN,400 M Freestyle,SCM,W,40-44,7:45.84,Christine R Moss,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,W,40-44,44.09,Becky E Youngberg,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,W,40-44,1:35.63,Becky E Youngberg,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,W,40-44,39.32,Becky E Youngberg,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,40-44,1:29.64,Becky E Youngberg,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,40-44,1:43.85,Susan M Hilal,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,W,45-49,31.26,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,50 M Freestyle,SCM,W,45-49,36.70,Karyn L Maki,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,W,45-49,1:05.26,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,100 M Freestyle,SCM,W,45-49,1:15.22,Carole Weiland,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,W,45-49,1:21.01,Karyn L Maki,,Minnesota Masters Short Course Meters State,2017,3
+MINN,200 M Freestyle,SCM,W,45-49,2:15.59,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,200 M Freestyle,SCM,W,45-49,2:47.44,Nicki J Phillips,,Minnesota Masters Short Course Meters State,2017,2
+MINN,400 M Freestyle,SCM,W,45-49,4:49.02,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,400 M Freestyle,SCM,W,45-49,5:49.65,Nicki J Phillips,,Minnesota Masters Short Course Meters State,2017,2
+MINN,800 M Freestyle,SCM,W,45-49,11:47.26,Nicki J Phillips,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,45-49,46.44,Karyn L Maki,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,W,45-49,1:11.64,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,50 M Breaststroke,SCM,W,45-49,41.75,Carole Weiland,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,W,45-49,43.51,Catherine H Olson,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Breaststroke,SCM,W,45-49,48.44,Nicki J Phillips,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Breaststroke,SCM,W,45-49,1:33.02,Carole Weiland,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,W,45-49,1:36.00,Catherine H Olson,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Butterfly,SCM,W,45-49,32.44,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,100 M Butterfly,SCM,W,45-49,1:09.22,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,100 M Individual Medley,SCM,W,45-49,1:11.09,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,100 M Individual Medley,SCM,W,45-49,1:24.57,Carole Weiland,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Individual Medley,SCM,W,45-49,2:31.89,Jennifer Ridge,,2017 PSM SCM Championship Meet,2017,1
+MINN,50 M Freestyle,SCM,W,50-54,31.64,Patricia Burd,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,50-54,33.17,Karen K Zemlin,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,W,50-54,33.61,Lisa M Mc Callum,,Minnesota Masters Short Course Meters State,2017,3
+NORT,50 M Freestyle,SCM,W,50-54,48.41,Susan A Kamper,,Minnesota Masters Short Course Meters State,2017,4
+MINN,100 M Freestyle,SCM,W,50-54,1:09.81,Patricia Burd,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,50-54,1:10.47,Karen K Zemlin,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,W,50-54,1:15.27,Lisa M Mc Callum,,Minnesota Masters Short Course Meters State,2017,3
+UC30,100 M Freestyle,SCM,W,50-54,1:16.90,Darcy White,,Minnesota Masters Short Course Meters State,2017,4
+NORT,100 M Freestyle,SCM,W,50-54,1:51.83,Susan A Kamper,,Minnesota Masters Short Course Meters State,2017,5
+MINN,200 M Freestyle,SCM,W,50-54,2:27.75,Karen K Zemlin,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,W,50-54,2:31.90,Patricia Burd,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,W,50-54,2:32.61,Carrie E Stolar,,Minnesota Masters Short Course Meters State,2017,3
+MINN,200 M Freestyle,SCM,W,50-54,2:42.98,Lisa M Mc Callum,,Minnesota Masters Short Course Meters State,2017,4
+UC30,200 M Freestyle,SCM,W,50-54,2:50.40,Darcy White,,Minnesota Masters Short Course Meters State,2017,5
+NORT,200 M Freestyle,SCM,W,50-54,4:00.32,Susan A Kamper,,Minnesota Masters Short Course Meters State,2017,6
+MINN,400 M Freestyle,SCM,W,50-54,4:56.83,Karen K Zemlin,,Minnesota Masters Short Course Meters State,2017,1
+UC30,400 M Freestyle,SCM,W,50-54,5:55.21,Darcy White,,Minnesota Masters Short Course Meters State,2017,2
+NORT,400 M Freestyle,SCM,W,50-54,8:12.19,Susan A Kamper,,Minnesota Masters Short Course Meters State,2017,3
+MINN,800 M Freestyle,SCM,W,50-54,10:19.87,Karen K Zemlin,,Minnesota Masters Short Course Meters State,2017,1
+MINN,800 M Freestyle,SCM,W,50-54,11:00.28,Carrie E Stolar,,Minnesota Masters Short Course Meters State,2017,2
+MINN,1500 M Freestyle,SCM,W,50-54,19:18.43,Karen K Zemlin,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,W,50-54,1:26.67,Karen T Schmitz,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,W,50-54,3:01.54,Karen T Schmitz,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,W,50-54,3:02.00,Carrie E Stolar,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Butterfly,SCM,W,50-54,34.34,Carrie E Stolar,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Butterfly,SCM,W,50-54,1:17.83,Carrie E Stolar,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,50-54,1:25.75,Lisa M Mc Callum,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,50-54,1:28.37,Karen T Schmitz,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,W,55-59,41.35,Sarah Hromada,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,W,55-59,1:27.83,Sarah Hromada,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,60-64,38.06,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,1
+NORT,50 M Freestyle,SCM,W,60-64,45.44,Catherine Cowles,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,W,60-64,1:27.01,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Freestyle,SCM,W,60-64,1:44.33,Catherine Cowles,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,W,60-64,3:13.17,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,W,60-64,6:46.70,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,1
+MINN,800 M Freestyle,SCM,W,60-64,13:42.19,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,60-64,46.98,Sarah E Nelson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,60-64,51.15,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Breaststroke,SCM,W,60-64,44.78,Jill S Whitney,,South Carolina SCM Championships,2017,1
+MINN,100 M Individual Medley,SCM,W,60-64,1:29.66,Jill S Whitney,,South Carolina SCM Championships,2017,1
+MINN,200 M Individual Medley,SCM,W,60-64,3:59.94,Pamela C Ogden,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,65-69,48.70,Mary F Conway,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,65-69,57.76,Carol L Bell,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,W,65-69,1:41.69,Mary F Conway,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,65-69,2:08.95,Carol L Bell,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,W,65-69,1:10.53,Mary C Hoover,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,W,65-69,55.25,Mary F Conway,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,W,65-69,2:05.17,Mary F Conway,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,65-69,1:39.56,Sharon M Lee-Sheridan,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,W,65-69,1:56.76,Mary F Conway,,Minnesota Masters Short Course Meters State,2017,2
+MINN,400 M Individual Medley,SCM,W,65-69,7:33.43,Sharon M Lee-Sheridan,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,W,70-74,43.17,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,50 M Freestyle,SCM,W,70-74,1:09.38,Pat J Lillehei,,Huntsman World Senior Games,2017,2
+MINN,50 M Freestyle,SCM,W,70-74,1:38.08,Sandra A Pierce,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,W,70-74,1:36.23,Babs H Larsen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,W,70-74,1:47.67,Carol S Smollen,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,W,70-74,3:33.67,Babs H Larsen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,W,70-74,7:52.90,Babs H Larsen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,W,70-74,12:05.92,Pat J Lillehei,,Huntsman World Senior Games,2017,2
+MINN,800 M Freestyle,SCM,W,70-74,16:01.46,Babs H Larsen,,Minnesota Masters Short Course Meters State,2017,1
+MINN,800 M Freestyle,SCM,W,70-74,24:08.36,Pat J Lillehei,,Huntsman World Senior Games,2017,2
+MINN,50 M Backstroke,SCM,W,70-74,51.91,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,50 M Backstroke,SCM,W,70-74,1:23.94,Pat J Lillehei,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,W,70-74,1:27.80,Martha L Arradondo,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Backstroke,SCM,W,70-74,1:42.89,Sandra A Pierce,,Minnesota Masters Short Course Meters State,2017,4
+MINN,100 M Backstroke,SCM,W,70-74,1:51.37,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,200 M Backstroke,SCM,W,70-74,3:56.02,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,50 M Breaststroke,SCM,W,70-74,1:10.55,Pat J Lillehei,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,W,70-74,2:46.45,Pat J Lillehei,,Huntsman World Senior Games,2017,1
+MINN,200 M Breaststroke,SCM,W,70-74,5:51.88,Pat J Lillehei,,Huntsman World Senior Games,2017,1
+MINN,50 M Butterfly,SCM,W,70-74,53.36,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,100 M Butterfly,SCM,W,70-74,1:59.53,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,200 M Butterfly,SCM,W,70-74,4:09.28,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,100 M Individual Medley,SCM,W,70-74,1:53.37,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,200 M Individual Medley,SCM,W,70-74,4:11.64,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,400 M Individual Medley,SCM,W,70-74,8:39.81,Babs H Larsen,,2017 Chris Clarke Invitational and Great Lakes Zone SCM Championship,2017,1
+MINN,50 M Freestyle,SCM,W,75-79,57.91,AnnLiv Bacon,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,W,75-79,1:06.75,AnnLiv Bacon,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,W,75-79,2:27.05,AnnLiv Bacon,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,W,75-79,5:04.13,AnnLiv Bacon,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Freestyle,SCM,M,18-24,1:12.39,Daniel J Bibeau,,Minnesota Masters Short Course Meters State,2017,1
+UC30,200 M Freestyle,SCM,M,18-24,2:48.27,Daniel J Bibeau,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Breaststroke,SCM,M,18-24,33.54,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Breaststroke,SCM,M,18-24,1:19.86,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,1
+UC30,200 M Breaststroke,SCM,M,18-24,2:48.04,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,18-24,27.57,Wilson I Josephson,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Butterfly,SCM,M,18-24,28.60,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Butterfly,SCM,M,18-24,1:01.05,Wilson I Josephson,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Butterfly,SCM,M,18-24,1:02.25,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Butterfly,SCM,M,18-24,2:16.54,Wilson I Josephson,,Minnesota Masters Short Course Meters State,2017,1
+UC30,200 M Butterfly,SCM,M,18-24,2:23.12,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,2
+UC30,200 M Individual Medley,SCM,M,18-24,3:15.65,Daniel J Bibeau,,Minnesota Masters Short Course Meters State,2017,1
+UC30,400 M Individual Medley,SCM,M,18-24,5:19.93,Seth J Baetzold,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Freestyle,SCM,M,25-29,25.84,Graham E Charlton,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Freestyle,SCM,M,25-29,58.19,Graham E Charlton,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,25-29,1:05.61,Andrew B Eggersgluss,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,M,25-29,2:27.83,Andrew B Eggersgluss,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,M,25-29,2:27.29,Paul Hoffmann,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,M,25-29,1:16.54,Paul Hoffmann,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Butterfly,SCM,M,25-29,28.31,Graham E Charlton,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Individual Medley,SCM,M,25-29,1:09.36,Graham E Charlton,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Individual Medley,SCM,M,25-29,2:24.15,Paul Hoffmann,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,30-34,27.18,Jonathan R Burks,,Minnesota Masters Short Course Meters State,2017,1
+NORT,50 M Freestyle,SCM,M,30-34,29.28,Jonathan J Braski,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,M,30-34,29.31,Justin J Nelson,,Minnesota Masters Short Course Meters State,2017,3
+NORT,50 M Freestyle,SCM,M,30-34,29.62,Michael J Kirschling,,Minnesota Masters Short Course Meters State,2017,4
+MINN,50 M Freestyle,SCM,M,30-34,33.82,Kai A Sill,,Minnesota Masters Short Course Meters State,2017,5
+MINN,50 M Freestyle,SCM,M,30-34,37.33,David R Bergquist,,Minnesota Masters Short Course Meters State,2017,6
+NORT,100 M Freestyle,SCM,M,30-34,1:02.23,Michael J Kirschling,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,30-34,1:11.17,Patrick Parish,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,M,30-34,1:14.64,Kai A Sill,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,M,30-34,1:18.91,David R Bergquist,,Minnesota Masters Short Course Meters State,2017,4
+NORT,200 M Freestyle,SCM,M,30-34,2:21.36,Maxwell Rubesch,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,30-34,2:32.23,Patrick Parish,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,M,30-34,2:42.59,David R Bergquist,,Minnesota Masters Short Course Meters State,2017,3
+MINN,200 M Freestyle,SCM,M,30-34,2:53.91,Kai A Sill,,Minnesota Masters Short Course Meters State,2017,4
+NORT,400 M Freestyle,SCM,M,30-34,4:59.17,Maxwell Rubesch,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,M,30-34,5:37.04,Patrick Parish,,Minnesota Masters Short Course Meters State,2017,2
+MINN,400 M Freestyle,SCM,M,30-34,5:39.88,David R Bergquist,,Minnesota Masters Short Course Meters State,2017,3
+MINN,400 M Freestyle,SCM,M,30-34,6:32.54,Kai A Sill,,Minnesota Masters Short Course Meters State,2017,4
+NORT,1500 M Freestyle,SCM,M,30-34,19:40.51,Maxwell Rubesch,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,30-34,32.91,Jonathan R Burks,,Minnesota Masters Short Course Meters State,2017,1
+NORT,50 M Backstroke,SCM,M,30-34,37.98,Jonathan J Braski,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Backstroke,SCM,M,30-34,2:46.19,Jonathan R Burks,,Minnesota Masters Short Course Meters State,2017,1
+NORT,50 M Breaststroke,SCM,M,30-34,36.86,Michael J Kirschling,,Minnesota Masters Short Course Meters State,2017,1
+NORT,50 M Breaststroke,SCM,M,30-34,40.15,Jonathan J Braski,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Breaststroke,SCM,M,30-34,41.98,Patrick Parish,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Butterfly,SCM,M,30-34,32.62,Justin J Nelson,,Minnesota Masters Short Course Meters State,2017,1
+NORT,50 M Butterfly,SCM,M,30-34,37.68,Michael J Kirschling,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,M,30-34,1:15.31,Jonathan R Burks,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Individual Medley,SCM,M,30-34,1:19.67,Jonathan J Braski,,Minnesota Masters Short Course Meters State,2017,2
+NORT,100 M Individual Medley,SCM,M,30-34,1:22.58,Michael J Kirschling,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Individual Medley,SCM,M,30-34,1:23.40,Patrick Parish,,Minnesota Masters Short Course Meters State,2017,4
+MINN,200 M Individual Medley,SCM,M,30-34,3:00.46,Patrick Parish,,Minnesota Masters Short Course Meters State,2017,1
+NORT,400 M Individual Medley,SCM,M,30-34,5:50.52,Maxwell Rubesch,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,35-39,29.12,Adam D Maier,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,35-39,32.02,Alan J Harris,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,M,35-39,32.58,Joseph A Iallonardo,,Minnesota Masters Short Course Meters State,2017,3
+UC30,100 M Freestyle,SCM,M,35-39,1:00.59,Reed H Steele,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Freestyle,SCM,M,35-39,1:05.32,John B Fraser,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,M,35-39,1:05.87,Adam D Maier,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,M,35-39,1:16.22,Joseph A Iallonardo,,Minnesota Masters Short Course Meters State,2017,4
+MINN,200 M Freestyle,SCM,M,35-39,2:29.37,Adam D Maier,,Minnesota Masters Short Course Meters State,2017,1
+UC30,400 M Freestyle,SCM,M,35-39,4:39.23,Reed H Steele,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,M,35-39,5:31.33,Adam D Maier,,Minnesota Masters Short Course Meters State,2017,2
+MINN,800 M Freestyle,SCM,M,35-39,11:24.95,Adam D Maier,,Minnesota Masters Short Course Meters State,2017,1
+UC30,1500 M Freestyle,SCM,M,35-39,18:41.43,Reed H Steele,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Backstroke,SCM,M,35-39,32.57,Reed H Steele,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,35-39,41.77,Alan J Harris,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Breaststroke,SCM,M,35-39,41.08,Alan J Harris,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Breaststroke,SCM,M,35-39,3:23.68,Alan J Harris,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Individual Medley,SCM,M,35-39,1:15.13,John B Fraser,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,M,35-39,1:19.46,Adam D Maier,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,M,35-39,1:26.79,Alan J Harris,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Freestyle,SCM,M,40-44,24.03,Brian L Jacobson,,Southwest Zone &amp; SPMS Short Course Meters Championships,2017,1
+MINN,100 M Freestyle,SCM,M,40-44,1:02.04,Brian H Kirkvold,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,40-44,2:14.34,Brian H Kirkvold,,Minnesota Masters Short Course Meters State,2017,1
+MYWM,200 M Freestyle,SCM,M,40-44,2:17.60,Adam B Parker,,Minnesota Masters Short Course Meters State,2017,2
+MYWM,400 M Freestyle,SCM,M,40-44,4:59.87,Adam B Parker,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,40-44,31.74,Brian L Jacobson,,Southwest Zone &amp; SPMS Short Course Meters Championships,2017,1
+MYWM,200 M Breaststroke,SCM,M,40-44,3:01.79,Adam B Parker,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,40-44,27.24,Brian L Jacobson,,Southwest Zone &amp; SPMS Short Course Meters Championships,2017,1
+MINN,100 M Individual Medley,SCM,M,40-44,1:02.34,Brian L Jacobson,,Southwest Zone &amp; SPMS Short Course Meters Championships,2017,1
+MINN,100 M Individual Medley,SCM,M,40-44,1:11.20,Brian H Kirkvold,,Minnesota Masters Short Course Meters State,2017,2
+MYWM,200 M Individual Medley,SCM,M,40-44,2:41.69,Adam B Parker,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,45-49,28.77,Kevin J Aufderhar,,Minnesota Masters Short Course Meters State,2017,1
+HOPK,50 M Freestyle,SCM,M,45-49,32.69,Doobie Kurus,,Minnesota Masters Short Course Meters State,2017,2
+NORT,50 M Freestyle,SCM,M,45-49,39.86,Tim Timmerman,,Minnesota Masters Short Course Meters State,2017,3
+NORT,50 M Freestyle,SCM,M,45-49,40.46,Kurt C Kamper,,Minnesota Masters Short Course Meters State,2017,4
+MINN,100 M Freestyle,SCM,M,45-49,1:04.48,Kevin J Aufderhar,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,45-49,1:05.25,Sean Bateman,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,M,45-49,1:09.63,David Reeder,,Minnesota Masters Short Course Meters State,2017,3
+HOPK,100 M Freestyle,SCM,M,45-49,1:15.51,Doobie Kurus,,Minnesota Masters Short Course Meters State,2017,4
+NORT,100 M Freestyle,SCM,M,45-49,1:27.37,Tim Timmerman,,Minnesota Masters Short Course Meters State,2017,5
+NORT,100 M Freestyle,SCM,M,45-49,1:28.87,Kurt C Kamper,,Minnesota Masters Short Course Meters State,2017,6
+UC30,100 M Freestyle,SCM,M,45-49,1:35.24,Ryan D Redetzke,,Minnesota Masters Short Course Meters State,2017,7
+MINN,200 M Freestyle,SCM,M,45-49,2:25.57,Sean Bateman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,45-49,2:40.61,David Reeder,,Minnesota Masters Short Course Meters State,2017,2
+NORT,200 M Freestyle,SCM,M,45-49,3:22.28,Tim Timmerman,,Minnesota Masters Short Course Meters State,2017,3
+MINN,400 M Freestyle,SCM,M,45-49,5:10.61,Sean Bateman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,M,45-49,5:58.63,David Reeder,,Minnesota Masters Short Course Meters State,2017,2
+NORT,400 M Freestyle,SCM,M,45-49,7:18.89,Tim Timmerman,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Backstroke,SCM,M,45-49,37.57,Kevin J Aufderhar,,Minnesota Masters Short Course Meters State,2017,1
+HOPK,50 M Backstroke,SCM,M,45-49,43.93,Doobie Kurus,,Minnesota Masters Short Course Meters State,2017,2
+UC30,50 M Breaststroke,SCM,M,45-49,51.43,Ryan D Redetzke,,Minnesota Masters Short Course Meters State,2017,1
+UC30,100 M Breaststroke,SCM,M,45-49,1:48.63,Ryan D Redetzke,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,45-49,33.51,Kevin J Aufderhar,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Butterfly,SCM,M,45-49,1:25.71,David Reeder,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,M,45-49,1:17.92,Kevin J Aufderhar,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,50-54,27.91,Robert A Young,,2017 PSM SCM Championship Meet,2017,1
+MINN,50 M Freestyle,SCM,M,50-54,29.64,Dan J Hauck,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,M,50-54,1:01.50,William Schmitz,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,50-54,1:07.71,Dan J Hauck,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Freestyle,SCM,M,50-54,2:23.80,John J Reinartz,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,50-54,2:36.80,Dan J Hauck,,Minnesota Masters Short Course Meters State,2017,2
+MINN,400 M Freestyle,SCM,M,50-54,5:05.16,John J Reinartz,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,M,50-54,6:00.95,Michael P Johnson,,Minnesota Masters Short Course Meters State,2017,2
+MINN,800 M Freestyle,SCM,M,50-54,10:57.03,Michael Ewing,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,50-54,31.14,Randy J Schlichting,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,50-54,33.07,Robert A Young,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Backstroke,SCM,M,50-54,1:06.59,Randy J Schlichting,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,M,50-54,2:25.62,Randy J Schlichting,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,50-54,34.20,Michael Ewing,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,50-54,39.42,Robert A Young,,2017 PSM SCM Championship Meet,2017,2
+MINN,50 M Breaststroke,SCM,M,50-54,45.70,Michael P Johnson,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Breaststroke,SCM,M,50-54,1:15.34,Michael Ewing,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,M,50-54,1:38.04,Michael P Johnson,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Breaststroke,SCM,M,50-54,2:50.08,Michael Ewing,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,50-54,28.97,Robert A Young,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,50-54,36.04,Dan J Hauck,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Butterfly,SCM,M,50-54,1:10.88,William Schmitz,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Butterfly,SCM,M,50-54,1:11.04,Christopher D Sieben,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Butterfly,SCM,M,50-54,2:50.86,Robert E King,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,M,50-54,1:09.48,Randy J Schlichting,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,M,50-54,1:12.71,Michael Ewing,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,M,50-54,1:13.85,Christopher D Sieben,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Individual Medley,SCM,M,50-54,1:14.58,Robert A Young,,2017 PSM SCM Championship Meet,2017,4
+MINN,200 M Individual Medley,SCM,M,50-54,2:34.77,Randy J Schlichting,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Individual Medley,SCM,M,50-54,5:54.06,Robert E King,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Individual Medley,SCM,M,50-54,6:04.01,Christopher D Sieben,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,M,55-59,24.98,Jerry M Kollross,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Freestyle,SCM,M,55-59,32.33,Dennis J Bibeau,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,M,55-59,57.04,Jerry M Kollross,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,55-59,1:03.28,John M Hugo,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Freestyle,SCM,M,55-59,1:10.96,Randal Ness,,Minnesota Masters Short Course Meters State,2017,3
+MINN,200 M Freestyle,SCM,M,55-59,2:32.58,Craig L Collins,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,55-59,2:39.96,Randal Ness,,Minnesota Masters Short Course Meters State,2017,2
+UC30,200 M Freestyle,SCM,M,55-59,2:45.89,Dennis J Bibeau,,Minnesota Masters Short Course Meters State,2017,3
+MINN,400 M Freestyle,SCM,M,55-59,5:19.86,Craig L Collins,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,M,55-59,5:22.26,Kenneth J Fischer,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,M,55-59,34.77,James L Kochendorfer,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,55-59,33.15,James L Kochendorfer,,Minnesota Masters Short Course Meters State,2017,1
+UC30,50 M Breaststroke,SCM,M,55-59,38.31,Dennis J Bibeau,,Minnesota Masters Short Course Meters State,2017,2
+NORT,50 M Breaststroke,SCM,M,55-59,38.80,Robert E Licari,,Minnesota Masters Short Course Meters State,2017,3
+NORT,100 M Breaststroke,SCM,M,55-59,1:25.47,Robert E Licari,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,55-59,30.69,Rick A Anderson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,55-59,31.08,James L Kochendorfer,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Butterfly,SCM,M,55-59,1:10.99,Rick A Anderson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Individual Medley,SCM,M,55-59,2:42.57,John M Hugo,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,60-64,27.70,Bruce Paakh,,Minnesota Masters Short Course Meters State,2017,1
+HOPK,50 M Freestyle,SCM,M,60-64,30.41,John N Evers,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,M,60-64,33.93,Mike J Caticchio,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Freestyle,SCM,M,60-64,36.28,Michael J Erdall,,Minnesota Masters Short Course Meters State,2017,4
+MINN,100 M Freestyle,SCM,M,60-64,1:14.62,Jeffrey E Risberg,,Minnesota Masters Short Course Meters State,2017,1
+HOPK,100 M Freestyle,SCM,M,60-64,1:15.10,John N Evers,,Minnesota Masters Short Course Meters State,2017,2
+NORT,100 M Freestyle,SCM,M,60-64,1:16.39,Thomas G Pogue,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,M,60-64,1:21.11,Mike J Caticchio,,Minnesota Masters Short Course Meters State,2017,4
+MINN,100 M Freestyle,SCM,M,60-64,1:22.72,Michael J Erdall,,Minnesota Masters Short Course Meters State,2017,5
+MINN,200 M Freestyle,SCM,M,60-64,2:31.50,Darrell J Smith,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,60-64,3:08.52,Mike J Caticchio,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,M,60-64,33.77,Brian K Holthus,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,60-64,34.24,Bruce Paakh,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,M,60-64,35.90,Didier B Lamour,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Backstroke,SCM,M,60-64,1:14.67,Brian K Holthus,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Backstroke,SCM,M,60-64,1:48.48,Thomas G Pogue,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Backstroke,SCM,M,60-64,2:45.07,Brian K Holthus,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,M,60-64,3:09.82,Curtis L Nelson,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Breaststroke,SCM,M,60-64,36.19,Bruce Paakh,,Minnesota Masters Short Course Meters State,2017,1
+HOPK,50 M Breaststroke,SCM,M,60-64,37.41,John N Evers,,2017 Wisconsin Masters SCM Champs,2017,2
+MINN,50 M Breaststroke,SCM,M,60-64,45.27,Kevin P Carroll,,Minnesota Masters Short Course Meters State,2017,3
+HOPK,100 M Breaststroke,SCM,M,60-64,1:21.84,John N Evers,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,M,60-64,1:42.06,Kevin P Carroll,,Minnesota Masters Short Course Meters State,2017,2
+NORT,100 M Breaststroke,SCM,M,60-64,1:50.42,Thomas G Pogue,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Butterfly,SCM,M,60-64,31.57,Bruce Paakh,,Minnesota Masters Short Course Meters State,2017,1
+HOPK,50 M Butterfly,SCM,M,60-64,32.74,John N Evers,,2017 Wisconsin Masters SCM Champs,2017,2
+MINN,50 M Butterfly,SCM,M,60-64,32.83,Didier B Lamour,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Butterfly,SCM,M,60-64,33.11,Darrell J Smith,,Minnesota Masters Short Course Meters State,2017,4
+MINN,50 M Butterfly,SCM,M,60-64,43.22,Michael J Erdall,,Minnesota Masters Short Course Meters State,2017,5
+MINN,100 M Butterfly,SCM,M,60-64,1:16.23,Didier B Lamour,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Butterfly,SCM,M,60-64,1:39.32,Thomas G Pogue,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,M,60-64,1:11.18,Bruce Paakh,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Individual Medley,SCM,M,60-64,1:16.57,Didier B Lamour,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,M,60-64,1:37.98,Kevin P Carroll,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Individual Medley,SCM,M,60-64,1:41.13,Michael J Erdall,,Minnesota Masters Short Course Meters State,2017,4
+MINN,400 M Individual Medley,SCM,M,60-64,6:11.13,Darrell J Smith,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,65-69,29.75,Marc S Anderson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,65-69,31.46,Ralph S Bovard,,Minnesota Masters Short Course Meters State,2017,2
+NORT,50 M Freestyle,SCM,M,65-69,31.59,Perry Brown,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Freestyle,SCM,M,65-69,32.72,Steven E Nelson,,Minnesota Masters Short Course Meters State,2017,4
+MINN,50 M Freestyle,SCM,M,65-69,33.26,Daniel S Kornblatt,,Minnesota Masters Short Course Meters State,2017,5
+MINN,50 M Freestyle,SCM,M,65-69,34.44,Michael R Rothweiler,,Minnesota Masters Short Course Meters State,2017,6
+MINN,50 M Freestyle,SCM,M,65-69,40.46,Jim T Langland,,Minnesota Masters Short Course Meters State,2017,7
+MINN,50 M Freestyle,SCM,M,65-69,41.59,Thomas A Hodgson,,Minnesota Masters Short Course Meters State,2017,8
+MINN,100 M Freestyle,SCM,M,65-69,1:07.36,Marc S Anderson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,65-69,1:11.48,Daniel S Kornblatt,,Minnesota Masters Short Course Meters State,2017,2
+NORT,100 M Freestyle,SCM,M,65-69,1:11.98,Perry Brown,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Freestyle,SCM,M,65-69,1:27.85,Jim T Langland,,Minnesota Masters Short Course Meters State,2017,4
+NORT,200 M Freestyle,SCM,M,65-69,2:41.95,Perry Brown,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,65-69,3:14.04,Jim T Langland,,Minnesota Masters Short Course Meters State,2017,2
+MINN,400 M Freestyle,SCM,M,65-69,7:03.03,Jim T Langland,,Minnesota Masters Short Course Meters State,2017,1
+MINN,1500 M Freestyle,SCM,M,65-69,28:44.64,Jim T Langland,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,65-69,37.50,Steven E Nelson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,65-69,38.53,Daniel S Kornblatt,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Backstroke,SCM,M,65-69,39.89,Ralph S Bovard,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Backstroke,SCM,M,65-69,1:21.02,Steven E Nelson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,M,65-69,1:27.35,Daniel S Kornblatt,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Backstroke,SCM,M,65-69,2:57.59,Steven E Nelson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,65-69,37.95,Marc S Anderson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,65-69,40.69,Ralph S Bovard,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Breaststroke,SCM,M,65-69,43.66,Gary M Fine,,Minnesota Masters Short Course Meters State,2017,3
+MINN,50 M Butterfly,SCM,M,65-69,34.21,Marc S Anderson,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,65-69,36.42,Gerald E Vandam,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Butterfly,SCM,M,65-69,40.92,Ralph S Bovard,,Minnesota Masters Short Course Meters State,2017,3
+MINN,100 M Butterfly,SCM,M,65-69,1:32.65,Gary M Fine,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Butterfly,SCM,M,65-69,1:36.83,Gerald E Vandam,,Minnesota Masters Short Course Meters State,2017,2
+MINN,200 M Butterfly,SCM,M,65-69,3:31.43,Gary M Fine,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Butterfly,SCM,M,65-69,3:37.98,Gerald E Vandam,,Minnesota Masters Short Course Meters State,2017,2
+MINN,100 M Individual Medley,SCM,M,65-69,1:24.33,Ralph S Bovard,,Minnesota Masters Short Course Meters State,2017,1
+NORT,100 M Individual Medley,SCM,M,65-69,1:24.75,Perry Brown,,Minnesota Masters Short Course Meters State,2017,2
+MINN,50 M Freestyle,SCM,M,70-74,41.41,Peter A Santi,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,70-74,2:53.13,Robin T Kleffman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,400 M Freestyle,SCM,M,70-74,8:16.66,Neill F Merck,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Backstroke,SCM,M,70-74,39.65,Robin T Kleffman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Backstroke,SCM,M,70-74,1:25.78,Robin T Kleffman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Backstroke,SCM,M,70-74,3:06.61,Robin T Kleffman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Butterfly,SCM,M,70-74,33.56,Robin T Kleffman,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Freestyle,SCM,M,75-79,3:47.74,David C Arlander,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,75-79,50.76,David C Arlander,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,M,75-79,1:57.52,David C Arlander,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Breaststroke,SCM,M,75-79,4:14.90,David C Arlander,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Freestyle,SCM,M,80-84,39.25,Pete Magee,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Freestyle,SCM,M,80-84,1:41.97,Pete Magee,,Minnesota Masters Short Course Meters State,2017,1
+MINN,50 M Breaststroke,SCM,M,80-84,52.99,Bill Kansas,,Minnesota Masters Short Course Meters State,2017,1
+MINN,100 M Breaststroke,SCM,M,80-84,2:03.11,Bill Kansas,,Minnesota Masters Short Course Meters State,2017,1
+MINN,200 M Breaststroke,SCM,M,80-84,4:46.70,Bill Kansas,,Minnesota Masters Short Course Meters State,2017,1

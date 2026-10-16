@@ -1,0 +1,470 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+OREG,50 M Freestyle,LCM,W,18-24,32.77,Briana M Willia,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,W,18-24,35.05,Elizabeth J Esser,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,100 M Freestyle,LCM,W,18-24,1:13.25,Cassi M Grier,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Freestyle,LCM,W,18-24,1:13.35,Elizabeth J Esser,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Freestyle,LCM,W,18-24,2:50.27,Elizabeth J Esser,,Tualatin Hills Summer Sizzler,2010,1
+OREG,800 M Freestyle,LCM,W,18-24,11:29.95,Briana M Willia,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,50 M Breaststroke,LCM,W,18-24,41.28,Cassi M Grier,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,W,18-24,44.14,Briana M Willia,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,100 M Breaststroke,LCM,W,18-24,1:28.91,Cassi M Grier,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Breaststroke,LCM,W,18-24,1:37.01,Briana M Willia,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Butterfly,LCM,W,18-24,38.39,Elizabeth J Esser,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,100 M Butterfly,LCM,W,18-24,1:21.76,Cassi M Grier,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,W,25-29,30.54,Aubree M Gustafson,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,W,25-29,48.25,Ava R Sujanaprawira,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,W,25-29,1:06.62,Christine C Somera,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,W,25-29,1:49.71,Ava R Sujanaprawira,,Gil Young Memorial Meet,2010,2
+OREG,200 M Freestyle,LCM,W,25-29,2:26.01,Christine C Somera,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,25-29,1:00.82,Ava R Sujanaprawira,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Backstroke,LCM,W,25-29,1:22.91,Heather E Blair,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,W,25-29,40.00,Aubree M Gustafson,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,W,25-29,1:22.96,Heather E Blair,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,W,25-29,1:28.53,Aubree M Gustafson,,Gil Young Memorial Meet,2010,2
+OREG,200 M Breaststroke,LCM,W,25-29,2:55.38,Heather E Blair,,Gil Young Memorial Meet,2010,1
+OREG,200 M Breaststroke,LCM,W,25-29,3:12.94,Aubree M Gustafson,,Gil Young Memorial Meet,2010,2
+OREG,50 M Butterfly,LCM,W,25-29,1:10.69,Ava R Sujanaprawira,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Butterfly,LCM,W,25-29,1:17.58,Heather E Blair,,Gil Young Memorial Meet,2010,1
+OREG,100 M Butterfly,LCM,W,25-29,1:18.90,Christine C Somera,,Gil Young Memorial Meet,2010,2
+OREG,200 M Individual Medley,LCM,W,25-29,2:41.77,Heather E Blair,,Gil Young Memorial Meet,2010,1
+OREG,200 M Individual Medley,LCM,W,25-29,2:58.38,Aubree M Gustafson,,Gil Young Memorial Meet,2010,2
+OREG,200 M Individual Medley,LCM,W,25-29,5:04.27,Ava R Sujanaprawira,,Tualatin Hills Summer Sizzler,2010,3
+OREG,400 M Individual Medley,LCM,W,25-29,5:51.95,Heather E Blair,,Gil Young Memorial Meet,2010,1
+SWMS,50 M Freestyle,LCM,W,30-34,32.50,Kealey M Sitler,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,W,30-34,44.17,Anna Casey,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,100 M Freestyle,LCM,W,30-34,1:06.47,Serena H Johnson,,Gil Young Memorial Meet,2010,1
+SWMS,200 M Freestyle,LCM,W,30-34,2:30.98,Serena H Johnson,,Gil Young Memorial Meet,2010,1
+SWMS,200 M Freestyle,LCM,W,30-34,2:40.22,Maresa Jackson,,Gil Young Memorial Meet,2010,2
+OREG,200 M Freestyle,LCM,W,30-34,3:10.19,Anna Casey,,Tualatin Hills Summer Sizzler,2010,3
+SWMS,400 M Freestyle,LCM,W,30-34,5:43.76,Maresa Jackson,,Gil Young Memorial Meet,2010,1
+OREG,800 M Freestyle,LCM,W,30-34,13:17.80,Anna Casey,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,50 M Backstroke,LCM,W,30-34,43.29,Kealey M Sitler,,Gil Young Memorial Meet,2010,1
+SWMS,100 M Backstroke,LCM,W,30-34,1:19.49,Serena H Johnson,,Gil Young Memorial Meet,2010,1
+SWMS,200 M Backstroke,LCM,W,30-34,2:50.52,Serena H Johnson,,Gil Young Memorial Meet,2010,1
+SWMS,200 M Backstroke,LCM,W,30-34,2:58.77,Maresa Jackson,,Gil Young Memorial Meet,2010,2
+OREG,100 M Butterfly,LCM,W,30-34,1:46.97,Anna Casey,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,200 M Individual Medley,LCM,W,30-34,2:51.81,Serena H Johnson,,Gil Young Memorial Meet,2010,1
+OREG,200 M Individual Medley,LCM,W,30-34,3:44.84,Anna Casey,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Freestyle,LCM,W,35-39,35.43,Bonnie B Edwards,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,W,35-39,48.09,Elizabeth A Harrison,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,W,35-39,48.49,Neva J Winter,,Tualatin Hills Summer Sizzler,2010,3
+OREG,200 M Freestyle,LCM,W,35-39,2:50.72,Bonnie B Edwards,,Gil Young Memorial Meet,2010,1
+OREG,200 M Freestyle,LCM,W,35-39,3:38.75,Elizabeth A Harrison,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Freestyle,LCM,W,35-39,3:42.04,Neva J Winter,,Tualatin Hills Summer Sizzler,2010,3
+OREG,400 M Freestyle,LCM,W,35-39,5:59.96,Bonnie B Edwards,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,W,35-39,7:48.14,Elizabeth A Harrison,,Gil Young Memorial Meet,2010,2
+OREG,50 M Backstroke,LCM,W,35-39,1:06.29,Elizabeth A Harrison,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Backstroke,LCM,W,35-39,3:01.65,Anicia Criscione,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,W,35-39,45.11,Anicia Criscione,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,W,35-39,1:28.46,Elizabeth A Harrison,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Butterfly,LCM,W,35-39,59.17,Elizabeth A Harrison,,Gil Young Memorial Meet,2010,1
+OREG,200 M Butterfly,LCM,W,35-39,3:33.13,Anicia Criscione,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Individual Medley,LCM,W,35-39,3:05.95,Anicia Criscione,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Individual Medley,LCM,W,35-39,4:53.85,Elizabeth A Harrison,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,W,40-44,28.78,Shannon K Corbeau,,Gil Young Memorial Meet,2010,1
+SWMS,50 M Freestyle,LCM,W,40-44,33.52,Melinda J Walters,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,W,40-44,33.60,Susie S Young,,Tualatin Hills Summer Sizzler,2010,3
+UNAT,50 M Freestyle,LCM,W,40-44,35.55,Paula H Censoni,,XIII FINA World Masters Championships,2010,4
+OREG,50 M Freestyle,LCM,W,40-44,39.57,Susan M Shaw,,Tualatin Hills Summer Sizzler,2010,5
+OREG,100 M Freestyle,LCM,W,40-44,1:26.92,Susan M Shaw,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Freestyle,LCM,W,40-44,2:26.64,Megan M Lassen,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,W,40-44,5:17.98,Megan M Lassen,,Gil Young Memorial Meet,2010,1
+OREG,800 M Freestyle,LCM,W,40-44,10:55.84,Susie S Young,,Tualatin Hills Summer Sizzler,2010,1
+OREG,1500 M Freestyle,LCM,W,40-44,20:30.24,Megan M Lassen,,Gil Young Memorial Meet,2010,1
+OREG,1500 M Freestyle,LCM,W,40-44,20:49.86,Susie S Young,,Gil Young Memorial Meet,2010,2
+SWMS,50 M Backstroke,LCM,W,40-44,46.50,Melinda J Walters,,Gil Young Memorial Meet,2010,1
+OREG,100 M Backstroke,LCM,W,40-44,1:45.99,Susan M Shaw,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,W,40-44,37.78,Shannon K Corbeau,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,W,40-44,1:27.50,Shannon K Corbeau,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,W,40-44,31.91,Shannon K Corbeau,,Gil Young Memorial Meet,2010,1
+SWMS,100 M Butterfly,LCM,W,40-44,1:29.35,Melinda J Walters,,Gil Young Memorial Meet,2010,1
+OREG,200 M Butterfly,LCM,W,40-44,3:12.84,Susie S Young,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,W,45-49,37.27,Julie A Andrade,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,50 M Freestyle,LCM,W,45-49,42.62,Anita J Burkard,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,W,45-49,1:07.01,Arlene Delmage,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,W,45-49,1:27.43,Julie A Andrade,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Freestyle,LCM,W,45-49,2:26.77,Arlene Delmage,,Gil Young Memorial Meet,2010,1
+SWMS,200 M Freestyle,LCM,W,45-49,3:24.62,Anita J Burkard,,Gil Young Memorial Meet,2010,2
+OREG,400 M Freestyle,LCM,W,45-49,5:06.52,Arlene Delmage,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,W,45-49,5:39.86,Jill Black,,Gil Young Memorial Meet,2010,2
+SWMS,400 M Freestyle,LCM,W,45-49,7:07.46,Anita J Burkard,,Gil Young Memorial Meet,2010,3
+OREG,800 M Freestyle,LCM,W,45-49,11:47.45,Jill Black,,Tualatin Hills Summer Sizzler,2010,1
+OREG,800 M Freestyle,LCM,W,45-49,11:57.65,MJ Caswell,,Tualatin Hills Summer Sizzler,2010,2
+OREG,1500 M Freestyle,LCM,W,45-49,20:45.26,Arlene Delmage,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,45-49,38.27,Jill Black,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,45-49,41.96,MJ Caswell,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,50 M Backstroke,LCM,W,45-49,56.15,Anita J Burkard,,Gil Young Memorial Meet,2010,3
+OREG,200 M Backstroke,LCM,W,45-49,3:12.02,MJ Caswell,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,W,45-49,48.49,Julie A Andrade,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Breaststroke,LCM,W,45-49,1:45.18,Julie A Andrade,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,W,45-49,31.25,Arlene Delmage,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Butterfly,LCM,W,45-49,44.80,Julie A Andrade,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Butterfly,LCM,W,45-49,1:10.42,Arlene Delmage,,Gil Young Memorial Meet,2010,1
+OREG,200 M Butterfly,LCM,W,45-49,2:40.30,Arlene Delmage,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Individual Medley,LCM,W,45-49,2:53.21,Arlene Delmage,,Gil Young Memorial Meet,2010,1
+OREG,200 M Individual Medley,LCM,W,45-49,3:45.50,Julie A Andrade,,Gil Young Memorial Meet,2010,2
+OREG,400 M Individual Medley,LCM,W,45-49,5:57.81,Arlene Delmage,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,W,50-54,31.07,Donna M Buck,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Freestyle,LCM,W,50-54,34.88,Lori E Lamoureux,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,50 M Freestyle,LCM,W,50-54,37.13,Sherry L Bender,,Gil Young Memorial Meet,2010,3
+OREG,50 M Freestyle,LCM,W,50-54,41.56,Christina M Fox,,Gil Young Memorial Meet,2010,4
+OREG,50 M Freestyle,LCM,W,50-54,50.50,Lynn Thompson,,Gil Young Memorial Meet,2010,5
+OREG,100 M Freestyle,LCM,W,50-54,1:10.38,Donna M Buck,,USMS 2010 Summer National Championships,2010,1
+OREG,100 M Freestyle,LCM,W,50-54,1:19.73,Lori E Lamoureux,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,W,50-54,1:55.14,Lynn Thompson,,Gil Young Memorial Meet,2010,3
+OREG,200 M Freestyle,LCM,W,50-54,2:32.81,Karen Andrus-Hughes,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Freestyle,LCM,W,50-54,2:38.64,Colette M Crabbe,,2010 Northwest Zone LCM,2010,2
+OREG,200 M Freestyle,LCM,W,50-54,2:45.31,Donna M Buck,,Tualatin Hills Summer Sizzler,2010,3
+OREG,200 M Freestyle,LCM,W,50-54,2:57.92,Lori E Lamoureux,,Tualatin Hills Summer Sizzler,2010,4
+OREG,200 M Freestyle,LCM,W,50-54,3:13.60,Lynn R Snyder,,Tualatin Hills Summer Sizzler,2010,5
+OREG,400 M Freestyle,LCM,W,50-54,5:38.97,Colette M Crabbe,,2010 Northwest Zone LCM,2010,1
+OREG,400 M Freestyle,LCM,W,50-54,6:11.73,Laura A Worden,,Gil Young Memorial Meet,2010,2
+OREG,400 M Freestyle,LCM,W,50-54,6:30.44,Lori E Lamoureux,,Gil Young Memorial Meet,2010,3
+OREG,400 M Freestyle,LCM,W,50-54,6:32.52,Lynn R Snyder,,Gil Young Memorial Meet,2010,4
+OREG,400 M Freestyle,LCM,W,50-54,6:35.84,Christina M Fox,,Gil Young Memorial Meet,2010,5
+SWMS,400 M Freestyle,LCM,W,50-54,6:44.76,Sherry L Bender,,Gil Young Memorial Meet,2010,6
+OREG,800 M Freestyle,LCM,W,50-54,13:37.39,Lynn R Snyder,,Tualatin Hills Summer Sizzler,2010,1
+OREG,1500 M Freestyle,LCM,W,50-54,26:07.97,Lori E Lamoureux,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,50-54,35.56,Karen Andrus-Hughes,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Backstroke,LCM,W,50-54,44.16,Donna M Buck,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,50 M Backstroke,LCM,W,50-54,45.25,Sherry L Bender,,Gil Young Memorial Meet,2010,3
+OREG,50 M Backstroke,LCM,W,50-54,50.65,Lynn R Snyder,,Gil Young Memorial Meet,2010,4
+OREG,200 M Backstroke,LCM,W,50-54,2:55.17,Karen Andrus-Hughes,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,W,50-54,40.01,Donna M Buck,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Breaststroke,LCM,W,50-54,40.36,Colette M Crabbe,,XIII FINA World Masters Championships,2010,2
+OREG,50 M Breaststroke,LCM,W,50-54,46.37,Lori E Lamoureux,,Gil Young Memorial Meet,2010,3
+OREG,50 M Breaststroke,LCM,W,50-54,53.48,Lynn R Snyder,,Tualatin Hills Summer Sizzler,2010,4
+OREG,100 M Breaststroke,LCM,W,50-54,1:28.01,Colette M Crabbe,,XIII FINA World Masters Championships,2010,1
+OREG,100 M Breaststroke,LCM,W,50-54,1:29.56,Donna M Buck,,USMS 2010 Summer National Championships,2010,2
+OREG,100 M Breaststroke,LCM,W,50-54,1:43.41,Lori E Lamoureux,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Breaststroke,LCM,W,50-54,1:47.56,Christina M Fox,,Gil Young Memorial Meet,2010,4
+OREG,200 M Breaststroke,LCM,W,50-54,3:08.16,Colette M Crabbe,,XIII FINA World Masters Championships,2010,1
+OREG,50 M Butterfly,LCM,W,50-54,34.96,Karen Andrus-Hughes,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,W,50-54,35.45,Colette M Crabbe,,XIII FINA World Masters Championships,2010,2
+OREG,50 M Butterfly,LCM,W,50-54,36.47,Donna M Buck,,Tualatin Hills Summer Sizzler,2010,3
+OREG,50 M Butterfly,LCM,W,50-54,40.60,Karon M Rakoz,,Gil Young Memorial Meet,2010,4
+OREG,100 M Butterfly,LCM,W,50-54,1:19.74,Colette M Crabbe,,XIII FINA World Masters Championships,2010,1
+OREG,100 M Butterfly,LCM,W,50-54,1:23.01,Laura A Worden,,Gil Young Memorial Meet,2010,2
+OREG,200 M Butterfly,LCM,W,50-54,3:03.31,Colette M Crabbe,,2010 Northwest Zone LCM,2010,1
+OREG,200 M Individual Medley,LCM,W,50-54,2:49.73,Colette M Crabbe,,XIII FINA World Masters Championships,2010,1
+OREG,200 M Individual Medley,LCM,W,50-54,3:04.01,Donna M Buck,,USMS 2010 Summer National Championships,2010,2
+OREG,400 M Individual Medley,LCM,W,50-54,6:01.10,Colette M Crabbe,,XIII FINA World Masters Championships,2010,1
+OREG,400 M Individual Medley,LCM,W,50-54,6:47.99,Laura A Worden,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,W,55-59,37.47,Mary A Hills,,2009 World Masters Games,2010,1
+OREG,50 M Freestyle,LCM,W,55-59,41.71,Claudia Daly,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,W,55-59,53.50,Ellen Summers,,Gil Young Memorial Meet,2010,3
+OREG,100 M Freestyle,LCM,W,55-59,1:19.12,Jeanna Summers,,2010 Northwest Zone LCM,2010,1
+OREG,100 M Freestyle,LCM,W,55-59,2:15.43,Ellen Summers,,2010 Northwest Zone LCM,2010,2
+OREG,200 M Freestyle,LCM,W,55-59,2:56.75,Jeanna Summers,,Gil Young Memorial Meet,2010,1
+OREG,200 M Freestyle,LCM,W,55-59,3:37.70,Claudia Daly,,Gil Young Memorial Meet,2010,2
+OREG,200 M Freestyle,LCM,W,55-59,4:55.80,Ellen Summers,,Gil Young Memorial Meet,2010,3
+OREG,400 M Freestyle,LCM,W,55-59,6:15.54,Jeanna Summers,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,W,55-59,7:29.04,Claudia Daly,,Gil Young Memorial Meet,2010,2
+OREG,800 M Freestyle,LCM,W,55-59,12:50.04,Jeanna Summers,,2010 Northwest Zone LCM,2010,1
+OREG,1500 M Freestyle,LCM,W,55-59,24:17.96,Jeanna Summers,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,55-59,41.64,Jeanna Summers,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Backstroke,LCM,W,55-59,1:06.46,Ellen Summers,,2010 Northwest Zone LCM,2010,2
+OREG,100 M Backstroke,LCM,W,55-59,1:29.69,Jeanna Summers,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Backstroke,LCM,W,55-59,2:15.65,Linda A Coffeen,,Gil Young Memorial Meet,2010,2
+OREG,200 M Backstroke,LCM,W,55-59,3:14.55,Jeanna Summers,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,W,55-59,46.89,Mary A Hills,,2009 World Masters Games,2010,1
+OREG,100 M Breaststroke,LCM,W,55-59,1:44.99,Mary A Hills,,2009 World Masters Games,2010,1
+OREG,100 M Breaststroke,LCM,W,55-59,2:00.97,Claudia Daly,,Gil Young Memorial Meet,2010,2
+OREG,200 M Breaststroke,LCM,W,55-59,3:57.04,Mary A Hills,,2009 World Masters Games,2010,1
+OREG,50 M Butterfly,LCM,W,55-59,43.96,Mary A Hills,,2009 World Masters Games,2010,1
+OREG,100 M Butterfly,LCM,W,55-59,1:46.28,Elke M Asleson,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Butterfly,LCM,W,55-59,3:55.93,Elke M Asleson,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Butterfly,LCM,W,55-59,4:03.04,Jeanna Summers,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Individual Medley,LCM,W,55-59,3:52.92,Elke M Asleson,,Tualatin Hills Summer Sizzler,2010,1
+OREG,400 M Individual Medley,LCM,W,55-59,8:03.86,Elke M Asleson,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,W,60-64,35.24,Janet Gettling,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,W,60-64,1:24.86,Janet Gettling,,Gil Young Memorial Meet,2010,1
+OREG,800 M Freestyle,LCM,W,60-64,20:09.66,Carol R Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,1500 M Freestyle,LCM,W,60-64,26:27.83,Janet Gettling,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,60-64,54.91,Carol R Stark,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Backstroke,LCM,W,60-64,2:11.95,Carol R Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,200 M Backstroke,LCM,W,60-64,4:46.68,Carol R Stark,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,W,60-64,45.19,Ginger L Pierson,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,W,60-64,45.95,Janet Gettling,,Gil Young Memorial Meet,2010,2
+OREG,100 M Breaststroke,LCM,W,60-64,1:42.71,Ginger L Pierson,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,W,60-64,1:44.09,Janet Gettling,,Gil Young Memorial Meet,2010,2
+OREG,200 M Breaststroke,LCM,W,60-64,3:48.56,Ginger L Pierson,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,W,65-69,37.18,Joy Ward,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Freestyle,LCM,W,65-69,37.33,Barbara Frid,,Gil Young Memorial Meet,2010,2
+SWMS,50 M Freestyle,LCM,W,65-69,47.46,Esther B Ellis,,Tualatin Hills Summer Sizzler,2010,3
+OREG,50 M Freestyle,LCM,W,65-69,1:00.18,Darby M Sitter,,Tualatin Hills Summer Sizzler,2010,4
+OREG,100 M Freestyle,LCM,W,65-69,1:26.56,Barbara Frid,,Gil Young Memorial Meet,2010,1
+SWMS,100 M Freestyle,LCM,W,65-69,1:52.36,Esther B Ellis,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Freestyle,LCM,W,65-69,2:19.70,Darby M Sitter,,Tualatin Hills Summer Sizzler,2010,3
+SWMS,200 M Freestyle,LCM,W,65-69,4:04.66,Esther B Ellis,,Gil Young Memorial Meet,2010,1
+SWMS,400 M Freestyle,LCM,W,65-69,8:33.58,Esther B Ellis,,Gil Young Memorial Meet,2010,1
+SWMS,800 M Freestyle,LCM,W,65-69,17:14.49,Esther B Ellis,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,1500 M Freestyle,LCM,W,65-69,33:50.21,Esther B Ellis,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,65-69,43.56,Joy Ward,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Backstroke,LCM,W,65-69,47.82,Barbara Frid,,Gil Young Memorial Meet,2010,2
+SWMS,50 M Backstroke,LCM,W,65-69,1:04.79,Esther B Ellis,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Backstroke,LCM,W,65-69,1:35.15,Joy Ward,,Gil Young Memorial Meet,2010,1
+SWMS,100 M Backstroke,LCM,W,65-69,2:21.56,Esther B Ellis,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Backstroke,LCM,W,65-69,3:25.60,Joy Ward,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,W,65-69,50.01,Barbara Frid,,Gil Young Memorial Meet,2010,1
+SWMS,50 M Breaststroke,LCM,W,65-69,1:13.95,Esther B Ellis,,Gil Young Memorial Meet,2010,2
+OREG,50 M Breaststroke,LCM,W,65-69,1:19.95,Darby M Sitter,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Breaststroke,LCM,W,65-69,1:52.01,Barbara Frid,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,W,65-69,41.18,Joy Ward,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,W,65-69,41.86,Barbara Frid,,Gil Young Memorial Meet,2010,2
+OREG,50 M Butterfly,LCM,W,65-69,1:16.81,Darby M Sitter,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Butterfly,LCM,W,65-69,1:47.90,Joy Ward,,2010 Northwest Zone LCM,2010,1
+OREG,200 M Individual Medley,LCM,W,65-69,3:38.20,Joy Ward,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Backstroke,LCM,W,70-74,1:07.40,Kaleo B Schroder,,USMS 2010 Summer National Championships,2010,1
+OREG,100 M Backstroke,LCM,W,70-74,2:29.51,Kaleo B Schroder,,USMS 2010 Summer National Championships,2010,1
+OREG,200 M Backstroke,LCM,W,70-74,5:11.94,Kaleo B Schroder,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Breaststroke,LCM,W,70-74,1:16.55,Kaleo B Schroder,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Freestyle,LCM,W,75-79,51.91,Geraldine L Kawabata,,Gil Young Memorial Meet,2010,1
+SWMS,50 M Freestyle,LCM,W,75-79,1:13.81,Bonnie B Speer,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,W,75-79,1:52.63,Geraldine L Kawabata,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Freestyle,LCM,W,75-79,2:41.17,Beverly L'Esperance,,Tualatin Hills Summer Sizzler,2010,2
+SWMS,100 M Freestyle,LCM,W,75-79,2:48.68,Bonnie B Speer,,Gil Young Memorial Meet,2010,3
+OREG,200 M Freestyle,LCM,W,75-79,4:00.89,Geraldine L Kawabata,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,200 M Freestyle,LCM,W,75-79,5:49.60,Bonnie B Speer,,Gil Young Memorial Meet,2010,2
+OREG,200 M Freestyle,LCM,W,75-79,5:52.69,Beverly L'Esperance,,Tualatin Hills Summer Sizzler,2010,3
+OREG,400 M Freestyle,LCM,W,75-79,8:16.31,Geraldine L Kawabata,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,W,75-79,12:39.34,Beverly L'Esperance,,Gil Young Memorial Meet,2010,2
+SWMS,1500 M Freestyle,LCM,W,75-79,52:08.85,Bonnie B Speer,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,75-79,1:05.31,Geraldine L Kawabata,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,W,75-79,1:19.12,Beverly L'Esperance,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Backstroke,LCM,W,75-79,2:56.17,Beverly L'Esperance,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Backstroke,LCM,W,75-79,5:54.76,Beverly L'Esperance,,Tualatin Hills Summer Sizzler,2010,1
+SWMS,50 M Breaststroke,LCM,W,75-79,1:42.29,Bonnie B Speer,,Gil Young Memorial Meet,2010,1
+SWMS,100 M Breaststroke,LCM,W,75-79,3:41.50,Bonnie B Speer,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,W,75-79,1:17.66,Geraldine L Kawabata,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,25-29,25.45,Benjamin C Weston,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Freestyle,LCM,M,25-29,28.42,Sean Daly,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,M,25-29,29.10,Alec J Schramek,,Tualatin Hills Summer Sizzler,2010,3
+OREG,200 M Freestyle,LCM,M,25-29,2:05.90,Benjamin C Weston,,2010 Northwest Zone LCM,2010,1
+OREG,200 M Freestyle,LCM,M,25-29,2:20.29,Sean Daly,,Gil Young Memorial Meet,2010,2
+OREG,400 M Freestyle,LCM,M,25-29,4:20.22,Benjamin C Weston,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Breaststroke,LCM,M,25-29,35.71,Alec J Schramek,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,M,25-29,36.13,Kevin H Cleary,,USMS 2010 Summer National Championships,2010,2
+OREG,100 M Breaststroke,LCM,M,25-29,1:24.29,Sean Daly,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,M,25-29,1:24.94,Kevin H Cleary,,2010 Northwest Zone LCM,2010,2
+OREG,100 M Breaststroke,LCM,M,25-29,1:26.13,Alec J Schramek,,Tualatin Hills Summer Sizzler,2010,3
+OREG,50 M Butterfly,LCM,M,25-29,27.74,Benjamin C Weston,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Butterfly,LCM,M,25-29,30.06,Alec J Schramek,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Butterfly,LCM,M,25-29,30.30,Kevin H Cleary,,USMS 2010 Summer National Championships,2010,3
+OREG,100 M Butterfly,LCM,M,25-29,1:08.54,Kevin H Cleary,,USMS 2010 Summer National Championships,2010,1
+OREG,200 M Butterfly,LCM,M,25-29,2:40.24,Kevin H Cleary,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Freestyle,LCM,M,30-34,29.42,Daniel Whitley,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Freestyle,LCM,M,30-34,1:02.72,Nick Thorpe,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Freestyle,LCM,M,30-34,1:05.04,CHris Donnermeyer,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,M,30-34,1:07.20,Daniel Whitley,,Tualatin Hills Summer Sizzler,2010,3
+OREG,200 M Freestyle,LCM,M,30-34,2:28.13,Nick Thorpe,,Tualatin Hills Summer Sizzler,2010,1
+OREG,1500 M Freestyle,LCM,M,30-34,18:15.19,Chip Polito,,Gil Young Memorial Meet,2010,1
+OREG,1500 M Freestyle,LCM,M,30-34,20:15.37,CHris Donnermeyer,,Gil Young Memorial Meet,2010,2
+OREG,50 M Backstroke,LCM,M,30-34,32.16,Chip Polito,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,M,30-34,1:14.97,Nick Thorpe,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Breaststroke,LCM,M,30-34,2:55.75,Nick Thorpe,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Individual Medley,LCM,M,30-34,2:23.61,Chip Polito,,Gil Young Memorial Meet,2010,1
+OREG,400 M Individual Medley,LCM,M,30-34,5:06.33,Chip Polito,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,35-39,37.54,Eric W Kreps,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,35-39,1:34.83,Eric W Kreps,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,M,35-39,5:25.48,Mark Braun,,Gil Young Memorial Meet,2010,1
+OREG,1500 M Freestyle,LCM,M,35-39,22:03.64,Mark Braun,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,35-39,55.14,Eric W Kreps,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,M,35-39,36.64,John S Kinder,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Breaststroke,LCM,M,35-39,48.38,Eric W Kreps,,Gil Young Memorial Meet,2010,2
+OREG,100 M Breaststroke,LCM,M,35-39,1:21.04,John S Kinder,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Butterfly,LCM,M,35-39,31.33,Christian F Tujo,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Butterfly,LCM,M,35-39,1:11.73,Christian F Tujo,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Individual Medley,LCM,M,35-39,2:45.86,Christian F Tujo,,Tualatin Hills Summer Sizzler,2010,1
+OREG,400 M Individual Medley,LCM,M,35-39,6:09.32,Christian F Tujo,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,M,40-44,26.16,Eric Wan,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,40-44,27.49,William L Clydesdale,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,M,40-44,28.50,Jeff T Miller,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Freestyle,LCM,M,40-44,57.94,Eric Wan,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,40-44,1:02.53,David C Hay,,Gil Young Memorial Meet,2010,2
+OREG,1500 M Freestyle,LCM,M,40-44,19:24.00,Timothy P Waud,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Backstroke,LCM,M,40-44,34.81,Eric Wan,,2010 Northwest Zone LCM,2010,1
+OREG,100 M Backstroke,LCM,M,40-44,1:12.04,Jeff T Miller,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,M,40-44,33.84,David C Hay,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,M,40-44,34.70,William L Clydesdale,,Gil Young Memorial Meet,2010,2
+OREG,50 M Breaststroke,LCM,M,40-44,35.98,Timothy P Waud,,USMS 2010 Summer National Championships,2010,3
+OREG,100 M Breaststroke,LCM,M,40-44,1:18.66,Timothy P Waud,,USMS 2010 Summer National Championships,2010,1
+OREG,100 M Breaststroke,LCM,M,40-44,1:21.22,William L Clydesdale,,Gil Young Memorial Meet,2010,2
+OREG,200 M Breaststroke,LCM,M,40-44,2:49.33,Timothy P Waud,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Butterfly,LCM,M,40-44,30.06,Eric Wan,,2010 Northwest Zone LCM,2010,1
+OREG,200 M Individual Medley,LCM,M,40-44,2:33.64,Timothy P Waud,,USMS 2010 Summer National Championships,2010,1
+OREG,200 M Individual Medley,LCM,M,40-44,2:36.68,William L Clydesdale,,Gil Young Memorial Meet,2010,2
+OREG,400 M Individual Medley,LCM,M,40-44,5:29.90,Timothy P Waud,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Freestyle,LCM,M,45-49,27.67,Brent C Washburne,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,45-49,32.46,Andrei Karyukin,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Freestyle,LCM,M,45-49,38.33,Chris Gaarder,,Gil Young Memorial Meet,2010,3
+OREG,100 M Freestyle,LCM,M,45-49,1:11.59,Andrei Karyukin,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Freestyle,LCM,M,45-49,2:27.59,Douglas A Christensen,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,45-49,35.18,Brent C Washburne,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Backstroke,LCM,M,45-49,40.01,Chris Gaarder,,Gil Young Memorial Meet,2010,2
+OREG,200 M Backstroke,LCM,M,45-49,2:43.95,Douglas A Christensen,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,M,45-49,31.72,James L Corbeau,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,M,45-49,37.80,Brent C Washburne,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Breaststroke,LCM,M,45-49,1:26.86,Chris Gaarder,,Gil Young Memorial Meet,2010,1
+OREG,200 M Breaststroke,LCM,M,45-49,3:08.32,Douglas A Christensen,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,M,45-49,30.43,Brent C Washburne,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,M,45-49,33.77,Andrei Karyukin,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Butterfly,LCM,M,45-49,1:18.97,Brent C Washburne,,2010 Northwest Zone LCM,2010,1
+OREG,100 M Butterfly,LCM,M,45-49,1:27.05,Andrei Karyukin,,Tualatin Hills Summer Sizzler,2010,2
+OREG,400 M Individual Medley,LCM,M,45-49,5:59.65,Douglas A Christensen,,Gil Young Memorial Meet,2010,1
+UNAT,50 M Freestyle,LCM,M,50-54,33.94,Jerry Needham,,XIII FINA World Masters Championships,2010,1
+OREG,50 M Freestyle,LCM,M,50-54,39.08,Charlie E Helm,,Tualatin Hills Summer Sizzler,2010,2
+UNAT,100 M Freestyle,LCM,M,50-54,1:10.79,Jerry Needham,,XIII FINA World Masters Championships,2010,1
+OREG,200 M Freestyle,LCM,M,50-54,2:17.63,David Hathaway,,2010 Northwest Zone LCM,2010,1
+UNAT,200 M Freestyle,LCM,M,50-54,2:32.03,Jerry Needham,,XIII FINA World Masters Championships,2010,2
+OREG,200 M Freestyle,LCM,M,50-54,2:33.99,Douglas E Otto,,Gil Young Memorial Meet,2010,3
+OREG,400 M Freestyle,LCM,M,50-54,4:47.28,David Hathaway,,Gil Young Memorial Meet,2010,1
+UNAT,400 M Freestyle,LCM,M,50-54,5:45.08,Jerry Needham,,XIII FINA World Masters Championships,2010,2
+OREG,800 M Freestyle,LCM,M,50-54,10:10.09,David Hathaway,,Tualatin Hills Summer Sizzler,2010,1
+UNAT,800 M Freestyle,LCM,M,50-54,11:33.94,Jerry Needham,,XIII FINA World Masters Championships,2010,2
+OREG,1500 M Freestyle,LCM,M,50-54,19:25.57,David Hathaway,,Gil Young Memorial Meet,2010,1
+OREG,1500 M Freestyle,LCM,M,50-54,32:35.12,Charlie E Helm,,Gil Young Memorial Meet,2010,2
+OREG,50 M Backstroke,LCM,M,50-54,33.14,Curt R La Count,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Backstroke,LCM,M,50-54,36.64,Douglas E Otto,,Gil Young Memorial Meet,2010,2
+OREG,50 M Backstroke,LCM,M,50-54,54.86,Charlie E Helm,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Backstroke,LCM,M,50-54,1:13.77,Curt R La Count,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Backstroke,LCM,M,50-54,2:50.95,Curt R La Count,,Tualatin Hills Summer Sizzler,2010,1
+OREG,200 M Backstroke,LCM,M,50-54,3:32.58,Mike B Dowd,,Gil Young Memorial Meet,2010,2
+OREG,50 M Breaststroke,LCM,M,50-54,34.68,Patrick Allender,,XIII FINA World Masters Championships,2010,1
+OREG,50 M Breaststroke,LCM,M,50-54,41.68,Mike B Dowd,,Gil Young Memorial Meet,2010,2
+OREG,50 M Breaststroke,LCM,M,50-54,57.89,Charlie E Helm,,Tualatin Hills Summer Sizzler,2010,3
+OREG,100 M Breaststroke,LCM,M,50-54,1:15.24,Patrick Allender,,XIII FINA World Masters Championships,2010,1
+OREG,100 M Breaststroke,LCM,M,50-54,1:31.31,Mike B Dowd,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Breaststroke,LCM,M,50-54,2:47.41,Patrick Allender,,XIII FINA World Masters Championships,2010,1
+OREG,200 M Breaststroke,LCM,M,50-54,3:05.25,Douglas E Otto,,Gil Young Memorial Meet,2010,2
+OREG,200 M Breaststroke,LCM,M,50-54,3:16.95,Mike B Dowd,,Tualatin Hills Summer Sizzler,2010,3
+OREG,50 M Butterfly,LCM,M,50-54,30.45,David Hathaway,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Butterfly,LCM,M,50-54,32.16,Patrick Allender,,XIII FINA World Masters Championships,2010,2
+UNAT,50 M Butterfly,LCM,M,50-54,35.81,Jerry Needham,,XIII FINA World Masters Championships,2010,3
+OREG,50 M Butterfly,LCM,M,50-54,52.21,Charlie E Helm,,Gil Young Memorial Meet,2010,4
+OREG,100 M Butterfly,LCM,M,50-54,1:08.49,Curt R La Count,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Butterfly,LCM,M,50-54,1:10.36,David Hathaway,,Gil Young Memorial Meet,2010,2
+OREG,200 M Butterfly,LCM,M,50-54,2:48.98,David Hathaway,,2010 Northwest Zone LCM,2010,1
+OREG,200 M Butterfly,LCM,M,50-54,3:31.66,Mike B Dowd,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Individual Medley,LCM,M,50-54,2:35.47,Patrick Allender,,XIII FINA World Masters Championships,2010,1
+OREG,200 M Individual Medley,LCM,M,50-54,2:35.53,David Hathaway,,Gil Young Memorial Meet,2010,2
+OREG,200 M Individual Medley,LCM,M,50-54,2:42.24,Curt R La Count,,Tualatin Hills Summer Sizzler,2010,3
+OREG,200 M Individual Medley,LCM,M,50-54,3:09.42,Mike B Dowd,,Gil Young Memorial Meet,2010,4
+OREG,400 M Individual Medley,LCM,M,50-54,5:48.56,David Hathaway,,2010 Northwest Zone LCM,2010,1
+OREG,400 M Individual Medley,LCM,M,50-54,6:08.54,Douglas E Otto,,Gil Young Memorial Meet,2010,2
+OREG,400 M Individual Medley,LCM,M,50-54,6:47.73,Mike B Dowd,,Gil Young Memorial Meet,2010,3
+SWMS,50 M Freestyle,LCM,M,55-59,28.28,Wes Edwards,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,55-59,29.00,Doug Brockbank,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,M,55-59,29.86,Charles B Dwight,,Tualatin Hills Summer Sizzler,2010,3
+OREG,50 M Freestyle,LCM,M,55-59,32.53,Allen J Larson,,Tualatin Hills Summer Sizzler,2010,4
+OREG,50 M Freestyle,LCM,M,55-59,34.64,Reggie Sherwood,,Gil Young Memorial Meet,2010,5
+OREG,100 M Freestyle,LCM,M,55-59,1:05.62,Doug Brockbank,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,55-59,1:11.73,Allen J Larson,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Freestyle,LCM,M,55-59,1:19.82,Reggie Sherwood,,Gil Young Memorial Meet,2010,3
+SWMS,100 M Freestyle,LCM,M,55-59,1:31.39,Stephen Darnell,,Gil Young Memorial Meet,2010,4
+SWMS,200 M Freestyle,LCM,M,55-59,2:32.38,Wes Edwards,,Gil Young Memorial Meet,2010,1
+UNAT,200 M Freestyle,LCM,M,55-59,2:38.41,Allen J Larson,,2010 Northwest Zone LCM,2010,2
+UNAT,400 M Freestyle,LCM,M,55-59,5:56.55,Allen J Larson,,2010 Northwest Zone LCM,2010,1
+UNAT,1500 M Freestyle,LCM,M,55-59,23:05.31,Allen J Larson,,2010 Northwest Zone LCM,2010,1
+SWMS,50 M Backstroke,LCM,M,55-59,33.45,Wes Edwards,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Backstroke,LCM,M,55-59,36.36,Doug Brockbank,,Gil Young Memorial Meet,2010,2
+SWMS,50 M Backstroke,LCM,M,55-59,46.57,Stephen Darnell,,Gil Young Memorial Meet,2010,3
+SWMS,100 M Backstroke,LCM,M,55-59,1:11.86,Wes Edwards,,2010 Northwest Zone LCM,2010,1
+SWMS,100 M Backstroke,LCM,M,55-59,1:46.09,Stephen Darnell,,Gil Young Memorial Meet,2010,2
+SWMS,200 M Backstroke,LCM,M,55-59,2:34.69,Wes Edwards,,2010 Northwest Zone LCM,2010,1
+SWMS,200 M Backstroke,LCM,M,55-59,3:51.28,Stephen Darnell,,Gil Young Memorial Meet,2010,2
+OREG,50 M Breaststroke,LCM,M,55-59,40.44,Charles B Dwight,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,M,55-59,43.99,Reggie Sherwood,,Gil Young Memorial Meet,2010,2
+OREG,100 M Breaststroke,LCM,M,55-59,1:33.80,Charles B Dwight,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,M,55-59,1:39.13,Reggie Sherwood,,Gil Young Memorial Meet,2010,2
+OREG,100 M Breaststroke,LCM,M,55-59,1:51.45,Allen J Larson,,Tualatin Hills Summer Sizzler,2010,3
+SWMS,100 M Breaststroke,LCM,M,55-59,1:58.10,Stephen Darnell,,Gil Young Memorial Meet,2010,4
+OREG,50 M Butterfly,LCM,M,55-59,31.59,Doug Brockbank,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,M,55-59,32.78,Charles B Dwight,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Butterfly,LCM,M,55-59,39.67,Allen J Larson,,Tualatin Hills Summer Sizzler,2010,3
+OREG,50 M Freestyle,LCM,M,60-64,31.10,Vern E Dasch,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,60-64,32.02,Jed P Cronin,,Gil Young Memorial Meet,2010,2
+OREG,50 M Freestyle,LCM,M,60-64,32.10,Bob Kehoe,,Gil Young Memorial Meet,2010,3
+SWMS,50 M Freestyle,LCM,M,60-64,36.37,John L Ellis,,Tualatin Hills Summer Sizzler,2010,4
+OREG,100 M Freestyle,LCM,M,60-64,1:12.37,Vern E Dasch,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,60-64,1:13.12,Bob Kehoe,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,M,60-64,1:14.17,Patrick M Cotter,,Tualatin Hills Summer Sizzler,2010,3
+SWMS,100 M Freestyle,LCM,M,60-64,1:25.06,John L Ellis,,Tualatin Hills Summer Sizzler,2010,4
+OREG,200 M Freestyle,LCM,M,60-64,2:43.29,Vern E Dasch,,Gil Young Memorial Meet,2010,1
+OREG,200 M Freestyle,LCM,M,60-64,2:44.35,Jed P Cronin,,Gil Young Memorial Meet,2010,2
+OREG,200 M Freestyle,LCM,M,60-64,2:54.20,Bob Kehoe,,Gil Young Memorial Meet,2010,3
+SWMS,200 M Freestyle,LCM,M,60-64,3:09.61,John L Ellis,,Gil Young Memorial Meet,2010,4
+OREG,400 M Freestyle,LCM,M,60-64,5:55.91,Vern E Dasch,,Gil Young Memorial Meet,2010,1
+SWMS,400 M Freestyle,LCM,M,60-64,6:44.53,John L Ellis,,Gil Young Memorial Meet,2010,2
+SWMS,800 M Freestyle,LCM,M,60-64,13:15.64,John L Ellis,,Tualatin Hills Summer Sizzler,2010,1
+OREG,1500 M Freestyle,LCM,M,60-64,22:15.64,Jed P Cronin,,Gil Young Memorial Meet,2010,1
+OREG,1500 M Freestyle,LCM,M,60-64,23:59.13,Vern E Dasch,,Gil Young Memorial Meet,2010,2
+OREG,50 M Breaststroke,LCM,M,60-64,35.28,Allen L Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,50 M Breaststroke,LCM,M,60-64,38.38,Patrick M Cotter,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Breaststroke,LCM,M,60-64,43.06,Vern E Dasch,,Gil Young Memorial Meet,2010,3
+OREG,100 M Breaststroke,LCM,M,60-64,1:17.50,Allen L Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,100 M Breaststroke,LCM,M,60-64,1:26.72,Patrick M Cotter,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Breaststroke,LCM,M,60-64,2:52.74,Allen L Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,200 M Breaststroke,LCM,M,60-64,3:08.99,Patrick M Cotter,,Tualatin Hills Summer Sizzler,2010,2
+OREG,50 M Butterfly,LCM,M,60-64,36.18,Jed P Cronin,,Gil Young Memorial Meet,2010,1
+OREG,100 M Butterfly,LCM,M,60-64,1:18.22,Allen L Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,200 M Butterfly,LCM,M,60-64,3:06.48,Allen L Stark,,USMS 2010 Summer National Championships,2010,1
+OREG,400 M Individual Medley,LCM,M,60-64,6:52.62,Allen L Stark,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,M,65-69,31.29,Robert S Smith,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,65-69,31.84,Michael R Silvey,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,M,65-69,1:16.28,Michael R Silvey,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,65-69,1:29.85,William R Smith,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Freestyle,LCM,M,65-69,3:23.40,William R Smith,,Tualatin Hills Summer Sizzler,2010,1
+OREG,1500 M Freestyle,LCM,M,65-69,26:49.25,Robert S Smith,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,65-69,38.01,Robert S Smith,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,65-69,42.01,Michael R Silvey,,Gil Young Memorial Meet,2010,2
+OREG,100 M Backstroke,LCM,M,65-69,2:04.13,William R Smith,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Breaststroke,LCM,M,65-69,1:36.85,Robert S Smith,,Gil Young Memorial Meet,2010,1
+OREG,200 M Breaststroke,LCM,M,65-69,3:39.43,Robert S Smith,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,M,65-69,37.11,Michael R Silvey,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,M,65-69,55.38,William R Smith,,Tualatin Hills Summer Sizzler,2010,2
+OREG,200 M Individual Medley,LCM,M,65-69,3:57.80,William R Smith,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,M,70-74,40.13,David J Keudell,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,70-74,1:33.60,David J Keudell,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Backstroke,LCM,M,70-74,39.65,Chris L Hiatt,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,70-74,55.83,David J Keudell,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Backstroke,LCM,M,70-74,1:25.21,Chris L Hiatt,,Gil Young Memorial Meet,2010,1
+OREG,200 M Backstroke,LCM,M,70-74,3:11.19,Chris L Hiatt,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,M,70-74,45.80,David J Keudell,,2010 Northwest Zone LCM,2010,1
+OREG,100 M Breaststroke,LCM,M,70-74,1:43.90,David J Keudell,,Gil Young Memorial Meet,2010,1
+OREG,200 M Breaststroke,LCM,M,70-74,3:49.49,David J Keudell,,2010 Northwest Zone LCM,2010,1
+OREG,50 M Butterfly,LCM,M,70-74,38.02,Chris L Hiatt,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,75-79,31.86,David A Radcliff,,2010 Northwest Zone LCM,2010,1
+OREG,100 M Freestyle,LCM,M,75-79,1:10.50,David A Radcliff,,Gil Young Memorial Meet,2010,1
+OREG,100 M Freestyle,LCM,M,75-79,1:30.18,Bill King,,2010 Northwest Zone LCM,2010,2
+OREG,200 M Freestyle,LCM,M,75-79,2:33.65,David A Radcliff,,Gil Young Memorial Meet,2010,1
+OREG,200 M Freestyle,LCM,M,75-79,3:25.49,Bill King,,2010 Northwest Zone LCM,2010,2
+OREG,400 M Freestyle,LCM,M,75-79,5:31.69,David A Radcliff,,Gil Young Memorial Meet,2010,1
+OREG,400 M Freestyle,LCM,M,75-79,7:50.68,Bill King,,XIII FINA World Masters Championships,2010,2
+OREG,800 M Freestyle,LCM,M,75-79,11:43.77,David A Radcliff,,2010 Northwest Zone LCM,2010,1
+OREG,800 M Freestyle,LCM,M,75-79,16:04.58,Bill King,,XIII FINA World Masters Championships,2010,2
+OREG,1500 M Freestyle,LCM,M,75-79,22:08.13,David A Radcliff,,Gil Young Memorial Meet,2010,1
+OREG,1500 M Freestyle,LCM,M,75-79,32:57.29,Bill King,,2010 Northwest Zone LCM,2010,2
+OREG,50 M Freestyle,LCM,M,80-84,37.92,Milton R Marks,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,80-84,57.76,Michael Popovich,,Gil Young Memorial Meet,2010,2
+OREG,100 M Freestyle,LCM,M,80-84,2:23.24,Michael Popovich,,Gil Young Memorial Meet,2010,1
+OREG,200 M Freestyle,LCM,M,80-84,5:28.68,Michael Popovich,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,80-84,48.00,Milton R Marks,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,M,80-84,47.21,Milton R Marks,,Gil Young Memorial Meet,2010,1
+OREG,100 M Breaststroke,LCM,M,80-84,1:50.93,Milton R Marks,,Gil Young Memorial Meet,2010,1
+OREG,200 M Breaststroke,LCM,M,80-84,4:15.75,Milton R Marks,,Gil Young Memorial Meet,2010,1
+OREG,50 M Freestyle,LCM,M,85-89,37.98,Willard J Lamb,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,M,85-89,1:04.15,Rupert E Fixott,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Freestyle,LCM,M,85-89,1:28.31,Willard J Lamb,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Freestyle,LCM,M,85-89,2:35.17,Rupert E Fixott,,Tualatin Hills Summer Sizzler,2010,2
+OREG,400 M Freestyle,LCM,M,85-89,7:26.57,Willard J Lamb,,Gil Young Memorial Meet,2010,1
+OREG,800 M Freestyle,LCM,M,85-89,14:55.00,Willard J Lamb,,Tualatin Hills Summer Sizzler,2010,1
+OREG,1500 M Freestyle,LCM,M,85-89,30:18.44,Willard J Lamb,,Gil Young Memorial Meet,2010,1
+OREG,50 M Backstroke,LCM,M,85-89,51.57,Willard J Lamb,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Backstroke,LCM,M,85-89,1:19.96,Rupert E Fixott,,Tualatin Hills Summer Sizzler,2010,2
+OREG,100 M Backstroke,LCM,M,85-89,1:52.45,Willard J Lamb,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Breaststroke,LCM,M,85-89,1:16.87,Rupert E Fixott,,Tualatin Hills Summer Sizzler,2010,1
+OREG,100 M Breaststroke,LCM,M,85-89,3:09.10,Rupert E Fixott,,Tualatin Hills Summer Sizzler,2010,1
+OREG,50 M Freestyle,LCM,M,90-94,58.44,Andrew W Holden,,Gil Young Memorial Meet,2010,1
+OREG,50 M Breaststroke,LCM,M,90-94,1:54.08,Andrew W Holden,,Gil Young Memorial Meet,2010,1
+OREG,50 M Butterfly,LCM,M,90-94,1:40.52,Andrew W Holden,,Gil Young Memorial Meet,2010,1

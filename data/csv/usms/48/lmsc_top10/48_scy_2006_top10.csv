@@ -1,0 +1,712 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ARIZ,50 Y Freestyle,SCY,W,18-24,25.19,Kate A Rollins,,Polar Bear Meet,2006,1
+ARIZ,50 Y Freestyle,SCY,W,18-24,28.38,Melissa K Gamalski,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,W,18-24,32.87,L Esprit Smith,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,W,18-24,1:16.30,L Esprit Smith,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:11.65,Melissa K Gamalski,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,18-24,7:23.20,L Esprit Smith,,Arizona State SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,W,18-24,12:02.43,Melissa K Gamalski,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,18-24,28.05,Kate A Rollins,,Polar Bear Meet,2006,1
+ARIZ,100 Y Backstroke,SCY,W,18-24,1:01.71,Kate A Rollins,,Polar Bear Meet,2006,1
+ARIZ,100 Y Backstroke,SCY,W,18-24,1:24.01,L Esprit Smith,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Backstroke,SCY,W,18-24,3:02.27,L Esprit Smith,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,18-24,32.76,Melissa K Gamalski,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,18-24,37.93,L Esprit Smith,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:25.46,L Esprit Smith,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,25-29,25.18,Michelle B Worden,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,25-29,54.21,Michelle B Worden,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,25-29,57.74,Laura L Hernandez,,Polar Bear Meet,2006,2
+ARIZ,50 Y Backstroke,SCY,W,25-29,30.80,Laura L Hernandez,,Polar Bear Meet,2006,1
+ARIZ,100 Y Backstroke,SCY,W,25-29,1:05.24,Laura L Hernandez,,Polar Bear Meet,2006,1
+ARIZ,50 Y Butterfly,SCY,W,25-29,27.77,Michelle B Worden,,Polar Bear Meet,2006,1
+ARIZ,50 Y Butterfly,SCY,W,25-29,31.41,Laura L Hernandez,,Polar Bear Meet,2006,2
+ARIZ,100 Y Butterfly,SCY,W,25-29,1:01.57,Michelle B Worden,,Polar Bear Meet,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,25-29,1:02.52,Michelle B Worden,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,W,25-29,2:17.38,Michelle B Worden,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,30-34,27.85,Tere Derbez-Zacher,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,30-34,28.10,Angela C Randall,,2006 USMS Short Course Nationals,2006,2
+ARIZ,50 Y Freestyle,SCY,W,30-34,33.45,Wendy L Rother,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,W,30-34,59.39,Tere Derbez-Zacher,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,30-34,1:02.02,Angela C Randall,,2006 USMS Short Course Nationals,2006,2
+ARIZ,100 Y Freestyle,SCY,W,30-34,1:21.85,Wendy L Rother,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,W,30-34,2:09.29,Tere Derbez-Zacher,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,30-34,2:25.43,Angela C Randall,,2006 USMS Short Course Nationals,2006,2
+ARIZ,500 Y Freestyle,SCY,W,30-34,5:53.70,Tere Derbez-Zacher,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,30-34,45.31,Wendy L Rother,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,30-34,43.97,Kae E Neustadt,,Polar Bear Meet,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,30-34,1:36.23,Kae E Neustadt,,Polar Bear Meet,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,30-34,3:42.45,Kae E Neustadt,,Polar Bear Meet,2006,1
+ARIZ,50 Y Butterfly,SCY,W,30-34,30.62,Angela C Randall,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Butterfly,SCY,W,30-34,1:13.08,Angela C Randall,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,30-34,1:11.67,Angela C Randall,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,30-34,1:36.98,Wendy L Rother,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,W,35-39,27.10,Louise M Keogh,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,35-39,28.57,Nancy J Turman,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,W,35-39,59.13,Louise M Keogh,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,35-39,1:06.65,Kim A Huxman,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,W,35-39,1:08.52,Kathryn B Nelson,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,W,35-39,2:15.24,Dianne L Wygal-Springer,,Polar Bear Meet,2006,1
+ARIZ,200 Y Freestyle,SCY,W,35-39,2:20.29,Kim A Huxman,,Polar Bear Meet,2006,2
+ARIZ,500 Y Freestyle,SCY,W,35-39,6:17.90,Kim A Huxman,,Polar Bear Meet,2006,1
+ARIZ,500 Y Freestyle,SCY,W,35-39,6:43.29,Kathryn B Nelson,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,W,35-39,14:14.29,Kristina B Wagner,,Polar Bear Meet,2006,1
+ARIZ,50 Y Backstroke,SCY,W,35-39,34.02,Nancy J Turman,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,35-39,34.55,Louise M Keogh,,SW Zone SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,W,35-39,36.64,Kim A Huxman,,Polar Bear Meet,2006,3
+ARIZ,100 Y Backstroke,SCY,W,35-39,1:13.35,Nancy J Turman,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,35-39,32.93,Louise Keogh,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,35-39,41.42,Kathryn B Nelson,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,W,35-39,1:12.58,Louise M Keogh,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,35-39,2:35.30,Louise M Keogh,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,W,35-39,1:12.99,Louise M Keogh,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,W,35-39,1:13.79,Dianne L Wygal-Springer,,Polar Bear Meet,2006,2
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:06.38,Louise Keogh,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:12.74,Dianne L Wygal-Springer,,Polar Bear Meet,2006,2
+ARIZ,200 Y Individual Medley,SCY,W,35-39,2:25.87,Louise Keogh,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,W,35-39,2:39.72,Dianne L Wygal-Springer,,Polar Bear Meet,2006,2
+ARIZ,50 Y Freestyle,SCY,W,40-44,26.00,Becki P Major,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,40-44,26.65,Monica M Bailey,,South Central Zone SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,W,40-44,28.99,Anna R DeLozier,,Polar Bear Meet,2006,3
+ARIZ,50 Y Freestyle,SCY,W,40-44,29.87,Brenda Creswell-Liotta,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Freestyle,SCY,W,40-44,30.06,Paula D Turkon,,8th Annual Ithaca Masters SCY Meet,2006,5
+ARIZ,50 Y Freestyle,SCY,W,40-44,34.04,Mary E Karlsson,,Arizona State SCY Champs,2006,6
+ARIZ,50 Y Freestyle,SCY,W,40-44,34.39,JoAnne M Bolivar,,Arizona State SCY Champs,2006,7
+ARIZ,100 Y Freestyle,SCY,W,40-44,57.55,Marika W McCue,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,40-44,57.66,Becki P Major,,SW Zone SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,W,40-44,58.22,Monica M Bailey,,South Central Zone SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:08.29,Brenda Creswell-Liotta,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:08.39,Chris G Fischer,,Arizona State SCY Champs,2006,5
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:19.34,Mary E Karlsson,,Arizona State SCY Champs,2006,6
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:10.44,Becki P Major,,Illinois State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:14.00,Monica M Bailey,,Polar Bear Meet,2006,2
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:28.20,June C Hussey,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:38.87,Dana M Hunter,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Freestyle,SCY,W,40-44,3:08.88,BRENDA C CRESWELL-LIOTTA,,SW Zone SCY Champs,2006,5
+ARIZ,500 Y Freestyle,SCY,W,40-44,5:57.26,Becki P Major,,SW Zone SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:27.09,Chris G Fischer,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:32.57,June C Hussey,,Arizona State SCY Champs,2006,3
+ARIZ,500 Y Freestyle,SCY,W,40-44,7:04.74,Dana M Hunter,,Arizona State SCY Champs,2006,4
+ARIZ,1000 Y Freestyle,SCY,W,40-44,12:13.88,Brigid J Bunch,,2006 USMS Short Course Nationals,2006,1
+ARIZ,1650 Y Freestyle,SCY,W,40-44,19:47.08,Anna R DeLozier,,Polar Bear Meet,2006,1
+ARIZ,1650 Y Freestyle,SCY,W,40-44,21:17.53,June C Hussey,,Arizona State SCY Champs,2006,2
+ARIZ,1650 Y Freestyle,SCY,W,40-44,24:18.11,Dana M Hunter,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Backstroke,SCY,W,40-44,30.07,Monica M Bailey,,South Central Zone SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,40-44,32.66,Becki P Major,,Illinois State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,W,40-44,33.35,Brigid J Bunch,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Backstroke,SCY,W,40-44,34.13,Susan M Jurek,,2006 USMS Short Course Nationals,2006,4
+ARIZ,50 Y Backstroke,SCY,W,40-44,39.80,JoAnne M Bolivar,,Arizona State SCY Champs,2006,5
+ARIZ,50 Y Backstroke,SCY,W,40-44,42.28,Mary E Karlsson,,Arizona State SCY Champs,2006,6
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:05.02,Monica M Bailey,,South Central Zone SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:08.31,Brigid J Bunch,,2006 USMS Short Course Nationals,2006,2
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:10.87,Anna R DeLozier,,Polar Bear Meet,2006,3
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:15.96,Susan M Jurek,,2006 USMS Short Course Nationals,2006,4
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:58.23,Mary E Karlsson,,Polar Bear Meet,2006,5
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:23.43,Marika W McCue,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:23.57,Monica M Bailey,,South Central Zone SCY Champs,2006,2
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:25.45,Brigid J Bunch,,2006 USMS Short Course Nationals,2006,3
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:30.14,Anna R DeLozier,,Polar Bear Meet,2006,4
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:46.19,Susan M Jurek,,2006 USMS Short Course Nationals,2006,5
+ARIZ,200 Y Backstroke,SCY,W,40-44,3:59.12,Mary E Karlsson,,Arizona State SCY Champs,2006,6
+ARIZ,50 Y Breaststroke,SCY,W,40-44,37.60,Brigid J Bunch,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,40-44,39.68,Brenda Creswell-Liotta,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,W,40-44,43.81,Vicki M Fraga,,Polar Bear Meet,2006,3
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:18.13,Brigid J Bunch,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:26.97,Brenda Creswell-Liotta,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:36.32,Vicki M Fraga,,Polar Bear Meet,2006,3
+ARIZ,200 Y Breaststroke,SCY,W,40-44,2:48.87,Brigid J Bunch,,2006 USMS Short Course Nationals,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,40-44,3:08.38,Brenda Creswell-Liotta,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Breaststroke,SCY,W,40-44,3:30.40,Dana M Hunter,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Butterfly,SCY,W,40-44,31.30,Susan M Jurek,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Butterfly,SCY,W,40-44,33.28,Paula D Turkon,,8th Annual Ithaca Masters SCY Meet,2006,2
+ARIZ,50 Y Butterfly,SCY,W,40-44,38.18,JoAnne M Bolivar,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:11.79,Brigid J Bunch,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:14.14,Susan M Jurek,,2006 USMS Short Course Nationals,2006,2
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:30.26,Brenda Creswell-Liotta,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:34.17,Dana M Hunter,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Butterfly,SCY,W,40-44,2:41.59,Anna R DeLozier,,Polar Bear Meet,2006,1
+ARIZ,200 Y Butterfly,SCY,W,40-44,2:50.49,Susan M Jurek,,2006 USMS Short Course Nationals,2006,2
+ARIZ,200 Y Butterfly,SCY,W,40-44,3:33.72,Dana M Hunter,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:04.48,Marika W McCue,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:16.62,Lisa M Sartori,,Polar Bear Meet,2006,2
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:19.17,BRENDA C CRESWELL-LIOTTA,,SW Zone SCY Champs,2006,3
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:19.52,Paula D Turkon,,8th Annual Ithaca Masters SCY Meet,2006,4
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:25.14,Chris G Fischer,,Arizona State SCY Champs,2006,5
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:27.71,Dana M Hunter,,Arizona State SCY Champs,2006,6
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:30.34,Monica M Bailey,,South Central Zone SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:43.75,Lisa M Sartori,,Polar Bear Meet,2006,2
+ARIZ,200 Y Individual Medley,SCY,W,40-44,3:14.18,Dana M Hunter,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Individual Medley,SCY,W,40-44,3:35.37,Mary E Karlsson,,Arizona State SCY Champs,2006,4
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:12.65,Monica M Bailey,,South Central Zone SCY Champs,2006,1
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:13.87,Marika W McCue,,Arizona State SCY Champs,2006,2
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:17.88,Brigid J Bunch,,2006 USMS Short Course Nationals,2006,3
+ARIZ,400 Y Individual Medley,SCY,W,40-44,6:47.92,Dana M Hunter,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Freestyle,SCY,W,45-49,26.66,Monica M Bailey,,Illinois State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,45-49,28.49,Kathy A Levine,,Polar Bear Meet,2006,2
+ARIZ,50 Y Freestyle,SCY,W,45-49,28.72,Caren A Bidegain,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Freestyle,SCY,W,45-49,35.08,Susan W Arriola,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Freestyle,SCY,W,45-49,45.09,Elaine M Mariolle,,Arizona State SCY Champs,2006,5
+ARIZ,100 Y Freestyle,SCY,W,45-49,58.66,Monica M Bailey,,Illinois State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:04.22,Kathy A Levine,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:16.39,Susan R Montgomery,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:19.71,Susan W Arriola,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:38.43,Elaine M Mariolle,,Arizona State SCY Champs,2006,5
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:47.83,Susan R Montgomery,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:55.87,Susan W Arriola,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,W,45-49,7:14.97,Susan R Montgomery,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,45-49,7:49.09,Susan W Arriola,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,W,45-49,14:49.27,Susan R Montgomery,,Arizona State SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,W,45-49,16:15.60,Susan W Arriola,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,W,45-49,20:41.09,Elaine M Mariolle,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Backstroke,SCY,W,45-49,29.92,Monica M Bailey,,Illinois State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,45-49,48.95,Susan R Montgomery,,Polar Bear Meet,2006,2
+ARIZ,100 Y Backstroke,SCY,W,45-49,1:05.37,Monica M Bailey,,Illinois State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,W,45-49,2:22.07,Monica M Bailey,,Illinois State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,45-49,36.92,Amy B Mullaney,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,45-49,40.22,Kathy A Levine,,Polar Bear Meet,2006,2
+ARIZ,50 Y Breaststroke,SCY,W,45-49,48.68,Elaine M Mariolle,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:23.22,Amy B Mullaney,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:24.28,Caren A Bidegain,,Polar Bear Meet,2006,2
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:47.42,Elaine M Mariolle,,Polar Bear Meet,2006,3
+ARIZ,200 Y Breaststroke,SCY,W,45-49,2:58.18,Amy B Mullaney,,2006 USMS Short Course Nationals,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,45-49,3:49.39,Elaine M Mariolle,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Butterfly,SCY,W,45-49,32.50,Caren A Bidegain,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,45-49,32.88,Kathy A Levine,,Polar Bear Meet,2006,2
+ARIZ,50 Y Butterfly,SCY,W,45-49,39.33,Susan W Arriola,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Butterfly,SCY,W,45-49,48.12,Elaine M Mariolle,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:15.97,Amy B Mullaney,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:17.06,Kathy A Levine,,Polar Bear Meet,2006,2
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:29.68,Susan W Arriola,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:35.70,Susan R Montgomery,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:50.10,Elaine M Mariolle,,Arizona State SCY Champs,2006,5
+ARIZ,200 Y Individual Medley,SCY,W,45-49,2:45.59,Caren A Bidegain,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,W,45-49,2:48.17,Amy B Mullaney,,2006 USMS Short Course Nationals,2006,2
+ARIZ,200 Y Individual Medley,SCY,W,45-49,4:06.38,Elaine M Mariolle,,Arizona State SCY Champs,2006,3
+ARIZ,400 Y Individual Medley,SCY,W,45-49,5:27.10,Monica M Bailey,,Illinois State SCY Champs,2006,1
+ARIZ,400 Y Individual Medley,SCY,W,45-49,6:07.18,Amy B Mullaney,,2006 USMS Short Course Nationals,2006,2
+ARIZ,50 Y Freestyle,SCY,W,50-54,28.16,Evie S Lynch,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,50-54,31.40,Kathy Renno,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,W,50-54,1:01.71,EVIE S LYNCH,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,50-54,1:12.48,Kathy Renno,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,W,50-54,1:19.47,Kristi Trimble,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,W,50-54,2:37.77,EVIE S LYNCH,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,50-54,2:49.03,Kristi Trimble,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,W,50-54,3:05.05,Karla R Hansen,,Polar Bear Meet,2006,3
+ARIZ,500 Y Freestyle,SCY,W,50-54,7:27.64,Kristi Trimble,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,50-54,8:27.03,Karla R Hansen,,Polar Bear Meet,2006,2
+ARIZ,1000 Y Freestyle,SCY,W,50-54,14:08.66,KATRYN S JAMES,,SW Zone SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,W,50-54,15:04.70,Kristi Trimble,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,W,50-54,16:37.83,Karla R Hansen,,Polar Bear Meet,2006,3
+ARIZ,50 Y Backstroke,SCY,W,50-54,31.68,Evie S Lynch,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,50-54,35.08,KATRYN S JAMES,,SW Zone SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,W,50-54,47.98,Karla R Hansen,,Polar Bear Meet,2006,3
+ARIZ,100 Y Backstroke,SCY,W,50-54,1:06.42,EVIE S LYNCH,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,W,50-54,1:17.10,Katryn S James,,2006 USMS Short Course Nationals,2006,2
+ARIZ,200 Y Backstroke,SCY,W,50-54,2:26.45,EVIE S LYNCH,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,W,50-54,2:46.16,Katryn S James,,2006 USMS Short Course Nationals,2006,2
+ARIZ,50 Y Butterfly,SCY,W,50-54,30.63,EVIE S LYNCH,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,50-54,40.26,Kathy Renno,,Polar Bear Meet,2006,2
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:10.30,EVIE S LYNCH,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:19.17,Katryn S James,,2006 USMS Short Course Nationals,2006,2
+ARIZ,200 Y Individual Medley,SCY,W,50-54,2:31.17,Evie S Lynch,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,W,50-54,2:52.91,Katryn S James,,2006 USMS Short Course Nationals,2006,2
+ARIZ,400 Y Individual Medley,SCY,W,50-54,6:12.62,Katryn S James,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Freestyle,SCY,W,55-59,28.94,Christie Altman,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Freestyle,SCY,W,55-59,31.98,Joanne C Menard,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,W,55-59,39.80,Wendy L Weinberg,,National Senior Games,2006,3
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:05.20,Christie Altman,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:10.55,Joanne C Menard,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:28.99,Lucy M Mitchell,,Polar Bear Meet,2006,3
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:32.76,Wendy L Weinberg,,National Senior Games,2006,4
+ARIZ,200 Y Freestyle,SCY,W,55-59,2:30.05,Christie Altman,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,55-59,2:38.40,Joanne C Menard,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,W,55-59,2:49.31,Judy L Gillies,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,W,55-59,3:06.16,Lucy M Mitchell,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Freestyle,SCY,W,55-59,3:29.36,Wendy L Weinberg,,National Senior Games,2006,5
+ARIZ,500 Y Freestyle,SCY,W,55-59,7:32.67,Judy L Gillies,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,55-59,9:01.85,Wendy L Weinberg,,National Senior Games,2006,2
+ARIZ,1000 Y Freestyle,SCY,W,55-59,15:33.45,Judy L Gillies,,Polar Bear Meet,2006,1
+ARIZ,1000 Y Freestyle,SCY,W,55-59,16:14.74,Lucy M Mitchell,,Arizona State SCY Champs,2006,2
+ARIZ,1650 Y Freestyle,SCY,W,55-59,27:09.84,Lucy M Mitchell,,Polar Bear Meet,2006,1
+ARIZ,50 Y Backstroke,SCY,W,55-59,46.57,Lucy M Mitchell,,Polar Bear Meet,2006,1
+ARIZ,100 Y Backstroke,SCY,W,55-59,1:39.35,Lucy M Mitchell,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,55-59,41.43,Joanne C Menard,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,55-59,47.56,Judy L Gillies,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:31.17,Joanne C Menard,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:41.70,Judy L Gillies,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:49.75,Lucy M Mitchell,,Polar Bear Meet,2006,3
+ARIZ,100 Y Breaststroke,SCY,W,55-59,1:54.08,Wendy L Weinberg,,National Senior Games,2006,4
+ARIZ,200 Y Breaststroke,SCY,W,55-59,3:17.47,Joanne C Menard,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,55-59,3:44.84,Judy L Gillies,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Butterfly,SCY,W,55-59,33.36,Christie Altman,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Butterfly,SCY,W,55-59,35.62,Joanne C Menard,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Butterfly,SCY,W,55-59,47.57,Lucy M Mitchell,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Butterfly,SCY,W,55-59,1:16.31,Christie Altman,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,55-59,1:14.94,Christie Altman,,2006 USMS Short Course Nationals,2006,1
+ARIZ,200 Y Individual Medley,SCY,W,55-59,2:52.15,CHRISTIE ALTMAN,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,60-64,42.01,Wendy L Weinberg,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,60-64,45.01,Bobbi Malone,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:24.49,Mickey M Stillwell,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:30.32,Joyce R Apodaca,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:38.22,Diane P Sacco,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:38.36,Wendy L Weinberg,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Freestyle,SCY,W,60-64,3:25.09,Wendy L Weinberg,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,60-64,8:53.36,Wendy L Weinberg,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,60-64,9:31.52,Diane P Sacco,,Arizona State SCY Champs,2006,2
+ARIZ,1650 Y Freestyle,SCY,W,60-64,29:54.80,Wendy L Weinberg,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,60-64,51.93,Bobbi Malone,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,W,60-64,1:55.35,Bobbi Malone,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,W,60-64,4:45.15,Bobbi Malone,,Polar Bear Meet,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,60-64,50.84,Wendy L Weinberg,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,60-64,56.70,Joyce R Apodaca,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,W,60-64,1:45.66,Mickey M Stillwell,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,60-64,1:56.15,Wendy L Weinberg,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Breaststroke,SCY,W,60-64,4:09.97,Wendy L Weinberg,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,60-64,1:48.81,Joyce R Apodaca,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,65-69,31.12,SALLY A BOLAR,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,W,65-69,32.02,Gynt H Clifford,,2006 USMS Short Course Nationals,2006,2
+ARIZ,50 Y Freestyle,SCY,W,65-69,40.57,Anne Burnett,,National Senior Games,2006,3
+ARIZ,50 Y Freestyle,SCY,W,65-69,42.34,Helen H Bayly,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Freestyle,SCY,W,65-69,50.89,Faye Guerrero,,National Senior Games,2006,5
+ARIZ,100 Y Freestyle,SCY,W,65-69,1:08.92,Sally A Bolar,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,65-69,1:13.43,Gynt H Clifford,,2006 USMS Short Course Nationals,2006,2
+ARIZ,100 Y Freestyle,SCY,W,65-69,1:41.86,HELEN H BAYLY,,SW Zone SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,W,65-69,2:40.06,SALLY A BOLAR,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,W,65-69,2:49.21,Gynt H Clifford,,2006 USMS Short Course Nationals,2006,2
+ARIZ,200 Y Freestyle,SCY,W,65-69,4:28.70,Gaile Harden,,2006 USMS Short Course Nationals,2006,3
+ARIZ,500 Y Freestyle,SCY,W,65-69,7:25.98,Sally A Bolar,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,65-69,11:45.24,Faye Guerrero,,National Senior Games,2006,2
+ARIZ,500 Y Freestyle,SCY,W,65-69,11:54.10,Gaile Harden,,2006 YMCA Masters Nationals at ISHOF SCY,2006,3
+ARIZ,1000 Y Freestyle,SCY,W,65-69,15:41.72,Sally A Bolar,,Polar Bear Meet,2006,1
+ARIZ,1000 Y Freestyle,SCY,W,65-69,22:59.90,Helen H Bayly,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,W,65-69,41.48,Gynt H Clifford,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Backstroke,SCY,W,65-69,54.77,HELEN H BAYLY,,SW Zone SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,W,65-69,59.45,Gaile Harden,,National Senior Games,2006,3
+ARIZ,100 Y Backstroke,SCY,W,65-69,1:30.58,Gynt H Clifford,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Backstroke,SCY,W,65-69,2:01.37,HELEN H BAYLY,,SW Zone SCY Champs,2006,2
+ARIZ,100 Y Backstroke,SCY,W,65-69,2:06.86,Gaile Harden,,National Senior Games,2006,3
+ARIZ,200 Y Backstroke,SCY,W,65-69,4:29.01,HELEN H BAYLY,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,W,65-69,4:35.31,Gaile Harden,,National Senior Games,2006,2
+ARIZ,50 Y Breaststroke,SCY,W,65-69,54.68,Anne Burnett,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,65-69,1:02.34,Gaile Harden,,National Senior Games,2006,2
+ARIZ,50 Y Breaststroke,SCY,W,65-69,1:10.66,Helen H Bayly,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Breaststroke,SCY,W,65-69,2:07.51,Anne Burnett,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,65-69,2:14.54,Gaile Harden,,2006 YMCA Masters Nationals at ISHOF SCY,2006,2
+ARIZ,200 Y Breaststroke,SCY,W,65-69,4:40.68,Anne Burnett,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,65-69,4:46.33,Gaile Harden,,2006 USMS Short Course Nationals,2006,2
+ARIZ,50 Y Butterfly,SCY,W,65-69,35.83,SALLY A BOLAR,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,65-69,49.91,HELEN H BAYLY,,SW Zone SCY Champs,2006,2
+ARIZ,50 Y Butterfly,SCY,W,65-69,58.94,Anne Burnett,,National Senior Games,2006,3
+ARIZ,100 Y Butterfly,SCY,W,65-69,1:25.79,SALLY A BOLAR,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,W,65-69,2:22.04,Anne Burnett,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Butterfly,SCY,W,65-69,3:25.96,SALLY A BOLAR,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,65-69,1:29.95,Gynt H Clifford,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,65-69,1:53.85,Anne Burnett,,National Senior Games,2006,2
+ARIZ,100 Y Individual Medley,SCY,W,65-69,2:09.63,HELEN H BAYLY,,SW Zone SCY Champs,2006,3
+ARIZ,200 Y Individual Medley,SCY,W,65-69,4:21.85,Anne Burnett,,National Senior Games,2006,1
+ARIZ,50 Y Freestyle,SCY,W,70-74,39.30,Vel H Perry,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,W,70-74,48.49,Vel H Perry,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,70-74,49.57,Sumie Anderson,,National Senior Games,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,70-74,1:51.06,Sumie Anderson,,National Senior Games,2006,1
+ARIZ,50 Y Butterfly,SCY,W,70-74,51.94,Sumie Anderson,,National Senior Games,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,70-74,1:44.28,Sumie Anderson,,National Senior Games,2006,1
+ARIZ,50 Y Freestyle,SCY,W,75-79,55.02,Frances M Considine,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,75-79,1:38.95,Parkie J Copeland,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,W,75-79,1:58.35,Frances M Considine,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,W,75-79,3:32.70,Edie B Gruender,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,75-79,8:58.95,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,W,75-79,9:20.58,Parkie J Copeland,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,W,75-79,9:31.04,Edie B Gruender,,Arizona State SCY Champs,2006,3
+ARIZ,1000 Y Freestyle,SCY,W,75-79,17:52.65,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,W,75-79,19:22.22,Edie B Gruender,,Arizona State SCY Champs,2006,2
+ARIZ,1650 Y Freestyle,SCY,W,75-79,31:11.92,Parkie J Copeland,,Arizona State SCY Champs,2006,1
+ARIZ,1650 Y Freestyle,SCY,W,75-79,32:24.57,Edie B Gruender,,Polar Bear Meet,2006,2
+ARIZ,50 Y Backstroke,SCY,W,75-79,51.58,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,W,75-79,46.96,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,W,75-79,1:46.09,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,W,75-79,3:55.80,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,75-79,47.04,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,W,75-79,56.29,Edie B Gruender,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,W,75-79,1:51.98,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,W,75-79,2:14.93,Edie B Gruender,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Butterfly,SCY,W,75-79,5:03.40,Edie B Gruender,,Polar Bear Meet,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,75-79,1:46.19,Carol P Taylor,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,W,75-79,2:02.83,Parkie J Copeland,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Individual Medley,SCY,W,75-79,4:18.75,Edie B Gruender,,Arizona State SCY Champs,2006,1
+ARIZ,400 Y Individual Medley,SCY,W,75-79,9:05.72,Edie B Gruender,,Polar Bear Meet,2006,1
+ARIZ,100 Y Freestyle,SCY,W,80-84,1:57.88,Ruth M Manfredi,,Polar Bear Meet,2006,1
+ARIZ,200 Y Freestyle,SCY,W,80-84,4:06.46,Ruth M Manfredi,,Polar Bear Meet,2006,1
+ARIZ,500 Y Freestyle,SCY,W,80-84,10:58.44,Ruth M Manfredi,,Polar Bear Meet,2006,1
+ARIZ,50 Y Backstroke,SCY,W,80-84,1:16.34,Ruth M Manfredi,,Polar Bear Meet,2006,1
+ARIZ,200 Y Backstroke,SCY,W,80-84,5:51.69,Ruth M Manfredi,,Polar Bear Meet,2006,1
+ARIZ,50 Y Freestyle,SCY,M,18-24,27.68,Natan H Jacobson,,Polar Bear Meet,2006,1
+ARIZ,100 Y Freestyle,SCY,M,18-24,50.44,Kevin M Curtis,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,18-24,51.97,Bryan Tierney,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,M,18-24,53.91,Alexis E Lucero,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,18-24,59.57,Natan H Jacobson,,Polar Bear Meet,2006,4
+ARIZ,200 Y Freestyle,SCY,M,18-24,2:04.50,Bryan Tierney,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,18-24,2:14.26,Natan H Jacobson,,Polar Bear Meet,2006,2
+ARIZ,500 Y Freestyle,SCY,M,18-24,5:43.78,Alexis E Lucero,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,M,18-24,2:25.33,Bryan Tierney,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,18-24,24.64,Kevin M Curtis,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,18-24,27.78,Alexis E Lucero,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,18-24,54.05,Kevin M Curtis,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,18-24,1:01.19,Bryan Tierney,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,18-24,58.81,Kevin M Curtis,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,18-24,1:01.35,Bryan Tierney,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,18-24,1:03.01,Alexis E Lucero,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Individual Medley,SCY,M,18-24,2:19.52,Alexis E Lucero,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,18-24,2:24.18,Bryan Tierney,,Arizona State SCY Champs,2006,2
+ARIZ,400 Y Individual Medley,SCY,M,18-24,6:11.63,Bryan Tierney,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,25-29,24.40,VINCENT M LABROZZI,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,25-29,24.73,John Evans,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,M,25-29,28.15,Nicholas Urwiler,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,25-29,49.25,Jamie E Richardson,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,25-29,54.13,John Evans,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,M,25-29,1:04.40,Nicholas Urwiler,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,M,25-29,1:49.68,Jamie E Richardson,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,25-29,2:37.16,Nicholas Urwiler,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,25-29,5:21.69,Kevin Lavelle,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,25-29,7:37.95,Nicholas Urwiler,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,M,25-29,11:28.38,John Evans,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,25-29,27.57,John Evans,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,25-29,32.85,Vincent La Brozzi,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,M,25-29,1:01.59,John Evans,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,M,25-29,2:21.83,John Evans,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,25-29,26.44,John Evans,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,25-29,53.52,Jamie E Richardson,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,25-29,55.43,Jamie E Richardson,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,25-29,59.41,John Evans,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Individual Medley,SCY,M,25-29,2:14.81,John Evans,,Arizona State SCY Champs,2006,1
+ARIZ,400 Y Individual Medley,SCY,M,25-29,4:42.42,Kevin Lavelle,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,30-34,23.13,Stephen S So,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,30-34,26.86,Jeff D Ashbeck,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,M,30-34,30.98,Eddie R Mylan,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,30-34,48.69,Jeff P Commings,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,30-34,51.78,Stephen S So,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,M,30-34,53.50,Brian J Caliva,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,30-34,1:09.23,Eddie R Mylan,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:48.03,Jeff P Commings,,Polar Bear Meet,2006,1
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:54.74,Stephen S So,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:58.75,Jeff D Ashbeck,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,M,30-34,2:41.98,Eddie R Mylan,,Arizona State SCY Champs,2006,4
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:21.40,Christopher R Palmer,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:36.53,Brian J Caliva,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,M,30-34,11:20.42,Stephen S So,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,M,30-34,24.78,Jeff P Commings,,Pacific Masters SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,M,30-34,28.52,Stephen S So,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,M,30-34,39.47,Eddie R Mylan,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Backstroke,SCY,M,30-34,51.91,Jeff P Commings,,Pacific Masters SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,M,30-34,1:55.23,Jeff P Commings,,USF Valentines Meet,2006,1
+ARIZ,200 Y Backstroke,SCY,M,30-34,2:13.09,Christopher R Palmer,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,30-34,25.98,Jeff P Commings,,Pacific Masters SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,30-34,30.43,Jeff D Ashbeck,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,30-34,31.11,Stephen S So,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Breaststroke,SCY,M,30-34,44.82,Eddie R Mylan,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Breaststroke,SCY,M,30-34,56.74,Jeff P Commings,,Pacific Masters SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,30-34,1:07.98,STEPHEN S SO,,SW Zone SCY Champs,2006,2
+ARIZ,50 Y Butterfly,SCY,M,30-34,24.31,Jeff P Commings,,USF Valentines Meet,2006,1
+ARIZ,50 Y Butterfly,SCY,M,30-34,25.77,STEPHEN S SO,,SW Zone SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,30-34,53.54,Jeff P Commings,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,30-34,56.98,Brian J Caliva,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,30-34,58.28,Jeff D Ashbeck,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Butterfly,SCY,M,30-34,2:12.28,Jeff D Ashbeck,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,30-34,51.97,Jeff P Commings,,Pacific Masters SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,30-34,59.64,Stephen S So,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:01.10,Jeff D Ashbeck,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Individual Medley,SCY,M,30-34,1:54.42,Jeff P Commings,,Pacific Masters SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:13.03,Jeff D Ashbeck,,Arizona State SCY Champs,2006,2
+ARIZ,400 Y Individual Medley,SCY,M,30-34,4:42.39,Jeff D Ashbeck,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,35-39,24.80,John R Lapp,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,35-39,25.08,Troy T Daniels,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,M,35-39,28.29,Luke E Collins,,Polar Bear Meet,2006,3
+ARIZ,50 Y Freestyle,SCY,M,35-39,37.71,Richard L Snyder,,Polar Bear Meet,2006,4
+ARIZ,100 Y Freestyle,SCY,M,35-39,52.78,Leslie F Bleamaster,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,35-39,52.89,John R Lapp,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,M,35-39,54.94,Troy T Daniels,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,35-39,55.05,Bowen M Johnson,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Freestyle,SCY,M,35-39,1:03.70,Luke E Collins,,Polar Bear Meet,2006,5
+ARIZ,100 Y Freestyle,SCY,M,35-39,1:45.68,Richard L Snyder,,Polar Bear Meet,2006,6
+ARIZ,200 Y Freestyle,SCY,M,35-39,1:46.51,Jeff Utsch,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,35-39,1:51.35,Kurt F Dickson,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,M,35-39,2:00.49,Leslie F Bleamaster,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,M,35-39,2:22.62,Luke E Collins,,Polar Bear Meet,2006,4
+ARIZ,200 Y Freestyle,SCY,M,35-39,3:20.41,Richard L Snyder,,Polar Bear Meet,2006,5
+ARIZ,500 Y Freestyle,SCY,M,35-39,4:57.26,Kurt F Dickson,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:28.85,John R Lapp,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:32.08,Leslie F Bleamaster,,Arizona State SCY Champs,2006,3
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:40.81,Kenneth M Bixler,,Arizona State SCY Champs,2006,4
+ARIZ,500 Y Freestyle,SCY,M,35-39,9:19.77,Richard L Snyder,,Polar Bear Meet,2006,5
+ARIZ,1000 Y Freestyle,SCY,M,35-39,10:18.70,Jeff Utsch,,Arizona State SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,M,35-39,10:23.90,Kurt F Dickson,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,M,35-39,11:20.50,Leslie F Bleamaster,,Arizona State SCY Champs,2006,3
+ARIZ,1000 Y Freestyle,SCY,M,35-39,11:45.63,Matthew R Rankin,,Arizona State SCY Champs,2006,4
+ARIZ,1000 Y Freestyle,SCY,M,35-39,13:36.97,Luke E Collins,,Polar Bear Meet,2006,5
+ARIZ,50 Y Backstroke,SCY,M,35-39,27.18,Leslie F Bleamaster,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,M,35-39,27.55,Kurt F Dickson,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,M,35-39,32.13,John R Lapp,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Backstroke,SCY,M,35-39,56.75,Jeff Utsch,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,35-39,57.90,Kurt F Dickson,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Backstroke,SCY,M,35-39,2:01.68,Kurt F Dickson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,35-39,30.42,Bowen M Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,35-39,30.56,Matthew R Rankin,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,35-39,30.67,Scott B Mencke,,Polar Bear Meet,2006,3
+ARIZ,50 Y Breaststroke,SCY,M,35-39,33.77,Doug P Adamavich,,Polar Bear Meet,2006,4
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:06.79,Bowen M Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:07.00,Scott B Mencke,,Polar Bear Meet,2006,2
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:07.71,Matthew R Rankin,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:08.59,Kenneth M Bixler,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Breaststroke,SCY,M,35-39,1:12.78,Doug P Adamavich,,Polar Bear Meet,2006,5
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:30.40,Matthew R Rankin,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:31.01,Kenneth M Bixler,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:31.95,Bowen M Johnson,,Polar Bear Meet,2006,3
+ARIZ,200 Y Breaststroke,SCY,M,35-39,2:33.50,Doug P Adamavich,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Butterfly,SCY,M,35-39,25.41,Leslie F Bleamaster,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,35-39,25.60,Matthew R Rankin,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Butterfly,SCY,M,35-39,26.76,John R Lapp,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Butterfly,SCY,M,35-39,27.93,Doug P Adamavich,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Butterfly,SCY,M,35-39,34.92,Luke E Collins,,Polar Bear Meet,2006,5
+ARIZ,100 Y Butterfly,SCY,M,35-39,57.03,Leslie F Bleamaster,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,35-39,57.74,Matthew R Rankin,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,35-39,59.53,John R Lapp,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Butterfly,SCY,M,35-39,59.92,Kurt F Dickson,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Butterfly,SCY,M,35-39,1:00.62,Scott B Mencke,,Polar Bear Meet,2006,5
+ARIZ,200 Y Butterfly,SCY,M,35-39,2:11.65,Matthew R Rankin,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Butterfly,SCY,M,35-39,2:29.53,John R Lapp,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,35-39,58.23,Matthew R Rankin,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,35-39,58.87,Leslie F Bleamaster,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:01.28,Kurt F Dickson,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:01.30,Scott B Mencke,,Polar Bear Meet,2006,4
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:01.51,Bowen M Johnson,,Arizona State SCY Champs,2006,5
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:08.66,Matthew R Rankin,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:15.72,Scott B Mencke,,Polar Bear Meet,2006,2
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:18.37,Kenneth M Bixler,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:21.20,Doug P Adamavich,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Individual Medley,SCY,M,35-39,2:28.38,Bowen M Johnson,,Polar Bear Meet,2006,5
+ARIZ,400 Y Individual Medley,SCY,M,35-39,4:34.93,Kurt F Dickson,,Arizona State SCY Champs,2006,1
+ARIZ,400 Y Individual Medley,SCY,M,35-39,4:58.32,Leslie F Bleamaster,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,M,40-44,26.73,Alex E Gort,,Polar Bear Meet,2006,1
+ARIZ,50 Y Freestyle,SCY,M,40-44,27.74,William J Bielat,,Polar Bear Meet,2006,2
+ARIZ,50 Y Freestyle,SCY,M,40-44,29.37,Steve L Landau,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Freestyle,SCY,M,40-44,36.31,Douglas D Everett,,Polar Bear Meet,2006,4
+ARIZ,100 Y Freestyle,SCY,M,40-44,51.37,Marty Sarussi,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,40-44,58.24,Tony E Bathey,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:02.06,William J Bielat,,Polar Bear Meet,2006,3
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:05.75,Steve L Landau,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:22.09,Douglas D Everett,,Polar Bear Meet,2006,5
+ARIZ,200 Y Freestyle,SCY,M,40-44,1:58.97,Marty Sarussi,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:07.23,Tony E Bathey,,Polar Bear Meet,2006,2
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:17.22,William J Bielat,,Polar Bear Meet,2006,3
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:27.51,Steve L Landau,,Arizona State SCY Champs,2006,4
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:31.01,Marty Sarussi,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:37.71,Mark D Hickman,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:49.06,Tony E Bathey,,Polar Bear Meet,2006,3
+ARIZ,500 Y Freestyle,SCY,M,40-44,6:12.65,Alex E Gort,,Polar Bear Meet,2006,4
+ARIZ,1000 Y Freestyle,SCY,M,40-44,12:07.66,Mark D Hickman,,Polar Bear Meet,2006,1
+ARIZ,1000 Y Freestyle,SCY,M,40-44,13:16.16,Alex E Gort,,Polar Bear Meet,2006,2
+ARIZ,1650 Y Freestyle,SCY,M,40-44,29:52.14,Douglas D Everett,,Polar Bear Meet,2006,1
+ARIZ,50 Y Backstroke,SCY,M,40-44,58.38,Douglas D Everett,,Polar Bear Meet,2006,1
+ARIZ,100 Y Backstroke,SCY,M,40-44,1:00.81,Mark D Hickman,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,40-44,2:02.39,Douglas D Everett,,Polar Bear Meet,2006,2
+ARIZ,200 Y Backstroke,SCY,M,40-44,2:14.26,Mark D Hickman,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,M,40-44,2:42.87,Alex E Gort,,Polar Bear Meet,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,40-44,28.55,Aaron J Drake,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,40-44,36.59,Steve L Landau,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,M,40-44,1:06.03,Aaron J Drake,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,40-44,1:22.55,Steve L Landau,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Breaststroke,SCY,M,40-44,2:33.45,Aaron J Drake,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,40-44,25.96,Marty Sarussi,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,40-44,27.24,Aaron J Drake,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,40-44,57.14,Marty Sarussi,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,40-44,1:03.18,Mark D Hickman,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:01.75,Aaron J Drake,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:15.76,Mark D Hickman,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:19.25,Aaron J Drake,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:34.00,Alex E Gort,,Polar Bear Meet,2006,3
+ARIZ,400 Y Individual Medley,SCY,M,40-44,5:00.66,Mark D Hickman,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,45-49,25.54,Gordon A Curran,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,45-49,27.82,Craig S Wheeler,,Polar Bear Meet,2006,2
+ARIZ,50 Y Freestyle,SCY,M,45-49,29.94,Phil Dillenburg,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Freestyle,SCY,M,45-49,30.38,William E Shaw,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Freestyle,SCY,M,45-49,30.62,Douglas D Miller,,Polar Bear Meet,2006,5
+ARIZ,50 Y Freestyle,SCY,M,45-49,31.79,Daryl G Long,,Arizona State SCY Champs,2006,6
+ARIZ,100 Y Freestyle,SCY,M,45-49,53.99,JIM S STITES,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,45-49,54.16,Sean P Bailey,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:04.22,Craig S Wheeler,,Polar Bear Meet,2006,3
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:09.26,William E Shaw,,Arizona State SCY Champs,2006,4
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:14.47,Daryl G Long,,Arizona State SCY Champs,2006,5
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:21.44,Robert Olson,,Arizona State SCY Champs,2006,6
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:51.43,SCOTT D SHAKE,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:58.42,JIM S STITES,,SW Zone SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,M,45-49,2:05.73,Gordon A Curran,,Polar Bear Meet,2006,3
+ARIZ,200 Y Freestyle,SCY,M,45-49,2:40.81,Phil Dillenburg,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Freestyle,SCY,M,45-49,2:53.42,Daryl G Long,,Arizona State SCY Champs,2006,5
+ARIZ,500 Y Freestyle,SCY,M,45-49,5:02.16,SCOTT D SHAKE,,SW Zone SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,45-49,5:22.20,JIM S STITES,,SW Zone SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,45-49,5:42.86,Bob Lanning,,Arizona State SCY Champs,2006,3
+ARIZ,500 Y Freestyle,SCY,M,45-49,7:24.55,William E Shaw,,Arizona State SCY Champs,2006,4
+ARIZ,1000 Y Freestyle,SCY,M,45-49,11:15.39,JIM S STITES,,SW Zone SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,M,45-49,11:16.40,SCOTT D SHAKE,,SW Zone SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,M,45-49,15:21.77,William E Shaw,,Arizona State SCY Champs,2006,3
+ARIZ,1000 Y Freestyle,SCY,M,45-49,15:28.82,Phil Dillenburg,,Arizona State SCY Champs,2006,4
+ARIZ,1650 Y Freestyle,SCY,M,45-49,20:20.77,Bob Lanning,,Arizona State SCY Champs,2006,1
+ARIZ,1650 Y Freestyle,SCY,M,45-49,23:49.16,Douglas D Miller,,Polar Bear Meet,2006,2
+ARIZ,50 Y Backstroke,SCY,M,45-49,27.30,SCOTT D SHAKE,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,M,45-49,29.30,Sean P Bailey,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Backstroke,SCY,M,45-49,57.06,SCOTT D SHAKE,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,45-49,1:09.89,Gordon A Curran,,Polar Bear Meet,2006,2
+ARIZ,100 Y Backstroke,SCY,M,45-49,1:31.68,Douglas D Miller,,Polar Bear Meet,2006,3
+ARIZ,200 Y Backstroke,SCY,M,45-49,2:02.22,SCOTT D SHAKE,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,45-49,32.64,Craig S Wheeler,,Polar Bear Meet,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,45-49,33.12,Bob Lanning,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,45-49,34.38,Robert Olson,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:10.13,Craig S Wheeler,,Polar Bear Meet,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:12.06,Bob Lanning,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:20.69,Robert Olson,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Breaststroke,SCY,M,45-49,3:20.69,Brian J Douglas,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,45-49,28.22,Gordon A Curran,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,45-49,55.94,Sean P Bailey,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,45-49,1:00.62,JIM S STITES,,SW Zone SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,45-49,1:03.76,Gordon A Curran,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Butterfly,SCY,M,45-49,2:17.01,JIM S STITES,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:00.86,Sean P Bailey,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:05.99,Gordon A Curran,,Polar Bear Meet,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:20.27,Douglas D Miller,,Polar Bear Meet,2006,3
+ARIZ,200 Y Individual Medley,SCY,M,45-49,2:23.01,Gordon A Curran,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,45-49,3:15.12,Phil Dillenburg,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Freestyle,SCY,M,50-54,23.04,BARRY ROTH,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,50-54,24.40,Ted W Hammond,,Polar Bear Meet,2006,2
+ARIZ,50 Y Freestyle,SCY,M,50-54,26.89,Terry Lavery,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Freestyle,SCY,M,50-54,30.46,Curt G Zacharias,,Polar Bear Meet,2006,4
+ARIZ,50 Y Freestyle,SCY,M,50-54,33.76,ROBERT J LIOTTA,,SW Zone SCY Champs,2006,5
+ARIZ,50 Y Freestyle,SCY,M,50-54,36.04,R A Mitchell,,Arizona State SCY Champs,2006,6
+ARIZ,100 Y Freestyle,SCY,M,50-54,51.39,BARRY ROTH,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,50-54,52.73,Ted W Hammond,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,M,50-54,58.52,Terry Lavery,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:07.65,Curt G Zacharias,,Polar Bear Meet,2006,4
+ARIZ,200 Y Freestyle,SCY,M,50-54,1:56.09,BARRY ROTH,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:03.83,Bob Ditolla,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:04.16,Hunter Yost,,Arizona State SCY Champs,2006,3
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:14.31,Terry Lavery,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:30.97,Curt G Zacharias,,Polar Bear Meet,2006,5
+ARIZ,500 Y Freestyle,SCY,M,50-54,5:23.23,BARRY ROTH,,SW Zone SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,50-54,5:44.82,Bob Ditolla,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,50-54,6:46.87,Curt G Zacharias,,Polar Bear Meet,2006,3
+ARIZ,1000 Y Freestyle,SCY,M,50-54,12:15.38,Bob Ditolla,,Arizona State SCY Champs,2006,1
+ARIZ,1000 Y Freestyle,SCY,M,50-54,13:48.65,Curt G Zacharias,,Polar Bear Meet,2006,2
+ARIZ,1650 Y Freestyle,SCY,M,50-54,20:23.88,Robert J Ditolla,,Polar Bear Meet,2006,1
+ARIZ,50 Y Backstroke,SCY,M,50-54,34.28,Robert J Liotta,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,50-54,1:10.06,Hunter Yost,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,50-54,1:18.15,Robert J Liotta,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Backstroke,SCY,M,50-54,2:26.16,Hunter Yost,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,50-54,31.59,BARRY ROTH,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,50-54,32.08,ROBERT J LIOTTA,,SW Zone SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,50-54,1:01.54,R A Mitchell,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:09.73,ROBERT J LIOTTA,,SW Zone SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,M,50-54,2:34.12,ROBERT J LIOTTA,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,50-54,26.76,Ted W Hammond,,Polar Bear Meet,2006,1
+ARIZ,50 Y Butterfly,SCY,M,50-54,28.36,Bob Ditolla,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,50-54,1:02.02,Ted W Hammond,,Polar Bear Meet,2006,1
+ARIZ,100 Y Butterfly,SCY,M,50-54,1:02.87,Bob Ditolla,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Butterfly,SCY,M,50-54,2:20.53,Bob Ditolla,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Butterfly,SCY,M,50-54,2:40.64,Robert J Liotta,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:02.15,BARRY ROTH,,SW Zone SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:05.98,Ted W Hammond,,Polar Bear Meet,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:07.02,Bob Ditolla,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:10.86,Terry Lavery,,Arizona State SCY Champs,2006,4
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:25.65,Bob Ditolla,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:28.10,Hunter Yost,,Polar Bear Meet,2006,2
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:32.21,Robert J Liotta,,Arizona State SCY Champs,2006,3
+ARIZ,400 Y Individual Medley,SCY,M,50-54,5:15.03,Bob Ditolla,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,55-59,27.62,R P Jones,,Polar Bear Meet,2006,1
+ARIZ,50 Y Freestyle,SCY,M,55-59,28.11,James F Bly,,Polar Bear Meet,2006,2
+ARIZ,50 Y Freestyle,SCY,M,55-59,28.66,Hop Bailey,,SW Zone SCY Champs,2006,3
+ARIZ,50 Y Freestyle,SCY,M,55-59,38.36,Rick Shaffer,,Arizona State SCY Champs,2006,4
+ARIZ,50 Y Freestyle,SCY,M,55-59,44.26,James L Coleman,,Arizona State SCY Champs,2006,5
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:00.67,R P Jones,,Polar Bear Meet,2006,1
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:01.93,James F Bly,,Polar Bear Meet,2006,2
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:02.73,Hop Bailey,,SW Zone SCY Champs,2006,3
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:42.31,James L Coleman,,Polar Bear Meet,2006,4
+ARIZ,200 Y Freestyle,SCY,M,55-59,2:15.30,R P Jones,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,55-59,2:17.93,Hop Bailey,,SW Zone SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,55-59,6:03.75,Hop Bailey,,SW Zone SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,55-59,6:16.29,R P Jones,,Polar Bear Meet,2006,2
+ARIZ,1650 Y Freestyle,SCY,M,55-59,21:03.77,R P Jones,,Arizona State SCY Champs,2006,1
+ARIZ,1650 Y Freestyle,SCY,M,55-59,29:20.53,Rick Shaffer,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,M,55-59,1:00.23,Rick Shaffer,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,55-59,33.18,Hop Bailey,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,55-59,1:14.12,James F Bly,,Polar Bear Meet,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,55-59,2:38.38,Hop Bailey,,SW Zone SCY Champs,2006,1
+ARIZ,400 Y Individual Medley,SCY,M,55-59,5:29.10,Hop Bailey,,SW Zone SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,60-64,30.61,Mark A Paulsen,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:09.09,Mark A Paulsen,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,60-64,2:37.89,Mark A Paulsen,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,60-64,2:45.23,Bob L Jones,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,60-64,7:02.51,Bob L Jones,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,60-64,7:11.95,Mark A Paulsen,,Arizona State SCY Champs,2006,2
+ARIZ,1000 Y Freestyle,SCY,M,60-64,14:42.50,Mark A Paulsen,,Polar Bear Meet,2006,1
+ARIZ,1650 Y Freestyle,SCY,M,60-64,24:03.96,Bob L Jones,,Arizona State SCY Champs,2006,1
+ARIZ,1650 Y Freestyle,SCY,M,60-64,25:07.86,Mark A Paulsen,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,M,60-64,44.90,Bob L Jones,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,60-64,1:33.59,Bob L Jones,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,M,60-64,3:47.61,Mark A Paulsen,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,60-64,35.04,Mark A Paulsen,,Polar Bear Meet,2006,1
+ARIZ,50 Y Butterfly,SCY,M,60-64,42.29,Bob L Jones,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Butterfly,SCY,M,60-64,1:39.78,Mark A Paulsen,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Butterfly,SCY,M,60-64,3:48.07,Mark A Paulsen,,Polar Bear Meet,2006,1
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:13.45,Frank E Eissing,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:14.07,Richard J LeRoy,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Freestyle,SCY,M,65-69,2:47.46,Richard J LeRoy,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,65-69,2:52.61,David B Jacobs,,Arizona State SCY Champs,2006,2
+ARIZ,500 Y Freestyle,SCY,M,65-69,7:19.13,Richard J LeRoy,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,65-69,8:47.75,David B Jacobs,,Arizona State SCY Champs,2006,2
+ARIZ,1650 Y Freestyle,SCY,M,65-69,26:52.00,David B Jacobs,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,M,65-69,35.96,Art R Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Backstroke,SCY,M,65-69,39.29,Richard J LeRoy,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:22.63,Art R Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:29.63,Richard J LeRoy,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Backstroke,SCY,M,65-69,3:09.55,Art R Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Backstroke,SCY,M,65-69,3:22.46,Richard J LeRoy,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,65-69,42.23,Frank E Eissing,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,65-69,1:38.68,Frank E Eissing,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Individual Medley,SCY,M,65-69,1:26.85,Frank E Eissing,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,65-69,3:46.96,Richard J LeRoy,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,70-74,28.93,Ron Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Freestyle,SCY,M,70-74,34.00,William R Bond,,Arizona State SCY Champs,2006,2
+ARIZ,50 Y Backstroke,SCY,M,70-74,36.26,Ron Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,70-74,37.21,Ron Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,70-74,42.65,William R Bond,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Breaststroke,SCY,M,70-74,1:23.44,Ron Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,70-74,1:45.52,William R Bond,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Breaststroke,SCY,M,70-74,4:00.03,William R Bond,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,70-74,32.44,Ron Johnson,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,70-74,38.81,William R Bond,,Arizona State SCY Champs,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,70-74,1:47.14,William R Bond,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Freestyle,SCY,M,75-79,3:46.40,Lou Silverstein,,Arizona State SCY Champs,2006,1
+ARIZ,500 Y Freestyle,SCY,M,75-79,9:26.77,Lou Silverstein,,2006 USMS Short Course Nationals,2006,1
+ARIZ,1650 Y Freestyle,SCY,M,75-79,33:44.23,Lou Silverstein,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Backstroke,SCY,M,75-79,1:46.02,Lou Silverstein,,2006 USMS Short Course Nationals,2006,1
+ARIZ,200 Y Backstroke,SCY,M,75-79,3:48.92,Lou Silverstein,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,75-79,42.61,F H Ted Haartz,,2006 USMS Short Course Nationals,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,75-79,46.35,Daniel F Gruender,,Polar Bear Meet,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,75-79,47.11,Gordon H Gillin,,Arizona State SCY Champs,2006,3
+ARIZ,100 Y Breaststroke,SCY,M,75-79,1:34.95,F H Ted Haartz,,2006 USMS Short Course Nationals,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,75-79,1:40.18,Daniel F Gruender,,Polar Bear Meet,2006,2
+ARIZ,200 Y Breaststroke,SCY,M,75-79,3:33.22,F H Ted Haartz,,2006 USMS Short Course Nationals,2006,1
+ARIZ,200 Y Breaststroke,SCY,M,75-79,3:46.67,Dan Gruender,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Breaststroke,SCY,M,75-79,3:53.57,Gordon H Gillin,,Arizona State SCY Champs,2006,3
+ARIZ,50 Y Butterfly,SCY,M,75-79,41.26,Gordon H Gillin,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,75-79,1:40.48,Gordon H Gillin,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Butterfly,SCY,M,75-79,2:42.53,Lou Silverstein,,Arizona State SCY Champs,2006,2
+ARIZ,200 Y Butterfly,SCY,M,75-79,3:43.47,Gordon H Gillin,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Butterfly,SCY,M,75-79,5:51.54,Lou Silverstein,,2006 USMS Short Course Nationals,2006,2
+ARIZ,100 Y Individual Medley,SCY,M,75-79,1:31.61,Gordon H Gillin,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,75-79,3:28.96,Gordon H Gillin,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Individual Medley,SCY,M,75-79,4:50.99,Lou Silverstein,,Arizona State SCY Champs,2006,2
+ARIZ,400 Y Individual Medley,SCY,M,75-79,7:24.24,Gordon H Gillin,,Polar Bear Meet,2006,1
+ARIZ,400 Y Individual Medley,SCY,M,75-79,9:16.40,Lou Silverstein,,2006 USMS Short Course Nationals,2006,2
+ARIZ,50 Y Breaststroke,SCY,M,80-84,1:01.63,Art Kelley,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,80-84,2:17.13,Art Kelley,,Arizona State SCY Champs,2006,1
+ARIZ,200 Y Breaststroke,SCY,M,80-84,5:00.03,Art Kelley,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Breaststroke,SCY,M,85-89,48.12,Max Von Isser,,Arizona State SCY Champs,2006,1
+ARIZ,100 Y Breaststroke,SCY,M,85-89,1:57.07,Max Von Isser,,Arizona State SCY Champs,2006,1
+ARIZ,50 Y Butterfly,SCY,M,85-89,43.02,Max Von Isser,,Polar Bear Meet,2006,1

@@ -1,0 +1,840 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BCTM,50 M Freestyle,SCM,W,18-24,33.38,Brittney R Villalva,,5th Bearcat Masters SCM Invitational,2012,1
+NYCH,50 M Freestyle,SCM,W,18-24,33.63,Lauren Terrien,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,50 M Freestyle,SCM,W,18-24,34.24,Lillian Polatchek,,5th Bearcat Masters SCM Invitational,2012,3
+BCTM,50 M Freestyle,SCM,W,18-24,34.62,Rachel M Abis,,5th Bearcat Masters SCM Invitational,2012,4
+NYCH,100 M Freestyle,SCM,W,18-24,1:10.45,Lauren Terrien,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,100 M Freestyle,SCM,W,18-24,1:17.83,Rachel M Abis,,5th Bearcat Masters SCM Invitational,2012,2
+CIBB,100 M Freestyle,SCM,W,18-24,1:18.75,Elena Pavlova,,AGUA Masters SC Meter Sprint Classic,2012,3
+REDT,200 M Freestyle,SCM,W,18-24,2:51.31,Heather L Appleby,,Aguapalooza II,2012,1
+BCTM,50 M Backstroke,SCM,W,18-24,44.83,Melody Tran,,5th Bearcat Masters SCM Invitational,2012,1
+BCTM,100 M Backstroke,SCM,W,18-24,1:37.81,Melody Tran,,5th Bearcat Masters SCM Invitational,2012,1
+BCTM,50 M Breaststroke,SCM,W,18-24,38.13,Lindsay G Hall,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,50 M Breaststroke,SCM,W,18-24,42.31,Lauren Terrien,,AGUA Masters SC Meter Sprint Classic,2012,2
+BCTM,50 M Breaststroke,SCM,W,18-24,42.71,Brittney R Villalva,,5th Bearcat Masters SCM Invitational,2012,3
+CIBB,50 M Breaststroke,SCM,W,18-24,46.14,Elena Pavlova,,AGUA Masters SC Meter Sprint Classic,2012,4
+BCTM,100 M Breaststroke,SCM,W,18-24,1:23.22,Lindsay G Hall,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,100 M Breaststroke,SCM,W,18-24,1:37.21,Lauren Terrien,,AGUA Masters SC Meter Sprint Classic,2012,2
+CIBB,100 M Breaststroke,SCM,W,18-24,1:40.32,Elena Pavlova,,AGUA Masters SC Meter Sprint Classic,2012,3
+UNAT,50 M Butterfly,SCM,W,18-24,38.30,Lillian Polatchek,,5th Bearcat Masters SCM Invitational,2012,1
+BCTM,50 M Butterfly,SCM,W,18-24,40.58,Melody Tran,,5th Bearcat Masters SCM Invitational,2012,2
+CIBB,50 M Butterfly,SCM,W,18-24,48.14,Elena Pavlova,,AGUA Masters SC Meter Sprint Classic,2012,3
+BCTM,100 M Individual Medley,SCM,W,18-24,1:17.07,Lindsay G Hall,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Individual Medley,SCM,W,18-24,1:28.46,Lillian Polatchek,,5th Bearcat Masters SCM Invitational,2012,2
+BCTM,100 M Individual Medley,SCM,W,18-24,1:31.17,Brittney R Villalva,,5th Bearcat Masters SCM Invitational,2012,3
+BCTM,100 M Individual Medley,SCM,W,18-24,1:40.04,Melody Tran,,5th Bearcat Masters SCM Invitational,2012,4
+NYCH,50 M Freestyle,SCM,W,25-29,29.11,Melanie Andorfer,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Freestyle,SCM,W,25-29,30.58,Rachel McShane,,Aguapalooza II,2012,2
+NYCH,50 M Freestyle,SCM,W,25-29,30.82,Julia J Davis,,AGUA Masters SC Meter Sprint Classic,2012,3
+AGUA,50 M Freestyle,SCM,W,25-29,31.83,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2012,4
+NYCH,50 M Freestyle,SCM,W,25-29,32.25,Gabrielle A Nadig,,AGUA Masters SC Meter Sprint Classic,2012,5
+REDT,50 M Freestyle,SCM,W,25-29,32.41,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2012,6
+NYCH,50 M Freestyle,SCM,W,25-29,32.98,Jill E Bentley,,Aguapalooza II,2012,7
+UNAT,50 M Freestyle,SCM,W,25-29,32.99,Ariel Brown,,AGUA Masters SC Meter Sprint Classic,2012,8
+AGUA,50 M Freestyle,SCM,W,25-29,34.02,Lyndsay R Hodge,,AGUA Masters SC Meter Sprint Classic,2012,9
+TNYA,50 M Freestyle,SCM,W,25-29,36.77,Kana Yamamoto,,Aguapalooza II,2012,10
+TNYA,50 M Freestyle,SCM,W,25-29,42.70,Zofia Bogusz,,AGUA Masters SC Meter Sprint Classic,2012,11
+NYCH,50 M Freestyle,SCM,W,25-29,56.21,Randi Eichenbaum,,AGUA Masters SC Meter Sprint Classic,2012,12
+NYCH,100 M Freestyle,SCM,W,25-29,1:03.92,Melanie Andorfer,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Freestyle,SCM,W,25-29,1:05.17,Rachel McShane,,Aguapalooza II,2012,2
+AGUA,100 M Freestyle,SCM,W,25-29,1:08.29,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2012,3
+NYCH,100 M Freestyle,SCM,W,25-29,1:08.52,Julia J Davis,,AGUA Masters SC Meter Sprint Classic,2012,4
+REDT,100 M Freestyle,SCM,W,25-29,1:10.04,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2012,5
+AGUA,100 M Freestyle,SCM,W,25-29,1:12.85,Lyndsay R Hodge,,AGUA Masters SC Meter Sprint Classic,2012,6
+NYCH,100 M Freestyle,SCM,W,25-29,1:13.50,Jill E Bentley,,Aguapalooza II,2012,7
+TNYA,100 M Freestyle,SCM,W,25-29,1:13.81,Mariko Watt,,Aguapalooza II,2012,8
+UNAT,100 M Freestyle,SCM,W,25-29,1:14.57,Claire Gerard,,Aguapalooza II,2012,9
+TNYA,100 M Freestyle,SCM,W,25-29,1:37.74,Zofia Bogusz,,AGUA Masters SC Meter Sprint Classic,2012,10
+TNYA,100 M Freestyle,SCM,W,25-29,1:39.35,Judy Stephens,,Aguapalooza II,2012,11
+AGUA,200 M Freestyle,SCM,W,25-29,2:29.38,Mikki Columbus,,Aguapalooza II,2012,1
+UNAT,200 M Freestyle,SCM,W,25-29,2:34.31,Rachel McShane,,Aguapalooza II,2012,2
+REDT,200 M Freestyle,SCM,W,25-29,3:03.77,Laura Beth Lincoln,,5th Bearcat Masters SCM Invitational,2012,3
+NYCH,400 M Freestyle,SCM,W,25-29,4:54.82,Melanie Andorfer,,Aguapalooza II,2012,1
+BCTM,400 M Freestyle,SCM,W,25-29,5:37.43,Chrissy Mitakakis,,5th Bearcat Masters SCM Invitational,2012,2
+REDT,50 M Backstroke,SCM,W,25-29,31.12,Sally Cha,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Backstroke,SCM,W,25-29,36.14,Mikki Columbus,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,50 M Backstroke,SCM,W,25-29,40.04,Lyndsay R Hodge,,AGUA Masters SC Meter Sprint Classic,2012,3
+REDT,100 M Backstroke,SCM,W,25-29,1:07.39,Sally Cha,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Backstroke,SCM,W,25-29,1:14.70,Mikki Columbus,,Aguapalooza II,2012,2
+TNYA,100 M Backstroke,SCM,W,25-29,1:18.84,Jess Jiang,,Aguapalooza II,2012,3
+REDT,100 M Backstroke,SCM,W,25-29,1:19.42,Lindsay R Messina,,Aguapalooza II,2012,4
+AGUA,100 M Backstroke,SCM,W,25-29,1:19.77,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2012,5
+NYCH,100 M Backstroke,SCM,W,25-29,1:22.18,Gabrielle A Nadig,,AGUA Masters SC Meter Sprint Classic,2012,6
+UNAT,100 M Backstroke,SCM,W,25-29,1:24.94,Claire Gerard,,Aguapalooza II,2012,7
+AGUA,100 M Backstroke,SCM,W,25-29,1:26.54,Lyndsay R Hodge,,AGUA Masters SC Meter Sprint Classic,2012,8
+REDT,200 M Backstroke,SCM,W,25-29,3:38.30,Laura Beth Lincoln,,5th Bearcat Masters SCM Invitational,2012,1
+NYCH,50 M Breaststroke,SCM,W,25-29,42.19,Gabrielle A Nadig,,AGUA Masters SC Meter Sprint Classic,2012,1
+REDT,50 M Breaststroke,SCM,W,25-29,49.33,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,100 M Breaststroke,SCM,W,25-29,1:21.62,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Breaststroke,SCM,W,25-29,1:34.62,Jess Jiang,,Aguapalooza II,2012,2
+NYCH,100 M Breaststroke,SCM,W,25-29,1:35.18,Jill E Bentley,,Aguapalooza II,2012,3
+BCTM,100 M Breaststroke,SCM,W,25-29,1:36.17,Hannah P Gibson,,AGUA Masters SC Meter Sprint Classic,2012,4
+REDT,100 M Breaststroke,SCM,W,25-29,1:42.59,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2012,5
+REDT,200 M Breaststroke,SCM,W,25-29,3:53.81,Laura Beth Lincoln,,5th Bearcat Masters SCM Invitational,2012,1
+REDT,50 M Butterfly,SCM,W,25-29,29.69,Sally Cha,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,50 M Butterfly,SCM,W,25-29,31.56,Melanie Andorfer,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,50 M Butterfly,SCM,W,25-29,34.04,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2012,3
+BCTM,50 M Butterfly,SCM,W,25-29,34.36,Chrissy Mitakakis,,5th Bearcat Masters SCM Invitational,2012,4
+REDT,50 M Butterfly,SCM,W,25-29,34.73,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2012,5
+BCTM,50 M Butterfly,SCM,W,25-29,37.69,Hannah P Gibson,,AGUA Masters SC Meter Sprint Classic,2012,6
+UNAT,50 M Butterfly,SCM,W,25-29,39.89,Ariel Brown,,AGUA Masters SC Meter Sprint Classic,2012,7
+NYCH,100 M Butterfly,SCM,W,25-29,1:10.67,Melanie Andorfer,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Butterfly,SCM,W,25-29,1:15.22,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,100 M Butterfly,SCM,W,25-29,1:16.03,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2012,3
+REDT,100 M Butterfly,SCM,W,25-29,1:17.94,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2012,4
+REDT,100 M Butterfly,SCM,W,25-29,1:21.15,Lindsay R Messina,,Aguapalooza II,2012,5
+UNAT,100 M Butterfly,SCM,W,25-29,1:28.31,Claire Gerard,,Aguapalooza II,2012,6
+REDT,200 M Butterfly,SCM,W,25-29,3:48.63,Laura Beth Lincoln,,5th Bearcat Masters SCM Invitational,2012,1
+UNAT,100 M Individual Medley,SCM,W,25-29,1:13.27,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Individual Medley,SCM,W,25-29,1:16.40,Mikki Columbus,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,100 M Individual Medley,SCM,W,25-29,1:19.08,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2012,3
+NYCH,100 M Individual Medley,SCM,W,25-29,1:21.66,Gabrielle A Nadig,,AGUA Masters SC Meter Sprint Classic,2012,4
+BCTM,100 M Individual Medley,SCM,W,25-29,1:28.51,Hannah P Gibson,,AGUA Masters SC Meter Sprint Classic,2012,5
+UNAT,100 M Individual Medley,SCM,W,25-29,1:29.23,Ariel Brown,,AGUA Masters SC Meter Sprint Classic,2012,6
+UNAT,200 M Individual Medley,SCM,W,25-29,2:36.24,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,200 M Individual Medley,SCM,W,25-29,2:54.73,Jess Jiang,,Aguapalooza II,2012,2
+UNAT,200 M Individual Medley,SCM,W,25-29,3:03.50,Claire Gerard,,Aguapalooza II,2012,3
+TNYA,200 M Individual Medley,SCM,W,25-29,3:06.51,Mariko Watt,,Aguapalooza II,2012,4
+REDT,200 M Individual Medley,SCM,W,25-29,3:25.25,Laura Beth Lincoln,,5th Bearcat Masters SCM Invitational,2012,5
+FISH,50 M Freestyle,SCM,W,30-34,31.71,Shannon Mulcahy,,4th Annual UVAC Leaf Peepers Masters Meet,2012,1
+AGUA,50 M Freestyle,SCM,W,30-34,32.50,Sarah Wierszalowski,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,50 M Freestyle,SCM,W,30-34,32.86,Marguerite P Verga,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,50 M Freestyle,SCM,W,30-34,33.18,Elizabeth Marquez,,Aguapalooza II,2012,4
+REDT,50 M Freestyle,SCM,W,30-34,33.57,Erin M Dougherty,,Aguapalooza II,2012,5
+REDT,50 M Freestyle,SCM,W,30-34,35.05,Rachel F Cohen,,AGUA Masters SC Meter Sprint Classic,2012,6
+REDT,50 M Freestyle,SCM,W,30-34,35.20,Kacey J Koeppel,,AGUA Masters SC Meter Sprint Classic,2012,7
+LIEM,50 M Freestyle,SCM,W,30-34,36.22,Alaine Caccavallo,,AGUA Masters SC Meter Sprint Classic,2012,8
+TNYA,50 M Freestyle,SCM,W,30-34,36.91,Aneka Flamm,,AGUA Masters SC Meter Sprint Classic,2012,9
+NYCH,50 M Freestyle,SCM,W,30-34,36.99,Gilda Dobrica,,AGUA Masters SC Meter Sprint Classic,2012,10
+BCTM,50 M Freestyle,SCM,W,30-34,40.73,Ivy Rauzin,,5th Bearcat Masters SCM Invitational,2012,11
+BCTM,50 M Freestyle,SCM,W,30-34,42.32,Mariya V Vasileva,,5th Bearcat Masters SCM Invitational,2012,12
+BCTM,50 M Freestyle,SCM,W,30-34,43.86,Melissa M Dilluvio,,5th Bearcat Masters SCM Invitational,2012,13
+AGUA,100 M Freestyle,SCM,W,30-34,1:11.31,Sarah Wierszalowski,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Freestyle,SCM,W,30-34,1:13.12,Elizabeth Marquez,,Aguapalooza II,2012,2
+UNAT,100 M Freestyle,SCM,W,30-34,1:13.65,Marguerite P Verga,,AGUA Masters SC Meter Sprint Classic,2012,3
+REDT,100 M Freestyle,SCM,W,30-34,1:17.09,Rachel F Cohen,,AGUA Masters SC Meter Sprint Classic,2012,4
+REDT,100 M Freestyle,SCM,W,30-34,1:18.39,Kacey J Koeppel,,AGUA Masters SC Meter Sprint Classic,2012,5
+LIEM,100 M Freestyle,SCM,W,30-34,1:18.92,Alaine Caccavallo,,AGUA Masters SC Meter Sprint Classic,2012,6
+LIEM,100 M Freestyle,SCM,W,30-34,1:19.60,Adele E Goldberg,,AGUA Masters SC Meter Sprint Classic,2012,7
+TNYA,100 M Freestyle,SCM,W,30-34,1:23.56,Aneka Flamm,,AGUA Masters SC Meter Sprint Classic,2012,8
+REDT,100 M Freestyle,SCM,W,30-34,1:25.65,Hayley Friedman,,AGUA Masters SC Meter Sprint Classic,2012,9
+BCTM,100 M Freestyle,SCM,W,30-34,1:29.13,Mariya V Vasileva,,5th Bearcat Masters SCM Invitational,2012,10
+BCTM,100 M Freestyle,SCM,W,30-34,1:34.38,Melissa M Dilluvio,,5th Bearcat Masters SCM Invitational,2012,11
+BCTM,100 M Freestyle,SCM,W,30-34,1:37.21,Ivy Rauzin,,5th Bearcat Masters SCM Invitational,2012,12
+UNAT,200 M Freestyle,SCM,W,30-34,2:52.92,Adele E Goldberg,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,400 M Freestyle,SCM,W,30-34,4:50.01,Elizabeth Roble,,Aguapalooza II,2012,1
+CHEL,400 M Freestyle,SCM,W,30-34,5:03.93,Taya Rabinowitz,,5th Bearcat Masters SCM Invitational,2012,2
+UNAT,400 M Freestyle,SCM,W,30-34,5:56.58,Adele E Goldberg,,5th Bearcat Masters SCM Invitational,2012,3
+LIEM,400 M Freestyle,SCM,W,30-34,6:15.70,Alaine Caccavallo,,5th Bearcat Masters SCM Invitational,2012,4
+UNAT,50 M Backstroke,SCM,W,30-34,38.57,Marguerite P Verga,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,50 M Backstroke,SCM,W,30-34,49.48,Aneka Flamm,,AGUA Masters SC Meter Sprint Classic,2012,2
+BCTM,50 M Backstroke,SCM,W,30-34,53.40,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Backstroke,SCM,W,30-34,1:15.88,Emma S Hansen,,Aguapalooza II,2012,1
+CHEL,100 M Backstroke,SCM,W,30-34,1:26.09,Taya Rabinowitz,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,100 M Backstroke,SCM,W,30-34,1:26.94,Elizabeth Marquez,,Aguapalooza II,2012,3
+REDT,100 M Backstroke,SCM,W,30-34,1:38.16,Hayley Friedman,,AGUA Masters SC Meter Sprint Classic,2012,4
+LIEM,100 M Backstroke,SCM,W,30-34,1:38.85,Alaine Caccavallo,,5th Bearcat Masters SCM Invitational,2012,5
+AGUA,100 M Backstroke,SCM,W,30-34,1:49.60,Carolina I Bolado,,Aguapalooza II,2012,6
+BCTM,50 M Breaststroke,SCM,W,30-34,51.81,Ivy Rauzin,,5th Bearcat Masters SCM Invitational,2012,1
+REDT,100 M Breaststroke,SCM,W,30-34,1:29.51,Erin M Dougherty,,Aguapalooza II,2012,1
+AGUA,100 M Breaststroke,SCM,W,30-34,1:33.67,Sarah Wierszalowski,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,100 M Breaststroke,SCM,W,30-34,1:37.18,Johanna M Wetherell,,Aguapalooza II,2012,3
+LIEM,100 M Breaststroke,SCM,W,30-34,1:43.83,Alaine Caccavallo,,5th Bearcat Masters SCM Invitational,2012,4
+AGUA,100 M Breaststroke,SCM,W,30-34,1:45.19,Carolina I Bolado,,Aguapalooza II,2012,5
+BCTM,100 M Breaststroke,SCM,W,30-34,2:00.64,Ivy Rauzin,,5th Bearcat Masters SCM Invitational,2012,6
+NYCH,50 M Butterfly,SCM,W,30-34,38.62,Gilda Dobrica,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Butterfly,SCM,W,30-34,40.70,Jaimie Monahan,,5th Bearcat Masters SCM Invitational,2012,2
+LIEM,50 M Butterfly,SCM,W,30-34,42.06,Adele E Goldberg,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,50 M Butterfly,SCM,W,30-34,48.50,Aneka Flamm,,AGUA Masters SC Meter Sprint Classic,2012,4
+BCTM,50 M Butterfly,SCM,W,30-34,52.40,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2012,5
+AGUA,100 M Butterfly,SCM,W,30-34,1:34.75,Carolina I Bolado,,Aguapalooza II,2012,1
+LIEM,100 M Butterfly,SCM,W,30-34,1:34.76,Adele E Goldberg,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,200 M Butterfly,SCM,W,30-34,3:26.82,Adele E Goldberg,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,100 M Individual Medley,SCM,W,30-34,1:22.95,Sarah Wierszalowski,,AGUA Masters SC Meter Sprint Classic,2012,1
+LIEM,100 M Individual Medley,SCM,W,30-34,1:31.62,Alaine Caccavallo,,AGUA Masters SC Meter Sprint Classic,2012,2
+NYCH,100 M Individual Medley,SCM,W,30-34,1:32.16,Gilda Dobrica,,AGUA Masters SC Meter Sprint Classic,2012,3
+UNAT,100 M Individual Medley,SCM,W,30-34,1:39.22,Adele E Goldberg,,5th Bearcat Masters SCM Invitational,2012,4
+REDT,100 M Individual Medley,SCM,W,30-34,1:41.52,Hayley Friedman,,AGUA Masters SC Meter Sprint Classic,2012,5
+BCTM,100 M Individual Medley,SCM,W,30-34,1:46.13,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2012,6
+AGUA,200 M Individual Medley,SCM,W,30-34,2:46.67,Elizabeth Roble,,Aguapalooza II,2012,1
+TNYA,200 M Individual Medley,SCM,W,30-34,2:54.04,Emma S Hansen,,Aguapalooza II,2012,2
+CHEL,200 M Individual Medley,SCM,W,30-34,3:01.10,Taya Rabinowitz,,5th Bearcat Masters SCM Invitational,2012,3
+TNYA,200 M Individual Medley,SCM,W,30-34,3:01.31,Elizabeth Marquez,,Aguapalooza II,2012,4
+REDT,200 M Individual Medley,SCM,W,30-34,3:31.86,Hayley Friedman,,AGUA Masters SC Meter Sprint Classic,2012,5
+FISH,400 M Individual Medley,SCM,W,30-34,5:59.37,Shannon Mulcahy,,4th Annual UVAC Leaf Peepers Masters Meet,2012,1
+REDT,50 M Freestyle,SCM,W,35-39,32.81,Susannah V Levi,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Freestyle,SCM,W,35-39,38.21,Katerina Alevizaki-Dracopoulos,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,100 M Freestyle,SCM,W,35-39,1:13.29,Alexandra Hawkins,,AGUA Masters SC Meter Sprint Classic,2012,1
+REDT,100 M Freestyle,SCM,W,35-39,1:15.01,Susannah V Levi,,AGUA Masters SC Meter Sprint Classic,2012,2
+AQFT,100 M Freestyle,SCM,W,35-39,1:48.65,Kristen Kastrinos,,Aguapalooza II,2012,3
+TNYA,200 M Freestyle,SCM,W,35-39,2:38.05,Amanda S Eckler,,Aguapalooza II,2012,1
+TNYA,400 M Freestyle,SCM,W,35-39,5:32.71,Amanda S Eckler,,Aguapalooza II,2012,1
+REDT,50 M Backstroke,SCM,W,35-39,38.04,Alexandra Hawkins,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Backstroke,SCM,W,35-39,49.59,Katerina Alevizaki-Dracopoulos,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,100 M Backstroke,SCM,W,35-39,1:19.52,Alexandra Hawkins,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Backstroke,SCM,W,35-39,1:32.38,Jessica B Watters,,5th Bearcat Masters SCM Invitational,2012,2
+REDT,50 M Breaststroke,SCM,W,35-39,45.80,Susannah V Levi,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Breaststroke,SCM,W,35-39,49.94,Katerina Alevizaki-Dracopoulos,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,100 M Breaststroke,SCM,W,35-39,1:54.72,Katerina Alevizaki-Dracopoulos,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Individual Medley,SCM,W,35-39,1:32.98,Jessica B Watters,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,200 M Individual Medley,SCM,W,35-39,3:25.22,Jessica B Watters,,5th Bearcat Masters SCM Invitational,2012,1
+METR,50 M Freestyle,SCM,W,40-44,33.56,Natalie Penny,,Aguapalooza II,2012,1
+TNYA,50 M Freestyle,SCM,W,40-44,36.03,Elisabeth A Turnbull-Brown,,Aguapalooza II,2012,2
+METR,50 M Freestyle,SCM,W,40-44,40.59,Josephine A Piccinic,,Aguapalooza II,2012,3
+METR,100 M Freestyle,SCM,W,40-44,1:09.43,Angelika Cruz,,Aguapalooza II,2012,1
+METR,100 M Freestyle,SCM,W,40-44,1:30.44,Josephine A Piccinic,,Aguapalooza II,2012,2
+METR,200 M Freestyle,SCM,W,40-44,2:49.41,Natalie Penny,,Aguapalooza II,2012,1
+TNYA,200 M Freestyle,SCM,W,40-44,2:59.60,Elisabeth A Turnbull-Brown,,Aguapalooza II,2012,2
+METR,200 M Freestyle,SCM,W,40-44,3:20.22,Josephine A Piccinic,,Aguapalooza II,2012,3
+METR,400 M Freestyle,SCM,W,40-44,5:25.22,Angelika Cruz,,Aguapalooza II,2012,1
+METR,400 M Freestyle,SCM,W,40-44,7:11.81,Josephine A Piccinic,,Aguapalooza II,2012,2
+TNYA,100 M Breaststroke,SCM,W,40-44,1:33.88,Elisabeth A Turnbull-Brown,,Aguapalooza II,2012,1
+BCTM,50 M Freestyle,SCM,W,45-49,27.28,Fall Willeboordse,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,50 M Freestyle,SCM,W,45-49,35.18,Janet Harris,,Aguapalooza II,2012,2
+REDT,50 M Freestyle,SCM,W,45-49,40.88,Nancy Kopans,,Aguapalooza II,2012,3
+TNYA,50 M Freestyle,SCM,W,45-49,43.06,Melinda J Beck,,Aguapalooza II,2012,4
+UNAT,50 M Freestyle,SCM,W,45-49,45.95,Catherine Albert,,AGUA Masters SC Meter Sprint Classic,2012,5
+TNYA,50 M Freestyle,SCM,W,45-49,51.20,Margaret N Schwarz,,Aguapalooza II,2012,6
+BCTM,100 M Freestyle,SCM,W,45-49,1:00.24,Fall Willeboordse,,AGUA Masters SC Meter Sprint Classic,2012,1
+REDT,100 M Freestyle,SCM,W,45-49,1:35.07,Nancy Kopans,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,100 M Freestyle,SCM,W,45-49,1:45.43,Margaret N Schwarz,,Aguapalooza II,2012,3
+AQFT,100 M Freestyle,SCM,W,45-49,1:54.28,Jacqui M Koplik,,Aguapalooza II,2012,4
+METR,200 M Freestyle,SCM,W,45-49,3:46.69,Jenn Sommermann,,Aguapalooza II,2012,1
+TNYA,400 M Freestyle,SCM,W,45-49,7:24.45,Melinda J Beck,,Aguapalooza II,2012,1
+REDT,400 M Freestyle,SCM,W,45-49,7:26.92,Nancy Kopans,,Aguapalooza II,2012,2
+BCTM,50 M Backstroke,SCM,W,45-49,31.12,Fall Willeboordse,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Breaststroke,SCM,W,45-49,38.13,Fall Willeboordse,,5th Bearcat Masters SCM Invitational,2012,1
+REDT,50 M Breaststroke,SCM,W,45-49,58.59,Nancy Kopans,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,100 M Breaststroke,SCM,W,45-49,2:07.91,Melinda J Beck,,Aguapalooza II,2012,1
+BCTM,50 M Butterfly,SCM,W,45-49,30.11,Fall Willeboordse,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Butterfly,SCM,W,45-49,2:14.18,Melinda J Beck,,Aguapalooza II,2012,1
+TNYA,100 M Butterfly,SCM,W,45-49,2:26.80,Margaret N Schwarz,,Aguapalooza II,2012,2
+TNYA,200 M Individual Medley,SCM,W,45-49,3:07.68,Janet Harris,,Aguapalooza II,2012,1
+TNYA,200 M Individual Medley,SCM,W,45-49,4:41.34,Margaret N Schwarz,,Aguapalooza II,2012,2
+TNYA,100 M Freestyle,SCM,W,50-54,1:41.86,Miriam S Tuliao,,Aguapalooza II,2012,1
+AGUA,100 M Freestyle,SCM,W,50-54,1:58.00,Beverly B Pinzon,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,200 M Freestyle,SCM,W,50-54,2:41.73,Hayley E Cort,,Aguapalooza II,2012,1
+AGUA,200 M Freestyle,SCM,W,50-54,3:53.51,Sharon M Snyder,,5th Bearcat Masters SCM Invitational,2012,2
+METR,200 M Freestyle,SCM,W,50-54,4:00.46,Debra Kolitz,,Aguapalooza II,2012,3
+AQFT,400 M Freestyle,SCM,W,50-54,5:24.96,Barbara Cronin-Stagnari,,Aguapalooza II,2012,1
+METR,400 M Freestyle,SCM,W,50-54,8:14.26,Debra Kolitz,,Aguapalooza II,2012,2
+AGUA,50 M Backstroke,SCM,W,50-54,59.00,Beverly B Pinzon,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Breaststroke,SCM,W,50-54,41.86,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Breaststroke,SCM,W,50-54,44.27,Olga Soloviev,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,100 M Breaststroke,SCM,W,50-54,1:32.61,Hayley E Cort,,Aguapalooza II,2012,1
+UNAT,100 M Breaststroke,SCM,W,50-54,1:35.88,Olga Soloviev,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,50 M Butterfly,SCM,W,50-54,51.89,Sharon M Snyder,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Butterfly,SCM,W,50-54,59.73,Beverly B Pinzon,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,100 M Butterfly,SCM,W,50-54,2:04.11,Sharon M Snyder,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,200 M Butterfly,SCM,W,50-54,4:50.61,Sharon M Snyder,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,100 M Individual Medley,SCM,W,50-54,1:25.84,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Individual Medley,SCM,W,50-54,2:10.06,Beverly B Pinzon,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,200 M Individual Medley,SCM,W,50-54,3:00.16,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,200 M Individual Medley,SCM,W,50-54,4:17.32,Miriam S Tuliao,,Aguapalooza II,2012,2
+AGUA,200 M Individual Medley,SCM,W,50-54,4:21.13,Sharon M Snyder,,AGUA Masters SC Meter Sprint Classic,2012,3
+AGUA,50 M Freestyle,SCM,W,55-59,34.83,Joan P Craffey,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,50 M Freestyle,SCM,W,55-59,35.66,Shawn A Ehlers,,Aguapalooza II,2012,2
+LIEM,50 M Freestyle,SCM,W,55-59,37.48,Jill F Friedman,,Aguapalooza II,2012,3
+NYCH,50 M Freestyle,SCM,W,55-59,44.42,Vicky M Harnik,,AGUA Masters SC Meter Sprint Classic,2012,4
+NYCH,50 M Freestyle,SCM,W,55-59,49.14,Claire M Quigley,,Aguapalooza II,2012,5
+UNAT,100 M Freestyle,SCM,W,55-59,1:23.97,Judith A Silverman,,Aguapalooza II,2012,1
+LIEM,100 M Freestyle,SCM,W,55-59,1:28.06,Jill F Friedman,,Aguapalooza II,2012,2
+NYCH,100 M Freestyle,SCM,W,55-59,1:53.14,Claire M Quigley,,Aguapalooza II,2012,3
+AQFT,100 M Freestyle,SCM,W,55-59,2:16.66,Christina Mackay,,Aguapalooza II,2012,4
+AGUA,200 M Freestyle,SCM,W,55-59,2:46.20,Joan P Craffey,,"October Swim Fest, Simmons College",2012,1
+UNAT,200 M Freestyle,SCM,W,55-59,3:12.40,Judith A Silverman,,Aguapalooza II,2012,2
+AGUA,400 M Freestyle,SCM,W,55-59,5:38.66,Joan P Craffey,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,800 M Freestyle,SCM,W,55-59,11:46.84,Joan P Craffey,,2nd Annual Thanksgiving Classic,2012,1
+AGUA,1500 M Freestyle,SCM,W,55-59,22:04.77,Joan P Craffey,,2nd Annual Thanksgiving Classic,2012,1
+AGUA,50 M Backstroke,SCM,W,55-59,39.74,Joan P Craffey,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Backstroke,SCM,W,55-59,1:22.31,Joan P Craffey,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,200 M Backstroke,SCM,W,55-59,2:57.08,Joan P Craffey,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,50 M Breaststroke,SCM,W,55-59,45.76,Joan P Craffey,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Breaststroke,SCM,W,55-59,50.27,Shawn A Ehlers,,5th Bearcat Masters SCM Invitational,2012,2
+NYCH,50 M Breaststroke,SCM,W,55-59,52.67,Vicky M Harnik,,AGUA Masters SC Meter Sprint Classic,2012,3
+AGUA,100 M Breaststroke,SCM,W,55-59,1:49.63,Shawn A Ehlers,,5th Bearcat Masters SCM Invitational,2012,1
+NYCH,100 M Breaststroke,SCM,W,55-59,1:57.01,Vicky M Harnik,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,200 M Individual Medley,SCM,W,55-59,3:01.01,Joan P Craffey,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Freestyle,SCM,W,60-64,35.63,Elizabeth J Merena,,2012 New England LMSC Short Course Meters Championship,2012,1
+CIBB,50 M Freestyle,SCM,W,60-64,53.03,Capri Djatiasmoro,,Aguapalooza II,2012,2
+REDT,100 M Freestyle,SCM,W,60-64,1:32.19,Margot Mann,,AGUA Masters SC Meter Sprint Classic,2012,1
+CIBB,100 M Freestyle,SCM,W,60-64,1:59.28,Capri Djatiasmoro,,Aguapalooza II,2012,2
+TNYA,200 M Freestyle,SCM,W,60-64,3:25.73,Janet Piez,,Aguapalooza II,2012,1
+CIBB,200 M Freestyle,SCM,W,60-64,4:21.17,Capri Djatiasmoro,,Aguapalooza II,2012,2
+TNYA,400 M Freestyle,SCM,W,60-64,6:26.00,Gwen Deely,,Aguapalooza II,2012,1
+TNYA,400 M Freestyle,SCM,W,60-64,7:10.92,Janet Piez,,Aguapalooza II,2012,2
+BCTM,50 M Breaststroke,SCM,W,60-64,46.95,Elizabeth J Merena,,2012 New England LMSC Short Course Meters Championship,2012,1
+BCTM,100 M Breaststroke,SCM,W,60-64,1:44.54,Elizabeth J Merena,,2012 New England LMSC Short Course Meters Championship,2012,1
+TNYA,100 M Breaststroke,SCM,W,60-64,1:55.23,Janet Piez,,Aguapalooza II,2012,2
+BCTM,200 M Breaststroke,SCM,W,60-64,3:49.01,Elizabeth J Merena,,2012 New England LMSC Short Course Meters Championship,2012,1
+REDT,100 M Butterfly,SCM,W,60-64,1:57.27,Margot Mann,,AGUA Masters SC Meter Sprint Classic,2012,1
+REDT,200 M Individual Medley,SCM,W,60-64,3:56.74,Margot Mann,,AGUA Masters SC Meter Sprint Classic,2012,1
+REDT,50 M Freestyle,SCM,W,65-69,42.63,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Freestyle,SCM,W,65-69,43.26,Marcia M Hill,,5th Bearcat Masters SCM Invitational,2012,2
+AGUA,50 M Freestyle,SCM,W,65-69,44.38,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2012,3
+METR,50 M Freestyle,SCM,W,65-69,54.41,Judith C Jacob,,Aguapalooza II,2012,4
+REDT,100 M Freestyle,SCM,W,65-69,1:37.14,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,400 M Freestyle,SCM,W,65-69,7:08.03,Jane Katz,,Aguapalooza II,2012,1
+AGUA,50 M Backstroke,SCM,W,65-69,49.95,Jane Katz,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,50 M Backstroke,SCM,W,65-69,1:00.54,Marcia M Hill,,5th Bearcat Masters SCM Invitational,2012,2
+BCTM,50 M Backstroke,SCM,W,65-69,1:27.74,Nila Shiwnath,,5th Bearcat Masters SCM Invitational,2012,3
+AGUA,100 M Backstroke,SCM,W,65-69,1:49.82,Jane Katz,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,200 M Backstroke,SCM,W,65-69,3:46.38,Jane Katz,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,50 M Breaststroke,SCM,W,65-69,54.89,Marcia M Hill,,2012 Pacific Masters Short Course Meters Championships,2012,1
+AGUA,50 M Breaststroke,SCM,W,65-69,59.93,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,50 M Butterfly,SCM,W,65-69,55.85,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Butterfly,SCM,W,65-69,1:02.41,Marcia M Hill,,5th Bearcat Masters SCM Invitational,2012,2
+REDT,100 M Butterfly,SCM,W,65-69,2:05.14,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Individual Medley,SCM,W,65-69,1:58.63,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,200 M Individual Medley,SCM,W,65-69,3:58.76,Jane Katz,,Aguapalooza II,2012,1
+NYCH,50 M Freestyle,SCM,M,18-24,25.61,Edward Qian,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Freestyle,SCM,M,18-24,26.84,Ryan P Pope,,2012 New England LMSC Short Course Meters Championship,2012,2
+BCTM,50 M Freestyle,SCM,M,18-24,27.55,Chengyin Ye,,AGUA Masters SC Meter Sprint Classic,2012,3
+LIEM,50 M Freestyle,SCM,M,18-24,28.42,Craig Johnson,,AGUA Masters SC Meter Sprint Classic,2012,4
+AGUA,50 M Freestyle,SCM,M,18-24,28.68,David A Benjamin,,AGUA Masters SC Meter Sprint Classic,2012,5
+NYCH,100 M Freestyle,SCM,M,18-24,59.13,Edward Qian,,AGUA Masters SC Meter Sprint Classic,2012,1
+LIEM,100 M Freestyle,SCM,M,18-24,59.78,Craig Johnson,,AGUA Masters SC Meter Sprint Classic,2012,2
+LIEM,100 M Freestyle,SCM,M,18-24,59.92,Mike Garcia,,AGUA Masters SC Meter Sprint Classic,2012,3
+BCTM,100 M Freestyle,SCM,M,18-24,1:01.22,Chengyin Ye,,AGUA Masters SC Meter Sprint Classic,2012,4
+AGUA,100 M Freestyle,SCM,M,18-24,1:02.14,David A Benjamin,,AGUA Masters SC Meter Sprint Classic,2012,5
+BCTM,200 M Freestyle,SCM,M,18-24,2:09.50,Adam Taft,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,400 M Freestyle,SCM,M,18-24,4:46.84,Charles F Ludeke,,Aguapalooza II,2012,1
+TNYA,400 M Freestyle,SCM,M,18-24,5:31.35,John B Thomas,,Aguapalooza II,2012,2
+LIEM,50 M Backstroke,SCM,M,18-24,29.55,Mat Salcedo,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Backstroke,SCM,M,18-24,30.41,Mikey Shiwnath,,5th Bearcat Masters SCM Invitational,2012,2
+LIEM,100 M Backstroke,SCM,M,18-24,1:03.42,Mat Salcedo,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,100 M Backstroke,SCM,M,18-24,1:05.50,Mikey Shiwnath,,5th Bearcat Masters SCM Invitational,2012,2
+BCTM,100 M Backstroke,SCM,M,18-24,1:08.85,Adam Taft,,5th Bearcat Masters SCM Invitational,2012,3
+TNYA,100 M Backstroke,SCM,M,18-24,1:09.31,Charles F Ludeke,,Aguapalooza II,2012,4
+NYCH,100 M Backstroke,SCM,M,18-24,1:11.15,Nick Paganelli,,AGUA Masters SC Meter Sprint Classic,2012,5
+BCTM,200 M Backstroke,SCM,M,18-24,2:19.97,Adam Taft,,5th Bearcat Masters SCM Invitational,2012,1
+LIEM,100 M Breaststroke,SCM,M,18-24,1:16.99,Mike Garcia,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Breaststroke,SCM,M,18-24,1:28.47,David A Benjamin,,AGUA Masters SC Meter Sprint Classic,2012,2
+LIEM,50 M Butterfly,SCM,M,18-24,28.14,Craig Johnson,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,50 M Butterfly,SCM,M,18-24,29.33,Edward Qian,,AGUA Masters SC Meter Sprint Classic,2012,2
+BCTM,50 M Butterfly,SCM,M,18-24,29.38,Chengyin Ye,,AGUA Masters SC Meter Sprint Classic,2012,3
+LIEM,50 M Butterfly,SCM,M,18-24,29.46,Mike Garcia,,AGUA Masters SC Meter Sprint Classic,2012,4
+UNAT,50 M Butterfly,SCM,M,18-24,30.07,Ryan P Pope,,2012 New England LMSC Short Course Meters Championship,2012,5
+BCTM,50 M Butterfly,SCM,M,18-24,30.86,Mikey Shiwnath,,5th Bearcat Masters SCM Invitational,2012,6
+AGUA,50 M Butterfly,SCM,M,18-24,33.86,David A Benjamin,,AGUA Masters SC Meter Sprint Classic,2012,7
+TNYA,100 M Butterfly,SCM,M,18-24,1:03.51,Charles F Ludeke,,Aguapalooza II,2012,1
+BCTM,100 M Butterfly,SCM,M,18-24,1:07.02,Adam Taft,,5th Bearcat Masters SCM Invitational,2012,2
+LIEM,100 M Butterfly,SCM,M,18-24,1:07.37,Craig Johnson,,AGUA Masters SC Meter Sprint Classic,2012,3
+LIEM,100 M Individual Medley,SCM,M,18-24,1:05.00,Mat Salcedo,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Individual Medley,SCM,M,18-24,1:08.19,Ryan P Pope,,2012 New England LMSC Short Course Meters Championship,2012,2
+BCTM,100 M Individual Medley,SCM,M,18-24,1:11.84,Chengyin Ye,,AGUA Masters SC Meter Sprint Classic,2012,3
+NYCH,100 M Individual Medley,SCM,M,18-24,1:13.84,Nick Paganelli,,AGUA Masters SC Meter Sprint Classic,2012,4
+LIEM,100 M Individual Medley,SCM,M,18-24,1:17.58,Mike Garcia,,AGUA Masters SC Meter Sprint Classic,2012,5
+NYCH,200 M Individual Medley,SCM,M,18-24,2:34.71,Nick Paganelli,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Freestyle,SCM,M,25-29,26.32,Brian Ramirez,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,50 M Freestyle,SCM,M,25-29,26.52,Jason S Maschi,,Aguapalooza II,2012,2
+TNYA,50 M Freestyle,SCM,M,25-29,27.50,Ryan Walsh,,Aguapalooza II,2012,3
+AGUA,50 M Freestyle,SCM,M,25-29,27.76,Horatiu Muresan,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,50 M Freestyle,SCM,M,25-29,27.81,Lorenzo Di Silvio,,Aguapalooza II,2012,5
+AGUA,50 M Freestyle,SCM,M,25-29,28.02,David A Lucena,,AGUA Masters SC Meter Sprint Classic,2012,6
+TNYA,50 M Freestyle,SCM,M,25-29,28.07,Gavin Simpson,,Aguapalooza II,2012,7
+NYCH,50 M Freestyle,SCM,M,25-29,28.17,Doug S Salati,,Aguapalooza II,2012,8
+BCTM,50 M Freestyle,SCM,M,25-29,28.73,Tristan Dreisbach,,5th Bearcat Masters SCM Invitational,2012,9
+TNYA,50 M Freestyle,SCM,M,25-29,29.14,Jose Villamar,,Aguapalooza II,2012,10
+TNYA,50 M Freestyle,SCM,M,25-29,29.44,Lukas Neubauer,,Aguapalooza II,2012,11
+BCTM,50 M Freestyle,SCM,M,25-29,29.60,John Gerace,,5th Bearcat Masters SCM Invitational,2012,12
+AGUA,100 M Freestyle,SCM,M,25-29,53.47,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Freestyle,SCM,M,25-29,54.31,Win Chesson,,Aguapalooza II,2012,2
+REDT,100 M Freestyle,SCM,M,25-29,56.81,Phil M Donihe,,Aguapalooza II,2012,3
+BCTM,100 M Freestyle,SCM,M,25-29,58.55,Haftom G Ambaye,,5th Bearcat Masters SCM Invitational,2012,4
+TNYA,100 M Freestyle,SCM,M,25-29,59.97,Stephen A Hooper,,Aguapalooza II,2012,5
+TNYA,100 M Freestyle,SCM,M,25-29,1:01.47,Lorenzo Di Silvio,,Aguapalooza II,2012,6
+AGUA,100 M Freestyle,SCM,M,25-29,1:02.30,Luis Arias,,AGUA Masters SC Meter Sprint Classic,2012,7
+AGUA,100 M Freestyle,SCM,M,25-29,1:03.44,David A Lucena,,AGUA Masters SC Meter Sprint Classic,2012,8
+AGUA,100 M Freestyle,SCM,M,25-29,1:03.88,Horatiu Muresan,,AGUA Masters SC Meter Sprint Classic,2012,9
+NYCH,100 M Freestyle,SCM,M,25-29,1:08.05,Doug S Salati,,Aguapalooza II,2012,10
+AGUA,200 M Freestyle,SCM,M,25-29,1:56.99,Edward F Hagerty,,Aguapalooza II,2012,1
+TNYA,200 M Freestyle,SCM,M,25-29,2:06.97,Win Chesson,,Aguapalooza II,2012,2
+BCTM,200 M Freestyle,SCM,M,25-29,2:08.47,Haftom G Ambaye,,5th Bearcat Masters SCM Invitational,2012,3
+TNYA,200 M Freestyle,SCM,M,25-29,2:13.18,Stephen A Hooper,,Aguapalooza II,2012,4
+TNYA,200 M Freestyle,SCM,M,25-29,2:34.78,Zachary A Papas,,Aguapalooza II,2012,5
+TNYA,400 M Freestyle,SCM,M,25-29,4:26.34,Win Chesson,,Aguapalooza II,2012,1
+TNYA,400 M Freestyle,SCM,M,25-29,4:35.74,Stephen A Hooper,,Aguapalooza II,2012,2
+TNYA,400 M Freestyle,SCM,M,25-29,5:33.68,Zachary A Papas,,Aguapalooza II,2012,3
+BCTM,50 M Backstroke,SCM,M,25-29,33.64,Jaszver C Bauzon,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,100 M Backstroke,SCM,M,25-29,1:00.35,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Backstroke,SCM,M,25-29,1:04.18,Scott C Jordan,,Aguapalooza II,2012,2
+BCTM,100 M Backstroke,SCM,M,25-29,1:07.90,Haftom G Ambaye,,5th Bearcat Masters SCM Invitational,2012,3
+TNYA,100 M Backstroke,SCM,M,25-29,1:11.18,Lorenzo Di Silvio,,Aguapalooza II,2012,4
+TNYA,100 M Backstroke,SCM,M,25-29,1:15.08,Ryan Walsh,,Aguapalooza II,2012,5
+TNYA,100 M Backstroke,SCM,M,25-29,1:26.52,Zachary A Papas,,Aguapalooza II,2012,6
+BCTM,200 M Backstroke,SCM,M,25-29,2:30.38,Haftom G Ambaye,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,50 M Breaststroke,SCM,M,25-29,36.33,David A Lucena,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Breaststroke,SCM,M,25-29,36.90,Tristan Dreisbach,,5th Bearcat Masters SCM Invitational,2012,2
+BCTM,50 M Breaststroke,SCM,M,25-29,37.11,Brian Ramirez,,5th Bearcat Masters SCM Invitational,2012,3
+AGUA,50 M Breaststroke,SCM,M,25-29,37.25,Horatiu Muresan,,AGUA Masters SC Meter Sprint Classic,2012,4
+BCTM,50 M Breaststroke,SCM,M,25-29,40.75,John Gerace,,5th Bearcat Masters SCM Invitational,2012,5
+TNYA,100 M Breaststroke,SCM,M,25-29,1:05.97,Scott C Jordan,,Aguapalooza II,2012,1
+AGUA,100 M Breaststroke,SCM,M,25-29,1:08.46,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,100 M Breaststroke,SCM,M,25-29,1:17.25,Lukas Neubauer,,Aguapalooza II,2012,3
+AGUA,100 M Breaststroke,SCM,M,25-29,1:20.69,Luis Arias,,AGUA Masters SC Meter Sprint Classic,2012,4
+NYCH,100 M Breaststroke,SCM,M,25-29,1:21.53,Doug S Salati,,Aguapalooza II,2012,5
+AGUA,100 M Breaststroke,SCM,M,25-29,1:21.82,David A Lucena,,5th Bearcat Masters SCM Invitational,2012,6
+BCTM,100 M Breaststroke,SCM,M,25-29,1:22.32,Tristan Dreisbach,,5th Bearcat Masters SCM Invitational,2012,7
+TNYA,100 M Breaststroke,SCM,M,25-29,1:25.18,Zachary A Papas,,Aguapalooza II,2012,8
+TNYA,100 M Breaststroke,SCM,M,25-29,1:25.40,Jose Villamar,,Aguapalooza II,2012,9
+BCTM,100 M Breaststroke,SCM,M,25-29,1:31.43,John Gerace,,5th Bearcat Masters SCM Invitational,2012,10
+BCTM,50 M Butterfly,SCM,M,25-29,29.08,Jaszver C Bauzon,,5th Bearcat Masters SCM Invitational,2012,1
+REDT,50 M Butterfly,SCM,M,25-29,29.35,Romain J Rouaud,,AGUA Masters SC Meter Sprint Classic,2012,2
+BCTM,50 M Butterfly,SCM,M,25-29,31.30,Tristan Dreisbach,,AGUA Masters SC Meter Sprint Classic,2012,3
+AGUA,50 M Butterfly,SCM,M,25-29,33.66,Luis Arias,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,100 M Butterfly,SCM,M,25-29,59.94,Win Chesson,,Aguapalooza II,2012,1
+TNYA,100 M Butterfly,SCM,M,25-29,1:02.22,Scott C Jordan,,Aguapalooza II,2012,2
+TNYA,100 M Butterfly,SCM,M,25-29,1:03.38,Jason S Maschi,,Aguapalooza II,2012,3
+REDT,100 M Butterfly,SCM,M,25-29,1:03.50,Phil M Donihe,,Aguapalooza II,2012,4
+AGUA,100 M Individual Medley,SCM,M,25-29,1:01.28,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,100 M Individual Medley,SCM,M,25-29,1:08.01,Haftom G Ambaye,,5th Bearcat Masters SCM Invitational,2012,2
+AGUA,100 M Individual Medley,SCM,M,25-29,1:11.20,Luis Arias,,AGUA Masters SC Meter Sprint Classic,2012,3
+AGUA,100 M Individual Medley,SCM,M,25-29,1:13.11,Horatiu Muresan,,AGUA Masters SC Meter Sprint Classic,2012,4
+BCTM,100 M Individual Medley,SCM,M,25-29,1:16.76,Brian Ramirez,,5th Bearcat Masters SCM Invitational,2012,5
+BCTM,100 M Individual Medley,SCM,M,25-29,1:17.20,Tristan Dreisbach,,AGUA Masters SC Meter Sprint Classic,2012,6
+AGUA,200 M Individual Medley,SCM,M,25-29,2:11.19,Edward F Hagerty,,Aguapalooza II,2012,1
+TNYA,200 M Individual Medley,SCM,M,25-29,2:14.45,Scott C Jordan,,Aguapalooza II,2012,2
+BCTM,200 M Individual Medley,SCM,M,25-29,2:26.26,Haftom G Ambaye,,5th Bearcat Masters SCM Invitational,2012,3
+TNYA,200 M Individual Medley,SCM,M,25-29,2:28.83,Jason S Maschi,,Aguapalooza II,2012,4
+NYCH,200 M Individual Medley,SCM,M,25-29,2:43.80,Doug S Salati,,Aguapalooza II,2012,5
+BCTM,200 M Individual Medley,SCM,M,25-29,2:46.96,Jaszver C Bauzon,,5th Bearcat Masters SCM Invitational,2012,6
+AGUA,50 M Freestyle,SCM,M,30-34,23.74,Jeremy R Tillman,,Aguapalooza II,2012,1
+CHEL,50 M Freestyle,SCM,M,30-34,24.72,Radenko Miskovic,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,50 M Freestyle,SCM,M,30-34,25.94,Benjamin Dellagiovanna,,Aguapalooza II,2012,3
+UNAT,50 M Freestyle,SCM,M,30-34,26.28,Mike Shostak,,Aguapalooza II,2012,4
+TNYA,50 M Freestyle,SCM,M,30-34,26.67,Michael Tynan,,Aguapalooza II,2012,5
+TNYA,50 M Freestyle,SCM,M,30-34,27.02,Evan M Cobb,,Aguapalooza II,2012,6
+NYCH,50 M Freestyle,SCM,M,30-34,27.23,James C Esposito,,Aguapalooza II,2012,7
+AGUA,50 M Freestyle,SCM,M,30-34,28.43,Salvador Burgaleta,,AGUA Masters SC Meter Sprint Classic,2012,8
+TNYA,50 M Freestyle,SCM,M,30-34,28.50,Christopher Blacker,,Aguapalooza II,2012,9
+AQFT,50 M Freestyle,SCM,M,30-34,29.36,Bradley Scalise,,Aguapalooza II,2012,10
+AQFT,50 M Freestyle,SCM,M,30-34,29.75,Bruce K Pye,,Aguapalooza II,2012,11
+TNYA,50 M Freestyle,SCM,M,30-34,29.93,Gregory L Lockard,,Aguapalooza II,2012,12
+TNYA,50 M Freestyle,SCM,M,30-34,30.00,Jason Malak,,Aguapalooza II,2012,13
+BCTM,50 M Freestyle,SCM,M,30-34,30.30,Joel Abreu,,5th Bearcat Masters SCM Invitational,2012,14
+REDT,50 M Freestyle,SCM,M,30-34,30.42,David A Cohen,,AGUA Masters SC Meter Sprint Classic,2012,15
+TNYA,50 M Freestyle,SCM,M,30-34,31.28,James M Cronin,,Aguapalooza II,2012,16
+REDT,50 M Freestyle,SCM,M,30-34,38.81,Patrick C Crosetto,,Aguapalooza II,2012,17
+BCTM,50 M Freestyle,SCM,M,30-34,46.20,Angshuman Bagchi,,5th Bearcat Masters SCM Invitational,2012,18
+AGUA,100 M Freestyle,SCM,M,30-34,54.03,Jeremy R Tillman,,Aguapalooza II,2012,1
+CHEL,100 M Freestyle,SCM,M,30-34,56.28,Radenko Miskovic,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,100 M Freestyle,SCM,M,30-34,58.35,Benjamin Dellagiovanna,,Aguapalooza II,2012,3
+TNYA,100 M Freestyle,SCM,M,30-34,1:00.12,Evan M Cobb,,Aguapalooza II,2012,4
+AQFT,100 M Freestyle,SCM,M,30-34,1:03.92,Bradley Scalise,,Aguapalooza II,2012,5
+REDT,100 M Freestyle,SCM,M,30-34,1:05.18,Heon Goo Lee,,AGUA Masters SC Meter Sprint Classic,2012,6
+AQFT,100 M Freestyle,SCM,M,30-34,1:05.41,Bruce K Pye,,Aguapalooza II,2012,7
+AQFT,100 M Freestyle,SCM,M,30-34,1:06.00,Peter M Ventura,,Aguapalooza II,2012,8
+AGUA,100 M Freestyle,SCM,M,30-34,1:06.74,Salvador Burgaleta,,AGUA Masters SC Meter Sprint Classic,2012,9
+TNYA,100 M Freestyle,SCM,M,30-34,1:08.18,Gregory L Lockard,,Aguapalooza II,2012,10
+TNYA,100 M Freestyle,SCM,M,30-34,1:14.50,Alexander T Barclay,,Aguapalooza II,2012,11
+TNYA,200 M Freestyle,SCM,M,30-34,2:12.72,Sean C Smith,,Aguapalooza II,2012,1
+TNYA,200 M Freestyle,SCM,M,30-34,2:19.03,Patrick Billingsley,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,200 M Freestyle,SCM,M,30-34,2:21.85,Alexander T Barclay,,Aguapalooza II,2012,3
+TNYA,200 M Freestyle,SCM,M,30-34,2:23.32,Michael Tynan,,Aguapalooza II,2012,4
+AQFT,200 M Freestyle,SCM,M,30-34,2:24.24,Bruce K Pye,,5th Bearcat Masters SCM Invitational,2012,5
+TNYA,200 M Freestyle,SCM,M,30-34,2:41.42,James M Cronin,,Aguapalooza II,2012,6
+REDT,200 M Freestyle,SCM,M,30-34,3:15.08,Patrick C Crosetto,,Aguapalooza II,2012,7
+TNYA,400 M Freestyle,SCM,M,30-34,5:01.93,Patrick Billingsley,,Aguapalooza II,2012,1
+AQFT,400 M Freestyle,SCM,M,30-34,5:14.16,Peter M Ventura,,Aguapalooza II,2012,2
+TNYA,400 M Freestyle,SCM,M,30-34,5:49.37,James M Cronin,,Aguapalooza II,2012,3
+AQFT,400 M Freestyle,SCM,M,30-34,6:01.28,Bruce K Pye,,5th Bearcat Masters SCM Invitational,2012,4
+REDT,400 M Freestyle,SCM,M,30-34,7:03.76,Patrick C Crosetto,,Aguapalooza II,2012,5
+NYCH,50 M Backstroke,SCM,M,30-34,32.89,Stefan Koester,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Backstroke,SCM,M,30-34,59.40,Angshuman Bagchi,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,100 M Backstroke,SCM,M,30-34,1:10.47,David J Wynne,,Aguapalooza II,2012,1
+NYCH,100 M Backstroke,SCM,M,30-34,1:11.85,Stefan Koester,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,100 M Backstroke,SCM,M,30-34,1:16.61,Christopher Blacker,,Aguapalooza II,2012,3
+NYCH,50 M Breaststroke,SCM,M,30-34,31.50,James C Esposito,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,50 M Breaststroke,SCM,M,30-34,34.01,Travis L McGahey,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,50 M Breaststroke,SCM,M,30-34,37.74,David A Cohen,,AGUA Masters SC Meter Sprint Classic,2012,3
+BCTM,50 M Breaststroke,SCM,M,30-34,38.67,Joel Abreu,,5th Bearcat Masters SCM Invitational,2012,4
+BCTM,50 M Breaststroke,SCM,M,30-34,1:02.31,Angshuman Bagchi,,5th Bearcat Masters SCM Invitational,2012,5
+NYCH,100 M Breaststroke,SCM,M,30-34,1:10.34,James C Esposito,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Breaststroke,SCM,M,30-34,1:12.85,Mike Shostak,,Aguapalooza II,2012,2
+TNYA,100 M Breaststroke,SCM,M,30-34,1:17.06,Travis L McGahey,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Breaststroke,SCM,M,30-34,1:19.67,Patrick Billingsley,,Aguapalooza II,2012,4
+REDT,100 M Breaststroke,SCM,M,30-34,1:26.05,David A Cohen,,AGUA Masters SC Meter Sprint Classic,2012,5
+TNYA,100 M Breaststroke,SCM,M,30-34,1:29.93,John K Palmer,,Aguapalooza II,2012,6
+REDT,100 M Breaststroke,SCM,M,30-34,1:42.79,Patrick C Crosetto,,Aguapalooza II,2012,7
+REDT,50 M Butterfly,SCM,M,30-34,29.15,Heon Goo Lee,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,50 M Butterfly,SCM,M,30-34,30.63,Stefan Koester,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,50 M Butterfly,SCM,M,30-34,33.23,Salvador Burgaleta,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Butterfly,SCM,M,30-34,1:03.18,James Derek Mize,,Aguapalooza II,2012,1
+NYCH,100 M Butterfly,SCM,M,30-34,1:07.25,James C Esposito,,Aguapalooza II,2012,2
+TNYA,100 M Butterfly,SCM,M,30-34,1:07.90,David Denrich,,Aguapalooza II,2012,3
+REDT,100 M Butterfly,SCM,M,30-34,1:08.93,Heon Goo Lee,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,100 M Butterfly,SCM,M,30-34,1:11.01,Sean C Smith,,Aguapalooza II,2012,5
+TNYA,100 M Butterfly,SCM,M,30-34,1:11.28,Evan M Cobb,,Aguapalooza II,2012,6
+AQFT,100 M Butterfly,SCM,M,30-34,1:13.13,Bradley Scalise,,Aguapalooza II,2012,7
+TNYA,100 M Butterfly,SCM,M,30-34,1:14.68,Jason Malak,,Aguapalooza II,2012,8
+TNYA,100 M Butterfly,SCM,M,30-34,1:23.58,John K Palmer,,Aguapalooza II,2012,9
+NYCH,100 M Individual Medley,SCM,M,30-34,1:07.21,James C Esposito,,AGUA Masters SC Meter Sprint Classic,2012,1
+AQFT,100 M Individual Medley,SCM,M,30-34,1:15.49,Bruce K Pye,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,200 M Individual Medley,SCM,M,30-34,2:23.75,Sean C Smith,,Aguapalooza II,2012,1
+TNYA,200 M Individual Medley,SCM,M,30-34,2:26.70,James Derek Mize,,Aguapalooza II,2012,2
+TNYA,200 M Individual Medley,SCM,M,30-34,2:31.50,David Denrich,,Aguapalooza II,2012,3
+TNYA,200 M Individual Medley,SCM,M,30-34,2:36.66,David J Wynne,,Aguapalooza II,2012,4
+AQFT,200 M Individual Medley,SCM,M,30-34,2:46.84,Bruce K Pye,,Aguapalooza II,2012,5
+AQFT,200 M Individual Medley,SCM,M,30-34,2:56.56,Peter M Ventura,,Aguapalooza II,2012,6
+METR,50 M Freestyle,SCM,M,35-39,25.97,Francisco V Liuzzi,,AGUA Masters SC Meter Sprint Classic,2012,1
+AQFT,50 M Freestyle,SCM,M,35-39,27.15,Karim Rozwadowski,,Aguapalooza II,2012,2
+BCTM,50 M Freestyle,SCM,M,35-39,27.30,Michael S Ferris,,Aguapalooza II,2012,3
+BCTM,50 M Freestyle,SCM,M,35-39,28.74,Nathaniel R Dean,,5th Bearcat Masters SCM Invitational,2012,4
+TNYA,50 M Freestyle,SCM,M,35-39,28.94,Joshua M Judge,,Aguapalooza II,2012,5
+AGUA,50 M Freestyle,SCM,M,35-39,29.16,John Ratzan,,AGUA Masters SC Meter Sprint Classic,2012,6
+TNYA,50 M Freestyle,SCM,M,35-39,29.29,Matthew D Blood,,Aguapalooza II,2012,7
+TNYA,50 M Freestyle,SCM,M,35-39,30.97,James G Morrissey,,Aguapalooza II,2012,8
+TNYA,50 M Freestyle,SCM,M,35-39,31.08,Joseph N Marra,,Aguapalooza II,2012,9
+TNYA,50 M Freestyle,SCM,M,35-39,31.44,John Chinnici,,Aguapalooza II,2012,10
+AGUA,50 M Freestyle,SCM,M,35-39,32.01,Brad A McVetta,,Aguapalooza II,2012,11
+AGUA,50 M Freestyle,SCM,M,35-39,32.37,Matthew F Strozier,,AGUA Masters SC Meter Sprint Classic,2012,12
+NYCH,50 M Freestyle,SCM,M,35-39,33.12,Richard Jakob,,Aguapalooza II,2012,13
+BCTM,100 M Freestyle,SCM,M,35-39,59.33,Michael S Ferris,,Aguapalooza II,2012,1
+AQFT,100 M Freestyle,SCM,M,35-39,1:02.09,Karim Rozwadowski,,Aguapalooza II,2012,2
+TNYA,100 M Freestyle,SCM,M,35-39,1:02.50,Joshua M Judge,,Aguapalooza II,2012,3
+AGUA,100 M Freestyle,SCM,M,35-39,1:07.11,John Ratzan,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,100 M Freestyle,SCM,M,35-39,1:07.56,Matthew D Blood,,Aguapalooza II,2012,5
+TNYA,100 M Freestyle,SCM,M,35-39,1:08.16,Joseph N Marra,,Aguapalooza II,2012,6
+AGUA,100 M Freestyle,SCM,M,35-39,1:09.83,Brad A McVetta,,Aguapalooza II,2012,7
+TNYA,100 M Freestyle,SCM,M,35-39,1:11.69,John Chinnici,,Aguapalooza II,2012,8
+BCTM,100 M Freestyle,SCM,M,35-39,1:11.74,Matthew Currier,,5th Bearcat Masters SCM Invitational,2012,9
+TNYA,100 M Freestyle,SCM,M,35-39,1:14.56,Hugh M McGowan,,Aguapalooza II,2012,10
+AGUA,100 M Freestyle,SCM,M,35-39,1:16.05,Matthew F Strozier,,AGUA Masters SC Meter Sprint Classic,2012,11
+NYCH,100 M Freestyle,SCM,M,35-39,1:17.37,Richard Jakob,,Aguapalooza II,2012,12
+AGUA,200 M Freestyle,SCM,M,35-39,2:38.41,Brad A McVetta,,Aguapalooza II,2012,1
+BCTM,200 M Freestyle,SCM,M,35-39,2:48.14,Matthew Currier,,5th Bearcat Masters SCM Invitational,2012,2
+BCTM,200 M Freestyle,SCM,M,35-39,2:50.60,Dan Djuplin,,5th Bearcat Masters SCM Invitational,2012,3
+AGUA,200 M Freestyle,SCM,M,35-39,2:57.25,Matthew F Strozier,,5th Bearcat Masters SCM Invitational,2012,4
+BCTM,400 M Freestyle,SCM,M,35-39,4:59.10,Nathaniel R Dean,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,400 M Freestyle,SCM,M,35-39,5:06.45,Onesimo C Demira,,Aguapalooza II,2012,2
+NYCH,400 M Freestyle,SCM,M,35-39,5:10.41,Nino G Sani,,Aguapalooza II,2012,3
+TNYA,400 M Freestyle,SCM,M,35-39,5:15.11,Hugh M McGowan,,Aguapalooza II,2012,4
+AGUA,400 M Freestyle,SCM,M,35-39,5:27.90,Brad A McVetta,,Aguapalooza II,2012,5
+BCTM,400 M Freestyle,SCM,M,35-39,6:17.49,Dan Djuplin,,5th Bearcat Masters SCM Invitational,2012,6
+BCTM,400 M Freestyle,SCM,M,35-39,6:20.32,Matthew Currier,,5th Bearcat Masters SCM Invitational,2012,7
+BCTM,100 M Backstroke,SCM,M,35-39,1:12.58,Michael S Ferris,,Aguapalooza II,2012,1
+TNYA,100 M Backstroke,SCM,M,35-39,1:24.31,John Chinnici,,Aguapalooza II,2012,2
+BCTM,50 M Breaststroke,SCM,M,35-39,35.37,Nathaniel R Dean,,AGUA Masters SC Meter Sprint Classic,2012,1
+METR,50 M Breaststroke,SCM,M,35-39,35.66,Francisco V Liuzzi,,AGUA Masters SC Meter Sprint Classic,2012,2
+NYCH,50 M Breaststroke,SCM,M,35-39,39.74,Eric M Doviak,,AGUA Masters SC Meter Sprint Classic,2012,3
+BCTM,100 M Breaststroke,SCM,M,35-39,1:19.71,Nathaniel R Dean,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,100 M Breaststroke,SCM,M,35-39,1:21.52,Nino G Sani,,Aguapalooza II,2012,2
+TNYA,100 M Breaststroke,SCM,M,35-39,1:26.58,John Chinnici,,Aguapalooza II,2012,3
+NYCH,100 M Breaststroke,SCM,M,35-39,1:27.70,Eric M Doviak,,AGUA Masters SC Meter Sprint Classic,2012,4
+RIMS,100 M Breaststroke,SCM,M,35-39,1:30.06,Fernando Bejarano,,5th Bearcat Masters SCM Invitational,2012,5
+NYCH,100 M Breaststroke,SCM,M,35-39,1:34.04,Richard Jakob,,Aguapalooza II,2012,6
+TNYA,100 M Breaststroke,SCM,M,35-39,1:38.80,Pierre Villelongue,,Aguapalooza II,2012,7
+METR,50 M Butterfly,SCM,M,35-39,29.08,Francisco V Liuzzi,,AGUA Masters SC Meter Sprint Classic,2012,1
+NYCH,50 M Butterfly,SCM,M,35-39,29.43,Marc P Madonia,,AGUA Masters SC Meter Sprint Classic,2012,2
+BCTM,50 M Butterfly,SCM,M,35-39,34.32,Nathaniel R Dean,,5th Bearcat Masters SCM Invitational,2012,3
+AGUA,50 M Butterfly,SCM,M,35-39,37.89,John Ratzan,,AGUA Masters SC Meter Sprint Classic,2012,4
+NYCH,50 M Butterfly,SCM,M,35-39,39.90,Richard Jakob,,AGUA Masters SC Meter Sprint Classic,2012,5
+AGUA,50 M Butterfly,SCM,M,35-39,40.18,Matthew F Strozier,,AGUA Masters SC Meter Sprint Classic,2012,6
+BCTM,100 M Butterfly,SCM,M,35-39,1:07.91,Michael S Ferris,,Aguapalooza II,2012,1
+TNYA,100 M Butterfly,SCM,M,35-39,1:10.41,Onesimo C Demira,,Aguapalooza II,2012,2
+NYCH,100 M Butterfly,SCM,M,35-39,1:12.00,Marc P Madonia,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Butterfly,SCM,M,35-39,1:13.93,Joshua M Judge,,Aguapalooza II,2012,4
+TNYA,100 M Butterfly,SCM,M,35-39,1:14.84,Hugh M McGowan,,Aguapalooza II,2012,5
+AGUA,100 M Butterfly,SCM,M,35-39,1:41.97,Matthew F Strozier,,5th Bearcat Masters SCM Invitational,2012,6
+NYCH,100 M Individual Medley,SCM,M,35-39,1:13.21,Marc P Madonia,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,100 M Individual Medley,SCM,M,35-39,1:14.85,Nathaniel R Dean,,AGUA Masters SC Meter Sprint Classic,2012,2
+NYCH,100 M Individual Medley,SCM,M,35-39,1:27.63,Eric M Doviak,,AGUA Masters SC Meter Sprint Classic,2012,3
+NYCH,100 M Individual Medley,SCM,M,35-39,1:29.14,Richard Jakob,,AGUA Masters SC Meter Sprint Classic,2012,4
+NYCH,200 M Individual Medley,SCM,M,35-39,2:38.32,Nino G Sani,,Aguapalooza II,2012,1
+TNYA,200 M Individual Medley,SCM,M,35-39,2:39.90,Onesimo C Demira,,Aguapalooza II,2012,2
+NYCH,200 M Individual Medley,SCM,M,35-39,2:45.47,Marc P Madonia,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,50 M Freestyle,SCM,M,40-44,26.72,RJ Hermanet,,Aguapalooza II,2012,1
+UNAT,50 M Freestyle,SCM,M,40-44,27.26,Marc S Gershel,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,50 M Freestyle,SCM,M,40-44,28.06,Robert Goodman,,Aguapalooza II,2012,3
+UNAT,50 M Freestyle,SCM,M,40-44,33.35,Denis P Sheahan,,Aguapalooza II,2012,4
+TNYA,50 M Freestyle,SCM,M,40-44,33.89,Todd E Zornik,,Aguapalooza II,2012,5
+TNYA,50 M Freestyle,SCM,M,40-44,36.37,William R Carr,,Aguapalooza II,2012,6
+TNYA,100 M Freestyle,SCM,M,40-44,58.62,RJ Hermanet,,Aguapalooza II,2012,1
+REDT,100 M Freestyle,SCM,M,40-44,1:00.78,Robert Goodman,,Aguapalooza II,2012,2
+UNAT,100 M Freestyle,SCM,M,40-44,1:02.94,Marc S Gershel,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Freestyle,SCM,M,40-44,1:07.11,Casey C Schick,,Aguapalooza II,2012,4
+TNYA,100 M Freestyle,SCM,M,40-44,1:09.68,Kenneth S Kohanowski,,Aguapalooza II,2012,5
+TNYA,100 M Freestyle,SCM,M,40-44,1:13.06,Todd E Zornik,,Aguapalooza II,2012,6
+UNAT,100 M Freestyle,SCM,M,40-44,1:15.15,Denis P Sheahan,,Aguapalooza II,2012,7
+TNYA,100 M Freestyle,SCM,M,40-44,1:18.44,Gen Watanabe,,5th Bearcat Masters SCM Invitational,2012,8
+TNYA,100 M Freestyle,SCM,M,40-44,1:24.60,William R Carr,,Aguapalooza II,2012,9
+REDT,200 M Freestyle,SCM,M,40-44,2:19.75,Robert Goodman,,Aguapalooza II,2012,1
+AGUA,200 M Freestyle,SCM,M,40-44,2:19.96,Paul A Matkovic,,20th Annual Albatross Open,2012,2
+TNYA,200 M Freestyle,SCM,M,40-44,2:33.24,Andrew Willett,,Aguapalooza II,2012,3
+TNYA,200 M Freestyle,SCM,M,40-44,2:42.22,Todd E Zornik,,Aguapalooza II,2012,4
+TNYA,200 M Freestyle,SCM,M,40-44,2:43.56,Kenneth S Kohanowski,,Aguapalooza II,2012,5
+TNYA,200 M Freestyle,SCM,M,40-44,2:48.59,Randall A Chamberlain,,5th Bearcat Masters SCM Invitational,2012,6
+TNYA,200 M Freestyle,SCM,M,40-44,2:48.85,Gen Watanabe,,5th Bearcat Masters SCM Invitational,2012,7
+UNAT,200 M Freestyle,SCM,M,40-44,3:06.90,Denis P Sheahan,,Aguapalooza II,2012,8
+TNYA,400 M Freestyle,SCM,M,40-44,5:54.02,Kenneth S Kohanowski,,Aguapalooza II,2012,1
+TNYA,400 M Freestyle,SCM,M,40-44,6:00.03,Randall A Chamberlain,,5th Bearcat Masters SCM Invitational,2012,2
+UNAT,400 M Freestyle,SCM,M,40-44,6:38.78,Denis P Sheahan,,Aguapalooza II,2012,3
+TNYA,100 M Backstroke,SCM,M,40-44,1:27.69,Todd E Zornik,,Aguapalooza II,2012,1
+TNYA,100 M Backstroke,SCM,M,40-44,1:28.44,Randall A Chamberlain,,Aguapalooza II,2012,2
+TNYA,50 M Breaststroke,SCM,M,40-44,34.97,Jun Maruta,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,50 M Breaststroke,SCM,M,40-44,39.96,Gen Watanabe,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,100 M Breaststroke,SCM,M,40-44,1:14.97,Jun Maruta,,Aguapalooza II,2012,1
+TNYA,100 M Breaststroke,SCM,M,40-44,1:16.85,Casey C Schick,,Aguapalooza II,2012,2
+AGUA,100 M Breaststroke,SCM,M,40-44,1:17.94,Paul A Matkovic,,20th Annual Albatross Open,2012,3
+TNYA,100 M Breaststroke,SCM,M,40-44,1:27.13,Gen Watanabe,,5th Bearcat Masters SCM Invitational,2012,4
+TNYA,100 M Breaststroke,SCM,M,40-44,1:27.85,Andrew Willett,,Aguapalooza II,2012,5
+TNYA,100 M Breaststroke,SCM,M,40-44,1:36.72,Randall A Chamberlain,,Aguapalooza II,2012,6
+TNYA,200 M Breaststroke,SCM,M,40-44,2:50.21,Jun Maruta,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,200 M Breaststroke,SCM,M,40-44,3:12.99,Gen Watanabe,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,50 M Butterfly,SCM,M,40-44,36.13,Randall A Chamberlain,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,100 M Butterfly,SCM,M,40-44,1:04.72,RJ Hermanet,,Aguapalooza II,2012,1
+TNYA,100 M Butterfly,SCM,M,40-44,1:10.16,Jun Maruta,,Aguapalooza II,2012,2
+TNYA,100 M Butterfly,SCM,M,40-44,1:25.72,Randall A Chamberlain,,Aguapalooza II,2012,3
+AGUA,100 M Individual Medley,SCM,M,40-44,1:11.02,Paul A Matkovic,,20th Annual Albatross Open,2012,1
+TNYA,100 M Individual Medley,SCM,M,40-44,1:27.55,Randall A Chamberlain,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,100 M Individual Medley,SCM,M,40-44,1:32.97,Gen Watanabe,,5th Bearcat Masters SCM Invitational,2012,3
+TNYA,200 M Individual Medley,SCM,M,40-44,2:23.69,RJ Hermanet,,Aguapalooza II,2012,1
+AGUA,200 M Individual Medley,SCM,M,40-44,2:35.89,Paul A Matkovic,,20th Annual Albatross Open,2012,2
+TNYA,200 M Individual Medley,SCM,M,40-44,2:52.66,Andrew Willett,,Aguapalooza II,2012,3
+REDT,200 M Individual Medley,SCM,M,40-44,2:59.98,Craig R Bagno,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,200 M Individual Medley,SCM,M,40-44,3:03.44,Randall A Chamberlain,,Aguapalooza II,2012,5
+TNYA,200 M Individual Medley,SCM,M,40-44,3:40.00,William R Carr,,Aguapalooza II,2012,6
+AGUA,50 M Freestyle,SCM,M,45-49,27.24,Vladimir Gavroff,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Freestyle,SCM,M,45-49,28.44,Matthew R Rockwood,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,50 M Freestyle,SCM,M,45-49,28.78,Milan Ruttkay,,Aguapalooza II,2012,3
+TNYA,50 M Freestyle,SCM,M,45-49,29.65,Rodney G Abbot,,Aguapalooza II,2012,4
+REDT,50 M Freestyle,SCM,M,45-49,29.78,Spencer B Neyland,,Aguapalooza II,2012,5
+TNYA,50 M Freestyle,SCM,M,45-49,30.24,Kozo Suzuki,,Aguapalooza II,2012,6
+TNYA,50 M Freestyle,SCM,M,45-49,31.27,Scott W Moyer,,Aguapalooza II,2012,7
+BCTM,50 M Freestyle,SCM,M,45-49,33.38,James A Allen,,5th Bearcat Masters SCM Invitational,2012,8
+WM,50 M Freestyle,SCM,M,45-49,34.26,Martin Burkhardt,,5th Bearcat Masters SCM Invitational,2012,9
+UNAT,50 M Freestyle,SCM,M,45-49,37.12,Philip C Lee,,AGUA Masters SC Meter Sprint Classic,2012,10
+AGUA,100 M Freestyle,SCM,M,45-49,1:01.74,Vladimir Gavroff,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Freestyle,SCM,M,45-49,1:03.43,Milan Ruttkay,,Aguapalooza II,2012,2
+AGUA,100 M Freestyle,SCM,M,45-49,1:03.64,Matthew R Rockwood,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Freestyle,SCM,M,45-49,1:06.56,Rodney G Abbot,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,100 M Freestyle,SCM,M,45-49,1:07.81,Kozo Suzuki,,Aguapalooza II,2012,5
+NYCH,100 M Freestyle,SCM,M,45-49,1:12.31,Bruce A Cadenhead,,Aguapalooza II,2012,6
+BCTM,100 M Freestyle,SCM,M,45-49,1:12.62,James A Allen,,AGUA Masters SC Meter Sprint Classic,2012,7
+WM,100 M Freestyle,SCM,M,45-49,1:14.09,Martin Burkhardt,,AGUA Masters SC Meter Sprint Classic,2012,8
+TNYA,100 M Freestyle,SCM,M,45-49,1:19.22,Rob Flores,,Aguapalooza II,2012,9
+NYCH,200 M Freestyle,SCM,M,45-49,2:18.94,Adrian L Mackay,,Aguapalooza II,2012,1
+TNYA,200 M Freestyle,SCM,M,45-49,3:00.79,Rob Flores,,Aguapalooza II,2012,2
+NYCH,400 M Freestyle,SCM,M,45-49,4:48.00,Adrian L Mackay,,Aguapalooza II,2012,1
+REDT,400 M Freestyle,SCM,M,45-49,5:01.26,Spencer B Neyland,,Aguapalooza II,2012,2
+UNAT,400 M Freestyle,SCM,M,45-49,5:06.14,Milan Ruttkay,,Aguapalooza II,2012,3
+NYCH,400 M Freestyle,SCM,M,45-49,5:45.22,Bruce A Cadenhead,,Aguapalooza II,2012,4
+BCTM,50 M Backstroke,SCM,M,45-49,41.87,James A Allen,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Backstroke,SCM,M,45-49,1:07.61,Daniel Simkowitz,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Backstroke,SCM,M,45-49,1:31.00,Scott W Moyer,,Aguapalooza II,2012,2
+WM,100 M Backstroke,SCM,M,45-49,1:31.08,Martin Burkhardt,,AGUA Masters SC Meter Sprint Classic,2012,3
+AGUA,50 M Breaststroke,SCM,M,45-49,36.47,Vladimir Gavroff,,AGUA Masters SC Meter Sprint Classic,2012,1
+REDT,50 M Breaststroke,SCM,M,45-49,41.15,Steven Nettles,,AGUA Masters SC Meter Sprint Classic,2012,2
+WM,50 M Breaststroke,SCM,M,45-49,43.52,Martin Burkhardt,,5th Bearcat Masters SCM Invitational,2012,3
+BCTM,50 M Breaststroke,SCM,M,45-49,44.48,James A Allen,,5th Bearcat Masters SCM Invitational,2012,4
+UNAT,50 M Breaststroke,SCM,M,45-49,48.35,Philip C Lee,,AGUA Masters SC Meter Sprint Classic,2012,5
+NYCH,100 M Breaststroke,SCM,M,45-49,1:16.41,Adrian L Mackay,,Aguapalooza II,2012,1
+REDT,100 M Breaststroke,SCM,M,45-49,1:19.53,Spencer B Neyland,,Aguapalooza II,2012,2
+REDT,100 M Breaststroke,SCM,M,45-49,1:27.59,Steven Nettles,,AGUA Masters SC Meter Sprint Classic,2012,3
+WM,100 M Breaststroke,SCM,M,45-49,1:32.87,Martin Burkhardt,,5th Bearcat Masters SCM Invitational,2012,4
+UNAT,100 M Breaststroke,SCM,M,45-49,1:51.89,Philip C Lee,,AGUA Masters SC Meter Sprint Classic,2012,5
+AGUA,50 M Butterfly,SCM,M,45-49,34.44,Matthew R Rockwood,,AGUA Masters SC Meter Sprint Classic,2012,1
+WM,50 M Butterfly,SCM,M,45-49,37.00,Martin Burkhardt,,5th Bearcat Masters SCM Invitational,2012,2
+UNAT,50 M Butterfly,SCM,M,45-49,47.25,Philip C Lee,,AGUA Masters SC Meter Sprint Classic,2012,3
+TNYA,100 M Butterfly,SCM,M,45-49,1:09.43,John P O'Donnell,,Aguapalooza II,2012,1
+TNYA,100 M Butterfly,SCM,M,45-49,1:17.53,Kozo Suzuki,,Aguapalooza II,2012,2
+WM,100 M Butterfly,SCM,M,45-49,1:24.78,Martin Burkhardt,,5th Bearcat Masters SCM Invitational,2012,3
+WM,200 M Butterfly,SCM,M,45-49,3:10.51,Martin Burkhardt,,5th Bearcat Masters SCM Invitational,2012,1
+BCTM,100 M Individual Medley,SCM,M,45-49,1:22.85,James A Allen,,AGUA Masters SC Meter Sprint Classic,2012,1
+WM,100 M Individual Medley,SCM,M,45-49,1:26.01,Martin Burkhardt,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,200 M Individual Medley,SCM,M,45-49,2:42.80,John P O'Donnell,,Aguapalooza II,2012,1
+WM,200 M Individual Medley,SCM,M,45-49,3:01.54,Martin Burkhardt,,AGUA Masters SC Meter Sprint Classic,2012,2
+BCTM,200 M Individual Medley,SCM,M,45-49,3:01.61,James A Allen,,AGUA Masters SC Meter Sprint Classic,2012,3
+NYCH,200 M Individual Medley,SCM,M,45-49,3:03.19,Bruce A Cadenhead,,Aguapalooza II,2012,4
+REDT,50 M Freestyle,SCM,M,50-54,26.84,Mark Loftis,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,50 M Freestyle,SCM,M,50-54,29.31,Brad G Cole,,Aguapalooza II,2012,2
+TNYA,50 M Freestyle,SCM,M,50-54,31.22,Anthony F Reen,,Aguapalooza II,2012,3
+UNAT,50 M Freestyle,SCM,M,50-54,31.32,Gary P Biester,,5th Bearcat Masters SCM Invitational,2012,4
+AQFT,50 M Freestyle,SCM,M,50-54,31.49,Jason Brown,,Aguapalooza II,2012,5
+REDT,50 M Freestyle,SCM,M,50-54,32.18,James W McSpiritt,,Aguapalooza II,2012,6
+REDT,50 M Freestyle,SCM,M,50-54,32.94,Mark T Heller,,AGUA Masters SC Meter Sprint Classic,2012,7
+TNYA,50 M Freestyle,SCM,M,50-54,33.34,David Brundage,,Aguapalooza II,2012,8
+TNYA,50 M Freestyle,SCM,M,50-54,35.28,Mark A D'Ambrosi,,Aguapalooza II,2012,9
+CHEL,50 M Freestyle,SCM,M,50-54,35.41,Thomas D Currier,,AGUA Masters SC Meter Sprint Classic,2012,10
+UNAT,50 M Freestyle,SCM,M,50-54,36.56,Robert Prignoli,,AGUA Masters SC Meter Sprint Classic,2012,11
+TNYA,50 M Freestyle,SCM,M,50-54,37.12,Kent M Lau,,Aguapalooza II,2012,12
+BCTM,50 M Freestyle,SCM,M,50-54,38.88,Jordan George,,5th Bearcat Masters SCM Invitational,2012,13
+TNYA,50 M Freestyle,SCM,M,50-54,54.03,Steven Z Goran,,Aguapalooza II,2012,14
+REDT,100 M Freestyle,SCM,M,50-54,58.55,Mark Loftis,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Freestyle,SCM,M,50-54,1:05.41,Brad G Cole,,Aguapalooza II,2012,2
+CHEL,100 M Freestyle,SCM,M,50-54,1:05.80,Pascal Borderies,,Aguapalooza II,2012,3
+TNYA,100 M Freestyle,SCM,M,50-54,1:08.06,Anthony F Reen,,Aguapalooza II,2012,4
+AQFT,100 M Freestyle,SCM,M,50-54,1:09.67,Jason Brown,,Aguapalooza II,2012,5
+TNYA,100 M Freestyle,SCM,M,50-54,1:12.68,David Brundage,,Aguapalooza II,2012,6
+REDT,100 M Freestyle,SCM,M,50-54,1:13.17,James W McSpiritt,,Aguapalooza II,2012,7
+REDT,100 M Freestyle,SCM,M,50-54,1:17.29,Mark T Heller,,Aguapalooza II,2012,8
+CHEL,100 M Freestyle,SCM,M,50-54,1:19.95,Thomas D Currier,,AGUA Masters SC Meter Sprint Classic,2012,9
+AGUA,100 M Freestyle,SCM,M,50-54,1:20.98,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2012,10
+UNAT,100 M Freestyle,SCM,M,50-54,1:22.97,Robert Prignoli,,AGUA Masters SC Meter Sprint Classic,2012,11
+TNYA,100 M Freestyle,SCM,M,50-54,1:23.28,Mark A D'Ambrosi,,Aguapalooza II,2012,12
+BCTM,100 M Freestyle,SCM,M,50-54,1:29.04,Jordan George,,5th Bearcat Masters SCM Invitational,2012,13
+TNYA,100 M Freestyle,SCM,M,50-54,1:29.79,Joseph N Burzynski,,Aguapalooza II,2012,14
+TNYA,100 M Freestyle,SCM,M,50-54,1:30.68,Kent M Lau,,Aguapalooza II,2012,15
+TNYA,100 M Freestyle,SCM,M,50-54,2:16.40,Steven Z Goran,,Aguapalooza II,2012,16
+REDT,200 M Freestyle,SCM,M,50-54,2:13.62,Mark Loftis,,Aguapalooza II,2012,1
+AQFT,200 M Freestyle,SCM,M,50-54,2:31.39,Jason Brown,,Aguapalooza II,2012,2
+BCTM,200 M Freestyle,SCM,M,50-54,2:32.02,Bradford L Butler,,5th Bearcat Masters SCM Invitational,2012,3
+REDT,200 M Freestyle,SCM,M,50-54,2:47.68,James W McSpiritt,,Aguapalooza II,2012,4
+TNYA,200 M Freestyle,SCM,M,50-54,2:51.81,David Brundage,,Aguapalooza II,2012,5
+CHEL,200 M Freestyle,SCM,M,50-54,3:03.87,Thomas D Currier,,5th Bearcat Masters SCM Invitational,2012,6
+REDT,200 M Freestyle,SCM,M,50-54,3:05.37,Mark T Heller,,Aguapalooza II,2012,7
+TNYA,200 M Freestyle,SCM,M,50-54,3:26.61,Joseph N Burzynski,,Aguapalooza II,2012,8
+REDT,400 M Freestyle,SCM,M,50-54,4:42.52,Mark Loftis,,Rowdy Gaines Masters Classic IV,2012,1
+TNYA,400 M Freestyle,SCM,M,50-54,5:19.00,Brad G Cole,,Aguapalooza II,2012,2
+AQFT,400 M Freestyle,SCM,M,50-54,5:19.50,Jason Brown,,Aguapalooza II,2012,3
+CHEL,400 M Freestyle,SCM,M,50-54,6:37.31,Thomas D Currier,,5th Bearcat Masters SCM Invitational,2012,4
+REDT,400 M Freestyle,SCM,M,50-54,7:11.81,Mark T Heller,,Aguapalooza II,2012,5
+REDT,800 M Freestyle,SCM,M,50-54,9:53.31,Mark Loftis,,Rowdy Gaines Masters Classic IV,2012,1
+REDT,1500 M Freestyle,SCM,M,50-54,18:38.54,Mark Loftis,,Rowdy Gaines Masters Classic IV,2012,1
+AGUA,50 M Backstroke,SCM,M,50-54,35.24,Robert Z Bliss,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,50 M Backstroke,SCM,M,50-54,39.34,Bradford L Butler,,5th Bearcat Masters SCM Invitational,2012,2
+UNAT,50 M Backstroke,SCM,M,50-54,46.93,Robert Prignoli,,AGUA Masters SC Meter Sprint Classic,2012,3
+CHEL,50 M Backstroke,SCM,M,50-54,47.61,Thomas D Currier,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,100 M Backstroke,SCM,M,50-54,1:19.20,Brad G Cole,,Aguapalooza II,2012,1
+TNYA,100 M Backstroke,SCM,M,50-54,1:21.61,James M Massey,,Aguapalooza II,2012,2
+BCTM,100 M Backstroke,SCM,M,50-54,1:44.03,Quinn Batson,,5th Bearcat Masters SCM Invitational,2012,3
+CHEL,100 M Backstroke,SCM,M,50-54,1:48.76,Thomas D Currier,,AGUA Masters SC Meter Sprint Classic,2012,4
+UNAT,100 M Backstroke,SCM,M,50-54,1:49.75,Robert Prignoli,,AGUA Masters SC Meter Sprint Classic,2012,5
+TNYA,100 M Backstroke,SCM,M,50-54,3:00.28,Steven Z Goran,,Aguapalooza II,2012,6
+UNAT,50 M Breaststroke,SCM,M,50-54,40.71,Gary P Biester,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,50 M Breaststroke,SCM,M,50-54,44.67,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2012,2
+REDT,50 M Breaststroke,SCM,M,50-54,47.12,Mark T Heller,,AGUA Masters SC Meter Sprint Classic,2012,3
+AQFT,100 M Breaststroke,SCM,M,50-54,1:30.33,Keith Cataldo,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,100 M Breaststroke,SCM,M,50-54,1:35.66,Kent M Lau,,Aguapalooza II,2012,2
+TNYA,100 M Breaststroke,SCM,M,50-54,1:43.73,Joseph N Burzynski,,Aguapalooza II,2012,3
+AGUA,50 M Butterfly,SCM,M,50-54,30.21,Thomas Cole,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Butterfly,SCM,M,50-54,45.59,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2012,2
+CHEL,100 M Butterfly,SCM,M,50-54,1:12.21,Pascal Borderies,,Aguapalooza II,2012,1
+AGUA,100 M Individual Medley,SCM,M,50-54,1:14.55,Robert Z Bliss,,AGUA Masters SC Meter Sprint Classic,2012,1
+BCTM,100 M Individual Medley,SCM,M,50-54,1:19.11,Bradford L Butler,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,200 M Individual Medley,SCM,M,50-54,2:50.10,James M Massey,,Aguapalooza II,2012,1
+AQFT,200 M Individual Medley,SCM,M,50-54,3:16.34,Keith Cataldo,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,200 M Individual Medley,SCM,M,50-54,5:29.00,Steven Z Goran,,Aguapalooza II,2012,3
+AGUA,50 M Freestyle,SCM,M,55-59,30.96,Gilles A Chalandon,,AGUA Masters SC Meter Sprint Classic,2012,1
+WM,50 M Freestyle,SCM,M,55-59,33.07,Ed Hickey,,5th Bearcat Masters SCM Invitational,2012,2
+WM,50 M Freestyle,SCM,M,55-59,35.03,George H Steers,,AGUA Masters SC Meter Sprint Classic,2012,3
+REDT,50 M Freestyle,SCM,M,55-59,37.03,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2012,4
+TNYA,50 M Freestyle,SCM,M,55-59,40.19,Daniel F Rosemarin,,Aguapalooza II,2012,5
+TNYA,100 M Freestyle,SCM,M,55-59,1:09.24,Glenn Wharton,,Aguapalooza II,2012,1
+REDT,100 M Freestyle,SCM,M,55-59,1:12.72,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2012,2
+WM,100 M Freestyle,SCM,M,55-59,1:14.92,George H Steers,,AGUA Masters SC Meter Sprint Classic,2012,3
+WM,100 M Freestyle,SCM,M,55-59,1:16.41,Ed Hickey,,5th Bearcat Masters SCM Invitational,2012,4
+TNYA,100 M Freestyle,SCM,M,55-59,1:32.74,Daniel F Rosemarin,,Aguapalooza II,2012,5
+METR,100 M Freestyle,SCM,M,55-59,1:44.97,Steven Gerardi,,Aguapalooza II,2012,6
+UNAT,100 M Freestyle,SCM,M,55-59,1:55.94,Rashmin S Master,,Rowdy Gaines Masters Classic IV,2012,7
+TNYA,200 M Freestyle,SCM,M,55-59,2:33.22,Glenn Wharton,,Aguapalooza II,2012,1
+TNYA,200 M Freestyle,SCM,M,55-59,2:51.21,Thomas G Gelinne,,Aguapalooza II,2012,2
+METR,200 M Freestyle,SCM,M,55-59,3:50.35,Steven Gerardi,,Aguapalooza II,2012,3
+UNAT,200 M Freestyle,SCM,M,55-59,4:29.19,Rashmin S Master,,Rowdy Gaines Masters Classic IV,2012,4
+UNAT,400 M Freestyle,SCM,M,55-59,4:53.50,Matthew P Clark,,Aguapalooza II,2012,1
+CHEL,400 M Freestyle,SCM,M,55-59,5:29.00,John B Chambers,,Aguapalooza II,2012,2
+TNYA,400 M Freestyle,SCM,M,55-59,5:30.24,Glenn Wharton,,Aguapalooza II,2012,3
+TNYA,400 M Freestyle,SCM,M,55-59,6:02.42,Thomas G Gelinne,,Aguapalooza II,2012,4
+METR,400 M Freestyle,SCM,M,55-59,8:07.00,Steven Gerardi,,Aguapalooza II,2012,5
+UNAT,400 M Freestyle,SCM,M,55-59,9:24.56,Rashmin S Master,,Rowdy Gaines Masters Classic IV,2012,6
+TNYA,100 M Backstroke,SCM,M,55-59,1:24.12,Glenn Wharton,,Aguapalooza II,2012,1
+AGUA,50 M Breaststroke,SCM,M,55-59,42.04,Gilles A Chalandon,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Breaststroke,SCM,M,55-59,1:37.24,Tom Malcolm,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,100 M Breaststroke,SCM,M,55-59,1:39.53,Richard W Peterson,,Aguapalooza II,2012,2
+TNYA,200 M Breaststroke,SCM,M,55-59,3:35.73,Tom Malcolm,,5th Bearcat Masters SCM Invitational,2012,1
+REDT,50 M Butterfly,SCM,M,55-59,36.77,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2012,1
+WM,50 M Butterfly,SCM,M,55-59,38.82,George H Steers,,AGUA Masters SC Meter Sprint Classic,2012,2
+WM,50 M Butterfly,SCM,M,55-59,49.50,Ed Hickey,,5th Bearcat Masters SCM Invitational,2012,3
+UNAT,100 M Butterfly,SCM,M,55-59,1:14.78,John B Chambers,,AGUA Masters SC Meter Sprint Classic,2012,1
+TNYA,100 M Butterfly,SCM,M,55-59,1:22.34,Charles A Carson,,Aguapalooza II,2012,2
+TNYA,100 M Butterfly,SCM,M,55-59,1:34.45,Tom Malcolm,,Aguapalooza II,2012,3
+TNYA,100 M Butterfly,SCM,M,55-59,1:35.72,Richard W Peterson,,Aguapalooza II,2012,4
+REDT,100 M Individual Medley,SCM,M,55-59,1:28.05,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,200 M Individual Medley,SCM,M,55-59,2:39.22,Matthew P Clark,,Aguapalooza II,2012,1
+AGUA,200 M Individual Medley,SCM,M,55-59,2:55.79,Gilles A Chalandon,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,200 M Individual Medley,SCM,M,55-59,2:59.64,Charles A Carson,,Aguapalooza II,2012,3
+TNYA,200 M Individual Medley,SCM,M,55-59,3:17.63,Tom Malcolm,,Aguapalooza II,2012,4
+TNYA,200 M Individual Medley,SCM,M,55-59,3:33.91,Richard W Peterson,,Aguapalooza II,2012,5
+TNYA,50 M Freestyle,SCM,M,60-64,29.37,Peter L Kingan,,Aguapalooza II,2012,1
+REDT,50 M Freestyle,SCM,M,60-64,32.34,Stan V Filatov,,AGUA Masters SC Meter Sprint Classic,2012,2
+CHEL,50 M Freestyle,SCM,M,60-64,33.80,Mark A Block,,5th Bearcat Masters SCM Invitational,2012,3
+AGUA,50 M Freestyle,SCM,M,60-64,34.13,Bob Kolonkowski,,Aguapalooza II,2012,4
+REDT,100 M Freestyle,SCM,M,60-64,1:14.28,Stan V Filatov,,AGUA Masters SC Meter Sprint Classic,2012,1
+CHEL,100 M Freestyle,SCM,M,60-64,1:17.01,Mark A Block,,5th Bearcat Masters SCM Invitational,2012,2
+UNAT,100 M Freestyle,SCM,M,60-64,1:27.53,Stephen N Camhi,,Aguapalooza II,2012,3
+REDT,200 M Freestyle,SCM,M,60-64,3:06.77,Stan V Filatov,,5th Bearcat Masters SCM Invitational,2012,1
+TNYA,200 M Freestyle,SCM,M,60-64,3:12.31,C A Hutton,,Aguapalooza II,2012,2
+AGUA,200 M Freestyle,SCM,M,60-64,3:13.04,Bob Kolonkowski,,Aguapalooza II,2012,3
+UNAT,200 M Freestyle,SCM,M,60-64,3:15.22,Stephen N Camhi,,Aguapalooza II,2012,4
+FISH,400 M Freestyle,SCM,M,60-64,5:44.05,Jack Cothren,,South Carolina SCM Championships,2012,1
+TNYA,400 M Freestyle,SCM,M,60-64,6:53.81,C A Hutton,,Aguapalooza II,2012,2
+FISH,800 M Freestyle,SCM,M,60-64,12:54.36,Jack Cothren,,32nd Annual VMST Fall Meet,2012,1
+FISH,1500 M Freestyle,SCM,M,60-64,22:49.27,Jack Cothren,,32nd Annual VMST Fall Meet,2012,1
+AGUA,50 M Backstroke,SCM,M,60-64,38.82,Bob Kolonkowski,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Backstroke,SCM,M,60-64,44.91,Oleg Soloviev,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,100 M Backstroke,SCM,M,60-64,1:25.15,Bob Kolonkowski,,Aguapalooza II,2012,1
+UNAT,100 M Backstroke,SCM,M,60-64,1:39.18,Oleg Soloviev,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,100 M Backstroke,SCM,M,60-64,2:04.69,Michael Goldring,,Aguapalooza II,2012,3
+FISH,200 M Backstroke,SCM,M,60-64,3:01.52,Jack Cothren,,South Carolina SCM Championships,2012,1
+AGUA,200 M Backstroke,SCM,M,60-64,3:19.89,Bob Kolonkowski,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,100 M Breaststroke,SCM,M,60-64,1:21.89,Peter L Kingan,,Aguapalooza II,2012,1
+REDT,50 M Butterfly,SCM,M,60-64,35.14,Stan V Filatov,,5th Bearcat Masters SCM Invitational,2012,1
+UNAT,50 M Butterfly,SCM,M,60-64,44.71,Oleg Soloviev,,AGUA Masters SC Meter Sprint Classic,2012,2
+AGUA,100 M Butterfly,SCM,M,60-64,1:25.36,Bob Kolonkowski,,Aguapalooza II,2012,1
+REDT,100 M Butterfly,SCM,M,60-64,1:38.43,Stan V Filatov,,AGUA Masters SC Meter Sprint Classic,2012,2
+TNYA,100 M Butterfly,SCM,M,60-64,2:15.59,Michael Goldring,,Aguapalooza II,2012,3
+REDT,200 M Butterfly,SCM,M,60-64,3:56.96,Stan V Filatov,,5th Bearcat Masters SCM Invitational,2012,1
+UNAT,100 M Individual Medley,SCM,M,60-64,1:37.79,Oleg Soloviev,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,200 M Individual Medley,SCM,M,60-64,3:12.67,Bob Kolonkowski,,AGUA Masters SC Meter Sprint Classic,2012,1
+CHEL,200 M Individual Medley,SCM,M,60-64,3:17.86,Mark A Block,,5th Bearcat Masters SCM Invitational,2012,2
+TNYA,200 M Individual Medley,SCM,M,60-64,4:04.95,Michael Goldring,,Aguapalooza II,2012,3
+METR,50 M Freestyle,SCM,M,65-69,33.94,Charles F Wittman,,Aguapalooza II,2012,1
+AGUA,50 M Freestyle,SCM,M,65-69,37.96,Rich Bernstein,,2nd Annual Thanksgiving Classic,2012,2
+UNAT,50 M Freestyle,SCM,M,65-69,51.84,Lewis A Sellinger,,5th Bearcat Masters SCM Invitational,2012,3
+METR,100 M Freestyle,SCM,M,65-69,1:17.90,Charles F Wittman,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,100 M Freestyle,SCM,M,65-69,1:19.16,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,2
+AGUA,200 M Freestyle,SCM,M,65-69,2:42.39,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+METR,200 M Freestyle,SCM,M,65-69,3:04.50,Charles F Wittman,,Aguapalooza II,2012,2
+AGUA,400 M Freestyle,SCM,M,65-69,5:46.98,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+METR,400 M Freestyle,SCM,M,65-69,6:43.06,Charles F Wittman,,Aguapalooza II,2012,2
+AGUA,800 M Freestyle,SCM,M,65-69,11:35.06,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,1500 M Freestyle,SCM,M,65-69,22:59.20,Rich Bernstein,,2nd Annual Thanksgiving Classic,2012,1
+AGUA,50 M Backstroke,SCM,M,65-69,48.11,Richard F Bernstein,,5th Bearcat Masters SCM Invitational,2012,1
+UNAT,50 M Backstroke,SCM,M,65-69,1:04.43,Lewis A Sellinger,,5th Bearcat Masters SCM Invitational,2012,2
+AGUA,100 M Backstroke,SCM,M,65-69,1:37.45,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,200 M Backstroke,SCM,M,65-69,3:22.20,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,50 M Breaststroke,SCM,M,65-69,49.50,Rich Bernstein,,2nd Annual Thanksgiving Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,65-69,1:05.65,Lewis A Sellinger,,5th Bearcat Masters SCM Invitational,2012,2
+AGUA,100 M Breaststroke,SCM,M,65-69,1:41.81,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,200 M Breaststroke,SCM,M,65-69,3:43.79,Rich Bernstein,,2nd Annual Thanksgiving Classic,2012,1
+AGUA,50 M Butterfly,SCM,M,65-69,50.68,Rich Bernstein,,2nd Annual Thanksgiving Classic,2012,1
+UNAT,50 M Butterfly,SCM,M,65-69,1:08.21,Lewis A Sellinger,,5th Bearcat Masters SCM Invitational,2012,2
+AGUA,100 M Butterfly,SCM,M,65-69,1:56.85,Richard F Bernstein,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,200 M Butterfly,SCM,M,65-69,4:20.77,Richard F Bernstein,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,100 M Individual Medley,SCM,M,65-69,1:33.84,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+AGUA,200 M Individual Medley,SCM,M,65-69,3:24.43,Richard F Bernstein,,5th Bearcat Masters SCM Invitational,2012,1
+AGUA,400 M Individual Medley,SCM,M,65-69,7:00.71,Rich Bernstein,,2012 New England LMSC Short Course Meters Championship,2012,1
+UNAT,50 M Freestyle,SCM,M,70-74,45.65,Michael A Hatchette,,AGUA Masters SC Meter Sprint Classic,2012,1
+AGUA,50 M Freestyle,SCM,M,70-74,45.75,Eugene Schloss,,AGUA Masters SC Meter Sprint Classic,2012,2
+AQFT,50 M Freestyle,SCM,M,70-74,48.65,Norman R Provost,,Aguapalooza II,2012,3
+UNAT,50 M Freestyle,SCM,M,70-74,54.03,David H Klonsky,,AGUA Masters SC Meter Sprint Classic,2012,4
+AGUA,100 M Freestyle,SCM,M,70-74,1:45.23,Eugene Schloss,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Freestyle,SCM,M,70-74,1:46.81,Michael A Hatchette,,AGUA Masters SC Meter Sprint Classic,2012,2
+UNAT,100 M Freestyle,SCM,M,70-74,1:55.09,David H Klonsky,,AGUA Masters SC Meter Sprint Classic,2012,3
+WM,50 M Backstroke,SCM,M,70-74,41.74,Carl S Hoegler,,AGUA Masters SC Meter Sprint Classic,2012,1
+WM,100 M Backstroke,SCM,M,70-74,1:33.39,Carl S Hoegler,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,70-74,1:07.25,David H Klonsky,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,70-74,1:08.78,Michael A Hatchette,,AGUA Masters SC Meter Sprint Classic,2012,2
+AQFT,100 M Breaststroke,SCM,M,70-74,2:13.05,Norman R Provost,,Aguapalooza II,2012,1
+UNAT,100 M Breaststroke,SCM,M,70-74,2:23.48,David H Klonsky,,AGUA Masters SC Meter Sprint Classic,2012,2
+WM,50 M Butterfly,SCM,M,70-74,44.68,Carl S Hoegler,,AGUA Masters SC Meter Sprint Classic,2012,1
+WM,100 M Individual Medley,SCM,M,70-74,1:39.21,Carl S Hoegler,,AGUA Masters SC Meter Sprint Classic,2012,1
+UNAT,100 M Individual Medley,SCM,M,70-74,2:23.54,Michael A Hatchette,,AGUA Masters SC Meter Sprint Classic,2012,2
+METR,50 M Freestyle,SCM,M,75-79,44.50,Steve Schloss,,AGUA Masters SC Meter Sprint Classic,2012,1
+METR,100 M Freestyle,SCM,M,75-79,1:41.00,Steve Schloss,,Aguapalooza II,2012,1
+METR,200 M Freestyle,SCM,M,75-79,3:54.46,Steve Schloss,,Aguapalooza II,2012,1
+METR,400 M Freestyle,SCM,M,75-79,8:25.04,Steve Schloss,,Aguapalooza II,2012,1
+AGUA,50 M Freestyle,SCM,M,80-84,37.15,Stanley J Shechter,,AGUA Masters SC Meter Sprint Classic,2012,1
+METR,50 M Breaststroke,SCM,M,90-94,2:19.35,Jay Charles,,AGUA Masters SC Meter Sprint Classic,2012,1
+METR,50 M Butterfly,SCM,M,90-94,2:24.87,Jay Charles,,AGUA Masters SC Meter Sprint Classic,2012,1

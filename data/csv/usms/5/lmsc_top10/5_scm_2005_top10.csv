@@ -1,0 +1,105 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 M Freestyle,SCM,W,25-29,30.78,Amy M Gladwell,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Freestyle,SCM,W,25-29,1:06.69,Amy M Gladwell,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Backstroke,SCM,W,25-29,35.54,Amy M Gladwell,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Butterfly,SCM,W,25-29,32.79,Amy M Gladwell,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Butterfly,SCM,W,25-29,1:11.49,Amy M Gladwell,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Individual Medley,SCM,W,25-29,2:46.77,Amy M Gladwell,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Freestyle,SCM,W,35-39,34.01,Lisa Fahey,,Aquafit Holiday SCM Meet,2005,1
+CONN,400 M Freestyle,SCM,W,35-39,6:13.43,Kimberly A Russo,,Staples SCM,2005,1
+CONN,800 M Freestyle,SCM,W,35-39,12:22.97,Lisa Fahey,,Aquafit Holiday SCM Meet,2005,1
+CONN,50 M Freestyle,SCM,W,40-44,39:49.00,Kristen S Adams,,Staples SCM,2005,1
+CONN,100 M Backstroke,SCM,W,40-44,1:22.22,Cheryl A Kupan,,Staples SCM,2005,1
+CONN,50 M Breaststroke,SCM,W,40-44,5:17.00,Kristen S Adams,,Staples SCM,2005,1
+CONN,50 M Breaststroke,SCM,W,40-44,41:02.00,Cheryl A Kupan,,Staples SCM,2005,2
+CONN,100 M Breaststroke,SCM,W,40-44,1:29.74,Cheryl A Kupan,,Staples SCM,2005,1
+CONN,100 M Breaststroke,SCM,W,40-44,1:42.50,Kristen S Adams,,Staples SCM,2005,2
+CONN,50 M Butterfly,SCM,W,40-44,34:12.00,Cheryl A Kupan,,Staples SCM,2005,1
+CONN,100 M Freestyle,SCM,W,60-64,1:39.99,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Freestyle,SCM,W,60-64,3:43.92,Janit P Romayko,,Staples SCM,2005,1
+CONN,400 M Freestyle,SCM,W,60-64,7:42.71,Janit P Romayko,,Staples SCM,2005,1
+CONN,400 M Freestyle,SCM,W,60-64,8:32.73,Ann Louise Onton,,Colonies Zone SCM Champs,2005,2
+CONN,100 M Backstroke,SCM,W,60-64,2:00.88,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Backstroke,SCM,W,60-64,4:19.31,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Breaststroke,SCM,W,60-64,49:29.00,Janit P Romayko,,Staples SCM,2005,1
+CONN,100 M Breaststroke,SCM,W,60-64,1:48.32,Janit P Romayko,,Staples SCM,2005,1
+CONN,200 M Breaststroke,SCM,W,60-64,3:50.98,Janit P Romayko,,Staples SCM,2005,1
+CONN,50 M Butterfly,SCM,W,60-64,53.69,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Butterfly,SCM,W,60-64,2:05.51,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Butterfly,SCM,W,60-64,4:49.32,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Individual Medley,SCM,W,60-64,1:55.12,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Individual Medley,SCM,W,60-64,4:21.98,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,400 M Individual Medley,SCM,W,60-64,9:07.16,Ann Louise Onton,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Freestyle,SCM,W,70-74,48.87,Margaret Collins,,Aquafit Fall SCM Meet,2005,1
+CONN,100 M Freestyle,SCM,W,70-74,1:52.78,Margaret Collins,,Staples SCM,2005,1
+CONN,50 M Freestyle,SCM,W,95-99,4:05.96,Elizabeth M Dziadus,,Staples SCM,2005,1
+CONN,50 M Backstroke,SCM,W,95-99,3:36.30,Elizabeth M Dziadus,,Staples SCM,2005,1
+CONN,50 M Freestyle,SCM,M,35-39,29.77,Patrick L Good,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Freestyle,SCM,M,35-39,29:23.00,Lyes Mahfoudia,,Staples SCM,2005,2
+CONN,100 M Freestyle,SCM,M,35-39,1:06.08,Patrick L Good,,Staples SCM,2005,1
+CONN,200 M Freestyle,SCM,M,35-39,2:38.59,Patrick L Good,,Staples SCM,2005,1
+CONN,50 M Butterfly,SCM,M,35-39,32.95,Patrick L Good,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Butterfly,SCM,M,35-39,32:41.00,Lyes Mahfoudia,,Staples SCM,2005,2
+CONN,100 M Individual Medley,SCM,M,35-39,1:17.93,Patrick L Good,,Colonies Zone SCM Champs,2005,1
+CONN,400 M Freestyle,SCM,M,40-44,5:20.30,Rick Klutey,,Aquafit Fall SCM Meet,2005,1
+CONN,100 M Breaststroke,SCM,M,40-44,1:24.04,Rick Klutey,,Aquafit Fall SCM Meet,2005,1
+CONN,200 M Breaststroke,SCM,M,40-44,2:52.39,Rick Klutey,,Colonies Zone SCM Champs,2005,1
+CONN,400 M Individual Medley,SCM,M,40-44,5:45.10,Rick Klutey,,Aquafit Fall SCM Meet,2005,1
+UNAT,400 M Freestyle,SCM,M,45-49,5:08.19,Chris F Pierson,,Colonies Zone SCM Champs,2005,1
+UNAT,800 M Freestyle,SCM,M,45-49,10:29.67,Chris F Pierson,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Breaststroke,SCM,M,45-49,42:17.00,David Logan,,Staples SCM,2005,1
+CONN,100 M Breaststroke,SCM,M,45-49,1:30.19,David Logan,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Breaststroke,SCM,M,45-49,3:14.49,David Logan,,Staples SCM,2005,1
+CONN,200 M Butterfly,SCM,M,45-49,2:57.38,David Logan,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Freestyle,SCM,M,50-54,39:21.00,James A Scally,,Staples SCM,2005,1
+CONN,100 M Freestyle,SCM,M,50-54,1:31.26,James A Scally,,Staples SCM,2005,1
+CONN,200 M Freestyle,SCM,M,50-54,3:31.57,James A Scally,,Staples SCM,2005,1
+CONN,100 M Breaststroke,SCM,M,50-54,2:02.69,James A Scally,,Staples SCM,2005,1
+CONN,100 M Individual Medley,SCM,M,50-54,2:05.33,James A Scally,,Staples SCM,2005,1
+CONN,50 M Backstroke,SCM,M,55-59,40.00,Robert M Cahill,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Backstroke,SCM,M,55-59,1:27.40,Robert M Cahill,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Backstroke,SCM,M,55-59,3:10.27,Robert M Cahill,,Staples SCM,2005,1
+CONN,200 M Breaststroke,SCM,M,55-59,3:21.61,William J Geoghegan,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Butterfly,SCM,M,55-59,3:19.49,William J Geoghegan,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Individual Medley,SCM,M,55-59,1:17.95,William J Geoghegan,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Individual Medley,SCM,M,55-59,2:59.36,William J Geoghegan,,Staples SCM,2005,1
+CONN,200 M Individual Medley,SCM,M,55-59,3:07.41,Robert M Cahill,,Colonies Zone SCM Champs,2005,2
+CONN,400 M Individual Medley,SCM,M,55-59,6:31.66,William J Geoghegan,,Staples SCM,2005,1
+CONN,50 M Backstroke,SCM,M,60-64,47.15,Peter P Berghaus,,Aquafit Fall SCM Meet,2005,1
+CONN,200 M Backstroke,SCM,M,60-64,3:44.07,Peter P Berghaus,,Aquafit Fall SCM Meet,2005,1
+CONN,100 M Breaststroke,SCM,M,60-64,1:42.28,Peter P Berghaus,,Aquafit Fall SCM Meet,2005,1
+CONN,200 M Breaststroke,SCM,M,60-64,3:16.17,Michael A Laux,,Staples SCM,2005,1
+CONN,200 M Breaststroke,SCM,M,60-64,3:48.64,Peter P Berghaus,,Aquafit Fall SCM Meet,2005,2
+CONN,50 M Butterfly,SCM,M,60-64,48.94,Peter P Berghaus,,Aquafit Holiday SCM Meet,2005,1
+CONN,100 M Butterfly,SCM,M,60-64,1:25.28,Michael A Laux,,Staples SCM,2005,1
+CONN,100 M Individual Medley,SCM,M,60-64,1:44.11,Peter P Berghaus,,Aquafit Holiday SCM Meet,2005,1
+CONN,200 M Individual Medley,SCM,M,60-64,3:47.44,Peter P Berghaus,,Aquafit Fall SCM Meet,2005,1
+CONN,400 M Individual Medley,SCM,M,60-64,6:54.71,Michael A Laux,,Staples SCM,2005,1
+CONN,400 M Freestyle,SCM,M,65-69,7:27.16,Raymond A Thornberg,,Staples SCM,2005,1
+CONN,100 M Backstroke,SCM,M,65-69,2:01.51,Raymond A Thornberg,,Staples SCM,2005,1
+CONN,100 M Individual Medley,SCM,M,65-69,2:00.87,Raymond A Thornberg,,Staples SCM,2005,1
+CONN,200 M Individual Medley,SCM,M,65-69,4:25.14,Raymond A Thornberg,,Staples SCM,2005,1
+CONN,50 M Freestyle,SCM,M,70-74,1:02.69,James A Goldsmith,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Freestyle,SCM,M,70-74,2:31.94,James A Goldsmith,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Freestyle,SCM,M,70-74,5:49.97,James A Goldsmith,,Colonies Zone SCM Champs,2005,1
+CONN,400 M Freestyle,SCM,M,70-74,12:24.33,James A Goldsmith,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Backstroke,SCM,M,70-74,1:35.50,James A Goldsmith,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Backstroke,SCM,M,70-74,3:35.32,James A Goldsmith,,Staples SCM,2005,1
+CONN,200 M Backstroke,SCM,M,70-74,7:35.25,James A Goldsmith,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Freestyle,SCM,M,75-79,1:44.46,Francis M Dooley,,Staples SCM,2005,1
+CONN,200 M Freestyle,SCM,M,75-79,3:50.15,Francis M Dooley,,Staples SCM,2005,1
+CONN,200 M Freestyle,SCM,M,75-79,3:56.64,Fred H Goldner,,Aquafit Fall SCM Meet,2005,2
+CONN,400 M Freestyle,SCM,M,75-79,8:18.52,Fred H Goldner,,Aquafit Fall SCM Meet,2005,1
+CONN,400 M Freestyle,SCM,M,75-79,8:35.90,Francis M Dooley,,Staples SCM,2005,2
+CONN,1500 M Freestyle,SCM,M,75-79,31:57.06,Fred H Goldner,,Aquafit Holiday SCM Meet,2005,1
+CONN,50 M Breaststroke,SCM,M,75-79,4:38.00,Charles J Urstadt,,Staples SCM,2005,1
+CONN,100 M Breaststroke,SCM,M,75-79,1:45.99,Charles J Urstadt,,Staples SCM,2005,1
+CONN,50 M Freestyle,SCM,M,80-84,47:08.00,Wayne P Shadbolt,,Staples SCM,2005,1
+CONN,100 M Freestyle,SCM,M,80-84,1:49.55,Wayne P Shadbolt,,Staples SCM,2005,1
+CONN,200 M Freestyle,SCM,M,80-84,4:09.27,Wayne P Shadbolt,,Staples SCM,2005,1
+CONN,400 M Freestyle,SCM,M,80-84,8:31.54,Wayne P Shadbolt,,Staples SCM,2005,1
+CONN,400 M Freestyle,SCM,M,85-89,8:54.45,John Merrill,,Colonies Zone SCM Champs,2005,1
+CONN,800 M Freestyle,SCM,M,85-89,18:09.32,John Merrill,,Colonies Zone SCM Champs,2005,1
+CONN,50 M Backstroke,SCM,M,85-89,50.76,John Merrill,,Colonies Zone SCM Champs,2005,1
+CONN,100 M Backstroke,SCM,M,85-89,1:57.85,John Merrill,,Colonies Zone SCM Champs,2005,1
+CONN,200 M Backstroke,SCM,M,85-89,4:05.07,John Merrill,,Colonies Zone SCM Champs,2005,1

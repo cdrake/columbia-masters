@@ -1,0 +1,881 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AQFT,50 M Freestyle,SCM,W,18-24,30.13,Shannon Dwyer,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Freestyle,SCM,W,18-24,31.06,Megan McNeely,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Freestyle,SCM,W,18-24,34.68,Brittney R Villalva,,NY vs NJ Duel In The Pool,2010,3
+REDT,50 M Freestyle,SCM,W,18-24,40.76,Camille V Hausheer,,NY vs NJ Duel In The Pool,2010,4
+AQFT,50 M Freestyle,SCM,W,18-24,42.90,Miriam Goldstein,,Cinco De Mayo Invitational,2010,5
+AQFT,100 M Freestyle,SCM,W,18-24,1:04.46,Shannon Dwyer,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Freestyle,SCM,W,18-24,1:07.38,Megan McNeely,,NY vs NJ Duel In The Pool,2010,2
+BCTM,100 M Freestyle,SCM,W,18-24,1:13.44,Grace Kim,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+REDT,100 M Freestyle,SCM,W,18-24,1:22.85,Zahava Alter,,NY vs NJ Duel In The Pool,2010,4
+REDT,100 M Freestyle,SCM,W,18-24,1:29.95,Miriam Goldstein,,NY vs NJ Duel In The Pool,2010,5
+REDT,100 M Freestyle,SCM,W,18-24,1:30.50,Camille V Hausheer,,NY vs NJ Duel In The Pool,2010,6
+REDT,200 M Freestyle,SCM,W,18-24,3:11.06,Camille V Hausheer,,NY vs NJ Duel In The Pool,2010,1
+REDT,400 M Freestyle,SCM,W,18-24,6:43.23,Camille V Hausheer,,Cinco De Mayo Invitational,2010,1
+BCTM,50 M Backstroke,SCM,W,18-24,36.03,Grace Kim,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+METR,50 M Backstroke,SCM,W,18-24,49.83,Jessica F Killoran,,NY vs NJ Duel In The Pool,2010,2
+AQFT,100 M Backstroke,SCM,W,18-24,1:15.84,Megan McNeely,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Backstroke,SCM,W,18-24,1:17.06,Grace Kim,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+TNYA,100 M Backstroke,SCM,W,18-24,1:20.36,Jess Jiang,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+REDT,50 M Breaststroke,SCM,W,18-24,43.04,Brittney R Villalva,,Cinco De Mayo Invitational,2010,1
+REDT,50 M Breaststroke,SCM,W,18-24,48.52,Camille V Hausheer,,NY vs NJ Duel In The Pool,2010,2
+AQFT,50 M Breaststroke,SCM,W,18-24,54.91,Miriam Goldstein,,Cinco De Mayo Invitational,2010,3
+AQFT,100 M Breaststroke,SCM,W,18-24,1:28.16,Megan McNeely,,NY vs NJ Duel In The Pool,2010,1
+TNYA,100 M Breaststroke,SCM,W,18-24,1:32.73,Jess Jiang,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+REDT,100 M Breaststroke,SCM,W,18-24,1:33.02,Brittney R Villalva,,Cinco De Mayo Invitational,2010,3
+REDT,100 M Breaststroke,SCM,W,18-24,1:53.62,Miriam Goldstein,,NY vs NJ Duel In The Pool,2010,4
+REDT,50 M Butterfly,SCM,W,18-24,34.94,Zahava Alter,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Butterfly,SCM,W,18-24,37.95,Nathalie Barbanel,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+REDT,50 M Butterfly,SCM,W,18-24,40.89,Brittney R Villalva,,Cinco De Mayo Invitational,2010,3
+AQFT,50 M Butterfly,SCM,W,18-24,48.54,Miriam Goldstein,,Cinco De Mayo Invitational,2010,4
+AQFT,100 M Butterfly,SCM,W,18-24,1:12.25,Shannon Dwyer,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Butterfly,SCM,W,18-24,1:21.98,Zahava Alter,,NY vs NJ Duel In The Pool,2010,2
+BCTM,100 M Butterfly,SCM,W,18-24,1:25.65,Nathalie Barbanel,,New England Short Course Meters Championship,2010,3
+REDT,200 M Butterfly,SCM,W,18-24,2:57.27,Zahava Alter,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Individual Medley,SCM,W,18-24,1:15.39,Shannon Dwyer,,NY vs NJ Duel In The Pool,2010,1
+TNYA,100 M Individual Medley,SCM,W,18-24,1:23.57,Jess Jiang,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+BCTM,100 M Individual Medley,SCM,W,18-24,1:23.71,Nathalie Barbanel,,New England Short Course Meters Championship,2010,3
+REDT,100 M Individual Medley,SCM,W,18-24,1:28.93,Brittney R Villalva,,NY vs NJ Duel In The Pool,2010,4
+AQFT,100 M Individual Medley,SCM,W,18-24,1:48.55,Miriam Goldstein,,Cinco De Mayo Invitational,2010,5
+BCTM,200 M Individual Medley,SCM,W,18-24,2:58.46,Nathalie Barbanel,,New England Short Course Meters Championship,2010,1
+AGUA,50 M Freestyle,SCM,W,25-29,26.94,Amy K Johnson,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Freestyle,SCM,W,25-29,30.73,Katelyn E Kane,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+BCTM,50 M Freestyle,SCM,W,25-29,31.44,Chrissy Mitakakis,,NY vs NJ Duel In The Pool,2010,3
+AGUA,50 M Freestyle,SCM,W,25-29,31.94,Erin M Merritt,,NY vs NJ Duel In The Pool,2010,4
+BCTM,50 M Freestyle,SCM,W,25-29,34.11,Stephanie Wilson,,Cinco De Mayo Invitational,2010,5
+REDT,50 M Freestyle,SCM,W,25-29,34.28,Erin M Dougherty,,NY vs NJ Duel In The Pool,2010,6
+BCTM,50 M Freestyle,SCM,W,25-29,35.07,Keren A Rosenfeld,,Cinco De Mayo Invitational,2010,7
+BCTM,50 M Freestyle,SCM,W,25-29,35.84,Erin K Kehoe,,Cinco De Mayo Invitational,2010,8
+AGUA,100 M Freestyle,SCM,W,25-29,58.78,Amy K Johnson,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Freestyle,SCM,W,25-29,1:01.58,Kaitlin M Moughty,,NY vs NJ Duel In The Pool,2010,2
+BCTM,100 M Freestyle,SCM,W,25-29,1:06.97,Katelyn E Kane,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+BCTM,100 M Freestyle,SCM,W,25-29,1:09.14,Jessie Lennon,,AGUA SC Meters Pentathlon,2010,4
+TNYA,100 M Freestyle,SCM,W,25-29,1:12.98,Jill Ozovek,,Cinco De Mayo Invitational,2010,5
+BCTM,100 M Freestyle,SCM,W,25-29,1:13.26,Christine A Hyjek,,Cinco De Mayo Invitational,2010,6
+UNAT,100 M Freestyle,SCM,W,25-29,1:15.39,Alexandra Olsen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+AQFT,100 M Freestyle,SCM,W,25-29,1:16.67,Elizabeth Corvo,,NY vs NJ Duel In The Pool,2010,8
+NYCH,100 M Freestyle,SCM,W,25-29,1:17.98,Meaghan I Murphy,,AGUA SC Meters Pentathlon,2010,9
+BCTM,100 M Freestyle,SCM,W,25-29,1:21.46,Stephanie Wilson,,Cinco De Mayo Invitational,2010,10
+REDT,200 M Freestyle,SCM,W,25-29,2:12.41,Kaitlin M Moughty,,NY vs NJ Duel In The Pool,2010,1
+TNYA,200 M Freestyle,SCM,W,25-29,2:44.22,Jill Ozovek,,NY vs NJ Duel In The Pool,2010,2
+BCTM,400 M Freestyle,SCM,W,25-29,5:36.74,Erin K Kehoe,,Cinco De Mayo Invitational,2010,1
+REDT,50 M Backstroke,SCM,W,25-29,33.03,Tal Shpaizer,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Backstroke,SCM,W,25-29,35.52,Amy K Johnson,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Backstroke,SCM,W,25-29,39.72,Chrissy Mitakakis,,New England Short Course Meters Championship,2010,3
+TNYA,50 M Backstroke,SCM,W,25-29,39.74,Jill Ozovek,,NY vs NJ Duel In The Pool,2010,4
+UNAT,50 M Backstroke,SCM,W,25-29,44.59,Angela M Vietmeier,,NY vs NJ Duel In The Pool,2010,5
+REDT,100 M Backstroke,SCM,W,25-29,1:11.52,Tal Shpaizer,,NY vs NJ Duel In The Pool,2010,1
+BCTM,200 M Backstroke,SCM,W,25-29,2:57.17,Christine A Hyjek,,Cinco De Mayo Invitational,2010,1
+REDT,50 M Breaststroke,SCM,W,25-29,37.44,Tal Shpaizer,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Breaststroke,SCM,W,25-29,48.86,Keren A Rosenfeld,,Cinco De Mayo Invitational,2010,2
+REDT,100 M Breaststroke,SCM,W,25-29,1:29.25,Erin M Dougherty,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Breaststroke,SCM,W,25-29,1:30.52,Jessie Lennon,,AGUA SC Meters Pentathlon,2010,2
+AQFT,100 M Breaststroke,SCM,W,25-29,1:31.49,Elizabeth Corvo,,NY vs NJ Duel In The Pool,2010,3
+BCTM,100 M Breaststroke,SCM,W,25-29,1:40.71,Keren A Rosenfeld,,Cinco De Mayo Invitational,2010,4
+AGUA,50 M Butterfly,SCM,W,25-29,29.64,Amy K Johnson,,NY vs NJ Duel In The Pool,2010,1
+REDT,50 M Butterfly,SCM,W,25-29,31.70,Tal Shpaizer,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Butterfly,SCM,W,25-29,33.55,Katelyn E Kane,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+BCTM,50 M Butterfly,SCM,W,25-29,33.57,Chrissy Mitakakis,,New England Short Course Meters Championship,2010,4
+AGUA,50 M Butterfly,SCM,W,25-29,35.21,Erin M Merritt,,NY vs NJ Duel In The Pool,2010,5
+BCTM,50 M Butterfly,SCM,W,25-29,36.92,Christine A Hyjek,,Cinco De Mayo Invitational,2010,6
+UNAT,50 M Butterfly,SCM,W,25-29,38.63,Alexandra Olsen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+BCTM,50 M Butterfly,SCM,W,25-29,39.63,Erin K Kehoe,,Cinco De Mayo Invitational,2010,8
+UNAT,50 M Butterfly,SCM,W,25-29,40.35,Angela M Vietmeier,,NY vs NJ Duel In The Pool,2010,9
+BCTM,50 M Butterfly,SCM,W,25-29,41.69,Denise Mui,,Cinco De Mayo Invitational,2010,10
+BCTM,50 M Butterfly,SCM,W,25-29,43.32,Keren A Rosenfeld,,Cinco De Mayo Invitational,2010,11
+REDT,100 M Butterfly,SCM,W,25-29,1:08.12,Kaitlin M Moughty,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Butterfly,SCM,W,25-29,1:15.63,Katelyn E Kane,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+BCTM,100 M Butterfly,SCM,W,25-29,1:16.91,Chrissy Mitakakis,,New England Short Course Meters Championship,2010,3
+BCTM,100 M Butterfly,SCM,W,25-29,1:20.69,Jessie Lennon,,AGUA SC Meters Pentathlon,2010,4
+UNAT,100 M Butterfly,SCM,W,25-29,1:29.66,Alexandra Olsen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AGUA,200 M Butterfly,SCM,W,25-29,2:42.61,Erin M Merritt,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Individual Medley,SCM,W,25-29,1:10.77,Kaitlin M Moughty,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Individual Medley,SCM,W,25-29,1:22.95,Chrissy Mitakakis,,New England Short Course Meters Championship,2010,2
+AQFT,100 M Individual Medley,SCM,W,25-29,1:26.12,Elizabeth Corvo,,NY vs NJ Duel In The Pool,2010,3
+UNAT,100 M Individual Medley,SCM,W,25-29,1:27.93,Alexandra Olsen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+BCTM,100 M Individual Medley,SCM,W,25-29,1:31.15,Erin K Kehoe,,Cinco De Mayo Invitational,2010,5
+BCTM,100 M Individual Medley,SCM,W,25-29,1:34.86,Denise Mui,,Cinco De Mayo Invitational,2010,6
+UNAT,100 M Individual Medley,SCM,W,25-29,1:35.70,Angela M Vietmeier,,NY vs NJ Duel In The Pool,2010,7
+REDT,200 M Individual Medley,SCM,W,25-29,3:00.41,Erin M Dougherty,,NY vs NJ Duel In The Pool,2010,1
+NYCH,200 M Individual Medley,SCM,W,25-29,3:06.84,Meaghan I Murphy,,AGUA SC Meters Pentathlon,2010,2
+AGUA,400 M Individual Medley,SCM,W,25-29,5:44.51,Erin M Merritt,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Freestyle,SCM,W,30-34,33.29,Stephanie Wells,,NY vs NJ Duel In The Pool,2010,1
+REDT,50 M Freestyle,SCM,W,30-34,36.16,Rachel F Cohen,,NY vs NJ Duel In The Pool,2010,2
+FISH,50 M Freestyle,SCM,W,30-34,36.69,Carolyn Bennett,,NY vs NJ Duel In The Pool,2010,3
+REDT,50 M Freestyle,SCM,W,30-34,37.73,Tiffany M Sinder,,NY vs NJ Duel In The Pool,2010,4
+UNAT,50 M Freestyle,SCM,W,30-34,38.74,April M LeMieux,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AGUA,50 M Freestyle,SCM,W,30-34,39.01,Nicole J Wojno,,New England Short Course Meters Championship,2010,6
+AQFT,50 M Freestyle,SCM,W,30-34,39.41,Erika Friedrich,,NY vs NJ Duel In The Pool,2010,7
+BCTM,50 M Freestyle,SCM,W,30-34,40.79,Ivy Rauzin,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,8
+AQFT,50 M Freestyle,SCM,W,30-34,46.41,Sicily Stephens,,NY vs NJ Duel In The Pool,2010,9
+REDT,100 M Freestyle,SCM,W,30-34,1:06.96,Kelly A McPherson,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Freestyle,SCM,W,30-34,1:20.99,Rachel F Cohen,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Freestyle,SCM,W,30-34,1:25.21,Tiffany M Sinder,,NY vs NJ Duel In The Pool,2010,3
+FISH,100 M Freestyle,SCM,W,30-34,1:28.08,Emily S Dozier,,NY vs NJ Duel In The Pool,2010,4
+AGUA,100 M Freestyle,SCM,W,30-34,1:28.74,Nicole J Wojno,,New England Short Course Meters Championship,2010,5
+UNAT,100 M Freestyle,SCM,W,30-34,1:29.34,April M LeMieux,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,6
+BCTM,100 M Freestyle,SCM,W,30-34,1:31.65,Ivy Rauzin,,New England Short Course Meters Championship,2010,7
+AQFT,100 M Freestyle,SCM,W,30-34,1:50.92,Sicily Stephens,,NY vs NJ Duel In The Pool,2010,8
+REDT,200 M Freestyle,SCM,W,30-34,2:25.83,Susan M Schriver,,NY vs NJ Duel In The Pool,2010,1
+REDT,200 M Freestyle,SCM,W,30-34,2:26.00,Kelly A McPherson,,NY vs NJ Duel In The Pool,2010,2
+METR,200 M Freestyle,SCM,W,30-34,2:36.89,Julie A Schoenlank,,New England Short Course Meters Championship,2010,3
+FISH,200 M Freestyle,SCM,W,30-34,2:48.78,Carolyn Bennett,,NY vs NJ Duel In The Pool,2010,4
+REDT,200 M Freestyle,SCM,W,30-34,2:58.96,Rachel F Cohen,,NY vs NJ Duel In The Pool,2010,5
+FISH,200 M Freestyle,SCM,W,30-34,3:05.46,Emily S Dozier,,NY vs NJ Duel In The Pool,2010,6
+AGUA,200 M Freestyle,SCM,W,30-34,3:10.63,Nicole J Wojno,,NY vs NJ Duel In The Pool,2010,7
+REDT,200 M Freestyle,SCM,W,30-34,3:27.19,Mariya V Vasileva,,NY vs NJ Duel In The Pool,2010,8
+AQFT,200 M Freestyle,SCM,W,30-34,3:58.63,Sicily Stephens,,NY vs NJ Duel In The Pool,2010,9
+REDT,400 M Freestyle,SCM,W,30-34,5:30.91,Abigail A Fairman,,2010 SPMA Short Course Meters Championships,2010,1
+BCTM,400 M Freestyle,SCM,W,30-34,5:55.32,Elaine Mui,,Cinco De Mayo Invitational,2010,2
+AGUA,400 M Freestyle,SCM,W,30-34,6:51.26,Nicole J Wojno,,New England Short Course Meters Championship,2010,3
+REDT,800 M Freestyle,SCM,W,30-34,11:14.94,Abigail A Fairman,,2010 SPMA Short Course Meters Championships,2010,1
+REDT,1500 M Freestyle,SCM,W,30-34,21:30.94,Abigail A Fairman,,2010 SPMA Short Course Meters Championships,2010,1
+METR,50 M Backstroke,SCM,W,30-34,37.27,Julie A Schoenlank,,New England Short Course Meters Championship,2010,1
+METR,100 M Backstroke,SCM,W,30-34,1:19.20,Julie A Schoenlank,,New England Short Course Meters Championship,2010,1
+REDT,100 M Backstroke,SCM,W,30-34,1:20.34,Susan M Schriver,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Backstroke,SCM,W,30-34,1:23.74,Jennifer R Mayman,,NY vs NJ Duel In The Pool,2010,3
+REDT,100 M Backstroke,SCM,W,30-34,1:30.32,Jennifer S Snyder,,Cinco De Mayo Invitational,2010,4
+REDT,100 M Backstroke,SCM,W,30-34,1:42.71,Mariya V Vasileva,,NY vs NJ Duel In The Pool,2010,5
+REDT,100 M Backstroke,SCM,W,30-34,1:44.34,Rachel F Cohen,,NY vs NJ Duel In The Pool,2010,6
+METR,200 M Backstroke,SCM,W,30-34,2:55.99,Julie A Schoenlank,,New England Short Course Meters Championship,2010,1
+REDT,200 M Backstroke,SCM,W,30-34,3:04.17,Abigail A Fairman,,2010 SPMA Short Course Meters Championships,2010,2
+BCTM,200 M Backstroke,SCM,W,30-34,3:06.04,Elaine Mui,,Cinco De Mayo Invitational,2010,3
+FISH,200 M Backstroke,SCM,W,30-34,3:37.93,Emily S Dozier,,NY vs NJ Duel In The Pool,2010,4
+REDT,200 M Backstroke,SCM,W,30-34,3:42.44,Mariya V Vasileva,,NY vs NJ Duel In The Pool,2010,5
+TNYA,50 M Breaststroke,SCM,W,30-34,45.06,Sara Widman,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+BCTM,50 M Breaststroke,SCM,W,30-34,48.34,Ivy Rauzin,,Cinco De Mayo Invitational,2010,2
+UNAT,50 M Breaststroke,SCM,W,30-34,48.74,April M LeMieux,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+FISH,50 M Breaststroke,SCM,W,30-34,49.82,Carolyn Bennett,,NY vs NJ Duel In The Pool,2010,4
+REDT,50 M Breaststroke,SCM,W,30-34,51.91,Tiffany M Sinder,,NY vs NJ Duel In The Pool,2010,5
+AGUA,50 M Breaststroke,SCM,W,30-34,52.26,Nicole J Wojno,,New England Short Course Meters Championship,2010,6
+REDT,100 M Breaststroke,SCM,W,30-34,1:36.57,Jennifer S Snyder,,Cinco De Mayo Invitational,2010,1
+UNAT,100 M Breaststroke,SCM,W,30-34,1:44.70,April M LeMieux,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Breaststroke,SCM,W,30-34,1:52.25,Tiffany M Sinder,,NY vs NJ Duel In The Pool,2010,3
+AGUA,100 M Breaststroke,SCM,W,30-34,1:55.97,Nicole J Wojno,,New England Short Course Meters Championship,2010,4
+UNAT,200 M Breaststroke,SCM,W,30-34,3:43.52,April M LeMieux,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Butterfly,SCM,W,30-34,43.85,Ivy Rauzin,,Cinco De Mayo Invitational,2010,1
+REDT,100 M Butterfly,SCM,W,30-34,1:15.32,Susan M Schriver,,NY vs NJ Duel In The Pool,2010,1
+REDT,200 M Butterfly,SCM,W,30-34,2:52.89,Kelly A McPherson,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Individual Medley,SCM,W,30-34,1:24.45,Jennifer R Mayman,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Individual Medley,SCM,W,30-34,1:27.34,Jennifer S Snyder,,Cinco De Mayo Invitational,2010,2
+FISH,100 M Individual Medley,SCM,W,30-34,1:36.38,Carolyn Bennett,,NY vs NJ Duel In The Pool,2010,3
+BCTM,100 M Individual Medley,SCM,W,30-34,1:40.12,Ivy Rauzin,,Cinco De Mayo Invitational,2010,4
+FISH,100 M Individual Medley,SCM,W,30-34,1:40.76,Emily S Dozier,,NY vs NJ Duel In The Pool,2010,5
+REDT,100 M Individual Medley,SCM,W,30-34,1:43.04,Mariya V Vasileva,,NY vs NJ Duel In The Pool,2010,6
+UNAT,100 M Individual Medley,SCM,W,30-34,1:43.72,April M LeMieux,,NY vs NJ Duel In The Pool,2010,7
+REDT,200 M Individual Medley,SCM,W,30-34,2:41.97,Susan M Schriver,,NY vs NJ Duel In The Pool,2010,1
+UNAT,200 M Individual Medley,SCM,W,30-34,3:49.88,April M LeMieux,,NY vs NJ Duel In The Pool,2010,2
+METR,50 M Freestyle,SCM,W,35-39,33.17,Jennifer J Kyff,,NY vs NJ Duel In The Pool,2010,1
+TNYA,50 M Freestyle,SCM,W,35-39,36.88,Elisabeth A Turnbull-Brown,,Cinco De Mayo Invitational,2010,2
+TNYA,50 M Freestyle,SCM,W,35-39,43.39,Clara Mangili,,NY vs NJ Duel In The Pool,2010,3
+REDT,100 M Freestyle,SCM,W,35-39,1:02.57,Jane M Kelsey,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Freestyle,SCM,W,35-39,1:07.16,Anna S Armentrout,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Freestyle,SCM,W,35-39,1:19.63,Carmen E Menocal,,NY vs NJ Duel In The Pool,2010,3
+TNYA,100 M Freestyle,SCM,W,35-39,1:33.78,Clara Mangili,,NY vs NJ Duel In The Pool,2010,4
+REDT,200 M Freestyle,SCM,W,35-39,2:17.22,Jane M Kelsey,,NY vs NJ Duel In The Pool,2010,1
+REDT,200 M Freestyle,SCM,W,35-39,2:33.08,Sara A Upton,,NY vs NJ Duel In The Pool,2010,2
+REDT,200 M Freestyle,SCM,W,35-39,2:51.59,Carmen E Menocal,,NY vs NJ Duel In The Pool,2010,3
+TNYA,200 M Freestyle,SCM,W,35-39,3:18.09,Clara Mangili,,NY vs NJ Duel In The Pool,2010,4
+METR,50 M Backstroke,SCM,W,35-39,37.98,Jennifer J Kyff,,Cinco De Mayo Invitational,2010,1
+REDT,100 M Backstroke,SCM,W,35-39,1:15.17,Jane M Kelsey,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Backstroke,SCM,W,35-39,1:15.19,Anna S Armentrout,,NY vs NJ Duel In The Pool,2010,2
+METR,100 M Backstroke,SCM,W,35-39,1:30.38,Jennifer J Kyff,,NY vs NJ Duel In The Pool,2010,3
+REDT,100 M Backstroke,SCM,W,35-39,1:31.11,Carmen E Menocal,,NY vs NJ Duel In The Pool,2010,4
+METR,200 M Backstroke,SCM,W,35-39,2:59.66,Jennifer J Kyff,,Cinco De Mayo Invitational,2010,1
+REDT,200 M Backstroke,SCM,W,35-39,3:00.40,Sara A Upton,,NY vs NJ Duel In The Pool,2010,2
+TNYA,50 M Breaststroke,SCM,W,35-39,42.97,Elisabeth A Turnbull-Brown,,Cinco De Mayo Invitational,2010,1
+TNYA,50 M Breaststroke,SCM,W,35-39,52.72,Clara Mangili,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+REDT,100 M Breaststroke,SCM,W,35-39,1:29.40,Anna S Armentrout,,NY vs NJ Duel In The Pool,2010,1
+TNYA,100 M Breaststroke,SCM,W,35-39,1:34.30,Elisabeth A Turnbull-Brown,,Cinco De Mayo Invitational,2010,2
+TNYA,100 M Breaststroke,SCM,W,35-39,1:51.08,Clara Mangili,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+TNYA,200 M Breaststroke,SCM,W,35-39,3:23.98,Elisabeth A Turnbull-Brown,,Cinco De Mayo Invitational,2010,1
+METR,50 M Butterfly,SCM,W,35-39,36.11,Jennifer J Kyff,,Cinco De Mayo Invitational,2010,1
+REDT,100 M Butterfly,SCM,W,35-39,1:16.13,Anna S Armentrout,,NY vs NJ Duel In The Pool,2010,1
+REDT,200 M Butterfly,SCM,W,35-39,3:06.14,Sara A Upton,,NY vs NJ Duel In The Pool,2010,1
+METR,200 M Butterfly,SCM,W,35-39,3:20.01,Jennifer J Kyff,,Cinco De Mayo Invitational,2010,2
+TNYA,100 M Individual Medley,SCM,W,35-39,1:32.39,Elisabeth A Turnbull-Brown,,Cinco De Mayo Invitational,2010,1
+REDT,200 M Individual Medley,SCM,W,35-39,3:22.81,Carmen E Menocal,,NY vs NJ Duel In The Pool,2010,1
+REDT,400 M Individual Medley,SCM,W,35-39,5:40.59,Jane M Kelsey,,NY vs NJ Duel In The Pool,2010,1
+REDT,400 M Individual Medley,SCM,W,35-39,6:10.98,Sara A Upton,,NY vs NJ Duel In The Pool,2010,2
+AGUA,50 M Freestyle,SCM,W,40-44,27.85,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+BCTM,50 M Freestyle,SCM,W,40-44,39.41,Gina Volpe,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+REDT,50 M Freestyle,SCM,W,40-44,40.11,Mikiko Yamashita,,NY vs NJ Duel In The Pool,2010,3
+AGUA,50 M Freestyle,SCM,W,40-44,45.56,Priscilla C O'Carroll,,NY vs NJ Duel In The Pool,2010,4
+AGUA,100 M Freestyle,SCM,W,40-44,1:00.35,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+REDT,100 M Freestyle,SCM,W,40-44,1:02.56,Kristin J Gary,,NY vs NJ Duel In The Pool,2010,2
+METR,100 M Freestyle,SCM,W,40-44,1:18.94,Kirsten Berger,,NY vs NJ Duel In The Pool,2010,3
+REDT,100 M Freestyle,SCM,W,40-44,1:29.86,Mikiko Yamashita,,NY vs NJ Duel In The Pool,2010,4
+BCTM,100 M Freestyle,SCM,W,40-44,1:31.55,Gina Volpe,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+METR,200 M Freestyle,SCM,W,40-44,2:51.25,Kirsten Berger,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Backstroke,SCM,W,40-44,31.65,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+REDT,50 M Backstroke,SCM,W,40-44,31.78,Kristin J Gary,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Backstroke,SCM,W,40-44,51.43,Mikiko Yamashita,,NY vs NJ Duel In The Pool,2010,3
+AGUA,100 M Backstroke,SCM,W,40-44,1:06.85,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+AGUA,100 M Backstroke,SCM,W,40-44,1:59.58,Priscilla C O'Carroll,,AGUA SC Meters Pentathlon,2010,2
+REDT,200 M Backstroke,SCM,W,40-44,2:31.68,Kristin J Gary,,NY vs NJ Duel In The Pool,2010,1
+AGUA,200 M Backstroke,SCM,W,40-44,4:35.60,Priscilla C O'Carroll,,NY vs NJ Duel In The Pool,2010,2
+AGUA,50 M Breaststroke,SCM,W,40-44,36.11,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+BCTM,50 M Breaststroke,SCM,W,40-44,49.55,Gina Volpe,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+AGUA,100 M Breaststroke,SCM,W,40-44,1:31.97,Fall Willeboordse,,AGUA SC Meters Pentathlon,2010,1
+AGUA,100 M Breaststroke,SCM,W,40-44,2:07.71,Priscilla C O'Carroll,,AGUA SC Meters Pentathlon,2010,2
+AGUA,50 M Butterfly,SCM,W,40-44,30.28,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+TNYA,50 M Butterfly,SCM,W,40-44,46.22,Kendra Poster,,Cinco De Mayo Invitational,2010,2
+AGUA,100 M Butterfly,SCM,W,40-44,1:07.09,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+TNYA,100 M Butterfly,SCM,W,40-44,1:45.72,Kendra Poster,,Cinco De Mayo Invitational,2010,2
+AGUA,100 M Individual Medley,SCM,W,40-44,1:08.87,Fall Willeboordse,,New England Short Course Meters Championship,2010,1
+AGUA,200 M Individual Medley,SCM,W,40-44,4:17.82,Priscilla C O'Carroll,,NY vs NJ Duel In The Pool,2010,1
+METR,400 M Individual Medley,SCM,W,40-44,6:59.38,Kirsten Berger,,NY vs NJ Duel In The Pool,2010,1
+REDT,50 M Freestyle,SCM,W,45-49,28.22,Susan Wager,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Freestyle,SCM,W,45-49,31.40,Janet Harris,,NY vs NJ Duel In The Pool,2010,2
+POST,50 M Freestyle,SCM,W,45-49,31.75,Carolyn Koster,,NY vs NJ Duel In The Pool,2010,3
+AQFT,50 M Freestyle,SCM,W,45-49,41.71,Lisa Hiller,,NY vs NJ Duel In The Pool,2010,4
+REDT,100 M Freestyle,SCM,W,45-49,1:00.62,Susan Wager,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Freestyle,SCM,W,45-49,1:33.24,Lisa Hiller,,NY vs NJ Duel In The Pool,2010,2
+REDT,200 M Freestyle,SCM,W,45-49,2:14.74,Susan Wager,,NY vs NJ Duel In The Pool,2010,1
+AGUA,200 M Freestyle,SCM,W,45-49,2:49.97,Hayley E Cort,,Cinco De Mayo Invitational,2010,2
+AGUA,50 M Backstroke,SCM,W,45-49,35.48,Janet Harris,,NY vs NJ Duel In The Pool,2010,1
+AGUA,100 M Backstroke,SCM,W,45-49,1:18.02,Janet Harris,,AGUA SC Meters Pentathlon,2010,1
+POST,50 M Breaststroke,SCM,W,45-49,39.07,Carolyn Koster,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Breaststroke,SCM,W,45-49,40.71,Janet Harris,,NY vs NJ Duel In The Pool,2010,2
+AQFT,50 M Breaststroke,SCM,W,45-49,52.28,Lisa Hiller,,NY vs NJ Duel In The Pool,2010,3
+POST,100 M Breaststroke,SCM,W,45-49,1:26.65,Carolyn Koster,,NY vs NJ Duel In The Pool,2010,1
+REDT,50 M Butterfly,SCM,W,45-49,32.84,Susan Wager,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Butterfly,SCM,W,45-49,34.84,Janet Harris,,NY vs NJ Duel In The Pool,2010,2
+POST,50 M Butterfly,SCM,W,45-49,35.39,Carolyn Koster,,NY vs NJ Duel In The Pool,2010,3
+AGUA,200 M Individual Medley,SCM,W,45-49,2:51.27,Janet Harris,,AGUA SC Meters Pentathlon,2010,1
+AGUA,200 M Individual Medley,SCM,W,45-49,3:05.74,Hayley E Cort,,Cinco De Mayo Invitational,2010,2
+AGUA,200 M Individual Medley,SCM,W,45-49,4:11.21,Denise Lachman,,AGUA SC Meters Pentathlon,2010,3
+METR,50 M Freestyle,SCM,W,50-54,38.09,Jill F Friedman,,Cinco De Mayo Invitational,2010,1
+FISH,50 M Freestyle,SCM,W,50-54,38.27,Gail A Dowling,,2010 Empire State Games,2010,2
+METR,50 M Freestyle,SCM,W,50-54,44.01,Dorothy L Durkin,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+WM,100 M Freestyle,SCM,W,50-54,1:12.66,Cindy Thornton,,NY vs NJ Duel In The Pool,2010,1
+METR,100 M Freestyle,SCM,W,50-54,1:23.56,Jill F Friedman,,Cinco De Mayo Invitational,2010,2
+METR,100 M Freestyle,SCM,W,50-54,1:24.52,Carol A Lynch,,Cinco De Mayo Invitational,2010,3
+AGUA,100 M Freestyle,SCM,W,50-54,1:42.85,Sharon M Snyder,,AGUA SC Meters Pentathlon,2010,4
+WM,200 M Freestyle,SCM,W,50-54,2:37.22,Cindy Thornton,,NY vs NJ Duel In The Pool,2010,1
+FISH,200 M Freestyle,SCM,W,50-54,3:11.01,Gail A Dowling,,2010 Empire State Games,2010,2
+REDT,50 M Backstroke,SCM,W,50-54,47.20,Laura J Colby,,NY vs NJ Duel In The Pool,2010,1
+METR,50 M Backstroke,SCM,W,50-54,58.46,Dorothy L Durkin,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+AGUA,100 M Backstroke,SCM,W,50-54,2:11.74,Sharon M Snyder,,AGUA SC Meters Pentathlon,2010,1
+FISH,200 M Backstroke,SCM,W,50-54,3:38.30,Gail A Dowling,,2010 Empire State Games,2010,1
+METR,50 M Breaststroke,SCM,W,50-54,50.23,Jill F Friedman,,Cinco De Mayo Invitational,2010,1
+METR,50 M Breaststroke,SCM,W,50-54,59.15,Dorothy L Durkin,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+WM,200 M Breaststroke,SCM,W,50-54,3:35.87,Cindy Thornton,,NY vs NJ Duel In The Pool,2010,1
+METR,50 M Butterfly,SCM,W,50-54,42.57,Carol A Lynch,,Cinco De Mayo Invitational,2010,1
+AGUA,50 M Butterfly,SCM,W,50-54,51.93,Sharon M Snyder,,NY vs NJ Duel In The Pool,2010,2
+METR,50 M Butterfly,SCM,W,50-54,54.73,Dorothy L Durkin,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+AGUA,100 M Butterfly,SCM,W,50-54,1:53.58,Sharon M Snyder,,AGUA SC Meters Pentathlon,2010,1
+AGUA,200 M Butterfly,SCM,W,50-54,4:13.15,Sharon M Snyder,,NY vs NJ Duel In The Pool,2010,1
+WM,100 M Individual Medley,SCM,W,50-54,1:26.18,Cindy Thornton,,NY vs NJ Duel In The Pool,2010,1
+REDT,200 M Individual Medley,SCM,W,50-54,3:34.99,Laura J Colby,,NY vs NJ Duel In The Pool,2010,1
+AGUA,200 M Individual Medley,SCM,W,50-54,4:05.34,Sharon M Snyder,,AGUA SC Meters Pentathlon,2010,2
+AGUA,400 M Individual Medley,SCM,W,50-54,8:51.68,Sharon M Snyder,,AGUA SC Meters Pentathlon,2010,1
+AGUA,50 M Freestyle,SCM,W,55-59,34.08,Joan P Craffey,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Freestyle,SCM,W,55-59,38.04,Judith A Silverman,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+TNYA,50 M Freestyle,SCM,W,55-59,40.53,Lori H Carena,,NY vs NJ Duel In The Pool,2010,3
+AGUA,50 M Freestyle,SCM,W,55-59,45.52,Maura A Hanlon-Grossi,,NY vs NJ Duel In The Pool,2010,4
+AQFT,50 M Freestyle,SCM,W,55-59,47.95,Jeanmarie Mallin,,NY vs NJ Duel In The Pool,2010,5
+UNAT,50 M Freestyle,SCM,W,55-59,49.27,Celeste A Jakubek,,NY vs NJ Duel In The Pool,2010,6
+FISH,50 M Freestyle,SCM,W,55-59,53.45,Elizabeth C Spira,,NY vs NJ Duel In The Pool,2010,7
+AGUA,100 M Freestyle,SCM,W,55-59,1:19.49,Joan P Craffey,,NY vs NJ Duel In The Pool,2010,1
+UNAT,100 M Freestyle,SCM,W,55-59,1:25.98,Judith A Silverman,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+TNYA,100 M Freestyle,SCM,W,55-59,1:29.03,Lori H Carena,,NY vs NJ Duel In The Pool,2010,3
+AGUA,100 M Freestyle,SCM,W,55-59,1:46.74,Maura A Hanlon-Grossi,,NY vs NJ Duel In The Pool,2010,4
+AQFT,100 M Freestyle,SCM,W,55-59,1:49.03,Jeanmarie Mallin,,NY vs NJ Duel In The Pool,2010,5
+UNAT,100 M Freestyle,SCM,W,55-59,1:51.79,Celeste A Jakubek,,NY vs NJ Duel In The Pool,2010,6
+TNYA,200 M Freestyle,SCM,W,55-59,3:05.04,Lori H Carena,,NY vs NJ Duel In The Pool,2010,1
+UNAT,200 M Freestyle,SCM,W,55-59,4:05.38,Celeste A Jakubek,,NY vs NJ Duel In The Pool,2010,2
+AGUA,50 M Backstroke,SCM,W,55-59,42.49,Joan P Craffey,,NY vs NJ Duel In The Pool,2010,1
+FISH,50 M Backstroke,SCM,W,55-59,1:02.20,Elizabeth C Spira,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Backstroke,SCM,W,55-59,1:13.82,Eleanor R Luger,,Cinco De Mayo Invitational,2010,3
+AGUA,100 M Backstroke,SCM,W,55-59,1:30.62,Joan P Craffey,,NY vs NJ Duel In The Pool,2010,1
+UNAT,100 M Backstroke,SCM,W,55-59,2:01.06,Judith A Silverman,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+REDT,100 M Backstroke,SCM,W,55-59,2:31.26,Eleanor R Luger,,Cinco De Mayo Invitational,2010,3
+AGUA,50 M Breaststroke,SCM,W,55-59,59.24,Maura A Hanlon-Grossi,,NY vs NJ Duel In The Pool,2010,1
+FISH,50 M Breaststroke,SCM,W,55-59,1:13.43,Elizabeth C Spira,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Butterfly,SCM,W,55-59,1:08.39,Eleanor R Luger,,Cinco De Mayo Invitational,2010,1
+REDT,200 M Butterfly,SCM,W,55-59,5:20.30,Eleanor R Luger,,Cinco De Mayo Invitational,2010,1
+REDT,100 M Individual Medley,SCM,W,55-59,2:29.97,Eleanor R Luger,,Cinco De Mayo Invitational,2010,1
+AGUA,100 M Freestyle,SCM,W,60-64,1:14.83,Frances E Hare,,NY vs NJ Duel In The Pool,2010,1
+AGUA,200 M Freestyle,SCM,W,60-64,2:40.62,Frances E Hare,,NY vs NJ Duel In The Pool,2010,1
+AGUA,200 M Backstroke,SCM,W,60-64,3:24.39,Frances E Hare,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Freestyle,SCM,W,65-69,41.70,Marcia M Hill,,New England Short Course Meters Championship,2010,1
+REDT,50 M Freestyle,SCM,W,65-69,43.86,Barbara B Charles,,Cinco De Mayo Invitational,2010,2
+AGUA,100 M Freestyle,SCM,W,65-69,1:31.55,Marcia M Hill,,New England Short Course Meters Championship,2010,1
+REDT,100 M Freestyle,SCM,W,65-69,1:42.25,Barbara B Charles,,Cinco De Mayo Invitational,2010,2
+FISH,100 M Freestyle,SCM,W,65-69,1:55.26,Janice Williams,,NY vs NJ Duel In The Pool,2010,3
+REDT,200 M Freestyle,SCM,W,65-69,3:48.83,Barbara B Charles,,Cinco De Mayo Invitational,2010,1
+AGUA,1500 M Freestyle,SCM,W,65-69,26:49.17,Jane Katz,,Huntsman Senior Games,2010,1
+AGUA,50 M Backstroke,SCM,W,65-69,48.82,Jane Katz,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Backstroke,SCM,W,65-69,56.89,Marcia M Hill,,NY vs NJ Duel In The Pool,2010,2
+AGUA,100 M Backstroke,SCM,W,65-69,1:45.49,Jane Katz,,AGUA SC Meters Pentathlon,2010,1
+AGUA,100 M Backstroke,SCM,W,65-69,1:57.31,Marcia M Hill,,New England Short Course Meters Championship,2010,2
+FISH,100 M Backstroke,SCM,W,65-69,2:16.01,Janice Williams,,NY vs NJ Duel In The Pool,2010,3
+AGUA,200 M Backstroke,SCM,W,65-69,3:40.08,Jane Katz,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Breaststroke,SCM,W,65-69,52.60,Nancy James,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Breaststroke,SCM,W,65-69,55.76,Marcia M Hill,,New England Short Course Meters Championship,2010,2
+AQFT,100 M Breaststroke,SCM,W,65-69,1:56.61,Nancy James,,NY vs NJ Duel In The Pool,2010,1
+FISH,100 M Breaststroke,SCM,W,65-69,2:26.34,Janice Williams,,NY vs NJ Duel In The Pool,2010,2
+AGUA,50 M Butterfly,SCM,W,65-69,51.68,Marcia M Hill,,New England Short Course Meters Championship,2010,1
+REDT,50 M Butterfly,SCM,W,65-69,56.95,Barbara B Charles,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Butterfly,SCM,W,65-69,2:13.51,Barbara B Charles,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+REDT,200 M Butterfly,SCM,W,65-69,4:50.05,Barbara B Charles,,Cinco De Mayo Invitational,2010,1
+AGUA,100 M Individual Medley,SCM,W,65-69,1:48.89,Marcia M Hill,,New England Short Course Meters Championship,2010,1
+FISH,100 M Individual Medley,SCM,W,65-69,2:12.75,Janice Williams,,NY vs NJ Duel In The Pool,2010,2
+AGUA,200 M Individual Medley,SCM,W,65-69,3:58.59,Marcia M Hill,,New England Short Course Meters Championship,2010,1
+AGUA,200 M Individual Medley,SCM,W,65-69,4:07.31,Jane Katz,,AGUA SC Meters Pentathlon,2010,2
+AGUA,400 M Individual Medley,SCM,W,65-69,8:09.09,Jane Katz,,AGUA SC Meters Pentathlon,2010,1
+METR,50 M Freestyle,SCM,W,75-79,1:25.97,Penny Kronengold,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+METR,100 M Freestyle,SCM,W,75-79,2:56.84,Penny Kronengold,,NY vs NJ Duel In The Pool,2010,1
+METR,50 M Backstroke,SCM,W,75-79,1:26.25,Penny Kronengold,,NY vs NJ Duel In The Pool,2010,1
+AGUA,100 M Backstroke,SCM,W,75-79,3:07.19,Penny Kronengold,,AGUA SC Meters Pentathlon,2010,1
+METR,50 M Breaststroke,SCM,W,75-79,1:35.00,Penny Kronengold,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+BCTM,50 M Freestyle,SCM,M,18-24,24.64,Rafael E Labour,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+NYCH,50 M Freestyle,SCM,M,18-24,24.71,Kristof Toth,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Freestyle,SCM,M,18-24,25.90,Greg Hopkins,,Cinco De Mayo Invitational,2010,3
+SEAW,50 M Freestyle,SCM,M,18-24,32.22,Michael D Yurman,,NY vs NJ Duel In The Pool,2010,4
+BCTM,50 M Freestyle,SCM,M,18-24,32.55,Brian Ramirez,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+NYCH,100 M Freestyle,SCM,M,18-24,53.37,Kristof Toth,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Freestyle,SCM,M,18-24,58.47,Greg Hopkins,,Cinco De Mayo Invitational,2010,2
+AQFT,100 M Freestyle,SCM,M,18-24,59.19,Matthew Sallusto,,NY vs NJ Duel In The Pool,2010,3
+NYCH,100 M Freestyle,SCM,M,18-24,59.69,Philip A Baudoin,,AGUA SC Meters Pentathlon,2010,4
+REDT,100 M Freestyle,SCM,M,18-24,59.90,Nicholas J Hernandez,,AGUA SC Meters Pentathlon,2010,5
+SEAW,100 M Freestyle,SCM,M,18-24,1:13.02,Michael D Yurman,,NY vs NJ Duel In The Pool,2010,6
+NYCH,200 M Freestyle,SCM,M,18-24,2:02.17,Kristof Toth,,NY vs NJ Duel In The Pool,2010,1
+BCTM,200 M Freestyle,SCM,M,18-24,2:12.11,Matthew Ferreira,,Cinco De Mayo Invitational,2010,2
+REDT,200 M Freestyle,SCM,M,18-24,2:13.51,Nicholas J Hernandez,,NY vs NJ Duel In The Pool,2010,3
+AQFT,200 M Freestyle,SCM,M,18-24,2:14.44,Matthew Sallusto,,NY vs NJ Duel In The Pool,2010,4
+SEAW,200 M Freestyle,SCM,M,18-24,2:49.22,Michael D Yurman,,NY vs NJ Duel In The Pool,2010,5
+BCTM,100 M Backstroke,SCM,M,18-24,1:00.58,Rafael E Labour,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+BCTM,100 M Backstroke,SCM,M,18-24,1:04.50,Haftom G Ambaye,,Cinco De Mayo Invitational,2010,2
+BCTM,200 M Backstroke,SCM,M,18-24,2:25.33,Haftom G Ambaye,,Cinco De Mayo Invitational,2010,1
+BCTM,50 M Breaststroke,SCM,M,18-24,36.78,Brian Ramirez,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+AQFT,50 M Breaststroke,SCM,M,18-24,37.36,Matthew Sallusto,,NY vs NJ Duel In The Pool,2010,2
+TNYA,100 M Breaststroke,SCM,M,18-24,1:12.95,Scott C Jordan,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+BCTM,100 M Breaststroke,SCM,M,18-24,1:25.28,Brian Ramirez,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+BCTM,50 M Butterfly,SCM,M,18-24,28.68,Greg Hopkins,,Cinco De Mayo Invitational,2010,1
+BCTM,50 M Butterfly,SCM,M,18-24,29.76,Haftom G Ambaye,,Cinco De Mayo Invitational,2010,2
+AQFT,50 M Butterfly,SCM,M,18-24,30.16,Matthew Sallusto,,NY vs NJ Duel In The Pool,2010,3
+BCTM,50 M Butterfly,SCM,M,18-24,30.47,Brian Ramirez,,Cinco De Mayo Invitational,2010,4
+NYCH,100 M Butterfly,SCM,M,18-24,1:03.66,Philip A Baudoin,,AGUA SC Meters Pentathlon,2010,1
+BCTM,100 M Butterfly,SCM,M,18-24,1:05.38,Haftom G Ambaye,,Cinco De Mayo Invitational,2010,2
+TNYA,100 M Butterfly,SCM,M,18-24,1:05.51,Scott C Jordan,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+REDT,100 M Butterfly,SCM,M,18-24,1:06.61,Nicholas J Hernandez,,AGUA SC Meters Pentathlon,2010,4
+BCTM,200 M Butterfly,SCM,M,18-24,2:28.90,Haftom G Ambaye,,Cinco De Mayo Invitational,2010,1
+REDT,200 M Butterfly,SCM,M,18-24,2:34.67,Nicholas J Hernandez,,NY vs NJ Duel In The Pool,2010,2
+BCTM,100 M Individual Medley,SCM,M,18-24,1:07.87,Haftom G Ambaye,,Cinco De Mayo Invitational,2010,1
+BCTM,100 M Individual Medley,SCM,M,18-24,1:13.43,Brian Ramirez,,Cinco De Mayo Invitational,2010,2
+SEAW,100 M Individual Medley,SCM,M,18-24,1:26.84,Michael D Yurman,,NY vs NJ Duel In The Pool,2010,3
+NYCH,200 M Individual Medley,SCM,M,18-24,2:26.82,Kristof Toth,,AGUA SC Meters Pentathlon,2010,1
+BCTM,200 M Individual Medley,SCM,M,18-24,2:36.98,Greg Hopkins,,Cinco De Mayo Invitational,2010,2
+BCTM,50 M Freestyle,SCM,M,25-29,23.82,Christopher J Gahn,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Freestyle,SCM,M,25-29,25.27,Daniel S Williams,,New England Short Course Meters Championship,2010,2
+AQFT,50 M Freestyle,SCM,M,25-29,26.60,Matthew V Rogers,,NY vs NJ Duel In The Pool,2010,3
+AQFT,50 M Freestyle,SCM,M,25-29,26.77,Daniel Carvalho,,NY vs NJ Duel In The Pool,2010,4
+TNYA,50 M Freestyle,SCM,M,25-29,27.16,Jacek Slowikowski,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AQFT,50 M Freestyle,SCM,M,25-29,28.63,Bradley Scalise,,NY vs NJ Duel In The Pool,2010,6
+BCTM,50 M Freestyle,SCM,M,25-29,29.01,John Gerace,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+BCTM,50 M Freestyle,SCM,M,25-29,29.03,Tristan Dreisbach,,Cinco De Mayo Invitational,2010,8
+BCTM,50 M Freestyle,SCM,M,25-29,29.10,Brian Wood,,Cinco De Mayo Invitational,2010,9
+AQFT,50 M Freestyle,SCM,M,25-29,29.71,Damian Bergamaschi,,NY vs NJ Duel In The Pool,2010,10
+BCTM,50 M Freestyle,SCM,M,25-29,30.25,Manu Bhardwaj,,Cinco De Mayo Invitational,2010,11
+REDT,50 M Freestyle,SCM,M,25-29,30.55,Michael S Jordan,,NY vs NJ Duel In The Pool,2010,12
+BCTM,50 M Freestyle,SCM,M,25-29,31.34,Chris Holland,,Cinco De Mayo Invitational,2010,13
+REDT,50 M Freestyle,SCM,M,25-29,32.09,David Eddy,,NY vs NJ Duel In The Pool,2010,14
+BCTM,50 M Freestyle,SCM,M,25-29,32.75,James Pinkerton,,Cinco De Mayo Invitational,2010,15
+BCTM,100 M Freestyle,SCM,M,25-29,53.36,Christopher J Gahn,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Freestyle,SCM,M,25-29,54.92,Daniel S Williams,,New England Short Course Meters Championship,2010,2
+AGUA,100 M Freestyle,SCM,M,25-29,58.42,Sergey Ulyanenko,,NY vs NJ Duel In The Pool,2010,3
+AQFT,100 M Freestyle,SCM,M,25-29,59.75,Daniel Carvalho,,NY vs NJ Duel In The Pool,2010,4
+TNYA,100 M Freestyle,SCM,M,25-29,59.87,Jacek Slowikowski,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+BCTM,100 M Freestyle,SCM,M,25-29,1:00.48,Tom Boardman,,Cinco De Mayo Invitational,2010,6
+NYCH,100 M Freestyle,SCM,M,25-29,1:01.03,Bryant T Eadon,,AGUA SC Meters Pentathlon,2010,7
+BCTM,100 M Freestyle,SCM,M,25-29,1:02.47,Daniel T Gustafson,,AGUA SC Meters Pentathlon,2010,8
+AQFT,100 M Freestyle,SCM,M,25-29,1:02.92,Bradley Scalise,,NY vs NJ Duel In The Pool,2010,9
+BCTM,100 M Freestyle,SCM,M,25-29,1:06.50,John Gerace,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,10
+REDT,100 M Freestyle,SCM,M,25-29,1:08.71,Michael S Jordan,,NY vs NJ Duel In The Pool,2010,11
+TNYA,100 M Freestyle,SCM,M,25-29,1:10.92,John E Pettengill,,Cinco De Mayo Invitational,2010,12
+BCTM,200 M Freestyle,SCM,M,25-29,2:00.62,Daniel S Williams,,New England Short Course Meters Championship,2010,1
+TNYA,200 M Freestyle,SCM,M,25-29,2:03.39,Win Chesson,,Cinco De Mayo Invitational,2010,2
+AGUA,200 M Freestyle,SCM,M,25-29,2:05.51,Erik Soria,,NY vs NJ Duel In The Pool,2010,3
+AGUA,200 M Freestyle,SCM,M,25-29,2:13.65,Sergey Ulyanenko,,NY vs NJ Duel In The Pool,2010,4
+BCTM,200 M Freestyle,SCM,M,25-29,2:17.52,Jim Wu,,New England Short Course Meters Championship,2010,5
+REDT,200 M Freestyle,SCM,M,25-29,2:31.63,Michael S Jordan,,NY vs NJ Duel In The Pool,2010,6
+BCTM,200 M Freestyle,SCM,M,25-29,2:50.40,John Gerace,,New England Short Course Meters Championship,2010,7
+BCTM,400 M Freestyle,SCM,M,25-29,4:24.34,Daniel S Williams,,New England Short Course Meters Championship,2010,1
+TNYA,400 M Freestyle,SCM,M,25-29,4:25.10,Win Chesson,,Cinco De Mayo Invitational,2010,2
+AGUA,50 M Backstroke,SCM,M,25-29,29.81,Erik Soria,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Backstroke,SCM,M,25-29,29.95,Marko Turcinov,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Backstroke,SCM,M,25-29,31.90,Christopher J Gahn,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+BCTM,50 M Backstroke,SCM,M,25-29,32.19,Daniel S Williams,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+BCTM,50 M Backstroke,SCM,M,25-29,35.83,James Pinkerton,,Cinco De Mayo Invitational,2010,5
+REDT,50 M Backstroke,SCM,M,25-29,35.87,Joshua L Storch,,NY vs NJ Duel In The Pool,2010,6
+BCTM,50 M Backstroke,SCM,M,25-29,38.55,John Gerace,,New England Short Course Meters Championship,2010,7
+TNYA,50 M Backstroke,SCM,M,25-29,38.91,John E Pettengill,,Cinco De Mayo Invitational,2010,8
+AGUA,100 M Backstroke,SCM,M,25-29,1:02.65,Erik Soria,,NY vs NJ Duel In The Pool,2010,1
+METR,100 M Backstroke,SCM,M,25-29,1:05.76,Justin W Lynch,,Cinco De Mayo Invitational,2010,2
+AGUA,200 M Backstroke,SCM,M,25-29,2:17.49,Erik Soria,,NY vs NJ Duel In The Pool,2010,1
+REDT,50 M Breaststroke,SCM,M,25-29,34.76,Joshua L Storch,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Breaststroke,SCM,M,25-29,35.83,Brian Wood,,Cinco De Mayo Invitational,2010,2
+BCTM,50 M Breaststroke,SCM,M,25-29,40.92,Chris Holland,,Cinco De Mayo Invitational,2010,3
+AQFT,100 M Breaststroke,SCM,M,25-29,1:14.32,Daniel Carvalho,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Breaststroke,SCM,M,25-29,1:15.23,Joshua L Storch,,NY vs NJ Duel In The Pool,2010,2
+BCTM,100 M Breaststroke,SCM,M,25-29,1:19.62,Brian Wood,,Cinco De Mayo Invitational,2010,3
+BCTM,100 M Breaststroke,SCM,M,25-29,1:33.06,John Gerace,,NY vs NJ Duel In The Pool,2010,4
+BCTM,100 M Breaststroke,SCM,M,25-29,1:35.80,Chris Holland,,Cinco De Mayo Invitational,2010,5
+AGUA,200 M Breaststroke,SCM,M,25-29,2:41.23,Sergey Ulyanenko,,NY vs NJ Duel In The Pool,2010,1
+REDT,200 M Breaststroke,SCM,M,25-29,2:44.86,Joshua L Storch,,NY vs NJ Duel In The Pool,2010,2
+BCTM,200 M Breaststroke,SCM,M,25-29,3:00.89,Manu Bhardwaj,,Cinco De Mayo Invitational,2010,3
+AGUA,50 M Butterfly,SCM,M,25-29,26.34,Marko Turcinov,,NY vs NJ Duel In The Pool,2010,1
+REDT,50 M Butterfly,SCM,M,25-29,26.61,Daniel Diette,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Butterfly,SCM,M,25-29,27.96,Daniel S Williams,,New England Short Course Meters Championship,2010,3
+TNYA,50 M Butterfly,SCM,M,25-29,28.83,Jacek Slowikowski,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+BCTM,50 M Butterfly,SCM,M,25-29,30.01,Tom Boardman,,Cinco De Mayo Invitational,2010,5
+BCTM,50 M Butterfly,SCM,M,25-29,30.21,Juan Jose E Villar-Benavides,,Cinco De Mayo Invitational,2010,6
+BCTM,50 M Butterfly,SCM,M,25-29,30.27,Daniel T Gustafson,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+BCTM,50 M Butterfly,SCM,M,25-29,30.83,Brian Wood,,Cinco De Mayo Invitational,2010,8
+AQFT,50 M Butterfly,SCM,M,25-29,30.91,Matthew V Rogers,,NY vs NJ Duel In The Pool,2010,9
+BCTM,50 M Butterfly,SCM,M,25-29,31.34,Dennis Feihel,,Cinco De Mayo Invitational,2010,10
+BCTM,50 M Butterfly,SCM,M,25-29,31.57,Tristan Dreisbach,,Cinco De Mayo Invitational,2010,11
+BCTM,50 M Butterfly,SCM,M,25-29,32.98,James Pinkerton,,Cinco De Mayo Invitational,2010,12
+BCTM,50 M Butterfly,SCM,M,25-29,33.98,Chris Holland,,Cinco De Mayo Invitational,2010,13
+REDT,100 M Butterfly,SCM,M,25-29,58.91,Daniel Diette,,NY vs NJ Duel In The Pool,2010,1
+AGUA,100 M Butterfly,SCM,M,25-29,1:00.44,Marko Turcinov,,NY vs NJ Duel In The Pool,2010,2
+TNYA,100 M Butterfly,SCM,M,25-29,1:02.36,Win Chesson,,Cinco De Mayo Invitational,2010,3
+BCTM,100 M Butterfly,SCM,M,25-29,1:09.54,Daniel T Gustafson,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+BCTM,100 M Butterfly,SCM,M,25-29,1:13.37,Tristan Dreisbach,,Cinco De Mayo Invitational,2010,5
+BCTM,100 M Butterfly,SCM,M,25-29,1:16.14,Manu Bhardwaj,,Cinco De Mayo Invitational,2010,6
+BCTM,100 M Butterfly,SCM,M,25-29,1:17.25,Dennis Feihel,,Cinco De Mayo Invitational,2010,7
+AGUA,100 M Individual Medley,SCM,M,25-29,1:02.75,Marko Turcinov,,NY vs NJ Duel In The Pool,2010,1
+TNYA,100 M Individual Medley,SCM,M,25-29,1:05.26,Win Chesson,,Cinco De Mayo Invitational,2010,2
+AGUA,100 M Individual Medley,SCM,M,25-29,1:07.63,Sergey Ulyanenko,,NY vs NJ Duel In The Pool,2010,3
+AQFT,100 M Individual Medley,SCM,M,25-29,1:08.33,Daniel Carvalho,,NY vs NJ Duel In The Pool,2010,4
+BCTM,100 M Individual Medley,SCM,M,25-29,1:11.52,Jim Wu,,New England Short Course Meters Championship,2010,5
+AQFT,100 M Individual Medley,SCM,M,25-29,1:13.35,Bradley Scalise,,NY vs NJ Duel In The Pool,2010,6
+TNYA,100 M Individual Medley,SCM,M,25-29,1:13.51,Jacek Slowikowski,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+BCTM,100 M Individual Medley,SCM,M,25-29,1:13.70,Juan Jose E Villar-Benavides,,Cinco De Mayo Invitational,2010,8
+BCTM,100 M Individual Medley,SCM,M,25-29,1:17.70,Brian Wood,,Cinco De Mayo Invitational,2010,9
+AQFT,100 M Individual Medley,SCM,M,25-29,1:18.32,Damian Bergamaschi,,NY vs NJ Duel In The Pool,2010,10
+TNYA,200 M Individual Medley,SCM,M,25-29,2:19.03,Win Chesson,,Cinco De Mayo Invitational,2010,1
+BCTM,200 M Individual Medley,SCM,M,25-29,2:37.24,Jim Wu,,New England Short Course Meters Championship,2010,2
+NYCH,200 M Individual Medley,SCM,M,25-29,2:37.99,Bryant T Eadon,,AGUA SC Meters Pentathlon,2010,3
+BCTM,200 M Individual Medley,SCM,M,25-29,2:40.42,Daniel T Gustafson,,AGUA SC Meters Pentathlon,2010,4
+BCTM,200 M Individual Medley,SCM,M,25-29,2:57.72,Manu Bhardwaj,,Cinco De Mayo Invitational,2010,5
+BCTM,50 M Freestyle,SCM,M,30-34,24.51,Radenko Miskovic,,New England Short Course Meters Championship,2010,1
+METR,50 M Freestyle,SCM,M,30-34,26.02,Greg Stacey,,Cinco De Mayo Invitational,2010,2
+UNAT,50 M Freestyle,SCM,M,30-34,26.62,Ryan A Mann-Hamilton,,Cinco De Mayo Invitational,2010,3
+BCTM,50 M Freestyle,SCM,M,30-34,26.97,Ryan Rose,,Cinco De Mayo Invitational,2010,4
+BCTM,50 M Freestyle,SCM,M,30-34,29.26,Nathaniel R Dean,,NY vs NJ Duel In The Pool,2010,5
+BCTM,50 M Freestyle,SCM,M,30-34,29.77,Joel Abreu,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,6
+TNYA,50 M Freestyle,SCM,M,30-34,29.88,Jason Malak,,NY vs NJ Duel In The Pool,2010,7
+TNYA,50 M Freestyle,SCM,M,30-34,30.24,Joshua M Judge,,Cinco De Mayo Invitational,2010,8
+METR,50 M Freestyle,SCM,M,30-34,30.41,Ian S Kaufman,,NY vs NJ Duel In The Pool,2010,9
+BCTM,50 M Freestyle,SCM,M,30-34,32.16,Cedric Villars,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,10
+AGUA,50 M Freestyle,SCM,M,30-34,32.27,Hao Pan,,Cinco De Mayo Invitational,2010,11
+TNYA,50 M Freestyle,SCM,M,30-34,40.74,Ivan R Cartagena,,Cinco De Mayo Invitational,2010,12
+BCTM,50 M Freestyle,SCM,M,30-34,51.88,Angshuman Bagchi,,New England Short Course Meters Championship,2010,13
+BCTM,100 M Freestyle,SCM,M,30-34,56.34,Radenko Miskovic,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+METR,100 M Freestyle,SCM,M,30-34,57.84,Greg Stacey,,Cinco De Mayo Invitational,2010,2
+BCTM,100 M Freestyle,SCM,M,30-34,1:00.50,Michael S Ferris,,AGUA SC Meters Pentathlon,2010,3
+REDT,100 M Freestyle,SCM,M,30-34,1:00.66,Adam J Coe,,NY vs NJ Duel In The Pool,2010,4
+BCTM,100 M Freestyle,SCM,M,30-34,1:02.09,Brennan P Kelly,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+REDT,100 M Freestyle,SCM,M,30-34,1:02.91,Charles P Roth,,NY vs NJ Duel In The Pool,2010,6
+TNYA,100 M Freestyle,SCM,M,30-34,1:03.26,Joshua M Judge,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+BCTM,100 M Freestyle,SCM,M,30-34,1:03.88,Nathaniel R Dean,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,8
+TNYA,100 M Freestyle,SCM,M,30-34,1:06.76,Jason Malak,,NY vs NJ Duel In The Pool,2010,9
+BCTM,100 M Freestyle,SCM,M,30-34,1:13.84,Cedric Villars,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,10
+BCTM,100 M Freestyle,SCM,M,30-34,2:03.89,Angshuman Bagchi,,New England Short Course Meters Championship,2010,11
+REDT,200 M Freestyle,SCM,M,30-34,2:03.25,Nicholas S Werner,,NY vs NJ Duel In The Pool,2010,1
+METR,200 M Freestyle,SCM,M,30-34,2:16.09,Harold S Gould,,Cinco De Mayo Invitational,2010,2
+BCTM,200 M Freestyle,SCM,M,30-34,2:18.60,Nathaniel R Dean,,Cinco De Mayo Invitational,2010,3
+BCTM,200 M Freestyle,SCM,M,30-34,2:32.20,David Klein,,Cinco De Mayo Invitational,2010,4
+FISH,200 M Freestyle,SCM,M,30-34,2:37.00,Curtis A Dozier,,NY vs NJ Duel In The Pool,2010,5
+BCTM,200 M Freestyle,SCM,M,30-34,4:30.73,Angshuman Bagchi,,New England Short Course Meters Championship,2010,6
+BCTM,400 M Freestyle,SCM,M,30-34,4:53.95,Nathaniel R Dean,,Cinco De Mayo Invitational,2010,1
+AGUA,400 M Freestyle,SCM,M,30-34,6:57.59,Hao Pan,,Cinco De Mayo Invitational,2010,2
+BCTM,50 M Backstroke,SCM,M,30-34,30.44,Vishal Lala,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Backstroke,SCM,M,30-34,31.90,Brennan P Kelly,,Cinco De Mayo Invitational,2010,2
+BCTM,50 M Backstroke,SCM,M,30-34,32.97,Freddy Sanchez,,Cinco De Mayo Invitational,2010,3
+BCTM,50 M Backstroke,SCM,M,30-34,38.50,Joel Abreu,,New England Short Course Meters Championship,2010,4
+METR,50 M Backstroke,SCM,M,30-34,39.75,Ian S Kaufman,,NY vs NJ Duel In The Pool,2010,5
+BCTM,50 M Backstroke,SCM,M,30-34,1:01.42,Angshuman Bagchi,,New England Short Course Meters Championship,2010,6
+BCTM,100 M Backstroke,SCM,M,30-34,1:07.80,Vishal Lala,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Backstroke,SCM,M,30-34,1:14.46,Michael S Ferris,,AGUA SC Meters Pentathlon,2010,2
+BCTM,100 M Backstroke,SCM,M,30-34,1:24.89,Nathaniel R Dean,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+METR,100 M Backstroke,SCM,M,30-34,1:27.69,Ian S Kaufman,,Cinco De Mayo Invitational,2010,4
+FISH,200 M Backstroke,SCM,M,30-34,3:06.84,Curtis A Dozier,,NY vs NJ Duel In The Pool,2010,1
+BCTM,50 M Breaststroke,SCM,M,30-34,33.81,Shawn P Ambrose,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+BCTM,50 M Breaststroke,SCM,M,30-34,35.19,Vishal Lala,,Cinco De Mayo Invitational,2010,2
+BCTM,50 M Breaststroke,SCM,M,30-34,37.53,Joel Abreu,,New England Short Course Meters Championship,2010,3
+BCTM,50 M Breaststroke,SCM,M,30-34,39.97,David Klein,,Cinco De Mayo Invitational,2010,4
+AGUA,50 M Breaststroke,SCM,M,30-34,42.56,Hao Pan,,Cinco De Mayo Invitational,2010,5
+TNYA,50 M Breaststroke,SCM,M,30-34,1:02.69,Ivan R Cartagena,,Cinco De Mayo Invitational,2010,6
+BCTM,100 M Breaststroke,SCM,M,30-34,1:10.75,Shawn P Ambrose,,New England Short Course Meters Championship,2010,1
+REDT,100 M Breaststroke,SCM,M,30-34,1:15.86,Jeremy S Fain,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Breaststroke,SCM,M,30-34,1:17.52,Adam J Coe,,NY vs NJ Duel In The Pool,2010,3
+REDT,100 M Breaststroke,SCM,M,30-34,1:19.69,Charles P Roth,,NY vs NJ Duel In The Pool,2010,4
+AQFT,100 M Breaststroke,SCM,M,30-34,1:20.00,Robert Cafaro,,NY vs NJ Duel In The Pool,2010,5
+BCTM,100 M Breaststroke,SCM,M,30-34,1:22.65,Nathaniel R Dean,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,6
+BCTM,100 M Breaststroke,SCM,M,30-34,1:23.60,Joel Abreu,,Cinco De Mayo Invitational,2010,7
+AGUA,100 M Breaststroke,SCM,M,30-34,1:23.83,Charles Schneider,,AGUA SC Meters Pentathlon,2010,8
+BCTM,100 M Breaststroke,SCM,M,30-34,1:26.45,Jason M Koon,,Cinco De Mayo Invitational,2010,9
+REDT,200 M Breaststroke,SCM,M,30-34,2:29.71,Nicholas S Werner,,NY vs NJ Duel In The Pool,2010,1
+BCTM,200 M Breaststroke,SCM,M,30-34,2:35.23,Shawn P Ambrose,,New England Short Course Meters Championship,2010,2
+FISH,200 M Breaststroke,SCM,M,30-34,2:56.87,Matthew J Mauriello,,NY vs NJ Duel In The Pool,2010,3
+AQFT,200 M Breaststroke,SCM,M,30-34,2:57.78,Robert Cafaro,,NY vs NJ Duel In The Pool,2010,4
+BCTM,200 M Breaststroke,SCM,M,30-34,2:59.09,Joel Abreu,,New England Short Course Meters Championship,2010,5
+FISH,200 M Breaststroke,SCM,M,30-34,3:04.09,Curtis A Dozier,,NY vs NJ Duel In The Pool,2010,6
+BCTM,50 M Butterfly,SCM,M,30-34,26.23,Radenko Miskovic,,New England Short Course Meters Championship,2010,1
+FISH,50 M Butterfly,SCM,M,30-34,28.22,Matthew J Mauriello,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Butterfly,SCM,M,30-34,28.97,Vishal Lala,,Cinco De Mayo Invitational,2010,3
+BCTM,50 M Butterfly,SCM,M,30-34,29.25,Brennan P Kelly,,Cinco De Mayo Invitational,2010,4
+FISH,50 M Butterfly,SCM,M,30-34,30.71,Brent A Wasser,,NY vs NJ Duel In The Pool,2010,5
+TNYA,50 M Butterfly,SCM,M,30-34,31.81,Joshua M Judge,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,6
+BCTM,50 M Butterfly,SCM,M,30-34,32.53,Freddy Sanchez,,Cinco De Mayo Invitational,2010,7
+BCTM,50 M Butterfly,SCM,M,30-34,33.26,Joel Abreu,,New England Short Course Meters Championship,2010,8
+TNYA,50 M Butterfly,SCM,M,30-34,33.34,Jason Malak,,NY vs NJ Duel In The Pool,2010,9
+METR,50 M Butterfly,SCM,M,30-34,33.94,Ian S Kaufman,,Cinco De Mayo Invitational,2010,10
+BCTM,50 M Butterfly,SCM,M,30-34,34.29,Nathaniel R Dean,,NY vs NJ Duel In The Pool,2010,11
+AGUA,50 M Butterfly,SCM,M,30-34,37.15,Hao Pan,,Cinco De Mayo Invitational,2010,12
+FISH,100 M Butterfly,SCM,M,30-34,1:02.85,Matthew J Mauriello,,NY vs NJ Duel In The Pool,2010,1
+METR,100 M Butterfly,SCM,M,30-34,1:04.05,Harold S Gould,,Cinco De Mayo Invitational,2010,2
+BCTM,100 M Butterfly,SCM,M,30-34,1:05.68,Shawn P Ambrose,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+BCTM,100 M Butterfly,SCM,M,30-34,1:08.31,Michael S Ferris,,AGUA SC Meters Pentathlon,2010,4
+TNYA,100 M Butterfly,SCM,M,30-34,1:14.19,Jason Malak,,NY vs NJ Duel In The Pool,2010,5
+BCTM,100 M Butterfly,SCM,M,30-34,1:22.32,Nathaniel R Dean,,Cinco De Mayo Invitational,2010,6
+BCTM,100 M Butterfly,SCM,M,30-34,1:23.47,Joel Abreu,,Cinco De Mayo Invitational,2010,7
+FISH,200 M Butterfly,SCM,M,30-34,2:26.10,Matthew J Mauriello,,NY vs NJ Duel In The Pool,2010,1
+TNYA,200 M Butterfly,SCM,M,30-34,3:10.78,Joshua M Judge,,Cinco De Mayo Invitational,2010,2
+REDT,100 M Individual Medley,SCM,M,30-34,1:03.48,Nicholas S Werner,,NY vs NJ Duel In The Pool,2010,1
+BCTM,100 M Individual Medley,SCM,M,30-34,1:05.39,Shawn P Ambrose,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+BCTM,100 M Individual Medley,SCM,M,30-34,1:08.56,Vishal Lala,,Cinco De Mayo Invitational,2010,3
+UNAT,100 M Individual Medley,SCM,M,30-34,1:09.01,Ryan A Mann-Hamilton,,Cinco De Mayo Invitational,2010,4
+FISH,100 M Individual Medley,SCM,M,30-34,1:10.61,Brent A Wasser,,NY vs NJ Duel In The Pool,2010,5
+REDT,100 M Individual Medley,SCM,M,30-34,1:12.69,Charles P Roth,,NY vs NJ Duel In The Pool,2010,6
+BCTM,100 M Individual Medley,SCM,M,30-34,1:13.83,Freddy Sanchez,,Cinco De Mayo Invitational,2010,7
+AQFT,100 M Individual Medley,SCM,M,30-34,1:14.56,Robert Cafaro,,NY vs NJ Duel In The Pool,2010,8
+BCTM,100 M Individual Medley,SCM,M,30-34,1:17.30,Joel Abreu,,New England Short Course Meters Championship,2010,9
+BCTM,100 M Individual Medley,SCM,M,30-34,1:17.88,Nathaniel R Dean,,Cinco De Mayo Invitational,2010,10
+TNYA,100 M Individual Medley,SCM,M,30-34,1:18.85,Joshua M Judge,,Cinco De Mayo Invitational,2010,11
+REDT,200 M Individual Medley,SCM,M,30-34,2:16.65,Nicholas S Werner,,NY vs NJ Duel In The Pool,2010,1
+BCTM,200 M Individual Medley,SCM,M,30-34,2:19.95,Shawn P Ambrose,,New England Short Course Meters Championship,2010,2
+FISH,200 M Individual Medley,SCM,M,30-34,2:30.96,Brent A Wasser,,NY vs NJ Duel In The Pool,2010,3
+REDT,200 M Individual Medley,SCM,M,30-34,2:35.89,Charles P Roth,,NY vs NJ Duel In The Pool,2010,4
+AQFT,200 M Individual Medley,SCM,M,30-34,2:43.26,Robert Cafaro,,NY vs NJ Duel In The Pool,2010,5
+BCTM,200 M Individual Medley,SCM,M,30-34,2:47.01,Radenko Miskovic,,AGUA SC Meters Pentathlon,2010,6
+BCTM,200 M Individual Medley,SCM,M,30-34,2:48.70,Nathaniel R Dean,,NY vs NJ Duel In The Pool,2010,7
+FISH,200 M Individual Medley,SCM,M,30-34,2:52.34,Curtis A Dozier,,NY vs NJ Duel In The Pool,2010,8
+BCTM,200 M Individual Medley,SCM,M,30-34,2:56.46,Joel Abreu,,AGUA SC Meters Pentathlon,2010,9
+AGUA,200 M Individual Medley,SCM,M,30-34,2:59.68,Hao Pan,,AGUA SC Meters Pentathlon,2010,10
+BCTM,400 M Individual Medley,SCM,M,30-34,5:04.31,Shawn P Ambrose,,New England Short Course Meters Championship,2010,1
+FISH,400 M Individual Medley,SCM,M,30-34,5:24.18,Brent A Wasser,,NY vs NJ Duel In The Pool,2010,2
+REDT,400 M Individual Medley,SCM,M,30-34,5:27.51,Adam J Coe,,NY vs NJ Duel In The Pool,2010,3
+AGUA,400 M Individual Medley,SCM,M,30-34,6:34.19,Hao Pan,,AGUA SC Meters Pentathlon,2010,4
+FISH,50 M Freestyle,SCM,M,35-39,26.05,Jonathan D Churins,,NY vs NJ Duel In The Pool,2010,1
+WM,50 M Freestyle,SCM,M,35-39,26.96,Shu Yagi,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Freestyle,SCM,M,35-39,27.23,Thayer H Thompson,,NY vs NJ Duel In The Pool,2010,3
+REDT,50 M Freestyle,SCM,M,35-39,29.04,Koby Bambilia,,NY vs NJ Duel In The Pool,2010,4
+AGUA,50 M Freestyle,SCM,M,35-39,30.07,Paul Matkovic,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AGUA,50 M Freestyle,SCM,M,35-39,30.30,Georgios Theofilidis,,NY vs NJ Duel In The Pool,2010,6
+TNYA,50 M Freestyle,SCM,M,35-39,30.37,Jason Andrew,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+REDT,50 M Freestyle,SCM,M,35-39,30.92,Hakan K Ergulec,,NY vs NJ Duel In The Pool,2010,8
+BCTM,50 M Freestyle,SCM,M,35-39,31.57,Matthew Currier,,Cinco De Mayo Invitational,2010,9
+UNAT,50 M Freestyle,SCM,M,35-39,32.52,Brendan J Fee,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,10
+FISH,100 M Freestyle,SCM,M,35-39,57.58,Jonathan D Churins,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Freestyle,SCM,M,35-39,58.26,Thayer H Thompson,,NY vs NJ Duel In The Pool,2010,2
+REDT,100 M Freestyle,SCM,M,35-39,58.33,Tom W Jens,,NY vs NJ Duel In The Pool,2010,3
+WM,100 M Freestyle,SCM,M,35-39,1:02.44,Shu Yagi,,NY vs NJ Duel In The Pool,2010,4
+AGUA,100 M Freestyle,SCM,M,35-39,1:04.15,Paul Matkovic,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AGUA,100 M Freestyle,SCM,M,35-39,1:04.24,Marshall N Price,,AGUA SC Meters Pentathlon,2010,6
+REDT,100 M Freestyle,SCM,M,35-39,1:05.43,Koby Bambilia,,NY vs NJ Duel In The Pool,2010,7
+TNYA,100 M Freestyle,SCM,M,35-39,1:06.10,Jason Andrew,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,8
+REDT,100 M Freestyle,SCM,M,35-39,1:06.11,Hakan K Ergulec,,NY vs NJ Duel In The Pool,2010,9
+AGUA,100 M Freestyle,SCM,M,35-39,1:07.06,Georgios Theofilidis,,NY vs NJ Duel In The Pool,2010,10
+TNYA,100 M Freestyle,SCM,M,35-39,1:16.12,Kenneth S Kohanowski,,Cinco De Mayo Invitational,2010,11
+TNYA,100 M Freestyle,SCM,M,35-39,1:33.62,Sean K O'Shea,,Cinco De Mayo Invitational,2010,12
+REDT,200 M Freestyle,SCM,M,35-39,2:08.04,Thayer H Thompson,,NY vs NJ Duel In The Pool,2010,1
+FISH,200 M Freestyle,SCM,M,35-39,2:09.53,Jonathan D Churins,,NY vs NJ Duel In The Pool,2010,2
+REDT,200 M Freestyle,SCM,M,35-39,2:11.38,Tom W Jens,,NY vs NJ Duel In The Pool,2010,3
+WM,200 M Freestyle,SCM,M,35-39,2:19.93,Shu Yagi,,NY vs NJ Duel In The Pool,2010,4
+AGUA,200 M Freestyle,SCM,M,35-39,2:30.55,Georgios Theofilidis,,NY vs NJ Duel In The Pool,2010,5
+BCTM,200 M Freestyle,SCM,M,35-39,2:45.09,Matthew Currier,,Cinco De Mayo Invitational,2010,6
+AQFT,400 M Freestyle,SCM,M,35-39,4:52.53,Adam Carroll,,Cinco De Mayo Invitational,2010,1
+TNYA,400 M Freestyle,SCM,M,35-39,5:07.79,Onesimo C Demira,,Cinco De Mayo Invitational,2010,2
+REDT,50 M Backstroke,SCM,M,35-39,32.39,Tom W Jens,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Backstroke,SCM,M,35-39,38.19,Brendan J Fee,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+TNYA,50 M Backstroke,SCM,M,35-39,38.31,Kenneth S Kohanowski,,Cinco De Mayo Invitational,2010,3
+AQFT,100 M Backstroke,SCM,M,35-39,1:06.54,Adam Carroll,,Cinco De Mayo Invitational,2010,1
+REDT,100 M Backstroke,SCM,M,35-39,1:07.93,Tom W Jens,,NY vs NJ Duel In The Pool,2010,2
+AGUA,100 M Backstroke,SCM,M,35-39,1:18.57,Marshall N Price,,AGUA SC Meters Pentathlon,2010,3
+TNYA,100 M Backstroke,SCM,M,35-39,1:20.32,Onesimo C Demira,,Cinco De Mayo Invitational,2010,4
+TNYA,100 M Backstroke,SCM,M,35-39,1:22.59,Steve Milankov,,Cinco De Mayo Invitational,2010,5
+TNYA,100 M Backstroke,SCM,M,35-39,1:31.84,Jason Andrew,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,6
+TNYA,200 M Backstroke,SCM,M,35-39,2:56.98,Steve Milankov,,Cinco De Mayo Invitational,2010,1
+TNYA,50 M Breaststroke,SCM,M,35-39,44.83,Jason Andrew,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+TNYA,100 M Breaststroke,SCM,M,35-39,1:34.52,Kenneth S Kohanowski,,Cinco De Mayo Invitational,2010,1
+AQFT,50 M Butterfly,SCM,M,35-39,28.84,Adam Carroll,,Cinco De Mayo Invitational,2010,1
+REDT,50 M Butterfly,SCM,M,35-39,29.66,Thayer H Thompson,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Butterfly,SCM,M,35-39,32.95,Koby Bambilia,,NY vs NJ Duel In The Pool,2010,3
+TNYA,50 M Butterfly,SCM,M,35-39,33.38,Steve Milankov,,Cinco De Mayo Invitational,2010,4
+UNAT,50 M Butterfly,SCM,M,35-39,34.58,Brendan J Fee,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+REDT,50 M Butterfly,SCM,M,35-39,36.63,Hakan K Ergulec,,NY vs NJ Duel In The Pool,2010,6
+TNYA,100 M Butterfly,SCM,M,35-39,1:13.23,Onesimo C Demira,,Cinco De Mayo Invitational,2010,1
+AGUA,100 M Butterfly,SCM,M,35-39,1:15.42,Marshall N Price,,AGUA SC Meters Pentathlon,2010,2
+TNYA,100 M Butterfly,SCM,M,35-39,1:25.76,Steve Milankov,,Cinco De Mayo Invitational,2010,3
+TNYA,200 M Butterfly,SCM,M,35-39,2:40.91,Onesimo C Demira,,Cinco De Mayo Invitational,2010,1
+FISH,100 M Individual Medley,SCM,M,35-39,1:06.37,Jonathan D Churins,,NY vs NJ Duel In The Pool,2010,1
+AGUA,100 M Individual Medley,SCM,M,35-39,1:13.46,Paul Matkovic,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+TNYA,100 M Individual Medley,SCM,M,35-39,1:24.19,Kenneth S Kohanowski,,Cinco De Mayo Invitational,2010,3
+AGUA,200 M Individual Medley,SCM,M,35-39,2:35.42,Marshall N Price,,AGUA SC Meters Pentathlon,2010,1
+TNYA,200 M Individual Medley,SCM,M,35-39,2:44.57,Onesimo C Demira,,Cinco De Mayo Invitational,2010,2
+AGUA,200 M Individual Medley,SCM,M,35-39,4:18.67,Charles L Smith,,AGUA SC Meters Pentathlon,2010,3
+AGUA,50 M Freestyle,SCM,M,40-44,28.04,Vladimir Gavroff,,Cinco De Mayo Invitational,2010,1
+BCTM,50 M Freestyle,SCM,M,40-44,29.87,Kenichiro Kubo,,Cinco De Mayo Invitational,2010,2
+TNYA,50 M Freestyle,SCM,M,40-44,34.20,Randall A Chamberlain,,Cinco De Mayo Invitational,2010,3
+METR,50 M Freestyle,SCM,M,40-44,34.89,Preston S Foulks,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+TNYA,50 M Freestyle,SCM,M,40-44,35.90,William R Carr,,Cinco De Mayo Invitational,2010,5
+AGUA,100 M Freestyle,SCM,M,40-44,1:01.69,Vladimir Gavroff,,AGUA SC Meters Pentathlon,2010,1
+REDT,100 M Freestyle,SCM,M,40-44,1:02.59,Robert Goodman,,NY vs NJ Duel In The Pool,2010,2
+UNAT,100 M Freestyle,SCM,M,40-44,1:02.76,John Gassner,,NY vs NJ Duel In The Pool,2010,3
+TNYA,100 M Freestyle,SCM,M,40-44,1:32.57,William R Carr,,Cinco De Mayo Invitational,2010,4
+TNYA,200 M Freestyle,SCM,M,40-44,2:12.68,Matthew S Mair,,Cinco De Mayo Invitational,2010,1
+REDT,200 M Freestyle,SCM,M,40-44,2:25.92,Robert Goodman,,NY vs NJ Duel In The Pool,2010,2
+TNYA,400 M Freestyle,SCM,M,40-44,4:43.75,Matthew S Mair,,Cinco De Mayo Invitational,2010,1
+TNYA,400 M Freestyle,SCM,M,40-44,6:24.11,William R Carr,,Cinco De Mayo Invitational,2010,2
+TNYA,100 M Backstroke,SCM,M,40-44,1:13.69,Matthew S Mair,,Cinco De Mayo Invitational,2010,1
+AQFT,100 M Backstroke,SCM,M,40-44,1:40.61,David Kaufman,,NY vs NJ Duel In The Pool,2010,2
+POST,200 M Backstroke,SCM,M,40-44,2:40.83,Kenneth (Casey) C Murphy,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Breaststroke,SCM,M,40-44,33.38,John Gassner,,NY vs NJ Duel In The Pool,2010,1
+TNYA,50 M Breaststroke,SCM,M,40-44,34.94,Jun Maruta,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+AGUA,50 M Breaststroke,SCM,M,40-44,35.89,Vladimir Gavroff,,Cinco De Mayo Invitational,2010,3
+METR,50 M Breaststroke,SCM,M,40-44,43.96,Preston S Foulks,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+TNYA,100 M Breaststroke,SCM,M,40-44,1:14.49,Jun Maruta,,AGUA SC Meters Pentathlon,2010,1
+UNAT,100 M Breaststroke,SCM,M,40-44,1:15.79,John Gassner,,NY vs NJ Duel In The Pool,2010,2
+METR,100 M Breaststroke,SCM,M,40-44,1:42.24,Preston S Foulks,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+TNYA,50 M Butterfly,SCM,M,40-44,32.10,Jun Maruta,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+BCTM,50 M Butterfly,SCM,M,40-44,34.50,Kenichiro Kubo,,Cinco De Mayo Invitational,2010,2
+REDT,100 M Butterfly,SCM,M,40-44,1:19.98,Robert Goodman,,NY vs NJ Duel In The Pool,2010,1
+FISH,100 M Butterfly,SCM,M,40-44,1:29.85,Jondavid Klipp,,New England Short Course Meters Championship,2010,2
+POST,100 M Individual Medley,SCM,M,40-44,1:12.05,Kenneth (Casey) C Murphy,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Individual Medley,SCM,M,40-44,1:15.11,Robert Goodman,,NY vs NJ Duel In The Pool,2010,2
+BCTM,100 M Individual Medley,SCM,M,40-44,1:20.98,Kenichiro Kubo,,Cinco De Mayo Invitational,2010,3
+AQFT,100 M Individual Medley,SCM,M,40-44,1:34.66,David Kaufman,,NY vs NJ Duel In The Pool,2010,4
+TNYA,200 M Individual Medley,SCM,M,40-44,2:39.08,Jun Maruta,,AGUA SC Meters Pentathlon,2010,1
+AQFT,200 M Individual Medley,SCM,M,40-44,3:28.92,David Kaufman,,NY vs NJ Duel In The Pool,2010,2
+POST,400 M Individual Medley,SCM,M,40-44,5:36.91,Kenneth (Casey) C Murphy,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Freestyle,SCM,M,45-49,26.69,Geoff Cassell,,NY vs NJ Duel In The Pool,2010,1
+WM,50 M Freestyle,SCM,M,45-49,27.99,Dan Levy,,New England Short Course Meters Championship,2010,2
+METR,50 M Freestyle,SCM,M,45-49,29.93,Robert J Todd,,NY vs NJ Duel In The Pool,2010,3
+TNYA,50 M Freestyle,SCM,M,45-49,29.95,Kozo Suzuki,,Cinco De Mayo Invitational,2010,4
+BCTM,50 M Freestyle,SCM,M,45-49,30.71,Bradford L Butler,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+BCTM,50 M Freestyle,SCM,M,45-49,33.50,James A Allen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,6
+AQFT,50 M Freestyle,SCM,M,45-49,39.55,Lawrence Maraldo,,NY vs NJ Duel In The Pool,2010,7
+BDGR,100 M Freestyle,SCM,M,45-49,59.74,Steven M Newman,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Freestyle,SCM,M,45-49,59.82,Geoff Cassell,,NY vs NJ Duel In The Pool,2010,2
+BDGR,100 M Freestyle,SCM,M,45-49,59.94,Greg S Werlinich,,NY vs NJ Duel In The Pool,2010,3
+WM,100 M Freestyle,SCM,M,45-49,1:01.66,Dan Levy,,New England Short Course Meters Championship,2010,4
+METR,100 M Freestyle,SCM,M,45-49,1:03.06,Milan Ruttkay,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+TNYA,100 M Freestyle,SCM,M,45-49,1:07.83,Kozo Suzuki,,Cinco De Mayo Invitational,2010,6
+AGUA,100 M Freestyle,SCM,M,45-49,1:16.66,Peter M Halloran,,AGUA SC Meters Pentathlon,2010,7
+BDGR,200 M Freestyle,SCM,M,45-49,2:12.03,Steven M Newman,,NY vs NJ Duel In The Pool,2010,1
+BDGR,200 M Freestyle,SCM,M,45-49,2:12.74,Greg S Werlinich,,NY vs NJ Duel In The Pool,2010,2
+WM,200 M Freestyle,SCM,M,45-49,2:18.90,Jason Troiano,,NY vs NJ Duel In The Pool,2010,3
+WM,200 M Freestyle,SCM,M,45-49,2:18.97,Dan Levy,,New England Short Course Meters Championship,2010,4
+TNYA,200 M Freestyle,SCM,M,45-49,2:32.06,Kozo Suzuki,,Cinco De Mayo Invitational,2010,5
+AGUA,200 M Freestyle,SCM,M,45-49,2:55.14,Peter M Halloran,,Cinco De Mayo Invitational,2010,6
+REDT,400 M Freestyle,SCM,M,45-49,5:03.77,Spencer B Neyland,,Cinco De Mayo Invitational,2010,1
+WM,400 M Freestyle,SCM,M,45-49,5:03.95,Dan Levy,,New England Short Course Meters Championship,2010,2
+WM,50 M Backstroke,SCM,M,45-49,35.54,Dan Levy,,New England Short Course Meters Championship,2010,1
+BCTM,50 M Backstroke,SCM,M,45-49,40.47,Bradford L Butler,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+BDGR,100 M Backstroke,SCM,M,45-49,1:11.29,Greg S Werlinich,,NY vs NJ Duel In The Pool,2010,1
+AGUA,100 M Backstroke,SCM,M,45-49,1:35.62,Peter M Halloran,,AGUA SC Meters Pentathlon,2010,2
+WM,50 M Breaststroke,SCM,M,45-49,34.80,Dan Levy,,New England Short Course Meters Championship,2010,1
+POST,50 M Breaststroke,SCM,M,45-49,36.08,Lawrence R Martell,,NY vs NJ Duel In The Pool,2010,2
+REDT,50 M Breaststroke,SCM,M,45-49,36.18,Spencer B Neyland,,NY vs NJ Duel In The Pool,2010,3
+BCTM,50 M Breaststroke,SCM,M,45-49,38.39,Bradford L Butler,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+METR,50 M Breaststroke,SCM,M,45-49,38.86,Milan Ruttkay,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AQFT,50 M Breaststroke,SCM,M,45-49,39.25,Keith Cataldo,,Cinco De Mayo Invitational,2010,6
+BCTM,50 M Breaststroke,SCM,M,45-49,43.90,James A Allen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,7
+AQFT,100 M Breaststroke,SCM,M,45-49,1:15.84,Geoff Cassell,,NY vs NJ Duel In The Pool,2010,1
+REDT,100 M Breaststroke,SCM,M,45-49,1:20.25,Spencer B Neyland,,NY vs NJ Duel In The Pool,2010,2
+POST,100 M Breaststroke,SCM,M,45-49,1:20.35,Lawrence R Martell,,NY vs NJ Duel In The Pool,2010,3
+METR,100 M Breaststroke,SCM,M,45-49,1:26.21,Milan Ruttkay,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+AQFT,100 M Breaststroke,SCM,M,45-49,1:26.65,Keith Cataldo,,Cinco De Mayo Invitational,2010,5
+AGUA,100 M Breaststroke,SCM,M,45-49,1:46.09,Peter M Halloran,,AGUA SC Meters Pentathlon,2010,6
+REDT,200 M Breaststroke,SCM,M,45-49,2:54.69,Spencer B Neyland,,Cinco De Mayo Invitational,2010,1
+AQFT,200 M Breaststroke,SCM,M,45-49,3:13.77,Keith Cataldo,,Cinco De Mayo Invitational,2010,2
+WM,50 M Butterfly,SCM,M,45-49,30.71,Dan Levy,,New England Short Course Meters Championship,2010,1
+METR,50 M Butterfly,SCM,M,45-49,33.55,Robert J Todd,,NY vs NJ Duel In The Pool,2010,2
+TNYA,50 M Butterfly,SCM,M,45-49,33.60,Kozo Suzuki,,Cinco De Mayo Invitational,2010,3
+TNYA,100 M Butterfly,SCM,M,45-49,1:19.79,Kozo Suzuki,,Cinco De Mayo Invitational,2010,1
+BDGR,100 M Individual Medley,SCM,M,45-49,1:08.84,Greg S Werlinich,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Individual Medley,SCM,M,45-49,1:09.71,Geoff Cassell,,NY vs NJ Duel In The Pool,2010,2
+WM,100 M Individual Medley,SCM,M,45-49,1:09.88,Dan Levy,,New England Short Course Meters Championship,2010,3
+REDT,100 M Individual Medley,SCM,M,45-49,1:16.08,Spencer B Neyland,,Cinco De Mayo Invitational,2010,4
+METR,100 M Individual Medley,SCM,M,45-49,1:17.09,Milan Ruttkay,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+METR,100 M Individual Medley,SCM,M,45-49,1:18.95,Robert J Todd,,NY vs NJ Duel In The Pool,2010,6
+AQFT,100 M Individual Medley,SCM,M,45-49,1:21.28,Keith Cataldo,,NY vs NJ Duel In The Pool,2010,7
+BCTM,100 M Individual Medley,SCM,M,45-49,1:25.42,James A Allen,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,8
+REDT,200 M Individual Medley,SCM,M,45-49,2:41.38,Spencer B Neyland,,NY vs NJ Duel In The Pool,2010,1
+METR,200 M Individual Medley,SCM,M,45-49,2:52.31,Robert J Todd,,NY vs NJ Duel In The Pool,2010,2
+AQFT,200 M Individual Medley,SCM,M,45-49,2:56.96,Keith Cataldo,,NY vs NJ Duel In The Pool,2010,3
+AQFT,400 M Individual Medley,SCM,M,45-49,6:34.91,Keith Cataldo,,NY vs NJ Duel In The Pool,2010,1
+METR,400 M Individual Medley,SCM,M,45-49,6:42.82,Robert J Todd,,AGUA SC Meters Pentathlon,2010,2
+AQFT,50 M Freestyle,SCM,M,50-54,32.22,Michael Nieminski,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Freestyle,SCM,M,50-54,40.66,Howard F Paul,,2010 Empire State Games,2010,2
+TNYA,50 M Freestyle,SCM,M,50-54,53.38,Steven Z Goran,,New England Short Course Meters Championship,2010,3
+CHEL,100 M Freestyle,SCM,M,50-54,1:04.68,Pascal Borderies,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+AQFT,100 M Freestyle,SCM,M,50-54,1:27.03,Vadim Shvartsman,,NY vs NJ Duel In The Pool,2010,2
+TNYA,100 M Freestyle,SCM,M,50-54,2:02.01,Steven Z Goran,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+TNYA,200 M Freestyle,SCM,M,50-54,4:34.57,Steven Z Goran,,New England Short Course Meters Championship,2010,1
+TNYA,400 M Freestyle,SCM,M,50-54,10:11.57,Steven Z Goran,,New England Short Course Meters Championship,2010,1
+UNAT,800 M Freestyle,SCM,M,50-54,17:00.64,Howard F Paul,,2010 Empire State Games,2010,1
+TNYA,800 M Freestyle,SCM,M,50-54,20:25.43,Steven Z Goran,,New England Short Course Meters Championship,2010,2
+AQFT,50 M Backstroke,SCM,M,50-54,44.91,Michael Nieminski,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Backstroke,SCM,M,50-54,52.47,Howard F Paul,,2010 Empire State Games,2010,2
+TNYA,50 M Backstroke,SCM,M,50-54,1:19.42,Steven Z Goran,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+UNAT,100 M Backstroke,SCM,M,50-54,1:59.60,Howard F Paul,,2010 Empire State Games,2010,1
+TNYA,100 M Backstroke,SCM,M,50-54,2:51.65,Steven Z Goran,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,2
+UNAT,200 M Backstroke,SCM,M,50-54,4:08.19,Howard F Paul,,2010 Empire State Games,2010,1
+TNYA,200 M Backstroke,SCM,M,50-54,6:17.10,Steven Z Goran,,New England Short Course Meters Championship,2010,2
+AQFT,50 M Breaststroke,SCM,M,50-54,41.55,Michael Nieminski,,NY vs NJ Duel In The Pool,2010,1
+TNYA,50 M Breaststroke,SCM,M,50-54,46.87,Richard W Peterson,,Cinco De Mayo Invitational,2010,2
+AQFT,50 M Breaststroke,SCM,M,50-54,50.50,Vadim Shvartsman,,NY vs NJ Duel In The Pool,2010,3
+TNYA,100 M Breaststroke,SCM,M,50-54,1:38.79,Richard W Peterson,,Cinco De Mayo Invitational,2010,1
+TNYA,100 M Breaststroke,SCM,M,50-54,2:57.05,Steven Z Goran,,AGUA SC Meters Pentathlon,2010,2
+UNAT,50 M Butterfly,SCM,M,50-54,43.54,Howard F Paul,,2010 Empire State Games,2010,1
+CHEL,100 M Butterfly,SCM,M,50-54,1:08.69,Pascal Borderies,,New England Short Course Meters Championship,2010,1
+TNYA,100 M Butterfly,SCM,M,50-54,2:40.78,Steven Z Goran,,AGUA SC Meters Pentathlon,2010,2
+CHEL,200 M Butterfly,SCM,M,50-54,2:38.61,Pascal Borderies,,New England Short Course Meters Championship,2010,1
+CHEL,100 M Individual Medley,SCM,M,50-54,1:14.47,Pascal Borderies,,New England Short Course Meters Championship,2010,1
+TNYA,100 M Individual Medley,SCM,M,50-54,1:33.51,Richard W Peterson,,Cinco De Mayo Invitational,2010,2
+TNYA,100 M Individual Medley,SCM,M,50-54,2:31.61,Steven Z Goran,,New England Short Course Meters Championship,2010,3
+TNYA,200 M Individual Medley,SCM,M,50-54,3:29.40,Richard W Peterson,,Cinco De Mayo Invitational,2010,1
+TNYA,200 M Individual Medley,SCM,M,50-54,5:38.57,Steven Z Goran,,AGUA SC Meters Pentathlon,2010,2
+TNYA,400 M Individual Medley,SCM,M,50-54,12:09.89,Steven Z Goran,,New England Short Course Meters Championship,2010,1
+BCTM,50 M Freestyle,SCM,M,55-59,32.46,Thomas W Sullivan,,Cinco De Mayo Invitational,2010,1
+METR,50 M Freestyle,SCM,M,55-59,33.74,Kelly McKee,,NY vs NJ Duel In The Pool,2010,2
+UNAT,50 M Freestyle,SCM,M,55-59,34.04,Richard J Pope,,2010 Empire State Games,2010,3
+REDT,50 M Freestyle,SCM,M,55-59,34.54,Jonathan M Silver,,NY vs NJ Duel In The Pool,2010,4
+TNYA,50 M Freestyle,SCM,M,55-59,38.88,Andrew L Taines,,Cinco De Mayo Invitational,2010,5
+UNAT,100 M Freestyle,SCM,M,55-59,1:17.81,Richard J Pope,,2010 Empire State Games,2010,1
+REDT,200 M Freestyle,SCM,M,55-59,2:48.52,Jonathan M Silver,,NY vs NJ Duel In The Pool,2010,1
+UNAT,200 M Freestyle,SCM,M,55-59,3:00.62,Richard J Pope,,2010 Empire State Games,2010,2
+WM,400 M Freestyle,SCM,M,55-59,5:31.27,Steven J Miller,,Cinco De Mayo Invitational,2010,1
+UNAT,400 M Freestyle,SCM,M,55-59,6:37.57,Richard J Pope,,2010 Empire State Games,2010,2
+POST,50 M Backstroke,SCM,M,55-59,34.10,Ken Longo,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Backstroke,SCM,M,55-59,1:38.56,Richard A Benson,,Cinco De Mayo Invitational,2010,1
+REDT,50 M Breaststroke,SCM,M,55-59,44.01,Jonathan M Silver,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Breaststroke,SCM,M,55-59,44.75,Richard J Pope,,2010 Empire State Games,2010,2
+BCTM,50 M Breaststroke,SCM,M,55-59,44.89,Thomas W Sullivan,,Cinco De Mayo Invitational,2010,3
+TNYA,50 M Breaststroke,SCM,M,55-59,51.09,Andrew L Taines,,Cinco De Mayo Invitational,2010,4
+TNYA,100 M Breaststroke,SCM,M,55-59,1:38.32,Tom Malcolm,,Cinco De Mayo Invitational,2010,1
+UNAT,100 M Breaststroke,SCM,M,55-59,1:39.31,Richard J Pope,,2010 Empire State Games,2010,2
+TNYA,200 M Breaststroke,SCM,M,55-59,3:28.94,Tom Malcolm,,Cinco De Mayo Invitational,2010,1
+UNAT,200 M Breaststroke,SCM,M,55-59,3:50.37,Richard J Pope,,2010 Empire State Games,2010,2
+WM,50 M Butterfly,SCM,M,55-59,32.95,Steven J Miller,,Cinco De Mayo Invitational,2010,1
+REDT,50 M Butterfly,SCM,M,55-59,35.88,Jonathan M Silver,,NY vs NJ Duel In The Pool,2010,2
+BCTM,50 M Butterfly,SCM,M,55-59,36.44,Thomas W Sullivan,,Cinco De Mayo Invitational,2010,3
+METR,50 M Butterfly,SCM,M,55-59,41.62,Kelly McKee,,NY vs NJ Duel In The Pool,2010,4
+CHEL,100 M Butterfly,SCM,M,55-59,1:14.95,John B Chambers,,NY vs NJ Duel In The Pool,2010,1
+CHEL,200 M Butterfly,SCM,M,55-59,2:49.39,John B Chambers,,NY vs NJ Duel In The Pool,2010,1
+AQFT,200 M Butterfly,SCM,M,55-59,3:32.92,Richard A Benson,,NY vs NJ Duel In The Pool,2010,2
+TNYA,200 M Butterfly,SCM,M,55-59,3:32.96,Tom Malcolm,,Cinco De Mayo Invitational,2010,3
+WM,100 M Individual Medley,SCM,M,55-59,1:20.20,Steven J Miller,,Cinco De Mayo Invitational,2010,1
+BCTM,100 M Individual Medley,SCM,M,55-59,1:28.56,Thomas W Sullivan,,Cinco De Mayo Invitational,2010,2
+TNYA,100 M Individual Medley,SCM,M,55-59,1:29.89,Tom Malcolm,,Cinco De Mayo Invitational,2010,3
+AQFT,100 M Individual Medley,SCM,M,55-59,1:35.17,Richard A Benson,,Cinco De Mayo Invitational,2010,4
+AQFT,200 M Individual Medley,SCM,M,55-59,3:23.04,Richard A Benson,,Cinco De Mayo Invitational,2010,1
+AQFT,400 M Individual Medley,SCM,M,55-59,7:24.38,Richard A Benson,,NY vs NJ Duel In The Pool,2010,1
+METR,50 M Freestyle,SCM,M,60-64,33.23,Frank E Hennessy,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Freestyle,SCM,M,60-64,36.92,Steven P Calkins,,NY vs NJ Duel In The Pool,2010,2
+UNAT,50 M Freestyle,SCM,M,60-64,37.52,Stephen N Camhi,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+REDT,100 M Freestyle,SCM,M,60-64,1:16.96,Stan V Filatov,,AGUA SC Meters Pentathlon,2010,1
+AGUA,100 M Freestyle,SCM,M,60-64,1:18.84,Richard F Bernstein,,AGUA SC Meters Pentathlon,2010,2
+WM,100 M Freestyle,SCM,M,60-64,1:20.20,Richard M Grose,,NY vs NJ Duel In The Pool,2010,3
+AGUA,100 M Freestyle,SCM,M,60-64,1:25.47,Bob Kolonkowski,,AGUA SC Meters Pentathlon,2010,4
+UNAT,100 M Freestyle,SCM,M,60-64,1:28.57,Stephen N Camhi,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,5
+AGUA,200 M Freestyle,SCM,M,60-64,2:49.25,Richard F Bernstein,,NY vs NJ Duel In The Pool,2010,1
+WM,200 M Freestyle,SCM,M,60-64,2:55.98,Noel Duguet,,NY vs NJ Duel In The Pool,2010,2
+WM,200 M Freestyle,SCM,M,60-64,3:00.41,Richard M Grose,,NY vs NJ Duel In The Pool,2010,3
+FISH,400 M Freestyle,SCM,M,60-64,6:04.18,Jack Cothren,,2010 St. Nicholas SCM Invitational,2010,1
+FISH,1500 M Freestyle,SCM,M,60-64,24:08.65,Jack Cothren,,South Carolina SCM Championships,2010,1
+FISH,50 M Backstroke,SCM,M,60-64,39.34,Jack Cothren,,2010 St. Nicholas SCM Invitational,2010,1
+METR,50 M Backstroke,SCM,M,60-64,43.04,Frank E Hennessy,,NY vs NJ Duel In The Pool,2010,2
+AGUA,100 M Backstroke,SCM,M,60-64,1:25.11,Bob Kolonkowski,,NY vs NJ Duel In The Pool,2010,1
+FISH,100 M Backstroke,SCM,M,60-64,1:29.89,Jack Cothren,,2010 St. Nicholas SCM Invitational,2010,2
+AGUA,100 M Backstroke,SCM,M,60-64,1:40.52,Richard F Bernstein,,AGUA SC Meters Pentathlon,2010,3
+UNAT,100 M Backstroke,SCM,M,60-64,1:55.03,Stephen N Camhi,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,4
+AGUA,200 M Backstroke,SCM,M,60-64,3:08.45,Bob Kolonkowski,,NY vs NJ Duel In The Pool,2010,1
+FISH,200 M Backstroke,SCM,M,60-64,3:11.12,Jack Cothren,,2010 St. Nicholas SCM Invitational,2010,2
+AGUA,200 M Backstroke,SCM,M,60-64,3:36.79,Richard F Bernstein,,NY vs NJ Duel In The Pool,2010,3
+WM,50 M Breaststroke,SCM,M,60-64,40.79,Noel Duguet,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Breaststroke,SCM,M,60-64,43.18,Steven P Calkins,,NY vs NJ Duel In The Pool,2010,2
+AGUA,50 M Breaststroke,SCM,M,60-64,46.98,Richard F Bernstein,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+AQFT,50 M Breaststroke,SCM,M,60-64,47.28,Alan W Laster,,NY vs NJ Duel In The Pool,2010,4
+HHB,50 M Breaststroke,SCM,M,60-64,47.53,William B Smalls,,NY vs NJ Duel In The Pool,2010,5
+AGUA,100 M Breaststroke,SCM,M,60-64,1:43.50,Richard F Bernstein,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+AQFT,100 M Breaststroke,SCM,M,60-64,1:44.58,Alan W Laster,,NY vs NJ Duel In The Pool,2010,2
+HHB,100 M Breaststroke,SCM,M,60-64,1:47.74,William B Smalls,,NY vs NJ Duel In The Pool,2010,3
+AGUA,100 M Breaststroke,SCM,M,60-64,1:57.68,Bob Kolonkowski,,AGUA SC Meters Pentathlon,2010,4
+HHB,200 M Breaststroke,SCM,M,60-64,4:10.69,William B Smalls,,NY vs NJ Duel In The Pool,2010,1
+METR,50 M Butterfly,SCM,M,60-64,33.19,Frank E Hennessy,,NY vs NJ Duel In The Pool,2010,1
+FISH,50 M Butterfly,SCM,M,60-64,35.49,Jack Cothren,,2010 St. Nicholas SCM Invitational,2010,2
+AQFT,50 M Butterfly,SCM,M,60-64,44.62,Steven P Calkins,,NY vs NJ Duel In The Pool,2010,3
+AGUA,100 M Butterfly,SCM,M,60-64,1:33.24,Bob Kolonkowski,,AGUA SC Meters Pentathlon,2010,1
+REDT,100 M Butterfly,SCM,M,60-64,1:36.91,Stan V Filatov,,AGUA SC Meters Pentathlon,2010,2
+AGUA,100 M Butterfly,SCM,M,60-64,1:50.35,Richard F Bernstein,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,3
+AGUA,200 M Butterfly,SCM,M,60-64,3:07.66,Bob Kolonkowski,,NY vs NJ Duel In The Pool,2010,1
+AGUA,200 M Butterfly,SCM,M,60-64,4:07.92,Richard F Bernstein,,NY vs NJ Duel In The Pool,2010,2
+AGUA,100 M Individual Medley,SCM,M,60-64,1:34.17,Richard F Bernstein,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+HHB,100 M Individual Medley,SCM,M,60-64,1:49.46,William B Smalls,,NY vs NJ Duel In The Pool,2010,2
+AGUA,200 M Individual Medley,SCM,M,60-64,3:21.75,Richard F Bernstein,,AGUA SC Meters Pentathlon,2010,1
+AGUA,400 M Individual Medley,SCM,M,60-64,6:37.30,Bob Kolonkowski,,NY vs NJ Duel In The Pool,2010,1
+WM,400 M Individual Medley,SCM,M,60-64,6:52.33,Noel Duguet,,NY vs NJ Duel In The Pool,2010,2
+AGUA,400 M Individual Medley,SCM,M,60-64,7:06.17,Richard F Bernstein,,NY vs NJ Duel In The Pool,2010,3
+AQFT,50 M Freestyle,SCM,M,65-69,38.55,Barry M Goldblatt,,NY vs NJ Duel In The Pool,2010,1
+UNAT,50 M Freestyle,SCM,M,65-69,48.18,Michael A Hatchette,,NY vs NJ Duel In The Pool,2010,2
+AQFT,50 M Freestyle,SCM,M,65-69,50.56,Norman R Provost,,NY vs NJ Duel In The Pool,2010,3
+UNAT,100 M Freestyle,SCM,M,65-69,1:52.69,Michael A Hatchette,,NY vs NJ Duel In The Pool,2010,1
+METR,200 M Freestyle,SCM,M,65-69,3:15.97,Richard S Monahan,,NY vs NJ Duel In The Pool,2010,1
+METR,50 M Backstroke,SCM,M,65-69,37.30,Mark B Grashow,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+AQFT,50 M Backstroke,SCM,M,65-69,48.58,Barry M Goldblatt,,NY vs NJ Duel In The Pool,2010,2
+METR,50 M Backstroke,SCM,M,65-69,51.53,Richard S Monahan,,NY vs NJ Duel In The Pool,2010,3
+UNAT,50 M Backstroke,SCM,M,65-69,1:09.83,Michael A Hatchette,,NY vs NJ Duel In The Pool,2010,4
+METR,100 M Backstroke,SCM,M,65-69,1:49.71,Richard S Monahan,,NY vs NJ Duel In The Pool,2010,1
+METR,200 M Backstroke,SCM,M,65-69,3:53.08,Richard S Monahan,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Breaststroke,SCM,M,65-69,45.58,Barry M Goldblatt,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Breaststroke,SCM,M,65-69,57.61,Norman R Provost,,NY vs NJ Duel In The Pool,2010,2
+AQFT,100 M Breaststroke,SCM,M,65-69,2:10.13,Norman R Provost,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Butterfly,SCM,M,65-69,41.25,Barry M Goldblatt,,NY vs NJ Duel In The Pool,2010,1
+METR,100 M Individual Medley,SCM,M,65-69,1:20.95,Mark B Grashow,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+AQFT,100 M Individual Medley,SCM,M,65-69,2:15.38,Norman R Provost,,NY vs NJ Duel In The Pool,2010,2
+UNAT,100 M Individual Medley,SCM,M,65-69,2:32.20,Michael A Hatchette,,NY vs NJ Duel In The Pool,2010,3
+METR,50 M Freestyle,SCM,M,70-74,34.90,Joseph R Bolze,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+HHB,50 M Freestyle,SCM,M,70-74,40.21,Luther P Gales,,NY vs NJ Duel In The Pool,2010,2
+METR,50 M Freestyle,SCM,M,70-74,44.37,Steve Schloss,,NY vs NJ Duel In The Pool,2010,3
+AQFT,50 M Freestyle,SCM,M,70-74,49.68,Dick Schenendorf,,NY vs NJ Duel In The Pool,2010,4
+METR,100 M Freestyle,SCM,M,70-74,1:20.26,Steve Schloss,,Cinco De Mayo Invitational,2010,1
+METR,200 M Freestyle,SCM,M,70-74,3:48.69,Steve Schloss,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Breaststroke,SCM,M,70-74,52.08,Dick Schenendorf,,NY vs NJ Duel In The Pool,2010,1
+HHB,50 M Breaststroke,SCM,M,70-74,59.02,Luther P Gales,,NY vs NJ Duel In The Pool,2010,2
+METR,100 M Breaststroke,SCM,M,70-74,1:52.15,Joseph R Bolze,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+AQFT,100 M Breaststroke,SCM,M,70-74,2:04.02,Dick Schenendorf,,NY vs NJ Duel In The Pool,2010,2
+METR,50 M Butterfly,SCM,M,70-74,45.39,Joseph R Bolze,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+METR,100 M Butterfly,SCM,M,70-74,1:47.55,Joseph R Bolze,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+METR,100 M Individual Medley,SCM,M,70-74,1:36.52,Joseph R Bolze,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+HHB,100 M Individual Medley,SCM,M,70-74,1:54.64,Luther P Gales,,NY vs NJ Duel In The Pool,2010,2
+HHB,200 M Individual Medley,SCM,M,70-74,4:13.64,Luther P Gales,,NY vs NJ Duel In The Pool,2010,1
+AGUA,50 M Freestyle,SCM,M,75-79,37.22,Stanley J Shechter,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+FISH,50 M Freestyle,SCM,M,75-79,58.13,Clifford F Konitz,,NY vs NJ Duel In The Pool,2010,2
+AGUA,100 M Freestyle,SCM,M,75-79,1:28.49,Stanley J Shechter,,AGUA SC Meters Pentathlon,2010,1
+METR,100 M Freestyle,SCM,M,75-79,1:50.20,Richard Ellis,,Cinco De Mayo Invitational,2010,2
+FISH,100 M Freestyle,SCM,M,75-79,2:18.18,Clifford F Konitz,,NY vs NJ Duel In The Pool,2010,3
+METR,200 M Freestyle,SCM,M,75-79,4:15.13,Richard Ellis,,Cinco De Mayo Invitational,2010,1
+FISH,200 M Freestyle,SCM,M,75-79,4:57.29,Clifford F Konitz,,NY vs NJ Duel In The Pool,2010,2
+METR,400 M Freestyle,SCM,M,75-79,8:50.73,Richard Ellis,,Cinco De Mayo Invitational,2010,1
+AGUA,50 M Backstroke,SCM,M,75-79,52.08,Stanley J Shechter,,"2nd Annual Bearcat Masters Invitational at Baruch College, NY",2010,1
+FISH,50 M Backstroke,SCM,M,75-79,1:09.52,Clifford F Konitz,,NY vs NJ Duel In The Pool,2010,2
+AQFT,100 M Backstroke,SCM,M,85-89,2:42.87,Walter A Lynch,,NY vs NJ Duel In The Pool,2010,1
+AQFT,50 M Breaststroke,SCM,M,85-89,1:13.69,Walter A Lynch,,NY vs NJ Duel In The Pool,2010,1
+AQFT,100 M Breaststroke,SCM,M,85-89,3:07.42,Walter A Lynch,,NY vs NJ Duel In The Pool,2010,1

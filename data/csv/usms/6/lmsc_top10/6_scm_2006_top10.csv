@@ -1,0 +1,658 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+NYCH,50 M Freestyle,SCM,W,18-24,32.05,Natalie A Zervas,,New England SCM Champs,2006,1
+NYCH,50 M Freestyle,SCM,W,18-24,32.98,Onyinyechukwu Monu,,Colonies Zone and NJ SCM Champs,2006,2
+NYCH,100 M Freestyle,SCM,W,18-24,1:11.22,Natalie A Zervas,,New England SCM Champs,2006,1
+NYCH,200 M Freestyle,SCM,W,18-24,2:36.28,Natalie A Zervas,,New England SCM Champs,2006,1
+NYCH,400 M Freestyle,SCM,W,18-24,5:03.44,Sharon M Makowsky,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,400 M Freestyle,SCM,W,18-24,5:30.18,Natalie A Zervas,,New England SCM Champs,2006,2
+NYCH,400 M Freestyle,SCM,W,18-24,6:49.10,Onyinyechukwu Monu,,Colonies Zone and NJ SCM Champs,2006,3
+NYCH,50 M Backstroke,SCM,W,18-24,36.88,Natalie A Zervas,,New England SCM Champs,2006,1
+NYCH,100 M Backstroke,SCM,W,18-24,1:18.46,Sharon M Makowsky,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,100 M Backstroke,SCM,W,18-24,1:21.70,Natalie A Zervas,,New England SCM Champs,2006,2
+NYCH,200 M Backstroke,SCM,W,18-24,2:56.05,Natalie A Zervas,,New England SCM Champs,2006,1
+NYCH,50 M Breaststroke,SCM,W,18-24,41.29,Onyinyechukwu Monu,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,W,18-24,1:14.76,Sharon M Makowsky,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,100 M Individual Medley,SCM,W,18-24,1:28.29,Onyinyechukwu Monu,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,200 M Individual Medley,SCM,W,18-24,2:43.85,Sharon M Makowsky,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,200 M Individual Medley,SCM,W,18-24,2:52.27,Laurel M Eskra,,Colonies Zone and NJ SCM Champs,2006,2
+NYCH,200 M Individual Medley,SCM,W,18-24,2:59.38,Hannah P Gibson,,New England SCM Champs,2006,3
+NYCH,50 M Freestyle,SCM,W,25-29,28.59,Ngozi R Monu,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,50 M Freestyle,SCM,W,25-29,29.91,Brianne Sullivan,,New England SCM Champs,2006,2
+NYCH,50 M Freestyle,SCM,W,25-29,35.71,Grace K Nguyen,,New England SCM Champs,2006,3
+NYCH,50 M Freestyle,SCM,W,25-29,38.18,Ivy R Rauzin,,Colonies Zone and NJ SCM Champs,2006,4
+NYCH,100 M Freestyle,SCM,W,25-29,1:04.99,Jodie L Friedman,,New England SCM Champs,2006,1
+NYCH,100 M Freestyle,SCM,W,25-29,1:06.47,Brianne Sullivan,,New England SCM Champs,2006,2
+NYCH,100 M Freestyle,SCM,W,25-29,1:14.17,Whitney M Drake,,New England SCM Champs,2006,3
+NYCH,100 M Freestyle,SCM,W,25-29,1:20.32,Grace K Nguyen,,New England SCM Champs,2006,4
+NYCH,100 M Freestyle,SCM,W,25-29,1:35.26,Ivy R Rauzin,,New England SCM Champs,2006,5
+METR,200 M Freestyle,SCM,W,25-29,2:30.03,Merrill T Dobson,,Gay Games at Chicago,2006,1
+NYCH,200 M Freestyle,SCM,W,25-29,2:42.12,Whitney M Drake,,New England SCM Champs,2006,2
+NYCH,400 M Freestyle,SCM,W,25-29,5:04.58,Jodie L Friedman,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,400 M Freestyle,SCM,W,25-29,5:06.88,Ngozi R Monu,,Colonies Zone and NJ SCM Champs,2006,2
+METR,400 M Freestyle,SCM,W,25-29,5:22.28,Merrill T Dobson,,Gay Games at Chicago,2006,3
+NYCH,400 M Freestyle,SCM,W,25-29,5:36.27,Whitney M Drake,,New England SCM Champs,2006,4
+NYCH,400 M Freestyle,SCM,W,25-29,7:10.67,Ivy R Rauzin,,New England SCM Champs,2006,5
+NYCH,800 M Freestyle,SCM,W,25-29,11:44.35,Whitney M Drake,,New England SCM Champs,2006,1
+NYCH,50 M Backstroke,SCM,W,25-29,32.89,Brianne Sullivan,,New England SCM Champs,2006,1
+METR,50 M Backstroke,SCM,W,25-29,35.11,Merrill T Dobson,,Gay Games at Chicago,2006,2
+NYCH,100 M Backstroke,SCM,W,25-29,1:11.21,Brianne Sullivan,,New England SCM Champs,2006,1
+METR,100 M Backstroke,SCM,W,25-29,1:16.37,Merrill T Dobson,,Gay Games at Chicago,2006,2
+METR,200 M Backstroke,SCM,W,25-29,2:51.83,Merrill T Dobson,,Gay Games at Chicago,2006,1
+NYCH,200 M Backstroke,SCM,W,25-29,3:07.28,Whitney M Drake,,New England SCM Champs,2006,2
+NYCH,50 M Breaststroke,SCM,W,25-29,46.00,Ivy R Rauzin,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,50 M Breaststroke,SCM,W,25-29,49.83,Grace K Nguyen,,New England SCM Champs,2006,2
+NYCH,100 M Breaststroke,SCM,W,25-29,1:22.36,Jodie L Friedman,,New England SCM Champs,2006,1
+NYCH,100 M Breaststroke,SCM,W,25-29,1:42.90,Whitney M Drake,,New England SCM Champs,2006,2
+NYCH,100 M Breaststroke,SCM,W,25-29,1:45.11,Ivy R Rauzin,,New England SCM Champs,2006,3
+NYCH,200 M Breaststroke,SCM,W,25-29,2:59.93,Jodie L Friedman,,New England SCM Champs,2006,1
+NYCH,50 M Butterfly,SCM,W,25-29,43.64,Grace K Nguyen,,New England SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,W,25-29,1:15.67,Brianne Sullivan,,New England SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,W,25-29,1:18.21,Jodie L Friedman,,New England SCM Champs,2006,2
+NYCH,100 M Individual Medley,SCM,W,25-29,1:13.93,Brianne Sullivan,,New England SCM Champs,2006,1
+NYCH,100 M Individual Medley,SCM,W,25-29,1:27.64,Whitney M Drake,,New England SCM Champs,2006,2
+NYCH,100 M Individual Medley,SCM,W,25-29,1:31.69,Grace K Nguyen,,New England SCM Champs,2006,3
+NYCH,200 M Individual Medley,SCM,W,25-29,2:43.52,Jodie L Friedman,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,200 M Individual Medley,SCM,W,25-29,2:51.97,Ngozi R Monu,,Colonies Zone and NJ SCM Champs,2006,2
+NYCH,200 M Individual Medley,SCM,W,25-29,3:09.69,Whitney M Drake,,New England SCM Champs,2006,3
+NYCH,400 M Individual Medley,SCM,W,25-29,5:49.29,Jodie L Friedman,,New England SCM Champs,2006,1
+DUTC,50 M Freestyle,SCM,W,30-34,33.70,Stacy L Jacobs,,New England SCM Champs,2006,1
+NYCH,50 M Freestyle,SCM,W,30-34,37.42,Amy E Lawrence,,Colonies Zone and NJ SCM Champs,2006,2
+METR,100 M Freestyle,SCM,W,30-34,1:12.47,Amanda S Eckler,,Gay Games at Chicago,2006,1
+DUTC,100 M Freestyle,SCM,W,30-34,1:12.88,Stacy L Jacobs,,New England SCM Champs,2006,2
+METR,100 M Freestyle,SCM,W,30-34,1:14.52,Michelle L Dubin,,Gay Games at Chicago,2006,3
+DUTC,100 M Freestyle,SCM,W,30-34,1:17.21,Maura K Schoonmaker,,New England SCM Champs,2006,4
+METR,200 M Freestyle,SCM,W,30-34,2:37.41,Amanda S Eckler,,Gay Games at Chicago,2006,1
+DUTC,400 M Freestyle,SCM,W,30-34,5:44.56,Maura K Schoonmaker,,New England SCM Champs,2006,1
+NYCH,400 M Freestyle,SCM,W,30-34,6:53.87,Amy E Lawrence,,Colonies Zone and NJ SCM Champs,2006,2
+DUTC,800 M Freestyle,SCM,W,30-34,12:21.10,Maura K Schoonmaker,,New England SCM Champs,2006,1
+DUTC,50 M Backstroke,SCM,W,30-34,37.33,Maura K Schoonmaker,,New England SCM Champs,2006,1
+METR,50 M Backstroke,SCM,W,30-34,38.72,Amanda S Eckler,,Gay Games at Chicago,2006,2
+DUTC,50 M Backstroke,SCM,W,30-34,38.89,Stacy L Jacobs,,New England SCM Champs,2006,3
+DUTC,100 M Backstroke,SCM,W,30-34,1:20.47,Maura K Schoonmaker,,New England SCM Champs,2006,1
+METR,100 M Backstroke,SCM,W,30-34,1:23.05,Amanda S Eckler,,Gay Games at Chicago,2006,2
+NYCH,100 M Backstroke,SCM,W,30-34,1:45.07,Amy E Lawrence,,Colonies Zone and NJ SCM Champs,2006,3
+DUTC,200 M Backstroke,SCM,W,30-34,2:53.34,Maura K Schoonmaker,,New England SCM Champs,2006,1
+DUTC,50 M Breaststroke,SCM,W,30-34,40.57,Stacy L Jacobs,,New England SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,W,30-34,43.62,Michelle L Dubin,,Gay Games at Chicago,2006,2
+DUTC,100 M Breaststroke,SCM,W,30-34,1:29.04,Stacy L Jacobs,,New England SCM Champs,2006,1
+DUTC,200 M Breaststroke,SCM,W,30-34,3:13.49,Stacy L Jacobs,,New England SCM Champs,2006,1
+METR,50 M Butterfly,SCM,W,30-34,36.19,Michelle L Dubin,,Gay Games at Chicago,2006,1
+DUTC,100 M Individual Medley,SCM,W,30-34,1:20.37,Stacy L Jacobs,,New England SCM Champs,2006,1
+METR,100 M Individual Medley,SCM,W,30-34,1:25.44,Amanda S Eckler,,Gay Games at Chicago,2006,2
+DUTC,100 M Individual Medley,SCM,W,30-34,1:28.11,Maura K Schoonmaker,,New England SCM Champs,2006,3
+METR,100 M Freestyle,SCM,W,35-39,1:18.40,Ona T Wang,,Gay Games at Chicago,2006,1
+DUTC,50 M Freestyle,SCM,W,40-44,37.78,Mary E Reed,,New England SCM Champs,2006,1
+METR,100 M Freestyle,SCM,W,40-44,1:00.50,Maria D Anderson,,Gay Games at Chicago,2006,1
+DUTC,100 M Freestyle,SCM,W,40-44,1:20.93,Mary E Reed,,New England SCM Champs,2006,2
+METR,200 M Freestyle,SCM,W,40-44,2:14.94,Maria D Anderson,,Gay Games at Chicago,2006,1
+DUTC,200 M Freestyle,SCM,W,40-44,2:58.43,Mary E Reed,,New England SCM Champs,2006,2
+METR,400 M Freestyle,SCM,W,40-44,4:54.02,Maria D Anderson,,Gay Games at Chicago,2006,1
+DUTC,400 M Freestyle,SCM,W,40-44,6:15.37,Mary E Reed,,New England SCM Champs,2006,2
+METR,400 M Freestyle,SCM,W,40-44,7:14.73,Sally Dawidoff,,Gay Games at Chicago,2006,3
+METR,50 M Backstroke,SCM,W,40-44,34.45,Janet Harris,,Gay Games at Chicago,2006,1
+METR,100 M Backstroke,SCM,W,40-44,1:16.21,Janet Harris,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,W,40-44,39.10,Janet Harris,,Gay Games at Chicago,2006,1
+BDGR,50 M Breaststroke,SCM,W,40-44,39.99,Cheryl A Kupan,,New England SCM Champs,2006,2
+BDGR,100 M Breaststroke,SCM,W,40-44,1:25.11,Cheryl A Kupan,,New England SCM Champs,2006,1
+BDGR,200 M Breaststroke,SCM,W,40-44,3:07.12,Cheryl A Kupan,,New England SCM Champs,2006,1
+METR,50 M Butterfly,SCM,W,40-44,30.48,Maria D Anderson,,Gay Games at Chicago,2006,1
+METR,50 M Butterfly,SCM,W,40-44,32.98,Janet Harris,,Gay Games at Chicago,2006,2
+BDGR,50 M Butterfly,SCM,W,40-44,33.53,Cheryl A Kupan,,New England SCM Champs,2006,3
+BDGR,100 M Butterfly,SCM,W,40-44,1:14.32,Cheryl A Kupan,,New England SCM Champs,2006,1
+BDGR,200 M Butterfly,SCM,W,40-44,2:55.11,Cheryl A Kupan,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Butterfly,SCM,W,40-44,2:57.50,Janet Harris,,Gay Games at Chicago,2006,2
+BDGR,100 M Individual Medley,SCM,W,40-44,1:16.73,Cheryl A Kupan,,Colonies Zone and NJ SCM Champs,2006,1
+DUTC,100 M Individual Medley,SCM,W,40-44,1:30.58,Mary E Reed,,New England SCM Champs,2006,2
+METR,200 M Individual Medley,SCM,W,40-44,2:41.91,Janet Harris,,Gay Games at Chicago,2006,1
+BDGR,200 M Individual Medley,SCM,W,40-44,2:44.14,Cheryl A Kupan,,New England SCM Champs,2006,2
+BDGR,400 M Individual Medley,SCM,W,40-44,5:50.52,Cheryl A Kupan,,New England SCM Champs,2006,1
+METR,50 M Freestyle,SCM,W,45-49,37.71,Karen L Limonius,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,200 M Freestyle,SCM,W,45-49,2:34.57,Abigail Falk,,New England SCM Champs,2006,1
+METR,200 M Freestyle,SCM,W,45-49,3:16.87,Sharon M Snyder,,New England SCM Champs,2006,2
+NYCH,400 M Freestyle,SCM,W,45-49,5:20.57,Abigail Falk,,New England SCM Champs,2006,1
+METR,400 M Freestyle,SCM,W,45-49,5:31.57,Eileen Fagan,,Gay Games at Chicago,2006,2
+NYCH,800 M Freestyle,SCM,W,45-49,10:54.44,Abigail Falk,,New England SCM Champs,2006,1
+METR,800 M Freestyle,SCM,W,45-49,14:54.96,Miriam S Tuliao,,Gay Games at Chicago,2006,2
+METR,200 M Backstroke,SCM,W,45-49,3:00.24,Eileen Fagan,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,W,45-49,48.22,Karen L Limonius,,Colonies Zone and NJ SCM Champs,2006,1
+METR,100 M Breaststroke,SCM,W,45-49,1:54.43,Karen L Limonius,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,200 M Breaststroke,SCM,W,45-49,3:06.64,Abigail Falk,,New England SCM Champs,2006,1
+METR,200 M Breaststroke,SCM,W,45-49,3:19.55,Eileen Fagan,,Gay Games at Chicago,2006,2
+METR,100 M Butterfly,SCM,W,45-49,1:20.58,Eileen Fagan,,Gay Games at Chicago,2006,1
+METR,100 M Butterfly,SCM,W,45-49,1:42.65,Sharon M Snyder,,New England SCM Champs,2006,2
+NYCH,200 M Butterfly,SCM,W,45-49,3:09.46,Abigail Falk,,New England SCM Champs,2006,1
+METR,200 M Butterfly,SCM,W,45-49,3:54.89,Sharon M Snyder,,New England SCM Champs,2006,2
+NYCH,200 M Individual Medley,SCM,W,45-49,2:50.23,Abigail Falk,,New England SCM Champs,2006,1
+METR,400 M Individual Medley,SCM,W,45-49,6:07.26,Eileen Fagan,,Gay Games at Chicago,2006,1
+NYCH,400 M Individual Medley,SCM,W,45-49,6:07.37,Abigail Falk,,New England SCM Champs,2006,2
+WM,50 M Freestyle,SCM,W,50-54,35.12,Nancy J Surdoval,,Huntsman World Senior Games,2006,1
+DUTC,50 M Freestyle,SCM,W,50-54,50.64,Elizabeth C Spira,,New England SCM Champs,2006,2
+WM,100 M Freestyle,SCM,W,50-54,1:17.01,Nancy J Surdoval,,Huntsman World Senior Games,2006,1
+UNAT,100 M Freestyle,SCM,W,50-54,1:42.02,Celeste A Jakubek,,Colonies Zone and NJ SCM Champs,2006,2
+DUTC,100 M Freestyle,SCM,W,50-54,1:55.87,Elizabeth C Spira,,New England SCM Champs,2006,3
+DUTC,200 M Freestyle,SCM,W,50-54,2:45.99,Kathleen A Davis,,New England SCM Champs,2006,1
+WM,200 M Freestyle,SCM,W,50-54,2:53.22,Nancy J Surdoval,,Colonies Zone and NJ SCM Champs,2006,2
+UNAT,200 M Freestyle,SCM,W,50-54,3:44.48,Celeste A Jakubek,,Colonies Zone and NJ SCM Champs,2006,3
+DUTC,800 M Freestyle,SCM,W,50-54,12:22.45,Kathleen A Davis,,New England SCM Champs,2006,1
+WM,50 M Backstroke,SCM,W,50-54,38.97,Nancy J Surdoval,,Huntsman World Senior Games,2006,1
+DUTC,50 M Backstroke,SCM,W,50-54,1:01.18,Elizabeth C Spira,,New England SCM Champs,2006,2
+WM,100 M Backstroke,SCM,W,50-54,1:36.86,Nancy J Surdoval,,Huntsman World Senior Games,2006,1
+WM,200 M Backstroke,SCM,W,50-54,3:17.40,Nancy J Surdoval,,Huntsman World Senior Games,2006,1
+DUTC,50 M Breaststroke,SCM,W,50-54,1:16.88,Elizabeth C Spira,,New England SCM Champs,2006,1
+DUTC,100 M Breaststroke,SCM,W,50-54,2:49.32,Elizabeth C Spira,,New England SCM Champs,2006,1
+DUTC,50 M Butterfly,SCM,W,50-54,37.59,Kathleen A Davis,,New England SCM Champs,2006,1
+DUTC,100 M Butterfly,SCM,W,50-54,1:25.72,Kathleen A Davis,,New England SCM Champs,2006,1
+DUTC,200 M Butterfly,SCM,W,50-54,3:22.51,Kathleen A Davis,,New England SCM Champs,2006,1
+DUTC,100 M Individual Medley,SCM,W,50-54,1:25.53,Kathleen A Davis,,New England SCM Champs,2006,1
+WM,100 M Individual Medley,SCM,W,50-54,1:28.25,Nancy J Surdoval,,Huntsman World Senior Games,2006,2
+DUTC,200 M Individual Medley,SCM,W,50-54,3:02.54,Kathleen A Davis,,New England SCM Champs,2006,1
+WM,200 M Individual Medley,SCM,W,50-54,3:18.26,Nancy J Surdoval,,Huntsman World Senior Games,2006,2
+DUTC,400 M Individual Medley,SCM,W,50-54,6:44.07,Kathleen A Davis,,New England SCM Champs,2006,1
+UNAT,50 M Freestyle,SCM,W,55-59,57.16,Susan Fabiano,,Huntsman World Senior Games,2006,1
+UNAT,100 M Freestyle,SCM,W,55-59,2:08.80,Susan Fabiano,,Huntsman World Senior Games,2006,1
+NYCH,200 M Freestyle,SCM,W,55-59,2:59.08,Phyllis D Springer,,New England SCM Champs,2006,1
+METR,200 M Freestyle,SCM,W,55-59,3:14.97,Marie H Vellucci,,Colonies Zone and NJ SCM Champs,2006,2
+NYCH,400 M Freestyle,SCM,W,55-59,6:15.54,Phyllis D Springer,,New England SCM Champs,2006,1
+METR,400 M Freestyle,SCM,W,55-59,6:38.54,Marie H Vellucci,,Colonies Zone and NJ SCM Champs,2006,2
+NYCH,800 M Freestyle,SCM,W,55-59,12:42.38,Phyllis D Springer,,New England SCM Champs,2006,1
+UNAT,50 M Backstroke,SCM,W,55-59,1:14.63,Susan Fabiano,,Huntsman World Senior Games,2006,1
+NYCH,100 M Backstroke,SCM,W,55-59,1:40.75,Phyllis D Springer,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,200 M Backstroke,SCM,W,55-59,3:31.45,Phyllis D Springer,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,W,55-59,50.98,Marie H Vellucci,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Breaststroke,SCM,W,55-59,3:55.33,Marie H Vellucci,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,50 M Butterfly,SCM,W,55-59,48.35,Phyllis D Springer,,New England SCM Champs,2006,1
+METR,200 M Butterfly,SCM,W,55-59,3:55.18,Marie H Vellucci,,Colonies Zone and NJ SCM Champs,2006,1
+METR,400 M Individual Medley,SCM,W,55-59,7:35.20,Marie H Vellucci,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Freestyle,SCM,W,60-64,3:08.75,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+DUTC,200 M Freestyle,SCM,W,60-64,3:51.10,Janice Williams,,New England SCM Champs,2006,2
+METR,400 M Freestyle,SCM,W,60-64,6:29.28,Jane Katz,,Huntsman World Senior Games,2006,1
+DUTC,400 M Freestyle,SCM,W,60-64,8:00.96,Janice Williams,,New England SCM Champs,2006,2
+METR,800 M Freestyle,SCM,W,60-64,14:44.60,Kathleen Romano,,Gay Games at Chicago,2006,1
+DUTC,800 M Freestyle,SCM,W,60-64,16:04.15,Janice Williams,,New England SCM Champs,2006,2
+METR,1500 M Freestyle,SCM,W,60-64,25:35.63,Jane Katz,,Huntsman World Senior Games,2006,1
+DUTC,50 M Backstroke,SCM,W,60-64,57.57,Janice Williams,,New England SCM Champs,2006,1
+METR,100 M Backstroke,SCM,W,60-64,1:38.78,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+METR,100 M Backstroke,SCM,W,60-64,1:41.57,Jane Katz,,Huntsman World Senior Games,2006,2
+DUTC,100 M Backstroke,SCM,W,60-64,2:09.97,Janice Williams,,New England SCM Champs,2006,3
+DUTC,200 M Backstroke,SCM,W,60-64,4:27.32,Janice Williams,,New England SCM Champs,2006,1
+DUTC,50 M Breaststroke,SCM,W,60-64,1:02.63,Janice Williams,,New England SCM Champs,2006,1
+METR,100 M Breaststroke,SCM,W,60-64,1:51.56,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+DUTC,100 M Breaststroke,SCM,W,60-64,2:12.75,Janice Williams,,New England SCM Champs,2006,2
+METR,200 M Breaststroke,SCM,W,60-64,3:53.65,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+DUTC,200 M Breaststroke,SCM,W,60-64,4:44.63,Janice Williams,,New England SCM Champs,2006,2
+METR,200 M Butterfly,SCM,W,60-64,4:14.88,Jane Katz,,Huntsman World Senior Games,2006,1
+METR,100 M Individual Medley,SCM,W,60-64,1:36.90,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+DUTC,100 M Individual Medley,SCM,W,60-64,2:02.69,Janice Williams,,New England SCM Champs,2006,2
+METR,200 M Individual Medley,SCM,W,60-64,3:29.25,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Individual Medley,SCM,W,60-64,3:49.42,Jane Katz,,Huntsman World Senior Games,2006,2
+METR,200 M Individual Medley,SCM,W,60-64,4:00.52,Kathleen Romano,,Gay Games at Chicago,2006,3
+METR,400 M Individual Medley,SCM,W,60-64,7:18.22,Sue Lecarreaux,,Colonies Zone and NJ SCM Champs,2006,1
+METR,400 M Individual Medley,SCM,W,60-64,7:43.62,Jane Katz,,Huntsman World Senior Games,2006,2
+METR,50 M Freestyle,SCM,W,65-69,47.47,Nancy James,,New England SCM Champs,2006,1
+METR,50 M Freestyle,SCM,W,65-69,48.33,Helen R Lemay,,Gay Games at Chicago,2006,2
+METR,100 M Freestyle,SCM,W,65-69,1:43.89,Nancy James,,New England SCM Champs,2006,1
+METR,100 M Freestyle,SCM,W,65-69,1:52.68,Helen R Lemay,,Gay Games at Chicago,2006,2
+METR,50 M Breaststroke,SCM,W,65-69,51.70,Nancy James,,New England SCM Champs,2006,1
+METR,100 M Breaststroke,SCM,W,65-69,1:53.46,Nancy James,,New England SCM Champs,2006,1
+METR,200 M Breaststroke,SCM,W,65-69,4:09.05,Nancy James,,New England SCM Champs,2006,1
+METR,50 M Freestyle,SCM,W,70-74,1:05.10,Jane M Smith,,New England SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,W,70-74,1:17.28,Jane M Smith,,New England SCM Champs,2006,1
+METR,100 M Breaststroke,SCM,W,70-74,3:00.76,Jane M Smith,,New England SCM Champs,2006,1
+METR,200 M Breaststroke,SCM,W,70-74,6:07.97,Jane M Smith,,New England SCM Champs,2006,1
+NYCH,50 M Freestyle,SCM,M,18-24,25.47,Daniel S Williams,,New England SCM Champs,2006,1
+METR,50 M Freestyle,SCM,M,18-24,26.61,Stefan Bill,,Gay Games at Chicago,2006,2
+NYCH,100 M Freestyle,SCM,M,18-24,57.52,Daniel S Williams,,New England SCM Champs,2006,1
+METR,100 M Freestyle,SCM,M,18-24,57.68,Ian D White,,LANES Tea Party Two,2006,2
+METR,100 M Freestyle,SCM,M,18-24,58.87,Stefan Bill,,Gay Games at Chicago,2006,3
+METR,100 M Freestyle,SCM,M,18-24,1:04.01,David Spires,,Gay Games at Chicago,2006,4
+NYCH,200 M Freestyle,SCM,M,18-24,2:03.67,Elliot J Ptasnik,,New England SCM Champs,2006,1
+METR,200 M Freestyle,SCM,M,18-24,2:04.65,Ian D White,,Gay Games at Chicago,2006,2
+NYCH,200 M Freestyle,SCM,M,18-24,2:04.73,Daniel S Williams,,New England SCM Champs,2006,3
+METR,200 M Freestyle,SCM,M,18-24,2:11.15,Stefan Bill,,Gay Games at Chicago,2006,4
+METR,400 M Freestyle,SCM,M,18-24,4:24.34,Ian D White,,Gay Games at Chicago,2006,1
+NYCH,400 M Freestyle,SCM,M,18-24,4:36.77,Daniel S Williams,,New England SCM Champs,2006,2
+METR,800 M Freestyle,SCM,M,18-24,9:26.13,Ian D White,,Gay Games at Chicago,2006,1
+METR,800 M Freestyle,SCM,M,18-24,10:03.80,David Spires,,Gay Games at Chicago,2006,2
+NYCH,50 M Breaststroke,SCM,M,18-24,29.88,Elliot J Ptasnik,,New England SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,M,18-24,43.42,David Spires,,Gay Games at Chicago,2006,2
+NYCH,100 M Breaststroke,SCM,M,18-24,1:05.38,Elliot J Ptasnik,,New England SCM Champs,2006,1
+NYCH,200 M Breaststroke,SCM,M,18-24,2:24.13,Elliot J Ptasnik,,New England SCM Champs,2006,1
+NYCH,50 M Butterfly,SCM,M,18-24,27.95,Daniel S Williams,,New England SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,M,18-24,59.73,Elliot J Ptasnik,,New England SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,M,18-24,1:02.46,Daniel S Williams,,New England SCM Champs,2006,2
+METR,200 M Butterfly,SCM,M,18-24,2:37.85,David Spires,,Gay Games at Chicago,2006,1
+NYCH,100 M Individual Medley,SCM,M,18-24,1:00.88,Elliot J Ptasnik,,New England SCM Champs,2006,1
+METR,100 M Individual Medley,SCM,M,18-24,1:06.99,Ian D White,,Gay Games at Chicago,2006,2
+METR,200 M Individual Medley,SCM,M,18-24,2:40.15,David Spires,,Gay Games at Chicago,2006,1
+METR,400 M Individual Medley,SCM,M,18-24,5:21.21,Stefan Bill,,Gay Games at Chicago,2006,1
+METR,50 M Freestyle,SCM,M,25-29,25.24,Bradley E Matthews,,Gay Games at Chicago,2006,1
+NYCH,50 M Freestyle,SCM,M,25-29,25.80,Matthew T Baker,,New England SCM Champs,2006,2
+NYCH,50 M Freestyle,SCM,M,25-29,26.24,Shi Nisman,,Colonies Zone and NJ SCM Champs,2006,3
+METR,50 M Freestyle,SCM,M,25-29,27.37,Peter G Isgrigg,,LANES Tea Party Two,2006,4
+NYCH,50 M Freestyle,SCM,M,25-29,30.83,Joel Abreu,,New England SCM Champs,2006,5
+NYCH,50 M Freestyle,SCM,M,25-29,32.11,Joel Garcia,,Colonies Zone and NJ SCM Champs,2006,6
+NYCH,50 M Freestyle,SCM,M,25-29,37.41,Yufeng D Li,,New England SCM Champs,2006,7
+METR,100 M Freestyle,SCM,M,25-29,57.40,Bradley E Matthews,,Gay Games at Chicago,2006,1
+NYCH,100 M Freestyle,SCM,M,25-29,57.47,Matthew T Baker,,New England SCM Champs,2006,2
+METR,100 M Freestyle,SCM,M,25-29,57.84,Peter G Isgrigg,,Gay Games at Chicago,2006,3
+METR,100 M Freestyle,SCM,M,25-29,1:02.43,Ethan Z Bedell,,Gay Games at Chicago,2006,4
+METR,100 M Freestyle,SCM,M,25-29,1:11.09,Satoshi Nakamoto,,Gay Games at Chicago,2006,5
+NYCH,100 M Freestyle,SCM,M,25-29,1:13.36,Joel Abreu,,New England SCM Champs,2006,6
+NYCH,100 M Freestyle,SCM,M,25-29,1:22.25,Yufeng D Li,,New England SCM Champs,2006,7
+METR,200 M Freestyle,SCM,M,25-29,2:18.19,Ethan Z Bedell,,Gay Games at Chicago,2006,1
+NYCH,200 M Freestyle,SCM,M,25-29,3:09.07,Yufeng D Li,,New England SCM Champs,2006,2
+METR,400 M Freestyle,SCM,M,25-29,4:56.48,Rodney L Hameroff,,Gay Games at Chicago,2006,1
+NYCH,400 M Freestyle,SCM,M,25-29,5:03.25,Shi Nisman,,Colonies Zone and NJ SCM Champs,2006,2
+METR,800 M Freestyle,SCM,M,25-29,9:32.36,David Denrich,,Gay Games at Chicago,2006,1
+NYCH,50 M Backstroke,SCM,M,25-29,30.60,Matthew T Baker,,New England SCM Champs,2006,1
+NYCH,50 M Backstroke,SCM,M,25-29,38.20,Joel Abreu,,New England SCM Champs,2006,2
+NYCH,100 M Backstroke,SCM,M,25-29,1:10.33,Matthew T Baker,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,M,25-29,33.04,Rodney L Hameroff,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,25-29,33.06,Bradley E Matthews,,Gay Games at Chicago,2006,2
+METR,50 M Breaststroke,SCM,M,25-29,34.41,Peter G Isgrigg,,LANES Tea Party Two,2006,3
+NYCH,50 M Breaststroke,SCM,M,25-29,37.58,Joel Abreu,,New England SCM Champs,2006,4
+METR,50 M Breaststroke,SCM,M,25-29,39.51,Satoshi Nakamoto,,Gay Games at Chicago,2006,5
+METR,100 M Breaststroke,SCM,M,25-29,1:11.46,Peter G Isgrigg,,Gay Games at Chicago,2006,1
+METR,100 M Breaststroke,SCM,M,25-29,1:13.96,Bradley E Matthews,,Gay Games at Chicago,2006,2
+METR,200 M Breaststroke,SCM,M,25-29,2:37.35,Peter G Isgrigg,,Gay Games at Chicago,2006,1
+NYCH,50 M Butterfly,SCM,M,25-29,33.29,Joel Abreu,,New England SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,M,25-29,1:07.84,Shi Nisman,,Colonies Zone and NJ SCM Champs,2006,1
+METR,100 M Butterfly,SCM,M,25-29,1:08.88,Ethan Z Bedell,,Gay Games at Chicago,2006,2
+METR,200 M Butterfly,SCM,M,25-29,2:26.51,David Denrich,,Gay Games at Chicago,2006,1
+NYCH,100 M Individual Medley,SCM,M,25-29,1:09.50,Matthew T Baker,,New England SCM Champs,2006,1
+METR,100 M Individual Medley,SCM,M,25-29,1:09.85,Bradley E Matthews,,Gay Games at Chicago,2006,2
+NYCH,100 M Individual Medley,SCM,M,25-29,1:20.06,Joel Abreu,,New England SCM Champs,2006,3
+METR,200 M Individual Medley,SCM,M,25-29,2:25.44,David Denrich,,Gay Games at Chicago,2006,1
+METR,200 M Individual Medley,SCM,M,25-29,2:30.66,Rodney L Hameroff,,Gay Games at Chicago,2006,2
+METR,200 M Individual Medley,SCM,M,25-29,2:41.09,Ethan Z Bedell,,Gay Games at Chicago,2006,3
+DUTC,50 M Freestyle,SCM,M,30-34,25.55,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,50 M Freestyle,SCM,M,30-34,34.66,Nadeem Ghali,,Gay Games at Chicago,2006,2
+DUTC,100 M Freestyle,SCM,M,30-34,57.16,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,100 M Freestyle,SCM,M,30-34,1:02.45,Steve Milankov,,Gay Games at Chicago,2006,2
+REDT,100 M Freestyle,SCM,M,30-34,1:07.42,Eldar Beiseitov,,Gay Games at Chicago,2006,3
+METR,100 M Freestyle,SCM,M,30-34,1:12.63,Eugene Skorodinsky,,LANES Tea Party Two,2006,4
+METR,100 M Freestyle,SCM,M,30-34,1:15.99,Nadeem Ghali,,Gay Games at Chicago,2006,5
+DUTC,200 M Freestyle,SCM,M,30-34,2:04.07,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,200 M Freestyle,SCM,M,30-34,2:31.79,Onesimo C Demira,,LANES Tea Party Two,2006,2
+NYCH,400 M Freestyle,SCM,M,30-34,4:53.85,Thomas M Malone,,New England SCM Champs,2006,1
+METR,400 M Freestyle,SCM,M,30-34,5:01.91,Onesimo C DE Mira,,Gay Games at Chicago,2006,2
+METR,400 M Freestyle,SCM,M,30-34,5:12.53,Steve Milankov,,Gay Games at Chicago,2006,3
+DUTC,800 M Freestyle,SCM,M,30-34,9:51.62,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,800 M Freestyle,SCM,M,30-34,10:41.91,Onesimo C DE Mira,,Gay Games at Chicago,2006,2
+METR,800 M Freestyle,SCM,M,30-34,11:00.64,Steve Milankov,,Gay Games at Chicago,2006,3
+METR,800 M Freestyle,SCM,M,30-34,11:20.18,Eugene Skorodinsky,,Gay Games at Chicago,2006,4
+METR,1500 M Freestyle,SCM,M,30-34,20:32.62,Onesimo C DE Mira,,Gay Games at Chicago,2006,1
+DUTC,50 M Backstroke,SCM,M,30-34,29.46,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,50 M Backstroke,SCM,M,30-34,35.43,Onesimo C Demira,,LANES Tea Party Two,2006,2
+METR,50 M Backstroke,SCM,M,30-34,41.07,Eugene Skorodinsky,,LANES Tea Party Two,2006,3
+METR,50 M Backstroke,SCM,M,30-34,45.74,Nadeem Ghali,,LANES Tea Party Two,2006,4
+DUTC,100 M Backstroke,SCM,M,30-34,1:04.24,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,100 M Backstroke,SCM,M,30-34,1:12.67,Darrick K Uccellini,,LANES Tea Party Two,2006,2
+METR,100 M Backstroke,SCM,M,30-34,1:16.70,Onesimo C DE Mira,,Gay Games at Chicago,2006,3
+METR,100 M Backstroke,SCM,M,30-34,1:24.63,Eugene Skorodinsky,,Gay Games at Chicago,2006,4
+METR,100 M Backstroke,SCM,M,30-34,1:36.99,Nadeem Ghali,,LANES Tea Party Two,2006,5
+DUTC,200 M Backstroke,SCM,M,30-34,2:19.74,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,M,30-34,31.07,Scott Campea,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,30-34,35.64,Matthew R Francis,,Gay Games at Chicago,2006,2
+NYCH,50 M Breaststroke,SCM,M,30-34,38.15,Thomas M Malone,,New England SCM Champs,2006,3
+REDT,50 M Breaststroke,SCM,M,30-34,40.34,Eldar Beiseitov,,Gay Games at Chicago,2006,4
+METR,100 M Breaststroke,SCM,M,30-34,1:07.15,Scott Campea,,Gay Games at Chicago,2006,1
+METR,100 M Breaststroke,SCM,M,30-34,1:22.58,Matthew R Francis,,Gay Games at Chicago,2006,2
+METR,100 M Breaststroke,SCM,M,30-34,1:27.37,Ivaylo V Linev,,LANES Tea Party Two,2006,3
+METR,200 M Breaststroke,SCM,M,30-34,2:27.07,Scott Campea,,Gay Games at Chicago,2006,1
+METR,200 M Breaststroke,SCM,M,30-34,3:04.84,Matthew R Francis,,Gay Games at Chicago,2006,2
+DUTC,50 M Butterfly,SCM,M,30-34,28.18,Jonathan D Churins,,New England SCM Champs,2006,1
+NYCH,50 M Butterfly,SCM,M,30-34,30.30,Thomas M Malone,,New England SCM Champs,2006,2
+DUTC,100 M Butterfly,SCM,M,30-34,1:03.36,Jonathan D Churins,,New England SCM Champs,2006,1
+NYCH,100 M Butterfly,SCM,M,30-34,1:11.30,Thomas M Malone,,New England SCM Champs,2006,2
+METR,100 M Butterfly,SCM,M,30-34,1:12.40,Eugene Skorodinsky,,Gay Games at Chicago,2006,3
+METR,100 M Butterfly,SCM,M,30-34,1:14.35,Onesimo C Demira,,LANES Tea Party Two,2006,4
+METR,200 M Butterfly,SCM,M,30-34,2:38.82,Onesimo C DE Mira,,Gay Games at Chicago,2006,1
+DUTC,100 M Individual Medley,SCM,M,30-34,1:03.17,Jonathan D Churins,,New England SCM Champs,2006,1
+METR,100 M Individual Medley,SCM,M,30-34,1:03.59,Scott Campea,,Gay Games at Chicago,2006,2
+NYCH,100 M Individual Medley,SCM,M,30-34,1:11.25,Thomas M Malone,,New England SCM Champs,2006,3
+METR,100 M Individual Medley,SCM,M,30-34,1:13.06,Darrick K Uccellini,,LANES Tea Party Two,2006,4
+METR,100 M Individual Medley,SCM,M,30-34,1:21.57,Matthew R Francis,,Gay Games at Chicago,2006,5
+METR,100 M Individual Medley,SCM,M,30-34,1:42.10,Ivaylo V Linev,,LANES Tea Party Two,2006,6
+METR,200 M Individual Medley,SCM,M,30-34,2:16.36,Scott Campea,,Gay Games at Chicago,2006,1
+DUTC,200 M Individual Medley,SCM,M,30-34,2:20.49,Jonathan D Churins,,New England SCM Champs,2006,2
+NYCH,200 M Individual Medley,SCM,M,30-34,2:36.39,Thomas M Malone,,New England SCM Champs,2006,3
+METR,200 M Individual Medley,SCM,M,30-34,2:44.23,Onesimo C Demira,,LANES Tea Party Two,2006,4
+METR,200 M Individual Medley,SCM,M,30-34,2:56.77,Eugene Skorodinsky,,LANES Tea Party Two,2006,5
+METR,200 M Individual Medley,SCM,M,30-34,3:02.38,Peter J McGrane,,Gay Games at Chicago,2006,6
+METR,50 M Freestyle,SCM,M,35-39,26.78,RJ Hermanet,,LANES Tea Party Two,2006,1
+METR,50 M Freestyle,SCM,M,35-39,30.14,Fabio Maciel,,LANES Tea Party Two,2006,2
+METR,50 M Freestyle,SCM,M,35-39,30.82,John R Napoli,,Gay Games at Chicago,2006,3
+METR,50 M Freestyle,SCM,M,35-39,31.83,Randall A Chamberlain,,Gay Games at Chicago,2006,4
+METR,50 M Freestyle,SCM,M,35-39,36.31,Swann A Smith,,Gay Games at Chicago,2006,5
+METR,100 M Freestyle,SCM,M,35-39,57.54,RJ Hermanet,,LANES Tea Party Two,2006,1
+WM,100 M Freestyle,SCM,M,35-39,59.96,Hagen Wenzek,,Colonies Zone and NJ SCM Champs,2006,2
+METR,100 M Freestyle,SCM,M,35-39,1:04.28,Federico J Chiesa,,Gay Games at Chicago,2006,3
+METR,100 M Freestyle,SCM,M,35-39,1:09.16,Fabio Maciel,,LANES Tea Party Two,2006,4
+METR,100 M Freestyle,SCM,M,35-39,1:09.87,John R Napoli,,Gay Games at Chicago,2006,5
+METR,100 M Freestyle,SCM,M,35-39,1:11.54,Wilfredo Arredondo,,Gay Games at Chicago,2006,6
+METR,100 M Freestyle,SCM,M,35-39,1:21.47,William R Carr,,Gay Games at Chicago,2006,7
+METR,100 M Freestyle,SCM,M,35-39,1:23.04,Swann A Smith,,Gay Games at Chicago,2006,8
+METR,200 M Freestyle,SCM,M,35-39,2:04.98,RJ Hermanet,,Gay Games at Chicago,2006,1
+METR,200 M Freestyle,SCM,M,35-39,2:12.77,Dan A Guerrera,,Gay Games at Chicago,2006,2
+WM,200 M Freestyle,SCM,M,35-39,2:18.91,Hagen Wenzek,,Colonies Zone and NJ SCM Champs,2006,3
+METR,200 M Freestyle,SCM,M,35-39,2:37.49,Randall A Chamberlain,,Gay Games at Chicago,2006,4
+METR,400 M Freestyle,SCM,M,35-39,4:47.73,Jack MACKENROTH,,Gay Games at Chicago,2006,1
+METR,800 M Freestyle,SCM,M,35-39,11:02.59,Andrew E Willett,,Gay Games at Chicago,2006,1
+METR,800 M Freestyle,SCM,M,35-39,13:32.63,William R Carr,,Gay Games at Chicago,2006,2
+METR,1500 M Freestyle,SCM,M,35-39,22:57.83,Brian J Geraghty,,Colonies Zone and NJ SCM Champs,2006,1
+WM,50 M Backstroke,SCM,M,35-39,33.15,Hagen Wenzek,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Backstroke,SCM,M,35-39,37.32,Fabio Maciel,,LANES Tea Party Two,2006,2
+METR,50 M Backstroke,SCM,M,35-39,44.93,Swann A Smith,,Gay Games at Chicago,2006,3
+METR,100 M Backstroke,SCM,M,35-39,1:42.53,Swann A Smith,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,35-39,32.32,Jack MACKENROTH,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,35-39,36.93,Wilfredo Arredondo,,Gay Games at Chicago,2006,2
+METR,50 M Breaststroke,SCM,M,35-39,41.19,Fabio MACIEL,,Gay Games at Chicago,2006,3
+METR,50 M Breaststroke,SCM,M,35-39,41.26,John R Napoli,,Gay Games at Chicago,2006,4
+METR,50 M Breaststroke,SCM,M,35-39,42.01,Eric Dolgins,,LANES Tea Party Two,2006,5
+METR,100 M Breaststroke,SCM,M,35-39,1:11.75,Jack MACKENROTH,,Gay Games at Chicago,2006,1
+METR,100 M Breaststroke,SCM,M,35-39,1:15.38,Dan A Guerrera,,Gay Games at Chicago,2006,2
+METR,100 M Breaststroke,SCM,M,35-39,1:21.32,Wilfredo Arredondo,,Gay Games at Chicago,2006,3
+METR,100 M Breaststroke,SCM,M,35-39,1:29.15,John R Napoli,,Gay Games at Chicago,2006,4
+METR,200 M Breaststroke,SCM,M,35-39,3:04.38,Wilfredo Arredondo,,Gay Games at Chicago,2006,1
+METR,200 M Breaststroke,SCM,M,35-39,3:22.64,John R Napoli,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,35-39,28.71,RJ Hermanet,,LANES Tea Party Two,2006,1
+METR,50 M Butterfly,SCM,M,35-39,31.07,Federico J Chiesa,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,35-39,33.45,Randall A Chamberlain,,Gay Games at Chicago,2006,3
+METR,50 M Butterfly,SCM,M,35-39,38.92,Eric Dolgins,,LANES Tea Party Two,2006,4
+METR,50 M Butterfly,SCM,M,35-39,41.84,Swann A Smith,,Gay Games at Chicago,2006,5
+METR,100 M Butterfly,SCM,M,35-39,1:02.70,RJ Hermanet,,Gay Games at Chicago,2006,1
+METR,200 M Butterfly,SCM,M,35-39,2:26.43,RJ Hermanet,,Gay Games at Chicago,2006,1
+METR,200 M Butterfly,SCM,M,35-39,3:18.47,Randall A Chamberlain,,Gay Games at Chicago,2006,2
+METR,100 M Individual Medley,SCM,M,35-39,1:14.43,Andrew E Willett,,Gay Games at Chicago,2006,1
+METR,100 M Individual Medley,SCM,M,35-39,1:15.88,Federico J Chiesa,,Gay Games at Chicago,2006,2
+METR,100 M Individual Medley,SCM,M,35-39,1:21.76,Fabio Maciel,,LANES Tea Party Two,2006,3
+METR,100 M Individual Medley,SCM,M,35-39,1:28.12,Eric Dolgins,,LANES Tea Party Two,2006,4
+METR,100 M Individual Medley,SCM,M,35-39,1:32.05,William R Carr,,Gay Games at Chicago,2006,5
+METR,200 M Individual Medley,SCM,M,35-39,2:22.06,RJ Hermanet,,Gay Games at Chicago,2006,1
+METR,200 M Individual Medley,SCM,M,35-39,2:28.49,Jack MACKENROTH,,Gay Games at Chicago,2006,2
+METR,200 M Individual Medley,SCM,M,35-39,2:46.25,Andrew E Willett,,Gay Games at Chicago,2006,3
+METR,200 M Individual Medley,SCM,M,35-39,3:00.04,Randall A Chamberlain,,Gay Games at Chicago,2006,4
+METR,200 M Individual Medley,SCM,M,35-39,3:00.36,Wilfredo Arredondo,,Gay Games at Chicago,2006,5
+METR,200 M Individual Medley,SCM,M,35-39,3:22.03,Eric Dolgins,,LANES Tea Party Two,2006,6
+METR,200 M Individual Medley,SCM,M,35-39,3:26.44,William R Carr,,Gay Games at Chicago,2006,7
+METR,400 M Individual Medley,SCM,M,35-39,5:01.48,RJ Hermanet,,Gay Games at Chicago,2006,1
+METR,400 M Individual Medley,SCM,M,35-39,7:14.31,William R Carr,,Gay Games at Chicago,2006,2
+METR,50 M Freestyle,SCM,M,40-44,25.69,Todd D Cooper,,Gay Games at Chicago,2006,1
+WM,50 M Freestyle,SCM,M,40-44,27.90,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,2
+METR,50 M Freestyle,SCM,M,40-44,27.95,Scott D Hirose,,LANES Tea Party Two,2006,3
+METR,50 M Freestyle,SCM,M,40-44,29.54,Rob Ripp,,Gay Games at Chicago,2006,4
+NYCH,50 M Freestyle,SCM,M,40-44,29.90,Bruce A Cadenhead,,New England SCM Champs,2006,5
+METR,50 M Freestyle,SCM,M,40-44,30.04,Kozo Suzuki,,LANES Tea Party Two,2006,6
+METR,50 M Freestyle,SCM,M,40-44,30.16,John P Esser,,Colonies Zone and NJ SCM Champs,2006,7
+NYCH,50 M Freestyle,SCM,M,40-44,30.20,Thomas A Gillespie,,New England SCM Champs,2006,8
+DUTC,50 M Freestyle,SCM,M,40-44,31.69,Jondavid Klipp,,New England SCM Champs,2006,9
+METR,50 M Freestyle,SCM,M,40-44,32.44,Philip D Hess,,LANES Tea Party Two,2006,10
+METR,50 M Freestyle,SCM,M,40-44,33.65,Yves G Greatti,,Gay Games at Chicago,2006,11
+METR,50 M Freestyle,SCM,M,40-44,35.51,Kent M Lau,,Gay Games at Chicago,2006,12
+METR,50 M Freestyle,SCM,M,40-44,36.88,Scott Guthridge,,Gay Games at Chicago,2006,13
+METR,100 M Freestyle,SCM,M,40-44,58.71,Todd D Cooper,,Gay Games at Chicago,2006,1
+WM,100 M Freestyle,SCM,M,40-44,1:01.08,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,2
+DUTC,100 M Freestyle,SCM,M,40-44,1:03.43,Scott G Woolley,,New England SCM Champs,2006,3
+METR,100 M Freestyle,SCM,M,40-44,1:04.45,Rob Ripp,,Gay Games at Chicago,2006,4
+METR,100 M Freestyle,SCM,M,40-44,1:04.92,Kozo Suzuki,,Gay Games at Chicago,2006,5
+NYCH,100 M Freestyle,SCM,M,40-44,1:07.68,Bruce A Cadenhead,,New England SCM Champs,2006,6
+NYCH,100 M Freestyle,SCM,M,40-44,1:10.13,Thomas A Gillespie,,New England SCM Champs,2006,7
+DUTC,100 M Freestyle,SCM,M,40-44,1:11.89,Jondavid Klipp,,New England SCM Champs,2006,8
+METR,100 M Freestyle,SCM,M,40-44,1:18.75,Yves G Greatti,,Gay Games at Chicago,2006,9
+DUTC,200 M Freestyle,SCM,M,40-44,2:21.09,Scott G Woolley,,New England SCM Champs,2006,1
+NYCH,200 M Freestyle,SCM,M,40-44,2:36.95,Bruce A Cadenhead,,New England SCM Champs,2006,2
+NYCH,200 M Freestyle,SCM,M,40-44,2:39.52,Thomas A Gillespie,,New England SCM Champs,2006,3
+DUTC,200 M Freestyle,SCM,M,40-44,2:42.60,Jondavid Klipp,,New England SCM Champs,2006,4
+METR,400 M Freestyle,SCM,M,40-44,4:38.21,Donald S Fraser,,Gay Games at Chicago,2006,1
+METR,400 M Freestyle,SCM,M,40-44,4:54.47,Mark E Larson,,Gay Games at Chicago,2006,2
+WM,400 M Freestyle,SCM,M,40-44,5:11.43,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,3
+METR,400 M Freestyle,SCM,M,40-44,5:12.08,Rob Ripp,,Gay Games at Chicago,2006,4
+NYCH,400 M Freestyle,SCM,M,40-44,5:18.07,Thomas A Gillespie,,New England SCM Champs,2006,5
+NYCH,400 M Freestyle,SCM,M,40-44,5:27.65,Bruce A Cadenhead,,New England SCM Champs,2006,6
+WM,800 M Freestyle,SCM,M,40-44,10:34.63,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,1
+METR,800 M Freestyle,SCM,M,40-44,10:37.82,Rob Ripp,,Gay Games at Chicago,2006,2
+NYCH,800 M Freestyle,SCM,M,40-44,11:21.52,Thomas A Gillespie,,New England SCM Champs,2006,3
+METR,800 M Freestyle,SCM,M,40-44,12:57.40,Mark A Schaffer,,Gay Games at Chicago,2006,4
+METR,1500 M Freestyle,SCM,M,40-44,20:36.59,Rob Ripp,,Gay Games at Chicago,2006,1
+DUTC,50 M Backstroke,SCM,M,40-44,33.86,Scott G Woolley,,New England SCM Champs,2006,1
+WM,50 M Backstroke,SCM,M,40-44,35.45,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,2
+DUTC,50 M Backstroke,SCM,M,40-44,38.29,Jondavid Klipp,,New England SCM Champs,2006,3
+METR,50 M Backstroke,SCM,M,40-44,42.36,Philip D Hess,,LANES Tea Party Two,2006,4
+METR,50 M Backstroke,SCM,M,40-44,50.07,Scott Guthridge,,Gay Games at Chicago,2006,5
+METR,100 M Backstroke,SCM,M,40-44,1:14.52,Scott D Hirose,,LANES Tea Party Two,2006,1
+METR,100 M Backstroke,SCM,M,40-44,1:16.16,James D McKibben,,Gay Games at Chicago,2006,2
+METR,200 M Backstroke,SCM,M,40-44,2:39.41,James D McKibben,,Gay Games at Chicago,2006,1
+NYCH,200 M Backstroke,SCM,M,40-44,2:55.69,Bruce A Cadenhead,,New England SCM Champs,2006,2
+NYCH,200 M Backstroke,SCM,M,40-44,3:04.93,Thomas A Gillespie,,New England SCM Champs,2006,3
+DUTC,200 M Backstroke,SCM,M,40-44,3:10.67,Jondavid Klipp,,New England SCM Champs,2006,4
+WM,50 M Breaststroke,SCM,M,40-44,35.57,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Breaststroke,SCM,M,40-44,42.33,Yves G Greatti,,Gay Games at Chicago,2006,2
+DUTC,50 M Breaststroke,SCM,M,40-44,42.87,Jondavid Klipp,,New England SCM Champs,2006,3
+METR,50 M Breaststroke,SCM,M,40-44,44.55,Kent M Lau,,Gay Games at Chicago,2006,4
+METR,50 M Breaststroke,SCM,M,40-44,50.28,Scott Guthridge,,Gay Games at Chicago,2006,5
+WM,100 M Breaststroke,SCM,M,40-44,1:17.56,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,1
+METR,100 M Breaststroke,SCM,M,40-44,1:19.16,Mark E Larson,,Gay Games at Chicago,2006,2
+METR,100 M Breaststroke,SCM,M,40-44,1:33.87,Yves G Greatti,,Gay Games at Chicago,2006,3
+METR,100 M Breaststroke,SCM,M,40-44,1:36.32,Kent M Lau,,Gay Games at Chicago,2006,4
+METR,200 M Breaststroke,SCM,M,40-44,2:54.97,Mark E Larson,,Gay Games at Chicago,2006,1
+METR,200 M Breaststroke,SCM,M,40-44,3:51.60,Kent M Lau,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,40-44,27.35,Todd D Cooper,,Gay Games at Chicago,2006,1
+METR,50 M Butterfly,SCM,M,40-44,29.52,John P O'Donnell,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,40-44,29.92,Donald S Fraser,,Gay Games at Chicago,2006,3
+WM,50 M Butterfly,SCM,M,40-44,30.23,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,4
+METR,50 M Butterfly,SCM,M,40-44,32.03,Kozo Suzuki,,Gay Games at Chicago,2006,5
+DUTC,50 M Butterfly,SCM,M,40-44,38.35,Jondavid Klipp,,New England SCM Champs,2006,6
+METR,50 M Butterfly,SCM,M,40-44,42.73,Scott Guthridge,,Gay Games at Chicago,2006,7
+METR,100 M Butterfly,SCM,M,40-44,1:05.84,Donald S Fraser,,Gay Games at Chicago,2006,1
+METR,100 M Butterfly,SCM,M,40-44,1:06.46,John P O'Donnell,,Gay Games at Chicago,2006,2
+METR,100 M Butterfly,SCM,M,40-44,1:10.09,Mark E Larson,,Gay Games at Chicago,2006,3
+METR,100 M Butterfly,SCM,M,40-44,1:12.74,Kozo Suzuki,,Gay Games at Chicago,2006,4
+METR,200 M Butterfly,SCM,M,40-44,2:39.04,John P O'Donnell,,Gay Games at Chicago,2006,1
+NYCH,200 M Butterfly,SCM,M,40-44,3:12.89,Bruce A Cadenhead,,New England SCM Champs,2006,2
+METR,100 M Individual Medley,SCM,M,40-44,1:04.54,Todd D Cooper,,Gay Games at Chicago,2006,1
+WM,100 M Individual Medley,SCM,M,40-44,1:10.97,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,2
+METR,100 M Individual Medley,SCM,M,40-44,1:12.65,Scott D Hirose,,LANES Tea Party Two,2006,3
+METR,100 M Individual Medley,SCM,M,40-44,1:15.05,James D McKibben,,Gay Games at Chicago,2006,4
+METR,100 M Individual Medley,SCM,M,40-44,1:19.05,John P Esser,,Colonies Zone and NJ SCM Champs,2006,5
+METR,100 M Individual Medley,SCM,M,40-44,1:32.01,Philip D Hess,,LANES Tea Party Two,2006,6
+METR,200 M Individual Medley,SCM,M,40-44,2:33.40,Donald S Fraser,,Gay Games at Chicago,2006,1
+METR,200 M Individual Medley,SCM,M,40-44,2:36.77,John P O'Donnell,,Gay Games at Chicago,2006,2
+METR,200 M Individual Medley,SCM,M,40-44,2:37.42,Mark E Larson,,Gay Games at Chicago,2006,3
+METR,200 M Individual Medley,SCM,M,40-44,2:42.22,James D McKibben,,Gay Games at Chicago,2006,4
+METR,200 M Individual Medley,SCM,M,40-44,3:37.92,Scott Guthridge,,Gay Games at Chicago,2006,5
+WM,400 M Individual Medley,SCM,M,40-44,5:47.90,Daniel J Levy,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,400 M Individual Medley,SCM,M,40-44,6:08.69,Bruce A Cadenhead,,New England SCM Champs,2006,2
+METR,50 M Freestyle,SCM,M,45-49,30.00,Craig B McElroy,,LANES Tea Party Two,2006,1
+METR,50 M Freestyle,SCM,M,45-49,32.92,Mark S Basham,,LANES Tea Party Two,2006,2
+METR,100 M Freestyle,SCM,M,45-49,1:03.67,James M Massey,,Gay Games at Chicago,2006,1
+METR,100 M Freestyle,SCM,M,45-49,1:06.93,Craig B McElroy,,LANES Tea Party Two,2006,2
+METR,100 M Freestyle,SCM,M,45-49,1:12.25,Brian R Godshall,,Gay Games at Chicago,2006,3
+METR,100 M Freestyle,SCM,M,45-49,1:13.01,Mark S Basham,,Gay Games at Chicago,2006,4
+METR,100 M Freestyle,SCM,M,45-49,1:14.99,John R Quinn,,Gay Games at Chicago,2006,5
+METR,100 M Freestyle,SCM,M,45-49,1:15.14,Thomas G Gelinne,,Gay Games at Chicago,2006,6
+METR,100 M Freestyle,SCM,M,45-49,1:21.82,David C Lucas,,Gay Games at Chicago,2006,7
+METR,200 M Freestyle,SCM,M,45-49,2:34.37,Brian R Godshall,,Gay Games at Chicago,2006,1
+METR,200 M Freestyle,SCM,M,45-49,2:34.66,Craig B McElroy,,LANES Tea Party Two,2006,2
+METR,200 M Freestyle,SCM,M,45-49,2:46.40,Thomas G Gelinne,,Gay Games at Chicago,2006,3
+METR,400 M Freestyle,SCM,M,45-49,4:52.47,Keith J Devine,,Gay Games at Chicago,2006,1
+METR,400 M Freestyle,SCM,M,45-49,5:55.11,Thomas G Gelinne,,Gay Games at Chicago,2006,2
+METR,800 M Freestyle,SCM,M,45-49,10:01.90,Keith J Devine,,Gay Games at Chicago,2006,1
+METR,800 M Freestyle,SCM,M,45-49,10:19.01,Brad G Cole,,Gay Games at Chicago,2006,2
+METR,1500 M Freestyle,SCM,M,45-49,20:47.29,Wiley M Kidd,,Gay Games at Chicago,2006,1
+METR,100 M Backstroke,SCM,M,45-49,1:11.76,Brad G Cole,,Gay Games at Chicago,2006,1
+METR,100 M Backstroke,SCM,M,45-49,1:32.92,Thomas G Gelinne,,Gay Games at Chicago,2006,2
+METR,200 M Backstroke,SCM,M,45-49,2:39.02,Keith J Devine,,Gay Games at Chicago,2006,1
+METR,200 M Backstroke,SCM,M,45-49,3:15.94,Thomas G Gelinne,,Gay Games at Chicago,2006,2
+REDT,50 M Breaststroke,SCM,M,45-49,35.38,Edward W Wilson,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,45-49,37.56,James M Massey,,Gay Games at Chicago,2006,2
+METR,50 M Breaststroke,SCM,M,45-49,39.39,Mark S Basham,,Gay Games at Chicago,2006,3
+METR,50 M Breaststroke,SCM,M,45-49,46.46,David C Lucas,,Gay Games at Chicago,2006,4
+METR,100 M Breaststroke,SCM,M,45-49,1:28.19,Thomas O'Leary,,New England SCM Champs,2006,1
+METR,200 M Breaststroke,SCM,M,45-49,2:48.34,Chris F Packard,,Gay Games at Chicago,2006,1
+METR,200 M Breaststroke,SCM,M,45-49,3:04.37,Wiley M Kidd,,Gay Games at Chicago,2006,2
+REDT,50 M Butterfly,SCM,M,45-49,30.10,Edward W Wilson,,Gay Games at Chicago,2006,1
+METR,50 M Butterfly,SCM,M,45-49,36.44,John R Quinn,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,45-49,36.58,Craig B McElroy,,LANES Tea Party Two,2006,3
+METR,50 M Butterfly,SCM,M,45-49,41.41,David C Lucas,,Gay Games at Chicago,2006,4
+METR,50 M Butterfly,SCM,M,45-49,43.34,Mark S Basham,,LANES Tea Party Two,2006,5
+METR,100 M Butterfly,SCM,M,45-49,1:11.50,Chris F Packard,,Gay Games at Chicago,2006,1
+METR,200 M Butterfly,SCM,M,45-49,3:48.73,John R Quinn,,Gay Games at Chicago,2006,1
+METR,100 M Individual Medley,SCM,M,45-49,1:11.27,Chris F Packard,,Gay Games at Chicago,2006,1
+METR,100 M Individual Medley,SCM,M,45-49,1:18.07,Wiley M Kidd,,Gay Games at Chicago,2006,2
+METR,200 M Individual Medley,SCM,M,45-49,2:40.82,James M Massey,,Gay Games at Chicago,2006,1
+METR,200 M Individual Medley,SCM,M,45-49,2:47.49,Wiley M Kidd,,Gay Games at Chicago,2006,2
+METR,200 M Individual Medley,SCM,M,45-49,3:25.36,John R Quinn,,Gay Games at Chicago,2006,3
+METR,400 M Individual Medley,SCM,M,45-49,5:37.56,Brad G Cole,,Gay Games at Chicago,2006,1
+METR,400 M Individual Medley,SCM,M,45-49,5:59.21,Chris F Packard,,Gay Games at Chicago,2006,2
+METR,400 M Individual Medley,SCM,M,45-49,6:00.88,Wiley M Kidd,,Gay Games at Chicago,2006,3
+METR,50 M Freestyle,SCM,M,50-54,27.93,Charles A Carson,,Gay Games at Chicago,2006,1
+METR,50 M Freestyle,SCM,M,50-54,29.67,Michael F D'Amico,,Gay Games at Chicago,2006,2
+METR,50 M Freestyle,SCM,M,50-54,30.82,Buck Broker,,Gay Games at Chicago,2006,3
+METR,50 M Freestyle,SCM,M,50-54,35.39,Andrew L Taines,,Gay Games at Chicago,2006,4
+METR,50 M Freestyle,SCM,M,50-54,35.58,Daniel F Rosemarin,,Gay Games at Chicago,2006,5
+WM,100 M Freestyle,SCM,M,50-54,1:02.07,John C Needham,,Colonies Zone and NJ SCM Champs,2006,1
+METR,100 M Freestyle,SCM,M,50-54,1:04.61,Charles A Carson,,LANES Tea Party Two,2006,2
+METR,100 M Freestyle,SCM,M,50-54,1:04.73,Glenn E Wharton,,Gay Games at Chicago,2006,3
+METR,100 M Freestyle,SCM,M,50-54,1:10.15,Buck Broker,,Gay Games at Chicago,2006,4
+METR,100 M Freestyle,SCM,M,50-54,1:22.84,Richard W Peterson,,Gay Games at Chicago,2006,5
+METR,100 M Freestyle,SCM,M,50-54,1:24.05,Daniel F Rosemarin,,Gay Games at Chicago,2006,6
+METR,100 M Freestyle,SCM,M,50-54,1:30.94,Kevin C Miller,,Gay Games at Chicago,2006,7
+METR,100 M Freestyle,SCM,M,50-54,1:41.03,Michael P Goldring,,LANES Tea Party Two,2006,8
+WM,200 M Freestyle,SCM,M,50-54,2:14.09,John C Needham,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Freestyle,SCM,M,50-54,2:20.91,R Scott Creighton,,Gay Games at Chicago,2006,2
+METR,200 M Freestyle,SCM,M,50-54,2:21.43,Glenn E Wharton,,Gay Games at Chicago,2006,3
+METR,200 M Freestyle,SCM,M,50-54,2:22.00,Charles A Carson,,Gay Games at Chicago,2006,4
+METR,200 M Freestyle,SCM,M,50-54,3:15.22,Daniel F Rosemarin,,Gay Games at Chicago,2006,5
+METR,200 M Freestyle,SCM,M,50-54,3:30.60,Michael P Goldring,,LANES Tea Party Two,2006,6
+WM,400 M Freestyle,SCM,M,50-54,4:44.61,John C Needham,,Colonies Zone and NJ SCM Champs,2006,1
+METR,400 M Freestyle,SCM,M,50-54,4:59.33,John B Chambers,,New England SCM Champs,2006,2
+METR,400 M Freestyle,SCM,M,50-54,5:00.79,Glenn E Wharton,,Gay Games at Chicago,2006,3
+METR,400 M Freestyle,SCM,M,50-54,5:17.16,R Scott Creighton,,Gay Games at Chicago,2006,4
+METR,400 M Freestyle,SCM,M,50-54,6:05.77,Paul J Rodgers,,Gay Games at Chicago,2006,5
+METR,400 M Freestyle,SCM,M,50-54,7:29.79,Kevin C Miller,,Gay Games at Chicago,2006,6
+METR,800 M Freestyle,SCM,M,50-54,10:06.46,Glenn E Wharton,,Gay Games at Chicago,2006,1
+METR,800 M Freestyle,SCM,M,50-54,13:13.38,Kurt F Steinwascher,,Gay Games at Chicago,2006,2
+METR,800 M Freestyle,SCM,M,50-54,14:21.71,Larry K Smith,,Gay Games at Chicago,2006,3
+WM,1500 M Freestyle,SCM,M,50-54,18:39.93,John C Needham,,Colonies Zone and NJ SCM Champs,2006,1
+METR,1500 M Freestyle,SCM,M,50-54,20:12.52,Glenn E Wharton,,Gay Games at Chicago,2006,2
+METR,1500 M Freestyle,SCM,M,50-54,25:31.68,Kurt F Steinwascher,,Gay Games at Chicago,2006,3
+METR,50 M Backstroke,SCM,M,50-54,35.80,Michael F D'Amico,,Gay Games at Chicago,2006,1
+METR,100 M Backstroke,SCM,M,50-54,1:16.46,R Scott Creighton,,Gay Games at Chicago,2006,1
+METR,100 M Backstroke,SCM,M,50-54,1:20.18,Michael F D'Amico,,Gay Games at Chicago,2006,2
+METR,200 M Backstroke,SCM,M,50-54,2:38.79,R Scott Creighton,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,50-54,41.44,Paul J Rodgers,,Gay Games at Chicago,2006,1
+METR,50 M Breaststroke,SCM,M,50-54,41.75,Buck Broker,,Gay Games at Chicago,2006,2
+METR,50 M Breaststroke,SCM,M,50-54,42.94,Tom W Malcolm,,LANES Tea Party Two,2006,3
+METR,50 M Breaststroke,SCM,M,50-54,46.05,Michael P Goldring,,LANES Tea Party Two,2006,4
+METR,50 M Breaststroke,SCM,M,50-54,47.82,Andrew L Taines,,Gay Games at Chicago,2006,5
+METR,50 M Breaststroke,SCM,M,50-54,48.29,Kevin C Miller,,Gay Games at Chicago,2006,6
+METR,100 M Breaststroke,SCM,M,50-54,1:32.23,Tom W Malcolm,,LANES Tea Party Two,2006,1
+METR,100 M Breaststroke,SCM,M,50-54,1:33.68,Buck Broker,,Gay Games at Chicago,2006,2
+METR,100 M Breaststroke,SCM,M,50-54,1:43.58,Michael P Goldring,,LANES Tea Party Two,2006,3
+METR,200 M Breaststroke,SCM,M,50-54,3:20.37,Tom W Malcolm,,Gay Games at Chicago,2006,1
+METR,50 M Butterfly,SCM,M,50-54,30.61,Charles A Carson,,Gay Games at Chicago,2006,1
+METR,50 M Butterfly,SCM,M,50-54,33.47,Michael F D'Amico,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,50-54,37.29,Richard W Peterson,,Gay Games at Chicago,2006,3
+METR,100 M Butterfly,SCM,M,50-54,1:10.51,Charles A Carson,,Gay Games at Chicago,2006,1
+WM,100 M Butterfly,SCM,M,50-54,1:22.90,John C Needham,,Colonies Zone and NJ SCM Champs,2006,2
+METR,100 M Butterfly,SCM,M,50-54,1:30.50,Tom W Malcolm,,LANES Tea Party Two,2006,3
+METR,100 M Butterfly,SCM,M,50-54,1:45.55,Larry K Smith,,Gay Games at Chicago,2006,4
+METR,200 M Butterfly,SCM,M,50-54,2:46.89,John B Chambers,,New England SCM Champs,2006,1
+METR,200 M Butterfly,SCM,M,50-54,3:30.44,Tom W Malcolm,,Gay Games at Chicago,2006,2
+METR,200 M Butterfly,SCM,M,50-54,3:58.14,Larry K Smith,,Gay Games at Chicago,2006,3
+METR,100 M Individual Medley,SCM,M,50-54,1:12.09,R Scott Creighton,,Gay Games at Chicago,2006,1
+METR,100 M Individual Medley,SCM,M,50-54,1:15.50,Charles A Carson,,LANES Tea Party Two,2006,2
+METR,100 M Individual Medley,SCM,M,50-54,1:17.80,Michael F D'Amico,,Gay Games at Chicago,2006,3
+METR,100 M Individual Medley,SCM,M,50-54,1:22.81,Buck Broker,,Gay Games at Chicago,2006,4
+METR,100 M Individual Medley,SCM,M,50-54,1:24.22,Tom W Malcolm,,LANES Tea Party Two,2006,5
+METR,100 M Individual Medley,SCM,M,50-54,1:46.57,Daniel F Rosemarin,,Gay Games at Chicago,2006,6
+METR,200 M Individual Medley,SCM,M,50-54,3:04.41,Tom W Malcolm,,Gay Games at Chicago,2006,1
+METR,200 M Individual Medley,SCM,M,50-54,3:43.68,Larry K Smith,,Gay Games at Chicago,2006,2
+METR,400 M Individual Medley,SCM,M,50-54,5:50.36,John B Chambers,,New England SCM Champs,2006,1
+METR,400 M Individual Medley,SCM,M,50-54,6:45.57,Tom W Malcolm,,Gay Games at Chicago,2006,2
+METR,50 M Freestyle,SCM,M,55-59,28.26,Edward M Johnson,,Gay Games at Chicago,2006,1
+DUTC,50 M Freestyle,SCM,M,55-59,29.37,Jack Cothren,,New England SCM Champs,2006,2
+METR,50 M Freestyle,SCM,M,55-59,30.10,John McGeehan,,Colonies Zone and NJ SCM Champs,2006,3
+NYCH,50 M Freestyle,SCM,M,55-59,31.49,Allan B Goldstein,,New England SCM Champs,2006,4
+DUTC,50 M Freestyle,SCM,M,55-59,34.29,Mark W Andrews,,New England SCM Champs,2006,5
+METR,100 M Freestyle,SCM,M,55-59,1:03.92,Richard O Merritt,,Gay Games at Chicago,2006,1
+DUTC,100 M Freestyle,SCM,M,55-59,1:05.81,Jack Cothren,,New England SCM Champs,2006,2
+METR,100 M Freestyle,SCM,M,55-59,1:10.07,John McGeehan,,Colonies Zone and NJ SCM Champs,2006,3
+DUTC,100 M Freestyle,SCM,M,55-59,1:17.15,Mark W Andrews,,New England SCM Champs,2006,4
+METR,200 M Freestyle,SCM,M,55-59,2:27.14,Richard O Merritt,,Gay Games at Chicago,2006,1
+DUTC,200 M Freestyle,SCM,M,55-59,2:28.44,Jack Cothren,,New England SCM Champs,2006,2
+METR,200 M Freestyle,SCM,M,55-59,2:45.41,John McGeehan,,Colonies Zone and NJ SCM Champs,2006,3
+NYCH,200 M Freestyle,SCM,M,55-59,2:45.59,Allan B Goldstein,,New England SCM Champs,2006,4
+DUTC,400 M Freestyle,SCM,M,55-59,5:17.75,Jack Cothren,,New England SCM Champs,2006,1
+METR,400 M Freestyle,SCM,M,55-59,5:39.56,Louis C Tharp,,Gay Games at Chicago,2006,2
+NYCH,400 M Freestyle,SCM,M,55-59,5:57.70,Allan B Goldstein,,New England SCM Champs,2006,3
+METR,400 M Freestyle,SCM,M,55-59,6:05.06,John McGeehan,,Colonies Zone and NJ SCM Champs,2006,4
+DUTC,400 M Freestyle,SCM,M,55-59,6:07.78,Mark W Andrews,,New England SCM Champs,2006,5
+METR,400 M Freestyle,SCM,M,55-59,6:26.25,C A Hutton,,Gay Games at Chicago,2006,6
+NYCH,400 M Freestyle,SCM,M,55-59,7:03.49,Jeffrey N Altman,,Colonies Zone and NJ SCM Champs,2006,7
+METR,800 M Freestyle,SCM,M,55-59,10:59.47,Louis C Tharp,,Gay Games at Chicago,2006,1
+DUTC,800 M Freestyle,SCM,M,55-59,11:06.30,Jack Cothren,,New England SCM Champs,2006,2
+NYCH,800 M Freestyle,SCM,M,55-59,12:16.91,Allan B Goldstein,,New England SCM Champs,2006,3
+METR,800 M Freestyle,SCM,M,55-59,12:58.56,C A Hutton,,Gay Games at Chicago,2006,4
+METR,1500 M Freestyle,SCM,M,55-59,22:11.39,Louis C Tharp,,Gay Games at Chicago,2006,1
+METR,1500 M Freestyle,SCM,M,55-59,25:15.99,C A Hutton,,Gay Games at Chicago,2006,2
+METR,50 M Backstroke,SCM,M,55-59,34.10,Bob Kolonkowski,,New England SCM Champs,2006,1
+DUTC,50 M Backstroke,SCM,M,55-59,35.12,Jack Cothren,,New England SCM Champs,2006,2
+METR,50 M Backstroke,SCM,M,55-59,42.16,C A Hutton,,Gay Games at Chicago,2006,3
+DUTC,100 M Backstroke,SCM,M,55-59,1:17.67,Jack Cothren,,New England SCM Champs,2006,1
+METR,100 M Backstroke,SCM,M,55-59,1:39.99,C A Hutton,,Gay Games at Chicago,2006,2
+METR,200 M Backstroke,SCM,M,55-59,2:44.57,Bob Kolonkowski,,New England SCM Champs,2006,1
+DUTC,200 M Backstroke,SCM,M,55-59,2:45.40,Jack Cothren,,New England SCM Champs,2006,2
+METR,50 M Breaststroke,SCM,M,55-59,35.26,Peter L Kingan,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,50 M Breaststroke,SCM,M,55-59,42.21,Jeffrey N Altman,,New England SCM Champs,2006,2
+NYCH,50 M Breaststroke,SCM,M,55-59,44.31,Allan B Goldstein,,Colonies Zone and NJ SCM Champs,2006,3
+DUTC,50 M Breaststroke,SCM,M,55-59,45.08,Mark W Andrews,,New England SCM Champs,2006,4
+METR,100 M Breaststroke,SCM,M,55-59,1:20.20,Peter L Kingan,,Colonies Zone and NJ SCM Champs,2006,1
+NYCH,100 M Breaststroke,SCM,M,55-59,1:33.46,Jeffrey N Altman,,New England SCM Champs,2006,2
+NYCH,100 M Breaststroke,SCM,M,55-59,1:34.22,Allan B Goldstein,,New England SCM Champs,2006,3
+DUTC,100 M Breaststroke,SCM,M,55-59,1:37.60,Mark W Andrews,,New England SCM Champs,2006,4
+METR,200 M Breaststroke,SCM,M,55-59,3:04.02,Peter L Kingan,,Colonies Zone and NJ SCM Champs,2006,1
+DUTC,200 M Breaststroke,SCM,M,55-59,3:33.52,Mark W Andrews,,New England SCM Champs,2006,2
+NYCH,200 M Breaststroke,SCM,M,55-59,3:36.31,Allan B Goldstein,,New England SCM Champs,2006,3
+NYCH,200 M Breaststroke,SCM,M,55-59,3:36.47,Jeffrey N Altman,,New England SCM Champs,2006,4
+DUTC,50 M Butterfly,SCM,M,55-59,31.41,Jack Cothren,,New England SCM Champs,2006,1
+METR,50 M Butterfly,SCM,M,55-59,32.20,Richard O Merritt,,Gay Games at Chicago,2006,2
+METR,50 M Butterfly,SCM,M,55-59,33.57,Edward M Johnson,,Gay Games at Chicago,2006,3
+DUTC,50 M Butterfly,SCM,M,55-59,38.74,Mark W Andrews,,New England SCM Champs,2006,4
+METR,100 M Butterfly,SCM,M,55-59,1:20.45,Richard O Merritt,,Gay Games at Chicago,2006,1
+METR,100 M Butterfly,SCM,M,55-59,1:21.58,Edward M Johnson,,Gay Games at Chicago,2006,2
+DUTC,100 M Butterfly,SCM,M,55-59,1:23.44,Jack Cothren,,New England SCM Champs,2006,3
+METR,200 M Butterfly,SCM,M,55-59,2:43.94,Bob Kolonkowski,,New England SCM Champs,2006,1
+DUTC,200 M Butterfly,SCM,M,55-59,3:55.68,Mark W Andrews,,New England SCM Champs,2006,2
+METR,100 M Individual Medley,SCM,M,55-59,1:18.04,Edward M Johnson,,Gay Games at Chicago,2006,1
+DUTC,100 M Individual Medley,SCM,M,55-59,1:20.68,Jack Cothren,,New England SCM Champs,2006,2
+METR,100 M Individual Medley,SCM,M,55-59,1:21.16,Richard O Merritt,,Gay Games at Chicago,2006,3
+DUTC,100 M Individual Medley,SCM,M,55-59,1:26.91,Mark W Andrews,,New England SCM Champs,2006,4
+NYCH,100 M Individual Medley,SCM,M,55-59,1:32.07,Jeffrey N Altman,,New England SCM Champs,2006,5
+METR,400 M Individual Medley,SCM,M,55-59,6:01.47,Bob Kolonkowski,,New England SCM Champs,2006,1
+DUTC,400 M Individual Medley,SCM,M,55-59,7:16.31,Mark W Andrews,,New England SCM Champs,2006,2
+METR,400 M Individual Medley,SCM,M,55-59,7:31.19,Louis C Tharp,,Gay Games at Chicago,2006,3
+DUTC,50 M Freestyle,SCM,M,60-64,38.42,Peter C McGinnis,,New England SCM Champs,2006,1
+DUTC,100 M Freestyle,SCM,M,60-64,1:27.82,Peter C McGinnis,,New England SCM Champs,2006,1
+METR,100 M Freestyle,SCM,M,60-64,1:42.11,Thomas C Cracovia,,Gay Games at Chicago,2006,2
+DUTC,200 M Freestyle,SCM,M,60-64,3:28.46,Peter C McGinnis,,New England SCM Champs,2006,1
+DUTC,400 M Freestyle,SCM,M,60-64,7:20.30,Peter C McGinnis,,New England SCM Champs,2006,1
+DUTC,800 M Freestyle,SCM,M,60-64,15:32.08,Peter C McGinnis,,New England SCM Champs,2006,1
+METR,50 M Backstroke,SCM,M,60-64,50.28,Thomas C Cracovia,,Gay Games at Chicago,2006,1
+METR,100 M Backstroke,SCM,M,60-64,1:36.56,Edward J Dunne,,Gay Games at Chicago,2006,1
+METR,200 M Backstroke,SCM,M,60-64,3:40.95,Edward J Dunne,,Gay Games at Chicago,2006,1
+DUTC,200 M Backstroke,SCM,M,60-64,4:16.36,Peter C McGinnis,,New England SCM Champs,2006,2
+METR,50 M Breaststroke,SCM,M,60-64,53.72,Thomas C Cracovia,,Gay Games at Chicago,2006,1
+METR,100 M Breaststroke,SCM,M,60-64,2:09.79,Thomas C Cracovia,,Gay Games at Chicago,2006,1
+METR,200 M Individual Medley,SCM,M,60-64,3:40.72,Edward J Dunne,,Gay Games at Chicago,2006,1
+METR,200 M Freestyle,SCM,M,65-69,2:56.28,Richard S Monahan,,Colonies Zone and NJ SCM Champs,2006,1
+METR,400 M Freestyle,SCM,M,65-69,6:16.62,Richard S Monahan,,Colonies Zone and NJ SCM Champs,2006,1
+METR,1500 M Freestyle,SCM,M,65-69,25:30.79,Richard S Monahan,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Backstroke,SCM,M,65-69,46.66,Richard S Monahan,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Backstroke,SCM,M,65-69,3:35.24,Richard S Monahan,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Freestyle,SCM,M,80-84,42.56,Gaetano Pavone,,Colonies Zone and NJ SCM Champs,2006,1
+METR,50 M Freestyle,SCM,M,80-84,48.69,Richard E Briesemeister,,Colonies Zone and NJ SCM Champs,2006,2
+METR,100 M Backstroke,SCM,M,80-84,1:53.95,Gaetano Pavone,,Colonies Zone and NJ SCM Champs,2006,1
+METR,200 M Backstroke,SCM,M,80-84,4:15.12,Gaetano Pavone,,Colonies Zone and NJ SCM Champs,2006,1
+METR,100 M Individual Medley,SCM,M,80-84,2:55.78,Richard E Briesemeister,,Colonies Zone and NJ SCM Champs,2006,1

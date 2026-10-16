@@ -1,0 +1,616 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 Y Freestyle,SCY,W,18-24,25.86,Anna C Gryglewska,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,W,18-24,28.55,Ursula C Nickerson,,Groundhog Day Meet,2015,2
+CONN,100 Y Freestyle,SCY,W,18-24,56.76,Anna C Gryglewska,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Freestyle,SCY,W,18-24,2:06.17,Anna C Gryglewska,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,W,18-24,30.88,Anna C Gryglewska,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Backstroke,SCY,W,18-24,1:06.55,Anna C Gryglewska,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Backstroke,SCY,W,18-24,2:24.63,Anna C Gryglewska,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Breaststroke,SCY,W,18-24,34.98,Ursula C Nickerson,,Groundhog Day Meet,2015,1
+CONN,100 Y Breaststroke,SCY,W,18-24,1:16.90,Ursula C Nickerson,,Groundhog Day Meet,2015,1
+CONN,200 Y Individual Medley,SCY,W,18-24,2:34.35,Ursula C Nickerson,,Groundhog Day Meet,2015,1
+UC05,50 Y Freestyle,SCY,W,25-29,26.54,Maris Visse,,LIU Post SCY Masters Meet,2015,1
+CONN,50 Y Freestyle,SCY,W,25-29,26.62,Lauren Finnegan,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Freestyle,SCY,W,25-29,27.57,Christina A DiGiacomo,,CT Masters' Swim Meet,2015,3
+CONN,50 Y Freestyle,SCY,W,25-29,28.07,Kristen L Finnegan,,2015 YMCA Masters Nationals,2015,4
+CONN,50 Y Freestyle,SCY,W,25-29,28.90,Sarah A Lang,,CT Masters' Swim Meet,2015,5
+UC05,50 Y Freestyle,SCY,W,25-29,31.88,Morgan L Guardino,,CT Masters' Swim Meet,2015,6
+CONN,50 Y Freestyle,SCY,W,25-29,35.01,Aviva L Vincent,,Wilton YMCA Wahoo Masters National Prep,2015,7
+CONN,50 Y Freestyle,SCY,W,25-29,36.35,Madeline Bey,,CT Masters' Swim Meet,2015,8
+UC05,100 Y Freestyle,SCY,W,25-29,57.66,Maris Visse,,LIU Post SCY Masters Meet,2015,1
+CONN,100 Y Freestyle,SCY,W,25-29,1:01.96,Christina A DiGiacomo,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Freestyle,SCY,W,25-29,1:22.99,Aviva L Vincent,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CONN,100 Y Freestyle,SCY,W,25-29,1:23.79,Madeline Bey,,CT Masters' Swim Meet,2015,4
+CONN,200 Y Freestyle,SCY,W,25-29,2:12.73,Kristen L Finnegan,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Freestyle,SCY,W,25-29,2:17.24,Christina A DiGiacomo,,CT Masters' Swim Meet,2015,2
+UC05,200 Y Freestyle,SCY,W,25-29,2:34.25,Morgan L Guardino,,CT Masters' Swim Meet,2015,3
+CONN,200 Y Freestyle,SCY,W,25-29,3:03.76,Madeline Bey,,CT Masters' Swim Meet,2015,4
+UC05,500 Y Freestyle,SCY,W,25-29,5:33.27,Maris Visse,,LIU Post SCY Masters Meet,2015,1
+CONN,500 Y Freestyle,SCY,W,25-29,6:34.66,Christina A DiGiacomo,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Breaststroke,SCY,W,25-29,32.61,Maria A Zenoni,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,25-29,33.15,Lauren Finnegan,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Breaststroke,SCY,W,25-29,37.96,Sarah A Lang,,CT Masters' Swim Meet,2015,3
+CONN,50 Y Breaststroke,SCY,W,25-29,48.59,Madeline Bey,,CT Masters' Swim Meet,2015,4
+CONN,100 Y Breaststroke,SCY,W,25-29,1:11.48,Maria A Zenoni,,Groundhog Day Meet,2015,1
+CONN,100 Y Breaststroke,SCY,W,25-29,1:11.67,Lauren Finnegan,,2015 YMCA Masters Nationals,2015,2
+CONN,200 Y Breaststroke,SCY,W,25-29,2:31.77,Maria A Zenoni,,Groundhog Day Meet,2015,1
+CONN,200 Y Breaststroke,SCY,W,25-29,2:40.39,Lauren Finnegan,,2015 YMCA Masters Nationals,2015,2
+UC05,50 Y Butterfly,SCY,W,25-29,27.54,Maris Visse,,LIU Post SCY Masters Meet,2015,1
+CONN,50 Y Butterfly,SCY,W,25-29,28.96,Lauren Finnegan,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Butterfly,SCY,W,25-29,30.49,Kristen L Finnegan,,2015 YMCA Masters Nationals,2015,3
+CONN,50 Y Butterfly,SCY,W,25-29,42.94,Aviva L Vincent,,Wilton YMCA Wahoo Masters National Prep,2015,4
+CONN,50 Y Butterfly,SCY,W,25-29,43.01,Madeline Bey,,CT Masters' Swim Meet,2015,5
+UC05,100 Y Butterfly,SCY,W,25-29,1:04.55,Maris Visse,,LIU Post SCY Masters Meet,2015,1
+CONN,100 Y Individual Medley,SCY,W,25-29,1:06.70,Maria A Zenoni,,Groundhog Day Meet,2015,1
+CONN,100 Y Individual Medley,SCY,W,25-29,1:12.00,Kristen L Finnegan,,2015 YMCA Masters Nationals,2015,2
+CONN,100 Y Individual Medley,SCY,W,25-29,1:13.61,Sarah A Lang,,CT Masters' Swim Meet,2015,3
+CONN,100 Y Individual Medley,SCY,W,25-29,1:36.42,Madeline Bey,,CT Masters' Swim Meet,2015,4
+UC05,200 Y Individual Medley,SCY,W,25-29,2:52.28,Morgan L Guardino,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Freestyle,SCY,W,30-34,33.68,Nicole Guglielmo,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Freestyle,SCY,W,30-34,34.41,Kelly Burns Gallagher,,RAMS Spring Masters Meet at RIT,2015,2
+CONN,50 Y Freestyle,SCY,W,30-34,38.74,Veronica M Suleski,,CT Masters' Swim Meet,2015,3
+CONN,100 Y Freestyle,SCY,W,30-34,1:01.56,Elizabeth A Kennedy,,Groundhog Day Meet,2015,1
+UC05,100 Y Freestyle,SCY,W,30-34,1:14.15,Kelly Burns Gallagher,,NE LMSC SCY Championships,2015,2
+CONN,100 Y Freestyle,SCY,W,30-34,1:17.28,Kate Powers,,NE LMSC SCY Championships,2015,3
+UC05,200 Y Freestyle,SCY,W,30-34,2:47.41,Kelly Burns Gallagher,,Groundhog Day Meet,2015,1
+CONN,200 Y Freestyle,SCY,W,30-34,2:50.92,Kate Powers,,NE LMSC SCY Championships,2015,2
+UC05,500 Y Freestyle,SCY,W,30-34,7:03.39,Kelly Burns Gallagher,,RAMS Spring Masters Meet at RIT,2015,1
+UC05,500 Y Freestyle,SCY,W,30-34,7:58.47,Jan L Marnicki,,Groundhog Day Meet,2015,2
+CONN,1650 Y Freestyle,SCY,W,30-34,28:08.89,Kate Powers,,NE LMSC SCY Championships,2015,1
+CONN,1650 Y Freestyle,SCY,W,30-34,28:43.79,Robyn DeMarco,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Backstroke,SCY,W,30-34,40.23,Kate Powers,,NE LMSC SCY Championships,2015,1
+UC05,50 Y Backstroke,SCY,W,30-34,41.34,Kelly Burns Gallagher,,GARSOE-SCHERMERHORN MEMORIAL MASTERS SWIM MEET PENTATHLON,2015,2
+CONN,100 Y Backstroke,SCY,W,30-34,1:05.54,Elizabeth A Kennedy,,Groundhog Day Meet,2015,1
+UC05,100 Y Backstroke,SCY,W,30-34,1:27.16,Kelly Burns Gallagher,,RAMS Spring Masters Meet at RIT,2015,2
+CONN,100 Y Backstroke,SCY,W,30-34,1:29.37,Kate Powers,,NE LMSC SCY Championships,2015,3
+UC05,200 Y Backstroke,SCY,W,30-34,3:06.17,Kelly Burns Gallagher,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,30-34,44.63,Robyn DeMarco,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Breaststroke,SCY,W,30-34,45.17,Kate Powers,,Groundhog Day Meet,2015,2
+UC05,50 Y Breaststroke,SCY,W,30-34,47.39,Kelly Burns Gallagher,,GARSOE-SCHERMERHORN MEMORIAL MASTERS SWIM MEET PENTATHLON,2015,3
+CONN,50 Y Breaststroke,SCY,W,30-34,48.06,Veronica M Suleski,,St. Patrick's Spring Sprint,2015,4
+CONN,100 Y Breaststroke,SCY,W,30-34,1:35.04,Kate Powers,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,100 Y Breaststroke,SCY,W,30-34,1:37.04,Robyn DeMarco,,Wilton YMCA Wahoo Masters National Prep,2015,2
+UC05,100 Y Breaststroke,SCY,W,30-34,1:37.35,Jan L Marnicki,,Groundhog Day Meet,2015,3
+CONN,200 Y Breaststroke,SCY,W,30-34,3:25.07,Kate Powers,,NE LMSC SCY Championships,2015,1
+CONN,200 Y Breaststroke,SCY,W,30-34,3:29.24,Robyn DeMarco,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Butterfly,SCY,W,30-34,38.38,Robyn DeMarco,,NE LMSC SCY Championships,2015,1
+UC05,50 Y Butterfly,SCY,W,30-34,38.74,Kelly Burns Gallagher,,NE LMSC SCY Championships,2015,2
+CONN,100 Y Butterfly,SCY,W,30-34,1:37.63,Robyn DeMarco,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Butterfly,SCY,W,30-34,3:43.74,Robyn DeMarco,,CT Masters' Swim Meet,2015,1
+UC05,100 Y Individual Medley,SCY,W,30-34,1:25.75,Kelly Burns Gallagher,,RAMS Spring Masters Meet at RIT,2015,1
+CONN,100 Y Individual Medley,SCY,W,30-34,1:29.18,Robyn DeMarco,,NE LMSC SCY Championships,2015,2
+CONN,200 Y Individual Medley,SCY,W,30-34,2:32.04,Elizabeth A Kennedy,,Groundhog Day Meet,2015,1
+CONN,200 Y Individual Medley,SCY,W,30-34,3:16.71,Robyn DeMarco,,NE LMSC SCY Championships,2015,2
+CONN,400 Y Individual Medley,SCY,W,30-34,7:13.87,Robyn DeMarco,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Freestyle,SCY,W,35-39,24.42,Jennifer Brooks Crozier,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,50 Y Freestyle,SCY,W,35-39,29.73,Cyndia Sanchez,,CT Masters' Swim Meet,2015,2
+UC05,50 Y Freestyle,SCY,W,35-39,30.44,Kristen G Tinson,,CT Masters' Swim Meet,2015,3
+UC05,50 Y Freestyle,SCY,W,35-39,30.65,Lauren E Hauser,,Groundhog Day Meet,2015,4
+CONN,100 Y Freestyle,SCY,W,35-39,1:05.95,Christine Capizzi,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,100 Y Freestyle,SCY,W,35-39,1:15.70,Christine A Matarese,,CT Masters' Swim Meet,2015,2
+UC05,100 Y Freestyle,SCY,W,35-39,1:16.97,Eileen A Koch,,Groundhog Day Meet,2015,3
+CONN,200 Y Freestyle,SCY,W,35-39,2:13.20,Heather L Montanaro,,Groundhog Day Meet,2015,1
+CONN,200 Y Freestyle,SCY,W,35-39,2:24.19,Nicole K Hauser,,Groundhog Day Meet,2015,2
+UC05,200 Y Freestyle,SCY,W,35-39,2:49.27,Lauren E Hauser,,Groundhog Day Meet,2015,3
+UC05,200 Y Freestyle,SCY,W,35-39,2:49.44,Eileen A Koch,,Groundhog Day Meet,2015,4
+CONN,500 Y Freestyle,SCY,W,35-39,6:05.53,Heather L Montanaro,,Groundhog Day Meet,2015,1
+CONN,50 Y Backstroke,SCY,W,35-39,36.07,Nicole K Hauser,,Groundhog Day Meet,2015,1
+UC05,50 Y Backstroke,SCY,W,35-39,38.75,Lauren E Hauser,,Groundhog Day Meet,2015,2
+CONN,100 Y Backstroke,SCY,W,35-39,1:14.47,Nicole K Hauser,,Groundhog Day Meet,2015,1
+UC05,100 Y Backstroke,SCY,W,35-39,1:41.70,Eileen A Koch,,Groundhog Day Meet,2015,2
+CONN,200 Y Backstroke,SCY,W,35-39,2:39.30,Nicole K Hauser,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,35-39,36.27,Heather L Montanaro,,Groundhog Day Meet,2015,1
+UC05,50 Y Breaststroke,SCY,W,35-39,36.54,Kristen G Tinson,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Breaststroke,SCY,W,35-39,36.58,Cyndia Sanchez,,CT Masters' Swim Meet,2015,3
+CONN,50 Y Breaststroke,SCY,W,35-39,38.69,Christine Capizzi,,Wilton YMCA Wahoo Masters National Prep,2015,4
+CONN,50 Y Breaststroke,SCY,W,35-39,39.79,Christine A Matarese,,CT Masters' Swim Meet,2015,5
+CONN,50 Y Breaststroke,SCY,W,35-39,39.95,Christine Dos Santos,,Wilton YMCA Wahoo Masters National Prep,2015,6
+CONN,50 Y Breaststroke,SCY,W,35-39,54.51,Taylor A Petekiewicz,,Groundhog Day Meet,2015,7
+CONN,100 Y Breaststroke,SCY,W,35-39,1:18.78,Cyndia Sanchez,,CT Masters' Swim Meet,2015,1
+UC05,100 Y Breaststroke,SCY,W,35-39,1:21.43,Kristen G Tinson,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Breaststroke,SCY,W,35-39,1:23.98,Christine Capizzi,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CONN,100 Y Breaststroke,SCY,W,35-39,1:27.71,Christine A Matarese,,CT Masters' Swim Meet,2015,4
+CONN,100 Y Breaststroke,SCY,W,35-39,1:55.80,Taylor A Petekiewicz,,Groundhog Day Meet,2015,5
+CONN,200 Y Breaststroke,SCY,W,35-39,2:50.57,Cyndia Sanchez,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Butterfly,SCY,W,35-39,25.29,Jennifer Brooks Crozier,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,100 Y Butterfly,SCY,W,35-39,56.95,Jennifer Brooks Crozier,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,100 Y Individual Medley,SCY,W,35-39,59.53,Jennifer Brooks Crozier,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,100 Y Individual Medley,SCY,W,35-39,1:15.21,Nicole K Hauser,,Groundhog Day Meet,2015,2
+CONN,100 Y Individual Medley,SCY,W,35-39,1:16.65,Christine Capizzi,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CONN,100 Y Individual Medley,SCY,W,35-39,1:16.86,Cyndia Sanchez,,CT Masters' Swim Meet,2015,4
+UC05,100 Y Individual Medley,SCY,W,35-39,1:23.72,Lauren E Hauser,,Groundhog Day Meet,2015,5
+CONN,100 Y Individual Medley,SCY,W,35-39,1:24.19,Christine A Matarese,,CT Masters' Swim Meet,2015,6
+CONN,50 Y Freestyle,SCY,W,40-44,25.33,Whitney Ross,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,W,40-44,26.56,Amelia P Fox,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Freestyle,SCY,W,40-44,28.36,Ashley C Beeman,,Groundhog Day Meet,2015,3
+UC05,50 Y Freestyle,SCY,W,40-44,28.80,Lynn Acosta,,CT Masters' Swim Meet,2015,4
+CONN,50 Y Freestyle,SCY,W,40-44,29.19,Jean M Tornatore,,Groundhog Day Meet,2015,5
+CONN,50 Y Freestyle,SCY,W,40-44,29.82,Holly J Neumann,,CT Masters' Swim Meet,2015,6
+CONN,50 Y Freestyle,SCY,W,40-44,38.45,Dana N Brinker,,NE LMSC SCY Championships,2015,7
+CONN,50 Y Freestyle,SCY,W,40-44,38.77,Laura A Campbell,,Groundhog Day Meet,2015,8
+CONN,100 Y Freestyle,SCY,W,40-44,55.99,Whitney Ross,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Freestyle,SCY,W,40-44,56.47,Amelia P Fox,,2015 YMCA Masters Nationals,2015,2
+CONN,100 Y Freestyle,SCY,W,40-44,57.24,Ashley C Beeman,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,3
+CONN,100 Y Freestyle,SCY,W,40-44,1:02.69,Brenda J Glidden,,Groundhog Day Meet,2015,4
+CONN,100 Y Freestyle,SCY,W,40-44,1:05.66,Jean M Tornatore,,Groundhog Day Meet,2015,5
+CONN,100 Y Freestyle,SCY,W,40-44,1:21.65,Ally Sega,,Wilton YMCA Wahoo Masters National Prep,2015,6
+CONN,100 Y Freestyle,SCY,W,40-44,1:29.20,Laura A Campbell,,Groundhog Day Meet,2015,7
+CONN,200 Y Freestyle,SCY,W,40-44,2:03.46,Amelia P Fox,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Freestyle,SCY,W,40-44,2:06.25,Whitney Ross,,2015 YMCA Masters Nationals,2015,2
+CONN,200 Y Freestyle,SCY,W,40-44,2:07.28,Ashley C Beeman,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,3
+CONN,200 Y Freestyle,SCY,W,40-44,2:23.15,Holly J Neumann,,CT Masters' Swim Meet,2015,4
+CONN,200 Y Freestyle,SCY,W,40-44,3:05.25,Ally Sega,,Wilton YMCA Wahoo Masters National Prep,2015,5
+CONN,200 Y Freestyle,SCY,W,40-44,3:35.15,Laura A Campbell,,Wilton YMCA Wahoo Masters National Prep,2015,6
+CONN,500 Y Freestyle,SCY,W,40-44,5:43.20,Ashley C Beeman,,NE LMSC SCY Championships,2015,1
+CONN,500 Y Freestyle,SCY,W,40-44,6:19.16,Jean M Tornatore,,Groundhog Day Meet,2015,2
+CONN,500 Y Freestyle,SCY,W,40-44,8:00.38,Ally Sega,,NE LMSC SCY Championships,2015,3
+CONN,1000 Y Freestyle,SCY,W,40-44,11:33.91,Whitney Ross,,2015 YMCA Masters Nationals,2015,1
+CONN,1000 Y Freestyle,SCY,W,40-44,11:53.01,Ashley C Beeman,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,2
+CONN,1650 Y Freestyle,SCY,W,40-44,18:53.23,Amelia P Fox,,2015 YMCA Masters Nationals,2015,1
+CONN,1650 Y Freestyle,SCY,W,40-44,19:47.84,Ashley C Beeman,,NE LMSC SCY Championships,2015,2
+CONN,1650 Y Freestyle,SCY,W,40-44,28:44.15,Ally Sega,,NE LMSC SCY Championships,2015,3
+CONN,50 Y Backstroke,SCY,W,40-44,33.73,Holly J Neumann,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Backstroke,SCY,W,40-44,45.83,Dana N Brinker,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Backstroke,SCY,W,40-44,48.33,Laura A Campbell,,NE LMSC SCY Championships,2015,3
+CONN,100 Y Backstroke,SCY,W,40-44,1:09.12,Brenda J Glidden,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Backstroke,SCY,W,40-44,1:11.41,Holly J Neumann,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Backstroke,SCY,W,40-44,1:34.16,Ally Sega,,NE LMSC SCY Championships,2015,3
+CONN,100 Y Backstroke,SCY,W,40-44,1:50.43,Dana N Brinker,,NE LMSC SCY Championships,2015,4
+CONN,100 Y Backstroke,SCY,W,40-44,1:53.69,Laura A Campbell,,NE LMSC SCY Championships,2015,5
+CONN,200 Y Backstroke,SCY,W,40-44,2:30.34,Ashley C Beeman,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,200 Y Backstroke,SCY,W,40-44,3:27.69,Ally Sega,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Breaststroke,SCY,W,40-44,37.11,Ashley C Beeman,,LIU Post SCY Masters Meet,2015,1
+UC05,50 Y Breaststroke,SCY,W,40-44,40.45,Lynn Acosta,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Breaststroke,SCY,W,40-44,49.51,Ally Sega,,Groundhog Day Meet,2015,3
+UC05,100 Y Breaststroke,SCY,W,40-44,1:31.16,Cindy T McCaffrey,,CT Masters' Swim Meet,2015,1
+UC05,200 Y Breaststroke,SCY,W,40-44,3:18.81,Cindy T McCaffrey,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Breaststroke,SCY,W,40-44,3:50.15,Ally Sega,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Butterfly,SCY,W,40-44,28.83,Amelia P Fox,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Butterfly,SCY,W,40-44,29.73,Whitney Ross,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Butterfly,SCY,W,40-44,30.03,Ashley C Beeman,,NE LMSC SCY Championships,2015,3
+UC05,50 Y Butterfly,SCY,W,40-44,32.67,Lynn Acosta,,Groundhog Day Meet,2015,4
+CONN,50 Y Butterfly,SCY,W,40-44,52.56,Laura A Campbell,,Wilton YMCA Wahoo Masters National Prep,2015,5
+CONN,100 Y Butterfly,SCY,W,40-44,1:33.41,Ally Sega,,NE LMSC SCY Championships,2015,1
+CONN,200 Y Butterfly,SCY,W,40-44,2:25.26,Amelia P Fox,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Butterfly,SCY,W,40-44,3:25.25,Ally Sega,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,W,40-44,1:06.88,Whitney Ross,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Individual Medley,SCY,W,40-44,1:08.88,Amelia P Fox,,2015 YMCA Masters Nationals,2015,2
+CONN,100 Y Individual Medley,SCY,W,40-44,1:11.63,Ashley C Beeman,,LIU Post SCY Masters Meet,2015,3
+CONN,100 Y Individual Medley,SCY,W,40-44,1:12.62,Brenda J Glidden,,Groundhog Day Meet,2015,4
+UC05,100 Y Individual Medley,SCY,W,40-44,1:14.31,Lynn Acosta,,CT Masters' Swim Meet,2015,5
+UC05,100 Y Individual Medley,SCY,W,40-44,1:19.15,Cindy T McCaffrey,,CT Masters' Swim Meet,2015,6
+CONN,100 Y Individual Medley,SCY,W,40-44,1:32.69,Ally Sega,,Groundhog Day Meet,2015,7
+CONN,200 Y Individual Medley,SCY,W,40-44,2:34.97,Brenda J Glidden,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Individual Medley,SCY,W,40-44,2:44.26,Jean M Tornatore,,Groundhog Day Meet,2015,2
+UC05,200 Y Individual Medley,SCY,W,40-44,2:59.36,Cindy T McCaffrey,,CT Masters' Swim Meet,2015,3
+CONN,200 Y Individual Medley,SCY,W,40-44,3:22.16,Ally Sega,,NE LMSC SCY Championships,2015,4
+CONN,400 Y Individual Medley,SCY,W,40-44,7:19.60,Ally Sega,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Freestyle,SCY,W,45-49,30.72,Mary Cochefski,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Freestyle,SCY,W,45-49,34.57,Charlene S Puska,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Freestyle,SCY,W,45-49,34.79,Gaileen A Kaufman,,Groundhog Day Meet,2015,3
+CONN,100 Y Freestyle,SCY,W,45-49,1:08.67,Mary Cochefski,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Freestyle,SCY,W,45-49,1:16.46,Gaileen A Kaufman,,Groundhog Day Meet,2015,2
+CONN,100 Y Freestyle,SCY,W,45-49,1:27.17,Carolyn Daniels,,NE LMSC SCY Championships,2015,3
+CONN,200 Y Freestyle,SCY,W,45-49,2:48.98,Gaileen A Kaufman,,Groundhog Day Meet,2015,1
+CONN,50 Y Backstroke,SCY,W,45-49,38.08,Mary Cochefski,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,45-49,41.80,Ausra S McKenna,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,45-49,45.65,Carolyn Daniels,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Breaststroke,SCY,W,45-49,47.42,Mary Cochefski,,CT Masters' Swim Meet,2015,3
+CONN,100 Y Breaststroke,SCY,W,45-49,1:41.18,Carolyn Daniels,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Breaststroke,SCY,W,45-49,3:47.65,Carolyn Daniels,,NE LMSC SCY Championships,2015,1
+CONN,200 Y Butterfly,SCY,W,45-49,3:13.82,Charlene S Puska,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:22.19,Ausra S McKenna,,Groundhog Day Meet,2015,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:42.69,Carolyn Daniels,,NE LMSC SCY Championships,2015,2
+CONN,50 Y Freestyle,SCY,W,50-54,26.90,Tait Michael,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,W,50-54,28.37,Sheila M Stolarski,,Groundhog Day Meet,2015,2
+CONN,50 Y Freestyle,SCY,W,50-54,28.45,Denise Callahan,,2015 YMCA Masters Nationals,2015,3
+CONN,50 Y Freestyle,SCY,W,50-54,28.77,Pam Henry Moss,,2015 YMCA Masters Nationals,2015,4
+MMMS,50 Y Freestyle,SCY,W,50-54,29.46,Ann Nollet,,CT Masters' Swim Meet,2015,5
+CONN,50 Y Freestyle,SCY,W,50-54,29.82,Teresa A Rough,,NE LMSC SCY Championships,2015,6
+CONN,50 Y Freestyle,SCY,W,50-54,30.61,Susan L Parra,,CT Masters' Swim Meet,2015,7
+CONN,50 Y Freestyle,SCY,W,50-54,38.94,Nancy J McMonagle,,CT Masters' Swim Meet,2015,8
+CONN,100 Y Freestyle,SCY,W,50-54,57.74,Tait Michael,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Freestyle,SCY,W,50-54,1:01.41,Pam Henry Moss,,2015 YMCA Masters Nationals,2015,2
+CONN,100 Y Freestyle,SCY,W,50-54,1:02.21,Denise Callahan,,2015 YMCA Masters Nationals,2015,3
+CONN,100 Y Freestyle,SCY,W,50-54,1:06.63,Teresa A Rough,,NE LMSC SCY Championships,2015,4
+CONN,200 Y Freestyle,SCY,W,50-54,2:07.86,Tait Michael,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Freestyle,SCY,W,50-54,2:13.46,Pam Henry Moss,,2015 YMCA Masters Nationals,2015,2
+CONN,200 Y Freestyle,SCY,W,50-54,2:20.90,Denise Callahan,,2015 YMCA Masters Nationals,2015,3
+CONN,500 Y Freestyle,SCY,W,50-54,5:46.75,Tait Michael,,Groundhog Day Meet,2015,1
+CONN,500 Y Freestyle,SCY,W,50-54,6:04.33,Pam Henry Moss,,2015 YMCA Masters Nationals,2015,2
+CONN,1000 Y Freestyle,SCY,W,50-54,12:30.26,Pam Henry Moss,,2015 YMCA Masters Nationals,2015,1
+CONN,1000 Y Freestyle,SCY,W,50-54,12:41.34,Denise Callahan,,2015 YMCA Masters Nationals,2015,2
+CONN,1650 Y Freestyle,SCY,W,50-54,19:36.41,Tait Michael,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,W,50-54,32.80,Tait Michael,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,W,50-54,33.55,Sheila M Stolarski,,Groundhog Day Meet,2015,2
+CONN,50 Y Backstroke,SCY,W,50-54,34.95,Denise Callahan,,2015 YMCA Masters Nationals,2015,3
+MMMS,50 Y Backstroke,SCY,W,50-54,34.96,Ann Nollet,,CT Masters' Swim Meet,2015,4
+CONN,50 Y Backstroke,SCY,W,50-54,40.83,Susan L Parra,,CT Masters' Swim Meet,2015,5
+CONN,50 Y Backstroke,SCY,W,50-54,47.93,Nancy J McMonagle,,CT Masters' Swim Meet,2015,6
+CONN,100 Y Backstroke,SCY,W,50-54,1:10.93,Sheila M Stolarski,,Groundhog Day Meet,2015,1
+CONN,100 Y Backstroke,SCY,W,50-54,1:11.13,Tait Michael,,2015 YMCA Masters Nationals,2015,2
+CONN,100 Y Backstroke,SCY,W,50-54,1:20.63,Teresa A Rough,,NE LMSC SCY Championships,2015,3
+CONN,100 Y Backstroke,SCY,W,50-54,1:47.08,Nancy J McMonagle,,CT Masters' Swim Meet,2015,4
+CONN,200 Y Backstroke,SCY,W,50-54,2:28.04,Sheila M Stolarski,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,50-54,42.22,Teresa A Rough,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,50-54,44.65,Susan L Parra,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Breaststroke,SCY,W,50-54,48.99,Nancy J McMonagle,,CT Masters' Swim Meet,2015,3
+CONN,50 Y Butterfly,SCY,W,50-54,31.76,Denise Callahan,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:11.46,Sheila M Stolarski,,Groundhog Day Meet,2015,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:12.55,Denise Callahan,,2015 YMCA Masters Nationals,2015,2
+CONN,100 Y Individual Medley,SCY,W,50-54,1:13.61,Pam Henry Moss,,2015 YMCA Masters Nationals,2015,3
+MMMS,100 Y Individual Medley,SCY,W,50-54,1:17.98,Ann Nollet,,CT Masters' Swim Meet,2015,4
+CONN,200 Y Individual Medley,SCY,W,50-54,2:53.50,Teresa A Rough,,NE LMSC SCY Championships,2015,1
+CONN,400 Y Individual Medley,SCY,W,50-54,5:25.16,Tait Michael,,Groundhog Day Meet,2015,1
+CONN,50 Y Freestyle,SCY,W,55-59,30.32,Colleen Brandon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,W,55-59,33.95,Ellen Murray,,Wilton YMCA Wahoo Masters National Prep,2015,2
+UC05,50 Y Freestyle,SCY,W,55-59,38.61,Mary Money,,Groundhog Day Meet,2015,3
+CONN,100 Y Freestyle,SCY,W,55-59,1:07.83,Colleen Brandon,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Freestyle,SCY,W,55-59,1:21.55,Ellen Murray,,CT Masters' Swim Meet,2015,2
+UC05,100 Y Freestyle,SCY,W,55-59,1:25.73,Mary Money,,Groundhog Day Meet,2015,3
+CONN,200 Y Freestyle,SCY,W,55-59,3:09.18,Mary Ann S Harmon,,2015 YMCA Masters Nationals,2015,1
+UC05,500 Y Freestyle,SCY,W,55-59,8:25.88,Mary Money,,Groundhog Day Meet,2015,1
+CONN,500 Y Freestyle,SCY,W,55-59,8:41.15,Mary Ann S Harmon,,Groundhog Day Meet,2015,2
+CONN,1000 Y Freestyle,SCY,W,55-59,17:46.42,Mary Ann S Harmon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,W,55-59,37.65,Colleen Brandon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Breaststroke,SCY,W,55-59,49.71,Peg Byram,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Butterfly,SCY,W,55-59,34.36,Colleen Brandon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Butterfly,SCY,W,55-59,40.17,Ellen Murray,,CT Masters' Swim Meet,2015,2
+UC05,50 Y Butterfly,SCY,W,55-59,45.24,Mary Money,,Groundhog Day Meet,2015,3
+CONN,100 Y Individual Medley,SCY,W,55-59,1:20.77,Colleen Brandon,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Individual Medley,SCY,W,55-59,1:31.01,Ellen Murray,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,W,55-59,1:51.36,Peg Byram,,CT Masters' Swim Meet,2015,3
+CONN,200 Y Individual Medley,SCY,W,55-59,3:22.57,Ellen Murray,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Freestyle,SCY,W,60-64,29.73,Nikki J Holbrook,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Freestyle,SCY,W,60-64,40.87,Sara L Schrager,,2015 YMCA Masters Nationals,2015,2
+ZEUS,50 Y Freestyle,SCY,W,60-64,49.99,Winifred B Swarr,,Groundhog Day Meet,2015,3
+UC05,100 Y Freestyle,SCY,W,60-64,1:09.15,Nikki J Holbrook,,NE LMSC SCY Championships,2015,1
+CONN,100 Y Freestyle,SCY,W,60-64,1:29.10,Sara L Schrager,,2015 YMCA Masters Nationals,2015,2
+MMMS,1650 Y Freestyle,SCY,W,60-64,24:02.29,Petie Connolly,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Backstroke,SCY,W,60-64,50.46,Sara L Schrager,,Wilton YMCA Wahoo Masters National Prep,2015,1
+ZEUS,50 Y Backstroke,SCY,W,60-64,1:06.76,Winifred B Swarr,,Groundhog Day Meet,2015,2
+UC05,50 Y Breaststroke,SCY,W,60-64,37.84,Nikki J Holbrook,,NE LMSC SCY Championships,2015,1
+ZEUS,50 Y Breaststroke,SCY,W,60-64,58.36,Winifred B Swarr,,Groundhog Day Meet,2015,2
+UC05,100 Y Breaststroke,SCY,W,60-64,1:22.63,Nikki J Holbrook,,LANES Tea Party 6 Swim Meet,2015,1
+ZEUS,100 Y Breaststroke,SCY,W,60-64,2:09.53,Winifred B Swarr,,Groundhog Day Meet,2015,2
+UC05,200 Y Breaststroke,SCY,W,60-64,3:01.70,Nikki J Holbrook,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Butterfly,SCY,W,60-64,34.78,Nikki J Holbrook,,NE LMSC SCY Championships,2015,1
+UC05,100 Y Individual Medley,SCY,W,60-64,1:17.90,Nikki J Holbrook,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,100 Y Individual Medley,SCY,W,60-64,1:47.91,Sara L Schrager,,2015 YMCA Masters Nationals,2015,2
+ZEUS,100 Y Individual Medley,SCY,W,60-64,2:17.18,Winifred B Swarr,,Groundhog Day Meet,2015,3
+UC05,200 Y Individual Medley,SCY,W,60-64,2:51.68,Nikki J Holbrook,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Individual Medley,SCY,W,60-64,3:41.26,Sara L Schrager,,Groundhog Day Meet,2015,2
+CONN,50 Y Freestyle,SCY,W,65-69,36.44,Mary Anne Lavin,,Groundhog Day Meet,2015,1
+CONN,50 Y Freestyle,SCY,W,65-69,44.83,Lynne Zareski,,2015 YMCA Masters Nationals,2015,2
+UC05,50 Y Freestyle,SCY,W,65-69,52.16,Carolyn Starr,,CT Masters' Swim Meet,2015,3
+CONN,100 Y Freestyle,SCY,W,65-69,1:26.79,Mary Anne Lavin,,Groundhog Day Meet,2015,1
+CONN,100 Y Freestyle,SCY,W,65-69,1:38.61,Lynne Zareski,,2015 YMCA Masters Nationals,2015,2
+UC05,100 Y Freestyle,SCY,W,65-69,1:50.82,Carolyn Starr,,CT Masters' Swim Meet,2015,3
+CONN,200 Y Freestyle,SCY,W,65-69,3:10.37,Mary Anne Lavin,,Groundhog Day Meet,2015,1
+CONN,200 Y Freestyle,SCY,W,65-69,3:21.77,Lynne Zareski,,2015 YMCA Masters Nationals,2015,2
+UC05,200 Y Freestyle,SCY,W,65-69,3:51.01,Carolyn Starr,,CT Masters' Swim Meet,2015,3
+CONN,500 Y Freestyle,SCY,W,65-69,8:27.02,Mary Anne Lavin,,Groundhog Day Meet,2015,1
+CONN,500 Y Freestyle,SCY,W,65-69,9:13.05,Lynne Zareski,,2015 YMCA Masters Nationals,2015,2
+UC05,500 Y Freestyle,SCY,W,65-69,9:52.02,Carolyn Starr,,CT Masters' Swim Meet,2015,3
+CONN,1000 Y Freestyle,SCY,W,65-69,17:14.23,Mary Anne Lavin,,NE LMSC SCY Championships,2015,1
+CONN,1650 Y Freestyle,SCY,W,65-69,31:31.31,Lynne Zareski,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,W,65-69,49.18,Lynne Zareski,,2015 YMCA Masters Nationals,2015,1
+UC05,50 Y Backstroke,SCY,W,65-69,1:01.31,Carolyn Starr,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Backstroke,SCY,W,65-69,1:57.07,Lynne Zareski,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Backstroke,SCY,W,65-69,4:05.39,Lynne Zareski,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,W,65-69,47.36,Mary Anne Lavin,,Groundhog Day Meet,2015,1
+UC05,50 Y Breaststroke,SCY,W,65-69,52.35,Tamara Muscarell,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Freestyle,SCY,W,70-74,39.35,Mary Anne Condon,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Freestyle,SCY,W,70-74,1:36.16,Mary Anne Condon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,W,70-74,50.50,Mary Anne Condon,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Backstroke,SCY,W,70-74,1:54.87,Mary Anne Condon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Breaststroke,SCY,W,70-74,56.61,Mary Anne Condon,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Butterfly,SCY,W,70-74,56.58,Ann Louise Onton,,Groundhog Day Meet,2015,1
+CONN,100 Y Butterfly,SCY,W,70-74,2:18.57,Ann Louise Onton,,Groundhog Day Meet,2015,1
+CONN,200 Y Butterfly,SCY,W,70-74,4:59.87,Ann Louise Onton,,Groundhog Day Meet,2015,1
+CONN,100 Y Individual Medley,SCY,W,70-74,2:02.32,Ann Louise Onton,,Groundhog Day Meet,2015,1
+CONN,400 Y Individual Medley,SCY,W,70-74,9:32.05,Ann Louise Onton,,Groundhog Day Meet,2015,1
+UC05,500 Y Freestyle,SCY,M,18-24,5:14.48,Michael J Bogese,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Butterfly,SCY,M,18-24,25.29,Michael J Bogese,,CT Masters' Swim Meet,2015,1
+UC05,200 Y Individual Medley,SCY,M,18-24,2:06.21,Michael J Bogese,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Freestyle,SCY,M,25-29,29.58,Robert E Duguay,,St. Patrick's Spring Sprint,2015,1
+CONN,100 Y Freestyle,SCY,M,25-29,1:01.33,Robert E Duguay,,NE LMSC SCY Championships,2015,1
+CONN,200 Y Freestyle,SCY,M,25-29,2:12.90,Robert E Duguay,,NE LMSC SCY Championships,2015,1
+CONN,500 Y Freestyle,SCY,M,25-29,5:50.74,Robert E Duguay,,NE LMSC SCY Championships,2015,1
+CONN,500 Y Freestyle,SCY,M,25-29,6:13.96,Alexei Bachuretz,,NE LMSC SCY Championships,2015,2
+CONN,100 Y Backstroke,SCY,M,25-29,1:25.12,Robert E Duguay,,HAWKtoberfest Masters Swim Meet,2015,1
+UC05,100 Y Breaststroke,SCY,M,25-29,1:02.60,William A Ballentine,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,100 Y Breaststroke,SCY,M,25-29,1:22.10,Robert E Duguay,,NE LMSC SCY Championships,2015,2
+CONN,200 Y Breaststroke,SCY,M,25-29,2:52.31,Robert E Duguay,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Butterfly,SCY,M,25-29,33.94,Robert E Duguay,,St. Patrick's Spring Sprint,2015,1
+CONN,100 Y Individual Medley,SCY,M,25-29,1:01.23,Alexei Bachuretz,,NE LMSC SCY Championships,2015,1
+CONN,100 Y Individual Medley,SCY,M,25-29,1:15.00,Robert E Duguay,,NE LMSC SCY Championships,2015,2
+UC05,200 Y Individual Medley,SCY,M,25-29,2:00.57,William A Ballentine,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Individual Medley,SCY,M,25-29,2:35.76,Robert E Duguay,,NE LMSC SCY Championships,2015,2
+CCAT,50 Y Freestyle,SCY,M,30-34,24.53,Richard Murphy,,Groundhog Day Meet,2015,1
+CONN,50 Y Freestyle,SCY,M,30-34,26.33,Gregory R Matzkevich,,Groundhog Day Meet,2015,2
+CONN,50 Y Freestyle,SCY,M,30-34,38.50,Marco Illescas,,Groundhog Day Meet,2015,3
+CCAT,100 Y Freestyle,SCY,M,30-34,53.11,Richard Murphy,,Groundhog Day Meet,2015,1
+CONN,100 Y Freestyle,SCY,M,30-34,59.61,Gregory R Matzkevich,,Groundhog Day Meet,2015,2
+CONN,200 Y Freestyle,SCY,M,30-34,2:12.68,Robert E Duguay,,CT Masters' Swim Meet,2015,1
+CCAT,500 Y Freestyle,SCY,M,30-34,5:52.48,Richard Murphy,,Groundhog Day Meet,2015,1
+CONN,500 Y Freestyle,SCY,M,30-34,5:54.10,Robert E Duguay,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Backstroke,SCY,M,30-34,54.11,Marco Illescas,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,M,30-34,38.19,Michael P Humbert,,Groundhog Day Meet,2015,1
+CONN,100 Y Breaststroke,SCY,M,30-34,1:21.82,Robert E Duguay,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Breaststroke,SCY,M,30-34,1:26.35,Michael P Humbert,,Groundhog Day Meet,2015,2
+CONN,200 Y Breaststroke,SCY,M,30-34,2:56.66,Robert E Duguay,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Breaststroke,SCY,M,30-34,3:12.45,Michael P Humbert,,Groundhog Day Meet,2015,2
+CONN,50 Y Butterfly,SCY,M,30-34,33.89,Robert E Duguay,,CT Masters' Swim Meet,2015,1
+CCAT,100 Y Butterfly,SCY,M,30-34,1:00.80,Richard Murphy,,Groundhog Day Meet,2015,1
+CONN,100 Y Individual Medley,SCY,M,30-34,1:23.96,Michael P Humbert,,Groundhog Day Meet,2015,1
+CONN,200 Y Individual Medley,SCY,M,30-34,2:37.29,Robert E Duguay,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Individual Medley,SCY,M,30-34,3:12.40,Michael P Humbert,,Groundhog Day Meet,2015,2
+CCAT,400 Y Individual Medley,SCY,M,30-34,4:52.00,Richard Murphy,,Groundhog Day Meet,2015,1
+UC05,50 Y Freestyle,SCY,M,35-39,24.72,Mathieu L D'Amour,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Freestyle,SCY,M,35-39,24.81,Matthew Brown,,Groundhog Day Meet,2015,2
+CONN,50 Y Freestyle,SCY,M,35-39,24.94,Erik Higgens,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CCAT,100 Y Freestyle,SCY,M,35-39,56.84,Richard Murphy,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Freestyle,SCY,M,35-39,57.32,Erik Higgens,,Wilton YMCA Wahoo Masters National Prep,2015,2
+CONN,100 Y Freestyle,SCY,M,35-39,1:08.09,Matthew C Parkhouse,,Groundhog Day Meet,2015,3
+CCAT,200 Y Freestyle,SCY,M,35-39,2:01.96,Richard Murphy,,CT Masters' Swim Meet,2015,1
+CONN,500 Y Freestyle,SCY,M,35-39,5:17.33,Jeremy C Virgil,,Groundhog Day Meet,2015,1
+CONN,500 Y Freestyle,SCY,M,35-39,7:04.78,Matthew C Parkhouse,,Groundhog Day Meet,2015,2
+UC05,50 Y Backstroke,SCY,M,35-39,26.64,Mathieu L D'Amour,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Backstroke,SCY,M,35-39,30.81,Erik Higgens,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Backstroke,SCY,M,35-39,1:02.31,Jeremy C Virgil,,Groundhog Day Meet,2015,1
+CONN,100 Y Backstroke,SCY,M,35-39,1:10.56,Erik Higgens,,Groundhog Day Meet,2015,2
+CONN,100 Y Backstroke,SCY,M,35-39,1:30.77,Matthew C Parkhouse,,Groundhog Day Meet,2015,3
+UC05,50 Y Breaststroke,SCY,M,35-39,33.17,Matthew Brown,,Groundhog Day Meet,2015,1
+UC05,50 Y Butterfly,SCY,M,35-39,26.50,Mathieu L D'Amour,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Butterfly,SCY,M,35-39,26.58,Jeremy C Virgil,,Groundhog Day Meet,2015,2
+CCAT,50 Y Butterfly,SCY,M,35-39,26.95,Richard Murphy,,CT Masters' Swim Meet,2015,3
+CONN,50 Y Butterfly,SCY,M,35-39,36.22,Matthew C Parkhouse,,Groundhog Day Meet,2015,4
+CONN,100 Y Butterfly,SCY,M,35-39,58.12,Jeremy C Virgil,,Groundhog Day Meet,2015,1
+CCAT,100 Y Butterfly,SCY,M,35-39,59.55,Richard Murphy,,CT Masters' Swim Meet,2015,2
+UC05,100 Y Butterfly,SCY,M,35-39,59.57,Mathieu L D'Amour,,CT Masters' Swim Meet,2015,3
+CONN,200 Y Butterfly,SCY,M,35-39,2:10.24,Jeremy C Virgil,,Groundhog Day Meet,2015,1
+CCAT,100 Y Individual Medley,SCY,M,35-39,1:00.54,Richard Murphy,,CT Masters' Swim Meet,2015,1
+UC05,100 Y Individual Medley,SCY,M,35-39,1:00.64,Mathieu L D'Amour,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,35-39,1:14.46,Erik Higgens,,Groundhog Day Meet,2015,3
+CCAT,200 Y Individual Medley,SCY,M,35-39,2:19.09,Richard Murphy,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Individual Medley,SCY,M,35-39,3:10.17,Matthew C Parkhouse,,Groundhog Day Meet,2015,2
+CPCT,50 Y Freestyle,SCY,M,40-44,21.63,Cliff F Blaze,,2015 Senior Metropolitan Winter Championships,2015,1
+CONN,50 Y Freestyle,SCY,M,40-44,26.03,Stephen G Akers,,Groundhog Day Meet,2015,2
+CONN,50 Y Freestyle,SCY,M,40-44,30.75,Ken Clark,,Groundhog Day Meet,2015,3
+CONN,50 Y Freestyle,SCY,M,40-44,32.83,Patrick M O'Donnell,,Groundhog Day Meet,2015,4
+CPCT,100 Y Freestyle,SCY,M,40-44,48.65,Cliff F Blaze,,2015 Senior Metropolitan Winter Championships,2015,1
+CONN,100 Y Freestyle,SCY,M,40-44,51.31,Stephen G Akers,,NE LMSC SCY Championships,2015,2
+CPCT,100 Y Freestyle,SCY,M,40-44,57.09,Milos Drienik,,Groundhog Day Meet,2015,3
+CONN,100 Y Freestyle,SCY,M,40-44,1:09.77,Ken Clark,,Groundhog Day Meet,2015,4
+CONN,100 Y Freestyle,SCY,M,40-44,1:16.06,Patrick M O'Donnell,,Groundhog Day Meet,2015,5
+CONN,200 Y Freestyle,SCY,M,40-44,1:51.57,Stephen G Akers,,NE LMSC SCY Championships,2015,1
+CPCT,200 Y Freestyle,SCY,M,40-44,2:07.28,Milos Drienik,,Groundhog Day Meet,2015,2
+CONN,200 Y Freestyle,SCY,M,40-44,2:33.72,Ken Clark,,Groundhog Day Meet,2015,3
+CONN,500 Y Freestyle,SCY,M,40-44,5:02.77,Stephen G Akers,,NE LMSC SCY Championships,2015,1
+CPCT,500 Y Freestyle,SCY,M,40-44,5:48.71,Milos Drienik,,Groundhog Day Meet,2015,2
+UC05,500 Y Freestyle,SCY,M,40-44,5:53.29,Michael J Spears,,CT Masters' Swim Meet,2015,3
+CONN,500 Y Freestyle,SCY,M,40-44,6:59.76,Ken Clark,,Groundhog Day Meet,2015,4
+UC05,50 Y Backstroke,SCY,M,40-44,30.93,Michael J Spears,,CT Masters' Swim Meet,2015,1
+CPCT,100 Y Backstroke,SCY,M,40-44,1:01.54,Milos Drienik,,Groundhog Day Meet,2015,1
+CONN,100 Y Backstroke,SCY,M,40-44,1:30.46,Patrick M O'Donnell,,Groundhog Day Meet,2015,2
+CPCT,200 Y Backstroke,SCY,M,40-44,2:15.93,Milos Drienik,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,M,40-44,33.02,Jeffrey A Stoecker,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Breaststroke,SCY,M,40-44,33.51,Michael J Spears,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Breaststroke,SCY,M,40-44,39.58,Ken Clark,,Groundhog Day Meet,2015,3
+CONN,50 Y Breaststroke,SCY,M,40-44,47.48,Patrick M O'Donnell,,Groundhog Day Meet,2015,4
+CONN,100 Y Breaststroke,SCY,M,40-44,1:13.70,Jeffrey A Stoecker,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Breaststroke,SCY,M,40-44,2:48.54,Jeffrey A Stoecker,,CT Masters' Swim Meet,2015,1
+UC05,50 Y Butterfly,SCY,M,40-44,30.03,Michael J Spears,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Butterfly,SCY,M,40-44,46.34,Patrick M O'Donnell,,Groundhog Day Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,40-44,1:04.67,Stephen G Akers,,NE LMSC SCY Championships,2015,1
+UC05,100 Y Individual Medley,SCY,M,40-44,1:07.19,Michael J Spears,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,40-44,1:09.04,Jeffrey A Stoecker,,CT Masters' Swim Meet,2015,3
+CONN,200 Y Individual Medley,SCY,M,40-44,2:23.01,Stephen G Akers,,NE LMSC SCY Championships,2015,1
+CONN,50 Y Freestyle,SCY,M,45-49,22.52,Myles G Lynch,,2015 YMCA Masters Nationals,2015,1
+UC05,50 Y Freestyle,SCY,M,45-49,25.01,Michael W Zimmerman,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Freestyle,SCY,M,45-49,26.52,Chuck Sala,,Groundhog Day Meet,2015,3
+UC05,50 Y Freestyle,SCY,M,45-49,28.38,Christopher M Spearing,,Groundhog Day Meet,2015,4
+CONN,50 Y Freestyle,SCY,M,45-49,29.33,Steve R Mentz,,Groundhog Day Meet,2015,5
+UC05,50 Y Freestyle,SCY,M,45-49,30.54,Michael C Wertheimer,,Groundhog Day Meet,2015,6
+UC05,50 Y Freestyle,SCY,M,45-49,33.26,Roger D Baxley,,Groundhog Day Meet,2015,7
+CONN,100 Y Freestyle,SCY,M,45-49,49.27,Myles G Lynch,,2015 YMCA Masters Nationals,2015,1
+UC05,100 Y Freestyle,SCY,M,45-49,55.33,Michael W Zimmerman,,CT Masters' Swim Meet,2015,2
+UC05,100 Y Freestyle,SCY,M,45-49,56.78,Arthur F Apgar,,Groundhog Day Meet,2015,3
+CONN,100 Y Freestyle,SCY,M,45-49,59.86,Chuck Sala,,Groundhog Day Meet,2015,4
+CONN,100 Y Freestyle,SCY,M,45-49,1:05.78,Peter D Sheldrick,,NE LMSC SCY Championships,2015,5
+UC05,100 Y Freestyle,SCY,M,45-49,1:06.95,Michael C Wertheimer,,Groundhog Day Meet,2015,6
+CONN,100 Y Freestyle,SCY,M,45-49,1:07.80,Steve R Mentz,,Groundhog Day Meet,2015,7
+UC05,100 Y Freestyle,SCY,M,45-49,1:13.99,Roger D Baxley,,Groundhog Day Meet,2015,8
+CONN,200 Y Freestyle,SCY,M,45-49,1:52.06,Myles G Lynch,,2015 YMCA Masters Nationals,2015,1
+UC05,200 Y Freestyle,SCY,M,45-49,2:25.06,Michael C Wertheimer,,CT Masters' Swim Meet,2015,2
+CONN,200 Y Freestyle,SCY,M,45-49,2:27.50,Peter D Sheldrick,,NE LMSC SCY Championships,2015,3
+UC05,200 Y Freestyle,SCY,M,45-49,2:47.31,Roger D Baxley,,Groundhog Day Meet,2015,4
+CONN,500 Y Freestyle,SCY,M,45-49,5:22.85,Myles G Lynch,,St. Patrick's Day Invitational,2015,1
+UC05,500 Y Freestyle,SCY,M,45-49,6:24.21,Christopher M Spearing,,Groundhog Day Meet,2015,2
+CONN,500 Y Freestyle,SCY,M,45-49,6:43.25,Anthony J Palluzzi,,Groundhog Day Meet,2015,3
+UC05,500 Y Freestyle,SCY,M,45-49,7:42.85,Roger D Baxley,,Groundhog Day Meet,2015,4
+CONN,50 Y Backstroke,SCY,M,45-49,29.01,Gregory O Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Backstroke,SCY,M,45-49,1:01.14,Gregory O Sargent,,2015 YMCA Masters Nationals,2015,1
+UC05,100 Y Backstroke,SCY,M,45-49,1:18.30,Christopher M Spearing,,Groundhog Day Meet,2015,2
+CONN,200 Y Backstroke,SCY,M,45-49,2:12.26,Gregory O Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Breaststroke,SCY,M,45-49,34.01,Chuck Sala,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Breaststroke,SCY,M,45-49,39.04,Anthony J Palluzzi,,Groundhog Day Meet,2015,2
+UC05,50 Y Breaststroke,SCY,M,45-49,44.74,Roger D Baxley,,Groundhog Day Meet,2015,3
+CONN,100 Y Breaststroke,SCY,M,45-49,1:03.34,Myles G Lynch,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Breaststroke,SCY,M,45-49,1:15.33,Chuck Sala,,CT Masters' Swim Meet,2015,2
+CONN,200 Y Breaststroke,SCY,M,45-49,2:16.68,Myles G Lynch,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Breaststroke,SCY,M,45-49,3:17.06,Anthony J Palluzzi,,Groundhog Day Meet,2015,2
+UC05,50 Y Butterfly,SCY,M,45-49,26.94,Arthur F Apgar,,Groundhog Day Meet,2015,1
+CONN,50 Y Butterfly,SCY,M,45-49,30.20,Anthony J Palluzzi,,Groundhog Day Meet,2015,2
+CONN,50 Y Butterfly,SCY,M,45-49,30.85,Peter D Sheldrick,,NE LMSC SCY Championships,2015,3
+UC05,50 Y Butterfly,SCY,M,45-49,34.21,Michael C Wertheimer,,CT Masters' Swim Meet,2015,4
+CONN,50 Y Butterfly,SCY,M,45-49,39.06,Steve R Mentz,,Groundhog Day Meet,2015,5
+UC05,100 Y Butterfly,SCY,M,45-49,59.56,Arthur F Apgar,,Groundhog Day Meet,2015,1
+CONN,100 Y Butterfly,SCY,M,45-49,1:16.68,Peter D Sheldrick,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,45-49,56.20,Myles G Lynch,,2015 YMCA Masters Nationals,2015,1
+UC05,100 Y Individual Medley,SCY,M,45-49,1:07.93,Michael W Zimmerman,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,45-49,1:13.21,Anthony J Palluzzi,,Groundhog Day Meet,2015,3
+UC05,100 Y Individual Medley,SCY,M,45-49,1:18.36,Michael C Wertheimer,,Groundhog Day Meet,2015,4
+CONN,100 Y Individual Medley,SCY,M,45-49,1:25.29,Steve R Mentz,,Groundhog Day Meet,2015,5
+CONN,200 Y Individual Medley,SCY,M,45-49,2:09.61,Myles G Lynch,,St. Patrick's Day Invitational,2015,1
+UC05,200 Y Individual Medley,SCY,M,45-49,2:45.01,Christopher M Spearing,,Groundhog Day Meet,2015,2
+CONN,200 Y Individual Medley,SCY,M,45-49,3:07.54,Steve R Mentz,,Groundhog Day Meet,2015,3
+CONN,400 Y Individual Medley,SCY,M,45-49,5:17.09,Hugh F Murray,,Groundhog Day Meet,2015,1
+CONN,50 Y Freestyle,SCY,M,50-54,23.68,Andy Reul,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,M,50-54,25.59,Douglas A Gugino,,NE LMSC SCY Championships,2015,2
+UC05,50 Y Freestyle,SCY,M,50-54,28.04,Ron Carter,,Groundhog Day Meet,2015,3
+CONN,50 Y Freestyle,SCY,M,50-54,34.51,Bill Lynch,,2015 YMCA Masters Nationals,2015,4
+CONN,100 Y Freestyle,SCY,M,50-54,52.31,Andy Reul,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Freestyle,SCY,M,50-54,55.31,Scott D Brown,,Spring Classic Masters Meet,2015,2
+CONN,100 Y Freestyle,SCY,M,50-54,55.71,Arthur Gunzl,,NE LMSC SCY Championships,2015,3
+CONN,100 Y Freestyle,SCY,M,50-54,57.00,Douglas A Gugino,,NE LMSC SCY Championships,2015,4
+CONN,100 Y Freestyle,SCY,M,50-54,57.86,Benjamin W Wyckoff,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,5
+UC05,100 Y Freestyle,SCY,M,50-54,1:00.20,Ron Carter,,Groundhog Day Meet,2015,6
+CONN,100 Y Freestyle,SCY,M,50-54,1:17.11,Bill Lynch,,2015 YMCA Masters Nationals,2015,7
+CONN,200 Y Freestyle,SCY,M,50-54,1:53.06,Andy Reul,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Freestyle,SCY,M,50-54,2:04.75,Arthur Gunzl,,NE LMSC SCY Championships,2015,2
+CONN,200 Y Freestyle,SCY,M,50-54,2:12.93,Douglas A Gugino,,CT Masters' Swim Meet,2015,3
+CONN,500 Y Freestyle,SCY,M,50-54,5:10.03,Andy Reul,,2015 YMCA Masters Nationals,2015,1
+CONN,500 Y Freestyle,SCY,M,50-54,5:25.66,Scott D Brown,,Spring Classic Masters Meet,2015,2
+CONN,1000 Y Freestyle,SCY,M,50-54,10:37.48,Andy Reul,,2015 YMCA Masters Nationals,2015,1
+CONN,1650 Y Freestyle,SCY,M,50-54,18:19.31,Andy Reul,,2015 YMCA Masters Nationals,2015,1
+CONN,1650 Y Freestyle,SCY,M,50-54,18:33.13,Jeff Sargent,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Backstroke,SCY,M,50-54,27.79,Jeff Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,M,50-54,28.87,Arthur Gunzl,,NE LMSC SCY Championships,2015,2
+CONN,100 Y Backstroke,SCY,M,50-54,59.75,Jeff Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Backstroke,SCY,M,50-54,1:02.46,Arthur Gunzl,,NE LMSC SCY Championships,2015,2
+CONN,200 Y Backstroke,SCY,M,50-54,2:13.98,Jeff Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Backstroke,SCY,M,50-54,2:18.66,Arthur Gunzl,,NE LMSC SCY Championships,2015,2
+CONN,200 Y Backstroke,SCY,M,50-54,2:55.08,Douglas A Gugino,,Groundhog Day Meet,2015,3
+CONN,50 Y Breaststroke,SCY,M,50-54,30.95,Douglas A Gugino,,Groundhog Day Meet,2015,1
+CONN,50 Y Breaststroke,SCY,M,50-54,31.14,Jeff Sargent,,Groundhog Day Meet,2015,2
+UC05,50 Y Breaststroke,SCY,M,50-54,33.43,Ron Carter,,Groundhog Day Meet,2015,3
+CONN,100 Y Breaststroke,SCY,M,50-54,1:07.95,Jeff Sargent,,2015 YMCA Masters Nationals,2015,1
+UC05,200 Y Breaststroke,SCY,M,50-54,2:42.90,Ron Carter,,Groundhog Day Meet,2015,1
+CONN,50 Y Butterfly,SCY,M,50-54,26.94,Jeff Sargent,,Groundhog Day Meet,2015,1
+CONN,50 Y Butterfly,SCY,M,50-54,27.76,Benjamin W Wyckoff,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,2
+CONN,50 Y Butterfly,SCY,M,50-54,30.42,Douglas A Gugino,,Groundhog Day Meet,2015,3
+CONN,100 Y Butterfly,SCY,M,50-54,1:02.13,Benjamin W Wyckoff,,NE LMSC SCY Championships,2015,1
+CONN,200 Y Butterfly,SCY,M,50-54,2:14.52,Scott D Brown,,Spring Classic Masters Meet,2015,1
+CONN,200 Y Butterfly,SCY,M,50-54,2:35.74,Benjamin W Wyckoff,,NE LMSC SCY Championships,2015,2
+CONN,100 Y Individual Medley,SCY,M,50-54,1:00.75,Jeff Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:08.74,Benjamin W Wyckoff,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,2
+CONN,100 Y Individual Medley,SCY,M,50-54,1:09.42,Douglas A Gugino,,Groundhog Day Meet,2015,3
+CONN,400 Y Individual Medley,SCY,M,50-54,4:49.17,Jeff Sargent,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,M,55-59,26.48,Charles F Lang,,Groundhog Day Meet,2015,1
+CONN,50 Y Freestyle,SCY,M,55-59,28.02,Lorren Elkins,,Groundhog Day Meet,2015,2
+CONN,50 Y Freestyle,SCY,M,55-59,28.47,David F Lewis,,2015 YMCA Masters Nationals,2015,3
+CONN,50 Y Freestyle,SCY,M,55-59,28.54,Steven J Jaroszewski,,CT Masters' Swim Meet,2015,4
+CONN,50 Y Freestyle,SCY,M,55-59,28.99,Peter Canning,,NE LMSC SCY Championships,2015,5
+UC05,50 Y Freestyle,SCY,M,55-59,29.02,Del Cummings,,Groundhog Day Meet,2015,6
+UC05,50 Y Freestyle,SCY,M,55-59,32.32,Paul M Potenza,,Groundhog Day Meet,2015,7
+CONN,50 Y Freestyle,SCY,M,55-59,32.79,Michael F Barry,,Groundhog Day Meet,2015,8
+CONN,50 Y Freestyle,SCY,M,55-59,34.88,Robin A Myers,,Groundhog Day Meet,2015,9
+CONN,100 Y Freestyle,SCY,M,55-59,59.25,Charles F Lang,,CT Masters' Swim Meet,2015,1
+UC05,100 Y Freestyle,SCY,M,55-59,1:01.55,Del Cummings,,Groundhog Day Meet,2015,2
+CONN,100 Y Freestyle,SCY,M,55-59,1:03.43,Steven J Jaroszewski,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CONN,100 Y Freestyle,SCY,M,55-59,1:03.78,David F Lewis,,2015 YMCA Masters Nationals,2015,4
+CONN,100 Y Freestyle,SCY,M,55-59,1:09.59,Peter Canning,,NE LMSC SCY Championships,2015,5
+CONN,100 Y Freestyle,SCY,M,55-59,1:12.48,Michael F Barry,,Groundhog Day Meet,2015,6
+UC05,100 Y Freestyle,SCY,M,55-59,1:13.70,Paul M Potenza,,Groundhog Day Meet,2015,7
+CONN,200 Y Freestyle,SCY,M,55-59,2:12.01,Charles F Lang,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Freestyle,SCY,M,55-59,2:19.66,David F Lewis,,2015 YMCA Masters Nationals,2015,2
+UC05,200 Y Freestyle,SCY,M,55-59,2:20.67,Del Cummings,,Groundhog Day Meet,2015,3
+CONN,200 Y Freestyle,SCY,M,55-59,2:21.52,Steven J Jaroszewski,,CT Masters' Swim Meet,2015,4
+CONN,200 Y Freestyle,SCY,M,55-59,2:44.14,Michael F Barry,,Groundhog Day Meet,2015,5
+CONN,200 Y Freestyle,SCY,M,55-59,2:44.57,Peter Canning,,Wilton YMCA Wahoo Masters National Prep,2015,6
+CONN,500 Y Freestyle,SCY,M,55-59,6:15.82,David F Lewis,,2015 YMCA Masters Nationals,2015,1
+CONN,500 Y Freestyle,SCY,M,55-59,6:21.18,Charles F Lang,,Wilton YMCA Wahoo Masters National Prep,2015,2
+UC05,500 Y Freestyle,SCY,M,55-59,6:29.36,Del Cummings,,Groundhog Day Meet,2015,3
+CONN,500 Y Freestyle,SCY,M,55-59,8:00.00,Michael F Barry,,CT Masters' Swim Meet,2015,4
+CONN,1000 Y Freestyle,SCY,M,55-59,13:01.60,David F Lewis,,2015 YMCA Masters Nationals,2015,1
+CONN,1650 Y Freestyle,SCY,M,55-59,21:26.76,David F Lewis,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,M,55-59,46.02,Peter Canning,,Groundhog Day Meet,2015,1
+CONN,50 Y Backstroke,SCY,M,55-59,49.50,Robin A Myers,,Groundhog Day Meet,2015,2
+CONN,50 Y Breaststroke,SCY,M,55-59,40.83,Peter Canning,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Breaststroke,SCY,M,55-59,43.48,Michael F Barry,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Breaststroke,SCY,M,55-59,1:38.67,Michael F Barry,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Breaststroke,SCY,M,55-59,2:59.33,David F Lewis,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Butterfly,SCY,M,55-59,29.86,Lorren Elkins,,Groundhog Day Meet,2015,1
+CONN,50 Y Butterfly,SCY,M,55-59,32.46,Steven J Jaroszewski,,CT Masters' Swim Meet,2015,2
+CONN,50 Y Butterfly,SCY,M,55-59,40.68,Peter Canning,,NE LMSC SCY Championships,2015,3
+CONN,100 Y Butterfly,SCY,M,55-59,1:18.90,David F Lewis,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Butterfly,SCY,M,55-59,3:06.69,David F Lewis,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:10.08,Lorren Elkins,,Groundhog Day Meet,2015,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:13.91,Steven J Jaroszewski,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,55-59,1:16.07,David F Lewis,,2015 YMCA Masters Nationals,2015,3
+CONN,100 Y Individual Medley,SCY,M,55-59,1:23.95,Peter Canning,,CT Masters' Swim Meet,2015,4
+UC05,100 Y Individual Medley,SCY,M,55-59,1:29.06,Paul M Potenza,,Groundhog Day Meet,2015,5
+CONN,200 Y Individual Medley,SCY,M,55-59,3:40.77,Peter Canning,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,50 Y Freestyle,SCY,M,60-64,26.87,John M Craig,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Freestyle,SCY,M,60-64,28.07,David R Ameden,,2015 YMCA Masters Nationals,2015,2
+CONN,50 Y Freestyle,SCY,M,60-64,28.81,Robert M Collins,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CONN,50 Y Freestyle,SCY,M,60-64,29.24,William J Geoghegan,,NE LMSC SCY Championships,2015,4
+CONN,50 Y Freestyle,SCY,M,60-64,38.52,Rick Spear,,Wilton YMCA Wahoo Masters National Prep,2015,5
+CONN,100 Y Freestyle,SCY,M,60-64,1:00.39,David R Ameden,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Freestyle,SCY,M,60-64,1:04.92,Louis F Fabrizio,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Freestyle,SCY,M,60-64,1:06.17,Robert M Collins,,Wilton YMCA Wahoo Masters National Prep,2015,3
+UC05,100 Y Freestyle,SCY,M,60-64,1:11.63,Miles Ahrens,,CT Masters' Swim Meet,2015,4
+CONN,100 Y Freestyle,SCY,M,60-64,1:19.33,Rick Spear,,CT Masters' Swim Meet,2015,5
+CONN,200 Y Freestyle,SCY,M,60-64,2:17.31,John M Craig,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Freestyle,SCY,M,60-64,2:24.56,Louis F Fabrizio,,CT Masters' Swim Meet,2015,2
+CONN,200 Y Freestyle,SCY,M,60-64,2:28.97,David R Ameden,,Groundhog Day Meet,2015,3
+CONN,200 Y Freestyle,SCY,M,60-64,2:53.72,Rick Spear,,CT Masters' Swim Meet,2015,4
+CONN,500 Y Freestyle,SCY,M,60-64,6:40.70,Louis F Fabrizio,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Backstroke,SCY,M,60-64,1:08.15,John M Craig,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Breaststroke,SCY,M,60-64,37.38,David R Ameden,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Breaststroke,SCY,M,60-64,1:21.42,David R Ameden,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Butterfly,SCY,M,60-64,27.14,John M Craig,,Wilton YMCA Wahoo Masters National Prep,2015,1
+UC05,50 Y Butterfly,SCY,M,60-64,30.97,Miles Ahrens,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Butterfly,SCY,M,60-64,59.56,John M Craig,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Butterfly,SCY,M,60-64,2:14.83,John M Craig,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Butterfly,SCY,M,60-64,3:06.64,William J Geoghegan,,NE LMSC SCY Championships,2015,2
+UC05,100 Y Individual Medley,SCY,M,60-64,1:15.40,Miles Ahrens,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Individual Medley,SCY,M,60-64,1:15.75,Louis F Fabrizio,,CT Masters' Swim Meet,2015,2
+CONN,100 Y Individual Medley,SCY,M,60-64,1:17.00,William J Geoghegan,,Wilton YMCA Wahoo Masters National Prep,2015,3
+CONN,200 Y Individual Medley,SCY,M,60-64,2:46.10,Louis F Fabrizio,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Individual Medley,SCY,M,60-64,2:53.16,William J Geoghegan,,Wilton YMCA Wahoo Masters National Prep,2015,2
+CONN,50 Y Freestyle,SCY,M,65-69,29.88,John T Marchacos,,Groundhog Day Meet,2015,1
+CCAT,100 Y Freestyle,SCY,M,65-69,1:05.36,Norm Davidson,,Florida International Senior Games &amp; State Championships,2015,1
+CCAT,200 Y Freestyle,SCY,M,65-69,2:33.57,Norm Davidson,,Florida International Senior Games &amp; State Championships,2015,1
+CONN,200 Y Freestyle,SCY,M,65-69,2:58.31,John Schwarten,,2015 YMCA Masters Nationals,2015,2
+CONN,200 Y Freestyle,SCY,M,65-69,2:59.61,Paul M Epstein,,Groundhog Day Meet,2015,3
+CCAT,500 Y Freestyle,SCY,M,65-69,6:57.05,Norm Davidson,,Florida International Senior Games &amp; State Championships,2015,1
+CONN,500 Y Freestyle,SCY,M,65-69,7:34.73,Paul M Epstein,,CT Masters' Swim Meet,2015,2
+CONN,500 Y Freestyle,SCY,M,65-69,8:32.57,John Schwarten,,2015 YMCA Masters Nationals,2015,3
+CONN,1000 Y Freestyle,SCY,M,65-69,16:22.98,John Schwarten,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,M,65-69,37.48,John Schwarten,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Backstroke,SCY,M,65-69,53.80,Robert M Cahill,,Groundhog Day Meet,2015,2
+CONN,100 Y Backstroke,SCY,M,65-69,1:22.99,John Schwarten,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Backstroke,SCY,M,65-69,1:45.18,Robert M Cahill,,Groundhog Day Meet,2015,2
+CONN,200 Y Backstroke,SCY,M,65-69,2:59.29,John Schwarten,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Backstroke,SCY,M,65-69,3:37.08,Robert M Cahill,,Groundhog Day Meet,2015,2
+CONN,50 Y Breaststroke,SCY,M,65-69,44.03,Paul M Epstein,,CT Masters' Swim Meet,2015,1
+CONN,100 Y Breaststroke,SCY,M,65-69,1:36.64,Paul M Epstein,,CT Masters' Swim Meet,2015,1
+CCAT,50 Y Butterfly,SCY,M,65-69,31.43,Norm Davidson,,Florida International Senior Games &amp; State Championships,2015,1
+CONN,50 Y Butterfly,SCY,M,65-69,32.22,John T Marchacos,,Groundhog Day Meet,2015,2
+CONN,50 Y Butterfly,SCY,M,65-69,39.75,Robert M Cahill,,Groundhog Day Meet,2015,3
+CONN,200 Y Butterfly,SCY,M,65-69,3:07.10,William J Geoghegan,,CT Masters' Swim Meet,2015,1
+CONN,200 Y Individual Medley,SCY,M,65-69,3:21.14,Robert M Cahill,,Groundhog Day Meet,2015,1
+CONN,100 Y Freestyle,SCY,M,70-74,1:10.24,Michael A Laux,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,200 Y Freestyle,SCY,M,70-74,2:31.69,Michael A Laux,,2015 YMCA Masters Nationals,2015,1
+CONN,500 Y Freestyle,SCY,M,70-74,7:18.37,Michael A Laux,,2015 YMCA Masters Nationals,2015,1
+CONN,1000 Y Freestyle,SCY,M,70-74,14:51.96,Michael A Laux,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Breaststroke,SCY,M,70-74,37.48,Michael A Laux,,2015 YMCA Masters Nationals,2015,1
+CONN,100 Y Breaststroke,SCY,M,70-74,1:25.51,Michael A Laux,,2015 YMCA Masters Nationals,2015,1
+CONN,200 Y Breaststroke,SCY,M,70-74,3:08.15,Michael A Laux,,2015 YMCA Masters Nationals,2015,1
+CONN,50 Y Butterfly,SCY,M,70-74,32.92,David M Kirby,,Groundhog Day Meet,2015,1
+CONN,100 Y Butterfly,SCY,M,70-74,1:15.99,David M Kirby,,Groundhog Day Meet,2015,1
+CONN,50 Y Freestyle,SCY,M,75-79,56.76,James F Towne,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Backstroke,SCY,M,75-79,1:08.98,James F Towne,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Breaststroke,SCY,M,75-79,1:28.18,James F Towne,,CT Masters' Swim Meet,2015,1
+CONN,50 Y Freestyle,SCY,M,80-84,41.36,Howard Alkoff,,Groundhog Day Meet,2015,1
+CONN,100 Y Freestyle,SCY,M,80-84,1:27.80,Howard Alkoff,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,200 Y Freestyle,SCY,M,80-84,3:25.24,Howard Alkoff,,Wilton YMCA Wahoo Masters National Prep,2015,1
+CONN,500 Y Freestyle,SCY,M,80-84,9:17.43,Howard Alkoff,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,50 Y Backstroke,SCY,M,90-94,1:58.89,Vladimir I Ouchakof,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,100 Y Backstroke,SCY,M,90-94,4:52.70,Vladimir I Ouchakof,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,200 Y Backstroke,SCY,M,90-94,8:00.23,Vladimir I Ouchakof,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,100 Y Individual Medley,SCY,M,90-94,5:47.32,Vladimir I Ouchakof,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+CONN,200 Y Individual Medley,SCY,M,90-94,13:25.64,Vladimir I Ouchakof,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1

@@ -1,0 +1,67 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+RIDG,50 Y Freestyle,SCY,W,18-24,28.00,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,100 Y Freestyle,SCY,W,18-24,59.70,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,200 Y Freestyle,SCY,W,18-24,2:11.08,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,500 Y Freestyle,SCY,W,18-24,5:54.62,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,50 Y Backstroke,SCY,W,18-24,33.94,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,100 Y Backstroke,SCY,W,18-24,1:13.52,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,50 Y Butterfly,SCY,W,18-24,31.26,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,100 Y Butterfly,SCY,W,18-24,1:07.82,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,100 Y Individual Medley,SCY,W,18-24,1:11.64,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+RIDG,200 Y Individual Medley,SCY,W,18-24,2:34.19,Annamarie Lyst,,South Central Zone SCY Champs,2004,1
+DAMM,50 Y Freestyle,SCY,W,30-34,32.22,Lisa Leslie,,DAM Spring Short Course Meet,2004,1
+DAMM,100 Y Backstroke,SCY,W,30-34,1:24.00,Lisa Leslie,,DAM Spring Short Course Meet,2004,1
+DAMM,100 Y Individual Medley,SCY,W,30-34,1:19.90,Lisa Leslie,,DAM Spring Short Course Meet,2004,1
+DAMM,200 Y Individual Medley,SCY,W,30-34,2:52.09,Lisa Leslie,,DAM Spring Short Course Meet,2004,1
+LAC,1650 Y Freestyle,SCY,W,35-39,19:41.14,Wendy Segrest,,DAM Spring Short Course Meet,2004,1
+LAC,50 Y Backstroke,SCY,W,35-39,30.34,Wendy Segrest,,DAM Spring Short Course Meet,2004,1
+LAC,100 Y Backstroke,SCY,W,35-39,1:04.83,Wendy Segrest,,DAM Spring Short Course Meet,2004,1
+LAC,200 Y Backstroke,SCY,W,35-39,2:25.04,Wendy Segrest,,DAM Spring Short Course Meet,2004,1
+TR,50 Y Breaststroke,SCY,W,35-39,40.17,Meredith Rhodenbaugh,,2004 USMS Short Course Nationals,2004,1
+DAMM,50 Y Butterfly,SCY,W,40-44,29.68,Lynn Barnhart,,DAM Spring Short Course Meet,2004,1
+DAMM,100 Y Butterfly,SCY,W,40-44,1:05.96,Lynn Barnhart,,DAM Spring Short Course Meet,2004,1
+DAMM,200 Y Individual Medley,SCY,W,40-44,2:30.52,Lynn Barnhart,,DAM Spring Short Course Meet,2004,1
+RIDG,50 Y Freestyle,SCY,W,45-49,36.96,Keira Koslowsky,,South Central Zone SCY Champs,2004,1
+SWAM,500 Y Freestyle,SCY,W,45-49,9:20.55,Anne Rowe,,South Central Zone SCY Champs,2004,1
+SWAM,1000 Y Freestyle,SCY,W,45-49,19:38.55,Anne Rowe,,South Central Zone SCY Champs,2004,1
+RIDG,50 Y Backstroke,SCY,W,45-49,45.77,Keira Koslowsky,,South Central Zone SCY Champs,2004,1
+RIDG,100 Y Backstroke,SCY,W,45-49,1:40.77,Keira Koslowsky,,South Central Zone SCY Champs,2004,1
+SWAM,100 Y Backstroke,SCY,W,45-49,1:48.61,Anne Rowe,,South Central Zone SCY Champs,2004,2
+SWAM,200 Y Backstroke,SCY,W,45-49,3:55.37,Anne Rowe,,South Central Zone SCY Champs,2004,1
+RIDG,50 Y Breaststroke,SCY,W,45-49,50.28,Keira Koslowsky,,South Central Zone SCY Champs,2004,1
+SWAM,200 Y Breaststroke,SCY,W,45-49,4:20.95,Anne Rowe,,South Central Zone SCY Champs,2004,1
+RIDG,50 Y Butterfly,SCY,W,45-49,35.48,Keira Koslowsky,,South Central Zone SCY Champs,2004,1
+SWAM,100 Y Butterfly,SCY,W,45-49,1:43.60,Anne Rowe,,South Central Zone SCY Champs,2004,1
+SWAM,200 Y Butterfly,SCY,W,45-49,4:05.13,Anne Rowe,,South Central Zone SCY Champs,2004,1
+RIDG,100 Y Individual Medley,SCY,W,45-49,1:41.59,Keira Koslowsky,,South Central Zone SCY Champs,2004,1
+SWAM,200 Y Individual Medley,SCY,W,45-49,3:44.08,Anne Rowe,,South Central Zone SCY Champs,2004,1
+SWAM,400 Y Individual Medley,SCY,W,45-49,8:09.22,Anne Rowe,,South Central Zone SCY Champs,2004,1
+SWAM,500 Y Freestyle,SCY,W,50-54,8:32.21,Claire A Christian,,DAM Spring Short Course Meet,2004,1
+SWAM,100 Y Individual Medley,SCY,W,50-54,1:36.14,Claire A Christian,,DAM Spring Short Course Meet,2004,1
+SWAM,200 Y Individual Medley,SCY,W,50-54,3:28.10,Claire A Christian,,DAM Spring Short Course Meet,2004,1
+DAMM,50 Y Freestyle,SCY,W,55-59,44.94,Jean Andresen,,DAM Spring Short Course Meet,2004,1
+DAMM,100 Y Freestyle,SCY,W,55-59,1:39.16,Jean Andresen,,DAM Spring Short Course Meet,2004,1
+DAMM,50 Y Breaststroke,SCY,W,55-59,54.11,Jean Andresen,,DAM Spring Short Course Meet,2004,1
+UNAT,50 Y Freestyle,SCY,M,25-29,25.07,Terry Welch,,DAM Spring Short Course Meet,2004,1
+UNAT,100 Y Breaststroke,SCY,M,25-29,1:07.23,Terry Welch,,DAM Spring Short Course Meet,2004,1
+UNAT,50 Y Butterfly,SCY,M,25-29,26.74,Terry Welch,,DAM Spring Short Course Meet,2004,1
+UNAT,200 Y Individual Medley,SCY,M,25-29,2:18.64,Terry Welch,,DAM Spring Short Course Meet,2004,1
+UNAT,400 Y Individual Medley,SCY,M,25-29,4:58.84,Terry Welch,,DAM Spring Short Course Meet,2004,1
+LAC,100 Y Freestyle,SCY,M,35-39,1:14.69,John Pouncy,,DAM Spring Short Course Meet,2004,1
+LAC,500 Y Freestyle,SCY,M,35-39,7:11.50,John Pouncy,,DAM Spring Short Course Meet,2004,1
+LAC,1650 Y Freestyle,SCY,M,35-39,25:11.13,John Pouncy,,DAM Spring Short Course Meet,2004,1
+TR,50 Y Freestyle,SCY,M,40-44,21.55,Greg S Rhodenbaugh,,2004 USMS Short Course Nationals,2004,1
+TR,50 Y Breaststroke,SCY,M,40-44,26.13,Greg S Rhodenbaugh,,2004 USMS Short Course Nationals,2004,1
+TR,100 Y Breaststroke,SCY,M,40-44,57.84,Greg S Rhodenbaugh,,2004 USMS Short Course Nationals,2004,1
+DAMM,50 Y Freestyle,SCY,M,45-49,25.93,Jeffrey Veazey,,DAM Spring Short Course Meet,2004,1
+UNAT,50 Y Freestyle,SCY,M,45-49,30.61,Gordon McAleb,,DAM Spring Short Course Meet,2004,2
+DAMM,100 Y Freestyle,SCY,M,45-49,56.43,Jeffrey Veazey,,DAM Spring Short Course Meet,2004,1
+UNAT,100 Y Freestyle,SCY,M,45-49,1:10.06,Gordon McAleb,,DAM Spring Short Course Meet,2004,2
+DAMM,200 Y Freestyle,SCY,M,45-49,2:13.80,Jeffrey Veazey,,DAM Spring Short Course Meet,2004,1
+UNAT,50 Y Breaststroke,SCY,M,45-49,40.94,Gordon McAleb,,DAM Spring Short Course Meet,2004,1
+UNAT,100 Y Breaststroke,SCY,M,45-49,1:28.99,Gordon McAleb,,DAM Spring Short Course Meet,2004,1
+SWAM,50 Y Freestyle,SCY,M,65-69,27.80,William V Blake,,2004 USMS Short Course Nationals,2004,1
+SWAM,100 Y Freestyle,SCY,M,65-69,1:03.94,William V Blake,,2004 USMS Short Course Nationals,2004,1
+SWAM,200 Y Freestyle,SCY,M,65-69,2:33.10,William V Blake,,2004 USMS Short Course Nationals,2004,1
+SWAM,500 Y Freestyle,SCY,M,65-69,7:18.78,William V Blake,,2004 USMS Short Course Nationals,2004,1
+SWAM,1000 Y Freestyle,SCY,M,65-69,15:16.80,William V Blake,,South Central Zone SCY Champs,2004,1

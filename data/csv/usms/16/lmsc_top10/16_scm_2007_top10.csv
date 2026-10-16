@@ -1,0 +1,350 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ISF,50 M Freestyle,SCM,W,25-29,28.61,Jamie L Preston,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,50 M Freestyle,SCM,W,25-29,30.14,Tammy L Huehls,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Freestyle,SCM,W,25-29,34.20,Stephanie A Phillips,,Louisville Invitational,2007,3
+ISF,400 M Freestyle,SCM,W,25-29,4:40.84,Jamie L Preston,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,50 M Backstroke,SCM,W,25-29,34.37,Tammy L Huehls,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,W,25-29,35.98,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Backstroke,SCM,W,25-29,1:14.48,Tammy L Huehls,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Backstroke,SCM,W,25-29,1:22.75,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Backstroke,SCM,W,25-29,2:35.39,Tammy L Huehls,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Breaststroke,SCM,W,25-29,35.34,Jamie L Preston,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,50 M Breaststroke,SCM,W,25-29,41.63,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Breaststroke,SCM,W,25-29,1:16.56,Jamie L Preston,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Breaststroke,SCM,W,25-29,1:22.13,Clare E Helphinstine,,Ron Johnson Invitational at Tempe,2007,2
+ISF,100 M Breaststroke,SCM,W,25-29,1:30.24,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,200 M Breaststroke,SCM,W,25-29,3:08.93,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,W,25-29,31.02,Jamie L Preston,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,50 M Butterfly,SCM,W,25-29,33.32,Clare E Helphinstine,,Ron Johnson Invitational at Tempe,2007,2
+ISF,50 M Butterfly,SCM,W,25-29,35.89,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,100 M Individual Medley,SCM,W,25-29,1:22.22,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Individual Medley,SCM,W,25-29,2:54.66,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Individual Medley,SCM,W,25-29,6:15.51,Stephanie A Phillips,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,50 M Freestyle,SCM,W,30-34,31.89,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Freestyle,SCM,W,30-34,32.52,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,50 M Freestyle,SCM,W,30-34,36.53,Sarah L Hellman,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+CSI,100 M Freestyle,SCM,W,30-34,1:11.23,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Freestyle,SCM,W,30-34,1:13.94,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,200 M Freestyle,SCM,W,30-34,2:44.33,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Freestyle,SCM,W,30-34,2:53.29,Sarah L Hellman,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,400 M Freestyle,SCM,W,30-34,5:58.67,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,800 M Freestyle,SCM,W,30-34,12:09.33,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Backstroke,SCM,W,30-34,46.58,Sarah L Hellman,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Breaststroke,SCM,W,30-34,1:35.67,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Butterfly,SCM,W,30-34,37.44,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Butterfly,SCM,W,30-34,45.20,Sarah L Hellman,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,100 M Butterfly,SCM,W,30-34,1:27.56,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,100 M Butterfly,SCM,W,30-34,1:32.51,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,200 M Butterfly,SCM,W,30-34,3:22.32,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Individual Medley,SCM,W,30-34,1:24.38,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,200 M Individual Medley,SCM,W,30-34,3:06.01,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,200 M Individual Medley,SCM,W,30-34,3:07.30,Syd R Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,400 M Individual Medley,SCM,W,30-34,6:48.26,Linda L Marvin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Freestyle,SCM,W,35-39,30.01,Michelle C Harter,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Freestyle,SCM,W,35-39,33.08,Raena A Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Freestyle,SCM,W,35-39,35.13,Bridget A Bailie,,First Colony Masters,2007,3
+NAST,50 M Freestyle,SCM,W,35-39,40.32,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,4
+NAST,100 M Freestyle,SCM,W,35-39,1:14.30,Raena A Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Freestyle,SCM,W,35-39,1:17.63,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,100 M Freestyle,SCM,W,35-39,1:32.49,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+GRIN,200 M Freestyle,SCM,W,35-39,2:26.07,Michelle C Harter,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Freestyle,SCM,W,35-39,2:45.57,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,200 M Freestyle,SCM,W,35-39,3:21.03,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,400 M Freestyle,SCM,W,35-39,5:42.87,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,W,35-39,11:40.23,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,800 M Freestyle,SCM,W,35-39,14:38.74,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,1500 M Freestyle,SCM,W,35-39,22:21.04,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,W,35-39,48.32,Bridget A Bailie,,First Colony Masters,2007,1
+NAST,50 M Backstroke,SCM,W,35-39,50.75,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,100 M Backstroke,SCM,W,35-39,1:57.84,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Backstroke,SCM,W,35-39,2:52.04,Michelle C Harter,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Backstroke,SCM,W,35-39,3:25.31,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Breaststroke,SCM,W,35-39,42.97,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Breaststroke,SCM,W,35-39,1:07.81,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Breaststroke,SCM,W,35-39,1:31.85,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Breaststroke,SCM,W,35-39,2:19.57,Jean Gileno,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Breaststroke,SCM,W,35-39,3:17.08,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Butterfly,SCM,W,35-39,39.08,Raena A Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,W,35-39,48.86,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,100 M Butterfly,SCM,W,35-39,1:27.50,Raena A Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Butterfly,SCM,W,35-39,1:52.15,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,200 M Butterfly,SCM,W,35-39,3:14.60,Raena A Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Individual Medley,SCM,W,35-39,1:25.36,Raena A Latina,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Individual Medley,SCM,W,35-39,1:30.20,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Individual Medley,SCM,W,35-39,3:17.44,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Individual Medley,SCM,W,35-39,6:55.84,Bridget A Bailie,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,W,40-44,30.99,Ilyse L Hildebrand,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,W,40-44,31.66,Victoria L Rian,,Louisville Invitational,2007,2
+ISF,100 M Freestyle,SCM,W,40-44,1:08.69,Ilyse L Hildebrand,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,100 M Freestyle,SCM,W,40-44,1:09.08,Lou Ann Dixon,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,200 M Freestyle,SCM,W,40-44,2:22.07,Victoria L Rian,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,W,40-44,10:16.66,Victoria L Rian,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,1500 M Freestyle,SCM,W,40-44,19:27.28,Victoria L Rian,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Backstroke,SCM,W,40-44,1:19.48,Victoria L Rian,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Breaststroke,SCM,W,40-44,39.07,Lou Ann Dixon,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,100 M Breaststroke,SCM,W,40-44,1:24.29,Lou Ann Dixon,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Breaststroke,SCM,W,40-44,1:29.93,Victoria L Rian,,Louisville Invitational,2007,2
+GRIN,200 M Breaststroke,SCM,W,40-44,3:00.72,Lou Ann Dixon,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,50 M Butterfly,SCM,W,40-44,33.27,Ilyse L Hildebrand,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Butterfly,SCM,W,40-44,1:14.87,Ilyse L Hildebrand,,Louisville Invitational,2007,1
+ISF,100 M Butterfly,SCM,W,40-44,1:15.77,Victoria L Rian,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Butterfly,SCM,W,40-44,2:42.06,Susie Shuck,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Butterfly,SCM,W,40-44,2:54.67,Ilyse L Hildebrand,,Louisville Invitational,2007,2
+GRIN,100 M Individual Medley,SCM,W,40-44,1:18.67,Lou Ann Dixon,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Individual Medley,SCM,W,40-44,1:21.70,Ilyse L Hildebrand,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Individual Medley,SCM,W,40-44,2:44.41,Susie Shuck,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Individual Medley,SCM,W,40-44,2:47.01,Lou Ann Dixon,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Individual Medley,SCM,W,40-44,2:56.32,Ilyse L Hildebrand,,Louisville Invitational,2007,3
+ISF,400 M Individual Medley,SCM,W,40-44,5:57.81,Victoria L Rian,,Louisville Invitational,2007,1
+ISF,50 M Freestyle,SCM,W,45-49,29.95,Ann M Schnieders,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,W,45-49,32.81,Carol E Gassen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Freestyle,SCM,W,45-49,33.95,Lisa L Zedonis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+GRIN,50 M Freestyle,SCM,W,45-49,37.14,Jane H Ruemmele,,TYR Grand Prix 2 - GRIN Fall Classic,2007,4
+ISF,100 M Freestyle,SCM,W,45-49,1:15.15,Lisa L Zedonis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Freestyle,SCM,W,45-49,2:39.67,Lisa L Zedonis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Freestyle,SCM,W,45-49,2:55.04,Carol E Gassen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,200 M Freestyle,SCM,W,45-49,3:44.63,Kate A Traylor,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,400 M Freestyle,SCM,W,45-49,5:43.03,Lisa L Zedonis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,W,45-49,11:34.54,Lisa L Zedonis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,1500 M Freestyle,SCM,W,45-49,21:53.37,Lisa L Zedonis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,W,45-49,34.77,Ann M Schnieders,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,W,45-49,43.82,Carol E Gassen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Butterfly,SCM,W,45-49,34.70,Ann M Schnieders,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,W,45-49,42.03,Carol E Gassen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,50 M Butterfly,SCM,W,45-49,43.57,Jane H Ruemmele,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,50 M Freestyle,SCM,W,50-54,31.75,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,W,50-54,34.26,Cheryl M Gettelfinger,,Louisville Invitational,2007,2
+ISF,100 M Freestyle,SCM,W,50-54,1:10.91,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Freestyle,SCM,W,50-54,2:34.62,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Freestyle,SCM,W,50-54,5:30.49,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Freestyle,SCM,W,50-54,6:00.11,Cheryl M Gettelfinger,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,400 M Freestyle,SCM,W,50-54,6:37.62,Jan C Johnson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,800 M Freestyle,SCM,W,50-54,13:27.37,Jan C Johnson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,1500 M Freestyle,SCM,W,50-54,25:17.35,Jan C Johnson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,W,50-54,37.81,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,W,50-54,48.11,Eileen D Davis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Backstroke,SCM,W,50-54,1:23.57,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Backstroke,SCM,W,50-54,3:05.36,Karlene Denby,,Southern Masters SCM and Dixie Zone Champs,2007,1
+ISF,50 M Breaststroke,SCM,W,50-54,41.02,Cheryl M Gettelfinger,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Breaststroke,SCM,W,50-54,1:31.29,Cheryl M Gettelfinger,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Breaststroke,SCM,W,50-54,3:15.22,Cheryl M Gettelfinger,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,W,50-54,41.12,Cheryl M Gettelfinger,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Butterfly,SCM,W,50-54,1:35.85,Cheryl M Gettelfinger,,Louisville Invitational,2007,1
+ISF,100 M Individual Medley,SCM,W,50-54,1:25.30,Karlene Denby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Individual Medley,SCM,W,50-54,3:05.71,Karlene Denby,,First Colony Masters,2007,1
+ISF,200 M Individual Medley,SCM,W,50-54,3:16.94,Cheryl M Gettelfinger,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,50 M Freestyle,SCM,W,55-59,41.73,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Freestyle,SCM,W,55-59,1:28.79,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Freestyle,SCM,W,55-59,3:08.60,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Freestyle,SCM,W,55-59,6:23.64,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Backstroke,SCM,W,55-59,1:44.05,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,W,55-59,46.96,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Individual Medley,SCM,W,55-59,1:43.63,Anne E Fisher,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,W,65-69,38.39,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,W,65-69,48.38,Barbara M Kin-Pinney,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Freestyle,SCM,W,65-69,1:27.41,Susan L Meyers,,Louisville Invitational,2007,1
+ISF,200 M Freestyle,SCM,W,65-69,3:13.63,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Freestyle,SCM,W,65-69,6:56.02,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,W,65-69,13:29.86,Susan L Meyers,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,1500 M Freestyle,SCM,W,65-69,26:59.83,Susan L Meyers,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,50 M Backstroke,SCM,W,65-69,47.62,Susan L Meyers,,Louisville Invitational,2007,1
+ISF,50 M Backstroke,SCM,W,65-69,58.16,Barbara M Kin-Pinney,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Backstroke,SCM,W,65-69,3:40.88,Susan L Meyers,,Louisville Invitational,2007,1
+ISF,50 M Breaststroke,SCM,W,65-69,49.88,Susan L Meyers,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Breaststroke,SCM,W,65-69,1:54.10,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Breaststroke,SCM,W,65-69,3:57.82,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,W,65-69,43.10,Susan L Meyers,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Butterfly,SCM,W,65-69,1:49.85,Susan L Meyers,,Louisville Invitational,2007,1
+ISF,200 M Butterfly,SCM,W,65-69,4:04.69,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Individual Medley,SCM,W,65-69,1:36.32,Susan L Meyers,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,200 M Individual Medley,SCM,W,65-69,3:35.46,Susan L Meyers,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Freestyle,SCM,M,25-29,2:21.43,Jeremy M Glass,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Freestyle,SCM,M,25-29,4:54.00,Jeremy M Glass,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,M,25-29,10:20.68,Jeremy M Glass,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,1500 M Freestyle,SCM,M,25-29,19:39.44,Jeremy M Glass,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,M,25-29,32.67,Jeremy M Glass,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,30-34,27.00,Mark V O'Malley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,100 M Freestyle,SCM,M,30-34,1:09.74,Rob Bell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Freestyle,SCM,M,30-34,4:26.18,Jeffrey B Halbert,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,400 M Freestyle,SCM,M,30-34,4:47.93,Jeffrey M Maydak,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,800 M Freestyle,SCM,M,30-34,9:07.04,Jeffrey B Halbert,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,800 M Freestyle,SCM,M,30-34,9:55.40,Jeffrey M Maydak,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,800 M Freestyle,SCM,M,30-34,13:08.99,Anthony J Geiss,,Louisville Invitational,2007,3
+ISF,1500 M Freestyle,SCM,M,30-34,17:26.03,Jeffrey B Halbert,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,1500 M Freestyle,SCM,M,30-34,19:04.30,Jeffrey M Maydak,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,1500 M Freestyle,SCM,M,30-34,25:53.74,Anthony J Geiss,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+NAST,50 M Backstroke,SCM,M,30-34,30.75,Jeffrey M Maydak,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Backstroke,SCM,M,30-34,1:06.28,Jeffrey M Maydak,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,200 M Backstroke,SCM,M,30-34,2:24.73,Jeffrey M Maydak,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,50 M Breaststroke,SCM,M,30-34,37.60,Rob Bell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Breaststroke,SCM,M,30-34,1:15.72,Mark V O'Malley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,100 M Breaststroke,SCM,M,30-34,1:25.12,Rob Bell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Breaststroke,SCM,M,30-34,2:45.58,Mark V O'Malley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,M,30-34,29.54,Mark V O'Malley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Butterfly,SCM,M,30-34,31.99,Anthony J Geiss,,Louisville Invitational,2007,2
+ISF,200 M Individual Medley,SCM,M,30-34,2:19.25,Jeffrey B Halbert,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Individual Medley,SCM,M,30-34,3:08.09,Anthony J Geiss,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,400 M Individual Medley,SCM,M,30-34,5:01.32,Jeffrey B Halbert,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,35-39,28.14,Oleg Chebotarev,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,35-39,29.88,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,2
+DOC,100 M Freestyle,SCM,M,35-39,59.05,Andrew M Pardieck,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Freestyle,SCM,M,35-39,1:05.29,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,200 M Freestyle,SCM,M,35-39,2:08.50,Oleg Chebotarev,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,200 M Freestyle,SCM,M,35-39,2:11.50,Jeremy B Houchens,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Freestyle,SCM,M,35-39,2:28.46,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,400 M Freestyle,SCM,M,35-39,4:35.81,Oleg Chebotarev,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,400 M Freestyle,SCM,M,35-39,4:39.66,Jeremy B Houchens,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,400 M Freestyle,SCM,M,35-39,4:49.01,Rosendo (Sextus) L Tansinsin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,400 M Freestyle,SCM,M,35-39,5:20.95,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,4
+ISF,800 M Freestyle,SCM,M,35-39,9:28.20,Oleg Chebotarev,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,800 M Freestyle,SCM,M,35-39,10:11.91,Rosendo (Sextus) L Tansinsin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,800 M Freestyle,SCM,M,35-39,10:56.33,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,1500 M Freestyle,SCM,M,35-39,18:07.26,Oleg Chebotarev,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,1500 M Freestyle,SCM,M,35-39,20:48.39,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,50 M Backstroke,SCM,M,35-39,35.34,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,100 M Backstroke,SCM,M,35-39,1:04.27,Andrew M Pardieck,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Backstroke,SCM,M,35-39,1:18.29,Jeffrey K Berridge,,Louisville Invitational,2007,2
+ISF,200 M Backstroke,SCM,M,35-39,2:50.95,Jeffrey K Berridge,,Louisville Invitational,2007,1
+ISF,50 M Breaststroke,SCM,M,35-39,38.57,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Breaststroke,SCM,M,35-39,1:17.72,Jeremy B Houchens,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Breaststroke,SCM,M,35-39,1:22.45,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Breaststroke,SCM,M,35-39,2:49.25,Jeremy B Houchens,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Breaststroke,SCM,M,35-39,2:57.40,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Butterfly,SCM,M,35-39,32.85,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Butterfly,SCM,M,35-39,1:17.24,Jeffrey K Berridge,,Louisville Invitational,2007,1
+ISF,200 M Butterfly,SCM,M,35-39,2:33.47,Rosendo (Sextus) L Tansinsin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Butterfly,SCM,M,35-39,2:56.63,Jeffrey K Berridge,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+DOC,100 M Individual Medley,SCM,M,35-39,1:10.18,Andrew M Pardieck,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Individual Medley,SCM,M,35-39,1:13.92,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,200 M Individual Medley,SCM,M,35-39,2:27.04,Jeremy B Houchens,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Individual Medley,SCM,M,35-39,2:38.09,Jeffrey K Berridge,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,400 M Individual Medley,SCM,M,35-39,5:28.18,Rosendo (Sextus) L Tansinsin,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,400 M Individual Medley,SCM,M,35-39,5:46.02,Jeffrey K Berridge,,Louisville Invitational,2007,2
+CSI,50 M Freestyle,SCM,M,40-44,27.47,Roch A King,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Freestyle,SCM,M,40-44,34.60,Malik Nouri,,TYR Grand Prix Finale in Chicago,2007,2
+CSI,100 M Freestyle,SCM,M,40-44,59.67,Roch A King,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,200 M Freestyle,SCM,M,40-44,2:18.68,Roch A King,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,800 M Freestyle,SCM,M,40-44,10:37.92,Roch A King,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,800 M Freestyle,SCM,M,40-44,15:39.05,William H Finch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,1500 M Freestyle,SCM,M,40-44,30:24.73,William H Finch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,50 M Backstroke,SCM,M,40-44,42.57,William H Finch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Backstroke,SCM,M,40-44,50.89,Malik Nouri,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,100 M Backstroke,SCM,M,40-44,1:30.24,William H Finch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,200 M Backstroke,SCM,M,40-44,3:21.62,William H Finch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Butterfly,SCM,M,40-44,39.29,Malik Nouri,,TYR Grand Prix Finale in Chicago,2007,1
+CSI,100 M Individual Medley,SCM,M,40-44,1:08.44,Roch A King,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DLMA,50 M Freestyle,SCM,M,45-49,30.79,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+DLMA,100 M Freestyle,SCM,M,45-49,1:08.26,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,200 M Freestyle,SCM,M,45-49,2:07.20,Brad L Roby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DLMA,200 M Freestyle,SCM,M,45-49,2:25.93,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,2
+DLMA,400 M Freestyle,SCM,M,45-49,5:18.54,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+DLMA,50 M Backstroke,SCM,M,45-49,38.74,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+DLMA,100 M Backstroke,SCM,M,45-49,1:27.56,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,200 M Backstroke,SCM,M,45-49,2:25.46,Brad L Roby,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DLMA,200 M Backstroke,SCM,M,45-49,2:59.67,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,50 M Breaststroke,SCM,M,45-49,36.37,Steven R Counsell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Breaststroke,SCM,M,45-49,1:18.48,Steven R Counsell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DLMA,100 M Breaststroke,SCM,M,45-49,1:30.59,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,200 M Breaststroke,SCM,M,45-49,2:52.82,Steven R Counsell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DLMA,100 M Individual Medley,SCM,M,45-49,1:20.03,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+DLMA,200 M Individual Medley,SCM,M,45-49,2:52.48,Dan Biegel,,TYR Grand Prix Finale in Chicago,2007,1
+GRIN,50 M Freestyle,SCM,M,50-54,28.45,Gary H Rodefeld,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+UNAT,50 M Freestyle,SCM,M,50-54,28.83,David L Ferguson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+UNAT,100 M Freestyle,SCM,M,50-54,1:04.10,David L Ferguson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Freestyle,SCM,M,50-54,2:24.03,Gary H Rodefeld,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Backstroke,SCM,M,50-54,39.04,Gary H Rodefeld,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+UNAT,50 M Butterfly,SCM,M,50-54,31.66,David L Ferguson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Butterfly,SCM,M,50-54,34.76,Gary H Rodefeld,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+UNAT,100 M Butterfly,SCM,M,50-54,1:14.36,David L Ferguson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,55-59,1:07.14,Michael J O'Dowd,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+UNAT,100 M Freestyle,SCM,M,55-59,1:18.52,Stewart E Braswell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,M,55-59,11:51.06,David W Lewis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,50 M Backstroke,SCM,M,55-59,35.10,Jim M Thompson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,M,55-59,36.61,David W Lewis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Backstroke,SCM,M,55-59,1:16.87,Michael J O'Dowd,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,100 M Backstroke,SCM,M,55-59,1:18.55,David W Lewis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+UNAT,100 M Backstroke,SCM,M,55-59,1:33.25,Stewart E Braswell,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,200 M Backstroke,SCM,M,55-59,2:43.50,Jim M Thompson,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Backstroke,SCM,M,55-59,2:50.76,David W Lewis,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Breaststroke,SCM,M,55-59,1:11.58,Michael J O'Dowd,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Freestyle,SCM,M,60-64,30.74,Charles B Lee,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+CSI,50 M Freestyle,SCM,M,60-64,39.66,Peter F Blume,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+NAST,100 M Freestyle,SCM,M,60-64,1:10.42,Charles B Lee,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Freestyle,SCM,M,60-64,2:25.67,Richard K Smith,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,200 M Freestyle,SCM,M,60-64,2:40.49,Charles B Lee,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,200 M Freestyle,SCM,M,60-64,3:25.32,Peter F Blume,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,400 M Freestyle,SCM,M,60-64,5:07.17,Douglas K Miller,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,400 M Freestyle,SCM,M,60-64,5:15.97,Richard K Smith,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,800 M Freestyle,SCM,M,60-64,10:43.84,Richard K Smith,,TYR Grand Prix Finale in Chicago,2007,1
+DOC,800 M Freestyle,SCM,M,60-64,14:29.72,Gerald A Wunsch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+CSI,800 M Freestyle,SCM,M,60-64,15:14.21,Peter F Blume,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+GRIN,1500 M Freestyle,SCM,M,60-64,20:59.47,Richard K Smith,,TYR Grand Prix Finale in Chicago,2007,1
+DOC,1500 M Freestyle,SCM,M,60-64,28:00.35,Gerald A Wunsch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+GRIN,50 M Backstroke,SCM,M,60-64,36.56,Richard K Smith,,TYR Grand Prix Finale in Chicago,2007,1
+NAST,50 M Breaststroke,SCM,M,60-64,39.35,Charles B Lee,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,100 M Breaststroke,SCM,M,60-64,1:28.36,Charles B Lee,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,200 M Breaststroke,SCM,M,60-64,3:19.91,Charles B Lee,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Breaststroke,SCM,M,60-64,3:22.74,Richard K Smith,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+DOC,200 M Breaststroke,SCM,M,60-64,3:39.74,Gerald A Wunsch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+GRIN,50 M Butterfly,SCM,M,60-64,34.36,Richard K Smith,,TYR Grand Prix Finale in Chicago,2007,1
+ISF,100 M Butterfly,SCM,M,60-64,1:11.06,Douglas K Miller,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,100 M Butterfly,SCM,M,60-64,1:20.43,Richard K Smith,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,200 M Butterfly,SCM,M,60-64,2:39.25,Douglas K Miller,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Butterfly,SCM,M,60-64,3:14.39,Richard K Smith,,TYR Grand Prix Finale in Chicago,2007,2
+ISF,100 M Individual Medley,SCM,M,60-64,1:15.98,Douglas K Miller,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Individual Medley,SCM,M,60-64,2:40.39,Douglas K Miller,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+GRIN,200 M Individual Medley,SCM,M,60-64,2:50.28,Richard K Smith,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+DOC,200 M Individual Medley,SCM,M,60-64,3:36.87,Gerald A Wunsch,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+ISF,400 M Individual Medley,SCM,M,60-64,5:41.55,Douglas K Miller,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,65-69,32.52,George J Quigley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+UNAT,50 M Freestyle,SCM,M,65-69,36.02,Miguel A Gambetta,,TYR Grand Prix Finale in Chicago,2007,2
+NAST,50 M Freestyle,SCM,M,65-69,51.21,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,3
+NAST,100 M Freestyle,SCM,M,65-69,2:00.86,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,200 M Freestyle,SCM,M,65-69,4:26.74,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,400 M Freestyle,SCM,M,65-69,9:25.01,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,800 M Freestyle,SCM,M,65-69,19:39.92,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,1500 M Freestyle,SCM,M,65-69,39:36.02,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,M,65-69,39.34,George J Quigley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Backstroke,SCM,M,65-69,1:16.08,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Backstroke,SCM,M,65-69,1:24.42,George J Quigley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+NAST,50 M Breaststroke,SCM,M,65-69,1:29.05,Edward K Keefe,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,70-74,32.93,Marty A Mennen,,Louisville Invitational,2007,1
+ISF,50 M Freestyle,SCM,M,70-74,1:08.36,Richard L Clapp,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Freestyle,SCM,M,70-74,1:11.44,Marty A Mennen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Freestyle,SCM,M,70-74,2:28.88,Richard L Clapp,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Freestyle,SCM,M,70-74,2:49.33,Marty A Mennen,,Louisville Invitational,2007,1
+ISF,200 M Freestyle,SCM,M,70-74,5:13.99,Richard L Clapp,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,400 M Freestyle,SCM,M,70-74,5:40.04,Marty A Mennen,,Louisville Invitational,2007,1
+ISF,400 M Freestyle,SCM,M,70-74,11:09.42,Richard L Clapp,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,800 M Freestyle,SCM,M,70-74,12:02.50,Marty A Mennen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,800 M Freestyle,SCM,M,70-74,21:42.52,Richard L Clapp,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,1500 M Freestyle,SCM,M,70-74,42:42.46,Richard L Clapp,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,M,70-74,39.04,Marty A Mennen,,Louisville Invitational,2007,1
+ISF,100 M Backstroke,SCM,M,70-74,1:19.09,Marty A Mennen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Backstroke,SCM,M,70-74,2:54.36,Marty A Mennen,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,200 M Backstroke,SCM,M,70-74,3:01.57,David L Costill,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,50 M Breaststroke,SCM,M,70-74,44.79,Marty A Mennen,,Louisville Invitational,2007,1
+ISF,50 M Butterfly,SCM,M,70-74,33.79,David L Costill,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,100 M Butterfly,SCM,M,70-74,1:20.35,David L Costill,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,75-79,41.55,Robert W Badger,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Backstroke,SCM,M,75-79,56.74,Robert W Badger,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,M,75-79,1:00.44,Robert W Badger,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Freestyle,SCM,M,80-84,42.30,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,50 M Freestyle,SCM,M,80-84,1:02.50,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Freestyle,SCM,M,80-84,1:44.27,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,100 M Freestyle,SCM,M,80-84,2:26.93,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+DOC,800 M Freestyle,SCM,M,80-84,26:55.02,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,1500 M Freestyle,SCM,M,80-84,48:25.68,Doug Strong,,Louisville Invitational,2007,1
+DOC,50 M Backstroke,SCM,M,80-84,1:29.52,Doug Strong,,Louisville Invitational,2007,1
+ISF,100 M Backstroke,SCM,M,80-84,1:55.50,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,100 M Backstroke,SCM,M,80-84,3:06.71,Doug Strong,,Louisville Invitational,2007,2
+ISF,200 M Backstroke,SCM,M,80-84,4:33.78,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,100 M Breaststroke,SCM,M,80-84,4:51.02,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+ISF,50 M Butterfly,SCM,M,80-84,59.52,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,50 M Butterfly,SCM,M,80-84,2:38.32,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Butterfly,SCM,M,80-84,2:26.28,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,100 M Butterfly,SCM,M,80-84,6:37.97,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,100 M Individual Medley,SCM,M,80-84,2:01.90,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,100 M Individual Medley,SCM,M,80-84,3:57.24,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2
+ISF,200 M Individual Medley,SCM,M,80-84,4:42.36,Robert L Risley,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+DOC,200 M Individual Medley,SCM,M,80-84,8:02.49,Doug Strong,,TYR Grand Prix 2 - GRIN Fall Classic,2007,2

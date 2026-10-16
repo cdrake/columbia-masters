@@ -1,0 +1,934 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+GOLD,50 M Freestyle,LCM,W,18-24,27.07,Linea L Cutter,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Freestyle,LCM,W,18-24,31.34,Lauren Grippo,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Freestyle,LCM,W,18-24,33.39,Jeena I Rudy,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,3
+GOLD,100 M Freestyle,LCM,W,18-24,1:00.46,Linea L Cutter,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Freestyle,LCM,W,18-24,1:08.26,Lauren Grippo,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Freestyle,LCM,W,18-24,1:19.01,Shannon L Bartholomew,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,200 M Freestyle,LCM,W,18-24,2:37.23,Lauren Grippo,,2013 Pan-American Masters Championship,2013,1
+SFTL,400 M Freestyle,LCM,W,18-24,5:27.16,Jeena I Rudy,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,800 M Freestyle,LCM,W,18-24,11:25.49,Lauren Grippo,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Backstroke,LCM,W,18-24,39.42,Jeena I Rudy,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Breaststroke,LCM,W,18-24,47.27,Shannon L Bartholomew,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,50 M Freestyle,LCM,W,25-29,29.01,Deidre D Novotny,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Freestyle,LCM,W,25-29,29.74,Stephanie L Terrell,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Freestyle,LCM,W,25-29,31.73,Siobhan C Murphy,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Freestyle,LCM,W,25-29,55.80,Edymar Uzcategui,,8th Annual June Krauser Summer Splash,2013,4
+LYTA,100 M Freestyle,LCM,W,25-29,1:01.20,Sarah K Andrews,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Freestyle,LCM,W,25-29,1:01.24,Deidre D Novotny,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+FLAQ,100 M Freestyle,LCM,W,25-29,1:08.88,Jen Guffey,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Freestyle,LCM,W,25-29,1:11.66,Silver J Deutch,,8th Annual June Krauser Summer Splash,2013,4
+WOW,100 M Freestyle,LCM,W,25-29,1:19.62,Laura L Yager,,8th Annual June Krauser Summer Splash,2013,5
+SFTL,200 M Freestyle,LCM,W,25-29,2:36.59,Chandra Engs,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Freestyle,LCM,W,25-29,2:51.43,Eryn B Crane,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,W,25-29,4:10.78,Edymar Uzcategui,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,400 M Freestyle,LCM,W,25-29,5:35.05,Silver J Deutch,,8th Annual June Krauser Summer Splash,2013,1
+FLAQ,400 M Freestyle,LCM,W,25-29,5:51.36,Jen Guffey,,8th Annual June Krauser Summer Splash,2013,2
+WOW,400 M Freestyle,LCM,W,25-29,6:15.44,Laura L Yager,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Backstroke,LCM,W,25-29,32.48,Stephanie L Terrell,,2013 Pan-American Masters Championship,2013,1
+LYTA,50 M Backstroke,LCM,W,25-29,33.37,Linda E Tate,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Backstroke,LCM,W,25-29,33.43,Deidre D Novotny,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Backstroke,LCM,W,25-29,38.54,Eryn B Crane,,2013 Pan-American Masters Championship,2013,4
+SFTL,100 M Backstroke,LCM,W,25-29,1:08.26,Deidre D Novotny,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,100 M Backstroke,LCM,W,25-29,1:12.14,Stephanie L Terrell,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Backstroke,LCM,W,25-29,1:23.43,Eryn B Crane,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Backstroke,LCM,W,25-29,2:38.88,Stephanie L Terrell,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,W,25-29,37.70,Stephanie L Terrell,,2013 Pan-American Masters Championship,2013,1
+FLAQ,50 M Breaststroke,LCM,W,25-29,41.83,Jen Guffey,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Breaststroke,LCM,W,25-29,43.88,Siobhan C Murphy,,2013 Pan-American Masters Championship,2013,3
+WOW,50 M Breaststroke,LCM,W,25-29,44.96,Laura L Yager,,2013 Coral Springs Last Chance LCM,2013,4
+WOW,100 M Breaststroke,LCM,W,25-29,1:40.71,Laura L Yager,,2013 Coral Springs Last Chance LCM,2013,1
+SFTL,200 M Breaststroke,LCM,W,25-29,3:26.16,Siobhan C Murphy,,2013 Pan-American Masters Championship,2013,1
+WOW,200 M Breaststroke,LCM,W,25-29,3:38.01,Laura L Yager,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Butterfly,LCM,W,25-29,30.61,Deidre D Novotny,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Butterfly,LCM,W,25-29,34.66,Eryn B Crane,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Butterfly,LCM,W,25-29,34.74,Chandra Engs,,2013 Pan-American Masters Championship,2013,3
+SFTL,100 M Butterfly,LCM,W,25-29,1:07.21,Deidre D Novotny,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+LYTA,100 M Butterfly,LCM,W,25-29,1:07.87,Sarah K Andrews,,8th Annual June Krauser Summer Splash,2013,2
+LYTA,100 M Butterfly,LCM,W,25-29,1:10.18,Linda E Tate,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Butterfly,LCM,W,25-29,1:23.63,Eryn B Crane,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,200 M Individual Medley,LCM,W,25-29,2:30.10,Deidre D Novotny,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Individual Medley,LCM,W,25-29,3:06.13,Siobhan C Murphy,,2013 Pan-American Masters Championship,2013,2
+WOW,200 M Individual Medley,LCM,W,25-29,3:16.51,Laura L Yager,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,400 M Individual Medley,LCM,W,25-29,6:26.53,Silver J Deutch,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,50 M Freestyle,LCM,W,30-34,28.80,Laura L Lastfogel,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Freestyle,LCM,W,30-34,29.86,Kerri E Morse,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Freestyle,LCM,W,30-34,31.81,Dara R Rose,,2013 Coral Springs Last Chance LCM,2013,3
+MWA,50 M Freestyle,LCM,W,30-34,34.88,Daniela Edwards,,2013 Coral Springs Last Chance LCM,2013,4
+SFTL,50 M Freestyle,LCM,W,30-34,40.16,Andia Chaves-Fonnegra,,2013 Pan-American Masters Championship,2013,5
+GOLD,50 M Freestyle,LCM,W,30-34,50.11,Andrea Zilizi-Medus,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,50 M Freestyle,LCM,W,30-34,50.22,Julie Finlon,,2013 Coral Springs Last Chance LCM,2013,7
+GOLD,100 M Freestyle,LCM,W,30-34,1:09.58,Lucianna Genova,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Freestyle,LCM,W,30-34,1:18.73,Dara R Rose,,2013 Coral Springs Last Chance LCM,2013,2
+MWA,100 M Freestyle,LCM,W,30-34,1:22.63,Daniela Edwards,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,100 M Freestyle,LCM,W,30-34,1:29.84,Andia Chaves-Fonnegra,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Freestyle,LCM,W,30-34,1:47.08,Julie Finlon,,2013 Coral Springs Last Chance LCM,2013,5
+SFTL,200 M Freestyle,LCM,W,30-34,2:18.57,Elizabeth C Dwors,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Freestyle,LCM,W,30-34,2:36.68,Lucianna Genova,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Freestyle,LCM,W,30-34,3:11.87,Andia Chaves-Fonnegra,,2013 Pan-American Masters Championship,2013,3
+MWA,200 M Freestyle,LCM,W,30-34,3:13.59,Daniela Edwards,,2013 Coral Springs Last Chance LCM,2013,4
+SFTL,800 M Freestyle,LCM,W,30-34,10:14.53,Elizabeth C Dwors,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Backstroke,LCM,W,30-34,40.37,Dara R Rose,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Backstroke,LCM,W,30-34,55.34,Julie Finlon,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,100 M Backstroke,LCM,W,30-34,1:20.83,Lucianna Genova,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Backstroke,LCM,W,30-34,2:13.01,Julie Finlon,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Backstroke,LCM,W,30-34,2:55.64,Lucianna Genova,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,W,30-34,39.01,Laura L Lastfogel,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+MWA,50 M Breaststroke,LCM,W,30-34,43.91,Daniela Edwards,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,50 M Breaststroke,LCM,W,30-34,48.19,Andia Chaves-Fonnegra,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Breaststroke,LCM,W,30-34,1:26.07,Laura L Lastfogel,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,100 M Breaststroke,LCM,W,30-34,1:51.69,Andrea Zilizi-Medus,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,200 M Breaststroke,LCM,W,30-34,3:04.21,Laura L Lastfogel,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Breaststroke,LCM,W,30-34,3:36.24,Andia Chaves-Fonnegra,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Butterfly,LCM,W,30-34,31.06,Laura L Lastfogel,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Butterfly,LCM,W,30-34,33.49,Kerri E Morse,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Butterfly,LCM,W,30-34,35.32,Lucianna Genova,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Butterfly,LCM,W,30-34,37.17,Dara R Rose,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,50 M Butterfly,LCM,W,30-34,1:04.25,Julie Finlon,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,200 M Individual Medley,LCM,W,30-34,3:13.23,Dara R Rose,,2013 Coral Springs Last Chance LCM,2013,1
+SFTL,50 M Freestyle,LCM,W,35-39,29.56,Naomi O Szekeres,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Freestyle,LCM,W,35-39,33.52,Alexandra Szczerban,,2013 Coral Springs Last Chance LCM,2013,2
+MCDA,50 M Freestyle,LCM,W,35-39,34.09,Gladys Liehr,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Freestyle,LCM,W,35-39,37.51,Daniela Rosenblat,,8th Annual June Krauser Summer Splash,2013,4
+MWA,50 M Freestyle,LCM,W,35-39,37.91,Aranzazu Campos,,2013 Coral Springs Last Chance LCM,2013,5
+WOW,50 M Freestyle,LCM,W,35-39,38.85,Kristen D Hewitt,,2013 Coral Springs Last Chance LCM,2013,6
+SFTL,100 M Freestyle,LCM,W,35-39,1:05.78,Naomi O Szekeres,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,100 M Freestyle,LCM,W,35-39,1:10.06,Deven M Christopher,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Freestyle,LCM,W,35-39,1:18.62,Ivanova Febres,,2013 Pan-American Masters Championship,2013,3
+MCDA,100 M Freestyle,LCM,W,35-39,1:19.14,Gladys Liehr,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Freestyle,LCM,W,35-39,1:29.41,Sara R Kirchner,,8th Annual June Krauser Summer Splash,2013,5
+WOW,100 M Freestyle,LCM,W,35-39,1:33.71,Kristen D Hewitt,,2013 Coral Springs Last Chance LCM,2013,6
+SFTL,200 M Freestyle,LCM,W,35-39,2:31.29,Naomi O Szekeres,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Freestyle,LCM,W,35-39,2:32.02,Deven M Christopher,,2013 Pan-American Masters Championship,2013,2
+MCDA,200 M Freestyle,LCM,W,35-39,2:52.53,Gladys Liehr,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,200 M Freestyle,LCM,W,35-39,2:56.84,Ivanova Febres,,2013 Pan-American Masters Championship,2013,4
+SFTL,400 M Freestyle,LCM,W,35-39,5:09.54,Sonja Koppenwallner,,2013 Pan-American Masters Championship,2013,1
+GOLD,400 M Freestyle,LCM,W,35-39,5:21.21,Deven M Christopher,,8th Annual June Krauser Summer Splash,2013,2
+MCDA,400 M Freestyle,LCM,W,35-39,6:15.55,Gladys Liehr,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,400 M Freestyle,LCM,W,35-39,6:29.85,Daniela Rosenblat,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,400 M Freestyle,LCM,W,35-39,7:07.01,Sara R Kirchner,,2013 Coral Springs Last Chance LCM,2013,5
+WOW,400 M Freestyle,LCM,W,35-39,7:22.48,Kristen D Hewitt,,2013 Coral Springs Last Chance LCM,2013,6
+SFTL,50 M Backstroke,LCM,W,35-39,40.15,Ivanova Febres,,2013 Pan-American Masters Championship,2013,1
+MCDA,50 M Backstroke,LCM,W,35-39,40.69,Gladys Liehr,,8th Annual June Krauser Summer Splash,2013,2
+MWA,50 M Backstroke,LCM,W,35-39,47.71,Yaritza Gomez,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Backstroke,LCM,W,35-39,48.54,Sara R Kirchner,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Backstroke,LCM,W,35-39,1:21.25,Deven M Christopher,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Backstroke,LCM,W,35-39,1:28.20,Ivanova Febres,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Backstroke,LCM,W,35-39,1:44.71,Sara R Kirchner,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,200 M Backstroke,LCM,W,35-39,2:53.13,Deven M Christopher,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Backstroke,LCM,W,35-39,3:13.34,Ivanova Febres,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Breaststroke,LCM,W,35-39,45.97,Daniela Rosenblat,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,W,35-39,46.43,Naomi O Szekeres,,8th Annual June Krauser Summer Splash,2013,2
+MWA,50 M Breaststroke,LCM,W,35-39,46.96,Aranzazu Campos,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,50 M Breaststroke,LCM,W,35-39,47.43,Sara R Kirchner,,2013 Coral Springs Last Chance LCM,2013,4
+MWA,50 M Breaststroke,LCM,W,35-39,48.19,Yaritza Gomez,,2013 Pan-American Masters Championship,2013,5
+WOW,50 M Breaststroke,LCM,W,35-39,52.28,Kristen D Hewitt,,2013 Coral Springs Last Chance LCM,2013,6
+SFTL,100 M Breaststroke,LCM,W,35-39,1:40.48,Daniela Rosenblat,,2013 Pan-American Masters Championship,2013,1
+MWA,100 M Breaststroke,LCM,W,35-39,1:48.82,Yaritza Gomez,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Breaststroke,LCM,W,35-39,1:50.77,Sara R Kirchner,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,200 M Breaststroke,LCM,W,35-39,3:43.88,Daniela Rosenblat,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Breaststroke,LCM,W,35-39,4:04.23,Sara R Kirchner,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Butterfly,LCM,W,35-39,31.70,Naomi O Szekeres,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Butterfly,LCM,W,35-39,37.36,Alexandra Szczerban,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,50 M Butterfly,LCM,W,35-39,41.50,Ivanova Febres,,2013 Pan-American Masters Championship,2013,3
+SFTL,100 M Butterfly,LCM,W,35-39,1:16.65,Naomi O Szekeres,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Butterfly,LCM,W,35-39,3:01.87,Sonja Koppenwallner,,2013 Pan-American Masters Championship,2013,1
+UNAT,200 M Individual Medley,LCM,W,35-39,2:49.33,Desi Stoyanova,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Individual Medley,LCM,W,35-39,3:36.88,Daniela Rosenblat,,2013 Pan-American Masters Championship,2013,2
+GOLD,400 M Individual Medley,LCM,W,35-39,6:11.59,Deven M Christopher,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Freestyle,LCM,W,40-44,31.14,Christine McCrady,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Freestyle,LCM,W,40-44,31.43,Dale A LeClair,,8th Annual June Krauser Summer Splash,2013,2
+WOW,50 M Freestyle,LCM,W,40-44,33.76,LeAnn H Matsumura,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Freestyle,LCM,W,40-44,35.36,Yukako Beatty,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,50 M Freestyle,LCM,W,40-44,41.11,Susan Scharr,,2013 Coral Springs Last Chance LCM,2013,5
+SFTL,50 M Freestyle,LCM,W,40-44,42.95,Dina Elnecave Rubin,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,100 M Freestyle,LCM,W,40-44,1:07.45,Dale A LeClair,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Freestyle,LCM,W,40-44,1:11.60,Christine McCrady,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Freestyle,LCM,W,40-44,1:37.21,Kristin R Volz,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,200 M Freestyle,LCM,W,40-44,2:25.87,Megan M Lassen,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Freestyle,LCM,W,40-44,2:28.99,Dale A LeClair,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,400 M Freestyle,LCM,W,40-44,5:11.09,Megan M Lassen,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,400 M Freestyle,LCM,W,40-44,5:12.94,Dale A LeClair,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,400 M Freestyle,LCM,W,40-44,6:04.74,Suzanne R Dearworth,,2013 Pan-American Masters Championship,2013,3
+SFTL,400 M Freestyle,LCM,W,40-44,6:53.60,Kristin R Volz,,2013 Pan-American Masters Championship,2013,4
+SFTL,800 M Freestyle,LCM,W,40-44,10:40.84,Megan M Lassen,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,1500 M Freestyle,LCM,W,40-44,20:16.50,Megan M Lassen,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,1500 M Freestyle,LCM,W,40-44,26:23.74,Kristin R Volz,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+SFTL,50 M Backstroke,LCM,W,40-44,35.72,Megan M Lassen,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Backstroke,LCM,W,40-44,37.20,Kelly A Legaspi,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Backstroke,LCM,W,40-44,38.21,Dale A LeClair,,St. Pete Masters Long Course Swimming Championships,2013,3
+GOLD,50 M Backstroke,LCM,W,40-44,39.64,Yukako Beatty,,2013 Coral Springs Last Chance LCM,2013,4
+SFTL,100 M Backstroke,LCM,W,40-44,1:23.50,Megan M Lassen,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,100 M Backstroke,LCM,W,40-44,1:27.86,Yukako Beatty,,2013 Coral Springs Last Chance LCM,2013,2
+WOW,100 M Backstroke,LCM,W,40-44,1:34.91,LeAnn H Matsumura,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,100 M Backstroke,LCM,W,40-44,1:56.66,Kristin R Volz,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,200 M Backstroke,LCM,W,40-44,2:51.58,Megan M Lassen,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Backstroke,LCM,W,40-44,2:56.26,Ann K Stewart,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Backstroke,LCM,W,40-44,3:04.50,Dale A LeClair,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,200 M Backstroke,LCM,W,40-44,3:20.26,Yukako Beatty,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,200 M Backstroke,LCM,W,40-44,3:50.22,Kristin R Volz,,2013 Pan-American Masters Championship,2013,5
+SFTL,50 M Breaststroke,LCM,W,40-44,35.37,Kelly A Legaspi,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Breaststroke,LCM,W,40-44,1:19.24,Kelly A Legaspi,,2013 Pan-American Masters Championship,2013,1
+WOW,100 M Breaststroke,LCM,W,40-44,1:36.92,LeAnn H Matsumura,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Breaststroke,LCM,W,40-44,1:53.07,Kristin R Volz,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Breaststroke,LCM,W,40-44,2:00.96,Dina Elnecave Rubin,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,200 M Breaststroke,LCM,W,40-44,3:49.05,Kristin R Volz,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Butterfly,LCM,W,40-44,33.29,Christine McCrady,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Butterfly,LCM,W,40-44,35.29,Dale A LeClair,,8th Annual June Krauser Summer Splash,2013,2
+WOW,50 M Butterfly,LCM,W,40-44,37.27,LeAnn H Matsumura,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Butterfly,LCM,W,40-44,40.28,Yukako Beatty,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,50 M Butterfly,LCM,W,40-44,48.46,Susan Scharr,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,100 M Butterfly,LCM,W,40-44,1:23.49,Dale A LeClair,,St. Pete Masters Long Course Swimming Championships,2013,1
+WOW,100 M Butterfly,LCM,W,40-44,1:28.53,LeAnn H Matsumura,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,100 M Butterfly,LCM,W,40-44,1:55.70,Kristin R Volz,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,200 M Butterfly,LCM,W,40-44,4:06.09,Kristin R Volz,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Individual Medley,LCM,W,40-44,2:58.36,Dale A LeClair,,St. Pete Masters Long Course Swimming Championships,2013,1
+SFTL,200 M Individual Medley,LCM,W,40-44,3:04.91,Megan M Lassen,,8th Annual June Krauser Summer Splash,2013,2
+WOW,200 M Individual Medley,LCM,W,40-44,3:19.51,LeAnn H Matsumura,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,400 M Individual Medley,LCM,W,40-44,6:38.95,Megan M Lassen,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,400 M Individual Medley,LCM,W,40-44,7:26.04,Yukako Beatty,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,400 M Individual Medley,LCM,W,40-44,7:45.40,Kristin R Volz,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,3
+SOFL,50 M Freestyle,LCM,W,45-49,35.54,Edileide M Marinheiro,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Freestyle,LCM,W,45-49,1:03.27,Birgit Lohberg,,2013 Pan-American Masters Championship,2013,1
+SOFL,100 M Freestyle,LCM,W,45-49,1:19.59,Edileide M Marinheiro,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,W,45-49,2:18.05,Birgit Lohberg,,2013 Pan-American Masters Championship,2013,1
+WOW,50 M Backstroke,LCM,W,45-49,36.05,Cynthia M Viteri,,2013 Coral Springs Last Chance LCM,2013,1
+WOW,100 M Backstroke,LCM,W,45-49,1:18.68,Cynthia M Viteri,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Backstroke,LCM,W,45-49,2:40.84,Birgit Lohberg,,2013 Pan-American Masters Championship,2013,1
+SOFL,50 M Breaststroke,LCM,W,45-49,42.55,Edileide M Marinheiro,,2013 Coral Springs Last Chance LCM,2013,1
+SOFL,100 M Breaststroke,LCM,W,45-49,1:36.00,Edileide M Marinheiro,,2013 Coral Springs Last Chance LCM,2013,1
+MWA,200 M Breaststroke,LCM,W,45-49,3:30.72,Karin - Meyerfreund,,2013 Pan-American Masters Championship,2013,1
+SOFL,200 M Breaststroke,LCM,W,45-49,3:32.07,Edileide M Marinheiro,,2013 Pan-American Masters Championship,2013,2
+WOW,50 M Butterfly,LCM,W,45-49,32.97,Cynthia M Viteri,,2013 Coral Springs Last Chance LCM,2013,1
+SOFL,50 M Butterfly,LCM,W,45-49,40.49,Edileide M Marinheiro,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,100 M Butterfly,LCM,W,45-49,1:07.90,Birgit Lohberg,,2013 Pan-American Masters Championship,2013,1
+WOW,100 M Butterfly,LCM,W,45-49,1:13.80,Cynthia M Viteri,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Butterfly,LCM,W,45-49,2:36.04,Birgit Lohberg,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Freestyle,LCM,W,50-54,31.49,Ann B Thomas,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Freestyle,LCM,W,50-54,31.59,Chris Wenzel,,8th Annual June Krauser Summer Splash,2013,2
+NCMJ,50 M Freestyle,LCM,W,50-54,33.32,Linda Irish Bostic,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Freestyle,LCM,W,50-54,37.14,Melissa Hinton,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,50 M Freestyle,LCM,W,50-54,37.57,Sarah L Bennett,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,50 M Freestyle,LCM,W,50-54,37.60,Terina Bruening,,8th Annual June Krauser Summer Splash,2013,6
+SFTL,50 M Freestyle,LCM,W,50-54,42.29,Adrienne Chin-Ogilvie,,8th Annual June Krauser Summer Splash,2013,7
+GOLD,50 M Freestyle,LCM,W,50-54,46.41,Cindi L Wood,,2013 Pan-American Masters Championship,2013,8
+NCMJ,100 M Freestyle,LCM,W,50-54,1:12.54,Linda Irish Bostic,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Freestyle,LCM,W,50-54,1:13.84,Ann B Thomas,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Freestyle,LCM,W,50-54,1:24.34,Sarah L Bennett,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Freestyle,LCM,W,50-54,1:25.86,Melissa Hinton,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Freestyle,LCM,W,50-54,1:27.29,Terina Bruening,,8th Annual June Krauser Summer Splash,2013,5
+WOW,100 M Freestyle,LCM,W,50-54,1:45.70,Patti Collins,,2013 Coral Springs Last Chance LCM,2013,6
+GOLD,100 M Freestyle,LCM,W,50-54,1:51.51,Cindi L Wood,,2013 Pan-American Masters Championship,2013,7
+NCMJ,200 M Freestyle,LCM,W,50-54,2:37.81,Linda Irish Bostic,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,200 M Freestyle,LCM,W,50-54,2:53.79,Lori A Schick,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,200 M Freestyle,LCM,W,50-54,3:06.64,Sarah L Bennett,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,200 M Freestyle,LCM,W,50-54,3:14.65,Melissa Hinton,,8th Annual June Krauser Summer Splash,2013,4
+WOW,200 M Freestyle,LCM,W,50-54,3:50.69,Patti Collins,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,200 M Freestyle,LCM,W,50-54,4:02.57,Cindi L Wood,,2013 Pan-American Masters Championship,2013,6
+NCMJ,400 M Freestyle,LCM,W,50-54,5:11.90,Linda Irish Bostic,,2013 Pan-American Masters Championship,2013,1
+GOLD,400 M Freestyle,LCM,W,50-54,5:19.87,Leticia Castro,,2013 Pan-American Masters Championship,2013,2
+SFTL,400 M Freestyle,LCM,W,50-54,5:52.44,Lori A Schick,,2013 Pan-American Masters Championship,2013,3
+SFTL,400 M Freestyle,LCM,W,50-54,6:31.05,Sarah L Bennett,,2013 Pan-American Masters Championship,2013,4
+GOLD,400 M Freestyle,LCM,W,50-54,6:47.35,Lee Brennan,,2013 Coral Springs Last Chance LCM,2013,5
+WOW,400 M Freestyle,LCM,W,50-54,7:56.98,Patti Collins,,2013 Coral Springs Last Chance LCM,2013,6
+SFTL,400 M Freestyle,LCM,W,50-54,7:57.76,Adrienne Chin-Ogilvie,,8th Annual June Krauser Summer Splash,2013,7
+NCMJ,800 M Freestyle,LCM,W,50-54,10:48.28,Linda Irish Bostic,,2013 Pan-American Masters Championship,2013,1
+GOLD,800 M Freestyle,LCM,W,50-54,11:12.34,Leticia Castro,,2013 Pan-American Masters Championship,2013,2
+SFTL,800 M Freestyle,LCM,W,50-54,16:06.04,Adrienne Chin-Ogilvie,,2013 Pan-American Masters Championship,2013,3
+GOLD,800 M Freestyle,LCM,W,50-54,17:26.73,Cindi L Wood,,2013 Pan-American Masters Championship,2013,4
+GOLD,50 M Backstroke,LCM,W,50-54,42.31,Kerri C Roussain,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Backstroke,LCM,W,50-54,44.14,Ann B Thomas,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Backstroke,LCM,W,50-54,46.22,Sarah L Bennett,,2013 Pan-American Masters Championship,2013,3
+SFTL,100 M Backstroke,LCM,W,50-54,1:27.14,Lori A Schick,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Backstroke,LCM,W,50-54,1:34.55,Ann B Thomas,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Backstroke,LCM,W,50-54,1:38.06,Lee Brennan,,2013 Pan-American Masters Championship,2013,3
+SFTL,100 M Backstroke,LCM,W,50-54,1:39.05,Chris Wenzel,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,100 M Backstroke,LCM,W,50-54,1:50.52,Sarah L Bennett,,2013 Coral Springs Last Chance LCM,2013,5
+SFTL,200 M Backstroke,LCM,W,50-54,3:01.16,Lori A Schick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Backstroke,LCM,W,50-54,3:30.04,Ann B Thomas,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Backstroke,LCM,W,50-54,3:30.72,Lee Brennan,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Backstroke,LCM,W,50-54,3:42.09,Sarah L Bennett,,2013 Pan-American Masters Championship,2013,4
+SFTL,50 M Breaststroke,LCM,W,50-54,38.46,Lori A Schick,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,W,50-54,41.41,Chris Wenzel,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Breaststroke,LCM,W,50-54,47.87,Kerri C Roussain,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Breaststroke,LCM,W,50-54,48.83,Lee Brennan,,2013 Pan-American Masters Championship,2013,4
+SFTL,50 M Breaststroke,LCM,W,50-54,50.45,Sarah L Bennett,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,50 M Breaststroke,LCM,W,50-54,52.47,Melissa Hinton,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,50 M Breaststroke,LCM,W,50-54,52.83,Terina Bruening,,8th Annual June Krauser Summer Splash,2013,7
+WOW,50 M Breaststroke,LCM,W,50-54,53.27,Patti Collins,,2013 Coral Springs Last Chance LCM,2013,8
+SFTL,100 M Breaststroke,LCM,W,50-54,1:24.96,Lori A Schick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,100 M Breaststroke,LCM,W,50-54,1:36.12,Chris Wenzel,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Breaststroke,LCM,W,50-54,1:50.86,Adrienne Chin-Ogilvie,,2013 Pan-American Masters Championship,2013,3
+SFTL,100 M Breaststroke,LCM,W,50-54,1:53.58,Sarah L Bennett,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,100 M Breaststroke,LCM,W,50-54,1:55.96,Terina Bruening,,8th Annual June Krauser Summer Splash,2013,5
+WOW,100 M Breaststroke,LCM,W,50-54,1:58.24,Patti Collins,,2013 Coral Springs Last Chance LCM,2013,6
+SFTL,200 M Breaststroke,LCM,W,50-54,3:05.91,Lori A Schick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Breaststroke,LCM,W,50-54,3:26.74,Chris Wenzel,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Breaststroke,LCM,W,50-54,3:51.40,Sarah L Bennett,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Breaststroke,LCM,W,50-54,3:59.12,Lee Brennan,,2013 Pan-American Masters Championship,2013,4
+SFTL,50 M Butterfly,LCM,W,50-54,37.71,Ann B Thomas,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Butterfly,LCM,W,50-54,38.65,Chris Wenzel,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Butterfly,LCM,W,50-54,1:51.26,Adrienne Chin-Ogilvie,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Butterfly,LCM,W,50-54,1:54.96,Sarah L Bennett,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Butterfly,LCM,W,50-54,2:59.74,Leticia Castro,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Butterfly,LCM,W,50-54,4:05.81,Sarah L Bennett,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Butterfly,LCM,W,50-54,4:15.07,Adrienne Chin-Ogilvie,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Individual Medley,LCM,W,50-54,2:58.56,Lori A Schick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Individual Medley,LCM,W,50-54,3:00.24,Leticia Castro,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Individual Medley,LCM,W,50-54,3:05.04,Chris Wenzel,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Individual Medley,LCM,W,50-54,3:14.05,Kerri C Roussain,,2013 Pan-American Masters Championship,2013,4
+SFTL,200 M Individual Medley,LCM,W,50-54,3:19.74,Ann B Thomas,,8th Annual June Krauser Summer Splash,2013,5
+SFTL,200 M Individual Medley,LCM,W,50-54,3:35.46,Sarah L Bennett,,2013 Pan-American Masters Championship,2013,6
+GOLD,200 M Individual Medley,LCM,W,50-54,3:35.82,Lee Brennan,,2013 Pan-American Masters Championship,2013,7
+GOLD,400 M Individual Medley,LCM,W,50-54,6:31.54,Leticia Castro,,2013 Pan-American Masters Championship,2013,1
+SFTL,400 M Individual Medley,LCM,W,50-54,6:32.56,Lori A Schick,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,400 M Individual Medley,LCM,W,50-54,7:49.00,Sarah L Bennett,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,400 M Individual Medley,LCM,W,50-54,8:57.13,Adrienne Chin-Ogilvie,,2013 Pan-American Masters Championship,2013,4
+GOLD,50 M Freestyle,LCM,W,55-59,32.52,Lisa A Bennett,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Freestyle,LCM,W,55-59,32.72,Peggy H McDonnell,,St. Pete Masters Long Course Swimming Championships,2013,2
+GOLD,50 M Freestyle,LCM,W,55-59,33.17,Celia C Devanney,,St. Pete Masters Long Course Swimming Championships,2013,3
+GOLD,50 M Freestyle,LCM,W,55-59,33.54,Lydia S Seier,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,50 M Freestyle,LCM,W,55-59,34.33,Barbara Protzman,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,100 M Freestyle,LCM,W,55-59,1:12.37,Peggy H McDonnell,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Freestyle,LCM,W,55-59,1:13.73,Celia C Devanney,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Freestyle,LCM,W,55-59,1:14.17,Lisa A Bennett,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Freestyle,LCM,W,55-59,1:17.23,Barbara Protzman,,2013 Pan-American Masters Championship,2013,4
+LYTA,100 M Freestyle,LCM,W,55-59,1:18.46,Laurie E Samuelson,,8th Annual June Krauser Summer Splash,2013,5
+SFTL,100 M Freestyle,LCM,W,55-59,1:33.13,Cynthia P Henley,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,200 M Freestyle,LCM,W,55-59,2:37.82,Lisa A Bennett,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,200 M Freestyle,LCM,W,55-59,2:43.33,Celia C Devanney,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,W,55-59,2:47.17,Barbara Protzman,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Freestyle,LCM,W,55-59,2:49.57,Lydia S Seier,,2013 Coral Springs Last Chance LCM,2013,4
+SFTL,200 M Freestyle,LCM,W,55-59,3:20.81,Cynthia P Henley,,2013 Pan-American Masters Championship,2013,5
+GOLD,400 M Freestyle,LCM,W,55-59,5:37.88,Lisa A Bennett,,8th Annual June Krauser Summer Splash,2013,1
+LYTA,400 M Freestyle,LCM,W,55-59,5:39.39,Laurie E Samuelson,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,400 M Freestyle,LCM,W,55-59,5:50.17,Celia C Devanney,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,400 M Freestyle,LCM,W,55-59,5:59.13,Darcy H LaFountain,,2013 Pan-American Masters Championship,2013,4
+GOLD,400 M Freestyle,LCM,W,55-59,6:01.02,Barbara Protzman,,2013 Pan-American Masters Championship,2013,5
+SFTL,400 M Freestyle,LCM,W,55-59,7:17.05,Cynthia P Henley,,8th Annual June Krauser Summer Splash,2013,6
+SFTL,400 M Freestyle,LCM,W,55-59,8:08.01,Marci A Grady,,8th Annual June Krauser Summer Splash,2013,7
+NCMJ,400 M Freestyle,LCM,W,55-59,10:50.62,Nancy Munro,,8th Annual June Krauser Summer Splash,2013,8
+GOLD,800 M Freestyle,LCM,W,55-59,11:48.31,Celia C Devanney,,2013 Pan-American Masters Championship,2013,1
+SFTL,800 M Freestyle,LCM,W,55-59,12:03.73,Linda L Larson,,Gil Young Memorial/NW Zone/Oregon LMSC Champs Long Course Meters Meet,2013,2
+NPBM,800 M Freestyle,LCM,W,55-59,12:24.63,Elizabeth T Maass,,2013 Pan-American Masters Championship,2013,3
+SFTL,1500 M Freestyle,LCM,W,55-59,23:15.54,Linda L Larson,,Gil Young Memorial/NW Zone/Oregon LMSC Champs Long Course Meters Meet,2013,1
+SFTL,50 M Backstroke,LCM,W,55-59,39.44,Linda L Larson,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+NCMJ,50 M Backstroke,LCM,W,55-59,1:23.27,Nancy Munro,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Backstroke,LCM,W,55-59,1:24.42,Linda L Larson,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+NCMJ,100 M Backstroke,LCM,W,55-59,2:58.97,Nancy Munro,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,200 M Backstroke,LCM,W,55-59,3:02.92,Linda L Larson,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Breaststroke,LCM,W,55-59,41.57,Lisa A Bennett,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Breaststroke,LCM,W,55-59,41.99,Peggy H McDonnell,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,50 M Breaststroke,LCM,W,55-59,50.23,Cynthia P Henley,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Breaststroke,LCM,W,55-59,52.81,Marci A Grady,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Breaststroke,LCM,W,55-59,1:34.34,Lisa A Bennett,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,100 M Breaststroke,LCM,W,55-59,1:35.62,Peggy H McDonnell,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,100 M Breaststroke,LCM,W,55-59,2:02.56,Marci A Grady,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Breaststroke,LCM,W,55-59,3:30.12,Lisa A Bennett,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Breaststroke,LCM,W,55-59,3:31.81,Peggy H McDonnell,,St. Pete Masters Long Course Swimming Championships,2013,2
+SFTL,200 M Breaststroke,LCM,W,55-59,3:59.79,Cynthia P Henley,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,200 M Breaststroke,LCM,W,55-59,4:20.26,Marci A Grady,,2013 Pan-American Masters Championship,2013,4
+NCMJ,200 M Breaststroke,LCM,W,55-59,7:16.32,Nancy Munro,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,50 M Butterfly,LCM,W,55-59,36.04,Peggy H McDonnell,,St. Pete Masters Long Course Swimming Championships,2013,1
+GOLD,50 M Butterfly,LCM,W,55-59,36.85,Celia C Devanney,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Butterfly,LCM,W,55-59,37.23,Lydia S Seier,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,50 M Butterfly,LCM,W,55-59,37.88,Lisa A Bennett,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,50 M Butterfly,LCM,W,55-59,41.91,Linda L Larson,,Gil Young Memorial/NW Zone/Oregon LMSC Champs Long Course Meters Meet,2013,5
+SFTL,50 M Butterfly,LCM,W,55-59,48.70,Marci A Grady,,2013 Pan-American Masters Championship,2013,6
+GOLD,100 M Butterfly,LCM,W,55-59,1:30.72,Celia C Devanney,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Butterfly,LCM,W,55-59,1:40.02,Linda L Larson,,Gil Young Memorial/NW Zone/Oregon LMSC Champs Long Course Meters Meet,2013,2
+NCMJ,100 M Butterfly,LCM,W,55-59,3:37.79,Nancy Munro,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,200 M Butterfly,LCM,W,55-59,3:48.24,Linda L Larson,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Butterfly,LCM,W,55-59,5:07.84,Marci A Grady,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Individual Medley,LCM,W,55-59,3:07.23,Peggy H McDonnell,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,200 M Individual Medley,LCM,W,55-59,3:16.68,Celia C Devanney,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Individual Medley,LCM,W,55-59,3:16.76,Barbara Protzman,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Individual Medley,LCM,W,55-59,4:00.38,Marci A Grady,,8th Annual June Krauser Summer Splash,2013,4
+NCMJ,200 M Individual Medley,LCM,W,55-59,6:37.30,Nancy Munro,,8th Annual June Krauser Summer Splash,2013,5
+SFTL,400 M Individual Medley,LCM,W,55-59,6:56.03,Linda L Larson,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,400 M Individual Medley,LCM,W,55-59,7:11.01,Barbara Protzman,,2013 Pan-American Masters Championship,2013,2
+SFTL,400 M Individual Medley,LCM,W,55-59,8:59.76,Marci A Grady,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Freestyle,LCM,W,60-64,34.10,Danielle Ogier,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Freestyle,LCM,W,60-64,41.56,Sherie Berk,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Freestyle,LCM,W,60-64,43.84,Michelle E Martin,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Freestyle,LCM,W,60-64,54.31,Catalina U Fazzano,,2013 Pan-American Masters Championship,2013,4
+GOLD,100 M Freestyle,LCM,W,60-64,1:14.40,Danielle Ogier,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+LYTA,100 M Freestyle,LCM,W,60-64,1:22.94,Catherine M Rust,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Freestyle,LCM,W,60-64,1:31.52,Sherie Berk,,2013 Pan-American Masters Championship,2013,3
+GOLD,100 M Freestyle,LCM,W,60-64,1:59.10,Catalina U Fazzano,,2013 Pan-American Masters Championship,2013,4
+GOLD,200 M Freestyle,LCM,W,60-64,2:40.95,Danielle Ogier,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Freestyle,LCM,W,60-64,3:05.30,Cathy Mancino,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,200 M Freestyle,LCM,W,60-64,3:18.41,Sherie Berk,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Freestyle,LCM,W,60-64,4:44.70,Anita M Mitchell,,2013 Pan-American Masters Championship,2013,4
+GOLD,400 M Freestyle,LCM,W,60-64,5:41.14,Danielle Ogier,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+LYTA,400 M Freestyle,LCM,W,60-64,5:54.11,Catherine M Rust,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,400 M Freestyle,LCM,W,60-64,6:10.94,Cathy Mancino,,8th Annual June Krauser Summer Splash,2013,3
+FLAQ,400 M Freestyle,LCM,W,60-64,10:13.75,Barbara R Bertram,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,800 M Freestyle,LCM,W,60-64,11:51.31,Danielle Ogier,,San Diego-Imperial LMSC 2013 Long Course Championships,2013,1
+SFTL,800 M Freestyle,LCM,W,60-64,14:29.75,Sherie Berk,,2013 Pan-American Masters Championship,2013,2
+GOLD,1500 M Freestyle,LCM,W,60-64,28:23.31,Judith Sharlin,,2013 T2 Masters Spring Splash Invite,2013,1
+GOLD,50 M Backstroke,LCM,W,60-64,43.11,Danielle Ogier,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Backstroke,LCM,W,60-64,51.53,Cathy Mancino,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Backstroke,LCM,W,60-64,57.65,Michelle E Martin,,2013 Pan-American Masters Championship,2013,3
+FLAQ,50 M Backstroke,LCM,W,60-64,1:11.87,Barbara R Bertram,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Backstroke,LCM,W,60-64,1:53.29,Cathy Mancino,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Backstroke,LCM,W,60-64,2:01.07,Michelle E Martin,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Backstroke,LCM,W,60-64,4:28.44,Michelle E Martin,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Breaststroke,LCM,W,60-64,43.84,Danielle Ogier,,8th Annual June Krauser Summer Splash,2013,1
+NCMJ,50 M Breaststroke,LCM,W,60-64,47.99,Maureen Fitzpatrick,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Breaststroke,LCM,W,60-64,53.13,Judith Sharlin,,2013 T2 Masters Spring Splash Invite,2013,3
+GOLD,50 M Breaststroke,LCM,W,60-64,55.66,Cathy Mancino,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,50 M Breaststroke,LCM,W,60-64,59.98,Catalina U Fazzano,,2013 Pan-American Masters Championship,2013,5
+GOLD,100 M Breaststroke,LCM,W,60-64,1:39.13,Danielle Ogier,,California Senior Games - Pasadena (LCM),2013,1
+NCMJ,100 M Breaststroke,LCM,W,60-64,1:48.26,Maureen Fitzpatrick,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Breaststroke,LCM,W,60-64,1:56.87,Judith Sharlin,,2013 T2 Masters Spring Splash Invite,2013,3
+GOLD,100 M Breaststroke,LCM,W,60-64,2:14.47,Catalina U Fazzano,,2013 Pan-American Masters Championship,2013,4
+GOLD,200 M Breaststroke,LCM,W,60-64,3:35.25,Danielle Ogier,,8th Annual June Krauser Summer Splash,2013,1
+NCMJ,200 M Breaststroke,LCM,W,60-64,3:51.38,Maureen Fitzpatrick,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Breaststroke,LCM,W,60-64,4:53.19,Catalina U Fazzano,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Butterfly,LCM,W,60-64,40.37,Danielle Ogier,,San Diego-Imperial LMSC 2013 Long Course Championships,2013,1
+GOLD,100 M Butterfly,LCM,W,60-64,1:32.33,Cathy Mancino,,2013 Coral Springs Last Chance LCM,2013,1
+SFTL,100 M Butterfly,LCM,W,60-64,2:02.73,Michelle E Martin,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Butterfly,LCM,W,60-64,4:24.32,Michelle E Martin,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Individual Medley,LCM,W,60-64,3:12.22,Danielle Ogier,,San Diego-Imperial LMSC 2013 Long Course Championships,2013,1
+GOLD,200 M Individual Medley,LCM,W,60-64,3:26.31,Cathy Mancino,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Individual Medley,LCM,W,60-64,5:21.69,Catalina U Fazzano,,2013 Pan-American Masters Championship,2013,3
+GOLD,400 M Individual Medley,LCM,W,60-64,7:21.93,Cathy Mancino,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,400 M Individual Medley,LCM,W,60-64,9:03.25,Michelle E Martin,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Freestyle,LCM,W,65-69,37.04,Linda Webb,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Freestyle,LCM,W,65-69,39.28,Rosa V Ventura,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Freestyle,LCM,W,65-69,41.42,Jeannie R Mitchell,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Freestyle,LCM,W,65-69,1:25.92,Linda Webb,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,100 M Freestyle,LCM,W,65-69,1:27.39,Rosa V Ventura,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Freestyle,LCM,W,65-69,1:29.25,Jeannie R Mitchell,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Freestyle,LCM,W,65-69,3:11.26,Rosa V Ventura,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Freestyle,LCM,W,65-69,3:19.49,Jeannie R Mitchell,,2013 Pan-American Masters Championship,2013,2
+SFTL,400 M Freestyle,LCM,W,65-69,6:26.50,Rosa V Ventura,,2013 Pan-American Masters Championship,2013,1
+GOLD,400 M Freestyle,LCM,W,65-69,7:05.95,Jeannie R Mitchell,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,800 M Freestyle,LCM,W,65-69,13:29.28,Rosa V Ventura,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Backstroke,LCM,W,65-69,43.00,Jeannie R Mitchell,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Backstroke,LCM,W,65-69,44.83,Rosa V Ventura,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Backstroke,LCM,W,65-69,1:39.55,Jeannie R Mitchell,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Backstroke,LCM,W,65-69,1:40.78,Rosa V Ventura,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+GOLD,200 M Backstroke,LCM,W,65-69,3:39.88,Jeannie R Mitchell,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Backstroke,LCM,W,65-69,3:43.64,Rosa V Ventura,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+SFTL,50 M Breaststroke,LCM,W,65-69,49.13,Linda Webb,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Breaststroke,LCM,W,65-69,54.79,Jeannie R Mitchell,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,100 M Breaststroke,LCM,W,65-69,1:48.22,Linda Webb,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,100 M Breaststroke,LCM,W,65-69,2:02.69,Jeannie R Mitchell,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,200 M Breaststroke,LCM,W,65-69,4:01.03,Linda Webb,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,50 M Butterfly,LCM,W,65-69,43.66,Linda Webb,,2013 Pan-American Masters Championship,2013,1
+MWA,50 M Butterfly,LCM,W,70-74,55.40,Carmen I Echeverria,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Freestyle,LCM,W,75-79,1:03.39,Betty Lou Tucker,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Freestyle,LCM,W,75-79,2:16.52,Betty Lou Tucker,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Freestyle,LCM,W,75-79,4:56.79,Betty Lou Tucker,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Freestyle,LCM,M,18-24,26.01,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+MWA,50 M Freestyle,LCM,M,18-24,28.23,Nicolas H Reyes,,2013 Coral Springs Last Chance LCM,2013,2
+MWA,50 M Freestyle,LCM,M,18-24,29.01,Daniel A Alcantara,,2013 Coral Springs Last Chance LCM,2013,3
+WOW,50 M Freestyle,LCM,M,18-24,36.77,Michael Mian,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,50 M Freestyle,LCM,M,18-24,48.96,Diego Sanguinetti,,8th Annual June Krauser Summer Splash,2013,5
+MWA,100 M Freestyle,LCM,M,18-24,1:06.41,Ricardo Alvarez,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Freestyle,LCM,M,18-24,1:28.29,Daniel P Sesto,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Freestyle,LCM,M,18-24,1:54.32,Diego Sanguinetti,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,200 M Freestyle,LCM,M,18-24,2:05.92,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+MWA,200 M Freestyle,LCM,M,18-24,2:26.06,Ricardo Alvarez,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,400 M Freestyle,LCM,M,18-24,4:30.31,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+MWA,400 M Freestyle,LCM,M,18-24,5:14.82,Ricardo Alvarez,,2013 Coral Springs Last Chance LCM,2013,2
+WOW,400 M Freestyle,LCM,M,18-24,6:48.63,Michael Mian,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,800 M Freestyle,LCM,M,18-24,9:36.99,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Backstroke,LCM,M,18-24,31.38,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,100 M Backstroke,LCM,M,18-24,1:05.49,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Backstroke,LCM,M,18-24,2:22.02,Eric L Jackwin,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Backstroke,LCM,M,18-24,3:52.91,Daniel P Sesto,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Breaststroke,LCM,M,18-24,33.79,Andrea Marzullo,,8th Annual June Krauser Summer Splash,2013,1
+MWA,50 M Breaststroke,LCM,M,18-24,38.92,Daniel A Alcantara,,2013 Coral Springs Last Chance LCM,2013,2
+MWA,50 M Breaststroke,LCM,M,18-24,40.04,Nicolas H Reyes,,2013 Coral Springs Last Chance LCM,2013,3
+MWA,100 M Breaststroke,LCM,M,18-24,1:28.75,Daniel A Alcantara,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,200 M Breaststroke,LCM,M,18-24,2:50.28,Andrea Marzullo,,8th Annual June Krauser Summer Splash,2013,1
+MWA,50 M Butterfly,LCM,M,18-24,29.94,Ricardo Alvarez,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Butterfly,LCM,M,18-24,1:01.60,Diego Sanguinetti,,2013 Coral Springs Last Chance LCM,2013,2
+MWA,100 M Butterfly,LCM,M,18-24,1:13.34,Ricardo Alvarez,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Butterfly,LCM,M,18-24,2:30.16,Diego Sanguinetti,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,200 M Individual Medley,LCM,M,18-24,2:31.23,Eric L Jackwin,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,50 M Freestyle,LCM,M,25-29,24.88,Vicente E Andrade,,2013 Pan-American Masters Championship,2013,1
+WOW,50 M Freestyle,LCM,M,25-29,26.15,Richard J Garza,,8th Annual June Krauser Summer Splash,2013,2
+P2LF,50 M Freestyle,LCM,M,25-29,29.07,Michael Shead,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,3
+GOLD,50 M Freestyle,LCM,M,25-29,34.61,Aldo D Jansel,,2013 Coral Springs Last Chance LCM,2013,4
+WOW,100 M Freestyle,LCM,M,25-29,57.60,Richard J Garza,,2013 Pan-American Masters Championship,2013,1
+P2LF,100 M Freestyle,LCM,M,25-29,1:08.03,Michael Shead,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+GOLD,100 M Freestyle,LCM,M,25-29,1:19.29,Aldo D Jansel,,2013 Coral Springs Last Chance LCM,2013,3
+WOW,200 M Freestyle,LCM,M,25-29,2:30.62,Richard J Garza,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Freestyle,LCM,M,25-29,3:13.63,Aldo D Jansel,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,400 M Freestyle,LCM,M,25-29,6:51.57,Aldo D Jansel,,2013 Coral Springs Last Chance LCM,2013,1
+WOW,800 M Freestyle,LCM,M,25-29,10:17.54,Richard J Garza,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Backstroke,LCM,M,25-29,28.11,Vicente E Andrade,,2013 Pan-American Masters Championship,2013,1
+WOW,50 M Backstroke,LCM,M,25-29,35.19,Richard J Garza,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,100 M Backstroke,LCM,M,25-29,59.31,Vicente E Andrade,,2013 Pan-American Masters Championship,2013,1
+WOW,100 M Backstroke,LCM,M,25-29,1:16.02,Richard J Garza,,8th Annual June Krauser Summer Splash,2013,2
+WOW,50 M Breaststroke,LCM,M,25-29,36.38,Richard J Garza,,2013 Coral Springs Last Chance LCM,2013,1
+SFTL,100 M Breaststroke,LCM,M,25-29,1:14.66,Joel A Acosta,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+WOW,100 M Breaststroke,LCM,M,25-29,1:27.20,Richard J Garza,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,200 M Breaststroke,LCM,M,25-29,2:39.57,Joel A Acosta,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+WOW,50 M Butterfly,LCM,M,25-29,26.88,Richard J Garza,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Butterfly,LCM,M,25-29,27.09,Vicente E Andrade,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Butterfly,LCM,M,25-29,1:00.24,Joel A Acosta,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,200 M Individual Medley,LCM,M,25-29,2:15.64,Joel A Acosta,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+WOW,200 M Individual Medley,LCM,M,25-29,2:57.46,Richard J Garza,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,400 M Individual Medley,LCM,M,25-29,5:02.04,Joel A Acosta,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+MWA,50 M Freestyle,LCM,M,30-34,25.64,Raphael G Lima,,2013 Pan-American Masters Championship,2013,1
+TEDA,50 M Freestyle,LCM,M,30-34,25.73,Raul Neukamp,,8th Annual June Krauser Summer Splash,2013,2
+TEDA,50 M Freestyle,LCM,M,30-34,26.29,Guilherme G Ferreira,,8th Annual June Krauser Summer Splash,2013,3
+UNAT,50 M Freestyle,LCM,M,30-34,27.26,Christopher O Robertson,,2013 Pan-American Masters Championship,2013,4
+GOLD,50 M Freestyle,LCM,M,30-34,27.36,James R Vaucher,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,50 M Freestyle,LCM,M,30-34,30.66,Travis S Yednak,,2013 Coral Springs Last Chance LCM,2013,6
+PLAN,50 M Freestyle,LCM,M,30-34,32.25,Darran E Boyer,,8th Annual June Krauser Summer Splash,2013,7
+GOLD,50 M Freestyle,LCM,M,30-34,38.28,Andres H Miyares,,8th Annual June Krauser Summer Splash,2013,8
+TEDA,100 M Freestyle,LCM,M,30-34,58.71,Raul Neukamp,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Freestyle,LCM,M,30-34,1:01.06,James R Vaucher,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Freestyle,LCM,M,30-34,1:09.03,Jarrod Gac,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Freestyle,LCM,M,30-34,1:10.91,Kennon B Williams,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Freestyle,LCM,M,30-34,1:15.16,Travis S Yednak,,2013 Coral Springs Last Chance LCM,2013,5
+TEDA,200 M Freestyle,LCM,M,30-34,2:22.05,Raul Neukamp,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Freestyle,LCM,M,30-34,2:58.51,Travis S Yednak,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Freestyle,LCM,M,30-34,3:06.85,Andres H Miyares,,8th Annual June Krauser Summer Splash,2013,3
+PLAN,200 M Freestyle,LCM,M,30-34,3:09.04,Darran E Boyer,,8th Annual June Krauser Summer Splash,2013,4
+UNAT,50 M Backstroke,LCM,M,30-34,32.00,Tommie A Cuticchia,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Backstroke,LCM,M,30-34,33.48,James R Vaucher,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Backstroke,LCM,M,30-34,47.17,Travis S Yednak,,2013 Coral Springs Last Chance LCM,2013,3
+TEDA,100 M Backstroke,LCM,M,30-34,1:09.31,Guilherme G Ferreira,,8th Annual June Krauser Summer Splash,2013,1
+UNAT,100 M Backstroke,LCM,M,30-34,1:09.77,Tommie A Cuticchia,,2013 Coral Springs Last Chance LCM,2013,2
+PLAN,100 M Backstroke,LCM,M,30-34,1:45.00,Darran E Boyer,,8th Annual June Krauser Summer Splash,2013,3
+UC50,200 M Backstroke,LCM,M,30-34,2:36.82,Tommie A Cuticchia,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Backstroke,LCM,M,30-34,2:44.59,James R Vaucher,,8th Annual June Krauser Summer Splash,2013,2
+MWA,50 M Breaststroke,LCM,M,30-34,35.34,Raphael G Lima,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,M,30-34,40.03,Kennon B Williams,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Breaststroke,LCM,M,30-34,40.68,Jarrod Gac,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Breaststroke,LCM,M,30-34,46.31,Travis S Yednak,,2013 Coral Springs Last Chance LCM,2013,4
+TEDA,50 M Butterfly,LCM,M,30-34,27.02,Raul Neukamp,,2013 Coral Springs Last Chance LCM,2013,1
+MWA,50 M Butterfly,LCM,M,30-34,27.78,Raphael G Lima,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Butterfly,LCM,M,30-34,28.91,James R Vaucher,,2013 Coral Springs Last Chance LCM,2013,3
+TEDA,50 M Butterfly,LCM,M,30-34,29.08,Guilherme G Ferreira,,8th Annual June Krauser Summer Splash,2013,4
+UC50,50 M Butterfly,LCM,M,30-34,29.35,Tommie A Cuticchia,,8th Annual June Krauser Summer Splash,2013,5
+PLAN,50 M Butterfly,LCM,M,30-34,37.37,Darran E Boyer,,8th Annual June Krauser Summer Splash,2013,6
+UC50,100 M Butterfly,LCM,M,30-34,1:03.48,Tommie A Cuticchia,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,100 M Butterfly,LCM,M,30-34,1:15.47,Jarrod Gac,,8th Annual June Krauser Summer Splash,2013,2
+UC50,200 M Butterfly,LCM,M,30-34,2:41.71,Tommie A Cuticchia,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Butterfly,LCM,M,30-34,3:21.06,Andres H Miyares,,8th Annual June Krauser Summer Splash,2013,2
+UNAT,200 M Individual Medley,LCM,M,30-34,2:39.27,Tommie A Cuticchia,,2013 Coral Springs Last Chance LCM,2013,1
+MWA,200 M Individual Medley,LCM,M,30-34,2:46.24,Raphael G Lima,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Individual Medley,LCM,M,30-34,2:50.37,Jarrod Gac,,8th Annual June Krauser Summer Splash,2013,3
+UC50,400 M Individual Medley,LCM,M,30-34,5:46.99,Tommie A Cuticchia,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,400 M Individual Medley,LCM,M,30-34,6:01.82,James R Vaucher,,8th Annual June Krauser Summer Splash,2013,2
+NCMJ,50 M Freestyle,LCM,M,35-39,26.04,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,50 M Freestyle,LCM,M,35-39,26.39,Ryan B Campbell,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Freestyle,LCM,M,35-39,26.77,Steven M Thomas,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Freestyle,LCM,M,35-39,28.79,Henrique L Thormann,,2013 Pan-American Masters Championship,2013,4
+SFTL,50 M Freestyle,LCM,M,35-39,29.96,Jeff Scarr,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,50 M Freestyle,LCM,M,35-39,30.01,Stephen E Dehnert,,2013 Coral Springs Last Chance LCM,2013,6
+TEDA,50 M Freestyle,LCM,M,35-39,30.29,Robert A Declercq,,8th Annual June Krauser Summer Splash,2013,7
+SFTL,50 M Freestyle,LCM,M,35-39,31.34,Michel Vogel,,2013 Pan-American Masters Championship,2013,8
+GOLD,50 M Freestyle,LCM,M,35-39,31.76,Don Tsang,,8th Annual June Krauser Summer Splash,2013,9
+SFTL,50 M Freestyle,LCM,M,35-39,32.65,Terence C Bhawanie,,2013 Pan-American Masters Championship,2013,10
+TEDA,50 M Freestyle,LCM,M,35-39,34.42,Alejandro Arbelaez,,2013 Coral Springs Last Chance LCM,2013,11
+NCMJ,50 M Freestyle,LCM,M,35-39,35.50,Hermes Reyes Caballero,,8th Annual June Krauser Summer Splash,2013,12
+GOLD,50 M Freestyle,LCM,M,35-39,45.42,Lee M Scharf,,8th Annual June Krauser Summer Splash,2013,13
+NCMJ,100 M Freestyle,LCM,M,35-39,58.25,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Freestyle,LCM,M,35-39,58.60,Steven M Thomas,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Freestyle,LCM,M,35-39,59.87,Ryan B Campbell,,2013 Pan-American Masters Championship,2013,3
+SFTL,100 M Freestyle,LCM,M,35-39,1:08.67,Michel Vogel,,2013 Pan-American Masters Championship,2013,4
+GOLD,100 M Freestyle,LCM,M,35-39,1:14.46,Don Tsang,,2013 Coral Springs Last Chance LCM,2013,5
+TEDA,100 M Freestyle,LCM,M,35-39,1:20.06,Alejandro Arbelaez,,2013 Coral Springs Last Chance LCM,2013,6
+NCMJ,200 M Freestyle,LCM,M,35-39,2:14.22,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Freestyle,LCM,M,35-39,2:23.26,Henrique L Thormann,,2013 Pan-American Masters Championship,2013,2
+WOW,200 M Freestyle,LCM,M,35-39,2:31.73,Shawn L Peters,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,200 M Freestyle,LCM,M,35-39,2:36.40,Terence C Bhawanie,,2013 Pan-American Masters Championship,2013,4
+TEDA,200 M Freestyle,LCM,M,35-39,2:41.01,Robert A Declercq,,8th Annual June Krauser Summer Splash,2013,5
+SFTL,200 M Freestyle,LCM,M,35-39,2:49.38,Michel Vogel,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,200 M Freestyle,LCM,M,35-39,2:57.53,Don Tsang,,2013 Coral Springs Last Chance LCM,2013,7
+NCMJ,200 M Freestyle,LCM,M,35-39,2:59.94,Hermes Reyes Caballero,,8th Annual June Krauser Summer Splash,2013,8
+NCMJ,400 M Freestyle,LCM,M,35-39,4:50.35,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+NCMJ,50 M Backstroke,LCM,M,35-39,31.95,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Backstroke,LCM,M,35-39,35.23,Henrique L Thormann,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Backstroke,LCM,M,35-39,52.64,Lee M Scharf,,8th Annual June Krauser Summer Splash,2013,3
+NCMJ,100 M Backstroke,LCM,M,35-39,1:09.20,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Backstroke,LCM,M,35-39,1:10.87,Ryan B Campbell,,2013 Pan-American Masters Championship,2013,2
+WOW,100 M Backstroke,LCM,M,35-39,1:21.40,Shawn L Peters,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Backstroke,LCM,M,35-39,1:22.85,Jeff Scarr,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,100 M Backstroke,LCM,M,35-39,1:26.05,Terence C Bhawanie,,2013 Pan-American Masters Championship,2013,5
+SFTL,200 M Backstroke,LCM,M,35-39,2:37.48,Ryan B Campbell,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Breaststroke,LCM,M,35-39,38.50,Stephen E Dehnert,,2013 Coral Springs Last Chance LCM,2013,1
+MWA,50 M Breaststroke,LCM,M,35-39,41.98,Fons W Visschers,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Breaststroke,LCM,M,35-39,45.04,Don Tsang,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Breaststroke,LCM,M,35-39,57.30,Lee M Scharf,,8th Annual June Krauser Summer Splash,2013,4
+WOW,100 M Breaststroke,LCM,M,35-39,1:24.64,Shawn L Peters,,2013 Coral Springs Last Chance LCM,2013,1
+MWA,100 M Breaststroke,LCM,M,35-39,1:39.63,Fons W Visschers,,2013 Coral Springs Last Chance LCM,2013,2
+NCMJ,50 M Butterfly,LCM,M,35-39,28.81,Dan Weinberg,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,50 M Butterfly,LCM,M,35-39,29.73,Ryan B Campbell,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Butterfly,LCM,M,35-39,36.67,Stephen E Dehnert,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,50 M Butterfly,LCM,M,35-39,36.88,Michel Vogel,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,50 M Butterfly,LCM,M,35-39,46.55,Lee M Scharf,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,100 M Butterfly,LCM,M,35-39,2:04.16,Lee M Scharf,,8th Annual June Krauser Summer Splash,2013,1
+WOW,200 M Individual Medley,LCM,M,35-39,2:46.78,Shawn L Peters,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Individual Medley,LCM,M,35-39,4:28.87,Lee M Scharf,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Freestyle,LCM,M,40-44,25.53,Ryan D Williams,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+NCMJ,50 M Freestyle,LCM,M,40-44,26.10,Christopher E Beach,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Freestyle,LCM,M,40-44,27.26,William Hernandez,,2013 Pan-American Masters Championship,2013,3
+SFTL,50 M Freestyle,LCM,M,40-44,27.95,Andrew J Farrell,,2013 Pan-American Masters Championship,2013,4
+GOLD,50 M Freestyle,LCM,M,40-44,28.29,Hilario Itriago,,2013 Coral Springs Last Chance LCM,2013,5
+SFTL,50 M Freestyle,LCM,M,40-44,28.32,James G Wray,,2013 Pan-American Masters Championship,2013,6
+TEDA,50 M Freestyle,LCM,M,40-44,29.22,Robert W Vale,,2013 Coral Springs Last Chance LCM,2013,7
+SFTL,50 M Freestyle,LCM,M,40-44,29.80,Robert R Pardo,,2013 Pan-American Masters Championship,2013,8
+WOW,50 M Freestyle,LCM,M,40-44,42.30,Sal S Mucino,,2013 Coral Springs Last Chance LCM,2013,9
+SFTL,100 M Freestyle,LCM,M,40-44,57.28,Ryan D Williams,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+NCMJ,100 M Freestyle,LCM,M,40-44,57.73,Christopher E Beach,,2013 Coral Springs Last Chance LCM,2013,2
+PLAN,100 M Freestyle,LCM,M,40-44,59.15,Carlos I Ochoa,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,100 M Freestyle,LCM,M,40-44,59.36,Eduard Tiozzo,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Freestyle,LCM,M,40-44,1:01.20,William Hernandez,,2013 Pan-American Masters Championship,2013,5
+SFTL,100 M Freestyle,LCM,M,40-44,1:04.81,Robert R Pardo,,2013 Pan-American Masters Championship,2013,6
+UC50,100 M Freestyle,LCM,M,40-44,1:05.55,William C Faries,,8th Annual June Krauser Summer Splash,2013,7
+TEDA,100 M Freestyle,LCM,M,40-44,1:09.82,Robert W Vale,,2013 Coral Springs Last Chance LCM,2013,8
+SFTL,100 M Freestyle,LCM,M,40-44,1:21.67,Adam J Martz,,2013 Pan-American Masters Championship,2013,9
+WOW,100 M Freestyle,LCM,M,40-44,1:40.17,Sal S Mucino,,2013 Coral Springs Last Chance LCM,2013,10
+PLAN,200 M Freestyle,LCM,M,40-44,2:06.23,Carlos I Ochoa,,2013 Pan-American Masters Championship,2013,1
+NCMJ,200 M Freestyle,LCM,M,40-44,2:10.66,Christopher E Beach,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,200 M Freestyle,LCM,M,40-44,2:12.63,Andrew J Farrell,,2013 Pan-American Masters Championship,2013,3
+SFTL,200 M Freestyle,LCM,M,40-44,2:18.90,Robert R Pardo,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,4
+GOLD,200 M Freestyle,LCM,M,40-44,2:25.77,Hilario Itriago,,8th Annual June Krauser Summer Splash,2013,5
+TEDA,200 M Freestyle,LCM,M,40-44,2:42.53,Robert W Vale,,2013 Coral Springs Last Chance LCM,2013,6
+GOLD,200 M Freestyle,LCM,M,40-44,3:10.24,Raymond R Marquez,,2013 Coral Springs Last Chance LCM,2013,7
+SFTL,200 M Freestyle,LCM,M,40-44,3:16.62,Adam J Martz,,2013 Pan-American Masters Championship,2013,8
+PLAN,400 M Freestyle,LCM,M,40-44,4:34.20,Carlos I Ochoa,,2013 Pan-American Masters Championship,2013,1
+SFTL,400 M Freestyle,LCM,M,40-44,4:44.76,Andrew J Farrell,,2013 Pan-American Masters Championship,2013,2
+SFTL,400 M Freestyle,LCM,M,40-44,4:58.19,Robert R Pardo,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,3
+GOLD,400 M Freestyle,LCM,M,40-44,5:21.34,Rob A Abcug,,2013 Pan-American Masters Championship,2013,4
+UC50,400 M Freestyle,LCM,M,40-44,5:37.35,William C Faries,,8th Annual June Krauser Summer Splash,2013,5
+SFTL,400 M Freestyle,LCM,M,40-44,6:39.70,Jason D Lassen,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,400 M Freestyle,LCM,M,40-44,6:43.27,Raymond R Marquez,,2013 Coral Springs Last Chance LCM,2013,7
+SFTL,800 M Freestyle,LCM,M,40-44,9:49.87,Andrew J Farrell,,2013 Pan-American Masters Championship,2013,1
+SFTL,800 M Freestyle,LCM,M,40-44,10:20.49,Robert R Pardo,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+SFTL,1500 M Freestyle,LCM,M,40-44,20:05.53,Robert R Pardo,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Backstroke,LCM,M,40-44,32.04,Andrew J Farrell,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Backstroke,LCM,M,40-44,32.13,James G Wray,,2013 Pan-American Masters Championship,2013,2
+UNAT,50 M Backstroke,LCM,M,40-44,32.41,Elias S Munguia,,2013 Pan-American Masters Championship,2013,3
+SFTL,50 M Backstroke,LCM,M,40-44,35.47,Ryan D Williams,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,50 M Backstroke,LCM,M,40-44,38.26,Robert R Pardo,,2013 Pan-American Masters Championship,2013,5
+SFTL,100 M Backstroke,LCM,M,40-44,1:09.86,James G Wray,,2013 Pan-American Masters Championship,2013,1
+PLAN,100 M Backstroke,LCM,M,40-44,1:11.27,Carlos I Ochoa,,2013 Coral Springs Last Chance LCM,2013,2
+UNAT,100 M Backstroke,LCM,M,40-44,1:12.10,Elias S Munguia,,2013 Pan-American Masters Championship,2013,3
+UNAT,200 M Backstroke,LCM,M,40-44,2:33.60,Elias S Munguia,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Backstroke,LCM,M,40-44,2:34.86,James G Wray,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Backstroke,LCM,M,40-44,2:36.86,Andrew J Farrell,,2013 Pan-American Masters Championship,2013,3
+SFTL,50 M Breaststroke,LCM,M,40-44,34.41,Ryan D Williams,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Breaststroke,LCM,M,40-44,35.34,Rob A Abcug,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Breaststroke,LCM,M,40-44,42.09,Glen A Hanks,,2013 Coral Springs Last Chance LCM,2013,3
+WOW,50 M Breaststroke,LCM,M,40-44,49.93,Sal S Mucino,,2013 Coral Springs Last Chance LCM,2013,4
+SFTL,100 M Breaststroke,LCM,M,40-44,1:18.95,Ryan D Williams,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,100 M Breaststroke,LCM,M,40-44,1:20.77,Rob A Abcug,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Breaststroke,LCM,M,40-44,1:36.00,Glen A Hanks,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,100 M Breaststroke,LCM,M,40-44,1:40.74,Jason D Lassen,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,50 M Butterfly,LCM,M,40-44,27.85,Ryan D Williams,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Butterfly,LCM,M,40-44,28.99,William Hernandez,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Butterfly,LCM,M,40-44,29.93,Hilario Itriago,,2013 Coral Springs Last Chance LCM,2013,3
+TEDA,50 M Butterfly,LCM,M,40-44,33.07,Robert W Vale,,2013 Coral Springs Last Chance LCM,2013,4
+WOW,50 M Butterfly,LCM,M,40-44,51.77,Sal S Mucino,,2013 Coral Springs Last Chance LCM,2013,5
+PLAN,100 M Butterfly,LCM,M,40-44,1:04.30,Carlos I Ochoa,,2013 Pan-American Masters Championship,2013,1
+PLAN,200 M Individual Medley,LCM,M,40-44,2:26.87,Carlos I Ochoa,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Individual Medley,LCM,M,40-44,2:46.65,Rob A Abcug,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Individual Medley,LCM,M,40-44,3:08.04,Glen A Hanks,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,200 M Individual Medley,LCM,M,40-44,3:24.79,Jason D Lassen,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,200 M Individual Medley,LCM,M,40-44,4:28.15,Raymond R Marquez,,2013 Coral Springs Last Chance LCM,2013,5
+SFTL,400 M Individual Medley,LCM,M,40-44,6:04.32,Robert R Pardo,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,400 M Individual Medley,LCM,M,40-44,7:19.28,Jason D Lassen,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Freestyle,LCM,M,45-49,27.64,Terry L Lage,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Freestyle,LCM,M,45-49,28.14,Jim Harper,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Freestyle,LCM,M,45-49,28.19,Michael C Lyn,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Freestyle,LCM,M,45-49,28.20,Graeme A Fiser,,2013 Pan-American Masters Championship,2013,4
+SFTL,50 M Freestyle,LCM,M,45-49,28.42,Andy Fischer,,2013 Pan-American Masters Championship,2013,5
+GOLD,50 M Freestyle,LCM,M,45-49,29.06,David W LeClair,,St. Pete Masters Long Course Swimming Championships,2013,6
+PLAN,50 M Freestyle,LCM,M,45-49,31.78,Fernando Abad,,2013 Coral Springs Last Chance LCM,2013,7
+GOLD,50 M Freestyle,LCM,M,45-49,31.84,Mark S Kowalak,,2013 Coral Springs Last Chance LCM,2013,8
+SFTL,50 M Freestyle,LCM,M,45-49,34.61,Raife Snover,,8th Annual June Krauser Summer Splash,2013,9
+UNAT,50 M Freestyle,LCM,M,45-49,35.05,Phillip F Glatzer,,2013 Coral Springs Last Chance LCM,2013,10
+MWA,50 M Freestyle,LCM,M,45-49,37.15,Cesar Angel,,2013 Coral Springs Last Chance LCM,2013,11
+GOLD,50 M Freestyle,LCM,M,45-49,38.22,Sergio M Farias,,2013 Coral Springs Last Chance LCM,2013,12
+GOLD,100 M Freestyle,LCM,M,45-49,1:00.32,Ricardo J Valdivia,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,100 M Freestyle,LCM,M,45-49,1:00.79,Terry L Lage,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Freestyle,LCM,M,45-49,1:05.78,Andy Fischer,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,3
+PLAN,100 M Freestyle,LCM,M,45-49,1:12.12,Fernando Abad,,2013 Pan-American Masters Championship,2013,4
+SFTL,100 M Freestyle,LCM,M,45-49,1:23.50,Jonathan D Kline,,8th Annual June Krauser Summer Splash,2013,5
+MWA,100 M Freestyle,LCM,M,45-49,1:24.66,Cesar Angel,,2013 Coral Springs Last Chance LCM,2013,6
+UNAT,100 M Freestyle,LCM,M,45-49,1:25.75,Phillip F Glatzer,,2013 Coral Springs Last Chance LCM,2013,7
+GOLD,200 M Freestyle,LCM,M,45-49,2:08.74,Ricardo J Valdivia,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,200 M Freestyle,LCM,M,45-49,2:17.12,Jim Harper,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Freestyle,LCM,M,45-49,2:17.63,Terry L Lage,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Freestyle,LCM,M,45-49,2:37.52,Michael C Lyn,,8th Annual June Krauser Summer Splash,2013,4
+PLAN,200 M Freestyle,LCM,M,45-49,2:44.80,Fernando Abad,,2013 Pan-American Masters Championship,2013,5
+GOLD,400 M Freestyle,LCM,M,45-49,4:30.76,Ricardo J Valdivia,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,400 M Freestyle,LCM,M,45-49,5:04.57,David W LeClair,,St. Pete Masters Long Course Swimming Championships,2013,2
+GOLD,50 M Backstroke,LCM,M,45-49,32.71,Jim Harper,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Backstroke,LCM,M,45-49,37.87,David W LeClair,,St. Pete Masters Long Course Swimming Championships,2013,2
+PLAN,50 M Backstroke,LCM,M,45-49,40.76,Fernando Abad,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Backstroke,LCM,M,45-49,1:10.50,Jim Harper,,2013 Pan-American Masters Championship,2013,1
+PLAN,100 M Backstroke,LCM,M,45-49,1:25.86,Fernando Abad,,2013 Pan-American Masters Championship,2013,2
+PLAN,200 M Backstroke,LCM,M,45-49,3:07.28,Fernando Abad,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,M,45-49,32.72,Graeme A Fiser,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Breaststroke,LCM,M,45-49,33.06,Sean P Frampton,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Breaststroke,LCM,M,45-49,35.59,Terry L Lage,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Breaststroke,LCM,M,45-49,38.07,Jonathan D Kline,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,50 M Breaststroke,LCM,M,45-49,43.07,Mark S Kowalak,,2013 Coral Springs Last Chance LCM,2013,5
+SFTL,100 M Breaststroke,LCM,M,45-49,1:11.78,Graeme A Fiser,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,100 M Breaststroke,LCM,M,45-49,1:14.55,Sean P Frampton,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Breaststroke,LCM,M,45-49,1:20.77,Terry L Lage,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Breaststroke,LCM,M,45-49,1:41.01,Sergio M Farias,,2013 Coral Springs Last Chance LCM,2013,4
+SFTL,200 M Breaststroke,LCM,M,45-49,2:35.96,Graeme A Fiser,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Breaststroke,LCM,M,45-49,2:51.27,Sean P Frampton,,8th Annual June Krauser Summer Splash,2013,2
+PLAN,200 M Breaststroke,LCM,M,45-49,3:45.61,Fernando Abad,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,50 M Butterfly,LCM,M,45-49,27.90,Bryan R Tatterson,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Butterfly,LCM,M,45-49,30.45,Andy Fischer,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+GOLD,50 M Butterfly,LCM,M,45-49,33.68,Sergio M Farias,,2013 Coral Springs Last Chance LCM,2013,3
+PLAN,50 M Butterfly,LCM,M,45-49,40.65,Fernando Abad,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,100 M Butterfly,LCM,M,45-49,1:04.64,Bryan R Tatterson,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Butterfly,LCM,M,45-49,1:07.16,Andy Fischer,,2013 Pan-American Masters Championship,2013,2
+SFTL,200 M Butterfly,LCM,M,45-49,2:34.52,Andy Fischer,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Individual Medley,LCM,M,45-49,2:26.95,Ricardo J Valdivia,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,200 M Individual Medley,LCM,M,45-49,2:40.25,David W LeClair,,St. Pete Masters Long Course Swimming Championships,2013,2
+PLAN,200 M Individual Medley,LCM,M,45-49,3:09.66,Fernando Abad,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,400 M Individual Medley,LCM,M,45-49,5:12.14,Ricardo J Valdivia,,8th Annual June Krauser Summer Splash,2013,1
+PLAN,400 M Individual Medley,LCM,M,45-49,6:58.03,Fernando Abad,,2013 Pan-American Masters Championship,2013,2
+MWA,50 M Freestyle,LCM,M,50-54,29.72,Doug Cohen,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Freestyle,LCM,M,50-54,33.06,Karl Shires,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Freestyle,LCM,M,50-54,33.84,Cary Zinkin,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Freestyle,LCM,M,50-54,34.26,Robert M Nunnally,,2013 Coral Springs Last Chance LCM,2013,4
+SOFL,50 M Freestyle,LCM,M,50-54,36.40,Miles Malmborg,,2013 Coral Springs Last Chance LCM,2013,5
+PLAN,50 M Freestyle,LCM,M,50-54,36.41,Jose A Ponce,,2013 Pan-American Masters Championship,2013,6
+GOLD,50 M Freestyle,LCM,M,50-54,36.80,Paul D Kissinger,,2013 Coral Springs Last Chance LCM,2013,7
+GOLD,50 M Freestyle,LCM,M,50-54,37.29,Leon Cherniak,,8th Annual June Krauser Summer Splash,2013,8
+GOLD,100 M Freestyle,LCM,M,50-54,1:06.15,Jonathan B Olsen,,8th Annual June Krauser Summer Splash,2013,1
+LYTA,100 M Freestyle,LCM,M,50-54,1:10.28,Chip Green,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Freestyle,LCM,M,50-54,1:13.51,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Freestyle,LCM,M,50-54,1:14.61,Karl Shires,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,100 M Freestyle,LCM,M,50-54,1:19.22,Robert M Nunnally,,2013 Coral Springs Last Chance LCM,2013,5
+SOFL,100 M Freestyle,LCM,M,50-54,1:20.52,Miles Malmborg,,2013 Coral Springs Last Chance LCM,2013,6
+GOLD,100 M Freestyle,LCM,M,50-54,1:21.90,Cary Zinkin,,8th Annual June Krauser Summer Splash,2013,7
+GOLD,100 M Freestyle,LCM,M,50-54,1:22.38,Brian Coomes,,2013 Coral Springs Last Chance LCM,2013,8
+GOLD,100 M Freestyle,LCM,M,50-54,1:25.18,Paul D Kissinger,,2013 Coral Springs Last Chance LCM,2013,9
+PLAN,100 M Freestyle,LCM,M,50-54,1:27.41,Jose A Ponce,,2013 Pan-American Masters Championship,2013,10
+GOLD,200 M Freestyle,LCM,M,50-54,2:23.84,Jonathan B Olsen,,8th Annual June Krauser Summer Splash,2013,1
+LYTA,200 M Freestyle,LCM,M,50-54,2:37.38,Chip Green,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Freestyle,LCM,M,50-54,2:58.83,Paul D Kissinger,,2013 Coral Springs Last Chance LCM,2013,3
+SOFL,200 M Freestyle,LCM,M,50-54,3:01.14,Miles Malmborg,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,200 M Freestyle,LCM,M,50-54,3:18.89,Cary Zinkin,,8th Annual June Krauser Summer Splash,2013,5
+PLAN,200 M Freestyle,LCM,M,50-54,3:29.88,Jose A Ponce,,2013 Pan-American Masters Championship,2013,6
+GOLD,400 M Freestyle,LCM,M,50-54,5:01.99,Jonathan B Olsen,,2013 Pan-American Masters Championship,2013,1
+LYTA,400 M Freestyle,LCM,M,50-54,5:34.45,Chip Green,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,400 M Freestyle,LCM,M,50-54,6:43.08,Brian Coomes,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,100 M Backstroke,LCM,M,50-54,1:16.05,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,1
+LYTA,100 M Backstroke,LCM,M,50-54,1:30.84,Chip Green,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Backstroke,LCM,M,50-54,1:42.54,Brian Coomes,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,200 M Backstroke,LCM,M,50-54,2:44.43,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Breaststroke,LCM,M,50-54,40.92,Karl Shires,,8th Annual June Krauser Summer Splash,2013,1
+MWA,50 M Breaststroke,LCM,M,50-54,42.10,Doug Cohen,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,50 M Breaststroke,LCM,M,50-54,46.30,Leon Cherniak,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Breaststroke,LCM,M,50-54,46.93,Robert M Nunnally,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,100 M Breaststroke,LCM,M,50-54,1:28.39,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,100 M Breaststroke,LCM,M,50-54,1:29.66,Karl Shires,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Breaststroke,LCM,M,50-54,1:44.80,Brian Coomes,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,200 M Breaststroke,LCM,M,50-54,3:06.30,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Breaststroke,LCM,M,50-54,3:28.24,Karl Shires,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Butterfly,LCM,M,50-54,30.13,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,1
+UC50,50 M Butterfly,LCM,M,50-54,35.29,Alejandro J Ruiz,,8th Annual June Krauser Summer Splash,2013,2
+SOFL,50 M Butterfly,LCM,M,50-54,36.13,Miles Malmborg,,2013 Coral Springs Last Chance LCM,2013,3
+LYTA,100 M Butterfly,LCM,M,50-54,1:26.83,Chip Green,,8th Annual June Krauser Summer Splash,2013,1
+SOFL,100 M Butterfly,LCM,M,50-54,1:29.19,Miles Malmborg,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Individual Medley,LCM,M,50-54,2:41.90,Jim S Fenstermacher,,8th Annual June Krauser Summer Splash,2013,1
+LYTA,200 M Individual Medley,LCM,M,50-54,3:01.70,Chip Green,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Individual Medley,LCM,M,50-54,3:21.50,Brian Coomes,,2013 Coral Springs Last Chance LCM,2013,3
+PLAN,50 M Freestyle,LCM,M,55-59,28.44,Francisco J Parra,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Freestyle,LCM,M,55-59,28.58,Jeffrey P Service,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,50 M Freestyle,LCM,M,55-59,29.90,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,3
+GOLD,50 M Freestyle,LCM,M,55-59,30.23,Al Moreno,,2013 Coral Springs Last Chance LCM,2013,4
+MWA,50 M Freestyle,LCM,M,55-59,30.31,Ivan J Hurtado,,2013 Coral Springs Last Chance LCM,2013,5
+NCMJ,50 M Freestyle,LCM,M,55-59,30.46,Michael L Yagemann,,8th Annual June Krauser Summer Splash,2013,6
+SFTL,50 M Freestyle,LCM,M,55-59,30.55,Beda C Dondi,,2013 Pan-American Masters Championship,2013,7
+SFTL,50 M Freestyle,LCM,M,55-59,31.06,Michael F Kelly,,2013 Coral Springs Last Chance LCM,2013,8
+GOLD,50 M Freestyle,LCM,M,55-59,40.88,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,9
+GOLD,100 M Freestyle,LCM,M,55-59,1:06.08,Jeffrey P Service,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Freestyle,LCM,M,55-59,1:07.12,Beda C Dondi,,2013 Pan-American Masters Championship,2013,2
+SFTL,100 M Freestyle,LCM,M,55-59,1:09.21,John S Andrews,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Freestyle,LCM,M,55-59,1:12.92,Lars Ferron,,8th Annual June Krauser Summer Splash,2013,4
+SFTL,100 M Freestyle,LCM,M,55-59,1:14.31,David P Boudreau,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,100 M Freestyle,LCM,M,55-59,1:16.36,Barry Gollop,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,100 M Freestyle,LCM,M,55-59,1:19.32,Paul A Millman,,8th Annual June Krauser Summer Splash,2013,7
+GOLD,100 M Freestyle,LCM,M,55-59,1:31.34,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,8
+NCMJ,200 M Freestyle,LCM,M,55-59,2:31.82,Michael L Yagemann,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Freestyle,LCM,M,55-59,3:04.32,Blaise M O'Neill,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Freestyle,LCM,M,55-59,3:24.82,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,400 M Freestyle,LCM,M,55-59,5:13.87,John S Andrews,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,400 M Freestyle,LCM,M,55-59,5:30.16,David P Boudreau,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,400 M Freestyle,LCM,M,55-59,6:02.41,Lars Ferron,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,400 M Freestyle,LCM,M,55-59,6:09.41,Barry Gollop,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,400 M Freestyle,LCM,M,55-59,6:27.64,Blaise M O'Neill,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,400 M Freestyle,LCM,M,55-59,6:30.46,Paul A Millman,,8th Annual June Krauser Summer Splash,2013,6
+SFTL,800 M Freestyle,LCM,M,55-59,10:53.71,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+NPBM,800 M Freestyle,LCM,M,55-59,11:39.89,Robb R Maass,,2013 Pan-American Masters Championship,2013,2
+SFTL,1500 M Freestyle,LCM,M,55-59,20:52.03,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Backstroke,LCM,M,55-59,34.20,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+SFTL,50 M Backstroke,LCM,M,55-59,42.49,John S Andrews,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,100 M Backstroke,LCM,M,55-59,1:12.64,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+PLAN,100 M Backstroke,LCM,M,55-59,1:30.73,Francisco J Parra,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Backstroke,LCM,M,55-59,2:02.80,Roy S Sonenshein,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,200 M Backstroke,LCM,M,55-59,2:35.12,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Backstroke,LCM,M,55-59,4:11.93,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Breaststroke,LCM,M,55-59,35.75,Al Moreno,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Breaststroke,LCM,M,55-59,39.48,Beda C Dondi,,8th Annual June Krauser Summer Splash,2013,2
+SFTL,50 M Breaststroke,LCM,M,55-59,43.02,David P Boudreau,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Breaststroke,LCM,M,55-59,49.00,Barry Gollop,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,50 M Breaststroke,LCM,M,55-59,54.05,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,100 M Breaststroke,LCM,M,55-59,1:20.26,Al Moreno,,2013 Pan-American Masters Championship,2013,1
+NCMJ,100 M Breaststroke,LCM,M,55-59,1:29.63,Michael L Yagemann,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Breaststroke,LCM,M,55-59,2:00.78,Roy S Sonenshein,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,200 M Breaststroke,LCM,M,55-59,2:57.54,Al Moreno,,"2013 Masters Annual ""Dog Days of Summer"" Meet",2013,1
+SFTL,200 M Breaststroke,LCM,M,55-59,3:25.65,Beda C Dondi,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Breaststroke,LCM,M,55-59,4:18.12,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,3
+PLAN,50 M Butterfly,LCM,M,55-59,31.71,Francisco J Parra,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Butterfly,LCM,M,55-59,31.83,Jeffrey P Service,,2013 Coral Springs Last Chance LCM,2013,2
+SFTL,50 M Butterfly,LCM,M,55-59,33.10,Beda C Dondi,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Butterfly,LCM,M,55-59,33.14,Lars Ferron,,2013 Coral Springs Last Chance LCM,2013,4
+MWA,50 M Butterfly,LCM,M,55-59,35.86,Ivan J Hurtado,,2013 Coral Springs Last Chance LCM,2013,5
+GOLD,50 M Butterfly,LCM,M,55-59,55.15,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,100 M Butterfly,LCM,M,55-59,1:19.04,Lars Ferron,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,100 M Butterfly,LCM,M,55-59,1:41.29,Barry Gollop,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Butterfly,LCM,M,55-59,2:03.23,Roy S Sonenshein,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,200 M Butterfly,LCM,M,55-59,4:36.71,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,1
+SFTL,200 M Individual Medley,LCM,M,55-59,2:56.02,Beda C Dondi,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Individual Medley,LCM,M,55-59,3:46.93,Paul A Millman,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,200 M Individual Medley,LCM,M,55-59,3:59.67,Roy S Sonenshein,,2013 Coral Springs Last Chance LCM,2013,3
+SFTL,400 M Individual Medley,LCM,M,55-59,5:46.78,Marty Hendrick,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,400 M Individual Medley,LCM,M,55-59,7:16.34,Barry Gollop,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,400 M Individual Medley,LCM,M,55-59,8:25.07,Roy S Sonenshein,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,50 M Freestyle,LCM,M,60-64,28.47,Craig J Burns,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Freestyle,LCM,M,60-64,28.94,George L Schmidt,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Freestyle,LCM,M,60-64,32.77,David J Beuttenmuller,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,50 M Freestyle,LCM,M,60-64,38.14,Ken R Beier,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,100 M Freestyle,LCM,M,60-64,1:06.13,George L Schmidt,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,100 M Freestyle,LCM,M,60-64,1:18.58,David J Beuttenmuller,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,100 M Freestyle,LCM,M,60-64,1:33.08,Ken R Beier,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,200 M Freestyle,LCM,M,60-64,3:11.01,David J Beuttenmuller,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,400 M Freestyle,LCM,M,60-64,6:46.16,Ken R Beier,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Backstroke,LCM,M,60-64,34.44,George L Schmidt,,2013 Pan-American Masters Championship,2013,1
+WOW,50 M Backstroke,LCM,M,60-64,40.13,Andy Downey,,2013 Pan-American Masters Championship,2013,2
+SFTL,50 M Backstroke,LCM,M,60-64,40.74,Gary A Howle,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Backstroke,LCM,M,60-64,50.31,Ken R Beier,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,100 M Backstroke,LCM,M,60-64,1:16.19,George L Schmidt,,2013 Pan-American Masters Championship,2013,1
+WOW,100 M Backstroke,LCM,M,60-64,1:29.96,Andy Downey,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Backstroke,LCM,M,60-64,2:49.11,George L Schmidt,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Backstroke,LCM,M,60-64,4:10.17,Ken R Beier,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Breaststroke,LCM,M,60-64,36.70,George L Schmidt,,2013 Coral Springs Last Chance LCM,2013,1
+GRSC,50 M Breaststroke,LCM,M,60-64,41.40,Paulo E Mange,,2013 Pan-American Masters Championship,2013,2
+GRSC,100 M Breaststroke,LCM,M,60-64,1:38.29,Paulo E Mange,,2013 Pan-American Masters Championship,2013,1
+GRSC,200 M Breaststroke,LCM,M,60-64,3:29.56,Paulo E Mange,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Butterfly,LCM,M,60-64,30.45,Craig J Burns,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Butterfly,LCM,M,60-64,31.85,George L Schmidt,,St. Pete Masters Long Course Swimming Championships,2013,2
+WOW,50 M Butterfly,LCM,M,60-64,37.28,Andy Downey,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,50 M Butterfly,LCM,M,60-64,47.28,Ken R Beier,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,200 M Individual Medley,LCM,M,60-64,2:46.07,George L Schmidt,,2013 Coral Springs Last Chance LCM,2013,1
+GOLD,50 M Freestyle,LCM,M,65-69,27.78,Lee Childs,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Freestyle,LCM,M,65-69,28.67,David Quiggin,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Freestyle,LCM,M,65-69,31.88,John G Hammerstrom,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,50 M Freestyle,LCM,M,65-69,32.25,Robert T Bertrand,,2013 Pan-American Masters Championship,2013,4
+GOLD,50 M Freestyle,LCM,M,65-69,32.35,Jose E Ferraz,,2013 Pan-American Masters Championship,2013,5
+GOLD,50 M Freestyle,LCM,M,65-69,45.91,Philip M Cullen,,8th Annual June Krauser Summer Splash,2013,6
+GOLD,50 M Freestyle,LCM,M,65-69,48.25,Ray L Venture,,2013 Coral Springs Last Chance LCM,2013,7
+GOLD,100 M Freestyle,LCM,M,65-69,1:02.33,Lee Childs,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Freestyle,LCM,M,65-69,1:03.19,David Quiggin,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,100 M Freestyle,LCM,M,65-69,1:10.48,Jose E Ferraz,,2013 Pan-American Masters Championship,2013,3
+GOLD,100 M Freestyle,LCM,M,65-69,1:15.43,Robert T Bertrand,,2013 Pan-American Masters Championship,2013,4
+GOLD,100 M Freestyle,LCM,M,65-69,1:19.24,John G Hammerstrom,,2013 Coral Springs Last Chance LCM,2013,5
+FLAQ,100 M Freestyle,LCM,M,65-69,1:27.57,Eliot Winokur,,13th Annual Wilton Wahoo Masters Summer Sizzler Meet,2013,6
+GOLD,100 M Freestyle,LCM,M,65-69,1:43.25,Philip M Cullen,,8th Annual June Krauser Summer Splash,2013,7
+GOLD,200 M Freestyle,LCM,M,65-69,2:24.40,Lee Childs,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Freestyle,LCM,M,65-69,2:25.46,David Quiggin,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,M,65-69,2:41.76,Jose E Ferraz,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Freestyle,LCM,M,65-69,2:55.42,Roger L Parsons,,8th Annual June Krauser Summer Splash,2013,4
+FLAQ,200 M Freestyle,LCM,M,65-69,3:14.40,Eliot Winokur,,13th Annual Wilton Wahoo Masters Summer Sizzler Meet,2013,5
+GOLD,200 M Freestyle,LCM,M,65-69,4:42.50,Ray L Venture,,2013 Coral Springs Last Chance LCM,2013,6
+GOLD,400 M Freestyle,LCM,M,65-69,5:15.93,David Quiggin,,2013 Pan-American Masters Championship,2013,1
+GOLD,400 M Freestyle,LCM,M,65-69,6:48.49,Roger L Parsons,,"2013 Masters Annual ""Dog Days of Summer"" Meet",2013,2
+GOLD,50 M Backstroke,LCM,M,65-69,37.74,David Quiggin,,St. Pete Masters Long Course Swimming Championships,2013,1
+GOLD,50 M Backstroke,LCM,M,65-69,41.69,Roger L Parsons,,"2013 Masters Annual ""Dog Days of Summer"" Meet",2013,2
+GOLD,100 M Backstroke,LCM,M,65-69,1:28.33,Roger L Parsons,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Backstroke,LCM,M,65-69,1:36.18,Robert T Bertrand,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Backstroke,LCM,M,65-69,3:14.36,Roger L Parsons,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Breaststroke,LCM,M,65-69,44.46,David Quiggin,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Breaststroke,LCM,M,65-69,46.11,Roger L Parsons,,"2013 Masters Annual ""Dog Days of Summer"" Meet",2013,2
+GOLD,50 M Breaststroke,LCM,M,65-69,55.79,Philip M Cullen,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Breaststroke,LCM,M,65-69,2:06.30,Philip M Cullen,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Butterfly,LCM,M,65-69,30.49,Lee Childs,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Butterfly,LCM,M,65-69,31.44,David Quiggin,,2013 Pan-American Masters Championship,2013,2
+FLAQ,50 M Butterfly,LCM,M,65-69,43.77,Eliot Winokur,,13th Annual Wilton Wahoo Masters Summer Sizzler Meet,2013,3
+GOLD,50 M Butterfly,LCM,M,65-69,1:08.42,Ray L Venture,,2013 Coral Springs Last Chance LCM,2013,4
+GOLD,100 M Butterfly,LCM,M,65-69,1:15.97,Lee Childs,,St. Pete Masters Long Course Swimming Championships,2013,1
+GOLD,100 M Butterfly,LCM,M,65-69,2:30.96,Ray L Venture,,2013 Coral Springs Last Chance LCM,2013,2
+GOLD,200 M Individual Medley,LCM,M,65-69,2:44.41,Lee Childs,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Individual Medley,LCM,M,65-69,2:54.52,David Quiggin,,8th Annual June Krauser Summer Splash,2013,2
+FLAQ,200 M Individual Medley,LCM,M,65-69,3:42.35,Eliot Winokur,,13th Annual Wilton Wahoo Masters Summer Sizzler Meet,2013,3
+GOLD,400 M Individual Medley,LCM,M,65-69,6:12.24,Lee Childs,,2013 Pan-American Masters Championship,2013,1
+SFTL,50 M Freestyle,LCM,M,70-74,33.16,Douglas T Buchan,,2013 Coral Springs Last Chance LCM,2013,1
+SFTL,50 M Freestyle,LCM,M,70-74,36.42,James E Ward,,8th Annual June Krauser Summer Splash,2013,2
+GOLD,50 M Freestyle,LCM,M,70-74,45.44,Carl House,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,100 M Freestyle,LCM,M,70-74,1:22.90,Douglas T Buchan,,2013 Coral Springs Last Chance LCM,2013,1
+SFTL,100 M Freestyle,LCM,M,70-74,1:29.23,James E Ward,,8th Annual June Krauser Summer Splash,2013,2
+NCMJ,100 M Freestyle,LCM,M,70-74,1:45.82,Patrick Cannan,,8th Annual June Krauser Summer Splash,2013,3
+GOLD,100 M Freestyle,LCM,M,70-74,2:04.96,Carl House,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,200 M Freestyle,LCM,M,70-74,2:50.69,Howard Rolston,,2013 Summer Meet #2,2013,1
+SFTL,200 M Freestyle,LCM,M,70-74,3:40.24,James E Ward,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,M,70-74,4:53.00,Carl House,,2013 Coral Springs Last Chance LCM,2013,3
+GOLD,400 M Freestyle,LCM,M,70-74,6:16.32,Howard Rolston,,2013 Summer Meet #2,2013,1
+GOLD,400 M Freestyle,LCM,M,70-74,6:50.10,Gerry G Delong,,8th Annual June Krauser Summer Splash,2013,2
+NCMJ,400 M Freestyle,LCM,M,70-74,8:04.73,Patrick Cannan,,8th Annual June Krauser Summer Splash,2013,3
+SFTL,400 M Freestyle,LCM,M,70-74,8:21.52,James E Ward,,8th Annual June Krauser Summer Splash,2013,4
+GOLD,400 M Freestyle,LCM,M,70-74,11:10.99,Carl House,,8th Annual June Krauser Summer Splash,2013,5
+GOLD,800 M Freestyle,LCM,M,70-74,13:08.07,Howard Rolston,,2013 Summer Meet #2,2013,1
+GOLD,50 M Backstroke,LCM,M,70-74,1:24.09,Carl House,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,100 M Breaststroke,LCM,M,70-74,2:38.58,Carl House,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Butterfly,LCM,M,70-74,36.90,Howard Rolston,,2013 Summer Meet #2,2013,1
+GOLD,200 M Butterfly,LCM,M,70-74,3:44.78,Gerry G Delong,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,200 M Individual Medley,LCM,M,70-74,3:32.49,Gerry G Delong,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,400 M Individual Medley,LCM,M,70-74,7:32.63,Gerry G Delong,,8th Annual June Krauser Summer Splash,2013,1
+GOLD,50 M Freestyle,LCM,M,75-79,31.39,David J Painter,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Freestyle,LCM,M,75-79,32.55,Cav Cavanaugh,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Freestyle,LCM,M,75-79,33.55,Andy B Morrow,,2013 Pan-American Masters Championship,2013,3
+GOLD,50 M Freestyle,LCM,M,75-79,34.57,David R McIntyre,,2013 Pan-American Masters Championship,2013,4
+GOLD,50 M Freestyle,LCM,M,75-79,37.56,Karl E Wiedamann,,2013 Pan-American Masters Championship,2013,5
+SFTL,50 M Freestyle,LCM,M,75-79,52.77,Nahum Gorwitz,,2013 Pan-American Masters Championship,2013,6
+GOLD,100 M Freestyle,LCM,M,75-79,1:13.37,Cav Cavanaugh,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Freestyle,LCM,M,75-79,1:16.99,Andy B Morrow,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,M,75-79,2:51.34,Cav Cavanaugh,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Freestyle,LCM,M,75-79,4:22.45,Nahum Gorwitz,,2013 Pan-American Masters Championship,2013,2
+GOLD,200 M Freestyle,LCM,M,75-79,5:09.34,Leonard Silverstein,,2013 Pan-American Masters Championship,2013,3
+SFTL,400 M Freestyle,LCM,M,75-79,9:26.48,Nahum Gorwitz,,2013 Pan-American Masters Championship,2013,1
+GOLD,400 M Freestyle,LCM,M,75-79,11:10.74,Leonard Silverstein,,2013 Pan-American Masters Championship,2013,2
+GOLD,800 M Freestyle,LCM,M,75-79,23:53.42,Leonard Silverstein,,2013 Pan-American Masters Championship,2013,1
+GOLD,1500 M Freestyle,LCM,M,75-79,48:20.44,Leonard Silverstein,,2013 T2 Masters Spring Splash Invite,2013,1
+GOLD,50 M Backstroke,LCM,M,75-79,42.40,David R McIntyre,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Backstroke,LCM,M,75-79,43.72,Andy B Morrow,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Backstroke,LCM,M,75-79,1:42.95,David R McIntyre,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Backstroke,LCM,M,75-79,1:44.90,David J Painter,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,2
+GOLD,50 M Breaststroke,LCM,M,75-79,44.10,Karl E Wiedamann,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Breaststroke,LCM,M,75-79,49.95,David R McIntyre,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Breaststroke,LCM,M,75-79,50.85,Andy B Morrow,,2013 T2 Masters Spring Splash Invite,2013,3
+SFTL,50 M Breaststroke,LCM,M,75-79,1:00.60,Nahum Gorwitz,,2013 Pan-American Masters Championship,2013,4
+GOLD,100 M Breaststroke,LCM,M,75-79,1:41.09,Karl E Wiedamann,,2013 Pan-American Masters Championship,2013,1
+SFTL,100 M Breaststroke,LCM,M,75-79,2:12.99,Nahum Gorwitz,,2013 Pan-American Masters Championship,2013,2
+GOLD,100 M Breaststroke,LCM,M,75-79,2:48.48,Leonard Silverstein,,2013 Pan-American Masters Championship,2013,3
+GOLD,200 M Breaststroke,LCM,M,75-79,3:51.61,Karl E Wiedamann,,2013 Pan-American Masters Championship,2013,1
+SFTL,200 M Breaststroke,LCM,M,75-79,5:05.97,Nahum Gorwitz,,2013 Pan-American Masters Championship,2013,2
+GOLD,50 M Butterfly,LCM,M,75-79,42.76,David R McIntyre,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Butterfly,LCM,M,75-79,43.11,Andy B Morrow,,2013 T2 Masters Spring Splash Invite,2013,2
+GOLD,200 M Individual Medley,LCM,M,75-79,3:23.18,David J Painter,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,200 M Individual Medley,LCM,M,75-79,3:39.77,Andy B Morrow,,2013 Pan-American Masters Championship,2013,2
+GOLD,400 M Individual Medley,LCM,M,75-79,7:54.41,David J Painter,,2013 Marriott U.S. Masters Swimming Summer Nationals,2013,1
+GOLD,50 M Freestyle,LCM,M,80-84,52.07,Mani Sanguily,,2013 Pan-American Masters Championship,2013,1
+GOLD,50 M Breaststroke,LCM,M,80-84,46.01,Mani Sanguily,,2013 Pan-American Masters Championship,2013,1
+GOLD,100 M Breaststroke,LCM,M,80-84,1:56.41,Mani Sanguily,,2013 Pan-American Masters Championship,2013,1
+GOLD,200 M Breaststroke,LCM,M,80-84,4:22.52,Mani Sanguily,,2013 Pan-American Masters Championship,2013,1

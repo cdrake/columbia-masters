@@ -1,0 +1,534 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MINN,50 M Freestyle,SCM,W,18-24,27.73,Mikayla M Beuch,,New Prague SCM Meet,2018,1
+ISMT,50 M Freestyle,SCM,W,18-24,50.87,Emily Eischens,,New Prague SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,W,18-24,1:01.71,Mikayla M Beuch,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,W,18-24,1:04.59,Meredith Ubel,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Freestyle,SCM,W,18-24,1:06.84,Joleen M Plekkenpol,,New Prague SCM Meet,2018,3
+ISMT,100 M Freestyle,SCM,W,18-24,1:56.00,Emily Eischens,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,200 M Freestyle,SCM,W,18-24,2:19.25,Meredith Ubel,,Minnesota Masters SCM State Championship Meet,2018,1
+ISMT,200 M Freestyle,SCM,W,18-24,4:25.74,Emily Eischens,,New Prague SCM Meet,2018,2
+MINN,400 M Freestyle,SCM,W,18-24,5:21.38,Joleen M Plekkenpol,,New Prague SCM Meet,2018,1
+ISMT,400 M Freestyle,SCM,W,18-24,9:18.23,Emily Eischens,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Backstroke,SCM,W,18-24,1:20.94,Megan Letkeman,,Minnesota Masters SCM State Championship Meet,2018,1
+ISMT,100 M Backstroke,SCM,W,18-24,2:23.01,Emily Eischens,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Breaststroke,SCM,W,18-24,1:31.92,Megan Letkeman,,Minnesota Masters SCM State Championship Meet,2018,1
+ISMT,100 M Breaststroke,SCM,W,18-24,2:31.00,Emily Eischens,,Minnesota Masters SCM State Championship Meet,2018,2
+ISMT,200 M Breaststroke,SCM,W,18-24,5:19.84,Emily Eischens,,New Prague SCM Meet,2018,1
+MINN,50 M Butterfly,SCM,W,18-24,31.18,Meredith Ubel,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,W,18-24,32.58,Mikayla M Beuch,,New Prague SCM Meet,2018,2
+MINN,50 M Butterfly,SCM,W,18-24,36.48,Joleen M Plekkenpol,,New Prague SCM Meet,2018,3
+MINN,100 M Butterfly,SCM,W,18-24,1:09.10,Meredith Ubel,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,18-24,1:15.55,Meredith Ubel,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,18-24,1:21.88,Megan Letkeman,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Individual Medley,SCM,W,18-24,2:56.87,Megan Letkeman,,Minnesota Masters SCM State Championship Meet,2018,1
+ISMT,200 M Individual Medley,SCM,W,18-24,4:35.68,Emily Eischens,,New Prague SCM Meet,2018,2
+MINN,50 M Freestyle,SCM,W,25-29,28.37,Allison W Hable,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,W,25-29,30.15,Katherine Kaiser,,New Prague SCM Meet,2018,2
+MINN,50 M Freestyle,SCM,W,25-29,33.22,Sarah H Addicks,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Freestyle,SCM,W,25-29,35.45,Mackenzie Voeller,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,100 M Freestyle,SCM,W,25-29,1:05.08,Katherine Kaiser,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,W,25-29,1:05.10,Allison W Hable,,New Prague SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,W,25-29,1:07.66,Katie Young,,New Prague SCM Meet,2018,3
+MINN,100 M Freestyle,SCM,W,25-29,1:16.53,Mackenzie Voeller,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,200 M Freestyle,SCM,W,25-29,2:24.68,Katherine Kaiser,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Freestyle,SCM,W,25-29,2:45.11,Mackenzie Voeller,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Backstroke,SCM,W,25-29,35.58,Katherine Kaiser,,New Prague SCM Meet,2018,1
+MINN,100 M Backstroke,SCM,W,25-29,1:15.33,Katherine Kaiser,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,25-29,42.13,Sarah H Addicks,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,W,25-29,1:31.45,Sarah H Addicks,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Breaststroke,SCM,W,25-29,3:18.99,Sarah H Addicks,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,W,25-29,34.49,Carolyn A Fittipaldi,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,W,25-29,37.45,Sarah H Addicks,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,W,25-29,1:15.49,Katherine Kaiser,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,25-29,1:16.73,Allison W Hable,,New Prague SCM Meet,2018,2
+MINN,100 M Individual Medley,SCM,W,25-29,1:20.21,Katie Young,,New Prague SCM Meet,2018,3
+MINN,100 M Individual Medley,SCM,W,25-29,1:23.17,Sarah H Addicks,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,400 M Individual Medley,SCM,W,25-29,5:45.20,Katherine Kaiser,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,200 M Freestyle,SCM,W,30-34,2:39.07,Amy M Flessert,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,1500 M Freestyle,SCM,W,30-34,21:50.60,Amy M Flessert,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,W,30-34,38.27,Ashley M Gregory,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Backstroke,SCM,W,30-34,1:25.15,Ashley M Gregory,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,W,30-34,1:25.51,Kathryn E Vandam,,New Prague SCM Meet,2018,1
+NORT,200 M Breaststroke,SCM,W,30-34,3:24.10,Amy M Flessert,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,30-34,1:11.86,Kathryn E Vandam,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,30-34,1:22.91,Ashley M Gregory,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Individual Medley,SCM,W,30-34,2:34.68,Kathryn E Vandam,,New Prague SCM Meet,2018,1
+MINN,200 M Individual Medley,SCM,W,30-34,2:56.41,Ashley M Gregory,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,400 M Individual Medley,SCM,W,30-34,5:27.04,Kathryn E Vandam,,New Prague SCM Meet,2018,1
+MINN,400 M Individual Medley,SCM,W,30-34,6:14.53,Ashley M Gregory,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,W,35-39,29.79,Elizabeth A Nymeyer,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,50 M Freestyle,SCM,W,35-39,32.51,Shannon L Walling,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Freestyle,SCM,W,35-39,1:10.10,Rachel A Krejci,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,W,35-39,1:10.84,Elizabeth A Nymeyer,,New Prague SCM Meet,2018,2
+HOPK,100 M Freestyle,SCM,W,35-39,1:11.54,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,3
+NORT,100 M Freestyle,SCM,W,35-39,1:33.66,Jennifer Walters,,New Prague SCM Meet,2018,4
+HOPK,200 M Freestyle,SCM,W,35-39,2:25.37,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,200 M Freestyle,SCM,W,35-39,2:34.29,Rachel A Krejci,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,400 M Freestyle,SCM,W,35-39,4:50.30,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,400 M Freestyle,SCM,W,35-39,5:38.37,Rachel A Krejci,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,800 M Freestyle,SCM,W,35-39,9:50.66,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,800 M Freestyle,SCM,W,35-39,15:02.88,Jennifer Walters,,New Prague SCM Meet,2018,2
+HOPK,1500 M Freestyle,SCM,W,35-39,18:33.76,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,50 M Backstroke,SCM,W,35-39,40.98,Shannon L Walling,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,50 M Breaststroke,SCM,W,35-39,42.91,Shannon L Walling,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,W,35-39,33.47,Stacey Thureen,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,50 M Butterfly,SCM,W,35-39,37.33,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Butterfly,SCM,W,35-39,1:12.36,Stacey Thureen,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,100 M Butterfly,SCM,W,35-39,1:19.88,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,200 M Butterfly,SCM,W,35-39,2:47.59,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,100 M Individual Medley,SCM,W,35-39,1:22.20,Rachel A Krejci,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,100 M Individual Medley,SCM,W,35-39,1:25.68,Shannon L Walling,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,400 M Individual Medley,SCM,W,35-39,5:38.92,Sandra E Frimerman-Bergquist,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,W,40-44,31.43,Monica  Churchill,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,W,40-44,1:09.08,Erin E Piorier,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,W,40-44,1:11.59,Monica  Churchill,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Freestyle,SCM,W,40-44,1:28.91,Susan M Hilal,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,W,40-44,1:29.59,Carly Weaver,,New Prague SCM Meet,2018,4
+MINN,400 M Freestyle,SCM,W,40-44,5:22.38,Erin E Piorier,,New Prague SCM Meet,2018,1
+MINN,50 M Backstroke,SCM,W,40-44,46.06,Carly Weaver,,New Prague SCM Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,40-44,50.30,Carly Weaver,,New Prague SCM Meet,2018,1
+MINN,50 M Butterfly,SCM,W,40-44,34.75,Monica  Churchill,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,40-44,1:38.17,Carly Weaver,,New Prague SCM Meet,2018,1
+HOPK,100 M Individual Medley,SCM,W,40-44,1:38.92,Susan M Hilal,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,W,45-49,35.67,Karyn L Maki,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,W,45-49,1:21.38,Karyn L Maki,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,W,45-49,1:31.62,Brenda L Thornton,,New Prague SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,W,45-49,1:46.15,Michelle Johnson,,New Prague SCM Meet,2018,3
+MINN,50 M Backstroke,SCM,W,45-49,47.07,Karyn L Maki,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,W,45-49,1:00.39,Michelle Johnson,,New Prague SCM Meet,2018,2
+MINN,100 M Backstroke,SCM,W,45-49,1:55.83,Brenda L Thornton,,New Prague SCM Meet,2018,1
+HOPK,50 M Breaststroke,SCM,W,45-49,43.95,Julie C Salamzadeh,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,45-49,49.08,Karyn L Maki,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Breaststroke,SCM,W,45-49,1:03.38,Michelle Johnson,,New Prague SCM Meet,2018,3
+HOPK,100 M Breaststroke,SCM,W,45-49,1:34.30,Julie C Salamzadeh,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,W,45-49,59.00,Michelle Johnson,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,45-49,1:24.67,Lisa R Peterson,,New Prague SCM Meet,2018,1
+HOPK,100 M Individual Medley,SCM,W,45-49,1:27.39,Julie C Salamzadeh,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,W,45-49,1:50.43,Brenda L Thornton,,New Prague SCM Meet,2018,3
+MINN,100 M Individual Medley,SCM,W,45-49,2:04.14,Michelle Johnson,,New Prague SCM Meet,2018,4
+MINN,200 M Individual Medley,SCM,W,45-49,3:00.49,Lisa R Peterson,,New Prague SCM Meet,2018,1
+MINN,400 M Individual Medley,SCM,W,45-49,6:26.37,Lisa R Peterson,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,W,50-54,30.19,Jennifer Ridge,,New Prague SCM Meet,2018,1
+HOPK,50 M Freestyle,SCM,W,50-54,34.92,Joan M Casey,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,W,50-54,35.25,Darcy White,,New Prague SCM Meet,2018,3
+MINN,50 M Freestyle,SCM,W,50-54,49.98,Allyn M Silver,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,100 M Freestyle,SCM,W,50-54,1:03.70,Jennifer Ridge,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,W,50-54,1:15.54,Darcy White,,New Prague SCM Meet,2018,2
+HOPK,100 M Freestyle,SCM,W,50-54,1:16.21,Joan M Casey,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,W,50-54,1:25.66,Susan L Mohn,,New Prague SCM Meet,2018,4
+MINN,100 M Freestyle,SCM,W,50-54,1:56.05,Allyn M Silver,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,200 M Freestyle,SCM,W,50-54,2:14.77,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,400 M Freestyle,SCM,W,50-54,4:52.71,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,400 M Freestyle,SCM,W,50-54,5:53.68,Darcy White,,New Prague SCM Meet,2018,2
+MINN,50 M Backstroke,SCM,W,50-54,34.10,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,50 M Backstroke,SCM,W,50-54,48.40,Loralie Langman,,New Prague SCM Meet,2018,2
+MINN,50 M Backstroke,SCM,W,50-54,1:05.39,Allyn M Silver,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Backstroke,SCM,W,50-54,1:10.89,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,100 M Backstroke,SCM,W,50-54,1:41.99,Loralie Langman,,New Prague SCM Meet,2018,2
+MINN,100 M Backstroke,SCM,W,50-54,2:14.78,Allyn M Silver,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,200 M Backstroke,SCM,W,50-54,2:36.31,Jennifer Ridge,,New Prague SCM Meet,2018,1
+MINN,200 M Backstroke,SCM,W,50-54,3:50.41,Loralie Langman,,New Prague SCM Meet,2018,2
+MINN,50 M Breaststroke,SCM,W,50-54,39.24,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,50 M Breaststroke,SCM,W,50-54,47.49,Susan L Mohn,,New Prague SCM Meet,2018,2
+MINN,50 M Breaststroke,SCM,W,50-54,1:02.29,Allyn M Silver,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Breaststroke,SCM,W,50-54,1:23.07,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,50 M Butterfly,SCM,W,50-54,31.50,Jennifer Ridge,,2018 November Classic,2018,1
+HOPK,50 M Butterfly,SCM,W,50-54,39.42,Joan M Casey,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Butterfly,SCM,W,50-54,1:09.29,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,100 M Individual Medley,SCM,W,50-54,1:11.57,Jennifer Ridge,,New Prague SCM Meet,2018,1
+HOPK,100 M Individual Medley,SCM,W,50-54,1:27.46,Joan M Casey,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,W,50-54,1:39.06,Susan L Mohn,,New Prague SCM Meet,2018,3
+MINN,200 M Individual Medley,SCM,W,50-54,2:34.72,Jennifer Ridge,,2018 November Classic,2018,1
+MINN,50 M Freestyle,SCM,W,55-59,32.62,Patricia Burd,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,W,55-59,32.86,Susan Lee,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,W,55-59,38.21,Sarah Hromada,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,W,55-59,1:10.78,Patricia Burd,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,W,55-59,1:14.07,Sue M Nygaard,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Freestyle,SCM,W,55-59,1:19.87,Laura L Kueny,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,200 M Freestyle,SCM,W,55-59,2:41.75,Sue M Nygaard,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,400 M Freestyle,SCM,W,55-59,5:45.15,Patricia Burd,,New Prague SCM Meet,2018,1
+HOPK,400 M Freestyle,SCM,W,55-59,6:00.89,Laura L Kueny,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,400 M Freestyle,SCM,W,55-59,6:15.78,Sarah Hromada,,New Prague SCM Meet,2018,3
+MINN,800 M Freestyle,SCM,W,55-59,11:36.13,Patricia Burd,,New Prague SCM Meet,2018,1
+MINN,50 M Backstroke,SCM,W,55-59,43.23,Sarah Hromada,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Backstroke,SCM,W,55-59,1:33.37,Sarah Hromada,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Backstroke,SCM,W,55-59,3:25.23,Sarah Hromada,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,55-59,42.00,Sue M Nygaard,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,55-59,43.08,Susan Lee,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Breaststroke,SCM,W,55-59,47.23,Patricia Burd,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Breaststroke,SCM,W,55-59,1:31.18,Sue M Nygaard,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,W,55-59,1:32.69,Susan Lee,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Butterfly,SCM,W,55-59,37.24,Susan Lee,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,55-59,1:23.55,Susan Lee,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,55-59,1:28.20,Sue M Nygaard,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,W,60-64,36.57,Jill S Whitney,,South Carolina SCM Championships,2018,1
+MINN,50 M Backstroke,SCM,W,60-64,46.85,Paula J Pendergast,,New Prague SCM Meet,2018,1
+MINN,100 M Backstroke,SCM,W,60-64,1:46.71,Paula J Pendergast,,New Prague SCM Meet,2018,1
+MINN,200 M Backstroke,SCM,W,60-64,3:35.63,Paula J Pendergast,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Backstroke,SCM,W,60-64,3:55.68,Pamela C Ogden,,New Prague SCM Meet,2018,2
+MINN,50 M Breaststroke,SCM,W,60-64,45.92,Jill S Whitney,,South Carolina SCM Championships,2018,1
+MINN,50 M Breaststroke,SCM,W,60-64,48.88,Paula J Pendergast,,New Prague SCM Meet,2018,2
+MINN,100 M Breaststroke,SCM,W,60-64,1:41.44,Jill S Whitney,,South Carolina SCM Championships,2018,1
+MINN,100 M Breaststroke,SCM,W,60-64,1:48.10,Paula J Pendergast,,New Prague SCM Meet,2018,2
+MINN,200 M Breaststroke,SCM,W,60-64,3:54.10,Paula J Pendergast,,New Prague SCM Meet,2018,1
+MINN,200 M Breaststroke,SCM,W,60-64,4:06.37,Pamela C Ogden,,New Prague SCM Meet,2018,2
+MINN,50 M Butterfly,SCM,W,60-64,40.93,Jill S Whitney,,South Carolina SCM Championships,2018,1
+MINN,50 M Butterfly,SCM,W,60-64,52.62,Paula J Pendergast,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Butterfly,SCM,W,60-64,2:04.63,Pamela C Ogden,,New Prague SCM Meet,2018,1
+MINN,200 M Butterfly,SCM,W,60-64,4:15.73,Pamela C Ogden,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,60-64,1:31.08,Jill S Whitney,,South Carolina SCM Championships,2018,1
+MINN,100 M Individual Medley,SCM,W,60-64,1:40.38,Paula J Pendergast,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Individual Medley,SCM,W,60-64,3:46.14,Paula J Pendergast,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,400 M Individual Medley,SCM,W,60-64,7:55.85,Pamela C Ogden,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,W,65-69,38.74,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,W,65-69,45.21,Mary F Conway,,New Prague SCM Meet,2018,2
+MINN,50 M Freestyle,SCM,W,65-69,51.05,Victoria K Langer,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Freestyle,SCM,W,65-69,52.65,Mary C Hoover,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,50 M Freestyle,SCM,W,65-69,54.21,Mary R Vonderharr,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,50 M Freestyle,SCM,W,65-69,56.86,Carol L Bell,,Minnesota Masters SCM State Championship Meet,2018,6
+MINN,100 M Freestyle,SCM,W,65-69,1:26.67,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,W,65-69,1:39.69,Mary F Conway,,New Prague SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,W,65-69,2:04.68,Carol L Bell,,New Prague SCM Meet,2018,3
+MINN,200 M Freestyle,SCM,W,65-69,3:14.94,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,200 M Freestyle,SCM,W,65-69,4:56.96,Carol L Bell,,New Prague SCM Meet,2018,2
+MINN,800 M Freestyle,SCM,W,65-69,20:27.29,Carol L Bell,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,W,65-69,45.64,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,50 M Backstroke,SCM,W,65-69,1:12.09,Mary R Vonderharr,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Backstroke,SCM,W,65-69,1:33.64,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,200 M Backstroke,SCM,W,65-69,3:29.59,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,65-69,48.30,Sharon M Lee-Sheridan,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,65-69,54.78,Mary F Conway,,New Prague SCM Meet,2018,2
+MINN,50 M Breaststroke,SCM,W,65-69,1:06.23,Mary R Vonderharr,,New Prague SCM Meet,2018,3
+MINN,100 M Breaststroke,SCM,W,65-69,1:55.31,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,100 M Breaststroke,SCM,W,65-69,2:05.92,Mary F Conway,,New Prague SCM Meet,2018,2
+MINN,100 M Breaststroke,SCM,W,65-69,2:08.83,Mary C Hoover,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,200 M Breaststroke,SCM,W,65-69,3:51.22,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,200 M Breaststroke,SCM,W,65-69,4:44.30,Mary C Hoover,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Butterfly,SCM,W,65-69,47.03,Sharon M Lee-Sheridan,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,W,65-69,1:02.65,Victoria K Langer,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,W,65-69,1:54.43,Mary F Conway,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,65-69,2:18.41,Mary R Vonderharr,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Individual Medley,SCM,W,65-69,3:26.97,Sharon M Lee-Sheridan,,New Prague SCM Meet,2018,1
+MINN,400 M Individual Medley,SCM,W,65-69,10:36.63,Mary R Vonderharr,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,W,70-74,43.73,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,W,70-74,1:07.96,Pat J Lillehei,,Huntsman World Senior Games,2018,2
+MINN,50 M Freestyle,SCM,W,70-74,1:08.27,Judy C Bowdin,,New Prague SCM Meet,2018,3
+MINN,100 M Freestyle,SCM,W,70-74,2:26.83,Judy C Bowdin,,New Prague SCM Meet,2018,1
+MINN,200 M Freestyle,SCM,W,70-74,3:30.22,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,400 M Freestyle,SCM,W,70-74,7:39.38,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,400 M Freestyle,SCM,W,70-74,11:19.31,Pat J Lillehei,,Huntsman World Senior Games,2018,2
+MINN,800 M Freestyle,SCM,W,70-74,15:38.18,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,800 M Freestyle,SCM,W,70-74,23:48.56,Pat J Lillehei,,Huntsman World Senior Games,2018,2
+MINN,1500 M Freestyle,SCM,W,70-74,29:41.67,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,1500 M Freestyle,SCM,W,70-74,45:45.06,Pat J Lillehei,,Huntsman World Senior Games,2018,2
+MINN,50 M Backstroke,SCM,W,70-74,1:20.09,Pat J Lillehei,,Huntsman World Senior Games,2018,1
+MINN,50 M Backstroke,SCM,W,70-74,1:26.55,Martha L Arradondo,,New Prague SCM Meet,2018,2
+MINN,100 M Backstroke,SCM,W,70-74,1:50.08,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Backstroke,SCM,W,70-74,3:59.25,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,70-74,1:06.72,Judy C Bowdin,,New Prague SCM Meet,2018,1
+MINN,50 M Breaststroke,SCM,W,70-74,1:11.42,Pat J Lillehei,,New Prague SCM Meet,2018,2
+MINN,100 M Breaststroke,SCM,W,70-74,2:26.49,Judy C Bowdin,,New Prague SCM Meet,2018,1
+MINN,100 M Breaststroke,SCM,W,70-74,2:46.18,Pat J Lillehei,,New Prague SCM Meet,2018,2
+MINN,200 M Breaststroke,SCM,W,70-74,6:01.42,Pat J Lillehei,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Butterfly,SCM,W,70-74,1:56.26,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Butterfly,SCM,W,70-74,4:11.86,Babs H Larsen,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,W,70-74,2:54.12,Pat J Lillehei,,Huntsman World Senior Games,2018,1
+MINN,400 M Individual Medley,SCM,W,70-74,8:29.11,Babs H Larsen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,W,75-79,1:48.93,Sandra A Pierce,,New Prague SCM Meet,2018,1
+MINN,200 M Backstroke,SCM,W,75-79,5:07.18,AnnLiv Bacon,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,18-24,24.02,Erick Huft,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,18-24,24.30,Wilson I Josephson,,Minnesota Masters SCM State Championship Meet,2018,2
+NORT,50 M Freestyle,SCM,M,18-24,26.62,Garrett Ongalo,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,M,18-24,52.99,Erick Huft,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,M,18-24,55.43,Wilson I Josephson,,New Prague SCM Meet,2018,2
+NORT,100 M Freestyle,SCM,M,18-24,59.85,Garrett Ongalo,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,M,18-24,1:01.22,Connor Lisowski,,Minnesota Masters SCM State Championship Meet,2018,4
+UC30,100 M Freestyle,SCM,M,18-24,1:10.36,Daniel J Bibeau,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,200 M Freestyle,SCM,M,18-24,1:56.95,Erick Huft,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Freestyle,SCM,M,18-24,1:57.25,Wilson I Josephson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Freestyle,SCM,M,18-24,2:21.76,Connor Lisowski,,Minnesota Masters SCM State Championship Meet,2018,3
+UC30,200 M Freestyle,SCM,M,18-24,2:42.44,Daniel J Bibeau,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,400 M Freestyle,SCM,M,18-24,4:20.19,Wilson I Josephson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,400 M Freestyle,SCM,M,18-24,5:03.68,Connor Lisowski,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Backstroke,SCM,M,18-24,31.72,Seth J Baetzold,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Backstroke,SCM,M,18-24,2:41.72,Seth J Baetzold,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,18-24,34.32,Seth J Baetzold,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Breaststroke,SCM,M,18-24,2:48.10,Seth J Baetzold,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,50 M Butterfly,SCM,M,18-24,29.42,Garrett Ongalo,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Butterfly,SCM,M,18-24,1:03.83,Seth J Baetzold,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Butterfly,SCM,M,18-24,2:19.67,Seth J Baetzold,,Minnesota Masters SCM State Championship Meet,2018,1
+UC30,100 M Individual Medley,SCM,M,18-24,1:23.72,Daniel J Bibeau,,Minnesota Masters SCM State Championship Meet,2018,1
+UC30,400 M Individual Medley,SCM,M,18-24,5:24.79,Seth J Baetzold,,New Prague SCM Meet,2018,1
+HOPK,50 M Freestyle,SCM,M,25-29,26.28,Adrian C Carpenter,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,M,25-29,27.86,Steven K Booth,,Shark Tank SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,M,25-29,1:18.41,Aaron A Warner,,New Prague SCM Meet,2018,1
+MINN,200 M Freestyle,SCM,M,25-29,2:14.24,Steven K Booth,,Shark Tank SCM Meet,2018,1
+MINN,400 M Freestyle,SCM,M,25-29,4:52.30,Steven K Booth,,Shark Tank SCM Meet,2018,1
+HOPK,50 M Breaststroke,SCM,M,25-29,33.60,Adrian C Carpenter,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,25-29,37.71,Steven K Booth,,Shark Tank SCM Meet,2018,2
+MINN,50 M Breaststroke,SCM,M,25-29,41.08,Aaron A Warner,,New Prague SCM Meet,2018,3
+HOPK,100 M Breaststroke,SCM,M,25-29,1:12.99,Adrian C Carpenter,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,25-29,1:33.45,Aaron A Warner,,New Prague SCM Meet,2018,2
+HOPK,200 M Breaststroke,SCM,M,25-29,2:49.45,Adrian C Carpenter,,New Prague SCM Meet,2018,1
+MINN,200 M Breaststroke,SCM,M,25-29,3:21.65,Aaron A Warner,,New Prague SCM Meet,2018,2
+HOPK,100 M Butterfly,SCM,M,25-29,1:03.44,Adrian C Carpenter,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,200 M Individual Medley,SCM,M,25-29,2:30.05,Adrian C Carpenter,,New Prague SCM Meet,2018,1
+HOPK,400 M Individual Medley,SCM,M,25-29,5:33.09,Adrian C Carpenter,,New Prague SCM Meet,2018,1
+UC30,50 M Freestyle,SCM,M,30-34,27.86,Blake E Boster,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,30-34,29.08,Justin J Nelson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,M,30-34,35.04,Paul Kittelson,,Minnesota Masters SCM State Championship Meet,2018,3
+HOPK,100 M Freestyle,SCM,M,30-34,54.94,Joseph M Anderson,,2018 Gay Games,2018,1
+UC30,100 M Freestyle,SCM,M,30-34,1:01.81,Blake E Boster,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Freestyle,SCM,M,30-34,1:04.89,Justin J Nelson,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,M,30-34,1:20.08,Paul Kittelson,,Minnesota Masters SCM State Championship Meet,2018,4
+HOPK,200 M Freestyle,SCM,M,30-34,2:00.53,Joseph M Anderson,,2018 Gay Games,2018,1
+MINN,200 M Freestyle,SCM,M,30-34,3:12.43,Paul Kittelson,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,400 M Freestyle,SCM,M,30-34,4:18.31,Joseph M Anderson,,2018 Gay Games,2018,1
+HOPK,800 M Freestyle,SCM,M,30-34,9:04.95,Joseph M Anderson,,2018 Gay Games,2018,1
+MINN,800 M Freestyle,SCM,M,30-34,11:37.42,Patrick Parish,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,1500 M Freestyle,SCM,M,30-34,17:25.84,Joseph M Anderson,,2018 Gay Games,2018,1
+UC30,50 M Backstroke,SCM,M,30-34,35.10,Blake E Boster,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,M,30-34,43.05,Paul Kittelson,,Minnesota Masters SCM State Championship Meet,2018,2
+UC30,100 M Backstroke,SCM,M,30-34,1:17.80,Blake E Boster,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,30-34,41.90,Patrick Parish,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,30-34,1:29.81,Patrick Parish,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,M,30-34,28.71,Andrew Wilson,,Minnesota Masters SCM State Championship Meet,2018,1
+UC30,50 M Butterfly,SCM,M,30-34,31.10,Blake E Boster,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Butterfly,SCM,M,30-34,32.51,Justin J Nelson,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Butterfly,SCM,M,30-34,35.88,Patrick Parish,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,100 M Butterfly,SCM,M,30-34,1:04.11,Andrew Wilson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Butterfly,SCM,M,30-34,2:37.34,Jose R Rosales Yepez,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,30-34,1:08.95,Andrew Wilson,,Minnesota Masters SCM State Championship Meet,2018,1
+UC30,100 M Individual Medley,SCM,M,30-34,1:15.70,Blake E Boster,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,M,30-34,1:20.35,Patrick Parish,,Minnesota Masters SCM State Championship Meet,2018,3
+HOPK,200 M Individual Medley,SCM,M,30-34,2:17.14,Joseph M Anderson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Individual Medley,SCM,M,30-34,2:55.36,Patrick Parish,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,400 M Individual Medley,SCM,M,30-34,4:52.43,Joseph M Anderson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,35-39,33.53,Joseph A Iallonardo,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,M,35-39,1:08.67,Joseph A Iallonardo,,Minnesota Masters SCM State Championship Meet,2018,1
+UC30,100 M Freestyle,SCM,M,35-39,1:19.12,Mark Berven,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Freestyle,SCM,M,35-39,1:21.52,Curtis Majeski,,New Prague SCM Meet,2018,3
+NORT,100 M Freestyle,SCM,M,35-39,1:30.78,Josiah C Nelson,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,200 M Freestyle,SCM,M,35-39,2:37.88,Joseph A Iallonardo,,Minnesota Masters SCM State Championship Meet,2018,1
+UC30,200 M Freestyle,SCM,M,35-39,2:54.12,Mark Berven,,Minnesota Masters SCM State Championship Meet,2018,2
+NORT,200 M Freestyle,SCM,M,35-39,3:29.28,Josiah C Nelson,,Minnesota Masters SCM State Championship Meet,2018,3
+UC30,400 M Freestyle,SCM,M,35-39,6:15.70,Mark Berven,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,400 M Freestyle,SCM,M,35-39,7:27.29,Josiah C Nelson,,Minnesota Masters SCM State Championship Meet,2018,2
+UC30,1500 M Freestyle,SCM,M,35-39,25:26.27,Mark Berven,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,1500 M Freestyle,SCM,M,35-39,30:08.84,Josiah C Nelson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Backstroke,SCM,M,35-39,32.37,Aaron Wood,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Backstroke,SCM,M,35-39,1:38.58,Curtis Majeski,,New Prague SCM Meet,2018,1
+NORT,100 M Backstroke,SCM,M,35-39,1:50.32,Josiah C Nelson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Backstroke,SCM,M,35-39,2:38.93,Aaron Wood,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,35-39,33.79,Rodrigo A Corcho,,Coupe de Montreal 2018,2018,1
+MINN,100 M Breaststroke,SCM,M,35-39,1:15.08,Rodrigo A Corcho,,2018 Gay Games,2018,1
+MINN,100 M Breaststroke,SCM,M,35-39,1:36.43,Curtis Majeski,,New Prague SCM Meet,2018,2
+MINN,200 M Breaststroke,SCM,M,35-39,2:45.54,Rodrigo A Corcho,,2018 Gay Games,2018,1
+MINN,50 M Butterfly,SCM,M,35-39,29.09,Rodrigo A Corcho,,2018 Gay Games,2018,1
+MINN,50 M Butterfly,SCM,M,35-39,30.28,Aaron Wood,,New Prague SCM Meet,2018,2
+MINN,100 M Butterfly,SCM,M,35-39,1:05.13,Greg J Schneider-Bateman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,35-39,1:07.68,Rodrigo A Corcho,,2018 Gay Games,2018,1
+MINN,100 M Individual Medley,SCM,M,35-39,1:11.66,Aaron Wood,,New Prague SCM Meet,2018,2
+MINN,100 M Individual Medley,SCM,M,35-39,1:35.19,Curtis Majeski,,New Prague SCM Meet,2018,3
+MINN,200 M Individual Medley,SCM,M,35-39,2:47.97,Aaron Wood,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,200 M Individual Medley,SCM,M,35-39,3:51.17,Josiah C Nelson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Freestyle,SCM,M,40-44,27.16,Bill Milne,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,M,40-44,31.73,Nathen T Peterfeso,,New Prague SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,M,40-44,1:07.78,Nathen T Peterfeso,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,M,40-44,1:12.08,Brandon S Thornton,,New Prague SCM Meet,2018,2
+MINN,400 M Freestyle,SCM,M,40-44,5:23.46,Nathen T Peterfeso,,New Prague SCM Meet,2018,1
+MINN,400 M Freestyle,SCM,M,40-44,6:06.90,Brandon S Thornton,,New Prague SCM Meet,2018,2
+MYWM,800 M Freestyle,SCM,M,40-44,10:28.97,Adam B Parker,,2018 Gay Games,2018,1
+MYWM,1500 M Freestyle,SCM,M,40-44,19:56.76,Adam B Parker,,2018 Gay Games,2018,1
+MINN,50 M Breaststroke,SCM,M,40-44,34.48,Jeffrey E Dowd,,Minnesota Masters SCM State Championship Meet,2018,1
+MYWM,100 M Breaststroke,SCM,M,40-44,1:23.66,Adam B Parker,,2018 Gay Games,2018,1
+MINN,50 M Butterfly,SCM,M,40-44,30.23,Bill Milne,,New Prague SCM Meet,2018,1
+MINN,50 M Butterfly,SCM,M,40-44,38.82,Brandon S Thornton,,New Prague SCM Meet,2018,2
+MYWM,400 M Individual Medley,SCM,M,40-44,5:51.60,Adam B Parker,,2018 Gay Games,2018,1
+MINN,50 M Freestyle,SCM,M,45-49,23.76,Brian L Jacobson,,2018 Gay Games,2018,1
+MINN,50 M Freestyle,SCM,M,45-49,28.89,Kevin J Aufderhar,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,50 M Freestyle,SCM,M,45-49,32.19,Doobie Kurus,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Freestyle,SCM,M,45-49,33.29,Michael S Meyer,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,100 M Freestyle,SCM,M,45-49,53.82,Brian L Jacobson,,2018 Gay Games,2018,1
+MINN,100 M Freestyle,SCM,M,45-49,1:04.26,Kevin J Aufderhar,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Freestyle,SCM,M,45-49,1:12.91,Doobie Kurus,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,M,45-49,1:15.62,Michael S Meyer,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,100 M Freestyle,SCM,M,45-49,1:16.01,SHANE C PETERSON,,New Prague SCM Meet,2018,5
+NORT,100 M Freestyle,SCM,M,45-49,1:29.33,Tim Timmerman,,Minnesota Masters SCM State Championship Meet,2018,6
+MINN,200 M Freestyle,SCM,M,45-49,2:59.11,Michael S Meyer,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,200 M Freestyle,SCM,M,45-49,3:20.42,Tim Timmerman,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,400 M Freestyle,SCM,M,45-49,6:51.19,Michael S Meyer,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,400 M Freestyle,SCM,M,45-49,7:00.67,Tim Timmerman,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Backstroke,SCM,M,45-49,36.47,Kevin J Aufderhar,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,50 M Backstroke,SCM,M,45-49,46.11,Doobie Kurus,,Minnesota Masters SCM State Championship Meet,2018,2
+NORT,100 M Backstroke,SCM,M,45-49,1:42.81,Tim Timmerman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,45-49,30.83,Brian L Jacobson,,2018 Gay Games,2018,1
+MINN,50 M Breaststroke,SCM,M,45-49,41.98,Kevin J Aufderhar,,New Prague SCM Meet,2018,2
+HOPK,50 M Breaststroke,SCM,M,45-49,51.37,Doobie Kurus,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Breaststroke,SCM,M,45-49,55.99,SHANE C PETERSON,,New Prague SCM Meet,2018,4
+MINN,50 M Butterfly,SCM,M,45-49,26.72,Brian L Jacobson,,2018 Gay Games,2018,1
+MINN,50 M Butterfly,SCM,M,45-49,32.67,Kevin J Aufderhar,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Butterfly,SCM,M,45-49,1:03.75,Brian L Jacobson,,Coupe de Montreal 2018,2018,1
+MINN,100 M Individual Medley,SCM,M,45-49,1:01.52,Brian L Jacobson,,2018 Gay Games,2018,1
+MINN,100 M Individual Medley,SCM,M,45-49,1:18.52,Kevin J Aufderhar,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Individual Medley,SCM,M,45-49,1:45.19,Doobie Kurus,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Freestyle,SCM,M,50-54,27.48,Robert A Young,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,50-54,30.75,Robert E King,,New Prague SCM Meet,2018,2
+MINN,400 M Freestyle,SCM,M,50-54,5:50.78,Michael P Johnson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,800 M Freestyle,SCM,M,50-54,10:15.49,William Schmitz,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,50 M Backstroke,SCM,M,50-54,30.71,Randy J Schlichting,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,M,50-54,33.61,Robert A Young,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Backstroke,SCM,M,50-54,1:07.27,Randy J Schlichting,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,200 M Backstroke,SCM,M,50-54,2:28.82,Randy J Schlichting,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,50-54,40.20,Robert A Young,,2018 November Classic,2018,1
+MINN,50 M Breaststroke,SCM,M,50-54,44.31,Michael P Johnson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Breaststroke,SCM,M,50-54,1:24.38,Robert E King,,New Prague SCM Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,50-54,1:35.50,Michael P Johnson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Butterfly,SCM,M,50-54,29.20,Robert A Young,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,M,50-54,33.99,Robert E King,,New Prague SCM Meet,2018,2
+MINN,100 M Butterfly,SCM,M,50-54,1:09.22,William Schmitz,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Butterfly,SCM,M,50-54,1:17.50,Robert A Young,,New Prague SCM Meet,2018,2
+MINN,200 M Butterfly,SCM,M,50-54,2:49.04,Robert E King,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,100 M Individual Medley,SCM,M,50-54,1:10.92,Randy J Schlichting,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,50-54,1:14.88,Robert A Young,,2018 November Classic,2018,2
+MINN,100 M Individual Medley,SCM,M,50-54,1:18.13,Robert E King,,New Prague SCM Meet,2018,3
+MINN,200 M Individual Medley,SCM,M,50-54,2:45.40,Robert E King,,New Prague SCM Meet,2018,1
+MINN,400 M Individual Medley,SCM,M,50-54,5:51.77,Robert E King,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,55-59,25.29,Jerry M Kollross,,2018 Ron Johnson Invitational Arizona SCM Championships,2018,1
+UC30,50 M Freestyle,SCM,M,55-59,30.28,JUAN M TAVARES,,New Prague SCM Meet,2018,2
+HOPK,50 M Freestyle,SCM,M,55-59,32.56,Randal Ness,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Freestyle,SCM,M,55-59,32.64,Steven D Gruenwald,,Minnesota Masters SCM State Championship Meet,2018,4
+NORT,50 M Freestyle,SCM,M,55-59,35.72,Robert E Licari,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,100 M Freestyle,SCM,M,55-59,56.86,Jerry M Kollross,,2018 Ron Johnson Invitational Arizona SCM Championships,2018,1
+UC30,100 M Freestyle,SCM,M,55-59,1:07.38,JUAN M TAVARES,,New Prague SCM Meet,2018,2
+MINN,100 M Freestyle,SCM,M,55-59,1:08.43,Steven D Gruenwald,,Minnesota Masters SCM State Championship Meet,2018,3
+HOPK,100 M Freestyle,SCM,M,55-59,1:11.38,Randal Ness,,Minnesota Masters SCM State Championship Meet,2018,4
+HOPK,100 M Freestyle,SCM,M,55-59,1:13.53,Craig L Collins,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,200 M Freestyle,SCM,M,55-59,2:22.98,John J Reinartz,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Freestyle,SCM,M,55-59,2:28.59,Gary P Muchow,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,200 M Freestyle,SCM,M,55-59,2:43.67,Randal Ness,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,400 M Freestyle,SCM,M,55-59,5:07.94,John J Reinartz,,New Prague SCM Meet,2018,1
+MINN,400 M Freestyle,SCM,M,55-59,5:25.46,Gary P Muchow,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,400 M Freestyle,SCM,M,55-59,5:30.56,Kenneth J Fischer,,New Prague SCM Meet,2018,3
+HOPK,400 M Freestyle,SCM,M,55-59,5:44.23,Randal Ness,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,800 M Freestyle,SCM,M,55-59,10:25.20,John J Reinartz,,New Prague SCM Meet,2018,1
+HOPK,800 M Freestyle,SCM,M,55-59,11:42.59,Craig L Collins,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,1500 M Freestyle,SCM,M,55-59,19:37.23,John J Reinartz,,New Prague SCM Meet,2018,1
+HOPK,100 M Backstroke,SCM,M,55-59,1:32.40,Craig L Collins,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,55-59,33.18,James L Kochendorfer,,New Prague SCM Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,55-59,34.86,Jerry M Kollross,,2018 Ron Johnson Invitational Arizona SCM Championships,2018,2
+NORT,50 M Breaststroke,SCM,M,55-59,39.38,Robert E Licari,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Breaststroke,SCM,M,55-59,1:14.26,James L Kochendorfer,,New Prague SCM Meet,2018,1
+NORT,100 M Breaststroke,SCM,M,55-59,1:24.88,Robert E Licari,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,100 M Breaststroke,SCM,M,55-59,1:39.80,Craig L Collins,,Minnesota Masters SCM State Championship Meet,2018,3
+NORT,200 M Breaststroke,SCM,M,55-59,3:12.07,Robert E Licari,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,M,55-59,37.46,Steven D Gruenwald,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,100 M Butterfly,SCM,M,55-59,1:36.15,Craig L Collins,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,55-59,1:07.58,Jerry M Kollross,,2018 Ron Johnson Invitational Arizona SCM Championships,2018,1
+MINN,100 M Individual Medley,SCM,M,55-59,1:18.53,John J Reinartz,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,M,55-59,1:24.64,Steven D Gruenwald,,Minnesota Masters SCM State Championship Meet,2018,3
+HOPK,100 M Individual Medley,SCM,M,55-59,1:29.35,Craig L Collins,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,50 M Freestyle,SCM,M,60-64,27.42,Bruce Paakh,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,50 M Freestyle,SCM,M,60-64,30.73,Thomas G Pogue,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,50 M Freestyle,SCM,M,60-64,32.14,John N Evers,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Freestyle,SCM,M,60-64,32.57,Jeffrey E Risberg,,Minnesota Masters SCM State Championship Meet,2018,4
+NORT,50 M Freestyle,SCM,M,60-64,46.94,Jim Hafdahl,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,100 M Freestyle,SCM,M,60-64,1:14.23,Jeffrey E Risberg,,Minnesota Masters SCM State Championship Meet,2018,1
+NORT,100 M Freestyle,SCM,M,60-64,1:19.41,Thomas G Pogue,,Minnesota Masters SCM State Championship Meet,2018,2
+NORT,100 M Freestyle,SCM,M,60-64,1:42.11,Jim Hafdahl,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,200 M Freestyle,SCM,M,60-64,2:24.84,Darrell J Smith,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Freestyle,SCM,M,60-64,2:56.38,John Maguire,,Minnesota Masters SCM State Championship Meet,2018,2
+NORT,200 M Freestyle,SCM,M,60-64,3:12.87,Thomas G Pogue,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Backstroke,SCM,M,60-64,34.14,Brian K Holthus,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,M,60-64,34.22,Bruce Paakh,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Backstroke,SCM,M,60-64,36.37,Didier B Lamour,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Backstroke,SCM,M,60-64,39.16,Curtis L Nelson,,Minnesota Masters SCM State Championship Meet,2018,4
+NORT,50 M Backstroke,SCM,M,60-64,1:02.48,Jim Hafdahl,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,100 M Backstroke,SCM,M,60-64,1:28.05,Lindsey R Kopp,,2018 Gay Games,2018,1
+MINN,200 M Backstroke,SCM,M,60-64,2:51.34,Brian K Holthus,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Backstroke,SCM,M,60-64,3:14.09,Curtis L Nelson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Breaststroke,SCM,M,60-64,35.60,Bruce Paakh,,Minnesota Masters SCM State Championship Meet,2018,1
+HOPK,50 M Breaststroke,SCM,M,60-64,36.99,John N Evers,,New Prague SCM Meet,2018,2
+MINN,50 M Breaststroke,SCM,M,60-64,38.64,Didier B Lamour,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Breaststroke,SCM,M,60-64,38.70,Lindsey R Kopp,,2018 Gay Games,2018,4
+NORT,50 M Breaststroke,SCM,M,60-64,49.51,Thomas G Pogue,,Minnesota Masters SCM State Championship Meet,2018,5
+NORT,50 M Breaststroke,SCM,M,60-64,1:05.11,Jim Hafdahl,,Minnesota Masters SCM State Championship Meet,2018,6
+HOPK,100 M Breaststroke,SCM,M,60-64,1:20.68,John N Evers,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,60-64,1:27.20,Lindsey R Kopp,,2018 Gay Games,2018,2
+HOPK,200 M Breaststroke,SCM,M,60-64,3:03.05,John N Evers,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Breaststroke,SCM,M,60-64,3:17.37,Lindsey R Kopp,,2018 Gay Games,2018,2
+MINN,50 M Butterfly,SCM,M,60-64,30.61,Bruce Paakh,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,M,60-64,32.79,Didier B Lamour,,Minnesota Masters SCM State Championship Meet,2018,2
+HOPK,50 M Butterfly,SCM,M,60-64,33.02,John N Evers,,New Prague SCM Meet,2018,3
+MINN,50 M Butterfly,SCM,M,60-64,33.12,Darrell J Smith,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,50 M Butterfly,SCM,M,60-64,37.14,Jeffrey E Risberg,,Minnesota Masters SCM State Championship Meet,2018,5
+NORT,50 M Butterfly,SCM,M,60-64,41.26,Thomas G Pogue,,Minnesota Masters SCM State Championship Meet,2018,6
+MINN,100 M Individual Medley,SCM,M,60-64,1:10.68,Bruce Paakh,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,60-64,1:16.91,Didier B Lamour,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,100 M Individual Medley,SCM,M,60-64,1:26.98,Lindsey R Kopp,,2018 Gay Games,2018,3
+MINN,100 M Individual Medley,SCM,M,60-64,1:35.04,John Maguire,,Minnesota Masters SCM State Championship Meet,2018,4
+NORT,100 M Individual Medley,SCM,M,60-64,1:40.86,Thomas G Pogue,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,200 M Individual Medley,SCM,M,60-64,2:51.09,Darrell J Smith,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Freestyle,SCM,M,65-69,29.76,Marc S Anderson,,New Prague SCM Meet,2018,1
+MINN,50 M Freestyle,SCM,M,65-69,30.37,Patrick J Strother,,Canadian Masters Swimming Championships,2018,2
+MINN,50 M Freestyle,SCM,M,65-69,33.31,Ralph S Bovard,,New Prague SCM Meet,2018,3
+NORT,50 M Freestyle,SCM,M,65-69,33.71,Perry Brown,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,50 M Freestyle,SCM,M,65-69,40.99,Jim T Langland,,Minnesota Masters SCM State Championship Meet,2018,5
+MINN,100 M Freestyle,SCM,M,65-69,1:08.71,Marc S Anderson,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,M,65-69,1:13.69,Daniel S Kornblatt,,Minnesota Masters SCM State Championship Meet,2018,2
+NORT,100 M Freestyle,SCM,M,65-69,1:15.16,Perry Brown,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Freestyle,SCM,M,65-69,1:26.92,Jim T Langland,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,200 M Freestyle,SCM,M,65-69,2:31.09,Marc S Anderson,,New Prague SCM Meet,2018,1
+NORT,200 M Freestyle,SCM,M,65-69,2:52.41,Perry Brown,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Freestyle,SCM,M,65-69,3:20.92,Jim T Langland,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,200 M Freestyle,SCM,M,65-69,3:37.96,Thomas A Hodgson,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,400 M Freestyle,SCM,M,65-69,5:47.60,Marc S Anderson,,New Prague SCM Meet,2018,1
+MINN,400 M Freestyle,SCM,M,65-69,7:03.93,Jim T Langland,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,800 M Freestyle,SCM,M,65-69,11:47.73,Marc S Anderson,,New Prague SCM Meet,2018,1
+MINN,800 M Freestyle,SCM,M,65-69,15:16.27,Thomas A Hodgson,,New Prague SCM Meet,2018,2
+MINN,1500 M Freestyle,SCM,M,65-69,22:15.45,Marc S Anderson,,New Prague SCM Meet,2018,1
+MINN,1500 M Freestyle,SCM,M,65-69,28:14.68,Jim T Langland,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,1500 M Freestyle,SCM,M,65-69,30:44.42,Thomas A Hodgson,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,50 M Backstroke,SCM,M,65-69,38.41,Marc S Anderson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,M,65-69,39.39,Daniel S Kornblatt,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Backstroke,SCM,M,65-69,44.88,Patrick J Strother,,Canadian Masters Swimming Championships,2018,3
+MINN,100 M Backstroke,SCM,M,65-69,1:25.12,Daniel S Kornblatt,,New Prague SCM Meet,2018,1
+MINN,200 M Backstroke,SCM,M,65-69,3:58.70,Thomas A Hodgson,,New Prague SCM Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,65-69,37.89,Patrick J Strother,,Canadian Masters Swimming Championships,2018,1
+MINN,50 M Breaststroke,SCM,M,65-69,39.35,Marc S Anderson,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,50 M Breaststroke,SCM,M,65-69,42.66,Ralph S Bovard,,New Prague SCM Meet,2018,3
+MINN,100 M Breaststroke,SCM,M,65-69,1:34.64,Patrick J Strother,,Canadian Masters Swimming Championships,2018,1
+MINN,100 M Breaststroke,SCM,M,65-69,1:42.15,Ralph S Bovard,,New Prague SCM Meet,2018,2
+MINN,50 M Butterfly,SCM,M,65-69,37.07,Marc S Anderson,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,65-69,1:29.45,Patrick J Strother,,Canadian Masters Swimming Championships,2018,1
+MINN,100 M Individual Medley,SCM,M,65-69,1:31.40,Ralph S Bovard,,New Prague SCM Meet,2018,2
+NORT,100 M Individual Medley,SCM,M,65-69,1:31.44,Perry Brown,,Minnesota Masters SCM State Championship Meet,2018,3
+MINN,100 M Individual Medley,SCM,M,65-69,1:32.74,Jay Johnston,,Minnesota Masters SCM State Championship Meet,2018,4
+MINN,100 M Individual Medley,SCM,M,65-69,2:05.65,Mark Kaplan,,New Prague SCM Meet,2018,5
+MINN,200 M Individual Medley,SCM,M,65-69,3:25.60,Ralph S Bovard,,New Prague SCM Meet,2018,1
+MINN,100 M Freestyle,SCM,M,70-74,1:18.72,Robin T Kleffman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,70-74,41.13,Robin T Kleffman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,70-74,1:34.38,Robin T Kleffman,,New Prague SCM Meet,2018,1
+MINN,200 M Breaststroke,SCM,M,70-74,3:35.58,Robin T Kleffman,,New Prague SCM Meet,2018,1
+MINN,100 M Butterfly,SCM,M,70-74,1:24.45,John T Ziegenhagen,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Freestyle,SCM,M,75-79,1:30.29,John Bergman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,M,75-79,46.93,John Bergman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Backstroke,SCM,M,75-79,3:49.73,John Bergman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,75-79,51.43,David C Arlander,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,75-79,1:56.46,David C Arlander,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Breaststroke,SCM,M,75-79,4:14.23,David C Arlander,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,M,75-79,52.74,John Bergman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Butterfly,SCM,M,75-79,2:06.26,John Bergman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,75-79,1:46.66,John Bergman,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Freestyle,SCM,M,80-84,3:36.38,Pete Magee,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Backstroke,SCM,M,80-84,51.20,Pete Magee,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Breaststroke,SCM,M,80-84,1:00.58,Bill Kansas,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Breaststroke,SCM,M,80-84,2:14.48,Bill Kansas,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,200 M Breaststroke,SCM,M,80-84,4:41.64,Bill Kansas,,New Prague SCM Meet,2018,1
+MINN,50 M Butterfly,SCM,M,80-84,1:02.41,Pete Magee,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,50 M Butterfly,SCM,M,80-84,1:10.13,Bill Kansas,,New Prague SCM Meet,2018,2
+MINN,100 M Butterfly,SCM,M,80-84,2:59.51,Bill Kansas,,New Prague SCM Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,80-84,1:54.90,Pete Magee,,Minnesota Masters SCM State Championship Meet,2018,1
+MINN,100 M Individual Medley,SCM,M,80-84,2:23.81,Bill Kansas,,Minnesota Masters SCM State Championship Meet,2018,2
+MINN,200 M Individual Medley,SCM,M,80-84,5:21.61,Bill Kansas,,New Prague SCM Meet,2018,1
+MINN,400 M Individual Medley,SCM,M,80-84,11:28.17,Bill Kansas,,Minnesota Masters SCM State Championship Meet,2018,1

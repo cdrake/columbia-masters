@@ -1,0 +1,515 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+DUCK,50 M Freestyle,SCM,W,18-24,31.47,Emily Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,50 M Freestyle,SCM,W,18-24,33.88,Bridget E Shepherd,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Freestyle,SCM,W,18-24,33.98,Erin T Jones,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+DUCK,50 M Freestyle,SCM,W,18-24,35.26,Audrey Huetteman,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+UC37,50 M Freestyle,SCM,W,18-24,42.88,Mia J Ratto,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+DUCK,100 M Freestyle,SCM,W,18-24,1:08.33,Lindsay Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,W,18-24,1:09.61,Madison N Goodall,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+DUCK,100 M Freestyle,SCM,W,18-24,1:11.32,Emily Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+DUCK,100 M Freestyle,SCM,W,18-24,1:15.74,Erin T Jones,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+DUCK,100 M Freestyle,SCM,W,18-24,1:18.90,Audrey Huetteman,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+DUCK,100 M Freestyle,SCM,W,18-24,1:21.66,Amanda L Radtke,,Oregon City Spring Ahead - SCM B/C and Masters,2015,6
+DUCK,200 M Freestyle,SCM,W,18-24,2:35.70,Lindsay Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,200 M Freestyle,SCM,W,18-24,2:45.35,Erin T Jones,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,200 M Freestyle,SCM,W,18-24,2:50.70,Bridget E Shepherd,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+DUCK,200 M Freestyle,SCM,W,18-24,3:02.69,Amanda L Radtke,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+DUCK,400 M Freestyle,SCM,W,18-24,5:30.28,Lindsay Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,400 M Freestyle,SCM,W,18-24,5:48.17,Erin T Jones,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Backstroke,SCM,W,18-24,37.66,Emily Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,50 M Backstroke,SCM,W,18-24,41.31,Bridget E Shepherd,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Backstroke,SCM,W,18-24,42.85,Audrey Huetteman,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Backstroke,SCM,W,18-24,1:20.16,Madison N Goodall,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+DUCK,100 M Backstroke,SCM,W,18-24,1:29.52,Bridget E Shepherd,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Breaststroke,SCM,W,18-24,41.10,Emily Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,50 M Breaststroke,SCM,W,18-24,41.74,Lindsay Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Breaststroke,SCM,W,18-24,42.09,Bridget E Shepherd,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,50 M Breaststroke,SCM,W,18-24,45.56,Madison N Goodall,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+DUCK,50 M Breaststroke,SCM,W,18-24,45.75,Amanda L Radtke,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+DUCK,100 M Breaststroke,SCM,W,18-24,1:34.12,Lindsay Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,100 M Breaststroke,SCM,W,18-24,1:38.28,Amanda L Radtke,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,200 M Breaststroke,SCM,W,18-24,3:31.72,Amanda L Radtke,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,50 M Butterfly,SCM,W,18-24,34.27,Lindsay Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+DUCK,50 M Butterfly,SCM,W,18-24,38.46,Erin T Jones,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Butterfly,SCM,W,18-24,38.54,Audrey Huetteman,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+DUCK,50 M Butterfly,SCM,W,18-24,40.11,Bridget E Shepherd,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,50 M Butterfly,SCM,W,18-24,40.17,Madison N Goodall,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,5
+OREG,100 M Individual Medley,SCM,W,18-24,1:26.88,Madison N Goodall,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Freestyle,SCM,W,25-29,27.32,Hailey Bambusch,,2015 SW Zone and SPMS SCM Championships,2015,1
+DUCK,50 M Freestyle,SCM,W,25-29,45.35,Whitney M Ronnander,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,W,25-29,59.65,Hailey Bambusch,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Freestyle,SCM,W,25-29,2:11.55,Hailey Bambusch,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Backstroke,SCM,W,25-29,33.04,Hailey Bambusch,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,100 M Backstroke,SCM,W,25-29,1:11.44,Hailey Bambusch,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Breaststroke,SCM,W,25-29,36.16,Jessica Stacy,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,100 M Breaststroke,SCM,W,25-29,1:16.33,Jessica Stacy,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Butterfly,SCM,W,25-29,29.66,Jessica Stacy,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Butterfly,SCM,W,25-29,31.45,Hailey Bambusch,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,100 M Butterfly,SCM,W,25-29,1:05.97,Jessica Stacy,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,100 M Butterfly,SCM,W,25-29,1:09.00,Hailey Bambusch,,2015 SW Zone and SPMS SCM Championships,2015,2
+OREG,100 M Individual Medley,SCM,W,25-29,1:08.80,Jessica Stacy,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Freestyle,SCM,W,30-34,38.87,Emilia Bishop,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,W,30-34,1:13.69,Arianne L Benedetto,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Freestyle,SCM,W,30-34,1:26.02,Emilia Bishop,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Backstroke,SCM,W,30-34,36.54,Arianne L Benedetto,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Backstroke,SCM,W,30-34,45.88,Emilia Bishop,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Backstroke,SCM,W,30-34,1:21.55,Arianne L Benedetto,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Backstroke,SCM,W,30-34,2:54.68,Arianne L Benedetto,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,W,30-34,41.50,Vicky Buelow,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,W,30-34,52.31,Emilia Bishop,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Butterfly,SCM,W,30-34,33.22,Vicky Buelow,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Butterfly,SCM,W,30-34,36.48,Arianne L Benedetto,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,50 M Butterfly,SCM,W,30-34,45.08,Emilia Bishop,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Individual Medley,SCM,W,30-34,1:19.38,Vicky Buelow,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Individual Medley,SCM,W,30-34,1:21.65,Arianne L Benedetto,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,200 M Individual Medley,SCM,W,30-34,3:35.40,Emilia Bishop,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,35-39,29.55,Sonja Skinner,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,35-39,31.04,Tessa L Reeves,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+UC37,50 M Freestyle,SCM,W,35-39,41.69,Carolyn DeMarco,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Freestyle,SCM,W,35-39,1:08.35,Tessa L Reeves,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,W,35-39,1:10.74,Stacey L Kiefer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Freestyle,SCM,W,35-39,2:29.60,Tessa L Reeves,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,200 M Freestyle,SCM,W,35-39,3:26.61,Carolyn DeMarco,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Freestyle,SCM,W,35-39,5:15.55,Tessa L Reeves,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Freestyle,SCM,W,35-39,5:45.22,Sarah J Rogers,,PNA and NW Zone SCM Championship Meet,2015,2
+UC37,400 M Freestyle,SCM,W,35-39,7:59.84,Carolyn DeMarco,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+UC37,50 M Backstroke,SCM,W,35-39,52.62,Carolyn DeMarco,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,W,35-39,1:19.46,Sonja Skinner,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,W,35-39,1:19.62,Stacey L Kiefer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Backstroke,SCM,W,35-39,1:30.17,Sarah J Rogers,,PNA and NW Zone SCM Championship Meet,2015,3
+OREG,50 M Breaststroke,SCM,W,35-39,41.48,Tessa L Reeves,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,50 M Breaststroke,SCM,W,35-39,56.80,Carolyn DeMarco,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Breaststroke,SCM,W,35-39,1:24.69,Sonja Skinner,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Breaststroke,SCM,W,35-39,1:30.40,Amanda Metz,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Breaststroke,SCM,W,35-39,1:30.64,Stacey L Kiefer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,200 M Breaststroke,SCM,W,35-39,3:18.84,Amanda Metz,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Breaststroke,SCM,W,35-39,3:24.76,Sarah J Rogers,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,50 M Butterfly,SCM,W,35-39,31.78,Sonja Skinner,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,35-39,36.00,Tessa L Reeves,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+UC37,50 M Butterfly,SCM,W,35-39,54.17,Carolyn DeMarco,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Butterfly,SCM,W,35-39,1:09.56,Sonja Skinner,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Butterfly,SCM,W,35-39,1:16.64,Stacey L Kiefer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Individual Medley,SCM,W,35-39,2:40.71,Sonja Skinner,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Individual Medley,SCM,W,35-39,2:51.17,Stacey L Kiefer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Individual Medley,SCM,W,35-39,3:06.23,Sarah J Rogers,,PNA and NW Zone SCM Championship Meet,2015,3
+OREG,50 M Freestyle,SCM,W,40-44,37.43,Tammy L Fischer,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,50 M Freestyle,SCM,W,40-44,39.42,Maya Barba,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Freestyle,SCM,W,40-44,40.52,Nicole M Richards,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,50 M Freestyle,SCM,W,40-44,46.84,Tracy Brunkhorst,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,50 M Freestyle,SCM,W,40-44,53.99,Kristina L Franklin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,100 M Freestyle,SCM,W,40-44,1:15.73,Teresa M Anderson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,100 M Freestyle,SCM,W,40-44,1:30.85,Maya Barba,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Freestyle,SCM,W,40-44,2:24.39,Sara Q Nelson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,400 M Freestyle,SCM,W,40-44,10:16.23,Kristina L Franklin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Backstroke,SCM,W,40-44,48.95,Laurie Ellicott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Backstroke,SCM,W,40-44,1:07.11,Kristina L Franklin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Backstroke,SCM,W,40-44,1:46.42,Laurie Ellicott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,W,40-44,2:24.34,Kristina L Franklin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Breaststroke,SCM,W,40-44,49.59,Tammy L Fischer,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Breaststroke,SCM,W,40-44,3:01.20,Sara Q Nelson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Breaststroke,SCM,W,40-44,3:22.36,Teresa M Anderson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Butterfly,SCM,W,40-44,47.44,Laurie Ellicott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Individual Medley,SCM,W,40-44,2:45.86,Sara Q Nelson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,400 M Individual Medley,SCM,W,40-44,6:49.11,Teresa M Anderson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,45-49,28.38,Jill M Asch,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Freestyle,SCM,W,45-49,36.60,Sarah Starr,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Freestyle,SCM,W,45-49,37.49,Kelly A Flood,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Freestyle,SCM,W,45-49,38.71,Karen Waterston,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,50 M Freestyle,SCM,W,45-49,45.60,Mary Ann Decker,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,100 M Freestyle,SCM,W,45-49,1:03.97,Jill M Asch,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Freestyle,SCM,W,45-49,1:49.69,Mary Ann Decker,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Freestyle,SCM,W,45-49,2:26.98,Jill M Asch,,2015 Pacific Masters Short Course Meters Championship,2015,1
+OREG,50 M Backstroke,SCM,W,45-49,34.28,Jill M Asch,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Backstroke,SCM,W,45-49,1:15.97,Jill M Asch,,2015 Pacific Masters Short Course Meters Championship,2015,1
+OREG,100 M Backstroke,SCM,W,45-49,1:39.37,Kelly A Flood,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Backstroke,SCM,W,45-49,1:39.75,Susan Gorman,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Breaststroke,SCM,W,45-49,38.83,Jill M Asch,,2015 Pacific Masters Short Course Meters Championship,2015,1
+OREG,50 M Breaststroke,SCM,W,45-49,44.09,Marisa Frieder,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Breaststroke,SCM,W,45-49,46.32,Sarah Starr,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,50 M Breaststroke,SCM,W,45-49,49.72,Kelly A Flood,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,50 M Breaststroke,SCM,W,45-49,51.02,Mary Ann Decker,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,100 M Breaststroke,SCM,W,45-49,1:24.99,Jill M Asch,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Breaststroke,SCM,W,45-49,1:35.16,Marisa Frieder,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Breaststroke,SCM,W,45-49,1:42.46,Karen Waterston,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Breaststroke,SCM,W,45-49,1:48.38,Susan Gorman,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,200 M Breaststroke,SCM,W,45-49,4:11.80,Mary Ann Decker,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,45-49,31.85,Jill M Asch,,2015 Pacific Masters Short Course Meters Championship,2015,1
+OREG,50 M Butterfly,SCM,W,45-49,47.48,Karen Waterston,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Individual Medley,SCM,W,45-49,1:15.06,Jill M Asch,,2015 Pacific Masters Short Course Meters Championship,2015,1
+OREG,100 M Individual Medley,SCM,W,45-49,1:37.26,Kelly A Flood,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Individual Medley,SCM,W,45-49,1:39.50,Karen Waterston,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,200 M Individual Medley,SCM,W,45-49,3:21.84,Marisa Frieder,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Individual Medley,SCM,W,45-49,7:15.68,Marisa Frieder,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,50-54,34.27,Janelle E Miller,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+OREG,50 M Freestyle,SCM,W,50-54,39.02,Janie L Malloy,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,W,50-54,1:17.06,Janelle E Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,100 M Freestyle,SCM,W,50-54,1:21.51,LeAnne E Schrotzberger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,W,50-54,1:24.26,Janie L Malloy,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+UC37,200 M Freestyle,SCM,W,50-54,2:58.23,LeAnne E Schrotzberger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,W,50-54,3:06.06,Sheila Donahoe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Freestyle,SCM,W,50-54,5:46.09,Janelle E Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,400 M Freestyle,SCM,W,50-54,6:00.95,LeAnne E Schrotzberger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Freestyle,SCM,W,50-54,6:48.57,Janie L Malloy,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,50 M Backstroke,SCM,W,50-54,41.51,Janelle E Miller,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+OREG,100 M Backstroke,SCM,W,50-54,1:32.96,Janelle E Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,100 M Backstroke,SCM,W,50-54,1:38.55,LeAnne E Schrotzberger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Backstroke,SCM,W,50-54,3:02.11,Britta M Daubersmith,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,W,50-54,47.56,Janelle E Miller,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+OREG,200 M Breaststroke,SCM,W,50-54,3:53.22,Janie L Malloy,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,50-54,36.84,Britta M Daubersmith,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,50-54,39.40,Janelle E Miller,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,2
+OREG,50 M Butterfly,SCM,W,50-54,46.26,Sheila Donahoe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+UC37,50 M Butterfly,SCM,W,50-54,46.57,LeAnne E Schrotzberger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+UC37,100 M Butterfly,SCM,W,50-54,1:42.25,LeAnne E Schrotzberger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Butterfly,SCM,W,50-54,2:00.54,Janie L Malloy,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Individual Medley,SCM,W,50-54,1:27.48,Janelle E Miller,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+OREG,200 M Individual Medley,SCM,W,50-54,3:03.01,Britta M Daubersmith,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Individual Medley,SCM,W,50-54,7:40.11,Sheila Donahoe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,55-59,39.43,Renata A Squier,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,55-59,39.76,Christina M Fox,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Freestyle,SCM,W,55-59,1:26.32,Renata A Squier,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,W,55-59,1:37.28,Katie Ferris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Freestyle,SCM,W,55-59,2:49.19,Lori E Lamoureux,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,W,55-59,3:11.77,Renata A Squier,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Freestyle,SCM,W,55-59,3:14.76,Christina M Fox,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,400 M Freestyle,SCM,W,55-59,5:21.48,Mary Sweat,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,800 M Freestyle,SCM,W,55-59,10:43.78,Mary Sweat,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,1500 M Freestyle,SCM,W,55-59,20:12.98,Mary Sweat,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,1500 M Freestyle,SCM,W,55-59,21:09.58,Kris A Denney,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Backstroke,SCM,W,55-59,34.53,Karen Andrus-Hughes,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Backstroke,SCM,W,55-59,1:14.38,Karen Andrus-Hughes,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Backstroke,SCM,W,55-59,1:38.21,Christina M Fox,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Backstroke,SCM,W,55-59,2:44.62,Karen Andrus-Hughes,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,W,55-59,39.84,Colette M Crabbe,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Breaststroke,SCM,W,55-59,1:47.39,Christina M Fox,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Breaststroke,SCM,W,55-59,3:06.61,Colette M Crabbe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,55-59,39.79,Lori E Lamoureux,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,55-59,51.43,Katie Ferris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Butterfly,SCM,W,55-59,1:17.33,Colette M Crabbe,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Butterfly,SCM,W,55-59,3:24.26,Kris A Denney,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Individual Medley,SCM,W,55-59,1:16.88,Colette M Crabbe,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Individual Medley,SCM,W,55-59,1:17.24,Karen Andrus-Hughes,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,200 M Individual Medley,SCM,W,55-59,2:44.98,Colette M Crabbe,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,400 M Individual Medley,SCM,W,55-59,5:54.95,Colette M Crabbe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Individual Medley,SCM,W,55-59,6:41.53,Kris A Denney,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Freestyle,SCM,W,60-64,2:56.65,Jeanna Summers,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Freestyle,SCM,W,60-64,4:15.69,Connie Shuman,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,400 M Freestyle,SCM,W,60-64,6:09.64,Jeanna Summers,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,1500 M Freestyle,SCM,W,60-64,23:46.50,Jeanna Summers,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Backstroke,SCM,W,60-64,41.62,Jeanna Summers,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Backstroke,SCM,W,60-64,1:29.12,Jeanna Summers,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Backstroke,SCM,W,60-64,3:15.05,Jeanna Summers,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Backstroke,SCM,W,60-64,3:41.92,Linda C Carstens,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Individual Medley,SCM,W,60-64,3:33.91,Jeanna Summers,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Individual Medley,SCM,W,60-64,3:41.46,Linda C Carstens,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Freestyle,SCM,W,65-69,41.75,Sandi Rousseau,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,W,65-69,3:25.64,Monika Johnson,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,400 M Freestyle,SCM,W,65-69,6:28.02,Janet Gettling,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,800 M Freestyle,SCM,W,65-69,14:55.86,Monika Johnson,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Backstroke,SCM,W,65-69,49.57,Sandi Rousseau,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,W,65-69,1:46.36,Sandi Rousseau,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Backstroke,SCM,W,65-69,3:50.99,Sandi Rousseau,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,W,65-69,44.68,Janet Gettling,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,W,65-69,54.35,Monika Johnson,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,100 M Breaststroke,SCM,W,65-69,1:39.89,Janet Gettling,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Breaststroke,SCM,W,65-69,3:45.75,Janet Gettling,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,65-69,45.25,Sandi Rousseau,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Individual Medley,SCM,W,65-69,1:47.48,Monika Johnson,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,400 M Individual Medley,SCM,W,65-69,7:19.33,Janet Gettling,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,W,70-74,37.58,Sue C Calnek-Morris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,W,70-74,1:30.77,Sue C Calnek-Morris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,W,70-74,3:25.23,Sue C Calnek-Morris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Freestyle,SCM,W,70-74,6:41.55,Sue C Calnek-Morris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Backstroke,SCM,W,70-74,47.57,Joy Ward,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,W,70-74,1:39.69,Joy Ward,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Backstroke,SCM,W,70-74,3:34.24,Joy Ward,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,W,70-74,56.48,Sue C Calnek-Morris,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,W,70-74,46.96,Joy Ward,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Individual Medley,SCM,W,70-74,3:51.98,Joy Ward,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,M,18-24,26.98,Nathan  P Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,M,18-24,31.84,Richard R Miller,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+DUCK,50 M Freestyle,SCM,M,18-24,32.56,Brian R Lui,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Freestyle,SCM,M,18-24,59.98,Nathan  P Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,M,18-24,1:10.05,Grant D Aldred,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Freestyle,SCM,M,18-24,2:18.85,Nathan  P Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Backstroke,SCM,M,18-24,41.66,Grant D Aldred,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,M,18-24,51.93,Nathan  P Collins,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+DUCK,100 M Breaststroke,SCM,M,18-24,1:35.79,Brian R Lui,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,18-24,33.86,Grant D Aldred,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,18-24,37.39,Nathan  P Collins,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Butterfly,SCM,M,18-24,1:17.31,Grant D Aldred,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Individual Medley,SCM,M,18-24,1:29.59,Nathan  P Collins,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,18-24,2:34.88,Nathan  P Collins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Individual Medley,SCM,M,18-24,6:10.20,Grant D Aldred,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,M,25-29,29.24,Matt Yelin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,M,25-29,2:38.86,Aeric C Estep,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Freestyle,SCM,M,25-29,5:32.00,Matt Yelin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,M,25-29,35.98,Matt Yelin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,M,25-29,38.80,Aeric C Estep,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Breaststroke,SCM,M,25-29,1:20.79,Matt Yelin,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Breaststroke,SCM,M,25-29,1:23.39,Thomas A Esser,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Breaststroke,SCM,M,25-29,1:24.75,Aeric C Estep,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,200 M Breaststroke,SCM,M,25-29,3:04.98,Aeric C Estep,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,25-29,33.19,Thomas A Esser,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Individual Medley,SCM,M,25-29,1:18.28,Thomas A Esser,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Freestyle,SCM,M,30-34,26.76,Matthew A Marceau,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+PDX,50 M Freestyle,SCM,M,30-34,30.13,Mikiel Deguara,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Freestyle,SCM,M,30-34,1:20.70,Kevin H Cleary,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,M,30-34,2:13.19,Matthew A Marceau,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,400 M Freestyle,SCM,M,30-34,6:32.93,Kevin H Cleary,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+PDX,50 M Backstroke,SCM,M,30-34,38.45,Mikiel Deguara,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Backstroke,SCM,M,30-34,1:08.64,Matthew A Marceau,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+PDX,50 M Breaststroke,SCM,M,30-34,36.27,Mikiel Deguara,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Breaststroke,SCM,M,30-34,1:17.56,Kevin H Cleary,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Breaststroke,SCM,M,30-34,2:51.80,Kevin H Cleary,,2015 SW Zone and SPMS SCM Championships,2015,1
+PDX,50 M Butterfly,SCM,M,30-34,32.62,Mikiel Deguara,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Butterfly,SCM,M,30-34,1:05.30,Kevin H Cleary,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Butterfly,SCM,M,30-34,2:35.33,Kevin H Cleary,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,100 M Individual Medley,SCM,M,30-34,1:08.50,Matthew A Marceau,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+PDX,100 M Individual Medley,SCM,M,30-34,1:22.54,Mikiel Deguara,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Freestyle,SCM,M,35-39,28.11,Matt Miller,,2015 Ron Johnson Invitational Arizona SCM Championships,2015,1
+OREG,100 M Freestyle,SCM,M,35-39,1:01.46,Matt Miller,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,100 M Freestyle,SCM,M,35-39,1:05.11,Nathaniel Hawkins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,M,35-39,1:16.38,Toby J Weston,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,200 M Freestyle,SCM,M,35-39,2:10.23,Matt Miller,,2015 Ron Johnson Invitational Arizona SCM Championships,2015,1
+OREG,200 M Freestyle,SCM,M,35-39,2:27.13,Nathaniel Hawkins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Freestyle,SCM,M,35-39,4:36.73,Matt Miller,,2015 Ron Johnson Invitational Arizona SCM Championships,2015,1
+OREG,400 M Freestyle,SCM,M,35-39,5:07.33,Nathaniel Hawkins,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,800 M Freestyle,SCM,M,35-39,9:44.67,Matt Miller,,2015 Ron Johnson Invitational Arizona SCM Championships,2015,1
+OREG,1500 M Freestyle,SCM,M,35-39,18:47.62,Matt Miller,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Breaststroke,SCM,M,35-39,3:37.95,Toby J Weston,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,35-39,31.19,Matt Miller,,2015 Ron Johnson Invitational Arizona SCM Championships,2015,1
+OREG,200 M Butterfly,SCM,M,35-39,2:38.00,Matt Miller,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Individual Medley,SCM,M,35-39,2:37.51,Matt Miller,,2015 Ron Johnson Invitational Arizona SCM Championships,2015,1
+OREG,400 M Individual Medley,SCM,M,35-39,5:28.04,Matt Miller,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Freestyle,SCM,M,40-44,30.31,Alex Crooks,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,M,40-44,1:05.29,Brad Cota,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Freestyle,SCM,M,40-44,1:05.50,Alex Crooks,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,M,40-44,1:08.62,Brian T Hemphill,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+PDX,100 M Freestyle,SCM,M,40-44,1:22.78,Shad Roundy,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,200 M Freestyle,SCM,M,40-44,2:28.96,Alex Crooks,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Freestyle,SCM,M,40-44,5:15.65,Alex Crooks,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,M,40-44,1:16.56,Brad Cota,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Backstroke,SCM,M,40-44,1:21.81,Brian T Hemphill,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+PDX,100 M Backstroke,SCM,M,40-44,1:42.73,Shad Roundy,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Breaststroke,SCM,M,40-44,1:19.86,Brad Cota,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Breaststroke,SCM,M,40-44,1:28.48,Brian T Hemphill,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+PDX,100 M Breaststroke,SCM,M,40-44,1:45.57,Shad Roundy,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,200 M Breaststroke,SCM,M,40-44,2:48.62,Robbert Van Andel,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,40-44,36.14,Alex Crooks,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Butterfly,SCM,M,40-44,1:15.99,Brian T Hemphill,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Butterfly,SCM,M,40-44,1:18.86,Brad Cota,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+PDX,100 M Butterfly,SCM,M,40-44,1:52.43,Shad Roundy,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,200 M Individual Medley,SCM,M,40-44,2:46.11,Brad Cota,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,40-44,2:51.43,Brian T Hemphill,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Individual Medley,SCM,M,40-44,2:52.49,Alex Crooks,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+PDX,200 M Individual Medley,SCM,M,40-44,3:41.40,Shad Roundy,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,400 M Individual Medley,SCM,M,40-44,5:23.41,Robbert Van Andel,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,M,45-49,26.06,Mark Pinger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,M,45-49,29.12,Dirk Muessig,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Freestyle,SCM,M,45-49,30.07,David A Capron,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,50 M Freestyle,SCM,M,45-49,31.55,Erik R Kropp,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,50 M Freestyle,SCM,M,45-49,33.51,Rod Shroufe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+UC37,50 M Freestyle,SCM,M,45-49,34.18,Scott Ferguson,,PNA and NW Zone SCM Championship Meet,2015,6
+PDX,50 M Freestyle,SCM,M,45-49,34.73,Eduardo E Sotelo,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,7
+OREG,50 M Freestyle,SCM,M,45-49,38.59,Doug L Hayes,,Oregon City Spring Ahead - SCM B/C and Masters,2015,8
+OREG,100 M Freestyle,SCM,M,45-49,59.87,Darren J Kling,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Freestyle,SCM,M,45-49,1:04.81,Dirk Muessig,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,M,45-49,1:05.96,David A Capron,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Freestyle,SCM,M,45-49,1:08.32,Gary R Defrang,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+UC37,100 M Freestyle,SCM,M,45-49,1:12.54,Kevin Guaspari,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+PDX,100 M Freestyle,SCM,M,45-49,1:18.54,Eduardo E Sotelo,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,6
+OREG,200 M Freestyle,SCM,M,45-49,2:08.25,Scot A Sullivan,,2015 SW Zone and SPMS SCM Championships,2015,1
+UC37,200 M Freestyle,SCM,M,45-49,3:02.76,Kevin Guaspari,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+PDX,200 M Freestyle,SCM,M,45-49,3:03.29,Eduardo E Sotelo,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,400 M Freestyle,SCM,M,45-49,4:27.93,Scot A Sullivan,,2015 SW Zone and SPMS SCM Championships,2015,1
+UC37,400 M Freestyle,SCM,M,45-49,5:09.53,Matthew J Roth,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Freestyle,SCM,M,45-49,5:29.07,Timothy P Waud,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,400 M Freestyle,SCM,M,45-49,5:45.08,David A Capron,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,800 M Freestyle,SCM,M,45-49,9:22.39,Scot A Sullivan,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,50 M Backstroke,SCM,M,45-49,31.57,Scot A Sullivan,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,M,45-49,1:07.30,Scot A Sullivan,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,100 M Backstroke,SCM,M,45-49,1:07.54,Darren J Kling,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,100 M Backstroke,SCM,M,45-49,1:12.29,Gary R Defrang,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Backstroke,SCM,M,45-49,1:15.87,David A Capron,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,100 M Backstroke,SCM,M,45-49,1:15.87,Dirk Muessig,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+UC37,200 M Backstroke,SCM,M,45-49,2:41.82,Matthew J Roth,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,M,45-49,42.55,Matthew A Donahue,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,M,45-49,42.56,Rod Shroufe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Breaststroke,SCM,M,45-49,42.83,Erik R Kropp,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Breaststroke,SCM,M,45-49,46.92,Doug L Hayes,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,100 M Breaststroke,SCM,M,45-49,1:17.04,Darren J Kling,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Breaststroke,SCM,M,45-49,1:23.41,Timothy P Waud,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Breaststroke,SCM,M,45-49,1:30.99,Gary R Defrang,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Breaststroke,SCM,M,45-49,1:38.66,Matthew A Donahue,,PNA and NW Zone SCM Championship Meet,2015,4
+OREG,200 M Breaststroke,SCM,M,45-49,3:02.87,Timothy P Waud,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,45-49,32.83,Timothy P Waud,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,45-49,38.95,Matthew A Donahue,,PNA and NW Zone SCM Championship Meet,2015,2
+PDX,50 M Butterfly,SCM,M,45-49,39.82,Eduardo E Sotelo,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+UC37,50 M Butterfly,SCM,M,45-49,40.60,Scott Ferguson,,PNA and NW Zone SCM Championship Meet,2015,4
+OREG,50 M Butterfly,SCM,M,45-49,40.68,Rod Shroufe,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,100 M Butterfly,SCM,M,45-49,1:04.94,Darren J Kling,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+UC37,100 M Butterfly,SCM,M,45-49,1:08.16,Matthew J Roth,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Butterfly,SCM,M,45-49,1:15.29,Dirk Muessig,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Butterfly,SCM,M,45-49,1:15.69,Gary R Defrang,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+UC37,200 M Butterfly,SCM,M,45-49,2:47.45,Matthew J Roth,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+UC37,100 M Individual Medley,SCM,M,45-49,1:25.39,Scott Ferguson,,PNA and NW Zone SCM Championship Meet,2015,1
+PDX,100 M Individual Medley,SCM,M,45-49,1:34.42,Eduardo E Sotelo,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Individual Medley,SCM,M,45-49,2:27.42,Darren J Kling,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,45-49,2:33.63,Mark Pinger,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+UC37,200 M Individual Medley,SCM,M,45-49,2:40.29,Matthew J Roth,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,200 M Individual Medley,SCM,M,45-49,2:41.07,Timothy P Waud,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,200 M Individual Medley,SCM,M,45-49,2:44.34,Gary R Defrang,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,5
+OREG,200 M Individual Medley,SCM,M,45-49,2:45.63,Dirk Muessig,,Oregon City Spring Ahead - SCM B/C and Masters,2015,6
+OREG,200 M Individual Medley,SCM,M,45-49,3:05.11,Erik R Kropp,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,7
+UC37,400 M Individual Medley,SCM,M,45-49,5:47.58,Matthew J Roth,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Individual Medley,SCM,M,45-49,6:05.13,Timothy P Waud,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Freestyle,SCM,M,50-54,28.22,Steve D Parmentier,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Freestyle,SCM,M,50-54,30.50,Andrew Scott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Freestyle,SCM,M,50-54,30.77,Tyler Thessin,,PNA and NW Zone SCM Championship Meet,2015,3
+OREG,50 M Freestyle,SCM,M,50-54,33.48,Jan Voeller,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,50 M Freestyle,SCM,M,50-54,35.02,Neal Bridgnell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,50 M Freestyle,SCM,M,50-54,44.36,Michael D Landen,,Oregon City Spring Ahead - SCM B/C and Masters,2015,6
+OREG,100 M Freestyle,SCM,M,50-54,1:06.92,Andrew Scott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,M,50-54,1:12.65,Tyler Thessin,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,100 M Freestyle,SCM,M,50-54,1:22.86,Neal Bridgnell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,200 M Freestyle,SCM,M,50-54,2:21.39,Brent C Washburne,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Freestyle,SCM,M,50-54,2:31.42,Kris Calvin,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Freestyle,SCM,M,50-54,2:35.01,Steve D Wursta,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,200 M Freestyle,SCM,M,50-54,2:43.02,Tyler Thessin,,PNA and NW Zone SCM Championship Meet,2015,4
+OREG,200 M Freestyle,SCM,M,50-54,3:11.60,Neal Bridgnell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,400 M Freestyle,SCM,M,50-54,5:09.16,Brent C Washburne,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,400 M Freestyle,SCM,M,50-54,5:14.40,Andrew Scott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,1500 M Freestyle,SCM,M,50-54,21:45.33,Brent C Washburne,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,1500 M Freestyle,SCM,M,50-54,22:56.38,Steve D Wursta,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Backstroke,SCM,M,50-54,31.84,Steve D Parmentier,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Backstroke,SCM,M,50-54,36.84,Andrew Scott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Backstroke,SCM,M,50-54,40.92,Jan Voeller,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Backstroke,SCM,M,50-54,48.03,Neal Bridgnell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,200 M Backstroke,SCM,M,50-54,2:42.46,Brent C Washburne,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Backstroke,SCM,M,50-54,2:49.91,Kris Calvin,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Backstroke,SCM,M,50-54,3:15.98,Steve D Wursta,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Breaststroke,SCM,M,50-54,36.51,Tyler Thessin,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,M,50-54,38.44,Steve D Parmentier,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,50 M Breaststroke,SCM,M,50-54,43.47,Jan Voeller,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Breaststroke,SCM,M,50-54,1:18.89,Tyler Thessin,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Breaststroke,SCM,M,50-54,2:57.09,Tyler Thessin,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Breaststroke,SCM,M,50-54,3:09.39,Kris Calvin,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Breaststroke,SCM,M,50-54,3:22.91,Steve D Wursta,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Butterfly,SCM,M,50-54,30.48,Steve D Parmentier,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Butterfly,SCM,M,50-54,43.03,Jan Voeller,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Butterfly,SCM,M,50-54,2:50.57,Kris Calvin,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Butterfly,SCM,M,50-54,2:58.66,Brent C Washburne,,2015 SW Zone and SPMS SCM Championships,2015,2
+OREG,100 M Individual Medley,SCM,M,50-54,1:31.09,Jan Voeller,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,50-54,2:47.45,Andrew Scott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Individual Medley,SCM,M,50-54,3:08.12,Steve D Wursta,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,400 M Individual Medley,SCM,M,50-54,5:51.01,Kris Calvin,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,400 M Individual Medley,SCM,M,50-54,6:02.97,Andrew Scott,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+UC37,50 M Freestyle,SCM,M,55-59,28.75,Stephen M Bollens,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Freestyle,SCM,M,55-59,33.34,Kevin G Palmer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Freestyle,SCM,M,55-59,37.54,Robert A Szmidt,,"October Swim Fest, Simmons College",2015,3
+OREG,50 M Freestyle,SCM,M,55-59,39.22,Kent W Norville,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,50 M Freestyle,SCM,M,55-59,42.18,Mark Lane,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,5
+OREG,50 M Freestyle,SCM,M,55-59,42.87,Charlie Helm,,PNA and NW Zone SCM Championship Meet,2015,6
+OREG,100 M Freestyle,SCM,M,55-59,1:30.72,Kent W Norville,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,M,55-59,1:40.49,Charlie Helm,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,M,55-59,1:41.16,Mark Lane,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,200 M Freestyle,SCM,M,55-59,2:15.89,David Hathaway,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Freestyle,SCM,M,55-59,2:32.11,Richard K Howell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Freestyle,SCM,M,55-59,3:42.49,Kent W Norville,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,200 M Freestyle,SCM,M,55-59,3:45.13,Mark Lane,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,200 M Freestyle,SCM,M,55-59,3:54.28,Charlie Helm,,Oregon City Spring Ahead - SCM B/C and Masters,2015,5
+OREG,400 M Freestyle,SCM,M,55-59,4:49.55,David Hathaway,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,400 M Freestyle,SCM,M,55-59,8:16.19,Charlie Helm,,PNA and NW Zone SCM Championship Meet,2015,2
+OREG,800 M Freestyle,SCM,M,55-59,10:01.20,David Hathaway,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,1500 M Freestyle,SCM,M,55-59,19:07.07,David Hathaway,,2015 SW Zone and SPMS SCM Championships,2015,1
+PDX,1500 M Freestyle,SCM,M,55-59,23:06.76,William C Toepper,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,1500 M Freestyle,SCM,M,55-59,30:59.48,Mark Lane,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+UC37,50 M Backstroke,SCM,M,55-59,36.24,Stephen M Bollens,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Backstroke,SCM,M,55-59,40.81,Kevin G Palmer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Backstroke,SCM,M,55-59,55.84,Robert A Szmidt,,"October Swim Fest, Simmons College",2015,3
+OREG,50 M Backstroke,SCM,M,55-59,57.35,Kent W Norville,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,50 M Backstroke,SCM,M,55-59,59.44,Charlie Helm,,PNA and NW Zone SCM Championship Meet,2015,5
+OREG,200 M Backstroke,SCM,M,55-59,2:40.84,David Hathaway,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Backstroke,SCM,M,55-59,3:13.38,Richard K Howell,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Breaststroke,SCM,M,55-59,35.06,Richard K Howell,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,M,55-59,45.54,Kevin G Palmer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Breaststroke,SCM,M,55-59,51.68,Kent W Norville,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Breaststroke,SCM,M,55-59,1:06.32,Charlie Helm,,Oregon City Spring Ahead - SCM B/C and Masters,2015,4
+OREG,100 M Breaststroke,SCM,M,55-59,1:19.46,Richard K Howell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Breaststroke,SCM,M,55-59,2:52.16,Richard K Howell,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Butterfly,SCM,M,55-59,35.19,Kevin G Palmer,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Butterfly,SCM,M,55-59,46.39,Robert A Szmidt,,"October Swim Fest, Simmons College",2015,2
+OREG,50 M Butterfly,SCM,M,55-59,48.46,Kent W Norville,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Butterfly,SCM,M,55-59,1:20.45,Richard K Howell,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Butterfly,SCM,M,55-59,2:54.79,David Hathaway,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Butterfly,SCM,M,55-59,3:04.26,Richard K Howell,,PNA and NW Zone SCM Championship Meet,2015,2
+PDX,200 M Butterfly,SCM,M,55-59,3:53.47,William C Toepper,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Individual Medley,SCM,M,55-59,1:52.13,Kent W Norville,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,55-59,2:36.10,David Hathaway,,2015 SW Zone and SPMS SCM Championships,2015,1
+OREG,200 M Individual Medley,SCM,M,55-59,2:51.23,Richard K Howell,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,200 M Individual Medley,SCM,M,55-59,3:39.59,Robert A Szmidt,,"October Swim Fest, Simmons College",2015,3
+OREG,400 M Individual Medley,SCM,M,55-59,5:46.09,David Hathaway,,2015 SW Zone and SPMS SCM Championships,2015,1
+PDX,400 M Individual Medley,SCM,M,55-59,7:00.25,William C Toepper,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,2
+OREG,50 M Freestyle,SCM,M,60-64,31.33,Charles B Dwight,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Freestyle,SCM,M,60-64,33.06,Allen J Larson,,Huntsman World Senior Games,2015,2
+OREG,50 M Freestyle,SCM,M,60-64,36.47,James H Tudor,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Freestyle,SCM,M,60-64,1:11.10,Tom Phipps,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,M,60-64,1:12.41,Allen J Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Freestyle,SCM,M,60-64,1:13.64,Robert B Richardson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Freestyle,SCM,M,60-64,1:21.15,James H Tudor,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,4
+OREG,200 M Freestyle,SCM,M,60-64,2:38.81,Tom Phipps,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,M,60-64,2:46.22,Allen J Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Freestyle,SCM,M,60-64,5:35.43,Tom Phipps,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,400 M Freestyle,SCM,M,60-64,6:17.85,Allen J Larson,,Huntsman World Senior Games,2015,2
+OREG,800 M Freestyle,SCM,M,60-64,12:49.02,Allen J Larson,,Huntsman World Senior Games,2015,1
+OREG,1500 M Freestyle,SCM,M,60-64,23:26.14,Robert B Richardson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,1500 M Freestyle,SCM,M,60-64,24:32.24,Allen J Larson,,Huntsman World Senior Games,2015,2
+OREG,1500 M Freestyle,SCM,M,60-64,31:57.93,Walter R Carter,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,50 M Backstroke,SCM,M,60-64,39.46,Charles B Dwight,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Breaststroke,SCM,M,60-64,41.34,Charles B Dwight,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Breaststroke,SCM,M,60-64,1:37.50,Robert B Richardson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Butterfly,SCM,M,60-64,34.97,Charles B Dwight,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Butterfly,SCM,M,60-64,39.03,Allen J Larson,,Huntsman World Senior Games,2015,2
+OREG,50 M Butterfly,SCM,M,60-64,52.61,Walter R Carter,,Oregon City Spring Ahead - SCM B/C and Masters,2015,3
+OREG,100 M Butterfly,SCM,M,60-64,1:50.03,Allen J Larson,,Huntsman World Senior Games,2015,1
+OREG,100 M Butterfly,SCM,M,60-64,1:59.38,Walter R Carter,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Butterfly,SCM,M,60-64,3:14.58,Tom Phipps,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Butterfly,SCM,M,60-64,4:32.29,Walter R Carter,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,100 M Individual Medley,SCM,M,60-64,1:25.62,Charles B Dwight,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,60-64,3:37.69,Allen J Larson,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Individual Medley,SCM,M,60-64,4:08.55,Walter R Carter,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,400 M Individual Medley,SCM,M,60-64,9:12.86,Walter R Carter,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Freestyle,SCM,M,65-69,38.92,Michael P Carew,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,1500 M Freestyle,SCM,M,65-69,24:51.51,Matt Henderson,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Backstroke,SCM,M,65-69,58.96,Michael P Carew,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,50 M Breaststroke,SCM,M,65-69,35.35,Allen L Stark,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Breaststroke,SCM,M,65-69,40.29,Pat Cotter,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,50 M Breaststroke,SCM,M,65-69,52.43,Michael P Carew,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,3
+OREG,100 M Breaststroke,SCM,M,65-69,1:18.38,Allen L Stark,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Breaststroke,SCM,M,65-69,1:30.31,Pat Cotter,,Oregon City Spring Ahead - SCM B/C and Masters,2015,2
+OREG,200 M Breaststroke,SCM,M,65-69,2:59.20,Allen L Stark,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Butterfly,SCM,M,65-69,52.32,Michael P Carew,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Individual Medley,SCM,M,65-69,1:49.78,Michael P Carew,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,200 M Backstroke,SCM,M,70-74,4:16.30,Peter P Berghaus,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Breaststroke,SCM,M,70-74,2:02.08,Peter P Berghaus,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Breaststroke,SCM,M,70-74,4:29.11,Peter P Berghaus,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Individual Medley,SCM,M,70-74,4:26.18,Peter P Berghaus,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,400 M Individual Medley,SCM,M,70-74,9:50.58,Peter P Berghaus,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Backstroke,SCM,M,75-79,47.48,George D Thayer,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Backstroke,SCM,M,75-79,1:47.71,George D Thayer,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Backstroke,SCM,M,75-79,3:59.41,George D Thayer,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Breaststroke,SCM,M,75-79,54.44,George D Thayer,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Freestyle,SCM,M,80-84,33.26,David A Radcliff,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,100 M Freestyle,SCM,M,80-84,1:13.17,David A Radcliff,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,200 M Freestyle,SCM,M,80-84,2:49.91,David A Radcliff,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,400 M Freestyle,SCM,M,80-84,5:52.68,David A Radcliff,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,800 M Freestyle,SCM,M,80-84,13:06.52,David A Radcliff,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,1500 M Freestyle,SCM,M,80-84,23:15.98,David A Radcliff,,PNA and NW Zone SCM Championship Meet,2015,1
+OREG,50 M Freestyle,SCM,M,90-94,44.54,Willard J Lamb,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,100 M Freestyle,SCM,M,90-94,1:39.58,Willard J Lamb,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Freestyle,SCM,M,90-94,3:53.49,Willard J Lamb,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,400 M Freestyle,SCM,M,90-94,7:54.44,Willard J Lamb,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,50 M Backstroke,SCM,M,90-94,56.40,Willard J Lamb,,2015 All-Around Challenge: SCM Pentathlon and Brute Squad Meet,2015,1
+OREG,100 M Backstroke,SCM,M,90-94,2:02.88,Willard J Lamb,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1
+OREG,200 M Backstroke,SCM,M,90-94,4:26.09,Willard J Lamb,,Oregon City Spring Ahead - SCM B/C and Masters,2015,1

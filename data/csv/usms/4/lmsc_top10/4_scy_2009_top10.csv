@@ -1,0 +1,559 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BUMS,50 Y Freestyle,SCY,W,18-24,29.64,Jessica L Smith,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,18-24,32.70,Elizabeth A Schlindler,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Freestyle,SCY,W,18-24,1:02.47,Jamie L Garver,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,18-24,1:03.22,Jessica L Smith,,BUMS Meet,2009,2
+NIAG,100 Y Freestyle,SCY,W,18-24,1:12.17,Elizabeth A Schlindler,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Freestyle,SCY,W,18-24,2:13.71,Alli Engle,,BUMS Meet,2009,1
+NIAG,200 Y Freestyle,SCY,W,18-24,2:18.21,Jessica L Smith,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Freestyle,SCY,W,18-24,2:43.23,Michelle A Larson,,2010 BALLSTON SPA SPRING FLING SWIM MEET,2009,3
+NIAG,200 Y Freestyle,SCY,W,18-24,2:47.18,Elizabeth A Schlindler,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,500 Y Freestyle,SCY,W,18-24,6:06.75,Jessica L Smith,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,18-24,7:00.69,Michelle A Larson,,2010 BALLSTON SPA CABIN FEVER SWIM MEET,2009,2
+NIAG,1000 Y Freestyle,SCY,W,18-24,12:19.40,Alli Engle,,BUMS Meet,2009,1
+NIAG,1000 Y Freestyle,SCY,W,18-24,12:48.26,Jessica L Smith,,BUMS Meet,2009,2
+NIAG,1000 Y Freestyle,SCY,W,18-24,14:38.14,Michelle A Larson,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Backstroke,SCY,W,18-24,1:12.24,Jamie L Garver,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Backstroke,SCY,W,18-24,2:33.39,Alli Engle,,BUMS Meet,2009,1
+NIAG,200 Y Backstroke,SCY,W,18-24,2:47.06,Jamie L Garver,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,200 Y Backstroke,SCY,W,18-24,3:11.32,Michelle A Larson,,2010 BALLSTON SPA SPRING FLING SWIM MEET,2009,3
+NIAG,200 Y Breaststroke,SCY,W,18-24,3:24.49,Michelle A Larson,,2010 BALLSTON SPA SPRING FLING SWIM MEET,2009,1
+NIAG,200 Y Butterfly,SCY,W,18-24,3:13.10,Michelle A Larson,,2010 BALLSTON SPA SPRING FLING SWIM MEET,2009,1
+NIAG,100 Y Individual Medley,SCY,W,18-24,1:14.81,Jessica L Smith,,BUMS Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,18-24,1:22.63,Michelle A Larson,,2010 BALLSTON SPA CABIN FEVER SWIM MEET,2009,2
+NIAG,200 Y Individual Medley,SCY,W,18-24,2:57.24,Michelle A Larson,,2010 BALLSTON SPA CABIN FEVER SWIM MEET,2009,1
+NIAG,400 Y Individual Medley,SCY,W,18-24,6:26.96,Michelle A Larson,,2010 BALLSTON SPA SPRING FLING SWIM MEET,2009,1
+NIAG,200 Y Freestyle,SCY,W,25-29,3:03.78,Olivia A Atkins,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,25-29,8:20.42,Olivia A Atkins,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,1000 Y Freestyle,SCY,W,25-29,17:11.84,Olivia A Atkins,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Backstroke,SCY,W,25-29,1:46.48,Olivia A Atkins,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Backstroke,SCY,W,25-29,3:37.59,Olivia A Atkins,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,30-34,1:06.94,Doyle K Pruitt,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,200 Y Freestyle,SCY,W,30-34,2:39.67,Erin M Onze,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,30-34,6:43.60,Doyle K Pruitt,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,30-34,6:48.88,Danielle B Ohlson,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,500 Y Freestyle,SCY,W,30-34,7:05.90,Erin M Onze,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,1000 Y Freestyle,SCY,W,30-34,14:13.07,Doyle K Pruitt,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,W,30-34,1:17.05,Danielle B Ohlson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,30-34,35.27,Danielle B Ohlson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,30-34,1:13.06,Danielle B Ohlson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,200 Y Individual Medley,SCY,W,30-34,2:41.84,Danielle B Ohlson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,35-39,35.16,Kimberly Roberge,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,35-39,1:22.77,Kimberly Roberge,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,35-39,5:58.23,Dana C Woody,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,35-39,31.72,Ann Marie Crye,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,35-39,41.14,Lois A Blight,,BUMS Meet,2009,2
+NIAG,200 Y Backstroke,SCY,W,35-39,2:38.23,Dana C Woody,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,35-39,35.62,Ann Marie Crye,,2010 BALLSTON SPA CABIN FEVER SWIM MEET,2009,1
+NIAG,50 Y Breaststroke,SCY,W,35-39,47.06,Kimberly Roberge,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,W,35-39,1:17.57,Ann Marie Crye,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,200 Y Breaststroke,SCY,W,35-39,2:48.73,Ann Marie Crye,,2010 BALLSTON SPA CABIN FEVER SWIM MEET,2009,1
+NIAG,50 Y Butterfly,SCY,W,35-39,29.55,Ann Marie Crye,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,35-39,40.23,Lois A Blight,,BUMS Meet,2009,2
+NIAG,100 Y Butterfly,SCY,W,35-39,1:09.83,Ann Marie Crye,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,35-39,1:06.76,Ann Marie Crye,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,35-39,1:31.82,Lois A Blight,,BUMS Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,40-44,28.51,Stephanie A Cacace,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Freestyle,SCY,W,40-44,29.55,Paula D Turkon,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,40-44,30.54,Lynn E Musclow,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Freestyle,SCY,W,40-44,30.84,Janet C Cahill,,11th Annual Ithaca Masters Meet,2009,4
+NIAG,100 Y Freestyle,SCY,W,40-44,1:02.58,Stephanie A Cacace,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Freestyle,SCY,W,40-44,1:05.60,Janet C Cahill,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Freestyle,SCY,W,40-44,1:07.27,Soren Y Lowell,,Rochester Area Masters Swimming Fall Meet,2009,3
+UNAT,100 Y Freestyle,SCY,W,40-44,1:08.25,Katie Stettler,,11th Annual Ithaca Masters Meet,2009,4
+NIAG,100 Y Freestyle,SCY,W,40-44,1:09.01,Lynn E Musclow,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Freestyle,SCY,W,40-44,1:32.54,Jill D Thrasher,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,200 Y Freestyle,SCY,W,40-44,2:21.45,Stephanie A Cacace,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Freestyle,SCY,W,40-44,2:27.47,Lynn E Musclow,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Freestyle,SCY,W,40-44,2:28.55,Soren Y Lowell,,Rochester Area Masters Swimming Fall Meet,2009,3
+UNAT,200 Y Freestyle,SCY,W,40-44,2:36.94,Katie Stettler,,11th Annual Ithaca Masters Meet,2009,4
+NIAG,500 Y Freestyle,SCY,W,40-44,7:03.15,Lynn E Musclow,,Canandaigua Sawbellies Swim Meet,2009,1
+UNAT,500 Y Freestyle,SCY,W,40-44,7:03.36,Katie Stettler,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,50 Y Backstroke,SCY,W,40-44,34.27,Janet C Cahill,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,40-44,50.50,Jill D Thrasher,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Backstroke,SCY,W,40-44,1:16.39,Janet C Cahill,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,40-44,37.81,Stephanie A Cacace,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Breaststroke,SCY,W,40-44,49.72,Jill D Thrasher,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,W,40-44,1:20.87,Stephanie A Cacace,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Breaststroke,SCY,W,40-44,1:25.45,Soren Y Lowell,,Rochester Area Masters Swimming Fall Meet,2009,2
+UNAT,100 Y Breaststroke,SCY,W,40-44,1:28.23,Katie Stettler,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,200 Y Breaststroke,SCY,W,40-44,2:51.91,Stephanie A Cacace,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Butterfly,SCY,W,40-44,33.39,Janet C Cahill,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,40-44,34.30,Paula D Turkon,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Butterfly,SCY,W,40-44,42.28,Lynn E Musclow,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,W,40-44,1:13.82,Stephanie A Cacace,,BUMS Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,40-44,1:15.71,Janet C Cahill,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,W,40-44,1:17.55,Paula D Turkon,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,W,40-44,1:41.55,Jill D Thrasher,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,200 Y Individual Medley,SCY,W,40-44,2:49.79,Janet C Cahill,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,200 Y Individual Medley,SCY,W,40-44,2:50.37,Paula D Turkon,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,45-49,29.66,Patricia Zdep,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,45-49,30.33,Greta M Dewey,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,45-49,31.52,Susan Swensen,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Freestyle,SCY,W,45-49,31.81,Karen A Mitrowitz,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,50 Y Freestyle,SCY,W,45-49,33.22,Kama G Way,,BUMS Meet,2009,5
+NIAG,50 Y Freestyle,SCY,W,45-49,34.25,Julie C Langenbacher,,11th Annual Ithaca Masters Meet,2009,6
+NIAG,50 Y Freestyle,SCY,W,45-49,36.69,Susan V Mangold,,Rochester Area Masters Swimming Fall Meet,2009,7
+NIAG,50 Y Freestyle,SCY,W,45-49,36.85,Ann R Marshfield,,Rochester Area Masters Swimming Fall Meet,2009,8
+NIAG,50 Y Freestyle,SCY,W,45-49,36.96,Sarah R Balduf,,Rochester Area Masters Swimming Fall Meet,2009,9
+NIAG,100 Y Freestyle,SCY,W,45-49,1:08.43,Susan Swensen,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,45-49,1:10.91,Jeannine S Gambrel,,Lake Erie LMSC Wooster Ohio SCY,2009,2
+NIAG,100 Y Freestyle,SCY,W,45-49,1:11.13,Greta M Dewey,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,100 Y Freestyle,SCY,W,45-49,1:11.35,Karen A Mitrowitz,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,100 Y Freestyle,SCY,W,45-49,1:17.69,Tina L Buzak,,BUMS Meet,2009,5
+NIAG,100 Y Freestyle,SCY,W,45-49,1:21.68,Susan V Mangold,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,100 Y Freestyle,SCY,W,45-49,1:29.61,Sarah R Balduf,,Rochester Area Masters Swimming Fall Meet,2009,7
+NIAG,200 Y Freestyle,SCY,W,45-49,2:27.37,Judy A Bablok,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Freestyle,SCY,W,45-49,2:41.31,Tina L Buzak,,BUMS Meet,2009,2
+NIAG,200 Y Freestyle,SCY,W,45-49,2:45.33,Jeannine S Gambrel,,Lake Erie LMSC Wooster Ohio SCY,2009,3
+NIAG,200 Y Freestyle,SCY,W,45-49,2:57.75,Susan V Mangold,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,500 Y Freestyle,SCY,W,45-49,7:43.11,Susan V Mangold,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,1000 Y Freestyle,SCY,W,45-49,13:41.77,Tina L Buzak,,BUMS Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,45-49,34.58,Judy A Bablok,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,45-49,42.73,Julie C Langenbacher,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,50 Y Backstroke,SCY,W,45-49,44.95,Ann R Marshfield,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Backstroke,SCY,W,45-49,2:59.54,Tina L Buzak,,BUMS Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,45-49,39.03,Patricia Zdep,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,45-49,40.29,Jeannine S Gambrel,,Lake Erie LMSC Wooster Ohio SCY,2009,2
+NIAG,100 Y Breaststroke,SCY,W,45-49,1:25.27,Susan Swensen,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,200 Y Breaststroke,SCY,W,45-49,3:05.11,Susan Swensen,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,45-49,33.05,Greta M Dewey,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,45-49,33.70,Judy A Bablok,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Butterfly,SCY,W,45-49,35.03,Kama G Way,,BUMS Meet,2009,3
+NIAG,50 Y Butterfly,SCY,W,45-49,36.36,Susan Swensen,,11th Annual Ithaca Masters Meet,2009,4
+BUMS,50 Y Butterfly,SCY,W,45-49,38.06,Karen A Mitrowitz,,BUMS Meet,2009,5
+NIAG,100 Y Individual Medley,SCY,W,45-49,1:17.41,Susan Swensen,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,45-49,1:17.81,Patricia Zdep,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,W,45-49,1:19.35,Kama G Way,,BUMS Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,W,45-49,1:20.86,Greta M Dewey,,11th Annual Ithaca Masters Meet,2009,4
+BUMS,100 Y Individual Medley,SCY,W,45-49,1:23.78,Karen A Mitrowitz,,BUMS Meet,2009,5
+NIAG,100 Y Individual Medley,SCY,W,45-49,2:27.56,Julie C Langenbacher,,11th Annual Ithaca Masters Meet,2009,6
+NIAG,200 Y Individual Medley,SCY,W,45-49,2:56.83,Kama G Way,,BUMS Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,50-54,28.44,Beth Pickett O'Sullivan,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,50-54,31.86,Susan E Keefe,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,50-54,37.16,Ann K Marshfield,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Freestyle,SCY,W,50-54,42.71,Barbara P Tomasso,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Freestyle,SCY,W,50-54,52.47,Mary Jo Hoeft,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Freestyle,SCY,W,50-54,1:06.83,Beth Pickett O'Sullivan,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,50-54,1:26.44,Ann K Marshfield,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Freestyle,SCY,W,50-54,3:31.24,Barbara P Tomasso,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,50-54,6:33.25,Beth Pickett O'Sullivan,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,50-54,40.45,Susan E Keefe,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,50-54,57.61,Barbara P Tomasso,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Backstroke,SCY,W,50-54,1:00.12,Mary Jo Hoeft,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Breaststroke,SCY,W,50-54,46.09,Ann K Marshfield,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,50-54,33.31,Beth Pickett O'Sullivan,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,50-54,1:21.80,Susan E Keefe,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,200 Y Freestyle,SCY,W,55-59,2:40.53,Dorothy M Tourtual,,BUMS Meet,2009,1
+NIAG,1000 Y Freestyle,SCY,W,55-59,14:19.95,Dorothy M Tourtual,,BUMS Meet,2009,1
+NIAG,100 Y Backstroke,SCY,W,55-59,1:26.02,Dorothy M Tourtual,,BUMS Meet,2009,1
+NIAG,200 Y Backstroke,SCY,W,55-59,3:00.82,Dorothy M Tourtual,,BUMS Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,60-64,47.75,Anna A Egert,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Freestyle,SCY,W,60-64,48.65,Linda J Cline,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,60-64,54.15,Catherine M Sankey,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Freestyle,SCY,W,60-64,1:22.58,Kay G Turner,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,60-64,1:57.68,Linda J Cline,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Freestyle,SCY,W,60-64,2:00.20,Catherine M Sankey,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,500 Y Freestyle,SCY,W,60-64,8:03.65,Kay G Turner,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,60-64,53.93,Linda J Cline,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,60-64,58.03,Catherine M Sankey,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Backstroke,SCY,W,60-64,2:12.56,Catherine M Sankey,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,60-64,57.92,Anna A Egert,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,60-64,59.22,Linda J Cline,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,W,65-69,53.09,Janet L Anderson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,65-69,1:27.97,Amy C Johnson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Freestyle,SCY,W,65-69,2:07.61,Janet L Anderson,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Freestyle,SCY,W,65-69,3:17.94,Amy C Johnson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,W,65-69,9:16.79,Amy C Johnson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,W,65-69,1:45.98,Amy C Johnson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,65-69,47.39,Amy C Johnson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,W,65-69,1:40.45,Amy C Johnson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Individual Medley,SCY,W,65-69,3:47.87,Amy C Johnson,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Backstroke,SCY,W,80-84,1:16.95,Betty C Dunn,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Backstroke,SCY,W,80-84,2:48.66,Betty C Dunn,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,W,80-84,1:51.98,Betty C Dunn,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Butterfly,SCY,W,80-84,1:22.86,Betty C Dunn,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,18-24,23.12,Cody E Vincent,,NE 2009 SCY Championships,2009,1
+NIAG,50 Y Freestyle,SCY,M,18-24,23.63,Grady A Gambrel,,Lake Erie LMSC Wooster Ohio SCY,2009,2
+NIAG,50 Y Freestyle,SCY,M,18-24,24.85,Gerald C Yeung,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,18-24,26.48,Mike V Celentano,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Freestyle,SCY,M,18-24,29.21,Aron M Rychlik,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Freestyle,SCY,M,18-24,51.80,Grady A Gambrel,,Lake Erie LMSC Wooster Ohio SCY,2009,1
+BUMS,100 Y Freestyle,SCY,M,18-24,56.20,Gregory A Guillot,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Freestyle,SCY,M,18-24,58.08,Gerald C Yeung,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,3
+NIAG,100 Y Freestyle,SCY,M,18-24,1:09.35,Aron M Rychlik,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,200 Y Freestyle,SCY,M,18-24,1:54.44,Cody E Vincent,,NE 2009 SCY Championships,2009,1
+NIAG,500 Y Freestyle,SCY,M,18-24,4:57.15,Peter R Kaemmerlen,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,M,18-24,5:22.10,Cody E Vincent,,NE 2009 SCY Championships,2009,2
+NIAG,100 Y Backstroke,SCY,M,18-24,1:02.47,Gregory A Guillot,,BUMS Meet,2009,1
+NIAG,100 Y Backstroke,SCY,M,18-24,1:06.06,Mike V Celentano,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,18-24,32.23,Robert Mahar,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,18-24,37.55,Gerald C Yeung,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,18-24,1:11.49,Robert Mahar,,BUMS Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,18-24,1:22.69,Gerald C Yeung,,Adirondack Leatherstocking,2009,2
+BUMS,50 Y Butterfly,SCY,M,18-24,26.13,Gregory A Guillot,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,18-24,32.00,Gerald C Yeung,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,18-24,59.75,Gregory A Guillot,,BUMS Meet,2009,1
+NIAG,200 Y Butterfly,SCY,M,18-24,2:16.16,Grady A Gambrel,,Lake Erie LMSC Wooster Ohio SCY,2009,1
+NIAG,100 Y Individual Medley,SCY,M,18-24,56.88,Peter R Kaemmerlen,,Rochester Area Masters Swimming Fall Meet,2009,1
+BUMS,100 Y Individual Medley,SCY,M,18-24,1:02.47,Gregory A Guillot,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,18-24,1:07.22,Robert Mahar,,BUMS Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,M,18-24,1:10.36,Gerald C Yeung,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,4
+NIAG,200 Y Individual Medley,SCY,M,18-24,2:05.47,Peter R Kaemmerlen,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,200 Y Individual Medley,SCY,M,18-24,2:15.70,Cody E Vincent,,NE 2009 SCY Championships,2009,2
+NIAG,200 Y Individual Medley,SCY,M,18-24,2:33.37,Mike V Celentano,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,25-29,22.14,Peter M Klimas,,BUMS Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,25-29,24.93,Nathaniel P Rychlik,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,25-29,25.08,Chris R Smith,,BUMS Meet,2009,3
+NIAG,100 Y Freestyle,SCY,M,25-29,50.15,Peter M Klimas,,BUMS Meet,2009,1
+NIAG,100 Y Freestyle,SCY,M,25-29,59.90,Nathaniel P Rychlik,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Freestyle,SCY,M,25-29,1:58.96,Geoffry A Wells,,BUMS Meet,2009,1
+NIAG,500 Y Freestyle,SCY,M,25-29,4:43.03,Gregory M Danner,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,25-29,26.66,Chris R Smith,,BUMS Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,25-29,27.34,Peter M Klimas,,BUMS Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,25-29,28.27,Geoffry A Wells,,BUMS Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,25-29,35.58,Nathaniel P Rychlik,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,25-29,59.90,Gregory M Danner,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,25-29,1:03.04,Geoffry A Wells,,BUMS Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,25-29,1:24.34,Nathaniel P Rychlik,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,200 Y Breaststroke,SCY,M,25-29,2:14.62,Gregory M Danner,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,25-29,25.86,Geoffry A Wells,,BUMS Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,25-29,26.05,Chris R Smith,,BUMS Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,25-29,52.44,Gregory M Danner,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,25-29,54.48,Gregory M Danner,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,25-29,59.69,Geoffry A Wells,,BUMS Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,25-29,59.72,Chris R Smith,,BUMS Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,30-34,23.87,Billy H Gilbert,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,30-34,24.20,Doug J Dello Stritto,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Freestyle,SCY,M,30-34,52.21,Billy H Gilbert,,BUMS Meet,2009,1
+NIAG,100 Y Freestyle,SCY,M,30-34,55.78,Robert P Leary,,BUMS Meet,2009,2
+NIAG,200 Y Freestyle,SCY,M,30-34,1:56.96,Billy H Gilbert,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,30-34,29.56,Billy H Gilbert,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,200 Y Backstroke,SCY,M,30-34,2:22.47,Billy H Gilbert,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,30-34,30.83,Billy H Gilbert,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,30-34,32.96,William A Morgan,,BUMS Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,30-34,1:11.24,William A Morgan,,BUMS Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,30-34,1:11.74,Robert P Leary,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Breaststroke,SCY,M,30-34,2:31.86,Billy H Gilbert,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,30-34,25.59,Doug J Dello Stritto,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,30-34,25.96,Billy H Gilbert,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,30-34,56.32,Billy H Gilbert,,BUMS Meet,2009,1
+NIAG,100 Y Butterfly,SCY,M,30-34,56.90,Doug J Dello Stritto,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,30-34,59.92,Robert P Leary,,BUMS Meet,2009,3
+NIAG,100 Y Butterfly,SCY,M,30-34,1:01.25,Christopher Galli,,BUMS Meet,2009,4
+NIAG,200 Y Butterfly,SCY,M,30-34,2:13.43,Billy H Gilbert,,BUMS Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,30-34,1:00.02,Billy H Gilbert,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,30-34,1:01.87,Doug J Dello Stritto,,BUMS Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,30-34,1:02.76,Robert P Leary,,BUMS Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,M,30-34,1:08.63,William A Morgan,,BUMS Meet,2009,4
+NIAG,400 Y Individual Medley,SCY,M,30-34,4:44.10,Billy H Gilbert,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,400 Y Individual Medley,SCY,M,30-34,5:11.20,Christopher Galli,,BUMS Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,35-39,23.80,Michael J Mayer,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Freestyle,SCY,M,35-39,24.98,Thomas R Gilmartin,,Rochester Area Masters Swimming Fall Meet,2009,2
+UNAT,50 Y Freestyle,SCY,M,35-39,25.43,Rudy Kurniawan,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,35-39,26.31,Todd A Palmer,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,50 Y Freestyle,SCY,M,35-39,28.08,Larry Spring,,BUMS Meet,2009,5
+NIAG,50 Y Freestyle,SCY,M,35-39,30.15,John D Briggs,,Adirondack Leatherstocking,2009,6
+NIAG,100 Y Freestyle,SCY,M,35-39,48.46,Mark Matheson,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Freestyle,SCY,M,35-39,51.91,Michael J Mayer,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,100 Y Freestyle,SCY,M,35-39,54.82,Thomas R Gilmartin,,Rochester Area Masters Swimming Fall Meet,2009,3
+UNAT,100 Y Freestyle,SCY,M,35-39,55.78,Rudy Kurniawan,,11th Annual Ithaca Masters Meet,2009,4
+NIAG,100 Y Freestyle,SCY,M,35-39,57.85,Todd A Palmer,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,200 Y Freestyle,SCY,M,35-39,1:45.80,Mark Matheson,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Freestyle,SCY,M,35-39,1:57.94,Michael J Mayer,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,200 Y Freestyle,SCY,M,35-39,2:04.74,Thomas R Gilmartin,,Rochester Area Masters Swimming Fall Meet,2009,3
+UNAT,200 Y Freestyle,SCY,M,35-39,2:05.89,Rudy Kurniawan,,11th Annual Ithaca Masters Meet,2009,4
+NIAG,500 Y Freestyle,SCY,M,35-39,4:43.62,Mark Matheson,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,500 Y Freestyle,SCY,M,35-39,7:26.92,John D Briggs,,Adirondack Leatherstocking,2009,2
+NIAG,1000 Y Freestyle,SCY,M,35-39,12:29.53,Daniel S Playfair,,Canandaigua Sawbellies Swim Meet,2009,1
+UNAT,1000 Y Freestyle,SCY,M,35-39,12:58.16,Rudy Kurniawan,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,1650 Y Freestyle,SCY,M,35-39,26:45.76,John D Briggs,,Adirondack Leatherstocking,2009,1
+NIAG,50 Y Backstroke,SCY,M,35-39,29.17,Daniel S Playfair,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Backstroke,SCY,M,35-39,1:03.88,Daniel S Playfair,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Backstroke,SCY,M,35-39,1:06.01,Michael J Moorehead,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,200 Y Backstroke,SCY,M,35-39,2:27.58,Daniel S Playfair,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,35-39,30.29,Michael J Mayer,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Breaststroke,SCY,M,35-39,31.74,Matthew D Losinger,,BUMS Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,35-39,36.60,Larry Spring,,BUMS Meet,2009,3
+NIAG,100 Y Breaststroke,SCY,M,35-39,1:08.69,Matthew D Losinger,,BUMS Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,35-39,1:11.20,Thomas R Gilmartin,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,35-39,1:14.00,Michael J Moorehead,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,50 Y Butterfly,SCY,M,35-39,28.28,Michael J Moorehead,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Butterfly,SCY,M,35-39,1:04.62,Daniel S Playfair,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Butterfly,SCY,M,35-39,2:00.52,Mark Matheson,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Individual Medley,SCY,M,35-39,1:02.99,Michael J Mayer,,BUMS Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,35-39,1:05.97,Matthew D Losinger,,BUMS Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,35-39,1:12.55,Larry Spring,,BUMS Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,M,35-39,1:23.20,John D Briggs,,Adirondack Leatherstocking,2009,4
+NIAG,200 Y Individual Medley,SCY,M,35-39,2:22.31,Michael J Moorehead,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Individual Medley,SCY,M,35-39,2:40.95,Larry Spring,,BUMS Meet,2009,2
+NIAG,400 Y Individual Medley,SCY,M,35-39,6:00.30,Larry Spring,,BUMS Meet,2009,1
+NIAG,400 Y Individual Medley,SCY,M,35-39,7:04.72,John D Briggs,,Adirondack Leatherstocking,2009,2
+NIAG,50 Y Freestyle,SCY,M,40-44,26.27,Bernard F Russell,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,40-44,26.44,Doug Alling,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,40-44,28.56,Thomas B Witmer,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,40-44,38.40,Kenneth F Johnson,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,100 Y Freestyle,SCY,M,40-44,58.12,Bernard F Russell,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Freestyle,SCY,M,40-44,1:08.15,David J Beckwith,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Freestyle,SCY,M,40-44,1:30.16,Kenneth F Johnson,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Freestyle,SCY,M,40-44,1:56.43,Randy S Mayall,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Freestyle,SCY,M,40-44,2:15.64,Bernard F Russell,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,200 Y Freestyle,SCY,M,40-44,3:36.76,Kenneth F Johnson,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Backstroke,SCY,M,40-44,29.55,John Ritz,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,40-44,37.22,Thomas B Witmer,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Backstroke,SCY,M,40-44,1:04.48,John Ritz,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,40-44,31.97,John N Baker,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,40-44,34.00,Mike D Burgess,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,40-44,36.99,Bernard F Russell,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,50 Y Breaststroke,SCY,M,40-44,38.10,David J Beckwith,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,100 Y Breaststroke,SCY,M,40-44,1:09.28,Randy S Mayall,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,40-44,1:11.02,John N Baker,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,40-44,1:14.20,Doug Alling,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Breaststroke,SCY,M,40-44,1:15.71,Mike D Burgess,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,100 Y Breaststroke,SCY,M,40-44,1:25.05,David J Beckwith,,Rochester Area Masters Swimming Fall Meet,2009,5
+NIAG,200 Y Breaststroke,SCY,M,40-44,2:48.30,Doug Alling,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,40-44,28.52,Mike D Burgess,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,40-44,29.47,Bernard F Russell,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Butterfly,SCY,M,40-44,35.55,David J Beckwith,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,100 Y Butterfly,SCY,M,40-44,1:04.70,Mike D Burgess,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Butterfly,SCY,M,40-44,2:34.16,Mike D Burgess,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,40-44,1:07.91,Bernard F Russell,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,40-44,1:07.97,Mike D Burgess,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,40-44,1:18.81,David J Beckwith,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Individual Medley,SCY,M,40-44,2:16.14,Randy S Mayall,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,400 Y Individual Medley,SCY,M,40-44,6:40.32,Thomas B Witmer,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,45-49,23.99,Francois J Caudrillier,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Freestyle,SCY,M,45-49,24.94,Kevin R McCormick,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,45-49,27.04,David R Klafehn,,BUMS Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,45-49,28.52,John A West,,BUMS Meet,2009,4
+NIAG,50 Y Freestyle,SCY,M,45-49,30.12,Steven D Sessler,,Rochester Area Masters Swimming Fall Meet,2009,5
+NIAG,50 Y Freestyle,SCY,M,45-49,30.21,Dudley A Hallstead,,Canandaigua Sawbellies Swim Meet,2009,6
+NIAG,50 Y Freestyle,SCY,M,45-49,31.42,Jeffrey J Burchill,,Rochester Area Masters Swimming Fall Meet,2009,7
+NIAG,100 Y Freestyle,SCY,M,45-49,50.64,Neil J Brophy,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Freestyle,SCY,M,45-49,53.61,Kelly J Kovalovsky,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,100 Y Freestyle,SCY,M,45-49,55.15,Francois J Caudrillier,,Colonies Zone Short Course Yards Championships,2009,3
+NIAG,100 Y Freestyle,SCY,M,45-49,59.71,David R Klafehn,,BUMS Meet,2009,4
+NIAG,100 Y Freestyle,SCY,M,45-49,1:04.27,Russell D Perrin,,11th Annual Ithaca Masters Meet,2009,5
+NIAG,100 Y Freestyle,SCY,M,45-49,1:07.12,Steven D Sessler,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,100 Y Freestyle,SCY,M,45-49,1:09.03,Jeffrey J Burchill,,Rochester Area Masters Swimming Fall Meet,2009,7
+NIAG,200 Y Freestyle,SCY,M,45-49,1:48.70,Neil J Brophy,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Freestyle,SCY,M,45-49,2:02.20,Francois J Caudrillier,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,200 Y Freestyle,SCY,M,45-49,2:09.67,David R Klafehn,,BUMS Meet,2009,3
+NIAG,200 Y Freestyle,SCY,M,45-49,2:24.17,Russell D Perrin,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,200 Y Freestyle,SCY,M,45-49,2:25.88,Leonard J Carfley,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,200 Y Freestyle,SCY,M,45-49,2:29.24,Kevin V O'Reilly,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,200 Y Freestyle,SCY,M,45-49,2:29.53,Steven D Sessler,,Rochester Area Masters Swimming Fall Meet,2009,7
+NIAG,500 Y Freestyle,SCY,M,45-49,4:51.53,Neil J Brophy,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,500 Y Freestyle,SCY,M,45-49,6:35.91,Russell D Perrin,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,500 Y Freestyle,SCY,M,45-49,6:42.11,Leonard J Carfley,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,500 Y Freestyle,SCY,M,45-49,7:02.97,Tom Steffan,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,1000 Y Freestyle,SCY,M,45-49,9:58.64,Neil J Brophy,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,1000 Y Freestyle,SCY,M,45-49,12:20.74,John F Ferro,,BUMS Meet,2009,2
+NIAG,1000 Y Freestyle,SCY,M,45-49,14:34.19,Tom Steffan,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Backstroke,SCY,M,45-49,30.97,John F Ferro,,BUMS Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,45-49,31.58,Kevin R McCormick,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Backstroke,SCY,M,45-49,34.90,Pat M O'Hara,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Backstroke,SCY,M,45-49,36.30,Scott Kozlowski,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,100 Y Backstroke,SCY,M,45-49,1:05.12,Francois J Caudrillier,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Backstroke,SCY,M,45-49,1:13.33,John A West,,BUMS Meet,2009,2
+NIAG,100 Y Backstroke,SCY,M,45-49,1:17.95,Scott Kozlowski,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Backstroke,SCY,M,45-49,1:20.05,Pat M O'Hara,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,100 Y Backstroke,SCY,M,45-49,1:29.86,Russell D Perrin,,BUMS Meet,2009,5
+BUMS,200 Y Backstroke,SCY,M,45-49,2:29.39,Francois J Caudrillier,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,45-49,34.34,Francois J Caudrillier,,BUMS Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,45-49,35.31,John F Ferro,,BUMS Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,45-49,43.53,Tom Steffan,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Breaststroke,SCY,M,45-49,1:17.93,John F Ferro,,BUMS Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,45-49,1:27.43,Russell D Perrin,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,45-49,1:28.84,Jeffrey J Burchill,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,100 Y Breaststroke,SCY,M,45-49,1:29.68,Kevin V O'Reilly,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Butterfly,SCY,M,45-49,27.00,Kelly J Kovalovsky,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Butterfly,SCY,M,45-49,27.76,Kevin R McCormick,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Butterfly,SCY,M,45-49,31.56,John A West,,BUMS Meet,2009,3
+NIAG,50 Y Butterfly,SCY,M,45-49,34.22,Tom Steffan,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Butterfly,SCY,M,45-49,36.49,Kevin V O'Reilly,,Rochester Area Masters Swimming Fall Meet,2009,5
+NIAG,100 Y Butterfly,SCY,M,45-49,58.93,Kelly J Kovalovsky,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Butterfly,SCY,M,45-49,1:08.07,John A West,,BUMS Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,45-49,1:18.74,Russell D Perrin,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Butterfly,SCY,M,45-49,2:18.75,Kelly J Kovalovsky,,BUMS Meet,2009,1
+NIAG,200 Y Butterfly,SCY,M,45-49,2:55.47,Russell D Perrin,,BUMS Meet,2009,2
+NIAG,200 Y Butterfly,SCY,M,45-49,3:16.20,Tom Steffan,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,M,45-49,1:02.68,Kelly J Kovalovsky,,BUMS Meet,2009,1
+BUMS,100 Y Individual Medley,SCY,M,45-49,1:04.31,Francois J Caudrillier,,11th Annual Ithaca Masters Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,45-49,1:15.99,Russell D Perrin,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,M,45-49,1:19.59,Dudley A Hallstead,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,100 Y Individual Medley,SCY,M,45-49,1:21.12,Kevin V O'Reilly,,Rochester Area Masters Swimming Fall Meet,2009,5
+NIAG,100 Y Individual Medley,SCY,M,45-49,1:25.99,Tom Steffan,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,200 Y Individual Medley,SCY,M,45-49,2:21.47,Francois J Caudrillier,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Individual Medley,SCY,M,45-49,2:50.06,Russell D Perrin,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,200 Y Individual Medley,SCY,M,45-49,3:01.35,Kevin V O'Reilly,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,400 Y Individual Medley,SCY,M,45-49,6:30.94,Tom Steffan,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,50-54,26.10,Walter S McConnell,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,50-54,31.78,Jeffrey C Zaborek,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,50-54,31.86,Jerry R Erb,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Freestyle,SCY,M,50-54,32.08,Joseph W Grey,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Freestyle,SCY,M,50-54,33.00,Jeffrey J Smith,,Rochester Area Masters Swimming Fall Meet,2009,5
+NIAG,100 Y Freestyle,SCY,M,50-54,56.48,Jeffrey L Humphreys,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Freestyle,SCY,M,50-54,59.81,Jeffrey J Smith,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Freestyle,SCY,M,50-54,59.95,Walter S McConnell,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,100 Y Freestyle,SCY,M,50-54,1:02.83,Rory R Gumina,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,100 Y Freestyle,SCY,M,50-54,1:06.97,Carl J Salatino,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Freestyle,SCY,M,50-54,1:16.36,Joseph W Grey,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,100 Y Freestyle,SCY,M,50-54,1:18.26,Jerry R Erb,,Canandaigua Sawbellies Swim Meet,2009,7
+NIAG,200 Y Freestyle,SCY,M,50-54,2:05.53,Jeffrey L Humphreys,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Freestyle,SCY,M,50-54,2:29.62,Timothy S Herman,,BUMS Meet,2009,2
+NIAG,200 Y Freestyle,SCY,M,50-54,2:55.20,Steven J Ketchum,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Freestyle,SCY,M,50-54,3:10.77,Jerry R Erb,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,50 Y Backstroke,SCY,M,50-54,30.89,John P Simm,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,50-54,39.39,Joseph W Grey,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Backstroke,SCY,M,50-54,42.02,Jeffrey C Zaborek,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Backstroke,SCY,M,50-54,1:08.84,John P Simm,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Backstroke,SCY,M,50-54,1:10.37,Rory R Gumina,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,50-54,31.63,William A Heinemann,,2009 USMS National Short Course Championships,2009,1
+NIAG,50 Y Breaststroke,SCY,M,50-54,33.33,Jeffrey J Smith,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,50-54,38.13,Walter S McConnell,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,50 Y Breaststroke,SCY,M,50-54,40.96,Timothy S Herman,,BUMS Meet,2009,4
+NIAG,50 Y Breaststroke,SCY,M,50-54,41.50,Jeffrey C Zaborek,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,50 Y Breaststroke,SCY,M,50-54,42.41,Joseph W Grey,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,100 Y Breaststroke,SCY,M,50-54,1:10.90,William A Heinemann,,2009 USMS National Short Course Championships,2009,1
+NIAG,100 Y Breaststroke,SCY,M,50-54,1:15.17,Jeffery L Humphreys,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,50-54,1:17.00,George R Pokorny,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Breaststroke,SCY,M,50-54,1:18.43,Barry F Symonds,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,100 Y Breaststroke,SCY,M,50-54,1:33.08,Timothy S Herman,,BUMS Meet,2009,5
+NIAG,200 Y Breaststroke,SCY,M,50-54,2:36.52,William A Heinemann,,2009 USMS National Short Course Championships,2009,1
+NIAG,200 Y Breaststroke,SCY,M,50-54,2:52.68,George R Pokorny,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Butterfly,SCY,M,50-54,28.17,Jeffrey L Humphreys,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Butterfly,SCY,M,50-54,28.37,Jeffrey J Smith,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Butterfly,SCY,M,50-54,28.99,Kevin S Shea,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,50 Y Butterfly,SCY,M,50-54,30.90,Walter S McConnell,,11th Annual Ithaca Masters Meet,2009,4
+NIAG,50 Y Butterfly,SCY,M,50-54,31.68,Carl J Salatino,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Butterfly,SCY,M,50-54,1:02.32,Kevin S Shea,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Butterfly,SCY,M,50-54,1:14.03,Barry F Symonds,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,50-54,1:21.99,Gary M Austin,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Butterfly,SCY,M,50-54,3:03.87,Gary M Austin,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:04.42,William A Heinemann,,2009 USMS National Short Course Championships,2009,1
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:05.49,Jeffrey J Smith,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:05.57,Jeffery L Humphreys,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:08.88,Barry F Symonds,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:09.25,Kevin S Shea,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:09.40,George R Pokorny,,Canandaigua Sawbellies Swim Meet,2009,6
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:09.82,Walter S McConnell,,11th Annual Ithaca Masters Meet,2009,7
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:11.63,Rory Gumina,,Canandaigua Sawbellies Swim Meet,2009,8
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:20.69,Timothy S Herman,,BUMS Meet,2009,9
+NIAG,100 Y Individual Medley,SCY,M,50-54,1:26.91,Jeffrey C Zaborek,,Canandaigua Sawbellies Swim Meet,2009,10
+NIAG,200 Y Individual Medley,SCY,M,50-54,2:24.47,Jeffrey L Humphreys,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Individual Medley,SCY,M,50-54,2:25.28,William A Heinemann,,2009 USMS National Short Course Championships,2009,2
+NIAG,200 Y Individual Medley,SCY,M,50-54,2:26.52,Kevin S Shea,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Individual Medley,SCY,M,50-54,2:38.65,George R Pokorny,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,200 Y Individual Medley,SCY,M,50-54,2:48.30,Gary M Austin,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,400 Y Individual Medley,SCY,M,50-54,5:09.64,Kevin S Shea,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,400 Y Individual Medley,SCY,M,50-54,5:39.84,Rory Gumina,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,400 Y Individual Medley,SCY,M,50-54,6:13.09,Gary M Austin,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,400 Y Individual Medley,SCY,M,50-54,6:17.79,Timothy S Herman,,BUMS Meet,2009,4
+NIAG,50 Y Freestyle,SCY,M,55-59,25.21,Arthur L Munson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,55-59,25.85,Bruce Gianniny,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,55-59,26.39,Daniel S Kornblatt,,Colonies Zone Short Course Yards Championships,2009,3
+NIAG,50 Y Freestyle,SCY,M,55-59,27.28,Eugene T Pot,,Colonies Zone Short Course Yards Championships,2009,4
+NIAG,50 Y Freestyle,SCY,M,55-59,32.19,Hat Nicolaus,,BUMS Meet,2009,5
+NIAG,50 Y Freestyle,SCY,M,55-59,39.57,Paul J Maher,,Rochester Area Masters Swimming Fall Meet,2009,6
+NIAG,100 Y Freestyle,SCY,M,55-59,57.84,Daniel S Kornblatt,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Freestyle,SCY,M,55-59,1:02.52,Eugene T Pot,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,100 Y Freestyle,SCY,M,55-59,1:03.02,Stephen L Paushter,,Colonies Zone Short Course Yards Championships,2009,3
+NIAG,100 Y Freestyle,SCY,M,55-59,1:13.81,Hat Nicolaus,,BUMS Meet,2009,4
+NIAG,200 Y Freestyle,SCY,M,55-59,2:05.88,Bruce Gianniny,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,200 Y Freestyle,SCY,M,55-59,2:17.32,Kenneth A Weir,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,200 Y Freestyle,SCY,M,55-59,2:22.17,Stephen L Paushter,,Colonies Zone Short Course Yards Championships,2009,3
+NIAG,200 Y Freestyle,SCY,M,55-59,2:24.00,Richard D Blondell,,Canandaigua Sawbellies Swim Meet,2009,4
+NIAG,200 Y Freestyle,SCY,M,55-59,2:26.94,Bill L Beardsley,,Rochester Area Masters Swimming Fall Meet,2009,5
+NIAG,200 Y Freestyle,SCY,M,55-59,2:56.28,Hat Nicolaus,,BUMS Meet,2009,6
+NIAG,500 Y Freestyle,SCY,M,55-59,5:50.58,Bruce Gianniny,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,M,55-59,6:17.62,Kenneth A Weir,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,500 Y Freestyle,SCY,M,55-59,6:26.89,Bill L Beardsley,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,1000 Y Freestyle,SCY,M,55-59,12:08.05,Bruce Gianniny,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,1000 Y Freestyle,SCY,M,55-59,13:37.59,Stephen L Paushter,,BUMS Meet,2009,2
+NIAG,50 Y Backstroke,SCY,M,55-59,31.98,Arthur L Munson,,BUMS Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,55-59,32.31,Daniel S Kornblatt,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,50 Y Backstroke,SCY,M,55-59,36.30,Eugene T Pot,,Colonies Zone Short Course Yards Championships,2009,3
+NIAG,50 Y Backstroke,SCY,M,55-59,36.48,Bill L Beardsley,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Backstroke,SCY,M,55-59,41.83,Richard D Blondell,,Canandaigua Sawbellies Swim Meet,2009,5
+NIAG,100 Y Backstroke,SCY,M,55-59,1:09.69,Daniel S Kornblatt,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Backstroke,SCY,M,55-59,1:12.46,Kenneth A Weir,,BUMS Meet,2009,2
+NIAG,100 Y Backstroke,SCY,M,55-59,1:19.08,Bill L Beardsley,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Backstroke,SCY,M,55-59,2:32.16,Kenneth A Weir,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Backstroke,SCY,M,55-59,2:41.44,Bill L Beardsley,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Breaststroke,SCY,M,55-59,32.25,Arthur L Munson,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,55-59,34.82,Eugene T Pot,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,50 Y Breaststroke,SCY,M,55-59,51.51,Steven P Danner,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,100 Y Breaststroke,SCY,M,55-59,1:17.48,Arthur L Munson,,BUMS Meet,2009,1
+NIAG,100 Y Breaststroke,SCY,M,55-59,1:27.41,Richard D Blondell,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Breaststroke,SCY,M,55-59,1:48.72,Steven P Danner,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Breaststroke,SCY,M,55-59,3:57.99,Steven P Danner,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,55-59,30.90,Stephen L Paushter,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Butterfly,SCY,M,55-59,37.02,Richard D Blondell,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Butterfly,SCY,M,55-59,1:11.18,Stephen L Paushter,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Butterfly,SCY,M,55-59,1:14.79,Kenneth A Weir,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,100 Y Butterfly,SCY,M,55-59,1:28.47,Richard D Blondell,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Butterfly,SCY,M,55-59,2:52.87,Kenneth A Weir,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Butterfly,SCY,M,55-59,3:01.48,Stephen L Paushter,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,100 Y Individual Medley,SCY,M,55-59,1:08.48,Bruce Gianniny,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,55-59,1:12.36,Eugene T Pot,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,200 Y Individual Medley,SCY,M,55-59,2:59.52,Richard D Blondell,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,60-64,26.08,Tom J Meade,,BUMS Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,60-64,32.00,Dan M Kinsky,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Freestyle,SCY,M,60-64,35.50,Lynn F Fuller,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,100 Y Freestyle,SCY,M,60-64,1:11.02,John R Sherry,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,100 Y Freestyle,SCY,M,60-64,1:12.72,Vern A Hecker,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Freestyle,SCY,M,60-64,1:21.43,Lynn F Fuller,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Freestyle,SCY,M,60-64,2:09.66,Tom J Meade,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Freestyle,SCY,M,60-64,2:32.00,John R Sherry,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,200 Y Freestyle,SCY,M,60-64,2:37.13,Dan M Kinsky,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,500 Y Freestyle,SCY,M,60-64,6:46.17,John R Sherry,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,500 Y Freestyle,SCY,M,60-64,7:16.22,Dan M Kinsky,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,1000 Y Freestyle,SCY,M,60-64,13:46.71,John R Sherry,,BUMS Meet,2009,1
+NIAG,1000 Y Freestyle,SCY,M,60-64,15:08.94,Dan M Kinsky,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,50 Y Backstroke,SCY,M,60-64,33.02,Tom J Meade,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Backstroke,SCY,M,60-64,35.94,Michael J Conroy,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Backstroke,SCY,M,60-64,41.70,Lynn F Fuller,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,100 Y Backstroke,SCY,M,60-64,1:10.56,Tom J Meade,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,100 Y Backstroke,SCY,M,60-64,1:17.13,Michael J Conroy,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Backstroke,SCY,M,60-64,1:32.86,Lynn F Fuller,,Canandaigua Sawbellies Swim Meet,2009,3
+NIAG,200 Y Backstroke,SCY,M,60-64,2:36.87,Tom J Meade,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Backstroke,SCY,M,60-64,2:50.60,Michael J Conroy,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,200 Y Backstroke,SCY,M,60-64,3:00.63,John R Sherry,,Rochester Area Masters Swimming Fall Meet,2009,3
+NIAG,200 Y Backstroke,SCY,M,60-64,3:34.13,Lynn F Fuller,,Rochester Area Masters Swimming Fall Meet,2009,4
+NIAG,50 Y Breaststroke,SCY,M,60-64,33.88,Patrick E Kleitz,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,50 Y Breaststroke,SCY,M,60-64,34.95,Tom J Meade,,Colonies Zone Short Course Yards Championships,2009,2
+NIAG,100 Y Breaststroke,SCY,M,60-64,1:34.39,John R Sherry,,BUMS Meet,2009,1
+NIAG,200 Y Breaststroke,SCY,M,60-64,2:45.73,Patrick E Kleitz,,Colonies Zone Short Course Yards Championships,2009,1
+NIAG,200 Y Breaststroke,SCY,M,60-64,3:37.29,John R Sherry,,Rochester Area Masters Swimming Fall Meet,2009,2
+NIAG,50 Y Butterfly,SCY,M,60-64,29.42,Tom J Meade,,BUMS Meet,2009,1
+NIAG,100 Y Butterfly,SCY,M,60-64,1:27.30,Michael J Conroy,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,200 Y Butterfly,SCY,M,60-64,3:33.73,John R Sherry,,Rochester Area Masters Swimming Fall Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,60-64,1:20.00,John R Sherry,,BUMS Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,60-64,1:33.35,Vern A Hecker,,Canandaigua Sawbellies Swim Meet,2009,2
+NIAG,100 Y Individual Medley,SCY,M,60-64,1:36.93,Lynn F Fuller,,11th Annual Ithaca Masters Meet,2009,3
+NIAG,200 Y Individual Medley,SCY,M,60-64,3:04.14,John R Sherry,,Canandaigua Sawbellies Swim Meet,2009,1
+NIAG,400 Y Individual Medley,SCY,M,60-64,6:21.37,John R Sherry,,Rochester Area Masters Swimming Fall Meet,2009,1
+BUMS,50 Y Freestyle,SCY,M,65-69,35.73,Jerry R Mayer,,11th Annual Ithaca Masters Meet,2009,1
+BUMS,100 Y Freestyle,SCY,M,65-69,1:20.21,Jerry R Mayer,,11th Annual Ithaca Masters Meet,2009,1
+NIAG,200 Y Freestyle,SCY,M,65-69,3:04.19,Jerry R Mayer,,South Carolina SCY Championships,2009,1
+NIAG,50 Y Freestyle,SCY,M,70-74,36.34,Edward A Major,,BUMS Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,70-74,47.97,Edward A Major,,BUMS Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,70-74,43.39,Edward A Major,,BUMS Meet,2009,1
+NIAG,50 Y Butterfly,SCY,M,70-74,42.55,Edward A Major,,BUMS Meet,2009,1
+NIAG,100 Y Individual Medley,SCY,M,70-74,1:38.86,Edward A Major,,BUMS Meet,2009,1
+NIAG,50 Y Freestyle,SCY,M,75-79,31.44,Jack Van Landingham,,2009 USMS National Short Course Championships,2009,1
+NIAG,50 Y Freestyle,SCY,M,75-79,45.04,Walter T Foley,,Adirondack Leatherstocking,2009,2
+NIAG,50 Y Backstroke,SCY,M,75-79,41.14,John H Hodgson,,BUMS Meet,2009,1
+NIAG,50 Y Backstroke,SCY,M,75-79,1:08.11,Walter T Foley,,Adirondack Leatherstocking,2009,2
+NIAG,200 Y Backstroke,SCY,M,75-79,3:21.72,John H Hodgson,,BUMS Meet,2009,1
+NIAG,50 Y Breaststroke,SCY,M,75-79,40.22,Jack Van Landingham,,2009 USMS National Short Course Championships,2009,1
+NIAG,50 Y Breaststroke,SCY,M,75-79,1:02.28,Walter T Foley,,Adirondack Leatherstocking,2009,2
+NIAG,100 Y Breaststroke,SCY,M,75-79,1:33.68,Jack Van Landingham,,2009 USMS National Short Course Championships,2009,1
+NIAG,50 Y Butterfly,SCY,M,75-79,41.41,Jack Van Landingham,,2009 USMS National Short Course Championships,2009,1
+NIAG,50 Y Freestyle,SCY,M,80-84,32.66,Justin W Diehl,,2009 USMS National Short Course Championships,2009,1
+NIAG,100 Y Freestyle,SCY,M,80-84,1:21.29,Justin W Diehl,,2009 USMS National Short Course Championships,2009,1
+NIAG,200 Y Freestyle,SCY,M,80-84,3:17.40,Justin W Diehl,,2009 USMS National Short Course Championships,2009,1
+NIAG,50 Y Backstroke,SCY,M,80-84,45.34,Justin W Diehl,,2009 USMS National Short Course Championships,2009,1
+NIAG,100 Y Backstroke,SCY,M,80-84,1:41.64,Justin W Diehl,,2009 USMS National Short Course Championships,2009,1
+NIAG,200 Y Backstroke,SCY,M,80-84,3:49.53,Justin W Diehl,,2009 USMS National Short Course Championships,2009,1

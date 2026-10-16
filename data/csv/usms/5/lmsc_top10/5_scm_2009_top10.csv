@@ -1,0 +1,129 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,100 M Freestyle,SCM,W,25-29,1:16.91,Melanie L Persich,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,200 M Freestyle,SCM,W,25-29,2:27.36,Suzie Snyder,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,W,25-29,2:45.69,Melanie L Persich,,2009 CRAYZ Get Started Meet,2009,2
+CONN,100 M Backstroke,SCM,W,25-29,1:27.71,Melanie L Persich,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Freestyle,SCM,W,35-39,33.37,Sarah J Bednar,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,W,35-39,1:14.45,Sarah J Bednar,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Individual Medley,SCM,W,35-39,1:26.35,Sarah J Bednar,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Individual Medley,SCM,W,35-39,3:02.08,Sarah J Bednar,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Freestyle,SCM,W,40-44,36.05,Paula A Miller,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Freestyle,SCM,W,40-44,38.22,Sue Farquharson,,2009 CRAYZ Get Started Meet,2009,2
+CRAZ,50 M Freestyle,SCM,W,40-44,46.72,Katherine L White,,2009 CRAYZ Get Started Meet,2009,3
+CONN,100 M Freestyle,SCM,W,40-44,1:04.10,Galen D Rinaldi,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,100 M Freestyle,SCM,W,40-44,1:23.97,Sue Farquharson,,2009 CRAYZ Get Started Meet,2009,2
+CONN,200 M Freestyle,SCM,W,40-44,2:16.32,Galen D Rinaldi,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Backstroke,SCM,W,40-44,46.05,Paula A Miller,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Backstroke,SCM,W,40-44,1:01.15,Katherine L White,,2009 CRAYZ Get Started Meet,2009,2
+CONN,100 M Backstroke,SCM,W,40-44,1:18.91,Galen D Rinaldi,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Backstroke,SCM,W,40-44,2:48.38,Galen D Rinaldi,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Butterfly,SCM,W,40-44,33.72,Galen D Rinaldi,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Freestyle,SCM,W,65-69,49.34,Ann Louise Onton,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,W,65-69,1:42.27,Ann Louise Onton,,New England LMSC SCM Championships,2009,1
+CONN,200 M Freestyle,SCM,W,65-69,3:48.22,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,400 M Freestyle,SCM,W,65-69,8:03.62,Ann Louise Onton,,New England LMSC SCM Championships,2009,1
+CONN,800 M Freestyle,SCM,W,65-69,16:47.99,Ann Louise Onton,,New England LMSC SCM Championships,2009,1
+CONN,200 M Backstroke,SCM,W,65-69,4:23.79,Ann Louise Onton,,New England LMSC SCM Championships,2009,1
+CONN,100 M Breaststroke,SCM,W,65-69,2:06.55,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Breaststroke,SCM,W,65-69,4:39.70,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Butterfly,SCM,W,65-69,52.59,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,100 M Butterfly,SCM,W,65-69,2:02.68,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Butterfly,SCM,W,65-69,4:41.73,Ann Louise Onton,,New England LMSC SCM Championships,2009,1
+CONN,100 M Individual Medley,SCM,W,65-69,1:55.26,Ann Louise Onton,,New England LMSC SCM Championships,2009,1
+CONN,200 M Individual Medley,SCM,W,65-69,4:15.25,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,400 M Individual Medley,SCM,W,65-69,9:23.80,Ann Louise Onton,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Freestyle,SCM,M,18-24,27.53,Ralph J Rienzo,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,M,18-24,1:03.63,Doug E Vitagliano,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,M,18-24,2:22.12,Doug E Vitagliano,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Breaststroke,SCM,M,18-24,38.27,Ralph J Rienzo,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Butterfly,SCM,M,18-24,30.23,Ralph J Rienzo,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Butterfly,SCM,M,18-24,31.41,Doug E Vitagliano,,2009 CRAYZ Get Started Meet,2009,2
+CONN,100 M Butterfly,SCM,M,18-24,1:13.27,Doug E Vitagliano,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Individual Medley,SCM,M,18-24,1:08.18,Ralph J Rienzo,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Individual Medley,SCM,M,18-24,1:15.83,Doug E Vitagliano,,2009 CRAYZ Get Started Meet,2009,2
+CONN,50 M Freestyle,SCM,M,25-29,28.22,Joseph A Corsetti,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,M,25-29,1:03.96,Joseph A Corsetti,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,M,25-29,2:33.78,Joseph A Corsetti,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Freestyle,SCM,M,30-34,28.38,Keith R Cargan,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Freestyle,SCM,M,35-39,32.42,Richard J Bell,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,M,35-39,1:10.90,Patrick J Matthews,,Simmons College Masters,2009,1
+CONN,100 M Freestyle,SCM,M,35-39,1:14.09,Richard J Bell,,2009 CRAYZ Get Started Meet,2009,2
+CONN,200 M Freestyle,SCM,M,35-39,2:48.71,Patrick J Matthews,,Simmons College Masters,2009,1
+CONN,50 M Breaststroke,SCM,M,35-39,39.83,Richard J Bell,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Breaststroke,SCM,M,35-39,40.34,Patrick J Matthews,,Simmons College Masters,2009,2
+CONN,50 M Butterfly,SCM,M,35-39,35.55,Patrick J Matthews,,Simmons College Masters,2009,1
+CONN,100 M Individual Medley,SCM,M,35-39,1:22.57,Patrick J Matthews,,Simmons College Masters,2009,1
+CONN,50 M Freestyle,SCM,M,40-44,29.99,Richard J Bell,,New England LMSC SCM Championships,2009,1
+CONN,50 M Freestyle,SCM,M,40-44,33.86,Robert K Schechter,,SCM Masters Meet hosted by NYC Parks &amp; Rec Dept,2009,2
+UNAT,200 M Freestyle,SCM,M,40-44,2:16.33,William L Ragatz,,2009 CRAYZ Get Started Meet,2009,1
+UNAT,100 M Backstroke,SCM,M,40-44,1:15.07,William L Ragatz,,2009 CRAYZ Get Started Meet,2009,1
+UNAT,200 M Backstroke,SCM,M,40-44,2:42.17,William L Ragatz,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Breaststroke,SCM,M,40-44,37.69,Richard J Bell,,New England LMSC SCM Championships,2009,1
+UNAT,100 M Breaststroke,SCM,M,40-44,1:19.97,William L Ragatz,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Breaststroke,SCM,M,40-44,1:51.89,Robert K Schechter,,SCM Masters Meet hosted by NYC Parks &amp; Rec Dept,2009,2
+CONN,200 M Breaststroke,SCM,M,40-44,3:08.77,Richard J Bell,,New England LMSC SCM Championships,2009,1
+CRAZ,50 M Freestyle,SCM,M,45-49,28.50,Bill D Berghoff,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Freestyle,SCM,M,45-49,32.22,Kenneth S Mita,,2009 CRAYZ Get Started Meet,2009,2
+CRAZ,200 M Freestyle,SCM,M,45-49,2:33.50,Jim Loughlin,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,M,45-49,2:42.79,Jack J Driscoll,,2009 CRAYZ Get Started Meet,2009,2
+CONN,400 M Freestyle,SCM,M,45-49,5:15.85,Rick Klutey,,New England LMSC SCM Championships,2009,1
+CONN,50 M Backstroke,SCM,M,45-49,1:09.08,Jeff Sargent,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Backstroke,SCM,M,45-49,2:44.64,Tom K Coffey,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Breaststroke,SCM,M,45-49,37.18,Bill D Berghoff,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Breaststroke,SCM,M,45-49,41.08,Kenneth S Mita,,2009 CRAYZ Get Started Meet,2009,2
+CONN,50 M Breaststroke,SCM,M,45-49,43.95,Jack J Driscoll,,2009 CRAYZ Get Started Meet,2009,3
+CRAZ,100 M Breaststroke,SCM,M,45-49,1:20.07,Bill D Berghoff,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,100 M Breaststroke,SCM,M,45-49,1:28.15,Jim Loughlin,,2009 CRAYZ Get Started Meet,2009,2
+CONN,200 M Breaststroke,SCM,M,45-49,3:04.80,Rick Klutey,,New England LMSC SCM Championships,2009,1
+CONN,50 M Butterfly,SCM,M,45-49,30.11,Tom K Coffey,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,50 M Butterfly,SCM,M,45-49,38.29,Jim Loughlin,,2009 CRAYZ Get Started Meet,2009,2
+CONN,100 M Individual Medley,SCM,M,45-49,1:25.86,Jack J Driscoll,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Individual Medley,SCM,M,45-49,2:39.09,Tom K Coffey,,2009 CRAYZ Get Started Meet,2009,1
+CRAZ,200 M Individual Medley,SCM,M,45-49,2:55.14,Jim Loughlin,,2009 CRAYZ Get Started Meet,2009,2
+UNAT,50 M Freestyle,SCM,M,50-54,30.15,Chris Thompson,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Freestyle,SCM,M,50-54,33.67,Christopher B Murray,,2009 CRAYZ Get Started Meet,2009,2
+CONN,50 M Freestyle,SCM,M,50-54,35.04,Steve Surprise,,2009 CRAYZ Get Started Meet,2009,3
+CONN,100 M Freestyle,SCM,M,50-54,1:19.21,Steve Surprise,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,M,50-54,1:23.51,Christopher B Murray,,2009 CRAYZ Get Started Meet,2009,2
+UNAT,200 M Freestyle,SCM,M,50-54,2:29.85,Chris Thompson,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Freestyle,SCM,M,50-54,2:59.54,Steve Surprise,,2009 CRAYZ Get Started Meet,2009,2
+CONN,200 M Freestyle,SCM,M,50-54,3:02.94,Christopher B Murray,,2009 CRAYZ Get Started Meet,2009,3
+CONN,800 M Freestyle,SCM,M,50-54,12:08.39,Jack J Driscoll,,New England LMSC SCM Championships,2009,1
+CONN,50 M Breaststroke,SCM,M,50-54,44.23,Christopher B Murray,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Freestyle,SCM,M,55-59,31.15,William J Geoghegan,,2009 CRAYZ Get Started Meet,2009,1
+CONN,50 M Freestyle,SCM,M,55-59,34.36,Stewart R Skolnick,,New England LMSC SCM Championships,2009,2
+CONN,100 M Freestyle,SCM,M,55-59,1:11.11,William J Geoghegan,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,M,55-59,2:43.19,William J Geoghegan,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Butterfly,SCM,M,55-59,1:58.94,Stewart R Skolnick,,New England LMSC SCM Championships,2009,1
+CONN,100 M Individual Medley,SCM,M,55-59,1:42.68,Stewart R Skolnick,,New England LMSC SCM Championships,2009,1
+CONN,200 M Freestyle,SCM,M,60-64,3:06.07,Morgan Soutter,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Backstroke,SCM,M,60-64,4:01.72,Morgan Soutter,,Colonies Zone SCM Championships,2009,1
+CONN,100 M Breaststroke,SCM,M,60-64,1:47.27,Morgan Soutter,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Breaststroke,SCM,M,60-64,3:56.19,Morgan Soutter,,Colonies Zone SCM Championships,2009,1
+CONN,100 M Individual Medley,SCM,M,60-64,1:38.29,Morgan Soutter,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Individual Medley,SCM,M,60-64,3:36.00,Morgan Soutter,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Freestyle,SCM,M,65-69,3:24.55,Peter P Berghaus,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Backstroke,SCM,M,65-69,51.21,Peter P Berghaus,,Colonies Zone SCM Championships,2009,1
+CONN,100 M Backstroke,SCM,M,65-69,1:47.72,Peter P Berghaus,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Backstroke,SCM,M,65-69,3:49.15,Peter P Berghaus,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Breaststroke,SCM,M,65-69,40.73,Michael A Laux,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Breaststroke,SCM,M,65-69,1:34.41,Michael A Laux,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Breaststroke,SCM,M,65-69,1:47.17,Peter P Berghaus,,Colonies Zone SCM Championships,2009,2
+CONN,200 M Breaststroke,SCM,M,65-69,4:07.91,Peter P Berghaus,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Butterfly,SCM,M,65-69,36.31,Michael A Laux,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Butterfly,SCM,M,65-69,1:32.01,Michael A Laux,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Individual Medley,SCM,M,65-69,1:42.77,Peter P Berghaus,,Colonies Zone SCM Championships,2009,1
+CONN,200 M Individual Medley,SCM,M,65-69,3:27.15,Michael A Laux,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Individual Medley,SCM,M,65-69,3:47.76,Peter P Berghaus,,Colonies Zone SCM Championships,2009,2
+CONN,50 M Freestyle,SCM,M,70-74,1:25.05,James A Goldsmith,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Freestyle,SCM,M,70-74,3:20.01,James A Goldsmith,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,M,70-74,7:08.40,James A Goldsmith,,2009 CRAYZ Get Started Meet,2009,1
+CONN,400 M Freestyle,SCM,M,70-74,16:30.53,James A Goldsmith,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Backstroke,SCM,M,70-74,3:47.65,James A Goldsmith,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Freestyle,SCM,M,80-84,4:24.27,Fred Goldner,,Colonies Zone SCM Championships,2009,1
+CONN,400 M Freestyle,SCM,M,80-84,9:14.42,Fred Goldner,,Colonies Zone SCM Championships,2009,1
+CONN,1500 M Freestyle,SCM,M,80-84,36:34.67,Fred Goldner,,Colonies Zone SCM Championships,2009,1
+CONN,50 M Butterfly,SCM,M,85-89,2:06.62,Vladimir I Ouchakof,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Butterfly,SCM,M,85-89,4:30.39,Vladimir I Ouchakof,,2009 CRAYZ Get Started Meet,2009,1
+CONN,100 M Individual Medley,SCM,M,85-89,3:13.57,Vladimir I Ouchakof,,2009 CRAYZ Get Started Meet,2009,1
+CONN,200 M Individual Medley,SCM,M,85-89,7:11.57,Vladimir I Ouchakof,,2009 CRAYZ Get Started Meet,2009,1

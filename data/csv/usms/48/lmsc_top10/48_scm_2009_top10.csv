@@ -1,0 +1,707 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ARIZ,50 M Freestyle,SCM,W,18-24,32.09,Cassandra J Oliver,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,18-24,32.77,Alissa J Rickborn,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,18-24,33.60,Christine Swain,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,W,18-24,1:11.51,Alissa J Rickborn,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,18-24,1:13.46,Cassandra J Oliver,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,W,18-24,1:15.22,Christine Swain,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Freestyle,SCM,W,18-24,2:40.15,Alissa J Rickborn,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,W,18-24,2:46.16,Christine Swain,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,W,18-24,5:41.03,Alissa J Rickborn,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,18-24,36.52,Cassandra J Oliver,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,18-24,40.53,Christine Swain,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Backstroke,SCM,W,18-24,1:22.18,Cassandra J Oliver,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,W,18-24,1:25.05,Christine Swain,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,W,18-24,38.06,Alissa J Rickborn,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,18-24,38.87,Christine Swain,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,W,18-24,41.00,Cassandra J Oliver,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Butterfly,SCM,W,18-24,1:25.60,Christine Swain,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Butterfly,SCM,W,18-24,1:25.78,Cassandra J Oliver,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,W,18-24,1:24.00,Christine Swain,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,18-24,1:24.90,Alissa J Rickborn,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,25-29,27.88,Florencia Szigeti,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,25-29,29.56,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,25-29,31.83,Shannon M Hildinger,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Freestyle,SCM,W,25-29,33.81,Deborah E Brown,,Ron Johnson Invitational,2009,4
+SVCM,50 M Freestyle,SCM,W,25-29,35.80,Kelli Jack,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Freestyle,SCM,W,25-29,41.48,Lisa R Chyette,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Freestyle,SCM,W,25-29,1:09.79,Shannon M Hildinger,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,25-29,1:33.23,Lisa R Chyette,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,25-29,2:35.46,Helene R Nehrebecki,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,W,25-29,5:39.74,Helene R Nehrebecki,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,25-29,32.10,Florencia Szigeti,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,25-29,33.08,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,25-29,37.69,Deborah E Brown,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Backstroke,SCM,W,25-29,40.04,Helene R Nehrebecki,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,W,25-29,1:12.88,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,25-29,42.12,Shannon M Hildinger,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,25-29,43.27,Helene R Nehrebecki,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,W,25-29,44.50,Deborah E Brown,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Breaststroke,SCM,W,25-29,49.56,Kim Goguen,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Breaststroke,SCM,W,25-29,51.35,Lisa R Chyette,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Breaststroke,SCM,W,25-29,1:31.94,Helene R Nehrebecki,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,W,25-29,1:34.64,Shannon M Hildinger,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Breaststroke,SCM,W,25-29,3:17.60,Helene R Nehrebecki,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,25-29,30.33,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,25-29,31.61,Florencia Szigeti,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,W,25-29,37.72,Deborah E Brown,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,W,25-29,48.59,Kim Goguen,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Butterfly,SCM,W,25-29,1:06.22,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:10.49,Florencia Szigeti,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:11.08,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:27.32,Deborah E Brown,,Ron Johnson Invitational,2009,3
+SVCM,100 M Individual Medley,SCM,W,25-29,1:34.80,Kelli Jack,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:45.23,Kim Goguen,,Ron Johnson Invitational,2009,5
+ARIZ,200 M Individual Medley,SCM,W,25-29,2:40.45,Lindsey E Urbatchka,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Individual Medley,SCM,W,25-29,3:00.42,Helene R Nehrebecki,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Individual Medley,SCM,W,25-29,6:24.82,Helene R Nehrebecki,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,30-34,32.28,Kimberly D Pinch,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,30-34,43.65,Kerrie A Joseph,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,W,30-34,1:39.03,Kerrie A Joseph,,Ron Johnson Invitational,2009,1
+UNAT,200 M Freestyle,SCM,W,30-34,2:46.67,Elizabeth L Warner,,Ron Johnson Invitational,2009,1
+BRSC,200 M Freestyle,SCM,W,30-34,3:05.67,Davina D Bressler,,Ron Johnson Invitational,2009,2
+UNAT,1500 M Freestyle,SCM,W,30-34,23:11.00,Elizabeth L Warner,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,30-34,27.61,Noriko Inada,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,30-34,40.91,Kimberly D Pinch,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,30-34,42.21,Shannon L Moxley,,Ron Johnson Invitational,2009,3
+BRSC,50 M Backstroke,SCM,W,30-34,45.42,Davina D Bressler,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Backstroke,SCM,W,30-34,50.25,Kerrie A Joseph,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Backstroke,SCM,W,30-34,59.53,Noriko Inada,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,W,30-34,1:30.31,Shannon L Moxley,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,W,30-34,39.86,Kimberly D Pinch,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,30-34,46.10,Shannon L Moxley,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,W,30-34,52.40,Kerrie A Joseph,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,W,30-34,1:28.13,Kimberly D Pinch,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,W,30-34,1:39.01,Shannon L Moxley,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,W,30-34,1:55.48,Kerrie A Joseph,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,W,30-34,38.22,Kimberly D Pinch,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,30-34,1:20.89,Kimberly D Pinch,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,30-34,1:28.42,Shannon L Moxley,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,W,30-34,1:50.26,Kerrie A Joseph,,Ron Johnson Invitational,2009,3
+BRSC,400 M Individual Medley,SCM,W,30-34,7:53.55,Davina D Bressler,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,35-39,31.28,Leslie Sommers,,Ron Johnson Invitational,2009,1
+UNAT,50 M Freestyle,SCM,W,35-39,32.06,Amber Eldridge,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,35-39,34.10,Amy L Mayhew,,Ron Johnson Invitational,2009,3
+SVCM,50 M Freestyle,SCM,W,35-39,34.41,Nikki Bunger,,Ron Johnson Invitational,2009,4
+SVCM,50 M Freestyle,SCM,W,35-39,42.08,Kecia Walsh,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Freestyle,SCM,W,35-39,1:09.48,Leslie Sommers,,Ron Johnson Invitational,2009,1
+UNAT,100 M Freestyle,SCM,W,35-39,1:12.81,Amber Eldridge,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,W,35-39,1:14.34,Amy L Mayhew,,Ron Johnson Invitational,2009,3
+SVCM,100 M Freestyle,SCM,W,35-39,1:18.69,Nikki Bunger,,Ron Johnson Invitational,2009,4
+UNAT,100 M Backstroke,SCM,W,35-39,1:29.62,Amber Eldridge,,Ron Johnson Invitational,2009,1
+SVCM,200 M Backstroke,SCM,W,35-39,2:38.12,Jenny L Browne,,Ron Johnson Invitational,2009,1
+BRSC,50 M Breaststroke,SCM,W,35-39,35.68,Maureen T Rankin,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,35-39,39.58,Leslie Sommers,,Ron Johnson Invitational,2009,2
+SVCM,50 M Breaststroke,SCM,W,35-39,46.77,Kecia Walsh,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,W,35-39,1:29.21,Leslie Sommers,,Ron Johnson Invitational,2009,1
+BRSC,200 M Breaststroke,SCM,W,35-39,2:50.02,Maureen T Rankin,,Ron Johnson Invitational,2009,1
+BRSC,100 M Individual Medley,SCM,W,35-39,1:13.91,Maureen T Rankin,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,35-39,1:25.63,Amy L Mayhew,,Ron Johnson Invitational,2009,2
+UNAT,100 M Individual Medley,SCM,W,35-39,1:26.75,Amber Eldridge,,Ron Johnson Invitational,2009,3
+BRSC,200 M Individual Medley,SCM,W,35-39,2:37.93,Maureen T Rankin,,Ron Johnson Invitational,2009,1
+SVCM,200 M Individual Medley,SCM,W,35-39,2:40.35,Jenny L Browne,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,40-44,30.79,Sheila M Arredondo,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,40-44,32.30,Lisa Ferrara,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,40-44,33.81,Louise M So,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Freestyle,SCM,W,40-44,45.63,Elizabeth A Glorioso,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,W,40-44,1:12.28,Lisa Ferrara,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,40-44,1:46.68,Elizabeth A Glorioso,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,40-44,2:16.63,Laura K Smith,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,W,40-44,2:40.37,Lisa Ferrara,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,40-44,3:43.62,Tricia Schafer,,Ron Johnson Invitational,2009,3
+ARIZ,400 M Freestyle,SCM,W,40-44,4:43.79,Laura K Smith,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,W,40-44,5:53.28,Louise M So,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,40-44,34.63,Laura K Smith,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,40-44,37.13,Sheila M Arredondo,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Backstroke,SCM,W,40-44,1:11.17,Laura K Smith,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Backstroke,SCM,W,40-44,2:32.36,Laura K Smith,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,40-44,37.41,Sheila M Arredondo,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,40-44,41.51,Louise M So,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,W,40-44,1:26.58,Sheila M Arredondo,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,W,40-44,2:03.95,Tricia Schafer,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Breaststroke,SCM,W,40-44,3:09.76,Louise M So,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,40-44,33.98,Laura K Smith,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,40-44,37.12,Lisa Ferrara,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Butterfly,SCM,W,40-44,2:06.80,Tricia Schafer,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:16.68,Sheila M Arredondo,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Individual Medley,SCM,W,40-44,8:23.07,Tricia Schafer,,Ron Johnson Invitational,2009,1
+BRSC,50 M Freestyle,SCM,W,45-49,29.58,Marika W Mc Cue,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,45-49,30.08,Becki P Major,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,50 M Freestyle,SCM,W,45-49,31.63,Kathy Gallagher,,Ron Johnson Invitational,2009,3
+YUMA,50 M Freestyle,SCM,W,45-49,35.82,Diana Tunell,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Freestyle,SCM,W,45-49,38.90,Holly A Murphy,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Freestyle,SCM,W,45-49,40.72,Catherine R Dickson,,Ron Johnson Invitational,2009,6
+BRSC,100 M Freestyle,SCM,W,45-49,1:07.55,Marika W Mc Cue,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,45-49,1:11.38,Becki P Major,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,W,45-49,1:26.79,Holly A Murphy,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,W,45-49,1:30.38,Lois W Courtright,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,W,45-49,1:32.01,Catherine R Dickson,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Freestyle,SCM,W,45-49,1:40.40,Susan B Foster,,Ron Johnson Invitational,2009,6
+ARIZ,200 M Freestyle,SCM,W,45-49,2:33.13,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,W,45-49,2:34.94,Ann Deputy,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,45-49,2:37.50,Kathy Gallagher,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Freestyle,SCM,W,45-49,2:37.71,Becki P Major,,Ron Johnson Invitational,2009,4
+ARIZ,400 M Freestyle,SCM,W,45-49,5:14.24,Becki P Major,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,400 M Freestyle,SCM,W,45-49,5:24.55,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,W,45-49,5:33.64,Ann Deputy,,Ron Johnson Invitational,2009,3
+ARIZ,400 M Freestyle,SCM,W,45-49,6:50.05,Lois W Courtright,,Ron Johnson Invitational,2009,4
+ARIZ,400 M Freestyle,SCM,W,45-49,6:52.21,Holly A Murphy,,Ron Johnson Invitational,2009,5
+ARIZ,800 M Freestyle,SCM,W,45-49,10:32.67,Anna R DeLozier,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,800 M Freestyle,SCM,W,45-49,10:52.46,Becki P Major,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,800 M Freestyle,SCM,W,45-49,14:00.57,Lois W Courtright,,Ron Johnson Invitational,2009,3
+ARIZ,1500 M Freestyle,SCM,W,45-49,20:05.96,Anna R DeLozier,,Long Beach Grunions SPMA SCM,2009,1
+BRSC,50 M Backstroke,SCM,W,45-49,33.16,Marika W Mc Cue,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,45-49,34.63,Brigid J Bunch,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,45-49,38.30,Kathy Gallagher,,Ron Johnson Invitational,2009,3
+YUMA,50 M Backstroke,SCM,W,45-49,40.55,Diana Tunell,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,W,45-49,1:11.86,Brigid J Bunch,,Long Beach Grunions SPMA SCM,2009,1
+BRSC,100 M Backstroke,SCM,W,45-49,1:12.47,Marika W Mc Cue,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Backstroke,SCM,W,45-49,1:18.31,Anna R DeLozier,,Long Beach Grunions SPMA SCM,2009,3
+YUMA,100 M Backstroke,SCM,W,45-49,1:30.69,Diana Tunell,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,W,45-49,1:39.80,Brenda Creswell-Liotta,,Ron Johnson Invitational,2009,5
+ARIZ,200 M Backstroke,SCM,W,45-49,2:32.14,Brigid J Bunch,,Long Beach Grunions SPMA SCM,2009,1
+UNAT,200 M Backstroke,SCM,W,45-49,3:06.52,Susan M Jurek,,Ron Johnson Invitational,2009,2
+YUMA,200 M Backstroke,SCM,W,45-49,3:14.17,Diana Tunell,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Backstroke,SCM,W,45-49,3:29.15,Brenda Creswell-Liotta,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Backstroke,SCM,W,45-49,3:56.95,Michelle K Charles,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Breaststroke,SCM,W,45-49,39.88,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,45-49,42.50,Amy Mullaney,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,W,45-49,43.20,Kathy Gallagher,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Breaststroke,SCM,W,45-49,49.26,Susan B Foster,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Breaststroke,SCM,W,45-49,52.51,Holly A Murphy,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Breaststroke,SCM,W,45-49,53.66,Lois W Courtright,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:26.80,Brigid J Bunch,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:28.48,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:31.27,Amy Mullaney,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:35.34,Kathy Gallagher,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:47.76,Susan B Foster,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:47.83,Brenda Creswell-Liotta,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:58.36,Lois W Courtright,,Ron Johnson Invitational,2009,7
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:59.34,Michelle K Charles,,Ron Johnson Invitational,2009,8
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:09.29,Brigid J Bunch,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:09.70,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:20.32,Amy Mullaney,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:54.42,Susan B Foster,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Breaststroke,SCM,W,45-49,4:03.76,Lois W Courtright,,Ron Johnson Invitational,2009,5
+ARIZ,200 M Breaststroke,SCM,W,45-49,4:16.64,Michelle K Charles,,Ron Johnson Invitational,2009,6
+BRSC,50 M Butterfly,SCM,W,45-49,32.81,Marika W Mc Cue,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,45-49,34.63,Brigid J Bunch,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,W,45-49,35.23,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,W,45-49,36.18,Ann Deputy,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Butterfly,SCM,W,45-49,36.79,Kathy Gallagher,,Ron Johnson Invitational,2009,5
+YUMA,50 M Butterfly,SCM,W,45-49,39.59,Diana Tunell,,Ron Johnson Invitational,2009,6
+ARIZ,50 M Butterfly,SCM,W,45-49,46.42,Brenda Creswell-Liotta,,Ron Johnson Invitational,2009,7
+ARIZ,50 M Butterfly,SCM,W,45-49,52.36,Michelle K Charles,,Ron Johnson Invitational,2009,8
+ARIZ,50 M Butterfly,SCM,W,45-49,56.24,Lois W Courtright,,Ron Johnson Invitational,2009,9
+ARIZ,100 M Butterfly,SCM,W,45-49,1:20.82,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Butterfly,SCM,W,45-49,1:22.02,Anna R DeLozier,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,100 M Butterfly,SCM,W,45-49,1:22.30,Ann Deputy,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Butterfly,SCM,W,45-49,1:30.64,Amy Mullaney,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Butterfly,SCM,W,45-49,1:43.76,Brenda Creswell-Liotta,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Butterfly,SCM,W,45-49,1:50.66,Michelle K Charles,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Butterfly,SCM,W,45-49,2:01.54,Lois W Courtright,,Ron Johnson Invitational,2009,7
+UNAT,200 M Butterfly,SCM,W,45-49,3:21.82,Susan M Jurek,,Ron Johnson Invitational,2009,1
+BRSC,100 M Individual Medley,SCM,W,45-49,1:12.54,Marika W Mc Cue,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:16.49,Brigid J Bunch,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:23.05,Kathy Gallagher,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:24.74,Amy Mullaney,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:24.92,Ann Deputy,,Ron Johnson Invitational,2009,5
+YUMA,100 M Individual Medley,SCM,W,45-49,1:30.03,Diana Tunell,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:51.46,Michelle K Charles,,Ron Johnson Invitational,2009,7
+ARIZ,200 M Individual Medley,SCM,W,45-49,2:42.72,Brigid J Bunch,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,200 M Individual Medley,SCM,W,45-49,2:51.61,Anna R DeLozier,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,200 M Individual Medley,SCM,W,45-49,2:55.90,Susan E Dawson-Cook,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Individual Medley,SCM,W,45-49,3:26.58,Brenda Creswell-Liotta,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Individual Medley,SCM,W,45-49,3:56.69,Michelle K Charles,,Ron Johnson Invitational,2009,5
+ARIZ,400 M Individual Medley,SCM,W,45-49,5:54.10,Brigid J Bunch,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,400 M Individual Medley,SCM,W,45-49,6:34.05,Ann Deputy,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Individual Medley,SCM,W,45-49,7:58.62,Michelle K Charles,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Freestyle,SCM,W,50-54,34.06,Katryn S James,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,50-54,34.49,Sandy H Mitchel,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,50-54,2:46.88,Sandy H Mitchel,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,W,50-54,5:55.63,Sandy H Mitchel,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,W,50-54,23:12.99,Sandy H Mitchel,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,W,50-54,23:29.53,Katryn S James,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,50-54,38.29,Katryn S James,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,W,50-54,1:24.98,Katryn S James,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Backstroke,SCM,W,50-54,3:07.41,Katryn S James,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,50-54,41.86,Sandy H Mitchel,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,55-59,44.38,Nancy L Hewes,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,W,55-59,3:49.77,Nancy L Hewes,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,W,55-59,8:02.21,Nancy L Hewes,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,W,55-59,30:24.73,Nancy L Hewes,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,55-59,35.56,Evie S Lynch,,UCLA Bruin Masters SCM Meet,2009,1
+ARIZ,100 M Backstroke,SCM,W,55-59,1:16.26,Evie S Lynch,,UCLA Bruin Masters SCM Meet,2009,1
+ARIZ,50 M Butterfly,SCM,W,55-59,36.01,Evie S Lynch,,UCLA Bruin Masters SCM Meet,2009,1
+ARIZ,50 M Butterfly,SCM,W,55-59,58.53,Nancy L Hewes,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Butterfly,SCM,W,55-59,6:36.44,Nancy L Hewes,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,55-59,1:20.23,Evie S Lynch,,UCLA Bruin Masters SCM Meet,2009,1
+ARIZ,100 M Individual Medley,SCM,W,55-59,2:01.17,Nancy L Hewes,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Individual Medley,SCM,W,55-59,9:58.53,Nancy L Hewes,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,60-64,31.67,Christie Altman,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,60-64,35.17,Joanne Menard,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,50 M Freestyle,SCM,W,60-64,42.06,Karen Teichman,,2009 Huntsman Senior Games,2009,3
+ARIZ,50 M Freestyle,SCM,W,60-64,54.55,Jennifer P Nore,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,W,60-64,1:13.34,Christie Altman,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,60-64,1:19.45,Joanne Menard,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,100 M Freestyle,SCM,W,60-64,1:37.82,Karen Teichman,,2009 Huntsman Senior Games,2009,3
+ARIZ,100 M Freestyle,SCM,W,60-64,2:03.85,Jennifer P Nore,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Freestyle,SCM,W,60-64,2:52.26,Joanne Menard,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,W,60-64,3:12.04,Judy L Gillies,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,60-64,3:37.33,Karen Teichman,,2009 Huntsman Senior Games,2009,3
+ARIZ,200 M Freestyle,SCM,W,60-64,4:18.73,Jennifer P Nore,,Ron Johnson Invitational,2009,4
+ARIZ,400 M Freestyle,SCM,W,60-64,5:54.30,Joanne Menard,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,W,60-64,6:47.10,Judy L Gillies,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,W,60-64,8:00.93,Karen Teichman,,2009 Huntsman Senior Games,2009,3
+PHX,400 M Freestyle,SCM,W,60-64,8:06.48,Wendy L Weinberg,,Ron Johnson Invitational,2009,4
+ARIZ,800 M Freestyle,SCM,W,60-64,12:07.76,Joanne Menard,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,800 M Freestyle,SCM,W,60-64,13:46.47,Judy L Gillies,,Ron Johnson Invitational,2009,2
+ARIZ,1500 M Freestyle,SCM,W,60-64,23:38.31,Joanne Menard,,Long Beach Grunions SPMA SCM,2009,1
+PHX,1500 M Freestyle,SCM,W,60-64,30:57.64,Wendy L Weinberg,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,60-64,40.74,Christie Altman,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,60-64,54.04,Karen Teichman,,2009 Huntsman Senior Games,2009,2
+ARIZ,50 M Backstroke,SCM,W,60-64,1:04.71,Jennifer P Nore,,Ron Johnson Invitational,2009,3
+PHX,50 M Backstroke,SCM,W,60-64,1:08.96,Wendy L Weinberg,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,W,60-64,2:00.75,Karen Teichman,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Breaststroke,SCM,W,60-64,46.68,Joanne Menard,,Ron Johnson Invitational,2009,1
+PHX,50 M Breaststroke,SCM,W,60-64,55.60,Wendy L Weinberg,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,W,60-64,1:06.77,Jennifer P Nore,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,W,60-64,2:02.78,Judy L Gillies,,Ron Johnson Invitational,2009,1
+PHX,100 M Breaststroke,SCM,W,60-64,2:10.83,Wendy L Weinberg,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,W,60-64,2:25.00,Jennifer P Nore,,Ron Johnson Invitational,2009,3
+PHX,200 M Breaststroke,SCM,W,60-64,4:38.26,Wendy L Weinberg,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,60-64,37.87,Christie Altman,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,60-64,56.36,Karen Teichman,,2009 Huntsman Senior Games,2009,2
+PHX,50 M Butterfly,SCM,W,60-64,59.46,Wendy L Weinberg,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,W,60-64,1:13.95,Jennifer P Nore,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Butterfly,SCM,W,60-64,1:25.79,Christie Altman,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,60-64,1:24.77,Christie Altman,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,60-64,1:57.07,Karen Teichman,,2009 Huntsman Senior Games,2009,2
+ARIZ,100 M Individual Medley,SCM,W,60-64,2:16.54,Jennifer P Nore,,Ron Johnson Invitational,2009,3
+PHX,200 M Individual Medley,SCM,W,60-64,4:34.36,Wendy L Weinberg,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,W,65-69,46.19,Sandy Reed,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,65-69,1:49.77,Sandy Reed,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,W,65-69,3:58.30,Sandy Reed,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,65-69,54.59,Susan S Spinosa,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,W,65-69,2:05.06,Sandy Reed,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,65-69,1:04.67,Sandy Reed,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,W,65-69,2:05.97,Susan S Spinosa,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,W,65-69,2:16.98,Sandy Reed,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,70-74,35.54,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Freestyle,SCM,W,70-74,57.78,Maureen Stewart,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,W,70-74,58.02,Helen H Bayly,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,W,70-74,1:25.37,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Freestyle,SCM,W,70-74,1:29.71,Sally A Bolar,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,W,70-74,3:11.61,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,200 M Freestyle,SCM,W,70-74,3:17.16,Sally A Bolar,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,W,70-74,7:07.62,Sally A Bolar,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,W,70-74,7:14.37,Gynt Clifford,,2009 Huntsman Senior Games,2009,2
+ARIZ,400 M Freestyle,SCM,W,70-74,11:50.82,Gaile Harden,,2009 Huntsman Senior Games,2009,3
+ARIZ,800 M Freestyle,SCM,W,70-74,22:49.42,Helen H Bayly,,Ron Johnson Invitational,2009,1
+ARIZ,800 M Freestyle,SCM,W,70-74,23:57.86,Gaile Harden,,Ron Johnson Invitational,2009,2
+ARIZ,1500 M Freestyle,SCM,W,70-74,45:00.97,Gaile Harden,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Backstroke,SCM,W,70-74,46.59,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Backstroke,SCM,W,70-74,1:04.11,Maureen Stewart,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,W,70-74,1:07.91,Helen H Bayly,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Backstroke,SCM,W,70-74,1:14.34,Gaile Harden,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,W,70-74,1:50.31,Gynt Clifford,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,W,70-74,2:42.06,Helen H Bayly,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Backstroke,SCM,W,70-74,5:32.90,Helen H Bayly,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Backstroke,SCM,W,70-74,5:41.00,Gaile Harden,,2009 Huntsman Senior Games,2009,2
+ARIZ,50 M Breaststroke,SCM,W,70-74,1:06.42,Maureen Stewart,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,W,70-74,1:13.98,Gaile Harden,,2009 Huntsman Senior Games,2009,2
+ARIZ,50 M Breaststroke,SCM,W,70-74,1:37.65,Helen H Bayly,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,W,70-74,2:19.17,Maureen Stewart,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,W,70-74,2:44.60,Gaile Harden,,2009 Huntsman Senior Games,2009,2
+ARIZ,100 M Breaststroke,SCM,W,70-74,3:36.94,Helen H Bayly,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Breaststroke,SCM,W,70-74,5:55.39,Gaile Harden,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Butterfly,SCM,W,70-74,44.45,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Butterfly,SCM,W,70-74,47.11,Sally A Bolar,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,W,70-74,1:13.50,Helen H Bayly,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Butterfly,SCM,W,70-74,1:45.97,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Butterfly,SCM,W,70-74,1:49.55,Sally A Bolar,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Butterfly,SCM,W,70-74,4:22.26,Sally A Bolar,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,70-74,1:42.55,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,200 M Individual Medley,SCM,W,70-74,3:52.56,Gynt Clifford,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Freestyle,SCM,W,80-84,44.64,Nancy Kinney,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,W,80-84,1:53.63,Edie B Gruender,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,W,80-84,50.73,Nancy Kinney,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,W,80-84,1:56.78,Nancy Kinney,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Backstroke,SCM,W,80-84,3:59.15,Nancy Kinney,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,W,80-84,48.85,Gail P Roper,,2009 CMSC Canadian Mstrs Swim Champs at Etobicoke Olympium,2009,1
+ARIZ,50 M Butterfly,SCM,W,80-84,57.97,Nancy Kinney,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Butterfly,SCM,W,80-84,1:58.02,Gail P Roper,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Butterfly,SCM,W,80-84,6:24.26,Edie B Gruender,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,W,80-84,1:44.95,Gail P Roper,,2009 CMSC Canadian Mstrs Swim Champs at Etobicoke Olympium,2009,1
+ARIZ,100 M Individual Medley,SCM,W,80-84,1:57.93,Nancy Kinney,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Individual Medley,SCM,W,80-84,3:55.51,Gail P Roper,,2009 CMSC Canadian Mstrs Swim Champs at Etobicoke Olympium,2009,1
+ARIZ,400 M Individual Medley,SCM,W,80-84,8:39.68,Gail P Roper,,2009 GRIN Fall Classic,2009,1
+ARIZ,50 M Freestyle,SCM,M,18-24,24.74,Dylan S Taylor,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,18-24,25.28,Marshall L Gillespie,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,18-24,26.34,Brian Morrison,,Ron Johnson Invitational,2009,3
+UNAT,50 M Freestyle,SCM,M,18-24,27.87,Zachary M Steveson,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Freestyle,SCM,M,18-24,28.17,Nathan A Curtisi,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Freestyle,SCM,M,18-24,30.50,Travis W Anderson,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Freestyle,SCM,M,18-24,52.84,Carl S Miller,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,18-24,54.85,Dylan S Taylor,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,M,18-24,57.67,Marshall L Gillespie,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,M,18-24,1:00.40,Travis W Anderson,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,M,18-24,1:03.44,Nathan A Curtisi,,Ron Johnson Invitational,2009,5
+UNAT,100 M Freestyle,SCM,M,18-24,1:03.56,Zachary M Steveson,,Ron Johnson Invitational,2009,6
+ARIZ,200 M Freestyle,SCM,M,18-24,2:16.79,Nathan A Curtisi,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,18-24,29.75,Dylan S Taylor,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,18-24,31.89,Carl S Miller,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,18-24,32.22,Brian Morrison,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,18-24,36.05,Nathan A Curtisi,,Ron Johnson Invitational,2009,3
+UNAT,50 M Breaststroke,SCM,M,18-24,36.97,Zachary M Steveson,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Breaststroke,SCM,M,18-24,39.12,Travis W Anderson,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Breaststroke,SCM,M,18-24,1:11.27,Brian Morrison,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,18-24,2:31.40,Brian Morrison,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,18-24,25.61,Carl S Miller,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,18-24,28.55,Dylan S Taylor,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,18-24,30.96,Nathan A Curtisi,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Butterfly,SCM,M,18-24,58.00,Carl S Miller,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Butterfly,SCM,M,18-24,1:00.37,Brian Morrison,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,M,18-24,1:00.85,Carl S Miller,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,18-24,1:04.38,Dylan S Taylor,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,M,18-24,1:05.54,Brian Morrison,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Freestyle,SCM,M,25-29,23.93,Dave E Rollins,,Ron Johnson Invitational,2009,1
+UNAT,50 M Freestyle,SCM,M,25-29,28.25,Donald A Van Slyke,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,25-29,34.31,Samuel T Holdren,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,M,25-29,52.88,Dave E Rollins,,Ron Johnson Invitational,2009,1
+UNAT,100 M Freestyle,SCM,M,25-29,1:02.00,Donald A Van Slyke,,Ron Johnson Invitational,2009,2
+UNAT,200 M Freestyle,SCM,M,25-29,2:19.21,Donald A Van Slyke,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,25-29,2:24.70,Bobby Davidson,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,25-29,26.77,Dave E Rollins,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,25-29,32.15,Jacob A Palmer,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,25-29,34.46,Bobby Davidson,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Backstroke,SCM,M,25-29,39.32,David M Decker,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Breaststroke,SCM,M,25-29,28.83,Dave E Rollins,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,25-29,33.08,Jacob A Palmer,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,25-29,38.52,Bobby Davidson,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Breaststroke,SCM,M,25-29,45.75,Samuel T Holdren,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Breaststroke,SCM,M,25-29,1:05.81,Dave E Rollins,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,25-29,2:53.55,Jacob A Palmer,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,25-29,28.50,Jacob A Palmer,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,25-29,28.87,Dave E Rollins,,Ron Johnson Invitational,2009,2
+UNAT,50 M Butterfly,SCM,M,25-29,30.00,Donald A Van Slyke,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,M,25-29,31.87,Bobby Davidson,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Butterfly,SCM,M,25-29,36.20,Samuel T Holdren,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Butterfly,SCM,M,25-29,38.38,David M Decker,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Butterfly,SCM,M,25-29,1:05.44,Jacob A Palmer,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Butterfly,SCM,M,25-29,1:26.17,Samuel T Holdren,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,M,25-29,58.96,Dave E Rollins,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:06.59,Jacob A Palmer,,Ron Johnson Invitational,2009,2
+UNAT,100 M Individual Medley,SCM,M,25-29,1:09.38,Donald A Van Slyke,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:13.30,Bobby Davidson,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:24.06,Samuel T Holdren,,Ron Johnson Invitational,2009,5
+ARIZ,200 M Individual Medley,SCM,M,25-29,2:32.89,Jacob A Palmer,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Individual Medley,SCM,M,25-29,3:13.05,Samuel T Holdren,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,30-34,23.25,Brandon J Schindler,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,50 M Freestyle,SCM,M,30-34,27.45,William H Brundige,,Ron Johnson Invitational,2009,2
+UNAT,50 M Freestyle,SCM,M,30-34,28.62,Andrew G Hunt,,Ron Johnson Invitational,2009,3
+SVCM,50 M Freestyle,SCM,M,30-34,28.67,Jeff J Hamilon,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Freestyle,SCM,M,30-34,29.25,Raul Herreras,,Ron Johnson Invitational,2009,5
+ARIZ,50 M Freestyle,SCM,M,30-34,32.85,Jose C Salazar,,Ron Johnson Invitational,2009,6
+ARIZ,100 M Freestyle,SCM,M,30-34,53.79,Brandon J Schindler,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Freestyle,SCM,M,30-34,1:01.26,William H Brundige,,Ron Johnson Invitational,2009,2
+UNAT,100 M Freestyle,SCM,M,30-34,1:04.91,Andrew G Hunt,,Ron Johnson Invitational,2009,3
+SVCM,100 M Freestyle,SCM,M,30-34,1:05.02,Jeff J Hamilon,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,M,30-34,1:16.80,Jose C Salazar,,Ron Johnson Invitational,2009,5
+ARIZ,200 M Freestyle,SCM,M,30-34,2:01.35,R Sean Justice,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,30-34,2:35.86,Raul Herreras,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,M,30-34,2:56.48,Jose C Salazar,,Ron Johnson Invitational,2009,3
+ARIZ,400 M Freestyle,SCM,M,30-34,4:13.96,R Sean Justice,,Ron Johnson Invitational,2009,1
+UNAT,400 M Freestyle,SCM,M,30-34,5:25.76,Andrew G Hunt,,Ron Johnson Invitational,2009,2
+ARIZ,800 M Freestyle,SCM,M,30-34,8:44.98,R Sean Justice,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,M,30-34,21:33.80,Tim B Bolton,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,30-34,29.87,Brandon J Schindler,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,30-34,43.18,Jose C Salazar,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,30-34,36.81,Raul Herreras,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,30-34,37.38,Donald T Reblitz,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,M,30-34,1:21.90,Donald T Reblitz,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,30-34,1:30.58,Tim B Bolton,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,M,30-34,1:55.04,Jose C Salazar,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,M,30-34,25.79,Brent Creager,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,30-34,33.44,Raul Herreras,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,30-34,43.49,Jose C Salazar,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Butterfly,SCM,M,30-34,55.98,Brent Creager,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Butterfly,SCM,M,30-34,2:10.05,Brent Creager,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:00.33,Brent Creager,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:11.51,William H Brundige,,Ron Johnson Invitational,2009,2
+UNAT,100 M Individual Medley,SCM,M,30-34,1:15.19,Andrew G Hunt,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:17.32,Raul Herreras,,Ron Johnson Invitational,2009,4
+SVCM,100 M Individual Medley,SCM,M,30-34,1:19.21,Jeff J Hamilon,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Individual Medley,SCM,M,30-34,1:30.51,Jose C Salazar,,Ron Johnson Invitational,2009,6
+ARIZ,200 M Individual Medley,SCM,M,30-34,2:15.93,Brent Creager,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Individual Medley,SCM,M,30-34,3:05.64,Raul Herreras,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Individual Medley,SCM,M,30-34,4:52.45,Brent Creager,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,35-39,25.06,Joel M Wainwright,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,35-39,26.73,Trent Guerin,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,35-39,28.03,Derek C Spires,,Ron Johnson Invitational,2009,3
+SVCM,50 M Freestyle,SCM,M,35-39,31.01,David B Harr,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,M,35-39,54.33,Jeff P Commings,,Ron Johnson Invitational,2009,1
+SVCM,100 M Freestyle,SCM,M,35-39,1:09.34,David B Harr,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,M,35-39,1:59.57,Joel M Wainwright,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,M,35-39,6:54.69,Brian A Moon,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,35-39,27.22,Jeff P Commings,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,50 M Backstroke,SCM,M,35-39,27.94,Joel M Wainwright,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,35-39,29.46,Trent Guerin,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Backstroke,SCM,M,35-39,32.91,Derek C Spires,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,M,35-39,57.19,Jeff P Commings,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Backstroke,SCM,M,35-39,1:00.17,Joel M Wainwright,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Backstroke,SCM,M,35-39,1:03.96,Trent Guerin,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Breaststroke,SCM,M,35-39,27.79,Jeff P Commings,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,50 M Breaststroke,SCM,M,35-39,33.34,Derek C Spires,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,M,35-39,1:02.00,Jeff P Commings,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Breaststroke,SCM,M,35-39,1:13.23,Derek C Spires,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,35-39,28.95,Trent Guerin,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,35-39,32.00,Derek C Spires,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,M,35-39,56.98,Jeff P Commings,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Individual Medley,SCM,M,35-39,1:06.39,Trent Guerin,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Individual Medley,SCM,M,35-39,2:07.06,Jeff P Commings,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,200 M Individual Medley,SCM,M,35-39,2:20.30,Joel M Wainwright,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,40-44,25.00,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,50 M Freestyle,SCM,M,40-44,29.01,Ryan N Vogt,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,M,40-44,53.12,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,100 M Freestyle,SCM,M,40-44,57.15,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+BRSC,100 M Freestyle,SCM,M,40-44,1:03.92,Bowen M Johnson,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,M,40-44,1:05.54,Ryan N Vogt,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Freestyle,SCM,M,40-44,1:55.42,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,200 M Freestyle,SCM,M,40-44,2:02.79,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,M,40-44,2:24.39,Ryan N Vogt,,Ron Johnson Invitational,2009,3
+BRSC,200 M Freestyle,SCM,M,40-44,2:37.63,Lucio F Amado,,Ron Johnson Invitational,2009,4
+ARIZ,400 M Freestyle,SCM,M,40-44,4:06.30,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,400 M Freestyle,SCM,M,40-44,4:19.36,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,M,40-44,4:47.14,Kent M Johnson,,Ron Johnson Invitational,2009,3
+ARIZ,800 M Freestyle,SCM,M,40-44,8:44.93,Kurt F Dickson,,Ron Johnson Invitational,2009,1
+ARIZ,800 M Freestyle,SCM,M,40-44,10:05.11,Kent M Johnson,,Ron Johnson Invitational,2009,2
+ARIZ,1500 M Freestyle,SCM,M,40-44,19:22.13,Kent M Johnson,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,40-44,30.08,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,50 M Backstroke,SCM,M,40-44,31.73,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,40-44,34.41,Michael J Brauer,,Ron Johnson Invitational,2009,3
+BRSC,50 M Backstroke,SCM,M,40-44,39.68,Lucio F Amado,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Backstroke,SCM,M,40-44,1:03.07,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,100 M Backstroke,SCM,M,40-44,1:04.42,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Backstroke,SCM,M,40-44,1:07.05,Mark D Hickman,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Backstroke,SCM,M,40-44,2:12.43,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,200 M Backstroke,SCM,M,40-44,2:16.05,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Backstroke,SCM,M,40-44,2:28.09,Mark D Hickman,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Breaststroke,SCM,M,40-44,34.72,Doug P Adamavich,,Long Beach Grunions SPMA SCM,2009,1
+BRSC,50 M Breaststroke,SCM,M,40-44,35.98,Bowen M Johnson,,Ron Johnson Invitational,2009,2
+BRSC,50 M Breaststroke,SCM,M,40-44,37.68,Lucio F Amado,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Breaststroke,SCM,M,40-44,37.95,Ryan N Vogt,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Breaststroke,SCM,M,40-44,39.60,Kent M Johnson,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Breaststroke,SCM,M,40-44,1:16.07,Doug P Adamavich,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Breaststroke,SCM,M,40-44,1:19.38,Keith Tran,,Ron Johnson Invitational,2009,2
+BRSC,100 M Breaststroke,SCM,M,40-44,1:22.85,Lucio F Amado,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,M,40-44,1:25.13,Ryan N Vogt,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Breaststroke,SCM,M,40-44,2:45.55,Doug P Adamavich,,Long Beach Grunions SPMA SCM,2009,1
+BRSC,200 M Breaststroke,SCM,M,40-44,2:50.76,Bowen M Johnson,,Ron Johnson Invitational,2009,2
+BRSC,200 M Breaststroke,SCM,M,40-44,3:06.73,Lucio F Amado,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,M,40-44,29.93,Michael J Brauer,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,40-44,30.14,Doug P Adamavich,,Long Beach Grunions SPMA SCM,2009,2
+BRSC,50 M Butterfly,SCM,M,40-44,33.50,Lucio F Amado,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,M,40-44,34.10,Ryan N Vogt,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Butterfly,SCM,M,40-44,1:07.99,Doug P Adamavich,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Butterfly,SCM,M,40-44,1:08.37,Michael J Brauer,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Butterfly,SCM,M,40-44,2:36.42,Kent M Johnson,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:02.54,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:10.46,Mark D Hickman,,Ron Johnson Invitational,2009,2
+BRSC,100 M Individual Medley,SCM,M,40-44,1:11.28,Bowen M Johnson,,Ron Johnson Invitational,2009,3
+BRSC,100 M Individual Medley,SCM,M,40-44,1:19.01,Lucio F Amado,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:11.97,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:28.05,Doug P Adamavich,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:40.50,Mark D Hickman,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:41.53,Kent M Johnson,,Ron Johnson Invitational,2009,4
+BRSC,200 M Individual Medley,SCM,M,40-44,2:55.92,Lucio F Amado,,Ron Johnson Invitational,2009,5
+ARIZ,400 M Individual Medley,SCM,M,40-44,5:04.00,Patrick W Brundage,,Rowdy Gaines Masters Classic,2009,1
+ARIZ,400 M Individual Medley,SCM,M,40-44,5:06.55,Kurt F Dickson,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Individual Medley,SCM,M,40-44,5:27.10,Doug P Adamavich,,Long Beach Grunions SPMA SCM,2009,3
+ARIZ,50 M Freestyle,SCM,M,45-49,25.14,Geoffrey S Glaser,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,45-49,32.66,Theodore Collins,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,M,45-49,1:12.63,Theodore Collins,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,45-49,1:27.77,Douglas D Everett,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,M,45-49,2:39.99,Theodore Collins,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,45-49,2:55.84,Douglas D Everett,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,400 M Freestyle,SCM,M,45-49,4:24.49,Geoffrey S Glaser,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,M,45-49,5:42.66,Theodore Collins,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,M,45-49,6:13.04,Douglas D Everett,,Long Beach Grunions SPMA SCM,2009,3
+ARIZ,800 M Freestyle,SCM,M,45-49,9:01.64,Geoffrey S Glaser,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,800 M Freestyle,SCM,M,45-49,12:47.21,Douglas D Everett,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,1500 M Freestyle,SCM,M,45-49,17:04.77,Geoffrey S Glaser,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,M,45-49,22:59.98,Theodore Collins,,Ron Johnson Invitational,2009,2
+ARIZ,1500 M Freestyle,SCM,M,45-49,25:43.56,Douglas D Everett,,Long Beach Grunions SPMA SCM,2009,3
+ARIZ,50 M Breaststroke,SCM,M,45-49,35.73,Daniel Vargas,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,45-49,1:17.33,Daniel Vargas,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,45-49,2:53.24,Daniel Vargas,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,45-49,28.15,Brad V Hering,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,45-49,29.21,Geoffrey S Glaser,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,45-49,33.15,Daniel Vargas,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,M,45-49,38.21,David P Brooks,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Butterfly,SCM,M,45-49,46.51,Douglas D Everett,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Butterfly,SCM,M,45-49,1:03.05,Glenn D Mills,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:13.66,Daniel Vargas,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:28.56,Theodore Collins,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Individual Medley,SCM,M,45-49,2:24.92,Glenn D Mills,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+ARIZ,200 M Individual Medley,SCM,M,45-49,2:47.50,Daniel Vargas,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Individual Medley,SCM,M,45-49,4:52.73,Glenn D Mills,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+ARIZ,50 M Freestyle,SCM,M,50-54,24.77,Paul L Smith,,Ron Johnson Invitational,2009,1
+PHX,50 M Freestyle,SCM,M,50-54,39.86,Daryl G Long,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,50-54,40.80,Randall L Baum,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,M,50-54,56.54,Paul L Smith,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,50-54,1:01.12,Jim S Stites,,Long Beach Grunions SPMA SCM,2009,2
+BRSC,100 M Freestyle,SCM,M,50-54,1:09.02,Dan R Tarajcak,,Ron Johnson Invitational,2009,3
+PHX,100 M Freestyle,SCM,M,50-54,1:27.72,Daryl G Long,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,M,50-54,1:41.77,Randall L Baum,,Ron Johnson Invitational,2009,5
+ARIZ,200 M Freestyle,SCM,M,50-54,2:00.31,Paul L Smith,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,50-54,2:20.02,Jim S Stites,,Long Beach Grunions SPMA SCM,2009,2
+ARIZ,200 M Freestyle,SCM,M,50-54,3:11.34,Douglas F Foster,,Ron Johnson Invitational,2009,3
+PHX,200 M Freestyle,SCM,M,50-54,3:15.42,Daryl G Long,,Ron Johnson Invitational,2009,4
+ARIZ,400 M Freestyle,SCM,M,50-54,4:58.13,Jim S Stites,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,800 M Freestyle,SCM,M,50-54,10:52.87,Jim S Stites,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,800 M Freestyle,SCM,M,50-54,11:59.98,Dan E Moore,,Ron Johnson Invitational,2009,2
+ARIZ,1500 M Freestyle,SCM,M,50-54,19:21.56,Jim S Stites,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,1500 M Freestyle,SCM,M,50-54,25:24.27,William E Shaw,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,50-54,39.51,David H Getts,,Ron Johnson Invitational,2009,1
+BRSC,50 M Backstroke,SCM,M,50-54,43.49,Dan R Tarajcak,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,50-54,47.72,Douglas F Foster,,Ron Johnson Invitational,2009,3
+UNAT,50 M Breaststroke,SCM,M,50-54,35.32,Jeff A Baird,,Ron Johnson Invitational,2009,1
+BRSC,50 M Breaststroke,SCM,M,50-54,39.19,Dan R Tarajcak,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,50-54,41.47,David H Getts,,Ron Johnson Invitational,2009,3
+PHX,50 M Breaststroke,SCM,M,50-54,53.58,Daryl G Long,,Ron Johnson Invitational,2009,4
+UNAT,100 M Breaststroke,SCM,M,50-54,1:21.38,Jeff A Baird,,Ron Johnson Invitational,2009,1
+BRSC,100 M Breaststroke,SCM,M,50-54,1:25.31,Dan R Tarajcak,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:33.49,David H Getts,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:55.17,Douglas F Foster,,Ron Johnson Invitational,2009,4
+PHX,100 M Breaststroke,SCM,M,50-54,1:57.40,Daryl G Long,,Ron Johnson Invitational,2009,5
+BRSC,200 M Breaststroke,SCM,M,50-54,3:17.76,Dan R Tarajcak,,Ron Johnson Invitational,2009,1
+UNAT,200 M Breaststroke,SCM,M,50-54,3:26.58,Jeff A Baird,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,50-54,26.20,Paul L Smith,,Ron Johnson Invitational,2009,1
+UNAT,50 M Butterfly,SCM,M,50-54,32.51,Jeff A Baird,,Ron Johnson Invitational,2009,2
+BRSC,50 M Butterfly,SCM,M,50-54,36.78,Dan R Tarajcak,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Butterfly,SCM,M,50-54,38.67,Dan E Moore,,Ron Johnson Invitational,2009,4
+UNAT,100 M Butterfly,SCM,M,50-54,1:15.38,Jeff A Baird,,Ron Johnson Invitational,2009,1
+BRSC,100 M Butterfly,SCM,M,50-54,1:19.58,Dan R Tarajcak,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:01.54,Paul L Smith,,Ron Johnson Invitational,2009,1
+UNAT,100 M Individual Medley,SCM,M,50-54,1:13.48,Jeff A Baird,,Ron Johnson Invitational,2009,2
+BRSC,100 M Individual Medley,SCM,M,50-54,1:23.90,Dan R Tarajcak,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:25.16,David H Getts,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:29.66,Dan E Moore,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:44.41,Douglas F Foster,,Ron Johnson Invitational,2009,6
+UNAT,200 M Individual Medley,SCM,M,50-54,2:50.80,Jeff A Baird,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Individual Medley,SCM,M,50-54,3:53.96,Douglas F Foster,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,55-59,25.42,Barry Roth,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,55-59,28.51,Gordon S Taylor,,Ron Johnson Invitational,2009,2
+UNAT,50 M Freestyle,SCM,M,55-59,31.35,Tom Kaufman,,Ron Johnson Invitational,2009,3
+ARIZ,50 M Freestyle,SCM,M,55-59,33.68,Alex A Antonio,,Ron Johnson Invitational,2009,4
+ARIZ,50 M Freestyle,SCM,M,55-59,38.07,Allan Duckworth,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Freestyle,SCM,M,55-59,57.41,Barry Roth,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,55-59,1:05.05,Gordon S Taylor,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Freestyle,SCM,M,55-59,1:08.71,Robert J Ditolla,,Ron Johnson Invitational,2009,3
+UNAT,100 M Freestyle,SCM,M,55-59,1:10.07,Tom Kaufman,,Ron Johnson Invitational,2009,4
+ARIZ,100 M Freestyle,SCM,M,55-59,1:15.90,Alex A Antonio,,Ron Johnson Invitational,2009,5
+ARIZ,100 M Freestyle,SCM,M,55-59,1:25.50,Allan Duckworth,,Ron Johnson Invitational,2009,6
+ARIZ,200 M Freestyle,SCM,M,55-59,2:17.12,Robert J Ditolla,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,55-59,2:32.32,Kurt S Mickelson,,Ron Johnson Invitational,2009,2
+UNAT,200 M Freestyle,SCM,M,55-59,2:37.56,Tom Kaufman,,Ron Johnson Invitational,2009,3
+ARIZ,400 M Freestyle,SCM,M,55-59,4:47.01,Robert J Ditolla,,Ron Johnson Invitational,2009,1
+ARIZ,800 M Freestyle,SCM,M,55-59,10:07.52,Robert J Ditolla,,Ron Johnson Invitational,2009,1
+ARIZ,800 M Freestyle,SCM,M,55-59,16:10.87,Chito Lancero,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Backstroke,SCM,M,55-59,33.60,Gordon S Taylor,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,55-59,37.61,Robert Liotta,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,55-59,33.63,Barry Roth,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,55-59,35.74,Robert Liotta,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,55-59,42.76,Allan Duckworth,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:20.82,Robert Liotta,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:36.83,Allan Duckworth,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Breaststroke,SCM,M,55-59,3:01.94,Robert Liotta,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,55-59,31.22,Gordon S Taylor,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Butterfly,SCM,M,55-59,31.41,Robert J Ditolla,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Butterfly,SCM,M,55-59,2:34.38,Robert J Ditolla,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,55-59,1:07.60,Barry Roth,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,55-59,1:16.39,Gordon S Taylor,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Individual Medley,SCM,M,55-59,1:16.90,Robert J Ditolla,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Individual Medley,SCM,M,55-59,1:43.38,Allan Duckworth,,Ron Johnson Invitational,2009,4
+ARIZ,400 M Individual Medley,SCM,M,55-59,5:46.21,Robert J Ditolla,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,60-64,31.00,Todd S Boyd,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Freestyle,SCM,M,60-64,37.84,John Huotari,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,60-64,46.41,Earl J Charles,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,M,60-64,1:12.95,Hop Bailey,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,100 M Freestyle,SCM,M,60-64,1:13.40,Todd S Boyd,,2009 Huntsman Senior Games,2009,2
+ARIZ,100 M Freestyle,SCM,M,60-64,1:29.81,John C Welton,,2009 Huntsman Senior Games,2009,3
+ARIZ,100 M Freestyle,SCM,M,60-64,1:55.19,Earl J Charles,,Ron Johnson Invitational,2009,4
+ARIZ,200 M Freestyle,SCM,M,60-64,2:40.36,Hop Bailey,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,60-64,3:16.36,John C Welton,,2009 Huntsman Senior Games,2009,2
+ARIZ,200 M Freestyle,SCM,M,60-64,4:12.91,Earl J Charles,,Ron Johnson Invitational,2009,3
+ARIZ,400 M Freestyle,SCM,M,60-64,5:34.92,Hop Bailey,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,800 M Freestyle,SCM,M,60-64,11:32.95,Hop Bailey,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,50 M Backstroke,SCM,M,60-64,1:32.80,Earl J Charles,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,M,60-64,3:25.04,Earl J Charles,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,60-64,48.18,John C Welton,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Breaststroke,SCM,M,60-64,48.77,John Huotari,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,M,60-64,1:26.29,Dave G Gemmill,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,60-64,1:47.71,John C Welton,,2009 Huntsman Senior Games,2009,2
+ARIZ,200 M Breaststroke,SCM,M,60-64,3:05.05,Dave G Gemmill,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,60-64,3:55.43,John C Welton,,2009 Huntsman Senior Games,2009,2
+ARIZ,50 M Butterfly,SCM,M,60-64,36.93,Todd S Boyd,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Butterfly,SCM,M,60-64,44.61,John C Welton,,2009 Huntsman Senior Games,2009,2
+ARIZ,100 M Butterfly,SCM,M,60-64,1:38.32,Todd S Boyd,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:30.56,Todd S Boyd,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:41.92,John C Welton,,2009 Huntsman Senior Games,2009,2
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:43.35,John Huotari,,Ron Johnson Invitational,2009,3
+ARIZ,200 M Individual Medley,SCM,M,60-64,2:59.72,Hop Bailey,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,200 M Individual Medley,SCM,M,60-64,3:30.84,Todd S Boyd,,2009 Huntsman Senior Games,2009,2
+ARIZ,200 M Individual Medley,SCM,M,60-64,3:44.96,John C Welton,,2009 Huntsman Senior Games,2009,3
+ARIZ,400 M Individual Medley,SCM,M,60-64,6:33.64,Hop Bailey,,Long Beach Grunions SPMA SCM,2009,1
+ARIZ,50 M Freestyle,SCM,M,65-69,41.85,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,65-69,1:32.41,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,65-69,3:08.55,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,M,65-69,6:37.50,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,M,65-69,25:06.33,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,65-69,52.20,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Backstroke,SCM,M,65-69,1:48.28,Bob L Jones,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,65-69,36.56,Kimball V Bernard,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,65-69,48.74,Peter A Eisenklam,,Ron Johnson Invitational,2009,2
+ARIZ,100 M Breaststroke,SCM,M,65-69,1:24.06,Kimball V Bernard,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,65-69,1:56.35,Peter A Eisenklam,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Breaststroke,SCM,M,65-69,4:30.48,Peter A Eisenklam,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,65-69,1:54.82,Peter A Eisenklam,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,70-74,44.37,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Freestyle,SCM,M,70-74,1:41.64,Jim Hopp,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,70-74,1:48.85,Simon Goldstein,,2009 Huntsman Senior Games,2009,2
+ARIZ,50 M Backstroke,SCM,M,70-74,43.75,Art R Johnson,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Backstroke,SCM,M,70-74,54.99,Simon Goldstein,,2009 Huntsman Senior Games,2009,2
+ARIZ,100 M Backstroke,SCM,M,70-74,1:37.21,Art R Johnson,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Backstroke,SCM,M,70-74,2:17.87,Jim Hopp,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,70-74,50.07,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Butterfly,SCM,M,70-74,2:31.70,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,200 M Butterfly,SCM,M,70-74,5:53.54,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,100 M Individual Medley,SCM,M,70-74,2:05.32,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,200 M Individual Medley,SCM,M,70-74,4:46.79,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,400 M Individual Medley,SCM,M,70-74,10:48.14,Simon Goldstein,,2009 Huntsman Senior Games,2009,1
+ARIZ,50 M Freestyle,SCM,M,75-79,43.01,Kirt Gardner,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Freestyle,SCM,M,75-79,45.63,Jack R Fritz,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Freestyle,SCM,M,75-79,1:03.72,Dominick Aiello,,Ron Johnson Invitational,2009,3
+ARIZ,100 M Freestyle,SCM,M,75-79,1:49.46,Jack R Fritz,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Freestyle,SCM,M,75-79,2:27.59,Dominick Aiello,,Ron Johnson Invitational,2009,2
+ARIZ,200 M Freestyle,SCM,M,75-79,3:54.99,Jack R Fritz,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Freestyle,SCM,M,75-79,5:23.91,Dominick Aiello,,Ron Johnson Invitational,2009,2
+ARIZ,400 M Freestyle,SCM,M,75-79,8:09.51,Kirt Gardner,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Freestyle,SCM,M,75-79,10:46.77,Dominick Aiello,,Ron Johnson Invitational,2009,2
+ARIZ,800 M Freestyle,SCM,M,75-79,17:07.34,Kirt Gardner,,Ron Johnson Invitational,2009,1
+ARIZ,1500 M Freestyle,SCM,M,75-79,42:48.36,Dominick Aiello,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,75-79,57.61,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Backstroke,SCM,M,75-79,1:06.70,Jack R Fritz,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Breaststroke,SCM,M,75-79,1:09.30,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,75-79,2:38.15,Jack R Fritz,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,75-79,5:31.54,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,75-79,5:32.60,Jack R Fritz,,Ron Johnson Invitational,2009,2
+ARIZ,50 M Butterfly,SCM,M,75-79,1:01.14,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Butterfly,SCM,M,75-79,2:29.63,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Individual Medley,SCM,M,75-79,2:14.81,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Individual Medley,SCM,M,75-79,4:57.46,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,400 M Individual Medley,SCM,M,75-79,10:13.29,Gordon H Gillin,,Ron Johnson Invitational,2009,1
+ARIZ,50 M Breaststroke,SCM,M,80-84,54.88,Daniel F Gruender,,Ron Johnson Invitational,2009,1
+ARIZ,100 M Breaststroke,SCM,M,80-84,2:02.49,Daniel F Gruender,,Ron Johnson Invitational,2009,1
+ARIZ,200 M Breaststroke,SCM,M,80-84,4:40.52,Daniel F Gruender,,Ron Johnson Invitational,2009,1

@@ -1,0 +1,388 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+COOG,50 M Freestyle,SCM,W,18-24,32.50,Christina M Policastro,,2016 November Classic,2016,1
+COOG,100 M Freestyle,SCM,W,18-24,1:10.66,Christina M Policastro,,2016 November Classic,2016,1
+COOG,200 M Freestyle,SCM,W,18-24,2:37.16,Christina M Policastro,,2016 November Classic,2016,1
+COOG,400 M Freestyle,SCM,W,18-24,5:31.31,Christina M Policastro,,2016 November Classic,2016,1
+COOG,800 M Freestyle,SCM,W,18-24,11:22.91,Christina M Policastro,,2016 November Classic,2016,1
+RICE,50 M Freestyle,SCM,W,25-29,28.96,Marissa L Clapp,,2016 November Classic,2016,1
+DADS,50 M Freestyle,SCM,W,25-29,29.16,Alisha M Rembach,,2016 November Classic,2016,2
+WMST,50 M Freestyle,SCM,W,25-29,31.68,Margaret O'Brien,,2016 November Classic,2016,3
+DADS,100 M Freestyle,SCM,W,25-29,1:04.08,Alisha M Rembach,,2016 November Classic,2016,1
+COOG,100 M Freestyle,SCM,W,25-29,1:07.41,Carly Antonucci,,2016 November Classic,2016,2
+COOG,100 M Freestyle,SCM,W,25-29,1:08.87,Elizabeth A Fields,,2016 November Classic,2016,3
+WMST,100 M Freestyle,SCM,W,25-29,1:20.78,Megan E Litterer,,2016 November Classic,2016,4
+DADS,200 M Freestyle,SCM,W,25-29,2:24.59,Alisha M Rembach,,2016 November Classic,2016,1
+WMST,200 M Freestyle,SCM,W,25-29,2:42.09,Margaret O'Brien,,2016 November Classic,2016,2
+WMST,400 M Freestyle,SCM,W,25-29,6:09.84,Megan E Litterer,,2016 November Classic,2016,1
+RICE,50 M Backstroke,SCM,W,25-29,31.96,Marissa L Clapp,,2016 November Classic,2016,1
+COOG,50 M Backstroke,SCM,W,25-29,34.66,Carly Antonucci,,2016 November Classic,2016,2
+DADS,50 M Backstroke,SCM,W,25-29,36.12,Alisha M Rembach,,2016 November Classic,2016,3
+COOG,50 M Backstroke,SCM,W,25-29,37.01,Elizabeth A Fields,,2016 November Classic,2016,4
+WMST,50 M Backstroke,SCM,W,25-29,43.80,Megan E Litterer,,2016 November Classic,2016,5
+COOG,200 M Backstroke,SCM,W,25-29,2:48.10,Elizabeth A Fields,,2016 November Classic,2016,1
+RICE,50 M Breaststroke,SCM,W,25-29,35.72,Marissa L Clapp,,2016 November Classic,2016,1
+RICE,100 M Breaststroke,SCM,W,25-29,1:15.55,Marissa L Clapp,,2016 November Classic,2016,1
+COOG,100 M Breaststroke,SCM,W,25-29,1:23.24,Carly Antonucci,,2016 November Classic,2016,2
+RICE,200 M Breaststroke,SCM,W,25-29,2:41.29,Marissa L Clapp,,2016 November Classic,2016,1
+RICE,50 M Butterfly,SCM,W,25-29,31.03,Marissa L Clapp,,2016 November Classic,2016,1
+COOG,50 M Butterfly,SCM,W,25-29,31.64,Carly Antonucci,,2016 November Classic,2016,2
+WMST,50 M Butterfly,SCM,W,25-29,48.36,Megan E Litterer,,2016 November Classic,2016,3
+DADS,100 M Butterfly,SCM,W,25-29,1:13.59,Alisha M Rembach,,2016 November Classic,2016,1
+RICE,100 M Individual Medley,SCM,W,25-29,1:09.28,Marissa L Clapp,,2016 November Classic,2016,1
+WMST,100 M Individual Medley,SCM,W,25-29,1:24.27,Margaret O'Brien,,2016 November Classic,2016,2
+RICE,200 M Individual Medley,SCM,W,25-29,2:27.47,Marissa L Clapp,,2016 November Classic,2016,1
+COOG,200 M Individual Medley,SCM,W,25-29,2:54.97,Carly Antonucci,,2016 November Classic,2016,2
+COOG,200 M Individual Medley,SCM,W,25-29,2:55.86,Elizabeth A Fields,,2016 November Classic,2016,3
+RICE,400 M Individual Medley,SCM,W,25-29,5:12.69,Marissa L Clapp,,2016 November Classic,2016,1
+SSSM,100 M Freestyle,SCM,W,30-34,1:11.15,Lauren C Grous,,2016 November Classic,2016,1
+WMST,50 M Backstroke,SCM,W,30-34,38.52,Vicki B Risinger,,2016 November Classic,2016,1
+WMST,100 M Backstroke,SCM,W,30-34,1:24.36,Vicki B Risinger,,2016 November Classic,2016,1
+WMST,200 M Backstroke,SCM,W,30-34,2:58.80,Vicki B Risinger,,2016 November Classic,2016,1
+SSSM,50 M Butterfly,SCM,W,30-34,36.25,Lauren C Grous,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,W,30-34,40.90,Vicki B Risinger,,2016 November Classic,2016,2
+SSSM,200 M Individual Medley,SCM,W,30-34,2:57.24,Lauren C Grous,,2016 November Classic,2016,1
+WMST,200 M Individual Medley,SCM,W,30-34,3:11.24,Vicki B Risinger,,2016 November Classic,2016,2
+WMST,50 M Freestyle,SCM,W,35-39,36.42,Caitlin L Clark,,2016 November Classic,2016,1
+COOG,100 M Freestyle,SCM,W,35-39,1:07.52,Rebecca Norton,,2016 November Classic,2016,1
+UC25,100 M Freestyle,SCM,W,35-39,1:10.65,Christine E Haines,,2016 November Classic,2016,2
+WMST,100 M Freestyle,SCM,W,35-39,1:13.85,Jessica H Platt,,2016 November Classic,2016,3
+WMST,400 M Freestyle,SCM,W,35-39,5:42.09,Jessica H Platt,,2016 November Classic,2016,1
+WMST,1500 M Freestyle,SCM,W,35-39,22:42.29,Caitlin L Clark,,2016 November Classic,2016,1
+RICE,50 M Backstroke,SCM,W,35-39,36.66,Lisa Linerode,,2016 November Classic,2016,1
+RICE,100 M Backstroke,SCM,W,35-39,1:17.20,Lisa Linerode,,2016 November Classic,2016,1
+RICE,200 M Backstroke,SCM,W,35-39,2:47.22,Lisa Linerode,,2016 November Classic,2016,1
+WMST,50 M Breaststroke,SCM,W,35-39,46.80,Caitlin L Clark,,2016 November Classic,2016,1
+COOG,100 M Breaststroke,SCM,W,35-39,1:28.74,Rebecca Norton,,2016 November Classic,2016,1
+UC25,100 M Breaststroke,SCM,W,35-39,1:29.38,Christine E Haines,,2016 November Classic,2016,2
+WMST,200 M Breaststroke,SCM,W,35-39,3:35.25,Caitlin L Clark,,2016 November Classic,2016,1
+RICE,50 M Butterfly,SCM,W,35-39,35.79,Lisa Linerode,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,W,35-39,38.65,Jessica H Platt,,2016 November Classic,2016,2
+RICE,100 M Butterfly,SCM,W,35-39,1:20.73,Lisa Linerode,,2016 November Classic,2016,1
+WMST,100 M Individual Medley,SCM,W,35-39,1:33.80,Caitlin L Clark,,2016 November Classic,2016,1
+COOG,200 M Individual Medley,SCM,W,35-39,2:51.25,Rebecca Norton,,2016 November Classic,2016,1
+SSSM,50 M Freestyle,SCM,W,40-44,33.43,Keele K Steglich,,2016 November Classic,2016,1
+UC25,50 M Freestyle,SCM,W,40-44,34.47,POLLY-GAY B MEDINA,,2016 November Classic,2016,2
+SWYM,50 M Freestyle,SCM,W,40-44,37.09,Tessa A Kole,,2016 November Classic,2016,3
+MAMC,50 M Freestyle,SCM,W,40-44,38.82,Lauren Byron,,2016 Somerset County YMCA Masters SCM Pentathlon Swim Festival,2016,4
+UC25,100 M Freestyle,SCM,W,40-44,1:20.97,POLLY-GAY B MEDINA,,2016 November Classic,2016,1
+SWYM,100 M Freestyle,SCM,W,40-44,1:30.34,Tessa A Kole,,2016 November Classic,2016,2
+SSSM,800 M Freestyle,SCM,W,40-44,11:30.33,Keele K Steglich,,2016 November Classic,2016,1
+UC25,50 M Backstroke,SCM,W,40-44,42.85,POLLY-GAY B MEDINA,,2016 November Classic,2016,1
+MAMC,50 M Backstroke,SCM,W,40-44,46.45,Lauren Byron,,2016 Somerset County YMCA Masters SCM Pentathlon Swim Festival,2016,2
+SWYM,50 M Backstroke,SCM,W,40-44,46.69,Tessa A Kole,,2016 November Classic,2016,3
+SSSM,100 M Backstroke,SCM,W,40-44,1:23.68,Keele K Steglich,,2016 November Classic,2016,1
+UC25,50 M Breaststroke,SCM,W,40-44,43.78,POLLY-GAY B MEDINA,,2016 November Classic,2016,1
+MAMC,50 M Breaststroke,SCM,W,40-44,50.56,Lauren Byron,,2016 Somerset County YMCA Masters SCM Pentathlon Swim Festival,2016,2
+SWYM,50 M Breaststroke,SCM,W,40-44,58.08,Tessa A Kole,,2016 November Classic,2016,3
+UC25,100 M Breaststroke,SCM,W,40-44,1:38.28,POLLY-GAY B MEDINA,,2016 November Classic,2016,1
+MAMC,50 M Butterfly,SCM,W,40-44,42.70,Lauren Byron,,2016 Somerset County YMCA Masters SCM Pentathlon Swim Festival,2016,1
+SSSM,100 M Butterfly,SCM,W,40-44,1:20.08,Keele K Steglich,,2016 November Classic,2016,1
+MAMC,100 M Individual Medley,SCM,W,40-44,1:36.68,Lauren Byron,,2016 Somerset County YMCA Masters SCM Pentathlon Swim Festival,2016,1
+COOG,50 M Freestyle,SCM,W,45-49,37.13,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,1
+COOG,100 M Freestyle,SCM,W,45-49,1:24.80,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,1
+COOG,200 M Freestyle,SCM,W,45-49,2:52.69,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,200 M Freestyle,SCM,W,45-49,3:08.27,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,2
+COOG,400 M Freestyle,SCM,W,45-49,6:02.36,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,400 M Freestyle,SCM,W,45-49,6:32.12,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,2
+COOG,800 M Freestyle,SCM,W,45-49,12:10.76,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,800 M Freestyle,SCM,W,45-49,13:32.43,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,2
+COOG,1500 M Freestyle,SCM,W,45-49,22:56.93,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,1500 M Freestyle,SCM,W,45-49,25:42.00,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,2
+COOG,200 M Backstroke,SCM,W,45-49,3:23.38,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,50 M Breaststroke,SCM,W,45-49,44.98,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,1
+COOG,100 M Breaststroke,SCM,W,45-49,1:40.17,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,1
+COOG,200 M Breaststroke,SCM,W,45-49,3:41.14,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,1
+COOG,100 M Butterfly,SCM,W,45-49,1:28.55,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,200 M Butterfly,SCM,W,45-49,3:18.01,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,100 M Individual Medley,SCM,W,45-49,1:42.08,Bridget A Bailie,,2016 USA Masters Games Swimming Competition,2016,1
+COOG,200 M Individual Medley,SCM,W,45-49,3:15.46,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,400 M Individual Medley,SCM,W,45-49,6:46.77,Cheryl B Hubbard,,2016 November Classic,2016,1
+COOG,50 M Freestyle,SCM,W,50-54,43.36,Betty Chang,,2016 November Classic,2016,1
+COOG,100 M Freestyle,SCM,W,50-54,1:42.11,Betty Chang,,2016 November Classic,2016,1
+COOG,400 M Freestyle,SCM,W,50-54,7:56.88,Betty Chang,,2016 November Classic,2016,1
+COOG,800 M Freestyle,SCM,W,50-54,16:05.89,Betty Chang,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,W,55-59,46.67,Anne L Kozak,,2016 November Classic,2016,1
+RICE,50 M Freestyle,SCM,W,55-59,54.60,Sabrina Midkiff,,2016 November Classic,2016,2
+WMST,100 M Freestyle,SCM,W,55-59,1:22.04,Stacey M Eicks,,2016 November Classic,2016,1
+WMST,200 M Freestyle,SCM,W,55-59,3:29.38,Elva Moure de Godoy,,2016 November Classic,2016,1
+WMST,400 M Freestyle,SCM,W,55-59,7:04.10,Elva Moure de Godoy,,2016 November Classic,2016,1
+RICE,50 M Backstroke,SCM,W,55-59,43.49,Colette M Lanier,,2016 November Classic,2016,1
+WMST,50 M Backstroke,SCM,W,55-59,55.75,Elva Moure de Godoy,,2016 November Classic,2016,2
+RICE,200 M Backstroke,SCM,W,55-59,3:25.75,Colette M Lanier,,2016 November Classic,2016,1
+RICE,50 M Butterfly,SCM,W,55-59,1:00.58,Sabrina Midkiff,,2016 November Classic,2016,1
+RICE,100 M Individual Medley,SCM,W,55-59,2:20.92,Sabrina Midkiff,,2016 November Classic,2016,1
+WMST,200 M Individual Medley,SCM,W,55-59,4:03.57,Elva Moure de Godoy,,2016 November Classic,2016,1
+WMST,100 M Freestyle,SCM,W,60-64,2:15.39,Melanie B Sellers,,2016 November Classic,2016,1
+RICE,800 M Freestyle,SCM,W,60-64,11:42.62,Heidi J Ernst,,2016 November Classic,2016,1
+WMST,800 M Freestyle,SCM,W,60-64,13:11.84,Sue A Bloomfield,,2016 November Classic,2016,2
+WMST,200 M Backstroke,SCM,W,60-64,5:00.05,Melanie B Sellers,,2016 November Classic,2016,1
+WMST,200 M Breaststroke,SCM,W,60-64,3:58.39,Sue A Bloomfield,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,W,60-64,1:08.50,Melanie B Sellers,,2016 November Classic,2016,1
+WMST,400 M Individual Medley,SCM,W,60-64,7:51.42,Sue A Bloomfield,,2016 November Classic,2016,1
+RICE,50 M Freestyle,SCM,W,65-69,35.22,Suzy Reierson,,2016 November Classic,2016,1
+RICE,400 M Freestyle,SCM,W,65-69,6:26.45,Suzy Reierson,,2016 November Classic,2016,1
+RICE,800 M Freestyle,SCM,W,65-69,13:11.57,Suzy Reierson,,2016 November Classic,2016,1
+RICE,50 M Backstroke,SCM,W,65-69,43.23,Suzy Reierson,,2016 November Classic,2016,1
+RICE,100 M Backstroke,SCM,W,65-69,1:37.73,Suzy Reierson,,2016 November Classic,2016,1
+RICE,200 M Backstroke,SCM,W,65-69,3:30.89,Suzy Reierson,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,W,70-74,41.00,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,100 M Freestyle,SCM,W,70-74,1:34.41,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,200 M Freestyle,SCM,W,70-74,3:36.89,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,400 M Freestyle,SCM,W,70-74,5:56.79,Carolyn Boak,,2016 November Classic,2016,1
+WMST,400 M Freestyle,SCM,W,70-74,7:39.47,Martha A McDade,,Huntsman World Senior Games,2016,2
+WMST,800 M Freestyle,SCM,W,70-74,12:11.34,Carolyn Boak,,2016 November Classic,2016,1
+WMST,800 M Freestyle,SCM,W,70-74,15:42.05,Martha A McDade,,Huntsman World Senior Games,2016,2
+WMST,1500 M Freestyle,SCM,W,70-74,30:12.03,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,50 M Backstroke,SCM,W,70-74,55.28,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,100 M Backstroke,SCM,W,70-74,1:57.39,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,200 M Backstroke,SCM,W,70-74,4:08.08,Martha A McDade,,Huntsman World Senior Games,2016,1
+WMST,200 M Butterfly,SCM,W,70-74,3:27.16,Carolyn Boak,,2016 November Classic,2016,1
+WMST,50 M Breaststroke,SCM,W,75-79,49.90,Joann Leilich,,2016 November Classic,2016,1
+WMST,100 M Breaststroke,SCM,W,75-79,1:47.78,Joann Leilich,,2016 November Classic,2016,1
+WMST,200 M Breaststroke,SCM,W,75-79,3:55.98,Joann Leilich,,2016 November Classic,2016,1
+TFMS,50 M Freestyle,SCM,M,18-24,26.77,Tristan T Venghaus,,The 10th  Annual “Nash Splash”,2016,1
+SSSM,100 M Freestyle,SCM,M,18-24,58.44,Michael Kuhlmeier,,2016 November Classic,2016,1
+TFMS,100 M Freestyle,SCM,M,18-24,1:02.61,Tristan T Venghaus,,The 10th  Annual “Nash Splash”,2016,2
+WMST,100 M Freestyle,SCM,M,18-24,1:17.45,Brandon Fields,,2016 November Classic,2016,3
+UC25,200 M Freestyle,SCM,M,18-24,2:28.03,Tristan T Venghaus,,Southern Masters Swimming Championship Short Course Meters,2016,1
+UC25,400 M Freestyle,SCM,M,18-24,5:34.11,Tristan T Venghaus,,Southern Masters Swimming Championship Short Course Meters,2016,1
+CFSC,100 M Backstroke,SCM,M,18-24,1:08.21,Tyler N McFarland,,2016 November Classic,2016,1
+SSSM,200 M Backstroke,SCM,M,18-24,2:26.36,Michael Kuhlmeier,,2016 November Classic,2016,1
+WMST,100 M Breaststroke,SCM,M,18-24,1:45.10,Brandon Fields,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,M,18-24,42.52,Brandon Fields,,2016 November Classic,2016,1
+CFSC,100 M Butterfly,SCM,M,18-24,1:02.26,Tyler N McFarland,,2016 November Classic,2016,1
+CFSC,100 M Individual Medley,SCM,M,18-24,1:05.68,Tyler N McFarland,,2016 November Classic,2016,1
+TFMS,100 M Individual Medley,SCM,M,18-24,1:14.16,Tristan T Venghaus,,The 10th  Annual “Nash Splash”,2016,2
+SSSM,200 M Individual Medley,SCM,M,18-24,2:24.46,Michael Kuhlmeier,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,M,25-29,25.07,Mark Reeves,,2016 November Classic,2016,1
+RICE,50 M Freestyle,SCM,M,25-29,25.07,Ryan A Littlefield,,2016 November Classic,2016,2
+UC25,50 M Freestyle,SCM,M,25-29,26.05,Ruan W Swanepoel,,2016 November Classic,2016,3
+RICE,50 M Freestyle,SCM,M,25-29,26.92,Wing Lam,,2016 November Classic,2016,4
+PACK,50 M Freestyle,SCM,M,25-29,34.83,Jeremy Reed,,2016 November Classic,2016,5
+SCAT,50 M Freestyle,SCM,M,25-29,36.07,William Duong,,2016 November Classic,2016,6
+WMST,100 M Freestyle,SCM,M,25-29,54.74,Mark Reeves,,2016 November Classic,2016,1
+RICE,100 M Freestyle,SCM,M,25-29,54.95,Ryan A Littlefield,,2016 November Classic,2016,2
+RICE,100 M Freestyle,SCM,M,25-29,57.98,Wing Lam,,2016 November Classic,2016,3
+UC25,100 M Freestyle,SCM,M,25-29,59.32,Ruan W Swanepoel,,2016 November Classic,2016,4
+PACK,100 M Freestyle,SCM,M,25-29,1:20.28,Jeremy Reed,,2016 November Classic,2016,5
+RICE,200 M Freestyle,SCM,M,25-29,1:57.01,Rodolfo Escalante,,2016 November Classic,2016,1
+RICE,200 M Freestyle,SCM,M,25-29,2:02.03,Ryan A Littlefield,,2016 November Classic,2016,2
+UC25,200 M Freestyle,SCM,M,25-29,2:17.62,Ruan W Swanepoel,,2016 November Classic,2016,3
+PACK,200 M Freestyle,SCM,M,25-29,2:57.15,Jeremy Reed,,2016 November Classic,2016,4
+RICE,400 M Freestyle,SCM,M,25-29,4:18.09,Ryan A Littlefield,,2016 November Classic,2016,1
+RICE,800 M Freestyle,SCM,M,25-29,8:54.29,Ryan A Littlefield,,2016 November Classic,2016,1
+WMST,800 M Freestyle,SCM,M,25-29,9:54.73,Mark Reeves,,2016 November Classic,2016,2
+RICE,1500 M Freestyle,SCM,M,25-29,17:19.98,Ryan A Littlefield,,2016 November Classic,2016,1
+SCAT,50 M Breaststroke,SCM,M,25-29,48.97,William Duong,,2016 November Classic,2016,1
+RICE,50 M Butterfly,SCM,M,25-29,26.92,Rodolfo Escalante,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,M,25-29,27.61,Mark Reeves,,2016 November Classic,2016,2
+UC25,50 M Butterfly,SCM,M,25-29,28.71,Ruan W Swanepoel,,2016 November Classic,2016,3
+RICE,50 M Butterfly,SCM,M,25-29,29.40,Wing Lam,,2016 November Classic,2016,4
+RICE,100 M Butterfly,SCM,M,25-29,58.70,Rodolfo Escalante,,2016 November Classic,2016,1
+RICE,200 M Butterfly,SCM,M,25-29,2:11.94,Rodolfo Escalante,,2016 November Classic,2016,1
+RICE,100 M Individual Medley,SCM,M,25-29,1:08.18,Wing Lam,,2016 November Classic,2016,1
+SCAT,100 M Individual Medley,SCM,M,25-29,1:34.46,William Duong,,2016 November Classic,2016,2
+RICE,200 M Individual Medley,SCM,M,25-29,2:13.47,Rodolfo Escalante,,2016 November Classic,2016,1
+RICE,200 M Individual Medley,SCM,M,25-29,2:34.81,Wing Lam,,2016 November Classic,2016,2
+UC25,200 M Individual Medley,SCM,M,25-29,2:40.58,Ruan W Swanepoel,,2016 November Classic,2016,3
+COOG,50 M Freestyle,SCM,M,30-34,27.42,Alexander Lonnecker,,2016 November Classic,2016,1
+COOG,100 M Freestyle,SCM,M,30-34,1:02.14,Alexander Lonnecker,,2016 November Classic,2016,1
+COOG,100 M Freestyle,SCM,M,30-34,1:02.49,Charles J DuBose,,2016 November Classic,2016,2
+WMST,100 M Freestyle,SCM,M,30-34,1:04.71,Joey M Stewart,,2016 November Classic,2016,3
+COOG,200 M Freestyle,SCM,M,30-34,2:22.49,Alexander Lonnecker,,2016 November Classic,2016,1
+WMST,400 M Freestyle,SCM,M,30-34,5:56.30,Joey M Stewart,,2016 November Classic,2016,1
+COOG,50 M Backstroke,SCM,M,30-34,31.66,Charles J DuBose,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,M,30-34,30.26,JING YANG,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,M,30-34,32.14,Joey M Stewart,,2016 November Classic,2016,2
+WMST,200 M Butterfly,SCM,M,30-34,2:34.87,JING YANG,,2016 November Classic,2016,1
+WMST,100 M Individual Medley,SCM,M,30-34,1:12.09,JING YANG,,2016 November Classic,2016,1
+COOG,100 M Individual Medley,SCM,M,30-34,1:13.37,Alexander Lonnecker,,2016 November Classic,2016,2
+COOG,200 M Individual Medley,SCM,M,30-34,2:40.59,Alexander Lonnecker,,2016 November Classic,2016,1
+WMST,400 M Individual Medley,SCM,M,30-34,5:39.96,JING YANG,,2016 November Classic,2016,1
+RICE,50 M Freestyle,SCM,M,35-39,26.62,Ron M Zach,,2016 November Classic,2016,1
+AMBU,50 M Freestyle,SCM,M,35-39,30.71,Matthew Beauregard,,2016 November Classic,2016,2
+COOG,100 M Freestyle,SCM,M,35-39,53.03,Tamas Kerekjarto,,2016 Pacific Masters Short Course Meters Championship,2016,1
+PACK,100 M Freestyle,SCM,M,35-39,57.18,Jim R Svoboda,,2016 November Classic,2016,2
+RICE,100 M Freestyle,SCM,M,35-39,58.58,Ron M Zach,,2016 November Classic,2016,3
+AMBU,100 M Freestyle,SCM,M,35-39,1:06.42,Matthew Beauregard,,2016 November Classic,2016,4
+PACK,200 M Freestyle,SCM,M,35-39,2:08.81,Jim R Svoboda,,2016 November Classic,2016,1
+AMBU,200 M Freestyle,SCM,M,35-39,2:36.50,Matthew Beauregard,,2016 November Classic,2016,2
+PACK,400 M Freestyle,SCM,M,35-39,4:42.61,Jim R Svoboda,,2016 November Classic,2016,1
+PACK,800 M Freestyle,SCM,M,35-39,9:35.53,Jim R Svoboda,,2016 November Classic,2016,1
+AMBU,100 M Backstroke,SCM,M,35-39,1:23.00,Matthew Beauregard,,2016 November Classic,2016,1
+AMBU,100 M Breaststroke,SCM,M,35-39,1:39.23,Matthew Beauregard,,2016 November Classic,2016,1
+RICE,50 M Butterfly,SCM,M,35-39,28.62,Ron M Zach,,2016 November Classic,2016,1
+PACK,50 M Butterfly,SCM,M,35-39,30.20,Jim R Svoboda,,2016 November Classic,2016,2
+AMBU,100 M Butterfly,SCM,M,35-39,1:33.43,Matthew Beauregard,,2016 November Classic,2016,1
+AMBU,100 M Individual Medley,SCM,M,35-39,1:24.30,Matthew Beauregard,,2016 November Classic,2016,1
+AMBU,200 M Individual Medley,SCM,M,35-39,3:01.65,Matthew Beauregard,,2016 November Classic,2016,1
+UC25,50 M Freestyle,SCM,M,40-44,26.95,Dominic R Mastracchio,,2016 November Classic,2016,1
+UC25,50 M Backstroke,SCM,M,40-44,35.48,Dominic R Mastracchio,,2016 November Classic,2016,1
+UC25,100 M Backstroke,SCM,M,40-44,1:22.80,Dominic R Mastracchio,,2016 November Classic,2016,1
+UC25,50 M Butterfly,SCM,M,40-44,30.74,Dominic R Mastracchio,,2016 November Classic,2016,1
+UC25,50 M Freestyle,SCM,M,45-49,27.34,Takeshi Maeda,,2016 November Classic,2016,1
+FCST,50 M Freestyle,SCM,M,45-49,29.60,CHUN WONG,,2016 November Classic,2016,2
+WMST,50 M Freestyle,SCM,M,45-49,30.46,John McCann,,2016 November Classic,2016,3
+UC25,50 M Freestyle,SCM,M,45-49,31.03,Douglas T Cordier,,2016 November Classic,2016,4
+UC25,50 M Freestyle,SCM,M,45-49,33.93,David Amezcua,,2016 November Classic,2016,5
+COOG,50 M Freestyle,SCM,M,45-49,40.48,Karl S Jonsson,,2016 November Classic,2016,6
+UC25,100 M Freestyle,SCM,M,45-49,1:00.25,Takeshi Maeda,,2016 November Classic,2016,1
+UC25,100 M Freestyle,SCM,M,45-49,1:08.54,Douglas T Cordier,,2016 November Classic,2016,2
+FCST,100 M Freestyle,SCM,M,45-49,1:09.84,CHUN WONG,,2016 November Classic,2016,3
+UC25,100 M Freestyle,SCM,M,45-49,1:17.08,David Amezcua,,2016 November Classic,2016,4
+WMST,200 M Freestyle,SCM,M,45-49,2:31.17,John McCann,,2016 November Classic,2016,1
+FCST,200 M Freestyle,SCM,M,45-49,2:50.21,CHUN WONG,,2016 November Classic,2016,2
+COOG,200 M Freestyle,SCM,M,45-49,3:36.22,Karl S Jonsson,,2016 November Classic,2016,3
+RICE,400 M Freestyle,SCM,M,45-49,8:00.10,Gerald A Lewis,,2016 November Classic,2016,1
+WMST,800 M Freestyle,SCM,M,45-49,11:00.22,John McCann,,2016 November Classic,2016,1
+RICE,800 M Freestyle,SCM,M,45-49,16:39.38,Gerald A Lewis,,2016 November Classic,2016,2
+COOG,800 M Freestyle,SCM,M,45-49,16:49.51,Karl S Jonsson,,2016 November Classic,2016,3
+RICE,1500 M Freestyle,SCM,M,45-49,32:35.77,Gerald A Lewis,,2016 November Classic,2016,1
+RICE,50 M Backstroke,SCM,M,45-49,30.59,James W Connolly,,2016 November Classic,2016,1
+FCST,50 M Backstroke,SCM,M,45-49,36.83,CHUN WONG,,2016 November Classic,2016,2
+UC25,100 M Backstroke,SCM,M,45-49,1:21.74,Douglas T Cordier,,2016 November Classic,2016,1
+FCST,100 M Backstroke,SCM,M,45-49,1:29.29,CHUN WONG,,2016 November Classic,2016,2
+UC25,100 M Backstroke,SCM,M,45-49,1:36.51,David Amezcua,,2016 November Classic,2016,3
+COOG,100 M Backstroke,SCM,M,45-49,1:58.07,Karl S Jonsson,,2016 November Classic,2016,4
+RICE,50 M Breaststroke,SCM,M,45-49,31.83,James W Connolly,,2016 November Classic,2016,1
+FCST,50 M Breaststroke,SCM,M,45-49,39.59,CHUN WONG,,2016 November Classic,2016,2
+UC25,50 M Breaststroke,SCM,M,45-49,40.08,David Amezcua,,2016 November Classic,2016,3
+UC25,50 M Breaststroke,SCM,M,45-49,40.64,Douglas T Cordier,,2016 November Classic,2016,4
+RICE,100 M Breaststroke,SCM,M,45-49,1:09.85,James W Connolly,,2016 November Classic,2016,1
+UC25,100 M Breaststroke,SCM,M,45-49,1:28.88,David Amezcua,,2016 November Classic,2016,2
+RICE,200 M Breaststroke,SCM,M,45-49,2:37.40,James W Connolly,,2016 November Classic,2016,1
+UC25,200 M Breaststroke,SCM,M,45-49,3:14.36,David Amezcua,,2016 November Classic,2016,2
+UC25,50 M Butterfly,SCM,M,45-49,29.98,Takeshi Maeda,,2016 November Classic,2016,1
+FCST,50 M Butterfly,SCM,M,45-49,34.51,CHUN WONG,,2016 November Classic,2016,2
+UC25,50 M Butterfly,SCM,M,45-49,37.66,David Amezcua,,2016 November Classic,2016,3
+UC25,50 M Butterfly,SCM,M,45-49,38.01,Douglas T Cordier,,2016 November Classic,2016,4
+UC25,100 M Individual Medley,SCM,M,45-49,1:10.94,Takeshi Maeda,,2016 November Classic,2016,1
+FCST,100 M Individual Medley,SCM,M,45-49,1:20.86,CHUN WONG,,2016 November Classic,2016,2
+UC25,100 M Individual Medley,SCM,M,45-49,1:25.74,David Amezcua,,2016 November Classic,2016,3
+UC25,200 M Individual Medley,SCM,M,45-49,3:02.86,Douglas T Cordier,,2016 November Classic,2016,1
+UC25,200 M Individual Medley,SCM,M,45-49,3:14.87,David Amezcua,,2016 November Classic,2016,2
+TFMS,50 M Freestyle,SCM,M,50-54,28.47,Stuart B Muirhead,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,M,50-54,31.01,John R Hardin,,2016 November Classic,2016,2
+COOG,50 M Freestyle,SCM,M,50-54,32.57,John M Keen,,2016 November Classic,2016,3
+TFMS,100 M Freestyle,SCM,M,50-54,1:04.05,Stuart B Muirhead,,2016 November Classic,2016,1
+WMST,100 M Freestyle,SCM,M,50-54,1:07.99,Carlos Calderon,,2016 November Classic,2016,2
+WMST,100 M Freestyle,SCM,M,50-54,1:09.45,John R Hardin,,2016 November Classic,2016,3
+COOG,100 M Freestyle,SCM,M,50-54,1:09.93,John M Keen,,2016 November Classic,2016,4
+TFMS,200 M Freestyle,SCM,M,50-54,2:18.17,Stuart B Muirhead,,2016 November Classic,2016,1
+WMST,200 M Freestyle,SCM,M,50-54,2:29.75,Carlos Calderon,,2016 November Classic,2016,2
+WMST,400 M Freestyle,SCM,M,50-54,5:26.68,Carlos Calderon,,2016 November Classic,2016,1
+COOG,400 M Freestyle,SCM,M,50-54,5:35.31,John M Keen,,2016 November Classic,2016,2
+COOG,800 M Freestyle,SCM,M,50-54,11:31.56,John M Keen,,2016 November Classic,2016,1
+TFMS,1500 M Freestyle,SCM,M,50-54,19:57.15,Stuart B Muirhead,,2016 November Classic,2016,1
+TFMS,50 M Backstroke,SCM,M,50-54,33.85,Stuart B Muirhead,,2016 November Classic,2016,1
+WMST,50 M Backstroke,SCM,M,50-54,36.48,John R Hardin,,2016 November Classic,2016,2
+WMST,100 M Backstroke,SCM,M,50-54,1:20.53,John R Hardin,,2016 November Classic,2016,1
+WMST,50 M Breaststroke,SCM,M,50-54,40.94,John R Hardin,,2016 November Classic,2016,1
+COOG,50 M Breaststroke,SCM,M,50-54,49.31,John M Keen,,2016 November Classic,2016,2
+WMST,200 M Breaststroke,SCM,M,50-54,3:12.87,Carlos Calderon,,2016 November Classic,2016,1
+TFMS,50 M Butterfly,SCM,M,50-54,31.96,Stuart B Muirhead,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,M,50-54,33.60,John R Hardin,,2016 November Classic,2016,2
+COOG,50 M Butterfly,SCM,M,50-54,39.39,John M Keen,,2016 November Classic,2016,3
+TFMS,100 M Individual Medley,SCM,M,50-54,1:11.83,Stuart B Muirhead,,2016 November Classic,2016,1
+TFMS,200 M Individual Medley,SCM,M,50-54,2:45.01,Stuart B Muirhead,,2016 November Classic,2016,1
+RICE,50 M Freestyle,SCM,M,55-59,25.63,Bruce C Kone,,Canadian Masters Swimming Championships,2016,1
+RICE,50 M Freestyle,SCM,M,55-59,26.56,David M Guthrie,,Rowdy Gaines Masters Classic VIII,2016,2
+WMST,50 M Freestyle,SCM,M,55-59,27.88,Francisco J Godoy,,2016 November Classic,2016,3
+SSSM,50 M Freestyle,SCM,M,55-59,31.90,Stuart Bernau,,2016 November Classic,2016,4
+UC25,100 M Freestyle,SCM,M,55-59,1:03.47,Andreas A Lorenz,,2016 November Classic,2016,1
+WMST,100 M Freestyle,SCM,M,55-59,1:08.36,Francisco J Godoy,,2016 November Classic,2016,2
+SSSM,100 M Freestyle,SCM,M,55-59,1:12.08,Stuart Bernau,,2016 November Classic,2016,3
+WMST,100 M Freestyle,SCM,M,55-59,1:18.83,Mark D Hanlon,,2016 November Classic,2016,4
+UC25,200 M Freestyle,SCM,M,55-59,2:18.94,Andreas A Lorenz,,2016 November Classic,2016,1
+SWYM,200 M Freestyle,SCM,M,55-59,2:28.63,Russell L Hubbard,,2016 November Classic,2016,2
+WMST,200 M Freestyle,SCM,M,55-59,2:46.82,Mark D Hanlon,,2016 November Classic,2016,3
+WMST,200 M Freestyle,SCM,M,55-59,2:57.52,Doug Allen,,2016 November Classic,2016,4
+WMST,400 M Freestyle,SCM,M,55-59,6:09.24,Mark D Hanlon,,2016 November Classic,2016,1
+WMST,400 M Freestyle,SCM,M,55-59,6:18.59,Doug Allen,,2016 November Classic,2016,2
+WMST,800 M Freestyle,SCM,M,55-59,12:42.07,Doug Allen,,2016 November Classic,2016,1
+WMST,800 M Freestyle,SCM,M,55-59,12:47.24,Mark D Hanlon,,2016 November Classic,2016,2
+UC25,1500 M Freestyle,SCM,M,55-59,19:32.87,Andreas A Lorenz,,2016 November Classic,2016,1
+WMST,1500 M Freestyle,SCM,M,55-59,23:57.15,Doug Allen,,2016 November Classic,2016,2
+WMST,1500 M Freestyle,SCM,M,55-59,24:20.95,Mark D Hanlon,,2016 November Classic,2016,3
+RICE,50 M Backstroke,SCM,M,55-59,29.56,Bruce C Kone,,Canadian Masters Swimming Championships,2016,1
+WMST,200 M Backstroke,SCM,M,55-59,4:01.44,Doug Allen,,2016 November Classic,2016,1
+RICE,50 M Breaststroke,SCM,M,55-59,30.37,David M Guthrie,,Rowdy Gaines Masters Classic VIII,2016,1
+RICE,50 M Breaststroke,SCM,M,55-59,31.94,Bruce C Kone,,Canadian Masters Swimming Championships,2016,2
+WMST,50 M Breaststroke,SCM,M,55-59,38.11,Francisco J Godoy,,2016 November Classic,2016,3
+RICE,100 M Breaststroke,SCM,M,55-59,1:06.80,David M Guthrie,,Rowdy Gaines Masters Classic VIII,2016,1
+WMST,100 M Breaststroke,SCM,M,55-59,1:26.76,Francisco J Godoy,,2016 November Classic,2016,2
+RICE,200 M Breaststroke,SCM,M,55-59,2:27.27,David M Guthrie,,Rowdy Gaines Masters Classic VIII,2016,1
+RICE,50 M Butterfly,SCM,M,55-59,26.91,Bruce C Kone,,Canadian Masters Swimming Championships,2016,1
+SSSM,50 M Butterfly,SCM,M,55-59,33.52,Stuart Bernau,,2016 November Classic,2016,2
+WMST,50 M Butterfly,SCM,M,55-59,37.57,Francisco J Godoy,,2016 November Classic,2016,3
+RICE,100 M Butterfly,SCM,M,55-59,1:02.86,Bruce C Kone,,Canadian Masters Swimming Championships,2016,1
+SWYM,100 M Butterfly,SCM,M,55-59,1:16.19,Russell L Hubbard,,2016 November Classic,2016,2
+RICE,100 M Individual Medley,SCM,M,55-59,1:04.53,David M Guthrie,,Rowdy Gaines Masters Classic VIII,2016,1
+RICE,100 M Individual Medley,SCM,M,55-59,1:05.18,Bruce C Kone,,Canadian Masters Swimming Championships,2016,2
+UC25,100 M Individual Medley,SCM,M,55-59,1:14.15,Andreas A Lorenz,,2016 November Classic,2016,3
+WMST,100 M Individual Medley,SCM,M,55-59,1:20.18,Francisco J Godoy,,2016 November Classic,2016,4
+SSSM,100 M Individual Medley,SCM,M,55-59,1:22.27,Stuart Bernau,,2016 November Classic,2016,5
+WMST,100 M Individual Medley,SCM,M,55-59,1:33.77,Mark D Hanlon,,2016 November Classic,2016,6
+RICE,200 M Individual Medley,SCM,M,55-59,2:25.50,David M Guthrie,,Rowdy Gaines Masters Classic VIII,2016,1
+UC25,200 M Individual Medley,SCM,M,55-59,2:43.79,Andreas A Lorenz,,2016 November Classic,2016,2
+SSSM,200 M Individual Medley,SCM,M,55-59,3:20.43,Stuart Bernau,,2016 November Classic,2016,3
+UC25,50 M Freestyle,SCM,M,60-64,32.87,Richard L Bergmark,,Dallas Aquatic Masters Fall Short Course Meters Meet,2016,1
+UC25,50 M Freestyle,SCM,M,60-64,33.77,Richard E Flato,,2016 November Classic,2016,2
+WMST,100 M Freestyle,SCM,M,60-64,1:09.23,Niels U Wolfhagen,,2016 November Classic,2016,1
+UC25,100 M Freestyle,SCM,M,60-64,1:18.45,Richard E Flato,,2016 November Classic,2016,2
+WMST,200 M Freestyle,SCM,M,60-64,2:28.79,Niels U Wolfhagen,,2016 November Classic,2016,1
+UC25,200 M Freestyle,SCM,M,60-64,2:58.19,Richard E Flato,,2016 November Classic,2016,2
+WMST,400 M Freestyle,SCM,M,60-64,5:20.99,Niels U Wolfhagen,,2016 November Classic,2016,1
+UC25,400 M Freestyle,SCM,M,60-64,6:42.34,Richard E Flato,,2016 November Classic,2016,2
+WMST,800 M Freestyle,SCM,M,60-64,11:01.44,Niels U Wolfhagen,,2016 November Classic,2016,1
+UC25,800 M Freestyle,SCM,M,60-64,13:30.02,Richard E Flato,,2016 November Classic,2016,2
+UC25,1500 M Freestyle,SCM,M,60-64,25:38.21,Richard E Flato,,2016 November Classic,2016,1
+UC25,50 M Breaststroke,SCM,M,60-64,46.49,Richard E Flato,,2016 November Classic,2016,1
+UC25,50 M Butterfly,SCM,M,60-64,40.12,Richard E Flato,,2016 November Classic,2016,1
+UC25,100 M Individual Medley,SCM,M,60-64,1:35.06,Richard E Flato,,2016 November Classic,2016,1
+UC25,200 M Individual Medley,SCM,M,60-64,3:47.04,Richard E Flato,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,M,65-69,29.81,Bruce W Rollins,,2016 November Classic,2016,1
+WMST,100 M Freestyle,SCM,M,65-69,1:05.72,Bruce W Rollins,,Southern Masters Swimming Championship Short Course Meters,2016,1
+DADS,200 M Freestyle,SCM,M,65-69,3:15.36,Lloyd W Jones,,2016 November Classic,2016,1
+DADS,400 M Freestyle,SCM,M,65-69,6:50.89,Lloyd W Jones,,2016 November Classic,2016,1
+RICE,800 M Freestyle,SCM,M,65-69,11:57.91,Randy D Ernst,,2016 November Classic,2016,1
+DADS,800 M Freestyle,SCM,M,65-69,14:06.68,Lloyd W Jones,,2016 November Classic,2016,2
+DADS,1500 M Freestyle,SCM,M,65-69,26:35.05,Lloyd W Jones,,2016 November Classic,2016,1
+WMST,50 M Backstroke,SCM,M,65-69,36.54,Greg J Tharp,,2016 November Classic,2016,1
+WMST,100 M Backstroke,SCM,M,65-69,1:17.90,Greg J Tharp,,2016 November Classic,2016,1
+WMST,50 M Breaststroke,SCM,M,65-69,39.73,Bruce W Rollins,,2016 November Classic,2016,1
+WMST,100 M Breaststroke,SCM,M,65-69,1:33.61,Bruce W Rollins,,2016 November Classic,2016,1
+WMST,50 M Butterfly,SCM,M,65-69,33.22,Greg J Tharp,,2016 November Classic,2016,1
+WMST,200 M Butterfly,SCM,M,65-69,3:12.19,Bruce W Rollins,,Southern Masters Swimming Championship Short Course Meters,2016,1
+RICE,100 M Individual Medley,SCM,M,65-69,1:27.86,Randy D Ernst,,2016 November Classic,2016,1
+WMST,400 M Individual Medley,SCM,M,65-69,6:29.02,Bruce W Rollins,,Southern Masters Swimming Championship Short Course Meters,2016,1
+RICE,50 M Freestyle,SCM,M,70-74,32.59,Rog Hardy,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,M,70-74,33.73,Thomas D Boak,,2016 November Classic,2016,2
+RICE,100 M Freestyle,SCM,M,70-74,1:15.64,Rog Hardy,,2016 November Classic,2016,1
+RICE,200 M Freestyle,SCM,M,70-74,2:49.05,Rog Hardy,,2016 November Classic,2016,1
+RICE,400 M Freestyle,SCM,M,70-74,6:06.04,Rog Hardy,,2016 November Classic,2016,1
+WMST,50 M Backstroke,SCM,M,70-74,41.51,Thomas D Boak,,2016 November Classic,2016,1
+RICE,50 M Backstroke,SCM,M,70-74,41.59,Rog Hardy,,2016 November Classic,2016,2
+WMST,100 M Backstroke,SCM,M,70-74,1:31.53,Thomas D Boak,,2016 November Classic,2016,1
+WMST,50 M Breaststroke,SCM,M,70-74,42.69,Thomas D Boak,,2016 November Classic,2016,1
+WMST,100 M Breaststroke,SCM,M,70-74,1:37.97,Thomas D Boak,,2016 November Classic,2016,1
+RICE,100 M Breaststroke,SCM,M,70-74,1:38.83,Rog Hardy,,2016 November Classic,2016,2
+RICE,200 M Breaststroke,SCM,M,70-74,3:35.50,Rog Hardy,,2016 November Classic,2016,1
+RICE,200 M Individual Medley,SCM,M,70-74,3:25.92,Rog Hardy,,2016 November Classic,2016,1
+RICE,400 M Individual Medley,SCM,M,70-74,7:25.17,Rog Hardy,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,M,80-84,36.79,Bob Bailie,,2016 November Classic,2016,1
+WMST,100 M Freestyle,SCM,M,80-84,1:29.40,Bob Bailie,,2016 November Classic,2016,1
+COOG,200 M Freestyle,SCM,M,80-84,4:23.52,James W Rosborough,,2016 November Classic,2016,1
+COOG,400 M Freestyle,SCM,M,80-84,9:27.52,James W Rosborough,,2016 November Classic,2016,1
+COOG,1500 M Freestyle,SCM,M,80-84,36:07.86,James W Rosborough,,2016 November Classic,2016,1
+WMST,50 M Breaststroke,SCM,M,80-84,58.08,Bob Bailie,,2016 November Classic,2016,1
+COOG,50 M Breaststroke,SCM,M,80-84,1:00.47,James W Rosborough,,2016 November Classic,2016,2
+COOG,100 M Breaststroke,SCM,M,80-84,2:14.38,James W Rosborough,,2016 November Classic,2016,1
+COOG,200 M Breaststroke,SCM,M,80-84,4:44.51,James W Rosborough,,2016 November Classic,2016,1
+WMST,100 M Individual Medley,SCM,M,80-84,1:50.10,Bob Bailie,,2016 November Classic,2016,1
+WMST,50 M Freestyle,SCM,M,90-94,1:12.76,Baker L Shannon,,2016 USA Masters Games Swimming Competition,2016,1
+WMST,100 M Freestyle,SCM,M,90-94,3:16.68,Baker L Shannon,,2016 USA Masters Games Swimming Competition,2016,1
+WMST,50 M Backstroke,SCM,M,90-94,1:35.13,Baker L Shannon,,2016 USA Masters Games Swimming Competition,2016,1
+WMST,50 M Breaststroke,SCM,M,90-94,1:33.90,Baker L Shannon,,2016 USA Masters Games Swimming Competition,2016,1
+WMST,100 M Breaststroke,SCM,M,90-94,3:40.73,Baker L Shannon,,2016 USA Masters Games Swimming Competition,2016,1
+WMST,100 M Individual Medley,SCM,M,90-94,4:42.95,Baker L Shannon,,2016 USA Masters Games Swimming Competition,2016,1

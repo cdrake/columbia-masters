@@ -1,0 +1,450 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 Y Freestyle,SCY,W,18-24,27.54,Anne J Scholl,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Freestyle,SCY,W,18-24,32.00,Kaitlin M Petersen,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,50 Y Freestyle,SCY,W,18-24,34.06,Liz Ury,,2009 CT Masters SCY Championships,2009,3
+CONN,100 Y Freestyle,SCY,W,18-24,1:01.21,Anne Scholl,,9th Annual Turkey Time Meet,2009,1
+CONN,200 Y Freestyle,SCY,W,18-24,2:28.45,Kaitlin M Petersen,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,W,18-24,6:18.35,Anne J Scholl,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,W,18-24,6:36.28,Kaitlin M Petersen,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,50 Y Breaststroke,SCY,W,18-24,35.36,Jen Superson,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Breaststroke,SCY,W,18-24,40.13,Liz Ury,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Breaststroke,SCY,W,18-24,1:17.79,Jen Superson,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Butterfly,SCY,W,18-24,31.04,Jen Superson,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Butterfly,SCY,W,18-24,31.59,Anne Scholl,,9th Annual Turkey Time Meet,2009,2
+CONN,50 Y Butterfly,SCY,W,18-24,42.97,Liz Ury,,2009 CT Masters SCY Championships,2009,3
+CONN,200 Y Butterfly,SCY,W,18-24,2:45.91,Jen Superson,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Individual Medley,SCY,W,18-24,1:10.67,Jen Superson,,NE 2009 SCY Championships,2009,1
+CONN,200 Y Individual Medley,SCY,W,18-24,2:35.80,Jen Superson,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Freestyle,SCY,W,25-29,31.84,Melanie L Persich,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Freestyle,SCY,W,25-29,1:09.04,Melanie L Persich,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Freestyle,SCY,W,25-29,2:27.24,Melanie L Persich,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,W,25-29,6:25.35,Melanie L Persich,,C.W. Post Swim Meet,2009,1
+CONN,50 Y Backstroke,SCY,W,25-29,37.36,Melanie L Persich,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Backstroke,SCY,W,25-29,1:19.10,Melanie L Persich,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Butterfly,SCY,W,25-29,35.04,Melanie L Persich,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Freestyle,SCY,W,30-34,1:03.32,Christine Capizzi,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,200 Y Freestyle,SCY,W,30-34,2:19.74,Christine Capizzi,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Breaststroke,SCY,W,30-34,38.40,Christine Capizzi,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,100 Y Breaststroke,SCY,W,30-34,1:22.78,Christine Capizzi,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,200 Y Breaststroke,SCY,W,30-34,3:00.13,Christine Capizzi,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Individual Medley,SCY,W,30-34,1:14.87,Christine Capizzi,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,50 Y Freestyle,SCY,W,35-39,28.97,Nicole C Ballarini,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Freestyle,SCY,W,35-39,29.53,Sarah J Bednar,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,50 Y Freestyle,SCY,W,35-39,30.14,Kate M De Simone,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,50 Y Freestyle,SCY,W,35-39,36.37,Allyson E Sega,,9th Annual Turkey Time Meet,2009,4
+CONN,100 Y Freestyle,SCY,W,35-39,1:05.89,Sarah J Bednar,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Freestyle,SCY,W,35-39,1:06.71,Kate M De Simone,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Freestyle,SCY,W,35-39,2:21.75,Kate M De Simone,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Freestyle,SCY,W,35-39,2:23.21,Nicole C Ballarini,,9th Annual Turkey Time Meet,2009,2
+CONN,500 Y Freestyle,SCY,W,35-39,6:21.10,Sarah J Bednar,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,W,35-39,6:53.83,Nicole C Ballarini,,9th Annual Turkey Time Meet,2009,2
+CONN,1000 Y Freestyle,SCY,W,35-39,13:05.00,Sarah J Bednar,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Breaststroke,SCY,W,35-39,51.03,Allyson E Sega,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Breaststroke,SCY,W,35-39,1:30.66,Kate M De Simone,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Butterfly,SCY,W,35-39,34.24,Sarah J Bednar,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Butterfly,SCY,W,35-39,40.84,Allyson E Sega,,9th Annual Turkey Time Meet,2009,2
+CONN,100 Y Butterfly,SCY,W,35-39,1:14.60,Sarah J Bednar,,Spring Fling Yard Meet,2009,1
+CONN,100 Y Individual Medley,SCY,W,35-39,1:17.15,Sarah J Bednar,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Individual Medley,SCY,W,35-39,1:19.53,Kate M De Simone,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Individual Medley,SCY,W,35-39,2:40.47,Sarah J Bednar,,Spring Fling Yard Meet,2009,1
+CONN,50 Y Freestyle,SCY,W,40-44,25.48,Jacque J Lang,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Freestyle,SCY,W,40-44,28.81,Susan L Parra,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Freestyle,SCY,W,40-44,30.14,Susie Galley,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,50 Y Freestyle,SCY,W,40-44,30.97,Charlene S Puska,,2009 CT Masters SCY Championships,2009,4
+UNAT,50 Y Freestyle,SCY,W,40-44,32.53,Samantha Tilley,,Swim Strong-Live Long Adult Mini Meet,2009,5
+CONN,100 Y Freestyle,SCY,W,40-44,55.53,Jacque J Lang,,2009 YMCA Masters National Championship,2009,1
+UNAT,100 Y Freestyle,SCY,W,40-44,1:02.99,Eileen M Lawrence,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Freestyle,SCY,W,40-44,1:05.85,Susan L Parra,,2009 CT Masters SCY Championships,2009,3
+CONN,100 Y Freestyle,SCY,W,40-44,1:08.37,Susie Galley,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+UNAT,100 Y Freestyle,SCY,W,40-44,1:15.58,Jenn Hermann,,9th Annual Turkey Time Meet,2009,5
+CONN,200 Y Freestyle,SCY,W,40-44,2:01.38,Jacque J Lang,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Freestyle,SCY,W,40-44,2:19.92,Linda K Lepeak,,2009 CT Masters SCY Championships,2009,2
+CONN,200 Y Freestyle,SCY,W,40-44,2:27.85,Charlene S Puska,,2009 CT Masters SCY Championships,2009,3
+CONN,200 Y Freestyle,SCY,W,40-44,2:29.74,Susie Galley,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+CONN,200 Y Freestyle,SCY,W,40-44,2:49.67,Sian Nimkoff,,9th Annual Turkey Time Meet,2009,5
+UNAT,500 Y Freestyle,SCY,W,40-44,7:28.42,Jenn Hermann,,9th Annual Turkey Time Meet,2009,1
+CONN,500 Y Freestyle,SCY,W,40-44,9:21.56,Carolyn Daniels,,NE 2009 SCY Championships,2009,2
+CONN,1000 Y Freestyle,SCY,W,40-44,11:17.67,Galen D Rinaldi,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Backstroke,SCY,W,40-44,37.57,Susie Galley,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+UNAT,50 Y Backstroke,SCY,W,40-44,40.15,Samantha Tilley,,Swim Strong-Live Long Adult Mini Meet,2009,2
+CONN,50 Y Backstroke,SCY,W,40-44,50.99,Carolyn Daniels,,9th Annual Turkey Time Meet,2009,3
+CONN,100 Y Backstroke,SCY,W,40-44,1:10.58,Galen D Rinaldi,,2009 CT Masters SCY Championships,2009,1
+UNAT,100 Y Backstroke,SCY,W,40-44,1:15.89,Eileen M Lawrence,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Breaststroke,SCY,W,40-44,45.25,Carolyn Daniels,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Breaststroke,SCY,W,40-44,1:21.95,Sian Nimkoff,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+UNAT,100 Y Breaststroke,SCY,W,40-44,1:39.52,Jenn Hermann,,9th Annual Turkey Time Meet,2009,2
+CONN,50 Y Butterfly,SCY,W,40-44,29.44,Jacque J Lang,,2009 YMCA Masters National Championship,2009,1
+UNAT,50 Y Butterfly,SCY,W,40-44,31.53,Eileen M Lawrence,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Butterfly,SCY,W,40-44,32.26,Sian Nimkoff,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,50 Y Butterfly,SCY,W,40-44,32.93,Linda K Lepeak,,2009 CT Masters SCY Championships,2009,4
+CONN,50 Y Butterfly,SCY,W,40-44,35.38,Charlene S Puska,,2009 CT Masters SCY Championships,2009,5
+UNAT,50 Y Butterfly,SCY,W,40-44,38.90,Samantha Tilley,,Swim Strong-Live Long Adult Mini Meet,2009,6
+CONN,50 Y Butterfly,SCY,W,40-44,39.07,Susie Galley,,Westport Y 23rd Annual Ground Hog Meet,2009,7
+CONN,50 Y Butterfly,SCY,W,40-44,51.55,Carolyn Daniels,,9th Annual Turkey Time Meet,2009,8
+CONN,100 Y Butterfly,SCY,W,40-44,1:04.84,Galen D Rinaldi,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Butterfly,SCY,W,40-44,1:13.60,Linda K Lepeak,,2009 CT Masters SCY Championships,2009,2
+CONN,200 Y Butterfly,SCY,W,40-44,2:47.95,Sian Nimkoff,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Butterfly,SCY,W,40-44,3:06.43,Charlene S Puska,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Individual Medley,SCY,W,40-44,1:04.51,Jacque J Lang,,2009 YMCA Masters National Championship,2009,1
+UNAT,100 Y Individual Medley,SCY,W,40-44,1:10.72,Eileen M Lawrence,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Individual Medley,SCY,W,40-44,1:20.24,Susan L Parra,,2009 CT Masters SCY Championships,2009,3
+UNAT,100 Y Individual Medley,SCY,W,40-44,1:29.71,Jenn Hermann,,9th Annual Turkey Time Meet,2009,4
+CONN,100 Y Individual Medley,SCY,W,40-44,1:41.17,Carolyn Daniels,,NE 2009 SCY Championships,2009,5
+CONN,200 Y Individual Medley,SCY,W,40-44,2:26.58,Galen D Rinaldi,,2009 CT Masters SCY Championships,2009,1
+UNAT,200 Y Individual Medley,SCY,W,40-44,2:36.74,Eileen M Lawrence,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Freestyle,SCY,W,45-49,25.85,Sheila M Stolarski,,2009 YMCA Masters National Championship - Splits,2009,1
+CONN,50 Y Freestyle,SCY,W,45-49,26.44,Pamela H Moss,,2009 YMCA Masters National Championship,2009,2
+CONN,50 Y Freestyle,SCY,W,45-49,30.15,Rae Ann Rutkowski,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,50 Y Freestyle,SCY,W,45-49,30.77,Colleen Brandon,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+CONN,50 Y Freestyle,SCY,W,45-49,30.96,Kathleen A May,,Westport Y 23rd Annual Ground Hog Meet,2009,5
+UNAT,50 Y Freestyle,SCY,W,45-49,35.05,Lynn Stoddard,,9th Annual Turkey Time Meet,2009,6
+CONN,100 Y Freestyle,SCY,W,45-49,59.33,Pamela H Moss,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Freestyle,SCY,W,45-49,1:08.70,Kathleen A May,,9th Annual Turkey Time Meet,2009,2
+UNAT,100 Y Freestyle,SCY,W,45-49,1:14.80,Lynn Stoddard,,9th Annual Turkey Time Meet,2009,3
+CONN,200 Y Freestyle,SCY,W,45-49,2:11.96,Pamela H Moss,,2009 YMCA Masters National Championship,2009,1
+CONN,500 Y Freestyle,SCY,W,45-49,6:11.41,Pamela H Moss,,2009 YMCA Masters National Championship,2009,1
+UNAT,500 Y Freestyle,SCY,W,45-49,8:05.58,Lynn Stoddard,,9th Annual Turkey Time Meet,2009,2
+CONN,50 Y Backstroke,SCY,W,45-49,29.03,Sheila M Stolarski,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Backstroke,SCY,W,45-49,37.30,Colleen Brandon,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Backstroke,SCY,W,45-49,1:01.23,Sheila M Stolarski,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Backstroke,SCY,W,45-49,2:12.43,Sheila M Stolarski,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Breaststroke,SCY,W,45-49,37.17,Markley Rizzi,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Breaststroke,SCY,W,45-49,37.50,Sian Nimkoff,,2009 YMCA Masters National Championship,2009,2
+CONN,50 Y Breaststroke,SCY,W,45-49,38.72,Rae Ann Rutkowski,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,50 Y Breaststroke,SCY,W,45-49,39.86,Kathleen A May,,NE 2009 SCY Championships,2009,4
+UNAT,50 Y Breaststroke,SCY,W,45-49,41.96,Lynn Stoddard,,9th Annual Turkey Time Meet,2009,5
+CONN,50 Y Breaststroke,SCY,W,45-49,42.01,Colleen Brandon,,Westport Y 23rd Annual Ground Hog Meet,2009,6
+CONN,100 Y Breaststroke,SCY,W,45-49,1:20.58,Markley Rizzi,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Breaststroke,SCY,W,45-49,1:26.73,Rae Ann Rutkowski,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Breaststroke,SCY,W,45-49,1:29.79,Kathleen A May,,9th Annual Turkey Time Meet,2009,3
+UNAT,100 Y Breaststroke,SCY,W,45-49,1:34.53,Lynn Stoddard,,9th Annual Turkey Time Meet,2009,4
+CONN,200 Y Breaststroke,SCY,W,45-49,2:54.72,Sian Nimkoff,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,W,45-49,28.11,Sheila M Stolarski,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,W,45-49,30.78,Sian Nimkoff,,2009 YMCA Masters National Championship,2009,2
+CONN,50 Y Butterfly,SCY,W,45-49,33.73,Kathleen A May,,NE 2009 SCY Championships,2009,3
+CONN,50 Y Butterfly,SCY,W,45-49,35.60,Colleen Brandon,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+CONN,100 Y Butterfly,SCY,W,45-49,1:08.58,Sian Nimkoff,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Butterfly,SCY,W,45-49,1:16.44,Kathleen A May,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Butterfly,SCY,W,45-49,2:38.60,Sian Nimkoff,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:13.01,Markley Rizzi,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:17.67,Kathleen A May,,NE 2009 SCY Championships,2009,2
+CONN,100 Y Individual Medley,SCY,W,45-49,1:19.01,Colleen Brandon,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,100 Y Individual Medley,SCY,W,45-49,1:19.61,Rae Ann Rutkowski,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+CONN,200 Y Individual Medley,SCY,W,45-49,2:44.64,Sian Nimkoff,,Spring Fling Yard Meet,2009,1
+CONN,200 Y Individual Medley,SCY,W,45-49,2:47.51,Kathleen A May,,NE 2009 SCY Championships,2009,2
+CONN,50 Y Freestyle,SCY,W,50-54,28.99,Markley Rizzi,,2009 YMCA Masters National Championship,2009,1
+UNAT,50 Y Freestyle,SCY,W,50-54,32.61,Petie Connolly,,9th Annual Turkey Time Meet,2009,2
+UNAT,100 Y Freestyle,SCY,W,50-54,1:11.13,Petie Connolly,,9th Annual Turkey Time Meet,2009,1
+UNAT,200 Y Freestyle,SCY,W,50-54,2:40.67,Petie Connolly,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Breaststroke,SCY,W,50-54,36.50,Markley Rizzi,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Breaststroke,SCY,W,50-54,1:19.31,Markley Rizzi,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Breaststroke,SCY,W,50-54,2:52.90,Markley Rizzi,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,W,50-54,31.57,Markley Rizzi,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:09.93,Markley Rizzi,,2009 YMCA Masters National Championship,2009,1
+UNAT,50 Y Freestyle,SCY,W,55-59,31.34,Petie Connolly,,2009 USMS National Short Course Championships,2009,1
+UNAT,50 Y Freestyle,SCY,W,55-59,31.90,Jeri Hepworth,,9th Annual Turkey Time Meet,2009,2
+CONN,50 Y Freestyle,SCY,W,55-59,38.76,Sara L Schrager,,2009 YMCA Masters National Championship,2009,3
+CONN,50 Y Freestyle,SCY,W,55-59,40.96,Terry Wildrick,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+UNAT,100 Y Freestyle,SCY,W,55-59,1:09.33,Jeri Hepworth,,9th Annual Turkey Time Meet,2009,1
+UNAT,100 Y Freestyle,SCY,W,55-59,1:10.62,Petie Connolly,,2009 USMS National Short Course Championships,2009,2
+CONN,100 Y Freestyle,SCY,W,55-59,1:26.41,Sara L Schrager,,2009 YMCA Masters National Championship,2009,3
+CONN,100 Y Freestyle,SCY,W,55-59,1:26.99,Dinah Wells,,2009 CT Masters SCY Championships,2009,4
+CONN,100 Y Freestyle,SCY,W,55-59,1:30.21,Terry Wildrick,,Westport Y 23rd Annual Ground Hog Meet,2009,5
+UNAT,200 Y Freestyle,SCY,W,55-59,2:40.65,Petie Connolly,,2009 USMS National Short Course Championships,2009,1
+UNAT,200 Y Freestyle,SCY,W,55-59,2:41.78,Jeri Hepworth,,9th Annual Turkey Time Meet,2009,2
+CONN,200 Y Freestyle,SCY,W,55-59,3:17.37,Terry Wildrick,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+UNAT,500 Y Freestyle,SCY,W,55-59,6:57.66,Petie Connolly,,2009 USMS National Short Course Championships,2009,1
+UNAT,500 Y Freestyle,SCY,W,55-59,7:22.79,Jeri Hepworth,,9th Annual Turkey Time Meet,2009,2
+UNAT,50 Y Breaststroke,SCY,W,55-59,42.87,Petie Connolly,,2009 USMS National Short Course Championships,2009,1
+CONN,100 Y Breaststroke,SCY,W,55-59,1:51.33,Sara L Schrager,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,W,55-59,48.72,Dinah Wells,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Individual Medley,SCY,W,55-59,1:43.26,Sara L Schrager,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Individual Medley,SCY,W,55-59,3:39.54,Dinah Wells,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Freestyle,SCY,W,60-64,30.63,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Freestyle,SCY,W,60-64,41.71,Lynne M Zareski,,2009 YMCA Masters National Championship,2009,2
+CONN,100 Y Freestyle,SCY,W,60-64,1:06.18,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Freestyle,SCY,W,60-64,1:28.88,Janit P Romayko,,9th Annual Turkey Time Meet,2009,2
+CONN,100 Y Freestyle,SCY,W,60-64,1:30.45,Lynne M Zareski,,2009 YMCA Masters National Championship,2009,3
+CONN,200 Y Freestyle,SCY,W,60-64,2:31.87,Christie M Hayes,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Freestyle,SCY,W,60-64,3:20.79,Janit P Romayko,,9th Annual Turkey Time Meet,2009,2
+CONN,500 Y Freestyle,SCY,W,60-64,8:43.76,Lynne M Zareski,,2009 YMCA Masters National Championship,2009,1
+CONN,1000 Y Freestyle,SCY,W,60-64,17:33.44,Lynne M Zareski,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Breaststroke,SCY,W,60-64,37.47,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Breaststroke,SCY,W,60-64,45.96,Janit P Romayko,,9th Annual Turkey Time Meet,2009,2
+CONN,100 Y Breaststroke,SCY,W,60-64,1:23.28,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Breaststroke,SCY,W,60-64,1:38.48,Janit P Romayko,,9th Annual Turkey Time Meet,2009,2
+CONN,200 Y Breaststroke,SCY,W,60-64,3:07.00,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,200 Y Breaststroke,SCY,W,60-64,3:38.77,Janit P Romayko,,9th Annual Turkey Time Meet,2009,2
+CONN,100 Y Individual Medley,SCY,W,60-64,1:17.97,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,200 Y Individual Medley,SCY,W,60-64,2:51.64,Christie M Hayes,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Freestyle,SCY,W,65-69,1:30.20,Ann Louise Onton,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Freestyle,SCY,W,65-69,4:19.85,Ann Louise Onton,,9th Annual Turkey Time Meet,2009,1
+CONN,500 Y Freestyle,SCY,W,65-69,9:17.39,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,1000 Y Freestyle,SCY,W,65-69,20:04.81,Ann Louise Onton,,2009 CT Masters SCY Championships,2009,1
+CONN,1650 Y Freestyle,SCY,W,65-69,33:33.38,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,W,65-69,43.29,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Butterfly,SCY,W,65-69,1:44.79,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Butterfly,SCY,W,65-69,4:03.79,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,W,65-69,1:43.58,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Individual Medley,SCY,W,65-69,4:00.32,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+CONN,400 Y Individual Medley,SCY,W,65-69,8:22.78,Ann Louise Onton,,2009 YMCA Masters National Championship,2009,1
+UNAT,50 Y Freestyle,SCY,M,18-24,24.23,Jeffrey C Bonaccorso,,9th Annual Turkey Time Meet,2009,1
+UNAT,100 Y Individual Medley,SCY,M,18-24,1:25.06,Jeffrey C Bonaccorso,,9th Annual Turkey Time Meet,2009,1
+UNAT,50 Y Backstroke,SCY,M,25-29,27.23,John Bartlet,,9th Annual Turkey Time Meet,2009,1
+UNAT,50 Y Breaststroke,SCY,M,25-29,28.86,John Bartlet,,2009 CT Masters SCY Championships,2009,1
+UNAT,100 Y Breaststroke,SCY,M,25-29,1:02.88,John Bartlet,,2009 CT Masters SCY Championships,2009,1
+UNAT,50 Y Butterfly,SCY,M,25-29,25.25,John Bartlet,,2009 CT Masters SCY Championships,2009,1
+UNAT,100 Y Individual Medley,SCY,M,25-29,56.58,John Bartlet,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Freestyle,SCY,M,30-34,24.66,Joshua Usdavin,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Freestyle,SCY,M,30-34,52.27,Bryan Melchionda,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,100 Y Freestyle,SCY,M,30-34,53.77,Joshua Usdavin,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Freestyle,SCY,M,30-34,54.43,Sean M Dowling,,NE 2009 SCY Championships,2009,3
+CONN,200 Y Freestyle,SCY,M,30-34,1:59.48,Bryan Melchionda,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,200 Y Freestyle,SCY,M,30-34,2:04.65,Sean M Dowling,,NE 2009 SCY Championships,2009,2
+CONN,50 Y Backstroke,SCY,M,30-34,29.16,Adam B Breiner,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Backstroke,SCY,M,30-34,1:04.17,Adam B Breiner,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Butterfly,SCY,M,30-34,26.47,Adam B Breiner,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Butterfly,SCY,M,30-34,1:05.07,Sean M Dowling,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Individual Medley,SCY,M,30-34,1:03.35,Adam B Breiner,,9th Annual Turkey Time Meet,2009,1
+CONN,200 Y Individual Medley,SCY,M,30-34,2:19.67,Joshua Usdavin,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Individual Medley,SCY,M,30-34,2:23.67,Sean M Dowling,,NE 2009 SCY Championships,2009,2
+CONN,50 Y Freestyle,SCY,M,35-39,26.45,Patrick L Good,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Freestyle,SCY,M,35-39,27.98,Richard J Bell,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,100 Y Freestyle,SCY,M,35-39,59.15,Patrick L Good,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Freestyle,SCY,M,35-39,1:02.12,Richard J Bell,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,200 Y Freestyle,SCY,M,35-39,2:24.97,Richard J Bell,,2009 CT Masters SCY Championships,2009,1
+CONN,500 Y Freestyle,SCY,M,35-39,6:37.79,Patrick L Good,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Breaststroke,SCY,M,35-39,34.21,Richard J Bell,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,100 Y Breaststroke,SCY,M,35-39,1:17.71,Richard J Bell,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Breaststroke,SCY,M,35-39,2:45.47,Richard J Bell,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,50 Y Butterfly,SCY,M,35-39,29.47,Patrick L Good,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Butterfly,SCY,M,35-39,31.78,Richard J Bell,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,100 Y Butterfly,SCY,M,35-39,1:11.97,Patrick L Good,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Butterfly,SCY,M,35-39,1:18.56,Richard J Bell,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Individual Medley,SCY,M,35-39,1:13.11,Richard J Bell,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,50 Y Freestyle,SCY,M,40-44,22.92,John C McDonough,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Freestyle,SCY,M,40-44,23.40,Robert Hazlett,,2009 CT Masters SCY Championships,2009,2
+UNAT,50 Y Freestyle,SCY,M,40-44,23.93,William L Ragatz,,Spring Fling Yard Meet,2009,3
+CONN,50 Y Freestyle,SCY,M,40-44,24.50,James R Savage,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,4
+CONN,50 Y Freestyle,SCY,M,40-44,24.53,Michael F Farrell,,2009 CT Masters SCY Championships,2009,5
+CRAZ,50 Y Freestyle,SCY,M,40-44,25.61,Bill D Berghoff,,9th Annual Turkey Time Meet,2009,6
+UNAT,50 Y Freestyle,SCY,M,40-44,26.65,John Myers,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,7
+CONN,50 Y Freestyle,SCY,M,40-44,30.94,Robert K Schechter,,C.W. Post Swim Meet,2009,8
+UNAT,50 Y Freestyle,SCY,M,40-44,32.23,Neil Marrinan,,9th Annual Turkey Time Meet,2009,9
+CONN,100 Y Freestyle,SCY,M,40-44,49.33,John C McDonough,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Freestyle,SCY,M,40-44,50.03,Myles G Lynch,,St. Patrick's Day Invite at Dynamo Swim Center,2009,2
+CONN,100 Y Freestyle,SCY,M,40-44,52.68,Robert Hazlett,,2009 CT Masters SCY Championships,2009,3
+UNAT,100 Y Freestyle,SCY,M,40-44,53.83,William L Ragatz,,Spring Fling Yard Meet,2009,4
+CONN,100 Y Freestyle,SCY,M,40-44,54.50,James R Savage,,Westport Y 23rd Annual Ground Hog Meet,2009,5
+CONN,100 Y Freestyle,SCY,M,40-44,55.39,Michael F Farrell,,2009 CT Masters SCY Championships,2009,6
+CRAZ,100 Y Freestyle,SCY,M,40-44,57.68,Bill D Berghoff,,Westport Y 23rd Annual Ground Hog Meet,2009,7
+CONN,100 Y Freestyle,SCY,M,40-44,58.70,Joseph H Kaufman,,Westport Y 23rd Annual Ground Hog Meet,2009,8
+UNAT,100 Y Freestyle,SCY,M,40-44,58.74,John Myers,,Westport Y 23rd Annual Ground Hog Meet,2009,9
+CONN,100 Y Freestyle,SCY,M,40-44,1:03.49,Owen E McCusker,,2009 CT Masters SCY Championships,2009,10
+UNAT,200 Y Freestyle,SCY,M,40-44,1:57.71,William L Ragatz,,Spring Fling Yard Meet,2009,1
+CRAZ,200 Y Freestyle,SCY,M,40-44,2:08.14,Bill D Berghoff,,2009 CT Masters SCY Championships,2009,2
+UNAT,200 Y Freestyle,SCY,M,40-44,2:09.49,John Myers,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,3
+CONN,200 Y Freestyle,SCY,M,40-44,2:10.21,Joseph H Kaufman,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+CONN,200 Y Freestyle,SCY,M,40-44,2:37.12,Robert Gerber,,9th Annual Turkey Time Meet,2009,5
+CONN,200 Y Freestyle,SCY,M,40-44,2:54.07,Mark A Locken,,9th Annual Turkey Time Meet,2009,6
+UNAT,500 Y Freestyle,SCY,M,40-44,5:28.51,William L Ragatz,,2009 CT Masters SCY Championships,2009,1
+CONN,500 Y Freestyle,SCY,M,40-44,5:59.23,Joseph H Kaufman,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+UNAT,500 Y Freestyle,SCY,M,40-44,6:02.62,John Myers,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,3
+UNAT,1000 Y Freestyle,SCY,M,40-44,11:23.92,William L Ragatz,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Backstroke,SCY,M,40-44,25.99,Jeff Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Backstroke,SCY,M,40-44,30.36,James R Savage,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,50 Y Backstroke,SCY,M,40-44,42.15,Robert K Schechter,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,3
+UNAT,50 Y Backstroke,SCY,M,40-44,43.44,Neil Marrinan,,9th Annual Turkey Time Meet,2009,4
+CONN,100 Y Backstroke,SCY,M,40-44,56.96,Jeff Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Backstroke,SCY,M,40-44,2:08.24,Jeff Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Backstroke,SCY,M,40-44,2:11.81,Gregory O Sargent,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Backstroke,SCY,M,40-44,2:37.12,Robert Gerber,,9th Annual Turkey Time Meet,2009,3
+UNAT,50 Y Breaststroke,SCY,M,40-44,31.03,William L Ragatz,,2009 CT Masters SCY Championships,2009,1
+CRAZ,50 Y Breaststroke,SCY,M,40-44,32.37,Bill D Berghoff,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Breaststroke,SCY,M,40-44,37.22,Robert Gerber,,9th Annual Turkey Time Meet,2009,3
+CONN,50 Y Breaststroke,SCY,M,40-44,37.41,Robert K Schechter,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,4
+UNAT,50 Y Breaststroke,SCY,M,40-44,41.52,Neil Marrinan,,9th Annual Turkey Time Meet,2009,5
+CONN,100 Y Breaststroke,SCY,M,40-44,1:06.93,Gregory O Sargent,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CRAZ,100 Y Breaststroke,SCY,M,40-44,1:11.65,Bill D Berghoff,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Breaststroke,SCY,M,40-44,1:15.86,Joseph H Kaufman,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,100 Y Breaststroke,SCY,M,40-44,1:16.27,Mark A Locken,,9th Annual Turkey Time Meet,2009,4
+CRAZ,200 Y Breaststroke,SCY,M,40-44,2:43.38,Bill D Berghoff,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Breaststroke,SCY,M,40-44,2:47.25,Joseph H Kaufman,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Breaststroke,SCY,M,40-44,2:54.07,Mark A Locken,,9th Annual Turkey Time Meet,2009,3
+CONN,50 Y Butterfly,SCY,M,40-44,24.04,Gregory O Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,M,40-44,27.38,Robert Hazlett,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Butterfly,SCY,M,40-44,28.30,Robert Gerber,,9th Annual Turkey Time Meet,2009,3
+CRAZ,50 Y Butterfly,SCY,M,40-44,28.31,Bill D Berghoff,,9th Annual Turkey Time Meet,2009,4
+CONN,50 Y Butterfly,SCY,M,40-44,28.93,Mark A Locken,,9th Annual Turkey Time Meet,2009,5
+CONN,50 Y Butterfly,SCY,M,40-44,30.46,Owen E McCusker,,2009 CT Masters SCY Championships,2009,6
+CONN,50 Y Butterfly,SCY,M,40-44,39.56,Robert K Schechter,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,7
+CONN,100 Y Butterfly,SCY,M,40-44,53.64,Gregory O Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Butterfly,SCY,M,40-44,57.46,Myles G Lynch,,St. Patrick's Day Invite at Dynamo Swim Center,2009,2
+CONN,100 Y Butterfly,SCY,M,40-44,1:01.16,Robert Hazlett,,2009 CT Masters SCY Championships,2009,3
+CONN,100 Y Butterfly,SCY,M,40-44,1:08.81,Mark A Locken,,9th Annual Turkey Time Meet,2009,4
+CONN,100 Y Individual Medley,SCY,M,40-44,54.89,Gregory O Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,M,40-44,58.85,Jeff Sargent,,2009 YMCA Masters National Championship,2009,2
+CONN,100 Y Individual Medley,SCY,M,40-44,1:04.61,James R Savage,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,3
+CRAZ,100 Y Individual Medley,SCY,M,40-44,1:04.83,Bill D Berghoff,,9th Annual Turkey Time Meet,2009,4
+CONN,100 Y Individual Medley,SCY,M,40-44,1:07.69,Robert Gerber,,9th Annual Turkey Time Meet,2009,5
+CONN,100 Y Individual Medley,SCY,M,40-44,1:10.17,Robert Hazlett,,2009 CT Masters SCY Championships,2009,6
+CONN,100 Y Individual Medley,SCY,M,40-44,1:16.59,Owen E McCusker,,2009 CT Masters SCY Championships,2009,7
+CONN,100 Y Individual Medley,SCY,M,40-44,1:31.09,Robert K Schechter,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,8
+UNAT,100 Y Individual Medley,SCY,M,40-44,1:38.60,Neil Marrinan,,9th Annual Turkey Time Meet,2009,9
+CONN,200 Y Individual Medley,SCY,M,40-44,2:01.99,Gregory O Sargent,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Individual Medley,SCY,M,40-44,2:05.77,Myles G Lynch,,St. Patrick's Day Invite at Dynamo Swim Center,2009,2
+CONN,50 Y Freestyle,SCY,M,45-49,24.13,Ted C Esselstyn,,2009 USMS National Short Course Championships,2009,1
+CONN,50 Y Freestyle,SCY,M,45-49,24.74,Mark T Schoenherr,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+UNAT,50 Y Freestyle,SCY,M,45-49,24.88,Steven C Pierce,,2009 CT Masters SCY Championships,2009,3
+UNAT,50 Y Freestyle,SCY,M,45-49,26.18,Rob A Nathan,,Westport Y 23rd Annual Ground Hog Meet,2009,4
+CONN,50 Y Freestyle,SCY,M,45-49,27.63,Sean J O'Connor,,2009 YMCA Masters National Championship,2009,5
+CONN,50 Y Freestyle,SCY,M,45-49,30.18,Jack J Driscoll,,2009 CT Masters SCY Championships,2009,6
+CONN,50 Y Freestyle,SCY,M,45-49,32.42,Daniel W Adamik,,9th Annual Turkey Time Meet,2009,7
+CONN,100 Y Freestyle,SCY,M,45-49,55.04,Mark T Schoenherr,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+UNAT,100 Y Freestyle,SCY,M,45-49,58.68,Rob A Nathan,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Freestyle,SCY,M,45-49,1:04.05,Sean J O'Connor,,2009 YMCA Masters National Championship,2009,3
+CONN,100 Y Freestyle,SCY,M,45-49,1:13.70,Daniel W Adamik,,9th Annual Turkey Time Meet,2009,4
+UNAT,200 Y Freestyle,SCY,M,45-49,2:08.34,Rob A Nathan,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Freestyle,SCY,M,45-49,2:08.79,Mark T Schoenherr,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Freestyle,SCY,M,45-49,2:22.44,Jack J Driscoll,,NE 2009 SCY Championships,2009,3
+CONN,500 Y Freestyle,SCY,M,45-49,6:38.20,Jack J Driscoll,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Backstroke,SCY,M,45-49,28.01,Ted C Esselstyn,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Backstroke,SCY,M,45-49,29.87,Tom K Coffey,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,100 Y Backstroke,SCY,M,45-49,57.61,Ted C Esselstyn,,2009 USMS National Short Course Championships,2009,1
+UNAT,50 Y Breaststroke,SCY,M,45-49,33.70,Steven C Pierce,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Breaststroke,SCY,M,45-49,40.82,Daniel W Adamik,,9th Annual Turkey Time Meet,2009,2
+UNAT,100 Y Breaststroke,SCY,M,45-49,1:15.46,Steven C Pierce,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Breaststroke,SCY,M,45-49,1:29.76,Daniel W Adamik,,9th Annual Turkey Time Meet,2009,2
+CONN,200 Y Breaststroke,SCY,M,45-49,3:07.83,Jack J Driscoll,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Butterfly,SCY,M,45-49,25.65,Ted C Esselstyn,,2009 USMS National Short Course Championships,2009,1
+CONN,50 Y Butterfly,SCY,M,45-49,26.58,Tom K Coffey,,Colonies Zone Short Course Yards Championships,2009,2
+UNAT,50 Y Butterfly,SCY,M,45-49,27.70,Steven C Pierce,,2009 CT Masters SCY Championships,2009,3
+CONN,50 Y Butterfly,SCY,M,45-49,39.48,Daniel W Adamik,,9th Annual Turkey Time Meet,2009,4
+CONN,100 Y Butterfly,SCY,M,45-49,57.27,Ted C Esselstyn,,2009 USMS National Short Course Championships,2009,1
+CONN,100 Y Butterfly,SCY,M,45-49,1:00.00,Tom K Coffey,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,200 Y Butterfly,SCY,M,45-49,2:22.27,Tom K Coffey,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,100 Y Individual Medley,SCY,M,45-49,1:00.40,Tom K Coffey,,Colonies Zone Short Course Yards Championships,2009,1
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:07.20,Steven C Pierce,,2009 CT Masters SCY Championships,2009,2
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:08.44,Rob A Nathan,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,100 Y Individual Medley,SCY,M,45-49,1:11.09,Sean J O'Connor,,2009 YMCA Masters National Championship,2009,4
+CONN,100 Y Individual Medley,SCY,M,45-49,1:16.68,Jack J Driscoll,,2009 CT Masters SCY Championships,2009,5
+CONN,200 Y Individual Medley,SCY,M,45-49,2:20.22,Tom K Coffey,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,200 Y Individual Medley,SCY,M,45-49,2:40.30,Sean J O'Connor,,2009 YMCA Masters National Championship,2009,2
+CONN,50 Y Freestyle,SCY,M,50-54,29.81,Brian G Quinn,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Freestyle,SCY,M,50-54,29.84,Wayne M Hurwitz,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Freestyle,SCY,M,50-54,1:07.69,Wayne M Hurwitz,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Freestyle,SCY,M,50-54,2:15.92,Kevin T Hoffman,,NE 2009 SCY Championships,2009,1
+CONN,200 Y Freestyle,SCY,M,50-54,2:29.86,Wayne M Hurwitz,,Spring Fling Yard Meet,2009,2
+CONN,500 Y Freestyle,SCY,M,50-54,7:27.86,Christopher B Murray,,9th Annual Turkey Time Meet,2009,1
+CONN,1000 Y Freestyle,SCY,M,50-54,11:40.74,Jake Gulick,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Breaststroke,SCY,M,50-54,37.35,Brian G Quinn,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Breaststroke,SCY,M,50-54,1:27.23,Christopher B Murray,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Butterfly,SCY,M,50-54,30.37,Kevin T Hoffman,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Butterfly,SCY,M,50-54,32.75,Brian G Quinn,,9th Annual Turkey Time Meet,2009,2
+CONN,50 Y Butterfly,SCY,M,50-54,34.32,Wayne M Hurwitz,,Spring Fling Yard Meet,2009,3
+CONN,100 Y Butterfly,SCY,M,50-54,1:06.94,Kevin T Hoffman,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Butterfly,SCY,M,50-54,1:25.08,Wayne M Hurwitz,,2009 CT Masters SCY Championships,2009,2
+CONN,200 Y Butterfly,SCY,M,50-54,2:32.15,Kevin T Hoffman,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:19.24,Wayne M Hurwitz,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,1
+CONN,200 Y Individual Medley,SCY,M,50-54,2:49.80,Wayne M Hurwitz,,Spring Fling Yard Meet,2009,1
+CONN,400 Y Individual Medley,SCY,M,50-54,5:04.20,Jake Gulick,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Freestyle,SCY,M,55-59,27.80,William J Geoghegan,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Freestyle,SCY,M,55-59,28.87,John T Marchacos,,9th Annual Turkey Time Meet,2009,2
+CONN,50 Y Freestyle,SCY,M,55-59,29.41,Jim Grimaldi,,2009 CT Masters SCY Championships,2009,3
+CONN,100 Y Freestyle,SCY,M,55-59,1:05.20,Jim Grimaldi,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Freestyle,SCY,M,55-59,1:05.30,John T Marchacos,,9th Annual Turkey Time Meet,2009,2
+CONN,200 Y Freestyle,SCY,M,55-59,2:13.32,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Freestyle,SCY,M,55-59,2:30.88,Jim Grimaldi,,2009 CT Masters SCY Championships,2009,2
+CONN,1000 Y Freestyle,SCY,M,55-59,12:49.03,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Backstroke,SCY,M,55-59,2:43.22,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Breaststroke,SCY,M,55-59,2:57.94,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,M,55-59,30.67,John T Marchacos,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Butterfly,SCY,M,55-59,33.16,William J Geoghegan,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,200 Y Butterfly,SCY,M,55-59,2:43.34,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:10.47,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:19.71,John T Marchacos,,9th Annual Turkey Time Meet,2009,2
+CONN,200 Y Individual Medley,SCY,M,55-59,2:33.70,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,400 Y Individual Medley,SCY,M,55-59,5:31.30,William J Geoghegan,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Freestyle,SCY,M,60-64,34.01,Albert F Gould,,2008 BALLSTON SPA HOLIDAY CLASSIC SWIM MEET,2009,1
+CONN,100 Y Freestyle,SCY,M,60-64,1:19.44,Albert F Gould,,2008 BALLSTON SPA HOLIDAY CLASSIC SWIM MEET,2009,1
+CONN,200 Y Freestyle,SCY,M,60-64,3:15.65,Albert F Gould,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,M,60-64,7:40.01,John Schwarten,,2009 YMCA Masters National Championship,2009,1
+CONN,500 Y Freestyle,SCY,M,60-64,9:12.89,Albert F Gould,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,50 Y Backstroke,SCY,M,60-64,36.89,John Schwarten,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Backstroke,SCY,M,60-64,39.76,Robert M Cahill,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Backstroke,SCY,M,60-64,1:20.94,John Schwarten,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Backstroke,SCY,M,60-64,1:24.69,Robert M Cahill,,2009 CT Masters SCY Championships,2009,2
+CONN,200 Y Backstroke,SCY,M,60-64,2:52.16,John Schwarten,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Backstroke,SCY,M,60-64,2:59.87,Robert M Cahill,,2009 CT Masters SCY Championships,2009,2
+CONN,50 Y Breaststroke,SCY,M,60-64,42.74,Albert F Gould,,2008 BALLSTON SPA HOLIDAY CLASSIC SWIM MEET,2009,1
+CONN,100 Y Individual Medley,SCY,M,60-64,1:29.12,Robert M Cahill,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Individual Medley,SCY,M,60-64,3:05.08,Robert M Cahill,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Freestyle,SCY,M,65-69,29.05,Michael A Laux,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Freestyle,SCY,M,65-69,1:04.69,Michael A Laux,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Freestyle,SCY,M,65-69,1:09.81,David M Kirby,,2009 CT Masters SCY Championships,2009,2
+CONN,100 Y Freestyle,SCY,M,65-69,1:21.25,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,3
+CONN,200 Y Freestyle,SCY,M,65-69,3:02.98,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,500 Y Freestyle,SCY,M,65-69,6:45.43,Michael A Laux,,2009 CT Masters SCY Championships,2009,1
+CONN,1000 Y Freestyle,SCY,M,65-69,14:01.26,Michael A Laux,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Backstroke,SCY,M,65-69,1:35.97,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,200 Y Backstroke,SCY,M,65-69,3:23.91,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,1
+CONN,50 Y Breaststroke,SCY,M,65-69,35.19,Michael A Laux,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Breaststroke,SCY,M,65-69,1:20.58,Michael A Laux,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Breaststroke,SCY,M,65-69,1:32.88,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,200 Y Breaststroke,SCY,M,65-69,3:21.72,Peter P Berghaus,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,50 Y Butterfly,SCY,M,65-69,29.60,David M Kirby,,2009 YMCA Masters National Championship,2009,1
+CONN,50 Y Butterfly,SCY,M,65-69,31.63,Michael A Laux,,2009 YMCA Masters National Championship,2009,2
+CONN,50 Y Butterfly,SCY,M,65-69,45.28,Peter P Berghaus,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,3
+CONN,100 Y Butterfly,SCY,M,65-69,1:07.40,David M Kirby,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Butterfly,SCY,M,65-69,1:20.98,Michael A Laux,,2009 CT Masters SCY Championships,2009,2
+CONN,200 Y Butterfly,SCY,M,65-69,2:42.24,David M Kirby,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Individual Medley,SCY,M,65-69,1:18.62,Michael A Laux,,2009 YMCA Masters National Championship,2009,1
+CONN,100 Y Individual Medley,SCY,M,65-69,1:27.28,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,200 Y Individual Medley,SCY,M,65-69,2:52.03,Michael A Laux,,2009 YMCA Masters National Championship,2009,1
+CONN,200 Y Individual Medley,SCY,M,65-69,3:19.79,Peter P Berghaus,,Colonies Zone Short Course Yards Championships,2009,2
+CONN,50 Y Freestyle,SCY,M,70-74,1:06.62,James A Goldsmith,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Freestyle,SCY,M,70-74,2:48.42,James A Goldsmith,,9th Annual Turkey Time Meet,2009,1
+CONN,200 Y Freestyle,SCY,M,70-74,6:10.54,James A Goldsmith,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,M,70-74,17:12.92,James A Goldsmith,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,1000 Y Freestyle,SCY,M,70-74,47:33.00,James A Goldsmith,,2009 CT Masters SCY Championships,2009,1
+CONN,1650 Y Freestyle,SCY,M,70-74,1:03:16.19,James A Goldsmith,,NE 2009 SCY Championships,2009,1
+CONN,50 Y Backstroke,SCY,M,70-74,1:31.87,James A Goldsmith,,NE 2009 SCY Championships,2009,1
+CONN,100 Y Backstroke,SCY,M,70-74,3:16.76,James A Goldsmith,,Asphalt Green Racing Trials Yard Masters Swim Meet,2009,1
+CONN,200 Y Backstroke,SCY,M,70-74,6:58.49,James A Goldsmith,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Freestyle,SCY,M,75-79,40.37,Francis M Dooley,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Freestyle,SCY,M,75-79,41.06,Arthur M Figur,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,50 Y Freestyle,SCY,M,75-79,42.19,Julian E Niemetz,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,100 Y Freestyle,SCY,M,75-79,1:31.99,Julian E Niemetz,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Freestyle,SCY,M,75-79,1:32.93,Arthur M Figur,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Freestyle,SCY,M,75-79,1:34.50,Francis M Dooley,,Westport Y 23rd Annual Ground Hog Meet,2009,3
+CONN,200 Y Freestyle,SCY,M,75-79,3:31.25,Francis M Dooley,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Backstroke,SCY,M,75-79,50.74,Julian E Niemetz,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Breaststroke,SCY,M,75-79,35.92,Manuel Sanguily,,2009 USMS National Short Course Championships,2009,1
+CONN,50 Y Breaststroke,SCY,M,75-79,48.61,Arthur M Figur,,Westport Y 23rd Annual Ground Hog Meet,2009,2
+CONN,100 Y Breaststroke,SCY,M,75-79,1:51.64,Arthur M Figur,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,200 Y Breaststroke,SCY,M,75-79,3:15.49,Manuel Sanguily,,2009 USMS National Short Course Championships,2009,1
+CONN,50 Y Freestyle,SCY,M,80-84,47.63,Fred Goldner,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Freestyle,SCY,M,80-84,1:43.21,Fred Goldner,,AQUAFit Masters Winter Blitz at Nassau County Aquatic Center,2009,1
+CONN,100 Y Freestyle,SCY,M,80-84,2:41.83,Vladimir I Ouchakof,,9th Annual Turkey Time Meet,2009,2
+CONN,200 Y Freestyle,SCY,M,80-84,3:44.73,Fred Goldner,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,500 Y Freestyle,SCY,M,80-84,9:51.64,Fred Goldner,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,1000 Y Freestyle,SCY,M,80-84,20:28.97,Fred Goldner,,Spring Fling Yard Meet,2009,1
+CONN,50 Y Breaststroke,SCY,M,80-84,40.85,Charles J Urstadt,,Spring Fling Yard Meet,2009,1
+CONN,100 Y Breaststroke,SCY,M,80-84,1:36.54,Charles J Urstadt,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Breaststroke,SCY,M,80-84,3:46.79,Charles J Urstadt,,2009 CT Masters SCY Championships,2009,1
+CONN,50 Y Butterfly,SCY,M,80-84,1:49.41,Vladimir I Ouchakof,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Butterfly,SCY,M,80-84,4:16.27,Vladimir I Ouchakof,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Individual Medley,SCY,M,80-84,3:12.28,Vladimir I Ouchakof,,9th Annual Turkey Time Meet,2009,1
+CONN,200 Y Individual Medley,SCY,M,80-84,6:28.89,Vladimir I Ouchakof,,9th Annual Turkey Time Meet,2009,1
+CONN,100 Y Freestyle,SCY,M,85-89,2:14.88,Vladimir I Ouchakof,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Freestyle,SCY,M,85-89,7:34.30,Ted M Simon,,9th Annual Turkey Time Meet,2009,1
+CONN,50 Y Backstroke,SCY,M,85-89,1:16.25,Ted Simon,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Breaststroke,SCY,M,85-89,1:21.88,Ted Simon,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Breaststroke,SCY,M,85-89,3:13.77,Ted Simon,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Breaststroke,SCY,M,85-89,7:19.89,Ted Simon,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,50 Y Butterfly,SCY,M,85-89,1:37.69,Vladimir I Ouchakof,,2009 CT Masters SCY Championships,2009,1
+CONN,100 Y Butterfly,SCY,M,85-89,3:55.50,Vladimir I Ouchakof,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Butterfly,SCY,M,85-89,9:17.22,Vladimir I Ouchakof,,Westport Y 23rd Annual Ground Hog Meet,2009,1
+CONN,100 Y Individual Medley,SCY,M,85-89,2:49.31,Vladimir I Ouchakof,,2009 CT Masters SCY Championships,2009,1
+CONN,200 Y Individual Medley,SCY,M,85-89,6:09.93,Vladimir I Ouchakof,,2009 CT Masters SCY Championships,2009,1
+CONN,400 Y Individual Medley,SCY,M,85-89,13:18.53,Vladimir I Ouchakof,,Westport Y 23rd Annual Ground Hog Meet,2009,1

@@ -1,0 +1,664 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SKY,50 Y Freestyle,SCY,W,18-24,28.23,Emily A Waits,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,18-24,31.51,Larissa Jursich,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Freestyle,SCY,W,18-24,36.02,Madeline Zenger,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Freestyle,SCY,W,18-24,40.91,Patricia A Baldwin,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Freestyle,SCY,W,18-24,55.99,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,W,18-24,1:11.25,Larissa Jursich,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,W,18-24,1:16.93,Kathleen M Burke,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,W,18-24,1:19.08,Madeline Zenger,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Freestyle,SCY,W,18-24,1:27.88,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,100 Y Freestyle,SCY,W,18-24,1:28.33,Brittney M Dudley,,Wildcat Masters Invitational,2011,6
+SKY,200 Y Freestyle,SCY,W,18-24,1:58.56,Leslie M VanWinkle,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Freestyle,SCY,W,18-24,2:37.58,Larissa Jursich,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,W,18-24,2:50.90,Kathleen M Burke,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Freestyle,SCY,W,18-24,3:17.29,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,200 Y Freestyle,SCY,W,18-24,3:29.17,Brittney M Dudley,,Wildcat Masters Invitational,2011,5
+SKY,500 Y Freestyle,SCY,W,18-24,5:16.30,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,W,18-24,7:10.02,Larissa Jursich,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,W,18-24,7:23.88,Kathleen M Burke,,Wildcat Masters Invitational,2011,3
+SKY,500 Y Freestyle,SCY,W,18-24,7:47.30,Madeline Zenger,,Wildcat Masters Invitational,2011,4
+SKY,500 Y Freestyle,SCY,W,18-24,8:38.69,Patricia A Baldwin,,Wildcat Masters Invitational,2011,5
+SKY,1000 Y Freestyle,SCY,W,18-24,11:04.03,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,W,18-24,17:25.02,Patricia A Baldwin,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,W,18-24,18:16.32,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,W,18-24,28:51.03,Patricia A Baldwin,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,W,18-24,35:52.73,Brittney M Dudley,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Backstroke,SCY,W,18-24,34.21,Sara M Johnson,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,18-24,42.12,Larissa Jursich,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,W,18-24,50.19,Patricia A Baldwin,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Backstroke,SCY,W,18-24,1:03.44,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,W,18-24,1:11.14,Sara M Johnson,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,2
+SKY,100 Y Backstroke,SCY,W,18-24,1:27.57,Larissa Jursich,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Backstroke,SCY,W,18-24,1:48.03,Patricia A Baldwin,,Wildcat Masters Invitational,2011,4
+SKY,200 Y Backstroke,SCY,W,18-24,2:18.55,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Backstroke,SCY,W,18-24,2:38.24,Sara M Johnson,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,2
+SKY,200 Y Backstroke,SCY,W,18-24,3:48.31,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,50 Y Breaststroke,SCY,W,18-24,36.47,Robin M Coates,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Breaststroke,SCY,W,18-24,36.63,Laura C Clark,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Breaststroke,SCY,W,18-24,46.64,Madeline Zenger,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Breaststroke,SCY,W,18-24,1:29.01,Kathleen M Burke,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Breaststroke,SCY,W,18-24,1:42.83,Madeline Zenger,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Breaststroke,SCY,W,18-24,3:11.91,Kathleen M Burke,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,W,18-24,53.80,Patricia A Baldwin,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Butterfly,SCY,W,18-24,1:05.86,Leslie M VanWinkle,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Butterfly,SCY,W,18-24,1:08.03,Emily A Waits,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Butterfly,SCY,W,18-24,1:12.22,Robin M Coates,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Butterfly,SCY,W,18-24,1:59.79,Patricia A Baldwin,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,100 Y Individual Medley,SCY,W,18-24,1:04.55,Leslie M VanWinkle,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Individual Medley,SCY,W,18-24,1:08.44,Laura C Clark,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,W,18-24,1:11.32,Robin M Coates,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Individual Medley,SCY,W,18-24,1:14.35,Emily A Waits,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Individual Medley,SCY,W,18-24,1:17.84,Sara M Johnson,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,5
+SKY,100 Y Individual Medley,SCY,W,18-24,1:46.09,Patricia A Baldwin,,Kentucky Masters SCY Mini Meet,2011,6
+SKY,200 Y Individual Medley,SCY,W,18-24,2:13.79,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,400 Y Individual Medley,SCY,W,18-24,4:53.27,Leslie M VanWinkle,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,25-29,33.53,Julie F Goldberg,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Freestyle,SCY,W,25-29,44.80,Allison L Harris,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,W,25-29,1:12.29,Kylene K Lloyd,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,25-29,1:18.30,Julie F Goldberg,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,W,25-29,3:21.12,Kristina R Hornback,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,200 Y Freestyle,SCY,W,25-29,2:09.96,Julie F Goldberg,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,W,25-29,9:38.57,Allison L Harris,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,W,25-29,35.54,Kathryn C Platky,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,25-29,38.55,Kylene K Lloyd,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Backstroke,SCY,W,25-29,2:07.83,Kristina R Hornback,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,50 Y Breaststroke,SCY,W,25-29,1:32.55,Kristina R Hornback,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Breaststroke,SCY,W,25-29,2:10.69,Allison L Harris,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Butterfly,SCY,W,25-29,1:18.32,Kathryn C Platky,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Individual Medley,SCY,W,25-29,3:15.74,Julie F Goldberg,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,400 Y Individual Medley,SCY,W,25-29,7:07.39,Julie F Goldberg,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,30-34,29.26,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,30-34,35.33,Nina Schneider,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,W,30-34,1:03.62,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,W,30-34,1:22.34,Nina Schneider,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,W,30-34,2:19.24,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Freestyle,SCY,W,30-34,2:41.78,Masako Takai,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,W,30-34,6:09.84,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,W,30-34,1:15.06,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,W,30-34,1:21.34,Masako Takai,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Backstroke,SCY,W,30-34,2:56.74,Masako Takai,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Breaststroke,SCY,W,30-34,1:24.50,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,W,30-34,1:13.80,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,W,30-34,1:25.54,Masako Takai,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Individual Medley,SCY,W,30-34,2:37.38,Breana L Lewis,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,35-39,30.31,Julie M Olson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,35-39,1:07.57,Laura H MacKenzie,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,35-39,1:08.86,Julie M Olson,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Freestyle,SCY,W,35-39,1:30.70,Renee Fatemi,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Freestyle,SCY,W,35-39,2:27.49,Laura H MacKenzie,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,500 Y Freestyle,SCY,W,35-39,6:19.06,Tracy H Spigelman,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,W,35-39,13:04.56,Tracy H Spigelman,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,W,35-39,17:06.64,Renee Fatemi,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,W,35-39,21:46.72,Tracy H Spigelman,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,W,35-39,28:54.72,Renee Fatemi,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,W,35-39,35.01,Laura H MacKenzie,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Breaststroke,SCY,W,35-39,40.40,Julie M Olson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Butterfly,SCY,W,35-39,33.51,Tracy H Spigelman,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,W,35-39,33.57,Julie M Olson,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Butterfly,SCY,W,35-39,48.76,Renee Fatemi,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Butterfly,SCY,W,35-39,2:57.04,Tracy H Spigelman,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,40-44,32.51,Julie May,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,40-44,33.32,Shlomit Schaal,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Freestyle,SCY,W,40-44,49.98,DeNeil Hartley,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,W,40-44,1:09.74,Julie May,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,40-44,1:14.41,Shlomit Schaal,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Freestyle,SCY,W,40-44,1:23.29,Susan M Ehringer,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Freestyle,SCY,W,40-44,1:45.73,DeNeil Hartley,,Wildcat Masters Invitational,2011,4
+SKY,200 Y Freestyle,SCY,W,40-44,2:30.33,Julie May,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Freestyle,SCY,W,40-44,2:52.42,Susan M Ehringer,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,W,40-44,2:53.94,Shlomit Schaal,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Freestyle,SCY,W,40-44,3:43.96,DeNeil Hartley,,Wildcat Masters Invitational,2011,4
+SKY,500 Y Freestyle,SCY,W,40-44,6:31.99,Julie May,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,W,40-44,7:35.96,Susan M Ehringer,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,W,40-44,9:57.17,DeNeil Hartley,,Wildcat Masters Invitational,2011,3
+SKY,1000 Y Freestyle,SCY,W,40-44,15:17.11,Susan M Ehringer,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,W,40-44,25:26.61,Susan M Ehringer,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,W,40-44,37.76,Susan M Ehringer,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,W,40-44,1:21.93,Susan M Ehringer,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Backstroke,SCY,W,40-44,3:00.12,Susan M Ehringer,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,W,40-44,39.72,Shlomit Schaal,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Breaststroke,SCY,W,40-44,41.66,Julie May,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Breaststroke,SCY,W,40-44,48.83,Susan M Ehringer,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Breaststroke,SCY,W,40-44,1:26.75,Shlomit Schaal,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Breaststroke,SCY,W,40-44,1:31.21,Julie May,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Breaststroke,SCY,W,40-44,1:40.66,Susan M Ehringer,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Breaststroke,SCY,W,40-44,3:12.42,Shlomit Schaal,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,W,40-44,36.53,Shlomit Schaal,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,W,40-44,47.14,Nina Wolgelenter,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Individual Medley,SCY,W,40-44,1:22.56,Shlomit Schaal,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Individual Medley,SCY,W,40-44,3:19.44,Nina Wolgelenter,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,45-49,30.05,Jeannie Harrington,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Freestyle,SCY,W,45-49,31.34,Marci Casey,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Freestyle,SCY,W,45-49,56.10,Terri Tomondi,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,W,45-49,1:09.41,Jeannie Harrington,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,45-49,1:10.46,Caroline Donnelly,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Freestyle,SCY,W,45-49,1:16.47,Pamela Luebbe,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,W,45-49,1:19.19,Nancy Postlewait,,Wildcat Masters Invitational,2011,4
+SKY,500 Y Freestyle,SCY,W,45-49,6:44.40,Marci Casey,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,W,45-49,15:15.11,Pamela Luebbe,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,W,45-49,25:20.14,Pamela Luebbe,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,W,45-49,35.81,Jeannie Harrington,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,45-49,37.46,Caroline Donnelly,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Backstroke,SCY,W,45-49,1:20.45,Marci Casey,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,W,45-49,38.68,Caroline Donnelly,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Breaststroke,SCY,W,45-49,39.59,Pamela Luebbe,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Breaststroke,SCY,W,45-49,44.02,Nancy Postlewait,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Breaststroke,SCY,W,45-49,56.63,Terri Tomondi,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Breaststroke,SCY,W,45-49,2:06.06,Terri Tomondi,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Breaststroke,SCY,W,45-49,3:15.01,Pamela Luebbe,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Breaststroke,SCY,W,45-49,4:22.61,Terri Tomondi,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Butterfly,SCY,W,45-49,32.36,Jeannie Harrington,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,W,45-49,34.10,Pamela Luebbe,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Butterfly,SCY,W,45-49,41.10,Nancy Postlewait,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Butterfly,SCY,W,45-49,3:13.11,Marci Casey,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,W,45-49,1:11.09,Marci Casey,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,W,45-49,1:15.93,Caroline Donnelly,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,W,45-49,1:19.02,Jeannie Harrington,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Individual Medley,SCY,W,45-49,1:31.63,Nancy Postlewait,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,200 Y Individual Medley,SCY,W,45-49,2:52.21,Marci Casey,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,50-54,31.93,Mindy L Johns,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,50-54,37.15,Janice Kregor,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Freestyle,SCY,W,50-54,40.27,Meg Smath,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Freestyle,SCY,W,50-54,47.80,Mary T Graves,,2010 Kentucky Senior Games,2011,4
+SKY,100 Y Freestyle,SCY,W,50-54,1:02.15,Cindy Ciampa-Wise,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,50-54,1:04.00,Mimi H Ward,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,W,50-54,1:17.82,Janice Kregor,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,W,50-54,1:41.67,Mary T Graves,,2010 Kentucky Senior Games,2011,4
+SKY,200 Y Freestyle,SCY,W,50-54,2:12.57,Cindy Ciampa-Wise,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Freestyle,SCY,W,50-54,2:27.70,Pam H Martin,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Freestyle,SCY,W,50-54,3:05.40,Amy Jordan,,Wildcat Masters Invitational,2011,3
+SKY,500 Y Freestyle,SCY,W,50-54,6:04.42,Cindy Ciampa,,2010 Kentucky Senior Games,2011,1
+SKY,500 Y Freestyle,SCY,W,50-54,6:29.72,Mimi H Ward,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,W,50-54,6:41.78,Pam H Martin,,2010 Kentucky Senior Games,2011,3
+SKY,500 Y Freestyle,SCY,W,50-54,6:55.37,Janice Kregor,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,500 Y Freestyle,SCY,W,50-54,7:43.09,Amy Jordan,,Wildcat Masters Invitational,2011,5
+SKY,500 Y Freestyle,SCY,W,50-54,8:40.60,Meg Smath,,Wildcat Masters Invitational,2011,6
+SKY,1000 Y Freestyle,SCY,W,50-54,13:53.10,Mimi H Ward,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,W,50-54,14:03.71,Janice Kregor,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,W,50-54,22:47.07,Mimi H Ward,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,W,50-54,23:12.23,Janice Kregor,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,W,50-54,34.39,Cindy Ciampa-Wise,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,50-54,41.46,Amy Jordan,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,W,50-54,45.21,Mary T Graves,,2010 Kentucky Senior Games,2011,3
+SKY,100 Y Backstroke,SCY,W,50-54,1:28.61,Amy Jordan,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,W,50-54,1:47.62,Mary T Graves,,2010 Kentucky Senior Games,2011,2
+SKY,100 Y Backstroke,SCY,W,50-54,1:58.04,Janice Kregor,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Backstroke,SCY,W,50-54,2:44.37,Cindy Ciampa,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Backstroke,SCY,W,50-54,3:20.65,Amy Jordan,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Backstroke,SCY,W,50-54,3:57.49,Mary T Graves,,2010 Kentucky Senior Games,2011,3
+SKY,50 Y Breaststroke,SCY,W,50-54,38.80,Mindy L Johns,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,W,50-54,41.12,Cindy Ciampa-Wise,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Breaststroke,SCY,W,50-54,47.41,Meg Smath,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Breaststroke,SCY,W,50-54,56.09,Mary T Graves,,2010 Kentucky Senior Games,2011,4
+SKY,100 Y Breaststroke,SCY,W,50-54,1:27.60,Mindy L Johns,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Breaststroke,SCY,W,50-54,1:43.70,Janice Kregor,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Breaststroke,SCY,W,50-54,1:47.35,Meg Smath,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Breaststroke,SCY,W,50-54,3:15.18,Mindy L Johns,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Breaststroke,SCY,W,50-54,3:46.95,Janice Kregor,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,200 Y Breaststroke,SCY,W,50-54,3:58.75,Meg Smath,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Butterfly,SCY,W,50-54,47.82,Janice Kregor,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Butterfly,SCY,W,50-54,1:10.00,Cindy Ciampa-Wise,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Butterfly,SCY,W,50-54,1:13.57,Pam H Martin,,2010 Kentucky Senior Games,2011,2
+SKY,100 Y Butterfly,SCY,W,50-54,1:25.31,Mimi H Ward,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Butterfly,SCY,W,50-54,3:07.43,Mimi H Ward,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,W,50-54,1:12.26,Cindy Ciampa-Wise,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Individual Medley,SCY,W,50-54,1:23.64,Mindy L Johns,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,W,50-54,1:40.74,Amy Jordan,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Individual Medley,SCY,W,50-54,2:37.54,Cindy Ciampa,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Individual Medley,SCY,W,50-54,2:48.42,Pam H Martin,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Individual Medley,SCY,W,50-54,2:54.31,Mimi H Ward,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Individual Medley,SCY,W,50-54,3:29.55,Janice Kregor,,Wildcat Masters Invitational,2011,4
+SKY,400 Y Individual Medley,SCY,W,50-54,6:06.05,Mimi H Ward,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,55-59,39.42,Marian Bastian,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Freestyle,SCY,W,55-59,39.78,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Freestyle,SCY,W,55-59,1:05.10,Diana G Carbone,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Freestyle,SCY,W,55-59,1:13.93,Sandra W Marlowe,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,W,55-59,1:28.40,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Freestyle,SCY,W,55-59,1:29.35,Marian Bastian,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Freestyle,SCY,W,55-59,2:47.21,Diana G Carbone,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,500 Y Freestyle,SCY,W,55-59,8:52.51,Marian Bastian,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,55-59,41.13,Sandra W Marlowe,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,W,55-59,48.26,Marian Bastian,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Backstroke,SCY,W,55-59,1:30.02,Karla Handy-Gibbs,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Breaststroke,SCY,W,55-59,43.97,Sandra W Marlowe,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,W,55-59,48.58,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Breaststroke,SCY,W,55-59,49.34,Marian Bastian,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,50 Y Breaststroke,SCY,W,55-59,1:25.09,Diana G Carbone,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,100 Y Breaststroke,SCY,W,55-59,1:46.51,Patricia A Baldwin,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Butterfly,SCY,W,55-59,34.61,Sandra W Marlowe,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Butterfly,SCY,W,55-59,1:28.73,Karla Handy-Gibbs,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Individual Medley,SCY,W,55-59,3:19.43,Karla Handy-Gibbs,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Freestyle,SCY,W,65-69,42.77,Tita Arnold,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,W,65-69,42.89,Vicki Catlin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Freestyle,SCY,W,65-69,57.64,Jodi Rowatt,,2010 Kentucky Senior Games,2011,3
+SKY,100 Y Freestyle,SCY,W,65-69,1:32.99,Linda S Hubbuch,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,W,65-69,1:34.11,Vicki Catlin,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Freestyle,SCY,W,65-69,2:13.16,Jodi Rowatt,,2010 Kentucky Senior Games,2011,3
+SKY,200 Y Freestyle,SCY,W,65-69,3:15.11,Linda S Hubbuch,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,500 Y Freestyle,SCY,W,65-69,8:17.53,Tita Arnold,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,W,65-69,9:21.95,Vicki Catlin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,1000 Y Freestyle,SCY,W,65-69,20:29.27,Susan I Paris,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,W,65-69,33:53.61,Susan I Paris,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,W,65-69,47.93,Linda S Hubbuch,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,65-69,54.51,Tita Arnold,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,W,65-69,1:12.23,Jodi Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Backstroke,SCY,W,65-69,1:45.73,Tita Arnold,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Backstroke,SCY,W,65-69,3:49.34,Tita Arnold,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,W,65-69,59.88,Jodi Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Breaststroke,SCY,W,65-69,59.96,Vicki Catlin,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Breaststroke,SCY,W,65-69,2:08.56,Jodi Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Breaststroke,SCY,W,65-69,2:14.03,Vicki Catlin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,200 Y Breaststroke,SCY,W,65-69,4:35.30,Jodi Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,70-74,1:03.28,Sigi B Klein,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Breaststroke,SCY,W,70-74,1:07.36,Sigi B Klein,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Backstroke,SCY,W,75-79,54.64,Mary Jane Mullins,,2010 Kentucky Senior Games,2011,1
+SKY,100 Y Backstroke,SCY,W,75-79,2:01.01,Mary Jane Mullins,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Backstroke,SCY,W,75-79,4:16.93,Mary Jane Mullins,,2010 Kentucky Senior Games,2011,1
+SKY,100 Y Butterfly,SCY,W,75-79,2:52.30,Mary Jane Mullins,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Individual Medley,SCY,W,75-79,4:57.53,Mary Jane Mullins,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Freestyle,SCY,M,18-24,30.01,Brad J Miles,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,18-24,1:07.35,Brad J Miles,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,500 Y Freestyle,SCY,M,18-24,5:00.89,Kevin M Ryan,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,M,18-24,10:15.00,Kevin M Ryan,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,M,18-24,16:50.24,Kevin M Ryan,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,25-29,27.75,Brian Gilbert,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,25-29,1:02.75,Brian Gilbert,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,200 Y Freestyle,SCY,M,25-29,2:18.47,Brian Gilbert,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,M,25-29,25.05,Jordan D Proffitt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,200 Y Backstroke,SCY,M,25-29,2:40.33,Jordan D Proffitt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,25-29,27.46,Jordan D Proffitt,,Indiana University Masters Swim Meet,2011,1
+SKY,50 Y Butterfly,SCY,M,25-29,23.99,Jordan D Proffitt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Butterfly,SCY,M,25-29,31.75,Brian Gilbert,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Butterfly,SCY,M,25-29,51.08,Jordan D Proffitt,,Indiana University Masters Swim Meet,2011,1
+SKY,100 Y Individual Medley,SCY,M,25-29,53.12,Jordan D Proffitt,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Freestyle,SCY,M,30-34,23.43,Jeremiah J Kuhn,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,30-34,25.11,Charles J Koch,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,M,30-34,51.95,Jeremiah J Kuhn,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,M,30-34,53.10,Erik Korte,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Freestyle,SCY,M,30-34,1:08.43,David K White,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,200 Y Freestyle,SCY,M,30-34,2:39.97,David K White,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,500 Y Freestyle,SCY,M,30-34,7:16.25,David K White,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,1000 Y Freestyle,SCY,M,30-34,12:27.27,Charles J Koch,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,M,30-34,20:49.30,Charles J Koch,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,M,30-34,27.85,Jeremiah J Kuhn,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Backstroke,SCY,M,30-34,30.87,Jose Manuel Nieto,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Backstroke,SCY,M,30-34,1:01.57,Jeremiah J Kuhn,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,M,30-34,1:03.55,Charles J Koch,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Breaststroke,SCY,M,30-34,32.62,Charles J Koch,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,M,30-34,34.22,Mark J Dodge,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Breaststroke,SCY,M,30-34,45.55,David K White,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Breaststroke,SCY,M,30-34,1:13.85,Charles J Koch,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,M,30-34,26.48,Jeremiah J Kuhn,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Butterfly,SCY,M,30-34,59.15,Jeremiah J Kuhn,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Butterfly,SCY,M,30-34,1:02.85,Jose Manuel Nieto,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,M,30-34,1:00.44,Jason Osborne,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,30-34,1:03.73,Charles J Koch,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Individual Medley,SCY,M,30-34,1:05.70,Jose Manuel Nieto,,Kentucky Masters SCY Mini Meet,2011,3
+UNAT,50 Y Freestyle,SCY,M,35-39,24.67,Valeri Andreev,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,1
+SKY,50 Y Freestyle,SCY,M,35-39,25.74,Brian E Jones,,Blue Wave Raiders SCY Invitational,2011,2
+SKY,50 Y Freestyle,SCY,M,35-39,26.35,Mike Korzeniowski,,2011 Mardi Gras Invite,2011,3
+SKY,50 Y Freestyle,SCY,M,35-39,27.20,Brad Schmied,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Freestyle,SCY,M,35-39,54.45,Paul Widman,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,35-39,55.14,Brian E Jones,,Wildcat Masters Invitational,2011,2
+UNAT,100 Y Freestyle,SCY,M,35-39,55.39,Valeri Andreev,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,3
+SKY,100 Y Freestyle,SCY,M,35-39,1:02.42,Michael Brown,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,500 Y Freestyle,SCY,M,35-39,5:55.19,Brian E Jones,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,M,35-39,6:38.78,Brad Schmied,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,M,35-39,30.67,Brad Schmied,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,M,35-39,34.65,Brian E Jones,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Backstroke,SCY,M,35-39,1:08.52,Brad Schmied,,Wildcat Masters Invitational,2011,1
+UNAT,50 Y Breaststroke,SCY,M,35-39,32.34,Valeri Andreev,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,35-39,33.14,Mike Korzeniowski,,2011 Mardi Gras Invite,2011,2
+UNAT,100 Y Breaststroke,SCY,M,35-39,1:09.17,Valeri Andreev,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,1
+SKY,100 Y Breaststroke,SCY,M,35-39,1:14.01,Mike Korzeniowski,,2011 Mardi Gras Invite,2011,2
+SKY,100 Y Breaststroke,SCY,M,35-39,1:17.75,Brian E Jones,,Wildcat Masters Invitational,2011,3
+UNAT,50 Y Butterfly,SCY,M,35-39,27.16,Valeri Andreev,,Anderson Barracuda Masters 2011 St. Patrick’s Day Swim Meet,2011,1
+SKY,50 Y Butterfly,SCY,M,35-39,27.50,Brian E Jones,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Butterfly,SCY,M,35-39,1:01.67,Brian E Jones,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Butterfly,SCY,M,35-39,2:27.22,Brian E Jones,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,35-39,1:06.30,Brian E Jones,,Blue Wave Raiders SCY Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,35-39,1:07.41,Paul Widman,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,M,35-39,1:07.87,Mike Korzeniowski,,2011 Mardi Gras Invite,2011,3
+SKY,100 Y Individual Medley,SCY,M,35-39,1:09.74,Brad Schmied,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Individual Medley,SCY,M,35-39,1:11.10,Michael Brown,,Kentucky Masters SCY Mini Meet,2011,5
+SKY,200 Y Individual Medley,SCY,M,35-39,2:23.45,Brian E Jones,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,40-44,23.65,Abraham E Solano,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,40-44,26.20,Mike Korzeniowski,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Freestyle,SCY,M,40-44,29.46,Maor Schaal,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,M,40-44,51.84,Van H Stoutt,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,40-44,59.43,Mike Korzeniowski,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,M,40-44,59.46,Albert Smolyar,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,M,40-44,1:06.71,Maor Schaal,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,200 Y Freestyle,SCY,M,40-44,1:58.92,Dale Mercker,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Freestyle,SCY,M,40-44,2:17.93,Albert Smolyar,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,M,40-44,2:34.98,Maor Schaal,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Backstroke,SCY,M,40-44,27.63,Van H Stoutt,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Backstroke,SCY,M,40-44,27.72,Abraham E Solano,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Backstroke,SCY,M,40-44,31.33,Keenan Carver,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,50 Y Breaststroke,SCY,M,40-44,32.69,Mike Korzeniowski,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Breaststroke,SCY,M,40-44,1:12.44,Mike Korzeniowski,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Breaststroke,SCY,M,40-44,1:16.16,Keenan Carver,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Butterfly,SCY,M,40-44,27.69,Keenan Carver,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Butterfly,SCY,M,40-44,31.72,Maor Schaal,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Butterfly,SCY,M,40-44,31.79,Albert Smolyar,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Butterfly,SCY,M,40-44,55.45,Abraham E Solano,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Butterfly,SCY,M,40-44,1:09.93,Maor Schaal,,Wildcat Masters Invitational,2011,2
+UNAT,100 Y Butterfly,SCY,M,40-44,1:14.02,Albert Smolyar,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,200 Y Butterfly,SCY,M,40-44,2:49.62,Maor Schaal,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,40-44,1:06.22,Mike Korzeniowski,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,40-44,1:08.85,Keenan Carver,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Individual Medley,SCY,M,40-44,1:16.89,Maor Schaal,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Individual Medley,SCY,M,40-44,1:18.22,David K Hsu,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,200 Y Individual Medley,SCY,M,40-44,2:48.01,Keenan Carver,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,400 Y Individual Medley,SCY,M,40-44,4:25.05,Abraham E Solano,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,45-49,23.30,Rick Stecher,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,45-49,24.58,Kent Waide,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Freestyle,SCY,M,45-49,26.91,Eric M Smith,,2011 B. Stevens/WKGG Masters Meet,2011,3
+UNAT,50 Y Freestyle,SCY,M,45-49,27.17,Travis A Dugan,,Indiana University Masters Swim Meet,2011,4
+SKY,50 Y Freestyle,SCY,M,45-49,27.48,Andre Valk,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,50 Y Freestyle,SCY,M,45-49,29.92,Steve R Barber,,Wildcat Masters Invitational,2011,6
+SKY,50 Y Freestyle,SCY,M,45-49,31.24,Gordon Buckman,,2011 B. Stevens/WKGG Masters Meet,2011,7
+SKY,50 Y Freestyle,SCY,M,45-49,33.06,Hank Webb,,2011 B. Stevens/WKGG Masters Meet,2011,8
+SKY,100 Y Freestyle,SCY,M,45-49,50.68,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,45-49,56.05,Kent Waide,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Freestyle,SCY,M,45-49,56.65,Robert C Holmes,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,M,45-49,1:00.66,Eric M Smith,,2011 B. Stevens/WKGG Masters Meet,2011,4
+UNAT,100 Y Freestyle,SCY,M,45-49,1:00.94,Travis A Dugan,,Indiana University Masters Swim Meet,2011,5
+SKY,100 Y Freestyle,SCY,M,45-49,1:01.01,Andre Valk,,Blue Wave Raiders SCY Invitational,2011,6
+SKY,100 Y Freestyle,SCY,M,45-49,1:08.15,Steve R Barber,,Wildcat Masters Invitational,2011,7
+SKY,100 Y Freestyle,SCY,M,45-49,1:13.62,Hank Webb,,2011 B. Stevens/WKGG Masters Meet,2011,8
+SKY,200 Y Freestyle,SCY,M,45-49,1:52.57,Rick Stecher,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Freestyle,SCY,M,45-49,2:05.65,Robert C Holmes,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,M,45-49,2:20.13,Andre Valk,,Blue Wave Raiders SCY Invitational,2011,3
+SKY,200 Y Freestyle,SCY,M,45-49,2:25.67,Eric M Smith,,Blue Wave Raiders SCY Invitational,2011,4
+Sky,200 Y Freestyle,SCY,M,45-49,2:25.90,Travis A Dugan,,Wildcat Masters Invitational,2011,5
+SKY,200 Y Freestyle,SCY,M,45-49,2:46.21,Allen O Powell,,2011 B. Stevens/WKGG Masters Meet,2011,6
+SKY,200 Y Freestyle,SCY,M,45-49,2:50.58,Hank Webb,,2011 B. Stevens/WKGG Masters Meet,2011,7
+SKY,500 Y Freestyle,SCY,M,45-49,5:09.52,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,500 Y Freestyle,SCY,M,45-49,5:36.98,Robert C Holmes,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,M,45-49,6:31.93,Andre Valk,,Blue Wave Raiders SCY Invitational,2011,3
+SKY,500 Y Freestyle,SCY,M,45-49,6:45.22,Eric M Smith,,Blue Wave Raiders SCY Invitational,2011,4
+SKY,500 Y Freestyle,SCY,M,45-49,7:21.03,Steve R Barber,,Wildcat Masters Invitational,2011,5
+SKY,500 Y Freestyle,SCY,M,45-49,7:23.81,Gordon Buckman,,2011 B. Stevens/WKGG Masters Meet,2011,6
+SKY,500 Y Freestyle,SCY,M,45-49,7:48.93,Allen O Powell,,2011 B. Stevens/WKGG Masters Meet,2011,7
+SKY,50 Y Backstroke,SCY,M,45-49,31.28,Kent Waide,,2011 B. Stevens/WKGG Masters Meet,2011,1
+Sky,50 Y Backstroke,SCY,M,45-49,34.66,Travis A Dugan,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,M,45-49,44.53,Steve R Barber,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Backstroke,SCY,M,45-49,59.36,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,100 Y Backstroke,SCY,M,45-49,1:10.75,Kent Waide,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Backstroke,SCY,M,45-49,1:34.51,Steve R Barber,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Backstroke,SCY,M,45-49,1:49.87,Hank Webb,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,200 Y Backstroke,SCY,M,45-49,2:06.49,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,200 Y Backstroke,SCY,M,45-49,3:40.12,Steve R Barber,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Breaststroke,SCY,M,45-49,34.35,Kent Waide,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,45-49,40.03,Steve R Barber,,Wildcat Masters Invitational,2011,2
+UNAT,50 Y Breaststroke,SCY,M,45-49,40.11,Travis A Dugan,,Indiana University Masters Swim Meet,2011,3
+SKY,100 Y Breaststroke,SCY,M,45-49,1:30.27,Steve R Barber,,Wildcat Masters Invitational,2011,1
+Sky,100 Y Breaststroke,SCY,M,45-49,1:36.41,Travis A Dugan,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Breaststroke,SCY,M,45-49,3:38.80,Gordon Buckman,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Butterfly,SCY,M,45-49,25.86,Rick Stecher,,Wildcat Masters Invitational,2011,1
+UNAT,50 Y Butterfly,SCY,M,45-49,29.01,Travis A Dugan,,Indiana University Masters Swim Meet,2011,2
+SKY,50 Y Butterfly,SCY,M,45-49,31.19,Andre Valk,,Blue Wave Raiders SCY Invitational,2011,3
+SKY,50 Y Butterfly,SCY,M,45-49,34.90,Steve R Barber,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Butterfly,SCY,M,45-49,57.99,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,100 Y Butterfly,SCY,M,45-49,1:02.87,Richard Ransdell,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Butterfly,SCY,M,45-49,1:06.74,Robert C Holmes,,Kentucky Masters SCY Mini Meet,2011,3
+UNAT,100 Y Butterfly,SCY,M,45-49,1:10.46,Travis A Dugan,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,100 Y Butterfly,SCY,M,45-49,1:18.69,Andre Valk,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,200 Y Butterfly,SCY,M,45-49,3:09.21,Andre Valk,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Individual Medley,SCY,M,45-49,59.92,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,100 Y Individual Medley,SCY,M,45-49,1:07.91,Richard Ransdell,,Kentucky Masters SCY Mini Meet,2011,2
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:15.35,Travis A Dugan,,Indiana University Masters Swim Meet,2011,3
+SKY,100 Y Individual Medley,SCY,M,45-49,1:16.62,Andre Valk,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,100 Y Individual Medley,SCY,M,45-49,1:18.33,Eric M Smith,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,100 Y Individual Medley,SCY,M,45-49,1:23.45,Steve R Barber,,Wildcat Masters Invitational,2011,6
+SKY,100 Y Individual Medley,SCY,M,45-49,1:33.63,Gordon Buckman,,2011 B. Stevens/WKGG Masters Meet,2011,7
+SKY,200 Y Individual Medley,SCY,M,45-49,2:11.94,Rick Stecher,,SPMA SCY Regional Championship Meet,2011,1
+SKY,200 Y Individual Medley,SCY,M,45-49,2:27.76,Robert C Holmes,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Individual Medley,SCY,M,45-49,2:46.57,Eric M Smith,,Blue Wave Raiders SCY Invitational,2011,3
+SKY,200 Y Individual Medley,SCY,M,45-49,3:21.46,Gordon Buckman,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,50 Y Freestyle,SCY,M,50-54,25.33,Keith Shepherd,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Freestyle,SCY,M,50-54,26.37,Barry A Whaley,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Freestyle,SCY,M,50-54,27.05,Dmitriy V Lozovoy,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Freestyle,SCY,M,50-54,29.51,Mark Metcalfe,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,100 Y Freestyle,SCY,M,50-54,55.41,Keith Shepherd,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,M,50-54,59.48,Barry A Whaley,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,M,50-54,59.67,David Buttery,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Freestyle,SCY,M,50-54,1:01.92,Jimbo Martin,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,100 Y Freestyle,SCY,M,50-54,1:02.63,James D Gleason,,Wildcat Masters Invitational,2011,5
+SKY,100 Y Freestyle,SCY,M,50-54,1:03.90,John D Gover,,2011 B. Stevens/WKGG Masters Meet,2011,6
+SKY,100 Y Freestyle,SCY,M,50-54,1:04.33,Dmitriy V Lozovoy,,Wildcat Masters Invitational,2011,7
+SKY,100 Y Freestyle,SCY,M,50-54,1:07.35,Mark Metcalfe,,2011 B. Stevens/WKGG Masters Meet,2011,8
+SKY,100 Y Freestyle,SCY,M,50-54,1:10.14,Bill Gittings,,2011 B. Stevens/WKGG Masters Meet,2011,9
+SKY,100 Y Freestyle,SCY,M,50-54,1:10.96,Charles Frank,,2010 Kentucky Senior Games,2011,10
+SKY,100 Y Freestyle,SCY,M,50-54,1:34.43,Tom Partipilo,,Kentucky Masters SCY Mini Meet,2011,11
+UNAT,200 Y Freestyle,SCY,M,50-54,2:13.91,James D Gleason,,State of Ohio Masters Championship Swim Meet,2011,1
+SKY,200 Y Freestyle,SCY,M,50-54,2:14.89,Cork Haberek,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,M,50-54,2:20.19,David Buttery,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Freestyle,SCY,M,50-54,2:24.51,Jimbo Martin,,2010 Kentucky Senior Games,2011,4
+SKY,200 Y Freestyle,SCY,M,50-54,2:25.19,John D Gover,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,200 Y Freestyle,SCY,M,50-54,2:39.86,Charles Frank,,2010 Kentucky Senior Games,2011,6
+SKY,500 Y Freestyle,SCY,M,50-54,5:38.18,Clay Gilbert,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,M,50-54,5:56.32,Keith Shepherd,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,M,50-54,6:09.70,John D Gover,,2011 B. Stevens/WKGG Masters Meet,2011,3
+UNAT,500 Y Freestyle,SCY,M,50-54,6:13.70,James D Gleason,,State of Ohio Masters Championship Swim Meet,2011,4
+SKY,500 Y Freestyle,SCY,M,50-54,6:27.98,Jimbo Martin,,2010 Kentucky Senior Games,2011,5
+SKY,500 Y Freestyle,SCY,M,50-54,6:29.62,Cork Haberek,,Wildcat Masters Invitational,2011,6
+SKY,500 Y Freestyle,SCY,M,50-54,7:25.35,Charles Frank,,2010 Kentucky Senior Games,2011,7
+SKY,1000 Y Freestyle,SCY,M,50-54,11:47.92,Clay Gilbert,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,M,50-54,12:42.00,Keith Shepherd,,Wildcat Masters Invitational,2011,2
+SKY,1000 Y Freestyle,SCY,M,50-54,13:47.06,Cork Haberek,,Wildcat Masters Invitational,2011,3
+SKY,1000 Y Freestyle,SCY,M,50-54,15:08.23,Charles S Frank,,Wildcat Masters Invitational,2011,4
+SKY,1650 Y Freestyle,SCY,M,50-54,19:22.97,Clay Gilbert,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,M,50-54,21:10.04,Keith Shepherd,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,M,50-54,22:42.67,Cork Haberek,,Wildcat Masters Invitational,2011,3
+SKY,1650 Y Freestyle,SCY,M,50-54,24:39.31,Charles S Frank,,Wildcat Masters Invitational,2011,4
+SKY,50 Y Backstroke,SCY,M,50-54,36.55,Mark Metcalfe,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Backstroke,SCY,M,50-54,37.06,Jimbo Martin,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Backstroke,SCY,M,50-54,37.37,Bill Gittings,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,50 Y Backstroke,SCY,M,50-54,48.18,Charles S Frank,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,50 Y Backstroke,SCY,M,50-54,54.12,Tom Partipilo,,Kentucky Masters SCY Mini Meet,2011,5
+SKY,100 Y Backstroke,SCY,M,50-54,1:07.49,Keith Shepherd,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,M,50-54,1:14.78,John D Gover,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Backstroke,SCY,M,50-54,1:23.80,Bill Gittings,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Backstroke,SCY,M,50-54,1:40.47,Charles Frank,,2010 Kentucky Senior Games,2011,4
+SKY,200 Y Backstroke,SCY,M,50-54,2:45.63,John D Gover,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,200 Y Backstroke,SCY,M,50-54,2:46.44,Jimbo Martin,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Backstroke,SCY,M,50-54,3:06.70,Cork Haberek,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Breaststroke,SCY,M,50-54,33.08,Barry A Whaley,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,M,50-54,35.66,Richard D Davenport,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Breaststroke,SCY,M,50-54,35.73,Dmitriy V Lozovoy,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Breaststroke,SCY,M,50-54,38.44,Jimbo Martin,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,50 Y Breaststroke,SCY,M,50-54,47.65,Charles S Frank,,Kentucky Masters SCY Mini Meet,2011,5
+SKY,50 Y Breaststroke,SCY,M,50-54,54.34,Tom Partipilo,,Kentucky Masters SCY Mini Meet,2011,6
+SKY,100 Y Breaststroke,SCY,M,50-54,1:11.00,Cork Haberek,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Breaststroke,SCY,M,50-54,1:15.10,Barry A Whaley,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Breaststroke,SCY,M,50-54,1:15.88,Keith Shepherd,,2010 Kentucky Senior Games,2011,3
+SKY,100 Y Breaststroke,SCY,M,50-54,1:16.52,Clay Gilbert,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Breaststroke,SCY,M,50-54,1:20.35,Dmitriy V Lozovoy,,Wildcat Masters Invitational,2011,5
+SKY,100 Y Breaststroke,SCY,M,50-54,1:21.14,Richard D Davenport,,2011 B. Stevens/WKGG Masters Meet,2011,6
+SKY,100 Y Breaststroke,SCY,M,50-54,1:22.88,Jimbo Martin,,2010 Kentucky Senior Games,2011,7
+SKY,100 Y Breaststroke,SCY,M,50-54,1:33.02,Bill Gittings,,2011 B. Stevens/WKGG Masters Meet,2011,8
+SKY,200 Y Breaststroke,SCY,M,50-54,2:57.51,Cork Haberek,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Breaststroke,SCY,M,50-54,3:02.80,Richard D Davenport,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Butterfly,SCY,M,50-54,28.78,Keith Shepherd,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Butterfly,SCY,M,50-54,30.24,Clay Gilbert,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Butterfly,SCY,M,50-54,31.86,Richard D Davenport,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,50 Y Butterfly,SCY,M,50-54,43.48,Charles S Frank,,Wildcat Masters Invitational,2011,4
+SKY,100 Y Butterfly,SCY,M,50-54,1:02.98,Keith Shepherd,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Butterfly,SCY,M,50-54,1:05.34,Cork Haberek,,West Bloomfield Fall Swim Meet,2011,2
+SKY,100 Y Butterfly,SCY,M,50-54,1:10.61,Clay Gilbert,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Butterfly,SCY,M,50-54,1:11.23,Richard D Davenport,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,200 Y Butterfly,SCY,M,50-54,2:53.79,Cork Haberek,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,50-54,1:02.46,Keith Shepherd,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Individual Medley,SCY,M,50-54,1:12.47,Jimbo Martin,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,M,50-54,1:18.79,Mark Metcalfe,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Individual Medley,SCY,M,50-54,1:23.10,Bill Gittings,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,100 Y Individual Medley,SCY,M,50-54,1:38.24,Charles S Frank,,Kentucky Masters SCY Mini Meet,2011,5
+SKY,100 Y Individual Medley,SCY,M,50-54,1:48.75,Tom Partipilo,,Kentucky Masters SCY Mini Meet,2011,6
+SKY,200 Y Individual Medley,SCY,M,50-54,2:27.70,Cork Haberek,,West Bloomfield Fall Swim Meet,2011,1
+SKY,200 Y Individual Medley,SCY,M,50-54,2:49.19,Jimbo Martin,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Individual Medley,SCY,M,50-54,3:26.95,Charles Frank,,2010 Kentucky Senior Games,2011,3
+SKY,400 Y Individual Medley,SCY,M,50-54,6:13.85,Cork Haberek,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,55-59,25.84,Ronnie Thompson,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,55-59,29.93,James R Hansbrough,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Freestyle,SCY,M,55-59,32.16,Thomas Mester,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Freestyle,SCY,M,55-59,34.93,Jeff Stevens,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,50 Y Freestyle,SCY,M,55-59,36.25,Bruno Griffin,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,100 Y Freestyle,SCY,M,55-59,59.09,Ronnie Thompson,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,M,55-59,1:09.58,James R Hansbrough,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Freestyle,SCY,M,55-59,1:16.71,Thomas Mester,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Freestyle,SCY,M,55-59,1:20.00,Jeff Stevens,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,100 Y Freestyle,SCY,M,55-59,1:20.01,Bruno Griffin,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,200 Y Freestyle,SCY,M,55-59,2:44.50,Thomas Mester,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,500 Y Freestyle,SCY,M,55-59,6:30.60,Ronnie Thompson,,Wildcat Masters Invitational,2011,1
+SKY,500 Y Freestyle,SCY,M,55-59,7:24.19,Thomas Mester,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,500 Y Freestyle,SCY,M,55-59,8:11.00,John DeHaven,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,500 Y Freestyle,SCY,M,55-59,8:46.95,Jeff Stevens,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,500 Y Freestyle,SCY,M,55-59,8:50.93,Bruno Griffin,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,1000 Y Freestyle,SCY,M,55-59,15:25.37,Thomas Mester,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,M,55-59,16:10.35,Charles Miesner,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,M,55-59,25:18.59,Thomas Mester,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,M,55-59,26:40.77,Charles Miesner,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,M,55-59,33.46,Ronnie Thompson,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,M,55-59,35.49,Jan C Huneke,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Backstroke,SCY,M,55-59,36.68,Charles Miesner,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Breaststroke,SCY,M,55-59,39.96,Thomas Mester,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,M,55-59,46.88,Bruno Griffin,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Breaststroke,SCY,M,55-59,51.06,Jeff Stevens,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Breaststroke,SCY,M,55-59,1:46.86,Bruno Griffin,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Butterfly,SCY,M,55-59,28.31,Ronnie Thompson,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,M,55-59,30.23,Charles Miesner,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Butterfly,SCY,M,55-59,31.18,Carlton A Arnold,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Butterfly,SCY,M,55-59,34.06,James R Hansbrough,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,50 Y Butterfly,SCY,M,55-59,34.81,Thomas Mester,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,100 Y Butterfly,SCY,M,55-59,1:09.80,Jan C Huneke,,State of Ohio Masters Championship Swim Meet,2011,1
+SKY,100 Y Butterfly,SCY,M,55-59,1:12.19,Carlton A Arnold,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Butterfly,SCY,M,55-59,3:05.73,Carlton A Arnold,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,55-59,1:11.31,Ronnie Thompson,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,55-59,1:14.16,Jan C Huneke,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,100 Y Individual Medley,SCY,M,55-59,1:23.44,Thomas Mester,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Individual Medley,SCY,M,55-59,1:45.81,Jeff Stevens,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,200 Y Individual Medley,SCY,M,55-59,2:39.20,Jan C Huneke,,State of Ohio Masters Championship Swim Meet,2011,1
+SKY,200 Y Individual Medley,SCY,M,55-59,3:03.34,Thomas Mester,,Wildcat Masters Invitational,2011,2
+SKY,400 Y Individual Medley,SCY,M,55-59,5:39.51,Jan C Huneke,,State of Ohio Masters Championship Swim Meet,2011,1
+SKY,50 Y Freestyle,SCY,M,60-64,27.73,Lynn D Olson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,60-64,1:00.20,Lynn D Olson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+UNAT,100 Y Freestyle,SCY,M,60-64,1:07.16,Thomas J Gurucharri,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Freestyle,SCY,M,60-64,1:20.86,Frank Diebold,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Freestyle,SCY,M,60-64,1:30.48,Paul Shoemaker,,Wildcat Masters Invitational,2011,4
+SKY,200 Y Freestyle,SCY,M,60-64,2:18.40,Lynn D Olson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,200 Y Freestyle,SCY,M,60-64,2:32.79,William Tingley,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Freestyle,SCY,M,60-64,2:39.02,Theodore M Wathen,,2010 Kentucky Senior Games,2011,3
+SKY,200 Y Freestyle,SCY,M,60-64,2:57.37,Frank Diebold,,2010 Kentucky Senior Games,2011,4
+SKY,500 Y Freestyle,SCY,M,60-64,6:58.46,William Tingley,,2010 Kentucky Senior Games,2011,1
+UNAT,500 Y Freestyle,SCY,M,60-64,7:06.29,Thomas J Gurucharri,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,500 Y Freestyle,SCY,M,60-64,7:17.79,Theodore M Wathen,,2010 Kentucky Senior Games,2011,3
+SKY,500 Y Freestyle,SCY,M,60-64,7:59.93,Frank Diebold,,2010 Kentucky Senior Games,2011,4
+SKY,50 Y Backstroke,SCY,M,60-64,30.04,William Tingley,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,M,60-64,46.63,Frank Diebold,,Kentucky Masters SCY Mini Meet,2011,2
+SKY,50 Y Backstroke,SCY,M,60-64,56.51,Woody Turrentine,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Backstroke,SCY,M,60-64,1:07.52,William Tingley,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,M,60-64,1:37.08,Frank Diebold,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Backstroke,SCY,M,60-64,2:38.13,William Tingley,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Breaststroke,SCY,M,60-64,38.44,Larry Hunt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,60-64,40.89,Lynn D Olson,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Breaststroke,SCY,M,60-64,47.45,Frank Diebold,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,50 Y Breaststroke,SCY,M,60-64,50.73,Paul Shoemaker,,Kentucky Masters SCY Mini Meet,2011,4
+SKY,100 Y Breaststroke,SCY,M,60-64,1:23.07,Larry Hunt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+UNAT,100 Y Breaststroke,SCY,M,60-64,1:30.87,Thomas J Gurucharri,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Breaststroke,SCY,M,60-64,1:41.40,Frank Diebold,,2010 Kentucky Senior Games,2011,3
+SKY,200 Y Breaststroke,SCY,M,60-64,3:09.37,Larry Hunt,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,M,60-64,35.15,Larry Hunt,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Butterfly,SCY,M,60-64,1:40.61,Frank Diebold,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Butterfly,SCY,M,60-64,3:11.47,Larry Hunt,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,60-64,1:14.10,William Tingley,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,60-64,1:20.55,Lynn D Olson,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,100 Y Individual Medley,SCY,M,60-64,1:22.23,Larry Hunt,,2011 B. Stevens/WKGG Masters Meet,2011,3
+SKY,100 Y Individual Medley,SCY,M,60-64,1:23.23,Theodore M Wathen,,2010 Kentucky Senior Games,2011,4
+UNAT,100 Y Individual Medley,SCY,M,60-64,1:25.80,Thomas J Gurucharri,,2011 B. Stevens/WKGG Masters Meet,2011,5
+SKY,100 Y Individual Medley,SCY,M,60-64,1:34.48,Frank Diebold,,Kentucky Masters SCY Mini Meet,2011,6
+SKY,100 Y Individual Medley,SCY,M,60-64,1:41.83,Woody Turrentine,,Kentucky Masters SCY Mini Meet,2011,7
+SKY,200 Y Individual Medley,SCY,M,60-64,3:03.11,Larry Hunt,,Wildcat Masters Invitational,2011,1
+SKY,200 Y Individual Medley,SCY,M,60-64,3:05.65,Theodore M Wathen,,2010 Kentucky Senior Games,2011,2
+SKY,200 Y Individual Medley,SCY,M,60-64,3:21.96,Frank Diebold,,2010 Kentucky Senior Games,2011,3
+SKY,50 Y Freestyle,SCY,M,65-69,33.37,Bill Sturm,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,65-69,33.93,Richard V Collins,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Freestyle,SCY,M,65-69,34.66,Larry N Keaton,,Wildcat Masters Invitational,2011,3
+SKY,50 Y Freestyle,SCY,M,65-69,41.78,John T Shepherd,,2010 Kentucky Senior Games,2011,4
+SKY,50 Y Freestyle,SCY,M,65-69,42.27,James B Fleisher,,2010 Kentucky Senior Games,2011,5
+SKY,50 Y Freestyle,SCY,M,65-69,45.51,Oleh B Koropey,,Blue Wave Raiders SCY Invitational,2011,6
+SKY,50 Y Freestyle,SCY,M,65-69,50.93,Wade Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,7
+SKY,100 Y Freestyle,SCY,M,65-69,1:11.66,Keith Meiklereid,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,100 Y Freestyle,SCY,M,65-69,1:16.77,Larry N Keaton,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Freestyle,SCY,M,65-69,1:35.57,Stanley Bearden,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,100 Y Freestyle,SCY,M,65-69,1:40.86,Oleh B Koropey,,Blue Wave Raiders SCY Invitational,2011,4
+SKY,100 Y Freestyle,SCY,M,65-69,1:44.23,David Burgio,,Wildcat Masters Invitational,2011,5
+SKY,100 Y Freestyle,SCY,M,65-69,1:47.14,John T Shepherd,,2010 Kentucky Senior Games,2011,6
+SKY,100 Y Freestyle,SCY,M,65-69,2:10.85,Wade Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,7
+SKY,200 Y Freestyle,SCY,M,65-69,2:45.03,Keith Meiklereid,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,200 Y Freestyle,SCY,M,65-69,2:56.26,John M Graham,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Freestyle,SCY,M,65-69,3:04.43,Larry N Keaton,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Freestyle,SCY,M,65-69,3:04.50,Bill Sturm,,Wildcat Masters Invitational,2011,4
+SKY,200 Y Freestyle,SCY,M,65-69,3:51.94,David Burgio,,Wildcat Masters Invitational,2011,5
+SKY,200 Y Freestyle,SCY,M,65-69,4:16.22,Oleh B Koropey,,Blue Wave Raiders SCY Invitational,2011,6
+SKY,500 Y Freestyle,SCY,M,65-69,7:02.66,Stephen D Hellmann,,2010 Kentucky Senior Games,2011,1
+SKY,500 Y Freestyle,SCY,M,65-69,7:39.15,John M Graham,,Wildcat Masters Invitational,2011,2
+SKY,500 Y Freestyle,SCY,M,65-69,8:01.61,Bill Sturm,,Wildcat Masters Invitational,2011,3
+SKY,500 Y Freestyle,SCY,M,65-69,8:19.22,Larry N Keaton,,Wildcat Masters Invitational,2011,4
+SKY,500 Y Freestyle,SCY,M,65-69,10:06.76,David Burgio,,Wildcat Masters Invitational,2011,5
+SKY,1000 Y Freestyle,SCY,M,65-69,15:37.08,John M Graham,,Wildcat Masters Invitational,2011,1
+SKY,1000 Y Freestyle,SCY,M,65-69,16:31.82,Larry N Keaton,,Wildcat Masters Invitational,2011,2
+SKY,1650 Y Freestyle,SCY,M,65-69,25:30.69,John M Graham,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,M,65-69,27:41.05,Larry N Keaton,,Wildcat Masters Invitational,2011,2
+SKY,50 Y Backstroke,SCY,M,65-69,37.17,Stephen D Hellmann,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Backstroke,SCY,M,65-69,44.33,Richard V Collins,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,50 Y Backstroke,SCY,M,65-69,45.81,Larry N Keaton,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,50 Y Backstroke,SCY,M,65-69,51.76,James B Fleisher,,2010 Kentucky Senior Games,2011,4
+SKY,50 Y Backstroke,SCY,M,65-69,52.09,Tony Ambrose,,Kentucky Masters SCY Mini Meet,2011,5
+SKY,50 Y Backstroke,SCY,M,65-69,1:07.89,Wade Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,6
+SKY,100 Y Backstroke,SCY,M,65-69,1:54.07,David Burgio,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Backstroke,SCY,M,65-69,2:25.98,Wade Rowatt,,2011 B. Stevens/WKGG Masters Meet,2011,2
+SKY,200 Y Backstroke,SCY,M,65-69,3:02.16,Stephen D Hellmann,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Backstroke,SCY,M,65-69,3:30.59,John M Graham,,Wildcat Masters Invitational,2011,2
+SKY,200 Y Backstroke,SCY,M,65-69,3:34.41,Bill Sturm,,Wildcat Masters Invitational,2011,3
+SKY,200 Y Backstroke,SCY,M,65-69,3:58.23,David Burgio,,Wildcat Masters Invitational,2011,4
+SKY,50 Y Breaststroke,SCY,M,65-69,40.66,Tony Ambrose,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,65-69,45.87,John T Shepherd,,2010 Kentucky Senior Games,2011,2
+SKY,50 Y Breaststroke,SCY,M,65-69,46.13,Glenn H Hubbuch,,Kentucky Masters SCY Mini Meet,2011,3
+SKY,50 Y Breaststroke,SCY,M,65-69,48.89,Oleh B Koropey,,Blue Wave Raiders SCY Invitational,2011,4
+SKY,50 Y Breaststroke,SCY,M,65-69,49.13,Larry N Keaton,,Kentucky Masters SCY Mini Meet,2011,5
+SKY,50 Y Breaststroke,SCY,M,65-69,50.23,James B Fleisher,,2010 Kentucky Senior Games,2011,6
+SKY,50 Y Breaststroke,SCY,M,65-69,50.49,Bill Sturm,,Wildcat Masters Invitational,2011,7
+SKY,100 Y Breaststroke,SCY,M,65-69,1:46.73,John T Shepherd,,2010 Kentucky Senior Games,2011,1
+SKY,100 Y Breaststroke,SCY,M,65-69,1:58.73,Oleh B Koropey,,Blue Wave Raiders SCY Invitational,2011,2
+SKY,100 Y Breaststroke,SCY,M,65-69,1:59.77,James B Fleisher,,2010 Kentucky Senior Games,2011,3
+SKY,200 Y Breaststroke,SCY,M,65-69,4:30.76,James B Fleisher,,2010 Kentucky Senior Games,2011,1
+SKY,50 Y Butterfly,SCY,M,65-69,35.78,Stephen D Hellmann,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Butterfly,SCY,M,65-69,37.25,John M Graham,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Butterfly,SCY,M,65-69,1:29.11,Stephen D Hellmann,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Butterfly,SCY,M,65-69,3:31.36,Stephen D Hellmann,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,65-69,1:23.64,Stephen D Hellmann,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Individual Medley,SCY,M,65-69,1:27.35,John M Graham,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Individual Medley,SCY,M,65-69,1:31.96,Bill Sturm,,Wildcat Masters Invitational,2011,3
+SKY,100 Y Individual Medley,SCY,M,65-69,1:33.46,Richard V Collins,,2011 B. Stevens/WKGG Masters Meet,2011,4
+SKY,200 Y Individual Medley,SCY,M,65-69,3:09.51,Stephen D Hellmann,,2010 Kentucky Senior Games,2011,1
+SKY,200 Y Individual Medley,SCY,M,65-69,3:19.28,John M Graham,,Wildcat Masters Invitational,2011,2
+SKY,400 Y Individual Medley,SCY,M,65-69,6:58.18,Stephen D Hellmann,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Freestyle,SCY,M,70-74,37.99,John M Hochstrasser,,Wildcat Masters Invitational,2011,1
+SKY,100 Y Freestyle,SCY,M,70-74,1:30.71,Larry H Isom,,Kentucky Masters SCY Mini Meet,2011,1
+SKY,500 Y Freestyle,SCY,M,70-74,9:55.77,John M Hochstrasser,,State of Ohio Masters Championship Swim Meet,2011,1
+SKY,1000 Y Freestyle,SCY,M,70-74,21:07.49,John M Hochstrasser,,Wildcat Masters Invitational,2011,1
+SKY,1650 Y Freestyle,SCY,M,70-74,34:58.94,John M Hochstrasser,,Wildcat Masters Invitational,2011,1
+SKY,50 Y Backstroke,SCY,M,70-74,44.29,John M Hochstrasser,,2011 Mardi Gras Invite,2011,1
+SKY,50 Y Backstroke,SCY,M,70-74,47.92,Ralph G Johanson,,Wildcat Masters Invitational,2011,2
+SKY,100 Y Backstroke,SCY,M,70-74,1:40.56,Ralph G Johanson,,2010 Kentucky Senior Games,2011,1
+SKY,100 Y Backstroke,SCY,M,70-74,1:43.28,John M Hochstrasser,,State of Ohio Masters Championship Swim Meet,2011,2
+SKY,200 Y Backstroke,SCY,M,70-74,3:45.36,John M Hochstrasser,,State of Ohio Masters Championship Swim Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,70-74,40.00,Ralph G Johanson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,50 Y Breaststroke,SCY,M,70-74,58.75,John M Hochstrasser,,2011 Mardi Gras Invite,2011,2
+SKY,100 Y Breaststroke,SCY,M,70-74,1:31.67,Ralph G Johanson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,200 Y Breaststroke,SCY,M,70-74,3:25.34,Ralph G Johanson,,2011 B. Stevens/WKGG Masters Meet,2011,1
+SKY,100 Y Individual Medley,SCY,M,70-74,1:34.59,Ralph G Johanson,,2010 Kentucky Senior Games,2011,1
+SKY,100 Y Individual Medley,SCY,M,70-74,2:03.41,John M Hochstrasser,,Wildcat Masters Invitational,2011,2

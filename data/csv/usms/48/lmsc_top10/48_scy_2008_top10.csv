@@ -1,0 +1,938 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ARIZ,50 Y Freestyle,SCY,W,18-24,24.50,Jacqueline E Jenner,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,W,18-24,25.00,Kelly C Busche,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Freestyle,SCY,W,18-24,26.82,Whitney M Warman,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,W,18-24,28.49,Christine M Nelson,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Freestyle,SCY,W,18-24,29.70,Bridget A Pranke,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Freestyle,SCY,W,18-24,29.85,Michelle S Benson,,Arizona SCY State Champs,2008,6
+ARIZ,50 Y Freestyle,SCY,W,18-24,30.99,Lisa A Palenica,,Arizona SCY State Champs,2008,7
+ARIZ,100 Y Freestyle,SCY,W,18-24,53.32,Kelly C Busche,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Freestyle,SCY,W,18-24,57.53,Whitney M Warman,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Freestyle,SCY,W,18-24,1:02.61,Katherine Jaress,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:07.81,Whitney M Warman,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:09.72,Bridget A Pranke,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Freestyle,SCY,W,18-24,2:11.80,Katherine Jaress,,Arizona SCY State Champs,2008,3
+ARIZ,500 Y Freestyle,SCY,W,18-24,5:35.45,Bridget A Pranke,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,W,18-24,5:59.03,Katherine Jaress,,Arizona SCY State Champs,2008,2
+ARIZ,1000 Y Freestyle,SCY,W,18-24,12:07.47,Bridget A Pranke,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,1000 Y Freestyle,SCY,W,18-24,12:51.43,Christine M Nelson,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1650 Y Freestyle,SCY,W,18-24,18:38.20,Bridget A Pranke,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1650 Y Freestyle,SCY,W,18-24,21:33.18,Christine M Nelson,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Backstroke,SCY,W,18-24,31.66,Christine M Nelson,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Backstroke,SCY,W,18-24,1:00.70,Kelly C Busche,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,W,18-24,1:08.03,Christine M Nelson,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Backstroke,SCY,W,18-24,2:22.61,Kelly C Busche,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,W,18-24,2:31.63,Christine M Nelson,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,18-24,35.22,Whitney M Warman,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,18-24,37.16,Michelle S Benson,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,18-24,1:16.88,Whitney M Warman,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,18-24,1:19.70,Michelle S Benson,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Breaststroke,SCY,W,18-24,2:47.87,Michelle S Benson,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,W,18-24,26.35,Kelly C Busche,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,W,18-24,28.65,Whitney M Warman,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Butterfly,SCY,W,18-24,31.45,Bridget A Pranke,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Butterfly,SCY,W,18-24,33.27,Michelle S Benson,,Arizona SCY State Champs,2008,4
+ARIZ,50 Y Butterfly,SCY,W,18-24,34.41,Lisa A Palenica,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Butterfly,SCY,W,18-24,58.39,Kelly C Busche,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Butterfly,SCY,W,18-24,1:11.94,Bridget A Pranke,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Butterfly,SCY,W,18-24,1:25.14,Lisa A Palenica,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Butterfly,SCY,W,18-24,2:23.99,Kelly C Busche,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:02.17,Kelly C Busche,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:08.64,Whitney M Warman,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:12.27,Michelle S Benson,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,W,18-24,1:15.02,Bridget A Pranke,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Individual Medley,SCY,W,18-24,2:36.17,Christine M Nelson,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Freestyle,SCY,W,25-29,26.59,Kimberly E Ivey,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,W,25-29,57.09,Noriko Inada,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,W,25-29,57.10,Laura L Hernandez,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Freestyle,SCY,W,25-29,57.51,Kimberly E Ivey,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Freestyle,SCY,W,25-29,1:59.58,Laura L Hernandez,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,W,25-29,2:02.47,Kimberly E Ivey,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,W,25-29,5:18.99,Laura L Hernandez,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,W,25-29,5:28.06,Kimberly E Ivey,,Arizona SCY State Champs,2008,2
+ARIZ,1650 Y Freestyle,SCY,W,25-29,19:05.71,Kimberly E Ivey,,Arizona SCY State Champs,2008,1
+ARIZ,1650 Y Freestyle,SCY,W,25-29,22:33.05,Kelli M Donley,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,W,25-29,1:01.81,Laura L Hernandez,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,W,25-29,1:03.50,Kimberly E Ivey,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,W,25-29,1:17.76,Kelli M Donley,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Backstroke,SCY,W,25-29,2:10.85,Laura L Hernandez,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,W,25-29,2:22.31,Kimberly E Ivey,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,25-29,34.46,Noriko Inada,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,W,25-29,32.15,Kelli M Donley,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Butterfly,SCY,W,25-29,1:04.94,Laura L Hernandez,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Butterfly,SCY,W,25-29,1:14.19,Kelli M Donley,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Butterfly,SCY,W,25-29,2:33.61,Laura L Hernandez,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,25-29,1:01.12,Noriko Inada,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,25-29,2:16.27,Laura L Hernandez,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,25-29,2:42.13,Kelli M Donley,,Arizona SCY State Champs,2008,2
+ARIZ,400 Y Individual Medley,SCY,W,25-29,4:48.99,Laura L Hernandez,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,W,30-34,25.40,Michelle B Worden,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,W,30-34,26.89,Jaime A Strauch,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,W,30-34,29.40,Shannon J Driscoll,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,50 Y Freestyle,SCY,W,30-34,38.42,Wendy L Rother,,2007 State Games of America at Colorado Springs,2008,4
+ARIZ,100 Y Freestyle,SCY,W,30-34,56.51,Michelle B Worden,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,W,30-34,59.33,Jaime A Strauch,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Freestyle,SCY,W,30-34,1:03.76,Shannon J Driscoll,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,100 Y Freestyle,SCY,W,30-34,1:32.94,Wendy L Rother,,2007 State Games of America at Colorado Springs,2008,4
+ARIZ,200 Y Freestyle,SCY,W,30-34,2:09.22,Jaime A Strauch,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,W,30-34,2:22.88,Shannon J Driscoll,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Freestyle,SCY,W,30-34,3:28.69,Wendy L Rother,,2007 State Games of America at Colorado Springs,2008,3
+ARIZ,500 Y Freestyle,SCY,W,30-34,5:53.62,Jaime A Strauch,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,W,30-34,6:26.57,Shannon J Driscoll,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1000 Y Freestyle,SCY,W,30-34,13:21.20,Shannon J Driscoll,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,1650 Y Freestyle,SCY,W,30-34,20:17.31,Jaime A Strauch,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,30-34,1:01.44,Michelle B Worden,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,30-34,2:16.23,Michelle B Worden,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,30-34,3:56.54,Wendy L Rother,,2007 State Games of America at Colorado Springs,2008,2
+ARIZ,400 Y Individual Medley,SCY,W,30-34,5:00.81,Michelle B Worden,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,35-39,27.17,Louise M So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Freestyle,SCY,W,35-39,29.63,Heather M Sipos,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Freestyle,SCY,W,35-39,30.13,Sarah J Johnson,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,W,35-39,40.87,Tricia Schafer,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Freestyle,SCY,W,35-39,58.54,Louise M So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,100 Y Freestyle,SCY,W,35-39,1:01.54,Anna T Galas,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Freestyle,SCY,W,35-39,1:08.97,Gabriela Croft,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Freestyle,SCY,W,35-39,2:14.40,Laura Ruberto,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,W,35-39,2:29.15,Gabriela Croft,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,W,35-39,3:22.49,Tricia Schafer,,Arizona SCY State Champs,2008,3
+ARIZ,500 Y Freestyle,SCY,W,35-39,6:36.73,Sarah J Johnson,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,W,35-39,6:48.06,Heather M Sipos,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,500 Y Freestyle,SCY,W,35-39,6:49.60,Gabriela Croft,,Arizona SCY State Champs,2008,3
+ARIZ,1000 Y Freestyle,SCY,W,35-39,12:11.23,Maureen T Rankin,,Arizona SCY State Champs,2008,1
+ARIZ,1000 Y Freestyle,SCY,W,35-39,14:01.03,Gabriela Croft,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Backstroke,SCY,W,35-39,34.94,Maureen T Rankin,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,35-39,35.11,Louise M So,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,W,35-39,1:15.18,Maureen T Rankin,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Backstroke,SCY,W,35-39,1:26.03,Gabriela Croft,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,35-39,32.39,Louise M So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,35-39,35.29,Maureen T Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,35-39,36.54,Sarah J Johnson,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,50 Y Breaststroke,SCY,W,35-39,43.31,Gabriela Croft,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Breaststroke,SCY,W,35-39,1:13.38,Louise M So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,35-39,1:16.08,Maureen T Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,35-39,1:19.00,Sarah J Johnson,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Breaststroke,SCY,W,35-39,2:38.34,Louise M So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,200 Y Breaststroke,SCY,W,35-39,2:44.47,Maureen T Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Breaststroke,SCY,W,35-39,2:55.08,Sarah J Johnson,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Breaststroke,SCY,W,35-39,3:56.65,Tricia Schafer,,Arizona SCY State Champs,2008,4
+ARIZ,50 Y Butterfly,SCY,W,35-39,30.48,Louise M So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Butterfly,SCY,W,35-39,30.54,Laura Ruberto,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,W,35-39,31.18,Anna T Galas,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,50 Y Butterfly,SCY,W,35-39,35.74,Heather M Sipos,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Butterfly,SCY,W,35-39,36.41,Gabriela Croft,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Butterfly,SCY,W,35-39,1:07.66,Laura Ruberto,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Butterfly,SCY,W,35-39,1:13.08,Louise M So,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:07.98,Louise M So,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:09.80,Maureen T Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:17.24,Sarah J Johnson,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:21.13,Gabriela Croft,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Individual Medley,SCY,W,35-39,1:22.37,Heather M Sipos,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,200 Y Individual Medley,SCY,W,35-39,2:30.08,Laura Ruberto,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,35-39,2:32.87,Maureen T Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,400 Y Individual Medley,SCY,W,35-39,5:25.40,Maureen T Rankin,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,40-44,25.83,Dianne L Wygal-Springer,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,W,40-44,26.17,Becki P Major,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Freestyle,SCY,W,40-44,27.09,Nancy J Turman,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Freestyle,SCY,W,40-44,27.36,Rane Clements,,2008 USMS Short Course Nationals,2008,4
+ARIZ,50 Y Freestyle,SCY,W,40-44,27.55,Carolyn M Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,50 Y Freestyle,SCY,W,40-44,28.44,Jeannette L Mare-Packard,,Arizona SCY State Champs,2008,6
+ARIZ,50 Y Freestyle,SCY,W,40-44,33.08,Laura S Corcoran,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,7
+ARIZ,50 Y Freestyle,SCY,W,40-44,33.24,Terine L Defoor,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,8
+ARIZ,50 Y Freestyle,SCY,W,40-44,35.12,Charlene M Alentado,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,9
+ARIZ,100 Y Freestyle,SCY,W,40-44,57.91,Dianne L Wygal-Springer,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Freestyle,SCY,W,40-44,58.03,Becki P Major,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Freestyle,SCY,W,40-44,58.17,Rane Clements,,2008 USMS Short Course Nationals,2008,3
+ARIZ,100 Y Freestyle,SCY,W,40-44,58.75,Laura K Smith,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,4
+ARIZ,100 Y Freestyle,SCY,W,40-44,59.42,Carolyn M Duffield,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Freestyle,SCY,W,40-44,59.80,Nancy J Turman,,Arizona SCY State Champs,2008,6
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:04.47,Jeannette L Mare-Packard,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,7
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:11.21,Terine L Defoor,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,8
+ARIZ,100 Y Freestyle,SCY,W,40-44,1:14.03,Laura S Corcoran,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,9
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:00.56,Laura K Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:05.95,Dianne L Wygal-Springer,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:07.72,Becki P Major,,2008 USMS Short Course Nationals,2008,3
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:14.18,Anna R DeLozier,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Freestyle,SCY,W,40-44,2:21.85,Rane Clements,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,500 Y Freestyle,SCY,W,40-44,5:24.30,Laura K Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,W,40-44,5:49.11,Carolyn M Duffield,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,W,40-44,5:51.64,Nancy J Turman,,2008 USMS Short Course Nationals,2008,3
+ARIZ,500 Y Freestyle,SCY,W,40-44,5:57.07,Becki P Major,,2008 USMS Short Course Nationals,2008,4
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:04.02,Dianne L Wygal-Springer,,Arizona SCY State Champs,2008,5
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:21.36,Teri L Lerew,,Arizona SCY State Champs,2008,6
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:34.09,Rane Clements,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,7
+ARIZ,500 Y Freestyle,SCY,W,40-44,6:53.45,Anna R DeLozier,,Arizona SCY State Champs,2008,8
+ARIZ,1000 Y Freestyle,SCY,W,40-44,11:41.41,Laura K Smith,,Arizona SCY State Champs,2008,1
+ARIZ,1000 Y Freestyle,SCY,W,40-44,12:01.23,Carolyn M Duffield,,Arizona SCY State Champs,2008,2
+ARIZ,1000 Y Freestyle,SCY,W,40-44,12:26.94,Brigid J Bunch,,Arizona SCY State Champs,2008,3
+ARIZ,1000 Y Freestyle,SCY,W,40-44,12:49.11,Rane Clements,,2008 USMS Short Course Nationals,2008,4
+ARIZ,1000 Y Freestyle,SCY,W,40-44,12:54.02,Teri L Lerew,,Arizona SCY State Champs,2008,5
+ARIZ,1000 Y Freestyle,SCY,W,40-44,12:56.77,Becki P Major,,Arizona SCY State Champs,2008,6
+ARIZ,1650 Y Freestyle,SCY,W,40-44,20:11.17,Anna R DeLozier,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,40-44,29.75,Laura K Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Backstroke,SCY,W,40-44,30.85,Marika W Mc Cue,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Backstroke,SCY,W,40-44,31.11,Brigid J Bunch,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Backstroke,SCY,W,40-44,31.67,Nancy J Turman,,2008 USMS Short Course Nationals,2008,4
+ARIZ,50 Y Backstroke,SCY,W,40-44,34.59,Teri L Lerew,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Backstroke,SCY,W,40-44,37.83,Terine L Defoor,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,6
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:02.73,Laura K Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:06.60,Marika W Mc Cue,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:06.94,Brigid J Bunch,,2008 USMS Short Course Nationals,2008,3
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:09.33,Nancy J Turman,,2008 USMS Short Course Nationals,2008,4
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:11.95,Anna R DeLozier,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:15.33,Teri L Lerew,,Arizona SCY State Champs,2008,6
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:16.13,Carolyn M Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,7
+ARIZ,100 Y Backstroke,SCY,W,40-44,1:21.05,Terine L Defoor,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,8
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:12.29,Laura K Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:20.88,Brigid J Bunch,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:34.50,Anna R DeLozier,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Backstroke,SCY,W,40-44,2:48.73,Teri L Lerew,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Breaststroke,SCY,W,40-44,35.92,Brigid J Bunch,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,40-44,45.72,Charlene M Alentado,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:22.40,Brigid J Bunch,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,40-44,1:29.32,Carolyn M Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Breaststroke,SCY,W,40-44,2:50.33,Brigid J Bunch,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,W,40-44,28.05,Dianne L Wygal-Springer,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,W,40-44,29.44,Rane Clements,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Butterfly,SCY,W,40-44,29.55,Marika W Mc Cue,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,W,40-44,31.21,Laura K Smith,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,4
+ARIZ,50 Y Butterfly,SCY,W,40-44,32.26,Becki P Major,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,5
+ARIZ,50 Y Butterfly,SCY,W,40-44,32.68,Teri L Lerew,,Arizona SCY State Champs,2008,6
+ARIZ,50 Y Butterfly,SCY,W,40-44,33.93,Lisa M Sartori,,Arizona SCY State Champs,2008,7
+ARIZ,50 Y Butterfly,SCY,W,40-44,40.92,Charlene M Alentado,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,8
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:02.07,Dianne L Wygal-Springer,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:05.61,Rane Clements,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:13.02,Anna R DeLozier,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Butterfly,SCY,W,40-44,1:17.26,Carolyn M Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,200 Y Butterfly,SCY,W,40-44,2:37.83,Rane Clements,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:12.18,Anna R DeLozier,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:15.33,Teri L Lerew,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:23.40,Terine L Defoor,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:27.02,Laura S Corcoran,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Individual Medley,SCY,W,40-44,1:33.78,Charlene M Alentado,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:24.05,Dianne L Wygal-Springer,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:29.16,Brigid J Bunch,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:32.27,Laura K Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:33.13,Anna R DeLozier,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Individual Medley,SCY,W,40-44,2:40.62,Teri L Lerew,,Arizona SCY State Champs,2008,5
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:19.76,Brigid J Bunch,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:25.44,Carolyn M Duffield,,Arizona SCY State Champs,2008,2
+ARIZ,400 Y Individual Medley,SCY,W,40-44,5:44.05,Teri L Lerew,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,W,45-49,26.38,Monica M Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,W,45-49,31.03,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,W,45-49,36.56,Lois W Courtright,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Freestyle,SCY,W,45-49,58.70,Monica M Bailey,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:06.96,June C Hussey,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:11.67,Teresa L Dozer,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:21.43,Michelle K Charles,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:21.75,Lois W Courtright,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Freestyle,SCY,W,45-49,1:29.88,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,6
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:07.53,Monica M Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:30.80,Susan E Dawson-Cook,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:39.31,Teresa L Dozer,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:40.12,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Freestyle,SCY,W,45-49,2:59.68,Lois W Courtright,,Arizona SCY State Champs,2008,5
+ARIZ,500 Y Freestyle,SCY,W,45-49,7:05.11,Teresa L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,W,45-49,7:36.87,JoAnne M Bolivar,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,W,45-49,7:48.29,Carrie A Mock,,VMST David Gregg III Memorial SCY,2008,3
+ARIZ,500 Y Freestyle,SCY,W,45-49,8:00.40,Lois W Courtright,,Arizona SCY State Champs,2008,4
+ARIZ,1000 Y Freestyle,SCY,W,45-49,12:32.94,Monica M Bailey,,Arizona SCY State Champs,2008,1
+ARIZ,1000 Y Freestyle,SCY,W,45-49,13:08.97,June C Hussey,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1000 Y Freestyle,SCY,W,45-49,13:47.01,Susan E Dawson-Cook,,Arizona SCY State Champs,2008,3
+ARIZ,1000 Y Freestyle,SCY,W,45-49,15:20.18,Teresa L Dozer,,Arizona SCY State Champs,2008,4
+ARIZ,1000 Y Freestyle,SCY,W,45-49,15:56.97,Carrie A Mock,,Colonies Zone SCY Championships,2008,5
+ARIZ,1650 Y Freestyle,SCY,W,45-49,27:16.72,Carrie A Mock,,VMST David Gregg III Memorial SCY,2008,1
+ARIZ,50 Y Backstroke,SCY,W,45-49,29.73,Monica M Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Backstroke,SCY,W,45-49,41.16,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Backstroke,SCY,W,45-49,42.26,JoAnne M Bolivar,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,W,45-49,42.90,Teresa L Dozer,,Arizona SCY State Champs,2008,4
+ARIZ,50 Y Backstroke,SCY,W,45-49,45.88,Michelle K Charles,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Backstroke,SCY,W,45-49,1:03.81,Monica M Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,W,45-49,2:20.51,Monica M Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,W,45-49,3:40.42,Michelle K Charles,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,45-49,38.48,Amy B Mullaney,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,45-49,39.29,June C Hussey,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,45-49,40.48,Teresa L Dozer,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Breaststroke,SCY,W,45-49,47.23,Lois W Courtright,,Arizona SCY State Champs,2008,4
+ARIZ,50 Y Breaststroke,SCY,W,45-49,47.62,Michelle K Charles,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:21.37,Amy B Mullaney,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:27.11,Teresa L Dozer,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:30.78,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Breaststroke,SCY,W,45-49,1:40.65,Lois W Courtright,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Breaststroke,SCY,W,45-49,2:54.66,Amy B Mullaney,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,200 Y Breaststroke,SCY,W,45-49,3:01.52,Susan E Dawson-Cook,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Breaststroke,SCY,W,45-49,3:11.77,Teresa L Dozer,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Breaststroke,SCY,W,45-49,3:12.16,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Breaststroke,SCY,W,45-49,3:30.96,Lois W Courtright,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Butterfly,SCY,W,45-49,33.43,Amy B Mullaney,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Butterfly,SCY,W,45-49,33.66,June C Hussey,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Butterfly,SCY,W,45-49,33.78,Susan E Dawson-Cook,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,W,45-49,38.48,JoAnne M Bolivar,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Butterfly,SCY,W,45-49,1:30.00,JoAnne M Bolivar,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Butterfly,SCY,W,45-49,3:22.46,JoAnne M Bolivar,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:10.08,Monica M Bailey,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:20.61,Brenda C Creswell-Liotta,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:28.52,Teresa L Dozer,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,W,45-49,1:34.17,Michelle K Charles,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Individual Medley,SCY,W,45-49,2:27.28,Monica M Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,45-49,2:49.42,Susan E Dawson-Cook,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Individual Medley,SCY,W,45-49,3:24.54,Michelle K Charles,,Arizona SCY State Champs,2008,3
+ARIZ,400 Y Individual Medley,SCY,W,45-49,5:17.48,Monica M Bailey,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Freestyle,SCY,W,50-54,29.38,Caren A Bidegain,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,50-54,30.79,Katryn S James,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,50 Y Freestyle,SCY,W,50-54,31.17,Mikey G Girard,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,50 Y Freestyle,SCY,W,50-54,32.26,Mitzi E Gruender,,Arizona SCY State Champs,2008,4
+ARIZ,50 Y Freestyle,SCY,W,50-54,34.16,Michele R Canney,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,100 Y Freestyle,SCY,W,50-54,1:16.49,Michele R Canney,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Freestyle,SCY,W,50-54,1:20.17,Susan R Montgomery,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,W,50-54,2:27.64,Caron L Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,W,50-54,2:37.47,Katryn S James,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,200 Y Freestyle,SCY,W,50-54,2:47.75,Michele R Canney,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,500 Y Freestyle,SCY,W,50-54,6:36.34,Caron L Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,W,50-54,6:59.83,Katryn S James,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,500 Y Freestyle,SCY,W,50-54,7:36.80,Susan R Montgomery,,Arizona SCY State Champs,2008,3
+ARIZ,1000 Y Freestyle,SCY,W,50-54,13:46.17,Mitzi E Gruender,,Arizona SCY State Champs,2008,1
+ARIZ,1650 Y Freestyle,SCY,W,50-54,22:37.86,Caron L Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Backstroke,SCY,W,50-54,31.71,Stephanie S Rollins,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,50-54,34.65,Katryn S James,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,50 Y Backstroke,SCY,W,50-54,36.91,Caren A Bidegain,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,W,50-54,37.96,Mitzi E Gruender,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Backstroke,SCY,W,50-54,1:04.58,Stephanie S Rollins,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,W,50-54,1:15.83,Katryn S James,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,200 Y Backstroke,SCY,W,50-54,2:24.80,Stephanie S Rollins,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,W,50-54,2:51.24,Katryn S James,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,50-54,39.16,Caren A Bidegain,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,50-54,40.48,Mikey G Girard,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,50-54,42.02,Mitzi E Gruender,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Breaststroke,SCY,W,50-54,1:28.47,Mikey G Girard,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,50-54,1:31.25,Mitzi E Gruender,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,50-54,1:34.94,Cynthia Donnelly,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Breaststroke,SCY,W,50-54,3:20.71,Cynthia Donnelly,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Butterfly,SCY,W,50-54,27.50,Stephanie S Rollins,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,W,50-54,33.37,Caren A Bidegain,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,W,50-54,37.78,Mitzi E Gruender,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,W,50-54,46.21,Cynthia Donnelly,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Butterfly,SCY,W,50-54,1:30.16,Mitzi E Gruender,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:06.75,Stephanie S Rollins,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:14.34,Caren A Bidegain,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:21.60,Katryn S James,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:22.50,Mitzi E Gruender,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:29.26,Cynthia Donnelly,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,100 Y Individual Medley,SCY,W,50-54,1:39.15,Susan R Montgomery,,Arizona SCY State Champs,2008,6
+ARIZ,200 Y Individual Medley,SCY,W,50-54,3:14.93,Cynthia Donnelly,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,400 Y Individual Medley,SCY,W,50-54,6:26.71,Mitzi E Gruender,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,55-59,29.24,Christie Altman,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Freestyle,SCY,W,55-59,29.38,Evie S Lynch,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,W,55-59,52.34,Jean J Hart,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:03.64,Evie S Lynch,,UCLA SCY meet,2008,1
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:05.02,Christie Altman,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,100 Y Freestyle,SCY,W,55-59,1:23.61,Deborah P Yoklic,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Freestyle,SCY,W,55-59,2:32.24,Christie Altman,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,200 Y Freestyle,SCY,W,55-59,3:04.93,Lucy M Mitchell,,Arizona SCY State Champs,2008,2
+ARIZ,1000 Y Freestyle,SCY,W,55-59,15:42.17,Deborah P Yoklic,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Backstroke,SCY,W,55-59,32.44,Evie S Lynch,,UCLA SCY meet,2008,1
+ARIZ,50 Y Backstroke,SCY,W,55-59,37.37,Christie Altman,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Backstroke,SCY,W,55-59,1:04.47,Jean J Hart,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,100 Y Backstroke,SCY,W,55-59,1:09.24,Evie S Lynch,,UCLA SCY meet,2008,1
+ARIZ,100 Y Backstroke,SCY,W,55-59,1:38.41,Lucy M Mitchell,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,55-59,1:10.54,Jean J Hart,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Breaststroke,SCY,W,55-59,3:32.83,Deborah P Yoklic,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Butterfly,SCY,W,55-59,31.82,Evie S Lynch,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,W,55-59,33.53,Christie Altman,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,100 Y Butterfly,SCY,W,55-59,1:18.29,Christie Altman,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,100 Y Butterfly,SCY,W,55-59,1:46.39,Lucy M Mitchell,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Butterfly,SCY,W,55-59,3:15.91,Christie Altman,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,55-59,1:14.17,Evie S Lynch,,UCLA SCY meet,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,55-59,1:16.65,Christie Altman,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,55-59,1:39.37,Deborah P Yoklic,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Individual Medley,SCY,W,55-59,3:36.23,Lucy M Mitchell,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,60-64,33.80,Joanne C Menard,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,60-64,37.94,Mickey M Stillwell,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Freestyle,SCY,W,60-64,39.21,Wendy L Weinberg,,National Senior Games,2008,3
+ARIZ,50 Y Freestyle,SCY,W,60-64,40.82,Joyce R Apodaca,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:10.79,Joanne C Menard,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:25.39,Mickey M Stillwell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:30.20,Wendy L Weinberg,,National Senior Games,2008,3
+ARIZ,100 Y Freestyle,SCY,W,60-64,1:45.07,Bobbi Malone,,National Senior Games,2008,4
+ARIZ,200 Y Freestyle,SCY,W,60-64,2:34.69,Joanne C Menard,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,W,60-64,2:51.23,Judy L Gillies,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Freestyle,SCY,W,60-64,3:09.07,Mickey M Stillwell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Freestyle,SCY,W,60-64,3:17.04,Wendy L Weinberg,,National Senior Games,2008,4
+ARIZ,500 Y Freestyle,SCY,W,60-64,6:55.96,Joanne C Menard,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,W,60-64,7:55.86,Judy L Gillies,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,W,60-64,8:33.86,Wendy L Weinberg,,Las Vegas Masters SCY Meet,2008,3
+ARIZ,1650 Y Freestyle,SCY,W,60-64,23:53.45,Joanne C Menard,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1650 Y Freestyle,SCY,W,60-64,30:29.42,Wendy L Weinberg,,YMCA Masters Nationals at Ft. Lauderdale,2008,2
+ARIZ,50 Y Backstroke,SCY,W,60-64,49.20,Bobbi Malone,,National Senior Games,2008,1
+ARIZ,100 Y Backstroke,SCY,W,60-64,1:49.06,Bobbi Malone,,National Senior Games,2008,1
+ARIZ,200 Y Backstroke,SCY,W,60-64,4:00.93,Bobbi Malone,,National Senior Games,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,60-64,43.61,Joanne C Menard,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,60-64,47.54,Mickey M Stillwell,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,60-64,49.70,Wendy L Weinberg,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Breaststroke,SCY,W,60-64,1:33.28,Joanne C Menard,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,60-64,1:46.11,Judy L Gillies,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,60-64,1:46.55,Mickey M Stillwell,,2008 USMS Short Course Nationals,2008,3
+ARIZ,100 Y Breaststroke,SCY,W,60-64,1:54.49,Wendy L Weinberg,,YMCA Masters Nationals at Ft. Lauderdale,2008,4
+ARIZ,100 Y Breaststroke,SCY,W,60-64,2:07.02,Joyce R Apodaca,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,200 Y Breaststroke,SCY,W,60-64,3:27.95,Joanne C Menard,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,W,60-64,52.09,Wendy L Weinberg,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,60-64,1:39.51,Judy L Gillies,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,60-64,1:51.42,Joyce R Apodaca,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Individual Medley,SCY,W,60-64,1:52.15,Wendy L Weinberg,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Individual Medley,SCY,W,60-64,4:02.36,Wendy L Weinberg,,Arizona SCY State Champs,2008,1
+ARIZ,400 Y Individual Medley,SCY,W,60-64,8:54.49,Wendy L Weinberg,,Las Vegas Masters SCY Meet,2008,1
+ARIZ,50 Y Freestyle,SCY,W,65-69,39.55,Jill D Fritz,,National Senior Games,2008,1
+ARIZ,50 Y Freestyle,SCY,W,65-69,41.58,Diane P Sacco,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Freestyle,SCY,W,65-69,43.37,Anne Burnett,,Las Vegas Masters SCY Meet,2008,3
+ARIZ,100 Y Freestyle,SCY,W,65-69,1:33.81,Jill D Fritz,,National Senior Games,2008,1
+ARIZ,100 Y Freestyle,SCY,W,65-69,1:37.65,Diane P Sacco,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Freestyle,SCY,W,65-69,3:05.91,Grace C Dyck,,2008 COMSA and Breadbasket Zone SCY Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,W,65-69,3:31.73,Jill D Fritz,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Freestyle,SCY,W,65-69,3:45.47,Diane P Sacco,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Freestyle,SCY,W,65-69,4:51.18,Gaile Harden,,National Senior Games,2008,4
+ARIZ,500 Y Freestyle,SCY,W,65-69,7:55.24,Grace C Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,W,65-69,9:28.70,Jill D Fritz,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,W,65-69,9:51.67,Diane P Sacco,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,1000 Y Freestyle,SCY,W,65-69,16:19.09,Grace C Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1000 Y Freestyle,SCY,W,65-69,19:16.04,Diane P Sacco,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1000 Y Freestyle,SCY,W,65-69,22:53.13,Anne Burnett,,Arizona SCY State Champs,2008,3
+ARIZ,1650 Y Freestyle,SCY,W,65-69,33:28.49,Jill D Fritz,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,65-69,49.14,Grace C Dyck,,2008 COMSA and Breadbasket Zone SCY Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,65-69,50.12,Jill D Fritz,,National Senior Games,2008,2
+ARIZ,100 Y Backstroke,SCY,W,65-69,1:46.75,Grace C Dyck,,Kevin Nash Memorial Meet,2008,1
+ARIZ,100 Y Backstroke,SCY,W,65-69,1:48.00,Jill D Fritz,,National Senior Games,2008,2
+ARIZ,100 Y Backstroke,SCY,W,65-69,2:02.79,Anne Burnett,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Backstroke,SCY,W,65-69,2:11.02,Gaile Harden,,National Senior Games,2008,4
+ARIZ,200 Y Backstroke,SCY,W,65-69,3:33.55,Grace C Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,W,65-69,4:52.36,Anne Burnett,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Backstroke,SCY,W,65-69,4:53.05,Gaile Harden,,National Senior Games,2008,3
+ARIZ,50 Y Breaststroke,SCY,W,65-69,48.06,Grace C Dyck,,2008 COMSA and Breadbasket Zone SCY Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,65-69,57.44,Anne Burnett,,National Senior Games,2008,2
+ARIZ,50 Y Breaststroke,SCY,W,65-69,1:02.82,Gaile Harden,,National Senior Games,2008,3
+ARIZ,50 Y Breaststroke,SCY,W,65-69,1:02.99,Jill D Fritz,,National Senior Games,2008,4
+ARIZ,100 Y Breaststroke,SCY,W,65-69,1:46.04,Grace C Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,65-69,2:15.74,Gaile Harden,,National Senior Games,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,65-69,2:18.05,Jill D Fritz,,National Senior Games,2008,3
+ARIZ,200 Y Breaststroke,SCY,W,65-69,3:57.35,Grace C Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Breaststroke,SCY,W,65-69,5:01.75,Gaile Harden,,National Senior Games,2008,2
+ARIZ,50 Y Butterfly,SCY,W,65-69,51.59,Anne Burnett,,National Senior Games,2008,1
+ARIZ,100 Y Butterfly,SCY,W,65-69,2:09.37,Anne Burnett,,National Senior Games,2008,1
+ARIZ,200 Y Butterfly,SCY,W,65-69,5:25.91,Anne Burnett,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,65-69,1:39.96,Grace C Dyck,,2008 COMSA and Breadbasket Zone SCY Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,65-69,1:51.68,Anne Burnett,,National Senior Games,2008,2
+ARIZ,200 Y Individual Medley,SCY,W,65-69,3:32.88,Grace C Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,W,65-69,4:10.77,Anne Burnett,,National Senior Games,2008,2
+ARIZ,400 Y Individual Medley,SCY,W,65-69,9:32.41,Anne Burnett,,Las Vegas Masters SCY Meet,2008,1
+ARIZ,50 Y Freestyle,SCY,W,70-74,45.68,Helen H Bayly,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,W,70-74,1:52.43,Helen H Bayly,,Arizona SCY State Champs,2008,1
+ARIZ,1000 Y Freestyle,SCY,W,70-74,22:35.18,Helen H Bayly,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,70-74,57.07,Helen H Bayly,,"Adirondack Pilgrims Pride at RPI, Troy, NY",2008,1
+ARIZ,100 Y Backstroke,SCY,W,70-74,2:08.16,Helen H Bayly,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,W,70-74,4:50.25,Helen H Bayly,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,70-74,49.95,Elizabeth D Haesemeyer,,Colorado Rocky Mountain SR Games,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,70-74,1:18.72,Helen H Bayly,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,W,70-74,1:52.04,Elizabeth D Haesemeyer,,Colorado Rocky Mountain SR Games,2008,1
+ARIZ,50 Y Butterfly,SCY,W,70-74,54.43,Helen H Bayly,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,70-74,2:12.46,Helen H Bayly,,Adirondack Leatherstocking SCY Meet,2008,1
+ARIZ,100 Y Freestyle,SCY,W,75-79,1:45.70,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,W,75-79,3:46.62,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,W,75-79,9:29.13,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,75-79,54.86,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,75-79,48.62,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,75-79,1:53.82,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Breaststroke,SCY,W,75-79,4:14.07,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,W,75-79,54.13,Carol P Taylor,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,W,80-84,1:15.65,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,W,80-84,2:49.79,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,W,80-84,5:58.82,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,W,80-84,1:32.49,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,W,80-84,1:47.87,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,W,80-84,4:06.54,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,W,80-84,1:32.48,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,W,80-84,3:23.03,Iris L Dozer,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,18-24,22.62,Eliot T Dash,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Freestyle,SCY,M,18-24,24.96,Benjamin S Swanholm,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Freestyle,SCY,M,18-24,50.04,Eliot T Dash,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Freestyle,SCY,M,18-24,1:52.77,Eliot T Dash,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Freestyle,SCY,M,18-24,1:58.80,Benjamin S Swanholm,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,M,18-24,2:09.34,A J Bronson,,2008 USMS Short Course Nationals,2008,3
+ARIZ,500 Y Freestyle,SCY,M,18-24,6:07.53,A J Bronson,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,M,18-24,58.65,Eliot T Dash,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,18-24,28.30,Benjamin S Swanholm,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,18-24,1:01.90,Benjamin S Swanholm,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Butterfly,SCY,M,18-24,56.33,Eliot T Dash,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,18-24,59.77,Benjamin S Swanholm,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,18-24,2:14.05,Benjamin S Swanholm,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,25-29,22.55,Jonathan L Donath,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,25-29,23.41,Christopher M Hunter,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,25-29,24.02,Omar Hassan,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,M,25-29,28.91,Eric C Dykeman,,Utah QUAC Ski-n-Swim SCY,2008,4
+ARIZ,200 Y Freestyle,SCY,M,25-29,1:51.15,Jonathan L Donath,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,M,25-29,1:51.40,Steve P Worthy,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,M,25-29,57.80,Steve P Worthy,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,25-29,36.04,Eric C Dykeman,,Utah QUAC Ski-n-Swim SCY,2008,1
+ARIZ,50 Y Butterfly,SCY,M,25-29,21.90,Kohei Kawanoto,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,M,25-29,25.20,Jacob A Palmer,,Utah QUAC Ski-n-Swim SCY,2008,2
+ARIZ,50 Y Butterfly,SCY,M,25-29,25.36,Jonathan L Donath,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,M,25-29,34.35,Eric C Dykeman,,Utah QUAC Ski-n-Swim SCY,2008,4
+ARIZ,100 Y Butterfly,SCY,M,25-29,54.61,Jonathan L Donath,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Butterfly,SCY,M,25-29,54.87,Steve P Worthy,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Butterfly,SCY,M,25-29,2:05.55,Jonathan L Donath,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,25-29,56.58,Jacob A Palmer,,Utah QUAC Ski-n-Swim SCY,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,25-29,1:03.67,Omar Hassan,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Individual Medley,SCY,M,25-29,2:05.91,Jacob A Palmer,,Utah QUAC Ski-n-Swim SCY,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,25-29,2:45.67,Eric C Dykeman,,Utah QUAC Ski-n-Swim SCY,2008,2
+ARIZ,50 Y Freestyle,SCY,M,30-34,22.79,Jeff P Commings,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Freestyle,SCY,M,30-34,23.69,Stephen S So,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,30-34,23.81,D.j. Hannah,,Alaska Masters SCY Champs (Individual and Relay Combined),2008,3
+ARIZ,50 Y Freestyle,SCY,M,30-34,24.43,Jason M Sixkiller,,2008 USMS Short Course Nationals,2008,4
+ARIZ,50 Y Freestyle,SCY,M,30-34,28.45,Hkun K Tun,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Freestyle,SCY,M,30-34,52.40,D.j. Hannah,,Alaska Masters SCY Champs (Individual and Relay Combined),2008,1
+ARIZ,100 Y Freestyle,SCY,M,30-34,52.77,Stephen S So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,100 Y Freestyle,SCY,M,30-34,55.15,Jason M Sixkiller,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:49.69,Jeff P Commings,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:55.28,Jason M Sixkiller,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Freestyle,SCY,M,30-34,1:55.57,D.j. Hannah,,Alaska Masters SCY Champs (Individual and Relay Combined),2008,3
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:18.41,D.j. Hannah,,Alaska Masters SCY Champs (Individual and Relay Combined),2008,1
+ARIZ,500 Y Freestyle,SCY,M,30-34,5:22.60,Jason M Sixkiller,,2008 USMS Short Course Nationals,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,30-34,11:11.87,Jason M Sixkiller,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Backstroke,SCY,M,30-34,28.35,Brent Hartzell,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,M,30-34,29.17,Stephen S So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,50 Y Backstroke,SCY,M,30-34,33.80,Hkun K Tun,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Backstroke,SCY,M,30-34,51.94,Jeff P Commings,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,M,30-34,1:01.11,Jason M Sixkiller,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Backstroke,SCY,M,30-34,1:01.72,Brent Hartzell,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Backstroke,SCY,M,30-34,1:55.01,Jeff P Commings,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,M,30-34,2:12.38,Jason M Sixkiller,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,30-34,25.69,Jeff P Commings,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,30-34,26.42,Blake A Holden,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,30-34,29.68,Jeff G Leid,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,30-34,30.67,Stephen S So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,4
+ARIZ,50 Y Breaststroke,SCY,M,30-34,31.35,Jeff D Ashbeck,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Breaststroke,SCY,M,30-34,34.20,Hkun K Tun,,Arizona SCY State Champs,2008,6
+ARIZ,100 Y Breaststroke,SCY,M,30-34,57.12,Jeff P Commings,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,30-34,57.23,Blake A Holden,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,30-34,1:06.87,Stephen S So,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,3
+ARIZ,100 Y Breaststroke,SCY,M,30-34,1:15.58,Hkun K Tun,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Breaststroke,SCY,M,30-34,2:07.63,Blake A Holden,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,30-34,2:27.75,Jeff D Ashbeck,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,M,30-34,25.67,Jeff G Leid,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,M,30-34,25.71,Stephen S So,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,M,30-34,26.50,Brent Hartzell,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,M,30-34,26.83,D.j. Hannah,,Alaska Masters SCY Champs (Individual and Relay Combined),2008,4
+ARIZ,50 Y Butterfly,SCY,M,30-34,26.87,Jeff D Ashbeck,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Butterfly,SCY,M,30-34,31.71,Hkun K Tun,,Arizona SCY State Champs,2008,6
+ARIZ,100 Y Butterfly,SCY,M,30-34,53.46,Blake A Holden,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Butterfly,SCY,M,30-34,55.66,Jeff G Leid,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Butterfly,SCY,M,30-34,59.38,Jeff D Ashbeck,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Butterfly,SCY,M,30-34,1:01.78,Stephen S So,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Butterfly,SCY,M,30-34,1:06.30,Jason M Sixkiller,,Arizona SCY State Champs,2008,5
+ARIZ,200 Y Butterfly,SCY,M,30-34,2:04.44,Jeff G Leid,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Butterfly,SCY,M,30-34,2:13.60,Jeff D Ashbeck,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,30-34,52.11,Jeff P Commings,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,30-34,53.52,Blake A Holden,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:00.19,Jeff G Leid,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:00.25,Stephen S So,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:00.61,D.j. Hannah,,Alaska Masters SCY Champs (Individual and Relay Combined),2008,5
+ARIZ,100 Y Individual Medley,SCY,M,30-34,1:04.25,Jason M Sixkiller,,Arizona SCY State Champs,2008,6
+ARIZ,200 Y Individual Medley,SCY,M,30-34,1:54.96,Jeff P Commings,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:10.70,Jeff G Leid,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:14.48,Jeff D Ashbeck,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Individual Medley,SCY,M,30-34,2:22.07,Jason M Sixkiller,,Arizona SCY State Champs,2008,4
+ARIZ,400 Y Individual Medley,SCY,M,30-34,4:38.34,Jeff G Leid,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,30-34,4:44.34,Jeff D Ashbeck,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,35-39,25.41,John A Beaver,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,M,35-39,56.52,John A Beaver,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,M,35-39,1:11.27,Eddie R Mylan,,Utah QUAC Ski-n-Swim SCY,2008,2
+ARIZ,200 Y Freestyle,SCY,M,35-39,2:02.02,John A Beaver,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:29.69,Kent M Johnson,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,M,35-39,5:41.73,John A Beaver,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,M,35-39,59.33,Rick H Cosgrove,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,35-39,43.11,Eddie R Mylan,,Utah QUAC Ski-n-Swim SCY,2008,1
+ARIZ,50 Y Butterfly,SCY,M,35-39,24.85,Rick H Cosgrove,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,M,35-39,27.46,John A Beaver,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Butterfly,SCY,M,35-39,1:01.69,John A Beaver,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Butterfly,SCY,M,35-39,2:13.73,Kent M Johnson,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,35-39,57.45,Rick H Cosgrove,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:04.48,Kent M Johnson,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,35-39,1:06.89,John A Beaver,,Arizona SCY State Champs,2008,3
+ARIZ,400 Y Individual Medley,SCY,M,35-39,5:05.91,Kent M Johnson,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,40-44,23.91,Patrick W Brundage,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,40-44,24.20,Kurt F Dickson,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,40-44,24.68,Mark C Rankin,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,M,40-44,25.19,Mark D Hickman,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Freestyle,SCY,M,40-44,26.24,John C Becker,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Freestyle,SCY,M,40-44,26.90,Alex E Gort,,Arizona SCY State Champs,2008,6
+ARIZ,50 Y Freestyle,SCY,M,40-44,28.28,Luke E Collins,,Arizona SCY State Champs,2008,7
+ARIZ,50 Y Freestyle,SCY,M,40-44,29.73,Rodney (Scott) Harnisch,,Arizona SCY State Champs,2008,8
+ARIZ,50 Y Freestyle,SCY,M,40-44,30.36,Troy D O'Dell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,9
+ARIZ,50 Y Freestyle,SCY,M,40-44,33.89,Douglas D Everett,,Arizona SCY State Champs,2008,10
+ARIZ,50 Y Freestyle,SCY,M,40-44,37.68,Robert E Pilling,,Arizona SCY State Champs,2008,11
+ARIZ,100 Y Freestyle,SCY,M,40-44,53.43,Kurt F Dickson,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,M,40-44,56.23,John C Becker,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Freestyle,SCY,M,40-44,59.98,Alex E Gort,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:03.46,Luke E Collins,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:08.58,Troy D O'Dell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:12.60,Douglas D Everett,,Arizona SCY State Champs,2008,6
+ARIZ,100 Y Freestyle,SCY,M,40-44,1:27.22,Robert E Pilling,,Arizona SCY State Champs,2008,7
+ARIZ,200 Y Freestyle,SCY,M,40-44,1:48.81,Patrick W Brundage,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,M,40-44,1:50.85,Kurt F Dickson,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:16.42,Alex E Gort,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:19.46,Luke E Collins,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Freestyle,SCY,M,40-44,2:45.11,Douglas D Everett,,Arizona SCY State Champs,2008,5
+ARIZ,500 Y Freestyle,SCY,M,40-44,4:52.08,Patrick W Brundage,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,M,40-44,4:56.99,Kurt F Dickson,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:29.84,Mark D Hickman,,2008 USMS Short Course Nationals,2008,3
+ARIZ,500 Y Freestyle,SCY,M,40-44,5:34.07,John C Becker,,Arizona SCY State Champs,2008,4
+ARIZ,500 Y Freestyle,SCY,M,40-44,6:16.95,Alex E Gort,,Arizona SCY State Champs,2008,5
+ARIZ,500 Y Freestyle,SCY,M,40-44,6:33.41,Luke E Collins,,Arizona SCY State Champs,2008,6
+ARIZ,500 Y Freestyle,SCY,M,40-44,7:55.90,Douglas D Everett,,Arizona SCY State Champs,2008,7
+ARIZ,1000 Y Freestyle,SCY,M,40-44,10:20.66,Kurt F Dickson,,Arizona SCY State Champs,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,40-44,11:42.30,Mark D Hickman,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,40-44,13:26.83,Alex E Gort,,Arizona SCY State Champs,2008,3
+ARIZ,1000 Y Freestyle,SCY,M,40-44,14:14.23,Troy D O'Dell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,1650 Y Freestyle,SCY,M,40-44,19:16.09,John C Becker,,Arizona SCY State Champs,2008,1
+ARIZ,1650 Y Freestyle,SCY,M,40-44,19:43.02,Mark D Hickman,,Arizona SCY State Champs,2008,2
+ARIZ,1650 Y Freestyle,SCY,M,40-44,28:24.13,Douglas D Everett,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,M,40-44,27.69,Kurt F Dickson,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,M,40-44,30.08,Mark C Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Backstroke,SCY,M,40-44,49.91,Robert E Pilling,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Backstroke,SCY,M,40-44,58.37,Kurt F Dickson,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Backstroke,SCY,M,40-44,59.61,Mark D Hickman,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Backstroke,SCY,M,40-44,2:01.72,Kurt F Dickson,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,M,40-44,2:09.90,Mark D Hickman,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Backstroke,SCY,M,40-44,4:32.62,Robert E Pilling,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,40-44,29.93,Brian K Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,40-44,32.09,Mark C Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,40-44,1:12.09,Mark C Rankin,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,40-44,1:26.38,Alex E Gort,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,M,40-44,26.59,Mark C Rankin,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,M,40-44,29.89,Alex E Gort,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,M,40-44,30.99,Luke E Collins,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,M,40-44,32.07,Troy D O'Dell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Butterfly,SCY,M,40-44,36.20,Rodney (Scott) Harnisch,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Butterfly,SCY,M,40-44,41.93,Douglas D Everett,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,6
+ARIZ,100 Y Butterfly,SCY,M,40-44,1:01.11,Brian K Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Butterfly,SCY,M,40-44,1:10.88,Luke E Collins,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Butterfly,SCY,M,40-44,1:47.26,Douglas D Everett,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Butterfly,SCY,M,40-44,2:00.96,Patrick W Brundage,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Butterfly,SCY,M,40-44,4:03.11,Douglas D Everett,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,40-44,56.18,Patrick W Brundage,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:03.08,Mark C Rankin,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:08.90,John C Becker,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:15.04,Alex E Gort,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:17.13,Troy D O'Dell,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,100 Y Individual Medley,SCY,M,40-44,1:42.23,Douglas D Everett,,Arizona SCY State Champs,2008,6
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:06.78,Patrick W Brundage,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:11.09,Mark D Hickman,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:20.56,Brian K Duffield,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Individual Medley,SCY,M,40-44,2:41.20,Alex E Gort,,Arizona SCY State Champs,2008,4
+ARIZ,400 Y Individual Medley,SCY,M,40-44,4:17.04,Patrick W Brundage,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,40-44,4:33.70,Kurt F Dickson,,Arizona SCY State Champs,2008,2
+ARIZ,400 Y Individual Medley,SCY,M,40-44,4:51.88,Mark D Hickman,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Freestyle,SCY,M,45-49,21.30,John C Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,M,45-49,21.69,Paul L Smith,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Freestyle,SCY,M,45-49,22.76,Brad V Hering,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Freestyle,SCY,M,45-49,22.78,Paul A Hafner,,2008 USMS Short Course Nationals,2008,4
+ARIZ,50 Y Freestyle,SCY,M,45-49,25.68,David S Boyer,,Arizona SCY State Champs,2008,5
+ARIZ,50 Y Freestyle,SCY,M,45-49,26.27,Frank M Tomizuka,,Arizona SCY State Champs,2008,6
+ARIZ,50 Y Freestyle,SCY,M,45-49,29.90,Kurt H Luedtke,,Arizona SCY State Champs,2008,7
+ARIZ,100 Y Freestyle,SCY,M,45-49,47.02,John C Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Freestyle,SCY,M,45-49,47.65,Paul L Smith,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,100 Y Freestyle,SCY,M,45-49,49.40,Paul A Hafner,,2008 USMS Short Course Nationals,2008,3
+ARIZ,100 Y Freestyle,SCY,M,45-49,59.75,Scott D Shake,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Freestyle,SCY,M,45-49,59.78,Frank M Tomizuka,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,100 Y Freestyle,SCY,M,45-49,1:04.44,Kurt H Luedtke,,Arizona SCY State Champs,2008,6
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:43.79,Paul L Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:50.90,Paul A Hafner,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:55.96,Al Jaegers,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Freestyle,SCY,M,45-49,1:58.79,Scott D Shake,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Freestyle,SCY,M,45-49,2:08.43,Frank M Tomizuka,,Arizona SCY State Champs,2008,5
+ARIZ,200 Y Freestyle,SCY,M,45-49,2:26.48,Kurt H Luedtke,,Arizona SCY State Champs,2008,6
+ARIZ,500 Y Freestyle,SCY,M,45-49,4:45.68,Paul L Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,M,45-49,5:12.88,Al Jaegers,,Arizona SCY State Champs,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,45-49,10:09.09,Al Jaegers,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,45-49,10:47.66,Scott D Shake,,Arizona SCY State Champs,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,45-49,11:01.07,Paul L Smith,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Backstroke,SCY,M,45-49,24.38,John C Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Backstroke,SCY,M,45-49,25.73,Al Jaegers,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Backstroke,SCY,M,45-49,26.00,Paul L Smith,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,3
+ARIZ,50 Y Backstroke,SCY,M,45-49,26.28,Brad V Hering,,2008 USMS Short Course Nationals,2008,4
+ARIZ,50 Y Backstroke,SCY,M,45-49,29.64,Paul A Hafner,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Backstroke,SCY,M,45-49,1:00.73,Scott D Shake,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,M,45-49,2:06.40,Scott D Shake,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,M,45-49,2:09.68,Paul L Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,45-49,27.25,Glenn D Mills,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,45-49,29.87,Al Jaegers,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,45-49,32.24,Paul A Hafner,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,45-49,42.48,Kurt H Luedtke,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:00.16,Glenn D Mills,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:04.36,Al Jaegers,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,45-49,1:10.07,Paul A Hafner,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Breaststroke,SCY,M,45-49,2:10.64,Glenn D Mills,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,45-49,2:15.09,Al Jaegers,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Butterfly,SCY,M,45-49,22.67,Paul L Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,M,45-49,23.14,John C Smith,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Butterfly,SCY,M,45-49,23.80,Brad V Hering,,2008 USMS Short Course Nationals,2008,3
+ARIZ,50 Y Butterfly,SCY,M,45-49,25.00,Paul A Hafner,,2008 USMS Short Course Nationals,2008,4
+ARIZ,50 Y Butterfly,SCY,M,45-49,27.19,David S Boyer,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Butterfly,SCY,M,45-49,51.37,Paul L Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Butterfly,SCY,M,45-49,55.30,Paul A Hafner,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Butterfly,SCY,M,45-49,1:04.29,David S Boyer,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,M,45-49,52.84,John C Smith,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,45-49,55.06,Glenn D Mills,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,45-49,55.57,Al Jaegers,,2008 USMS Short Course Nationals,2008,3
+ARIZ,100 Y Individual Medley,SCY,M,45-49,57.46,Paul A Hafner,,2008 USMS Short Course Nationals,2008,4
+ARIZ,100 Y Individual Medley,SCY,M,45-49,58.28,Paul L Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:00.86,Scott D Shake,,Arizona SCY State Champs,2008,6
+ARIZ,100 Y Individual Medley,SCY,M,45-49,1:07.79,Frank M Tomizuka,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,7
+ARIZ,200 Y Individual Medley,SCY,M,45-49,2:01.43,Al Jaegers,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,45-49,2:02.14,Glenn D Mills,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Individual Medley,SCY,M,45-49,2:11.19,Scott D Shake,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Individual Medley,SCY,M,45-49,2:29.05,Frank M Tomizuka,,Arizona SCY State Champs,2008,4
+ARIZ,400 Y Individual Medley,SCY,M,45-49,4:23.85,Glenn D Mills,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,45-49,4:24.89,Al Jaegers,,2008 USMS Short Course Nationals,2008,2
+ARIZ,400 Y Individual Medley,SCY,M,45-49,4:40.28,Scott D Shake,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,M,50-54,22.96,Barry Roth,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,M,50-54,24.46,Ted W Hammond,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,50-54,25.85,Jim S Stites,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,3
+ARIZ,50 Y Freestyle,SCY,M,50-54,25.99,Casey Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Freestyle,SCY,M,50-54,27.08,John J Murphy,,2008 USMS Short Course Nationals,2008,5
+ARIZ,50 Y Freestyle,SCY,M,50-54,31.01,William E Shaw,,Arizona SCY State Champs,2008,6
+ARIZ,50 Y Freestyle,SCY,M,50-54,32.63,Jim D Koubeck,,Arizona SCY State Champs,2008,7
+ARIZ,50 Y Freestyle,SCY,M,50-54,39.30,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,8
+ARIZ,100 Y Freestyle,SCY,M,50-54,54.38,Ted W Hammond,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Freestyle,SCY,M,50-54,56.64,Jim S Stites,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,100 Y Freestyle,SCY,M,50-54,59.13,James T Lavery,,2008 USMS Short Course Nationals,2008,3
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:13.52,Jim D Koubeck,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Freestyle,SCY,M,50-54,1:35.90,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,5
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:01.46,Robert J Ditolla,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:03.41,Jim S Stites,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:12.46,James T Lavery,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:25.54,Barry Roth,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Freestyle,SCY,M,50-54,2:32.78,Jim D Koubeck,,Arizona SCY State Champs,2008,5
+ARIZ,200 Y Freestyle,SCY,M,50-54,3:38.76,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,6
+ARIZ,500 Y Freestyle,SCY,M,50-54,5:35.58,Robert J Ditolla,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,M,50-54,5:43.06,Jim S Stites,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,2
+ARIZ,500 Y Freestyle,SCY,M,50-54,6:16.04,James T Lavery,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,500 Y Freestyle,SCY,M,50-54,7:01.45,Jim D Koubeck,,Arizona SCY State Champs,2008,4
+ARIZ,500 Y Freestyle,SCY,M,50-54,7:25.22,William E Shaw,,Arizona SCY State Champs,2008,5
+ARIZ,1000 Y Freestyle,SCY,M,50-54,10:31.92,Scott D Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,50-54,11:38.19,Barry Roth,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,50-54,11:42.34,Robert J Ditolla,,Arizona SCY State Champs,2008,3
+ARIZ,1000 Y Freestyle,SCY,M,50-54,11:51.40,Jim S Stites,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,4
+ARIZ,1650 Y Freestyle,SCY,M,50-54,20:12.83,Robert J Ditolla,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,1650 Y Freestyle,SCY,M,50-54,24:46.84,Jim D Koubeck,,Arizona SCY State Champs,2008,2
+ARIZ,1650 Y Freestyle,SCY,M,50-54,26:13.71,William E Shaw,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,M,50-54,27.30,Scott D Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Backstroke,SCY,M,50-54,31.99,Casey Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Backstroke,SCY,M,50-54,45.96,Jim D Koubeck,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,M,50-54,1:06.75,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Backstroke,SCY,M,50-54,57.65,Scott D Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Backstroke,SCY,M,50-54,1:33.79,Jim D Koubeck,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Backstroke,SCY,M,50-54,2:05.69,Scott D Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,M,50-54,2:28.36,Jeffrey S Krongaard,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Backstroke,SCY,M,50-54,3:19.06,Jim D Koubeck,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,50-54,30.43,Barry Roth,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,50-54,31.04,Charles H Keating,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,50-54,34.00,Casey Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,50-54,52.19,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:09.17,Charles H Keating,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:11.90,Barry Roth,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:17.53,James T Lavery,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Breaststroke,SCY,M,50-54,1:29.97,Jim D Koubeck,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Breaststroke,SCY,M,50-54,2:02.92,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,5
+ARIZ,200 Y Breaststroke,SCY,M,50-54,2:41.16,Charles H Keating,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,50-54,4:27.70,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,M,50-54,27.27,Casey Smith,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Butterfly,SCY,M,50-54,27.69,Ted W Hammond,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Butterfly,SCY,M,50-54,27.84,Robert J Ditolla,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,M,50-54,59.94,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,4
+ARIZ,100 Y Butterfly,SCY,M,50-54,1:00.59,Robert J Ditolla,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Butterfly,SCY,M,50-54,1:05.08,Ted W Hammond,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Butterfly,SCY,M,50-54,2:15.40,Robert J Ditolla,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Butterfly,SCY,M,50-54,2:58.08,Ted W Hammond,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,50-54,58.28,Scott D Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:00.93,Barry Roth,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:07.33,Robert J Ditolla,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:09.78,John J Murphy,,2008 USMS Short Course Nationals,2008,4
+ARIZ,100 Y Individual Medley,SCY,M,50-54,1:09.87,James T Lavery,,Arizona SCY State Champs,2008,5
+ARIZ,100 Y Individual Medley,SCY,M,50-54,2:20.75,Raul A Roman-Riefkohl,,Arizona SCY State Champs,2008,6
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:05.38,Scott D Shake,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:20.66,Jeffrey S Krongaard,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:22.76,Robert J Ditolla,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:34.67,James T Lavery,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Individual Medley,SCY,M,50-54,2:37.54,Ted W Hammond,,Arizona SCY State Champs,2008,5
+ARIZ,400 Y Individual Medley,SCY,M,50-54,5:05.23,Robert J Ditolla,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,55-59,23.63,Tate Holt,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,M,55-59,24.35,W. Thomas Hickcox,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Freestyle,SCY,M,55-59,29.72,Robert J Liotta,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Freestyle,SCY,M,55-59,52.86,Tate Holt,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Freestyle,SCY,M,55-59,53.55,W. Thomas Hickcox,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Freestyle,SCY,M,55-59,1:05.48,Don R Perry,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Freestyle,SCY,M,55-59,2:19.69,Don R Perry,,Arizona SCY State Champs,2008,1
+ARIZ,500 Y Freestyle,SCY,M,55-59,6:10.77,Don R Perry,,Arizona SCY State Champs,2008,1
+ARIZ,1650 Y Freestyle,SCY,M,55-59,21:24.75,Don R Perry,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,M,55-59,34.82,Robert J Liotta,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,55-59,31.66,Brock Ladewig,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,55-59,33.79,Robert J Liotta,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,55-59,1:09.59,Brock Ladewig,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,55-59,1:14.09,Robert J Liotta,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,55-59,1:25.43,Don R Perry,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Breaststroke,SCY,M,55-59,2:42.42,Robert J Liotta,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,55-59,2:42.98,Brock Ladewig,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Breaststroke,SCY,M,55-59,2:57.43,Don R Perry,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,M,55-59,26.49,W. Thomas Hickcox,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,M,55-59,29.57,Robert J Liotta,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Butterfly,SCY,M,55-59,1:23.34,Don R Perry,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,55-59,1:08.55,Robert J Liotta,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,55-59,2:50.22,Don R Perry,,Arizona SCY State Champs,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,55-59,5:54.96,Don R Perry,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,60-64,27.98,Kimball Bernard,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,60-64,30.53,Hop Bailey,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Freestyle,SCY,M,60-64,31.38,Mark A Paulsen,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,M,60-64,46.33,James L Coleman,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:02.47,Hop Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:10.83,Mark A Paulsen,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:17.03,John C Welton,,National Senior Games,2008,3
+ARIZ,100 Y Freestyle,SCY,M,60-64,1:41.84,James L Coleman,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,200 Y Freestyle,SCY,M,60-64,2:14.30,Hop Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Freestyle,SCY,M,60-64,2:39.77,Mark A Paulsen,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,M,60-64,2:53.73,John C Welton,,National Senior Games,2008,3
+ARIZ,200 Y Freestyle,SCY,M,60-64,3:44.84,James L Coleman,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,500 Y Freestyle,SCY,M,60-64,6:08.73,Hop Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,M,60-64,7:18.47,Mark A Paulsen,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,M,60-64,7:59.81,John C Welton,,National Senior Games,2008,3
+ARIZ,1000 Y Freestyle,SCY,M,60-64,12:37.33,Hop Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,60-64,15:05.73,Mark A Paulsen,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1650 Y Freestyle,SCY,M,60-64,21:28.88,Hop Bailey,,Mission Viejo Nadadores SPMA Southwest Zone Championship Meet,2008,1
+ARIZ,50 Y Backstroke,SCY,M,60-64,30.53,Gregory S Gush,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Backstroke,SCY,M,60-64,1:05.85,Gregory S Gush,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,M,60-64,2:28.55,Gregory S Gush,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,M,60-64,3:56.74,Mark A Paulsen,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,60-64,31.11,Doug A Springer,,National Senior Games,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,60-64,32.97,Kimball Bernard,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,60-64,40.73,John C Welton,,National Senior Games,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,60-64,43.82,Peter A Eisenklam,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:08.22,Doug A Springer,,National Senior Games,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:13.80,Kimball Bernard,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:32.83,John C Welton,,National Senior Games,2008,3
+ARIZ,100 Y Breaststroke,SCY,M,60-64,1:41.94,Peter A Eisenklam,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,200 Y Breaststroke,SCY,M,60-64,2:31.63,Doug A Springer,,National Senior Games,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,60-64,3:55.36,Peter A Eisenklam,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,50 Y Butterfly,SCY,M,60-64,36.09,Mark A Paulsen,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Butterfly,SCY,M,60-64,1:44.31,Mark A Paulsen,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Butterfly,SCY,M,60-64,4:08.64,Mark A Paulsen,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:03.23,Doug A Springer,,National Senior Games,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,60-64,1:33.79,Mark A Paulsen,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,200 Y Individual Medley,SCY,M,60-64,2:36.67,Hop Bailey,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,60-64,5:53.97,Hop Bailey,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,65-69,29.61,Kenneth O McKinney,,National Senior Games,2008,1
+ARIZ,50 Y Freestyle,SCY,M,65-69,31.95,Richard J LeRoy,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,65-69,34.10,David B Jacobs,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Freestyle,SCY,M,65-69,36.91,Jim D Wise,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,50 Y Freestyle,SCY,M,65-69,47.40,Thomas A Monroe Sr.,,Las Vegas Masters SCY Meet,2008,5
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:07.75,Kenneth O McKinney,,National Senior Games,2008,1
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:13.09,Richard J LeRoy,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:18.34,David B Jacobs,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Freestyle,SCY,M,65-69,1:25.89,Jim D Wise,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,4
+ARIZ,100 Y Freestyle,SCY,M,65-69,2:14.21,Thomas A Monroe Sr.,,Las Vegas Masters SCY Meet,2008,5
+ARIZ,200 Y Freestyle,SCY,M,65-69,2:32.69,Mel Dyck,,2008 COMSA and Breadbasket Zone SCY Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,M,65-69,2:41.13,Richard J LeRoy,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,M,65-69,2:48.70,Kenneth O McKinney,,National Senior Games,2008,3
+ARIZ,200 Y Freestyle,SCY,M,65-69,2:48.87,Bob L Jones,,Arizona SCY State Champs,2008,4
+ARIZ,200 Y Freestyle,SCY,M,65-69,3:00.36,David B Jacobs,,Arizona SCY State Champs,2008,5
+ARIZ,200 Y Freestyle,SCY,M,65-69,4:34.15,Thomas A Monroe Sr.,,Arizona SCY State Champs,2008,6
+ARIZ,500 Y Freestyle,SCY,M,65-69,7:04.50,Mel Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,M,65-69,7:26.87,Bob L Jones,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,M,65-69,7:39.08,Richard J LeRoy,,Arizona SCY State Champs,2008,3
+ARIZ,500 Y Freestyle,SCY,M,65-69,13:01.51,Thomas A Monroe Sr.,,Arizona SCY State Champs,2008,4
+ARIZ,1000 Y Freestyle,SCY,M,65-69,13:36.03,Mel Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,65-69,15:08.17,Bob L Jones,,Arizona SCY State Champs,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,65-69,27:48.03,Thomas A Monroe Sr.,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,M,65-69,39.60,Richard J LeRoy,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Backstroke,SCY,M,65-69,42.48,Mel Dyck,,Kevin Nash Memorial Meet,2008,2
+ARIZ,50 Y Backstroke,SCY,M,65-69,43.92,Bob L Jones,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Backstroke,SCY,M,65-69,47.24,David B Jacobs,,Arizona SCY State Champs,2008,4
+ARIZ,50 Y Backstroke,SCY,M,65-69,49.60,Jim D Wise,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,5
+ARIZ,50 Y Backstroke,SCY,M,65-69,50.91,Frank E Eissing,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,6
+ARIZ,50 Y Backstroke,SCY,M,65-69,57.38,Thomas A Monroe Sr.,,National Senior Games,2008,7
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:29.97,Richard J LeRoy,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:32.41,David B Jacobs,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:32.57,Bob L Jones,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Backstroke,SCY,M,65-69,1:37.43,Mel Dyck,,Kevin Nash Memorial Meet,2008,4
+ARIZ,200 Y Backstroke,SCY,M,65-69,3:20.19,David B Jacobs,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Backstroke,SCY,M,65-69,3:24.25,Bob L Jones,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,65-69,37.82,Mel Dyck,,Kevin Nash Memorial Meet,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,65-69,43.22,Peter A Eisenklam,,2008 USMS Short Course Nationals,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,65-69,46.18,Jim D Wise,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,3
+ARIZ,50 Y Breaststroke,SCY,M,65-69,49.14,Thomas A Monroe Sr.,,National Senior Games,2008,4
+ARIZ,100 Y Breaststroke,SCY,M,65-69,1:15.45,Mel Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,65-69,1:40.28,Peter A Eisenklam,,2008 USMS Short Course Nationals,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,65-69,2:04.81,Thomas A Monroe Sr.,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Breaststroke,SCY,M,65-69,2:50.34,Mel Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,65-69,3:45.19,Peter A Eisenklam,,2008 USMS Short Course Nationals,2008,2
+ARIZ,200 Y Breaststroke,SCY,M,65-69,5:07.00,Thomas A Monroe Sr.,,Arizona SCY State Champs,2008,3
+ARIZ,50 Y Butterfly,SCY,M,65-69,46.18,Frank E Eissing,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Butterfly,SCY,M,65-69,3:31.72,Mel Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,65-69,1:33.42,David B Jacobs,,Arizona SCY State Champs,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,65-69,6:19.06,Mel Dyck,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,65-69,7:06.46,Richard J LeRoy,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Freestyle,SCY,M,70-74,36.63,Jack R Fritz,,National Senior Games,2008,1
+ARIZ,100 Y Freestyle,SCY,M,70-74,1:24.26,Jack R Fritz,,National Senior Games,2008,1
+ARIZ,200 Y Freestyle,SCY,M,70-74,3:24.05,Jack R Fritz,,National Senior Games,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,70-74,18:49.95,Ray Bellem,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,70-74,39.49,Ray Bellem,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,70-74,44.22,Harold E Peter,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,70-74,51.14,Jack R Fritz,,National Senior Games,2008,3
+ARIZ,100 Y Breaststroke,SCY,M,70-74,1:26.84,Ray Bellem,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,70-74,1:38.78,Harold E Peter,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,70-74,1:58.80,Jack R Fritz,,National Senior Games,2008,3
+ARIZ,200 Y Breaststroke,SCY,M,70-74,3:15.55,Ray Bellem,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Butterfly,SCY,M,70-74,40.19,Ray Bellem,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,M,70-74,51.69,Jack R Fritz,,National Senior Games,2008,2
+ARIZ,100 Y Butterfly,SCY,M,70-74,1:35.12,Ray Bellem,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,70-74,1:23.71,Ray Bellem,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,70-74,3:04.77,Ray Bellem,,2008 USMS Short Course Nationals,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,70-74,6:55.39,Ray Bellem,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,M,75-79,37.21,Jack R Fritz,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Freestyle,SCY,M,75-79,38.32,F H Ted Haartz,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Freestyle,SCY,M,75-79,1:27.30,Jack R Fritz,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Freestyle,SCY,M,75-79,1:30.81,F H Ted Haartz,,Arizona SCY State Champs,2008,2
+ARIZ,200 Y Freestyle,SCY,M,75-79,3:23.65,Jack R Fritz,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Freestyle,SCY,M,75-79,3:36.76,Gordon H Gillin,,Arizona SCY State Champs,2008,2
+ARIZ,500 Y Freestyle,SCY,M,75-79,9:29.54,Jack R Fritz,,Arizona SCY State Champs,2008,1
+ARIZ,1000 Y Freestyle,SCY,M,75-79,20:01.86,Jack R Fritz,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,75-79,43.02,F H Ted Haartz,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,75-79,51.60,Gordon H Gillin,,Arizona SCY State Champs,2008,2
+ARIZ,50 Y Breaststroke,SCY,M,75-79,52.95,Jack R Fritz,,Arizona SCY State Champs,2008,3
+ARIZ,100 Y Breaststroke,SCY,M,75-79,1:38.12,F H Ted Haartz,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,75-79,1:53.74,Gordon H Gillin,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Breaststroke,SCY,M,75-79,2:03.28,Jack R Fritz,,Arizona SCY State Champs,2008,3
+ARIZ,200 Y Breaststroke,SCY,M,75-79,3:36.65,F H Ted Haartz,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Butterfly,SCY,M,75-79,45.19,Gordon H Gillin,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Butterfly,SCY,M,75-79,53.60,Jack R Fritz,,Arizona SCY State Champs,2008,2
+ARIZ,100 Y Butterfly,SCY,M,75-79,1:52.27,Gordon H Gillin,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Butterfly,SCY,M,75-79,4:33.49,Gordon H Gillin,,Arizona SCY State Champs,2008,1
+ARIZ,100 Y Individual Medley,SCY,M,75-79,1:44.13,Gordon H Gillin,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,75-79,3:44.21,Gordon H Gillin,,Arizona SCY State Champs,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,75-79,8:29.12,Gordon H Gillin,,Arizona SCY State Champs,2008,1
+ARIZ,50 Y Freestyle,SCY,M,80-84,35.84,F H Ted Haartz,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Freestyle,SCY,M,80-84,43.41,Earl T Terp,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,100 Y Freestyle,SCY,M,80-84,1:38.93,Earl T Terp,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,200 Y Freestyle,SCY,M,80-84,3:52.35,Lou Silverstein,,Arizona SCY State Champs,2008,1
+ARIZ,200 Y Freestyle,SCY,M,80-84,4:01.93,Earl T Terp,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,500 Y Freestyle,SCY,M,80-84,10:04.58,Lou Silverstein,,2008 USMS Short Course Nationals,2008,1
+ARIZ,500 Y Freestyle,SCY,M,80-84,11:02.97,Earl T Terp,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,2
+ARIZ,1000 Y Freestyle,SCY,M,80-84,20:35.94,Lou Silverstein,,2008 USMS Short Course Nationals,2008,1
+ARIZ,1650 Y Freestyle,SCY,M,80-84,35:38.68,Lou Silverstein,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,50 Y Backstroke,SCY,M,80-84,55.66,Earl T Terp,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Backstroke,SCY,M,80-84,1:47.68,Lou Silverstein,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Backstroke,SCY,M,80-84,4:00.58,Lou Silverstein,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,80-84,43.94,F H Ted Haartz,,2008 USMS Short Course Nationals,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,80-84,1:37.13,F H Ted Haartz,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Breaststroke,SCY,M,80-84,3:32.10,F H Ted Haartz,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Butterfly,SCY,M,80-84,5:58.35,Lou Silverstein,,2008 USMS Short Course Nationals,2008,1
+ARIZ,200 Y Individual Medley,SCY,M,80-84,4:48.86,Lou Silverstein,,Arizona SCY State Champs,2008,1
+ARIZ,400 Y Individual Medley,SCY,M,80-84,9:53.90,Lou Silverstein,,2008 USMS Short Course Nationals,2008,1
+ARIZ,50 Y Breaststroke,SCY,M,85-89,56.37,Max Von Isser,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1
+ARIZ,100 Y Breaststroke,SCY,M,85-89,2:03.41,Max Von Isser,,Polar Bear Classic SCY Ford Aquatics Arizona,2008,1

@@ -1,0 +1,503 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+GOLD,50 M Freestyle,SCM,W,18-24,32.10,Nicole T Pierce,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,W,18-24,1:10.70,Nicole T Pierce,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,W,18-24,36.25,Nicole T Pierce,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,W,18-24,1:21.22,Nicole T Pierce,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,W,25-29,30.66,Lisa McLuckie,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,W,25-29,30.74,Heidi Hester,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,W,25-29,33.23,Vanessa Aron,,Holiday Classic,2007,3
+LYTA,50 M Freestyle,SCM,W,25-29,33.48,Morgan G LeLay,,Holiday Classic,2007,4
+GOLD,50 M Freestyle,SCM,W,25-29,35.84,Amber Purdy,,Holiday Classic,2007,5
+GOLD,50 M Freestyle,SCM,W,25-29,41.44,Lauren Rubin,,Holiday Classic,2007,6
+FLAQ,100 M Freestyle,SCM,W,25-29,1:10.58,Heidi Hester,,Holiday Classic,2007,1
+FLAQ,100 M Freestyle,SCM,W,25-29,1:12.39,Vanessa Aron,,Holiday Classic,2007,2
+FLAQ,200 M Freestyle,SCM,W,25-29,2:18.02,Heidi Hester,,Holiday Classic,2007,1
+FLAQ,200 M Freestyle,SCM,W,25-29,2:21.19,Carolan Cross,,Holiday Classic,2007,2
+GOLD,200 M Freestyle,SCM,W,25-29,3:39.32,Lauren Rubin,,Holiday Classic,2007,3
+FLAQ,400 M Freestyle,SCM,W,25-29,5:00.86,Carolan Cross,,Holiday Classic,2007,1
+LYTA,400 M Freestyle,SCM,W,25-29,6:13.36,Morgan G LeLay,,Holiday Classic,2007,2
+FLAQ,800 M Freestyle,SCM,W,25-29,10:20.69,Carolan Cross,,Holiday Classic,2007,1
+FLAQ,100 M Backstroke,SCM,W,25-29,1:18.43,Heidi Hester,,Holiday Classic,2007,1
+FLAQ,200 M Backstroke,SCM,W,25-29,2:52.44,Heidi Hester,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,W,25-29,36.38,Lauren Kafin,,Holiday Classic,2007,1
+FLAQ,100 M Breaststroke,SCM,W,25-29,1:20.20,Lauren Kafin,,Holiday Classic,2007,1
+FLAQ,100 M Breaststroke,SCM,W,25-29,1:28.18,Lisa McLuckie,,Holiday Classic,2007,2
+FLAQ,200 M Breaststroke,SCM,W,25-29,3:02.88,Lauren Kafin,,Holiday Classic,2007,1
+LYTA,200 M Breaststroke,SCM,W,25-29,3:37.47,Morgan G LeLay,,Holiday Classic,2007,2
+FLAQ,50 M Butterfly,SCM,W,25-29,39.19,Vanessa Aron,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,W,25-29,40.28,Amber Purdy,,Holiday Classic,2007,2
+FLAQ,100 M Individual Medley,SCM,W,25-29,1:24.63,Vanessa Aron,,Holiday Classic,2007,1
+FLAQ,200 M Individual Medley,SCM,W,25-29,2:44.90,Lauren Kafin,,Holiday Classic,2007,1
+FLAQ,400 M Individual Medley,SCM,W,25-29,5:35.12,Lauren Kafin,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,W,30-34,34.43,Juli Hall,,Holiday Classic,2007,1
+CSTM,50 M Freestyle,SCM,W,30-34,37.09,Evelyn Salama,,Holiday Classic,2007,2
+FLAQ,100 M Freestyle,SCM,W,30-34,1:16.25,Danielle Moran,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,W,30-34,4:40.67,Janel Lobur,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,W,30-34,13:55.09,Michelle E Barella,,Holiday Classic,2007,1
+FLAQ,50 M Backstroke,SCM,W,30-34,41.03,Danielle Moran,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,W,30-34,42.65,Juli Hall,,Holiday Classic,2007,2
+GOLD,50 M Breaststroke,SCM,W,30-34,49.65,Juli Hall,,Holiday Classic,2007,1
+GOLD,400 M Individual Medley,SCM,W,30-34,5:20.97,Janel Lobur,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,W,35-39,32.81,Jennifer A Hulett,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,W,35-39,1:07.36,Dale LeClair,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,W,35-39,1:14.13,Nicole Quint,,Holiday Classic,2007,2
+FLAQ,100 M Freestyle,SCM,W,35-39,1:30.29,Diane Paillet,,Holiday Classic,2007,3
+FLAQ,800 M Freestyle,SCM,W,35-39,15:46.07,Laura Thompson,,Holiday Classic,2007,1
+FLAQ,800 M Freestyle,SCM,W,35-39,16:10.06,Diane Paillet,,Holiday Classic,2007,2
+FLAQ,50 M Backstroke,SCM,W,35-39,35.32,Jennifer A Hulett,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,W,35-39,41.11,Nicole Quint,,Holiday Classic,2007,2
+FLAQ,100 M Backstroke,SCM,W,35-39,1:23.12,Jennifer A Hulett,,Holiday Classic,2007,1
+FLAQ,200 M Backstroke,SCM,W,35-39,3:03.00,Jennifer A Hulett,,Holiday Classic,2007,1
+FLAQ,100 M Breaststroke,SCM,W,35-39,2:01.54,Diane Paillet,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,W,35-39,36.21,Jennifer A Hulett,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,W,35-39,1:20.56,Dale LeClair,,Holiday Classic,2007,1
+FLAQ,100 M Individual Medley,SCM,W,35-39,1:23.70,Jennifer A Hulett,,Holiday Classic,2007,2
+GOLD,100 M Individual Medley,SCM,W,35-39,1:25.63,Nicole Quint,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,W,40-44,27.96,Birgit Lohberg,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,W,40-44,33.11,Liz Herbst,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,W,40-44,36.74,Sarah L Bennett,,Holiday Classic,2007,3
+UNAT,50 M Freestyle,SCM,W,40-44,37.97,Courtnay E Montgomery,,Holiday Classic,2007,4
+CSTM,50 M Freestyle,SCM,W,40-44,39.22,Barbie Camejo,,Holiday Classic,2007,5
+GOLD,100 M Freestyle,SCM,W,40-44,1:00.23,Birgit Lohberg,,Holiday Classic,2007,1
+FLAQ,100 M Freestyle,SCM,W,40-44,1:14.86,Liz Herbst,,Holiday Classic,2007,2
+FLAQ,100 M Freestyle,SCM,W,40-44,1:22.78,Sarah L Bennett,,Holiday Classic,2007,3
+UNAT,100 M Freestyle,SCM,W,40-44,1:26.13,Courtnay E Montgomery,,Holiday Classic,2007,4
+CSTM,100 M Freestyle,SCM,W,40-44,1:31.49,Barbie Camejo,,Holiday Classic,2007,5
+GOLD,200 M Freestyle,SCM,W,40-44,2:11.95,Birgit Lohberg,,Holiday Classic,2007,1
+UNAT,200 M Freestyle,SCM,W,40-44,3:06.19,Courtnay E Montgomery,,Holiday Classic,2007,2
+GOLD,400 M Freestyle,SCM,W,40-44,5:33.90,Andrea Woodburn,,Holiday Classic,2007,1
+FLAQ,400 M Freestyle,SCM,W,40-44,5:49.37,Liz Herbst,,Holiday Classic,2007,2
+GOLD,800 M Freestyle,SCM,W,40-44,11:31.25,Andrea Woodburn,,Holiday Classic,2007,1
+UNAT,50 M Backstroke,SCM,W,40-44,45.63,Courtnay E Montgomery,,Holiday Classic,2007,1
+FLAQ,50 M Backstroke,SCM,W,40-44,47.51,Sarah L Bennett,,Holiday Classic,2007,2
+CSTM,50 M Backstroke,SCM,W,40-44,50.83,Barbie Camejo,,Holiday Classic,2007,3
+UNAT,100 M Backstroke,SCM,W,40-44,1:44.04,Courtnay E Montgomery,,Holiday Classic,2007,1
+FLAQ,100 M Backstroke,SCM,W,40-44,1:47.44,Sarah L Bennett,,Holiday Classic,2007,2
+CSTM,100 M Backstroke,SCM,W,40-44,1:53.04,Barbie Camejo,,Holiday Classic,2007,3
+GOLD,200 M Backstroke,SCM,W,40-44,2:30.11,Birgit Lohberg,,Holiday Classic,2007,1
+UNAT,200 M Backstroke,SCM,W,40-44,3:39.57,Courtnay E Montgomery,,Holiday Classic,2007,2
+FLAQ,50 M Breaststroke,SCM,W,40-44,41.52,MariaTereza Paiva,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,W,40-44,47.56,Sarah L Bennett,,Holiday Classic,2007,2
+CSTM,50 M Breaststroke,SCM,W,40-44,51.00,Barbie Camejo,,Holiday Classic,2007,3
+FLAQ,100 M Breaststroke,SCM,W,40-44,1:30.90,MariaTereza Paiva,,Holiday Classic,2007,1
+FLAQ,100 M Breaststroke,SCM,W,40-44,1:41.30,Sarah L Bennett,,Holiday Classic,2007,2
+CSTM,100 M Breaststroke,SCM,W,40-44,1:53.38,Barbie Camejo,,Holiday Classic,2007,3
+FLAQ,200 M Breaststroke,SCM,W,40-44,3:41.61,Sarah L Bennett,,Holiday Classic,2007,1
+CSTM,200 M Breaststroke,SCM,W,40-44,4:02.95,Barbie Camejo,,Holiday Classic,2007,2
+GOLD,50 M Butterfly,SCM,W,40-44,36.14,Andrea Woodburn,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,W,40-44,48.74,Sarah L Bennett,,Holiday Classic,2007,2
+CSTM,50 M Butterfly,SCM,W,40-44,49.42,Barbie Camejo,,Holiday Classic,2007,3
+GOLD,100 M Butterfly,SCM,W,40-44,1:07.64,Birgit Lohberg,,Holiday Classic,2007,1
+FLAQ,100 M Individual Medley,SCM,W,40-44,1:23.50,MariaTereza Paiva,,Holiday Classic,2007,1
+FLAQ,100 M Individual Medley,SCM,W,40-44,1:30.60,Liz Herbst,,Holiday Classic,2007,2
+FLAQ,100 M Individual Medley,SCM,W,40-44,1:34.59,Sarah L Bennett,,Holiday Classic,2007,3
+CSTM,100 M Individual Medley,SCM,W,40-44,1:45.15,Barbie Camejo,,Holiday Classic,2007,4
+FLAQ,200 M Individual Medley,SCM,W,40-44,3:26.34,Sarah L Bennett,,Holiday Classic,2007,1
+CSTM,50 M Freestyle,SCM,W,45-49,37.53,Lee Brennan,,Holiday Classic,2007,1
+FLAQ,100 M Freestyle,SCM,W,45-49,1:15.03,Ann Thomas,,Holiday Classic,2007,1
+CSTM,100 M Freestyle,SCM,W,45-49,1:24.49,Lee Brennan,,Holiday Classic,2007,2
+CSTM,400 M Freestyle,SCM,W,45-49,7:03.78,Lee Brennan,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,W,45-49,10:20.58,Barbara Milanese,,Holiday Classic,2007,1
+FLAQ,800 M Freestyle,SCM,W,45-49,16:23.47,Adrienne Chin-Ogilvie,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,W,45-49,35.37,Debbie Cavanaugh,,Holiday Classic,2007,1
+CSTM,50 M Backstroke,SCM,W,45-49,46.26,Lee Brennan,,Holiday Classic,2007,2
+CSTM,100 M Backstroke,SCM,W,45-49,1:42.80,Lee Brennan,,Holiday Classic,2007,1
+GOLD,200 M Backstroke,SCM,W,45-49,2:46.14,Barbara Milanese,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,W,45-49,39.18,Debbie Cavanaugh,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,W,45-49,45.49,Adrienne Chin-Ogilvie,,Holiday Classic,2007,2
+CSTM,50 M Breaststroke,SCM,W,45-49,46.91,Lee Brennan,,Holiday Classic,2007,3
+FLAQ,100 M Breaststroke,SCM,W,45-49,1:39.76,Adrienne Chin-Ogilvie,,Holiday Classic,2007,1
+CSTM,100 M Breaststroke,SCM,W,45-49,1:42.45,Lee Brennan,,Holiday Classic,2007,2
+FLAQ,200 M Breaststroke,SCM,W,45-49,3:34.05,Adrienne Chin-Ogilvie,,Holiday Classic,2007,1
+CSTM,200 M Breaststroke,SCM,W,45-49,3:43.67,Lee Brennan,,Holiday Classic,2007,2
+CSTM,50 M Butterfly,SCM,W,45-49,48.45,Lee Brennan,,Holiday Classic,2007,1
+FLAQ,100 M Individual Medley,SCM,W,45-49,1:25.81,Ann Thomas,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,W,50-54,35.98,Lydia Seier,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,W,50-54,37.56,Mary L Sweetapple,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,W,50-54,42.99,Gayle Preston,,Holiday Classic,2007,3
+GOLD,100 M Freestyle,SCM,W,50-54,1:08.89,Celia Devanney,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,W,50-54,1:18.51,Lydia Seier,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,W,50-54,1:26.62,Mary L Sweetapple,,Holiday Classic,2007,3
+GOLD,100 M Freestyle,SCM,W,50-54,1:35.36,Gayle Preston,,Holiday Classic,2007,4
+GOLD,200 M Freestyle,SCM,W,50-54,2:34.88,Celia Devanney,,Holiday Classic,2007,1
+GOLD,200 M Freestyle,SCM,W,50-54,3:35.89,Gayle Preston,,Holiday Classic,2007,2
+GOLD,400 M Freestyle,SCM,W,50-54,5:22.22,Celia Devanney,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,W,50-54,7:56.37,Gayle Preston,,Holiday Classic,2007,2
+GOLD,800 M Freestyle,SCM,W,50-54,10:56.90,Celia Devanney,,Holiday Classic,2007,1
+FLAQ,800 M Freestyle,SCM,W,50-54,14:42.01,Jeanne Sather,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,W,50-54,36.84,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,W,50-54,46.35,Lydia Seier,,Holiday Classic,2007,2
+GOLD,100 M Backstroke,SCM,W,50-54,1:20.63,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,W,50-54,41.34,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,W,50-54,55.50,Lydia Seier,,Holiday Classic,2007,2
+GOLD,100 M Breaststroke,SCM,W,50-54,1:31.87,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,100 M Breaststroke,SCM,W,50-54,1:53.25,Mary L Sweetapple,,Holiday Classic,2007,2
+GOLD,50 M Butterfly,SCM,W,50-54,34.32,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,W,50-54,38.18,Barbara Protzman,,Holiday Classic,2007,2
+GOLD,100 M Butterfly,SCM,W,50-54,1:19.40,Celia Devanney,,Holiday Classic,2007,1
+GOLD,200 M Butterfly,SCM,W,50-54,3:04.81,Celia Devanney,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,W,50-54,1:19.30,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,W,50-54,1:27.75,Barbara Protzman,,Holiday Classic,2007,2
+GOLD,200 M Individual Medley,SCM,W,50-54,2:49.54,Peggy McDonnell,,Holiday Classic,2007,1
+GOLD,200 M Individual Medley,SCM,W,50-54,3:11.52,Barbara Protzman,,Holiday Classic,2007,2
+GOLD,400 M Individual Medley,SCM,W,50-54,6:53.17,Barbara Protzman,,Holiday Classic,2007,1
+CSTM,50 M Freestyle,SCM,W,55-59,35.18,Becky Willman,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,W,55-59,44.13,Alwynne Lamp,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,W,55-59,52.70,Barbara Johnson,,Holiday Classic,2007,3
+CSTM,100 M Freestyle,SCM,W,55-59,1:21.12,Becky Willman,,Holiday Classic,2007,1
+FLAQ,100 M Freestyle,SCM,W,55-59,2:00.23,Barbara Johnson,,Holiday Classic,2007,2
+CSTM,200 M Freestyle,SCM,W,55-59,3:05.12,Becky Willman,,Holiday Classic,2007,1
+FLAQ,200 M Freestyle,SCM,W,55-59,4:09.65,Barbara Johnson,,Holiday Classic,2007,2
+GOLD,400 M Freestyle,SCM,W,55-59,8:29.75,Alwynne Lamp,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,W,55-59,9:24.94,Barbara R Bertram,,Holiday Classic,2007,2
+FLAQ,800 M Freestyle,SCM,W,55-59,18:19.78,Anita Mitchell,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,W,55-59,1:04.99,Barbara Johnson,,Holiday Classic,2007,1
+FLAQ,100 M Breaststroke,SCM,W,55-59,2:17.13,Barbara Johnson,,Holiday Classic,2007,1
+CSTM,50 M Butterfly,SCM,W,55-59,44.75,Becky Willman,,Holiday Classic,2007,1
+CSTM,100 M Butterfly,SCM,W,55-59,1:44.11,Becky Willman,,Holiday Classic,2007,1
+CSTM,100 M Individual Medley,SCM,W,55-59,1:43.27,Becky Willman,,Holiday Classic,2007,1
+GOLD,200 M Individual Medley,SCM,W,55-59,4:23.62,Alwynne Lamp,,Holiday Classic,2007,1
+GOLD,200 M Individual Medley,SCM,W,55-59,4:58.16,Barbara R Bertram,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,W,60-64,37.44,Linda Webb,,Holiday Classic,2007,1
+LYTA,50 M Freestyle,SCM,W,60-64,38.28,Jeannie Mitchell,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,W,60-64,1:03.92,Susan Gunter,,Holiday Classic,2007,3
+FLAQ,100 M Freestyle,SCM,W,60-64,1:28.88,Linda Webb,,Holiday Classic,2007,1
+LYTA,200 M Freestyle,SCM,W,60-64,3:13.55,Jeannie Mitchell,,Holiday Classic,2007,1
+FLAQ,400 M Freestyle,SCM,W,60-64,6:55.78,Linda Webb,,Holiday Classic,2007,1
+LYTA,100 M Backstroke,SCM,W,60-64,1:34.13,Jeannie Mitchell,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,W,60-64,45.50,Linda Webb,,Holiday Classic,2007,1
+GOLD,100 M Breaststroke,SCM,W,80-84,3:39.67,June Krauser,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,M,18-24,26.12,Tommie Cuticchia,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,18-24,28.52,Jovan Martinez,,Holiday Classic,2007,2
+FLAQ,100 M Freestyle,SCM,M,18-24,58.96,Tommie Cuticchia,,Holiday Classic,2007,1
+FLAQ,50 M Backstroke,SCM,M,18-24,30.28,Tommie Cuticchia,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,18-24,34.11,Jovan Martinez,,Holiday Classic,2007,2
+FLAQ,100 M Backstroke,SCM,M,18-24,1:05.60,Tommie Cuticchia,,Holiday Classic,2007,1
+GOLD,100 M Backstroke,SCM,M,18-24,1:17.42,Jovan Martinez,,Holiday Classic,2007,2
+FLAQ,200 M Backstroke,SCM,M,18-24,2:24.21,Tommie Cuticchia,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,18-24,31.85,Matthew D Bellew,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,M,18-24,28.68,Tommie Cuticchia,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,18-24,1:23.92,Jovan Martinez,,Holiday Classic,2007,2
+FLAQ,100 M Butterfly,SCM,M,18-24,1:03.57,Tommie Cuticchia,,Holiday Classic,2007,1
+FLAQ,200 M Butterfly,SCM,M,18-24,2:29.80,Tommie Cuticchia,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,18-24,1:04.69,Matthew D Bellew,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,18-24,1:18.49,Jovan Martinez,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,M,25-29,25.81,Brady J Walker,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,25-29,27.18,Rodrigo A Corcho,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,25-29,27.35,Juan Salas,,Holiday Classic,2007,3
+FLAQ,50 M Freestyle,SCM,M,25-29,29.06,Bryan Palmer,,Holiday Classic,2007,4
+GOLD,50 M Freestyle,SCM,M,25-29,33.81,Tim Krajewski,,Holiday Classic,2007,5
+UNAT,50 M Freestyle,SCM,M,25-29,43.71,Lee M Scharf,,Holiday Classic,2007,6
+FLAQ,100 M Freestyle,SCM,M,25-29,58.68,Brady J Walker,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,25-29,1:01.17,Juan Salas,,Holiday Classic,2007,2
+FLAQ,100 M Freestyle,SCM,M,25-29,1:04.27,Bryan Palmer,,Holiday Classic,2007,3
+GOLD,400 M Freestyle,SCM,M,25-29,5:05.87,Jarrod Gac,,Holiday Classic,2007,1
+FLAQ,400 M Freestyle,SCM,M,25-29,5:13.43,Bryan Palmer,,Holiday Classic,2007,2
+GOLD,400 M Freestyle,SCM,M,25-29,6:14.34,Tim Krajewski,,Holiday Classic,2007,3
+GOLD,50 M Backstroke,SCM,M,25-29,32.62,Mance Buttram,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,25-29,36.33,Rodrigo A Corcho,,Holiday Classic,2007,2
+GOLD,100 M Backstroke,SCM,M,25-29,1:06.38,Mance Buttram,,Holiday Classic,2007,1
+FLAQ,100 M Backstroke,SCM,M,25-29,1:08.99,Brady J Walker,,Holiday Classic,2007,2
+GOLD,50 M Breaststroke,SCM,M,25-29,34.21,Rodrigo A Corcho,,Holiday Classic,2007,1
+UNAT,50 M Breaststroke,SCM,M,25-29,52.51,Lee M Scharf,,Holiday Classic,2007,2
+FLAQ,100 M Breaststroke,SCM,M,25-29,1:25.15,Brady J Walker,,Holiday Classic,2007,1
+UNAT,100 M Breaststroke,SCM,M,25-29,1:58.65,Lee M Scharf,,Holiday Classic,2007,2
+GOLD,200 M Breaststroke,SCM,M,25-29,3:00.00,Jarrod Gac,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,M,25-29,28.34,Brady J Walker,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,25-29,29.87,Rodrigo A Corcho,,Holiday Classic,2007,2
+GOLD,50 M Butterfly,SCM,M,25-29,31.12,Juan Salas,,Holiday Classic,2007,3
+UNAT,50 M Butterfly,SCM,M,25-29,43.72,Lee M Scharf,,Holiday Classic,2007,4
+FLAQ,100 M Butterfly,SCM,M,25-29,1:06.52,Brady J Walker,,Holiday Classic,2007,1
+GOLD,100 M Butterfly,SCM,M,25-29,1:07.28,Mance Buttram,,Holiday Classic,2007,2
+GOLD,100 M Individual Medley,SCM,M,25-29,1:11.79,Juan Salas,,Holiday Classic,2007,1
+FLAQ,100 M Individual Medley,SCM,M,25-29,1:14.47,Bryan Palmer,,Holiday Classic,2007,2
+GOLD,200 M Individual Medley,SCM,M,25-29,2:29.11,Mance Buttram,,Holiday Classic,2007,1
+GOLD,200 M Individual Medley,SCM,M,25-29,2:42.12,Jarrod Gac,,Holiday Classic,2007,2
+FLAQ,200 M Individual Medley,SCM,M,25-29,2:42.75,Bryan Palmer,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,30-34,24.58,Luis Comulada,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,30-34,24.99,Charles Malki,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,30-34,25.24,Josef D Bittman,,Holiday Classic,2007,3
+FLAQ,50 M Freestyle,SCM,M,30-34,27.71,Rion M Broshears,,Holiday Classic,2007,4
+GOLD,50 M Freestyle,SCM,M,30-34,31.57,Jorge Mata,,Holiday Classic,2007,5
+GOLD,50 M Freestyle,SCM,M,30-34,32.77,William Yepes,,Holiday Classic,2007,6
+GOLD,50 M Freestyle,SCM,M,30-34,33.91,Justin M Bullard,,Holiday Classic,2007,7
+GOLD,100 M Freestyle,SCM,M,30-34,56.05,Luis Comulada,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,30-34,56.24,Josef D Bittman,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,M,30-34,57.25,Roger Stoudt,,Holiday Classic,2007,3
+GOLD,100 M Freestyle,SCM,M,30-34,1:07.72,Alcides De Quesada,,Holiday Classic,2007,4
+GOLD,100 M Freestyle,SCM,M,30-34,1:08.04,Stephen Dehnert,,Holiday Classic,2007,5
+GOLD,200 M Freestyle,SCM,M,30-34,2:07.30,Luis Comulada,,Holiday Classic,2007,1
+GOLD,200 M Freestyle,SCM,M,30-34,2:14.14,Josef D Bittman,,Holiday Classic,2007,2
+FLAQ,400 M Freestyle,SCM,M,30-34,4:19.56,Matt Hooper,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,30-34,45.84,William Yepes,,Holiday Classic,2007,1
+GOLD,100 M Backstroke,SCM,M,30-34,1:06.10,Roger Stoudt,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,30-34,32.74,Luis Comulada,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,30-34,46.09,William Yepes,,Holiday Classic,2007,2
+GOLD,100 M Breaststroke,SCM,M,30-34,1:14.63,Luis Comulada,,Holiday Classic,2007,1
+FLAQ,200 M Breaststroke,SCM,M,30-34,2:50.80,Rion M Broshears,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,30-34,28.26,Charles Malki,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,30-34,28.73,Roger Stoudt,,Holiday Classic,2007,2
+GOLD,50 M Butterfly,SCM,M,30-34,29.85,Josef D Bittman,,Holiday Classic,2007,3
+GOLD,50 M Butterfly,SCM,M,30-34,36.07,Jorge Mata,,Holiday Classic,2007,4
+GOLD,50 M Butterfly,SCM,M,30-34,39.33,William Yepes,,Holiday Classic,2007,5
+GOLD,100 M Butterfly,SCM,M,30-34,1:03.63,Roger Stoudt,,Holiday Classic,2007,1
+GOLD,100 M Butterfly,SCM,M,30-34,1:04.97,Josef D Bittman,,Holiday Classic,2007,2
+GOLD,100 M Butterfly,SCM,M,30-34,1:33.43,William Yepes,,Holiday Classic,2007,3
+GOLD,100 M Individual Medley,SCM,M,30-34,1:18.56,Alcides De Quesada,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,30-34,1:18.82,Stephen Dehnert,,Holiday Classic,2007,2
+GOLD,100 M Individual Medley,SCM,M,30-34,1:24.43,William Yepes,,Holiday Classic,2007,3
+GOLD,200 M Individual Medley,SCM,M,30-34,2:23.88,Roger Stoudt,,Holiday Classic,2007,1
+GOLD,200 M Individual Medley,SCM,M,30-34,3:11.22,William Yepes,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,M,35-39,25.50,Patrick Harrington,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,35-39,26.94,Terry Lage,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,35-39,29.45,John Mejia,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,35-39,30.22,Glen Hanks,,Holiday Classic,2007,4
+UNAT,50 M Freestyle,SCM,M,35-39,32.25,Rjon Robins,,Holiday Classic,2007,5
+GOLD,50 M Freestyle,SCM,M,35-39,46.11,Jose Nistal,,Holiday Classic,2007,6
+FLAQ,100 M Freestyle,SCM,M,35-39,55.77,Patrick Harrington,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,35-39,59.27,Terry Lage,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,M,35-39,1:07.46,John Roe,,Holiday Classic,2007,3
+GOLD,100 M Freestyle,SCM,M,35-39,1:08.70,Glen Hanks,,Holiday Classic,2007,4
+GOLD,100 M Freestyle,SCM,M,35-39,1:18.97,Humberto Nunez,,Holiday Classic,2007,5
+GOLD,100 M Freestyle,SCM,M,35-39,1:51.60,Jose Nistal,,Holiday Classic,2007,6
+GOLD,200 M Freestyle,SCM,M,35-39,2:14.78,Terry Lage,,Holiday Classic,2007,1
+GOLD,200 M Freestyle,SCM,M,35-39,2:35.36,Glen Hanks,,Holiday Classic,2007,2
+BA,800 M Freestyle,SCM,M,35-39,10:03.69,Robert S Emary,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,M,35-39,11:23.06,Glen Hanks,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,M,35-39,37.48,John Mejia,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,35-39,38.32,John Roe,,Holiday Classic,2007,2
+BA,200 M Backstroke,SCM,M,35-39,2:32.24,Robert S Emary,,Holiday Classic,2007,1
+GOLD,200 M Backstroke,SCM,M,35-39,2:58.24,Glen Hanks,,Holiday Classic,2007,2
+GOLD,50 M Breaststroke,SCM,M,35-39,37.81,John Mejia,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,35-39,41.94,Humberto Nunez,,Holiday Classic,2007,2
+GOLD,50 M Breaststroke,SCM,M,35-39,42.43,John Roe,,Holiday Classic,2007,3
+GOLD,50 M Breaststroke,SCM,M,35-39,1:02.95,Jose Nistal,,Holiday Classic,2007,4
+GOLD,100 M Breaststroke,SCM,M,35-39,1:31.32,Humberto Nunez,,Holiday Classic,2007,1
+GOLD,200 M Breaststroke,SCM,M,35-39,3:18.29,Glen Hanks,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,M,35-39,27.61,Patrick Harrington,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,35-39,54.02,Jose Nistal,,Holiday Classic,2007,2
+BA,200 M Butterfly,SCM,M,35-39,2:23.14,Robert S Emary,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,35-39,1:16.99,John Roe,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,35-39,1:17.75,John Mejia,,Holiday Classic,2007,2
+GOLD,100 M Individual Medley,SCM,M,35-39,1:30.44,Humberto Nunez,,Holiday Classic,2007,3
+BA,400 M Individual Medley,SCM,M,35-39,5:19.87,Robert S Emary,,Holiday Classic,2007,1
+GOLD,400 M Individual Medley,SCM,M,35-39,6:27.19,Glen Hanks,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,M,40-44,25.27,Kevin Semisch,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,40-44,26.88,Jonathan Olsen,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,40-44,28.54,Christopher A Chen,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,40-44,29.05,Christopher Digilio,,Holiday Classic,2007,4
+GOLD,50 M Freestyle,SCM,M,40-44,29.33,Jose C Del Pino,,Holiday Classic,2007,5
+FLAQ,50 M Freestyle,SCM,M,40-44,29.61,Karsten Kalthoff,,Holiday Classic,2007,6
+GOLD,50 M Freestyle,SCM,M,40-44,29.84,Eric D Search,,Holiday Classic,2007,7
+UNAT,50 M Freestyle,SCM,M,40-44,29.87,Sergio Farias,,Holiday Classic,2007,8
+GOLD,50 M Freestyle,SCM,M,40-44,31.39,Gordon Cowley,,Holiday Classic,2007,9
+GOLD,50 M Freestyle,SCM,M,40-44,31.59,David Jaramillo,,Holiday Classic,2007,10
+GOLD,50 M Freestyle,SCM,M,40-44,36.69,Michael Meltzer,,Holiday Classic,2007,11
+GOLD,50 M Freestyle,SCM,M,40-44,37.56,Jose Nunez,,Holiday Classic,2007,12
+GOLD,100 M Freestyle,SCM,M,40-44,59.95,David W LeClair,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,40-44,1:02.94,Bill Korey,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,M,40-44,1:05.66,Christopher Digilio,,Holiday Classic,2007,3
+FLAQ,100 M Freestyle,SCM,M,40-44,1:06.84,Karsten Kalthoff,,Holiday Classic,2007,4
+GOLD,100 M Freestyle,SCM,M,40-44,1:07.13,Jose C Del Pino,,Holiday Classic,2007,5
+GOLD,100 M Freestyle,SCM,M,40-44,1:11.33,David Jaramillo,,Holiday Classic,2007,6
+GOLD,100 M Freestyle,SCM,M,40-44,1:13.17,Gordon Cowley,,Holiday Classic,2007,7
+GOLD,100 M Freestyle,SCM,M,40-44,1:20.27,Michael Meltzer,,Holiday Classic,2007,8
+GOLD,100 M Freestyle,SCM,M,40-44,1:24.98,Jose Nunez,,Holiday Classic,2007,9
+GOLD,200 M Freestyle,SCM,M,40-44,1:59.94,Ricardo Valdivia,,Holiday Classic,2007,1
+FLAQ,200 M Freestyle,SCM,M,40-44,2:19.30,Kevin Semisch,,Holiday Classic,2007,2
+GOLD,200 M Freestyle,SCM,M,40-44,3:15.39,Jose Nunez,,Holiday Classic,2007,3
+UNAT,200 M Freestyle,SCM,M,40-44,3:38.66,Mitchell Kahn,,Holiday Classic,2007,4
+GOLD,400 M Freestyle,SCM,M,40-44,4:14.44,Ricardo Valdivia,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,M,40-44,4:46.70,Larry Caldwell,,Holiday Classic,2007,2
+GOLD,800 M Freestyle,SCM,M,40-44,8:40.40,Ricardo Valdivia,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,M,40-44,9:59.69,David W LeClair,,Holiday Classic,2007,2
+GOLD,800 M Freestyle,SCM,M,40-44,10:31.58,Bill Korey,,Holiday Classic,2007,3
+GOLD,50 M Backstroke,SCM,M,40-44,34.72,Bill Korey,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,40-44,39.89,Gordon Cowley,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,M,40-44,46.80,Michael Meltzer,,Holiday Classic,2007,3
+GOLD,50 M Backstroke,SCM,M,40-44,50.13,Jose Nunez,,Holiday Classic,2007,4
+GOLD,200 M Backstroke,SCM,M,40-44,2:42.86,Bill Korey,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,M,40-44,33.52,Alex Blavatnik,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,40-44,36.47,Christopher Digilio,,Holiday Classic,2007,2
+FLAQ,50 M Breaststroke,SCM,M,40-44,37.28,Karsten Kalthoff,,Holiday Classic,2007,3
+GOLD,50 M Breaststroke,SCM,M,40-44,38.23,Jose C Del Pino,,Holiday Classic,2007,4
+GOLD,50 M Breaststroke,SCM,M,40-44,38.33,Christopher A Chen,,Holiday Classic,2007,5
+UNAT,50 M Breaststroke,SCM,M,40-44,41.30,Sergio Farias,,Holiday Classic,2007,6
+FLAQ,100 M Breaststroke,SCM,M,40-44,1:14.01,Alex Blavatnik,,Holiday Classic,2007,1
+GOLD,100 M Breaststroke,SCM,M,40-44,1:21.43,Christopher Digilio,,Holiday Classic,2007,2
+FLAQ,100 M Breaststroke,SCM,M,40-44,1:25.49,Karsten Kalthoff,,Holiday Classic,2007,3
+FLAQ,200 M Breaststroke,SCM,M,40-44,2:59.29,Andy Fischer,,Holiday Classic,2007,1
+GOLD,200 M Breaststroke,SCM,M,40-44,2:59.88,David Walley,,Holiday Classic,2007,2
+FLAQ,200 M Breaststroke,SCM,M,40-44,3:09.60,Karsten Kalthoff,,Holiday Classic,2007,3
+GOLD,50 M Butterfly,SCM,M,40-44,28.34,Jonathan Olsen,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,40-44,29.65,Larry Caldwell,,Holiday Classic,2007,2
+GOLD,50 M Butterfly,SCM,M,40-44,32.52,Christopher Digilio,,Holiday Classic,2007,3
+GOLD,50 M Butterfly,SCM,M,40-44,32.84,Eric D Search,,Holiday Classic,2007,4
+GOLD,50 M Butterfly,SCM,M,40-44,36.42,Gordon Cowley,,Holiday Classic,2007,5
+GOLD,50 M Butterfly,SCM,M,40-44,45.35,Michael Meltzer,,Holiday Classic,2007,6
+GOLD,100 M Butterfly,SCM,M,40-44,1:02.79,Jonathan Olsen,,Holiday Classic,2007,1
+FLAQ,100 M Butterfly,SCM,M,40-44,1:08.13,Andy Fischer,,Holiday Classic,2007,2
+FLAQ,200 M Butterfly,SCM,M,40-44,2:28.98,Andy Fischer,,Holiday Classic,2007,1
+FLAQ,100 M Individual Medley,SCM,M,40-44,1:07.86,Alex Blavatnik,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,40-44,1:09.44,David W LeClair,,Holiday Classic,2007,2
+GOLD,100 M Individual Medley,SCM,M,40-44,1:12.62,Bill Korey,,Holiday Classic,2007,3
+GOLD,200 M Individual Medley,SCM,M,40-44,2:43.19,David Walley,,Holiday Classic,2007,1
+FLAQ,400 M Individual Medley,SCM,M,40-44,5:39.81,Andy Fischer,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,M,45-49,27.67,Amadeo Quiroga,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,45-49,28.66,James Fetter,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,45-49,29.99,Edward Steblein,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,45-49,30.90,Steven Jacobson,,Holiday Classic,2007,4
+GOLD,50 M Freestyle,SCM,M,45-49,39.78,Vincent J Sportiello,,Holiday Classic,2007,5
+GOLD,50 M Freestyle,SCM,M,45-49,43.74,Ismael Montes,,Holiday Classic,2007,6
+FLAQ,100 M Freestyle,SCM,M,45-49,1:02.76,Amadeo Quiroga,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,45-49,1:23.98,Michael J Taylor,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,M,45-49,1:45.38,Ismael Montes,,Holiday Classic,2007,3
+GOLD,200 M Freestyle,SCM,M,45-49,4:04.99,Ismael Montes,,Holiday Classic,2007,1
+FLAQ,400 M Freestyle,SCM,M,45-49,5:22.66,Amadeo Quiroga,,Holiday Classic,2007,1
+FLAQ,50 M Backstroke,SCM,M,45-49,38.82,Amadeo Quiroga,,Holiday Classic,2007,1
+FLAQ,100 M Backstroke,SCM,M,45-49,1:12.25,Marty Hendrick,,Holiday Classic,2007,1
+FLAQ,200 M Backstroke,SCM,M,45-49,2:32.90,Marty Hendrick,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,45-49,43.19,Miguel Dorante,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,45-49,44.41,Michael J Taylor,,Holiday Classic,2007,2
+GOLD,100 M Breaststroke,SCM,M,45-49,1:37.26,Michael J Taylor,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,45-49,29.49,John Grzeszczak,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,45-49,31.85,James Fetter,,Holiday Classic,2007,2
+GOLD,50 M Butterfly,SCM,M,45-49,34.04,Edward Steblein,,Holiday Classic,2007,3
+GOLD,50 M Butterfly,SCM,M,45-49,38.45,Steven Jacobson,,Holiday Classic,2007,4
+GOLD,50 M Freestyle,SCM,M,50-54,26.32,Steven Pomerantz,,Holiday Classic,2007,1
+FLAQ,50 M Freestyle,SCM,M,50-54,27.51,Tim D Erickson,,Southern Masters SCM and Dixie Zone Champs,2007,2
+GOLD,50 M Freestyle,SCM,M,50-54,29.57,Chris Burt,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,50-54,30.83,Matthew Gill,,Holiday Classic,2007,4
+UNAT,50 M Freestyle,SCM,M,50-54,38.98,William H Highsmith,,Bridge The Bay,2007,5
+GOLD,50 M Freestyle,SCM,M,50-54,42.35,Robert Dzamba,,Holiday Classic,2007,6
+UNAT,100 M Freestyle,SCM,M,50-54,58.65,Stu Marvin,,Holiday Classic,2007,1
+FLAQ,100 M Freestyle,SCM,M,50-54,58.98,Tim Erickson,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,M,50-54,1:03.01,Steven Pomerantz,,Holiday Classic,2007,3
+GOLD,100 M Freestyle,SCM,M,50-54,1:04.24,Chris Burt,,Holiday Classic,2007,4
+UNAT,100 M Freestyle,SCM,M,50-54,1:25.06,William H Highsmith,,Bridge The Bay,2007,5
+GOLD,100 M Freestyle,SCM,M,50-54,1:25.60,Roy Sonenshein,,Holiday Classic,2007,6
+FLAQ,200 M Freestyle,SCM,M,50-54,2:10.31,Tim Erickson,,Holiday Classic,2007,1
+GOLD,200 M Freestyle,SCM,M,50-54,2:22.96,Chris Burt,,Holiday Classic,2007,2
+GOLD,200 M Freestyle,SCM,M,50-54,2:35.63,Matthew Gill,,Holiday Classic,2007,3
+FLAQ,400 M Freestyle,SCM,M,50-54,4:38.68,Tim D Erickson,,Southern Masters SCM and Dixie Zone Champs,2007,1
+GOLD,400 M Freestyle,SCM,M,50-54,5:13.13,Matthew Gill,,Holiday Classic,2007,2
+UNAT,400 M Freestyle,SCM,M,50-54,6:50.71,William H Highsmith,,Bridge The Bay,2007,3
+FLAQ,800 M Freestyle,SCM,M,50-54,9:55.72,Tim D Erickson,,Southern Masters SCM and Dixie Zone Champs,2007,1
+UNAT,800 M Freestyle,SCM,M,50-54,13:19.71,William H Highsmith,,Bridge The Bay,2007,2
+GOLD,800 M Freestyle,SCM,M,50-54,13:51.21,Roy Sonenshein,,Holiday Classic,2007,3
+UNAT,1500 M Freestyle,SCM,M,50-54,25:20.06,William H Highsmith,,Bridge The Bay,2007,1
+UNAT,50 M Backstroke,SCM,M,50-54,33.03,Stu Marvin,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,50-54,36.28,Chris Burt,,Holiday Classic,2007,2
+UNAT,50 M Backstroke,SCM,M,50-54,56.68,William H Highsmith,,Bridge The Bay,2007,3
+GOLD,100 M Backstroke,SCM,M,50-54,1:36.87,Chris Burt,,Holiday Classic,2007,1
+FLAQ,200 M Backstroke,SCM,M,50-54,2:45.77,Tim D Erickson,,Southern Masters SCM and Dixie Zone Champs,2007,1
+GOLD,200 M Backstroke,SCM,M,50-54,3:45.03,Roy Sonenshein,,Holiday Classic,2007,2
+GOLD,50 M Breaststroke,SCM,M,50-54,39.30,Chris Burt,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,50-54,48.97,Roy Sonenshein,,Holiday Classic,2007,2
+GOLD,100 M Breaststroke,SCM,M,50-54,1:29.33,Chris Burt,,Holiday Classic,2007,1
+UNAT,100 M Breaststroke,SCM,M,50-54,1:59.43,William H Highsmith,,Bridge The Bay,2007,2
+GOLD,200 M Breaststroke,SCM,M,50-54,3:17.99,Chris Burt,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,50-54,29.21,Steven Pomerantz,,Holiday Classic,2007,1
+FLAQ,50 M Butterfly,SCM,M,50-54,31.05,Tim D Erickson,,Southern Masters SCM and Dixie Zone Champs,2007,2
+FLAQ,100 M Butterfly,SCM,M,50-54,1:03.71,Tim Erickson,,Holiday Classic,2007,1
+GOLD,100 M Butterfly,SCM,M,50-54,1:11.46,Lars Ferron,,Holiday Classic,2007,2
+FLAQ,200 M Butterfly,SCM,M,50-54,2:25.78,Tim Erickson,,Holiday Classic,2007,1
+UNAT,100 M Individual Medley,SCM,M,50-54,1:09.89,Stu Marvin,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,50-54,1:16.94,Chris Burt,,Holiday Classic,2007,2
+GOLD,100 M Individual Medley,SCM,M,50-54,1:40.24,Roy Sonenshein,,Holiday Classic,2007,3
+UNAT,100 M Individual Medley,SCM,M,50-54,1:49.94,William H Highsmith,,Bridge The Bay,2007,4
+GOLD,200 M Individual Medley,SCM,M,50-54,2:52.21,Chris Burt,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,55-59,24.89,Paul T Trevisan,,ALBATROSS OPEN,2007,1
+GOLD,50 M Freestyle,SCM,M,55-59,27.05,Timothy M Shead,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,M,55-59,27.54,Bruce J Wigo,,SPMA SCM Champs,2007,3
+GOLD,50 M Freestyle,SCM,M,55-59,37.70,James LaBrie,,Holiday Classic,2007,4
+UNAT,50 M Freestyle,SCM,M,55-59,47.29,Ray Venture,,Holiday Classic,2007,5
+GOLD,100 M Freestyle,SCM,M,55-59,56.00,Paul T Trevisan,,ALBATROSS OPEN,2007,1
+GOLD,100 M Freestyle,SCM,M,55-59,59.11,Timothy M Shead,,Holiday Classic,2007,2
+GOLD,100 M Freestyle,SCM,M,55-59,1:21.03,Ken R Beier,,Holiday Classic,2007,3
+GOLD,100 M Freestyle,SCM,M,55-59,1:30.91,James LaBrie,,Holiday Classic,2007,4
+UNAT,100 M Freestyle,SCM,M,55-59,1:59.72,Ray Venture,,Holiday Classic,2007,5
+UNAT,200 M Freestyle,SCM,M,55-59,4:44.66,Ray Venture,,Holiday Classic,2007,1
+UNAT,400 M Freestyle,SCM,M,55-59,10:09.38,Ray Venture,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,M,55-59,12:50.98,Ken R Beier,,Holiday Classic,2007,1
+UNAT,800 M Freestyle,SCM,M,55-59,21:04.74,Ray Venture,,Holiday Classic,2007,2
+FLAQ,100 M Backstroke,SCM,M,55-59,1:17.72,Bruce J Wigo,,SPMA SCM Champs,2007,1
+GOLD,200 M Backstroke,SCM,M,55-59,3:35.78,Ken R Beier,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,55-59,32.96,Timothy M Shead,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,M,55-59,45.69,Robert Jacobsohn,,Holiday Classic,2007,2
+FLAQ,100 M Breaststroke,SCM,M,55-59,1:45.52,Robert Jacobsohn,,Holiday Classic,2007,1
+FLAQ,200 M Breaststroke,SCM,M,55-59,4:02.83,Robert Jacobsohn,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,55-59,29.04,Timothy M Shead,,Holiday Classic,2007,1
+GOLD,100 M Butterfly,SCM,M,55-59,1:04.00,Timothy M Shead,,Holiday Classic,2007,1
+GOLD,100 M Butterfly,SCM,M,55-59,1:39.31,Ken R Beier,,Holiday Classic,2007,2
+FLAQ,200 M Butterfly,SCM,M,55-59,2:51.98,Randall Wilkins,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,60-64,27.64,David Quiggin,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,60-64,28.29,Jose Ferraz,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,60-64,31.92,Roger Parsons,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,60-64,32.81,Dick Brewer,,Holiday Classic,2007,4
+FLAQ,50 M Freestyle,SCM,M,60-64,33.85,Lars Pedersen,,Holiday Classic,2007,5
+FLAQ,50 M Freestyle,SCM,M,60-64,40.90,Francois VanNiekerk,,Holiday Classic,2007,6
+GOLD,100 M Freestyle,SCM,M,60-64,1:01.55,David Quiggin,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,60-64,1:03.71,Jose Ferraz,,Holiday Classic,2007,2
+FLAQ,100 M Freestyle,SCM,M,60-64,1:25.26,Lars Pedersen,,Holiday Classic,2007,3
+GOLD,200 M Freestyle,SCM,M,60-64,2:19.69,David Quiggin,,Holiday Classic,2007,1
+GOLD,200 M Freestyle,SCM,M,60-64,2:33.60,Jose Ferraz,,Holiday Classic,2007,2
+FLAQ,200 M Freestyle,SCM,M,60-64,3:15.20,Lars Pedersen,,Holiday Classic,2007,3
+GOLD,400 M Freestyle,SCM,M,60-64,5:26.92,David Quiggin,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,M,60-64,6:26.33,Dick Brewer,,Holiday Classic,2007,2
+GOLD,800 M Freestyle,SCM,M,60-64,11:01.39,David Quiggin,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,M,60-64,13:17.63,Dick Brewer,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,M,60-64,35.69,David Quiggin,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,60-64,36.13,Jose Ferraz,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,M,60-64,38.33,Roger Parsons,,Holiday Classic,2007,3
+FLAQ,50 M Backstroke,SCM,M,60-64,58.95,Francois VanNiekerk,,Holiday Classic,2007,4
+GOLD,100 M Backstroke,SCM,M,60-64,1:20.90,Roger Parsons,,Holiday Classic,2007,1
+GOLD,200 M Backstroke,SCM,M,60-64,2:59.22,Roger Parsons,,Holiday Classic,2007,1
+GOLD,50 M Breaststroke,SCM,M,60-64,41.78,Dick Brewer,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,M,60-64,1:25.99,Francois VanNiekerk,,Holiday Classic,2007,2
+GOLD,100 M Breaststroke,SCM,M,60-64,1:29.76,Dick Brewer,,Holiday Classic,2007,1
+GOLD,200 M Breaststroke,SCM,M,60-64,3:18.98,Dick Brewer,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,60-64,31.16,David Quiggin,,Holiday Classic,2007,1
+FLAQ,100 M Butterfly,SCM,M,60-64,1:12.56,Joel Burns,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,60-64,1:15.33,David Quiggin,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,60-64,1:21.57,Jose Ferraz,,Holiday Classic,2007,2
+FLAQ,50 M Freestyle,SCM,M,65-69,35.12,James Ward,,Holiday Classic,2007,1
+FLAQ,100 M Freestyle,SCM,M,65-69,1:21.64,James Ward,,Holiday Classic,2007,1
+FLAQ,200 M Freestyle,SCM,M,65-69,3:17.40,James Ward,,Holiday Classic,2007,1
+FLAQ,400 M Freestyle,SCM,M,65-69,7:34.57,James Ward,,Holiday Classic,2007,1
+FLAQ,800 M Freestyle,SCM,M,65-69,15:38.05,James Ward,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,M,65-69,53.38,James Ward,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,70-74,29.19,Cav Cavanaugh,,Holiday Classic,2007,1
+GOLD,50 M Freestyle,SCM,M,70-74,30.85,David R McIntyre,,Bridge The Bay,2007,2
+GOLD,50 M Freestyle,SCM,M,70-74,33.91,Alan Rapperport,,Holiday Classic,2007,3
+GOLD,50 M Freestyle,SCM,M,70-74,46.93,Bertram Strauber,,Holiday Classic,2007,4
+GOLD,100 M Freestyle,SCM,M,70-74,1:08.33,Cav Cavanaugh,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,70-74,1:11.96,David R McIntyre,,Huntsman Senior Games,2007,2
+GOLD,100 M Freestyle,SCM,M,70-74,1:16.88,Alan Rapperport,,Holiday Classic,2007,3
+GOLD,200 M Freestyle,SCM,M,70-74,2:51.10,Alan Rapperport,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,M,70-74,6:32.53,Alan Rapperport,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,M,70-74,13:24.70,Alan Rapperport,,Holiday Classic,2007,1
+GOLD,50 M Backstroke,SCM,M,70-74,37.70,David R McIntyre,,Bridge The Bay,2007,1
+GOLD,50 M Backstroke,SCM,M,70-74,43.75,Alan Rapperport,,Holiday Classic,2007,2
+GOLD,50 M Backstroke,SCM,M,70-74,43.79,Cav Cavanaugh,,Holiday Classic,2007,3
+GOLD,100 M Backstroke,SCM,M,70-74,1:27.62,David R McIntyre,,Huntsman Senior Games,2007,1
+GOLD,100 M Backstroke,SCM,M,70-74,1:30.69,Alan Rapperport,,Holiday Classic,2007,2
+GOLD,200 M Backstroke,SCM,M,70-74,3:16.67,Alan Rapperport,,Holiday Classic,2007,1
+FLAQ,50 M Breaststroke,SCM,M,70-74,52.48,Walter Pesetsky,,Holiday Classic,2007,1
+FLAQ,100 M Breaststroke,SCM,M,70-74,1:55.96,Walter Pesetsky,,Holiday Classic,2007,1
+FLAQ,200 M Breaststroke,SCM,M,70-74,4:28.40,Walter Pesetsky,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,70-74,34.09,David R McIntyre,,Bridge The Bay,2007,1
+GOLD,50 M Butterfly,SCM,M,70-74,38.37,Cav Cavanaugh,,Holiday Classic,2007,2
+FLAQ,50 M Butterfly,SCM,M,70-74,45.72,Walter Pesetsky,,Holiday Classic,2007,3
+FLAQ,100 M Butterfly,SCM,M,70-74,1:53.18,Walter Pesetsky,,Holiday Classic,2007,1
+FLAQ,200 M Butterfly,SCM,M,70-74,4:31.77,Walter Pesetsky,,Holiday Classic,2007,1
+GOLD,100 M Individual Medley,SCM,M,70-74,1:23.11,David R McIntyre,,Bridge The Bay,2007,1
+GOLD,100 M Individual Medley,SCM,M,70-74,1:25.41,Cav Cavanaugh,,Holiday Classic,2007,2
+GOLD,50 M Freestyle,SCM,M,75-79,43.44,George Busse,,Holiday Classic,2007,1
+GOLD,100 M Freestyle,SCM,M,75-79,1:37.98,George Busse,,Holiday Classic,2007,1
+GOLD,200 M Freestyle,SCM,M,75-79,3:43.24,George Busse,,Holiday Classic,2007,1
+GOLD,400 M Freestyle,SCM,M,75-79,8:01.77,George Busse,,Holiday Classic,2007,1
+GOLD,800 M Freestyle,SCM,M,75-79,16:44.00,George Busse,,Holiday Classic,2007,1
+GOLD,50 M Butterfly,SCM,M,75-79,39.97,Herb Kern,,Holiday Classic,2007,1
+GOLD,200 M Butterfly,SCM,M,75-79,3:48.09,Herb Kern,,Holiday Classic,2007,1
+GOLD,200 M Individual Medley,SCM,M,75-79,3:29.29,Herb Kern,,Holiday Classic,2007,1

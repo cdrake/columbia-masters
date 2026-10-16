@@ -1,0 +1,478 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MINN,200 M Freestyle,SCM,W,18-24,2:14.51,Abbey Erwin,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,W,18-24,1:07.57,Abbey Erwin,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,W,18-24,1:20.70,Sarah Rinnman,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,W,18-24,2:22.70,Abbey Erwin,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,18-24,40.87,Sarah Rinnman,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,W,18-24,1:29.92,Sarah Rinnman,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,18-24,1:08.88,Abbey Erwin,,Short Course Meters Challenge,2023,1
+MINN,200 M Individual Medley,SCM,W,18-24,2:55.76,Sarah Rinnman,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,25-29,29.83,Madeline Westendorp,,Short Course Meters Challenge,2023,1
+SEMS,50 M Freestyle,SCM,W,25-29,31.51,Emma L Stuba,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,W,25-29,31.82,Kristen M Rutschke,,Short Course Meters Challenge,2023,3
+NORT,50 M Freestyle,SCM,W,25-29,32.08,Kelly Punyko,,Short Course Meters Challenge,2023,4
+MINN,50 M Freestyle,SCM,W,25-29,33.45,Casey L Rawlings,,Short Course Meters Challenge,2023,5
+MINN,50 M Freestyle,SCM,W,25-29,34.09,Rebecca N Miller,,Short Course Meters Challenge,2023,6
+MINN,50 M Freestyle,SCM,W,25-29,36.88,Andrea L Leach,,Short Course Meters Challenge,2023,7
+MINN,200 M Freestyle,SCM,W,25-29,3:17.02,Andrea L Leach,,Short Course Meters Challenge,2023,1
+SEMS,400 M Freestyle,SCM,W,25-29,5:35.88,Emma L Stuba,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,W,25-29,10:49.49,Kara Hippen,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,W,25-29,10:53.01,Samantha J Kraft,,Short Course Meters Challenge,2023,2
+MINN,1500 M Freestyle,SCM,W,25-29,20:32.39,Samantha J Kraft,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,W,25-29,20:33.85,Kara Hippen,,Short Course Meters Challenge,2023,2
+MINN,50 M Backstroke,SCM,W,25-29,39.98,Rebecca N Miller,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,25-29,42.47,Andrea L Leach,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,W,25-29,1:14.58,Lilith Lengvenis,,Short Course Meters Challenge,2023,1
+NORT,100 M Backstroke,SCM,W,25-29,1:15.00,Kelly Punyko,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,W,25-29,2:47.85,Lilith Lengvenis,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,25-29,36.57,Madeline Westendorp,,Short Course Meters Challenge,2023,1
+NORT,50 M Breaststroke,SCM,W,25-29,39.50,Kelly Punyko,,Short Course Meters Challenge,2023,2
+MINN,50 M Breaststroke,SCM,W,25-29,40.63,Casey L Rawlings,,Short Course Meters Challenge,2023,3
+MINN,100 M Breaststroke,SCM,W,25-29,1:22.76,Madeline Westendorp,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,W,25-29,1:25.77,Leah R Boldt,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,W,25-29,1:40.25,Rebecca N Miller,,Short Course Meters Challenge,2023,3
+MINN,200 M Breaststroke,SCM,W,25-29,3:02.14,Madeline Westendorp,,Short Course Meters Challenge,2023,1
+MINN,200 M Breaststroke,SCM,W,25-29,3:14.96,Leah R Boldt,,Short Course Meters Challenge,2023,2
+NORT,200 M Breaststroke,SCM,W,25-29,3:20.53,Kelly Punyko,,Short Course Meters Challenge,2023,3
+MINN,50 M Butterfly,SCM,W,25-29,34.15,Kristen M Rutschke,,Short Course Meters Challenge,2023,1
+NORT,50 M Butterfly,SCM,W,25-29,35.11,Kelly Punyko,,Short Course Meters Challenge,2023,2
+MINN,50 M Butterfly,SCM,W,25-29,35.16,Casey L Rawlings,,Short Course Meters Challenge,2023,3
+MINN,50 M Butterfly,SCM,W,25-29,47.31,Andrea L Leach,,Short Course Meters Challenge,2023,4
+MINN,100 M Butterfly,SCM,W,25-29,1:19.26,Kristen M Rutschke,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,25-29,1:22.20,Kristen M Rutschke,,Short Course Meters Challenge,2023,1
+SEMS,100 M Individual Medley,SCM,W,25-29,1:24.13,Emma L Stuba,,Short Course Meters Challenge,2023,2
+MINN,200 M Individual Medley,SCM,W,25-29,2:53.74,Lilith Lengvenis,,Short Course Meters Challenge,2023,1
+MINN,200 M Individual Medley,SCM,W,25-29,3:13.08,Rebecca N Miller,,Short Course Meters Challenge,2023,2
+MINN,200 M Individual Medley,SCM,W,25-29,3:34.52,Andrea L Leach,,Short Course Meters Challenge,2023,3
+MINN,50 M Freestyle,SCM,W,30-34,30.58,Carly Krump,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,30-34,32.59,Angela Guerra,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,W,30-34,36.36,Erin J Bernardy,,Short Course Meters Challenge,2023,3
+MINN,50 M Freestyle,SCM,W,30-34,37.79,Britt A Stewart,,Short Course Meters Challenge,2023,4
+MINN,100 M Freestyle,SCM,W,30-34,1:06.16,Carly Krump,,IGLA London 2023,2023,1
+MINN,50 M Backstroke,SCM,W,30-34,41.06,Britt A Stewart,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,W,30-34,1:17.79,Carly Krump,,IGLA London 2023,2023,1
+MINN,100 M Backstroke,SCM,W,30-34,1:17.85,Katherine Kaiser,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,W,30-34,1:31.06,Britt A Stewart,,Short Course Meters Challenge,2023,3
+MINN,200 M Backstroke,SCM,W,30-34,2:56.39,Carly Krump,,IGLA London 2023,2023,1
+MINN,50 M Breaststroke,SCM,W,30-34,40.34,Carly Krump,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,30-34,41.40,Angela Guerra,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,W,30-34,1:27.02,Carly Krump,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,W,30-34,1:29.60,Angela Guerra,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,W,30-34,1:48.19,Erin J Bernardy,,Short Course Meters Challenge,2023,3
+MINN,200 M Breaststroke,SCM,W,30-34,3:13.62,Carly Krump,,IGLA London 2023,2023,1
+MINN,50 M Butterfly,SCM,W,30-34,33.85,Hillary Hercules,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,W,30-34,35.34,Katherine Kaiser,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,W,30-34,1:17.52,Hillary Hercules,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,30-34,1:18.59,Katherine Kaiser,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,W,30-34,1:31.92,Erin J Bernardy,,Short Course Meters Challenge,2023,3
+MINN,100 M Individual Medley,SCM,W,30-34,1:34.39,Britt A Stewart,,Short Course Meters Challenge,2023,4
+MINN,50 M Freestyle,SCM,W,35-39,30.26,Chelsea L Reynolds,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,35-39,32.94,Ashley E Sullivan,,Short Course Meters Challenge,2023,2
+UC30,50 M Freestyle,SCM,W,35-39,33.07,Christina Drewitz,,Short Course Meters Challenge,2023,3
+MINN,50 M Freestyle,SCM,W,35-39,34.22,Andrea L Veith,,Short Course Meters Challenge,2023,4
+MINN,50 M Freestyle,SCM,W,35-39,36.67,Kelsey Knothe,,IGLA London 2023,2023,5
+UC30,50 M Freestyle,SCM,W,35-39,42.15,Hannah Hinckley,,Short Course Meters Challenge,2023,6
+MINN,100 M Freestyle,SCM,W,35-39,1:17.69,Ashley E Sullivan,,Short Course Meters Challenge,2023,1
+NORT,200 M Freestyle,SCM,W,35-39,2:52.10,Amy Flessert,,Short Course Meters Challenge,2023,1
+UC30,400 M Freestyle,SCM,W,35-39,7:32.92,Hannah Hinckley,,Short Course Meters Challenge,2023,1
+NORT,800 M Freestyle,SCM,W,35-39,12:02.36,Amy Flessert,,Short Course Meters Challenge,2023,1
+NORT,1500 M Freestyle,SCM,W,35-39,22:43.37,Amy Flessert,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,35-39,43.27,Andrea L Veith,,Short Course Meters Challenge,2023,1
+UC30,50 M Backstroke,SCM,W,35-39,49.89,Hannah Hinckley,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,W,35-39,1:27.42,Kelsey Knothe,,IGLA London 2023,2023,1
+UC30,200 M Backstroke,SCM,W,35-39,2:59.01,Christina Drewitz,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,35-39,42.72,Ashley E Sullivan,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,35-39,48.76,Andrea L Veith,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,W,35-39,1:33.33,Ashley E Sullivan,,Short Course Meters Challenge,2023,1
+NORT,100 M Breaststroke,SCM,W,35-39,1:41.48,Amy Flessert,,Short Course Meters Challenge,2023,2
+NORT,200 M Breaststroke,SCM,W,35-39,3:29.54,Amy Flessert,,Short Course Meters Challenge,2023,1
+UC30,200 M Breaststroke,SCM,W,35-39,3:30.53,Christina Drewitz,,Short Course Meters Challenge,2023,2
+MINN,50 M Butterfly,SCM,W,35-39,32.31,Chelsea L Reynolds,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,W,35-39,41.20,Andrea L Veith,,Short Course Meters Challenge,2023,2
+UC30,50 M Butterfly,SCM,W,35-39,51.05,Hannah Hinckley,,Short Course Meters Challenge,2023,3
+MINN,100 M Butterfly,SCM,W,35-39,1:15.72,Chelsea L Reynolds,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,35-39,1:16.42,Chelsea L Reynolds,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,35-39,1:29.69,Ashley E Sullivan,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,W,35-39,1:32.96,Andrea L Veith,,Short Course Meters Challenge,2023,3
+MINN,100 M Individual Medley,SCM,W,35-39,1:33.10,Kelsey Knothe,,IGLA London 2023,2023,4
+UC30,100 M Individual Medley,SCM,W,35-39,1:50.14,Hannah Hinckley,,Short Course Meters Challenge,2023,5
+MINN,50 M Freestyle,SCM,W,40-44,29.88,Elizabeth Nymeyer,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,40-44,30.70,Eva B Christianson,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,W,40-44,31.35,Erin L Huldeen,,Short Course Meters Challenge,2023,3
+MINN,50 M Freestyle,SCM,W,40-44,32.71,Stacey Thureen,,Short Course Meters Challenge,2023,4
+UC30,50 M Freestyle,SCM,W,40-44,33.70,Catherine Peterson,,Short Course Meters Challenge,2023,5
+ISMT,50 M Freestyle,SCM,W,40-44,41.43,Elizabeth R Varela,,Short Course Meters Challenge,2023,6
+MINN,100 M Freestyle,SCM,W,40-44,1:09.65,Stacey Thureen,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,W,40-44,1:15.84,Rachel Krejci,,Short Course Meters Challenge,2023,2
+MINN,200 M Freestyle,SCM,W,40-44,2:26.31,Stacey Thureen,,Short Course Meters Challenge,2023,1
+MINN,400 M Freestyle,SCM,W,40-44,5:05.69,Stacey Thureen,,Short Course Meters Challenge,2023,1
+NORT,400 M Freestyle,SCM,W,40-44,6:29.53,Jessica M Scott,,Short Course Meters Challenge,2023,2
+UC30,400 M Freestyle,SCM,W,40-44,6:32.28,Catherine Peterson,,Short Course Meters Challenge,2023,3
+ISMT,400 M Freestyle,SCM,W,40-44,8:07.90,Elizabeth R Varela,,Short Course Meters Challenge,2023,4
+ISMT,800 M Freestyle,SCM,W,40-44,16:30.27,Elizabeth R Varela,,Short Course Meters Challenge,2023,1
+ISMT,1500 M Freestyle,SCM,W,40-44,31:18.51,Elizabeth R Varela,,Short Course Meters Challenge,2023,1
+NORT,100 M Backstroke,SCM,W,40-44,1:45.39,Jessica M Scott,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,40-44,36.31,Eva B Christianson,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,40-44,40.30,Krisie M Melsen,,Short Course Meters Challenge,2023,2
+NORT,50 M Breaststroke,SCM,W,40-44,53.88,Jessica M Scott,,Short Course Meters Challenge,2023,3
+MINN,100 M Breaststroke,SCM,W,40-44,1:21.98,Eva B Christianson,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,W,40-44,1:26.11,Krisie M Melsen,,Short Course Meters Challenge,2023,2
+MINN,200 M Breaststroke,SCM,W,40-44,3:05.56,Krisie M Melsen,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,W,40-44,34.96,Stacey Thureen,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,W,40-44,38.05,Krisie M Melsen,,Short Course Meters Challenge,2023,2
+MINN,100 M Butterfly,SCM,W,40-44,1:15.21,Stacey Thureen,,Short Course Meters Challenge,2023,1
+UC30,100 M Butterfly,SCM,W,40-44,1:36.84,Catherine Peterson,,Short Course Meters Challenge,2023,2
+MINN,200 M Butterfly,SCM,W,40-44,2:42.09,Stacey Thureen,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,40-44,1:19.46,Krisie M Melsen,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,40-44,1:21.26,Erin L Huldeen,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,W,40-44,1:23.86,Rachel Krejci,,Short Course Meters Challenge,2023,3
+UC30,100 M Individual Medley,SCM,W,40-44,1:33.95,Catherine Peterson,,Short Course Meters Challenge,2023,4
+MINN,200 M Individual Medley,SCM,W,40-44,2:55.21,Krisie M Melsen,,Short Course Meters Challenge,2023,1
+NORT,200 M Individual Medley,SCM,W,40-44,3:39.31,Jessica M Scott,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,W,45-49,33.44,Rachel C Hughey,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,45-49,35.17,Carly Weaver,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,W,45-49,39.19,Donielle M Palladino,,Short Course Meters Challenge,2023,3
+MINN,800 M Freestyle,SCM,W,45-49,12:15.07,Rachel C Hughey,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,W,45-49,23:11.29,Rachel C Hughey,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,45-49,44.64,Carly Weaver,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,W,45-49,1:22.85,Rachel C Hughey,,Short Course Meters Challenge,2023,1
+MINN,200 M Backstroke,SCM,W,45-49,2:56.90,Rachel C Hughey,,Short Course Meters Challenge,2023,1
+MINN,200 M Butterfly,SCM,W,45-49,3:30.49,Rachel C Hughey,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,45-49,1:33.39,Carly Weaver,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,50-54,35.64,Karyn Maki,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,50-54,36.25,Jessica McBeth,,Short Course Meters Challenge,2023,2
+MINN,100 M Freestyle,SCM,W,50-54,1:18.54,Karyn Maki,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,W,50-54,11:44.22,Nicki J Phillips,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,W,50-54,22:18.65,Nicki J Phillips,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,50-54,43.90,Lara Etnier,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,50-54,45.68,Karyn Maki,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,W,50-54,1:32.59,Lara Etnier,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,50-54,1:35.05,Jessica McBeth,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,55-59,31.39,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+UC30,50 M Freestyle,SCM,W,55-59,34.63,Linda S Green,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,W,55-59,35.48,Susan L Mohn,,Short Course Meters Challenge,2023,3
+SEMS,50 M Freestyle,SCM,W,55-59,36.56,Karen T Schmitz,,Short Course Meters Challenge,2023,4
+NORT,50 M Freestyle,SCM,W,55-59,37.68,Anne B Whitworth,,Short Course Meters Challenge,2023,5
+MINN,50 M Freestyle,SCM,W,55-59,45.12,Margo T Brady,,Short Course Meters Challenge,2023,6
+MINN,100 M Freestyle,SCM,W,55-59,1:08.73,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+UC30,100 M Freestyle,SCM,W,55-59,1:19.36,Linda S Green,,Short Course Meters Challenge,2023,2
+NORT,100 M Freestyle,SCM,W,55-59,1:25.68,Anne B Whitworth,,Short Course Meters Challenge,2023,3
+MINN,200 M Freestyle,SCM,W,55-59,2:26.71,Karen Zemlin,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,W,55-59,2:27.29,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,2
+UC30,200 M Freestyle,SCM,W,55-59,2:53.31,Linda S Green,,Short Course Meters Challenge,2023,3
+NORT,200 M Freestyle,SCM,W,55-59,3:09.26,Anne B Whitworth,,Short Course Meters Challenge,2023,4
+MINN,400 M Freestyle,SCM,W,55-59,4:58.27,Karen Zemlin,,Short Course Meters Challenge,2023,1
+MINN,400 M Freestyle,SCM,W,55-59,5:24.01,Carrie Stolar,,Short Course Meters Challenge,2023,2
+UC30,400 M Freestyle,SCM,W,55-59,6:04.46,Linda S Green,,Short Course Meters Challenge,2023,3
+NORT,400 M Freestyle,SCM,W,55-59,6:21.07,Anne B Whitworth,,Short Course Meters Challenge,2023,4
+MINN,800 M Freestyle,SCM,W,55-59,10:01.08,Karen Zemlin,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,W,55-59,10:55.09,Carrie Stolar,,Short Course Meters Challenge,2023,2
+MINN,1500 M Freestyle,SCM,W,55-59,18:57.14,Karen Zemlin,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,W,55-59,20:37.32,Carrie Stolar,,Short Course Meters Challenge,2023,2
+MINN,50 M Backstroke,SCM,W,55-59,34.49,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+MINN,50 M Backstroke,SCM,W,55-59,48.04,Loralie Langman,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,W,55-59,1:14.19,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+SEMS,100 M Backstroke,SCM,W,55-59,1:25.52,Karen T Schmitz,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,W,55-59,1:42.10,Loralie Langman,,Short Course Meters Challenge,2023,3
+MINN,200 M Backstroke,SCM,W,55-59,2:42.73,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+SEMS,200 M Backstroke,SCM,W,55-59,3:05.80,Karen T Schmitz,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,W,55-59,3:35.62,Loralie Langman,,Short Course Meters Challenge,2023,3
+MINN,200 M Backstroke,SCM,W,55-59,5:09.62,Margo T Brady,,Short Course Meters Challenge,2023,4
+MINN,100 M Breaststroke,SCM,W,55-59,1:41.17,Susan L Mohn,,Short Course Meters Challenge,2023,1
+MINN,200 M Breaststroke,SCM,W,55-59,4:57.13,Margo T Brady,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,W,55-59,33.82,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+MINN,50 M Butterfly,SCM,W,55-59,35.55,Carrie Stolar,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,W,55-59,1:17.19,Jennifer Ridge,,Rowdy Gaines Masters Classic 15,2023,1
+NORT,100 M Individual Medley,SCM,W,55-59,1:45.66,Anne B Whitworth,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,W,55-59,2:09.80,Margo T Brady,,Short Course Meters Challenge,2023,3
+MINN,200 M Individual Medley,SCM,W,55-59,5:28.20,Margo T Brady,,Short Course Meters Challenge,2023,1
+SEMS,50 M Freestyle,SCM,W,60-64,34.40,Patricia Burd,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,W,60-64,1:32.04,Karen P Slakey,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,W,60-64,3:35.88,Karen P Slakey,,Short Course Meters Challenge,2023,1
+SEMS,800 M Freestyle,SCM,W,60-64,11:46.56,Patricia Burd,,Short Course Meters Challenge,2023,1
+SEMS,1500 M Freestyle,SCM,W,60-64,22:11.75,Patricia Burd,,Short Course Meters Challenge,2023,1
+NORT,50 M Freestyle,SCM,W,65-69,43.05,Judy M Seliga-Punyko,,Short Course Meters Challenge,2023,1
+NORT,100 M Freestyle,SCM,W,65-69,1:38.00,Judy M Seliga-Punyko,,Short Course Meters Challenge,2023,1
+NORT,50 M Breaststroke,SCM,W,65-69,50.80,Judy M Seliga-Punyko,,Short Course Meters Challenge,2023,1
+NORT,100 M Breaststroke,SCM,W,65-69,1:53.24,Judy M Seliga-Punyko,,Short Course Meters Challenge,2023,1
+NORT,100 M Individual Medley,SCM,W,65-69,1:54.91,Judy M Seliga-Punyko,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,70-74,40.53,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,W,70-74,1:30.78,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,W,70-74,3:24.86,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,W,70-74,1:39.27,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,200 M Backstroke,SCM,W,70-74,3:32.85,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,200 M Backstroke,SCM,W,70-74,5:47.17,Mary R Vonderharr,,Short Course Meters Challenge,2023,2
+MINN,50 M Breaststroke,SCM,W,70-74,58.60,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,70-74,1:08.96,Mary R Vonderharr,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,W,70-74,2:02.09,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,200 M Breaststroke,SCM,W,70-74,4:05.36,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,W,70-74,1:40.85,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,200 M Individual Medley,SCM,W,70-74,3:47.97,Sharon M Lee-Sheridan,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,W,75-79,1:22.26,Martha L Arradondo,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,W,75-79,1:48.15,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,W,75-79,3:49.93,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,400 M Freestyle,SCM,W,75-79,7:54.88,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,W,75-79,16:01.03,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,W,75-79,30:06.27,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,75-79,55.46,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,75-79,1:31.43,Martha L Arradondo,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,W,75-79,4:03.63,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,W,75-79,1:08.71,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,W,75-79,2:25.12,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,200 M Breaststroke,SCM,W,75-79,4:59.73,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,W,75-79,1:01.28,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,100 M Butterfly,SCM,W,75-79,2:09.42,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,200 M Butterfly,SCM,W,75-79,4:27.77,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,400 M Individual Medley,SCM,W,75-79,9:17.96,Babs H Larsen,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,80-84,1:18.33,AnnLiv Bacon,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,W,80-84,1:58.47,Sandra A Pierce,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,W,80-84,5:45.81,AnnLiv Bacon,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,18-24,23.63,Sam J Brennan,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,18-24,26.50,Owen Young,,Short Course Meters Challenge,2023,2
+MINN,100 M Freestyle,SCM,M,18-24,52.45,Sam J Brennan,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,M,18-24,9:54.70,Zachary Q McCarty,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,M,18-24,18:51.81,Zachary Q McCarty,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,18-24,32.53,Zachary Q McCarty,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,18-24,36.23,Owen Young,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,M,18-24,1:13.29,Zachary Q McCarty,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,18-24,26.50,Sam J Brennan,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,18-24,31.56,Owen Young,,Short Course Meters Challenge,2023,2
+MINN,100 M Butterfly,SCM,M,18-24,58.64,Sam J Brennan,,Short Course Meters Challenge,2023,1
+UC30,50 M Freestyle,SCM,M,25-29,23.63,Michael Foss,,Short Course Meters Challenge,2023,1
+UC30,50 M Freestyle,SCM,M,25-29,25.15,Greg J Breheim,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,25-29,25.76,Nate Duncan,,Short Course Meters Challenge,2023,3
+UC30,50 M Freestyle,SCM,M,25-29,27.96,Nicholas L Grivna,,Short Course Meters Challenge,2023,4
+UC30,100 M Freestyle,SCM,M,25-29,53.68,Michael Foss,,Short Course Meters Challenge,2023,1
+UC30,100 M Freestyle,SCM,M,25-29,56.72,Greg J Breheim,,Short Course Meters Challenge,2023,2
+MINN,400 M Freestyle,SCM,M,25-29,4:46.51,Seth J Baetzold,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,M,25-29,9:34.65,Seth J Baetzold,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,M,25-29,18:03.37,Seth J Baetzold,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,25-29,30.06,Nate Duncan,,Short Course Meters Challenge,2023,1
+UC30,50 M Backstroke,SCM,M,25-29,32.23,Nicholas L Grivna,,Short Course Meters Challenge,2023,2
+UC30,100 M Backstroke,SCM,M,25-29,1:11.50,Nicholas L Grivna,,Short Course Meters Challenge,2023,1
+MINN,200 M Backstroke,SCM,M,25-29,2:23.32,Nate Duncan,,Short Course Meters Challenge,2023,1
+UC30,50 M Breaststroke,SCM,M,25-29,35.59,Greg J Breheim,,Short Course Meters Challenge,2023,1
+MINN,200 M Breaststroke,SCM,M,25-29,2:53.90,Seth J Baetzold,,Short Course Meters Challenge,2023,1
+UC30,50 M Butterfly,SCM,M,25-29,30.15,Nicholas L Grivna,,Short Course Meters Challenge,2023,1
+UC30,50 M Butterfly,SCM,M,25-29,33.59,Greg J Breheim,,Short Course Meters Challenge,2023,2
+UC30,100 M Butterfly,SCM,M,25-29,1:07.56,Nicholas L Grivna,,Short Course Meters Challenge,2023,1
+MINN,200 M Butterfly,SCM,M,25-29,2:18.24,Seth J Baetzold,,Short Course Meters Challenge,2023,1
+UC30,100 M Individual Medley,SCM,M,25-29,1:02.03,Michael Foss,,Short Course Meters Challenge,2023,1
+UC30,100 M Individual Medley,SCM,M,25-29,1:06.28,Greg J Breheim,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,M,25-29,1:08.61,Nate Duncan,,Short Course Meters Challenge,2023,3
+MINN,400 M Individual Medley,SCM,M,25-29,5:19.16,Seth J Baetzold,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,30-34,25.33,Ben Kosieradzki,,IGLA London 2023,2023,1
+MINN,50 M Freestyle,SCM,M,30-34,26.11,Anthony Challeen,,IGLA London 2023,2023,2
+UC30,50 M Freestyle,SCM,M,30-34,27.70,Jon Lendrum,,Short Course Meters Challenge,2023,3
+MINN,50 M Freestyle,SCM,M,30-34,28.78,Joey R Kleinow,,Short Course Meters Challenge,2023,4
+MINN,50 M Freestyle,SCM,M,30-34,31.21,Joshua A Tomashek,,IGLA London 2023,2023,5
+MINN,50 M Freestyle,SCM,M,30-34,33.72,Mauricio Leon Mendez,,IGLA London 2023,2023,6
+MINN,50 M Freestyle,SCM,M,30-34,34.78,Ryan S Caldwell,,Short Course Meters Challenge,2023,7
+MINN,100 M Freestyle,SCM,M,30-34,59.39,Ben Kosieradzki,,IGLA London 2023,2023,1
+MINN,100 M Freestyle,SCM,M,30-34,1:00.98,Anthony Challeen,,IGLA London 2023,2023,2
+MINN,100 M Freestyle,SCM,M,30-34,1:13.24,Joshua A Tomashek,,IGLA London 2023,2023,3
+MINN,200 M Freestyle,SCM,M,30-34,2:08.88,Ben Kosieradzki,,IGLA London 2023,2023,1
+MINN,200 M Freestyle,SCM,M,30-34,2:20.87,Anthony Challeen,,IGLA London 2023,2023,2
+MINN,200 M Freestyle,SCM,M,30-34,3:03.82,Gabriel W Hartog,,IGLA London 2023,2023,3
+MINN,50 M Backstroke,SCM,M,30-34,33.01,Anthony Challeen,,IGLA London 2023,2023,1
+MINN,50 M Backstroke,SCM,M,30-34,46.08,Ryan S Caldwell,,Short Course Meters Challenge,2023,2
+MINN,50 M Breaststroke,SCM,M,30-34,38.28,Michael W Duncan,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,30-34,40.98,Joshua A Tomashek,,IGLA London 2023,2023,2
+MINN,50 M Breaststroke,SCM,M,30-34,55.70,Ryan S Caldwell,,Short Course Meters Challenge,2023,3
+MINN,100 M Breaststroke,SCM,M,30-34,1:31.51,Joey R Kleinow,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,M,30-34,1:31.93,Mauricio Leon Mendez,,IGLA London 2023,2023,2
+MINN,200 M Breaststroke,SCM,M,30-34,3:21.83,Mauricio Leon Mendez,,IGLA London 2023,2023,1
+MINN,50 M Butterfly,SCM,M,30-34,28.04,Ben Kosieradzki,,IGLA London 2023,2023,1
+MINN,50 M Butterfly,SCM,M,30-34,30.86,Anthony Challeen,,IGLA London 2023,2023,2
+MINN,50 M Butterfly,SCM,M,30-34,31.14,Michael W Duncan,,Short Course Meters Challenge,2023,3
+MINN,50 M Butterfly,SCM,M,30-34,41.43,Ryan S Caldwell,,Short Course Meters Challenge,2023,4
+MINN,100 M Butterfly,SCM,M,30-34,1:02.80,Ben Kosieradzki,,IGLA London 2023,2023,1
+MINN,100 M Butterfly,SCM,M,30-34,1:37.61,Gabriel W Hartog,,IGLA London 2023,2023,2
+MINN,200 M Butterfly,SCM,M,30-34,3:28.99,Gabriel W Hartog,,IGLA London 2023,2023,1
+MINN,100 M Individual Medley,SCM,M,30-34,1:12.78,Peter Wildberger,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,30-34,1:25.42,Joshua A Tomashek,,IGLA London 2023,2023,2
+MINN,100 M Individual Medley,SCM,M,30-34,1:26.40,Mauricio Leon Mendez,,IGLA London 2023,2023,3
+MINN,100 M Individual Medley,SCM,M,30-34,1:36.23,Ryan S Caldwell,,Short Course Meters Challenge,2023,4
+NORT,50 M Freestyle,SCM,M,35-39,30.00,Jonathan J Braski,,Short Course Meters Challenge,2023,1
+UC30,50 M Freestyle,SCM,M,35-39,31.89,Blake E Boster,,Short Course Meters Challenge,2023,2
+UC30,200 M Freestyle,SCM,M,35-39,2:16.91,Matej Markota,,Short Course Meters Challenge,2023,1
+SEMS,200 M Freestyle,SCM,M,35-39,2:22.73,Jonathan R Burks,,Short Course Meters Challenge,2023,2
+SEMS,400 M Freestyle,SCM,M,35-39,5:10.42,Jonathan R Burks,,Short Course Meters Challenge,2023,1
+NORT,50 M Backstroke,SCM,M,35-39,39.71,Jonathan J Braski,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,M,35-39,1:06.54,Luke Paquin,,IGLA London 2023,2023,1
+SEMS,100 M Backstroke,SCM,M,35-39,1:14.88,Jonathan R Burks,,Short Course Meters Challenge,2023,2
+UC30,100 M Backstroke,SCM,M,35-39,1:18.37,Blake E Boster,,Short Course Meters Challenge,2023,3
+UC30,50 M Breaststroke,SCM,M,35-39,33.38,Jesse R Schmidt,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,35-39,33.62,Luke Paquin,,IGLA London 2023,2023,2
+NORT,50 M Breaststroke,SCM,M,35-39,42.16,Jonathan J Braski,,Short Course Meters Challenge,2023,3
+UC30,100 M Breaststroke,SCM,M,35-39,1:14.78,Jesse R Schmidt,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,35-39,1:04.85,Luke Paquin,,IGLA London 2023,2023,1
+NORT,100 M Individual Medley,SCM,M,35-39,1:22.54,Jonathan J Braski,,Short Course Meters Challenge,2023,2
+MINN,200 M Individual Medley,SCM,M,35-39,2:26.31,Luke Paquin,,IGLA London 2023,2023,1
+MINN,400 M Individual Medley,SCM,M,35-39,5:20.13,Luke Paquin,,IGLA London 2023,2023,1
+SEMS,50 M Freestyle,SCM,M,40-44,28.88,Curtis M Kilber,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,40-44,29.07,Lucas Winskowski,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,40-44,34.41,Tyler Lovan,,IGLA London 2023,2023,3
+MINN,50 M Freestyle,SCM,M,40-44,34.45,Eric Werlinger,,Short Course Meters Challenge,2023,4
+MINN,100 M Freestyle,SCM,M,40-44,1:19.76,Eric Werlinger,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,M,40-44,1:24.09,Tyler Lovan,,IGLA London 2023,2023,2
+NORT,400 M Freestyle,SCM,M,40-44,5:15.56,Jonathan R Scott,,Short Course Meters Challenge,2023,1
+UC30,400 M Freestyle,SCM,M,40-44,6:14.02,Daniel Hyland,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,M,40-44,1:10.96,Reed Steele,,Short Course Meters Challenge,2023,1
+SEMS,50 M Breaststroke,SCM,M,40-44,36.43,Curtis M Kilber,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,40-44,45.40,Tyler Lovan,,IGLA London 2023,2023,2
+SEMS,100 M Breaststroke,SCM,M,40-44,1:19.48,Curtis M Kilber,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,40-44,1:11.63,Reed Steele,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,40-44,1:18.41,Lucas Winskowski,,Short Course Meters Challenge,2023,2
+NORT,200 M Individual Medley,SCM,M,40-44,2:47.51,Jonathan R Scott,,Short Course Meters Challenge,2023,1
+UC30,200 M Individual Medley,SCM,M,40-44,3:22.04,Daniel Hyland,,Short Course Meters Challenge,2023,2
+MINN,400 M Individual Medley,SCM,M,40-44,5:27.08,Christopher M Rupp,,Short Course Meters Challenge,2023,1
+UC30,50 M Freestyle,SCM,M,45-49,27.90,Aaron E Harker,,Short Course Meters Challenge,2023,1
+UC30,50 M Freestyle,SCM,M,45-49,29.31,Erin P Rogers,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,45-49,31.09,Brandon Thornton,,Short Course Meters Challenge,2023,3
+MINN,50 M Freestyle,SCM,M,45-49,34.91,Andrew J Dotson,,IGLA London 2023,2023,4
+MINN,50 M Freestyle,SCM,M,45-49,41.46,Joby Pauly,,Short Course Meters Challenge,2023,5
+UC30,100 M Freestyle,SCM,M,45-49,1:03.88,Aaron E Harker,,Short Course Meters Challenge,2023,1
+UC30,100 M Freestyle,SCM,M,45-49,1:07.38,Erin P Rogers,,Short Course Meters Challenge,2023,2
+MINN,100 M Freestyle,SCM,M,45-49,1:16.83,Andrew J Dotson,,IGLA London 2023,2023,3
+MINN,100 M Freestyle,SCM,M,45-49,1:36.53,Joby Pauly,,Short Course Meters Challenge,2023,4
+MINN,200 M Freestyle,SCM,M,45-49,2:03.08,Curt Wood,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,M,45-49,2:19.67,Brian H Kirkvold,,Short Course Meters Challenge,2023,2
+MINN,200 M Freestyle,SCM,M,45-49,3:02.56,Andrew J Dotson,,IGLA London 2023,2023,3
+MINN,200 M Freestyle,SCM,M,45-49,3:38.20,Joby Pauly,,Short Course Meters Challenge,2023,4
+MINN,400 M Freestyle,SCM,M,45-49,4:32.92,Curt Wood,,Short Course Meters Challenge,2023,1
+MINN,400 M Freestyle,SCM,M,45-49,4:45.24,Brian H Kirkvold,,Short Course Meters Challenge,2023,2
+MINN,800 M Freestyle,SCM,M,45-49,9:45.02,Brian H Kirkvold,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,M,45-49,20:14.77,Brian H Kirkvold,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,45-49,43.55,Andrew J Dotson,,IGLA London 2023,2023,1
+UC30,50 M Breaststroke,SCM,M,45-49,37.64,Erin P Rogers,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,45-49,40.77,Brandon Thornton,,Short Course Meters Challenge,2023,2
+MINN,50 M Breaststroke,SCM,M,45-49,46.23,Andrew J Dotson,,IGLA London 2023,2023,3
+MINN,100 M Breaststroke,SCM,M,45-49,1:07.79,Curt Wood,,Short Course Meters Challenge,2023,1
+UC30,100 M Breaststroke,SCM,M,45-49,1:19.30,Aaron E Harker,,Short Course Meters Challenge,2023,2
+UC30,100 M Breaststroke,SCM,M,45-49,1:25.84,Erin P Rogers,,Short Course Meters Challenge,2023,3
+MINN,100 M Breaststroke,SCM,M,45-49,1:33.36,Brandon Thornton,,Short Course Meters Challenge,2023,4
+MINN,200 M Breaststroke,SCM,M,45-49,2:33.46,Curt Wood,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,45-49,51.44,Joby Pauly,,Short Course Meters Challenge,2023,1
+UC30,100 M Individual Medley,SCM,M,45-49,1:11.24,Aaron E Harker,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,45-49,1:50.99,Joby Pauly,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,50-54,25.07,Brian L Jacobson,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,50-54,33.32,Kevin T Kirsch,,IGLA London 2023,2023,2
+MINN,50 M Freestyle,SCM,M,50-54,36.77,Greg Williams,,Short Course Meters Challenge,2023,3
+MINN,100 M Freestyle,SCM,M,50-54,1:21.69,Greg Williams,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,M,50-54,3:07.01,Kevin T Kirsch,,IGLA London 2023,2023,1
+MINN,800 M Freestyle,SCM,M,50-54,14:22.63,Kevin T Kirsch,,IGLA London 2023,2023,1
+MINN,50 M Backstroke,SCM,M,50-54,45.08,Kevin T Kirsch,,IGLA London 2023,2023,1
+MINN,50 M Breaststroke,SCM,M,50-54,32.99,Brian L Jacobson,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,50-54,45.47,Kevin T Kirsch,,IGLA London 2023,2023,2
+MINN,50 M Butterfly,SCM,M,50-54,28.60,Brian L Jacobson,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,55-59,27.86,Robert A Young,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,55-59,29.22,James M Wise,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,2
+MINN,100 M Freestyle,SCM,M,55-59,1:03.51,James M Wise,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,1
+MINN,100 M Freestyle,SCM,M,55-59,1:05.94,Robert A Young,,Rowdy Gaines Masters Classic 15,2023,2
+MINN,200 M Freestyle,SCM,M,55-59,2:18.86,James M Wise,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,1
+MINN,400 M Freestyle,SCM,M,55-59,4:58.10,James M Wise,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,1
+MINN,50 M Backstroke,SCM,M,55-59,34.49,Robert A Young,,Rowdy Gaines Masters Classic 15,2023,1
+SEMS,100 M Backstroke,SCM,M,55-59,1:18.05,William Schmitz,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,55-59,29.83,Robert A Young,,Rowdy Gaines Masters Classic 15,2023,1
+MINN,100 M Butterfly,SCM,M,55-59,1:21.19,Robert A Young,,Rowdy Gaines Masters Classic 15,2023,1
+MINN,100 M Individual Medley,SCM,M,55-59,1:16.59,Robert A Young,,Rowdy Gaines Masters Classic 15,2023,1
+MINN,50 M Freestyle,SCM,M,60-64,31.59,John J Reinartz,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,60-64,34.04,Randal Ness,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,60-64,35.14,Gerald F Tyrrell,,IGLA London 2023,2023,3
+MINN,100 M Freestyle,SCM,M,60-64,1:11.07,William J Gengler,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,M,60-64,1:19.23,Gerald F Tyrrell,,IGLA London 2023,2023,2
+UC30,200 M Freestyle,SCM,M,60-64,2:47.30,John P Jacobson,,Short Course Meters Challenge,2023,1
+MINN,400 M Freestyle,SCM,M,60-64,5:31.31,John J Reinartz,,Short Course Meters Challenge,2023,1
+MINN,400 M Freestyle,SCM,M,60-64,5:32.45,Mark E Larson,,IGLA London 2023,2023,2
+UC30,400 M Freestyle,SCM,M,60-64,6:00.72,John P Jacobson,,Short Course Meters Challenge,2023,3
+MINN,800 M Freestyle,SCM,M,60-64,11:07.53,John J Reinartz,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,M,60-64,11:21.92,Gary Muchow,,Short Course Meters Challenge,2023,2
+MINN,800 M Freestyle,SCM,M,60-64,11:24.44,Mark E Larson,,IGLA London 2023,2023,3
+MINN,1500 M Freestyle,SCM,M,60-64,20:49.73,John J Reinartz,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,M,60-64,21:15.31,Gary Muchow,,Short Course Meters Challenge,2023,2
+MINN,1500 M Freestyle,SCM,M,60-64,21:53.99,Mark E Larson,,IGLA London 2023,2023,3
+MINN,50 M Backstroke,SCM,M,60-64,39.73,Stephen C Nelson,,IGLA London 2023,2023,1
+MINN,50 M Backstroke,SCM,M,60-64,41.06,Gerald F Tyrrell,,IGLA London 2023,2023,2
+MINN,100 M Backstroke,SCM,M,60-64,1:17.75,William J Gengler,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,M,60-64,1:26.48,Stephen C Nelson,,IGLA London 2023,2023,2
+UC30,100 M Backstroke,SCM,M,60-64,1:27.69,John P Jacobson,,Short Course Meters Challenge,2023,3
+MINN,200 M Backstroke,SCM,M,60-64,2:54.20,William J Gengler,,Short Course Meters Challenge,2023,1
+MINN,200 M Backstroke,SCM,M,60-64,3:04.74,Stephen C Nelson,,IGLA London 2023,2023,2
+MINN,50 M Breaststroke,SCM,M,60-64,39.29,Stephen C Nelson,,IGLA London 2023,2023,1
+MINN,100 M Breaststroke,SCM,M,60-64,1:26.90,Stephen C Nelson,,IGLA London 2023,2023,1
+MINN,100 M Breaststroke,SCM,M,60-64,1:28.34,Mark E Larson,,IGLA London 2023,2023,2
+MINN,200 M Breaststroke,SCM,M,60-64,3:16.03,Mark E Larson,,IGLA London 2023,2023,1
+UC30,100 M Individual Medley,SCM,M,60-64,1:28.46,John P Jacobson,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,60-64,1:32.76,Randal Ness,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,M,60-64,1:34.59,Gerald F Tyrrell,,IGLA London 2023,2023,3
+MINN,200 M Individual Medley,SCM,M,60-64,2:51.53,Gary Muchow,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,65-69,27.98,Bruce Paakh,,Arkansas Masters SCM Invitational,2023,1
+MINN,50 M Freestyle,SCM,M,65-69,31.88,Darrell J Smith,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,65-69,33.69,Didier B Lamour,,Short Course Meters Challenge,2023,3
+NORT,50 M Freestyle,SCM,M,65-69,34.93,Bill Punyko,,Short Course Meters Challenge,2023,4
+MINN,50 M Freestyle,SCM,M,65-69,43.90,Steve P McLaughlin,,Short Course Meters Challenge,2023,5
+MINN,100 M Freestyle,SCM,M,65-69,1:02.10,Bruce Paakh,,Arkansas Masters SCM Invitational,2023,1
+MINN,200 M Freestyle,SCM,M,65-69,3:57.24,Steve P McLaughlin,,Short Course Meters Challenge,2023,1
+MINN,800 M Freestyle,SCM,M,65-69,14:12.23,Curtis L Nelson,,Short Course Meters Challenge,2023,1
+MINN,1500 M Freestyle,SCM,M,65-69,26:19.97,Curtis L Nelson,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,65-69,34.99,Bruce Paakh,,Arkansas Masters SCM Invitational,2023,1
+NORT,50 M Backstroke,SCM,M,65-69,40.56,Bill Punyko,,Short Course Meters Challenge,2023,2
+MINN,100 M Backstroke,SCM,M,65-69,1:32.50,Curtis L Nelson,,Short Course Meters Challenge,2023,1
+MINN,100 M Backstroke,SCM,M,65-69,1:33.12,Didier B Lamour,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,M,65-69,3:19.53,Curtis L Nelson,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,65-69,37.12,Bruce Paakh,,Arkansas Masters SCM Invitational,2023,1
+MINN,50 M Breaststroke,SCM,M,65-69,42.93,Didier B Lamour,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,M,65-69,1:38.03,Didier B Lamour,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,M,65-69,1:53.95,Steve P McLaughlin,,Short Course Meters Challenge,2023,2
+MINN,200 M Breaststroke,SCM,M,65-69,4:04.63,Steve P McLaughlin,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,65-69,30.66,Bruce Paakh,,Arkansas Masters SCM Invitational,2023,1
+NORT,50 M Butterfly,SCM,M,65-69,41.57,Bill Punyko,,Short Course Meters Challenge,2023,2
+MINN,100 M Butterfly,SCM,M,65-69,1:18.73,Darrell J Smith,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,65-69,1:11.70,Bruce Paakh,,Arkansas Masters SCM Invitational,2023,1
+MINN,100 M Individual Medley,SCM,M,65-69,1:27.43,Didier B Lamour,,Short Course Meters Challenge,2023,2
+NORT,100 M Individual Medley,SCM,M,65-69,1:30.48,Bill Punyko,,Short Course Meters Challenge,2023,3
+MINN,100 M Individual Medley,SCM,M,65-69,2:02.26,Steve P McLaughlin,,Short Course Meters Challenge,2023,4
+MINN,50 M Freestyle,SCM,M,70-74,34.43,Ralph S Bovard,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,1
+MINN,50 M Freestyle,SCM,M,70-74,37.04,Wayne A Helm,,Short Course Meters Challenge,2023,2
+NORT,50 M Freestyle,SCM,M,70-74,38.84,Charles C Stewart,,Short Course Meters Challenge,2023,3
+MINN,100 M Freestyle,SCM,M,70-74,1:22.29,Ralph S Bovard,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,1
+MINN,100 M Freestyle,SCM,M,70-74,1:29.02,Wayne A Helm,,Short Course Meters Challenge,2023,2
+MINN,200 M Freestyle,SCM,M,70-74,3:04.03,Marc Anderson,,Short Course Meters Challenge,2023,1
+MINN,200 M Freestyle,SCM,M,70-74,3:15.68,Ralph S Bovard,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,2
+MINN,1500 M Freestyle,SCM,M,70-74,28:20.41,Bill Durell,,2023 SPMS SCM Championships,2023,1
+MINN,50 M Backstroke,SCM,M,70-74,43.21,Wayne A Helm,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,70-74,45.36,Marc Anderson,,Short Course Meters Challenge,2023,2
+MINN,50 M Backstroke,SCM,M,70-74,46.43,Ralph S Bovard,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,3
+MINN,100 M Backstroke,SCM,M,70-74,1:45.72,Marc Anderson,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,70-74,42.90,Marc Anderson,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,70-74,46.95,Ralph S Bovard,,Short Course Meters Challenge,2023,2
+MINN,100 M Breaststroke,SCM,M,70-74,1:50.98,Ralph S Bovard,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,70-74,44.41,Ralph S Bovard,,2023 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2023,1
+MINN,50 M Butterfly,SCM,M,70-74,1:11.92,Mark Kaplan,,Short Course Meters Challenge,2023,2
+MINN,100 M Butterfly,SCM,M,70-74,1:42.60,Gary M Fine,,2023 Bill Heebner Memorial Winter Freeze Masters Meet,2023,1
+MINN,200 M Butterfly,SCM,M,70-74,3:53.89,Gary M Fine,,2023 Bill Heebner Memorial Winter Freeze Masters Meet,2023,1
+MINN,200 M Butterfly,SCM,M,70-74,5:10.23,Bill Durell,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,M,70-74,1:33.31,Ralph S Bovard,,Short Course Meters Challenge,2023,1
+NORT,100 M Individual Medley,SCM,M,70-74,1:40.51,Charles C Stewart,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,M,70-74,1:56.63,Bill Durell,,Short Course Meters Challenge,2023,3
+MINN,100 M Individual Medley,SCM,M,70-74,2:17.20,Mark Kaplan,,Short Course Meters Challenge,2023,4
+MINN,200 M Individual Medley,SCM,M,70-74,3:29.95,Gary M Fine,,2023 Bill Heebner Memorial Winter Freeze Masters Meet,2023,1
+MINN,400 M Individual Medley,SCM,M,70-74,7:43.21,Gary M Fine,,Short Course Meters Challenge,2023,1
+MINN,400 M Individual Medley,SCM,M,70-74,8:46.65,Bill Durell,,Short Course Meters Challenge,2023,2
+MINN,50 M Freestyle,SCM,M,75-79,36.52,Michael R Rothweiler,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,75-79,42.65,Kent F Quackenbush,,Short Course Meters Challenge,2023,2
+MINN,200 M Freestyle,SCM,M,75-79,3:12.12,Robin T Kleffman,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,75-79,44.26,Michael R Rothweiler,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,75-79,51.77,Kent F Quackenbush,,Short Course Meters Challenge,2023,2
+MINN,200 M Backstroke,SCM,M,75-79,3:33.26,Michael R Rothweiler,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,75-79,36.78,Robin T Kleffman,,Short Course Meters Challenge,2023,1
+MINN,50 M Butterfly,SCM,M,75-79,42.19,John Ziegenhagen,,Short Course Meters Challenge,2023,2
+MINN,100 M Individual Medley,SCM,M,75-79,1:37.18,Michael R Rothweiler,,Short Course Meters Challenge,2023,1
+MINN,50 M Breaststroke,SCM,M,80-84,54.52,David C Arlander,,Short Course Meters Challenge,2023,1
+MINN,100 M Breaststroke,SCM,M,80-84,2:01.41,David C Arlander,,Short Course Meters Challenge,2023,1
+MINN,200 M Breaststroke,SCM,M,80-84,4:28.48,David C Arlander,,Short Course Meters Challenge,2023,1
+MINN,50 M Freestyle,SCM,M,85-89,42.89,Pete Magee,,Short Course Meters Challenge,2023,1
+MINN,100 M Freestyle,SCM,M,85-89,1:43.27,Pete Magee,,Short Course Meters Challenge,2023,1
+MINN,50 M Backstroke,SCM,M,85-89,55.28,Pete Magee,,Short Course Meters Challenge,2023,1
+MINN,100 M Individual Medley,SCM,M,85-89,2:22.84,Pete Magee,,Short Course Meters Challenge,2023,1

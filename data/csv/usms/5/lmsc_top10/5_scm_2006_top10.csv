@@ -1,0 +1,90 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 M Freestyle,SCM,W,25-29,30.00,Amy M Gladwell,,New England SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,W,25-29,32.65,Amy M Gladwell,,New England SCM Champs,2006,1
+CONN,100 M Individual Medley,SCM,W,25-29,1:15.97,Amy M Gladwell,,New England SCM Champs,2006,1
+CONN,200 M Freestyle,SCM,W,30-34,2:24.79,Tobey-Anne Saracino,,New England SCM Champs,2006,1
+CONN,400 M Freestyle,SCM,W,30-34,5:00.06,Tobey-Anne Saracino,,New England SCM Champs,2006,1
+CONN,800 M Freestyle,SCM,W,30-34,10:23.45,Tobey-Anne Saracino,,New England SCM Champs,2006,1
+CONN,1500 M Freestyle,SCM,W,30-34,21:02.09,Tobey-Anne Saracino,,Colonies Zone and NJ SCM Champs,2006,1
+CONN,100 M Breaststroke,SCM,W,30-34,1:23.62,Tobey-Anne Saracino,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,W,35-39,31.80,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,100 M Freestyle,SCM,W,35-39,1:07.24,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,200 M Freestyle,SCM,W,35-39,2:26.53,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,400 M Freestyle,SCM,W,35-39,5:05.27,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,800 M Freestyle,SCM,W,35-39,10:33.54,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,50 M Backstroke,SCM,W,35-39,38.38,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,100 M Backstroke,SCM,W,35-39,1:23.39,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,200 M Backstroke,SCM,W,35-39,2:57.83,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,W,35-39,34.96,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,100 M Butterfly,SCM,W,35-39,1:18.62,Galen D Rinaldi,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,W,40-44,43.06,Carolyn Daniels,,New England SCM Champs,2006,1
+CONN,100 M Breaststroke,SCM,W,40-44,1:59.27,Carolyn Daniels,,New England SCM Champs,2006,1
+CONN,100 M Individual Medley,SCM,W,40-44,1:57.84,Carolyn Daniels,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,25-29,26.50,Patrick F Marchand,,New England SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,M,25-29,27.15,Jeremy G Marchand,,New England SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,M,25-29,29.14,Patrick F Marchand,,New England SCM Champs,2006,2
+CONN,100 M Butterfly,SCM,M,25-29,1:00.16,Jeremy G Marchand,,New England SCM Champs,2006,1
+CONN,200 M Breaststroke,SCM,M,30-34,2:32.50,Andrew F Marchand,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,35-39,29.23,Patrick L Good,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,35-39,29.40,Michael R Mahoney,,New England SCM Champs,2006,2
+CONN,100 M Freestyle,SCM,M,35-39,1:05.48,Patrick L Good,,New England SCM Champs,2006,1
+CONN,200 M Backstroke,SCM,M,35-39,2:40.30,Michael R Mahoney,,New England SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,M,35-39,31.83,Patrick L Good,,New England SCM Champs,2006,1
+CONN,100 M Butterfly,SCM,M,35-39,1:15.19,Patrick L Good,,New England SCM Champs,2006,1
+CONN,100 M Individual Medley,SCM,M,35-39,1:15.19,Patrick L Good,,New England SCM Champs,2006,1
+CONN,200 M Individual Medley,SCM,M,35-39,2:55.03,Patrick L Good,,New England SCM Champs,2006,1
+CONN,100 M Breaststroke,SCM,M,40-44,1:22.57,Rick Klutey,,New England SCM Champs,2006,1
+CONN,200 M Breaststroke,SCM,M,40-44,2:55.38,Rick Klutey,,New England SCM Champs,2006,1
+CONN,200 M Individual Medley,SCM,M,40-44,2:40.87,Rick Klutey,,New England SCM Champs,2006,1
+CONN,400 M Individual Medley,SCM,M,40-44,5:53.56,Rick Klutey,,New England SCM Champs,2006,1
+CONN,100 M Backstroke,SCM,M,45-49,1:13.95,Tom K Coffey,,New England SCM Champs,2006,1
+CONN,100 M Breaststroke,SCM,M,45-49,1:29.54,David Logan,,New England SCM Champs,2006,1
+CONN,200 M Breaststroke,SCM,M,45-49,3:23.62,David Logan,,New England SCM Champs,2006,1
+CONN,100 M Butterfly,SCM,M,45-49,1:20.42,David Logan,,New England SCM Champs,2006,1
+CONN,200 M Butterfly,SCM,M,45-49,2:39.48,Tom K Coffey,,New England SCM Champs,2006,1
+CONN,200 M Butterfly,SCM,M,45-49,2:58.66,David Logan,,New England SCM Champs,2006,2
+CONN,100 M Individual Medley,SCM,M,45-49,1:12.25,Tom K Coffey,,New England SCM Champs,2006,1
+CONN,200 M Individual Medley,SCM,M,45-49,2:43.43,Tom K Coffey,,New England SCM Champs,2006,1
+CONN,400 M Individual Medley,SCM,M,45-49,5:54.48,Tom K Coffey,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,50-54,32.99,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,100 M Freestyle,SCM,M,50-54,1:18.14,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,200 M Freestyle,SCM,M,50-54,2:26.22,Robert E Eckhoff,,New England SCM Champs,2006,1
+CONN,400 M Freestyle,SCM,M,50-54,5:25.75,Robert E Eckhoff,,New England SCM Champs,2006,1
+CONN,50 M Backstroke,SCM,M,50-54,40.45,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,50 M Breaststroke,SCM,M,50-54,41.61,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,100 M Breaststroke,SCM,M,50-54,1:35.04,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,50 M Butterfly,SCM,M,50-54,35.92,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,100 M Butterfly,SCM,M,50-54,1:42.63,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,100 M Individual Medley,SCM,M,50-54,1:25.43,Brian G Quinn,,Huntsman World Senior Games,2006,1
+CONN,50 M Freestyle,SCM,M,55-59,29.10,William J Geoghegan,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,55-59,29.27,Edward S Becker,,Colonies Zone and NJ SCM Champs,2006,2
+CONN,50 M Freestyle,SCM,M,55-59,31.80,John T Marchacos,,New England SCM Champs,2006,3
+CONN,400 M Freestyle,SCM,M,55-59,5:20.04,Edward S Becker,,Colonies Zone and NJ SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,M,55-59,33.24,John T Marchacos,,New England SCM Champs,2006,1
+CONN,200 M Butterfly,SCM,M,55-59,3:16.73,William J Geoghegan,,New England SCM Champs,2006,1
+CONN,100 M Individual Medley,SCM,M,55-59,1:17.01,William J Geoghegan,,New England SCM Champs,2006,1
+CONN,200 M Individual Medley,SCM,M,55-59,2:49.78,William J Geoghegan,,New England SCM Champs,2006,1
+CONN,200 M Individual Medley,SCM,M,55-59,2:54.86,Edward S Becker,,Colonies Zone and NJ SCM Champs,2006,2
+CONN,400 M Individual Medley,SCM,M,55-59,6:11.98,William J Geoghegan,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,65-69,31.09,Michael A Laux,,New England SCM Champs,2006,1
+CONN,200 M Backstroke,SCM,M,65-69,3:16.69,Michael A Laux,,New England SCM Champs,2006,1
+CONN,200 M Breaststroke,SCM,M,65-69,3:20.13,Michael A Laux,,New England SCM Champs,2006,1
+CONN,50 M Butterfly,SCM,M,65-69,34.42,Michael A Laux,,New England SCM Champs,2006,1
+CONN,100 M Individual Medley,SCM,M,65-69,1:21.63,Michael A Laux,,New England SCM Champs,2006,1
+CONN,50 M Freestyle,SCM,M,70-74,36.47,Charles H Faurot,,Virginia Masters Fall SCM,2006,1
+CONN,50 M Freestyle,SCM,M,70-74,1:05.50,James A Goldsmith,,New England SCM Champs,2006,2
+CONN,100 M Freestyle,SCM,M,70-74,1:27.22,Charles H Faurot,,Virginia Masters Fall SCM,2006,1
+CONN,100 M Freestyle,SCM,M,70-74,2:41.87,James A Goldsmith,,New England SCM Champs,2006,2
+CONN,200 M Freestyle,SCM,M,70-74,3:31.71,Charles H Faurot,,Virginia Masters Fall SCM,2006,1
+CONN,200 M Freestyle,SCM,M,70-74,6:23.60,James A Goldsmith,,New England SCM Champs,2006,2
+CONN,400 M Freestyle,SCM,M,70-74,13:53.82,James A Goldsmith,,New England SCM Champs,2006,1
+CONN,50 M Backstroke,SCM,M,70-74,1:50.82,James A Goldsmith,,New England SCM Champs,2006,1
+CONN,100 M Backstroke,SCM,M,70-74,3:38.15,James A Goldsmith,,New England SCM Champs,2006,1
+CONN,200 M Backstroke,SCM,M,70-74,7:35.38,James A Goldsmith,,New England SCM Champs,2006,1
+CONN,800 M Freestyle,SCM,M,80-84,16:45.18,Fred H Goldner,,SPMA SCM Champs,2006,1
+CONN,1500 M Freestyle,SCM,M,80-84,32:13.02,Fred H Goldner,,SPMA SCM Champs,2006,1
+CONN,400 M Freestyle,SCM,M,85-89,8:55.19,John Merrill,,New England SCM Champs,2006,1
+CONN,800 M Freestyle,SCM,M,85-89,18:20.25,John Merrill,,New England SCM Champs,2006,1
+CONN,50 M Backstroke,SCM,M,85-89,53.90,John Merrill,,New England SCM Champs,2006,1
+CONN,100 M Backstroke,SCM,M,85-89,1:55.25,John Merrill,,New England SCM Champs,2006,1
+CONN,200 M Backstroke,SCM,M,85-89,4:18.96,John Merrill,,New England SCM Champs,2006,1

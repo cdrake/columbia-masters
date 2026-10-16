@@ -1,0 +1,938 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AWLM,50 M Freestyle,SCM,W,18-24,38.12,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,W,18-24,38.40,Cassandra Golembeski,,Shark Tank SCM Meet,2018,2
+AWLM,50 M Freestyle,SCM,W,18-24,41.34,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,50 M Freestyle,SCM,W,18-24,42.15,Anna Beem,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,50 M Freestyle,SCM,W,18-24,46.48,Corinne E Harris,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,50 M Freestyle,SCM,W,18-24,49.66,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,6
+AWLM,100 M Freestyle,SCM,W,18-24,1:22.78,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Freestyle,SCM,W,18-24,1:26.97,Cassandra Golembeski,,Shark Tank SCM Meet,2018,2
+AWLM,100 M Freestyle,SCM,W,18-24,1:31.95,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Freestyle,SCM,W,18-24,1:33.37,Anna Beem,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,100 M Freestyle,SCM,W,18-24,1:45.21,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,100 M Freestyle,SCM,W,18-24,1:46.17,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,6
+AWLM,100 M Freestyle,SCM,W,18-24,1:50.49,Corinne E Harris,,Rowdy Gaines Masters Classic X,2018,7
+SYSM,200 M Freestyle,SCM,W,18-24,2:15.84,Sienna Miller,,Shark Tank SCM Meet,2018,1
+UC14,200 M Freestyle,SCM,W,18-24,2:39.61,Anna Rose Watterson,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Freestyle,SCM,W,18-24,3:09.37,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Freestyle,SCM,W,18-24,3:19.42,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,200 M Freestyle,SCM,W,18-24,3:29.93,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,200 M Freestyle,SCM,W,18-24,3:49.36,Anna Beem,,"St, Nick's SCM Invitational",2018,6
+AWLM,200 M Freestyle,SCM,W,18-24,3:59.78,Corinne E Harris,,Rowdy Gaines Masters Classic X,2018,7
+AWLM,400 M Freestyle,SCM,W,18-24,7:00.86,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,800 M Freestyle,SCM,W,18-24,14:32.08,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,800 M Freestyle,SCM,W,18-24,14:38.96,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,1500 M Freestyle,SCM,W,18-24,28:48.80,Cassandra Golembeski,,Shark Tank SCM Meet,2018,1
+AWLM,50 M Backstroke,SCM,W,18-24,48.12,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Backstroke,SCM,W,18-24,49.00,Cassandra Golembeski,,Shark Tank SCM Meet,2018,2
+AWLM,50 M Backstroke,SCM,W,18-24,53.53,Anna Beem,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,50 M Backstroke,SCM,W,18-24,58.60,Corinne E Harris,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,50 M Backstroke,SCM,W,18-24,59.61,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,100 M Backstroke,SCM,W,18-24,1:41.22,Gina M Grant,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,100 M Backstroke,SCM,W,18-24,1:47.36,Cassandra Golembeski,,Shark Tank SCM Meet,2018,2
+AWLM,100 M Backstroke,SCM,W,18-24,1:54.40,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Backstroke,SCM,W,18-24,2:01.20,Anna Beem,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,100 M Backstroke,SCM,W,18-24,2:15.06,Corinne E Harris,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,200 M Backstroke,SCM,W,18-24,3:32.56,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,W,18-24,39.70,Sienna Miller,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,W,18-24,54.25,Cassandra Golembeski,,Shark Tank SCM Meet,2018,2
+AWLM,50 M Breaststroke,SCM,W,18-24,58.48,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,3
+UC14,100 M Breaststroke,SCM,W,18-24,1:36.75,Anna Rose Watterson,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Breaststroke,SCM,W,18-24,2:04.86,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Breaststroke,SCM,W,18-24,2:07.18,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Breaststroke,SCM,W,18-24,4:34.48,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Breaststroke,SCM,W,18-24,4:34.97,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Butterfly,SCM,W,18-24,45.98,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Butterfly,SCM,W,18-24,51.05,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Butterfly,SCM,W,18-24,58.39,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Butterfly,SCM,W,18-24,1:59.34,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Butterfly,SCM,W,18-24,2:03.76,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Butterfly,SCM,W,18-24,2:06.27,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Butterfly,SCM,W,18-24,4:21.06,Gina M Grant,,2018 Dixie Zone SCM Championship Meet,2018,1
+UC14,100 M Individual Medley,SCM,W,18-24,1:20.60,Anna Rose Watterson,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Individual Medley,SCM,W,18-24,1:35.66,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Individual Medley,SCM,W,18-24,1:47.06,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Individual Medley,SCM,W,18-24,1:52.71,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,100 M Individual Medley,SCM,W,18-24,2:00.74,Lauren Bergquist,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,100 M Individual Medley,SCM,W,18-24,2:08.47,Anna Beem,,Rowdy Gaines Masters Classic X,2018,6
+AWLM,200 M Individual Medley,SCM,W,18-24,3:31.00,Caitlin Hass,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Individual Medley,SCM,W,18-24,3:50.86,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Individual Medley,SCM,W,18-24,4:06.26,Edith M Reynolds,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,400 M Individual Medley,SCM,W,18-24,8:04.41,Gina M Grant,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Freestyle,SCM,W,25-29,34.24,Carolina L Ticeira,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Freestyle,SCM,W,25-29,36.51,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Freestyle,SCM,W,25-29,1:20.90,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Freestyle,SCM,W,25-29,2:59.10,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Breaststroke,SCM,W,25-29,41.23,Carolina L Ticeira,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Breaststroke,SCM,W,25-29,53.74,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,2
+SPM,100 M Breaststroke,SCM,W,25-29,1:33.18,Carolina L Ticeira,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Breaststroke,SCM,W,25-29,1:52.74,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Breaststroke,SCM,W,25-29,3:58.83,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Butterfly,SCM,W,25-29,43.62,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Individual Medley,SCM,W,25-29,1:28.94,Carolina L Ticeira,,Shark Tank SCM Meet,2018,1
+AWLM,100 M Individual Medley,SCM,W,25-29,1:36.36,Sara E Slawta,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,50 M Freestyle,SCM,W,30-34,28.28,Julie C Kamat,,2018 PSM SCM Championship and PN Zone Meet,2018,1
+UC14,50 M Freestyle,SCM,W,30-34,31.73,Samantha Corkwell,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Freestyle,SCM,W,30-34,45.55,Sarah Johnson,,Shark Tank SCM Meet,2018,3
+YCFM,100 M Freestyle,SCM,W,30-34,1:03.21,Julie C Kamat,,2018 PSM SCM Championship and PN Zone Meet,2018,1
+AWLM,200 M Freestyle,SCM,W,30-34,2:30.78,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,200 M Freestyle,SCM,W,30-34,3:37.14,Sarah Johnson,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,400 M Freestyle,SCM,W,30-34,5:12.39,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+UC14,400 M Freestyle,SCM,W,30-34,6:35.69,Samantha Corkwell,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,400 M Freestyle,SCM,W,30-34,7:45.28,Sarah Johnson,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,1500 M Freestyle,SCM,W,30-34,32:08.89,Sarah Johnson,,Shark Tank SCM Meet,2018,1
+AWLM,50 M Backstroke,SCM,W,30-34,37.43,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Backstroke,SCM,W,30-34,40.40,Lauren Nathan,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Backstroke,SCM,W,30-34,1:19.01,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Backstroke,SCM,W,30-34,2:43.49,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+UC14,50 M Breaststroke,SCM,W,30-34,40.88,Samantha Corkwell,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Breaststroke,SCM,W,30-34,44.43,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,2
+UC14,100 M Breaststroke,SCM,W,30-34,1:32.50,Samantha Corkwell,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Breaststroke,SCM,W,30-34,3:24.56,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Butterfly,SCM,W,30-34,31.70,Julie C Kamat,,2018 Hood River Short Course Meters Meet,2018,1
+AWLM,50 M Butterfly,SCM,W,30-34,33.73,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Butterfly,SCM,W,30-34,3:03.14,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Individual Medley,SCM,W,30-34,1:15.30,Julie C Kamat,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Individual Medley,SCM,W,30-34,1:19.38,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Individual Medley,SCM,W,30-34,2:50.12,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,400 M Individual Medley,SCM,W,30-34,5:54.85,Leslie N Cichocki,,Rowdy Gaines Masters Classic X,2018,1
+SWFL,400 M Freestyle,SCM,W,35-39,5:23.42,Juliana M Galan,,Rowdy Gaines Masters Classic X,2018,1
+SWFL,200 M Backstroke,SCM,W,35-39,2:44.29,Juliana M Galan,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,W,40-44,29.35,Casey M Keiber,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Freestyle,SCM,W,40-44,29.49,Rebecca A Aten,,Shark Tank SCM Meet,2018,2
+YCFM,50 M Freestyle,SCM,W,40-44,30.68,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,3
+SPM,50 M Freestyle,SCM,W,40-44,33.15,Henrietta Szeredi,,Shark Tank SCM Meet,2018,4
+TBAM,50 M Freestyle,SCM,W,40-44,35.37,Kelly Ezagury,,2018 Dixie Zone SCM Championship Meet,2018,5
+YCFM,50 M Freestyle,SCM,W,40-44,38.07,Cory Trusty,,Rowdy Gaines Masters Classic X,2018,6
+YCFM,50 M Freestyle,SCM,W,40-44,39.71,Danielle M Zepess,,Rowdy Gaines Masters Classic X,2018,7
+SYSM,100 M Freestyle,SCM,W,40-44,1:05.86,Rebecca A Aten,,Shark Tank SCM Meet,2018,1
+YCFM,100 M Freestyle,SCM,W,40-44,1:08.92,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,2
+TTM,100 M Freestyle,SCM,W,40-44,1:21.57,Kelly Ezagury,,Shark Tank SCM Meet,2018,3
+YCFM,100 M Freestyle,SCM,W,40-44,1:30.22,Danielle M Zepess,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,200 M Freestyle,SCM,W,40-44,2:19.16,Rebecca A Aten,,Shark Tank SCM Meet,2018,1
+SYSM,400 M Freestyle,SCM,W,40-44,4:55.87,Rebecca A Aten,,Shark Tank SCM Meet,2018,1
+TTM,400 M Freestyle,SCM,W,40-44,6:35.83,Kelly Ezagury,,Shark Tank SCM Meet,2018,2
+TBAM,800 M Freestyle,SCM,W,40-44,13:38.14,Kelly Ezagury,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,1500 M Freestyle,SCM,W,40-44,19:06.05,Rebecca A Aten,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Backstroke,SCM,W,40-44,34.58,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,1
+UC14,50 M Backstroke,SCM,W,40-44,38.24,Jennifer Rogers,,Rowdy Gaines Masters Classic X,2018,2
+SPM,50 M Backstroke,SCM,W,40-44,38.54,Henrietta Szeredi,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Backstroke,SCM,W,40-44,47.79,Danielle M Zepess,,Rowdy Gaines Masters Classic X,2018,4
+TTM,50 M Backstroke,SCM,W,40-44,56.16,Kelly Ezagury,,Shark Tank SCM Meet,2018,5
+YCFM,100 M Backstroke,SCM,W,40-44,1:21.10,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Backstroke,SCM,W,40-44,1:21.13,Jennifer Rogers,,Rowdy Gaines Masters Classic X,2018,2
+TTM,100 M Backstroke,SCM,W,40-44,1:58.51,Kelly Ezagury,,Shark Tank SCM Meet,2018,3
+UC14,200 M Backstroke,SCM,W,40-44,2:53.55,Jennifer Rogers,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,W,40-44,34.96,Casey M Keiber,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,W,40-44,39.94,Rebecca A Aten,,Shark Tank SCM Meet,2018,2
+YCFM,50 M Breaststroke,SCM,W,40-44,41.30,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,3
+SPM,50 M Breaststroke,SCM,W,40-44,41.38,Henrietta Szeredi,,Shark Tank SCM Meet,2018,4
+SYSM,100 M Breaststroke,SCM,W,40-44,1:18.60,Casey M Keiber,,Shark Tank SCM Meet,2018,1
+SPM,100 M Breaststroke,SCM,W,40-44,1:30.95,Henrietta Szeredi,,Shark Tank SCM Meet,2018,2
+SYSM,200 M Breaststroke,SCM,W,40-44,3:00.38,Casey M Keiber,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,200 M Breaststroke,SCM,W,40-44,3:42.39,Cory Trusty,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Butterfly,SCM,W,40-44,31.80,Casey M Keiber,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Butterfly,SCM,W,40-44,33.01,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Butterfly,SCM,W,40-44,33.66,Rebecca A Aten,,Shark Tank SCM Meet,2018,3
+UC14,50 M Butterfly,SCM,W,40-44,38.49,Jennifer Rogers,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,50 M Butterfly,SCM,W,40-44,38.57,Cory Trusty,,Rowdy Gaines Masters Classic X,2018,5
+YCFM,100 M Butterfly,SCM,W,40-44,1:33.42,Cory Trusty,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,W,40-44,1:14.04,Casey M Keiber,,Shark Tank SCM Meet,2018,1
+YCFM,100 M Individual Medley,SCM,W,40-44,1:16.84,Sabrina Campbell,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,W,40-44,1:18.44,Rebecca A Aten,,Shark Tank SCM Meet,2018,3
+SPM,100 M Individual Medley,SCM,W,40-44,1:21.61,Henrietta Szeredi,,Shark Tank SCM Meet,2018,4
+UC14,100 M Individual Medley,SCM,W,40-44,1:21.94,Jennifer Rogers,,Rowdy Gaines Masters Classic X,2018,5
+SYSM,200 M Individual Medley,SCM,W,40-44,2:43.03,Rebecca A Aten,,Shark Tank SCM Meet,2018,1
+SPM,200 M Individual Medley,SCM,W,40-44,3:02.09,Henrietta Szeredi,,Shark Tank SCM Meet,2018,2
+YCFM,200 M Individual Medley,SCM,W,40-44,3:22.12,Cory Trusty,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Freestyle,SCM,W,45-49,29.70,Melissa D Varlas,,Shark Tank SCM Meet,2018,1
+SPM,50 M Freestyle,SCM,W,45-49,31.79,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,2
+UC14,50 M Freestyle,SCM,W,45-49,35.36,LeeAnne Beard,,Shark Tank SCM Meet,2018,3
+SYSM,50 M Freestyle,SCM,W,45-49,37.91,Geraldine Balharry,,Shark Tank SCM Meet,2018,4
+SPM,100 M Freestyle,SCM,W,45-49,1:10.83,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Freestyle,SCM,W,45-49,1:22.90,Geraldine Balharry,,Shark Tank SCM Meet,2018,2
+UC14,200 M Freestyle,SCM,W,45-49,2:58.01,LeeAnne Beard,,Shark Tank SCM Meet,2018,1
+SPM,400 M Freestyle,SCM,W,45-49,5:21.54,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,1
+SPM,800 M Freestyle,SCM,W,45-49,10:55.83,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Backstroke,SCM,W,45-49,35.06,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Backstroke,SCM,W,45-49,44.94,Geraldine Balharry,,Shark Tank SCM Meet,2018,2
+SYSM,100 M Backstroke,SCM,W,45-49,1:16.05,Melissa D Varlas,,Shark Tank SCM Meet,2018,1
+SPM,100 M Backstroke,SCM,W,45-49,1:16.40,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,200 M Backstroke,SCM,W,45-49,2:43.74,Melissa D Varlas,,Shark Tank SCM Meet,2018,1
+SPM,200 M Backstroke,SCM,W,45-49,2:45.28,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Butterfly,SCM,W,45-49,31.59,Melissa D Varlas,,Shark Tank SCM Meet,2018,1
+SYSM,100 M Butterfly,SCM,W,45-49,1:11.36,Melissa D Varlas,,Shark Tank SCM Meet,2018,1
+UC14,100 M Individual Medley,SCM,W,45-49,1:34.68,LeeAnne Beard,,Shark Tank SCM Meet,2018,1
+SPM,200 M Individual Medley,SCM,W,45-49,2:57.20,Paula M Texel,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Freestyle,SCM,W,50-54,31.93,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Freestyle,SCM,W,50-54,33.73,Tabitha A Brandt,,Shark Tank SCM Meet,2018,2
+SPM,50 M Freestyle,SCM,W,50-54,34.64,Cheryl A Kupan,,Shark Tank SCM Meet,2018,3
+SPM,50 M Freestyle,SCM,W,50-54,35.13,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,4
+SPM,100 M Freestyle,SCM,W,50-54,1:11.86,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Freestyle,SCM,W,50-54,1:15.34,Dawn Clark,,Shark Tank SCM Meet,2018,2
+SPM,100 M Freestyle,SCM,W,50-54,1:16.24,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,3
+SPM,100 M Freestyle,SCM,W,50-54,1:28.71,Cheryl A Kupan,,Shark Tank SCM Meet,2018,4
+TBAM,100 M Freestyle,SCM,W,50-54,1:35.83,Karen R Ness,,Shark Tank SCM Meet,2018,5
+SPM,200 M Freestyle,SCM,W,50-54,2:22.55,Charlotte Petersen,,Rowdy Gaines Masters Classic X,2018,1
+SPM,200 M Freestyle,SCM,W,50-54,2:44.65,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,2
+SPM,200 M Freestyle,SCM,W,50-54,2:46.08,Tabitha A Brandt,,Shark Tank SCM Meet,2018,3
+TBAM,200 M Freestyle,SCM,W,50-54,3:21.18,Karen R Ness,,Shark Tank SCM Meet,2018,4
+SPM,400 M Freestyle,SCM,W,50-54,4:58.48,Charlotte Petersen,,Rowdy Gaines Masters Classic X,2018,1
+SPM,400 M Freestyle,SCM,W,50-54,5:46.07,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,2
+SPM,400 M Freestyle,SCM,W,50-54,5:51.16,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,400 M Freestyle,SCM,W,50-54,7:38.96,Daphne R Elliott,,Shark Tank SCM Meet,2018,4
+SPM,800 M Freestyle,SCM,W,50-54,10:11.62,Charlotte Petersen,,Rowdy Gaines Masters Classic X,2018,1
+SPM,800 M Freestyle,SCM,W,50-54,11:43.29,Cheryl A Kupan,,2018 Dixie Zone SCM Championship Meet,2018,2
+SPM,1500 M Freestyle,SCM,W,50-54,22:29.82,Cheryl A Kupan,,Shark Tank SCM Meet,2018,1
+SPM,1500 M Freestyle,SCM,W,50-54,22:40.14,Dawn Clark,,Shark Tank SCM Meet,2018,2
+SPM,50 M Backstroke,SCM,W,50-54,35.08,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Backstroke,SCM,W,50-54,42.02,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,2
+SPM,50 M Backstroke,SCM,W,50-54,42.66,Dawn Clark,,Shark Tank SCM Meet,2018,3
+TBAM,50 M Backstroke,SCM,W,50-54,51.30,Karen R Ness,,Shark Tank SCM Meet,2018,4
+SPM,100 M Backstroke,SCM,W,50-54,1:17.43,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Backstroke,SCM,W,50-54,1:28.95,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,2
+SPM,200 M Backstroke,SCM,W,50-54,2:46.21,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,200 M Backstroke,SCM,W,50-54,3:07.20,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,2
+TBAM,200 M Backstroke,SCM,W,50-54,3:42.30,Karen R Ness,,Shark Tank SCM Meet,2018,3
+SPM,50 M Breaststroke,SCM,W,50-54,42.65,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Breaststroke,SCM,W,50-54,46.23,Cheryl A Kupan,,Shark Tank SCM Meet,2018,2
+SPM,100 M Breaststroke,SCM,W,50-54,1:33.01,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Breaststroke,SCM,W,50-54,1:38.05,Cheryl A Kupan,,2018 Dixie Zone SCM Championship Meet,2018,2
+SPM,200 M Breaststroke,SCM,W,50-54,3:17.97,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,1
+SPM,200 M Breaststroke,SCM,W,50-54,3:39.76,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,2
+SPM,50 M Butterfly,SCM,W,50-54,33.49,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Butterfly,SCM,W,50-54,38.02,Dawn Clark,,Shark Tank SCM Meet,2018,2
+SPM,50 M Butterfly,SCM,W,50-54,38.40,Tabitha A Brandt,,Shark Tank SCM Meet,2018,3
+SPM,50 M Butterfly,SCM,W,50-54,38.69,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,4
+SPM,50 M Butterfly,SCM,W,50-54,39.36,Cheryl A Kupan,,Rowdy Gaines Masters Classic X,2018,5
+SPM,100 M Butterfly,SCM,W,50-54,1:16.24,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Butterfly,SCM,W,50-54,1:26.93,Cheryl A Kupan,,2018 Dixie Zone SCM Championship Meet,2018,2
+SPM,100 M Butterfly,SCM,W,50-54,1:27.58,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,3
+SPM,200 M Butterfly,SCM,W,50-54,3:19.78,Cheryl A Kupan,,2018 Dixie Zone SCM Championship Meet,2018,1
+SPM,200 M Butterfly,SCM,W,50-54,3:22.31,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,2
+SPM,100 M Individual Medley,SCM,W,50-54,1:25.47,Cheryl A Kupan,,Shark Tank SCM Meet,2018,1
+SPM,100 M Individual Medley,SCM,W,50-54,1:28.96,Tabitha A Brandt,,Shark Tank SCM Meet,2018,2
+SPM,200 M Individual Medley,SCM,W,50-54,3:07.67,Cheryl A Kupan,,2018 Dixie Zone SCM Championship Meet,2018,1
+SPM,200 M Individual Medley,SCM,W,50-54,3:11.77,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,2
+SPM,400 M Individual Medley,SCM,W,50-54,6:09.64,Karen L Westerman,,Rowdy Gaines Masters Classic X,2018,1
+SPM,400 M Individual Medley,SCM,W,50-54,6:39.21,Cheryl A Kupan,,2018 Dixie Zone SCM Championship Meet,2018,2
+SPM,400 M Individual Medley,SCM,W,50-54,6:41.21,Livia L Zien,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,50 M Freestyle,SCM,W,55-59,31.70,Cathy E Shonkwiler,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,W,55-59,34.33,Cathy A Fedako,,Shark Tank SCM Meet,2018,2
+FACT,50 M Freestyle,SCM,W,55-59,35.95,Andrea S Johnson,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Freestyle,SCM,W,55-59,45.43,Renee' L McFadden,,Shark Tank SCM Meet,2018,4
+BDO,50 M Freestyle,SCM,W,55-59,50.61,Valerie A Mardle,,Rowdy Gaines Masters Classic X,2018,5
+FACT,100 M Freestyle,SCM,W,55-59,1:20.52,Andrea S Johnson,,Rowdy Gaines Masters Classic X,2018,1
+BDO,100 M Freestyle,SCM,W,55-59,1:59.98,Valerie A Mardle,,Rowdy Gaines Masters Classic X,2018,2
+FACT,200 M Freestyle,SCM,W,55-59,3:31.73,Rebecca D Christensen,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,400 M Freestyle,SCM,W,55-59,6:00.77,Cathy A Fedako,,Shark Tank SCM Meet,2018,1
+FACT,400 M Freestyle,SCM,W,55-59,7:15.57,Rebecca D Christensen,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,1500 M Freestyle,SCM,W,55-59,21:06.23,Jo-Ann Elo,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Backstroke,SCM,W,55-59,35.80,Cathy E Shonkwiler,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Backstroke,SCM,W,55-59,37.82,Patty A Fennell,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Backstroke,SCM,W,55-59,41.98,Laura L Groselle,,Medina Masters Sprint Spectacular,2018,3
+FACT,50 M Backstroke,SCM,W,55-59,43.65,Andrea S Johnson,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,50 M Backstroke,SCM,W,55-59,45.64,Cathy A Fedako,,Shark Tank SCM Meet,2018,5
+SPM,50 M Backstroke,SCM,W,55-59,52.41,Phyllis A Scheidt,,Rowdy Gaines Masters Classic X,2018,6
+SYSM,100 M Backstroke,SCM,W,55-59,1:29.82,Laura L Groselle,,Milford Meltdown,2018,1
+SYSM,100 M Backstroke,SCM,W,55-59,1:34.06,Cathy A Fedako,,Shark Tank SCM Meet,2018,2
+FACT,100 M Backstroke,SCM,W,55-59,1:34.28,Andrea S Johnson,,Rowdy Gaines Masters Classic X,2018,3
+SLAP,100 M Backstroke,SCM,W,55-59,2:10.68,Karen F Brown,,2018 Gay Games,2018,4
+FACT,200 M Backstroke,SCM,W,55-59,3:25.96,Andrea S Johnson,,Rowdy Gaines Masters Classic X,2018,1
+AQNT,50 M Breaststroke,SCM,W,55-59,43.30,Ingrid V Givler,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,W,55-59,44.46,Laura L Groselle,,Shark Tank SCM Meet,2018,2
+YCFM,50 M Breaststroke,SCM,W,55-59,46.96,Cathy R Hoff,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Breaststroke,SCM,W,55-59,53.60,Cathy A Fedako,,Shark Tank SCM Meet,2018,4
+BDO,50 M Breaststroke,SCM,W,55-59,1:04.39,Valerie A Mardle,,Rowdy Gaines Masters Classic X,2018,5
+SPM,50 M Breaststroke,SCM,W,55-59,1:07.81,Phyllis A Scheidt,,Rowdy Gaines Masters Classic X,2018,6
+YCFM,100 M Breaststroke,SCM,W,55-59,1:32.19,Patty A Fennell,,Rowdy Gaines Masters Classic X,2018,1
+AQNT,100 M Breaststroke,SCM,W,55-59,1:35.31,Ingrid V Givler,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,100 M Breaststroke,SCM,W,55-59,1:42.59,Cathy R Hoff,,Rowdy Gaines Masters Classic X,2018,3
+SPM,200 M Breaststroke,SCM,W,55-59,5:05.58,Phyllis A Scheidt,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Butterfly,SCM,W,55-59,34.38,Cathy E Shonkwiler,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Butterfly,SCM,W,55-59,36.65,Patty A Fennell,,Rowdy Gaines Masters Classic X,2018,2
+SPM,50 M Butterfly,SCM,W,55-59,57.94,Phyllis A Scheidt,,Rowdy Gaines Masters Classic X,2018,3
+BDO,50 M Butterfly,SCM,W,55-59,1:04.74,Valerie A Mardle,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Individual Medley,SCM,W,55-59,1:21.46,Patty A Fennell,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,W,55-59,1:23.40,Jo-Ann Elo,,Shark Tank SCM Meet,2018,2
+FACT,100 M Individual Medley,SCM,W,55-59,1:35.92,Andrea S Johnson,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,100 M Individual Medley,SCM,W,55-59,1:37.36,Cathy A Fedako,,Shark Tank SCM Meet,2018,4
+FACT,100 M Individual Medley,SCM,W,55-59,1:57.94,Rebecca D Christensen,,Rowdy Gaines Masters Classic X,2018,5
+SPM,100 M Individual Medley,SCM,W,55-59,2:01.98,Phyllis A Scheidt,,Rowdy Gaines Masters Classic X,2018,6
+SYSM,100 M Individual Medley,SCM,W,55-59,2:07.18,Renee' L McFadden,,Shark Tank SCM Meet,2018,7
+BDO,100 M Individual Medley,SCM,W,55-59,2:19.65,Valerie A Mardle,,Rowdy Gaines Masters Classic X,2018,8
+SYSM,200 M Individual Medley,SCM,W,55-59,2:57.74,Jo-Ann Elo,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Freestyle,SCM,W,60-64,32.39,Nancy Kryka,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Freestyle,SCM,W,60-64,36.39,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Freestyle,SCM,W,60-64,40.36,Mary K McCarthy,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,50 M Freestyle,SCM,W,60-64,1:01.89,Melissa M Mishoe,,Rowdy Gaines Masters Classic X,2018,4
+UC14,50 M Freestyle,SCM,W,60-64,1:13.11,Sue A Moucha,,Shark Tank SCM Meet,2018,5
+FACT,100 M Freestyle,SCM,W,60-64,1:20.51,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Freestyle,SCM,W,60-64,1:31.95,Kathy Manger,,Shark Tank SCM Meet,2018,2
+YCFM,100 M Freestyle,SCM,W,60-64,2:25.18,Melissa M Mishoe,,Rowdy Gaines Masters Classic X,2018,3
+SPM,200 M Freestyle,SCM,W,60-64,2:46.68,Sharon B Steinmann,,Rowdy Gaines Masters Classic X,2018,1
+FACT,200 M Freestyle,SCM,W,60-64,2:52.36,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,200 M Freestyle,SCM,W,60-64,3:34.67,Linda K Hopson,,Shark Tank SCM Meet,2018,3
+UC14,200 M Freestyle,SCM,W,60-64,5:41.78,Sue A Moucha,,Shark Tank SCM Meet,2018,4
+SPM,400 M Freestyle,SCM,W,60-64,5:43.24,Sharon B Steinmann,,Rowdy Gaines Masters Classic X,2018,1
+FACT,400 M Freestyle,SCM,W,60-64,5:59.89,Barbara A McNulty,,Shark Tank SCM Meet,2018,2
+SYSM,400 M Freestyle,SCM,W,60-64,6:06.13,Nancy Kryka,,Shark Tank SCM Meet,2018,3
+UC14,400 M Freestyle,SCM,W,60-64,11:30.60,Sue A Moucha,,Rowdy Gaines Masters Classic X,2018,4
+SPM,800 M Freestyle,SCM,W,60-64,11:44.36,Sharon B Steinmann,,Shark Tank SCM Meet,2018,1
+SPM,1500 M Freestyle,SCM,W,60-64,22:16.46,Sharon B Steinmann,,Shark Tank SCM Meet,2018,1
+SPM,50 M Backstroke,SCM,W,60-64,42.87,Sharon B Steinmann,,Shark Tank SCM Meet,2018,1
+FACT,50 M Backstroke,SCM,W,60-64,44.92,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Backstroke,SCM,W,60-64,47.00,Brenda J Walker,,Canadian Masters Swimming Championships,2018,3
+FACT,50 M Backstroke,SCM,W,60-64,51.41,Mary K McCarthy,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,50 M Backstroke,SCM,W,60-64,1:09.92,Melissa M Mishoe,,Rowdy Gaines Masters Classic X,2018,5
+SPM,100 M Backstroke,SCM,W,60-64,1:32.28,Sharon B Steinmann,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Backstroke,SCM,W,60-64,1:38.71,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,2
+FACT,100 M Backstroke,SCM,W,60-64,1:41.21,Brenda J Walker,,Canadian Masters Swimming Championships,2018,3
+UC14,100 M Backstroke,SCM,W,60-64,2:43.27,Sue A Moucha,,Shark Tank SCM Meet,2018,4
+SPM,200 M Backstroke,SCM,W,60-64,3:10.61,Sharon B Steinmann,,Shark Tank SCM Meet,2018,1
+FACT,200 M Backstroke,SCM,W,60-64,3:32.52,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,2
+FACT,200 M Backstroke,SCM,W,60-64,3:43.34,Brenda J Walker,,Canadian Masters Swimming Championships,2018,3
+UC14,50 M Breaststroke,SCM,W,60-64,47.13,Kathy Manger,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Breaststroke,SCM,W,60-64,49.29,Liliana Ostertag-Newsome,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,W,60-64,1:02.35,Linda K Hopson,,Shark Tank SCM Meet,2018,3
+UC14,50 M Breaststroke,SCM,W,60-64,1:30.08,Sue A Moucha,,Shark Tank SCM Meet,2018,4
+TYSM,100 M Breaststroke,SCM,W,60-64,1:42.04,Nancy H Westbrook,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Breaststroke,SCM,W,60-64,1:44.58,Kathy Manger,,Shark Tank SCM Meet,2018,2
+YCFM,100 M Breaststroke,SCM,W,60-64,1:50.95,Liliana Ostertag-Newsome,,Rowdy Gaines Masters Classic X,2018,3
+FACT,100 M Breaststroke,SCM,W,60-64,1:53.84,Brenda J Walker,,Canadian Masters Swimming Championships,2018,4
+SYSM,100 M Breaststroke,SCM,W,60-64,2:02.56,Mary S Carbonaro,,Shark Tank SCM Meet,2018,5
+UC14,200 M Breaststroke,SCM,W,60-64,3:47.45,Kathy Manger,,Shark Tank SCM Meet,2018,1
+YCFM,200 M Breaststroke,SCM,W,60-64,3:54.88,Liliana Ostertag-Newsome,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Butterfly,SCM,W,60-64,39.26,Barbara A McNulty,,Shark Tank SCM Meet,2018,1
+FACT,100 M Butterfly,SCM,W,60-64,1:31.18,Barbara A McNulty,,Shark Tank SCM Meet,2018,1
+FACT,200 M Butterfly,SCM,W,60-64,3:28.11,Barbara A McNulty,,Shark Tank SCM Meet,2018,1
+SYSM,200 M Butterfly,SCM,W,60-64,3:32.75,Nancy Kryka,,Rowdy Gaines Masters Classic X,2018,2
+TYSM,100 M Individual Medley,SCM,W,60-64,1:33.32,Nancy H Westbrook,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Individual Medley,SCM,W,60-64,1:41.99,Mary K McCarthy,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,100 M Individual Medley,SCM,W,60-64,1:42.18,Liliana Ostertag-Newsome,,Rowdy Gaines Masters Classic X,2018,3
+UC14,100 M Individual Medley,SCM,W,60-64,2:54.31,Sue A Moucha,,Rowdy Gaines Masters Classic X,2018,4
+FACT,400 M Individual Medley,SCM,W,60-64,7:23.65,Barbara A McNulty,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,W,65-69,35.28,Ann H Guins,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Freestyle,SCM,W,65-69,37.84,Meredith A Moore,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Freestyle,SCM,W,65-69,46.33,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,3
+YCFM,50 M Freestyle,SCM,W,65-69,47.19,Kris Kloppe,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Freestyle,SCM,W,65-69,1:17.13,Linda P Fulton,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Freestyle,SCM,W,65-69,1:39.39,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,2
+SYSM,200 M Freestyle,SCM,W,65-69,3:35.08,Carol Mitchell,,Shark Tank SCM Meet,2018,1
+YCFM,200 M Freestyle,SCM,W,65-69,3:43.32,Martha Dennis,,Rowdy Gaines Masters Classic X,2018,2
+CAM,200 M Freestyle,SCM,W,65-69,5:24.43,Davenia C Navaroli,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,400 M Freestyle,SCM,W,65-69,7:15.10,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+YCFM,400 M Freestyle,SCM,W,65-69,7:34.11,Kris Kloppe,,Rowdy Gaines Masters Classic X,2018,2
+FACT,400 M Freestyle,SCM,W,65-69,8:11.19,Kathleen A Tittle,,Huntsman World Senior Games,2018,3
+CAM,400 M Freestyle,SCM,W,65-69,11:02.57,Davenia C Navaroli,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,800 M Freestyle,SCM,W,65-69,14:53.17,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+SYSM,1500 M Freestyle,SCM,W,65-69,29:31.43,Carol Mitchell,,Shark Tank SCM Meet,2018,1
+SYSM,1500 M Freestyle,SCM,W,65-69,38:33.16,Gudrun M Morgan,,Shark Tank SCM Meet,2018,2
+YCFM,50 M Backstroke,SCM,W,65-69,39.65,Linda P Fulton,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Backstroke,SCM,W,65-69,40.59,Ann H Guins,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Backstroke,SCM,W,65-69,46.44,Meredith A Moore,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Backstroke,SCM,W,65-69,1:01.40,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,4
+CAM,50 M Backstroke,SCM,W,65-69,1:30.45,Davenia C Navaroli,,Rowdy Gaines Masters Classic X,2018,5
+YCFM,100 M Backstroke,SCM,W,65-69,1:27.77,Linda P Fulton,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Backstroke,SCM,W,65-69,1:43.21,Meredith A Moore,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Backstroke,SCM,W,65-69,2:12.29,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,3
+YCFM,200 M Backstroke,SCM,W,65-69,3:08.60,Linda P Fulton,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,200 M Backstroke,SCM,W,65-69,4:26.03,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,2
+FACT,50 M Breaststroke,SCM,W,65-69,58.70,Julia Y Hayes,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,W,65-69,58.77,Carol Mitchell,,Shark Tank SCM Meet,2018,2
+SYSM,100 M Breaststroke,SCM,W,65-69,2:09.35,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+SYSM,200 M Breaststroke,SCM,W,65-69,4:43.60,Carol Mitchell,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Butterfly,SCM,W,65-69,39.79,Linda P Fulton,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Butterfly,SCM,W,65-69,2:16.76,Kathleen A Tittle,,Huntsman World Senior Games,2018,1
+SYSM,200 M Butterfly,SCM,W,65-69,5:07.27,Hartzell H Stringer,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,W,65-69,2:06.46,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+YCFM,100 M Individual Medley,SCM,W,65-69,2:11.86,Martha Dennis,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,200 M Individual Medley,SCM,W,65-69,4:32.09,Carol Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+FACT,400 M Individual Medley,SCM,W,65-69,10:38.10,Kathleen A Tittle,,Huntsman World Senior Games,2018,1
+SYSM,50 M Freestyle,SCM,W,70-74,35.05,Julianna F Holbrook,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Freestyle,SCM,W,70-74,35.90,June Carson,,Canadian Masters Swimming Championships,2018,2
+SYSM,50 M Freestyle,SCM,W,70-74,39.46,Emma J Charron,,Huntsman World Senior Games,2018,3
+UC14,50 M Freestyle,SCM,W,70-74,47.24,Lorrie Hansen,,Shark Tank SCM Meet,2018,4
+SYSM,100 M Freestyle,SCM,W,70-74,1:19.01,June Carson,,Canadian Masters Swimming Championships,2018,1
+SYSM,100 M Freestyle,SCM,W,70-74,1:19.34,Julianna F Holbrook,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Freestyle,SCM,W,70-74,1:35.54,Emma J Charron,,Huntsman World Senior Games,2018,3
+UC14,100 M Freestyle,SCM,W,70-74,1:54.61,Lorrie Hansen,,Shark Tank SCM Meet,2018,4
+SYSM,100 M Freestyle,SCM,W,70-74,2:01.71,Karen M Welcome,,Shark Tank SCM Meet,2018,5
+FACT,100 M Freestyle,SCM,W,70-74,2:12.08,Rae E Suttie,,Rowdy Gaines Masters Classic X,2018,6
+SYSM,200 M Freestyle,SCM,W,70-74,2:57.37,June Carson,,10th Annual UVAC Leaf Peepers Masters SCM Meet,2018,1
+UC14,200 M Freestyle,SCM,W,70-74,4:02.72,Lorrie Hansen,,Shark Tank SCM Meet,2018,2
+SYSM,400 M Freestyle,SCM,W,70-74,6:22.87,June Carson,,Rowdy Gaines Masters Classic X,2018,1
+UC14,400 M Freestyle,SCM,W,70-74,8:28.45,Lorrie Hansen,,Shark Tank SCM Meet,2018,2
+SYSM,800 M Freestyle,SCM,W,70-74,13:16.47,June Carson,,Canadian Masters Swimming Championships,2018,1
+SYSM,1500 M Freestyle,SCM,W,70-74,35:41.48,Linda M Riley,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,W,70-74,49.44,Emma J Charron,,Huntsman World Senior Games,2018,1
+FACT,200 M Backstroke,SCM,W,70-74,5:17.60,Rae E Suttie,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,W,70-74,47.72,Julianna F Holbrook,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,W,70-74,51.19,June Carson,,10th Annual UVAC Leaf Peepers Masters SCM Meet,2018,2
+SYSM,50 M Breaststroke,SCM,W,70-74,52.30,Emma J Charron,,Huntsman World Senior Games,2018,3
+SYSM,100 M Breaststroke,SCM,W,70-74,1:50.91,June Carson,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Breaststroke,SCM,W,70-74,1:55.08,Emma J Charron,,Huntsman World Senior Games,2018,2
+SYSM,200 M Breaststroke,SCM,W,70-74,4:01.49,June Carson,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Butterfly,SCM,W,70-74,42.97,Julianna F Holbrook,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Butterfly,SCM,W,70-74,46.42,Emma J Charron,,Huntsman World Senior Games,2018,2
+FACT,50 M Butterfly,SCM,W,70-74,1:11.88,Rae E Suttie,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,100 M Butterfly,SCM,W,70-74,1:53.06,Julianna F Holbrook,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,W,70-74,1:35.72,Julianna F Holbrook,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,W,70-74,1:43.68,Emma J Charron,,Huntsman World Senior Games,2018,2
+FACT,50 M Freestyle,SCM,W,75-79,47.17,Jeanne T Hackett,,Huntsman World Senior Games,2018,1
+SYSM,50 M Freestyle,SCM,W,75-79,1:00.45,Jan H Miller,,Shark Tank SCM Meet,2018,2
+SYSM,100 M Freestyle,SCM,W,75-79,1:33.36,Susan L Meyers,,Milford Meltdown,2018,1
+FACT,100 M Freestyle,SCM,W,75-79,1:46.48,Jeanne T Hackett,,Huntsman World Senior Games,2018,2
+FACT,100 M Freestyle,SCM,W,75-79,2:08.15,Mary Rose Rowan,,Rowdy Gaines Masters Classic X,2018,3
+FACT,200 M Freestyle,SCM,W,75-79,3:57.44,Jeanne T Hackett,,Huntsman World Senior Games,2018,1
+SYSM,200 M Freestyle,SCM,W,75-79,4:32.67,Jan H Miller,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,400 M Freestyle,SCM,W,75-79,9:49.03,Jan H Miller,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Backstroke,SCM,W,75-79,45.31,Chris S Gilligan,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,W,75-79,1:12.04,Jan H Miller,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Backstroke,SCM,W,75-79,1:39.81,Chris S Gilligan,,Shark Tank SCM Meet,2018,1
+SYSM,100 M Backstroke,SCM,W,75-79,2:35.79,Jan H Miller,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,200 M Backstroke,SCM,W,75-79,3:36.73,Chris S Gilligan,,Shark Tank SCM Meet,2018,1
+FACT,200 M Backstroke,SCM,W,75-79,4:49.47,Mary Rose Rowan,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Breaststroke,SCM,W,75-79,52.74,Jeanne T Hackett,,Huntsman World Senior Games,2018,1
+SYSM,100 M Breaststroke,SCM,W,75-79,1:59.89,Susan L Meyers,,Milford Meltdown,2018,1
+FACT,100 M Breaststroke,SCM,W,75-79,2:00.71,Jeanne T Hackett,,Huntsman World Senior Games,2018,2
+SHARK,200 M Breaststroke,SCM,W,75-79,4:17.60,Susan L Meyers,,2018 Miami Redfin Fall Masters Meet,2018,1
+FACT,200 M Breaststroke,SCM,W,75-79,4:28.63,Jeanne T Hackett,,Huntsman World Senior Games,2018,2
+SYSM,50 M Butterfly,SCM,W,75-79,49.43,Susan L Meyers,,Huntsman World Senior Games,2018,1
+SYSM,100 M Butterfly,SCM,W,75-79,1:56.73,Susan L Meyers,,Huntsman World Senior Games,2018,1
+SHARK,200 M Butterfly,SCM,W,75-79,4:21.63,Susan L Meyers,,2018 Miami Redfin Fall Masters Meet,2018,1
+SYSM,100 M Individual Medley,SCM,W,75-79,1:49.60,Susan L Meyers,,Huntsman World Senior Games,2018,1
+SYSM,200 M Individual Medley,SCM,W,75-79,3:56.26,Susan L Meyers,,Milford Meltdown,2018,1
+SHARK,400 M Individual Medley,SCM,W,75-79,8:31.39,Susan L Meyers,,2018 Miami Redfin Fall Masters Meet,2018,1
+SYSM,50 M Freestyle,SCM,W,80-84,46.04,Patricia M Bond,,Shark Tank SCM Meet,2018,1
+FACT,50 M Freestyle,SCM,W,80-84,54.97,Patricia A Tullman,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Freestyle,SCM,W,80-84,59.11,Martha J Henderson,,Rowdy Gaines Masters Classic X,2018,3
+FACT,100 M Freestyle,SCM,W,80-84,2:09.50,Martha J Henderson,,Shark Tank SCM Meet,2018,1
+SYSM,200 M Freestyle,SCM,W,80-84,3:36.58,Patricia M Bond,,Shark Tank SCM Meet,2018,1
+FACT,200 M Freestyle,SCM,W,80-84,4:19.64,Patricia A Tullman,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,400 M Freestyle,SCM,W,80-84,7:37.89,Patricia M Bond,,Shark Tank SCM Meet,2018,1
+T2NM,400 M Freestyle,SCM,W,80-84,7:54.95,Margit H Jebe,,Rowdy Gaines Masters Classic X,2018,2
+FACT,400 M Freestyle,SCM,W,80-84,9:06.97,Martha J Henderson,,Shark Tank SCM Meet,2018,3
+FACT,800 M Freestyle,SCM,W,80-84,18:40.64,Martha J Henderson,,Rowdy Gaines Masters Classic X,2018,1
+FACT,1500 M Freestyle,SCM,W,80-84,35:26.10,Martha J Henderson,,Shark Tank SCM Meet,2018,1
+T2NM,50 M Backstroke,SCM,W,80-84,54.58,Margit H Jebe,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Backstroke,SCM,W,80-84,1:00.64,Patricia A Tullman,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Backstroke,SCM,W,80-84,1:08.22,Martha J Henderson,,Rowdy Gaines Masters Classic X,2018,3
+T2NM,100 M Backstroke,SCM,W,80-84,1:55.41,Margit H Jebe,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Backstroke,SCM,W,80-84,2:16.59,Martha J Henderson,,Shark Tank SCM Meet,2018,2
+FACT,100 M Backstroke,SCM,W,80-84,2:19.43,Patricia A Tullman,,Rowdy Gaines Masters Classic X,2018,3
+T2NM,200 M Backstroke,SCM,W,80-84,4:02.04,Margit H Jebe,,Rowdy Gaines Masters Classic X,2018,1
+FACT,200 M Backstroke,SCM,W,80-84,5:05.22,Martha J Henderson,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,W,80-84,1:06.22,Patricia M Bond,,Shark Tank SCM Meet,2018,1
+FACT,50 M Breaststroke,SCM,W,80-84,1:24.73,Martha J Henderson,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Breaststroke,SCM,W,80-84,1:45.27,Marilynn R Miller,,Shark Tank SCM Meet,2018,3
+T2NM,100 M Breaststroke,SCM,W,80-84,2:06.48,Margit H Jebe,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Breaststroke,SCM,W,80-84,2:59.30,Martha J Henderson,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Butterfly,SCM,W,80-84,1:08.61,Patricia A Tullman,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Butterfly,SCM,W,80-84,1:11.83,Martha J Henderson,,Shark Tank SCM Meet,2018,2
+FACT,100 M Butterfly,SCM,W,80-84,2:41.31,Martha J Henderson,,Shark Tank SCM Meet,2018,1
+FACT,200 M Butterfly,SCM,W,80-84,6:30.17,Patricia A Tullman,,Rowdy Gaines Masters Classic X,2018,1
+T2NM,100 M Individual Medley,SCM,W,80-84,2:01.97,Margit H Jebe,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,W,80-84,2:02.62,Patricia M Bond,,Shark Tank SCM Meet,2018,2
+FACT,100 M Individual Medley,SCM,W,80-84,2:27.23,Martha J Henderson,,Rowdy Gaines Masters Classic X,2018,3
+FACT,200 M Individual Medley,SCM,W,80-84,5:24.13,Martha J Henderson,,Shark Tank SCM Meet,2018,1
+FACT,100 M Freestyle,SCM,W,85-89,2:30.13,Joan K Campbell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,200 M Freestyle,SCM,W,85-89,5:32.54,Joan K Campbell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,400 M Freestyle,SCM,W,85-89,10:30.10,Joan K Campbell,,Shark Tank SCM Meet,2018,1
+FACT,800 M Freestyle,SCM,W,85-89,21:19.49,Joan K Campbell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,1500 M Freestyle,SCM,W,85-89,42:36.46,Joan K Campbell,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Backstroke,SCM,W,85-89,1:18.99,Alyce M Vogel,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Backstroke,SCM,W,85-89,1:19.65,Joan K Campbell,,Rowdy Gaines Masters Classic X,2018,2
+FACT,200 M Backstroke,SCM,W,85-89,6:12.11,Joan K Campbell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Breaststroke,SCM,W,85-89,1:44.39,Joan K Campbell,,Shark Tank SCM Meet,2018,1
+YCFM,100 M Breaststroke,SCM,W,85-89,2:51.55,Alyce M Vogel,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,W,90-94,59.57,Jean D Troy,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,W,90-94,1:22.37,Jean D Troy,,Shark Tank SCM Meet,2018,1
+SYSM,100 M Individual Medley,SCM,W,90-94,2:56.37,Jean D Troy,,Shark Tank SCM Meet,2018,1
+AWLM,50 M Freestyle,SCM,M,18-24,28.70,Jacob Basini,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Freestyle,SCM,M,18-24,31.91,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Freestyle,SCM,M,18-24,34.01,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,50 M Freestyle,SCM,M,18-24,41.84,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,100 M Freestyle,SCM,M,18-24,1:05.53,Jacob Basini,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Freestyle,SCM,M,18-24,1:12.54,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Freestyle,SCM,M,18-24,1:16.42,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Freestyle,SCM,M,18-24,1:44.84,David R Reisert,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,200 M Freestyle,SCM,M,18-24,2:43.85,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Freestyle,SCM,M,18-24,2:48.73,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Freestyle,SCM,M,18-24,3:32.82,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Freestyle,SCM,M,18-24,3:42.28,David R Reisert,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,400 M Freestyle,SCM,M,18-24,7:36.89,David R Reisert,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Backstroke,SCM,M,18-24,39.71,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Backstroke,SCM,M,18-24,40.20,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Backstroke,SCM,M,18-24,48.75,William E Westman,,Rowdy Gaines Masters Classic X,2018,3
+UC14,100 M Backstroke,SCM,M,18-24,1:09.17,Troy Koser,,"St, Nick's SCM Invitational",2018,1
+AWLM,100 M Backstroke,SCM,M,18-24,1:26.49,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Backstroke,SCM,M,18-24,1:30.02,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Backstroke,SCM,M,18-24,1:42.23,William E Westman,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,100 M Backstroke,SCM,M,18-24,2:14.18,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,5
+AWLM,200 M Backstroke,SCM,M,18-24,3:09.66,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Breaststroke,SCM,M,18-24,35.55,Jacob Basini,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Breaststroke,SCM,M,18-24,46.44,Opio C Douglas,,"St, Nick's SCM Invitational",2018,2
+AWLM,100 M Breaststroke,SCM,M,18-24,1:18.94,Jacob Basini,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Breaststroke,SCM,M,18-24,1:42.24,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Breaststroke,SCM,M,18-24,2:07.83,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Breaststroke,SCM,M,18-24,3:34.45,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,200 M Breaststroke,SCM,M,18-24,4:44.14,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Butterfly,SCM,M,18-24,31.52,Jacob Basini,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Butterfly,SCM,M,18-24,34.71,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Butterfly,SCM,M,18-24,38.56,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,50 M Butterfly,SCM,M,18-24,48.11,David R Reisert,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,50 M Butterfly,SCM,M,18-24,58.10,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,5
+UC14,100 M Butterfly,SCM,M,18-24,1:07.60,Troy Koser,,"St, Nick's SCM Invitational",2018,1
+AWLM,100 M Butterfly,SCM,M,18-24,1:30.45,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Butterfly,SCM,M,18-24,2:05.59,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Butterfly,SCM,M,18-24,2:17.10,David R Reisert,,Rowdy Gaines Masters Classic X,2018,4
+UC14,100 M Individual Medley,SCM,M,18-24,1:09.00,Troy Koser,,"St, Nick's SCM Invitational",2018,1
+AWLM,100 M Individual Medley,SCM,M,18-24,1:13.10,Jacob Basini,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Individual Medley,SCM,M,18-24,1:25.37,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Individual Medley,SCM,M,18-24,1:29.05,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,100 M Individual Medley,SCM,M,18-24,1:57.80,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,5
+UC14,200 M Individual Medley,SCM,M,18-24,2:32.75,Troy Koser,,"St, Nick's SCM Invitational",2018,1
+AWLM,200 M Individual Medley,SCM,M,18-24,3:03.31,Opio C Douglas,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Individual Medley,SCM,M,18-24,3:14.69,Ian M Soules,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Individual Medley,SCM,M,18-24,4:20.13,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,400 M Individual Medley,SCM,M,18-24,9:03.84,Glenn Donovan,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,50 M Freestyle,SCM,M,25-29,29.12,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,1
+UC14,50 M Freestyle,SCM,M,25-29,32.57,James Macek,,Shark Tank SCM Meet,2018,2
+AWLM,100 M Freestyle,SCM,M,25-29,1:03.11,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Freestyle,SCM,M,25-29,1:21.68,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,2
+SPM,200 M Freestyle,SCM,M,25-29,2:13.94,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,200 M Freestyle,SCM,M,25-29,2:17.56,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Freestyle,SCM,M,25-29,2:48.40,Peter Vila,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,200 M Freestyle,SCM,M,25-29,3:02.20,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,4
+SPM,400 M Freestyle,SCM,M,25-29,4:36.77,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,400 M Freestyle,SCM,M,25-29,5:58.00,Peter Vila,,2018 Dixie Zone SCM Championship Meet,2018,2
+AWLM,400 M Freestyle,SCM,M,25-29,6:34.13,Matt W Jones,,"St, Nick's SCM Invitational",2018,3
+SPM,800 M Freestyle,SCM,M,25-29,9:37.68,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,800 M Freestyle,SCM,M,25-29,13:31.72,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,50 M Backstroke,SCM,M,25-29,42.81,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,1
+AWLM,100 M Backstroke,SCM,M,25-29,1:17.15,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Backstroke,SCM,M,25-29,1:25.58,James Macek,,Shark Tank SCM Meet,2018,2
+AWLM,100 M Backstroke,SCM,M,25-29,1:33.65,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,3
+SPM,200 M Backstroke,SCM,M,25-29,2:27.10,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,200 M Backstroke,SCM,M,25-29,3:18.53,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,2
+UC14,50 M Breaststroke,SCM,M,25-29,43.33,James Macek,,Shark Tank SCM Meet,2018,1
+SPM,100 M Breaststroke,SCM,M,25-29,1:20.56,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,100 M Breaststroke,SCM,M,25-29,1:56.51,Peter Vila,,Rowdy Gaines Masters Classic X,2018,2
+SPM,200 M Breaststroke,SCM,M,25-29,2:57.80,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,200 M Breaststroke,SCM,M,25-29,4:02.68,Peter Vila,,2018 Dixie Zone SCM Championship Meet,2018,2
+SPM,50 M Butterfly,SCM,M,25-29,30.08,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,50 M Butterfly,SCM,M,25-29,33.77,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,2
+SPM,100 M Butterfly,SCM,M,25-29,1:05.71,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,100 M Butterfly,SCM,M,25-29,1:13.04,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,100 M Butterfly,SCM,M,25-29,1:34.45,Peter Vila,,Rowdy Gaines Masters Classic X,2018,3
+AWLM,100 M Butterfly,SCM,M,25-29,1:42.82,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,4
+AWLM,200 M Butterfly,SCM,M,25-29,3:31.29,Peter Vila,,2018 Dixie Zone SCM Championship Meet,2018,1
+SPM,100 M Individual Medley,SCM,M,25-29,1:10.32,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,100 M Individual Medley,SCM,M,25-29,1:36.91,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,2
+SPM,200 M Individual Medley,SCM,M,25-29,2:26.26,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,200 M Individual Medley,SCM,M,25-29,3:26.01,Matt W Jones,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,200 M Individual Medley,SCM,M,25-29,3:29.33,Peter Vila,,Rowdy Gaines Masters Classic X,2018,3
+SPM,400 M Individual Medley,SCM,M,25-29,5:12.83,David Stiles,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+AWLM,400 M Individual Medley,SCM,M,25-29,5:48.80,Jesse A Greve,,Rowdy Gaines Masters Classic X,2018,2
+AWLM,400 M Individual Medley,SCM,M,25-29,7:56.55,Peter Vila,,2018 Dixie Zone SCM Championship Meet,2018,3
+SYSM,50 M Freestyle,SCM,M,30-34,25.61,Matthew Coan,,Shark Tank SCM Meet,2018,1
+UC14,50 M Freestyle,SCM,M,30-34,36.67,Jagannathan Seshadri,,Shark Tank SCM Meet,2018,2
+SYSM,200 M Freestyle,SCM,M,30-34,2:03.71,Matthew Coan,,Shark Tank SCM Meet,2018,1
+UC14,50 M Backstroke,SCM,M,30-34,28.83,Chad Damitz,,2018 Dixie Zone SCM Championship Meet,2018,1
+UC14,100 M Backstroke,SCM,M,30-34,1:03.38,Chad Damitz,,2018 Dixie Zone SCM Championship Meet,2018,1
+UC14,50 M Breaststroke,SCM,M,30-34,51.17,Jagannathan Seshadri,,Shark Tank SCM Meet,2018,1
+UC14,50 M Butterfly,SCM,M,30-34,27.92,Chad Damitz,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,50 M Freestyle,SCM,M,35-39,24.81,Josh W Scott,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Freestyle,SCM,M,35-39,25.42,William R Kloppe,,Rowdy Gaines Masters Classic X,2018,2
+UC14,50 M Freestyle,SCM,M,35-39,26.40,Steve Nappi,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Freestyle,SCM,M,35-39,28.03,John R Groselle,,2018 OHIO Masters SCM Swim Meet - Hudson,2018,4
+YCFM,50 M Freestyle,SCM,M,35-39,28.54,Peter Shipp,,2018 Gay Games,2018,5
+UC14,50 M Freestyle,SCM,M,35-39,32.09,Joseph Adamany,,Rowdy Gaines Masters Classic X,2018,6
+YCFM,50 M Freestyle,SCM,M,35-39,58.07,Nicolas Dionisi,,Rowdy Gaines Masters Classic X,2018,7
+SYSM,100 M Freestyle,SCM,M,35-39,55.48,Josh W Scott,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Freestyle,SCM,M,35-39,1:00.50,John R Groselle,,2018 OHIO Masters SCM Swim Meet - Hudson,2018,2
+YCFM,100 M Freestyle,SCM,M,35-39,1:04.41,Peter Shipp,,2018 Gay Games,2018,3
+UC14,100 M Freestyle,SCM,M,35-39,1:14.66,Joseph Adamany,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Freestyle,SCM,M,35-39,2:08.80,Nicolas Dionisi,,Rowdy Gaines Masters Classic X,2018,5
+YCFM,200 M Freestyle,SCM,M,35-39,2:32.47,Peter Shipp,,2018 Gay Games,2018,1
+YCFM,400 M Freestyle,SCM,M,35-39,4:38.31,William R Kloppe,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,1500 M Freestyle,SCM,M,35-39,29:18.38,Alexey Logvinov,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,35-39,27.96,Josh W Scott,,Shark Tank SCM Meet,2018,1
+UC14,50 M Backstroke,SCM,M,35-39,31.35,Steve Nappi,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,50 M Backstroke,SCM,M,35-39,31.46,William R Kloppe,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,50 M Backstroke,SCM,M,35-39,1:05.99,Nicolas Dionisi,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,100 M Backstroke,SCM,M,35-39,1:00.15,Josh W Scott,,Shark Tank SCM Meet,2018,1
+UC14,100 M Backstroke,SCM,M,35-39,1:01.84,Guilherme Goncalves Ferreira,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,100 M Backstroke,SCM,M,35-39,1:08.19,William R Kloppe,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,200 M Backstroke,SCM,M,35-39,2:13.14,Josh W Scott,,Rowdy Gaines Masters Classic X,2018,1
+UC14,200 M Backstroke,SCM,M,35-39,2:15.23,Guilherme Goncalves Ferreira,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,M,35-39,30.78,Josh W Scott,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,M,35-39,32.18,John R Groselle,,Shark Tank SCM Meet,2018,2
+YCFM,50 M Breaststroke,SCM,M,35-39,1:01.53,Nicolas Dionisi,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,100 M Breaststroke,SCM,M,35-39,1:09.56,James Vairo,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Breaststroke,SCM,M,35-39,1:11.04,John R Groselle,,Shark Tank SCM Meet,2018,2
+UC14,100 M Breaststroke,SCM,M,35-39,1:27.76,matthew sundstrom,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,100 M Breaststroke,SCM,M,35-39,2:09.95,Nicolas Dionisi,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,200 M Breaststroke,SCM,M,35-39,2:43.58,John R Groselle,,Shark Tank SCM Meet,2018,1
+UC14,50 M Butterfly,SCM,M,35-39,28.60,Steve Nappi,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Butterfly,SCM,M,35-39,31.16,John R Groselle,,Shark Tank SCM Meet,2018,2
+SYSM,100 M Butterfly,SCM,M,35-39,1:09.59,John R Groselle,,Shark Tank SCM Meet,2018,1
+YCFM,100 M Butterfly,SCM,M,35-39,1:14.04,Peter Shipp,,2018 Gay Games,2018,2
+SYSM,200 M Butterfly,SCM,M,35-39,2:43.35,John R Groselle,,Milford Meltdown,2018,1
+YCFM,100 M Individual Medley,SCM,M,35-39,1:02.75,James Vairo,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Individual Medley,SCM,M,35-39,1:07.64,Steve Nappi,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,M,35-39,1:12.65,John R Groselle,,2018 OHIO Masters SCM Swim Meet - Hudson,2018,3
+YCFM,100 M Individual Medley,SCM,M,35-39,1:16.96,Peter Shipp,,2018 Gay Games,2018,4
+SYSM,200 M Individual Medley,SCM,M,35-39,2:12.92,Josh W Scott,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Freestyle,SCM,M,40-44,26.58,Andy Matthias,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Freestyle,SCM,M,40-44,27.47,Luke  Peterson,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Freestyle,SCM,M,40-44,28.67,Dimitry Kantor,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Freestyle,SCM,M,40-44,28.87,Reinaldo Sobrino,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,50 M Freestyle,SCM,M,40-44,29.90,Nicholas Curtis,,Rowdy Gaines Masters Classic X,2018,5
+UC14,50 M Freestyle,SCM,M,40-44,30.17,Chris Mallory,,Rowdy Gaines Masters Classic X,2018,6
+YCFM,50 M Freestyle,SCM,M,40-44,36.93,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,7
+YCFM,100 M Freestyle,SCM,M,40-44,58.39,Andy Matthias,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Freestyle,SCM,M,40-44,1:03.95,Dimitry Kantor,,Shark Tank SCM Meet,2018,2
+UC14,100 M Freestyle,SCM,M,40-44,1:08.13,Chris Mallory,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,100 M Freestyle,SCM,M,40-44,1:23.48,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,200 M Freestyle,SCM,M,40-44,2:18.12,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,200 M Freestyle,SCM,M,40-44,2:26.65,Dimitry Kantor,,Shark Tank SCM Meet,2018,2
+YCFM,400 M Freestyle,SCM,M,40-44,5:01.50,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,800 M Freestyle,SCM,M,40-44,10:25.69,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Backstroke,SCM,M,40-44,35.77,Dimitry Kantor,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Backstroke,SCM,M,40-44,36.30,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,50 M Backstroke,SCM,M,40-44,51.39,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,100 M Backstroke,SCM,M,40-44,1:17.18,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,200 M Backstroke,SCM,M,40-44,2:43.52,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Breaststroke,SCM,M,40-44,36.85,Luke  Peterson,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Breaststroke,SCM,M,40-44,37.99,Nicholas Curtis,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,M,40-44,39.40,Dimitry Kantor,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Breaststroke,SCM,M,40-44,48.00,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Breaststroke,SCM,M,40-44,1:22.75,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Breaststroke,SCM,M,40-44,1:27.74,Reinaldo Sobrino,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,100 M Breaststroke,SCM,M,40-44,1:47.72,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,200 M Breaststroke,SCM,M,40-44,3:04.65,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Butterfly,SCM,M,40-44,30.09,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+UC14,50 M Butterfly,SCM,M,40-44,31.18,Tim Rogers,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,50 M Butterfly,SCM,M,40-44,31.28,Andy Matthias,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,50 M Butterfly,SCM,M,40-44,46.23,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Butterfly,SCM,M,40-44,1:08.08,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,200 M Butterfly,SCM,M,40-44,2:44.15,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Individual Medley,SCM,M,40-44,1:11.59,Andy Matthias,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Individual Medley,SCM,M,40-44,1:13.83,Nicholas Curtis,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,M,40-44,1:15.71,Dimitry Kantor,,Shark Tank SCM Meet,2018,3
+UC14,100 M Individual Medley,SCM,M,40-44,1:19.53,Chris Mallory,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Individual Medley,SCM,M,40-44,1:39.82,Gabriel A Dorrego,,Rowdy Gaines Masters Classic X,2018,5
+YCFM,200 M Individual Medley,SCM,M,40-44,2:42.27,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,200 M Individual Medley,SCM,M,40-44,2:47.13,Dimitry Kantor,,Shark Tank SCM Meet,2018,2
+UC14,200 M Individual Medley,SCM,M,40-44,2:48.51,Michael J Babich,,Shark Tank SCM Meet,2018,3
+UC14,200 M Individual Medley,SCM,M,40-44,3:04.50,Chris Mallory,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,400 M Individual Medley,SCM,M,40-44,5:43.62,Brodie Hynes,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Freestyle,SCM,M,45-49,24.59,Mike Van Thielen,,Rowdy Gaines Masters Classic X,2018,1
+SPM,50 M Freestyle,SCM,M,45-49,25.78,Sean Gerrard,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,50 M Freestyle,SCM,M,45-49,27.34,Andy S Kroupa,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Freestyle,SCM,M,45-49,27.62,Xavier  Almeyda,,Shark Tank SCM Meet,2018,4
+SWFL,50 M Freestyle,SCM,M,45-49,29.13,Hadley J Mozer,,Rowdy Gaines Masters Classic X,2018,5
+UC14,50 M Freestyle,SCM,M,45-49,31.27,Juan F Alvarez,,2018 Dixie Zone SCM Championship Meet,2018,6
+UC14,50 M Freestyle,SCM,M,45-49,31.93,Jackson W Koontz,,Rowdy Gaines Masters Classic X,2018,7
+YCFM,50 M Freestyle,SCM,M,45-49,1:00.34,Steven H Deutch,,Rowdy Gaines Masters Classic X,2018,8
+YCFM,100 M Freestyle,SCM,M,45-49,52.80,Mike Van Thielen,,Rowdy Gaines Masters Classic X,2018,1
+GSC,100 M Freestyle,SCM,M,45-49,57.24,David D Fuller,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Freestyle,SCM,M,45-49,1:00.99,Xavier  Almeyda,,Shark Tank SCM Meet,2018,3
+SYSM,100 M Freestyle,SCM,M,45-49,1:02.26,Johnnie A Pearson,,Shark Tank SCM Meet,2018,4
+UC14,100 M Freestyle,SCM,M,45-49,1:11.46,Juan F Alvarez,,2018 Dixie Zone SCM Championship Meet,2018,5
+SWFL,100 M Freestyle,SCM,M,45-49,1:13.11,Hadley J Mozer,,Rowdy Gaines Masters Classic X,2018,6
+UC14,100 M Freestyle,SCM,M,45-49,1:17.30,Jackson W Koontz,,Rowdy Gaines Masters Classic X,2018,7
+YCFM,100 M Freestyle,SCM,M,45-49,2:08.93,Steven H Deutch,,Rowdy Gaines Masters Classic X,2018,8
+SYSM,200 M Freestyle,SCM,M,45-49,2:17.74,Xavier  Almeyda,,Shark Tank SCM Meet,2018,1
+SWFL,200 M Freestyle,SCM,M,45-49,3:08.04,Barys Ihnatsenka,,Rowdy Gaines Masters Classic X,2018,2
+YCFM,200 M Freestyle,SCM,M,45-49,4:54.82,Steven H Deutch,,Rowdy Gaines Masters Classic X,2018,3
+SWFL,400 M Freestyle,SCM,M,45-49,6:30.80,Barys Ihnatsenka,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,400 M Freestyle,SCM,M,45-49,10:35.53,Steven H Deutch,,Rowdy Gaines Masters Classic X,2018,2
+BGF,1500 M Freestyle,SCM,M,45-49,24:03.18,Martin D Wagner,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,45-49,32.37,Johnnie A Pearson,,Shark Tank SCM Meet,2018,1
+UC14,50 M Backstroke,SCM,M,45-49,40.32,Jackson W Koontz,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Backstroke,SCM,M,45-49,1:18.08,Johnnie A Pearson,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,M,45-49,33.41,Johnnie A Pearson,,Shark Tank SCM Meet,2018,1
+SWFL,100 M Breaststroke,SCM,M,45-49,1:26.35,Hadley J Mozer,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Butterfly,SCM,M,45-49,28.59,Andy S Kroupa,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Butterfly,SCM,M,45-49,28.63,Johnnie A Pearson,,Shark Tank SCM Meet,2018,2
+UC14,50 M Butterfly,SCM,M,45-49,29.10,MARTIN E BERBETTI,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Butterfly,SCM,M,45-49,30.33,Xavier  Almeyda,,Shark Tank SCM Meet,2018,4
+UC14,50 M Butterfly,SCM,M,45-49,37.93,Juan F Alvarez,,2018 Dixie Zone SCM Championship Meet,2018,5
+GSC,100 M Butterfly,SCM,M,45-49,1:07.19,David D Fuller,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Individual Medley,SCM,M,45-49,1:06.29,Chip Castagnos,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Individual Medley,SCM,M,45-49,1:10.06,Sean Gerrard,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,M,45-49,1:11.58,Johnnie A Pearson,,Shark Tank SCM Meet,2018,3
+UC14,200 M Individual Medley,SCM,M,45-49,3:08.22,Juan F Alvarez,,2018 Dixie Zone SCM Championship Meet,2018,1
+NTC,50 M Freestyle,SCM,M,50-54,28.31,Scott Mairose,,Rowdy Gaines Masters Classic X,2018,1
+UC14,50 M Freestyle,SCM,M,50-54,29.13,John D Fox,,Rowdy Gaines Masters Classic X,2018,2
+NTC,100 M Freestyle,SCM,M,50-54,1:02.75,Scott Mairose,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Freestyle,SCM,M,50-54,1:04.66,John D Fox,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Freestyle,SCM,M,50-54,1:10.13,Dean T Mitchinson,,Rowdy Gaines Masters Classic X,2018,3
+BDO,200 M Freestyle,SCM,M,50-54,2:14.10,Franz M Plescha,,Rowdy Gaines Masters Classic X,2018,1
+NTC,200 M Freestyle,SCM,M,50-54,2:22.99,Scott Mairose,,Rowdy Gaines Masters Classic X,2018,2
+UC14,200 M Freestyle,SCM,M,50-54,2:23.97,John D Fox,,Rowdy Gaines Masters Classic X,2018,3
+BDO,200 M Freestyle,SCM,M,50-54,2:25.12,Mike Waid,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,200 M Freestyle,SCM,M,50-54,2:35.76,Dean T Mitchinson,,Shark Tank SCM Meet,2018,5
+UC14,200 M Freestyle,SCM,M,50-54,2:40.28,David Tisdale,,Shark Tank SCM Meet,2018,6
+UC14,400 M Freestyle,SCM,M,50-54,5:45.60,David Tisdale,,Shark Tank SCM Meet,2018,1
+SYSM,400 M Freestyle,SCM,M,50-54,5:46.44,Dean T Mitchinson,,Rowdy Gaines Masters Classic X,2018,2
+UC14,800 M Freestyle,SCM,M,50-54,10:34.51,John D Fox,,Rowdy Gaines Masters Classic X,2018,1
+UC14,800 M Freestyle,SCM,M,50-54,11:45.36,David Tisdale,,Shark Tank SCM Meet,2018,2
+UC14,1500 M Freestyle,SCM,M,50-54,22:06.90,David Tisdale,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,50-54,32.60,Edward H Mench,,Shark Tank SCM Meet,2018,1
+BDO,50 M Backstroke,SCM,M,50-54,39.52,Jose P. P De Aguiar,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Backstroke,SCM,M,50-54,1:08.81,Edward H Mench,,Shark Tank SCM Meet,2018,1
+UC14,100 M Backstroke,SCM,M,50-54,1:25.13,David Tisdale,,Shark Tank SCM Meet,2018,2
+BDO,100 M Backstroke,SCM,M,50-54,1:27.34,Jose P. P De Aguiar,,Rowdy Gaines Masters Classic X,2018,3
+UC14,200 M Backstroke,SCM,M,50-54,3:04.65,David Tisdale,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,M,50-54,35.21,Edward H Mench,,Shark Tank SCM Meet,2018,1
+NTC,50 M Breaststroke,SCM,M,50-54,40.72,Scott Mairose,,Rowdy Gaines Masters Classic X,2018,2
+BDO,50 M Breaststroke,SCM,M,50-54,55.87,Jose P. P De Aguiar,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,100 M Breaststroke,SCM,M,50-54,1:16.56,Edward H Mench,,Shark Tank SCM Meet,2018,1
+BDO,100 M Breaststroke,SCM,M,50-54,1:22.86,Mike Waid,,Rowdy Gaines Masters Classic X,2018,2
+UC14,100 M Breaststroke,SCM,M,50-54,1:24.79,John D Fox,,Rowdy Gaines Masters Classic X,2018,3
+BDO,100 M Breaststroke,SCM,M,50-54,2:01.31,Jose P. P De Aguiar,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,200 M Breaststroke,SCM,M,50-54,2:54.01,Edward H Mench,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Butterfly,SCM,M,50-54,33.57,Dean T Mitchinson,,Rowdy Gaines Masters Classic X,2018,1
+UC14,50 M Butterfly,SCM,M,50-54,35.58,John D Fox,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,M,50-54,1:24.21,Dean T Mitchinson,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,M,55-59,27.05,David M Zimmerman,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Freestyle,SCM,M,55-59,30.84,Jim Matysek,,Shark Tank SCM Meet,2018,2
+SRQM,50 M Freestyle,SCM,M,55-59,32.14,David E Tucker,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Freestyle,SCM,M,55-59,32.61,Mark Thomas,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,50 M Freestyle,SCM,M,55-59,32.63,William Blalock,,Rowdy Gaines Masters Classic X,2018,5
+UC14,50 M Freestyle,SCM,M,55-59,33.11,michael zabel,,2018 Dixie Zone SCM Championship Meet,2018,6
+YCFM,100 M Freestyle,SCM,M,55-59,1:12.21,William Blalock,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Freestyle,SCM,M,55-59,1:19.29,michael zabel,,2018 Dixie Zone SCM Championship Meet,2018,2
+TBAM,400 M Freestyle,SCM,M,55-59,5:09.06,Juan Cue,,Shark Tank SCM Meet,2018,1
+TBAM,800 M Freestyle,SCM,M,55-59,10:37.38,Juan Cue,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,55-59,31.60,David M Zimmerman,,Shark Tank SCM Meet,2018,1
+SPM,50 M Backstroke,SCM,M,55-59,33.42,Greg Salomon,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Backstroke,SCM,M,55-59,37.08,Glen A Vargas,,"St, Nick's SCM Invitational",2018,3
+UC14,50 M Backstroke,SCM,M,55-59,45.37,michael zabel,,2018 Dixie Zone SCM Championship Meet,2018,4
+UC14,100 M Backstroke,SCM,M,55-59,1:36.85,michael zabel,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,50 M Breaststroke,SCM,M,55-59,33.21,Stephen Panzarino,,Shark Tank SCM Meet,2018,1
+UC14,50 M Breaststroke,SCM,M,55-59,34.63,Jorge I Gonzalez,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,M,55-59,36.88,Jim Matysek,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Breaststroke,SCM,M,55-59,37.30,Glen A Vargas,,"St, Nick's SCM Invitational",2018,4
+SRQM,50 M Breaststroke,SCM,M,55-59,38.30,David E Tucker,,Shark Tank SCM Meet,2018,5
+SPM,50 M Breaststroke,SCM,M,55-59,38.76,Greg Salomon,,Shark Tank SCM Meet,2018,6
+YCFM,50 M Breaststroke,SCM,M,55-59,41.99,William Blalock,,Rowdy Gaines Masters Classic X,2018,7
+YCFM,50 M Breaststroke,SCM,M,55-59,42.64,Mark Thomas,,Rowdy Gaines Masters Classic X,2018,8
+YCFM,100 M Breaststroke,SCM,M,55-59,1:13.09,Rich Mercer,,Rowdy Gaines Masters Classic X,2018,1
+UC14,100 M Breaststroke,SCM,M,55-59,1:16.90,Jorge I Gonzalez,,Shark Tank SCM Meet,2018,2
+SYSM,100 M Breaststroke,SCM,M,55-59,1:20.02,Jim Matysek,,Rowdy Gaines Masters Classic X,2018,3
+BDO,100 M Breaststroke,SCM,M,55-59,1:23.18,Jeff Abbott,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Breaststroke,SCM,M,55-59,1:34.43,Mark Thomas,,Rowdy Gaines Masters Classic X,2018,5
+YCFM,100 M Breaststroke,SCM,M,55-59,1:35.45,William Blalock,,Rowdy Gaines Masters Classic X,2018,6
+SYSM,200 M Breaststroke,SCM,M,55-59,2:53.57,Jim Matysek,,Rowdy Gaines Masters Classic X,2018,1
+UC14,200 M Breaststroke,SCM,M,55-59,3:02.40,Jorge I Gonzalez,,Shark Tank SCM Meet,2018,2
+TBAM,100 M Butterfly,SCM,M,55-59,1:09.72,Juan Cue,,2018 Dixie Zone SCM Championship Meet,2018,1
+TBAM,200 M Butterfly,SCM,M,55-59,2:40.79,Juan Cue,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,200 M Butterfly,SCM,M,55-59,2:58.85,Jim Matysek,,Shark Tank SCM Meet,2018,2
+UC14,100 M Individual Medley,SCM,M,55-59,1:10.53,Jorge I Gonzalez,,Rowdy Gaines Masters Classic X,2018,1
+SPM,100 M Individual Medley,SCM,M,55-59,1:14.66,Greg Salomon,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,M,55-59,1:16.13,Jim Matysek,,Rowdy Gaines Masters Classic X,2018,3
+BDO,100 M Individual Medley,SCM,M,55-59,1:21.04,Jeff Abbott,,Rowdy Gaines Masters Classic X,2018,4
+SRQM,100 M Individual Medley,SCM,M,55-59,1:22.36,David E Tucker,,Shark Tank SCM Meet,2018,5
+YCFM,100 M Individual Medley,SCM,M,55-59,1:27.46,William Blalock,,Rowdy Gaines Masters Classic X,2018,6
+YCFM,100 M Individual Medley,SCM,M,55-59,1:27.71,Mark Thomas,,Rowdy Gaines Masters Classic X,2018,7
+YCFM,200 M Individual Medley,SCM,M,55-59,3:14.02,William Blalock,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Freestyle,SCM,M,60-64,26.70,Jack R Groselle,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Freestyle,SCM,M,60-64,29.56,Bert Bowers,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Freestyle,SCM,M,60-64,31.25,Chuck A Froman,,Shark Tank SCM Meet,2018,3
+SYSM,50 M Freestyle,SCM,M,60-64,31.61,Tom J Weigand,,Shark Tank SCM Meet,2018,4
+YCFM,50 M Freestyle,SCM,M,60-64,33.69,Leonard J Frazer,,Rowdy Gaines Masters Classic X,2018,5
+SWIM,50 M Freestyle,SCM,M,60-64,34.22,Roger A Shockey,,2018 Gay Games,2018,6
+SYSM,50 M Freestyle,SCM,M,60-64,34.24,Ross S Knowles,,Shark Tank SCM Meet,2018,7
+HLJ,50 M Freestyle,SCM,M,60-64,40.18,John P Byron,,Rowdy Gaines Masters Classic X,2018,8
+YCFM,50 M Freestyle,SCM,M,60-64,41.03,LOU Kloppe,,Rowdy Gaines Masters Classic X,2018,9
+SYSM,100 M Freestyle,SCM,M,60-64,58.13,Jack R Groselle,,Milford Meltdown,2018,1
+SYSM,100 M Freestyle,SCM,M,60-64,1:05.09,Bert Bowers,,Shark Tank SCM Meet,2018,2
+SYSM,100 M Freestyle,SCM,M,60-64,1:12.25,Chuck A Froman,,Shark Tank SCM Meet,2018,3
+HLJ,100 M Freestyle,SCM,M,60-64,1:25.67,John P Byron,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,100 M Freestyle,SCM,M,60-64,1:36.05,LOU Kloppe,,Rowdy Gaines Masters Classic X,2018,5
+SYSM,200 M Freestyle,SCM,M,60-64,2:11.15,Jack R Groselle,,Shark Tank SCM Meet,2018,1
+SYSM,200 M Freestyle,SCM,M,60-64,2:35.03,Tom J Weigand,,Shark Tank SCM Meet,2018,2
+YCFM,200 M Freestyle,SCM,M,60-64,2:51.64,Jose Renato M Pontes,,Rowdy Gaines Masters Classic X,2018,3
+HLJ,200 M Freestyle,SCM,M,60-64,3:11.13,John P Byron,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,200 M Freestyle,SCM,M,60-64,3:39.76,LOU Kloppe,,Rowdy Gaines Masters Classic X,2018,5
+YCFM,400 M Freestyle,SCM,M,60-64,6:10.93,Jose Renato M Pontes,,Rowdy Gaines Masters Classic X,2018,1
+HLJ,400 M Freestyle,SCM,M,60-64,6:44.32,John P Byron,,Rowdy Gaines Masters Classic X,2018,2
+UC14,400 M Freestyle,SCM,M,60-64,7:02.36,David D Mylin,,Rowdy Gaines Masters Classic X,2018,3
+YCFM,800 M Freestyle,SCM,M,60-64,12:55.53,Jose Renato M Pontes,,Rowdy Gaines Masters Classic X,2018,1
+HLJ,800 M Freestyle,SCM,M,60-64,13:39.05,John P Byron,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Backstroke,SCM,M,60-64,39.04,Chuck A Froman,,Shark Tank SCM Meet,2018,1
+HLJ,200 M Backstroke,SCM,M,60-64,3:48.00,John P Byron,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,M,60-64,34.17,Jack R Groselle,,Medina Masters Sprint Spectacular,2018,1
+SWIM,50 M Breaststroke,SCM,M,60-64,43.28,Roger A Shockey,,2018 Gay Games,2018,2
+SYSM,50 M Breaststroke,SCM,M,60-64,43.38,Tom J Weigand,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Breaststroke,SCM,M,60-64,43.64,Thomas B Seibert,,Rowdy Gaines Masters Classic X,2018,4
+HLJ,50 M Breaststroke,SCM,M,60-64,49.31,John P Byron,,Rowdy Gaines Masters Classic X,2018,5
+SYSM,100 M Breaststroke,SCM,M,60-64,1:16.54,Jack R Groselle,,Medina Masters Sprint Spectacular,2018,1
+YCFM,100 M Breaststroke,SCM,M,60-64,1:33.70,Thomas B Seibert,,Rowdy Gaines Masters Classic X,2018,2
+SWIM,100 M Breaststroke,SCM,M,60-64,1:43.34,Roger A Shockey,,2018 Gay Games,2018,3
+HLJ,100 M Breaststroke,SCM,M,60-64,1:48.89,John P Byron,,Rowdy Gaines Masters Classic X,2018,4
+YCFM,200 M Breaststroke,SCM,M,60-64,3:32.39,Thomas B Seibert,,Rowdy Gaines Masters Classic X,2018,1
+HLJ,200 M Breaststroke,SCM,M,60-64,3:54.51,John P Byron,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Butterfly,SCM,M,60-64,30.53,Jack R Groselle,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Butterfly,SCM,M,60-64,31.75,Roger Kahn,,Dr. Bill Ross Memorial Masters Swim Meet,2018,2
+SYSM,50 M Butterfly,SCM,M,60-64,32.48,Bert Bowers,,Shark Tank SCM Meet,2018,3
+SYSM,50 M Butterfly,SCM,M,60-64,36.33,Chuck A Froman,,Shark Tank SCM Meet,2018,4
+SYSM,100 M Butterfly,SCM,M,60-64,1:08.69,Jack R Groselle,,Milford Meltdown,2018,1
+SYSM,100 M Butterfly,SCM,M,60-64,1:18.24,Bert Bowers,,Shark Tank SCM Meet,2018,2
+HLJ,100 M Butterfly,SCM,M,60-64,1:51.39,John P Byron,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,100 M Individual Medley,SCM,M,60-64,1:09.32,Jack R Groselle,,Shark Tank SCM Meet,2018,1
+YCFM,100 M Individual Medley,SCM,M,60-64,1:22.14,Leonard J Frazer,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Individual Medley,SCM,M,60-64,1:22.31,Tom J Weigand,,Shark Tank SCM Meet,2018,3
+SYSM,100 M Individual Medley,SCM,M,60-64,1:24.45,Chuck A Froman,,Shark Tank SCM Meet,2018,4
+SYSM,100 M Individual Medley,SCM,M,60-64,1:30.87,Ross S Knowles,,Shark Tank SCM Meet,2018,5
+SYSM,200 M Individual Medley,SCM,M,60-64,2:32.02,Jack R Groselle,,Shark Tank SCM Meet,2018,1
+HLJ,200 M Individual Medley,SCM,M,60-64,3:33.07,John P Byron,,Rowdy Gaines Masters Classic X,2018,2
+HLJ,400 M Individual Medley,SCM,M,60-64,7:40.79,John P Byron,,Rowdy Gaines Masters Classic X,2018,1
+HLJ,50 M Freestyle,SCM,M,65-69,32.86,Bruce A Bowman,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Freestyle,SCM,M,65-69,34.03,Allan Walker,,Canadian Masters Swimming Championships,2018,2
+SYSM,50 M Freestyle,SCM,M,65-69,36.79,John M Burke,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Freestyle,SCM,M,65-69,39.83,Bill Kloppe,,Rowdy Gaines Masters Classic X,2018,4
+SRQM,50 M Freestyle,SCM,M,65-69,42.23,Mark A Usher,,Shark Tank SCM Meet,2018,5
+SYSM,50 M Freestyle,SCM,M,65-69,44.77,Gerry Chojnowski,,Shark Tank SCM Meet,2018,6
+CCSM,100 M Freestyle,SCM,M,65-69,1:12.77,Dennis L Olson,,Shark Tank SCM Meet,2018,1
+FACT,100 M Freestyle,SCM,M,65-69,1:15.04,Todd H Dickson,,Rowdy Gaines Masters Classic X,2018,2
+HLJ,100 M Freestyle,SCM,M,65-69,1:15.75,Bruce A Bowman,,Rowdy Gaines Masters Classic X,2018,3
+FACT,100 M Freestyle,SCM,M,65-69,1:17.52,Allan Walker,,Canadian Masters Swimming Championships,2018,4
+SYSM,100 M Freestyle,SCM,M,65-69,1:19.49,John M Burke,,Shark Tank SCM Meet,2018,5
+SRQM,100 M Freestyle,SCM,M,65-69,1:38.25,Mark A Usher,,Shark Tank SCM Meet,2018,6
+SYSM,200 M Freestyle,SCM,M,65-69,2:17.84,Jeffrey Boatright,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,200 M Freestyle,SCM,M,65-69,2:26.54,Rick B Walker,,Shark Tank SCM Meet,2018,2
+FACT,200 M Freestyle,SCM,M,65-69,2:54.58,Allan Walker,,Canadian Masters Swimming Championships,2018,3
+SYSM,200 M Freestyle,SCM,M,65-69,2:56.86,John M Burke,,Shark Tank SCM Meet,2018,4
+YCFM,200 M Freestyle,SCM,M,65-69,3:19.13,Bill Kloppe,,Rowdy Gaines Masters Classic X,2018,5
+SYSM,200 M Freestyle,SCM,M,65-69,3:23.37,Gerry Chojnowski,,Shark Tank SCM Meet,2018,6
+SRQM,200 M Freestyle,SCM,M,65-69,3:45.57,Mark A Usher,,Shark Tank SCM Meet,2018,7
+SYSM,400 M Freestyle,SCM,M,65-69,4:48.79,Jeffrey Boatright,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,400 M Freestyle,SCM,M,65-69,6:12.45,John M Burke,,Shark Tank SCM Meet,2018,2
+FACT,400 M Freestyle,SCM,M,65-69,6:19.89,Allan Walker,,Canadian Masters Swimming Championships,2018,3
+YCFM,400 M Freestyle,SCM,M,65-69,6:53.77,Bill Kloppe,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,400 M Freestyle,SCM,M,65-69,7:14.98,Gerry Chojnowski,,Shark Tank SCM Meet,2018,5
+FACT,800 M Freestyle,SCM,M,65-69,12:59.68,Allan Walker,,Canadian Masters Swimming Championships,2018,1
+SYSM,1500 M Freestyle,SCM,M,65-69,24:35.35,John M Burke,,Shark Tank SCM Meet,2018,1
+FACT,50 M Backstroke,SCM,M,65-69,46.56,Todd H Dickson,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Backstroke,SCM,M,65-69,1:13.88,Jeffrey Boatright,,Shark Tank SCM Meet,2018,1
+FACT,200 M Backstroke,SCM,M,65-69,3:33.87,Todd H Dickson,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,M,65-69,38.66,Rick B Walker,,Shark Tank SCM Meet,2018,1
+HLJ,50 M Breaststroke,SCM,M,65-69,44.43,Bruce A Bowman,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,M,65-69,50.42,Gerry Chojnowski,,Shark Tank SCM Meet,2018,3
+SYSM,100 M Breaststroke,SCM,M,65-69,1:25.73,Rick B Walker,,Shark Tank SCM Meet,2018,1
+HLJ,100 M Breaststroke,SCM,M,65-69,1:42.07,Bruce A Bowman,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,200 M Breaststroke,SCM,M,65-69,3:11.24,Rick B Walker,,Shark Tank SCM Meet,2018,1
+SYSM,200 M Breaststroke,SCM,M,65-69,4:03.06,Gerry Chojnowski,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Butterfly,SCM,M,65-69,29.70,Kevin M McCormack,,Shark Tank SCM Meet,2018,1
+YCFM,50 M Butterfly,SCM,M,65-69,30.16,Marc D Middleton,,Rowdy Gaines Masters Classic X,2018,2
+CCSM,50 M Butterfly,SCM,M,65-69,35.30,Dennis L Olson,,Shark Tank SCM Meet,2018,3
+SRQM,50 M Butterfly,SCM,M,65-69,55.05,Mark A Usher,,Shark Tank SCM Meet,2018,4
+SHARK,100 M Butterfly,SCM,M,65-69,1:08.60,Kevin M McCormack,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,100 M Butterfly,SCM,M,65-69,1:10.69,Jeffrey Boatright,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Freestyle,SCM,M,70-74,30.88,Bob E Couch,,Shark Tank SCM Meet,2018,1
+FACT,50 M Freestyle,SCM,M,70-74,31.50,David S Jarvis,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Freestyle,SCM,M,70-74,34.54,John F Johnston,,Shark Tank SCM Meet,2018,3
+SYSM,50 M Freestyle,SCM,M,70-74,35.17,Terry J Brinkman,,Rowdy Gaines Masters Classic X,2018,4
+SYSM,50 M Freestyle,SCM,M,70-74,37.30,Tom Cornell,,Shark Tank SCM Meet,2018,5
+FACT,50 M Freestyle,SCM,M,70-74,51.12,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,6
+SYSM,100 M Freestyle,SCM,M,70-74,1:06.01,Bob E Couch,,Shark Tank SCM Meet,2018,1
+FACT,100 M Freestyle,SCM,M,70-74,1:11.94,David S Jarvis,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Freestyle,SCM,M,70-74,1:14.36,Jan Soderstrom,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,100 M Freestyle,SCM,M,70-74,1:22.76,Tom Cornell,,Shark Tank SCM Meet,2018,4
+SYSM,200 M Freestyle,SCM,M,70-74,2:34.59,Bob E Couch,,"St, Nick's SCM Invitational",2018,1
+SYSM,200 M Freestyle,SCM,M,70-74,3:18.81,Tom Cornell,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Backstroke,SCM,M,70-74,37.59,Bob E Couch,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,70-74,39.71,Jan Soderstrom,,Rowdy Gaines Masters Classic X,2018,2
+FACT,50 M Backstroke,SCM,M,70-74,39.85,David S Jarvis,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,50 M Backstroke,SCM,M,70-74,41.13,Terry J Brinkman,,Rowdy Gaines Masters Classic X,2018,4
+UC14,50 M Backstroke,SCM,M,70-74,43.14,Craig S Maughan,,Rowdy Gaines Masters Classic X,2018,5
+FACT,50 M Backstroke,SCM,M,70-74,52.20,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,6
+SYSM,100 M Backstroke,SCM,M,70-74,1:24.78,Bob E Couch,,Shark Tank SCM Meet,2018,1
+SYSM,100 M Backstroke,SCM,M,70-74,1:32.00,Jan Soderstrom,,Rowdy Gaines Masters Classic X,2018,2
+UC14,100 M Backstroke,SCM,M,70-74,1:32.88,Craig S Maughan,,Rowdy Gaines Masters Classic X,2018,3
+SYSM,100 M Backstroke,SCM,M,70-74,1:33.07,Terry J Brinkman,,Rowdy Gaines Masters Classic X,2018,4
+FACT,100 M Backstroke,SCM,M,70-74,1:59.82,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,5
+FACT,200 M Backstroke,SCM,M,70-74,4:40.30,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Breaststroke,SCM,M,70-74,45.17,John F Johnston,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Breaststroke,SCM,M,70-74,50.29,Darryl W Sjoberg,,Shark Tank SCM Meet,2018,2
+FACT,50 M Breaststroke,SCM,M,70-74,1:10.28,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,3
+UC14,100 M Breaststroke,SCM,M,70-74,1:42.97,Craig S Maughan,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Breaststroke,SCM,M,70-74,1:52.37,Darryl W Sjoberg,,Shark Tank SCM Meet,2018,2
+FACT,100 M Breaststroke,SCM,M,70-74,2:27.57,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,3
+UC14,200 M Breaststroke,SCM,M,70-74,3:56.40,Craig S Maughan,,2018 Dixie Zone SCM Championship Meet,2018,1
+SYSM,200 M Breaststroke,SCM,M,70-74,4:03.74,Darryl W Sjoberg,,Shark Tank SCM Meet,2018,2
+FACT,200 M Breaststroke,SCM,M,70-74,5:39.34,KEN R HICKEY,,Rowdy Gaines Masters Classic X,2018,3
+FACT,50 M Butterfly,SCM,M,70-74,35.22,David S Jarvis,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,50 M Butterfly,SCM,M,70-74,40.92,Tom Cornell,,Shark Tank SCM Meet,2018,2
+FACT,100 M Butterfly,SCM,M,70-74,1:36.20,David S Jarvis,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,M,70-74,1:19.61,Bob E Couch,,Shark Tank SCM Meet,2018,1
+FACT,100 M Individual Medley,SCM,M,70-74,1:21.84,David S Jarvis,,Rowdy Gaines Masters Classic X,2018,2
+FACT,100 M Individual Medley,SCM,M,70-74,1:33.05,Mark C Ross,,Rowdy Gaines Masters Classic X,2018,3
+UC14,100 M Individual Medley,SCM,M,70-74,1:35.65,Craig S Maughan,,2018 Dixie Zone SCM Championship Meet,2018,4
+SYSM,100 M Individual Medley,SCM,M,70-74,1:42.49,Tom Cornell,,Shark Tank SCM Meet,2018,5
+SYSM,200 M Individual Medley,SCM,M,70-74,2:59.11,Bob E Couch,,"St, Nick's SCM Invitational",2018,1
+SYSM,50 M Freestyle,SCM,M,75-79,36.44,David W Oakes,,Shark Tank SCM Meet,2018,1
+FACT,50 M Freestyle,SCM,M,75-79,43.77,Bill Rodenfels,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Freestyle,SCM,M,75-79,44.79,Harry S Colburn,,Shark Tank SCM Meet,2018,3
+SRQM,50 M Freestyle,SCM,M,75-79,58.65,Raymond H Morton,,Shark Tank SCM Meet,2018,4
+SYSM,50 M Freestyle,SCM,M,75-79,1:05.22,Jack Mitchell,,Shark Tank SCM Meet,2018,5
+SYSM,100 M Freestyle,SCM,M,75-79,1:29.00,David W Oakes,,Shark Tank SCM Meet,2018,1
+FACT,100 M Freestyle,SCM,M,75-79,1:37.43,Bill Rodenfels,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Freestyle,SCM,M,75-79,1:49.25,Harry S Colburn,,Shark Tank SCM Meet,2018,3
+SYSM,100 M Freestyle,SCM,M,75-79,2:40.88,Jack Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,4
+FACT,200 M Freestyle,SCM,M,75-79,3:51.98,Bill Rodenfels,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,200 M Freestyle,SCM,M,75-79,5:44.90,Jack Mitchell,,Shark Tank SCM Meet,2018,2
+FACT,400 M Freestyle,SCM,M,75-79,8:21.55,Bill Rodenfels,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,400 M Freestyle,SCM,M,75-79,11:33.00,Jack Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,2
+SYSM,800 M Freestyle,SCM,M,75-79,21:47.34,Jack Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+SYSM,1500 M Freestyle,SCM,M,75-79,48:35.41,Jack Mitchell,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,75-79,43.55,David W Oakes,,Shark Tank SCM Meet,2018,1
+SYSM,50 M Backstroke,SCM,M,75-79,55.06,Harry S Colburn,,Shark Tank SCM Meet,2018,2
+FACT,50 M Backstroke,SCM,M,75-79,55.20,Bill Rodenfels,,Rowdy Gaines Masters Classic X,2018,3
+SRQM,50 M Backstroke,SCM,M,75-79,1:26.78,Raymond H Morton,,Shark Tank SCM Meet,2018,4
+SYSM,50 M Backstroke,SCM,M,75-79,1:29.64,Jack Mitchell,,Shark Tank SCM Meet,2018,5
+SYSM,100 M Backstroke,SCM,M,75-79,1:46.92,David W Oakes,,Shark Tank SCM Meet,2018,1
+SYSM,100 M Backstroke,SCM,M,75-79,3:11.32,Jack Mitchell,,Shark Tank SCM Meet,2018,2
+SYSM,200 M Backstroke,SCM,M,75-79,6:25.32,Jack Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+FACT,50 M Breaststroke,SCM,M,75-79,46.92,Martin P Schenk,,Rowdy Gaines Masters Classic X,2018,1
+SRQM,50 M Breaststroke,SCM,M,75-79,1:42.90,Raymond H Morton,,Shark Tank SCM Meet,2018,2
+SYSM,50 M Breaststroke,SCM,M,75-79,2:37.11,Jack Mitchell,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,3
+FACT,100 M Breaststroke,SCM,M,75-79,1:44.39,Martin P Schenk,,Rowdy Gaines Masters Classic X,2018,1
+FACT,200 M Breaststroke,SCM,M,75-79,3:53.10,Martin P Schenk,,Rowdy Gaines Masters Classic X,2018,1
+BDO,50 M Butterfly,SCM,M,75-79,54.74,Doug Messineo,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Butterfly,SCM,M,75-79,1:50.03,Martin P Schenk,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Individual Medley,SCM,M,75-79,1:42.32,Martin P Schenk,,Rowdy Gaines Masters Classic X,2018,1
+SYSM,100 M Individual Medley,SCM,M,75-79,2:16.37,Harry S Colburn,,Shark Tank SCM Meet,2018,2
+SRQM,100 M Individual Medley,SCM,M,75-79,3:18.41,Raymond H Morton,,Shark Tank SCM Meet,2018,3
+YCFM,50 M Freestyle,SCM,M,80-84,48.99,Victor Sirbu,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Freestyle,SCM,M,80-84,1:57.41,Victor Sirbu,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Breaststroke,SCM,M,80-84,47.38,William M Zani,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,50 M Breaststroke,SCM,M,80-84,1:04.67,Victor Sirbu,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,M,80-84,1:07.63,James F Browne,,Shark Tank SCM Meet,2018,3
+FACT,100 M Breaststroke,SCM,M,80-84,1:50.17,William M Zani,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,100 M Breaststroke,SCM,M,80-84,2:34.39,Victor Sirbu,,Rowdy Gaines Masters Classic X,2018,2
+FACT,200 M Breaststroke,SCM,M,80-84,4:07.37,William M Zani,,Rowdy Gaines Masters Classic X,2018,1
+YCFM,200 M Breaststroke,SCM,M,80-84,5:59.36,Victor Sirbu,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,100 M Butterfly,SCM,M,80-84,3:05.54,James F Browne,,Shark Tank SCM Meet,2018,1
+SYSM,100 M Individual Medley,SCM,M,80-84,2:13.11,James F Browne,,Shark Tank SCM Meet,2018,1
+SYSM,400 M Individual Medley,SCM,M,80-84,11:13.05,James F Browne,,Shark Tank SCM Meet,2018,1
+FACT,50 M Freestyle,SCM,M,90-94,56.97,John D Corse,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Freestyle,SCM,M,90-94,1:01.96,John E Cornell,,Rowdy Gaines Masters Classic X,2018,2
+FACT,100 M Freestyle,SCM,M,90-94,2:26.50,John E Cornell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Backstroke,SCM,M,90-94,1:11.46,John E Cornell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Backstroke,SCM,M,90-94,1:21.76,John D Corse,,Rowdy Gaines Masters Classic X,2018,2
+FACT,100 M Backstroke,SCM,M,90-94,2:45.21,John E Cornell,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Breaststroke,SCM,M,90-94,1:16.16,John D Corse,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Breaststroke,SCM,M,90-94,1:23.85,John E Cornell,,Rowdy Gaines Masters Classic X,2018,2
+SYSM,50 M Breaststroke,SCM,M,90-94,1:42.87,Hans J Hellmann,,Shark Tank SCM Meet,2018,3
+SYSM,100 M Breaststroke,SCM,M,90-94,4:00.78,Hans J Hellmann,,Shark Tank SCM Meet,2018,1
+SYSM,200 M Breaststroke,SCM,M,90-94,8:31.50,Hans J Hellmann,,Shark Tank SCM Meet,2018,1
+FACT,50 M Freestyle,SCM,M,95-99,1:13.74,Edwin H Graves,,Rowdy Gaines Masters Classic X,2018,1
+FACT,100 M Freestyle,SCM,M,95-99,3:14.60,Edwin H Graves,,Rowdy Gaines Masters Classic X,2018,1
+FACT,50 M Backstroke,SCM,M,95-99,1:17.63,Edwin H Graves,,Rowdy Gaines Masters Classic X,2018,1
