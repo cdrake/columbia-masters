@@ -4,6 +4,7 @@
 
 import type { Page } from "../../../shared/pages";
 import { pagesDir, type ApiError } from "../../../shared/publish";
+import { sitePath, type SiteSettings } from "../../../shared/site";
 
 export interface Env {
   /** Tenant slug; the same Pages variable the build uses. */
@@ -178,6 +179,22 @@ export class GitHub {
     }
   }
 
+  /** Blob sha of content/site.json at a commit, or null if the club hasn't chosen a design. */
+  async siteSha(tenant: string, commitSha: string): Promise<string | null> {
+    const dir = sitePath(tenant).replace(/\/[^/]+$/, "");
+    try {
+      const list = await this.api<{ name: string; sha: string; type: string }[]>("GET", `/contents/${dir}?ref=${commitSha}`);
+      return list.find((f) => f.type === "file" && f.name === "site.json")?.sha ?? null;
+    } catch (e) {
+      if (e instanceof GitHubError && e.status === 404) return null;
+      throw e;
+    }
+  }
+
+  async readSite(sha: string | null): Promise<SiteSettings | null> {
+    return sha ? (JSON.parse(await this.blobText(sha)) as SiteSettings) : null;
+  }
+
   async blobText(sha: string): Promise<string> {
     const blob = await this.api<{ content: string; encoding: string }>("GET", `/git/blobs/${sha}`);
     const bytes = Uint8Array.from(atob(blob.content.replace(/\n/g, "")), (c) => c.charCodeAt(0));
@@ -189,12 +206,14 @@ export class GitHub {
   }
 }
 
-/** Opaque version of the pages dir: hash of its sorted name:blob-sha list. */
-export async function pagesVersion(files: Record<string, string>): Promise<string> {
-  const text = Object.keys(files)
+/** Opaque version of the pages dir + site.json: hash of the sorted name:blob-sha list. */
+export async function pagesVersion(files: Record<string, string>, siteSha: string | null = null): Promise<string> {
+  const lines = Object.keys(files)
     .sort()
-    .map((name) => `${name}:${files[name]}`)
-    .join("\n");
+    .map((name) => `${name}:${files[name]}`);
+  // Absent site.json leaves the hash as it was before designs existed.
+  if (siteSha) lines.push(`../site.json:${siteSha}`);
+  const text = lines.join("\n");
   const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
   return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
 }

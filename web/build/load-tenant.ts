@@ -3,6 +3,7 @@ import path from "node:path";
 import matter from "gray-matter";
 import { Marked } from "marked";
 import { defaultHomePage, HOME_SLUG, validatePage, type Page } from "../shared/pages";
+import { validateSite, type SiteSettings } from "../shared/site";
 
 const marked = new Marked();
 
@@ -93,6 +94,8 @@ export interface Tenant {
   };
   /** Site pages from content/pages/*.json; home is always first. */
   pages: Page[];
+  /** Design template + accent from content/site.json (written by the editor); null = default look. */
+  site: SiteSettings | null;
   dir: string;
   publicDir: string;
 }
@@ -184,7 +187,14 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
 
   const pages = loadPages(path.join(contentDir, "pages"), publicDir);
 
-  return { config, aboutHtml, coaches, classes, fallback, pages, dir, publicDir };
+  const siteFile = path.join(contentDir, "site.json");
+  const site = readJsonIfExists<SiteSettings>(siteFile);
+  if (site) {
+    const errs = validateSite(site);
+    req(!errs.length, `${siteFile}:\n  ${errs.join("\n  ")}`);
+  }
+
+  return { config, aboutHtml, coaches, classes, fallback, pages, site, dir, publicDir };
 }
 
 /**

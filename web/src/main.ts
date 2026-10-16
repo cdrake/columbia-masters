@@ -10,6 +10,7 @@ import type {
 } from "./types";
 import tenant from "virtual:tenant";
 import { fetchAllSheets } from "./sheets";
+import { initThemePreview } from "./theme-preview";
 import "./style.css";
 
 const marked = new Marked();
@@ -560,4 +561,5 @@ function wireMobileNav() {
 
 // --- Go ---
 wireMobileNav();
+initThemePreview();
 init();

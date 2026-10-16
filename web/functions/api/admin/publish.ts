@@ -1,7 +1,7 @@
-// POST /api/admin/publish — commit the editor's pages (and new uploads) to the
-// deploy branch as one commit; Cloudflare Pages then rebuilds the site.
-// Only paths under tenants/<TENANT>/content/pages/ and .../public/uploads/ are
-// ever written, and every page passes the same validator the build uses.
+// POST /api/admin/publish — commit the editor's pages, design settings (and new
+// uploads) to the deploy branch as one commit; Cloudflare Pages then rebuilds.
+// Only tenants/<TENANT>/content/pages/*, content/site.json and public/uploads/*
+// are ever written, and pages/site pass the same validators the build uses.
 
 import {
   commitMessage,
@@ -13,6 +13,7 @@ import {
   type PublishRequest,
   type PublishResult,
 } from "../../../shared/publish";
+import { siteFileContent, sitePath } from "../../../shared/site";
 import { fail, GitHub, GitHubError, json, pagesVersion, type AdminFunction } from "./_lib";
 
 interface TreeEntry {
@@ -38,8 +39,8 @@ export const onRequestPost: AdminFunction = async ({ request, env, data }) => {
   const gh = new GitHub(env);
   const tenant = env.TENANT;
   const head = await gh.headSha();
-  const before = await gh.pageFiles(tenant, head);
-  if (!body.overwrite && body.version !== (await pagesVersion(before))) return fail(409, CONFLICT);
+  const [before, siteBefore] = await Promise.all([gh.pageFiles(tenant, head), gh.siteSha(tenant, head)]);
+  if (!body.overwrite && body.version !== (await pagesVersion(before, siteBefore))) return fail(409, CONFLICT);
 
   // Unchanged pages are skipped by comparing git blob shas, so a no-op publish makes no commit.
   const tree: TreeEntry[] = [];
@@ -55,13 +56,19 @@ export const onRequestPost: AdminFunction = async ({ request, env, data }) => {
   for (const name of Object.keys(before)) {
     if (!keep.has(name)) tree.push({ path: `${pagesDir(tenant)}/${name}`, mode: "100644", type: "blob", sha: null });
   }
+  if (body.site) {
+    const content = siteFileContent(body.site);
+    if (siteBefore !== (await gitBlobSha(content))) {
+      tree.push({ path: sitePath(tenant), mode: "100644", type: "blob", content });
+    }
+  }
   for (const u of body.uploads ?? []) {
     const blob = await gh.api<{ sha: string }>("POST", "/git/blobs", { content: u.dataBase64, encoding: "base64" });
     tree.push({ path: uploadPath(tenant, u.name), mode: "100644", type: "blob", sha: blob.sha });
   }
 
   if (!tree.length) {
-    return json(200, { version: await pagesVersion(before) } satisfies PublishResult);
+    return json(200, { version: await pagesVersion(before, siteBefore) } satisfies PublishResult);
   }
 
   const newTree = await gh.api<{ sha: string }>("POST", "/git/trees", { base_tree: await gh.treeSha(head), tree });
@@ -79,7 +86,7 @@ export const onRequestPost: AdminFunction = async ({ request, env, data }) => {
   }
 
   const result: PublishResult = {
-    version: await pagesVersion(await gh.pageFiles(tenant, commit.sha)),
+    version: await pagesVersion(await gh.pageFiles(tenant, commit.sha), await gh.siteSha(tenant, commit.sha)),
     commitUrl: commit.html_url,
   };
   return json(200, result);

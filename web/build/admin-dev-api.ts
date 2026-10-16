@@ -18,6 +18,7 @@ import {
   type PublishRequest,
   type PublishResult,
 } from "../shared/publish";
+import { siteFileContent, sitePath, type SiteSettings } from "../shared/site";
 
 function readPageFiles(repoRoot: string, slug: string): Record<string, string> {
   const dir = path.join(repoRoot, pagesDir(slug));
@@ -29,9 +30,15 @@ function readPageFiles(repoRoot: string, slug: string): Record<string, string> {
   return files;
 }
 
-function version(files: Record<string, string>): string {
+function readSiteFile(repoRoot: string, slug: string): string | null {
+  const file = path.join(repoRoot, sitePath(slug));
+  return fs.existsSync(file) ? fs.readFileSync(file, "utf8") : null;
+}
+
+function version(files: Record<string, string>, site: string | null): string {
   const h = crypto.createHash("sha1");
   for (const [name, content] of Object.entries(files)) h.update(`${name}\0${content}\0`);
+  if (site !== null) h.update(`site.json\0${site}\0`);
   return h.digest("hex");
 }
 
@@ -55,11 +62,13 @@ export function adminDevApi(webRoot: string, tenant: string): Connect.NextHandle
     try {
       if (url === "/api/admin/state" && req.method === "GET") {
         const files = readPageFiles(repoRoot, tenant);
+        const site = readSiteFile(repoRoot, tenant);
         const pages = Object.values(files).map((c) => JSON.parse(c) as Page);
         const state: AdminState = {
           tenant,
-          version: version(files),
+          version: version(files, site),
           pages: pages.length ? pages : [defaultHomePage()],
+          site: site === null ? null : (JSON.parse(site) as SiteSettings),
           user: process.env.USER ?? null,
           backend: "dev",
         };
@@ -72,7 +81,8 @@ export function adminDevApi(webRoot: string, tenant: string): Connect.NextHandle
         if (errors.length) return send(res, 400, { error: "Invalid pages", details: errors } satisfies ApiError);
 
         const before = readPageFiles(repoRoot, tenant);
-        if (!body.overwrite && body.version !== version(before)) {
+        const siteBefore = readSiteFile(repoRoot, tenant);
+        if (!body.overwrite && body.version !== version(before, siteBefore)) {
           return send(res, 409, { error: "The site changed since you started editing." } satisfies ApiError);
         }
 
@@ -92,7 +102,13 @@ export function adminDevApi(webRoot: string, tenant: string): Connect.NextHandle
           const content = pageFileContent(p);
           if (before[`${p.slug}.json`] !== content) fs.writeFileSync(file, content);
         }
-        const result: PublishResult = { version: version(readPageFiles(repoRoot, tenant)) };
+        if (body.site) {
+          const content = siteFileContent(body.site);
+          if (content !== siteBefore) fs.writeFileSync(path.join(repoRoot, sitePath(tenant)), content);
+        }
+        const result: PublishResult = {
+          version: version(readPageFiles(repoRoot, tenant), readSiteFile(repoRoot, tenant)),
+        };
         return send(res, 200, result);
       }
     } catch (e) {

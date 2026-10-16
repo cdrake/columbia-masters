@@ -22,8 +22,10 @@ import {
   type SectionId,
 } from "../../shared/pages";
 import type { AdminState } from "../../shared/publish";
+import { accentFor, accentVars, DEFAULT_THEME, THEME_IDS, THEMES, type SiteSettings } from "../../shared/site";
 import { ApiFailure, loadState, publish } from "./api";
 import { checkbox, field, h, textArea, textInput } from "./dom";
+import { designGallery } from "./design";
 import { blockForm, blockLabel } from "./forms";
 import {
   clearUploads,
@@ -41,6 +43,8 @@ let server: AdminState;
 let baseVersion = "";
 let pages: Page[] = [];
 let page: Page;
+/** Design settings (site.json); null = never chosen (the default theme, no file). */
+let site: SiteSettings | null = null;
 let selected: Block | null = null;
 let sectionPreviews: Partial<Record<SectionId, string>> = {};
 let blockSortable: Sortable | null = null;
@@ -64,7 +68,10 @@ function canonical(ps: Page[]): string {
   return JSON.stringify([...ps].sort((a, b) => a.slug.localeCompare(b.slug)));
 }
 
-const isDirty = () => canonical(pages) !== canonical(server.pages) || pendingUploads().length > 0;
+const isDirty = () =>
+  canonical(pages) !== canonical(server.pages) ||
+  JSON.stringify(site) !== JSON.stringify(server.site ?? null) ||
+  pendingUploads().length > 0;
 
 function problems(): string[] {
   const errs: string[] = [];
@@ -88,7 +95,7 @@ function persist() {
     pruneUploads(JSON.stringify(pages));
     try {
       if (!isDirty()) return localStorage.removeItem(draftKey());
-      const draft = { version: baseVersion, pages, uploads: exportUploads() };
+      const draft = { version: baseVersion, pages, site, uploads: exportUploads() };
       try {
         localStorage.setItem(draftKey(), JSON.stringify(draft));
       } catch {
@@ -105,9 +112,15 @@ function restoreDraft(): boolean {
   try {
     const raw = localStorage.getItem(draftKey());
     if (!raw) return false;
-    const draft = JSON.parse(raw) as { version: string; pages: Page[]; uploads?: Parameters<typeof importUploads>[0] };
+    const draft = JSON.parse(raw) as {
+      version: string;
+      pages: Page[];
+      site?: SiteSettings | null;
+      uploads?: Parameters<typeof importUploads>[0];
+    };
     if (!Array.isArray(draft.pages) || !draft.pages.some(isHome)) return false;
     pages = draft.pages;
+    if (draft.site !== undefined) site = draft.site;
     baseVersion = draft.version;
     importUploads(draft.uploads);
     return true;
@@ -138,6 +151,7 @@ function propsChanged() {
 const ui = {
   status: h("div", { class: "adm-status", role: "status" }),
   view: h("a", { class: "adm-top-link", target: "_blank", rel: "noopener" }, "View live page ↗"),
+  design: h("button", { type: "button", class: "adm-secondary", onclick: () => designFlow() }, "Design"),
   discard: h("button", { type: "button", class: "adm-secondary", onclick: () => discard() }, "Discard changes"),
   publish: h("button", { type: "button", class: "adm-primary", onclick: () => publishFlow() }, "Publish"),
   pages: h("ul", { class: "adm-pages" }),
@@ -157,7 +171,7 @@ function mountSkeleton() {
       { class: "adm-top" },
       h("div", { class: "adm-brand" }, "Site Editor ", h("span", {}, server.tenant.toUpperCase())),
       ui.status,
-      h("div", { class: "adm-actions" }, ui.user, ui.view, ui.discard, ui.publish)
+      h("div", { class: "adm-actions" }, ui.user, ui.view, ui.design, ui.discard, ui.publish)
     ),
     h(
       "div",
@@ -353,6 +367,7 @@ function renderCanvas() {
     list.append(h("div", { class: "adm-drop-hint" }, "Drag a block here from the left to start building this page."));
   }
   ui.canvas.replaceChildren(frame);
+  applyTheme(site);
 
   blockSortable?.destroy();
   blockSortable = Sortable.create(list, {
@@ -597,13 +612,20 @@ async function doPublish(message: string, overwrite: boolean) {
   ui.publish.disabled = true;
   ui.publish.textContent = "Publishing…";
   try {
-    const result = await publish({ version: baseVersion, overwrite, message, pages, uploads: pendingUploads() });
+    const result = await publish({
+      version: baseVersion,
+      overwrite,
+      message,
+      pages,
+      ...(site ? { site } : {}),
+      uploads: pendingUploads(),
+    });
     try {
       sessionStorage.setItem(PUBLISHED_FLAG, result.commitUrl ?? "");
     } catch {
       // ignore
     }
-    server = { ...server, version: result.version, pages: clone(pages) };
+    server = { ...server, version: result.version, pages: clone(pages), site: site ? clone(site) : null };
     baseVersion = result.version;
     clearUploads();
     try {
@@ -647,6 +669,7 @@ async function reloadFromServer() {
   server = await loadState();
   server.pages.sort((a, b) => (isHome(a) ? -1 : isHome(b) ? 1 : 0));
   pages = clone(server.pages);
+  site = server.site ? clone(server.site) : null;
   baseVersion = server.version;
   clearUploads();
   try {
@@ -744,6 +767,50 @@ function toast(message: string, kind: "ok" | "error" | "info", link?: { href: st
   if (kind !== "error") toastTimer = setTimeout(() => (ui.toast.hidden = true), 8000);
 }
 
+// --- Design (theme + accent) ---
+
+/** Show a theme on the canvas (null = the current draft's). The default theme needs no attribute. */
+function applyTheme(s: SiteSettings | null) {
+  const eff = s ?? site;
+  if (eff && eff.theme !== DEFAULT_THEME) {
+    ui.canvas.dataset.theme = eff.theme;
+  } else {
+    delete ui.canvas.dataset.theme;
+  }
+  ui.canvas.setAttribute("style", eff ? accentVars(eff) : "");
+}
+
+/** Every theme's web fonts, so previews and the gallery render in the real type. */
+function loadThemeFonts() {
+  const fonts = THEME_IDS.map((id) => THEMES[id].fonts).filter((f): f is string => !!f);
+  if (!fonts.length) return;
+  document.head.append(
+    h("link", { rel: "preconnect", href: "https://fonts.googleapis.com" }),
+    h("link", { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" }),
+    ...fonts.map((href) => h("link", { rel: "stylesheet", href }))
+  );
+}
+
+async function designFlow() {
+  const chosen = await designGallery({
+    current: site ?? { theme: DEFAULT_THEME },
+    previews: sectionPreviews,
+    tenantName: server.tenant.toUpperCase(),
+    preview: (s) => applyTheme(s),
+  });
+  applyTheme(null);
+  if (!chosen) return;
+  const accent = chosen.accent && chosen.accent !== THEMES[chosen.theme].accents[0] ? chosen.accent : undefined;
+  const next: SiteSettings = accent ? { theme: chosen.theme, accent } : { theme: chosen.theme };
+  // Picking the default look when no file exists stays "no file".
+  if (!server.site && !site && next.theme === DEFAULT_THEME && !next.accent) return;
+  site = next;
+  applyTheme(null);
+  persist();
+  renderStatus();
+  toast(`Design set to ${THEMES[next.theme].label}${accent ? ` with accent ${accentFor(next)}` : ""}. Publish to make it live.`, "info");
+}
+
 // --- Section previews (from the live home page) ---
 
 async function loadSectionPreviews() {
@@ -777,9 +844,11 @@ async function boot() {
   server.pages.sort((a, b) => (isHome(a) ? -1 : isHome(b) ? 1 : 0));
   baseVersion = server.version;
   pages = clone(server.pages);
+  site = server.site ? clone(server.site) : null;
   const restored = restoreDraft();
 
   mountSkeleton();
+  loadThemeFonts();
   await loadSectionPreviews();
   selectPage(pages.find(isHome)!);
 

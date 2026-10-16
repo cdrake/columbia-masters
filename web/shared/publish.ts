@@ -2,13 +2,16 @@
 // (build/admin-dev-api.ts) and the Cloudflare Pages Functions (functions/api/admin).
 
 import { HOME_SLUG, validatePage, type Page } from "./pages";
+import { validateSite, type SiteSettings } from "./site";
 
 /** GET /api/admin/state */
 export interface AdminState {
   tenant: string;
-  /** Opaque version of the pages dir; echoed back on publish for conflict detection. */
+  /** Opaque version of the pages dir + site.json; echoed back on publish for conflict detection. */
   version: string;
   pages: Page[];
+  /** content/site.json (design template + accent); null = not chosen yet (default look). */
+  site: SiteSettings | null;
   user: string | null;
   backend: "dev" | "github";
 }
@@ -26,6 +29,8 @@ export interface PublishRequest {
   overwrite?: boolean;
   message?: string;
   pages: Page[];
+  /** Write content/site.json; omitted = leave it as is. */
+  site?: SiteSettings;
   uploads?: PublishUpload[];
 }
 
@@ -80,6 +85,7 @@ export function validatePublish(body: unknown): string[] {
       errs.push(`upload "${u.name}" is missing or larger than ${MAX_UPLOAD_BYTES / 1e6} MB`);
     }
   }
+  if (req.site !== undefined) for (const e of validateSite(req.site)) errs.push(`design: ${e}`);
   if (req.message !== undefined && typeof req.message !== "string") errs.push("message must be a string");
   return errs;
 }

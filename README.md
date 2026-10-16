@@ -122,6 +122,25 @@ Club web admins can rearrange the home page, add content blocks, and create new 
 
 **Local:** `cd web && TENANT=colm npm run dev`, then open http://localhost:5173/admin/. In dev, Publish writes the tenant files directly; nothing is committed.
 
+### Choosing a design
+
+Every club can choose a site template in the editor, much like picking a theme in Word. Click **Design** in the editor's top bar. Hover over a design to preview it on the page, pick an accent color (or a custom one), then click **Apply design** and **Publish**.
+
+| Design | Look |
+|--------|------|
+| **Lane Line** (default) | Classic navy and gold, clean cards, centered headings |
+| **Deep End** | Dark and athletic, huge condensed headlines, bright accent |
+| **Morning Swim** | Bright and rounded, friendly type, a sunny lane-tile hero |
+
+- The choice is saved in `tenants/<slug>/content/site.json`, for example `{ "theme": "morning-swim", "accent": "#ffd166" }`. If the file is missing, the club gets Lane Line with its `tenant.json` colors. A bad value fails the build, so the last good deploy stays live.
+- Designs change only CSS and fonts. The content, Sheet overrides and element ids are the same in every design.
+- A chosen accent is applied to `<html>`, so it takes priority over `colors.accent` in `tenant.json`.
+- **Preview without publishing:** add `?theme=<id>&accent=%23rrggbb` to any page URL, for example `/?theme=deep-end`. The **Preview full site** link in the Design gallery opens one. The design switches in the browser, and nothing is saved. On the dev server, a floating **Design** switcher in the corner changes it live.
+- To add a design:
+  1. Add an entry to `THEMES` in `web/shared/site.ts`.
+  2. Create `web/src/themes/<id>.css`, with every rule scoped under `[data-theme="<id>"]`. The token block must use `:root[data-theme="<id>"], [data-theme="<id>"]`.
+- The standalone `/workouts/` page is a static file outside the build, so it keeps the default look.
+
 ### One-time setup per club (Cloudflare dashboard)
 
 1. **Access application.** Go to Zero Trust → Access → Applications → *Self-hosted*. Add these hostnames/paths:

@@ -10,10 +10,31 @@ const RESOLVED_VIRTUAL_ID = "\0" + VIRTUAL_ID;
 /** Only the site template is tenant-rendered (not e.g. admin/index.html). */
 const isSiteTemplate = (p: string) => p === "/index.html";
 
-export function tenantPlugin(webRoot: string, slug: string): Plugin {
+export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
   let tenant = loadTenant(webRoot, slug);
 
-  return {
+  // Runs before Vite processes the HTML, so the theme stylesheet link is
+  // bundled/hashed; everything else is filled after (see transformIndexHtml below).
+  const theme: Plugin = {
+    name: "tenant-theme",
+    transformIndexHtml: {
+      order: "pre",
+      handler(html, ctx) {
+        if (!isSiteTemplate(ctx.path)) return html;
+        if (!html.includes("<!-- tenant:theme -->")) {
+          throw new Error("[tenant] index.html is missing marker <!-- tenant:theme -->");
+        }
+        return html
+          .replace(/^([ \t]*)<!-- tenant:theme -->\n/m, (_, indent: string) => {
+            const head = render.themeHead(tenant);
+            return head ? `${indent}${head}\n` : "";
+          })
+          .replace(/<html([^>]*)>/, (_, attrs: string) => `<html${attrs}${render.themeAttrs(tenant)}>`);
+      },
+    },
+  };
+
+  const main: Plugin = {
     name: "tenant",
 
     // Reload tenant files on dev-server restart-worthy changes.
@@ -96,4 +117,6 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin {
       },
     },
   };
+
+  return [theme, main];
 }

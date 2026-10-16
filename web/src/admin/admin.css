@@ -617,3 +617,171 @@
     padding: 0.5rem;
   }
 }
+
+/* --- Design (themes) --- */
+
+/* Themed canvas: the theme's type, colors and page background. */
+.adm-canvas-inner,
+.adm-thumb-inner {
+  font-family: var(--font-body);
+  color: var(--text);
+}
+
+.adm-canvas-inner[data-theme] .adm-block {
+  background: var(--bg);
+}
+
+/* Keep the editor's own controls in the editor look whatever the theme. */
+.adm-block-bar {
+  --navy: #16213e;
+  --text-muted: #667085;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #16213e;
+}
+
+/* Morning Swim's decorative hero art is sized for a full-width window. */
+[data-theme="morning-swim"] .adm-frame #hero::before,
+[data-theme="morning-swim"] .adm-frame #hero::after {
+  display: none;
+}
+
+[data-theme="morning-swim"] .adm-frame .hero-content {
+  padding-right: 0;
+}
+
+/* The gallery sits under the top bar without dimming, so hover previews show. */
+.adm-design {
+  max-width: 980px;
+  margin: 64px auto auto;
+  max-height: calc(100vh - 80px);
+  overflow-y: auto;
+  border: 1px solid #d0d6e2;
+}
+
+.adm-design::backdrop {
+  background: transparent;
+}
+
+.adm-themes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.adm-theme {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 0;
+  border: 2px solid #d9dee8;
+  border-radius: 10px;
+  background: var(--white);
+  overflow: hidden;
+  cursor: pointer;
+  font: inherit;
+  color: var(--text);
+}
+
+.adm-theme:hover,
+.adm-theme:focus-visible {
+  border-color: #8fa6d1;
+  outline: none;
+}
+
+.adm-theme.is-selected {
+  border-color: var(--blue);
+  box-shadow: 0 0 0 3px #d6e2f7;
+}
+
+.adm-thumb {
+  position: relative;
+  height: 170px;
+  overflow: hidden;
+  border-bottom: 1px solid #e3e7ef;
+  background: #fff;
+}
+
+/* Rendered at desktop width (card width / 0.24), then scaled down to fit. */
+.adm-thumb-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% / 0.24);
+  transform: scale(0.24);
+  transform-origin: top left;
+  background: var(--bg);
+  pointer-events: none;
+}
+
+.adm-theme-text {
+  display: grid;
+  gap: 0.25rem;
+  padding: 0.7rem 0.85rem 0.85rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.adm-theme-text strong {
+  font-size: 1rem;
+  color: var(--navy);
+}
+
+.adm-theme-text em {
+  font-style: normal;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.adm-accent-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.adm-swatches {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.adm-swatch {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #c5cbd8;
+  cursor: pointer;
+}
+
+.adm-swatch.is-selected {
+  box-shadow: 0 0 0 2px var(--navy);
+}
+
+.adm-swatch-custom {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.adm-swatch-custom input {
+  width: 2.2rem;
+  height: 2rem;
+  padding: 0;
+  border: 1px solid #c5cbd8;
+  border-radius: 6px;
+  background: none;
+  cursor: pointer;
+}
+
+.adm-design-preview {
+  margin-right: auto;
+  align-self: center;
+  color: var(--blue);
+  font-size: 0.9rem;
+}
