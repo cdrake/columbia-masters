@@ -58,6 +58,7 @@ Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenant
 - Page editor: `web/admin/index.html` + `web/src/admin/` (vanilla TS + SortableJS), served at `/admin/`. Production API is Cloudflare Pages Functions in `web/functions/api/admin/` (Access JWT check in `_middleware.ts`; `publish.ts` commits via GitHub Git Data API, 409 on conflicts). Setup steps: README "Editing the Site".
 - `web/src/themes/<id>.css` — design themes, CSS-only and scoped by `[data-theme]` (token block `:root[data-theme=…]` so it outranks style.css in any load order). Lane Line is plain style.css. The editor's Design gallery (`web/src/admin/design.ts`) previews them on the canvas.
 - `web/src/main.ts` — all runtime rendering; fetches records via `tenant.teamCode`, Sheet CSVs via `virtual:tenant` sheetUrls, gallery/locations index.json.
+- Public records query API: `GET /api/records` (`web/functions/api/records.ts`, logic in `web/shared/records.ts`, dev route in `tenant-plugin.ts`). Reads the deployed `data/index.json` → records file; documented for agents in llms.txt and index.json `api` (`_records_api` in cli.py). robots.txt allows it ahead of `Disallow: /api/`.
 
 ## Key Details
 

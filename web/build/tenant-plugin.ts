@@ -1,4 +1,7 @@
 import type { Plugin } from "vite";
+import fs from "node:fs";
+import path from "node:path";
+import { answer } from "../shared/records";
 import { adminDevApi } from "./admin-dev-api";
 import { loadTenant, sheetUrls } from "./load-tenant";
 import { composePage, loadSectionPartials, pageForUrl, renderShell } from "./pages";
@@ -41,6 +44,22 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
     configureServer(server) {
       // /api/admin/* backed by the local tenant files (see functions/ for production).
       server.middlewares.use(adminDevApi(webRoot, slug));
+
+      // /api/records from the tenant's data files (see functions/api/records.ts).
+      server.middlewares.use("/api/records", (req, res) => {
+        const dataDir = path.join(tenant.publicDir, "data");
+        const records = JSON.parse(
+          fs.readFileSync(path.join(dataDir, `${tenant.config.teamCode}_all_records.json`), "utf8")
+        );
+        const { status, body } = answer(
+          tenant.config.teamCode,
+          records,
+          new URL(req.url ?? "", "http://dev").searchParams
+        );
+        res.statusCode = status;
+        res.setHeader("Content-Type", "application/json; charset=utf-8");
+        res.end(JSON.stringify(body));
+      });
 
       const sectionsDir = `${webRoot}/build/sections`;
       server.watcher.add([tenant.dir, sectionsDir]);

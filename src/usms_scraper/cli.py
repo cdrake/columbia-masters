@@ -155,6 +155,34 @@ def _save_records_csv(records: list[dict], path: Path) -> None:
     write_records_csv(records, path)
 
 
+def _records_api(domain: str) -> dict:
+    """index.json entry describing the GET /api/records query endpoint (web/functions)."""
+    return {
+        "url": f"{domain}/api/records",
+        "method": "GET",
+        "description": (
+            "Query the records instead of downloading the whole file. Rows are each season's "
+            "top time per event/course/gender/age group; best=true returns only all-time bests. "
+            "Responds with {team, query, total, count, records}."
+        ),
+        "parameters": {
+            "event": "Distance and/or stroke, e.g. '50 free', '200 IM', 'backstroke'",
+            "course": "scy, scm or lcm",
+            "gender": "men or women",
+            "ageGroup": "USMS age group, e.g. '40-44' (or age=42)",
+            "year": "Four-digit season year",
+            "swimmer": "Case-insensitive name substring",
+            "meet": "Case-insensitive meet-name substring",
+            "best": "true for only the fastest matching swim per event/course/gender/age group",
+            "limit": "Max rows, 1-1000 (default 100)",
+        },
+        "examples": [
+            f"{domain}/api/records?event=50+free&course=scy&gender=women&best=true",
+            f"{domain}/api/records?swimmer=smith",
+        ],
+    }
+
+
 def _new_data_index(tenant: Tenant, record_count: int) -> dict:
     """Create a fresh data index.json from tenant config."""
     c = tenant.raw
@@ -201,6 +229,7 @@ def _new_data_index(tenant: Tenant, record_count: int) -> dict:
                 },
             }
         ],
+        "api": _records_api(tenant.domain),
         "source": "US Masters Swimming (usms.org) top times database",
     }
 

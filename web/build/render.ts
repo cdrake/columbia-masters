@@ -259,6 +259,7 @@ export function robotsTxt(t: Tenant): string {
   return `User-agent: *
 Allow: /
 Allow: /data/
+Allow: /api/records
 Disallow: /admin/
 Disallow: /api/
 
@@ -303,6 +304,10 @@ Pool: ${c.pool}, ${c.address.street}, ${c.address.city}, ${c.address.region} ${c
 
 - [Data Index](${c.domain}/data/index.json): Machine-readable index describing all available datasets, their schemas, and download URLs
 - [All Team Records](${c.domain}/data/${c.teamCode}_all_records.json): JSON array of all ${c.teamCode} top times across every course (SCY/SCM/LCM), event, gender, and age group
+
+## Query API
+
+- [Records query](${c.domain}/api/records?event=50+free&course=scy&gender=women&best=true): \`GET /api/records\` returns only matching rows as JSON \`{team, query, total, count, records}\` — prefer it to downloading the full file. Parameters (all optional): \`event\` (distance and/or stroke, e.g. "50 free", "200 IM", "backstroke"), \`course\` (scy/scm/lcm), \`gender\` (men/women), \`ageGroup\` (e.g. 40-44) or \`age\` (e.g. 42), \`year\`, \`swimmer\` and \`meet\` (name substrings), \`best=true\` (only the fastest matching swim per event/course/gender/age group — the club record when no year is given; otherwise one row per season), \`limit\` (default 100, max 1000). Bad parameters return 400 with details.
 
 ## Site
 
