@@ -1,0 +1,45 @@
+    <!-- Records -->
+    <section id="records" class="section">
+      <div class="container">
+        <h2>Team Records</h2>
+
+        <div class="controls">
+          <input
+            type="search"
+            id="search"
+            placeholder="Search swimmer, event, or meet..."
+            autocomplete="off"
+          />
+          <div class="filters">
+            <select id="filter-course"><option value="">All Courses</option></select>
+            <select id="filter-gender"><option value="">All Genders</option></select>
+            <select id="filter-year"><option value="">All Years</option></select>
+            <select id="filter-event"><option value="">All Strokes</option></select>
+            <select id="filter-distance"><option value="">All Distances</option></select>
+            <select id="filter-age"><option value="">All Age Groups</option></select>
+          </div>
+        </div>
+
+        <div class="status">
+          <span id="record-count">Loading...</span>
+        </div>
+
+        <div class="table-wrap">
+          <table id="results">
+            <thead>
+              <tr>
+                <th data-sort="event">Event</th>
+                <th data-sort="swimmer">Swimmer</th>
+                <th data-sort="time">Time</th>
+                <th data-sort="ageGroup">Age Group</th>
+                <th data-sort="course">Course</th>
+                <th data-sort="gender">Gender</th>
+                <th data-sort="year">Year</th>
+                <th data-sort="meet">Meet</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>

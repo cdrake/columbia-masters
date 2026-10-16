@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ title }}</title>
-    <meta name="description" content="{{ description }}" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -23,173 +23,15 @@
     <!-- Navigation -->
     <nav id="main-nav">
       <div class="nav-inner">
-        <a href="#" class="nav-logo">{{ shortName }}</a>
+        <a href="{{ page.homeHref }}" class="nav-logo">{{ shortName }}</a>
         <button class="nav-toggle" aria-label="Toggle menu">&#9776;</button>
         <ul class="nav-links">
-          <li><a href="#about">About</a></li>
-          <li><a href="#schedule">Schedule</a></li>
-          <li><a href="#events">Events</a></li>
-          <li><a href="#classes">Classes</a></li>
-          <li><a href="#faq">FAQ</a></li>
-          <li><a href="#gallery">Gallery</a></li>
-          <li><a href="#coaches">Coaches</a></li>
-          <li><a href="#board">Board</a></li>
-          <li><a href="#records">Records</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <!-- tenant:page-nav -->
         </ul>
       </div>
     </nav>
 
-    <!-- Hero -->
-    <section id="hero">
-      <div class="hero-content">
-        <h1>{{ name }}</h1>
-        <p id="hero-sub" class="hero-sub">{{ heroSub }}</p>
-        <p id="hero-tagline" class="hero-tagline">{{ heroTagline }}</p>
-        <div class="hero-actions">
-          <a href="#records" class="btn btn-primary">View Team Records</a>
-          <a href="#schedule" class="btn btn-outline">Practice Schedule</a>
-        </div>
-      </div>
-    </section>
-
-    <!-- About -->
-    <section id="about" class="section">
-      <div class="container">
-        <h2>About {{ shortName }}</h2>
-        <div class="about-grid">
-          <div id="about-text" class="about-text">
-            <!-- tenant:about-text -->
-          </div>
-          <div class="about-card">
-            <h3>Quick Facts</h3>
-            <dl id="about-facts">
-              <!-- tenant:quick-facts -->
-            </dl>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Practice Schedule -->
-    <section id="schedule" class="section section-alt">
-      <div class="container">
-        <h2>Practice Schedule</h2>
-        <div id="schedule-grid" class="schedule-grid">
-          <!-- Populated from Google Sheets at runtime; static fallback below -->
-          <!-- tenant:schedule-fallback -->
-        </div>
-        <div id="location-info" class="location-info"></div>
-        <p id="schedule-note" class="schedule-note">{{ scheduleNote }}</p>
-      </div>
-    </section>
-
-    <!-- Events -->
-    <section id="events" class="section">
-      <div class="container">
-        <h2>Upcoming Events</h2>
-        <div id="events-list" class="events-list">
-          <!-- Populated from Google Sheets at runtime; static fallback below -->
-          <!-- tenant:events-fallback -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Classes & Programs -->
-    <section id="classes" class="section">
-      <div class="container">
-        <h2>Classes &amp; Programs</h2>
-        <div id="classes-list" class="classes-list">
-          <!-- tenant:classes -->
-        </div>
-      </div>
-    </section>
-
-    <!-- FAQ -->
-    <section id="faq" class="section section-alt">
-      <div class="container">
-        <h2>Frequently Asked Questions</h2>
-        <div id="faq-list" class="faq-list">
-          <!-- Populated from Google Sheets at runtime; static fallback below -->
-          <!-- tenant:faq-fallback -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Photo Gallery -->
-    <section id="gallery" class="section" hidden>
-      <div class="container">
-        <h2>Photo Gallery</h2>
-        <div id="gallery-nav" class="gallery-nav"></div>
-        <div id="gallery-detail" class="gallery-detail"></div>
-      </div>
-    </section>
-
-    <!-- Coaches -->
-    <section id="coaches" class="section">
-      <div class="container">
-        <h2>Meet Our Coaches</h2>
-        <div class="coach-list">
-          <!-- tenant:coaches -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Board -->
-    <section id="board" class="section section-alt">
-      <div class="container">
-        <h2>Board &amp; Leadership</h2>
-        <div id="board-grid" class="board-grid">
-          <!-- tenant:board-fallback -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Records -->
-    <section id="records" class="section">
-      <div class="container">
-        <h2>Team Records</h2>
-
-        <div class="controls">
-          <input
-            type="search"
-            id="search"
-            placeholder="Search swimmer, event, or meet..."
-            autocomplete="off"
-          />
-          <div class="filters">
-            <select id="filter-course"><option value="">All Courses</option></select>
-            <select id="filter-gender"><option value="">All Genders</option></select>
-            <select id="filter-year"><option value="">All Years</option></select>
-            <select id="filter-event"><option value="">All Strokes</option></select>
-            <select id="filter-distance"><option value="">All Distances</option></select>
-            <select id="filter-age"><option value="">All Age Groups</option></select>
-          </div>
-        </div>
-
-        <div class="status">
-          <span id="record-count">Loading...</span>
-        </div>
-
-        <div class="table-wrap">
-          <table id="results">
-            <thead>
-              <tr>
-                <th data-sort="event">Event</th>
-                <th data-sort="swimmer">Swimmer</th>
-                <th data-sort="time">Time</th>
-                <th data-sort="ageGroup">Age Group</th>
-                <th data-sort="course">Course</th>
-                <th data-sort="gender">Gender</th>
-                <th data-sort="year">Year</th>
-                <th data-sort="meet">Meet</th>
-              </tr>
-            </thead>
-            <tbody></tbody>
-          </table>
-        </div>
-      </div>
-    </section>
+    <!-- tenant:page-body -->
 
     <!-- Contact / Footer -->
     <footer id="contact">

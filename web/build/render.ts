@@ -233,19 +233,32 @@ export function robotsTxt(t: Tenant): string {
   return `User-agent: *
 Allow: /
 Allow: /data/
+Disallow: /admin/
+Disallow: /api/
 
 Sitemap: ${t.config.domain}/sitemap.xml
 `;
 }
 
 export function sitemapXml(t: Tenant): string {
+  const pages = t.pages
+    .slice(1)
+    .map(
+      (p) => `
+  <url>
+    <loc>${t.config.domain}/${p.slug}/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>`
+    )
+    .join("");
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>${t.config.domain}/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
+  </url>${pages}
 </urlset>
 `;
 }
@@ -268,6 +281,9 @@ Pool: ${c.pool}, ${c.address.street}, ${c.address.city}, ${c.address.region} ${c
 ## Site
 
 - [Home](${c.domain}/): Main site with about info, practice schedule, upcoming events, coach bios, board members, and searchable team records
-- [Sitemap](${c.domain}/sitemap.xml): XML sitemap
+${t.pages
+  .slice(1)
+  .map((p) => `- [${p.title}](${c.domain}/${p.slug}/)${p.description ? `: ${p.description}` : ""}\n`)
+  .join("")}- [Sitemap](${c.domain}/sitemap.xml): XML sitemap
 `;
 }
