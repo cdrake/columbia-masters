@@ -30,6 +30,26 @@
       }
     }
   ],
+  "api": {
+    "url": "https://www.columbiamastersswim.org/api/records",
+    "method": "GET",
+    "description": "Query the records instead of downloading the whole file. Rows are each season's top time per event/course/gender/age group; best=true returns only all-time bests. Responds with {team, query, total, count, records}.",
+    "parameters": {
+      "event": "Distance and/or stroke, e.g. '50 free', '200 IM', 'backstroke'",
+      "course": "scy, scm or lcm",
+      "gender": "men or women",
+      "ageGroup": "USMS age group, e.g. '40-44' (or age=42)",
+      "year": "Four-digit season year",
+      "swimmer": "Case-insensitive name substring",
+      "meet": "Case-insensitive meet-name substring",
+      "best": "true for only the fastest matching swim per event/course/gender/age group",
+      "limit": "Max rows, 1-1000 (default 100)"
+    },
+    "examples": [
+      "https://www.columbiamastersswim.org/api/records?event=50+free&course=scy&gender=women&best=true",
+      "https://www.columbiamastersswim.org/api/records?swimmer=smith"
+    ]
+  },
   "source": "US Masters Swimming (usms.org) top times database",
   "lastUpdated": "2026-09-28"
 }
