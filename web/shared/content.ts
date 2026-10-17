@@ -339,7 +339,7 @@ export function llmsTxt(m: SiteManifest, c: ClubContent): string {
   out.push("## About", "");
   out.push(`- Team code: ${club.teamCode} (US Masters Swimming)`);
   out.push(`- LMSC: ${club.lmsc}`);
-  out.push(`- Pool: ${club.pool}, ${a.street}, ${a.city}, ${a.region} ${a.postalCode}`);
+  if (club.pool) out.push(`- Pool: ${club.pool}, ${a.street}, ${a.city}, ${a.region} ${a.postalCode}`);
   out.push(`- Website: ${d}/`);
   out.push("");
   for (const p of c.about) out.push(oneLine(p), "");

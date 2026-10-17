@@ -30,10 +30,10 @@ TIMEOUT = 30
 
 
 def sheet_url(tenant: Tenant, tab: str) -> str | None:
-    """Published-CSV URL for a tab, or None when the tenant has no gid for it."""
+    """Published-CSV URL for a tab, or None when the tenant has no gid for it (or no Sheet yet)."""
     sheet = tenant.raw.get("sheet", {})
     gid = sheet.get("gids", {}).get(tab)
-    if gid is None:
+    if gid is None or sheet.get("publishedId") == "PENDING":
         return None
     return (
         f"https://docs.google.com/spreadsheets/d/e/{sheet['publishedId']}/pub"

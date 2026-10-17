@@ -168,7 +168,7 @@ function getFiltered(): TeamRecord[] {
     if (age && r.ageGroup !== age) return false;
     if (year && r.year !== year) return false;
     if (query) {
-      const haystack = `${r.swimmer} ${r.event} ${r.meet}`.toLowerCase();
+      const haystack = `${r.swimmer} ${r.event} ${r.meet} ${r.team}`.toLowerCase();
       if (!haystack.includes(query)) return false;
     }
     return true;
@@ -187,15 +187,20 @@ function getSorted(records: TeamRecord[]): TeamRecord[] {
   });
 }
 
+const MAX_ROWS = 500;
+
 function render() {
   const filtered = getFiltered();
   const sorted = getSorted(filtered);
 
   const tbody = $<HTMLTableSectionElement>("#results tbody");
+  const teamCol = tenant.kind === "lmsc";
+  // Thousands of <tr>s make filtering sluggish (state sites have ~18k rows), so cap the table.
   tbody.innerHTML = sorted
+    .slice(0, MAX_ROWS)
     .map(
       (r) => `<tr>
-      <td>${esc(r.event)}</td>
+      ${teamCol ? `<td>${esc(r.team)}</td>` : ""}<td>${esc(r.event)}</td>
       <td>${esc(r.swimmer)}</td>
       <td class="time">${esc(r.time)}</td>
       <td>${esc(r.ageGroup)}</td>
@@ -208,7 +213,11 @@ function render() {
     .join("");
 
   $<HTMLSpanElement>("#record-count").textContent =
-    `Showing ${sorted.length} of ${allRecords.length} records`;
+    sorted.length > MAX_ROWS
+      ? `Showing the first ${MAX_ROWS} of ${sorted.length}${
+          sorted.length < allRecords.length ? ` matching (${allRecords.length} total)` : ""
+        } records — search or filter to narrow`
+      : `Showing ${sorted.length} of ${allRecords.length} records`;
 }
 
 // --- Sheet Renderers ---

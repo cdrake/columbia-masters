@@ -1,0 +1,28 @@
+{
+  "slug": "home",
+  "title": "",
+  "description": "",
+  "nav": null,
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "section"
+    },
+    {
+      "id": "about",
+      "type": "section"
+    },
+    {
+      "id": "b-clubs",
+      "type": "richText",
+      "props": {
+        "title": "Find a Club",
+        "markdown": "- **[Columbia Masters](https://columbiamastersswim.org)** (COLM) — Columbia\n- **[Palmetto Masters](http://localhost:5173/)** (PALM) — Mt. Pleasant & North Charleston\n- **[Greenville Splash Masters](https://gs.swimclubs.org)** (GS) — Greenville · *site coming soon*\n- **[Grand Strand Masters Swimming](https://gsms.swimclubs.org)** (GSMS) — North Myrtle Beach · *site coming soon*\n- **[Lowcountry Masters Swimming](https://loco.swimclubs.org)** (LOCO) — Beaufort · *site coming soon*\n- **[Sun City Hilton Head Masters](https://schh.swimclubs.org)** (SCHH) — Bluffton · *site coming soon*\n- **[SMRT](https://smrt.swimclubs.org)** · *site coming soon*\n- **[UP](https://up.swimclubs.org)** · *site coming soon*\n- **South Carolina State Team** (SCC) — swims together at USMS Nationals"
+      }
+    },
+    {
+      "id": "records",
+      "type": "section"
+    }
+  ]
+}

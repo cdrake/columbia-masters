@@ -1,6 +1,8 @@
 declare module "virtual:tenant" {
   interface TenantRuntime {
     slug: string;
+    /** "lmsc" = state site: records span every club in the LMSC. */
+    kind: "club" | "lmsc";
     teamCode: string;
     sheetUrls: {
       events: string;

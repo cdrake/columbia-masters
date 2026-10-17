@@ -132,6 +132,7 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
       if (id !== RESOLVED_VIRTUAL_ID) return;
       const runtime = {
         slug: tenant.config.slug,
+        kind: tenant.config.kind ?? "club",
         teamCode: tenant.config.teamCode,
         sheetUrls: sheetUrls(tenant.config),
         imageBase: tenant.config.images?.accountHash

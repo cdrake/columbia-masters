@@ -26,6 +26,7 @@ from .transformer import (
     transform_multiple_csvs,
     generate_firebase_import,
     generate_ndjson,
+    transform_record,
 )
 
 
@@ -186,6 +187,8 @@ def _records_api(domain: str) -> dict:
 
 def _new_data_index(tenant: Tenant, record_count: int) -> dict:
     """Create a fresh data index.json from tenant config."""
+    if tenant.is_lmsc:
+        return _new_lmsc_data_index(tenant, record_count)
     c = tenant.raw
     city_region = f"{c['address']['city']}, {c['address']['region']}"
     return {
@@ -234,6 +237,100 @@ def _new_data_index(tenant: Tenant, record_count: int) -> dict:
         **agent_links(tenant.domain),
         "source": "US Masters Swimming (usms.org) top times database",
     }
+
+
+def _new_lmsc_data_index(tenant: Tenant, record_count: int) -> dict:
+    """index.json for a state/LMSC site: every club's fastest swim per season."""
+    index = _new_data_index_common(tenant, record_count)
+    state = tenant.lmsc_name
+    index["name"] = f"{tenant.name} — {state} Records"
+    index["description"] = (
+        f"The fastest swim by a {state} US Masters Swimming member in each event, course, "
+        f"gender, and age group for every season since {tenant.start_year}, across every "
+        f"{state} club."
+    )
+    index["organization"]["location"] = state
+    dataset = index["datasets"][0]
+    dataset["name"] = f"{state} Records"
+    dataset["description"] = (
+        f"Each season's {state} #1 time per course, event, gender, and age group."
+    )
+    dataset["schema"]["team"] = "USMS club code of the swimmer, e.g. 'COLM'"
+    return index
+
+
+def _new_data_index_common(tenant: Tenant, record_count: int) -> dict:
+    """Club-shaped index fields that don't depend on a home pool address."""
+    return {
+        "name": "",
+        "description": "",
+        "organization": {
+            "name": tenant.name,
+            "teamCode": tenant.team_code,
+            "location": "",
+            "website": tenant.domain,
+        },
+        "datasets": [
+            {
+                "name": "",
+                "url": f"{tenant.domain}/data/{tenant.team_code}_all_records.json",
+                "format": "JSON array",
+                "records": record_count,
+                "description": "",
+                "schema": {
+                    "id": "Key: {team}_{event}_{course}_{gender}_{ageGroup}",
+                    "team": "",
+                    "event": "Event name, e.g. '100 Y Freestyle'",
+                    "course": (
+                        "Pool course: scy (Short Course Yards), scm (Short Course Meters), "
+                        "or lcm (Long Course Meters)"
+                    ),
+                    "gender": "men or women",
+                    "ageGroup": "USMS age group, e.g. '25-29', '30-34'",
+                    "time": "Formatted swim time, e.g. '1:01.29'",
+                    "timeInSeconds": "Numeric time in seconds for sorting/comparison",
+                    "swimmer": "Swimmer's full name",
+                    "date": "Date of the swim (ISO string or null)",
+                    "meet": "Name of the meet where the time was recorded",
+                    "year": "Year the time was recorded",
+                },
+            }
+        ],
+        "api": _records_api(tenant.domain),
+        **agent_links(tenant.domain),
+        "source": "US Masters Swimming (usms.org) top times database",
+    }
+
+
+def _publish_lmsc_records(tenant: Tenant) -> int:
+    """Publish a state site's records from the nationwide crawl's LMSC top-10 CSVs.
+
+    Keeps only rank 1 (the state's fastest swim per season/event/course/gender/age group)
+    and writes compact JSON; a no-op when the output is unchanged.
+    """
+    csv_files = sorted(tenant.lmsc_csv_dir.glob("*_top10.csv"))
+    if not csv_files:
+        raise FileNotFoundError(f"No LMSC top-10 CSVs in {tenant.lmsc_csv_dir} (run crawl)")
+    records = []
+    for csv_path in csv_files:
+        with open(csv_path, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                if row.get("rank", "").strip() != "1":
+                    continue
+                record = transform_record(row)
+                if record:
+                    records.append(record.to_dict())
+    tenant.web_data_dir.mkdir(parents=True, exist_ok=True)
+    dest = tenant.web_data_dir / f"{tenant.team_code}_all_records.json"
+    payload = json.dumps(records, separators=(",", ":"), ensure_ascii=False).encode("utf-8")
+    changed = not dest.exists() or dest.read_bytes() != payload
+    if changed:
+        dest.write_bytes(payload)
+        logging.info(f"  Updated website data: {dest} ({len(records)} records)")
+    else:
+        logging.info(f"  Website data unchanged: {dest}")
+    _update_data_index(tenant.web_data_dir, len(records), tenant, changed)
+    return len(records)
 
 
 def _update_data_index(
@@ -472,6 +569,11 @@ def cmd_refresh(args: argparse.Namespace) -> int:
     for tenant in tenants:
         logging.info(f"=== {tenant.slug} ({tenant.team_code}) ===")
         try:
+            if tenant.is_lmsc:
+                # State sites publish from the crawl (crawl/usms-update workflows keep it
+                # current) and have no Sheet yet.
+                _publish_lmsc_records(tenant)
+                continue
             changed = False
             if not args.skip_scrape:
                 years = (

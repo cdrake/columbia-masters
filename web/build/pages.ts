@@ -82,7 +82,12 @@ function navLinks(t: Tenant, page: Page): string {
   const items: string[] = [];
 
   for (const b of visibleBlocks(t.pages[0])) {
-    const label = b.type === "section" ? SECTION_NAV[b.id] : undefined;
+    const label =
+      b.type === "section"
+        ? b.id === "records" && t.config.kind === "lmsc"
+          ? "Records"
+          : SECTION_NAV[b.id]
+        : undefined;
     if (label) items.push(`<li><a href="${base}#${b.id}">${label}</a></li>`);
   }
   const navPages = t.pages

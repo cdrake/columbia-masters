@@ -41,8 +41,13 @@ export function scalars(t: Tenant): Record<string, string> {
     heroSub: mdInline(sheet(t, "hero_sub") ?? c.hero.sub),
     heroTagline: mdInline(sheet(t, "hero_tagline") ?? c.hero.tagline),
     scheduleNote: mdInline(sheet(t, "schedule_note") ?? c.scheduleNote),
+    recordsTitle: isLmsc(t) ? `${esc(c.lmscName)} Records` : "Team Records",
+    // State sites list every club's swims, so the table gets a sortable Team column.
+    teamHeader: isLmsc(t) ? `<th data-sort="team">Team</th>` : "",
   };
 }
+
+export const isLmsc = (t: Tenant) => t.config.kind === "lmsc";
 
 /** `<html>` attributes selecting the design template; empty without content/site.json. */
 export function themeAttrs(t: Tenant): string {
@@ -89,6 +94,13 @@ export function aboutText(t: Tenant): string {
 
 export function quickFacts(t: Tenant): string {
   const c = t.config;
+  if (isLmsc(t)) {
+    return [
+      `<dt>LMSC</dt><dd>${esc(c.lmscName)} (${esc(c.teamCode)})</dd>`,
+      `<dt>Records</dt><dd>Fastest SC swim per season, ${c.records.startYear}–present</dd>`,
+      `<dt>Source</dt><dd>USMS Top Times database</dd>`,
+    ].join("\n              ");
+  }
   return [
     `<dt>Team Code</dt><dd>${esc(c.teamCode)}</dd>`,
     `<dt>LMSC</dt><dd>${esc(c.lmscName)}</dd>`,
@@ -226,6 +238,11 @@ export function faqFallback(t: Tenant): string {
 
 export function footerAddress(t: Tenant): string {
   const c = t.config;
+  if (isLmsc(t)) {
+    return `<h3>${esc(c.name)}</h3>
+            <p>${esc(c.lmscName)} Local Masters Swimming Committee<br>
+              US Masters Swimming</p>`;
+  }
   return `<h3>${esc(c.name)}</h3>
             <p>${esc(c.pool)}<br>
               ${esc(c.address.street)}<br>
@@ -267,18 +284,22 @@ export function jsonLd(t: Tenant): string {
 
   const data = {
     "@context": "https://schema.org",
-    "@type": "SportsClub",
+    "@type": isLmsc(t) ? "SportsOrganization" : "SportsClub",
     name: c.name,
     url: c.domain,
     description: c.description,
     sport: "Swimming",
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: c.address.street,
-      addressLocality: c.address.city,
-      addressRegion: c.address.region,
-      postalCode: c.address.postalCode,
-    },
+    ...(c.address.street
+      ? {
+          address: {
+            "@type": "PostalAddress",
+            streetAddress: c.address.street,
+            addressLocality: c.address.city,
+            addressRegion: c.address.region,
+            postalCode: c.address.postalCode,
+          },
+        }
+      : {}),
     memberOf: {
       "@type": "SportsOrganization",
       name: "US Masters Swimming",
@@ -288,14 +309,16 @@ export function jsonLd(t: Tenant): string {
     ...(events.length ? { event: events } : {}),
     hasOfferCatalog: {
       "@type": "OfferCatalog",
-      name: `${c.teamCode} Team Records`,
+      name: isLmsc(t) ? `${c.lmscName} Records` : `${c.teamCode} Team Records`,
       itemListElement: [
         {
           "@type": "Offer",
           itemOffered: {
             "@type": "Dataset",
             name: `${c.name} Records`,
-            description: `All ${c.teamCode} top times across every course, event, gender, and age group, sourced from the USMS top-times database.`,
+            description: isLmsc(t)
+              ? `The fastest ${c.lmscName} swim each season across every course, event, gender, and age group, sourced from the USMS top-times database.`
+              : `All ${c.teamCode} top times across every course, event, gender, and age group, sourced from the USMS top-times database.`,
             url: recordsUrl,
             encodingFormat: "application/json",
             license: "https://creativecommons.org/licenses/by/4.0/",

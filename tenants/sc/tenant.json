@@ -1,0 +1,35 @@
+{
+  "kind": "lmsc",
+  "slug": "sc",
+  "teamCode": "SC",
+  "lmscId": "55",
+  "lmscName": "South Carolina",
+  "name": "South Carolina Masters Swimming",
+  "shortName": "SC Masters",
+  "domain": "https://sc.swimclubs.org",
+  "description": "South Carolina Masters Swimming is the US Masters Swimming LMSC for the state: find a Masters club near you and search 25 years of South Carolina top times.",
+  "hero": {
+    "sub": "US Masters Swimming in South Carolina",
+    "tagline": "Find a club near you and search the state's fastest Masters swims"
+  },
+  "colors": {},
+  "socials": [
+    {
+      "label": "USMS",
+      "url": "https://www.usms.org/"
+    }
+  ],
+  "documents": [],
+  "sheet": {
+    "publishedId": "PENDING",
+    "gids": {
+      "events": 0,
+      "schedule": 0,
+      "board": 0,
+      "content": 0
+    }
+  },
+  "records": {
+    "startYear": 2000
+  }
+}

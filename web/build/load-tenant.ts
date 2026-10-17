@@ -20,6 +20,8 @@ export interface TenantDocument {
 }
 
 export interface TenantConfig {
+  /** "lmsc" = a state/LMSC site (records across every club, no pool/schedule); default "club". */
+  kind?: "club" | "lmsc";
   slug: string;
   teamCode: string;
   lmscName: string;
@@ -111,15 +113,24 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
   req(fs.existsSync(configFile), `missing ${configFile}`);
   const config = readJson<TenantConfig>(configFile);
 
+  req(config.kind === undefined || config.kind === "club" || config.kind === "lmsc", `tenant.json kind must be "club" or "lmsc"`);
+  const isLmsc = config.kind === "lmsc";
   for (const key of [
-    "slug", "teamCode", "lmscName", "name", "shortName",
-    "domain", "description", "pool", "scheduleNote",
+    "slug", "teamCode", "lmscName", "name", "shortName", "domain", "description",
+    ...(isLmsc ? [] : (["pool", "scheduleNote"] as const)),
   ] as const) {
     req(typeof config[key] === "string" && config[key], `tenant.json missing "${key}"`);
   }
   req(config.slug === slug, `tenant.json slug "${config.slug}" != directory "${slug}"`);
   req(config.hero?.sub && config.hero?.tagline, `tenant.json missing hero.sub/hero.tagline`);
-  req(config.address?.street && config.address?.city, `tenant.json missing address`);
+  if (isLmsc) {
+    // State sites have no home pool; blank fields keep the shared renderers simple.
+    config.pool ??= "";
+    config.scheduleNote ??= "";
+    config.address ??= { street: "", city: "", region: "", postalCode: "" };
+  } else {
+    req(config.address?.street && config.address?.city, `tenant.json missing address`);
+  }
   req(config.sheet?.publishedId && config.sheet?.gids, `tenant.json missing sheet config`);
   for (const tab of ["events", "schedule", "board", "content"]) {
     req(typeof config.sheet.gids[tab] === "number", `tenant.json missing sheet.gids.${tab}`);

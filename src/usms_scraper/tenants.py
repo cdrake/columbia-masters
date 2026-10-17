@@ -23,6 +23,15 @@ class Tenant:
     raw: dict
 
     @property
+    def is_lmsc(self) -> bool:
+        """State/LMSC site: records come from the nationwide crawl, not a team scrape."""
+        return self.raw.get("kind") == "lmsc"
+
+    @property
+    def lmsc_csv_dir(self) -> Path:
+        return Path("data") / "csv" / "usms" / self.lmsc_id / "lmsc_top10"
+
+    @property
     def public_dir(self) -> Path:
         return self.root / "public"
 
