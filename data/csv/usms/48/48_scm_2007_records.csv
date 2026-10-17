@@ -1,0 +1,642 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ARIZ,50 M Freestyle,SCM,W,18-24,29.74,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,18-24,32.06,Lisa A Palenica,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,18-24,1:05.49,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,18-24,1:10.99,Lisa A Palenica,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,18-24,1:19.55,Carrie A McConville,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,W,18-24,2:29.88,Bridget A Pranke,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,W,18-24,2:30.37,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,W,18-24,2:51.56,Carrie A McConville,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Freestyle,SCM,W,18-24,5:15.51,Bridget A Pranke,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,W,18-24,20:08.13,Bridget A Pranke,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,18-24,46.65,Carrie A McConville,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,W,18-24,1:14.64,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,W,18-24,2:37.46,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,18-24,40.18,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,W,18-24,1:24.83,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,W,18-24,1:29.41,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,W,18-24,2:58.27,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,18-24,33.74,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,18-24,35.97,Lisa A Palenica,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Butterfly,SCM,W,18-24,1:27.86,Lisa A Palenica,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,18-24,1:15.29,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,18-24,1:16.26,Whitney M Warman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Individual Medley,SCM,W,18-24,2:41.16,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,W,18-24,5:29.49,Summer M Bezdek,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,25-29,27.38,Florencia Szigeti,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,25-29,30.64,Courtney S Chung,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,25-29,59.22,Florencia Szigeti,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,25-29,1:05.38,Laura L Hernandez,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,25-29,1:08.90,Courtney S Chung,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,W,25-29,1:11.75,Kristine A Denholm,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Freestyle,SCM,W,25-29,2:10.54,Florencia Szigeti,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,W,25-29,2:20.19,Laura L Hernandez,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Freestyle,SCM,W,25-29,4:52.39,Laura L Hernandez,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,25-29,31.86,Florencia Szigeti,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,W,25-29,1:13.60,Laura L Hernandez,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,W,25-29,2:34.19,Laura L Hernandez,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,W,25-29,1:19.24,Robyn L Kondrad,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,W,25-29,2:52.17,Robyn L Kondrad,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,25-29,36.76,Kristine A Denholm,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:09.98,Florencia Szigeti,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,25-29,1:23.85,Courtney S Chung,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Individual Medley,SCM,W,25-29,2:38.40,Robyn L Kondrad,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,W,25-29,3:09.25,Kristine A Denholm,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Backstroke,SCM,W,30-34,1:09.99,Camilla M Johansson-Sponseller,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,35-39,29.77,Louise So,,SPMA SCM Champs,2007,1
+ARIZ,50 M Freestyle,SCM,W,35-39,35.89,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,35-39,1:05.69,Louise M So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,35-39,1:18.02,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,35-39,1:22.85,Tanya A Nieri,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,W,35-39,2:23.64,Louise So,,SPMA SCM Champs,2007,1
+ARIZ,200 M Freestyle,SCM,W,35-39,3:00.34,Tanya A Nieri,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,800 M Freestyle,SCM,W,35-39,10:37.70,Louise M So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,W,35-39,11:08.83,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Backstroke,SCM,W,35-39,1:23.36,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,W,35-39,1:37.58,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Backstroke,SCM,W,35-39,3:04.38,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,35-39,35.85,Louise So,,SPMA SCM Champs,2007,1
+ARIZ,50 M Breaststroke,SCM,W,35-39,40.83,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,W,35-39,1:18.83,Louise So,,SPMA SCM Champs,2007,1
+ARIZ,100 M Breaststroke,SCM,W,35-39,1:27.31,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,W,35-39,2:50.06,Louise So,,SPMA SCM Champs,2007,1
+ARIZ,200 M Breaststroke,SCM,W,35-39,3:11.31,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,W,35-39,43.24,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,35-39,43.37,Tanya A Nieri,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Butterfly,SCM,W,35-39,1:21.98,Louise M So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,W,35-39,1:49.10,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Butterfly,SCM,W,35-39,3:59.03,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,35-39,1:15.90,Louise M So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,35-39,1:20.34,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Individual Medley,SCM,W,35-39,2:54.82,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,W,35-39,3:31.36,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Individual Medley,SCM,W,35-39,6:06.63,Maureen T Rankin,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,W,35-39,7:41.24,Betheny R Frechette,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,40-44,28.86,Marika McCue,,SPMA SCM Champs,2007,1
+ARIZ,50 M Freestyle,SCM,W,40-44,29.43,Becki Major,,SPMA SCM Champs,2007,2
+ARIZ,50 M Freestyle,SCM,W,40-44,30.97,Brigid Bunch,,SPMA SCM Champs,2007,3
+ARIZ,50 M Freestyle,SCM,W,40-44,31.91,Laura K Smith,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Freestyle,SCM,W,40-44,40.00,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Freestyle,SCM,W,40-44,1:06.09,Becki Major,,SPMA SCM Champs,2007,1
+ARIZ,100 M Freestyle,SCM,W,40-44,1:10.98,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,40-44,1:20.08,Pamela M Neuharth,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,W,40-44,1:24.00,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Freestyle,SCM,W,40-44,2:18.34,Laura Smith,,SPMA SCM Champs,2007,1
+ARIZ,200 M Freestyle,SCM,W,40-44,2:24.43,Becki Major,,SPMA SCM Champs,2007,2
+ARIZ,200 M Freestyle,SCM,W,40-44,2:37.02,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,W,40-44,3:02.74,Pamela M Neuharth,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Freestyle,SCM,W,40-44,3:13.16,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,400 M Freestyle,SCM,W,40-44,4:50.86,Laura Smith,,SPMA SCM Champs,2007,1
+ARIZ,400 M Freestyle,SCM,W,40-44,5:11.81,Becki Major,,SPMA SCM Champs,2007,2
+ARIZ,400 M Freestyle,SCM,W,40-44,5:33.14,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Freestyle,SCM,W,40-44,6:42.17,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,800 M Freestyle,SCM,W,40-44,11:00.95,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,W,40-44,11:23.46,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,800 M Freestyle,SCM,W,40-44,12:39.48,Pamela M Neuharth,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,800 M Freestyle,SCM,W,40-44,13:34.19,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Backstroke,SCM,W,40-44,32.79,Marika McCue,,SPMA SCM Champs,2007,1
+ARIZ,50 M Backstroke,SCM,W,40-44,34.29,Laura Smith,,SPMA SCM Champs,2007,2
+ARIZ,50 M Backstroke,SCM,W,40-44,35.62,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Backstroke,SCM,W,40-44,45.81,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Backstroke,SCM,W,40-44,1:12.07,Marika W Mc Cue,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,W,40-44,1:12.22,Laura Smith,,SPMA SCM Champs,2007,2
+ARIZ,100 M Backstroke,SCM,W,40-44,1:14.64,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Backstroke,SCM,W,40-44,2:31.05,Laura Smith,,SPMA SCM Champs,2007,1
+ARIZ,200 M Backstroke,SCM,W,40-44,2:39.29,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,40-44,41.18,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,40-44,44.94,Shirley Chow,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,W,40-44,1:29.37,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,W,40-44,3:12.89,Brigid Bunch,,SPMA SCM Champs,2007,1
+ARIZ,50 M Butterfly,SCM,W,40-44,33.22,Marika W Mc Cue,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,40-44,33.60,Laura Smith,,SPMA SCM Champs,2007,2
+ARIZ,50 M Butterfly,SCM,W,40-44,35.85,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Butterfly,SCM,W,40-44,42.23,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Butterfly,SCM,W,40-44,1:17.83,Marika McCue,,SPMA SCM Champs,2007,1
+ARIZ,100 M Butterfly,SCM,W,40-44,1:20.43,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Butterfly,SCM,W,40-44,1:37.62,JoAnne M Bolivar,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Butterfly,SCM,W,40-44,3:04.87,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:12.53,Marika W Mc Cue,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:17.54,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:25.56,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,W,40-44,1:27.23,Shirley Chow,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Individual Medley,SCM,W,40-44,2:47.58,Brigid Bunch,,SPMA SCM Champs,2007,1
+ARIZ,200 M Individual Medley,SCM,W,40-44,3:06.42,Ann L Deputy,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Individual Medley,SCM,W,40-44,5:59.38,Brigid J Bunch,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,45-49,27.69,Liz A Hobbs,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,45-49,42.67,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,45-49,44.95,Susan B Foster,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,W,45-49,1:17.29,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,45-49,1:29.40,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,45-49,1:34.18,Lois W Courtright,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,W,45-49,1:38.08,Brenda C Creswell-Liotta,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Freestyle,SCM,W,45-49,2:57.05,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,W,45-49,3:26.64,Lois W Courtright,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,W,45-49,3:34.68,Brenda C Creswell-Liotta,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Freestyle,SCM,W,45-49,5:36.19,Liz A Hobbs,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,W,45-49,6:06.78,Brenda C Creswell-Liotta,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Freestyle,SCM,W,45-49,6:14.00,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Freestyle,SCM,W,45-49,6:57.94,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,800 M Freestyle,SCM,W,45-49,12:38.82,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,45-49,35.85,Liz A Hobbs,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,W,45-49,1:51.87,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,45-49,43.47,Amy B Mullaney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,45-49,44.60,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,45-49,45.99,Brenda C Creswell-Liotta,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Breaststroke,SCM,W,45-49,53.11,Susan B Foster,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Breaststroke,SCM,W,45-49,54.01,Lois W Courtright,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,50 M Breaststroke,SCM,W,45-49,54.12,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:31.27,Amy B Mullaney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:37.75,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:53.43,Susan B Foster,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:55.98,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Breaststroke,SCM,W,45-49,1:57.56,Lois W Courtright,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:21.73,Amy B Mullaney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,W,45-49,3:35.73,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,W,45-49,4:02.82,Susan B Foster,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Breaststroke,SCM,W,45-49,4:04.41,Lois W Courtright,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Butterfly,SCM,W,45-49,47.75,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,45-49,54.16,Susan B Foster,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:25.71,Amy B Mullaney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:34.26,Teresa L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:47.00,Michelle K Charles,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,W,45-49,1:54.08,Susan B Foster,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Freestyle,SCM,W,50-54,34.25,Mikey G Girard,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,50-54,36.31,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,50-54,37.41,Katryn S James,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,W,50-54,40.80,Michele R Canney,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Freestyle,SCM,W,50-54,47.05,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Freestyle,SCM,W,50-54,1:09.70,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,50-54,1:21.97,Mikey G Girard,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,50-54,1:48.39,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,W,50-54,2:29.82,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,W,50-54,2:54.89,Katryn James,,SPMA SCM Champs,2007,2
+ARIZ,200 M Freestyle,SCM,W,50-54,3:54.76,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Freestyle,SCM,W,50-54,5:12.85,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,W,50-54,8:04.70,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,800 M Freestyle,SCM,W,50-54,15:15.52,B J Umstead,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,W,50-54,20:17.43,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,50-54,35.11,Stephanie S Rollins,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,50-54,39.54,Katryn S James,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,W,50-54,58.71,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Backstroke,SCM,W,50-54,1:26.49,Katryn James,,SPMA SCM Champs,2007,1
+ARIZ,200 M Backstroke,SCM,W,50-54,3:13.68,Katryn S James,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,50-54,44.35,Mikey G Girard,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,50-54,47.77,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,50-54,49.15,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Breaststroke,SCM,W,50-54,1:02.60,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Breaststroke,SCM,W,50-54,1:40.62,Mikey G Girard,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,W,50-54,1:42.60,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,W,50-54,1:44.95,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Breaststroke,SCM,W,50-54,3:44.41,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,50-54,32.41,Stephanie S Rollins,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,50-54,42.60,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,W,50-54,50.89,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Butterfly,SCM,W,50-54,1:00.08,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Butterfly,SCM,W,50-54,1:21.98,Stephanie S Rollins,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,W,50-54,1:49.38,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,W,50-54,1:17.96,Stephanie S Rollins,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,50-54,1:25.34,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,W,50-54,1:32.89,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,W,50-54,1:39.06,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Individual Medley,SCM,W,50-54,2:04.35,Nancy L Hewes,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,200 M Individual Medley,SCM,W,50-54,2:58.47,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,W,50-54,3:30.76,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Individual Medley,SCM,W,50-54,3:35.54,Cynthia Donnelly,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Individual Medley,SCM,W,50-54,6:15.16,Kathi Lindstrom,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,W,50-54,7:07.83,Mitzi E Gruender,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,55-59,32.84,Evie Lynch,,SPMA SCM Champs,2007,1
+ARIZ,50 M Freestyle,SCM,W,55-59,32.85,Christie Altman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,55-59,35.23,Jonelle G Schmidt,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,W,55-59,35.87,Elaine Guest,,Huntsman Senior Games,2007,4
+ARIZ,50 M Freestyle,SCM,W,55-59,42.75,Deborah P Yoklic,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Freestyle,SCM,W,55-59,1:14.58,Christie Altman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,55-59,1:22.67,Elaine Guest,,Huntsman Senior Games,2007,2
+ARIZ,200 M Freestyle,SCM,W,55-59,3:16.22,Judy L Gillies,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,W,55-59,6:45.92,Deborah P Yoklic,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,W,55-59,6:47.21,Judy L Gillies,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,W,55-59,40.48,Christie Altman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,55-59,44.83,Elaine Guest,,Huntsman Senior Games,2007,2
+ARIZ,100 M Backstroke,SCM,W,55-59,1:19.09,Evie Lynch,,SPMA SCM Champs,2007,1
+ARIZ,200 M Backstroke,SCM,W,55-59,2:51.44,Evie Lynch,,SPMA SCM Champs,2007,1
+ARIZ,200 M Backstroke,SCM,W,55-59,3:14.60,Jonelle G Schmidt,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,55-59,44.35,Evie Lynch,,SPMA SCM Champs,2007,1
+ARIZ,50 M Breaststroke,SCM,W,55-59,49.71,Deborah P Yoklic,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,55-59,54.43,Judy L Gillies,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,W,55-59,1:57.67,Judy L Gillies,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,55-59,36.12,Evie Lynch,,SPMA SCM Champs,2007,1
+ARIZ,50 M Butterfly,SCM,W,55-59,38.44,Christie Altman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Butterfly,SCM,W,55-59,1:32.00,Christie Altman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,55-59,1:26.09,Christie Altman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,55-59,1:26.10,Jonelle G Schmidt,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,W,55-59,1:47.26,Deborah P Yoklic,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,W,60-64,41.42,Mickey M Stillwell,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,60-64,44.66,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,60-64,46.39,Anne T Moses,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,W,60-64,1:43.11,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,W,60-64,3:37.12,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,W,60-64,7:40.49,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,W,60-64,28:58.16,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,60-64,54.35,Mickey M Stillwell,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,60-64,58.23,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,W,60-64,4:50.06,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,60-64,1:00.08,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,60-64,2:09.03,Wendy L Weinberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,65-69,46.20,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,65-69,47.58,Diane P Sacco,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,65-69,49.34,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,W,65-69,1:35.99,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,W,65-69,2:24.78,Gaile Harden,,Huntsman Senior Games,2007,2
+ARIZ,200 M Freestyle,SCM,W,65-69,3:27.35,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,W,65-69,5:10.52,Gaile Harden,,Huntsman Senior Games,2007,2
+ARIZ,400 M Freestyle,SCM,W,65-69,7:29.11,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,W,65-69,8:28.76,Diane P Sacco,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Freestyle,SCM,W,65-69,8:30.54,Beverly L Linnihan,,Huntsman Senior Games,2007,3
+ARIZ,400 M Freestyle,SCM,W,65-69,8:43.12,Lou J Hughes,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,800 M Freestyle,SCM,W,65-69,15:09.52,Grace C Dyck,,Huntsman Senior Games,2007,1
+ARIZ,800 M Freestyle,SCM,W,65-69,17:35.19,Diane P Sacco,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,800 M Freestyle,SCM,W,65-69,18:00.57,Lou J Hughes,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,800 M Freestyle,SCM,W,65-69,18:43.14,Beverly L Linnihan,,Huntsman Senior Games,2007,4
+ARIZ,1500 M Freestyle,SCM,W,65-69,28:13.14,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,W,65-69,34:30.76,Diane P Sacco,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,1500 M Freestyle,SCM,W,65-69,34:56.21,Lou J Hughes,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,1500 M Freestyle,SCM,W,65-69,43:18.30,Gaile Harden,,Huntsman Senior Games,2007,4
+ARIZ,50 M Backstroke,SCM,W,65-69,1:05.29,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,65-69,1:10.59,Gaile Harden,,Huntsman Senior Games,2007,2
+ARIZ,100 M Backstroke,SCM,W,65-69,1:56.31,Grace C Dyck,,Huntsman Senior Games,2007,1
+ARIZ,100 M Backstroke,SCM,W,65-69,2:20.17,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Backstroke,SCM,W,65-69,2:31.97,Gaile Harden,,Huntsman Senior Games,2007,3
+ARIZ,200 M Backstroke,SCM,W,65-69,3:59.36,Grace C Dyck,,Huntsman Senior Games,2007,1
+ARIZ,200 M Backstroke,SCM,W,65-69,5:43.47,Gaile Harden,,Huntsman Senior Games,2007,2
+ARIZ,50 M Breaststroke,SCM,W,65-69,52.77,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,65-69,1:07.50,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,65-69,1:11.55,Gaile Harden,,Huntsman Senior Games,2007,3
+ARIZ,100 M Breaststroke,SCM,W,65-69,2:00.51,Grace C Dyck,,Huntsman Senior Games,2007,1
+ARIZ,100 M Breaststroke,SCM,W,65-69,2:34.94,Gaile Harden,,Huntsman Senior Games,2007,2
+ARIZ,200 M Breaststroke,SCM,W,65-69,4:18.39,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,W,65-69,5:38.58,Gaile Harden,,Huntsman Senior Games,2007,2
+ARIZ,50 M Butterfly,SCM,W,65-69,1:01.26,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,W,65-69,2:44.08,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,65-69,1:51.18,Grace C Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,65-69,2:17.24,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Individual Medley,SCM,W,65-69,4:03.16,Grace C Dyck,,Huntsman Senior Games,2007,1
+ARIZ,200 M Individual Medley,SCM,W,65-69,5:03.49,Anne Burnett,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,W,70-74,50.18,Elizabeth D Haesemeyer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,70-74,57.18,Elizabeth D Haesemeyer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,75-79,50.50,Edie B Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,W,75-79,17:19.59,Edie B Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,75-79,51.98,Nancy Kinney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,W,75-79,1:52.63,Nancy Kinney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,W,75-79,4:03.96,Nancy Kinney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,75-79,1:07.72,Edie B Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Butterfly,SCM,W,75-79,5:42.56,Edie B Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,W,75-79,1:56.56,Nancy Kinney,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,W,75-79,4:49.83,Edie B Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,W,75-79,10:01.72,Edie B Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,80-84,1:06.77,Ruth M Manfredi,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,W,80-84,1:25.00,Iris L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,W,80-84,3:11.17,Iris L Dozer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,80-84,1:17.86,Ruth M Manfredi,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,W,80-84,1:44.63,Iris L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,W,80-84,1:40.99,Ruth M Manfredi,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,W,80-84,2:08.66,Iris L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,W,80-84,4:37.71,Iris L Dozer,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,80-84,1:43.91,Ruth M Manfredi,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,W,80-84,1:47.36,Iris L Dozer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,18-24,25.52,Eliot T Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,18-24,26.99,Kenny J McLeod,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,18-24,30.01,Askar Uteshkaliyev,,SPMA SCM Champs,2007,3
+ARIZ,100 M Freestyle,SCM,M,18-24,54.15,Eric C Bugby,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,18-24,59.28,Kenny J McLeod,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,M,18-24,1:09.53,Askar Uteshkaliyev,,SPMA SCM Champs,2007,3
+ARIZ,800 M Freestyle,SCM,M,18-24,9:20.32,Eric C Bugby,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,18-24,32.43,Kenny J McLeod,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,M,18-24,2:13.90,Eric C Bugby,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,M,18-24,2:52.47,Eliot T Dash,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,18-24,39.79,Askar Uteshkaliyev,,SPMA SCM Champs,2007,1
+ARIZ,100 M Breaststroke,SCM,M,18-24,1:30.81,Askar Uteshkaliyev,,SPMA SCM Champs,2007,1
+ARIZ,50 M Butterfly,SCM,M,18-24,26.59,Eric C Bugby,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,18-24,30.63,Kenny J McLeod,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,18-24,36.28,Askar Uteshkaliyev,,SPMA SCM Champs,2007,3
+ARIZ,100 M Butterfly,SCM,M,18-24,1:15.27,Eliot T Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,18-24,1:06.58,Eliot T Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,18-24,1:08.98,Kenny J McLeod,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,25-29,25.18,Chris C Sundberg,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,25-29,25.78,Jonathan L Donath,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,25-29,30.21,Nicholas Urwiler,,SPMA SCM Champs,2007,3
+ARIZ,50 M Freestyle,SCM,M,25-29,31.34,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Freestyle,SCM,M,25-29,32.87,Michael Munson,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Freestyle,SCM,M,25-29,56.28,Jamie E Richardson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,25-29,56.91,Jonathan L Donath,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,M,25-29,57.40,Steve P Worthy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,M,25-29,57.53,Chris C Sundberg,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Freestyle,SCM,M,25-29,1:08.63,Nicholas Urwiler,,SPMA SCM Champs,2007,5
+ARIZ,100 M Freestyle,SCM,M,25-29,1:09.37,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,100 M Freestyle,SCM,M,25-29,1:13.85,Michael Munson,,Ron Johnson Invitational at Tempe,2007,7
+ARIZ,200 M Freestyle,SCM,M,25-29,2:00.59,Jeffrey J Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,M,25-29,2:09.91,Chris C Sundberg,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,25-29,2:14.87,Steve P Worthy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,M,25-29,2:35.64,Nicholas Urwiler,,SPMA SCM Champs,2007,4
+ARIZ,200 M Freestyle,SCM,M,25-29,3:21.97,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,400 M Freestyle,SCM,M,25-29,4:19.13,Jeffrey J Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,25-29,30.16,Jonathan L Donath,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,25-29,30.70,Steve P Worthy,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,M,25-29,32.16,Chris C Sundberg,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Backstroke,SCM,M,25-29,43.79,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Breaststroke,SCM,M,25-29,42.45,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,M,25-29,1:31.60,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,25-29,26.17,Jeffrey J Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,25-29,28.11,Jonathan L Donath,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,25-29,41.66,Nicholas Urwiler,,SPMA SCM Champs,2007,3
+ARIZ,100 M Butterfly,SCM,M,25-29,58.36,Jeffrey J Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,M,25-29,1:01.86,Jamie E Richardson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Butterfly,SCM,M,25-29,1:02.51,Jonathan L Donath,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:01.56,Jeffrey J Dash,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:04.54,Jamie E Richardson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:06.21,Jonathan L Donath,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:07.20,Chris C Sundberg,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Individual Medley,SCM,M,25-29,1:30.37,Chris J Brfitengross,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,200 M Individual Medley,SCM,M,25-29,2:20.80,Jamie E Richardson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,30-34,28.21,Stephen S So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,30-34,1:00.58,Stephen S So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,30-34,1:14.35,Hkun K Tun,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,30-34,2:12.56,Stephen So,,SPMA SCM Champs,2007,1
+ARIZ,400 M Freestyle,SCM,M,30-34,4:40.94,Stephen So,,SPMA SCM Champs,2007,1
+ARIZ,800 M Freestyle,SCM,M,30-34,9:46.89,Stephen S So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,M,30-34,19:02.45,Stephen S So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,30-34,33.49,Stephen S So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,M,30-34,58.54,Jeff P Commings,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,M,30-34,1:17.15,Stephen S So,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Backstroke,SCM,M,30-34,2:42.71,Stephen S So,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,30-34,28.81,Jeff P Commings,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,30-34,29.66,Blake A Holden,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,30-34,38.33,Hkun K Tun,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Breaststroke,SCM,M,30-34,38.57,Stephen S So,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Breaststroke,SCM,M,30-34,1:05.57,Blake A Holden,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,M,30-34,1:24.94,Hkun K Tun,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,M,30-34,2:27.28,Blake A Holden,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,M,30-34,59.64,Blake A Holden,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,30-34,57.94,Jeff P Commings,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,30-34,2:08.89,Jeff P Commings,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,35-39,28.79,Ryan N Vogt,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,35-39,1:03.16,Ryan N Vogt,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,M,35-39,4:43.99,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,35-39,9:54.91,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,M,35-39,19:13.79,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,35-39,37.36,Doug P Adamavich,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,35-39,37.57,Ryan N Vogt,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,M,35-39,1:23.69,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,M,35-39,3:01.84,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,35-39,30.32,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,35-39,31.26,Doug P Adamavich,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,35-39,33.34,Ryan N Vogt,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Butterfly,SCM,M,35-39,1:07.95,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,M,35-39,1:10.90,Doug P Adamavich,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Butterfly,SCM,M,35-39,2:29.57,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,35-39,2:32.75,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,35-39,2:36.32,Doug P Adamavich,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Individual Medley,SCM,M,35-39,5:48.95,Kent M Johnson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,40-44,26.25,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,40-44,26.69,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,40-44,26.80,Glenn R Leighton,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,M,40-44,28.18,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Freestyle,SCM,M,40-44,29.24,John C Becker,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,50 M Freestyle,SCM,M,40-44,33.41,Rodney (Scott) Harnisch,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,50 M Freestyle,SCM,M,40-44,36.31,Douglas D Everett,,SPMA SCM Champs,2007,7
+ARIZ,100 M Freestyle,SCM,M,40-44,56.05,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,40-44,56.12,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,M,40-44,59.70,Glenn R Leighton,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,M,40-44,1:05.29,John C Becker,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Freestyle,SCM,M,40-44,1:14.71,Rodney (Scott) Harnisch,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Freestyle,SCM,M,40-44,1:19.91,Douglas D Everett,,SPMA SCM Champs,2007,6
+ARIZ,200 M Freestyle,SCM,M,40-44,2:02.19,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,M,40-44,2:18.73,John C Becker,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,40-44,2:51.21,Rodney (Scott) Harnisch,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,M,40-44,3:01.06,Douglas D Everett,,SPMA SCM Champs,2007,4
+ARIZ,400 M Freestyle,SCM,M,40-44,4:19.47,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,M,40-44,4:48.22,John C Becker,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Freestyle,SCM,M,40-44,6:37.58,Douglas D Everett,,SPMA SCM Champs,2007,3
+ARIZ,800 M Freestyle,SCM,M,40-44,8:52.26,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,40-44,9:06.83,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,800 M Freestyle,SCM,M,40-44,10:30.28,Glenn R Leighton,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,800 M Freestyle,SCM,M,40-44,14:16.47,Douglas D Everett,,SPMA SCM Champs,2007,4
+ARIZ,1500 M Freestyle,SCM,M,40-44,17:08.37,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,M,40-44,19:15.49,John C Becker,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,1500 M Freestyle,SCM,M,40-44,26:58.71,Douglas D Everett,,SPMA SCM Champs,2007,3
+ARIZ,50 M Backstroke,SCM,M,40-44,30.26,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,40-44,34.88,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,M,40-44,59.73,Douglas D Everett,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Backstroke,SCM,M,40-44,1:03.47,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,M,40-44,1:08.26,Mark D Hickman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Backstroke,SCM,M,40-44,1:15.51,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Backstroke,SCM,M,40-44,2:14.53,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,M,40-44,2:28.64,Mark D Hickman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,40-44,35.33,Glenn R Leighton,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,40-44,36.56,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,40-44,1:00.32,Douglas D Everett,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,M,40-44,1:30.21,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,40-44,28.14,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,40-44,29.34,Glenn R Leighton,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,40-44,33.22,John C Becker,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Butterfly,SCM,M,40-44,35.92,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Butterfly,SCM,M,40-44,42.40,Rodney (Scott) Harnisch,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,50 M Butterfly,SCM,M,40-44,48.83,Douglas D Everett,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,100 M Butterfly,SCM,M,40-44,1:09.97,Mark D Hickman,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:04.41,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:09.39,Mark D Hickman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:09.83,Glenn R Leighton,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:22.91,Mark C Rankin,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:32.13,Rodney (Scott) Harnisch,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Individual Medley,SCM,M,40-44,1:56.24,Douglas D Everett,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:18.74,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,40-44,2:31.14,Mark D Hickman,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Individual Medley,SCM,M,40-44,4:54.59,Patrick W Brundage,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,M,40-44,5:06.88,Kurt F Dickson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,45-49,24.29,Paul Smith,,SPMA SCM Champs,2007,1
+ARIZ,50 M Freestyle,SCM,M,45-49,24.61,John C Smith,,Denver Athletic Club SCM Championships,2007,2
+ARIZ,50 M Freestyle,SCM,M,45-49,26.23,Paul A Hafner,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,M,45-49,26.51,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Freestyle,SCM,M,45-49,28.40,Jerry Hernandez,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,50 M Freestyle,SCM,M,45-49,36.06,Dan J Deputy,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,100 M Freestyle,SCM,M,45-49,52.54,Paul Smith,,SPMA SCM Champs,2007,1
+ARIZ,100 M Freestyle,SCM,M,45-49,59.38,Paul A Hafner,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,M,45-49,1:03.63,Jerry Hernandez,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,M,45-49,1:23.06,Dan J Deputy,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Freestyle,SCM,M,45-49,1:56.00,Paul Smith,,SPMA SCM Champs,2007,1
+ARIZ,200 M Freestyle,SCM,M,45-49,2:08.57,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,45-49,2:20.96,David G Peters,,SPMA SCM Champs,2007,3
+ARIZ,200 M Freestyle,SCM,M,45-49,3:04.25,Dan J Deputy,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,400 M Freestyle,SCM,M,45-49,4:29.62,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,400 M Freestyle,SCM,M,45-49,6:37.65,Dan J Deputy,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,800 M Freestyle,SCM,M,45-49,9:35.08,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,45-49,11:01.65,Robert C Enguidanos,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,M,45-49,29.48,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,50 M Backstroke,SCM,M,45-49,32.04,Jerry Hernandez,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,M,45-49,33.30,David G Peters,,SPMA SCM Champs,2007,3
+ARIZ,50 M Backstroke,SCM,M,45-49,46.96,Dan J Deputy,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Backstroke,SCM,M,45-49,1:05.54,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,100 M Backstroke,SCM,M,45-49,1:13.95,David G Peters,,SPMA SCM Champs,2007,2
+ARIZ,200 M Backstroke,SCM,M,45-49,2:28.03,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,200 M Backstroke,SCM,M,45-49,2:41.75,David G Peters,,SPMA SCM Champs,2007,2
+ARIZ,50 M Breaststroke,SCM,M,45-49,33.30,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,45-49,35.46,Paul A Hafner,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,45-49,53.73,Dan J Deputy,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,M,45-49,1:12.79,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,M,45-49,2:42.91,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,45-49,25.82,Paul Smith,,SPMA SCM Champs,2007,1
+ARIZ,50 M Butterfly,SCM,M,45-49,28.32,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,45-49,29.65,Paul A Hafner,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Butterfly,SCM,M,45-49,58.02,Paul Smith,,SPMA SCM Champs,2007,1
+ARIZ,100 M Butterfly,SCM,M,45-49,1:03.44,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Butterfly,SCM,M,45-49,1:04.36,Paul A Hafner,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Butterfly,SCM,M,45-49,1:05.29,Rick A Robinson,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Butterfly,SCM,M,45-49,2:24.29,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:00.84,Paul Smith,,SPMA SCM Champs,2007,1
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:01.48,John C Smith,,Denver Athletic Club SCM Championships,2007,2
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:04.84,Al Jaegers,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:09.58,Rick A Robinson,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:09.72,Paul A Hafner,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Individual Medley,SCM,M,45-49,1:12.16,David G Peters,,SPMA SCM Champs,2007,6
+ARIZ,200 M Individual Medley,SCM,M,45-49,2:22.32,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,200 M Individual Medley,SCM,M,45-49,2:41.07,David G Peters,,SPMA SCM Champs,2007,2
+ARIZ,400 M Individual Medley,SCM,M,45-49,5:05.46,Al Jaegers,,SPMA SCM Champs,2007,1
+ARIZ,50 M Freestyle,SCM,M,50-54,28.97,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,50-54,30.10,Casey Smith,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Freestyle,SCM,M,50-54,33.25,Don R Perry,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,M,50-54,35.85,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Freestyle,SCM,M,50-54,1:00.33,Winston S Uchiyama,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,50-54,1:01.59,Jim Stites,,SPMA SCM Champs,2007,2
+ARIZ,100 M Freestyle,SCM,M,50-54,1:02.10,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Freestyle,SCM,M,50-54,1:06.55,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Freestyle,SCM,M,50-54,1:11.53,Don R Perry,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,100 M Freestyle,SCM,M,50-54,1:18.54,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,200 M Freestyle,SCM,M,50-54,2:14.79,Jim Stites,,SPMA SCM Champs,2007,1
+ARIZ,200 M Freestyle,SCM,M,50-54,2:16.94,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,50-54,2:31.23,John C Holzbach,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,200 M Freestyle,SCM,M,50-54,2:37.70,Don R Perry,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Freestyle,SCM,M,50-54,2:57.35,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,200 M Freestyle,SCM,M,50-54,3:00.97,William E Shaw,,Ron Johnson Invitational at Tempe,2007,6
+ARIZ,400 M Freestyle,SCM,M,50-54,4:50.31,Jim Stites,,SPMA SCM Champs,2007,1
+ARIZ,400 M Freestyle,SCM,M,50-54,4:55.20,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,400 M Freestyle,SCM,M,50-54,5:23.12,Don R Perry,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Freestyle,SCM,M,50-54,6:10.31,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,400 M Freestyle,SCM,M,50-54,6:30.45,William E Shaw,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,800 M Freestyle,SCM,M,50-54,10:12.63,Jim Stites,,SPMA SCM Champs,2007,1
+ARIZ,800 M Freestyle,SCM,M,50-54,11:06.05,Ron D Joost,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,1500 M Freestyle,SCM,M,50-54,19:12.28,Jim Stites,,SPMA SCM Champs,2007,1
+ARIZ,1500 M Freestyle,SCM,M,50-54,21:32.16,Don R Perry,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,1500 M Freestyle,SCM,M,50-54,24:36.18,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,1500 M Freestyle,SCM,M,50-54,26:04.60,William E Shaw,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,50 M Backstroke,SCM,M,50-54,36.72,Casey Smith,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,M,50-54,1:23.59,Casey Smith,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,M,50-54,1:44.09,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,50-54,33.77,Winston S Uchiyama,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,50-54,35.78,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,50-54,38.19,Casey Smith,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Breaststroke,SCM,M,50-54,46.63,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:13.55,Winston S Uchiyama,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:20.89,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:39.95,James D Koubeck,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,M,50-54,1:40.05,Don R Perry,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,200 M Breaststroke,SCM,M,50-54,2:41.49,Winston S Uchiyama,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,M,50-54,3:08.53,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,50-54,29.92,Casey Smith,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,50-54,30.93,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Butterfly,SCM,M,50-54,31.50,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Butterfly,SCM,M,50-54,1:06.42,Winston S Uchiyama,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Butterfly,SCM,M,50-54,1:09.46,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Butterfly,SCM,M,50-54,2:32.32,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:06.53,Winston S Uchiyama,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:15.13,Kurt S Mickelson,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:15.98,Casey Smith,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:23.88,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,4
+ARIZ,100 M Individual Medley,SCM,M,50-54,1:29.23,Don R Perry,,Ron Johnson Invitational at Tempe,2007,5
+ARIZ,200 M Individual Medley,SCM,M,50-54,2:40.24,Robert J Ditolla,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,50-54,2:56.62,John C Holzbach,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Individual Medley,SCM,M,50-54,3:14.01,Don R Perry,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,400 M Individual Medley,SCM,M,50-54,6:34.85,Don R Perry,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,55-59,29.08,Michael B Johnston,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,55-59,1:04.98,Michael B Johnston,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,55-59,1:21.19,Allan Duckworth,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,55-59,2:32.20,Michael B Johnston,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,M,55-59,5:24.60,Michael B Johnston,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,55-59,11:17.23,Michael B Johnston,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,55-59,15:56.90,Rick Shaffer,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,1500 M Freestyle,SCM,M,55-59,21:58.60,Michael B Johnston,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,55-59,33.30,Gregory S Gush,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Backstroke,SCM,M,55-59,1:12.77,Gregory S Gush,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,M,55-59,2:46.61,Gregory S Gush,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,55-59,38.30,Robert J Liotta,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,55-59,43.42,Allan Duckworth,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:22.32,Robert J Liotta,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,M,55-59,1:39.00,Allan Duckworth,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,M,55-59,3:01.88,Robert J Liotta,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,M,55-59,3:37.30,Allan Duckworth,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Butterfly,SCM,M,55-59,3:01.87,Robert J Liotta,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,M,55-59,6:14.07,Robert J Liotta,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,60-64,31.70,Todd S Boyd,,Huntsman Senior Games,2007,1
+ARIZ,50 M Freestyle,SCM,M,60-64,32.67,Hop Bailey,,SPMA SCM Champs,2007,2
+ARIZ,50 M Freestyle,SCM,M,60-64,35.58,Phillip Whitten,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,50 M Freestyle,SCM,M,60-64,39.77,John C Welton,,Huntsman Senior Games,2007,4
+ARIZ,100 M Freestyle,SCM,M,60-64,1:10.62,Hop Bailey,,SPMA SCM Champs,2007,1
+ARIZ,100 M Freestyle,SCM,M,60-64,1:12.02,Robert W Lewis,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,M,60-64,1:14.01,Todd S Boyd,,Huntsman Senior Games,2007,3
+ARIZ,100 M Freestyle,SCM,M,60-64,1:29.64,John C Welton,,Huntsman Senior Games,2007,4
+ARIZ,200 M Freestyle,SCM,M,60-64,2:33.74,Hop Bailey,,SPMA SCM Champs,2007,1
+ARIZ,200 M Freestyle,SCM,M,60-64,3:14.50,John C Welton,,Huntsman Senior Games,2007,2
+ARIZ,400 M Freestyle,SCM,M,60-64,5:26.88,Hop Bailey,,SPMA SCM Champs,2007,1
+ARIZ,400 M Freestyle,SCM,M,60-64,5:39.94,Dave G Gemmill,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,1500 M Freestyle,SCM,M,60-64,21:11.34,Hop Bailey,,SPMA SCM Champs,2007,1
+ARIZ,50 M Backstroke,SCM,M,60-64,42.80,Phillip Whitten,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,60-64,38.48,Robert W Lewis,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,60-64,46.39,John C Welton,,Huntsman Senior Games,2007,2
+ARIZ,50 M Breaststroke,SCM,M,60-64,47.18,Phillip Whitten,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,M,60-64,1:27.28,Robert W Lewis,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,M,60-64,1:44.04,John C Welton,,Huntsman Senior Games,2007,2
+ARIZ,200 M Breaststroke,SCM,M,60-64,3:08.29,Dave G Gemmill,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,60-64,34.51,Dave G Gemmill,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,60-64,36.85,Todd S Boyd,,Huntsman Senior Games,2007,2
+ARIZ,100 M Butterfly,SCM,M,60-64,1:40.30,Todd S Boyd,,Huntsman Senior Games,2007,1
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:22.66,Dave G Gemmill,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:33.76,Todd S Boyd,,Huntsman Senior Games,2007,2
+ARIZ,100 M Individual Medley,SCM,M,60-64,1:41.29,John C Welton,,Huntsman Senior Games,2007,3
+ARIZ,200 M Individual Medley,SCM,M,60-64,2:57.97,Hop Bailey,,SPMA SCM Champs,2007,1
+ARIZ,200 M Individual Medley,SCM,M,60-64,3:31.41,Todd S Boyd,,Huntsman Senior Games,2007,2
+ARIZ,400 M Individual Medley,SCM,M,60-64,6:17.62,Hop Bailey,,SPMA SCM Champs,2007,1
+ARIZ,400 M Individual Medley,SCM,M,60-64,7:46.34,Todd S Boyd,,Huntsman Senior Games,2007,2
+ARIZ,50 M Freestyle,SCM,M,65-69,40.66,Jim D Wise,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Freestyle,SCM,M,65-69,50.83,Thomas A Monroe Sr.,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Freestyle,SCM,M,65-69,1:34.66,Mel Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Freestyle,SCM,M,65-69,2:05.06,Thomas A Monroe Sr.,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Freestyle,SCM,M,65-69,3:06.08,Bob L Jones,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Freestyle,SCM,M,65-69,5:51.27,Mel Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,65-69,12:10.53,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,1500 M Freestyle,SCM,M,65-69,22:44.85,Mel Dyck,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,1500 M Freestyle,SCM,M,65-69,24:41.60,Bob L Jones,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Backstroke,SCM,M,65-69,51.50,Bob L Jones,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Backstroke,SCM,M,65-69,1:09.33,Thomas A Monroe Sr.,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,100 M Backstroke,SCM,M,65-69,1:43.44,Bob L Jones,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,65-69,40.42,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,50 M Breaststroke,SCM,M,65-69,50.92,Jim D Wise,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,50 M Breaststroke,SCM,M,65-69,58.49,Thomas A Monroe Sr.,,Ron Johnson Invitational at Tempe,2007,3
+ARIZ,100 M Breaststroke,SCM,M,65-69,1:29.51,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,100 M Breaststroke,SCM,M,65-69,2:17.13,Thomas A Monroe Sr.,,Ron Johnson Invitational at Tempe,2007,2
+ARIZ,200 M Breaststroke,SCM,M,65-69,3:21.92,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,100 M Butterfly,SCM,M,65-69,1:42.66,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,200 M Butterfly,SCM,M,65-69,3:38.06,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,100 M Individual Medley,SCM,M,65-69,1:45.56,Frank E Eissing,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,65-69,3:14.28,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,400 M Individual Medley,SCM,M,65-69,7:05.24,Mel Dyck,,Huntsman Senior Games,2007,1
+ARIZ,100 M Breaststroke,SCM,M,70-74,1:42.03,Ray Bellem,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,M,70-74,3:46.44,Ray Bellem,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Butterfly,SCM,M,70-74,44.15,Ray Bellem,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Individual Medley,SCM,M,70-74,3:40.94,Ray Bellem,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,50 M Breaststroke,SCM,M,75-79,53.19,Daniel Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,100 M Breaststroke,SCM,M,75-79,1:57.02,Daniel Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Breaststroke,SCM,M,75-79,4:21.13,Daniel Gruender,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Freestyle,SCM,M,80-84,4:18.26,Lou Silverstein,,SCMC Santa Clarita Masters Club,2007,1
+ARIZ,400 M Freestyle,SCM,M,80-84,8:54.34,Lou Silverstein,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,800 M Freestyle,SCM,M,80-84,18:48.51,Lou Silverstein,,SPMA SCM Champs,2007,1
+ARIZ,1500 M Freestyle,SCM,M,80-84,34:32.28,Lou Silverstein,,SCMC Santa Clarita Masters Club,2007,1
+ARIZ,100 M Backstroke,SCM,M,80-84,2:05.67,Lou Silverstein,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,200 M Backstroke,SCM,M,80-84,4:24.51,Lou Silverstein,,Ron Johnson Invitational at Tempe,2007,1
+ARIZ,400 M Individual Medley,SCM,M,80-84,10:40.22,Lou Silverstein,,SPMA SCM Champs,2007,1

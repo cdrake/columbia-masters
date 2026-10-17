@@ -1,0 +1,332 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 Y Freestyle,SCY,W,18-24,30.86,Adrien M Zap,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Freestyle,SCY,W,18-24,1:08.12,Katherine A Woolery,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Freestyle,SCY,W,18-24,1:08.38,Adrien M Zap,,2005 USMS Short Course Nationals,2005,2
+CONN,200 Y Freestyle,SCY,W,18-24,2:37.90,Adrien M Zap,,2005 USMS Short Course Nationals,2005,1
+CONN,500 Y Freestyle,SCY,W,18-24,7:06.15,Adrien M Zap,,2005 USMS Short Course Nationals,2005,1
+CONN,1000 Y Freestyle,SCY,W,18-24,15:21.45,Adrien M Zap,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Breaststroke,SCY,W,18-24,39.32,Katherine A Woolery,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Breaststroke,SCY,W,18-24,1:23.76,Katherine A Woolery,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Butterfly,SCY,W,18-24,34.97,Katherine A Woolery,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Butterfly,SCY,W,18-24,2:16.96,Rachel G Zappalorti,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,W,18-24,1:06.23,Rachel G Zappalorti,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,W,18-24,1:17.89,Katherine A Woolery,,2005 USMS Short Course Nationals,2005,2
+CONN,200 Y Individual Medley,SCY,W,18-24,2:23.73,Rachel G Zappalorti,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Individual Medley,SCY,W,18-24,2:52.89,Katherine A Woolery,,2005 USMS Short Course Nationals,2005,2
+CONN,50 Y Freestyle,SCY,W,25-29,25.79,Cindy A Hoffmann,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Freestyle,SCY,W,25-29,56.60,Cindy A Hoffmann,,New England SCY Champs,2005,1
+CONN,200 Y Freestyle,SCY,W,25-29,2:03.09,Cindy A Hoffmann,,2005 USMS Short Course Nationals,2005,1
+CONN,500 Y Freestyle,SCY,W,25-29,5:43.94,Cindy A Hoffmann,,New England SCY Champs,2005,1
+CONN,1000 Y Freestyle,SCY,W,25-29,11:59.02,Cindy A Hoffmann,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Butterfly,SCY,W,25-29,28.50,Cindy A Hoffmann,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,W,30-34,29.64,Lisa Fahey,,Spring Fling,2005,1
+CONN,100 Y Freestyle,SCY,W,30-34,1:06.37,Lisa Fahey,,Spring Fling,2005,1
+CONN,200 Y Freestyle,SCY,W,30-34,2:26.28,Lisa Fahey,,Spring Fling,2005,1
+CONN,50 Y Freestyle,SCY,W,35-39,28.03,Ausra S McKenna,,Colonies Zone SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,W,35-39,29.65,Lisa Fahey,,2005 USMS Short Course Nationals,2005,2
+CONN,50 Y Freestyle,SCY,W,35-39,32.60,Kimberly A Russo,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,50 Y Freestyle,SCY,W,35-39,36.45,Carolyn Daniels,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,100 Y Freestyle,SCY,W,35-39,1:01.55,Ausra S McKenna,,New England SCY Champs,2005,1
+CONN,100 Y Freestyle,SCY,W,35-39,1:04.62,Lisa Fahey,,2005 USMS Short Course Nationals,2005,2
+CONN,100 Y Freestyle,SCY,W,35-39,1:26.37,Carolyn Daniels,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Freestyle,SCY,W,35-39,2:19.53,Ausra S McKenna,,Colonies Zone SCY Champs,2005,1
+CONN,200 Y Freestyle,SCY,W,35-39,2:32.49,Jean M Quinn,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Freestyle,SCY,W,35-39,2:33.14,Lisa Fahey,,2005 USMS Short Course Nationals,2005,3
+CONN,200 Y Freestyle,SCY,W,35-39,2:33.33,Kimberly A Russo,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,500 Y Freestyle,SCY,W,35-39,6:41.66,Jean M Quinn,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,W,35-39,6:42.65,Kimberly A Russo,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,1650 Y Freestyle,SCY,W,35-39,23:12.13,Kimberly A Russo,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Backstroke,SCY,W,35-39,37.70,Jean M Quinn,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,W,35-39,41.16,Kimberly A Russo,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Backstroke,SCY,W,35-39,45.20,Lisa Gulino,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Backstroke,SCY,W,35-39,3:04.86,Kimberly A Russo,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Breaststroke,SCY,W,35-39,36.39,Ausra S McKenna,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Breaststroke,SCY,W,35-39,37.82,Jill A Looney,,Unofficial New Jersey Team Champs,2005,2
+CONN,50 Y Breaststroke,SCY,W,35-39,45.09,Lisa Gulino,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,100 Y Breaststroke,SCY,W,35-39,1:18.21,Ausra S McKenna,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Butterfly,SCY,W,35-39,32.06,Jill A Looney,,Unofficial New Jersey Team Champs,2005,1
+CONN,50 Y Butterfly,SCY,W,35-39,34.20,Ausra S McKenna,,New England SCY Champs,2005,2
+CONN,100 Y Individual Medley,SCY,W,35-39,1:14.05,Jill A Looney,,Unofficial New Jersey Team Champs,2005,1
+CONN,100 Y Individual Medley,SCY,W,35-39,1:15.16,Ausra S McKenna,,Colonies Zone SCY Champs,2005,2
+CONN,100 Y Individual Medley,SCY,W,35-39,1:37.39,Lisa Gulino,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Individual Medley,SCY,W,35-39,2:43.41,Ausra S McKenna,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,W,40-44,30.69,Cheryl A Kupan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,W,40-44,30.71,Vyvyan O Burns,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Freestyle,SCY,W,40-44,31.65,Kathleen A May,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,50 Y Freestyle,SCY,W,40-44,32.66,Jody E Drake,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,100 Y Freestyle,SCY,W,40-44,1:01.46,Cheryl Barany,,Valentines Day Extravaganza,2005,1
+CONN,100 Y Freestyle,SCY,W,40-44,1:02.27,Sheila M Stolarski,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Freestyle,SCY,W,40-44,1:10.65,Vyvyan O Burns,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,100 Y Freestyle,SCY,W,40-44,1:13.95,Jody E Drake,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,200 Y Freestyle,SCY,W,40-44,2:27.02,Kelli Billish-Fitter,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Freestyle,SCY,W,40-44,2:36.30,Rae Ann Rutkowski,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,500 Y Freestyle,SCY,W,40-44,6:39.25,Kelli Billish-Fitter,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,W,40-44,31.81,Sheila M Stolarski,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,W,40-44,38.94,Jody E Drake,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Backstroke,SCY,W,40-44,1:07.59,Sheila M Stolarski,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Backstroke,SCY,W,40-44,2:21.00,Sheila M Stolarski,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,W,40-44,35.53,Cheryl A Barany,,Colonies Zone SCY Champs,2005,1
+CONN,50 Y Breaststroke,SCY,W,40-44,38.23,Rae Ann Rutkowski,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Breaststroke,SCY,W,40-44,42.61,Kathleen A May,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,100 Y Breaststroke,SCY,W,40-44,1:15.63,Cheryl A Barany,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Breaststroke,SCY,W,40-44,1:22.94,Kelli Billish-Fitter,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Breaststroke,SCY,W,40-44,1:23.70,Rae Ann Rutkowski,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Breaststroke,SCY,W,40-44,2:46.32,Cheryl A Barany,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Breaststroke,SCY,W,40-44,2:57.58,Kelli Billish-Fitter,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Butterfly,SCY,W,40-44,30.44,Cheryl A Barany,,New England SCY Champs,2005,1
+CONN,50 Y Butterfly,SCY,W,40-44,30.97,Anne E Bernhard,,2005 USMS Short Course Nationals,2005,2
+CONN,50 Y Butterfly,SCY,W,40-44,32.60,Sian Nimkoff,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,50 Y Butterfly,SCY,W,40-44,34.70,Kathleen A May,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,50 Y Butterfly,SCY,W,40-44,38.40,Vyvyan O Burns,,Connecticut Masters Groundhog Day Meet,2005,5
+CONN,100 Y Butterfly,SCY,W,40-44,1:06.56,Cheryl A Barany,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Butterfly,SCY,W,40-44,1:10.56,Anne E Bernhard,,2005 USMS Short Course Nationals,2005,2
+CONN,100 Y Butterfly,SCY,W,40-44,1:21.08,Kathleen A May,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Butterfly,SCY,W,40-44,2:35.31,Cheryl A Barany,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Individual Medley,SCY,W,40-44,1:08.73,Cheryl A Barany,,Colonies Zone SCY Champs,2005,1
+CONN,100 Y Individual Medley,SCY,W,40-44,1:10.11,Anne E Bernhard,,2005 USMS Short Course Nationals,2005,2
+CONN,100 Y Individual Medley,SCY,W,40-44,1:14.24,Sian Nimkoff,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,100 Y Individual Medley,SCY,W,40-44,1:23.01,Kathleen A May,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,100 Y Individual Medley,SCY,W,40-44,1:26.27,Jody E Drake,,Connecticut Masters Groundhog Day Meet,2005,5
+CONN,200 Y Individual Medley,SCY,W,40-44,2:26.91,Cheryl A Barany,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Individual Medley,SCY,W,40-44,2:35.87,Sheila M Stolarski,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Individual Medley,SCY,W,40-44,2:36.87,Anne E Bernhard,,2005 USMS Short Course Nationals,2005,3
+CONN,200 Y Individual Medley,SCY,W,40-44,3:03.17,Vyvyan O Burns,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,400 Y Individual Medley,SCY,W,40-44,5:17.90,Cheryl A Barany,,2005 USMS Short Course Nationals,2005,1
+CONN,400 Y Individual Medley,SCY,W,40-44,5:39.66,Anne E Bernhard,,2005 USMS Short Course Nationals,2005,2
+CONN,50 Y Freestyle,SCY,W,45-49,29.14,Karen M Calby,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,W,45-49,31.67,May Beth Osmun,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Freestyle,SCY,W,45-49,1:03.10,Karen M Calby,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Freestyle,SCY,W,45-49,1:10.19,May Beth Osmun,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Freestyle,SCY,W,45-49,2:18.05,Karen M Calby,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Freestyle,SCY,W,45-49,2:32.80,Ann F Faust,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Freestyle,SCY,W,45-49,2:36.15,May Beth Osmun,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,50 Y Backstroke,SCY,W,45-49,35.75,Karen M Calby,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,W,45-49,37.38,May Beth Osmun,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Breaststroke,SCY,W,45-49,38.40,Ann F Faust,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Breaststroke,SCY,W,45-49,1:20.91,Ann F Faust,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Breaststroke,SCY,W,45-49,2:54.42,Ann F Faust,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:14.10,Karen M Calby,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:18.06,Ann F Faust,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Freestyle,SCY,W,50-54,43.27,Robyn B Guimont,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,W,50-54,47.19,Robyn B Guimont,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,W,50-54,1:48.45,Robyn B Guimont,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,W,50-54,46.69,Robyn B Guimont,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:49.68,Robyn B Guimont,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,W,55-59,31.40,Meredith A Moore,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,W,55-59,6:26.64,Meredith A Moore,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,1650 Y Freestyle,SCY,W,55-59,21:19.53,Meredith A Moore,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Backstroke,SCY,W,55-59,34.92,Meredith A Moore,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Backstroke,SCY,W,55-59,1:16.09,Meredith A Moore,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Backstroke,SCY,W,55-59,2:45.64,Meredith A Moore,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Freestyle,SCY,W,60-64,38.70,Ann Louise Onton,,MVY Pancake Pentathlon,2005,1
+CONN,100 Y Freestyle,SCY,W,60-64,1:29.93,Ann Louise Onton,,MVY Pancake Pentathlon,2005,1
+CONN,200 Y Freestyle,SCY,W,60-64,3:32.43,Ann Louise Onton,,MVY Pancake Pentathlon,2005,1
+CONN,50 Y Butterfly,SCY,W,60-64,42.40,Ann Louise Onton,,MVY Pancake Pentathlon,2005,1
+CONN,400 Y Individual Medley,SCY,W,60-64,8:06.02,Ann Louise Onton,,MVY Pancake Pentathlon,2005,1
+CONN,50 Y Freestyle,SCY,W,65-69,42.25,Margaret Collins,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,W,65-69,46.09,Arleen V Kelly,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Freestyle,SCY,W,65-69,1:36.59,Margaret Collins,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,W,65-69,1:02.27,Arleen V Kelly,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,W,65-69,1:29.29,Margit H Jebe,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Backstroke,SCY,W,65-69,3:15.20,Margit H Jebe,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Breaststroke,SCY,W,65-69,42.56,Margit H Jebe,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Breaststroke,SCY,W,65-69,1:33.13,Margit H Jebe,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Breaststroke,SCY,W,65-69,3:21.15,Margit H Jebe,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Individual Medley,SCY,W,65-69,3:11.93,Margit H Jebe,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Freestyle,SCY,M,18-24,22.25,Peter M Mesavage,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,M,18-24,22.79,Richard Chute,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Freestyle,SCY,M,18-24,49.97,Richard Chute,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Freestyle,SCY,M,18-24,51.70,Peter M Mesavage,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Freestyle,SCY,M,18-24,1:54.33,Richard Chute,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,M,18-24,27.75,Peter M Mesavage,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,M,18-24,59.14,Peter M Mesavage,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,18-24,28.20,Steve R Tamas,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,18-24,28.23,Mike Krajewski,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Breaststroke,SCY,M,18-24,1:02.15,Steve R Tamas,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Butterfly,SCY,M,18-24,24.51,Mike Krajewski,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Butterfly,SCY,M,18-24,26.70,Steve R Tamas,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Individual Medley,SCY,M,18-24,56.41,Mike Krajewski,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,M,25-29,23.56,Joshua Usdavin,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,M,25-29,23.60,Kenneth W Schulz,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Freestyle,SCY,M,25-29,24.40,Mike Maher,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,50 Y Freestyle,SCY,M,25-29,24.92,David A Fine,,Connecticut Masters Groundhog Day Meet,2005,4
+CONN,100 Y Freestyle,SCY,M,25-29,51.42,Joshua Usdavin,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Freestyle,SCY,M,25-29,54.38,Kenneth W Schulz,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Freestyle,SCY,M,25-29,1:58.03,Joshua Usdavin,,2005 USMS Short Course Nationals,2005,1
+CONN,500 Y Freestyle,SCY,M,25-29,5:31.54,Joshua Usdavin,,2005 USMS Short Course Nationals,2005,1
+CONN,500 Y Freestyle,SCY,M,25-29,5:47.54,Kenneth W Schulz,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,1000 Y Freestyle,SCY,M,25-29,11:41.73,Joshua Usdavin,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Backstroke,SCY,M,25-29,1:00.19,Kenneth W Schulz,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,25-29,31.37,Mike Maher,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Breaststroke,SCY,M,25-29,1:11.90,Mike Maher,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Butterfly,SCY,M,25-29,26.66,David A Fine,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Butterfly,SCY,M,25-29,28.50,Mike Maher,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Individual Medley,SCY,M,25-29,1:02.43,David A Fine,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,400 Y Individual Medley,SCY,M,25-29,5:19.84,Joshua Usdavin,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Freestyle,SCY,M,30-34,22.56,Jared W Walkenhorst,,Colonies Zone SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,30-34,23.04,Jon G Rosen,,2005 USMS Short Course Nationals,2005,2
+CONN,100 Y Freestyle,SCY,M,30-34,49.90,Jon G Rosen,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Freestyle,SCY,M,30-34,52.81,Jared W Walkenhorst,,New England SCY Champs,2005,2
+CONN,200 Y Freestyle,SCY,M,30-34,1:51.76,Jon G Rosen,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Backstroke,SCY,M,30-34,28.75,Chris N Dainiak,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,M,30-34,1:03.87,Chris N Dainiak,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,30-34,28.11,Jared W Walkenhorst,,Colonies Zone SCY Champs,2005,1
+CONN,50 Y Breaststroke,SCY,M,30-34,30.04,Jon G Rosen,,2005 USMS Short Course Nationals,2005,2
+CONN,100 Y Breaststroke,SCY,M,30-34,1:00.58,Jared W Walkenhorst,,Colonies Zone SCY Champs,2005,1
+CONN,100 Y Breaststroke,SCY,M,30-34,1:03.58,Jon G Rosen,,2005 USMS Short Course Nationals,2005,2
+CONN,200 Y Breaststroke,SCY,M,30-34,2:12.88,Jared W Walkenhorst,,Colonies Zone SCY Champs,2005,1
+CONN,50 Y Butterfly,SCY,M,30-34,26.10,Jared W Walkenhorst,,Colonies Zone SCY Champs,2005,1
+CONN,100 Y Butterfly,SCY,M,30-34,1:02.25,Jared W Walkenhorst,,New England SCY Champs,2005,1
+CONN,100 Y Individual Medley,SCY,M,30-34,56.90,Jared W Walkenhorst,,Colonies Zone SCY Champs,2005,1
+CONN,100 Y Individual Medley,SCY,M,30-34,58.45,Jon G Rosen,,2005 USMS Short Course Nationals,2005,2
+CONN,200 Y Individual Medley,SCY,M,30-34,2:06.75,Jared W Walkenhorst,,2005 USMS Short Course Nationals,2005,1
+CONN,400 Y Individual Medley,SCY,M,30-34,4:50.75,Jared W Walkenhorst,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,35-39,26.58,Patrick L Good,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,35-39,26.60,Anthony J Palluzzi,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Freestyle,SCY,M,35-39,26.80,James C Robison,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,100 Y Freestyle,SCY,M,35-39,59.80,Patrick L Good,,New England SCY Champs,2005,1
+CONN,100 Y Freestyle,SCY,M,35-39,1:03.50,James C Robison,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Freestyle,SCY,M,35-39,2:05.58,Mark A Locken,,New England SCY Champs,2005,1
+CONN,200 Y Freestyle,SCY,M,35-39,2:16.39,Anthony J Palluzzi,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,500 Y Freestyle,SCY,M,35-39,6:13.83,James C Robison,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,M,35-39,1:09.36,Mark A Locken,,Wheaton College Masters Meet,2005,1
+CONN,200 Y Breaststroke,SCY,M,35-39,2:46.30,Mark A Locken,,New England SCY Champs,2005,1
+CONN,50 Y Butterfly,SCY,M,35-39,29.93,Anthony J Palluzzi,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Butterfly,SCY,M,35-39,1:05.65,Mark A Locken,,Wheaton College Masters Meet,2005,1
+CONN,200 Y Butterfly,SCY,M,35-39,2:36.66,Mark A Locken,,New England SCY Champs,2005,1
+CONN,100 Y Individual Medley,SCY,M,35-39,1:05.32,Mark A Locken,,New England SCY Champs,2005,1
+CONN,200 Y Individual Medley,SCY,M,35-39,2:27.02,Mark A Locken,,New England SCY Champs,2005,1
+CONN,200 Y Individual Medley,SCY,M,35-39,2:33.59,James C Robison,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,400 Y Individual Medley,SCY,M,35-39,5:23.42,Mark A Locken,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,40-44,32.99,Daniel W Adamik,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Freestyle,SCY,M,40-44,2:06.93,Rick Klutey,,New England SCY Champs,2005,1
+CONN,500 Y Freestyle,SCY,M,40-44,7:57.73,Daniel W Adamik,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,40-44,33.34,Rick Klutey,,New England SCY Champs,2005,1
+CONN,50 Y Breaststroke,SCY,M,40-44,49.06,Daniel W Adamik,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Breaststroke,SCY,M,40-44,2:33.11,Rick Klutey,,New England SCY Champs,2005,1
+CONN,200 Y Individual Medley,SCY,M,40-44,2:20.84,Rick Klutey,,New England SCY Champs,2005,1
+CONN,400 Y Individual Medley,SCY,M,40-44,4:58.34,Rick Klutey,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,45-49,24.52,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,50 Y Freestyle,SCY,M,45-49,30.06,Brian G Quinn,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Freestyle,SCY,M,45-49,53.29,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,200 Y Freestyle,SCY,M,45-49,1:58.00,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,500 Y Freestyle,SCY,M,45-49,5:36.11,Jake Gulick,,2005 USMS Short Course Nationals,2005,1
+CONN,1000 Y Freestyle,SCY,M,45-49,11:44.21,Jake Gulick,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Breaststroke,SCY,M,45-49,38.39,Brian G Quinn,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,45-49,38.42,David Logan,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Breaststroke,SCY,M,45-49,1:20.41,David Logan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Breaststroke,SCY,M,45-49,2:53.50,David Logan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Butterfly,SCY,M,45-49,25.84,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,50 Y Butterfly,SCY,M,45-49,32.96,David Logan,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Butterfly,SCY,M,45-49,58.12,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,200 Y Butterfly,SCY,M,45-49,2:32.87,Kevin T Hoffman,,New England SCY Champs,2005,1
+CONN,100 Y Individual Medley,SCY,M,45-49,1:01.65,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,200 Y Individual Medley,SCY,M,45-49,2:18.32,Roland J Beneke,,YMCA Nationals,2005,1
+CONN,200 Y Individual Medley,SCY,M,45-49,2:20.39,Jake Gulick,,2005 USMS Short Course Nationals,2005,2
+CONN,400 Y Individual Medley,SCY,M,45-49,4:55.26,Jake Gulick,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Freestyle,SCY,M,50-54,25.70,John M Craig,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,50-54,26.71,William J Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Freestyle,SCY,M,50-54,35.57,James A Scally,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,100 Y Freestyle,SCY,M,50-54,1:00.87,William J Geoghegan,,New England SCY Champs,2005,1
+CONN,100 Y Freestyle,SCY,M,50-54,1:22.06,James A Scally,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,500 Y Freestyle,SCY,M,50-54,6:31.51,William J Geoghegan,,New England SCY Champs,2005,1
+CONN,500 Y Freestyle,SCY,M,50-54,8:35.86,James A Scally,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Backstroke,SCY,M,50-54,30.24,John M Craig,,New England SCY Champs,2005,1
+CONN,50 Y Backstroke,SCY,M,50-54,34.72,William J Geoghegan,,New England SCY Champs,2005,2
+CONN,100 Y Backstroke,SCY,M,50-54,1:16.58,William J Geoghegan,,New England SCY Champs,2005,1
+CONN,50 Y Breaststroke,SCY,M,50-54,35.55,Rick C Fulljames,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Breaststroke,SCY,M,50-54,1:17.95,Rick C Fulljames,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Breaststroke,SCY,M,50-54,1:21.85,William J Geoghegan,,New England SCY Champs,2005,2
+CONN,100 Y Breaststroke,SCY,M,50-54,1:48.74,James A Scally,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Breaststroke,SCY,M,50-54,2:56.54,Rick C Fulljames,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Breaststroke,SCY,M,50-54,2:58.14,William J Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Butterfly,SCY,M,50-54,30.89,William J Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Butterfly,SCY,M,50-54,1:28.20,Mark A Taylor,,Barrington Area Masters Meet,2005,1
+CONN,200 Y Butterfly,SCY,M,50-54,2:11.84,John M Craig,,New England SCY Champs,2005,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:10.85,William J Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:17.77,Rick C Fulljames,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Individual Medley,SCY,M,50-54,2:40.86,William J Geoghegan,,New England SCY Champs,2005,1
+CONN,50 Y Freestyle,SCY,M,55-59,25.43,William J Geoghegan,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Freestyle,SCY,M,55-59,28.47,Bruce K Girton,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,50 Y Freestyle,SCY,M,55-59,33.50,Albert F Gould,,Unofficial New Jersey Team Champs,2005,3
+CONN,100 Y Freestyle,SCY,M,55-59,57.35,William J Geoghegan,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Freestyle,SCY,M,55-59,1:03.80,Bruce K Girton,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Freestyle,SCY,M,55-59,1:19.59,Albert F Gould,,Connecticut Masters Groundhog Day Meet,2005,3
+CONN,200 Y Freestyle,SCY,M,55-59,2:14.29,William J Geoghegan,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Freestyle,SCY,M,55-59,2:27.75,Bruce K Girton,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,500 Y Freestyle,SCY,M,55-59,7:02.99,Robert M Cahill,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,M,55-59,7:54.48,Bruce K Girton,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,500 Y Freestyle,SCY,M,55-59,8:22.39,Albert F Gould,,Unofficial New Jersey Team Champs,2005,3
+CONN,1000 Y Freestyle,SCY,M,55-59,16:17.16,Albert F Gould,,Unofficial New Jersey Team Champs,2005,1
+CONN,50 Y Backstroke,SCY,M,55-59,36.65,Robert M Cahill,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,M,55-59,1:20.52,Robert M Cahill,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Backstroke,SCY,M,55-59,2:45.65,Robert M Cahill,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,55-59,41.41,Albert F Gould,,Unofficial New Jersey Team Champs,2005,1
+CONN,100 Y Breaststroke,SCY,M,55-59,1:34.57,Albert F Gould,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:07.33,William J Geoghegan,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:28.92,Bruce K Girton,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,200 Y Individual Medley,SCY,M,55-59,2:33.73,William J Geoghegan,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Freestyle,SCY,M,60-64,30.55,Douglas H Clelford,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Freestyle,SCY,M,60-64,1:15.06,Douglas H Clelford,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Freestyle,SCY,M,60-64,2:10.33,Jack Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,M,60-64,5:58.01,Jack Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,M,60-64,8:34.64,Peter P Berghaus,,New York City Meet,2005,2
+CONN,50 Y Backstroke,SCY,M,60-64,30.81,Jack Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,M,60-64,1:10.02,Jack Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Backstroke,SCY,M,60-64,3:26.66,Peter P Berghaus,,Spring Fling,2005,1
+CONN,50 Y Breaststroke,SCY,M,60-64,36.47,Tony Riker,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Breaststroke,SCY,M,60-64,1:16.46,Michael A Laux,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Breaststroke,SCY,M,60-64,1:19.57,Tony Riker,,2005 USMS Short Course Nationals,2005,2
+CONN,100 Y Breaststroke,SCY,M,60-64,1:32.67,Peter P Berghaus,,Spring Fling,2005,3
+CONN,200 Y Breaststroke,SCY,M,60-64,2:47.48,Michael A Laux,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Breaststroke,SCY,M,60-64,3:01.96,Tony Riker,,2005 USMS Short Course Nationals,2005,2
+CONN,200 Y Breaststroke,SCY,M,60-64,3:23.58,Peter P Berghaus,,New York City Meet,2005,3
+CONN,50 Y Butterfly,SCY,M,60-64,30.42,Michael A Laux,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Butterfly,SCY,M,60-64,37.27,Douglas H Clelford,,Connecticut Masters Groundhog Day Meet,2005,2
+CONN,100 Y Butterfly,SCY,M,60-64,1:13.81,Michael A Laux,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Individual Medley,SCY,M,60-64,1:27.84,Peter P Berghaus,,New York City Meet,2005,1
+CONN,200 Y Individual Medley,SCY,M,60-64,2:35.78,Michael A Laux,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Individual Medley,SCY,M,60-64,3:24.99,Peter P Berghaus,,New York City Meet,2005,2
+CONN,400 Y Individual Medley,SCY,M,60-64,5:22.41,Jack Geoghegan,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Freestyle,SCY,M,70-74,56.47,James A Goldsmith,,Colonies Zone SCY Champs,2005,1
+CONN,100 Y Freestyle,SCY,M,70-74,2:12.86,James A Goldsmith,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Freestyle,SCY,M,70-74,5:21.58,James A Goldsmith,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,M,70-74,6:36.28,George E Brunstad,,YMCA Nationals,2005,1
+CONN,500 Y Freestyle,SCY,M,70-74,14:39.48,James A Goldsmith,,Colonies Zone SCY Champs,2005,2
+CONN,1650 Y Freestyle,SCY,M,70-74,22:37.23,George E Brunstad,,YMCA Nationals,2005,1
+CONN,1650 Y Freestyle,SCY,M,70-74,50:52.87,James A Goldsmith,,Colonies Zone SCY Champs,2005,2
+CONN,50 Y Backstroke,SCY,M,70-74,1:31.67,James A Goldsmith,,Colonies Zone SCY Champs,2005,1
+CONN,100 Y Backstroke,SCY,M,70-74,3:03.94,James A Goldsmith,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Backstroke,SCY,M,70-74,6:23.48,James A Goldsmith,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Breaststroke,SCY,M,70-74,3:25.57,George E Brunstad,,YMCA Nationals,2005,1
+CONN,200 Y Butterfly,SCY,M,70-74,3:31.35,George E Brunstad,,YMCA Nationals,2005,1
+CONN,200 Y Individual Medley,SCY,M,70-74,3:03.98,George E Brunstad,,YMCA Nationals,2005,1
+CONN,400 Y Individual Medley,SCY,M,70-74,6:37.19,George E Brunstad,,YMCA Nationals,2005,1
+CONN,100 Y Freestyle,SCY,M,75-79,1:42.77,Fred H Goldner,,New York City Meet,2005,1
+CONN,200 Y Freestyle,SCY,M,75-79,3:44.29,Fred H Goldner,,New York City Meet,2005,1
+CONN,500 Y Freestyle,SCY,M,75-79,9:25.90,Fred H Goldner,,New York City Meet,2005,1
+CONN,1650 Y Freestyle,SCY,M,75-79,32:44.71,Fred H Goldner,,2005 USMS Short Course Nationals,2005,1
+CONN,50 Y Breaststroke,SCY,M,75-79,38.26,Charles J Urstadt,,2005 USMS Short Course Nationals,2005,1
+CONN,100 Y Breaststroke,SCY,M,75-79,1:30.45,Charles J Urstadt,,2005 USMS Short Course Nationals,2005,1
+CONN,200 Y Breaststroke,SCY,M,75-79,3:32.93,Charles J Urstadt,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Butterfly,SCY,M,75-79,38.07,Lenrod Goldstone,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Butterfly,SCY,M,75-79,1:28.89,Lenrod Goldstone,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Butterfly,SCY,M,75-79,3:26.24,Lenrod Goldstone,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Individual Medley,SCY,M,75-79,1:26.11,Lenrod Goldstone,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,400 Y Individual Medley,SCY,M,75-79,6:51.69,Lenrod Goldstone,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Backstroke,SCY,M,80-84,1:01.30,Ted M Simon,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,50 Y Breaststroke,SCY,M,80-84,1:02.37,Ted M Simon,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Breaststroke,SCY,M,80-84,2:27.23,Ted M Simon,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,500 Y Freestyle,SCY,M,85-89,9:49.18,John Merrill,,New England SCY Champs,2005,1
+CONN,1650 Y Freestyle,SCY,M,85-89,33:50.59,John Merrill,,New England SCY Champs,2005,1
+CONN,50 Y Backstroke,SCY,M,85-89,46.57,John Merrill,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,100 Y Backstroke,SCY,M,85-89,1:43.86,John Merrill,,Connecticut Masters Groundhog Day Meet,2005,1
+CONN,200 Y Backstroke,SCY,M,85-89,3:39.78,John Merrill,,Connecticut Masters Groundhog Day Meet,2005,1
+UNAT,100 Y Freestyle,SCY,W,25-29,54.60,Erin L Howarth,,New England SCY Champs,2005,1
+UNAT,500 Y Freestyle,SCY,W,25-29,5:24.64,Erin L Howarth,,New England SCY Champs,2005,1
+UNAT,100 Y Butterfly,SCY,W,25-29,1:02.17,Erin L Howarth,,New England SCY Champs,2005,1
+UNAT,50 Y Freestyle,SCY,M,35-39,27.74,Tom Grace,,Connecticut Masters Groundhog Day Meet,2005,1
+UNAT,100 Y Freestyle,SCY,M,35-39,1:03.53,Tom Grace,,New York City Meet,2005,1
+UNAT,50 Y Butterfly,SCY,M,35-39,30.62,Tom Grace,,Connecticut Masters Groundhog Day Meet,2005,1
+UNAT,100 Y Individual Medley,SCY,M,35-39,1:12.65,Tom Grace,,Connecticut Masters Groundhog Day Meet,2005,1
+UNAT,200 Y Individual Medley,SCY,M,35-39,2:40.82,Tom Grace,,New York City Meet,2005,1
