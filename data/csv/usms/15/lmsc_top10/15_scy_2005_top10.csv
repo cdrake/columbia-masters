@@ -1,0 +1,92 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AMS,50 Y Freestyle,SCY,W,18-24,27.00,Jane Neidhardt,,Auburn Masters Invitational,2005,1
+DACM,50 Y Freestyle,SCY,W,18-24,32.89,Tammy Wissel,,Excel Aquatics Masters Meet,2005,2
+DACM,100 Y Freestyle,SCY,W,18-24,1:20.01,Tammy Wissel,,Excel Aquatics Masters Meet,2005,1
+AMS,200 Y Freestyle,SCY,W,18-24,2:19.07,Sarah R Long,,Auburn Masters Invitational,2005,1
+DACM,200 Y Freestyle,SCY,W,18-24,3:07.94,Tammy Wissel,,Excel Aquatics Masters Meet,2005,2
+AMS,50 Y Backstroke,SCY,W,18-24,34.42,Sarah R Long,,St Charles Masters Meet,2005,1
+AMS,100 Y Backstroke,SCY,W,18-24,1:09.77,Jane Neidhardt,,Auburn Masters Invitational,2005,1
+AMS,100 Y Backstroke,SCY,W,18-24,1:11.23,Sarah R Long,,Auburn Masters Invitational,2005,2
+AMS,50 Y Butterfly,SCY,W,18-24,29.58,Jane Neidhardt,,Auburn Masters Invitational,2005,1
+AMS,50 Y Butterfly,SCY,W,18-24,31.64,Sarah R Long,,Auburn Masters Invitational,2005,2
+AMS,100 Y Butterfly,SCY,W,18-24,1:11.86,Sarah R Long,,Auburn Masters Invitational,2005,1
+AMS,100 Y Individual Medley,SCY,W,18-24,1:06.23,Jane Neidhardt,,Auburn Masters Invitational,2005,1
+AMS,100 Y Individual Medley,SCY,W,18-24,1:09.05,Sarah R Long,,Auburn Masters Invitational,2005,2
+AMS,200 Y Individual Medley,SCY,W,18-24,2:34.30,Sarah R Long,,Auburn Masters Invitational,2005,1
+EXCL,100 Y Freestyle,SCY,W,25-29,55.60,Ashley Whitney,,Excel Aquatics Masters Meet,2005,1
+EXCL,1650 Y Freestyle,SCY,W,25-29,17:52.17,Ashley Whitney,,Excel Aquatics Masters Meet,2005,1
+EXCL,1650 Y Freestyle,SCY,W,25-29,20:34.51,Stephanie Williams,,Excel Aquatics Masters Meet,2005,2
+EXCL,100 Y Backstroke,SCY,W,25-29,1:15.42,Stephanie Williams,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Backstroke,SCY,W,25-29,2:42.27,Stephanie Williams,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Butterfly,SCY,W,25-29,2:23.09,Ashley Whitney,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Butterfly,SCY,W,25-29,2:49.66,Stephanie Williams,,Excel Aquatics Masters Meet,2005,2
+EXCL,100 Y Individual Medley,SCY,W,25-29,1:03.09,Ashley Whitney,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Individual Medley,SCY,W,25-29,2:18.78,Ashley Whitney,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Individual Medley,SCY,W,25-29,2:35.77,Stephanie Williams,,Excel Aquatics Masters Meet,2005,2
+EXCL,100 Y Freestyle,SCY,W,30-34,1:27.92,Stephanie Honeycutt,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Freestyle,SCY,W,30-34,3:13.38,Stephanie Honeycutt,,Excel Aquatics Masters Meet,2005,1
+EXCL,1650 Y Freestyle,SCY,W,30-34,28:54.59,Stephanie Honeycutt,,Excel Aquatics Masters Meet,2005,1
+EXCL,100 Y Breaststroke,SCY,W,30-34,1:44.28,Stephanie Honeycutt,,Excel Aquatics Masters Meet,2005,1
+EXCL,200 Y Breaststroke,SCY,W,30-34,3:39.87,Stephanie Honeycutt,,Excel Aquatics Masters Meet,2005,1
+UNAT,50 Y Freestyle,SCY,W,40-44,27.07,Anne Marie Sims,,2005 USMS Short Course Nationals,2005,1
+CHRR,50 Y Freestyle,SCY,W,40-44,33.18,Peggy Grall,,Auburn Masters Invitational,2005,2
+UNAT,100 Y Freestyle,SCY,W,40-44,1:01.70,Anne Marie Sims,,2005 USMS Short Course Nationals,2005,1
+CHRR,100 Y Freestyle,SCY,W,40-44,1:08.43,Peggy Grall,,Auburn Masters Invitational,2005,2
+CHRR,200 Y Freestyle,SCY,W,40-44,2:35.49,Peggy Grall,,Auburn Masters Invitational,2005,1
+UNAT,50 Y Backstroke,SCY,W,40-44,32.74,Anne Marie Sims,,2005 USMS Short Course Nationals,2005,1
+CHRR,50 Y Backstroke,SCY,W,40-44,37.96,Peggy Grall,,Auburn Masters Invitational,2005,2
+CHRR,100 Y Backstroke,SCY,W,40-44,1:23.28,Peggy Grall,,Auburn Masters Invitational,2005,1
+CHRR,200 Y Backstroke,SCY,W,40-44,3:05.74,Peggy Grall,,Auburn Masters Invitational,2005,1
+CHRR,50 Y Breaststroke,SCY,W,40-44,42.58,Peggy Grall,,Auburn Masters Invitational,2005,1
+CHRR,50 Y Butterfly,SCY,W,40-44,36.34,Peggy Grall,,Auburn Masters Invitational,2005,1
+BSLM,50 Y Freestyle,SCY,W,50-54,31.85,Jan D Hinson,,Auburn Masters Invitational,2005,1
+EXCL,50 Y Freestyle,SCY,W,50-54,35.88,Christine K Ensch,,Excel Aquatics Masters Meet,2005,2
+BSLM,100 Y Freestyle,SCY,W,50-54,1:15.16,Jan D Hinson,,Auburn Masters Invitational,2005,1
+EXCL,100 Y Freestyle,SCY,W,50-54,1:25.68,Christine K Ensch,,Barbara Stevens Memorial Meet,2005,2
+BSLM,200 Y Freestyle,SCY,W,50-54,2:43.78,Jan D Hinson,,Auburn Masters Invitational,2005,1
+BSLM,500 Y Freestyle,SCY,W,50-54,7:03.35,Jan D Hinson,,2005 USMS Short Course Nationals,2005,1
+EXCL,500 Y Freestyle,SCY,W,50-54,8:12.40,Christine K Ensch,,Barbara Stevens Memorial Meet,2005,2
+BSLM,1000 Y Freestyle,SCY,W,50-54,14:11.79,Jan D Hinson,,2005 USMS Short Course Nationals,2005,1
+BSLM,1650 Y Freestyle,SCY,W,50-54,24:34.65,Jan D Hinson,,Auburn Masters Invitational,2005,1
+BSLM,50 Y Breaststroke,SCY,W,50-54,45.14,Jan D Hinson,,Auburn Masters Invitational,2005,1
+EXCL,50 Y Breaststroke,SCY,W,50-54,46.52,Christine K Ensch,,Excel Aquatics Masters Meet,2005,2
+BSLM,100 Y Breaststroke,SCY,W,50-54,1:41.29,Jan D Hinson,,St Patrick's Day Invitational,2005,1
+EXCL,100 Y Breaststroke,SCY,W,50-54,1:41.85,Christine K Ensch,,Excel Aquatics Masters Meet,2005,2
+BSLM,200 Y Breaststroke,SCY,W,50-54,3:37.80,Jan D Hinson,,Auburn Masters Invitational,2005,1
+EXCL,50 Y Butterfly,SCY,W,50-54,46.40,Christine K Ensch,,Excel Aquatics Masters Meet,2005,1
+EXCL,100 Y Individual Medley,SCY,W,50-54,1:37.17,Christine K Ensch,,Excel Aquatics Masters Meet,2005,1
+BSLM,200 Y Individual Medley,SCY,W,50-54,3:19.95,Jan D Hinson,,2005 USMS Short Course Nationals,2005,1
+BSLM,400 Y Individual Medley,SCY,W,50-54,7:04.66,Jan D Hinson,,Auburn Masters Invitational,2005,1
+AMS,50 Y Freestyle,SCY,M,18-24,21.00,Derek Gibb,,Auburn Masters Invitational,2005,1
+VSM,50 Y Freestyle,SCY,M,18-24,23.84,Judsen Schneider,,Excel Aquatics Masters Meet,2005,2
+BSLM,50 Y Freestyle,SCY,M,18-24,25.51,Alexander Perry,,Auburn Masters Invitational,2005,3
+VSM,100 Y Freestyle,SCY,M,18-24,52.94,Judsen Schneider,,Excel Aquatics Masters Meet,2005,1
+BSLM,100 Y Freestyle,SCY,M,18-24,57.85,Alexander Perry,,Auburn Masters Invitational,2005,2
+VSM,200 Y Freestyle,SCY,M,18-24,2:05.43,Judsen Schneider,,Excel Aquatics Masters Meet,2005,1
+BSLM,50 Y Backstroke,SCY,M,18-24,33.08,Alexander Perry,,Auburn Masters Invitational,2005,1
+VSM,100 Y Backstroke,SCY,M,18-24,1:09.04,Judsen Schneider,,Excel Aquatics Masters Meet,2005,1
+BSLM,50 Y Breaststroke,SCY,M,18-24,31.49,Alexander Perry,,Auburn Masters Invitational,2005,1
+BSLM,100 Y Breaststroke,SCY,M,18-24,1:10.37,Alexander Perry,,Auburn Masters Invitational,2005,1
+BSLM,50 Y Butterfly,SCY,M,18-24,28.71,Alexander Perry,,Auburn Masters Invitational,2005,1
+VSM,100 Y Individual Medley,SCY,M,18-24,1:03.55,Judsen Schneider,,Excel Aquatics Masters Meet,2005,1
+BSLM,100 Y Individual Medley,SCY,M,18-24,1:05.10,Alexander Perry,,Auburn Masters Invitational,2005,2
+VSM,50 Y Freestyle,SCY,M,35-39,25.49,Oran Aaronson,,Barbara Stevens Memorial Meet,2005,1
+EXCL,1650 Y Freestyle,SCY,M,35-39,24:33.00,Ted Lomicka,,Excel Aquatics Masters Meet,2005,1
+VSM,50 Y Butterfly,SCY,M,35-39,29.66,Oran Aaronson,,Barbara Stevens Memorial Meet,2005,1
+VSM,100 Y Individual Medley,SCY,M,35-39,1:08.02,Oran Aaronson,,Barbara Stevens Memorial Meet,2005,1
+VSM,50 Y Freestyle,SCY,M,40-44,36.09,Eric Howard,,Excel Aquatics Masters Meet,2005,1
+VSM,100 Y Freestyle,SCY,M,40-44,1:18.16,Eric Howard,,Excel Aquatics Masters Meet,2005,1
+VSM,200 Y Freestyle,SCY,M,40-44,3:00.72,Eric Howard,,Excel Aquatics Masters Meet,2005,1
+VSM,100 Y Breaststroke,SCY,M,40-44,1:32.71,Eric Howard,,Excel Aquatics Masters Meet,2005,1
+EXCL,50 Y Freestyle,SCY,M,45-49,27.97,Lee McCroskey,,Excel Aquatics Masters Meet,2005,1
+EXCL,100 Y Freestyle,SCY,M,45-49,1:02.55,Lee McCroskey,,Excel Aquatics Masters Meet,2005,1
+EXCL,50 Y Breaststroke,SCY,M,45-49,37.78,Lee McCroskey,,Excel Aquatics Masters Meet,2005,1
+EXCL,100 Y Individual Medley,SCY,M,45-49,1:14.59,Lee McCroskey,,Excel Aquatics Masters Meet,2005,1
+BSLM,50 Y Freestyle,SCY,M,55-59,28.00,Doug Mills,,Auburn Masters Invitational,2005,1
+BSLM,100 Y Backstroke,SCY,M,55-59,1:08.44,George G Nolen,,Auburn Masters Invitational,2005,1
+BSLM,100 Y Backstroke,SCY,M,55-59,1:14.32,Doug Mills,,Auburn Masters Invitational,2005,2
+BSLM,100 Y Breaststroke,SCY,M,55-59,1:17.81,Doug Mills,,Auburn Masters Invitational,2005,1
+BSLM,100 Y Individual Medley,SCY,M,55-59,1:08.13,George G Nolen,,Auburn Masters Invitational,2005,1
+BSLM,100 Y Individual Medley,SCY,M,55-59,1:09.56,Doug Mills,,Auburn Masters Invitational,2005,2
+SSMS,50 Y Freestyle,SCY,M,60-64,28.53,Pat Wilson,,Excel Aquatics Masters Meet,2005,1
+SSMS,100 Y Freestyle,SCY,M,60-64,1:04.93,Pat Wilson,,Excel Aquatics Masters Meet,2005,1

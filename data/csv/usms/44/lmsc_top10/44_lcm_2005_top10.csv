@@ -1,0 +1,456 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SSLM,50 M Freestyle,LCM,W,18-24,29.21,Darlene L Hunt,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Freestyle,LCM,W,18-24,1:04.94,Darlene L Hunt,,2005 USMS Long Course Nationals,2005,1
+UNAT,100 M Freestyle,LCM,W,18-24,1:08.03,Sarah J Hammen,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Freestyle,LCM,W,18-24,2:36.14,Emily A Nicholson,,2005 USMS Long Course Nationals,2005,1
+HSAM,400 M Freestyle,LCM,W,18-24,5:18.87,Emily A Nicholson,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Backstroke,LCM,W,18-24,35.93,Sarah J Hammen,,2005 USMS Long Course Nationals,2005,1
+UNAT,100 M Backstroke,LCM,W,18-24,1:18.22,Sarah J Hammen,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Backstroke,LCM,W,18-24,1:20.08,Emily A Nicholson,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Backstroke,LCM,W,18-24,2:53.45,Emily A Nicholson,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Breaststroke,LCM,W,18-24,40.36,Sarah J Hammen,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Breaststroke,LCM,W,18-24,3:14.80,Susan T West,,2005 USMS Long Course Nationals,2005,1
+SSLM,50 M Butterfly,LCM,W,18-24,33.47,Darlene L Hunt,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Butterfly,LCM,W,18-24,34.15,Sarah J Hammen,,2005 USMS Long Course Nationals,2005,2
+SSLM,100 M Butterfly,LCM,W,18-24,1:13.91,Darlene L Hunt,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Butterfly,LCM,W,18-24,1:21.86,Emily A Nicholson,,2005 USMS Long Course Nationals,2005,2
+UNAT,200 M Individual Medley,LCM,W,18-24,2:45.51,Susan T West,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Individual Medley,LCM,W,18-24,2:52.21,Sarah J Hammen,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Individual Medley,LCM,W,18-24,2:59.09,Emily A Nicholson,,2005 USMS Long Course Nationals,2005,3
+UNAT,400 M Individual Medley,LCM,W,18-24,5:53.42,Susan T West,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,W,25-29,29.44,Heather M DeFelice,,2005 USMS Long Course Nationals,2005,1
+SSLM,50 M Freestyle,LCM,W,25-29,29.74,Lisa A Helm,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Freestyle,LCM,W,25-29,1:05.14,Heather M DeFelice,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Freestyle,LCM,W,25-29,1:05.20,Lisa A Helm,,2005 USMS Long Course Nationals,2005,2
+SSLM,200 M Freestyle,LCM,W,25-29,2:20.68,Lisa A Helm,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Freestyle,LCM,W,25-29,2:28.90,Clare K Gerstmann,,2005 USMS Long Course Nationals,2005,2
+SSLM,200 M Freestyle,LCM,W,25-29,2:30.13,Evelyn W Kwok,,2005 USMS Long Course Nationals,2005,3
+SSLM,400 M Freestyle,LCM,W,25-29,5:11.77,Clare K Gerstmann,,2005 USMS Long Course Nationals,2005,1
+HSAM,400 M Freestyle,LCM,W,25-29,6:02.14,Christine M Spicer,,SSLM Long Course Meet,2005,2
+SSLM,50 M Backstroke,LCM,W,25-29,33.65,Lisa A Helm,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Backstroke,LCM,W,25-29,1:13.36,Lisa A Helm,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,W,25-29,36.62,Heather M DeFelice,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,W,25-29,1:21.16,Heather M DeFelice,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Breaststroke,LCM,W,25-29,1:41.54,Christine M Spicer,,SSLM Long Course Meet,2005,2
+SDSM,200 M Breaststroke,LCM,W,25-29,3:01.35,Heather M DeFelice,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Breaststroke,LCM,W,25-29,3:13.53,Clare K Gerstmann,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Breaststroke,LCM,W,25-29,3:26.81,Christine M Spicer,,2005 USMS Long Course Nationals,2005,3
+SSLM,50 M Butterfly,LCM,W,25-29,32.20,Evelyn W Kwok,,2005 USMS Long Course Nationals,2005,1
+SSLM,50 M Butterfly,LCM,W,25-29,34.52,Clare K Gerstmann,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Individual Medley,LCM,W,25-29,2:40.92,Heather M DeFelice,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Individual Medley,LCM,W,25-29,2:49.32,Clare K Gerstmann,,2005 USMS Long Course Nationals,2005,2
+SSLM,200 M Individual Medley,LCM,W,25-29,2:52.16,Evelyn W Kwok,,2005 USMS Long Course Nationals,2005,3
+HSAM,400 M Individual Medley,LCM,W,25-29,6:45.17,Christine M Spicer,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,W,30-34,1:12.36,Edna Martinez,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Freestyle,LCM,W,30-34,2:38.55,Holly J Neumann,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,W,30-34,5:36.06,Edna Martinez,,2005 USMS Long Course Nationals,2005,1
+SSLM,50 M Backstroke,LCM,W,30-34,36.73,Holly J Neumann,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Backstroke,LCM,W,30-34,1:20.61,Holly J Neumann,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Breaststroke,LCM,W,30-34,38.24,Leanne C Farmer,,2005 USMS Long Course Nationals,2005,1
+CARL,100 M Breaststroke,LCM,W,30-34,1:24.50,Leanne C Farmer,,2005 USMS Long Course Nationals,2005,1
+CARL,200 M Breaststroke,LCM,W,30-34,3:05.88,Leanne C Farmer,,2005 USMS Long Course Nationals,2005,1
+CARL,200 M Individual Medley,LCM,W,30-34,2:57.85,Leanne C Farmer,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Freestyle,LCM,W,35-39,33.86,Kirsten H Pursell,,Saddleback CC Long Course Meet,2005,1
+HSAM,100 M Freestyle,LCM,W,35-39,1:04.94,Surrena Lovell,,2005 USMS Long Course Nationals,2005,1
+CARL,100 M Freestyle,LCM,W,35-39,1:15.35,Kirsten H Pursell,,Saddleback CC Long Course Meet,2005,2
+HSAM,200 M Freestyle,LCM,W,35-39,2:23.09,Surrena Lovell,,2005 USMS Long Course Nationals,2005,1
+HSAM,200 M Freestyle,LCM,W,35-39,2:24.34,NANCY A NORTH,,SSLM Long Course Meet,2005,2
+CARL,200 M Freestyle,LCM,W,35-39,2:31.32,Kirsten H Pursell,,2005 USMS Long Course Nationals,2005,3
+CARL,200 M Freestyle,LCM,W,35-39,2:55.00,Kerry E Lutzker,,2005 USMS Long Course Nationals,2005,4
+SSR,400 M Freestyle,LCM,W,35-39,4:58.41,Karen M Guerin,,2005 USMS Long Course Nationals,2005,1
+HSAM,400 M Freestyle,LCM,W,35-39,5:01.61,Nancy A North,,2005 USMS Long Course Nationals,2005,2
+CARL,400 M Freestyle,LCM,W,35-39,5:13.82,Kirsten H Pursell,,2005 USMS Long Course Nationals,2005,3
+CARL,400 M Freestyle,LCM,W,35-39,6:11.50,Kerry E Lutzker,,2005 USMS Long Course Nationals,2005,4
+HSAM,800 M Freestyle,LCM,W,35-39,10:18.79,Nancy A North,,2005 USMS Long Course Nationals,2005,1
+CARL,800 M Freestyle,LCM,W,35-39,10:48.62,Kirsten H Pursell,,2005 USMS Long Course Nationals,2005,2
+SSR,1500 M Freestyle,LCM,W,35-39,19:19.54,Karen M Guerin,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Backstroke,LCM,W,35-39,1:20.12,NANCY A NORTH,,SSLM Long Course Meet,2005,1
+CARL,100 M Backstroke,LCM,W,35-39,1:25.17,Kirsten H Pursell,,Saddleback CC Long Course Meet,2005,2
+HSAM,200 M Backstroke,LCM,W,35-39,2:41.93,Nancy A North,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Breaststroke,LCM,W,35-39,42.57,Surrena Lovell,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Breaststroke,LCM,W,35-39,45.58,Kerry E Lutzker,,2005 USMS Long Course Nationals,2005,2
+HSAM,100 M Breaststroke,LCM,W,35-39,1:32.91,Surrena Lovell,,2005 USMS Long Course Nationals,2005,1
+CARL,100 M Breaststroke,LCM,W,35-39,1:37.48,Kerry E Lutzker,,2005 USMS Long Course Nationals,2005,2
+SSR,200 M Breaststroke,LCM,W,35-39,2:58.64,Karen M Guerin,,2005 USMS Long Course Nationals,2005,1
+HSAM,200 M Breaststroke,LCM,W,35-39,3:19.28,Surrena Lovell,,2005 USMS Long Course Nationals,2005,2
+CARL,200 M Breaststroke,LCM,W,35-39,3:31.47,Kerry E Lutzker,,2005 USMS Long Course Nationals,2005,3
+CARL,50 M Butterfly,LCM,W,35-39,35.29,Kirsten H Pursell,,Saddleback CC Long Course Meet,2005,1
+CARL,100 M Butterfly,LCM,W,35-39,1:18.53,Kirsten H Pursell,,Saddleback CC Long Course Meet,2005,1
+HSAM,200 M Butterfly,LCM,W,35-39,2:41.27,Nancy A North,,2005 USMS Long Course Nationals,2005,1
+CARL,200 M Butterfly,LCM,W,35-39,2:43.43,Kirsten H Pursell,,2005 USMS Long Course Nationals,2005,2
+CARL,200 M Individual Medley,LCM,W,35-39,2:46.88,Kirsten H Pursell,,2005 USMS Long Course Nationals,2005,1
+HSAM,400 M Individual Medley,LCM,W,35-39,5:46.94,Nancy A North,,2005 USMS Long Course Nationals,2005,1
+CARL,400 M Individual Medley,LCM,W,35-39,5:54.21,Kirsten H Pursell,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Freestyle,LCM,W,40-44,29.75,VICKY M DAVIDSON,,SSLM Long Course Meet,2005,1
+SDSM,50 M Freestyle,LCM,W,40-44,32.62,TANYA SCHNEIDERMAN,,SSLM Long Course Meet,2005,2
+SDSM,100 M Freestyle,LCM,W,40-44,1:04.52,Caroline M Krattli,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,W,40-44,1:15.58,TANYA SCHNEIDERMAN,,SSLM Long Course Meet,2005,2
+SDSM,100 M Freestyle,LCM,W,40-44,1:18.45,ROBIN M RENSHAW,,SSLM Long Course Meet,2005,3
+SDSM,200 M Freestyle,LCM,W,40-44,2:09.28,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,W,40-44,2:22.83,CAROLINE M KRATTLI,,SSLM Long Course Meet,2005,2
+SDSM,200 M Freestyle,LCM,W,40-44,2:53.04,ROBIN M RENSHAW,,SSLM Long Course Meet,2005,3
+SDSM,400 M Freestyle,LCM,W,40-44,4:33.97,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,W,40-44,4:55.40,CAROLINE M KRATTLI,,SSLM Long Course Meet,2005,2
+SDSM,400 M Freestyle,LCM,W,40-44,5:08.63,Janet G Coover,,2005 USMS Long Course Nationals,2005,3
+SDSM,800 M Freestyle,LCM,W,40-44,9:37.32,Karlyn Pipes-Neilsen,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,1500 M Freestyle,LCM,W,40-44,18:13.06,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,W,40-44,32.31,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,W,40-44,34.28,VICKY M DAVIDSON,,SSLM Long Course Meet,2005,2
+SDSM,50 M Backstroke,LCM,W,40-44,35.42,CAROLINE M KRATTLI,,SSLM Long Course Meet,2005,3
+SDSM,50 M Backstroke,LCM,W,40-44,36.66,Janet G Coover,,2005 USMS Long Course Nationals,2005,4
+SDSM,100 M Backstroke,LCM,W,40-44,1:19.93,Janet G Coover,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Backstroke,LCM,W,40-44,2:26.06,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,W,40-44,34.62,Caroline M Krattli,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,W,40-44,1:15.00,Caroline M Krattli,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Breaststroke,LCM,W,40-44,2:46.61,Caroline M Krattli,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,W,40-44,32.02,Caroline M Krattli,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,W,40-44,35.91,Janet G Coover,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Butterfly,LCM,W,40-44,1:05.42,Karlyn Pipes-Neilsen,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,200 M Butterfly,LCM,W,40-44,2:26.76,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,W,40-44,2:26.98,Karlyn Pipes-Neilsen,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,W,40-44,2:44.54,Janet G Coover,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Individual Medley,LCM,W,40-44,5:12.36,Karlyn Pipes-Neilsen,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,50 M Freestyle,LCM,W,45-49,27.78,Beth Lutz Knight,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,W,45-49,39.16,SANDI R PIERZ,,SSLM Long Course Meet,2005,2
+SDSM,100 M Freestyle,LCM,W,45-49,1:00.95,Beth Lutz Knight,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,W,45-49,2:12.76,Beth Lutz Knight,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Backstroke,LCM,W,45-49,37.10,Karen R Sing,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Backstroke,LCM,W,45-49,1:17.60,Beth Lutz Knight,,2005 USMS Long Course Nationals,2005,1
+CARL,100 M Backstroke,LCM,W,45-49,1:22.75,Karen R Sing,,2005 USMS Long Course Nationals,2005,2
+CARL,200 M Backstroke,LCM,W,45-49,3:07.75,Karen R Sing,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,W,45-49,38.89,Beth Lutz Knight,,2005 USMS Long Course Nationals,2005,1
+CARL,100 M Breaststroke,LCM,W,45-49,1:33.58,Karen R Sing,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,W,45-49,31.71,Beth Lutz Knight,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Butterfly,LCM,W,45-49,34.67,Karen R Sing,,2005 USMS Long Course Nationals,2005,2
+CARL,200 M Individual Medley,LCM,W,45-49,3:01.10,Karen R Sing,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,W,50-54,32.59,MARILYN A FINK,,SSLM Long Course Meet,2005,1
+SDSM,100 M Freestyle,LCM,W,50-54,1:11.63,MARILYN A FINK,,SSLM Long Course Meet,2005,1
+HSAM,800 M Freestyle,LCM,W,50-54,14:19.74,Patricia S Emerich,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,W,50-54,39.76,MARILYN A FINK,,SSLM Long Course Meet,2005,1
+SDSM,100 M Backstroke,LCM,W,50-54,1:26.02,MARILYN A FINK,,SSLM Long Course Meet,2005,1
+UNAT,50 M Freestyle,LCM,W,55-59,35.26,Rachel J Van Dessel,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Freestyle,LCM,W,55-59,42.77,Shelley B Mayer,,Santa Clarita Mother's Day LC Meet,2005,2
+SDSM,100 M Freestyle,LCM,W,55-59,1:13.33,BARBARA G DUNBAR,,SSLM Long Course Meet,2005,1
+SDSM,200 M Freestyle,LCM,W,55-59,2:32.39,Barbara G Dunbar,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,W,55-59,5:16.14,Barbara G Dunbar,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,W,55-59,10:41.52,Barbara G Dunbar,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,W,55-59,20:39.07,Barbara G Dunbar,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Backstroke,LCM,W,55-59,1:29.04,Barbara G Dunbar,,Saddleback CC Long Course Meet,2005,1
+SDSM,200 M Backstroke,LCM,W,55-59,3:13.22,BARBARA G DUNBAR,,SSLM Long Course Meet,2005,1
+SDSM,50 M Breaststroke,LCM,W,55-59,52.00,Diane M Hirakawa,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Breaststroke,LCM,W,55-59,56.84,Shelley B Mayer,,Santa Clarita Mother's Day LC Meet,2005,2
+UNAT,100 M Breaststroke,LCM,W,55-59,2:06.21,Shelley B Mayer,,Santa Clarita Mother's Day LC Meet,2005,1
+UNAT,200 M Breaststroke,LCM,W,55-59,4:40.93,Shelley B Mayer,,Santa Clarita Mother's Day LC Meet,2005,1
+SDSM,50 M Butterfly,LCM,W,55-59,38.24,Barbara G Dunbar,,Saddleback CC Long Course Meet,2005,1
+SDSM,100 M Butterfly,LCM,W,55-59,1:21.38,Barbara G Dunbar,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Butterfly,LCM,W,55-59,1:58.84,Diane M Hirakawa,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Butterfly,LCM,W,55-59,3:13.95,Barbara G Dunbar,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Individual Medley,LCM,W,55-59,6:24.19,Barbara G Dunbar,,Saddleback CC Long Course Meet,2005,1
+SDSM,50 M Freestyle,LCM,W,60-64,35.38,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Freestyle,LCM,W,60-64,46.14,Diane Flaherty,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Freestyle,LCM,W,60-64,1:15.11,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,W,60-64,2:45.79,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,W,60-64,5:43.72,Jackie M Marr,,Pacific Masters Long Course Champs,2005,1
+SDSM,800 M Freestyle,LCM,W,60-64,11:43.47,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+HSAM,800 M Freestyle,LCM,W,60-64,15:09.01,Marlee R Valderhaug,,2005 USMS Long Course Nationals,2005,2
+SDSM,1500 M Freestyle,LCM,W,60-64,22:05.65,Jackie M Marr,,Pacific Masters Long Course Champs,2005,1
+SDSM,50 M Backstroke,LCM,W,60-64,47.11,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Backstroke,LCM,W,60-64,1:33.15,Jackie M Marr,,Pacific Masters Long Course Champs,2005,1
+HSAM,100 M Breaststroke,LCM,W,60-64,2:02.80,Diane Flaherty,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Breaststroke,LCM,W,60-64,2:03.13,Marlee R Valderhaug,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Butterfly,LCM,W,60-64,1:42.83,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Butterfly,LCM,W,60-64,3:40.20,Jackie M Marr,,Pacific Masters Long Course Champs,2005,1
+SDSM,400 M Individual Medley,LCM,W,60-64,7:07.69,Jackie M Marr,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,W,65-69,34.69,Jeanne Little,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,W,65-69,1:21.74,Jeanne Little,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,W,65-69,3:03.93,Jeanne Little,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,W,65-69,3:11.74,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Freestyle,LCM,W,65-69,6:35.18,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,W,65-69,6:40.98,Anne H Williams,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Freestyle,LCM,W,65-69,7:03.01,Jeanne Little,,2005 USMS Long Course Nationals,2005,3
+SDSM,800 M Freestyle,LCM,W,65-69,13:22.56,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,W,65-69,13:53.64,Anne H Williams,,2005 USMS Long Course Nationals,2005,2
+SDSM,800 M Freestyle,LCM,W,65-69,14:16.90,Jeanne Little,,2005 USMS Long Course Nationals,2005,3
+HSAM,800 M Freestyle,LCM,W,65-69,15:12.97,Marilyn A Ramey,,2005 USMS Long Course Nationals,2005,4
+SDSM,1500 M Freestyle,LCM,W,65-69,26:12.59,Anne H Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,W,65-69,26:49.79,Jeanne Little,,2005 USMS Long Course Nationals,2005,2
+HSAM,1500 M Freestyle,LCM,W,65-69,28:44.99,Marilyn A Ramey,,2005 USMS Long Course Nationals,2005,3
+SDSM,50 M Backstroke,LCM,W,65-69,42.32,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Backstroke,LCM,W,65-69,1:55.32,MARILYN A RAMEY,,SSLM Long Course Meet,2005,1
+SDSM,200 M Backstroke,LCM,W,65-69,3:30.37,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+HSAM,200 M Backstroke,LCM,W,65-69,4:17.05,Marilyn A Ramey,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Breaststroke,LCM,W,65-69,47.70,Anne H Williams,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Breaststroke,LCM,W,65-69,53.19,MARILYN A RAMEY,,SSLM Long Course Meet,2005,2
+SDSM,100 M Breaststroke,LCM,W,65-69,1:46.03,Anne H Williams,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Breaststroke,LCM,W,65-69,2:02.27,Marilyn A Ramey,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Breaststroke,LCM,W,65-69,3:47.17,Anne H Williams,,2005 USMS Long Course Nationals,2005,1
+HSAM,200 M Breaststroke,LCM,W,65-69,4:15.18,MARILYN A RAMEY,,SSLM Long Course Meet,2005,2
+SDSM,50 M Butterfly,LCM,W,65-69,43.62,Jeanne Little,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Butterfly,LCM,W,65-69,50.42,Marilyn A Ramey,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Butterfly,LCM,W,65-69,1:55.46,Jeanne Little,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Butterfly,LCM,W,65-69,2:01.59,MARILYN A RAMEY,,SSLM Long Course Meet,2005,2
+SDSM,200 M Butterfly,LCM,W,65-69,3:58.61,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,W,65-69,3:34.95,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+HSAM,200 M Individual Medley,LCM,W,65-69,4:05.07,MARILYN A RAMEY,,SSLM Long Course Meet,2005,2
+SDSM,400 M Individual Medley,LCM,W,65-69,7:45.65,Betsy T Jordan,,2005 USMS Long Course Nationals,2005,1
+HSAM,400 M Individual Medley,LCM,W,65-69,8:38.71,Marilyn A Ramey,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Freestyle,LCM,W,70-74,42.47,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,W,70-74,1:30.97,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,W,70-74,3:22.33,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,W,70-74,7:09.66,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,W,70-74,14:33.23,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+HSAM,800 M Freestyle,LCM,W,70-74,21:51.62,Eileen S Kelly,,2005 USMS Long Course Nationals,2005,2
+SDSM,1500 M Freestyle,LCM,W,70-74,27:10.13,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+HSAM,200 M Backstroke,LCM,W,70-74,5:08.73,Eileen S Kelly,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,W,70-74,51.63,Adrienne S Pipes,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Freestyle,LCM,W,75-79,57.19,Nancy L Reed,,2005 USMS Long Course Nationals,2005,1
+HSAM,800 M Freestyle,LCM,W,75-79,19:24.32,Nancy L Reed,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,W,75-79,22:34.79,Marian E Wolle,,2005 USMS Long Course Nationals,2005,2
+HSAM,1500 M Freestyle,LCM,W,75-79,37:31.40,Nancy L Reed,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,W,75-79,43:20.79,Marian E Wolle,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Breaststroke,LCM,W,75-79,4:44.37,Marian E Wolle,,New Mexico Masters Swimming LC Champs,2005,1
+SDSM,100 M Butterfly,LCM,W,75-79,4:27.81,Marian E Wolle,,New Mexico Masters Swimming LC Champs,2005,1
+SDSM,200 M Butterfly,LCM,W,75-79,8:53.69,Marian E Wolle,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,W,75-79,7:27.87,Marian E Wolle,,New Mexico Masters Swimming LC Champs,2005,1
+SDSM,400 M Individual Medley,LCM,W,75-79,15:04.19,Marian E Wolle,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Freestyle,LCM,M,18-24,26.48,John J Bixler,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Freestyle,LCM,M,18-24,53.03,Benjamin C Weston,,2005 USMS Long Course Nationals,2005,1
+UNAT,100 M Freestyle,LCM,M,18-24,57.22,John J Bixler,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Freestyle,LCM,M,18-24,1:09.29,STEPHEN J BAK,,SSLM Long Course Meet,2005,3
+SSLM,200 M Freestyle,LCM,M,18-24,2:00.56,Benjamin C Weston,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,M,18-24,2:34.48,STEPHEN J BAK,,SSLM Long Course Meet,2005,2
+SSLM,400 M Freestyle,LCM,M,18-24,4:14.70,Benjamin C Weston,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Backstroke,LCM,M,18-24,30.68,John J Bixler,,2005 USMS Long Course Nationals,2005,1
+UNAT,100 M Backstroke,LCM,M,18-24,1:05.20,John J Bixler,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Backstroke,LCM,M,18-24,2:25.50,John J Bixler,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,M,18-24,40.20,STEPHEN J BAK,,SSLM Long Course Meet,2005,1
+HSAM,100 M Breaststroke,LCM,M,18-24,1:27.06,Nathan B Selby,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Individual Medley,LCM,M,18-24,2:29.10,John J Bixler,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,M,25-29,24.73,Adam M Conway,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,M,25-29,25.37,MATTHEW T PENTLAND,,SSLM Long Course Meet,2005,2
+SDSM,50 M Freestyle,LCM,M,25-29,25.93,Matthew V Young,,2005 USMS Long Course Nationals,2005,3
+SSLM,50 M Freestyle,LCM,M,25-29,27.55,Daniel S Peck,,2005 USMS Long Course Nationals,2005,4
+SDSM,100 M Freestyle,LCM,M,25-29,54.58,Adam M Conway,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,25-29,59.27,Matthew V Young,,2005 USMS Long Course Nationals,2005,2
+SSLM,100 M Freestyle,LCM,M,25-29,1:00.90,Daniel S Peck,,2005 USMS Long Course Nationals,2005,3
+SSLM,200 M Freestyle,LCM,M,25-29,3:03.41,Robert E Peelle,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,M,25-29,29.77,MATTHEW T PENTLAND,,SSLM Long Course Meet,2005,1
+SSLM,50 M Backstroke,LCM,M,25-29,32.52,Daniel S Peck,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Backstroke,LCM,M,25-29,35.80,Matthew V Young,,2005 USMS Long Course Nationals,2005,3
+SSLM,50 M Backstroke,LCM,M,25-29,41.80,Robert E Peelle,,2005 USMS Long Course Nationals,2005,4
+SDSM,100 M Backstroke,LCM,M,25-29,1:03.98,Matthew T Pentland,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Backstroke,LCM,M,25-29,1:10.78,Daniel S Peck,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Backstroke,LCM,M,25-29,2:26.67,Matthew T Pentland,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,M,25-29,36.23,Matthew V Young,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Breaststroke,LCM,M,25-29,1:16.55,Robert J McDowell,,SSLM Long Course Meet,2005,1
+SDSM,100 M Breaststroke,LCM,M,25-29,1:23.32,Matthew V Young,,2005 USMS Long Course Nationals,2005,2
+SSLM,200 M Breaststroke,LCM,M,25-29,2:40.06,Robert J McDowell,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Breaststroke,LCM,M,25-29,3:52.46,Robert E Peelle,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Butterfly,LCM,M,25-29,25.63,Adam M Conway,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,25-29,27.70,Matthew T Pentland,,2005 USMS Long Course Nationals,2005,2
+SSLM,50 M Butterfly,LCM,M,25-29,30.34,Daniel S Peck,,2005 USMS Long Course Nationals,2005,3
+SDSM,50 M Butterfly,LCM,M,25-29,30.57,Matthew V Young,,2005 USMS Long Course Nationals,2005,4
+SDSM,100 M Butterfly,LCM,M,25-29,58.27,Adam M Conway,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Individual Medley,LCM,M,25-29,2:23.21,Robert J McDowell,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,M,25-29,2:26.74,Adam M Conway,,2005 USMS Long Course Nationals,2005,2
+SSLM,400 M Individual Medley,LCM,M,25-29,5:09.63,Robert J McDowell,,2005 USMS Long Course Nationals,2005,1
+SSLM,50 M Freestyle,LCM,M,30-34,25.83,Kevin P Koskella,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Freestyle,LCM,M,30-34,25.97,Sean C Swain,,2005 USMS Long Course Nationals,2005,2
+SSLM,50 M Freestyle,LCM,M,30-34,26.62,Rodrigo J Iglesias,,2005 USMS Long Course Nationals,2005,3
+SDSM,50 M Freestyle,LCM,M,30-34,26.96,DAVID R HUGHES,,SSLM Long Course Meet,2005,4
+UNAT,50 M Freestyle,LCM,M,30-34,28.17,LEE BIDDLE,,SSLM Long Course Meet,2005,5
+CARL,100 M Freestyle,LCM,M,30-34,55.81,Sean C Swain,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Freestyle,LCM,M,30-34,57.21,Kevin P Koskella,,2005 USMS Long Course Nationals,2005,2
+SSLM,100 M Freestyle,LCM,M,30-34,58.13,Rodrigo J Iglesias,,2005 USMS Long Course Nationals,2005,3
+CARL,200 M Freestyle,LCM,M,30-34,2:03.17,Sean C Swain,,2005 USMS Long Course Nationals,2005,1
+SSLM,400 M Freestyle,LCM,M,30-34,4:52.32,Ryan F Foster,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Backstroke,LCM,M,30-34,32.57,LEE BIDDLE,,SSLM Long Course Meet,2005,1
+SSLM,100 M Breaststroke,LCM,M,30-34,1:18.18,Kevin P Koskella,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,30-34,26.46,David R Hughes,,2005 USMS Long Course Nationals,2005,1
+SSLM,50 M Butterfly,LCM,M,30-34,28.88,Rodrigo J Iglesias,,2005 USMS Long Course Nationals,2005,2
+SSLM,50 M Butterfly,LCM,M,30-34,33.17,Jason S Parnes,,2005 USMS Long Course Nationals,2005,3
+SSLM,100 M Butterfly,LCM,M,30-34,1:04.78,Rodrigo J Iglesias,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Butterfly,LCM,M,30-34,1:12.95,DAVID R HUGHES,,SSLM Long Course Meet,2005,2
+SSLM,100 M Butterfly,LCM,M,30-34,1:22.18,Jason S Parnes,,2005 USMS Long Course Nationals,2005,3
+SSLM,200 M Individual Medley,LCM,M,30-34,2:24.51,Rodrigo J Iglesias,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Individual Medley,LCM,M,30-34,2:37.07,Ryan F Foster,,2005 USMS Long Course Nationals,2005,2
+SSLM,50 M Freestyle,LCM,M,35-39,25.56,Paton M McClung,,2005 USMS Long Course Nationals,2005,1
+SSLM,100 M Freestyle,LCM,M,35-39,58.55,Paton M McClung,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,35-39,1:02.60,JAMES F FLEMING,,SSLM Long Course Meet,2005,2
+SSLM,100 M Freestyle,LCM,M,35-39,1:04.13,JOHN VELTRE,,SSLM Long Course Meet,2005,3
+SSR,200 M Freestyle,LCM,M,35-39,2:06.21,J T Guerin,,2005 USMS Long Course Nationals,2005,1
+SSLM,200 M Freestyle,LCM,M,35-39,2:17.76,John Veltre,,2005 USMS Long Course Nationals,2005,2
+SSR,400 M Freestyle,LCM,M,35-39,4:30.94,J T Guerin,,2005 USMS Long Course Nationals,2005,1
+CARL,400 M Freestyle,LCM,M,35-39,4:58.27,Scott M Wagner,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Freestyle,LCM,M,35-39,5:02.38,JAMES F FLEMING,,SSLM Long Course Meet,2005,3
+SSR,800 M Freestyle,LCM,M,35-39,9:27.54,J T Guerin,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,M,35-39,10:04.63,Kenton R Jones,,2005 USMS Long Course Nationals,2005,2
+SDSM,1500 M Freestyle,LCM,M,35-39,19:08.01,Kenton R Jones,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,M,35-39,31.28,Shaun P Whitaker,,2005 USMS Long Course Nationals,2005,1
+CARL,50 M Backstroke,LCM,M,35-39,34.84,Scott M Wagner,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Backstroke,LCM,M,35-39,1:08.61,Shaun P Whitaker,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Backstroke,LCM,M,35-39,1:14.79,KENTON R JONES,,SSLM Long Course Meet,2005,2
+SSLM,100 M Breaststroke,LCM,M,35-39,1:26.27,JOHN VELTRE,,SSLM Long Course Meet,2005,1
+SDSM,200 M Breaststroke,LCM,M,35-39,2:52.21,Kenton R Jones,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,35-39,28.76,Shaun P Whitaker,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,35-39,30.50,KENTON R JONES,,SSLM Long Course Meet,2005,2
+SDSM,50 M Butterfly,LCM,M,35-39,30.78,Bradley A Schuber,,2005 USMS Long Course Nationals,2005,3
+SSLM,50 M Butterfly,LCM,M,35-39,31.72,John Veltre,,2005 USMS Long Course Nationals,2005,4
+SSR,200 M Butterfly,LCM,M,35-39,2:20.76,J T Guerin,,2005 USMS Long Course Nationals,2005,1
+CARL,200 M Butterfly,LCM,M,35-39,2:34.36,Dieter D Swank,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Butterfly,LCM,M,35-39,2:44.98,Kenton R Jones,,2005 USMS Long Course Nationals,2005,3
+SSR,200 M Individual Medley,LCM,M,35-39,2:23.56,J T Guerin,,2005 USMS Long Course Nationals,2005,1
+SSR,400 M Individual Medley,LCM,M,35-39,5:07.62,J T Guerin,,2005 USMS Long Course Nationals,2005,1
+CARL,400 M Individual Medley,LCM,M,35-39,5:32.64,Dieter D Swank,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Individual Medley,LCM,M,35-39,5:33.98,Kenton R Jones,,2005 USMS Long Course Nationals,2005,3
+UNAT,50 M Freestyle,LCM,M,40-44,28.55,Daniel L Williams,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Freestyle,LCM,M,40-44,2:29.10,Patrick M Greeson,,2005 USMS Long Course Nationals,2005,1
+CARL,1500 M Freestyle,LCM,M,40-44,19:13.72,Mason T Bailey,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Breaststroke,LCM,M,40-44,34.94,Daniel L Williams,,2005 USMS Long Course Nationals,2005,1
+UNAT,100 M Breaststroke,LCM,M,40-44,1:20.61,Daniel L Williams,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Butterfly,LCM,M,40-44,33.57,Patrick M Greeson,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,M,45-49,26.74,CHRIS A DIXON,,SSLM Long Course Meet,2005,1
+SDSM,50 M Freestyle,LCM,M,45-49,28.94,GERALD C LIVINGSTON,,SSLM Long Course Meet,2005,2
+SDSM,50 M Freestyle,LCM,M,45-49,29.59,DOMENIC C RIGOGLIOSO,,SSLM Long Course Meet,2005,3
+SSLM,50 M Freestyle,LCM,M,45-49,32.48,ION A BEZA,,SSLM Long Course Meet,2005,4
+SDSM,100 M Freestyle,LCM,M,45-49,1:03.13,Dana J Groot,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,45-49,1:03.73,Gerald C Livingston,,2005 USMS Long Course Nationals,2005,2
+SSLM,100 M Freestyle,LCM,M,45-49,1:10.44,Ion A Beza,,2005 USMS Long Course Nationals,2005,3
+SDSM,200 M Freestyle,LCM,M,45-49,2:17.89,Dana J Groot,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,M,45-49,2:19.09,Gerald C Livingston,,2005 USMS Long Course Nationals,2005,2
+SSLM,200 M Freestyle,LCM,M,45-49,2:47.52,Ion A Beza,,2005 USMS Long Course Nationals,2005,3
+SDSM,400 M Freestyle,LCM,M,45-49,4:38.36,Jeffery C Milton,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,M,45-49,5:04.20,Gerald C Livingston,,2005 USMS Long Course Nationals,2005,2
+SSLM,400 M Freestyle,LCM,M,45-49,5:43.68,ION A BEZA,,SSLM Long Course Meet,2005,3
+SDSM,800 M Freestyle,LCM,M,45-49,9:43.98,Jeffery C Milton,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,M,45-49,10:52.32,Gerald C Livingston,,Santa Clarita Long Course Meet,2005,2
+SDSM,1500 M Freestyle,LCM,M,45-49,18:26.25,Jeffery C Milton,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,M,45-49,21:10.96,Gerald C Livingston,,2005 USMS Long Course Nationals,2005,2
+SSLM,1500 M Freestyle,LCM,M,45-49,22:41.55,Ion A Beza,,2005 USMS Long Course Nationals,2005,3
+SDSM,1500 M Freestyle,LCM,M,45-49,23:54.47,Darrell L Jett,,2005 USMS Long Course Nationals,2005,4
+CARL,50 M Backstroke,LCM,M,45-49,32.42,Vincent D Morales,,2005 USMS Long Course Nationals,2005,1
+CARL,100 M Backstroke,LCM,M,45-49,1:09.89,Vincent D Morales,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Backstroke,LCM,M,45-49,1:23.38,Darrell L Jett,,2005 USMS Long Course Nationals,2005,2
+CARL,200 M Backstroke,LCM,M,45-49,2:34.19,Vincent D Morales,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Backstroke,LCM,M,45-49,2:53.72,Gerald C Livingston,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Breaststroke,LCM,M,45-49,36.37,Chris A Dixon,,Saddleback CC Long Course Meet,2005,1
+UNAT,50 M Breaststroke,LCM,M,45-49,36.87,David G Wheeler,,2005 USMS Long Course Nationals,2005,2
+CARL,100 M Breaststroke,LCM,M,45-49,1:19.18,Vincent D Morales,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,45-49,28.23,CHRIS A DIXON,,SSLM Long Course Meet,2005,1
+SDSM,50 M Butterfly,LCM,M,45-49,30.86,Dana J Groot,,2005 USMS Long Course Nationals,2005,2
+UNAT,50 M Butterfly,LCM,M,45-49,30.90,David G Wheeler,,2005 USMS Long Course Nationals,2005,3
+CARL,100 M Butterfly,LCM,M,45-49,1:07.51,Vincent D Morales,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Individual Medley,LCM,M,45-49,2:43.16,David G Wheeler,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Individual Medley,LCM,M,45-49,5:43.74,Dana J Groot,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Freestyle,LCM,M,50-54,27.44,Lee E Mench,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,M,50-54,27.66,Mark Wussler,,2005 USMS Long Course Nationals,2005,2
+CARL,50 M Freestyle,LCM,M,50-54,28.73,Jim Barton,,2005 USMS Long Course Nationals,2005,3
+SDSM,50 M Freestyle,LCM,M,50-54,28.90,John E Maccrossen,,2005 USMS Long Course Nationals,2005,4
+UNAT,50 M Freestyle,LCM,M,50-54,29.61,Carlos M Torres,,Saddleback CC Long Course Meet,2005,5
+SDSM,50 M Freestyle,LCM,M,50-54,31.52,FABIO ASTUDILLO,,SSLM Long Course Meet,2005,6
+HSAM,100 M Freestyle,LCM,M,50-54,59.66,Lee E Mench,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,50-54,1:00.24,Mark Wussler,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Freestyle,LCM,M,50-54,1:07.35,John E Maccrossen,,2005 USMS Long Course Nationals,2005,3
+SDSM,200 M Freestyle,LCM,M,50-54,2:12.00,Scott M Lautman,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,M,50-54,2:15.27,Mark Wussler,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Freestyle,LCM,M,50-54,2:18.87,LEE E MENCH,,SSLM Long Course Meet,2005,3
+CARL,200 M Freestyle,LCM,M,50-54,2:31.09,Jeff Gross,,2005 USMS Long Course Nationals,2005,4
+HSAM,400 M Freestyle,LCM,M,50-54,4:49.31,Lee E Mench,,2005 USMS Long Course Nationals,2005,1
+HSAM,800 M Freestyle,LCM,M,50-54,9:45.49,Lee E Mench,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,M,50-54,18:59.59,Scott M Lautman,,2005 USMS Long Course Nationals,2005,1
+CARL,1500 M Freestyle,LCM,M,50-54,20:39.77,Jeff Gross,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Breaststroke,LCM,M,50-54,34.69,Mark Wussler,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,M,50-54,1:16.68,Mark Wussler,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Breaststroke,LCM,M,50-54,1:34.02,Moze A Mossay,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Breaststroke,LCM,M,50-54,2:55.10,Mark Wussler,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,50-54,31.99,Fabio Astudillo,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Butterfly,LCM,M,50-54,32.81,Carlos M Torres,,Saddleback CC Long Course Meet,2005,2
+CARL,50 M Butterfly,LCM,M,50-54,38.75,Jeff Gross,,2005 USMS Long Course Nationals,2005,3
+SDSM,100 M Butterfly,LCM,M,50-54,1:03.76,Scott M Lautman,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Butterfly,LCM,M,50-54,1:20.29,Fabio Astudillo,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Butterfly,LCM,M,50-54,2:23.81,Scott M Lautman,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Butterfly,LCM,M,50-54,3:23.42,Fabio Astudillo,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Freestyle,LCM,M,60-64,27.66,Vinus Van Baalen,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,50 M Freestyle,LCM,M,60-64,28.53,Peter Andersen,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Freestyle,LCM,M,60-64,30.19,Mike R Freshley,,2005 USMS Long Course Nationals,2005,3
+SDSM,100 M Freestyle,LCM,M,60-64,1:04.32,Vinus Van Baalen,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,60-64,1:06.53,Peter Andersen,,2005 USMS Long Course Nationals,2005,2
+HSAM,800 M Freestyle,LCM,M,60-64,11:52.58,Douglas W Selby,,2005 USMS Long Course Nationals,2005,1
+HSAM,1500 M Freestyle,LCM,M,60-64,22:47.56,Douglas W Selby,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,M,60-64,34.05,Vinus Van Baalen,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,100 M Backstroke,LCM,M,60-64,1:19.11,Vinus Van Baalen,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,M,60-64,35.91,Peter Andersen,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,M,60-64,40.09,Mike R Freshley,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Breaststroke,LCM,M,60-64,1:21.92,Peter Andersen,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,M,60-64,1:29.08,Mike R Freshley,,Santa Clarita Mother's Day LC Meet,2005,2
+SDSM,200 M Breaststroke,LCM,M,60-64,3:15.81,Mike R Freshley,,2005 USMS Long Course Nationals,2005,1
+UNAT,50 M Butterfly,LCM,M,60-64,31.21,C W Muter,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,60-64,32.83,Vinus Van Baalen,,"World Masters Games, US Swimmers Only",2005,2
+SDSM,50 M Butterfly,LCM,M,60-64,32.89,Mike R Freshley,,2005 USMS Long Course Nationals,2005,3
+UNAT,100 M Butterfly,LCM,M,60-64,1:12.36,C W Muter,,2005 USMS Long Course Nationals,2005,1
+UNAT,200 M Individual Medley,LCM,M,60-64,2:45.20,C W Muter,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,M,60-64,2:53.51,Mike R Freshley,,"World Masters Games, US Swimmers Only",2005,2
+SDSM,400 M Individual Medley,LCM,M,60-64,6:21.90,Mike R Freshley,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,M,65-69,34.18,William W Haines,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,65-69,1:20.81,William W Haines,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,M,65-69,3:08.36,William W Haines,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,M,65-69,5:34.34,Frank Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,M,65-69,11:40.10,Frank Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,M,65-69,11:40.63,Bob Coale,,2005 USMS Long Course Nationals,2005,2
+SDSM,1500 M Freestyle,LCM,M,65-69,21:59.53,Frank Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,M,65-69,22:19.35,Bob Coale,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Breaststroke,LCM,M,65-69,44.52,William W Haines,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Breaststroke,LCM,M,65-69,49.38,Peter E Riddle,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Breaststroke,LCM,M,65-69,1:44.60,William W Haines,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,M,65-69,1:57.94,Peter E Riddle,,2005 USMS Long Course Nationals,2005,2
+SDSM,200 M Breaststroke,LCM,M,65-69,3:46.76,William W Haines,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,65-69,33.68,Frank Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Butterfly,LCM,M,65-69,1:21.49,Frank Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Butterfly,LCM,M,65-69,3:19.61,Frank Williams,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,70-74,1:16.11,Graham M Johnston,,South Central Zone LC Champs,2005,1
+SDSM,200 M Freestyle,LCM,M,70-74,2:38.20,Graham M Johnston,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,400 M Freestyle,LCM,M,70-74,5:37.11,Graham M Johnston,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,800 M Freestyle,LCM,M,70-74,11:47.50,Graham M Johnston,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,1500 M Freestyle,LCM,M,70-74,23:01.38,Graham M Johnston,,South Central Zone LC Champs,2005,1
+SDSM,50 M Breaststroke,LCM,M,70-74,41.38,Bob Best,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,M,70-74,1:36.69,Bob Best,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Breaststroke,LCM,M,70-74,3:45.95,Bob Best,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Individual Medley,LCM,M,70-74,3:15.67,Graham M Johnston,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,200 M Individual Medley,LCM,M,70-74,3:22.85,Bob Best,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Individual Medley,LCM,M,70-74,7:03.75,Graham M Johnston,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,400 M Individual Medley,LCM,M,70-74,7:24.38,Bob Best,,2005 USMS Long Course Nationals,2005,2
+SDSM,50 M Freestyle,LCM,M,75-79,36.93,Donald J Hubbard,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Freestyle,LCM,M,75-79,39.23,Jordan B Wolle,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Freestyle,LCM,M,75-79,1:33.50,Jordan B Wolle,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,M,75-79,3:04.84,Ken Kimball,,2005 USMS Long Course Nationals,2005,1
+SDSM,200 M Freestyle,LCM,M,75-79,3:33.03,Jordan B Wolle,,2005 USMS Long Course Nationals,2005,2
+SDSM,400 M Freestyle,LCM,M,75-79,6:49.28,Ken Kimball,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Freestyle,LCM,M,75-79,7:43.50,Jordan B Wolle,,2005 USMS Long Course Nationals,2005,2
+SDSM,800 M Freestyle,LCM,M,75-79,14:09.46,Ken Kimball,,2005 USMS Long Course Nationals,2005,1
+SDSM,800 M Freestyle,LCM,M,75-79,15:40.26,Donald J Hubbard,,2005 USMS Long Course Nationals,2005,2
+SDSM,800 M Freestyle,LCM,M,75-79,16:05.05,Jordan B Wolle,,2005 USMS Long Course Nationals,2005,3
+SDSM,1500 M Freestyle,LCM,M,75-79,27:13.13,Ken Kimball,,2005 USMS Long Course Nationals,2005,1
+SDSM,1500 M Freestyle,LCM,M,75-79,30:50.68,Jordan B Wolle,,2005 USMS Long Course Nationals,2005,2
+SDSM,1500 M Freestyle,LCM,M,75-79,31:18.84,Bud Schumacher,,2005 USMS Long Course Nationals,2005,3
+SDSM,50 M Backstroke,LCM,M,75-79,44.77,Ken Kimball,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,100 M Backstroke,LCM,M,75-79,1:42.69,Ken Kimball,,"World Masters Games, US Swimmers Only",2005,1
+SDSM,200 M Backstroke,LCM,M,75-79,3:53.31,Ken Kimball,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Breaststroke,LCM,M,75-79,51.52,Gene Sapper,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Breaststroke,LCM,M,75-79,2:07.69,Gene Sapper,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Breaststroke,LCM,M,75-79,2:07.70,Bud Schumacher,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Breaststroke,LCM,M,75-79,4:59.93,Gene Sapper,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Butterfly,LCM,M,75-79,57.23,Donald J Hubbard,,2005 USMS Long Course Nationals,2005,1
+HSAM,50 M Butterfly,LCM,M,75-79,57.65,Gene Sapper,,2005 USMS Long Course Nationals,2005,2
+SDSM,100 M Butterfly,LCM,M,75-79,2:05.90,Donald J Hubbard,,2005 USMS Long Course Nationals,2005,1
+HSAM,100 M Butterfly,LCM,M,75-79,2:21.67,Gene Sapper,,2005 USMS Long Course Nationals,2005,2
+HSAM,200 M Butterfly,LCM,M,75-79,5:18.15,Gene Sapper,,2005 USMS Long Course Nationals,2005,1
+SDSM,400 M Individual Medley,LCM,M,75-79,9:52.69,Donald J Hubbard,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Freestyle,LCM,M,80-84,1:19.68,Frank M Piemme,,Saddleback CC Long Course Meet,2005,1
+SDSM,200 M Freestyle,LCM,M,80-84,3:10.20,Frank M Piemme,,Saddleback CC Long Course Meet,2005,1
+SDSM,50 M Breaststroke,LCM,M,80-84,47.95,Frank M Piemme,,Saddleback CC Long Course Meet,2005,1
+SDSM,400 M Individual Medley,LCM,M,80-84,8:03.49,Frank M Piemme,,Saddleback CC Long Course Meet,2005,1
+SDSM,50 M Freestyle,LCM,M,85-89,57.68,TOM HAVER,,SSLM Long Course Meet,2005,1
+SDSM,200 M Freestyle,LCM,M,85-89,5:28.32,Tom Haver,,2005 USMS Long Course Nationals,2005,1
+SDSM,50 M Backstroke,LCM,M,85-89,59.00,Tom Haver,,2005 USMS Long Course Nationals,2005,1
+SDSM,100 M Backstroke,LCM,M,85-89,2:22.47,TOM HAVER,,SSLM Long Course Meet,2005,1
+SDSM,200 M Backstroke,LCM,M,85-89,5:12.00,TOM HAVER,,SSLM Long Course Meet,2005,1

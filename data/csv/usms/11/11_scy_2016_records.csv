@@ -1,0 +1,133 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CHAR,500 Y Freestyle,SCY,W,55-59,6:51.90,Judy F Caves,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+CHAR,1650 Y Freestyle,SCY,W,55-59,22:56.50,Judy F Caves,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+PTMS,100 Y Freestyle,SCY,M,50-54,59.38,Matthew H Meade,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+PTMS,500 Y Freestyle,SCY,M,50-54,5:45.88,Matthew H Meade,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+PTMS,1650 Y Freestyle,SCY,M,50-54,19:47.71,Matthew H Meade,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Freestyle,SCY,W,30-34,56.75,Meredith L Snook,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Freestyle,SCY,W,30-34,1:03.08,Ann M Mazur,,VMST David Gregg III Memorial Meet,2016,2
+TPIT,200 Y Freestyle,SCY,W,30-34,2:01.99,Meredith L Snook,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,200 Y Freestyle,SCY,W,30-34,2:18.94,Ann M Mazur,,VMST David Gregg III Memorial Meet,2016,2
+TPIT,1000 Y Freestyle,SCY,W,30-34,12:40.64,Ann M Mazur,,VMST David Gregg III Memorial Meet,2016,1
+TPIT,50 Y Backstroke,SCY,W,30-34,36.61,Ann M Mazur,,VMST David Gregg III Memorial Meet,2016,1
+TPIT,50 Y Breaststroke,SCY,W,30-34,33.09,Meredith L Snook,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Breaststroke,SCY,W,30-34,1:11.41,Meredith L Snook,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,200 Y Breaststroke,SCY,W,30-34,2:35.06,Meredith L Snook,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Butterfly,SCY,W,30-34,1:14.97,Ann M Mazur,,VMST David Gregg III Memorial Meet,2016,1
+TPIT,200 Y Individual Medley,SCY,W,30-34,2:19.86,Meredith L Snook,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,200 Y Individual Medley,SCY,W,30-34,2:34.05,Ann M Mazur,,VMST David Gregg III Memorial Meet,2016,2
+TPIT,50 Y Freestyle,SCY,W,45-49,28.33,Carol L Ide,,YMCA Masters National Meet,2016,1
+TPIT,100 Y Freestyle,SCY,W,45-49,1:04.07,Carol L Ide,,YMCA Masters National Meet,2016,1
+TPIT,200 Y Freestyle,SCY,W,45-49,2:11.72,Tricia A Breeger,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,200 Y Freestyle,SCY,W,45-49,2:22.17,Carol L Ide,,YMCA Masters National Meet,2016,2
+TPIT,500 Y Freestyle,SCY,W,45-49,5:44.32,Tricia A Breeger,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,500 Y Freestyle,SCY,W,45-49,6:26.75,Carol L Ide,,YMCA Masters National Meet,2016,2
+TPIT,1650 Y Freestyle,SCY,W,45-49,22:33.63,Carol L Ide,,YMCA Masters National Meet,2016,1
+TPIT,50 Y Butterfly,SCY,W,45-49,34.14,Carol L Ide,,YMCA Masters National Meet,2016,1
+TPIT,100 Y Butterfly,SCY,W,45-49,1:06.55,Tricia A Breeger,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,200 Y Butterfly,SCY,W,45-49,2:30.91,Tricia A Breeger,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,100 Y Individual Medley,SCY,W,45-49,1:18.17,Carol L Ide,,YMCA Masters National Meet,2016,1
+TPIT,200 Y Individual Medley,SCY,W,45-49,2:29.92,Tricia A Breeger,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,50 Y Freestyle,SCY,W,55-59,27.50,Janet B McDonough,,National Senior Games,2016,1
+TPIT,50 Y Freestyle,SCY,W,55-59,30.58,Mary Anne Savage,,AMYMSA 2016 Championship Meet,2016,2
+TPIT,100 Y Freestyle,SCY,W,55-59,1:06.25,Mary Anne Savage,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,200 Y Freestyle,SCY,W,55-59,2:29.74,Mary Anne Savage,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,500 Y Freestyle,SCY,W,55-59,6:54.43,Mary Anne Savage,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,50 Y Backstroke,SCY,W,55-59,31.61,Janet B McDonough,,National Senior Games,2016,1
+TPIT,50 Y Backstroke,SCY,W,55-59,35.81,Jean M Rowan,,AMYMSA 2016 Championship Meet,2016,2
+TPIT,100 Y Backstroke,SCY,W,55-59,1:07.87,Janet B McDonough,,National Senior Games,2016,1
+TPIT,200 Y Backstroke,SCY,W,55-59,2:27.69,Janet B McDonough,,National Senior Games,2016,1
+TPIT,50 Y Breaststroke,SCY,W,55-59,37.96,Mary Anne Savage,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,50 Y Breaststroke,SCY,W,55-59,39.50,Jean M Rowan,,AMYMSA 2016 Championship Meet,2016,2
+TPIT,100 Y Breaststroke,SCY,W,55-59,1:26.65,Jean M Rowan,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,200 Y Breaststroke,SCY,W,55-59,3:01.50,Mary Anne Savage,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,200 Y Breaststroke,SCY,W,55-59,3:11.41,Jean M Rowan,,AMYMSA 2016 Championship Meet,2016,2
+TPIT,50 Y Butterfly,SCY,W,55-59,36.61,Jean M Rowan,,AMYMSA 2016 Championship Meet,2016,1
+TPIT,100 Y Butterfly,SCY,W,55-59,1:19.22,Mary Anne Savage,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Individual Medley,SCY,W,55-59,1:09.11,Janet B McDonough,,National Senior Games,2016,1
+TPIT,100 Y Individual Medley,SCY,W,55-59,1:16.36,Mary Anne Savage,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,2
+TPIT,200 Y Individual Medley,SCY,W,55-59,2:32.06,Janet B McDonough,,National Senior Games,2016,1
+TPIT,200 Y Individual Medley,SCY,W,55-59,2:49.27,Mary Anne Savage,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,2
+TPIT,50 Y Freestyle,SCY,M,40-44,26.99,Josh Dorfzaun,,2015 DCAC Columbus Day Classic,2016,1
+TPIT,50 Y Breaststroke,SCY,M,40-44,38.80,Josh Dorfzaun,,2015 DCAC Columbus Day Classic,2016,1
+TPIT,100 Y Individual Medley,SCY,M,40-44,1:12.82,Josh Dorfzaun,,2015 DCAC Columbus Day Classic,2016,1
+TPIT,50 Y Freestyle,SCY,M,60-64,27.48,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+TPIT,50 Y Freestyle,SCY,M,60-64,28.28,Lee O Gustafson,,National Senior Games,2016,2
+TPIT,50 Y Freestyle,SCY,M,60-64,28.53,David Natali,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,3
+TPIT,100 Y Freestyle,SCY,M,60-64,1:02.65,Lee O Gustafson,,National Senior Games,2016,1
+TPIT,200 Y Freestyle,SCY,M,60-64,2:23.70,Lee O Gustafson,,National Senior Games,2016,1
+TPIT,500 Y Freestyle,SCY,M,60-64,6:28.84,Lee O Gustafson,,National Senior Games,2016,1
+TPIT,1000 Y Freestyle,SCY,M,60-64,14:36.37,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+TPIT,50 Y Backstroke,SCY,M,60-64,33.60,David Natali,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,50 Y Backstroke,SCY,M,60-64,34.70,Stephen K Muthler,,YMCA Masters National Meet,2016,2
+TPIT,100 Y Backstroke,SCY,M,60-64,1:11.94,David Natali,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Backstroke,SCY,M,60-64,1:16.57,Stephen K Muthler,,YMCA Masters National Meet,2016,2
+TPIT,200 Y Backstroke,SCY,M,60-64,2:45.54,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+TPIT,50 Y Breaststroke,SCY,M,60-64,35.67,Gary A Abbate,,YMCA Masters National Meet,2016,1
+TPIT,100 Y Breaststroke,SCY,M,60-64,1:18.85,Gary A Abbate,,YMCA Masters National Meet,2016,1
+TPIT,200 Y Breaststroke,SCY,M,60-64,2:59.71,Gary A Abbate,,YMCA Masters National Meet,2016,1
+TPIT,200 Y Breaststroke,SCY,M,60-64,3:04.50,Stephen K Muthler,,YMCA Masters National Meet,2016,2
+TPIT,50 Y Butterfly,SCY,M,60-64,28.62,David Natali,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,50 Y Butterfly,SCY,M,60-64,29.77,Stephen K Muthler,,YMCA Masters National Meet,2016,2
+TPIT,50 Y Butterfly,SCY,M,60-64,30.45,Lee O Gustafson,,National Senior Games,2016,3
+TPIT,50 Y Butterfly,SCY,M,60-64,33.49,Gary A Abbate,,YMCA Masters National Meet,2016,4
+TPIT,100 Y Butterfly,SCY,M,60-64,1:06.38,David Natali,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+TPIT,100 Y Butterfly,SCY,M,60-64,1:14.76,Stephen K Muthler,,YMCA Masters National Meet,2016,2
+TPIT,100 Y Butterfly,SCY,M,60-64,1:16.91,Lee O Gustafson,,National Senior Games,2016,3
+TPIT,200 Y Butterfly,SCY,M,60-64,3:18.80,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+TPIT,200 Y Butterfly,SCY,M,60-64,3:20.30,Gary A Abbate,,YMCA Masters National Meet,2016,2
+TPIT,100 Y Individual Medley,SCY,M,60-64,1:09.42,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+TPIT,100 Y Individual Medley,SCY,M,60-64,1:26.02,Gary A Abbate,,YMCA Masters National Meet,2016,2
+TPIT,200 Y Individual Medley,SCY,M,60-64,2:44.52,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+TPIT,400 Y Individual Medley,SCY,M,60-64,6:16.38,Stephen K Muthler,,YMCA Masters National Meet,2016,1
+UC11,50 Y Freestyle,SCY,W,40-44,27.05,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,100 Y Freestyle,SCY,W,40-44,59.21,Heather T Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,500 Y Freestyle,SCY,W,40-44,5:57.53,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,50 Y Breaststroke,SCY,W,40-44,34.09,Heather T Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,100 Y Breaststroke,SCY,W,40-44,1:15.80,Heather T Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,200 Y Breaststroke,SCY,W,40-44,2:47.95,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,50 Y Butterfly,SCY,W,40-44,28.48,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,100 Y Butterfly,SCY,W,40-44,1:05.25,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,100 Y Individual Medley,SCY,W,40-44,1:08.50,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,200 Y Individual Medley,SCY,W,40-44,2:27.26,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,400 Y Individual Medley,SCY,W,40-44,5:16.67,Heather T Fisher,,YMCA Masters National Meet,2016,1
+UC11,50 Y Freestyle,SCY,W,55-59,30.26,Janine Scotti Schuliger,,YMCA Masters National Meet,2016,1
+UC11,100 Y Freestyle,SCY,W,55-59,1:05.83,Janine Scotti Schuliger,,AMYMSA 2016 Championship Meet,2016,1
+UC11,200 Y Freestyle,SCY,W,55-59,2:22.44,Janine Scotti Schuliger,,YMCA Masters National Meet,2016,1
+UC11,50 Y Backstroke,SCY,W,55-59,38.16,Janine Scotti Schuliger,,YMCA Masters National Meet,2016,1
+UC11,100 Y Backstroke,SCY,W,55-59,1:18.11,Janine Scotti Schuliger,,AMYMSA 2016 Championship Meet,2016,1
+UC11,100 Y Breaststroke,SCY,W,55-59,1:25.40,Janine Scotti Schuliger,,AMYMSA 2016 Championship Meet,2016,1
+UC11,200 Y Breaststroke,SCY,W,55-59,3:04.36,Janine Scotti Schuliger,,YMCA Masters National Meet,2016,1
+UC11,100 Y Individual Medley,SCY,W,55-59,1:16.49,Janine Scotti Schuliger,,AMYMSA 2016 Championship Meet,2016,1
+UC11,200 Y Individual Medley,SCY,W,55-59,2:44.26,Janine Scotti Schuliger,,AMYMSA 2016 Championship Meet,2016,1
+UC11,400 Y Individual Medley,SCY,W,55-59,5:51.71,Janine Scotti Schuliger,,AMYMSA 2016 Championship Meet,2016,1
+UC11,50 Y Freestyle,SCY,W,60-64,30.29,Barbara Hairston,,YMCA Masters National Meet,2016,1
+UC11,100 Y Freestyle,SCY,W,60-64,1:08.10,Barbara Hairston,,YMCA Masters National Meet,2016,1
+UC11,50 Y Backstroke,SCY,W,60-64,36.84,Barbara Hairston,,YMCA Masters National Meet,2016,1
+UC11,100 Y Backstroke,SCY,W,60-64,1:20.77,Barbara Hairston,,YMCA Masters National Meet,2016,1
+UC11,500 Y Freestyle,SCY,W,85-89,13:31.49,Sara M Martin,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,1000 Y Freestyle,SCY,W,85-89,28:20.53,Sara M Martin,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,50 Y Freestyle,SCY,M,40-44,25.09,John Fisher,,YMCA Masters National Meet,2016,1
+UC11,100 Y Freestyle,SCY,M,40-44,55.28,John Fisher,,YMCA Masters National Meet,2016,1
+UC11,200 Y Freestyle,SCY,M,40-44,2:07.79,John Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,500 Y Freestyle,SCY,M,40-44,5:56.47,John Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,1000 Y Freestyle,SCY,M,40-44,12:57.55,John Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,50 Y Backstroke,SCY,M,40-44,36.46,John Fisher,,YMCA Masters National Meet,2016,1
+UC11,50 Y Butterfly,SCY,M,40-44,29.09,John Fisher,,AMYMSA 2016 Championship Meet,2016,1
+UC11,100 Y Individual Medley,SCY,M,40-44,1:08.36,John Fisher,,YMCA Masters National Meet,2016,1
+UC11,50 Y Freestyle,SCY,M,50-54,24.49,Paul F Oyler,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,100 Y Freestyle,SCY,M,50-54,55.80,Victor J Sternby,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,200 Y Backstroke,SCY,M,50-54,2:14.56,Paul F Oyler,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,50 Y Breaststroke,SCY,M,50-54,32.43,Victor J Sternby,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,100 Y Breaststroke,SCY,M,50-54,1:12.46,Victor J Sternby,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,200 Y Breaststroke,SCY,M,50-54,2:40.55,Victor J Sternby,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,100 Y Butterfly,SCY,M,50-54,58.28,Paul F Oyler,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,200 Y Butterfly,SCY,M,50-54,2:13.09,Paul F Oyler,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,200 Y Individual Medley,SCY,M,50-54,2:11.36,Paul F Oyler,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,200 Y Individual Medley,SCY,M,50-54,2:24.98,Victor J Sternby,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,2
+UC11,400 Y Individual Medley,SCY,M,50-54,4:45.70,Paul F Oyler,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,1
+UC11,400 Y Individual Medley,SCY,M,50-54,5:16.94,Victor J Sternby,,2016 Nationwide U.S. Masters Swimming Spring National Championship,2016,2
+UC11,100 Y Breaststroke,SCY,M,75-79,1:38.22,Michael Natelson,,National Senior Games,2016,1
+UC11,50 Y Butterfly,SCY,M,75-79,34.70,Michael Natelson,,National Senior Games,2016,1
+UC11,100 Y Individual Medley,SCY,M,75-79,1:25.72,Michael Natelson,,National Senior Games,2016,1
+UC11,200 Y Individual Medley,SCY,M,75-79,3:17.29,Michael Natelson,,National Senior Games,2016,1

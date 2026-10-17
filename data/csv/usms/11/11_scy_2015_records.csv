@@ -1,0 +1,327 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CHAR,50 Y Freestyle,SCY,W,35-39,35.72,Kristie R Biernacki,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,100 Y Freestyle,SCY,W,35-39,1:15.38,Kristie R Biernacki,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,200 Y Freestyle,SCY,W,35-39,3:00.86,Tara D'Agaro,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,500 Y Freestyle,SCY,W,35-39,7:18.60,Kristie R Biernacki,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,1000 Y Freestyle,SCY,W,35-39,14:59.58,Kristie R Biernacki,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,1650 Y Freestyle,SCY,W,35-39,25:23.77,Kristie R Biernacki,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+CHAR,1650 Y Freestyle,SCY,W,35-39,27:35.14,Tara D'Agaro,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,2
+CHAR,50 Y Backstroke,SCY,W,35-39,41.68,Kristie R Biernacki,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,50 Y Backstroke,SCY,W,35-39,52.04,Tara D'Agaro,,The 2014 Deer Lakes Masters Classic,2015,2
+CHAR,100 Y Backstroke,SCY,W,35-39,1:26.27,Kristie R Biernacki,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,200 Y Backstroke,SCY,W,35-39,3:03.04,Kristie R Biernacki,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,50 Y Breaststroke,SCY,W,35-39,47.23,Tara D'Agaro,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,100 Y Individual Medley,SCY,W,35-39,1:41.16,Tara D'Agaro,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,50 Y Freestyle,SCY,W,50-54,33.82,Judy F Caves,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,100 Y Freestyle,SCY,W,50-54,1:14.69,Judy F Caves,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,200 Y Freestyle,SCY,W,50-54,2:38.22,Judy F Caves,,The 2014 Deer Lakes Masters Classic,2015,1
+CHAR,1650 Y Freestyle,SCY,W,50-54,23:30.83,Judy F Caves,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+CHAR,500 Y Freestyle,SCY,W,55-59,6:37.55,Judy F Caves,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,1000 Y Freestyle,SCY,W,55-59,13:28.67,Judy F Caves,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,50 Y Butterfly,SCY,W,55-59,39.56,Judy F Caves,,AMYMSA 2015 Championship Meet,2015,1
+CHAR,1650 Y Freestyle,SCY,M,55-59,21:04.80,Neal T Wallace,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+DLAM,50 Y Freestyle,SCY,W,30-34,43.05,Kelly J Krieg,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,100 Y Freestyle,SCY,W,30-34,1:46.59,Kelly J Krieg,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,200 Y Freestyle,SCY,W,30-34,3:49.04,Kelly J Krieg,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Backstroke,SCY,W,30-34,51.83,Kelly J Krieg,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Freestyle,SCY,W,35-39,35.62,Wanda Petersen-Pereira,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,100 Y Freestyle,SCY,W,35-39,1:39.73,Kelly J Krieg,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+DLAM,200 Y Freestyle,SCY,W,35-39,3:49.09,Kelly J Krieg,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+DLAM,50 Y Backstroke,SCY,W,35-39,47.16,Wanda Petersen-Pereira,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Backstroke,SCY,W,35-39,50.43,Kelly J Krieg,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+DLAM,100 Y Backstroke,SCY,W,35-39,2:01.30,Kelly J Krieg,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+DLAM,50 Y Breaststroke,SCY,W,35-39,46.65,Wanda Petersen-Pereira,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Butterfly,SCY,W,35-39,42.70,Wanda Petersen-Pereira,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Freestyle,SCY,W,40-44,31.40,Katherine Longwell,,AMYMSA 2015 Championship Meet,2015,1
+DLAM,100 Y Freestyle,SCY,W,40-44,1:07.50,Katherine Longwell,,AMYMSA 2015 Championship Meet,2015,1
+DLAM,200 Y Freestyle,SCY,W,40-44,2:26.90,Katherine Longwell,,AMYMSA 2015 Championship Meet,2015,1
+DLAM,500 Y Freestyle,SCY,W,40-44,6:32.81,Katherine Longwell,,AMYMSA 2015 Championship Meet,2015,1
+DLAM,1000 Y Freestyle,SCY,W,40-44,13:28.79,Katherine Longwell,,AMYMSA 2015 Championship Meet,2015,1
+DLAM,1650 Y Freestyle,SCY,W,40-44,24:17.18,Katherine Longwell,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+DLAM,50 Y Backstroke,SCY,W,40-44,39.13,Katherine Longwell,,AMYMSA - WVU Meet,2015,1
+DLAM,50 Y Breaststroke,SCY,W,40-44,45.18,Katherine Longwell,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Butterfly,SCY,W,40-44,34.87,Katherine Longwell,,AMYMSA 2015 Championship Meet,2015,1
+DLAM,50 Y Freestyle,SCY,M,40-44,33.07,Richard C Stover,,The 2014 Deer Lakes Masters Classic,2015,1
+DLAM,50 Y Breaststroke,SCY,M,40-44,41.89,Richard C Stover,,The 2014 Deer Lakes Masters Classic,2015,1
+FFH,50 Y Butterfly,SCY,W,35-39,41.71,Susan Buchman,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,100 Y Individual Medley,SCY,W,35-39,1:29.30,Susan Buchman,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,50 Y Freestyle,SCY,W,40-44,27.91,Lhea Wiese,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,50 Y Freestyle,SCY,W,40-44,28.61,Libby Ernharth,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+FFH,50 Y Freestyle,SCY,W,40-44,30.44,Kristin B Fox,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,3
+FFH,50 Y Backstroke,SCY,W,40-44,32.86,Libby Ernharth,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,50 Y Breaststroke,SCY,W,40-44,39.74,Kristin B Fox,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,100 Y Individual Medley,SCY,W,40-44,1:15.15,Libby Ernharth,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,100 Y Individual Medley,SCY,W,40-44,1:16.18,Lhea Wiese,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+FFH,100 Y Individual Medley,SCY,W,40-44,1:17.15,Kristin B Fox,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,3
+FFH,50 Y Freestyle,SCY,W,50-54,44.80,Susan L Deakin Kabazie,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,50 Y Freestyle,SCY,M,55-59,26.73,Ron Morosky,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,100 Y Individual Medley,SCY,M,55-59,1:08.22,Ron Morosky,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+FFH,200 Y Individual Medley,SCY,M,55-59,2:35.30,Ron Morosky,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+HDMS,50 Y Freestyle,SCY,M,25-29,24.55,Michael Seiferth,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Backstroke,SCY,M,25-29,59.36,Michael Seiferth,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,50 Y Butterfly,SCY,M,25-29,25.33,Michael Seiferth,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Butterfly,SCY,M,25-29,55.66,Michael Seiferth,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,50 Y Freestyle,SCY,M,35-39,27.36,Douglas A Bender,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Freestyle,SCY,M,35-39,59.31,Eric Jones,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,50 Y Breaststroke,SCY,M,35-39,32.85,Eric Jones,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Breaststroke,SCY,M,35-39,1:13.83,Eric Jones,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,50 Y Butterfly,SCY,M,35-39,30.70,Douglas A Bender,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Individual Medley,SCY,M,35-39,1:11.03,Eric Jones,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Individual Medley,SCY,M,35-39,1:12.14,Douglas A Bender,,The 2014 Deer Lakes Masters Classic,2015,2
+HDMS,50 Y Freestyle,SCY,M,40-44,28.06,Nate Simon,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Freestyle,SCY,M,40-44,1:08.48,Nate Simon,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,200 Y Freestyle,SCY,M,40-44,2:33.49,Nate Simon,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Individual Medley,SCY,M,40-44,1:22.32,Nate Simon,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,50 Y Freestyle,SCY,M,55-59,26.30,Scott A Shearer,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,50 Y Freestyle,SCY,M,55-59,32.85,Christopher Svec,,The 2014 Deer Lakes Masters Classic,2015,2
+HDMS,100 Y Freestyle,SCY,M,55-59,58.34,Scott A Shearer,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,1650 Y Freestyle,SCY,M,55-59,32:20.75,James Duff,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+HDMS,50 Y Breaststroke,SCY,M,55-59,43.70,Christopher Svec,,The 2014 Deer Lakes Masters Classic,2015,1
+HDMS,100 Y Individual Medley,SCY,M,55-59,1:10.22,Scott A Shearer,,The 2014 Deer Lakes Masters Classic,2015,1
+MLAC,1650 Y Freestyle,SCY,W,40-44,30:42.51,Amy C Luzader,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+MLAC,1650 Y Freestyle,SCY,W,45-49,30:40.47,Marlene K Leech,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+MLAC,50 Y Breaststroke,SCY,M,65-69,39.08,Richard J Wimer,,The 2014 Deer Lakes Masters Classic,2015,1
+MLAC,100 Y Breaststroke,SCY,M,65-69,1:25.50,Richard J Wimer,,The 2014 Deer Lakes Masters Classic,2015,1
+MLAC,50 Y Butterfly,SCY,M,65-69,36.85,Richard J Wimer,,The 2014 Deer Lakes Masters Classic,2015,1
+MLAC,100 Y Individual Medley,SCY,M,65-69,1:19.72,Richard J Wimer,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,50 Y Freestyle,SCY,W,40-44,28.16,Jennifer R Petyk,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,100 Y Backstroke,SCY,W,40-44,1:13.66,Jennifer R Petyk,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,100 Y Individual Medley,SCY,W,40-44,1:14.65,Jennifer R Petyk,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,100 Y Freestyle,SCY,M,40-44,52.64,Thomas M Hay,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,1650 Y Freestyle,SCY,M,40-44,21:14.47,David F Bobro,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+PTMS,100 Y Butterfly,SCY,M,40-44,54.47,Thomas M Hay,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,100 Y Individual Medley,SCY,M,40-44,58.73,Thomas M Hay,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,200 Y Individual Medley,SCY,M,40-44,2:07.58,Thomas M Hay,,The 2014 Deer Lakes Masters Classic,2015,1
+PTMS,1650 Y Freestyle,SCY,M,45-49,18:38.14,Dan Buerger,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+PTMS,1650 Y Freestyle,SCY,M,45-49,19:57.12,Matthew H Meade,,Colonies Zone SCY Championship,2015,2
+TPIT,1650 Y Freestyle,SCY,W,25-29,20:56.07,Kelsey A Ida,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,100 Y Freestyle,SCY,W,30-34,58.47,Meredith L Snook,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,200 Y Freestyle,SCY,W,30-34,2:09.97,Meredith L Snook,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,1650 Y Freestyle,SCY,W,30-34,20:48.53,Meredith L Snook,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,50 Y Breaststroke,SCY,W,30-34,35.05,Meredith L Snook,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,100 Y Breaststroke,SCY,W,30-34,1:15.34,Meredith L Snook,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,200 Y Breaststroke,SCY,W,30-34,2:42.73,Meredith L Snook,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,100 Y Individual Medley,SCY,W,30-34,1:08.12,Meredith L Snook,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,50 Y Freestyle,SCY,W,35-39,27.26,Lindsay M Wood,,Colonies Zone SCY Championship,2015,1
+TPIT,100 Y Freestyle,SCY,W,35-39,59.26,Lindsay M Wood,,Colonies Zone SCY Championship,2015,1
+TPIT,1650 Y Freestyle,SCY,W,35-39,26:47.14,Amanda Brodish,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,50 Y Backstroke,SCY,W,35-39,30.74,Lindsay M Wood,,Colonies Zone SCY Championship,2015,1
+TPIT,100 Y Backstroke,SCY,W,35-39,1:05.05,Lindsay M Wood,,Colonies Zone SCY Championship,2015,1
+TPIT,200 Y Backstroke,SCY,W,35-39,2:22.43,Lindsay M Wood,,Colonies Zone SCY Championship,2015,1
+TPIT,200 Y Freestyle,SCY,W,40-44,2:07.52,Tricia A Breeger,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,500 Y Freestyle,SCY,W,40-44,5:43.74,Tricia A Breeger,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,100 Y Butterfly,SCY,W,40-44,1:08.44,Tricia A Breeger,,AMYMSA - WVU Meet,2015,1
+TPIT,200 Y Butterfly,SCY,W,40-44,2:28.62,Tricia A Breeger,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,200 Y Individual Medley,SCY,W,40-44,2:27.28,Tricia A Breeger,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,400 Y Individual Medley,SCY,W,40-44,5:17.29,Tricia A Breeger,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+TPIT,50 Y Freestyle,SCY,W,45-49,28.54,Carol L Ide,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Freestyle,SCY,W,45-49,1:04.81,Carol L Ide,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Freestyle,SCY,W,45-49,2:23.37,Carol L Ide,,2015 YMCA Masters Nationals,2015,1
+TPIT,500 Y Freestyle,SCY,W,45-49,6:33.33,Carol L Ide,,2015 YMCA Masters Nationals,2015,1
+TPIT,1650 Y Freestyle,SCY,W,45-49,22:52.66,Carol L Ide,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Backstroke,SCY,W,45-49,40.62,Nancy M Ott,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,200 Y Breaststroke,SCY,W,45-49,3:29.24,Carol L Ide,,AMYMSA - WVU Meet,2015,1
+TPIT,50 Y Butterfly,SCY,W,45-49,34.52,Carol L Ide,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Butterfly,SCY,W,45-49,36.71,Nancy M Ott,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+TPIT,100 Y Butterfly,SCY,W,45-49,1:32.41,Carol L Ide,,AMYMSA - WVU Meet,2015,1
+TPIT,100 Y Individual Medley,SCY,W,45-49,1:18.25,Carol L Ide,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Freestyle,SCY,W,50-54,28.86,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Freestyle,SCY,W,50-54,42.77,Eleni Houghton,,The 2014 Deer Lakes Masters Classic,2015,2
+TPIT,100 Y Freestyle,SCY,W,50-54,1:04.53,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Freestyle,SCY,W,50-54,3:39.53,Eleni Houghton,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Backstroke,SCY,W,50-54,35.37,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Backstroke,SCY,W,50-54,1:18.50,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Backstroke,SCY,W,50-54,2:58.13,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Breaststroke,SCY,W,50-54,40.70,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Breaststroke,SCY,W,50-54,50.66,Eleni Houghton,,The 2014 Deer Lakes Masters Classic,2015,2
+TPIT,100 Y Breaststroke,SCY,W,50-54,1:27.79,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Individual Medley,SCY,W,50-54,1:17.91,Brenda K Freeman,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Freestyle,SCY,W,55-59,27.35,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Freestyle,SCY,W,55-59,1:00.07,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Freestyle,SCY,W,55-59,2:15.62,Janet B McDonough,,AMYMSA - WVU Meet,2015,1
+TPIT,50 Y Backstroke,SCY,W,55-59,31.70,Janet B McDonough,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Backstroke,SCY,W,55-59,1:08.48,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Backstroke,SCY,W,55-59,2:28.40,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Breaststroke,SCY,W,55-59,40.61,Jean M Rowan,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Breaststroke,SCY,W,55-59,1:17.94,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Breaststroke,SCY,W,55-59,1:26.11,Jean M Rowan,,AMYMSA 2015 Championship Meet,2015,2
+TPIT,200 Y Breaststroke,SCY,W,55-59,3:12.38,Jean M Rowan,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Butterfly,SCY,W,55-59,36.95,Jean M Rowan,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Individual Medley,SCY,W,55-59,1:08.61,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Individual Medley,SCY,W,55-59,2:28.69,Janet B McDonough,,2015 YMCA Masters Nationals,2015,1
+TPIT,400 Y Individual Medley,SCY,W,55-59,5:42.04,Janet B McDonough,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Breaststroke,SCY,W,60-64,38.14,Kathleen Lewis,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Breaststroke,SCY,W,60-64,1:22.84,Kathleen Lewis,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,200 Y Breaststroke,SCY,W,60-64,3:02.53,Kathleen Lewis,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Butterfly,SCY,W,60-64,34.13,Kathleen Lewis,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Butterfly,SCY,W,60-64,1:16.40,Kathleen Lewis,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,100 Y Individual Medley,SCY,W,60-64,1:16.40,Kathleen Lewis,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,200 Y Individual Medley,SCY,W,60-64,2:46.61,Kathleen Lewis,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,400 Y Individual Medley,SCY,W,60-64,5:47.55,Kathleen Lewis,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Freestyle,SCY,M,18-24,24.94,Chad M Evanuik,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,100 Y Freestyle,SCY,M,18-24,53.26,Chad M Evanuik,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,200 Y Freestyle,SCY,M,18-24,1:58.06,Chad M Evanuik,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,500 Y Freestyle,SCY,M,18-24,5:27.06,Chad M Evanuik,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,1650 Y Freestyle,SCY,M,18-24,19:49.76,Chad M Evanuik,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,200 Y Individual Medley,SCY,M,18-24,2:19.18,Chad M Evanuik,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Freestyle,SCY,M,25-29,24.63,Eric Angstadt,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Butterfly,SCY,M,25-29,28.23,Eric Angstadt,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,100 Y Individual Medley,SCY,M,25-29,1:04.40,Eric Angstadt,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,200 Y Individual Medley,SCY,M,25-29,2:16.95,Eric Angstadt,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Freestyle,SCY,M,35-39,25.92,Scott A Ross,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,100 Y Freestyle,SCY,M,35-39,58.17,Scott A Ross,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,200 Y Freestyle,SCY,M,35-39,2:17.76,Scott A Ross,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,1650 Y Freestyle,SCY,M,35-39,28:01.90,Justin D Schell,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,50 Y Butterfly,SCY,M,35-39,29.17,Scott A Ross,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+TPIT,100 Y Butterfly,SCY,M,35-39,1:10.77,Scott A Ross,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Freestyle,SCY,M,40-44,25.60,Josh Dorfzaun,,Colonies Zone SCY Championship,2015,1
+TPIT,100 Y Freestyle,SCY,M,40-44,56.80,Josh Dorfzaun,,Colonies Zone SCY Championship,2015,1
+TPIT,1650 Y Freestyle,SCY,M,40-44,21:57.03,Josh Dorfzaun,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,50 Y Backstroke,SCY,M,40-44,32.59,Josh Dorfzaun,,Colonies Zone SCY Championship,2015,1
+TPIT,100 Y Backstroke,SCY,M,40-44,1:09.89,Josh Dorfzaun,,Colonies Zone SCY Championship,2015,1
+TPIT,50 Y Butterfly,SCY,M,40-44,31.00,Josh Dorfzaun,,Colonies Zone SCY Championship,2015,1
+TPIT,100 Y Individual Medley,SCY,M,40-44,1:08.81,Josh Dorfzaun,,Colonies Zone SCY Championship,2015,1
+TPIT,50 Y Freestyle,SCY,M,50-54,26.72,James R Jensen,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Freestyle,SCY,M,50-54,31.23,RANDY V LEE,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+TPIT,100 Y Freestyle,SCY,M,50-54,59.29,James R Jensen,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Freestyle,SCY,M,50-54,1:10.72,RANDY V LEE,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+TPIT,200 Y Freestyle,SCY,M,50-54,2:09.93,James R Jensen,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Backstroke,SCY,M,50-54,31.90,James R Jensen,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,100 Y Backstroke,SCY,M,50-54,1:09.18,James R Jensen,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,50 Y Butterfly,SCY,M,50-54,29.61,James R Jensen,,The 2014 Deer Lakes Masters Classic,2015,1
+TPIT,50 Y Butterfly,SCY,M,50-54,39.03,RANDY V LEE,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,2
+TPIT,100 Y Butterfly,SCY,M,50-54,1:08.83,James R Jensen,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Individual Medley,SCY,M,50-54,1:09.67,James R Jensen,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,200 Y Individual Medley,SCY,M,50-54,2:31.82,James R Jensen,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,1650 Y Freestyle,SCY,M,55-59,24:22.17,David Watterson,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+TPIT,50 Y Freestyle,SCY,M,60-64,27.22,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Freestyle,SCY,M,60-64,27.97,Donald S Love,,2015 YMCA Masters Nationals,2015,2
+TPIT,50 Y Freestyle,SCY,M,60-64,30.57,Gary A Abbate,,2015 YMCA Masters Nationals,2015,3
+TPIT,50 Y Freestyle,SCY,M,60-64,34.49,Jim Van Buskirk,,2015 Pieter Cath Memorial Inter-Squad Swim Meet,2015,4
+TPIT,100 Y Freestyle,SCY,M,60-64,1:00.48,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Freestyle,SCY,M,60-64,1:08.36,Michael Helbling,,The 2014 Deer Lakes Masters Classic,2015,2
+TPIT,100 Y Freestyle,SCY,M,60-64,1:19.04,Jim Van Buskirk,,2015 Pieter Cath Memorial Inter-Squad Swim Meet,2015,3
+TPIT,200 Y Freestyle,SCY,M,60-64,2:15.69,Donald S Love,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Freestyle,SCY,M,60-64,2:15.85,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,2
+TPIT,200 Y Freestyle,SCY,M,60-64,2:34.20,Michael Helbling,,The 2014 Deer Lakes Masters Classic,2015,3
+TPIT,500 Y Freestyle,SCY,M,60-64,6:16.60,Donald S Love,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,1000 Y Freestyle,SCY,M,60-64,13:00.09,Donald S Love,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,1000 Y Freestyle,SCY,M,60-64,13:39.97,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,2
+TPIT,1650 Y Freestyle,SCY,M,60-64,21:35.25,Donald S Love,,2015 YMCA Masters Nationals,2015,1
+TPIT,1650 Y Freestyle,SCY,M,60-64,24:20.11,Michael Helbling,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,2
+TPIT,1650 Y Freestyle,SCY,M,60-64,26:19.27,Kevin D Ashley,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,3
+TPIT,50 Y Backstroke,SCY,M,60-64,32.56,Donald S Love,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Backstroke,SCY,M,60-64,1:09.56,Donald S Love,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Backstroke,SCY,M,60-64,1:11.07,Stephen K Muthler,,AMYMSA 2015 Championship Meet,2015,2
+TPIT,100 Y Backstroke,SCY,M,60-64,1:26.93,Michael Helbling,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,3
+TPIT,200 Y Backstroke,SCY,M,60-64,2:31.03,Donald S Love,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,200 Y Backstroke,SCY,M,60-64,2:39.23,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,2
+TPIT,50 Y Breaststroke,SCY,M,60-64,35.94,Gary A Abbate,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Breaststroke,SCY,M,60-64,1:19.27,Gary A Abbate,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,100 Y Breaststroke,SCY,M,60-64,1:40.67,Jim Van Buskirk,,2015 Pieter Cath Memorial Inter-Squad Swim Meet,2015,2
+TPIT,200 Y Breaststroke,SCY,M,60-64,3:02.27,Stephen K Muthler,,AMYMSA 2015 Championship Meet,2015,1
+TPIT,200 Y Breaststroke,SCY,M,60-64,3:02.28,Gary A Abbate,,2015 YMCA Masters Nationals,2015,2
+TPIT,50 Y Butterfly,SCY,M,60-64,29.34,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,1
+TPIT,50 Y Butterfly,SCY,M,60-64,30.31,Donald S Love,,2015 YMCA Masters Nationals,2015,2
+TPIT,50 Y Butterfly,SCY,M,60-64,35.70,Gary A Abbate,,AMYMSA 2015 Championship Meet,2015,3
+TPIT,50 Y Butterfly,SCY,M,60-64,47.39,Jim Van Buskirk,,2015 Pieter Cath Memorial Inter-Squad Swim Meet,2015,4
+TPIT,100 Y Butterfly,SCY,M,60-64,1:09.67,Donald S Love,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Butterfly,SCY,M,60-64,1:13.25,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,2
+TPIT,200 Y Butterfly,SCY,M,60-64,3:05.16,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,1
+TPIT,100 Y Individual Medley,SCY,M,60-64,1:10.26,Donald S Love,,AMYMSA - WVU Meet,2015,1
+TPIT,100 Y Individual Medley,SCY,M,60-64,1:12.87,Stephen K Muthler,,AMYMSA - WVU Meet,2015,2
+TPIT,100 Y Individual Medley,SCY,M,60-64,1:22.10,Michael Helbling,,The 2014 Deer Lakes Masters Classic,2015,3
+TPIT,100 Y Individual Medley,SCY,M,60-64,1:28.37,Gary A Abbate,,2015 YMCA Masters Nationals,2015,4
+TPIT,200 Y Individual Medley,SCY,M,60-64,2:34.76,Donald S Love,,2015 YMCA Masters Nationals,2015,1
+TPIT,200 Y Individual Medley,SCY,M,60-64,2:39.89,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,2
+TPIT,200 Y Individual Medley,SCY,M,60-64,3:15.17,Michael Helbling,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,3
+TPIT,400 Y Individual Medley,SCY,M,60-64,6:01.71,Stephen K Muthler,,2015 YMCA Masters Nationals,2015,1
+TPIT,1650 Y Freestyle,SCY,M,65-69,26:40.35,David M Orenstein,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+UC11,50 Y Freestyle,SCY,W,35-39,29.93,Holly M Bauer,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Freestyle,SCY,W,35-39,1:14.26,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Freestyle,SCY,W,35-39,2:37.20,Holly M Bauer,,The 2015 Deer Lakes Masters  Sweetheart Meet,2015,1
+UC11,500 Y Freestyle,SCY,W,35-39,6:42.16,Holly M Bauer,,AMYMSA 2015 Championship Meet,2015,1
+UC11,1000 Y Freestyle,SCY,W,35-39,13:56.58,Holly M Bauer,,AMYMSA 2015 Championship Meet,2015,1
+UC11,1650 Y Freestyle,SCY,W,35-39,24:16.54,Holly M Bauer,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+UC11,50 Y Backstroke,SCY,W,35-39,45.77,Jamie M Brandon,,AMYMSA - WVU Meet,2015,1
+UC11,50 Y Breaststroke,SCY,W,35-39,46.58,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,35-39,1:26.03,Holly M Bauer,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,35-39,1:47.46,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,2
+UC11,50 Y Butterfly,SCY,W,35-39,35.22,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Butterfly,SCY,W,35-39,1:27.98,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Individual Medley,SCY,W,35-39,1:16.80,Holly M Bauer,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Individual Medley,SCY,W,35-39,1:30.13,Jamie M Brandon,,AMYMSA - WVU Meet,2015,2
+UC11,200 Y Individual Medley,SCY,W,35-39,2:50.62,Holly M Bauer,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Individual Medley,SCY,W,35-39,3:20.86,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,2
+UC11,400 Y Individual Medley,SCY,W,35-39,7:18.74,Jamie M Brandon,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Freestyle,SCY,W,40-44,44.62,Elizabeth A Blair,,Carol Chidester Memorial Swim Series Meet #6,2015,1
+UC11,100 Y Freestyle,SCY,W,40-44,1:00.76,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,500 Y Freestyle,SCY,W,40-44,6:09.93,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Breaststroke,SCY,W,40-44,35.10,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,40-44,1:18.61,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,40-44,2:05.56,Elizabeth A Blair,,Carol Chidester Memorial Swim Series Meet #6,2015,2
+UC11,50 Y Butterfly,SCY,W,40-44,29.97,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Butterfly,SCY,W,40-44,1:09.97,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Individual Medley,SCY,W,40-44,1:09.61,Heather T Fisher,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Individual Medley,SCY,W,40-44,1:58.50,Elizabeth A Blair,,Carol Chidester Memorial Swim Series Meet #6,2015,2
+UC11,1650 Y Freestyle,SCY,W,45-49,22:22.99,Anne L Tilley,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+UC11,50 Y Freestyle,SCY,W,50-54,31.40,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Freestyle,SCY,W,50-54,1:07.46,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Freestyle,SCY,W,50-54,2:30.51,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Freestyle,SCY,W,50-54,2:31.62,Mary Anne Savage,,AMYMSA - WVU Meet,2015,2
+UC11,500 Y Freestyle,SCY,W,50-54,6:51.01,Mary Anne Savage,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Backstroke,SCY,W,50-54,1:21.15,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Breaststroke,SCY,W,50-54,40.46,Mary Anne Savage,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,50-54,1:27.63,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,50-54,1:28.99,Mary Anne Savage,,AMYMSA 2015 Championship Meet,2015,2
+UC11,200 Y Breaststroke,SCY,W,50-54,3:16.73,Mary Anne Savage,,AMYMSA - WVU Meet,2015,1
+UC11,50 Y Butterfly,SCY,W,50-54,36.52,Mary Anne Savage,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Butterfly,SCY,W,50-54,1:23.56,Mary Anne Savage,,AMYMSA - WVU Meet,2015,1
+UC11,100 Y Individual Medley,SCY,W,50-54,1:18.71,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Individual Medley,SCY,W,50-54,2:53.29,Janine Schuliger,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Freestyle,SCY,W,65-69,40.75,Kathy Schreckengost,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Freestyle,SCY,W,65-69,1:37.17,Kathy Schreckengost,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Backstroke,SCY,W,65-69,4:11.44,Kathy Schreckengost,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Breaststroke,SCY,W,65-69,54.73,Kathy Schreckengost,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,W,65-69,2:02.99,Kathy Schreckengost,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Individual Medley,SCY,W,65-69,4:05.02,Kathy Schreckengost,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Freestyle,SCY,W,85-89,58.67,Margaret G Menges,,2015 YMCA Masters Nationals,2015,1
+UC11,100 Y Freestyle,SCY,W,85-89,2:18.84,Margaret G Menges,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Freestyle,SCY,W,85-89,5:14.71,Margaret G Menges,,2015 YMCA Masters Nationals,2015,1
+UC11,500 Y Freestyle,SCY,W,85-89,13:23.85,Margaret G Menges,,2015 YMCA Masters Nationals,2015,1
+UC11,1000 Y Freestyle,SCY,W,85-89,27:45.25,Margaret G Menges,,2015 YMCA Masters Nationals,2015,1
+UC11,50 Y Backstroke,SCY,W,85-89,1:07.47,Margaret G Menges,,2015 YMCA Masters Nationals,2015,1
+UC11,100 Y Backstroke,SCY,W,85-89,2:30.65,Margaret G Menges,,AMYMSA - WVU Meet,2015,1
+UC11,1650 Y Freestyle,SCY,M,25-29,20:29.41,Matt Viverette,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+UC11,50 Y Breaststroke,SCY,M,25-29,30.15,Patrick L Whitehead,,The 2014 Deer Lakes Masters Classic,2015,1
+UC11,100 Y Breaststroke,SCY,M,25-29,1:07.23,Patrick L Whitehead,,The 2014 Deer Lakes Masters Classic,2015,1
+UC11,50 Y Freestyle,SCY,M,40-44,28.72,Jim Kellam,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Freestyle,SCY,M,40-44,1:10.91,Jim Kellam,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Backstroke,SCY,M,40-44,37.40,Jim Kellam,,AMYMSA - WVU Meet,2015,1
+UC11,100 Y Breaststroke,SCY,M,40-44,1:20.78,Jim Kellam,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Breaststroke,SCY,M,40-44,3:01.98,Jim Kellam,,AMYMSA - WVU Meet,2015,1
+UC11,50 Y Butterfly,SCY,M,40-44,32.63,Jim Kellam,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Individual Medley,SCY,M,40-44,1:14.16,Jim Kellam,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Individual Medley,SCY,M,40-44,2:51.76,Jim Kellam,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Freestyle,SCY,M,45-49,24.23,Paul F Oyler,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+UC11,100 Y Freestyle,SCY,M,45-49,54.31,Paul F Oyler,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Freestyle,SCY,M,45-49,2:07.93,Paul F Oyler,,AMYMSA - WVU Meet,2015,1
+UC11,200 Y Backstroke,SCY,M,45-49,2:17.45,Paul F Oyler,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+UC11,50 Y Butterfly,SCY,M,45-49,26.93,Paul F Oyler,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+UC11,100 Y Butterfly,SCY,M,45-49,59.63,Paul F Oyler,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Butterfly,SCY,M,45-49,2:19.32,Paul F Oyler,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+UC11,100 Y Individual Medley,SCY,M,45-49,1:04.00,Paul F Oyler,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Individual Medley,SCY,M,45-49,2:14.49,Paul F Oyler,,AMYMSA 2015 Championship Meet,2015,1
+UC11,400 Y Individual Medley,SCY,M,45-49,4:58.63,Paul F Oyler,,AMYMSA 2015 Championship Meet,2015,1
+UC11,50 Y Freestyle,SCY,M,50-54,42.64,Patrick P Kennedy,,AMYMSA 2015 Championship Meet,2015,1
+UC11,1650 Y Freestyle,SCY,M,50-54,19:03.84,John Gallant,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+UC11,50 Y Butterfly,SCY,M,50-54,48.89,Patrick P Kennedy,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Individual Medley,SCY,M,50-54,1:53.00,Patrick P Kennedy,,AMYMSA 2015 Championship Meet,2015,1
+UC11,1650 Y Freestyle,SCY,M,55-59,21:00.50,Jon H Olbum,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,1
+UC11,1650 Y Freestyle,SCY,M,55-59,30:44.73,Ragunath Appasamy,,19th ANNUAL 1650 Yard SWIM CHALLENGE,2015,2
+UC11,50 Y Butterfly,SCY,M,55-59,25.96,John Gallant,,Coral Springs SCY Last Chance Meet,2015,1
+UC11,100 Y Butterfly,SCY,M,55-59,58.33,John Gallant,,Coral Springs SCY Last Chance Meet,2015,1
+UC11,200 Y Butterfly,SCY,M,55-59,2:17.78,John Gallant,,AMYMSA 2015 Championship Meet,2015,1
+UC11,200 Y Individual Medley,SCY,M,55-59,2:18.77,John Gallant,,AMYMSA 2015 Championship Meet,2015,1
+UC11,100 Y Breaststroke,SCY,M,75-79,1:39.05,Michael Natelson,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1
+UC11,50 Y Butterfly,SCY,M,75-79,34.20,Michael Natelson,,2015 Nationwide U.S. Masters Swimming Spring National Championship,2015,1

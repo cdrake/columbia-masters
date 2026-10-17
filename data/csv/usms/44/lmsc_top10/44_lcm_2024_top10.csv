@@ -1,0 +1,486 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+HSAM,50 M Freestyle,LCM,W,25-29,28.61,Anna K Stahlak,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Freestyle,LCM,W,25-29,28.62,Ciara S Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,W,25-29,29.89,Albina Krasykova,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+HSAM,50 M Freestyle,LCM,W,25-29,30.59,Carli I Willis,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,50 M Freestyle,LCM,W,25-29,30.74,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,5
+SDSM,50 M Freestyle,LCM,W,25-29,33.19,Maya Holay,,2024 U.S. Masters Swimming Summer National Championship,2024,6
+SDSM,50 M Freestyle,LCM,W,25-29,34.22,Ciara E de Venecia,,2024 San Diego Long Course Championships,2024,7
+HSAM,100 M Freestyle,LCM,W,25-29,1:01.58,Anna K Stahlak,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,100 M Freestyle,LCM,W,25-29,1:02.01,Ciara S Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+HSAM,100 M Freestyle,LCM,W,25-29,1:09.39,Carli I Willis,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Freestyle,LCM,W,25-29,1:11.02,Maya Holay,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,100 M Freestyle,LCM,W,25-29,1:11.70,Paola Rivas,,2024 San Diego Long Course Championships,2024,5
+SDSM,200 M Freestyle,LCM,W,25-29,2:37.52,Maya Holay,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,25-29,5:09.06,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+HSAM,400 M Freestyle,LCM,W,25-29,5:19.44,Carli I Willis,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,400 M Freestyle,LCM,W,25-29,5:30.67,Maya Holay,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,1500 M Freestyle,LCM,W,25-29,20:30.91,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Backstroke,LCM,W,25-29,34.02,Ciara S Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,W,25-29,35.75,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Backstroke,LCM,W,25-29,37.08,Polina Krasykova,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Backstroke,LCM,W,25-29,38.38,Grace Thrasher,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,50 M Backstroke,LCM,W,25-29,39.88,Ciara E de Venecia,,2024 San Diego Long Course Championships,2024,5
+HSAM,50 M Backstroke,LCM,W,25-29,39.92,Carli I Willis,,2024 San Diego Long Course Championships,2024,6
+HSAM,100 M Backstroke,LCM,W,25-29,1:16.51,Anna K Stahlak,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,W,25-29,1:24.55,Ciara E de Venecia,,2024 San Diego Long Course Championships,2024,2
+SDSM,200 M Backstroke,LCM,W,25-29,2:56.10,Paola Rivas,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Backstroke,LCM,W,25-29,2:57.18,Grace Thrasher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,W,25-29,3:07.15,Ciara E de Venecia,,2024 San Diego Long Course Championships,2024,3
+WIND,50 M Breaststroke,LCM,W,25-29,38.56,Ciara S Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,25-29,40.14,Polina Krasykova,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+HSAM,50 M Breaststroke,LCM,W,25-29,43.44,Carli I Willis,,2024 San Diego Long Course Championships,2024,3
+WIND,100 M Breaststroke,LCM,W,25-29,1:28.49,Ciara S Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,W,25-29,1:29.43,Polina Krasykova,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Breaststroke,LCM,W,25-29,3:07.61,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Butterfly,LCM,W,25-29,31.20,Ciara S Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,W,25-29,31.98,Albina Krasykova,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+HSAM,50 M Butterfly,LCM,W,25-29,33.33,Carli I Willis,,2024 San Diego Long Course Championships,2024,3
+HSAM,100 M Butterfly,LCM,W,25-29,1:12.10,Anna K Stahlak,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,W,25-29,1:12.49,Albina Krasykova,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+HSAM,100 M Butterfly,LCM,W,25-29,1:14.21,Carli I Willis,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,200 M Butterfly,LCM,W,25-29,2:56.20,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,W,25-29,2:44.69,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,25-29,5:46.28,Paola Rivas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,25-29,6:05.12,Grace Thrasher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,W,30-34,31.10,Imma M Rutigliano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+HSAM,50 M Freestyle,LCM,W,30-34,33.70,Hillary Jones,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,2
+PLUNJ,50 M Freestyle,LCM,W,30-34,36.13,Ruth H Logan,,2024 San Diego Long Course Championships,2024,3
+HSAM,100 M Freestyle,LCM,W,30-34,1:14.31,Hillary Jones,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+PLUNJ,100 M Freestyle,LCM,W,30-34,1:20.40,Ruth H Logan,,2024 San Diego Long Course Championships,2024,2
+HSAM,50 M Backstroke,LCM,W,30-34,42.11,Hillary Jones,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+HSAM,50 M Breaststroke,LCM,W,30-34,41.78,Hillary Jones,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,50 M Butterfly,LCM,W,30-34,33.61,Imma M Rutigliano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+PLUNJ,50 M Butterfly,LCM,W,30-34,41.45,Ruth H Logan,,2024 San Diego Long Course Championships,2024,2
+PLUNJ,200 M Individual Medley,LCM,W,30-34,3:22.82,Ruth H Logan,,2024 San Diego Long Course Championships,2024,1
+UC44,50 M Freestyle,LCM,W,35-39,32.89,Olga Stamova,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+PLUNJ,200 M Freestyle,LCM,W,35-39,2:50.71,Alaura K Dorociak,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Freestyle,LCM,W,35-39,5:14.27,Emily S Larson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,1500 M Freestyle,LCM,W,35-39,21:50.54,Jacquelyn Braggin,,2024 San Diego Long Course Championships,2024,1
+SDSM,1500 M Freestyle,LCM,W,35-39,23:19.40,Kelley A Schall,,2024 San Diego Long Course Championships,2024,2
+PLUNJ,50 M Backstroke,LCM,W,35-39,39.28,Alaura K Dorociak,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Backstroke,LCM,W,35-39,39.87,Emily S Larson,,2024 San Diego Long Course Championships,2024,2
+UC44,50 M Backstroke,LCM,W,35-39,42.35,Olga Stamova,,2024 San Diego Long Course Championships,2024,3
+SDSM,100 M Backstroke,LCM,W,35-39,1:21.03,Emily S Larson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,50 M Breaststroke,LCM,W,35-39,46.80,Olga Stamova,,2024 San Diego Long Course Championships,2024,1
+PLUNJ,100 M Breaststroke,LCM,W,35-39,1:38.17,Bethany Z Russell,,2024 San Diego Long Course Championships,2024,1
+UC44,100 M Breaststroke,LCM,W,35-39,1:40.90,Olga Stamova,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+PLUNJ,200 M Breaststroke,LCM,W,35-39,3:18.94,Jackie Grendzinski,,2024 San Diego Long Course Championships,2024,1
+PLUNJ,50 M Butterfly,LCM,W,35-39,39.31,Jackie Grendzinski,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Individual Medley,LCM,W,35-39,3:08.76,Emily S Larson,,2024 San Diego Long Course Championships,2024,1
+PLUNJ,200 M Individual Medley,LCM,W,35-39,3:12.58,Alaura K Dorociak,,2024 San Diego Long Course Championships,2024,2
+PLUNJ,200 M Individual Medley,LCM,W,35-39,3:13.49,Jackie Grendzinski,,2024 San Diego Long Course Championships,2024,3
+SDSM,50 M Freestyle,LCM,W,40-44,32.09,Carolina Moreno,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,40-44,33.18,Jamie L Pyle,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,W,40-44,35.19,Yuko Iwamoto,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Freestyle,LCM,W,40-44,37.65,Catherine Moyer,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,50 M Freestyle,LCM,W,40-44,38.39,Pauline Heyer,,2024 U.S. Masters Swimming Summer National Championship,2024,5
+SDSM,100 M Freestyle,LCM,W,40-44,1:13.81,Jamie L Pyle,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Freestyle,LCM,W,40-44,2:54.82,Pauline Heyer,,2024 San Diego Long Course Championships,2024,1
+SDSM,800 M Freestyle,LCM,W,40-44,12:44.39,Catherine Moyer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,W,40-44,13:01.46,Yuko Iwamoto,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Backstroke,LCM,W,40-44,37.08,Jamie L Pyle,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,W,40-44,41.72,Yuko Iwamoto,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Backstroke,LCM,W,40-44,1:21.66,Jamie L Pyle,,2024 San Diego Long Course Championships,2024,1
+SDSM,100 M Backstroke,LCM,W,40-44,1:38.72,Yuko Iwamoto,,2024 San Diego Long Course Championships,2024,2
+SDSM,200 M Backstroke,LCM,W,40-44,2:55.21,Jamie L Pyle,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,W,40-44,3:18.07,Yuko Iwamoto,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Breaststroke,LCM,W,40-44,45.12,Carolina Moreno,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,40-44,47.58,Pauline Heyer,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Breaststroke,LCM,W,40-44,1:39.90,Pauline Heyer,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Butterfly,LCM,W,40-44,34.34,Carolina Moreno,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,W,40-44,1:28.99,Catherine Moyer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,45-49,27.56,Ana C Caldas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,45-49,32.14,Kristina M Maroudis,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Freestyle,LCM,W,45-49,1:01.60,Ana C Caldas,,2024 World Aquatics Masters Championships,2024,1
+SDSM,200 M Freestyle,LCM,W,45-49,2:42.04,Kristina M Maroudis,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+CMA,400 M Freestyle,LCM,W,45-49,5:04.49,Lisa E Broadfield,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,45-49,5:56.51,Kristina M Maroudis,,2024 San Diego Long Course Championships,2024,2
+CMA,800 M Freestyle,LCM,W,45-49,10:27.77,Lisa E Broadfield,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,W,45-49,12:09.84,Kristina M Maroudis,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,2
+SDSM,1500 M Freestyle,LCM,W,45-49,22:53.28,Kristina M Maroudis,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,50 M Backstroke,LCM,W,45-49,34.21,Ana C Caldas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,W,45-49,37.90,Gina Hundley,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,W,45-49,3:09.17,Kristina M Maroudis,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,45-49,34.63,Ana C Caldas,,2024 World Aquatics Masters Championships,2024,1
+SDSM,50 M Breaststroke,LCM,W,45-49,36.84,Brianna Showell,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Breaststroke,LCM,W,45-49,1:20.68,Brianna Showell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,W,45-49,1:22.32,Ana C Caldas,,2024 San Diego Long Course Championships,2024,2
+SDSM,100 M Breaststroke,LCM,W,45-49,1:39.06,Gina Hundley,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,200 M Breaststroke,LCM,W,45-49,2:53.90,Brianna Showell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,W,45-49,3:40.61,Makiko Maemoto,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,W,45-49,30.13,Ana C Caldas,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+CMA,100 M Butterfly,LCM,W,45-49,1:16.04,Lisa E Broadfield,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,W,45-49,1:32.77,Makiko Maemoto,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+CMA,200 M Butterfly,LCM,W,45-49,2:52.65,Lisa E Broadfield,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,W,45-49,2:39.46,Brianna Showell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,W,45-49,3:04.75,Kristina M Maroudis,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Individual Medley,LCM,W,45-49,3:26.85,Makiko Maemoto,,2024 San Diego Long Course Championships,2024,3
+SDSM,400 M Individual Medley,LCM,W,45-49,5:40.67,Brianna Showell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,45-49,6:42.46,Kristina M Maroudis,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,400 M Individual Medley,LCM,W,45-49,7:04.97,Makiko Maemoto,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Freestyle,LCM,W,50-54,42.32,Stephanie R Allen,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,100 M Freestyle,LCM,W,50-54,1:19.31,Diane Imperial,,2024 San Diego Long Course Championships,2024,1
+SDSM,100 M Freestyle,LCM,W,50-54,1:40.93,Stephanie R Allen,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+UC44,200 M Freestyle,LCM,W,50-54,2:55.36,Diane Imperial,,FAST Swimming Masters LCM Swim Meet,2024,1
+UC44,400 M Freestyle,LCM,W,50-54,5:57.74,Diane Imperial,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,50-54,7:28.10,Stephanie R Allen,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SOWS,1500 M Freestyle,LCM,W,50-54,23:48.96,Emma Piggott,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,1500 M Freestyle,LCM,W,50-54,23:56.93,Diane Imperial,,2024 San Diego Long Course Championships,2024,2
+SDSM,50 M Backstroke,LCM,W,50-54,49.11,Tracey Matthews,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,100 M Backstroke,LCM,W,50-54,1:26.81,Diane Imperial,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,200 M Backstroke,LCM,W,50-54,3:10.47,Diane Imperial,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,W,50-54,51.61,Stephanie R Allen,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Freestyle,LCM,W,55-59,34.16,Margaret Fegan,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Freestyle,LCM,W,55-59,2:58.23,Karen A Feld,,FAST Swimming Masters LCM Swim Meet,2024,1
+WIND,400 M Freestyle,LCM,W,55-59,5:26.54,Margaret Fegan,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,55-59,6:02.49,Karen A Feld,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,800 M Freestyle,LCM,W,55-59,12:23.81,Karen A Feld,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,W,55-59,1:35.98,Karen A Feld,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Backstroke,LCM,W,55-59,3:16.18,Kirsten Pursell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,W,55-59,3:20.90,Karen A Feld,,2024 San Diego Long Course Championships,2024,2
+WIND,50 M Breaststroke,LCM,W,55-59,43.02,Liane Bathey,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Breaststroke,LCM,W,55-59,44.20,Margaret Fegan,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,W,55-59,37.21,Kirsten Pursell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Butterfly,LCM,W,55-59,40.64,Margaret Fegan,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Butterfly,LCM,W,55-59,3:46.69,Karen A Feld,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,55-59,6:40.66,Kirsten Pursell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,60-64,40.62,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,60-64,6:00.08,Lisa Simpson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,W,60-64,14:19.54,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,1500 M Freestyle,LCM,W,60-64,24:00.37,Lisa Simpson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,W,60-64,3:56.24,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,60-64,46.24,Lisa Simpson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,W,60-64,1:41.40,Lisa Simpson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,W,60-64,3:36.46,Lisa Simpson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,W,60-64,4:45.33,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Butterfly,LCM,W,60-64,4:47.59,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,W,60-64,3:53.78,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,60-64,8:16.33,Marieke Thayer,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,65-69,33.30,Cathy Ganze,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,65-69,40.68,Jill M King,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,2
+SDSM,50 M Freestyle,LCM,W,65-69,43.05,Cathy V Neville,,FAST Swimming Masters LCM Swim Meet,2024,3
+SDSM,100 M Freestyle,LCM,W,65-69,1:29.81,Cathy V Neville,,2024 SLOS Firecracker Invitational,2024,1
+SDSM,200 M Freestyle,LCM,W,65-69,3:03.90,Cathy V Neville,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,65-69,6:18.85,Cathy V Neville,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,W,65-69,13:25.81,Cathy V Neville,,Pacific Masters Swimming Long Course Championships,2024,1
+SDSM,1500 M Freestyle,LCM,W,65-69,25:28.76,Cathy V Neville,,Pacific Masters Swimming Long Course Championships,2024,1
+SDSM,50 M Backstroke,LCM,W,65-69,39.31,Cathy Ganze,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,W,65-69,43.28,Karen R Sing,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Backstroke,LCM,W,65-69,47.35,Jill M King,,2024 Rose Bowl Masters LCM Swim Meet,2024,3
+SDSM,50 M Backstroke,LCM,W,65-69,54.83,Cathy V Neville,,FAST Swimming Masters LCM Swim Meet,2024,4
+SDSM,100 M Backstroke,LCM,W,65-69,1:27.71,Cathy Ganze,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,W,65-69,1:36.28,Karen R Sing,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Backstroke,LCM,W,65-69,1:47.78,Jill M King,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Backstroke,LCM,W,65-69,1:50.05,Cathy V Neville,,Pacific Masters Swimming Long Course Championships,2024,4
+SDSM,200 M Backstroke,LCM,W,65-69,3:12.36,Cathy Ganze,,2024 World Aquatics Masters Championships,2024,1
+SDSM,200 M Backstroke,LCM,W,65-69,3:58.93,Cathy V Neville,,Dog Days LCM Masters Swim Meet,2024,2
+SDSM,50 M Breaststroke,LCM,W,65-69,46.17,Cathy Ganze,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,65-69,47.65,Karen R Sing,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Breaststroke,LCM,W,65-69,56.04,Jill M King,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Breaststroke,LCM,W,65-69,1:04.57,Cathy V Neville,,FAST Swimming Masters LCM Swim Meet,2024,4
+SDSM,100 M Breaststroke,LCM,W,65-69,2:22.14,Cathy V Neville,,2024 SLOS Firecracker Invitational,2024,1
+SDSM,200 M Breaststroke,LCM,W,65-69,3:58.89,Karen R Sing,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,W,65-69,36.62,Cathy Ganze,,2024 World Aquatics Masters Championships,2024,1
+SDSM,50 M Butterfly,LCM,W,65-69,40.61,Karen R Sing,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,W,65-69,46.98,Cathy V Neville,,Pacific Masters Swimming Long Course Championships,2024,3
+SDSM,100 M Butterfly,LCM,W,65-69,1:47.07,Cathy V Neville,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,W,65-69,1:51.65,Lisa A Smith,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Butterfly,LCM,W,65-69,4:02.16,Cathy V Neville,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,W,65-69,3:46.91,Cathy V Neville,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,65-69,8:05.68,Cathy V Neville,,Pacific Masters Swimming Long Course Championships,2024,1
+SDSM,50 M Freestyle,LCM,W,70-74,33.70,Andra Jaunzeme,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,70-74,39.93,Marilyn A Fink,,2024 San Diego Long Course Championships,2024,2
+UC44,100 M Freestyle,LCM,W,70-74,2:10.30,Michele Lyons,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,W,70-74,8:07.02,Alta F Stengel,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,W,70-74,16:33.69,Alta F Stengel,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,W,70-74,46.33,Marilyn A Fink,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Backstroke,LCM,W,70-74,54.47,Alta F Stengel,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Backstroke,LCM,W,70-74,2:02.72,Alta F Stengel,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,W,70-74,2:10.09,Laurie S Kaguni,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,W,70-74,4:19.00,Alta F Stengel,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,70-74,46.01,Andra Jaunzeme,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,100 M Breaststroke,LCM,W,70-74,1:43.96,Andra Jaunzeme,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,200 M Breaststroke,LCM,W,70-74,3:45.48,Andra Jaunzeme,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,W,70-74,5:05.45,Laurie S Kaguni,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,W,70-74,36.00,Andra Jaunzeme,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,W,70-74,53.06,Alta F Stengel,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Butterfly,LCM,W,70-74,1:28.95,Andra Jaunzeme,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,100 M Butterfly,LCM,W,70-74,2:22.37,Laurie S Kaguni,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Individual Medley,LCM,W,70-74,3:16.40,Andra Jaunzeme,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,70-74,7:02.78,Andra Jaunzeme,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,W,70-74,9:57.91,Laurie S Kaguni,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,W,75-79,1:09.25,Diane M Hirakawa,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Freestyle,LCM,W,75-79,3:27.47,Barbara G Dunbar,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Freestyle,LCM,W,75-79,7:01.99,Barbara G Dunbar,,2024 San Diego Long Course Championships,2024,1
+SDSM,800 M Freestyle,LCM,W,75-79,14:15.19,Barbara G Dunbar,,2024 San Diego Long Course Championships,2024,1
+SDSM,1500 M Freestyle,LCM,W,75-79,26:53.62,Barbara G Dunbar,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Breaststroke,LCM,W,75-79,1:22.57,Liliane M Cardinal,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,W,75-79,1:23.31,Diane M Hirakawa,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Breaststroke,LCM,W,75-79,3:08.80,Diane M Hirakawa,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,W,75-79,6:36.25,Diane M Hirakawa,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Individual Medley,LCM,W,75-79,13:25.11,Liliane M Cardinal,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,W,85-89,58.19,Judith M Collins,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,W,85-89,1:54.08,Anne H Williams,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,100 M Freestyle,LCM,W,85-89,2:23.10,Judith M Collins,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Freestyle,LCM,W,85-89,3:58.56,Anne H Williams,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,50 M Backstroke,LCM,W,85-89,1:12.71,Judith M Collins,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,W,85-89,2:03.72,Anne H Williams,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,100 M Backstroke,LCM,W,85-89,2:24.70,Judith M Collins,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,W,85-89,4:28.81,Anne H Williams,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,50 M Butterfly,LCM,W,85-89,1:09.47,Judith M Collins,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,18-24,26.26,Anthony Calderon-Schuler,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Freestyle,LCM,M,18-24,33.10,Gavin D Strate,,2024 San Diego Long Course Championships,2024,2
+SDSM,100 M Freestyle,LCM,M,18-24,58.81,Anthony Calderon-Schuler,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Freestyle,LCM,M,18-24,2:11.79,Luis  A Serrano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Freestyle,LCM,M,18-24,2:14.19,Anthony Calderon-Schuler,,2024 San Diego Long Course Championships,2024,2
+SDSM,400 M Freestyle,LCM,M,18-24,4:32.57,Luis  A Serrano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,M,18-24,9:18.86,Luis  A Serrano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,18-24,30.90,Luis  A Serrano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,M,18-24,2:24.39,Luis  A Serrano,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,M,18-24,31.28,William R Pentland,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,25-29,24.50,Oleksandr Ivakin,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,25-29,26.87,Omar Saldivar,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,M,25-29,28.42,Ben A Sappey,,2024 San Diego Long Course Championships,2024,3
+SDSM,100 M Freestyle,LCM,M,25-29,59.20,Nathan S Woodman,,2024 Rose Bowl Masters LCM Swim Meet,2024,1
+SDSM,50 M Backstroke,LCM,M,25-29,30.55,Ben A Sappey,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,M,25-29,1:06.81,Ben A Sappey,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,M,25-29,29.98,Oleksandr Ivakin,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,M,25-29,1:16.62,Nathan S Woodman,,2024 Rose Bowl Masters LCM Swim Meet,2024,1
+SDSM,50 M Butterfly,LCM,M,25-29,27.88,Ben A Sappey,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,M,25-29,28.60,Omar Saldivar,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,M,25-29,28.65,David Saiadian,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Butterfly,LCM,M,25-29,29.25,Nathan S Woodman,,2024 Rose Bowl Masters LCM Swim Meet,2024,4
+SDSM,50 M Butterfly,LCM,M,25-29,29.67,Victor M Huerta,,2024 U.S. Masters Swimming Summer National Championship,2024,5
+SDSM,100 M Butterfly,LCM,M,25-29,1:02.81,Ben A Sappey,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,M,25-29,1:04.50,Omar Saldivar,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Butterfly,LCM,M,25-29,1:04.59,David Saiadian,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Butterfly,LCM,M,25-29,1:04.99,Nathan S Woodman,,2024 Rose Bowl Masters LCM Swim Meet,2024,4
+SDSM,100 M Butterfly,LCM,M,25-29,1:07.53,Victor M Huerta,,2024 U.S. Masters Swimming Summer National Championship,2024,5
+SDSM,200 M Butterfly,LCM,M,25-29,2:55.63,Victor M Huerta,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,M,25-29,2:46.25,Victor M Huerta,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Individual Medley,LCM,M,25-29,5:49.01,Victor M Huerta,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,30-34,23.85,Anton Latkin,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,30-34,52.84,Anton Latkin,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,30-34,1:02.39,Aditya A Kamath,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,400 M Freestyle,LCM,M,30-34,4:45.24,Jorge Agudelo,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,M,30-34,10:04.45,Jorge Agudelo,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,30-34,33.14,Jorge Agudelo,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,M,30-34,1:10.59,Jorge Agudelo,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,M,30-34,1:12.02,Aditya A Kamath,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,M,30-34,2:42.12,Aditya A Kamath,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,M,30-34,1:06.12,Aditya A Kamath,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,M,30-34,2:36.99,Aditya A Kamath,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,35-39,25.99,Kyle Begovich,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,35-39,27.77,Graham Sheldon,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,M,35-39,28.10,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Freestyle,LCM,M,35-39,57.38,Kyle Begovich,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,35-39,1:01.60,Graham Sheldon,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+UC44,200 M Freestyle,LCM,M,35-39,2:28.44,Graham T Sheldon,,2024 San Diego Long Course Championships,2024,1
+UC44,400 M Freestyle,LCM,M,35-39,5:43.77,Nicholas A DeNezzo,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,M,35-39,10:54.23,Jeff S Carlson,,2024 San Diego Long Course Championships,2024,1
+SDSM,1500 M Freestyle,LCM,M,35-39,20:18.82,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,M,35-39,30.07,Sergii Kukharskyi,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,50 M Breaststroke,LCM,M,35-39,36.01,Nicholas A DeNezzo,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Breaststroke,LCM,M,35-39,1:05.94,Sergii Kukharskyi,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,M,35-39,1:17.25,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Breaststroke,LCM,M,35-39,1:22.30,Tracy C Merrill,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+UC44,100 M Breaststroke,LCM,M,35-39,1:24.58,Nicholas A DeNezzo,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,200 M Breaststroke,LCM,M,35-39,2:27.23,Sergii Kukharskyi,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,200 M Breaststroke,LCM,M,35-39,3:07.75,Nicholas A DeNezzo,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,M,35-39,27.15,Sergii Kukharskyi,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,M,35-39,27.82,Kyle Begovich,,2024 San Diego Long Course Championships,2024,2
+SDSM,50 M Butterfly,LCM,M,35-39,30.32,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+UC44,50 M Butterfly,LCM,M,35-39,32.35,Nicholas A DeNezzo,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,100 M Butterfly,LCM,M,35-39,1:02.84,Kyle Begovich,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Butterfly,LCM,M,35-39,1:09.99,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Individual Medley,LCM,M,35-39,2:16.44,Sergii Kukharskyi,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,M,35-39,2:31.45,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Individual Medley,LCM,M,35-39,2:40.39,Tracy C Merrill,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+UC44,200 M Individual Medley,LCM,M,35-39,2:52.13,Nicholas A DeNezzo,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,400 M Individual Medley,LCM,M,35-39,5:27.29,Jeff S Carlson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,40-44,27.40,Kevin C Mendenhall,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Freestyle,LCM,M,40-44,27.92,Jason A Gordan,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Freestyle,LCM,M,40-44,58.87,Kevin C Mendenhall,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,40-44,1:02.11,Tad R Nakatani,,2024 San Diego Long Course Championships,2024,2
+SDSM,100 M Freestyle,LCM,M,40-44,1:11.71,Kevin Lang,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,200 M Freestyle,LCM,M,40-44,2:24.96,Jason A Gordan,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Freestyle,LCM,M,40-44,4:44.59,Kevin C Mendenhall,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Freestyle,LCM,M,40-44,5:43.74,Kevin Lang,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,1500 M Freestyle,LCM,M,40-44,23:17.78,Kevin Lang,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,40-44,33.78,Jason A Gordan,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Breaststroke,LCM,M,40-44,33.43,Tad R Nakatani,,2024 San Diego Long Course Championships,2024,1
+SDSM,100 M Breaststroke,LCM,M,40-44,1:13.55,Tad R Nakatani,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Breaststroke,LCM,M,40-44,2:46.32,Tad R Nakatani,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Butterfly,LCM,M,40-44,29.30,Jason A Gordan,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Butterfly,LCM,M,40-44,30.16,Kevin C Mendenhall,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Individual Medley,LCM,M,40-44,2:43.45,Jason A Gordan,,2024 San Diego Long Course Championships,2024,1
+UC44,50 M Freestyle,LCM,M,45-49,28.15,Mike T Luko,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Freestyle,LCM,M,45-49,29.73,Wayne Delport,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,M,45-49,36.99,Amit R Indap,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+UC44,100 M Freestyle,LCM,M,45-49,1:03.71,Mike T Luko,,2024 San Diego Long Course Championships,2024,1
+WIND,100 M Freestyle,LCM,M,45-49,1:05.44,Rodrigo J Iglesias,,2024 San Diego Long Course Championships,2024,2
+SDSM,100 M Freestyle,LCM,M,45-49,1:22.38,Amit R Indap,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,200 M Freestyle,LCM,M,45-49,2:30.51,Wayne Delport,,2024 San Diego Long Course Championships,2024,1
+UC44,200 M Freestyle,LCM,M,45-49,2:43.17,Mike T Luko,,2024 San Diego Long Course Championships,2024,2
+SDSM,200 M Freestyle,LCM,M,45-49,3:00.80,Amit R Indap,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+WIND,1500 M Freestyle,LCM,M,45-49,29:05.81,Jordan Gold,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Backstroke,LCM,M,45-49,34.23,Wayne Delport,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,45-49,49.01,Amit R Indap,,2024 San Diego Long Course Championships,2024,2
+SDSM,100 M Backstroke,LCM,M,45-49,1:13.83,Wayne Delport,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,M,45-49,2:39.21,Wayne Delport,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,50 M Butterfly,LCM,M,45-49,30.89,Mike T Luko,,2024 San Diego Long Course Championships,2024,1
+SDSM,100 M Butterfly,LCM,M,45-49,1:11.36,Wayne Delport,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,100 M Butterfly,LCM,M,45-49,1:11.82,Mike T Luko,,2024 San Diego Long Course Championships,2024,2
+SDSM,200 M Individual Medley,LCM,M,45-49,2:38.79,Wayne Delport,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,50-54,27.24,Volodymyr Krasykov,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,50-54,27.41,Bryan Addleman,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,M,50-54,27.47,Alex Campbell,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Freestyle,LCM,M,50-54,27.97,Edward D Wang,,2024 San Diego Long Course Championships,2024,4
+SDSM,50 M Freestyle,LCM,M,50-54,28.02,Marc Fairon,,OC Riptide Aquatics Masters LCM Meet,2024,5
+SDSM,50 M Freestyle,LCM,M,50-54,28.11,Marc J Irmer,,2024 U.S. Masters Swimming Summer National Championship,2024,6
+SDSM,100 M Freestyle,LCM,M,50-54,1:00.55,Bryan Addleman,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,50-54,1:04.26,Marc J Irmer,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Freestyle,LCM,M,50-54,1:04.46,Edward D Wang,,2024 San Diego Long Course Championships,2024,3
+SDSM,200 M Freestyle,LCM,M,50-54,2:21.97,Bryan Addleman,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Freestyle,LCM,M,50-54,2:30.30,Marc J Irmer,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,400 M Freestyle,LCM,M,50-54,5:17.69,Nathan Ascher,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,M,50-54,5:19.70,Bryan Addleman,,2024 San Diego Long Course Championships,2024,2
+SDSM,1500 M Freestyle,LCM,M,50-54,19:09.55,Libardo A Mendez-Ramirez,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,50-54,35.65,Joerg Grasser,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,M,50-54,1:13.23,Bryan Addleman,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Backstroke,LCM,M,50-54,1:17.06,Joerg Grasser,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,M,50-54,2:47.98,Joerg Grasser,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,M,50-54,2:54.06,Nathan Ascher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Breaststroke,LCM,M,50-54,33.85,Volodymyr Krasykov,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,M,50-54,35.11,Marc Fairon,,OC Riptide Aquatics Masters LCM Meet,2024,2
+SDSM,50 M Breaststroke,LCM,M,50-54,36.41,Alex Campbell,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Breaststroke,LCM,M,50-54,1:15.66,Marc Fairon,,OC Riptide Aquatics Masters LCM Meet,2024,1
+SDSM,100 M Breaststroke,LCM,M,50-54,1:22.54,Alex Campbell,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Breaststroke,LCM,M,50-54,2:52.30,Libardo A Mendez-Ramirez,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,M,50-54,3:03.66,Nathan Ascher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,M,50-54,29.21,Volodymyr Krasykov,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,M,50-54,30.14,Marc J Irmer,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,M,50-54,30.42,Daniel Partin,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Butterfly,LCM,M,50-54,31.23,Edward D Wang,,2024 San Diego Long Course Championships,2024,4
+SDSM,50 M Butterfly,LCM,M,50-54,34.08,Joerg Grasser,,2024 U.S. Masters Swimming Summer National Championship,2024,5
+SDSM,100 M Butterfly,LCM,M,50-54,1:10.50,Daniel Partin,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+OCSMC,100 M Butterfly,LCM,M,50-54,1:11.90,Dieter D Swank,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Butterfly,LCM,M,50-54,2:41.00,Libardo A Mendez-Ramirez,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Butterfly,LCM,M,50-54,2:58.42,Nathan Ascher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Butterfly,LCM,M,50-54,3:03.66,Daniel Partin,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,200 M Individual Medley,LCM,M,50-54,2:30.53,Libardo A Mendez-Ramirez,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,M,50-54,2:40.48,Nathan Ascher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Individual Medley,LCM,M,50-54,2:55.51,Joerg Grasser,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,400 M Individual Medley,LCM,M,50-54,5:23.37,Libardo A Mendez-Ramirez,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,M,50-54,5:56.86,Nathan Ascher,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+WIND,50 M Freestyle,LCM,M,55-59,29.46,Paton McClung,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,50 M Freestyle,LCM,M,55-59,29.51,David MacCallum,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,M,55-59,29.67,Kenton R Jones,,2024 San Diego Long Course Championships,2024,3
+WIND,50 M Freestyle,LCM,M,55-59,31.31,Randy Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+RAQ,50 M Freestyle,LCM,M,55-59,35.55,Gregory Otto,,FAST Swimming Masters LCM Swim Meet,2024,5
+WIND,100 M Freestyle,LCM,M,55-59,1:06.69,Paton McClung,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,100 M Freestyle,LCM,M,55-59,1:09.30,Randy Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Freestyle,LCM,M,55-59,1:30.38,Michael Nitsch,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,200 M Freestyle,LCM,M,55-59,2:18.14,Kenton R Jones,,2024 World Aquatics Masters Championships,2024,1
+WIND,200 M Freestyle,LCM,M,55-59,2:33.39,Paton McClung,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,400 M Freestyle,LCM,M,55-59,4:50.42,Kenton R Jones,,2024 World Aquatics Masters Championships,2024,1
+WIND,400 M Freestyle,LCM,M,55-59,5:27.70,Randy Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,800 M Freestyle,LCM,M,55-59,10:06.87,Kenton R Jones,,2024 World Aquatics Masters Championships,2024,1
+SDSM,1500 M Freestyle,LCM,M,55-59,19:39.91,Kenton R Jones,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,1500 M Freestyle,LCM,M,55-59,22:20.07,Randy Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+WIND,50 M Backstroke,LCM,M,55-59,39.90,Randy Franke,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+RAQ,50 M Backstroke,LCM,M,55-59,44.00,Gregory Otto,,FAST Swimming Masters LCM Swim Meet,2024,2
+RAQ,100 M Backstroke,LCM,M,55-59,1:32.60,Gregory Otto,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Breaststroke,LCM,M,55-59,33.50,Brian D Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,50 M Breaststroke,LCM,M,55-59,35.15,David MacCallum,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+RAQ,50 M Breaststroke,LCM,M,55-59,40.60,Gregory Otto,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Breaststroke,LCM,M,55-59,1:18.34,Brian D Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+RAQ,100 M Breaststroke,LCM,M,55-59,1:34.88,Gregory Otto,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Breaststroke,LCM,M,55-59,3:02.12,Kenton R Jones,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,M,55-59,3:05.72,Brian D Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Breaststroke,LCM,M,55-59,4:33.61,Michael Nitsch,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Butterfly,LCM,M,55-59,30.86,Brian D Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Butterfly,LCM,M,55-59,32.33,Paton McClung,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Butterfly,LCM,M,55-59,4:28.15,Carlos Lin,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Individual Medley,LCM,M,55-59,2:44.53,Kenton R Jones,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,M,55-59,5:59.24,Kenton R Jones,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,60-64,28.48,Rod Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Freestyle,LCM,M,60-64,29.97,Tony Bathey,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Freestyle,LCM,M,60-64,36.45,Vernon E Jacobs,,2024 San Diego Long Course Championships,2024,3
+SDSM,100 M Freestyle,LCM,M,60-64,1:04.17,Rod Strate,,2024 San Diego Long Course Championships,2024,1
+WIND,100 M Freestyle,LCM,M,60-64,1:13.56,Tony Bathey,,2024 San Diego Long Course Championships,2024,2
+SDSM,200 M Freestyle,LCM,M,60-64,2:26.82,Rod Strate,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+WIND,200 M Freestyle,LCM,M,60-64,2:31.05,Tony Bathey,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+WIND,400 M Freestyle,LCM,M,60-64,5:59.70,Tony Bathey,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Backstroke,LCM,M,60-64,40.42,Vernon E Jacobs,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Breaststroke,LCM,M,60-64,49.11,Vernon E Jacobs,,2024 San Diego Long Course Championships,2024,1
+SDSM,50 M Butterfly,LCM,M,60-64,30.51,Rod Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Butterfly,LCM,M,60-64,32.79,Tony Bathey,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,50 M Butterfly,LCM,M,60-64,37.95,Vernon E Jacobs,,2024 San Diego Long Course Championships,2024,3
+SDSM,100 M Butterfly,LCM,M,60-64,1:10.05,Rod Strate,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Individual Medley,LCM,M,60-64,3:05.46,Vernon E Jacobs,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,65-69,31.14,Peter Cool,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,65-69,31.60,John T Rahm,,2024 San Diego Long Course Championships,2024,2
+SDSM,50 M Freestyle,LCM,M,65-69,32.14,Sam Lund,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Freestyle,LCM,M,65-69,33.64,Joel Ellis,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,100 M Freestyle,LCM,M,65-69,1:09.53,Fred R Munson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,65-69,1:13.65,John T Rahm,,2024 San Diego Long Course Championships,2024,2
+SDSM,100 M Freestyle,LCM,M,65-69,1:16.60,Joel Ellis,,FAST Swimming Masters LCM Swim Meet,2024,3
+SDSM,200 M Freestyle,LCM,M,65-69,3:06.37,Darrell Jett,,2024 San Diego Long Course Championships,2024,1
+SDSM,400 M Freestyle,LCM,M,65-69,5:15.46,Jeffery C Milton,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,M,65-69,5:30.14,Fred R Munson,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,400 M Freestyle,LCM,M,65-69,6:29.65,Darrell Jett,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,800 M Freestyle,LCM,M,65-69,11:08.65,Jeffery C Milton,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,800 M Freestyle,LCM,M,65-69,12:00.46,Sam Lund,,2024 San Diego Long Course Championships,2024,2
+SDSM,800 M Freestyle,LCM,M,65-69,13:28.85,Darrell Jett,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+UC44,800 M Freestyle,LCM,M,65-69,15:04.81,Bob Feinberg,,2024 U.S. Masters Swimming Summer National Championship,2024,4
+SDSM,1500 M Freestyle,LCM,M,65-69,21:25.59,Jeffery C Milton,,2024 San Diego Long Course Championships,2024,1
+SDSM,1500 M Freestyle,LCM,M,65-69,21:36.92,Fred R Munson,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,1500 M Freestyle,LCM,M,65-69,27:01.29,Darrell Jett,,2024 San Diego Long Course Championships,2024,3
+SDSM,50 M Backstroke,LCM,M,65-69,37.66,Fred R Munson,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,65-69,45.38,Darrell Jett,,2024 San Diego Long Course Championships,2024,2
+SDSM,50 M Backstroke,LCM,M,65-69,50.50,Bill Walsh,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,100 M Backstroke,LCM,M,65-69,1:36.87,Darrell Jett,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Backstroke,LCM,M,65-69,3:06.12,Sam Lund,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,M,65-69,3:13.55,Fred R Munson,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,200 M Backstroke,LCM,M,65-69,3:45.66,Bill Walsh,,2024 U.S. Masters Swimming Summer National Championship,2024,3
+SDSM,50 M Breaststroke,LCM,M,65-69,38.77,Peter Cool,,2024 San Diego Long Course Championships,2024,1
+SDSM,100 M Breaststroke,LCM,M,65-69,1:26.21,Peter Cool,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,M,65-69,3:14.02,Peter Cool,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,M,65-69,4:08.10,Bill Walsh,,2024 San Diego Long Course Championships,2024,2
+SDSM,50 M Butterfly,LCM,M,65-69,34.11,James C Perry,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,M,65-69,34.55,Joel Ellis,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Butterfly,LCM,M,65-69,1:24.30,Joel Ellis,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Butterfly,LCM,M,65-69,4:57.06,Bill Walsh,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Individual Medley,LCM,M,65-69,8:18.77,Bill Walsh,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,50 M Freestyle,LCM,M,70-74,33.93,Jonathan Scheff,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,100 M Freestyle,LCM,M,70-74,1:17.11,Jonathan Scheff,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,200 M Freestyle,LCM,M,70-74,2:49.79,Jonathan Scheff,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,400 M Freestyle,LCM,M,70-74,5:58.63,Jonathan Scheff,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+WIND,800 M Freestyle,LCM,M,70-74,12:20.13,Jonathan Scheff,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+WIND,1500 M Freestyle,LCM,M,70-74,22:53.21,Jonathan Scheff,,Mission Viejo Nadadores Masters LCM Swim Meet,2024,1
+SDSM,50 M Freestyle,LCM,M,75-79,44.66,Monte W Gast,,2024 Rose Bowl Masters LCM Swim Meet,2024,1
+SDSM,1500 M Freestyle,LCM,M,75-79,29:10.96,Robert M Ginns,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,M,75-79,2:03.42,Monte W Gast,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,85-89,49.31,William W Haines,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,85-89,53.06,Laurance O Hill,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Backstroke,LCM,M,85-89,1:07.56,William W Haines,,2024 U.S. Masters Swimming Summer National Championship,2024,2
+SDSM,100 M Backstroke,LCM,M,85-89,1:54.56,Laurance O Hill,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Backstroke,LCM,M,85-89,4:11.29,Laurance O Hill,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+UC44,50 M Breaststroke,LCM,M,85-89,1:02.37,David Ellman,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,M,85-89,2:26.73,William W Haines,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,90-94,1:02.40,Tom Mitchell,,2024 San Diego Long Course Championships,2024,1
+SDSM,100 M Freestyle,LCM,M,90-94,2:33.62,Tom Mitchell,,2024 San Diego Long Course Championships,2024,1
+SDSM,200 M Freestyle,LCM,M,90-94,5:30.23,Tom Mitchell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,400 M Freestyle,LCM,M,90-94,12:39.60,Tom Mitchell,,FAST Swimming Masters LCM Swim Meet,2024,1
+SDSM,50 M Backstroke,LCM,M,90-94,1:44.64,Tom Mitchell,,FAST Swimming Masters LCM Swim Meet,2024,1
+SDSM,100 M Backstroke,LCM,M,90-94,3:32.58,Tom Mitchell,,FAST Swimming Masters LCM Swim Meet,2024,1
+SDSM,50 M Breaststroke,LCM,M,90-94,1:22.07,Tom Mitchell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,M,90-94,6:28.30,Tom Mitchell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Butterfly,LCM,M,90-94,1:46.51,Tom Mitchell,,FAST Swimming Masters LCM Swim Meet,2024,1
+SDSM,200 M Individual Medley,LCM,M,90-94,7:15.07,Tom Mitchell,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,50 M Freestyle,LCM,M,95-99,1:16.14,Donald J Hubbard,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Freestyle,LCM,M,95-99,3:05.88,Donald J Hubbard,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,100 M Breaststroke,LCM,M,95-99,5:28.58,Donald J Hubbard,,2024 U.S. Masters Swimming Summer National Championship,2024,1
+SDSM,200 M Breaststroke,LCM,M,95-99,11:52.24,Donald J Hubbard,,2024 U.S. Masters Swimming Summer National Championship,2024,1

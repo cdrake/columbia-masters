@@ -1,0 +1,779 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SDSM,50 Y Freestyle,SCY,W,18-24,27.21,Emily S Parker,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+UNAT,100 Y Freestyle,SCY,W,18-24,57.83,Erin J Hunter,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,500 Y Freestyle,SCY,W,18-24,5:22.25,Emily S Parker,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,18-24,31.88,Emily S Parker,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Backstroke,SCY,W,18-24,1:10.58,Emily S Parker,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+UNAT,100 Y Breaststroke,SCY,W,18-24,1:11.44,Erin J Hunter,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+UNAT,100 Y Butterfly,SCY,W,18-24,1:03.48,Erin J Hunter,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+UNAT,100 Y Individual Medley,SCY,W,18-24,1:04.18,Erin J Hunter,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+UNAT,200 Y Individual Medley,SCY,W,18-24,2:16.19,Erin J Hunter,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Individual Medley,SCY,W,18-24,2:24.75,Emily S Parker,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+LJSM,50 Y Freestyle,SCY,W,25-29,24.60,Stacy E Peterson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,W,25-29,26.02,Emily S Parker,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+UNAT,50 Y Freestyle,SCY,W,25-29,32.93,Yuko Iwamoto,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+LJSM,100 Y Freestyle,SCY,W,25-29,55.05,Stacy E Peterson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Freestyle,SCY,W,25-29,56.79,Emily S Parker,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+ECFY,100 Y Freestyle,SCY,W,25-29,58.32,Stella A Paz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,W,25-29,1:03.54,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,4
+SDSM,200 Y Freestyle,SCY,W,25-29,1:58.02,Emily S Parker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,W,25-29,2:20.24,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,200 Y Freestyle,SCY,W,25-29,2:20.38,Jamie L Erickson,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,500 Y Freestyle,SCY,W,25-29,5:11.29,Emily S Parker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,500 Y Freestyle,SCY,W,25-29,6:20.33,Jamie L Erickson,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,1000 Y Freestyle,SCY,W,25-29,12:27.15,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,1
+LJSM,50 Y Backstroke,SCY,W,25-29,27.46,Stacy E Peterson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,50 Y Backstroke,SCY,W,25-29,31.12,Jamie L Ash,,Mission Viejo Masters SCY Swim Meet,2011,2
+SDSM,50 Y Backstroke,SCY,W,25-29,31.90,Jamie L Erickson,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,50 Y Backstroke,SCY,W,25-29,34.08,Erin J Hunter,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+UNAT,50 Y Backstroke,SCY,W,25-29,40.02,Yuko Iwamoto,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+LJSM,100 Y Backstroke,SCY,W,25-29,59.64,Stacy E Peterson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Backstroke,SCY,W,25-29,1:03.79,Emily S Parker,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+ECFY,100 Y Backstroke,SCY,W,25-29,1:05.91,Stella A Paz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+UNAT,100 Y Backstroke,SCY,W,25-29,1:06.61,Jamie L Ash,,Mission Viejo Masters SCY Swim Meet,2011,4
+SDSM,100 Y Backstroke,SCY,W,25-29,1:07.28,Jamie L Erickson,,2011 U.S. Masters Swimming Spring National Championship,2011,5
+SDSM,100 Y Backstroke,SCY,W,25-29,1:09.33,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,6
+UNAT,100 Y Backstroke,SCY,W,25-29,1:24.24,Yuko Iwamoto,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,7
+SDSM,200 Y Backstroke,SCY,W,25-29,2:28.66,Jamie L Erickson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Backstroke,SCY,W,25-29,2:29.62,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,W,25-29,34.80,Erin J Hunter,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,25-29,41.52,Dannelly W Brown,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+ECFY,100 Y Breaststroke,SCY,W,25-29,1:15.31,Stella A Paz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+LJSM,50 Y Butterfly,SCY,W,25-29,26.17,Stacy E Peterson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Butterfly,SCY,W,25-29,30.38,Erin J Hunter,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Butterfly,SCY,W,25-29,30.52,Kendra Ksiazek,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Butterfly,SCY,W,25-29,31.47,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,4
+UNAT,50 Y Butterfly,SCY,W,25-29,34.90,Yuko Iwamoto,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+ECFY,100 Y Butterfly,SCY,W,25-29,1:02.65,Stella A Paz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Butterfly,SCY,W,25-29,1:08.56,Kendra Ksiazek,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Butterfly,SCY,W,25-29,1:10.31,Dannelly W Brown,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+LJSM,100 Y Individual Medley,SCY,W,25-29,1:01.54,Stacy E Peterson,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,100 Y Individual Medley,SCY,W,25-29,1:07.54,Jamie L Ash,,Mission Viejo Masters SCY Swim Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,W,25-29,1:08.55,Kendra Ksiazek,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,W,25-29,1:13.23,Dannelly W Brown,,SPMA SCY Regional Championship Meet,2011,4
+UNAT,100 Y Individual Medley,SCY,W,25-29,1:20.06,Yuko Iwamoto,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,200 Y Individual Medley,SCY,W,25-29,2:15.16,Emily S Parker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,200 Y Individual Medley,SCY,W,25-29,2:24.50,Jamie L Ash,,Mission Viejo Masters SCY Swim Meet,2011,2
+ECFY,200 Y Individual Medley,SCY,W,25-29,2:29.01,Stella A Paz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,200 Y Individual Medley,SCY,W,25-29,2:29.96,Kendra Ksiazek,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,200 Y Individual Medley,SCY,W,25-29,2:38.76,Dannelly W Brown,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,400 Y Individual Medley,SCY,W,25-29,4:47.65,Emily S Parker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,W,30-34,26.56,Kendra Ksiazek,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,W,30-34,28.92,Jan Magee,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+ECFY,50 Y Freestyle,SCY,W,30-34,30.39,Anna Underwood,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,W,30-34,57.51,Kendra Ksiazek,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,100 Y Freestyle,SCY,W,30-34,1:02.36,Lenelle Wylie,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Freestyle,SCY,W,30-34,1:05.34,Jan Magee,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,W,30-34,1:08.00,Catherine J Moyer,,Mission Viejo Masters SCY Swim Meet,2011,4
+SDSM,200 Y Freestyle,SCY,W,30-34,2:05.76,Kendra Ksiazek,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,500 Y Freestyle,SCY,W,30-34,6:28.51,Morgan Kinnally,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,500 Y Freestyle,SCY,W,30-34,6:36.75,Catherine J Moyer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+ECFY,50 Y Backstroke,SCY,W,30-34,34.67,Anna Underwood,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,30-34,37.23,Catherine J Moyer,,Mission Viejo Masters SCY Swim Meet,2011,2
+UNAT,100 Y Backstroke,SCY,W,30-34,1:15.29,Lenelle Wylie,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Backstroke,SCY,W,30-34,1:16.32,Kendra Ksiazek,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Backstroke,SCY,W,30-34,1:19.23,Catherine J Moyer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SBSM,50 Y Breaststroke,SCY,W,30-34,30.64,Graclyn Van der Byl,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,30-34,35.83,Jan Magee,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+ECFY,50 Y Breaststroke,SCY,W,30-34,42.05,Anna Underwood,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SBSM,100 Y Breaststroke,SCY,W,30-34,1:06.84,Graclyn Van der Byl,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,W,30-34,1:16.19,Kendra Ksiazek,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Breaststroke,SCY,W,30-34,1:17.19,Jan Magee,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+UNAT,100 Y Breaststroke,SCY,W,30-34,1:22.90,Lenelle Wylie,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,200 Y Breaststroke,SCY,W,30-34,2:44.38,Kendra Ksiazek,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SBSM,50 Y Butterfly,SCY,W,30-34,26.59,Graclyn Van der Byl,,SPMA SCY Regional Championship Meet,2011,1
+ECFY,50 Y Butterfly,SCY,W,30-34,31.43,Anna Underwood,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Butterfly,SCY,W,30-34,32.56,Catherine J Moyer,,Mission Viejo Masters SCY Swim Meet,2011,3
+SBSM,100 Y Butterfly,SCY,W,30-34,58.53,Graclyn Van der Byl,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,100 Y Butterfly,SCY,W,30-34,1:13.60,Kendra Ksiazek,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+UNAT,100 Y Butterfly,SCY,W,30-34,1:13.91,Lenelle Wylie,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,W,30-34,1:10.52,Kendra Ksiazek,,UC-Irvine Masters SCY Swim Meet,2011,1
+LJSM,100 Y Individual Medley,SCY,W,30-34,1:11.24,Evelyn W Peelle,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,W,30-34,1:13.37,Jan Magee,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+ECFY,100 Y Individual Medley,SCY,W,30-34,1:15.54,Anna Underwood,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Individual Medley,SCY,W,30-34,1:19.36,Catherine J Moyer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SBSM,200 Y Individual Medley,SCY,W,30-34,2:10.72,Graclyn Van der Byl,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,200 Y Individual Medley,SCY,W,30-34,2:23.66,Kendra Ksiazek,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+UNAT,200 Y Individual Medley,SCY,W,30-34,2:36.90,Lenelle Wylie,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SBSM,400 Y Individual Medley,SCY,W,30-34,4:38.23,Graclyn Van der Byl,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,35-39,25.69,Alison N Terry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+UNAT,50 Y Freestyle,SCY,W,35-39,31.57,Emma Piggott,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+ECFY,50 Y Freestyle,SCY,W,35-39,40.10,Juli Verkler,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+UNAT,100 Y Freestyle,SCY,W,35-39,1:11.05,Emma Piggott,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+ECFY,100 Y Freestyle,SCY,W,35-39,1:33.92,Juli Verkler,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Freestyle,SCY,W,35-39,2:29.75,Emma Piggott,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,35-39,29.55,Alison N Terry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,35-39,40.50,Emma Piggott,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,W,35-39,1:28.43,Emma Piggott,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,W,35-39,28.27,Alison N Terry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+UNAT,50 Y Butterfly,SCY,W,35-39,37.53,Emma Piggott,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,W,35-39,1:06.14,Alison N Terry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,40-44,28.08,Jasmine Stiles,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Freestyle,SCY,W,40-44,59.86,Jasmine Stiles,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,40-44,35.85,Jasmine Stiles,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,W,40-44,1:20.08,Jasmine Stiles,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,45-49,26.75,Jasmine Stiles,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,W,45-49,29.28,Michella M Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Freestyle,SCY,W,45-49,35.52,Edith (Edie) A Jacobsen,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Freestyle,SCY,W,45-49,58.61,Jasmine Stiles,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+LMM,100 Y Freestyle,SCY,W,45-49,1:03.43,Joanne J Steinauer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Freestyle,SCY,W,45-49,1:21.71,Edith (Edie) A Jacobsen,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,200 Y Freestyle,SCY,W,45-49,2:32.80,Robin M Renshaw,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,45-49,35.90,Jasmine Stiles,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,45-49,45.78,Edith (Edie) A Jacobsen,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+LMM,100 Y Backstroke,SCY,W,45-49,1:15.00,Joanne J Steinauer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,45-49,35.03,Jasmine Stiles,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,W,45-49,40.63,Robin M Renshaw,,Mission Viejo Masters SCY Swim Meet,2011,2
+SDSM,100 Y Breaststroke,SCY,W,45-49,1:16.45,Jasmine Stiles,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+LMM,100 Y Breaststroke,SCY,W,45-49,1:28.08,Joanne J Steinauer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,W,45-49,2:50.56,Jasmine Stiles,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Butterfly,SCY,W,45-49,31.67,Jasmine Stiles,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,W,45-49,31.90,Michella M Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Butterfly,SCY,W,45-49,45.87,Edith (Edie) A Jacobsen,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+LMM,100 Y Butterfly,SCY,W,45-49,1:09.17,Joanne J Steinauer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Butterfly,SCY,W,45-49,1:49.96,Genene B Johnson,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,200 Y Butterfly,SCY,W,45-49,2:50.83,Michella M Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Butterfly,SCY,W,45-49,4:02.67,Genene B Johnson,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,W,45-49,1:09.36,Jasmine Stiles,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,W,45-49,1:17.62,Michella M Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+LMM,200 Y Individual Medley,SCY,W,45-49,2:38.04,Joanne J Steinauer,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,200 Y Individual Medley,SCY,W,45-49,3:49.17,Genene B Johnson,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,400 Y Individual Medley,SCY,W,45-49,6:13.27,Michella M Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,400 Y Individual Medley,SCY,W,45-49,7:46.00,Genene B Johnson,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+HSAM,50 Y Freestyle,SCY,W,50-54,30.46,Lisa G Neely,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,50-54,31.93,Lolita V Veloso,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Freestyle,SCY,W,50-54,1:11.06,Lolita V Veloso,,SPMA SCY Regional Championship Meet,2011,1
+HSAM,100 Y Freestyle,SCY,W,50-54,1:11.57,Lisa G Neely,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+LJSM,200 Y Freestyle,SCY,W,50-54,2:26.51,Catherine D De Groot-Hedlin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+HSAM,200 Y Freestyle,SCY,W,50-54,2:38.21,Lisa G Neely,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+LJSM,1000 Y Freestyle,SCY,W,50-54,13:01.12,Catherine D De Groot-Hedlin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,50-54,37.98,Lolita V Veloso,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Backstroke,SCY,W,50-54,1:24.42,Lolita V Veloso,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Backstroke,SCY,W,50-54,3:07.48,Lolita V Veloso,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,50-54,46.27,Lolita V Veloso,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+LJSM,100 Y Breaststroke,SCY,W,50-54,1:26.31,Catherine D De Groot-Hedlin,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+LJSM,200 Y Breaststroke,SCY,W,50-54,3:00.96,Catherine D De Groot-Hedlin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,W,50-54,37.00,Lolita V Veloso,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+LJSM,100 Y Butterfly,SCY,W,50-54,1:13.62,Catherine D De Groot-Hedlin,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,W,50-54,1:23.73,Lolita V Veloso,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+LJSM,200 Y Individual Medley,SCY,W,50-54,2:41.03,Catherine D De Groot-Hedlin,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+LJSM,400 Y Individual Medley,SCY,W,50-54,5:37.88,Catherine D De Groot-Hedlin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,55-59,28.80,Marilyn A Fink,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,55-59,32.40,Leslie Frankenberger,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,100 Y Freestyle,SCY,W,55-59,1:05.09,Marilyn A Fink,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Freestyle,SCY,W,55-59,1:12.91,Leslie Frankenberger,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,200 Y Freestyle,SCY,W,55-59,2:23.11,Marilyn A Fink,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Freestyle,SCY,W,55-59,2:46.84,Leslie Frankenberger,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,500 Y Freestyle,SCY,W,55-59,7:55.31,Kim Miller,,Palm Desert Sr. Games/International Sports Festival,2011,1
+SDSM,50 Y Backstroke,SCY,W,55-59,33.43,Marilyn A Fink,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,55-59,41.20,Leslie Frankenberger,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Backstroke,SCY,W,55-59,1:12.99,Marilyn A Fink,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,200 Y Backstroke,SCY,W,55-59,2:41.59,Marilyn A Fink,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,55-59,42.91,Marilyn A Fink,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,55-59,45.56,Leslie Frankenberger,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,W,55-59,46.03,Kim Miller,,Palm Desert Sr. Games/International Sports Festival,2011,3
+SDSM,50 Y Butterfly,SCY,W,55-59,33.79,Marilyn A Fink,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,W,55-59,37.66,Leslie Frankenberger,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Butterfly,SCY,W,55-59,42.68,Kim Miller,,Palm Desert Sr. Games/International Sports Festival,2011,3
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:16.55,Marilyn A Fink,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:23.08,Leslie Frankenberger,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:33.78,Kim Miller,,Palm Desert Sr. Games/International Sports Festival,2011,3
+SDSM,50 Y Freestyle,SCY,W,60-64,37.15,Gini M Baker,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,60-64,37.91,Alta F Stengel,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,50 Y Freestyle,SCY,W,60-64,41.69,Diane M Hirakawa,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,W,60-64,1:24.62,Alta F Stengel,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Freestyle,SCY,W,60-64,1:25.42,Susan E Weston,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Freestyle,SCY,W,60-64,1:28.39,Gini M Baker,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,200 Y Freestyle,SCY,W,60-64,3:07.18,Gini M Baker,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,200 Y Freestyle,SCY,W,60-64,3:07.60,Alta F Stengel,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,500 Y Freestyle,SCY,W,60-64,6:17.95,Barbara G Dunbar,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,500 Y Freestyle,SCY,W,60-64,8:14.21,Alta F Stengel,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,500 Y Freestyle,SCY,W,60-64,8:52.50,Gini M Baker,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,50 Y Backstroke,SCY,W,60-64,46.04,Alta F Stengel,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,60-64,52.61,Gini M Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,50 Y Backstroke,SCY,W,60-64,53.24,Diane M Hirakawa,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Backstroke,SCY,W,60-64,1:38.65,Alta F Stengel,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,200 Y Backstroke,SCY,W,60-64,3:31.63,Alta F Stengel,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,60-64,49.93,Diane M Hirakawa,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,60-64,50.78,Gini M Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,W,60-64,52.30,Susan E Weston,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,100 Y Breaststroke,SCY,W,60-64,1:48.84,Diane M Hirakawa,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,W,60-64,1:52.76,Susan E Weston,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,200 Y Breaststroke,SCY,W,60-64,4:08.48,Diane M Hirakawa,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Breaststroke,SCY,W,60-64,4:19.05,Gini M Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,50 Y Butterfly,SCY,W,60-64,33.39,Barbara G Dunbar,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Butterfly,SCY,W,60-64,39.91,Susan E Weston,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Butterfly,SCY,W,60-64,42.06,Alta F Stengel,,SPMA SCY Regional Championship Meet,2011,3
+SDSM,50 Y Butterfly,SCY,W,60-64,46.50,Diane M Hirakawa,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Butterfly,SCY,W,60-64,1:13.55,Barbara G Dunbar,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Butterfly,SCY,W,60-64,1:40.50,Alta F Stengel,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,100 Y Butterfly,SCY,W,60-64,1:55.50,Diane M Hirakawa,,Mission Viejo Masters SCY Swim Meet,2011,3
+SDSM,200 Y Butterfly,SCY,W,60-64,2:49.78,Barbara G Dunbar,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,200 Y Butterfly,SCY,W,60-64,3:55.31,Susan E Weston,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Individual Medley,SCY,W,60-64,1:44.24,Gini M Baker,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,W,60-64,1:44.48,Diane M Hirakawa,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,200 Y Individual Medley,SCY,W,60-64,2:50.97,Barbara G Dunbar,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Individual Medley,SCY,W,60-64,3:30.35,Susan E Weston,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,400 Y Individual Medley,SCY,W,60-64,5:54.20,Barbara G Dunbar,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,W,65-69,32.57,Jackie M Marr,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,500 Y Freestyle,SCY,W,65-69,7:01.42,Jackie M Marr,,SW Zone/ Arizona State Championship,2011,1
+SDSM,1000 Y Freestyle,SCY,W,65-69,14:17.80,Jackie M Marr,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,W,65-69,38.66,Jackie M Marr,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Backstroke,SCY,W,65-69,1:24.05,Jackie M Marr,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Backstroke,SCY,W,65-69,2:57.89,Jackie M Marr,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,W,65-69,1:30.22,Jackie M Marr,,SW Zone/ Arizona State Championship,2011,1
+SDSM,200 Y Individual Medley,SCY,W,65-69,3:07.56,Jackie M Marr,,SW Zone/ Arizona State Championship,2011,1
+SDSM,50 Y Freestyle,SCY,W,70-74,33.33,Gynt Clifford,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,W,70-74,39.55,Betsy T Jordan,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Freestyle,SCY,W,70-74,1:18.45,Gynt Clifford,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Freestyle,SCY,W,70-74,1:26.46,Betsy T Jordan,,UC-Irvine Masters SCY Swim Meet,2011,2
+SDSM,200 Y Freestyle,SCY,W,70-74,2:52.50,Anne H Williams,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,200 Y Freestyle,SCY,W,70-74,2:55.63,Gynt Clifford,,2011 Sun Devil Masters Invite,2011,2
+SDSM,200 Y Freestyle,SCY,W,70-74,3:07.31,Betsy T Jordan,,UC-Irvine Masters SCY Swim Meet,2011,3
+SDSM,500 Y Freestyle,SCY,W,70-74,7:37.02,Anne H Williams,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,500 Y Freestyle,SCY,W,70-74,8:28.23,Betsy T Jordan,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,1000 Y Freestyle,SCY,W,70-74,18:31.74,Marilyn A Ramey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,70-74,44.99,Betsy T Jordan,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,W,70-74,49.40,Marilyn A Ramey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Backstroke,SCY,W,70-74,1:36.86,Betsy T Jordan,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Backstroke,SCY,W,70-74,3:29.50,Betsy T Jordan,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,W,70-74,44.38,Anne H Williams,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,W,70-74,51.20,Betsy T Jordan,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Breaststroke,SCY,W,70-74,51.76,Marilyn A Ramey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Breaststroke,SCY,W,70-74,1:35.54,Anne H Williams,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,W,70-74,1:59.98,Betsy T Jordan,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,200 Y Breaststroke,SCY,W,70-74,3:24.01,Anne H Williams,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Butterfly,SCY,W,70-74,39.58,Gynt Clifford,,SW Zone/ Arizona State Championship,2011,1
+SDSM,50 Y Butterfly,SCY,W,70-74,48.96,Marilyn A Ramey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Butterfly,SCY,W,70-74,1:32.46,Gynt Clifford,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Butterfly,SCY,W,70-74,3:49.25,Gynt Clifford,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,W,70-74,1:34.45,Gynt Clifford,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,W,70-74,1:35.55,Anne H Williams,,UC-Irvine Masters SCY Swim Meet,2011,2
+SDSM,200 Y Individual Medley,SCY,W,70-74,3:25.51,Gynt Clifford,,SW Zone/ Arizona State Championship,2011,1
+SDSM,200 Y Individual Medley,SCY,W,70-74,3:51.37,Marilyn A Ramey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Freestyle,SCY,W,80-84,1:18.93,Marian E Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Freestyle,SCY,W,80-84,2:38.19,Marian E Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,W,80-84,5:49.64,Marian E Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,M,18-24,24.17,Brian T Jenkins,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,50 Y Freestyle,SCY,M,18-24,24.25,Thomas C Vandruff,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Freestyle,SCY,M,18-24,29.37,Brian Liu,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+UNAT,100 Y Freestyle,SCY,M,18-24,54.76,Thomas C Vandruff,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,100 Y Freestyle,SCY,M,18-24,55.73,Vincent R Kennedy,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,18-24,1:04.70,Brian Liu,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,200 Y Freestyle,SCY,M,18-24,1:55.19,Brian T Jenkins,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,200 Y Freestyle,SCY,M,18-24,2:00.56,Thomas C Vandruff,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,500 Y Freestyle,SCY,M,18-24,5:25.57,Brian T Jenkins,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,50 Y Breaststroke,SCY,M,18-24,35.56,Vincent R Kennedy,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,M,18-24,1:07.86,Brian T Jenkins,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,50 Y Butterfly,SCY,M,18-24,27.40,Thomas C Vandruff,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,18-24,1:01.46,Brian T Jenkins,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,100 Y Individual Medley,SCY,M,18-24,1:05.41,Thomas C Vandruff,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+UNAT,100 Y Individual Medley,SCY,M,18-24,1:08.28,Vincent R Kennedy,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,M,18-24,1:16.03,Brian Liu,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+UNAT,200 Y Individual Medley,SCY,M,18-24,2:32.24,Vincent R Kennedy,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+LJSM,50 Y Freestyle,SCY,M,25-29,22.38,David W Ruch,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,50 Y Freestyle,SCY,M,25-29,23.64,Stephen D Banister,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,25-29,27.38,Kyle G Howard,,Mission Viejo Masters SCY Swim Meet,2011,3
+SDSM,50 Y Freestyle,SCY,M,25-29,28.35,Joseph A Ramirez,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,50 Y Freestyle,SCY,M,25-29,29.38,Paolo Gatchalian,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+LJSM,100 Y Freestyle,SCY,M,25-29,48.45,David W Ruch,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,100 Y Freestyle,SCY,M,25-29,52.00,Stephen D Banister,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,25-29,1:00.08,Kyle G Howard,,Mission Viejo Masters SCY Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,M,25-29,1:04.67,Paolo Gatchalian,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+UNAT,50 Y Backstroke,SCY,M,25-29,29.32,Stephen D Banister,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,25-29,32.57,Joseph A Ramirez,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+LJSM,100 Y Backstroke,SCY,M,25-29,1:00.87,David W Ruch,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,25-29,34.69,Stephen D Banister,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,25-29,35.93,Paolo Gatchalian,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,M,25-29,35.94,Joseph A Ramirez,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+LJSM,100 Y Breaststroke,SCY,M,25-29,1:10.12,David W Ruch,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,M,25-29,1:21.99,Paolo Gatchalian,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+LJSM,50 Y Butterfly,SCY,M,25-29,24.48,David W Ruch,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Butterfly,SCY,M,25-29,27.02,Stephen D Banister,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Butterfly,SCY,M,25-29,30.22,Kyle G Howard,,Mission Viejo Masters SCY Swim Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,25-29,32.53,Joseph A Ramirez,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+LJSM,100 Y Butterfly,SCY,M,25-29,52.84,David W Ruch,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,25-29,1:06.57,Stephen D Banister,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,25-29,1:09.64,Joseph A Ramirez,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,M,25-29,1:12.61,Kyle G Howard,,Mission Viejo Masters SCY Swim Meet,2011,3
+LJSM,200 Y Individual Medley,SCY,M,25-29,2:10.16,David W Ruch,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,30-34,24.72,Samuel L Duke,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,30-34,25.21,Kevin A Hoiland,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Freestyle,SCY,M,30-34,27.74,Anthony W Munday,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Freestyle,SCY,M,30-34,28.50,Daniel B Taylor,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,100 Y Freestyle,SCY,M,30-34,51.37,Donald B Smith,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Freestyle,SCY,M,30-34,59.36,Kevin A Hoiland,,Mission Viejo Masters SCY Swim Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,30-34,1:01.70,Daniel B Taylor,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Freestyle,SCY,M,30-34,1:06.44,Greg Vierra,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,200 Y Freestyle,SCY,M,30-34,2:28.62,Greg Vierra,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,30-34,30.45,Samuel L Duke,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,30-34,1:04.54,Samuel L Duke,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,30-34,1:13.54,Kevin A Hoiland,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Backstroke,SCY,M,30-34,1:14.76,Anthony W Munday,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Breaststroke,SCY,M,30-34,28.70,Donald B Smith,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,30-34,29.51,Kevin A Hoiland,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Breaststroke,SCY,M,30-34,34.72,Anthony W Munday,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Breaststroke,SCY,M,30-34,35.41,Samuel L Duke,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Breaststroke,SCY,M,30-34,1:03.18,Kevin A Hoiland,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Breaststroke,SCY,M,30-34,1:06.33,Donald B Smith,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Breaststroke,SCY,M,30-34,1:20.57,Daniel B Taylor,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,200 Y Breaststroke,SCY,M,30-34,2:25.87,Kevin A Hoiland,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Butterfly,SCY,M,30-34,27.20,Samuel L Duke,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,30-34,30.55,Anthony W Munday,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Butterfly,SCY,M,30-34,1:10.42,Kevin A Hoiland,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,30-34,58.47,Donald B Smith,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,30-34,1:02.20,Kevin A Hoiland,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Individual Medley,SCY,M,30-34,1:03.51,Samuel L Duke,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,M,30-34,1:09.81,Anthony W Munday,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,200 Y Individual Medley,SCY,M,30-34,2:24.15,Kevin A Hoiland,,UC-Irvine Masters SCY Swim Meet,2011,1
+LJSM,50 Y Freestyle,SCY,M,35-39,23.21,Rodrigo J Iglesias,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,M,35-39,24.15,Steven R Perunovich,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,35-39,25.34,Jay Akin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SBSM,50 Y Freestyle,SCY,M,35-39,28.90,Neil Van der Byl,,SPMA SCY Regional Championship Meet,2011,4
+SDSM,50 Y Freestyle,SCY,M,35-39,32.50,Giuseppe A Lauritano,,2011 U.S. Masters Swimming Spring National Championship,2011,5
+LJSM,100 Y Freestyle,SCY,M,35-39,51.84,Ryan F Foster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+HSAM,100 Y Freestyle,SCY,M,35-39,57.93,Ben T Soule,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,35-39,1:01.10,Henry G Morales,,UC-Irvine Masters SCY Swim Meet,2011,3
+SBSM,100 Y Freestyle,SCY,M,35-39,1:06.31,Neil Van der Byl,,SPMA SCY Regional Championship Meet,2011,4
+SDSM,100 Y Freestyle,SCY,M,35-39,1:06.45,Peter Attia,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Freestyle,SCY,M,35-39,1:14.68,Giuseppe A Lauritano,,2011 U.S. Masters Swimming Spring National Championship,2011,6
+LJSM,200 Y Freestyle,SCY,M,35-39,1:53.15,Ryan F Foster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,M,35-39,2:12.21,Henry G Morales,,UC-Irvine Masters SCY Swim Meet,2011,2
+SDSM,200 Y Freestyle,SCY,M,35-39,2:27.68,Peter Attia,,Mission Viejo Masters SCY Swim Meet,2011,3
+SBSM,200 Y Freestyle,SCY,M,35-39,2:37.57,Neil Van der Byl,,SPMA SCY Regional Championship Meet,2011,4
+LJSM,500 Y Freestyle,SCY,M,35-39,5:09.34,Ryan F Foster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,500 Y Freestyle,SCY,M,35-39,6:00.31,Henry G Morales,,UC-Irvine Masters SCY Swim Meet,2011,2
+SDSM,1000 Y Freestyle,SCY,M,35-39,12:44.03,Henry G Morales,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,1650 Y Freestyle,SCY,M,35-39,18:58.06,David R Hughes,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,35-39,30.50,Jay Akin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,35-39,53.68,Giuseppe A Lauritano,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+LJSM,100 Y Backstroke,SCY,M,35-39,1:00.40,Rodrigo J Iglesias,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Backstroke,SCY,M,35-39,1:06.63,Jay Akin,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,100 Y Backstroke,SCY,M,35-39,1:07.55,Steven R Perunovich,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+HSAM,100 Y Backstroke,SCY,M,35-39,1:11.11,Ben T Soule,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Backstroke,SCY,M,35-39,1:15.35,Peter Attia,,Mission Viejo Masters SCY Swim Meet,2011,5
+LJSM,200 Y Backstroke,SCY,M,35-39,2:15.67,Rodrigo J Iglesias,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Backstroke,SCY,M,35-39,2:33.38,Steven R Perunovich,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,M,35-39,33.75,Peter Attia,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,35-39,39.80,Giuseppe A Lauritano,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Breaststroke,SCY,M,35-39,1:09.63,Peter Attia,,SPMA SCY Regional Championship Meet,2011,1
+LJSM,100 Y Breaststroke,SCY,M,35-39,1:09.88,Rodrigo J Iglesias,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+HSAM,100 Y Breaststroke,SCY,M,35-39,1:12.42,Ben T Soule,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Breaststroke,SCY,M,35-39,1:19.67,Henry G Morales,,Mission Viejo Masters SCY Swim Meet,2011,4
+SDSM,100 Y Breaststroke,SCY,M,35-39,1:34.67,Giuseppe A Lauritano,,UC-Irvine Masters SCY Swim Meet,2011,5
+SDSM,200 Y Breaststroke,SCY,M,35-39,2:30.42,David R Hughes,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,35-39,25.69,Steven R Perunovich,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+LJSM,50 Y Butterfly,SCY,M,35-39,26.25,Rodrigo J Iglesias,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Butterfly,SCY,M,35-39,27.99,Jay Akin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,35-39,29.89,Henry G Morales,,UC-Irvine Masters SCY Swim Meet,2011,4
+SBSM,50 Y Butterfly,SCY,M,35-39,35.20,Neil Van der Byl,,SPMA SCY Regional Championship Meet,2011,5
+SDSM,50 Y Butterfly,SCY,M,35-39,47.01,Giuseppe A Lauritano,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+LJSM,100 Y Butterfly,SCY,M,35-39,57.96,Rodrigo J Iglesias,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+LJSM,100 Y Butterfly,SCY,M,35-39,58.70,Ryan F Foster,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Butterfly,SCY,M,35-39,59.53,Steven R Perunovich,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+HSAM,100 Y Butterfly,SCY,M,35-39,1:04.59,Ben T Soule,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Butterfly,SCY,M,35-39,1:08.12,Henry G Morales,,Mission Viejo Masters SCY Swim Meet,2011,5
+SDSM,100 Y Butterfly,SCY,M,35-39,1:15.37,Peter Attia,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+LJSM,100 Y Individual Medley,SCY,M,35-39,58.37,Rodrigo J Iglesias,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+LJSM,100 Y Individual Medley,SCY,M,35-39,1:00.56,Ryan F Foster,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+LJSM,200 Y Individual Medley,SCY,M,35-39,2:11.99,Rodrigo J Iglesias,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+HSAM,200 Y Individual Medley,SCY,M,35-39,2:24.25,Ben T Soule,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Individual Medley,SCY,M,35-39,2:30.47,Peter Attia,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+LJSM,50 Y Freestyle,SCY,M,40-44,22.67,Joe C Thomas,,Wisconsin State SCY Champs 2011,2011,1
+LJSM,50 Y Freestyle,SCY,M,40-44,22.77,Paton M McClung,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Freestyle,SCY,M,40-44,24.29,Grant R Wilson,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Freestyle,SCY,M,40-44,24.77,Kenton R Jones,,2011 U.S. Masters Swimming Spring National Championship,2011,4
+UNAT,50 Y Freestyle,SCY,M,40-44,26.84,Haruhiko Ishii,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,50 Y Freestyle,SCY,M,40-44,27.27,John R Gross,,UC-Irvine Masters SCY Swim Meet,2011,6
+SDSM,50 Y Freestyle,SCY,M,40-44,27.77,Cris Dobrosielski,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,7
+SDSM,50 Y Freestyle,SCY,M,40-44,28.63,Daniel A Mac Leod,,Different Stroke Swim Team 25th Anniversary Meet,2011,8
+SDSM,50 Y Freestyle,SCY,M,40-44,32.18,Matthew J Shade,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,9
+LJSM,100 Y Freestyle,SCY,M,40-44,51.28,Paton M McClung,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Freestyle,SCY,M,40-44,53.14,Grant R Wilson,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,40-44,53.59,Kenton R Jones,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,M,40-44,56.30,Ken J Griffiths,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,100 Y Freestyle,SCY,M,40-44,58.14,Terry Frogley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Freestyle,SCY,M,40-44,1:00.64,Cris Dobrosielski,,Mission Viejo Masters SCY Swim Meet,2011,6
+SDSM,100 Y Freestyle,SCY,M,40-44,1:02.71,John R Gross,,Mission Viejo Masters SCY Swim Meet,2011,7
+SDSM,100 Y Freestyle,SCY,M,40-44,1:03.10,Joseph J Baldacci,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,8
+LJSM,200 Y Freestyle,SCY,M,40-44,1:53.44,Paton M McClung,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,M,40-44,2:02.01,Grant R Wilson,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,200 Y Freestyle,SCY,M,40-44,2:08.23,Ken J Griffiths,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,500 Y Freestyle,SCY,M,40-44,5:17.16,Kenton R Jones,,Las Vegas Masters Free Play SCY Meet,2011,1
+SDSM,1000 Y Freestyle,SCY,M,40-44,11:01.85,Kenton R Jones,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,1650 Y Freestyle,SCY,M,40-44,19:00.47,Kenton R Jones,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,M,40-44,29.92,Kenton R Jones,,Mission Viejo Masters SCY Swim Meet,2011,1
+LJSM,50 Y Backstroke,SCY,M,40-44,31.02,Paton M McClung,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+UNAT,50 Y Backstroke,SCY,M,40-44,33.75,Haruhiko Ishii,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Backstroke,SCY,M,40-44,35.57,Barry W Brockman,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,50 Y Backstroke,SCY,M,40-44,36.65,John R Gross,,UC-Irvine Masters SCY Swim Meet,2011,5
+SDSM,50 Y Backstroke,SCY,M,40-44,39.88,Matthew J Shade,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+SDSM,100 Y Backstroke,SCY,M,40-44,1:06.87,Kenton R Jones,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,40-44,1:11.68,Terry Frogley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Backstroke,SCY,M,40-44,1:14.72,Cris Dobrosielski,,Mission Viejo Masters SCY Swim Meet,2011,3
+SDSM,100 Y Backstroke,SCY,M,40-44,1:18.11,Joseph J Baldacci,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,200 Y Backstroke,SCY,M,40-44,2:17.96,Kenton R Jones,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Backstroke,SCY,M,40-44,2:39.24,Cris Dobrosielski,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Backstroke,SCY,M,40-44,2:51.43,Barry W Brockman,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+LJSM,50 Y Breaststroke,SCY,M,40-44,27.88,Joe C Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,M,40-44,30.81,Kenton R Jones,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+UNAT,50 Y Breaststroke,SCY,M,40-44,32.00,Damon J Blackman,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+LJSM,50 Y Breaststroke,SCY,M,40-44,32.77,Paton M McClung,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Breaststroke,SCY,M,40-44,34.81,Joseph J Baldacci,,Mission Viejo Masters SCY Swim Meet,2011,5
+UNAT,50 Y Breaststroke,SCY,M,40-44,37.32,Haruhiko Ishii,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+SDSM,50 Y Breaststroke,SCY,M,40-44,37.35,Steve Doster,,Different Stroke Swim Team 25th Anniversary Meet,2011,7
+SDSM,50 Y Breaststroke,SCY,M,40-44,37.55,Matthew J Shade,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,8
+LJSM,100 Y Breaststroke,SCY,M,40-44,1:02.57,Joe C Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Breaststroke,SCY,M,40-44,1:08.23,Kenton R Jones,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+UNAT,100 Y Breaststroke,SCY,M,40-44,1:10.55,Damon J Blackman,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,100 Y Breaststroke,SCY,M,40-44,1:13.24,Joseph J Baldacci,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Breaststroke,SCY,M,40-44,1:16.76,Terry Frogley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Breaststroke,SCY,M,40-44,1:21.03,Cris Dobrosielski,,Mission Viejo Masters SCY Swim Meet,2011,6
+LJSM,200 Y Breaststroke,SCY,M,40-44,2:27.31,Joe C Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+UNAT,200 Y Breaststroke,SCY,M,40-44,2:34.10,Damon J Blackman,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,200 Y Breaststroke,SCY,M,40-44,2:54.04,Cris Dobrosielski,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,200 Y Breaststroke,SCY,M,40-44,3:15.10,Steve Doster,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+LJSM,50 Y Butterfly,SCY,M,40-44,24.95,Joe C Thomas,,Wisconsin State SCY Champs 2011,2011,1
+LJSM,50 Y Butterfly,SCY,M,40-44,25.46,Paton M McClung,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,50 Y Butterfly,SCY,M,40-44,28.75,Cris Dobrosielski,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,40-44,29.33,John R Gross,,UC-Irvine Masters SCY Swim Meet,2011,4
+UNAT,50 Y Butterfly,SCY,M,40-44,30.63,Haruhiko Ishii,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,50 Y Butterfly,SCY,M,40-44,32.93,Daniel A Mac Leod,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,50 Y Butterfly,SCY,M,40-44,34.06,Matthew J Shade,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,7
+SDSM,100 Y Butterfly,SCY,M,40-44,1:01.77,Kenton R Jones,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Butterfly,SCY,M,40-44,1:05.02,Terry Frogley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Butterfly,SCY,M,40-44,1:05.47,Ken J Griffiths,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Butterfly,SCY,M,40-44,1:15.62,Joseph J Baldacci,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+LJSM,100 Y Individual Medley,SCY,M,40-44,57.00,Joe C Thomas,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,40-44,59.95,Kenton R Jones,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+LJSM,100 Y Individual Medley,SCY,M,40-44,1:00.31,Paton M McClung,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:02.72,Grant R Wilson,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:03.88,Matthew J Shade,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:05.23,Ken J Griffiths,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:07.79,Cris Dobrosielski,,2011 U.S. Masters Swimming Spring National Championship,2011,7
+UNAT,100 Y Individual Medley,SCY,M,40-44,1:10.01,Haruhiko Ishii,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,8
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:15.08,John R Gross,,Mission Viejo Masters SCY Swim Meet,2011,9
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:20.52,Steve Doster,,Different Stroke Swim Team 25th Anniversary Meet,2011,10
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:16.99,Kenton R Jones,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:25.98,Terry Frogley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:29.76,Cris Dobrosielski,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:33.04,Joseph J Baldacci,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,400 Y Individual Medley,SCY,M,40-44,4:46.75,Kenton R Jones,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,400 Y Individual Medley,SCY,M,40-44,5:25.50,Cris Dobrosielski,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,45-49,24.96,John A Bolduc,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,45-49,25.54,John Spencer,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,45-49,26.65,Dan Stoneman,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Freestyle,SCY,M,45-49,27.42,John C Gravelle,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Freestyle,SCY,M,45-49,27.51,Kenny J Baer,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,50 Y Freestyle,SCY,M,45-49,28.73,John W Hall,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,50 Y Freestyle,SCY,M,45-49,29.25,Michael W Little,,UC-Irvine Masters SCY Swim Meet,2011,7
+SDSM,50 Y Freestyle,SCY,M,45-49,29.68,Scott T Allen,,Different Stroke Swim Team 25th Anniversary Meet,2011,8
+SDSM,50 Y Freestyle,SCY,M,45-49,30.41,Ruben Villegas,,Different Stroke Swim Team 25th Anniversary Meet,2011,9
+SDSM,50 Y Freestyle,SCY,M,45-49,39.00,Ryan N Tu,,Different Stroke Swim Team 25th Anniversary Meet,2011,10
+NCSM,100 Y Freestyle,SCY,M,45-49,52.20,Mason T Bailey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Freestyle,SCY,M,45-49,55.33,John A Bolduc,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,45-49,58.49,Peter Merz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Freestyle,SCY,M,45-49,58.78,Dan Stoneman,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,100 Y Freestyle,SCY,M,45-49,59.38,John Spencer,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,100 Y Freestyle,SCY,M,45-49,59.96,Kenny J Baer,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,100 Y Freestyle,SCY,M,45-49,1:02.45,Joseph J Baldacci,,2011 U.S. Masters Swimming Spring National Championship,2011,7
+SDSM,100 Y Freestyle,SCY,M,45-49,1:02.77,John W Hall,,Different Stroke Swim Team 25th Anniversary Meet,2011,8
+SDSM,100 Y Freestyle,SCY,M,45-49,1:12.51,Ruben Villegas,,Different Stroke Swim Team 25th Anniversary Meet,2011,9
+SDSM,100 Y Freestyle,SCY,M,45-49,1:17.99,Robert J Bowsher,,Different Stroke Swim Team 25th Anniversary Meet,2011,10
+SDSM,100 Y Freestyle,SCY,M,45-49,1:18.80,Michael W Little,,UC-Irvine Masters SCY Swim Meet,2011,11
+SDSM,100 Y Freestyle,SCY,M,45-49,1:22.93,Ryan N Tu,,Different Stroke Swim Team 25th Anniversary Meet,2011,12
+SDSM,200 Y Freestyle,SCY,M,45-49,2:09.50,Dan Stoneman,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Freestyle,SCY,M,45-49,2:13.20,Raymond H Summers,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Freestyle,SCY,M,45-49,2:41.65,Robert J Bowsher,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,200 Y Freestyle,SCY,M,45-49,3:10.26,Ryan N Tu,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+NCSM,500 Y Freestyle,SCY,M,45-49,5:17.95,Mason T Bailey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,500 Y Freestyle,SCY,M,45-49,5:35.43,Raymond H Summers,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+NCSM,500 Y Freestyle,SCY,M,45-49,6:09.46,Joey Hinton,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,500 Y Freestyle,SCY,M,45-49,7:14.48,Robert J Bowsher,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,50 Y Backstroke,SCY,M,45-49,31.88,John Spencer,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,45-49,33.51,John A Bolduc,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Backstroke,SCY,M,45-49,46.15,Michael W Little,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Backstroke,SCY,M,45-49,50.23,Ryan N Tu,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,50 Y Backstroke,SCY,M,45-49,53.72,Robert J Bowsher,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,100 Y Backstroke,SCY,M,45-49,1:16.90,Peter Merz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,200 Y Backstroke,SCY,M,45-49,2:41.80,Raymond H Summers,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,45-49,34.44,John A Bolduc,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,45-49,34.81,Jim W Harden,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,M,45-49,35.39,Michael W Little,,Mission Viejo Masters SCY Swim Meet,2011,3
+SDSM,50 Y Breaststroke,SCY,M,45-49,35.82,John C Gravelle,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+UNAT,50 Y Breaststroke,SCY,M,45-49,36.08,Grant L Rabjohn,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,50 Y Breaststroke,SCY,M,45-49,39.69,Scott T Allen,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:13.68,Joseph J Baldacci,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:14.27,Jim W Harden,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:23.78,Peter Merz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:24.13,Michael W Little,,Mission Viejo Masters SCY Swim Meet,2011,4
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:28.82,Scott T Allen,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,200 Y Breaststroke,SCY,M,45-49,2:43.92,Jim W Harden,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,200 Y Breaststroke,SCY,M,45-49,2:47.13,Raymond H Summers,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,M,45-49,3:17.91,Michael W Little,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,45-49,28.78,John Spencer,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,45-49,28.84,Kenny J Baer,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Butterfly,SCY,M,45-49,29.05,John A Bolduc,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,45-49,30.20,John C Gravelle,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Butterfly,SCY,M,45-49,31.68,John W Hall,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,50 Y Butterfly,SCY,M,45-49,34.81,Ruben Villegas,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,100 Y Butterfly,SCY,M,45-49,1:08.49,Peter Merz,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Butterfly,SCY,M,45-49,1:16.83,John W Hall,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,200 Y Butterfly,SCY,M,45-49,2:35.93,Raymond H Summers,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,200 Y Butterfly,SCY,M,45-49,2:59.70,Jim W Harden,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+NCSM,100 Y Individual Medley,SCY,M,45-49,1:01.26,Mason T Bailey,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:05.79,John A Bolduc,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:09.36,Kenny J Baer,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:17.09,John W Hall,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:23.35,Michael W Little,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:59.52,Ryan N Tu,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,200 Y Individual Medley,SCY,M,45-49,2:30.03,Joseph J Baldacci,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Individual Medley,SCY,M,45-49,2:33.34,Peter Merz,,UC-Irvine Masters SCY Swim Meet,2011,2
+SDSM,400 Y Individual Medley,SCY,M,45-49,5:22.02,Jim W Harden,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,50-54,24.61,Alan Voisard,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,50-54,26.11,Jerry Livingston,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,50-54,26.50,James A Ney,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+UNAT,50 Y Freestyle,SCY,M,50-54,26.71,Charles W Ervin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+UNAT,50 Y Freestyle,SCY,M,50-54,26.78,Jeff S Marchant,,California Bay Area Senior Games,2011,5
+SDSM,50 Y Freestyle,SCY,M,50-54,28.17,Darrell L Jett,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+HSAM,50 Y Freestyle,SCY,M,50-54,28.98,George W Burtless,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,7
+LMM,50 Y Freestyle,SCY,M,50-54,31.09,Joseph S Hall,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,8
+UNAT,50 Y Freestyle,SCY,M,50-54,32.90,Robbie Thompson,,California Senior Games,2011,9
+UNAT,50 Y Freestyle,SCY,M,50-54,36.97,Frank Kennedy,,Different Stroke Swim Team 25th Anniversary Meet,2011,10
+SDSM,100 Y Freestyle,SCY,M,50-54,54.76,Alan Voisard,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+UNAT,100 Y Freestyle,SCY,M,50-54,59.00,Jeff S Marchant,,California Bay Area Senior Games,2011,2
+UNAT,100 Y Freestyle,SCY,M,50-54,1:01.56,Charles W Ervin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+CARL,100 Y Freestyle,SCY,M,50-54,1:03.87,David R Vannice,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+UNAT,100 Y Freestyle,SCY,M,50-54,1:33.55,Frank Kennedy,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,200 Y Freestyle,SCY,M,50-54,2:11.83,James A Ney,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,M,50-54,2:15.88,Mark W Spratt,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+UNAT,200 Y Freestyle,SCY,M,50-54,2:20.97,Charles W Ervin,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+UNAT,200 Y Freestyle,SCY,M,50-54,3:34.35,Frank Kennedy,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,500 Y Freestyle,SCY,M,50-54,6:01.42,James A Ney,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,500 Y Freestyle,SCY,M,50-54,6:01.52,Mark W Spratt,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,500 Y Freestyle,SCY,M,50-54,6:37.19,Darrell L Jett,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,3
+SDSM,1650 Y Freestyle,SCY,M,50-54,22:54.86,Darrell L Jett,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,50-54,32.88,Abel Menchaca,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,50-54,33.25,Jerry Livingston,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+HSAM,50 Y Backstroke,SCY,M,50-54,34.48,George W Burtless,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Backstroke,SCY,M,50-54,34.52,Darrell L Jett,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,4
+LMM,50 Y Backstroke,SCY,M,50-54,43.46,Joseph S Hall,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Backstroke,SCY,M,50-54,1:13.61,Darrell L Jett,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+CARL,100 Y Backstroke,SCY,M,50-54,1:20.19,David R Vannice,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Backstroke,SCY,M,50-54,2:43.39,Darrell L Jett,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+HSAM,50 Y Breaststroke,SCY,M,50-54,32.74,George W Burtless,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,50-54,33.51,Abel Menchaca,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,M,50-54,35.12,Jerry Livingston,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+UNAT,50 Y Breaststroke,SCY,M,50-54,35.74,Jeff S Marchant,,California Bay Area Senior Games,2011,4
+SDSM,50 Y Breaststroke,SCY,M,50-54,39.89,Darrell L Jett,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+LMM,50 Y Breaststroke,SCY,M,50-54,42.05,Joseph S Hall,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+UNAT,50 Y Breaststroke,SCY,M,50-54,51.90,Robbie Thompson,,California Senior Games,2011,7
+UNAT,100 Y Breaststroke,SCY,M,50-54,1:18.99,Jeff S Marchant,,California Bay Area Senior Games,2011,1
+CARL,100 Y Breaststroke,SCY,M,50-54,1:26.86,David R Vannice,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,M,50-54,3:00.50,Mark W Spratt,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,50-54,27.88,Bart J Mc Dermott,,USF Valentine's Affair,2011,1
+UNAT,50 Y Butterfly,SCY,M,50-54,29.55,Jeff S Marchant,,California Bay Area Senior Games,2011,2
+SDSM,50 Y Butterfly,SCY,M,50-54,29.73,Jerry Livingston,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+HSAM,50 Y Butterfly,SCY,M,50-54,30.12,George W Burtless,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Butterfly,SCY,M,50-54,31.07,Darrell L Jett,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+LMM,50 Y Butterfly,SCY,M,50-54,38.98,Joseph S Hall,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,6
+UNAT,50 Y Butterfly,SCY,M,50-54,52.62,Robbie Thompson,,California Senior Games,2011,7
+CARL,100 Y Butterfly,SCY,M,50-54,1:13.50,David R Vannice,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,200 Y Butterfly,SCY,M,50-54,2:22.94,Bart J Mc Dermott,,USF Valentine's Affair,2011,1
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:02.25,Alan Voisard,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:08.20,Jerry Livingston,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+UNAT,100 Y Individual Medley,SCY,M,50-54,1:08.89,Jeff S Marchant,,California Senior Games,2011,3
+HSAM,100 Y Individual Medley,SCY,M,50-54,1:09.69,George W Burtless,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:13.44,James A Ney,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,5
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:14.05,Darrell L Jett,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,6
+SDSM,200 Y Individual Medley,SCY,M,50-54,2:43.46,Mark W Spratt,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,55-59,25.59,Bill G Behun,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,55-59,26.09,John E McLintock,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,55-59,27.55,Harry G Duffield,,Washington State Senior Games,2011,3
+SDSM,50 Y Freestyle,SCY,M,55-59,34.11,David C Lynch,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,100 Y Freestyle,SCY,M,55-59,1:00.21,John McLintock,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,100 Y Freestyle,SCY,M,55-59,1:03.36,Harry G Duffield,,Washington State Senior Games,2011,2
+SDSM,100 Y Freestyle,SCY,M,55-59,1:05.40,Thomas G Herbert,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,100 Y Freestyle,SCY,M,55-59,1:06.83,Fabio Astudillo,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,4
+HSAM,100 Y Freestyle,SCY,M,55-59,1:10.77,Scott A Steinert,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Freestyle,SCY,M,55-59,1:19.30,Charles A Kaehler,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,200 Y Freestyle,SCY,M,55-59,2:26.55,Harry G Duffield,,Washington State Senior Games,2011,1
+SDSM,500 Y Freestyle,SCY,M,55-59,6:57.93,Harry G Duffield,,Washington State Senior Games,2011,1
+SDSM,50 Y Backstroke,SCY,M,55-59,33.98,Bill G Behun,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+UNAT,50 Y Backstroke,SCY,M,55-59,35.60,Joe E Russell,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,50 Y Backstroke,SCY,M,55-59,38.85,Thomas G Herbert,,Different Stroke Swim Team 25th Anniversary Meet,2011,3
+SDSM,50 Y Backstroke,SCY,M,55-59,51.82,Charles A Kaehler,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+UNAT,100 Y Backstroke,SCY,M,55-59,1:16.79,Joe E Russell,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,55-59,32.88,John E McLintock,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,55-59,33.99,Bill G Behun,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,M,55-59,36.06,Mark Croshier,,Palm Desert Sr. Games/International Sports Festival,2011,3
+SDSM,50 Y Breaststroke,SCY,M,55-59,41.53,Charles A Kaehler,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+SDSM,50 Y Breaststroke,SCY,M,55-59,42.57,David C Lynch,,Different Stroke Swim Team 25th Anniversary Meet,2011,5
+SDSM,100 Y Breaststroke,SCY,M,55-59,1:16.81,John E McLintock,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Breaststroke,SCY,M,55-59,1:35.52,Charles A Kaehler,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,M,55-59,2:56.22,John McLintock,,Rose Bowl Masters SCY Distance Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,55-59,27.57,Bill G Behun,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,55-59,29.08,John McLintock,,SW Zone/ Arizona State Championship,2011,2
+SDSM,50 Y Butterfly,SCY,M,55-59,29.81,Fabio Astudillo,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,3
+UNAT,50 Y Butterfly,SCY,M,55-59,30.60,Joe E Russell,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,4
+HSAM,50 Y Butterfly,SCY,M,55-59,36.89,Scott A Steinert,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,50 Y Butterfly,SCY,M,55-59,43.09,David C Lynch,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,100 Y Butterfly,SCY,M,55-59,1:25.85,Fabio Astudillo,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,200 Y Butterfly,SCY,M,55-59,3:17.97,Fabio Astudillo,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:07.11,John McLintock,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:07.30,Bill G Behun,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+UNAT,100 Y Individual Medley,SCY,M,55-59,1:15.24,Joe E Russell,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:20.97,Thomas G Herbert,,Different Stroke Swim Team 25th Anniversary Meet,2011,4
+HSAM,100 Y Individual Medley,SCY,M,55-59,1:31.00,Scott A Steinert,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:32.52,Charles A Kaehler,,Different Stroke Swim Team 25th Anniversary Meet,2011,6
+SDSM,200 Y Individual Medley,SCY,M,55-59,2:32.39,John McLintock,,SW Zone/ Arizona State Championship,2011,1
+SDSM,400 Y Individual Medley,SCY,M,55-59,5:40.20,John McLintock,,Pacific Masters Short Course Championships,2011,1
+UNAT,50 Y Freestyle,SCY,M,60-64,28.22,Mark A Miller,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,60-64,39.22,Mike T Greenberg,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+SDSM,100 Y Freestyle,SCY,M,60-64,1:28.49,Mike T Greenberg,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,60-64,44.81,Mike T Greenberg,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,60-64,1:41.84,Mike T Greenberg,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,60-64,1:37.74,Mike T Greenberg,,Different Stroke Swim Team 25th Anniversary Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,65-69,26.10,Vinus Van Baalen,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,M,65-69,27.46,Mike R Freshley,,Las Vegas Masters Free Play SCY Meet,2011,2
+LJSM,50 Y Freestyle,SCY,M,65-69,27.65,John K Whitley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Freestyle,SCY,M,65-69,33.88,Daniel W Henry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Freestyle,SCY,M,65-69,40.30,Mark A Krakower,,Caltech Pentathlon SCY Swim Meet,2011,5
+SDSM,100 Y Freestyle,SCY,M,65-69,59.82,Vinus Van Baalen,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Freestyle,SCY,M,65-69,1:02.17,Mike R Freshley,,Las Vegas Masters Free Play SCY Meet,2011,2
+OSM,200 Y Freestyle,SCY,M,65-69,2:48.53,Michael R Bullock,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,500 Y Freestyle,SCY,M,65-69,6:35.19,Mike R Freshley,,Palm Desert Sr. Games/International Sports Festival,2011,1
+SDSM,50 Y Backstroke,SCY,M,65-69,31.44,Vinus Van Baalen,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,M,65-69,33.16,Mike R Freshley,,Caltech Pentathlon SCY Swim Meet,2011,2
+LJSM,50 Y Backstroke,SCY,M,65-69,34.21,John K Whitley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Backstroke,SCY,M,65-69,41.08,Daniel W Henry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Backstroke,SCY,M,65-69,58.16,Mark A Krakower,,Caltech Pentathlon SCY Swim Meet,2011,5
+SDSM,100 Y Backstroke,SCY,M,65-69,1:09.63,Vinus Van Baalen,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+OSM,200 Y Backstroke,SCY,M,65-69,3:09.93,Michael R Bullock,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,65-69,34.66,Mike R Freshley,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+LJSM,50 Y Breaststroke,SCY,M,65-69,39.70,John K Whitley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Breaststroke,SCY,M,65-69,54.01,Mark A Krakower,,Caltech Pentathlon SCY Swim Meet,2011,3
+SDSM,100 Y Breaststroke,SCY,M,65-69,1:17.72,Mike R Freshley,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,200 Y Breaststroke,SCY,M,65-69,2:47.65,Mike R Freshley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+OSM,200 Y Breaststroke,SCY,M,65-69,3:20.48,Michael R Bullock,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Butterfly,SCY,M,65-69,29.47,Mike R Freshley,,Caltech Pentathlon SCY Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,65-69,30.79,Vinus Van Baalen,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+LJSM,50 Y Butterfly,SCY,M,65-69,32.85,John K Whitley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,65-69,45.79,Daniel W Henry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,50 Y Butterfly,SCY,M,65-69,1:00.07,Mark A Krakower,,Caltech Pentathlon SCY Swim Meet,2011,5
+OSM,200 Y Butterfly,SCY,M,65-69,3:14.34,Michael R Bullock,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,65-69,1:09.85,Vinus Van Baalen,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,65-69,1:10.32,Mike R Freshley,,Different Stroke Swim Team 25th Anniversary Meet,2011,2
+LJSM,100 Y Individual Medley,SCY,M,65-69,1:16.75,John K Whitley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Individual Medley,SCY,M,65-69,1:40.09,Daniel W Henry,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,4
+SDSM,100 Y Individual Medley,SCY,M,65-69,1:57.73,Mark A Krakower,,Caltech Pentathlon SCY Swim Meet,2011,5
+SDSM,200 Y Individual Medley,SCY,M,65-69,2:37.23,Mike R Freshley,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,1
+SDSM,400 Y Individual Medley,SCY,M,65-69,5:43.16,Mike R Freshley,,Rose Bowl Masters SCY Distance Meet,2011,1
+OSM,400 Y Individual Medley,SCY,M,65-69,6:42.35,Michael R Bullock,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,70-74,29.98,Frank Williams,,SW Zone/ Arizona State Championship,2011,1
+SDSM,100 Y Freestyle,SCY,M,70-74,1:01.26,Mike R Freshley,,2011 YMCA Masters National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,M,70-74,2:20.06,Mike R Freshley,,2011 YMCA Masters National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,M,70-74,2:32.50,Frank Williams,,SW Zone/ Arizona State Championship,2011,2
+SDSM,500 Y Freestyle,SCY,M,70-74,6:34.36,Mike R Freshley,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,500 Y Freestyle,SCY,M,70-74,6:38.58,Frank Williams,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,1000 Y Freestyle,SCY,M,70-74,13:48.55,Frank Williams,,SW Zone/ Arizona State Championship,2011,1
+SDSM,1000 Y Freestyle,SCY,M,70-74,13:59.36,Mike R Freshley,,SW Zone/ Arizona State Championship,2011,2
+SDSM,1650 Y Freestyle,SCY,M,70-74,22:49.57,Frank Williams,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,M,70-74,33.29,Mike R Freshley,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,70-74,1:12.51,Mike R Freshley,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,200 Y Backstroke,SCY,M,70-74,2:44.40,Mike R Freshley,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Breaststroke,SCY,M,70-74,35.05,Mike R Freshley,,2011 YMCA Masters National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,M,70-74,48.62,Peter E Riddle,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Breaststroke,SCY,M,70-74,1:16.94,Mike R Freshley,,2011 YMCA Masters National Championship,2011,1
+SDSM,200 Y Breaststroke,SCY,M,70-74,2:46.46,Mike R Freshley,,2011 YMCA Masters National Championship,2011,1
+SDSM,50 Y Butterfly,SCY,M,70-74,29.42,Mike R Freshley,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,70-74,31.84,Frank Williams,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,100 Y Butterfly,SCY,M,70-74,1:16.17,Frank Williams,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Butterfly,SCY,M,70-74,2:59.92,Frank Williams,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Butterfly,SCY,M,70-74,3:00.74,Mike R Freshley,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,M,70-74,1:08.76,Mike R Freshley,,2011 YMCA Masters National Championship,2011,1
+SDSM,200 Y Individual Medley,SCY,M,70-74,2:32.81,Mike R Freshley,,Mission Viejo Masters SCY Swim Meet,2011,1
+SDSM,400 Y Individual Medley,SCY,M,70-74,5:47.35,Mike R Freshley,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,75-79,29.48,Bob Best,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,M,75-79,33.49,Frank Tanner,,California Bay Area Senior Games,2011,2
+SDSM,50 Y Freestyle,SCY,M,75-79,35.90,Bill A Coles,,Palm Desert Sr. Games/International Sports Festival,2011,3
+SDSM,50 Y Freestyle,SCY,M,75-79,36.19,Eric Hubach,,Palm Desert Sr. Games/International Sports Festival,2011,4
+SDSM,50 Y Freestyle,SCY,M,75-79,44.01,Tom Mitchell,,SPMA SCY Regional Championship Meet,2011,5
+SDSM,50 Y Freestyle,SCY,M,75-79,49.34,Mark W Croshier,,Palm Desert Sr. Games/International Sports Festival,2011,6
+SDSM,100 Y Freestyle,SCY,M,75-79,1:08.30,Bob Best,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,100 Y Freestyle,SCY,M,75-79,1:15.02,Frank Tanner,,California Bay Area Senior Games,2011,2
+SDSM,100 Y Freestyle,SCY,M,75-79,1:25.61,Bill A Coles,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,100 Y Freestyle,SCY,M,75-79,1:41.83,Tom Mitchell,,SPMA SCY Regional Championship Meet,2011,4
+SDSM,100 Y Freestyle,SCY,M,75-79,1:47.79,Mark W Croshier,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,5
+SDSM,200 Y Freestyle,SCY,M,75-79,2:45.83,Bob Best,,Rose Bowl Masters SCY Distance Meet,2011,1
+SDSM,200 Y Freestyle,SCY,M,75-79,2:54.03,Frank Tanner,,California Bay Area Senior Games,2011,2
+SDSM,200 Y Freestyle,SCY,M,75-79,3:48.45,Tom Mitchell,,SPMA SCY Regional Championship Meet,2011,3
+SDSM,500 Y Freestyle,SCY,M,75-79,8:02.94,Bob Best,,Rose Bowl Masters SCY Distance Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,75-79,42.28,Bob Best,,Caltech Pentathlon SCY Swim Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,75-79,42.44,Eric Hubach,,Palm Desert Sr. Games/International Sports Festival,2011,2
+SDSM,50 Y Backstroke,SCY,M,75-79,44.16,Bill A Coles,,Palm Desert Sr. Games/International Sports Festival,2011,3
+SDSM,100 Y Backstroke,SCY,M,75-79,1:32.76,Eric Hubach,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,75-79,1:37.63,Bill A Coles,,Palm Desert Sr. Games/International Sports Festival,2011,2
+SDSM,200 Y Backstroke,SCY,M,75-79,3:18.68,Eric Hubach,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,200 Y Backstroke,SCY,M,75-79,3:30.72,Bill A Coles,,Palm Desert Sr. Games/International Sports Festival,2011,2
+SDSM,50 Y Breaststroke,SCY,M,75-79,38.29,Bob Best,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,M,75-79,46.37,Eric Hubach,,Palm Desert Sr. Games/International Sports Festival,2011,2
+SDSM,50 Y Breaststroke,SCY,M,75-79,48.78,Bill A Coles,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,50 Y Breaststroke,SCY,M,75-79,50.42,Tom Mitchell,,SPMA SCY Regional Championship Meet,2011,4
+SDSM,50 Y Breaststroke,SCY,M,75-79,1:11.38,Mark W Croshier,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,5
+SDSM,100 Y Breaststroke,SCY,M,75-79,1:30.52,Bob Best,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Breaststroke,SCY,M,75-79,1:41.87,Eric Hubach,,Palm Desert Sr. Games/International Sports Festival,2011,2
+SDSM,100 Y Breaststroke,SCY,M,75-79,1:54.78,Tom Mitchell,,SPMA SCY Regional Championship Meet,2011,3
+SDSM,200 Y Breaststroke,SCY,M,75-79,3:25.17,Bob Best,,Santa Clarita Masters SCY Swim Meet,2011,1
+SDSM,200 Y Breaststroke,SCY,M,75-79,3:46.37,Eric Hubach,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,M,75-79,4:05.84,Tom Mitchell,,SPMA SCY Regional Championship Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,75-79,36.10,Bob Best,,Caltech Pentathlon SCY Swim Meet,2011,1
+SDSM,50 Y Butterfly,SCY,M,75-79,49.57,Bill A Coles,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,2
+SDSM,100 Y Butterfly,SCY,M,75-79,1:33.09,Bob Best,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,100 Y Individual Medley,SCY,M,75-79,1:20.16,Bob Best,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,75-79,1:37.03,Eric Hubach,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,M,75-79,1:42.23,Bill A Coles,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,200 Y Individual Medley,SCY,M,75-79,3:04.98,Bob Best,,UC-Irvine Masters SCY Swim Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,80-84,34.87,Donald J Baker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,M,80-84,37.88,Ken Kimball,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,50 Y Freestyle,SCY,M,80-84,38.80,Donald J Hubbard,,SPMA SCY Regional Championship Meet,2011,3
+SDSM,50 Y Freestyle,SCY,M,80-84,40.92,Jordan B Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,4
+SDSM,50 Y Freestyle,SCY,M,80-84,43.71,Frederick J Hoppe,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,5
+SDSM,100 Y Freestyle,SCY,M,80-84,1:23.86,Ken Kimball,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Freestyle,SCY,M,80-84,1:42.23,Jordan B Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,2
+SDSM,200 Y Freestyle,SCY,M,80-84,3:12.88,Donald J Baker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Freestyle,SCY,M,80-84,3:37.13,Donald J Hubbard,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,200 Y Freestyle,SCY,M,80-84,3:43.76,Jordan B Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,3
+SDSM,500 Y Freestyle,SCY,M,80-84,9:23.55,Donald J Baker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,500 Y Freestyle,SCY,M,80-84,9:35.74,Donald J Hubbard,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,1000 Y Freestyle,SCY,M,80-84,19:33.88,Donald J Baker,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,1650 Y Freestyle,SCY,M,80-84,35:09.76,Jordan B Wolle,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,M,80-84,47.51,Ken Kimball,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,M,80-84,47.65,Donald J Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,50 Y Backstroke,SCY,M,80-84,53.40,Frederick J Hoppe,,2011 SCY Pancake Pentathlon &amp; Swim Meet,2011,3
+SDSM,100 Y Backstroke,SCY,M,80-84,1:44.36,Ken Kimball,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Backstroke,SCY,M,80-84,1:50.39,Donald J Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,200 Y Backstroke,SCY,M,80-84,3:44.86,Ken Kimball,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,M,80-84,44.28,Frederick J Hoppe,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Breaststroke,SCY,M,80-84,55.57,Donald J Hubbard,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,100 Y Breaststroke,SCY,M,80-84,1:41.82,Frederick J Hoppe,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Breaststroke,SCY,M,80-84,2:17.87,Donald J Hubbard,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,M,80-84,3:50.48,Frederick J Hoppe,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Breaststroke,SCY,M,80-84,4:07.41,Donald J Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,200 Y Breaststroke,SCY,M,80-84,5:05.22,Donald J Hubbard,,SPMA SCY Regional Championship Meet,2011,3
+SDSM,50 Y Butterfly,SCY,M,80-84,43.36,Frederick J Hoppe,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Butterfly,SCY,M,80-84,50.50,Donald J Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,100 Y Individual Medley,SCY,M,80-84,1:37.18,Frederick J Hoppe,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,80-84,1:40.24,Donald J Baker,,SPMA SCY Regional Championship Meet,2011,2
+SDSM,200 Y Individual Medley,SCY,M,80-84,3:55.68,Donald J Baker,,SPMA SCY Regional Championship Meet,2011,1
+SDSM,50 Y Freestyle,SCY,M,85-89,39.28,Dale A Webster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Freestyle,SCY,M,85-89,1:26.20,Dale A Webster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Backstroke,SCY,M,85-89,44.17,Dale A Webster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Backstroke,SCY,M,85-89,1:43.82,Dale A Webster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,200 Y Backstroke,SCY,M,85-89,3:44.05,Dale A Webster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,100 Y Individual Medley,SCY,M,85-89,1:49.73,Dale A Webster,,2011 U.S. Masters Swimming Spring National Championship,2011,1
+SDSM,50 Y Freestyle,SCY,M,90-94,1:00.05,Tom Haver,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Freestyle,SCY,M,90-94,2:10.84,Tom Haver,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,50 Y Backstroke,SCY,M,90-94,58.59,Tom Haver,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,100 Y Backstroke,SCY,M,90-94,2:11.23,Tom Haver,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1
+SDSM,200 Y Backstroke,SCY,M,90-94,4:58.13,Tom Haver,,San Diego Senior Games Bill Earley Memorial SCY Meet,2011,1

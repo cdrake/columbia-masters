@@ -1,0 +1,23 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CHAR,50 M Backstroke,SCM,W,35-39,49.18,Tara D'Agaro,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,100 M Backstroke,SCM,W,35-39,1:42.89,Tara D'Agaro,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,200 M Breaststroke,SCM,W,35-39,3:52.73,Tara D'Agaro,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,50 M Freestyle,SCM,W,40-44,30.91,Jennifer R Petyk,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,100 M Freestyle,SCM,W,40-44,1:08.20,Jennifer R Petyk,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,200 M Freestyle,SCM,W,40-44,2:34.88,Jennifer R Petyk,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,50 M Butterfly,SCM,W,40-44,37.13,Jennifer R Petyk,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,50 M Freestyle,SCM,W,50-54,36.87,Judy F Caves,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,100 M Freestyle,SCM,W,50-54,1:22.36,Judy F Caves,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CHAR,800 M Freestyle,SCM,W,50-54,12:49.86,Judy F Caves,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+TPIT,50 M Breaststroke,SCM,M,55-59,38.06,Gary A Abbate,,Huntsman Senior Games,2011,1
+TPIT,100 M Breaststroke,SCM,M,55-59,1:23.61,Gary A Abbate,,Huntsman Senior Games,2011,1
+TPIT,200 M Breaststroke,SCM,M,55-59,3:06.85,Gary A Abbate,,Huntsman Senior Games,2011,1
+TPIT,100 M Individual Medley,SCM,M,55-59,1:29.58,Gary A Abbate,,Huntsman Senior Games,2011,1
+TPIT,200 M Individual Medley,SCM,M,55-59,3:16.16,Gary A Abbate,,Huntsman Senior Games,2011,1
+TPIT,400 M Individual Medley,SCM,M,55-59,6:42.87,Gary A Abbate,,Huntsman Senior Games,2011,1
+UNAT,50 M Freestyle,SCM,W,30-34,35.66,Jennifer Foley,,Canadian Masters Swimming Championships 2011,2011,1
+UNAT,100 M Freestyle,SCM,W,30-34,1:23.18,Jennifer Foley,,Canadian Masters Swimming Championships 2011,2011,1
+UNAT,200 M Freestyle,SCM,W,30-34,3:10.85,Jennifer Foley,,Canadian Masters Swimming Championships 2011,2011,1
+UNAT,50 M Freestyle,SCM,M,35-39,29.81,Ken McFerron,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,35-39,1:05.61,Ken McFerron,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+UNAT,200 M Freestyle,SCM,M,35-39,2:28.06,Ken McFerron,,2011 O*H*I*O Masters SCM Swim Meet,2011,1

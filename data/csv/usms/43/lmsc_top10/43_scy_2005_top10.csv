@@ -1,0 +1,630 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AAAA,50 Y Freestyle,SCY,W,18-24,25.72,Melanie B Brewer,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Freestyle,SCY,W,18-24,38.41,Kristine C De La Cruz,,WAAC SCY Meet,2005,2
+AAAA,100 Y Freestyle,SCY,W,18-24,57.24,Melanie B Brewer,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Freestyle,SCY,W,18-24,1:27.03,Kristine C De La Cruz,,WAAC SCY Meet,2005,2
+HOTS,200 Y Freestyle,SCY,W,18-24,3:14.62,Kristine C De La Cruz,,WAAC SCY Meet,2005,1
+TXLA,500 Y Freestyle,SCY,W,18-24,6:03.84,Carla L Sterner,,Dallas Aquatic Masters Spring Meet,2005,1
+HOTS,500 Y Freestyle,SCY,W,18-24,8:20.70,Kristine C De La Cruz,,WAAC SCY Meet,2005,2
+AAAA,50 Y Butterfly,SCY,W,18-24,29.33,Melanie B Brewer,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Individual Medley,SCY,W,18-24,1:05.63,Melanie B Brewer,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,W,18-24,1:11.52,Carla L Sterner,,Dallas Aquatic Masters Spring Meet,2005,2
+TXLA,200 Y Individual Medley,SCY,W,18-24,2:36.00,Carla L Sterner,,Dallas Aquatic Masters Spring Meet,2005,1
+UNAT,50 Y Freestyle,SCY,W,25-29,26.41,Laura K Koch,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,W,25-29,29.12,Aimee E Blanchard,,South Central Zone SCY Champs,2005,2
+UNAT,100 Y Freestyle,SCY,W,25-29,57.82,Laura K Koch,,Dallas Aquatic Masters Spring Meet,2005,1
+TXLA,100 Y Freestyle,SCY,W,25-29,1:03.03,Aimee E Blanchard,,South Central Zone SCY Champs,2005,2
+UNAT,200 Y Freestyle,SCY,W,25-29,2:03.98,Laura K Koch,,South Central Zone SCY Champs,2005,1
+UNAT,500 Y Freestyle,SCY,W,25-29,5:33.94,Laura K Koch,,Dallas Aquatic Masters Spring Meet,2005,1
+TXLA,100 Y Backstroke,SCY,W,25-29,1:17.12,Aimee E Blanchard,,South Central Zone SCY Champs,2005,1
+UNAT,50 Y Breaststroke,SCY,W,25-29,32.87,Laura K Koch,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Breaststroke,SCY,W,25-29,37.01,Rhea F Montemayor,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Breaststroke,SCY,W,25-29,38.30,Aimee E Blanchard,,South Central Zone SCY Champs,2005,3
+UNAT,100 Y Breaststroke,SCY,W,25-29,1:10.02,Laura K Koch,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Breaststroke,SCY,W,25-29,1:19.05,Rhea F Montemayor,,South Central Zone SCY Champs,2005,2
+UNAT,200 Y Breaststroke,SCY,W,25-29,2:32.09,Laura K Koch,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Breaststroke,SCY,W,25-29,2:56.63,Rhea F Montemayor,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Butterfly,SCY,W,25-29,32.04,Aimee E Blanchard,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Butterfly,SCY,W,25-29,33.94,Rhea F Montemayor,,South Central Zone SCY Champs,2005,2
+UNAT,100 Y Butterfly,SCY,W,25-29,1:03.21,Laura K Koch,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Butterfly,SCY,W,25-29,1:11.75,Aimee E Blanchard,,South Central Zone SCY Champs,2005,2
+UNAT,200 Y Butterfly,SCY,W,25-29,2:22.79,Laura K Koch,,WAAC SCY Meet,2005,1
+UNAT,100 Y Individual Medley,SCY,W,25-29,1:05.76,Laura K Koch,,WAAC SCY Meet,2005,1
+TXLA,100 Y Individual Medley,SCY,W,25-29,1:12.26,Aimee E Blanchard,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Individual Medley,SCY,W,25-29,1:13.86,Rhea F Montemayor,,South Central Zone SCY Champs,2005,3
+UNAT,200 Y Individual Medley,SCY,W,25-29,2:21.54,Laura K Koch,,WAAC SCY Meet,2005,1
+TXLA,200 Y Individual Medley,SCY,W,25-29,2:45.98,Rhea F Montemayor,,South Central Zone SCY Champs,2005,2
+UNAT,400 Y Individual Medley,SCY,W,25-29,4:52.46,Laura K Koch,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,W,30-34,26.58,Ann S Brewer,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Freestyle,SCY,W,30-34,39.49,Krista L Snook,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Freestyle,SCY,W,30-34,57.00,Ann S Brewer,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Freestyle,SCY,W,30-34,1:36.61,Krista L Snook,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Freestyle,SCY,W,30-34,2:05.14,Ann S Brewer,,South Central Zone SCY Champs,2005,1
+HOTS,200 Y Freestyle,SCY,W,30-34,3:31.43,Krista L Snook,,South Central Zone SCY Champs,2005,2
+MOST,500 Y Freestyle,SCY,W,30-34,5:51.98,Ann S Brewer,,South Central Zone SCY Champs,2005,1
+MOST,500 Y Freestyle,SCY,W,30-34,6:46.18,Shelly L Campbell,,South Central Zone SCY Champs,2005,2
+MOST,500 Y Freestyle,SCY,W,30-34,8:00.95,Shirley Gonzales,,South Central Zone SCY Champs,2005,3
+MOST,1000 Y Freestyle,SCY,W,30-34,13:58.33,Shelly L Campbell,,South Central Zone SCY Champs,2005,1
+MOST,1000 Y Freestyle,SCY,W,30-34,16:42.43,Shirley Gonzales,,South Central Zone SCY Champs,2005,2
+MOST,1650 Y Freestyle,SCY,W,30-34,23:04.31,Shelly L Campbell,,South Central Zone SCY Champs,2005,1
+MOST,1650 Y Freestyle,SCY,W,30-34,28:15.18,Shirley Gonzales,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Backstroke,SCY,W,30-34,33.07,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Backstroke,SCY,W,30-34,1:11.22,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,W,30-34,36.77,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Breaststroke,SCY,W,30-34,1:18.13,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Butterfly,SCY,W,30-34,29.73,Ann S Brewer,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Butterfly,SCY,W,30-34,31.16,Shannon L Boothe,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Butterfly,SCY,W,30-34,1:08.09,Ann S Brewer,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Butterfly,SCY,W,30-34,1:12.23,Shannon L Boothe,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,W,30-34,1:09.51,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Individual Medley,SCY,W,30-34,2:28.73,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,400 Y Individual Medley,SCY,W,30-34,5:24.67,Shannon L Boothe,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,W,35-39,27.30,Tiitta K Elias,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,W,35-39,28.81,Jennifer K Walker,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Freestyle,SCY,W,35-39,34.32,Amber D Anthony,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Freestyle,SCY,W,35-39,35.38,Katherine M Seastrunk,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Freestyle,SCY,W,35-39,39.34,Melissa A Lovingood,,South Central Zone SCY Champs,2005,5
+MOST,100 Y Freestyle,SCY,W,35-39,59.26,Tiitta K Elias,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,W,35-39,1:21.53,Amber D Anthony,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Freestyle,SCY,W,35-39,1:29.75,Melissa A Lovingood,,WAAC SCY Meet,2005,3
+STAR,100 Y Freestyle,SCY,W,35-39,1:43.18,Gracen Duffield,,South Central Zone SCY Champs,2005,4
+MOST,200 Y Freestyle,SCY,W,35-39,2:09.80,Tiitta K Elias,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Freestyle,SCY,W,35-39,3:01.13,Amber D Anthony,,South Central Zone SCY Champs,2005,2
+MOST,500 Y Freestyle,SCY,W,35-39,8:17.18,Patricia S Cuero,,South Central Zone SCY Champs,2005,1
+MOST,1000 Y Freestyle,SCY,W,35-39,16:53.41,Patricia S Cuero,,South Central Zone SCY Champs,2005,1
+MOST,1650 Y Freestyle,SCY,W,35-39,27:42.72,Patricia S Cuero,,South Central Zone SCY Champs,2005,1
+MOST,1650 Y Freestyle,SCY,W,35-39,28:19.66,Amber D Anthony,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Backstroke,SCY,W,35-39,47.27,Katherine M Seastrunk,,South Central Zone SCY Champs,2005,1
+STAR,50 Y Backstroke,SCY,W,35-39,50.10,Gracen Duffield,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Backstroke,SCY,W,35-39,1:01.92,Melissa A Lovingood,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Breaststroke,SCY,W,35-39,45.32,Amber D Anthony,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,W,35-39,45.42,Katherine M Seastrunk,,South Central Zone SCY Champs,2005,2
+STAR,50 Y Breaststroke,SCY,W,35-39,54.15,Gracen Duffield,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Breaststroke,SCY,W,35-39,54.86,Melissa A Lovingood,,WAAC SCY Meet,2005,4
+MOST,100 Y Breaststroke,SCY,W,35-39,1:37.21,Katherine M Seastrunk,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Breaststroke,SCY,W,35-39,1:41.92,Amber D Anthony,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Breaststroke,SCY,W,35-39,1:56.75,Melissa A Lovingood,,South Central Zone SCY Champs,2005,3
+TXLA,50 Y Butterfly,SCY,W,35-39,31.33,Jennifer K Walker,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Butterfly,SCY,W,35-39,43.20,Katherine M Seastrunk,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Butterfly,SCY,W,35-39,47.45,Melissa A Lovingood,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Butterfly,SCY,W,35-39,1:07.71,Tiitta K Elias,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Butterfly,SCY,W,35-39,2:33.88,Tiitta K Elias,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Individual Medley,SCY,W,35-39,1:32.08,Katherine M Seastrunk,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Individual Medley,SCY,W,35-39,1:32.74,Amber D Anthony,,South Central Zone SCY Champs,2005,2
+STAR,100 Y Individual Medley,SCY,W,35-39,1:44.91,Gracen Duffield,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Individual Medley,SCY,W,35-39,1:47.73,Melissa A Lovingood,,South Central Zone SCY Champs,2005,4
+HOTS,50 Y Freestyle,SCY,W,40-44,27.07,Lisa J Allen,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,W,40-44,29.12,Julie O Eakle,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Freestyle,SCY,W,40-44,29.56,Suzanne Rivas,,South Central Zone SCY Champs,2005,3
+HOTS,50 Y Freestyle,SCY,W,40-44,30.28,Vera K Smith,,WAAC SCY Meet,2005,4
+MOST,50 Y Freestyle,SCY,W,40-44,40.73,Paula R Newman,,South Central Zone SCY Champs,2005,5
+UNAT,50 Y Freestyle,SCY,W,40-44,41.25,Anne Stevens,,South Central Zone SCY Champs,2005,6
+HOTS,100 Y Freestyle,SCY,W,40-44,59.45,Karen A Quinlan,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Freestyle,SCY,W,40-44,1:01.42,Lisa J Allen,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Freestyle,SCY,W,40-44,1:04.12,Suzanne Rivas,,South Central Zone SCY Champs,2005,3
+HOTS,100 Y Freestyle,SCY,W,40-44,1:05.67,Vera K Smith,,WAAC SCY Meet,2005,4
+MOST,100 Y Freestyle,SCY,W,40-44,1:20.08,Susan L Gershenhorn,,South Central Zone SCY Champs,2005,5
+MOST,100 Y Freestyle,SCY,W,40-44,1:32.11,Paula R Newman,,South Central Zone SCY Champs,2005,6
+UNAT,100 Y Freestyle,SCY,W,40-44,1:38.66,Anne Stevens,,South Central Zone SCY Champs,2005,7
+HOTS,200 Y Freestyle,SCY,W,40-44,2:17.54,Karen A Quinlan,,South Central Zone SCY Champs,2005,1
+HOTS,200 Y Freestyle,SCY,W,40-44,2:25.82,Vera K Smith,,South Central Zone SCY Champs,2005,2
+AAAA,200 Y Freestyle,SCY,W,40-44,3:13.40,Kelly S Brennan,,WAAC SCY Meet,2005,3
+MOST,200 Y Freestyle,SCY,W,40-44,3:27.24,Paula R Newman,,South Central Zone SCY Champs,2005,4
+MOST,500 Y Freestyle,SCY,W,40-44,6:09.75,Suzanne Rivas,,South Central Zone SCY Champs,2005,1
+MOST,500 Y Freestyle,SCY,W,40-44,7:12.47,Rosana Andrade,,South Central Zone SCY Champs,2005,2
+MOST,500 Y Freestyle,SCY,W,40-44,8:20.40,Susan L Gershenhorn,,South Central Zone SCY Champs,2005,3
+AAAA,500 Y Freestyle,SCY,W,40-44,8:40.15,Kelly S Brennan,,WAAC SCY Meet,2005,4
+MOST,500 Y Freestyle,SCY,W,40-44,9:37.58,Paula R Newman,,South Central Zone SCY Champs,2005,5
+AAAA,1000 Y Freestyle,SCY,W,40-44,18:03.58,Kelly S Brennan,,WAAC SCY Meet,2005,1
+MOST,1650 Y Freestyle,SCY,W,40-44,21:02.46,Suzanne Rivas,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Backstroke,SCY,W,40-44,33.31,Lisa J Allen,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Backstroke,SCY,W,40-44,33.42,Vera K Smith,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Backstroke,SCY,W,40-44,34.56,Julie O Eakle,,South Central Zone SCY Champs,2005,3
+UNAT,50 Y Backstroke,SCY,W,40-44,52.07,Anne Stevens,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Backstroke,SCY,W,40-44,52.95,Paula R Newman,,South Central Zone SCY Champs,2005,5
+HOTS,100 Y Backstroke,SCY,W,40-44,1:12.70,Lisa J Allen,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Backstroke,SCY,W,40-44,1:13.35,Vera K Smith,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Backstroke,SCY,W,40-44,1:17.83,Julie O Eakle,,South Central Zone SCY Champs,2005,3
+HOTS,200 Y Backstroke,SCY,W,40-44,2:44.42,Vera K Smith,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Backstroke,SCY,W,40-44,2:47.84,Julie O Eakle,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Backstroke,SCY,W,40-44,2:58.96,Rosana Andrade,,South Central Zone SCY Champs,2005,3
+UNAT,50 Y Breaststroke,SCY,W,40-44,1:00.89,Anne Stevens,,WAAC SCY Meet,2005,1
+MOST,100 Y Breaststroke,SCY,W,40-44,1:23.60,Julie O Eakle,,South Central Zone SCY Champs,2005,1
+UNAT,100 Y Breaststroke,SCY,W,40-44,2:25.66,Anne Stevens,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Breaststroke,SCY,W,40-44,3:08.49,Julie O Eakle,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,W,40-44,3:23.63,Rosana Andrade,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Butterfly,SCY,W,40-44,30.67,Karen A Quinlan,,2005 USMS Short Course Nationals,2005,1
+HOTS,50 Y Butterfly,SCY,W,40-44,30.70,Lisa J Allen,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Butterfly,SCY,W,40-44,32.09,Vera K Smith,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Butterfly,SCY,W,40-44,32.51,Suzanne Rivas,,South Central Zone SCY Champs,2005,4
+AAAA,50 Y Butterfly,SCY,W,40-44,44.65,Kelly S Brennan,,WAAC SCY Meet,2005,5
+HOTS,100 Y Butterfly,SCY,W,40-44,1:07.36,Karen A Quinlan,,South Central Zone SCY Champs,2005,1
+HOTS,200 Y Butterfly,SCY,W,40-44,2:32.60,Karen A Quinlan,,2005 USMS Short Course Nationals,2005,1
+MOST,200 Y Butterfly,SCY,W,40-44,3:13.41,Rosana Andrade,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Individual Medley,SCY,W,40-44,1:09.36,Karen A Quinlan,,2005 USMS Short Course Nationals,2005,1
+HOTS,100 Y Individual Medley,SCY,W,40-44,1:12.83,Lisa J Allen,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Individual Medley,SCY,W,40-44,1:13.37,Vera K Smith,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Individual Medley,SCY,W,40-44,1:15.81,Suzanne Rivas,,South Central Zone SCY Champs,2005,4
+MOST,100 Y Individual Medley,SCY,W,40-44,1:16.47,Julie O Eakle,,South Central Zone SCY Champs,2005,5
+HOTS,200 Y Individual Medley,SCY,W,40-44,2:31.41,Karen A Quinlan,,2005 USMS Short Course Nationals,2005,1
+HOTS,200 Y Individual Medley,SCY,W,40-44,2:39.38,Vera K Smith,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Individual Medley,SCY,W,40-44,2:42.74,Suzanne Rivas,,South Central Zone SCY Champs,2005,3
+MOST,200 Y Individual Medley,SCY,W,40-44,2:49.19,Julie O Eakle,,South Central Zone SCY Champs,2005,4
+MOST,400 Y Individual Medley,SCY,W,40-44,6:19.65,Rosana Andrade,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,W,45-49,26.70,Susan R Ingraham,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,W,45-49,27.87,Sally K Maddox,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Freestyle,SCY,W,45-49,30.05,Kim Yarbrough,,Dallas Aquatic Masters Spring Meet,2005,3
+MOST,50 Y Freestyle,SCY,W,45-49,31.67,Pam R Velasco,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Freestyle,SCY,W,45-49,37.19,Chrystie K Hearron,,South Central Zone SCY Champs,2005,5
+MOST,50 Y Freestyle,SCY,W,45-49,45.35,Marie E De Gennaro,,South Central Zone SCY Champs,2005,6
+MOST,100 Y Freestyle,SCY,W,45-49,58.56,Susan R Ingraham,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Freestyle,SCY,W,45-49,1:09.00,Kim Tarnower,,WAAC SCY Meet,2005,2
+TXLA,200 Y Freestyle,SCY,W,45-49,2:10.33,Sally K Maddox,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Freestyle,SCY,W,45-49,2:45.99,Pam R Velasco,,South Central Zone SCY Champs,2005,2
+TXLA,500 Y Freestyle,SCY,W,45-49,5:47.63,Sally K Maddox,,South Central Zone SCY Champs,2005,1
+TXLA,1650 Y Freestyle,SCY,W,45-49,20:13.18,Sally K Dykstra,,WAAC SCY Meet,2005,1
+MOST,1650 Y Freestyle,SCY,W,45-49,21:37.95,Susan R Ingraham,,South Central Zone SCY Champs,2005,2
+UNAT,1650 Y Freestyle,SCY,W,45-49,28:10.50,Jeanne S McAllister,,WAAC SCY Meet,2005,3
+MOST,50 Y Backstroke,SCY,W,45-49,57.39,Marie E De Gennaro,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Backstroke,SCY,W,45-49,2:40.37,Susan R Ingraham,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Breaststroke,SCY,W,45-49,37.51,Kim Tarnower,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,W,45-49,45.55,Chrystie K Hearron,,2005 USMS Short Course Nationals,2005,2
+TXLA,100 Y Breaststroke,SCY,W,45-49,1:25.87,Kim Yarbrough,,Dallas Aquatic Masters Spring Meet,2005,1
+MOST,100 Y Breaststroke,SCY,W,45-49,1:40.28,Pam R Velasco,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Breaststroke,SCY,W,45-49,1:43.40,Chrystie K Hearron,,2005 USMS Short Course Nationals,2005,3
+TXLA,200 Y Breaststroke,SCY,W,45-49,3:14.03,Kim Tarnower,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,W,45-49,3:51.41,Chrystie K Hearron,,2005 USMS Short Course Nationals,2005,2
+MOST,50 Y Butterfly,SCY,W,45-49,30.04,Susan R Ingraham,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Butterfly,SCY,W,45-49,36.14,Kim Tarnower,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Butterfly,SCY,W,45-49,1:06.67,Susan R Ingraham,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Butterfly,SCY,W,45-49,2:37.33,Susan R Ingraham,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,W,45-49,1:11.04,Sally K Maddox,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,W,45-49,1:18.39,Kim Tarnower,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,W,45-49,1:41.97,Chrystie K Hearron,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Freestyle,SCY,W,50-54,30.49,Jan A Miller,,South Central Zone SCY Champs,2005,1
+STAR,50 Y Freestyle,SCY,W,50-54,30.67,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Freestyle,SCY,W,50-54,31.68,Chris Mayhew,,2005 USMS Short Course Nationals,2005,3
+MOST,100 Y Freestyle,SCY,W,50-54,1:13.41,Chris Mayhew,,2005 USMS Short Course Nationals,2005,1
+MOST,200 Y Freestyle,SCY,W,50-54,3:00.97,Chris Mayhew,,WAAC SCY Meet,2005,1
+MOST,500 Y Freestyle,SCY,W,50-54,6:36.36,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+STAR,500 Y Freestyle,SCY,W,50-54,8:40.80,Linda S Callaway,,Auburn Masters Invitational,2005,2
+MOST,1000 Y Freestyle,SCY,W,50-54,13:30.28,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+MOST,1650 Y Freestyle,SCY,W,50-54,22:31.42,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+STAR,1650 Y Freestyle,SCY,W,50-54,27:51.12,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+STAR,1650 Y Freestyle,SCY,W,50-54,28:54.94,Linda S Callaway,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Backstroke,SCY,W,50-54,34.78,Jan A Miller,,South Central Zone SCY Champs,2005,1
+STAR,50 Y Backstroke,SCY,W,50-54,38.68,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+STAR,50 Y Backstroke,SCY,W,50-54,46.79,Linda S Callaway,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Backstroke,SCY,W,50-54,1:14.63,Jan A Miller,,South Central Zone SCY Champs,2005,1
+STAR,100 Y Backstroke,SCY,W,50-54,1:25.58,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+STAR,100 Y Backstroke,SCY,W,50-54,1:39.97,Linda S Callaway,,South Central Zone SCY Champs,2005,3
+MOST,200 Y Backstroke,SCY,W,50-54,2:55.28,Jan A Miller,,South Central Zone SCY Champs,2005,1
+STAR,200 Y Backstroke,SCY,W,50-54,3:39.57,Linda S Callaway,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Breaststroke,SCY,W,50-54,41.54,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+STAR,50 Y Breaststroke,SCY,W,50-54,42.88,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+STAR,100 Y Breaststroke,SCY,W,50-54,1:34.13,Colleen J Holloway,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,W,50-54,3:14.41,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+STAR,200 Y Breaststroke,SCY,W,50-54,3:31.64,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Butterfly,SCY,W,50-54,33.36,Jan A Miller,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Butterfly,SCY,W,50-54,34.01,Ronda S Nisman,,South Central Zone SCY Champs,2005,2
+STAR,50 Y Butterfly,SCY,W,50-54,37.25,Colleen J Holloway,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Butterfly,SCY,W,50-54,37.50,Chris Mayhew,,2005 USMS Short Course Nationals,2005,4
+STAR,50 Y Butterfly,SCY,W,50-54,46.67,Linda S Callaway,,South Central Zone SCY Champs,2005,5
+MOST,100 Y Butterfly,SCY,W,50-54,1:26.39,Jan A Miller,,South Central Zone SCY Champs,2005,1
+STAR,100 Y Butterfly,SCY,W,50-54,1:47.12,Linda S Callaway,,South Central Zone SCY Champs,2005,2
+STAR,200 Y Butterfly,SCY,W,50-54,3:53.43,Linda S Callaway,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Individual Medley,SCY,W,50-54,1:18.95,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+STAR,100 Y Individual Medley,SCY,W,50-54,1:21.47,Colleen J Holloway,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,W,50-54,1:32.35,Chris Mayhew,,South Central Zone SCY Champs,2005,3
+STAR,100 Y Individual Medley,SCY,W,50-54,1:39.38,Linda S Callaway,,South Central Zone SCY Champs,2005,4
+MOST,200 Y Individual Medley,SCY,W,50-54,2:50.81,Ronda S Nisman,,South Central Zone SCY Champs,2005,1
+STAR,200 Y Individual Medley,SCY,W,50-54,3:37.88,Linda S Callaway,,South Central Zone SCY Champs,2005,2
+STAR,400 Y Individual Medley,SCY,W,50-54,7:39.69,Linda S Callaway,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,W,60-64,37.60,Betty G Kight,,2005 USMS Short Course Nationals,2005,1
+HOTS,50 Y Freestyle,SCY,W,60-64,46.57,Susan K Gelber,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Freestyle,SCY,W,60-64,49.42,Lillie Thompson,,South Central Zone SCY Champs,2005,3
+AAAA,50 Y Freestyle,SCY,W,60-64,51.86,Madonna M Foley,,South Central Zone SCY Champs,2005,4
+HOTS,100 Y Freestyle,SCY,W,60-64,1:46.47,Susan K Gelber,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Freestyle,SCY,W,60-64,1:54.02,Lillie Thompson,,WAAC SCY Meet,2005,2
+AAAA,100 Y Freestyle,SCY,W,60-64,1:56.64,Madonna M Foley,,WAAC SCY Meet,2005,3
+HOTS,200 Y Freestyle,SCY,W,60-64,4:06.59,Lillie Thompson,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Backstroke,SCY,W,60-64,46.00,Betty G Kight,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Backstroke,SCY,W,60-64,59.58,Lillie Thompson,,South Central Zone SCY Champs,2005,2
+AAAA,50 Y Backstroke,SCY,W,60-64,1:03.38,Madonna M Foley,,South Central Zone SCY Champs,2005,3
+HOTS,50 Y Backstroke,SCY,W,60-64,1:12.74,Susan K Gelber,,South Central Zone SCY Champs,2005,4
+HOTS,100 Y Backstroke,SCY,W,60-64,2:19.41,Lillie Thompson,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Backstroke,SCY,W,60-64,2:36.16,Susan K Gelber,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Breaststroke,SCY,W,60-64,44.88,Betty G Kight,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Breaststroke,SCY,W,60-64,1:04.02,Lillie Thompson,,South Central Zone SCY Champs,2005,2
+AAAA,50 Y Breaststroke,SCY,W,60-64,1:21.72,Madonna M Foley,,WAAC SCY Meet,2005,3
+MOST,100 Y Breaststroke,SCY,W,60-64,1:41.56,Betty G Kight,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,W,60-64,3:55.63,Betty G Kight,,2005 USMS Short Course Nationals,2005,1
+MOST,50 Y Butterfly,SCY,W,60-64,47.07,Betty G Kight,,2005 USMS Short Course Nationals,2005,1
+HOTS,50 Y Butterfly,SCY,W,60-64,1:03.03,Lillie Thompson,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,W,60-64,1:38.48,Betty G Kight,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Individual Medley,SCY,W,60-64,2:10.04,Lillie Thompson,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Individual Medley,SCY,W,60-64,4:09.10,Betty G Kight,,South Central Zone SCY Champs,2005,1
+UNAT,50 Y Freestyle,SCY,W,75-79,1:05.86,Sara M Sievert,,WAAC SCY Meet,2005,1
+UNAT,50 Y Backstroke,SCY,W,75-79,1:21.67,Sara M Sievert,,2005 USMS Short Course Nationals,2005,1
+UNAT,50 Y Breaststroke,SCY,W,75-79,1:46.85,Sara M Sievert,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,M,18-24,22.85,Parker L Ramsdell,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,M,18-24,26.28,Lee Wilson,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Freestyle,SCY,M,18-24,52.09,Parker L Ramsdell,,WAAC SCY Meet,2005,1
+TXLA,100 Y Freestyle,SCY,M,18-24,1:01.28,Lee Wilson,,South Central Zone SCY Champs,2005,2
+UNAT,200 Y Freestyle,SCY,M,18-24,1:53.07,Tait C Ecklund,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Backstroke,SCY,M,18-24,32.38,Lee Wilson,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Backstroke,SCY,M,18-24,56.96,Parker L Ramsdell,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Backstroke,SCY,M,18-24,1:08.32,Lee Wilson,,South Central Zone SCY Champs,2005,2
+UNAT,50 Y Breaststroke,SCY,M,18-24,29.43,Tait C Ecklund,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Breaststroke,SCY,M,18-24,1:14.54,Lee Wilson,,South Central Zone SCY Champs,2005,1
+UNAT,100 Y Butterfly,SCY,M,18-24,57.10,Tait C Ecklund,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Butterfly,SCY,M,18-24,59.84,Parker L Ramsdell,,WAAC SCY Meet,2005,2
+UNAT,100 Y Individual Medley,SCY,M,18-24,56.86,Tait C Ecklund,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,M,18-24,1:00.36,Parker L Ramsdell,,WAAC SCY Meet,2005,2
+TXLA,100 Y Individual Medley,SCY,M,18-24,1:07.89,Lee Wilson,,South Central Zone SCY Champs,2005,3
+UNAT,200 Y Individual Medley,SCY,M,18-24,2:02.74,Tait C Ecklund,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Individual Medley,SCY,M,18-24,2:14.85,Parker L Ramsdell,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Freestyle,SCY,M,25-29,21.64,Ryan Kafer,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,M,25-29,23.49,Robert W Hedegore,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Freestyle,SCY,M,25-29,23.87,Ethan Cohen,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Freestyle,SCY,M,25-29,26.96,Sergei Chaburkin,,South Central Zone SCY Champs,2005,4
+TXLA,100 Y Freestyle,SCY,M,25-29,52.42,Ethan Cohen,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Freestyle,SCY,M,25-29,53.00,Robert W Hedegore,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Freestyle,SCY,M,25-29,54.46,Brian C Nahas,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Freestyle,SCY,M,25-29,1:04.29,Sergei Chaburkin,,South Central Zone SCY Champs,2005,4
+TXLA,200 Y Freestyle,SCY,M,25-29,1:57.52,Ethan Cohen,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Freestyle,SCY,M,25-29,2:33.55,Sergei Chaburkin,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Backstroke,SCY,M,25-29,25.38,Ryan Kafer,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Breaststroke,SCY,M,25-29,29.93,Robert W Hedegore,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,M,25-29,34.52,Sergei Chaburkin,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Breaststroke,SCY,M,25-29,1:05.43,Robert W Hedegore,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Breaststroke,SCY,M,25-29,1:19.41,Sergei Chaburkin,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Breaststroke,SCY,M,25-29,3:01.35,Sergei Chaburkin,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Butterfly,SCY,M,25-29,23.82,Ryan Kafer,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Butterfly,SCY,M,25-29,25.61,Robert W Hedegore,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Butterfly,SCY,M,25-29,26.81,Corbett J Klempay,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Butterfly,SCY,M,25-29,31.41,Sergei Chaburkin,,South Central Zone SCY Champs,2005,4
+TXLA,100 Y Butterfly,SCY,M,25-29,1:00.60,Corbett J Klempay,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Butterfly,SCY,M,25-29,1:04.45,Brian C Nahas,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Individual Medley,SCY,M,25-29,54.57,Ryan Kafer,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,M,25-29,59.43,Robert W Hedegore,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Individual Medley,SCY,M,25-29,1:04.99,Corbett J Klempay,,South Central Zone SCY Champs,2005,3
+AAAA,50 Y Freestyle,SCY,M,30-34,24.25,Alonso O Blanco,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,M,30-34,24.53,Michael J Guirl,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Freestyle,SCY,M,30-34,30.01,Kevin D Psonak,,South Central Zone SCY Champs,2005,3
+AAAA,100 Y Freestyle,SCY,M,30-34,53.11,Matt Hooper,,WAAC SCY Meet,2005,1
+MOST,100 Y Freestyle,SCY,M,30-34,56.04,Michael J Guirl,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Freestyle,SCY,M,30-34,1:09.52,Kevin D Psonak,,South Central Zone SCY Champs,2005,3
+MOST,200 Y Freestyle,SCY,M,30-34,1:42.07,Josh C Davis,,South Central Zone SCY Champs,2005,1
+AAAA,500 Y Freestyle,SCY,M,30-34,5:01.80,Matt Hooper,,WAAC SCY Meet,2005,1
+AAAA,500 Y Freestyle,SCY,M,30-34,5:36.48,Alonso O Blanco,,WAAC SCY Meet,2005,2
+AAAA,1000 Y Freestyle,SCY,M,30-34,12:11.50,Alonso O Blanco,,WAAC SCY Meet,2005,1
+AAAA,1650 Y Freestyle,SCY,M,30-34,17:49.95,Matt Hooper,,WAAC SCY Meet,2005,1
+AAAA,1650 Y Freestyle,SCY,M,30-34,19:47.17,Alonso O Blanco,,South Central Zone SCY Champs,2005,2
+AAAA,50 Y Backstroke,SCY,M,30-34,27.50,Chris J Waldhart,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Backstroke,SCY,M,30-34,50.95,Josh C Davis,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Backstroke,SCY,M,30-34,2:05.43,Matt Hooper,,WAAC SCY Meet,2005,1
+AAAA,200 Y Backstroke,SCY,M,30-34,2:05.77,Chris J Waldhart,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Breaststroke,SCY,M,30-34,29.32,Dale R Huggins,,Dallas Aquatic Masters Spring Meet,2005,1
+AAAA,50 Y Breaststroke,SCY,M,30-34,31.90,Alonso O Blanco,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Breaststroke,SCY,M,30-34,41.38,Kevin D Psonak,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Breaststroke,SCY,M,30-34,1:05.85,Dale R Huggins,,Dallas Aquatic Masters Spring Meet,2005,1
+AAAA,100 Y Breaststroke,SCY,M,30-34,1:10.62,Alonso O Blanco,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Breaststroke,SCY,M,30-34,1:16.22,Michael J Guirl,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Breaststroke,SCY,M,30-34,1:31.32,Kevin D Psonak,,South Central Zone SCY Champs,2005,4
+AAAA,200 Y Breaststroke,SCY,M,30-34,2:35.35,Alonso O Blanco,,WAAC SCY Meet,2005,1
+MOST,50 Y Butterfly,SCY,M,30-34,27.67,Michael J Guirl,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Butterfly,SCY,M,30-34,28.02,Alonso O Blanco,,South Central Zone SCY Champs,2005,2
+AAAA,100 Y Butterfly,SCY,M,30-34,56.26,Chris J Waldhart,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Butterfly,SCY,M,30-34,57.08,Matt Hooper,,WAAC SCY Meet,2005,2
+AAAA,200 Y Butterfly,SCY,M,30-34,2:09.55,Chris J Waldhart,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,M,30-34,1:00.06,Dale R Huggins,,Dallas Aquatic Masters Spring Meet,2005,1
+MOST,100 Y Individual Medley,SCY,M,30-34,1:06.91,Michael J Guirl,,South Central Zone SCY Champs,2005,2
+AAAA,200 Y Individual Medley,SCY,M,30-34,2:22.17,Alonso O Blanco,,South Central Zone SCY Champs,2005,1
+AAAA,400 Y Individual Medley,SCY,M,30-34,4:23.92,Matt Hooper,,WAAC SCY Meet,2005,1
+AAAA,400 Y Individual Medley,SCY,M,30-34,5:22.84,Alonso O Blanco,,WAAC SCY Meet,2005,2
+UNAT,50 Y Freestyle,SCY,M,35-39,21.85,Ross C Davis,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Freestyle,SCY,M,35-39,24.73,Frank A Ward,,South Central Zone SCY Champs,2005,2
+AAAA,50 Y Freestyle,SCY,M,35-39,24.74,Francisco J Martinez,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Freestyle,SCY,M,35-39,25.39,Jonathan P Doherty,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Freestyle,SCY,M,35-39,29.19,Randall R Carver,,South Central Zone SCY Champs,2005,5
+TXLA,50 Y Freestyle,SCY,M,35-39,30.02,Allen A Hebert,,South Central Zone SCY Champs,2005,6
+UNAT,100 Y Freestyle,SCY,M,35-39,48.51,Ross C Davis,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,M,35-39,55.90,Jonathan P Doherty,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Freestyle,SCY,M,35-39,1:09.03,Allen A Hebert,,South Central Zone SCY Champs,2005,3
+AAAA,200 Y Freestyle,SCY,M,35-39,2:12.69,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Freestyle,SCY,M,35-39,2:27.29,Randall R Carver,,South Central Zone SCY Champs,2005,2
+AAAA,500 Y Freestyle,SCY,M,35-39,6:02.74,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,1
+MOST,500 Y Freestyle,SCY,M,35-39,6:48.75,Randall R Carver,,South Central Zone SCY Champs,2005,2
+AAAA,1000 Y Freestyle,SCY,M,35-39,12:37.72,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,1
+MOST,1650 Y Freestyle,SCY,M,35-39,20:24.47,Jonathan P Doherty,,South Central Zone SCY Champs,2005,1
+MOST,1650 Y Freestyle,SCY,M,35-39,23:32.01,Randall R Carver,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Backstroke,SCY,M,35-39,40.68,Allen A Hebert,,South Central Zone SCY Champs,2005,1
+UNAT,100 Y Backstroke,SCY,M,35-39,55.23,Ross C Davis,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Breaststroke,SCY,M,35-39,31.12,Francisco J Martinez,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Breaststroke,SCY,M,35-39,31.21,Frank A Ward,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Breaststroke,SCY,M,35-39,32.06,Jonathan P Doherty,,South Central Zone SCY Champs,2005,3
+TXLA,50 Y Breaststroke,SCY,M,35-39,38.48,Allen A Hebert,,South Central Zone SCY Champs,2005,4
+AAAA,100 Y Breaststroke,SCY,M,35-39,1:09.03,Francisco J Martinez,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Breaststroke,SCY,M,35-39,1:10.14,Jonathan P Doherty,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Breaststroke,SCY,M,35-39,1:11.45,Frank A Ward,,South Central Zone SCY Champs,2005,3
+AAAA,200 Y Breaststroke,SCY,M,35-39,2:38.71,Francisco J Martinez,,South Central Zone SCY Champs,2005,1
+UNAT,50 Y Butterfly,SCY,M,35-39,24.58,Ross C Davis,,WAAC SCY Meet,2005,1
+MOST,50 Y Butterfly,SCY,M,35-39,27.80,Jonathan P Doherty,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Butterfly,SCY,M,35-39,28.56,Frank A Ward,,South Central Zone SCY Champs,2005,3
+TXLA,50 Y Butterfly,SCY,M,35-39,34.75,Allen A Hebert,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Butterfly,SCY,M,35-39,36.70,Randall R Carver,,South Central Zone SCY Champs,2005,5
+UNAT,100 Y Butterfly,SCY,M,35-39,52.29,Ross C Davis,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Butterfly,SCY,M,35-39,1:05.15,Frank A Ward,,South Central Zone SCY Champs,2005,2
+AAAA,100 Y Butterfly,SCY,M,35-39,1:08.20,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,3
+UNAT,200 Y Butterfly,SCY,M,35-39,2:00.60,Ross C Davis,,WAAC SCY Meet,2005,1
+AAAA,200 Y Butterfly,SCY,M,35-39,2:30.60,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,M,35-39,1:02.54,Jonathan P Doherty,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Individual Medley,SCY,M,35-39,1:03.13,Frank A Ward,,South Central Zone SCY Champs,2005,2
+AAAA,100 Y Individual Medley,SCY,M,35-39,1:03.80,Francisco J Martinez,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Individual Medley,SCY,M,35-39,1:19.35,Allen A Hebert,,South Central Zone SCY Champs,2005,4
+UNAT,200 Y Individual Medley,SCY,M,35-39,1:59.78,Ross C Davis,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Individual Medley,SCY,M,35-39,2:30.32,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,2
+UNAT,400 Y Individual Medley,SCY,M,35-39,4:21.87,Ross C Davis,,South Central Zone SCY Champs,2005,1
+AAAA,400 Y Individual Medley,SCY,M,35-39,5:23.52,Ricardo L Sigaran,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Freestyle,SCY,M,40-44,24.72,Steven C Richey,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,M,40-44,25.09,Brent R Anderson,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Freestyle,SCY,M,40-44,26.99,Steven R Jacobs,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Freestyle,SCY,M,40-44,50.15,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,M,40-44,53.75,Fletcher C Watson,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Freestyle,SCY,M,40-44,54.93,Patrick M Cantrell,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Freestyle,SCY,M,40-44,55.80,Steven C Richey,,South Central Zone SCY Champs,2005,4
+MOST,100 Y Freestyle,SCY,M,40-44,58.98,Steven R Jacobs,,South Central Zone SCY Champs,2005,5
+MOST,100 Y Freestyle,SCY,M,40-44,1:00.22,Brent R Anderson,,South Central Zone SCY Champs,2005,6
+MOST,100 Y Freestyle,SCY,M,40-44,1:05.35,Jeff A McCracken,,South Central Zone SCY Champs,2005,7
+TXLA,200 Y Freestyle,SCY,M,40-44,1:52.02,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Freestyle,SCY,M,40-44,2:01.88,Patrick M Cantrell,,South Central Zone SCY Champs,2005,2
+MOST,200 Y Freestyle,SCY,M,40-44,2:05.33,Steven C Richey,,South Central Zone SCY Champs,2005,3
+MOST,1650 Y Freestyle,SCY,M,40-44,24:04.53,Brent R Anderson,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Backstroke,SCY,M,40-44,26.03,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Backstroke,SCY,M,40-44,29.09,Patrick M Cantrell,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Backstroke,SCY,M,40-44,34.38,Israel Robles,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Backstroke,SCY,M,40-44,1:05.27,Paul B Walker,,South Central Zone SCY Champs,2005,1
+TXLA,100 Y Backstroke,SCY,M,40-44,1:05.30,Patrick M Cantrell,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Backstroke,SCY,M,40-44,1:13.60,Israel Robles,,South Central Zone SCY Champs,2005,3
+TXLA,200 Y Backstroke,SCY,M,40-44,2:21.62,Patrick M Cantrell,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,M,40-44,32.29,Brent R Anderson,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,M,40-44,33.71,Steven C Richey,,WAAC SCY Meet,2005,2
+MOST,50 Y Breaststroke,SCY,M,40-44,36.99,Israel Robles,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Breaststroke,SCY,M,40-44,37.73,Jeff A McCracken,,South Central Zone SCY Champs,2005,4
+MOST,100 Y Breaststroke,SCY,M,40-44,1:07.39,Fletcher C Watson,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Breaststroke,SCY,M,40-44,1:14.31,Brent R Anderson,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Breaststroke,SCY,M,40-44,1:14.67,Steven C Richey,,South Central Zone SCY Champs,2005,3
+MOST,200 Y Breaststroke,SCY,M,40-44,2:33.56,Fletcher C Watson,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,M,40-44,2:54.59,Brent R Anderson,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Butterfly,SCY,M,40-44,24.38,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Butterfly,SCY,M,40-44,28.28,Paul B Walker,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Butterfly,SCY,M,40-44,30.52,Brent R Anderson,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Butterfly,SCY,M,40-44,55.84,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Butterfly,SCY,M,40-44,59.51,Fletcher C Watson,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Butterfly,SCY,M,40-44,1:10.49,Steven R Jacobs,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Individual Medley,SCY,M,40-44,55.20,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Individual Medley,SCY,M,40-44,1:00.29,Fletcher C Watson,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,M,40-44,1:06.75,Steven C Richey,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Individual Medley,SCY,M,40-44,1:08.49,Brent R Anderson,,South Central Zone SCY Champs,2005,4
+MOST,100 Y Individual Medley,SCY,M,40-44,1:08.94,Steven R Jacobs,,South Central Zone SCY Champs,2005,5
+MOST,100 Y Individual Medley,SCY,M,40-44,1:11.96,Israel Robles,,South Central Zone SCY Champs,2005,6
+TXLA,200 Y Individual Medley,SCY,M,40-44,1:59.91,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Individual Medley,SCY,M,40-44,2:09.65,Fletcher C Watson,,South Central Zone SCY Champs,2005,2
+TXLA,200 Y Individual Medley,SCY,M,40-44,2:24.33,Paul B Walker,,South Central Zone SCY Champs,2005,3
+MOST,200 Y Individual Medley,SCY,M,40-44,2:30.15,Steven R Jacobs,,South Central Zone SCY Champs,2005,4
+MOST,200 Y Individual Medley,SCY,M,40-44,2:38.46,Israel Robles,,South Central Zone SCY Champs,2005,5
+TXLA,400 Y Individual Medley,SCY,M,40-44,4:25.91,Anders M Rasmussen,,South Central Zone SCY Champs,2005,1
+MOST,400 Y Individual Medley,SCY,M,40-44,4:47.49,Fletcher C Watson,,South Central Zone SCY Champs,2005,2
+MOST,400 Y Individual Medley,SCY,M,40-44,5:37.97,Steven R Jacobs,,South Central Zone SCY Champs,2005,3
+HOTS,50 Y Freestyle,SCY,M,45-49,22.76,Maxwell B Stinchcombe,,South Central Zone SCY Champs,2005,1
+GTTM,50 Y Freestyle,SCY,M,45-49,24.69,Bob A Seagraves,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Freestyle,SCY,M,45-49,25.67,Tom Kristek,,South Central Zone SCY Champs,2005,3
+UNAT,50 Y Freestyle,SCY,M,45-49,25.77,Daniel O Hoffmann,,South Central Zone SCY Champs,2005,4
+HOTS,50 Y Freestyle,SCY,M,45-49,25.77,Victor Wilcox,,South Central Zone SCY Champs,2005,5
+TXLA,50 Y Freestyle,SCY,M,45-49,26.56,Richard G Reeves,,South Central Zone SCY Champs,2005,6
+AAAA,50 Y Freestyle,SCY,M,45-49,29.29,Alan E Heiberg,,South Central Zone SCY Champs,2005,7
+MOST,50 Y Freestyle,SCY,M,45-49,30.83,Lee A Porisch,,South Central Zone SCY Champs,2005,8
+MOST,50 Y Freestyle,SCY,M,45-49,32.90,Jeff Schechter,,South Central Zone SCY Champs,2005,9
+HOTS,50 Y Freestyle,SCY,M,45-49,36.44,Michael D Asal,,WAAC SCY Meet,2005,10
+HOTS,100 Y Freestyle,SCY,M,45-49,50.74,Maxwell B Stinchcombe,,South Central Zone SCY Champs,2005,1
+UNAT,100 Y Freestyle,SCY,M,45-49,58.00,Louis J Lux,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Freestyle,SCY,M,45-49,58.13,Tom Kristek,,South Central Zone SCY Champs,2005,3
+UNAT,100 Y Freestyle,SCY,M,45-49,58.56,Daniel O Hoffmann,,South Central Zone SCY Champs,2005,4
+HOTS,100 Y Freestyle,SCY,M,45-49,58.58,Victor Wilcox,,South Central Zone SCY Champs,2005,5
+MOST,100 Y Freestyle,SCY,M,45-49,1:11.47,Lee A Porisch,,South Central Zone SCY Champs,2005,6
+MOST,100 Y Freestyle,SCY,M,45-49,1:16.67,Jeff Schechter,,South Central Zone SCY Champs,2005,7
+HOTS,100 Y Freestyle,SCY,M,45-49,1:16.84,Michael D Asal,,South Central Zone SCY Champs,2005,8
+HOTS,200 Y Freestyle,SCY,M,45-49,2:00.27,Maxwell B Stinchcombe,,South Central Zone SCY Champs,2005,1
+GTTM,200 Y Freestyle,SCY,M,45-49,2:02.00,Bob A Seagraves,,South Central Zone SCY Champs,2005,2
+TXLA,200 Y Freestyle,SCY,M,45-49,2:02.42,Stephen S Wright,,South Central Zone SCY Champs,2005,3
+AAAA,200 Y Freestyle,SCY,M,45-49,2:02.73,Donald M Walker,,2005 USMS Short Course Nationals,2005,4
+HOTS,200 Y Freestyle,SCY,M,45-49,2:04.51,William G Steffen,,WAAC SCY Meet,2005,5
+UNAT,200 Y Freestyle,SCY,M,45-49,2:07.98,Louis J Lux,,South Central Zone SCY Champs,2005,6
+UNAT,200 Y Freestyle,SCY,M,45-49,2:19.19,Daniel O Hoffmann,,WAAC SCY Meet,2005,7
+HOTS,200 Y Freestyle,SCY,M,45-49,2:50.49,Michael D Asal,,South Central Zone SCY Champs,2005,8
+AAAA,500 Y Freestyle,SCY,M,45-49,5:30.16,Donald M Walker,,South Central Zone SCY Champs,2005,1
+TXLA,500 Y Freestyle,SCY,M,45-49,5:34.11,Stephen S Wright,,South Central Zone SCY Champs,2005,2
+UNAT,500 Y Freestyle,SCY,M,45-49,5:56.87,Louis J Lux,,South Central Zone SCY Champs,2005,3
+HOTS,500 Y Freestyle,SCY,M,45-49,7:53.76,Michael D Asal,,South Central Zone SCY Champs,2005,4
+AAAA,1000 Y Freestyle,SCY,M,45-49,11:06.85,Donald M Walker,,2005 USMS Short Course Nationals,2005,1
+HOTS,1000 Y Freestyle,SCY,M,45-49,11:42.90,Maxwell B Stinchcombe,,WAAC SCY Meet,2005,2
+TXLA,1000 Y Freestyle,SCY,M,45-49,11:53.14,Stephen S Wright,,South Central Zone SCY Champs,2005,3
+HOTS,1000 Y Freestyle,SCY,M,45-49,16:51.76,Michael D Asal,,South Central Zone SCY Champs,2005,4
+AAAA,1650 Y Freestyle,SCY,M,45-49,19:03.78,Donald M Walker,,South Central Zone SCY Champs,2005,1
+TXLA,1650 Y Freestyle,SCY,M,45-49,19:55.15,Stephen S Wright,,South Central Zone SCY Champs,2005,2
+HOTS,1650 Y Freestyle,SCY,M,45-49,22:17.53,Victor Wilcox,,South Central Zone SCY Champs,2005,3
+TXLA,50 Y Backstroke,SCY,M,45-49,28.31,David K Vandam,,South Central Zone SCY Champs,2005,1
+GTTM,50 Y Backstroke,SCY,M,45-49,29.61,Bob A Seagraves,,South Central Zone SCY Champs,2005,2
+HOTS,50 Y Backstroke,SCY,M,45-49,31.14,Tom Kristek,,South Central Zone SCY Champs,2005,3
+STAR,50 Y Backstroke,SCY,M,45-49,31.36,Gary N Bleeke,,South Central Zone SCY Champs,2005,4
+TXLA,50 Y Backstroke,SCY,M,45-49,32.14,Richard G Reeves,,South Central Zone SCY Champs,2005,5
+MOST,50 Y Backstroke,SCY,M,45-49,38.20,Lee A Porisch,,South Central Zone SCY Champs,2005,6
+STAR,100 Y Backstroke,SCY,M,45-49,1:05.36,Gary N Bleeke,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Backstroke,SCY,M,45-49,1:06.53,Tom Kristek,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Backstroke,SCY,M,45-49,1:07.46,David K Vandam,,WAAC SCY Meet,2005,3
+TXLA,100 Y Backstroke,SCY,M,45-49,1:08.78,Richard G Reeves,,South Central Zone SCY Champs,2005,4
+TXLA,200 Y Backstroke,SCY,M,45-49,2:30.13,Stephen S Wright,,South Central Zone SCY Champs,2005,1
+GTTM,50 Y Breaststroke,SCY,M,45-49,31.09,Bob A Seagraves,,South Central Zone SCY Champs,2005,1
+UNAT,50 Y Breaststroke,SCY,M,45-49,34.07,Daniel O Hoffmann,,South Central Zone SCY Champs,2005,2
+STAR,50 Y Breaststroke,SCY,M,45-49,36.00,Gary N Bleeke,,South Central Zone SCY Champs,2005,3
+AAAA,50 Y Breaststroke,SCY,M,45-49,36.40,Alan E Heiberg,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Breaststroke,SCY,M,45-49,37.07,Lee A Porisch,,South Central Zone SCY Champs,2005,5
+MOST,50 Y Breaststroke,SCY,M,45-49,38.85,Jeff Schechter,,South Central Zone SCY Champs,2005,6
+STAR,100 Y Breaststroke,SCY,M,45-49,1:16.95,Gary N Bleeke,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Breaststroke,SCY,M,45-49,1:21.00,Alan E Heiberg,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Breaststroke,SCY,M,45-49,1:25.00,Lee A Porisch,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Breaststroke,SCY,M,45-49,1:31.69,Jeff Schechter,,South Central Zone SCY Champs,2005,4
+AAAA,200 Y Breaststroke,SCY,M,45-49,3:04.19,Alan E Heiberg,,2005 USMS Short Course Nationals,2005,1
+MOST,200 Y Breaststroke,SCY,M,45-49,3:23.02,Jeff Schechter,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Butterfly,SCY,M,45-49,26.08,David K Vandam,,South Central Zone SCY Champs,2005,1
+HOTS,50 Y Butterfly,SCY,M,45-49,26.29,William G Steffen,,WAAC SCY Meet,2005,2
+GTTM,50 Y Butterfly,SCY,M,45-49,27.23,Bob A Seagraves,,South Central Zone SCY Champs,2005,3
+UNAT,50 Y Butterfly,SCY,M,45-49,27.58,Daniel O Hoffmann,,South Central Zone SCY Champs,2005,4
+AAAA,50 Y Butterfly,SCY,M,45-49,27.81,Donald M Walker,,2005 USMS Short Course Nationals,2005,5
+HOTS,50 Y Butterfly,SCY,M,45-49,28.40,Victor Wilcox,,South Central Zone SCY Champs,2005,6
+HOTS,50 Y Butterfly,SCY,M,45-49,29.19,Tom Kristek,,South Central Zone SCY Champs,2005,7
+AAAA,50 Y Butterfly,SCY,M,45-49,32.90,Alan E Heiberg,,WAAC SCY Meet,2005,8
+MOST,50 Y Butterfly,SCY,M,45-49,37.15,Lee A Porisch,,South Central Zone SCY Champs,2005,9
+MOST,50 Y Butterfly,SCY,M,45-49,47.29,Jeff Schechter,,South Central Zone SCY Champs,2005,10
+TXLA,100 Y Butterfly,SCY,M,45-49,57.42,David K Vandam,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Butterfly,SCY,M,45-49,59.16,Donald M Walker,,2005 USMS Short Course Nationals,2005,2
+HOTS,100 Y Butterfly,SCY,M,45-49,1:00.48,William G Steffen,,WAAC SCY Meet,2005,3
+GTTM,100 Y Butterfly,SCY,M,45-49,1:01.06,Bob A Seagraves,,South Central Zone SCY Champs,2005,4
+TXLA,100 Y Butterfly,SCY,M,45-49,1:02.54,Stephen S Wright,,South Central Zone SCY Champs,2005,5
+HOTS,100 Y Butterfly,SCY,M,45-49,1:06.53,Victor Wilcox,,South Central Zone SCY Champs,2005,6
+UNAT,100 Y Butterfly,SCY,M,45-49,1:13.40,Daniel O Hoffmann,,South Central Zone SCY Champs,2005,7
+TXLA,200 Y Butterfly,SCY,M,45-49,2:08.40,David K Vandam,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Butterfly,SCY,M,45-49,2:11.98,Donald M Walker,,2005 USMS Short Course Nationals,2005,2
+TXLA,200 Y Butterfly,SCY,M,45-49,2:31.56,Stephen S Wright,,South Central Zone SCY Champs,2005,3
+HOTS,200 Y Butterfly,SCY,M,45-49,2:51.72,Victor Wilcox,,South Central Zone SCY Champs,2005,4
+GTTM,100 Y Individual Medley,SCY,M,45-49,1:01.01,Bob A Seagraves,,South Central Zone SCY Champs,2005,1
+HOTS,100 Y Individual Medley,SCY,M,45-49,1:01.56,Maxwell B Stinchcombe,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Individual Medley,SCY,M,45-49,1:05.87,Tom Kristek,,South Central Zone SCY Champs,2005,3
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:05.96,Daniel O Hoffmann,,South Central Zone SCY Champs,2005,4
+TXLA,100 Y Individual Medley,SCY,M,45-49,1:08.09,Richard G Reeves,,South Central Zone SCY Champs,2005,5
+HOTS,100 Y Individual Medley,SCY,M,45-49,1:08.80,Victor Wilcox,,South Central Zone SCY Champs,2005,6
+STAR,100 Y Individual Medley,SCY,M,45-49,1:09.18,Gary N Bleeke,,South Central Zone SCY Champs,2005,7
+TXLA,100 Y Individual Medley,SCY,M,45-49,1:09.31,David K Vandam,,WAAC SCY Meet,2005,8
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:10.52,Louis J Lux,,South Central Zone SCY Champs,2005,9
+AAAA,100 Y Individual Medley,SCY,M,45-49,1:13.24,Alan E Heiberg,,WAAC SCY Meet,2005,10
+MOST,100 Y Individual Medley,SCY,M,45-49,1:19.69,Lee A Porisch,,South Central Zone SCY Champs,2005,11
+HOTS,100 Y Individual Medley,SCY,M,45-49,1:43.17,Michael D Asal,,WAAC SCY Meet,2005,12
+GTTM,200 Y Individual Medley,SCY,M,45-49,2:13.51,Bob A Seagraves,,South Central Zone SCY Champs,2005,1
+STAR,200 Y Individual Medley,SCY,M,45-49,2:29.27,Gary N Bleeke,,South Central Zone SCY Champs,2005,2
+TXLA,200 Y Individual Medley,SCY,M,45-49,2:52.43,Stephen S Wright,,WAAC SCY Meet,2005,3
+GTTM,400 Y Individual Medley,SCY,M,45-49,4:55.34,Bob A Seagraves,,South Central Zone SCY Champs,2005,1
+TXLA,400 Y Individual Medley,SCY,M,45-49,6:08.55,Stephen S Wright,,WAAC SCY Meet,2005,2
+ESTM,50 Y Freestyle,SCY,M,50-54,23.30,Charles F LeMaistre,,2005 USMS Short Course Nationals,2005,1
+MOST,50 Y Freestyle,SCY,M,50-54,24.84,Ofer Nisman,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Freestyle,SCY,M,50-54,25.93,Don T Morley,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Freestyle,SCY,M,50-54,27.55,Buz Kroner,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Freestyle,SCY,M,50-54,31.55,Scott M Mortensen,,South Central Zone SCY Champs,2005,5
+ESTM,100 Y Freestyle,SCY,M,50-54,50.81,Charles F LeMaistre,,2005 USMS Short Course Nationals,2005,1
+HOTS,100 Y Freestyle,SCY,M,50-54,54.33,Dick Worrel,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Freestyle,SCY,M,50-54,56.13,Gregory Z Smith,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Freestyle,SCY,M,50-54,56.43,Don T Morley,,South Central Zone SCY Champs,2005,4
+MOST,100 Y Freestyle,SCY,M,50-54,1:11.58,Scott M Mortensen,,South Central Zone SCY Champs,2005,5
+HOTS,200 Y Freestyle,SCY,M,50-54,1:53.63,Larry W Wood,,South Central Zone SCY Champs,2005,1
+HOTS,200 Y Freestyle,SCY,M,50-54,1:57.18,Dick Worrel,,South Central Zone SCY Champs,2005,2
+ESTM,200 Y Freestyle,SCY,M,50-54,1:59.57,Charles F Lemaistre,,WAAC SCY Meet,2005,3
+MOST,200 Y Freestyle,SCY,M,50-54,2:06.48,Don T Morley,,South Central Zone SCY Champs,2005,4
+MOST,200 Y Freestyle,SCY,M,50-54,2:24.71,Buz Kroner,,South Central Zone SCY Champs,2005,5
+MOST,200 Y Freestyle,SCY,M,50-54,2:41.37,Scott M Mortensen,,South Central Zone SCY Champs,2005,6
+HOTS,500 Y Freestyle,SCY,M,50-54,5:11.74,Larry W Wood,,South Central Zone SCY Champs,2005,1
+HOTS,500 Y Freestyle,SCY,M,50-54,5:15.87,Dick Worrel,,South Central Zone SCY Champs,2005,2
+MOST,500 Y Freestyle,SCY,M,50-54,7:03.71,Scott M Mortensen,,South Central Zone SCY Champs,2005,3
+HOTS,1000 Y Freestyle,SCY,M,50-54,10:47.56,Larry W Wood,,South Central Zone SCY Champs,2005,1
+HOTS,1000 Y Freestyle,SCY,M,50-54,10:58.60,Dick Worrel,,South Central Zone SCY Champs,2005,2
+UNAT,1000 Y Freestyle,SCY,M,50-54,13:58.63,Steve Dailey,,WAAC SCY Meet,2005,3
+MOST,1000 Y Freestyle,SCY,M,50-54,15:01.53,Scott M Mortensen,,South Central Zone SCY Champs,2005,4
+HOTS,1650 Y Freestyle,SCY,M,50-54,18:03.46,Larry W Wood,,South Central Zone SCY Champs,2005,1
+HOTS,1650 Y Freestyle,SCY,M,50-54,18:43.13,Dick Worrel,,South Central Zone SCY Champs,2005,2
+UNAT,1650 Y Freestyle,SCY,M,50-54,23:24.87,Steve Dailey,,WAAC SCY Meet,2005,3
+MOST,1650 Y Freestyle,SCY,M,50-54,25:02.12,Scott M Mortensen,,South Central Zone SCY Champs,2005,4
+ESTM,50 Y Backstroke,SCY,M,50-54,27.98,Charles F LeMaistre,,2005 USMS Short Course Nationals,2005,1
+MOST,50 Y Backstroke,SCY,M,50-54,29.99,Ofer Nisman,,South Central Zone SCY Champs,2005,2
+TXLA,50 Y Backstroke,SCY,M,50-54,30.80,Gregory Z Smith,,South Central Zone SCY Champs,2005,3
+MOST,50 Y Backstroke,SCY,M,50-54,31.15,Don T Morley,,South Central Zone SCY Champs,2005,4
+MOST,50 Y Backstroke,SCY,M,50-54,38.21,Buz Kroner,,South Central Zone SCY Champs,2005,5
+ESTM,100 Y Backstroke,SCY,M,50-54,1:00.03,Charles F LeMaistre,,2005 USMS Short Course Nationals,2005,1
+MOST,100 Y Backstroke,SCY,M,50-54,1:06.45,Don T Morley,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Backstroke,SCY,M,50-54,1:06.55,Dick Worrel,,South Central Zone SCY Champs,2005,3
+UNAT,50 Y Breaststroke,SCY,M,50-54,30.51,Steve Dailey,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Breaststroke,SCY,M,50-54,34.95,Buz Kroner,,South Central Zone SCY Champs,2005,2
+UNAT,100 Y Breaststroke,SCY,M,50-54,1:07.83,Steve Dailey,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Breaststroke,SCY,M,50-54,1:18.81,Buz Kroner,,South Central Zone SCY Champs,2005,2
+UNAT,200 Y Breaststroke,SCY,M,50-54,2:29.28,Steve Dailey,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,M,50-54,2:53.61,Buz Kroner,,South Central Zone SCY Champs,2005,2
+ESTM,50 Y Butterfly,SCY,M,50-54,26.42,Charles F LeMaistre,,2005 USMS Short Course Nationals,2005,1
+MOST,50 Y Butterfly,SCY,M,50-54,27.66,Ofer Nisman,,South Central Zone SCY Champs,2005,2
+HOTS,100 Y Butterfly,SCY,M,50-54,1:04.05,Dick Worrel,,South Central Zone SCY Champs,2005,1
+ESTM,100 Y Individual Medley,SCY,M,50-54,58.75,Charles F LeMaistre,,2005 USMS Short Course Nationals,2005,1
+MOST,100 Y Individual Medley,SCY,M,50-54,1:05.05,Ofer Nisman,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,M,50-54,1:07.25,Don T Morley,,South Central Zone SCY Champs,2005,3
+TXLA,100 Y Individual Medley,SCY,M,50-54,1:09.54,Gregory Z Smith,,South Central Zone SCY Champs,2005,4
+UNAT,400 Y Individual Medley,SCY,M,50-54,5:47.04,Steve Dailey,,WAAC SCY Meet,2005,1
+AAAA,50 Y Freestyle,SCY,M,55-59,25.38,David P Nordstrom,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Freestyle,SCY,M,55-59,35.64,Steve W Smith,,South Central Zone SCY Champs,2005,2
+AAAA,100 Y Freestyle,SCY,M,55-59,57.15,David P Nordstrom,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,M,55-59,1:03.92,John C Wood,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Freestyle,SCY,M,55-59,1:29.00,Steve W Smith,,South Central Zone SCY Champs,2005,3
+MOST,200 Y Freestyle,SCY,M,55-59,2:26.49,John C Wood,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Freestyle,SCY,M,55-59,2:53.23,Henry E Mecredy,,South Central Zone SCY Champs,2005,2
+MOST,500 Y Freestyle,SCY,M,55-59,6:46.86,John C Wood,,South Central Zone SCY Champs,2005,1
+MOST,1000 Y Freestyle,SCY,M,55-59,14:18.42,John C Wood,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Backstroke,SCY,M,55-59,3:01.74,Henry E Mecredy,,South Central Zone SCY Champs,2005,1
+UNAT,50 Y Breaststroke,SCY,M,55-59,36.10,Doug Smith,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Breaststroke,SCY,M,55-59,39.62,David P Nordstrom,,WAAC SCY Meet,2005,2
+MOST,100 Y Breaststroke,SCY,M,55-59,1:27.71,John C Wood,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,M,55-59,3:18.04,John C Wood,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Butterfly,SCY,M,55-59,28.23,David P Nordstrom,,South Central Zone SCY Champs,2005,1
+TXLA,50 Y Butterfly,SCY,M,55-59,36.68,Henry E Mecredy,,South Central Zone SCY Champs,2005,2
+TXLA,100 Y Butterfly,SCY,M,55-59,1:29.72,Henry E Mecredy,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Butterfly,SCY,M,55-59,4:10.11,Henry E Mecredy,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Individual Medley,SCY,M,55-59,1:05.19,David P Nordstrom,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Individual Medley,SCY,M,55-59,1:16.18,John C Wood,,South Central Zone SCY Champs,2005,2
+AAAA,200 Y Individual Medley,SCY,M,55-59,2:26.94,David P Nordstrom,,South Central Zone SCY Champs,2005,1
+TXLA,200 Y Individual Medley,SCY,M,55-59,3:22.15,Henry E Mecredy,,South Central Zone SCY Champs,2005,2
+TXLA,400 Y Individual Medley,SCY,M,55-59,7:12.63,Henry E Mecredy,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Freestyle,SCY,M,60-64,28.20,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Freestyle,SCY,M,60-64,1:05.09,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Backstroke,SCY,M,60-64,36.60,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Backstroke,SCY,M,60-64,1:20.03,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Breaststroke,SCY,M,60-64,37.28,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Breaststroke,SCY,M,60-64,1:22.11,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Butterfly,SCY,M,60-64,31.00,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+AAAA,100 Y Individual Medley,SCY,M,60-64,1:15.47,Richard R Hughes,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,M,65-69,1:38.90,Wendell R Peters,,South Central Zone SCY Champs,2005,1
+AAAA,500 Y Freestyle,SCY,M,65-69,8:09.48,John S Fulton,,South Central Zone SCY Champs,2005,1
+AAAA,1000 Y Freestyle,SCY,M,65-69,15:46.00,John S Fulton,,South Central Zone SCY Champs,2005,1
+AAAA,1650 Y Freestyle,SCY,M,65-69,25:56.82,John S Fulton,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Backstroke,SCY,M,65-69,40.70,Sherrill F Martin,,South Central Zone SCY Champs,2005,1
+MOST,50 Y Backstroke,SCY,M,65-69,1:00.67,Wendell R Peters,,South Central Zone SCY Champs,2005,2
+AAAA,200 Y Backstroke,SCY,M,65-69,3:18.57,Sherrill F Martin,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Backstroke,SCY,M,65-69,3:25.32,John S Fulton,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Breaststroke,SCY,M,65-69,39.63,Jerry L Marchbanks,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Breaststroke,SCY,M,65-69,40.51,Sherrill F Martin,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Breaststroke,SCY,M,65-69,1:31.05,Jerry L Marchbanks,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Breaststroke,SCY,M,65-69,3:18.85,Sherrill F Martin,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Breaststroke,SCY,M,65-69,3:25.80,John S Fulton,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Butterfly,SCY,M,65-69,36.79,Jerry L Marchbanks,,South Central Zone SCY Champs,2005,1
+AAAA,50 Y Butterfly,SCY,M,65-69,43.99,John S Fulton,,South Central Zone SCY Champs,2005,2
+MOST,50 Y Butterfly,SCY,M,65-69,58.76,Wendell R Peters,,South Central Zone SCY Champs,2005,3
+MOST,100 Y Butterfly,SCY,M,65-69,1:31.14,Jerry L Marchbanks,,2005 USMS Short Course Nationals,2005,1
+MOST,200 Y Butterfly,SCY,M,65-69,3:36.30,Jerry L Marchbanks,,South Central Zone SCY Champs,2005,1
+AAAA,200 Y Butterfly,SCY,M,65-69,3:59.43,John S Fulton,,South Central Zone SCY Champs,2005,2
+MOST,100 Y Individual Medley,SCY,M,65-69,1:28.59,Jerry L Marchbanks,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Individual Medley,SCY,M,65-69,3:14.16,Jerry L Marchbanks,,2005 USMS Short Course Nationals,2005,1
+MOST,400 Y Individual Medley,SCY,M,65-69,7:01.17,Jerry L Marchbanks,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,M,70-74,1:06.15,Graham M Johnston,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Freestyle,SCY,M,70-74,2:24.88,Graham M Johnston,,South Central Zone SCY Champs,2005,1
+MOST,500 Y Freestyle,SCY,M,70-74,6:31.91,Graham M Johnston,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Breaststroke,SCY,M,70-74,3:23.97,Graham M Johnston,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Individual Medley,SCY,M,70-74,2:50.29,Graham M Johnston,,South Central Zone SCY Champs,2005,1
+MOST,400 Y Individual Medley,SCY,M,70-74,6:15.98,Graham M Johnston,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Freestyle,SCY,M,85-89,2:58.84,Fred S Wright,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Freestyle,SCY,M,85-89,6:33.07,Fred S Wright,,South Central Zone SCY Champs,2005,1
+MOST,500 Y Freestyle,SCY,M,85-89,16:43.53,Fred S Wright,,South Central Zone SCY Champs,2005,1
+MOST,100 Y Backstroke,SCY,M,85-89,3:17.53,Fred S Wright,,South Central Zone SCY Champs,2005,1
+MOST,200 Y Backstroke,SCY,M,85-89,6:48.32,Fred S Wright,,South Central Zone SCY Champs,2005,1

@@ -1,0 +1,45 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SDM,400 M Freestyle,SCM,W,30-34,7:18.19,Rebecca Mabile,,February Flurry,2020,1
+SDM,100 M Breaststroke,SCM,W,30-34,1:54.81,Rebecca Mabile,,February Flurry,2020,1
+SDM,200 M Individual Medley,SCM,W,30-34,3:51.40,Rebecca Mabile,,February Flurry,2020,1
+SUSA,50 M Freestyle,SCM,W,65-69,36.76,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+UTAH,50 M Freestyle,SCM,W,65-69,38.57,Mary C Smith,,SUSA Invitational 2020,2020,2
+SUSA,100 M Freestyle,SCM,W,65-69,1:24.91,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+SUSA,200 M Freestyle,SCM,W,65-69,2:59.10,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+SUSA,400 M Freestyle,SCM,W,65-69,6:08.52,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+SUSA,200 M Backstroke,SCM,W,65-69,3:16.03,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+SUSA,50 M Breaststroke,SCM,W,65-69,47.08,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+UTAH,50 M Breaststroke,SCM,W,65-69,51.26,Mary C Smith,,SUSA Invitational 2020,2020,2
+SUSA,50 M Butterfly,SCM,W,65-69,47.51,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+SUSA,200 M Individual Medley,SCM,W,65-69,3:23.71,Cindy Gilmore,,SUSA Invitational 2020,2020,1
+UTAH,50 M Freestyle,SCM,W,80-84,1:26.91,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,50 M Backstroke,SCM,W,80-84,1:38.87,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,100 M Backstroke,SCM,W,80-84,3:40.29,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,200 M Backstroke,SCM,W,80-84,7:15.24,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,50 M Breaststroke,SCM,W,80-84,1:58.84,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,100 M Breaststroke,SCM,W,80-84,3:57.80,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,200 M Breaststroke,SCM,W,80-84,8:17.61,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,50 M Butterfly,SCM,W,80-84,2:11.51,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,200 M Individual Medley,SCM,W,80-84,7:29.72,Lynne Lund,,SUSA Invitational 2020,2020,1
+UTAH,50 M Freestyle,SCM,M,55-59,44.30,Pete Bowden,,SUSA Invitational 2020,2020,1
+UTAH,100 M Freestyle,SCM,M,55-59,1:33.91,Pete Bowden,,SUSA Invitational 2020,2020,1
+UTAH,200 M Freestyle,SCM,M,55-59,3:19.11,Pete Bowden,,SUSA Invitational 2020,2020,1
+UTAH,400 M Freestyle,SCM,M,55-59,7:07.45,Pete Bowden,,SUSA Invitational 2020,2020,1
+UC34,200 M Freestyle,SCM,M,60-64,2:55.82,Gerald S Treiman,,SUSA Invitational 2020,2020,1
+UC34,400 M Freestyle,SCM,M,60-64,5:53.87,Gerald S Treiman,,SUSA Invitational 2020,2020,1
+UC34,800 M Freestyle,SCM,M,60-64,12:46.43,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+UC34,1500 M Freestyle,SCM,M,60-64,23:45.66,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+UC34,100 M Backstroke,SCM,M,60-64,1:20.66,Gerald S Treiman,,SUSA Invitational 2020,2020,1
+UC34,200 M Backstroke,SCM,M,60-64,2:51.82,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+UC34,200 M Breaststroke,SCM,M,60-64,3:56.73,Gerald S Treiman,,SUSA Invitational 2020,2020,1
+UC34,100 M Butterfly,SCM,M,60-64,2:00.30,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+UC34,200 M Butterfly,SCM,M,60-64,4:07.75,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+UC34,200 M Individual Medley,SCM,M,60-64,3:20.97,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+UC34,400 M Individual Medley,SCM,M,60-64,6:56.32,Gerald S Treiman,,2020 South Carolina SCM State Meet,2020,1
+SUSA,50 M Freestyle,SCM,M,65-69,40.62,Bruce E Schroeder,,SUSA Invitational 2020,2020,1
+SUSA,100 M Freestyle,SCM,M,65-69,1:26.22,Bruce E Schroeder,,SUSA Invitational 2020,2020,1
+SUSA,50 M Breaststroke,SCM,M,65-69,46.55,Bruce E Schroeder,,SUSA Invitational 2020,2020,1
+SUSA,100 M Breaststroke,SCM,M,65-69,1:46.00,Bruce E Schroeder,,SUSA Invitational 2020,2020,1
+SUSA,200 M Breaststroke,SCM,M,65-69,3:41.71,Bruce E Schroeder,,SUSA Invitational 2020,2020,1
+SUSA,50 M Butterfly,SCM,M,65-69,55.55,Bruce E Schroeder,,SUSA Invitational 2020,2020,1
+SUSA,200 M Individual Medley,SCM,M,65-69,3:53.35,Bruce E Schroeder,,SUSA Invitational 2020,2020,1

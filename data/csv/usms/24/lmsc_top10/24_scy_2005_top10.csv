@@ -1,0 +1,559 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BTAC,50 Y Freestyle,SCY,W,18-24,26.79,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Freestyle,SCY,W,18-24,26.85,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,2
+CCSC,50 Y Freestyle,SCY,W,18-24,28.55,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,50 Y Freestyle,SCY,W,18-24,29.51,Ellen T Bator,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,50 Y Freestyle,SCY,W,18-24,32.50,Meghan K Newport,,Southern Masters Swimming SCY Champs,2005,5
+CRAQ,50 Y Freestyle,SCY,W,18-24,33.15,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,6
+CMAQ,100 Y Freestyle,SCY,W,18-24,57.32,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Freestyle,SCY,W,18-24,57.62,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,100 Y Freestyle,SCY,W,18-24,1:04.75,Shelly M Scott,,Southern Masters Swimming SCY Champs,2005,3
+CCSC,100 Y Freestyle,SCY,W,18-24,1:04.95,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,100 Y Freestyle,SCY,W,18-24,1:13.52,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,5
+CRAQ,100 Y Freestyle,SCY,W,18-24,1:16.98,Meghan K Newport,,Southern Masters Swimming SCY Champs,2005,6
+BTAC,200 Y Freestyle,SCY,W,18-24,2:11.22,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,200 Y Freestyle,SCY,W,18-24,2:50.54,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,2
+CCSC,500 Y Freestyle,SCY,W,18-24,6:37.81,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,500 Y Freestyle,SCY,W,18-24,7:48.62,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,2
+CCSC,50 Y Backstroke,SCY,W,18-24,34.21,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Backstroke,SCY,W,18-24,34.53,Shelly M Scott,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Backstroke,SCY,W,18-24,41.95,Meghan K Newport,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,50 Y Backstroke,SCY,W,18-24,43.87,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,50 Y Breaststroke,SCY,W,18-24,35.18,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,1
+CCSC,50 Y Breaststroke,SCY,W,18-24,39.24,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Breaststroke,SCY,W,18-24,46.84,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,50 Y Breaststroke,SCY,W,18-24,47.53,Meghan K Newport,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,100 Y Breaststroke,SCY,W,18-24,1:17.90,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,100 Y Breaststroke,SCY,W,18-24,1:20.48,Margot M Hair,,Auburn Masters Invitational,2005,2
+BTAC,100 Y Breaststroke,SCY,W,18-24,1:21.09,Ellen T Bator,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,100 Y Breaststroke,SCY,W,18-24,1:43.25,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,200 Y Breaststroke,SCY,W,18-24,2:54.61,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Butterfly,SCY,W,18-24,28.81,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Butterfly,SCY,W,18-24,29.37,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,2
+CCSC,50 Y Butterfly,SCY,W,18-24,31.49,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,50 Y Butterfly,SCY,W,18-24,35.76,Meghan K Newport,,Southern Masters Swimming SCY Champs,2005,4
+BTAC,100 Y Butterfly,SCY,W,18-24,1:03.70,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,200 Y Butterfly,SCY,W,18-24,2:24.41,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Individual Medley,SCY,W,18-24,1:06.92,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Individual Medley,SCY,W,18-24,1:08.49,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,2
+CCSC,100 Y Individual Medley,SCY,W,18-24,1:12.74,Kier C McGuire,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Individual Medley,SCY,W,18-24,1:16.13,Shelly M Scott,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,100 Y Individual Medley,SCY,W,18-24,1:27.41,Susannah A Johnson,,Southern Masters Swimming SCY Champs,2005,5
+CRAQ,100 Y Individual Medley,SCY,W,18-24,1:30.58,Meghan K Newport,,Southern Masters Swimming SCY Champs,2005,6
+CMAQ,200 Y Individual Medley,SCY,W,18-24,2:24.22,Keily E Lavery,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,200 Y Individual Medley,SCY,W,18-24,2:25.48,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,400 Y Individual Medley,SCY,W,18-24,5:08.41,Leslie B Conrad,,Southern Masters Swimming SCY Champs,2005,1
+SURF,50 Y Freestyle,SCY,W,25-29,28.54,Susanne M Wienrich,,Auburn Masters Invitational,2005,1
+ES,50 Y Freestyle,SCY,W,25-29,29.00,Tracy O Phillips,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,100 Y Freestyle,SCY,W,25-29,1:09.35,Jennifer M Staley,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Freestyle,SCY,W,25-29,2:09.27,Tracy O Phillips,,2005 USMS Short Course Nationals,2005,1
+SURF,200 Y Freestyle,SCY,W,25-29,2:16.08,Susanne M Wienrich,,2005 USMS Short Course Nationals,2005,2
+ES,500 Y Freestyle,SCY,W,25-29,5:43.71,Tracy O Phillips,,2005 USMS Short Course Nationals,2005,1
+SURF,500 Y Freestyle,SCY,W,25-29,6:16.86,Susanne M Wienrich,,2005 USMS Short Course Nationals,2005,2
+ES,1650 Y Freestyle,SCY,W,25-29,19:49.98,Tracy O Phillips,,2005 USMS Short Course Nationals,2005,1
+UNAT,1650 Y Freestyle,SCY,W,25-29,25:05.47,Jennifer M Staley,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,1650 Y Freestyle,SCY,W,25-29,26:46.65,Kristen C Horn,,Southern Masters Swimming SCY Champs,2005,3
+SURF,100 Y Backstroke,SCY,W,25-29,1:12.39,Susanne M Wienrich,,Auburn Masters Invitational,2005,1
+SURF,200 Y Backstroke,SCY,W,25-29,2:36.34,Susanne M Wienrich,,Auburn Masters Invitational,2005,1
+UNAT,50 Y Breaststroke,SCY,W,25-29,39.24,Jennifer M Staley,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,200 Y Breaststroke,SCY,W,25-29,3:22.98,Jennifer M Staley,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Individual Medley,SCY,W,25-29,1:10.64,Tracy O Phillips,,2005 USMS Short Course Nationals,2005,1
+UNAT,100 Y Individual Medley,SCY,W,25-29,1:21.07,Jennifer M Staley,,Southern Masters Swimming SCY Champs,2005,2
+ES,200 Y Individual Medley,SCY,W,25-29,2:27.38,Tracy O Phillips,,2005 USMS Short Course Nationals,2005,1
+BTAC,1650 Y Freestyle,SCY,W,30-34,22:44.81,Kristi A Darby,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,1650 Y Freestyle,SCY,W,30-34,27:48.27,Johnnie L Bond,,Southern Masters Swimming SCY Champs,2005,2
+CGAC,50 Y Freestyle,SCY,W,35-39,33.72,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+CGAC,100 Y Freestyle,SCY,W,35-39,1:17.11,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,W,35-39,1:20.52,Kathleen C Lawler,,Southern Masters Swimming SCY Champs,2005,2
+CGAC,200 Y Freestyle,SCY,W,35-39,3:13.09,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,1650 Y Freestyle,SCY,W,35-39,24:40.66,Susan M Hayden,,Southern Masters Swimming SCY Champs,2005,1
+ES,1650 Y Freestyle,SCY,W,35-39,26:57.31,Kathleen C Lawler,,Southern Masters Swimming SCY Champs,2005,2
+CGAC,50 Y Backstroke,SCY,W,35-39,43.81,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Backstroke,SCY,W,35-39,47.03,Kathleen C Lawler,,Southern Masters Swimming SCY Champs,2005,2
+CGAC,50 Y Breaststroke,SCY,W,35-39,42.11,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Breaststroke,SCY,W,35-39,57.70,Catherine A Heusel,,Southern Masters Swimming SCY Champs,2005,2
+CGAC,100 Y Breaststroke,SCY,W,35-39,1:35.36,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+CGAC,200 Y Breaststroke,SCY,W,35-39,3:19.66,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+CGAC,50 Y Butterfly,SCY,W,35-39,48.16,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+CGAC,100 Y Individual Medley,SCY,W,35-39,1:30.76,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Individual Medley,SCY,W,35-39,1:35.44,Kathleen C Lawler,,Southern Masters Swimming SCY Champs,2005,2
+CGAC,200 Y Individual Medley,SCY,W,35-39,3:27.38,Mary G Breaux,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,W,40-44,28.58,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Freestyle,SCY,W,40-44,31.80,Carol Martin,,Auburn Masters Invitational,2005,2
+CMAQ,50 Y Freestyle,SCY,W,40-44,33.86,Ruth Ellen W Germany,,Auburn Masters Invitational,2005,3
+ES,100 Y Freestyle,SCY,W,40-44,1:01.40,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,100 Y Freestyle,SCY,W,40-44,1:06.54,Anne S Hays,,Southern Masters Swimming SCY Champs,2005,2
+FINM,100 Y Freestyle,SCY,W,40-44,1:10.70,Carol Martin,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,100 Y Freestyle,SCY,W,40-44,1:15.12,Ruth Ellen W Germany,,Auburn Masters Invitational,2005,4
+ES,200 Y Freestyle,SCY,W,40-44,2:14.36,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,200 Y Freestyle,SCY,W,40-44,2:48.53,Ruth Ellen W Germany,,Auburn Masters Invitational,2005,2
+FINM,200 Y Freestyle,SCY,W,40-44,2:51.90,Carol Martin,,Auburn Masters Invitational,2005,3
+ES,500 Y Freestyle,SCY,W,40-44,5:51.70,Fay Lachney,,2005 USMS Short Course Nationals,2005,1
+FINM,500 Y Freestyle,SCY,W,40-44,7:41.80,Carol Martin,,Auburn Masters Invitational,2005,2
+ES,1650 Y Freestyle,SCY,W,40-44,19:40.93,Fay Lachney,,2005 USMS Short Course Nationals,2005,1
+ES,1650 Y Freestyle,SCY,W,40-44,33:17.55,Karen Hickham,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Backstroke,SCY,W,40-44,33.78,Anne S Hays,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,50 Y Backstroke,SCY,W,40-44,37.47,Karen L Lambert,,Southern Masters Swimming SCY Champs,2005,2
+FINM,50 Y Backstroke,SCY,W,40-44,40.81,Carol Martin,,Auburn Masters Invitational,2005,3
+FINM,100 Y Backstroke,SCY,W,40-44,1:34.39,Carol Martin,,Auburn Masters Invitational,2005,1
+ES,200 Y Backstroke,SCY,W,40-44,2:43.09,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,200 Y Backstroke,SCY,W,40-44,2:52.53,Anne S Hays,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Breaststroke,SCY,W,40-44,42.73,Karen L Lambert,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Breaststroke,SCY,W,40-44,49.28,Carol Martin,,Southern Masters Swimming SCY Champs,2005,2
+ES,50 Y Breaststroke,SCY,W,40-44,57.25,Karen Hickham,,Southern Masters Swimming SCY Champs,2005,3
+ES,200 Y Breaststroke,SCY,W,40-44,4:17.21,Karen Hickham,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Butterfly,SCY,W,40-44,31.27,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,50 Y Butterfly,SCY,W,40-44,37.22,Karen L Lambert,,Southern Masters Swimming SCY Champs,2005,2
+FINM,50 Y Butterfly,SCY,W,40-44,38.51,Carol Martin,,Auburn Masters Invitational,2005,3
+CMAQ,50 Y Butterfly,SCY,W,40-44,38.81,Ruth Ellen W Germany,,Auburn Masters Invitational,2005,4
+ES,100 Y Butterfly,SCY,W,40-44,1:09.92,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Butterfly,SCY,W,40-44,1:28.32,Ruth Ellen W Germany,,Auburn Masters Invitational,2005,2
+ES,100 Y Individual Medley,SCY,W,40-44,1:13.02,Fay Lachney,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,100 Y Individual Medley,SCY,W,40-44,1:19.32,Karen L Lambert,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,100 Y Individual Medley,SCY,W,40-44,1:21.08,Anne S Hays,,Southern Masters Swimming SCY Champs,2005,3
+FINM,100 Y Individual Medley,SCY,W,40-44,1:24.81,Carol Martin,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,100 Y Individual Medley,SCY,W,40-44,1:28.30,Ruth Ellen W Germany,,Auburn Masters Invitational,2005,5
+ES,200 Y Individual Medley,SCY,W,40-44,2:33.64,Fay Lachney,,2005 USMS Short Course Nationals,2005,1
+FINM,200 Y Individual Medley,SCY,W,40-44,3:21.16,Carol Martin,,Auburn Masters Invitational,2005,2
+CRAQ,50 Y Freestyle,SCY,W,45-49,28.25,Helen T Cane,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,W,45-49,35.67,Cyndie Fox,,Southern Masters Swimming SCY Champs,2005,2
+ES,50 Y Freestyle,SCY,W,45-49,39.57,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,50 Y Freestyle,SCY,W,45-49,42.38,Ann Walton,,Southern Masters Swimming SCY Champs,2005,4
+ES,100 Y Freestyle,SCY,W,45-49,1:20.22,Cyndie Fox,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,W,45-49,1:22.30,Cheryl A Lambert,,Southern Masters Swimming SCY Champs,2005,2
+ES,100 Y Freestyle,SCY,W,45-49,1:30.42,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,100 Y Freestyle,SCY,W,45-49,1:32.58,Ann Walton,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,200 Y Freestyle,SCY,W,45-49,2:27.44,Helen T Cane,,Southern Masters Swimming SCY Champs,2005,1
+FINM,200 Y Freestyle,SCY,W,45-49,2:27.48,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,200 Y Freestyle,SCY,W,45-49,2:38.37,Ruth Niedrich,,Southern Masters Swimming SCY Champs,2005,3
+ES,200 Y Freestyle,SCY,W,45-49,3:05.45,Cyndie Fox,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,200 Y Freestyle,SCY,W,45-49,3:22.43,Ann Walton,,Southern Masters Swimming SCY Champs,2005,5
+ES,200 Y Freestyle,SCY,W,45-49,3:36.23,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,6
+FINM,500 Y Freestyle,SCY,W,45-49,6:41.97,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,500 Y Freestyle,SCY,W,45-49,6:53.70,Ruth Niedrich,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,500 Y Freestyle,SCY,W,45-49,7:03.62,Helen T Cane,,Southern Masters Swimming SCY Champs,2005,3
+ES,500 Y Freestyle,SCY,W,45-49,8:24.57,Cyndie Fox,,Southern Masters Swimming SCY Champs,2005,4
+ES,500 Y Freestyle,SCY,W,45-49,9:53.57,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,5
+ES,1650 Y Freestyle,SCY,W,45-49,28:29.88,Cheryl A Lambert,,Southern Masters Swimming SCY Champs,2005,1
+ES,1650 Y Freestyle,SCY,W,45-49,28:41.64,Cyndie Fox,,Southern Masters Swimming SCY Champs,2005,2
+ES,1650 Y Freestyle,SCY,W,45-49,34:01.46,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,3
+FINM,50 Y Backstroke,SCY,W,45-49,36.96,Nancy D Gravel,,Auburn Masters Invitational,2005,1
+CMAQ,50 Y Backstroke,SCY,W,45-49,39.56,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+ES,50 Y Backstroke,SCY,W,45-49,50.24,Cheryl A Lambert,,Southern Masters Swimming SCY Champs,2005,3
+ES,50 Y Backstroke,SCY,W,45-49,52.57,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,4
+FINM,100 Y Backstroke,SCY,W,45-49,1:20.07,Nancy D Gravel,,Auburn Masters Invitational,2005,1
+CRAQ,100 Y Backstroke,SCY,W,45-49,1:24.50,Helen T Cane,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,100 Y Backstroke,SCY,W,45-49,1:28.61,Ruth Niedrich,,Southern Masters Swimming SCY Champs,2005,3
+FINM,200 Y Backstroke,SCY,W,45-49,2:54.55,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,200 Y Backstroke,SCY,W,45-49,2:59.90,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+FINM,50 Y Breaststroke,SCY,W,45-49,38.21,Nancy D Gravel,,Auburn Masters Invitational,2005,1
+CMAQ,50 Y Breaststroke,SCY,W,45-49,39.77,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+CRAQ,50 Y Breaststroke,SCY,W,45-49,57.69,Ann Walton,,Southern Masters Swimming SCY Champs,2005,3
+FINM,100 Y Breaststroke,SCY,W,45-49,1:23.61,Nancy D Gravel,,Auburn Masters Invitational,2005,1
+CMAQ,100 Y Breaststroke,SCY,W,45-49,1:26.81,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+CRAQ,100 Y Breaststroke,SCY,W,45-49,1:29.25,Ruth Niedrich,,Southern Masters Swimming SCY Champs,2005,3
+ES,100 Y Breaststroke,SCY,W,45-49,2:06.07,Anne W Nicolay,,Southern Masters Swimming SCY Champs,2005,4
+FINM,200 Y Breaststroke,SCY,W,45-49,3:00.67,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,200 Y Breaststroke,SCY,W,45-49,3:02.02,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+FINM,50 Y Butterfly,SCY,W,45-49,34.85,Nancy D Gravel,,Auburn Masters Invitational,2005,1
+CMAQ,50 Y Butterfly,SCY,W,45-49,35.66,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+CMAQ,100 Y Butterfly,SCY,W,45-49,1:23.71,Marion W Geissinger,,Auburn Masters Invitational,2005,1
+FINM,200 Y Butterfly,SCY,W,45-49,3:05.19,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Individual Medley,SCY,W,45-49,1:16.61,Nancy D Gravel,,Auburn Masters Invitational,2005,1
+CMAQ,100 Y Individual Medley,SCY,W,45-49,1:19.68,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+ES,100 Y Individual Medley,SCY,W,45-49,1:37.95,Cheryl A Lambert,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,200 Y Individual Medley,SCY,W,45-49,2:47.47,Marion W Geissinger,,Auburn Masters Invitational,2005,1
+FINM,200 Y Individual Medley,SCY,W,45-49,2:47.73,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,200 Y Individual Medley,SCY,W,45-49,2:57.93,Ruth Niedrich,,Southern Masters Swimming SCY Champs,2005,3
+FINM,400 Y Individual Medley,SCY,W,45-49,5:59.94,Nancy D Gravel,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,400 Y Individual Medley,SCY,W,45-49,6:02.25,Marion W Geissinger,,Auburn Masters Invitational,2005,2
+ES,100 Y Freestyle,SCY,W,50-54,1:18.22,Cecile Many,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Freestyle,SCY,W,50-54,1:18.24,Kay G Haddad,,Southern Masters Swimming SCY Champs,2005,2
+FINM,200 Y Freestyle,SCY,W,50-54,2:46.34,Kay G Haddad,,Auburn Masters Invitational,2005,1
+CRAQ,200 Y Freestyle,SCY,W,50-54,3:08.17,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,2
+FINM,500 Y Freestyle,SCY,W,50-54,7:16.66,Kay G Haddad,,Auburn Masters Invitational,2005,1
+CRAQ,500 Y Freestyle,SCY,W,50-54,8:08.03,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,2
+FINM,1650 Y Freestyle,SCY,W,50-54,24:37.65,Kay G Haddad,,Auburn Masters Invitational,2005,1
+CRAQ,50 Y Backstroke,SCY,W,50-54,42.91,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Backstroke,SCY,W,50-54,43.43,Cecile Many,,Southern Masters Swimming SCY Champs,2005,2
+FINM,50 Y Backstroke,SCY,W,50-54,44.39,Kay G Haddad,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,100 Y Backstroke,SCY,W,50-54,1:36.02,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Backstroke,SCY,W,50-54,3:27.90,Cecile Many,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,200 Y Backstroke,SCY,W,50-54,3:30.80,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Breaststroke,SCY,W,50-54,42.91,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Breaststroke,SCY,W,50-54,45.23,Kay G Haddad,,Auburn Masters Invitational,2005,2
+ES,50 Y Breaststroke,SCY,W,50-54,49.42,Cecile Many,,Southern Masters Swimming SCY Champs,2005,3
+CRAQ,100 Y Breaststroke,SCY,W,50-54,1:33.15,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Breaststroke,SCY,W,50-54,1:38.10,Kay G Haddad,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,200 Y Breaststroke,SCY,W,50-54,3:23.30,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Butterfly,SCY,W,50-54,38.39,Kay G Haddad,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Butterfly,SCY,W,50-54,1:27.22,Kay G Haddad,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Individual Medley,SCY,W,50-54,1:27.62,Kay G Haddad,,Auburn Masters Invitational,2005,1
+ES,100 Y Individual Medley,SCY,W,50-54,1:31.45,Cecile Many,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,100 Y Individual Medley,SCY,W,50-54,1:35.03,Rebecca B Nash,,Southern Masters Swimming SCY Champs,2005,3
+FINM,200 Y Individual Medley,SCY,W,50-54,3:06.85,Kay G Haddad,,Auburn Masters Invitational,2005,1
+ES,50 Y Freestyle,SCY,W,55-59,50.64,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,W,55-59,1:43.76,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Freestyle,SCY,W,55-59,3:21.46,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,500 Y Freestyle,SCY,W,55-59,8:57.01,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,1650 Y Freestyle,SCY,W,55-59,30:59.07,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Backstroke,SCY,W,55-59,1:00.29,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Backstroke,SCY,W,55-59,2:07.45,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Backstroke,SCY,W,55-59,4:07.34,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Breaststroke,SCY,W,55-59,1:05.89,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Breaststroke,SCY,W,55-59,2:16.80,Vicki Buccino,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,W,65-69,41.61,Barbara M Bower,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Freestyle,SCY,W,65-69,43.08,Beverly A Salvetti,,Auburn Masters Invitational,2005,2
+ES,100 Y Freestyle,SCY,W,65-69,1:21.83,Barbara M Bower,,2005 USMS Short Course Nationals,2005,1
+FINM,100 Y Freestyle,SCY,W,65-69,1:42.66,Beverly A Salvetti,,Auburn Masters Invitational,2005,2
+ES,200 Y Freestyle,SCY,W,65-69,2:56.74,Barbara M Bower,,2005 USMS Short Course Nationals,2005,1
+ES,500 Y Freestyle,SCY,W,65-69,7:53.39,Barbara M Bower,,2005 USMS Short Course Nationals,2005,1
+ES,1000 Y Freestyle,SCY,W,65-69,17:47.06,Barbara M Bower,,2005 USMS Short Course Nationals,2005,1
+ES,1650 Y Freestyle,SCY,W,65-69,26:43.18,Barbara M Bower,,2005 USMS Short Course Nationals,2005,1
+ES,50 Y Backstroke,SCY,W,65-69,49.81,Barbara M Bower,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Backstroke,SCY,W,65-69,54.76,Beverly A Salvetti,,Auburn Masters Invitational,2005,2
+ES,100 Y Backstroke,SCY,W,65-69,1:47.72,Barbara M Bower,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Backstroke,SCY,W,65-69,2:01.90,Beverly A Salvetti,,Auburn Masters Invitational,2005,2
+ES,200 Y Backstroke,SCY,W,65-69,3:33.38,Barbara M Bower,,2005 USMS Short Course Nationals,2005,1
+FINM,50 Y Breaststroke,SCY,W,65-69,52.25,Beverly A Salvetti,,Auburn Masters Invitational,2005,1
+ES,50 Y Breaststroke,SCY,W,65-69,59.64,Barbara M Bower,,Southern Masters Swimming SCY Champs,2005,2
+FINM,100 Y Breaststroke,SCY,W,65-69,1:57.10,Beverly A Salvetti,,Auburn Masters Invitational,2005,1
+ES,100 Y Breaststroke,SCY,W,65-69,2:15.38,Barbara M Bower,,Southern Masters Swimming SCY Champs,2005,2
+FINM,50 Y Butterfly,SCY,W,65-69,58.06,Beverly A Salvetti,,Auburn Masters Invitational,2005,1
+FINM,100 Y Individual Medley,SCY,W,65-69,1:56.37,Beverly A Salvetti,,Auburn Masters Invitational,2005,1
+ES,50 Y Freestyle,SCY,W,70-74,57.88,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,W,70-74,1:16.47,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,2
+ES,100 Y Freestyle,SCY,W,70-74,2:01.25,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,W,70-74,2:40.41,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,2
+ES,200 Y Freestyle,SCY,W,70-74,4:47.86,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Freestyle,SCY,W,70-74,6:04.49,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,2
+ES,500 Y Freestyle,SCY,W,70-74,11:34.46,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Backstroke,SCY,W,70-74,1:19.75,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Backstroke,SCY,W,70-74,1:41.58,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,2
+ES,100 Y Backstroke,SCY,W,70-74,2:54.05,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Backstroke,SCY,W,70-74,3:24.74,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,2
+ES,200 Y Backstroke,SCY,W,70-74,6:27.90,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Backstroke,SCY,W,70-74,7:11.91,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,2
+ES,50 Y Breaststroke,SCY,W,70-74,1:24.37,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Breaststroke,SCY,W,70-74,3:07.05,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Breaststroke,SCY,W,70-74,6:14.73,Betty N Russo,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Butterfly,SCY,W,70-74,2:12.11,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Individual Medley,SCY,W,70-74,3:33.34,Joyce P Constance,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Freestyle,SCY,M,18-24,23.57,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,50 Y Freestyle,SCY,M,18-24,23.87,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,50 Y Freestyle,SCY,M,18-24,24.65,Mark J Suplee,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Freestyle,SCY,M,18-24,48.94,Larry J Rapp,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Freestyle,SCY,M,18-24,50.30,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,100 Y Freestyle,SCY,M,18-24,53.73,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Freestyle,SCY,M,18-24,54.76,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,200 Y Freestyle,SCY,M,18-24,1:56.41,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,200 Y Freestyle,SCY,M,18-24,2:02.35,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,200 Y Freestyle,SCY,M,18-24,2:06.08,Kyota Suzuki,,Auburn Masters Invitational,2005,3
+BTAC,200 Y Freestyle,SCY,M,18-24,2:19.12,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,4
+CRAQ,500 Y Freestyle,SCY,M,18-24,5:18.10,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,500 Y Freestyle,SCY,M,18-24,5:31.73,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,500 Y Freestyle,SCY,M,18-24,5:55.98,Kyota Suzuki,,Auburn Masters Invitational,2005,3
+BTAC,1650 Y Freestyle,SCY,M,18-24,19:39.02,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Backstroke,SCY,M,18-24,27.17,Larry J Rapp,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Backstroke,SCY,M,18-24,28.98,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Backstroke,SCY,M,18-24,31.16,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Backstroke,SCY,M,18-24,1:01.82,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,200 Y Backstroke,SCY,M,18-24,2:38.63,Kyota Suzuki,,Auburn Masters Invitational,2005,1
+UNAT,50 Y Breaststroke,SCY,M,18-24,29.43,Kyota Suzuki,,Auburn Masters Invitational,2005,1
+BTAC,50 Y Breaststroke,SCY,M,18-24,29.91,Larry J Rapp,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,50 Y Breaststroke,SCY,M,18-24,31.19,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,50 Y Breaststroke,SCY,M,18-24,32.06,Mark J Suplee,,Southern Masters Swimming SCY Champs,2005,4
+UNAT,100 Y Breaststroke,SCY,M,18-24,1:03.20,Kyota Suzuki,,Auburn Masters Invitational,2005,1
+BTAC,100 Y Breaststroke,SCY,M,18-24,1:04.72,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,100 Y Breaststroke,SCY,M,18-24,1:11.29,Mark J Suplee,,Southern Masters Swimming SCY Champs,2005,3
+UNAT,200 Y Breaststroke,SCY,M,18-24,2:21.33,Kyota Suzuki,,Auburn Masters Invitational,2005,1
+BTAC,200 Y Breaststroke,SCY,M,18-24,2:35.62,Mark J Suplee,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,50 Y Butterfly,SCY,M,18-24,26.16,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Butterfly,SCY,M,18-24,26.66,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,50 Y Butterfly,SCY,M,18-24,27.68,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Butterfly,SCY,M,18-24,54.94,Larry J Rapp,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Butterfly,SCY,M,18-24,58.80,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,100 Y Butterfly,SCY,M,18-24,1:00.12,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,200 Y Butterfly,SCY,M,18-24,2:20.59,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,200 Y Butterfly,SCY,M,18-24,2:57.85,Kyota Suzuki,,Auburn Masters Invitational,2005,2
+BTAC,100 Y Individual Medley,SCY,M,18-24,57.54,Larry J Rapp,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Individual Medley,SCY,M,18-24,1:00.10,Karl M Lehmann,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,100 Y Individual Medley,SCY,M,18-24,1:00.52,Kyota Suzuki,,Auburn Masters Invitational,2005,3
+BTAC,100 Y Individual Medley,SCY,M,18-24,1:03.66,Mark J Suplee,,Southern Masters Swimming SCY Champs,2005,4
+BTAC,100 Y Individual Medley,SCY,M,18-24,1:04.38,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,5
+CRAQ,100 Y Individual Medley,SCY,M,18-24,1:07.21,Steven S Clifford,,Southern Masters Swimming SCY Champs,2005,6
+UNAT,200 Y Individual Medley,SCY,M,18-24,2:15.83,Kyota Suzuki,,Auburn Masters Invitational,2005,1
+BTAC,200 Y Individual Medley,SCY,M,18-24,2:17.57,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,400 Y Individual Medley,SCY,M,18-24,5:25.09,Kyota Suzuki,,Auburn Masters Invitational,2005,1
+BTAC,400 Y Individual Medley,SCY,M,18-24,5:55.46,Keith R Lachut,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,50 Y Freestyle,SCY,M,25-29,23.34,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Freestyle,SCY,M,25-29,28.68,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,50 Y Freestyle,SCY,M,25-29,30.12,Eugene H O'Donnell,,Auburn Masters Invitational,2005,3
+BTAC,100 Y Freestyle,SCY,M,25-29,51.61,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Freestyle,SCY,M,25-29,1:06.61,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Freestyle,SCY,M,25-29,1:08.42,Eugene H O'Donnell,,Auburn Masters Invitational,2005,3
+CMAQ,200 Y Freestyle,SCY,M,25-29,2:41.99,Eugene H O'Donnell,,Auburn Masters Invitational,2005,1
+FINM,200 Y Freestyle,SCY,M,25-29,2:43.92,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,500 Y Freestyle,SCY,M,25-29,7:15.66,Eugene H O'Donnell,,Auburn Masters Invitational,2005,1
+FINM,500 Y Freestyle,SCY,M,25-29,7:39.20,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,1650 Y Freestyle,SCY,M,25-29,25:57.66,Eugene H O'Donnell,,Auburn Masters Invitational,2005,1
+CRAQ,1650 Y Freestyle,SCY,M,25-29,27:43.51,Jeremy A Domingue,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,50 Y Backstroke,SCY,M,25-29,26.76,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Backstroke,SCY,M,25-29,44.06,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,100 Y Backstroke,SCY,M,25-29,57.10,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Backstroke,SCY,M,25-29,1:39.74,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,200 Y Backstroke,SCY,M,25-29,2:09.08,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Breaststroke,SCY,M,25-29,31.84,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Breaststroke,SCY,M,25-29,42.88,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,2
+FINM,100 Y Breaststroke,SCY,M,25-29,1:36.82,Jeffrey S Fooshee,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Butterfly,SCY,M,25-29,26.01,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Individual Medley,SCY,M,25-29,1:01.51,Geoffrey P Grice,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,M,30-34,22.95,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,M,30-34,28.48,Harper L Phillips,,2005 USMS Short Course Nationals,2005,2
+ES,100 Y Freestyle,SCY,M,30-34,50.57,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,M,30-34,1:01.93,Harper L Phillips,,2005 USMS Short Course Nationals,2005,2
+ES,200 Y Freestyle,SCY,M,30-34,1:57.16,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Freestyle,SCY,M,30-34,2:23.69,Harper L Phillips,,2005 USMS Short Course Nationals,2005,2
+ES,500 Y Freestyle,SCY,M,30-34,7:38.09,Harper L Phillips,,Southern Masters Swimming SCY Champs,2005,1
+ES,1650 Y Freestyle,SCY,M,30-34,23:19.80,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Breaststroke,SCY,M,30-34,29.76,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Breaststroke,SCY,M,30-34,1:06.41,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Butterfly,SCY,M,30-34,26.47,Rod R McClave,,Southern Masters Swimming SCY Champs,2005,1
+LMST,50 Y Freestyle,SCY,M,35-39,23.98,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,50 Y Freestyle,SCY,M,35-39,24.29,Harry W Durgin,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,100 Y Freestyle,SCY,M,35-39,51.69,Harry W Durgin,,Auburn Masters Invitational,2005,1
+LMST,100 Y Freestyle,SCY,M,35-39,54.89,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,200 Y Freestyle,SCY,M,35-39,1:56.07,Harry W Durgin,,Auburn Masters Invitational,2005,1
+LMST,500 Y Freestyle,SCY,M,35-39,6:10.36,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,50 Y Backstroke,SCY,M,35-39,30.56,Harry W Durgin,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,100 Y Backstroke,SCY,M,35-39,1:05.34,Harry W Durgin,,Auburn Masters Invitational,2005,1
+LMST,50 Y Breaststroke,SCY,M,35-39,31.68,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,50 Y Breaststroke,SCY,M,35-39,31.88,Harry W Durgin,,Auburn Masters Invitational,2005,2
+LMST,100 Y Breaststroke,SCY,M,35-39,1:11.78,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,50 Y Butterfly,SCY,M,35-39,26.35,Harry W Durgin,,Southern Masters Swimming SCY Champs,2005,1
+LMST,50 Y Butterfly,SCY,M,35-39,26.93,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,100 Y Butterfly,SCY,M,35-39,59.50,Harry W Durgin,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,100 Y Individual Medley,SCY,M,35-39,1:01.67,Harry W Durgin,,Auburn Masters Invitational,2005,1
+LMST,100 Y Individual Medley,SCY,M,35-39,1:05.26,Rob J Cambias,,Southern Masters Swimming SCY Champs,2005,2
+UNAT,200 Y Individual Medley,SCY,M,35-39,2:15.16,Harry W Durgin,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Freestyle,SCY,M,40-44,26.94,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Freestyle,SCY,M,40-44,27.79,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,50 Y Freestyle,SCY,M,40-44,29.09,Gregory A Symes,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,100 Y Freestyle,SCY,M,40-44,1:00.67,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Freestyle,SCY,M,40-44,1:03.10,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,2
+ES,200 Y Freestyle,SCY,M,40-44,1:51.68,Steven R Fisher,,2005 USMS Short Course Nationals,2005,1
+CMAQ,200 Y Freestyle,SCY,M,40-44,2:21.62,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,200 Y Freestyle,SCY,M,40-44,2:39.49,Gregory A Symes,,Southern Masters Swimming SCY Champs,2005,3
+ES,500 Y Freestyle,SCY,M,40-44,5:00.20,Steven R Fisher,,2005 USMS Short Course Nationals,2005,1
+CMAQ,500 Y Freestyle,SCY,M,40-44,7:02.39,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,500 Y Freestyle,SCY,M,40-44,7:30.55,Gregory A Symes,,Southern Masters Swimming SCY Champs,2005,3
+ES,1000 Y Freestyle,SCY,M,40-44,10:16.51,Steven R Fisher,,2005 USMS Short Course Nationals,2005,1
+ES,1650 Y Freestyle,SCY,M,40-44,17:56.34,Steven R Fisher,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,1650 Y Freestyle,SCY,M,40-44,24:42.56,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,50 Y Backstroke,SCY,M,40-44,35.17,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Backstroke,SCY,M,40-44,39.18,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Backstroke,SCY,M,40-44,1:17.68,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Breaststroke,SCY,M,40-44,37.06,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Breaststroke,SCY,M,40-44,1:22.71,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Butterfly,SCY,M,40-44,31.94,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Butterfly,SCY,M,40-44,35.34,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Butterfly,SCY,M,40-44,1:16.16,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Individual Medley,SCY,M,40-44,1:04.09,Steven R Fisher,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Individual Medley,SCY,M,40-44,1:10.87,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Individual Medley,SCY,M,40-44,1:15.56,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,3
+ES,200 Y Individual Medley,SCY,M,40-44,2:16.25,Steven R Fisher,,2005 USMS Short Course Nationals,2005,1
+CMAQ,200 Y Individual Medley,SCY,M,40-44,2:46.39,Harold T Goertz,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,200 Y Individual Medley,SCY,M,40-44,2:54.89,Alan P Branson,,Southern Masters Swimming SCY Champs,2005,3
+ES,400 Y Individual Medley,SCY,M,40-44,4:37.30,Steven R Fisher,,2005 USMS Short Course Nationals,2005,1
+CRAQ,50 Y Freestyle,SCY,M,45-49,26.88,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Freestyle,SCY,M,45-49,26.98,Gary M Smith,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,50 Y Freestyle,SCY,M,45-49,27.29,Bart G Delashmet,,Auburn Masters Invitational,2005,3
+ES,50 Y Freestyle,SCY,M,45-49,27.85,Daniel T Pancamo,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,50 Y Freestyle,SCY,M,45-49,28.31,Michael F Payment,,Auburn Masters Invitational,2005,5
+CRAQ,50 Y Freestyle,SCY,M,45-49,28.85,Keith D Landry,,Southern Masters Swimming SCY Champs,2005,6
+ES,50 Y Freestyle,SCY,M,45-49,30.09,Michael T Gray,,Southern Masters Swimming SCY Champs,2005,7
+CMAQ,100 Y Freestyle,SCY,M,45-49,59.10,Bart G Delashmet,,Auburn Masters Invitational,2005,1
+CRAQ,100 Y Freestyle,SCY,M,45-49,59.13,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,2
+ES,100 Y Freestyle,SCY,M,45-49,1:00.39,Michael J Morin,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Freestyle,SCY,M,45-49,1:03.26,Gary M Smith,,Southern Masters Swimming SCY Champs,2005,4
+FINM,100 Y Freestyle,SCY,M,45-49,1:06.46,Kyle C Wild,,Southern Masters Swimming SCY Champs,2005,5
+CMAQ,100 Y Freestyle,SCY,M,45-49,1:07.31,Michael F Payment,,Auburn Masters Invitational,2005,6
+FINM,100 Y Freestyle,SCY,M,45-49,1:13.84,Conrad Gardner,,Auburn Masters Invitational,2005,7
+BTAC,200 Y Freestyle,SCY,M,45-49,2:25.99,Gary M Smith,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Freestyle,SCY,M,45-49,2:27.02,Daniel T Pancamo,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,200 Y Freestyle,SCY,M,45-49,2:36.96,Michael F Payment,,Auburn Masters Invitational,2005,3
+FINM,200 Y Freestyle,SCY,M,45-49,2:53.35,Conrad Gardner,,Southern Masters Swimming SCY Champs,2005,4
+ES,200 Y Freestyle,SCY,M,45-49,3:02.33,Michael T Gray,,Southern Masters Swimming SCY Champs,2005,5
+CRAQ,500 Y Freestyle,SCY,M,45-49,5:50.52,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,500 Y Freestyle,SCY,M,45-49,7:25.89,Michael F Payment,,Auburn Masters Invitational,2005,2
+CRAQ,1650 Y Freestyle,SCY,M,45-49,19:49.04,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+ES,1650 Y Freestyle,SCY,M,45-49,21:02.75,Michael J Morin,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,1650 Y Freestyle,SCY,M,45-49,21:52.16,Timothy D Ratchford,,Southern Masters Swimming SCY Champs,2005,3
+FINM,1650 Y Freestyle,SCY,M,45-49,23:19.80,Kyle C Wild,,Southern Masters Swimming SCY Champs,2005,4
+BTAC,1650 Y Freestyle,SCY,M,45-49,26:51.28,Tim J Daigle,,Southern Masters Swimming SCY Champs,2005,5
+CRAQ,50 Y Backstroke,SCY,M,45-49,31.81,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Backstroke,SCY,M,45-49,35.11,Bart G Delashmet,,Auburn Masters Invitational,2005,2
+FINM,50 Y Backstroke,SCY,M,45-49,37.88,Kyle C Wild,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,50 Y Backstroke,SCY,M,45-49,39.97,Michael F Payment,,Auburn Masters Invitational,2005,4
+FINM,50 Y Backstroke,SCY,M,45-49,43.55,Conrad Gardner,,Auburn Masters Invitational,2005,5
+CRAQ,100 Y Backstroke,SCY,M,45-49,1:08.34,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Backstroke,SCY,M,45-49,1:16.72,Bart G Delashmet,,Auburn Masters Invitational,2005,2
+FINM,100 Y Backstroke,SCY,M,45-49,1:35.46,Conrad Gardner,,Auburn Masters Invitational,2005,3
+CRAQ,100 Y Backstroke,SCY,M,45-49,1:35.50,Keith D Landry,,Southern Masters Swimming SCY Champs,2005,4
+FINM,200 Y Backstroke,SCY,M,45-49,3:32.76,Conrad Gardner,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,50 Y Breaststroke,SCY,M,45-49,32.52,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Breaststroke,SCY,M,45-49,35.47,Michael J Morin,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,50 Y Breaststroke,SCY,M,45-49,35.65,Bart G Delashmet,,Auburn Masters Invitational,2005,3
+CMAQ,50 Y Breaststroke,SCY,M,45-49,38.32,Michael F Payment,,Auburn Masters Invitational,2005,4
+FINM,50 Y Breaststroke,SCY,M,45-49,45.64,Conrad Gardner,,Auburn Masters Invitational,2005,5
+CRAQ,100 Y Breaststroke,SCY,M,45-49,1:10.26,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Breaststroke,SCY,M,45-49,1:18.80,Daniel T Pancamo,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Breaststroke,SCY,M,45-49,1:20.05,Bart G Delashmet,,Auburn Masters Invitational,2005,3
+ES,100 Y Breaststroke,SCY,M,45-49,1:22.71,Michael T Gray,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,100 Y Breaststroke,SCY,M,45-49,1:25.48,Michael F Payment,,Auburn Masters Invitational,2005,5
+FINM,100 Y Breaststroke,SCY,M,45-49,1:37.75,Conrad Gardner,,Auburn Masters Invitational,2005,6
+ES,200 Y Breaststroke,SCY,M,45-49,2:46.78,Michael J Morin,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,200 Y Breaststroke,SCY,M,45-49,3:15.47,Michael F Payment,,Auburn Masters Invitational,2005,2
+FINM,200 Y Breaststroke,SCY,M,45-49,3:33.42,Conrad Gardner,,Auburn Masters Invitational,2005,3
+CRAQ,50 Y Butterfly,SCY,M,45-49,28.33,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Butterfly,SCY,M,45-49,29.18,Bart G Delashmet,,Auburn Masters Invitational,2005,2
+CMAQ,50 Y Butterfly,SCY,M,45-49,37.68,Michael F Payment,,Auburn Masters Invitational,2005,3
+FINM,50 Y Butterfly,SCY,M,45-49,40.94,Conrad Gardner,,Auburn Masters Invitational,2005,4
+CRAQ,100 Y Butterfly,SCY,M,45-49,1:12.00,Timothy D Ratchford,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Butterfly,SCY,M,45-49,1:38.96,Conrad Gardner,,Southern Masters Swimming SCY Champs,2005,2
+CRAQ,200 Y Butterfly,SCY,M,45-49,2:51.40,Timothy D Ratchford,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,100 Y Individual Medley,SCY,M,45-49,1:05.21,Ronald W Niedrich,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Individual Medley,SCY,M,45-49,1:10.12,Bart G Delashmet,,Auburn Masters Invitational,2005,2
+ES,100 Y Individual Medley,SCY,M,45-49,1:10.32,Michael J Morin,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,100 Y Individual Medley,SCY,M,45-49,1:18.57,Michael F Payment,,Auburn Masters Invitational,2005,4
+FINM,100 Y Individual Medley,SCY,M,45-49,1:30.32,Conrad Gardner,,Auburn Masters Invitational,2005,5
+CMAQ,200 Y Individual Medley,SCY,M,45-49,2:33.49,Bart G Delashmet,,Auburn Masters Invitational,2005,1
+ES,200 Y Individual Medley,SCY,M,45-49,2:40.57,Daniel T Pancamo,,Southern Masters Swimming SCY Champs,2005,2
+FINM,200 Y Individual Medley,SCY,M,45-49,3:18.73,Conrad Gardner,,Auburn Masters Invitational,2005,3
+CRAQ,400 Y Individual Medley,SCY,M,45-49,4:59.86,Timothy D Ratchford,,Southern Masters Swimming SCY Champs,2005,1
+FINM,400 Y Individual Medley,SCY,M,45-49,7:22.25,Conrad Gardner,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,50 Y Freestyle,SCY,M,50-54,26.35,John D Herlihy,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Freestyle,SCY,M,50-54,57.16,John D Herlihy,,Auburn Masters Invitational,2005,1
+ES,100 Y Freestyle,SCY,M,50-54,1:06.02,Robert M Hughes,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Freestyle,SCY,M,50-54,1:07.87,John D Wofford,,Auburn Masters Invitational,2005,3
+CMAQ,200 Y Freestyle,SCY,M,50-54,2:08.18,John D Herlihy,,Auburn Masters Invitational,2005,1
+CRAQ,200 Y Freestyle,SCY,M,50-54,2:12.14,George C Newport,,Southern Masters Swimming SCY Champs,2005,2
+LMST,200 Y Freestyle,SCY,M,50-54,2:35.77,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,500 Y Freestyle,SCY,M,50-54,5:47.21,John D Herlihy,,Auburn Masters Invitational,2005,1
+CRAQ,500 Y Freestyle,SCY,M,50-54,6:23.35,George C Newport,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,500 Y Freestyle,SCY,M,50-54,6:43.57,John D Wofford,,Auburn Masters Invitational,2005,3
+LMST,500 Y Freestyle,SCY,M,50-54,7:26.53,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,1650 Y Freestyle,SCY,M,50-54,19:45.09,John D Herlihy,,Auburn Masters Invitational,2005,1
+ES,1650 Y Freestyle,SCY,M,50-54,21:34.97,Robert M Hughes,,2005 USMS Short Course Nationals,2005,2
+CRAQ,1650 Y Freestyle,SCY,M,50-54,21:47.39,George C Newport,,Southern Masters Swimming SCY Champs,2005,3
+LMST,1650 Y Freestyle,SCY,M,50-54,25:55.68,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,4
+CMAQ,50 Y Backstroke,SCY,M,50-54,33.12,John D Herlihy,,Auburn Masters Invitational,2005,1
+CRAQ,200 Y Backstroke,SCY,M,50-54,2:42.66,George C Newport,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Breaststroke,SCY,M,50-54,36.37,John D Herlihy,,Auburn Masters Invitational,2005,1
+LMST,100 Y Breaststroke,SCY,M,50-54,1:21.69,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Breaststroke,SCY,M,50-54,1:26.64,John D Herlihy,,Southern Masters Swimming SCY Champs,2005,2
+LMST,200 Y Breaststroke,SCY,M,50-54,2:56.37,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,50 Y Butterfly,SCY,M,50-54,28.45,George C Newport,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Butterfly,SCY,M,50-54,29.00,Robert M Hughes,,2005 USMS Short Course Nationals,2005,2
+CMAQ,50 Y Butterfly,SCY,M,50-54,33.05,John D Wofford,,Auburn Masters Invitational,2005,3
+ES,100 Y Butterfly,SCY,M,50-54,1:04.85,Robert M Hughes,,2005 USMS Short Course Nationals,2005,1
+CRAQ,100 Y Butterfly,SCY,M,50-54,1:07.86,George C Newport,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,100 Y Butterfly,SCY,M,50-54,1:12.38,John D Herlihy,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,100 Y Butterfly,SCY,M,50-54,1:22.93,John D Wofford,,Auburn Masters Invitational,2005,4
+LMST,100 Y Butterfly,SCY,M,50-54,1:27.13,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,5
+LMST,200 Y Butterfly,SCY,M,50-54,3:26.63,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Individual Medley,SCY,M,50-54,1:08.00,Robert M Hughes,,2005 USMS Short Course Nationals,2005,1
+CMAQ,100 Y Individual Medley,SCY,M,50-54,1:08.97,John D Herlihy,,Southern Masters Swimming SCY Champs,2005,2
+LMST,100 Y Individual Medley,SCY,M,50-54,1:17.62,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,3
+ES,200 Y Individual Medley,SCY,M,50-54,2:27.57,Robert M Hughes,,2005 USMS Short Course Nationals,2005,1
+CRAQ,200 Y Individual Medley,SCY,M,50-54,2:34.74,George C Newport,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,200 Y Individual Medley,SCY,M,50-54,2:36.09,John D Herlihy,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,200 Y Individual Medley,SCY,M,50-54,2:59.49,John D Wofford,,Auburn Masters Invitational,2005,4
+LMST,200 Y Individual Medley,SCY,M,50-54,2:59.96,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,5
+CMAQ,400 Y Individual Medley,SCY,M,50-54,5:30.81,John D Herlihy,,Southern Masters Swimming SCY Champs,2005,1
+CRAQ,400 Y Individual Medley,SCY,M,50-54,5:41.04,George C Newport,,Southern Masters Swimming SCY Champs,2005,2
+ES,400 Y Individual Medley,SCY,M,50-54,5:45.55,Robert M Hughes,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,400 Y Individual Medley,SCY,M,50-54,6:01.52,John D Wofford,,Auburn Masters Invitational,2005,4
+LMST,400 Y Individual Medley,SCY,M,50-54,6:20.14,R Baker Kearfott,,Southern Masters Swimming SCY Champs,2005,5
+BTAC,50 Y Freestyle,SCY,M,55-59,25.08,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+UNAT,50 Y Freestyle,SCY,M,55-59,28.68,Roger W Glass,,2005 USMS Short Course Nationals,2005,2
+BTAC,100 Y Freestyle,SCY,M,55-59,54.30,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,M,55-59,1:09.59,Ed O'Brien,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,200 Y Freestyle,SCY,M,55-59,2:01.29,Steven Heck,,Savannah Masters Spring Meet,2005,1
+BTAC,500 Y Freestyle,SCY,M,55-59,5:43.42,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Backstroke,SCY,M,55-59,30.01,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Backstroke,SCY,M,55-59,35.58,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+ES,50 Y Backstroke,SCY,M,55-59,36.63,Ed O'Brien,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Backstroke,SCY,M,55-59,1:05.21,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Backstroke,SCY,M,55-59,1:16.11,Gerald McWhorter,,Southern Masters Swimming SCY Champs,2005,2
+BTAC,200 Y Backstroke,SCY,M,55-59,2:28.05,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,200 Y Backstroke,SCY,M,55-59,2:47.09,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+ES,200 Y Backstroke,SCY,M,55-59,3:08.01,Ed O'Brien,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,50 Y Breaststroke,SCY,M,55-59,32.50,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Breaststroke,SCY,M,55-59,35.44,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+BTAC,100 Y Breaststroke,SCY,M,55-59,1:11.16,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Breaststroke,SCY,M,55-59,1:19.05,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+BTAC,200 Y Breaststroke,SCY,M,55-59,2:31.57,Steven Heck,,Savannah Masters Spring Meet,2005,1
+CMAQ,200 Y Breaststroke,SCY,M,55-59,2:54.64,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+BTAC,50 Y Butterfly,SCY,M,55-59,26.90,Steven Heck,,Savannah Masters Spring Meet,2005,1
+UNAT,50 Y Butterfly,SCY,M,55-59,33.44,Roger W Glass,,2005 USMS Short Course Nationals,2005,2
+CMAQ,50 Y Butterfly,SCY,M,55-59,37.85,Gerald McWhorter,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,100 Y Butterfly,SCY,M,55-59,1:02.42,Steven V Heck,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,100 Y Butterfly,SCY,M,55-59,1:27.22,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+BTAC,100 Y Individual Medley,SCY,M,55-59,1:02.17,Steven Heck,,Savannah Masters Spring Meet,2005,1
+CMAQ,100 Y Individual Medley,SCY,M,55-59,1:13.52,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+ES,100 Y Individual Medley,SCY,M,55-59,1:20.61,Ed O'Brien,,Southern Masters Swimming SCY Champs,2005,3
+BTAC,200 Y Individual Medley,SCY,M,55-59,2:16.23,Steven Heck,,Savannah Masters Spring Meet,2005,1
+CMAQ,200 Y Individual Medley,SCY,M,55-59,2:46.35,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+BTAC,400 Y Individual Medley,SCY,M,55-59,4:58.83,Steven Heck,,Savannah Masters Spring Meet,2005,1
+CMAQ,400 Y Individual Medley,SCY,M,55-59,6:09.33,Gerald W McWhorter,,Auburn Masters Invitational,2005,2
+BTAC,50 Y Freestyle,SCY,M,60-64,32.44,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Freestyle,SCY,M,60-64,1:15.55,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,200 Y Freestyle,SCY,M,60-64,3:08.74,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,500 Y Freestyle,SCY,M,60-64,8:21.06,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Backstroke,SCY,M,60-64,46.23,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Breaststroke,SCY,M,60-64,43.24,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Breaststroke,SCY,M,60-64,1:35.78,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,200 Y Breaststroke,SCY,M,60-64,3:30.80,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,50 Y Butterfly,SCY,M,60-64,47.08,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+BTAC,100 Y Individual Medley,SCY,M,60-64,1:30.99,Paul H Templet,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Freestyle,SCY,M,65-69,1:15.42,Robert A Sigerson,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Freestyle,SCY,M,65-69,3:33.95,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Backstroke,SCY,M,65-69,45.61,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Backstroke,SCY,M,65-69,1:44.30,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Backstroke,SCY,M,65-69,3:34.57,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Breaststroke,SCY,M,65-69,44.87,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+FINM,50 Y Breaststroke,SCY,M,65-69,45.76,Robert A Sigerson,,Southern Masters Swimming SCY Champs,2005,2
+ES,100 Y Breaststroke,SCY,M,65-69,1:41.22,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Breaststroke,SCY,M,65-69,3:34.16,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+FINM,200 Y Breaststroke,SCY,M,65-69,4:02.38,Robert A Sigerson,,Southern Masters Swimming SCY Champs,2005,2
+ES,50 Y Butterfly,SCY,M,65-69,47.74,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+FINM,100 Y Individual Medley,SCY,M,65-69,1:41.14,Robert A Sigerson,,Southern Masters Swimming SCY Champs,2005,1
+ES,200 Y Individual Medley,SCY,M,65-69,3:40.61,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,400 Y Individual Medley,SCY,M,65-69,7:43.20,Bill A Jennings,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,M,70-74,31.43,Dick Bower,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Freestyle,SCY,M,70-74,32.13,Myron W Lockey,,2005 USMS Short Course Nationals,2005,2
+FINM,50 Y Freestyle,SCY,M,70-74,35.48,Eugene L Ferris,,Southern Masters Swimming SCY Champs,2005,3
+ES,100 Y Freestyle,SCY,M,70-74,1:13.09,Dick Bower,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,200 Y Freestyle,SCY,M,70-74,2:46.08,Myron W Lockey,,2005 USMS Short Course Nationals,2005,1
+ES,200 Y Freestyle,SCY,M,70-74,3:02.71,Dick Bower,,Southern Masters Swimming SCY Champs,2005,2
+ES,500 Y Freestyle,SCY,M,70-74,8:05.98,Dick Bower,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,1000 Y Freestyle,SCY,M,70-74,15:07.50,Myron W Lockey,,2005 USMS Short Course Nationals,2005,1
+ES,50 Y Backstroke,SCY,M,70-74,45.71,Dick Bower,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Backstroke,SCY,M,70-74,1:37.45,Dick Bower,,Southern Masters Swimming SCY Champs,2005,1
+CMAQ,50 Y Breaststroke,SCY,M,70-74,38.79,Myron W Lockey,,2005 USMS Short Course Nationals,2005,1
+ES,50 Y Breaststroke,SCY,M,70-74,45.56,Dick Bower,,Southern Masters Swimming SCY Champs,2005,2
+FINM,50 Y Breaststroke,SCY,M,70-74,1:00.07,Eugene L Ferris,,Southern Masters Swimming SCY Champs,2005,3
+CMAQ,100 Y Breaststroke,SCY,M,70-74,1:31.73,Myron W Lockey,,2005 USMS Short Course Nationals,2005,1
+ES,100 Y Breaststroke,SCY,M,70-74,1:48.90,Dick Bower,,Southern Masters Swimming SCY Champs,2005,2
+CMAQ,200 Y Breaststroke,SCY,M,70-74,3:26.72,Myron W Lockey,,2005 USMS Short Course Nationals,2005,1
+ES,200 Y Breaststroke,SCY,M,70-74,3:48.38,Dick Bower,,Southern Masters Swimming SCY Champs,2005,2
+ES,100 Y Individual Medley,SCY,M,70-74,1:43.82,Dick Bower,,Southern Masters Swimming SCY Champs,2005,1
+ES,50 Y Freestyle,SCY,M,75-79,31.49,Dick Bower,,2005 USMS Short Course Nationals,2005,1
+ES,100 Y Freestyle,SCY,M,75-79,1:13.24,Dick Bower,,2005 USMS Short Course Nationals,2005,1
+ES,200 Y Freestyle,SCY,M,75-79,2:51.35,Dick Bower,,2005 USMS Short Course Nationals,2005,1
+ES,500 Y Freestyle,SCY,M,75-79,8:22.62,Dick Bower,,2005 USMS Short Course Nationals,2005,1
+ES,1000 Y Freestyle,SCY,M,75-79,17:48.15,Dick Bower,,2005 USMS Short Course Nationals,2005,1
+ES,50 Y Backstroke,SCY,M,75-79,41.32,Dick Bower,,2005 USMS Short Course Nationals,2005,1
+ES,50 Y Freestyle,SCY,M,85-89,1:00.32,Maurice M Stern,,Southern Masters Swimming SCY Champs,2005,1
+ES,100 Y Freestyle,SCY,M,85-89,2:21.98,Maurice M Stern,,Southern Masters Swimming SCY Champs,2005,1

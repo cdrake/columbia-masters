@@ -1,0 +1,618 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CNSA,50 M Freestyle,SCM,W,18-24,27.88,Jamie C Saffer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,50 M Freestyle,SCM,W,18-24,30.53,Amanda M Culpepper,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+HSAM,100 M Freestyle,SCM,W,18-24,1:08.02,Amanda M Culpepper,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,50 M Backstroke,SCM,W,18-24,37.08,Amanda M Culpepper,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+CNSA,50 M Breaststroke,SCM,W,18-24,35.94,Jamie C Saffer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+CNSA,100 M Breaststroke,SCM,W,18-24,1:17.77,Jamie C Saffer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,100 M Butterfly,SCM,W,18-24,1:20.91,Amanda M Culpepper,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+CNSA,100 M Individual Medley,SCM,W,18-24,1:08.53,Jamie C Saffer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,100 M Individual Medley,SCM,W,18-24,1:21.00,Amanda M Culpepper,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,W,25-29,1:04.28,Emily S Parker,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,200 M Freestyle,SCM,W,25-29,2:14.27,Emily S Parker,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Freestyle,SCM,W,25-29,2:28.85,Dannelly W Brown,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,400 M Freestyle,SCM,W,25-29,4:38.27,Emily S Parker,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,W,25-29,9:33.94,Emily S Parker,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,W,25-29,12:17.99,Heidi M Amundson,,SPMS Short Course Meters Championships,2012,2
+SDSM,1500 M Freestyle,SCM,W,25-29,18:07.62,Emily S Parker,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,25-29,24:01.52,Heidi M Amundson,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Backstroke,SCM,W,25-29,35.95,Dannelly W Brown,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,W,25-29,1:13.27,Emily S Parker,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Backstroke,SCM,W,25-29,1:17.55,Dannelly W Brown,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Backstroke,SCM,W,25-29,2:52.59,Heidi M Amundson,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,W,25-29,1:18.31,Erin J Hunter,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Breaststroke,SCM,W,25-29,2:46.56,Erin J Hunter,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,25-29,33.95,Dannelly W Brown,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Butterfly,SCM,W,25-29,34.37,Heidi M Amundson,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Butterfly,SCM,W,25-29,1:10.74,Erin J Hunter,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Butterfly,SCM,W,25-29,1:15.96,Dannelly W Brown,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Butterfly,SCM,W,25-29,2:35.08,Erin J Hunter,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,W,25-29,1:11.92,Erin J Hunter,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,W,25-29,1:18.81,Dannelly W Brown,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Individual Medley,SCM,W,25-29,1:18.90,Heidi M Amundson,,SPMS Short Course Meters Championships,2012,3
+SDSM,200 M Individual Medley,SCM,W,25-29,2:30.39,Emily S Parker,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Individual Medley,SCM,W,25-29,2:49.55,Dannelly W Brown,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,400 M Individual Medley,SCM,W,25-29,5:13.49,Erin J Hunter,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Individual Medley,SCM,W,25-29,5:22.54,Emily S Parker,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,W,30-34,29.87,Kristen Maples,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,W,30-34,30.36,Kendra Ksiazek,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,W,30-34,31.36,Jacqueline D Edelman,,SPMS Short Course Meters Championships,2012,3
+HSAM,50 M Freestyle,SCM,W,30-34,31.57,Donna Pilkington,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,50 M Freestyle,SCM,W,30-34,31.89,Cheryl G Ramancionis,,SPMS Short Course Meters Championships,2012,5
+SDSM,50 M Freestyle,SCM,W,30-34,32.91,Sarah J Bixler,,SPMS Short Course Meters Championships,2012,6
+SDSM,100 M Freestyle,SCM,W,30-34,1:03.56,Kendra Ksiazek,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Freestyle,SCM,W,30-34,1:06.39,Kristen Maples,,SPMS Short Course Meters Championships,2012,2
+HSAM,100 M Freestyle,SCM,W,30-34,1:09.86,Donna Pilkington,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Freestyle,SCM,W,30-34,2:15.34,Kendra Ksiazek,,SPMS Short Course Meters Championships,2012,1
+HSAM,200 M Freestyle,SCM,W,30-34,2:45.52,Christine Spicer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,400 M Freestyle,SCM,W,30-34,5:21.63,Cheryl G Ramancionis,,SPMS Short Course Meters Championships,2012,1
+HSAM,400 M Freestyle,SCM,W,30-34,5:50.16,Christine Spicer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,1500 M Freestyle,SCM,W,30-34,22:43.84,Catherine J Moyer,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,30-34,33.51,Kristen Maples,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,30-34,37.14,Sarah J Bixler,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Backstroke,SCM,W,30-34,38.08,Catherine J Moyer,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Backstroke,SCM,W,30-34,1:18.59,Sarah J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,W,30-34,1:23.09,Shannon M Welter,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Backstroke,SCM,W,30-34,1:23.74,Catherine J Moyer,,SPMS Short Course Meters Championships,2012,3
+SDSM,200 M Backstroke,SCM,W,30-34,2:55.71,Sarah J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,W,30-34,3:08.20,Catherine J Moyer,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,W,30-34,41.36,Kristen Maples,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,W,30-34,1:23.11,Kendra Ksiazek,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,W,30-34,1:29.62,Jacqueline D Edelman,,SPMS Short Course Meters Championships,2012,2
+HSAM,100 M Breaststroke,SCM,W,30-34,1:34.97,Donna Pilkington,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Breaststroke,SCM,W,30-34,2:57.73,Kendra Ksiazek,,SPMS Short Course Meters Championships,2012,1
+HSAM,200 M Breaststroke,SCM,W,30-34,3:30.02,Christine Spicer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Butterfly,SCM,W,30-34,31.19,Kristen Maples,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,30-34,34.17,Catherine J Moyer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Butterfly,SCM,W,30-34,35.08,Jacqueline D Edelman,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Butterfly,SCM,W,30-34,1:19.66,Catherine J Moyer,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Butterfly,SCM,W,30-34,1:20.60,Jacqueline D Edelman,,SPMS Short Course Meters Championships,2012,2
+HSAM,100 M Butterfly,SCM,W,30-34,1:27.04,Donna Pilkington,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Individual Medley,SCM,W,30-34,1:13.53,Kristen Maples,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,W,30-34,1:13.94,Kendra Ksiazek,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Individual Medley,SCM,W,30-34,1:20.50,Jacqueline D Edelman,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Individual Medley,SCM,W,30-34,1:21.15,Sarah J Bixler,,SPMS Short Course Meters Championships,2012,4
+SDSM,200 M Individual Medley,SCM,W,30-34,2:38.86,Kendra Ksiazek,,SPMS Short Course Meters Championships,2012,1
+HSAM,200 M Individual Medley,SCM,W,30-34,3:03.46,Donna Pilkington,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,400 M Individual Medley,SCM,W,30-34,5:46.52,Kendra Ksiazek,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,400 M Individual Medley,SCM,W,30-34,6:15.89,Jacqueline D Edelman,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,W,35-39,27.70,Alison N Terry,,SPMS Short Course Meters Championships,2012,1
+CNSA,50 M Freestyle,SCM,W,35-39,30.71,Hilliary G Thompson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+HSAM,50 M Freestyle,SCM,W,35-39,33.42,Carrie N Morgan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,50 M Freestyle,SCM,W,35-39,33.82,Jennifer S Files,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+UNAT,50 M Freestyle,SCM,W,35-39,39.42,Mary Lynne Hasty,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,5
+HSAM,100 M Freestyle,SCM,W,35-39,1:14.44,Carrie N Morgan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Freestyle,SCM,W,35-39,1:19.03,Jennifer S Files,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+UNAT,100 M Freestyle,SCM,W,35-39,1:31.39,Mary Lynne Hasty,,2012 UCLA Bruin Masters SCM Meet,2012,3
+HSAM,200 M Freestyle,SCM,W,35-39,2:42.62,Carrie N Morgan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Freestyle,SCM,W,35-39,2:56.72,Jennifer S Files,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+UNAT,200 M Freestyle,SCM,W,35-39,3:13.57,Mary Lynne Hasty,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,800 M Freestyle,SCM,W,35-39,11:17.67,Kristina M Maroudis,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,35-39,21:17.03,Kristina M Maroudis,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+CNSA,50 M Backstroke,SCM,W,35-39,33.48,Hilliary G Thompson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+UNAT,50 M Backstroke,SCM,W,35-39,45.04,Mary Lynne Hasty,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Backstroke,SCM,W,35-39,1:10.54,Alison N Terry,,SPMS Short Course Meters Championships,2012,1
+CNSA,100 M Backstroke,SCM,W,35-39,1:11.34,Hilliary G Thompson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Backstroke,SCM,W,35-39,1:18.17,Kristina M Maroudis,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Backstroke,SCM,W,35-39,1:36.20,Jennifer S Files,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+UNAT,100 M Backstroke,SCM,W,35-39,1:40.45,Mary Lynne Hasty,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,5
+SDSM,200 M Backstroke,SCM,W,35-39,2:45.28,Kristina M Maroudis,,SPMS Short Course Meters Championships,2012,1
+UNAT,50 M Breaststroke,SCM,W,35-39,52.85,Mary Lynne Hasty,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Breaststroke,SCM,W,35-39,1:28.92,Alison N Terry,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,35-39,29.90,Alison N Terry,,SPMS Short Course Meters Championships,2012,1
+HSAM,50 M Butterfly,SCM,W,35-39,38.40,Carrie N Morgan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Butterfly,SCM,W,35-39,1:24.25,Kristina M Maroudis,,SPMS Short Course Meters Championships,2012,1
+CNSA,100 M Individual Medley,SCM,W,35-39,1:15.48,Hilliary G Thompson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,W,35-39,1:16.10,Kristina M Maroudis,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Individual Medley,SCM,W,35-39,1:36.08,Jennifer S Files,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,400 M Individual Medley,SCM,W,35-39,5:53.70,Alison N Terry,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Individual Medley,SCM,W,35-39,5:58.44,Kristina M Maroudis,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,W,40-44,32.34,Lara Paul,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,40-44,34.50,Tracey McIlwaine,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Freestyle,SCM,W,40-44,1:18.62,Tracey McIlwaine,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Freestyle,SCM,W,40-44,2:54.06,Tracey McIlwaine,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,W,40-44,12:47.19,Tracey McIlwaine,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,40-44,20:25.01,Lara Paul,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,40-44,25:15.50,Tracey McIlwaine,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Backstroke,SCM,W,40-44,34.01,Lara Paul,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,40-44,42.44,Tracey McIlwaine,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Backstroke,SCM,W,40-44,1:15.49,Lara Paul,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,W,40-44,2:42.48,Lara Paul,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,40-44,33.56,Lara Paul,,SPMS Short Course Meters Championships,2012,1
+HSAM,200 M Butterfly,SCM,W,40-44,3:02.28,Nancy A North,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,W,40-44,1:18.99,Lara Paul,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,45-49,30.23,Jasmine Stiles,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,W,45-49,31.70,Linda K Rudolf,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,W,45-49,33.20,Irene T Damsky,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Freestyle,SCM,W,45-49,1:05.82,Jasmine Stiles,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Freestyle,SCM,W,45-49,1:08.95,Irene T Damsky,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,W,45-49,1:14.04,Maria A Salas,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Freestyle,SCM,W,45-49,1:19.53,Robin M Renshaw,,Mission Viejo Nadadores SCM Swim Meet,2012,4
+SDSM,200 M Freestyle,SCM,W,45-49,2:24.99,Irene T Damsky,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Freestyle,SCM,W,45-49,2:43.02,Michella M Thomas,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Freestyle,SCM,W,45-49,5:26.66,Linda K Rudolf,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,45-49,20:27.85,Jasmine Stiles,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,45-49,24:31.18,Terrie A Dosenberry,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Backstroke,SCM,W,45-49,37.39,Irene T Damsky,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,45-49,39.81,Terrie A Dosenberry,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Backstroke,SCM,W,45-49,1:17.13,Linda K Rudolf,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,W,45-49,1:20.12,Irene T Damsky,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,W,45-49,40.08,Jasmine Stiles,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Breaststroke,SCM,W,45-49,44.04,Terrie A Dosenberry,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Breaststroke,SCM,W,45-49,44.87,Robin M Renshaw,,Mission Viejo Nadadores SCM Swim Meet,2012,3
+SDSM,50 M Breaststroke,SCM,W,45-49,45.73,Lisa Crosbie,,SPMS Short Course Meters Championships,2012,4
+SDSM,50 M Breaststroke,SCM,W,45-49,45.75,Michella M Thomas,,SPMS Short Course Meters Championships,2012,5
+SDSM,100 M Breaststroke,SCM,W,45-49,1:26.60,Jasmine Stiles,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Breaststroke,SCM,W,45-49,3:09.08,Jasmine Stiles,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,45-49,34.85,Linda K Rudolf,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,45-49,35.34,Irene T Damsky,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Butterfly,SCM,W,45-49,36.56,Maria A Salas,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Butterfly,SCM,W,45-49,37.32,Michella M Thomas,,SPMS Short Course Meters Championships,2012,4
+SDSM,100 M Butterfly,SCM,W,45-49,1:27.66,Maria A Salas,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Butterfly,SCM,W,45-49,3:08.08,Michella M Thomas,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Butterfly,SCM,W,45-49,3:15.14,Maria A Salas,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,100 M Individual Medley,SCM,W,45-49,1:23.51,Michella M Thomas,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,W,45-49,1:27.89,Lisa Crosbie,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Individual Medley,SCM,W,45-49,6:33.54,Michella M Thomas,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,50-54,31.74,Claudia Ettelson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,50-54,38.43,Marieke Thayer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,W,50-54,1:18.95,Marieke Thayer,,2012 UCLA Bruin Masters SCM Meet,2012,1
+UNAT,200 M Freestyle,SCM,W,50-54,2:13.58,Karlyn Pipes-Neilsen,,Maui Winter SCM-,2012,1
+SDSM,200 M Freestyle,SCM,W,50-54,3:02.52,Marieke Thayer,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Freestyle,SCM,W,50-54,5:42.06,Marieke Thayer,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,W,50-54,11:51.62,Marieke Thayer,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,50-54,21:59.67,Marieke Thayer,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,50-54,36.27,Claudia Ettelson,,SPMS Short Course Meters Championships,2012,1
+UNAT,100 M Backstroke,SCM,W,50-54,1:09.34,Karlyn Pipes,,2012 New England LMSC Short Course Meters Championship,2012,1
+SDSM,100 M Backstroke,SCM,W,50-54,1:19.04,Claudia Ettelson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Backstroke,SCM,W,50-54,1:38.81,Marieke Thayer,,2012 UCLA Bruin Masters SCM Meet,2012,3
+UNAT,200 M Backstroke,SCM,W,50-54,2:28.22,Karlyn Pipes,,2012 New England LMSC Short Course Meters Championship,2012,1
+SDSM,200 M Backstroke,SCM,W,50-54,2:47.93,Claudia Ettelson,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Backstroke,SCM,W,50-54,3:18.01,Marieke Thayer,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Breaststroke,SCM,W,50-54,54.41,Marieke Thayer,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,100 M Breaststroke,SCM,W,50-54,1:53.98,Marieke Thayer,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Breaststroke,SCM,W,50-54,3:58.90,Marieke Thayer,,SPMS Short Course Meters Championships,2012,1
+UNAT,100 M Butterfly,SCM,W,50-54,1:08.09,Karlyn Pipes-Neilsen,,Maui Winter SCM-,2012,1
+UNAT,200 M Butterfly,SCM,W,50-54,2:32.29,Karlyn Pipes,,2012 New England LMSC Short Course Meters Championship,2012,1
+UNAT,100 M Individual Medley,SCM,W,50-54,1:09.68,Karlyn Pipes-Neilsen,,Maui Winter SCM-,2012,1
+SDSM,100 M Individual Medley,SCM,W,50-54,1:19.28,Claudia Ettelson,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Individual Medley,SCM,W,50-54,1:35.35,Marieke Thayer,,Mission Viejo Nadadores SCM Swim Meet,2012,3
+UNAT,200 M Individual Medley,SCM,W,50-54,2:30.63,Karlyn Pipes,,2012 New England LMSC Short Course Meters Championship,2012,1
+SDSM,200 M Individual Medley,SCM,W,50-54,3:18.91,Marieke Thayer,,2012 UCLA Bruin Masters SCM Meet,2012,2
+SDSM,50 M Freestyle,SCM,W,55-59,32.53,Marilyn A Fink,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,55-59,35.36,Lolita V Veloso,,Huntsman World Senior Games,2012,2
+SDSM,50 M Freestyle,SCM,W,55-59,41.50,Leslie Frankenberger,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Freestyle,SCM,W,55-59,1:13.93,Marilyn A Fink,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Freestyle,SCM,W,55-59,1:20.48,Lolita V Veloso,,Huntsman World Senior Games,2012,2
+SDSM,400 M Freestyle,SCM,W,55-59,7:16.99,Leslie Frankenberger,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,55-59,37.92,Marilyn A Fink,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Backstroke,SCM,W,55-59,42.17,Lolita V Veloso,,Huntsman World Senior Games,2012,2
+SDSM,100 M Backstroke,SCM,W,55-59,1:23.62,Marilyn A Fink,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Backstroke,SCM,W,55-59,1:37.76,Lolita V Veloso,,6th Annual MAAC Summer SCM,2012,2
+SDSM,100 M Backstroke,SCM,W,55-59,1:47.79,Leslie Frankenberger,,SPMS Short Course Meters Championships,2012,3
+SDSM,200 M Backstroke,SCM,W,55-59,3:33.95,Lolita V Veloso,,Huntsman World Senior Games,2012,1
+SDSM,100 M Breaststroke,SCM,W,55-59,1:52.66,Leslie Frankenberger,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,55-59,41.40,Lolita V Veloso,,Huntsman World Senior Games,2012,1
+SDSM,100 M Individual Medley,SCM,W,55-59,1:33.75,Lolita V Veloso,,Huntsman World Senior Games,2012,1
+SDSM,200 M Individual Medley,SCM,W,55-59,3:36.10,Lolita V Veloso,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,W,60-64,36.74,Deborah Raboin,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,60-64,39.33,Gini M Baker,,Huntsman World Senior Games,2012,2
+SDSM,50 M Freestyle,SCM,W,60-64,1:01.27,Pam Amundson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Freestyle,SCM,W,60-64,1:26.14,Deborah Raboin,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Freestyle,SCM,W,60-64,1:31.58,Gini M Baker,,Huntsman World Senior Games,2012,2
+SDSM,100 M Freestyle,SCM,W,60-64,2:19.61,Pam Amundson,,SPMS Short Course Meters Championships,2012,3
+SDSM,200 M Freestyle,SCM,W,60-64,3:21.64,Alta F Stengel,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Freestyle,SCM,W,60-64,3:25.03,Gini M Baker,,Huntsman World Senior Games,2012,2
+SDSM,400 M Freestyle,SCM,W,60-64,6:51.24,Alta F Stengel,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Freestyle,SCM,W,60-64,7:17.23,Gini M Baker,,Huntsman World Senior Games,2012,2
+SDSM,800 M Freestyle,SCM,W,60-64,13:49.37,Alta F Stengel,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,W,60-64,14:47.81,Gini M Baker,,Huntsman World Senior Games,2012,2
+SDSM,800 M Freestyle,SCM,W,60-64,17:11.97,Liliane Cardinal,,SPMS Short Course Meters Championships,2012,3
+SDSM,800 M Freestyle,SCM,W,60-64,18:56.72,Linda J Cervantes,,SPMS Short Course Meters Championships,2012,4
+SDSM,1500 M Freestyle,SCM,W,60-64,26:03.73,Alta F Stengel,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,60-64,28:05.21,Gini M Baker,,SPMS Short Course Meters Championships,2012,2
+SDSM,1500 M Freestyle,SCM,W,60-64,32:53.02,Liliane Cardinal,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Backstroke,SCM,W,60-64,47.26,Alta F Stengel,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Backstroke,SCM,W,60-64,1:05.82,Liliane Cardinal,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Backstroke,SCM,W,60-64,1:43.47,Alta F Stengel,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,200 M Backstroke,SCM,W,60-64,3:39.32,Alta F Stengel,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Breaststroke,SCM,W,60-64,49.49,Deborah Raboin,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Breaststroke,SCM,W,60-64,57.04,Gini M Baker,,Huntsman World Senior Games,2012,2
+SDSM,50 M Breaststroke,SCM,W,60-64,59.45,Diane M Hirakawa,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Breaststroke,SCM,W,60-64,1:14.04,Pam Amundson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,100 M Breaststroke,SCM,W,60-64,2:13.10,Diane M Hirakawa,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,W,60-64,2:37.61,Pam Amundson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Breaststroke,SCM,W,60-64,4:39.62,Gini M Baker,,Huntsman World Senior Games,2012,1
+SDSM,200 M Breaststroke,SCM,W,60-64,4:50.95,Diane M Hirakawa,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Butterfly,SCM,W,60-64,39.24,Barbara G Dunbar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Butterfly,SCM,W,60-64,46.31,Alta F Stengel,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Butterfly,SCM,W,60-64,51.02,Deborah Raboin,,Mission Viejo Nadadores SCM Swim Meet,2012,3
+SDSM,50 M Butterfly,SCM,W,60-64,53.94,Diane M Hirakawa,,SPMS Short Course Meters Championships,2012,4
+SDSM,50 M Butterfly,SCM,W,60-64,1:18.14,Linda J Cervantes,,SPMS Short Course Meters Championships,2012,5
+SDSM,100 M Butterfly,SCM,W,60-64,1:25.93,Barbara G Dunbar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Butterfly,SCM,W,60-64,1:43.23,Alta F Stengel,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Butterfly,SCM,W,60-64,2:11.84,Diane M Hirakawa,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Butterfly,SCM,W,60-64,3:12.42,Barbara G Dunbar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Butterfly,SCM,W,60-64,5:49.55,Liliane Cardinal,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Individual Medley,SCM,W,60-64,2:01.04,Gini M Baker,,Huntsman World Senior Games,2012,1
+SDSM,100 M Individual Medley,SCM,W,60-64,2:02.74,Diane M Hirakawa,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Individual Medley,SCM,W,60-64,2:32.97,Linda J Cervantes,,SPMS Short Course Meters Championships,2012,3
+SDSM,200 M Individual Medley,SCM,W,60-64,5:30.24,Linda J Cervantes,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Individual Medley,SCM,W,60-64,6:37.94,Barbara G Dunbar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,400 M Individual Medley,SCM,W,60-64,10:15.17,Liliane Cardinal,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Individual Medley,SCM,W,60-64,11:48.77,Linda J Cervantes,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Freestyle,SCM,W,65-69,37.67,Jackie M Marr,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Freestyle,SCM,W,65-69,3:05.98,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,400 M Freestyle,SCM,W,65-69,6:20.83,Jackie M Marr,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,W,65-69,12:55.97,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,1500 M Freestyle,SCM,W,65-69,24:34.96,Jackie M Marr,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,W,65-69,48.53,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,100 M Backstroke,SCM,W,65-69,1:39.00,Jackie M Marr,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,W,65-69,3:38.28,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,50 M Breaststroke,SCM,W,65-69,54.50,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,100 M Individual Medley,SCM,W,65-69,1:41.41,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,200 M Individual Medley,SCM,W,65-69,3:40.99,Jackie M Marr,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+HSAM,200 M Freestyle,SCM,W,70-74,3:57.49,Marlee R Valderhaug,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,400 M Freestyle,SCM,W,70-74,8:19.39,Marlee R Valderhaug,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+UNAT,1500 M Freestyle,SCM,W,70-74,30:37.04,Carol Sing,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Backstroke,SCM,W,70-74,59.18,Marilyn A Ramey,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,50 M Backstroke,SCM,W,70-74,1:01.12,Marlee R Valderhaug,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Breaststroke,SCM,W,70-74,1:01.62,Marilyn A Ramey,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,50 M Breaststroke,SCM,W,70-74,1:01.71,Marlee R Valderhaug,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Butterfly,SCM,W,70-74,1:00.11,Marilyn A Ramey,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,W,70-74,2:03.61,Marilyn A Ramey,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Individual Medley,SCM,W,70-74,4:32.24,Marilyn A Ramey,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,W,75-79,48.13,Adrienne S Pipes,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,W,75-79,49.49,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,W,75-79,1:43.20,Adrienne S Pipes,,Huntsman World Senior Games,2012,1
+SDSM,100 M Freestyle,SCM,W,75-79,1:44.92,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Freestyle,SCM,W,75-79,3:36.96,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Freestyle,SCM,W,75-79,3:44.99,Adrienne S Pipes,,Maui Winter SCM-,2012,2
+SDSM,400 M Freestyle,SCM,W,75-79,7:19.88,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,400 M Freestyle,SCM,W,75-79,8:31.21,Adrienne S Pipes,,Huntsman World Senior Games,2012,2
+SDSM,800 M Freestyle,SCM,W,75-79,14:49.99,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,800 M Freestyle,SCM,W,75-79,17:12.63,Adrienne S Pipes,,Huntsman World Senior Games,2012,2
+SDSM,1500 M Freestyle,SCM,W,75-79,28:06.91,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,1500 M Freestyle,SCM,W,75-79,32:01.18,Adrienne S Pipes,,Huntsman World Senior Games,2012,2
+SDSM,50 M Backstroke,SCM,W,75-79,49.78,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Backstroke,SCM,W,75-79,1:51.11,Betsy T Jordan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Backstroke,SCM,W,75-79,3:59.45,Betsy T Jordan,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,W,75-79,1:02.42,Adrienne S Pipes,,Huntsman World Senior Games,2012,1
+SDSM,100 M Butterfly,SCM,W,75-79,2:38.74,Adrienne S Pipes,,Huntsman World Senior Games,2012,1
+SDSM,100 M Individual Medley,SCM,W,75-79,2:16.06,Adrienne S Pipes,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,W,80-84,1:28.57,Marian E Wolle,,Huntsman World Senior Games,2012,1
+SDSM,100 M Freestyle,SCM,W,80-84,3:30.39,Marian E Wolle,,Huntsman World Senior Games,2012,1
+SDSM,200 M Freestyle,SCM,W,80-84,7:09.98,Marian E Wolle,,Huntsman World Senior Games,2012,1
+HSAM,50 M Freestyle,SCM,W,85-89,1:09.20,Nancy L Reed,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,100 M Freestyle,SCM,W,85-89,2:34.69,Nancy L Reed,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,200 M Freestyle,SCM,W,85-89,5:28.76,Nancy L Reed,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,50 M Backstroke,SCM,W,85-89,1:24.65,Nancy L Reed,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+HSAM,100 M Backstroke,SCM,W,85-89,3:12.26,Nancy L Reed,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+UNAT,200 M Freestyle,SCM,M,18-24,2:15.84,Ramon A Navarro,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Freestyle,SCM,M,18-24,2:25.35,Roberto Becerra,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,400 M Freestyle,SCM,M,18-24,5:19.22,Roberto Becerra,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+UNAT,100 M Backstroke,SCM,M,18-24,1:15.32,Ramon A Navarro,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Breaststroke,SCM,M,18-24,40.92,Roberto Becerra,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Breaststroke,SCM,M,18-24,44.23,Yulun Tong,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Breaststroke,SCM,M,18-24,1:14.74,Neil Heacox,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,18-24,1:35.89,Yulun Tong,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+UNAT,200 M Individual Medley,SCM,M,18-24,2:33.35,Ramon A Navarro,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,M,25-29,25.43,Michael Borokhov,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,M,25-29,25.80,Stephen D Banister,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,M,25-29,26.47,John D Welter,,SPMS Short Course Meters Championships,2012,3
+SBSM,50 M Freestyle,SCM,M,25-29,28.79,Cameron Zinsli,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,50 M Freestyle,SCM,M,25-29,29.00,Kyle G Howard,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,5
+SDSM,50 M Freestyle,SCM,M,25-29,30.19,Paolo Gatchalian,,SPMS Short Course Meters Championships,2012,6
+UNAT,50 M Freestyle,SCM,M,25-29,30.30,Juan C Fernandez,,Mission Viejo Nadadores SCM Swim Meet,2012,7
+UNAT,100 M Freestyle,SCM,M,25-29,1:07.03,Juan C Fernandez,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,200 M Freestyle,SCM,M,25-29,2:07.40,Michael Borokhov,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Freestyle,SCM,M,25-29,2:13.41,Stephen D Banister,,SPMS Short Course Meters Championships,2012,2
+UNAT,200 M Freestyle,SCM,M,25-29,2:28.89,Juan C Fernandez,,Mission Viejo Nadadores SCM Swim Meet,2012,3
+UNAT,400 M Freestyle,SCM,M,25-29,5:16.97,Juan C Fernandez,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SBSM,50 M Backstroke,SCM,M,25-29,35.06,Cameron Zinsli,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SBSM,50 M Breaststroke,SCM,M,25-29,35.12,Cameron Zinsli,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Breaststroke,SCM,M,25-29,1:27.50,Paolo Gatchalian,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,M,25-29,28.36,Michael Borokhov,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,M,25-29,29.49,Stephen D Banister,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Butterfly,SCM,M,25-29,29.67,John D Welter,,SPMS Short Course Meters Championships,2012,3
+SBSM,50 M Butterfly,SCM,M,25-29,29.98,Cameron Zinsli,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,50 M Butterfly,SCM,M,25-29,31.03,Kyle G Howard,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,5
+UNAT,50 M Butterfly,SCM,M,25-29,33.33,Juan C Fernandez,,Mission Viejo Nadadores SCM Swim Meet,2012,6
+SDSM,50 M Butterfly,SCM,M,25-29,33.61,Paolo Gatchalian,,SPMS Short Course Meters Championships,2012,7
+SDSM,100 M Butterfly,SCM,M,25-29,1:01.93,Michael Borokhov,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,25-29,1:11.28,Stephen D Banister,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,25-29,1:12.70,Kyle G Howard,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,30-34,28.00,Luke C Mc Clure,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,M,30-34,32.85,Juan Pablo Romero,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,M,30-34,1:01.64,Colin A Williamson,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Freestyle,SCM,M,30-34,1:03.15,Luke C Mc Clure,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Freestyle,SCM,M,30-34,2:08.42,John J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,M,30-34,31.10,John J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,M,30-34,1:05.16,John J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,M,30-34,2:17.23,John J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,M,30-34,2:41.27,Colin A Williamson,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,M,30-34,35.60,Luke C Mc Clure,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Breaststroke,SCM,M,30-34,1:17.43,Luke C Mc Clure,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Butterfly,SCM,M,30-34,37.29,Juan Pablo Romero,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,M,30-34,1:07.59,John J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,30-34,1:10.18,Luke C Mc Clure,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Individual Medley,SCM,M,30-34,1:26.65,Juan Pablo Romero,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,400 M Individual Medley,SCM,M,30-34,5:09.20,John J Bixler,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,M,35-39,26.26,Steven R Perunovich,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,M,35-39,30.12,Jason Houchin,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,35-39,37.37,Giuseppe A Lauritano,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Freestyle,SCM,M,35-39,1:03.34,Steven R Perunovich,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Freestyle,SCM,M,35-39,1:07.83,Jason Houchin,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,M,35-39,1:29.78,Giuseppe A Lauritano,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Freestyle,SCM,M,35-39,3:22.68,Giuseppe A Lauritano,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Freestyle,SCM,M,35-39,4:26.54,Libardo A Mendez-Ramirez,,SPMS Short Course Meters Championships,2012,1
+UNAT,400 M Freestyle,SCM,M,35-39,4:54.59,Rogelio Aguilar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,1500 M Freestyle,SCM,M,35-39,23:47.50,Jason Houchin,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Backstroke,SCM,M,35-39,31.97,Jay Akin,,SPMS Short Course Meters Championships,2012,1
+UNAT,50 M Backstroke,SCM,M,35-39,33.77,Rogelio Aguilar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Backstroke,SCM,M,35-39,1:09.98,Jay Akin,,SPMS Short Course Meters Championships,2012,1
+UNAT,100 M Backstroke,SCM,M,35-39,1:13.43,Rogelio Aguilar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Backstroke,SCM,M,35-39,1:13.82,Steven R Perunovich,,SPMS Short Course Meters Championships,2012,3
+UNAT,200 M Backstroke,SCM,M,35-39,2:32.82,Rogelio Aguilar,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Backstroke,SCM,M,35-39,2:36.37,Jay Akin,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Backstroke,SCM,M,35-39,2:47.70,Steven R Perunovich,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Breaststroke,SCM,M,35-39,35.33,Jay Akin,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,35-39,45.94,Giuseppe A Lauritano,,SPMS Short Course Meters Championships,2012,2
+HSAM,100 M Breaststroke,SCM,M,35-39,1:17.64,Ben T Soule,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Breaststroke,SCM,M,35-39,1:39.59,Giuseppe A Lauritano,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Breaststroke,SCM,M,35-39,2:35.05,Libardo A Mendez-Ramirez,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Breaststroke,SCM,M,35-39,3:41.81,Giuseppe A Lauritano,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Butterfly,SCM,M,35-39,29.10,Steven R Perunovich,,SPMS Short Course Meters Championships,2012,1
+HSAM,50 M Butterfly,SCM,M,35-39,30.94,Ben T Soule,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Butterfly,SCM,M,35-39,1:01.97,Libardo A Mendez-Ramirez,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Butterfly,SCM,M,35-39,2:18.32,Libardo A Mendez-Ramirez,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:08.67,Jay Akin,,SPMS Short Course Meters Championships,2012,1
+HSAM,100 M Individual Medley,SCM,M,35-39,1:10.73,Ben T Soule,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Individual Medley,SCM,M,35-39,2:16.02,Libardo A Mendez-Ramirez,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Individual Medley,SCM,M,35-39,2:36.82,Jay Akin,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Individual Medley,SCM,M,35-39,4:54.14,Libardo A Mendez-Ramirez,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,M,40-44,25.91,Matt Short,,SPMS Short Course Meters Championships,2012,1
+NCSM,50 M Freestyle,SCM,M,40-44,27.87,John Martin,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+UNAT,50 M Freestyle,SCM,M,40-44,29.57,Christophe Charpentier,,SPMS Short Course Meters Championships,2012,3
+SDSM,50 M Freestyle,SCM,M,40-44,30.65,Santiago Ramos,,Mission Viejo Nadadores SCM Swim Meet,2012,4
+SDSM,50 M Freestyle,SCM,M,40-44,33.52,Silvio F Cuellar,,SPMS Short Course Meters Championships,2012,5
+SDSM,50 M Freestyle,SCM,M,40-44,33.54,Joe Clauson,,SPMS Short Course Meters Championships,2012,6
+NCSM,100 M Freestyle,SCM,M,40-44,1:02.44,John Martin,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Freestyle,SCM,M,40-44,1:08.04,Santiago Ramos,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Freestyle,SCM,M,40-44,1:10.30,John R Gross,,Mission Viejo Nadadores SCM Swim Meet,2012,3
+SDSM,200 M Freestyle,SCM,M,40-44,2:27.31,Henry G Morales,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Freestyle,SCM,M,40-44,2:27.37,Cris Dobrosielski,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Freestyle,SCM,M,40-44,2:35.88,Matt Short,,SPMS Short Course Meters Championships,2012,3
+SDSM,200 M Freestyle,SCM,M,40-44,2:44.29,John R Gross,,SPMS Short Course Meters Championships,2012,4
+SDSM,400 M Freestyle,SCM,M,40-44,5:18.27,Henry G Morales,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Backstroke,SCM,M,40-44,40.99,Joe Clauson,,SPMS Short Course Meters Championships,2012,1
+UNAT,50 M Breaststroke,SCM,M,40-44,38.14,Christophe Charpentier,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,40-44,39.87,Santiago Ramos,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+UNAT,100 M Breaststroke,SCM,M,40-44,1:25.50,Christophe Charpentier,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,40-44,1:26.18,John R Gross,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,100 M Breaststroke,SCM,M,40-44,1:26.21,Santiago Ramos,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Breaststroke,SCM,M,40-44,1:32.40,Silvio F Cuellar,,SPMS Short Course Meters Championships,2012,4
+SDSM,200 M Breaststroke,SCM,M,40-44,3:20.55,John R Gross,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,M,40-44,28.88,Matt Short,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Butterfly,SCM,M,40-44,32.80,John R Gross,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,50 M Butterfly,SCM,M,40-44,33.08,Cris Dobrosielski,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+UNAT,50 M Butterfly,SCM,M,40-44,34.65,Christophe Charpentier,,SPMS Short Course Meters Championships,2012,4
+SDSM,100 M Individual Medley,SCM,M,40-44,1:09.10,Matt Short,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,40-44,1:20.08,John R Gross,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:22.72,Santiago Ramos,,Mission Viejo Nadadores SCM Swim Meet,2012,3
+SDSM,100 M Individual Medley,SCM,M,40-44,1:29.85,Joe Clauson,,SPMS Short Course Meters Championships,2012,4
+SDSM,200 M Individual Medley,SCM,M,40-44,3:04.63,John R Gross,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Freestyle,SCM,M,45-49,30.45,Jonathan Hood,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Freestyle,SCM,M,45-49,32.80,Michael W Little,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,45-49,33.70,Ruben Villegas,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Freestyle,SCM,M,45-49,58.45,Kenton R Jones,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Freestyle,SCM,M,45-49,1:10.29,Jonathan Hood,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+HSAM,100 M Freestyle,SCM,M,45-49,1:13.03,Peter T Ryan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Freestyle,SCM,M,45-49,1:14.63,Joseph J Baldacci,,Mission Viejo Nadadores SCM Swim Meet,2012,4
+SDSM,100 M Freestyle,SCM,M,45-49,1:33.96,Michael W Little,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,5
+SDSM,200 M Freestyle,SCM,M,45-49,2:09.82,Kenton R Jones,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,200 M Freestyle,SCM,M,45-49,2:39.33,John C Gravelle,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Freestyle,SCM,M,45-49,4:34.48,Kenton R Jones,,SPMS Short Course Meters Championships,2012,1
+HSAM,400 M Freestyle,SCM,M,45-49,5:57.29,Peter T Ryan,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,800 M Freestyle,SCM,M,45-49,9:34.19,Kenton R Jones,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,M,45-49,18:25.09,Kenton R Jones,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,1500 M Freestyle,SCM,M,45-49,23:26.57,Joseph J Baldacci,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Backstroke,SCM,M,45-49,32.90,Kenton R Jones,,SCM Santa Clarita Masters Swim 2012,2012,1
+SDSM,50 M Breaststroke,SCM,M,45-49,34.55,Kenton R Jones,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,45-49,37.73,Joseph J Baldacci,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,M,45-49,40.22,Michael W Little,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,50 M Breaststroke,SCM,M,45-49,44.60,Nick J Toledo,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,100 M Breaststroke,SCM,M,45-49,1:15.29,Kenton R Jones,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,100 M Breaststroke,SCM,M,45-49,1:23.12,Joseph J Baldacci,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Breaststroke,SCM,M,45-49,1:32.61,Michael W Little,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Breaststroke,SCM,M,45-49,1:36.25,Nick J Toledo,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,200 M Breaststroke,SCM,M,45-49,2:45.37,Kenton R Jones,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Butterfly,SCM,M,45-49,29.58,Kenton R Jones,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,50 M Butterfly,SCM,M,45-49,34.16,Jonathan Hood,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Butterfly,SCM,M,45-49,39.07,Ruben Villegas,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Butterfly,SCM,M,45-49,1:07.70,Kenton R Jones,,SCM Santa Clarita Masters Swim 2012,2012,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:10.13,Kenton R Jones,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:18.87,Joseph J Baldacci,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,100 M Individual Medley,SCM,M,45-49,1:20.93,John C Gravelle,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Individual Medley,SCM,M,45-49,1:26.95,Nick J Toledo,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,4
+SDSM,100 M Individual Medley,SCM,M,45-49,1:33.33,Michael W Little,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,5
+SDSM,200 M Individual Medley,SCM,M,45-49,2:29.80,Kenton R Jones,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Individual Medley,SCM,M,45-49,5:18.22,Kenton R Jones,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,400 M Individual Medley,SCM,M,45-49,6:19.22,Joseph J Baldacci,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,M,50-54,26.85,Alan Voisard,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,M,50-54,28.70,Rob Scott,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,50-54,34.11,Robert H Bing,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,400 M Freestyle,SCM,M,50-54,4:35.16,Alan Voisard,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,M,50-54,1:11.02,Alan Voisard,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,50-54,41.45,Robert H Bing,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Butterfly,SCM,M,50-54,30.08,Alan Voisard,,SPMS Short Course Meters Championships,2012,1
+UNAT,50 M Butterfly,SCM,M,50-54,31.36,Christopher M Clarke,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+UNAT,100 M Butterfly,SCM,M,50-54,1:10.98,Christopher M Clarke,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+UNAT,100 M Individual Medley,SCM,M,50-54,1:15.91,Christopher M Clarke,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:20.80,Peter Merz,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Individual Medley,SCM,M,50-54,2:50.59,Peter Merz,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,400 M Individual Medley,SCM,M,50-54,5:21.32,Alan Voisard,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Individual Medley,SCM,M,50-54,6:04.88,Peter Merz,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,55-59,30.37,John McLintock,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,M,55-59,31.43,Steven J Plackemeier,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,55-59,32.91,Kevin R Bishop,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Freestyle,SCM,M,55-59,1:11.73,Steven J Plackemeier,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Freestyle,SCM,M,55-59,1:13.32,Kevin R Bishop,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Freestyle,SCM,M,55-59,2:35.75,Steven J Plackemeier,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,200 M Freestyle,SCM,M,55-59,2:43.16,Kevin R Bishop,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,400 M Freestyle,SCM,M,55-59,5:45.37,Kevin R Bishop,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,1500 M Freestyle,SCM,M,55-59,21:30.04,Mark W Spratt,,29th Annual GRIN Fall Classic,2012,1
+SDSM,100 M Backstroke,SCM,M,55-59,1:27.11,Jon R Schlueter,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,M,55-59,3:03.54,Steven J Plackemeier,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,200 M Backstroke,SCM,M,55-59,3:13.54,Jon R Schlueter,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,M,55-59,38.29,Abel Menchaca,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,55-59,39.96,John McLintock,,Huntsman World Senior Games,2012,2
+SDSM,200 M Breaststroke,SCM,M,55-59,3:30.45,John McLintock,,Huntsman World Senior Games,2012,1
+SDSM,50 M Butterfly,SCM,M,55-59,35.18,John McLintock,,Huntsman World Senior Games,2012,1
+SDSM,100 M Butterfly,SCM,M,55-59,1:35.71,Jon R Schlueter,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,200 M Butterfly,SCM,M,55-59,3:26.96,Jon R Schlueter,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Individual Medley,SCM,M,55-59,1:19.05,John McLintock,,Huntsman World Senior Games,2012,1
+SDSM,100 M Individual Medley,SCM,M,55-59,1:27.50,Jon R Schlueter,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Individual Medley,SCM,M,55-59,1:28.15,Mark W Spratt,,29th Annual GRIN Fall Classic,2012,3
+SDSM,200 M Individual Medley,SCM,M,55-59,3:09.65,Jon R Schlueter,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,400 M Individual Medley,SCM,M,55-59,6:51.36,Steven J Plackemeier,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,400 M Individual Medley,SCM,M,55-59,7:06.59,Jon R Schlueter,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,60-64,30.59,Harry G Duffield,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Freestyle,SCM,M,60-64,32.51,Rob R Watson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,60-64,39.55,Carlos A Tortoza,,SPMS Short Course Meters Championships,2012,3
+UNAT,100 M Freestyle,SCM,M,60-64,1:02.78,Lee E Mench,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,100 M Freestyle,SCM,M,60-64,1:33.79,Carlos A Tortoza,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+UNAT,200 M Freestyle,SCM,M,60-64,2:21.92,Lee E Mench,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+UNAT,400 M Freestyle,SCM,M,60-64,5:07.61,Lee E Mench,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,1500 M Freestyle,SCM,M,60-64,22:21.38,Rob R Watson,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Backstroke,SCM,M,60-64,38.41,Bill G Behun,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,60-64,38.57,Bill G Behun,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,60-64,56.96,Carlos A Tortoza,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Breaststroke,SCM,M,60-64,2:07.51,Carlos A Tortoza,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Butterfly,SCM,M,60-64,1:14.45,Bill G Behun,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:14.49,Bill G Behun,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,60-64,2:04.28,Carlos A Tortoza,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,65-69,29.78,Peter Andersen,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,M,65-69,33.10,Richard Campbell,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Freestyle,SCM,M,65-69,34.60,Jerry O'Mara,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,100 M Freestyle,SCM,M,65-69,1:10.25,Peter Andersen,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Freestyle,SCM,M,65-69,1:19.49,Richard Campbell,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Freestyle,SCM,M,65-69,1:43.67,Ken R Hickey,,Huntsman World Senior Games,2012,3
+SDSM,200 M Freestyle,SCM,M,65-69,2:43.81,Peter Andersen,,Huntsman World Senior Games,2012,1
+SDSM,200 M Freestyle,SCM,M,65-69,2:55.18,Jorge E Martinez,,SPMS Short Course Meters Championships,2012,2
+SDSM,400 M Freestyle,SCM,M,65-69,6:36.68,Jerry O'Mara,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1
+SDSM,50 M Backstroke,SCM,M,65-69,44.45,Richard Campbell,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,M,65-69,46.20,Ken R Hickey,,Huntsman World Senior Games,2012,2
+SDSM,100 M Backstroke,SCM,M,65-69,1:31.72,Jorge E Martinez,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,M,65-69,1:45.66,Ken R Hickey,,Huntsman World Senior Games,2012,2
+SDSM,200 M Backstroke,SCM,M,65-69,3:12.51,Jorge E Martinez,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,M,65-69,3:59.06,Ken R Hickey,,Huntsman World Senior Games,2012,2
+SDSM,50 M Breaststroke,SCM,M,65-69,37.53,Peter Andersen,,Huntsman World Senior Games,2012,1
+SDSM,50 M Breaststroke,SCM,M,65-69,44.04,Richard Campbell,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,M,65-69,45.84,Jerry O'Mara,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,50 M Breaststroke,SCM,M,65-69,59.98,Ken R Hickey,,Huntsman World Senior Games,2012,4
+SDSM,100 M Breaststroke,SCM,M,65-69,1:26.96,Peter Andersen,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,65-69,1:42.98,Jerry O'Mara,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Breaststroke,SCM,M,65-69,2:11.19,Ken R Hickey,,Huntsman World Senior Games,2012,3
+SDSM,200 M Breaststroke,SCM,M,65-69,3:20.59,Peter Andersen,,Huntsman World Senior Games,2012,1
+SDSM,50 M Butterfly,SCM,M,65-69,35.77,Jorge E Martinez,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Butterfly,SCM,M,65-69,39.37,Peter Andersen,,Huntsman World Senior Games,2012,2
+SDSM,50 M Butterfly,SCM,M,65-69,40.59,Richard Campbell,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Butterfly,SCM,M,65-69,1:25.30,Jorge E Martinez,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Butterfly,SCM,M,65-69,3:19.30,Jorge E Martinez,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Individual Medley,SCM,M,65-69,1:20.60,Peter Andersen,,Huntsman World Senior Games,2012,1
+SDSM,100 M Individual Medley,SCM,M,65-69,1:33.69,Jerry O'Mara,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,100 M Individual Medley,SCM,M,65-69,1:34.43,Richard Campbell,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Individual Medley,SCM,M,65-69,3:16.92,Peter Andersen,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,M,70-74,31.86,Mike R Freshley,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Freestyle,SCM,M,70-74,58.98,Brian M Jones,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Freestyle,SCM,M,70-74,1:12.21,Mike R Freshley,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Freestyle,SCM,M,70-74,1:15.55,Frank Williams,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Freestyle,SCM,M,70-74,2:44.89,Mike R Freshley,,Huntsman World Senior Games,2012,1
+SDSM,200 M Freestyle,SCM,M,70-74,2:49.15,Artie Wolfe,,The DAC Short Course Meters Championship,2012,2
+SDSM,200 M Freestyle,SCM,M,70-74,3:15.91,Daniel W Henry,,SPMS Short Course Meters Championships,2012,3
+SDSM,400 M Freestyle,SCM,M,70-74,6:01.13,Frank Williams,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Freestyle,SCM,M,70-74,7:02.24,Daniel W Henry,,SPMS Short Course Meters Championships,2012,2
+SDSM,800 M Freestyle,SCM,M,70-74,12:23.32,Frank Williams,,SPMS Short Course Meters Championships,2012,1
+SDSM,800 M Freestyle,SCM,M,70-74,14:31.16,Daniel W Henry,,SPMS Short Course Meters Championships,2012,2
+SDSM,1500 M Freestyle,SCM,M,70-74,23:58.85,Frank Williams,,SPMS Short Course Meters Championships,2012,1
+SDSM,1500 M Freestyle,SCM,M,70-74,27:46.51,Daniel W Henry,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,1500 M Freestyle,SCM,M,70-74,28:28.56,Robert E Price,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,50 M Backstroke,SCM,M,70-74,1:03.73,Brian M Jones,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Backstroke,SCM,M,70-74,1:27.26,Mike R Freshley,,Huntsman World Senior Games,2012,1
+SDSM,100 M Backstroke,SCM,M,70-74,1:44.30,Daniel W Henry,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Backstroke,SCM,M,70-74,2:27.28,Brian M Jones,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Backstroke,SCM,M,70-74,3:24.97,Artie Wolfe,,The DAC Short Course Meters Championship,2012,1
+SDSM,200 M Backstroke,SCM,M,70-74,3:43.78,Daniel W Henry,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,50 M Breaststroke,SCM,M,70-74,40.92,Mike R Freshley,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Breaststroke,SCM,M,70-74,53.79,Brian M Jones,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,100 M Breaststroke,SCM,M,70-74,1:28.30,Mike R Freshley,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,70-74,2:10.89,Brian M Jones,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Breaststroke,SCM,M,70-74,2:35.00,Peter E Riddle,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,3
+SDSM,200 M Breaststroke,SCM,M,70-74,3:10.33,Mike R Freshley,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Breaststroke,SCM,M,70-74,5:00.06,Brian M Jones,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,50 M Butterfly,SCM,M,70-74,34.64,Mike R Freshley,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Butterfly,SCM,M,70-74,1:34.54,Mike R Freshley,,Huntsman World Senior Games,2012,1
+SDSM,200 M Butterfly,SCM,M,70-74,3:43.67,Frank Williams,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,70-74,1:23.37,Mike R Freshley,,Huntsman World Senior Games,2012,1
+SDSM,100 M Individual Medley,SCM,M,70-74,2:35.23,Brian M Jones,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,2
+SDSM,200 M Individual Medley,SCM,M,70-74,3:00.73,Mike R Freshley,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Individual Medley,SCM,M,70-74,3:17.67,Artie Wolfe,,The DAC Short Course Meters Championship,2012,2
+SDSM,400 M Individual Medley,SCM,M,70-74,6:40.33,Mike R Freshley,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,M,75-79,40.65,Tom Mitchell,,2012 UCLA Bruin Masters SCM Meet,2012,1
+SDSM,50 M Freestyle,SCM,M,75-79,44.95,Bill Coles,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,2
+SDSM,100 M Freestyle,SCM,M,75-79,1:37.41,Tom Mitchell,,SCM Turkey Shoot Swim Meet,2012,1
+SDSM,100 M Freestyle,SCM,M,75-79,1:46.30,Bill Coles,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,2
+SDSM,200 M Freestyle,SCM,M,75-79,3:44.40,Tom Mitchell,,SPMS Short Course Meters Championships,2012,1
+SDSM,400 M Freestyle,SCM,M,75-79,9:03.39,Bill Coles,,2012 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2012,1
+SDSM,800 M Freestyle,SCM,M,75-79,19:03.51,Bill Coles,,SPMS Short Course Meters Championships,2012,1
+SDSM,50 M Backstroke,SCM,M,75-79,47.80,Eric Hubach,,Huntsman World Senior Games,2012,1
+SDSM,50 M Backstroke,SCM,M,75-79,51.73,Bill Coles,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Backstroke,SCM,M,75-79,1:46.13,Eric Hubach,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,M,75-79,1:50.50,Bill Coles,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Backstroke,SCM,M,75-79,3:50.35,Eric Hubach,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,M,75-79,3:59.34,Bill Coles,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,M,75-79,55.32,Eric Hubach,,Huntsman World Senior Games,2012,1
+SDSM,50 M Breaststroke,SCM,M,75-79,55.80,Tom Mitchell,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Breaststroke,SCM,M,75-79,56.36,Bill Coles,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Breaststroke,SCM,M,75-79,2:00.28,Tom Mitchell,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,75-79,2:01.14,Eric Hubach,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,200 M Breaststroke,SCM,M,75-79,4:22.53,Eric Hubach,,Huntsman World Senior Games,2012,1
+SDSM,200 M Breaststroke,SCM,M,75-79,4:23.92,Tom Mitchell,,Mission Viejo Nadadores SCM Swim Meet,2012,2
+SDSM,100 M Individual Medley,SCM,M,75-79,1:53.09,Eric Hubach,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Individual Medley,SCM,M,75-79,1:54.23,Tom Mitchell,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,M,80-84,33.87,Bob Best,,Huntsman World Senior Games,2012,1
+SDSM,50 M Freestyle,SCM,M,80-84,44.10,Donald J Baker,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Freestyle,SCM,M,80-84,46.77,Ken Kimball,,Huntsman World Senior Games,2012,3
+SDSM,50 M Freestyle,SCM,M,80-84,49.66,Jordan B Wolle,,Huntsman World Senior Games,2012,4
+SDSM,100 M Freestyle,SCM,M,80-84,1:22.50,Bob Best,,Huntsman World Senior Games,2012,1
+SDSM,100 M Freestyle,SCM,M,80-84,1:41.17,Donald J Baker,,SPMS Short Course Meters Championships,2012,2
+SDSM,100 M Freestyle,SCM,M,80-84,1:50.68,Ken Kimball,,SPMS Short Course Meters Championships,2012,3
+SDSM,100 M Freestyle,SCM,M,80-84,1:59.35,Jordan B Wolle,,Huntsman World Senior Games,2012,4
+SDSM,200 M Freestyle,SCM,M,80-84,3:53.10,Donald J Baker,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Freestyle,SCM,M,80-84,4:15.54,Ken Kimball,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Freestyle,SCM,M,80-84,4:40.56,Jordan B Wolle,,Huntsman World Senior Games,2012,3
+SDSM,400 M Freestyle,SCM,M,80-84,8:18.58,Donald J Baker,,Huntsman World Senior Games,2012,1
+SDSM,400 M Freestyle,SCM,M,80-84,9:45.32,Jordan B Wolle,,Huntsman World Senior Games,2012,2
+SDSM,800 M Freestyle,SCM,M,80-84,17:40.94,Donald J Baker,,Huntsman World Senior Games,2012,1
+SDSM,800 M Freestyle,SCM,M,80-84,20:39.91,Jordan B Wolle,,Huntsman World Senior Games,2012,2
+SDSM,1500 M Freestyle,SCM,M,80-84,39:34.94,Jordan B Wolle,,Huntsman World Senior Games,2012,1
+SDSM,50 M Backstroke,SCM,M,80-84,56.83,Ken Kimball,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,M,80-84,2:03.24,Ken Kimball,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Backstroke,SCM,M,80-84,2:12.73,Donald J Baker,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Backstroke,SCM,M,80-84,4:31.16,Ken Kimball,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Backstroke,SCM,M,80-84,4:43.81,Donald J Baker,,Huntsman World Senior Games,2012,2
+SDSM,50 M Breaststroke,SCM,M,80-84,43.42,Bob Best,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,80-84,1:40.37,Bob Best,,SPMS Short Course Meters Championships,2012,1
+SDSM,100 M Breaststroke,SCM,M,80-84,2:10.56,Donald J Baker,,SPMS Short Course Meters Championships,2012,2
+SDSM,200 M Breaststroke,SCM,M,80-84,3:56.10,Bob Best,,SPMS Short Course Meters Championships,2012,1
+SDSM,200 M Breaststroke,SCM,M,80-84,5:01.18,Donald J Baker,,SPMS Short Course Meters Championships,2012,2
+SDSM,50 M Butterfly,SCM,M,80-84,42.30,Bob Best,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,50 M Butterfly,SCM,M,80-84,1:08.04,Donald J Baker,,Huntsman World Senior Games,2012,2
+SDSM,100 M Butterfly,SCM,M,80-84,1:46.05,Bob Best,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Butterfly,SCM,M,80-84,2:36.93,Donald J Baker,,Huntsman World Senior Games,2012,2
+SDSM,100 M Individual Medley,SCM,M,80-84,1:32.49,Bob Best,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+SDSM,100 M Individual Medley,SCM,M,80-84,2:03.51,Donald J Baker,,Huntsman World Senior Games,2012,2
+SDSM,200 M Individual Medley,SCM,M,80-84,3:37.38,Bob Best,,Huntsman World Senior Games,2012,1
+SDSM,200 M Individual Medley,SCM,M,80-84,4:41.41,Donald J Baker,,Huntsman World Senior Games,2012,2
+SDSM,400 M Individual Medley,SCM,M,80-84,7:49.67,Bob Best,,San Diego Swim Masters 2012 Short Course Meters Meet,2012,1

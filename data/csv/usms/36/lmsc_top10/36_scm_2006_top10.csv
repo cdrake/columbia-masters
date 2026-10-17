@@ -1,0 +1,576 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+PNA,50 M Freestyle,SCM,W,18-24,29.47,Shona D Pierce,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,18-24,32.72,Emiko Mar,,NW Zone SCM Champs,2006,3
+PNA,50 M Freestyle,SCM,W,18-24,32.77,Elisha M Naylor,,NW Zone SCM Champs,2006,4
+PNA,100 M Freestyle,SCM,W,18-24,1:06.77,Brittany N Kunze,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Freestyle,SCM,W,18-24,1:06.99,Shona D Pierce,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,W,18-24,1:18.55,Meg J Harris,,NW Zone SCM Champs,2006,4
+PNA,200 M Freestyle,SCM,W,18-24,2:53.77,Meg J Harris,,NW Zone SCM Champs,2006,1
+PNA,400 M Freestyle,SCM,W,18-24,6:00.55,Meg J Harris,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,W,18-24,12:21.66,Meg J Harris,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,18-24,34.20,Shona D Pierce,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,18-24,37.71,Elisha M Naylor,,NW Zone SCM Champs,2006,3
+PNA,100 M Backstroke,SCM,W,18-24,1:16.35,Brittany N Kunze,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Breaststroke,SCM,W,18-24,1:22.59,Brittany N Kunze,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,W,18-24,35.07,Shona D Pierce,,NW Zone SCM Champs,2006,2
+PNA,50 M Butterfly,SCM,W,18-24,36.48,Emiko Mar,,NW Zone SCM Champs,2006,3
+PNA,50 M Butterfly,SCM,W,18-24,37.68,Elisha M Naylor,,NW Zone SCM Champs,2006,4
+PNA,100 M Butterfly,SCM,W,18-24,1:13.52,Brittany N Kunze,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,W,18-24,1:17.23,Shona D Pierce,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,18-24,1:30.54,Emiko Mar,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,W,18-24,1:32.53,Meg J Harris,,NW Zone SCM Champs,2006,4
+PNA,200 M Individual Medley,SCM,W,18-24,2:41.25,Brittany N Kunze,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,W,25-29,29.24,Kelly C Lotts,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,W,25-29,29.81,Renee R Hukkanen,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,W,25-29,31.78,Adele S Botha,,Gay Games at Chicago,2006,3
+PNA,100 M Freestyle,SCM,W,25-29,1:09.51,Kelly J Crandell,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,W,25-29,1:10.21,Adele S Botha,,Gay Games at Chicago,2006,2
+PNA,200 M Freestyle,SCM,W,25-29,2:36.98,Adele S Botha,,Gay Games at Chicago,2006,1
+PNA,400 M Freestyle,SCM,W,25-29,5:58.49,Heidi Hansen,,Gay Games at Chicago,2006,1
+PNA,800 M Freestyle,SCM,W,25-29,11:44.12,Kelly J Crandell,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,25-29,36.97,Kelly C Lotts,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,W,25-29,40.06,Heidi Hansen,,Gay Games at Chicago,2006,2
+PNA,100 M Backstroke,SCM,W,25-29,1:28.97,Heidi Hansen,,Gay Games at Chicago,2006,1
+PNA,50 M Breaststroke,SCM,W,25-29,37.74,Kelly C Lotts,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Breaststroke,SCM,W,25-29,1:28.22,Kelly J Crandell,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,W,25-29,3:10.07,Kelly J Crandell,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,W,25-29,32.59,Kelly C Lotts,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,W,25-29,35.76,Adele S Botha,,Gay Games at Chicago,2006,2
+PNA,50 M Butterfly,SCM,W,25-29,38.24,Heidi Hansen,,Gay Games at Chicago,2006,3
+PNA,100 M Butterfly,SCM,W,25-29,1:26.28,Kelly J Crandell,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,25-29,1:10.96,Renee R Hukkanen,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,25-29,1:15.06,Kelly C Lotts,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Individual Medley,SCM,W,25-29,1:24.83,Heidi Hansen,,Gay Games at Chicago,2006,3
+PNA,400 M Individual Medley,SCM,W,25-29,5:22.70,Renee R Hukkanen,,NW Zone SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,W,30-34,3:22.35,Holly D Bork,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,30-34,49.63,Holly D Bork,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,W,30-34,3:54.95,Holly D Bork,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,35-39,30.02,Kristen N Winn,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,35-39,31.24,Linda K Hegeberg,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Freestyle,SCM,W,35-39,36.92,Kathy R Moore,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Freestyle,SCM,W,35-39,37.24,Shannon R Singer,,NW Zone SCM Champs,2006,4
+PNA,100 M Freestyle,SCM,W,35-39,1:05.02,Rondamarie B Smith,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,W,35-39,1:07.63,Kristen N Winn,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,35-39,1:25.19,Blanche Bybee,,NW Zone SCM Champs,2006,3
+PNA,200 M Freestyle,SCM,W,35-39,3:04.20,Jill A Reddoch,,NW Zone SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,W,35-39,3:07.79,Shannon R Singer,,NW Zone SCM Champs,2006,2
+PNA,200 M Freestyle,SCM,W,35-39,3:17.11,Janae E McCullough,,NW Zone SCM Champs,2006,3
+PNA,400 M Freestyle,SCM,W,35-39,6:25.95,Jill A Reddoch,,NW Zone SCM Champs,2006,1
+PNA,400 M Freestyle,SCM,W,35-39,6:34.78,Blanche Bybee,,NW Zone SCM Champs,2006,2
+PNA,400 M Freestyle,SCM,W,35-39,6:37.87,Shannon R Singer,,NW Zone SCM Champs,2006,3
+PNA,800 M Freestyle,SCM,W,35-39,11:42.90,Megan M Lassen,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,W,35-39,23:45.82,Kathleen S Morris,,Gay Games at Chicago,2006,1
+PNA,1500 M Freestyle,SCM,W,35-39,26:41.61,Shannon R Singer,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,W,35-39,35.98,Linda K Hegeberg,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,W,35-39,37.77,Kristen N Winn,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,W,35-39,44.51,Kathy R Moore,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Backstroke,SCM,W,35-39,44.58,Shannon R Singer,,NW Zone SCM Champs,2006,4
+PNA,100 M Backstroke,SCM,W,35-39,1:37.28,Blanche Bybee,,NW Zone SCM Champs,2006,1
+PNA,200 M Backstroke,SCM,W,35-39,3:21.49,Kathleen S Morris,,Gay Games at Chicago,2006,1
+PNA,50 M Breaststroke,SCM,W,35-39,38.43,Linda K Hegeberg,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Breaststroke,SCM,W,35-39,40.68,Megan M Lassen,,NW Zone SCM Champs,2006,2
+PNA,50 M Breaststroke,SCM,W,35-39,50.39,Kathy R Moore,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Breaststroke,SCM,W,35-39,50.64,Blanche Bybee,,NW Zone SCM Champs,2006,4
+PNA,50 M Breaststroke,SCM,W,35-39,57.93,Janae E McCullough,,NW Zone SCM Champs,2006,5
+PNA,100 M Breaststroke,SCM,W,35-39,1:29.63,Megan M Lassen,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,W,35-39,2:53.71,Linda K Hegeberg,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,W,35-39,2:54.44,Rondamarie B Smith,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,W,35-39,3:15.43,Megan M Lassen,,NW Zone SCM Champs,2006,3
+PNA,50 M Butterfly,SCM,W,35-39,33.85,Linda K Hegeberg,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,W,35-39,42.13,Kathy R Moore,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Butterfly,SCM,W,35-39,47.80,Blanche Bybee,,NW Zone SCM Champs,2006,3
+PNA,100 M Individual Medley,SCM,W,35-39,1:13.24,Rondamarie B Smith,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,35-39,1:13.95,Linda K Hegeberg,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,W,35-39,1:21.11,Kristen N Winn,,NW Zone SCM Champs,2006,3
+PNA,100 M Individual Medley,SCM,W,35-39,1:37.40,Blanche Bybee,,NW Zone SCM Champs,2006,4
+PNA,100 M Individual Medley,SCM,W,35-39,1:38.56,Kathy R Moore,,Oak Harbor Pentathlon,2006,5
+PNA,200 M Individual Medley,SCM,W,35-39,3:23.33,Jill A Reddoch,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,W,35-39,5:33.13,Rondamarie B Smith,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,W,35-39,5:34.84,Linda K Hegeberg,,NW Zone SCM Champs,2006,2
+PNA,400 M Individual Medley,SCM,W,35-39,7:14.38,Jill A Reddoch,,NW Zone SCM Champs,2006,3
+PNA,50 M Freestyle,SCM,W,40-44,36.90,Cynthia L Hirst,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,40-44,37.37,Suzanne E Way,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,40-44,1:13.76,Kris Speir,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,W,40-44,1:15.90,Renee Quistorf,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,40-44,1:17.32,Debby R Spence,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Freestyle,SCM,W,40-44,1:20.55,Wendy E Hoffman,,NW Zone SCM Champs,2006,4
+PNA,100 M Freestyle,SCM,W,40-44,1:21.25,Cynthia L Hirst,,NW Zone SCM Champs,2006,5
+PNA,100 M Freestyle,SCM,W,40-44,1:23.64,Suzanne E Way,,NW Zone SCM Champs,2006,6
+PNA,200 M Freestyle,SCM,W,40-44,2:47.22,Becky L Klieman,,Oak Harbor Pentathlon,2006,1
+PNA,400 M Freestyle,SCM,W,40-44,6:03.64,Renee Quistorf,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,W,40-44,12:08.44,Kris Speir,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,W,40-44,28:24.13,Catie M Rodeheffer,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,W,40-44,37.61,Anne T Peters Johnson,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,W,40-44,39.82,Cynthia L Hirst,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,W,40-44,43.68,Laura L Del Rio,,NW Zone SCM Champs,2006,3
+PNA,50 M Backstroke,SCM,W,40-44,49.24,Suzanne E Way,,NW Zone SCM Champs,2006,4
+PNA,100 M Backstroke,SCM,W,40-44,1:24.04,Anne T Peters Johnson,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Backstroke,SCM,W,40-44,1:30.04,Cynthia L Hirst,,NW Zone SCM Champs,2006,2
+PNA,100 M Backstroke,SCM,W,40-44,1:31.76,Debby R Spence,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Backstroke,SCM,W,40-44,1:35.20,Wendy E Hoffman,,NW Zone SCM Champs,2006,4
+PNA,100 M Backstroke,SCM,W,40-44,1:43.84,Suzanne E Way,,NW Zone SCM Champs,2006,5
+PNA,200 M Backstroke,SCM,W,40-44,2:55.64,Anne T Peters Johnson,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Backstroke,SCM,W,40-44,3:21.23,Renee Quistorf,,NW Zone SCM Champs,2006,2
+PNA,200 M Backstroke,SCM,W,40-44,3:23.90,Becky L Klieman,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Breaststroke,SCM,W,40-44,46.05,Laura L Del Rio,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,W,40-44,1:32.56,Kris Speir,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,W,40-44,1:37.90,Laura L Del Rio,,NW Zone SCM Champs,2006,2
+PNA,100 M Breaststroke,SCM,W,40-44,1:39.30,Debby R Spence,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Breaststroke,SCM,W,40-44,1:44.38,Wendy E Hoffman,,NW Zone SCM Champs,2006,4
+PNA,200 M Breaststroke,SCM,W,40-44,3:25.59,Kris Speir,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,W,40-44,3:28.22,Laura L Del Rio,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,W,40-44,3:37.38,Becky L Klieman,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Butterfly,SCM,W,40-44,1:33.67,Debby R Spence,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Butterfly,SCM,W,40-44,1:43.86,Wendy E Hoffman,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Butterfly,SCM,W,40-44,3:28.32,Becky L Klieman,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,W,40-44,1:26.79,Renee Quistorf,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,40-44,1:32.13,Cynthia L Hirst,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,W,40-44,1:32.98,Wendy E Hoffman,,NW Zone SCM Champs,2006,3
+PNA,100 M Individual Medley,SCM,W,40-44,1:40.95,Suzanne E Way,,NW Zone SCM Champs,2006,4
+PNA,200 M Individual Medley,SCM,W,40-44,3:10.62,Kris Speir,,NW Zone SCM Champs,2006,1
+PNA,200 M Individual Medley,SCM,W,40-44,3:14.38,Debby R Spence,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Individual Medley,SCM,W,40-44,3:14.95,Laura L Del Rio,,NW Zone SCM Champs,2006,3
+PNA,200 M Individual Medley,SCM,W,40-44,3:16.69,Wendy E Hoffman,,NW Zone SCM Champs,2006,4
+PNA,200 M Individual Medley,SCM,W,40-44,3:19.48,Renee Quistorf,,NW Zone SCM Champs,2006,5
+PNA,400 M Individual Medley,SCM,W,40-44,6:47.87,Laura L Del Rio,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,W,40-44,6:52.70,Becky L Klieman,,Oak Harbor Pentathlon,2006,2
+PNA,400 M Individual Medley,SCM,W,40-44,7:03.57,Wendy E Hoffman,,NW Zone SCM Champs,2006,3
+PNA,50 M Freestyle,SCM,W,45-49,27.54,Lisa A Dahl,,Gay Games at Chicago,2006,1
+PNA,50 M Freestyle,SCM,W,45-49,35.08,Karen M Buttram,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,W,45-49,1:09.61,Karen Lynn Maher,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,W,45-49,1:13.16,Lynn M Gross,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,W,45-49,1:18.01,Karen M Buttram,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,45-49,2:39.45,Karen Lynn Maher,,NW Zone SCM Champs,2006,3
+PNA,800 M Freestyle,SCM,W,45-49,12:42.56,Karen M Buttram,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,W,45-49,22:32.64,Lynn M Gross,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,45-49,33.60,Lisa A Dahl,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,45-49,35.94,Zena H Courtney,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,W,45-49,40.44,Margaret A Diddams,,NW Zone SCM Champs,2006,3
+PNA,50 M Backstroke,SCM,W,45-49,47.34,Karen M Buttram,,NW Zone SCM Champs,2006,4
+PNA,100 M Backstroke,SCM,W,45-49,1:14.38,Zena H Courtney,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,W,45-49,1:27.87,Margaret A Diddams,,NW Zone SCM Champs,2006,2
+PNA,200 M Backstroke,SCM,W,45-49,2:42.41,Zena H Courtney,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,45-49,38.73,Lisa A Dahl,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,45-49,43.05,Laurie J Ball,,NW Zone SCM Champs,2006,2
+PNA,50 M Breaststroke,SCM,W,45-49,44.52,Margaret A Diddams,,NW Zone SCM Champs,2006,3
+PNA,100 M Breaststroke,SCM,W,45-49,1:35.92,Laurie J Ball,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,W,45-49,1:37.92,Margaret A Diddams,,NW Zone SCM Champs,2006,2
+PNA,50 M Butterfly,SCM,W,45-49,30.18,Lisa A Dahl,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,W,45-49,34.13,Zena H Courtney,,NW Zone SCM Champs,2006,2
+PNA,100 M Butterfly,SCM,W,45-49,1:44.73,Margaret A Diddams,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,45-49,1:12.18,Lisa A Dahl,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,45-49,1:27.38,Lynn M Gross,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,W,45-49,1:30.60,Margaret A Diddams,,NW Zone SCM Champs,2006,3
+PNA,200 M Individual Medley,SCM,W,45-49,2:47.10,Zena H Courtney,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,50-54,37.08,Janet S Johnson,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,50-54,47.12,Patricia (Pat) M Duggan,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,50-54,1:40.49,Patricia (Pat) M Duggan,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,W,50-54,15:48.03,Patricia (Pat) M Duggan,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,50-54,45.13,Janet S Johnson,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,W,50-54,1:41.56,Janet S Johnson,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,W,50-54,3:41.89,Janet S Johnson,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,50-54,1:44.04,Janet S Johnson,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,55-59,36.19,Kathrine J Casey,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,W,55-59,38.53,Jean L Blackburn,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,55-59,1:20.14,Kathrine J Casey,,Oregon Patriot Games SCM,2006,1
+PNA,100 M Freestyle,SCM,W,55-59,1:27.91,Jean L Blackburn,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,W,55-59,1:34.49,Judy K Williams,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,W,55-59,1:43.40,Jane A Moore,,NW Zone SCM Champs,2006,4
+PNA,200 M Freestyle,SCM,W,55-59,2:56.32,Sarah Welch,,SPMA SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,W,55-59,2:57.87,Kathrine J Casey,,Oak Harbor Pentathlon,2006,2
+PNA,400 M Freestyle,SCM,W,55-59,6:17.95,Kathrine J Casey,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,W,55-59,23:23.87,Kathrine J Casey,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,W,55-59,44.13,Kathrine J Casey,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,W,55-59,1:31.48,Kathrine J Casey,,Oregon Patriot Games SCM,2006,1
+PNA,50 M Breaststroke,SCM,W,55-59,48.07,Kathrine J Casey,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,W,55-59,1:47.70,Kathrine J Casey,,Oregon Patriot Games SCM,2006,1
+PNA,100 M Breaststroke,SCM,W,55-59,2:24.92,Jane A Moore,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,W,55-59,3:56.61,Kathrine J Casey,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,W,55-59,40.20,Sarah Welch,,SPMA SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,W,55-59,43.17,Kathrine J Casey,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Butterfly,SCM,W,55-59,1:39.27,Sarah Welch,,NW Zone SCM Champs,2006,1
+PNA,100 M Butterfly,SCM,W,55-59,1:42.19,Kathrine J Casey,,Oregon Patriot Games SCM,2006,2
+PNA,200 M Butterfly,SCM,W,55-59,3:36.66,Sarah Welch,,SPMA SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,55-59,1:35.49,Sarah Welch,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,55-59,1:37.33,Kathrine J Casey,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,W,55-59,1:40.35,Jean L Blackburn,,NW Zone SCM Champs,2006,3
+PNA,100 M Individual Medley,SCM,W,55-59,1:48.65,Judy K Williams,,NW Zone SCM Champs,2006,4
+PNA,100 M Individual Medley,SCM,W,55-59,2:13.21,Jane A Moore,,NW Zone SCM Champs,2006,5
+PNA,200 M Individual Medley,SCM,W,55-59,3:23.48,Kathrine J Casey,,Oregon Patriot Games SCM,2006,1
+PNA,400 M Individual Medley,SCM,W,55-59,7:06.01,Sarah Welch,,SPMA SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,60-64,37.99,Pinky M Walker,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,60-64,40.99,Joan D Delgado,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Freestyle,SCM,W,60-64,1:22.49,Pinky M Walker,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,W,60-64,1:37.07,Arni H Litt,,NW Zone SCM Champs,2006,2
+PNA,200 M Freestyle,SCM,W,60-64,3:24.77,Arni H Litt,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,W,60-64,14:40.78,Arni H Litt,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,W,60-64,29:34.07,Jeanne Ensign,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,W,60-64,43.89,Pinky M Walker,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,60-64,50.92,Joan D Delgado,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Backstroke,SCM,W,60-64,1:02.24,Kristi Rennebohm Franz,,NW Zone SCM Champs,2006,3
+PNA,100 M Backstroke,SCM,W,60-64,1:39.25,Pinky M Walker,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,60-64,49.13,Arni H Litt,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,60-64,54.78,Marsha P Hansen,,NW Zone SCM Champs,2006,2
+PNA,50 M Breaststroke,SCM,W,60-64,58.40,Joan D Delgado,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Breaststroke,SCM,W,60-64,1:45.72,Arni H Litt,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,W,60-64,2:01.83,Marsha P Hansen,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,W,60-64,3:46.82,Arni H Litt,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,W,60-64,53.36,Joan D Delgado,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,W,60-64,1:42.35,Pinky M Walker,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,W,60-64,1:47.17,Joan D Delgado,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Freestyle,SCM,W,65-69,50.34,Jill D Fritz,,Huntsman World Senior Games,2006,1
+PNA,100 M Freestyle,SCM,W,65-69,1:57.31,Jill D Fritz,,Huntsman World Senior Games,2006,1
+PNA,200 M Freestyle,SCM,W,65-69,4:20.34,Jill D Fritz,,Huntsman World Senior Games,2006,1
+PNA,200 M Freestyle,SCM,W,65-69,5:46.33,Chaya Amiad,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Backstroke,SCM,W,65-69,57.89,Jill D Fritz,,Huntsman World Senior Games,2006,1
+PNA,100 M Backstroke,SCM,W,65-69,2:08.10,Jill D Fritz,,Huntsman World Senior Games,2006,1
+PNA,200 M Backstroke,SCM,W,65-69,5:29.08,Chaya Amiad,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Breaststroke,SCM,W,65-69,1:12.75,Jill D Fritz,,Huntsman World Senior Games,2006,1
+PNA,200 M Breaststroke,SCM,W,65-69,6:49.23,Chaya Amiad,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Butterfly,SCM,W,65-69,6:37.87,Chaya Amiad,,Oak Harbor Pentathlon,2006,1
+PNA,400 M Individual Medley,SCM,W,65-69,12:29.13,Chaya Amiad,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,W,75-79,54.79,Bernice M Phillips,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,W,75-79,1:06.02,Janet D Kavadas,,Oak Harbor Pentathlon,2006,2
+PNA,1500 M Freestyle,SCM,W,75-79,37:47.60,Janet D Kavadas,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,W,75-79,1:11.65,Janet D Kavadas,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Backstroke,SCM,W,75-79,4:53.94,Janet D Kavadas,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,W,75-79,1:14.43,Janet D Kavadas,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Breaststroke,SCM,W,75-79,2:32.72,Janet D Kavadas,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,W,75-79,1:42.96,Janet D Kavadas,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,W,75-79,2:43.81,Janet D Kavadas,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Freestyle,SCM,W,85-89,3:01.55,Marion K Chadwick,,Huntsman World Senior Games,2006,1
+PNA,200 M Freestyle,SCM,W,85-89,7:01.89,Marion K Chadwick,,Huntsman World Senior Games,2006,1
+PNA,400 M Freestyle,SCM,W,85-89,14:29.73,Marion K Chadwick,,Huntsman World Senior Games,2006,1
+PNA,50 M Backstroke,SCM,W,85-89,1:39.50,Marion K Chadwick,,Huntsman World Senior Games,2006,1
+PNA,100 M Backstroke,SCM,W,85-89,3:51.92,Marion K Chadwick,,Huntsman World Senior Games,2006,1
+PNA,200 M Backstroke,SCM,W,85-89,7:54.36,Marion K Chadwick,,Huntsman World Senior Games,2006,1
+PNA,50 M Freestyle,SCM,M,18-24,25.05,Kyle M Ciminski,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,M,18-24,32.68,Jonathan C Block,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,M,18-24,1:10.02,Jonathan C Block,,NW Zone SCM Champs,2006,2
+PNA,200 M Freestyle,SCM,M,18-24,2:34.29,David O'Hern,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,18-24,21:42.68,David O'Hern,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,18-24,30.78,Kyle M Ciminski,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Backstroke,SCM,M,18-24,37.54,Jonathan C Block,,NW Zone SCM Champs,2006,2
+PNA,100 M Backstroke,SCM,M,18-24,1:07.18,Richard L Jordan,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,M,18-24,1:23.71,Jonathan C Block,,NW Zone SCM Champs,2006,3
+PNA,50 M Breaststroke,SCM,M,18-24,30.90,Kyle M Ciminski,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Breaststroke,SCM,M,18-24,1:28.83,David O'Hern,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,M,18-24,2:44.03,Richard L Jordan,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,M,18-24,3:13.83,David O'Hern,,NW Zone SCM Champs,2006,3
+PNA,200 M Butterfly,SCM,M,18-24,3:12.06,David O'Hern,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,M,18-24,1:02.82,Kyle M Ciminski,,Oak Harbor Pentathlon,2006,1
+PNA,400 M Individual Medley,SCM,M,18-24,5:04.23,Richard L Jordan,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,M,18-24,5:59.59,David O'Hern,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,M,25-29,27.60,Dmitri V Paramonov,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,M,25-29,29.47,Sander B Bogdan,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Freestyle,SCM,M,25-29,29.48,Nick E Klem,,Gay Games at Chicago,2006,4
+PNA,50 M Freestyle,SCM,M,25-29,32.01,Eric R Kelley,,NW Zone SCM Champs,2006,6
+PNA,100 M Freestyle,SCM,M,25-29,1:05.85,Nick E Klem,,Gay Games at Chicago,2006,2
+PNA,100 M Freestyle,SCM,M,25-29,1:11.84,Eric R Kelley,,NW Zone SCM Champs,2006,3
+PNA,800 M Freestyle,SCM,M,25-29,12:01.02,Eric R Kelley,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,25-29,39.27,Sander B Bogdan,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Backstroke,SCM,M,25-29,39.59,Eric R Kelley,,NW Zone SCM Champs,2006,4
+PNA,50 M Breaststroke,SCM,M,25-29,34.13,Sander B Bogdan,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Breaststroke,SCM,M,25-29,38.87,Nick E Klem,,Gay Games at Chicago,2006,3
+PNA,100 M Breaststroke,SCM,M,25-29,1:21.54,Nick E Klem,,Gay Games at Chicago,2006,1
+PNA,200 M Breaststroke,SCM,M,25-29,2:58.38,Nick E Klem,,Gay Games at Chicago,2006,1
+PNA,50 M Butterfly,SCM,M,25-29,32.98,Sander B Bogdan,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,25-29,1:15.52,Sander B Bogdan,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,M,30-34,26.94,Jon A Walker,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,30-34,28.14,Justin J Erickson,,NW Zone SCM Champs,2006,3
+PNA,50 M Freestyle,SCM,M,30-34,30.15,Steven M Rosaria,,NW Zone SCM Champs,2006,4
+PNA,100 M Freestyle,SCM,M,30-34,58.92,Jon A Walker,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,30-34,1:01.62,Steven M Rosaria,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Freestyle,SCM,M,30-34,1:03.29,Justin J Erickson,,NW Zone SCM Champs,2006,4
+PNA,100 M Freestyle,SCM,M,30-34,1:22.63,Jason D Lassen,,NW Zone SCM Champs,2006,6
+UNAT,400 M Freestyle,SCM,M,30-34,4:39.90,Doug Jelen,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,30-34,10:49.08,Justin J Erickson,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,30-34,11:13.31,Steven M Rosaria,,NW Zone SCM Champs,2006,2
+PNA,1500 M Freestyle,SCM,M,30-34,20:47.89,Steven M Rosaria,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,30-34,35.46,Steven M Rosaria,,Oak Harbor Pentathlon,2006,1
+UNAT,100 M Backstroke,SCM,M,30-34,1:08.73,Doug Jelen,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,30-34,35.39,Steven M Rosaria,,NW Zone SCM Champs,2006,2
+PNA,50 M Breaststroke,SCM,M,30-34,41.85,Jason D Lassen,,NW Zone SCM Champs,2006,3
+PNA,100 M Breaststroke,SCM,M,30-34,1:19.99,Steven M Rosaria,,NW Zone SCM Champs,2006,2
+PNA,100 M Breaststroke,SCM,M,30-34,1:33.49,Jason D Lassen,,NW Zone SCM Champs,2006,3
+UNAT,200 M Breaststroke,SCM,M,30-34,2:58.88,Doug Jelen,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,M,30-34,3:23.82,Jason D Lassen,,NW Zone SCM Champs,2006,3
+UNAT,50 M Butterfly,SCM,M,30-34,30.02,Doug Jelen,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,M,30-34,1:07.62,Jon A Walker,,NW Zone SCM Champs,2006,1
+UNAT,200 M Individual Medley,SCM,M,30-34,2:29.24,Doug Jelen,,NW Zone SCM Champs,2006,1
+UNAT,400 M Individual Medley,SCM,M,30-34,5:15.28,Doug Jelen,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,35-39,30.94,George L Gonzalez,,Gay Games at Chicago,2006,1
+PNA,50 M Freestyle,SCM,M,35-39,34.76,Kerry A Ness,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,M,35-39,57.82,David E Kays,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,M,35-39,59.06,Kirk E Nelson,,NW Zone SCM Champs,2006,3
+PNA,400 M Freestyle,SCM,M,35-39,4:26.62,David E Kays,,NW Zone SCM Champs,2006,1
+PNA,400 M Freestyle,SCM,M,35-39,4:37.85,Kirk E Nelson,,NW Zone SCM Champs,2006,2
+PNA,400 M Freestyle,SCM,M,35-39,5:24.37,George L Gonzalez,,Gay Games at Chicago,2006,3
+PNA,800 M Freestyle,SCM,M,35-39,11:17.23,George L Gonzalez,,Gay Games at Chicago,2006,1
+PNA,1500 M Freestyle,SCM,M,35-39,17:49.63,David E Kays,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,35-39,45.28,Kerry A Ness,,NW Zone SCM Champs,2006,2
+PNA,100 M Backstroke,SCM,M,35-39,1:13.38,David E Kays,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Breaststroke,SCM,M,35-39,35.43,David E Kays,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,35-39,42.52,Kerry A Ness,,NW Zone SCM Champs,2006,2
+PNA,100 M Breaststroke,SCM,M,35-39,1:17.08,David E Kays,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Breaststroke,SCM,M,35-39,1:36.50,Kerry A Ness,,NW Zone SCM Champs,2006,2
+PNA,50 M Butterfly,SCM,M,35-39,28.80,David E Kays,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,M,35-39,35.39,George L Gonzalez,,Gay Games at Chicago,2006,2
+PNA,50 M Butterfly,SCM,M,35-39,39.30,Kerry A Ness,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Butterfly,SCM,M,35-39,1:08.21,David E Kays,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Butterfly,SCM,M,35-39,1:24.50,George L Gonzalez,,Gay Games at Chicago,2006,2
+PNA,100 M Individual Medley,SCM,M,35-39,1:27.92,Kerry A Ness,,NW Zone SCM Champs,2006,1
+PNA,200 M Individual Medley,SCM,M,35-39,2:29.51,David E Kays,,Oak Harbor Pentathlon,2006,1
+PNA,400 M Individual Medley,SCM,M,35-39,5:06.56,David E Kays,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,M,35-39,5:19.39,Kirk E Nelson,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,M,40-44,26.60,Bob A Fish,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,40-44,29.14,David J Turner,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Freestyle,SCM,M,40-44,1:04.32,David J Turner,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,40-44,1:06.04,Charles L Norman,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Freestyle,SCM,M,40-44,2:17.00,Bob A Fish,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Freestyle,SCM,M,40-44,2:17.76,Daniel C Smith,,NW Zone SCM Champs,2006,2
+PNA,200 M Freestyle,SCM,M,40-44,2:43.38,Phil I Brennan,,Gay Games at Chicago,2006,3
+PNA,200 M Freestyle,SCM,M,40-44,3:45.64,Mike H McCullough,,NW Zone SCM Champs,2006,4
+PNA,400 M Freestyle,SCM,M,40-44,4:41.61,Bob A Fish,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,40-44,19:07.16,Keith Szot,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,40-44,19:23.35,Daniel C Smith,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,M,40-44,31.79,Bob A Fish,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,40-44,32.79,Matthew A Lind,,Gay Games at Chicago,2006,2
+PNA,50 M Backstroke,SCM,M,40-44,39.05,David J Turner,,Oak Harbor Pentathlon,2006,4
+PNA,100 M Backstroke,SCM,M,40-44,1:07.55,Bob A Fish,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,M,40-44,1:10.57,Matthew A Lind,,Gay Games at Chicago,2006,2
+PNA,100 M Backstroke,SCM,M,40-44,1:25.99,Charles L Norman,,Oak Harbor Pentathlon,2006,3
+PNA,200 M Backstroke,SCM,M,40-44,2:24.76,Bob A Fish,,NW Zone SCM Champs,2006,1
+PNA,200 M Backstroke,SCM,M,40-44,2:31.40,Matthew A Lind,,Gay Games at Chicago,2006,2
+PNA,50 M Breaststroke,SCM,M,40-44,33.85,Todd Eggers,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,40-44,36.20,David J Turner,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Breaststroke,SCM,M,40-44,1:16.64,Todd Eggers,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,M,40-44,1:19.83,Charles L Norman,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Breaststroke,SCM,M,40-44,1:24.86,David J Turner,,NW Zone SCM Champs,2006,3
+PNA,100 M Breaststroke,SCM,M,40-44,1:28.89,Phil I Brennan,,Gay Games at Chicago,2006,4
+PNA,200 M Breaststroke,SCM,M,40-44,2:51.45,Daniel C Smith,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,M,40-44,3:06.61,David J Turner,,NW Zone SCM Champs,2006,2
+PNA,200 M Breaststroke,SCM,M,40-44,3:12.81,Phil I Brennan,,Gay Games at Chicago,2006,3
+PNA,50 M Butterfly,SCM,M,40-44,30.39,Bob A Fish,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Butterfly,SCM,M,40-44,31.74,Matthew A Lind,,Gay Games at Chicago,2006,3
+PNA,50 M Butterfly,SCM,M,40-44,32.96,David J Turner,,Oak Harbor Pentathlon,2006,4
+PNA,100 M Butterfly,SCM,M,40-44,1:14.64,Charles L Norman,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,40-44,1:11.13,Matthew A Lind,,Gay Games at Chicago,2006,2
+PNA,100 M Individual Medley,SCM,M,40-44,1:17.64,David J Turner,,NW Zone SCM Champs,2006,3
+PNA,100 M Individual Medley,SCM,M,40-44,1:23.24,Phil I Brennan,,Gay Games at Chicago,2006,4
+PNA,200 M Individual Medley,SCM,M,40-44,2:31.45,Bob A Fish,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Individual Medley,SCM,M,40-44,2:44.66,Charles L Norman,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Individual Medley,SCM,M,40-44,3:04.67,Phil I Brennan,,Gay Games at Chicago,2006,3
+PNA,400 M Individual Medley,SCM,M,40-44,5:33.61,Daniel C Smith,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,45-49,26.29,Jon L Baca,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,M,45-49,27.36,Eric S Valley,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,M,45-49,27.83,James R Littlefield,,NW Zone SCM Champs,2006,3
+PNA,50 M Freestyle,SCM,M,45-49,27.96,Colin Chinn,,NW Zone SCM Champs,2006,4
+PNA,50 M Freestyle,SCM,M,45-49,30.90,Paul M Havick,,NW Zone SCM Champs,2006,6
+PNA,50 M Freestyle,SCM,M,45-49,32.58,Ron J Oren,,NW Zone SCM Champs,2006,7
+PNA,100 M Freestyle,SCM,M,45-49,59.27,Jon L Baca,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,45-49,1:01.31,Eric S Valley,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,M,45-49,1:02.15,Colin Chinn,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,M,45-49,1:03.33,James R Littlefield,,NW Zone SCM Champs,2006,4
+PNA,100 M Freestyle,SCM,M,45-49,1:06.51,Eric T Dybdahl,,NW Zone SCM Champs,2006,5
+PNA,100 M Freestyle,SCM,M,45-49,1:08.88,Thomas P Farrell,,NW Zone SCM Champs,2006,6
+PNA,100 M Freestyle,SCM,M,45-49,1:10.54,Paul M Havick,,NW Zone SCM Champs,2006,8
+PNA,100 M Freestyle,SCM,M,45-49,1:14.01,Ron J Oren,,NW Zone SCM Champs,2006,9
+PNA,100 M Freestyle,SCM,M,45-49,1:20.56,Paul J Ikeda,,Gay Games at Chicago,2006,10
+PNA,200 M Freestyle,SCM,M,45-49,2:15.42,Eric S Valley,,NW Zone SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,M,45-49,2:21.71,Colin Chinn,,NW Zone SCM Champs,2006,2
+PNA,200 M Freestyle,SCM,M,45-49,2:26.10,Frederick A Graham,,NW Zone SCM Champs,2006,3
+PNA,400 M Freestyle,SCM,M,45-49,5:03.72,Colin Chinn,,NW Zone SCM Champs,2006,1
+PNA,400 M Freestyle,SCM,M,45-49,5:15.68,Frederick A Graham,,NW Zone SCM Champs,2006,2
+PNA,400 M Freestyle,SCM,M,45-49,5:19.37,Eric T Dybdahl,,NW Zone SCM Champs,2006,3
+PNA,400 M Freestyle,SCM,M,45-49,5:28.42,Robby Davis,,Gay Games at Chicago,2006,4
+PNA,800 M Freestyle,SCM,M,45-49,10:45.73,Colin Chinn,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,45-49,10:55.71,Eric T Dybdahl,,NW Zone SCM Champs,2006,2
+PNA,800 M Freestyle,SCM,M,45-49,11:01.40,Thomas P Farrell,,NW Zone SCM Champs,2006,3
+PNA,800 M Freestyle,SCM,M,45-49,12:59.69,Paul J Ikeda,,Gay Games at Chicago,2006,4
+PNA,1500 M Freestyle,SCM,M,45-49,19:48.95,Eric S Valley,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,45-49,21:27.28,Frederick A Graham,,NW Zone SCM Champs,2006,2
+PNA,1500 M Freestyle,SCM,M,45-49,21:32.15,Eric T Dybdahl,,NW Zone SCM Champs,2006,3
+PNA,50 M Backstroke,SCM,M,45-49,32.31,James R Littlefield,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,45-49,32.96,Carl B Haynie,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,M,45-49,37.81,Jon L Baca,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Backstroke,SCM,M,45-49,37.87,Robby Davis,,Gay Games at Chicago,2006,4
+PNA,50 M Backstroke,SCM,M,45-49,40.37,Thomas P Farrell,,NW Zone SCM Champs,2006,5
+PNA,50 M Backstroke,SCM,M,45-49,40.51,Ron J Oren,,NW Zone SCM Champs,2006,6
+PNA,100 M Backstroke,SCM,M,45-49,1:11.12,James R Littlefield,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,M,45-49,1:12.09,Carl B Haynie,,NW Zone SCM Champs,2006,2
+PNA,100 M Backstroke,SCM,M,45-49,1:21.70,Robby Davis,,Gay Games at Chicago,2006,3
+PNA,100 M Backstroke,SCM,M,45-49,1:23.69,Thomas P Farrell,,NW Zone SCM Champs,2006,4
+PNA,100 M Backstroke,SCM,M,45-49,1:26.72,Colin Chinn,,Oak Harbor Pentathlon,2006,5
+PNA,200 M Backstroke,SCM,M,45-49,2:51.97,Robby Davis,,Gay Games at Chicago,2006,1
+PNA,50 M Breaststroke,SCM,M,45-49,32.50,Jon L Baca,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,45-49,38.97,Colin Chinn,,NW Zone SCM Champs,2006,2
+PNA,50 M Breaststroke,SCM,M,45-49,40.67,Paul J Ikeda,,Gay Games at Chicago,2006,3
+PNA,100 M Breaststroke,SCM,M,45-49,1:13.25,Jon L Baca,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,M,45-49,1:29.19,Colin Chinn,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Butterfly,SCM,M,45-49,29.01,Jon L Baca,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,M,45-49,29.89,Brian A Russell,,NW Zone SCM Champs,2006,2
+PNA,50 M Butterfly,SCM,M,45-49,34.29,Kevin C McNeal,,NW Zone SCM Champs,2006,3
+PNA,100 M Butterfly,SCM,M,45-49,1:06.61,Brian A Russell,,NW Zone SCM Champs,2006,1
+PNA,100 M Butterfly,SCM,M,45-49,1:26.67,Colin Chinn,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Individual Medley,SCM,M,45-49,1:11.29,Carl B Haynie,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,M,45-49,1:11.80,Brian A Russell,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,M,45-49,1:12.18,Jon L Baca,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Individual Medley,SCM,M,45-49,1:18.75,Robby Davis,,Gay Games at Chicago,2006,4
+PNA,100 M Individual Medley,SCM,M,45-49,1:24.10,Thomas P Farrell,,NW Zone SCM Champs,2006,5
+PNA,100 M Individual Medley,SCM,M,45-49,1:24.91,Paul M Havick,,NW Zone SCM Champs,2006,6
+PNA,100 M Individual Medley,SCM,M,45-49,1:28.65,Ron J Oren,,NW Zone SCM Champs,2006,7
+PNA,200 M Individual Medley,SCM,M,45-49,2:34.85,Brian A Russell,,NW Zone SCM Champs,2006,1
+PNA,200 M Individual Medley,SCM,M,45-49,2:58.58,Eric T Dybdahl,,NW Zone SCM Champs,2006,2
+PNA,200 M Individual Medley,SCM,M,45-49,3:04.22,Colin Chinn,,Oak Harbor Pentathlon,2006,3
+PNA,200 M Individual Medley,SCM,M,45-49,3:14.00,Paul J Ikeda,,Gay Games at Chicago,2006,4
+PNA,400 M Individual Medley,SCM,M,45-49,6:19.59,Eric T Dybdahl,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,50-54,37.89,James M Nelson,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,50-54,1:06.84,Ted J Hackett,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,50-54,1:14.14,Robert W Hartwig,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,M,50-54,1:16.08,Mike Blume,,NW Zone SCM Champs,2006,3
+PNA,200 M Freestyle,SCM,M,50-54,2:54.91,Mike Blume,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,50-54,11:44.05,Hugh C Moore,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,50-54,22:49.96,Hugh C Moore,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,50-54,30.51,Donald Graham,,Colonies Zone and NJ SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,50-54,35.16,Ted J Hackett,,NW Zone SCM Champs,2006,2
+PNA,50 M Backstroke,SCM,M,50-54,35.64,Stephen L Freeborn,,NW Zone SCM Champs,2006,3
+PNA,50 M Backstroke,SCM,M,50-54,39.69,Paul M Clements,,Gay Games at Chicago,2006,4
+PNA,100 M Backstroke,SCM,M,50-54,1:09.09,Donald Graham,,Colonies Zone and NJ SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,M,50-54,1:17.84,Stephen L Freeborn,,NW Zone SCM Champs,2006,2
+PNA,100 M Backstroke,SCM,M,50-54,1:20.15,Ted J Hackett,,NW Zone SCM Champs,2006,3
+PNA,200 M Backstroke,SCM,M,50-54,3:16.26,Mike Blume,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,M,50-54,27.04,Donald Graham,,Colonies Zone and NJ SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,M,50-54,30.71,Stephen L Freeborn,,NW Zone SCM Champs,2006,2
+PNA,100 M Butterfly,SCM,M,50-54,1:04.03,Donald Graham,,Colonies Zone and NJ SCM Champs,2006,1
+PNA,100 M Butterfly,SCM,M,50-54,1:15.77,Hugh C Moore,,NW Zone SCM Champs,2006,2
+PNA,100 M Butterfly,SCM,M,50-54,1:15.87,Stephen L Freeborn,,NW Zone SCM Champs,2006,3
+PNA,200 M Butterfly,SCM,M,50-54,2:53.55,Hugh C Moore,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,M,50-54,1:09.87,Donald Graham,,Colonies Zone and NJ SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,M,50-54,1:16.63,Stephen L Freeborn,,NW Zone SCM Champs,2006,2
+PNA,100 M Individual Medley,SCM,M,50-54,1:18.51,Ted J Hackett,,NW Zone SCM Champs,2006,3
+PNA,100 M Individual Medley,SCM,M,50-54,1:27.94,Mike Blume,,NW Zone SCM Champs,2006,4
+PNA,100 M Individual Medley,SCM,M,50-54,1:29.07,Paul M Clements,,Gay Games at Chicago,2006,5
+PNA,200 M Individual Medley,SCM,M,50-54,2:47.61,Stephen L Freeborn,,NW Zone SCM Champs,2006,1
+UNAT,50 M Freestyle,SCM,M,55-59,28.77,Buster Yonych,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,55-59,32.71,Gregory A Joannides,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,M,55-59,35.63,Craig C Carlson,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Freestyle,SCM,M,55-59,40.93,Michael C Spence,,Oak Harbor Pentathlon,2006,4
+PNA,50 M Freestyle,SCM,M,55-59,42.33,Ron P Hansen,,Oak Harbor Pentathlon,2006,5
+PNA,100 M Freestyle,SCM,M,55-59,1:36.66,Michael C Spence,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Freestyle,SCM,M,55-59,3:25.43,Ron P Hansen,,Oak Harbor Pentathlon,2006,1
+PNA,400 M Freestyle,SCM,M,55-59,5:05.39,William (Bill) J Penn,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,55-59,10:28.97,William (Bill) J Penn,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,55-59,12:32.00,Brian L Carlton,,NW Zone SCM Champs,2006,2
+PNA,800 M Freestyle,SCM,M,55-59,14:27.22,Ron P Hansen,,NW Zone SCM Champs,2006,3
+PNA,1500 M Freestyle,SCM,M,55-59,20:58.53,William (Bill) J Penn,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,55-59,27:22.70,Ron P Hansen,,Oak Harbor Pentathlon,2006,2
+UNAT,50 M Backstroke,SCM,M,55-59,32.87,Buster Yonych,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,55-59,43.05,Gregory A Joannides,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Backstroke,SCM,M,55-59,44.06,Craig C Carlson,,Oak Harbor Pentathlon,2006,3
+PNA,50 M Backstroke,SCM,M,55-59,48.49,Ron P Hansen,,NW Zone SCM Champs,2006,4
+PNA,100 M Backstroke,SCM,M,55-59,1:42.01,Ron P Hansen,,NW Zone SCM Champs,2006,1
+PNA,200 M Backstroke,SCM,M,55-59,3:48.14,Ron P Hansen,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Breaststroke,SCM,M,55-59,41.94,Gregory A Joannides,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Breaststroke,SCM,M,55-59,44.74,Craig C Carlson,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Breaststroke,SCM,M,55-59,47.58,Ron P Hansen,,NW Zone SCM Champs,2006,3
+PNA,50 M Breaststroke,SCM,M,55-59,54.52,Michael C Spence,,Oak Harbor Pentathlon,2006,4
+PNA,100 M Breaststroke,SCM,M,55-59,1:48.94,Ron P Hansen,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,M,55-59,2:01.50,Michael C Spence,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Breaststroke,SCM,M,55-59,4:02.41,Ron P Hansen,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,M,55-59,41.69,Craig C Carlson,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Butterfly,SCM,M,55-59,49.07,Gregory A Joannides,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Individual Medley,SCM,M,55-59,1:20.84,William (Bill) J Penn,,NW Zone SCM Champs,2006,1
+PNA,100 M Individual Medley,SCM,M,55-59,1:30.42,Craig C Carlson,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Individual Medley,SCM,M,55-59,1:31.20,Gregory A Joannides,,NW Zone SCM Champs,2006,3
+PNA,200 M Individual Medley,SCM,M,55-59,3:01.74,William (Bill) J Penn,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,M,55-59,6:10.31,William (Bill) J Penn,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,60-64,30.69,Sonny Garrett,,NW Zone SCM Champs,2006,1
+PNA,50 M Freestyle,SCM,M,60-64,34.31,Don H Schaefer,,NW Zone SCM Champs,2006,2
+PNA,50 M Freestyle,SCM,M,60-64,38.85,Paul Freeman,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,M,60-64,1:10.22,Steven B Peterson,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,60-64,1:13.03,John W Leet,,NW Zone SCM Champs,2006,2
+PNA,100 M Freestyle,SCM,M,60-64,1:19.71,Hugh Kimball,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,M,60-64,1:29.23,Paul Freeman,,NW Zone SCM Champs,2006,5
+PNA,100 M Freestyle,SCM,M,60-64,1:29.91,Jeff J Jacobsen,,NW Zone SCM Champs,2006,6
+PNA,200 M Freestyle,SCM,M,60-64,2:54.77,Hugh Kimball,,NW Zone SCM Champs,2006,1
+PNA,400 M Freestyle,SCM,M,60-64,5:25.33,Steven B Peterson,,NW Zone SCM Champs,2006,1
+PNA,800 M Freestyle,SCM,M,60-64,12:58.86,Hugh Kimball,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,60-64,19:22.76,James T McCleery,,NW Zone SCM Champs,2006,1
+PNA,1500 M Freestyle,SCM,M,60-64,21:55.60,Steven B Peterson,,Oak Harbor Pentathlon,2006,2
+PNA,1500 M Freestyle,SCM,M,60-64,24:39.09,Hugh Kimball,,NW Zone SCM Champs,2006,3
+PNA,1500 M Freestyle,SCM,M,60-64,25:20.88,John W Leet,,NW Zone SCM Champs,2006,4
+PNA,50 M Backstroke,SCM,M,60-64,43.13,John W Leet,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,M,60-64,1:34.29,John W Leet,,NW Zone SCM Champs,2006,1
+PNA,100 M Backstroke,SCM,M,60-64,1:54.88,Hugh Kimball,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Backstroke,SCM,M,60-64,3:25.62,John W Leet,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,60-64,36.58,Steven B Peterson,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,60-64,45.46,Hugh Kimball,,NW Zone SCM Champs,2006,2
+PNA,100 M Breaststroke,SCM,M,60-64,1:47.68,Hugh Kimball,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Breaststroke,SCM,M,60-64,2:59.67,Steven B Peterson,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,M,60-64,32.59,Sonny Garrett,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,M,60-64,39.09,John W Leet,,NW Zone SCM Champs,2006,2
+PNA,100 M Butterfly,SCM,M,60-64,1:39.61,Hugh Kimball,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Butterfly,SCM,M,60-64,3:35.24,Steven B Peterson,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,60-64,1:36.68,Hugh Kimball,,NW Zone SCM Champs,2006,1
+PNA,200 M Individual Medley,SCM,M,60-64,2:51.71,Steven B Peterson,,NW Zone SCM Champs,2006,1
+PNA,200 M Individual Medley,SCM,M,60-64,3:40.22,Hugh Kimball,,Oak Harbor Pentathlon,2006,2
+PNA,400 M Individual Medley,SCM,M,60-64,6:21.15,Steven B Peterson,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,M,65-69,38.72,Lee A Carlson,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Freestyle,SCM,M,65-69,1:16.77,Michael C Nordby,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,65-69,1:20.58,Allan K McDougall,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Freestyle,SCM,M,65-69,1:28.85,Robert R Davis,,NW Zone SCM Champs,2006,3
+PNA,100 M Freestyle,SCM,M,65-69,1:29.59,Lee A Carlson,,NW Zone SCM Champs,2006,4
+PNA,400 M Freestyle,SCM,M,65-69,5:49.76,Michael C Nordby,,NW Zone SCM Champs,2006,1
+PNA,400 M Freestyle,SCM,M,65-69,6:57.82,Robert R Davis,,NW Zone SCM Champs,2006,2
+PNA,800 M Freestyle,SCM,M,65-69,14:46.54,Robert R Davis,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,65-69,44.69,Lee A Carlson,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,65-69,55.76,Robert R Davis,,NW Zone SCM Champs,2006,2
+PNA,100 M Backstroke,SCM,M,65-69,1:28.88,Allan K McDougall,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Backstroke,SCM,M,65-69,1:34.13,Walt E Reid,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Backstroke,SCM,M,65-69,3:13.06,Michael C Nordby,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,65-69,41.56,Allan K McDougall,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,65-69,42.75,Walt E Reid,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Breaststroke,SCM,M,65-69,50.33,Lee A Carlson,,Oak Harbor Pentathlon,2006,3
+PNA,100 M Breaststroke,SCM,M,65-69,1:31.04,Allan K McDougall,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,M,65-69,3:22.37,Allan K McDougall,,NW Zone SCM Champs,2006,1
+PNA,200 M Breaststroke,SCM,M,65-69,3:28.36,Michael C Nordby,,NW Zone SCM Champs,2006,2
+PNA,50 M Butterfly,SCM,M,65-69,47.89,Lee A Carlson,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Butterfly,SCM,M,65-69,1:50.09,Allan K McDougall,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,65-69,1:31.57,Walt E Reid,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,65-69,1:42.23,Lee A Carlson,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Individual Medley,SCM,M,65-69,3:13.50,Michael C Nordby,,NW Zone SCM Champs,2006,1
+PNA,200 M Individual Medley,SCM,M,65-69,3:16.58,Allan K McDougall,,Oak Harbor Pentathlon,2006,2
+PNA,50 M Freestyle,SCM,M,70-74,42.78,Jack R Fritz,,Huntsman World Senior Games,2006,1
+PNA,100 M Freestyle,SCM,M,70-74,1:43.35,Jack R Fritz,,Huntsman World Senior Games,2006,1
+PNA,100 M Freestyle,SCM,M,70-74,2:10.69,Thomas K Foley,,Oak Harbor Pentathlon,2006,2
+PNA,200 M Freestyle,SCM,M,70-74,3:38.46,Don L Rehfeldt,,NW Zone SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,M,70-74,4:20.09,Jack R Fritz,,Huntsman World Senior Games,2006,2
+PNA,800 M Freestyle,SCM,M,70-74,15:57.12,Don L Rehfeldt,,NW Zone SCM Champs,2006,1
+PNA,50 M Backstroke,SCM,M,70-74,1:05.19,Jack R Fritz,,Huntsman World Senior Games,2006,1
+PNA,100 M Backstroke,SCM,M,70-74,2:13.54,Thomas K Foley,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Breaststroke,SCM,M,70-74,49.83,Don L Rehfeldt,,NW Zone SCM Champs,2006,1
+PNA,50 M Breaststroke,SCM,M,70-74,1:03.55,Jack R Fritz,,Huntsman World Senior Games,2006,2
+PNA,100 M Breaststroke,SCM,M,70-74,1:53.26,Don L Rehfeldt,,NW Zone SCM Champs,2006,1
+PNA,100 M Breaststroke,SCM,M,70-74,2:30.79,Thomas K Foley,,Oak Harbor Pentathlon,2006,2
+PNA,100 M Breaststroke,SCM,M,70-74,2:31.22,Jack R Fritz,,Huntsman World Senior Games,2006,3
+PNA,200 M Breaststroke,SCM,M,70-74,4:08.70,Don L Rehfeldt,,NW Zone SCM Champs,2006,1
+PNA,50 M Butterfly,SCM,M,70-74,1:05.05,Jack R Fritz,,Huntsman World Senior Games,2006,1
+PNA,100 M Butterfly,SCM,M,70-74,2:52.61,Thomas K Foley,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,70-74,2:21.18,Jack R Fritz,,Huntsman World Senior Games,2006,1
+PNA,200 M Individual Medley,SCM,M,70-74,4:59.55,Thomas K Foley,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Individual Medley,SCM,M,70-74,5:57.46,Jack R Fritz,,Huntsman World Senior Games,2006,2
+PNA,50 M Freestyle,SCM,M,75-79,36.23,Robert O Dorse,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,75-79,1:25.03,Robert O Dorse,,NW Zone SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,M,75-79,3:18.88,Harvey W Prosser,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Backstroke,SCM,M,75-79,4:14.64,Harvey W Prosser,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Breaststroke,SCM,M,75-79,4:40.37,Harvey W Prosser,,Oak Harbor Pentathlon,2006,1
+PNA,200 M Butterfly,SCM,M,75-79,5:23.60,Harvey W Prosser,,Oak Harbor Pentathlon,2006,1
+PNA,100 M Individual Medley,SCM,M,75-79,1:47.77,Robert O Dorse,,NW Zone SCM Champs,2006,1
+PNA,400 M Individual Medley,SCM,M,75-79,8:58.62,Harvey W Prosser,,Oak Harbor Pentathlon,2006,1
+PNA,50 M Freestyle,SCM,M,80-84,44.71,Dave Newton,,Huntsman World Senior Games,2006,1
+PNA,100 M Freestyle,SCM,M,80-84,1:47.04,Dave Newton,,Huntsman World Senior Games,2006,1
+PNA,200 M Freestyle,SCM,M,80-84,4:15.47,Dave Newton,,Huntsman World Senior Games,2006,1
+PNA,50 M Freestyle,SCM,M,90-94,1:15.84,L (Gene) E Crossett,,NW Zone SCM Champs,2006,1
+PNA,100 M Freestyle,SCM,M,90-94,2:51.85,L (Gene) E Crossett,,NW Zone SCM Champs,2006,1
+PNA,200 M Freestyle,SCM,M,90-94,6:52.32,L (Gene) E Crossett,,NW Zone SCM Champs,2006,1

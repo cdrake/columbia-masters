@@ -1,0 +1,482 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+HSAM,100 M Freestyle,SCM,W,18-24,1:13.36,Melissa Arzave Trujillo,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+HSAM,200 M Freestyle,SCM,W,18-24,2:37.98,Melissa Arzave Trujillo,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+HSAM,100 M Backstroke,SCM,W,18-24,1:25.84,Melissa Arzave Trujillo,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+HSAM,200 M Backstroke,SCM,W,18-24,3:13.26,Melissa Arzave Trujillo,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+HSAM,200 M Individual Medley,SCM,W,18-24,3:11.83,Melissa Arzave Trujillo,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Breaststroke,SCM,W,25-29,3:01.17,Veronica A Espino,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Butterfly,SCM,W,25-29,1:10.68,Veronica A Espino,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Butterfly,SCM,W,25-29,2:39.21,Veronica A Espino,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,W,30-34,37.31,Jennifer M Litwak,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+ECFY,50 M Freestyle,SCM,W,30-34,47.74,Dawn J Fisher,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+ECFY,100 M Freestyle,SCM,W,30-34,1:58.39,Dawn J Fisher,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Freestyle,SCM,W,30-34,2:14.36,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Freestyle,SCM,W,30-34,4:38.10,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,800 M Freestyle,SCM,W,30-34,9:33.35,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,1500 M Freestyle,SCM,W,30-34,18:08.90,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Backstroke,SCM,W,30-34,33.72,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Backstroke,SCM,W,30-34,36.90,Dannelly W Brown,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Backstroke,SCM,W,30-34,46.64,Jennifer M Litwak,,SCM Pentathlon,2016,3
+SDSM,100 M Backstroke,SCM,W,30-34,1:11.58,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Backstroke,SCM,W,30-34,1:19.25,Dannelly W Brown,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Backstroke,SCM,W,30-34,2:28.29,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Backstroke,SCM,W,30-34,2:48.59,Dannelly W Brown,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Breaststroke,SCM,W,30-34,51.50,Jennifer M Litwak,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Breaststroke,SCM,W,30-34,1:52.37,Jennifer M Litwak,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Butterfly,SCM,W,30-34,33.69,Dannelly W Brown,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Butterfly,SCM,W,30-34,41.09,Jennifer M Litwak,,SCM Pentathlon,2016,2
+SDSM,100 M Individual Medley,SCM,W,30-34,1:40.23,Jennifer M Litwak,,SCM Pentathlon,2016,1
+SDSM,200 M Individual Medley,SCM,W,30-34,2:54.09,Dannelly W Brown,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Individual Medley,SCM,W,30-34,5:19.87,Emily S Parker,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Backstroke,SCM,W,35-39,40.14,Jennifer Leader,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Backstroke,SCM,W,35-39,1:28.17,Jennifer Leader,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,35-39,38.08,Dani Golden,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,35-39,41.12,Mary Corbett,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Breaststroke,SCM,W,35-39,44.64,Colleen A Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,50 M Breaststroke,SCM,W,35-39,44.96,Jennifer Leader,,SPMS Short Course Meters Championships,2016,4
+SDSM,100 M Breaststroke,SCM,W,35-39,1:27.63,Mary Corbett,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,W,35-39,1:37.46,Colleen A Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Breaststroke,SCM,W,35-39,1:40.69,Jennifer Leader,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Breaststroke,SCM,W,35-39,3:05.24,Mary Corbett,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,W,35-39,37.77,Mary Corbett,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Butterfly,SCM,W,35-39,41.59,Colleen A Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Butterfly,SCM,W,35-39,1:09.20,Dani Golden,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Butterfly,SCM,W,35-39,1:21.26,Mary Corbett,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Butterfly,SCM,W,35-39,2:27.64,Dani Golden,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Butterfly,SCM,W,35-39,3:12.28,Mary Corbett,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,W,35-39,1:12.90,Dani Golden,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,W,35-39,1:29.75,Colleen A Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,200 M Individual Medley,SCM,W,35-39,2:59.63,Mary Corbett,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Individual Medley,SCM,W,35-39,5:22.45,Dani Golden,,SPMS Short Course Meters Championships,2016,1
+SDSM,1500 M Freestyle,SCM,W,40-44,21:30.49,Kristina M Maroudis,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Backstroke,SCM,W,40-44,2:51.48,Kristina M Maroudis,,SPMS Short Course Meters Championships,2016,1
+WIND,50 M Freestyle,SCM,W,45-49,30.46,Jill E Gellatly,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,W,45-49,33.01,Tara Rakotz,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Freestyle,SCM,W,45-49,43.79,Jennifer Alberd,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+WIND,100 M Freestyle,SCM,W,45-49,1:05.08,Jill E Gellatly,,PSM Puget Sound Masters SCM Championships,2016,1
+SDSM,100 M Freestyle,SCM,W,45-49,1:13.77,Tara Rakotz,,SPMS Short Course Meters Championships,2016,2
+WIND,200 M Freestyle,SCM,W,45-49,2:17.38,Jill E Gellatly,,PSM Puget Sound Masters SCM Championships,2016,1
+SDSM,200 M Freestyle,SCM,W,45-49,2:47.34,Tara Rakotz,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Freestyle,SCM,W,45-49,2:50.95,Karen A Feld,,SPMS Short Course Meters Championships,2016,3
+WIND,400 M Freestyle,SCM,W,45-49,4:47.95,Jill E Gellatly,,PSM Puget Sound Masters SCM Championships,2016,1
+WIND,800 M Freestyle,SCM,W,45-49,9:51.57,Jill E Gellatly,,SPMS Short Course Meters Championships,2016,1
+SDSM,800 M Freestyle,SCM,W,45-49,11:56.10,Karen A Feld,,SPMS Short Course Meters Championships,2016,2
+SDSM,800 M Freestyle,SCM,W,45-49,11:57.04,Nancy A North,,SPMS Short Course Meters Championships,2016,3
+WIND,1500 M Freestyle,SCM,W,45-49,18:56.11,Jill E Gellatly,,PSM Puget Sound Masters SCM Championships,2016,1
+SDSM,1500 M Freestyle,SCM,W,45-49,23:48.10,Nancy A North,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Backstroke,SCM,W,45-49,41.07,Tara Rakotz,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Backstroke,SCM,W,45-49,52.23,Jennifer Alberd,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,200 M Backstroke,SCM,W,45-49,3:11.89,Nancy A North,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,45-49,45.39,Tara Rakotz,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,45-49,1:01.33,Jennifer Alberd,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+WIND,100 M Breaststroke,SCM,W,45-49,1:24.62,Jill E Gellatly,,SPMS Short Course Meters Championships,2016,1
+WIND,200 M Breaststroke,SCM,W,45-49,3:00.65,Jill E Gellatly,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,W,45-49,35.99,Tara Rakotz,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Butterfly,SCM,W,45-49,1:26.74,Nancy A North,,SPMS Short Course Meters Championships,2016,1
+WIND,100 M Individual Medley,SCM,W,45-49,1:13.74,Jill E Gellatly,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,W,45-49,1:28.75,Tara Rakotz,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,W,45-49,1:56.21,Jennifer Alberd,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,200 M Individual Medley,SCM,W,45-49,3:10.21,Nancy A North,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Individual Medley,SCM,W,45-49,6:48.75,Karen A Feld,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,W,50-54,30.31,Jasmine Stiles,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Freestyle,SCM,W,50-54,1:05.55,Jasmine Stiles,,SPMS Short Course Meters Championships,2016,1
+WIND,100 M Freestyle,SCM,W,50-54,1:07.62,Caroline Krattli,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+UC44,100 M Freestyle,SCM,W,50-54,1:18.31,Sara Bancroft,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,1500 M Freestyle,SCM,W,50-54,24:08.75,Lisa M Simpson,,2016 Jamenna Winston Memorial SCM Invite,2016,1
+SDSM,50 M Breaststroke,SCM,W,50-54,39.72,Jasmine Stiles,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,50-54,40.94,Lisa M Simpson,,2016 Jamenna Winston Memorial SCM Invite,2016,2
+SDSM,50 M Breaststroke,SCM,W,50-54,50.46,Molly Quinn,,SPMS Short Course Meters Championships,2016,3
+WIND,100 M Breaststroke,SCM,W,50-54,1:19.60,Caroline Krattli,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,W,50-54,1:27.27,Jasmine Stiles,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Breaststroke,SCM,W,50-54,1:30.39,Lisa M Simpson,,SPMS Short Course Meters Championships,2016,3
+SDSM,100 M Breaststroke,SCM,W,50-54,1:50.72,Molly Quinn,,SPMS Short Course Meters Championships,2016,4
+SDSM,200 M Breaststroke,SCM,W,50-54,3:06.82,Jasmine Stiles,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Breaststroke,SCM,W,50-54,3:19.38,Lisa M Simpson,,SPMS Short Course Meters Championships,2016,2
+WIND,50 M Butterfly,SCM,W,50-54,34.28,Caroline Krattli,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,W,50-54,36.43,Lisa M Simpson,,SPMS Short Course Meters Championships,2016,2
+WIND,100 M Individual Medley,SCM,W,50-54,1:20.17,Caroline Krattli,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Individual Medley,SCM,W,50-54,1:24.13,Lisa M Simpson,,2016 Jamenna Winston Memorial SCM Invite,2016,2
+UC44,100 M Individual Medley,SCM,W,50-54,1:29.14,Sara Bancroft,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,100 M Individual Medley,SCM,W,50-54,1:40.38,Molly Quinn,,SPMS Short Course Meters Championships,2016,4
+SDSM,400 M Individual Medley,SCM,W,50-54,6:09.91,Jasmine Stiles,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Freestyle,SCM,W,55-59,30.42,Cathy Ganze,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,W,55-59,37.63,Marieke Thayer,,SCM Pentathlon,2016,2
+SDSM,100 M Freestyle,SCM,W,55-59,1:08.91,Cathy Ganze,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Freestyle,SCM,W,55-59,1:16.34,Diana Dolan LaMar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+WIND,200 M Freestyle,SCM,W,55-59,2:35.54,Catherine D De Groot-Hedlin,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Freestyle,SCM,W,55-59,2:50.91,Diana Dolan LaMar,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Freestyle,SCM,W,55-59,2:59.10,Marieke Thayer,,UCLA Bruin Masters SCM Swim Meet,2016,3
+WIND,400 M Freestyle,SCM,W,55-59,5:19.55,Catherine D De Groot-Hedlin,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Freestyle,SCM,W,55-59,5:39.83,Cathy V Neville,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,400 M Freestyle,SCM,W,55-59,5:41.26,Diana Dolan LaMar,,SPMS Short Course Meters Championships,2016,3
+SDSM,400 M Freestyle,SCM,W,55-59,6:45.27,Marieke Thayer,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,4
+SDSM,800 M Freestyle,SCM,W,55-59,12:23.59,Marieke Thayer,,SPMS Short Course Meters Championships,2016,1
+SDSM,1500 M Freestyle,SCM,W,55-59,23:11.64,Marieke Thayer,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Backstroke,SCM,W,55-59,37.02,Cathy Ganze,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Backstroke,SCM,W,55-59,37.86,Christine L Siegel,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Backstroke,SCM,W,55-59,46.38,Marieke Thayer,,SCM Pentathlon,2016,3
+WIND,100 M Backstroke,SCM,W,55-59,1:25.79,Catherine D De Groot-Hedlin,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Backstroke,SCM,W,55-59,1:26.28,Christine L Siegel,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Backstroke,SCM,W,55-59,1:33.92,Diana Dolan LaMar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,100 M Backstroke,SCM,W,55-59,1:37.47,Marieke Thayer,,SPMS Short Course Meters Championships,2016,4
+SDSM,200 M Backstroke,SCM,W,55-59,3:20.78,Cathy V Neville,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Backstroke,SCM,W,55-59,3:23.94,Diana Dolan LaMar,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Breaststroke,SCM,W,55-59,41.93,Cathy Ganze,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Breaststroke,SCM,W,55-59,42.53,Christine L Siegel,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Breaststroke,SCM,W,55-59,52.86,Marieke Thayer,,SCM Pentathlon,2016,3
+SDSM,100 M Breaststroke,SCM,W,55-59,1:36.45,Christine L Siegel,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,W,55-59,1:40.85,Diana Dolan LaMar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Breaststroke,SCM,W,55-59,1:53.26,Marieke Thayer,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,200 M Breaststroke,SCM,W,55-59,3:39.85,Diana Dolan LaMar,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,W,55-59,3:51.28,Marieke Thayer,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Butterfly,SCM,W,55-59,33.93,Cathy Ganze,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,W,55-59,40.15,Cathy V Neville,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Butterfly,SCM,W,55-59,44.69,Marieke Thayer,,UCLA Bruin Masters SCM Swim Meet,2016,3
+WIND,100 M Butterfly,SCM,W,55-59,1:17.23,Catherine D De Groot-Hedlin,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Butterfly,SCM,W,55-59,1:29.56,Cathy V Neville,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Butterfly,SCM,W,55-59,1:35.29,Diana Dolan LaMar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+WIND,200 M Butterfly,SCM,W,55-59,2:52.97,Catherine D De Groot-Hedlin,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Butterfly,SCM,W,55-59,3:27.13,Cathy V Neville,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,W,55-59,1:18.11,Cathy Ganze,,SPMS Short Course Meters Championships,2016,1
+WIND,100 M Individual Medley,SCM,W,55-59,1:23.25,Catherine D De Groot-Hedlin,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Individual Medley,SCM,W,55-59,1:31.28,Marieke Thayer,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Individual Medley,SCM,W,55-59,2:52.96,Cathy Ganze,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,W,55-59,3:15.10,Cathy V Neville,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Individual Medley,SCM,W,55-59,3:16.15,Marieke Thayer,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Individual Medley,SCM,W,55-59,3:18.67,Diana Dolan LaMar,,SPMS Short Course Meters Championships,2016,4
+WIND,400 M Individual Medley,SCM,W,55-59,6:03.78,Catherine D De Groot-Hedlin,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Individual Medley,SCM,W,55-59,6:47.62,Diana Dolan LaMar,,SPMS Short Course Meters Championships,2016,2
+SDSM,400 M Individual Medley,SCM,W,55-59,7:03.15,Marieke Thayer,,SPMS Short Course Meters Championships,2016,3
+SDSM,400 M Individual Medley,SCM,W,55-59,7:20.58,Cathy V Neville,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,4
+SDSM,50 M Freestyle,SCM,W,60-64,34.13,Marilyn A Fink,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Backstroke,SCM,W,60-64,1:06.24,Laura G Meldrum,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Backstroke,SCM,W,60-64,1:24.84,Andra Jaunzeme,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Backstroke,SCM,W,60-64,1:27.00,Marilyn A Fink,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Backstroke,SCM,W,60-64,2:29.49,Laura G Meldrum,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Backstroke,SCM,W,60-64,2:56.47,Andra Jaunzeme,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Backstroke,SCM,W,60-64,4:57.83,Laura G Meldrum,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Butterfly,SCM,W,60-64,1:21.71,Andra Jaunzeme,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Butterfly,SCM,W,60-64,3:06.44,Andra Jaunzeme,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Butterfly,SCM,W,60-64,5:54.15,Laura G Meldrum,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,W,60-64,1:22.06,Andra Jaunzeme,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,W,60-64,2:56.22,Andra Jaunzeme,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Individual Medley,SCM,W,60-64,6:25.89,Andra Jaunzeme,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Individual Medley,SCM,W,60-64,11:11.41,Laura G Meldrum,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Freestyle,SCM,W,65-69,41.30,Cathie Ellis,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Freestyle,SCM,W,65-69,2:54.82,Barbara G Dunbar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Freestyle,SCM,W,65-69,3:27.23,Alta F Stengel,,SPMS Short Course Meters Championships,2016,2
+SDSM,400 M Freestyle,SCM,W,65-69,5:55.22,Barbara G Dunbar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Freestyle,SCM,W,65-69,6:57.58,Alta F Stengel,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,800 M Freestyle,SCM,W,65-69,12:11.53,Barbara G Dunbar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,800 M Freestyle,SCM,W,65-69,14:10.75,Alta F Stengel,,SPMS Short Course Meters Championships,2016,2
+SDSM,1500 M Freestyle,SCM,W,65-69,23:08.71,Barbara G Dunbar,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,1500 M Freestyle,SCM,W,65-69,26:52.17,Alta F Stengel,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Backstroke,SCM,W,65-69,52.28,Cathie Ellis,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Backstroke,SCM,W,65-69,1:45.51,Alta F Stengel,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Backstroke,SCM,W,65-69,1:53.96,Cathie Ellis,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Backstroke,SCM,W,65-69,3:40.78,Alta F Stengel,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,65-69,52.19,Cathie Ellis,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,65-69,58.30,Diane M Hirakawa,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Breaststroke,SCM,W,65-69,1:58.95,Cathie Ellis,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,W,65-69,2:14.94,Diane M Hirakawa,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Breaststroke,SCM,W,65-69,4:59.28,Diane M Hirakawa,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,W,65-69,57.48,Diane M Hirakawa,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,W,65-69,1:48.84,Cathie Ellis,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,W,65-69,2:04.02,Diane M Hirakawa,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,200 M Individual Medley,SCM,W,65-69,4:34.56,Diane M Hirakawa,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,W,70-74,42.30,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Freestyle,SCM,W,70-74,3:37.82,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Freestyle,SCM,W,70-74,7:26.81,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,800 M Freestyle,SCM,W,70-74,15:16.50,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,1500 M Freestyle,SCM,W,70-74,29:25.33,Jackie M Marr,,2016 Jamenna Winston Memorial SCM Invite,2016,1
+SDSM,50 M Backstroke,SCM,W,70-74,50.72,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Backstroke,SCM,W,70-74,1:56.77,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,W,70-74,1:02.46,Jackie M Marr,,2016 Jamenna Winston Memorial SCM Invite,2016,1
+SDSM,200 M Breaststroke,SCM,W,70-74,4:50.78,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,W,70-74,1:56.26,Jackie M Marr,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,W,70-74,4:29.48,Jackie M Marr,,2016 Jamenna Winston Memorial SCM Invite,2016,1
+SDSM,50 M Freestyle,SCM,W,80-84,54.01,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,100 M Freestyle,SCM,W,80-84,1:55.11,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,200 M Freestyle,SCM,W,80-84,4:13.17,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,400 M Freestyle,SCM,W,80-84,8:49.28,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,800 M Freestyle,SCM,W,80-84,18:15.02,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,1500 M Freestyle,SCM,W,80-84,34:33.27,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,50 M Breaststroke,SCM,W,80-84,1:14.93,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,200 M Breaststroke,SCM,W,80-84,6:25.67,Adrienne S Pipes,,Huntsman World Senior Games,2016,1
+SDSM,50 M Breaststroke,SCM,M,18-24,45.52,RODERICK SEWELL,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Breaststroke,SCM,M,18-24,1:40.43,RODERICK SEWELL,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Breaststroke,SCM,M,18-24,3:35.96,RODERICK SEWELL,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+UC44,800 M Freestyle,SCM,M,25-29,9:30.90,Casey R Bateman,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+UC44,1500 M Freestyle,SCM,M,25-29,18:06.31,Casey R Bateman,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Freestyle,SCM,M,30-34,23.94,Scott Newmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,M,30-34,30.43,Ghaleb Hamdan,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Freestyle,SCM,M,30-34,53.77,Scott Newmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Freestyle,SCM,M,30-34,2:03.61,Scott Newmann,,SPMS Short Course Meters Championships,2016,1
+CARL,50 M Breaststroke,SCM,M,30-34,34.95,Tracy C Merrill,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+CARL,100 M Breaststroke,SCM,M,30-34,1:17.34,Tracy C Merrill,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+CARL,200 M Breaststroke,SCM,M,30-34,2:50.52,Tracy C Merrill,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Butterfly,SCM,M,30-34,26.74,Scott Newmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Butterfly,SCM,M,30-34,58.57,Scott Newmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,M,30-34,1:03.10,Scott Newmann,,SPMS Short Course Meters Championships,2016,1
+CARL,100 M Individual Medley,SCM,M,30-34,1:11.97,Tracy C Merrill,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Freestyle,SCM,M,35-39,31.11,Rodrigo Muniz,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Freestyle,SCM,M,35-39,1:03.59,Michael J Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Freestyle,SCM,M,35-39,2:19.30,Michael J Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,800 M Freestyle,SCM,M,35-39,11:34.67,Jamie Sclater,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,1500 M Freestyle,SCM,M,35-39,21:31.75,Jamie Sclater,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Backstroke,SCM,M,35-39,36.39,Jamie Sclater,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Backstroke,SCM,M,35-39,38.73,Rodrigo Muniz,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Breaststroke,SCM,M,35-39,35.40,Jamie Sclater,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Breaststroke,SCM,M,35-39,36.57,Michael J Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Breaststroke,SCM,M,35-39,39.83,Anselm Lee,,SPMS Short Course Meters Championships,2016,3
+SDSM,100 M Breaststroke,SCM,M,35-39,1:32.19,Anselm Lee,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,M,35-39,34.25,Rodrigo Muniz,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,M,35-39,37.32,Anselm Lee,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Butterfly,SCM,M,35-39,1:18.12,Rodrigo Muniz,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:12.02,Michael J Plezia,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:20.11,Rodrigo Muniz,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,M,35-39,1:27.08,Anselm Lee,,SPMS Short Course Meters Championships,2016,3
+SDSM,50 M Freestyle,SCM,M,40-44,26.82,Steven R Perunovich,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Freestyle,SCM,M,40-44,27.42,Matthew V Young,,SPMS Short Course Meters Championships,2016,2
+CARL,50 M Freestyle,SCM,M,40-44,28.73,Matthew A Costanzo,,2016 Pacific Masters Short Course Meters Championship,2016,3
+SDSM,50 M Freestyle,SCM,M,40-44,29.51,Pascal Monney,,SPMS Short Course Meters Championships,2016,4
+SDSM,50 M Freestyle,SCM,M,40-44,31.20,Michael Frawley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,5
+SDSM,100 M Freestyle,SCM,M,40-44,1:01.95,Matthew V Young,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Freestyle,SCM,M,40-44,1:02.93,Steven R Perunovich,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+CARL,100 M Freestyle,SCM,M,40-44,1:06.12,Matthew A Costanzo,,2016 Pacific Masters Short Course Meters Championship,2016,3
+SDSM,100 M Freestyle,SCM,M,40-44,1:14.83,Henry G Morales,,SPMS Short Course Meters Championships,2016,4
+HSAM,200 M Freestyle,SCM,M,40-44,2:21.80,Ben T Soule,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+HSAM,400 M Freestyle,SCM,M,40-44,4:58.05,Ben T Soule,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Freestyle,SCM,M,40-44,5:33.91,Henry G Morales,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Backstroke,SCM,M,40-44,33.35,Steven R Perunovich,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+CARL,50 M Backstroke,SCM,M,40-44,35.75,Matthew A Costanzo,,2016 Pacific Masters Short Course Meters Championship,2016,2
+SDSM,50 M Backstroke,SCM,M,40-44,39.59,Pascal Monney,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,100 M Backstroke,SCM,M,40-44,1:13.47,Steven R Perunovich,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+CARL,100 M Backstroke,SCM,M,40-44,1:18.82,Matthew A Costanzo,,2016 Pacific Masters Short Course Meters Championship,2016,2
+SDSM,50 M Breaststroke,SCM,M,40-44,43.26,Michael Frawley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Breaststroke,SCM,M,40-44,44.19,Pascal Monney,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Breaststroke,SCM,M,40-44,1:32.97,Henry G Morales,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+HSAM,200 M Breaststroke,SCM,M,40-44,2:52.16,Ben T Soule,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Butterfly,SCM,M,40-44,28.97,Steven R Perunovich,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+CARL,50 M Butterfly,SCM,M,40-44,33.44,Matthew A Costanzo,,2016 Pacific Masters Short Course Meters Championship,2016,2
+SDSM,50 M Butterfly,SCM,M,40-44,33.74,Pascal Monney,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,50 M Butterfly,SCM,M,40-44,34.16,Henry G Morales,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,4
+SDSM,100 M Butterfly,SCM,M,40-44,1:10.05,Steven R Perunovich,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,100 M Butterfly,SCM,M,40-44,1:19.93,Henry G Morales,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:19.66,Pascal Monney,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,M,40-44,1:23.84,Henry G Morales,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:30.96,Michael Frawley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,200 M Individual Medley,SCM,M,40-44,2:57.21,Henry G Morales,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,M,40-44,2:58.60,Pascal Monney,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,400 M Individual Medley,SCM,M,40-44,6:37.41,Henry G Morales,,UCLA Bruin Masters SCM Swim Meet,2016,1
+SDSM,50 M Freestyle,SCM,M,45-49,26.76,Brian D Strate,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Freestyle,SCM,M,45-49,26.97,Stephen Rozow,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Freestyle,SCM,M,45-49,27.69,Kenton R Jones,,SCM Pentathlon,2016,3
+SDSM,50 M Freestyle,SCM,M,45-49,28.53,Chris Hohn,,SPMS Short Course Meters Championships,2016,4
+SDSM,50 M Freestyle,SCM,M,45-49,29.21,Ken J Griffiths,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,5
+SDSM,50 M Freestyle,SCM,M,45-49,31.98,Michael Nitsch,,City of Santa Clarita Short Course Meters Meet,2016,6
+UC44,50 M Freestyle,SCM,M,45-49,32.72,Ronald L Perkins,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,7
+SDSM,100 M Freestyle,SCM,M,45-49,59.33,Brian D Strate,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Freestyle,SCM,M,45-49,1:01.39,Stephen Rozow,,SPMS Short Course Meters Championships,2016,2
+UC44,100 M Freestyle,SCM,M,45-49,1:12.33,Ronald L Perkins,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,200 M Freestyle,SCM,M,45-49,2:12.93,Kenton R Jones,,UCLA Bruin Masters SCM Swim Meet,2016,1
+SDSM,200 M Freestyle,SCM,M,45-49,2:17.59,Terry Frogley,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Freestyle,SCM,M,45-49,2:30.85,Ken J Griffiths,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+SDSM,200 M Freestyle,SCM,M,45-49,2:52.48,Michael Nitsch,,City of Santa Clarita Short Course Meters Meet,2016,4
+SDSM,400 M Freestyle,SCM,M,45-49,4:36.05,Kenton R Jones,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Freestyle,SCM,M,45-49,5:32.39,Ken J Griffiths,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+SDSM,800 M Freestyle,SCM,M,45-49,9:31.76,Kenton R Jones,,SPMS Short Course Meters Championships,2016,1
+SDSM,1500 M Freestyle,SCM,M,45-49,18:27.01,Kenton R Jones,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Backstroke,SCM,M,45-49,34.42,Kenton R Jones,,SCM Pentathlon,2016,1
+SDSM,50 M Backstroke,SCM,M,45-49,34.76,Chris Hohn,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Backstroke,SCM,M,45-49,40.47,Michael Nitsch,,SPMS Short Course Meters Championships,2016,3
+SDSM,100 M Backstroke,SCM,M,45-49,1:13.89,Kenton R Jones,,SPMS Short Course Meters Championships,2016,1
+UC44,100 M Backstroke,SCM,M,45-49,1:23.42,Ronald L Perkins,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,100 M Backstroke,SCM,M,45-49,1:35.65,Michael Nitsch,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Backstroke,SCM,M,45-49,2:39.88,Kenton R Jones,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Backstroke,SCM,M,45-49,2:51.18,Nathan Ascher,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Backstroke,SCM,M,45-49,3:37.91,Michael Nitsch,,SPMS Short Course Meters Championships,2016,3
+SDSM,50 M Breaststroke,SCM,M,45-49,34.15,Brian D Strate,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,M,45-49,35.09,Terry Frogley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Breaststroke,SCM,M,45-49,35.26,Kenton R Jones,,SCM Pentathlon,2016,3
+SDSM,50 M Breaststroke,SCM,M,45-49,35.60,Dale W Webster,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,4
+SDSM,50 M Breaststroke,SCM,M,45-49,38.42,Stephen Rozow,,SPMS Short Course Meters Championships,2016,5
+SDSM,100 M Breaststroke,SCM,M,45-49,1:16.71,Dale W Webster,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,M,45-49,1:17.83,Kenton R Jones,,UCLA Bruin Masters SCM Swim Meet,2016,2
+SDSM,100 M Breaststroke,SCM,M,45-49,1:18.14,Terry Frogley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,100 M Breaststroke,SCM,M,45-49,1:18.32,Brian D Strate,,SPMS Short Course Meters Championships,2016,4
+SDSM,100 M Breaststroke,SCM,M,45-49,1:19.80,Nathan Ascher,,SPMS Short Course Meters Championships,2016,5
+SDSM,200 M Breaststroke,SCM,M,45-49,2:49.07,Kenton R Jones,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,M,45-49,2:49.58,Nathan Ascher,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Breaststroke,SCM,M,45-49,2:55.56,Terry Frogley,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Breaststroke,SCM,M,45-49,3:00.23,Brian D Strate,,SPMS Short Course Meters Championships,2016,4
+SDSM,50 M Butterfly,SCM,M,45-49,29.75,Chris Hohn,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,M,45-49,30.33,Terry Frogley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Butterfly,SCM,M,45-49,31.17,Dale W Webster,,SPMS Short Course Meters Championships,2016,3
+SDSM,50 M Butterfly,SCM,M,45-49,31.28,Kenton R Jones,,SCM Pentathlon,2016,4
+SDSM,50 M Butterfly,SCM,M,45-49,31.93,Ken J Griffiths,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,5
+SDSM,50 M Butterfly,SCM,M,45-49,35.99,Michael Nitsch,,SPMS Short Course Meters Championships,2016,6
+WIND,100 M Butterfly,SCM,M,45-49,1:04.75,Scot Frontis,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Butterfly,SCM,M,45-49,1:09.69,Nathan Ascher,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Butterfly,SCM,M,45-49,1:10.33,Kenton R Jones,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+WIND,100 M Individual Medley,SCM,M,45-49,1:08.77,Scot Frontis,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:10.02,Brian D Strate,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,M,45-49,1:10.37,Kenton R Jones,,SCM Pentathlon,2016,3
+SDSM,100 M Individual Medley,SCM,M,45-49,1:10.82,Dale W Webster,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,4
+SDSM,100 M Individual Medley,SCM,M,45-49,1:12.27,Stephen Rozow,,SPMS Short Course Meters Championships,2016,5
+SDSM,100 M Individual Medley,SCM,M,45-49,1:14.52,Chris Hohn,,SPMS Short Course Meters Championships,2016,6
+UC44,100 M Individual Medley,SCM,M,45-49,1:27.97,Ronald L Perkins,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,7
+SDSM,200 M Individual Medley,SCM,M,45-49,2:35.43,Nathan Ascher,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,M,45-49,2:52.35,Ken J Griffiths,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+SDSM,400 M Individual Medley,SCM,M,45-49,5:25.21,Kenton R Jones,,UCLA Bruin Masters SCM Swim Meet,2016,1
+SDSM,400 M Individual Medley,SCM,M,45-49,5:37.93,Nathan Ascher,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Freestyle,SCM,M,50-54,27.71,Grant R Wilson,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Freestyle,SCM,M,50-54,30.23,Peter Merz,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Freestyle,SCM,M,50-54,40.25,Al Clepper,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,200 M Freestyle,SCM,M,50-54,2:20.01,Grant R Wilson,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,200 M Freestyle,SCM,M,50-54,2:31.65,Peter Merz,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Freestyle,SCM,M,50-54,3:20.84,Robert J Bowsher,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+WIND,400 M Freestyle,SCM,M,50-54,4:44.99,Mike J Lewis,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Freestyle,SCM,M,50-54,5:06.84,Grant R Wilson,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+SDSM,400 M Freestyle,SCM,M,50-54,5:24.11,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+SDSM,400 M Freestyle,SCM,M,50-54,7:31.92,Robert J Bowsher,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,4
+SDSM,800 M Freestyle,SCM,M,50-54,11:08.05,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,800 M Freestyle,SCM,M,50-54,11:45.84,Jimmy Harden,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+SDSM,1500 M Freestyle,SCM,M,50-54,21:13.79,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,1500 M Freestyle,SCM,M,50-54,22:05.99,Jimmy Harden,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+SDSM,1500 M Freestyle,SCM,M,50-54,28:38.98,Robert J Bowsher,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+SDSM,50 M Backstroke,SCM,M,50-54,36.08,Grant R Wilson,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Backstroke,SCM,M,50-54,40.35,Peter Merz,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Backstroke,SCM,M,50-54,1:07.10,Robert J Bowsher,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+SDSM,50 M Breaststroke,SCM,M,50-54,40.50,Jimmy Harden,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Breaststroke,SCM,M,50-54,43.28,Peter Merz,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Breaststroke,SCM,M,50-54,50.86,Al Clepper,,SPMS Short Course Meters Championships,2016,3
+SDSM,100 M Breaststroke,SCM,M,50-54,1:27.44,Jimmy Harden,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,M,50-54,3:11.73,Jimmy Harden,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Butterfly,SCM,M,50-54,32.41,Grant R Wilson,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Butterfly,SCM,M,50-54,33.88,Peter Merz,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Butterfly,SCM,M,50-54,36.24,Jimmy Harden,,SPMS Short Course Meters Championships,2016,3
+SDSM,50 M Butterfly,SCM,M,50-54,55.47,Al Clepper,,SPMS Short Course Meters Championships,2016,4
+SDSM,100 M Butterfly,SCM,M,50-54,1:15.62,Grant R Wilson,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,100 M Butterfly,SCM,M,50-54,1:16.02,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+SDSM,100 M Butterfly,SCM,M,50-54,1:20.69,Peter Merz,,SPMS Short Course Meters Championships,2016,3
+SDSM,100 M Individual Medley,SCM,M,50-54,1:18.68,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:19.95,Peter Merz,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Individual Medley,SCM,M,50-54,1:23.74,Jimmy Harden,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+SDSM,200 M Individual Medley,SCM,M,50-54,2:51.35,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,200 M Individual Medley,SCM,M,50-54,2:53.74,Peter Merz,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,400 M Individual Medley,SCM,M,50-54,6:09.98,Michael A Given,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,400 M Individual Medley,SCM,M,50-54,6:28.89,Jimmy Harden,,SPMS Short Course Meters Championships,2016,2
+HSAM,50 M Freestyle,SCM,M,55-59,30.21,Sam Lund,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Freestyle,SCM,M,55-59,31.05,Tord E Benner,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Freestyle,SCM,M,55-59,1:17.63,Darrell L Jett,,SPMS Short Course Meters Championships,2016,1
+HSAM,200 M Freestyle,SCM,M,55-59,2:32.89,Sam Lund,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,400 M Freestyle,SCM,M,55-59,5:58.04,Darrell L Jett,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,800 M Freestyle,SCM,M,55-59,12:29.91,Darrell L Jett,,SPMS Short Course Meters Championships,2016,1
+CARL,1500 M Freestyle,SCM,M,55-59,21:53.04,John Penfield,,The Olympic Club 1500 Meter Swim Meet,2016,1
+SDSM,1500 M Freestyle,SCM,M,55-59,23:34.79,Darrell L Jett,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Backstroke,SCM,M,55-59,34.41,Tord E Benner,,SPMS Short Course Meters Championships,2016,1
+HSAM,50 M Backstroke,SCM,M,55-59,36.84,Sam Lund,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Backstroke,SCM,M,55-59,38.50,Tony Bruno,,SPMS Short Course Meters Championships,2016,3
+SDSM,50 M Backstroke,SCM,M,55-59,43.12,Darrell L Jett,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,4
+HSAM,100 M Backstroke,SCM,M,55-59,1:18.35,Sam Lund,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Backstroke,SCM,M,55-59,1:18.96,Tord E Benner,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Backstroke,SCM,M,55-59,1:33.80,Darrell L Jett,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+HSAM,200 M Backstroke,SCM,M,55-59,2:54.47,Sam Lund,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Backstroke,SCM,M,55-59,2:55.47,Tord E Benner,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Backstroke,SCM,M,55-59,3:12.91,Darrell L Jett,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,50 M Breaststroke,SCM,M,55-59,40.86,Tony Bruno,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,M,55-59,1:11.66,Andrey A Komissarov,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,M,55-59,2:38.87,Andrey A Komissarov,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,M,55-59,35.15,Tord E Benner,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Butterfly,SCM,M,55-59,1:05.59,Andrey A Komissarov,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Individual Medley,SCM,M,55-59,1:04.74,Andrey A Komissarov,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,M,55-59,2:22.23,Andrey A Komissarov,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Individual Medley,SCM,M,55-59,3:15.37,Darrell L Jett,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Freestyle,SCM,M,60-64,28.12,Mike Keeney,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,M,60-64,34.07,Thomas G Herbert,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,2
+UC44,50 M Freestyle,SCM,M,60-64,43.00,ADOLPH E PRIETO,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,100 M Freestyle,SCM,M,60-64,1:04.32,Mike Keeney,,SPMS Short Course Meters Championships,2016,1
+WIND,100 M Freestyle,SCM,M,60-64,1:10.27,Jonathan Scheff,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+UC44,100 M Freestyle,SCM,M,60-64,1:41.52,ADOLPH E PRIETO,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,3
+SDSM,200 M Freestyle,SCM,M,60-64,2:27.17,Mike Keeney,,SPMS Short Course Meters Championships,2016,1
+WIND,200 M Freestyle,SCM,M,60-64,2:39.01,Jonathan Scheff,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,200 M Freestyle,SCM,M,60-64,2:48.92,Thomas G Herbert,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,3
+SDSM,400 M Freestyle,SCM,M,60-64,5:24.74,Mike Keeney,,SPMS Short Course Meters Championships,2016,1
+WIND,400 M Freestyle,SCM,M,60-64,5:33.27,Jonathan Scheff,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,1500 M Freestyle,SCM,M,60-64,21:38.89,Steven J Plackemeier,,The Olympic Club 1500 Meter Swim Meet,2016,1
+SDSM,50 M Backstroke,SCM,M,60-64,44.81,Thomas G Herbert,,2016 IGLA CHAMPIONSHIPS SWIMMING,2016,1
+SDSM,50 M Breaststroke,SCM,M,60-64,33.57,Gerard Von Hoffmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,M,60-64,2:46.21,Gerard Von Hoffmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:09.31,Gerard Von Hoffmann,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,M,65-69,30.70,Harry G Duffield,,SPMS Short Course Meters Championships,2016,1
+UC44,200 M Freestyle,SCM,M,65-69,3:17.63,Bill Durell,,Turkey Shoot 2016,2016,1
+UC44,400 M Freestyle,SCM,M,65-69,6:34.89,Bill Durell,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+UC44,800 M Freestyle,SCM,M,65-69,13:46.39,Bill Durell,,Turkey Shoot 2016,2016,1
+UC44,1500 M Freestyle,SCM,M,65-69,25:38.41,Bill Durell,,City of Santa Clarita Short Course Meters Meet,2016,1
+UC44,50 M Breaststroke,SCM,M,65-69,45.42,Bill Durell,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+UC44,100 M Breaststroke,SCM,M,65-69,1:48.39,Bill Durell,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+UC44,200 M Breaststroke,SCM,M,65-69,3:53.92,Bill Durell,,Turkey Shoot 2016,2016,1
+SDSM,50 M Freestyle,SCM,M,70-74,32.00,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Freestyle,SCM,M,70-74,1:13.03,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Freestyle,SCM,M,70-74,2:49.20,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+CARL,50 M Backstroke,SCM,M,70-74,35.71,Jim M Malley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+CARL,100 M Backstroke,SCM,M,70-74,1:18.09,Jim M Malley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+CARL,200 M Backstroke,SCM,M,70-74,2:52.18,Jim M Malley,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Breaststroke,SCM,M,70-74,39.49,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,M,70-74,1:31.98,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,M,70-74,3:40.00,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,M,70-74,1:26.96,Peter Andersen,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Freestyle,SCM,M,75-79,6:23.71,Frank Williams,,2016 Ron Johnson Invitational Arizona SCM Championships,2016,1
+SDSM,800 M Freestyle,SCM,M,75-79,12:57.03,Frank Williams,,2016 Ron Johnson Invitational Arizona SCM Championships,2016,1
+SDSM,1500 M Freestyle,SCM,M,75-79,24:19.54,Frank Williams,,2016 Ron Johnson Invitational Arizona SCM Championships,2016,1
+SDSM,50 M Butterfly,SCM,M,75-79,40.01,Frank Williams,,2016 Ron Johnson Invitational Arizona SCM Championships,2016,1
+SDSM,100 M Butterfly,SCM,M,75-79,1:33.36,Frank Williams,,2016 Ron Johnson Invitational Arizona SCM Championships,2016,1
+SDSM,200 M Butterfly,SCM,M,75-79,3:44.23,Frank Williams,,2016 Ron Johnson Invitational Arizona SCM Championships,2016,1
+SDSM,50 M Freestyle,SCM,M,80-84,38.14,Bob Best,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Freestyle,SCM,M,80-84,41.66,Tom Mitchell,,SCM Pentathlon,2016,2
+SDSM,100 M Freestyle,SCM,M,80-84,1:38.17,Tom Mitchell,,UCLA Bruin Masters SCM Swim Meet,2016,1
+SDSM,200 M Freestyle,SCM,M,80-84,3:44.22,Tom Mitchell,,SPMS Short Course Meters Championships,2016,1
+SDSM,400 M Freestyle,SCM,M,80-84,7:51.23,Tom Mitchell,,SPMS Short Course Meters Championships,2016,1
+SDSM,800 M Freestyle,SCM,M,80-84,16:16.73,Tom Mitchell,,UCLA Bruin Masters SCM Swim Meet,2016,1
+SDSM,800 M Freestyle,SCM,M,80-84,21:01.41,Bill Coles,,Huntsman World Senior Games,2016,2
+SDSM,50 M Backstroke,SCM,M,80-84,55.47,Bill Coles,,Huntsman World Senior Games,2016,1
+SDSM,50 M Backstroke,SCM,M,80-84,58.03,Tom Mitchell,,SCM Pentathlon,2016,2
+SDSM,100 M Backstroke,SCM,M,80-84,2:03.23,Bill Coles,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Backstroke,SCM,M,80-84,2:21.10,Tom Mitchell,,City of Santa Clarita Short Course Meters Meet,2016,2
+SDSM,200 M Backstroke,SCM,M,80-84,4:25.32,Bill Coles,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Backstroke,SCM,M,80-84,5:08.18,Tom Mitchell,,City of Santa Clarita Short Course Meters Meet,2016,2
+SDSM,50 M Breaststroke,SCM,M,80-84,47.90,Bob Best,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Breaststroke,SCM,M,80-84,58.16,Bill Coles,,Huntsman World Senior Games,2016,2
+SDSM,50 M Breaststroke,SCM,M,80-84,59.93,Tom Mitchell,,SCM Pentathlon,2016,3
+SDSM,100 M Breaststroke,SCM,M,80-84,1:51.14,Bob Best,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Breaststroke,SCM,M,80-84,2:15.58,Bill Coles,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Breaststroke,SCM,M,80-84,2:17.36,Tom Mitchell,,SPMS Short Course Meters Championships,2016,3
+SDSM,200 M Breaststroke,SCM,M,80-84,4:16.64,Bob Best,,SPMS Short Course Meters Championships,2016,1
+SDSM,200 M Breaststroke,SCM,M,80-84,4:47.24,Tom Mitchell,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Breaststroke,SCM,M,80-84,5:10.63,Bill Coles,,SPMS Short Course Meters Championships,2016,3
+SDSM,50 M Butterfly,SCM,M,80-84,48.17,Bob Best,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Butterfly,SCM,M,80-84,59.35,Tom Mitchell,,SCM Pentathlon,2016,2
+SDSM,100 M Butterfly,SCM,M,80-84,2:24.36,Tom Mitchell,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:41.02,Bob Best,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:57.86,Tom Mitchell,,SCM Pentathlon,2016,2
+SDSM,200 M Individual Medley,SCM,M,80-84,3:54.64,Bob Best,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,200 M Individual Medley,SCM,M,80-84,4:36.33,Tom Mitchell,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,400 M Individual Medley,SCM,M,80-84,9:56.00,Tom Mitchell,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,1
+SDSM,50 M Freestyle,SCM,M,85-89,37.87,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,50 M Freestyle,SCM,M,85-89,47.28,Donald J Hubbard,,SPMS Short Course Meters Championships,2016,2
+SDSM,50 M Freestyle,SCM,M,85-89,1:09.77,Jordan B Wolle,,Huntsman World Senior Games,2016,3
+SDSM,100 M Freestyle,SCM,M,85-89,1:28.24,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,100 M Freestyle,SCM,M,85-89,2:02.72,Donald J Hubbard,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,200 M Freestyle,SCM,M,85-89,3:26.67,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,200 M Freestyle,SCM,M,85-89,4:33.66,Donald J Hubbard,,San Diego Swim Masters 2016 Short Course Meters Meet,2016,2
+SDSM,50 M Breaststroke,SCM,M,85-89,56.44,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,50 M Breaststroke,SCM,M,85-89,1:23.98,Donald J Hubbard,,SPMS Short Course Meters Championships,2016,2
+SDSM,100 M Breaststroke,SCM,M,85-89,3:08.69,Donald J Hubbard,,SPMS Short Course Meters Championships,2016,1
+SDSM,50 M Butterfly,SCM,M,85-89,1:17.83,Donald J Hubbard,,SPMS Short Course Meters Championships,2016,1
+SDSM,100 M Butterfly,SCM,M,85-89,2:06.70,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,200 M Butterfly,SCM,M,85-89,5:05.95,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,100 M Individual Medley,SCM,M,85-89,1:49.69,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,100 M Individual Medley,SCM,M,85-89,2:41.68,Donald J Hubbard,,SPMS Short Course Meters Championships,2016,2
+SDSM,200 M Individual Medley,SCM,M,85-89,4:05.18,Frank Tanner,,Huntsman World Senior Games,2016,1
+SDSM,400 M Individual Medley,SCM,M,85-89,9:01.55,Frank Tanner,,Huntsman World Senior Games,2016,1

@@ -1,0 +1,300 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CFYM,50 M Freestyle,SCM,W,35-39,31.95,Rebecca St Jean,,University of Louisville Invitational,2005,1
+CFYM,100 M Freestyle,SCM,W,35-39,1:10.62,Rebecca St Jean,,University of Louisville Invitational,2005,1
+CFYM,200 M Freestyle,SCM,W,35-39,2:38.43,Rebecca St Jean,,University of Louisville Invitational,2005,1
+SHYM,200 M Backstroke,SCM,W,35-39,3:05.05,Laura E Snyder,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,W,35-39,36.78,Cheryl Conlin,,Albatross Open,2005,1
+CFYM,50 M Breaststroke,SCM,W,35-39,43.16,Rebecca St Jean,,University of Louisville Invitational,2005,2
+SHYM,50 M Breaststroke,SCM,W,35-39,45.45,Laura E Snyder,,Virginia Masters SCM,2005,3
+VMST,100 M Breaststroke,SCM,W,35-39,1:20.78,Cheryl Conlin,,Albatross Open,2005,1
+CFYM,100 M Breaststroke,SCM,W,35-39,1:31.95,Rebecca St Jean,,University of Louisville Invitational,2005,2
+SHYM,100 M Breaststroke,SCM,W,35-39,1:39.35,Laura E Snyder,,Virginia Masters SCM,2005,3
+VMST,200 M Breaststroke,SCM,W,35-39,2:53.95,Cheryl Conlin,,Albatross Open,2005,1
+CFYM,50 M Butterfly,SCM,W,35-39,38.10,Rebecca St Jean,,University of Louisville Invitational,2005,1
+VMST,100 M Individual Medley,SCM,W,35-39,1:12.80,Cheryl Conlin,,Albatross Open,2005,1
+SHYM,100 M Individual Medley,SCM,W,35-39,1:29.75,Laura E Snyder,,Virginia Masters SCM,2005,2
+CFYM,200 M Individual Medley,SCM,W,35-39,3:02.19,Rebecca St Jean,,University of Louisville Invitational,2005,1
+VMST,50 M Freestyle,SCM,W,40-44,30.54,Cindy Dobyns,,Albatross Open,2005,1
+UNAT,50 M Freestyle,SCM,W,40-44,34.63,Melissa S Smith,,Virginia Masters SCM,2005,2
+WMS,50 M Freestyle,SCM,W,40-44,38.22,Suni M Perka,,DC Aquatics Club Fall Swim,2005,3
+VMST,100 M Freestyle,SCM,W,40-44,1:07.47,Cindy Dobyns,,Albatross Open,2005,1
+UNAT,100 M Freestyle,SCM,W,40-44,1:16.53,Melissa S Smith,,Virginia Masters SCM,2005,2
+WMS,100 M Freestyle,SCM,W,40-44,1:28.25,Suni M Perka,,DC Aquatics Club Fall Swim,2005,3
+UNAT,200 M Freestyle,SCM,W,40-44,2:46.72,Melissa S Smith,,Virginia Masters SCM,2005,1
+UNAT,200 M Freestyle,SCM,W,40-44,2:56.16,Christine R Morris,,Virginia Masters SCM,2005,2
+WMS,200 M Freestyle,SCM,W,40-44,3:15.13,Suni M Perka,,DC Aquatics Club Fall Swim,2005,3
+VMST,100 M Backstroke,SCM,W,40-44,1:19.44,Cindy Dobyns,,Albatross Open,2005,1
+WMS,50 M Breaststroke,SCM,W,40-44,49.85,Suni M Perka,,DC Aquatics Club Fall Swim,2005,1
+VMST,100 M Individual Medley,SCM,W,40-44,1:16.06,Cindy Dobyns,,Albatross Open,2005,1
+UNAT,100 M Individual Medley,SCM,W,40-44,1:29.59,Melissa S Smith,,Virginia Masters SCM,2005,2
+UNAT,200 M Individual Medley,SCM,W,40-44,3:13.83,Melissa S Smith,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,45-49,39.77,Carol E Downing,,Virginia Masters SCM,2005,1
+SHYM,50 M Freestyle,SCM,W,45-49,51.88,Toni L Shaw,,Virginia Masters SCM,2005,2
+VMST,100 M Freestyle,SCM,W,45-49,1:29.21,Carol E Downing,,Virginia Masters SCM,2005,1
+SHYM,200 M Freestyle,SCM,W,45-49,2:48.44,Gail Kelley,,Virginia Masters SCM,2005,1
+VMST,400 M Freestyle,SCM,W,45-49,5:25.96,Lisa A Bennett,,Virginia Masters SCM,2005,1
+VMST,50 M Backstroke,SCM,W,45-49,41.08,Lisa A Bennett,,Virginia Masters SCM,2005,1
+SHYM,50 M Backstroke,SCM,W,45-49,1:11.40,Toni L Shaw,,Virginia Masters SCM,2005,2
+SHYM,200 M Backstroke,SCM,W,45-49,3:13.00,Gail Kelley,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,W,45-49,40.08,Lisa A Bennett,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,W,45-49,48.04,Carol E Downing,,Virginia Masters SCM,2005,2
+VMST,100 M Breaststroke,SCM,W,45-49,1:28.83,Lisa A Bennett,,Virginia Masters SCM,2005,1
+VMST,100 M Butterfly,SCM,W,45-49,1:23.06,Lisa A Bennett,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,50-54,35.36,Barbara E Boslego,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,50-54,37.98,Jann L Brown,,NC Masters Fall Splash,2005,2
+VMST,100 M Freestyle,SCM,W,50-54,1:28.87,Jann L Brown,,NC Masters Fall Splash,2005,1
+VMST,400 M Freestyle,SCM,W,50-54,6:05.78,Kitten Braaten,,Virginia Masters SCM,2005,1
+UNAT,800 M Freestyle,SCM,W,50-54,10:57.08,Claudia Cortes,,Virginia Masters SCM,2005,1
+VMST,800 M Freestyle,SCM,W,50-54,12:05.03,Kitten Braaten,,Virginia Masters SCM,2005,2
+VMST,50 M Breaststroke,SCM,W,50-54,45.37,Barbara E Boslego,,Virginia Masters SCM,2005,1
+SHYM,100 M Breaststroke,SCM,W,50-54,1:44.63,Catherine A Blackwood,,Virginia Masters SCM,2005,1
+VMST,200 M Breaststroke,SCM,W,50-54,3:32.57,Barbara E Boslego,,Virginia Masters SCM,2005,1
+VMST,50 M Butterfly,SCM,W,50-54,40.59,Kitten Braaten,,Virginia Masters SCM,2005,1
+SHYM,50 M Butterfly,SCM,W,50-54,41.11,Catherine A Blackwood,,Virginia Masters SCM,2005,2
+VMST,50 M Butterfly,SCM,W,50-54,44.45,Jann L Brown,,NC Masters Fall Splash,2005,3
+VMST,100 M Butterfly,SCM,W,50-54,1:32.74,Kitten Braaten,,Virginia Masters SCM,2005,1
+VMST,200 M Butterfly,SCM,W,50-54,3:19.01,Kitten Braaten,,Virginia Masters SCM,2005,1
+SHYM,100 M Individual Medley,SCM,W,50-54,1:29.84,Catherine A Blackwood,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,W,50-54,1:42.45,Jann L Brown,,NC Masters Fall Splash,2005,2
+SHYM,200 M Individual Medley,SCM,W,50-54,3:18.03,Catherine A Blackwood,,Virginia Masters SCM,2005,1
+UNAT,400 M Individual Medley,SCM,W,50-54,6:12.67,Claudia Cortes,,Virginia Masters SCM,2005,1
+VMST,800 M Freestyle,SCM,W,55-59,18:12.49,Betsy C Chambers,,Virginia Masters SCM,2005,1
+VMST,50 M Backstroke,SCM,W,55-59,57.61,Betsy C Chambers,,Virginia Masters SCM,2005,1
+VMST,100 M Backstroke,SCM,W,55-59,2:44.09,Betsy C Chambers,,Virginia Masters SCM,2005,1
+VMST,100 M Breaststroke,SCM,W,55-59,2:13.32,Betsy C Chambers,,Virginia Masters SCM,2005,1
+VMST,200 M Breaststroke,SCM,W,55-59,4:41.26,Betsy C Chambers,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,60-64,35.43,Beth Schreiner,,9th Annual Lox &amp; Bagels Meet,2005,1
+VMST,50 M Freestyle,SCM,W,60-64,38.23,Ida M Hlavacek,,Huntsman World Senior Games,2005,2
+VMST,100 M Freestyle,SCM,W,60-64,1:21.12,Beth Schreiner,,Albatross Open,2005,1
+VMST,100 M Freestyle,SCM,W,60-64,1:30.55,Ida M Hlavacek,,Cinco de Mayo SCM Meet,2005,2
+VMST,200 M Freestyle,SCM,W,60-64,3:15.49,Ida M Hlavacek,,Huntsman World Senior Games,2005,1
+VMST,400 M Freestyle,SCM,W,60-64,6:57.61,Ida M Hlavacek,,Cinco de Mayo SCM Meet,2005,1
+VMST,800 M Freestyle,SCM,W,60-64,13:58.27,Ida M Hlavacek,,Cinco de Mayo SCM Meet,2005,1
+VMST,50 M Backstroke,SCM,W,60-64,45.93,Beth Schreiner,,9th Annual Lox &amp; Bagels Meet,2005,1
+VMST,50 M Backstroke,SCM,W,60-64,50.67,Judy Martin,,Virginia Masters SCM,2005,2
+VMST,100 M Backstroke,SCM,W,60-64,1:49.89,Judy Martin,,Virginia Masters SCM,2005,1
+VMST,200 M Backstroke,SCM,W,60-64,4:01.19,Judy Martin,,Virginia Masters SCM,2005,1
+VMST,100 M Breaststroke,SCM,W,60-64,1:53.94,Susan E Marens,,Virginia Masters SCM,2005,1
+VMST,200 M Breaststroke,SCM,W,60-64,4:13.90,Susan E Marens,,Virginia Masters SCM,2005,1
+VMST,50 M Butterfly,SCM,W,60-64,51.57,Ida M Hlavacek,,Huntsman World Senior Games,2005,1
+VMST,100 M Butterfly,SCM,W,60-64,1:53.82,Susan E Marens,,Virginia Masters SCM,2005,1
+VMST,100 M Butterfly,SCM,W,60-64,2:01.83,Ida M Hlavacek,,Huntsman World Senior Games,2005,2
+VMST,200 M Butterfly,SCM,W,60-64,4:18.84,Ida M Hlavacek,,Huntsman World Senior Games,2005,1
+VMST,100 M Individual Medley,SCM,W,60-64,1:39.40,Beth Schreiner,,Albatross Open,2005,1
+VMST,100 M Individual Medley,SCM,W,60-64,1:50.33,Susan E Marens,,Virginia Masters SCM,2005,2
+VMST,100 M Individual Medley,SCM,W,60-64,1:50.83,Ida M Hlavacek,,Huntsman World Senior Games,2005,3
+VMST,200 M Individual Medley,SCM,W,60-64,3:53.32,Ida M Hlavacek,,Cinco de Mayo SCM Meet,2005,1
+VMST,400 M Individual Medley,SCM,W,60-64,8:12.14,Ida M Hlavacek,,Huntsman World Senior Games,2005,1
+VMST,50 M Freestyle,SCM,W,65-69,37.70,Barbara M Zaremski,,Park Hill Masters Meet,2005,1
+VMST,50 M Freestyle,SCM,W,65-69,42.84,Laura S Walker,,Virginia Masters SCM,2005,2
+VMST,100 M Freestyle,SCM,W,65-69,1:29.18,Barbara M Zaremski,,GRIN Fall Classic SCM Meet,2005,1
+VMST,100 M Freestyle,SCM,W,65-69,1:35.74,Laura S Walker,,Virginia Masters SCM,2005,2
+VMST,200 M Freestyle,SCM,W,65-69,3:16.77,Barbara M Zaremski,,Park Hill Masters Meet,2005,1
+VMST,800 M Freestyle,SCM,W,65-69,17:14.20,Mary K Helne,,Virginia Masters SCM,2005,1
+VMST,1500 M Freestyle,SCM,W,65-69,27:25.60,Barbara M Zaremski,,GRIN Fall Classic SCM Meet,2005,1
+VMST,50 M Backstroke,SCM,W,65-69,51.23,Barbara M Zaremski,,Park Hill Masters Meet,2005,1
+VMST,50 M Backstroke,SCM,W,65-69,59.30,Mary K Helne,,Virginia Masters SCM,2005,2
+VMST,100 M Backstroke,SCM,W,65-69,1:50.88,Barbara M Zaremski,,GRIN Fall Classic SCM Meet,2005,1
+VMST,100 M Backstroke,SCM,W,65-69,2:09.43,Mary K Helne,,Virginia Masters SCM,2005,2
+VMST,200 M Backstroke,SCM,W,65-69,4:11.46,Barbara M Zaremski,,Park Hill Masters Meet,2005,1
+VMST,50 M Breaststroke,SCM,W,65-69,42.35,Joann Leilich,,Albatross Open,2005,1
+VMST,100 M Individual Medley,SCM,W,65-69,1:32.30,Joann Leilich,,Albatross Open,2005,1
+VMST,100 M Individual Medley,SCM,W,65-69,1:53.52,Barbara M Zaremski,,Park Hill Masters Meet,2005,2
+VMST,200 M Individual Medley,SCM,W,65-69,4:04.76,Barbara M Zaremski,,GRIN Fall Classic SCM Meet,2005,1
+VMST,400 M Individual Medley,SCM,W,65-69,8:32.47,Barbara M Zaremski,,GRIN Fall Classic SCM Meet,2005,1
+VMST,50 M Freestyle,SCM,W,70-74,36.94,Johnnie Detrick,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,70-74,56.03,Susan A Henley,,DC Aquatics Club Fall Swim,2005,2
+VMST,50 M Freestyle,SCM,W,70-74,1:05.24,Betty A Schaefer,,NC Masters Fall Splash,2005,3
+VMST,50 M Freestyle,SCM,W,70-74,3:31.70,Mary J Wright,,NC Masters Fall Splash,2005,4
+VMST,100 M Freestyle,SCM,W,70-74,1:27.94,Johnnie Detrick,,Virginia Masters SCM,2005,1
+VMST,100 M Freestyle,SCM,W,70-74,1:35.98,Laverne Adams,,Virginia Masters SCM,2005,2
+VMST,100 M Freestyle,SCM,W,70-74,1:59.27,Susan A Henley,,Albatross Open,2005,3
+VMST,100 M Freestyle,SCM,W,70-74,2:27.01,Betty A Schaefer,,NC Masters Fall Splash,2005,4
+VMST,200 M Freestyle,SCM,W,70-74,3:30.91,Laverne Adams,,Virginia Masters SCM,2005,1
+VMST,200 M Freestyle,SCM,W,70-74,4:15.62,Susan A Henley,,Virginia Masters SCM,2005,2
+VMST,50 M Backstroke,SCM,W,70-74,52.62,Laverne Adams,,Virginia Masters SCM,2005,1
+VMST,50 M Backstroke,SCM,W,70-74,59.39,Susan A Henley,,DC Aquatics Club Fall Swim,2005,2
+VMST,50 M Backstroke,SCM,W,70-74,1:10.77,Betty A Schaefer,,NC Masters Fall Splash,2005,3
+VMST,50 M Backstroke,SCM,W,70-74,2:42.26,Mary J Wright,,NC Masters Fall Splash,2005,4
+VMST,100 M Backstroke,SCM,W,70-74,1:52.34,Laverne Adams,,Virginia Masters SCM,2005,1
+VMST,100 M Backstroke,SCM,W,70-74,2:12.93,Susan A Henley,,Virginia Masters SCM,2005,2
+VMST,200 M Backstroke,SCM,W,70-74,4:03.59,Laverne Adams,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,W,70-74,52.07,Johnnie Detrick,,Virginia Masters SCM,2005,1
+VMST,100 M Breaststroke,SCM,W,70-74,2:00.35,Johnnie Detrick,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,75-79,53.16,Terry Sokolik,,Virginia Masters SCM,2005,1
+VMST,50 M Backstroke,SCM,W,75-79,1:09.93,Terry Sokolik,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,W,75-79,1:11.90,Terry Sokolik,,Virginia Masters SCM,2005,1
+VMST,50 M Butterfly,SCM,W,75-79,1:26.11,Terry Sokolik,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,W,75-79,2:24.84,Terry Sokolik,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,80-84,58.34,Marianna Berkley,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,W,80-84,1:09.52,Miriam K Tuovila,,Virginia Masters SCM,2005,2
+VMST,100 M Freestyle,SCM,W,80-84,2:21.38,Marianna Berkley,,Virginia Masters SCM,2005,1
+VMST,200 M Backstroke,SCM,W,80-84,5:37.24,Marianna Berkley,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,W,80-84,1:17.31,Marianna Berkley,,Virginia Masters SCM,2005,1
+VMST,100 M Breaststroke,SCM,W,80-84,2:33.46,Miriam K Tuovila,,Virginia Masters SCM,2005,1
+VMST,200 M Breaststroke,SCM,W,80-84,5:26.49,Miriam K Tuovila,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,W,80-84,2:37.51,Marianna Berkley,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,W,80-84,2:37.89,Miriam K Tuovila,,Virginia Masters SCM,2005,2
+VMST,1500 M Freestyle,SCM,M,25-29,21:31.93,Michael W Robbins,,Virginia Masters SCM,2005,1
+VMST,100 M Backstroke,SCM,M,25-29,1:06.61,Michael W Robbins,,Virginia Masters SCM,2005,1
+VMST,200 M Backstroke,SCM,M,25-29,2:39.60,Michael W Robbins,,Virginia Masters SCM,2005,1
+VMST,100 M Butterfly,SCM,M,25-29,1:03.96,Michael W Robbins,,Virginia Masters SCM,2005,1
+VMST,200 M Butterfly,SCM,M,25-29,2:42.37,Michael W Robbins,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,M,30-34,23.67,Troy D Johnson,,Albatross Open,2005,1
+VMST,100 M Freestyle,SCM,M,30-34,53.26,Troy D Johnson,,Albatross Open,2005,1
+VMST,50 M Butterfly,SCM,M,30-34,26.38,Troy D Johnson,,Albatross Open,2005,1
+SHYM,50 M Freestyle,SCM,M,35-39,27.39,Gregory E Kobak,,Virginia Masters SCM,2005,1
+SHYM,50 M Freestyle,SCM,M,35-39,28.64,Albert C Taxter,,Virginia Masters SCM,2005,2
+UNAT,50 M Freestyle,SCM,M,35-39,29.32,James P McNamara,,DC Aquatics Club Fall Swim,2005,3
+VMST,100 M Freestyle,SCM,M,35-39,1:01.52,Sean L Callender,,Virginia Masters SCM,2005,1
+SHYM,100 M Freestyle,SCM,M,35-39,1:02.51,Gregory E Kobak,,Virginia Masters SCM,2005,2
+SHYM,100 M Freestyle,SCM,M,35-39,1:08.38,Albert C Taxter,,Virginia Masters SCM,2005,3
+CFYM,800 M Freestyle,SCM,M,35-39,9:29.29,Rob St Jean,,University of Louisville Invitational,2005,1
+CFYM,1500 M Freestyle,SCM,M,35-39,18:40.39,Rob St Jean,,University of Louisville Invitational,2005,1
+VMST,50 M Backstroke,SCM,M,35-39,31.38,Rab H McClure,,Albatross Open,2005,1
+SHYM,50 M Backstroke,SCM,M,35-39,35.64,Gregory E Kobak,,Virginia Masters SCM,2005,2
+SHYM,50 M Backstroke,SCM,M,35-39,38.47,Albert C Taxter,,Virginia Masters SCM,2005,3
+VMST,100 M Backstroke,SCM,M,35-39,1:06.40,Rab H McClure,,Albatross Open,2005,1
+VMST,200 M Backstroke,SCM,M,35-39,2:27.00,Rab H McClure,,Albatross Open,2005,1
+UNAT,50 M Breaststroke,SCM,M,35-39,44.42,James P McNamara,,DC Aquatics Club Fall Swim,2005,1
+SHYM,50 M Butterfly,SCM,M,35-39,32.90,Albert C Taxter,,Virginia Masters SCM,2005,1
+UNAT,50 M Butterfly,SCM,M,35-39,33.42,James P McNamara,,DC Aquatics Club Fall Swim,2005,2
+VMST,100 M Individual Medley,SCM,M,35-39,1:06.22,Rab H McClure,,Albatross Open,2005,1
+VMST,100 M Individual Medley,SCM,M,35-39,1:12.31,Sean L Callender,,Virginia Masters SCM,2005,2
+UNAT,100 M Individual Medley,SCM,M,35-39,1:24.60,James P McNamara,,DC Aquatics Club Fall Swim,2005,3
+CFYM,50 M Freestyle,SCM,M,40-44,31.05,John T Miesner,,University of Louisville Invitational,2005,1
+UNAT,50 M Freestyle,SCM,M,40-44,31.30,A K Miller,,Virginia Masters SCM,2005,2
+VMST,50 M Freestyle,SCM,M,40-44,36.72,Walter M Oliveira,,DC Aquatics Club Fall Swim,2005,3
+CFYM,100 M Freestyle,SCM,M,40-44,1:10.71,John T Miesner,,University of Louisville Invitational,2005,1
+VMST,100 M Freestyle,SCM,M,40-44,1:13.48,Frederick J Glaeser,,Albatross Open,2005,2
+VMST,100 M Freestyle,SCM,M,40-44,1:23.33,Walter M Oliveira,,IGLA Championships,2005,3
+UNAT,200 M Freestyle,SCM,M,40-44,2:35.55,Mark E Shea,,Virginia Masters SCM,2005,1
+CFYM,200 M Freestyle,SCM,M,40-44,2:36.20,John T Miesner,,University of Louisville Invitational,2005,2
+UNAT,800 M Freestyle,SCM,M,40-44,11:23.56,Mark E Shea,,Virginia Masters SCM,2005,1
+CFYM,800 M Freestyle,SCM,M,40-44,12:01.80,John T Miesner,,University of Louisville Invitational,2005,2
+UNAT,50 M Backstroke,SCM,M,40-44,33.87,A K Miller,,Virginia Masters SCM,2005,1
+CFYM,50 M Backstroke,SCM,M,40-44,43.28,John T Miesner,,University of Louisville Invitational,2005,2
+VMST,200 M Backstroke,SCM,M,40-44,2:35.91,David B Malsbury,,Virginia Masters SCM,2005,1
+VMST,50 M Breaststroke,SCM,M,40-44,34.32,David B Malsbury,,Virginia Masters SCM,2005,1
+UNAT,50 M Breaststroke,SCM,M,40-44,35.50,A K Miller,,Virginia Masters SCM,2005,2
+VMST,50 M Breaststroke,SCM,M,40-44,45.93,Walter M Oliveira,,DC Aquatics Club Fall Swim,2005,3
+VMST,100 M Breaststroke,SCM,M,40-44,1:18.50,David B Malsbury,,Virginia Masters SCM,2005,1
+UNAT,100 M Breaststroke,SCM,M,40-44,1:22.47,A K Miller,,Virginia Masters SCM,2005,2
+VMST,100 M Breaststroke,SCM,M,40-44,1:42.50,Walter M Oliveira,,DC Aquatics Club Fall Swim,2005,3
+UNAT,200 M Breaststroke,SCM,M,40-44,2:56.58,A K Miller,,Virginia Masters SCM,2005,1
+VMST,200 M Breaststroke,SCM,M,40-44,3:50.58,Walter M Oliveira,,IGLA Championships,2005,2
+CFYM,50 M Butterfly,SCM,M,40-44,34.35,John T Miesner,,University of Louisville Invitational,2005,1
+VMST,100 M Butterfly,SCM,M,40-44,1:08.86,David B Malsbury,,Virginia Masters SCM,2005,1
+CFYM,100 M Butterfly,SCM,M,40-44,1:19.22,John T Miesner,,University of Louisville Invitational,2005,2
+CFYM,100 M Individual Medley,SCM,M,40-44,1:23.39,John T Miesner,,University of Louisville Invitational,2005,1
+CFYM,200 M Individual Medley,SCM,M,40-44,3:02.22,John T Miesner,,University of Louisville Invitational,2005,1
+VMST,50 M Freestyle,SCM,M,45-49,28.45,Jim McFarland,,Virginia Masters SCM,2005,1
+CFYM,50 M Freestyle,SCM,M,45-49,31.42,Jeffrey D Lucas,,University of Louisville Invitational,2005,2
+UNAT,100 M Freestyle,SCM,M,45-49,1:04.98,Joey Stickle,,Virginia Masters SCM,2005,1
+CFYM,100 M Freestyle,SCM,M,45-49,1:13.01,Jeffrey D Lucas,,University of Louisville Invitational,2005,2
+VMST,200 M Freestyle,SCM,M,45-49,2:17.50,Jim McFarland,,Virginia Masters SCM,2005,1
+VMST,200 M Freestyle,SCM,M,45-49,2:50.87,Ralph B Swiger,,9th Annual Lox &amp; Bagels Meet,2005,2
+VMST,400 M Freestyle,SCM,M,45-49,4:53.34,Jim McFarland,,Virginia Masters SCM,2005,1
+VMST,400 M Freestyle,SCM,M,45-49,5:53.02,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,2
+CFYM,400 M Freestyle,SCM,M,45-49,6:21.06,Jeffrey D Lucas,,University of Louisville Invitational,2005,3
+VMST,800 M Freestyle,SCM,M,45-49,12:18.98,Ralph B Swiger,,Virginia Masters SCM,2005,1
+CFYM,800 M Freestyle,SCM,M,45-49,12:37.03,Jeffrey D Lucas,,University of Louisville Invitational,2005,2
+VMST,1500 M Freestyle,SCM,M,45-49,19:34.32,Jim McFarland,,Virginia Masters SCM,2005,1
+VMST,1500 M Freestyle,SCM,M,45-49,23:04.21,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,2
+CFYM,1500 M Freestyle,SCM,M,45-49,24:11.95,Jeffrey D Lucas,,University of Louisville Invitational,2005,3
+VMST,50 M Backstroke,SCM,M,45-49,37.25,Robert A Romo,,Albatross Open,2005,1
+VMST,50 M Backstroke,SCM,M,45-49,44.67,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,2
+VMST,100 M Backstroke,SCM,M,45-49,1:35.67,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,1
+VMST,200 M Backstroke,SCM,M,45-49,2:58.45,Robert A Romo,,Albatross Open,2005,1
+VMST,200 M Backstroke,SCM,M,45-49,3:18.80,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,2
+CFYM,50 M Breaststroke,SCM,M,45-49,36.48,Jeffrey D Lucas,,University of Louisville Invitational,2005,1
+CFYM,100 M Breaststroke,SCM,M,45-49,1:21.06,Jeffrey D Lucas,,University of Louisville Invitational,2005,1
+UNAT,100 M Breaststroke,SCM,M,45-49,1:24.15,Joey Stickle,,Virginia Masters SCM,2005,2
+VMST,100 M Breaststroke,SCM,M,45-49,1:39.62,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,3
+UNAT,200 M Breaststroke,SCM,M,45-49,2:56.85,Joey Stickle,,Virginia Masters SCM,2005,1
+CFYM,200 M Breaststroke,SCM,M,45-49,2:57.57,Jeffrey D Lucas,,University of Louisville Invitational,2005,2
+VMST,200 M Breaststroke,SCM,M,45-49,3:36.25,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,3
+VMST,50 M Butterfly,SCM,M,45-49,33.42,Robert A Romo,,Albatross Open,2005,1
+CFYM,100 M Butterfly,SCM,M,45-49,1:29.75,Jeffrey D Lucas,,University of Louisville Invitational,2005,1
+VMST,100 M Butterfly,SCM,M,45-49,1:38.62,Ralph B Swiger,,9th Annual Lox &amp; Bagels Meet,2005,2
+VMST,200 M Butterfly,SCM,M,45-49,3:26.65,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,1
+UNAT,100 M Individual Medley,SCM,M,45-49,1:16.39,Joey Stickle,,Virginia Masters SCM,2005,1
+UNAT,200 M Individual Medley,SCM,M,45-49,3:00.38,Joey Stickle,,Virginia Masters SCM,2005,1
+VMST,200 M Individual Medley,SCM,M,45-49,3:13.67,Ralph B Swiger,,Aquafit Holiday SCM Meet,2005,2
+CFYM,400 M Individual Medley,SCM,M,45-49,6:45.81,Jeffrey D Lucas,,University of Louisville Invitational,2005,1
+VMST,400 M Individual Medley,SCM,M,45-49,6:49.19,Ralph B Swiger,,Jersey Area Masters Holiday Classic,2005,2
+VMST,50 M Freestyle,SCM,M,50-54,27.57,Scott M Balderston,,Virginia Masters SCM,2005,1
+UNAT,50 M Freestyle,SCM,M,50-54,29.04,Duffy Drum,,Virginia Masters SCM,2005,2
+CFYM,50 M Freestyle,SCM,M,50-54,33.56,Robert D Boder,,University of Louisville Invitational,2005,3
+VMST,50 M Freestyle,SCM,M,50-54,33.85,Alvin Richardson,,Virginia Masters SCM,2005,4
+VMST,50 M Freestyle,SCM,M,50-54,35.31,Henry B Freedman,,Albatross Open,2005,5
+VMST,50 M Freestyle,SCM,M,50-54,35.52,Steve J Tassi,,Albatross Open,2005,6
+VMST,100 M Freestyle,SCM,M,50-54,1:01.87,Scott M Balderston,,Virginia Masters SCM,2005,1
+VMST,100 M Freestyle,SCM,M,50-54,1:06.73,G Tracy Hernlen,,Virginia Masters SCM,2005,2
+UNAT,100 M Freestyle,SCM,M,50-54,1:06.86,Duffy Drum,,Virginia Masters SCM,2005,3
+CFYM,100 M Freestyle,SCM,M,50-54,1:16.31,Robert D Boder,,University of Louisville Invitational,2005,4
+VMST,100 M Freestyle,SCM,M,50-54,1:17.28,Alvin Richardson,,Virginia Masters SCM,2005,5
+VMST,100 M Freestyle,SCM,M,50-54,1:19.96,Henry B Freedman,,Albatross Open,2005,6
+VMST,200 M Freestyle,SCM,M,50-54,2:28.56,G Tracy Hernlen,,Virginia Masters SCM,2005,1
+VMST,200 M Freestyle,SCM,M,50-54,2:52.23,Alvin Richardson,,Virginia Masters SCM,2005,2
+CFYM,200 M Freestyle,SCM,M,50-54,3:01.11,Robert D Boder,,University of Louisville Invitational,2005,3
+CFYM,800 M Freestyle,SCM,M,50-54,13:20.82,Robert D Boder,,University of Louisville Invitational,2005,1
+VMST,1500 M Freestyle,SCM,M,50-54,24:00.78,Alvin Richardson,,Virginia Masters SCM,2005,1
+CFYM,1500 M Freestyle,SCM,M,50-54,25:16.27,Robert D Boder,,University of Louisville Invitational,2005,2
+UNAT,1500 M Freestyle,SCM,M,50-54,26:23.92,Duffy Drum,,Virginia Masters SCM,2005,3
+CFYM,200 M Backstroke,SCM,M,50-54,3:44.70,Robert D Boder,,University of Louisville Invitational,2005,1
+VMST,50 M Breaststroke,SCM,M,50-54,42.15,G Tracy Hernlen,,Virginia Masters SCM,2005,1
+CFYM,200 M Breaststroke,SCM,M,50-54,3:48.42,Robert D Boder,,University of Louisville Invitational,2005,1
+VMST,50 M Butterfly,SCM,M,50-54,42.21,Alvin Richardson,,Virginia Masters SCM,2005,1
+CFYM,100 M Individual Medley,SCM,M,50-54,1:39.14,Robert D Boder,,University of Louisville Invitational,2005,1
+VMST,50 M Freestyle,SCM,M,55-59,30.58,John W Kin,,GRIN Fall Classic SCM Meet,2005,1
+VMST,100 M Freestyle,SCM,M,55-59,1:06.56,Rick H Stringer,,Virginia Masters SCM,2005,1
+VMST,100 M Freestyle,SCM,M,55-59,1:10.41,John W Kin,,GRIN Fall Classic SCM Meet,2005,2
+VMST,50 M Backstroke,SCM,M,55-59,38.11,Mike Duignan,,Virginia Masters SCM,2005,1
+VMST,100 M Backstroke,SCM,M,55-59,1:16.45,Rick H Stringer,,Virginia Masters SCM,2005,1
+VMST,100 M Backstroke,SCM,M,55-59,1:24.31,Mike Duignan,,Virginia Masters SCM,2005,2
+VMST,200 M Backstroke,SCM,M,55-59,3:03.21,Mike Duignan,,Virginia Masters SCM,2005,1
+VMST,100 M Breaststroke,SCM,M,55-59,1:29.00,Rick H Stringer,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,M,55-59,1:15.74,Rick H Stringer,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,M,55-59,1:20.78,John W Kin,,GRIN Fall Classic SCM Meet,2005,2
+VMST,100 M Freestyle,SCM,M,60-64,1:27.11,Hugh W Mc Gee,,Albatross Open,2005,1
+VMST,100 M Freestyle,SCM,M,60-64,1:27.96,Tom M Woods,,Park Hill Masters Meet,2005,2
+VMST,200 M Freestyle,SCM,M,60-64,2:12.18,John J Calvert,,Canadian Short Course Nationals,2005,1
+VMST,200 M Freestyle,SCM,M,60-64,3:00.69,Tom M Woods,,Park Hill Masters Meet,2005,2
+VMST,400 M Freestyle,SCM,M,60-64,4:43.69,John J Calvert,,Canadian Short Course Nationals,2005,1
+VMST,800 M Freestyle,SCM,M,60-64,13:12.29,Tom M Woods,,Cinco de Mayo SCM Meet,2005,1
+VMST,50 M Backstroke,SCM,M,60-64,45.52,Hugh W Mc Gee,,Albatross Open,2005,1
+VMST,100 M Backstroke,SCM,M,60-64,1:47.37,Hugh W Mc Gee,,Albatross Open,2005,1
+VMST,200 M Backstroke,SCM,M,60-64,2:30.96,John J Calvert,,Canadian Short Course Nationals,2005,1
+VMST,50 M Breaststroke,SCM,M,60-64,42.59,Edward H Gaulrapp,,Albatross Open,2005,1
+VMST,100 M Breaststroke,SCM,M,60-64,1:33.50,Edward H Gaulrapp,,9th Annual Lox &amp; Bagels Meet,2005,1
+VMST,200 M Breaststroke,SCM,M,60-64,3:37.81,Edward H Gaulrapp,,Albatross Open,2005,1
+VMST,50 M Butterfly,SCM,M,60-64,36.87,Edward H Gaulrapp,,9th Annual Lox &amp; Bagels Meet,2005,1
+VMST,100 M Butterfly,SCM,M,60-64,1:37.73,Edward H Gaulrapp,,Albatross Open,2005,1
+VMST,200 M Individual Medley,SCM,M,60-64,2:30.48,John J Calvert,,Canadian Short Course Nationals,2005,1
+VMST,50 M Freestyle,SCM,M,65-69,41.81,Bob Leilich,,Albatross Open,2005,1
+UNAT,200 M Freestyle,SCM,M,65-69,3:28.80,William D Rhodes,,Virginia Masters SCM,2005,1
+VMST,200 M Freestyle,SCM,M,65-69,3:30.23,Bob Leilich,,Albatross Open,2005,2
+UNAT,400 M Freestyle,SCM,M,65-69,7:18.67,William D Rhodes,,Virginia Masters SCM,2005,1
+UNAT,50 M Freestyle,SCM,M,70-74,39.42,Owen C Maher,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,M,70-74,46.04,Landis O Lee,,Virginia Masters SCM,2005,2
+UNAT,100 M Freestyle,SCM,M,70-74,1:40.27,Owen C Maher,,Virginia Masters SCM,2005,1
+VMST,1500 M Freestyle,SCM,M,70-74,33:40.45,Alister R Murray,,Huntsman World Senior Games,2005,1
+VMST,50 M Backstroke,SCM,M,70-74,52.03,Alister R Murray,,Huntsman World Senior Games,2005,1
+VMST,50 M Backstroke,SCM,M,70-74,54.39,Landis O Lee,,Virginia Masters SCM,2005,2
+VMST,100 M Backstroke,SCM,M,70-74,1:52.19,Alister R Murray,,Huntsman World Senior Games,2005,1
+VMST,200 M Backstroke,SCM,M,70-74,4:08.39,Alister R Murray,,Huntsman World Senior Games,2005,1
+UNAT,50 M Butterfly,SCM,M,70-74,46.35,Owen C Maher,,Virginia Masters SCM,2005,1
+UNAT,100 M Butterfly,SCM,M,70-74,2:05.38,Owen C Maher,,Virginia Masters SCM,2005,1
+VMST,100 M Butterfly,SCM,M,70-74,2:32.00,Alister R Murray,,Huntsman World Senior Games,2005,2
+VMST,200 M Butterfly,SCM,M,70-74,5:36.34,Alister R Murray,,Huntsman World Senior Games,2005,1
+UNAT,100 M Individual Medley,SCM,M,70-74,1:54.05,Owen C Maher,,Virginia Masters SCM,2005,1
+VMST,100 M Individual Medley,SCM,M,70-74,2:03.11,Alister R Murray,,Huntsman World Senior Games,2005,2
+VMST,200 M Individual Medley,SCM,M,70-74,4:30.40,Alister R Murray,,Huntsman World Senior Games,2005,1
+VMST,400 M Individual Medley,SCM,M,70-74,9:22.87,Alister R Murray,,Huntsman World Senior Games,2005,1
+VMST,1500 M Freestyle,SCM,M,80-84,32:43.82,Calvin W Barnes,,Virginia Masters SCM,2005,1
+VMST,100 M Backstroke,SCM,M,80-84,2:16.89,Calvin W Barnes,,Virginia Masters SCM,2005,1
+VMST,200 M Backstroke,SCM,M,80-84,4:50.86,Calvin W Barnes,,Virginia Masters SCM,2005,1
+VMST,400 M Individual Medley,SCM,M,80-84,9:34.86,Calvin W Barnes,,Virginia Masters SCM,2005,1
+VMST,50 M Freestyle,SCM,M,85-89,1:09.96,Russell B Davis,,Virginia Masters SCM,2005,1
+VMST,400 M Freestyle,SCM,M,85-89,13:37.63,Russell B Davis,,Virginia Masters SCM,2005,1

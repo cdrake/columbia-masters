@@ -1,0 +1,525 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+UNAT,50 Y Freestyle,SCY,W,18-24,25.59,Carola Berger,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Freestyle,SCY,W,18-24,28.01,Valerie M Palmer,,2002 USMS Short Course Nationals,2002,2
+CLVM,50 Y Freestyle,SCY,W,18-24,28.51,Erin E Malsom,,2002 USMS Short Course Nationals,2002,3
+BGWM,50 Y Freestyle,SCY,W,18-24,31.02,Julie Meyer,,2002 USMS Short Course Nationals,2002,4
+UNAT,100 Y Freestyle,SCY,W,18-24,55.83,Carola Berger,,2002 USMS Short Course Nationals,2002,1
+OSB,100 Y Freestyle,SCY,W,18-24,1:00.05,Valerie M Palmer,,2002 USMS Short Course Nationals,2002,2
+UNAT,200 Y Freestyle,SCY,W,18-24,2:03.97,Carola Berger,,2002 USMS Short Course Nationals,2002,1
+OSB,500 Y Freestyle,SCY,W,18-24,5:48.87,Valerie M Palmer,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Backstroke,SCY,W,18-24,33.43,Erin E Malsom,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Backstroke,SCY,W,18-24,1:12.73,Erin E Malsom,,2002 USMS Short Course Nationals,2002,1
+CLVM,200 Y Backstroke,SCY,W,18-24,2:35.01,Erin E Malsom,,2002 USMS Short Course Nationals,2002,1
+OSB,100 Y Individual Medley,SCY,W,18-24,1:11.59,Valerie M Palmer,,2002 USMS Short Course Nationals,2002,1
+OSB,200 Y Individual Medley,SCY,W,18-24,2:30.45,Valerie M Palmer,,2002 USMS Short Course Nationals,2002,1
+UCLA,50 Y Freestyle,SCY,W,25-29,25.70,Kristin E Richner,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Freestyle,SCY,W,25-29,26.45,Fiona C Petersen,,2002 USMS Short Course Nationals,2002,2
+LAPS,50 Y Freestyle,SCY,W,25-29,28.00,Cara J Loyd,,2002 USMS Short Course Nationals,2002,3
+OSB,50 Y Freestyle,SCY,W,25-29,30.53,Terri L Stewart,,2002 USMS Short Course Nationals,2002,4
+UCLA,100 Y Freestyle,SCY,W,25-29,56.79,Kristin E Richner,,2002 USMS Short Course Nationals,2002,1
+NOVA,100 Y Freestyle,SCY,W,25-29,58.24,Fiona C Petersen,,2002 USMS Short Course Nationals,2002,2
+CLVM,100 Y Freestyle,SCY,W,25-29,1:06.28,Kimberly J Ray,,2002 USMS Short Course Nationals,2002,3
+NOVA,200 Y Freestyle,SCY,W,25-29,2:03.03,Fiona C Petersen,,2002 USMS Short Course Nationals,2002,1
+OSB,200 Y Freestyle,SCY,W,25-29,2:21.15,Terri L Stewart,,2002 USMS Short Course Nationals,2002,2
+LAPS,200 Y Freestyle,SCY,W,25-29,2:25.39,Cara J Loyd,,2002 USMS Short Course Nationals,2002,3
+NOVA,500 Y Freestyle,SCY,W,25-29,5:35.63,Fiona C Petersen,,2002 USMS Short Course Nationals,2002,1
+OSB,500 Y Freestyle,SCY,W,25-29,6:06.64,Terri L Stewart,,2002 USMS Short Course Nationals,2002,2
+LAPS,500 Y Freestyle,SCY,W,25-29,6:09.76,Cara J Loyd,,2002 USMS Short Course Nationals,2002,3
+OSB,1000 Y Freestyle,SCY,W,25-29,12:45.17,Terri L Stewart,,2002 USMS Short Course Nationals,2002,1
+NOVA,1650 Y Freestyle,SCY,W,25-29,19:08.64,Fiona C Petersen,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Backstroke,SCY,W,25-29,31.26,Tracy Palmero,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Backstroke,SCY,W,25-29,35.65,Terri L Stewart,,2002 USMS Short Course Nationals,2002,2
+NOVA,100 Y Backstroke,SCY,W,25-29,1:06.21,Tracy Palmero,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Backstroke,SCY,W,25-29,1:16.89,Kimberly J Ray,,2002 USMS Short Course Nationals,2002,2
+NOVA,200 Y Backstroke,SCY,W,25-29,2:23.42,Tracy Palmero,,2002 USMS Short Course Nationals,2002,1
+UCLA,50 Y Butterfly,SCY,W,25-29,28.28,Kristin E Richner,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Butterfly,SCY,W,25-29,30.48,Tracy Palmero,,2002 USMS Short Course Nationals,2002,2
+UCLA,100 Y Butterfly,SCY,W,25-29,1:03.24,Kristin E Richner,,2002 USMS Short Course Nationals,2002,1
+NOVA,100 Y Butterfly,SCY,W,25-29,1:05.07,Fiona C Petersen,,2002 USMS Short Course Nationals,2002,2
+NOVA,100 Y Butterfly,SCY,W,25-29,1:08.10,Tracy Palmero,,2002 USMS Short Course Nationals,2002,3
+NOVA,200 Y Butterfly,SCY,W,25-29,2:34.70,Tracy Palmero,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Individual Medley,SCY,W,25-29,1:15.21,Kimberly J Ray,,2002 USMS Short Course Nationals,2002,1
+OSB,100 Y Individual Medley,SCY,W,25-29,1:15.68,Terri L Stewart,,2002 USMS Short Course Nationals,2002,2
+BGWM,200 Y Individual Medley,SCY,W,25-29,2:44.00,Amy R Mikler,,2002 USMS Short Course Nationals,2002,1
+CLVM,200 Y Individual Medley,SCY,W,25-29,2:48.82,Kimberly J Ray,,2002 USMS Short Course Nationals,2002,2
+OSB,50 Y Freestyle,SCY,W,30-34,24.83,Marcie J Kjoller,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,W,30-34,26.68,Amy S Elletson,,2002 USMS Short Course Nationals,2002,2
+UCLA,50 Y Freestyle,SCY,W,30-34,31.09,Lelani R Eickhoff,,2002 USMS Short Course Nationals,2002,3
+UCLA,50 Y Freestyle,SCY,W,30-34,35.23,Cindy D Berkson,,2002 USMS Short Course Nationals,2002,4
+OSB,100 Y Freestyle,SCY,W,30-34,54.83,Marcie J Kjoller,,2002 USMS Short Course Nationals,2002,1
+OSB,200 Y Freestyle,SCY,W,30-34,2:02.26,Marcie J Kjoller,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Freestyle,SCY,W,30-34,2:05.03,Lee Anne Ghimenti,,2002 USMS Short Course Nationals,2002,2
+UCLA,200 Y Freestyle,SCY,W,30-34,2:37.32,Lelani R Eickhoff,,2002 USMS Short Course Nationals,2002,3
+SCAQ,500 Y Freestyle,SCY,W,30-34,5:14.22,Joanne W Reierson,,2002 USMS Short Course Nationals,2002,1
+VCM,500 Y Freestyle,SCY,W,30-34,5:36.13,Lee Anne Ghimenti,,2002 USMS Short Course Nationals,2002,2
+UCLA,500 Y Freestyle,SCY,W,30-34,7:14.46,Lelani R Eickhoff,,2002 USMS Short Course Nationals,2002,3
+UCLA,500 Y Freestyle,SCY,W,30-34,7:43.36,Cindy D Berkson,,2002 USMS Short Course Nationals,2002,4
+SCAQ,1000 Y Freestyle,SCY,W,30-34,10:36.92,Joanne W Reierson,,2002 USMS Short Course Nationals,2002,1
+VCM,1000 Y Freestyle,SCY,W,30-34,11:23.50,Lee Anne Ghimenti,,2002 USMS Short Course Nationals,2002,2
+CLVM,50 Y Backstroke,SCY,W,30-34,31.77,Amy S Elletson,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Backstroke,SCY,W,30-34,1:10.28,Amy S Elletson,,2002 USMS Short Course Nationals,2002,1
+CLVM,200 Y Backstroke,SCY,W,30-34,2:35.49,Amy S Elletson,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Breaststroke,SCY,W,30-34,30.20,Wenke K Hansen,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Breaststroke,SCY,W,30-34,32.43,Joanne W Reierson,,2002 USMS Short Course Nationals,2002,2
+OSB,100 Y Breaststroke,SCY,W,30-34,1:03.75,Wenke K Hansen,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Breaststroke,SCY,W,30-34,1:09.78,Joanne W Reierson,,2002 USMS Short Course Nationals,2002,2
+OSB,200 Y Breaststroke,SCY,W,30-34,2:18.25,Wenke K Hansen,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Breaststroke,SCY,W,30-34,2:31.30,Joanne W Reierson,,2002 USMS Short Course Nationals,2002,2
+OSB,50 Y Butterfly,SCY,W,30-34,26.74,Marcie J Kjoller,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Butterfly,SCY,W,30-34,29.13,Amy S Elletson,,2002 USMS Short Course Nationals,2002,2
+OSB,100 Y Butterfly,SCY,W,30-34,56.87,Wenke K Hansen,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Butterfly,SCY,W,30-34,1:06.49,Amy S Elletson,,2002 USMS Short Course Nationals,2002,2
+OSB,100 Y Individual Medley,SCY,W,30-34,58.10,Wenke K Hansen,,2002 USMS Short Course Nationals,2002,1
+OSB,200 Y Individual Medley,SCY,W,30-34,2:05.61,Wenke K Hansen,,2002 USMS Short Course Nationals,2002,1
+HSNM,50 Y Freestyle,SCY,W,35-39,27.22,Debbie F Meek,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,W,35-39,29.60,Kari S Adams,,2002 USMS Short Course Nationals,2002,2
+SWM,50 Y Freestyle,SCY,W,35-39,31.82,Trisha M Commons,,2002 USMS Short Course Nationals,2002,3
+HSNM,100 Y Freestyle,SCY,W,35-39,59.33,Debbie F Meek,,2002 USMS Short Course Nationals,2002,1
+OSB,100 Y Freestyle,SCY,W,35-39,1:02.57,Dawn L Schroeder,,2002 USMS Short Course Nationals,2002,2
+CLVM,500 Y Freestyle,SCY,W,35-39,6:13.77,Kari S Adams,,2002 USMS Short Course Nationals,2002,1
+HSNM,500 Y Freestyle,SCY,W,35-39,6:28.26,Robin B Barry,,2002 USMS Short Course Nationals,2002,2
+CLVM,1000 Y Freestyle,SCY,W,35-39,12:47.42,Kari S Adams,,2002 USMS Short Course Nationals,2002,1
+HSNM,1000 Y Freestyle,SCY,W,35-39,13:10.78,Robin B Barry,,2002 USMS Short Course Nationals,2002,2
+HSNM,50 Y Backstroke,SCY,W,35-39,32.03,Debbie F Meek,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Backstroke,SCY,W,35-39,34.31,Kari S Adams,,2002 USMS Short Course Nationals,2002,2
+SWM,50 Y Backstroke,SCY,W,35-39,36.64,Trisha M Commons,,2002 USMS Short Course Nationals,2002,3
+SWM,100 Y Backstroke,SCY,W,35-39,1:17.77,Trisha M Commons,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Breaststroke,SCY,W,35-39,33.10,Dawn L Schroeder,,2002 USMS Short Course Nationals,2002,1
+VCM,50 Y Breaststroke,SCY,W,35-39,39.54,Vicki S Hedrick,,2002 USMS Short Course Nationals,2002,2
+OSB,100 Y Breaststroke,SCY,W,35-39,1:11.95,Dawn L Schroeder,,2002 USMS Short Course Nationals,2002,1
+TEAM,100 Y Breaststroke,SCY,W,35-39,1:19.62,Jennifer A Klein,,2002 USMS Short Course Nationals,2002,2
+VCM,100 Y Breaststroke,SCY,W,35-39,1:22.99,Vicki S Hedrick,,2002 USMS Short Course Nationals,2002,3
+OSB,200 Y Breaststroke,SCY,W,35-39,2:34.17,Dawn L Schroeder,,2002 USMS Short Course Nationals,2002,1
+TEAM,200 Y Breaststroke,SCY,W,35-39,2:49.80,Jennifer A Klein,,2002 USMS Short Course Nationals,2002,2
+HSNM,200 Y Breaststroke,SCY,W,35-39,2:57.96,Robin B Barry,,2002 USMS Short Course Nationals,2002,3
+VCM,200 Y Breaststroke,SCY,W,35-39,2:58.52,Vicki S Hedrick,,2002 USMS Short Course Nationals,2002,4
+HSNM,50 Y Butterfly,SCY,W,35-39,30.79,Debbie F Meek,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Butterfly,SCY,W,35-39,31.61,Kari S Adams,,2002 USMS Short Course Nationals,2002,2
+HSNM,100 Y Butterfly,SCY,W,35-39,1:19.62,Robin B Barry,,2002 USMS Short Course Nationals,2002,1
+VCM,100 Y Individual Medley,SCY,W,35-39,1:16.65,Vicki S Hedrick,,2002 USMS Short Course Nationals,2002,1
+TEAM,200 Y Individual Medley,SCY,W,35-39,2:34.72,Jennifer A Klein,,2002 USMS Short Course Nationals,2002,1
+HSNM,200 Y Individual Medley,SCY,W,35-39,2:45.06,Robin B Barry,,2002 USMS Short Course Nationals,2002,2
+TEAM,400 Y Individual Medley,SCY,W,35-39,5:23.76,Jennifer A Klein,,2002 USMS Short Course Nationals,2002,1
+HSNM,400 Y Individual Medley,SCY,W,35-39,5:49.09,Robin B Barry,,2002 USMS Short Course Nationals,2002,2
+BGWM,50 Y Freestyle,SCY,W,40-44,28.67,Kris E Edwards,,2002 USMS Short Course Nationals,2002,1
+UCI,200 Y Freestyle,SCY,W,40-44,2:13.13,Sharon L Blaha,,2002 USMS Short Course Nationals,2002,1
+BGWM,200 Y Freestyle,SCY,W,40-44,2:24.39,Kris E Edwards,,2002 USMS Short Course Nationals,2002,2
+UCI,1650 Y Freestyle,SCY,W,40-44,20:19.90,Sharon L Blaha,,2002 USMS Short Course Nationals,2002,1
+BGWM,50 Y Backstroke,SCY,W,40-44,36.36,Kris E Edwards,,2002 USMS Short Course Nationals,2002,1
+BGWM,100 Y Backstroke,SCY,W,40-44,1:18.73,Kris E Edwards,,2002 USMS Short Course Nationals,2002,1
+BGWM,50 Y Butterfly,SCY,W,40-44,29.81,Kris E Edwards,,2002 USMS Short Course Nationals,2002,1
+UCI,400 Y Individual Medley,SCY,W,40-44,5:37.28,Sharon L Blaha,,2002 USMS Short Course Nationals,2002,1
+HSNM,50 Y Freestyle,SCY,W,45-49,27.81,Carolyn Battin,,2002 USMS Short Course Nationals,2002,1
+LAPS,50 Y Freestyle,SCY,W,45-49,34.15,Jody R Browning,,2002 USMS Short Course Nationals,2002,2
+SLUG,50 Y Freestyle,SCY,W,45-49,36.77,Melinda Kalin,,2002 USMS Short Course Nationals,2002,3
+HSNM,100 Y Freestyle,SCY,W,45-49,1:01.35,Carolyn Battin,,2002 USMS Short Course Nationals,2002,1
+SLUG,100 Y Freestyle,SCY,W,45-49,1:20.03,Melinda Kalin,,2002 USMS Short Course Nationals,2002,2
+HSNM,200 Y Freestyle,SCY,W,45-49,2:13.57,Carolyn Battin,,2002 USMS Short Course Nationals,2002,1
+HSNM,500 Y Freestyle,SCY,W,45-49,5:59.60,Carolyn Battin,,2002 USMS Short Course Nationals,2002,1
+UCLA,500 Y Freestyle,SCY,W,45-49,6:09.69,Christie Ciraulo,,2002 USMS Short Course Nationals,2002,2
+HSNM,1000 Y Freestyle,SCY,W,45-49,12:16.49,Carolyn Battin,,2002 USMS Short Course Nationals,2002,1
+UCLA,1000 Y Freestyle,SCY,W,45-49,12:24.96,Christie Ciraulo,,2002 USMS Short Course Nationals,2002,2
+ROAD,50 Y Backstroke,SCY,W,45-49,37.14,Tina K Semonsen,,2002 USMS Short Course Nationals,2002,1
+ROAD,100 Y Backstroke,SCY,W,45-49,1:17.70,Tina K Semonsen,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Breaststroke,SCY,W,45-49,32.73,Karen L Melick,,2002 USMS Short Course Nationals,2002,1
+ROAD,50 Y Breaststroke,SCY,W,45-49,39.51,Tina K Semonsen,,2002 USMS Short Course Nationals,2002,2
+LAPS,50 Y Breaststroke,SCY,W,45-49,39.67,Jody R Browning,,2002 USMS Short Course Nationals,2002,3
+UCLA,50 Y Breaststroke,SCY,W,45-49,44.29,Annette Buhl,,2002 USMS Short Course Nationals,2002,4
+SCAQ,100 Y Breaststroke,SCY,W,45-49,1:11.35,Karen L Melick,,2002 USMS Short Course Nationals,2002,1
+LAPS,100 Y Breaststroke,SCY,W,45-49,1:27.13,Jody R Browning,,2002 USMS Short Course Nationals,2002,2
+ROAD,100 Y Breaststroke,SCY,W,45-49,1:29.35,Tina K Semonsen,,2002 USMS Short Course Nationals,2002,3
+UCLA,100 Y Breaststroke,SCY,W,45-49,1:32.41,Annette Buhl,,2002 USMS Short Course Nationals,2002,4
+SLUG,100 Y Breaststroke,SCY,W,45-49,1:46.14,Melinda Kalin,,2002 USMS Short Course Nationals,2002,5
+SCAQ,200 Y Breaststroke,SCY,W,45-49,2:37.18,Karen L Melick,,2002 USMS Short Course Nationals,2002,1
+LAPS,200 Y Breaststroke,SCY,W,45-49,3:05.71,Jody R Browning,,2002 USMS Short Course Nationals,2002,2
+UCLA,200 Y Breaststroke,SCY,W,45-49,3:18.33,Annette Buhl,,2002 USMS Short Course Nationals,2002,3
+UCLA,50 Y Butterfly,SCY,W,45-49,30.57,Christie Ciraulo,,2002 USMS Short Course Nationals,2002,1
+SLUG,50 Y Butterfly,SCY,W,45-49,41.35,Melinda Kalin,,2002 USMS Short Course Nationals,2002,2
+UCLA,100 Y Butterfly,SCY,W,45-49,1:12.05,Christie Ciraulo,,2002 USMS Short Course Nationals,2002,1
+UCLA,200 Y Butterfly,SCY,W,45-49,2:44.02,Christie Ciraulo,,2002 USMS Short Course Nationals,2002,1
+HSNM,100 Y Individual Medley,SCY,W,45-49,1:11.98,Carolyn Battin,,2002 USMS Short Course Nationals,2002,1
+ROAD,100 Y Individual Medley,SCY,W,45-49,1:18.05,Tina K Semonsen,,2002 USMS Short Course Nationals,2002,2
+UCLA,400 Y Individual Medley,SCY,W,45-49,5:44.10,Christie Ciraulo,,2002 USMS Short Course Nationals,2002,1
+UNAT,50 Y Freestyle,SCY,W,50-54,28.76,Debbie S Bradbury,,2002 USMS Short Course Nationals,2002,1
+BGWM,50 Y Freestyle,SCY,W,50-54,30.22,Leslie G Hardt,,2002 USMS Short Course Nationals,2002,2
+UNAT,100 Y Freestyle,SCY,W,50-54,1:04.49,Debbie S Bradbury,,2002 USMS Short Course Nationals,2002,1
+PCA,100 Y Freestyle,SCY,W,50-54,1:05.96,Sherry L Kittrell,,2002 USMS Short Course Nationals,2002,2
+BGWM,100 Y Freestyle,SCY,W,50-54,1:07.59,Leslie G Hardt,,2002 USMS Short Course Nationals,2002,3
+UNAT,200 Y Freestyle,SCY,W,50-54,2:23.77,Debbie S Bradbury,,2002 USMS Short Course Nationals,2002,1
+PCA,500 Y Freestyle,SCY,W,50-54,6:19.25,Sherry L Kittrell,,2002 USMS Short Course Nationals,2002,1
+PCA,1650 Y Freestyle,SCY,W,50-54,21:59.61,Sherry L Kittrell,,2002 USMS Short Course Nationals,2002,1
+BGWM,50 Y Backstroke,SCY,W,50-54,33.20,Leslie G Hardt,,2002 USMS Short Course Nationals,2002,1
+BGWM,100 Y Backstroke,SCY,W,50-54,1:16.49,Leslie G Hardt,,2002 USMS Short Course Nationals,2002,1
+UCLA,200 Y Backstroke,SCY,W,50-54,2:40.92,Vicki Serianni,,2002 USMS Short Course Nationals,2002,1
+BGWM,200 Y Backstroke,SCY,W,50-54,2:45.28,Leslie G Hardt,,2002 USMS Short Course Nationals,2002,2
+UNAT,50 Y Butterfly,SCY,W,50-54,33.34,Debbie S Bradbury,,2002 USMS Short Course Nationals,2002,1
+PCA,100 Y Butterfly,SCY,W,50-54,1:16.96,Sherry L Kittrell,,2002 USMS Short Course Nationals,2002,1
+UNAT,100 Y Butterfly,SCY,W,50-54,1:19.50,Debbie S Bradbury,,2002 USMS Short Course Nationals,2002,2
+PCA,200 Y Butterfly,SCY,W,50-54,2:54.93,Sherry L Kittrell,,2002 USMS Short Course Nationals,2002,1
+UCLA,100 Y Individual Medley,SCY,W,50-54,1:17.32,Vicki Serianni,,2002 USMS Short Course Nationals,2002,1
+PCA,400 Y Individual Medley,SCY,W,50-54,5:58.39,Sherry L Kittrell,,2002 USMS Short Course Nationals,2002,1
+SLOM,200 Y Freestyle,SCY,W,55-59,2:37.67,Kaeti Ecker,,2002 USMS Short Course Nationals,2002,1
+UCLA,200 Y Freestyle,SCY,W,55-59,2:53.10,Brenda Jarmakani,,2002 USMS Short Course Nationals,2002,2
+OSB,200 Y Freestyle,SCY,W,55-59,3:15.68,Lois Goodman,,2002 USMS Short Course Nationals,2002,3
+SLOM,500 Y Freestyle,SCY,W,55-59,6:54.84,Kaeti Ecker,,2002 USMS Short Course Nationals,2002,1
+UCLA,500 Y Freestyle,SCY,W,55-59,7:19.25,Brenda Jarmakani,,2002 USMS Short Course Nationals,2002,2
+OSB,500 Y Freestyle,SCY,W,55-59,8:20.62,Lois Goodman,,2002 USMS Short Course Nationals,2002,3
+UCI,500 Y Freestyle,SCY,W,55-59,8:22.29,Ellen K Shockro,,2002 USMS Short Course Nationals,2002,4
+SLOM,1000 Y Freestyle,SCY,W,55-59,13:58.38,Kaeti Ecker,,2002 USMS Short Course Nationals,2002,1
+UCLA,1650 Y Freestyle,SCY,W,55-59,25:13.86,Brenda Jarmakani,,2002 USMS Short Course Nationals,2002,1
+OSB,1650 Y Freestyle,SCY,W,55-59,28:28.34,Lois Goodman,,2002 USMS Short Course Nationals,2002,2
+SLUG,50 Y Backstroke,SCY,W,55-59,34.02,Mimi Frank,,2002 USMS Short Course Nationals,2002,1
+SLUG,100 Y Backstroke,SCY,W,55-59,1:14.69,Mimi Frank,,2002 USMS Short Course Nationals,2002,1
+SLOM,100 Y Backstroke,SCY,W,55-59,1:27.66,Kaeti Ecker,,2002 USMS Short Course Nationals,2002,2
+SLOM,200 Y Backstroke,SCY,W,55-59,2:59.08,Kaeti Ecker,,2002 USMS Short Course Nationals,2002,1
+OSB,200 Y Backstroke,SCY,W,55-59,3:46.29,Lois Goodman,,2002 USMS Short Course Nationals,2002,2
+UCI,200 Y Backstroke,SCY,W,55-59,4:08.38,Ellen K Shockro,,2002 USMS Short Course Nationals,2002,3
+SLUG,50 Y Butterfly,SCY,W,55-59,33.76,Mimi Frank,,2002 USMS Short Course Nationals,2002,1
+UCI,100 Y Butterfly,SCY,W,55-59,1:46.83,Ellen K Shockro,,2002 USMS Short Course Nationals,2002,1
+UCI,200 Y Butterfly,SCY,W,55-59,4:21.67,Ellen K Shockro,,2002 USMS Short Course Nationals,2002,1
+SLUG,100 Y Individual Medley,SCY,W,55-59,1:14.25,Mimi Frank,,2002 USMS Short Course Nationals,2002,1
+SLOM,100 Y Individual Medley,SCY,W,55-59,1:25.76,Kaeti Ecker,,2002 USMS Short Course Nationals,2002,2
+UCI,400 Y Individual Medley,SCY,W,55-59,8:03.25,Ellen K Shockro,,2002 USMS Short Course Nationals,2002,1
+OSB,400 Y Individual Medley,SCY,W,55-59,8:10.41,Lois Goodman,,2002 USMS Short Course Nationals,2002,2
+UCLA,500 Y Freestyle,SCY,W,60-64,8:04.43,Helen Geoffrion,,2002 USMS Short Course Nationals,2002,1
+SCAQ,1000 Y Freestyle,SCY,W,60-64,17:05.69,Peggy Mc Dowell-Cramer,,2002 USMS Short Course Nationals,2002,1
+HSNM,50 Y Backstroke,SCY,W,60-64,1:22.63,Kathleen M Windress,,2002 USMS Short Course Nationals,2002,1
+UCLA,50 Y Breaststroke,SCY,W,60-64,45.73,Helen Geoffrion,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Breaststroke,SCY,W,60-64,1:40.03,Peggy Mc Dowell-Cramer,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Breaststroke,SCY,W,60-64,3:33.07,Peggy Mc Dowell-Cramer,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Individual Medley,SCY,W,60-64,1:32.56,Peggy Mc Dowell-Cramer,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Individual Medley,SCY,W,60-64,3:23.71,Peggy Mc Dowell-Cramer,,2002 USMS Short Course Nationals,2002,1
+SCAQ,400 Y Individual Medley,SCY,W,60-64,7:19.46,Peggy Mc Dowell-Cramer,,2002 USMS Short Course Nationals,2002,1
+NOVA,200 Y Freestyle,SCY,W,65-69,3:17.62,Dionne B Caldwell,,2002 USMS Short Course Nationals,2002,1
+NOVA,1650 Y Freestyle,SCY,W,65-69,28:37.74,Dionne B Caldwell,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Backstroke,SCY,W,65-69,49.88,Dionne B Caldwell,,2002 USMS Short Course Nationals,2002,1
+GWSC,200 Y Freestyle,SCY,W,80-84,3:24.69,Rita Simonton,,2002 USMS Short Course Nationals,2002,1
+GWSC,1650 Y Freestyle,SCY,W,80-84,31:25.38,Rita Simonton,,2002 USMS Short Course Nationals,2002,1
+GWSC,100 Y Breaststroke,SCY,W,80-84,2:19.83,Rita Simonton,,2002 USMS Short Course Nationals,2002,1
+BGWM,50 Y Freestyle,SCY,M,18-24,22.15,Brad G Morris,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,M,18-24,22.15,Ryan H Wynn,,2002 USMS Short Course Nationals,2002,2
+BGWM,100 Y Freestyle,SCY,M,18-24,47.20,Brad G Morris,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Freestyle,SCY,M,18-24,47.77,Ryan H Wynn,,2002 USMS Short Course Nationals,2002,2
+CLVM,200 Y Freestyle,SCY,M,18-24,1:43.65,Ryan H Wynn,,2002 USMS Short Course Nationals,2002,1
+SAM,200 Y Freestyle,SCY,M,18-24,1:56.38,Keith Dixon,,2002 USMS Short Course Nationals,2002,2
+CLVM,500 Y Freestyle,SCY,M,18-24,4:43.00,Ryan H Wynn,,2002 USMS Short Course Nationals,2002,1
+CLVM,1000 Y Freestyle,SCY,M,18-24,9:49.79,Ryan H Wynn,,2002 USMS Short Course Nationals,2002,1
+SAM,1650 Y Freestyle,SCY,M,18-24,18:33.02,Keith Dixon,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Backstroke,SCY,M,18-24,54.62,Ryan H Wynn,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Freestyle,SCY,M,25-29,22.36,Adam C Craun,,2002 USMS Short Course Nationals,2002,1
+UCLA,50 Y Freestyle,SCY,M,25-29,22.38,Thomas E Richner,,2002 USMS Short Course Nationals,2002,2
+UCLA,50 Y Freestyle,SCY,M,25-29,25.01,Patrick J Wen,,2002 USMS Short Course Nationals,2002,3
+UCLA,100 Y Freestyle,SCY,M,25-29,48.79,Thomas E Richner,,2002 USMS Short Course Nationals,2002,1
+UCLA,100 Y Freestyle,SCY,M,25-29,55.93,Patrick J Wen,,2002 USMS Short Course Nationals,2002,2
+HSNM,200 Y Freestyle,SCY,M,25-29,1:49.48,Jarvis I Marlow,,2002 USMS Short Course Nationals,2002,1
+ROSE,200 Y Freestyle,SCY,M,25-29,1:59.04,Justin A Davis,,2002 USMS Short Course Nationals,2002,2
+HSNM,500 Y Freestyle,SCY,M,25-29,4:54.98,Jarvis I Marlow,,2002 USMS Short Course Nationals,2002,1
+SCAQ,500 Y Freestyle,SCY,M,25-29,5:14.07,Scott P Finney,,2002 USMS Short Course Nationals,2002,2
+HSNM,50 Y Backstroke,SCY,M,25-29,25.09,Jarvis I Marlow,,2002 USMS Short Course Nationals,2002,1
+HSNM,50 Y Backstroke,SCY,M,25-29,28.07,Donald J Turk,,2002 USMS Short Course Nationals,2002,2
+HSNM,50 Y Backstroke,SCY,M,25-29,28.58,Patrick D McCann,,2002 USMS Short Course Nationals,2002,3
+HSNM,100 Y Backstroke,SCY,M,25-29,55.21,Jarvis I Marlow,,2002 USMS Short Course Nationals,2002,1
+UCLA,100 Y Backstroke,SCY,M,25-29,55.33,Thomas E Richner,,2002 USMS Short Course Nationals,2002,2
+NOVA,50 Y Breaststroke,SCY,M,25-29,27.89,Adam C Craun,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Breaststroke,SCY,M,25-29,29.75,Scott P Finney,,2002 USMS Short Course Nationals,2002,2
+HSNM,50 Y Breaststroke,SCY,M,25-29,31.84,Patrick D McCann,,2002 USMS Short Course Nationals,2002,3
+HSNM,100 Y Breaststroke,SCY,M,25-29,1:01.14,Donald J Turk,,2002 USMS Short Course Nationals,2002,1
+ROSE,100 Y Breaststroke,SCY,M,25-29,1:03.78,Justin A Davis,,2002 USMS Short Course Nationals,2002,2
+SCAQ,100 Y Breaststroke,SCY,M,25-29,1:04.00,Scott P Finney,,2002 USMS Short Course Nationals,2002,3
+SCAQ,200 Y Breaststroke,SCY,M,25-29,2:17.07,Scott P Finney,,2002 USMS Short Course Nationals,2002,1
+ROSE,200 Y Breaststroke,SCY,M,25-29,2:21.45,Justin A Davis,,2002 USMS Short Course Nationals,2002,2
+UCLA,50 Y Butterfly,SCY,M,25-29,23.24,Thomas E Richner,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Butterfly,SCY,M,25-29,24.17,Adam C Craun,,2002 USMS Short Course Nationals,2002,2
+HSNM,50 Y Butterfly,SCY,M,25-29,24.87,Donald J Turk,,2002 USMS Short Course Nationals,2002,3
+HSNM,50 Y Butterfly,SCY,M,25-29,25.02,Jarvis I Marlow,,2002 USMS Short Course Nationals,2002,4
+HSNM,50 Y Butterfly,SCY,M,25-29,25.58,Patrick D McCann,,2002 USMS Short Course Nationals,2002,5
+UCLA,100 Y Butterfly,SCY,M,25-29,51.33,Thomas E Richner,,2002 USMS Short Course Nationals,2002,1
+NOVA,100 Y Butterfly,SCY,M,25-29,52.69,Adam C Craun,,2002 USMS Short Course Nationals,2002,2
+ROSE,100 Y Butterfly,SCY,M,25-29,55.04,Justin A Davis,,2002 USMS Short Course Nationals,2002,3
+UCLA,100 Y Butterfly,SCY,M,25-29,1:02.34,Patrick J Wen,,2002 USMS Short Course Nationals,2002,4
+UCLA,200 Y Butterfly,SCY,M,25-29,2:34.31,Patrick J Wen,,2002 USMS Short Course Nationals,2002,1
+ROSE,100 Y Individual Medley,SCY,M,25-29,57.53,Justin A Davis,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Individual Medley,SCY,M,25-29,1:01.23,Scott P Finney,,2002 USMS Short Course Nationals,2002,2
+NOVA,400 Y Individual Medley,SCY,M,25-29,4:30.78,Adam C Craun,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Freestyle,SCY,M,30-34,20.84,Dan Wegner,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,M,30-34,21.80,Eric G Peterson,,2002 USMS Short Course Nationals,2002,2
+CLVM,50 Y Freestyle,SCY,M,30-34,26.16,Lane W Elletson,,2002 USMS Short Course Nationals,2002,3
+CLVM,100 Y Freestyle,SCY,M,30-34,46.37,Andreas Roestenberg,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Freestyle,SCY,M,30-34,46.39,Dan Wegner,,2002 USMS Short Course Nationals,2002,2
+CLVM,100 Y Freestyle,SCY,M,30-34,48.82,Eric G Peterson,,2002 USMS Short Course Nationals,2002,3
+CLVM,100 Y Freestyle,SCY,M,30-34,1:00.13,Lane W Elletson,,2002 USMS Short Course Nationals,2002,4
+CLVM,200 Y Freestyle,SCY,M,30-34,1:41.55,Andreas Roestenberg,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Freestyle,SCY,M,30-34,1:42.21,Dan Wegner,,2002 USMS Short Course Nationals,2002,2
+CLVM,500 Y Freestyle,SCY,M,30-34,4:48.61,Mark A Magee,,2002 USMS Short Course Nationals,2002,1
+SBM,500 Y Freestyle,SCY,M,30-34,4:56.55,Scott W Reed,,2002 USMS Short Course Nationals,2002,2
+CLVM,1000 Y Freestyle,SCY,M,30-34,9:59.37,Mark A Magee,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Backstroke,SCY,M,30-34,25.95,Dan Wegner,,2002 USMS Short Course Nationals,2002,1
+SBM,50 Y Backstroke,SCY,M,30-34,26.11,Scott W Reed,,2002 USMS Short Course Nationals,2002,2
+CLVM,100 Y Backstroke,SCY,M,30-34,53.21,Andreas Roestenberg,,2002 USMS Short Course Nationals,2002,1
+SBM,100 Y Backstroke,SCY,M,30-34,54.52,Scott W Reed,,2002 USMS Short Course Nationals,2002,2
+SCAQ,100 Y Backstroke,SCY,M,30-34,55.87,Dan Wegner,,2002 USMS Short Course Nationals,2002,3
+CLVM,200 Y Backstroke,SCY,M,30-34,1:54.07,Andreas Roestenberg,,2002 USMS Short Course Nationals,2002,1
+SBM,200 Y Backstroke,SCY,M,30-34,1:56.57,Scott W Reed,,2002 USMS Short Course Nationals,2002,2
+CLVM,50 Y Breaststroke,SCY,M,30-34,28.90,Bradley N Boodt,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Breaststroke,SCY,M,30-34,33.16,Lane W Elletson,,2002 USMS Short Course Nationals,2002,2
+CLVM,100 Y Breaststroke,SCY,M,30-34,1:03.11,Bradley N Boodt,,2002 USMS Short Course Nationals,2002,1
+SBM,100 Y Breaststroke,SCY,M,30-34,1:07.57,Scott W Reed,,2002 USMS Short Course Nationals,2002,2
+CLVM,200 Y Breaststroke,SCY,M,30-34,2:20.08,Bradley N Boodt,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Butterfly,SCY,M,30-34,24.03,Eric G Peterson,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Butterfly,SCY,M,30-34,52.98,Mark A Magee,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Butterfly,SCY,M,30-34,53.68,Eric G Peterson,,2002 USMS Short Course Nationals,2002,2
+CLVM,200 Y Butterfly,SCY,M,30-34,1:57.26,Mark A Magee,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Individual Medley,SCY,M,30-34,59.94,Bradley N Boodt,,2002 USMS Short Course Nationals,2002,1
+CLVM,200 Y Individual Medley,SCY,M,30-34,1:55.80,Andreas Roestenberg,,2002 USMS Short Course Nationals,2002,1
+SBM,200 Y Individual Medley,SCY,M,30-34,2:03.78,Scott W Reed,,2002 USMS Short Course Nationals,2002,2
+CLVM,200 Y Individual Medley,SCY,M,30-34,2:12.87,Bradley N Boodt,,2002 USMS Short Course Nationals,2002,3
+CLVM,400 Y Individual Medley,SCY,M,30-34,4:07.32,Andreas Roestenberg,,2002 USMS Short Course Nationals,2002,1
+CLVM,400 Y Individual Medley,SCY,M,30-34,4:13.52,Mark A Magee,,2002 USMS Short Course Nationals,2002,2
+UCLA,50 Y Freestyle,SCY,M,35-39,29.44,John W Amuedo,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Freestyle,SCY,M,35-39,1:43.79,Mike G Shaffer,,2002 USMS Short Course Nationals,2002,1
+NOVA,200 Y Freestyle,SCY,M,35-39,1:51.43,Michael D Collins,,2002 USMS Short Course Nationals,2002,2
+ROSE,200 Y Freestyle,SCY,M,35-39,1:53.79,Forrest B Nelson,,2002 USMS Short Course Nationals,2002,3
+VCM,500 Y Freestyle,SCY,M,35-39,4:37.50,Mike G Shaffer,,2002 USMS Short Course Nationals,2002,1
+UCLA,500 Y Freestyle,SCY,M,35-39,4:47.53,Randall M Eickhoff,,2002 USMS Short Course Nationals,2002,2
+NOVA,500 Y Freestyle,SCY,M,35-39,4:57.17,Michael D Collins,,2002 USMS Short Course Nationals,2002,3
+UCLA,500 Y Freestyle,SCY,M,35-39,5:00.25,Gerry A Rodrigues,,2002 USMS Short Course Nationals,2002,4
+VCM,500 Y Freestyle,SCY,M,35-39,5:02.99,Tim Hedrick,,2002 USMS Short Course Nationals,2002,5
+SCAQ,500 Y Freestyle,SCY,M,35-39,5:31.96,Roland M Hartzell,,2002 USMS Short Course Nationals,2002,6
+VCM,1000 Y Freestyle,SCY,M,35-39,9:31.89,Mike G Shaffer,,2002 USMS Short Course Nationals,2002,1
+UCLA,1000 Y Freestyle,SCY,M,35-39,9:52.22,Randall M Eickhoff,,2002 USMS Short Course Nationals,2002,2
+NOVA,1000 Y Freestyle,SCY,M,35-39,10:14.33,Michael D Collins,,2002 USMS Short Course Nationals,2002,3
+SCAQ,1000 Y Freestyle,SCY,M,35-39,11:36.13,Roland M Hartzell,,2002 USMS Short Course Nationals,2002,4
+VCM,1650 Y Freestyle,SCY,M,35-39,17:24.48,Tim Hedrick,,2002 USMS Short Course Nationals,2002,1
+ROSE,100 Y Backstroke,SCY,M,35-39,59.44,Forrest B Nelson,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Backstroke,SCY,M,35-39,1:02.53,Roland M Hartzell,,2002 USMS Short Course Nationals,2002,2
+VCM,200 Y Backstroke,SCY,M,35-39,1:58.41,Mike G Shaffer,,2002 USMS Short Course Nationals,2002,1
+ROSE,200 Y Backstroke,SCY,M,35-39,2:13.43,Forrest B Nelson,,2002 USMS Short Course Nationals,2002,2
+SCAQ,200 Y Backstroke,SCY,M,35-39,2:16.08,Roland M Hartzell,,2002 USMS Short Course Nationals,2002,3
+UCLA,50 Y Breaststroke,SCY,M,35-39,35.88,John W Amuedo,,2002 USMS Short Course Nationals,2002,1
+UCLA,100 Y Breaststroke,SCY,M,35-39,1:16.93,John W Amuedo,,2002 USMS Short Course Nationals,2002,1
+NOVA,200 Y Breaststroke,SCY,M,35-39,2:23.90,Michael D Collins,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Breaststroke,SCY,M,35-39,2:31.34,Tim Hedrick,,2002 USMS Short Course Nationals,2002,2
+UCLA,50 Y Butterfly,SCY,M,35-39,24.29,Randall M Eickhoff,,2002 USMS Short Course Nationals,2002,1
+UCLA,50 Y Butterfly,SCY,M,35-39,29.40,John W Amuedo,,2002 USMS Short Course Nationals,2002,2
+VCM,100 Y Butterfly,SCY,M,35-39,51.58,Mike G Shaffer,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Butterfly,SCY,M,35-39,1:52.09,Mike G Shaffer,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Butterfly,SCY,M,35-39,2:07.18,Tim Hedrick,,2002 USMS Short Course Nationals,2002,2
+ROSE,100 Y Individual Medley,SCY,M,35-39,58.45,Forrest B Nelson,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Individual Medley,SCY,M,35-39,1:01.33,Roland M Hartzell,,2002 USMS Short Course Nationals,2002,2
+UCLA,100 Y Individual Medley,SCY,M,35-39,1:12.97,John W Amuedo,,2002 USMS Short Course Nationals,2002,3
+ROSE,200 Y Individual Medley,SCY,M,35-39,2:10.02,Forrest B Nelson,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Individual Medley,SCY,M,35-39,2:11.13,Tim Hedrick,,2002 USMS Short Course Nationals,2002,2
+UCLA,400 Y Individual Medley,SCY,M,35-39,4:20.78,Randall M Eickhoff,,2002 USMS Short Course Nationals,2002,1
+NOVA,400 Y Individual Medley,SCY,M,35-39,4:29.94,Michael D Collins,,2002 USMS Short Course Nationals,2002,2
+UCLA,400 Y Individual Medley,SCY,M,35-39,4:31.57,Gerry A Rodrigues,,2002 USMS Short Course Nationals,2002,3
+VCM,400 Y Individual Medley,SCY,M,35-39,4:36.03,Tim Hedrick,,2002 USMS Short Course Nationals,2002,4
+SCAQ,400 Y Individual Medley,SCY,M,35-39,4:36.75,Lars A Reierson,,2002 USMS Short Course Nationals,2002,5
+ROSE,400 Y Individual Medley,SCY,M,35-39,4:43.40,Forrest B Nelson,,2002 USMS Short Course Nationals,2002,6
+SCAQ,400 Y Individual Medley,SCY,M,35-39,4:52.28,Roland M Hartzell,,2002 USMS Short Course Nationals,2002,7
+VCM,50 Y Freestyle,SCY,M,40-44,22.48,Don G Smith,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,M,40-44,23.02,Keith W Hughes,,2002 USMS Short Course Nationals,2002,2
+ROSE,50 Y Freestyle,SCY,M,40-44,23.50,Thomas W Davis,,2002 USMS Short Course Nationals,2002,3
+WH2O,50 Y Freestyle,SCY,M,40-44,25.02,Errol Graham,,2002 USMS Short Course Nationals,2002,4
+LAPS,50 Y Freestyle,SCY,M,40-44,25.33,Fram M Virjee,,2002 USMS Short Course Nationals,2002,5
+HSNM,50 Y Freestyle,SCY,M,40-44,26.83,Todd D Meek,,2002 USMS Short Course Nationals,2002,6
+VCM,100 Y Freestyle,SCY,M,40-44,49.16,Don G Smith,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Freestyle,SCY,M,40-44,49.22,Keith W Hughes,,2002 USMS Short Course Nationals,2002,2
+ROSE,100 Y Freestyle,SCY,M,40-44,52.87,Thomas W Davis,,2002 USMS Short Course Nationals,2002,3
+ROSE,100 Y Freestyle,SCY,M,40-44,54.25,Louis J Caron,,2002 USMS Short Course Nationals,2002,4
+SCAQ,100 Y Freestyle,SCY,M,40-44,56.31,Todd D Mitchell,,2002 USMS Short Course Nationals,2002,5
+WH2O,100 Y Freestyle,SCY,M,40-44,56.70,Errol Graham,,2002 USMS Short Course Nationals,2002,6
+CLVM,200 Y Freestyle,SCY,M,40-44,1:49.03,Keith W Hughes,,2002 USMS Short Course Nationals,2002,1
+ROSE,200 Y Freestyle,SCY,M,40-44,1:58.39,Louis J Caron,,2002 USMS Short Course Nationals,2002,2
+CLVM,500 Y Freestyle,SCY,M,40-44,5:03.23,Keith W Hughes,,2002 USMS Short Course Nationals,2002,1
+ROSE,500 Y Freestyle,SCY,M,40-44,5:17.26,Louis J Caron,,2002 USMS Short Course Nationals,2002,2
+ROSE,1000 Y Freestyle,SCY,M,40-44,10:54.74,Louis J Caron,,2002 USMS Short Course Nationals,2002,1
+NOVA,1650 Y Freestyle,SCY,M,40-44,22:46.45,David S Hayward,,2002 USMS Short Course Nationals,2002,1
+ROSE,50 Y Backstroke,SCY,M,40-44,27.43,Thomas W Davis,,2002 USMS Short Course Nationals,2002,1
+LAPS,50 Y Backstroke,SCY,M,40-44,30.41,Fram M Virjee,,2002 USMS Short Course Nationals,2002,2
+NOVA,50 Y Backstroke,SCY,M,40-44,34.92,David S Hayward,,2002 USMS Short Course Nationals,2002,3
+ROSE,100 Y Backstroke,SCY,M,40-44,58.65,Thomas W Davis,,2002 USMS Short Course Nationals,2002,1
+LAPS,100 Y Backstroke,SCY,M,40-44,1:04.06,Fram M Virjee,,2002 USMS Short Course Nationals,2002,2
+ROSE,200 Y Backstroke,SCY,M,40-44,2:08.50,Thomas W Davis,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Backstroke,SCY,M,40-44,2:17.86,Bill Ireland,,2002 USMS Short Course Nationals,2002,2
+VCM,50 Y Breaststroke,SCY,M,40-44,27.76,Don G Smith,,2002 USMS Short Course Nationals,2002,1
+LAPS,50 Y Breaststroke,SCY,M,40-44,29.03,Michael L Hamm,,2002 USMS Short Course Nationals,2002,2
+LAPS,50 Y Breaststroke,SCY,M,40-44,29.60,Charlie R Raine,,2002 USMS Short Course Nationals,2002,3
+VCM,100 Y Breaststroke,SCY,M,40-44,1:01.35,Don G Smith,,2002 USMS Short Course Nationals,2002,1
+LAPS,100 Y Breaststroke,SCY,M,40-44,1:03.89,Michael L Hamm,,2002 USMS Short Course Nationals,2002,2
+LAPS,100 Y Breaststroke,SCY,M,40-44,1:04.87,Charlie R Raine,,2002 USMS Short Course Nationals,2002,3
+SCAQ,100 Y Breaststroke,SCY,M,40-44,1:10.23,David K Nelson,,2002 USMS Short Course Nationals,2002,4
+SCAQ,100 Y Breaststroke,SCY,M,40-44,1:12.01,Todd D Mitchell,,2002 USMS Short Course Nationals,2002,5
+HSNM,100 Y Breaststroke,SCY,M,40-44,1:17.33,Todd D Meek,,2002 USMS Short Course Nationals,2002,6
+VCM,200 Y Breaststroke,SCY,M,40-44,2:17.29,Don G Smith,,2002 USMS Short Course Nationals,2002,1
+LAPS,200 Y Breaststroke,SCY,M,40-44,2:21.37,Michael L Hamm,,2002 USMS Short Course Nationals,2002,2
+LAPS,200 Y Breaststroke,SCY,M,40-44,2:25.65,Charlie R Raine,,2002 USMS Short Course Nationals,2002,3
+ROSE,50 Y Butterfly,SCY,M,40-44,25.60,Thomas W Davis,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Butterfly,SCY,M,40-44,26.43,Bill Ireland,,2002 USMS Short Course Nationals,2002,2
+ROSE,50 Y Butterfly,SCY,M,40-44,26.99,Louis J Caron,,2002 USMS Short Course Nationals,2002,3
+WH2O,50 Y Butterfly,SCY,M,40-44,29.05,Errol Graham,,2002 USMS Short Course Nationals,2002,4
+CLVM,100 Y Butterfly,SCY,M,40-44,56.22,Keith W Hughes,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Butterfly,SCY,M,40-44,57.10,Bill Ireland,,2002 USMS Short Course Nationals,2002,2
+ROSE,100 Y Butterfly,SCY,M,40-44,1:00.92,Louis J Caron,,2002 USMS Short Course Nationals,2002,3
+WH2O,100 Y Butterfly,SCY,M,40-44,1:07.37,Errol Graham,,2002 USMS Short Course Nationals,2002,4
+VCM,100 Y Individual Medley,SCY,M,40-44,55.33,Don G Smith,,2002 USMS Short Course Nationals,2002,1
+LAPS,100 Y Individual Medley,SCY,M,40-44,59.21,Michael L Hamm,,2002 USMS Short Course Nationals,2002,2
+LAPS,100 Y Individual Medley,SCY,M,40-44,1:03.02,Charlie R Raine,,2002 USMS Short Course Nationals,2002,3
+LAPS,100 Y Individual Medley,SCY,M,40-44,1:03.98,Fram M Virjee,,2002 USMS Short Course Nationals,2002,4
+NOVA,100 Y Individual Medley,SCY,M,40-44,1:11.20,David S Hayward,,2002 USMS Short Course Nationals,2002,5
+LAPS,200 Y Individual Medley,SCY,M,40-44,2:12.86,Michael L Hamm,,2002 USMS Short Course Nationals,2002,1
+LAPS,400 Y Individual Medley,SCY,M,40-44,4:48.69,Michael L Hamm,,2002 USMS Short Course Nationals,2002,1
+LAPS,400 Y Individual Medley,SCY,M,40-44,5:06.19,Fram M Virjee,,2002 USMS Short Course Nationals,2002,2
+LAPS,400 Y Individual Medley,SCY,M,40-44,5:08.96,Charlie R Raine,,2002 USMS Short Course Nationals,2002,3
+UNAT,50 Y Freestyle,SCY,M,45-49,22.99,Steven L Piszkin,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Freestyle,SCY,M,45-49,24.04,Dan Matthies,,2002 USMS Short Course Nationals,2002,2
+LAPS,50 Y Freestyle,SCY,M,45-49,24.05,Duncan Q Mc Bride,,2002 USMS Short Course Nationals,2002,3
+ROSE,50 Y Freestyle,SCY,M,45-49,24.65,Heinz Hercher,,2002 USMS Short Course Nationals,2002,4
+HSNM,50 Y Freestyle,SCY,M,45-49,30.97,Robert L Schiffman,,2002 USMS Short Course Nationals,2002,5
+UNAT,100 Y Freestyle,SCY,M,45-49,50.04,Steven L Piszkin,,2002 USMS Short Course Nationals,2002,1
+ROSE,100 Y Freestyle,SCY,M,45-49,53.00,Heinz Hercher,,2002 USMS Short Course Nationals,2002,2
+DSSM,100 Y Freestyle,SCY,M,45-49,54.45,Phil Sidenberg,,2002 USMS Short Course Nationals,2002,3
+HSNM,100 Y Freestyle,SCY,M,45-49,1:10.97,Robert L Schiffman,,2002 USMS Short Course Nationals,2002,4
+DSSM,200 Y Freestyle,SCY,M,45-49,1:59.52,Phil Sidenberg,,2002 USMS Short Course Nationals,2002,1
+DSSM,500 Y Freestyle,SCY,M,45-49,5:27.35,Phil Sidenberg,,2002 USMS Short Course Nationals,2002,1
+DSSM,1650 Y Freestyle,SCY,M,45-49,19:10.20,Phil Sidenberg,,2002 USMS Short Course Nationals,2002,1
+HSNM,50 Y Backstroke,SCY,M,45-49,28.83,Kirk A Welday,,2002 USMS Short Course Nationals,2002,1
+ROSE,50 Y Backstroke,SCY,M,45-49,30.50,Heinz Hercher,,2002 USMS Short Course Nationals,2002,2
+DSSM,100 Y Backstroke,SCY,M,45-49,1:03.66,Phil Sidenberg,,2002 USMS Short Course Nationals,2002,1
+HSNM,100 Y Backstroke,SCY,M,45-49,1:04.37,Kirk A Welday,,2002 USMS Short Course Nationals,2002,2
+ROSE,100 Y Backstroke,SCY,M,45-49,1:05.60,Heinz Hercher,,2002 USMS Short Course Nationals,2002,3
+WH2O,200 Y Backstroke,SCY,M,45-49,2:08.18,Tom Reudy,,2002 USMS Short Course Nationals,2002,1
+DSSM,200 Y Backstroke,SCY,M,45-49,2:20.58,Phil Sidenberg,,2002 USMS Short Course Nationals,2002,2
+NOVA,50 Y Breaststroke,SCY,M,45-49,28.59,Gerard Von Hoffmann,,2002 USMS Short Course Nationals,2002,1
+LAPS,50 Y Breaststroke,SCY,M,45-49,31.64,Greg W Heyes,,2002 USMS Short Course Nationals,2002,2
+HSNM,50 Y Breaststroke,SCY,M,45-49,32.21,Kirk A Welday,,2002 USMS Short Course Nationals,2002,3
+HSNM,50 Y Breaststroke,SCY,M,45-49,38.18,Robert L Schiffman,,2002 USMS Short Course Nationals,2002,4
+NOVA,100 Y Breaststroke,SCY,M,45-49,1:03.44,Gerard Von Hoffmann,,2002 USMS Short Course Nationals,2002,1
+LAPS,100 Y Breaststroke,SCY,M,45-49,1:07.11,Victor Wagoner,,2002 USMS Short Course Nationals,2002,2
+HSNM,100 Y Breaststroke,SCY,M,45-49,1:08.00,Kirk A Welday,,2002 USMS Short Course Nationals,2002,3
+LAPS,100 Y Breaststroke,SCY,M,45-49,1:10.22,Greg W Heyes,,2002 USMS Short Course Nationals,2002,4
+WH2O,200 Y Breaststroke,SCY,M,45-49,2:18.49,Tom Reudy,,2002 USMS Short Course Nationals,2002,1
+NOVA,200 Y Breaststroke,SCY,M,45-49,2:21.65,Gerard Von Hoffmann,,2002 USMS Short Course Nationals,2002,2
+LAPS,200 Y Breaststroke,SCY,M,45-49,2:29.82,Victor Wagoner,,2002 USMS Short Course Nationals,2002,3
+LAPS,200 Y Breaststroke,SCY,M,45-49,2:36.63,Greg W Heyes,,2002 USMS Short Course Nationals,2002,4
+SCAQ,50 Y Butterfly,SCY,M,45-49,24.49,James R Belardi,,2002 USMS Short Course Nationals,2002,1
+UNAT,50 Y Butterfly,SCY,M,45-49,25.18,Steven L Piszkin,,2002 USMS Short Course Nationals,2002,2
+SCAQ,50 Y Butterfly,SCY,M,45-49,25.43,Dan Matthies,,2002 USMS Short Course Nationals,2002,3
+LAPS,50 Y Butterfly,SCY,M,45-49,26.43,Duncan Q Mc Bride,,2002 USMS Short Course Nationals,2002,4
+HSNM,50 Y Butterfly,SCY,M,45-49,28.78,Kirk A Welday,,2002 USMS Short Course Nationals,2002,5
+SCAQ,100 Y Butterfly,SCY,M,45-49,53.28,James R Belardi,,2002 USMS Short Course Nationals,2002,1
+WH2O,100 Y Butterfly,SCY,M,45-49,55.26,Tom Reudy,,2002 USMS Short Course Nationals,2002,2
+SCAQ,100 Y Butterfly,SCY,M,45-49,55.92,Dan Matthies,,2002 USMS Short Course Nationals,2002,3
+SCAQ,200 Y Butterfly,SCY,M,45-49,1:58.12,James R Belardi,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Butterfly,SCY,M,45-49,2:07.10,Dan Matthies,,2002 USMS Short Course Nationals,2002,2
+NOVA,100 Y Individual Medley,SCY,M,45-49,59.22,Gerard Von Hoffmann,,2002 USMS Short Course Nationals,2002,1
+LAPS,100 Y Individual Medley,SCY,M,45-49,1:03.71,Duncan Q Mc Bride,,2002 USMS Short Course Nationals,2002,2
+ROSE,100 Y Individual Medley,SCY,M,45-49,1:03.98,Heinz Hercher,,2002 USMS Short Course Nationals,2002,3
+LAPS,100 Y Individual Medley,SCY,M,45-49,1:06.97,Greg W Heyes,,2002 USMS Short Course Nationals,2002,4
+WH2O,200 Y Individual Medley,SCY,M,45-49,2:02.55,Tom Reudy,,2002 USMS Short Course Nationals,2002,1
+LAPS,200 Y Individual Medley,SCY,M,45-49,2:19.84,Victor Wagoner,,2002 USMS Short Course Nationals,2002,2
+WH2O,400 Y Individual Medley,SCY,M,45-49,4:28.11,Tom Reudy,,2002 USMS Short Course Nationals,2002,1
+LAPS,400 Y Individual Medley,SCY,M,45-49,5:08.51,Victor Wagoner,,2002 USMS Short Course Nationals,2002,2
+LAPS,400 Y Individual Medley,SCY,M,45-49,5:17.62,Greg W Heyes,,2002 USMS Short Course Nationals,2002,3
+SCAQ,50 Y Freestyle,SCY,M,50-54,24.15,John J Quinn,,2002 USMS Short Course Nationals,2002,1
+CPM,50 Y Freestyle,SCY,M,50-54,24.40,Glenn A Gruber,,2002 USMS Short Course Nationals,2002,2
+LAPS,50 Y Freestyle,SCY,M,50-54,28.83,Wayne T Tofukuji,,2002 USMS Short Course Nationals,2002,3
+UNAT,50 Y Freestyle,SCY,M,50-54,35.07,Raymond Kilz,,2002 USMS Short Course Nationals,2002,4
+VCM,100 Y Freestyle,SCY,M,50-54,50.56,Jim Mc Conica,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Freestyle,SCY,M,50-54,53.20,John J Quinn,,2002 USMS Short Course Nationals,2002,2
+CPM,100 Y Freestyle,SCY,M,50-54,54.70,Glenn A Gruber,,2002 USMS Short Course Nationals,2002,3
+SCAQ,100 Y Freestyle,SCY,M,50-54,59.80,Peter R O'Keeffe,,2002 USMS Short Course Nationals,2002,4
+SCAQ,100 Y Freestyle,SCY,M,50-54,1:00.55,William M Montgomery,,2002 USMS Short Course Nationals,2002,5
+UNAT,100 Y Freestyle,SCY,M,50-54,1:20.81,Raymond Kilz,,2002 USMS Short Course Nationals,2002,6
+VCM,200 Y Freestyle,SCY,M,50-54,1:48.82,Jim Mc Conica,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Freestyle,SCY,M,50-54,1:56.78,Peter R O'Keeffe,,2002 USMS Short Course Nationals,2002,2
+SCAQ,200 Y Freestyle,SCY,M,50-54,2:00.42,John J Quinn,,2002 USMS Short Course Nationals,2002,3
+VCM,200 Y Freestyle,SCY,M,50-54,2:11.24,David E Foote,,2002 USMS Short Course Nationals,2002,4
+UNAT,200 Y Freestyle,SCY,M,50-54,2:55.97,Raymond Kilz,,2002 USMS Short Course Nationals,2002,5
+VCM,500 Y Freestyle,SCY,M,50-54,4:50.17,Jim Mc Conica,,2002 USMS Short Course Nationals,2002,1
+CPM,500 Y Freestyle,SCY,M,50-54,5:35.34,Glenn A Gruber,,2002 USMS Short Course Nationals,2002,2
+VCM,500 Y Freestyle,SCY,M,50-54,5:51.00,David E Foote,,2002 USMS Short Course Nationals,2002,3
+VCM,1000 Y Freestyle,SCY,M,50-54,9:57.78,Jim Mc Conica,,2002 USMS Short Course Nationals,2002,1
+HSNM,1000 Y Freestyle,SCY,M,50-54,11:52.53,Edwin Pyle,,2002 USMS Short Course Nationals,2002,2
+VCM,1650 Y Freestyle,SCY,M,50-54,20:21.10,David E Foote,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Backstroke,SCY,M,50-54,27.02,Peter R O'Keeffe,,2002 USMS Short Course Nationals,2002,1
+SCAQ,100 Y Backstroke,SCY,M,50-54,58.47,Peter R O'Keeffe,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Backstroke,SCY,M,50-54,2:09.31,Peter R O'Keeffe,,2002 USMS Short Course Nationals,2002,1
+LAPS,200 Y Backstroke,SCY,M,50-54,2:17.70,Gregory B Willis,,2002 USMS Short Course Nationals,2002,2
+HSNM,200 Y Backstroke,SCY,M,50-54,2:22.83,Edwin Pyle,,2002 USMS Short Course Nationals,2002,3
+VCM,50 Y Breaststroke,SCY,M,50-54,29.71,John M Derr,,2002 USMS Short Course Nationals,2002,1
+HSNM,50 Y Breaststroke,SCY,M,50-54,31.82,Edwin Pyle,,2002 USMS Short Course Nationals,2002,2
+VCM,100 Y Breaststroke,SCY,M,50-54,1:05.07,John M Derr,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Breaststroke,SCY,M,50-54,2:23.05,John M Derr,,2002 USMS Short Course Nationals,2002,1
+HSNM,200 Y Breaststroke,SCY,M,50-54,2:33.13,Edwin Pyle,,2002 USMS Short Course Nationals,2002,2
+VCM,50 Y Butterfly,SCY,M,50-54,25.74,John M Derr,,2002 USMS Short Course Nationals,2002,1
+SCAQ,50 Y Butterfly,SCY,M,50-54,27.24,John J Quinn,,2002 USMS Short Course Nationals,2002,2
+LAPS,50 Y Butterfly,SCY,M,50-54,34.65,Wayne T Tofukuji,,2002 USMS Short Course Nationals,2002,3
+UNAT,50 Y Butterfly,SCY,M,50-54,36.97,Raymond Kilz,,2002 USMS Short Course Nationals,2002,4
+VCM,100 Y Butterfly,SCY,M,50-54,58.16,John M Derr,,2002 USMS Short Course Nationals,2002,1
+BGWM,100 Y Butterfly,SCY,M,50-54,1:00.65,Rudolph A Agabashian,,2002 USMS Short Course Nationals,2002,2
+BGWM,200 Y Butterfly,SCY,M,50-54,2:21.34,Rudolph A Agabashian,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Butterfly,SCY,M,50-54,2:56.49,David E Foote,,2002 USMS Short Course Nationals,2002,2
+VCM,100 Y Individual Medley,SCY,M,50-54,59.63,John M Derr,,2002 USMS Short Course Nationals,2002,1
+CPM,100 Y Individual Medley,SCY,M,50-54,1:03.76,Glenn A Gruber,,2002 USMS Short Course Nationals,2002,2
+VCM,200 Y Individual Medley,SCY,M,50-54,2:06.82,Jim Mc Conica,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Individual Medley,SCY,M,50-54,2:14.60,Peter R O'Keeffe,,2002 USMS Short Course Nationals,2002,2
+HSNM,200 Y Individual Medley,SCY,M,50-54,2:18.75,Edwin Pyle,,2002 USMS Short Course Nationals,2002,3
+BGWM,200 Y Individual Medley,SCY,M,50-54,2:20.99,Rudolph A Agabashian,,2002 USMS Short Course Nationals,2002,4
+VCM,200 Y Individual Medley,SCY,M,50-54,2:39.49,David E Foote,,2002 USMS Short Course Nationals,2002,5
+VCM,400 Y Individual Medley,SCY,M,50-54,4:30.52,Jim Mc Conica,,2002 USMS Short Course Nationals,2002,1
+HSNM,400 Y Individual Medley,SCY,M,50-54,4:57.56,Edwin Pyle,,2002 USMS Short Course Nationals,2002,2
+VCM,400 Y Individual Medley,SCY,M,50-54,5:45.24,David E Foote,,2002 USMS Short Course Nationals,2002,3
+SCAQ,500 Y Freestyle,SCY,M,55-59,5:36.02,Sandy Galletly,,2002 USMS Short Course Nationals,2002,1
+VCM,500 Y Freestyle,SCY,M,55-59,5:47.44,Larry L Raffaelli,,2002 USMS Short Course Nationals,2002,2
+VCM,1000 Y Freestyle,SCY,M,55-59,11:54.88,Larry L Raffaelli,,2002 USMS Short Course Nationals,2002,1
+SCAQ,1650 Y Freestyle,SCY,M,55-59,19:18.44,Sandy Galletly,,2002 USMS Short Course Nationals,2002,1
+VCM,100 Y Backstroke,SCY,M,55-59,1:09.71,Larry L Raffaelli,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Backstroke,SCY,M,55-59,2:30.56,Larry L Raffaelli,,2002 USMS Short Course Nationals,2002,1
+WH2O,200 Y Butterfly,SCY,M,55-59,2:32.56,Paulo Figueiredo,,2002 USMS Short Course Nationals,2002,1
+VCM,200 Y Butterfly,SCY,M,55-59,2:44.98,Larry L Raffaelli,,2002 USMS Short Course Nationals,2002,2
+SCAQ,100 Y Individual Medley,SCY,M,55-59,1:09.01,Sandy Galletly,,2002 USMS Short Course Nationals,2002,1
+SCAQ,200 Y Individual Medley,SCY,M,55-59,2:26.11,Sandy Galletly,,2002 USMS Short Course Nationals,2002,1
+WH2O,200 Y Individual Medley,SCY,M,55-59,2:29.59,Paulo Figueiredo,,2002 USMS Short Course Nationals,2002,2
+SCAQ,400 Y Individual Medley,SCY,M,55-59,5:13.22,Sandy Galletly,,2002 USMS Short Course Nationals,2002,1
+VCM,400 Y Individual Medley,SCY,M,55-59,5:30.25,Larry L Raffaelli,,2002 USMS Short Course Nationals,2002,2
+NOVA,50 Y Freestyle,SCY,M,60-64,29.31,Fred W Anderson,,2002 USMS Short Course Nationals,2002,1
+UNAT,100 Y Freestyle,SCY,M,60-64,59.30,Ben Franklin,,2002 USMS Short Course Nationals,2002,1
+NOVA,100 Y Freestyle,SCY,M,60-64,1:06.28,Fred W Anderson,,2002 USMS Short Course Nationals,2002,2
+NOVA,1000 Y Freestyle,SCY,M,60-64,14:38.61,Fred W Anderson,,2002 USMS Short Course Nationals,2002,1
+UNAT,50 Y Breaststroke,SCY,M,60-64,36.29,Ben Franklin,,2002 USMS Short Course Nationals,2002,1
+NOVA,50 Y Butterfly,SCY,M,60-64,30.58,Fred W Anderson,,2002 USMS Short Course Nationals,2002,1
+NOVA,100 Y Individual Medley,SCY,M,60-64,1:19.67,Fred W Anderson,,2002 USMS Short Course Nationals,2002,1
+UNAT,200 Y Individual Medley,SCY,M,60-64,2:55.23,Lawrence Doffing,,2002 USMS Short Course Nationals,2002,1
+UNAT,400 Y Individual Medley,SCY,M,60-64,6:30.75,Lawrence Doffing,,2002 USMS Short Course Nationals,2002,1
+SBM,50 Y Freestyle,SCY,M,65-69,23.66,Jeff Farrell,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,M,65-69,29.81,Will Rauch,,2002 USMS Short Course Nationals,2002,2
+SBM,100 Y Freestyle,SCY,M,65-69,54.43,Jeff Farrell,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Freestyle,SCY,M,65-69,1:04.76,Will Rauch,,2002 USMS Short Course Nationals,2002,2
+SBM,200 Y Freestyle,SCY,M,65-69,2:01.22,Jeff Farrell,,2002 USMS Short Course Nationals,2002,1
+CLVM,200 Y Freestyle,SCY,M,65-69,2:27.94,Will Rauch,,2002 USMS Short Course Nationals,2002,2
+CLVM,500 Y Freestyle,SCY,M,65-69,6:34.26,Will Rauch,,2002 USMS Short Course Nationals,2002,1
+CLVM,1000 Y Freestyle,SCY,M,65-69,13:45.89,Will Rauch,,2002 USMS Short Course Nationals,2002,1
+SBM,50 Y Butterfly,SCY,M,65-69,27.90,Jeff Farrell,,2002 USMS Short Course Nationals,2002,1
+SBM,100 Y Individual Medley,SCY,M,65-69,1:03.54,Jeff Farrell,,2002 USMS Short Course Nationals,2002,1
+SBM,200 Y Individual Medley,SCY,M,65-69,2:24.24,Jeff Farrell,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Freestyle,SCY,M,70-74,35.30,Walter R Butler,,2002 USMS Short Course Nationals,2002,1
+CLVM,100 Y Freestyle,SCY,M,70-74,1:21.35,Walter R Butler,,2002 USMS Short Course Nationals,2002,1
+CLVM,200 Y Freestyle,SCY,M,70-74,3:21.86,Walter R Butler,,2002 USMS Short Course Nationals,2002,1
+HBSC,50 Y Backstroke,SCY,M,70-74,36.26,Stan McConnell,,2002 USMS Short Course Nationals,2002,1
+CLVM,50 Y Backstroke,SCY,M,70-74,46.46,Walter R Butler,,2002 USMS Short Course Nationals,2002,2
+HBSC,100 Y Backstroke,SCY,M,70-74,1:19.51,Stan McConnell,,2002 USMS Short Course Nationals,2002,1
+HBSC,200 Y Backstroke,SCY,M,70-74,2:52.52,Stan McConnell,,2002 USMS Short Course Nationals,2002,1
+HBSC,50 Y Butterfly,SCY,M,70-74,36.45,Stan McConnell,,2002 USMS Short Course Nationals,2002,1
+HBSC,100 Y Individual Medley,SCY,M,70-74,1:20.98,Stan McConnell,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Freestyle,SCY,M,75-79,28.13,Frank Piemme,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Freestyle,SCY,M,75-79,32.90,Jurgen B Schmidt,,2002 USMS Short Course Nationals,2002,2
+OSB,100 Y Freestyle,SCY,M,75-79,1:05.27,Frank Piemme,,2002 USMS Short Course Nationals,2002,1
+OSB,100 Y Freestyle,SCY,M,75-79,1:13.15,Jurgen B Schmidt,,2002 USMS Short Course Nationals,2002,2
+OSB,200 Y Freestyle,SCY,M,75-79,2:36.55,Frank Piemme,,2002 USMS Short Course Nationals,2002,1
+OSB,200 Y Freestyle,SCY,M,75-79,2:47.37,Jurgen B Schmidt,,2002 USMS Short Course Nationals,2002,2
+OSB,500 Y Freestyle,SCY,M,75-79,7:35.35,Jurgen B Schmidt,,2002 USMS Short Course Nationals,2002,1
+OSB,1000 Y Freestyle,SCY,M,75-79,15:37.30,Jurgen B Schmidt,,2002 USMS Short Course Nationals,2002,1
+OSB,100 Y Breaststroke,SCY,M,75-79,1:27.71,Frank Piemme,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Butterfly,SCY,M,75-79,32.59,Frank Piemme,,2002 USMS Short Course Nationals,2002,1
+OSB,50 Y Butterfly,SCY,M,75-79,37.39,Jurgen B Schmidt,,2002 USMS Short Course Nationals,2002,2
+OSB,100 Y Individual Medley,SCY,M,75-79,1:17.27,Frank Piemme,,2002 USMS Short Course Nationals,2002,1

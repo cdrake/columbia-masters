@@ -1,0 +1,21 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CHAR,50 M Freestyle,SCM,W,40-44,31.58,Jennifer R Petyk,,Spire Masters 2012,2012,1
+CHAR,100 M Freestyle,SCM,W,40-44,1:07.62,Jennifer R Petyk,,Spire Masters 2012,2012,1
+CHAR,200 M Freestyle,SCM,W,40-44,2:31.18,Jennifer R Petyk,,Spire Masters 2012,2012,1
+CHAR,50 M Butterfly,SCM,W,40-44,36.17,Jennifer R Petyk,,Spire Masters 2012,2012,1
+TPIT,200 M Freestyle,SCM,W,30-34,2:57.52,Kathleen J Stutz,,"2012 O*H*I*O Masters SCM Swim Meet - Hudson, Ohio",2012,1
+TPIT,400 M Freestyle,SCM,W,30-34,6:13.21,Kathleen J Stutz,,"2012 O*H*I*O Masters SCM Swim Meet - Hudson, Ohio",2012,1
+TPIT,800 M Freestyle,SCM,W,30-34,12:40.28,Kathleen J Stutz,,"2012 O*H*I*O Masters SCM Swim Meet - Hudson, Ohio",2012,1
+TPIT,1500 M Freestyle,SCM,W,30-34,23:19.39,Kathleen J Stutz,,Rowdy Gaines Masters Classic IV,2012,1
+TPIT,50 M Breaststroke,SCM,W,30-34,45.14,Kathleen J Stutz,,Rowdy Gaines Masters Classic IV,2012,1
+TPIT,100 M Breaststroke,SCM,W,30-34,1:37.81,Kathleen J Stutz,,Rowdy Gaines Masters Classic IV,2012,1
+TPIT,200 M Breaststroke,SCM,W,30-34,3:29.04,Kathleen J Stutz,,32nd Annual VMST Fall Meet,2012,1
+TPIT,50 M Butterfly,SCM,W,30-34,43.53,Kathleen J Stutz,,Rowdy Gaines Masters Classic IV,2012,1
+TPIT,100 M Individual Medley,SCM,W,30-34,1:33.45,Kathleen J Stutz,,Rowdy Gaines Masters Classic IV,2012,1
+TPIT,50 M Freestyle,SCM,M,55-59,33.94,Gary A Abbate,,Huntsman World Senior Games,2012,1
+TPIT,100 M Breaststroke,SCM,M,55-59,1:23.22,Gary A Abbate,,Huntsman World Senior Games,2012,1
+TPIT,200 M Breaststroke,SCM,M,55-59,3:07.71,Gary A Abbate,,Huntsman World Senior Games,2012,1
+TPIT,100 M Individual Medley,SCM,M,55-59,1:21.47,Gary A Abbate,,Huntsman World Senior Games,2012,1
+TPIT,400 M Individual Medley,SCM,M,55-59,7:12.71,Gary A Abbate,,Huntsman World Senior Games,2012,1
+UNAT,50 M Freestyle,SCM,M,25-29,26.03,Jacob M Hoyson,,2012 Southern Masters Swimming Short Course Meters Championship,2012,1
+UNAT,50 M Butterfly,SCM,M,25-29,27.58,Jacob M Hoyson,,2012 Southern Masters Swimming Short Course Meters Championship,2012,1
