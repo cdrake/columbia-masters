@@ -25,6 +25,8 @@ hatch run sync-content                       # Sheet → content/fallback/*.json
 # Nationwide paced crawl (every LMSC + club; resumes from data/usms/crawl_state.json)
 hatch run crawl                              # one slice; scheduled twice daily by usms-crawl.yml
 hatch run crawl -- --status                  # progress + next budget, no browser
+# Monthly update (usms-update.yml): previous + current year only, own checkpoint
+hatch run crawl -- --state data/usms/update/state.json --status
 
 # Single-club update / publish (tenant-aware defaults)
 hatch run update -- --tenant colm

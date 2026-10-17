@@ -24,5 +24,6 @@ web/dist/
 data/csv/debug/
 data/csv/usms/debug/
 data/usms/*.tmp
+data/usms/update/*.tmp
 output/
 sample_data/
