@@ -494,6 +494,9 @@ def _publish_records(
 
 def cmd_update(args: argparse.Namespace) -> int:
     """Scrape the current year and only update CSVs when new or changed records are found."""
+    if args.tenant and load_tenant(args.tenant).is_lmsc:
+        logging.error(f"{args.tenant} is a state site; it publishes via `refresh` from the crawl")
+        return 1
     tenant = load_tenant(args.tenant) if args.tenant else None
     team = args.team or (tenant.team_code if tenant else None)
     if not team:
@@ -720,6 +723,9 @@ def _log_progress(state: CrawlState) -> None:
 
 def cmd_publish(args: argparse.Namespace) -> int:
     """Transform existing CSVs and copy JSON to the web public data directory."""
+    if args.tenant and load_tenant(args.tenant).is_lmsc:
+        logging.error(f"{args.tenant} is a state site; it publishes via `refresh` from the crawl")
+        return 1
     tenant = load_tenant(args.tenant) if args.tenant else None
     team = args.team or (tenant.team_code if tenant else None)
     if not team:

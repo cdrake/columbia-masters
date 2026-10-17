@@ -97,7 +97,7 @@ export function quickFacts(t: Tenant): string {
   if (isLmsc(t)) {
     return [
       `<dt>LMSC</dt><dd>${esc(c.lmscName)} (${esc(c.teamCode)})</dd>`,
-      `<dt>Records</dt><dd>Fastest SC swim per season, ${c.records.startYear}–present</dd>`,
+      `<dt>Records</dt><dd>Fastest ${esc(c.lmscName)} swim per season, ${c.records.startYear}–present</dd>`,
       `<dt>Source</dt><dd>USMS Top Times database</dd>`,
     ].join("\n              ");
   }
