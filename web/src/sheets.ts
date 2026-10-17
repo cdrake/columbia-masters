@@ -6,10 +6,16 @@ const SHEET_URLS = tenant.sheetUrls;
 
 async function fetchSheet<T>(url: string | undefined): Promise<T[]> {
   if (!url) return [];
-  const res = await fetch(url);
-  const csv = await res.text();
-  const { data } = Papa.parse<T>(csv, { header: true, skipEmptyLines: true });
-  return data;
+  // A missing/unpublished tab must not take down the page: the static fallback stays.
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return [];
+    const csv = await res.text();
+    const { data } = Papa.parse<T>(csv, { header: true, skipEmptyLines: true });
+    return data;
+  } catch {
+    return [];
+  }
 }
 
 export async function fetchEvents(): Promise<SiteEvent[]> {
