@@ -1,0 +1,37 @@
+{
+  "slug": "palm",
+  "teamCode": "PALM",
+  "lmscId": "55",
+  "lmscName": "South Carolina",
+  "name": "Palmetto Masters",
+  "shortName": "PALM",
+  "domain": "https://palm.swimclubs.org",
+  "description": "Palmetto Masters (PALM) is a US Masters Swimming club in the Charleston area, with coached practices in Mt. Pleasant and North Charleston, South Carolina. Practices for all levels.",
+  "hero": {
+    "sub": "Palmetto Masters — Mt. Pleasant & North Charleston, South Carolina",
+    "tagline": "A US Masters Swimming club for the Charleston area"
+  },
+  "pool": "Jones Recreation Center",
+  "address": {
+    "street": "391 Egypt Rd",
+    "city": "Mt. Pleasant",
+    "region": "SC",
+    "postalCode": "29464"
+  },
+  "scheduleNote": "USMS membership (or a 30-day trial membership) is required to swim with the team. Contact the club for current practice times.",
+  "colors": {},
+  "socials": [
+    { "label": "USMS Club Page", "url": "https://www.usms.org/clubs" },
+    { "label": "Facebook", "url": "https://www.facebook.com/palmetto.masters", "sameAs": true },
+    { "label": "Instagram @PALMUSMS", "url": "https://www.instagram.com/PALMUSMS", "sameAs": true },
+    { "label": "X @PALMUSMS", "url": "https://x.com/PALMUSMS", "sameAs": true }
+  ],
+  "documents": [],
+  "sheet": {
+    "publishedId": "PENDING",
+    "gids": { "events": 0, "schedule": 1, "board": 2, "content": 3 }
+  },
+  "records": {
+    "startYear": 2002
+  }
+}

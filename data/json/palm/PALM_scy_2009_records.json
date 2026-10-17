@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PALM_50_y_freestyle_scy_men_35_39",
+    "team": "PALM",
+    "event": "50 Y Freestyle",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "35-39",
+    "time": "23.70",
+    "timeInSeconds": 23.7,
+    "swimmer": "Joey Kanner",
+    "date": null,
+    "meet": "South Carolina SCY Championships",
+    "year": "2009"
+  },
+  {
+    "id": "PALM_200_y_freestyle_scy_men_35_39",
+    "team": "PALM",
+    "event": "200 Y Freestyle",
+    "course": "scy",
+    "gender": "men",
+    "ageGroup": "35-39",
+    "time": "1:54.94",
+    "timeInSeconds": 114.94,
+    "swimmer": "Joey Kanner",
+    "date": null,
+    "meet": "South Carolina SCY Championships",
+    "year": "2009"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PALM_50_m_backstroke_lcm_men_55_59",
+    "team": "PALM",
+    "event": "50 M Backstroke",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "55-59",
+    "time": "31.20",
+    "timeInSeconds": 31.2,
+    "swimmer": "Hugh Wilder",
+    "date": null,
+    "meet": "2002 USMS Long Course Nationals",
+    "year": "2002"
+  },
+  {
+    "id": "PALM_100_m_backstroke_lcm_men_55_59",
+    "team": "PALM",
+    "event": "100 M Backstroke",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "55-59",
+    "time": "1:08.55",
+    "timeInSeconds": 68.55,
+    "swimmer": "Hugh Wilder",
+    "date": null,
+    "meet": "2002 USMS Long Course Nationals",
+    "year": "2002"
+  },
+  {
+    "id": "PALM_200_m_backstroke_lcm_men_55_59",
+    "team": "PALM",
+    "event": "200 M Backstroke",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "55-59",
+    "time": "2:38.73",
+    "timeInSeconds": 158.73,
+    "swimmer": "Hugh Wilder",
+    "date": null,
+    "meet": "2002 USMS Long Course Nationals",
+    "year": "2002"
+  },
+  {
+    "id": "PALM_50_m_butterfly_lcm_men_55_59",
+    "team": "PALM",
+    "event": "50 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "55-59",
+    "time": "30.03",
+    "timeInSeconds": 30.03,
+    "swimmer": "Hugh Wilder",
+    "date": null,
+    "meet": "2002 USMS Long Course Nationals",
+    "year": "2002"
+  },
+  {
+    "id": "PALM_100_m_butterfly_lcm_men_55_59",
+    "team": "PALM",
+    "event": "100 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "55-59",
+    "time": "1:10.65",
+    "timeInSeconds": 70.65,
+    "swimmer": "Hugh Wilder",
+    "date": null,
+    "meet": "2002 USMS Long Course Nationals",
+    "year": "2002"
+  }
+]

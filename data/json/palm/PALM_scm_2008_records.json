@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PALM_50_m_freestyle_scm_men_35_39",
+    "team": "PALM",
+    "event": "50 M Freestyle",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "35-39",
+    "time": "26.87",
+    "timeInSeconds": 26.87,
+    "swimmer": "Joey Kanner",
+    "date": null,
+    "meet": "South Carolina SCM Championship",
+    "year": "2008"
+  },
+  {
+    "id": "PALM_100_m_freestyle_scm_men_35_39",
+    "team": "PALM",
+    "event": "100 M Freestyle",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "35-39",
+    "time": "59.12",
+    "timeInSeconds": 59.12,
+    "swimmer": "Joey Kanner",
+    "date": null,
+    "meet": "South Carolina SCM Championship",
+    "year": "2008"
+  },
+  {
+    "id": "PALM_200_m_freestyle_scm_men_35_39",
+    "team": "PALM",
+    "event": "200 M Freestyle",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "35-39",
+    "time": "2:11.52",
+    "timeInSeconds": 131.52,
+    "swimmer": "Joey Kanner",
+    "date": null,
+    "meet": "South Carolina SCM Championship",
+    "year": "2008"
+  },
+  {
+    "id": "PALM_100_m_individual_medley_scm_men_35_39",
+    "team": "PALM",
+    "event": "100 M Individual Medley",
+    "course": "scm",
+    "gender": "men",
+    "ageGroup": "35-39",
+    "time": "1:09.06",
+    "timeInSeconds": 69.06,
+    "swimmer": "Joey Kanner",
+    "date": null,
+    "meet": "South Carolina SCM Championship",
+    "year": "2008"
+  }
+]

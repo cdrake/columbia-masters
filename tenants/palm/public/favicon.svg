@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Palmetto Masters — simple palmetto-tree badge (demo placeholder) -->
+  <circle cx="64" cy="64" r="58" fill="#0E4D64" stroke="#F2E8CF" stroke-width="4"/>
+  <path d="M64 50 C 62 70, 60 92, 56 108 L 66 108 C 68 92, 68 70, 66 50 Z" fill="#F2E8CF"/>
+  <g fill="#F2E8CF">
+    <path d="M65 50 C 52 36, 36 34, 24 42 C 38 40, 50 44, 65 52 Z"/>
+    <path d="M65 50 C 78 36, 94 34, 106 42 C 92 40, 80 44, 65 52 Z"/>
+    <path d="M65 50 C 56 32, 44 24, 30 26 C 44 32, 54 40, 64 52 Z"/>
+    <path d="M65 50 C 74 32, 86 24, 100 26 C 86 32, 76 40, 66 52 Z"/>
+    <path d="M65 50 C 64 34, 60 22, 52 16 C 60 26, 62 38, 63 52 Z"/>
+    <path d="M65 50 C 66 34, 70 22, 78 16 C 70 26, 68 38, 67 52 Z"/>
+  </g>
+</svg>

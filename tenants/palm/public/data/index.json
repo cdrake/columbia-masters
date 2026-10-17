@@ -1,0 +1,62 @@
+{
+  "name": "Palmetto Masters (PALM) — Team Records",
+  "description": "Top times and team records for PALM, a US Masters Swimming club in Mt. Pleasant, SC. Each record represents the fastest time by a PALM swimmer in a given event, course, gender, and age group.",
+  "organization": {
+    "name": "Palmetto Masters",
+    "teamCode": "PALM",
+    "location": "Mt. Pleasant, SC",
+    "website": "https://palm.swimclubs.org"
+  },
+  "datasets": [
+    {
+      "name": "All Team Records",
+      "url": "https://palm.swimclubs.org/data/PALM_all_records.json",
+      "format": "JSON array",
+      "records": 10219,
+      "description": "All PALM top times across every course, event, gender, and age group.",
+      "schema": {
+        "id": "Deterministic key: {team}_{event}_{course}_{gender}_{ageGroup}",
+        "team": "USMS team code (always PALM)",
+        "event": "Event name, e.g. '100 Y Freestyle'",
+        "course": "Pool course: scy (Short Course Yards), scm (Short Course Meters), or lcm (Long Course Meters)",
+        "gender": "men or women",
+        "ageGroup": "USMS age group, e.g. '25-29', '30-34'",
+        "time": "Formatted swim time, e.g. '1:01.29'",
+        "timeInSeconds": "Numeric time in seconds for sorting/comparison",
+        "swimmer": "Swimmer's full name",
+        "date": "Date of the swim (ISO string or null)",
+        "meet": "Name of the meet where the time was recorded",
+        "year": "Year the time was recorded"
+      }
+    }
+  ],
+  "api": {
+    "url": "https://palm.swimclubs.org/api/records",
+    "method": "GET",
+    "description": "Query the records instead of downloading the whole file. Rows are each season's top time per event/course/gender/age group; best=true returns only all-time bests. Responds with {team, query, total, count, records}.",
+    "parameters": {
+      "event": "Distance and/or stroke, e.g. '50 free', '200 IM', 'backstroke'",
+      "course": "scy, scm or lcm",
+      "gender": "men or women",
+      "ageGroup": "USMS age group, e.g. '40-44' (or age=42)",
+      "year": "Four-digit season year",
+      "swimmer": "Case-insensitive name substring",
+      "meet": "Case-insensitive meet-name substring",
+      "best": "true for only the fastest matching swim per event/course/gender/age group",
+      "limit": "Max rows, 1-1000 (default 100)"
+    },
+    "examples": [
+      "https://palm.swimclubs.org/api/records?event=50+free&course=scy&gender=women&best=true",
+      "https://palm.swimclubs.org/api/records?swimmer=smith"
+    ]
+  },
+  "contentApi": {
+    "url": "https://palm.swimclubs.org/api/content",
+    "method": "GET",
+    "description": "Club information read live from the club's Google Sheet: practice schedule, upcoming events, board, FAQ, coaches and any notice. Optional section=club|alert|about|schedule|events|board|faq|coaches; format=md for markdown."
+  },
+  "openapi": "https://palm.swimclubs.org/openapi.json",
+  "llms": "https://palm.swimclubs.org/llms.txt",
+  "source": "US Masters Swimming (usms.org) top times database",
+  "lastUpdated": "2026-10-17"
+}

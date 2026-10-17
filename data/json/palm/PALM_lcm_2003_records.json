@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PALM_50_m_freestyle_lcm_men_45_49",
+    "team": "PALM",
+    "event": "50 M Freestyle",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "45-49",
+    "time": "26.90",
+    "timeInSeconds": 26.9,
+    "swimmer": "Joe Shake",
+    "date": null,
+    "meet": "2003 USMS Long Course Nationals",
+    "year": "2003"
+  },
+  {
+    "id": "PALM_100_m_freestyle_lcm_men_45_49",
+    "team": "PALM",
+    "event": "100 M Freestyle",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "45-49",
+    "time": "1:00.09",
+    "timeInSeconds": 60.09,
+    "swimmer": "Joe Shake",
+    "date": null,
+    "meet": "2003 USMS Long Course Nationals",
+    "year": "2003"
+  },
+  {
+    "id": "PALM_200_m_freestyle_lcm_men_45_49",
+    "team": "PALM",
+    "event": "200 M Freestyle",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "45-49",
+    "time": "2:21.87",
+    "timeInSeconds": 141.87,
+    "swimmer": "Joe Shake",
+    "date": null,
+    "meet": "2003 USMS Long Course Nationals",
+    "year": "2003"
+  },
+  {
+    "id": "PALM_50_m_breaststroke_lcm_men_45_49",
+    "team": "PALM",
+    "event": "50 M Breaststroke",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "45-49",
+    "time": "36.78",
+    "timeInSeconds": 36.78,
+    "swimmer": "Joe Shake",
+    "date": null,
+    "meet": "2003 USMS Long Course Nationals",
+    "year": "2003"
+  },
+  {
+    "id": "PALM_50_m_butterfly_lcm_men_45_49",
+    "team": "PALM",
+    "event": "50 M Butterfly",
+    "course": "lcm",
+    "gender": "men",
+    "ageGroup": "45-49",
+    "time": "29.99",
+    "timeInSeconds": 29.99,
+    "swimmer": "Joe Shake",
+    "date": null,
+    "meet": "2003 USMS Long Course Nationals",
+    "year": "2003"
+  }
+]

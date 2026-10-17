@@ -1,0 +1,24 @@
+{
+  "slug": "home",
+  "title": "",
+  "description": "",
+  "nav": null,
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "section"
+    },
+    {
+      "id": "about",
+      "type": "section"
+    },
+    {
+      "id": "schedule",
+      "type": "section"
+    },
+    {
+      "id": "records",
+      "type": "section"
+    }
+  ]
+}
