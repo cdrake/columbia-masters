@@ -51,5 +51,12 @@
     ]
   },
   "source": "US Masters Swimming (usms.org) top times database",
-  "lastUpdated": "2026-09-28"
+  "lastUpdated": "2026-09-28",
+  "contentApi": {
+    "url": "https://www.columbiamastersswim.org/api/content",
+    "method": "GET",
+    "description": "Club information read live from the club's Google Sheet: practice schedule, upcoming events, board, FAQ, coaches and any notice. Optional section=club|alert|about|schedule|events|board|faq|coaches; format=md for markdown."
+  },
+  "openapi": "https://www.columbiamastersswim.org/openapi.json",
+  "llms": "https://www.columbiamastersswim.org/llms.txt"
 }

@@ -40,7 +40,8 @@ Throughout, `<slug>` is the club's lowercase team code, for example `colm`. It i
   - `content/about.md`
   - `content/coaches/*.md` (frontmatter: `name`, `photo`)
   - `content/classes/*.md`, or delete it
-  - `content/fallback/{schedule,events,board,faq}.json`: a static copy of the Sheet data, used for SEO and as the fallback when the Sheet can't be read
+  - `content/fallback/*.json`: don't edit these by hand. Run `hatch run sync-content -- --tenant <slug>` once the Sheet is published; it snapshots the Sheet into them (the daily **Sheet content sync** workflow keeps them current)
+  - optional `"timeZone"` in `tenant.json` if the club isn't on Eastern time (e.g. `"America/Chicago"`)
 - [ ] `content/pages/home.json`: keep the COLM copy. The club can rearrange it in the editor later.
 - [ ] `content/site.json`: delete it to start on Lane Line, or set `{ "theme": "<id>" }`.
 - [ ] Replace the favicons and icons in `public/`.
@@ -110,6 +111,7 @@ In the Pages project → Settings → **Variables and secrets** (Production). Th
 - [ ] Logged out, `https://<slug>.swimclubs.org/admin/` redirects to `swimclubs.cloudflareaccess.com`.
 - [ ] Signed in as an editor, `/admin/` shows "Everything is published". If it says "site editor isn't set up", a variable from step 5 is missing.
 - [ ] Records show on the site, and the Sheet tabs populate.
+- [ ] `https://<slug>.swimclubs.org/llms.txt` shows the club's current schedule, and `/api/content?section=schedule` returns `"source":"sheet"`.
 - [ ] Send the editors the URL `https://<slug>.swimclubs.org/admin/` and the README section "Editing the Site".
 
 ## Free-tier limits
@@ -121,7 +123,7 @@ These are the limits that actually bind as the number of clubs grows:
 | Zero Trust seats | 50 users, shared across **all** clubs | Only list real editors (2–3 per club). "Remove inactive users from seats" is set to 1 month. Check the seat count under Zero Trust → Settings. |
 | Pages builds | 500 per month, account-wide | Build watch paths (step 3). Crawl and refresh commits only rebuild the clubs whose files changed. |
 | Pages custom domains | 100 per project | One or two per club. |
-| Functions (admin and records API) | 100k requests per day | Editor traffic is tiny. |
+| Functions (admin, records, content API and `/llms.txt`) | 100k requests per day, account-wide | Only those routes run Functions; page views are static. Sheet reads are cached 5 minutes. Never add a root `functions/_middleware.ts`. |
 | `swimclubs.org` | about $11.20 per year, auto-renew on | This is the only recurring cost. Every club subdomain depends on it. |
 
 Don't enable any paid Zero Trust add-ons (Browser Isolation, DLP, CASB), and don't roll out the WARP client.

@@ -2,6 +2,7 @@ import type { Plugin } from "vite";
 import fs from "node:fs";
 import path from "node:path";
 import { answer } from "../shared/records";
+import { answerContent, buildContent, loadSheetData, openApi, todayIn } from "../shared/content";
 import { adminDevApi } from "./admin-dev-api";
 import { loadTenant, sheetUrls } from "./load-tenant";
 import { composePage, loadSectionPartials, pageForUrl, renderShell } from "./pages";
@@ -59,6 +60,40 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
         res.statusCode = status;
         res.setHeader("Content-Type", "application/json; charset=utf-8");
         res.end(JSON.stringify(body));
+      });
+
+      // /api/content, live /llms.txt and /openapi.json (see functions/ for production).
+      // Reads the live Sheet like production; falls back to content/fallback/.
+      const live = async (params: URLSearchParams) => {
+        const m = render.siteManifest(tenant);
+        const { data, source } = await loadSheetData(m, async (url) => {
+          const res = await fetch(url);
+          const type = res.headers.get("content-type") ?? "";
+          return res.ok && type.includes("text/csv") ? res.text() : null;
+        });
+        return answerContent(buildContent(m, data, source, todayIn(m.timeZone)), params, m);
+      };
+      const send = (res: import("node:http").ServerResponse, status: number, type: string, body: string) => {
+        res.statusCode = status;
+        res.setHeader("Content-Type", type);
+        res.end(body);
+      };
+      server.middlewares.use("/api/content", (req, res) => {
+        live(new URL(req.url ?? "", "http://dev").searchParams).then(
+          (r) => send(res, r.status, r.contentType === "json" ? "application/json; charset=utf-8" : "text/markdown; charset=utf-8", r.body),
+          (e) => send(res, 500, "text/plain", String(e))
+        );
+      });
+      server.middlewares.use((req, res, next) => {
+        const pathname = (req.url ?? "").split("?")[0];
+        if (pathname === "/llms.txt") {
+          live(new URLSearchParams("format=md")).then(
+            (r) => send(res, 200, "text/plain; charset=utf-8", r.body),
+            (e) => send(res, 500, "text/plain", String(e))
+          );
+        } else if (pathname === "/openapi.json") {
+          send(res, 200, "application/json; charset=utf-8", JSON.stringify(openApi(render.siteManifest(tenant)), null, 2));
+        } else next();
       });
 
       const sectionsDir = `${webRoot}/build/sections`;
@@ -129,6 +164,9 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
           "robots.txt": render.robotsTxt(tenant),
           "sitemap.xml": render.sitemapXml(tenant),
           "llms.txt": render.llmsTxt(tenant),
+          "openapi.json": JSON.stringify(openApi(render.siteManifest(tenant)), null, 2) + "\n",
+          // Read by functions/api/content.ts and functions/llms.txt.ts.
+          "data/site.json": JSON.stringify(render.siteManifest(tenant)) + "\n",
         };
         for (const [fileName, source] of Object.entries(files)) {
           this.emitFile({ type: "asset", fileName, source });

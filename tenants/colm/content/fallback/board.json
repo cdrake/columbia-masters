@@ -1,8 +1,26 @@
 [
-  { "role": "Chair", "name": "Amanda Moyer" },
-  { "role": "Vice Chair", "name": "Mitch Smith" },
-  { "role": "Treasurer", "name": "Tim Vitolla" },
-  { "role": "Registrar", "name": "Mary Peyton Wall" },
-  { "role": "Secretary", "name": "Zach Ogle" },
-  { "role": "Communications", "name": "Jimi Adams" }
+  {
+    "role": "Chair",
+    "name": "Amanda Moyer"
+  },
+  {
+    "role": "Vice Chair",
+    "name": "Mitch Smith"
+  },
+  {
+    "role": "Treasurer",
+    "name": "Tim Vitolla"
+  },
+  {
+    "role": "Registrar",
+    "name": "Mary Peyton Wall"
+  },
+  {
+    "role": "Secretary",
+    "name": "Nicole Bookstaver"
+  },
+  {
+    "role": "Communications",
+    "name": "Chris Drake"
+  }
 ]

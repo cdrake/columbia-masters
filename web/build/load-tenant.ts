@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { Marked } from "marked";
 import { defaultHomePage, HOME_SLUG, validatePage, type Page } from "../shared/pages";
 import { validateSite, type SiteSettings } from "../shared/site";
+import { normalizeTab, type SheetData } from "../shared/content";
 
 const marked = new Marked();
 
@@ -37,12 +38,16 @@ export interface TenantConfig {
   sheet: { publishedId: string; gids: Record<string, number> };
   records: { startYear: number };
   images?: { accountHash: string };
+  /** IANA zone for "upcoming" event filtering; defaults to America/New_York. */
+  timeZone?: string;
 }
 
 export interface Coach {
   name: string;
   photo: string;
   bioHtml: string;
+  /** Bio markdown, for the content API / llms.txt. */
+  bio: string;
 }
 
 export interface ClassProgram {
@@ -55,43 +60,15 @@ export interface ClassProgram {
   taglineHtml: string;
 }
 
-export interface FallbackScheduleEntry {
-  day: string;
-  time: string;
-  type: string;
-  location?: string;
-}
-
-// Shape matches the rendered fallback markup (not Sheet rows) so the static
-// no-JS/SEO content reproduces exactly with no date math at build time.
-export interface FallbackEvent {
-  month: string;
-  day: string;
-  title: string;
-  detail: string;
-}
-
-export interface FallbackBoardMember {
-  role: string;
-  name: string;
-}
-
-export interface FallbackFaqEntry {
-  question: string;
-  answer: string;
-}
-
 export interface Tenant {
   config: TenantConfig;
   aboutHtml: string;
+  /** about.md paragraphs (markdown). */
+  about: string[];
   coaches: Coach[];
   classes: ClassProgram[];
-  fallback: {
-    schedule: FallbackScheduleEntry[];
-    events: FallbackEvent[];
-    board: FallbackBoardMember[];
-    faq: FallbackFaqEntry[];
-  };
+  /** Snapshot of the club's Sheet (content/fallback/*.json, kept current by sync-content). */
+  fallback: SheetData;
   /** Site pages from content/pages/*.json; home is always first. */
   pages: Page[];
   /** Design template + accent from content/site.json (written by the editor); null = default look. */
@@ -151,12 +128,14 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
   const contentDir = path.join(dir, "content");
   const aboutFile = path.join(contentDir, "about.md");
   req(fs.existsSync(aboutFile), `missing ${aboutFile}`);
-  const aboutHtml = mdBlock(fs.readFileSync(aboutFile, "utf8"));
+  const aboutMd = fs.readFileSync(aboutFile, "utf8");
+  const aboutHtml = mdBlock(aboutMd);
+  const about = aboutMd.split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
 
   const coaches = loadMarkdownDir(path.join(contentDir, "coaches")).map(({ data, content, file }) => {
     req(data.name, `coach file ${file} missing "name" in frontmatter`);
     req(data.photo, `coach file ${file} missing "photo" in frontmatter`);
-    return { name: data.name as string, photo: data.photo as string, bioHtml: mdBlock(content) };
+    return { name: data.name as string, photo: data.photo as string, bioHtml: mdBlock(content), bio: content.trim() };
   });
 
   const classes = loadMarkdownDir(path.join(contentDir, "classes")).map(({ data, content, file }) => {
@@ -175,12 +154,24 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
   });
 
   const fallbackDir = path.join(contentDir, "fallback");
-  const fallback = {
-    schedule: readJsonIfExists<FallbackScheduleEntry[]>(path.join(fallbackDir, "schedule.json")) ?? [],
-    events: readJsonIfExists<FallbackEvent[]>(path.join(fallbackDir, "events.json")) ?? [],
-    board: readJsonIfExists<FallbackBoardMember[]>(path.join(fallbackDir, "board.json")) ?? [],
-    faq: readJsonIfExists<FallbackFaqEntry[]>(path.join(fallbackDir, "faq.json")) ?? [],
+  const rows = (name: string) => readJsonIfExists<Record<string, unknown>[]>(path.join(fallbackDir, `${name}.json`)) ?? [];
+  const contentMap = readJsonIfExists<Record<string, string>>(path.join(fallbackDir, "content.json")) ?? {};
+  const fallback: SheetData = {
+    schedule: normalizeTab("schedule", rows("schedule")),
+    events: normalizeTab("events", rows("events")),
+    board: normalizeTab("board", rows("board")),
+    faq: normalizeTab("faq", rows("faq")),
+    content: normalizeTab("content", Object.entries(contentMap).map(([key, value]) => ({ key, value }))),
   };
+  if (config.timeZone !== undefined) {
+    let ok = true;
+    try {
+      new Intl.DateTimeFormat("en", { timeZone: config.timeZone });
+    } catch {
+      ok = false;
+    }
+    req(ok, `tenant.json timeZone "${config.timeZone}" is not an IANA time zone`);
+  }
 
   const publicDir = path.join(dir, "public");
   req(fs.existsSync(publicDir), `missing ${publicDir}`);
@@ -194,7 +185,7 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     req(!errs.length, `${siteFile}:\n  ${errs.join("\n  ")}`);
   }
 
-  return { config, aboutHtml, coaches, classes, fallback, pages, site, dir, publicDir };
+  return { config, aboutHtml, about, coaches, classes, fallback, pages, site, dir, publicDir };
 }
 
 /**

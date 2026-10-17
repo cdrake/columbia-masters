@@ -1,6 +1,16 @@
 import type { Tenant } from "./load-tenant";
-import { mdInline, mdBlock } from "./load-tenant";
+import { mdInline, mdBlock, sheetUrls } from "./load-tenant";
+import fs from "node:fs";
+import path from "node:path";
 import { accentVars, THEMES } from "../shared/site";
+import {
+  buildContent,
+  DEFAULT_TIME_ZONE,
+  llmsTxt as contentLlmsTxt,
+  todayIn,
+  upcomingEvents,
+  type SiteManifest,
+} from "../shared/content";
 
 function esc(s: string): string {
   return s
@@ -9,6 +19,13 @@ function esc(s: string): string {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;");
 }
+
+/** A non-empty content-tab value from the Sheet snapshot. */
+function sheet(t: Tenant, key: string): string | undefined {
+  return t.fallback.content[key]?.trim() || undefined;
+}
+
+const timeZone = (t: Tenant) => t.config.timeZone ?? DEFAULT_TIME_ZONE;
 
 /** Scalar {{ key }} substitutions for index.html. */
 export function scalars(t: Tenant): Record<string, string> {
@@ -19,9 +36,11 @@ export function scalars(t: Tenant): Record<string, string> {
     ogImage: `${c.domain}/icon-512.png`,
     shortName: esc(c.shortName),
     name: esc(c.name),
-    heroSub: mdInline(c.hero.sub),
-    heroTagline: mdInline(c.hero.tagline),
-    scheduleNote: mdInline(c.scheduleNote),
+    // The Sheet's content tab (snapshot in fallback/content.json) wins over tenant.json,
+    // so the static HTML matches what the runtime override shows.
+    heroSub: mdInline(sheet(t, "hero_sub") ?? c.hero.sub),
+    heroTagline: mdInline(sheet(t, "hero_tagline") ?? c.hero.tagline),
+    scheduleNote: mdInline(sheet(t, "schedule_note") ?? c.scheduleNote),
   };
 }
 
@@ -58,8 +77,14 @@ export function colorVars(t: Tenant): string {
   return `<style>:root { ${vars} }</style>`;
 }
 
+/** about.md, or the Sheet's about_text paragraphs — same rule as renderContent() in src/main.ts. */
 export function aboutText(t: Tenant): string {
-  return t.aboutHtml;
+  const c = t.fallback.content;
+  if (!c.about_text) return t.aboutHtml;
+  return [c.about_text, c.about_text_2, c.about_text_3]
+    .filter(Boolean)
+    .map((p) => `<p>${mdInline(p)}</p>`)
+    .join("");
 }
 
 export function quickFacts(t: Tenant): string {
@@ -76,30 +101,42 @@ export function quickFacts(t: Tenant): string {
 export function scheduleFallback(t: Tenant): string {
   return t.fallback.schedule
     .map((e) => {
-      const badgeClass = e.type.toLowerCase().includes("closed") ? "badge-closed" : "badge-open";
+      const badgeClass = e.type?.toLowerCase().includes("closed") ? "badge-closed" : "badge-open";
       const location = e.location?.trim();
+      const badge = e.type ? `<span class="badge ${badgeClass}">${esc(e.type)}</span>` : "";
       return `<div class="schedule-card">
             <div class="schedule-day">${esc(e.day)}</div>
             <div class="schedule-time">${esc(e.time)}</div>
-            <span class="badge ${badgeClass}">${esc(e.type)}</span>
+            ${badge}
             ${location ? `<div class="schedule-location">${esc(location)}</div>` : ""}
           </div>`;
     })
     .join("\n          ");
 }
 
-/** Static fallback event cards — same markup as renderEvents() in src/main.ts. */
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+/**
+ * Static fallback event cards — same markup and "upcoming" rule as renderEvents()
+ * in src/main.ts, as of build day in the club's time zone.
+ */
 export function eventsFallback(t: Tenant): string {
-  return t.fallback.events
-    .map(
-      (e) => `<article class="event-card">
-            <div class="event-date"><span class="month">${esc(e.month)}</span><span class="day">${esc(e.day)}</span></div>
+  const day = (iso: string) => (/^\d{4}-\d{2}-\d{2}$/.test(iso) ? String(Number(iso.slice(8))) : "");
+  return upcomingEvents(t.fallback.events, todayIn(timeZone(t)))
+    .map((e) => {
+      const month = /^\d{4}-\d{2}/.test(e.date) ? MONTHS[Number(e.date.slice(5, 7)) - 1] ?? "" : "";
+      const days = e.endDate ? `${day(e.date)}-${day(e.endDate)}` : day(e.date);
+      const title = e.url
+        ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`
+        : esc(e.title);
+      return `<article class="event-card">
+            <div class="event-date"><span class="month">${esc(month)}</span><span class="day">${esc(days)}</span></div>
             <div class="event-info">
-              <h3>${esc(e.title)}</h3>
-              <p>${esc(e.detail)}</p>
+              <h3>${title}</h3>
+              <p>${esc(e.location)}${e.notes ? " &mdash; " + mdInline(e.notes) : ""}</p>
             </div>
-          </article>`
-    )
+          </article>`;
+    })
     .join("\n          ");
 }
 
@@ -212,6 +249,18 @@ export function copyright(t: Tenant): string {
 export function jsonLd(t: Tenant): string {
   const c = t.config;
   const recordsUrl = `${c.domain}/data/${c.teamCode}_all_records.json`;
+  const events = upcomingEvents(t.fallback.events, todayIn(timeZone(t)))
+    .filter((e) => /^\d{4}-\d{2}-\d{2}$/.test(e.date))
+    .map((e) => ({
+      "@type": "SportsEvent",
+      name: e.title,
+      startDate: e.date,
+      ...(e.endDate ? { endDate: e.endDate } : {}),
+      ...(e.location ? { location: { "@type": "Place", name: e.location } } : {}),
+      ...(e.url ? { url: e.url } : {}),
+      sport: "Swimming",
+    }));
+
   const data = {
     "@context": "https://schema.org",
     "@type": "SportsClub",
@@ -232,6 +281,7 @@ export function jsonLd(t: Tenant): string {
       url: "https://www.usms.org/",
     },
     sameAs: c.socials.filter((s) => s.sameAs).map((s) => s.url),
+    ...(events.length ? { event: events } : {}),
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: `${c.teamCode} Team Records`,
@@ -260,6 +310,8 @@ export function robotsTxt(t: Tenant): string {
 Allow: /
 Allow: /data/
 Allow: /api/records
+Allow: /api/content
+Allow: /openapi.json
 Disallow: /admin/
 Disallow: /api/
 
@@ -267,54 +319,74 @@ Sitemap: ${t.config.domain}/sitemap.xml
 `;
 }
 
+/**
+ * Every public page, home first: editor pages plus standalone static pages in
+ * public/ (currently /workouts/). Feeds the sitemap, llms.txt and data/site.json.
+ */
+export function sitePages(t: Tenant): SiteManifest["pages"] {
+  const c = t.config;
+  const [home, ...rest] = t.pages;
+  const pages: SiteManifest["pages"] = [
+    {
+      title: "Home",
+      path: "/",
+      description: home.description || "About the club, practice schedule, upcoming events, coaches, board and searchable team records",
+    },
+    ...rest.map((p) => ({ title: p.title, path: `/${p.slug}/`, ...(p.description ? { description: p.description } : {}) })),
+  ];
+  if (fs.existsSync(path.join(t.publicDir, "workouts", "index.html"))) {
+    pages.push({ title: "Sample Workouts", path: "/workouts/", description: `Sample ${c.shortName} practices` });
+  }
+  return pages;
+}
+
 export function sitemapXml(t: Tenant): string {
-  const pages = t.pages
-    .slice(1)
-    .map(
-      (p) => `
+  const urls = sitePages(t)
+    .map((p) => {
+      const home = p.path === "/";
+      return `
   <url>
-    <loc>${t.config.domain}/${p.slug}/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>`
-    )
+    <loc>${t.config.domain}${p.path}</loc>
+    <changefreq>${home ? "weekly" : "monthly"}</changefreq>
+    <priority>${home ? "1.0" : "0.7"}</priority>
+  </url>`;
+    })
     .join("");
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>${t.config.domain}/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>${pages}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}
 </urlset>
 `;
 }
 
-export function llmsTxt(t: Tenant): string {
+/** data/site.json: everything /api/content and the live /llms.txt need beyond the Sheet. */
+export function siteManifest(t: Tenant): SiteManifest {
   const c = t.config;
-  return `# ${c.name} (${c.teamCode})
+  const abs = (url: string) => (url.startsWith("/") ? c.domain + url : url);
+  return {
+    club: {
+      name: c.name,
+      shortName: c.shortName,
+      teamCode: c.teamCode,
+      lmsc: c.lmscName,
+      description: c.description,
+      website: c.domain,
+      pool: c.pool,
+      address: c.address,
+      socials: c.socials.map((s) => ({ label: s.label, url: abs(s.url) })),
+      documents: (c.documents ?? []).map((d) => ({ label: d.label, url: abs(d.url) })),
+    },
+    timeZone: timeZone(t),
+    sheetUrls: sheetUrls(c),
+    about: t.about,
+    scheduleNote: c.scheduleNote,
+    coaches: t.coaches.map((co) => ({ name: co.name, bio: co.bio })),
+    pages: sitePages(t),
+    fallback: t.fallback,
+  };
+}
 
-> ${c.description} This site provides team information, practice schedules, upcoming events, and a searchable database of team records (top times).
-
-Team code: ${c.teamCode}
-LMSC: ${c.lmscName}
-Pool: ${c.pool}, ${c.address.street}, ${c.address.city}, ${c.address.region} ${c.address.postalCode}
-
-## Data
-
-- [Data Index](${c.domain}/data/index.json): Machine-readable index describing all available datasets, their schemas, and download URLs
-- [All Team Records](${c.domain}/data/${c.teamCode}_all_records.json): JSON array of all ${c.teamCode} top times across every course (SCY/SCM/LCM), event, gender, and age group
-
-## Query API
-
-- [Records query](${c.domain}/api/records?event=50+free&course=scy&gender=women&best=true): \`GET /api/records\` returns only matching rows as JSON \`{team, query, total, count, records}\` — prefer it to downloading the full file. Parameters (all optional): \`event\` (distance and/or stroke, e.g. "50 free", "200 IM", "backstroke"), \`course\` (scy/scm/lcm), \`gender\` (men/women), \`ageGroup\` (e.g. 40-44) or \`age\` (e.g. 42), \`year\`, \`swimmer\` and \`meet\` (name substrings), \`best=true\` (only the fastest matching swim per event/course/gender/age group — the club record when no year is given; otherwise one row per season), \`limit\` (default 100, max 1000). Bad parameters return 400 with details.
-
-## Site
-
-- [Home](${c.domain}/): Main site with about info, practice schedule, upcoming events, coach bios, board members, and searchable team records
-${t.pages
-  .slice(1)
-  .map((p) => `- [${p.title}](${c.domain}/${p.slug}/)${p.description ? `: ${p.description}` : ""}\n`)
-  .join("")}- [Sitemap](${c.domain}/sitemap.xml): XML sitemap
-`;
+/** Static /llms.txt from the Sheet snapshot; the llms.txt Function serves a live version. */
+export function llmsTxt(t: Tenant): string {
+  const m = siteManifest(t);
+  return contentLlmsTxt(m, buildContent(m, m.fallback, "fallback", todayIn(m.timeZone)));
 }

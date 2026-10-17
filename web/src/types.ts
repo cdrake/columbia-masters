@@ -10,7 +10,7 @@ export interface SiteEvent {
 export interface ScheduleEntry {
   day: string;
   time: string;
-  type: string;
+  type?: string;
   location?: string;
 }
 

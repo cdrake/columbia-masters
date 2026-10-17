@@ -18,7 +18,9 @@ hatch shell
 # One-shot data refresh (ALL tenants: scrape current year, rebuild JSON + indexes)
 hatch run refresh
 hatch run refresh -- --tenant colm --full   # one club, all years from records.startYear
-hatch run refresh -- --skip-scrape          # indexes only, no network
+hatch run refresh -- --skip-scrape          # indexes only, no network (also skips the Sheet sync)
+hatch run refresh -- --skip-sheet           # scrape, but don't snapshot the Google Sheet
+hatch run sync-content                       # Sheet → content/fallback/*.json only (daily via sheet-sync.yml)
 
 # Nationwide paced crawl (every LMSC + club; resumes from data/usms/crawl_state.json)
 hatch run crawl                              # one slice; scheduled twice daily by usms-crawl.yml
@@ -58,12 +60,14 @@ Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenant
 - Page editor: `web/admin/index.html` + `web/src/admin/` (vanilla TS + SortableJS), served at `/admin/`. Production API is Cloudflare Pages Functions in `web/functions/api/admin/` (Access JWT check in `_middleware.ts`; `publish.ts` commits via GitHub Git Data API, 409 on conflicts). Setup steps: README "Editing the Site".
 - `web/src/themes/<id>.css` — design themes, CSS-only and scoped by `[data-theme]` (token block `:root[data-theme=…]` so it outranks style.css in any load order). Lane Line is plain style.css. The editor's Design gallery (`web/src/admin/design.ts`) previews them on the canvas.
 - `web/src/main.ts` — all runtime rendering; fetches records via `tenant.teamCode`, Sheet CSVs via `virtual:tenant` sheetUrls, gallery/locations index.json.
+- Agent content: `GET /api/content` (`web/functions/api/content.ts`) and the live `/llms.txt` (`web/functions/llms.txt.ts`) read the published Sheet (Cloudflare-cached 5 min) and fall back per tab to the snapshot in `data/site.json`; pure logic in `web/shared/content.ts`, Functions glue in `web/shared/content-function.ts`, dev routes in `tenant-plugin.ts`. The build also emits a static `llms.txt`, `openapi.json` and `data/site.json` (manifest: club info, pages, coaches, Sheet snapshot). `src/usms_scraper/sheet_sync.py` (stdlib only) writes the snapshot; its `normalize_tab` must stay in step with `normalizeTab` in content.ts. Keep Functions on their own routes — a root `functions/_middleware.ts` would bill every request against the free tier.
 - Public records query API: `GET /api/records` (`web/functions/api/records.ts`, logic in `web/shared/records.ts`, dev route in `tenant-plugin.ts`). Reads the deployed `data/index.json` → records file; documented for agents in llms.txt and index.json `api` (`_records_api` in cli.py). robots.txt allows it ahead of `Disallow: /api/`.
 
 ## Key Details
 
 - The Sheet `content` tab overrides baked-in HTML at runtime (keys: hero_sub, about_text, alert_message, location_info_<slug>, …) — template changes must keep those element ids.
-- Fallback schedule/events/board/faq in tenants/<slug>/content/fallback/ are intentional static/SEO content (rendered into HTML at build), replaced at runtime by Sheet data when available.
+- Fallback schedule/events/board/faq/content in tenants/<slug>/content/fallback/ are Sheet snapshots in Sheet-row shape (events use ISO `date`/`endDate`; schedule `type` is optional), written by `sync-content`/`refresh`. They are rendered into the static HTML at build (content.json's hero_sub/hero_tagline/about_text*/schedule_note override tenant.json/about.md) and replaced at runtime by live Sheet data. Hand edits get overwritten by the next sync — edit the Sheet instead.
+- Optional `timeZone` in tenant.json (default America/New_York) decides which events count as upcoming.
 - The `faq` Sheet tab is optional (gid lives at `sheet.gids.faq`); tenants without it just show the static fallback. See README.md "Adding the FAQ Tab" for setup.
 - `hatch run refresh` must stay idempotent: no-op when USMS has no new records and indexes are current.
 - USMS HTML parsing in `_parse_results_table()` is generic and may need adjustment when the site structure changes — check `ScraperConfig` URL patterns first.

@@ -1,9 +1,66 @@
 [
-  { "month": "Feb", "day": "7-8", "title": "Jerry Clark Sunbelt Meet", "detail": "Charlotte, NC" },
-  { "month": "Feb", "day": "27", "title": "SC State SCY Championships", "detail": "North Myrtle Beach, SC — Feb 27 – Mar 1" },
-  { "month": "Apr", "day": "3-4", "title": "USMS Open Water Nationals", "detail": "Sarasota, FL" },
-  { "month": "Apr", "day": "11", "title": "SC Senior Games", "detail": "North Charleston, SC" },
-  { "month": "Apr", "day": "30", "title": "USMS Spring Nationals", "detail": "Greensboro, NC — Apr 30 – May 3" },
-  { "month": "Jun", "day": "6", "title": "Beaufort River Swim", "detail": "Beaufort, SC — Open Water" },
-  { "month": "Aug", "day": "8", "title": "Cola Classic (LCM)", "detail": "Blatt Aquatic Center, Columbia, SC" }
+  {
+    "date": "2026-02-27",
+    "endDate": "2026-03-01",
+    "title": "SC State SCY Championships",
+    "location": "North Myrtle Beach, SC",
+    "notes": "Feb 27 – Mar 1",
+    "url": ""
+  },
+  {
+    "date": "2026-04-03",
+    "endDate": "2026-04-04",
+    "title": "USMS Open Water Nationals",
+    "location": "Sarasota, FL",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "date": "2026-04-11",
+    "endDate": "",
+    "title": "SC Senior Games",
+    "location": "North Charleston, SC",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "date": "2026-04-30",
+    "endDate": "2026-05-03",
+    "title": "USMS Spring Nationals",
+    "location": "Greensboro, NC",
+    "notes": "Apr 30 – May 3",
+    "url": ""
+  },
+  {
+    "date": "2026-06-06",
+    "endDate": "",
+    "title": "Beaufort River Swim",
+    "location": "Beaufort, SC",
+    "notes": "Open Water",
+    "url": ""
+  },
+  {
+    "date": "2026-06-20",
+    "endDate": "",
+    "title": "Augusta LCM Meet",
+    "location": "Augusta Aquatic Center, Augusta, GA",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "date": "2026-08-08",
+    "endDate": "",
+    "title": "Cola Classic (LCM)",
+    "location": "Blatt Aquatic Center, Columbia, SC",
+    "notes": "",
+    "url": "https://www.clubassistant.com/club/meet_information.cfm?c=1581&smid=22112"
+  },
+  {
+    "date": "2026-09-12",
+    "endDate": "",
+    "title": "Lake Murray Dam Swim",
+    "location": "1833 North Lake Drive, Lexington, SC 29072",
+    "notes": "Open Water 2.25 miles. This is not a USMS sanctioned event.",
+    "url": "https://www.lakemurraydamswim.org/"
+  }
 ]

@@ -1,0 +1,64 @@
+name: Sheet content sync
+
+# Snapshots every club's Google Sheet into tenants/<slug>/content/fallback/*.json once a
+# day, so the static HTML, JSON-LD, data/site.json and the fallback llms.txt follow the
+# Sheet. (Visitors and /api/content already read the Sheet live; this keeps what search
+# engines and no-JS agents see current.) Commits only when a snapshot actually changed,
+# and build watch paths limit the Pages rebuild to that club — a quiet day costs no build.
+#
+# Stdlib only: no pip install, no browser.
+
+on:
+  schedule:
+    - cron: "0 10 * * *" # ~6 AM Eastern
+  workflow_dispatch:
+    inputs:
+      tenant:
+        description: "Only this tenant slug (blank = all)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sheet-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Snapshot Sheets
+        env:
+          TENANT: ${{ inputs.tenant }}
+          PYTHONPATH: src
+        run: |
+          args=()
+          [ -n "$TENANT" ] && args+=(--tenant "$TENANT")
+          # Non-zero when a tab couldn't be read; the other tabs are still written.
+          python -m usms_scraper.sheet_sync "${args[@]}" || echo "::warning::Some Sheet tabs were unavailable; kept their last snapshot."
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- 'tenants/*/content/fallback' 'tenants/*/public/data/index.json'
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          clubs=$(git diff --cached --name-only | cut -d/ -f2 | sort -u | paste -sd, -)
+          git commit -m "Sheet sync: $clubs" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 10
+          done
+          exit 1

@@ -32,6 +32,8 @@ hatch run refresh -- --full          # re-scrape all years from each club's star
 hatch run refresh -- --skip-scrape   # only rebuild JSON + gallery/locations indexes
 ```
 
+`refresh` also snapshots each club's Google Sheet into `tenants/<slug>/content/fallback/` (`--skip-sheet` to skip it; `hatch run sync-content` does only that). The **Sheet content sync** GitHub workflow does the same once a day and commits only when the Sheet changed, so the static HTML that search engines and AI agents read stays current.
+
 Scraping is idempotent — CSVs are only rewritten when USMS shows new or changed records, and the transform/publish step is skipped when nothing changed. Then commit and push: every club's Pages project rebuilds from the same commit.
 
 Single-club update (same behavior the refresh loop uses):
@@ -109,6 +111,19 @@ To remove the alert, clear the `value` cell for `alert_message`.
 | `about_text_3` | Third paragraph |
 | `schedule_note` | Note displayed below the schedule grid |
 | `alert_message` | Site-wide alert banner (red bar at top) |
+
+## For AI Agents and Integrations
+
+Every club site describes itself for agents and scripts. Nothing here needs a key, and CORS is open:
+
+| URL | What it is |
+|-----|-----------|
+| `/llms.txt` | The club's current schedule, upcoming events, notice, coaches, board, FAQ and links as markdown, read live from the Sheet, plus API docs |
+| `/api/content` | The same information as JSON. `?section=schedule` (or club, alert, about, events, board, faq, coaches) returns one part; `?format=md` returns the markdown |
+| `/api/records` | Query the club's top times (see `llms.txt` for the parameters) |
+| `/openapi.json` | OpenAPI 3.1 description of both APIs (also linked from every page's `<head>` and `data/index.json`) |
+
+`/api/content` and `/llms.txt` read the Sheet through Cloudflare's cache (at most one Sheet fetch per tab every 5 minutes) and fall back to the last daily snapshot if the Sheet can't be read; the `source` field says which (`sheet`, `partial` or `fallback`). Only these routes and `/api/*` run Pages Functions, so ordinary page views never count toward the free tier's 100k requests/day.
 
 ## Editing the Site (Page Editor)
 

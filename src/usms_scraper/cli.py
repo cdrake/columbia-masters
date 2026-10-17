@@ -19,6 +19,7 @@ from .crawl import (
 )
 from .gallery import build_index, create_event_folder, init_from_records
 from .locations import build_index as build_locations_index, create_location_folder
+from .sheet_sync import agent_links, sync_index_links, sync_tenant
 from .scraper import scrape_team_records, ScraperConfig, USMSScraper, write_records_csv
 from .tenants import Tenant, load_tenant, load_tenants
 from .transformer import (
@@ -230,6 +231,7 @@ def _new_data_index(tenant: Tenant, record_count: int) -> dict:
             }
         ],
         "api": _records_api(tenant.domain),
+        **agent_links(tenant.domain),
         "source": "US Masters Swimming (usms.org) top times database",
     }
 
@@ -505,6 +507,13 @@ def cmd_refresh(args: argparse.Namespace) -> int:
             if tenant.locations_dir.exists():
                 _write_locations_index(tenant.locations_dir)
 
+            # Sheet → content/fallback/*.json (static HTML, JSON-LD, llms.txt). A Sheet
+            # outage keeps the last snapshot and doesn't fail the refresh.
+            if not (args.skip_scrape or args.skip_sheet):
+                sync_tenant(tenant)
+            else:
+                sync_index_links(tenant)
+
         except Exception as e:
             logging.error(f"  {tenant.slug} failed: {e}")
             failures.append(tenant.slug)
@@ -515,6 +524,13 @@ def cmd_refresh(args: argparse.Namespace) -> int:
         logging.error(f"Failed tenants: {', '.join(failures)}")
         return 1
     return 0
+
+
+def cmd_sync_content(args: argparse.Namespace) -> int:
+    """Snapshot the Google Sheet(s) into content/fallback/*.json; no-op when unchanged."""
+    from .sheet_sync import run
+
+    return run(args.tenant)
 
 
 def cmd_crawl(args: argparse.Namespace) -> int:
@@ -1021,6 +1037,11 @@ Examples:
         help="Skip scraping; only rebuild JSON and gallery/locations indexes",
     )
     refresh_parser.add_argument(
+        "--skip-sheet",
+        action="store_true",
+        help="Don't snapshot the Google Sheet into content/fallback/ (implied by --skip-scrape)",
+    )
+    refresh_parser.add_argument(
         "--courses",
         default="SCY,SCM,LCM",
         help="Comma-separated courses (default: SCY,SCM,LCM)",
@@ -1109,6 +1130,15 @@ Examples:
     )
     crawl_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     crawl_parser.set_defaults(func=cmd_crawl)
+
+    # Sync-content command (Sheet snapshot only; stdlib, see sheet_sync.py)
+    sync_parser = subparsers.add_parser(
+        "sync-content",
+        help="Snapshot each club's Google Sheet into tenants/<slug>/content/fallback/",
+    )
+    sync_parser.add_argument("--tenant", default=None, help="Only this tenant slug (default: all)")
+    sync_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    sync_parser.set_defaults(func=cmd_sync_content)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")

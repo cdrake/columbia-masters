@@ -1,26 +1,94 @@
 [
   {
-    "question": "Do I need to be fast or competitive to join?",
-    "answer": "Not at all. Our members range from fitness swimmers getting back in the water to nationally competitive athletes, across all age groups. Coached practices are structured so everyone can work at their own pace."
+    "question": "How do I join this team as a member?",
+    "answer": "Contact our team registrar, Mary Peyton Wall (mpwall10@gmail.com)."
   },
   {
-    "question": "What do I need before I can start practicing with COLM?",
-    "answer": "Two things: an active USMS membership (this provides insurance coverage for practice) and access to the Charles R. Drew Wellness Center, either through a Drew Center membership or a day pass at the front desk."
+    "question": "What is the financial commitment for members?",
+    "answer": "$175 annually to be a COLM member, which includes 1. COLM team membership dues = $100 annually or $10 monthly (Paid directly to the team). 2. USMS Registration = $75 annually (paid directly to USMS). From there, you'll need to factor in pool space. If you plan to join us for organized practices at the Drew Wellness Center, you'll need a Membership or Day Pass (Paid directly to the Drew). This ranges $198 - $304 (annually for an individual membership) or $3-$6 per day per individual (Day Pass). Prices for the Drew Wellness center vary by age, city residency, and workplace, but all options are generally a very good deals for a gym with a pool! See the Drew Wellness Center membership rates here: https://drewwellness.columbiasc.gov/membership/. If you already have access to a different Columbia-area pool, you can still be a member of COLM while practicing on your own! In those cases, you can join us for an occassional practice at Drew, using the Day Pass."
+  },
+  {
+    "question": "Do you offer a guest membership?",
+    "answer": "Yes. Contact our team registrar, Mary Peyton Wall (mpwall10@gmail.com). If you don't have an active USMS registration (with any team), you'll need a 30-day trial membership to USMS (can be for one (1) 30-day period per year)."
+  },
+  {
+    "question": "Do you offer adult swim lessons?",
+    "answer": "No. Our team is not designed to provide one-on-one learn-to-swim lessons. Our practices are designed to have multiple swimmers in a single lane, following group coaching instructions. You should already feel comfortable being fully submerged with your face in the water and be able to swim a few laps safely without equipment before joining our team."
+  },
+  {
+    "question": "What ages can participate in Masters?",
+    "answer": "Adults, 18 and older."
+  },
+  {
+    "question": "Do I need to be fast or competitive to be a COLM member or guest?",
+    "answer": "Not at all. Our members range from fitness swimmers getting back in the water to nationally competitive athletes, across all age groups. Coached practices are structured so everyone can work at their own pace, and our team has options for most abilities. If you have ever done recreational swimming laps or been on a swim team (e.g. summer league, high school, club, etc.), you’re a good fit. We typically have ~3 lanes reserved for practice, and each lane corresponds to a different skillset. Lane 1 = beginners or just re-starting (can swim a few laps without stopping, learning how to practice). Lane 2 = general fitness (can complete a 1 hour practice at a slower pace). Lane 3 = advanced training (often former high school, club, or collegiate experience). We occasionally offer special stroke and turn clinics to work on technique."
+  },
+  {
+    "question": "Do I need to know how to dive or do a flip turn to be a COLM member or guest?",
+    "answer": "No, but we can teach you if you want to learn!"
+  },
+  {
+    "question": "How much yardage do you clock at practice?",
+    "answer": "Most of our practices are designed to be 2000-2500 meters and last 1 hour (beginners will do less). We generally encourage quality over quantity of swimming and try to incorporate technique/drills, variable speed work, and aerobic swimming."
+  },
+  {
+    "question": "How many practices do I have to attend to be a COLM member?",
+    "answer": "There is no requirement. You choose your adventure. Come to 1. Come to 5. Swim half a practice. Take vacation. Take a few months off. It’s really your choice."
+  },
+  {
+    "question": "Will I have my own individual lane during swim practice?",
+    "answer": "No. You will be expected to circle swim and share the lane with your teammates."
+  },
+  {
+    "question": "Do I have to follow the coach’s practice, or can I do my own thing?",
+    "answer": "You must follow the coach’s practice when you are swimming in one of our reserved lanes during practice hours with a coach on deck. The Drew Wellness Center otherwise has regular open lap swimming time. You are always welcome to go swim on your own, outside of our practice hours. Many of our teammates do this since our normal practice hours are limited. There is usually a practice posted to the white board if you need inspiration. See the Drew Wellness Center open lap swimming schedule/hours here: https://drewwellness.columbiasc.gov/pool-schedule/."
+  },
+  {
+    "question": "Do I need a bunch of swimming equipment?",
+    "answer": "You’re not required to purchase swimming equipment, but it does make the training experience better and more fun. At a minimum, we suggest a training swimsuit (tighter fitting to minimize drag), goggles, and a swim cap (if you have longer hair). From there, you can choose to add a kickboard, paddles, buoy, snorkel, nose clip, and fins. The Drew Wellness Center does have some shared equipment that can be borrowed for free."
+  },
+  {
+    "question": "It’s been years since I last swam. Should I feel intimidated? Will I burn out?",
+    "answer": "Not at all. It is very common for Masters swimmers to return to the water after 10-20+ years away from the sport. Maybe you’ve been working on your career, raising a family, traveling, or trying new physical fitness endeavors. Maybe you got super burned out after competitive swimming as a young person. We get it. Many of us have the same journey. We’re glad you’ve considered rejoining the sport. Our team encourages you to go at your own pace. Train hard when you want. Take extended breaks when you need it. You can be part of the Masters swim community for the rest of your life!"
+  },
+  {
+    "question": "I would like to take my training more seriously and compete. What can you offer?",
+    "answer": "There are many on the team who compete regularly at the local, state, regional, and national level. Some do it just for fun to challenge themselves. Some are looking to break state records and get top 10 national times. Most local swim meets (within a 2-hr drive from Columbia) will have 5-10 teammates competing. Our coaches can help you work towards your goals, and you’re always welcome to swim on your own outside of our regular practices. Many do that when training for bigger competitions."
+  },
+  {
+    "question": "I don’t want to compete (or at least not right now). Is this team still a good fit for me?",
+    "answer": "Absolutely! We have many folks who don’t compete at all and some who are only interested in 1-2 events at local meets. You are encouraged but never required to compete. You can still get a lot of social interaction out of the swimming community, and we would love to have you volunteer at meets, if you’re interested."
+  },
+  {
+    "question": "What is a Masters swim meet like?",
+    "answer": "They’re fun! Truly, you see all abilities and ages from 18-90+ years old. Some meets will be mixed heats (both men & women of various age groups competing next to each other). Most of the scoring/results are by sex & age categories (e.g. Women 30-34, Men 55-59). Relays often get scored by the age of the youngest swimmer (e.g. if you have 4 people on the relay, ages 25, 65, 55, and 45 – you swim in the 25+ age group *or* the total ages will be added and put into categories (e.g. 160-199 years). Most meets cost ~ $60-$80 for registration. Some local meets are 1-day events. Some state/regional meets are 2-3 day events. There are a wide range of options and meet formats."
+  },
+  {
+    "question": "I’m interested in triathlon training. What can you offer?",
+    "answer": "We have many triathletes who swim with us. Depending on time of year and availability, some groups will get together for an unofficial open-water practice at a nearby lake. Though they are not formally affiliated with us, have you checked out the Cola Tri Club? https://runsignup.com/MemberOrg/ColaTriClub."
   },
   {
     "question": "Does COLM membership include access to the pool?",
-    "answer": "No. COLM membership and Drew Wellness Center access are separate. You'll need a Drew Center membership or day pass in addition to your USMS/COLM membership before you swim."
+    "answer": "No. COLM membership, USMS membership, and Drew Wellness Center access are all separate. The Drew Wellness Center is operated by the City of Columbia. You'll need a Drew Wellness Center membership or day pass to use the pool. The pricing is super reasonable, and they have been awesome to work with! Please support them. See membership and day pass rates here: https://drewwellness.columbiasc.gov/membership/."
   },
   {
-    "question": "How much does it cost to join?",
-    "answer": "Costs include your USMS membership (paid to USMS directly) and Drew Wellness Center access (membership or day pass, paid to the Drew). Reach out to a board member (see the Board & Leadership section above) for the latest on any team dues."
+    "question": "Why do I have to have a USMS membership?",
+    "answer": "U.S. Masters Swimming (USMS) provides the insurance coverage our club needs to be protected. Bonus: they have a wealth of great content for your swimming journey."
   },
   {
-    "question": "Where and when do you practice?",
-    "answer": "See the Practice Schedule section above for current days, times, and locations — schedules can shift with pool availability, so check back if it's been a while."
+    "question": "Where and when do you practice? What is the pool like?",
+    "answer": "See the Practice Schedule section for current days, times, and locations (subject to change pending pool and coaching availability). The Drew Wellness Center was newly renovated in July 2026. This indoor pool is 25 meters long, accomodates 8 lanes of swim, has a depth ranging from 3 to 8 feet, has diving blocks, and a saline generated filtration system. Locker rooms with showers are available on site."
   },
   {
     "question": "How do I stay up to date on team news and events?",
-    "answer": "Check the Upcoming Events section on this site, and ask a board member to add you to team email announcements."
+    "answer": "Join our team as a member to receive regular emails from our coaches and board members. Check the Upcoming Events section on this site. Follow our team on social media! @billssc_mastersswim @drew.swims."
+  },
+  {
+    "question": "If I mostly plan to swim on my own or can only make a few practices, is there a benefit to joining the team as a member?",
+    "answer": "We think so! You’ll get on our communications list and be in the know on social and swim events. You’ll have access to our coaching staff. You’ll have the ability to run for board positions and vote on important team issues/bylaws. You'll get any team swag we can offer to membership. You’ll be part of the swim community, and we can provide you a place to call “home” and connect with a smaller group of common-interest people - both in and out of the water! You may be surprised at the friendships you make and the networking opportunities you’ll have. You get out of it what you put into it, so you’re encouraged to get involved and connect with others. You’ll be a part of something greater than yourself! Swim people are great people!"
+  },
+  {
+    "question": "Can I swim under COLM for USMS meets without being a member?",
+    "answer": "Yes! If you’d like to swim under our team affiliation for a USMS meet, we’d love to welcome you! You’ll need to change your affiliation on your USMS account before registering for the meet. Whether you’re coming from out of town to visit family or friends or just looking for a team to compete with and join for relays, you’re welcome to swim meets with us. If you’d like to join us for an occasional practice, we have a guest drop-in option."
   }
 ]

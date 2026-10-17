@@ -390,7 +390,7 @@ function renderSchedule(entries: ScheduleEntry[]) {
       return `<div class="schedule-card">
         <div class="schedule-day">${esc(e.day)}</div>
         <div class="schedule-time">${esc(e.time)}</div>
-        <span class="badge ${badgeClass}">${esc(e.type)}</span>
+        ${e.type?.trim() ? `<span class="badge ${badgeClass}">${esc(e.type)}</span>` : ""}
         ${location ? `<div class="schedule-location">${esc(location)}</div>` : ""}
       </div>`;
     })
