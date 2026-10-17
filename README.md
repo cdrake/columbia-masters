@@ -148,6 +148,8 @@ Every club can choose a site template in the editor, much like picking a theme i
 
 ### One-time setup per club (Cloudflare dashboard)
 
+> Launching a whole new club, including the tenant files, the Sheet and `<slug>.swimclubs.org`? Follow [ONBOARDING.md](ONBOARDING.md).
+
 1. **Access application.** Go to Zero Trust → Access → Applications → *Self-hosted*. Add these hostnames/paths:
    - `<club-domain>/admin*`
    - `<club-domain>/api/admin/*`
