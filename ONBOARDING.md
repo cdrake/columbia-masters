@@ -102,6 +102,8 @@ In the Pages project → Settings → **Variables and secrets** (Production). Th
 
 - [ ] Deployments → ⋯ on the latest deploy → **Retry deployment**. Env vars only apply to new deploys.
 
+> **Renewing the token:** GitHub's **Regenerate token** resets the expiration to 30 days. Set it back to **Custom** (one year out) before regenerating. Then update `GITHUB_TOKEN` in every club's Pages project and retry each deployment. If the token is wrong or expired, `/admin/` shows "Can't open the editor (502)".
+
 ## 6. Verify
 
 - [ ] The new club's site loads over HTTPS: `curl -sI https://<slug>.swimclubs.org/` returns `200`.
