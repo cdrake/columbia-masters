@@ -21,6 +21,8 @@ export interface TeamRecord {
 }
 
 export interface RecordsQuery {
+  /** USMS club code (state sites hold every club's swims). */
+  team?: string;
   event?: { distance?: number; stroke?: string };
   course?: string;
   gender?: string;
@@ -41,7 +43,7 @@ export interface RecordsResponse {
   records: TeamRecord[];
 }
 
-export const PARAMS = ["event", "course", "gender", "ageGroup", "age", "year", "swimmer", "meet", "best", "limit"];
+export const PARAMS = ["team", "event", "course", "gender", "ageGroup", "age", "year", "swimmer", "meet", "best", "limit"];
 export const DEFAULT_LIMIT = 100;
 export const MAX_LIMIT = 1000;
 
@@ -107,6 +109,12 @@ export function parseQuery(params: URLSearchParams): { query: RecordsQuery } | {
 
   for (const key of params.keys()) {
     if (!PARAMS.includes(key)) errors.push(`unknown parameter "${key}" (allowed: ${PARAMS.join(", ")})`);
+  }
+
+  const team = get("team");
+  if (team) {
+    if (/^[A-Za-z0-9]{1,8}$/.test(team)) q.team = team.toUpperCase();
+    else errors.push(`team "${team}": use a USMS club code like COLM`);
   }
 
   const event = get("event");
@@ -178,6 +186,7 @@ function matchesEvent(event: string, want: NonNullable<RecordsQuery["event"]>): 
 export function queryRecords(records: TeamRecord[], q: RecordsQuery): { total: number; records: TeamRecord[] } {
   let rows = records.filter(
     (r) =>
+      (!q.team || r.team === q.team) &&
       (!q.event || matchesEvent(r.event, q.event)) &&
       (!q.course || r.course === q.course) &&
       (!q.gender || r.gender === q.gender) &&
@@ -190,10 +199,12 @@ export function queryRecords(records: TeamRecord[], q: RecordsQuery): { total: n
   if (q.best) {
     const fastest = new Map<string, TeamRecord>();
     for (const r of rows) {
-      const cur = fastest.get(r.id);
+      // Not r.id: it includes the team, and on a state site the best spans every club.
+      const key = `${r.course}|${r.event}|${r.gender}|${r.ageGroup}`;
+      const cur = fastest.get(key);
       // Ties go to the earlier swim — it set the record first.
       if (!cur || r.timeInSeconds < cur.timeInSeconds || (r.timeInSeconds === cur.timeInSeconds && r.year < cur.year)) {
-        fastest.set(r.id, r);
+        fastest.set(key, r);
       }
     }
     rows = [...fastest.values()];
@@ -221,7 +232,7 @@ export function describeQuery(q: RecordsQuery): Record<string, string> {
   if (q.event) {
     out.event = [q.event.distance, q.event.stroke].filter((v) => v !== undefined).join(" ");
   }
-  for (const k of ["course", "gender", "ageGroup", "year", "swimmer", "meet"] as const) {
+  for (const k of ["team", "course", "gender", "ageGroup", "year", "swimmer", "meet"] as const) {
     if (q[k]) out[k] = q[k]!;
   }
   out.best = String(q.best);

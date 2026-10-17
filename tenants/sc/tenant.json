@@ -31,5 +31,58 @@
   },
   "records": {
     "startYear": 2000
-  }
+  },
+  "clubs": [
+    {
+      "code": "COLM",
+      "name": "Columbia Masters",
+      "city": "Columbia",
+      "url": "https://columbiamastersswim.org"
+    },
+    {
+      "code": "PALM",
+      "name": "Palmetto Masters",
+      "city": "Mt. Pleasant & North Charleston",
+      "url": "https://palm.swimclubs.org"
+    },
+    {
+      "code": "GS",
+      "name": "Greenville Splash Masters",
+      "city": "Greenville",
+      "url": "https://gs.swimclubs.org"
+    },
+    {
+      "code": "GSMS",
+      "name": "Grand Strand Masters Swimming",
+      "city": "North Myrtle Beach",
+      "url": "https://gsms.swimclubs.org"
+    },
+    {
+      "code": "LOCO",
+      "name": "Lowcountry Masters Swimming",
+      "city": "Beaufort",
+      "url": "https://loco.swimclubs.org"
+    },
+    {
+      "code": "SCHH",
+      "name": "Sun City Hilton Head Masters",
+      "city": "Bluffton",
+      "url": "https://schh.swimclubs.org"
+    },
+    {
+      "code": "SMRT",
+      "name": "SMRT",
+      "url": "https://smrt.swimclubs.org"
+    },
+    {
+      "code": "UP",
+      "name": "UP",
+      "url": "https://up.swimclubs.org"
+    },
+    {
+      "code": "SCC",
+      "name": "South Carolina State Team",
+      "note": "Combined team for USMS Nationals"
+    }
+  ]
 }

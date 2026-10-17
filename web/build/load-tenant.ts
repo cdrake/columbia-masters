@@ -4,7 +4,7 @@ import matter from "gray-matter";
 import { Marked } from "marked";
 import { defaultHomePage, HOME_SLUG, validatePage, type Page } from "../shared/pages";
 import { validateSite, type SiteSettings } from "../shared/site";
-import { normalizeTab, type SheetData } from "../shared/content";
+import { normalizeTab, type ClubLink, type SheetData } from "../shared/content";
 
 const marked = new Marked();
 
@@ -44,6 +44,8 @@ export interface TenantConfig {
   images?: { accountHash: string };
   /** IANA zone for "upcoming" event filtering; defaults to America/New_York. */
   timeZone?: string;
+  /** State (lmsc) sites: member clubs, for the content API and llms.txt. */
+  clubs?: ClubLink[];
 }
 
 export interface Coach {

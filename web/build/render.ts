@@ -357,7 +357,11 @@ export function sitePages(t: Tenant): SiteManifest["pages"] {
     {
       title: "Home",
       path: "/",
-      description: home.description || "About the club, practice schedule, upcoming events, coaches, board and searchable team records",
+      description:
+        home.description ||
+        (isLmsc(t)
+          ? `About ${c.lmscName} Masters Swimming, its clubs, and searchable ${c.lmscName} records`
+          : "About the club, practice schedule, upcoming events, coaches, board and searchable team records"),
     },
     ...rest.map((p) => ({ title: p.title, path: `/${p.slug}/`, ...(p.description ? { description: p.description } : {}) })),
   ];
@@ -391,6 +395,7 @@ export function siteManifest(t: Tenant): SiteManifest {
   const abs = (url: string) => (url.startsWith("/") ? c.domain + url : url);
   return {
     club: {
+      ...(c.kind ? { kind: c.kind } : {}),
       name: c.name,
       shortName: c.shortName,
       teamCode: c.teamCode,
@@ -409,6 +414,7 @@ export function siteManifest(t: Tenant): SiteManifest {
     coaches: t.coaches.map((co) => ({ name: co.name, bio: co.bio })),
     pages: sitePages(t),
     fallback: t.fallback,
+    ...(c.clubs?.length ? { clubs: c.clubs } : {}),
   };
 }
 

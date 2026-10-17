@@ -55,7 +55,19 @@ export type SheetTab = (typeof SHEET_TABS)[number];
 
 // --- Build manifest (data/site.json) ---
 
+/** A member club listed by a state (LMSC) site. */
+export interface ClubLink {
+  code: string;
+  name: string;
+  city?: string;
+  /** Club website; absent when the club has no site yet. */
+  url?: string;
+  note?: string;
+}
+
 export interface ClubInfo {
+  /** "lmsc" = a state site whose records span every club; absent/"club" = one club. */
+  kind?: "club" | "lmsc";
   name: string;
   shortName: string;
   teamCode: string;
@@ -82,6 +94,8 @@ export interface SiteManifest {
   pages: { title: string; path: string; description?: string }[];
   /** Snapshot of the Sheet from content/fallback/. */
   fallback: SheetData;
+  /** State sites: the LMSC's clubs (from tenant.json clubs). */
+  clubs?: ClubLink[];
 }
 
 // --- API response ---
@@ -98,6 +112,8 @@ export interface ClubContent {
   board: BoardRow[];
   faq: FaqRow[];
   coaches: { name: string; bio: string }[];
+  /** State sites only: member clubs (empty for a club site). */
+  clubs: ClubLink[];
   /** Club-local date the event list was filtered against. */
   asOf: string;
   /** "sheet" = live Google Sheet; "fallback" = last snapshot; "partial" = some tabs from each. */
@@ -105,7 +121,7 @@ export interface ClubContent {
 }
 
 export const SECTIONS = [
-  "club", "alert", "about", "schedule", "events", "board", "faq", "coaches",
+  "club", "alert", "about", "schedule", "events", "board", "faq", "coaches", "clubs",
 ] as const;
 export type Section = (typeof SECTIONS)[number];
 
@@ -280,6 +296,7 @@ export function buildContent(
     board: data.board,
     faq: data.faq,
     coaches: manifest.coaches,
+    clubs: manifest.clubs ?? [],
     asOf: today,
     source,
   };
@@ -325,44 +342,66 @@ export function llmsTxt(m: SiteManifest, c: ClubContent): string {
   const club = m.club;
   const d = club.website;
   const a = club.address;
+  const state = club.kind === "lmsc";
   const out: string[] = [];
   out.push(`# ${club.name} (${club.teamCode})`, "");
   out.push(`> ${club.description}`, "");
   out.push(
-    `Current club information is below, read from the club's Google Sheet ${
-      c.source === "sheet" ? "(live)" : "(partly or wholly from the last saved copy)"
-    } as of ${c.asOf}. For structured data use \`GET ${d}/api/content\`; for swim times use \`GET ${d}/api/records\` (see API below).`,
+    state
+      ? `This is the US Masters Swimming site for the ${club.lmsc} LMSC (state), as of ${c.asOf}: its member clubs and ${club.lmsc} records across every club. For structured data use \`GET ${d}/api/content\` (\`section=clubs\` for the club list); for swim times use \`GET ${d}/api/records\` (see API below).`
+      : `Current club information is below, read from the club's Google Sheet ${
+          c.source === "sheet" ? "(live)" : "(partly or wholly from the last saved copy)"
+        } as of ${c.asOf}. For structured data use \`GET ${d}/api/content\`; for swim times use \`GET ${d}/api/records\` (see API below).`,
     ""
   );
   if (c.alert) out.push(`**Notice:** ${oneLine(c.alert)}`, "");
 
   out.push("## About", "");
-  out.push(`- Team code: ${club.teamCode} (US Masters Swimming)`);
+  if (!state) out.push(`- Team code: ${club.teamCode} (US Masters Swimming)`);
   out.push(`- LMSC: ${club.lmsc}`);
   if (club.pool) out.push(`- Pool: ${club.pool}, ${a.street}, ${a.city}, ${a.region} ${a.postalCode}`);
   out.push(`- Website: ${d}/`);
   out.push("");
   for (const p of c.about) out.push(oneLine(p), "");
 
-  out.push("## Practice schedule", "");
-  if (c.schedule.length) {
-    for (const s of c.schedule) {
-      const extra = [s.type, s.location].filter(Boolean).join(", ");
-      out.push(`- ${s.day}: ${s.time}${extra ? ` (${extra})` : ""}`);
+  if (c.clubs.length) {
+    out.push("## Clubs", "");
+    for (const k of c.clubs) {
+      const name = k.url ? `[${k.name}](${k.url})` : k.name;
+      const extra = [k.city, k.note].filter(Boolean).join(" — ");
+      out.push(`- ${name} (${k.code})${extra ? ` — ${extra}` : ""}`);
     }
-  } else out.push("- No practices are listed right now.");
-  if (c.scheduleNote) out.push("", oneLine(c.scheduleNote));
-  out.push("");
+    out.push(
+      "",
+      `To see the state-leading swims by one club's members, filter the records with \`team=<code>\`, e.g. [${d}/api/records?team=${c.clubs[0].code}&best=true](${d}/api/records?team=${c.clubs[0].code}&best=true). These are only swims that were the fastest in ${club.lmsc} that season; a club's full records are on its own site (\`/api/records\` there).`,
+      ""
+    );
+  }
 
-  out.push("## Upcoming events", "");
-  if (c.events.length) {
-    for (const e of c.events) {
-      const title = e.url ? `[${e.title}](${e.url})` : e.title;
-      const extra = [e.location, e.notes && oneLine(e.notes)].filter(Boolean).join(" — ");
-      out.push(`- ${formatEventDates(e)}: ${title}${extra ? ` — ${extra}` : ""}`);
-    }
-  } else out.push("- No upcoming events are listed right now.");
-  out.push("");
+  // A state site has no practices or events of its own (its clubs do); omit empty sections.
+  if (!state || c.schedule.length) {
+    out.push("## Practice schedule", "");
+    if (c.schedule.length) {
+      for (const s of c.schedule) {
+        const extra = [s.type, s.location].filter(Boolean).join(", ");
+        out.push(`- ${s.day}: ${s.time}${extra ? ` (${extra})` : ""}`);
+      }
+    } else out.push("- No practices are listed right now.");
+    if (c.scheduleNote) out.push("", oneLine(c.scheduleNote));
+    out.push("");
+  }
+
+  if (!state || c.events.length) {
+    out.push("## Upcoming events", "");
+    if (c.events.length) {
+      for (const e of c.events) {
+        const title = e.url ? `[${e.title}](${e.url})` : e.title;
+        const extra = [e.location, e.notes && oneLine(e.notes)].filter(Boolean).join(" — ");
+        out.push(`- ${formatEventDates(e)}: ${title}${extra ? ` — ${extra}` : ""}`);
+      }
+    } else out.push("- No upcoming events are listed right now.");
+    out.push("");
+  }
 
   if (c.coaches.length) {
     out.push("## Coaches", "");
@@ -391,15 +430,17 @@ export function llmsTxt(m: SiteManifest, c: ClubContent): string {
   out.push("## API", "");
   out.push(
     `- [OpenAPI spec](${d}/openapi.json): machine-readable description of both endpoints below.`,
-    `- [Club content](${d}/api/content): \`GET /api/content\` returns this page's information as JSON \`{club, alert, about, scheduleNote, schedule, events, board, faq, coaches, asOf, source}\`. Optional \`section\` (${SECTIONS.join(", ")}) returns just that part, e.g. [${d}/api/content?section=schedule](${d}/api/content?section=schedule). \`format=md\` returns this markdown. Events are only those that haven't ended; dates are YYYY-MM-DD.`,
-    `- [Records query](${d}/api/records?event=50+free&course=scy&gender=women&best=true): \`GET /api/records\` returns matching club top times as JSON \`{team, query, total, count, records}\` — prefer it to downloading the full file. Parameters (all optional): \`event\` (distance and/or stroke, e.g. "50 free", "200 IM", "backstroke"), \`course\` (scy/scm/lcm), \`gender\` (men/women), \`ageGroup\` (e.g. 40-44) or \`age\` (e.g. 42), \`year\`, \`swimmer\` and \`meet\` (name substrings), \`best=true\` (only the fastest matching swim per event/course/gender/age group — the club record when no year is given; otherwise one row per season), \`limit\` (default 100, max 1000). Bad parameters return 400 with details.`,
+    `- [Club content](${d}/api/content): \`GET /api/content\` returns this page's information as JSON \`{club, alert, about, scheduleNote, schedule, events, board, faq, coaches, ${state ? "clubs, " : ""}asOf, source}\`. Optional \`section\` (${SECTIONS.join(", ")}) returns just that part, e.g. [${d}/api/content?section=schedule](${d}/api/content?section=schedule). \`format=md\` returns this markdown. Events are only those that haven't ended; dates are YYYY-MM-DD.`,
+    `- [Records query](${d}/api/records?event=50+free&course=scy&gender=women&best=true): \`GET /api/records\` returns matching ${state ? `${club.lmsc} top times (each row is the fastest ${club.lmsc} swim that season; \`team\` is the swimmer's club)` : "club top times"} as JSON \`{team, query, total, count, records}\` — prefer it to downloading the full file. Parameters (all optional): ${state ? "\`team\` (club code, e.g. COLM), " : ""}\`event\` (distance and/or stroke, e.g. "50 free", "200 IM", "backstroke"), \`course\` (scy/scm/lcm), \`gender\` (men/women), \`ageGroup\` (e.g. 40-44) or \`age\` (e.g. 42), \`year\`, \`swimmer\` and \`meet\` (name substrings), \`best=true\` (only the fastest matching swim per event/course/gender/age group — the ${state ? "state" : "club"} record when no year is given; otherwise one row per season), \`limit\` (default 100, max 1000). Bad parameters return 400 with details.`,
     ""
   );
 
   out.push("## Data files", "");
   out.push(
     `- [Data index](${d}/data/index.json): datasets, schemas and download URLs`,
-    `- [All team records](${d}/data/${club.teamCode}_all_records.json): every ${club.teamCode} top time across SCY/SCM/LCM, events, genders and age groups`,
+    state
+      ? `- [All ${club.lmsc} records](${d}/data/${club.teamCode}_all_records.json): each season's fastest ${club.lmsc} swim across SCY/SCM/LCM, events, genders and age groups`
+      : `- [All team records](${d}/data/${club.teamCode}_all_records.json): every ${club.teamCode} top time across SCY/SCM/LCM, events, genders and age groups`,
     `- [Site manifest](${d}/data/site.json): club details, page list and the last saved copy of the Sheet content`,
     ""
   );
@@ -414,6 +455,7 @@ export function llmsTxt(m: SiteManifest, c: ClubContent): string {
 
 export function openApi(m: SiteManifest): object {
   const d = m.club.website;
+  const state = m.club.kind === "lmsc";
   const str = { type: "string" };
   const strings = (...keys: string[]) => Object.fromEntries(keys.map((k) => [k, str]));
   const record = {
@@ -427,7 +469,9 @@ export function openApi(m: SiteManifest): object {
     info: {
       title: `${m.club.name} API`,
       version: "1.0.0",
-      description: `Public, read-only data for ${m.club.name} (${m.club.teamCode}), a US Masters Swimming club. No authentication. CORS is open.`,
+      description: `Public, read-only data for ${m.club.name} (${m.club.teamCode}), ${
+        state ? `the US Masters Swimming site for ${m.club.lmsc} and its clubs` : "a US Masters Swimming club"
+      }. No authentication. CORS is open.`,
     },
     servers: [{ url: d }],
     paths: {
@@ -457,6 +501,7 @@ export function openApi(m: SiteManifest): object {
                       board: { type: "array", items: { type: "object", properties: strings("role", "name") } },
                       faq: { type: "array", items: { type: "object", properties: strings("question", "answer") } },
                       coaches: { type: "array", items: { type: "object", properties: strings("name", "bio") } },
+                      clubs: { type: "array", description: "State sites: member clubs", items: { type: "object", properties: strings("code", "name", "city", "url", "note"), required: ["code", "name"] } },
                       asOf: { type: "string", description: "YYYY-MM-DD" },
                       source: { type: "string", enum: ["sheet", "fallback", "partial"] },
                     },
@@ -472,9 +517,14 @@ export function openApi(m: SiteManifest): object {
       "/api/records": {
         get: {
           operationId: "queryRecords",
-          summary: "Club top times (team records) by event, course, gender, age group, year, swimmer or meet",
-          description: "Rows are each season's top club time per event/course/gender/age group. best=true keeps only the fastest matching swim per event/course/gender/age group (the club record when no year is given).",
+          summary: state
+            ? `${m.club.lmsc} top times (state records) by club, event, course, gender, age group, year, swimmer or meet`
+            : "Club top times (team records) by event, course, gender, age group, year, swimmer or meet",
+          description: state
+            ? `Rows are each season's fastest ${m.club.lmsc} swim per event/course/gender/age group; \`team\` is the swimmer's club. best=true keeps only the fastest matching swim per event/course/gender/age group (the state record when no year is given).`
+            : "Rows are each season's top club time per event/course/gender/age group. best=true keeps only the fastest matching swim per event/course/gender/age group (the club record when no year is given).",
           parameters: [
+            q("team", "USMS club code, e.g. COLM (useful on state sites, which hold every club's swims)"),
             q("event", 'Distance and/or stroke, e.g. "50 free", "200 IM", "backstroke"'),
             q("course", "Pool course", { type: "string", enum: ["scy", "scm", "lcm"] }),
             q("gender", "men or women", { type: "string", enum: ["men", "women"] }),
