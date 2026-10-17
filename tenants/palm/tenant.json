@@ -12,6 +12,26 @@
     "tagline": "A US Masters Swimming club for the Charleston area"
   },
   "pool": "Jones Recreation Center",
+  "pools": [
+    {
+      "name": "Jones Recreation Center",
+      "street": "391 Egypt Rd",
+      "city": "Mt. Pleasant",
+      "postalCode": "29464"
+    },
+    {
+      "name": "LTP Swimming",
+      "street": "1513 Mathis Ferry Rd",
+      "city": "Mt. Pleasant",
+      "postalCode": "29464"
+    },
+    {
+      "name": "North Charleston Aquatic Center",
+      "street": "8610 Patriot Blvd",
+      "city": "North Charleston",
+      "postalCode": "29420"
+    }
+  ],
   "address": {
     "street": "391 Egypt Rd",
     "city": "Mt. Pleasant",
@@ -21,15 +41,36 @@
   "scheduleNote": "USMS membership (or a 30-day trial membership) is required to swim with the team. Contact the club for current practice times.",
   "colors": {},
   "socials": [
-    { "label": "USMS Club Page", "url": "https://www.usms.org/clubs" },
-    { "label": "Facebook", "url": "https://www.facebook.com/palmetto.masters", "sameAs": true },
-    { "label": "Instagram @PALMUSMS", "url": "https://www.instagram.com/PALMUSMS", "sameAs": true },
-    { "label": "X @PALMUSMS", "url": "https://x.com/PALMUSMS", "sameAs": true }
+    {
+      "label": "USMS Club Page",
+      "url": "https://www.usms.org/clubs/palmetto-masters-542"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/palmetto.masters",
+      "sameAs": true
+    },
+    {
+      "label": "Instagram @PALMUSMS",
+      "url": "https://www.instagram.com/PALMUSMS",
+      "sameAs": true
+    },
+    {
+      "label": "X @PALMUSMS",
+      "url": "https://x.com/PALMUSMS",
+      "sameAs": true
+    }
   ],
   "documents": [],
   "sheet": {
-    "publishedId": "PENDING",
-    "gids": { "events": 0, "schedule": 1, "board": 2, "content": 3 }
+    "publishedId": "2PACX-1vSk7JILh2JEfdoM9hhU6sWQ4pQU47qfjIi8xWvIsT6s0MGDFuQ6QhyqlGiogC2LnKYrYq9e_1QwgtMc",
+    "gids": {
+      "events": 1280234863,
+      "schedule": 288118009,
+      "board": 468249369,
+      "content": 1886569122,
+      "faq": 2078914214
+    }
   },
   "records": {
     "startYear": 2002

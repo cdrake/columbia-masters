@@ -92,8 +92,12 @@ export function quickFacts(t: Tenant): string {
   return [
     `<dt>Team Code</dt><dd>${esc(c.teamCode)}</dd>`,
     `<dt>LMSC</dt><dd>${esc(c.lmscName)}</dd>`,
-    `<dt>Pool</dt><dd>${esc(c.pool)}</dd>`,
-    `<dt>Address</dt><dd>${esc(c.address.street)}<br>${esc(c.address.city)}, ${esc(c.address.region)} ${esc(c.address.postalCode)}</dd>`,
+    ...(c.pools && c.pools.length > 1
+      ? [`<dt>Pools</dt><dd>${c.pools.map((p) => `${esc(p.name)}, ${esc(p.city)}`).join("<br>")}</dd>`]
+      : [
+          `<dt>Pool</dt><dd>${esc(c.pool)}</dd>`,
+          `<dt>Address</dt><dd>${esc(c.address.street)}<br>${esc(c.address.city)}, ${esc(c.address.region)} ${esc(c.address.postalCode)}</dd>`,
+        ]),
   ].join("\n              ");
 }
 

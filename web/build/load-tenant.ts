@@ -29,6 +29,8 @@ export interface TenantConfig {
   description: string;
   hero: { sub: string; tagline: string };
   pool: string;
+  /** Optional: every practice pool (the first should match pool/address). */
+  pools?: { name: string; city: string; street?: string; postalCode?: string }[];
   address: { street: string; city: string; region: string; postalCode: string };
   scheduleNote: string;
   colors: Record<string, string>;

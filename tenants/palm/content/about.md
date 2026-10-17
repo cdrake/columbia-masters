@@ -2,4 +2,4 @@
 
 Members range from fitness swimmers and triathletes to nationally competitive athletes across all age groups. Whether you're returning to the pool after years away or training for your next championship meet, there's a lane for you.
 
-USMS membership (or a 30-day trial membership) is required to swim with the team.
+Practices are held at **Jones Recreation Center** and **LTP Swimming** in Mt. Pleasant and the **North Charleston Aquatic Center**. USMS membership (or a 30-day trial membership) is required to swim with the team.

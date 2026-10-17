@@ -109,7 +109,7 @@ function pageBody(t: Tenant, page: Page, partials: Record<SectionId, string>): s
   for (const b of visibleBlocks(page)) {
     const html =
       b.type === "section"
-        ? applyTemplate(partials[b.id], t, `sections/${b.id}.html`)
+        ? dropDeadSectionLinks(applyTemplate(partials[b.id], t, `sections/${b.id}.html`), t)
         : `    ${renderContentBlock(b, prev)}`;
     if (html.trim()) {
       parts.push(html);
@@ -148,7 +148,24 @@ export function composePage(
 
   // Body last, so admin-authored text is never scanned for markers/scalars.
   out = out.replace("<!-- tenant:page-nav -->", () => navLinks(t, page));
+  out = dropDeadSectionLinks(out, t);
   return out.replace("<!-- tenant:page-body -->", () => pageBody(t, page, partials));
+}
+
+/**
+ * Remove shell/hero links to home sections the layout hides (e.g. the hero's
+ * "Practice Schedule" button when there's no schedule section). Applied to the
+ * shell and built-in partials only, never to admin-authored content blocks.
+ */
+function dropDeadSectionLinks(html: string, t: Tenant): string {
+  const shown = new Set(
+    visibleBlocks(t.pages[0]).flatMap((b) => (b.type === "section" ? [b.id as string] : []))
+  );
+  const dead = SECTION_IDS.filter((id) => !shown.has(id)).join("|");
+  if (!dead) return html;
+  return html
+    .replace(new RegExp(`\\s*<li><a href="/?#(?:${dead})">[^<]*</a></li>`, "g"), "")
+    .replace(new RegExp(`\\s*<a href="/?#(?:${dead})" class="btn[^"]*">[^<]*</a>`, "g"), "");
 }
 
 /** Map a dev-server URL like /join/ to its page (home for anything unknown). */
