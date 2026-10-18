@@ -1,0 +1,606 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BLUE,50 M Freestyle,SCM,W,35-39,37.87,Cindy L Januszewski,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Freestyle,SCM,W,35-39,1:21.22,Cindy L Januszewski,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Breaststroke,SCM,W,35-39,1:43.22,Cindy L Januszewski,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Individual Medley,SCM,W,35-39,1:32.78,Cindy L Januszewski,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,200 M Individual Medley,SCM,W,35-39,3:19.96,Cindy L Januszewski,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Freestyle,SCM,W,45-49,2:16.77,Sue A Moucha,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,200 M Freestyle,SCM,W,45-49,4:37.01,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,400 M Freestyle,SCM,W,45-49,9:34.05,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,800 M Freestyle,SCM,W,45-49,19:58.45,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,100 M Backstroke,SCM,W,45-49,2:28.44,Sue A Moucha,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,200 M Backstroke,SCM,W,45-49,4:58.80,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,50 M Breaststroke,SCM,W,45-49,1:09.46,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,100 M Breaststroke,SCM,W,45-49,2:33.38,Sue A Moucha,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,200 M Breaststroke,SCM,W,45-49,5:20.24,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,100 M Butterfly,SCM,W,45-49,2:33.05,Sue A Moucha,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Individual Medley,SCM,W,45-49,2:27.72,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,200 M Individual Medley,SCM,W,45-49,4:59.56,Sue A Moucha,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,400 M Individual Medley,SCM,W,45-49,10:24.19,Sue A Moucha,,Holiday Classic,2005,1
+BLUE,50 M Freestyle,SCM,W,50-54,40.86,Elaine C Smith,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,50 M Backstroke,SCM,W,50-54,57.48,Elaine C Smith,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,50 M Breaststroke,SCM,W,50-54,53.15,Elaine C Smith,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Breaststroke,SCM,W,50-54,2:00.11,Elaine C Smith,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,50 M Butterfly,SCM,W,50-54,56.87,Elaine C Smith,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Freestyle,SCM,M,75-79,2:29.44,Keith Burbridge,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Backstroke,SCM,M,75-79,3:24.42,Keith Burbridge,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Breaststroke,SCM,M,75-79,2:46.14,Keith Burbridge,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Butterfly,SCM,M,75-79,3:25.56,Keith Burbridge,,St Pete Masters Developmental SCM Meet,2005,1
+BLUE,100 M Individual Medley,SCM,M,75-79,2:55.75,Keith Burbridge,,St Pete Masters Developmental SCM Meet,2005,1
+BMSC,50 M Freestyle,SCM,W,50-54,39.60,Laura J Gray,,St Pete Masters Developmental SCM Meet,2005,1
+BMSC,50 M Freestyle,SCM,M,35-39,30.17,Paul G Butcher,,St Pete Masters Developmental SCM Meet,2005,1
+BMSC,50 M Butterfly,SCM,M,35-39,32.40,Paul G Butcher,,St Pete Masters Developmental SCM Meet,2005,1
+BMSC,100 M Individual Medley,SCM,M,35-39,1:19.95,Paul G Butcher,,St Pete Masters Developmental SCM Meet,2005,1
+BMSC,50 M Freestyle,SCM,M,50-54,37.61,Larry Hinds,,St Pete Masters Developmental SCM Meet,2005,1
+BMSC,100 M Freestyle,SCM,M,50-54,1:38.70,Larry Hinds,,St Pete Masters Developmental SCM Meet,2005,1
+CCYA,50 M Freestyle,SCM,M,35-39,28.13,John H Wilkinson,,Holiday Classic,2005,1
+CCYA,50 M Backstroke,SCM,M,35-39,34.28,John H Wilkinson,,Holiday Classic,2005,1
+CCYA,50 M Breaststroke,SCM,M,35-39,38.70,John H Wilkinson,,Holiday Classic,2005,1
+CCYA,50 M Butterfly,SCM,M,35-39,31.95,John H Wilkinson,,Holiday Classic,2005,1
+CCYA,100 M Individual Medley,SCM,M,35-39,1:15.37,John H Wilkinson,,Holiday Classic,2005,1
+CCYA,200 M Individual Medley,SCM,M,35-39,2:55.10,John H Wilkinson,,Holiday Classic,2005,1
+CCYA,50 M Freestyle,SCM,M,60-64,31.54,William S Wallace,,Holiday Classic,2005,1
+CCYA,100 M Freestyle,SCM,M,60-64,1:16.27,William S Wallace,,Holiday Classic,2005,1
+CCYA,50 M Backstroke,SCM,M,60-64,39.91,William S Wallace,,Holiday Classic,2005,1
+CCYA,50 M Breaststroke,SCM,M,60-64,41.87,William S Wallace,,Holiday Classic,2005,1
+CCYA,100 M Breaststroke,SCM,M,60-64,1:34.73,William S Wallace,,Holiday Classic,2005,1
+CCYA,200 M Breaststroke,SCM,M,60-64,3:32.45,William S Wallace,,Holiday Classic,2005,1
+CCYA,50 M Butterfly,SCM,M,60-64,39.92,William S Wallace,,Holiday Classic,2005,1
+CCYA,100 M Individual Medley,SCM,M,60-64,1:25.81,William S Wallace,,Holiday Classic,2005,1
+CCYA,50 M Backstroke,SCM,M,80-84,56.30,James L Hiers,,Holiday Classic,2005,1
+CCYA,100 M Backstroke,SCM,M,80-84,2:07.23,James L Hiers,,Holiday Classic,2005,1
+CCYA,200 M Backstroke,SCM,M,80-84,4:37.64,James L Hiers,,Holiday Classic,2005,1
+CFM,100 M Individual Medley,SCM,M,55-59,1:23.21,Dane C Griffin,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,W,30-34,30.75,Katherine M Cook,,Holiday Classic,2005,1
+FACT,200 M Freestyle,SCM,W,30-34,2:12.21,Melissa D Varlas,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,W,30-34,4:34.55,Melissa D Varlas,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,30-34,33.17,Melissa D Varlas,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,200 M Backstroke,SCM,W,30-34,2:29.62,Melissa D Varlas,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,W,30-34,31.15,Melissa D Varlas,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Butterfly,SCM,W,30-34,36.25,Katherine M Cook,,Holiday Classic,2005,2
+FACT,100 M Butterfly,SCM,W,30-34,1:05.24,Melissa D Varlas,,Holiday Classic,2005,1
+FACT,200 M Butterfly,SCM,W,30-34,2:24.52,Melissa D Varlas,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,30-34,1:20.53,Katherine M Cook,,Holiday Classic,2005,1
+FACT,200 M Individual Medley,SCM,W,30-34,2:35.45,Melissa D Varlas,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,200 M Freestyle,SCM,W,35-39,2:26.18,Annmarie Guglielmi,,Holiday Classic,2005,1
+FACT,100 M Backstroke,SCM,W,35-39,1:17.61,Linda Visser,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,W,35-39,38.79,Linda Visser,,Holiday Classic,2005,1
+FACT,100 M Breaststroke,SCM,W,35-39,1:20.33,Linda Visser,,Holiday Classic,2005,1
+FACT,200 M Breaststroke,SCM,W,35-39,2:53.86,Linda Visser,,Holiday Classic,2005,1
+FACT,200 M Breaststroke,SCM,W,35-39,3:01.13,Annmarie Guglielmi,,Holiday Classic,2005,2
+FACT,50 M Butterfly,SCM,W,35-39,32.27,Linda Visser,,Holiday Classic,2005,1
+FACT,100 M Butterfly,SCM,W,35-39,1:13.49,Linda Visser,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,35-39,1:13.69,Linda Visser,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,35-39,1:16.40,Annmarie Guglielmi,,Holiday Classic,2005,2
+FACT,200 M Individual Medley,SCM,W,35-39,2:36.84,Linda Visser,,Holiday Classic,2005,1
+FACT,400 M Individual Medley,SCM,W,35-39,5:43.30,Annmarie Guglielmi,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,W,40-44,30.76,Holly A Vaughn,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,W,40-44,32.47,Jill D Johnson,,Holiday Classic,2005,2
+FACT,50 M Freestyle,SCM,W,40-44,42.10,Daryl E Laroche,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Freestyle,SCM,W,40-44,1:12.04,Jill D Johnson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,W,40-44,1:43.02,Daryl E Laroche,,Holiday Classic,2005,2
+FACT,200 M Freestyle,SCM,W,40-44,2:36.50,Jill D Johnson,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,W,40-44,5:26.89,Jill D Johnson,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,40-44,37.25,Paige E Dean,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,40-44,39.70,Jill D Johnson,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Backstroke,SCM,W,40-44,54.56,Daryl E Laroche,,Holiday Classic,2005,3
+FACT,100 M Backstroke,SCM,W,40-44,1:21.74,Paige E Dean,,Holiday Classic,2005,1
+FACT,100 M Backstroke,SCM,W,40-44,1:26.38,Jill D Johnson,,Holiday Classic,2005,2
+FACT,200 M Backstroke,SCM,W,40-44,3:04.88,Paige E Dean,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,W,40-44,36.86,Holly A Vaughn,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,W,40-44,43.65,Jill D Johnson,,Holiday Classic,2005,2
+FACT,50 M Breaststroke,SCM,W,40-44,1:02.59,Daryl E Laroche,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Breaststroke,SCM,W,40-44,1:20.83,Holly A Vaughn,,Holiday Classic,2005,1
+FACT,200 M Breaststroke,SCM,W,40-44,3:01.12,Holly A Vaughn,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,W,40-44,1:01.48,Daryl E Laroche,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Butterfly,SCM,W,40-44,2:14.50,Daryl E Laroche,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,40-44,1:16.25,Holly A Vaughn,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,40-44,1:22.39,Jill D Johnson,,Holiday Classic,2005,2
+FACT,100 M Individual Medley,SCM,W,40-44,1:24.66,Paige E Dean,,Holiday Classic,2005,3
+FACT,100 M Individual Medley,SCM,W,40-44,2:02.07,Daryl E Laroche,,St Pete Masters Developmental SCM Meet,2005,4
+FACT,200 M Individual Medley,SCM,W,40-44,3:02.85,Jill D Johnson,,Holiday Classic,2005,1
+FACT,200 M Individual Medley,SCM,W,40-44,4:21.63,Daryl E Laroche,,Holiday Classic,2005,2
+FACT,50 M Freestyle,SCM,W,45-49,33.45,Cynthia H Lasher,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,W,45-49,1:16.06,Cynthia H Lasher,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Breaststroke,SCM,W,45-49,1:39.67,Cynthia H Lasher,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Individual Medley,SCM,W,45-49,1:29.43,Cynthia H Lasher,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,W,50-54,30.57,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,W,50-54,36.69,Clara E Beron,,Holiday Classic,2005,2
+FACT,50 M Freestyle,SCM,W,50-54,54.78,Anne Laroche,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Freestyle,SCM,W,50-54,1:07.60,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,100 M Freestyle,SCM,W,50-54,1:21.54,Clara E Beron,,Holiday Classic,2005,2
+FACT,200 M Freestyle,SCM,W,50-54,2:29.98,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,200 M Freestyle,SCM,W,50-54,2:59.10,Clara E Beron,,Holiday Classic,2005,2
+FACT,400 M Freestyle,SCM,W,50-54,5:15.84,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,W,50-54,6:07.82,Clara E Beron,,Holiday Classic,2005,2
+FACT,800 M Freestyle,SCM,W,50-54,12:03.37,Clara E Beron,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,50-54,37.99,Maureen C Hughes,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,50-54,1:09.97,Anne Laroche,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Breaststroke,SCM,W,50-54,40.40,Deb W Walker,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Breaststroke,SCM,W,50-54,1:17.78,Anne Laroche,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Breaststroke,SCM,W,50-54,1:29.48,Deb W Walker,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Butterfly,SCM,W,50-54,34.89,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,W,50-54,1:14.24,Anne Laroche,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Butterfly,SCM,W,50-54,1:19.16,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,100 M Butterfly,SCM,W,50-54,2:38.12,Anne Laroche,,Holiday Classic,2005,2
+FACT,200 M Butterfly,SCM,W,50-54,3:08.08,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,50-54,1:20.31,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,W,50-54,2:24.97,Anne Laroche,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,200 M Individual Medley,SCM,W,50-54,2:52.46,Pat A Sargeant,,Holiday Classic,2005,1
+FACT,200 M Individual Medley,SCM,W,50-54,5:04.74,Anne Laroche,,Holiday Classic,2005,2
+FACT,50 M Freestyle,SCM,W,55-59,37.33,Barbara E Goltz,,St Nick's SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,W,55-59,1:21.71,Barbara E Goltz,,St Nick's SCM Meet,2005,1
+FACT,200 M Freestyle,SCM,W,55-59,2:56.32,Barbara E Goltz,,St Nick's SCM Meet,2005,1
+FACT,400 M Freestyle,SCM,W,55-59,5:36.58,Meredith A Moore,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,W,55-59,6:14.19,Barbara E Goltz,,St Nick's SCM Meet,2005,2
+FACT,800 M Freestyle,SCM,W,55-59,11:22.83,Meredith A Moore,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,55-59,40.67,Meredith A Moore,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,W,55-59,46.99,Barbara E Goltz,,St Nick's SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,W,55-59,1:40.08,Barbara E Goltz,,St Nick's SCM Meet,2005,1
+FACT,200 M Backstroke,SCM,W,55-59,3:10.99,Meredith A Moore,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,W,55-59,44.31,Meegan J Wilson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Breaststroke,SCM,W,55-59,47.37,Barbara E Goltz,,St Nick's SCM Meet,2005,2
+FACT,100 M Breaststroke,SCM,W,55-59,1:35.31,Meegan J Wilson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Butterfly,SCM,W,55-59,40.52,Meegan J Wilson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Butterfly,SCM,W,55-59,1:36.88,Meegan J Wilson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Individual Medley,SCM,W,55-59,1:32.45,Meegan J Wilson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,W,60-64,47.43,Kathleen O'Leary,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,W,60-64,1:00.17,Irmela Klimach,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Freestyle,SCM,W,60-64,1:52.99,Patricia L McIntosh,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,W,60-64,1:54.76,Dianne D Castle,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Freestyle,SCM,W,60-64,2:04.14,Kathleen O'Leary,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,50 M Backstroke,SCM,W,60-64,51.86,Susan G Schuerman,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Backstroke,SCM,W,60-64,59.60,Kathleen O'Leary,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,W,60-64,2:01.11,Susan G Schuerman,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Backstroke,SCM,W,60-64,2:17.39,Kathleen O'Leary,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Breaststroke,SCM,W,60-64,59.72,Irmela Klimach,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Breaststroke,SCM,W,60-64,1:02.14,Dianne D Castle,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Breaststroke,SCM,W,60-64,2:14.01,Irmela Klimach,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Breaststroke,SCM,W,60-64,2:16.75,Patricia L McIntosh,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Butterfly,SCM,W,60-64,58.97,Susan G Schuerman,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Butterfly,SCM,W,60-64,1:00.95,Patricia L McIntosh,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Butterfly,SCM,W,60-64,1:02.20,Dianne D Castle,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Butterfly,SCM,W,60-64,2:29.57,Patricia L McIntosh,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Individual Medley,SCM,W,60-64,2:11.35,Susan G Schuerman,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,200 M Individual Medley,SCM,W,60-64,4:30.26,Patricia L McIntosh,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,200 M Individual Medley,SCM,W,60-64,4:52.19,Susan G Schuerman,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Freestyle,SCM,W,65-69,42.49,Martha J Gutfran,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,W,65-69,47.76,Martha J Henderson,,Huntsman World Senior Games,2005,2
+FACT,100 M Freestyle,SCM,W,65-69,1:42.26,Martha J Gutfran,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,W,65-69,2:13.79,Helen L Vetter,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,200 M Freestyle,SCM,W,65-69,4:10.05,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,50 M Backstroke,SCM,W,65-69,56.69,Martha J Gutfran,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Backstroke,SCM,W,65-69,57.05,Martha J Henderson,,Huntsman World Senior Games,2005,2
+FACT,50 M Backstroke,SCM,W,65-69,1:05.93,Helen L Vetter,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Backstroke,SCM,W,65-69,2:04.64,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,100 M Backstroke,SCM,W,65-69,2:12.97,Martha J Gutfran,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Breaststroke,SCM,W,65-69,1:09.53,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,50 M Butterfly,SCM,W,65-69,56.33,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,100 M Butterfly,SCM,W,65-69,2:13.06,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,100 M Butterfly,SCM,W,65-69,2:33.76,Helen L Vetter,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Individual Medley,SCM,W,65-69,2:07.68,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,100 M Individual Medley,SCM,W,65-69,2:40.84,Helen L Vetter,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,200 M Individual Medley,SCM,W,65-69,4:29.47,Martha J Henderson,,Huntsman World Senior Games,2005,1
+FACT,100 M Freestyle,SCM,W,75-79,1:59.56,Joan K Campbell,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,W,75-79,2:03.74,Edna B Gordon,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,W,75-79,2:16.28,Joan K Campbell,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Backstroke,SCM,W,75-79,2:27.56,Edna B Gordon,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Butterfly,SCM,W,75-79,2:36.50,Joan K Campbell,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Individual Medley,SCM,W,75-79,2:18.34,Joan K Campbell,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,M,30-34,29.34,Brodie Hynes,,Holiday Classic,2005,1
+FACT,100 M Freestyle,SCM,M,30-34,1:04.27,Brodie Hynes,,Holiday Classic,2005,1
+FACT,800 M Freestyle,SCM,M,30-34,11:03.46,Brodie Hynes,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,30-34,30.33,Brodie Hynes,,Holiday Classic,2005,1
+FACT,100 M Butterfly,SCM,M,30-34,1:09.16,Brodie Hynes,,Holiday Classic,2005,1
+FACT,200 M Butterfly,SCM,M,30-34,3:00.78,Brodie Hynes,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,30-34,1:16.89,Brodie Hynes,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,M,35-39,28.23,Jay R Lockaby,,Holiday Classic,2005,1
+FACT,100 M Backstroke,SCM,M,35-39,1:01.95,Jay R Lockaby,,Holiday Classic,2005,1
+FACT,200 M Backstroke,SCM,M,35-39,2:18.13,Jay R Lockaby,,Holiday Classic,2005,1
+FACT,200 M Butterfly,SCM,M,35-39,2:18.39,Jay R Lockaby,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,35-39,1:04.28,Jay R Lockaby,,Holiday Classic,2005,1
+FACT,400 M Individual Medley,SCM,M,35-39,5:11.36,Jay R Lockaby,,Holiday Classic,2005,1
+FACT,200 M Freestyle,SCM,M,40-44,2:19.41,John M Keen,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,M,40-44,5:04.61,John M Keen,,Holiday Classic,2005,1
+FACT,800 M Freestyle,SCM,M,40-44,10:45.65,John M Keen,,Holiday Classic,2005,1
+FACT,200 M Breaststroke,SCM,M,40-44,2:41.72,Steve W Grossman,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,40-44,33.47,John M Keen,,Holiday Classic,2005,1
+FACT,400 M Individual Medley,SCM,M,40-44,5:34.01,Steve W Grossman,,Holiday Classic,2005,1
+FACT,100 M Freestyle,SCM,M,45-49,1:04.83,Gary W Zarkis,,Holiday Classic,2005,1
+FACT,200 M Freestyle,SCM,M,45-49,2:04.41,Mark A Drennen,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,M,45-49,4:20.85,Mark A Drennen,,Holiday Classic,2005,1
+FACT,800 M Freestyle,SCM,M,45-49,8:59.81,Mark A Drennen,,Holiday Classic,2005,1
+FACT,1500 M Freestyle,SCM,M,45-49,17:23.76,Mark A Drennen,,St Nick's SCM Meet,2005,1
+FACT,50 M Breaststroke,SCM,M,45-49,33.80,Mark A Drennen,,Holiday Classic,2005,1
+FACT,200 M Breaststroke,SCM,M,45-49,2:38.83,Mark A Drennen,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,45-49,30.78,Gary W Zarkis,,Holiday Classic,2005,1
+FACT,100 M Butterfly,SCM,M,45-49,1:10.46,Gary W Zarkis,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,45-49,1:07.07,Mark A Drennen,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,45-49,1:13.11,Gary W Zarkis,,Holiday Classic,2005,2
+FACT,200 M Individual Medley,SCM,M,45-49,2:23.04,Mark A Drennen,,Holiday Classic,2005,1
+FACT,400 M Individual Medley,SCM,M,45-49,4:59.97,Mark A Drennen,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,M,50-54,29.15,Timothy J Carroll,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,M,50-54,29.16,Cliff M Patterson,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Freestyle,SCM,M,50-54,29.31,Steven L Whitney,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,50 M Freestyle,SCM,M,50-54,36.78,Paul Plackis,,St Pete Masters Developmental SCM Meet,2005,4
+FACT,100 M Freestyle,SCM,M,50-54,59.86,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,100 M Freestyle,SCM,M,50-54,1:05.47,Cliff M Patterson,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Freestyle,SCM,M,50-54,1:12.38,Steven L Whitney,,Holiday Classic,2005,3
+FACT,100 M Freestyle,SCM,M,50-54,1:30.37,Paul Plackis,,St Pete Masters Developmental SCM Meet,2005,4
+FACT,200 M Freestyle,SCM,M,50-54,2:23.32,Robert W Davie,,IGLA Championships,2005,1
+FACT,400 M Freestyle,SCM,M,50-54,5:12.87,Robert W Davie,,IGLA Championships,2005,1
+FACT,800 M Freestyle,SCM,M,50-54,10:55.60,Robert W Davie,,IGLA Championships,2005,1
+FACT,1500 M Freestyle,SCM,M,50-54,21:17.79,Robert W Davie,,IGLA Championships,2005,1
+FACT,50 M Backstroke,SCM,M,50-54,33.01,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,M,50-54,34.75,Cliff M Patterson,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Backstroke,SCM,M,50-54,40.79,Steven L Whitney,,Holiday Classic,2005,3
+FACT,100 M Backstroke,SCM,M,50-54,1:10.04,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,200 M Backstroke,SCM,M,50-54,2:28.31,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,M,50-54,42.66,Paul Plackis,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,M,50-54,43.82,Steven L Whitney,,Holiday Classic,2005,2
+FACT,100 M Breaststroke,SCM,M,50-54,1:41.17,Paul Plackis,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,200 M Breaststroke,SCM,M,50-54,3:52.35,Paul Plackis,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,50-54,27.84,Kevin M McCormack,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,50-54,29.73,Thomas G Bliss,,Holiday Classic,2005,2
+FACT,50 M Butterfly,SCM,M,50-54,30.78,Cliff M Patterson,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,50 M Butterfly,SCM,M,50-54,31.61,Timothy J Carroll,,St Pete Masters Developmental SCM Meet,2005,4
+FACT,50 M Butterfly,SCM,M,50-54,33.10,Robert W Davie,,IGLA Championships,2005,5
+FACT,50 M Butterfly,SCM,M,50-54,35.64,Steven L Whitney,,Holiday Classic,2005,6
+FACT,100 M Butterfly,SCM,M,50-54,1:03.00,Kevin M McCormack,,Holiday Classic,2005,1
+FACT,100 M Butterfly,SCM,M,50-54,1:31.79,Steven L Whitney,,Holiday Classic,2005,2
+FACT,200 M Butterfly,SCM,M,50-54,2:38.48,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,50-54,1:08.98,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,50-54,1:23.74,Steven L Whitney,,Holiday Classic,2005,2
+FACT,100 M Individual Medley,SCM,M,50-54,1:39.12,Paul Plackis,,Holiday Classic,2005,3
+FACT,200 M Individual Medley,SCM,M,50-54,2:27.06,Thomas G Bliss,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,M,55-59,27.39,Glenn C Woodsum,,St Nick's SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,M,55-59,29.22,Rick B Walker,,Holiday Classic,2005,2
+FACT,50 M Freestyle,SCM,M,55-59,30.53,James P Redic,,St Nick's SCM Meet,2005,3
+FACT,50 M Freestyle,SCM,M,55-59,31.90,Randy Magin,,Holiday Classic,2005,4
+FACT,100 M Freestyle,SCM,M,55-59,1:00.37,Glenn C Woodsum,,St Nick's SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,M,55-59,1:10.17,James P Redic,,St Nick's SCM Meet,2005,2
+FACT,200 M Freestyle,SCM,M,55-59,2:13.52,Rick B Walker,,Holiday Classic,2005,1
+FACT,200 M Freestyle,SCM,M,55-59,2:20.55,Glenn C Woodsum,,St Nick's SCM Meet,2005,2
+FACT,200 M Freestyle,SCM,M,55-59,2:38.75,Randy Magin,,Holiday Classic,2005,3
+FACT,400 M Freestyle,SCM,M,55-59,5:44.97,Randy Magin,,Holiday Classic,2005,1
+FACT,800 M Freestyle,SCM,M,55-59,9:42.09,Rick B Walker,,Holiday Classic,2005,1
+FACT,800 M Freestyle,SCM,M,55-59,12:10.88,Randy Magin,,Holiday Classic,2005,2
+FACT,50 M Backstroke,SCM,M,55-59,37.25,Randy Magin,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,M,55-59,38.77,David W Castle,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,M,55-59,1:22.69,Randy Magin,,Holiday Classic,2005,1
+FACT,200 M Backstroke,SCM,M,55-59,3:14.44,Randy Magin,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,M,55-59,35.47,Rick B Walker,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,M,55-59,36.19,Rudy J Vazmina,,Holiday Classic,2005,2
+FACT,50 M Breaststroke,SCM,M,55-59,38.92,James P Redic,,Holiday Classic,2005,3
+FACT,100 M Breaststroke,SCM,M,55-59,1:17.05,Rick B Walker,,Holiday Classic,2005,1
+FACT,100 M Breaststroke,SCM,M,55-59,1:19.65,Rudy J Vazmina,,Holiday Classic,2005,2
+FACT,100 M Breaststroke,SCM,M,55-59,1:23.45,James P Redic,,Holiday Classic,2005,3
+FACT,200 M Breaststroke,SCM,M,55-59,2:52.21,Rick B Walker,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,55-59,30.04,Rudy J Vazmina,,Holiday Classic,2005,1
+FACT,50 M Butterfly,SCM,M,55-59,33.68,James P Redic,,St Nick's SCM Meet,2005,2
+FACT,100 M Butterfly,SCM,M,55-59,1:11.73,Rudy J Vazmina,,Holiday Classic,2005,1
+FACT,100 M Butterfly,SCM,M,55-59,1:25.50,James P Redic,,Holiday Classic,2005,2
+FACT,100 M Individual Medley,SCM,M,55-59,1:13.48,Rudy J Vazmina,,Holiday Classic,2005,1
+FACT,100 M Individual Medley,SCM,M,55-59,1:21.17,James P Redic,,St Nick's SCM Meet,2005,2
+FACT,50 M Freestyle,SCM,M,60-64,30.07,Jan Soderstrom,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,M,60-64,31.16,Dick Brewer,,Holiday Classic,2005,2
+FACT,50 M Freestyle,SCM,M,60-64,34.73,David G Gibson,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,50 M Freestyle,SCM,M,60-64,37.61,Rick Trevison,,St Pete Masters Developmental SCM Meet,2005,4
+FACT,100 M Freestyle,SCM,M,60-64,1:10.57,Jan Soderstrom,,Holiday Classic,2005,1
+FACT,100 M Freestyle,SCM,M,60-64,1:19.63,David G Gibson,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Freestyle,SCM,M,60-64,1:25.02,Rick Trevison,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,200 M Freestyle,SCM,M,60-64,2:44.74,Dick Brewer,,Holiday Classic,2005,1
+FACT,400 M Freestyle,SCM,M,60-64,5:57.41,Dick Brewer,,Holiday Classic,2005,1
+FACT,800 M Freestyle,SCM,M,60-64,12:20.28,Dick Brewer,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,M,60-64,35.18,Jan Soderstrom,,Holiday Classic,2005,1
+FACT,50 M Backstroke,SCM,M,60-64,45.83,David G Gibson,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,M,60-64,1:16.49,Jan Soderstrom,,Holiday Classic,2005,1
+FACT,100 M Backstroke,SCM,M,60-64,2:11.35,Robert Mraovich,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,200 M Backstroke,SCM,M,60-64,2:56.85,Jan Soderstrom,,Holiday Classic,2005,1
+FACT,50 M Breaststroke,SCM,M,60-64,41.04,Dick Brewer,,Holiday Classic,2005,1
+FACT,100 M Breaststroke,SCM,M,60-64,2:23.67,Robert Mraovich,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Butterfly,SCM,M,60-64,1:43.20,David G Gibson,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Butterfly,SCM,M,60-64,2:17.31,Robert Mraovich,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,200 M Individual Medley,SCM,M,60-64,4:48.79,Robert Mraovich,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,M,65-69,1:30.01,David W Oakes,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Backstroke,SCM,M,65-69,41.37,David W Oakes,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Backstroke,SCM,M,65-69,1:42.90,David W Oakes,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Breaststroke,SCM,M,65-69,38.61,Karl E Wiedamann,,Holiday Classic,2005,1
+FACT,100 M Breaststroke,SCM,M,65-69,1:24.92,Karl E Wiedamann,,Holiday Classic,2005,1
+FACT,200 M Breaststroke,SCM,M,65-69,3:11.82,Karl E Wiedamann,,Holiday Classic,2005,1
+FACT,50 M Freestyle,SCM,M,70-74,32.73,Dren Geer,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Freestyle,SCM,M,70-74,33.52,Burwell Jones,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,50 M Freestyle,SCM,M,70-74,48.75,Gilbert A Wheeler,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Freestyle,SCM,M,70-74,1:11.04,Burwell Jones,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Freestyle,SCM,M,70-74,1:11.23,Dren Geer,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Freestyle,SCM,M,70-74,1:54.21,Gilbert A Wheeler,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,50 M Backstroke,SCM,M,70-74,37.20,Burwell Jones,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,50 M Backstroke,SCM,M,70-74,59.10,Gilbert A Wheeler,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,M,70-74,1:24.75,Burwell Jones,,St Pete Masters Developmental SCM Meet,2005,1
+FACT,100 M Backstroke,SCM,M,70-74,1:36.06,Dren Geer,,St Pete Masters Developmental SCM Meet,2005,2
+FACT,100 M Backstroke,SCM,M,70-74,2:12.57,Gilbert A Wheeler,,St Pete Masters Developmental SCM Meet,2005,3
+FACT,100 M Butterfly,SCM,M,70-74,1:33.76,Dren Geer,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,W,65-69,56.03,Jean M Allen,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,W,65-69,57.65,Margie Hutinger,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Freestyle,SCM,W,65-69,2:07.59,Margie Hutinger,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,200 M Freestyle,SCM,W,65-69,4:33.07,Margie Hutinger,,Holiday Classic,2005,1
+FMM,400 M Freestyle,SCM,W,65-69,9:32.38,Margie Hutinger,,Holiday Classic,2005,1
+FMM,800 M Freestyle,SCM,W,65-69,19:50.41,Margie Hutinger,,Holiday Classic,2005,1
+FMM,50 M Backstroke,SCM,W,65-69,1:04.06,Jean M Allen,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,W,65-69,1:07.35,Margie Hutinger,,Holiday Classic,2005,2
+FMM,100 M Backstroke,SCM,W,65-69,2:17.48,Jean M Allen,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Backstroke,SCM,W,65-69,2:30.06,Margie Hutinger,,Holiday Classic,2005,2
+FMM,50 M Breaststroke,SCM,W,65-69,59.06,Jean M Allen,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Breaststroke,SCM,W,65-69,2:07.81,Jean M Allen,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,W,70-74,56.69,Marianne A Vann,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,W,70-74,2:05.84,Marianne A Vann,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,W,70-74,1:12.61,Marianne A Vann,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Backstroke,SCM,W,70-74,2:32.68,Marianne A Vann,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,W,70-74,54.65,Doris C Prokopi,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,W,70-74,1:15.96,Marianne A Vann,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Breaststroke,SCM,W,70-74,2:02.01,Doris C Prokopi,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Butterfly,SCM,W,70-74,58.09,Doris C Prokopi,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Butterfly,SCM,W,70-74,2:16.31,Doris C Prokopi,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Individual Medley,SCM,W,70-74,2:02.64,Doris C Prokopi,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,W,75-79,41.07,Jean D Troy,,Holiday Classic,2005,1
+FMM,50 M Freestyle,SCM,W,75-79,57.77,Ruth A Hoskinson,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Freestyle,SCM,W,75-79,1:33.54,Jean D Troy,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,200 M Freestyle,SCM,W,75-79,3:19.44,Jean D Troy,,Holiday Classic,2005,1
+FMM,400 M Freestyle,SCM,W,75-79,7:05.28,Jean D Troy,,Holiday Classic,2005,1
+FMM,800 M Freestyle,SCM,W,75-79,14:44.66,Jean D Troy,,Holiday Classic,2005,1
+FMM,50 M Backstroke,SCM,W,75-79,1:07.59,Ruth A Hoskinson,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,W,75-79,1:01.37,Jean D Troy,,Holiday Classic,2005,1
+FMM,50 M Breaststroke,SCM,W,75-79,1:25.97,Ruth A Hoskinson,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Breaststroke,SCM,W,75-79,2:09.31,Jean D Troy,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Butterfly,SCM,W,75-79,55.55,Jean D Troy,,Holiday Classic,2005,1
+FMM,50 M Butterfly,SCM,W,75-79,1:16.28,Ruth A Hoskinson,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Butterfly,SCM,W,75-79,2:11.01,Jean D Troy,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Individual Medley,SCM,W,75-79,1:57.16,Jean D Troy,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Individual Medley,SCM,W,75-79,2:35.92,Ruth A Hoskinson,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,200 M Individual Medley,SCM,W,75-79,4:10.36,Jean D Troy,,Holiday Classic,2005,1
+FMM,400 M Individual Medley,SCM,W,75-79,8:43.52,Jean D Troy,,Holiday Classic,2005,1
+FMM,50 M Freestyle,SCM,W,80-84,42.01,Florence E Carr,,St Nick's SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,W,80-84,1:52.75,Florence E Carr,,St Nick's SCM Meet,2005,1
+FMM,200 M Freestyle,SCM,W,80-84,4:23.41,Florence E Carr,,St Nick's SCM Meet,2005,1
+FMM,400 M Freestyle,SCM,W,80-84,10:30.05,Florence E Carr,,St Nick's SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,W,80-84,55.12,Florence E Carr,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Backstroke,SCM,W,80-84,2:30.17,Florence E Carr,,Holiday Classic,2005,1
+FMM,50 M Breaststroke,SCM,W,80-84,1:06.97,Florence E Carr,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,W,80-84,1:14.93,June B Reynolds,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,50 M Butterfly,SCM,W,80-84,1:07.24,Florence E Carr,,St Nick's SCM Meet,2005,1
+FMM,50 M Butterfly,SCM,W,80-84,1:13.13,June B Reynolds,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Butterfly,SCM,W,80-84,3:03.00,June B Reynolds,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Individual Medley,SCM,W,80-84,2:20.68,Florence E Carr,,Holiday Classic,2005,1
+FMM,100 M Individual Medley,SCM,W,80-84,2:32.00,June B Reynolds,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,50 M Freestyle,SCM,W,85-89,1:17.50,Kay M Schimpf,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,W,85-89,2:57.22,Kay M Schimpf,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,W,85-89,1:43.72,Kay M Schimpf,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,W,85-89,1:49.04,Kay M Schimpf,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Breaststroke,SCM,W,85-89,4:03.85,Kay M Schimpf,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,M,55-59,34.91,Stephen M Everhart,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,M,55-59,44.07,Stephen M Everhart,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,200 M Freestyle,SCM,M,60-64,5:04.18,William E Ragan,,IGLA Championships,2005,1
+FMM,50 M Backstroke,SCM,M,60-64,49.28,Gerry C Detore,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Backstroke,SCM,M,60-64,2:59.65,William E Ragan,,IGLA Championships,2005,1
+FMM,50 M Breaststroke,SCM,M,60-64,43.84,Gerry C Detore,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Breaststroke,SCM,M,60-64,3:00.71,William E Ragan,,IGLA Championships,2005,1
+FMM,50 M Butterfly,SCM,M,60-64,42.61,Gerry C Detore,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Individual Medley,SCM,M,60-64,3:03.42,William E Ragan,,IGLA Championships,2005,1
+FMM,200 M Individual Medley,SCM,M,60-64,6:50.17,William E Ragan,,IGLA Championships,2005,1
+FMM,50 M Freestyle,SCM,M,65-69,35.28,James F Browne,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,M,65-69,1:21.12,James F Browne,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,M,65-69,48.76,James F Browne,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Butterfly,SCM,M,65-69,44.65,James F Browne,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Butterfly,SCM,M,65-69,1:45.87,James F Browne,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,M,70-74,42.70,Rick Gee,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,M,70-74,47.19,Luis G Rey,,Holiday Classic,2005,2
+FMM,100 M Freestyle,SCM,M,70-74,1:54.17,Luis G Rey,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,M,70-74,1:55.96,Rick Gee,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,200 M Freestyle,SCM,M,70-74,4:32.44,Luis G Rey,,Holiday Classic,2005,1
+FMM,50 M Backstroke,SCM,M,70-74,1:13.55,Rick Gee,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,M,70-74,57.54,Rick Gee,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,M,75-79,36.00,James T Pitts,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,M,75-79,48.11,Robert M Williams,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Freestyle,SCM,M,75-79,1:24.50,James T Pitts,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,M,75-79,1:27.15,Robert C MacDonald,,Holiday Classic,2005,2
+FMM,50 M Backstroke,SCM,M,75-79,54.18,Robert M Williams,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,M,75-79,44.56,Robert C MacDonald,,Holiday Classic,2005,1
+FMM,50 M Breaststroke,SCM,M,75-79,1:13.73,Robert M Williams,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,100 M Breaststroke,SCM,M,75-79,1:36.82,Robert C MacDonald,,Holiday Classic,2005,1
+FMM,200 M Breaststroke,SCM,M,75-79,3:34.95,Robert C MacDonald,,Holiday Classic,2005,1
+FMM,50 M Butterfly,SCM,M,75-79,1:09.28,Robert M Williams,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Butterfly,SCM,M,75-79,1:43.63,Robert C MacDonald,,Holiday Classic,2005,1
+FMM,100 M Individual Medley,SCM,M,75-79,1:35.01,Robert C MacDonald,,Holiday Classic,2005,1
+FMM,100 M Individual Medley,SCM,M,75-79,2:11.37,Robert M Williams,,St Pete Masters Developmental SCM Meet,2005,2
+FMM,50 M Freestyle,SCM,M,80-84,45.59,Robert S Blake,,GRIN Fall Classic SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,M,80-84,1:27.89,Robert S Blake,,GRIN Fall Classic SCM Meet,2005,1
+FMM,200 M Freestyle,SCM,M,80-84,3:19.45,Robert S Blake,,GRIN Fall Classic SCM Meet,2005,1
+FMM,400 M Freestyle,SCM,M,80-84,7:41.06,Robert S Blake,,GRIN Fall Classic SCM Meet,2005,1
+FMM,800 M Freestyle,SCM,M,80-84,15:51.87,Robert S Blake,,GRIN Fall Classic SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,M,80-84,44.62,Paul Hutinger,,Holiday Classic,2005,1
+FMM,100 M Backstroke,SCM,M,80-84,1:42.14,Paul Hutinger,,Holiday Classic,2005,1
+FMM,200 M Backstroke,SCM,M,80-84,3:49.74,Paul Hutinger,,Holiday Classic,2005,1
+FMM,50 M Butterfly,SCM,M,80-84,50.20,Paul Hutinger,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Butterfly,SCM,M,80-84,1:02.82,Robert S Blake,,GRIN Fall Classic SCM Meet,2005,2
+FMM,100 M Butterfly,SCM,M,80-84,2:02.17,Paul Hutinger,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,200 M Butterfly,SCM,M,80-84,4:37.61,Paul Hutinger,,Holiday Classic,2005,1
+FMM,100 M Individual Medley,SCM,M,80-84,2:02.08,Paul Hutinger,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,200 M Individual Medley,SCM,M,80-84,4:44.57,Paul Hutinger,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Freestyle,SCM,M,90-94,1:46.03,Frank H Tillotson,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Freestyle,SCM,M,90-94,3:44.01,Frank H Tillotson,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Backstroke,SCM,M,90-94,1:49.04,Frank H Tillotson,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,100 M Backstroke,SCM,M,90-94,3:46.15,Frank H Tillotson,,St Pete Masters Developmental SCM Meet,2005,1
+FMM,50 M Breaststroke,SCM,M,90-94,2:20.91,Frank H Tillotson,,St Pete Masters Developmental SCM Meet,2005,1
+LRMS,100 M Freestyle,SCM,M,25-29,1:07.60,Brad E Goldstein,,St Pete Masters Developmental SCM Meet,2005,1
+LRMS,50 M Breaststroke,SCM,M,25-29,37.09,Brad E Goldstein,,St Pete Masters Developmental SCM Meet,2005,1
+LRMS,100 M Breaststroke,SCM,M,25-29,1:22.39,Brad E Goldstein,,St Pete Masters Developmental SCM Meet,2005,1
+LRMS,100 M Individual Medley,SCM,M,25-29,1:15.05,Brad E Goldstein,,St Pete Masters Developmental SCM Meet,2005,1
+MOO,50 M Freestyle,SCM,W,35-39,38.23,Debra J Duttweiler,,Santa Clarita SCM Meet,2005,1
+MOO,100 M Freestyle,SCM,W,35-39,1:22.15,Debra J Duttweiler,,Santa Clarita SCM Meet,2005,1
+MOO,200 M Freestyle,SCM,W,35-39,3:00.15,Debra J Duttweiler,,Santa Clarita SCM Meet,2005,1
+MOO,50 M Backstroke,SCM,W,35-39,48.63,Debra J Duttweiler,,Santa Clarita SCM Meet,2005,1
+MOO,50 M Butterfly,SCM,W,35-39,46.89,Debra J Duttweiler,,Santa Clarita SCM Meet,2005,1
+MOO,1500 M Freestyle,SCM,M,30-34,21:13.27,Chris Zacharda,,Santa Clarita SCM Meet,2005,1
+MOO,50 M Breaststroke,SCM,M,30-34,36.84,Chris Zacharda,,SPMA SCM Champs,2005,1
+MOO,100 M Breaststroke,SCM,M,30-34,1:19.49,Chris Zacharda,,Santa Clarita SCM Meet,2005,1
+MOO,200 M Breaststroke,SCM,M,30-34,2:47.54,Chris Zacharda,,SPMA SCM Champs,2005,1
+MOO,50 M Butterfly,SCM,M,30-34,31.08,Chris Zacharda,,SPMA SCM Champs,2005,1
+MOO,200 M Butterfly,SCM,M,30-34,2:43.64,Chris Zacharda,,SPMA SCM Champs,2005,1
+MOO,100 M Individual Medley,SCM,M,30-34,1:11.38,Chris Zacharda,,SPMA SCM Champs,2005,1
+MOO,400 M Individual Medley,SCM,M,30-34,5:45.56,Chris Zacharda,,SPMA SCM Champs,2005,1
+NTC,50 M Freestyle,SCM,W,45-49,30.71,Karleen Dawson,,Holiday Classic,2005,1
+NTC,100 M Freestyle,SCM,W,45-49,1:10.34,Karleen Dawson,,Holiday Classic,2005,1
+NTC,50 M Backstroke,SCM,W,45-49,38.36,Karleen Dawson,,Holiday Classic,2005,1
+NTC,100 M Backstroke,SCM,W,45-49,1:24.62,Karleen Dawson,,Holiday Classic,2005,1
+NTC,50 M Breaststroke,SCM,M,45-49,32.74,Jerry Dawson,,Holiday Classic,2005,1
+NTC,100 M Breaststroke,SCM,M,45-49,1:10.97,Jerry Dawson,,Holiday Classic,2005,1
+NTC,50 M Butterfly,SCM,M,45-49,27.57,Jerry Dawson,,Holiday Classic,2005,1
+NTC,100 M Individual Medley,SCM,M,45-49,1:03.38,Jerry Dawson,,Holiday Classic,2005,1
+OVMS,100 M Freestyle,SCM,M,25-29,1:18.79,Timothy S Ring,,Holiday Classic,2005,1
+OVMS,400 M Freestyle,SCM,M,25-29,5:55.51,Timothy S Ring,,Holiday Classic,2005,1
+OVMS,50 M Backstroke,SCM,M,25-29,43.40,Timothy S Ring,,Holiday Classic,2005,1
+OVMS,200 M Backstroke,SCM,M,25-29,3:36.98,Timothy S Ring,,Holiday Classic,2005,1
+OVMS,200 M Individual Medley,SCM,M,25-29,3:21.40,Timothy S Ring,,Holiday Classic,2005,1
+SPM,50 M Freestyle,SCM,W,18-24,28.77,Kristen E Nardozzi,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,W,18-24,1:00.81,Kristen E Nardozzi,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,W,18-24,32.17,Kristen E Nardozzi,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,W,18-24,48.27,Karen G Cuba,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Breaststroke,SCM,W,18-24,38.09,Kristen E Nardozzi,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,W,18-24,55.20,Karen G Cuba,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Individual Medley,SCM,W,18-24,1:12.08,Kristen E Nardozzi,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,W,18-24,1:42.59,Karen G Cuba,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Freestyle,SCM,W,25-29,30.64,Christine Forkois,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,W,25-29,34.82,Adrienne M Forkois,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Backstroke,SCM,W,25-29,37.21,Christine Forkois,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,W,25-29,42.40,Adrienne M Forkois,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Breaststroke,SCM,W,25-29,43.37,Adrienne M Forkois,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,W,25-29,33.82,Christine Forkois,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,W,25-29,39.55,Adrienne M Forkois,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Butterfly,SCM,W,25-29,1:16.45,Christine Forkois,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,W,25-29,1:18.21,Christine Forkois,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,W,25-29,1:26.12,Adrienne M Forkois,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Freestyle,SCM,W,40-44,30.45,Lori S Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,W,40-44,1:07.79,Lori S Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,W,40-44,37.62,Lori S Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,W,40-44,1:21.84,Lori S Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,W,40-44,34.59,Lori S Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,W,45-49,44.48,Nancy A Hall,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,W,45-49,1:42.39,Nancy A Hall,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,W,45-49,56.57,Nancy A Hall,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,W,45-49,2:10.19,Nancy A Hall,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Breaststroke,SCM,W,45-49,1:35.09,Jo Ann Harrelson,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,W,50-54,35.50,Pam Geiger,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,W,50-54,1:18.73,Pam Geiger,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,W,50-54,1:39.40,Pam Geiger,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,W,50-54,1:33.73,Pam Geiger,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,200 M Individual Medley,SCM,W,50-54,3:19.50,Pam Geiger,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,W,65-69,53.54,Sandy L Steer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,W,65-69,1:56.95,Sandy L Steer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,W,65-69,59.23,Sandy L Steer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Breaststroke,SCM,W,65-69,2:08.90,Sandy L Steer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,W,70-74,49.43,Katie A Knight-Perry,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,W,70-74,1:52.20,Katie A Knight-Perry,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,18-24,28.28,Stuart L Burns,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,18-24,33.23,Stuart L Burns,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,18-24,39.31,Stuart L Burns,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,M,18-24,33.82,Stuart L Burns,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,M,18-24,1:12.48,Stuart L Burns,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,30-34,28.28,Eric C Herman,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,30-34,1:01.62,Eric C Herman,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,40-44,26.47,C Michael Halfast,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,40-44,58.25,C Michael Halfast,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,40-44,35.85,C Michael Halfast,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,M,40-44,1:09.03,C Michael Halfast,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,200 M Individual Medley,SCM,M,40-44,2:32.25,C Michael Halfast,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,45-49,29.09,Fred J Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,45-49,1:07.62,Fred J Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,400 M Freestyle,SCM,M,45-49,4:31.21,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,45-49,29.58,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,M,45-49,1:03.47,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,200 M Backstroke,SCM,M,45-49,2:20.44,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,M,45-49,27.46,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,M,45-49,32.77,Fred J Leadbetter,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Butterfly,SCM,M,45-49,59.66,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,200 M Butterfly,SCM,M,45-49,2:11.43,William L Specht,,San Antonio Nadadores SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,M,45-49,1:17.92,Fred J Leadbetter,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,M,50-54,29.89,Steven N Gregg,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Butterfly,SCM,M,50-54,1:04.75,Steven N Gregg,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,55-59,1:15.77,Pat Marzulli,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,55-59,37.32,Gary A Bastie,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,55-59,40.78,Robert E Aldrich,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Breaststroke,SCM,M,55-59,40.48,Gary A Bastie,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,55-59,41.87,Pat Marzulli,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Breaststroke,SCM,M,55-59,1:31.08,Robert E Aldrich,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Breaststroke,SCM,M,55-59,1:31.48,Pat Marzulli,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Butterfly,SCM,M,55-59,32.88,Gary A Bastie,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,M,55-59,1:19.65,Gary A Bastie,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,60-64,39.06,Peter R Betzer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,M,60-64,1:24.50,Peter R Betzer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,60-64,39.30,Peter R Betzer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Breaststroke,SCM,M,60-64,1:28.60,Peter R Betzer,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,70-74,41.04,Thomas H Koenig,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,70-74,1:33.68,Thomas H Koenig,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,70-74,1:34.59,John R Cox,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,50 M Breaststroke,SCM,M,70-74,46.50,Thomas H Koenig,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,70-74,55.53,John R Cox,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Breaststroke,SCM,M,70-74,1:49.05,Thomas H Koenig,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,M,70-74,57.98,John R Cox,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,M,70-74,2:00.25,John R Cox,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,75-79,38.07,Harold Ferris,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,75-79,1:17.75,Ned P Allen,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Freestyle,SCM,M,75-79,2:42.82,Ned P Allen,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,75-79,51.91,Harold Ferris,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,75-79,1:26.86,Ned P Allen,,St Pete Masters Developmental SCM Meet,2005,2
+SPM,100 M Backstroke,SCM,M,75-79,3:09.49,Ned P Allen,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Butterfly,SCM,M,75-79,52.35,Harold Ferris,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Individual Medley,SCM,M,75-79,3:26.47,Ned P Allen,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Freestyle,SCM,M,80-84,47.25,Richard L Avery,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,80-84,54.59,Richard L Avery,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,M,80-84,2:21.06,Richard L Avery,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,80-84,1:02.32,Richard L Avery,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Breaststroke,SCM,M,80-84,2:26.75,Richard L Avery,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Freestyle,SCM,M,85-89,2:37.95,Robert D Atwood,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Backstroke,SCM,M,85-89,1:29.62,Robert D Atwood,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,100 M Backstroke,SCM,M,85-89,3:28.42,Robert D Atwood,,St Pete Masters Developmental SCM Meet,2005,1
+SPM,50 M Breaststroke,SCM,M,85-89,1:56.57,Robert D Atwood,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,50 M Breaststroke,SCM,M,40-44,35.34,Michael D Smith,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,50 M Butterfly,SCM,M,40-44,30.76,Michael D Smith,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Individual Medley,SCM,M,40-44,1:12.43,Michael D Smith,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Freestyle,SCM,M,45-49,1:03.10,Gary S Peters,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Backstroke,SCM,M,45-49,1:15.93,Gary S Peters,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Butterfly,SCM,M,45-49,1:17.39,Gary S Peters,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Individual Medley,SCM,M,45-49,1:14.75,Gary S Peters,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,50 M Freestyle,SCM,M,55-59,32.59,John R Gross,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,50 M Butterfly,SCM,M,55-59,35.76,John R Gross,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Butterfly,SCM,M,55-59,1:32.90,John R Gross,,St Pete Masters Developmental SCM Meet,2005,1
+STAC,100 M Individual Medley,SCM,M,55-59,1:30.86,John R Gross,,St Pete Masters Developmental SCM Meet,2005,1
+SWFA,50 M Freestyle,SCM,M,65-69,35.15,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,100 M Freestyle,SCM,M,65-69,1:15.06,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,200 M Freestyle,SCM,M,65-69,3:00.70,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,400 M Freestyle,SCM,M,65-69,6:07.76,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,800 M Freestyle,SCM,M,65-69,13:01.91,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,50 M Backstroke,SCM,M,65-69,44.32,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,50 M Breaststroke,SCM,M,65-69,47.28,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,50 M Butterfly,SCM,M,65-69,46.32,Michael A Stollmeyer,,Holiday Classic,2005,1
+SWFA,100 M Individual Medley,SCM,M,65-69,1:36.49,Michael A Stollmeyer,,Holiday Classic,2005,1
+UNAT,50 M Freestyle,SCM,M,30-34,25.49,Greg L Burns,,Holiday Classic,2005,1
+UNAT,100 M Freestyle,SCM,M,30-34,1:01.07,Greg L Burns,,Holiday Classic,2005,1
+UNAT,50 M Backstroke,SCM,M,30-34,31.03,Greg L Burns,,Holiday Classic,2005,1
+UNAT,50 M Breaststroke,SCM,M,30-34,34.06,Greg L Burns,,Holiday Classic,2005,1
+UNAT,100 M Breaststroke,SCM,M,30-34,1:14.79,Greg L Burns,,Holiday Classic,2005,1
+UNAT,50 M Butterfly,SCM,M,30-34,28.11,Greg L Burns,,Holiday Classic,2005,1
+UNAT,100 M Individual Medley,SCM,M,30-34,1:06.21,Greg L Burns,,Holiday Classic,2005,1
+UNAT,100 M Freestyle,SCM,M,40-44,1:08.10,Robert Shapiro,,St Pete Masters Developmental SCM Meet,2005,1
+UNAT,100 M Individual Medley,SCM,M,40-44,1:17.95,Robert Shapiro,,St Pete Masters Developmental SCM Meet,2005,1
+UNAT,200 M Individual Medley,SCM,M,40-44,2:51.14,Robert Shapiro,,St Pete Masters Developmental SCM Meet,2005,1
+UNAT,200 M Freestyle,SCM,M,50-54,3:21.15,Gregory S Rotole,,Holiday Classic,2005,1
+UNAT,400 M Freestyle,SCM,M,50-54,7:15.93,Gregory S Rotole,,Holiday Classic,2005,1
+UNAT,100 M Backstroke,SCM,M,50-54,2:00.05,Gregory S Rotole,,Holiday Classic,2005,1
+UNAT,100 M Breaststroke,SCM,M,50-54,2:03.87,Gregory S Rotole,,St Pete Masters Developmental SCM Meet,2005,1
+UNAT,100 M Butterfly,SCM,M,50-54,1:57.42,Gregory S Rotole,,St Pete Masters Developmental SCM Meet,2005,1
+UNAT,100 M Individual Medley,SCM,M,50-54,1:48.93,Gregory S Rotole,,St Pete Masters Developmental SCM Meet,2005,1
+UNAT,200 M Individual Medley,SCM,M,50-54,4:01.29,Gregory S Rotole,,Holiday Classic,2005,1
+UNAT,50 M Breaststroke,SCM,M,60-64,35.02,Scott Guthrie,,St Nick's SCM Meet,2005,1
+UNAT,100 M Breaststroke,SCM,M,60-64,1:22.37,Scott Guthrie,,St Nick's SCM Meet,2005,1
+UNAT,50 M Butterfly,SCM,M,60-64,30.39,Scott Guthrie,,St Nick's SCM Meet,2005,1
+UNAT,100 M Butterfly,SCM,M,60-64,1:16.53,Scott Guthrie,,St Nick's SCM Meet,2005,1

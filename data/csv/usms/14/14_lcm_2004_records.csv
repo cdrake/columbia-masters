@@ -1,0 +1,30 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+FACT,50 M Freestyle,LCM,W,45-49,32.75,Kimberly J Wise,,2004 USMS Long Course Nationals,2004,1
+FACT,50 M Freestyle,LCM,W,65-69,46.15,Martha J Henderson,,2004 USMS Long Course Nationals,2004,1
+FACT,200 M Freestyle,LCM,W,65-69,4:02.81,Martha J Henderson,,2004 USMS Long Course Nationals,2004,1
+FACT,400 M Freestyle,LCM,W,65-69,8:29.37,Martha J Henderson,,2004 USMS Long Course Nationals,2004,1
+FACT,50 M Butterfly,LCM,W,65-69,58.26,Martha J Henderson,,2004 USMS Long Course Nationals,2004,1
+FACT,200 M Individual Medley,LCM,W,65-69,4:35.34,Martha J Henderson,,2004 USMS Long Course Nationals,2004,1
+FACT,50 M Freestyle,LCM,W,70-74,1:04.32,Alyce M Vogel,,2004 USMS Long Course Nationals,2004,1
+FACT,50 M Breaststroke,LCM,W,70-74,1:08.28,Alyce M Vogel,,2004 USMS Long Course Nationals,2004,1
+FACT,100 M Breaststroke,LCM,W,70-74,2:34.01,Alyce M Vogel,,2004 USMS Long Course Nationals,2004,1
+FACT,200 M Breaststroke,LCM,W,70-74,5:34.53,Alyce M Vogel,,2004 USMS Long Course Nationals,2004,1
+FACT,50 M Butterfly,LCM,W,70-74,1:24.63,Alyce M Vogel,,2004 USMS Long Course Nationals,2004,1
+FACT,50 M Freestyle,LCM,M,45-49,27.23,Mark A Calvert,,2004 USMS Long Course Nationals,2004,1
+FACT,100 M Freestyle,LCM,M,45-49,59.80,Mark A Calvert,,2004 USMS Long Course Nationals,2004,1
+FACT,200 M Freestyle,LCM,M,45-49,2:16.82,Mark A Calvert,,2004 USMS Long Course Nationals,2004,1
+FACT,400 M Freestyle,LCM,M,45-49,4:57.22,Mark A Calvert,,2004 USMS Long Course Nationals,2004,1
+FACT,800 M Freestyle,LCM,M,45-49,10:13.00,Mark A Calvert,,2004 USMS Long Course Nationals,2004,1
+FACT,1500 M Freestyle,LCM,M,50-54,25:43.43,Victor B Buehler,,2004 USMS Long Course Nationals,2004,1
+FACT,100 M Butterfly,LCM,M,50-54,1:46.40,Victor B Buehler,,2004 USMS Long Course Nationals,2004,1
+FACT,400 M Individual Medley,LCM,M,50-54,7:38.68,Victor B Buehler,,2004 USMS Long Course Nationals,2004,1
+FMM,800 M Freestyle,LCM,W,50-54,15:34.34,Pat C Bayers,,2004 USMS Long Course Nationals,2004,1
+FMM,200 M Backstroke,LCM,W,50-54,4:20.66,Pat C Bayers,,2004 USMS Long Course Nationals,2004,1
+FMM,100 M Butterfly,LCM,W,50-54,1:55.62,Pat C Bayers,,2004 USMS Long Course Nationals,2004,1
+FMM,200 M Butterfly,LCM,W,50-54,4:29.48,Pat C Bayers,,2004 USMS Long Course Nationals,2004,1
+FMM,400 M Individual Medley,LCM,W,50-54,8:55.36,Pat C Bayers,,2004 USMS Long Course Nationals,2004,1
+FMM,50 M Freestyle,LCM,M,70-74,34.25,Charles E Weatherbee,,2004 USMS Long Course Nationals,2004,1
+FMM,50 M Breaststroke,LCM,M,70-74,48.86,Charles E Weatherbee,,2004 USMS Long Course Nationals,2004,1
+FMM,200 M Breaststroke,LCM,M,70-74,4:15.24,Charles E Weatherbee,,2004 USMS Long Course Nationals,2004,1
+FMM,200 M Individual Medley,LCM,M,70-74,3:39.87,Charles E Weatherbee,,2004 USMS Long Course Nationals,2004,1
+FMM,400 M Individual Medley,LCM,M,70-74,7:55.21,Charles E Weatherbee,,2004 USMS Long Course Nationals,2004,1

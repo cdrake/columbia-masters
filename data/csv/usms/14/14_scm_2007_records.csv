@@ -1,0 +1,678 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BLUE,200 M Freestyle,SCM,W,45-49,5:16.38,Sue Moucha,,Holiday Classic,2007,1
+BLUE,400 M Freestyle,SCM,W,45-49,10:15.37,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,800 M Freestyle,SCM,W,45-49,20:54.75,Sue Moucha,,Holiday Classic,2007,1
+BLUE,1500 M Freestyle,SCM,W,45-49,40:53.42,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,50 M Backstroke,SCM,W,45-49,1:08.28,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,100 M Backstroke,SCM,W,45-49,2:26.20,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,200 M Backstroke,SCM,W,45-49,5:01.87,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,50 M Breaststroke,SCM,W,45-49,1:10.27,Sue Moucha,,Holiday Classic,2007,1
+BLUE,100 M Breaststroke,SCM,W,45-49,2:37.20,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,200 M Breaststroke,SCM,W,45-49,5:17.35,Sue Moucha,,Holiday Classic,2007,1
+BLUE,100 M Individual Medley,SCM,W,45-49,2:30.74,Sue A Moucha,,Bridge The Bay,2007,1
+BLUE,200 M Individual Medley,SCM,W,45-49,5:15.28,Sue A Moucha,,Bridge The Bay,2007,1
+CATM,100 M Freestyle,SCM,W,25-29,1:09.85,Kristen B Schouten,,Bridge The Bay,2007,1
+CATM,50 M Backstroke,SCM,W,25-29,37.80,Kristen B Schouten,,Bridge The Bay,2007,1
+CATM,50 M Butterfly,SCM,W,25-29,34.91,Kristen B Schouten,,Bridge The Bay,2007,1
+CATM,100 M Individual Medley,SCM,W,25-29,1:19.25,Kristen B Schouten,,Bridge The Bay,2007,1
+CATM,100 M Freestyle,SCM,M,25-29,55.14,David J Molnar,,Bridge The Bay,2007,1
+CATM,50 M Backstroke,SCM,M,25-29,29.71,David J Molnar,,Bridge The Bay,2007,1
+CATM,100 M Individual Medley,SCM,M,25-29,1:03.66,David J Molnar,,Bridge The Bay,2007,1
+CATM,100 M Freestyle,SCM,M,40-44,1:06.18,Rob W Farnell,,Bridge The Bay,2007,1
+CATM,100 M Breaststroke,SCM,M,40-44,1:25.45,Rob W Farnell,,Bridge The Bay,2007,1
+CATM,50 M Butterfly,SCM,M,40-44,33.64,Rob W Farnell,,Bridge The Bay,2007,1
+CATM,100 M Individual Medley,SCM,M,40-44,1:14.87,Rob W Farnell,,Bridge The Bay,2007,1
+CATM,50 M Freestyle,SCM,M,55-59,29.77,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,100 M Freestyle,SCM,M,55-59,1:05.99,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,400 M Freestyle,SCM,M,55-59,5:29.81,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,50 M Backstroke,SCM,M,55-59,35.37,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,100 M Backstroke,SCM,M,55-59,1:18.43,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,50 M Breaststroke,SCM,M,55-59,44.40,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,50 M Butterfly,SCM,M,55-59,32.74,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,100 M Butterfly,SCM,M,55-59,1:15.37,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,200 M Butterfly,SCM,M,55-59,3:15.48,Cliff M Patterson,,Bridge The Bay,2007,1
+CATM,100 M Individual Medley,SCM,M,55-59,1:17.63,Cliff M Patterson,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,18-24,1:08.24,Marly J Wilson,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,18-24,1:16.11,Laura Chan,,Holiday Classic,2007,2
+FACT,50 M Backstroke,SCM,W,18-24,37.09,Marly J Wilson,,Bridge The Bay,2007,1
+FACT,200 M Backstroke,SCM,W,18-24,2:50.53,Marly J Wilson,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,W,18-24,33.43,Marly J Wilson,,Bridge The Bay,2007,1
+FACT,100 M Butterfly,SCM,W,18-24,1:26.89,Laura Chan,,Holiday Classic,2007,1
+FACT,100 M Individual Medley,SCM,W,18-24,1:19.21,Marly J Wilson,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,18-24,1:26.98,Laura Chan,,Holiday Classic,2007,2
+FACT,400 M Individual Medley,SCM,W,18-24,6:30.64,Laura Chan,,Holiday Classic,2007,1
+FACT,100 M Freestyle,SCM,W,25-29,1:09.78,Beth N Byron,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,25-29,1:17.87,Leslie Hahn,,Bridge The Bay,2007,2
+FACT,50 M Backstroke,SCM,W,25-29,39.76,Alexis L Morris,,Bridge The Bay,2007,1
+FACT,200 M Backstroke,SCM,W,25-29,3:02.72,Alexis L Morris,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,W,25-29,1:22.21,Beth N Byron,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,W,25-29,1:30.35,Leslie Hahn,,Bridge The Bay,2007,2
+FACT,50 M Butterfly,SCM,W,25-29,33.84,Beth N Byron,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,W,25-29,37.07,Alexis L Morris,,Bridge The Bay,2007,2
+FACT,50 M Butterfly,SCM,W,25-29,42.90,Leslie Hahn,,Bridge The Bay,2007,3
+FACT,100 M Individual Medley,SCM,W,25-29,1:16.23,Beth N Byron,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,25-29,1:25.71,Alexis L Morris,,Bridge The Bay,2007,2
+FACT,100 M Individual Medley,SCM,W,25-29,1:29.14,Leslie Hahn,,Bridge The Bay,2007,3
+FACT,100 M Freestyle,SCM,W,30-34,1:26.12,Diana K Young,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,30-34,48.05,Diana K Young,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,35-39,1:04.39,Linda Visser,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,35-39,34.58,Linda Visser,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,W,35-39,1:21.17,Linda Visser,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,W,35-39,31.82,Linda Visser,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,35-39,1:12.23,Linda Visser,,Bridge The Bay,2007,1
+FACT,50 M Freestyle,SCM,W,40-44,42.39,Mary M Lent,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,40-44,1:32.81,Mary M Lent,,Bridge The Bay,2007,1
+FACT,200 M Freestyle,SCM,W,40-44,3:37.70,Mary M Lent,,Bridge The Bay,2007,1
+FACT,400 M Freestyle,SCM,W,40-44,7:51.63,Mary M Lent,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,W,40-44,53.42,Mary M Lent,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,W,40-44,1:54.33,Mary M Lent,,Bridge The Bay,2007,1
+FACT,200 M Breaststroke,SCM,W,40-44,4:14.18,Mary M Lent,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,W,40-44,52.38,Mary M Lent,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,40-44,1:46.14,Mary M Lent,,Bridge The Bay,2007,1
+FACT,50 M Freestyle,SCM,W,50-54,30.13,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,100 M Freestyle,SCM,W,50-54,1:06.97,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,200 M Freestyle,SCM,W,50-54,2:27.64,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,400 M Freestyle,SCM,W,50-54,5:23.80,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,50 M Backstroke,SCM,W,50-54,38.02,Pat A Sargeant,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,50-54,40.39,Maureen C Hughes,,South Carolina Fall Champs,2007,2
+FACT,100 M Backstroke,SCM,W,50-54,1:21.90,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,100 M Backstroke,SCM,W,50-54,1:30.74,Maureen C Hughes,,South Carolina Fall Champs,2007,2
+FACT,200 M Backstroke,SCM,W,50-54,2:55.44,Pat A Sargeant,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,W,50-54,35.02,Pat A Sargeant,,Bridge The Bay,2007,1
+FACT,100 M Butterfly,SCM,W,50-54,1:20.70,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,100 M Individual Medley,SCM,W,50-54,1:19.68,Pat A Sargeant,,South Carolina Fall Champs,2007,1
+FACT,50 M Freestyle,SCM,W,55-59,37.35,Meegan J Wilson,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,55-59,1:22.08,Meegan J Wilson,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,55-59,39.65,Deb W Walker,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,55-59,50.39,Meegan J Wilson,,Bridge The Bay,2007,2
+FACT,200 M Backstroke,SCM,W,55-59,3:01.68,Deb W Walker,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,W,55-59,40.29,Deb W Walker,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,W,55-59,44.45,Meegan J Wilson,,Bridge The Bay,2007,2
+FACT,100 M Breaststroke,SCM,W,55-59,1:28.19,Deb W Walker,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,W,55-59,1:35.98,Meegan J Wilson,,Bridge The Bay,2007,2
+FACT,200 M Breaststroke,SCM,W,55-59,3:12.90,Deb W Walker,,Bridge The Bay,2007,1
+FACT,200 M Breaststroke,SCM,W,55-59,3:30.36,Meegan J Wilson,,Bridge The Bay,2007,2
+FACT,100 M Butterfly,SCM,W,55-59,1:37.47,Meegan J Wilson,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,55-59,1:35.11,Meegan J Wilson,,Bridge The Bay,2007,1
+FACT,200 M Individual Medley,SCM,W,55-59,3:27.40,Meegan J Wilson,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,W,70-74,2:06.18,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,200 M Freestyle,SCM,W,70-74,4:41.24,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,70-74,1:01.19,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,100 M Backstroke,SCM,W,70-74,2:14.51,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,W,70-74,1:02.24,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,W,70-74,2:23.65,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,70-74,2:18.42,Beverley J Tucker,,Bridge The Bay,2007,1
+FACT,50 M Freestyle,SCM,W,75-79,52.12,Joan K Campbell,,Bridge The Bay,2007,1
+FACT,200 M Freestyle,SCM,W,75-79,4:10.81,Joan K Campbell,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,W,75-79,1:00.80,Nancy N Durstein,,Bridge The Bay,2007,1
+FACT,200 M Backstroke,SCM,W,75-79,4:47.55,Nancy N Durstein,,Bridge The Bay,2007,1
+FACT,200 M Breaststroke,SCM,W,75-79,5:10.36,Joan K Campbell,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,W,75-79,1:09.02,Nancy N Durstein,,Bridge The Bay,2007,1
+FACT,200 M Butterfly,SCM,W,75-79,5:57.64,Nancy N Durstein,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,W,75-79,2:14.75,Nancy N Durstein,,Bridge The Bay,2007,1
+FACT,400 M Individual Medley,SCM,W,75-79,10:01.99,Joan K Campbell,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,M,25-29,37.21,Michael A Maitland,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,M,25-29,1:23.03,Michael A Maitland,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,M,25-29,33.32,Michael A Maitland,,Bridge The Bay,2007,1
+FACT,50 M Freestyle,SCM,M,45-49,26.71,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,M,45-49,57.52,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,M,45-49,1:05.53,Gary Zarkis,,Holiday Classic,2007,2
+FACT,200 M Freestyle,SCM,M,45-49,2:10.95,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,200 M Freestyle,SCM,M,45-49,2:20.70,Gary Zarkis,,Holiday Classic,2007,2
+FACT,400 M Freestyle,SCM,M,45-49,4:40.17,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,400 M Freestyle,SCM,M,45-49,4:59.56,Gary Zarkis,,Holiday Classic,2007,2
+FACT,800 M Freestyle,SCM,M,45-49,9:33.80,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,1500 M Freestyle,SCM,M,45-49,19:19.20,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,M,45-49,33.11,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,100 M Backstroke,SCM,M,45-49,1:11.71,Mark A Calvert,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,M,45-49,39.18,Gary Zarkis,,Holiday Classic,2007,1
+FACT,50 M Butterfly,SCM,M,45-49,31.48,Gary Zarkis,,Holiday Classic,2007,1
+FACT,50 M Butterfly,SCM,M,45-49,31.55,Mark A Calvert,,Bridge The Bay,2007,2
+FACT,100 M Individual Medley,SCM,M,45-49,1:12.96,Gary Zarkis,,Holiday Classic,2007,1
+FACT,50 M Freestyle,SCM,M,55-59,28.65,Timothy Carroll,,Holiday Classic,2007,1
+FACT,50 M Backstroke,SCM,M,55-59,37.72,James M Donnelly,,Bridge The Bay,2007,1
+FACT,100 M Backstroke,SCM,M,55-59,1:22.85,James M Donnelly,,Bridge The Bay,2007,1
+FACT,200 M Backstroke,SCM,M,55-59,2:59.72,James M Donnelly,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,M,55-59,38.22,James M Donnelly,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,M,55-59,1:24.69,James M Donnelly,,Bridge The Bay,2007,1
+FACT,50 M Butterfly,SCM,M,55-59,31.91,Timothy J Carroll,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,M,55-59,1:22.49,Timothy J Carroll,,Bridge The Bay,2007,1
+FACT,200 M Individual Medley,SCM,M,55-59,3:00.00,James M Donnelly,,Bridge The Bay,2007,1
+FACT,400 M Individual Medley,SCM,M,55-59,6:43.20,James M Donnelly,,Bridge The Bay,2007,1
+FACT,50 M Freestyle,SCM,M,60-64,27.48,Glenn Woodsum,,Holiday Classic,2007,1
+FACT,50 M Freestyle,SCM,M,60-64,32.69,Bill R Kelley,,Bridge The Bay,2007,2
+FACT,100 M Freestyle,SCM,M,60-64,1:03.78,Glenn Woodsum,,Holiday Classic,2007,1
+FACT,100 M Freestyle,SCM,M,60-64,1:11.63,Dave Naffziger,,Bridge The Bay,2007,2
+FACT,200 M Freestyle,SCM,M,60-64,2:22.86,Glenn Woodsum,,Holiday Classic,2007,1
+FACT,200 M Freestyle,SCM,M,60-64,2:42.94,Bill R Kelley,,Bridge The Bay,2007,2
+FACT,800 M Freestyle,SCM,M,60-64,11:53.08,Glenn Woodsum,,Holiday Classic,2007,1
+FACT,50 M Backstroke,SCM,M,60-64,42.21,Dave Naffziger,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,M,60-64,37.87,Bill R Kelley,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,M,60-64,1:25.56,Bill R Kelley,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,M,60-64,1:34.04,Dave Naffziger,,Bridge The Bay,2007,2
+FACT,200 M Breaststroke,SCM,M,60-64,3:16.17,Bill R Kelley,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,M,60-64,1:24.02,Dave Naffziger,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,M,60-64,1:27.06,Bill R Kelley,,Bridge The Bay,2007,2
+FACT,50 M Freestyle,SCM,M,65-69,32.67,David W Oakes,,Bridge The Bay,2007,1
+FACT,50 M Freestyle,SCM,M,65-69,33.32,Karl Wiedamann,,Holiday Classic,2007,2
+FACT,100 M Freestyle,SCM,M,65-69,1:14.91,David W Oakes,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,M,65-69,39.90,David W Oakes,,Bridge The Bay,2007,1
+FACT,100 M Backstroke,SCM,M,65-69,1:30.97,David W Oakes,,Bridge The Bay,2007,1
+FACT,50 M Breaststroke,SCM,M,65-69,38.51,Karl Wiedamann,,Holiday Classic,2007,1
+FACT,100 M Breaststroke,SCM,M,65-69,1:25.32,Karl Wiedamann,,Holiday Classic,2007,1
+FACT,100 M Breaststroke,SCM,M,65-69,1:38.51,Charles E Kilbourne,,Bridge The Bay,2007,2
+FACT,200 M Breaststroke,SCM,M,65-69,3:12.71,Karl Wiedamann,,Holiday Classic,2007,1
+FACT,50 M Butterfly,SCM,M,65-69,42.96,Charles E Kilbourne,,Bridge The Bay,2007,1
+FACT,200 M Butterfly,SCM,M,65-69,3:50.13,Charles E Kilbourne,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,M,65-69,1:35.22,Charles E Kilbourne,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,M,80-84,1:56.77,John D Corse,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,M,80-84,2:15.76,Edwin H Graves,,Bridge The Bay,2007,2
+FACT,50 M Backstroke,SCM,M,80-84,1:03.59,John D Corse,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,M,80-84,2:10.83,John D Corse,,Bridge The Bay,2007,1
+FACT,100 M Breaststroke,SCM,M,80-84,2:52.86,Edwin H Graves,,Bridge The Bay,2007,2
+FACT,50 M Butterfly,SCM,M,80-84,1:05.66,John D Corse,,Bridge The Bay,2007,1
+FACT,100 M Individual Medley,SCM,M,80-84,2:17.68,John D Corse,,Bridge The Bay,2007,1
+FACT,100 M Freestyle,SCM,M,85-89,2:09.92,Rogers B Holmes,,Bridge The Bay,2007,1
+FACT,50 M Backstroke,SCM,M,85-89,56.32,Rogers B Holmes,,Bridge The Bay,2007,1
+FACT,200 M Backstroke,SCM,M,85-89,4:45.01,Rogers B Holmes,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,W,65-69,57.38,Jean M Allen,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,W,65-69,58.39,Margie Hutinger,,Holiday Classic,2007,2
+FMM,100 M Freestyle,SCM,W,65-69,2:09.77,Margie Hutinger,,Holiday Classic,2007,1
+FMM,200 M Freestyle,SCM,W,65-69,4:44.89,Margie Hutinger,,Holiday Classic,2007,1
+FMM,400 M Freestyle,SCM,W,65-69,9:49.85,Margie Hutinger,,Holiday Classic,2007,1
+FMM,800 M Freestyle,SCM,W,65-69,20:05.00,Margie Hutinger,,Holiday Classic,2007,1
+FMM,1500 M Freestyle,SCM,W,65-69,39:35.68,Margie Hutinger,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,W,65-69,1:03.92,Jean M Allen,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,W,65-69,1:07.58,Margie Hutinger,,Bridge The Bay,2007,2
+FMM,100 M Backstroke,SCM,W,65-69,2:27.97,Jean M Allen,,Bridge The Bay,2007,1
+FMM,100 M Backstroke,SCM,W,65-69,2:33.90,Margie Hutinger,,Bridge The Bay,2007,2
+FMM,200 M Backstroke,SCM,W,65-69,5:21.70,Margie Hutinger,,Holiday Classic,2007,1
+FMM,50 M Breaststroke,SCM,W,65-69,58.63,Jean M Allen,,Bridge The Bay,2007,1
+FMM,100 M Breaststroke,SCM,W,65-69,2:07.52,Jean M Allen,,Bridge The Bay,2007,1
+FMM,200 M Breaststroke,SCM,W,65-69,4:31.37,Jean M Allen,,Bridge The Bay,2007,1
+FMM,100 M Individual Medley,SCM,W,65-69,2:06.76,Jean M Allen,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,W,70-74,42.71,Patricia A Tullman,,Bridge The Bay,2007,1
+FMM,100 M Freestyle,SCM,W,70-74,2:35.92,Rosie Vijil,,Bridge The Bay,2007,1
+FMM,200 M Freestyle,SCM,W,70-74,3:27.68,Patricia A Tullman,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,W,70-74,7:42.34,Patricia A Tullman,,Bridge The Bay,2007,1
+FMM,800 M Freestyle,SCM,W,70-74,18:10.04,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,800 M Freestyle,SCM,W,70-74,23:27.38,Rosie Vijil,,Bridge The Bay,2007,2
+FMM,1500 M Freestyle,SCM,W,70-74,34:24.98,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,1500 M Freestyle,SCM,W,70-74,44:30.69,Rosie Vijil,,Bridge The Bay,2007,2
+FMM,50 M Backstroke,SCM,W,70-74,1:00.42,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,100 M Backstroke,SCM,W,70-74,2:01.15,Patricia A Tullman,,Bridge The Bay,2007,1
+FMM,100 M Backstroke,SCM,W,70-74,2:08.65,Doris C Prokopi,,Bridge The Bay,2007,2
+FMM,200 M Backstroke,SCM,W,70-74,4:45.14,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,50 M Breaststroke,SCM,W,70-74,58.37,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,100 M Breaststroke,SCM,W,70-74,2:19.30,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,100 M Breaststroke,SCM,W,70-74,2:34.24,Rosie Vijil,,Bridge The Bay,2007,2
+FMM,200 M Breaststroke,SCM,W,70-74,4:54.09,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,50 M Butterfly,SCM,W,70-74,1:10.00,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,100 M Butterfly,SCM,W,70-74,2:01.80,Patricia A Tullman,,Bridge The Bay,2007,1
+FMM,100 M Butterfly,SCM,W,70-74,2:49.68,Doris C Prokopi,,Bridge The Bay,2007,2
+FMM,200 M Individual Medley,SCM,W,70-74,4:52.83,Doris C Prokopi,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,W,75-79,50.06,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,100 M Freestyle,SCM,W,75-79,1:45.24,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,100 M Freestyle,SCM,W,75-79,2:06.08,Marianne A Vann,,Bridge The Bay,2007,2
+FMM,200 M Freestyle,SCM,W,75-79,4:05.89,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,W,75-79,8:30.90,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,W,75-79,1:02.11,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,W,75-79,1:10.80,Ruth A Hoskinson,,Bridge The Bay,2007,2
+FMM,50 M Backstroke,SCM,W,75-79,1:11.66,Marianne A Vann,,Bridge The Bay,2007,3
+FMM,100 M Backstroke,SCM,W,75-79,2:20.92,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,W,75-79,4:52.06,Margaret T Homans,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,W,75-79,5:12.78,Marianne A Vann,,Bridge The Bay,2007,2
+FMM,200 M Backstroke,SCM,W,75-79,5:19.54,Ruth A Hoskinson,,Bridge The Bay,2007,3
+FMM,50 M Butterfly,SCM,W,75-79,1:09.36,Ruth A Hoskinson,,Bridge The Bay,2007,1
+FMM,100 M Individual Medley,SCM,W,75-79,2:29.46,Ruth A Hoskinson,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,W,80-84,41.45,Jean Troy,,Holiday Classic,2007,1
+FMM,100 M Freestyle,SCM,W,80-84,1:33.88,Jean Troy,,Holiday Classic,2007,1
+FMM,200 M Freestyle,SCM,W,80-84,3:26.52,Jean B Troy,,ALBATROSS OPEN,2007,1
+FMM,400 M Freestyle,SCM,W,80-84,7:20.96,Jean D Troy,,Bridge The Bay,2007,1
+FMM,800 M Freestyle,SCM,W,80-84,15:12.35,Jean D Troy,,Bridge The Bay,2007,1
+FMM,1500 M Freestyle,SCM,W,80-84,28:55.09,Jean D Troy,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,W,80-84,1:00.67,Jean Troy,,Holiday Classic,2007,1
+FMM,100 M Backstroke,SCM,W,80-84,2:42.14,Gladys Olsen,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,W,80-84,5:34.81,Gladys Olsen,,Bridge The Bay,2007,1
+FMM,50 M Breaststroke,SCM,W,80-84,1:03.67,Jean Troy,,Holiday Classic,2007,1
+FMM,100 M Breaststroke,SCM,W,80-84,2:21.37,Jean D Troy,,Bridge The Bay,2007,1
+FMM,100 M Breaststroke,SCM,W,80-84,3:07.25,Gladys Olsen,,Bridge The Bay,2007,2
+FMM,200 M Breaststroke,SCM,W,80-84,4:57.60,Jean Troy,,Holiday Classic,2007,1
+FMM,200 M Breaststroke,SCM,W,80-84,6:30.26,Gladys Olsen,,Bridge The Bay,2007,2
+FMM,50 M Butterfly,SCM,W,80-84,1:01.56,Jean Troy,,Holiday Classic,2007,1
+FMM,50 M Butterfly,SCM,W,80-84,1:26.08,Gladys Olsen,,Bridge The Bay,2007,2
+FMM,100 M Butterfly,SCM,W,80-84,3:10.98,Gladys Olsen,,Bridge The Bay,2007,1
+FMM,200 M Butterfly,SCM,W,80-84,6:32.80,Gladys Olsen,,Bridge The Bay,2007,1
+FMM,100 M Individual Medley,SCM,W,80-84,1:56.65,Jean B Troy,,ALBATROSS OPEN,2007,1
+FMM,100 M Individual Medley,SCM,W,80-84,2:44.17,Gladys Olsen,,Bridge The Bay,2007,2
+FMM,200 M Individual Medley,SCM,W,80-84,4:07.66,Jean B Troy,,ALBATROSS OPEN,2007,1
+FMM,200 M Individual Medley,SCM,W,80-84,5:58.29,Gladys Olsen,,Bridge The Bay,2007,2
+FMM,400 M Individual Medley,SCM,W,80-84,9:30.65,Jean D Troy,,Bridge The Bay,2007,1
+FMM,400 M Individual Medley,SCM,W,80-84,11:52.55,Gladys Olsen,,Bridge The Bay,2007,2
+FMM,200 M Freestyle,SCM,W,85-89,5:19.42,June B Reynolds,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,W,85-89,6:35.57,June B Reynolds,,Bridge The Bay,2007,1
+FMM,50 M Breaststroke,SCM,W,85-89,1:24.79,June B Reynolds,,Bridge The Bay,2007,1
+FMM,50 M Butterfly,SCM,W,85-89,1:19.27,June B Reynolds,,Bridge The Bay,2007,1
+FMM,100 M Butterfly,SCM,W,85-89,2:59.72,June B Reynolds,,Bridge The Bay,2007,1
+FMM,200 M Butterfly,SCM,W,85-89,6:45.75,June B Reynolds,,Bridge The Bay,2007,1
+FMM,100 M Individual Medley,SCM,W,85-89,2:54.59,June B Reynolds,,Bridge The Bay,2007,1
+FMM,400 M Individual Medley,SCM,W,85-89,12:30.12,June B Reynolds,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,M,50-54,7:25.00,Gregory Rotole,,Holiday Classic,2007,1
+FMM,800 M Freestyle,SCM,M,50-54,15:31.39,Gregory S Rotole,,Bridge The Bay,2007,1
+FMM,1500 M Freestyle,SCM,M,50-54,29:06.10,Gregory S Rotole,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,M,50-54,4:12.84,Gregory Rotole,,Holiday Classic,2007,1
+FMM,200 M Breaststroke,SCM,M,50-54,4:35.58,Gregory Rotole,,Holiday Classic,2007,1
+FMM,50 M Butterfly,SCM,M,50-54,47.07,Gregory S Rotole,,Bridge The Bay,2007,1
+FMM,200 M Butterfly,SCM,M,50-54,4:03.56,Gregory Rotole,,Holiday Classic,2007,1
+FMM,100 M Individual Medley,SCM,M,50-54,1:49.26,Gregory S Rotole,,Bridge The Bay,2007,1
+FMM,200 M Individual Medley,SCM,M,50-54,4:05.53,Gregory S Rotole,,Bridge The Bay,2007,1
+FMM,400 M Individual Medley,SCM,M,50-54,8:29.67,Gregory Rotole,,Holiday Classic,2007,1
+FMM,50 M Freestyle,SCM,M,65-69,32.45,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,200 M Freestyle,SCM,M,65-69,2:35.13,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,M,65-69,5:35.53,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,800 M Freestyle,SCM,M,65-69,11:39.53,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,1500 M Freestyle,SCM,M,65-69,22:05.11,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,M,65-69,39.35,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,100 M Backstroke,SCM,M,65-69,1:27.45,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,M,65-69,3:01.88,Gaylord Hopkins,,Bridge The Bay,2007,1
+FMM,200 M Freestyle,SCM,M,70-74,4:04.08,Rick Gee,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,M,70-74,9:11.76,Rick Gee,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,M,75-79,38.62,James T Pitts,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,M,75-79,54.27,Harrison Homans,,Bridge The Bay,2007,2
+FMM,100 M Freestyle,SCM,M,75-79,1:29.29,James T Pitts,,Bridge The Bay,2007,1
+FMM,100 M Freestyle,SCM,M,75-79,1:58.39,Harrison Homans,,Bridge The Bay,2007,2
+FMM,200 M Freestyle,SCM,M,75-79,3:25.72,James T Pitts,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,M,75-79,8:05.33,James T Pitts,,Bridge The Bay,2007,1
+FMM,400 M Freestyle,SCM,M,75-79,10:18.62,Harrison Homans,,Bridge The Bay,2007,2
+FMM,800 M Freestyle,SCM,M,75-79,16:13.69,James T Pitts,,Bridge The Bay,2007,1
+FMM,1500 M Freestyle,SCM,M,75-79,30:43.58,James T Pitts,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,M,75-79,54.00,James T Pitts,,Bridge The Bay,2007,1
+FMM,50 M Backstroke,SCM,M,75-79,56.45,Harrison Homans,,Bridge The Bay,2007,2
+FMM,100 M Backstroke,SCM,M,75-79,2:13.70,Harrison Homans,,Bridge The Bay,2007,1
+FMM,200 M Backstroke,SCM,M,75-79,4:46.85,Harrison Homans,,Bridge The Bay,2007,1
+FMM,50 M Freestyle,SCM,M,80-84,40.72,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,50 M Freestyle,SCM,M,80-84,52.17,Paul Hutinger,,Bridge The Bay,2007,2
+FMM,100 M Freestyle,SCM,M,80-84,1:41.72,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,200 M Freestyle,SCM,M,80-84,3:58.85,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,400 M Freestyle,SCM,M,80-84,8:21.28,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,1500 M Freestyle,SCM,M,80-84,35:03.69,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,50 M Backstroke,SCM,M,80-84,45.80,Paul Hutinger,,Holiday Classic,2007,1
+FMM,100 M Backstroke,SCM,M,80-84,1:51.94,Paul Hutinger,,Holiday Classic,2007,1
+FMM,200 M Backstroke,SCM,M,80-84,4:10.60,Paul Hutinger,,Holiday Classic,2007,1
+FMM,100 M Breaststroke,SCM,M,80-84,2:42.41,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,200 M Breaststroke,SCM,M,80-84,5:52.58,Robert S Blake,,TYR Grand Prix 2 - GRIN Fall Classic,2007,1
+FMM,50 M Butterfly,SCM,M,80-84,54.40,Paul Hutinger,,Holiday Classic,2007,1
+FMM,100 M Butterfly,SCM,M,80-84,2:12.81,Paul Hutinger,,Holiday Classic,2007,1
+FMM,200 M Butterfly,SCM,M,80-84,5:01.08,Paul Hutinger,,Holiday Classic,2007,1
+HLJ,100 M Freestyle,SCM,M,80-84,1:53.28,William H Adams,,Bridge The Bay,2007,1
+HLJ,50 M Backstroke,SCM,M,80-84,1:00.31,William H Adams,,Bridge The Bay,2007,1
+SCSF,50 M Freestyle,SCM,W,35-39,41.57,Jennifer M Catucci-Crowther,,Bridge The Bay,2007,1
+SCSF,200 M Freestyle,SCM,W,35-39,3:20.18,Jennifer M Catucci-Crowther,,Bridge The Bay,2007,1
+SCSF,400 M Freestyle,SCM,W,35-39,6:51.16,Jennifer M Catucci-Crowther,,Bridge The Bay,2007,1
+SCSF,100 M Backstroke,SCM,W,35-39,1:43.19,Jennifer M Catucci-Crowther,,Bridge The Bay,2007,1
+SCSF,400 M Individual Medley,SCM,W,35-39,7:54.02,Jennifer M Catucci-Crowther,,Bridge The Bay,2007,1
+SCSF,50 M Freestyle,SCM,M,45-49,32.40,James L Whitsett,,Bridge The Bay,2007,1
+SCSF,200 M Freestyle,SCM,M,45-49,2:46.14,James L Whitsett,,Bridge The Bay,2007,1
+SCSF,400 M Freestyle,SCM,M,45-49,5:43.36,James L Whitsett,,Bridge The Bay,2007,1
+SCSF,200 M Individual Medley,SCM,M,45-49,3:10.07,James L Whitsett,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,W,25-29,1:17.22,Adrienne M Forkois,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,W,25-29,12:10.85,Adrienne M Forkois,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,W,25-29,23:04.68,Adrienne M Forkois,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,W,25-29,1:36.12,Adrienne M Forkois,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,W,25-29,38.17,Adrienne M Forkois,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,25-29,1:25.96,Adrienne M Forkois,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,W,30-34,1:14.28,Alegra C Reich,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,30-34,1:08.19,Alegra C Reich,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,W,40-44,29.47,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,W,40-44,1:03.40,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,W,40-44,2:14.60,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,W,40-44,4:43.14,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,W,40-44,9:49.21,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,W,40-44,18:30.26,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,200 M Backstroke,SCM,W,40-44,2:35.26,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,40-44,1:13.77,Charlotte Petersen,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,W,45-49,11:35.03,Sharon B Steinmann,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,W,45-49,21:50.63,Sharon B Steinmann,,Bridge The Bay,2007,1
+SPM,200 M Backstroke,SCM,W,45-49,3:11.44,Sharon B Steinmann,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,45-49,1:28.58,Sharon B Steinmann,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,W,50-54,5:06.95,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,W,50-54,11:56.98,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,W,50-54,22:48.31,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,50 M Breaststroke,SCM,W,50-54,47.02,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,W,50-54,3:28.42,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,200 M Butterfly,SCM,W,50-54,3:32.49,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,200 M Individual Medley,SCM,W,50-54,3:11.84,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,400 M Individual Medley,SCM,W,50-54,6:43.98,Jo Ann Harrelson,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,W,55-59,36.40,Pam Geiger,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,W,55-59,1:16.56,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,W,55-59,2:49.67,Pam Geiger,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,W,55-59,2:50.01,Judy K Humbarger,,Bridge The Bay,2007,2
+SPM,400 M Freestyle,SCM,W,55-59,6:07.13,Pam Geiger,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,W,55-59,37.55,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,100 M Backstroke,SCM,W,55-59,1:24.06,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,100 M Backstroke,SCM,W,55-59,1:38.35,Pam Geiger,,Bridge The Bay,2007,2
+SPM,200 M Backstroke,SCM,W,55-59,2:58.14,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,W,55-59,36.89,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,100 M Butterfly,SCM,W,55-59,1:26.68,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,55-59,1:27.65,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,200 M Individual Medley,SCM,W,55-59,3:05.92,Judy K Humbarger,,Bridge The Bay,2007,1
+SPM,200 M Individual Medley,SCM,W,55-59,3:26.97,Pam Geiger,,Bridge The Bay,2007,2
+SPM,50 M Freestyle,SCM,W,65-69,53.08,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,W,65-69,1:56.11,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,W,65-69,4:09.83,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,W,65-69,8:40.00,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,W,65-69,47.89,Diane S Williams,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,W,65-69,1:23.02,Sandy L Steer,,Bridge The Bay,2007,2
+SPM,50 M Breaststroke,SCM,W,65-69,1:02.54,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,W,65-69,2:17.42,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,W,65-69,4:48.98,Sandy L Steer,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,65-69,1:47.37,Diane S Williams,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,W,65-69,2:24.63,Sandy L Steer,,Bridge The Bay,2007,2
+SPM,100 M Freestyle,SCM,W,70-74,1:54.48,Katie A Knight-Perry,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,W,70-74,17:28.49,Katie A Knight-Perry,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,W,70-74,32:42.91,Katie A Knight-Perry,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,M,18-24,4:13.85,Edward (Ted) J Bradley,,Bridge The Bay,2007,1
+SPM,200 M Backstroke,SCM,M,18-24,2:08.69,Edward (Ted) J Bradley,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,18-24,1:09.60,Edward (Ted) J Bradley,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,M,18-24,2:41.07,Edward (Ted) J Bradley,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,25-29,1:07.43,Kerry Sullivan,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,30-34,55.00,John H Reich,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,30-34,1:03.85,John H Reich,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,M,35-39,26.79,Eric C Herman,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,35-39,58.65,Eric C Herman,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,M,35-39,2:12.55,Eric C Herman,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,M,35-39,5:05.17,Eric C Herman,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,35-39,39.02,Eric C Herman,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,35-39,1:23.46,Eric C Herman,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,M,35-39,30.81,Eric C Herman,,Bridge The Bay,2007,1
+SPM,100 M Butterfly,SCM,M,35-39,1:13.43,Eric C Herman,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,35-39,1:13.02,Eric C Herman,,Bridge The Bay,2007,1
+SPM,200 M Individual Medley,SCM,M,35-39,2:38.97,Eric C Herman,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,M,45-49,4:37.65,William L Specht,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,M,45-49,10:59.33,Ron L Collins,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,M,45-49,20:49.69,Ron L Collins,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,45-49,29.88,William L Specht,,Bridge The Bay,2007,1
+SPM,100 M Backstroke,SCM,M,45-49,1:07.10,William L Specht,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,45-49,1:25.12,Ron L Collins,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,M,45-49,27.33,William L Specht,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,M,45-49,30.29,Ron L Collins,,Bridge The Bay,2007,2
+SPM,100 M Butterfly,SCM,M,45-49,1:00.24,William L Specht,,Bridge The Bay,2007,1
+SPM,200 M Butterfly,SCM,M,45-49,2:16.87,William L Specht,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,45-49,1:12.77,Ron L Collins,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,50-54,1:02.08,Kern M Davis,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,50-54,1:22.09,Kern M Davis,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,M,50-54,30.93,Kern M Davis,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,50-54,1:12.02,Kern M Davis,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,M,55-59,30.24,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,M,55-59,43.97,Jerry L Little,,Bridge The Bay,2007,2
+SPM,100 M Freestyle,SCM,M,55-59,1:08.42,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,55-59,1:09.07,Bruce E Day,,Bridge The Bay,2007,2
+SPM,100 M Freestyle,SCM,M,55-59,1:10.08,James M Davis,,Bridge The Bay,2007,3
+SPM,200 M Freestyle,SCM,M,55-59,2:33.94,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,M,55-59,4:12.19,Jerry L Little,,Bridge The Bay,2007,2
+SPM,400 M Freestyle,SCM,M,55-59,5:26.99,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,M,55-59,12:14.44,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,M,55-59,23:06.02,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,55-59,38.05,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,55-59,40.32,James M Davis,,Bridge The Bay,2007,2
+SPM,200 M Backstroke,SCM,M,55-59,3:15.53,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,50 M Breaststroke,SCM,M,55-59,41.13,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,50 M Breaststroke,SCM,M,55-59,1:02.78,Jerry L Little,,Bridge The Bay,2007,2
+SPM,100 M Breaststroke,SCM,M,55-59,1:37.42,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,M,55-59,3:33.35,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,M,55-59,5:07.88,Jerry L Little,,Bridge The Bay,2007,2
+SPM,50 M Butterfly,SCM,M,55-59,31.80,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,100 M Butterfly,SCM,M,55-59,1:37.23,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,55-59,1:17.67,Gary A Bastie,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,55-59,1:20.53,James M Davis,,Bridge The Bay,2007,2
+SPM,100 M Individual Medley,SCM,M,55-59,1:31.77,Bruce E Day,,Bridge The Bay,2007,3
+SPM,200 M Individual Medley,SCM,M,55-59,3:11.73,Robert E Aldrich,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,60-64,1:06.76,John P Maguire,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,60-64,1:27.28,Dennis Shea,,Bridge The Bay,2007,2
+SPM,50 M Backstroke,SCM,M,60-64,41.21,Dennis Shea,,Bridge The Bay,2007,1
+SPM,200 M Backstroke,SCM,M,60-64,3:41.12,Dennis Shea,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,60-64,1:26.37,Theunis A Van Der Veen,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,65-69,2:50.47,Joseph H Baker,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,65-69,38.15,Peter R Betzer,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,65-69,1:38.50,Joseph H Baker,,Bridge The Bay,2007,2
+SPM,200 M Backstroke,SCM,M,65-69,3:09.61,Peter R Betzer,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,65-69,1:32.70,Peter R Betzer,,Bridge The Bay,2007,1
+SPM,100 M Breaststroke,SCM,M,65-69,4:25.65,Joseph H Baker,,Bridge The Bay,2007,2
+SPM,50 M Butterfly,SCM,M,65-69,2:28.82,Joseph H Baker,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,70-74,1:35.67,John R Cox,,Bridge The Bay,2007,1
+SPM,800 M Freestyle,SCM,M,70-74,15:55.59,John R Cox,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,M,70-74,30:02.38,John R Cox,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,M,70-74,1:01.19,John R Cox,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,70-74,2:01.68,John R Cox,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,M,75-79,39.41,Harold Ferris,,Bridge The Bay,2007,1
+SPM,50 M Freestyle,SCM,M,75-79,40.87,Robert E Beach,,Bridge The Bay,2007,2
+SPM,100 M Freestyle,SCM,M,75-79,1:50.27,Harold Ferris,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,M,75-79,3:14.81,Robert E Beach,,Bridge The Bay,2007,1
+SPM,200 M Freestyle,SCM,M,75-79,3:57.27,Harold Ferris,,Bridge The Bay,2007,2
+SPM,400 M Freestyle,SCM,M,75-79,6:48.65,Robert E Beach,,Bridge The Bay,2007,1
+SPM,400 M Freestyle,SCM,M,75-79,12:03.82,Ned P Allen,,Bridge The Bay,2007,2
+SPM,800 M Freestyle,SCM,M,75-79,14:01.77,Robert E Beach,,Bridge The Bay,2007,1
+SPM,1500 M Freestyle,SCM,M,75-79,26:29.36,Robert E Beach,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,75-79,53.72,Mike J Torsney,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,75-79,55.69,Harold Ferris,,Bridge The Bay,2007,2
+SPM,50 M Backstroke,SCM,M,75-79,1:31.34,Ned P Allen,,Bridge The Bay,2007,3
+SPM,100 M Backstroke,SCM,M,75-79,2:15.01,Harold Ferris,,Bridge The Bay,2007,1
+SPM,200 M Backstroke,SCM,M,75-79,4:08.00,Mike J Torsney,,Bridge The Bay,2007,1
+SPM,200 M Backstroke,SCM,M,75-79,4:44.09,Harold Ferris,,Bridge The Bay,2007,2
+SPM,200 M Backstroke,SCM,M,75-79,6:29.06,Ned P Allen,,Bridge The Bay,2007,3
+SPM,100 M Breaststroke,SCM,M,75-79,4:36.27,Ned P Allen,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,M,75-79,9:48.32,Ned P Allen,,Bridge The Bay,2007,1
+SPM,50 M Butterfly,SCM,M,75-79,52.32,Mike J Torsney,,Bridge The Bay,2007,1
+SPM,100 M Butterfly,SCM,M,75-79,3:15.46,Ned P Allen,,Bridge The Bay,2007,1
+SPM,100 M Individual Medley,SCM,M,75-79,3:17.57,Ned P Allen,,Bridge The Bay,2007,1
+SPM,200 M Individual Medley,SCM,M,75-79,7:05.07,Ned P Allen,,Bridge The Bay,2007,1
+SPM,400 M Individual Medley,SCM,M,75-79,14:28.53,Ned P Allen,,Bridge The Bay,2007,1
+SPM,100 M Freestyle,SCM,M,85-89,2:48.29,Robert D Atwood,,Bridge The Bay,2007,1
+SPM,50 M Backstroke,SCM,M,85-89,1:41.72,Robert D Atwood,,Bridge The Bay,2007,1
+SPM,50 M Breaststroke,SCM,M,85-89,1:09.09,Abrasha Brainin,,Bridge The Bay,2007,1
+SPM,200 M Breaststroke,SCM,M,85-89,6:11.58,Abrasha Brainin,,Bridge The Bay,2007,1
+SWFA,50 M Backstroke,SCM,W,65-69,48.57,Margit Jebe,,Holiday Classic,2007,1
+SWFA,50 M Breaststroke,SCM,W,65-69,48.91,Margit Jebe,,Holiday Classic,2007,1
+SWFA,100 M Breaststroke,SCM,W,65-69,1:45.54,Margit Jebe,,Holiday Classic,2007,1
+SWFA,100 M Individual Medley,SCM,W,65-69,1:42.02,Margit Jebe,,Holiday Classic,2007,1
+SWFA,50 M Freestyle,SCM,M,60-64,32.88,William S Wallace,,Bridge The Bay,2007,1
+SWFA,200 M Freestyle,SCM,M,60-64,2:57.80,William S Wallace,,Bridge The Bay,2007,1
+SWFA,50 M Breaststroke,SCM,M,60-64,40.90,William S Wallace,,Bridge The Bay,2007,1
+SWFA,200 M Breaststroke,SCM,M,60-64,3:32.50,William S Wallace,,Bridge The Bay,2007,1
+SWFA,100 M Individual Medley,SCM,M,60-64,1:29.01,William S Wallace,,Bridge The Bay,2007,1
+SWFA,200 M Individual Medley,SCM,M,60-64,3:33.98,William S Wallace,,Bridge The Bay,2007,1
+SWFA,50 M Freestyle,SCM,M,65-69,33.54,Karl E Wiedamann,,Bridge The Bay,2007,1
+SWFA,50 M Breaststroke,SCM,M,65-69,39.05,Karl E Wiedamann,,Bridge The Bay,2007,1
+SWFA,200 M Breaststroke,SCM,M,65-69,3:14.49,Karl E Wiedamann,,Bridge The Bay,2007,1
+SWIM,50 M Freestyle,SCM,M,18-24,32.18,Bobby J Weber,,Bridge The Bay,2007,1
+SWIM,50 M Breaststroke,SCM,M,18-24,44.70,Bobby J Weber,,Bridge The Bay,2007,1
+SWIM,200 M Breaststroke,SCM,M,18-24,3:17.55,Bobby J Weber,,Bridge The Bay,2007,1
+SWIM,100 M Butterfly,SCM,M,18-24,1:16.91,Bobby J Weber,,Bridge The Bay,2007,1
+SWIM,200 M Individual Medley,SCM,M,18-24,2:57.66,Bobby J Weber,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,25-29,27.99,Agnese Butler,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,25-29,2:13.20,Agnese Butler,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,25-29,2:17.79,Kelli S Sweeting,,Bridge The Bay,2007,2
+SYSM,50 M Backstroke,SCM,W,25-29,32.71,Agnese Butler,,Bridge The Bay,2007,1
+SYSM,100 M Backstroke,SCM,W,25-29,1:10.52,Kelli S Sweeting,,Bridge The Bay,2007,1
+SYSM,200 M Backstroke,SCM,W,25-29,2:27.19,Kelli S Sweeting,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,W,25-29,35.42,Agnese Butler,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,W,25-29,1:16.80,Agnese Butler,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,W,25-29,1:08.23,Agnese Butler,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,W,25-29,2:30.30,Kelli S Sweeting,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,W,25-29,2:31.82,Agnese Butler,,Bridge The Bay,2007,2
+SYSM,50 M Freestyle,SCM,W,30-34,32.42,Julie M Lindblad,,Bridge The Bay,2007,1
+SYSM,800 M Freestyle,SCM,W,30-34,9:54.64,Melissa D Varlas,,Bridge The Bay,2007,1
+SYSM,1500 M Freestyle,SCM,W,30-34,19:21.84,Melissa D Varlas,,Bridge The Bay,2007,1
+SYSM,50 M Butterfly,SCM,W,30-34,31.69,Melissa D Varlas,,Bridge The Bay,2007,1
+SYSM,100 M Butterfly,SCM,W,30-34,1:21.01,Julie M Lindblad,,Bridge The Bay,2007,1
+SYSM,200 M Butterfly,SCM,W,30-34,2:33.82,Melissa D Varlas,,Bridge The Bay,2007,1
+SYSM,400 M Individual Medley,SCM,W,30-34,5:37.72,Melissa Varlas,,Holiday Classic,2007,1
+SYSM,200 M Freestyle,SCM,W,35-39,2:57.11,Christine P Bowers,,Bridge The Bay,2007,1
+SYSM,100 M Backstroke,SCM,W,35-39,1:38.15,Christine P Bowers,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,W,35-39,3:23.48,Christine P Bowers,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,40-44,29.75,Larissa Carmichael,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,40-44,33.69,Lisa N Repassy,,Bridge The Bay,2007,2
+SYSM,50 M Freestyle,SCM,W,40-44,38.30,Georgia S Blankenship,,Bridge The Bay,2007,3
+SYSM,100 M Freestyle,SCM,W,40-44,1:04.51,Larissa Carmichael,,Bridge The Bay,2007,1
+SYSM,100 M Freestyle,SCM,W,40-44,1:07.53,Ellen K Bennett,,Bridge The Bay,2007,2
+SYSM,200 M Freestyle,SCM,W,40-44,2:20.58,Larissa Carmichael,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,40-44,2:41.67,Stacey Howle,,Bridge The Bay,2007,2
+SYSM,200 M Freestyle,SCM,W,40-44,2:43.64,Lisa N Repassy,,Bridge The Bay,2007,3
+SYSM,400 M Freestyle,SCM,W,40-44,5:30.25,Stacey Howle,,Bridge The Bay,2007,1
+SYSM,800 M Freestyle,SCM,W,40-44,10:30.40,Larissa Carmichael,,Bridge The Bay,2007,1
+SYSM,800 M Freestyle,SCM,W,40-44,10:31.64,Ellen K Bennett,,Bridge The Bay,2007,2
+SYSM,1500 M Freestyle,SCM,W,40-44,19:46.04,Larissa Carmichael,,Bridge The Bay,2007,1
+SYSM,1500 M Freestyle,SCM,W,40-44,19:48.21,Ellen K Bennett,,Bridge The Bay,2007,2
+SYSM,100 M Backstroke,SCM,W,40-44,1:32.11,Stacey Howle,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,W,40-44,40.68,Laura Hamel,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,W,40-44,1:27.36,Ellen K Bennett,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,W,40-44,1:29.27,Laura Hamel,,Bridge The Bay,2007,2
+SYSM,200 M Breaststroke,SCM,W,40-44,3:08.70,Ellen K Bennett,,Bridge The Bay,2007,1
+SYSM,200 M Breaststroke,SCM,W,40-44,3:14.72,Laura Hamel,,Bridge The Bay,2007,2
+SYSM,100 M Individual Medley,SCM,W,40-44,1:23.39,Laura Hamel,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,W,40-44,2:52.48,Ellen K Bennett,,Bridge The Bay,2007,1
+SYSM,400 M Individual Medley,SCM,W,40-44,5:57.33,Ellen K Bennett,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,45-49,29.76,Cathy A Fedako,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,45-49,34.21,Deanna Doyle,,Bridge The Bay,2007,2
+SYSM,100 M Freestyle,SCM,W,45-49,1:06.95,Cathy A Fedako,,Bridge The Bay,2007,1
+SYSM,100 M Freestyle,SCM,W,45-49,1:11.39,Deanna Doyle,,Bridge The Bay,2007,2
+SYSM,100 M Freestyle,SCM,W,45-49,1:22.88,Danette LaFrance,,Bridge The Bay,2007,3
+SYSM,400 M Freestyle,SCM,W,45-49,5:11.20,Cathy A Fedako,,Bridge The Bay,2007,1
+SYSM,800 M Freestyle,SCM,W,45-49,13:22.50,Danette LaFrance,,Bridge The Bay,2007,1
+SYSM,1500 M Freestyle,SCM,W,45-49,25:28.54,Danette LaFrance,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,W,45-49,37.30,Deanna Doyle,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,W,45-49,37.70,Cathy A Fedako,,Bridge The Bay,2007,2
+SYSM,100 M Backstroke,SCM,W,45-49,1:21.44,Deanna Doyle,,Bridge The Bay,2007,1
+SYSM,50 M Butterfly,SCM,W,45-49,36.63,Cathy A Fedako,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,50-54,39.10,Carol S Metzger,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,50-54,3:21.25,Carol S Metzger,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,50-54,3:37.59,Julia Rose,,Bridge The Bay,2007,2
+SYSM,200 M Freestyle,SCM,W,50-54,4:08.45,Linda J Showalter,,Bridge The Bay,2007,3
+SYSM,50 M Breaststroke,SCM,W,50-54,51.04,Carol S Metzger,,Bridge The Bay,2007,1
+SYSM,200 M Breaststroke,SCM,W,50-54,4:13.41,Julia Rose,,Bridge The Bay,2007,1
+SYSM,100 M Butterfly,SCM,W,50-54,1:46.75,Carol S Metzger,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,W,50-54,3:45.33,Carol S Metzger,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,55-59,33.60,Suzette Trainor,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,55-59,40.21,Eileen H Amesbury,,Bridge The Bay,2007,2
+SYSM,100 M Freestyle,SCM,W,55-59,1:30.40,Eileen H Amesbury,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,55-59,3:23.38,Eileen H Amesbury,,Bridge The Bay,2007,1
+SYSM,400 M Freestyle,SCM,W,55-59,7:07.81,Eileen H Amesbury,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,W,55-59,48.32,Eileen H Amesbury,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,W,55-59,43.27,Suzette Trainor,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,W,55-59,1:46.10,Eileen H Amesbury,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,60-64,46.06,Marney E Kuna,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,W,60-64,52.06,Linda M Riley,,Bridge The Bay,2007,2
+SYSM,50 M Freestyle,SCM,W,60-64,54.83,Theo Carroll,,Bridge The Bay,2007,3
+SYSM,200 M Freestyle,SCM,W,60-64,3:56.53,Marney E Kuna,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,W,60-64,4:20.64,Linda M Riley,,Bridge The Bay,2007,2
+SYSM,100 M Backstroke,SCM,W,60-64,2:10.40,Theo Carroll,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,W,60-64,1:01.70,Theo Carroll,,Bridge The Bay,2007,1
+SYSM,200 M Breaststroke,SCM,W,60-64,4:52.17,Theo Carroll,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,W,65-69,6:25.50,Eva M Holtzer,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,35-39,24.84,W. Winston Ritchey,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,35-39,27.99,Brett E Klein,,Bridge The Bay,2007,2
+SYSM,50 M Freestyle,SCM,M,35-39,28.27,Paul G Butcher,,Bridge The Bay,2007,3
+SYSM,50 M Freestyle,SCM,M,35-39,35.36,Steven M Butler,,Bridge The Bay,2007,4
+SYSM,200 M Freestyle,SCM,M,35-39,2:07.73,W. Winston Ritchey,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,M,35-39,2:21.22,Brett E Klein,,Bridge The Bay,2007,2
+SYSM,200 M Freestyle,SCM,M,35-39,2:25.81,Michael A Bowers,,Bridge The Bay,2007,3
+SYSM,200 M Freestyle,SCM,M,35-39,2:58.56,Steven M Butler,,Bridge The Bay,2007,4
+SYSM,400 M Freestyle,SCM,M,35-39,5:20.87,Paul G Butcher,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,M,35-39,29.38,Jay R Lockaby,,Bridge The Bay,2007,1
+SYSM,100 M Backstroke,SCM,M,35-39,1:01.60,Jay R Lockaby,,Bridge The Bay,2007,1
+SYSM,100 M Backstroke,SCM,M,35-39,1:10.90,Michael A Bowers,,Bridge The Bay,2007,2
+SYSM,50 M Breaststroke,SCM,M,35-39,33.00,W. Winston Ritchey,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,M,35-39,36.86,Paul G Butcher,,Bridge The Bay,2007,2
+SYSM,50 M Breaststroke,SCM,M,35-39,38.31,Brett E Klein,,Bridge The Bay,2007,3
+SYSM,50 M Breaststroke,SCM,M,35-39,50.64,Steven M Butler,,Bridge The Bay,2007,4
+SYSM,100 M Breaststroke,SCM,M,35-39,1:15.13,W. Winston Ritchey,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,M,35-39,1:19.91,Paul G Butcher,,Bridge The Bay,2007,2
+SYSM,200 M Breaststroke,SCM,M,35-39,2:56.83,Paul G Butcher,,Bridge The Bay,2007,1
+SYSM,50 M Butterfly,SCM,M,35-39,27.54,Jay R Lockaby,,Bridge The Bay,2007,1
+SYSM,50 M Butterfly,SCM,M,35-39,29.98,Paul G Butcher,,Bridge The Bay,2007,2
+SYSM,100 M Butterfly,SCM,M,35-39,59.91,Jay R Lockaby,,Bridge The Bay,2007,1
+SYSM,100 M Butterfly,SCM,M,35-39,1:12.08,Paul G Butcher,,Bridge The Bay,2007,2
+SYSM,200 M Butterfly,SCM,M,35-39,2:26.35,Jay R Lockaby,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,M,35-39,1:04.43,Jay R Lockaby,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,M,35-39,1:04.81,W. Winston Ritchey,,Bridge The Bay,2007,2
+SYSM,100 M Individual Medley,SCM,M,35-39,1:14.17,Paul G Butcher,,Bridge The Bay,2007,3
+SYSM,200 M Individual Medley,SCM,M,35-39,2:46.32,Michael A Bowers,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,M,35-39,3:43.49,Steven M Butler,,Bridge The Bay,2007,2
+SYSM,50 M Freestyle,SCM,M,40-44,27.37,Mark B Bokorney,,Bridge The Bay,2007,1
+SYSM,400 M Freestyle,SCM,M,40-44,5:28.96,Mark B Bokorney,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,M,40-44,33.52,Marshall Pepe,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,M,40-44,36.49,Mark B Bokorney,,Bridge The Bay,2007,2
+SYSM,800 M Freestyle,SCM,M,45-49,9:27.96,Arnaldo A Perez,,Bridge The Bay,2007,1
+SYSM,1500 M Freestyle,SCM,M,45-49,17:53.80,Arnaldo A Perez,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,M,45-49,32.37,Arnaldo A Perez,,Bridge The Bay,2007,1
+SYSM,200 M Backstroke,SCM,M,45-49,2:25.67,Arnaldo A Perez,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,M,45-49,1:08.60,Arnaldo A Perez,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,50-54,58.60,Paul A Cajka,,Bridge The Bay,2007,1
+SYSM,100 M Freestyle,SCM,M,50-54,2:01.80,Paul A Cajka,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,M,50-54,4:22.84,Paul A Cajka,,Bridge The Bay,2007,1
+SYSM,400 M Freestyle,SCM,M,50-54,4:23.91,Mark Drennen,,Holiday Classic,2007,1
+SYSM,400 M Freestyle,SCM,M,50-54,8:38.35,Paul A Cajka,,Bridge The Bay,2007,2
+SYSM,800 M Freestyle,SCM,M,50-54,9:04.01,Mark Drennen,,Holiday Classic,2007,1
+SYSM,800 M Freestyle,SCM,M,50-54,18:01.95,Paul A Cajka,,Bridge The Bay,2007,2
+SYSM,1500 M Freestyle,SCM,M,50-54,17:14.75,Mark A Drennen,,Bridge The Bay,2007,1
+SYSM,1500 M Freestyle,SCM,M,50-54,34:23.78,Paul A Cajka,,Bridge The Bay,2007,2
+SYSM,50 M Backstroke,SCM,M,50-54,1:44.42,Paul A Cajka,,Bridge The Bay,2007,1
+SYSM,200 M Backstroke,SCM,M,50-54,2:27.40,Mark Drennen,,Holiday Classic,2007,1
+SYSM,50 M Breaststroke,SCM,M,50-54,34.84,Mark A Drennen,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,M,50-54,1:02.09,Paul A Cajka,,Bridge The Bay,2007,2
+SYSM,100 M Breaststroke,SCM,M,50-54,1:17.20,Mark A Drennen,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,M,50-54,2:19.15,Paul A Cajka,,Bridge The Bay,2007,2
+SYSM,200 M Breaststroke,SCM,M,50-54,2:42.69,Mark A Drennen,,Bridge The Bay,2007,1
+SYSM,200 M Breaststroke,SCM,M,50-54,4:55.39,Paul A Cajka,,Bridge The Bay,2007,2
+SYSM,100 M Individual Medley,SCM,M,50-54,1:07.52,Mark A Drennen,,Bridge The Bay,2007,1
+SYSM,200 M Individual Medley,SCM,M,50-54,2:24.28,Mark Drennen,,Holiday Classic,2007,1
+SYSM,400 M Individual Medley,SCM,M,50-54,5:06.22,Mark A Drennen,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,55-59,28.68,Kevin M McCormack,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,55-59,33.68,Michael P Beachler,,VMST Fall SCM at Virginia Beach,2007,2
+SYSM,100 M Freestyle,SCM,M,55-59,1:02.88,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,M,55-59,2:13.87,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,M,55-59,2:44.93,Michael P Beachler,,VMST Fall SCM at Virginia Beach,2007,2
+SYSM,400 M Freestyle,SCM,M,55-59,4:48.87,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,400 M Freestyle,SCM,M,55-59,5:58.84,Michael P Beachler,,VMST Fall SCM at Virginia Beach,2007,2
+SYSM,800 M Freestyle,SCM,M,55-59,9:59.82,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,800 M Freestyle,SCM,M,55-59,12:01.96,Michael P Beachler,,VMST Fall SCM at Virginia Beach,2007,2
+SYSM,1500 M Freestyle,SCM,M,55-59,18:33.73,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,M,55-59,33.95,Kevin McCormack,,Holiday Classic,2007,1
+SYSM,100 M Backstroke,SCM,M,55-59,1:11.75,Kevin McCormack,,Holiday Classic,2007,1
+SYSM,200 M Backstroke,SCM,M,55-59,2:37.18,Kevin M McCormack,,Bridge The Bay,2007,1
+SYSM,50 M Breaststroke,SCM,M,55-59,35.96,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,M,55-59,1:18.74,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,200 M Breaststroke,SCM,M,55-59,2:54.31,Rick B Walker,,Bridge The Bay,2007,1
+SYSM,50 M Butterfly,SCM,M,55-59,28.95,Kevin McCormack,,Holiday Classic,2007,1
+SYSM,100 M Butterfly,SCM,M,55-59,1:04.67,Kevin M McCormack,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,60-64,30.41,Jan Soderstrom,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,60-64,31.94,Thomas G Cornell,,Bridge The Bay,2007,2
+SYSM,200 M Freestyle,SCM,M,60-64,2:42.89,Jan Soderstrom,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,M,60-64,2:48.00,Thomas G Cornell,,Bridge The Bay,2007,2
+SYSM,400 M Freestyle,SCM,M,60-64,5:58.84,Thomas G Cornell,,Bridge The Bay,2007,1
+SYSM,50 M Backstroke,SCM,M,60-64,34.21,Jan Soderstrom,,Holiday Classic,2007,1
+SYSM,100 M Backstroke,SCM,M,60-64,1:14.68,Jan Soderstrom,,Holiday Classic,2007,1
+SYSM,200 M Backstroke,SCM,M,60-64,2:58.03,Jan Soderstrom,,Holiday Classic,2007,1
+SYSM,50 M Breaststroke,SCM,M,60-64,42.22,Darryl W Sjoberg,,Bridge The Bay,2007,1
+SYSM,100 M Breaststroke,SCM,M,60-64,1:34.45,Darryl W Sjoberg,,Bridge The Bay,2007,1
+SYSM,200 M Breaststroke,SCM,M,60-64,3:33.18,Darryl W Sjoberg,,Bridge The Bay,2007,1
+SYSM,50 M Butterfly,SCM,M,60-64,40.56,Darryl W Sjoberg,,Bridge The Bay,2007,1
+SYSM,100 M Butterfly,SCM,M,60-64,1:27.50,Thomas G Cornell,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,M,60-64,1:36.01,Darryl W Sjoberg,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,65-69,34.49,Dean Dye,,Bridge The Bay,2007,1
+SYSM,50 M Freestyle,SCM,M,70-74,33.18,Dren Geer,,Bridge The Bay,2007,1
+SYSM,200 M Freestyle,SCM,M,70-74,2:44.95,Dren Geer,,Bridge The Bay,2007,1
+SYSM,100 M Individual Medley,SCM,M,70-74,1:22.82,Burwell Jones,,Bridge The Bay,2007,1
+UNAT,100 M Freestyle,SCM,M,25-29,57.06,Tom L Lowenthal,,Bridge The Bay,2007,1
+UNAT,100 M Freestyle,SCM,M,25-29,58.08,Michael S Mulbarger,,Bridge The Bay,2007,2
+UNAT,50 M Butterfly,SCM,M,25-29,29.36,Michael S Mulbarger,,Bridge The Bay,2007,1
+UNAT,50 M Butterfly,SCM,M,25-29,29.38,Tom L Lowenthal,,Bridge The Bay,2007,2
+UNAT,100 M Individual Medley,SCM,M,25-29,1:07.36,Tom L Lowenthal,,Bridge The Bay,2007,1
+UNAT,100 M Individual Medley,SCM,M,25-29,1:09.82,Michael S Mulbarger,,Bridge The Bay,2007,2
+UNAT,50 M Freestyle,SCM,M,45-49,36.33,William C Pray,,St Nick's Invite by Atlanta Rainbow Trout SCM,2007,1
+UNAT,50 M Breaststroke,SCM,M,45-49,47.53,William C Pray,,St Nick's Invite by Atlanta Rainbow Trout SCM,2007,1
+UNAT,50 M Breaststroke,SCM,M,60-64,35.16,Scott Guthrie,,Holiday Classic,2007,1
+WIN,100 M Freestyle,SCM,W,45-49,1:12.74,Jean M Henne,,Bridge The Bay,2007,1
+WIN,100 M Individual Medley,SCM,W,45-49,1:23.76,Jean M Henne,,Bridge The Bay,2007,1
+WIN,100 M Freestyle,SCM,M,40-44,1:02.94,Dante Vittone,,Bridge The Bay,2007,1
+WIN,50 M Butterfly,SCM,M,40-44,36.35,Dante Vittone,,Bridge The Bay,2007,1
