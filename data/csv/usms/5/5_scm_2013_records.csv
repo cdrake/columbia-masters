@@ -1,0 +1,40 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,200 M Freestyle,SCM,W,40-44,2:36.16,Jennifer R Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,400 M Freestyle,SCM,W,40-44,5:26.57,Jennifer R Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,800 M Freestyle,SCM,W,40-44,11:17.66,Jennifer R Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,50 M Butterfly,SCM,W,40-44,38.24,Jennifer R Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Butterfly,SCM,W,40-44,1:24.48,Jennifer R Madonia,,3rd Annual Thanksgiving Classic,2013,1
+CONN,50 M Freestyle,SCM,W,50-54,31.27,Pam Henry Moss,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Freestyle,SCM,W,50-54,1:08.25,Pam Henry Moss,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Freestyle,SCM,W,50-54,2:27.70,Pam Henry Moss,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,400 M Freestyle,SCM,W,50-54,5:16.01,Pam Henry Moss,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Individual Medley,SCM,W,50-54,1:21.64,Pam Henry Moss,,AGUA Masters SC Meter Sprint Classic,2013,1
+CONN,50 M Freestyle,SCM,W,70-74,50.74,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,800 M Freestyle,SCM,W,70-74,18:35.53,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Backstroke,SCM,W,70-74,2:31.29,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Backstroke,SCM,W,70-74,5:32.95,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Breaststroke,SCM,W,70-74,5:55.88,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,50 M Butterfly,SCM,W,70-74,1:03.47,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Butterfly,SCM,W,70-74,2:30.35,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Butterfly,SCM,W,70-74,5:34.59,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Individual Medley,SCM,W,70-74,2:22.43,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Individual Medley,SCM,W,70-74,5:16.24,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,400 M Individual Medley,SCM,W,70-74,11:22.14,Ann Louise Onton,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Freestyle,SCM,M,25-29,3:00.26,Aliyar Fouladkhah,,"October Swim Fest, Simmons College",2013,1
+CONN,400 M Freestyle,SCM,M,25-29,5:46.03,Aliyar Fouladkhah,,"October Swim Fest, Simmons College",2013,1
+CONN,50 M Butterfly,SCM,M,25-29,46.37,Aliyar Fouladkhah,,"October Swim Fest, Simmons College",2013,1
+CONN,100 M Butterfly,SCM,M,25-29,1:38.91,Aliyar Fouladkhah,,"October Swim Fest, Simmons College",2013,1
+CONN,100 M Individual Medley,SCM,M,25-29,1:32.64,Aliyar Fouladkhah,,"October Swim Fest, Simmons College",2013,1
+CONN,100 M Butterfly,SCM,M,55-59,1:58.67,Stewart R Skolnick,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Butterfly,SCM,M,55-59,4:34.94,Stewart R Skolnick,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Individual Medley,SCM,M,55-59,1:43.28,Stewart R Skolnick,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Individual Medley,SCM,M,55-59,4:02.62,Stewart R Skolnick,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Backstroke,SCM,M,70-74,1:50.99,Peter P Berghaus,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+CONN,200 M Backstroke,SCM,M,70-74,4:02.08,Peter P Berghaus,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+CONN,50 M Breaststroke,SCM,M,70-74,49.91,Peter P Berghaus,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Breaststroke,SCM,M,70-74,1:52.96,Peter P Berghaus,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,200 M Breaststroke,SCM,M,70-74,4:14.11,Peter P Berghaus,,2013 NE-LMSC SCM Championship Meet,2013,1
+CONN,100 M Individual Medley,SCM,M,70-74,1:45.52,Peter P Berghaus,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+CONN,200 M Individual Medley,SCM,M,70-74,3:57.55,Peter P Berghaus,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+CONN,400 M Individual Medley,SCM,M,70-74,8:44.13,Peter P Berghaus,,Nazareth Masters Short Course Meters Meet,2013,1
+UC05,50 M Butterfly,SCM,M,50-54,34.29,Richard H Kirk,,6th Bearcat Masters SCM Invitational,2013,1

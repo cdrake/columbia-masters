@@ -1,0 +1,134 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 M Freestyle,SCM,W,18-24,32.56,Kristin Leaser,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,W,18-24,1:17.70,Kristin Leaser,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,W,30-34,1:13.38,Christine Capizzi,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Breaststroke,SCM,W,30-34,44.37,Christine Capizzi,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,35-39,32.53,Heather N Schelhase,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,35-39,32.83,Jackie Austin,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,50 M Freestyle,SCM,W,35-39,39.00,Ally Sega,,2011 New England LMSC SCM Championship,2011,3
+CONN,100 M Freestyle,SCM,W,35-39,1:21.96,K Fleming,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Freestyle,SCM,W,35-39,2:37.87,K Fleming,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Breaststroke,SCM,W,35-39,55.80,Ally Sega,,2011 New England LMSC SCM Championship,2011,1
+CONN,200 M Breaststroke,SCM,W,35-39,4:09.57,Ally Sega,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Butterfly,SCM,W,35-39,1:46.16,Ally Sega,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Freestyle,SCM,W,40-44,32.94,Kate M De Simone,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,40-44,32.95,Susie Galley,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,100 M Freestyle,SCM,W,40-44,1:08.11,Amelia P Fox,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,W,40-44,1:12.82,Kate M De Simone,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Freestyle,SCM,W,40-44,2:17.58,Galen D Rinaldi,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,400 M Freestyle,SCM,W,40-44,4:48.65,Galen D Rinaldi,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Butterfly,SCM,W,40-44,33.03,Galen D Rinaldi,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Butterfly,SCM,W,40-44,33.43,Amelia P Fox,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Butterfly,SCM,W,40-44,3:13.05,Charlene S Puska,,2011 New England LMSC SCM Championship,2011,1
+CONN,400 M Individual Medley,SCM,W,40-44,6:33.35,Charlene S Puska,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Freestyle,SCM,W,45-49,29.92,Sheila M Stolarski,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,45-49,31.93,Pam Henry Moss,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,50 M Freestyle,SCM,W,45-49,32.73,Jill Looney,,Wahoo Masters Fall Short Course Meters Meet,2011,3
+CONN,100 M Freestyle,SCM,W,45-49,1:10.92,Pam Henry Moss,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,W,45-49,1:13.34,Michele A Koubeck,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,100 M Freestyle,SCM,W,45-49,1:17.70,Susan J Fegelman,,Wahoo Masters Fall Short Course Meters Meet,2011,3
+CONN,400 M Freestyle,SCM,W,45-49,5:37.73,Sian Nimkoff,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Backstroke,SCM,W,45-49,33.73,Tait Michael,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Backstroke,SCM,W,45-49,34.57,Sheila M Stolarski,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Backstroke,SCM,W,45-49,2:45.67,Tait Michael,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Breaststroke,SCM,W,45-49,41.35,Jill Looney,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Breaststroke,SCM,W,45-49,41.68,Sian Nimkoff,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,50 M Breaststroke,SCM,W,45-49,45.24,Liz C West,,Wahoo Masters Fall Short Course Meters Meet,2011,3
+CONN,50 M Butterfly,SCM,W,45-49,34.56,Jill Looney,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Butterfly,SCM,W,45-49,34.82,Sian Nimkoff,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,100 M Individual Medley,SCM,W,45-49,1:16.91,Sheila M Stolarski,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Individual Medley,SCM,W,45-49,1:18.82,Pam Henry Moss,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,100 M Individual Medley,SCM,W,45-49,1:26.62,Michele A Koubeck,,Wahoo Masters Fall Short Course Meters Meet,2011,3
+CONN,200 M Individual Medley,SCM,W,45-49,2:45.12,Tait Michael,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,50-54,33.87,Teresa A Rough,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,50-54,36.56,Laura D Lechner,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,50 M Butterfly,SCM,W,50-54,37.85,Laura D Lechner,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Individual Medley,SCM,W,50-54,1:28.16,Teresa A Rough,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,W,55-59,1:35.65,Sara L Schrager,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Individual Medley,SCM,W,55-59,4:03.88,Sara L Schrager,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,W,60-64,46.96,Lynne Zareski,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Freestyle,SCM,W,60-64,4:04.40,Lynne Zareski,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Backstroke,SCM,W,60-64,54.39,Lynne Zareski,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,W,65-69,1:46.85,Ann Louise Onton,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Freestyle,SCM,W,65-69,3:57.98,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,400 M Freestyle,SCM,W,65-69,8:31.26,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,800 M Freestyle,SCM,W,65-69,17:51.05,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Backstroke,SCM,W,65-69,2:12.75,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Breaststroke,SCM,W,65-69,2:20.84,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Butterfly,SCM,W,65-69,55.50,Ann Louise Onton,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Butterfly,SCM,W,65-69,2:18.42,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,200 M Butterfly,SCM,W,65-69,5:35.31,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Individual Medley,SCM,W,65-69,2:06.50,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,200 M Individual Medley,SCM,W,65-69,4:30.73,Ann Louise Onton,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,400 M Individual Medley,SCM,W,65-69,10:12.72,Ann Louise Onton,,2011 New England LMSC SCM Championship,2011,1
+CONN,400 M Freestyle,SCM,M,30-34,4:42.01,Jeremy C Virgil,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Backstroke,SCM,M,30-34,31.26,Jeremy C Virgil,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Butterfly,SCM,M,30-34,28.50,Jeremy C Virgil,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,M,40-44,1:03.67,Jason Alexander,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Breaststroke,SCM,M,40-44,37.59,Jason Alexander,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,M,45-49,27.60,James S Lewis,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,M,45-49,29.90,Coleman Ross,,UVAC Rebuild Vermont Masters Meet,2011,2
+CONN,100 M Freestyle,SCM,M,45-49,1:07.44,Coleman Ross,,UVAC Rebuild Vermont Masters Meet,2011,1
+CONN,100 M Freestyle,SCM,M,45-49,1:24.35,Christopher F West,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Freestyle,SCM,M,45-49,3:00.70,Christopher F West,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Backstroke,SCM,M,45-49,31.20,Jeff Sargent,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Backstroke,SCM,M,45-49,34.26,Coleman Ross,,UVAC Rebuild Vermont Masters Meet,2011,2
+CONN,100 M Backstroke,SCM,M,45-49,1:16.12,Coleman Ross,,UVAC Rebuild Vermont Masters Meet,2011,1
+CONN,50 M Breaststroke,SCM,M,45-49,35.55,Jeff Sargent,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Breaststroke,SCM,M,45-49,41.23,Coleman Ross,,UVAC Rebuild Vermont Masters Meet,2011,2
+CONN,50 M Butterfly,SCM,M,45-49,31.74,James S Lewis,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Butterfly,SCM,M,45-49,42.01,Christopher F West,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,100 M Individual Medley,SCM,M,45-49,1:06.75,Jeff Sargent,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Freestyle,SCM,M,50-54,28.98,William Buttenwieser,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,M,50-54,1:04.63,William Buttenwieser,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,M,50-54,1:06.01,Michael Hoffmann,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Freestyle,SCM,M,50-54,2:35.00,William Buttenwieser,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,800 M Freestyle,SCM,M,50-54,12:32.26,Jack J Driscoll,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Butterfly,SCM,M,50-54,31.41,Tom K Coffey,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Butterfly,SCM,M,50-54,1:09.70,Tom K Coffey,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Individual Medley,SCM,M,50-54,1:11.24,Tom K Coffey,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Individual Medley,SCM,M,50-54,1:16.40,Jake Gulick,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Individual Medley,SCM,M,50-54,2:41.12,Jake Gulick,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Individual Medley,SCM,M,50-54,2:41.37,Tom K Coffey,,2011 New England LMSC SCM Championship,2011,2
+CONN,50 M Freestyle,SCM,M,55-59,32.36,Peter Mackey,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,50 M Freestyle,SCM,M,55-59,32.72,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,2
+CONN,100 M Freestyle,SCM,M,55-59,1:13.97,Peter Mackey,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Freestyle,SCM,M,55-59,1:15.59,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,2
+CONN,50 M Backstroke,SCM,M,55-59,43.81,F Scott Gray,,"October Swim Fest, Simmons College",2011,1
+CONN,50 M Breaststroke,SCM,M,55-59,52.38,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Breaststroke,SCM,M,55-59,1:43.36,F Scott Gray,,"October Swim Fest, Simmons College",2011,1
+CONN,50 M Butterfly,SCM,M,55-59,43.17,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Butterfly,SCM,M,55-59,1:52.38,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Individual Medley,SCM,M,55-59,1:37.77,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Individual Medley,SCM,M,55-59,1:38.93,F Scott Gray,,"October Swim Fest, Simmons College",2011,2
+CONN,200 M Individual Medley,SCM,M,55-59,3:47.52,Stewart R Skolnick,,2011 New England LMSC SCM Championship,2011,1
+CONN,200 M Butterfly,SCM,M,60-64,3:19.11,William J Geoghegan,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Individual Medley,SCM,M,60-64,1:22.06,William J Geoghegan,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Individual Medley,SCM,M,60-64,3:00.21,William J Geoghegan,,2011 New England LMSC SCM Championship,2011,1
+CONN,400 M Individual Medley,SCM,M,60-64,6:33.71,William J Geoghegan,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Freestyle,SCM,M,65-69,1:12.48,Jack Geoghegan,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Freestyle,SCM,M,65-69,2:42.71,Jack Geoghegan,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Freestyle,SCM,M,70-74,3:26.40,Peter P Berghaus,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,400 M Freestyle,SCM,M,70-74,6:28.45,Michael A Laux,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,400 M Freestyle,SCM,M,70-74,7:38.90,Peter P Berghaus,,Wahoo Masters Fall Short Course Meters Meet,2011,2
+CONN,200 M Backstroke,SCM,M,70-74,3:59.48,Peter P Berghaus,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Breaststroke,SCM,M,70-74,41.72,Michael A Laux,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Breaststroke,SCM,M,70-74,1:50.01,Peter P Berghaus,,2011 New England LMSC SCM Championship,2011,1
+CONN,200 M Breaststroke,SCM,M,70-74,4:00.76,Peter P Berghaus,,2011 New England LMSC SCM Championship,2011,1
+CONN,50 M Butterfly,SCM,M,70-74,36.52,Michael A Laux,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,100 M Individual Medley,SCM,M,70-74,1:43.57,Peter P Berghaus,,2011 New England LMSC SCM Championship,2011,1
+CONN,200 M Individual Medley,SCM,M,70-74,3:53.88,Peter P Berghaus,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,400 M Individual Medley,SCM,M,70-74,8:46.94,Peter P Berghaus,,2011 New England LMSC SCM Championship,2011,1
+CONN,100 M Freestyle,SCM,M,85-89,2:14.69,Fred Goldner,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,200 M Freestyle,SCM,M,85-89,4:49.17,Fred Goldner,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+CONN,400 M Freestyle,SCM,M,85-89,9:51.97,Fred Goldner,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+MMST,50 M Freestyle,SCM,W,35-39,44.49,Rachel Arterberry,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+UNAT,200 M Freestyle,SCM,W,35-39,2:31.24,Jennifer R Madonia,,2011 New England LMSC SCM Championship,2011,1
+UNAT,400 M Freestyle,SCM,W,35-39,5:25.77,Jennifer R Madonia,,2011 New England LMSC SCM Championship,2011,1
+UNAT,800 M Freestyle,SCM,W,35-39,11:00.28,Jennifer R Madonia,,2011 New England LMSC SCM Championship,2011,1
+UNAT,100 M Butterfly,SCM,W,35-39,1:23.32,Jennifer R Madonia,,2011 New England LMSC SCM Championship,2011,1
+UNAT,50 M Freestyle,SCM,W,40-44,32.12,Christie M Anbar,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+UNAT,50 M Butterfly,SCM,W,40-44,36.18,Christie M Anbar,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+UNAT,100 M Individual Medley,SCM,W,40-44,1:23.99,Christie M Anbar,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+UNAT,100 M Freestyle,SCM,W,55-59,1:29.53,Karin Fallon,,Wahoo Masters Fall Short Course Meters Meet,2011,1
+UNAT,50 M Backstroke,SCM,W,55-59,46.47,Karin Fallon,,Wahoo Masters Fall Short Course Meters Meet,2011,1

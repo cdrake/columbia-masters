@@ -1,0 +1,664 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 Y Freestyle,SCY,W,18-24,28.23,Emma Bridges,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,18-24,29.68,Emma R Reining,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Freestyle,SCY,W,18-24,57.49,Elizabeth H Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,18-24,2:09.14,Elizabeth H Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,500 Y Freestyle,SCY,W,18-24,6:24.16,Emma Bridges,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,W,18-24,29.10,Caroline Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,W,18-24,30.66,Elizabeth H Sargent,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Backstroke,SCY,W,18-24,1:04.44,Caroline Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Backstroke,SCY,W,18-24,2:23.24,Elizabeth H Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,W,18-24,35.24,Emma Bridges,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,W,18-24,35.40,Caroline Sargent,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Breaststroke,SCY,W,18-24,1:12.66,Caroline Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Breaststroke,SCY,W,18-24,1:15.51,Emma Bridges,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Breaststroke,SCY,W,18-24,2:43.94,Emma Bridges,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,W,18-24,28.53,Elizabeth H Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,W,18-24,29.72,Emma R Reining,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Butterfly,SCY,W,18-24,30.50,Emma Bridges,,2023 YMCA National Masters Meet,2023,3
+CONN,100 Y Butterfly,SCY,W,18-24,1:09.67,Emma R Reining,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,18-24,1:03.34,Caroline Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,18-24,1:12.03,Emma Bridges,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Freestyle,SCY,W,25-29,25.65,Danielle M Bordes,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Butterfly,SCY,W,25-29,27.33,Danielle M Bordes,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,25-29,1:05.43,Danielle M Bordes,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,30-34,26.71,Emma Forbes,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,30-34,30.60,Nicole Mason,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Freestyle,SCY,W,30-34,1:00.12,Emma Forbes,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Breaststroke,SCY,W,30-34,40.33,Nicole Mason,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Breaststroke,SCY,W,30-34,1:29.06,Nicole Mason,,38th Annual Ground Hog Meet,2023,1
+CONN,200 Y Breaststroke,SCY,W,30-34,3:14.53,Nicole Mason,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,100 Y Individual Medley,SCY,W,30-34,1:09.91,Emma Forbes,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,30-34,1:19.45,Nicole Mason,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Freestyle,SCY,W,35-39,27.00,Lauren Finnegan,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,35-39,27.63,Courtney Blahosky,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Freestyle,SCY,W,35-39,43.67,Stefanie Acevedo,,The Inaugural Orange Masters LionHeart Classic,2023,3
+CONN,50 Y Freestyle,SCY,W,35-39,56.92,Sarah K Perkins,,Connecticut Masters' Games,2023,4
+CONN,50 Y Freestyle,SCY,W,35-39,1:01.96,Sarah King,,St. Patrick's Day Invitational 2023,2023,5
+CONN,100 Y Freestyle,SCY,W,35-39,1:00.02,Courtney Blahosky,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Freestyle,SCY,W,35-39,2:01.29,Sarah K Perkins,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Freestyle,SCY,W,35-39,2:08.85,Sarah King,,St. Patrick's Day Invitational 2023,2023,3
+CONN,200 Y Freestyle,SCY,W,35-39,4:06.71,Sarah K Perkins,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Freestyle,SCY,W,35-39,4:20.86,Sarah King,,9th Annual Snag Holmes Masters Invitational,2023,2
+CONN,500 Y Freestyle,SCY,W,35-39,11:10.05,Sarah K Perkins,,2023 New England LMSC SCY Championship,2023,1
+CONN,500 Y Freestyle,SCY,W,35-39,11:20.03,Sarah King,,9th Annual Snag Holmes Masters Invitational,2023,2
+CONN,1000 Y Freestyle,SCY,W,35-39,22:37.22,Sarah K Perkins,,2023 New England LMSC SCY Championship,2023,1
+CONN,1000 Y Freestyle,SCY,W,35-39,23:41.29,Sarah King,,Milan Masters Kick-Off,2023,2
+CONN,1650 Y Freestyle,SCY,W,35-39,37:28.20,Sarah K Perkins,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,1650 Y Freestyle,SCY,W,35-39,37:42.95,Sarah King,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Backstroke,SCY,W,35-39,47.50,Melissa Duguay,,Connecticut Masters' Games,2023,1
+CONN,50 Y Backstroke,SCY,W,35-39,1:13.18,Sarah King,,2023 Pieter Cath Memorial Inter-Squad Meet,2023,2
+CONN,50 Y Backstroke,SCY,W,35-39,1:47.18,Sarah K Perkins,,Connecticut Masters' Games,2023,3
+CONN,100 Y Backstroke,SCY,W,35-39,1:08.47,Courtney Blahosky,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Backstroke,SCY,W,35-39,2:39.19,Sarah King,,9th Annual Snag Holmes Masters Invitational,2023,2
+CONN,200 Y Backstroke,SCY,W,35-39,5:24.46,Sarah King,,Mason Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,W,35-39,33.10,Lauren Finnegan,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,W,35-39,52.34,Stefanie Acevedo,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Breaststroke,SCY,W,35-39,1:27.56,Sarah K Perkins,,Connecticut Masters' Games,2023,3
+CONN,100 Y Breaststroke,SCY,W,35-39,1:12.99,Lauren Finnegan,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Breaststroke,SCY,W,35-39,1:54.54,Stefanie Acevedo,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Breaststroke,SCY,W,35-39,3:23.68,Sarah K Perkins,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Breaststroke,SCY,W,35-39,3:25.48,Sarah King,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,200 Y Breaststroke,SCY,W,35-39,2:42.03,Lauren Finnegan,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Breaststroke,SCY,W,35-39,6:56.87,Sarah King,,9th Annual Snag Holmes Masters Invitational,2023,2
+CONN,50 Y Butterfly,SCY,W,35-39,28.97,Lauren Finnegan,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,W,35-39,1:16.45,Sarah K Perkins,,Connecticut Masters' Games,2023,2
+CONN,50 Y Butterfly,SCY,W,35-39,1:23.52,Sarah King,,St. Patrick's Day Invitational 2023,2023,3
+CONN,100 Y Butterfly,SCY,W,35-39,2:51.25,Sarah King,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,200 Y Butterfly,SCY,W,35-39,6:20.74,Sarah King,,2023 Pieter Cath Memorial Inter-Squad Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,35-39,1:09.41,Lauren Finnegan,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,35-39,2:42.02,Sarah King,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Individual Medley,SCY,W,35-39,2:43.37,Sarah K Perkins,,Connecticut Masters' Games,2023,3
+CONN,200 Y Individual Medley,SCY,W,35-39,5:28.96,Sarah King,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,400 Y Individual Medley,SCY,W,35-39,11:40.65,Sarah King,,Mason Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,40-44,24.27,Anne McAndrew,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,W,40-44,26.78,Sarah P Brown,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Freestyle,SCY,W,40-44,53.06,Anne McAndrew,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Freestyle,SCY,W,40-44,1:00.87,Sarah P Brown,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Freestyle,SCY,W,40-44,2:30.82,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,40-44,4:13.87,Sarah King,,NOVA Masters SC/LC Cup: Day 1 (Saturday Short Course),2023,2
+CONN,500 Y Freestyle,SCY,W,40-44,6:43.54,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,1650 Y Freestyle,SCY,W,40-44,23:09.06,Marta A Taddeo,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Backstroke,SCY,W,40-44,39.24,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Backstroke,SCY,W,40-44,1:23.09,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Backstroke,SCY,W,40-44,2:38.81,Sarah King,,NOVA Masters SC/LC Cup: Day 1 (Saturday Short Course),2023,2
+CONN,200 Y Backstroke,SCY,W,40-44,2:57.83,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Backstroke,SCY,W,40-44,5:21.16,Sarah King,,NOVA Masters SC/LC Cup: Day 1 (Saturday Short Course),2023,2
+CONN,50 Y Breaststroke,SCY,W,40-44,37.15,Marta A Taddeo,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,40-44,39.22,Sarah P Brown,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Breaststroke,SCY,W,40-44,1:25.21,Marta A Taddeo,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,100 Y Breaststroke,SCY,W,40-44,3:20.18,Sarah King,,NOVA Masters SC/LC Cup: Day 1 (Saturday Short Course),2023,2
+CONN,200 Y Breaststroke,SCY,W,40-44,3:05.09,Marta A Taddeo,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Butterfly,SCY,W,40-44,27.60,Anne McAndrew,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Butterfly,SCY,W,40-44,1:31.61,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Butterfly,SCY,W,40-44,3:16.86,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,40-44,1:03.04,Anne McAndrew,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,W,40-44,2:34.71,Sarah King,,NOVA Masters SC/LC Cup: Day 1 (Saturday Short Course),2023,2
+CONN,200 Y Individual Medley,SCY,W,40-44,2:56.50,Marta A Taddeo,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Individual Medley,SCY,W,40-44,5:29.70,Sarah King,,NOVA Masters SC/LC Cup: Day 1 (Saturday Short Course),2023,2
+CONN,400 Y Individual Medley,SCY,W,40-44,6:04.90,Marta A Taddeo,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,400 Y Individual Medley,SCY,W,40-44,11:29.35,Sarah King,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,W,45-49,26.90,Sarah R Vale,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,W,45-49,32.41,Jody Clouse,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Freestyle,SCY,W,45-49,40.84,Ally Sega,,38th Annual Ground Hog Meet,2023,3
+CONN,50 Y Freestyle,SCY,W,45-49,44.25,Cynthia  Liu,,38th Annual Ground Hog Meet,2023,4
+CONN,100 Y Freestyle,SCY,W,45-49,54.08,Jennifer M Brooks Crozier,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,W,45-49,1:12.01,Maura E Keaney,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Freestyle,SCY,W,45-49,1:13.09,Jody Clouse,,The Inaugural Orange Masters LionHeart Classic,2023,3
+CONN,100 Y Freestyle,SCY,W,45-49,1:40.50,Cynthia  Liu,,38th Annual Ground Hog Meet,2023,4
+CONN,100 Y Freestyle,SCY,W,45-49,2:23.48,Melissa  Shaffer,,Connecticut Masters' Games,2023,5
+CONN,200 Y Freestyle,SCY,W,45-49,1:58.97,Jennifer M Brooks Crozier,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,45-49,2:34.65,Jody Clouse,,Connecticut Masters' Games,2023,2
+CONN,200 Y Freestyle,SCY,W,45-49,2:49.47,Maura E Keaney,,38th Annual Ground Hog Meet,2023,3
+CONN,200 Y Freestyle,SCY,W,45-49,3:21.04,Ally Sega,,38th Annual Ground Hog Meet,2023,4
+CONN,200 Y Freestyle,SCY,W,45-49,3:41.21,Cynthia  Liu,,38th Annual Ground Hog Meet,2023,5
+CONN,500 Y Freestyle,SCY,W,45-49,7:18.40,Jody Clouse,,Connecticut Masters' Games,2023,1
+CONN,500 Y Freestyle,SCY,W,45-49,7:27.27,Maura E Keaney,,38th Annual Ground Hog Meet,2023,2
+CONN,1000 Y Freestyle,SCY,W,45-49,14:56.10,Jody Clouse,,2023 New England LMSC SCY Championship,2023,1
+CONN,1650 Y Freestyle,SCY,W,45-49,24:44.73,Jody Clouse,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,50 Y Backstroke,SCY,W,45-49,39.10,Jody Clouse,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Backstroke,SCY,W,45-49,44.90,Alison E Kris,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Backstroke,SCY,W,45-49,3:05.82,Jody Clouse,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,45-49,57.72,Ally Sega,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Breaststroke,SCY,W,45-49,1:32.93,Jody Clouse,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Butterfly,SCY,W,45-49,25.49,Jennifer M Brooks Crozier,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,W,45-49,41.39,Jody Clouse,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Butterfly,SCY,W,45-49,58.29,Jennifer M Brooks Crozier,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:04.06,Jennifer M Brooks Crozier,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,45-49,1:09.56,Sarah R Vale,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Individual Medley,SCY,W,45-49,1:23.56,Jody Clouse,,Connecticut Masters' Games,2023,3
+CONN,100 Y Individual Medley,SCY,W,45-49,1:36.48,Alison E Kris,,38th Annual Ground Hog Meet,2023,4
+CONN,200 Y Individual Medley,SCY,W,45-49,3:01.47,Jody Clouse,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,50 Y Freestyle,SCY,W,50-54,27.64,Amelia P Fox,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,50-54,40.45,Ally Sega,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Freestyle,SCY,W,50-54,41.76,Bridget M Woodfine,,38th Annual Ground Hog Meet,2023,3
+CONN,50 Y Freestyle,SCY,W,50-54,57.45,Tina M Poginy,,38th Annual Ground Hog Meet,2023,4
+CONN,50 Y Freestyle,SCY,W,50-54,1:38.70,Margaret I Rorrio,,The Inaugural Orange Masters LionHeart Classic,2023,5
+CONN,100 Y Freestyle,SCY,W,50-54,1:05.58,Rebecca Speckhals,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Freestyle,SCY,W,50-54,1:31.53,Ally Sega,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Freestyle,SCY,W,50-54,2:05.74,Tina M Poginy,,38th Annual Ground Hog Meet,2023,3
+CONN,200 Y Freestyle,SCY,W,50-54,2:08.93,Amelia P Fox,,38th Annual Ground Hog Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,50-54,3:17.23,Ally Sega,,2023 New England LMSC SCY Championship,2023,2
+CONN,200 Y Freestyle,SCY,W,50-54,4:28.65,Tina M Poginy,,38th Annual Ground Hog Meet,2023,3
+CONN,200 Y Freestyle,SCY,W,50-54,7:07.86,Margaret I Rorrio,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,500 Y Freestyle,SCY,W,50-54,7:52.03,Rebecca C Stephenson,,Connecticut Masters' Games,2023,1
+CONN,500 Y Freestyle,SCY,W,50-54,11:00.77,Tina M Poginy,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Backstroke,SCY,W,50-54,35.10,Christie M Anbar,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Backstroke,SCY,W,50-54,35.85,Rebecca Speckhals,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Backstroke,SCY,W,50-54,46.63,Ally Sega,,2023 New England LMSC SCY Championship,2023,3
+CONN,50 Y Backstroke,SCY,W,50-54,2:31.76,Margaret I Rorrio,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,100 Y Backstroke,SCY,W,50-54,1:41.52,Ally Sega,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Backstroke,SCY,W,50-54,3:37.90,Ally Sega,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,50-54,57.28,Ally Sega,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,50-54,2:06.43,Margaret I Rorrio,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Breaststroke,SCY,W,50-54,1:58.65,Ally Sega,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Breaststroke,SCY,W,50-54,3:02.66,Rebecca C Stephenson,,Connecticut Masters' Games,2023,1
+CONN,200 Y Breaststroke,SCY,W,50-54,4:06.57,Ally Sega,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Butterfly,SCY,W,50-54,30.37,Amelia P Fox,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Butterfly,SCY,W,50-54,45.38,Ally Sega,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Butterfly,SCY,W,50-54,47.11,Bridget M Woodfine,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Butterfly,SCY,W,50-54,1:47.42,Ally Sega,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Butterfly,SCY,W,50-54,3:39.74,Ally Sega,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:19.71,Christie M Anbar,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:27.63,Rebecca C Stephenson,,Connecticut Masters' Games,2023,2
+CONN,100 Y Individual Medley,SCY,W,50-54,1:40.97,Ally Sega,,2023 New England LMSC SCY Championship,2023,3
+CONN,200 Y Individual Medley,SCY,W,50-54,3:40.37,Ally Sega,,2023 Colonies Zones SCY Championship,2023,1
+CONN,400 Y Individual Medley,SCY,W,50-54,7:50.57,Ally Sega,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,W,55-59,27.22,Tait Michael,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,55-59,28.70,Eileen M Lawrence,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,W,55-59,36.83,Juliette Horton,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Freestyle,SCY,W,55-59,59.30,Tait Michael,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,W,55-59,1:21.65,Juliette Horton,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Freestyle,SCY,W,55-59,2:12.57,Tait Michael,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,55-59,2:34.33,Andree M Corr,,Connecticut Masters' Games,2023,2
+CONN,500 Y Freestyle,SCY,W,55-59,5:58.70,Tait Michael,,2023 YMCA National Masters Meet,2023,1
+CONN,500 Y Freestyle,SCY,W,55-59,6:58.99,Andree M Corr,,Connecticut Masters' Games,2023,2
+CONN,500 Y Freestyle,SCY,W,55-59,9:16.85,Margaret M Sweeney,,The Inaugural Orange Masters LionHeart Classic,2023,3
+CONN,1000 Y Freestyle,SCY,W,55-59,12:14.36,Tait Michael,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,W,55-59,32.00,Cathy Milton,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,W,55-59,33.94,Tait Michael,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Backstroke,SCY,W,55-59,34.10,Eileen M Lawrence,,Connecticut Masters' Games,2023,3
+CONN,50 Y Backstroke,SCY,W,55-59,52.94,Margaret M Sweeney,,38th Annual Ground Hog Meet,2023,4
+CONN,100 Y Backstroke,SCY,W,55-59,1:10.43,Cathy Milton,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Backstroke,SCY,W,55-59,1:14.77,Tait Michael,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Backstroke,SCY,W,55-59,1:15.42,Eileen M Lawrence,,2023 New England LMSC SCY Championship,2023,3
+CONN,100 Y Backstroke,SCY,W,55-59,1:52.72,Margaret M Sweeney,,38th Annual Ground Hog Meet,2023,4
+CONN,200 Y Backstroke,SCY,W,55-59,2:36.93,Tait Michael,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Backstroke,SCY,W,55-59,2:49.88,Linda K Lepeak,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Breaststroke,SCY,W,55-59,38.47,Eileen M Lawrence,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,55-59,38.63,Tait Michael,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Butterfly,SCY,W,55-59,33.10,Eileen M Lawrence,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Butterfly,SCY,W,55-59,1:22.76,Linda K Lepeak,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,W,55-59,1:12.78,Eileen M Lawrence,,Connecticut Masters' Games,2023,1
+CONN,100 Y Individual Medley,SCY,W,55-59,1:25.53,Andree M Corr,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,W,60-64,29.40,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,60-64,29.73,Sandra W Ferreira,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Freestyle,SCY,W,60-64,30.76,Barbara S Baker,,2023 YMCA National Masters Meet,2023,3
+CONN,50 Y Freestyle,SCY,W,60-64,3:19.51,Gloria Searson,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,100 Y Freestyle,SCY,W,60-64,1:03.66,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,W,60-64,1:06.36,Barbara S Baker,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Freestyle,SCY,W,60-64,1:07.23,Sandra W Ferreira,,2023 New England LMSC SCY Championship,2023,3
+CONN,100 Y Freestyle,SCY,W,60-64,1:17.06,Katharine  C Cleveland,,Connecticut Masters' Games,2023,4
+CONN,200 Y Freestyle,SCY,W,60-64,2:21.27,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,60-64,2:26.10,Barbara S Baker,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Freestyle,SCY,W,60-64,2:50.94,Colleen M Brandon,,2023 YMCA National Masters Meet,2023,3
+CONN,200 Y Freestyle,SCY,W,60-64,2:58.73,Katharine  C Cleveland,,Connecticut Masters' Games,2023,4
+CONN,500 Y Freestyle,SCY,W,60-64,6:21.79,Barbara S Baker,,2023 YMCA National Masters Meet,2023,1
+CONN,500 Y Freestyle,SCY,W,60-64,7:26.24,Colleen M Brandon,,2023 YMCA National Masters Meet,2023,2
+CONN,1000 Y Freestyle,SCY,W,60-64,13:02.94,Barbara S Baker,,2023 YMCA National Masters Meet,2023,1
+CONN,1000 Y Freestyle,SCY,W,60-64,13:15.60,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,2
+CONN,1000 Y Freestyle,SCY,W,60-64,14:59.26,Colleen M Brandon,,2023 YMCA National Masters Meet,2023,3
+CONN,1650 Y Freestyle,SCY,W,60-64,23:31.64,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,1
+CONN,1650 Y Freestyle,SCY,W,60-64,24:58.66,Colleen M Brandon,,2023 YMCA National Masters Meet,2023,2
+CONN,1650 Y Freestyle,SCY,W,60-64,27:26.04,Katharine  C Cleveland,,The Inaugural Orange Masters LionHeart Classic,2023,3
+CONN,50 Y Backstroke,SCY,W,60-64,44.50,Colleen M Brandon,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,W,60-64,3:26.37,Gloria Searson,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,200 Y Backstroke,SCY,W,60-64,3:11.44,Barbara S Baker,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,W,60-64,36.57,Sandra W Ferreira,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,60-64,38.25,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Breaststroke,SCY,W,60-64,1:22.01,Sandra W Ferreira,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Breaststroke,SCY,W,60-64,1:28.09,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Breaststroke,SCY,W,60-64,3:04.81,Sandra W Ferreira,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Breaststroke,SCY,W,60-64,3:08.79,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Breaststroke,SCY,W,60-64,4:22.01,Katharine  C Cleveland,,The Inaugural Orange Masters LionHeart Classic,2023,3
+CONN,100 Y Individual Medley,SCY,W,60-64,1:15.62,Sandra W Ferreira,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,W,60-64,1:17.12,Pam Henry Moss,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Individual Medley,SCY,W,60-64,2:59.42,Barbara S Baker,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,W,65-69,36.13,Jane F Reik,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Backstroke,SCY,W,65-69,41.86,Jane F Reik,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Backstroke,SCY,W,65-69,3:25.08,Jane F Reik,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,W,70-74,39.33,Mary Anne Lavin,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Freestyle,SCY,W,70-74,1:28.39,Mary Anne Lavin,,38th Annual Ground Hog Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,70-74,3:21.86,Mary Anne Lavin,,38th Annual Ground Hog Meet,2023,1
+CONN,200 Y Freestyle,SCY,W,75-79,4:49.60,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,500 Y Freestyle,SCY,W,75-79,13:30.57,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,1000 Y Freestyle,SCY,W,75-79,27:15.88,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Backstroke,SCY,W,75-79,3:08.06,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Backstroke,SCY,W,75-79,6:35.52,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,W,75-79,1:35.82,Ann Louise Onton,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,100 Y Breaststroke,SCY,W,75-79,3:26.31,Ann Louise Onton,,2023 Colonies Zones SCY Championship,2023,1
+CONN,200 Y Breaststroke,SCY,W,75-79,7:33.28,Ann Louise Onton,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Butterfly,SCY,W,75-79,1:56.34,Ann Louise Onton,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Butterfly,SCY,W,75-79,4:05.63,Ann Louise Onton,,38th Annual Ground Hog Meet,2023,1
+CONN,200 Y Butterfly,SCY,W,75-79,10:29.66,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,W,75-79,3:07.76,Ann Louise Onton,,2023 Colonies Zones SCY Championship,2023,1
+CONN,200 Y Individual Medley,SCY,W,75-79,6:38.01,Ann Louise Onton,,38th Annual Ground Hog Meet,2023,1
+CONN,400 Y Individual Medley,SCY,W,75-79,15:08.17,Ann Louise Onton,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,M,18-24,21.73,Erik McKenna,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,18-24,24.74,James P Bennett,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,M,18-24,26.99,Matt Gilbode,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Freestyle,SCY,M,18-24,49.27,Erik McKenna,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,18-24,51.98,Bryan Gu,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,100 Y Freestyle,SCY,M,18-24,58.14,Matt Gilbode,,2023 New England LMSC SCY Championship,2023,3
+CONN,200 Y Freestyle,SCY,M,18-24,1:56.82,Bryan Gu,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,200 Y Freestyle,SCY,M,18-24,2:14.21,Matt Gilbode,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Backstroke,SCY,M,18-24,31.23,Bryan Gu,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Backstroke,SCY,M,18-24,32.36,James P Bennett,,Connecticut Masters' Games,2023,2
+CONN,100 Y Backstroke,SCY,M,18-24,54.99,Erik McKenna,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Backstroke,SCY,M,18-24,1:07.55,Bryan Gu,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Backstroke,SCY,M,18-24,1:10.27,Matt Gilbode,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Backstroke,SCY,M,18-24,1:13.29,James P Bennett,,Connecticut Masters' Games,2023,4
+CONN,200 Y Backstroke,SCY,M,18-24,2:30.68,Bryan Gu,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,50 Y Breaststroke,SCY,M,18-24,27.59,Joshua R Tosoni,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,18-24,1:02.11,Joshua R Tosoni,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Breaststroke,SCY,M,18-24,2:23.86,Joshua R Tosoni,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,18-24,25.39,Joshua R Tosoni,,Hawks Masters Spring Splash,2023,1
+CONN,50 Y Butterfly,SCY,M,18-24,26.98,Bryan Gu,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,100 Y Butterfly,SCY,M,18-24,53.54,Erik McKenna,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Butterfly,SCY,M,18-24,57.01,Joshua R Tosoni,,Hawks Masters Spring Splash,2023,2
+CONN,100 Y Individual Medley,SCY,M,18-24,56.71,Joshua R Tosoni,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Individual Medley,SCY,M,18-24,2:12.68,Joshua R Tosoni,,2023 YMCA National Masters Meet,2023,1
+CONN,400 Y Individual Medley,SCY,M,18-24,4:29.11,Joshua R Tosoni,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,25-29,20.51,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,25-29,24.48,Samuel J Carley,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Freestyle,SCY,M,25-29,26.23,Matt Gilbode,,2023 YMCA National Masters Meet,2023,3
+CONN,50 Y Freestyle,SCY,M,25-29,29.55,Marc P Marenco,,2023 YMCA National Masters Meet,2023,4
+CONN,100 Y Freestyle,SCY,M,25-29,45.58,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,25-29,53.54,Samuel J Carley,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Freestyle,SCY,M,25-29,57.44,Matt Gilbode,,Connecticut Masters' Games,2023,3
+CONN,200 Y Freestyle,SCY,M,25-29,1:43.06,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,M,25-29,2:19.44,Matt Gilbode,,Connecticut Masters' Games,2023,2
+CONN,1000 Y Freestyle,SCY,M,25-29,10:15.05,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,M,25-29,26.90,Michael Mattera,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Backstroke,SCY,M,25-29,1:01.48,Michael Mattera,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Backstroke,SCY,M,25-29,1:58.39,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Backstroke,SCY,M,25-29,2:15.67,Michael Mattera,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Breaststroke,SCY,M,25-29,30.21,Michael Mattera,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,M,25-29,32.00,Samuel J Carley,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Breaststroke,SCY,M,25-29,34.18,Marc P Marenco,,2023 YMCA National Masters Meet,2023,3
+CONN,50 Y Breaststroke,SCY,M,25-29,34.68,Matt Gilbode,,Connecticut Masters' Games,2023,4
+CONN,100 Y Breaststroke,SCY,M,25-29,58.46,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,25-29,1:07.03,Samuel J Carley,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Breaststroke,SCY,M,25-29,1:16.17,Marc P Marenco,,2023 YMCA National Masters Meet,2023,3
+CONN,100 Y Breaststroke,SCY,M,25-29,1:17.63,Matt Gilbode,,Connecticut Masters' Games,2023,4
+CONN,200 Y Breaststroke,SCY,M,25-29,2:31.51,Samuel J Carley,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,25-29,26.10,Michael Mattera,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,25-29,26.73,Luis D Galvan,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Butterfly,SCY,M,25-29,1:02.37,Michael Mattera,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,M,25-29,51.66,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,M,25-29,59.81,Michael Mattera,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Individual Medley,SCY,M,25-29,1:08.35,Matt Gilbode,,Connecticut Masters' Games,2023,3
+CONN,100 Y Individual Medley,SCY,M,25-29,1:16.40,Marc P Marenco,,2023 YMCA National Masters Meet,2023,4
+CONN,200 Y Individual Medley,SCY,M,25-29,1:53.44,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Individual Medley,SCY,M,25-29,2:13.50,Michael Mattera,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Individual Medley,SCY,M,25-29,2:17.63,Samuel J Carley,,2023 YMCA National Masters Meet,2023,3
+CONN,400 Y Individual Medley,SCY,M,25-29,4:06.21,Ilya Rattsev,,2023 YMCA National Masters Meet,2023,1
+CONN,400 Y Individual Medley,SCY,M,25-29,4:45.33,Michael Mattera,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Freestyle,SCY,M,30-34,23.51,Jonathan A Pramberger,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,30-34,23.72,Joseph Benz,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Freestyle,SCY,M,30-34,52.54,Domenick Errico,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,30-34,52.96,Jonathan A Pramberger,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Freestyle,SCY,M,30-34,53.06,Joseph Benz,,2023 YMCA National Masters Meet,2023,3
+CONN,200 Y Freestyle,SCY,M,30-34,1:55.78,Domenick Errico,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Freestyle,SCY,M,30-34,1:56.47,Joseph Benz,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Freestyle,SCY,M,30-34,2:07.02,William H Gerard,,38th Annual Ground Hog Meet,2023,3
+CONN,500 Y Freestyle,SCY,M,30-34,5:12.61,Joseph Benz,,2023 YMCA National Masters Meet,2023,1
+CONN,500 Y Freestyle,SCY,M,30-34,5:41.06,William H Gerard,,2023 New England LMSC SCY Championship,2023,2
+CONN,1000 Y Freestyle,SCY,M,30-34,11:04.28,Joseph Benz,,2023 YMCA National Masters Meet,2023,1
+CONN,1650 Y Freestyle,SCY,M,30-34,18:24.76,Joseph Benz,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Backstroke,SCY,M,30-34,26.51,Domenick Errico,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Backstroke,SCY,M,30-34,29.36,Joseph Benz,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Backstroke,SCY,M,30-34,30.48,William H Gerard,,2023 New England LMSC SCY Championship,2023,3
+CONN,100 Y Backstroke,SCY,M,30-34,56.13,Domenick Errico,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Backstroke,SCY,M,30-34,1:04.31,Joseph Benz,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Backstroke,SCY,M,30-34,1:09.22,William H Gerard,,2023 New England LMSC SCY Championship,2023,3
+CONN,200 Y Backstroke,SCY,M,30-34,2:03.33,Domenick Errico,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Backstroke,SCY,M,30-34,2:23.54,Joseph Benz,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Breaststroke,SCY,M,30-34,31.73,Jonathan A Pramberger,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,30-34,1:10.96,Jonathan A Pramberger,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,30-34,26.36,Jonathan A Pramberger,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,30-34,28.64,William H Gerard,,March Madness Mini Meet,2023,2
+CONN,100 Y Butterfly,SCY,M,30-34,59.64,Domenick Errico,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,30-34,1:02.32,Joseph Benz,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Individual Medley,SCY,M,30-34,1:04.03,Jonathan A Pramberger,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Individual Medley,SCY,M,30-34,1:09.04,William H Gerard,,Connecticut Masters' Games,2023,3
+CONN,200 Y Individual Medley,SCY,M,30-34,2:10.74,Domenick Errico,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Individual Medley,SCY,M,30-34,2:26.58,William H Gerard,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,M,35-39,24.44,Jesse L York,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,35-39,28.77,Rob Duguay,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Freestyle,SCY,M,35-39,54.53,Jesse L York,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,35-39,1:03.24,Rob Duguay,,2023 New England LMSC SCY Championship,2023,2
+CONN,200 Y Freestyle,SCY,M,35-39,1:45.62,Cj  Nuess,,March Madness Mini Meet,2023,1
+CONN,200 Y Freestyle,SCY,M,35-39,2:01.78,Jesse L York,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Freestyle,SCY,M,35-39,2:14.67,Rob Duguay,,2023 Colonies Zones SCY Championship,2023,3
+CONN,500 Y Freestyle,SCY,M,35-39,5:48.78,Jesse L York,,2023 YMCA National Masters Meet,2023,1
+CONN,500 Y Freestyle,SCY,M,35-39,6:01.98,Rob Duguay,,2023 New England LMSC SCY Championship,2023,2
+CONN,1000 Y Freestyle,SCY,M,35-39,12:14.77,Rob Duguay,,2023 New England LMSC SCY Championship,2023,1
+CONN,1000 Y Freestyle,SCY,M,35-39,12:16.12,Jesse L York,,2023 YMCA National Masters Meet,2023,2
+CONN,1650 Y Freestyle,SCY,M,35-39,20:37.98,Rob Duguay,,2023 Colonies Zones SCY Championship,2023,1
+CONN,1650 Y Freestyle,SCY,M,35-39,30:37.97,Andy Green,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Backstroke,SCY,M,35-39,34.67,Joe Zakierski,,March Madness Mini Meet,2023,1
+CONN,100 Y Backstroke,SCY,M,35-39,1:24.19,Rob Duguay,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Backstroke,SCY,M,35-39,2:56.94,Rob Duguay,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,M,35-39,28.86,Ryan Harrell,,March Madness Mini Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,35-39,1:00.69,Cj  Nuess,,March Madness Mini Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,35-39,1:12.04,Jesse L York,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Breaststroke,SCY,M,35-39,1:24.18,Rob Duguay,,2023 New England LMSC SCY Championship,2023,3
+CONN,200 Y Breaststroke,SCY,M,35-39,2:59.38,Rob Duguay,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,200 Y Breaststroke,SCY,M,35-39,3:37.53,Andy Green,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Butterfly,SCY,M,35-39,25.18,Ryan Harrell,,March Madness Mini Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,35-39,27.38,Jesse L York,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Butterfly,SCY,M,35-39,29.80,Joe Zakierski,,March Madness Mini Meet,2023,3
+CONN,50 Y Butterfly,SCY,M,35-39,41.39,Robert E Duguay,,HAWKtoberfest Adult Swim Meet,2023,4
+CONN,100 Y Butterfly,SCY,M,35-39,58.65,Ryan Harrell,,March Madness Mini Meet,2023,1
+CONN,100 Y Butterfly,SCY,M,35-39,1:04.86,Jesse L York,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Butterfly,SCY,M,35-39,1:23.35,Rob Duguay,,2023 New England LMSC SCY Championship,2023,3
+CONN,200 Y Butterfly,SCY,M,35-39,2:50.86,Jesse L York,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Butterfly,SCY,M,35-39,3:21.14,Rob Duguay,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Individual Medley,SCY,M,35-39,57.53,Ryan Harrell,,March Madness Mini Meet,2023,1
+CONN,100 Y Individual Medley,SCY,M,35-39,1:05.43,Jesse L York,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Individual Medley,SCY,M,35-39,1:11.07,Joe Zakierski,,March Madness Mini Meet,2023,3
+CONN,200 Y Individual Medley,SCY,M,35-39,1:58.25,Cj  Nuess,,March Madness Mini Meet,2023,1
+CONN,200 Y Individual Medley,SCY,M,35-39,2:37.34,Jesse L York,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Individual Medley,SCY,M,35-39,2:41.96,Rob Duguay,,2023 New England LMSC SCY Championship,2023,3
+CONN,400 Y Individual Medley,SCY,M,35-39,5:51.60,Rob Duguay,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,M,40-44,23.59,Jeremy C Virgil,,2023 CONNECTICUT SENIOR INVITE,2023,1
+CONN,50 Y Freestyle,SCY,M,40-44,24.77,Dean T Brown,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Freestyle,SCY,M,40-44,24.81,Ashley Honey,,38th Annual Ground Hog Meet,2023,3
+CONN,50 Y Freestyle,SCY,M,40-44,25.14,Piotr Nazarczuk,,38th Annual Ground Hog Meet,2023,4
+CONN,50 Y Freestyle,SCY,M,40-44,25.22,Jonathan Matthews,,2023 New England LMSC SCY Championship,2023,5
+CONN,50 Y Freestyle,SCY,M,40-44,25.38,Patrick Bates,,38th Annual Ground Hog Meet,2023,6
+CONN,50 Y Freestyle,SCY,M,40-44,28.21,John G Schlechtweg,,38th Annual Ground Hog Meet,2023,7
+CONN,100 Y Freestyle,SCY,M,40-44,50.84,Jeremy C Virgil,,2023 CONNECTICUT SENIOR INVITE,2023,1
+CONN,100 Y Freestyle,SCY,M,40-44,53.32,Jonathan Matthews,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,100 Y Freestyle,SCY,M,40-44,54.62,Ashley Honey,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Freestyle,SCY,M,40-44,1:00.14,Dean T Brown,,38th Annual Ground Hog Meet,2023,4
+CONN,200 Y Freestyle,SCY,M,40-44,1:49.64,Jeremy C Virgil,,2023 CONNECTICUT SENIOR INVITE,2023,1
+CONN,200 Y Freestyle,SCY,M,40-44,1:55.65,Jonathan Matthews,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,200 Y Freestyle,SCY,M,40-44,2:01.56,Ashley Honey,,38th Annual Ground Hog Meet,2023,3
+CONN,200 Y Freestyle,SCY,M,40-44,2:06.81,Patrick Bates,,38th Annual Ground Hog Meet,2023,4
+CONN,200 Y Freestyle,SCY,M,40-44,2:15.52,John G Schlechtweg,,2023 YMCA National Masters Meet,2023,5
+CONN,500 Y Freestyle,SCY,M,40-44,4:56.24,Jeremy C Virgil,,2023 SC Senior Championships,2023,1
+CONN,500 Y Freestyle,SCY,M,40-44,5:21.98,Jonathan Matthews,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,1000 Y Freestyle,SCY,M,40-44,10:22.34,Jeremy C Virgil,,2023 SC Senior Championships,2023,1
+CONN,1000 Y Freestyle,SCY,M,40-44,11:30.50,Jonathan Matthews,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,1000 Y Freestyle,SCY,M,40-44,12:51.90,John G Schlechtweg,,2023 YMCA National Masters Meet,2023,3
+CONN,1650 Y Freestyle,SCY,M,40-44,17:19.38,Jeremy C Virgil,,2023 SC Senior Championships,2023,1
+CONN,1650 Y Freestyle,SCY,M,40-44,21:45.45,John G Schlechtweg,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Backstroke,SCY,M,40-44,57.78,Jeremy C Virgil,,2023 CONNECTICUT SENIOR INVITE,2023,1
+CONN,200 Y Backstroke,SCY,M,40-44,2:28.63,Jonathan Matthews,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,M,40-44,34.74,John G Schlechtweg,,Connecticut Masters' Games,2023,1
+CONN,50 Y Breaststroke,SCY,M,40-44,35.28,Dean T Brown,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Breaststroke,SCY,M,40-44,35.32,Jeremy C Virgil,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Breaststroke,SCY,M,40-44,1:17.50,John G Schlechtweg,,Connecticut Masters' Games,2023,1
+CONN,100 Y Breaststroke,SCY,M,40-44,1:18.00,Rick Shanley,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Breaststroke,SCY,M,40-44,3:00.82,John G Schlechtweg,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,40-44,28.49,Piotr Nazarczuk,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,40-44,29.29,Rick Shanley,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Butterfly,SCY,M,40-44,55.07,Jeremy C Virgil,,2023 SC Senior Championships,2023,1
+CONN,100 Y Butterfly,SCY,M,40-44,59.14,Omar M Nokta,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Butterfly,SCY,M,40-44,1:00.17,Jonathan Matthews,,2023 U.S. Masters Swimming Spring National Championship,2023,3
+CONN,200 Y Butterfly,SCY,M,40-44,2:03.86,Jeremy C Virgil,,2023 SC Senior Championships,2023,1
+CONN,100 Y Individual Medley,SCY,M,40-44,1:01.18,Jeremy C Virgil,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,M,40-44,1:05.68,Patrick Bates,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Individual Medley,SCY,M,40-44,2:24.49,Jonathan Matthews,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Individual Medley,SCY,M,40-44,2:34.62,Rick Shanley,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Freestyle,SCY,M,45-49,24.36,Alexander E Lunding,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,M,45-49,25.20,Alan C Green,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Freestyle,SCY,M,45-49,26.07,Joshua Usdavin,,38th Annual Ground Hog Meet,2023,3
+CONN,50 Y Freestyle,SCY,M,45-49,27.60,Erik Higgens,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,100 Y Freestyle,SCY,M,45-49,56.84,Joshua Usdavin,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,45-49,1:01.19,Eric S Gordon,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,100 Y Freestyle,SCY,M,45-49,1:02.53,Larry P Spollen,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Freestyle,SCY,M,45-49,1:04.23,Erik Higgens,,2023 Spring Fling SCY Masters Swim Meet,2023,4
+CONN,200 Y Freestyle,SCY,M,45-49,1:59.39,Alexander E Lunding,,2023 New England LMSC SCY Championship,2023,1
+CONN,500 Y Freestyle,SCY,M,45-49,6:01.46,Larry P Spollen,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Backstroke,SCY,M,45-49,33.90,Erik Higgens,,2023 Spring Fling SCY Masters Swim Meet,2023,1
+CONN,100 Y Backstroke,SCY,M,45-49,1:18.21,Erik Higgens,,2023 Spring Fling SCY Masters Swim Meet,2023,1
+CONN,50 Y Breaststroke,SCY,M,45-49,31.92,Alan C Green,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Breaststroke,SCY,M,45-49,1:19.72,Larry P Spollen,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,45-49,28.96,Eric S Gordon,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,100 Y Butterfly,SCY,M,45-49,1:03.62,Alan C Green,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,45-49,1:01.97,Alexander E Lunding,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,45-49,1:03.70,Alan C Green,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Individual Medley,SCY,M,45-49,1:10.83,Joshua Usdavin,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Individual Medley,SCY,M,45-49,1:22.37,Erik Higgens,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,200 Y Individual Medley,SCY,M,45-49,2:30.46,Eric S Gordon,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,M,50-54,23.83,Lou Dearstyne,,March Madness Mini Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,50-54,28.76,Brian E Miller,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,M,50-54,29.31,Patrick Jamin,,38th Annual Ground Hog Meet,2023,3
+CONN,50 Y Freestyle,SCY,M,50-54,30.67,Peter D Sheldrick,,2023 New England LMSC SCY Championship,2023,4
+CONN,100 Y Freestyle,SCY,M,50-54,51.85,Lou Dearstyne,,March Madness Mini Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,50-54,57.92,Joshua M Glantz,,2023 Colonies Zones SCY Championship,2023,2
+CONN,100 Y Freestyle,SCY,M,50-54,1:00.05,Robert Goodman,,2023 Colonies Zones SCY Championship,2023,3
+CONN,100 Y Freestyle,SCY,M,50-54,1:04.32,Brian E Miller,,Connecticut Masters' Games,2023,4
+CONN,100 Y Freestyle,SCY,M,50-54,1:06.84,Gregory M Smith,,38th Annual Ground Hog Meet,2023,5
+CONN,100 Y Freestyle,SCY,M,50-54,1:09.92,Peter D Sheldrick,,2023 New England LMSC SCY Championship,2023,6
+CONN,100 Y Freestyle,SCY,M,50-54,1:11.28,Patrick Jamin,,38th Annual Ground Hog Meet,2023,7
+CONN,200 Y Freestyle,SCY,M,50-54,2:21.43,Robert Goodman,,March Madness Mini Meet,2023,1
+CONN,200 Y Freestyle,SCY,M,50-54,2:28.49,Gregory M Smith,,38th Annual Ground Hog Meet,2023,2
+CONN,200 Y Freestyle,SCY,M,50-54,3:13.26,Patrick Jamin,,March Madness Mini Meet,2023,3
+CONN,500 Y Freestyle,SCY,M,50-54,5:34.95,Joshua M Glantz,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Backstroke,SCY,M,50-54,1:19.89,Gregory M Smith,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Breaststroke,SCY,M,50-54,35.94,Brian E Miller,,Connecticut Masters' Games,2023,1
+CONN,100 Y Breaststroke,SCY,M,50-54,1:22.02,Brian E Miller,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,50-54,1:22.46,Patrick Jamin,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Butterfly,SCY,M,50-54,33.16,Robert Goodman,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Butterfly,SCY,M,50-54,1:18.70,Robert Goodman,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,50-54,1:11.11,Robert Goodman,,2023 Colonies Zones SCY Championship,2023,1
+CONN,200 Y Individual Medley,SCY,M,50-54,2:19.07,Joshua M Glantz,,2023 Colonies Zones SCY Championship,2023,1
+CONN,50 Y Freestyle,SCY,M,55-59,23.55,Myles G Lynch,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,55-59,23.89,Matthew R Rossi,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Freestyle,SCY,M,55-59,24.23,Rommin Adl,,2023 YMCA National Masters Meet,2023,3
+CONN,50 Y Freestyle,SCY,M,55-59,25.86,Kevin  M Carley,,2023 YMCA National Masters Meet,2023,4
+CONN,50 Y Freestyle,SCY,M,55-59,26.20,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,5
+CONN,50 Y Freestyle,SCY,M,55-59,28.13,Richard R Sweeney,,38th Annual Ground Hog Meet,2023,6
+CONN,50 Y Freestyle,SCY,M,55-59,28.52,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,7
+CONN,50 Y Freestyle,SCY,M,55-59,31.95,Steve Mettler,,The Inaugural Orange Masters LionHeart Classic,2023,8
+CONN,50 Y Freestyle,SCY,M,55-59,32.36,James D Evans,,The Inaugural Orange Masters LionHeart Classic,2023,9
+CONN,50 Y Freestyle,SCY,M,55-59,34.14,Dominic Napolitano,,38th Annual Ground Hog Meet,2023,10
+CONN,100 Y Freestyle,SCY,M,55-59,51.56,Myles G Lynch,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,55-59,52.12,Lou Dearstyne,,2023 Colonies Zones SCY Championship,2023,2
+CONN,100 Y Freestyle,SCY,M,55-59,52.21,Matthew R Rossi,,2023 YMCA National Masters Meet,2023,3
+CONN,100 Y Freestyle,SCY,M,55-59,53.03,Rommin Adl,,2023 YMCA National Masters Meet,2023,4
+CONN,100 Y Freestyle,SCY,M,55-59,53.29,Christopher J Doyle,,2023 New England LMSC SCY Championship,2023,5
+CONN,100 Y Freestyle,SCY,M,55-59,53.91,Jeff Sargent,,2023 YMCA National Masters Meet,2023,6
+CONN,100 Y Freestyle,SCY,M,55-59,57.90,Kevin  M Carley,,2023 YMCA National Masters Meet,2023,7
+CONN,100 Y Freestyle,SCY,M,55-59,1:05.17,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,8
+CONN,100 Y Freestyle,SCY,M,55-59,1:07.68,Steve Mettler,,38th Annual Ground Hog Meet,2023,9
+CONN,100 Y Freestyle,SCY,M,55-59,1:10.48,James D Evans,,The Inaugural Orange Masters LionHeart Classic,2023,10
+CONN,100 Y Freestyle,SCY,M,55-59,1:18.65,Dominic Napolitano,,Connecticut Masters' Games,2023,11
+CONN,200 Y Freestyle,SCY,M,55-59,1:55.16,Myles G Lynch,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,M,55-59,1:57.72,Christopher J Doyle,,2023 New England LMSC SCY Championship,2023,2
+CONN,200 Y Freestyle,SCY,M,55-59,2:00.12,Matthew R Rossi,,2023 YMCA National Masters Meet,2023,3
+CONN,200 Y Freestyle,SCY,M,55-59,2:01.56,Rommin Adl,,38th Annual Ground Hog Meet,2023,4
+CONN,200 Y Freestyle,SCY,M,55-59,2:16.89,Anthony J Palluzzi,,March Madness Mini Meet,2023,5
+CONN,200 Y Freestyle,SCY,M,55-59,2:17.87,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,6
+CONN,200 Y Freestyle,SCY,M,55-59,2:33.07,Steve Mettler,,38th Annual Ground Hog Meet,2023,7
+CONN,200 Y Freestyle,SCY,M,55-59,2:39.09,James D Evans,,The Inaugural Orange Masters LionHeart Classic,2023,8
+CONN,200 Y Freestyle,SCY,M,55-59,3:12.90,Dominic Napolitano,,Connecticut Masters' Games,2023,9
+CONN,500 Y Freestyle,SCY,M,55-59,5:31.71,Myles G Lynch,,Maria Thrash Memorial Meet / USMS Southeast Zone SCY Championships,2023,1
+CONN,500 Y Freestyle,SCY,M,55-59,6:17.46,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,2
+CONN,500 Y Freestyle,SCY,M,55-59,6:23.89,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,3
+CONN,500 Y Freestyle,SCY,M,55-59,7:01.20,Steve Mettler,,38th Annual Ground Hog Meet,2023,4
+CONN,1000 Y Freestyle,SCY,M,55-59,11:32.79,Matthew R Rossi,,2023 YMCA National Masters Meet,2023,1
+CONN,1650 Y Freestyle,SCY,M,55-59,19:22.00,Jeff Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,1650 Y Freestyle,SCY,M,55-59,25:31.83,Steve Mettler,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Backstroke,SCY,M,55-59,28.80,Jeff Sargent,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Backstroke,SCY,M,55-59,34.28,Richard R Sweeney,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Backstroke,SCY,M,55-59,35.65,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,3
+CONN,50 Y Backstroke,SCY,M,55-59,35.65,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,4
+CONN,100 Y Backstroke,SCY,M,55-59,1:01.90,Jeff Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Backstroke,SCY,M,55-59,1:07.73,Myles G Lynch,,Maria Thrash Memorial Meet / USMS Southeast Zone SCY Championships,2023,2
+CONN,100 Y Backstroke,SCY,M,55-59,1:15.88,Ben Wyckoff,,2023 Colonies Zones SCY Championship,2023,3
+CONN,200 Y Backstroke,SCY,M,55-59,2:27.29,Jeff Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Backstroke,SCY,M,55-59,2:50.99,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Breaststroke,SCY,M,55-59,30.79,Gregory O Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,M,55-59,31.41,Kevin  M Carley,,2023 YMCA National Masters Meet,2023,2
+CONN,50 Y Breaststroke,SCY,M,55-59,31.48,Jeff Sargent,,2023 YMCA National Masters Meet,2023,3
+CONN,50 Y Breaststroke,SCY,M,55-59,32.91,Ben Wyckoff,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,50 Y Breaststroke,SCY,M,55-59,36.61,Richard R Sweeney,,38th Annual Ground Hog Meet,2023,5
+CONN,50 Y Breaststroke,SCY,M,55-59,41.36,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,6
+CONN,50 Y Breaststroke,SCY,M,55-59,42.51,Steve Mettler,,The Inaugural Orange Masters LionHeart Classic,2023,7
+CONN,100 Y Breaststroke,SCY,M,55-59,1:06.93,Gregory O Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Breaststroke,SCY,M,55-59,1:10.02,Kevin  M Carley,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Breaststroke,SCY,M,55-59,1:10.82,Jeff Sargent,,2023 YMCA National Masters Meet,2023,3
+CONN,100 Y Breaststroke,SCY,M,55-59,1:13.76,Wade Henderson,,2023 YMCA National Masters Meet,2023,4
+CONN,100 Y Breaststroke,SCY,M,55-59,1:14.49,Ben Wyckoff,,2023 Colonies Zones SCY Championship,2023,5
+CONN,100 Y Breaststroke,SCY,M,55-59,1:31.08,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,6
+CONN,100 Y Breaststroke,SCY,M,55-59,1:38.04,Steve Mettler,,The Inaugural Orange Masters LionHeart Classic,2023,7
+CONN,200 Y Breaststroke,SCY,M,55-59,2:26.54,Gregory O Sargent,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Breaststroke,SCY,M,55-59,2:31.66,Myles G Lynch,,2023 YMCA National Masters Meet,2023,2
+CONN,200 Y Breaststroke,SCY,M,55-59,2:50.63,Ben Wyckoff,,Connecticut Masters' Games,2023,3
+CONN,200 Y Breaststroke,SCY,M,55-59,3:25.95,Steve Mettler,,The Inaugural Orange Masters LionHeart Classic,2023,4
+CONN,50 Y Butterfly,SCY,M,55-59,26.51,Matthew R Rossi,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Butterfly,SCY,M,55-59,26.86,Christopher J Doyle,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Butterfly,SCY,M,55-59,27.12,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,3
+CONN,50 Y Butterfly,SCY,M,55-59,27.62,Jeff Sargent,,2023 YMCA National Masters Meet,2023,4
+CONN,50 Y Butterfly,SCY,M,55-59,28.16,Wade Henderson,,2023 YMCA National Masters Meet,2023,5
+CONN,50 Y Butterfly,SCY,M,55-59,28.81,Kevin  M Carley,,2023 YMCA National Masters Meet,2023,6
+CONN,50 Y Butterfly,SCY,M,55-59,31.21,Anthony J Palluzzi,,March Madness Mini Meet,2023,7
+CONN,100 Y Butterfly,SCY,M,55-59,58.34,Matthew R Rossi,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Butterfly,SCY,M,55-59,59.47,Christopher J Doyle,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Butterfly,SCY,M,55-59,1:02.15,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,3
+CONN,100 Y Butterfly,SCY,M,55-59,1:12.15,Anthony J Palluzzi,,2023 New England LMSC SCY Championship,2023,4
+CONN,200 Y Butterfly,SCY,M,55-59,2:40.80,Ben Wyckoff,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:01.28,Gregory O Sargent,,38th Annual Ground Hog Meet,2023,1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:04.00,Jeff Sargent,,38th Annual Ground Hog Meet,2023,2
+CONN,100 Y Individual Medley,SCY,M,55-59,1:05.80,Kevin  M Carley,,2023 YMCA National Masters Meet,2023,3
+CONN,100 Y Individual Medley,SCY,M,55-59,1:05.98,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,4
+CONN,100 Y Individual Medley,SCY,M,55-59,1:06.70,Rommin Adl,,Connecticut Masters' Games,2023,5
+CONN,100 Y Individual Medley,SCY,M,55-59,1:13.43,Anthony J Palluzzi,,March Madness Mini Meet,2023,6
+CONN,100 Y Individual Medley,SCY,M,55-59,1:13.80,Richard R Sweeney,,38th Annual Ground Hog Meet,2023,7
+CONN,200 Y Individual Medley,SCY,M,55-59,2:15.09,Myles G Lynch,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Individual Medley,SCY,M,55-59,2:37.91,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,2
+CONN,200 Y Individual Medley,SCY,M,55-59,2:42.69,Anthony J Palluzzi,,March Madness Mini Meet,2023,3
+CONN,200 Y Individual Medley,SCY,M,55-59,2:48.43,Christopher J Doyle,,2023 New England LMSC SCY Championship,2023,4
+CONN,400 Y Individual Medley,SCY,M,55-59,5:52.63,Ben Wyckoff,,2023 New England LMSC SCY Championship,2023,1
+CONN,400 Y Individual Medley,SCY,M,55-59,5:56.66,Anthony J Palluzzi,,The Inaugural Orange Masters LionHeart Classic,2023,2
+CONN,50 Y Freestyle,SCY,M,60-64,25.21,George Hebner,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,60-64,25.59,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,2
+CONN,50 Y Freestyle,SCY,M,60-64,27.94,Gerald O Burbank,,2023 New England LMSC SCY Championship,2023,3
+CONN,50 Y Freestyle,SCY,M,60-64,34.88,Neil Kelsey,,Connecticut Masters' Games,2023,4
+CONN,50 Y Freestyle,SCY,M,60-64,50.88,Michael  E Rattley,,38th Annual Ground Hog Meet,2023,5
+CONN,100 Y Freestyle,SCY,M,60-64,55.03,George Hebner,,2023 YMCA National Masters Meet,2023,1
+CONN,100 Y Freestyle,SCY,M,60-64,56.65,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,2
+CONN,100 Y Freestyle,SCY,M,60-64,1:04.67,Gerald O Burbank,,2023 Colonies Zones SCY Championship,2023,3
+CONN,100 Y Freestyle,SCY,M,60-64,1:18.17,Neil Kelsey,,Connecticut Masters' Games,2023,4
+CONN,200 Y Freestyle,SCY,M,60-64,2:08.59,George Hebner,,2023 YMCA National Masters Meet,2023,1
+CONN,200 Y Freestyle,SCY,M,60-64,2:31.71,Gerald O Burbank,,March Masters St Patricks Day Last Chance Meet,2023,2
+CONN,200 Y Freestyle,SCY,M,60-64,3:07.82,Neil Kelsey,,Connecticut Masters' Games,2023,3
+CONN,500 Y Freestyle,SCY,M,60-64,6:47.86,Robert M Kornfeld,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Backstroke,SCY,M,60-64,32.76,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,1
+CONN,50 Y Backstroke,SCY,M,60-64,33.76,George Hebner,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Backstroke,SCY,M,60-64,34.46,Gerald O Burbank,,2023 New England LMSC SCY Championship,2023,3
+CONN,50 Y Backstroke,SCY,M,60-64,1:05.53,Michael  E Rattley,,38th Annual Ground Hog Meet,2023,4
+CONN,100 Y Backstroke,SCY,M,60-64,1:11.85,Gerald O Burbank,,Connecticut Masters' Games,2023,1
+CONN,100 Y Backstroke,SCY,M,60-64,1:16.55,George Hebner,,2023 YMCA National Masters Meet,2023,2
+CONN,100 Y Backstroke,SCY,M,60-64,2:30.11,Michael  E Rattley,,38th Annual Ground Hog Meet,2023,3
+CONN,200 Y Backstroke,SCY,M,60-64,2:34.12,Gerald O Burbank,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Breaststroke,SCY,M,60-64,33.03,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,M,60-64,35.81,Gerald O Burbank,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Breaststroke,SCY,M,60-64,39.69,Robert Lamontagne,,2023 New England LMSC SCY Championship,2023,3
+CONN,100 Y Breaststroke,SCY,M,60-64,1:17.04,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Breaststroke,SCY,M,60-64,1:17.08,Gerald O Burbank,,2023 U.S. Masters Swimming Spring National Championship,2023,2
+CONN,100 Y Breaststroke,SCY,M,60-64,1:28.19,Robert Lamontagne,,2023 New England LMSC SCY Championship,2023,3
+CONN,200 Y Breaststroke,SCY,M,60-64,2:56.05,Gerald O Burbank,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,200 Y Breaststroke,SCY,M,60-64,3:14.28,Robert Lamontagne,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Butterfly,SCY,M,60-64,27.84,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Butterfly,SCY,M,60-64,1:04.82,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,60-64,1:06.51,Robert M Kornfeld,,2023 Colonies Zones SCY Championship,2023,1
+CONN,100 Y Individual Medley,SCY,M,60-64,1:09.79,Gerald O Burbank,,2023 New England LMSC SCY Championship,2023,2
+CONN,100 Y Individual Medley,SCY,M,60-64,1:12.98,George Hebner,,2023 YMCA National Masters Meet,2023,3
+CONN,200 Y Individual Medley,SCY,M,60-64,2:40.43,Gerald O Burbank,,Connecticut Masters' Games,2023,1
+CONN,400 Y Individual Medley,SCY,M,60-64,6:11.12,Gerald O Burbank,,March Masters St Patricks Day Last Chance Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,65-69,29.96,Miles Ahrens,,Connecticut Masters' Games,2023,1
+CONN,50 Y Freestyle,SCY,M,65-69,37.13,Cass Anaya,,Connecticut Masters' Games,2023,2
+CONN,50 Y Freestyle,SCY,M,65-69,41.49,Mark B DeGarmo,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Freestyle,SCY,M,65-69,1:09.10,Miles Ahrens,,NJ Senior Games,2023,1
+CONN,200 Y Freestyle,SCY,M,65-69,2:39.13,Miles Ahrens,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Backstroke,SCY,M,65-69,38.56,Miles Ahrens,,Connecticut Masters' Games,2023,1
+CONN,50 Y Backstroke,SCY,M,65-69,47.61,Mark B DeGarmo,,38th Annual Ground Hog Meet,2023,2
+CONN,50 Y Breaststroke,SCY,M,65-69,38.15,Robert Lamontagne,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Breaststroke,SCY,M,65-69,40.18,Miles Ahrens,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Breaststroke,SCY,M,65-69,50.94,Mark B DeGarmo,,38th Annual Ground Hog Meet,2023,3
+CONN,100 Y Breaststroke,SCY,M,65-69,1:24.75,Robert Lamontagne,,Connecticut Masters' Games,2023,1
+CONN,200 Y Breaststroke,SCY,M,65-69,3:04.99,Robert Lamontagne,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Butterfly,SCY,M,65-69,31.76,Miles Ahrens,,2023 New England LMSC SCY Championship,2023,1
+CONN,100 Y Butterfly,SCY,M,65-69,1:52.55,Brian G Quinn,,Maine SCY Championships &amp; Senior Games,2023,1
+CONN,100 Y Individual Medley,SCY,M,65-69,1:18.13,Miles Ahrens,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Individual Medley,SCY,M,65-69,3:02.68,Miles Ahrens,,The Inaugural Orange Masters LionHeart Classic,2023,1
+CONN,50 Y Freestyle,SCY,M,70-74,30.12,Jim Randel,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Freestyle,SCY,M,70-74,35.30,Jonathan F Reik,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Freestyle,SCY,M,70-74,38.22,Frank McCarthy,,Connecticut Masters' Games,2023,3
+CONN,200 Y Freestyle,SCY,M,70-74,2:48.13,William Geoghegan,,2023 New England LMSC SCY Championship,2023,1
+CONN,200 Y Backstroke,SCY,M,70-74,3:08.75,William Geoghegan,,2023 New England LMSC SCY Championship,2023,1
+CONN,50 Y Breaststroke,SCY,M,70-74,39.74,Jim Randel,,2023 YMCA National Masters Meet,2023,1
+CONN,50 Y Breaststroke,SCY,M,70-74,43.26,William Geoghegan,,2023 New England LMSC SCY Championship,2023,2
+CONN,50 Y Breaststroke,SCY,M,70-74,48.46,William F Traester,,2023 U.S. Masters Swimming Spring National Championship,2023,3
+CONN,50 Y Breaststroke,SCY,M,70-74,49.60,George A Miles,,38th Annual Ground Hog Meet,2023,4
+CONN,50 Y Breaststroke,SCY,M,70-74,50.50,Frank McCarthy,,Connecticut Masters' Games,2023,5
+CONN,100 Y Breaststroke,SCY,M,70-74,1:56.78,William F Traester,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Butterfly,SCY,M,70-74,41.85,George A Miles,,38th Annual Ground Hog Meet,2023,1
+CONN,200 Y Individual Medley,SCY,M,70-74,4:26.55,William F Traester,,2023 U.S. Masters Swimming Spring National Championship,2023,1
+CONN,50 Y Freestyle,SCY,M,80-84,34.26,Kenneth O McKinney,,Connecticut Masters' Games,2023,1
+CONN,100 Y Freestyle,SCY,M,80-84,1:27.26,Kenneth O McKinney,,Connecticut Masters' Games,2023,1
+CONN,50 Y Backstroke,SCY,M,80-84,47.41,Kenneth O McKinney,,38th Annual Ground Hog Meet,2023,1
+CONN,50 Y Breaststroke,SCY,M,80-84,42.87,Kenneth O McKinney,,Connecticut Masters' Games,2023,1
+CONN,100 Y Breaststroke,SCY,M,80-84,1:54.58,Kenneth O McKinney,,Connecticut Masters' Games,2023,1
+GYMM,100 Y Butterfly,SCY,W,55-59,1:52.53,Linda G Filar,,38th Annual Ground Hog Meet,2023,1
+GYMM,200 Y Individual Medley,SCY,W,55-59,3:41.09,Linda G Filar,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Backstroke,SCY,W,25-29,1:15.03,Gabrielle Gelozin,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Breaststroke,SCY,W,25-29,1:29.83,Gabrielle Gelozin,,March Madness Mini Meet,2023,1
+UC05,100 Y Butterfly,SCY,W,25-29,1:17.61,Gabrielle Gelozin,,38th Annual Ground Hog Meet,2023,1
+UC05,200 Y Individual Medley,SCY,W,25-29,2:48.82,Gabrielle Gelozin,,March Madness Mini Meet,2023,1
+UC05,50 Y Freestyle,SCY,W,30-34,30.24,Devon M Moore,,38th Annual Ground Hog Meet,2023,1
+UC05,50 Y Freestyle,SCY,W,30-34,32.17,Kristen Ferencz,,Connecticut Masters' Games,2023,2
+UC05,100 Y Freestyle,SCY,W,30-34,1:07.75,Devon M Moore,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Freestyle,SCY,W,30-34,1:10.25,Kristen Ferencz,,Connecticut Masters' Games,2023,2
+UC05,200 Y Freestyle,SCY,W,30-34,2:33.77,Kristen Ferencz,,Connecticut Masters' Games,2023,1
+UC05,100 Y Backstroke,SCY,W,30-34,1:18.39,Devon M Moore,,38th Annual Ground Hog Meet,2023,1
+UC05,50 Y Freestyle,SCY,W,50-54,35.81,Julie S Wolfe,,Connecticut Masters' Games,2023,1
+UC05,50 Y Freestyle,SCY,W,50-54,37.68,Kirsty A Naples,,Connecticut Masters' Games,2023,2
+UC05,50 Y Breaststroke,SCY,W,50-54,41.86,Kirsty A Naples,,Connecticut Masters' Games,2023,1
+UC05,50 Y Breaststroke,SCY,W,50-54,43.37,Julie S Wolfe,,Connecticut Masters' Games,2023,2
+UC05,100 Y Breaststroke,SCY,W,50-54,1:35.06,Kirsty A Naples,,Connecticut Masters' Games,2023,1
+UC05,100 Y Breaststroke,SCY,W,50-54,1:40.04,Julie S Wolfe,,Connecticut Masters' Games,2023,2
+UC05,50 Y Freestyle,SCY,M,18-24,25.89,Abhishek Singla,,2023 Somerset County YMCA Masters Last Chance Meet,2023,1
+UC05,100 Y Freestyle,SCY,M,18-24,58.54,Abhishek Singla,,2023 Delaware Valley LMSC SCY Championship Meet,2023,1
+UC05,50 Y Butterfly,SCY,M,18-24,28.26,Abhishek Singla,,2023 Delaware Valley LMSC SCY Championship Meet,2023,1
+UC05,50 Y Freestyle,SCY,M,40-44,26.73,Parker Hayden,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Freestyle,SCY,M,40-44,59.79,Parker Hayden,,38th Annual Ground Hog Meet,2023,1
+UC05,50 Y Butterfly,SCY,M,40-44,36.24,Parker Hayden,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Freestyle,SCY,M,45-49,1:03.28,Thomas M Gallagher,,Connecticut Masters' Games,2023,1
+UC05,100 Y Backstroke,SCY,M,45-49,1:20.40,Thomas M Gallagher,,The Inaugural Orange Masters LionHeart Classic,2023,1
+UC05,100 Y Breaststroke,SCY,M,45-49,1:21.96,Thomas M Gallagher,,Connecticut Masters' Games,2023,1
+UC05,100 Y Individual Medley,SCY,M,45-49,1:13.32,Thomas M Gallagher,,The Inaugural Orange Masters LionHeart Classic,2023,1
+UC05,200 Y Individual Medley,SCY,M,45-49,2:43.25,Thomas M Gallagher,,The Inaugural Orange Masters LionHeart Classic,2023,1
+UC05,50 Y Freestyle,SCY,M,50-54,25.93,Scott M Tummins,,March Madness Mini Meet,2023,1
+UC05,50 Y Freestyle,SCY,M,50-54,26.91,Christopher D'Arcy,,HAWKtoberfest Adult Swim Meet,2023,2
+UC05,100 Y Freestyle,SCY,M,50-54,1:02.46,Christopher D'Arcy,,HAWKtoberfest Adult Swim Meet,2023,1
+UC05,50 Y Breaststroke,SCY,M,50-54,34.47,Christopher D'Arcy,,HAWKtoberfest Adult Swim Meet,2023,1
+UC05,50 Y Breaststroke,SCY,M,50-54,34.93,Scott M Tummins,,March Madness Mini Meet,2023,2
+UC05,50 Y Butterfly,SCY,M,50-54,29.49,Scott M Tummins,,March Madness Mini Meet,2023,1
+UC05,100 Y Individual Medley,SCY,M,50-54,1:12.01,Christopher D'Arcy,,HAWKtoberfest Adult Swim Meet,2023,1
+UC05,50 Y Freestyle,SCY,M,60-64,31.76,Elian G Marrash,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Freestyle,SCY,M,60-64,1:12.43,Elian G Marrash,,38th Annual Ground Hog Meet,2023,1
+UC05,50 Y Freestyle,SCY,M,65-69,29.50,Russell J Greenberg,,38th Annual Ground Hog Meet,2023,1
+UC05,100 Y Freestyle,SCY,M,65-69,1:05.39,Russell J Greenberg,,38th Annual Ground Hog Meet,2023,1
+UC05,200 Y Freestyle,SCY,M,65-69,2:32.65,Russell J Greenberg,,Get Kraken 2023,2023,1
+UC05,100 Y Individual Medley,SCY,M,65-69,1:23.58,Russell J Greenberg,,38th Annual Ground Hog Meet,2023,1
+UC05,50 Y Freestyle,SCY,M,75-79,53.45,Robert W Lohmann,,Connecticut Masters' Games,2023,1
+UC05,100 Y Freestyle,SCY,M,75-79,1:54.56,Robert W Lohmann,,Connecticut Masters' Games,2023,1
+UC05,200 Y Freestyle,SCY,M,75-79,3:59.81,Robert W Lohmann,,Connecticut Masters' Games,2023,1
+UC05,500 Y Freestyle,SCY,M,75-79,10:15.87,Robert W Lohmann,,Connecticut Masters' Games,2023,1

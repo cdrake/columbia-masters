@@ -1,0 +1,117 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CONN,50 M Freestyle,SCM,W,18-24,32.15,Anne Scholl,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Freestyle,SCM,W,18-24,1:11.71,Anne Scholl,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Breaststroke,SCM,W,18-24,48.02,Anne Scholl,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Butterfly,SCM,W,18-24,35.82,Anne Scholl,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Freestyle,SCM,W,35-39,32.58,Nicole C Ballarini,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Freestyle,SCM,W,35-39,1:13.34,Nicole C Ballarini,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Breaststroke,SCM,W,35-39,47.60,Nicole C Ballarini,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Butterfly,SCM,W,35-39,36.65,Nicole C Ballarini,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Freestyle,SCM,W,40-44,31.18,Galen D Rinaldi,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Freestyle,SCM,W,40-44,1:07.12,Galen D Rinaldi,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,200 M Freestyle,SCM,W,40-44,2:20.85,Galen D Rinaldi,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,400 M Freestyle,SCM,W,40-44,4:54.11,Galen D Rinaldi,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Freestyle,SCM,W,45-49,32.55,Marie Kenny,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Freestyle,SCM,W,45-49,1:17.92,Marie Kenny,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Individual Medley,SCM,W,45-49,1:29.58,Marie Kenny,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Freestyle,SCM,W,60-64,35.41,Christie M Hayes,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Breaststroke,SCM,W,60-64,44.27,Christie M Hayes,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Breaststroke,SCM,W,60-64,1:37.63,Christie M Hayes,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Individual Medley,SCM,W,60-64,1:31.91,Christie M Hayes,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Freestyle,SCM,W,65-69,44.84,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Freestyle,SCM,W,65-69,3:52.41,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,400 M Freestyle,SCM,W,65-69,8:12.36,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,800 M Freestyle,SCM,W,65-69,17:10.10,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Backstroke,SCM,W,65-69,2:08.74,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Backstroke,SCM,W,65-69,4:17.16,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Breaststroke,SCM,W,65-69,2:11.90,Ann Louise Onton,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,200 M Breaststroke,SCM,W,65-69,4:58.93,Ann Louise Onton,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Butterfly,SCM,W,65-69,54.30,Ann Louise Onton,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Butterfly,SCM,W,65-69,2:07.26,Ann Louise Onton,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,200 M Butterfly,SCM,W,65-69,4:46.23,Ann Louise Onton,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Individual Medley,SCM,W,65-69,1:59.18,Ann Louise Onton,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Individual Medley,SCM,W,65-69,4:21.49,Ann Louise Onton,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,400 M Individual Medley,SCM,W,65-69,9:39.92,Ann Louise Onton,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Freestyle,SCM,M,35-39,33.25,Brett Arnold,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Freestyle,SCM,M,35-39,1:13.07,Richard J Bell,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Backstroke,SCM,M,35-39,38.95,Brett Arnold,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Breaststroke,SCM,M,35-39,40.20,Richard J Bell,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Breaststroke,SCM,M,35-39,44.62,Brett Arnold,,Lancer Classic at Waterford CT SCM,2008,2
+CONN,100 M Breaststroke,SCM,M,35-39,1:30.71,Richard J Bell,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Breaststroke,SCM,M,35-39,3:16.11,Richard J Bell,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Butterfly,SCM,M,35-39,37.24,Richard J Bell,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Individual Medley,SCM,M,35-39,1:27.17,Richard J Bell,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Freestyle,SCM,M,40-44,2:34.79,Mark A Locken,,Concord Masters Mini Meet,2008,1
+CONN,50 M Backstroke,SCM,M,40-44,35.59,Robert Gerber,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Backstroke,SCM,M,40-44,1:23.99,Robert Gerber,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,100 M Breaststroke,SCM,M,40-44,1:28.30,Mark A Locken,,Concord Masters Mini Meet,2008,1
+CONN,50 M Butterfly,SCM,M,40-44,32.19,Mark A Locken,,Concord Masters Mini Meet,2008,1
+CONN,50 M Butterfly,SCM,M,40-44,32.75,Robert Gerber,,Lancer Classic at Waterford CT SCM,2008,2
+CONN,100 M Butterfly,SCM,M,40-44,1:18.54,Mark A Locken,,Concord Masters Mini Meet,2008,1
+CONN,100 M Individual Medley,SCM,M,40-44,1:22.66,Robert Gerber,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,200 M Freestyle,SCM,M,45-49,2:27.65,Rick Klutey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,400 M Freestyle,SCM,M,45-49,5:15.07,Rick Klutey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Breaststroke,SCM,M,45-49,1:24.58,Rick Klutey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,50 M Butterfly,SCM,M,45-49,29.41,Tom K Coffey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Butterfly,SCM,M,45-49,1:06.14,Tom K Coffey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Butterfly,SCM,M,45-49,2:37.60,Tom K Coffey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Individual Medley,SCM,M,45-49,1:08.58,Tom K Coffey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Individual Medley,SCM,M,45-49,2:33.14,Tom K Coffey,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Individual Medley,SCM,M,45-49,2:44.51,Rick Klutey,,NE-LMSC 2008 SCM Championship,2008,2
+CONN,100 M Freestyle,SCM,M,50-54,1:17.21,Brian G Quinn,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,200 M Freestyle,SCM,M,50-54,3:02.07,Brian G Quinn,,Lancer Classic at Waterford CT SCM,2008,1
+CONN,50 M Freestyle,SCM,M,55-59,29.63,William J Geoghegan,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Freestyle,SCM,M,55-59,2:43.90,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,400 M Freestyle,SCM,M,55-59,5:38.69,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,800 M Freestyle,SCM,M,55-59,11:47.27,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,1500 M Freestyle,SCM,M,55-59,23:02.12,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,50 M Backstroke,SCM,M,55-59,43.79,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,100 M Backstroke,SCM,M,55-59,1:42.64,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,200 M Backstroke,SCM,M,55-59,3:11.17,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,100 M Butterfly,SCM,M,55-59,1:34.43,Paul A McClintock,,2008 Empire State Games,2008,1
+CONN,200 M Butterfly,SCM,M,55-59,3:00.76,William J Geoghegan,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Butterfly,SCM,M,55-59,3:23.47,Paul A McClintock,,2008 Empire State Games,2008,2
+CONN,100 M Individual Medley,SCM,M,55-59,1:19.52,William J Geoghegan,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Individual Medley,SCM,M,55-59,2:49.32,William J Geoghegan,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Individual Medley,SCM,M,55-59,3:15.51,Paul A McClintock,,2008 Empire State Games,2008,2
+CONN,400 M Individual Medley,SCM,M,55-59,6:06.97,William J Geoghegan,,Colonies Zone SCM Championships,2008,1
+CONN,400 M Individual Medley,SCM,M,55-59,7:01.79,Paul A McClintock,,2008 Empire State Games,2008,2
+CONN,50 M Freestyle,SCM,M,65-69,39.84,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,100 M Freestyle,SCM,M,65-69,1:30.64,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,200 M Freestyle,SCM,M,65-69,3:30.52,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,400 M Freestyle,SCM,M,65-69,7:34.08,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,200 M Backstroke,SCM,M,65-69,3:48.41,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,100 M Breaststroke,SCM,M,65-69,1:45.46,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,200 M Breaststroke,SCM,M,65-69,3:47.10,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,50 M Butterfly,SCM,M,65-69,35.77,David M Kirby,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Butterfly,SCM,M,65-69,48.47,Peter P Berghaus,,2008 Empire State Games,2008,2
+CONN,100 M Butterfly,SCM,M,65-69,1:20.65,David M Kirby,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Butterfly,SCM,M,65-69,3:18.11,David M Kirby,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Individual Medley,SCM,M,65-69,1:38.38,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,200 M Individual Medley,SCM,M,65-69,3:49.20,Peter P Berghaus,,2008 Empire State Games,2008,1
+CONN,50 M Freestyle,SCM,M,70-74,1:14.22,James A Goldsmith,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Freestyle,SCM,M,70-74,3:04.16,James A Goldsmith,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,400 M Freestyle,SCM,M,70-74,17:23.22,James A Goldsmith,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,50 M Backstroke,SCM,M,70-74,1:51.65,James A Goldsmith,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,100 M Backstroke,SCM,M,70-74,3:35.19,James A Goldsmith,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,200 M Backstroke,SCM,M,70-74,8:01.76,James A Goldsmith,,NE-LMSC 2008 SCM Championship,2008,1
+CONN,50 M Freestyle,SCM,M,80-84,48.75,Fred Goldner,,2008 Empire State Games,2008,1
+CONN,100 M Freestyle,SCM,M,80-84,1:46.73,Fred Goldner,,2008 Empire State Games,2008,1
+CONN,200 M Freestyle,SCM,M,80-84,3:52.10,Fred Goldner,,2008 Empire State Games,2008,1
+CONN,400 M Freestyle,SCM,M,80-84,8:17.56,Fred Goldner,,2008 Empire State Games,2008,1
+CONN,800 M Freestyle,SCM,M,80-84,16:50.73,Fred Goldner,,2008 Empire State Games,2008,1
+CONN,1500 M Freestyle,SCM,M,80-84,32:04.87,Fred Goldner,,2008 Empire State Games,2008,1
+CONN,50 M Breaststroke,SCM,M,80-84,45.39,Charles J Urstadt,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Freestyle,SCM,M,85-89,1:08.99,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Freestyle,SCM,M,85-89,2:39.04,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Backstroke,SCM,M,85-89,1:17.82,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Backstroke,SCM,M,85-89,2:59.73,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,50 M Butterfly,SCM,M,85-89,1:58.45,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Butterfly,SCM,M,85-89,4:57.10,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,100 M Individual Medley,SCM,M,85-89,3:19.00,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,200 M Individual Medley,SCM,M,85-89,7:21.74,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+CONN,400 M Individual Medley,SCM,M,85-89,15:54.04,Vladimir I Ouchakof,,Colonies Zone SCM Championships,2008,1
+NEM,200 M Freestyle,SCM,M,40-44,2:30.18,Mark A Locken,,NE-LMSC 2008 SCM Championship,2008,1
+NEM,100 M Breaststroke,SCM,M,40-44,1:25.31,Mark A Locken,,NE-LMSC 2008 SCM Championship,2008,1
+NEM,200 M Butterfly,SCM,M,40-44,3:12.01,Mark A Locken,,NE-LMSC 2008 SCM Championship,2008,1
+UNAT,50 M Freestyle,SCM,W,30-34,42.55,Crystal G Adams,,NE-LMSC 2008 SCM Championship,2008,1
