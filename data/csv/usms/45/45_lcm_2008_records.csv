@@ -1,0 +1,261 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ART,50 M Freestyle,LCM,W,40-44,32.95,Andrea M Timpeiro,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Breaststroke,LCM,W,40-44,48.06,Andrea M Timpeiro,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Butterfly,LCM,W,40-44,44.34,Andrea M Timpeiro,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,400 M Freestyle,LCM,W,45-49,5:55.18,Felicia A Bianchi,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Backstroke,LCM,W,45-49,1:37.62,Felicia A Bianchi,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,200 M Backstroke,LCM,W,45-49,3:25.68,Felicia A Bianchi,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Breaststroke,LCM,W,45-49,1:52.45,Felicia A Bianchi,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Freestyle,LCM,W,55-59,46.19,Michelle E Martin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Breaststroke,LCM,W,55-59,1:00.73,Michelle E Martin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Butterfly,LCM,W,55-59,56.50,Michelle E Martin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Butterfly,LCM,W,55-59,2:06.22,Michelle E Martin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,200 M Butterfly,LCM,W,55-59,4:23.99,Michelle E Martin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Freestyle,LCM,M,25-29,27.34,Eric D Love,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Freestyle,LCM,M,25-29,1:04.50,Eric D Love,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Backstroke,LCM,M,25-29,35.28,Eric D Love,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Butterfly,LCM,M,25-29,31.51,Eric D Love,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Backstroke,LCM,M,35-39,31.31,Sean P Mc Kinley,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Backstroke,LCM,M,35-39,1:09.28,Sean P Mc Kinley,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Butterfly,LCM,M,35-39,30.93,Sean P Mc Kinley,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Freestyle,LCM,M,40-44,30.94,Cliff Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Freestyle,LCM,M,40-44,31.13,Francois Du Plessis,,"Classic City Masters at Athens, GA LCM",2008,2
+ART,100 M Freestyle,LCM,M,40-44,1:10.14,Cliff Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,400 M Freestyle,LCM,M,40-44,5:23.55,Matt Le Jeune,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Backstroke,LCM,M,40-44,37.07,Matt Le Jeune,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Backstroke,LCM,M,40-44,1:23.47,Matt Le Jeune,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Breaststroke,LCM,M,40-44,41.29,Cliff Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Breaststroke,LCM,M,40-44,42.13,Francois Du Plessis,,"Classic City Masters at Athens, GA LCM",2008,2
+ART,100 M Breaststroke,LCM,M,40-44,1:33.00,Cliff Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Breaststroke,LCM,M,40-44,1:33.73,Francois Du Plessis,,"Classic City Masters at Athens, GA LCM",2008,2
+ART,50 M Butterfly,LCM,M,40-44,34.68,Francois Du Plessis,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Freestyle,LCM,M,45-49,27.27,Sean Fitzgerald,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,100 M Freestyle,LCM,M,45-49,1:02.49,Sean Fitzgerald,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,400 M Freestyle,LCM,M,45-49,5:11.02,Sean Fitzgerald,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,400 M Freestyle,LCM,M,45-49,5:49.43,Michael D Hardin,,"Classic City Masters at Athens, GA LCM",2008,2
+ART,50 M Backstroke,LCM,M,45-49,40.54,Michael D Hardin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,50 M Breaststroke,LCM,M,45-49,41.07,Michael D Hardin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,200 M Breaststroke,LCM,M,45-49,3:16.84,Michael D Hardin,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,200 M Individual Medley,LCM,M,45-49,2:50.00,Sean Fitzgerald,,"Classic City Masters at Athens, GA LCM",2008,1
+ART,200 M Individual Medley,LCM,M,45-49,3:00.07,Michael D Hardin,,"Classic City Masters at Athens, GA LCM",2008,2
+AWJ,50 M Freestyle,LCM,W,30-34,34.65,Heidi Natkin,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Freestyle,LCM,W,30-34,2:44.54,Heidi Natkin,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,400 M Freestyle,LCM,W,30-34,5:44.48,Heidi Natkin,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Individual Medley,LCM,W,30-34,3:01.16,Heidi Natkin,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,100 M Freestyle,LCM,M,18-24,1:02.30,Scott V Brown,,Bumpy Jones Classic LCM,2008,1
+AWJ,200 M Freestyle,LCM,M,18-24,2:08.85,Scott V Brown,,Bumpy Jones Classic LCM,2008,1
+AWJ,400 M Freestyle,LCM,M,18-24,4:33.53,Scott V Brown,,Bumpy Jones Classic LCM,2008,1
+AWJ,50 M Backstroke,LCM,M,35-39,30.68,Steve R Mortimer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,100 M Backstroke,LCM,M,35-39,1:05.40,Steve R Mortimer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Butterfly,LCM,M,35-39,27.47,Steve R Mortimer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Individual Medley,LCM,M,35-39,2:24.03,Steve R Mortimer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Freestyle,LCM,M,40-44,28.70,Jeffrey Tacca,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,100 M Freestyle,LCM,M,40-44,1:02.85,Jeffrey Tacca,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Freestyle,LCM,M,40-44,2:25.79,Jeffrey Tacca,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Freestyle,LCM,M,45-49,26.26,Bart L Graham,,2008 USMS Long Course Nationals,2008,1
+AWJ,50 M Freestyle,LCM,M,45-49,30.25,Thomas P Potter,,Water Spider Invite at Panama City Beach,2008,2
+AWJ,100 M Freestyle,LCM,M,45-49,58.68,Bart L Graham,,2008 USMS Long Course Nationals,2008,1
+AWJ,100 M Freestyle,LCM,M,45-49,1:08.36,Thomas P Potter,,Water Spider Invite at Panama City Beach,2008,2
+AWJ,200 M Freestyle,LCM,M,45-49,2:42.69,Thomas P Potter,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Backstroke,LCM,M,45-49,30.71,Bart L Graham,,2008 USMS Long Course Nationals,2008,1
+AWJ,100 M Backstroke,LCM,M,45-49,1:06.40,Bart L Graham,,2008 USMS Long Course Nationals,2008,1
+AWJ,200 M Backstroke,LCM,M,45-49,2:28.86,Bart L Graham,,2008 USMS Long Course Nationals,2008,1
+AWJ,50 M Breaststroke,LCM,M,45-49,38.31,Thomas P Potter,,Water Spider Invite at Panama City Beach,2008,1
+AWJ,100 M Breaststroke,LCM,M,45-49,1:33.37,Thomas P Potter,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Butterfly,LCM,M,45-49,31.36,Thomas P Potter,,Water Spider Invite at Panama City Beach,2008,1
+AWJ,200 M Individual Medley,LCM,M,45-49,2:57.76,Thomas P Potter,,Water Spider Invite at Panama City Beach,2008,1
+AWJ,50 M Freestyle,LCM,M,50-54,27.62,Andy R Dyer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Backstroke,LCM,M,50-54,34.24,Andy R Dyer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,100 M Backstroke,LCM,M,50-54,1:32.81,David G Eng,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Backstroke,LCM,M,50-54,3:13.26,David G Eng,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Breaststroke,LCM,M,50-54,34.45,Andy R Dyer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Breaststroke,LCM,M,50-54,3:31.52,David G Eng,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Butterfly,LCM,M,50-54,30.31,Andy R Dyer,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,100 M Butterfly,LCM,M,50-54,1:22.97,David G Eng,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,200 M Butterfly,LCM,M,50-54,2:57.86,David G Eng,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,50 M Breaststroke,LCM,M,55-59,36.23,Robert V Brown,,2008 USMS Long Course Nationals,2008,1
+AWJ,100 M Breaststroke,LCM,M,55-59,1:21.60,Robert V Brown,,2008 USMS Long Course Nationals,2008,1
+AWJ,200 M Breaststroke,LCM,M,55-59,3:00.68,Robert V Brown,,Bumpy Jones Classic LCM,2008,1
+AWJ,200 M Individual Medley,LCM,M,55-59,2:42.11,Robert V Brown,,2008 USMS Long Course Nationals,2008,1
+AWJ,400 M Individual Medley,LCM,M,55-59,5:50.84,Robert V Brown,,2008 USMS Long Course Nationals,2008,1
+AWJ,200 M Freestyle,LCM,M,60-64,2:27.70,Bob E Couch,,2008 USMS Long Course Nationals,2008,1
+AWJ,400 M Freestyle,LCM,M,60-64,5:13.36,Bob E Couch,,"Classic City Masters at Athens, GA LCM",2008,1
+AWJ,800 M Freestyle,LCM,M,60-64,10:50.53,Bob E Couch,,2008 USMS Long Course Nationals,2008,1
+AWJ,200 M Individual Medley,LCM,M,60-64,2:50.45,Bob E Couch,,2008 USMS Long Course Nationals,2008,1
+AWJ,400 M Individual Medley,LCM,M,60-64,6:14.86,Bob E Couch,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Freestyle,LCM,W,35-39,28.22,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Freestyle,LCM,W,35-39,1:03.74,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Freestyle,LCM,W,35-39,2:17.16,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Freestyle,LCM,W,35-39,2:34.00,Tracy L Collett,,2008 World Masters Champs LCM at Perth,2008,2
+GAJA,400 M Freestyle,LCM,W,35-39,4:41.21,Kristina Ulveling,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,800 M Freestyle,LCM,W,35-39,9:46.38,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Backstroke,LCM,W,35-39,1:21.01,Jan S Allen,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,200 M Backstroke,LCM,W,35-39,2:54.85,Jan S Allen,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,50 M Breaststroke,LCM,W,35-39,42.74,Tracy L Collett,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,100 M Breaststroke,LCM,W,35-39,1:33.88,Tracy L Collett,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,200 M Breaststroke,LCM,W,35-39,3:17.55,Tracy L Collett,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,50 M Butterfly,LCM,W,35-39,29.43,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Butterfly,LCM,W,35-39,1:06.54,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Butterfly,LCM,W,35-39,2:26.71,Kristina Ulveling,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Individual Medley,LCM,W,35-39,2:59.08,Jan S Allen,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,400 M Individual Medley,LCM,W,35-39,6:12.65,Tracy L Collett,,2008 World Masters Champs LCM at Perth,2008,1
+GAJA,400 M Individual Medley,LCM,W,35-39,6:25.31,Jan S Allen,,2008 World Masters Champs LCM at Perth,2008,2
+GAJA,50 M Freestyle,LCM,W,45-49,32.02,Donna L Hooe,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Freestyle,LCM,W,45-49,34.20,Tana M Selby,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,50 M Freestyle,LCM,W,45-49,37.45,Myrna N Yarbrough,,"Classic City Masters at Athens, GA LCM",2008,3
+GAJA,1500 M Freestyle,LCM,W,45-49,22:35.56,Donna L Hooe,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Backstroke,LCM,W,45-49,44.68,Myrna N Yarbrough,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Backstroke,LCM,W,45-49,3:10.66,Donna L Hooe,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Breaststroke,LCM,W,45-49,51.76,Myrna N Yarbrough,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Butterfly,LCM,W,45-49,39.13,Tana M Selby,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Butterfly,LCM,W,45-49,43.26,Myrna N Yarbrough,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,200 M Butterfly,LCM,W,45-49,3:44.88,Donna L Hooe,,2008 USMS Long Course Nationals,2008,1
+GAJA,400 M Individual Medley,LCM,W,45-49,6:53.29,Donna L Hooe,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Freestyle,LCM,W,50-54,33.85,Patricia S Constantino,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Freestyle,LCM,W,50-54,1:22.34,Ginny J Bryson,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Freestyle,LCM,W,50-54,1:26.29,Patricia S Constantino,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,400 M Freestyle,LCM,W,50-54,6:55.93,Lisa L Watson,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,800 M Freestyle,LCM,W,50-54,14:31.02,Ginny J Bryson,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Backstroke,LCM,W,50-54,40.48,Patricia S Constantino,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Backstroke,LCM,W,50-54,49.31,Lisa L Watson,,2008 USMS Long Course Nationals,2008,2
+GAJA,100 M Backstroke,LCM,W,50-54,1:47.78,Lisa L Watson,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Backstroke,LCM,W,50-54,3:32.49,Lisa L Watson,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Breaststroke,LCM,W,50-54,43.51,Patricia S Constantino,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Breaststroke,LCM,W,50-54,43.67,Ginny J Bryson,,2008 USMS Long Course Nationals,2008,2
+GAJA,100 M Breaststroke,LCM,W,50-54,1:34.90,Ginny J Bryson,,2008 USMS Long Course Nationals,2008,1
+GAJA,200 M Breaststroke,LCM,W,50-54,3:27.08,Ginny J Bryson,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Freestyle,LCM,W,55-59,39.02,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Freestyle,LCM,W,55-59,1:28.52,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,400 M Freestyle,LCM,W,55-59,5:57.10,Skippy Mattson,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,400 M Freestyle,LCM,W,55-59,6:38.53,Candace D Lang,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,50 M Backstroke,LCM,W,55-59,46.47,Candace D Lang,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Backstroke,LCM,W,55-59,1:40.04,Candace D Lang,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Backstroke,LCM,W,55-59,3:13.30,Skippy Mattson,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Backstroke,LCM,W,55-59,3:30.23,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,2
+GAJA,50 M Breaststroke,LCM,W,55-59,42.95,Skippy Mattson,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Breaststroke,LCM,W,55-59,52.15,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,2
+GAJA,100 M Breaststroke,LCM,W,55-59,1:35.06,Skippy Mattson,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Breaststroke,LCM,W,55-59,3:32.80,Skippy Mattson,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Breaststroke,LCM,W,55-59,4:03.65,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,2
+GAJA,50 M Butterfly,LCM,W,55-59,48.12,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Individual Medley,LCM,W,55-59,3:34.27,Candace D Lang,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,400 M Individual Medley,LCM,W,55-59,6:51.70,Skippy Mattson,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,400 M Individual Medley,LCM,W,55-59,7:41.69,Candace D Lang,,Dixie Zone LCM Champs at Team Greenville SC,2008,2
+GAJA,50 M Freestyle,LCM,W,60-64,31.91,Francine S Williamson,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Freestyle,LCM,W,60-64,1:09.29,Francine S Williamson,,2008 USMS Long Course Nationals,2008,1
+GAJA,200 M Freestyle,LCM,W,60-64,2:37.91,Francine S Williamson,,2008 USMS Long Course Nationals,2008,1
+GAJA,200 M Freestyle,LCM,W,60-64,3:03.44,Betty B Veater,,2008 USMS Long Course Nationals,2008,2
+GAJA,400 M Freestyle,LCM,W,60-64,5:33.08,Francine S Williamson,,2008 USMS Long Course Nationals,2008,1
+GAJA,400 M Freestyle,LCM,W,60-64,6:22.35,Betty B Veater,,2008 USMS Long Course Nationals,2008,2
+GAJA,800 M Freestyle,LCM,W,60-64,12:58.14,Betty B Veater,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Backstroke,LCM,W,60-64,42.44,Francine S Williamson,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Breaststroke,LCM,W,60-64,1:45.39,Betty B Veater,,2008 USMS Long Course Nationals,2008,1
+GAJA,200 M Breaststroke,LCM,W,60-64,3:56.17,Betty B Veater,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Freestyle,LCM,W,65-69,1:39.18,MaryLou Stephens,,2008 USMS Long Course Nationals,2008,1
+GAJA,200 M Freestyle,LCM,W,65-69,3:30.91,MaryLou Stephens,,2008 USMS Long Course Nationals,2008,1
+GAJA,400 M Freestyle,LCM,W,65-69,7:16.93,MaryLou Stephens,,2008 USMS Long Course Nationals,2008,1
+GAJA,1500 M Freestyle,LCM,W,65-69,28:08.40,MaryLou Stephens,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Backstroke,LCM,W,65-69,57.57,MaryLou Stephens,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Freestyle,LCM,M,18-24,31.21,Neal Baldowski,,Reebok Winter Classic USA Masters Only LCM Savannah,2008,1
+GAJA,50 M Freestyle,LCM,M,18-24,36.21,Phillip Baldowski,,Reebok Winter Classic USA Masters Only LCM Savannah,2008,2
+GAJA,100 M Butterfly,LCM,M,18-24,1:43.05,Neal Baldowski,,Reebok Winter Classic USA Masters Only LCM Savannah,2008,1
+GAJA,50 M Freestyle,LCM,M,40-44,31.49,Edward P Gardiner,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Freestyle,LCM,M,40-44,1:11.22,Edward P Gardiner,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Freestyle,LCM,M,40-44,2:45.53,Edward P Gardiner,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,400 M Freestyle,LCM,M,40-44,5:33.94,Andrew M Perry,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,400 M Freestyle,LCM,M,40-44,5:54.58,Edward P Gardiner,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,100 M Backstroke,LCM,M,40-44,1:39.23,Andrew M Perry,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Backstroke,LCM,M,40-44,3:28.15,Andrew M Perry,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Butterfly,LCM,M,40-44,1:34.49,Andrew M Perry,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Individual Medley,LCM,M,40-44,3:25.02,Andrew M Perry,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Freestyle,LCM,M,45-49,3:00.09,Gary D Vogin,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Backstroke,LCM,M,45-49,3:38.16,Gary D Vogin,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Breaststroke,LCM,M,45-49,3:38.27,Gary D Vogin,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Butterfly,LCM,M,45-49,4:15.25,Gary D Vogin,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Individual Medley,LCM,M,45-49,3:25.51,Gary D Vogin,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Freestyle,LCM,M,50-54,26.39,Bob Bugg,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Freestyle,LCM,M,50-54,29.41,Jeff A Norris,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,100 M Freestyle,LCM,M,50-54,56.29,Bob Bugg,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Freestyle,LCM,M,50-54,1:11.39,Steve Miller,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,200 M Freestyle,LCM,M,50-54,2:03.01,Bob Bugg,,2008 USMS Long Course Nationals,2008,1
+GAJA,200 M Freestyle,LCM,M,50-54,2:49.14,Steve Miller,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,400 M Freestyle,LCM,M,50-54,4:57.50,Rob Copeland,,2008 USMS Long Course Nationals,2008,1
+GAJA,400 M Freestyle,LCM,M,50-54,5:53.94,Steve Miller,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,1500 M Freestyle,LCM,M,50-54,19:37.67,Rob Copeland,,2008 USMS Long Course Nationals,2008,1
+GAJA,50 M Butterfly,LCM,M,50-54,27.85,Bob Bugg,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Butterfly,LCM,M,50-54,1:02.95,Bob Bugg,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Butterfly,LCM,M,50-54,1:12.98,Rob Copeland,,2008 USMS Long Course Nationals,2008,2
+GAJA,200 M Butterfly,LCM,M,50-54,2:45.32,Rob Copeland,,2008 USMS Long Course Nationals,2008,1
+GAJA,400 M Individual Medley,LCM,M,50-54,5:47.54,Rob Copeland,,2008 USMS Long Course Nationals,2008,1
+GAJA,100 M Freestyle,LCM,M,55-59,1:07.00,Richard D Bailey,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Backstroke,LCM,M,55-59,1:22.24,Richard D Bailey,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,400 M Freestyle,LCM,M,60-64,6:32.51,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,800 M Freestyle,LCM,M,60-64,13:15.36,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Backstroke,LCM,M,60-64,3:36.12,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,50 M Breaststroke,LCM,M,60-64,42.51,John V Zeigler,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Breaststroke,LCM,M,60-64,1:35.42,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Breaststroke,LCM,M,60-64,3:34.39,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Butterfly,LCM,M,60-64,1:36.77,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Butterfly,LCM,M,60-64,3:39.23,John V Zeigler,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Individual Medley,LCM,M,60-64,3:03.02,Thomas J Edwards,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Individual Medley,LCM,M,60-64,3:32.68,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,2
+GAJA,400 M Individual Medley,LCM,M,60-64,7:26.44,John V Zeigler,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,50 M Freestyle,LCM,M,65-69,34.51,David W Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Freestyle,LCM,M,65-69,50.42,Walter D Leen,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,100 M Freestyle,LCM,M,65-69,1:17.86,Raymond Woller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Freestyle,LCM,M,65-69,1:18.98,David W Miller,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,200 M Freestyle,LCM,M,65-69,3:14.28,David W Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Backstroke,LCM,M,65-69,1:07.64,Walter D Leen,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Backstroke,LCM,M,65-69,1:30.14,Raymond Woller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Backstroke,LCM,M,65-69,3:27.63,Raymond Woller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Breaststroke,LCM,M,65-69,47.39,David W Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Breaststroke,LCM,M,65-69,1:55.98,David W Miller,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Freestyle,LCM,M,75-79,52.09,Bruce W Hallowell,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,100 M Freestyle,LCM,M,75-79,1:57.47,Bruce W Hallowell,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,400 M Freestyle,LCM,M,75-79,7:47.58,Irwin W Stolz,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Backstroke,LCM,M,75-79,40.82,George L Gfroerer,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Backstroke,LCM,M,75-79,1:07.93,Bruce W Hallowell,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,100 M Backstroke,LCM,M,75-79,1:30.74,George L Gfroerer,,St. Petes Masters LCM,2008,1
+GAJA,100 M Backstroke,LCM,M,75-79,2:31.36,Bruce W Hallowell,,"Classic City Masters at Athens, GA LCM",2008,2
+GAJA,200 M Backstroke,LCM,M,75-79,3:30.29,George L Gfroerer,,St. Petes Masters LCM,2008,1
+GAJA,100 M Freestyle,LCM,M,80-84,1:50.07,Jack Mitchell,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,200 M Freestyle,LCM,M,80-84,4:06.64,Jack Mitchell,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,400 M Freestyle,LCM,M,80-84,9:12.28,Jack Mitchell,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Backstroke,LCM,M,80-84,1:55.21,Jack Mitchell,,"Classic City Masters at Athens, GA LCM",2008,1
+GAJA,50 M Breaststroke,LCM,M,80-84,57.86,Jack Mitchell,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,100 M Breaststroke,LCM,M,80-84,2:22.87,Jack Mitchell,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Breaststroke,LCM,M,80-84,5:20.31,Jack Mitchell,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GAJA,200 M Individual Medley,LCM,M,80-84,5:01.84,Jack Mitchell,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+RAY,100 M Freestyle,LCM,W,30-34,1:09.12,Chris G Hartley,,2008 World Masters Champs LCM at Perth,2008,1
+RAY,200 M Freestyle,LCM,W,30-34,2:31.78,Chris G Hartley,,2008 World Masters Champs LCM at Perth,2008,1
+RAY,800 M Freestyle,LCM,W,30-34,11:10.24,Chris G Hartley,,2008 World Masters Champs LCM at Perth,2008,1
+RAY,100 M Butterfly,LCM,W,30-34,1:15.49,Chris G Hartley,,2008 World Masters Champs LCM at Perth,2008,1
+RAY,50 M Freestyle,LCM,M,45-49,27.21,Keith C Berryhill,,"Classic City Masters at Athens, GA LCM",2008,1
+RAY,100 M Freestyle,LCM,M,45-49,1:01.20,Keith C Berryhill,,"Classic City Masters at Athens, GA LCM",2008,1
+RAY,200 M Freestyle,LCM,M,45-49,2:15.48,Keith C Berryhill,,"Classic City Masters at Athens, GA LCM",2008,1
+RAY,400 M Freestyle,LCM,M,45-49,4:45.04,Keith C Berryhill,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,100 M Freestyle,LCM,W,18-24,1:13.13,Ashley R Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,200 M Freestyle,LCM,W,18-24,2:37.43,Ashley R Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,400 M Freestyle,LCM,W,18-24,5:34.16,Ashley R Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,800 M Freestyle,LCM,W,18-24,11:43.04,Ashley R Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,50 M Butterfly,LCM,W,18-24,37.36,Ashley R Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,100 M Freestyle,LCM,W,45-49,1:10.10,Judith P Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,400 M Freestyle,LCM,W,45-49,5:34.75,Judith P Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,200 M Individual Medley,LCM,W,45-49,3:01.40,Judith P Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,400 M Individual Medley,LCM,W,45-49,6:29.75,Judith P Prokopiak,,2008 USMS Long Course Nationals,2008,1
+UNAT,50 M Breaststroke,LCM,W,50-54,55.26,Laura E Huggins,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,100 M Breaststroke,LCM,W,50-54,2:02.61,Laura E Huggins,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,50 M Freestyle,LCM,M,35-39,26.65,Mike Tartaglione,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+UNAT,100 M Freestyle,LCM,M,35-39,1:02.13,Mike Tartaglione,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+UNAT,400 M Freestyle,LCM,M,35-39,5:42.61,Mike Tartaglione,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,50 M Breaststroke,LCM,M,45-49,33.91,Mark T Schremmer,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,200 M Breaststroke,LCM,M,45-49,3:00.67,Mark T Schremmer,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,50 M Freestyle,LCM,M,50-54,28.51,David C Hildebrandt,,June Krauser Summer Splash I LCM,2008,1
+UNAT,50 M Freestyle,LCM,M,50-54,31.36,Bruce G Schappell,,"Classic City Masters at Athens, GA LCM",2008,2
+UNAT,100 M Freestyle,LCM,M,50-54,1:04.97,David C Hildebrandt,,June Krauser Summer Splash I LCM,2008,1
+UNAT,50 M Butterfly,LCM,M,50-54,29.56,David C Hildebrandt,,June Krauser Summer Splash I LCM,2008,1
+UNAT,50 M Butterfly,LCM,M,50-54,32.67,Bruce G Schappell,,"Classic City Masters at Athens, GA LCM",2008,2
+UNAT,100 M Butterfly,LCM,M,50-54,1:23.83,Bruce G Schappell,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,50 M Freestyle,LCM,M,55-59,45.49,Mike Coleman,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,50 M Backstroke,LCM,M,55-59,56.39,Mike Coleman,,"Classic City Masters at Athens, GA LCM",2008,1
+UNAT,50 M Breaststroke,LCM,M,55-59,57.04,Mike Coleman,,"Classic City Masters at Athens, GA LCM",2008,1

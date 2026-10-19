@@ -1,0 +1,528 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BMSC,50 M Freestyle,SCM,M,45-49,28.24,Douglas Gawriljuk,,Rowdy Gaines Masters Classic,2019,1
+BMSC,100 M Freestyle,SCM,M,45-49,1:04.51,Douglas Gawriljuk,,Rowdy Gaines Masters Classic,2019,1
+BMSC,200 M Freestyle,SCM,M,45-49,2:25.72,Douglas Gawriljuk,,Rowdy Gaines Masters Classic,2019,1
+BMSC,50 M Breaststroke,SCM,M,45-49,37.93,Douglas Gawriljuk,,Rowdy Gaines Masters Classic,2019,1
+BMSC,50 M Butterfly,SCM,M,45-49,32.64,Douglas Gawriljuk,,Rowdy Gaines Masters Classic,2019,1
+BMSC,100 M Individual Medley,SCM,M,45-49,1:16.87,Douglas Gawriljuk,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,W,18-24,41.10,Victoria Santiago,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,W,18-24,58.54,Carolina M Rossel,,2019 Shark Tank Meet,2019,2
+GOLD,100 M Freestyle,SCM,W,18-24,1:31.18,Victoria Santiago,,2019 Shark Tank Meet,2019,1
+GOLD,100 M Freestyle,SCM,W,18-24,2:19.02,Carolina M Rossel,,2019 Shark Tank Meet,2019,2
+GOLD,200 M Freestyle,SCM,W,18-24,3:46.45,Victoria Santiago,,2019 Shark Tank Meet,2019,1
+GOLD,50 M Backstroke,SCM,W,18-24,53.03,Victoria Santiago,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,W,18-24,1:31.86,Carolina M Rossel,,2019 Shark Tank Meet,2019,2
+GOLD,100 M Backstroke,SCM,W,18-24,2:08.87,Victoria Santiago,,2019 Shark Tank Meet,2019,1
+GOLD,50 M Breaststroke,SCM,W,18-24,1:01.21,Victoria Santiago,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,W,35-39,51.77,Ximena O Vidaurre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,W,35-39,56.33,Edymar Uzcategui,,Rowdy Gaines Masters Classic,2019,2
+GOLD,100 M Freestyle,SCM,W,35-39,1:56.98,Edymar Uzcategui,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Freestyle,SCM,W,35-39,4:16.00,Edymar Uzcategui,,2019 Shark Tank Meet,2019,1
+GOLD,400 M Freestyle,SCM,W,35-39,8:49.30,Edymar Uzcategui,,2019 Shark Tank Meet,2019,1
+GOLD,50 M Backstroke,SCM,W,35-39,1:07.30,Ximena O Vidaurre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,W,35-39,1:15.79,Edymar Uzcategui,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Freestyle,SCM,W,45-49,33.10,Megyn R Taback,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Freestyle,SCM,W,45-49,1:12.82,Megyn R Taback,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Breaststroke,SCM,W,45-49,42.45,Megyn R Taback,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Breaststroke,SCM,W,45-49,1:37.06,Megyn R Taback,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Butterfly,SCM,W,45-49,35.84,Megyn R Taback,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Individual Medley,SCM,W,45-49,1:25.85,Megyn R Taback,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,W,60-64,33.21,Celia C Devanney,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Freestyle,SCM,W,60-64,1:14.56,Celia C Devanney,,Rowdy Gaines Masters Classic,2019,1
+GOLD,200 M Freestyle,SCM,W,60-64,2:38.50,Debbie D Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,400 M Freestyle,SCM,W,60-64,5:34.40,Peggy H McDonnell,,Rowdy Gaines Masters Classic,2019,1
+GOLD,400 M Freestyle,SCM,W,60-64,5:52.84,Celia C Devanney,,2019 Shark Tank Meet,2019,2
+GOLD,800 M Freestyle,SCM,W,60-64,12:03.75,Celia C Devanney,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,W,60-64,37.99,Debbie D Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,W,60-64,41.17,Celia C Devanney,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Backstroke,SCM,W,60-64,43.20,Peggy H McDonnell,,Rowdy Gaines Masters Classic,2019,3
+GOLD,100 M Backstroke,SCM,W,60-64,1:22.33,Debbie D Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,200 M Backstroke,SCM,W,60-64,3:02.44,Debbie D Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Breaststroke,SCM,W,60-64,41.96,Debbie D Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Butterfly,SCM,W,60-64,38.00,Celia C Devanney,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Butterfly,SCM,W,60-64,1:30.11,Celia C Devanney,,2019 Shark Tank Meet,2019,1
+GOLD,100 M Individual Medley,SCM,W,60-64,1:24.35,Debbie D Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Individual Medley,SCM,W,60-64,1:26.85,Celia C Devanney,,2019 Shark Tank Meet,2019,2
+GOLD,100 M Individual Medley,SCM,W,60-64,1:28.73,Peggy H McDonnell,,Rowdy Gaines Masters Classic,2019,3
+GOLD,50 M Freestyle,SCM,W,65-69,35.92,Barbara Protzman,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Freestyle,SCM,W,65-69,1:20.97,Barbara Protzman,,Rowdy Gaines Masters Classic,2019,1
+GOLD,200 M Freestyle,SCM,W,65-69,2:55.29,Barbara Protzman,,2019 Albatross Open,2019,1
+GOLD,400 M Freestyle,SCM,W,65-69,6:09.86,Barbara Protzman,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Butterfly,SCM,W,65-69,43.71,Barbara Protzman,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Butterfly,SCM,W,65-69,1:44.85,Barbara Protzman,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Individual Medley,SCM,W,65-69,1:34.18,Barbara Protzman,,2019 Albatross Open,2019,1
+GOLD,200 M Individual Medley,SCM,W,65-69,3:21.98,Barbara Protzman,,2019 Albatross Open,2019,1
+GOLD,400 M Individual Medley,SCM,W,65-69,7:18.61,Barbara Protzman,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,M,25-29,30.38,Jesse A Greve,,2019 Shark Tank Meet,2019,1
+GOLD,50 M Freestyle,SCM,M,25-29,37.67,Peter Vila,,2019 Shark Tank Meet,2019,2
+GOLD,100 M Freestyle,SCM,M,25-29,1:19.34,Peter Vila,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Freestyle,SCM,M,25-29,2:14.85,Christopher C Stickle,,Swimming Championships IGLA 2019,2019,1
+GOLD,200 M Freestyle,SCM,M,25-29,2:26.24,Jesse A Greve,,2019 Shark Tank Meet,2019,2
+GOLD,200 M Freestyle,SCM,M,25-29,2:54.45,Peter Vila,,Rowdy Gaines Masters Classic,2019,3
+GOLD,400 M Freestyle,SCM,M,25-29,4:45.96,Christopher C Stickle,,Swimming Championships IGLA 2019,2019,1
+GOLD,400 M Freestyle,SCM,M,25-29,6:07.55,Peter Vila,,2019 Shark Tank Meet,2019,2
+GOLD,800 M Freestyle,SCM,M,25-29,9:52.85,Christopher C Stickle,,Swimming Championships IGLA 2019,2019,1
+GOLD,800 M Freestyle,SCM,M,25-29,12:34.87,Peter Vila,,Rowdy Gaines Masters Classic,2019,2
+GOLD,1500 M Freestyle,SCM,M,25-29,19:17.29,Christopher C Stickle,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Backstroke,SCM,M,25-29,37.45,Jesse A Greve,,2019 Shark Tank Meet,2019,1
+GOLD,100 M Backstroke,SCM,M,25-29,1:12.07,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,1
+GOLD,200 M Backstroke,SCM,M,25-29,2:29.98,Christopher C Stickle,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Backstroke,SCM,M,25-29,2:33.21,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Breaststroke,SCM,M,25-29,56.52,Peter Vila,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Breaststroke,SCM,M,25-29,1:30.83,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Breaststroke,SCM,M,25-29,1:59.21,Peter Vila,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Butterfly,SCM,M,25-29,29.94,Christopher C Stickle,,2019 Shark Tank Meet,2019,1
+GOLD,50 M Butterfly,SCM,M,25-29,41.26,Peter Vila,,Rowdy Gaines Masters Classic,2019,2
+GOLD,100 M Butterfly,SCM,M,25-29,1:11.77,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Butterfly,SCM,M,25-29,1:38.06,Peter Vila,,2019 Shark Tank Meet,2019,2
+GOLD,200 M Butterfly,SCM,M,25-29,2:38.80,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,1
+GOLD,200 M Butterfly,SCM,M,25-29,2:43.21,Christopher C Stickle,,2019 Shark Tank Meet,2019,2
+GOLD,100 M Individual Medley,SCM,M,25-29,1:43.70,Peter Vila,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Individual Medley,SCM,M,25-29,2:36.96,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,1
+GOLD,400 M Individual Medley,SCM,M,25-29,5:31.96,Jesse A Greve,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,M,35-39,27.99,Nicholas K Chow,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Freestyle,SCM,M,35-39,41.53,Andres H Miyares,,2019 Shark Tank Meet,2019,2
+GOLD,50 M Freestyle,SCM,M,35-39,44.20,Orlando M Caro,,Rowdy Gaines Masters Classic,2019,3
+GOLD,100 M Freestyle,SCM,M,35-39,1:16.54,Nicholas Perry,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Freestyle,SCM,M,35-39,1:28.29,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,2
+GOLD,100 M Freestyle,SCM,M,35-39,1:37.53,Orlando M Caro,,Rowdy Gaines Masters Classic,2019,3
+GOLD,200 M Freestyle,SCM,M,35-39,2:49.47,Nicholas Perry,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Freestyle,SCM,M,35-39,3:06.84,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,2
+GOLD,200 M Freestyle,SCM,M,35-39,3:31.68,Orlando M Caro,,Rowdy Gaines Masters Classic,2019,3
+GOLD,400 M Freestyle,SCM,M,35-39,6:32.64,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,M,35-39,52.63,Orlando M Caro,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Backstroke,SCM,M,35-39,1:11.11,Nicholas K Chow,,Swimming Championships IGLA 2019,2019,1
+GOLD,100 M Backstroke,SCM,M,35-39,1:56.40,Orlando M Caro,,Rowdy Gaines Masters Classic,2019,2
+GOLD,200 M Backstroke,SCM,M,35-39,3:59.89,Andres H Miyares,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Backstroke,SCM,M,35-39,4:03.74,Orlando M Caro,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Breaststroke,SCM,M,35-39,44.80,Nicholas Perry,,2019 Shark Tank Meet,2019,1
+GOLD,100 M Breaststroke,SCM,M,35-39,1:19.08,Nicholas K Chow,,Swimming Championships IGLA 2019,2019,1
+GOLD,100 M Breaststroke,SCM,M,35-39,1:38.97,Nicholas Perry,,Rowdy Gaines Masters Classic,2019,2
+GOLD,200 M Breaststroke,SCM,M,35-39,3:33.52,Nicholas Perry,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Butterfly,SCM,M,35-39,41.84,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Butterfly,SCM,M,35-39,1:34.55,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,1
+GOLD,200 M Butterfly,SCM,M,35-39,3:34.48,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Individual Medley,SCM,M,35-39,1:33.55,Nicholas Perry,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Individual Medley,SCM,M,35-39,3:13.34,Nicholas Perry,,2019 Shark Tank Meet,2019,1
+GOLD,400 M Individual Medley,SCM,M,35-39,7:27.61,Andres H Miyares,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,M,45-49,55.30,Christopher Harrell,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Freestyle,SCM,M,50-54,31.44,Jose C Del Pino,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Freestyle,SCM,M,50-54,37.13,Bernardino A Mosquera,,Swimming Championships IGLA 2019,2019,2
+GOLD,50 M Freestyle,SCM,M,50-54,46.41,Alfredo Iglesias,,Swimming Championships IGLA 2019,2019,3
+GOLD,100 M Freestyle,SCM,M,50-54,1:26.83,Bernardino A Mosquera,,Swimming Championships IGLA 2019,2019,1
+GOLD,200 M Freestyle,SCM,M,50-54,4:05.04,Alfredo Iglesias,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Breaststroke,SCM,M,50-54,40.20,Jose C Del Pino,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Butterfly,SCM,M,50-54,44.29,Bernardino A Mosquera,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Butterfly,SCM,M,50-54,58.90,Alfredo Iglesias,,Swimming Championships IGLA 2019,2019,2
+GOLD,100 M Individual Medley,SCM,M,50-54,2:16.69,Alfredo Iglesias,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Freestyle,SCM,M,55-59,29.00,Jonathan B Olsen,,Swimming Championships IGLA 2019,2019,1
+GOLD,100 M Freestyle,SCM,M,55-59,1:06.54,Paul D Endres,,Swimming Championships IGLA 2019,2019,1
+GOLD,200 M Freestyle,SCM,M,55-59,2:22.30,Jonathan B Olsen,,Swimming Championships IGLA 2019,2019,1
+GOLD,200 M Freestyle,SCM,M,55-59,2:24.73,Paul D Endres,,Swimming Championships IGLA 2019,2019,2
+GOLD,400 M Freestyle,SCM,M,55-59,5:16.45,Bill S Korey,,Swimming Championships IGLA 2019,2019,1
+GOLD,800 M Freestyle,SCM,M,55-59,10:36.06,Paul D Endres,,Swimming Championships IGLA 2019,2019,1
+GOLD,800 M Freestyle,SCM,M,55-59,10:38.85,Bill S Korey,,Swimming Championships IGLA 2019,2019,2
+GOLD,1500 M Freestyle,SCM,M,55-59,20:07.80,Bill S Korey,,Swimming Championships IGLA 2019,2019,1
+GOLD,1500 M Freestyle,SCM,M,55-59,20:13.53,Paul D Endres,,Swimming Championships IGLA 2019,2019,2
+GOLD,200 M Backstroke,SCM,M,55-59,2:50.81,Bill S Korey,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Freestyle,SCM,M,60-64,32.03,Alexis Delgado,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,M,60-64,34.18,Michael R Meyer,,Swimming Championships IGLA 2019,2019,2
+GOLD,50 M Freestyle,SCM,M,60-64,42.26,Peter Medvin,,Swimming Championships IGLA 2019,2019,3
+GOLD,100 M Freestyle,SCM,M,60-64,1:33.90,Peter Medvin,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Breaststroke,SCM,M,60-64,41.14,Alexis Delgado,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Breaststroke,SCM,M,60-64,46.62,Michael R Meyer,,Swimming Championships IGLA 2019,2019,2
+GOLD,800 M Freestyle,SCM,M,70-74,14:10.17,Ken R Beier,,Swimming Championships IGLA 2019,2019,1
+GOLD,1500 M Freestyle,SCM,M,70-74,26:46.89,Ken R Beier,,Swimming Championships IGLA 2019,2019,1
+GOLD,100 M Backstroke,SCM,M,70-74,2:14.25,Ken R Beier,,Swimming Championships IGLA 2019,2019,1
+GOLD,200 M Individual Medley,SCM,M,70-74,4:11.05,Ken R Beier,,Swimming Championships IGLA 2019,2019,1
+GOLD,50 M Backstroke,SCM,M,75-79,40.65,Howard Rolston,,2019 Albatross Open,2019,1
+GOLD,100 M Backstroke,SCM,M,75-79,1:31.98,Howard Rolston,,2019 Albatross Open,2019,1
+GOLD,50 M Breaststroke,SCM,M,75-79,45.72,Robert Pendergrass,,2019 Shark Tank Meet,2019,1
+GOLD,100 M Breaststroke,SCM,M,75-79,1:43.84,Robert Pendergrass,,2019 Shark Tank Meet,2019,1
+GOLD,200 M Breaststroke,SCM,M,75-79,4:00.43,Robert Pendergrass,,2019 Shark Tank Meet,2019,1
+GOLD,100 M Individual Medley,SCM,M,75-79,1:31.76,Howard Rolston,,2019 Albatross Open,2019,1
+GOLD,50 M Freestyle,SCM,M,80-84,36.56,David R McIntyre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Freestyle,SCM,M,80-84,37.63,Cav Cavanaugh,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Freestyle,SCM,M,80-84,39.78,Michael A Dively,,Swimming Championships IGLA 2019,2019,3
+GOLD,50 M Freestyle,SCM,M,80-84,45.28,Bill Dykstra,,Rowdy Gaines Masters Classic,2019,4
+GOLD,100 M Freestyle,SCM,M,80-84,1:29.03,Cav Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Freestyle,SCM,M,80-84,1:34.04,Michael A Dively,,Swimming Championships IGLA 2019,2019,2
+GOLD,200 M Freestyle,SCM,M,80-84,3:30.31,Cav Cavanaugh,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,M,80-84,46.13,David R McIntyre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Backstroke,SCM,M,80-84,51.01,Bill Dykstra,,Rowdy Gaines Masters Classic,2019,2
+GOLD,50 M Backstroke,SCM,M,80-84,56.22,Michael A Dively,,Rowdy Gaines Masters Classic,2019,3
+GOLD,50 M Breaststroke,SCM,M,80-84,51.54,David R McIntyre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Breaststroke,SCM,M,80-84,1:03.16,Michael A Dively,,Swimming Championships IGLA 2019,2019,2
+GOLD,50 M Butterfly,SCM,M,80-84,52.78,David R McIntyre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,50 M Butterfly,SCM,M,80-84,1:05.83,Michael A Dively,,Rowdy Gaines Masters Classic,2019,2
+GOLD,100 M Individual Medley,SCM,M,80-84,1:41.69,David R McIntyre,,Rowdy Gaines Masters Classic,2019,1
+GOLD,100 M Individual Medley,SCM,M,80-84,1:58.30,Cav Cavanaugh,,Rowdy Gaines Masters Classic,2019,2
+GOLD,100 M Individual Medley,SCM,M,80-84,1:59.12,Michael A Dively,,Rowdy Gaines Masters Classic,2019,3
+HAFL,200 M Backstroke,SCM,W,30-34,2:39.80,Sharon C Taylor,,Atlanta Rainbow Trout St. Nick Invitational,2019,1
+HAFL,50 M Breaststroke,SCM,W,30-34,34.99,Sharon C Taylor,,Atlanta Rainbow Trout St. Nick Invitational,2019,1
+HAFL,100 M Breaststroke,SCM,W,30-34,1:16.86,Sharon C Taylor,,Atlanta Rainbow Trout St. Nick Invitational,2019,1
+HAFL,200 M Breaststroke,SCM,W,30-34,2:49.20,Sharon C Taylor,,Atlanta Rainbow Trout St. Nick Invitational,2019,1
+HAFL,100 M Individual Medley,SCM,W,30-34,1:11.83,Sharon C Taylor,,Atlanta Rainbow Trout St. Nick Invitational,2019,1
+HAFL,50 M Freestyle,SCM,W,45-49,30.95,Ann K Stewart,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,200 M Freestyle,SCM,W,45-49,2:20.96,Ann K Stewart,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,400 M Freestyle,SCM,W,45-49,5:01.01,Ann K Stewart,,Rowdy Gaines Masters Classic,2019,1
+HAFL,50 M Backstroke,SCM,W,45-49,33.42,Ann K Stewart,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,100 M Backstroke,SCM,W,45-49,1:10.53,Ann K Stewart,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,200 M Backstroke,SCM,W,45-49,2:39.07,Ann K Stewart,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,50 M Freestyle,SCM,W,50-54,31.74,Dale A LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,100 M Freestyle,SCM,W,50-54,1:09.10,Dale A LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,200 M Freestyle,SCM,W,50-54,2:33.22,Dale A LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,400 M Freestyle,SCM,W,50-54,5:30.12,Dale A LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,800 M Freestyle,SCM,W,50-54,10:58.01,Dale A LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Butterfly,SCM,W,50-54,36.67,Dale A LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,100 M Individual Medley,SCM,W,50-54,1:22.37,Dale A LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,400 M Individual Medley,SCM,W,50-54,6:23.79,Dale A LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,100 M Freestyle,SCM,M,35-39,1:23.42,Alvaro Hunter,,7th Annual Solstice SCM Swim Meet,2019,1
+HAFL,200 M Freestyle,SCM,M,35-39,2:45.48,Tim L Krajewski,,Swimming Championships IGLA 2019,2019,1
+HAFL,400 M Freestyle,SCM,M,35-39,6:03.17,Tim L Krajewski,,Swimming Championships IGLA 2019,2019,1
+HAFL,800 M Freestyle,SCM,M,35-39,12:05.01,Tim L Krajewski,,Swimming Championships IGLA 2019,2019,1
+HAFL,1500 M Freestyle,SCM,M,35-39,23:34.83,Tim L Krajewski,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Breaststroke,SCM,M,35-39,44.34,Alvaro Hunter,,7th Annual Solstice SCM Swim Meet,2019,1
+HAFL,100 M Individual Medley,SCM,M,35-39,1:37.35,Alvaro Hunter,,7th Annual Solstice SCM Swim Meet,2019,1
+HAFL,50 M Freestyle,SCM,M,40-44,28.82,Stephen E Dehnert,,Swimming Championships IGLA 2019,2019,1
+HAFL,100 M Freestyle,SCM,M,40-44,1:07.05,Stephen E Dehnert,,Swimming Championships IGLA 2019,2019,1
+HAFL,200 M Freestyle,SCM,M,40-44,2:08.84,Andy Hunter,,2019 Shark Tank Meet,2019,1
+HAFL,50 M Butterfly,SCM,M,40-44,36.57,Stephen E Dehnert,,Swimming Championships IGLA 2019,2019,1
+HAFL,100 M Individual Medley,SCM,M,40-44,1:20.73,Stephen E Dehnert,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Freestyle,SCM,M,50-54,29.28,David W LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,100 M Freestyle,SCM,M,50-54,1:03.48,David W LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,400 M Freestyle,SCM,M,50-54,4:59.23,David W LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,800 M Freestyle,SCM,M,50-54,10:11.74,David W LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,200 M Backstroke,SCM,M,50-54,2:44.70,David W LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,200 M Breaststroke,SCM,M,50-54,3:05.37,David W LeClair,,Rowdy Gaines Masters Classic,2019,1
+HAFL,400 M Individual Medley,SCM,M,50-54,5:39.26,David W LeClair,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Freestyle,SCM,M,55-59,28.57,Andrew J Cole,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,50 M Backstroke,SCM,M,55-59,35.37,Andrew J Cole,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,200 M Backstroke,SCM,M,55-59,2:53.68,Andrew J Cole,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,50 M Breaststroke,SCM,M,55-59,35.27,Andrew J Cole,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,100 M Breaststroke,SCM,M,55-59,1:19.79,Andrew J Cole,,2019 Canadian Masters Swimming Championships,2019,1
+HAFL,50 M Freestyle,SCM,M,60-64,31.61,John S Grzeszczak,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Backstroke,SCM,M,60-64,39.42,John S Grzeszczak,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Breaststroke,SCM,M,60-64,39.30,John S Grzeszczak,,Swimming Championships IGLA 2019,2019,1
+HAFL,50 M Butterfly,SCM,M,60-64,35.96,John S Grzeszczak,,Swimming Championships IGLA 2019,2019,1
+MWA,50 M Freestyle,SCM,W,30-34,27.88,Andrea Uzcategui,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Freestyle,SCM,W,30-34,59.29,Andrea Uzcategui,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Butterfly,SCM,W,30-34,30.59,Andrea Uzcategui,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Individual Medley,SCM,W,30-34,1:09.25,Andrea Uzcategui,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Freestyle,SCM,W,40-44,32.64,Kenia Puertas,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Freestyle,SCM,W,40-44,35.90,Tania Garcia,,Rowdy Gaines Masters Classic,2019,2
+MWA,50 M Freestyle,SCM,W,40-44,39.23,Johanna Enrech,,Rowdy Gaines Masters Classic,2019,3
+MWA,100 M Freestyle,SCM,W,40-44,1:13.34,Kenia Puertas,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Freestyle,SCM,W,40-44,1:21.28,Tania Garcia,,Rowdy Gaines Masters Classic,2019,2
+MWA,100 M Freestyle,SCM,W,40-44,1:27.97,Johanna Enrech,,Rowdy Gaines Masters Classic,2019,3
+MWA,50 M Breaststroke,SCM,W,40-44,39.29,Kenia Puertas,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Breaststroke,SCM,W,40-44,1:27.75,Kenia Puertas,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Butterfly,SCM,W,40-44,42.49,Tania Garcia,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Individual Medley,SCM,W,40-44,1:34.75,Tania Garcia,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Individual Medley,SCM,W,40-44,1:40.02,Johanna Enrech,,Rowdy Gaines Masters Classic,2019,2
+MWA,50 M Freestyle,SCM,M,25-29,24.28,Francisco  Parra,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Freestyle,SCM,M,25-29,53.78,Francisco  Parra,,Rowdy Gaines Masters Classic,2019,1
+MWA,200 M Freestyle,SCM,M,25-29,2:00.34,Francisco  Parra,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Butterfly,SCM,M,25-29,26.97,Francisco  Parra,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Butterfly,SCM,M,25-29,1:00.07,Francisco  Parra,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Freestyle,SCM,M,30-34,26.08,Aurelio S Figari,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Backstroke,SCM,M,30-34,1:06.39,Aurelio S Figari,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Butterfly,SCM,M,30-34,28.32,Aurelio S Figari,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Individual Medley,SCM,M,30-34,1:05.00,Aurelio S Figari,,Rowdy Gaines Masters Classic,2019,1
+MWA,200 M Individual Medley,SCM,M,30-34,2:24.72,Aurelio S Figari,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Backstroke,SCM,M,40-44,1:08.59,Rodrigo Mendes,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Butterfly,SCM,M,40-44,28.09,Rodrigo Mendes,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Butterfly,SCM,M,40-44,1:03.37,Rodrigo Mendes,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Freestyle,SCM,M,50-54,26.38,Sandro Herek,,Rowdy Gaines Masters Classic,2019,1
+MWA,100 M Freestyle,SCM,M,50-54,58.66,Sandro Herek,,Rowdy Gaines Masters Classic,2019,1
+MWA,200 M Freestyle,SCM,M,50-54,2:08.94,Sandro Herek,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Freestyle,SCM,M,60-64,28.42,Francisco J Parra,,Rowdy Gaines Masters Classic,2019,1
+MWA,50 M Backstroke,SCM,M,60-64,35.78,Francisco J Parra,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,W,55-59,28.33,Holly Green Blair,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,W,55-59,29.45,Karlyn A Pipes,,2019 Thunderbird Aquatic Club Masters Meet,2019,2
+PBM,50 M Freestyle,SCM,W,55-59,31.45,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,3
+PBM,100 M Freestyle,SCM,W,55-59,1:08.60,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Freestyle,SCM,W,55-59,2:27.45,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,1
+PBM,400 M Freestyle,SCM,W,55-59,5:10.23,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Backstroke,SCM,W,55-59,31.92,Holly Green Blair,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Backstroke,SCM,W,55-59,1:09.62,Holly Green Blair,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Backstroke,SCM,W,55-59,1:10.92,Karlyn A Pipes,,2019 Thunderbird Aquatic Club Masters Meet,2019,2
+PBM,50 M Butterfly,SCM,W,55-59,32.21,Karlyn A Pipes,,2019 Thunderbird Aquatic Club Masters Meet,2019,1
+PBM,100 M Butterfly,SCM,W,55-59,1:11.93,Karlyn A Pipes,,2019 Thunderbird Aquatic Club Masters Meet,2019,1
+PBM,100 M Individual Medley,SCM,W,55-59,1:11.51,Holly Green Blair,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Individual Medley,SCM,W,55-59,1:18.39,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,2
+PBM,200 M Individual Medley,SCM,W,55-59,2:54.93,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,1
+PBM,400 M Individual Medley,SCM,W,55-59,6:15.56,Linda Irish Bostic,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,W,60-64,31.72,Chris Wenzel,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Freestyle,SCM,W,60-64,4:57.67,Nancy Munro,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Backstroke,SCM,W,60-64,1:29.02,Nancy Munro,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Breaststroke,SCM,W,60-64,40.95,Chris Wenzel,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Breaststroke,SCM,W,60-64,1:33.69,Chris Wenzel,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Breaststroke,SCM,W,60-64,3:26.02,Chris Wenzel,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Individual Medley,SCM,W,60-64,1:22.72,Chris Wenzel,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Individual Medley,SCM,W,60-64,2:57.66,Nancy Munro,,Rowdy Gaines Masters Classic,2019,2
+PBM,400 M Individual Medley,SCM,W,60-64,12:51.38,Nancy Munro,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,W,65-69,36.11,Joan P Craffey,,2019 Shark Tank Meet,2019,1
+PBM,200 M Freestyle,SCM,W,65-69,2:53.86,Joan P Craffey,,2019 Shark Tank Meet,2019,1
+PBM,800 M Freestyle,SCM,W,65-69,12:26.56,Joan P Craffey,,Rowdy Gaines Masters Classic,2019,1
+PBM,1500 M Freestyle,SCM,W,65-69,23:22.11,Joan P Craffey,,2019 Shark Tank Meet,2019,1
+PBM,50 M Backstroke,SCM,W,65-69,42.19,Joan P Craffey,,2019 Shark Tank Meet,2019,1
+PBM,100 M Backstroke,SCM,W,65-69,1:28.47,Joan P Craffey,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Backstroke,SCM,W,65-69,3:05.51,Joan P Craffey,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Breaststroke,SCM,W,65-69,49.26,Joan P Craffey,,2019 Shark Tank Meet,2019,1
+PBM,100 M Breaststroke,SCM,W,65-69,1:45.30,Joan P Craffey,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Breaststroke,SCM,W,65-69,3:49.88,Joan P Craffey,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Butterfly,SCM,W,65-69,42.85,Joan P Craffey,,2019 Shark Tank Meet,2019,1
+PBM,100 M Individual Medley,SCM,W,65-69,1:31.63,Joan P Craffey,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,W,70-74,46.06,Jeannie R Mitchell,,2019 Shark Tank Meet,2019,1
+PBM,100 M Freestyle,SCM,W,70-74,1:40.53,Jeannie R Mitchell,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Freestyle,SCM,W,70-74,3:42.21,Jeannie R Mitchell,,2019 Shark Tank Meet,2019,1
+PBM,50 M Backstroke,SCM,W,70-74,48.49,Jeannie R Mitchell,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Backstroke,SCM,W,70-74,1:47.64,Jeannie R Mitchell,,2019 Shark Tank Meet,2019,1
+PBM,200 M Backstroke,SCM,W,70-74,3:59.54,Jeannie R Mitchell,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Freestyle,SCM,W,75-79,4:09.02,Carolynn Foley,,2019 Talbot Masters SCM Invitational,2019,1
+PBM,400 M Freestyle,SCM,W,75-79,8:42.48,Carolynn Foley,,2019 Talbot Masters SCM Invitational,2019,1
+PBM,50 M Freestyle,SCM,M,35-39,23.92,Daniel Lotano,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Freestyle,SCM,M,35-39,52.10,Daniel Lotano,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Backstroke,SCM,M,35-39,26.72,Daniel Lotano,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Butterfly,SCM,M,35-39,25.89,Daniel Lotano,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Butterfly,SCM,M,35-39,58.73,Daniel Lotano,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Breaststroke,SCM,M,40-44,30.29,Barry Garland,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Breaststroke,SCM,M,40-44,1:06.34,Barry Garland,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Breaststroke,SCM,M,55-59,33.03,Michael Aubrey,,2019 Shark Tank Meet,2019,1
+PBM,100 M Breaststroke,SCM,M,55-59,1:14.35,Michael Aubrey,,2019 Shark Tank Meet,2019,1
+PBM,200 M Breaststroke,SCM,M,55-59,2:48.56,Michael Aubrey,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Individual Medley,SCM,M,55-59,1:09.06,Michael Aubrey,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Butterfly,SCM,M,60-64,38.52,Mike Taber,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,M,65-69,30.34,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,M,65-69,33.58,David J Beuttenmuller,,Rowdy Gaines Masters Classic,2019,2
+PBM,50 M Freestyle,SCM,M,65-69,38.68,James T Purdy,,2019 Shark Tank Meet,2019,3
+PBM,100 M Freestyle,SCM,M,65-69,1:19.88,David J Beuttenmuller,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Freestyle,SCM,M,65-69,1:23.85,James T Purdy,,2019 Shark Tank Meet,2019,2
+PBM,200 M Freestyle,SCM,M,65-69,3:06.39,James T Purdy,,2019 Shark Tank Meet,2019,1
+PBM,50 M Backstroke,SCM,M,65-69,35.77,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Backstroke,SCM,M,65-69,1:19.94,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Backstroke,SCM,M,65-69,2:52.17,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Butterfly,SCM,M,65-69,32.30,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Individual Medley,SCM,M,65-69,1:16.22,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Individual Medley,SCM,M,65-69,2:52.27,Scott P McMillen,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Freestyle,SCM,M,70-74,29.51,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,50 M Freestyle,SCM,M,70-74,30.25,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,2
+PBM,100 M Freestyle,SCM,M,70-74,1:05.99,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,100 M Freestyle,SCM,M,70-74,1:08.98,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,2
+PBM,200 M Freestyle,SCM,M,70-74,2:30.82,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,200 M Freestyle,SCM,M,70-74,3:12.65,Roger L Parsons,,2019 Shark Tank Meet,2019,2
+PBM,400 M Freestyle,SCM,M,70-74,5:37.58,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,50 M Backstroke,SCM,M,70-74,35.09,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Backstroke,SCM,M,70-74,43.47,Roger L Parsons,,Rowdy Gaines Masters Classic,2019,2
+PBM,100 M Backstroke,SCM,M,70-74,1:35.51,Roger L Parsons,,2019 Shark Tank Meet,2019,1
+PBM,200 M Backstroke,SCM,M,70-74,2:57.32,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Backstroke,SCM,M,70-74,3:25.03,Roger L Parsons,,2019 Shark Tank Meet,2019,2
+PBM,50 M Breaststroke,SCM,M,70-74,40.67,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Breaststroke,SCM,M,70-74,48.06,Roger L Parsons,,2019 Shark Tank Meet,2019,2
+PBM,50 M Butterfly,SCM,M,70-74,31.61,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,50 M Butterfly,SCM,M,70-74,33.35,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,2
+PBM,100 M Individual Medley,SCM,M,70-74,1:18.09,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,100 M Individual Medley,SCM,M,70-74,1:20.21,Robert A Heacock,,Rowdy Gaines Masters Classic,2019,2
+PBM,200 M Individual Medley,SCM,M,70-74,2:51.78,Lee Childs,,2019 Shark Tank Meet,2019,1
+PBM,50 M Freestyle,SCM,M,75-79,28.93,David Quiggin,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Freestyle,SCM,M,75-79,1:04.80,David Quiggin,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Freestyle,SCM,M,75-79,2:26.94,David Quiggin,,Rowdy Gaines Masters Classic,2019,1
+PBM,400 M Freestyle,SCM,M,75-79,5:34.10,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,800 M Freestyle,SCM,M,75-79,11:56.90,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,1500 M Freestyle,SCM,M,75-79,22:25.81,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,50 M Backstroke,SCM,M,75-79,39.43,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,100 M Backstroke,SCM,M,75-79,1:28.43,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,200 M Backstroke,SCM,M,75-79,3:16.41,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,50 M Butterfly,SCM,M,75-79,34.75,David Quiggin,,2019 Shark Tank Meet,2019,1
+PBM,50 M Freestyle,SCM,M,80-84,41.14,Alex Fisher,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Freestyle,SCM,M,80-84,1:36.62,Alex Fisher,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Freestyle,SCM,M,80-84,3:35.50,Alex Fisher,,Rowdy Gaines Masters Classic,2019,1
+PBM,50 M Backstroke,SCM,M,85-89,47.93,Skip Monsein,,Rowdy Gaines Masters Classic,2019,1
+PBM,100 M Backstroke,SCM,M,85-89,1:49.34,Skip Monsein,,Rowdy Gaines Masters Classic,2019,1
+PBM,200 M Backstroke,SCM,M,85-89,3:58.20,Skip Monsein,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,W,25-29,31.54,Alanna Waldman,,7th Annual Solstice SCM Swim Meet,2019,1
+SFTL,100 M Freestyle,SCM,W,25-29,1:08.87,Marie F Averett,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Freestyle,SCM,W,25-29,2:28.26,Alanna Waldman,,7th Annual Solstice SCM Swim Meet,2019,1
+SFTL,50 M Butterfly,SCM,W,25-29,33.22,Alanna Waldman,,7th Annual Solstice SCM Swim Meet,2019,1
+SFTL,50 M Butterfly,SCM,W,25-29,34.05,Marie F Averett,,Rowdy Gaines Masters Classic,2019,2
+SFTL,100 M Butterfly,SCM,W,25-29,1:18.37,Alanna Waldman,,7th Annual Solstice SCM Swim Meet,2019,1
+SFTL,200 M Individual Medley,SCM,W,25-29,2:51.83,Marie F Averett,,Rowdy Gaines Masters Classic,2019,1
+SFTL,1500 M Freestyle,SCM,W,35-39,23:20.59,Kathleen J Stutz,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Butterfly,SCM,W,35-39,1:33.08,Kathleen J Stutz,,Swimming Championships IGLA 2019,2019,1
+SFTL,200 M Butterfly,SCM,W,35-39,3:24.76,Kathleen J Stutz,,Swimming Championships IGLA 2019,2019,1
+SFTL,200 M Individual Medley,SCM,W,35-39,3:19.71,Kathleen J Stutz,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Freestyle,SCM,W,40-44,34.43,Tatiana B Barbosa,,Swimming Championships IGLA 2019,2019,1
+SFTL,800 M Freestyle,SCM,W,40-44,12:09.67,Tatiana B Barbosa,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Breaststroke,SCM,W,40-44,1:34.67,Tatiana B Barbosa,,Swimming Championships IGLA 2019,2019,1
+SFTL,400 M Individual Medley,SCM,W,40-44,6:33.68,Tatiana B Barbosa,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Freestyle,SCM,W,45-49,1:45.05,Kristin R Volz,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Freestyle,SCM,W,45-49,3:44.16,Kristin R Volz,,2019 Shark Tank Meet,2019,1
+SFTL,400 M Freestyle,SCM,W,45-49,6:36.87,Jenny Ayala,,2019 Shark Tank Meet,2019,1
+SFTL,400 M Freestyle,SCM,W,45-49,7:48.53,Kristin R Volz,,2019 Shark Tank Meet,2019,2
+SFTL,800 M Freestyle,SCM,W,45-49,15:38.62,Kristin R Volz,,Rowdy Gaines Masters Classic,2019,1
+SFTL,1500 M Freestyle,SCM,W,45-49,32:03.83,Kristin R Volz,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Backstroke,SCM,W,45-49,1:45.95,Jenny Ayala,,2019 Shark Tank Meet,2019,1
+SFTL,100 M Backstroke,SCM,W,45-49,2:23.64,Kristin R Volz,,Rowdy Gaines Masters Classic,2019,2
+SFTL,200 M Backstroke,SCM,W,45-49,4:53.34,Kristin R Volz,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Butterfly,SCM,W,45-49,43.75,Jenny Ayala,,2019 Shark Tank Meet,2019,1
+SFTL,50 M Butterfly,SCM,W,45-49,1:05.74,Kristin R Volz,,2019 Shark Tank Meet,2019,2
+SFTL,100 M Butterfly,SCM,W,45-49,2:26.28,Kristin R Volz,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Butterfly,SCM,W,45-49,5:14.98,Kristin R Volz,,2019 Shark Tank Meet,2019,1
+SFTL,100 M Individual Medley,SCM,W,45-49,2:12.93,Kristin R Volz,,2019 Shark Tank Meet,2019,1
+SFTL,200 M Individual Medley,SCM,W,45-49,3:35.13,Jenny Ayala,,2019 Shark Tank Meet,2019,1
+SFTL,200 M Individual Medley,SCM,W,45-49,4:29.84,Kristin R Volz,,2019 Shark Tank Meet,2019,2
+SFTL,400 M Individual Medley,SCM,W,45-49,7:49.95,Jenny Ayala,,2019 Shark Tank Meet,2019,1
+SFTL,400 M Individual Medley,SCM,W,45-49,9:24.45,Kristin R Volz,,Rowdy Gaines Masters Classic,2019,2
+SFTL,50 M Freestyle,SCM,W,60-64,33.64,Pamela M Falcigno,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,W,60-64,39.34,Linda L Larson,,2019 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2019,2
+SFTL,50 M Freestyle,SCM,W,60-64,42.65,Blair S Brockman,,Huntsman World Senior Games,2019,3
+SFTL,100 M Freestyle,SCM,W,60-64,1:18.31,Pamela M Falcigno,,Rowdy Gaines Masters Classic,2019,1
+SFTL,400 M Freestyle,SCM,W,60-64,6:46.51,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,1
+SFTL,400 M Freestyle,SCM,W,60-64,8:21.98,Marci A Grady,,Rowdy Gaines Masters Classic,2019,2
+SFTL,1500 M Freestyle,SCM,W,60-64,34:22.36,Blair S Brockman,,Huntsman World Senior Games,2019,1
+SFTL,50 M Backstroke,SCM,W,60-64,43.37,Linda L Larson,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Backstroke,SCM,W,60-64,53.33,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,2
+SFTL,50 M Backstroke,SCM,W,60-64,1:01.67,Marci A Grady,,Rowdy Gaines Masters Classic,2019,3
+SFTL,50 M Backstroke,SCM,W,60-64,1:07.20,Blair S Brockman,,Huntsman World Senior Games,2019,4
+SFTL,100 M Backstroke,SCM,W,60-64,1:37.27,Linda L Larson,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Backstroke,SCM,W,60-64,2:18.55,Marci A Grady,,Rowdy Gaines Masters Classic,2019,2
+SFTL,200 M Backstroke,SCM,W,60-64,3:20.98,Linda L Larson,,Swimming Championships IGLA 2019,2019,1
+SFTL,200 M Backstroke,SCM,W,60-64,4:39.86,Marci A Grady,,Rowdy Gaines Masters Classic,2019,2
+SFTL,50 M Breaststroke,SCM,W,60-64,49.40,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Breaststroke,SCM,W,60-64,1:00.34,Linda L Larson,,Huntsman World Senior Games,2019,2
+SFTL,100 M Breaststroke,SCM,W,60-64,1:46.28,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Breaststroke,SCM,W,60-64,3:46.89,Carla Albano,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Breaststroke,SCM,W,60-64,3:49.12,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,2
+SFTL,200 M Breaststroke,SCM,W,60-64,5:40.86,Blair S Brockman,,Huntsman World Senior Games,2019,3
+SFTL,50 M Butterfly,SCM,W,60-64,38.75,Pamela M Falcigno,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Butterfly,SCM,W,60-64,46.77,Carla Albano,,Rowdy Gaines Masters Classic,2019,2
+SFTL,50 M Butterfly,SCM,W,60-64,50.18,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,3
+SFTL,50 M Butterfly,SCM,W,60-64,50.51,Marci A Grady,,Rowdy Gaines Masters Classic,2019,4
+SFTL,50 M Butterfly,SCM,W,60-64,53.92,Linda L Larson,,2019 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2019,5
+SFTL,50 M Butterfly,SCM,W,60-64,57.75,Blair S Brockman,,Huntsman World Senior Games,2019,6
+SFTL,100 M Butterfly,SCM,W,60-64,1:47.82,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Butterfly,SCM,W,60-64,3:42.89,Pamela M Falcigno,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Butterfly,SCM,W,60-64,3:58.20,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,2
+SFTL,200 M Butterfly,SCM,W,60-64,4:34.75,Linda L Larson,,2019 Shark Tank Meet,2019,3
+SFTL,200 M Butterfly,SCM,W,60-64,4:37.70,Marci A Grady,,Rowdy Gaines Masters Classic,2019,4
+SFTL,200 M Butterfly,SCM,W,60-64,5:32.33,Blair S Brockman,,Huntsman World Senior Games,2019,5
+SFTL,100 M Individual Medley,SCM,W,60-64,1:44.87,Linda L Larson,,2019 Oregon City Spring Ahead Short Course Meters A/B/C and Masters,2019,1
+SFTL,100 M Individual Medley,SCM,W,60-64,1:58.11,Marci A Grady,,Rowdy Gaines Masters Classic,2019,2
+SFTL,100 M Individual Medley,SCM,W,60-64,2:08.14,Blair S Brockman,,Huntsman World Senior Games,2019,3
+SFTL,200 M Individual Medley,SCM,W,60-64,3:32.30,Carla Albano,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Individual Medley,SCM,W,60-64,3:41.03,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,2
+SFTL,200 M Individual Medley,SCM,W,60-64,4:27.73,Marci A Grady,,Rowdy Gaines Masters Classic,2019,3
+SFTL,400 M Individual Medley,SCM,W,60-64,7:24.91,Pamela M Falcigno,,Rowdy Gaines Masters Classic,2019,1
+SFTL,400 M Individual Medley,SCM,W,60-64,7:36.12,Cynthia P Henley,,Rowdy Gaines Masters Classic,2019,2
+SFTL,400 M Individual Medley,SCM,W,60-64,7:56.54,Linda L Larson,,Swimming Championships IGLA 2019,2019,3
+SFTL,400 M Individual Medley,SCM,W,60-64,9:14.19,Marci A Grady,,Rowdy Gaines Masters Classic,2019,4
+SFTL,400 M Individual Medley,SCM,W,60-64,10:36.64,Blair S Brockman,,Huntsman World Senior Games,2019,5
+SFTL,50 M Freestyle,SCM,W,65-69,32.34,Cecilia D McCloskey,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,100 M Butterfly,SCM,W,65-69,1:21.72,Cecilia D McCloskey,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,200 M Individual Medley,SCM,W,65-69,3:00.14,Cecilia D McCloskey,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,400 M Individual Medley,SCM,W,65-69,6:34.46,Cecilia D McCloskey,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,50 M Freestyle,SCM,W,70-74,38.24,Linda Webb,,2019 Shark Tank Meet,2019,1
+SFTL,100 M Freestyle,SCM,W,70-74,1:30.46,Linda Webb,,2019 Shark Tank Meet,2019,1
+SFTL,200 M Freestyle,SCM,W,70-74,3:25.56,Linda Webb,,2019 Shark Tank Meet,2019,1
+SFTL,400 M Freestyle,SCM,W,70-74,7:07.93,Linda Webb,,2019 Shark Tank Meet,2019,1
+SFTL,1500 M Freestyle,SCM,W,70-74,27:37.52,Linda Webb,,The Olympic Club 1500 SCM Swim Meet 2019,2019,1
+SFTL,50 M Backstroke,SCM,W,70-74,53.61,Linda Webb,,2019 Shark Tank Meet,2019,1
+SFTL,50 M Breaststroke,SCM,W,70-74,52.07,Linda Webb,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Breaststroke,SCM,W,70-74,1:55.98,Linda Webb,,2019 Shark Tank Meet,2019,1
+SFTL,100 M Individual Medley,SCM,W,70-74,1:47.35,Linda Webb,,Swimming Championships IGLA 2019,2019,1
+SFTL,200 M Individual Medley,SCM,W,70-74,3:59.12,Linda Webb,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Butterfly,SCM,M,18-24,29.86,Sulemani Johnson,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Butterfly,SCM,M,18-24,1:06.02,Sulemani Johnson,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,M,25-29,22.39,Marcin Cieslak,,UCLA Bruin Masters SCM Swim Meet,2019,1
+SFTL,1500 M Freestyle,SCM,M,25-29,17:00.29,Ryan B Rosenbaum,,The Olympic Club 1500 SCM Swim Meet 2019,2019,1
+SFTL,1500 M Freestyle,SCM,M,25-29,17:54.06,Luke Torres,,The Olympic Club 1500 SCM Swim Meet 2019,2019,2
+SFTL,50 M Backstroke,SCM,M,25-29,29.04,Facundo Monteiro,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Backstroke,SCM,M,25-29,1:02.43,Facundo Monteiro,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Butterfly,SCM,M,25-29,23.78,Marcin Cieslak,,UCLA Bruin Masters SCM Swim Meet,2019,1
+SFTL,100 M Butterfly,SCM,M,25-29,52.59,Marcin Cieslak,,UCLA Bruin Masters SCM Swim Meet,2019,1
+SFTL,50 M Freestyle,SCM,M,30-34,35.84,Ryan Armpriester,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Freestyle,SCM,M,30-34,2:46.32,Ryan Armpriester,,Rowdy Gaines Masters Classic,2019,1
+SFTL,400 M Freestyle,SCM,M,30-34,5:47.15,Ryan Armpriester,,Rowdy Gaines Masters Classic,2019,1
+SFTL,800 M Freestyle,SCM,M,30-34,12:07.52,Ryan Armpriester,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Breaststroke,SCM,M,30-34,41.95,Ryan Armpriester,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Breaststroke,SCM,M,30-34,1:30.83,Ryan Armpriester,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,M,35-39,24.59,Rinaldo A Sintjago,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,M,35-39,36.27,Alvaro Hunter,,Swimming Championships IGLA 2019,2019,2
+SFTL,100 M Freestyle,SCM,M,35-39,54.65,Rinaldo A Sintjago,,2019 Shark Tank Meet,2019,1
+SFTL,100 M Freestyle,SCM,M,35-39,1:23.14,Alvaro Hunter,,Swimming Championships IGLA 2019,2019,2
+SFTL,200 M Freestyle,SCM,M,35-39,3:06.41,Alvaro Hunter,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Backstroke,SCM,M,35-39,29.28,Rinaldo A Sintjago,,2019 Shark Tank Meet,2019,1
+SFTL,50 M Breaststroke,SCM,M,35-39,44.96,Alvaro Hunter,,2019 Shark Tank Meet,2019,1
+SFTL,100 M Individual Medley,SCM,M,35-39,1:49.93,Alvaro Hunter,,2019 Albatross Open,2019,1
+SFTL,50 M Freestyle,SCM,M,40-44,25.83,Martin J Torres,,Swimming Championships IGLA 2019,2019,1
+SFTL,100 M Freestyle,SCM,M,40-44,56.62,Martin J Torres,,Swimming Championships IGLA 2019,2019,1
+SFTL,200 M Freestyle,SCM,M,40-44,2:11.33,Martin J Torres,,Swimming Championships IGLA 2019,2019,1
+SFTL,800 M Freestyle,SCM,M,40-44,13:43.61,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Backstroke,SCM,M,40-44,3:52.75,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Breaststroke,SCM,M,40-44,40.67,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Breaststroke,SCM,M,40-44,1:35.51,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Breaststroke,SCM,M,40-44,3:35.35,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Butterfly,SCM,M,40-44,30.33,Martin J Torres,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Butterfly,SCM,M,40-44,37.49,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,2
+SFTL,100 M Butterfly,SCM,M,40-44,1:41.18,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Individual Medley,SCM,M,40-44,1:26.96,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,200 M Individual Medley,SCM,M,40-44,3:27.99,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,400 M Individual Medley,SCM,M,40-44,7:42.28,Raymond F Cox,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Freestyle,SCM,M,45-49,55.53,Ryan D Williams,,Swimming Championships IGLA 2019,2019,1
+SFTL,1500 M Freestyle,SCM,M,45-49,20:01.25,Ryan D Williams,,The Olympic Club 1500 SCM Swim Meet 2019,2019,1
+SFTL,100 M Breaststroke,SCM,M,45-49,1:14.79,Ryan D Williams,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Backstroke,SCM,M,50-54,30.41,Valeriy Krishtal,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Backstroke,SCM,M,50-54,1:05.47,Valeriy Krishtal,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Butterfly,SCM,M,50-54,52.12,Byron A Burt,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,M,55-59,25.60,Bryan R Tatterson,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,50 M Freestyle,SCM,M,55-59,26.40,Peter C Horwitz,,Rowdy Gaines Masters Classic,2019,2
+SFTL,100 M Freestyle,SCM,M,55-59,58.20,Peter C Horwitz,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Freestyle,SCM,M,55-59,1:33.17,Bryan R Tatterson,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,2
+SFTL,50 M Backstroke,SCM,M,55-59,30.83,Peter C Horwitz,,Rowdy Gaines Masters Classic,2019,1
+SFTL,100 M Backstroke,SCM,M,55-59,1:06.51,Peter C Horwitz,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Butterfly,SCM,M,55-59,27.20,Bryan R Tatterson,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,50 M Butterfly,SCM,M,55-59,28.53,Peter C Horwitz,,Rowdy Gaines Masters Classic,2019,2
+SFTL,100 M Butterfly,SCM,M,55-59,1:01.18,Bryan R Tatterson,,2019 NE-LMSC &amp; Colonies Zone SCM Championships,2019,1
+SFTL,50 M Freestyle,SCM,M,60-64,27.44,Andre P Steynberg,,2019 OHIO Masters SCM Swim Meet - Massillon,2019,1
+SFTL,50 M Freestyle,SCM,M,60-64,30.01,Beda C Dondi,,Rowdy Gaines Masters Classic,2019,2
+SFTL,1500 M Freestyle,SCM,M,60-64,21:48.07,Marty Hendrick,,The Olympic Club 1500 SCM Swim Meet 2019,2019,1
+SFTL,50 M Backstroke,SCM,M,60-64,34.08,Andre P Steynberg,,2019 OHIO Masters SCM Swim Meet - Massillon,2019,1
+SFTL,50 M Backstroke,SCM,M,60-64,35.48,Marty Hendrick,,Rowdy Gaines Masters Classic,2019,2
+SFTL,100 M Backstroke,SCM,M,60-64,1:18.34,Andre P Steynberg,,2019 OHIO Masters SCM Swim Meet - Massillon,2019,1
+SFTL,100 M Backstroke,SCM,M,60-64,1:18.44,Marty Hendrick,,Rowdy Gaines Masters Classic,2019,2
+SFTL,200 M Backstroke,SCM,M,60-64,2:47.07,Marty Hendrick,,Swimming Championships IGLA 2019,2019,1
+SFTL,50 M Breaststroke,SCM,M,60-64,39.30,Beda C Dondi,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Butterfly,SCM,M,60-64,33.81,Beda C Dondi,,Rowdy Gaines Masters Classic,2019,1
+SFTL,50 M Freestyle,SCM,M,65-69,29.01,Philipp A Djang,,Huntsman World Senior Games,2019,1
+SFTL,100 M Freestyle,SCM,M,65-69,1:02.45,Philipp A Djang,,Huntsman World Senior Games,2019,1
+SFTL,50 M Backstroke,SCM,M,65-69,31.61,Philipp A Djang,,Huntsman World Senior Games,2019,1
+SFTL,100 M Backstroke,SCM,M,65-69,1:08.55,Philipp A Djang,,Huntsman World Senior Games,2019,1
+SFTL,200 M Backstroke,SCM,M,65-69,2:37.90,Philipp A Djang,,Huntsman World Senior Games,2019,1
+SFTL,200 M Butterfly,SCM,M,65-69,2:58.59,Philipp A Djang,,Huntsman World Senior Games,2019,1
+SFTL,200 M Butterfly,SCM,M,75-79,4:01.46,Eliot Winokur,,Frostburg Masters Summer SCM Kick-Off Meet,2019,1
+SFTL,400 M Individual Medley,SCM,M,75-79,7:57.12,Eliot Winokur,,Frostburg Masters Summer SCM Kick-Off Meet,2019,1
+UC50,50 M Freestyle,SCM,M,50-54,29.83,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,100 M Freestyle,SCM,M,50-54,1:06.93,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,200 M Freestyle,SCM,M,50-54,2:34.29,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,50 M Backstroke,SCM,M,50-54,35.85,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,100 M Backstroke,SCM,M,50-54,1:18.35,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,200 M Backstroke,SCM,M,50-54,2:51.29,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,100 M Individual Medley,SCM,M,50-54,1:18.22,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,200 M Individual Medley,SCM,M,50-54,2:55.75,Kirk P Paskal,,Rowdy Gaines Masters Classic,2019,1
+UC50,50 M Freestyle,SCM,M,70-74,34.18,Stephen Zarzecki,,Rowdy Gaines Masters Classic,2019,1
+UC50,100 M Individual Medley,SCM,M,70-74,1:34.25,Stephen Zarzecki,,Rowdy Gaines Masters Classic,2019,1
+UC50,50 M Breaststroke,SCM,M,75-79,56.73,Joseph de Lauzon,,2019 Shark Tank Meet,2019,1
+UC50,200 M Breaststroke,SCM,M,75-79,5:00.93,Joseph de Lauzon,,2019 Shark Tank Meet,2019,1
+UC50,200 M Freestyle,SCM,M,80-84,3:19.57,Harry H Braaksma,,SPMS SCM Regional Championships,2019,1
+UC50,400 M Freestyle,SCM,M,80-84,7:13.09,Harry H Braaksma,,SPMS SCM Regional Championships,2019,1
+UC50,1500 M Freestyle,SCM,M,80-84,29:08.65,Harry H Braaksma,,SPMS SCM Regional Championships,2019,1
+UC50,50 M Backstroke,SCM,M,80-84,48.19,Harry H Braaksma,,SPMS SCM Regional Championships,2019,1
+UC50,100 M Backstroke,SCM,M,80-84,1:52.82,Harry H Braaksma,,SPMS SCM Regional Championships,2019,1
+UC50,200 M Backstroke,SCM,M,80-84,4:08.61,Harry H Braaksma,,SPMS SCM Regional Championships,2019,1
+WSC,50 M Breaststroke,SCM,W,30-34,41.36,Lenore R Phillips,,Rowdy Gaines Masters Classic,2019,1
+WSC,100 M Breaststroke,SCM,W,30-34,1:29.41,Lenore R Phillips,,Rowdy Gaines Masters Classic,2019,1
+WSC,200 M Breaststroke,SCM,W,30-34,3:16.45,Lenore R Phillips,,Rowdy Gaines Masters Classic,2019,1
+WSC,100 M Individual Medley,SCM,W,30-34,1:21.87,Lenore R Phillips,,Rowdy Gaines Masters Classic,2019,1
+WSC,400 M Freestyle,SCM,M,35-39,5:16.54,Patrick Billingsley,,Rowdy Gaines Masters Classic,2019,1
+WSC,100 M Breaststroke,SCM,M,35-39,1:22.83,Patrick Billingsley,,Rowdy Gaines Masters Classic,2019,1

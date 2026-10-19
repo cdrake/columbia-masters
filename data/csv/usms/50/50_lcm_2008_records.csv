@@ -1,0 +1,934 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BIMC,50 M Breaststroke,LCM,W,45-49,42.64,Lori A Schick,,June Krauser Summer Splash I LCM,2008,1
+BIMC,100 M Breaststroke,LCM,W,45-49,1:32.52,Lori A Schick,,June Krauser Summer Splash I LCM,2008,1
+BIMC,200 M Breaststroke,LCM,W,45-49,3:27.41,Lori A Schick,,June Krauser Summer Splash I LCM,2008,1
+BIMC,50 M Butterfly,LCM,W,45-49,37.61,Lori A Schick,,June Krauser Summer Splash I LCM,2008,1
+BIMC,100 M Butterfly,LCM,W,45-49,1:29.10,Lori A Schick,,June Krauser Summer Splash I LCM,2008,1
+BIMC,200 M Individual Medley,LCM,W,45-49,3:14.21,Lori A Schick,,June Krauser Summer Splash I LCM,2008,1
+CSTM,50 M Freestyle,LCM,W,55-59,35.04,Becky Willman,,St. Petes Masters LCM,2008,1
+CSTM,100 M Freestyle,LCM,W,55-59,1:20.69,Becky Willman,,St. Petes Masters LCM,2008,1
+CSTM,200 M Freestyle,LCM,W,55-59,2:59.90,Becky Willman,,St. Petes Masters LCM,2008,1
+CSTM,400 M Freestyle,LCM,W,55-59,6:24.28,Becky Willman,,Coral Springs Last Chance LCM,2008,1
+CSTM,50 M Butterfly,LCM,W,55-59,46.74,Becky Willman,,Coral Springs Last Chance LCM,2008,1
+CSTM,100 M Butterfly,LCM,W,55-59,1:55.60,Becky Willman,,St. Petes Masters LCM,2008,1
+FLAQ,50 M Freestyle,LCM,W,18-24,29.49,Melanie Edgar,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,W,18-24,30.98,Siobhan C Murphy,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Freestyle,LCM,W,18-24,32.12,Morgan Ribar,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Freestyle,LCM,W,18-24,32.20,Dawn Jason,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,50 M Freestyle,LCM,W,18-24,35.32,Lourdes Regaldo,,June Krauser Summer Splash I LCM,2008,5
+FLAQ,100 M Freestyle,LCM,W,18-24,1:00.73,Lorna Smith,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Freestyle,LCM,W,18-24,1:05.69,Dawn Jason,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,W,18-24,1:08.26,Siobhan C Murphy,,2008 USMS Long Course Nationals,2008,3
+FLAQ,100 M Freestyle,LCM,W,18-24,1:09.33,Kim Piaget,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,100 M Freestyle,LCM,W,18-24,1:10.41,Melanie Edgar,,June Krauser Summer Splash I LCM,2008,5
+FLAQ,100 M Freestyle,LCM,W,18-24,1:15.56,Lourdes Regaldo,,June Krauser Summer Splash I LCM,2008,6
+FLAQ,200 M Freestyle,LCM,W,18-24,2:12.79,Dawn Jason,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Freestyle,LCM,W,18-24,2:13.09,Lorna Smith,,2008 USMS Long Course Nationals,2008,2
+FLAQ,200 M Freestyle,LCM,W,18-24,2:29.71,Siobhan C Murphy,,2008 USMS Long Course Nationals,2008,3
+FLAQ,400 M Freestyle,LCM,W,18-24,5:18.58,Siobhan C Murphy,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Freestyle,LCM,W,18-24,5:57.07,Laurie McFarlane,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Backstroke,LCM,W,18-24,32.10,Lorna Smith,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Backstroke,LCM,W,18-24,32.78,Dawn Jason,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Backstroke,LCM,W,18-24,32.84,Melanie Edgar,,2008 USMS Long Course Nationals,2008,3
+FLAQ,50 M Backstroke,LCM,W,18-24,35.25,Morgan Ribar,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,100 M Backstroke,LCM,W,18-24,1:06.04,Lorna Smith,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Backstroke,LCM,W,18-24,1:09.95,Dawn Jason,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Backstroke,LCM,W,18-24,1:30.01,Morgan Ribar,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,200 M Backstroke,LCM,W,18-24,2:26.27,Dawn Jason,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Backstroke,LCM,W,18-24,2:26.38,Lorna Smith,,2008 USMS Long Course Nationals,2008,2
+FLAQ,200 M Backstroke,LCM,W,18-24,2:40.79,Morgan Ribar,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Breaststroke,LCM,W,18-24,35.90,Melanie Edgar,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,W,18-24,39.96,Dawn Jason,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Breaststroke,LCM,W,18-24,40.28,Siobhan C Murphy,,2008 USMS Long Course Nationals,2008,3
+FLAQ,50 M Breaststroke,LCM,W,18-24,47.65,Laurie McFarlane,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,100 M Breaststroke,LCM,W,18-24,1:19.58,Melanie Edgar,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Breaststroke,LCM,W,18-24,2:47.99,Melanie Edgar,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Breaststroke,LCM,W,18-24,3:38.81,Laurie McFarlane,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Butterfly,LCM,W,18-24,33.29,Lorna Smith,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,W,18-24,36.31,Kim Piaget,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Butterfly,LCM,W,18-24,45.76,Lourdes Regaldo,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,100 M Butterfly,LCM,W,18-24,1:15.03,Lorna Smith,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Butterfly,LCM,W,18-24,1:20.99,Kim Piaget,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,200 M Butterfly,LCM,W,18-24,3:19.86,Laurie McFarlane,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,W,18-24,2:31.53,Dawn Jason,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,W,25-29,28.81,Lisa McLuckie,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,W,25-29,29.63,Jennifer M Martin,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Freestyle,LCM,W,25-29,30.93,Heidi R Hester,,Bumpy Jones Classic LCM,2008,3
+FLAQ,100 M Freestyle,LCM,W,25-29,1:02.52,Lisa McLuckie,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Freestyle,LCM,W,25-29,1:02.97,Heidi R Hester,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Freestyle,LCM,W,25-29,1:09.65,Vanessa Aron,,2008 USMS Long Course Nationals,2008,3
+FLAQ,100 M Freestyle,LCM,W,25-29,1:15.07,Laura K Ingoldsby,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,100 M Freestyle,LCM,W,25-29,1:18.95,Severine M Marechal,,June Krauser Summer Splash I LCM,2008,5
+FLAQ,200 M Freestyle,LCM,W,25-29,2:13.78,Heidi R Hester,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Freestyle,LCM,W,25-29,2:29.48,Vanessa Aron,,2008 USMS Long Course Nationals,2008,2
+FLAQ,400 M Freestyle,LCM,W,25-29,4:52.51,Heidi R Hester,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,25-29,5:21.65,Vanessa Aron,,2008 USMS Long Course Nationals,2008,2
+FLAQ,400 M Freestyle,LCM,W,25-29,5:49.47,Laura K Ingoldsby,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,400 M Freestyle,LCM,W,25-29,6:16.94,Severine M Marechal,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,800 M Freestyle,LCM,W,25-29,9:50.69,Heidi R Hester,,2008 USMS Long Course Nationals,2008,1
+FLAQ,800 M Freestyle,LCM,W,25-29,11:15.96,Laura K Ingoldsby,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,1500 M Freestyle,LCM,W,25-29,19:58.07,Heidi R Hester,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,W,25-29,21:21.31,Vanessa Aron,,2008 USMS Long Course Nationals,2008,2
+FLAQ,1500 M Freestyle,LCM,W,25-29,23:22.28,Severine M Marechal,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Backstroke,LCM,W,25-29,34.33,Marisa Schenke,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Backstroke,LCM,W,25-29,35.46,Jennifer M Martin,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Backstroke,LCM,W,25-29,1:19.98,Heidi R Hester,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Backstroke,LCM,W,25-29,2:46.73,Heidi R Hester,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,W,25-29,36.91,Lisa McLuckie,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,W,25-29,38.61,Marisa Schenke,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Breaststroke,LCM,W,25-29,38.97,Jennifer M Martin,,2008 USMS Long Course Nationals,2008,3
+FLAQ,100 M Breaststroke,LCM,W,25-29,1:21.98,Lisa McLuckie,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Breaststroke,LCM,W,25-29,1:31.54,Severine M Marechal,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Breaststroke,LCM,W,25-29,1:39.48,Vanessa Aron,,2008 USMS Long Course Nationals,2008,3
+FLAQ,200 M Breaststroke,LCM,W,25-29,2:57.96,Lisa McLuckie,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Breaststroke,LCM,W,25-29,3:20.88,Severine M Marechal,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Butterfly,LCM,W,25-29,32.26,Jennifer M Martin,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Butterfly,LCM,W,25-29,1:24.59,Severine M Marechal,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Individual Medley,LCM,W,25-29,2:49.70,Heidi R Hester,,Bumpy Jones Classic LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,W,25-29,3:01.64,Severine M Marechal,,2008 USMS Long Course Nationals,2008,2
+FLAQ,400 M Individual Medley,LCM,W,25-29,5:55.20,Heidi R Hester,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Individual Medley,LCM,W,25-29,6:33.09,Severine M Marechal,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Freestyle,LCM,W,30-34,1:15.92,Danielle Moran,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Freestyle,LCM,W,30-34,1:40.83,Gwen R Pursell,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,400 M Freestyle,LCM,W,30-34,5:31.85,Laura Ackermann,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Freestyle,LCM,W,30-34,5:35.42,Lara A O'Neill,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,400 M Freestyle,LCM,W,30-34,5:36.39,Danielle Moran,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,400 M Freestyle,LCM,W,30-34,8:49.99,Gwen R Pursell,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,800 M Freestyle,LCM,W,30-34,11:42.90,Danielle Moran,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,800 M Freestyle,LCM,W,30-34,18:10.62,Gwen R Pursell,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,1500 M Freestyle,LCM,W,30-34,21:49.41,Laura Ackermann,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Backstroke,LCM,W,30-34,45.34,Danielle Moran,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Butterfly,LCM,W,30-34,1:23.30,Laura Ackermann,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Individual Medley,LCM,W,30-34,3:00.88,Laura Ackermann,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Individual Medley,LCM,W,30-34,6:37.15,Laura Ackermann,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Freestyle,LCM,W,35-39,3:13.81,Laura J Thompson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,800 M Freestyle,LCM,W,35-39,14:33.69,Laura J Thompson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,W,35-39,28:38.06,Laura J Thompson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Backstroke,LCM,W,35-39,36.53,Jennifer A Hulett,,Coral Springs Last Chance LCM,2008,1
+FLAQ,100 M Backstroke,LCM,W,35-39,1:26.73,Jennifer A Hulett,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Butterfly,LCM,W,35-39,38.57,Jennifer A Hulett,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Freestyle,LCM,W,40-44,34.72,Maria Tereza Paiva,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Freestyle,LCM,W,40-44,2:30.50,Maria Tereza Paiva,,Coral Springs Last Chance LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,40-44,6:09.23,Maria Tereza Paiva,,Coral Springs Last Chance LCM,2008,1
+FLAQ,800 M Freestyle,LCM,W,40-44,13:14.75,Maria Tereza Paiva,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Backstroke,LCM,W,40-44,45.46,Maria Tereza Paiva,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,W,40-44,45.54,Maria Tereza Paiva,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Breaststroke,LCM,W,40-44,1:40.42,Maria Tereza Paiva,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Breaststroke,LCM,W,40-44,3:29.53,Maria Tereza Paiva,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,W,40-44,39.36,Maria Tereza Paiva,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Freestyle,LCM,W,45-49,36.22,Sarah L Bennett,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Freestyle,LCM,W,45-49,1:16.84,Ann B Thomas,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Freestyle,LCM,W,45-49,3:06.42,Sarah L Bennett,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,45-49,6:21.60,Ann B Thomas,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,45-49,6:41.48,Sarah L Bennett,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+FLAQ,400 M Freestyle,LCM,W,45-49,7:30.83,Adrienne Chin-Ogilvie,,Coral Springs Last Chance LCM,2008,3
+FLAQ,800 M Freestyle,LCM,W,45-49,13:26.58,Sarah L Bennett,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,W,45-49,25:35.62,Sarah L Bennett,,2008 USMS Long Course Nationals,2008,1
+FLAQ,1500 M Freestyle,LCM,W,45-49,27:39.49,Ann B Thomas,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,1500 M Freestyle,LCM,W,45-49,30:50.90,Adrienne Chin-Ogilvie,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Backstroke,LCM,W,45-49,42.88,Ann B Thomas,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Backstroke,LCM,W,45-49,46.31,Sarah L Bennett,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Backstroke,LCM,W,45-49,1:43.87,Sarah L Bennett,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Backstroke,LCM,W,45-49,3:47.54,Sarah L Bennett,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,W,45-49,46.72,Sarah L Bennett,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,W,45-49,46.76,Adrienne Chin-Ogilvie,,Coral Springs Last Chance LCM,2008,2
+FLAQ,100 M Breaststroke,LCM,W,45-49,1:43.11,Sarah L Bennett,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Breaststroke,LCM,W,45-49,1:44.15,Josee Desmarais,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Breaststroke,LCM,W,45-49,1:45.67,Adrienne Chin-Ogilvie,,Coral Springs Last Chance LCM,2008,3
+FLAQ,200 M Breaststroke,LCM,W,45-49,3:42.23,Sarah L Bennett,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,W,45-49,39.25,Ann B Thomas,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Butterfly,LCM,W,45-49,4:55.41,Adrienne Chin-Ogilvie,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,W,45-49,3:23.12,Ann B Thomas,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,W,45-49,3:33.77,Sarah L Bennett,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,400 M Individual Medley,LCM,W,45-49,7:31.92,Sarah L Bennett,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+FLAQ,400 M Individual Medley,LCM,W,45-49,8:38.92,Adrienne Chin-Ogilvie,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Freestyle,LCM,W,50-54,38.02,Linda L Larson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,W,50-54,39.96,Jeanne E Sather,,Coral Springs Last Chance LCM,2008,2
+FLAQ,100 M Freestyle,LCM,W,50-54,1:35.47,Jeanne E Sather,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Freestyle,LCM,W,50-54,3:03.18,Linda L Larson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,50-54,6:24.56,Linda L Larson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,50-54,7:05.81,Jeanne E Sather,,Coral Springs Last Chance LCM,2008,2
+FLAQ,800 M Freestyle,LCM,W,50-54,13:20.76,Linda L Larson,,St. Petes Masters LCM,2008,1
+FLAQ,800 M Freestyle,LCM,W,50-54,14:32.58,Jeanne E Sather,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,1500 M Freestyle,LCM,W,50-54,24:54.39,Linda L Larson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,1500 M Freestyle,LCM,W,50-54,28:10.21,Jeanne E Sather,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Backstroke,LCM,W,50-54,42.98,Linda L Larson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Backstroke,LCM,W,50-54,1:33.74,Linda L Larson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Backstroke,LCM,W,50-54,3:15.89,Linda L Larson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Breaststroke,LCM,W,50-54,4:13.43,Linda L Larson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,W,50-54,38.62,Lena Forre,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,W,50-54,45.44,Linda L Larson,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Butterfly,LCM,W,50-54,1:38.58,Lena Forre,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Butterfly,LCM,W,50-54,1:50.88,Linda L Larson,,St. Petes Masters LCM,2008,2
+FLAQ,200 M Butterfly,LCM,W,50-54,3:29.96,Lena Forre,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Individual Medley,LCM,W,50-54,3:36.77,Linda L Larson,,Bumpy Jones Classic LCM,2008,1
+FLAQ,400 M Individual Medley,LCM,W,50-54,7:21.88,Lena Forre,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Individual Medley,LCM,W,50-54,7:36.22,Linda L Larson,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Freestyle,LCM,W,55-59,47.90,Sherie Berk,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,W,55-59,50.39,Anita M Mitchell,,Coral Springs Last Chance LCM,2008,2
+FLAQ,100 M Freestyle,LCM,W,55-59,1:44.59,Sherie Berk,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Freestyle,LCM,W,55-59,3:51.71,Sherie Berk,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,800 M Freestyle,LCM,W,55-59,19:47.54,Anita M Mitchell,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,W,55-59,1:07.75,Anita M Mitchell,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Freestyle,LCM,W,60-64,35.88,Linda Webb,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Freestyle,LCM,W,60-64,1:25.49,Linda Webb,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Freestyle,LCM,W,60-64,3:21.30,Linda Webb,,Bumpy Jones Classic LCM,2008,1
+FLAQ,400 M Freestyle,LCM,W,60-64,6:57.00,Linda Webb,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,W,60-64,28:04.49,Linda Webb,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Backstroke,LCM,W,60-64,50.49,Linda Webb,,Bumpy Jones Classic LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,W,60-64,46.54,Linda Webb,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Breaststroke,LCM,W,60-64,1:44.22,Linda Webb,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Breaststroke,LCM,W,60-64,3:54.85,Linda Webb,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,W,60-64,45.59,Linda Webb,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,18-24,25.23,Dameon Nicholas,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,M,18-24,25.24,Sam James,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Freestyle,LCM,M,18-24,26.01,Adam J Hosking,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Freestyle,LCM,M,18-24,26.55,Craig Purnell,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,50 M Freestyle,LCM,M,18-24,26.56,Ross Johnston,,June Krauser Summer Splash I LCM,2008,5
+FLAQ,50 M Freestyle,LCM,M,18-24,27.46,Christopher N Docampo,,Coral Springs Last Chance LCM,2008,6
+FLAQ,50 M Freestyle,LCM,M,18-24,29.20,Jordan Taylor,,June Krauser Summer Splash I LCM,2008,7
+FLAQ,100 M Freestyle,LCM,M,18-24,53.85,Sam James,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Freestyle,LCM,M,18-24,57.61,Craig Purnell,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,18-24,57.85,Dameon Nicholas,,2008 USMS Long Course Nationals,2008,3
+FLAQ,100 M Freestyle,LCM,M,18-24,1:00.38,Jordan Taylor,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,100 M Freestyle,LCM,M,18-24,1:03.54,Christopher N Docampo,,Coral Springs Last Chance LCM,2008,5
+FLAQ,100 M Freestyle,LCM,M,18-24,1:03.96,Adam J Hosking,,June Krauser Summer Splash I LCM,2008,6
+FLAQ,200 M Freestyle,LCM,M,18-24,2:02.58,Luis F Galvan-Sarabia,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Freestyle,LCM,M,18-24,2:14.70,Jordan Taylor,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Backstroke,LCM,M,18-24,30.32,Luis F Galvan-Sarabia,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Backstroke,LCM,M,18-24,32.96,Jordan Taylor,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Backstroke,LCM,M,18-24,33.81,Craig Purnell,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,100 M Backstroke,LCM,M,18-24,1:06.14,Ross Johnston,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Backstroke,LCM,M,18-24,1:07.33,Luis F Galvan-Sarabia,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Backstroke,LCM,M,18-24,1:15.71,Christopher N Docampo,,Coral Springs Last Chance LCM,2008,3
+FLAQ,200 M Backstroke,LCM,M,18-24,2:20.44,Ross Johnston,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Backstroke,LCM,M,18-24,2:40.21,Sam James,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Breaststroke,LCM,M,18-24,30.76,Ross Johnston,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,18-24,30.96,Sam James,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Breaststroke,LCM,M,18-24,34.10,Craig Purnell,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Breaststroke,LCM,M,18-24,34.23,Jordan Taylor,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,50 M Breaststroke,LCM,M,18-24,34.28,Dameon Nicholas,,2008 USMS Long Course Nationals,2008,5
+FLAQ,50 M Breaststroke,LCM,M,18-24,37.70,Adam J Hosking,,June Krauser Summer Splash I LCM,2008,6
+FLAQ,100 M Breaststroke,LCM,M,18-24,1:07.96,Ross Johnston,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,M,18-24,26.78,Dameon Nicholas,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,M,18-24,26.85,Luis F Galvan-Sarabia,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Butterfly,LCM,M,18-24,28.36,Craig Purnell,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,50 M Butterfly,LCM,M,18-24,29.96,Kevin J Rangel,,June Krauser Summer Splash I LCM,2008,4
+FLAQ,100 M Butterfly,LCM,M,18-24,59.96,Dameon Nicholas,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Butterfly,LCM,M,18-24,1:00.02,Luis F Galvan-Sarabia,,2008 USMS Long Course Nationals,2008,2
+FLAQ,200 M Individual Medley,LCM,M,18-24,2:15.93,Sam James,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,M,18-24,2:49.05,Adam J Hosking,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,25-29,59.88,Tommie A Cuticchia,,Coral Springs Last Chance LCM,2008,1
+FLAQ,100 M Freestyle,LCM,M,25-29,1:00.61,Daniel S Pilbrow,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,200 M Freestyle,LCM,M,25-29,2:16.92,Tommie A Cuticchia,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Freestyle,LCM,M,25-29,2:29.00,Bryan S Palmer,,2008 USMS Long Course Nationals,2008,2
+FLAQ,400 M Freestyle,LCM,M,25-29,4:47.95,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Freestyle,LCM,M,25-29,5:12.09,Bryan S Palmer,,2008 USMS Long Course Nationals,2008,2
+FLAQ,800 M Freestyle,LCM,M,25-29,10:48.52,Bryan S Palmer,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Backstroke,LCM,M,25-29,35.82,Bryan S Palmer,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Backstroke,LCM,M,25-29,1:08.34,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Backstroke,LCM,M,25-29,2:28.24,Daniel S Pilbrow,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Backstroke,LCM,M,25-29,2:29.24,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,200 M Backstroke,LCM,M,25-29,3:02.67,Bryan S Palmer,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,200 M Breaststroke,LCM,M,25-29,3:25.92,Bryan S Palmer,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,M,25-29,28.31,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Butterfly,LCM,M,25-29,1:02.31,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Butterfly,LCM,M,25-29,2:17.01,Daniel S Pilbrow,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Butterfly,LCM,M,25-29,2:28.24,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,200 M Individual Medley,LCM,M,25-29,2:30.86,Tommie A Cuticchia,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,M,25-29,2:39.41,Daniel S Pilbrow,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,400 M Individual Medley,LCM,M,25-29,5:27.07,Tommie A Cuticchia,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Individual Medley,LCM,M,25-29,6:03.51,Bryan S Palmer,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Freestyle,LCM,M,30-34,25.94,Domenico Sottile,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Backstroke,LCM,M,30-34,31.77,Domenico Sottile,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,M,30-34,34.26,Domenico Sottile,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Breaststroke,LCM,M,30-34,1:22.45,Domenico Sottile,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,M,30-34,28.23,Domenico Sottile,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,M,35-39,28.03,Rion M Broshears,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Freestyle,LCM,M,35-39,1:01.25,Matt Hooper,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Freestyle,LCM,M,35-39,2:12.48,Matt Hooper,,Coral Springs Last Chance LCM,2008,1
+FLAQ,200 M Freestyle,LCM,M,35-39,2:23.60,Rion M Broshears,,Coral Springs Last Chance LCM,2008,2
+FLAQ,400 M Freestyle,LCM,M,35-39,4:29.77,Matt Hooper,,Coral Springs Last Chance LCM,2008,1
+FLAQ,400 M Freestyle,LCM,M,35-39,5:09.34,Rion M Broshears,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,800 M Freestyle,LCM,M,35-39,9:37.58,Matt Hooper,,Cocoa (Florida) YMCA LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,M,35-39,18:46.90,Matt Hooper,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,M,35-39,30:20.57,Matthew F Strozier,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,50 M Backstroke,LCM,M,35-39,31.00,Matt Hooper,,Coral Springs Last Chance LCM,2008,1
+FLAQ,100 M Backstroke,LCM,M,35-39,1:13.17,Matt Hooper,,Cocoa (Florida) YMCA LCM,2008,1
+FLAQ,200 M Backstroke,LCM,M,35-39,2:26.22,Matt Hooper,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,35-39,34.77,Jeffrey S Stafford,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,35-39,36.27,Rion M Broshears,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Breaststroke,LCM,M,35-39,1:16.04,Jeffrey S Stafford,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Breaststroke,LCM,M,35-39,1:18.86,Rion M Broshears,,Coral Springs Last Chance LCM,2008,2
+FLAQ,100 M Breaststroke,LCM,M,35-39,1:20.00,Matt Hooper,,Coral Springs Last Chance LCM,2008,3
+FLAQ,200 M Breaststroke,LCM,M,35-39,2:53.87,Rion M Broshears,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Butterfly,LCM,M,35-39,1:05.33,Matt Hooper,,Cocoa (Florida) YMCA LCM,2008,1
+FLAQ,200 M Butterfly,LCM,M,35-39,2:21.75,Matt Hooper,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Individual Medley,LCM,M,35-39,2:29.97,Matt Hooper,,Cocoa (Florida) YMCA LCM,2008,1
+FLAQ,400 M Individual Medley,LCM,M,35-39,5:19.54,Matt Hooper,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,40-44,25.76,Kevin P Semisch,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,40-44,26.46,Scot H Weiss,,Cocoa (Florida) YMCA LCM,2008,2
+FLAQ,50 M Freestyle,LCM,M,40-44,27.51,Terry L Lage,,Coral Springs Last Chance LCM,2008,3
+FLAQ,100 M Freestyle,LCM,M,40-44,59.28,Kevin P Semisch,,Coral Springs Last Chance LCM,2008,1
+FLAQ,100 M Freestyle,LCM,M,40-44,1:02.51,Terry L Lage,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,40-44,1:08.34,Russell L Weaver,,June Krauser Summer Splash I LCM,2008,3
+FLAQ,200 M Freestyle,LCM,M,40-44,2:19.99,Terry L Lage,,Coral Springs Last Chance LCM,2008,1
+FLAQ,400 M Freestyle,LCM,M,40-44,5:51.43,Russell L Weaver,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,800 M Freestyle,LCM,M,40-44,11:19.39,Alex Blavatnik,,2008 USMS Long Course Nationals,2008,1
+FLAQ,800 M Freestyle,LCM,M,40-44,12:18.60,Russell L Weaver,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,200 M Backstroke,LCM,M,40-44,3:04.24,Duffy Dillon,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,M,40-44,33.83,Alex Blavatnik,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Breaststroke,LCM,M,40-44,35.11,Terry L Lage,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Breaststroke,LCM,M,40-44,1:17.61,Alex Blavatnik,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Breaststroke,LCM,M,40-44,2:57.26,Alex Blavatnik,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,M,40-44,29.35,Duffy Dillon,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,M,40-44,29.66,Andy J Fischer,,2008 USMS Long Course Nationals,2008,2
+FLAQ,100 M Butterfly,LCM,M,40-44,1:05.24,Andy J Fischer,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Butterfly,LCM,M,40-44,2:33.52,Andy J Fischer,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Individual Medley,LCM,M,40-44,2:32.32,Andy J Fischer,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Individual Medley,LCM,M,40-44,2:38.86,Alex Blavatnik,,2008 USMS Long Course Nationals,2008,2
+FLAQ,400 M Individual Medley,LCM,M,40-44,5:36.19,Andy J Fischer,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,M,45-49,31.89,John H Adair,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,45-49,35.34,Ray P McLaughlin,,Coral Springs Last Chance LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,45-49,1:11.34,John H Adair,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Freestyle,LCM,M,45-49,1:23.73,Ray P McLaughlin,,Coral Springs Last Chance LCM,2008,2
+FLAQ,200 M Freestyle,LCM,M,45-49,2:39.53,John H Adair,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Freestyle,LCM,M,45-49,3:08.82,Ray P McLaughlin,,Coral Springs Last Chance LCM,2008,2
+FLAQ,400 M Freestyle,LCM,M,45-49,5:40.56,John H Adair,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,45-49,51.77,Ray P McLaughlin,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,50-54,27.19,Tim D Erickson,,Coral Springs Last Chance LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,50-54,30.68,Michael F Kelly,,Coral Springs Last Chance LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,50-54,1:00.54,Tim D Erickson,,Coral Springs Last Chance LCM,2008,1
+FLAQ,100 M Freestyle,LCM,M,50-54,1:10.04,Michael F Kelly,,Coral Springs Last Chance LCM,2008,2
+FLAQ,200 M Freestyle,LCM,M,50-54,2:12.74,Tim D Erickson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Freestyle,LCM,M,50-54,4:44.17,Tim D Erickson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Freestyle,LCM,M,50-54,5:14.53,Marty Hendrick,,2008 USMS Long Course Nationals,2008,2
+FLAQ,800 M Freestyle,LCM,M,50-54,9:47.69,Tim D Erickson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,1500 M Freestyle,LCM,M,50-54,19:15.89,Tim D Erickson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,1500 M Freestyle,LCM,M,50-54,20:32.53,Marty Hendrick,,2008 USMS Long Course Nationals,2008,2
+FLAQ,50 M Backstroke,LCM,M,50-54,34.55,Marty Hendrick,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Backstroke,LCM,M,50-54,1:13.22,Marty Hendrick,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Backstroke,LCM,M,50-54,2:36.26,Marty Hendrick,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Butterfly,LCM,M,50-54,29.45,Tim D Erickson,,Coral Springs Last Chance LCM,2008,1
+FLAQ,100 M Butterfly,LCM,M,50-54,1:06.53,Tim D Erickson,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Butterfly,LCM,M,50-54,2:34.00,Tim D Erickson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,400 M Individual Medley,LCM,M,50-54,5:34.71,Tim D Erickson,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,M,55-59,30.91,Michael M Koonin,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,55-59,31.54,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,55-59,1:12.73,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Freestyle,LCM,M,55-59,2:46.13,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,400 M Freestyle,LCM,M,55-59,5:54.71,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,800 M Freestyle,LCM,M,55-59,11:54.92,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,55-59,41.17,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,M,55-59,36.34,Richardson Rivera,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,60-64,30.05,Joel J Burns,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,M,60-64,36.20,Kemp D Dowdy,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,60-64,1:31.58,Kemp D Dowdy,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Breaststroke,LCM,M,60-64,1:30.66,Ed Webb,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+FLAQ,200 M Breaststroke,LCM,M,60-64,3:16.31,Ed Webb,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+FLAQ,50 M Butterfly,LCM,M,60-64,29.84,Joel J Burns,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Butterfly,LCM,M,60-64,1:08.41,Joel J Burns,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Butterfly,LCM,M,60-64,2:54.36,Joel J Burns,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Individual Medley,LCM,M,60-64,2:48.84,Joel J Burns,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Freestyle,LCM,M,65-69,35.16,Lars Pedersen,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,65-69,35.39,James E Ward,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,100 M Freestyle,LCM,M,65-69,1:23.86,James E Ward,,2008 USMS Long Course Nationals,2008,1
+FLAQ,100 M Freestyle,LCM,M,65-69,1:26.04,Lars Pedersen,,2008 USMS Long Course Nationals,2008,2
+FLAQ,200 M Freestyle,LCM,M,65-69,3:25.31,Lars Pedersen,,2008 USMS Long Course Nationals,2008,1
+FLAQ,200 M Freestyle,LCM,M,65-69,3:33.91,James E Ward,,June Krauser Summer Splash I LCM,2008,2
+FLAQ,400 M Freestyle,LCM,M,65-69,7:39.82,Lars Pedersen,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,800 M Freestyle,LCM,M,65-69,16:04.10,James E Ward,,2008 USMS Long Course Nationals,2008,1
+FLAQ,1500 M Freestyle,LCM,M,65-69,29:47.90,Lars Pedersen,,2008 USMS Long Course Nationals,2008,1
+FLAQ,50 M Backstroke,LCM,M,65-69,54.67,James E Ward,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,65-69,56.32,James E Ward,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Breaststroke,LCM,M,70-74,51.68,Walter Pesetsky,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Breaststroke,LCM,M,70-74,2:05.57,Walter Pesetsky,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Butterfly,LCM,M,70-74,50.32,Walter Pesetsky,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,100 M Butterfly,LCM,M,70-74,1:59.10,Walter Pesetsky,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,200 M Butterfly,LCM,M,70-74,4:42.16,Walter Pesetsky,,June Krauser Summer Splash I LCM,2008,1
+FLAQ,50 M Freestyle,LCM,M,80-84,1:05.98,John T Degnan,,2008 USMS Long Course Nationals,2008,1
+GOLD,50 M Freestyle,LCM,W,18-24,48.67,Edymar Uzcategui,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,18-24,1:45.85,Edymar Uzcategui,,June Krauser Summer Splash I LCM,2008,1
+GOLD,400 M Freestyle,LCM,W,18-24,6:13.61,Nicole T Pierce,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,18-24,1:00.10,Edymar Uzcategui,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Backstroke,LCM,W,18-24,2:11.46,Edymar Uzcategui,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Butterfly,LCM,W,18-24,1:27.44,Nicole T Pierce,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,18-24,3:09.63,Nicole T Pierce,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,400 M Individual Medley,LCM,W,18-24,6:47.06,Nicole T Pierce,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,W,25-29,43.88,Lauren S Rubin,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,25-29,1:32.68,Angela M Boinski,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,25-29,1:35.08,Lauren S Rubin,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Freestyle,LCM,W,25-29,3:38.41,Lauren S Rubin,,June Krauser Summer Splash I LCM,2008,1
+GOLD,800 M Freestyle,LCM,W,25-29,12:37.13,Ilaria Guidoboni-Peters,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,25-29,58.88,Lauren S Rubin,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Backstroke,LCM,W,25-29,3:25.37,Ilaria Guidoboni-Peters,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Breaststroke,LCM,W,25-29,47.51,Angela M Boinski,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Butterfly,LCM,W,25-29,3:31.76,Ilaria Guidoboni-Peters,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,25-29,3:13.80,Ilaria Guidoboni-Peters,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,400 M Individual Medley,LCM,W,25-29,6:49.14,Ilaria Guidoboni-Peters,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,30-34,1:31.95,Elaine Luzano,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,30-34,2:53.53,Sheila M Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,W,30-34,12:57.30,Sheila M Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,30-34,41.64,Sheila M Arlotto,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Backstroke,LCM,W,30-34,1:25.70,Sheila M Arlotto,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Backstroke,LCM,W,30-34,3:09.09,Sheila M Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Breaststroke,LCM,W,30-34,46.62,Elaine Luzano,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Breaststroke,LCM,W,30-34,1:29.86,Katy LeVasseur,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Breaststroke,LCM,W,30-34,3:15.16,Katy LeVasseur,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Butterfly,LCM,W,30-34,1:17.14,Katy LeVasseur,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,30-34,2:55.22,Katy LeVasseur,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,W,35-39,33.14,Alicia Mena,,2008 World Masters Champs LCM at Perth,2008,1
+GOLD,100 M Freestyle,LCM,W,35-39,1:08.28,Dale A Leclair,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,35-39,2:30.50,Dale A Leclair,,Coral Springs Last Chance LCM,2008,1
+GOLD,400 M Freestyle,LCM,W,35-39,5:18.43,Dale A Leclair,,Coral Springs Last Chance LCM,2008,1
+GOLD,800 M Freestyle,LCM,W,35-39,11:35.66,Dale A LeClair,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,W,35-39,12:19.82,Elaine C Joggerst,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,50 M Backstroke,LCM,W,35-39,43.33,Alicia Mena,,2008 World Masters Champs LCM at Perth,2008,1
+GOLD,100 M Backstroke,LCM,W,35-39,1:28.48,Dale A LeClair,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Backstroke,LCM,W,35-39,3:13.78,Elaine C Joggerst,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Backstroke,LCM,W,35-39,3:17.63,Dale A LeClair,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,200 M Breaststroke,LCM,W,35-39,3:41.21,Elaine C Joggerst,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,35-39,33.72,Dale A Leclair,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,35-39,35.46,Alicia Mena,,2008 World Masters Champs LCM at Perth,2008,2
+GOLD,100 M Butterfly,LCM,W,35-39,1:23.37,Alicia Mena,,2008 World Masters Champs LCM at Perth,2008,1
+GOLD,200 M Butterfly,LCM,W,35-39,3:27.32,Alicia Mena,,2008 World Masters Champs LCM at Perth,2008,1
+GOLD,200 M Individual Medley,LCM,W,35-39,3:06.26,Dale A LeClair,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,35-39,3:16.74,Elaine C Joggerst,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,50 M Freestyle,LCM,W,40-44,24.25,Dara G Torres,,U.S. Olympic Team Trials,2008,1
+GOLD,50 M Freestyle,LCM,W,40-44,30.68,Paige Moore,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,50 M Freestyle,LCM,W,40-44,31.87,Jill D Johnson,,Cocoa (Florida) YMCA LCM,2008,3
+GOLD,50 M Freestyle,LCM,W,40-44,32.12,Kristen E Harris,,Cocoa (Florida) YMCA LCM,2008,4
+GOLD,50 M Freestyle,LCM,W,40-44,34.82,Michelle L Monaghan,,Coral Springs Last Chance LCM,2008,5
+GOLD,50 M Freestyle,LCM,W,40-44,39.67,Courtnay E Montgomery,,June Krauser Summer Splash I LCM,2008,6
+GOLD,100 M Freestyle,LCM,W,40-44,53.76,Dara G Torres,,U.S. Olympic Team Trials,2008,1
+GOLD,100 M Freestyle,LCM,W,40-44,1:08.28,Paige Moore,,St. Petes Masters LCM,2008,2
+GOLD,100 M Freestyle,LCM,W,40-44,1:10.21,Jill D Johnson,,St. Petes Masters LCM,2008,3
+GOLD,100 M Freestyle,LCM,W,40-44,1:11.13,Kristen E Harris,,Cocoa (Florida) YMCA LCM,2008,4
+GOLD,100 M Freestyle,LCM,W,40-44,1:17.03,Michelle L Monaghan,,Coral Springs Last Chance LCM,2008,5
+GOLD,100 M Freestyle,LCM,W,40-44,1:34.37,Courtnay E Montgomery,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,6
+GOLD,200 M Freestyle,LCM,W,40-44,2:33.03,Jill D Johnson,,St. Petes Masters LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,40-44,2:33.13,Paige Moore,,St. Petes Masters LCM,2008,2
+GOLD,200 M Freestyle,LCM,W,40-44,2:44.08,Andrea Woodburn,,Coral Springs Last Chance LCM,2008,3
+GOLD,200 M Freestyle,LCM,W,40-44,3:05.31,Courtnay E Montgomery,,2008 World Masters Champs LCM at Perth,2008,4
+GOLD,400 M Freestyle,LCM,W,40-44,5:18.12,Jill D Johnson,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,400 M Freestyle,LCM,W,40-44,5:35.03,Paige Moore,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,400 M Freestyle,LCM,W,40-44,5:43.78,Andrea Woodburn,,Coral Springs Last Chance LCM,2008,3
+GOLD,400 M Freestyle,LCM,W,40-44,6:22.74,Courtnay E Montgomery,,2008 World Masters Champs LCM at Perth,2008,4
+GOLD,800 M Freestyle,LCM,W,40-44,11:00.41,Jill D Johnson,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,40-44,39.04,Paige Moore,,St. Petes Masters LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,40-44,39.76,Michelle L Monaghan,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Backstroke,LCM,W,40-44,40.22,Jill D Johnson,,St. Petes Masters LCM,2008,3
+GOLD,50 M Backstroke,LCM,W,40-44,47.44,Courtnay E Montgomery,,2008 World Masters Champs LCM at Perth,2008,4
+GOLD,100 M Backstroke,LCM,W,40-44,1:23.71,Paige Moore,,St. Petes Masters LCM,2008,1
+GOLD,100 M Backstroke,LCM,W,40-44,1:39.11,Courtnay E Montgomery,,2008 World Masters Champs LCM at Perth,2008,2
+GOLD,200 M Backstroke,LCM,W,40-44,3:00.26,Paige Moore,,St. Petes Masters LCM,2008,1
+GOLD,200 M Backstroke,LCM,W,40-44,3:51.29,Courtnay E Montgomery,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,50 M Breaststroke,LCM,W,40-44,45.03,Jill D Johnson,,St. Petes Masters LCM,2008,1
+GOLD,100 M Breaststroke,LCM,W,40-44,1:37.35,Jill D Johnson,,St. Petes Masters LCM,2008,1
+GOLD,200 M Breaststroke,LCM,W,40-44,3:34.20,Jill D Johnson,,St. Petes Masters LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,40-44,35.64,Jill D Johnson,,St. Petes Masters LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,40-44,35.96,Kristen E Harris,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,200 M Individual Medley,LCM,W,40-44,3:03.10,Jill D Johnson,,St. Petes Masters LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,40-44,3:05.45,Andrea Woodburn,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Freestyle,LCM,W,45-49,30.88,Tanya M Hanson,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,45-49,1:14.73,Andrea Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,45-49,2:27.91,Kerri C Roussain,,2008 USMS Long Course Nationals,2008,1
+GOLD,200 M Freestyle,LCM,W,45-49,2:42.66,Andrea Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,400 M Freestyle,LCM,W,45-49,5:15.30,Kerri C Roussain,,2008 USMS Long Course Nationals,2008,1
+GOLD,400 M Freestyle,LCM,W,45-49,5:56.63,Andrea Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,800 M Freestyle,LCM,W,45-49,11:55.70,Andrea Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,W,45-49,13:06.06,Kathleen M Casey,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,1500 M Freestyle,LCM,W,45-49,20:20.35,Kerri C Roussain,,2008 USMS Long Course Nationals,2008,1
+GOLD,50 M Freestyle,LCM,W,50-54,31.37,Debbie D Cavanaugh,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Freestyle,LCM,W,50-54,32.66,Celia C Devanney,,St. Petes Masters LCM,2008,2
+GOLD,50 M Freestyle,LCM,W,50-54,34.22,Barbara Protzman,,Coral Springs Last Chance LCM,2008,3
+GOLD,50 M Freestyle,LCM,W,50-54,34.76,Lydia S Seier,,Coral Springs Last Chance LCM,2008,4
+GOLD,100 M Freestyle,LCM,W,50-54,1:08.98,Debbie D Cavanaugh,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,50-54,1:12.02,Celia C Devanney,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,100 M Freestyle,LCM,W,50-54,1:17.66,Lydia S Seier,,June Krauser Summer Splash I LCM,2008,3
+GOLD,100 M Freestyle,LCM,W,50-54,1:19.06,Barbara Protzman,,June Krauser Summer Splash I LCM,2008,4
+GOLD,200 M Freestyle,LCM,W,50-54,2:31.51,Debbie D Cavanaugh,,St. Petes Masters LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,50-54,2:36.81,Celia C Devanney,,St. Petes Masters LCM,2008,2
+GOLD,200 M Freestyle,LCM,W,50-54,2:47.36,Barbara Protzman,,Coral Springs Last Chance LCM,2008,3
+GOLD,200 M Freestyle,LCM,W,50-54,2:53.06,Lydia S Seier,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,400 M Freestyle,LCM,W,50-54,5:19.42,Debbie D Cavanaugh,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,400 M Freestyle,LCM,W,50-54,5:29.72,Celia C Devanney,,Coral Springs Last Chance LCM,2008,2
+GOLD,400 M Freestyle,LCM,W,50-54,5:59.26,Barbara Protzman,,Coral Springs Last Chance LCM,2008,3
+GOLD,800 M Freestyle,LCM,W,50-54,11:15.50,Celia C Devanney,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,1500 M Freestyle,LCM,W,50-54,21:48.96,Celia C Devanney,,St. Petes Masters LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,50-54,36.23,Debbie D Cavanaugh,,2008 USMS Long Course Nationals,2008,1
+GOLD,50 M Backstroke,LCM,W,50-54,39.12,Peggy H McDonnell,,St. Petes Masters LCM,2008,2
+GOLD,50 M Backstroke,LCM,W,50-54,48.57,Lydia S Seier,,Coral Springs Last Chance LCM,2008,3
+GOLD,100 M Backstroke,LCM,W,50-54,1:18.33,Debbie D Cavanaugh,,2008 USMS Long Course Nationals,2008,1
+GOLD,100 M Backstroke,LCM,W,50-54,1:25.60,Peggy H McDonnell,,St. Petes Masters LCM,2008,2
+GOLD,200 M Backstroke,LCM,W,50-54,2:46.32,Debbie D Cavanaugh,,2008 USMS Long Course Nationals,2008,1
+GOLD,200 M Backstroke,LCM,W,50-54,3:03.97,Peggy H McDonnell,,St. Petes Masters LCM,2008,2
+GOLD,50 M Breaststroke,LCM,W,50-54,39.12,Debbie D Cavanaugh,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Breaststroke,LCM,W,50-54,44.15,Peggy H McDonnell,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Breaststroke,LCM,W,50-54,1:32.23,Debbie D Cavanaugh,,St. Petes Masters LCM,2008,1
+GOLD,100 M Breaststroke,LCM,W,50-54,1:37.35,Peggy H McDonnell,,St. Petes Masters LCM,2008,2
+GOLD,200 M Breaststroke,LCM,W,50-54,3:23.44,Debbie D Cavanaugh,,St. Petes Masters LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,50-54,34.12,Peggy H McDonnell,,St. Petes Masters LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,50-54,35.95,Debbie D Cavanaugh,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Butterfly,LCM,W,50-54,36.83,Celia C Devanney,,June Krauser Summer Splash I LCM,2008,3
+GOLD,50 M Butterfly,LCM,W,50-54,38.62,Barbara Protzman,,Coral Springs Last Chance LCM,2008,4
+GOLD,100 M Butterfly,LCM,W,50-54,1:20.08,Peggy H McDonnell,,St. Petes Masters LCM,2008,1
+GOLD,100 M Butterfly,LCM,W,50-54,1:26.18,Celia C Devanney,,St. Petes Masters LCM,2008,2
+GOLD,100 M Butterfly,LCM,W,50-54,1:37.79,Barbara Protzman,,June Krauser Summer Splash I LCM,2008,3
+GOLD,200 M Butterfly,LCM,W,50-54,3:12.92,Celia C Devanney,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,50-54,2:51.70,Debbie D Cavanaugh,,St. Petes Masters LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,50-54,3:01.68,Peggy H McDonnell,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Individual Medley,LCM,W,50-54,3:19.25,Barbara Protzman,,St. Petes Masters LCM,2008,3
+GOLD,400 M Individual Medley,LCM,W,50-54,6:23.29,Debbie D Cavanaugh,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,W,55-59,29.46,Pat A Sargeant,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GOLD,50 M Freestyle,LCM,W,55-59,34.31,Maureen C Hughes,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,100 M Freestyle,LCM,W,55-59,1:07.13,Pat A Sargeant,,St. Petes Masters LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,55-59,2:27.49,Pat A Sargeant,,Bumpy Jones Classic LCM,2008,1
+GOLD,400 M Freestyle,LCM,W,55-59,5:22.28,Pat A Sargeant,,Bumpy Jones Classic LCM,2008,1
+GOLD,800 M Freestyle,LCM,W,55-59,11:05.44,Pat A Sargeant,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,55-59,37.46,Maureen C Hughes,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Backstroke,LCM,W,55-59,38.03,Pat A Sargeant,,Dixie Zone LCM Champs at Team Greenville SC,2008,2
+GOLD,100 M Backstroke,LCM,W,55-59,1:23.78,Pat A Sargeant,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GOLD,100 M Backstroke,LCM,W,55-59,1:26.28,Maureen C Hughes,,St. Petes Masters LCM,2008,2
+GOLD,200 M Backstroke,LCM,W,55-59,2:59.27,Pat A Sargeant,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GOLD,50 M Breaststroke,LCM,W,55-59,44.31,Pat A Sargeant,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Breaststroke,LCM,W,55-59,44.55,Maureen C Hughes,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,50 M Butterfly,LCM,W,55-59,33.04,Pat A Sargeant,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Butterfly,LCM,W,55-59,36.24,Maureen C Hughes,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,100 M Butterfly,LCM,W,55-59,1:16.18,Pat A Sargeant,,St. Petes Masters LCM,2008,1
+GOLD,200 M Butterfly,LCM,W,55-59,3:09.20,Pat A Sargeant,,St. Petes Masters LCM,2008,1
+GOLD,200 M Individual Medley,LCM,W,55-59,2:58.24,Pat A Sargeant,,Bumpy Jones Classic LCM,2008,1
+GOLD,400 M Individual Medley,LCM,W,55-59,6:22.58,Pat A Sargeant,,Dixie Zone LCM Champs at Team Greenville SC,2008,1
+GOLD,50 M Freestyle,LCM,W,65-69,1:02.61,Susan Gunter,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,W,65-69,2:25.99,Susan Gunter,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Freestyle,LCM,W,65-69,5:22.13,Susan Gunter,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,25-29,27.47,Juan C Salas,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,25-29,28.11,James R Vaucher,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,25-29,33.68,Nicholas W Perry,,June Krauser Summer Splash I LCM,2008,3
+GOLD,50 M Freestyle,LCM,M,25-29,36.19,Andres H Miyares,,June Krauser Summer Splash I LCM,2008,4
+GOLD,100 M Freestyle,LCM,M,25-29,1:03.45,Juan C Salas,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,25-29,1:04.07,James R Vaucher,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,25-29,1:19.34,Tim L Krajewski,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,25-29,1:20.48,Andres H Miyares,,June Krauser Summer Splash I LCM,2008,4
+GOLD,200 M Freestyle,LCM,M,25-29,2:56.12,Andres H Miyares,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,25-29,3:01.52,Tim L Krajewski,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,25-29,6:01.00,Andres H Miyares,,Coral Springs Last Chance LCM,2008,1
+GOLD,400 M Freestyle,LCM,M,25-29,6:32.09,Tim L Krajewski,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,25-29,9:09.62,Rodrigo A Corcho,,Coral Springs Last Chance LCM,2008,3
+GOLD,800 M Freestyle,LCM,M,25-29,11:33.63,Jarrod Gac,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,25-29,12:20.22,Andres H Miyares,,June Krauser Summer Splash I LCM,2008,2
+GOLD,1500 M Freestyle,LCM,M,25-29,23:59.42,Andres H Miyares,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,25-29,1:10.61,Mance E Buttram,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,25-29,1:23.36,James R Vaucher,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Backstroke,LCM,M,25-29,2:38.52,Mance E Buttram,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,25-29,33.74,Rodrigo A Corcho,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,25-29,44.54,Nicholas W Perry,,June Krauser Summer Splash I LCM,2008,2
+GOLD,100 M Breaststroke,LCM,M,25-29,1:18.40,Rodrigo A Corcho,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,25-29,1:42.48,Nicholas W Perry,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Breaststroke,LCM,M,25-29,3:42.33,Nicholas W Perry,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,25-29,30.84,Juan C Salas,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,25-29,37.98,Andres H Miyares,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Butterfly,LCM,M,25-29,1:24.99,Andres H Miyares,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,25-29,2:46.92,Rodrigo A Corcho,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,400 M Individual Medley,LCM,M,25-29,6:17.42,Jarrod Gac,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,30-34,24.94,Luis E Comulada,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,30-34,25.34,Robert S Rivera,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,30-34,43.39,Lee M Scharf,,Coral Springs Last Chance LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,30-34,56.38,Robert S Rivera,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,30-34,57.93,Luis E Comulada,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,30-34,1:07.97,Stephen E Dehnert,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,30-34,1:17.82,Justin M Bullard,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,200 M Freestyle,LCM,M,30-34,2:10.06,Robert S Rivera,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,30-34,2:13.27,Luis E Comulada,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,30-34,2:31.75,Shawn L Peters,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,200 M Freestyle,LCM,M,30-34,3:04.81,Justin M Bullard,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,400 M Freestyle,LCM,M,30-34,4:46.75,Luis E Comulada,,Coral Springs Last Chance LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,30-34,13:47.80,Stephen E Dehnert,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,30-34,32.30,Roger A Stoudt,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,30-34,53.29,Lee M Scharf,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Backstroke,LCM,M,30-34,2:52.29,Shawn L Peters,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,30-34,55.66,Lee M Scharf,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,30-34,1:17.36,Luis E Comulada,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,30-34,1:30.16,Stephen E Dehnert,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Breaststroke,LCM,M,30-34,1:32.53,William A Yepes,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Breaststroke,LCM,M,30-34,2:09.69,Lee M Scharf,,Coral Springs Last Chance LCM,2008,4
+GOLD,200 M Breaststroke,LCM,M,30-34,3:06.54,Shawn L Peters,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Breaststroke,LCM,M,30-34,3:23.28,William A Yepes,,Maryland Ann Johnsen Memorial Summer Swim Series #4 at UMBC,2008,2
+GOLD,50 M Butterfly,LCM,M,30-34,27.36,Robert S Rivera,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,30-34,29.43,Luis E Comulada,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Butterfly,LCM,M,30-34,52.84,Lee M Scharf,,Coral Springs Last Chance LCM,2008,3
+GOLD,100 M Butterfly,LCM,M,30-34,1:04.50,Roger A Stoudt,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Butterfly,LCM,M,30-34,1:22.54,William A Yepes,,Maryland Ann Johnsen Memorial Summer Swim Series #4 at UMBC,2008,2
+GOLD,200 M Individual Medley,LCM,M,30-34,2:29.47,Roger A Stoudt,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,30-34,2:46.75,Shawn L Peters,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Individual Medley,LCM,M,30-34,3:07.16,William A Yepes,,Maryland Ann Johnsen Memorial Summer Swim Series #4 at UMBC,2008,3
+GOLD,400 M Individual Medley,LCM,M,30-34,7:17.42,William A Yepes,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,35-39,26.83,Brian P McGloin,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,35-39,27.14,Viktor L Frengut,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,35-39,28.61,Jason W Miller,,June Krauser Summer Splash I LCM,2008,3
+GOLD,50 M Freestyle,LCM,M,35-39,31.09,Daniel J Ewan,,Coral Springs Last Chance LCM,2008,4
+GOLD,50 M Freestyle,LCM,M,35-39,31.63,Garner T Degollado,,Coral Springs Last Chance LCM,2008,5
+GOLD,50 M Freestyle,LCM,M,35-39,32.18,Benjamin L Hill,,June Krauser Summer Splash I LCM,2008,6
+GOLD,50 M Freestyle,LCM,M,35-39,32.75,Humberto Nunez,,Coral Springs Last Chance LCM,2008,7
+GOLD,100 M Freestyle,LCM,M,35-39,1:01.96,Brian P McGloin,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,35-39,1:03.00,Viktor L Frengut,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,35-39,1:04.69,Jason W Miller,,June Krauser Summer Splash I LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,35-39,1:08.17,Mauricio G Valenzuela,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,100 M Freestyle,LCM,M,35-39,1:10.58,Alcides De Quesada,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,5
+GOLD,100 M Freestyle,LCM,M,35-39,1:10.76,Garner T Degollado,,Coral Springs Last Chance LCM,2008,6
+GOLD,100 M Freestyle,LCM,M,35-39,1:13.36,Benjamin L Hill,,June Krauser Summer Splash I LCM,2008,7
+GOLD,100 M Freestyle,LCM,M,35-39,1:28.15,Humberto Nunez,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,8
+GOLD,100 M Freestyle,LCM,M,35-39,1:36.03,Kevin P Dawes,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,9
+GOLD,200 M Freestyle,LCM,M,35-39,2:34.15,Alcides De Quesada,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,35-39,3:44.69,Kevin P Dawes,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,35-39,5:37.85,Alcides De Quesada,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,35-39,11:24.11,R Daniel Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,35-39,11:28.86,Alcides De Quesada,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,50 M Backstroke,LCM,M,35-39,34.18,Brian P McGloin,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,35-39,40.23,Garner T Degollado,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Backstroke,LCM,M,35-39,47.06,Humberto Nunez,,Coral Springs Last Chance LCM,2008,3
+GOLD,100 M Backstroke,LCM,M,35-39,1:12.29,R Daniel Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Backstroke,LCM,M,35-39,2:38.79,R Daniel Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,35-39,42.12,Humberto Nunez,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,35-39,1:26.60,John H Mejia,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,35-39,1:27.90,R Daniel Arlotto,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Breaststroke,LCM,M,35-39,1:29.15,Mauricio G Valenzuela,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Breaststroke,LCM,M,35-39,1:38.59,Humberto Nunez,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,200 M Individual Medley,LCM,M,35-39,3:03.55,John H Mejia,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,40-44,28.58,David M Walley,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,40-44,39.20,Barry T Krischer,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,40-44,1:00.33,David W LeClair,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,40-44,1:02.85,Jim P Bradley,,June Krauser Summer Splash I LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,40-44,1:02.97,Larry E Caldwell,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,40-44,1:09.55,Charles F McCarthy,,Coral Springs Last Chance LCM,2008,4
+GOLD,100 M Freestyle,LCM,M,40-44,1:11.41,John L Roe,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,5
+GOLD,100 M Freestyle,LCM,M,40-44,1:14.08,Gordon S Cowley,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,6
+GOLD,100 M Freestyle,LCM,M,40-44,1:24.29,Jose E Nunez,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,7
+GOLD,200 M Freestyle,LCM,M,40-44,2:21.03,Jim W Harper,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,40-44,2:25.00,David M Walley,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,40-44,2:32.78,Larry E Caldwell,,Coral Springs Last Chance LCM,2008,3
+GOLD,200 M Freestyle,LCM,M,40-44,2:52.25,John L Roe,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,400 M Freestyle,LCM,M,40-44,4:38.10,Phillip J King,,2008 USMS Long Course Nationals,2008,1
+GOLD,400 M Freestyle,LCM,M,40-44,4:48.43,David W LeClair,,Coral Springs Last Chance LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,40-44,5:03.41,Larry E Caldwell,,Coral Springs Last Chance LCM,2008,3
+GOLD,400 M Freestyle,LCM,M,40-44,5:06.13,Jim P Bradley,,June Krauser Summer Splash I LCM,2008,4
+GOLD,400 M Freestyle,LCM,M,40-44,5:08.52,David M Walley,,Coral Springs Last Chance LCM,2008,5
+GOLD,400 M Freestyle,LCM,M,40-44,6:43.16,John L Roe,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,6
+GOLD,800 M Freestyle,LCM,M,40-44,9:42.60,Phillip J King,,2008 USMS Long Course Nationals,2008,1
+GOLD,800 M Freestyle,LCM,M,40-44,10:18.91,David W LeClair,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,800 M Freestyle,LCM,M,40-44,10:40.29,Roland J White,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,800 M Freestyle,LCM,M,40-44,10:40.34,Larry E Caldwell,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,800 M Freestyle,LCM,M,40-44,10:52.83,Jim P Bradley,,June Krauser Summer Splash I LCM,2008,5
+GOLD,50 M Backstroke,LCM,M,40-44,32.43,Larry E Caldwell,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,40-44,35.87,David M Walley,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,100 M Backstroke,LCM,M,40-44,1:12.31,Larry E Caldwell,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,40-44,1:28.68,Mark S Kowalak,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Backstroke,LCM,M,40-44,1:50.01,Jose E Nunez,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,200 M Backstroke,LCM,M,40-44,2:42.51,Jim W Harper,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Backstroke,LCM,M,40-44,3:11.00,Mark S Kowalak,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,50 M Breaststroke,LCM,M,40-44,36.90,David M Walley,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,40-44,40.43,David W LeClair,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Breaststroke,LCM,M,40-44,45.04,Barry T Krischer,,Coral Springs Last Chance LCM,2008,3
+GOLD,100 M Breaststroke,LCM,M,40-44,1:11.58,Sean P Frampton,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,40-44,1:23.12,David M Walley,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Breaststroke,LCM,M,40-44,1:26.26,Larry E Caldwell,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Breaststroke,LCM,M,40-44,1:28.84,David W LeClair,,Coral Springs Last Chance LCM,2008,4
+GOLD,100 M Breaststroke,LCM,M,40-44,1:34.04,Mark S Kowalak,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,5
+GOLD,200 M Breaststroke,LCM,M,40-44,2:46.31,Sean P Frampton,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Breaststroke,LCM,M,40-44,2:50.52,Jim W Harper,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,200 M Breaststroke,LCM,M,40-44,3:01.72,David M Walley,,Cocoa (Florida) YMCA LCM,2008,3
+GOLD,50 M Butterfly,LCM,M,40-44,30.94,Larry E Caldwell,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Butterfly,LCM,M,40-44,1:05.22,Sean P Frampton,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Butterfly,LCM,M,40-44,1:11.74,Larry E Caldwell,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Butterfly,LCM,M,40-44,1:25.03,John L Roe,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,200 M Butterfly,LCM,M,40-44,2:47.91,Jim W Harper,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,40-44,2:34.86,David W LeClair,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,40-44,2:41.22,Larry E Caldwell,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,200 M Individual Medley,LCM,M,40-44,2:43.28,David M Walley,,Cocoa (Florida) YMCA LCM,2008,3
+GOLD,200 M Individual Medley,LCM,M,40-44,3:08.97,John L Roe,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,400 M Individual Medley,LCM,M,40-44,7:02.34,John L Roe,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,45-49,26.62,Joe Wotton,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,45-49,26.68,James N Jacobson,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,45-49,33.22,Steven M Jacobson,,Coral Springs Last Chance LCM,2008,3
+GOLD,50 M Freestyle,LCM,M,45-49,41.95,Dwight Montgomery,,Coral Springs Last Chance LCM,2008,4
+GOLD,50 M Freestyle,LCM,M,45-49,49.95,Ismael L Montes,,June Krauser Summer Splash I LCM,2008,5
+GOLD,100 M Freestyle,LCM,M,45-49,59.59,Joe Wotton,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,45-49,59.64,James N Jacobson,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,45-49,1:05.25,Bill S Korey,,June Krauser Summer Splash I LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,45-49,1:08.77,Edward J Steblein,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,100 M Freestyle,LCM,M,45-49,1:09.36,Alan G Ngim,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,5
+GOLD,100 M Freestyle,LCM,M,45-49,1:11.01,James S Fetter,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,6
+GOLD,100 M Freestyle,LCM,M,45-49,1:11.06,Steven M Jacobson,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,7
+GOLD,100 M Freestyle,LCM,M,45-49,1:27.03,Michael J Taylor,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,8
+GOLD,100 M Freestyle,LCM,M,45-49,1:29.00,Michael S Cuenca,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,9
+GOLD,100 M Freestyle,LCM,M,45-49,1:36.53,Dwight Montgomery,,Coral Springs Last Chance LCM,2008,10
+GOLD,100 M Freestyle,LCM,M,45-49,1:38.59,Ismael L Montes,,June Krauser Summer Splash I LCM,2008,11
+GOLD,200 M Freestyle,LCM,M,45-49,2:20.11,James N Jacobson,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,45-49,2:24.22,Bill S Korey,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,45-49,2:30.01,Joe Wotton,,Cocoa (Florida) YMCA LCM,2008,3
+GOLD,200 M Freestyle,LCM,M,45-49,2:40.42,Edward J Steblein,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,200 M Freestyle,LCM,M,45-49,2:42.64,James S Fetter,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,5
+GOLD,200 M Freestyle,LCM,M,45-49,3:36.06,Ismael L Montes,,June Krauser Summer Splash I LCM,2008,6
+GOLD,400 M Freestyle,LCM,M,45-49,5:00.05,Bill S Korey,,June Krauser Summer Splash I LCM,2008,1
+GOLD,400 M Freestyle,LCM,M,45-49,5:00.96,James N Jacobson,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,45-49,8:32.90,Ismael L Montes,,June Krauser Summer Splash I LCM,2008,3
+GOLD,800 M Freestyle,LCM,M,45-49,10:36.23,James N Jacobson,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,1500 M Freestyle,LCM,M,45-49,19:52.59,Bill S Korey,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,45-49,31.58,Joel L Dodds,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,45-49,34.90,Joe Wotton,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,50 M Backstroke,LCM,M,45-49,36.62,Bill S Korey,,Coral Springs Last Chance LCM,2008,3
+GOLD,100 M Backstroke,LCM,M,45-49,1:19.28,Bill S Korey,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Backstroke,LCM,M,45-49,2:50.10,Bill S Korey,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,45-49,1:27.73,Christopher R Digilio,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,45-49,1:37.41,Steven M Jacobson,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Breaststroke,LCM,M,45-49,1:40.63,Michael J Taylor,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,200 M Breaststroke,LCM,M,45-49,3:44.96,Michael J Taylor,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,45-49,29.72,Joe Wotton,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,45-49,31.88,James S Fetter,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Butterfly,LCM,M,45-49,1:19.19,James S Fetter,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,45-49,2:38.07,Joel L Dodds,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,45-49,2:54.95,James S Fetter,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Individual Medley,LCM,M,45-49,3:22.66,Steven M Jacobson,,Coral Springs Last Chance LCM,2008,3
+GOLD,50 M Freestyle,LCM,M,50-54,28.90,Chris E Burt,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,50-54,39.98,Robert Dzamba,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,50-54,40.43,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,50-54,1:04.81,Chris E Burt,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,50-54,1:09.64,David J Toney,,Coral Springs Last Chance LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,50-54,1:11.24,Matthew P Gill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,100 M Freestyle,LCM,M,50-54,1:17.15,Blaise M O'Neill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,100 M Freestyle,LCM,M,50-54,1:31.70,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,5
+GOLD,100 M Freestyle,LCM,M,50-54,1:37.39,Robert Dzamba,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,6
+GOLD,200 M Freestyle,LCM,M,50-54,2:24.02,Chris E Burt,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,50-54,2:37.10,David J Toney,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,50-54,2:40.40,Matthew P Gill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,200 M Freestyle,LCM,M,50-54,2:48.70,Blaise M O'Neill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,200 M Freestyle,LCM,M,50-54,3:19.57,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,5
+GOLD,200 M Freestyle,LCM,M,50-54,4:03.82,Robert Dzamba,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,6
+GOLD,400 M Freestyle,LCM,M,50-54,5:24.53,Chris E Burt,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,400 M Freestyle,LCM,M,50-54,5:32.75,David J Toney,,Coral Springs Last Chance LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,50-54,5:52.29,Matthew P Gill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,3
+GOLD,400 M Freestyle,LCM,M,50-54,6:01.67,Blaise M O'Neill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,4
+GOLD,400 M Freestyle,LCM,M,50-54,6:14.97,John S Grzeszczak,,Coral Springs Last Chance LCM,2008,5
+GOLD,400 M Freestyle,LCM,M,50-54,7:05.28,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,6
+GOLD,800 M Freestyle,LCM,M,50-54,11:31.56,Chris E Burt,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,50-54,12:40.49,Blaise M O'Neill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,800 M Freestyle,LCM,M,50-54,14:52.03,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,3
+GOLD,1500 M Freestyle,LCM,M,50-54,27:35.86,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,50-54,31.80,John S Grzeszczak,,2008 World Masters Champs LCM at Perth,2008,1
+GOLD,50 M Backstroke,LCM,M,50-54,38.24,Chris E Burt,,June Krauser Summer Splash I LCM,2008,2
+GOLD,50 M Backstroke,LCM,M,50-54,50.60,Robert Dzamba,,Coral Springs Last Chance LCM,2008,3
+GOLD,50 M Backstroke,LCM,M,50-54,55.81,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,4
+GOLD,100 M Backstroke,LCM,M,50-54,1:22.63,Chris E Burt,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,50-54,1:39.37,Matthew P Gill,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Backstroke,LCM,M,50-54,2:04.66,Robert Dzamba,,Coral Springs Last Chance LCM,2008,3
+GOLD,200 M Backstroke,LCM,M,50-54,2:56.93,Chris E Burt,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Backstroke,LCM,M,50-54,4:11.06,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,2
+GOLD,50 M Breaststroke,LCM,M,50-54,42.75,Chris E Burt,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,50-54,45.18,Robert Dzamba,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Breaststroke,LCM,M,50-54,54.07,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,3
+GOLD,100 M Breaststroke,LCM,M,50-54,1:33.07,Chris E Burt,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Breaststroke,LCM,M,50-54,3:32.48,Chris E Burt,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,50-54,29.29,John S Grzeszczak,,2008 World Masters Champs LCM at Perth,2008,1
+GOLD,50 M Butterfly,LCM,M,50-54,33.07,Lars Ferron,,Coral Springs Last Chance LCM,2008,2
+GOLD,50 M Butterfly,LCM,M,50-54,52.56,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,3
+GOLD,200 M Individual Medley,LCM,M,50-54,3:53.01,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,1
+GOLD,400 M Individual Medley,LCM,M,50-54,8:24.35,Roy S Sonenshein,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,55-59,27.80,George L Schmidt,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,55-59,33.96,Jose Fernandez,,June Krauser Summer Splash I LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,55-59,1:02.65,George L Schmidt,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,55-59,3:06.68,Ken R Beier,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,55-59,3:12.98,Jose Fernandez,,June Krauser Summer Splash I LCM,2008,2
+GOLD,100 M Backstroke,LCM,M,55-59,1:16.30,George L Schmidt,,St. Petes Masters LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,55-59,1:45.24,Ken R Beier,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,200 M Backstroke,LCM,M,55-59,3:52.12,Ken R Beier,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,55-59,37.35,George L Schmidt,,St. Petes Masters LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,55-59,1:54.04,Jose Fernandez,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,55-59,3:35.10,Ken R Beier,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,60-64,27.81,David Quiggin,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,60-64,31.62,Roger L Parsons,,June Krauser Summer Splash I LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,60-64,33.57,Dick Brewer,,Coral Springs Last Chance LCM,2008,3
+GOLD,50 M Freestyle,LCM,M,60-64,43.89,Ray L Venture,,Coral Springs Last Chance LCM,2008,4
+GOLD,100 M Freestyle,LCM,M,60-64,1:01.74,David Quiggin,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,60-64,1:12.98,Roger L Parsons,,2008 USMS Long Course Nationals,2008,2
+GOLD,100 M Freestyle,LCM,M,60-64,1:49.66,Ray L Venture,,June Krauser Summer Splash I LCM,2008,3
+GOLD,200 M Freestyle,LCM,M,60-64,2:23.66,David Quiggin,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,60-64,2:48.07,Roger L Parsons,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,60-64,4:30.82,Ray L Venture,,June Krauser Summer Splash I LCM,2008,3
+GOLD,400 M Freestyle,LCM,M,60-64,6:47.25,Dick Brewer,,YMCA Norris Invite at Naples LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,60-64,11:33.95,David Quiggin,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,60-64,40.17,Roger L Parsons,,St. Petes Masters LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,60-64,1:03.06,Ray L Venture,,June Krauser Summer Splash I LCM,2008,2
+GOLD,100 M Backstroke,LCM,M,60-64,1:26.30,Roger L Parsons,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,60-64,1:26.58,David Quiggin,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,200 M Backstroke,LCM,M,60-64,3:07.86,Roger L Parsons,,St. Petes Masters LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,60-64,42.86,Dick Brewer,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,60-64,1:37.95,Dick Brewer,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Breaststroke,LCM,M,60-64,3:29.03,Dick Brewer,,YMCA Norris Invite at Naples LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,60-64,30.68,David Quiggin,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,65-69,1:07.38,John B Colavecchio,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,65-69,1:16.89,Scott Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,65-69,2:35.81,John B Colavecchio,,Coral Springs Last Chance LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,65-69,2:51.79,Scott Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,400 M Freestyle,LCM,M,65-69,6:25.31,Scott Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,65-69,13:09.96,Scott Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,65-69,1:34.60,Scott Woodburn,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,200 M Backstroke,LCM,M,65-69,3:17.93,Gerry G Delong,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Breaststroke,LCM,M,65-69,1:38.31,Gerry G Delong,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Breaststroke,LCM,M,65-69,3:35.78,Gerry G Delong,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Butterfly,LCM,M,65-69,3:29.04,Gerry G Delong,,June Krauser Summer Splash I LCM,2008,1
+GOLD,400 M Individual Medley,LCM,M,65-69,6:56.53,Gerry G Delong,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,70-74,29.12,Cav Cavanaugh,,Cocoa (Florida) YMCA LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,70-74,31.75,David R McIntyre,,2008 USMS Long Course Nationals,2008,2
+GOLD,50 M Freestyle,LCM,M,70-74,32.02,Andy B Morrow,,YMCA Norris Invite at Naples LCM,2008,3
+GOLD,50 M Freestyle,LCM,M,70-74,33.71,Bill D Dykstra,,2008 USMS Long Course Nationals,2008,4
+GOLD,50 M Freestyle,LCM,M,70-74,35.92,Wally E Dobler,,YMCA Norris Invite at Naples LCM,2008,5
+GOLD,100 M Freestyle,LCM,M,70-74,1:07.52,Cav Cavanaugh,,2008 USMS Long Course Nationals,2008,1
+GOLD,100 M Freestyle,LCM,M,70-74,1:12.20,Andy B Morrow,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,70-74,1:16.66,Bill D Dykstra,,2008 USMS Long Course Nationals,2008,3
+GOLD,200 M Freestyle,LCM,M,70-74,2:33.77,Cav Cavanaugh,,2008 USMS Long Course Nationals,2008,1
+GOLD,200 M Freestyle,LCM,M,70-74,3:06.15,Wally E Dobler,,YMCA Norris Invite at Naples LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,70-74,6:00.73,Cav Cavanaugh,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,70-74,37.93,David R McIntyre,,2008 USMS Long Course Nationals,2008,1
+GOLD,50 M Backstroke,LCM,M,70-74,41.69,Bill D Dykstra,,2008 USMS Long Course Nationals,2008,2
+GOLD,50 M Backstroke,LCM,M,70-74,44.06,Cav Cavanaugh,,St. Petes Masters LCM,2008,3
+GOLD,100 M Backstroke,LCM,M,70-74,1:34.31,Bill D Dykstra,,2008 USMS Long Course Nationals,2008,1
+GOLD,100 M Backstroke,LCM,M,70-74,1:34.39,David R McIntyre,,2008 USMS Long Course Nationals,2008,2
+GOLD,100 M Backstroke,LCM,M,70-74,1:37.84,Wally E Dobler,,YMCA Norris Invite at Naples LCM,2008,3
+GOLD,50 M Breaststroke,LCM,M,70-74,45.18,David R McIntyre,,Bumpy Jones Classic LCM,2008,1
+GOLD,50 M Breaststroke,LCM,M,70-74,46.55,Andy B Morrow,,YMCA Norris Invite at Naples LCM,2008,2
+GOLD,50 M Breaststroke,LCM,M,70-74,48.81,Wally E Dobler,,YMCA Norris Invite at Naples LCM,2008,3
+GOLD,50 M Butterfly,LCM,M,70-74,35.70,David R McIntyre,,Bumpy Jones Classic LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,70-74,39.74,Cav Cavanaugh,,Cocoa (Florida) YMCA LCM,2008,2
+GOLD,100 M Butterfly,LCM,M,70-74,1:35.41,Wally E Dobler,,YMCA Norris Invite at Naples LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,70-74,3:19.22,Cav Cavanaugh,,St. Petes Masters LCM,2008,1
+GOLD,200 M Individual Medley,LCM,M,70-74,3:34.54,Wally E Dobler,,YMCA Norris Invite at Naples LCM,2008,2
+GOLD,50 M Freestyle,LCM,M,75-79,34.01,Alan S Rapperport,,St. Petes Masters LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,75-79,44.39,George Busse,,June Krauser Summer Splash I LCM,2008,2
+GOLD,100 M Freestyle,LCM,M,75-79,1:18.68,Alan S Rapperport,,YMCA Norris Invite at Naples LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,75-79,1:42.60,George Busse,,June Krauser Summer Splash I LCM,2008,2
+GOLD,200 M Freestyle,LCM,M,75-79,2:59.24,Alan S Rapperport,,St. Petes Masters LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,75-79,4:00.86,George Busse,,June Krauser Summer Splash I LCM,2008,2
+GOLD,400 M Freestyle,LCM,M,75-79,6:31.36,Alan S Rapperport,,2008 USMS Long Course Nationals,2008,1
+GOLD,400 M Freestyle,LCM,M,75-79,8:43.89,George Busse,,Coral Springs Last Chance LCM,2008,2
+GOLD,800 M Freestyle,LCM,M,75-79,13:31.99,Alan S Rapperport,,June Krauser Summer Splash I LCM,2008,1
+GOLD,1500 M Freestyle,LCM,M,75-79,26:57.12,Alan S Rapperport,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,75-79,44.16,Alan S Rapperport,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,75-79,1:34.86,Alan S Rapperport,,YMCA Norris Invite at Naples LCM,2008,1
+GOLD,200 M Backstroke,LCM,M,75-79,3:27.60,Alan S Rapperport,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Butterfly,LCM,M,75-79,43.05,Herb Kern,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Butterfly,LCM,M,75-79,3:58.34,Herb Kern,,June Krauser Summer Splash I LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,80-84,4:19.18,Joaquin Silverio,,Coral Springs Last Chance LCM,2008,1
+GOLD,400 M Freestyle,LCM,M,80-84,9:09.65,Joaquin Silverio,,Coral Springs Last Chance LCM,2008,1
+GOLD,800 M Freestyle,LCM,M,80-84,20:31.00,Joaquin Silverio,,June Krauser Summer Splash I LCM,2008,1
+GOLD,50 M Backstroke,LCM,M,80-84,1:00.00,Joaquin Silverio,,June Krauser Summer Splash I LCM,2008,1
+GOLD,100 M Backstroke,LCM,M,80-84,2:17.98,Joaquin Silverio,,Coral Springs Last Chance LCM,2008,1
+GOLD,50 M Freestyle,LCM,M,85-89,44.80,Alfredo J Utrilla,,Coral Springs Last Chance LCM,2008,1
+GOLD,100 M Freestyle,LCM,M,85-89,1:51.06,Alfredo J Utrilla,,Coral Springs Last Chance LCM,2008,1
+GOLD,200 M Freestyle,LCM,M,85-89,4:26.92,Alfredo J Utrilla,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,18-24,33.28,Rachel H Foate,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Freestyle,LCM,W,18-24,1:14.05,Rachel H Foate,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Butterfly,LCM,W,18-24,33.96,Rachel H Foate,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Butterfly,LCM,W,18-24,1:18.16,Rachel H Foate,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,25-29,33.39,Julie L Overcashier,,Coral Springs Last Chance LCM,2008,1
+LYTA,400 M Freestyle,LCM,W,25-29,5:56.65,Julie L Overcashier,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Backstroke,LCM,W,25-29,40.07,Julie L Overcashier,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,30-34,34.61,Belle A Forino,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,30-34,41.49,Erin Fitzhugh,,Coral Springs Last Chance LCM,2008,2
+LYTA,100 M Freestyle,LCM,W,30-34,1:20.04,Belle A Forino,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Backstroke,LCM,W,30-34,40.61,Belle A Forino,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,35-39,32.57,LeAnn H Matsumura,,June Krauser Summer Splash I LCM,2008,1
+LYTA,400 M Freestyle,LCM,W,35-39,5:58.23,Suzanne R Dearworth,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Backstroke,LCM,W,35-39,43.36,Suzanne R Dearworth,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Backstroke,LCM,W,35-39,1:34.01,Suzanne R Dearworth,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Breaststroke,LCM,W,35-39,42.22,LeAnn H Matsumura,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Breaststroke,LCM,W,35-39,44.59,Suzanne R Dearworth,,Coral Springs Last Chance LCM,2008,2
+LYTA,100 M Breaststroke,LCM,W,35-39,1:34.71,LeAnn H Matsumura,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Butterfly,LCM,W,35-39,36.88,LeAnn H Matsumura,,Coral Springs Last Chance LCM,2008,1
+LYTA,200 M Individual Medley,LCM,W,35-39,3:10.12,Suzanne R Dearworth,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,45-49,35.83,Molly Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,45-49,42.50,Linda M Miller,,Coral Springs Last Chance LCM,2008,2
+LYTA,100 M Freestyle,LCM,W,45-49,1:20.65,Molly Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Freestyle,LCM,W,45-49,1:37.56,Linda M Miller,,Coral Springs Last Chance LCM,2008,2
+LYTA,200 M Freestyle,LCM,W,45-49,3:01.39,Molly Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,400 M Freestyle,LCM,W,45-49,6:28.14,Molly Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,W,60-64,37.55,Jeannie R Mitchell,,Cocoa (Florida) YMCA LCM,2008,1
+LYTA,100 M Freestyle,LCM,W,60-64,1:30.64,Jeannie R Mitchell,,Cocoa (Florida) YMCA LCM,2008,1
+LYTA,200 M Freestyle,LCM,W,60-64,3:14.72,Jeannie R Mitchell,,Coral Springs Last Chance LCM,2008,1
+LYTA,400 M Freestyle,LCM,W,60-64,6:50.40,Jeannie R Mitchell,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Backstroke,LCM,W,60-64,42.89,Jeannie R Mitchell,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Backstroke,LCM,W,60-64,1:35.37,Jeannie R Mitchell,,Coral Springs Last Chance LCM,2008,1
+LYTA,200 M Backstroke,LCM,W,60-64,3:28.78,Jeannie R Mitchell,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Breaststroke,LCM,W,60-64,51.46,Jeannie R Mitchell,,Cocoa (Florida) YMCA LCM,2008,1
+LYTA,50 M Butterfly,LCM,W,60-64,51.49,Jeannie R Mitchell,,June Krauser Summer Splash I LCM,2008,1
+LYTA,100 M Freestyle,LCM,M,25-29,1:04.76,Christopher J Wyckoff,,June Krauser Summer Splash I LCM,2008,1
+LYTA,400 M Freestyle,LCM,M,25-29,5:18.86,Christopher J Wyckoff,,June Krauser Summer Splash I LCM,2008,1
+LYTA,100 M Butterfly,LCM,M,25-29,1:16.14,Christopher J Wyckoff,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Freestyle,LCM,M,30-34,28.57,David A Naiman,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Freestyle,LCM,M,30-34,1:06.79,David A Naiman,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Butterfly,LCM,M,30-34,31.68,David A Naiman,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Butterfly,LCM,M,30-34,1:25.58,David A Naiman,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,M,45-49,29.70,Al Moreno,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Breaststroke,LCM,M,45-49,36.77,Al Moreno,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Butterfly,LCM,M,45-49,31.91,Al Moreno,,Coral Springs Last Chance LCM,2008,1
+LYTA,50 M Freestyle,LCM,M,50-54,30.88,Richard K Kingrey,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Freestyle,LCM,M,50-54,1:09.00,Dave Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Freestyle,LCM,M,50-54,1:14.24,Richard K Kingrey,,Coral Springs Last Chance LCM,2008,2
+LYTA,200 M Freestyle,LCM,M,50-54,2:38.92,Dave Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,400 M Freestyle,LCM,M,50-54,5:21.20,Mark G Braun,,Coral Springs Last Chance LCM,2008,1
+LYTA,400 M Freestyle,LCM,M,50-54,5:44.15,Dave Ragsdale,,Coral Springs Last Chance LCM,2008,2
+LYTA,800 M Freestyle,LCM,M,50-54,10:48.27,Mark G Braun,,June Krauser Summer Splash I LCM,2008,1
+LYTA,1500 M Freestyle,LCM,M,50-54,21:45.96,Mark G Braun,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Backstroke,LCM,M,50-54,43.49,Richard K Kingrey,,Coral Springs Last Chance LCM,2008,1
+LYTA,100 M Breaststroke,LCM,M,50-54,1:24.75,Mark G Braun,,Coral Springs Last Chance LCM,2008,1
+LYTA,200 M Breaststroke,LCM,M,50-54,3:05.73,Mark G Braun,,June Krauser Summer Splash I LCM,2008,1
+LYTA,50 M Butterfly,LCM,M,50-54,33.95,Dave Ragsdale,,Coral Springs Last Chance LCM,2008,1
+LYTA,200 M Butterfly,LCM,M,50-54,3:03.49,Mark G Braun,,June Krauser Summer Splash I LCM,2008,1
+PLAN,50 M Freestyle,LCM,M,35-39,26.86,Carlos I Ochoa,,Coral Springs Last Chance LCM,2008,1
+PLAN,100 M Freestyle,LCM,M,35-39,58.28,Carlos I Ochoa,,June Krauser Summer Splash I LCM,2008,1
+PLAN,400 M Freestyle,LCM,M,35-39,4:41.64,Carlos I Ochoa,,Coral Springs Last Chance LCM,2008,1
+PLAN,800 M Freestyle,LCM,M,35-39,9:56.93,Carlos I Ochoa,,June Krauser Summer Splash I LCM,2008,1
+PLAN,200 M Backstroke,LCM,M,35-39,2:34.05,Carlos I Ochoa,,June Krauser Summer Splash I LCM,2008,1
+TKAM,50 M Freestyle,LCM,M,65-69,42.89,Peter P Menendez,,June Krauser Summer Splash I LCM,2008,1
+TKAM,100 M Freestyle,LCM,M,65-69,1:40.23,Peter P Menendez,,June Krauser Summer Splash I LCM,2008,1
+TKAM,200 M Freestyle,LCM,M,65-69,3:59.81,Peter P Menendez,,June Krauser Summer Splash I LCM,2008,1
+TKAM,400 M Freestyle,LCM,M,65-69,7:48.68,Peter P Menendez,,June Krauser Summer Splash I LCM,2008,1
+UNAT,50 M Breaststroke,LCM,W,45-49,44.10,Carolyn F Kealty,,Coral Springs Last Chance LCM,2008,1
+UNAT,50 M Freestyle,LCM,M,30-34,30.94,Todd M Detrick,,Coral Springs Last Chance LCM,2008,1
+UNAT,100 M Freestyle,LCM,M,30-34,1:01.19,Keith Wiggans,,Coral Springs Last Chance LCM,2008,1
+UNAT,50 M Backstroke,LCM,M,30-34,32.86,Keith Wiggans,,Coral Springs Last Chance LCM,2008,1
+UNAT,100 M Backstroke,LCM,M,30-34,1:18.17,Keith Wiggans,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+UNAT,50 M Breaststroke,LCM,M,30-34,40.68,Todd M Detrick,,Cocoa (Florida) YMCA LCM,2008,1
+UNAT,100 M Breaststroke,LCM,M,30-34,1:16.51,Keith Wiggans,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+UNAT,200 M Breaststroke,LCM,M,30-34,2:57.55,Keith Wiggans,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+UNAT,100 M Butterfly,LCM,M,30-34,1:09.80,Keith Wiggans,,Coral Springs Last Chance LCM,2008,1
+UNAT,200 M Individual Medley,LCM,M,30-34,2:30.81,Keith Wiggans,,Coral Springs Last Chance LCM,2008,1
+UNAT,400 M Individual Medley,LCM,M,30-34,5:33.78,Keith Wiggans,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+UNAT,200 M Freestyle,LCM,M,35-39,2:23.73,Ramses Rodriguez,,June Krauser Summer Splash I LCM,2008,1
+UNAT,200 M Individual Medley,LCM,M,35-39,2:42.54,Ramses Rodriguez,,June Krauser Summer Splash I LCM,2008,1
+UNAT,50 M Freestyle,LCM,M,40-44,30.30,Sergio M Farias,,Coral Springs Last Chance LCM,2008,1
+UNAT,50 M Freestyle,LCM,M,40-44,35.14,Matthew Masemore,,Coral Springs Last Chance LCM,2008,2
+UNAT,100 M Freestyle,LCM,M,40-44,1:20.74,Matthew Masemore,,Coral Springs Last Chance LCM,2008,1
+UNAT,200 M Freestyle,LCM,M,40-44,3:11.92,Matthew Masemore,,Coral Springs Last Chance LCM,2008,1
+UNAT,400 M Freestyle,LCM,M,40-44,6:59.25,Matthew Masemore,,Coral Springs Last Chance LCM,2008,1
+UNAT,50 M Breaststroke,LCM,M,40-44,46.89,Sergio M Farias,,Coral Springs Last Chance LCM,2008,1
+UNAT,50 M Freestyle,LCM,M,55-59,36.55,William H Highsmith,,YMCA Norris Invite at Naples LCM,2008,1
+UNAT,100 M Freestyle,LCM,M,55-59,1:23.83,William H Highsmith,,Goodlife Games at Clearwater,2008,1
+UNAT,200 M Freestyle,LCM,M,55-59,3:11.90,William H Highsmith,,Goodlife Games at Clearwater,2008,1
+UNAT,400 M Freestyle,LCM,M,55-59,6:50.45,William H Highsmith,,Goodlife Games at Clearwater,2008,1
+UNAT,800 M Freestyle,LCM,M,55-59,13:35.01,William H Highsmith,,YMCA Norris Invite at Naples LCM,2008,1
+UNAT,1500 M Freestyle,LCM,M,55-59,27:56.82,William H Highsmith,,St. Petes Masters LCM,2008,1
+UNAT,100 M Backstroke,LCM,M,55-59,2:06.90,William H Highsmith,,Bumpy Jones Classic LCM,2008,1
+UNAT,200 M Backstroke,LCM,M,55-59,4:37.38,William H Highsmith,,St. Petes Masters LCM,2008,1
+UNAT,50 M Breaststroke,LCM,M,55-59,52.13,William H Highsmith,,YMCA Norris Invite at Naples LCM,2008,1
+UNAT,100 M Breaststroke,LCM,M,55-59,2:00.98,William H Highsmith,,YMCA Norris Invite at Naples LCM,2008,1
+UNAT,200 M Breaststroke,LCM,M,55-59,4:13.97,William H Highsmith,,YMCA Norris Invite at Naples LCM,2008,1
+UNAT,50 M Butterfly,LCM,M,55-59,47.17,William H Highsmith,,Goodlife Games at Clearwater,2008,1
+UNAT,200 M Individual Medley,LCM,M,55-59,4:08.87,William H Highsmith,,Coral Springs Last Chance LCM,2008,1
+UNAT,50 M Freestyle,LCM,M,65-69,45.49,Isaac Galarza,,Coral Springs Last Chance LCM,2008,1
+UNAT,100 M Freestyle,LCM,M,65-69,1:39.05,Isaac Galarza,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+UNAT,200 M Freestyle,LCM,M,65-69,3:45.01,Isaac Galarza,,Florida Gold Hammerhead Aquatics Worlds Tune-Up LCM,2008,1
+UNAT,50 M Breaststroke,LCM,M,65-69,1:04.59,Isaac Galarza,,Coral Springs Last Chance LCM,2008,1
+UNAT,100 M Breaststroke,LCM,M,65-69,2:30.31,Isaac Galarza,,Coral Springs Last Chance LCM,2008,1
+WMT,400 M Freestyle,LCM,M,40-44,5:24.26,Brad D Miller,,June Krauser Summer Splash I LCM,2008,1
+WMT,200 M Backstroke,LCM,M,40-44,2:43.82,Brad D Miller,,June Krauser Summer Splash I LCM,2008,1
+WMT,400 M Individual Medley,LCM,M,40-44,5:52.79,Brad D Miller,,June Krauser Summer Splash I LCM,2008,1
