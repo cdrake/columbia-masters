@@ -1,0 +1,600 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BIMC,50 M Freestyle,LCM,W,25-29,44.86,Lauren Rubin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+BIMC,200 M Freestyle,LCM,W,25-29,3:39.88,Lauren Rubin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Freestyle,LCM,W,18-24,29.47,Dawn R Jason,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,50 M Freestyle,LCM,W,18-24,30.14,Gia C Wright,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Freestyle,LCM,W,18-24,30.99,Camille R Wright,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Freestyle,LCM,W,18-24,32.41,Katharine T Wenzel,,2007 USMS Long Course Nationals,2007,4
+FLAQ,50 M Freestyle,LCM,W,18-24,32.91,Emily M Quatromoni,,2007 USMS Long Course Nationals,2007,5
+FLAQ,50 M Freestyle,LCM,W,18-24,36.24,Severine Marechal,,2nd Annual June Krauser Summer Series 1 LCM,2007,6
+FLAQ,100 M Freestyle,LCM,W,18-24,1:01.82,Dawn R Jason,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Freestyle,LCM,W,18-24,1:08.00,Katharine T Wenzel,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Freestyle,LCM,W,18-24,1:12.61,Emily M Quatromoni,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Freestyle,LCM,W,18-24,1:13.61,Severine M Marechal,,2007 USMS Long Course Nationals,2007,4
+FLAQ,200 M Freestyle,LCM,W,18-24,2:27.80,Katharine T Wenzel,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Freestyle,LCM,W,18-24,5:19.27,Katharine T Wenzel,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Freestyle,LCM,W,18-24,5:35.24,Laurie McFarlane,,2007 USMS Long Course Nationals,2007,2
+FLAQ,400 M Freestyle,LCM,W,18-24,5:56.05,Severine M Marechal,,2007 USMS Long Course Nationals,2007,3
+FLAQ,800 M Freestyle,LCM,W,18-24,11:16.24,Katharine T Wenzel,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,W,18-24,32.90,Dawn R Jason,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,W,18-24,36.80,Gia C Wright,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Backstroke,LCM,W,18-24,37.43,Camille R Wright,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Backstroke,LCM,W,18-24,1:10.15,Dawn R Jason,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Backstroke,LCM,W,18-24,2:26.31,Dawn R Jason,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,W,18-24,36.49,Gia C Wright,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,W,18-24,39.20,Camille R Wright,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Breaststroke,LCM,W,18-24,39.73,Emily M Quatromoni,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Breaststroke,LCM,W,18-24,40.68,Katharine T Wenzel,,2007 USMS Long Course Nationals,2007,4
+FLAQ,50 M Breaststroke,LCM,W,18-24,42.38,Severine M Marechal,,2007 USMS Long Course Nationals,2007,5
+FLAQ,100 M Breaststroke,LCM,W,18-24,1:19.95,Gia C Wright,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,W,18-24,1:27.22,Camille R Wright,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Breaststroke,LCM,W,18-24,1:29.52,Emily M Quatromoni,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Breaststroke,LCM,W,18-24,1:33.17,Severine M Marechal,,2007 USMS Long Course Nationals,2007,4
+FLAQ,200 M Breaststroke,LCM,W,18-24,2:53.69,Gia C Wright,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,W,18-24,3:07.63,Camille R Wright,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Breaststroke,LCM,W,18-24,3:18.26,Emily M Quatromoni,,2007 USMS Long Course Nationals,2007,3
+FLAQ,200 M Breaststroke,LCM,W,18-24,3:23.13,Severine M Marechal,,2007 USMS Long Course Nationals,2007,4
+FLAQ,50 M Butterfly,LCM,W,18-24,32.71,Gia C Wright,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,18-24,34.37,Camille R Wright,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Butterfly,LCM,W,18-24,37.41,Laurie McFarlane,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Butterfly,LCM,W,18-24,37.79,Severine M Marechal,,2007 USMS Long Course Nationals,2007,4
+FLAQ,100 M Butterfly,LCM,W,18-24,1:23.56,Laurie McFarlane,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Butterfly,LCM,W,18-24,3:01.38,Laurie McFarlane,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,18-24,2:32.50,Dawn R Jason,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,18-24,3:00.93,Laurie McFarlane,,2007 USMS Long Course Nationals,2007,2
+FLAQ,400 M Individual Medley,LCM,W,18-24,5:16.12,Dawn R Jason,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Individual Medley,LCM,W,18-24,6:16.37,Laurie McFarlane,,2007 USMS Long Course Nationals,2007,2
+FLAQ,400 M Individual Medley,LCM,W,18-24,7:04.25,Emily M Quatromoni,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Freestyle,LCM,W,25-29,30.02,Jennifer M Martin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,W,25-29,30.48,Lisa McLuckie,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,50 M Freestyle,LCM,W,25-29,30.74,Carolan A Cross,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Freestyle,LCM,W,25-29,31.80,Katie M Byrnes,,2007 USMS Long Course Nationals,2007,4
+FLAQ,50 M Freestyle,LCM,W,25-29,32.76,Vanessa Aron,,2007 USMS Long Course Nationals Splits Only,2007,5
+FLAQ,50 M Freestyle,LCM,W,25-29,49.43,Tricia Paolucci,,2nd Annual June Krauser Summer Series 1 LCM,2007,6
+FLAQ,100 M Freestyle,LCM,W,25-29,1:07.80,Lauren B Kafin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Freestyle,LCM,W,25-29,1:07.81,Carolan A Cross,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Freestyle,LCM,W,25-29,1:08.41,Katie M Byrnes,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Freestyle,LCM,W,25-29,1:11.04,Lisa McLuckie,,2nd Annual June Krauser Summer Series 1 LCM,2007,4
+FLAQ,100 M Freestyle,LCM,W,25-29,1:12.29,Vanessa Aron,,2007 USMS Long Course Nationals,2007,5
+FLAQ,200 M Freestyle,LCM,W,25-29,2:29.53,Katie M Byrnes,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,W,25-29,2:30.98,Carolan A Cross,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Freestyle,LCM,W,25-29,2:39.53,Vanessa Aron,,2007 USMS Long Course Nationals,2007,3
+FLAQ,400 M Freestyle,LCM,W,25-29,5:40.36,Vanessa Aron,,2007 USMS Long Course Nationals,2007,1
+FLAQ,800 M Freestyle,LCM,W,25-29,11:53.07,Vanessa Aron,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,1500 M Freestyle,LCM,W,25-29,22:14.55,Vanessa Aron,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,W,25-29,33.96,Katie M Byrnes,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,50 M Backstroke,LCM,W,25-29,36.55,Jennifer M Martin,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Backstroke,LCM,W,25-29,37.66,Carolan A Cross,,2007 USMS Long Course Nationals Splits Only,2007,3
+FLAQ,100 M Backstroke,LCM,W,25-29,1:13.81,Katie M Byrnes,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,W,25-29,1:24.38,Carolan A Cross,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Backstroke,LCM,W,25-29,2:39.12,Katie M Byrnes,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Backstroke,LCM,W,25-29,2:58.20,Carolan A Cross,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Breaststroke,LCM,W,25-29,37.89,Lauren B Kafin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,W,25-29,39.42,Jennifer M Martin,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Breaststroke,LCM,W,25-29,41.56,Lisa McLuckie,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+FLAQ,100 M Breaststroke,LCM,W,25-29,1:21.65,Lauren B Kafin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,W,25-29,1:30.53,Lisa McLuckie,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,200 M Breaststroke,LCM,W,25-29,2:58.67,Lauren B Kafin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,25-29,32.91,Jennifer M Martin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,25-29,38.48,Vanessa Aron,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Individual Medley,LCM,W,25-29,2:42.85,Lauren B Kafin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Individual Medley,LCM,W,25-29,6:01.33,Lauren B Kafin,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,W,30-34,33.18,Christine McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Freestyle,LCM,W,30-34,34.41,Danielle Moran,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Freestyle,LCM,W,30-34,1:13.17,Christine McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Freestyle,LCM,W,30-34,1:14.59,Danielle Moran,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Freestyle,LCM,W,30-34,2:26.78,Amy Armond,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Freestyle,LCM,W,30-34,2:43.29,Meredith Novack,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,400 M Freestyle,LCM,W,30-34,5:43.61,Danielle Moran,,2007 USMS Long Course Nationals,2007,1
+FLAQ,800 M Freestyle,LCM,W,30-34,11:31.49,Meredith A Novack,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,W,30-34,38.61,Meredith A Novack,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,W,30-34,3:21.20,Meredith A Novack,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,30-34,34.77,Christine McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Butterfly,LCM,W,30-34,1:13.71,Amy Armond,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Butterfly,LCM,W,30-34,1:35.55,Danielle Moran,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Butterfly,LCM,W,30-34,3:04.66,Meredith A Novack,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,30-34,2:55.55,Meredith A Novack,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Individual Medley,LCM,W,30-34,6:13.23,Meredith A Novack,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,W,35-39,3:07.88,Jennifer Hulett,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,800 M Freestyle,LCM,W,35-39,13:38.31,Jennifer Hulett,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Backstroke,LCM,W,35-39,35.53,Jennifer A Hulett,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,W,35-39,1:21.04,Jennifer A Hulett,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,W,35-39,1:46.75,Tricia Bondurant,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,200 M Backstroke,LCM,W,35-39,2:59.98,Jennifer A Hulett,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,35-39,35.17,Jennifer A Hulett,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,W,40-44,38.12,Sarah L Bennett,,St Pete Masters LCM Champs,2007,1
+FLAQ,100 M Freestyle,LCM,W,40-44,1:26.15,Sarah L Bennett,,St Pete Masters LCM Champs,2007,1
+FLAQ,200 M Freestyle,LCM,W,40-44,3:18.98,Sarah L Bennett,,St Pete Masters LCM Champs,2007,1
+FLAQ,800 M Freestyle,LCM,W,40-44,12:42.40,Maria Tereza Paiva,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,W,40-44,25:22.48,Maria Tereza Paiva,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Backstroke,LCM,W,40-44,48.55,Sarah Bennett,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Backstroke,LCM,W,40-44,1:50.86,Sarah Bennett,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Backstroke,LCM,W,40-44,3:55.75,Sarah L Bennett,,St Pete Masters LCM Champs,2007,1
+FLAQ,50 M Breaststroke,LCM,W,40-44,43.53,Maria Tereza Paiva,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,W,40-44,49.86,Sarah Bennett,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,100 M Breaststroke,LCM,W,40-44,1:35.03,Maria Tereza Paiva,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,W,40-44,1:42.65,Alexandra E Rivas,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Breaststroke,LCM,W,40-44,1:49.42,Sarah L Bennett,,St Pete Masters LCM Champs,2007,3
+FLAQ,200 M Breaststroke,LCM,W,40-44,3:21.49,Maria Tereza Paiva,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,W,40-44,3:43.35,Alexandra E Rivas,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Breaststroke,LCM,W,40-44,3:52.28,Sarah L Bennett,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Butterfly,LCM,W,40-44,1:24.35,Alexandra E Rivas,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Butterfly,LCM,W,40-44,3:15.77,Alexandra E Rivas,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,40-44,3:05.98,Maria Tereza Paiva,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,40-44,3:48.80,Sarah L Bennett,,St Pete Masters LCM Champs,2007,2
+FLAQ,400 M Individual Medley,LCM,W,40-44,6:38.56,Maria Tereza Paiva,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Individual Medley,LCM,W,40-44,8:03.86,Sarah L Bennett,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Freestyle,LCM,W,45-49,32.19,Ann B Thomas,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,W,45-49,39.44,Adrienne Chin-Ogilvie,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Freestyle,LCM,W,45-49,39.66,Ellen Itzler,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+FLAQ,100 M Freestyle,LCM,W,45-49,1:29.68,Adrienne Chin-Ogilvie,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,W,45-49,2:51.33,Ann B Thomas,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,W,45-49,3:25.77,Ellen Itzler,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,800 M Freestyle,LCM,W,45-49,13:11.59,Ann Thomas,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,W,45-49,26:48.11,Ann Thomas,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,W,45-49,29:41.66,Adrienne Chin-Ogilvie,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Backstroke,LCM,W,45-49,45.59,Ann Thomas,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,100 M Backstroke,LCM,W,45-49,2:15.62,Adrienne Chin-Ogilvie,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Backstroke,LCM,W,45-49,4:45.13,Adrienne Chin-Ogilvie,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,W,45-49,46.65,Adrienne Chin-Ogilvie,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Breaststroke,LCM,W,45-49,51.53,Ellen Itzler,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,100 M Breaststroke,LCM,W,45-49,1:44.37,Adrienne Chin-Ogilvie,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,W,45-49,1:50.64,Ellen Itzler,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,200 M Breaststroke,LCM,W,45-49,3:46.37,Adrienne Chin-Ogilvie,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,45-49,39.22,Ann B Thomas,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Butterfly,LCM,W,45-49,1:33.56,Ann B Thomas,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,45-49,3:27.90,Ann Thomas,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,400 M Freestyle,LCM,W,50-54,8:34.33,Tiziana Cocci,,2007 USMS Long Course Nationals,2007,1
+FLAQ,1500 M Freestyle,LCM,W,50-54,29:35.89,Jeanne Sather,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,W,50-54,36:06.09,Tiziana Cocci,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Freestyle,LCM,W,55-59,53.79,Anita Mitchell,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,800 M Freestyle,LCM,W,55-59,19:54.61,Anita Mitchell,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Breaststroke,LCM,W,55-59,2:29.17,Anita Mitchell,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Freestyle,LCM,W,60-64,36.48,Linda Webb,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Freestyle,LCM,W,60-64,1:26.80,Linda Webb,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Freestyle,LCM,W,60-64,3:21.12,Linda Webb,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,400 M Freestyle,LCM,W,60-64,7:23.60,Linda Webb,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,800 M Freestyle,LCM,W,60-64,14:24.60,Linda Webb,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,W,60-64,28:31.73,Linda Webb,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Breaststroke,LCM,W,60-64,47.63,Linda Webb,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,100 M Breaststroke,LCM,W,60-64,1:46.58,Linda Webb,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,W,60-64,3:53.01,Linda Webb,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,W,60-64,44.43,Linda Webb,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,W,60-64,3:43.12,Linda Webb,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,18-24,24.39,Leif H Lyons,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,18-24,25.70,Perry W Bullock,,2007 USMS Long Course Nationals Splits Only,2007,2
+FLAQ,50 M Freestyle,LCM,M,18-24,25.73,Michael A Solley,,2007 USMS Long Course Nationals Splits Only,2007,3
+FLAQ,50 M Freestyle,LCM,M,18-24,25.78,Adam J Hosking,,2007 USMS Long Course Nationals,2007,4
+FLAQ,50 M Freestyle,LCM,M,18-24,27.84,Carroll C Bullock,,2nd Annual June Krauser Summer Series 1 LCM,2007,5
+FLAQ,100 M Freestyle,LCM,M,18-24,53.93,Leif H Lyons,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Freestyle,LCM,M,18-24,56.97,Adam J Hosking,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Freestyle,LCM,M,18-24,58.48,Michael A Solley,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Freestyle,LCM,M,18-24,58.70,Carroll C Bullock,,2nd Annual June Krauser Summer Series 1 LCM,2007,4
+FLAQ,200 M Freestyle,LCM,M,18-24,1:55.65,Hyun Seung Lee,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,M,18-24,2:12.40,Carroll C Bullock,,2007 USMS Long Course Nationals,2007,2
+FLAQ,400 M Freestyle,LCM,M,18-24,4:04.68,Hyun Seung Lee,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Freestyle,LCM,M,18-24,4:39.30,Carroll C Bullock,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Backstroke,LCM,M,18-24,27.40,Leif H Lyons,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,50 M Backstroke,LCM,M,18-24,29.49,Adam J Hosking,,2007 USMS Long Course Nationals Splits Only,2007,2
+FLAQ,50 M Backstroke,LCM,M,18-24,30.20,Perry Bullock,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+FLAQ,50 M Backstroke,LCM,M,18-24,31.26,Carroll C Bullock,,2007 USMS Long Course Nationals Splits Only,2007,4
+FLAQ,100 M Backstroke,LCM,M,18-24,58.92,Leif H Lyons,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,M,18-24,1:04.76,Perry W Bullock,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Backstroke,LCM,M,18-24,1:07.31,Adam J Hosking,,2007 USMS Long Course Nationals,2007,3
+FLAQ,200 M Backstroke,LCM,M,18-24,2:26.27,Perry Bullock,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Breaststroke,LCM,M,18-24,32.01,Perry W Bullock,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,M,18-24,33.52,Michael A Solley,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Breaststroke,LCM,M,18-24,1:12.90,Perry W Bullock,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,M,18-24,1:13.02,Carroll C Bullock,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Breaststroke,LCM,M,18-24,1:14.76,Michael A Solley,,2007 USMS Long Course Nationals,2007,3
+FLAQ,200 M Breaststroke,LCM,M,18-24,2:43.47,Carroll C Bullock,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,M,18-24,2:44.59,Michael A Solley,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Butterfly,LCM,M,18-24,25.70,Leif H Lyons,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,M,18-24,26.27,Hyun Seung Lee,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Butterfly,LCM,M,18-24,27.49,Adam J Hosking,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Butterfly,LCM,M,18-24,28.21,Carroll C Bullock,,2nd Annual June Krauser Summer Series 1 LCM,2007,4
+FLAQ,50 M Butterfly,LCM,M,18-24,29.39,Michael A Solley,,2007 USMS Long Course Nationals,2007,5
+FLAQ,100 M Butterfly,LCM,M,18-24,56.16,Hyun Seung Lee,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Butterfly,LCM,M,18-24,56.70,Leif H Lyons,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Butterfly,LCM,M,18-24,1:03.27,Adam J Hosking,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Butterfly,LCM,M,18-24,1:03.44,Carroll C Bullock,,2007 USMS Long Course Nationals,2007,4
+FLAQ,200 M Butterfly,LCM,M,18-24,2:08.62,Hyun Seung Lee,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Butterfly,LCM,M,18-24,2:15.64,Perry W Bullock,,2007 USMS Long Course Nationals,2007,2
+FLAQ,200 M Individual Medley,LCM,M,18-24,2:19.72,Perry W Bullock,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Individual Medley,LCM,M,18-24,4:53.88,Perry W Bullock,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,25-29,24.65,Jay Jung,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,25-29,31.17,Kennon Williams,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,100 M Freestyle,LCM,M,25-29,56.57,Jay Jung,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,M,25-29,2:15.10,Eric Swanson,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,400 M Freestyle,LCM,M,25-29,5:50.90,Kennon B Williams,,2007 USMS Long Course Nationals,2007,1
+FLAQ,800 M Freestyle,LCM,M,25-29,12:35.54,Kennon B Williams,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,1500 M Freestyle,LCM,M,25-29,24:07.57,Kennon B Williams,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,M,25-29,31.10,Jay Jung,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,M,25-29,1:09.93,Jay Jung,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,M,25-29,1:11.17,Eric Swanson,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Breaststroke,LCM,M,25-29,41.26,Kennon Williams,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Breaststroke,LCM,M,25-29,1:30.95,Kennon B Williams,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,M,25-29,3:28.67,Kennon B Williams,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,M,25-29,26.17,Jay Jung,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Butterfly,LCM,M,25-29,1:02.63,Jay Jung,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Butterfly,LCM,M,25-29,1:09.21,Eric Swanson,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Freestyle,LCM,M,30-34,27.21,Michael C Schwebel,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,200 M Freestyle,LCM,M,30-34,2:09.55,Matt Hooper,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,400 M Freestyle,LCM,M,30-34,4:23.47,Matt Hooper,,2007 USMS Long Course Nationals,2007,1
+FLAQ,800 M Freestyle,LCM,M,30-34,9:23.18,Matt Hooper,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,M,30-34,17:40.99,Matt Hooper,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,M,30-34,30.52,Matt Hooper,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,100 M Backstroke,LCM,M,30-34,1:04.63,Matt Hooper,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Backstroke,LCM,M,30-34,2:20.64,Matt Hooper,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,M,30-34,28.31,Michael C Schwebel,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,100 M Butterfly,LCM,M,30-34,1:00.91,Matt Hooper,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Butterfly,LCM,M,30-34,2:16.07,Matt Hooper,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Individual Medley,LCM,M,30-34,4:59.52,Matt Hooper,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,35-39,27.32,Stephen A Andreades,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,100 M Freestyle,LCM,M,35-39,1:00.14,Stephen A Andreades,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,M,35-39,2:13.71,Stephen A Andreades,,2007 USMS Long Course Nationals,2007,1
+FLAQ,400 M Freestyle,LCM,M,35-39,4:50.48,Stephen A Andreades,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,M,35-39,35.52,Stephen Andreades,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,100 M Backstroke,LCM,M,35-39,1:20.27,Stephen Andreades,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Breaststroke,LCM,M,35-39,40.73,Stephen Andreades,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Butterfly,LCM,M,35-39,30.58,Stephen A Andreades,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Butterfly,LCM,M,35-39,1:22.57,Stephen Andreades,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Individual Medley,LCM,M,35-39,2:35.96,Stephen A Andreades,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,40-44,26.31,Kevin P Semisch,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,40-44,27.87,Duffy Dillon,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Freestyle,LCM,M,40-44,27.88,Scot H Weiss,,2007 USMS Long Course Nationals,2007,3
+FLAQ,50 M Freestyle,LCM,M,40-44,28.08,Alex Blavatnik,,2007 USMS Long Course Nationals,2007,4
+FLAQ,50 M Freestyle,LCM,M,40-44,30.54,Karsten Kalthoff,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,5
+FLAQ,50 M Freestyle,LCM,M,40-44,33.46,Jim McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,6
+FLAQ,100 M Freestyle,LCM,M,40-44,58.43,Kevin P Semisch,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Freestyle,LCM,M,40-44,1:00.78,Peer Snoep,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,100 M Freestyle,LCM,M,40-44,1:03.45,Alex Blavatnik,,2007 USMS Long Course Nationals,2007,3
+FLAQ,100 M Freestyle,LCM,M,40-44,1:17.59,Jim McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,4
+FLAQ,200 M Freestyle,LCM,M,40-44,2:25.06,Alex Blavatnik,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,M,40-44,2:50.95,Jim McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,800 M Freestyle,LCM,M,40-44,13:13.62,Jim McCrady,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Backstroke,LCM,M,40-44,31.86,Peer Snoep,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Backstroke,LCM,M,40-44,1:14.89,Duffy Dillon,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Backstroke,LCM,M,40-44,3:00.09,Duffy Dillon,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,M,40-44,35.11,Alex Blavatnik,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,M,40-44,38.75,Karsten Kalthoff,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Breaststroke,LCM,M,40-44,39.11,Andy J Fischer,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+FLAQ,100 M Breaststroke,LCM,M,40-44,1:19.02,Alex Blavatnik,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,M,40-44,1:29.00,Karsten Kalthoff,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,200 M Breaststroke,LCM,M,40-44,3:00.98,Alex Blavatnik,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Breaststroke,LCM,M,40-44,3:05.11,Andy J Fischer,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Butterfly,LCM,M,40-44,28.80,Duffy Dillon,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Butterfly,LCM,M,40-44,30.26,Andy J Fischer,,2007 USMS Long Course Nationals,2007,2
+FLAQ,50 M Butterfly,LCM,M,40-44,33.65,Karsten Kalthoff,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+FLAQ,100 M Butterfly,LCM,M,40-44,1:07.50,Andy J Fischer,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Butterfly,LCM,M,40-44,2:30.42,Andy J Fischer,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,M,40-44,2:37.31,Andy J Fischer,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,M,40-44,3:05.82,Karsten Kalthoff,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,400 M Individual Medley,LCM,M,40-44,5:37.85,Andy J Fischer,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,45-49,30.86,Joe E Poe,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,45-49,31.69,John Driscoll,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Freestyle,LCM,M,45-49,36.13,Ray Mclaughlin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+FLAQ,100 M Freestyle,LCM,M,45-49,1:20.93,Ray Mclaughlin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,200 M Freestyle,LCM,M,45-49,2:23.97,Marty Hendrick,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,200 M Freestyle,LCM,M,45-49,3:03.79,Ray Mclaughlin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,800 M Freestyle,LCM,M,45-49,10:46.07,Marty Hendrick,,2007 USMS Long Course Nationals,2007,1
+FLAQ,800 M Freestyle,LCM,M,45-49,11:48.08,Sherif K Shaalan,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,1500 M Freestyle,LCM,M,45-49,21:33.21,Marty Hendrick,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,1500 M Freestyle,LCM,M,45-49,23:27.75,Sherif K Shaalan,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,50 M Backstroke,LCM,M,45-49,33.96,Marty Hendrick,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Backstroke,LCM,M,45-49,1:12.20,Marty Hendrick,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Backstroke,LCM,M,45-49,2:35.26,Marty Hendrick,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Breaststroke,LCM,M,45-49,40.20,Joe E Poe,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Breaststroke,LCM,M,45-49,1:27.14,Marty Hendrick,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Butterfly,LCM,M,45-49,32.61,Breck Ballou,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Butterfly,LCM,M,45-49,36.14,John Driscoll,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,100 M Butterfly,LCM,M,45-49,1:15.86,Breck Ballou,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,400 M Individual Medley,LCM,M,45-49,5:41.52,Marty Hendrick,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,50-54,27.88,Tim D Erickson,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,50-54,35.05,Michael Gleber,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Freestyle,LCM,M,50-54,37.18,Glenn Schrager,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+FLAQ,100 M Freestyle,LCM,M,50-54,1:00.84,Tim D Erickson,,PAN AM Masters Champs LCM,2007,1
+FLAQ,100 M Freestyle,LCM,M,50-54,1:20.57,Michael Gleber,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,100 M Freestyle,LCM,M,50-54,1:25.38,Glenn Schrager,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+FLAQ,200 M Freestyle,LCM,M,50-54,2:11.61,Tim D Erickson,,PAN AM Masters Champs LCM,2007,1
+FLAQ,400 M Freestyle,LCM,M,50-54,4:39.24,Tim D Erickson,,PAN AM Masters Champs LCM,2007,1
+FLAQ,800 M Freestyle,LCM,M,50-54,9:47.11,Tim D Erickson,,2007 USMS Long Course Nationals,2007,1
+FLAQ,1500 M Freestyle,LCM,M,50-54,20:18.28,Tim Erickson,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Backstroke,LCM,M,50-54,35.98,Tim D Erickson,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,50 M Backstroke,LCM,M,50-54,46.40,Glenn Schrager,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,50 M Breaststroke,LCM,M,50-54,41.41,Tim Erickson,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Breaststroke,LCM,M,50-54,48.44,Glenn Schrager,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+FLAQ,200 M Breaststroke,LCM,M,50-54,4:05.62,Michael Gleber,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Butterfly,LCM,M,50-54,1:05.75,Tim D Erickson,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Butterfly,LCM,M,50-54,2:30.86,Tim D Erickson,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Individual Medley,LCM,M,50-54,2:35.31,Tim D Erickson,,PAN AM Masters Champs LCM,2007,1
+FLAQ,400 M Individual Medley,LCM,M,50-54,5:32.99,Tim D Erickson,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,55-59,27.68,Bruce J Wigo,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,100 M Freestyle,LCM,M,55-59,1:03.01,Bruce J Wigo,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Freestyle,LCM,M,55-59,1:03.79,Randall Wilkins,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,200 M Freestyle,LCM,M,55-59,2:25.87,Randall Wilkins,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,50 M Backstroke,LCM,M,55-59,34.31,Bruce J Wigo,,2007 USMS Long Course Nationals Splits Only,2007,1
+FLAQ,100 M Backstroke,LCM,M,55-59,1:13.99,Randall Wilkins,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Breaststroke,LCM,M,55-59,48.37,Robert Jacobsohn,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,100 M Breaststroke,LCM,M,55-59,1:53.45,Robert Jacobsohn,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,200 M Breaststroke,LCM,M,55-59,4:09.47,Robert Jacobsohn,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Butterfly,LCM,M,55-59,35.08,Joseph Goulet,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Butterfly,LCM,M,55-59,1:20.67,Joseph Goulet,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,50 M Freestyle,LCM,M,60-64,34.38,Lars Pedersen,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,60-64,41.92,Francois van Niekerk,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+FLAQ,100 M Freestyle,LCM,M,60-64,1:19.85,Douglas T Buchan,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+FLAQ,100 M Freestyle,LCM,M,60-64,1:23.62,Lars Pedersen,,2007 USMS Long Course Nationals,2007,2
+FLAQ,100 M Freestyle,LCM,M,60-64,1:51.98,Francois J Van Niekerk,,St Pete Masters LCM Champs,2007,3
+FLAQ,200 M Freestyle,LCM,M,60-64,3:30.47,Lars Pedersen,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Backstroke,LCM,M,60-64,1:02.76,Francois J Van Niekerk,,St Pete Masters LCM Champs,2007,1
+FLAQ,50 M Breaststroke,LCM,M,60-64,1:27.48,Francois J Van Niekerk,,St Pete Masters LCM Champs,2007,1
+FLAQ,50 M Butterfly,LCM,M,60-64,28.79,Joel J Burns,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Butterfly,LCM,M,60-64,1:07.58,Joel J Burns,,2007 USMS Long Course Nationals,2007,1
+FLAQ,50 M Freestyle,LCM,M,65-69,35.51,James E Ward,,2007 USMS Long Course Nationals,2007,1
+FLAQ,100 M Freestyle,LCM,M,65-69,1:28.46,James E Ward,,2007 USMS Long Course Nationals,2007,1
+FLAQ,200 M Freestyle,LCM,M,65-69,3:26.86,James Ward,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+FLAQ,400 M Freestyle,LCM,M,65-69,7:47.77,James E Ward,,2007 USMS Long Course Nationals,2007,1
+FLAQ,800 M Freestyle,LCM,M,65-69,16:23.17,James E Ward,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Freestyle,LCM,W,30-34,1:00.67,Janel Lobur,,Bumpy Jones Classic LCM,2007,1
+GOLD,200 M Freestyle,LCM,W,30-34,2:13.25,Janel Lobur,,Bumpy Jones Classic LCM,2007,1
+GOLD,400 M Freestyle,LCM,W,30-34,4:46.77,Janel Lobur,,Bumpy Jones Classic LCM,2007,1
+GOLD,100 M Backstroke,LCM,W,30-34,1:11.53,Janel Lobur,,Bumpy Jones Classic LCM,2007,1
+GOLD,200 M Breaststroke,LCM,W,30-34,2:52.83,Janel Lobur,,Bumpy Jones Classic LCM,2007,1
+GOLD,50 M Butterfly,LCM,W,30-34,30.55,Janel Lobur,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Individual Medley,LCM,W,30-34,2:30.05,Janel Lobur,,Bumpy Jones Classic LCM,2007,1
+GOLD,400 M Individual Medley,LCM,W,30-34,5:20.29,Janel Lobur,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,W,35-39,31.43,Dale A LeClair,,Orlando YMCA LCM,2007,1
+GOLD,100 M Freestyle,LCM,W,35-39,1:09.10,Dale A LeClair,,Orlando YMCA LCM,2007,1
+GOLD,200 M Freestyle,LCM,W,35-39,2:32.34,Dale Leclair,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,400 M Freestyle,LCM,W,35-39,5:33.21,Dale A LeClair,,Orlando YMCA LCM,2007,1
+GOLD,50 M Backstroke,LCM,W,35-39,37.92,Dale A LeClair,,Orlando YMCA LCM,2007,1
+GOLD,100 M Backstroke,LCM,W,35-39,1:27.98,Dale A LeClair,,Orlando YMCA LCM,2007,1
+GOLD,400 M Individual Medley,LCM,W,35-39,6:35.59,Dale Leclair,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,W,45-49,30.30,Tanya M Hanson,,PAN AM Masters Champs LCM,2007,1
+GOLD,100 M Freestyle,LCM,W,45-49,1:06.11,Tanya M Hanson,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Freestyle,LCM,W,45-49,1:08.50,Barbara Milanese,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,200 M Freestyle,LCM,W,45-49,2:30.49,Barbara Milanese,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Freestyle,LCM,W,45-49,2:31.29,Tanya M Hanson,,PAN AM Masters Champs LCM,2007,2
+GOLD,400 M Freestyle,LCM,W,45-49,5:25.52,Debbie D Cavanaugh,,Orlando YMCA LCM,2007,1
+GOLD,800 M Freestyle,LCM,W,45-49,10:39.29,Kerri C Roussain,,2007 USMS Long Course Nationals Splits Only,2007,1
+GOLD,800 M Freestyle,LCM,W,45-49,10:50.45,Barbara Milanese,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Backstroke,LCM,W,45-49,36.93,Debbie Cavanaugh,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Backstroke,LCM,W,45-49,1:19.70,Debbie D Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,200 M Backstroke,LCM,W,45-49,2:49.99,Debbie D Cavanaugh,,Orlando YMCA LCM,2007,1
+GOLD,50 M Breaststroke,LCM,W,45-49,40.96,Debbie Cavanaugh,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Breaststroke,LCM,W,45-49,3:20.52,Debbie D Cavanaugh,,Orlando YMCA LCM,2007,1
+GOLD,50 M Butterfly,LCM,W,45-49,34.03,Tanya M Hanson,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Individual Medley,LCM,W,45-49,2:55.18,Debbie D Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,400 M Individual Medley,LCM,W,45-49,6:17.85,Debbie D Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,50 M Freestyle,LCM,W,50-54,32.25,Peggy H McDonnell,,2007 USMS Long Course Nationals Splits Only,2007,1
+GOLD,50 M Freestyle,LCM,W,50-54,36.86,Barbara Protzman,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,100 M Freestyle,LCM,W,50-54,1:10.93,Celia C Devanney,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Freestyle,LCM,W,50-54,2:33.71,Celia C Devanney,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Freestyle,LCM,W,50-54,3:02.94,Barbara Protzman,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,400 M Freestyle,LCM,W,50-54,5:25.70,Celia C Devanney,,2007 USMS Long Course Nationals,2007,1
+GOLD,800 M Freestyle,LCM,W,50-54,11:05.66,Celia C Devanney,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Backstroke,LCM,W,50-54,37.43,Peggy H McDonnell,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Backstroke,LCM,W,50-54,1:20.79,Peggy H McDonnell,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Backstroke,LCM,W,50-54,3:02.04,Peggy H McDonnell,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Breaststroke,LCM,W,50-54,41.48,Peggy H McDonnell,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Butterfly,LCM,W,50-54,33.92,Peggy H McDonnell,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Butterfly,LCM,W,50-54,37.17,Celia Devanney,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Butterfly,LCM,W,50-54,40.24,Barbara Protzman,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,100 M Butterfly,LCM,W,50-54,1:22.20,Celia C Devanney,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Butterfly,LCM,W,50-54,1:22.67,Peggy H McDonnell,,St Pete Masters LCM Champs,2007,2
+GOLD,100 M Butterfly,LCM,W,50-54,1:38.27,Barbara Protzman,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,200 M Butterfly,LCM,W,50-54,3:05.77,Celia C Devanney,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Individual Medley,LCM,W,50-54,2:56.31,Peggy H McDonnell,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Individual Medley,LCM,W,50-54,3:27.15,Barbara Protzman,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,400 M Individual Medley,LCM,W,50-54,6:29.84,Peggy H McDonnell,,Bumpy Jones Classic LCM,2007,1
+GOLD,400 M Individual Medley,LCM,W,50-54,7:19.80,Barbara Protzman,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Breaststroke,LCM,W,80-84,1:34.30,June Krauser,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Breaststroke,LCM,W,80-84,3:23.31,June Krauser,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Breaststroke,LCM,W,80-84,6:40.98,June Krauser,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Butterfly,LCM,W,80-84,1:19.08,June Krauser,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Butterfly,LCM,W,80-84,3:10.03,June Krauser,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Freestyle,LCM,M,18-24,33.38,Oscar Hernadez,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,18-24,38.16,Oscar Hernadez,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Butterfly,LCM,M,18-24,1:14.23,Nicholas Chow,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,25-29,34.76,Rodrigo Corcho,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,25-29,30.08,Rodrigo Corcho,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Freestyle,LCM,M,30-34,2:21.65,Roger Stoudt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Backstroke,LCM,M,30-34,1:13.17,Roger Stoudt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,35-39,27.41,Terry L Lage,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Freestyle,LCM,M,35-39,32.26,Humberto Nunez,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,50 M Freestyle,LCM,M,35-39,34.20,Jeff Sewell,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,50 M Freestyle,LCM,M,35-39,43.28,Michael Feldman,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,4
+GOLD,100 M Freestyle,LCM,M,35-39,59.48,Terry L Lage,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Freestyle,LCM,M,35-39,1:17.27,Humberto Nunez,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,200 M Freestyle,LCM,M,35-39,2:54.29,Everett Phillips,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Freestyle,LCM,M,35-39,3:15.19,Humberto Nunez,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,800 M Freestyle,LCM,M,35-39,13:36.38,Everett Phillips,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,35-39,35.50,Terry L Lage,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Breaststroke,LCM,M,35-39,43.28,Everett Phillips,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,50 M Breaststroke,LCM,M,35-39,43.65,Jeff Sewell,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,50 M Breaststroke,LCM,M,35-39,43.84,Humberto Nunez,,2nd Annual June Krauser Summer Series 1 LCM,2007,4
+GOLD,100 M Breaststroke,LCM,M,35-39,1:22.19,Terry L Lage,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Butterfly,LCM,M,35-39,36.96,Everett Phillips,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,100 M Butterfly,LCM,M,35-39,1:35.28,Everett Phillips,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Individual Medley,LCM,M,35-39,3:15.28,Everett Phillips,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,40-44,27.99,David W LeClair,,Orlando YMCA LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,40-44,29.23,Mark S Kowalak,,Orlando YMCA LCM,2007,2
+GOLD,50 M Freestyle,LCM,M,40-44,33.73,Brett Watts,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,100 M Freestyle,LCM,M,40-44,59.80,David W LeClair,,Orlando YMCA LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,40-44,1:07.99,Mark S Kowalak,,St Pete Masters LCM Champs,2007,2
+GOLD,100 M Freestyle,LCM,M,40-44,1:11.17,Scott M Tolomeo,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,200 M Freestyle,LCM,M,40-44,2:14.36,David W LeClair,,Orlando YMCA LCM,2007,1
+GOLD,200 M Freestyle,LCM,M,40-44,2:32.71,David Walley,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,400 M Freestyle,LCM,M,40-44,4:49.36,David W LeClair,,Orlando YMCA LCM,2007,1
+GOLD,50 M Backstroke,LCM,M,40-44,32.94,Larry E Caldwell,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Backstroke,LCM,M,40-44,36.70,Mark S Kowalak,,Orlando YMCA LCM,2007,2
+GOLD,50 M Backstroke,LCM,M,40-44,36.70,David W LeClair,,Orlando YMCA LCM,2007,3
+GOLD,100 M Backstroke,LCM,M,40-44,1:12.21,Larry E Caldwell,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Backstroke,LCM,M,40-44,1:20.75,Mark S Kowalak,,Orlando YMCA LCM,2007,2
+GOLD,200 M Backstroke,LCM,M,40-44,2:39.86,Larry E Caldwell,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Backstroke,LCM,M,40-44,3:05.11,Mark S Kowalak,,St Pete Masters LCM Champs,2007,2
+GOLD,50 M Breaststroke,LCM,M,40-44,37.10,Mark S Kowalak,,Orlando YMCA LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,40-44,38.34,David Walley,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Breaststroke,LCM,M,40-44,42.82,Brett Watts,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,50 M Breaststroke,LCM,M,40-44,43.44,David W LeClair,,Orlando YMCA LCM,2007,4
+GOLD,100 M Breaststroke,LCM,M,40-44,1:29.73,Mark Kowalak,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,100 M Breaststroke,LCM,M,40-44,1:33.73,Scott M Tolomeo,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,100 M Breaststroke,LCM,M,40-44,1:42.78,Brett Watts,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,50 M Butterfly,LCM,M,40-44,30.61,Larry E Caldwell,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Butterfly,LCM,M,40-44,30.84,David W LeClair,,Orlando YMCA LCM,2007,2
+GOLD,50 M Butterfly,LCM,M,40-44,33.07,Mark Kowalak,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,200 M Individual Medley,LCM,M,40-44,2:34.29,David W LeClair,,Orlando YMCA LCM,2007,1
+GOLD,200 M Individual Medley,LCM,M,40-44,2:42.98,Larry E Caldwell,,2007 USMS Long Course Nationals,2007,2
+GOLD,200 M Individual Medley,LCM,M,40-44,3:03.94,Mark S Kowalak,,St Pete Masters LCM Champs,2007,3
+GOLD,400 M Individual Medley,LCM,M,40-44,5:49.49,David Leclair,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,45-49,32.16,Steven Jacobson,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,45-49,1:00.21,Carlos Dolabella,,PAN AM Masters Champs LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,45-49,1:14.70,Steven Jacobson,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,400 M Freestyle,LCM,M,45-49,4:47.67,Carlos Dolabella,,PAN AM Masters Champs LCM,2007,1
+GOLD,800 M Freestyle,LCM,M,45-49,9:51.38,Carlos Dolabella,,PAN AM Masters Champs LCM,2007,1
+GOLD,800 M Freestyle,LCM,M,45-49,11:25.50,John Grzeszczak,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Backstroke,LCM,M,45-49,32.80,Fernando B Paiva,,PAN AM Masters Champs LCM,2007,1
+GOLD,100 M Backstroke,LCM,M,45-49,1:12.62,Fernando B Paiva,,PAN AM Masters Champs LCM,2007,1
+GOLD,200 M Backstroke,LCM,M,45-49,2:41.02,Fernando B Paiva,,PAN AM Masters Champs LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,45-49,43.37,Steven Jacobson,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Breaststroke,LCM,M,45-49,1:37.95,Steven Jacobson,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,45-49,32.90,John Grzeszczak,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,45-49,37.44,Steven Jacobson,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,50 M Freestyle,LCM,M,50-54,28.05,Steven A Pomerantz,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,50-54,31.13,Lars Ferron,,2007 USMS Long Course Nationals,2007,2
+GOLD,50 M Freestyle,LCM,M,50-54,32.37,Matthew P Gill,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,50 M Freestyle,LCM,M,50-54,37.51,Kendall Shoffner,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,4
+GOLD,50 M Freestyle,LCM,M,50-54,40.97,Robert Dzamba,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,5
+GOLD,100 M Freestyle,LCM,M,50-54,1:09.54,Lars Ferron,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Freestyle,LCM,M,50-54,1:12.93,Matthew P Gill,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,100 M Freestyle,LCM,M,50-54,1:46.84,Robert Dzamba,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,200 M Freestyle,LCM,M,50-54,2:39.85,Matthew P Gill,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,800 M Freestyle,LCM,M,50-54,12:03.34,Chris Burt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,800 M Freestyle,LCM,M,50-54,12:15.37,Matthew P Gill,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Backstroke,LCM,M,50-54,37.00,Chris Burt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Backstroke,LCM,M,50-54,1:18.72,Chris Burt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,50-54,40.96,Chris Burt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,50-54,47.03,Kendall Shoffner,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,50 M Butterfly,LCM,M,50-54,29.45,Steven A Pomerantz,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,50-54,31.29,Lars Ferron,,2007 USMS Long Course Nationals,2007,2
+GOLD,50 M Butterfly,LCM,M,50-54,34.81,Chris Burt,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,100 M Butterfly,LCM,M,50-54,1:11.09,Lars Ferron,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Freestyle,LCM,M,55-59,28.32,George L Schmidt,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Freestyle,LCM,M,55-59,33.69,Corky Wagner,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,100 M Freestyle,LCM,M,55-59,1:02.48,George L Schmidt,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Backstroke,LCM,M,55-59,33.82,George L Schmidt,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Backstroke,LCM,M,55-59,1:16.83,George L Schmidt,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Breaststroke,LCM,M,55-59,36.28,George L Schmidt,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Breaststroke,LCM,M,55-59,43.66,Corky Wagner,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,2
+GOLD,100 M Breaststroke,LCM,M,55-59,1:25.89,George Schmidt,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,55-59,30.66,George L Schmidt,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Freestyle,LCM,M,60-64,28.57,David Quiggin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,60-64,33.08,Roger L Parsons,,2007 USMS Long Course Nationals,2007,2
+GOLD,50 M Freestyle,LCM,M,60-64,33.88,Dick Brewer,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,3
+GOLD,100 M Freestyle,LCM,M,60-64,1:01.52,David Quiggin,,Orlando YMCA LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,60-64,1:15.56,Roger L Parsons,,2007 USMS Long Course Nationals,2007,2
+GOLD,100 M Freestyle,LCM,M,60-64,1:20.62,James R Mogal,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,200 M Freestyle,LCM,M,60-64,2:25.40,David Quiggin,,Orlando YMCA LCM,2007,1
+GOLD,200 M Freestyle,LCM,M,60-64,2:45.85,Roger L Parsons,,Bumpy Jones Classic LCM,2007,2
+GOLD,200 M Freestyle,LCM,M,60-64,2:55.75,Dick Brewer,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,400 M Freestyle,LCM,M,60-64,5:19.91,David Quiggin,,Orlando YMCA LCM,2007,1
+GOLD,800 M Freestyle,LCM,M,60-64,11:27.46,David Quiggin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,1500 M Freestyle,LCM,M,60-64,25:48.55,Dick Brewer,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Backstroke,LCM,M,60-64,35.70,David Quiggin,,Orlando YMCA LCM,2007,1
+GOLD,50 M Backstroke,LCM,M,60-64,39.62,Roger L Parsons,,Bumpy Jones Classic LCM,2007,2
+GOLD,50 M Backstroke,LCM,M,60-64,42.69,James R Mogal,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,100 M Backstroke,LCM,M,60-64,1:25.32,Roger L Parsons,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Backstroke,LCM,M,60-64,3:08.50,Roger L Parsons,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Backstroke,LCM,M,60-64,3:08.58,David Quiggin,,Orlando YMCA LCM,2007,2
+GOLD,200 M Backstroke,LCM,M,60-64,3:19.49,Gerry Delong,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,50 M Breaststroke,LCM,M,60-64,42.48,Dick Brewer,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,60-64,43.74,Roger L Parsons,,Bumpy Jones Classic LCM,2007,2
+GOLD,100 M Breaststroke,LCM,M,60-64,1:38.12,Dick Brewer,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,200 M Breaststroke,LCM,M,60-64,3:34.76,Dick Brewer,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,60-64,30.15,David Quiggin,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Butterfly,LCM,M,60-64,3:31.58,Gerry Delong,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,200 M Individual Medley,LCM,M,60-64,2:54.44,David Quiggin,,Orlando YMCA LCM,2007,1
+GOLD,400 M Individual Medley,LCM,M,60-64,6:56.00,Gerry Delong,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,65-69,33.43,Michael A Dively,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Freestyle,LCM,M,65-69,1:19.28,Michael A Dively,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Freestyle,LCM,M,65-69,3:02.84,Michael A Dively,,2007 USMS Long Course Nationals,2007,1
+GOLD,400 M Freestyle,LCM,M,65-69,7:00.67,Michael A Dively,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Freestyle,LCM,M,70-74,29.88,Cav Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,70-74,32.31,David R McIntyre,,2007 USMS Long Course Nationals,2007,2
+GOLD,50 M Freestyle,LCM,M,70-74,32.75,Bill D Dykstra,,2007 USMS Long Course Nationals,2007,3
+GOLD,100 M Freestyle,LCM,M,70-74,1:07.91,Cav Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,70-74,1:13.28,David R McIntyre,,2007 USMS Long Course Nationals,2007,2
+GOLD,200 M Freestyle,LCM,M,70-74,2:36.50,Cav Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,400 M Freestyle,LCM,M,70-74,6:04.67,Cav Cavanaugh,,Orlando YMCA LCM,2007,1
+GOLD,50 M Backstroke,LCM,M,70-74,38.42,David R McIntyre,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Backstroke,LCM,M,70-74,41.97,Bill D Dykstra,,2007 USMS Long Course Nationals Splits Only,2007,2
+GOLD,50 M Backstroke,LCM,M,70-74,43.24,Alan Rapperport,,2nd Annual June Krauser Summer Series 1 LCM,2007,3
+GOLD,50 M Backstroke,LCM,M,70-74,44.07,Cav Cavanaugh,,PAN AM Masters Champs LCM,2007,4
+GOLD,100 M Backstroke,LCM,M,70-74,1:31.75,David R McIntyre,,2007 USMS Long Course Nationals,2007,1
+GOLD,200 M Backstroke,LCM,M,70-74,3:23.11,Alan Rapperport,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,70-74,43.20,Cav Cavanaugh,,Orlando YMCA LCM,2007,1
+GOLD,200 M Individual Medley,LCM,M,70-74,3:20.75,Cav Cavanaugh,,PAN AM Masters Champs LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,75-79,36.49,Herb Kern,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,75-79,42.92,George Busse,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,100 M Freestyle,LCM,M,75-79,1:26.08,Herb Kern,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,75-79,1:41.09,George Busse,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,200 M Freestyle,LCM,M,75-79,3:15.39,Herb Kern,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,200 M Freestyle,LCM,M,75-79,3:48.95,George Busse,,2nd Annual June Krauser Summer Series 1 LCM,2007,2
+GOLD,400 M Freestyle,LCM,M,75-79,8:13.75,George Busse,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Butterfly,LCM,M,75-79,41.92,Herb Kern,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,100 M Butterfly,LCM,M,75-79,1:45.35,Herb Kern,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,200 M Butterfly,LCM,M,75-79,3:57.35,Herb Kern,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,200 M Individual Medley,LCM,M,75-79,3:36.49,Herb Kern,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,400 M Individual Medley,LCM,M,75-79,7:56.72,Herb Kern,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,85-89,55.49,Robert Spaulding,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,100 M Freestyle,LCM,M,85-89,2:17.60,Robert Spaulding,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,200 M Freestyle,LCM,M,85-89,5:53.95,Robert Spaulding,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Breaststroke,LCM,M,85-89,1:07.51,Robert Spaulding,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,100 M Breaststroke,LCM,M,85-89,2:54.56,Robert Spaulding,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+GOLD,50 M Freestyle,LCM,M,90-94,51.34,Ned E Smith,,2007 USMS Long Course Nationals,2007,1
+GOLD,100 M Freestyle,LCM,M,90-94,2:22.52,Ned E Smith,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Backstroke,LCM,M,90-94,1:22.01,Ned E Smith,,2007 USMS Long Course Nationals,2007,1
+GOLD,50 M Breaststroke,LCM,M,90-94,1:16.25,Ned E Smith,,2007 USMS Long Course Nationals,2007,1
+LYTA,50 M Freestyle,LCM,W,60-64,40.07,Jeannie R Mitchell,,St Pete Masters LCM Champs,2007,1
+LYTA,100 M Freestyle,LCM,W,60-64,1:24.72,Jeannie R Mitchell,,2007 USMS Long Course Nationals,2007,1
+LYTA,200 M Freestyle,LCM,W,60-64,3:09.82,Jeannie R Mitchell,,2007 USMS Long Course Nationals,2007,1
+LYTA,400 M Freestyle,LCM,W,60-64,6:56.30,Jeannie R Mitchell,,2007 USMS Long Course Nationals,2007,1
+LYTA,50 M Backstroke,LCM,W,60-64,42.58,Jeannie R Mitchell,,2007 USMS Long Course Nationals,2007,1
+LYTA,100 M Backstroke,LCM,W,60-64,1:36.66,Jeannie R Mitchell,,2007 USMS Long Course Nationals,2007,1
+LYTA,200 M Backstroke,LCM,W,60-64,3:29.18,Jeannie R Mitchell,,2007 USMS Long Course Nationals,2007,1
+LYTA,50 M Breaststroke,LCM,W,60-64,51.46,Jeannie R Mitchell,,St Pete Masters LCM Champs,2007,1
+LYTA,50 M Breaststroke,LCM,M,45-49,36.30,Al Moreno,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+LYTA,100 M Breaststroke,LCM,M,45-49,1:22.99,Al Moreno,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+LYTA,200 M Breaststroke,LCM,M,45-49,3:00.70,Al Moreno,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+LYTA,200 M Freestyle,LCM,M,50-54,2:29.23,Mark Braun,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+LYTA,800 M Freestyle,LCM,M,50-54,10:44.20,Mark G Braun,,2007 USMS Long Course Nationals,2007,1
+LYTA,1500 M Freestyle,LCM,M,50-54,20:55.04,Mark Braun,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+LYTA,200 M Breaststroke,LCM,M,50-54,3:01.94,Mark G Braun,,2007 USMS Long Course Nationals,2007,1
+LYTA,100 M Butterfly,LCM,M,50-54,1:13.52,Mark Braun,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+LYTA,200 M Butterfly,LCM,M,50-54,2:53.62,Mark Braun,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+PLAN,100 M Freestyle,LCM,W,30-34,1:07.52,Christine Manna,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+PLAN,200 M Freestyle,LCM,W,30-34,2:31.97,Christine Manna,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+PLAN,50 M Butterfly,LCM,W,30-34,34.74,Christine Manna,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+PLAN,100 M Butterfly,LCM,W,30-34,1:18.11,Christine Manna,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+PLAN,200 M Freestyle,LCM,M,35-39,2:09.42,Carlos Ochoa,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+PLAN,400 M Freestyle,LCM,M,35-39,4:39.15,Carlos Ochoa,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+PLAN,50 M Butterfly,LCM,M,35-39,30.26,Carlos Ochoa,,2nd Annual June Krauser Summer Series 1 LCM,2007,1
+PLAN,100 M Butterfly,LCM,M,35-39,1:06.29,Carlos Ochoa,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+UNAT,50 M Freestyle,LCM,W,40-44,38.18,Courtnay E Montgomery,,2007 USMS Long Course Nationals,2007,1
+UNAT,100 M Freestyle,LCM,W,40-44,1:27.69,Courtnay E Montgomery,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Backstroke,LCM,W,40-44,47.74,Courtnay E Montgomery,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Freestyle,LCM,M,30-34,28.88,Valdemar Revilla,,Bumpy Jones Classic LCM,2007,1
+UNAT,50 M Backstroke,LCM,M,30-34,33.71,Valdemar Revilla,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Breaststroke,LCM,M,30-34,34.22,Valdemar Revilla,,2007 USMS Long Course Nationals,2007,1
+UNAT,100 M Breaststroke,LCM,M,30-34,1:15.65,Valdemar Revilla,,2007 USMS Long Course Nationals,2007,1
+UNAT,200 M Breaststroke,LCM,M,30-34,2:46.18,Valdemar Revilla,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Butterfly,LCM,M,30-34,30.21,Valdemar Revilla,,St Pete Masters LCM Champs,2007,1
+UNAT,200 M Individual Medley,LCM,M,30-34,2:42.33,Valdemar Revilla,,Bumpy Jones Classic LCM,2007,1
+UNAT,50 M Freestyle,LCM,M,50-54,36.17,William H Highsmith,,Brandon Masters of Florida LCM Invite,2007,1
+UNAT,100 M Freestyle,LCM,M,50-54,1:25.58,William H Highsmith,,Brandon Masters of Florida LCM Invite,2007,1
+UNAT,200 M Freestyle,LCM,M,50-54,3:10.23,William H Highsmith,,Bumpy Jones Classic LCM,2007,1
+UNAT,400 M Freestyle,LCM,M,50-54,6:45.79,William H Highsmith,,Bumpy Jones Classic LCM,2007,1
+UNAT,800 M Freestyle,LCM,M,50-54,13:43.89,William H Highsmith,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+UNAT,50 M Backstroke,LCM,M,50-54,57.54,William H Highsmith,,Bumpy Jones Classic LCM,2007,1
+UNAT,50 M Breaststroke,LCM,M,50-54,53.61,William H Highsmith,,Florida Gold 2nd Annual June Krauser Summer Splash 2 LCM,2007,1
+UNAT,100 M Breaststroke,LCM,M,50-54,1:58.47,William H Highsmith,,Bumpy Jones Classic LCM,2007,1
