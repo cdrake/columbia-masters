@@ -90,5 +90,9 @@
   {
     "question": "Can I swim under COLM for USMS meets without being a member?",
     "answer": "Yes! If you’d like to swim under our team affiliation for a USMS meet, we’d love to welcome you! You’ll need to change your affiliation on your USMS account before registering for the meet. Whether you’re coming from out of town to visit family or friends or just looking for a team to compete with and join for relays, you’re welcome to swim meets with us. If you’d like to join us for an occasional practice, we have a guest drop-in option."
+  },
+  {
+    "question": "Can I ask an AI assistant (ChatGPT, Claude, Perplexity, etc.) about the team?",
+    "answer": "Yes! Our website is built so AI assistants can read our current practice schedule, upcoming events, FAQ, coaches, board, and team records directly from the site. Just mention columbiamastersswim.org in your question. Try one of these: “Using columbiamastersswim.org, when does COLM practice this week?” “What upcoming events does Columbia Masters Swim have? Check columbiamastersswim.org.” “What is the COLM team record for women 40-44 in the 100 freestyle, short course yards? Use columbiamastersswim.org/api/records.” “List the COLM team records for men's 50 yard events, using columbiamastersswim.org.” “How much does it cost to join COLM, and do I need a Drew Wellness Center membership? See columbiamastersswim.org.” Answers come from the same information on this website, but the AI can still make mistakes, so double-check anything important (like practice times) here on the site. Developers: see columbiamastersswim.org/llms.txt and columbiamastersswim.org/openapi.json."
   }
 ]
