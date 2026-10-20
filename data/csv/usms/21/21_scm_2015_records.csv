@@ -1,0 +1,431 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ABM,50 M Freestyle,SCM,W,18-24,29.16,Ashley Gladis,,2015 Sink or Swim Classic,2015,1
+ABM,50 M Backstroke,SCM,W,18-24,36.48,Ashley Gladis,,2015 Sink or Swim Classic,2015,1
+ABM,200 M Butterfly,SCM,W,18-24,2:44.00,Ashley Gladis,,2015 Sink or Swim Classic,2015,1
+ABM,50 M Freestyle,SCM,W,40-44,42.86,Nicole M Merson,,2015 Sink or Swim Classic,2015,1
+ABM,50 M Freestyle,SCM,W,40-44,53.50,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,2
+ABM,100 M Freestyle,SCM,W,40-44,1:56.62,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,200 M Freestyle,SCM,W,40-44,4:14.83,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,400 M Freestyle,SCM,W,40-44,8:57.02,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,800 M Freestyle,SCM,W,40-44,18:14.99,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,1500 M Freestyle,SCM,W,40-44,35:41.31,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,50 M Backstroke,SCM,W,40-44,53.85,Nicole M Merson,,2015 Sink or Swim Classic,2015,1
+ABM,100 M Backstroke,SCM,W,40-44,2:25.70,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,200 M Backstroke,SCM,W,40-44,5:21.90,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,50 M Breaststroke,SCM,W,40-44,1:04.48,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,100 M Breaststroke,SCM,W,40-44,2:23.83,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,200 M Breaststroke,SCM,W,40-44,4:57.50,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,50 M Butterfly,SCM,W,40-44,50.03,Nicole M Merson,,2015 Sink or Swim Classic,2015,1
+ABM,50 M Butterfly,SCM,W,40-44,1:00.37,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,2
+ABM,100 M Butterfly,SCM,W,40-44,2:21.47,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,200 M Butterfly,SCM,W,40-44,4:54.42,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,200 M Individual Medley,SCM,W,40-44,4:50.05,Natalia Vaganova,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,400 M Individual Medley,SCM,W,40-44,10:05.43,Natalia Vaganova,,Coral Springs Holiday Classic SCM Meet,2015,1
+ABM,200 M Freestyle,SCM,M,30-34,2:18.95,Joe A Cinquegrani,,2015 Sink or Swim Classic,2015,1
+ABM,100 M Backstroke,SCM,M,30-34,1:09.44,Joe A Cinquegrani,,2015 Sink or Swim Classic,2015,1
+ABM,100 M Individual Medley,SCM,M,30-34,1:13.70,Joe A Cinquegrani,,2015 Sink or Swim Classic,2015,1
+ABM,50 M Freestyle,SCM,M,40-44,28.74,Christopher M Colburn,,2015 Sink or Swim Classic,2015,1
+ABM,50 M Backstroke,SCM,M,40-44,33.41,Christopher M Colburn,,2015 Sink or Swim Classic,2015,1
+ABM,200 M Breaststroke,SCM,M,40-44,3:03.41,Christopher M Colburn,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,50 M Butterfly,SCM,M,40-44,30.59,Christopher M Colburn,,2015 Sink or Swim Classic,2015,1
+ABM,200 M Individual Medley,SCM,M,40-44,2:50.30,Christopher M Colburn,,Rowdy Gaines Masters Classic VII,2015,1
+ABM,400 M Individual Medley,SCM,M,40-44,6:08.08,Christopher M Colburn,,Rowdy Gaines Masters Classic VII,2015,1
+BBMA,50 M Breaststroke,SCM,W,30-34,49.51,Monique Perry,,2015 PPSC Masters,2015,1
+BBMA,50 M Freestyle,SCM,W,35-39,32.79,Kiiri T Tietjens,,2015 PPSC Masters,2015,1
+BBMA,50 M Backstroke,SCM,W,35-39,42.62,Kiiri T Tietjens,,2015 PPSC Masters,2015,1
+BBMA,50 M Freestyle,SCM,W,40-44,35.56,Kelly Jensen,,2015 PPSC Masters,2015,1
+BBMA,50 M Freestyle,SCM,W,40-44,37.32,Nicole Cartier,,2015 PPSC Masters,2015,2
+BBMA,100 M Freestyle,SCM,W,40-44,1:26.02,Nicole Cartier,,2015 PPSC Masters,2015,1
+BBMA,200 M Freestyle,SCM,W,40-44,3:14.91,Nicole Cartier,,2015 PPSC Masters,2015,1
+BBMA,50 M Backstroke,SCM,W,40-44,48.99,Nicole Cartier,,2015 PPSC Masters,2015,1
+BBMA,50 M Freestyle,SCM,W,55-59,46.54,Donna S Worth,,2015 PPSC Masters,2015,1
+BBMA,50 M Freestyle,SCM,M,40-44,33.22,Jason L Howdeshell,,2015 PPSC Masters,2015,1
+BBMA,100 M Freestyle,SCM,M,40-44,1:15.35,Jason L Howdeshell,,2015 PPSC Masters,2015,1
+BBMA,200 M Freestyle,SCM,M,40-44,2:55.21,Jason L Howdeshell,,2015 PPSC Masters,2015,1
+BBMA,400 M Freestyle,SCM,M,40-44,6:06.39,Jason L Howdeshell,,2015 PPSC Masters,2015,1
+BBMA,50 M Backstroke,SCM,M,40-44,44.22,Jason L Howdeshell,,2015 PPSC Masters,2015,1
+BBMA,100 M Individual Medley,SCM,M,40-44,1:27.89,Jason L Howdeshell,,2015 PPSC Masters,2015,1
+DSC,50 M Freestyle,SCM,W,45-49,42.03,Cindy M Staudenmaier,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+DSC,200 M Freestyle,SCM,W,45-49,3:23.15,Cindy M Staudenmaier,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+DSC,400 M Freestyle,SCM,W,45-49,7:20.82,Cindy M Staudenmaier,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+DSC,50 M Backstroke,SCM,W,45-49,50.71,Cindy M Staudenmaier,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+DSC,100 M Individual Medley,SCM,W,45-49,1:49.47,Cindy M Staudenmaier,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+ELG,50 M Freestyle,SCM,M,65-69,34.27,Ken Ota,,Urbana Short Course Meters Meet,2015,1
+ELG,200 M Freestyle,SCM,M,65-69,3:07.30,John H Stitt,,2015 Shark Tank SCM Meet,2015,1
+ELG,400 M Freestyle,SCM,M,65-69,6:44.35,John H Stitt,,2015 Shark Tank SCM Meet,2015,1
+ELG,50 M Breaststroke,SCM,M,65-69,46.72,Ken Ota,,Urbana Short Course Meters Meet,2015,1
+ELG,100 M Individual Medley,SCM,M,65-69,1:38.13,John H Stitt,,2015 Shark Tank SCM Meet,2015,1
+ELG,200 M Individual Medley,SCM,M,65-69,4:21.86,Ken Ota,,Urbana Short Course Meters Meet,2015,1
+HRYB,100 M Freestyle,SCM,M,60-64,1:24.53,Lawrence J Moss,,Coral Springs Holiday Classic SCM Meet,2015,1
+HRYB,50 M Breaststroke,SCM,M,60-64,45.57,Lawrence J Moss,,2015 Sink or Swim Classic,2015,1
+HRYB,100 M Breaststroke,SCM,M,60-64,1:42.75,Lawrence J Moss,,Coral Springs Holiday Classic SCM Meet,2015,1
+HRYB,100 M Individual Medley,SCM,M,60-64,1:38.72,Lawrence J Moss,,Coral Springs Holiday Classic SCM Meet,2015,1
+HRYB,200 M Individual Medley,SCM,M,60-64,3:49.97,Lawrence J Moss,,2015 Sink or Swim Classic,2015,1
+HRYB,100 M Freestyle,SCM,M,65-69,2:06.53,Ron Hirsen,,2015 Sink or Swim Classic,2015,1
+HRYB,200 M Freestyle,SCM,M,65-69,4:32.69,Ron Hirsen,,2015 Sink or Swim Classic,2015,1
+HRYB,400 M Freestyle,SCM,M,65-69,9:13.67,Ron Hirsen,,2015 Sink or Swim Classic,2015,1
+HRYB,50 M Breaststroke,SCM,M,65-69,1:06.35,Ron Hirsen,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,W,30-34,32.33,Kristen L Ellison,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,W,30-34,1:13.53,Kristen L Ellison,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,W,30-34,1:25.65,Sara Chapman,,2015 PPSC Masters,2015,2
+IM,400 M Freestyle,SCM,W,30-34,6:16.40,Emily Traw,,2015 Sink or Swim Classic,2015,1
+IM,400 M Freestyle,SCM,W,30-34,6:26.94,Sara Chapman,,2015 PPSC Masters,2015,2
+IM,50 M Backstroke,SCM,W,30-34,37.06,Amy Goodwin,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,W,30-34,1:21.90,Amy Goodwin,,2015 Sink or Swim Classic,2015,1
+IM,200 M Backstroke,SCM,W,30-34,2:51.67,Amy Goodwin,,2015 Sink or Swim Classic,2015,1
+IM,200 M Backstroke,SCM,W,30-34,3:21.17,Emily Traw,,2015 Sink or Swim Classic,2015,2
+IM,100 M Breaststroke,SCM,W,30-34,1:41.49,Sara Chapman,,2015 PPSC Masters,2015,1
+IM,200 M Breaststroke,SCM,W,30-34,3:36.89,Sara Chapman,,2015 PPSC Masters,2015,1
+IM,50 M Butterfly,SCM,W,30-34,38.39,Kristen L Ellison,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Butterfly,SCM,W,30-34,1:28.84,Kristen L Ellison,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,W,30-34,1:28.18,Amy Goodwin,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,W,30-34,1:37.30,Sara Chapman,,2015 Sink or Swim Classic,2015,2
+IM,400 M Individual Medley,SCM,W,30-34,7:12.34,Emily Traw,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,W,40-44,36.51,Karen M Darling,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,W,40-44,41.28,Larisa J Drake,,2015 Sink or Swim Classic,2015,2
+IM,50 M Freestyle,SCM,W,40-44,43.68,Sari Winick,,2015 Sink or Swim Classic,2015,3
+IM,400 M Freestyle,SCM,W,40-44,5:50.60,Amanda H Castle,,2015 Sink or Swim Classic,2015,1
+IM,50 M Backstroke,SCM,W,40-44,58.70,Andrea G Varol,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,W,40-44,1:33.07,Amanda H Castle,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,W,40-44,44.12,Karen M Darling,,Wisconsin West Bend HS SCM,2015,1
+IM,50 M Breaststroke,SCM,W,40-44,53.12,Larisa J Drake,,2015 Sink or Swim Classic,2015,2
+IM,50 M Breaststroke,SCM,W,40-44,54.47,Sari Winick,,2015 Sink or Swim Classic,2015,3
+IM,50 M Breaststroke,SCM,W,40-44,1:06.75,Andrea G Varol,,2015 Sink or Swim Classic,2015,4
+IM,100 M Breaststroke,SCM,W,40-44,1:36.47,Karen M Darling,,Wisconsin West Bend HS SCM,2015,1
+IM,200 M Breaststroke,SCM,W,40-44,3:33.06,Karen M Darling,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Butterfly,SCM,W,40-44,56.31,Andrea G Varol,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,W,40-44,1:43.70,Larisa J Drake,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,W,40-44,1:57.48,Sari Winick,,2015 Sink or Swim Classic,2015,2
+IM,100 M Individual Medley,SCM,W,40-44,2:16.14,Andrea G Varol,,2015 Sink or Swim Classic,2015,3
+IM,100 M Freestyle,SCM,W,45-49,1:25.75,Ruth Giles-Ott,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Backstroke,SCM,W,45-49,3:22.97,Ruth Giles-Ott,,2015 Sink or Swim Classic,2015,1
+IM,200 M Individual Medley,SCM,W,45-49,3:36.87,Ruth Giles-Ott,,2015 Sink or Swim Classic,2015,1
+IM,400 M Individual Medley,SCM,W,45-49,7:36.38,Ruth Giles-Ott,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,W,50-54,30.95,Heidi Kafka,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,W,50-54,33.73,Barbara T Zahorik,,2015 Sink or Swim Classic,2015,2
+IM,50 M Freestyle,SCM,W,50-54,35.42,Lisa Schwartz,,2015 Sink or Swim Classic,2015,3
+IM,100 M Freestyle,SCM,W,50-54,1:08.72,Heidi Kafka,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,W,50-54,1:13.24,Barbara T Zahorik,,2015 Sink or Swim Classic,2015,2
+IM,200 M Freestyle,SCM,W,50-54,2:11.86,Liz J Dillmann,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Freestyle,SCM,W,50-54,2:20.94,Andrea J Block,,2015 SW Zone and SPMS SCM Championships,2015,2
+IM,200 M Freestyle,SCM,W,50-54,2:33.49,Barbara T Zahorik,,2015 Sink or Swim Classic,2015,3
+IM,400 M Freestyle,SCM,W,50-54,4:55.19,Andrea J Block,,2015 SW Zone and SPMS SCM Championships,2015,1
+IM,400 M Freestyle,SCM,W,50-54,5:19.01,Barbara T Zahorik,,2015 Sink or Swim Classic,2015,2
+IM,50 M Backstroke,SCM,W,50-54,37.00,Andrea J Block,,2015 SW Zone and SPMS SCM Championships,2015,1
+IM,50 M Backstroke,SCM,W,50-54,43.03,Lisa Schwartz,,2015 Sink or Swim Classic,2015,2
+IM,100 M Backstroke,SCM,W,50-54,1:18.20,Andrea J Block,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,W,50-54,1:19.54,Heidi Kafka,,2015 Sink or Swim Classic,2015,2
+IM,200 M Backstroke,SCM,W,50-54,2:53.49,Heidi Kafka,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,W,50-54,45.10,Lisa Schwartz,,2015 Sink or Swim Classic,2015,1
+IM,50 M Butterfly,SCM,W,50-54,32.33,Andrea J Block,,2015 SW Zone and SPMS SCM Championships,2015,1
+IM,100 M Butterfly,SCM,W,50-54,1:10.78,Andrea J Block,,2015 SW Zone and SPMS SCM Championships,2015,1
+IM,200 M Butterfly,SCM,W,50-54,3:14.86,Kathryn Froehlich,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,W,50-54,1:15.72,Andrea J Block,,2015 SW Zone and SPMS SCM Championships,2015,1
+IM,100 M Individual Medley,SCM,W,50-54,1:21.46,Heidi Kafka,,2015 Sink or Swim Classic,2015,2
+IM,200 M Individual Medley,SCM,W,50-54,2:44.27,Andrea J Block,,2015 Sink or Swim Classic,2015,1
+IM,200 M Individual Medley,SCM,W,50-54,2:59.94,Kathryn Froehlich,,2015 Sink or Swim Classic,2015,2
+IM,400 M Individual Medley,SCM,W,50-54,6:20.21,Kathryn Froehlich,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,W,55-59,37.15,Carol Bossert-Hartman,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,W,55-59,40.24,Margaret H Ballantyne,,Urbana Short Course Meters Meet,2015,2
+IM,100 M Freestyle,SCM,W,55-59,1:23.44,Carol Bossert-Hartman,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Freestyle,SCM,W,55-59,3:00.67,Jane B Del Greco,,2015 Sink or Swim Classic,2015,1
+IM,200 M Freestyle,SCM,W,55-59,3:22.01,Marilyn Kulak,,2015 Sink or Swim Classic,2015,2
+IM,200 M Freestyle,SCM,W,55-59,3:32.85,Debbie A Gortowski,,2015 Sink or Swim Classic,2015,3
+IM,400 M Freestyle,SCM,W,55-59,6:23.91,Jane B Del Greco,,2015 Sink or Swim Classic,2015,1
+IM,400 M Freestyle,SCM,W,55-59,6:54.74,Marilyn Kulak,,2015 Sink or Swim Classic,2015,2
+IM,400 M Freestyle,SCM,W,55-59,7:04.14,Debbie A Gortowski,,2015 Sink or Swim Classic,2015,3
+IM,100 M Backstroke,SCM,W,55-59,1:48.61,Marilyn Kulak,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,W,55-59,2:02.59,Debbie A Gortowski,,2015 Sink or Swim Classic,2015,2
+IM,200 M Backstroke,SCM,W,55-59,3:48.25,Marilyn Kulak,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,W,55-59,47.08,Jane B Del Greco,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,W,55-59,53.36,Margaret H Ballantyne,,Urbana Short Course Meters Meet,2015,2
+IM,100 M Individual Medley,SCM,W,55-59,1:42.00,Carol Bossert-Hartman,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Individual Medley,SCM,W,55-59,1:51.44,Marilyn Kulak,,2015 Sink or Swim Classic,2015,2
+IM,100 M Individual Medley,SCM,W,55-59,1:59.89,Debbie A Gortowski,,2015 Sink or Swim Classic,2015,3
+IM,400 M Individual Medley,SCM,W,55-59,8:24.19,Debbie A Gortowski,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,M,18-24,28.24,Jake Gorman,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,M,18-24,1:05.83,Jake Gorman,,2015 Sink or Swim Classic,2015,1
+IM,50 M Backstroke,SCM,M,18-24,41.21,Jake Gorman,,2015 Sink or Swim Classic,2015,1
+IM,50 M Butterfly,SCM,M,18-24,43.80,Jake Gorman,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,M,25-29,24.03,Eric K Chiu,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,M,25-29,29.19,Alejandro Martinez,,2015 Sink or Swim Classic,2015,2
+IM,100 M Freestyle,SCM,M,25-29,1:05.11,Tazhi Ong,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Freestyle,SCM,M,25-29,1:07.31,Alejandro Martinez,,2015 Sink or Swim Classic,2015,2
+IM,200 M Freestyle,SCM,M,25-29,2:19.81,Dan Perkey,,2015 Sink or Swim Classic,2015,1
+IM,400 M Freestyle,SCM,M,25-29,4:59.06,Dan Perkey,,2015 Sink or Swim Classic,2015,1
+IM,800 M Freestyle,SCM,M,25-29,11:38.70,Dan Perkey,,Urbana Short Course Meters Meet,2015,1
+IM,1500 M Freestyle,SCM,M,25-29,20:43.86,Dan Perkey,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Backstroke,SCM,M,25-29,36.29,Alejandro Martinez,,2015 Sink or Swim Classic,2015,1
+IM,200 M Backstroke,SCM,M,25-29,2:35.00,Samuel R Ciochon,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,M,25-29,35.42,Samuel R Ciochon,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,M,25-29,35.90,Tazhi Ong,,Urbana Short Course Meters Meet,2015,2
+IM,100 M Breaststroke,SCM,M,25-29,1:17.27,Dan Perkey,,2015 Sink or Swim Classic,2015,1
+IM,100 M Breaststroke,SCM,M,25-29,1:21.04,Tazhi Ong,,Urbana Short Course Meters Meet,2015,2
+IM,200 M Breaststroke,SCM,M,25-29,2:51.74,Dan Perkey,,2015 Sink or Swim Classic,2015,1
+IM,50 M Butterfly,SCM,M,25-29,25.75,Eric K Chiu,,2015 Sink or Swim Classic,2015,1
+IM,100 M Butterfly,SCM,M,25-29,58.42,Eric K Chiu,,2015 Sink or Swim Classic,2015,1
+IM,200 M Butterfly,SCM,M,25-29,2:44.91,Dan Perkey,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,M,25-29,1:07.88,Samuel R Ciochon,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,M,25-29,1:25.45,Alejandro Martinez,,2015 Sink or Swim Classic,2015,2
+IM,200 M Individual Medley,SCM,M,25-29,2:31.15,Samuel R Ciochon,,2015 Sink or Swim Classic,2015,1
+IM,200 M Individual Medley,SCM,M,25-29,2:44.80,Tazhi Ong,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Freestyle,SCM,M,30-34,30.44,Brian Gilbert,,2015 Sink or Swim Classic,2015,1
+IM,400 M Freestyle,SCM,M,30-34,5:19.07,John Morris,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,M,30-34,1:11.14,Robert Pedersen,,2015 Sink or Swim Classic,2015,1
+IM,200 M Backstroke,SCM,M,30-34,3:04.53,John Morris,,2015 Sink or Swim Classic,2015,1
+IM,100 M Breaststroke,SCM,M,30-34,1:39.98,Brian Gilbert,,2015 Sink or Swim Classic,2015,1
+IM,200 M Breaststroke,SCM,M,30-34,3:53.44,Brian Gilbert,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Butterfly,SCM,M,30-34,29.74,Robert Pedersen,,2015 Sink or Swim Classic,2015,1
+IM,100 M Butterfly,SCM,M,30-34,1:20.41,John Morris,,2015 Sink or Swim Classic,2015,1
+IM,100 M Butterfly,SCM,M,30-34,1:31.83,Brian Gilbert,,2015 Sink or Swim Classic,2015,2
+IM,200 M Butterfly,SCM,M,30-34,2:36.97,Robert Pedersen,,2015 Sink or Swim Classic,2015,1
+IM,200 M Butterfly,SCM,M,30-34,2:48.58,John Morris,,2015 Sink or Swim Classic,2015,2
+IM,200 M Butterfly,SCM,M,30-34,3:36.08,Brian Gilbert,,Urbana Short Course Meters Meet,2015,3
+IM,200 M Individual Medley,SCM,M,30-34,3:27.20,Brian Gilbert,,Urbana Short Course Meters Meet,2015,1
+IM,400 M Individual Medley,SCM,M,30-34,5:33.44,Robert Pedersen,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,M,35-39,28.38,Thomas J Mosley,,2015 PPSC Masters,2015,1
+IM,100 M Freestyle,SCM,M,35-39,1:38.20,Nic Ruley,,2015 Sink or Swim Classic,2015,1
+IM,200 M Freestyle,SCM,M,35-39,2:30.56,Thomas J Mosley,,2015 PPSC Masters,2015,1
+IM,50 M Backstroke,SCM,M,35-39,33.37,Thomas J Mosley,,2015 PPSC Masters,2015,1
+IM,200 M Breaststroke,SCM,M,35-39,3:52.93,Nic Ruley,,2015 Sink or Swim Classic,2015,1
+IM,200 M Butterfly,SCM,M,35-39,5:27.69,Nic Ruley,,2015 Sink or Swim Classic,2015,1
+IM,200 M Individual Medley,SCM,M,35-39,3:56.78,Nic Ruley,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,M,40-44,34.50,Jesse R Czach,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,M,40-44,1:19.82,Jesse R Czach,,2015 Sink or Swim Classic,2015,1
+IM,1500 M Freestyle,SCM,M,40-44,19:34.31,Patrick J Elder,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Breaststroke,SCM,M,40-44,46.35,Jesse R Czach,,2015 Sink or Swim Classic,2015,1
+IM,100 M Breaststroke,SCM,M,40-44,1:40.86,Jesse R Czach,,2015 Sink or Swim Classic,2015,1
+IM,200 M Individual Medley,SCM,M,40-44,2:34.12,Patrick J Elder,,Urbana Short Course Meters Meet,2015,1
+IM,400 M Individual Medley,SCM,M,40-44,5:30.44,Patrick J Elder,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Freestyle,SCM,M,45-49,1:08.16,Mark E Mattson,,2015 Sink or Swim Classic,2015,1
+IM,200 M Freestyle,SCM,M,45-49,2:05.45,Matt Keller,,2015 Sink or Swim Classic,2015,1
+IM,400 M Freestyle,SCM,M,45-49,4:27.74,Matt Keller,,2015 Sink or Swim Classic,2015,1
+IM,800 M Freestyle,SCM,M,45-49,10:28.63,Mark W Brandt,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+IM,100 M Backstroke,SCM,M,45-49,1:18.77,Mark E Mattson,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,M,45-49,36.57,Mark W Brandt,,Wisconsin West Bend HS SCM,2015,1
+IM,50 M Breaststroke,SCM,M,45-49,39.90,Mark E Mattson,,2015 Sink or Swim Classic,2015,2
+IM,100 M Breaststroke,SCM,M,45-49,1:20.39,Mark W Brandt,,Wisconsin West Bend HS SCM,2015,1
+IM,200 M Breaststroke,SCM,M,45-49,2:52.60,Mark W Brandt,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+IM,50 M Butterfly,SCM,M,45-49,28.73,Matt Keller,,2015 Sink or Swim Classic,2015,1
+IM,50 M Butterfly,SCM,M,45-49,37.29,Mark E Mattson,,2015 Sink or Swim Classic,2015,2
+IM,100 M Butterfly,SCM,M,45-49,1:07.47,Mark W Brandt,,Wisconsin West Bend HS SCM,2015,1
+IM,200 M Butterfly,SCM,M,45-49,2:34.81,Mark W Brandt,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+IM,100 M Individual Medley,SCM,M,45-49,1:08.09,Mark W Brandt,,2015 Ozark LMSC Short Course Meters Championship,2015,1
+IM,200 M Individual Medley,SCM,M,45-49,2:46.89,Mark E Mattson,,2015 Sink or Swim Classic,2015,1
+IM,400 M Individual Medley,SCM,M,45-49,5:38.05,Mark W Brandt,,Wisconsin West Bend HS SCM,2015,1
+IM,50 M Freestyle,SCM,M,50-54,27.50,Robert A Young,,2015 SW Zone and SPMS SCM Championships,2015,1
+IM,100 M Freestyle,SCM,M,50-54,55.29,David E Sims,,PNA and NW Zone SCM Championship Meet,2015,1
+IM,50 M Backstroke,SCM,M,50-54,33.25,Robert A Young,,"Minnesota Masters Short Course Meters ""State""",2015,1
+IM,50 M Backstroke,SCM,M,50-54,33.45,Jim Tuchler,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Breaststroke,SCM,M,50-54,32.51,Jim Tuchler,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Breaststroke,SCM,M,50-54,33.53,David E Sims,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Breaststroke,SCM,M,50-54,33.73,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2015,3
+IM,50 M Breaststroke,SCM,M,50-54,39.47,Robert A Young,,2015 SW Zone and SPMS SCM Championships,2015,4
+IM,100 M Breaststroke,SCM,M,50-54,1:15.46,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Breaststroke,SCM,M,50-54,2:53.12,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Butterfly,SCM,M,50-54,27.01,David E Sims,,PNA and NW Zone SCM Championship Meet,2015,1
+IM,50 M Butterfly,SCM,M,50-54,29.23,Robert A Young,,"Minnesota Masters Short Course Meters ""State""",2015,2
+IM,100 M Butterfly,SCM,M,50-54,59.01,David E Sims,,PNA and NW Zone SCM Championship Meet,2015,1
+IM,100 M Butterfly,SCM,M,50-54,1:09.56,Robert A Young,,2015 SW Zone and SPMS SCM Championships,2015,2
+IM,200 M Butterfly,SCM,M,50-54,2:11.77,David E Sims,,PNA and NW Zone SCM Championship Meet,2015,1
+IM,100 M Individual Medley,SCM,M,50-54,1:11.17,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,M,55-59,26.94,Dave Gibson,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,M,55-59,28.46,Richard Ruderman,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Freestyle,SCM,M,55-59,31.70,Henry M Bodnar,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,3
+IM,50 M Freestyle,SCM,M,55-59,32.77,Tim Shekleton,,2015 PPSC Masters,2015,4
+IM,50 M Freestyle,SCM,M,55-59,51.39,Thomas A Williamson,,Urbana Short Course Meters Meet,2015,5
+IM,100 M Freestyle,SCM,M,55-59,1:03.95,Dave Gibson,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,M,55-59,1:05.63,Andreas K Seibt,,Urbana Short Course Meters Meet,2015,2
+IM,100 M Freestyle,SCM,M,55-59,1:53.66,Thomas A Williamson,,Urbana Short Course Meters Meet,2015,3
+IM,200 M Freestyle,SCM,M,55-59,2:22.73,Andreas K Seibt,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Freestyle,SCM,M,55-59,4:02.45,Thomas A Williamson,,Urbana Short Course Meters Meet,2015,2
+IM,400 M Freestyle,SCM,M,55-59,4:58.27,Andreas K Seibt,,2015 Sink or Swim Classic,2015,1
+IM,400 M Freestyle,SCM,M,55-59,6:12.14,Steven H Shapiro,,2015 Sink or Swim Classic,2015,2
+IM,800 M Freestyle,SCM,M,55-59,10:55.27,Andreas K Seibt,,Urbana Short Course Meters Meet,2015,1
+IM,1500 M Freestyle,SCM,M,55-59,20:15.98,Andreas K Seibt,,Urbana Short Course Meters Meet,2015,1
+IM,1500 M Freestyle,SCM,M,55-59,22:43.12,Alex Boutov,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Backstroke,SCM,M,55-59,31.95,Dave Gibson,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Backstroke,SCM,M,55-59,34.34,Ted J Soltys,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Backstroke,SCM,M,55-59,37.89,Richard Ruderman,,Urbana Short Course Meters Meet,2015,3
+IM,50 M Backstroke,SCM,M,55-59,39.05,Henry M Bodnar,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,4
+IM,100 M Backstroke,SCM,M,55-59,1:10.61,Dave Gibson,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,M,55-59,1:15.77,Andreas K Seibt,,2015 Sink or Swim Classic,2015,2
+IM,200 M Backstroke,SCM,M,55-59,2:42.54,Andreas K Seibt,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,M,55-59,39.98,Richard Ruderman,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Butterfly,SCM,M,55-59,29.65,Ted J Soltys,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Butterfly,SCM,M,55-59,29.78,Dave Gibson,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Butterfly,SCM,M,55-59,30.89,Richard Ruderman,,Urbana Short Course Meters Meet,2015,3
+IM,50 M Butterfly,SCM,M,55-59,32.02,Henry M Bodnar,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,4
+IM,50 M Butterfly,SCM,M,55-59,34.96,Andreas K Seibt,,2015 Sink or Swim Classic,2015,5
+IM,50 M Butterfly,SCM,M,55-59,35.43,Tim Shekleton,,2015 PPSC Masters,2015,6
+IM,50 M Butterfly,SCM,M,55-59,37.36,Steven H Shapiro,,2015 Sink or Swim Classic,2015,7
+IM,100 M Butterfly,SCM,M,55-59,1:07.58,Ted J Soltys,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Butterfly,SCM,M,55-59,1:17.32,Andreas K Seibt,,2015 Sink or Swim Classic,2015,2
+IM,100 M Butterfly,SCM,M,55-59,1:23.93,Alex Boutov,,Urbana Short Course Meters Meet,2015,3
+IM,100 M Butterfly,SCM,M,55-59,1:45.58,Tim Shekleton,,2015 PPSC Masters,2015,4
+IM,200 M Butterfly,SCM,M,55-59,2:46.86,Andreas K Seibt,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,M,55-59,1:11.27,Ted J Soltys,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Individual Medley,SCM,M,55-59,1:19.31,Henry M Bodnar,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,2
+IM,200 M Individual Medley,SCM,M,55-59,2:45.82,Andreas K Seibt,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Individual Medley,SCM,M,55-59,3:13.58,Tim Shekleton,,2015 PPSC Masters,2015,2
+IM,400 M Individual Medley,SCM,M,55-59,5:39.71,Andreas K Seibt,,2015 Sink or Swim Classic,2015,1
+IM,50 M Freestyle,SCM,M,60-64,29.85,Jeffrey S Blumenthal,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+IM,50 M Freestyle,SCM,M,60-64,29.97,Phil L Dodson,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Freestyle,SCM,M,60-64,31.54,Mark Jaeger,,Urbana Short Course Meters Meet,2015,3
+IM,50 M Freestyle,SCM,M,60-64,38.73,Yoram Bresler,,Urbana Short Course Meters Meet,2015,4
+IM,100 M Freestyle,SCM,M,60-64,1:06.12,Jeffrey S Blumenthal,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+IM,100 M Freestyle,SCM,M,60-64,1:12.73,Mark Jaeger,,Urbana Short Course Meters Meet,2015,2
+IM,50 M Backstroke,SCM,M,60-64,38.21,Phil L Dodson,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Backstroke,SCM,M,60-64,49.35,Yoram Bresler,,Urbana Short Course Meters Meet,2015,2
+IM,100 M Breaststroke,SCM,M,60-64,1:40.21,Yoram Bresler,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Breaststroke,SCM,M,60-64,3:49.97,Mark Jaeger,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Butterfly,SCM,M,60-64,34.27,Phil L Dodson,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Individual Medley,SCM,M,60-64,1:36.05,Yoram Bresler,,Urbana Short Course Meters Meet,2015,1
+IM,200 M Individual Medley,SCM,M,60-64,3:15.18,Mark Jaeger,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,M,65-69,33.18,Peder Dahlberg,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,M,65-69,40.82,John H Anderson,,2015 Sink or Swim Classic,2015,2
+IM,50 M Freestyle,SCM,M,65-69,40.93,Donald J Alsen,,2015 Sink or Swim Classic,2015,3
+IM,100 M Freestyle,SCM,M,65-69,1:31.51,John H Anderson,,Wisconsin West Bend HS SCM,2015,1
+IM,200 M Freestyle,SCM,M,65-69,3:27.42,John H Anderson,,Wisconsin West Bend HS SCM,2015,1
+IM,400 M Freestyle,SCM,M,65-69,7:21.91,Donald J Alsen,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,M,65-69,37.13,Peder Dahlberg,,Wisconsin West Bend HS SCM,2015,1
+IM,100 M Breaststroke,SCM,M,65-69,1:22.93,Peder Dahlberg,,Wisconsin West Bend HS SCM,2015,1
+IM,100 M Breaststroke,SCM,M,65-69,2:11.34,Donald J Alsen,,2015 Sink or Swim Classic,2015,2
+IM,200 M Breaststroke,SCM,M,65-69,3:16.62,Peder Dahlberg,,2015 Sink or Swim Classic,2015,1
+IM,50 M Butterfly,SCM,M,65-69,51.86,Donald J Alsen,,2015 Sink or Swim Classic,2015,1
+IM,100 M Freestyle,SCM,M,70-74,1:47.23,Barry H Dayton,,2015 Sink or Swim Classic,2015,1
+IM,200 M Freestyle,SCM,M,70-74,4:07.70,Barry H Dayton,,2015 Sink or Swim Classic,2015,1
+IM,100 M Backstroke,SCM,M,70-74,1:59.47,Barry H Dayton,,2015 Sink or Swim Classic,2015,1
+IM,200 M Backstroke,SCM,M,70-74,4:34.28,Barry H Dayton,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,M,70-74,2:01.51,Howard K Schein,,Urbana Short Course Meters Meet,2015,1
+IM,100 M Individual Medley,SCM,M,70-74,2:20.42,Barry H Dayton,,2015 Sink or Swim Classic,2015,2
+IM,200 M Individual Medley,SCM,M,70-74,4:36.10,Howard K Schein,,Urbana Short Course Meters Meet,2015,1
+IM,400 M Individual Medley,SCM,M,70-74,9:31.13,Howard K Schein,,Urbana Short Course Meters Meet,2015,1
+IM,50 M Freestyle,SCM,M,80-84,39.07,Richard I McClow,,2015 Sink or Swim Classic,2015,1
+IM,50 M Backstroke,SCM,M,80-84,57.27,Richard I McClow,,2015 Sink or Swim Classic,2015,1
+IM,50 M Breaststroke,SCM,M,80-84,52.43,Richard I McClow,,2015 Sink or Swim Classic,2015,1
+IM,50 M Butterfly,SCM,M,80-84,53.83,Richard I McClow,,2015 Sink or Swim Classic,2015,1
+IM,100 M Individual Medley,SCM,M,80-84,2:00.82,Richard I McClow,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Freestyle,SCM,W,25-29,44.74,Catherine E Reed,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,W,25-29,1:52.15,Catherine E Reed,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Backstroke,SCM,W,25-29,1:05.63,Catherine E Reed,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Backstroke,SCM,W,25-29,2:25.23,Catherine E Reed,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,W,30-34,1:07.92,Laurel M Liberty,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Butterfly,SCM,W,30-34,1:14.94,Laurel M Liberty,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,W,35-39,1:23.16,Laura Gitzinger,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Freestyle,SCM,W,35-39,3:01.69,Laura Gitzinger,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Butterfly,SCM,W,35-39,1:23.44,Francine S Klotz,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,W,35-39,1:19.74,Francine S Klotz,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Individual Medley,SCM,W,35-39,2:54.75,Francine S Klotz,,2015 Sink or Swim Classic,2015,1
+LIB,400 M Freestyle,SCM,W,40-44,5:51.13,Jennifer L Gitzinger,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Breaststroke,SCM,W,40-44,1:34.49,Jennifer L Gitzinger,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,W,40-44,1:28.87,Jennifer L Gitzinger,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Freestyle,SCM,M,30-34,32.32,Michael P McDonnell,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,M,30-34,58.44,Derek Helvey,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,M,30-34,1:11.42,Michael P McDonnell,,2015 Sink or Swim Classic,2015,2
+LIB,400 M Freestyle,SCM,M,30-34,4:37.52,Derek Helvey,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Backstroke,SCM,M,30-34,43.84,Michael P McDonnell,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Breaststroke,SCM,M,30-34,2:48.35,Derek Helvey,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,M,30-34,1:06.56,Derek Helvey,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,M,35-39,1:01.91,Jamie Mills,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Freestyle,SCM,M,35-39,2:22.00,Jamie Mills,,2015 Sink or Swim Classic,2015,1
+LIB,400 M Freestyle,SCM,M,35-39,4:55.73,Jamie Mills,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Breaststroke,SCM,M,35-39,36.30,Yao Zhang,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Breaststroke,SCM,M,35-39,1:22.53,Yao Zhang,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,M,35-39,1:25.02,Yao Zhang,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Freestyle,SCM,M,40-44,31.46,David McGaughy,,2015 Sink or Swim Classic,2015,1
+LIB,400 M Freestyle,SCM,M,40-44,5:09.01,Chad Scott,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Backstroke,SCM,M,40-44,34.25,Matthew Ozimek,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Backstroke,SCM,M,40-44,1:21.79,Matthew Ozimek,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Breaststroke,SCM,M,40-44,39.35,David McGaughy,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,M,40-44,1:14.07,Chad Scott,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,M,40-44,1:20.45,David McGaughy,,2015 Sink or Swim Classic,2015,2
+LIB,100 M Individual Medley,SCM,M,40-44,1:20.81,Matthew Ozimek,,2015 Sink or Swim Classic,2015,3
+LIB,50 M Freestyle,SCM,M,50-54,32.99,Allen S Moody,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,M,50-54,1:14.18,Allen S Moody,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Freestyle,SCM,M,50-54,2:46.62,Allen S Moody,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Backstroke,SCM,M,50-54,30.60,David Whelchel,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Breaststroke,SCM,M,50-54,44.61,Sheng Xu,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Breaststroke,SCM,M,50-54,1:34.80,Sheng Xu,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Butterfly,SCM,M,50-54,30.15,David Whelchel,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Butterfly,SCM,M,50-54,1:09.50,David Whelchel,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Individual Medley,SCM,M,50-54,1:33.99,Sheng Xu,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Freestyle,SCM,M,55-59,30.10,Jim Rowland,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Freestyle,SCM,M,55-59,35.29,Michael D Bergquist,,2015 Sink or Swim Classic,2015,2
+LIB,100 M Freestyle,SCM,M,55-59,1:08.15,Jim Rowland,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Freestyle,SCM,M,55-59,2:38.91,Jim Rowland,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Backstroke,SCM,M,55-59,44.95,Michael D Bergquist,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Breaststroke,SCM,M,55-59,45.79,Michael D Bergquist,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Breaststroke,SCM,M,55-59,1:43.93,Michael D Bergquist,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Breaststroke,SCM,M,55-59,3:46.77,Michael D Bergquist,,2015 Sink or Swim Classic,2015,1
+LIB,50 M Freestyle,SCM,M,60-64,33.40,Michael E Reed,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Freestyle,SCM,M,60-64,1:16.27,Michael E Reed,,2015 Sink or Swim Classic,2015,1
+LIB,100 M Backstroke,SCM,M,60-64,1:14.67,Todd A Keil,,2015 Sink or Swim Classic,2015,1
+LIB,200 M Backstroke,SCM,M,60-64,2:37.52,Todd A Keil,,2015 Sink or Swim Classic,2015,1
+LSLP,50 M Backstroke,SCM,M,45-49,28.93,Bryan Malas,,Wisconsin West Bend HS SCM,2015,1
+LSLP,100 M Backstroke,SCM,M,45-49,1:05.24,Bryan Malas,,Wisconsin West Bend HS SCM,2015,1
+SFY,50 M Freestyle,SCM,W,30-34,39.68,Rose Kormanyos,,Urbana Short Course Meters Meet,2015,1
+SFY,100 M Freestyle,SCM,W,30-34,1:32.48,Rose Kormanyos,,Urbana Short Course Meters Meet,2015,1
+SFY,200 M Freestyle,SCM,W,30-34,3:33.77,Rose Kormanyos,,Urbana Short Course Meters Meet,2015,1
+SFY,400 M Freestyle,SCM,W,30-34,6:30.12,Teresa Davenport,,Urbana Short Course Meters Meet,2015,1
+SFY,800 M Freestyle,SCM,W,30-34,16:07.46,Rose Kormanyos,,Urbana Short Course Meters Meet,2015,1
+SFY,1500 M Freestyle,SCM,W,30-34,24:58.14,Teresa Davenport,,Urbana Short Course Meters Meet,2015,1
+SFY,100 M Individual Medley,SCM,W,30-34,1:30.48,Teresa Davenport,,Urbana Short Course Meters Meet,2015,1
+SFY,1500 M Freestyle,SCM,W,35-39,35:48.30,Amanda R Gergen,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Freestyle,SCM,W,55-59,50.00,Michele C Neill,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Backstroke,SCM,W,55-59,1:03.26,Michele C Neill,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Freestyle,SCM,W,65-69,1:07.84,Carolyn S Cooper,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Backstroke,SCM,W,65-69,1:13.09,Carolyn S Cooper,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Freestyle,SCM,M,25-29,30.75,Adam R Johnson,,Urbana Short Course Meters Meet,2015,1
+SFY,100 M Freestyle,SCM,M,25-29,1:09.79,Adam R Johnson,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Backstroke,SCM,M,25-29,37.10,Adam R Johnson,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Breaststroke,SCM,M,25-29,40.53,Adam R Johnson,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Freestyle,SCM,M,45-49,28.20,Gary G Patrick,,Urbana Short Course Meters Meet,2015,1
+SFY,200 M Freestyle,SCM,M,45-49,2:23.93,Gary G Patrick,,Urbana Short Course Meters Meet,2015,1
+SFY,50 M Butterfly,SCM,M,45-49,32.87,Gary G Patrick,,Urbana Short Course Meters Meet,2015,1
+SWED,50 M Backstroke,SCM,M,18-24,38.55,Dallas N Campbell,,2015 Sink or Swim Classic,2015,1
+SWED,200 M Backstroke,SCM,M,18-24,3:09.88,Dallas N Campbell,,2015 Sink or Swim Classic,2015,1
+SWED,50 M Butterfly,SCM,M,18-24,32.58,Dallas N Campbell,,2015 Sink or Swim Classic,2015,1
+SWED,200 M Butterfly,SCM,M,18-24,3:28.02,Dallas N Campbell,,2015 Sink or Swim Classic,2015,1
+SWED,200 M Individual Medley,SCM,M,18-24,3:09.20,Dallas N Campbell,,2015 Sink or Swim Classic,2015,1
+SWED,50 M Freestyle,SCM,M,40-44,30.02,Andy Holck,,2015 Sink or Swim Classic,2015,1
+SWED,50 M Breaststroke,SCM,M,40-44,39.17,Andy Holck,,2015 Sink or Swim Classic,2015,1
+SWED,400 M Individual Medley,SCM,M,40-44,6:00.53,Andy Holck,,2015 Sink or Swim Classic,2015,1
+SWED,200 M Freestyle,SCM,M,45-49,2:23.50,Billy Cordero,,2015 Sink or Swim Classic,2015,1
+SWED,400 M Freestyle,SCM,M,45-49,4:51.15,Billy Cordero,,2015 Sink or Swim Classic,2015,1
+SWED,100 M Breaststroke,SCM,M,45-49,1:26.80,Billy Cordero,,2015 Sink or Swim Classic,2015,1
+UC21,50 M Freestyle,SCM,W,40-44,33.42,Jacqueline M Witherspoon,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Backstroke,SCM,W,40-44,42.53,Jacqueline M Witherspoon,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Breaststroke,SCM,W,40-44,47.83,Jacqueline M Witherspoon,,Urbana Short Course Meters Meet,2015,1
+UC21,100 M Individual Medley,SCM,W,40-44,1:37.18,Jacqueline M Witherspoon,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Freestyle,SCM,W,50-54,41.62,Helen S Cangellaris,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Backstroke,SCM,W,50-54,55.44,Helen S Cangellaris,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Breaststroke,SCM,W,50-54,57.70,Helen S Cangellaris,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Butterfly,SCM,W,50-54,48.09,Helen S Cangellaris,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Freestyle,SCM,W,75-79,1:17.31,Mary Ann Berg,,Urbana Short Course Meters Meet,2015,1
+UC21,100 M Freestyle,SCM,W,75-79,3:04.05,Mary Ann Berg,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Backstroke,SCM,W,75-79,1:34.80,Mary Ann Berg,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Breaststroke,SCM,W,75-79,2:07.07,Mary Ann Berg,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Freestyle,SCM,M,25-29,25.10,Edgar Vargas,,2015 Sink or Swim Classic,2015,1
+UC21,50 M Freestyle,SCM,M,30-34,25.60,Michael B Forbes,,2015 PPSC Masters,2015,1
+UC21,50 M Freestyle,SCM,M,30-34,27.73,Alexander Konetzki,,Urbana Short Course Meters Meet,2015,2
+UC21,50 M Freestyle,SCM,M,30-34,28.26,Gary Forbes,,2015 PPSC Masters,2015,3
+UC21,100 M Freestyle,SCM,M,30-34,1:02.92,Alexander Konetzki,,Urbana Short Course Meters Meet,2015,1
+UC21,100 M Freestyle,SCM,M,30-34,1:05.35,Gary Forbes,,2015 PPSC Masters,2015,2
+UC21,50 M Backstroke,SCM,M,30-34,34.07,Gary Forbes,,2015 PPSC Masters,2015,1
+UC21,50 M Butterfly,SCM,M,30-34,27.77,Michael B Forbes,,2015 PPSC Masters,2015,1
+UC21,100 M Individual Medley,SCM,M,30-34,1:17.81,Alexander Konetzki,,Urbana Short Course Meters Meet,2015,1
+UC21,1500 M Freestyle,SCM,M,40-44,21:28.96,Brent M Cole,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Freestyle,SCM,M,50-54,32.87,Stuart Foltz,,Urbana Short Course Meters Meet,2015,1
+UC21,100 M Freestyle,SCM,M,50-54,1:14.15,Stuart Foltz,,Urbana Short Course Meters Meet,2015,1
+UC21,200 M Freestyle,SCM,M,50-54,2:55.64,Stuart Foltz,,Urbana Short Course Meters Meet,2015,1
+UC21,100 M Individual Medley,SCM,M,50-54,1:29.56,Stuart Foltz,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Freestyle,SCM,M,70-74,41.19,Wayne B Dickerson,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Backstroke,SCM,M,70-74,48.68,Wayne B Dickerson,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Breaststroke,SCM,M,70-74,51.41,Wayne B Dickerson,,Urbana Short Course Meters Meet,2015,1
+UC21,100 M Individual Medley,SCM,M,70-74,1:49.22,Wayne B Dickerson,,Urbana Short Course Meters Meet,2015,1
+UC21,50 M Freestyle,SCM,M,75-79,39.99,John Y Le Bourgeois,,Urbana Short Course Meters Meet,2015,1
+UC21,1500 M Freestyle,SCM,M,75-79,30:01.63,John Y Le Bourgeois,,Urbana Short Course Meters Meet,2015,1
+WSUB,50 M Butterfly,SCM,M,18-24,28.51,Scott A Reher,,2015 Sink or Swim Classic,2015,1
+WSUB,100 M Butterfly,SCM,M,18-24,1:06.47,Scott A Reher,,2015 Sink or Swim Classic,2015,1
+WSUB,100 M Individual Medley,SCM,M,18-24,1:09.56,Scott A Reher,,2015 Sink or Swim Classic,2015,1

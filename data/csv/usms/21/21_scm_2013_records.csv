@@ -1,0 +1,381 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ABM,50 M Freestyle,SCM,W,35-39,53.02,Natalia Vaganova,,Sink or Swim Classic,2013,1
+ABM,200 M Freestyle,SCM,W,35-39,4:04.39,Natalia Vaganova,,Sink or Swim Classic,2013,1
+ABM,50 M Backstroke,SCM,W,35-39,1:07.76,Natalia Vaganova,,Rowdy Gaines Masters Classic V,2013,1
+ABM,50 M Breaststroke,SCM,W,35-39,1:11.20,Natalia Vaganova,,Rowdy Gaines Masters Classic V,2013,1
+ABM,200 M Breaststroke,SCM,W,35-39,5:11.28,Natalia Vaganova,,Rowdy Gaines Masters Classic V,2013,1
+ABM,50 M Butterfly,SCM,W,35-39,56.75,Natalia Vaganova,,Rowdy Gaines Masters Classic V,2013,1
+ABM,100 M Butterfly,SCM,W,35-39,2:13.91,Natalia Vaganova,,Sink or Swim Classic,2013,1
+ABM,200 M Butterfly,SCM,W,35-39,4:50.50,Natalia Vaganova,,Sink or Swim Classic,2013,1
+ABM,400 M Individual Medley,SCM,W,35-39,9:18.13,Natalia Vaganova,,Rowdy Gaines Masters Classic V,2013,1
+CHGO,200 M Freestyle,SCM,W,25-29,2:30.94,Marlena L Tonelli,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,400 M Freestyle,SCM,W,25-29,5:05.08,Marlena L Tonelli,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,800 M Freestyle,SCM,W,25-29,10:15.64,Marlena L Tonelli,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,1500 M Freestyle,SCM,W,25-29,19:10.59,Marlena L Tonelli,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,50 M Breaststroke,SCM,W,25-29,37.64,Marlena L Tonelli,,Sink or Swim Classic,2013,1
+CHGO,100 M Breaststroke,SCM,W,25-29,1:21.46,Marlena L Tonelli,,Sink or Swim Classic,2013,1
+CHGO,200 M Breaststroke,SCM,W,25-29,2:52.03,Marlena L Tonelli,,Sink or Swim Classic,2013,1
+CHGO,200 M Individual Medley,SCM,W,25-29,2:39.22,Marlena L Tonelli,,Sink or Swim Classic,2013,1
+CHGO,400 M Individual Medley,SCM,W,25-29,5:38.04,Marlena L Tonelli,,Sink or Swim Classic,2013,1
+CHGO,50 M Freestyle,SCM,M,18-24,35.27,Ryan W Rowe,,Sink or Swim Classic,2013,1
+CHGO,50 M Butterfly,SCM,M,18-24,32.67,Ryan W Rowe,,Sink or Swim Classic,2013,1
+CHGO,100 M Butterfly,SCM,M,18-24,1:12.25,Ryan W Rowe,,Sink or Swim Classic,2013,1
+CHGO,100 M Individual Medley,SCM,M,18-24,1:22.41,Ryan W Rowe,,Sink or Swim Classic,2013,1
+CHGO,200 M Freestyle,SCM,M,40-44,2:41.90,Carleton S Saxton,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,400 M Freestyle,SCM,M,40-44,5:18.74,Carleton S Saxton,,Sink or Swim Classic,2013,1
+CHGO,800 M Freestyle,SCM,M,40-44,11:12.07,Carleton S Saxton,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,1500 M Freestyle,SCM,M,40-44,21:17.02,Carleton S Saxton,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,50 M Butterfly,SCM,M,40-44,34.15,Carleton S Saxton,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,400 M Individual Medley,SCM,M,40-44,6:02.26,Carleton S Saxton,,Sink or Swim Classic,2013,1
+CHGO,100 M Freestyle,SCM,M,55-59,1:09.99,Alex Boutov,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,200 M Freestyle,SCM,M,55-59,2:32.27,Alex Boutov,,Wisconsin West Bend HS SCM Champs,2013,1
+CHGO,50 M Butterfly,SCM,M,55-59,33.49,Alex Boutov,,Wisconsin West Bend HS SCM Champs,2013,1
+DANY,200 M Freestyle,SCM,W,40-44,2:25.65,Nadine K Day,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+DANY,100 M Backstroke,SCM,W,40-44,1:16.05,Nadine K Day,,Masters in Meters at Mason,2013,1
+DANY,200 M Backstroke,SCM,W,40-44,2:41.08,Nadine K Day,,Masters in Meters at Mason,2013,1
+DANY,100 M Breaststroke,SCM,W,40-44,1:21.35,Nadine K Day,,Masters in Meters at Mason,2013,1
+DANY,200 M Breaststroke,SCM,W,40-44,3:00.74,Nadine K Day,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+DANY,100 M Butterfly,SCM,W,40-44,1:08.87,Nadine K Day,,Masters in Meters at Mason,2013,1
+DANY,200 M Butterfly,SCM,W,40-44,2:47.12,Nadine K Day,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+DANY,100 M Individual Medley,SCM,W,40-44,1:12.36,Nadine K Day,,Masters in Meters at Mason,2013,1
+DANY,200 M Individual Medley,SCM,W,40-44,2:37.63,Nadine K Day,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+DANY,400 M Individual Medley,SCM,W,40-44,5:31.50,Nadine K Day,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+ELG,50 M Freestyle,SCM,M,50-54,27.83,Grant Dahlke,,Sink or Swim Classic,2013,1
+ELG,100 M Freestyle,SCM,M,50-54,1:01.78,Grant Dahlke,,Sink or Swim Classic,2013,1
+ELG,400 M Freestyle,SCM,M,50-54,5:41.62,Lex Pegues,,Sink or Swim Classic,2013,1
+ELG,100 M Backstroke,SCM,M,50-54,1:16.47,Grant Dahlke,,Sink or Swim Classic,2013,1
+ELG,100 M Backstroke,SCM,M,50-54,1:18.88,Lex Pegues,,Sink or Swim Classic,2013,2
+ELG,200 M Backstroke,SCM,M,50-54,2:54.88,Lex Pegues,,Sink or Swim Classic,2013,1
+ELG,50 M Butterfly,SCM,M,50-54,38.91,Grant Dahlke,,Sink or Swim Classic,2013,1
+ELG,100 M Individual Medley,SCM,M,50-54,1:17.51,Lex Pegues,,Sink or Swim Classic,2013,1
+ELG,200 M Individual Medley,SCM,M,50-54,2:48.39,Lex Pegues,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,W,25-29,40.95,Manda Filip,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,W,25-29,1:35.05,Manda Filip,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,W,25-29,5:26.46,Emily M Dangremond,,Sink or Swim Classic,2013,1
+IM,50 M Backstroke,SCM,W,25-29,58.83,Manda Filip,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,W,30-34,34.61,Tracy K Sypura,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,W,30-34,41.60,Adrienne Detanico,,Sink or Swim Classic,2013,2
+IM,100 M Freestyle,SCM,W,30-34,1:23.46,Tracy K Sypura,,Sink or Swim Classic,2013,1
+IM,200 M Freestyle,SCM,W,30-34,4:28.06,Becca Heiser,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,W,30-34,5:21.62,Kristie Przekota,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,W,30-34,7:08.89,Adrienne Detanico,,Sink or Swim Classic,2013,2
+IM,50 M Breaststroke,SCM,W,30-34,48.42,Tracy K Sypura,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,W,30-34,1:54.08,Adrienne Detanico,,Sink or Swim Classic,2013,1
+IM,50 M Butterfly,SCM,W,30-34,41.99,Tracy K Sypura,,Sink or Swim Classic,2013,1
+IM,200 M Individual Medley,SCM,W,30-34,3:49.14,Adrienne Detanico,,Sink or Swim Classic,2013,1
+IM,400 M Individual Medley,SCM,W,30-34,6:09.00,Kristie Przekota,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,W,35-39,32.88,Stephanie Izard,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,W,35-39,1:13.76,Stephanie Izard,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,W,35-39,6:31.14,Andrea Martinez,,Sink or Swim Classic,2013,1
+IM,200 M Breaststroke,SCM,W,35-39,3:58.29,Andrea Martinez,,Sink or Swim Classic,2013,1
+IM,200 M Butterfly,SCM,W,35-39,3:35.27,Andrea Martinez,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,W,35-39,1:25.12,Stephanie Izard,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,W,35-39,1:35.99,Andrea Martinez,,Sink or Swim Classic,2013,2
+IM,50 M Freestyle,SCM,W,40-44,34.22,Inge Clark,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,W,40-44,6:51.93,Inge Clark,,Sink or Swim Classic,2013,1
+IM,50 M Backstroke,SCM,W,40-44,40.46,Andrea Auer,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,W,40-44,1:32.95,Andrea Auer,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,W,40-44,43.65,Inge Clark,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,W,40-44,1:39.15,Inge Clark,,Sink or Swim Classic,2013,1
+IM,200 M Breaststroke,SCM,W,40-44,3:40.71,Inge Clark,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,W,40-44,1:31.95,Andrea Auer,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,W,45-49,35.38,Stephanie A Boles,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,W,45-49,1:31.19,Ruth Giles-Ott,,Sink or Swim Classic,2013,1
+IM,50 M Backstroke,SCM,W,45-49,42.54,Stephanie A Boles,,Sink or Swim Classic,2013,1
+IM,50 M Backstroke,SCM,W,45-49,47.26,Ruth Giles-Ott,,Sink or Swim Classic,2013,2
+IM,100 M Backstroke,SCM,W,45-49,1:34.64,Stephanie A Boles,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,W,45-49,1:39.40,Ruth Giles-Ott,,Sink or Swim Classic,2013,2
+IM,50 M Butterfly,SCM,W,45-49,40.62,Stephanie A Boles,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,W,45-49,1:33.22,Stephanie A Boles,,Sink or Swim Classic,2013,1
+IM,400 M Individual Medley,SCM,W,45-49,8:05.68,Ruth Giles-Ott,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,W,50-54,35.58,Lisa Schwartz,,Sink or Swim Classic,2013,1
+IM,200 M Freestyle,SCM,W,50-54,2:23.45,Andrea J Block,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,200 M Freestyle,SCM,W,50-54,3:42.24,Beth Scherer,,Sink or Swim Classic,2013,2
+IM,400 M Freestyle,SCM,W,50-54,5:02.61,Andrea J Block,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,400 M Freestyle,SCM,W,50-54,5:48.26,Kathryn Froehlich,,Sink or Swim Classic,2013,2
+IM,50 M Backstroke,SCM,W,50-54,37.88,Andrea J Block,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,50 M Backstroke,SCM,W,50-54,40.34,Lisa Schwartz,,Sink or Swim Classic,2013,2
+IM,100 M Backstroke,SCM,W,50-54,2:00.30,Beth Scherer,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,W,50-54,45.36,Lisa Schwartz,,Sink or Swim Classic,2013,1
+IM,50 M Butterfly,SCM,W,50-54,32.74,Andrea J Block,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,100 M Butterfly,SCM,W,50-54,1:11.08,Andrea J Block,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,200 M Butterfly,SCM,W,50-54,2:43.85,Andrea J Block,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,200 M Butterfly,SCM,W,50-54,3:07.90,Kathryn Froehlich,,Sink or Swim Classic,2013,2
+IM,100 M Individual Medley,SCM,W,50-54,1:29.24,Lisa Schwartz,,Sink or Swim Classic,2013,1
+IM,400 M Individual Medley,SCM,W,50-54,6:20.64,Kathryn Froehlich,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,W,55-59,7:21.37,Barbara Delanois,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,W,55-59,1:48.36,Barbara Delanois,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,W,55-59,46.25,Jane B Del Greco,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,W,55-59,56.56,Barbara Delanois,,Sink or Swim Classic,2013,2
+IM,100 M Breaststroke,SCM,W,55-59,1:42.36,Jane B Del Greco,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,W,55-59,1:51.16,Barbara Delanois,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,18-24,35.93,Adam  Aldaddah,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,18-24,40.38,Mark Filip,,Sink or Swim Classic,2013,2
+IM,200 M Freestyle,SCM,M,18-24,3:32.29,Adam  Aldaddah,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,M,18-24,46.29,Adam  Aldaddah,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,M,18-24,1:41.91,Adam  Aldaddah,,Sink or Swim Classic,2013,1
+IM,50 M Butterfly,SCM,M,18-24,52.30,Adam  Aldaddah,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,25-29,27.83,Bjorn Oxos,,2013 IGLA Swimming Championships,2013,1
+IM,100 M Freestyle,SCM,M,25-29,1:00.77,Bjorn Oxos,,2013 IGLA Swimming Championships,2013,1
+IM,100 M Freestyle,SCM,M,25-29,1:11.86,Michael W Cowen,,Sink or Swim Classic,2013,2
+IM,400 M Freestyle,SCM,M,25-29,4:29.17,Clay S Rehrig,,2013 IGLA Swimming Championships,2013,1
+IM,400 M Freestyle,SCM,M,25-29,4:31.18,Matthew R Trauner,,2013 IGLA Swimming Championships,2013,2
+IM,400 M Freestyle,SCM,M,25-29,5:02.35,Bjorn Oxos,,2013 IGLA Swimming Championships,2013,3
+IM,400 M Freestyle,SCM,M,25-29,5:09.68,John Morris,,Sink or Swim Classic,2013,4
+IM,800 M Freestyle,SCM,M,25-29,9:24.81,Matthew R Trauner,,2013 IGLA Swimming Championships,2013,1
+IM,800 M Freestyle,SCM,M,25-29,9:30.83,Clay S Rehrig,,2013 IGLA Swimming Championships,2013,2
+IM,200 M Backstroke,SCM,M,25-29,2:23.83,Clay S Rehrig,,2013 IGLA Swimming Championships,2013,1
+IM,200 M Backstroke,SCM,M,25-29,3:03.57,John Morris,,Sink or Swim Classic,2013,2
+IM,200 M Backstroke,SCM,M,25-29,3:06.82,Michael W Cowen,,Sink or Swim Classic,2013,3
+IM,50 M Breaststroke,SCM,M,25-29,41.99,Michael W Cowen,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,M,25-29,1:14.22,Matthew R Trauner,,2013 IGLA Swimming Championships,2013,1
+IM,100 M Breaststroke,SCM,M,25-29,1:34.66,Michael W Cowen,,Sink or Swim Classic,2013,2
+IM,50 M Butterfly,SCM,M,25-29,30.22,Bjorn Oxos,,2013 IGLA Swimming Championships,2013,1
+IM,100 M Butterfly,SCM,M,25-29,1:23.78,John Morris,,Sink or Swim Classic,2013,1
+IM,200 M Butterfly,SCM,M,25-29,2:22.15,Clay S Rehrig,,2013 IGLA Swimming Championships,2013,1
+IM,200 M Butterfly,SCM,M,25-29,2:52.60,John Morris,,Sink or Swim Classic,2013,2
+IM,100 M Individual Medley,SCM,M,25-29,1:06.81,Matthew R Trauner,,2013 IGLA Swimming Championships,2013,1
+IM,100 M Individual Medley,SCM,M,25-29,1:11.40,Bjorn Oxos,,2013 IGLA Swimming Championships,2013,2
+IM,200 M Individual Medley,SCM,M,25-29,3:07.60,Michael W Cowen,,Sink or Swim Classic,2013,1
+IM,400 M Individual Medley,SCM,M,25-29,5:07.04,Matthew R Trauner,,2013 IGLA Swimming Championships,2013,1
+IM,400 M Individual Medley,SCM,M,25-29,5:11.46,Clay S Rehrig,,2013 IGLA Swimming Championships,2013,2
+IM,50 M Freestyle,SCM,M,30-34,30.61,Brian Gilbert,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,M,30-34,57.23,David T Doerr,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,M,30-34,1:08.97,Brian Gilbert,,Sink or Swim Classic,2013,2
+IM,200 M Freestyle,SCM,M,30-34,2:06.86,David T Doerr,,Sink or Swim Classic,2013,1
+IM,200 M Freestyle,SCM,M,30-34,2:36.79,Brian Gilbert,,Sink or Swim Classic,2013,2
+IM,400 M Freestyle,SCM,M,30-34,5:06.77,John Leonard,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,30-34,1:09.40,David T Doerr,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,M,30-34,33.93,John Leonard,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,M,30-34,44.10,Brian Gilbert,,Sink or Swim Classic,2013,2
+IM,100 M Breaststroke,SCM,M,30-34,1:16.49,John Leonard,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,30-34,1:11.93,John Leonard,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,30-34,1:24.30,Brian Gilbert,,Sink or Swim Classic,2013,2
+IM,200 M Individual Medley,SCM,M,30-34,2:31.48,David T Doerr,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,35-39,26.84,Paul Reader,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,35-39,30.00,Ruben Figueres,,Sink or Swim Classic,2013,2
+IM,100 M Freestyle,SCM,M,35-39,58.36,Paul Reader,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,M,35-39,1:02.60,Peter J Dixon,,Sink or Swim Classic,2013,2
+IM,100 M Freestyle,SCM,M,35-39,1:03.28,Ruben Figueres,,Sink or Swim Classic,2013,3
+IM,100 M Freestyle,SCM,M,35-39,1:17.91,Jesse R Czach,,Sink or Swim Classic,2013,4
+IM,200 M Freestyle,SCM,M,35-39,2:06.61,Paul Reader,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,M,35-39,4:41.05,Ruben Figueres,,Sink or Swim Classic,2013,1
+IM,50 M Backstroke,SCM,M,35-39,35.49,Peter J Dixon,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,35-39,1:08.50,Paul Reader,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,35-39,1:38.58,Jesse R Czach,,Sink or Swim Classic,2013,2
+IM,100 M Breaststroke,SCM,M,35-39,1:31.03,Ruben Figueres,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,M,35-39,1:40.39,Jesse R Czach,,Sink or Swim Classic,2013,2
+IM,200 M Butterfly,SCM,M,35-39,2:52.00,Ruben Figueres,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,35-39,1:33.08,Jesse R Czach,,Sink or Swim Classic,2013,1
+IM,200 M Individual Medley,SCM,M,35-39,2:51.91,Peter J Dixon,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,45-49,29.96,Jim Brownlee,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,45-49,32.11,James Sobiesczyk,,Sink or Swim Classic,2013,2
+IM,100 M Freestyle,SCM,M,45-49,1:05.35,Jim Brownlee,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,M,45-49,1:13.32,James Sobiesczyk,,Sink or Swim Classic,2013,2
+IM,50 M Backstroke,SCM,M,45-49,29.61,Bryan Malas,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,45-49,1:04.80,Bryan Malas,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,M,45-49,41.86,John C Schoser,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,M,45-49,1:30.50,John C Schoser,,Sink or Swim Classic,2013,1
+IM,200 M Breaststroke,SCM,M,45-49,3:14.38,John C Schoser,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,50-54,29.70,Lee Francis,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,50-54,30.01,David McKeon,,Sink or Swim Classic,2013,2
+IM,100 M Freestyle,SCM,M,50-54,1:06.23,Lee Francis,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,M,50-54,1:06.84,David McKeon,,Sink or Swim Classic,2013,2
+IM,200 M Freestyle,SCM,M,50-54,2:42.03,Mark D Schark,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,M,50-54,5:04.05,Lee Francis,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,50-54,1:13.92,Timothy J Jenkins,,Sink or Swim Classic,2013,1
+IM,200 M Backstroke,SCM,M,50-54,2:50.00,Mark D Schark,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,M,50-54,33.22,Plamen D Alexandrov,,Sink or Swim Classic,2013,1
+IM,50 M Breaststroke,SCM,M,50-54,34.68,David E Sims,,Sink or Swim Classic,2013,2
+IM,50 M Breaststroke,SCM,M,50-54,38.87,Lee Francis,,Sink or Swim Classic,2013,3
+IM,50 M Breaststroke,SCM,M,50-54,43.97,Sheng Xu,,Sink or Swim Classic,2013,4
+IM,100 M Breaststroke,SCM,M,50-54,1:15.37,Plamen D Alexandrov,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,M,50-54,1:21.59,Timothy J Jenkins,,Sink or Swim Classic,2013,2
+IM,100 M Breaststroke,SCM,M,50-54,1:26.92,Lee Francis,,Sink or Swim Classic,2013,3
+IM,100 M Breaststroke,SCM,M,50-54,1:38.64,Sheng Xu,,Sink or Swim Classic,2013,4
+IM,200 M Breaststroke,SCM,M,50-54,2:51.32,Plamen D Alexandrov,,Sink or Swim Classic,2013,1
+IM,200 M Breaststroke,SCM,M,50-54,3:35.81,Sheng Xu,,Sink or Swim Classic,2013,2
+IM,50 M Butterfly,SCM,M,50-54,26.83,David E Sims,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,100 M Individual Medley,SCM,M,50-54,1:11.79,Plamen D Alexandrov,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,50-54,1:19.54,David McKeon,,Sink or Swim Classic,2013,2
+IM,200 M Individual Medley,SCM,M,50-54,2:13.89,David E Sims,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,200 M Individual Medley,SCM,M,50-54,2:32.28,Timothy J Jenkins,,Sink or Swim Classic,2013,2
+IM,200 M Individual Medley,SCM,M,50-54,2:56.64,David McKeon,,Sink or Swim Classic,2013,3
+IM,400 M Individual Medley,SCM,M,50-54,4:50.40,David E Sims,,2013 NE-LMSC SCM Championship Meet,2013,1
+IM,50 M Freestyle,SCM,M,55-59,28.63,Tom Holmberg,,Rowdy Gaines Masters Classic V,2013,1
+IM,100 M Freestyle,SCM,M,55-59,1:04.93,Tom Holmberg,,Rowdy Gaines Masters Classic V,2013,1
+IM,50 M Backstroke,SCM,M,55-59,39.83,Bob Ostrander,,2013 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2013,1
+IM,50 M Breaststroke,SCM,M,55-59,35.14,Tom Holmberg,,Rowdy Gaines Masters Classic V,2013,1
+IM,50 M Breaststroke,SCM,M,55-59,37.76,Harvey G Seybold,,Sink or Swim Classic,2013,2
+IM,50 M Breaststroke,SCM,M,55-59,42.70,Bob Ostrander,,2013 Ron Johnson Invitational Arizona and SW Zone SCM Championships,2013,3
+IM,100 M Breaststroke,SCM,M,55-59,1:18.71,Tom Holmberg,,Rowdy Gaines Masters Classic V,2013,1
+IM,100 M Breaststroke,SCM,M,55-59,1:25.48,Harvey G Seybold,,Sink or Swim Classic,2013,2
+IM,200 M Breaststroke,SCM,M,55-59,2:55.06,Tom Holmberg,,Rowdy Gaines Masters Classic V,2013,1
+IM,50 M Butterfly,SCM,M,55-59,36.32,Tim Shekleton,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,55-59,1:32.79,Tim Shekleton,,Sink or Swim Classic,2013,1
+IM,200 M Individual Medley,SCM,M,55-59,3:18.88,Tim Shekleton,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,60-64,31.87,Mark J Anderson,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,60-64,39.13,Donald J Alsen,,Sink or Swim Classic,2013,2
+IM,50 M Freestyle,SCM,M,60-64,39.74,John H Anderson,,Sink or Swim Classic,2013,3
+IM,100 M Freestyle,SCM,M,60-64,1:02.54,Phil L Dodson,,Wisconsin West Bend HS SCM Champs,2013,1
+IM,100 M Freestyle,SCM,M,60-64,1:29.99,John H Anderson,,Wisconsin West Bend HS SCM Champs,2013,2
+IM,100 M Freestyle,SCM,M,60-64,1:35.69,Donald J Alsen,,Sink or Swim Classic,2013,3
+IM,100 M Backstroke,SCM,M,60-64,1:21.20,Phil L Dodson,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,60-64,1:23.97,Mark J Anderson,,Sink or Swim Classic,2013,2
+IM,100 M Backstroke,SCM,M,60-64,1:55.22,John H Anderson,,Sink or Swim Classic,2013,3
+IM,200 M Backstroke,SCM,M,60-64,2:41.97,Phil L Dodson,,Shark Tank SCM Meet,2013,1
+IM,200 M Backstroke,SCM,M,60-64,4:10.38,John H Anderson,,Wisconsin West Bend HS SCM Champs,2013,2
+IM,50 M Breaststroke,SCM,M,60-64,1:00.32,Donald J Alsen,,Sink or Swim Classic,2013,1
+IM,100 M Breaststroke,SCM,M,60-64,2:18.55,Donald J Alsen,,Sink or Swim Classic,2013,1
+IM,50 M Butterfly,SCM,M,60-64,31.69,Phil L Dodson,,Shark Tank SCM Meet,2013,1
+IM,100 M Butterfly,SCM,M,60-64,1:11.82,Phil L Dodson,,Shark Tank SCM Meet,2013,1
+IM,200 M Butterfly,SCM,M,60-64,2:44.33,Phil L Dodson,,Wisconsin West Bend HS SCM Champs,2013,1
+IM,100 M Individual Medley,SCM,M,60-64,1:24.78,Mark J Anderson,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,60-64,2:10.70,Donald J Alsen,,Sink or Swim Classic,2013,2
+IM,200 M Individual Medley,SCM,M,60-64,2:42.29,Phil L Dodson,,Wisconsin West Bend HS SCM Champs,2013,1
+IM,400 M Individual Medley,SCM,M,60-64,5:43.26,Phil L Dodson,,Shark Tank SCM Meet,2013,1
+IM,100 M Freestyle,SCM,M,65-69,1:37.25,Barry H Dayton,,Sink or Swim Classic,2013,1
+IM,200 M Freestyle,SCM,M,65-69,3:48.03,Barry H Dayton,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,M,65-69,8:01.43,Barry H Dayton,,Sink or Swim Classic,2013,1
+IM,100 M Backstroke,SCM,M,65-69,1:58.89,Barry H Dayton,,Sink or Swim Classic,2013,1
+IM,100 M Individual Medley,SCM,M,65-69,2:06.14,Barry H Dayton,,Sink or Swim Classic,2013,1
+IM,50 M Freestyle,SCM,M,70-74,52.97,Kenneth H Cohen,,Sink or Swim Classic,2013,1
+IM,100 M Freestyle,SCM,M,70-74,2:05.95,Kenneth H Cohen,,Sink or Swim Classic,2013,1
+IM,400 M Freestyle,SCM,M,70-74,7:07.35,Phil Heath,,MAC 2013 SCM Fall Invite,2013,1
+IM,400 M Freestyle,SCM,M,70-74,9:19.02,Kenneth H Cohen,,Sink or Swim Classic,2013,2
+IM,1500 M Freestyle,SCM,M,70-74,27:25.58,Phil Heath,,MAC 2013 SCM Fall Invite,2013,1
+IM,50 M Breaststroke,SCM,M,70-74,1:31.21,Kenneth H Cohen,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,W,18-24,45.93,Catherine E Reed,,Sink or Swim Classic,2013,1
+LIB,100 M Freestyle,SCM,W,18-24,1:48.77,Catherine E Reed,,Sink or Swim Classic,2013,1
+LIB,50 M Backstroke,SCM,W,18-24,1:00.83,Catherine E Reed,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,W,45-49,33.85,Sandra Moenssens,,Shark Tank SCM Meet,2013,1
+LIB,100 M Freestyle,SCM,W,45-49,1:16.91,Sandra Moenssens,,Shark Tank SCM Meet,2013,1
+LIB,200 M Freestyle,SCM,W,45-49,2:47.49,Kathy S Bedward,,Sink or Swim Classic,2013,1
+LIB,400 M Freestyle,SCM,W,45-49,6:07.89,Kathy S Bedward,,Sink or Swim Classic,2013,1
+LIB,50 M Butterfly,SCM,W,45-49,37.27,Sandra Moenssens,,Shark Tank SCM Meet,2013,1
+LIB,100 M Individual Medley,SCM,W,45-49,1:29.62,Sandra Moenssens,,Shark Tank SCM Meet,2013,1
+LIB,200 M Freestyle,SCM,W,50-54,3:13.23,Susan Schwarm,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,400 M Freestyle,SCM,W,50-54,6:36.91,Susan Schwarm,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,800 M Freestyle,SCM,W,50-54,13:24.16,Susan Schwarm,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,1500 M Freestyle,SCM,W,50-54,25:16.71,Susan Schwarm,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,50 M Backstroke,SCM,W,50-54,40.47,Susan Schwarm,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,50 M Freestyle,SCM,M,25-29,33.68,Michael P McDonnell,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,100 M Freestyle,SCM,M,25-29,1:15.82,Michael P McDonnell,,Shark Tank SCM Meet,2013,1
+LIB,100 M Freestyle,SCM,M,25-29,1:26.41,Blake D Peacock,,Sink or Swim Classic,2013,2
+LIB,200 M Freestyle,SCM,M,25-29,2:47.80,Michael P McDonnell,,Sink or Swim Classic,2013,1
+LIB,400 M Freestyle,SCM,M,25-29,6:02.46,Michael P McDonnell,,Shark Tank SCM Meet,2013,1
+LIB,50 M Backstroke,SCM,M,25-29,42.20,Michael P McDonnell,,Shark Tank SCM Meet,2013,1
+LIB,100 M Backstroke,SCM,M,25-29,1:31.33,Michael P McDonnell,,Shark Tank SCM Meet,2013,1
+LIB,50 M Breaststroke,SCM,M,25-29,48.33,Blake D Peacock,,Sink or Swim Classic,2013,1
+LIB,50 M Breaststroke,SCM,M,25-29,53.64,Michael P McDonnell,,Wisconsin West Bend HS SCM Champs,2013,2
+LIB,100 M Breaststroke,SCM,M,25-29,1:47.50,Blake D Peacock,,Sink or Swim Classic,2013,1
+LIB,50 M Butterfly,SCM,M,25-29,39.90,Michael P McDonnell,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,100 M Butterfly,SCM,M,25-29,1:36.30,Michael P McDonnell,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,200 M Individual Medley,SCM,M,25-29,3:21.05,Michael P McDonnell,,Shark Tank SCM Meet,2013,1
+LIB,400 M Individual Medley,SCM,M,25-29,7:14.62,Michael P McDonnell,,Shark Tank SCM Meet,2013,1
+LIB,100 M Freestyle,SCM,M,30-34,1:12.65,Ben Rigby,,Sink or Swim Classic,2013,1
+LIB,200 M Freestyle,SCM,M,30-34,2:35.43,Ben Rigby,,Sink or Swim Classic,2013,1
+LIB,100 M Backstroke,SCM,M,30-34,1:26.63,Ben Rigby,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,M,35-39,29.57,Michael Kusevskis,,Sink or Swim Classic,2013,1
+LIB,100 M Freestyle,SCM,M,35-39,1:00.06,Jamie Mills,,Sink or Swim Classic,2013,1
+LIB,200 M Freestyle,SCM,M,35-39,2:21.64,Jamie Mills,,Sink or Swim Classic,2013,1
+LIB,200 M Freestyle,SCM,M,35-39,2:21.64,Michael Kusevskis,,Sink or Swim Classic,2013,2
+LIB,400 M Freestyle,SCM,M,35-39,5:02.59,Jamie Mills,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,M,40-44,29.79,Scott Melcher,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,M,40-44,31.33,Robert Michuda,,Wisconsin West Bend HS SCM Champs,2013,2
+LIB,50 M Freestyle,SCM,M,40-44,35.37,Brian Clark,,Sink or Swim Classic,2013,3
+LIB,100 M Freestyle,SCM,M,40-44,1:09.59,David McGaughy,,Sink or Swim Classic,2013,1
+LIB,100 M Freestyle,SCM,M,40-44,1:11.12,Robert Michuda,,Wisconsin West Bend HS SCM Champs,2013,2
+LIB,200 M Freestyle,SCM,M,40-44,2:37.24,David McGaughy,,Sink or Swim Classic,2013,1
+LIB,200 M Freestyle,SCM,M,40-44,2:44.50,Robert Michuda,,Wisconsin West Bend HS SCM Champs,2013,2
+LIB,50 M Backstroke,SCM,M,40-44,35.48,Scott Melcher,,Sink or Swim Classic,2013,1
+LIB,50 M Backstroke,SCM,M,40-44,42.97,Brian Clark,,Sink or Swim Classic,2013,2
+LIB,100 M Backstroke,SCM,M,40-44,1:54.65,Brian Clark,,Sink or Swim Classic,2013,1
+LIB,200 M Backstroke,SCM,M,40-44,3:55.86,Brian Clark,,Sink or Swim Classic,2013,1
+LIB,50 M Breaststroke,SCM,M,40-44,38.83,Scott Melcher,,Sink or Swim Classic,2013,1
+LIB,100 M Breaststroke,SCM,M,40-44,1:28.16,David McGaughy,,Sink or Swim Classic,2013,1
+LIB,50 M Butterfly,SCM,M,40-44,33.13,Scott Melcher,,Sink or Swim Classic,2013,1
+LIB,50 M Butterfly,SCM,M,40-44,38.52,Robert Michuda,,Wisconsin West Bend HS SCM Champs,2013,2
+LIB,50 M Freestyle,SCM,M,45-49,28.23,Dwight Turner,,Sink or Swim Classic,2013,1
+LIB,100 M Freestyle,SCM,M,45-49,1:04.88,Dwight Turner,,Sink or Swim Classic,2013,1
+LIB,100 M Freestyle,SCM,M,45-49,1:11.25,John W Richert,,Sink or Swim Classic,2013,2
+LIB,50 M Backstroke,SCM,M,45-49,36.98,Dwight Turner,,Sink or Swim Classic,2013,1
+LIB,50 M Breaststroke,SCM,M,45-49,35.64,Dwight Turner,,Sink or Swim Classic,2013,1
+LIB,100 M Breaststroke,SCM,M,45-49,1:30.95,John W Richert,,Sink or Swim Classic,2013,1
+LIB,200 M Breaststroke,SCM,M,45-49,3:23.96,John W Richert,,Sink or Swim Classic,2013,1
+LIB,100 M Individual Medley,SCM,M,45-49,1:19.99,Dwight Turner,,Sink or Swim Classic,2013,1
+LIB,200 M Individual Medley,SCM,M,45-49,3:00.99,John W Richert,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,M,50-54,28.04,David Whelchel,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,50 M Freestyle,SCM,M,50-54,34.18,Allen S Moody,,Sink or Swim Classic,2013,2
+LIB,50 M Freestyle,SCM,M,50-54,38.84,Carl Skoog,,Sink or Swim Classic,2013,3
+LIB,100 M Freestyle,SCM,M,50-54,1:03.06,David Whelchel,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,100 M Freestyle,SCM,M,50-54,1:08.65,Frank Weitekamper,,Sink or Swim Classic,2013,2
+LIB,100 M Freestyle,SCM,M,50-54,1:18.15,Allen S Moody,,Sink or Swim Classic,2013,3
+LIB,100 M Freestyle,SCM,M,50-54,1:35.75,Carl Skoog,,Sink or Swim Classic,2013,4
+LIB,200 M Freestyle,SCM,M,50-54,2:59.34,Allen S Moody,,Sink or Swim Classic,2013,1
+LIB,50 M Backstroke,SCM,M,50-54,32.27,David Whelchel,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,100 M Backstroke,SCM,M,50-54,1:12.38,David Whelchel,,Sink or Swim Classic,2013,1
+LIB,100 M Backstroke,SCM,M,50-54,1:18.90,Frank Weitekamper,,Sink or Swim Classic,2013,2
+LIB,50 M Breaststroke,SCM,M,50-54,49.97,Carl Skoog,,Sink or Swim Classic,2013,1
+LIB,100 M Breaststroke,SCM,M,50-54,1:48.84,Carl Skoog,,Sink or Swim Classic,2013,1
+LIB,100 M Individual Medley,SCM,M,50-54,1:16.05,David Whelchel,,Wisconsin West Bend HS SCM Champs,2013,1
+LIB,100 M Individual Medley,SCM,M,50-54,1:24.09,Frank Weitekamper,,Sink or Swim Classic,2013,2
+LIB,50 M Freestyle,SCM,M,55-59,33.23,Michael E Reed,,Sink or Swim Classic,2013,1
+LIB,50 M Freestyle,SCM,M,55-59,35.02,Michael D Bergquist,,Sink or Swim Classic,2013,2
+LIB,400 M Freestyle,SCM,M,55-59,5:53.55,Michael E Reed,,Sink or Swim Classic,2013,1
+LIB,400 M Freestyle,SCM,M,55-59,6:13.04,Michael D Bergquist,,Sink or Swim Classic,2013,2
+LIB,50 M Backstroke,SCM,M,55-59,44.73,Michael E Reed,,Sink or Swim Classic,2013,1
+LIB,50 M Backstroke,SCM,M,55-59,44.95,Michael D Bergquist,,Sink or Swim Classic,2013,2
+LIB,100 M Backstroke,SCM,M,55-59,1:13.63,Todd A Keil,,Sink or Swim Classic,2013,1
+LIB,200 M Backstroke,SCM,M,55-59,2:35.06,Todd A Keil,,Sink or Swim Classic,2013,1
+LIB,50 M Breaststroke,SCM,M,55-59,48.70,Michael E Reed,,Sink or Swim Classic,2013,1
+LIB,100 M Breaststroke,SCM,M,55-59,1:51.58,Michael D Bergquist,,Sink or Swim Classic,2013,1
+LIB,100 M Individual Medley,SCM,M,55-59,1:31.97,Michael E Reed,,Sink or Swim Classic,2013,1
+LIB,100 M Individual Medley,SCM,M,55-59,1:38.63,Michael D Bergquist,,Sink or Swim Classic,2013,2
+UC21,200 M Freestyle,SCM,W,30-34,3:10.97,Sara Chapman,,Sink or Swim Classic,2013,1
+UC21,400 M Freestyle,SCM,W,30-34,6:50.14,Sara Chapman,,Sink or Swim Classic,2013,1
+UC21,100 M Freestyle,SCM,W,35-39,1:28.25,Kristin Arntzen,,Sink or Swim Classic,2013,1
+UC21,100 M Backstroke,SCM,W,35-39,1:33.01,Kristin Arntzen,,Sink or Swim Classic,2013,1
+UC21,100 M Individual Medley,SCM,W,35-39,1:34.74,Kristin Arntzen,,Sink or Swim Classic,2013,1
+UC21,50 M Freestyle,SCM,M,30-34,30.50,David Gonzalez,,Sink or Swim Classic,2013,1
+UC21,100 M Freestyle,SCM,M,30-34,1:08.66,David Gonzalez,,Sink or Swim Classic,2013,1
+UC21,200 M Freestyle,SCM,M,30-34,2:37.72,David Gonzalez,,Sink or Swim Classic,2013,1
+UC21,100 M Backstroke,SCM,M,30-34,1:19.73,David Gonzalez,,Sink or Swim Classic,2013,1
+UC21,50 M Breaststroke,SCM,M,30-34,39.91,David Gonzalez,,Sink or Swim Classic,2013,1
+UC21,50 M Freestyle,SCM,M,55-59,34.99,Joseph N Webb,,2013 Miami Redfin Fall Meet,2013,1
+UC21,100 M Freestyle,SCM,M,55-59,1:20.35,Joseph N Webb,,2013 Miami Redfin Fall Meet,2013,1
+UC21,200 M Freestyle,SCM,M,55-59,2:55.02,Joseph N Webb,,2013 Miami Redfin Fall Meet,2013,1
+UNAT,50 M Freestyle,SCM,W,25-29,34.89,Stephanie L Dueweke,,6th Annual Milford Meltdown,2013,1
+UNAT,100 M Freestyle,SCM,W,25-29,1:16.47,Stephanie L Dueweke,,6th Annual Milford Meltdown,2013,1
+UNAT,200 M Freestyle,SCM,W,25-29,2:53.54,Stephanie L Dueweke,,6th Annual Milford Meltdown,2013,1
+UNAT,400 M Freestyle,SCM,W,25-29,6:16.39,Stephanie L Dueweke,,6th Annual Milford Meltdown,2013,1
+UNAT,100 M Freestyle,SCM,M,55-59,1:21.05,Joseph N Webb,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+UNAT,200 M Freestyle,SCM,M,55-59,2:54.75,Joseph N Webb,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+UNAT,100 M Butterfly,SCM,M,55-59,1:39.70,Joseph N Webb,,3rd Annual University of Indianapolis Masters Invitatioinal,2013,1
+WLAC,50 M Freestyle,SCM,W,30-34,33.17,Emilie Sims,,Sink or Swim Classic,2013,1
+WLAC,50 M Freestyle,SCM,W,30-34,33.22,Genna Sorget,,Sink or Swim Classic,2013,2
+WLAC,100 M Freestyle,SCM,W,30-34,1:12.99,Emilie Sims,,Sink or Swim Classic,2013,1
+WLAC,100 M Freestyle,SCM,W,30-34,1:14.03,Genna Sorget,,Sink or Swim Classic,2013,2
+WLAC,200 M Freestyle,SCM,W,30-34,2:37.62,Emilie Sims,,Sink or Swim Classic,2013,1
+WLAC,200 M Freestyle,SCM,W,30-34,2:40.94,Genna Sorget,,Sink or Swim Classic,2013,2
+WLAC,100 M Butterfly,SCM,W,30-34,1:13.86,Genevieve M Bernal,,Sink or Swim Classic,2013,1
+WLAC,200 M Butterfly,SCM,W,30-34,2:40.41,Genevieve M Bernal,,Sink or Swim Classic,2013,1
+WLAC,100 M Individual Medley,SCM,W,30-34,1:27.22,Emilie Sims,,Sink or Swim Classic,2013,1
+WLAC,200 M Individual Medley,SCM,W,30-34,2:54.71,Genevieve M Bernal,,Sink or Swim Classic,2013,1
+WLAC,50 M Freestyle,SCM,W,35-39,30.83,Nichole Sheehan,,Sink or Swim Classic,2013,1
+WLAC,100 M Freestyle,SCM,W,35-39,1:08.33,Nichole Sheehan,,Sink or Swim Classic,2013,1
+WLAC,200 M Freestyle,SCM,W,35-39,2:27.08,Nichole Sheehan,,Sink or Swim Classic,2013,1
+WLAC,200 M Individual Medley,SCM,W,35-39,2:45.37,Nichole Sheehan,,Sink or Swim Classic,2013,1
+WLAC,50 M Freestyle,SCM,W,40-44,35.31,Michelle Salomon,,Sink or Swim Classic,2013,1
+WLAC,100 M Freestyle,SCM,W,40-44,1:19.13,Michelle Salomon,,Sink or Swim Classic,2013,1
+WLAC,200 M Freestyle,SCM,W,40-44,2:51.74,Michelle Salomon,,Sink or Swim Classic,2013,1
+WLAC,100 M Freestyle,SCM,M,18-24,57.09,Thomas Boniface,,Sink or Swim Classic,2013,1
+WLAC,100 M Backstroke,SCM,M,18-24,1:06.53,Thomas Boniface,,Sink or Swim Classic,2013,1
+WLAC,200 M Individual Medley,SCM,M,18-24,2:23.17,Thomas Boniface,,Sink or Swim Classic,2013,1
+WLAC,50 M Freestyle,SCM,M,30-34,23.99,Tamas Kerekjarto,,2013 UCLA Bruin Masters SCM Swim Meet,2013,1
+WLAC,100 M Freestyle,SCM,M,30-34,55.95,Antonio Santoro,,Sink or Swim Classic,2013,1
+WLAC,100 M Backstroke,SCM,M,30-34,1:04.05,Antonio Santoro,,Sink or Swim Classic,2013,1
+WLAC,100 M Butterfly,SCM,M,30-34,56.25,Tamas Kerekjarto,,2013 UCLA Bruin Masters SCM Swim Meet,2013,1
+WLAC,50 M Freestyle,SCM,M,35-39,29.63,James Colquhoun,,Sink or Swim Classic,2013,1
+WLAC,200 M Freestyle,SCM,M,35-39,2:29.57,James Colquhoun,,Sink or Swim Classic,2013,1
+WLAC,50 M Freestyle,SCM,M,40-44,35.50,Mike Fitzpatrick,,Sink or Swim Classic,2013,1

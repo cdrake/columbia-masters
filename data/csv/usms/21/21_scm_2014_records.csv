@@ -1,0 +1,449 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ABM,50 M Freestyle,SCM,W,35-39,51.17,Natalia Vaganova,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+ABM,400 M Freestyle,SCM,W,35-39,8:09.59,Natalia Vaganova,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+ABM,800 M Freestyle,SCM,W,35-39,16:41.83,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,1500 M Freestyle,SCM,W,35-39,31:17.00,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,100 M Backstroke,SCM,W,35-39,2:26.07,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,200 M Backstroke,SCM,W,35-39,4:56.43,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,50 M Breaststroke,SCM,W,35-39,1:06.18,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,100 M Breaststroke,SCM,W,35-39,2:25.06,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,200 M Breaststroke,SCM,W,35-39,5:01.20,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,100 M Butterfly,SCM,W,35-39,2:16.27,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,200 M Butterfly,SCM,W,35-39,4:46.61,Natalia Vaganova,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+ABM,100 M Individual Medley,SCM,W,35-39,2:13.06,Natalia Vaganova,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+ABM,200 M Individual Medley,SCM,W,35-39,4:37.83,Natalia Vaganova,,2014 Rowdy Gaines Masters Classic VI,2014,1
+ABM,400 M Individual Medley,SCM,W,35-39,9:30.93,Natalia Vaganova,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+DANY,400 M Freestyle,SCM,W,45-49,7:24.00,Gina M Hieser,,Urbana Short Course Meters Meet,2014,1
+DANY,100 M Backstroke,SCM,W,45-49,1:59.09,Gina M Hieser,,Urbana Short Course Meters Meet,2014,1
+DANY,100 M Breaststroke,SCM,W,45-49,1:52.13,Gina M Hieser,,Urbana Short Course Meters Meet,2014,1
+DANY,100 M Individual Medley,SCM,W,45-49,1:46.12,Gina M Hieser,,Urbana Short Course Meters Meet,2014,1
+DANY,400 M Freestyle,SCM,M,35-39,7:25.98,Michael J Bucher,,Urbana Short Course Meters Meet,2014,1
+DANY,800 M Freestyle,SCM,M,35-39,15:36.17,Michael J Bucher,,Urbana Short Course Meters Meet,2014,1
+DANY,100 M Breaststroke,SCM,M,35-39,2:06.26,Michael J Bucher,,Urbana Short Course Meters Meet,2014,1
+DANY,100 M Individual Medley,SCM,M,35-39,1:49.21,Michael J Bucher,,Urbana Short Course Meters Meet,2014,1
+ELG,50 M Freestyle,SCM,M,65-69,33.90,Ken Ota,,Urbana Short Course Meters Meet,2014,1
+ELG,50 M Backstroke,SCM,M,65-69,48.79,Ken Ota,,Urbana Short Course Meters Meet,2014,1
+ELG,50 M Breaststroke,SCM,M,65-69,44.05,Ken Ota,,Urbana Short Course Meters Meet,2014,1
+ELG,50 M Butterfly,SCM,M,65-69,39.92,Ken Ota,,Urbana Short Course Meters Meet,2014,1
+GLTR,50 M Freestyle,SCM,W,40-44,42.93,Tracy L Lord,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,200 M Freestyle,SCM,W,40-44,3:27.68,Tracy L Lord,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,200 M Butterfly,SCM,W,40-44,4:31.55,Tracy L Lord,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,50 M Freestyle,SCM,W,50-54,40.42,Terrie Albano,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,50 M Butterfly,SCM,W,50-54,45.96,Terrie Albano,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,100 M Individual Medley,SCM,W,50-54,1:47.69,Terrie Albano,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,200 M Individual Medley,SCM,W,50-54,3:47.35,Terrie Albano,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,50 M Breaststroke,SCM,M,40-44,40.30,Andy Holck,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,50 M Butterfly,SCM,M,40-44,35.28,Andy Holck,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,200 M Individual Medley,SCM,M,40-44,2:49.57,Andy Holck,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+GLTR,400 M Individual Medley,SCM,M,40-44,6:08.65,Andy Holck,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Freestyle,SCM,M,30-34,32.48,Joseph M Lentino,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Freestyle,SCM,M,30-34,1:21.21,Joseph M Lentino,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Backstroke,SCM,M,30-34,1:33.52,Joseph M Lentino,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Freestyle,SCM,M,40-44,37.08,Toussaint Ward,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Breaststroke,SCM,M,40-44,40.26,Toussaint Ward,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Breaststroke,SCM,M,40-44,1:33.79,Toussaint Ward,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Freestyle,SCM,M,55-59,36.23,Lawrence J Moss,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Freestyle,SCM,M,55-59,1:24.16,Lawrence J Moss,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Breaststroke,SCM,M,55-59,46.52,Lawrence J Moss,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Breaststroke,SCM,M,55-59,1:45.34,Lawrence J Moss,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Individual Medley,SCM,M,55-59,1:43.64,Lawrence J Moss,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Freestyle,SCM,M,60-64,40.82,Mirko Popadic,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Freestyle,SCM,M,60-64,1:44.14,Mirko Popadic,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,50 M Breaststroke,SCM,M,60-64,57.50,Mirko Popadic,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Breaststroke,SCM,M,60-64,2:09.14,Mirko Popadic,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+HRYB,100 M Individual Medley,SCM,M,60-64,2:04.57,Mirko Popadic,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,18-24,30.46,Meghan M Jensen,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Backstroke,SCM,W,18-24,1:10.34,Jeanette C Nolte,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Butterfly,SCM,W,18-24,1:12.71,Jeanette C Nolte,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Butterfly,SCM,W,18-24,2:47.89,Jeanette C Nolte,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,W,18-24,1:13.90,Jeanette C Nolte,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,W,18-24,1:18.53,Meghan M Jensen,,Urbana Short Course Meters Meet,2014,2
+IM,50 M Freestyle,SCM,W,25-29,35.81,Allison Wehunt,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,W,25-29,1:19.12,Allison Wehunt,,Urbana Short Course Meters Meet,2014,1
+IM,200 M Freestyle,SCM,W,25-29,2:53.46,Allison Wehunt,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,W,25-29,1:33.49,Allison Wehunt,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Butterfly,SCM,W,25-29,42.22,Allison Wehunt,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Freestyle,SCM,W,30-34,29.14,Allison Lloyd,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Freestyle,SCM,W,30-34,2:24.62,Allison Lloyd,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Freestyle,SCM,W,30-34,3:16.24,Sara Chapman,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Breaststroke,SCM,W,30-34,35.93,Allison Lloyd,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Breaststroke,SCM,W,30-34,1:18.53,Allison Lloyd,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Breaststroke,SCM,W,30-34,1:43.54,Sara Chapman,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Individual Medley,SCM,W,30-34,1:11.86,Allison Lloyd,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,35-39,34.08,Laura Kasprzak,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,W,35-39,1:21.45,Laura Kasprzak,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,W,35-39,1:26.69,Karen M Darling,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Breaststroke,SCM,W,35-39,46.88,Laura Kasprzak,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,W,35-39,46.95,Karen M Darling,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Breaststroke,SCM,W,35-39,1:41.87,Karen M Darling,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,40-44,54.54,Andrea G Varol,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,W,40-44,1:05.11,Andrea G Varol,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,W,40-44,2:22.16,Andrea G Varol,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,45-49,31.06,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Freestyle,SCM,W,45-49,1:05.59,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Freestyle,SCM,W,45-49,1:23.69,Ruth Giles-Ott,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Freestyle,SCM,W,45-49,2:17.97,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,400 M Freestyle,SCM,W,45-49,4:52.10,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,400 M Freestyle,SCM,W,45-49,6:13.29,Nancy Davidson,,Urbana Short Course Meters Meet,2014,2
+IM,400 M Freestyle,SCM,W,45-49,6:26.65,Ruth Giles-Ott,,2014 Libertyville Masters Sink or Swim Classic,2014,3
+IM,50 M Backstroke,SCM,W,45-49,41.23,Nancy Davidson,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Backstroke,SCM,W,45-49,43.71,Ruth Giles-Ott,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Backstroke,SCM,W,45-49,1:10.96,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Backstroke,SCM,W,45-49,1:30.57,Nancy Davidson,,Urbana Short Course Meters Meet,2014,2
+IM,200 M Backstroke,SCM,W,45-49,3:17.65,Nancy Davidson,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Breaststroke,SCM,W,45-49,38.45,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Breaststroke,SCM,W,45-49,1:21.97,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,50 M Butterfly,SCM,W,45-49,32.42,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,50 M Butterfly,SCM,W,45-49,49.34,Ruth Giles-Ott,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Butterfly,SCM,W,45-49,1:10.46,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Butterfly,SCM,W,45-49,1:59.50,Ruth Giles-Ott,,Urbana Short Course Meters Meet,2014,2
+IM,100 M Individual Medley,SCM,W,45-49,1:11.27,Jennifer Ridge,,SPMS Short Course Meters Championships,2014,1
+IM,400 M Individual Medley,SCM,W,45-49,7:46.17,Ruth Giles-Ott,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,50-54,31.08,Heidi Kafka,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,50-54,33.12,Barbara T Zahorik,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,50 M Freestyle,SCM,W,50-54,37.68,Shari Heymann,,2014 Libertyville Masters Sink or Swim Classic,2014,3
+IM,50 M Freestyle,SCM,W,50-54,37.97,Susan Scanlan,,2014 Shark Tank SCM Meet,2014,4
+IM,100 M Freestyle,SCM,W,50-54,1:08.81,Heidi Kafka,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,W,50-54,1:10.87,Barbara T Zahorik,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,100 M Freestyle,SCM,W,50-54,1:18.30,Susan Scanlan,,2014 Shark Tank SCM Meet,2014,3
+IM,100 M Freestyle,SCM,W,50-54,1:25.04,Shari Heymann,,2014 Libertyville Masters Sink or Swim Classic,2014,4
+IM,100 M Freestyle,SCM,W,50-54,1:25.06,Carol Bossert-Hartman,,Urbana Short Course Meters Meet,2014,5
+IM,200 M Freestyle,SCM,W,50-54,2:21.89,Andrea J Block,,NE-LMSC SCM Championships,2014,1
+IM,200 M Freestyle,SCM,W,50-54,2:36.63,Heidi Kafka,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Freestyle,SCM,W,50-54,2:41.85,Barbara T Zahorik,,Wisconsin West Bend HS SCM Champs,2014,3
+IM,200 M Freestyle,SCM,W,50-54,2:55.13,Susan Scanlan,,Wisconsin West Bend HS SCM Champs,2014,4
+IM,400 M Freestyle,SCM,W,50-54,4:53.84,Andrea J Block,,NE-LMSC SCM Championships,2014,1
+IM,400 M Freestyle,SCM,W,50-54,5:26.66,Barbara T Zahorik,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,400 M Freestyle,SCM,W,50-54,6:08.39,Susan Scanlan,,Urbana Short Course Meters Meet,2014,3
+IM,400 M Freestyle,SCM,W,50-54,6:20.75,Carol Bossert-Hartman,,Urbana Short Course Meters Meet,2014,4
+IM,400 M Freestyle,SCM,W,50-54,6:57.68,Maureen Hardy,,Urbana Short Course Meters Meet,2014,5
+IM,400 M Freestyle,SCM,W,50-54,7:01.53,Shari Heymann,,2014 Libertyville Masters Sink or Swim Classic,2014,6
+IM,800 M Freestyle,SCM,W,50-54,10:55.03,Barbara T Zahorik,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,1500 M Freestyle,SCM,W,50-54,20:28.39,Barbara T Zahorik,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,50 M Backstroke,SCM,W,50-54,37.38,Andrea J Block,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,50 M Backstroke,SCM,W,50-54,41.74,Susan Scanlan,,2014 Shark Tank SCM Meet,2014,2
+IM,100 M Backstroke,SCM,W,50-54,1:20.34,Heidi Kafka,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,W,50-54,1:31.54,Susan Scanlan,,Urbana Short Course Meters Meet,2014,2
+IM,200 M Backstroke,SCM,W,50-54,2:48.95,Andrea J Block,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,200 M Backstroke,SCM,W,50-54,2:55.54,Heidi Kafka,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Breaststroke,SCM,W,50-54,1:00.33,Maureen Hardy,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Breaststroke,SCM,W,50-54,1:32.13,Heidi Kafka,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Butterfly,SCM,W,50-54,32.10,Andrea J Block,,NE-LMSC SCM Championships,2014,1
+IM,50 M Butterfly,SCM,W,50-54,37.74,Susan Scanlan,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,50 M Butterfly,SCM,W,50-54,50.69,Shari Heymann,,2014 Libertyville Masters Sink or Swim Classic,2014,3
+IM,100 M Butterfly,SCM,W,50-54,1:10.97,Andrea J Block,,NE-LMSC SCM Championships,2014,1
+IM,100 M Butterfly,SCM,W,50-54,1:32.55,Susan Scanlan,,2014 Shark Tank SCM Meet,2014,2
+IM,200 M Butterfly,SCM,W,50-54,2:44.38,Andrea J Block,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,W,50-54,1:17.38,Andrea J Block,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,100 M Individual Medley,SCM,W,50-54,1:29.43,Susan Scanlan,,Urbana Short Course Meters Meet,2014,2
+IM,100 M Individual Medley,SCM,W,50-54,1:41.56,Carol Bossert-Hartman,,Urbana Short Course Meters Meet,2014,3
+IM,100 M Individual Medley,SCM,W,50-54,1:52.39,Shari Heymann,,2014 Libertyville Masters Sink or Swim Classic,2014,4
+IM,100 M Individual Medley,SCM,W,50-54,1:53.04,Maureen Hardy,,Urbana Short Course Meters Meet,2014,5
+IM,200 M Individual Medley,SCM,W,50-54,2:45.30,Andrea J Block,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,200 M Individual Medley,SCM,W,50-54,3:14.18,Susan Scanlan,,2014 Shark Tank SCM Meet,2014,2
+IM,200 M Backstroke,SCM,W,55-59,3:52.91,Barbara Delanois,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Freestyle,SCM,W,65-69,1:07.03,Carolyn S Cooper,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Freestyle,SCM,W,65-69,2:31.48,Carolyn S Cooper,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Backstroke,SCM,W,65-69,1:11.68,Carolyn S Cooper,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Freestyle,SCM,W,75-79,1:00.55,Fran Faller,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,W,75-79,1:10.74,Mary Ann Berg,,Urbana Short Course Meters Meet,2014,2
+IM,100 M Freestyle,SCM,W,75-79,2:10.15,Fran Faller,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,W,75-79,2:48.00,Mary Ann Berg,,Urbana Short Course Meters Meet,2014,2
+IM,400 M Freestyle,SCM,W,75-79,8:51.85,Fran Faller,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Backstroke,SCM,W,75-79,1:20.64,Mary Ann Berg,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Backstroke,SCM,W,75-79,3:07.94,Mary Ann Berg,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Freestyle,SCM,M,18-24,28.90,Joshua S Peterson,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Freestyle,SCM,M,18-24,1:03.01,Joshua S Peterson,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Breaststroke,SCM,M,18-24,36.84,Joshua S Peterson,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Individual Medley,SCM,M,18-24,1:13.85,Joshua S Peterson,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Freestyle,SCM,M,25-29,29.91,Scott S Dueball,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Freestyle,SCM,M,25-29,2:46.61,Michael W Cowen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Backstroke,SCM,M,25-29,33.19,Barry Revzin,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Backstroke,SCM,M,25-29,3:01.73,Michael W Cowen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,25-29,36.65,Scott S Dueball,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,25-29,41.49,Michael W Cowen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Breaststroke,SCM,M,25-29,1:17.70,Barry Revzin,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Breaststroke,SCM,M,25-29,1:22.30,Scott S Dueball,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Breaststroke,SCM,M,25-29,1:34.50,Michael W Cowen,,2014 Libertyville Masters Sink or Swim Classic,2014,3
+IM,100 M Individual Medley,SCM,M,25-29,1:10.55,Barry Revzin,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,M,25-29,1:25.09,Michael W Cowen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Freestyle,SCM,M,30-34,29.39,Soheil Hejazi,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,M,30-34,30.59,Brian Gilbert,,4th Annual University of Indianapolis Masters Invitational,2014,2
+IM,100 M Freestyle,SCM,M,30-34,1:08.18,Brian Gilbert,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,M,30-34,1:08.81,Soheil Hejazi,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Freestyle,SCM,M,30-34,2:38.20,Brian Gilbert,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Freestyle,SCM,M,30-34,2:38.29,John Morris,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,400 M Freestyle,SCM,M,30-34,4:59.77,John Leonard,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Backstroke,SCM,M,30-34,32.50,Ben Lakin,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,M,30-34,1:10.34,Ben Lakin,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,30-34,33.77,John Leonard,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Breaststroke,SCM,M,30-34,42.30,Brian Gilbert,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Breaststroke,SCM,M,30-34,1:15.60,John Leonard,,Urbana Short Course Meters Meet,2014,1
+IM,200 M Breaststroke,SCM,M,30-34,2:53.91,John Leonard,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Butterfly,SCM,M,30-34,30.49,Ben Lakin,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Butterfly,SCM,M,30-34,37.16,Brian Gilbert,,4th Annual University of Indianapolis Masters Invitational,2014,2
+IM,100 M Butterfly,SCM,M,30-34,1:21.95,John Morris,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Butterfly,SCM,M,30-34,1:32.19,Brian Gilbert,,4th Annual University of Indianapolis Masters Invitational,2014,2
+IM,200 M Butterfly,SCM,M,30-34,2:57.29,John Morris,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,M,30-34,1:24.52,Brian Gilbert,,4th Annual University of Indianapolis Masters Invitational,2014,1
+IM,50 M Freestyle,SCM,M,35-39,26.78,Paul Reader,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,M,35-39,58.36,Paul Reader,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Freestyle,SCM,M,35-39,2:07.42,Paul Reader,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Backstroke,SCM,M,35-39,3:09.11,Michael A Thiry,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,35-39,36.84,Michael A Thiry,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,35-39,39.82,Lemikas R Lavender,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Breaststroke,SCM,M,35-39,1:21.20,Michael A Thiry,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Breaststroke,SCM,M,35-39,1:28.16,Lemikas R Lavender,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Breaststroke,SCM,M,35-39,3:15.97,Lemikas R Lavender,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Butterfly,SCM,M,35-39,39.19,Lemikas R Lavender,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,M,35-39,1:15.34,Michael A Thiry,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,400 M Individual Medley,SCM,M,35-39,7:08.05,Lemikas R Lavender,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,M,40-44,1:08.85,Mark E Mattson,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,400 M Freestyle,SCM,M,40-44,5:32.38,Mark E Mattson,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,M,40-44,1:21.55,Mark E Mattson,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,M,40-44,1:22.00,Fred M Myers,,Urbana Short Course Meters Meet,2014,2
+IM,200 M Backstroke,SCM,M,40-44,3:10.55,Fred M Myers,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Individual Medley,SCM,M,40-44,1:18.83,Mark E Mattson,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Individual Medley,SCM,M,40-44,2:55.83,Mark E Mattson,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,M,45-49,31.30,Edmund T Baumgartner,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Freestyle,SCM,M,45-49,1:11.46,Edmund T Baumgartner,,Urbana Short Course Meters Meet,2014,1
+IM,400 M Freestyle,SCM,M,45-49,4:26.36,Matt Keller,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,800 M Freestyle,SCM,M,45-49,12:38.39,Edmund T Baumgartner,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Backstroke,SCM,M,45-49,1:05.45,Bryan Malas,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Butterfly,SCM,M,45-49,28.78,Matt Keller,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,400 M Individual Medley,SCM,M,45-49,5:12.46,Matt Keller,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,M,50-54,27.56,Grant Dahlke,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,M,50-54,27.74,Robert A Young,,SPMS Short Course Meters Championships,2014,2
+IM,50 M Freestyle,SCM,M,50-54,31.91,Mark D Schark,,2014 Libertyville Masters Sink or Swim Classic,2014,3
+IM,100 M Freestyle,SCM,M,50-54,1:02.66,Grant Dahlke,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Freestyle,SCM,M,50-54,1:16.62,Scott A Siechen,,Urbana Short Course Meters Meet,2014,2
+IM,200 M Freestyle,SCM,M,50-54,1:57.37,David E Sims,,NE-LMSC SCM Championships,2014,1
+IM,200 M Freestyle,SCM,M,50-54,2:53.87,Scott A Siechen,,Urbana Short Course Meters Meet,2014,2
+IM,400 M Freestyle,SCM,M,50-54,6:21.12,Scott A Siechen,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Backstroke,SCM,M,50-54,33.92,Robert A Young,,SPMS Short Course Meters Championships,2014,1
+IM,50 M Backstroke,SCM,M,50-54,37.69,Mark D Schark,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Backstroke,SCM,M,50-54,1:20.54,Mark D Schark,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Backstroke,SCM,M,50-54,2:59.87,Mark D Schark,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,50-54,33.08,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Breaststroke,SCM,M,50-54,36.95,Bradley A Dineen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Breaststroke,SCM,M,50-54,39.87,Robert A Young,,SPMS Short Course Meters Championships,2014,3
+IM,100 M Breaststroke,SCM,M,50-54,1:14.98,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Breaststroke,SCM,M,50-54,1:22.47,Bradley A Dineen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Breaststroke,SCM,M,50-54,2:51.27,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2014,1
+IM,200 M Breaststroke,SCM,M,50-54,3:09.96,Bradley A Dineen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Butterfly,SCM,M,50-54,29.65,Robert A Young,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Butterfly,SCM,M,50-54,1:09.58,Robert A Young,,MN Masters Short Course Meters(SCM) Meet - 1st Annual,2014,1
+IM,100 M Individual Medley,SCM,M,50-54,1:12.56,Robert A Young,,SPMS Short Course Meters Championships,2014,1
+IM,100 M Individual Medley,SCM,M,50-54,1:12.80,Plamen D Alexandrov,,Urbana Short Course Meters Meet,2014,2
+IM,100 M Individual Medley,SCM,M,50-54,1:15.76,Bradley A Dineen,,2014 Libertyville Masters Sink or Swim Classic,2014,3
+IM,100 M Individual Medley,SCM,M,50-54,1:25.68,Mark D Schark,,2014 Libertyville Masters Sink or Swim Classic,2014,4
+IM,200 M Individual Medley,SCM,M,50-54,2:13.50,David E Sims,,NE-LMSC SCM Championships,2014,1
+IM,200 M Individual Medley,SCM,M,50-54,2:52.52,Bradley A Dineen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,400 M Individual Medley,SCM,M,50-54,4:49.49,David E Sims,,NE-LMSC SCM Championships,2014,1
+IM,400 M Individual Medley,SCM,M,50-54,6:17.37,Bradley A Dineen,,Urbana Short Course Meters Meet,2014,2
+IM,50 M Freestyle,SCM,M,55-59,28.79,Kevin Scanlan,,2014 Shark Tank SCM Meet,2014,1
+IM,50 M Freestyle,SCM,M,55-59,36.62,Ross Bogue,,Urbana Short Course Meters Meet,2014,2
+IM,50 M Freestyle,SCM,M,55-59,50.10,Thomas A Williamson,,Urbana Short Course Meters Meet,2014,3
+IM,100 M Freestyle,SCM,M,55-59,1:01.90,Kevin Scanlan,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,100 M Freestyle,SCM,M,55-59,1:57.47,Thomas A Williamson,,Urbana Short Course Meters Meet,2014,2
+IM,200 M Freestyle,SCM,M,55-59,2:12.71,Kevin Scanlan,,2014 Shark Tank SCM Meet,2014,1
+IM,200 M Freestyle,SCM,M,55-59,4:11.50,Thomas A Williamson,,Urbana Short Course Meters Meet,2014,2
+IM,400 M Freestyle,SCM,M,55-59,4:46.55,Kevin Scanlan,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,800 M Freestyle,SCM,M,55-59,10:14.35,Kevin Scanlan,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,1500 M Freestyle,SCM,M,55-59,19:18.13,Kevin Scanlan,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,100 M Backstroke,SCM,M,55-59,1:14.36,Mark G Booth,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,M,55-59,1:18.02,Andreas K Seibt,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Backstroke,SCM,M,55-59,2:43.31,Mark G Booth,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Backstroke,SCM,M,55-59,2:44.80,Andreas K Seibt,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,50 M Butterfly,SCM,M,55-59,42.58,Ross Bogue,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Butterfly,SCM,M,55-59,1:32.16,Ross Bogue,,Urbana Short Course Meters Meet,2014,1
+IM,200 M Butterfly,SCM,M,55-59,2:38.67,Mark G Booth,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Butterfly,SCM,M,55-59,2:44.52,Andreas K Seibt,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,100 M Individual Medley,SCM,M,55-59,1:14.50,Andreas K Seibt,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,100 M Individual Medley,SCM,M,55-59,1:14.85,Kevin Scanlan,,2014 Shark Tank SCM Meet,2014,2
+IM,200 M Individual Medley,SCM,M,55-59,2:39.83,Andreas K Seibt,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,200 M Individual Medley,SCM,M,55-59,2:45.68,Mark G Booth,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Individual Medley,SCM,M,55-59,2:46.17,Kevin Scanlan,,2014 Shark Tank SCM Meet,2014,3
+IM,400 M Individual Medley,SCM,M,55-59,5:36.39,Andreas K Seibt,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,50 M Freestyle,SCM,M,60-64,32.65,John W Carroll,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Freestyle,SCM,M,60-64,40.83,John H Anderson,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Freestyle,SCM,M,60-64,1:04.06,Phil L Dodson,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,100 M Freestyle,SCM,M,60-64,1:13.53,Mark J Anderson,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Freestyle,SCM,M,60-64,1:30.57,John H Anderson,,Wisconsin West Bend HS SCM Champs,2014,3
+IM,200 M Freestyle,SCM,M,60-64,2:23.00,Phil L Dodson,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,200 M Freestyle,SCM,M,60-64,3:27.07,John H Anderson,,Wisconsin West Bend HS SCM Champs,2014,2
+IM,400 M Freestyle,SCM,M,60-64,5:34.73,Phil L Dodson,,Urbana Short Course Meters Meet,2014,1
+IM,50 M Backstroke,SCM,M,60-64,51.13,Yoram Bresler,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Backstroke,SCM,M,60-64,1:24.74,Mark J Anderson,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Backstroke,SCM,M,60-64,2:42.40,Phil L Dodson,,2014 Shark Tank SCM Meet,2014,1
+IM,50 M Breaststroke,SCM,M,60-64,41.38,Steven E Dueball,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,60-64,44.06,John W Carroll,,Urbana Short Course Meters Meet,2014,2
+IM,50 M Breaststroke,SCM,M,60-64,46.58,Yoram Bresler,,Urbana Short Course Meters Meet,2014,3
+IM,100 M Breaststroke,SCM,M,60-64,1:32.38,Steven E Dueball,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Butterfly,SCM,M,60-64,42.88,Yoram Bresler,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Butterfly,SCM,M,60-64,1:11.50,Phil L Dodson,,2014 Shark Tank SCM Meet,2014,1
+IM,200 M Butterfly,SCM,M,60-64,2:42.45,Phil L Dodson,,2014 Shark Tank SCM Meet,2014,1
+IM,100 M Individual Medley,SCM,M,60-64,1:26.01,John W Carroll,,Urbana Short Course Meters Meet,2014,1
+IM,200 M Individual Medley,SCM,M,60-64,2:42.50,Phil L Dodson,,Wisconsin West Bend HS SCM Champs,2014,1
+IM,200 M Individual Medley,SCM,M,60-64,3:10.01,Mark J Anderson,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,200 M Individual Medley,SCM,M,60-64,3:35.12,Yoram Bresler,,Urbana Short Course Meters Meet,2014,3
+IM,400 M Individual Medley,SCM,M,60-64,5:39.26,Phil L Dodson,,2014 Shark Tank SCM Meet,2014,1
+IM,50 M Freestyle,SCM,M,65-69,39.80,Donald J Alsen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Freestyle,SCM,M,65-69,45.60,Barry H Dayton,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Freestyle,SCM,M,65-69,1:42.77,Barry H Dayton,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,400 M Freestyle,SCM,M,65-69,7:19.83,Donald J Alsen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Backstroke,SCM,M,65-69,53.77,Barry H Dayton,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Backstroke,SCM,M,65-69,1:58.31,Barry H Dayton,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,65-69,37.64,Peder Dahlberg,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,65-69,54.71,Donald J Alsen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,100 M Breaststroke,SCM,M,65-69,1:24.26,Peder Dahlberg,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,100 M Breaststroke,SCM,M,65-69,2:08.62,Donald J Alsen,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+IM,50 M Freestyle,SCM,M,70-74,52.53,Kenneth H Cohen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,200 M Freestyle,SCM,M,70-74,4:35.61,Kenneth H Cohen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,400 M Freestyle,SCM,M,70-74,9:17.12,Kenneth H Cohen,,Urbana Short Course Meters Meet,2014,1
+IM,100 M Backstroke,SCM,M,70-74,2:39.43,Kenneth H Cohen,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+IM,50 M Breaststroke,SCM,M,70-74,1:27.10,Kenneth H Cohen,,Urbana Short Course Meters Meet,2014,1
+LIB,100 M Freestyle,SCM,W,18-24,1:43.43,Catherine E Reed,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Backstroke,SCM,W,18-24,36.90,Caroline D Schwarm,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Backstroke,SCM,W,18-24,1:01.45,Catherine E Reed,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,100 M Backstroke,SCM,W,18-24,1:23.20,Caroline D Schwarm,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Backstroke,SCM,W,18-24,2:09.14,Catherine E Reed,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,100 M Freestyle,SCM,W,25-29,1:14.96,Kristen A Benetti,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Breaststroke,SCM,W,25-29,38.11,Anne Marie K Vayda,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Breaststroke,SCM,W,25-29,43.00,Kristen A Benetti,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,100 M Breaststroke,SCM,W,25-29,1:34.16,Kristen A Benetti,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Individual Medley,SCM,W,25-29,1:18.27,Anne Marie K Vayda,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Individual Medley,SCM,W,25-29,1:28.93,Kristen A Benetti,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,200 M Individual Medley,SCM,W,25-29,3:06.85,Kristen A Benetti,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,400 M Individual Medley,SCM,W,25-29,5:58.24,Anne Marie K Vayda,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Freestyle,SCM,W,35-39,1:17.90,Laura Klunder,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Freestyle,SCM,W,35-39,2:41.85,Jennifer L Gitzinger,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Freestyle,SCM,W,35-39,2:49.51,Laura Klunder,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,400 M Freestyle,SCM,W,35-39,5:36.91,Jennifer L Gitzinger,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Breaststroke,SCM,W,35-39,41.78,Jennifer L Gitzinger,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Freestyle,SCM,W,45-49,33.08,Sandra Moenssens,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Freestyle,SCM,W,45-49,1:14.88,Sandra Moenssens,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Freestyle,SCM,W,45-49,2:40.98,Sandra Moenssens,,2014 Rowdy Gaines Masters Classic VI,2014,1
+LIB,100 M Butterfly,SCM,W,45-49,1:26.85,Sandra Moenssens,,2014 Rowdy Gaines Masters Classic VI,2014,1
+LIB,100 M Individual Medley,SCM,W,45-49,1:26.48,Sandra Moenssens,,2014 Rowdy Gaines Masters Classic VI,2014,1
+LIB,50 M Backstroke,SCM,W,50-54,40.71,Susan Schwarm,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Backstroke,SCM,W,50-54,1:30.40,Susan Schwarm,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Freestyle,SCM,M,30-34,1:02.64,Derek Helvey,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Freestyle,SCM,M,30-34,2:26.28,Derek Helvey,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Breaststroke,SCM,M,30-34,1:22.34,Derek Helvey,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Individual Medley,SCM,M,30-34,1:12.28,Derek Helvey,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Freestyle,SCM,M,35-39,29.44,Andrew Kamai,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Freestyle,SCM,M,35-39,58.87,Jamie Mills,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Freestyle,SCM,M,35-39,1:06.85,Andrew Kamai,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,200 M Freestyle,SCM,M,35-39,2:13.62,Jamie Mills,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Freestyle,SCM,M,35-39,2:28.21,Andrew Kamai,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,400 M Freestyle,SCM,M,35-39,4:52.28,Jamie Mills,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Backstroke,SCM,M,35-39,1:16.45,Andrew Kamai,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Breaststroke,SCM,M,35-39,37.58,Yao Zhang,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Breaststroke,SCM,M,35-39,1:23.77,Yao Zhang,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Breaststroke,SCM,M,35-39,3:14.41,Yao Zhang,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Butterfly,SCM,M,35-39,1:15.87,Andrew Kamai,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Freestyle,SCM,M,40-44,1:23.12,Brian Clark,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,400 M Freestyle,SCM,M,40-44,6:44.76,Brian Clark,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Backstroke,SCM,M,40-44,3:51.75,Brian Clark,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Breaststroke,SCM,M,40-44,39.30,David McGaughy,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Breaststroke,SCM,M,40-44,1:29.13,David McGaughy,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Individual Medley,SCM,M,40-44,1:20.56,David McGaughy,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Freestyle,SCM,M,50-54,27.97,David Whelchel,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Freestyle,SCM,M,50-54,30.90,Jim Rowland,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,100 M Freestyle,SCM,M,50-54,1:02.07,David Whelchel,,Wisconsin West Bend HS SCM Champs,2014,1
+LIB,400 M Freestyle,SCM,M,50-54,6:05.02,Jim Rowland,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Backstroke,SCM,M,50-54,31.33,David Whelchel,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Backstroke,SCM,M,50-54,1:07.36,David Whelchel,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Freestyle,SCM,M,55-59,33.42,Michael E Reed,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,50 M Freestyle,SCM,M,55-59,37.42,Michael D Bergquist,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LIB,100 M Freestyle,SCM,M,55-59,1:17.62,Michael E Reed,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Freestyle,SCM,M,55-59,2:46.37,Todd A Keil,,Wisconsin West Bend HS SCM Champs,2014,1
+LIB,400 M Freestyle,SCM,M,55-59,5:36.98,Todd A Keil,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,800 M Freestyle,SCM,M,55-59,11:18.71,Todd A Keil,,Wisconsin West Bend HS SCM Champs,2014,1
+LIB,1500 M Freestyle,SCM,M,55-59,21:08.54,Todd A Keil,,Wisconsin West Bend HS SCM Champs,2014,1
+LIB,50 M Backstroke,SCM,M,55-59,45.85,Michael D Bergquist,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Backstroke,SCM,M,55-59,1:15.55,Todd A Keil,,Wisconsin West Bend HS SCM Champs,2014,1
+LIB,200 M Backstroke,SCM,M,55-59,2:37.35,Todd A Keil,,Wisconsin West Bend HS SCM Champs,2014,1
+LIB,100 M Breaststroke,SCM,M,55-59,1:49.96,Michael D Bergquist,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,200 M Breaststroke,SCM,M,55-59,3:54.52,Michael D Bergquist,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Butterfly,SCM,M,55-59,1:41.87,Michael E Reed,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LIB,100 M Individual Medley,SCM,M,55-59,1:42.08,Michael D Bergquist,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,50 M Freestyle,SCM,W,25-29,33.06,Emily M Dangremond,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,100 M Freestyle,SCM,W,25-29,1:10.01,Emily M Dangremond,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,400 M Freestyle,SCM,W,25-29,5:21.77,Emily M Dangremond,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,50 M Butterfly,SCM,W,25-29,36.22,Emily M Dangremond,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,50 M Freestyle,SCM,M,50-54,29.51,David McKeon,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,50 M Freestyle,SCM,M,50-54,29.98,Lee Francis,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LSLP,100 M Freestyle,SCM,M,50-54,1:06.50,Lee Francis,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,100 M Freestyle,SCM,M,50-54,1:07.06,David McKeon,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+LSLP,400 M Freestyle,SCM,M,50-54,5:09.35,Lee Francis,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,100 M Backstroke,SCM,M,50-54,1:22.38,David McKeon,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,100 M Butterfly,SCM,M,50-54,1:19.84,Lee Francis,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LSLP,100 M Individual Medley,SCM,M,50-54,1:20.68,David McKeon,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+LTIL,50 M Backstroke,SCM,M,65-69,1:09.33,Robert M Skrocki,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,100 M Freestyle,SCM,M,30-34,57.98,Nickolaus E Early,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,400 M Freestyle,SCM,M,30-34,4:51.50,Nickolaus E Early,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,50 M Freestyle,SCM,M,45-49,29.75,Paul Sheridan,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,100 M Freestyle,SCM,M,45-49,1:07.91,Paul Sheridan,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,50 M Breaststroke,SCM,M,45-49,43.28,Paul Sheridan,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,50 M Freestyle,SCM,M,55-59,46.83,Mark Gaines,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+MACB,50 M Breaststroke,SCM,M,55-59,49.23,Mark Gaines,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+SFY,50 M Backstroke,SCM,W,60-64,51.37,Alison Macku,,Urbana Short Course Meters Meet,2014,1
+SFY,50 M Butterfly,SCM,W,60-64,1:00.71,Alison Macku,,Urbana Short Course Meters Meet,2014,1
+SFY,50 M Freestyle,SCM,M,25-29,30.85,Adam R Johnson,,Urbana Short Course Meters Meet,2014,1
+SFY,100 M Freestyle,SCM,M,25-29,1:10.09,Adam R Johnson,,Urbana Short Course Meters Meet,2014,1
+SFY,50 M Backstroke,SCM,M,25-29,36.64,Adam R Johnson,,Urbana Short Course Meters Meet,2014,1
+SFY,50 M Breaststroke,SCM,M,25-29,43.15,Adam R Johnson,,Urbana Short Course Meters Meet,2014,1
+UC21,50 M Freestyle,SCM,W,25-29,29.58,Amanda Smith,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Freestyle,SCM,W,25-29,1:05.26,Amanda Smith,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,50 M Freestyle,SCM,W,30-34,30.73,Natalie M Kenny Marquez,,Urbana Short Course Meters Meet,2014,1
+UC21,100 M Freestyle,SCM,W,30-34,1:07.50,Natalie M Kenny Marquez,,Urbana Short Course Meters Meet,2014,1
+UC21,200 M Freestyle,SCM,W,30-34,3:15.06,Kristi L Brewer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,400 M Freestyle,SCM,W,30-34,6:36.88,Kristi L Brewer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Breaststroke,SCM,W,30-34,1:43.27,Kristi L Brewer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,50 M Butterfly,SCM,W,30-34,43.68,Kristi L Brewer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Individual Medley,SCM,W,30-34,1:24.34,Natalie M Kenny Marquez,,Urbana Short Course Meters Meet,2014,1
+UC21,50 M Freestyle,SCM,W,55-59,34.09,Sharon E Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Freestyle,SCM,W,55-59,1:15.71,Sharon E Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,50 M Backstroke,SCM,W,55-59,40.52,Sharon E Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Backstroke,SCM,W,55-59,1:29.33,Sharon E Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Freestyle,SCM,M,25-29,1:09.43,Nathan B Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Backstroke,SCM,M,25-29,1:10.81,Samuel R Ciochon,,4th Annual University of Indianapolis Masters Invitational,2014,1
+UC21,100 M Breaststroke,SCM,M,25-29,1:17.88,Samuel R Ciochon,,4th Annual University of Indianapolis Masters Invitational,2014,1
+UC21,50 M Butterfly,SCM,M,25-29,32.45,Nathan B Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Butterfly,SCM,M,25-29,1:04.45,Nathan B Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,200 M Butterfly,SCM,M,25-29,2:30.35,Nathan B Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Individual Medley,SCM,M,25-29,1:06.67,Samuel R Ciochon,,4th Annual University of Indianapolis Masters Invitational,2014,1
+UC21,200 M Individual Medley,SCM,M,25-29,2:33.68,Samuel R Ciochon,,4th Annual University of Indianapolis Masters Invitational,2014,1
+UC21,200 M Individual Medley,SCM,M,25-29,2:41.00,Nathan B Moritz,,2014 Libertyville Masters Sink or Swim Classic,2014,2
+UC21,50 M Freestyle,SCM,M,40-44,29.89,Steffan Schoenauer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,100 M Freestyle,SCM,M,40-44,1:06.61,Steffan Schoenauer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,200 M Freestyle,SCM,M,40-44,2:32.89,Steffan Schoenauer,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+UC21,400 M Freestyle,SCM,M,40-44,5:41.84,Brent M Cole,,Urbana Short Course Meters Meet,2014,1
+UC21,800 M Freestyle,SCM,M,40-44,11:15.75,Brent M Cole,,Urbana Short Course Meters Meet,2014,1
+UC21,50 M Butterfly,SCM,M,40-44,35.31,Brent M Cole,,Urbana Short Course Meters Meet,2014,1
+UC21,100 M Butterfly,SCM,M,40-44,1:22.57,Brent M Cole,,Urbana Short Course Meters Meet,2014,1
+UC21,50 M Freestyle,SCM,M,45-49,30.52,Gary G Patrick,,Urbana Short Course Meters Meet,2014,1
+UC21,100 M Freestyle,SCM,M,45-49,1:10.16,Gary G Patrick,,Urbana Short Course Meters Meet,2014,1
+UC21,200 M Freestyle,SCM,M,45-49,2:47.49,Gary G Patrick,,Urbana Short Course Meters Meet,2014,1
+UC21,50 M Freestyle,SCM,M,50-54,32.65,Stuart Foltz,,Urbana Short Course Meters Meet,2014,1
+UC21,100 M Freestyle,SCM,M,50-54,1:13.69,Stuart Foltz,,Urbana Short Course Meters Meet,2014,1
+UC21,200 M Freestyle,SCM,M,50-54,2:51.58,Stuart Foltz,,Urbana Short Course Meters Meet,2014,1
+UC21,400 M Freestyle,SCM,M,50-54,6:10.70,Stuart Foltz,,Urbana Short Course Meters Meet,2014,1
+UC21,200 M Freestyle,SCM,M,55-59,2:55.06,Joseph N Webb,,2014 Fall Miami Redfin Masters Meet,2014,1
+UC21,100 M Backstroke,SCM,M,55-59,1:37.63,Joseph N Webb,,2014 Fall Miami Redfin Masters Meet,2014,1
+UC21,50 M Butterfly,SCM,M,55-59,38.45,Joseph N Webb,,2014 Fall Miami Redfin Masters Meet,2014,1
+WLAC,400 M Freestyle,SCM,W,35-39,5:20.04,Genevieve M Bernal,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,100 M Butterfly,SCM,W,35-39,1:17.08,Genevieve M Bernal,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,200 M Butterfly,SCM,W,35-39,2:49.14,Genevieve M Bernal,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,50 M Freestyle,SCM,M,35-39,34.51,Jackson Adams,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,100 M Freestyle,SCM,M,35-39,1:17.59,Jackson Adams,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,50 M Butterfly,SCM,M,35-39,44.22,Jackson Adams,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,100 M Freestyle,SCM,M,40-44,1:34.17,Patrick Smyth,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,50 M Backstroke,SCM,M,40-44,53.83,Patrick Smyth,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+WLAC,100 M Breaststroke,SCM,M,40-44,1:48.44,Patrick Smyth,,2014 Libertyville Masters Sink or Swim Classic,2014,1
+XSWM,50 M Freestyle,SCM,M,45-49,28.67,Knoel K Kaneshiro,,Urbana Short Course Meters Meet,2014,1
+XSWM,100 M Freestyle,SCM,M,45-49,1:05.67,Knoel K Kaneshiro,,Urbana Short Course Meters Meet,2014,1
+XSWM,50 M Butterfly,SCM,M,45-49,33.93,Knoel K Kaneshiro,,Urbana Short Course Meters Meet,2014,1
+XSWM,200 M Individual Medley,SCM,M,45-49,2:57.43,Knoel K Kaneshiro,,Urbana Short Course Meters Meet,2014,1

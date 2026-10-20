@@ -1,0 +1,438 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ELG,100 M Freestyle,SCM,M,30-34,1:03.35,Adam R Brown,,Sink or Swim Classic,2012,1
+ELG,200 M Freestyle,SCM,M,30-34,2:38.03,Adam R Brown,,Sink or Swim Classic,2012,1
+ELG,100 M Breaststroke,SCM,M,30-34,1:16.63,Adam R Brown,,Sink or Swim Classic,2012,1
+ELG,200 M Breaststroke,SCM,M,30-34,2:52.06,Adam R Brown,,Sink or Swim Classic,2012,1
+ELG,200 M Individual Medley,SCM,M,30-34,2:34.74,Adam R Brown,,Sink or Swim Classic,2012,1
+ELG,50 M Freestyle,SCM,M,45-49,27.70,Grant Dahlke,,Sink or Swim Classic,2012,1
+ELG,100 M Freestyle,SCM,M,45-49,1:01.08,Grant Dahlke,,Sink or Swim Classic,2012,1
+ELG,200 M Backstroke,SCM,M,45-49,2:53.92,Grant Dahlke,,Sink or Swim Classic,2012,1
+ELG,200 M Freestyle,SCM,M,60-64,3:42.31,Paul P Brown,,Sink or Swim Classic,2012,1
+ELG,100 M Breaststroke,SCM,M,60-64,2:11.71,Paul P Brown,,Sink or Swim Classic,2012,1
+ELG,50 M Butterfly,SCM,M,60-64,55.36,Paul P Brown,,Sink or Swim Classic,2012,1
+ELG,100 M Individual Medley,SCM,M,60-64,1:58.48,Paul P Brown,,Sink or Swim Classic,2012,1
+ELG,200 M Individual Medley,SCM,M,60-64,4:15.36,Paul P Brown,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,18-24,34.31,Cynthia L McMackin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,400 M Freestyle,SCM,W,18-24,4:54.32,Marlena L Tonelli,,Sink or Swim Classic,2012,1
+IM,1500 M Freestyle,SCM,W,18-24,26:50.92,Carissa R Fry,,"2012 O*H*I*O Masters SCM Swim Meet - Hudson, Ohio",2012,1
+IM,50 M Backstroke,SCM,W,18-24,40.56,Cynthia L McMackin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,W,18-24,38.78,Marlena L Tonelli,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,18-24,47.75,Cynthia L McMackin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Breaststroke,SCM,W,18-24,1:22.71,Marlena L Tonelli,,Sink or Swim Classic,2012,1
+IM,200 M Breaststroke,SCM,W,18-24,2:55.06,Marlena L Tonelli,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,18-24,36.77,Cynthia L McMackin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Individual Medley,SCM,W,18-24,1:28.04,Cynthia L McMackin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,400 M Individual Medley,SCM,W,18-24,5:39.49,Marlena L Tonelli,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,25-29,37.32,Victoria A Bolf,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Freestyle,SCM,W,25-29,41.54,Dana Litoff,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Backstroke,SCM,W,25-29,42.16,Victoria A Bolf,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Backstroke,SCM,W,25-29,53.63,Dana Litoff,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Breaststroke,SCM,W,25-29,46.47,Victoria A Bolf,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,W,25-29,51.88,Dana Litoff,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Butterfly,SCM,W,25-29,45.29,Victoria A Bolf,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Butterfly,SCM,W,25-29,50.14,Dana Litoff,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Individual Medley,SCM,W,25-29,1:33.21,Victoria A Bolf,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Individual Medley,SCM,W,25-29,1:46.03,Dana Litoff,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Freestyle,SCM,W,30-34,33.17,Mary T Hornik,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,30-34,34.61,Tracy K Sypura,,Sink or Swim Classic,2012,2
+IM,100 M Freestyle,SCM,W,30-34,1:18.07,Tracy K Sypura,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,W,30-34,39.67,Karen Glenn,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,W,30-34,40.08,Mary T Hornik,,Sink or Swim Classic,2012,2
+IM,50 M Backstroke,SCM,W,30-34,43.74,Tracy K Sypura,,Sink or Swim Classic,2012,3
+IM,200 M Backstroke,SCM,W,30-34,3:11.34,Mary T Hornik,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,30-34,41.03,Karen Glenn,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,30-34,47.64,Tracy K Sypura,,Sink or Swim Classic,2012,2
+IM,100 M Breaststroke,SCM,W,30-34,1:29.24,Karen Glenn,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,30-34,35.79,Mary T Hornik,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,30-34,40.19,Tracy K Sypura,,Sink or Swim Classic,2012,2
+IM,100 M Individual Medley,SCM,W,30-34,1:22.14,Karen Glenn,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,35-39,34.56,Dana L Boulukos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,400 M Freestyle,SCM,W,35-39,5:51.32,Amanda H Castle,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,W,35-39,43.46,Dana L Boulukos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Backstroke,SCM,W,35-39,1:29.95,Amanda H Castle,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,35-39,45.58,Dana L Boulukos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,W,35-39,48.71,Amanda H Castle,,Sink or Swim Classic,2012,2
+IM,50 M Butterfly,SCM,W,35-39,40.93,Dana L Boulukos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Individual Medley,SCM,W,35-39,1:27.51,Dana L Boulukos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Individual Medley,SCM,W,35-39,1:32.25,Amanda H Castle,,Sink or Swim Classic,2012,2
+IM,50 M Freestyle,SCM,W,40-44,29.41,Jennifer Ridge,,29th Annual GRIN Fall Classic,2012,1
+IM,50 M Freestyle,SCM,W,40-44,40.81,Ruth Giles-Ott,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Freestyle,SCM,W,40-44,1:04.70,Jennifer Ridge,,29th Annual GRIN Fall Classic,2012,1
+IM,200 M Freestyle,SCM,W,40-44,2:19.37,Jennifer Ridge,,29th Annual GRIN Fall Classic,2012,1
+IM,50 M Backstroke,SCM,W,40-44,39.64,Ines Lein,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,W,40-44,45.86,Ruth Giles-Ott,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Backstroke,SCM,W,40-44,1:24.44,Ines Lein,,Sink or Swim Classic,2012,1
+IM,200 M Backstroke,SCM,W,40-44,3:05.16,Ines Lein,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,40-44,43.74,Inge Clark,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,40-44,46.09,Ines Lein,,Sink or Swim Classic,2012,2
+IM,50 M Breaststroke,SCM,W,40-44,56.00,Ruth Giles-Ott,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Breaststroke,SCM,W,40-44,56.78,Nicole M Cunnea,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,4
+IM,100 M Breaststroke,SCM,W,40-44,1:37.06,Inge Clark,,Sink or Swim Classic,2012,1
+IM,200 M Breaststroke,SCM,W,40-44,3:37.44,Inge Clark,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,40-44,31.44,Jennifer Ridge,,29th Annual GRIN Fall Classic,2012,1
+IM,50 M Butterfly,SCM,W,40-44,38.88,Ines Lein,,Sink or Swim Classic,2012,2
+IM,50 M Butterfly,SCM,W,40-44,47.63,Ruth Giles-Ott,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Freestyle,SCM,W,45-49,1:14.29,Roxie Pawluk,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,45-49,52.27,Kim M Lloyd,,Sink or Swim Classic,2012,1
+IM,100 M Breaststroke,SCM,W,45-49,1:36.31,Roxie Pawluk,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,45-49,44.04,Kim M Lloyd,,Sink or Swim Classic,2012,1
+IM,200 M Individual Medley,SCM,W,45-49,3:38.99,Kim M Lloyd,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,50-54,31.67,Heidi Kafka,,Sink or Swim Classic,2012,1
+IM,100 M Freestyle,SCM,W,50-54,1:07.96,Andrea J Block,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,200 M Freestyle,SCM,W,50-54,2:20.39,Andrea J Block,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,400 M Freestyle,SCM,W,50-54,4:52.43,Andrea J Block,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,400 M Freestyle,SCM,W,50-54,5:52.03,Kathryn Froehlich,,Sink or Swim Classic,2012,2
+IM,400 M Freestyle,SCM,W,50-54,6:45.77,Maureen Hardy,,Sink or Swim Classic,2012,3
+IM,50 M Backstroke,SCM,W,50-54,38.77,Heidi Kafka,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Backstroke,SCM,W,50-54,1:23.70,Heidi Kafka,,Sink or Swim Classic,2012,1
+IM,200 M Backstroke,SCM,W,50-54,2:57.16,Heidi Kafka,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,50-54,42.56,Heidi Kafka,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,50-54,44.57,Kathryn Froehlich,,Sink or Swim Classic,2012,2
+IM,100 M Breaststroke,SCM,W,50-54,2:05.41,Maureen Hardy,,Sink or Swim Classic,2012,1
+IM,200 M Breaststroke,SCM,W,50-54,3:17.40,Kathryn Froehlich,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,50-54,33.28,Andrea J Block,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,50 M Butterfly,SCM,W,50-54,39.32,Heidi Kafka,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Butterfly,SCM,W,50-54,1:09.64,Andrea J Block,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,200 M Butterfly,SCM,W,50-54,2:38.13,Andrea J Block,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,100 M Individual Medley,SCM,W,50-54,1:17.09,Andrea J Block,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,W,50-54,1:23.00,Heidi Kafka,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Individual Medley,SCM,W,50-54,1:51.85,Maureen Hardy,,Sink or Swim Classic,2012,3
+IM,400 M Individual Medley,SCM,W,50-54,6:24.10,Kathryn Froehlich,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,55-59,34.54,Jane B Del Greco,,Sink or Swim Classic,2012,1
+IM,200 M Freestyle,SCM,W,55-59,3:18.66,Debbie A Gortowski,,Wisconsin West Bend HS SCM Champs,2012,1
+IM,400 M Freestyle,SCM,W,55-59,6:50.57,Debbie A Gortowski,,Wisconsin West Bend HS SCM Champs,2012,1
+IM,800 M Freestyle,SCM,W,55-59,13:48.17,Debbie A Gortowski,,Wisconsin West Bend HS SCM Champs,2012,1
+IM,1500 M Freestyle,SCM,W,55-59,26:01.31,Debbie A Gortowski,,Wisconsin West Bend HS SCM Champs,2012,1
+IM,100 M Backstroke,SCM,W,55-59,1:49.00,Barbara Delanois,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,55-59,45.68,Jane B Del Greco,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,55-59,59.32,Barbara Delanois,,Sink or Swim Classic,2012,2
+IM,100 M Individual Medley,SCM,W,55-59,1:36.24,Jane B Del Greco,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,W,55-59,1:49.61,Barbara Delanois,,Sink or Swim Classic,2012,2
+IM,200 M Individual Medley,SCM,W,55-59,3:59.68,Debbie A Gortowski,,Wisconsin West Bend HS SCM Champs,2012,1
+IM,400 M Individual Medley,SCM,W,55-59,8:14.57,Debbie A Gortowski,,Wisconsin West Bend HS SCM Champs,2012,1
+IM,50 M Freestyle,SCM,W,70-74,53.06,Mary Kurz,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,70-74,1:00.11,Fran Faller,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Freestyle,SCM,W,70-74,1:07.52,Joanie Koplos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Freestyle,SCM,W,70-74,2:03.38,Mary Kurz,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,W,70-74,1:07.63,Karen Paden,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,W,70-74,1:32.85,Joanie Koplos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,200 M Backstroke,SCM,W,70-74,5:18.17,Karen Paden,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,70-74,1:14.49,Mary Kurz,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,W,70-74,1:46.37,Joanie Koplos,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Breaststroke,SCM,W,70-74,2:51.13,Mary Kurz,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,W,70-74,2:35.68,Mary Kurz,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,75-79,52.48,Joanne T Rooney,,Sink or Swim Classic,2012,1
+IM,100 M Freestyle,SCM,W,75-79,1:54.94,Joanne T Rooney,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,W,75-79,8:39.70,Joanne T Rooney,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,W,75-79,1:12.81,Joanne T Rooney,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,W,75-79,2:32.44,Joanne T Rooney,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,W,85-89,1:14.26,Caryl K Fabian,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Backstroke,SCM,W,85-89,1:15.52,Caryl K Fabian,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,W,85-89,1:38.51,Caryl K Fabian,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Freestyle,SCM,M,25-29,30.71,Scott S Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Freestyle,SCM,M,25-29,32.64,Michael W Cowen,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,200 M Freestyle,SCM,M,25-29,2:31.35,John Morris,,Sink or Swim Classic,2012,1
+IM,200 M Freestyle,SCM,M,25-29,2:46.60,Michael W Cowen,,Sink or Swim Classic,2012,2
+IM,50 M Backstroke,SCM,M,25-29,34.34,Scott S Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Backstroke,SCM,M,25-29,38.06,Michael W Cowen,,Sink or Swim Classic,2012,2
+IM,100 M Backstroke,SCM,M,25-29,1:22.67,Michael W Cowen,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,25-29,39.44,Scott S Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,M,25-29,41.83,Michael W Cowen,,Sink or Swim Classic,2012,2
+IM,200 M Breaststroke,SCM,M,25-29,3:15.12,John Morris,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,25-29,33.46,Scott S Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Butterfly,SCM,M,25-29,41.99,Michael W Cowen,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,200 M Butterfly,SCM,M,25-29,2:55.08,John Morris,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,25-29,1:14.02,Scott S Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,100 M Individual Medley,SCM,M,25-29,1:23.42,Michael W Cowen,,Sink or Swim Classic,2012,2
+IM,50 M Freestyle,SCM,M,30-34,27.81,Ryan P Mulcahy,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,30-34,29.10,Thomas J Mosley,,Sink or Swim Classic,2012,2
+IM,50 M Freestyle,SCM,M,30-34,29.54,John Leonard,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Freestyle,SCM,M,30-34,31.76,Timothy R Stevens,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,4
+IM,100 M Freestyle,SCM,M,30-34,1:02.81,Daniel D Fuller,,Sink or Swim Classic,2012,1
+IM,200 M Freestyle,SCM,M,30-34,2:18.80,Daniel D Fuller,,Sink or Swim Classic,2012,1
+IM,200 M Freestyle,SCM,M,30-34,2:24.95,Erik J VanEtten,,Sink or Swim Classic,2012,2
+IM,400 M Freestyle,SCM,M,30-34,4:50.56,Daniel D Fuller,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,30-34,35.08,Thomas J Mosley,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,30-34,36.66,John Leonard,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Backstroke,SCM,M,30-34,41.91,Timothy R Stevens,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Breaststroke,SCM,M,30-34,37.54,John Leonard,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,M,30-34,40.09,Thomas J Mosley,,Sink or Swim Classic,2012,2
+IM,50 M Breaststroke,SCM,M,30-34,45.81,Timothy R Stevens,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Breaststroke,SCM,M,30-34,1:18.31,Daniel D Fuller,,Sink or Swim Classic,2012,1
+IM,100 M Breaststroke,SCM,M,30-34,1:23.70,Erik J VanEtten,,Sink or Swim Classic,2012,2
+IM,200 M Breaststroke,SCM,M,30-34,2:59.91,Erik J VanEtten,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,30-34,32.63,Thomas J Mosley,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,30-34,34.41,John Leonard,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Butterfly,SCM,M,30-34,39.16,Timothy R Stevens,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Butterfly,SCM,M,30-34,1:15.23,Ryan P Mulcahy,,Sink or Swim Classic,2012,1
+IM,200 M Butterfly,SCM,M,30-34,3:08.65,Ryan P Mulcahy,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,30-34,1:12.47,Daniel D Fuller,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,30-34,1:16.43,Ryan P Mulcahy,,Sink or Swim Classic,2012,2
+IM,100 M Individual Medley,SCM,M,30-34,1:16.67,John Leonard,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Individual Medley,SCM,M,30-34,1:17.74,Thomas J Mosley,,Sink or Swim Classic,2012,4
+IM,100 M Individual Medley,SCM,M,30-34,1:24.63,Timothy R Stevens,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,5
+IM,200 M Individual Medley,SCM,M,30-34,2:39.91,Erik J VanEtten,,Sink or Swim Classic,2012,1
+IM,400 M Individual Medley,SCM,M,30-34,5:34.99,Erik J VanEtten,,Sink or Swim Classic,2012,1
+IM,200 M Backstroke,SCM,M,35-39,2:52.24,Michael A Thiry,,Sink or Swim Classic,2012,1
+IM,100 M Breaststroke,SCM,M,35-39,1:22.64,Michael A Thiry,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,35-39,1:15.32,Michael A Thiry,,Sink or Swim Classic,2012,1
+IM,200 M Individual Medley,SCM,M,35-39,2:47.45,Michael A Thiry,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,40-44,31.38,Dale M Moyer,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Freestyle,SCM,M,40-44,31.95,Mike English,,Sink or Swim Classic,2012,2
+IM,50 M Freestyle,SCM,M,40-44,40.02,Francisco G Bahena,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Freestyle,SCM,M,40-44,1:09.89,Mike English,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,M,40-44,4:39.46,Dan Wendt,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,40-44,37.35,Mike English,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,40-44,42.96,Dale M Moyer,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Backstroke,SCM,M,40-44,1:10.41,Dan Wendt,,Sink or Swim Classic,2012,1
+IM,100 M Backstroke,SCM,M,40-44,1:21.68,Mike English,,Sink or Swim Classic,2012,2
+IM,200 M Backstroke,SCM,M,40-44,3:17.81,Patrick T Tibbs,,Sink or Swim Classic,2012,1
+IM,100 M Breaststroke,SCM,M,40-44,1:14.74,Kevin A Grotke,,Sink or Swim Classic,2012,1
+IM,200 M Breaststroke,SCM,M,40-44,2:45.82,Kevin A Grotke,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,40-44,36.60,Dale M Moyer,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Butterfly,SCM,M,40-44,41.04,Patrick T Tibbs,,Sink or Swim Classic,2012,2
+IM,50 M Butterfly,SCM,M,40-44,45.44,Francisco G Bahena,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Individual Medley,SCM,M,40-44,1:08.20,Kevin A Grotke,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,40-44,1:27.20,Dale M Moyer,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,200 M Individual Medley,SCM,M,40-44,2:32.44,Kevin A Grotke,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,45-49,29.06,Bryan Malas,,29th Annual GRIN Fall Classic,2012,1
+IM,100 M Backstroke,SCM,M,45-49,1:12.92,Billy Cordero,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,45-49,37.45,Billy Cordero,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,45-49,28.36,Bryan Malas,,29th Annual GRIN Fall Classic,2012,1
+IM,50 M Butterfly,SCM,M,45-49,28.37,Robert Young,,29th Annual GRIN Fall Classic,2012,2
+IM,100 M Butterfly,SCM,M,45-49,1:05.78,Robert Young,,29th Annual GRIN Fall Classic,2012,1
+IM,100 M Individual Medley,SCM,M,45-49,1:08.01,Bryan Malas,,29th Annual GRIN Fall Classic,2012,1
+IM,100 M Individual Medley,SCM,M,45-49,1:13.67,Robert Young,,29th Annual GRIN Fall Classic,2012,2
+IM,200 M Individual Medley,SCM,M,45-49,2:37.02,Billy Cordero,,Sink or Swim Classic,2012,1
+IM,400 M Individual Medley,SCM,M,45-49,5:46.28,Billy Cordero,,Mission Viejo Nadadores SCM Swim Meet,2012,1
+IM,50 M Freestyle,SCM,M,50-54,29.44,Andreas K Seibt,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,50-54,29.77,Timothy J Jenkins,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Freestyle,SCM,M,50-54,30.07,Lee Francis,,Sink or Swim Classic,2012,3
+IM,100 M Freestyle,SCM,M,50-54,1:06.37,Lee Francis,,Sink or Swim Classic,2012,1
+IM,100 M Freestyle,SCM,M,50-54,1:10.11,Andreas K Seibt,,5th Annual Milford Meltdown Masters Swim Meet,2012,2
+IM,100 M Freestyle,SCM,M,50-54,1:13.95,John Kalisz,,Sink or Swim Classic,2012,3
+IM,400 M Freestyle,SCM,M,50-54,4:51.81,Timothy J Jenkins,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,M,50-54,5:08.49,Lee Francis,,Sink or Swim Classic,2012,2
+IM,400 M Freestyle,SCM,M,50-54,5:59.22,Bill Avery,,Sink or Swim Classic,2012,3
+IM,50 M Backstroke,SCM,M,50-54,35.00,Andreas K Seibt,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Backstroke,SCM,M,50-54,36.22,Timothy J Jenkins,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Backstroke,SCM,M,50-54,37.38,John Kalisz,,Sink or Swim Classic,2012,3
+IM,50 M Backstroke,SCM,M,50-54,47.32,Michael H Filippini,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,4
+IM,100 M Backstroke,SCM,M,50-54,1:21.80,John Kalisz,,Sink or Swim Classic,2012,1
+IM,200 M Backstroke,SCM,M,50-54,3:03.36,John Kalisz,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,50-54,33.04,David E Sims,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,50-54,37.52,Andreas K Seibt,,5th Annual Milford Meltdown Masters Swim Meet,2012,2
+IM,50 M Breaststroke,SCM,M,50-54,39.28,Lee Francis,,Sink or Swim Classic,2012,3
+IM,50 M Breaststroke,SCM,M,50-54,40.04,Timothy J Jenkins,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,4
+IM,100 M Breaststroke,SCM,M,50-54,1:11.72,David E Sims,,Sink or Swim Classic,2012,1
+IM,100 M Breaststroke,SCM,M,50-54,1:23.15,Timothy J Jenkins,,Sink or Swim Classic,2012,2
+IM,100 M Breaststroke,SCM,M,50-54,1:23.50,Andreas K Seibt,,5th Annual Milford Meltdown Masters Swim Meet,2012,3
+IM,100 M Breaststroke,SCM,M,50-54,1:26.53,Lee Francis,,Sink or Swim Classic,2012,4
+IM,50 M Butterfly,SCM,M,50-54,31.88,Timothy J Jenkins,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Butterfly,SCM,M,50-54,35.22,Andreas K Seibt,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Butterfly,SCM,M,50-54,58.30,David E Sims,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,100 M Butterfly,SCM,M,50-54,1:11.11,Andreas K Seibt,,5th Annual Milford Meltdown Masters Swim Meet,2012,2
+IM,200 M Butterfly,SCM,M,50-54,2:11.70,David E Sims,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,100 M Individual Medley,SCM,M,50-54,1:00.96,David E Sims,,2012 New England LMSC Short Course Meters Championship,2012,1
+IM,100 M Individual Medley,SCM,M,50-54,1:10.72,Andreas K Seibt,,5th Annual Milford Meltdown Masters Swim Meet,2012,2
+IM,100 M Individual Medley,SCM,M,50-54,1:13.69,Timothy J Jenkins,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,200 M Individual Medley,SCM,M,50-54,2:34.46,Timothy J Jenkins,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,55-59,27.87,Thomas J McCabe,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,55-59,29.96,Phil L Dodson,,Sink or Swim Classic,2012,2
+IM,50 M Freestyle,SCM,M,55-59,31.08,Tim Shekleton,,Sink or Swim Classic,2012,3
+IM,50 M Freestyle,SCM,M,55-59,32.17,Mark J Anderson,,Sink or Swim Classic,2012,4
+IM,50 M Freestyle,SCM,M,55-59,34.01,Andrew W Smyth,,Sink or Swim Classic,2012,5
+IM,50 M Freestyle,SCM,M,55-59,36.10,Steven E Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,6
+IM,50 M Freestyle,SCM,M,55-59,37.48,Skip Montanaro,,Sink or Swim Classic,2012,7
+IM,50 M Freestyle,SCM,M,55-59,50.32,James F Weaver,,Sink or Swim Classic,2012,8
+IM,100 M Freestyle,SCM,M,55-59,1:01.12,Thomas J McCabe,,Sink or Swim Classic,2012,1
+IM,100 M Freestyle,SCM,M,55-59,1:07.37,Phil L Dodson,,Sink or Swim Classic,2012,2
+IM,100 M Freestyle,SCM,M,55-59,1:16.27,Andrew W Smyth,,Sink or Swim Classic,2012,3
+IM,100 M Freestyle,SCM,M,55-59,1:26.10,Skip Montanaro,,Sink or Swim Classic,2012,4
+IM,400 M Freestyle,SCM,M,55-59,4:52.53,Thomas J McCabe,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,M,55-59,5:37.73,Mark J Anderson,,Sink or Swim Classic,2012,2
+IM,400 M Freestyle,SCM,M,55-59,7:02.61,James F Weaver,,Sink or Swim Classic,2012,3
+IM,50 M Backstroke,SCM,M,55-59,33.84,Henry M Bodnar,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,55-59,39.74,Tim Shekleton,,Sink or Swim Classic,2012,2
+IM,50 M Backstroke,SCM,M,55-59,45.41,Skip Montanaro,,Sink or Swim Classic,2012,3
+IM,50 M Backstroke,SCM,M,55-59,47.58,Steven E Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,4
+IM,100 M Backstroke,SCM,M,55-59,1:15.66,Henry M Bodnar,,Sink or Swim Classic,2012,1
+IM,100 M Backstroke,SCM,M,55-59,1:29.32,Tim Shekleton,,Sink or Swim Classic,2012,2
+IM,100 M Backstroke,SCM,M,55-59,1:35.89,Skip Montanaro,,Sink or Swim Classic,2012,3
+IM,200 M Backstroke,SCM,M,55-59,3:27.70,Skip Montanaro,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,55-59,39.13,Kent B Westphal,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,55-59,42.16,Steven E Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Breaststroke,SCM,M,55-59,43.06,Phil L Dodson,,Sink or Swim Classic,2012,3
+IM,100 M Breaststroke,SCM,M,55-59,1:26.77,Kent B Westphal,,Sink or Swim Classic,2012,1
+IM,100 M Breaststroke,SCM,M,55-59,1:41.56,Mark J Anderson,,Sink or Swim Classic,2012,2
+IM,200 M Breaststroke,SCM,M,55-59,3:16.61,Kent B Westphal,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,55-59,32.27,Kent B Westphal,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,55-59,37.58,Tim Shekleton,,Sink or Swim Classic,2012,2
+IM,50 M Butterfly,SCM,M,55-59,41.47,Steven E Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Butterfly,SCM,M,55-59,42.03,Andrew W Smyth,,Sink or Swim Classic,2012,4
+IM,100 M Individual Medley,SCM,M,55-59,1:31.60,Steven E Dueball,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Freestyle,SCM,M,60-64,30.15,Brent R Johnson,,Huntsman World Senior Games,2012,1
+IM,50 M Freestyle,SCM,M,60-64,33.39,Len Lencioni,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Freestyle,SCM,M,60-64,33.63,Howard B Garber,,Sink or Swim Classic,2012,3
+IM,50 M Freestyle,SCM,M,60-64,34.69,Fred L Schein,,Sink or Swim Classic,2012,4
+IM,50 M Freestyle,SCM,M,60-64,37.63,Clifford Prince,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,5
+IM,50 M Freestyle,SCM,M,60-64,39.26,John H Anderson,,Sink or Swim Classic,2012,6
+IM,100 M Freestyle,SCM,M,60-64,1:10.86,Brent R Johnson,,Huntsman World Senior Games,2012,1
+IM,100 M Freestyle,SCM,M,60-64,1:25.06,Fred L Schein,,Sink or Swim Classic,2012,2
+IM,100 M Freestyle,SCM,M,60-64,1:28.46,John H Anderson,,Sink or Swim Classic,2012,3
+IM,400 M Freestyle,SCM,M,60-64,7:26.53,John H Anderson,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,60-64,48.46,Howard B Garber,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,60-64,52.83,Clifford Prince,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Breaststroke,SCM,M,60-64,49.99,Fred L Schein,,Sink or Swim Classic,2012,1
+IM,50 M Breaststroke,SCM,M,60-64,50.72,Len Lencioni,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Breaststroke,SCM,M,60-64,53.75,Clifford Prince,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Butterfly,SCM,M,60-64,32.85,Brent R Johnson,,Huntsman World Senior Games,2012,1
+IM,50 M Butterfly,SCM,M,60-64,39.47,Fred L Schein,,Sink or Swim Classic,2012,2
+IM,50 M Butterfly,SCM,M,60-64,48.92,Len Lencioni,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Butterfly,SCM,M,60-64,55.37,Clifford Prince,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,4
+IM,100 M Individual Medley,SCM,M,60-64,1:25.64,Brent R Johnson,,Huntsman World Senior Games,2012,1
+IM,100 M Individual Medley,SCM,M,60-64,1:40.50,Len Lencioni,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Individual Medley,SCM,M,60-64,1:57.04,Clifford Prince,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,50 M Freestyle,SCM,M,65-69,33.04,Ken Ota,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,65-69,40.25,Stephan Landsman,,Aguapalooza II,2012,2
+IM,100 M Freestyle,SCM,M,65-69,1:32.35,Stephan Landsman,,Aguapalooza II,2012,1
+IM,100 M Freestyle,SCM,M,65-69,1:35.84,Barry H Dayton,,Sink or Swim Classic,2012,2
+IM,200 M Freestyle,SCM,M,65-69,3:39.53,Barry H Dayton,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,M,65-69,5:11.69,George F Wendt,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,M,65-69,7:46.18,Barry H Dayton,,Sink or Swim Classic,2012,2
+IM,100 M Backstroke,SCM,M,65-69,1:52.01,Barry H Dayton,,Sink or Swim Classic,2012,1
+IM,100 M Backstroke,SCM,M,65-69,1:52.59,Stephan Landsman,,Aguapalooza II,2012,2
+IM,100 M Breaststroke,SCM,M,65-69,1:24.52,George F Wendt,,Sink or Swim Classic,2012,1
+IM,200 M Breaststroke,SCM,M,65-69,3:02.42,George F Wendt,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,65-69,35.17,George F Wendt,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,65-69,39.53,Ken Ota,,Sink or Swim Classic,2012,2
+IM,50 M Butterfly,SCM,M,65-69,59.51,Barry H Dayton,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,3
+IM,100 M Butterfly,SCM,M,65-69,1:53.63,Ken Ota,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,65-69,2:00.04,Barry H Dayton,,Sink or Swim Classic,2012,1
+IM,400 M Individual Medley,SCM,M,65-69,5:53.40,George F Wendt,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,70-74,46.83,Alfred D Voigt,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,70-74,49.38,Kenneth H Cohen,,Sink or Swim Classic,2012,2
+IM,100 M Freestyle,SCM,M,70-74,1:43.37,Alfred D Voigt,,Sink or Swim Classic,2012,1
+IM,100 M Freestyle,SCM,M,70-74,1:55.21,Kenneth H Cohen,,Sink or Swim Classic,2012,2
+IM,200 M Freestyle,SCM,M,70-74,4:20.25,Alfred D Voigt,,Sink or Swim Classic,2012,1
+IM,400 M Freestyle,SCM,M,70-74,9:10.68,Kenneth H Cohen,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,70-74,1:00.99,Alfred D Voigt,,Sink or Swim Classic,2012,1
+IM,50 M Backstroke,SCM,M,70-74,1:18.53,Kenneth H Cohen,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,50 M Breaststroke,SCM,M,70-74,1:31.99,Kenneth H Cohen,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,200 M Breaststroke,SCM,M,70-74,3:29.98,Andy Barry,,Sink or Swim Classic,2012,1
+IM,50 M Butterfly,SCM,M,70-74,1:05.23,Kenneth H Cohen,,Sink or Swim Classic,2012,1
+IM,100 M Butterfly,SCM,M,70-74,1:32.44,Andy Barry,,Sink or Swim Classic,2012,1
+IM,200 M Butterfly,SCM,M,70-74,3:28.53,Andy Barry,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,70-74,2:07.49,Alfred D Voigt,,Sink or Swim Classic,2012,1
+IM,100 M Individual Medley,SCM,M,70-74,2:30.37,Kenneth H Cohen,,Sink or Swim Classic,2012,2
+IM,50 M Freestyle,SCM,M,75-79,38.54,Tom Banfield,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,75-79,1:02.39,Mel De Matoff,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,2
+IM,100 M Freestyle,SCM,M,75-79,1:27.63,Tom Banfield,,Sink or Swim Classic,2012,1
+IM,50 M Freestyle,SCM,M,80-84,1:10.13,Joe Loughlin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Backstroke,SCM,M,80-84,1:10.23,Joe Loughlin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+IM,50 M Breaststroke,SCM,M,80-84,1:06.00,Joe Loughlin,,Leaning Tower Gray Sharks Pentathlon and Relays,2012,1
+JPD,100 M Freestyle,SCM,W,50-54,2:25.23,Cheryl L Lisy,,Sink or Swim Classic,2012,1
+JPD,200 M Freestyle,SCM,W,50-54,5:33.39,Cheryl L Lisy,,Sink or Swim Classic,2012,1
+JPD,100 M Backstroke,SCM,W,50-54,2:34.98,Cheryl L Lisy,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,W,18-24,1:51.09,Catherine E Reed,,Sink or Swim Classic,2012,1
+LIB,50 M Backstroke,SCM,W,18-24,1:13.14,Catherine E Reed,,Sink or Swim Classic,2012,1
+LIB,100 M Backstroke,SCM,W,18-24,2:30.44,Catherine E Reed,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,W,45-49,1:22.06,Susan Schwarm,,Sink or Swim Classic,2012,1
+LIB,400 M Freestyle,SCM,W,45-49,6:26.60,Susan Schwarm,,Sink or Swim Classic,2012,1
+LIB,50 M Backstroke,SCM,W,45-49,39.58,Susan Schwarm,,Sink or Swim Classic,2012,1
+LIB,100 M Backstroke,SCM,W,45-49,1:28.82,Susan Schwarm,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,W,50-54,46.73,Shanju Hong,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,W,55-59,1:10.06,Ann K Keil,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,25-29,33.97,Michael P McDonnell,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,25-29,37.49,Blake D Peacock,,Sink or Swim Classic,2012,2
+LIB,50 M Backstroke,SCM,M,25-29,41.66,Michael P McDonnell,,Sink or Swim Classic,2012,1
+LIB,100 M Backstroke,SCM,M,25-29,1:30.54,Michael P McDonnell,,Sink or Swim Classic,2012,1
+LIB,50 M Breaststroke,SCM,M,25-29,47.85,Blake D Peacock,,Sink or Swim Classic,2012,1
+LIB,100 M Individual Medley,SCM,M,25-29,1:42.00,Blake D Peacock,,Sink or Swim Classic,2012,1
+LIB,400 M Individual Medley,SCM,M,25-29,7:23.16,Michael P McDonnell,,Sink or Swim Classic,2012,1
+LIB,50 M Butterfly,SCM,M,30-34,28.63,Mark W Glenn,,Sink or Swim Classic,2012,1
+LIB,200 M Individual Medley,SCM,M,30-34,2:22.62,Mark W Glenn,,Sink or Swim Classic,2012,1
+LIB,400 M Individual Medley,SCM,M,30-34,5:12.59,Mark W Glenn,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,35-39,26.95,Jamie Mills,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,35-39,28.61,Michael Kusevskis,,Sink or Swim Classic,2012,2
+LIB,100 M Freestyle,SCM,M,35-39,58.12,Jamie Mills,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,M,35-39,1:02.88,Michael Kusevskis,,Sink or Swim Classic,2012,2
+LIB,200 M Freestyle,SCM,M,35-39,2:13.06,Jamie Mills,,Sink or Swim Classic,2012,1
+LIB,200 M Freestyle,SCM,M,35-39,2:19.76,Michael Kusevskis,,Sink or Swim Classic,2012,2
+LIB,200 M Individual Medley,SCM,M,35-39,2:40.62,Chad Scott,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,40-44,32.09,Robert Michuda,,Wisconsin West Bend HS SCM Champs,2012,1
+LIB,100 M Freestyle,SCM,M,40-44,1:06.80,Scott Melcher,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,M,40-44,1:14.26,Robert Michuda,,Sink or Swim Classic,2012,2
+LIB,200 M Freestyle,SCM,M,40-44,2:50.04,Robert Michuda,,Wisconsin West Bend HS SCM Champs,2012,1
+LIB,50 M Backstroke,SCM,M,40-44,49.60,Robert Michuda,,Sink or Swim Classic,2012,1
+LIB,50 M Breaststroke,SCM,M,40-44,37.15,Scott Melcher,,Sink or Swim Classic,2012,1
+LIB,100 M Breaststroke,SCM,M,40-44,1:23.98,Scott Melcher,,Sink or Swim Classic,2012,1
+LIB,100 M Individual Medley,SCM,M,40-44,1:16.46,Scott Melcher,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,50-54,29.52,Jim Rowland,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,M,50-54,1:05.73,Jim Rowland,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,55-59,33.43,Michael E Reed,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,M,55-59,1:14.34,Michael E Reed,,Sink or Swim Classic,2012,1
+LIB,100 M Freestyle,SCM,M,55-59,1:18.97,Michael D Bergquist,,Sink or Swim Classic,2012,2
+LIB,400 M Freestyle,SCM,M,55-59,5:44.00,Michael E Reed,,Sink or Swim Classic,2012,1
+LIB,50 M Backstroke,SCM,M,55-59,36.88,Todd A Keil,,Sink or Swim Classic,2012,1
+LIB,50 M Backstroke,SCM,M,55-59,44.78,Michael D Bergquist,,Sink or Swim Classic,2012,2
+LIB,100 M Backstroke,SCM,M,55-59,1:17.14,Todd A Keil,,Sink or Swim Classic,2012,1
+LIB,100 M Backstroke,SCM,M,55-59,1:37.43,Michael D Bergquist,,Sink or Swim Classic,2012,2
+LIB,200 M Backstroke,SCM,M,55-59,2:46.11,Todd A Keil,,Sink or Swim Classic,2012,1
+LIB,50 M Butterfly,SCM,M,55-59,37.78,Todd A Keil,,Sink or Swim Classic,2012,1
+LIB,100 M Individual Medley,SCM,M,55-59,1:36.45,Michael D Bergquist,,Sink or Swim Classic,2012,1
+LIB,400 M Individual Medley,SCM,M,55-59,7:38.86,Michael E Reed,,Sink or Swim Classic,2012,1
+LIB,50 M Freestyle,SCM,M,60-64,50.12,Glenn C Hoyle,,Sink or Swim Classic,2012,1
+LTM,50 M Freestyle,SCM,W,40-44,45.43,Erin Armstrong,,Sink or Swim Classic,2012,1
+LTM,100 M Breaststroke,SCM,W,40-44,1:35.53,Suzanne W Morabito,,Sink or Swim Classic,2012,1
+LTM,50 M Butterfly,SCM,W,40-44,35.13,Suzanne W Morabito,,Sink or Swim Classic,2012,1
+LTM,200 M Individual Medley,SCM,W,40-44,3:08.73,Suzanne W Morabito,,Sink or Swim Classic,2012,1
+LTM,50 M Freestyle,SCM,W,45-49,42.38,Anne Weisblatt,,Sink or Swim Classic,2012,1
+LTM,100 M Freestyle,SCM,W,45-49,1:37.19,Anne Weisblatt,,Sink or Swim Classic,2012,1
+LTM,50 M Breaststroke,SCM,W,45-49,45.77,Lisa Wooddy,,Sink or Swim Classic,2012,1
+LTM,100 M Breaststroke,SCM,W,45-49,1:39.29,Lisa Wooddy,,Sink or Swim Classic,2012,1
+LTM,100 M Individual Medley,SCM,W,45-49,1:37.06,Lisa Wooddy,,Sink or Swim Classic,2012,1
+LTM,100 M Freestyle,SCM,W,55-59,2:10.34,Kay A Hoogland,,Sink or Swim Classic,2012,1
+LTM,50 M Freestyle,SCM,M,35-39,27.86,Bill Shipley,,Sink or Swim Classic,2012,1
+LTM,200 M Backstroke,SCM,M,35-39,3:11.69,Bill Shipley,,Sink or Swim Classic,2012,1
+LTM,50 M Butterfly,SCM,M,35-39,29.88,Bill Shipley,,Sink or Swim Classic,2012,1
+UNAT,200 M Freestyle,SCM,W,25-29,3:17.29,Jean Marinangeli,,Sink or Swim Classic,2012,1
+UNAT,200 M Butterfly,SCM,W,25-29,3:49.88,Jean Marinangeli,,Sink or Swim Classic,2012,1
+UNAT,100 M Individual Medley,SCM,W,25-29,1:46.45,Jean Marinangeli,,Sink or Swim Classic,2012,1
+UNAT,400 M Individual Medley,SCM,W,25-29,7:35.17,Jean Marinangeli,,Sink or Swim Classic,2012,1
+UNAT,50 M Breaststroke,SCM,W,40-44,52.63,Wynne Everett,,Sink or Swim Classic,2012,1
+UNAT,100 M Breaststroke,SCM,W,40-44,1:54.90,Wynne Everett,,Sink or Swim Classic,2012,1
+UNAT,100 M Freestyle,SCM,W,75-79,2:10.13,Donna Scott,,Sink or Swim Classic,2012,1
+UNAT,50 M Freestyle,SCM,M,30-34,27.93,John Leonard,,Sink or Swim Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,30-34,35.24,John Leonard,,Sink or Swim Classic,2012,1
+UNAT,100 M Breaststroke,SCM,M,30-34,1:24.97,John Leonard,,Sink or Swim Classic,2012,1
+UNAT,100 M Individual Medley,SCM,M,30-34,1:13.14,John Leonard,,Sink or Swim Classic,2012,1
+UNAT,50 M Freestyle,SCM,M,40-44,33.17,Tom Quirk,,Sink or Swim Classic,2012,1
+UNAT,100 M Freestyle,SCM,M,40-44,1:04.72,Corey Dunne,,Sink or Swim Classic,2012,1
+UNAT,200 M Freestyle,SCM,M,40-44,2:19.39,Corey Dunne,,Sink or Swim Classic,2012,1
+UNAT,400 M Freestyle,SCM,M,40-44,4:57.65,Corey Dunne,,Sink or Swim Classic,2012,1
+UNAT,50 M Backstroke,SCM,M,40-44,38.69,Tom Quirk,,Sink or Swim Classic,2012,1
+UNAT,100 M Backstroke,SCM,M,40-44,1:33.11,Tom Quirk,,Sink or Swim Classic,2012,1
+UNAT,100 M Individual Medley,SCM,M,40-44,1:29.41,Tom Quirk,,Sink or Swim Classic,2012,1
+UNAT,50 M Freestyle,SCM,M,45-49,31.64,Matthew Abbott,,Sink or Swim Classic,2012,1
+UNAT,100 M Freestyle,SCM,M,45-49,1:17.76,Matthew Abbott,,Sink or Swim Classic,2012,1
+UNAT,200 M Freestyle,SCM,M,45-49,2:45.92,Craig Pellegrini,,Sink or Swim Classic,2012,1
+UNAT,400 M Freestyle,SCM,M,45-49,5:31.06,Tom Hintz,,Sink or Swim Classic,2012,1
+UNAT,50 M Backstroke,SCM,M,45-49,34.94,Stan M Widlacki,,Sink or Swim Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,45-49,36.05,Stan M Widlacki,,Sink or Swim Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,45-49,42.87,Tom Hintz,,Sink or Swim Classic,2012,2
+UNAT,50 M Breaststroke,SCM,M,45-49,43.08,Matthew Abbott,,Sink or Swim Classic,2012,3
+UNAT,100 M Breaststroke,SCM,M,45-49,1:41.63,Matthew Abbott,,Sink or Swim Classic,2012,1
+UNAT,200 M Breaststroke,SCM,M,45-49,3:51.12,Matthew Abbott,,Sink or Swim Classic,2012,1
+UNAT,100 M Butterfly,SCM,M,45-49,1:30.41,Tom Hintz,,Sink or Swim Classic,2012,1
+UNAT,100 M Individual Medley,SCM,M,45-49,1:13.57,Stan M Widlacki,,Sink or Swim Classic,2012,1
+UNAT,200 M Individual Medley,SCM,M,45-49,2:51.93,Stan M Widlacki,,Sink or Swim Classic,2012,1
+UNAT,200 M Individual Medley,SCM,M,45-49,3:11.27,Craig Pellegrini,,Sink or Swim Classic,2012,2
+UNAT,50 M Freestyle,SCM,M,55-59,34.08,Joseph N Webb,,2nd Annual UIndy Masters Meet,2012,1
+UNAT,100 M Freestyle,SCM,M,55-59,1:19.37,Joseph N Webb,,2nd Annual UIndy Masters Meet,2012,1
+UNAT,200 M Freestyle,SCM,M,55-59,2:56.76,Joseph N Webb,,29th Annual GRIN Fall Classic,2012,1
+UNAT,50 M Breaststroke,SCM,M,55-59,44.94,Joseph N Webb,,2nd Annual UIndy Masters Meet,2012,1
+UNAT,50 M Butterfly,SCM,M,55-59,38.91,Joseph N Webb,,29th Annual GRIN Fall Classic,2012,1
+WLAC,100 M Backstroke,SCM,M,30-34,1:04.20,Antonio Santoro,,Sink or Swim Classic,2012,1
+WLAC,50 M Freestyle,SCM,M,40-44,37.56,Mike Fitzpatrick,,Sink or Swim Classic,2012,1
+WLAC,100 M Freestyle,SCM,M,40-44,1:32.50,Mike Fitzpatrick,,Sink or Swim Classic,2012,1
