@@ -1,0 +1,574 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SKY,50 M Freestyle,LCM,W,18-24,33.38,Erin Gast,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,18-24,35.02,Arin Zirnheld,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,18-24,1:13.65,Erin Gast,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,18-24,1:18.34,Arin Zirnheld,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,18-24,1:50.65,Sarah Hedgspeth,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Backstroke,LCM,W,18-24,38.79,Erin Gast,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,25-29,30.30,Sarah R Beltrame,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,50 M Freestyle,LCM,W,25-29,32.10,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,W,25-29,34.90,Leslie A Weeter,,Lakeside Swim Club LC Mini Meet,2005,3
+SKY,50 M Freestyle,LCM,W,25-29,38.16,Sara Widman,,Lakeside Swim Club Invitational,2005,4
+SKY,50 M Freestyle,LCM,W,25-29,41.67,Diana Church,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Freestyle,LCM,W,25-29,1:09.03,Lauren Minto,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,25-29,1:09.70,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,25-29,1:15.24,Molly Wilson,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,W,25-29,1:32.08,Diana Church,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,W,25-29,1:37.62,Sara Widman,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Freestyle,LCM,W,25-29,2:28.96,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,W,25-29,2:29.10,Lauren Minto,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,25-29,2:40.21,Leslie A Weeter,,Lakeside Swim Club LC Mini Meet,2005,3
+SKY,400 M Freestyle,LCM,W,25-29,5:12.68,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,25-29,5:23.66,Lauren Minto,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,25-29,10:55.41,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,W,25-29,11:12.66,Leslie A Weeter,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,25-29,12:07.17,Molly Wilson,,Lakeside Swim Club Invitational,2005,3
+SKY,1500 M Freestyle,LCM,W,25-29,20:45.87,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,W,25-29,22:47.50,Molly Wilson,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,W,25-29,39.08,Katie N O'Brien,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,25-29,39.82,Lauren Minto,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,W,25-29,1:23.67,Lauren Minto,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,25-29,2:59.61,Lauren Minto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,25-29,45.15,Molly Wilson,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,25-29,54.94,Diana Church,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,W,25-29,1:29.04,Leslie A Weeter,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,100 M Breaststroke,LCM,W,25-29,1:33.16,Sarah R Beltrame,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,100 M Breaststroke,LCM,W,25-29,2:13.08,Sara Widman,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Butterfly,LCM,W,25-29,35.49,Molly Wilson,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,25-29,36.42,Leslie A Weeter,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,50 M Freestyle,LCM,W,30-34,37.56,Julie M Howard,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,30-34,39.91,Tammy S Meadows,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,30-34,1:16.09,Kimberly Cleary,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,30-34,1:29.50,Julie M Howard,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,30-34,2:21.95,Alexandra Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,W,30-34,2:50.28,Kimberly Cleary,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,30-34,3:24.99,Peggy Wenker,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,W,30-34,5:01.50,Alexandra Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,30-34,7:13.32,Julie M Howard,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,30-34,10:28.31,Alexandra Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,30-34,34.50,Alexandra Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,30-34,51.70,Peggy Wenker,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,W,30-34,1:16.44,Alexandra Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,30-34,2:47.79,Alexandra Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,30-34,46.59,Julie M Howard,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,30-34,53.08,Peggy Wenker,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,W,30-34,1:40.65,Julie M Howard,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,W,30-34,2:06.94,Tammy S Meadows,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Breaststroke,LCM,W,30-34,3:46.61,Julie M Howard,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,30-34,38.38,Kimberly Cleary,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,35-39,33.46,Kathy Beckovich,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,35-39,35.12,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,35-39,1:16.80,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,35-39,1:28.37,Bobbi Quesenberry,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,35-39,2:50.44,Michelle Ward,,Swim Louisville LC Meet,2005,1
+SKY,200 M Freestyle,LCM,W,35-39,3:04.62,Bobbi Quesenberry,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,35-39,3:16.05,Susan M Ehringer,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,W,35-39,5:50.84,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,35-39,5:56.24,Michelle Ward,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,W,35-39,6:27.61,Bobbi Quesenberry,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,W,35-39,6:47.13,Susan M Ehringer,,Lakeside Swim Club Invitational,2005,4
+SKY,800 M Freestyle,LCM,W,35-39,12:09.81,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,W,35-39,12:25.86,Michelle Ward,,Swim Louisville LC Meet,2005,2
+SKY,800 M Freestyle,LCM,W,35-39,13:44.39,Bobbi Quesenberry,,Lakeside Swim Club Invitational,2005,3
+SKY,1500 M Freestyle,LCM,W,35-39,22:46.80,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,W,35-39,24:16.04,Michelle Ward,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,W,35-39,38.31,Kathy Beckovich,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,W,35-39,1:24.58,Kathy Beckovich,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,W,35-39,1:33.09,Susan M Ehringer,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,W,35-39,3:00.07,Kathy Beckovich,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,35-39,3:18.90,Susan M Ehringer,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,W,35-39,3:24.51,Michelle Ward,,Swim Louisville LC Meet,2005,3
+SKY,50 M Breaststroke,LCM,W,35-39,45.74,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,35-39,46.00,Kathy Beckovich,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,W,35-39,1:39.79,Robin P Segnitz,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,W,35-39,1:41.84,Michelle Ward,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,200 M Breaststroke,LCM,W,35-39,3:34.40,Michelle Ward,,Swim Louisville LC Meet,2005,1
+SKY,200 M Breaststroke,LCM,W,35-39,3:57.86,Susan M Ehringer,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,W,35-39,37.32,Kathy Beckovich,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,35-39,42.47,Michelle Ward,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,50 M Butterfly,LCM,W,35-39,43.92,Bobbi Quesenberry,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Butterfly,LCM,W,35-39,3:17.92,Michelle Ward,,Swim Louisville LC Meet,2005,1
+SKY,200 M Individual Medley,LCM,W,35-39,3:15.96,Michelle Ward,,Swim Louisville LC Meet,2005,1
+SKY,400 M Individual Medley,LCM,W,35-39,6:56.09,Michelle Ward,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,W,35-39,7:32.86,Susan M Ehringer,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,W,40-44,33.40,Marci Casey,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,40-44,35.10,Pamela Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,W,40-44,36.92,Helen P Glish,,Lakeside Swim Club LC Mini Meet,2005,3
+SKY,50 M Freestyle,LCM,W,40-44,38.74,Sue Crecelius,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,W,40-44,1:19.45,Pamela Luebbe,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,40-44,1:23.79,Helen P Glish,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,40-44,1:26.78,Mariam Ballantine,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,W,40-44,2:23.51,Gina Gatti Vice,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,200 M Freestyle,LCM,W,40-44,3:08.64,Helen P Glish,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,40-44,3:13.14,Mariam Ballantine,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,W,40-44,6:27.61,Frances B Jones,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,40-44,6:37.79,Helen P Glish,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,40-44,11:57.08,Marci Casey,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,40-44,40.46,Caroline Donnelly,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,40-44,40.52,Marci Casey,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,W,40-44,44.50,Helen P Glish,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Backstroke,LCM,W,40-44,45.50,Frances B Jones,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Backstroke,LCM,W,40-44,1:44.50,Frances B Jones,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,40-44,3:04.49,Marci Casey,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,40-44,3:14.90,Caroline Donnelly,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,W,40-44,3:31.86,Frances B Jones,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Breaststroke,LCM,W,40-44,41.80,Caroline Donnelly,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,40-44,43.74,Pamela Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,W,40-44,52.64,Helen P Glish,,Swim Louisville LC Meet,2005,3
+SKY,100 M Breaststroke,LCM,W,40-44,1:34.68,Caroline Donnelly,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,W,40-44,1:38.18,Pamela Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,W,40-44,1:49.74,Helen P Glish,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Breaststroke,LCM,W,40-44,1:54.52,Frances B Jones,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Breaststroke,LCM,W,40-44,2:03.56,Sue Crecelius,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Breaststroke,LCM,W,40-44,3:21.03,Caroline Donnelly,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,W,40-44,3:58.29,Frances B Jones,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,W,40-44,37.15,Pamela Luebbe,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,40-44,38.14,Marci Casey,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,W,40-44,50.38,Helen P Glish,,Lakeside Swim Club LC Mini Meet,2005,3
+SKY,100 M Butterfly,LCM,W,40-44,1:33.02,Pamela Luebbe,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,W,40-44,3:00.01,Caroline Donnelly,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,W,40-44,3:05.56,Marci Casey,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Individual Medley,LCM,W,40-44,3:35.47,Helen P Glish,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,W,45-49,31.75,Pam Martin,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,45-49,32.72,Pamela Borah,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,50 M Freestyle,LCM,W,45-49,34.33,Amy Peterson,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,W,45-49,38.39,Teresa A Walther,,Swim Louisville LC Meet,2005,4
+SKY,50 M Freestyle,LCM,W,45-49,39.47,Lisa R Stearns,,Lakeside Swim Club Invitational,2005,5
+SKY,50 M Freestyle,LCM,W,45-49,42.51,Janice Kregor,,Lakeside Swim Club Invitational,2005,6
+SKY,50 M Freestyle,LCM,W,45-49,43.67,Amy Jordan,,Swim Louisville LC Meet,2005,7
+SKY,50 M Freestyle,LCM,W,45-49,43.99,Meg Smath,,Lakeside Swim Club Invitational,2005,8
+SKY,50 M Freestyle,LCM,W,45-49,1:02.81,Sara Shepherd,,Shea Summer LC Challenge,2005,9
+SKY,100 M Freestyle,LCM,W,45-49,1:09.30,Pam Martin,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,45-49,1:09.88,Cindy Ciampa,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,45-49,1:16.27,Pamela Borah,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,W,45-49,1:29.44,Teresa A Walther,,Swim Louisville LC Meet,2005,4
+SKY,100 M Freestyle,LCM,W,45-49,1:30.88,Janice Kregor,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Freestyle,LCM,W,45-49,1:40.07,Amy Jordan,,Swim Louisville LC Meet,2005,6
+SKY,200 M Freestyle,LCM,W,45-49,2:28.78,Cindy Ciampa,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,W,45-49,2:33.93,Pam Martin,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,45-49,2:51.00,Pamela Borah,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,W,45-49,3:21.47,Amy D Jordan,,Lakeside Swim Club Invitational,2005,4
+SKY,200 M Freestyle,LCM,W,45-49,3:30.15,Lisa R Stearns,,Lakeside Swim Club Invitational,2005,5
+SKY,400 M Freestyle,LCM,W,45-49,5:13.16,Cindy Ciampa,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,45-49,5:33.51,Pam Martin,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,W,45-49,6:23.76,Janice Kregor,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,W,45-49,6:32.41,Amy Peterson,,Lakeside Swim Club Invitational,2005,4
+SKY,400 M Freestyle,LCM,W,45-49,6:47.86,Amy D Jordan,,Lakeside Swim Club Invitational,2005,5
+SKY,400 M Freestyle,LCM,W,45-49,7:15.40,Teresa A Walther,,Lakeside Swim Club Invitational,2005,6
+SKY,400 M Freestyle,LCM,W,45-49,7:42.72,Meg Smath,,Lakeside Swim Club Invitational,2005,7
+SKY,800 M Freestyle,LCM,W,45-49,10:44.29,Cindy Ciampa,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,W,45-49,13:03.72,Janice Kregor,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,45-49,14:50.49,Amy Jordan,,Swim Louisville LC Meet,2005,3
+SKY,1500 M Freestyle,LCM,W,45-49,24:34.94,Janice Kregor,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,45-49,42.48,Melinda Schmitt,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,45-49,45.62,Mary T Graves,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,W,45-49,47.58,Amy D Jordan,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Backstroke,LCM,W,45-49,49.11,Teresa A Walther,,Swim Louisville LC Meet,2005,4
+SKY,50 M Backstroke,LCM,W,45-49,50.70,Lisa R Stearns,,Lakeside Swim Club Invitational,2005,5
+SKY,50 M Backstroke,LCM,W,45-49,1:02.49,Meg Smath,,Lakeside Swim Club Invitational,2005,6
+SKY,100 M Backstroke,LCM,W,45-49,1:35.15,Melinda Schmitt,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,W,45-49,1:44.00,Mary T Graves,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,W,45-49,1:45.90,Amy D Jordan,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Backstroke,LCM,W,45-49,1:45.95,Teresa A Walther,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Backstroke,LCM,W,45-49,1:49.49,Lisa R Stearns,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Backstroke,LCM,W,45-49,2:59.14,Cindy Ciampa,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,45-49,3:26.90,Melinda Schmitt,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,W,45-49,3:44.68,Teresa A Walther,,Swim Louisville LC Meet,2005,3
+SKY,200 M Backstroke,LCM,W,45-49,3:44.73,Amy Jordan,,Swim Louisville LC Meet,2005,4
+SKY,200 M Backstroke,LCM,W,45-49,3:47.96,Amy Peterson,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Backstroke,LCM,W,45-49,3:49.59,Lisa R Stearns,,Lakeside Swim Club Invitational,2005,6
+SKY,50 M Breaststroke,LCM,W,45-49,45.84,Melinda Schmitt,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,45-49,50.33,Meg Smath,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,W,45-49,1:01.03,Sara Shepherd,,Shea Summer LC Challenge,2005,3
+SKY,100 M Breaststroke,LCM,W,45-49,1:40.57,Melinda Schmitt,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,W,45-49,1:55.56,Meg Smath,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,200 M Breaststroke,LCM,W,45-49,4:08.61,Meg Smath,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,W,45-49,4:19.38,Janice Kregor,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,W,45-49,34.29,Pam Martin,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,45-49,36.13,Pamela Borah,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,W,45-49,47.31,Teresa A Walther,,Swim Louisville LC Meet,2005,3
+SKY,50 M Butterfly,LCM,W,45-49,56.39,Janice Kregor,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Butterfly,LCM,W,45-49,1:21.84,Cindy Ciampa,,Swim Louisville LC Meet,2005,1
+SKY,200 M Butterfly,LCM,W,45-49,2:54.22,Cindy Ciampa,,Shea Summer LC Challenge,2005,1
+SKY,200 M Butterfly,LCM,W,45-49,4:30.82,Pamela Borah,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Individual Medley,LCM,W,45-49,3:00.17,Cindy Ciampa,,Swim Louisville LC Meet,2005,1
+SKY,200 M Individual Medley,LCM,W,45-49,3:05.38,Melinda Schmitt,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Individual Medley,LCM,W,45-49,3:45.57,Teresa A Walther,,Swim Louisville LC Meet,2005,3
+SKY,200 M Individual Medley,LCM,W,45-49,3:46.77,Lisa R Stearns,,Lakeside Swim Club Invitational,2005,4
+SKY,400 M Individual Medley,LCM,W,45-49,6:05.19,Cindy Ciampa,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,W,45-49,8:18.95,Teresa A Walther,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,W,50-54,36.60,Wendy Medley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,50-54,53.36,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,W,50-54,55.57,Barbara Conyer,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,W,50-54,1:20.87,Wendy Medley,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,50-54,2:03.25,Barbara Conyer,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,50-54,2:03.53,Gail O'Malley,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,W,50-54,2:11.05,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,4
+SKY,200 M Freestyle,LCM,W,50-54,3:01.16,Wendy Medley,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,W,50-54,4:17.64,Gail O'Malley,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,W,50-54,5:17.34,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,W,50-54,6:24.73,Wendy Medley,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,50-54,10:01.85,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,50-54,13:45.91,Wendy Medley,,Swim Louisville LC Meet,2005,1
+SKY,800 M Freestyle,LCM,W,50-54,22:17.41,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,2
+SKY,1500 M Freestyle,LCM,W,50-54,41:20.23,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,50-54,1:05.95,Gail O'Malley,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,W,50-54,4:47.84,Gail O'Malley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,50-54,1:14.88,Patsy Kaelin,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,W,50-54,3:39.11,Wendy Medley,,Swim Louisville LC Meet,2005,1
+SKY,200 M Individual Medley,LCM,W,50-54,5:52.96,Barbara Conyer,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Individual Medley,LCM,W,50-54,7:32.07,Wendy Medley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,55-59,41.73,Diane Bellafronto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,W,55-59,43.32,Janet S Scheeline,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,55-59,1:33.01,Marilyn Blaske-Hull,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,55-59,1:42.33,Diane Bellafronto,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,W,55-59,1:42.78,Janet S Scheeline,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,W,55-59,3:18.89,Alice Wright Belknap,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,200 M Freestyle,LCM,W,55-59,4:03.56,Diane Bellafronto,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,W,55-59,8:02.65,Janet S Scheeline,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,W,55-59,15:14.43,Marilyn Blaske-Hull,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,W,55-59,16:29.18,Janet S Scheeline,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,W,55-59,18:55.23,Susan I Paris,,Lakeside Swim Club Invitational,2005,3
+SKY,1500 M Freestyle,LCM,W,55-59,28:30.86,Marilyn Blaske-Hull,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,W,55-59,35:40.77,Susan I Paris,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,W,55-59,50.49,Marilyn Blaske-Hull,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,W,55-59,1:50.63,Marilyn Blaske-Hull,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,55-59,41.85,Alice Wright Belknap,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,55-59,58.94,Diane Bellafronto,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,W,55-59,1:35.64,Alice Wright Belknap,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,W,55-59,2:13.67,Diane Bellafronto,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Breaststroke,LCM,W,55-59,3:33.76,Alice Wright Belknap,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,55-59,41.87,Alice Wright Belknap,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,50 M Freestyle,LCM,W,60-64,1:00.46,Jodi Rowatt,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,W,60-64,7:16.38,Tita Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,W,60-64,16:29.50,Linda Hubbuch,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,W,60-64,31:00.56,Linda Hubbuch,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,60-64,1:08.27,Jodi Rowatt,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,60-64,54.54,Tita Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,W,60-64,1:10.65,Jodi Rowatt,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,W,60-64,2:00.16,Tita Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,W,60-64,2:41.31,Jodi Rowatt,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Breaststroke,LCM,W,60-64,4:16.58,Tita Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,W,60-64,54.82,Tita Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,W,70-74,2:01.64,Mary Jane Mullins,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,W,70-74,1:00.66,Mary Jane Mullins,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,W,70-74,2:19.70,Mary Jane Mullins,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,W,70-74,4:24.50,Mary Jane Mullins,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,W,70-74,10:38.90,Mary Jane Mullins,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,18-24,29.23,Simon S Davies,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,18-24,30.06,Mitchell Reinhart,,Lakeside Swim Club LC Mini Meet,2005,2
+SKY,100 M Freestyle,LCM,M,18-24,1:07.54,Simon S Davies,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,18-24,2:39.91,Christopher A Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,18-24,2:45.55,Mitchell Reinhart,,Swim Louisville LC Meet,2005,2
+SKY,800 M Freestyle,LCM,M,18-24,12:14.03,Mitchell Reinhart,,Swim Louisville LC Meet,2005,1
+SKY,50 M Backstroke,LCM,M,18-24,31.30,Christopher A Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,18-24,41.59,Simon S Davies,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,M,18-24,1:07.05,Christopher A Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,M,18-24,2:32.90,Christopher A Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,M,18-24,1:33.22,Simon S Davies,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,18-24,30.78,Mitchell Reinhart,,Swim Louisville LC Meet,2005,1
+SKY,100 M Butterfly,LCM,M,18-24,1:13.00,Mitchell Reinhart,,Swim Louisville LC Meet,2005,1
+SKY,200 M Individual Medley,LCM,M,18-24,2:36.04,Christopher A Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,25-29,23.60,Jerrod Kappler,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,25-29,26.62,Keith Adams,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,25-29,27.82,Chris Proctor,,Swim Louisville LC Meet,2005,3
+SKY,50 M Freestyle,LCM,M,25-29,31.06,Chris Regan,,Swim Louisville LC Meet,2005,4
+SKY,50 M Freestyle,LCM,M,25-29,31.84,Jeremy White,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Freestyle,LCM,M,25-29,53.87,Jerrod Kappler,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,25-29,59.87,Keith Adams,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,25-29,1:11.60,Jeremy White,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,M,25-29,4:37.79,Jerrod Kappler,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,25-29,5:20.19,Jeremy White,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,M,25-29,11:06.60,Jeremy White,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,M,25-29,19:56.49,Jose Manuel Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,M,25-29,3:06.90,Jose Manuel Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,25-29,35.59,Keith Adams,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,25-29,39.03,Chris Proctor,,Swim Louisville LC Meet,2005,2
+SKY,50 M Breaststroke,LCM,M,25-29,39.81,Chris Regan,,Swim Louisville LC Meet,2005,3
+SKY,100 M Breaststroke,LCM,M,25-29,1:22.70,Keith Adams,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,M,25-29,1:29.54,Jose Manuel Nieto,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,M,25-29,1:30.55,Chris Regan,,Swim Louisville LC Meet,2005,3
+SKY,50 M Butterfly,LCM,M,25-29,25.89,Jerrod Kappler,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,25-29,28.60,Keith Adams,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,25-29,34.79,Jeremy White,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Butterfly,LCM,M,25-29,38.12,Chris Proctor,,Swim Louisville LC Meet,2005,4
+SKY,100 M Butterfly,LCM,M,25-29,1:00.80,Jerrod Kappler,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Butterfly,LCM,M,25-29,1:10.24,Jose Manuel Nieto,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Butterfly,LCM,M,25-29,2:26.57,Jose Manuel Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,M,25-29,5:46.27,Jose Manuel Nieto,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,30-34,26.48,Scott Dick,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,30-34,27.29,Paul Widman,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,30-34,29.85,Brad Schmied,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,M,30-34,37.25,David Redinger,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,M,30-34,57.30,Scott Dick,,"World Masters Games, US Swimmers Only",2005,1
+SKY,100 M Freestyle,LCM,M,30-34,1:00.16,Roger Kehrt,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,30-34,1:01.52,Paul Widman,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,M,30-34,1:20.55,David Redinger,,Lakeside Swim Club Invitational,2005,4
+SKY,200 M Freestyle,LCM,M,30-34,2:09.38,Scott Dick,,"World Masters Games, US Swimmers Only",2005,1
+SKY,200 M Freestyle,LCM,M,30-34,3:05.29,David Redinger,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,M,30-34,5:09.64,Roger Kehrt,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,30-34,6:00.39,Brad Schmied,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,M,30-34,6:24.28,David Redinger,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,M,30-34,7:24.17,Paul Widman,,Lakeside Swim Club Invitational,2005,4
+SKY,800 M Freestyle,LCM,M,30-34,12:57.37,David Redinger,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,30-34,13:00.70,Paul Widman,,Lakeside Swim Club Invitational,2005,2
+SKY,1500 M Freestyle,LCM,M,30-34,24:23.27,David Redinger,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,30-34,34.56,Brad Schmied,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,M,30-34,1:15.41,Scott Dick,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,M,30-34,2:41.15,Scott Dick,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,M,30-34,2:57.53,Brad Schmied,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,M,30-34,3:23.31,Paul Widman,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Breaststroke,LCM,M,30-34,40.27,Paul Widman,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,30-34,40.87,Brad Schmied,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,30-34,28.48,Scott Dick,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,30-34,29.25,Roger Kehrt,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,30-34,31.87,Brad Schmied,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Butterfly,LCM,M,30-34,43.25,David Redinger,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Butterfly,LCM,M,30-34,1:04.08,Scott Dick,,"World Masters Games, US Swimmers Only",2005,1
+SKY,100 M Butterfly,LCM,M,30-34,1:05.54,Roger Kehrt,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Butterfly,LCM,M,30-34,2:29.15,Scott Dick,,"World Masters Games, US Swimmers Only",2005,1
+SKY,400 M Individual Medley,LCM,M,30-34,5:21.34,Scott Dick,,"World Masters Games, US Swimmers Only",2005,1
+SKY,50 M Freestyle,LCM,M,35-39,27.34,Mark A Gill,,2005 USMS Long Course Nationals,2005,1
+SKY,50 M Freestyle,LCM,M,35-39,27.50,James Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,35-39,27.69,Dale Mercker,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,M,35-39,29.51,Chip Jaworski,,Lakeside Swim Club Invitational,2005,4
+SKY,50 M Freestyle,LCM,M,35-39,31.24,Carroll Mackin,,Lakeside Swim Club Invitational,2005,5
+SKY,50 M Freestyle,LCM,M,35-39,31.38,Martin Bearden,,Lakeside Swim Club Invitational,2005,6
+SKY,50 M Freestyle,LCM,M,35-39,35.18,Mark Kaelin,,Lakeside Swim Club LC Mini Meet,2005,7
+SKY,100 M Freestyle,LCM,M,35-39,1:01.39,Mark A Gill,,2005 USMS Long Course Nationals,2005,1
+SKY,100 M Freestyle,LCM,M,35-39,1:02.45,James Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,35-39,1:06.55,William Polk,,Swim Louisville LC Meet,2005,3
+SKY,100 M Freestyle,LCM,M,35-39,1:10.62,Martin Bearden,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,M,35-39,1:14.16,Carroll Mackin,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Freestyle,LCM,M,35-39,2:29.40,William Polk,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,35-39,4:58.54,Dale Mercker,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,35-39,5:29.59,William Polk,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,M,35-39,5:42.12,Mark A Gill,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,M,35-39,5:53.90,Martin Bearden,,Lakeside Swim Club Invitational,2005,4
+SKY,400 M Freestyle,LCM,M,35-39,6:22.52,Chip Jaworski,,Lakeside Swim Club Invitational,2005,5
+SKY,800 M Freestyle,LCM,M,35-39,9:53.84,Dale Mercker,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,35-39,11:21.13,William Polk,,Swim Louisville LC Meet,2005,2
+SKY,800 M Freestyle,LCM,M,35-39,12:31.42,Martin Bearden,,Lakeside Swim Club Invitational,2005,3
+SKY,1500 M Freestyle,LCM,M,35-39,18:37.21,Dale Mercker,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,35-39,35.58,Mark A Gill,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,M,35-39,1:15.75,Mark A Gill,,2005 USMS Long Course Nationals,2005,1
+SKY,100 M Backstroke,LCM,M,35-39,1:23.03,William Polk,,Swim Louisville LC Meet,2005,2
+SKY,50 M Breaststroke,LCM,M,35-39,32.50,Abraham Solano,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,35-39,35.55,James Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,M,35-39,40.05,Chip Jaworski,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Breaststroke,LCM,M,35-39,40.58,William Polk,,Lakeside Swim Club Invitational,2005,4
+SKY,50 M Breaststroke,LCM,M,35-39,43.11,Carroll Mackin,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Breaststroke,LCM,M,35-39,1:11.51,Abraham Solano,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,M,35-39,1:12.23,Dale Mercker,,2005 USMS Long Course Nationals,2005,2
+SKY,100 M Breaststroke,LCM,M,35-39,1:25.78,Chip Jaworski,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Breaststroke,LCM,M,35-39,1:30.58,William Polk,,Lakeside Swim Club Invitational,2005,4
+SKY,200 M Breaststroke,LCM,M,35-39,2:35.83,Abraham Solano,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,M,35-39,2:41.34,Dale Mercker,,2005 USMS Long Course Nationals,2005,2
+SKY,50 M Butterfly,LCM,M,35-39,29.04,Mark A Gill,,2005 USMS Long Course Nationals,2005,1
+SKY,50 M Butterfly,LCM,M,35-39,31.18,James Luebbe,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,35-39,32.32,William Polk,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Butterfly,LCM,M,35-39,1:06.73,Mark A Gill,,2005 USMS Long Course Nationals,2005,1
+SKY,100 M Butterfly,LCM,M,35-39,1:20.97,Chip Jaworski,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Butterfly,LCM,M,35-39,2:26.24,Abraham Solano,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,M,35-39,2:22.05,Dale Mercker,,2005 USMS Long Course Nationals,2005,1
+SKY,200 M Individual Medley,LCM,M,35-39,2:45.76,Mark A Gill,,2005 USMS Long Course Nationals,2005,2
+SKY,200 M Individual Medley,LCM,M,35-39,2:51.51,Chip Jaworski,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Individual Medley,LCM,M,35-39,5:08.00,Dale Mercker,,2005 USMS Long Course Nationals,2005,1
+SKY,50 M Freestyle,LCM,M,40-44,27.06,Norman Schippert,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,40-44,27.17,Rick Stecher,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,40-44,29.54,Richard Ransdell,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,M,40-44,29.68,Bill DiMaio,,Swim Louisville LC Meet,2005,4
+SKY,50 M Freestyle,LCM,M,40-44,32.12,Michael Greenleaf,,Swim Louisville LC Meet,2005,5
+SKY,50 M Freestyle,LCM,M,40-44,39.52,Mitch Wagner,,Lakeside Swim Club Invitational,2005,6
+SKY,50 M Freestyle,LCM,M,40-44,41.84,Larry Marko,,Lakeside Swim Club Invitational,2005,7
+SKY,100 M Freestyle,LCM,M,40-44,59.96,Rick Stecher,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,40-44,1:01.72,Michael P Neal,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,40-44,1:05.13,Richard Ransdell,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,M,40-44,1:28.74,Mitch Wagner,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,M,40-44,1:36.72,Larry Marko,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Freestyle,LCM,M,40-44,2:19.51,Michael P Neal,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,40-44,2:23.16,Rick Stecher,,Swim Louisville LC Meet,2005,2
+SKY,200 M Freestyle,LCM,M,40-44,2:26.55,Norman Schippert,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,M,40-44,2:36.03,Bill DiMaio,,Swim Louisville LC Meet,2005,4
+SKY,200 M Freestyle,LCM,M,40-44,3:14.95,Mitch Wagner,,Lakeside Swim Club Invitational,2005,5
+SKY,200 M Freestyle,LCM,M,40-44,3:45.76,Larry Marko,,Lakeside Swim Club Invitational,2005,6
+SKY,400 M Freestyle,LCM,M,40-44,7:09.98,Mitch Wagner,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,40-44,11:31.24,Michael Johmann,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,M,40-44,21:59.09,Michael Johmann,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,40-44,32.36,Rick Stecher,,Swim Louisville LC Meet,2005,1
+SKY,50 M Backstroke,LCM,M,40-44,52.35,Mitch Wagner,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,M,40-44,1:12.03,Rick Stecher,,Swim Louisville LC Meet,2005,1
+SKY,100 M Backstroke,LCM,M,40-44,1:23.64,Michael Johmann,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,M,40-44,2:59.04,Michael Johmann,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,50 M Breaststroke,LCM,M,40-44,35.97,Michael P Neal,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,40-44,39.09,Richard Ransdell,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,M,40-44,43.36,Larry Marko,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Breaststroke,LCM,M,40-44,45.19,Michael Greenleaf,,Swim Louisville LC Meet,2005,4
+SKY,100 M Breaststroke,LCM,M,40-44,1:19.34,Michael P Neal,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,M,40-44,1:29.06,Norman Schippert,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,M,40-44,1:41.02,Larry Marko,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Breaststroke,LCM,M,40-44,3:42.39,Larry Marko,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,40-44,27.96,Norman Schippert,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,40-44,29.63,Rick Stecher,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,40-44,30.67,Richard Ransdell,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Butterfly,LCM,M,40-44,31.55,Michael P Neal,,Lakeside Swim Club Invitational,2005,4
+SKY,50 M Butterfly,LCM,M,40-44,31.90,Bill DiMaio,,Swim Louisville LC Meet,2005,5
+SKY,50 M Butterfly,LCM,M,40-44,33.77,Michael Johmann,,Lakeside Swim Club Invitational,2005,6
+SKY,50 M Butterfly,LCM,M,40-44,37.71,Michael Greenleaf,,Swim Louisville LC Meet,2005,7
+SKY,100 M Butterfly,LCM,M,40-44,1:13.71,Michael Johmann,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Butterfly,LCM,M,40-44,2:42.15,Michael Johmann,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,M,40-44,2:38.51,Michael P Neal,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,M,40-44,2:59.20,Norman Schippert,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Individual Medley,LCM,M,40-44,3:03.25,Michael Johmann,,Swim Louisville LC Meet,2005,3
+SKY,50 M Freestyle,LCM,M,45-49,27.94,Mark Ritter,,Middle Tennessee Swim Club Long Course Meet,2005,1
+SKY,50 M Freestyle,LCM,M,45-49,28.06,Keith Shepherd,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,45-49,28.28,John Voorhees,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,M,45-49,36.46,Don E Smith,,Lakeside Swim Club Invitational,2005,4
+SKY,50 M Freestyle,LCM,M,45-49,37.11,Richard Carrico,,Swim Louisville LC Meet,2005,5
+SKY,100 M Freestyle,LCM,M,45-49,1:02.09,John Voorhees,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,45-49,1:04.77,Matthew A Painter,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,45-49,1:06.33,Mark Ritter,,Middle Tennessee Swim Club Long Course Meet,2005,3
+SKY,100 M Freestyle,LCM,M,45-49,1:08.32,Chuck Lambert,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,M,45-49,1:23.98,Don E Smith,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Freestyle,LCM,M,45-49,1:29.92,Richard Carrico,,Lakeside Swim Club Invitational,2005,6
+SKY,200 M Freestyle,LCM,M,45-49,2:19.82,Keith Shepherd,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,45-49,2:27.62,Clay Gilbert,,Swim Louisville LC Meet,2005,2
+SKY,200 M Freestyle,LCM,M,45-49,2:28.64,Matthew A Painter,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,M,45-49,2:31.62,Chuck Lambert,,Lakeside Swim Club Invitational,2005,4
+SKY,200 M Freestyle,LCM,M,45-49,2:35.88,Mark Ritter,,Lakeside Swim Club Invitational,2005,5
+SKY,400 M Freestyle,LCM,M,45-49,5:37.35,Chuck Lambert,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,45-49,10:50.05,Clay Gilbert,,Swim Louisville LC Meet,2005,1
+SKY,50 M Backstroke,LCM,M,45-49,34.83,Keith Shepherd,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,45-49,35.37,Mark Ritter,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,M,45-49,52.99,Don E Smith,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Backstroke,LCM,M,45-49,1:16.46,Keith Shepherd,,Shea Summer LC Challenge,2005,1
+SKY,100 M Backstroke,LCM,M,45-49,1:18.62,Matthew A Painter,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,M,45-49,1:23.77,Chuck Lambert,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Backstroke,LCM,M,45-49,1:32.66,Jimbo Martin,,Lakeside Swim Club Invitational,2005,4
+SKY,200 M Backstroke,LCM,M,45-49,3:11.51,Jimbo Martin,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,45-49,35.81,Cork Haberek,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,45-49,35.84,John Voorhees,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,M,45-49,36.82,Keith Shepherd,,Shea Summer LC Challenge,2005,3
+SKY,50 M Breaststroke,LCM,M,45-49,50.86,Don E Smith,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Breaststroke,LCM,M,45-49,1:19.13,Keith Shepherd,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,M,45-49,1:20.14,John Voorhees,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,M,45-49,1:20.91,Cork Haberek,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Breaststroke,LCM,M,45-49,1:30.16,Clay Gilbert,,Swim Louisville LC Meet,2005,4
+SKY,100 M Breaststroke,LCM,M,45-49,1:33.36,Jimbo Martin,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Breaststroke,LCM,M,45-49,1:57.46,Don E Smith,,Lakeside Swim Club Invitational,2005,6
+SKY,200 M Breaststroke,LCM,M,45-49,3:02.19,Cork Haberek,,Swim Louisville LC Meet,2005,1
+SKY,200 M Breaststroke,LCM,M,45-49,3:26.31,Jimbo Martin,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,45-49,29.31,John Voorhees,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,45-49,31.27,Mark Ritter,,Middle Tennessee Swim Club Long Course Meet,2005,2
+SKY,100 M Butterfly,LCM,M,45-49,1:07.17,John Voorhees,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Butterfly,LCM,M,45-49,1:29.92,Jimbo Martin,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Individual Medley,LCM,M,45-49,2:41.22,Keith Shepherd,,Shea Summer LC Challenge,2005,1
+SKY,200 M Individual Medley,LCM,M,45-49,2:41.55,Cork Haberek,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Individual Medley,LCM,M,45-49,2:58.64,Jimbo Martin,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Individual Medley,LCM,M,45-49,6:02.01,Cork Haberek,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,50-54,28.67,Tom Evans,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,50-54,29.44,James Grubbs,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,50-54,30.00,Mark Kraemer,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Freestyle,LCM,M,50-54,32.51,Bill Conyer,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,M,50-54,1:08.10,Charles Miesner,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,50-54,1:08.82,Mark Kraemer,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,50-54,1:09.83,Tom Evans,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Freestyle,LCM,M,50-54,1:14.53,James R Hansbrough,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Freestyle,LCM,M,50-54,1:16.50,Bill Conyer,,Lakeside Swim Club Invitational,2005,5
+SKY,100 M Freestyle,LCM,M,50-54,1:18.39,Thomas Mester,,Lakeside Swim Club Invitational,2005,6
+SKY,200 M Freestyle,LCM,M,50-54,2:54.13,Thomas Mester,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,50-54,2:54.20,James R Hansbrough,,Lakeside Swim Club Invitational,2005,2
+SKY,400 M Freestyle,LCM,M,50-54,5:19.71,James Grubbs,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,50-54,5:53.26,Thomas Mester,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,M,50-54,12:52.42,Thomas Mester,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,M,50-54,24:08.04,Thomas Mester,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,50-54,37.99,Mark Kraemer,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,50-54,39.37,Charles Miesner,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,M,50-54,41.70,Bill Conyer,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Backstroke,LCM,M,50-54,46.40,James R Hansbrough,,Lakeside Swim Club Invitational,2005,4
+SKY,100 M Backstroke,LCM,M,50-54,1:28.20,Charles Miesner,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,M,50-54,1:37.16,Bill Conyer,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Backstroke,LCM,M,50-54,3:09.21,James Grubbs,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,M,50-54,3:18.68,Charles Miesner,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,M,50-54,37.41,Mark Kraemer,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,50-54,39.95,Tom Evans,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,M,50-54,1:27.40,Mark Kraemer,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Breaststroke,LCM,M,50-54,1:31.53,Tom Evans,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,M,50-54,1:34.93,James Grubbs,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Butterfly,LCM,M,50-54,32.11,Tom Evans,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,50-54,32.81,Carlton Arnold,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,50-54,33.42,Mark Kraemer,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Butterfly,LCM,M,50-54,33.77,James R Hansbrough,,Lakeside Swim Club Invitational,2005,4
+SKY,50 M Butterfly,LCM,M,50-54,35.47,Thomas Mester,,Lakeside Swim Club Invitational,2005,5
+SKY,50 M Butterfly,LCM,M,50-54,38.24,Bill Conyer,,Lakeside Swim Club Invitational,2005,6
+SKY,100 M Butterfly,LCM,M,50-54,1:17.99,Carlton Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Butterfly,LCM,M,50-54,1:18.17,Charles Miesner,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Butterfly,LCM,M,50-54,3:20.64,Carlton Arnold,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,M,50-54,3:09.08,Thomas Mester,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,55-59,1:06.51,Lynn Olson,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,55-59,1:07.86,Dennis Hamilton,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,55-59,1:31.14,Woody Turrentine,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,M,55-59,2:32.84,Lynn Olson,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,55-59,2:40.26,William Tingley,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,M,55-59,3:24.75,Woody Turrentine,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,M,55-59,6:05.60,William Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,55-59,7:02.72,Woody Turrentine,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,M,55-59,14:15.86,James Goodwin,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,55-59,14:27.48,Frank Diebold,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,M,55-59,14:57.92,Woody Turrentine,,Lakeside Swim Club Invitational,2005,3
+SKY,1500 M Freestyle,LCM,M,55-59,24:58.93,Frank Diebold,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,M,55-59,26:51.40,James Goodwin,,Lakeside Swim Club Invitational,2005,2
+SKY,1500 M Freestyle,LCM,M,55-59,28:06.36,Woody Turrentine,,Lakeside Swim Club Invitational,2005,3
+SKY,50 M Backstroke,LCM,M,55-59,33.62,William Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,55-59,46.21,Allen Marcum,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Backstroke,LCM,M,55-59,1:14.32,William Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Backstroke,LCM,M,55-59,2:45.52,William Tingley,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,55-59,41.06,Larry Hunt,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,55-59,43.47,William Tingley,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Breaststroke,LCM,M,55-59,45.16,Allen Marcum,,Lakeside Swim Club Invitational,2005,3
+SKY,100 M Breaststroke,LCM,M,55-59,1:32.35,Larry Hunt,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,M,55-59,3:25.72,Larry Hunt,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,M,55-59,3:48.24,Allen Marcum,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Butterfly,LCM,M,55-59,32.33,Dennis Hamilton,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,55-59,39.38,Lynn Olson,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Butterfly,LCM,M,55-59,1:22.32,Dennis Hamilton,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Butterfly,LCM,M,55-59,3:25.23,Larry Hunt,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Individual Medley,LCM,M,55-59,3:15.99,Larry Hunt,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,M,55-59,7:05.79,Larry Hunt,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,M,55-59,8:09.35,Woody Turrentine,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Freestyle,LCM,M,60-64,37.37,Larry N Keaton,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,60-64,43.79,Stanley Bearden,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,60-64,1:24.02,Larry N Keaton,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Freestyle,LCM,M,60-64,1:41.78,David Burgio,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Freestyle,LCM,M,60-64,1:51.64,Stanley Bearden,,Lakeside Swim Club Invitational,2005,3
+SKY,200 M Freestyle,LCM,M,60-64,3:21.13,Larry N Keaton,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,60-64,3:56.93,David Burgio,,Lakeside Swim Club Invitational,2005,2
+SKY,200 M Freestyle,LCM,M,60-64,4:03.64,Stanley Bearden,,Lakeside Swim Club Invitational,2005,3
+SKY,400 M Freestyle,LCM,M,60-64,7:21.29,Larry N Keaton,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,60-64,14:54.02,Larry N Keaton,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,60-64,17:19.73,David Burgio,,Lakeside Swim Club Invitational,2005,2
+SKY,800 M Freestyle,LCM,M,60-64,18:29.03,Stanley Bearden,,Lakeside Swim Club Invitational,2005,3
+SKY,1500 M Freestyle,LCM,M,60-64,32:26.38,David Burgio,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,M,60-64,34:51.95,Stanley Bearden,,Lakeside Swim Club Invitational,2005,2
+SKY,50 M Backstroke,LCM,M,60-64,1:02.59,David Burgio,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,M,60-64,2:12.82,David Burgio,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,60-64,41.96,George T Dodge,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Breaststroke,LCM,M,60-64,55.57,Larry N Keaton,,Lakeside Swim Club Invitational,2005,2
+SKY,100 M Breaststroke,LCM,M,60-64,1:34.11,George T Dodge,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Breaststroke,LCM,M,60-64,3:28.75,George T Dodge,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Butterfly,LCM,M,60-64,36.61,Glenn H Hubbuch,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Butterfly,LCM,M,60-64,3:29.53,George T Dodge,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Individual Medley,LCM,M,60-64,7:17.37,George T Dodge,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Freestyle,LCM,M,65-69,38.27,Larry Isom,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,100 M Freestyle,LCM,M,65-69,1:32.47,Larry Isom,,Lakeside Swim Club Invitational,2005,1
+SKY,200 M Freestyle,LCM,M,65-69,3:23.65,Larry Isom,,Lakeside Swim Club Invitational,2005,1
+SKY,400 M Freestyle,LCM,M,65-69,7:16.67,Larry Isom,,Lakeside Swim Club Invitational,2005,1
+SKY,800 M Freestyle,LCM,M,65-69,15:28.45,Larry Isom,,Lakeside Swim Club Invitational,2005,1
+SKY,1500 M Freestyle,LCM,M,65-69,29:39.12,Larry Isom,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,65-69,41.69,Ralph Johanson,,Swim Louisville LC Meet,2005,1
+SKY,50 M Breaststroke,LCM,M,65-69,43.80,Ralph Johanson,,Swim Louisville LC Meet,2005,1
+SKY,100 M Breaststroke,LCM,M,65-69,1:39.72,Ralph Johanson,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,50 M Butterfly,LCM,M,65-69,58.68,Larry Isom,,Lakeside Swim Club LC Mini Meet,2005,1
+SKY,800 M Freestyle,LCM,M,90-94,24:43.31,Gary J Weisenthal,,Lakeside Swim Club Invitational,2005,1
+SKY,50 M Backstroke,LCM,M,90-94,1:09.00,Gary J Weisenthal,,Lakeside Swim Club Invitational,2005,1
+SKY,100 M Backstroke,LCM,M,90-94,2:34.73,Gary J Weisenthal,,Lakeside Swim Club Invitational,2005,1

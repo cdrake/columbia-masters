@@ -1,0 +1,76 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MEDM,50 M Freestyle,SCM,W,25-29,28.61,Marnie Rognlien,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,200 M Freestyle,SCM,W,25-29,2:21.89,Marnie Rognlien,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,100 M Freestyle,SCM,W,35-39,1:26.11,Lindy Harvey,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,200 M Freestyle,SCM,W,35-39,3:25.62,Lindy Harvey,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,100 M Individual Medley,SCM,W,35-39,1:41.72,Lindy Harvey,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,100 M Freestyle,SCM,W,40-44,1:20.08,Reva J Keaton,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,200 M Freestyle,SCM,W,40-44,2:56.15,Reva J Keaton,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,50 M Freestyle,SCM,M,35-39,27.60,Jon P Grafious,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,50 M Freestyle,SCM,M,35-39,33.29,James F Hausen,,2011 O*H*I*O Masters SCM Swim Meet,2011,2
+MEDM,50 M Breaststroke,SCM,M,35-39,42.65,James F Hausen,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,100 M Breaststroke,SCM,M,35-39,1:37.28,James F Hausen,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,100 M Individual Medley,SCM,M,35-39,1:09.84,Jon P Grafious,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,50 M Freestyle,SCM,M,50-54,27.11,Amro A Hassan,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,50 M Butterfly,SCM,M,50-54,30.80,Amro A Hassan,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,50 M Freestyle,SCM,M,60-64,31.73,Gregory V Kappa,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,100 M Freestyle,SCM,M,60-64,1:11.57,Gregory V Kappa,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+MEDM,50 M Backstroke,SCM,M,60-64,44.42,Gregory V Kappa,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Freestyle,SCM,W,25-29,41.45,Andrea M Scheetz,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Breaststroke,SCM,W,25-29,59.86,Andrea M Scheetz,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Butterfly,SCM,W,25-29,59.10,Andrea M Scheetz,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Freestyle,SCM,W,40-44,34.64,Gail D Morrison,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,100 M Freestyle,SCM,W,40-44,1:26.35,Gail D Morrison,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Backstroke,SCM,W,40-44,46.33,Gail D Morrison,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Butterfly,SCM,W,40-44,51.31,Gail D Morrison,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Freestyle,SCM,W,45-49,40.89,Marilyn Dejesus,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Freestyle,SCM,W,45-49,48.07,Jennifer Ellis,,2011 O*H*I*O Masters SCM Swim Meet,2011,2
+PRTR,100 M Freestyle,SCM,W,45-49,1:37.07,Marilyn Dejesus,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,100 M Freestyle,SCM,W,45-49,1:46.55,Jennifer Ellis,,2011 O*H*I*O Masters SCM Swim Meet,2011,2
+PRTR,50 M Backstroke,SCM,W,45-49,51.88,Marilyn Dejesus,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Backstroke,SCM,W,45-49,54.14,Jennifer Ellis,,2011 O*H*I*O Masters SCM Swim Meet,2011,2
+PRTR,50 M Freestyle,SCM,M,40-44,30.33,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Freestyle,SCM,M,40-44,30.71,Bryan M Dail,,2011 O*H*I*O Masters SCM Swim Meet,2011,2
+PRTR,100 M Freestyle,SCM,M,40-44,1:08.53,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,100 M Freestyle,SCM,M,40-44,1:11.62,Bryan M Dail,,2011 O*H*I*O Masters SCM Swim Meet,2011,2
+PRTR,200 M Freestyle,SCM,M,40-44,2:47.31,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Backstroke,SCM,M,40-44,39.77,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,100 M Backstroke,SCM,M,40-44,1:32.38,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,200 M Backstroke,SCM,M,40-44,3:24.82,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Breaststroke,SCM,M,40-44,42.57,Bryan M Dail,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,50 M Butterfly,SCM,M,40-44,33.84,Daniel J Smith,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+PRTR,100 M Individual Medley,SCM,M,40-44,1:24.05,Bryan M Dail,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Backstroke,SCM,W,60-64,44.13,Marilyn Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,100 M Backstroke,SCM,W,60-64,1:33.97,Marilyn Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,200 M Backstroke,SCM,W,60-64,3:20.20,Marilyn Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Butterfly,SCM,W,60-64,44.10,Marilyn Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,100 M Individual Medley,SCM,W,60-64,1:40.07,Marilyn Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Freestyle,SCM,M,18-24,26.47,Adam S Warner,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Backstroke,SCM,M,18-24,30.30,Adam S Warner,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Breaststroke,SCM,M,18-24,33.51,Adam S Warner,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Butterfly,SCM,M,18-24,29.68,Adam S Warner,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,100 M Individual Medley,SCM,M,18-24,1:06.55,Adam S Warner,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Breaststroke,SCM,M,55-59,36.00,Karl H Kazmaier,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,100 M Breaststroke,SCM,M,55-59,1:21.05,Karl H Kazmaier,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,200 M Breaststroke,SCM,M,55-59,3:03.78,Karl H Kazmaier,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,50 M Breaststroke,SCM,M,60-64,40.73,Nick Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,100 M Breaststroke,SCM,M,60-64,1:26.34,Nick Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,200 M Breaststroke,SCM,M,60-64,3:08.11,Nick Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SAMY,100 M Individual Medley,SCM,M,60-64,1:28.34,Nick Douglass,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,50 M Freestyle,SCM,M,45-49,38.13,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,100 M Freestyle,SCM,M,45-49,1:37.80,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,200 M Freestyle,SCM,M,45-49,4:02.44,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,400 M Freestyle,SCM,M,45-49,8:23.92,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,800 M Freestyle,SCM,M,45-49,18:08.52,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,100 M Backstroke,SCM,M,45-49,1:43.79,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,100 M Breaststroke,SCM,M,45-49,2:08.73,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,200 M Breaststroke,SCM,M,45-49,4:50.21,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,50 M Butterfly,SCM,M,45-49,1:02.76,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,100 M Individual Medley,SCM,M,45-49,1:57.23,Fernan V Echeverria,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,50 M Backstroke,SCM,M,55-59,36.66,Lou Horwitz,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,100 M Backstroke,SCM,M,55-59,1:18.58,Lou Horwitz,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+SHSH,200 M Backstroke,SCM,M,55-59,2:56.60,Lou Horwitz,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+UNAT,50 M Freestyle,SCM,M,50-54,30.41,Stephen J Martin,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,50-54,1:10.41,Stephen J Martin,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+UNAT,400 M Freestyle,SCM,M,50-54,5:27.31,Stephen J Martin,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+UNAT,100 M Individual Medley,SCM,M,50-54,1:25.90,Stephen J Martin,,2011 O*H*I*O Masters SCM Swim Meet,2011,1

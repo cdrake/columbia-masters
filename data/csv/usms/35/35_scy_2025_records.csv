@@ -1,0 +1,637 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CWUSC,50 Y Freestyle,SCY,W,18-24,27.39,Carly Kahler,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Freestyle,SCY,W,18-24,27.76,Elle Seidensticker,,2025 U.S. Masters Swimming Spring National Championship,2025,2
+CWUSC,50 Y Freestyle,SCY,W,18-24,29.17,Miranda L Huff,,Velocity Masters Winter Open,2025,3
+CWUSC,50 Y Freestyle,SCY,W,18-24,51.95,Izabell A Russakoff,,WWU Viking Invitational 2025,2025,4
+CWUSC,100 Y Freestyle,SCY,W,18-24,1:00.90,Elle Seidensticker,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Freestyle,SCY,W,18-24,1:09.12,Miranda L Huff,,Velocity Masters Winter Open,2025,2
+CWUSC,100 Y Freestyle,SCY,W,18-24,1:58.50,Izabell A Russakoff,,WWU Viking Invitational 2025,2025,3
+CWUSC,1650 Y Freestyle,SCY,W,18-24,22:18.74,Elle Seidensticker,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Backstroke,SCY,W,18-24,31.20,Elle Seidensticker,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Backstroke,SCY,W,18-24,31.59,Carly M Kahler,,2025 U.S. Masters Swimming Spring National Championship,2025,2
+CWUSC,50 Y Backstroke,SCY,W,18-24,36.57,Miranda L Huff,,Velocity Masters Winter Open,2025,3
+CWUSC,100 Y Backstroke,SCY,W,18-24,1:11.00,Elle Seidensticker,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Breaststroke,SCY,W,18-24,35.01,Carly M Kahler,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Breaststroke,SCY,W,18-24,1:16.64,Carly Kahler,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Butterfly,SCY,W,18-24,30.22,Elle Seidensticker,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Individual Medley,SCY,W,18-24,1:09.31,Carly Kahler,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Individual Medley,SCY,W,18-24,1:11.86,Elle Seidensticker,,2024 U.S. Masters Swimming Spring National Championship,2025,2
+CWUSC,400 Y Individual Medley,SCY,W,18-24,6:07.45,Elle Seidensticker,,WWU Viking Invitational 2025,2025,1
+CWUSC,50 Y Freestyle,SCY,M,18-24,24.76,Elijah Rinehart,,WWU Viking Invitational 2025,2025,1
+CWUSC,50 Y Freestyle,SCY,M,18-24,25.70,Landen Hashimura,,2024 U.S. Masters Swimming Spring National Championship,2025,2
+CWUSC,50 Y Freestyle,SCY,M,18-24,25.95,Ian S Cunningham,,WWU Viking Invitational 2025,2025,3
+CWUSC,50 Y Freestyle,SCY,M,18-24,27.69,Tylan O Holmes,,WWU Viking Invitational 2025,2025,4
+CWUSC,50 Y Freestyle,SCY,M,18-24,28.97,Arturo Munoz-Olmos,,WWU Viking Invitational 2025,2025,5
+CWUSC,100 Y Freestyle,SCY,M,18-24,51.61,Nate Harris,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Freestyle,SCY,M,18-24,55.96,Elijah Rinehart,,WWU Viking Invitational 2025,2025,2
+CWUSC,100 Y Freestyle,SCY,M,18-24,1:00.07,Ian S Cunningham,,WWU Viking Invitational 2025,2025,3
+CWUSC,100 Y Freestyle,SCY,M,18-24,1:07.58,Tylan O Holmes,,Velocity Masters Winter Open,2025,4
+CWUSC,200 Y Freestyle,SCY,M,18-24,1:52.11,Nate Harris,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,1650 Y Freestyle,SCY,M,18-24,20:40.80,Elijah Rinehart,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Backstroke,SCY,M,18-24,28.44,Elijah Rinehart,,WWU Viking Invitational 2025,2025,1
+CWUSC,50 Y Breaststroke,SCY,M,18-24,30.71,Landen Hashimura,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Breaststroke,SCY,M,18-24,34.64,Tylan O Holmes,,Velocity Masters Winter Open,2025,2
+CWUSC,50 Y Breaststroke,SCY,M,18-24,35.43,Arturo Munoz-Olmos,,Velocity Masters Winter Open,2025,3
+CWUSC,100 Y Breaststroke,SCY,M,18-24,1:06.26,Landen Hashimura,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Breaststroke,SCY,M,18-24,1:17.56,Tylan O Holmes,,WWU Viking Invitational 2025,2025,2
+CWUSC,100 Y Breaststroke,SCY,M,18-24,1:18.67,Arturo Munoz-Olmos,,Velocity Masters Winter Open,2025,3
+CWUSC,200 Y Breaststroke,SCY,M,18-24,2:24.95,Landen Hashimura,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,200 Y Breaststroke,SCY,M,18-24,2:55.09,Arturo Munoz-Olmos,,WWU Viking Invitational 2025,2025,2
+CWUSC,50 Y Butterfly,SCY,M,18-24,24.87,Nate Harris,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,50 Y Butterfly,SCY,M,18-24,27.44,Landen Hashimura,,2024 U.S. Masters Swimming Spring National Championship,2025,2
+CWUSC,50 Y Butterfly,SCY,M,18-24,29.33,Ian S Cunningham,,WWU Viking Invitational 2025,2025,3
+CWUSC,50 Y Butterfly,SCY,M,18-24,29.91,Arturo Munoz-Olmos,,Velocity Masters Winter Open,2025,4
+CWUSC,100 Y Butterfly,SCY,M,18-24,54.09,Nate Harris,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,200 Y Butterfly,SCY,M,18-24,2:02.01,Nate Harris,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+CWUSC,100 Y Individual Medley,SCY,M,18-24,1:10.31,Arturo Munoz-Olmos,,Velocity Masters Winter Open,2025,1
+CWUSC,100 Y Individual Medley,SCY,M,18-24,1:11.12,Ian S Cunningham,,WWU Viking Invitational 2025,2025,2
+CWUSC,400 Y Individual Medley,SCY,M,18-24,4:26.38,Nate Harris,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+EM,50 Y Freestyle,SCY,W,40-44,30.81,Megan N Sullivan,,Velocity Masters Winter Open,2025,1
+EM,50 Y Freestyle,SCY,W,40-44,41.41,Joylyn A Schneider,,Velocity Masters Winter Open,2025,2
+EM,100 Y Freestyle,SCY,W,40-44,1:08.60,Megan N Sullivan,,Velocity Masters Winter Open,2025,1
+EM,200 Y Freestyle,SCY,W,40-44,2:25.34,Megan N Sullivan,,Velocity Masters Winter Open,2025,1
+EM,50 Y Backstroke,SCY,W,40-44,38.34,Megan N Sullivan,,Velocity Masters Winter Open,2025,1
+EM,100 Y Backstroke,SCY,W,40-44,1:23.83,Megan N Sullivan,,Velocity Masters Winter Open,2025,1
+EM,50 Y Breaststroke,SCY,W,40-44,41.99,Joylyn A Schneider,,Velocity Masters Winter Open,2025,1
+EM,100 Y Breaststroke,SCY,W,40-44,1:30.31,Joylyn A Schneider,,Velocity Masters Winter Open,2025,1
+EM,100 Y Individual Medley,SCY,W,40-44,1:39.87,Joylyn A Schneider,,Velocity Masters Winter Open,2025,1
+EM,50 Y Freestyle,SCY,M,35-39,26.53,Josh C Nelson-Ichido,,Velocity Masters Winter Open,2025,1
+EM,100 Y Freestyle,SCY,M,35-39,59.08,Josh C Nelson-Ichido,,Velocity Masters Winter Open,2025,1
+EM,50 Y Butterfly,SCY,M,35-39,29.70,Josh C Nelson-Ichido,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,18-24,31.23,Elena J Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,200 Y Freestyle,SCY,W,18-24,2:31.23,Elena J Sievers,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Backstroke,SCY,W,18-24,36.59,Elena J Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,W,18-24,38.47,Elena J Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Breaststroke,SCY,W,18-24,1:26.82,Elena J Sievers,,Velocity Masters Winter Open,2025,1
+INAM,200 Y Breaststroke,SCY,W,18-24,3:14.62,Elena J Sievers,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Butterfly,SCY,W,18-24,33.40,Elena J Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,W,18-24,1:16.05,Elena J Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,W,25-29,27.44,Carolyn E Sievers,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,25-29,31.77,Anika T Thomas-Toth,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Freestyle,SCY,W,25-29,1:00.88,Carolyn E Sievers,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+INAM,50 Y Backstroke,SCY,W,25-29,31.99,Carolyn E Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Backstroke,SCY,W,25-29,38.82,Anika T Thomas-Toth,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Backstroke,SCY,W,25-29,1:07.65,Carolyn E Sievers,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,200 Y Backstroke,SCY,W,25-29,2:26.75,Carolyn E Sievers,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+INAM,50 Y Breaststroke,SCY,W,25-29,34.91,Carolyn E Sievers,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Breaststroke,SCY,W,25-29,39.99,Anika T Thomas-Toth,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Breaststroke,SCY,W,25-29,1:15.55,Carolyn E Sievers,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Butterfly,SCY,W,25-29,29.38,Carolyn E Sievers,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,W,25-29,37.36,Anika T Thomas-Toth,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Butterfly,SCY,W,25-29,1:09.70,Carolyn E Sievers,,1st Annual Nationwide Pentathlon Championship,2025,1
+INAM,100 Y Individual Medley,SCY,W,25-29,1:06.90,Carolyn E Sievers,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+INAM,100 Y Individual Medley,SCY,W,25-29,1:20.31,Anika T Thomas-Toth,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,200 Y Individual Medley,SCY,W,25-29,2:32.27,Carolyn E Sievers,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+INAM,50 Y Freestyle,SCY,W,30-34,27.28,Emily B Anderson,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,30-34,28.58,McKenzie R Gunselman,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,500 Y Freestyle,SCY,W,30-34,7:00.27,Emily B Anderson,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Backstroke,SCY,W,30-34,34.73,Emily B Anderson,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Backstroke,SCY,W,30-34,35.00,McKenzie R Gunselman,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Breaststroke,SCY,W,30-34,43.57,McKenzie R Gunselman,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,W,30-34,30.60,Emily B Anderson,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Butterfly,SCY,W,30-34,32.55,McKenzie R Gunselman,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Individual Medley,SCY,W,30-34,1:12.43,Emily B Anderson,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Individual Medley,SCY,W,30-34,1:17.20,McKenzie R Gunselman,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Freestyle,SCY,W,35-39,28.21,Emily S Munday,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Freestyle,SCY,W,35-39,29.78,Daryn Maughan,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Freestyle,SCY,W,35-39,30.13,Alex McAnally,,Inland NW LMSC Championship Swim Meet,2025,3
+INAM,50 Y Freestyle,SCY,W,35-39,38.62,Heather Glickfeld,,Velocity Masters Winter Open,2025,4
+INAM,100 Y Freestyle,SCY,W,35-39,1:04.23,Daryn Maughan,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Freestyle,SCY,W,35-39,1:10.81,Alex McAnally,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Freestyle,SCY,W,35-39,1:12.16,Katherine T Bray,,Spokane Club Dual Sprint Pentathlon,2025,3
+INAM,100 Y Freestyle,SCY,W,35-39,1:28.18,Heather Glickfeld,,Velocity Masters Winter Open,2025,4
+INAM,500 Y Freestyle,SCY,W,35-39,6:19.94,Alex McAnally,,Velocity Masters Winter Open,2025,1
+INAM,500 Y Freestyle,SCY,W,35-39,7:05.28,Katherine T Bray,,Velocity Masters Winter Open,2025,2
+INAM,1650 Y Freestyle,SCY,W,35-39,21:43.17,Alex McAnally,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Backstroke,SCY,W,35-39,31.46,Emily S Munday,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Backstroke,SCY,W,35-39,34.62,Daryn Maughan,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Backstroke,SCY,W,35-39,36.72,Alex McAnally,,Velocity Masters Winter Open,2025,3
+INAM,100 Y Backstroke,SCY,W,35-39,1:09.06,Emily S Munday,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Backstroke,SCY,W,35-39,1:16.31,Daryn Maughan,,1st Annual Nationwide Pentathlon Championship,2025,2
+INAM,100 Y Backstroke,SCY,W,35-39,1:17.01,Alex McAnally,,Inland NW LMSC Championship Swim Meet,2025,3
+INAM,100 Y Backstroke,SCY,W,35-39,1:24.11,Katherine T Bray,,Spokane Club Dual Sprint Pentathlon,2025,4
+INAM,200 Y Backstroke,SCY,W,35-39,2:45.64,Alex McAnally,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Breaststroke,SCY,W,35-39,36.81,Emily S Munday,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,W,35-39,39.39,Daryn Maughan,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Breaststroke,SCY,W,35-39,40.20,Alex McAnally,,Velocity Masters Winter Open,2025,3
+INAM,50 Y Breaststroke,SCY,W,35-39,46.13,Heather Glickfeld,,Velocity Masters Winter Open,2025,4
+INAM,50 Y Breaststroke,SCY,W,35-39,46.84,Katherine T Bray,,Velocity Masters Winter Open,2025,5
+INAM,100 Y Breaststroke,SCY,W,35-39,1:24.56,Alex McAnally,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Breaststroke,SCY,W,35-39,1:32.51,Daryn Maughan,,1st Annual Nationwide Pentathlon Championship,2025,2
+INAM,100 Y Breaststroke,SCY,W,35-39,1:37.89,Katherine T Bray,,Spokane Club Dual Sprint Pentathlon,2025,3
+INAM,100 Y Breaststroke,SCY,W,35-39,1:44.06,Heather Glickfeld,,Velocity Masters Winter Open,2025,4
+INAM,200 Y Breaststroke,SCY,W,35-39,3:03.76,Alex McAnally,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Butterfly,SCY,W,35-39,29.32,Emily S Munday,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,W,35-39,31.21,Daryn Maughan,,Inland NW LMSC Championship Swim Meet,2025,2
+INAM,50 Y Butterfly,SCY,W,35-39,36.53,Katherine T Bray,,Spokane Club Dual Sprint Pentathlon,2025,3
+INAM,100 Y Butterfly,SCY,W,35-39,1:12.87,Daryn Maughan,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Butterfly,SCY,W,35-39,1:25.86,Alex McAnally,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Individual Medley,SCY,W,35-39,1:10.60,Emily S Munday,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,W,35-39,1:13.31,Daryn Maughan,,Velocity Masters Winter Open,2025,2
+INAM,100 Y Individual Medley,SCY,W,35-39,1:19.26,Alex McAnally,,Velocity Masters Winter Open,2025,3
+INAM,100 Y Individual Medley,SCY,W,35-39,1:23.78,Katherine T Bray,,Spokane Club Dual Sprint Pentathlon,2025,4
+INAM,200 Y Individual Medley,SCY,W,35-39,2:40.77,Daryn Maughan,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,200 Y Individual Medley,SCY,W,35-39,2:47.39,Alex McAnally,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Freestyle,SCY,W,40-44,35.27,Brenna L Kummer,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Freestyle,SCY,W,40-44,1:22.64,Brenna L Kummer,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Backstroke,SCY,W,40-44,56.31,Brenna L Kummer,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Breaststroke,SCY,W,40-44,47.96,Brenna L Kummer,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,45-49,34.32,Maurya R Robinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Freestyle,SCY,W,45-49,1:17.36,Maurya R Robinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,500 Y Freestyle,SCY,W,45-49,8:25.42,Maurya R Robinson,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Backstroke,SCY,W,45-49,44.75,Maurya R Robinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Breaststroke,SCY,W,45-49,44.81,Maurya R Robinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Breaststroke,SCY,W,45-49,1:39.13,Maurya R Robinson,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Butterfly,SCY,W,45-49,45.65,Maurya R Robinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Individual Medley,SCY,W,45-49,1:32.64,Maurya R Robinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Freestyle,SCY,W,50-54,36.02,Jennifer Polello,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Freestyle,SCY,W,50-54,1:18.55,Jennifer Polello,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,200 Y Freestyle,SCY,W,50-54,2:50.26,Jennifer Polello,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,500 Y Freestyle,SCY,W,50-54,7:20.70,Jennifer Polello,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,1000 Y Freestyle,SCY,W,50-54,15:05.20,Jennifer Polello,,2025 Montana SCY Championships,2025,1
+INAM,1650 Y Freestyle,SCY,W,50-54,24:57.29,Jennifer Polello,,2025 Montana SCY Championships,2025,1
+INAM,50 Y Backstroke,SCY,W,50-54,45.77,Jennifer Polello,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Backstroke,SCY,W,50-54,1:37.67,Jennifer Polello,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,55-59,35.29,Teresa Bailey,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,55-59,35.31,Judy Allen,,Inland NW LMSC Championship Swim Meet,2025,2
+INAM,50 Y Freestyle,SCY,W,55-59,37.06,Lessly W Field,,Velocity Masters Winter Open,2025,3
+INAM,100 Y Freestyle,SCY,W,55-59,1:16.51,Teresa Bailey,,2025 Montana SCY Championships,2025,1
+INAM,100 Y Freestyle,SCY,W,55-59,1:22.19,Judy Allen,,Velocity Masters Winter Open,2025,2
+INAM,100 Y Freestyle,SCY,W,55-59,1:24.57,Lessly W Field,,Velocity Masters Winter Open,2025,3
+INAM,200 Y Freestyle,SCY,W,55-59,2:52.26,Teresa Bailey,,2025 Montana SCY Championships,2025,1
+INAM,200 Y Freestyle,SCY,W,55-59,3:03.93,Judy Allen,,Inland NW LMSC Championship Swim Meet,2025,2
+INAM,200 Y Freestyle,SCY,W,55-59,3:14.60,Lessly W Field,,2025 Montana SCY Championships,2025,3
+INAM,500 Y Freestyle,SCY,W,55-59,7:41.92,Teresa Bailey,,Velocity Masters Winter Open,2025,1
+INAM,500 Y Freestyle,SCY,W,55-59,8:37.79,Judy Allen,,Velocity Masters Winter Open,2025,2
+INAM,1000 Y Freestyle,SCY,W,55-59,15:08.73,Teresa Bailey,,2025 Montana SCY Championships,2025,1
+INAM,1000 Y Freestyle,SCY,W,55-59,18:53.05,Lessly W Field,,2025 Montana SCY Championships,2025,2
+INAM,1650 Y Freestyle,SCY,W,55-59,25:23.71,Teresa Bailey,,2025 Montana SCY Championships,2025,1
+INAM,50 Y Backstroke,SCY,W,55-59,48.92,Judy Allen,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,W,55-59,41.82,Judy Allen,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Breaststroke,SCY,W,55-59,45.62,Lessly W Field,,Inland NW LMSC Championship Swim Meet,2025,2
+INAM,50 Y Breaststroke,SCY,W,55-59,48.90,Teresa Bailey,,Velocity Masters Winter Open,2025,3
+INAM,100 Y Breaststroke,SCY,W,55-59,1:31.92,Judy Allen,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Breaststroke,SCY,W,55-59,1:43.88,Lessly W Field,,Velocity Masters Winter Open,2025,2
+INAM,200 Y Breaststroke,SCY,W,55-59,3:24.87,Judy Allen,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Butterfly,SCY,W,55-59,44.85,Judy Allen,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,W,55-59,1:31.98,Teresa Bailey,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Individual Medley,SCY,W,55-59,1:34.50,Judy Allen,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Individual Medley,SCY,W,55-59,1:40.28,Lessly W Field,,Inland NW LMSC Championship Swim Meet,2025,3
+INAM,50 Y Freestyle,SCY,W,60-64,36.54,Jill S Foote,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,W,60-64,37.02,Melissa L Martin,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Freestyle,SCY,W,60-64,45.71,Michele Tescher,,Velocity Masters Winter Open,2025,3
+INAM,100 Y Freestyle,SCY,W,60-64,1:22.09,Melissa L Martin,,Velocity Masters Winter Open,2025,1
+INAM,200 Y Freestyle,SCY,W,60-64,2:59.73,Melissa L Martin,,Velocity Masters Winter Open,2025,1
+INAM,200 Y Freestyle,SCY,W,60-64,3:06.65,Jill S Foote,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Backstroke,SCY,W,60-64,43.57,Melissa L Martin,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,W,60-64,50.38,Melissa L Martin,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,W,60-64,54.23,Michele Tescher,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Butterfly,SCY,W,60-64,44.59,Melissa L Martin,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,W,60-64,45.40,Jill S Foote,,Velocity Masters Winter Open,2025,2
+INAM,100 Y Individual Medley,SCY,W,60-64,1:35.45,Melissa L Martin,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,W,60-64,1:40.93,Jill S Foote,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Freestyle,SCY,W,70-74,38.39,Paula J Smith,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,W,70-74,53.07,Judy A Trembley,,2024 Washington State Senior Games,2025,2
+INAM,100 Y Freestyle,SCY,W,70-74,1:29.15,Pamela M Baker,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Freestyle,SCY,W,70-74,1:29.65,Paula J Smith,,Inland NW LMSC Championship Swim Meet,2025,2
+INAM,500 Y Freestyle,SCY,W,70-74,8:26.98,Pamela M Baker,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Backstroke,SCY,W,70-74,43.66,Paula J Smith,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Backstroke,SCY,W,70-74,1:35.30,Paula J Smith,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Backstroke,SCY,W,70-74,1:45.14,Pamela M Baker,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,200 Y Backstroke,SCY,W,70-74,3:26.06,Paula J Smith,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Breaststroke,SCY,W,70-74,46.26,Paula J Smith,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,W,70-74,48.37,Pamela M Baker,,Velocity Masters Winter Open,2025,2
+INAM,100 Y Breaststroke,SCY,W,70-74,1:41.87,Paula J Smith,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Breaststroke,SCY,W,70-74,1:47.79,Pamela M Baker,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Butterfly,SCY,W,70-74,42.01,Pamela M Baker,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Butterfly,SCY,W,70-74,53.50,Paula J Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Butterfly,SCY,W,70-74,1:50.97,Pamela M Baker,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Individual Medley,SCY,W,70-74,1:34.03,Pamela M Baker,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Individual Medley,SCY,W,70-74,1:38.40,Paula J Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,200 Y Individual Medley,SCY,W,70-74,3:31.18,Pamela M Baker,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Freestyle,SCY,W,75-79,45.16,Nancy Beatty,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Freestyle,SCY,W,75-79,1:42.48,Nancy Beatty,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,M,18-24,22.83,Bohdan Cherniavskyi,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Freestyle,SCY,M,18-24,51.21,Bohdan Cherniavskyi,,Velocity Masters Winter Open,2025,1
+INAM,200 Y Freestyle,SCY,M,18-24,1:55.46,Bohdan Cherniavskyi,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Butterfly,SCY,M,18-24,25.74,Bohdan Cherniavskyi,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Individual Medley,SCY,M,18-24,59.47,Bohdan Cherniavskyi,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Freestyle,SCY,M,25-29,23.23,Max Moreland,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Backstroke,SCY,M,25-29,28.32,Max Moreland,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,M,25-29,28.40,Max Moreland,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,M,25-29,24.69,Max Moreland,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,M,25-29,59.63,Max Moreland,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,M,30-34,23.77,Jason  Lemley,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Freestyle,SCY,M,30-34,55.84,Jason  Lemley,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Backstroke,SCY,M,30-34,27.56,Jason  Lemley,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,M,30-34,26.68,Jason  Lemley,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,M,45-49,27.77,Benjamin E Atkinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Freestyle,SCY,M,45-49,1:00.79,Benjamin E Atkinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Freestyle,SCY,M,45-49,1:04.65,Kevin Boercker,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,200 Y Freestyle,SCY,M,45-49,2:18.54,Benjamin E Atkinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Backstroke,SCY,M,45-49,1:28.90,Kevin Boercker,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Breaststroke,SCY,M,45-49,1:23.86,Kevin Boercker,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,M,45-49,34.55,Benjamin E Atkinson,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Butterfly,SCY,M,45-49,1:21.98,Kevin Boercker,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,M,45-49,1:21.75,Kevin Boercker,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,200 Y Individual Medley,SCY,M,45-49,2:48.08,Kevin Boercker,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,400 Y Individual Medley,SCY,M,45-49,6:17.66,Kevin Boercker,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Freestyle,SCY,M,55-59,33.02,Tommy Allen,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Freestyle,SCY,M,55-59,1:24.34,Tommy Allen,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,M,60-64,29.31,John Cook,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,M,60-64,30.84,William W Selby,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Freestyle,SCY,M,60-64,30.87,Gregory Benoit,,Spokane Club Dual Sprint Pentathlon,2025,3
+INAM,100 Y Freestyle,SCY,M,60-64,1:06.23,John Cook,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Freestyle,SCY,M,60-64,1:12.55,William W Selby,,Velocity Masters Winter Open,2025,2
+INAM,500 Y Freestyle,SCY,M,60-64,6:58.08,John Cook,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Backstroke,SCY,M,60-64,39.08,Gregory Benoit,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Backstroke,SCY,M,60-64,42.56,William W Selby,,Inland NW LMSC Championship Swim Meet,2025,2
+INAM,50 Y Backstroke,SCY,M,60-64,44.64,John Cook,,Inland NW LMSC Championship Swim Meet,2025,3
+INAM,50 Y Breaststroke,SCY,M,60-64,39.62,Gregory Benoit,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,M,60-64,41.34,William W Selby,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Breaststroke,SCY,M,60-64,41.48,John Cook,,Velocity Masters Winter Open,2025,3
+INAM,100 Y Breaststroke,SCY,M,60-64,1:39.02,John Cook,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,50 Y Butterfly,SCY,M,60-64,34.13,John Cook,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,M,60-64,35.99,Gregory Benoit,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Butterfly,SCY,M,60-64,41.34,William W Selby,,Spokane Club Dual Sprint Pentathlon,2025,3
+INAM,100 Y Individual Medley,SCY,M,60-64,1:20.35,Gregory Benoit,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,100 Y Individual Medley,SCY,M,60-64,1:24.11,William W Selby,,Velocity Masters Winter Open,2025,2
+INAM,50 Y Freestyle,SCY,M,70-74,33.56,Blake Nielsen,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Freestyle,SCY,M,70-74,41.15,Damon A Delistraty,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,100 Y Freestyle,SCY,M,70-74,1:17.81,Blake Nielsen,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Freestyle,SCY,M,70-74,1:37.55,Damon A Delistraty,,Spokane Club Dual Sprint Pentathlon,2025,2
+INAM,50 Y Backstroke,SCY,M,70-74,48.56,Blake Nielsen,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Breaststroke,SCY,M,70-74,46.20,Blake Nielsen,,Velocity Masters Winter Open,2025,1
+INAM,50 Y Butterfly,SCY,M,70-74,48.56,Blake Nielsen,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Individual Medley,SCY,M,70-74,1:36.16,Blake Nielsen,,Velocity Masters Winter Open,2025,1
+INAM,100 Y Freestyle,SCY,M,75-79,1:18.53,Galen D Denio,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Backstroke,SCY,M,75-79,1:32.98,Galen D Denio,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,200 Y Backstroke,SCY,M,75-79,3:24.51,Galen D Denio,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Breaststroke,SCY,M,75-79,1:34.56,Galen D Denio,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,50 Y Butterfly,SCY,M,75-79,45.25,Galen D Denio,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Butterfly,SCY,M,75-79,1:44.38,Galen D Denio,,Spokane Club Dual Sprint Pentathlon,2025,1
+INAM,200 Y Butterfly,SCY,M,75-79,3:44.83,Galen D Denio,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,100 Y Individual Medley,SCY,M,75-79,1:28.27,Galen D Denio,,Inland NW LMSC Championship Swim Meet,2025,1
+INAM,200 Y Individual Medley,SCY,M,75-79,3:17.78,Galen D Denio,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,100 Y Freestyle,SCY,W,30-34,1:02.68,Lana Lawrence,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,500 Y Freestyle,SCY,W,30-34,8:22.35,Rebecca Mabile,,Veteran's Day - 18th Annual SDRC Masters Swim Meet,2025,1
+KM,1650 Y Freestyle,SCY,W,30-34,23:30.42,Lana Lawrence,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Backstroke,SCY,W,30-34,1:07.24,Lana Lawrence,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Butterfly,SCY,W,30-34,44.73,Rebecca Mabile,,Veteran's Day - 18th Annual SDRC Masters Swim Meet,2025,1
+KM,200 Y Individual Medley,SCY,W,30-34,2:35.48,Lana Lawrence,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Freestyle,SCY,W,55-59,36.96,Carol L Nelson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Freestyle,SCY,W,55-59,1:26.75,Carol L Nelson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Breaststroke,SCY,W,55-59,46.97,Carol L Nelson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Breaststroke,SCY,W,55-59,1:45.91,Carol L Nelson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Individual Medley,SCY,W,55-59,1:41.19,Carol L Nelson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Freestyle,SCY,W,60-64,39.87,Julie D Mauer,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Freestyle,SCY,W,60-64,1:23.04,Julie D Mauer,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,500 Y Freestyle,SCY,W,60-64,7:47.70,Caroline Keegan,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,W,60-64,40.77,Caroline Keegan,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Backstroke,SCY,W,60-64,1:33.14,Caroline Keegan,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Breaststroke,SCY,W,60-64,48.43,Julie D Mauer,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Freestyle,SCY,W,65-69,35.67,Cindy D Kemp,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Freestyle,SCY,W,65-69,1:18.70,Cindy D Kemp,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,200 Y Freestyle,SCY,W,65-69,2:29.24,Charlene O'Brien,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,W,65-69,43.32,Cindy D Kemp,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Backstroke,SCY,W,65-69,1:22.01,Charlene O'Brien,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Backstroke,SCY,W,65-69,1:36.17,Cindy D Kemp,,Inland NW LMSC Championship Swim Meet,2025,2
+KM,50 Y Breaststroke,SCY,W,65-69,52.86,Cindy D Kemp,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,100 Y Breaststroke,SCY,W,65-69,1:33.96,Charlene O'Brien,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Butterfly,SCY,W,65-69,32.86,Charlene O'Brien,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Butterfly,SCY,W,65-69,52.07,Cindy D Kemp,,Spokane Club Dual Sprint Pentathlon,2025,2
+KM,100 Y Individual Medley,SCY,W,65-69,1:20.15,Charlene O'Brien,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Individual Medley,SCY,W,65-69,1:37.93,Cindy D Kemp,,Spokane Club Dual Sprint Pentathlon,2025,2
+KM,50 Y Freestyle,SCY,W,70-74,37.52,Jodi L Penn,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Freestyle,SCY,W,70-74,1:28.71,Jodi L Penn,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,W,70-74,47.93,Jodi L Penn,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Breaststroke,SCY,W,70-74,49.02,Jodi L Penn,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Freestyle,SCY,W,75-79,38.34,Gloria Waggoner,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Breaststroke,SCY,W,75-79,50.65,Gloria Waggoner,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Individual Medley,SCY,W,75-79,1:48.48,Gloria Waggoner,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,W,80-84,50.84,Lorna G Henry,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Backstroke,SCY,W,80-84,1:50.74,Lorna G Henry,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Freestyle,SCY,M,50-54,32.72,Kevin J Vanden Heuvel,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Freestyle,SCY,M,50-54,1:15.54,Kevin J Vanden Heuvel,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,200 Y Freestyle,SCY,M,50-54,2:51.22,Kevin J Vanden Heuvel,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Freestyle,SCY,M,55-59,36.16,Matthew Bronson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Freestyle,SCY,M,55-59,1:21.94,Matthew Bronson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,1650 Y Freestyle,SCY,M,55-59,27:23.84,Matthew Bronson,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,M,55-59,47.51,Matthew Bronson,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,50 Y Breaststroke,SCY,M,55-59,48.94,Matthew Bronson,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,50 Y Butterfly,SCY,M,55-59,43.37,Matthew Bronson,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,100 Y Individual Medley,SCY,M,55-59,1:15.81,Matthew Bronson,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,50 Y Freestyle,SCY,M,65-69,36.32,Joseph Abate,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,200 Y Freestyle,SCY,M,65-69,2:52.04,Glenn Mabile,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,M,65-69,31.69,Michael Hamm,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+KM,100 Y Backstroke,SCY,M,65-69,1:09.18,Michael Hamm,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+KM,50 Y Breaststroke,SCY,M,65-69,32.74,Michael Hamm,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+KM,100 Y Breaststroke,SCY,M,65-69,1:12.08,Michael Hamm,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+KM,100 Y Breaststroke,SCY,M,65-69,1:40.08,Glenn Mabile,,Inland NW LMSC Championship Swim Meet,2025,2
+KM,200 Y Breaststroke,SCY,M,65-69,2:40.25,Michael Hamm,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+KM,100 Y Individual Medley,SCY,M,65-69,1:06.89,Michael Hamm,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,100 Y Individual Medley,SCY,M,65-69,1:33.09,Glenn Mabile,,Inland NW LMSC Championship Swim Meet,2025,2
+KM,50 Y Freestyle,SCY,M,70-74,32.01,Howard W Burns,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,50 Y Freestyle,SCY,M,70-74,35.85,Stephen A Tanner,,Velocity Masters Winter Open,2025,2
+KM,100 Y Freestyle,SCY,M,70-74,1:20.07,Stephen A Tanner,,Velocity Masters Winter Open,2025,1
+KM,200 Y Freestyle,SCY,M,70-74,3:00.40,Stephen A Tanner,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Backstroke,SCY,M,70-74,41.51,Stephen A Tanner,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,50 Y Backstroke,SCY,M,70-74,42.65,Howard W Burns,,Velocity Masters Winter Open,2025,2
+KM,100 Y Backstroke,SCY,M,70-74,1:38.06,Stephen A Tanner,,Velocity Masters Winter Open,2025,1
+KM,50 Y Breaststroke,SCY,M,70-74,38.17,Howard W Burns,,Velocity Masters Winter Open,2025,1
+KM,50 Y Breaststroke,SCY,M,70-74,47.56,Stephen A Tanner,,Spokane Club Dual Sprint Pentathlon,2025,2
+KM,100 Y Breaststroke,SCY,M,70-74,1:29.14,Howard W Burns,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,200 Y Breaststroke,SCY,M,70-74,3:27.90,Howard W Burns,,Inland NW LMSC Championship Swim Meet,2025,1
+KM,50 Y Butterfly,SCY,M,70-74,37.23,Howard W Burns,,Spokane Club Dual Sprint Pentathlon,2025,1
+KM,100 Y Individual Medley,SCY,M,70-74,1:21.87,Howard W Burns,,Velocity Masters Winter Open,2025,1
+KM,100 Y Individual Medley,SCY,M,70-74,1:39.59,Stephen A Tanner,,Spokane Club Dual Sprint Pentathlon,2025,2
+LCNM,50 Y Freestyle,SCY,W,70-74,34.93,Margaret Hair,,Spokane Club Dual Sprint Pentathlon,2025,1
+LCNM,50 Y Freestyle,SCY,W,70-74,57.16,Herlinde Beck,,Inland NW LMSC Championship Swim Meet,2025,2
+LCNM,100 Y Freestyle,SCY,W,70-74,2:16.41,Herlinde Beck,,Inland NW LMSC Championship Swim Meet,2025,1
+LCNM,200 Y Freestyle,SCY,W,70-74,2:45.40,Margaret Hair,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+LCNM,500 Y Freestyle,SCY,W,70-74,7:46.63,Margaret Hair,,Inland NW LMSC Championship Swim Meet,2025,1
+LCNM,1000 Y Freestyle,SCY,W,70-74,16:09.51,Margaret Hair,,Inland NW LMSC Championship Swim Meet,2025,1
+LCNM,1650 Y Freestyle,SCY,W,70-74,26:29.76,Margaret Hair,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+LCNM,50 Y Backstroke,SCY,W,70-74,42.97,Margaret Hair,,Spokane Club Dual Sprint Pentathlon,2025,1
+LCNM,50 Y Breaststroke,SCY,W,70-74,43.02,Margaret Hair,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+LCNM,100 Y Breaststroke,SCY,W,70-74,1:35.71,Margaret Hair,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+LCNM,200 Y Breaststroke,SCY,W,70-74,3:31.63,Margaret Hair,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+LCNM,100 Y Individual Medley,SCY,W,70-74,1:27.32,Margaret Hair,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+LCNM,50 Y Freestyle,SCY,W,75-79,57.29,Rebecca J Jacobson,,Inland NW LMSC Championship Swim Meet,2025,1
+LCNM,100 Y Freestyle,SCY,W,75-79,2:17.25,Rebecca J Jacobson,,Inland NW LMSC Championship Swim Meet,2025,1
+LCNM,200 Y Freestyle,SCY,W,75-79,4:55.54,Rebecca J Jacobson,,Inland NW LMSC Championship Swim Meet,2025,1
+LCNM,50 Y Backstroke,SCY,W,75-79,1:03.72,Rebecca J Jacobson,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,W,18-24,28.22,Natalie K Atkins,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Freestyle,SCY,W,18-24,1:01.07,Natalie K Atkins,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,200 Y Freestyle,SCY,W,18-24,2:11.75,Natalie K Atkins,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Butterfly,SCY,W,18-24,1:10.22,Natalie K Atkins,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,200 Y Individual Medley,SCY,W,18-24,2:30.31,Natalie K Atkins,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,W,35-39,38.28,Sarah C Guess,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Freestyle,SCY,W,35-39,1:33.42,Sarah C Guess,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,200 Y Freestyle,SCY,W,35-39,3:25.80,Sarah C Guess,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Individual Medley,SCY,W,35-39,1:46.83,Sarah C Guess,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,W,55-59,33.36,Paige Buehler,,Spokane Club Dual Sprint Pentathlon,2025,1
+MCM,200 Y Freestyle,SCY,W,55-59,2:45.74,Paige Buehler,,Velocity Masters Winter Open,2025,1
+MCM,50 Y Backstroke,SCY,W,55-59,38.43,Paige Buehler,,Spokane Club Dual Sprint Pentathlon,2025,1
+MCM,100 Y Backstroke,SCY,W,55-59,1:27.34,Paige Buehler,,Velocity Masters Winter Open,2025,1
+MCM,50 Y Breaststroke,SCY,W,55-59,47.06,Paige Buehler,,Spokane Club Dual Sprint Pentathlon,2025,1
+MCM,50 Y Butterfly,SCY,W,55-59,38.48,Paige Buehler,,Spokane Club Dual Sprint Pentathlon,2025,1
+MCM,100 Y Individual Medley,SCY,W,55-59,1:29.37,Paige Buehler,,Spokane Club Dual Sprint Pentathlon,2025,1
+MCM,50 Y Freestyle,SCY,M,18-24,23.58,Zachary W Foley,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Freestyle,SCY,M,18-24,50.83,Zachary W Foley,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,200 Y Freestyle,SCY,M,18-24,1:55.17,Zachary W Foley,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,M,35-39,37.37,Robert G Joslyn,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Freestyle,SCY,M,35-39,1:35.47,Robert G Joslyn,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Breaststroke,SCY,M,35-39,42.36,Robert G Joslyn,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Breaststroke,SCY,M,35-39,1:31.42,Robert G Joslyn,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,200 Y Breaststroke,SCY,M,35-39,3:41.76,Robert G Joslyn,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Freestyle,SCY,M,50-54,1:15.55,Tony A Allison,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Breaststroke,SCY,M,50-54,41.66,Tony A Allison,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Breaststroke,SCY,M,50-54,1:33.90,Tony A Allison,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Individual Medley,SCY,M,50-54,1:38.57,Tony A Allison,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,M,60-64,28.87,Brian D Johnson,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Backstroke,SCY,M,60-64,31.80,Brian D Johnson,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Breaststroke,SCY,M,60-64,35.33,Brian D Johnson,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Butterfly,SCY,M,60-64,31.66,Brian D Johnson,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,M,65-69,32.15,Allen R Tedrow,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Freestyle,SCY,M,65-69,32.36,Charles R Gerke,,Velocity Masters Winter Open,2025,2
+MCM,100 Y Freestyle,SCY,M,65-69,1:13.86,Charles R Gerke,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,100 Y Freestyle,SCY,M,65-69,1:14.52,Allen R Tedrow,,Inland NW LMSC Championship Swim Meet,2025,2
+MCM,1650 Y Freestyle,SCY,M,65-69,26:16.63,Charles R Gerke,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,1650 Y Freestyle,SCY,M,65-69,28:24.02,Eric S Sorensen,,Inland NW LMSC Championship Swim Meet,2025,2
+MCM,50 Y Backstroke,SCY,M,65-69,40.88,Allen R Tedrow,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Breaststroke,SCY,M,65-69,39.56,Charles R Gerke,,Inland NW LMSC Championship Swim Meet,2025,1
+MCM,50 Y Breaststroke,SCY,M,65-69,41.73,Allen R Tedrow,,Inland NW LMSC Championship Swim Meet,2025,2
+MCM,100 Y Breaststroke,SCY,M,65-69,1:35.56,Charles R Gerke,,Velocity Masters Winter Open,2025,1
+MRA,50 Y Freestyle,SCY,M,45-49,29.21,Justin Morigeau,,Velocity Masters Winter Open,2025,1
+MRA,100 Y Freestyle,SCY,M,45-49,1:06.65,Justin Morigeau,,Velocity Masters Winter Open,2025,1
+SCM,50 Y Freestyle,SCY,W,35-39,27.86,Amelia M Guinn,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Backstroke,SCY,W,35-39,35.11,Amelia M Guinn,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Breaststroke,SCY,W,35-39,35.22,Amelia M Guinn,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Butterfly,SCY,W,35-39,32.05,Amelia M Guinn,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,100 Y Individual Medley,SCY,W,35-39,1:10.77,Amelia M Guinn,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Freestyle,SCY,W,70-74,34.58,Carrie L Franchi,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Freestyle,SCY,W,70-74,40.13,Heather Carling-Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,50 Y Backstroke,SCY,W,70-74,40.59,Carrie L Franchi,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Backstroke,SCY,W,70-74,50.84,Heather Carling-Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,50 Y Breaststroke,SCY,W,70-74,49.34,Carrie L Franchi,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Breaststroke,SCY,W,70-74,52.85,Heather Carling-Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,50 Y Butterfly,SCY,W,70-74,44.20,Carrie L Franchi,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Butterfly,SCY,W,70-74,44.27,Heather Carling-Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,100 Y Individual Medley,SCY,W,70-74,1:31.40,Carrie L Franchi,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,100 Y Individual Medley,SCY,W,70-74,1:42.11,Heather Carling-Smith,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,100 Y Freestyle,SCY,M,25-29,52.25,Daniel J Roy,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,100 Y Breaststroke,SCY,M,25-29,53.47,Daniel J Roy,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Breaststroke,SCY,M,25-29,1:55.46,Daniel J Roy,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Butterfly,SCY,M,25-29,55.80,Daniel J Roy,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,100 Y Individual Medley,SCY,M,25-29,51.11,Daniel J Roy,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Individual Medley,SCY,M,25-29,1:51.06,Daniel J Roy,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Freestyle,SCY,M,40-44,51.06,Trent Shino,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Freestyle,SCY,M,40-44,1:51.97,Trent Shino,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Backstroke,SCY,M,40-44,1:00.12,Trent Shino,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Breaststroke,SCY,M,40-44,29.40,Trent Shino,,Inland NW LMSC Championship Swim Meet,2025,1
+SCM,100 Y Breaststroke,SCY,M,40-44,1:00.76,Trent Shino,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Breaststroke,SCY,M,40-44,2:13.93,Trent Shino,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Butterfly,SCY,M,40-44,53.95,Trent Shino,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Butterfly,SCY,M,40-44,1:59.88,Trent Shino,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Individual Medley,SCY,M,40-44,55.51,Trent Shino,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Individual Medley,SCY,M,40-44,2:01.95,Trent Shino,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,400 Y Individual Medley,SCY,M,40-44,4:26.22,Trent Shino,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,50 Y Freestyle,SCY,M,50-54,30.16,David Robbins,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Backstroke,SCY,M,50-54,38.69,David Robbins,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Breaststroke,SCY,M,50-54,39.43,David Robbins,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Butterfly,SCY,M,50-54,33.53,David Robbins,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,100 Y Individual Medley,SCY,M,50-54,1:18.46,David Robbins,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Freestyle,SCY,M,55-59,26.60,Sean S McGrath,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Butterfly,SCY,M,55-59,29.25,Sean S McGrath,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Freestyle,SCY,M,65-69,25.35,Robert Heath,,Velocity Masters Winter Open,2025,1
+SCM,50 Y Freestyle,SCY,M,65-69,29.58,Dan Sheahan,,2025 U.S. Masters Swimming Spring National Championship,2025,2
+SCM,50 Y Freestyle,SCY,M,65-69,33.87,Roger D Hudson,,Inland NW LMSC Championship Swim Meet,2025,3
+SCM,50 Y Freestyle,SCY,M,65-69,37.75,Nathan Osborne,,Spokane Club Dual Sprint Pentathlon,2025,4
+SCM,100 Y Freestyle,SCY,M,65-69,1:06.43,Dan Sheahan,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Freestyle,SCY,M,65-69,1:31.67,Nathan Osborne,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,200 Y Freestyle,SCY,M,65-69,2:31.66,Dan Sheahan,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,50 Y Backstroke,SCY,M,65-69,30.97,Robert Heath,,Velocity Masters Winter Open,2025,1
+SCM,50 Y Backstroke,SCY,M,65-69,43.28,Dan Sheahan,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,100 Y Backstroke,SCY,M,65-69,1:08.09,Robert Heath,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,50 Y Breaststroke,SCY,M,65-69,35.41,Robert Heath,,Velocity Masters Winter Open,2025,1
+SCM,50 Y Breaststroke,SCY,M,65-69,59.38,Nathan Osborne,,Spokane Club Dual Sprint Pentathlon,2025,2
+SCM,50 Y Butterfly,SCY,M,65-69,28.62,Robert Heath,,Spokane Club Dual Sprint Pentathlon,2025,1
+SCM,50 Y Butterfly,SCY,M,65-69,37.63,Dan Sheahan,,2025 U.S. Masters Swimming Spring National Championship,2025,2
+SCM,100 Y Individual Medley,SCY,M,65-69,1:07.40,Robert Heath,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,50 Y Freestyle,SCY,M,70-74,25.88,Larry B Krauser,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,100 Y Freestyle,SCY,M,70-74,57.50,Larry B Krauser,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,200 Y Freestyle,SCY,M,70-74,2:12.00,Larry B Krauser,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,500 Y Freestyle,SCY,M,70-74,6:04.86,Larry B Krauser,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,1000 Y Freestyle,SCY,M,70-74,12:54.76,Larry B Krauser,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,50 Y Backstroke,SCY,M,70-74,33.92,Larry B Krauser,,Velocity Masters Winter Open,2025,1
+SCM,200 Y Backstroke,SCY,M,70-74,2:35.50,Larry B Krauser,,2025 U.S. Masters Swimming Spring National Championship,2025,1
+SCM,50 Y Breaststroke,SCY,M,70-74,40.58,Larry B Krauser,,Velocity Masters Winter Open,2025,1
+SCM,50 Y Butterfly,SCY,M,70-74,31.54,Larry B Krauser,,Velocity Masters Winter Open,2025,1
+SCM,100 Y Individual Medley,SCY,M,70-74,1:13.39,Larry B Krauser,,Velocity Masters Winter Open,2025,1
+STRG,50 Y Freestyle,SCY,W,35-39,31.91,Eileen A Kazura,,Spokane Club Dual Sprint Pentathlon,2025,1
+STRG,50 Y Breaststroke,SCY,W,35-39,40.53,Eileen A Kazura,,Spokane Club Dual Sprint Pentathlon,2025,1
+STRG,100 Y Freestyle,SCY,W,40-44,1:04.21,Erin M Popelka,,Spokane Club Dual Sprint Pentathlon,2025,1
+STRG,100 Y Backstroke,SCY,W,40-44,1:16.04,Erin M Popelka,,Spokane Club Dual Sprint Pentathlon,2025,1
+STRG,100 Y Breaststroke,SCY,W,40-44,1:18.50,Erin M Popelka,,Spokane Club Dual Sprint Pentathlon,2025,1
+STRG,100 Y Butterfly,SCY,W,40-44,1:10.02,Erin M Popelka,,Spokane Club Dual Sprint Pentathlon,2025,1
+STRG,200 Y Individual Medley,SCY,W,40-44,2:35.42,Erin M Popelka,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Freestyle,SCY,W,30-34,36.28,Amanda Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Freestyle,SCY,W,30-34,1:21.14,Amanda Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Backstroke,SCY,W,30-34,43.03,Amanda Bratton,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Breaststroke,SCY,W,30-34,46.72,Amanda Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Breaststroke,SCY,W,30-34,1:44.62,Amanda Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Butterfly,SCY,W,30-34,41.67,Amanda Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Individual Medley,SCY,W,30-34,1:30.72,Amanda Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Backstroke,SCY,W,35-39,1:34.66,Brienne N Coughlin,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,100 Y Breaststroke,SCY,W,35-39,1:39.12,Brienne N Coughlin,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Butterfly,SCY,W,35-39,43.87,Brienne N Coughlin,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,100 Y Individual Medley,SCY,W,35-39,1:34.28,Brienne N Coughlin,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Freestyle,SCY,W,40-44,27.24,Tammy J Fisher,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+TCAS,50 Y Freestyle,SCY,W,40-44,29.98,Patricia Rolon,,Inland NW LMSC Championship Swim Meet,2025,2
+TCAS,100 Y Freestyle,SCY,W,40-44,59.53,Tammy J Fisher,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+TCAS,100 Y Freestyle,SCY,W,40-44,1:08.10,Patricia Rolon,,Velocity Masters Winter Open,2025,2
+TCAS,200 Y Freestyle,SCY,W,40-44,2:13.38,Tammy J Fisher,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+TCAS,200 Y Freestyle,SCY,W,40-44,2:30.22,Patricia Rolon,,Inland NW LMSC Championship Swim Meet,2025,2
+TCAS,500 Y Freestyle,SCY,W,40-44,6:09.91,Tammy J Fisher,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+TCAS,50 Y Backstroke,SCY,W,40-44,35.50,Patricia Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Backstroke,SCY,W,40-44,1:19.52,Patricia Rolon,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Breaststroke,SCY,W,40-44,42.47,Patricia Rolon,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Butterfly,SCY,W,40-44,33.05,Patricia Rolon,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Individual Medley,SCY,W,40-44,1:17.83,Patricia Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Freestyle,SCY,W,50-54,42.69,Rebecca  A Burghart,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Freestyle,SCY,W,50-54,1:35.55,Rebecca  A Burghart,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Breaststroke,SCY,W,50-54,58.64,Rebecca  A Burghart,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Freestyle,SCY,W,65-69,36.94,Zhou Chuanzhu,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Freestyle,SCY,W,65-69,1:24.09,Zhou Chuanzhu,,1st Annual Nationwide Pentathlon Championship,2025,1
+TCAS,500 Y Freestyle,SCY,W,65-69,8:00.83,Zhou Chuanzhu,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Backstroke,SCY,W,65-69,45.35,Zhou Chuanzhu,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Backstroke,SCY,W,65-69,1:37.64,Zhou Chuanzhu,,1st Annual Nationwide Pentathlon Championship,2025,1
+TCAS,50 Y Breaststroke,SCY,W,65-69,42.72,Zhou Chuanzhu,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Breaststroke,SCY,W,65-69,1:34.63,Zhou Chuanzhu,,Velocity Masters Winter Open,2025,1
+TCAS,200 Y Breaststroke,SCY,W,65-69,3:28.48,Zhou Chuanzhu,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Butterfly,SCY,W,65-69,46.76,Zhou Chuanzhu,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Butterfly,SCY,W,65-69,1:45.92,Zhou Chuanzhu,,1st Annual Nationwide Pentathlon Championship,2025,1
+TCAS,100 Y Individual Medley,SCY,W,65-69,1:30.91,Zhou Chuanzhu,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,200 Y Individual Medley,SCY,W,65-69,3:20.65,Zhou Chuanzhu,,1st Annual Nationwide Pentathlon Championship,2025,1
+TCAS,50 Y Freestyle,SCY,M,18-24,24.45,Luca Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Freestyle,SCY,M,18-24,57.09,Luca Rolon,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Backstroke,SCY,M,18-24,28.68,Luca Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Backstroke,SCY,M,18-24,1:05.25,Luca Rolon,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Breaststroke,SCY,M,18-24,36.36,Luca Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Butterfly,SCY,M,18-24,26.85,Luca Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Individual Medley,SCY,M,18-24,1:05.56,Luca Rolon,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Freestyle,SCY,M,55-59,1:00.63,Wes L Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Backstroke,SCY,M,55-59,1:16.28,Wes L Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Breaststroke,SCY,M,55-59,36.05,Wes L Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Individual Medley,SCY,M,55-59,1:07.97,Wes L Bratton,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Freestyle,SCY,M,60-64,28.81,Bruce D Groth,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Backstroke,SCY,M,60-64,37.61,Bruce D Groth,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Breaststroke,SCY,M,60-64,36.31,Bruce D Groth,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,100 Y Breaststroke,SCY,M,60-64,1:18.52,Bruce D Groth,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,200 Y Breaststroke,SCY,M,60-64,2:57.21,Bruce D Groth,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Butterfly,SCY,M,60-64,33.23,Bruce D Groth,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Individual Medley,SCY,M,60-64,1:15.88,Bruce D Groth,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Freestyle,SCY,M,65-69,28.11,David Cabrey,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,100 Y Freestyle,SCY,M,65-69,1:02.56,David Cabrey,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,200 Y Freestyle,SCY,M,65-69,2:19.76,David Cabrey,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Backstroke,SCY,M,65-69,34.67,David Cabrey,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,50 Y Breaststroke,SCY,M,65-69,44.13,David Cabrey,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Butterfly,SCY,M,65-69,32.70,David Cabrey,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,100 Y Individual Medley,SCY,M,65-69,1:15.81,David Cabrey,,Spokane Club Dual Sprint Pentathlon,2025,1
+TCAS,50 Y Freestyle,SCY,M,70-74,30.06,Scott J Neuhaus,,Velocity Masters Winter Open,2025,1
+TCAS,50 Y Freestyle,SCY,M,70-74,34.08,Vincent A Scovazzo,,Inland NW LMSC Championship Swim Meet,2025,2
+TCAS,100 Y Freestyle,SCY,M,70-74,1:14.83,Vincent A Scovazzo,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,200 Y Freestyle,SCY,M,70-74,2:49.00,Vincent A Scovazzo,,Inland NW LMSC Championship Swim Meet,2025,1
+TCAS,200 Y Freestyle,SCY,M,70-74,2:58.68,Scott J Neuhaus,,Velocity Masters Winter Open,2025,2
+TCAS,50 Y Backstroke,SCY,M,70-74,39.78,Scott J Neuhaus,,Velocity Masters Winter Open,2025,1
+TCAS,100 Y Individual Medley,SCY,M,70-74,1:24.34,Scott J Neuhaus,,Velocity Masters Winter Open,2025,1
+UC35,50 Y Freestyle,SCY,W,18-24,40.12,Jordan  K Bennett,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,100 Y Freestyle,SCY,W,18-24,1:28.73,Jordan  K Bennett,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,200 Y Freestyle,SCY,W,18-24,3:07.03,Jordan  K Bennett,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,50 Y Backstroke,SCY,W,18-24,51.15,Jordan  K Bennett,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,50 Y Butterfly,SCY,W,18-24,57.60,Jordan  K Bennett,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,50 Y Freestyle,SCY,W,60-64,44.11,Jennifer J Nebel,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,50 Y Backstroke,SCY,W,60-64,52.83,Jennifer J Nebel,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,50 Y Breaststroke,SCY,W,60-64,1:01.75,Jennifer J Nebel,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,50 Y Freestyle,SCY,M,18-24,33.80,Campbell M Wyman,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,100 Y Freestyle,SCY,M,18-24,50.53,Nate Harris,,2025 PSM Pentathlon Meet,2025,1
+UC35,100 Y Freestyle,SCY,M,18-24,1:22.76,Campbell M Wyman,,Inland NW LMSC Championship Swim Meet,2025,2
+UC35,50 Y Backstroke,SCY,M,18-24,48.68,Campbell M Wyman,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,100 Y Backstroke,SCY,M,18-24,59.27,Nate Harris,,2025 PSM Pentathlon Meet,2025,1
+UC35,50 Y Breaststroke,SCY,M,18-24,45.14,Campbell M Wyman,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,100 Y Breaststroke,SCY,M,18-24,1:05.21,Nate Harris,,2025 PSM Pentathlon Meet,2025,1
+UC35,100 Y Breaststroke,SCY,M,18-24,1:40.46,Campbell M Wyman,,Inland NW LMSC Championship Swim Meet,2025,2
+UC35,50 Y Butterfly,SCY,M,18-24,40.91,Campbell M Wyman,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,100 Y Butterfly,SCY,M,18-24,54.31,Nate Harris,,2025 PSM Pentathlon Meet,2025,1
+UC35,200 Y Individual Medley,SCY,M,18-24,2:03.88,Nate Harris,,2025 PSM Pentathlon Meet,2025,1
+UC35,400 Y Individual Medley,SCY,M,18-24,4:36.29,Nate Harris,,WWU Viking Invitational 2025,2025,1
+UC35,50 Y Freestyle,SCY,M,25-29,23.09,Quentin Knox,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+UC35,100 Y Freestyle,SCY,M,25-29,51.09,Quentin Knox,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+UC35,50 Y Breaststroke,SCY,M,25-29,28.97,Quentin Knox,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+UC35,50 Y Butterfly,SCY,M,25-29,25.16,Quentin Knox,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+UC35,100 Y Individual Medley,SCY,M,25-29,56.67,Quentin Knox,,2024 U.S. Masters Swimming Spring National Championship,2025,1
+UC35,100 Y Freestyle,SCY,M,35-39,51.26,Kevin  N Wood,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,200 Y Freestyle,SCY,M,35-39,1:53.26,Kevin  N Wood,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,200 Y Backstroke,SCY,M,35-39,2:10.99,Kevin  N Wood,,Inland NW LMSC Championship Swim Meet,2025,1
+UC35,200 Y Individual Medley,SCY,M,35-39,2:11.00,Kevin  N Wood,,Inland NW LMSC Championship Swim Meet,2025,1
+VS,500 Y Freestyle,SCY,W,18-24,6:21.82,Grace I van der Merwe,,Velocity Masters Winter Open,2025,1
+VS,100 Y Butterfly,SCY,W,18-24,1:16.68,Grace I van der Merwe,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,W,18-24,1:14.86,Grace I van der Merwe,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,30-34,27.41,Carolyn J Petersen,,Velocity Masters Winter Open,2025,1
+VS,100 Y Freestyle,SCY,W,30-34,1:00.35,Carolyn J Petersen,,Velocity Masters Winter Open,2025,1
+VS,100 Y Breaststroke,SCY,W,30-34,1:23.44,Carolyn J Petersen,,Velocity Masters Winter Open,2025,1
+VS,50 Y Butterfly,SCY,W,30-34,30.82,Carolyn J Petersen,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,W,30-34,1:10.76,Carolyn J Petersen,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,35-39,28.65,Juana I Santana,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,35-39,29.09,Kirsten French,,2024 BAMFest,2025,2
+VS,100 Y Freestyle,SCY,W,35-39,1:06.32,Kirsten French,,2024 BAMFest,2025,1
+VS,50 Y Backstroke,SCY,W,35-39,32.51,Juana I Santana,,Velocity Masters Winter Open,2025,1
+VS,50 Y Backstroke,SCY,W,35-39,42.06,Kirsten French,,Velocity Masters Winter Open,2025,2
+VS,50 Y Breaststroke,SCY,W,35-39,40.02,Kirsten French,,2024 BAMFest,2025,1
+VS,100 Y Breaststroke,SCY,W,35-39,1:27.47,Kirsten French,,2024 BAMFest,2025,1
+VS,50 Y Butterfly,SCY,W,35-39,30.76,Juana I Santana,,Velocity Masters Winter Open,2025,1
+VS,50 Y Butterfly,SCY,W,35-39,33.73,Kirsten French,,2024 BAMFest,2025,2
+VS,100 Y Individual Medley,SCY,W,35-39,1:18.66,Kirsten French,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,40-44,30.59,Sarah K Machado,,Velocity Masters Winter Open,2025,1
+VS,100 Y Freestyle,SCY,W,40-44,1:09.32,Sarah K Machado,,Snohomish Aquatics Masters Invitational Meet,2025,1
+VS,500 Y Freestyle,SCY,W,40-44,7:01.30,Sarah K Machado,,Snohomish Aquatics Masters Invitational Meet,2025,1
+VS,50 Y Breaststroke,SCY,W,40-44,42.81,Sarah K Machado,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,W,40-44,1:20.15,Sarah K Machado,,Velocity Masters Winter Open,2025,1
+VS,500 Y Freestyle,SCY,W,50-54,7:17.40,Sarah Applegate,,Velocity Masters Winter Open,2025,1
+VS,50 Y Backstroke,SCY,W,50-54,40.28,Sarah Applegate,,Velocity Masters Winter Open,2025,1
+VS,50 Y Butterfly,SCY,W,50-54,34.82,Sarah Applegate,,Velocity Masters Winter Open,2025,1
+VS,100 Y Butterfly,SCY,W,50-54,1:21.52,Sarah Applegate,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,W,50-54,1:21.58,Sarah Applegate,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,55-59,36.65,Andrea Wilder,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,55-59,48.88,Michelle D van der Merwe,,Velocity Masters Winter Open,2025,2
+VS,100 Y Freestyle,SCY,W,55-59,1:28.46,Andrea Wilder,,Velocity Masters Winter Open,2025,1
+VS,100 Y Freestyle,SCY,W,55-59,2:04.86,Michelle D van der Merwe,,Velocity Masters Winter Open,2025,2
+VS,50 Y Backstroke,SCY,W,55-59,1:01.73,Michelle D van der Merwe,,Velocity Masters Winter Open,2025,1
+VS,100 Y Backstroke,SCY,W,55-59,2:35.31,Michelle D van der Merwe,,Velocity Masters Winter Open,2025,1
+VS,50 Y Breaststroke,SCY,W,55-59,48.29,Andrea Wilder,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,W,70-74,38.59,Charlene M Woodward,,Velocity Masters Winter Open,2025,1
+VS,50 Y Backstroke,SCY,W,70-74,51.40,Charlene M Woodward,,Velocity Masters Winter Open,2025,1
+VS,50 Y Breaststroke,SCY,W,70-74,57.17,Charlene M Woodward,,Velocity Masters Winter Open,2025,1
+VS,200 Y Freestyle,SCY,M,30-34,2:53.35,James E Bensch,,Velocity Masters Winter Open,2025,1
+VS,500 Y Freestyle,SCY,M,30-34,8:07.64,James E Bensch,,Velocity Masters Winter Open,2025,1
+VS,100 Y Breaststroke,SCY,M,30-34,1:37.08,James E Bensch,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,M,30-34,1:29.91,James E Bensch,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,M,40-44,26.62,Paul M Foltz,,Velocity Masters Winter Open,2025,1
+VS,50 Y Freestyle,SCY,M,40-44,29.85,Joel M DeVore,,Velocity Masters Winter Open,2025,2
+VS,100 Y Freestyle,SCY,M,40-44,1:07.82,Joel M DeVore,,Velocity Masters Winter Open,2025,1
+VS,50 Y Breaststroke,SCY,M,40-44,37.26,Paul M Foltz,,Velocity Masters Winter Open,2025,1
+VS,50 Y Breaststroke,SCY,M,40-44,37.78,Joel M DeVore,,Velocity Masters Winter Open,2025,2
+VS,100 Y Breaststroke,SCY,M,40-44,1:25.21,Joel M DeVore,,Velocity Masters Winter Open,2025,1
+VS,50 Y Butterfly,SCY,M,40-44,32.48,Paul M Foltz,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,M,40-44,1:13.57,Paul M Foltz,,Velocity Masters Winter Open,2025,1
+VS,100 Y Freestyle,SCY,M,45-49,1:00.58,James A Adams,,Spokane Club Dual Sprint Pentathlon,2025,1
+VS,100 Y Backstroke,SCY,M,45-49,1:09.18,James A Adams,,Spokane Club Dual Sprint Pentathlon,2025,1
+VS,100 Y Breaststroke,SCY,M,45-49,1:14.80,James A Adams,,Spokane Club Dual Sprint Pentathlon,2025,1
+VS,100 Y Butterfly,SCY,M,45-49,1:04.17,James A Adams,,Spokane Club Dual Sprint Pentathlon,2025,1
+VS,200 Y Individual Medley,SCY,M,45-49,2:25.45,James A Adams,,Spokane Club Dual Sprint Pentathlon,2025,1
+VS,50 Y Freestyle,SCY,M,65-69,38.24,Alan P Kirpes,,Velocity Masters Winter Open,2025,1
+VS,100 Y Freestyle,SCY,M,65-69,1:23.46,Alan P Kirpes,,Velocity Masters Winter Open,2025,1
+VS,50 Y Backstroke,SCY,M,65-69,43.21,Alan P Kirpes,,Velocity Masters Winter Open,2025,1
+VS,100 Y Backstroke,SCY,M,65-69,1:30.41,Alan P Kirpes,,Velocity Masters Winter Open,2025,1
+VS,100 Y Individual Medley,SCY,M,65-69,1:35.82,Alan P Kirpes,,Velocity Masters Winter Open,2025,1

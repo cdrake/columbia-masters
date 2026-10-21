@@ -1,0 +1,99 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+KM,50 M Freestyle,SCM,W,25-29,32.70,Emily D Kerins,,February Flurry,2020,1
+KM,50 M Backstroke,SCM,W,25-29,35.43,Emily D Kerins,,February Flurry,2020,1
+KM,100 M Backstroke,SCM,W,25-29,1:20.67,Emily D Kerins,,February Flurry,2020,1
+KM,200 M Backstroke,SCM,W,25-29,2:53.51,Emily D Kerins,,February Flurry,2020,1
+KM,100 M Individual Medley,SCM,W,25-29,1:22.44,Emily D Kerins,,February Flurry,2020,1
+KM,400 M Freestyle,SCM,W,35-39,6:26.42,Kim J Bowler,,February Flurry,2020,1
+KM,50 M Butterfly,SCM,W,35-39,47.25,Kim J Bowler,,February Flurry,2020,1
+KM,200 M Individual Medley,SCM,W,35-39,3:28.66,Kim J Bowler,,February Flurry,2020,1
+KM,50 M Freestyle,SCM,W,50-54,40.12,Carol L Nelson,,February Flurry,2020,1
+KM,100 M Freestyle,SCM,W,50-54,1:28.80,Carol L Nelson,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,W,50-54,51.07,Carol L Nelson,,February Flurry,2020,1
+KM,100 M Breaststroke,SCM,W,50-54,1:49.81,Carol L Nelson,,February Flurry,2020,1
+KM,200 M Breaststroke,SCM,W,50-54,3:56.97,Carol L Nelson,,February Flurry,2020,1
+KM,50 M Freestyle,SCM,W,55-59,42.39,Aida C Patterson,,February Flurry,2020,1
+KM,400 M Freestyle,SCM,W,55-59,7:00.29,Aida C Patterson,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,W,55-59,54.37,Aida C Patterson,,February Flurry,2020,1
+KM,50 M Butterfly,SCM,W,55-59,52.39,Aida C Patterson,,February Flurry,2020,1
+KM,100 M Individual Medley,SCM,W,55-59,1:47.96,Aida C Patterson,,February Flurry,2020,1
+KM,50 M Freestyle,SCM,M,25-29,26.21,Adam Mayer,,February Flurry,2020,1
+KM,50 M Backstroke,SCM,M,25-29,30.76,Adam Mayer,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,M,25-29,33.57,Adam Mayer,,February Flurry,2020,1
+KM,50 M Butterfly,SCM,M,25-29,28.38,Adam Mayer,,February Flurry,2020,1
+KM,100 M Backstroke,SCM,M,40-44,1:12.89,Michael A Schwegel,,February Flurry,2020,1
+KM,200 M Backstroke,SCM,M,40-44,2:36.15,Michael A Schwegel,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,M,40-44,38.37,Michael A Schwegel,,February Flurry,2020,1
+KM,50 M Butterfly,SCM,M,40-44,35.62,Michael A Schwegel,,February Flurry,2020,1
+KM,100 M Individual Medley,SCM,M,40-44,1:14.36,Michael A Schwegel,,February Flurry,2020,1
+KM,50 M Freestyle,SCM,M,55-59,39.93,Matthew F Bronson,,February Flurry,2020,1
+KM,100 M Freestyle,SCM,M,55-59,1:18.62,Jim A Breidenbach,,February Flurry,2020,1
+KM,100 M Freestyle,SCM,M,55-59,1:30.34,Matthew F Bronson,,February Flurry,2020,2
+KM,200 M Freestyle,SCM,M,55-59,2:57.22,Jim A Breidenbach,,February Flurry,2020,1
+KM,400 M Freestyle,SCM,M,55-59,6:09.57,Jim A Breidenbach,,February Flurry,2020,1
+KM,100 M Individual Medley,SCM,M,55-59,1:41.19,Jim A Breidenbach,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,M,60-64,48.59,Glenn Mabile,,February Flurry,2020,1
+KM,200 M Breaststroke,SCM,M,60-64,2:58.15,Michael L Hamm,,February Flurry,2020,1
+KM,50 M Butterfly,SCM,M,60-64,47.63,Glenn Mabile,,February Flurry,2020,1
+KM,100 M Individual Medley,SCM,M,60-64,1:41.15,Glenn Mabile,,February Flurry,2020,1
+KM,50 M Freestyle,SCM,M,65-69,38.66,Stephen A Tanner,,February Flurry,2020,1
+KM,200 M Freestyle,SCM,M,65-69,2:47.30,Howard W Burns,,February Flurry,2020,1
+KM,400 M Freestyle,SCM,M,65-69,5:56.81,Howard W Burns,,February Flurry,2020,1
+KM,50 M Backstroke,SCM,M,65-69,44.64,Stephen A Tanner,,February Flurry,2020,1
+KM,100 M Backstroke,SCM,M,65-69,1:43.81,Stephen A Tanner,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,M,65-69,44.46,Howard W Burns,,February Flurry,2020,1
+KM,50 M Breaststroke,SCM,M,65-69,52.01,Stephen A Tanner,,February Flurry,2020,2
+KM,100 M Individual Medley,SCM,M,65-69,1:25.05,Howard W Burns,,February Flurry,2020,1
+KM,100 M Individual Medley,SCM,M,65-69,1:47.60,Stephen A Tanner,,February Flurry,2020,2
+KM,200 M Individual Medley,SCM,M,65-69,3:15.92,Howard W Burns,,February Flurry,2020,1
+LCNM,200 M Backstroke,SCM,W,65-69,3:52.16,Margaret Hair,,February Flurry,2020,1
+LCNM,100 M Breaststroke,SCM,W,65-69,1:51.31,Margaret Hair,,February Flurry,2020,1
+LCNM,200 M Breaststroke,SCM,W,65-69,3:48.18,Margaret Hair,,February Flurry,2020,1
+LCNM,100 M Butterfly,SCM,W,65-69,1:43.73,Margaret Hair,,February Flurry,2020,1
+LCNM,200 M Butterfly,SCM,W,65-69,3:51.80,Margaret Hair,,February Flurry,2020,1
+LCNM,100 M Individual Medley,SCM,W,65-69,1:34.81,Margaret Hair,,February Flurry,2020,1
+LCNM,400 M Individual Medley,SCM,W,65-69,7:22.60,Margaret Hair,,February Flurry,2020,1
+MCM,50 M Freestyle,SCM,W,50-54,37.28,Paige Buehler,,February Flurry,2020,1
+MCM,100 M Freestyle,SCM,W,50-54,1:21.13,Paige Buehler,,February Flurry,2020,1
+MCM,50 M Backstroke,SCM,W,50-54,42.39,Paige Buehler,,February Flurry,2020,1
+MCM,100 M Breaststroke,SCM,W,50-54,1:57.16,Paige Buehler,,February Flurry,2020,1
+MCM,100 M Individual Medley,SCM,W,50-54,1:41.87,Paige Buehler,,February Flurry,2020,1
+MCM,50 M Freestyle,SCM,M,60-64,32.71,Thomas C Lamar,,February Flurry,2020,1
+MCM,100 M Freestyle,SCM,M,60-64,1:10.21,Thomas C Lamar,,February Flurry,2020,1
+MCM,400 M Freestyle,SCM,M,60-64,5:39.45,Thomas C Lamar,,February Flurry,2020,1
+MCM,100 M Individual Medley,SCM,M,60-64,1:23.02,Thomas C Lamar,,February Flurry,2020,1
+SCM,100 M Freestyle,SCM,W,30-34,1:11.84,Amelia M Ferrel,,February Flurry,2020,1
+SCM,100 M Backstroke,SCM,W,30-34,1:28.36,Amelia M Ferrel,,February Flurry,2020,1
+SCM,50 M Breaststroke,SCM,W,30-34,41.28,Amelia M Ferrel,,February Flurry,2020,1
+SCM,100 M Individual Medley,SCM,W,30-34,1:21.75,Amelia M Ferrel,,February Flurry,2020,1
+SCM,50 M Freestyle,SCM,M,35-39,28.13,Ryan M Driscoll,,February Flurry,2020,1
+SCM,100 M Freestyle,SCM,M,35-39,58.08,Ryan M Driscoll,,February Flurry,2020,1
+SCM,200 M Freestyle,SCM,M,35-39,2:17.66,Ryan M Driscoll,,February Flurry,2020,1
+SCM,50 M Breaststroke,SCM,M,35-39,33.55,Ryan M Driscoll,,February Flurry,2020,1
+SCM,100 M Breaststroke,SCM,M,35-39,1:10.60,Trent Shino,,February Flurry,2020,1
+SCM,100 M Butterfly,SCM,M,35-39,1:02.35,Trent Shino,,February Flurry,2020,1
+SCM,100 M Individual Medley,SCM,M,35-39,1:09.45,Ryan M Driscoll,,February Flurry,2020,1
+SCM,200 M Individual Medley,SCM,M,35-39,2:22.75,Trent Shino,,February Flurry,2020,1
+SCM,100 M Freestyle,SCM,M,50-54,1:18.52,Kenneth  J Collins,,February Flurry,2020,1
+SCM,200 M Freestyle,SCM,M,50-54,2:53.28,Kenneth  J Collins,,February Flurry,2020,1
+SCM,400 M Freestyle,SCM,M,50-54,6:13.12,Kenneth  J Collins,,February Flurry,2020,1
+SCM,50 M Freestyle,SCM,M,60-64,28.00,Robert H Heath,,February Flurry,2020,1
+SCM,50 M Backstroke,SCM,M,60-64,32.58,Robert H Heath,,February Flurry,2020,1
+SCM,50 M Butterfly,SCM,M,60-64,30.37,Robert H Heath,,February Flurry,2020,1
+SCM,50 M Freestyle,SCM,M,65-69,28.59,Larry B Krauser,,February Flurry,2020,1
+SCM,100 M Freestyle,SCM,M,65-69,1:03.83,Larry B Krauser,,February Flurry,2020,1
+SCM,200 M Freestyle,SCM,M,65-69,2:25.48,Larry B Krauser,,February Flurry,2020,1
+SCM,400 M Freestyle,SCM,M,65-69,5:10.25,Larry B Krauser,,February Flurry,2020,1
+SCM,800 M Freestyle,SCM,M,65-69,10:57.85,Larry B Krauser,,Bellevue Club Masters Mile,2020,1
+SCM,1500 M Freestyle,SCM,M,65-69,20:33.65,Larry B Krauser,,Bellevue Club Masters Mile,2020,1
+STRG,50 M Freestyle,SCM,M,35-39,25.29,Peter M Marchesini,,February Flurry,2020,1
+STRG,50 M Breaststroke,SCM,M,35-39,31.60,Peter M Marchesini,,February Flurry,2020,1
+STRG,50 M Butterfly,SCM,M,35-39,30.14,Peter M Marchesini,,February Flurry,2020,1
+TCAS,50 M Freestyle,SCM,W,50-54,37.91,Tobi S Bisson,,February Flurry,2020,1
+TCAS,100 M Freestyle,SCM,W,50-54,1:19.52,Tobi S Bisson,,February Flurry,2020,1
+TCAS,200 M Freestyle,SCM,W,50-54,2:54.87,Tobi S Bisson,,February Flurry,2020,1
+TCAS,400 M Freestyle,SCM,W,50-54,5:58.40,Tobi S Bisson,,February Flurry,2020,1
+TCAS,50 M Freestyle,SCM,M,65-69,30.72,David D Cabrey,,February Flurry,2020,1
+TCAS,100 M Freestyle,SCM,M,65-69,1:08.87,David D Cabrey,,February Flurry,2020,1
+TCAS,200 M Freestyle,SCM,M,65-69,2:36.46,David D Cabrey,,February Flurry,2020,1
+TCAS,400 M Freestyle,SCM,M,65-69,5:32.21,David D Cabrey,,February Flurry,2020,1

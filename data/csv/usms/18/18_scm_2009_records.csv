@@ -1,0 +1,33 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MEDM,100 M Freestyle,SCM,W,35-39,1:19.20,Reva J Keaton,,Hudson SCM,2009,1
+MEDM,200 M Freestyle,SCM,W,35-39,2:53.68,Reva J Keaton,,Hudson SCM,2009,1
+MEDM,50 M Freestyle,SCM,M,25-29,26.54,Brad Shouldice,,Hudson SCM,2009,1
+MEDM,50 M Breaststroke,SCM,M,35-39,45.77,James F Hausen,,Hudson SCM,2009,1
+MEDM,400 M Freestyle,SCM,M,50-54,4:50.40,Amro A Hassan,,Hudson SCM,2009,1
+MEDM,50 M Butterfly,SCM,M,50-54,30.79,Amro A Hassan,,Hudson SCM,2009,1
+MEDM,50 M Freestyle,SCM,M,60-64,31.46,Gregory V Kappa,,Hudson SCM,2009,1
+MEDM,100 M Freestyle,SCM,M,60-64,1:12.44,Gregory V Kappa,,Hudson SCM,2009,1
+SAMY,50 M Backstroke,SCM,W,60-64,43.17,Marilyn Douglass,,Hudson SCM,2009,1
+SAMY,100 M Backstroke,SCM,W,60-64,1:35.04,Marilyn Douglass,,Hudson SCM,2009,1
+SAMY,200 M Backstroke,SCM,W,60-64,3:23.52,Marilyn Douglass,,Hudson SCM,2009,1
+SAMY,50 M Butterfly,SCM,W,60-64,44.44,Marilyn Douglass,,Hudson SCM,2009,1
+SAMY,50 M Breaststroke,SCM,M,60-64,39.71,Nick Douglass,,Hudson SCM,2009,1
+SAMY,100 M Breaststroke,SCM,M,60-64,1:26.91,Nick Douglass,,Hudson SCM,2009,1
+SAMY,200 M Breaststroke,SCM,M,60-64,3:11.89,Nick Douglass,,Hudson SCM,2009,1
+SAMY,100 M Individual Medley,SCM,M,60-64,1:26.21,Nick Douglass,,Hudson SCM,2009,1
+SHSH,50 M Freestyle,SCM,M,40-44,39.96,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,200 M Freestyle,SCM,M,40-44,3:56.45,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,400 M Freestyle,SCM,M,40-44,7:55.70,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,800 M Freestyle,SCM,M,40-44,17:16.21,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,1500 M Freestyle,SCM,M,40-44,32:51.24,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,100 M Backstroke,SCM,M,40-44,1:45.74,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,200 M Breaststroke,SCM,M,40-44,4:42.79,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,50 M Butterfly,SCM,M,40-44,54.85,Fernan V Echeverria,,Hudson SCM,2009,1
+SHSH,200 M Individual Medley,SCM,M,40-44,4:12.28,Fernan V Echeverria,,Hudson SCM,2009,1
+UNAT,50 M Freestyle,SCM,W,25-29,33.70,Julie Krause,,Hudson SCM,2009,1
+UNAT,100 M Freestyle,SCM,W,25-29,1:16.82,Julie Krause,,Hudson SCM,2009,1
+UNAT,200 M Individual Medley,SCM,W,25-29,3:19.95,Julie Krause,,Hudson SCM,2009,1
+UNAT,50 M Freestyle,SCM,M,25-29,27.40,Andrew E Huggins,,Hudson SCM,2009,1
+UNAT,100 M Freestyle,SCM,M,25-29,59.79,Andrew E Huggins,,Hudson SCM,2009,1
+UNAT,50 M Butterfly,SCM,M,25-29,29.50,Andrew E Huggins,,Hudson SCM,2009,1
+UNAT,100 M Individual Medley,SCM,M,25-29,1:12.18,Andrew E Huggins,,Hudson SCM,2009,1

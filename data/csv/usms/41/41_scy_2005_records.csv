@@ -1,0 +1,766 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+SKY,50 Y Freestyle,SCY,W,18-24,28.01,Rachael M Breunig,,Cardinal Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,18-24,30.52,Laura Kraemer,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Freestyle,SCY,W,18-24,1:08.12,Laura Kraemer,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Freestyle,SCY,W,18-24,1:12.25,Nicole Althoff,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Freestyle,SCY,W,18-24,2:30.33,Rachael M Breunig,,Cardinal Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,18-24,37.92,Lindsey Gutmann,,Cardinal Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,18-24,38.90,Nicole Althoff,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,W,18-24,32.77,Laura Kraemer,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Butterfly,SCY,W,18-24,1:06.19,Rachael M Breunig,,Cardinal Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,W,18-24,1:17.93,Laura Kraemer,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Individual Medley,SCY,W,18-24,1:20.01,Lindsey Gutmann,,Cardinal Invitational,2005,2
+SKY,50 Y Freestyle,SCY,W,25-29,26.20,Sarah R Beltrame,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Freestyle,SCY,W,25-29,28.17,Susan Sowards,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,W,25-29,28.38,Beth L Atnip,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Freestyle,SCY,W,25-29,28.38,Katie N O'Brien,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Freestyle,SCY,W,25-29,29.83,Crystal Estes,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Freestyle,SCY,W,25-29,56.88,Sarah R Beltrame,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,25-29,1:00.83,Katie N O'Brien,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Freestyle,SCY,W,25-29,1:01.79,Beth L Atnip,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Freestyle,SCY,W,25-29,1:02.16,Leslie A Weeter,,SKY SCY Mini-meet,2005,4
+SKY,100 Y Freestyle,SCY,W,25-29,1:07.70,Crystal Estes,,Wildcat Master's Invitational,2005,5
+SKY,200 Y Freestyle,SCY,W,25-29,2:08.26,Sarah R Beltrame,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Freestyle,SCY,W,25-29,2:08.67,Katie N O'Brien,,2005 USMS Short Course Nationals,2005,2
+SKY,500 Y Freestyle,SCY,W,25-29,5:48.83,Katie N O'Brien,,2005 USMS Short Course Nationals,2005,1
+SKY,500 Y Freestyle,SCY,W,25-29,6:06.23,Beth L Atnip,,Wildcat Master's Invitational,2005,2
+SKY,1000 Y Freestyle,SCY,W,25-29,11:41.84,Leslie A Weeter,,2005 USMS Short Course Nationals,2005,1
+SKY,1000 Y Freestyle,SCY,W,25-29,12:03.77,Katie N O'Brien,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,W,25-29,19:40.95,Katie N O'Brien,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Backstroke,SCY,W,25-29,33.93,Crystal Estes,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,W,25-29,39.93,Kelly Morgan,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Backstroke,SCY,W,25-29,1:13.65,Crystal Estes,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Backstroke,SCY,W,25-29,1:16.50,Leslie A Weeter,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Backstroke,SCY,W,25-29,1:23.98,Kelly Morgan,,SKY SCY Mini-meet,2005,3
+SKY,200 Y Backstroke,SCY,W,25-29,2:41.82,Crystal Estes,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,25-29,35.49,Sarah R Beltrame,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,25-29,37.69,Beth L Atnip,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,W,25-29,46.19,Kelly Morgan,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Breaststroke,SCY,W,25-29,1:12.29,Leslie A Weeter,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Breaststroke,SCY,W,25-29,1:13.08,Susan Sowards,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Breaststroke,SCY,W,25-29,2:37.41,Susan Sowards,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,W,25-29,2:41.81,Leslie A Weeter,,Cardinal Invitational,2005,2
+SKY,50 Y Butterfly,SCY,W,25-29,28.26,Susan Sowards,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,W,25-29,30.88,Leslie A Weeter,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,W,25-29,32.06,Sarah R Beltrame,,Cardinal Invitational,2005,3
+SKY,100 Y Butterfly,SCY,W,25-29,1:03.85,Susan Sowards,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Butterfly,SCY,W,25-29,1:09.87,Leslie A Weeter,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Butterfly,SCY,W,25-29,2:21.37,Leslie A Weeter,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,W,25-29,1:06.48,Susan Sowards,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,W,25-29,1:07.14,Leslie A Weeter,,2005 USMS Short Course Nationals,2005,2
+SKY,100 Y Individual Medley,SCY,W,25-29,1:08.67,Sarah R Beltrame,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Individual Medley,SCY,W,25-29,1:11.28,Katie N O'Brien,,SKY SCY Mini-meet,2005,4
+SKY,100 Y Individual Medley,SCY,W,25-29,1:14.40,Beth L Atnip,,Wildcat Master's Invitational,2005,5
+SKY,200 Y Individual Medley,SCY,W,25-29,2:24.99,Leslie A Weeter,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Individual Medley,SCY,W,25-29,2:33.54,Katie N O'Brien,,2005 USMS Short Course Nationals,2005,2
+SKY,400 Y Individual Medley,SCY,W,25-29,5:03.38,Leslie A Weeter,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,W,30-34,29.68,Beth A Hoyle,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Freestyle,SCY,W,30-34,31.52,Lee Ellis,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Freestyle,SCY,W,30-34,1:02.83,Beth A Hoyle,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Freestyle,SCY,W,30-34,1:07.77,Margaret Schauer,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Freestyle,SCY,W,30-34,1:10.92,Lee Ellis,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Freestyle,SCY,W,30-34,2:03.20,Alexandra Nieto,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Freestyle,SCY,W,30-34,2:04.39,Jennifer Kappler,,2005 USMS Short Course Nationals,2005,2
+SKY,200 Y Freestyle,SCY,W,30-34,2:34.20,Margaret Schauer,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Freestyle,SCY,W,30-34,2:35.58,Lee Ellis,,Wildcat Master's Invitational,2005,4
+SKY,500 Y Freestyle,SCY,W,30-34,5:29.62,Jennifer Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,500 Y Freestyle,SCY,W,30-34,5:34.31,Alexandra Nieto,,Wildcat Master's Invitational,2005,2
+SKY,500 Y Freestyle,SCY,W,30-34,7:07.99,Lee Ellis,,Wildcat Master's Invitational,2005,3
+SKY,1000 Y Freestyle,SCY,W,30-34,13:37.67,Tracy H Spigelman,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,W,30-34,18:33.97,Jennifer Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,1650 Y Freestyle,SCY,W,30-34,22:48.98,Tracy H Spigelman,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Backstroke,SCY,W,30-34,30.68,Alexandra Nieto,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,W,30-34,35.57,Beth A Hoyle,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Breaststroke,SCY,W,30-34,38.40,Beth A Hoyle,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Breaststroke,SCY,W,30-34,1:33.95,Lee Ellis,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,W,30-34,2:35.60,Jennifer Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Butterfly,SCY,W,30-34,30.06,Alexandra Nieto,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,W,30-34,35.81,Margaret Schauer,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Butterfly,SCY,W,30-34,1:03.70,Jennifer Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Butterfly,SCY,W,30-34,1:21.76,Margaret Schauer,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,W,30-34,1:05.80,Alexandra Nieto,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,W,30-34,1:12.81,Beth A Hoyle,,SKY SCY Mini-meet,2005,2
+SKY,200 Y Individual Medley,SCY,W,30-34,2:29.50,Alexandra Nieto,,Wildcat Master's Invitational,2005,1
+SKY,400 Y Individual Medley,SCY,W,30-34,4:58.16,Jennifer Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,W,35-39,29.73,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,35-39,29.94,Julie Winner,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Freestyle,SCY,W,35-39,30.55,Nicole Swann,,SKY SCY Mini-meet,2005,3
+SKY,50 Y Freestyle,SCY,W,35-39,31.85,Robin P Segnitz,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Freestyle,SCY,W,35-39,32.33,Nancy E McElwain,,SKY SCY Mini-meet,2005,5
+SKY,50 Y Freestyle,SCY,W,35-39,35.76,Susan M Ehringer,,SKY SCY Mini-meet,2005,6
+SKY,50 Y Freestyle,SCY,W,35-39,35.79,Bobbi Quesenberry,,Cardinal Invitational,2005,7
+SKY,50 Y Freestyle,SCY,W,35-39,37.41,Pamela Mueller,,Wildcat Master's Invitational,2005,8
+SKY,100 Y Freestyle,SCY,W,35-39,1:05.29,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,35-39,1:07.74,Julie Winner,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Freestyle,SCY,W,35-39,1:08.93,Michelle Ward,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Freestyle,SCY,W,35-39,1:09.40,Robin P Segnitz,,Cardinal Invitational,2005,4
+SKY,100 Y Freestyle,SCY,W,35-39,1:10.24,Nancy E McElwain,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Freestyle,SCY,W,35-39,1:18.10,Bobbi Quesenberry,,SKY SCY Mini-meet,2005,6
+SKY,100 Y Freestyle,SCY,W,35-39,1:19.00,Susan M Ehringer,,Wildcat Master's Invitational,2005,7
+SKY,200 Y Freestyle,SCY,W,35-39,2:20.81,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Freestyle,SCY,W,35-39,2:27.02,Michelle Ward,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Freestyle,SCY,W,35-39,2:27.03,Robin P Segnitz,,2005 USMS Short Course Nationals,2005,3
+SKY,200 Y Freestyle,SCY,W,35-39,2:53.03,Bobbi Quesenberry,,Cardinal Invitational,2005,4
+SKY,500 Y Freestyle,SCY,W,35-39,6:20.28,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,500 Y Freestyle,SCY,W,35-39,6:30.78,Robin P Segnitz,,2005 USMS Short Course Nationals,2005,2
+SKY,500 Y Freestyle,SCY,W,35-39,6:48.39,Michelle Ward,,Barbara Stevens Memorial Meet,2005,3
+SKY,500 Y Freestyle,SCY,W,35-39,7:18.26,Bobbi Quesenberry,,Cardinal Invitational,2005,4
+SKY,1000 Y Freestyle,SCY,W,35-39,12:59.63,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,W,35-39,13:19.14,Robin P Segnitz,,2005 USMS Short Course Nationals,2005,2
+SKY,1000 Y Freestyle,SCY,W,35-39,13:44.24,Michelle Ward,,Wildcat Master's Invitational,2005,3
+SKY,1000 Y Freestyle,SCY,W,35-39,14:01.61,Nancy E McElwain,,Wildcat Master's Invitational,2005,4
+SKY,1650 Y Freestyle,SCY,W,35-39,21:29.32,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,W,35-39,22:38.17,Robin P Segnitz,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,W,35-39,22:53.78,Michelle Ward,,Wildcat Master's Invitational,2005,3
+SKY,1650 Y Freestyle,SCY,W,35-39,23:25.20,Nancy E McElwain,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Backstroke,SCY,W,35-39,37.11,Susan M Ehringer,,Cardinal Invitational,2005,1
+SKY,50 Y Backstroke,SCY,W,35-39,38.31,Julie Winner,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Backstroke,SCY,W,35-39,39.49,Nicole Swann,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Backstroke,SCY,W,35-39,1:19.91,Susan M Ehringer,,Barbara Stevens Memorial Meet,2005,1
+SKY,100 Y Backstroke,SCY,W,35-39,1:22.82,Michelle Ward,,SKY SCY Mini-meet,2005,2
+SKY,200 Y Backstroke,SCY,W,35-39,2:51.34,Susan M Ehringer,,Cardinal Invitational,2005,1
+SKY,200 Y Backstroke,SCY,W,35-39,2:57.77,Michelle Ward,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Breaststroke,SCY,W,35-39,40.95,Julie Winner,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Breaststroke,SCY,W,35-39,48.70,Pamela Mueller,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Breaststroke,SCY,W,35-39,1:28.94,Michelle Ward,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Breaststroke,SCY,W,35-39,1:29.96,Robin P Segnitz,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Breaststroke,SCY,W,35-39,3:11.51,Robin P Segnitz,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,W,35-39,34.32,Julie Winner,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,W,35-39,39.03,Bobbi Quesenberry,,Cardinal Invitational,2005,2
+SKY,50 Y Butterfly,SCY,W,35-39,41.79,Susan M Ehringer,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Butterfly,SCY,W,35-39,1:19.75,Michelle Ward,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Butterfly,SCY,W,35-39,1:33.91,Susan M Ehringer,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Butterfly,SCY,W,35-39,2:48.88,Michelle Ward,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Butterfly,SCY,W,35-39,3:32.99,Susan M Ehringer,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Individual Medley,SCY,W,35-39,1:17.45,Letha Goodrich,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,W,35-39,1:18.27,Michelle Ward,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Individual Medley,SCY,W,35-39,1:21.24,Nicole Swann,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Individual Medley,SCY,W,35-39,1:27.00,Susan M Ehringer,,Barbara Stevens Memorial Meet,2005,4
+SKY,200 Y Individual Medley,SCY,W,35-39,2:51.24,Michelle Ward,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Individual Medley,SCY,W,35-39,3:04.08,Susan M Ehringer,,Cardinal Invitational,2005,2
+SKY,400 Y Individual Medley,SCY,W,35-39,5:48.12,Michelle Ward,,Wildcat Master's Invitational,2005,1
+SKY,400 Y Individual Medley,SCY,W,35-39,6:32.57,Susan M Ehringer,,Cardinal Invitational,2005,2
+SKY,50 Y Freestyle,SCY,W,40-44,29.48,Marci Casey,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,40-44,30.97,Pamela Luebbe,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,W,40-44,31.19,Alma F Ferrier,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Freestyle,SCY,W,40-44,31.74,Pam Kimmel,,Cardinal Invitational,2005,4
+SKY,50 Y Freestyle,SCY,W,40-44,34.84,Helen P Glish,,Cardinal Invitational,2005,5
+SKY,50 Y Freestyle,SCY,W,40-44,34.91,Laura A Haury,,Barbara Stevens Memorial Meet,2005,6
+SKY,50 Y Freestyle,SCY,W,40-44,36.65,Nancy Postlewait,,SKY SCY Mini-meet,2005,7
+SKY,50 Y Freestyle,SCY,W,40-44,38.47,Marcia Pierce,,Wildcat Master's Invitational,2005,8
+SKY,50 Y Freestyle,SCY,W,40-44,46.84,Ardel M Thomas,,Wildcat Master's Invitational,2005,9
+SKY,100 Y Freestyle,SCY,W,40-44,1:09.32,Pam Kimmel,,Cardinal Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,40-44,1:10.87,Alma F Ferrier,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Freestyle,SCY,W,40-44,1:16.26,Laura A Haury,,Barbara Stevens Memorial Meet,2005,3
+SKY,200 Y Freestyle,SCY,W,40-44,3:01.99,Beth Bryant,,Barbara Stevens Memorial Meet,2005,1
+SKY,500 Y Freestyle,SCY,W,40-44,5:54.10,Cindy Ciampa,,Barbara Stevens Memorial Meet,2005,1
+SKY,500 Y Freestyle,SCY,W,40-44,6:16.92,Marci Casey,,2005 USMS Short Course Nationals,2005,2
+SKY,500 Y Freestyle,SCY,W,40-44,6:32.01,Pam Kimmel,,Cardinal Invitational,2005,3
+SKY,500 Y Freestyle,SCY,W,40-44,6:55.41,Pamela Luebbe,,Wildcat Master's Invitational,2005,4
+SKY,500 Y Freestyle,SCY,W,40-44,8:02.88,Beth Bryant,,Barbara Stevens Memorial Meet,2005,5
+SKY,1000 Y Freestyle,SCY,W,40-44,12:55.31,Marci Casey,,2005 USMS Short Course Nationals,2005,1
+SKY,1000 Y Freestyle,SCY,W,40-44,21:41.43,Ardel M Thomas,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,W,40-44,21:42.85,Marci Casey,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,W,40-44,35:29.24,Ardel M Thomas,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Backstroke,SCY,W,40-44,34.43,Marci Casey,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Backstroke,SCY,W,40-44,39.19,Pamela Luebbe,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Backstroke,SCY,W,40-44,39.91,Helen P Glish,,Cardinal Invitational,2005,3
+SKY,50 Y Backstroke,SCY,W,40-44,42.58,Nancy Postlewait,,SKY SCY Mini-meet,2005,4
+SKY,50 Y Backstroke,SCY,W,40-44,48.54,Marcia Pierce,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Backstroke,SCY,W,40-44,1:13.70,Marci Casey,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Backstroke,SCY,W,40-44,1:19.21,Caroline Donnelly,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Backstroke,SCY,W,40-44,1:39.92,Beth Bryant,,Barbara Stevens Memorial Meet,2005,3
+SKY,200 Y Backstroke,SCY,W,40-44,2:37.53,Marci Casey,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Backstroke,SCY,W,40-44,2:39.98,Cindy Ciampa,,Barbara Stevens Memorial Meet,2005,2
+SKY,200 Y Backstroke,SCY,W,40-44,3:28.75,Beth Bryant,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Breaststroke,SCY,W,40-44,37.07,Caroline Donnelly,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Breaststroke,SCY,W,40-44,39.60,Pamela Luebbe,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Breaststroke,SCY,W,40-44,40.66,Alma F Ferrier,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Breaststroke,SCY,W,40-44,44.81,Helen P Glish,,Cardinal Invitational,2005,4
+SKY,50 Y Breaststroke,SCY,W,40-44,44.92,Nancy Postlewait,,SKY SCY Mini-meet,2005,5
+SKY,50 Y Breaststroke,SCY,W,40-44,52.38,Marcia Pierce,,Wildcat Master's Invitational,2005,6
+SKY,100 Y Breaststroke,SCY,W,40-44,1:22.56,Caroline Donnelly,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Breaststroke,SCY,W,40-44,1:25.91,Pamela Luebbe,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Breaststroke,SCY,W,40-44,1:28.76,Alma F Ferrier,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Breaststroke,SCY,W,40-44,1:40.89,Helen P Glish,,Cardinal Invitational,2005,4
+SKY,100 Y Breaststroke,SCY,W,40-44,1:45.20,Laura A Haury,,Barbara Stevens Memorial Meet,2005,5
+SKY,100 Y Breaststroke,SCY,W,40-44,1:55.75,Marcia Pierce,,Wildcat Master's Invitational,2005,6
+SKY,50 Y Butterfly,SCY,W,40-44,33.17,Pamela Luebbe,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Butterfly,SCY,W,40-44,34.60,Alma F Ferrier,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,W,40-44,37.88,Pam Kimmel,,Cardinal Invitational,2005,3
+SKY,50 Y Butterfly,SCY,W,40-44,1:01.54,Ardel M Thomas,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Butterfly,SCY,W,40-44,1:11.31,Cindy Ciampa,,Barbara Stevens Memorial Meet,2005,1
+SKY,200 Y Butterfly,SCY,W,40-44,2:38.94,Cindy Ciampa,,Barbara Stevens Memorial Meet,2005,1
+SKY,100 Y Individual Medley,SCY,W,40-44,1:14.57,Caroline Donnelly,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Individual Medley,SCY,W,40-44,1:15.25,Marci Casey,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,W,40-44,1:20.34,Alma F Ferrier,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Individual Medley,SCY,W,40-44,1:21.72,Pamela Luebbe,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Individual Medley,SCY,W,40-44,1:25.41,Pam Kimmel,,Cardinal Invitational,2005,5
+SKY,100 Y Individual Medley,SCY,W,40-44,1:28.06,Helen P Glish,,Cardinal Invitational,2005,6
+SKY,100 Y Individual Medley,SCY,W,40-44,1:35.40,Beth Bryant,,Barbara Stevens Memorial Meet,2005,7
+SKY,100 Y Individual Medley,SCY,W,40-44,2:24.88,Ardel M Thomas,,Wildcat Master's Invitational,2005,8
+SKY,200 Y Individual Medley,SCY,W,40-44,2:38.05,Cindy Ciampa,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Freestyle,SCY,W,45-49,31.91,Teresa A Walther,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,45-49,36.24,Janice Kregor,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,W,45-49,36.44,Meg Smath,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Freestyle,SCY,W,45-49,1:01.62,Cindy Ciampa,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,45-49,1:06.10,Tricia Calvert,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Freestyle,SCY,W,45-49,1:12.48,Teresa A Walther,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Freestyle,SCY,W,45-49,1:19.76,Janice Kregor,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Freestyle,SCY,W,45-49,1:20.64,Sarajane Doty,,Wildcat Master's Invitational,2005,5
+SKY,200 Y Freestyle,SCY,W,45-49,2:11.60,Cindy Ciampa,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Freestyle,SCY,W,45-49,2:45.45,Janice Kregor,,Cardinal Invitational,2005,2
+SKY,200 Y Freestyle,SCY,W,45-49,2:59.21,Sarajane Doty,,Wildcat Master's Invitational,2005,3
+SKY,500 Y Freestyle,SCY,W,45-49,5:52.29,Cindy Ciampa,,2005 USMS Short Course Nationals,2005,1
+SKY,500 Y Freestyle,SCY,W,45-49,6:56.42,Janice Kregor,,2005 USMS Short Course Nationals,2005,2
+SKY,500 Y Freestyle,SCY,W,45-49,7:32.05,Teresa A Walther,,Cardinal Invitational,2005,3
+SKY,500 Y Freestyle,SCY,W,45-49,7:53.56,Sarajane Doty,,Wildcat Master's Invitational,2005,4
+SKY,500 Y Freestyle,SCY,W,45-49,7:54.11,Meg Smath,,Barbara Stevens Memorial Meet,2005,5
+SKY,1000 Y Freestyle,SCY,W,45-49,14:13.28,Jane Sasaki,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,W,45-49,14:26.04,Janice Kregor,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,W,45-49,23:14.38,Janice Kregor,,2005 USMS Short Course Nationals,2005,1
+SKY,1650 Y Freestyle,SCY,W,45-49,23:24.82,Jane Sasaki,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Backstroke,SCY,W,45-49,35.88,Tricia Calvert,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,W,45-49,37.17,Sandra W Marlowe,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Backstroke,SCY,W,45-49,41.54,Teresa A Walther,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Backstroke,SCY,W,45-49,41.74,Mary T Graves,,Cardinal Invitational,2005,4
+SKY,50 Y Backstroke,SCY,W,45-49,49.58,Janice Kregor,,Cardinal Invitational,2005,5
+SKY,100 Y Backstroke,SCY,W,45-49,1:15.69,Cindy Ciampa,,Cardinal Invitational,2005,1
+SKY,100 Y Backstroke,SCY,W,45-49,1:24.69,Sandra W Marlowe,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Backstroke,SCY,W,45-49,1:33.91,Mary T Graves,,Cardinal Invitational,2005,3
+SKY,200 Y Backstroke,SCY,W,45-49,2:34.76,Cindy Ciampa,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Backstroke,SCY,W,45-49,3:10.29,Mary T Graves,,Cardinal Invitational,2005,2
+SKY,200 Y Backstroke,SCY,W,45-49,3:11.23,Teresa A Walther,,Cardinal Invitational,2005,3
+SKY,50 Y Breaststroke,SCY,W,45-49,41.07,Tricia Calvert,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,45-49,42.55,Meg Smath,,2005 USMS Short Course Nationals,2005,2
+SKY,50 Y Breaststroke,SCY,W,45-49,46.20,Janice Kregor,,2005 USMS Short Course Nationals,2005,3
+SKY,100 Y Breaststroke,SCY,W,45-49,1:32.56,Meg Smath,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Breaststroke,SCY,W,45-49,1:49.16,Janice Kregor,,Barbara Stevens Memorial Meet,2005,2
+SKY,200 Y Breaststroke,SCY,W,45-49,3:27.12,Meg Smath,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Breaststroke,SCY,W,45-49,3:52.02,Janice Kregor,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Butterfly,SCY,W,45-49,32.64,Sandra W Marlowe,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,W,45-49,37.88,Teresa A Walther,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,W,45-49,47.60,Janice Kregor,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Butterfly,SCY,W,45-49,1:11.24,Cindy Ciampa,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Butterfly,SCY,W,45-49,2:31.67,Cindy Ciampa,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,W,45-49,1:16.39,Tricia Calvert,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,W,45-49,1:25.81,Teresa A Walther,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,W,45-49,1:35.93,Meg Smath,,Cardinal Invitational,2005,3
+SKY,100 Y Individual Medley,SCY,W,45-49,1:40.59,Janice Kregor,,Cardinal Invitational,2005,4
+SKY,200 Y Individual Medley,SCY,W,45-49,2:33.14,Cindy Ciampa,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Individual Medley,SCY,W,45-49,3:11.81,Teresa A Walther,,Cardinal Invitational,2005,2
+SKY,200 Y Individual Medley,SCY,W,45-49,3:46.90,Sarajane Doty,,Wildcat Master's Invitational,2005,3
+SKY,400 Y Individual Medley,SCY,W,45-49,5:24.49,Cindy Ciampa,,2005 USMS Short Course Nationals,2005,1
+SKY,400 Y Individual Medley,SCY,W,45-49,8:08.19,Sarajane Doty,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,W,50-54,30.72,Sandra W Marlowe,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,W,50-54,33.15,Wendy Medley,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Freestyle,SCY,W,50-54,34.75,Betsy Whittemore,,Cardinal Invitational,2005,3
+SKY,100 Y Freestyle,SCY,W,50-54,1:13.71,Wendy Medley,,Cardinal Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,50-54,1:16.69,Betsy Whittemore,,Cardinal Invitational,2005,2
+SKY,200 Y Freestyle,SCY,W,50-54,2:43.06,Wendy Medley,,Cardinal Invitational,2005,1
+SKY,500 Y Freestyle,SCY,W,50-54,7:15.41,Wendy Medley,,Wildcat Master's Invitational,2005,1
+SKY,500 Y Freestyle,SCY,W,50-54,8:36.90,Gail O'Malley,,Wildcat Master's Invitational,2005,2
+SKY,1000 Y Freestyle,SCY,W,50-54,18:04.15,Gail O'Malley,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,W,50-54,29:37.39,Gail O'Malley,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,W,50-54,35.70,Sandra W Marlowe,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Backstroke,SCY,W,50-54,44.45,Wendy Medley,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Backstroke,SCY,W,50-54,45.84,Betsy Whittemore,,Cardinal Invitational,2005,3
+SKY,50 Y Backstroke,SCY,W,50-54,52.31,Mary Duke Connell,,SKY SCY Mini-meet,2005,4
+SKY,100 Y Backstroke,SCY,W,50-54,1:19.16,Sandra W Marlowe,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Backstroke,SCY,W,50-54,1:35.46,Debbie Utz,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Breaststroke,SCY,W,50-54,50.30,Mary Duke Connell,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Breaststroke,SCY,W,50-54,54.93,Gail O'Malley,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Breaststroke,SCY,W,50-54,1:40.85,Debbie Utz,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Breaststroke,SCY,W,50-54,1:55.54,Gail O'Malley,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Breaststroke,SCY,W,50-54,3:56.33,Gail O'Malley,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,W,50-54,32.53,Sandra W Marlowe,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Butterfly,SCY,W,50-54,40.62,Wendy Medley,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Butterfly,SCY,W,50-54,47.24,Debbie Utz,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Individual Medley,SCY,W,50-54,1:15.88,Sandra W Marlowe,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,W,50-54,1:26.10,Wendy Medley,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,W,50-54,1:31.59,Debbie Utz,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Individual Medley,SCY,W,50-54,1:33.64,Betsy Whittemore,,Cardinal Invitational,2005,4
+SKY,400 Y Individual Medley,SCY,W,50-54,6:40.61,Wendy Medley,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,55-59,43.76,Tracy M Elton,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Freestyle,SCY,W,55-59,1:30.10,Anne Huntington,,Cardinal Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,55-59,1:36.87,Tracy M Elton,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Freestyle,SCY,W,55-59,3:39.08,Tracy M Elton,,Cardinal Invitational,2005,1
+SKY,500 Y Freestyle,SCY,W,55-59,9:36.57,Tracy M Elton,,Cardinal Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,W,55-59,19:57.68,Susan I Paris,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,W,55-59,20:40.49,Tracy M Elton,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,W,55-59,33:10.68,Susan I Paris,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,W,55-59,33:40.43,Tracy M Elton,,2005 USMS Short Course Nationals,2005,2
+SKY,100 Y Backstroke,SCY,W,55-59,1:58.00,Tracy M Elton,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,55-59,45.53,Anne Huntington,,Cardinal Invitational,2005,1
+SKY,100 Y Breaststroke,SCY,W,55-59,1:45.57,Anne Huntington,,Cardinal Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,W,55-59,3:42.63,Anne Huntington,,Cardinal Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,W,55-59,1:36.40,Anne Huntington,,Cardinal Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,60-64,39.04,Vicki Catlin,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Freestyle,SCY,W,60-64,41.01,Lois Britt,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Freestyle,SCY,W,60-64,42.32,Tita Arnold,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Freestyle,SCY,W,60-64,54.95,Jodi Rowatt,,Barbara Stevens Memorial Meet,2005,4
+SKY,50 Y Freestyle,SCY,W,60-64,55.05,Bonnie Case,,Barbara Stevens Memorial Meet,2005,5
+SKY,100 Y Freestyle,SCY,W,60-64,1:28.87,Tita Arnold,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,60-64,1:31.25,Vicki Catlin,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Freestyle,SCY,W,60-64,1:34.37,Lois Britt,,Barbara Stevens Memorial Meet,2005,3
+SKY,100 Y Freestyle,SCY,W,60-64,2:04.43,Bonnie Case,,Barbara Stevens Memorial Meet,2005,4
+SKY,200 Y Freestyle,SCY,W,60-64,3:08.58,Tita Arnold,,Cardinal Invitational,2005,1
+SKY,200 Y Freestyle,SCY,W,60-64,3:24.25,Vicki Catlin,,Cardinal Invitational,2005,2
+SKY,500 Y Freestyle,SCY,W,60-64,7:59.70,Tita Arnold,,Cardinal Invitational,2005,1
+SKY,500 Y Freestyle,SCY,W,60-64,8:52.82,Vicki Catlin,,Cardinal Invitational,2005,2
+SKY,50 Y Backstroke,SCY,W,60-64,50.15,Lois Britt,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Backstroke,SCY,W,60-64,1:00.53,Jodi Rowatt,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Backstroke,SCY,W,60-64,1:23.54,Bonnie Case,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Breaststroke,SCY,W,60-64,48.72,Tita Arnold,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,W,60-64,54.52,Vicki Catlin,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Breaststroke,SCY,W,60-64,55.57,Lois Britt,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Breaststroke,SCY,W,60-64,59.42,Jodi Rowatt,,Barbara Stevens Memorial Meet,2005,4
+SKY,50 Y Breaststroke,SCY,W,60-64,1:09.87,Bonnie Case,,Barbara Stevens Memorial Meet,2005,5
+SKY,100 Y Breaststroke,SCY,W,60-64,1:45.53,Tita Arnold,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Breaststroke,SCY,W,60-64,2:12.36,Jodi Rowatt,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Breaststroke,SCY,W,60-64,2:32.92,Bonnie Case,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Butterfly,SCY,W,60-64,50.84,Tita Arnold,,Cardinal Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,W,60-64,1:44.49,Tita Arnold,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,W,65-69,36.16,Susan Bradley-Cox,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,W,65-69,1:20.88,Susan Bradley-Cox,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Freestyle,SCY,W,65-69,2:53.64,Susan Bradley-Cox,,Wildcat Master's Invitational,2005,1
+SKY,500 Y Freestyle,SCY,W,65-69,7:39.33,Susan Bradley-Cox,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,W,65-69,16:12.72,Susan Bradley-Cox,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,W,65-69,26:42.00,Susan Bradley-Cox,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,W,70-74,48.43,Mary Jane Mullins,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Backstroke,SCY,W,70-74,1:09.11,Jan Morrow,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Backstroke,SCY,W,70-74,1:42.77,Mary Jane Mullins,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Backstroke,SCY,W,70-74,2:30.16,Jan Morrow,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Backstroke,SCY,W,70-74,3:43.91,Mary Jane Mullins,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Backstroke,SCY,W,70-74,5:14.74,Jan Morrow,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,W,70-74,1:35.17,Jan Morrow,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Breaststroke,SCY,W,70-74,3:18.05,Jan Morrow,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,W,70-74,7:11.76,Jan Morrow,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,W,70-74,57.15,Mary Jane Mullins,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,W,70-74,1:54.71,Mary Jane Mullins,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Individual Medley,SCY,W,70-74,4:20.34,Mary Jane Mullins,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,M,18-24,23.83,Steven J Corry,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,18-24,25.66,Billy Sexton,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Freestyle,SCY,M,18-24,26.66,Mitchell Reinhart,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Freestyle,SCY,M,18-24,54.41,Steven J Corry,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,M,18-24,57.16,Billy Sexton,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Freestyle,SCY,M,18-24,58.63,Mitchell Reinhart,,SKY SCY Mini-meet,2005,3
+SKY,200 Y Freestyle,SCY,M,18-24,1:54.06,Jose Manuel Nieto,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Freestyle,SCY,M,18-24,2:08.62,Billy Sexton,,Wildcat Master's Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,18-24,5:06.11,Jose Manuel Nieto,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Backstroke,SCY,M,18-24,28.84,Steven J Corry,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Backstroke,SCY,M,18-24,31.48,Billy Sexton,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Backstroke,SCY,M,18-24,1:03.86,Steven J Corry,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,18-24,33.58,Billy Sexton,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,18-24,36.85,Steven J Corry,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Breaststroke,SCY,M,18-24,1:15.06,Steven J Corry,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,M,18-24,2:48.71,Billy Sexton,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,18-24,27.78,Billy Sexton,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,M,18-24,28.01,Mitchell Reinhart,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Butterfly,SCY,M,18-24,57.58,Jose Manuel Nieto,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Butterfly,SCY,M,18-24,1:07.42,Mitchell Reinhart,,SKY SCY Mini-meet,2005,2
+SKY,200 Y Butterfly,SCY,M,18-24,2:04.02,Jose Manuel Nieto,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,M,18-24,1:06.31,Steven J Corry,,Barbara Stevens Memorial Meet,2005,1
+SKY,200 Y Individual Medley,SCY,M,18-24,2:25.55,Billy Sexton,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,25-29,20.95,Jerrod Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,M,25-29,22.57,Keith Adams,,2005 USMS Short Course Nationals,2005,2
+SKY,50 Y Freestyle,SCY,M,25-29,24.59,Chris Proctor,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Freestyle,SCY,M,25-29,26.44,Chris Regan,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Freestyle,SCY,M,25-29,26.55,Eric (Dustin) Owens,,Barbara Stevens Memorial Meet,2005,5
+SKY,50 Y Freestyle,SCY,M,25-29,29.22,Michael McMahan,,Wildcat Master's Invitational,2005,6
+SKY,50 Y Freestyle,SCY,M,25-29,32.03,Keith J Klusman,,Cardinal Invitational,2005,7
+SKY,100 Y Freestyle,SCY,M,25-29,46.19,Jerrod Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Freestyle,SCY,M,25-29,50.09,Keith Adams,,2005 USMS Short Course Nationals,2005,2
+SKY,100 Y Freestyle,SCY,M,25-29,55.61,Chris Proctor,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Freestyle,SCY,M,25-29,1:01.47,Chris Regan,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Freestyle,SCY,M,25-29,1:05.08,Michael McMahan,,Cardinal Invitational,2005,5
+SKY,100 Y Freestyle,SCY,M,25-29,1:11.04,Keith J Klusman,,SKY SCY Mini-meet,2005,6
+SKY,200 Y Freestyle,SCY,M,25-29,1:45.05,Jerrod Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Freestyle,SCY,M,25-29,1:56.01,Keith Adams,,2005 USMS Short Course Nationals,2005,2
+SKY,200 Y Freestyle,SCY,M,25-29,1:57.15,Jose Manuel Nieto,,Cardinal Invitational,2005,3
+SKY,200 Y Freestyle,SCY,M,25-29,2:31.16,Michael McMahan,,Cardinal Invitational,2005,4
+SKY,200 Y Freestyle,SCY,M,25-29,2:47.24,Keith J Klusman,,Cardinal Invitational,2005,5
+SKY,500 Y Freestyle,SCY,M,25-29,5:48.67,Marshall E Atnip,,Wildcat Master's Invitational,2005,1
+SKY,500 Y Freestyle,SCY,M,25-29,7:14.82,Michael McMahan,,Cardinal Invitational,2005,2
+SKY,1000 Y Freestyle,SCY,M,25-29,12:32.28,Marshall E Atnip,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,M,25-29,20:38.10,Marshall E Atnip,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,25-29,27.33,Jerrod Kappler,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Backstroke,SCY,M,25-29,57.67,Jerrod Kappler,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Backstroke,SCY,M,25-29,1:14.80,Chris Regan,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,M,25-29,29.51,Jerrod Kappler,,SKY SCY Mini-meet,2005,1
+SKY,50 Y Breaststroke,SCY,M,25-29,32.81,Chris Proctor,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,M,25-29,34.29,Eric (Dustin) Owens,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Breaststroke,SCY,M,25-29,35.53,Chris Regan,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Breaststroke,SCY,M,25-29,44.67,Keith J Klusman,,Cardinal Invitational,2005,5
+SKY,100 Y Breaststroke,SCY,M,25-29,1:04.04,Jerrod Kappler,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Breaststroke,SCY,M,25-29,1:17.83,Chris Regan,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,M,25-29,23.11,Jerrod Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Butterfly,SCY,M,25-29,26.54,Keith Adams,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,M,25-29,28.69,Chris Proctor,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Butterfly,SCY,M,25-29,31.91,Eric (Dustin) Owens,,Barbara Stevens Memorial Meet,2005,4
+SKY,50 Y Butterfly,SCY,M,25-29,33.40,Michael McMahan,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Butterfly,SCY,M,25-29,52.71,Jerrod Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Butterfly,SCY,M,25-29,1:23.84,Michael McMahan,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Butterfly,SCY,M,25-29,2:43.92,Marshall E Atnip,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,25-29,54.54,Jerrod Kappler,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,M,25-29,58.48,Keith Adams,,2005 USMS Short Course Nationals,2005,2
+SKY,100 Y Individual Medley,SCY,M,25-29,1:07.08,Chris Proctor,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Individual Medley,SCY,M,25-29,1:10.26,Eric (Dustin) Owens,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Individual Medley,SCY,M,25-29,1:17.31,Michael McMahan,,Wildcat Master's Invitational,2005,5
+SKY,200 Y Individual Medley,SCY,M,25-29,2:12.09,Keith Adams,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Individual Medley,SCY,M,25-29,3:00.42,Michael McMahan,,Wildcat Master's Invitational,2005,2
+SKY,400 Y Individual Medley,SCY,M,25-29,6:56.78,Michael McMahan,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,30-34,23.36,Scott Dick,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Freestyle,SCY,M,30-34,49.54,Scott Dick,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Freestyle,SCY,M,30-34,1:51.00,Scott Dick,,Wildcat Master's Invitational,2005,1
+SKY,500 Y Freestyle,SCY,M,30-34,5:13.90,Scott Dick,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,M,30-34,25.45,Scott Dick,,Barbara Stevens Memorial Meet,2005,1
+SKY,100 Y Butterfly,SCY,M,30-34,54.61,Scott Dick,,SKY SCY Mini-meet,2005,1
+SKY,200 Y Butterfly,SCY,M,30-34,2:05.34,Scott Dick,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,30-34,57.50,Scott Dick,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,30-34,1:13.43,Glen Jaworski,,SKY SCY Mini-meet,2005,2
+SKY,400 Y Individual Medley,SCY,M,30-34,4:36.13,Scott Dick,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,35-39,23.99,Mark A Gill,,YMCA Nationals,2005,1
+SKY,50 Y Freestyle,SCY,M,35-39,26.28,Terry Rogers,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Freestyle,SCY,M,35-39,27.73,Zachary Callahan,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Freestyle,SCY,M,35-39,29.23,Martin Bearden,,SKY SCY Mini-meet,2005,4
+SKY,50 Y Freestyle,SCY,M,35-39,29.97,Greg Mays,,Barbara Stevens Memorial Meet,2005,5
+SKY,50 Y Freestyle,SCY,M,35-39,37.41,Larry Marko,,Barbara Stevens Memorial Meet,2005,6
+SKY,100 Y Freestyle,SCY,M,35-39,52.08,Mark A Gill,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Freestyle,SCY,M,35-39,58.17,Chip Jaworski,,Cardinal Invitational,2005,2
+SKY,100 Y Freestyle,SCY,M,35-39,59.60,Terry Rogers,,Barbara Stevens Memorial Meet,2005,3
+SKY,100 Y Freestyle,SCY,M,35-39,1:00.11,Keith Raker,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Freestyle,SCY,M,35-39,1:00.84,Zachary Callahan,,Barbara Stevens Memorial Meet,2005,5
+SKY,100 Y Freestyle,SCY,M,35-39,1:02.53,Pete Swisher,,Wildcat Master's Invitational,2005,6
+SKY,100 Y Freestyle,SCY,M,35-39,1:03.40,Martin Bearden,,SKY SCY Mini-meet,2005,7
+SKY,100 Y Freestyle,SCY,M,35-39,1:07.49,Greg Mays,,Barbara Stevens Memorial Meet,2005,8
+SKY,200 Y Freestyle,SCY,M,35-39,2:00.51,Mark A Gill,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Freestyle,SCY,M,35-39,2:16.35,Zachary Callahan,,Barbara Stevens Memorial Meet,2005,2
+SKY,200 Y Freestyle,SCY,M,35-39,2:19.71,Keith Raker,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Freestyle,SCY,M,35-39,2:26.41,Pete Swisher,,Wildcat Master's Invitational,2005,4
+SKY,200 Y Freestyle,SCY,M,35-39,3:13.61,Larry Marko,,Barbara Stevens Memorial Meet,2005,5
+SKY,500 Y Freestyle,SCY,M,35-39,5:57.21,Mark A Gill,,YMCA Nationals,2005,1
+SKY,500 Y Freestyle,SCY,M,35-39,6:15.36,Zachary Callahan,,Barbara Stevens Memorial Meet,2005,2
+SKY,1000 Y Freestyle,SCY,M,35-39,13:54.52,Keith Raker,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,M,35-39,14:14.50,Martin Bearden,,Wildcat Master's Invitational,2005,2
+SKY,1000 Y Freestyle,SCY,M,35-39,15:06.21,Pete Swisher,,Wildcat Master's Invitational,2005,3
+SKY,1650 Y Freestyle,SCY,M,35-39,23:22.43,Keith Raker,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,M,35-39,23:41.72,Martin Bearden,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,M,35-39,24:55.55,Pete Swisher,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Backstroke,SCY,M,35-39,29.46,Mark A Gill,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Backstroke,SCY,M,35-39,1:04.41,Mark A Gill,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Backstroke,SCY,M,35-39,1:20.13,Chip Jaworski,,Cardinal Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,M,35-39,27.76,Abraham Solano,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Breaststroke,SCY,M,35-39,33.83,Terry Rogers,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Breaststroke,SCY,M,35-39,41.02,Greg Mays,,Barbara Stevens Memorial Meet,2005,3
+SKY,100 Y Breaststroke,SCY,M,35-39,59.48,Abraham Solano,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Breaststroke,SCY,M,35-39,1:05.05,Dale Mercker,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Breaststroke,SCY,M,35-39,1:14.84,Chip Jaworski,,Cardinal Invitational,2005,3
+SKY,100 Y Breaststroke,SCY,M,35-39,1:27.82,Larry Marko,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Breaststroke,SCY,M,35-39,1:30.65,Greg Mays,,Barbara Stevens Memorial Meet,2005,5
+SKY,200 Y Breaststroke,SCY,M,35-39,2:09.46,Abraham Solano,,2005 USMS Short Course Nationals,2005,1
+SKY,200 Y Breaststroke,SCY,M,35-39,2:44.40,Keith Raker,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Breaststroke,SCY,M,35-39,3:21.47,Larry Marko,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Butterfly,SCY,M,35-39,25.66,Mark A Gill,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Butterfly,SCY,M,35-39,58.01,Mark A Gill,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Butterfly,SCY,M,35-39,1:12.89,Chip Jaworski,,Cardinal Invitational,2005,2
+SKY,200 Y Butterfly,SCY,M,35-39,2:02.16,Abraham Solano,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Individual Medley,SCY,M,35-39,1:07.97,Chip Jaworski,,Cardinal Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,35-39,1:10.02,Terry Rogers,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Individual Medley,SCY,M,35-39,1:11.48,Tony Mancuso,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Individual Medley,SCY,M,35-39,1:12.84,Pete Swisher,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Individual Medley,SCY,M,35-39,1:14.84,Zachary Callahan,,Barbara Stevens Memorial Meet,2005,5
+SKY,200 Y Individual Medley,SCY,M,35-39,1:59.79,Abraham Solano,,2005 USMS Short Course Nationals,2005,1
+SKY,400 Y Individual Medley,SCY,M,35-39,4:22.41,Abraham Solano,,2005 USMS Short Course Nationals,2005,1
+SKY,400 Y Individual Medley,SCY,M,35-39,5:26.57,Mark A Gill,,YMCA Nationals,2005,2
+SKY,50 Y Freestyle,SCY,M,40-44,24.83,Rand Paul,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Freestyle,SCY,M,40-44,25.18,Richard Ransdell,,Cardinal Invitational,2005,2
+SKY,50 Y Freestyle,SCY,M,40-44,25.43,Eric Smith,,Cardinal Invitational,2005,3
+SKY,50 Y Freestyle,SCY,M,40-44,26.95,Rick Babuka,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Freestyle,SCY,M,40-44,27.62,John Grant,,Wildcat Master's Invitational,2005,5
+SKY,50 Y Freestyle,SCY,M,40-44,29.20,Mark L Farman,,Wildcat Master's Invitational,2005,6
+SKY,50 Y Freestyle,SCY,M,40-44,29.37,Andre Valk,,Cardinal Invitational,2005,7
+SKY,100 Y Freestyle,SCY,M,40-44,51.99,Rick Stecher,,Cardinal Invitational,2005,1
+SKY,100 Y Freestyle,SCY,M,40-44,54.17,Robert C Holmes,,2005 USMS Short Course Nationals,2005,2
+SKY,100 Y Freestyle,SCY,M,40-44,56.04,Richard Ransdell,,Cardinal Invitational,2005,3
+SKY,100 Y Freestyle,SCY,M,40-44,57.26,Rand Paul,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Freestyle,SCY,M,40-44,58.71,Eric Smith,,Barbara Stevens Memorial Meet,2005,5
+SKY,100 Y Freestyle,SCY,M,40-44,1:01.96,Rick Babuka,,Wildcat Master's Invitational,2005,6
+SKY,100 Y Freestyle,SCY,M,40-44,1:02.21,John Grant,,Wildcat Master's Invitational,2005,7
+SKY,100 Y Freestyle,SCY,M,40-44,1:05.42,Andre Valk,,Barbara Stevens Memorial Meet,2005,8
+SKY,100 Y Freestyle,SCY,M,40-44,1:07.21,Mark L Farman,,Wildcat Master's Invitational,2005,9
+SKY,100 Y Freestyle,SCY,M,40-44,1:14.76,Stephen D Gedney,,Wildcat Master's Invitational,2005,10
+SKY,200 Y Freestyle,SCY,M,40-44,1:56.21,Rick Stecher,,Cardinal Invitational,2005,1
+SKY,200 Y Freestyle,SCY,M,40-44,1:59.65,Robert C Holmes,,2005 USMS Short Course Nationals,2005,2
+SKY,200 Y Freestyle,SCY,M,40-44,2:04.88,Richard Ransdell,,Cardinal Invitational,2005,3
+SKY,200 Y Freestyle,SCY,M,40-44,2:13.17,Rand Paul,,Barbara Stevens Memorial Meet,2005,4
+SKY,200 Y Freestyle,SCY,M,40-44,2:15.11,Eric Smith,,Barbara Stevens Memorial Meet,2005,5
+SKY,200 Y Freestyle,SCY,M,40-44,2:24.64,John Grant,,Wildcat Master's Invitational,2005,6
+SKY,200 Y Freestyle,SCY,M,40-44,2:27.73,Andre Valk,,Cardinal Invitational,2005,7
+SKY,500 Y Freestyle,SCY,M,40-44,5:21.21,Robert C Holmes,,2005 USMS Short Course Nationals,2005,1
+SKY,500 Y Freestyle,SCY,M,40-44,6:13.97,Michael Johmann,,Wildcat Master's Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,40-44,6:28.41,John Grant,,Wildcat Master's Invitational,2005,3
+SKY,500 Y Freestyle,SCY,M,40-44,6:50.04,Andre Valk,,Cardinal Invitational,2005,4
+SKY,1000 Y Freestyle,SCY,M,40-44,11:20.26,Robert C Holmes,,2005 USMS Short Course Nationals,2005,1
+SKY,1000 Y Freestyle,SCY,M,40-44,12:44.25,Michael Johmann,,Wildcat Master's Invitational,2005,2
+SKY,1000 Y Freestyle,SCY,M,40-44,17:39.17,Mark L Farman,,Wildcat Master's Invitational,2005,3
+SKY,1650 Y Freestyle,SCY,M,40-44,19:24.43,Robert C Holmes,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,M,40-44,21:18.45,Michael Johmann,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,M,40-44,25:17.91,Mark L Farman,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Backstroke,SCY,M,40-44,29.81,Rick Stecher,,Cardinal Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,40-44,31.52,Michael Johmann,,Cardinal Invitational,2005,2
+SKY,50 Y Backstroke,SCY,M,40-44,47.24,Stephen D Gedney,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Backstroke,SCY,M,40-44,1:07.61,Michael Johmann,,Cardinal Invitational,2005,1
+SKY,200 Y Backstroke,SCY,M,40-44,2:34.44,Michael Johmann,,Cardinal Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,40-44,38.07,Andre Valk,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,40-44,40.17,Mark L Farman,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,M,40-44,40.39,Stephen D Gedney,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Breaststroke,SCY,M,40-44,1:28.52,Mark L Farman,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,M,40-44,3:06.79,Stephen D Gedney,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,40-44,27.60,Richard Ransdell,,Cardinal Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,40-44,31.04,Michael Johmann,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Butterfly,SCY,M,40-44,31.11,Rick Babuka,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Butterfly,SCY,M,40-44,32.32,Andre Valk,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Butterfly,SCY,M,40-44,1:02.18,Robert C Holmes,,Cardinal Invitational,2005,1
+SKY,100 Y Butterfly,SCY,M,40-44,1:06.04,Michael Johmann,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Butterfly,SCY,M,40-44,1:16.91,Rick Babuka,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Butterfly,SCY,M,40-44,2:19.91,Michael Johmann,,Cardinal Invitational,2005,1
+SKY,200 Y Butterfly,SCY,M,40-44,2:23.70,Robert C Holmes,,Cardinal Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,M,40-44,1:06.67,Richard Ransdell,,Cardinal Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,40-44,1:13.05,John Grant,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,M,40-44,1:18.94,Rick Babuka,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Individual Medley,SCY,M,40-44,2:35.32,John Grant,,Wildcat Master's Invitational,2005,1
+SKY,400 Y Individual Medley,SCY,M,40-44,5:21.01,Michael Johmann,,Cardinal Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,45-49,24.02,Mark Ritter,,Excel Aquatics Masters Meet,2005,1
+SKY,50 Y Freestyle,SCY,M,45-49,24.21,John Voorhees,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,M,45-49,24.65,Tom Evans,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Freestyle,SCY,M,45-49,26.94,Barry A Whaley,,SKY SCY Mini-meet,2005,4
+SKY,50 Y Freestyle,SCY,M,45-49,27.46,Wally J Ferrier,,Wildcat Master's Invitational,2005,5
+SKY,50 Y Freestyle,SCY,M,45-49,29.01,Bill Gittings,,Barbara Stevens Memorial Meet,2005,6
+SKY,50 Y Freestyle,SCY,M,45-49,33.15,David Harbison,,Barbara Stevens Memorial Meet,2005,7
+SKY,100 Y Freestyle,SCY,M,45-49,53.16,John Voorhees,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,M,45-49,53.96,Mark Ritter,,Excel Aquatics Masters Meet,2005,2
+SKY,100 Y Freestyle,SCY,M,45-49,57.71,Tom Evans,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Freestyle,SCY,M,45-49,59.39,Matthew A Painter,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Freestyle,SCY,M,45-49,59.52,Barry A Whaley,,SKY SCY Mini-meet,2005,5
+SKY,100 Y Freestyle,SCY,M,45-49,1:03.88,Wally J Ferrier,,Wildcat Master's Invitational,2005,6
+SKY,100 Y Freestyle,SCY,M,45-49,1:05.13,Bill Gittings,,Barbara Stevens Memorial Meet,2005,7
+SKY,100 Y Freestyle,SCY,M,45-49,1:05.43,George Van Meter,,Wildcat Master's Invitational,2005,8
+SKY,100 Y Freestyle,SCY,M,45-49,1:25.14,David Harbison,,Barbara Stevens Memorial Meet,2005,9
+SKY,200 Y Freestyle,SCY,M,45-49,2:15.87,Barry A Whaley,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Freestyle,SCY,M,45-49,2:17.08,Matthew A Painter,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Freestyle,SCY,M,45-49,2:22.30,Wally J Ferrier,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Freestyle,SCY,M,45-49,2:25.73,George Van Meter,,Wildcat Master's Invitational,2005,4
+SKY,200 Y Freestyle,SCY,M,45-49,2:27.80,Bill Gittings,,Barbara Stevens Memorial Meet,2005,5
+SKY,500 Y Freestyle,SCY,M,45-49,5:45.85,Bill F Cox,,YMCA Nationals,2005,1
+SKY,500 Y Freestyle,SCY,M,45-49,6:06.07,Barry A Whaley,,Cardinal Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,45-49,6:21.24,George Van Meter,,Wildcat Master's Invitational,2005,3
+SKY,500 Y Freestyle,SCY,M,45-49,6:44.54,Wally J Ferrier,,Wildcat Master's Invitational,2005,4
+SKY,500 Y Freestyle,SCY,M,45-49,6:47.03,Bill Gittings,,Barbara Stevens Memorial Meet,2005,5
+SKY,1000 Y Freestyle,SCY,M,45-49,12:38.00,David Maehr,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,M,45-49,13:29.13,George Van Meter,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,M,45-49,19:43.88,Bill F Cox,,YMCA Nationals,2005,1
+SKY,1650 Y Freestyle,SCY,M,45-49,20:54.62,David Maehr,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,M,45-49,22:13.07,George Van Meter,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Backstroke,SCY,M,45-49,28.17,Mark Etter,,YMCA Nationals,2005,1
+SKY,50 Y Backstroke,SCY,M,45-49,29.92,Mark Ritter,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Backstroke,SCY,M,45-49,37.47,Bill Gittings,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Backstroke,SCY,M,45-49,47.98,David Harbison,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Backstroke,SCY,M,45-49,1:01.93,Mark Etter,,YMCA Nationals,2005,1
+SKY,100 Y Backstroke,SCY,M,45-49,1:08.66,Matthew A Painter,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Backstroke,SCY,M,45-49,1:30.18,George Van Meter,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Backstroke,SCY,M,45-49,2:20.99,Mark Etter,,YMCA Nationals,2005,1
+SKY,200 Y Backstroke,SCY,M,45-49,2:31.51,Bill F Cox,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Breaststroke,SCY,M,45-49,30.90,John Voorhees,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,45-49,31.10,Cork Haberek,,YMCA Nationals,2005,2
+SKY,50 Y Breaststroke,SCY,M,45-49,32.48,Barry A Whaley,,Cardinal Invitational,2005,3
+SKY,50 Y Breaststroke,SCY,M,45-49,34.68,Tom Evans,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Breaststroke,SCY,M,45-49,45.84,Don E Smith,,Wisconsin Masters SCY Champs,2005,5
+SKY,50 Y Breaststroke,SCY,M,45-49,47.63,David Harbison,,Barbara Stevens Memorial Meet,2005,6
+SKY,100 Y Breaststroke,SCY,M,45-49,1:07.29,John Voorhees,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Breaststroke,SCY,M,45-49,1:08.07,Cork Haberek,,YMCA Nationals,2005,2
+SKY,100 Y Breaststroke,SCY,M,45-49,1:12.02,Barry A Whaley,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Breaststroke,SCY,M,45-49,1:42.24,Don E Smith,,Wisconsin Masters SCY Champs,2005,4
+SKY,200 Y Breaststroke,SCY,M,45-49,2:31.88,Cork Haberek,,YMCA Nationals,2005,1
+SKY,200 Y Breaststroke,SCY,M,45-49,2:39.09,Bill F Cox,,YMCA Nationals,2005,2
+SKY,200 Y Breaststroke,SCY,M,45-49,2:44.52,Barry A Whaley,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Breaststroke,SCY,M,45-49,3:51.07,Don E Smith,,Wisconsin Masters SCY Champs,2005,4
+SKY,50 Y Butterfly,SCY,M,45-49,26.34,John Voorhees,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,45-49,26.50,Mark Ritter,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Butterfly,SCY,M,45-49,27.84,Tom Evans,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Butterfly,SCY,M,45-49,28.48,Ken Calvert,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Butterfly,SCY,M,45-49,31.19,Wally J Ferrier,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Butterfly,SCY,M,45-49,58.77,John Voorhees,,Cardinal Invitational,2005,1
+SKY,100 Y Butterfly,SCY,M,45-49,1:03.69,Ken Calvert,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Butterfly,SCY,M,45-49,2:26.85,Ken Calvert,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Butterfly,SCY,M,45-49,2:27.04,Bill F Cox,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,M,45-49,1:01.19,John Voorhees,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,45-49,1:03.23,Cork Haberek,,YMCA Nationals,2005,2
+SKY,100 Y Individual Medley,SCY,M,45-49,1:07.57,Bill F Cox,,Wildcat Master's Invitational,2005,3
+SKY,100 Y Individual Medley,SCY,M,45-49,1:12.80,Wally J Ferrier,,Wildcat Master's Invitational,2005,4
+SKY,100 Y Individual Medley,SCY,M,45-49,1:36.31,Don E Smith,,Wisconsin Masters SCY Champs,2005,5
+SKY,200 Y Individual Medley,SCY,M,45-49,2:16.29,Cork Haberek,,YMCA Nationals,2005,1
+SKY,200 Y Individual Medley,SCY,M,45-49,2:26.48,Bill F Cox,,YMCA Nationals,2005,2
+SKY,200 Y Individual Medley,SCY,M,45-49,2:28.51,Barry A Whaley,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Individual Medley,SCY,M,45-49,3:08.86,George Van Meter,,Wildcat Master's Invitational,2005,4
+SKY,400 Y Individual Medley,SCY,M,45-49,4:54.94,Cork Haberek,,YMCA Nationals,2005,1
+SKY,400 Y Individual Medley,SCY,M,45-49,5:11.95,Ken Calvert,,Wildcat Master's Invitational,2005,2
+SKY,400 Y Individual Medley,SCY,M,45-49,5:12.43,Bill F Cox,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Freestyle,SCY,M,50-54,26.37,Mark Kraemer,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,M,50-54,26.93,James Keller,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,M,50-54,28.27,James R Hansbrough,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Freestyle,SCY,M,50-54,31.05,Jeff Stevens,,Cardinal Invitational,2005,4
+SKY,50 Y Freestyle,SCY,M,50-54,32.19,Scott Whittemore,,SKY SCY Mini-meet,2005,5
+SKY,50 Y Freestyle,SCY,M,50-54,32.92,Steve Eddy,,SKY SCY Mini-meet,2005,6
+SKY,50 Y Freestyle,SCY,M,50-54,35.08,Bruno Griffin,,Cardinal Invitational,2005,7
+SKY,100 Y Freestyle,SCY,M,50-54,57.03,James Grubbs,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Freestyle,SCY,M,50-54,1:00.51,James Keller,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Freestyle,SCY,M,50-54,1:03.66,James R Hansbrough,,Barbara Stevens Memorial Meet,2005,3
+SKY,100 Y Freestyle,SCY,M,50-54,1:08.16,Scott Whittemore,,Cardinal Invitational,2005,4
+SKY,100 Y Freestyle,SCY,M,50-54,1:08.54,Jeff Stevens,,Barbara Stevens Memorial Meet,2005,5
+SKY,100 Y Freestyle,SCY,M,50-54,1:10.64,Thomas Mester,,Barbara Stevens Memorial Meet,2005,6
+SKY,100 Y Freestyle,SCY,M,50-54,1:11.21,Steve Eddy,,SKY SCY Mini-meet,2005,7
+SKY,100 Y Freestyle,SCY,M,50-54,1:15.24,Bob Quinn,,Wildcat Master's Invitational,2005,8
+SKY,100 Y Freestyle,SCY,M,50-54,1:18.93,Bruno Griffin,,Wildcat Master's Invitational,2005,9
+SKY,200 Y Freestyle,SCY,M,50-54,2:26.76,James R Hansbrough,,Barbara Stevens Memorial Meet,2005,1
+SKY,200 Y Freestyle,SCY,M,50-54,2:33.23,Jeff Stevens,,Barbara Stevens Memorial Meet,2005,2
+SKY,200 Y Freestyle,SCY,M,50-54,2:33.39,Thomas Mester,,Barbara Stevens Memorial Meet,2005,3
+SKY,200 Y Freestyle,SCY,M,50-54,2:45.96,Bob Quinn,,Wildcat Master's Invitational,2005,4
+SKY,200 Y Freestyle,SCY,M,50-54,3:00.60,Bruno Griffin,,Wildcat Master's Invitational,2005,5
+SKY,500 Y Freestyle,SCY,M,50-54,6:26.17,Thomas Mester,,2005 USMS Short Course Nationals,2005,1
+SKY,500 Y Freestyle,SCY,M,50-54,6:56.63,James R Hansbrough,,Cardinal Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,50-54,6:57.55,Scott Whittemore,,Cardinal Invitational,2005,3
+SKY,500 Y Freestyle,SCY,M,50-54,7:02.80,Jeff Stevens,,Barbara Stevens Memorial Meet,2005,4
+SKY,1000 Y Freestyle,SCY,M,50-54,13:54.93,Thomas Mester,,Wildcat Master's Invitational,2005,1
+SKY,1000 Y Freestyle,SCY,M,50-54,14:40.06,Jeff Stevens,,Wildcat Master's Invitational,2005,2
+SKY,1650 Y Freestyle,SCY,M,50-54,22:17.58,Thomas Mester,,2005 USMS Short Course Nationals,2005,1
+SKY,1650 Y Freestyle,SCY,M,50-54,24:14.31,Jeff Stevens,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Backstroke,SCY,M,50-54,29.83,William Tingley,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Backstroke,SCY,M,50-54,33.81,Mark Kraemer,,Cardinal Invitational,2005,2
+SKY,100 Y Backstroke,SCY,M,50-54,1:03.08,William Tingley,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Breaststroke,SCY,M,50-54,32.71,Mark Kraemer,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Breaststroke,SCY,M,50-54,33.23,Larry Kress,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Breaststroke,SCY,M,50-54,34.73,James Keller,,Cardinal Invitational,2005,3
+SKY,50 Y Breaststroke,SCY,M,50-54,44.06,Bob Quinn,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Breaststroke,SCY,M,50-54,45.95,Bruno Griffin,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Breaststroke,SCY,M,50-54,1:11.56,Mark Kraemer,,2005 USMS Short Course Nationals,2005,1
+SKY,100 Y Breaststroke,SCY,M,50-54,1:13.26,Larry Kress,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Breaststroke,SCY,M,50-54,1:18.59,James Keller,,Cardinal Invitational,2005,3
+SKY,100 Y Breaststroke,SCY,M,50-54,1:32.38,Jeff Stevens,,Barbara Stevens Memorial Meet,2005,4
+SKY,200 Y Breaststroke,SCY,M,50-54,2:40.78,Larry Kress,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,M,50-54,29.43,Carlton Arnold,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,50-54,29.56,James R Hansbrough,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Butterfly,SCY,M,50-54,32.71,Thomas Mester,,Barbara Stevens Memorial Meet,2005,3
+SKY,50 Y Butterfly,SCY,M,50-54,37.04,Scott Whittemore,,SKY SCY Mini-meet,2005,4
+SKY,100 Y Butterfly,SCY,M,50-54,1:01.70,James Grubbs,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Butterfly,SCY,M,50-54,1:06.24,Carlton Arnold,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Butterfly,SCY,M,50-54,1:25.43,Scott Whittemore,,Cardinal Invitational,2005,3
+SKY,200 Y Butterfly,SCY,M,50-54,2:45.44,Carlton Arnold,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,50-54,1:06.99,James Grubbs,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Individual Medley,SCY,M,50-54,1:08.25,Mark Kraemer,,2005 USMS Short Course Nationals,2005,2
+SKY,100 Y Individual Medley,SCY,M,50-54,1:20.48,Thomas Mester,,Cardinal Invitational,2005,3
+SKY,100 Y Individual Medley,SCY,M,50-54,1:22.13,James R Hansbrough,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Individual Medley,SCY,M,50-54,1:23.64,Scott Whittemore,,Cardinal Invitational,2005,5
+SKY,100 Y Individual Medley,SCY,M,50-54,1:23.79,Jeff Stevens,,Barbara Stevens Memorial Meet,2005,6
+SKY,200 Y Individual Medley,SCY,M,50-54,2:46.90,Thomas Mester,,Barbara Stevens Memorial Meet,2005,1
+SKY,400 Y Individual Medley,SCY,M,50-54,5:24.54,William Tingley,,2005 USMS Short Course Nationals,2005,1
+SKY,50 Y Freestyle,SCY,M,55-59,26.11,Lynn Olson,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,55-59,26.65,Dennis Hamilton,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Freestyle,SCY,M,55-59,28.61,Thomas M Finnegan,,Cardinal Invitational,2005,3
+SKY,50 Y Freestyle,SCY,M,55-59,32.88,Joe Byrne,,Barbara Stevens Memorial Meet,2005,4
+SKY,50 Y Freestyle,SCY,M,55-59,35.30,Mark Rogers,,Wildcat Master's Invitational,2005,5
+SKY,100 Y Freestyle,SCY,M,55-59,56.04,Lynn Olson,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,M,55-59,1:06.09,John M Graham,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Freestyle,SCY,M,55-59,1:09.15,Thomas M Finnegan,,Cardinal Invitational,2005,3
+SKY,100 Y Freestyle,SCY,M,55-59,1:13.52,Joe Byrne,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Freestyle,SCY,M,55-59,1:23.29,Woody Turrentine,,SKY SCY Mini-meet,2005,5
+SKY,100 Y Freestyle,SCY,M,55-59,1:28.24,Mark Rogers,,Excel Aquatics Masters Meet,2005,6
+SKY,200 Y Freestyle,SCY,M,55-59,2:06.29,Jon Shastid,,Mardi Gras Master's Meet,2005,1
+SKY,200 Y Freestyle,SCY,M,55-59,2:08.79,Lynn Olson,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Freestyle,SCY,M,55-59,2:22.91,Dennis Hamilton,,Wildcat Master's Invitational,2005,3
+SKY,500 Y Freestyle,SCY,M,55-59,6:08.07,Lynn Olson,,Wildcat Master's Invitational,2005,1
+SKY,500 Y Freestyle,SCY,M,55-59,6:28.84,Dennis Hamilton,,Wildcat Master's Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,55-59,6:32.83,John M Graham,,Barbara Stevens Memorial Meet,2005,3
+SKY,500 Y Freestyle,SCY,M,55-59,7:11.18,Thomas M Finnegan,,Cardinal Invitational,2005,4
+SKY,500 Y Freestyle,SCY,M,55-59,10:03.24,Thomas Carroll,,Barbara Stevens Memorial Meet,2005,5
+SKY,1000 Y Freestyle,SCY,M,55-59,14:10.44,John M Graham,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,M,55-59,23:01.78,John M Graham,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,55-59,29.91,William Tingley,,Cardinal Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,55-59,42.50,Joe Byrne,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Backstroke,SCY,M,55-59,55.05,Mark Rogers,,Excel Aquatics Masters Meet,2005,3
+SKY,100 Y Backstroke,SCY,M,55-59,1:05.70,William Tingley,,Cardinal Invitational,2005,1
+SKY,100 Y Backstroke,SCY,M,55-59,1:31.95,Frank Diebold,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Backstroke,SCY,M,55-59,1:44.78,Woody Turrentine,,SKY SCY Mini-meet,2005,3
+SKY,200 Y Backstroke,SCY,M,55-59,2:25.03,William Tingley,,Cardinal Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,55-59,35.04,Larry Hunt,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Breaststroke,SCY,M,55-59,36.22,Woody Turrentine,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Breaststroke,SCY,M,55-59,47.99,Joe Byrne,,Barbara Stevens Memorial Meet,2005,3
+SKY,100 Y Breaststroke,SCY,M,55-59,1:17.53,Larry Hunt,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Breaststroke,SCY,M,55-59,1:32.86,John M Graham,,SKY SCY Mini-meet,2005,2
+SKY,100 Y Breaststroke,SCY,M,55-59,1:37.11,Frank Diebold,,SKY SCY Mini-meet,2005,3
+SKY,200 Y Breaststroke,SCY,M,55-59,2:53.27,Larry Hunt,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Butterfly,SCY,M,55-59,29.13,Dennis Hamilton,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,55-59,33.31,Larry Hunt,,Barbara Stevens Memorial Meet,2005,2
+SKY,50 Y Butterfly,SCY,M,55-59,35.28,Lynn Olson,,Cardinal Invitational,2005,3
+SKY,50 Y Butterfly,SCY,M,55-59,43.02,Woody Turrentine,,SKY SCY Mini-meet,2005,4
+SKY,100 Y Butterfly,SCY,M,55-59,1:08.23,Dennis Hamilton,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Butterfly,SCY,M,55-59,1:13.70,John M Graham,,Barbara Stevens Memorial Meet,2005,2
+SKY,100 Y Butterfly,SCY,M,55-59,1:17.26,Larry Hunt,,Cardinal Invitational,2005,3
+SKY,200 Y Butterfly,SCY,M,55-59,2:49.60,John M Graham,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,55-59,1:11.33,Lynn Olson,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,55-59,1:13.45,Larry Hunt,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Individual Medley,SCY,M,55-59,1:18.51,John M Graham,,SKY SCY Mini-meet,2005,3
+SKY,100 Y Individual Medley,SCY,M,55-59,1:34.43,Joe Byrne,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Individual Medley,SCY,M,55-59,1:41.41,Mark Rogers,,Wildcat Master's Invitational,2005,5
+SKY,200 Y Individual Medley,SCY,M,55-59,2:25.78,Jon Shastid,,Wildcat Master's Invitational,2005,1
+SKY,200 Y Individual Medley,SCY,M,55-59,2:32.85,Lynn Olson,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Individual Medley,SCY,M,55-59,2:43.03,Larry Hunt,,Wildcat Master's Invitational,2005,3
+SKY,200 Y Individual Medley,SCY,M,55-59,2:50.76,John M Graham,,Barbara Stevens Memorial Meet,2005,4
+SKY,400 Y Individual Medley,SCY,M,55-59,6:03.52,Larry Hunt,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Freestyle,SCY,M,60-64,43.55,Oleh B Koropey,,Cardinal Invitational,2005,1
+SKY,100 Y Freestyle,SCY,M,60-64,1:29.97,David Burgio,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Freestyle,SCY,M,60-64,1:39.96,Oleh B Koropey,,Cardinal Invitational,2005,2
+SKY,200 Y Freestyle,SCY,M,60-64,2:41.84,George T Dodge,,Cardinal Invitational,2005,1
+SKY,200 Y Freestyle,SCY,M,60-64,3:53.95,Oleh B Koropey,,Cardinal Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,60-64,6:39.67,John M Graham,,Cardinal Invitational,2005,1
+SKY,500 Y Freestyle,SCY,M,60-64,8:43.10,David Burgio,,Wildcat Master's Invitational,2005,2
+SKY,500 Y Freestyle,SCY,M,60-64,10:35.46,Oleh B Koropey,,Cardinal Invitational,2005,3
+SKY,1000 Y Freestyle,SCY,M,60-64,18:40.99,David Burgio,,Wildcat Master's Invitational,2005,1
+SKY,1650 Y Freestyle,SCY,M,60-64,30:52.30,David Burgio,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,60-64,37.41,James R Hillman,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,60-64,41.65,Bill Sturm,,Wildcat Master's Invitational,2005,2
+SKY,50 Y Backstroke,SCY,M,60-64,42.75,Ralph Johanson,,SKY SCY Mini-meet,2005,3
+SKY,50 Y Backstroke,SCY,M,60-64,53.33,David Burgio,,Barbara Stevens Memorial Meet,2005,4
+SKY,100 Y Backstroke,SCY,M,60-64,1:32.56,Ralph Johanson,,SKY SCY Mini-meet,2005,1
+SKY,100 Y Backstroke,SCY,M,60-64,1:50.59,David Burgio,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Backstroke,SCY,M,60-64,3:54.02,David Burgio,,Barbara Stevens Memorial Meet,2005,1
+SKY,50 Y Breaststroke,SCY,M,60-64,38.10,George T Dodge,,Cardinal Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,60-64,38.12,Ralph Johanson,,SKY SCY Mini-meet,2005,2
+SKY,50 Y Breaststroke,SCY,M,60-64,39.45,James R Hillman,,Wildcat Master's Invitational,2005,3
+SKY,50 Y Breaststroke,SCY,M,60-64,42.49,Bill Sturm,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Breaststroke,SCY,M,60-64,50.24,Oleh B Koropey,,Cardinal Invitational,2005,5
+SKY,100 Y Breaststroke,SCY,M,60-64,1:18.94,George T Dodge,,Cardinal Invitational,2005,1
+SKY,100 Y Breaststroke,SCY,M,60-64,1:27.35,Ralph Johanson,,Barbara Stevens Memorial Meet,2005,2
+SKY,200 Y Breaststroke,SCY,M,60-64,3:00.83,George T Dodge,,Cardinal Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,M,60-64,3:13.03,James R Hillman,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Breaststroke,SCY,M,60-64,3:15.27,Ralph Johanson,,Barbara Stevens Memorial Meet,2005,3
+SKY,200 Y Breaststroke,SCY,M,60-64,3:30.02,Bill Sturm,,Wildcat Master's Invitational,2005,4
+SKY,50 Y Butterfly,SCY,M,60-64,33.30,John M Graham,,Cardinal Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,60-64,39.51,Bill Sturm,,Wildcat Master's Invitational,2005,2
+SKY,100 Y Butterfly,SCY,M,60-64,1:14.31,John M Graham,,Cardinal Invitational,2005,1
+SKY,100 Y Butterfly,SCY,M,60-64,1:50.23,David Burgio,,Wildcat Master's Invitational,2005,2
+SKY,200 Y Butterfly,SCY,M,60-64,2:50.50,John M Graham,,Cardinal Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,60-64,1:32.11,Ralph Johanson,,Barbara Stevens Memorial Meet,2005,1
+SKY,200 Y Individual Medley,SCY,M,60-64,2:52.58,George T Dodge,,Cardinal Invitational,2005,1
+SKY,400 Y Individual Medley,SCY,M,60-64,6:12.16,John M Graham,,Cardinal Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,65-69,43.39,Ralph Johanson,,Cardinal Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,65-69,37.17,Ralph Johanson,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Breaststroke,SCY,M,65-69,1:27.88,Ralph Johanson,,Cardinal Invitational,2005,1
+SKY,200 Y Breaststroke,SCY,M,65-69,3:13.87,Ralph Johanson,,Wildcat Master's Invitational,2005,1
+SKY,100 Y Individual Medley,SCY,M,65-69,1:28.55,Ralph Johanson,,Cardinal Invitational,2005,1
+SKY,500 Y Freestyle,SCY,M,70-74,13:10.62,Joseph W Wilson,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Backstroke,SCY,M,75-79,48.39,Matthew Flanagan,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Breaststroke,SCY,M,75-79,50.81,Matthew Flanagan,,Wildcat Master's Invitational,2005,1
+SKY,50 Y Butterfly,SCY,M,75-79,49.63,Matthew Flanagan,,Wildcat Master's Invitational,2005,1
+UNAT,50 Y Backstroke,SCY,M,55-59,30.78,Jon Shastid,,Pacific Masters SCY Champs,2005,1
+UNAT,100 Y Butterfly,SCY,M,55-59,1:02.10,Jon Shastid,,Pacific Masters SCY Champs,2005,1
