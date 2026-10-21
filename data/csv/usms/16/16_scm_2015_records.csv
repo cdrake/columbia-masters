@@ -1,0 +1,465 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CSC,50 M Backstroke,SCM,W,40-44,33.14,Christine Reichart,,5th Annual Indy Masters Invitational,2015,1
+CSC,100 M Backstroke,SCM,W,40-44,1:11.78,Christine Reichart,,5th Annual Indy Masters Invitational,2015,1
+CSC,200 M Backstroke,SCM,W,40-44,2:37.83,Christine Reichart,,5th Annual Indy Masters Invitational,2015,1
+CSC,100 M Individual Medley,SCM,W,40-44,1:15.30,Christine Reichart,,5th Annual Indy Masters Invitational,2015,1
+CSC,50 M Freestyle,SCM,M,55-59,26.76,Bruce D Young,,1st Annual Last Chance at Warren,2015,1
+CSC,100 M Freestyle,SCM,M,55-59,58.49,Bruce D Young,,2015 Fall Miami Redfin Masters Meet,2015,1
+CSC,200 M Freestyle,SCM,M,55-59,2:10.99,Bruce D Young,,2015 Fall Miami Redfin Masters Meet,2015,1
+CSC,50 M Backstroke,SCM,M,55-59,33.43,Bruce D Young,,5th Annual Indy Masters Invitational,2015,1
+CSC,50 M Butterfly,SCM,M,55-59,29.93,Bruce D Young,,5th Annual Indy Masters Invitational,2015,1
+CSC,100 M Individual Medley,SCM,M,55-59,1:09.45,Bruce D Young,,5th Annual Indy Masters Invitational,2015,1
+CSC,200 M Individual Medley,SCM,M,55-59,2:31.29,Bruce D Young,,5th Annual Indy Masters Invitational,2015,1
+CSC,400 M Individual Medley,SCM,M,55-59,5:29.74,Bruce D Young,,1st Annual Last Chance at Warren,2015,1
+DLMA,100 M Freestyle,SCM,W,25-29,1:10.44,Holly Williams,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DLMA,100 M Breaststroke,SCM,W,25-29,1:34.58,Holly Williams,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DLMA,100 M Butterfly,SCM,W,25-29,1:15.31,Holly Williams,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DLMA,200 M Individual Medley,SCM,W,25-29,2:46.71,Holly Williams,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DLMA,50 M Freestyle,SCM,W,45-49,39.10,Terri J Steinhubel,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DLMA,100 M Freestyle,SCM,W,45-49,1:30.41,Terri J Steinhubel,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DLMA,200 M Freestyle,SCM,W,45-49,3:31.11,Terri J Steinhubel,,2015 PPSC Masters,2015,1
+DLMA,400 M Freestyle,SCM,W,45-49,7:10.48,Terri J Steinhubel,,2015 PPSC Masters,2015,1
+DLMA,50 M Freestyle,SCM,M,50-54,28.41,Charles A Hurst,,2015 PPSC Masters,2015,1
+DLMA,50 M Backstroke,SCM,M,50-54,34.74,Charles A Hurst,,2015 PPSC Masters,2015,1
+DLMA,50 M Breaststroke,SCM,M,50-54,38.66,Charles A Hurst,,2015 PPSC Masters,2015,1
+DLMA,50 M Butterfly,SCM,M,50-54,31.31,Charles A Hurst,,2015 PPSC Masters,2015,1
+DLMA,50 M Freestyle,SCM,M,60-64,28.38,Peter DeWitt,,2015 PPSC Masters,2015,1
+DLMA,50 M Freestyle,SCM,M,60-64,40.55,James W Cahillane,,2015 PPSC Masters,2015,2
+DLMA,50 M Freestyle,SCM,M,60-64,43.13,Stephen Freeman,,Master's Tri-Meet PPSC/Valpo/Munster,2015,3
+DLMA,100 M Freestyle,SCM,M,60-64,1:06.44,Peter DeWitt,,2015 PPSC Masters,2015,1
+DLMA,100 M Freestyle,SCM,M,60-64,1:33.32,James W Cahillane,,2015 PPSC Masters,2015,2
+DLMA,50 M Backstroke,SCM,M,60-64,36.70,Peter DeWitt,,2015 PPSC Masters,2015,1
+DLMA,50 M Butterfly,SCM,M,60-64,31.90,Peter DeWitt,,2015 PPSC Masters,2015,1
+DLMA,50 M Freestyle,SCM,M,75-79,42.43,Miguel A Gambetta,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+DOC,100 M Butterfly,SCM,W,50-54,1:13.92,Jutta Schickore,,The Louisville Invitational,2015,1
+DOC,200 M Butterfly,SCM,W,50-54,2:42.76,Jutta Schickore,,The Louisville Invitational,2015,1
+DOC,50 M Freestyle,SCM,M,45-49,29.12,Jeremy E Becker,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+DOC,50 M Backstroke,SCM,M,45-49,37.36,Jeremy E Becker,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+DOC,50 M Breaststroke,SCM,M,45-49,39.74,Jeremy E Becker,,Sacramento Masters 43rd Annual Sprint Short Course Meters Pentathlon,2015,1
+EAM,200 M Freestyle,SCM,W,35-39,2:45.04,Jamie Brummett,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,400 M Freestyle,SCM,W,35-39,5:48.26,Jamie Brummett,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,100 M Backstroke,SCM,W,35-39,1:28.55,Jamie Brummett,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,200 M Backstroke,SCM,W,35-39,3:08.56,Jamie Brummett,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,50 M Freestyle,SCM,M,60-64,38.97,Johan A De Jong,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,100 M Freestyle,SCM,M,60-64,1:33.77,Johan A De Jong,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,200 M Freestyle,SCM,M,60-64,3:27.46,Johan A De Jong,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,400 M Freestyle,SCM,M,60-64,7:20.64,Johan A De Jong,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,50 M Breaststroke,SCM,M,60-64,52.25,Johan A De Jong,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,50 M Freestyle,SCM,M,70-74,33.37,Richard K Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,200 M Freestyle,SCM,M,70-74,2:44.55,Richard K Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,400 M Freestyle,SCM,M,70-74,5:53.46,Richard K Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,200 M Individual Medley,SCM,M,70-74,3:14.45,Richard K Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+EAM,50 M Freestyle,SCM,M,75-79,47.18,Samuel H Neff,,Huntsman World Senior Games,2015,1
+EAM,400 M Freestyle,SCM,M,75-79,10:46.54,Samuel H Neff,,Huntsman World Senior Games,2015,1
+EAM,800 M Freestyle,SCM,M,75-79,23:38.52,Samuel H Neff,,Huntsman World Senior Games,2015,1
+EAM,200 M Backstroke,SCM,M,75-79,5:39.36,Samuel H Neff,,Huntsman World Senior Games,2015,1
+FSAM,200 M Freestyle,SCM,W,50-54,2:39.86,Susie Shuck,,The Lakeside Mile,2015,1
+FSAM,400 M Freestyle,SCM,W,50-54,5:23.87,Susie Shuck,,The Lakeside Mile,2015,1
+FSAM,800 M Freestyle,SCM,W,50-54,10:52.77,Susie Shuck,,The Lakeside Mile,2015,1
+FSAM,1500 M Freestyle,SCM,W,50-54,20:36.28,Susie Shuck,,The Lakeside Mile,2015,1
+FSAM,50 M Butterfly,SCM,W,50-54,33.31,Susie Shuck,,The Louisville Invitational,2015,1
+FSAM,100 M Butterfly,SCM,W,50-54,1:13.80,Susie Shuck,,The Louisville Invitational,2015,1
+FSAM,200 M Butterfly,SCM,W,50-54,2:44.96,Susie Shuck,,The Louisville Invitational,2015,1
+FSAM,100 M Individual Medley,SCM,W,50-54,1:16.87,Susie Shuck,,The Louisville Invitational,2015,1
+FSAM,200 M Individual Medley,SCM,W,50-54,2:44.93,Susie Shuck,,1st Annual Last Chance at Warren,2015,1
+FSAM,400 M Individual Medley,SCM,W,50-54,5:45.37,Susie Shuck,,1st Annual Last Chance at Warren,2015,1
+FSAM,50 M Breaststroke,SCM,M,30-34,32.23,Brian Teske,,5th Annual Indy Masters Invitational,2015,1
+FSAM,100 M Breaststroke,SCM,M,30-34,1:09.92,Brian Teske,,2015 Fall Miami Redfin Masters Meet,2015,1
+FSAM,200 M Breaststroke,SCM,M,30-34,2:33.65,Brian Teske,,2015 Fall Miami Redfin Masters Meet,2015,1
+FSAM,50 M Breaststroke,SCM,M,45-49,42.88,Paul McNarney,,5th Annual Indy Masters Invitational,2015,1
+FSAM,100 M Breaststroke,SCM,M,45-49,1:34.49,Paul McNarney,,5th Annual Indy Masters Invitational,2015,1
+FSAM,200 M Breaststroke,SCM,M,45-49,3:26.25,Paul McNarney,,5th Annual Indy Masters Invitational,2015,1
+FSAM,200 M Freestyle,SCM,M,75-79,2:52.14,Artie Wolfe,,1st Annual Last Chance at Warren,2015,1
+FSAM,200 M Backstroke,SCM,M,75-79,3:26.59,Artie Wolfe,,1st Annual Last Chance at Warren,2015,1
+FSAM,100 M Butterfly,SCM,M,75-79,1:37.76,Artie Wolfe,,2015 Fall Miami Redfin Masters Meet,2015,1
+FSAM,200 M Butterfly,SCM,M,75-79,3:32.06,Artie Wolfe,,1st Annual Last Chance at Warren,2015,1
+FSAM,200 M Individual Medley,SCM,M,75-79,3:16.81,Artie Wolfe,,2015 Fall Miami Redfin Masters Meet,2015,1
+FSAM,400 M Individual Medley,SCM,M,75-79,7:00.67,Artie Wolfe,,2015 Fall Miami Redfin Masters Meet,2015,1
+FWYS,100 M Freestyle,SCM,W,25-29,1:24.85,Rachel Fuelling,,5th Annual Indy Masters Invitational,2015,1
+FWYS,50 M Breaststroke,SCM,W,25-29,45.16,Rachel Fuelling,,5th Annual Indy Masters Invitational,2015,1
+FWYS,100 M Breaststroke,SCM,W,25-29,1:38.14,Rachel Fuelling,,5th Annual Indy Masters Invitational,2015,1
+FWYS,100 M Individual Medley,SCM,W,25-29,1:35.16,Rachel Fuelling,,5th Annual Indy Masters Invitational,2015,1
+FWYS,50 M Breaststroke,SCM,M,18-24,37.72,Patrick D Smith,,5th Annual Indy Masters Invitational,2015,1
+FWYS,100 M Breaststroke,SCM,M,18-24,1:24.31,Patrick D Smith,,5th Annual Indy Masters Invitational,2015,1
+FWYS,100 M Individual Medley,SCM,M,18-24,1:16.80,Patrick D Smith,,5th Annual Indy Masters Invitational,2015,1
+FWYS,50 M Freestyle,SCM,M,60-64,31.59,David A Larsen,,5th Annual Indy Masters Invitational,2015,1
+FWYS,50 M Freestyle,SCM,M,60-64,45.07,Darrell R Poeppelmeyer,,5th Annual Indy Masters Invitational,2015,2
+FWYS,100 M Freestyle,SCM,M,60-64,1:12.35,David A Larsen,,5th Annual Indy Masters Invitational,2015,1
+FWYS,200 M Freestyle,SCM,M,60-64,2:48.16,David A Larsen,,5th Annual Indy Masters Invitational,2015,1
+FWYS,50 M Breaststroke,SCM,M,60-64,55.34,Darrell R Poeppelmeyer,,5th Annual Indy Masters Invitational,2015,1
+FWYS,100 M Individual Medley,SCM,M,60-64,1:27.06,David A Larsen,,5th Annual Indy Masters Invitational,2015,1
+GRIN,50 M Freestyle,SCM,M,40-44,30.08,Anthony J Geiss,,2015 Fall Miami Redfin Masters Meet,2015,1
+GRIN,100 M Freestyle,SCM,M,40-44,1:07.77,Anthony J Geiss,,5th Annual Indy Masters Invitational,2015,1
+GRIN,400 M Freestyle,SCM,M,40-44,5:28.73,Anthony J Geiss,,5th Annual Indy Masters Invitational,2015,1
+GRIN,50 M Butterfly,SCM,M,40-44,36.10,Anthony J Geiss,,2015 Fall Miami Redfin Masters Meet,2015,1
+GRIN,100 M Butterfly,SCM,M,40-44,1:34.50,Anthony J Geiss,,5th Annual Indy Masters Invitational,2015,1
+GRIN,50 M Freestyle,SCM,M,60-64,42.80,David R Spaethe,,5th Annual Indy Masters Invitational,2015,1
+GRIN,50 M Backstroke,SCM,M,60-64,51.11,David R Spaethe,,5th Annual Indy Masters Invitational,2015,1
+GRIN,50 M Breaststroke,SCM,M,60-64,47.86,David R Spaethe,,5th Annual Indy Masters Invitational,2015,1
+GRIN,100 M Breaststroke,SCM,M,60-64,1:44.68,David R Spaethe,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Freestyle,SCM,W,25-29,27.51,Erica L Smith,,The Louisville Invitational,2015,1
+INDY,50 M Freestyle,SCM,W,25-29,29.13,Kari Peglar,,2015 Fall Miami Redfin Masters Meet,2015,2
+INDY,100 M Freestyle,SCM,W,25-29,1:00.35,Erica L Smith,,The Louisville Invitational,2015,1
+INDY,100 M Freestyle,SCM,W,25-29,1:14.49,Hannah K Taschwer,,2015 Fall Miami Redfin Masters Meet,2015,2
+INDY,200 M Freestyle,SCM,W,25-29,2:14.64,Kari Peglar,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Freestyle,SCM,W,25-29,2:19.99,Erica L Smith,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,2
+INDY,200 M Freestyle,SCM,W,25-29,2:45.74,Hannah K Taschwer,,2015 Fall Miami Redfin Masters Meet,2015,3
+INDY,400 M Freestyle,SCM,W,25-29,5:54.31,Hannah K Taschwer,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Backstroke,SCM,W,25-29,31.87,Erica L Smith,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Backstroke,SCM,W,25-29,1:09.27,Kari Peglar,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Backstroke,SCM,W,25-29,1:14.31,Erica L Smith,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,2
+INDY,200 M Backstroke,SCM,W,25-29,2:34.62,Kari Peglar,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,W,25-29,35.26,Erica L Smith,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Breaststroke,SCM,W,25-29,40.39,Hannah K Taschwer,,2015 Fall Miami Redfin Masters Meet,2015,2
+INDY,100 M Breaststroke,SCM,W,25-29,1:16.16,Erica L Smith,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Breaststroke,SCM,W,25-29,1:28.18,Hannah K Taschwer,,2015 Fall Miami Redfin Masters Meet,2015,2
+INDY,50 M Butterfly,SCM,W,25-29,28.91,Erica L Smith,,The Louisville Invitational,2015,1
+INDY,100 M Butterfly,SCM,W,25-29,1:03.71,Erica L Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Butterfly,SCM,W,25-29,2:27.93,Erica L Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Individual Medley,SCM,W,25-29,1:07.13,Erica L Smith,,The Louisville Invitational,2015,1
+INDY,100 M Individual Medley,SCM,W,25-29,1:14.91,Kari Peglar,,5th Annual Indy Masters Invitational,2015,2
+INDY,200 M Individual Medley,SCM,W,25-29,2:27.49,Erica L Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Individual Medley,SCM,W,25-29,2:32.22,Kari Peglar,,2015 Fall Miami Redfin Masters Meet,2015,2
+INDY,400 M Individual Medley,SCM,W,25-29,5:17.40,Erica L Smith,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Freestyle,SCM,W,30-34,28.82,Megan M Carlson,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Freestyle,SCM,W,30-34,36.67,Katherine Partridge,,1st Annual Last Chance at Warren,2015,2
+INDY,50 M Freestyle,SCM,W,30-34,43.49,Stacy A Hoehle,,The Louisville Invitational,2015,3
+INDY,50 M Freestyle,SCM,W,30-34,46.39,Molly Jackson,,The Louisville Invitational,2015,4
+INDY,100 M Freestyle,SCM,W,30-34,1:24.41,Katherine Partridge,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Freestyle,SCM,W,30-34,1:42.65,Molly Jackson,,The Louisville Invitational,2015,2
+INDY,100 M Freestyle,SCM,W,30-34,1:46.00,Stacy A Hoehle,,The Louisville Invitational,2015,3
+INDY,200 M Freestyle,SCM,W,30-34,3:58.92,Molly Jackson,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Freestyle,SCM,W,30-34,4:07.89,Stacy A Hoehle,,The Louisville Invitational,2015,2
+INDY,400 M Freestyle,SCM,W,30-34,8:21.88,Molly Jackson,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Backstroke,SCM,W,30-34,35.13,Megan M Carlson,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Breaststroke,SCM,W,30-34,35.30,Megan M Carlson,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Breaststroke,SCM,W,30-34,1:01.38,Molly Jackson,,2015 Fall Miami Redfin Masters Meet,2015,2
+INDY,100 M Breaststroke,SCM,W,30-34,1:16.77,Megan M Carlson,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Butterfly,SCM,W,30-34,31.91,Megan M Carlson,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Butterfly,SCM,W,30-34,44.29,Katherine Partridge,,1st Annual Last Chance at Warren,2015,2
+INDY,100 M Individual Medley,SCM,W,30-34,1:10.26,Megan M Carlson,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Individual Medley,SCM,W,30-34,1:36.78,Katherine Partridge,,1st Annual Last Chance at Warren,2015,2
+INDY,200 M Individual Medley,SCM,W,30-34,2:35.60,Megan M Carlson,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Butterfly,SCM,W,35-39,3:56.88,Kathryn E Hicks,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Freestyle,SCM,W,40-44,31.93,Linda L Marvin,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Freestyle,SCM,W,40-44,1:09.13,Linda L Marvin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Freestyle,SCM,W,40-44,2:38.80,Linda L Marvin,,1st Annual Last Chance at Warren,2015,1
+INDY,400 M Freestyle,SCM,W,40-44,5:36.12,Linda L Marvin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,800 M Freestyle,SCM,W,40-44,11:38.96,Linda L Marvin,,2015 Warren Last Chance Time Trial,2015,1
+INDY,1500 M Freestyle,SCM,W,40-44,22:52.19,Linda L Marvin,,Urbana Short Course Meters Meet,2015,1
+INDY,50 M Backstroke,SCM,W,40-44,40.50,Linda L Marvin,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Backstroke,SCM,W,40-44,1:27.18,Linda L Marvin,,The Louisville Invitational,2015,1
+INDY,200 M Backstroke,SCM,W,40-44,3:11.39,Linda L Marvin,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,W,40-44,50.36,Linda L Marvin,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+INDY,50 M Freestyle,SCM,W,45-49,28.69,Nadine K Day,,2015 EU Swim International Invitational,2015,1
+INDY,50 M Freestyle,SCM,W,45-49,32.41,Rachel Stutsman,,1st Annual Last Chance at Warren,2015,2
+INDY,100 M Freestyle,SCM,W,45-49,1:10.58,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Freestyle,SCM,W,45-49,1:15.11,Rachel Stutsman,,1st Annual Last Chance at Warren,2015,2
+INDY,100 M Freestyle,SCM,W,45-49,1:43.25,Christi G Garcia,,1st Annual Last Chance at Warren,2015,3
+INDY,200 M Freestyle,SCM,W,45-49,2:26.92,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Freestyle,SCM,W,45-49,3:39.66,Christi G Garcia,,1st Annual Last Chance at Warren,2015,2
+INDY,400 M Freestyle,SCM,W,45-49,8:00.07,Christi G Garcia,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Backstroke,SCM,W,45-49,1:20.53,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Backstroke,SCM,W,45-49,2:48.46,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Breaststroke,SCM,W,45-49,2:54.82,Nadine K Day,,2015 EU Swim International Invitational,2015,1
+INDY,50 M Butterfly,SCM,W,45-49,33.70,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Butterfly,SCM,W,45-49,39.69,Rachel Stutsman,,1st Annual Last Chance at Warren,2015,2
+INDY,100 M Butterfly,SCM,W,45-49,1:18.50,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Butterfly,SCM,W,45-49,2:44.26,Nadine K Day,,2015 EU Swim International Invitational,2015,1
+INDY,200 M Individual Medley,SCM,W,45-49,2:41.29,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,400 M Individual Medley,SCM,W,45-49,6:01.39,Nadine K Day,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Freestyle,SCM,W,55-59,33.85,Cheryl M Gettelfinger,,Urbana Short Course Meters Meet,2015,1
+INDY,100 M Freestyle,SCM,W,55-59,1:16.19,Cheryl M Gettelfinger,,Urbana Short Course Meters Meet,2015,1
+INDY,200 M Freestyle,SCM,W,55-59,2:44.78,Cheryl M Gettelfinger,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,400 M Freestyle,SCM,W,55-59,5:52.09,Cheryl M Gettelfinger,,The Louisville Invitational,2015,1
+INDY,100 M Breaststroke,SCM,W,55-59,1:36.41,Cheryl M Gettelfinger,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Breaststroke,SCM,W,55-59,3:27.75,Cheryl M Gettelfinger,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Butterfly,SCM,W,55-59,38.33,Cheryl M Gettelfinger,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Butterfly,SCM,W,55-59,1:35.74,Cheryl M Gettelfinger,,The Louisville Invitational,2015,1
+INDY,200 M Individual Medley,SCM,W,55-59,3:16.84,Cheryl M Gettelfinger,,5th Annual Indy Masters Invitational,2015,1
+INDY,400 M Individual Medley,SCM,W,55-59,6:59.28,Cheryl M Gettelfinger,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Freestyle,SCM,W,60-64,39.01,Robin Walker,,Urbana Short Course Meters Meet,2015,1
+INDY,50 M Freestyle,SCM,W,60-64,52.14,Lori Adelson,,5th Annual Indy Masters Invitational,2015,2
+INDY,100 M Freestyle,SCM,W,60-64,2:00.34,Lori Adelson,,5th Annual Indy Masters Invitational,2015,1
+INDY,200 M Freestyle,SCM,W,60-64,4:18.64,Lori Adelson,,5th Annual Indy Masters Invitational,2015,1
+INDY,1500 M Freestyle,SCM,W,60-64,25:04.59,Robin Walker,,Urbana Short Course Meters Meet,2015,1
+INDY,50 M Breaststroke,SCM,W,60-64,1:02.37,Lori Adelson,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Butterfly,SCM,W,60-64,47.21,Robin Walker,,Urbana Short Course Meters Meet,2015,1
+INDY,50 M Freestyle,SCM,W,65-69,1:06.88,Sara L Wright,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Freestyle,SCM,W,65-69,2:27.18,Sara L Wright,,5th Annual Indy Masters Invitational,2015,1
+INDY,400 M Freestyle,SCM,W,65-69,10:19.05,Sue Cosper,,5th Annual Indy Masters Invitational,2015,1
+INDY,400 M Freestyle,SCM,W,65-69,10:42.58,Sara L Wright,,1st Annual Last Chance at Warren,2015,2
+INDY,50 M Backstroke,SCM,W,65-69,1:20.12,Sara L Wright,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Breaststroke,SCM,W,65-69,1:22.59,Sue Cosper,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Breaststroke,SCM,W,65-69,3:08.25,Sue Cosper,,5th Annual Indy Masters Invitational,2015,1
+INDY,200 M Breaststroke,SCM,W,65-69,6:25.99,Sue Cosper,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Freestyle,SCM,M,25-29,24.93,Andrew H Catlin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Freestyle,SCM,M,25-29,28.90,Ryan Brogan,,5th Annual Indy Masters Invitational,2015,2
+INDY,100 M Freestyle,SCM,M,25-29,55.89,Andrew H Catlin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Freestyle,SCM,M,25-29,1:03.15,Ryan Brogan,,5th Annual Indy Masters Invitational,2015,2
+INDY,400 M Freestyle,SCM,M,25-29,4:38.28,Andrew H Catlin,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Backstroke,SCM,M,25-29,29.94,Andrew H Catlin,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Backstroke,SCM,M,25-29,1:07.54,Andrew H Catlin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Butterfly,SCM,M,25-29,33.28,Ryan Brogan,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Butterfly,SCM,M,25-29,1:05.36,Andrew H Catlin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Individual Medley,SCM,M,25-29,1:06.54,Andrew H Catlin,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Freestyle,SCM,M,35-39,1:02.59,Stephen T Rouch,,Dr. Bill Ross Memorial Masters Swim Meet,2015,1
+INDY,100 M Freestyle,SCM,M,35-39,1:07.55,Jeremy S Forst,,5th Annual Indy Masters Invitational,2015,2
+INDY,200 M Freestyle,SCM,M,35-39,2:13.04,Stephen T Rouch,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Freestyle,SCM,M,35-39,2:15.78,Stephen T Rouch,,1st Annual Last Chance at Warren,2015,2
+INDY,400 M Freestyle,SCM,M,35-39,4:38.06,Stephen T Rouch,,1st Annual Last Chance at Warren,2015,1
+INDY,400 M Freestyle,SCM,M,35-39,4:46.66,Stephen T Rouch,,Dr. Bill Ross Memorial Masters Swim Meet,2015,2
+INDY,800 M Freestyle,SCM,M,35-39,9:40.55,Stephen T Rouch,,2015 Warren Last Chance Time Trial,2015,1
+INDY,800 M Freestyle,SCM,M,35-39,9:49.38,Stephen T Rouch,,Dr. Bill Ross Memorial Masters Swim Meet,2015,2
+INDY,1500 M Freestyle,SCM,M,35-39,18:43.61,Stephen T Rouch,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+INDY,100 M Backstroke,SCM,M,35-39,1:25.39,Stephen T Rouch,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+INDY,200 M Backstroke,SCM,M,35-39,2:42.05,Stephen T Rouch,,The Louisville Invitational,2015,1
+INDY,100 M Breaststroke,SCM,M,35-39,1:24.89,Jeremy S Forst,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Breaststroke,SCM,M,35-39,1:27.28,Stephen T Rouch,,The Louisville Invitational,2015,2
+INDY,200 M Breaststroke,SCM,M,35-39,3:07.67,Jeremy S Forst,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Butterfly,SCM,M,35-39,31.67,Stephen T Rouch,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Butterfly,SCM,M,35-39,1:13.04,Stephen T Rouch,,The Louisville Invitational,2015,1
+INDY,200 M Butterfly,SCM,M,35-39,2:40.67,Stephen T Rouch,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Individual Medley,SCM,M,35-39,1:13.69,Stephen T Rouch,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Individual Medley,SCM,M,35-39,1:14.71,Jeremy S Forst,,5th Annual Indy Masters Invitational,2015,2
+INDY,200 M Individual Medley,SCM,M,35-39,2:34.70,Stephen T Rouch,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,200 M Individual Medley,SCM,M,35-39,2:46.98,Jeremy S Forst,,5th Annual Indy Masters Invitational,2015,2
+INDY,400 M Individual Medley,SCM,M,35-39,5:26.46,Stephen T Rouch,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,400 M Individual Medley,SCM,M,35-39,5:42.58,Stephen T Rouch,,1st Annual Last Chance at Warren,2015,2
+INDY,200 M Freestyle,SCM,M,40-44,2:14.24,Mike Dolence,,5th Annual Indy Masters Invitational,2015,1
+INDY,400 M Freestyle,SCM,M,40-44,4:42.52,Mike Dolence,,5th Annual Indy Masters Invitational,2015,1
+INDY,800 M Freestyle,SCM,M,40-44,11:30.60,Mike Dolence,,2015 Warren Last Chance Time Trial,2015,1
+INDY,100 M Backstroke,SCM,M,40-44,1:14.93,Mike Dolence,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,M,40-44,39.14,Mike Dolence,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,M,40-44,52.16,Michael D Groaning,,Urbana Short Course Meters Meet,2015,2
+INDY,100 M Breaststroke,SCM,M,40-44,1:24.93,Mike Dolence,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Breaststroke,SCM,M,40-44,3:04.90,Mike Dolence,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Butterfly,SCM,M,40-44,32.97,Mike Dolence,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Individual Medley,SCM,M,40-44,2:37.67,Mike Dolence,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Freestyle,SCM,M,45-49,32.29,Stephen Uppfalt,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Freestyle,SCM,M,45-49,1:12.55,Stephen Uppfalt,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Freestyle,SCM,M,45-49,2:37.88,Stephen Uppfalt,,1st Annual Last Chance at Warren,2015,1
+INDY,400 M Freestyle,SCM,M,45-49,4:49.61,Enrique A Conterno,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Backstroke,SCM,M,45-49,39.51,Stephen Uppfalt,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Backstroke,SCM,M,45-49,1:10.27,Enrique A Conterno,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,M,45-49,42.25,Stephen Uppfalt,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Butterfly,SCM,M,45-49,1:12.47,Enrique A Conterno,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Freestyle,SCM,M,50-54,27.44,Jon Shope,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Freestyle,SCM,M,50-54,1:00.19,Jon Shope,,The Louisville Invitational,2015,1
+INDY,200 M Freestyle,SCM,M,50-54,2:16.09,Jon Shope,,1st Annual Last Chance at Warren,2015,1
+INDY,400 M Freestyle,SCM,M,50-54,5:01.21,Jon Shope,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Butterfly,SCM,M,50-54,30.94,Jon Shope,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Individual Medley,SCM,M,50-54,1:09.76,Jon Shope,,The Louisville Invitational,2015,1
+INDY,50 M Freestyle,SCM,M,55-59,28.82,Brian A Cummings,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,50 M Freestyle,SCM,M,55-59,43.93,Ken St John,,5th Annual Indy Masters Invitational,2015,2
+INDY,100 M Freestyle,SCM,M,55-59,1:08.91,Brian A Cummings,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Freestyle,SCM,M,55-59,1:39.65,Ken St John,,5th Annual Indy Masters Invitational,2015,2
+INDY,400 M Freestyle,SCM,M,55-59,5:18.51,Brian A Cummings,,The Louisville Invitational,2015,1
+INDY,400 M Freestyle,SCM,M,55-59,8:20.46,Ken St John,,5th Annual Indy Masters Invitational,2015,2
+INDY,50 M Butterfly,SCM,M,55-59,30.93,Brian A Cummings,,2015 Fall Miami Redfin Masters Meet,2015,1
+INDY,100 M Butterfly,SCM,M,55-59,1:12.06,Brian A Cummings,,The Louisville Invitational,2015,1
+INDY,50 M Freestyle,SCM,M,60-64,37.60,Phillip M Bly,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Freestyle,SCM,M,60-64,2:57.66,David W Lewis,,5th Annual Indy Masters Invitational,2015,1
+INDY,400 M Freestyle,SCM,M,60-64,6:22.17,Phillip M Bly,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Backstroke,SCM,M,60-64,40.60,David W Lewis,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,M,60-64,42.59,Phillip M Bly,,1st Annual Last Chance at Warren,2015,1
+INDY,50 M Breaststroke,SCM,M,60-64,54.73,David W Lewis,,5th Annual Indy Masters Invitational,2015,2
+INDY,100 M Breaststroke,SCM,M,60-64,1:32.68,Phillip M Bly,,1st Annual Last Chance at Warren,2015,1
+INDY,200 M Breaststroke,SCM,M,60-64,3:25.20,Phillip M Bly,,1st Annual Last Chance at Warren,2015,1
+INDY,100 M Individual Medley,SCM,M,60-64,1:38.30,David W Lewis,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Backstroke,SCM,M,75-79,40.23,David Costill,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Backstroke,SCM,M,75-79,1:33.53,George J Quigley,,5th Annual Indy Masters Invitational,2015,1
+INDY,200 M Backstroke,SCM,M,75-79,3:24.54,George J Quigley,,5th Annual Indy Masters Invitational,2015,1
+INDY,50 M Breaststroke,SCM,M,75-79,43.80,David Costill,,5th Annual Indy Masters Invitational,2015,1
+INDY,100 M Individual Medley,SCM,M,75-79,1:24.51,David Costill,,5th Annual Indy Masters Invitational,2015,1
+ISWM,100 M Breaststroke,SCM,M,50-54,1:28.48,Steve G Julian,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+JYMF,400 M Freestyle,SCM,W,25-29,5:20.70,Brittany Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,100 M Butterfly,SCM,W,25-29,1:10.86,Brittany Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,200 M Butterfly,SCM,W,25-29,2:41.52,Brittany Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,400 M Individual Medley,SCM,W,25-29,5:41.93,Brittany Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,50 M Freestyle,SCM,M,30-34,34.25,Jonathan Lynch,,5th Annual Indy Masters Invitational,2015,1
+JYMF,100 M Freestyle,SCM,M,30-34,1:14.64,Jonathan Lynch,,5th Annual Indy Masters Invitational,2015,1
+JYMF,50 M Backstroke,SCM,M,30-34,35.44,Bradley Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,200 M Backstroke,SCM,M,30-34,2:56.62,Bradley Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,50 M Breaststroke,SCM,M,30-34,42.87,Jonathan Lynch,,5th Annual Indy Masters Invitational,2015,1
+JYMF,100 M Breaststroke,SCM,M,30-34,1:38.35,Jonathan Lynch,,5th Annual Indy Masters Invitational,2015,1
+JYMF,100 M Individual Medley,SCM,M,30-34,1:18.44,Bradley Wetnight,,5th Annual Indy Masters Invitational,2015,1
+JYMF,50 M Freestyle,SCM,M,50-54,31.92,Scott A Workman,,5th Annual Indy Masters Invitational,2015,1
+JYMF,100 M Freestyle,SCM,M,50-54,1:13.92,Scott A Workman,,5th Annual Indy Masters Invitational,2015,1
+JYMF,200 M Backstroke,SCM,M,50-54,3:16.47,Scott A Workman,,5th Annual Indy Masters Invitational,2015,1
+JYMF,50 M Butterfly,SCM,M,50-54,37.05,Scott A Workman,,5th Annual Indy Masters Invitational,2015,1
+LCMA,50 M Breaststroke,SCM,M,45-49,39.76,Matthew W Gaines,,2015 PPSC Masters,2015,1
+LCMA,100 M Breaststroke,SCM,M,45-49,1:26.56,Matthew W Gaines,,2015 PPSC Masters,2015,1
+LCMA,100 M Individual Medley,SCM,M,45-49,1:23.30,Matthew W Gaines,,2015 PPSC Masters,2015,1
+LCMA,200 M Freestyle,SCM,M,50-54,5:18.78,William P Garcia,,2015 PPSC Masters,2015,1
+LCMA,50 M Backstroke,SCM,M,50-54,1:08.44,William P Garcia,,2015 PPSC Masters,2015,1
+LMS,50 M Butterfly,SCM,W,30-34,43.95,Patti Davies,,5th Annual Indy Masters Invitational,2015,1
+LMS,100 M Butterfly,SCM,W,30-34,1:38.04,Patti Davies,,5th Annual Indy Masters Invitational,2015,1
+LMS,200 M Butterfly,SCM,W,30-34,3:33.30,Patti Davies,,5th Annual Indy Masters Invitational,2015,1
+LMS,50 M Freestyle,SCM,W,35-39,30.24,Erin N Tobias,,1st Annual Last Chance at Warren,2015,1
+LMS,50 M Butterfly,SCM,W,35-39,34.26,Erin N Tobias,,1st Annual Last Chance at Warren,2015,1
+LMS,50 M Freestyle,SCM,W,55-59,38.74,Dana L Scruggs,,1st Annual Last Chance at Warren,2015,1
+LMS,100 M Freestyle,SCM,W,55-59,1:37.03,Dana L Scruggs,,1st Annual Last Chance at Warren,2015,1
+LMS,50 M Breaststroke,SCM,W,55-59,52.86,Dana L Scruggs,,1st Annual Last Chance at Warren,2015,1
+LMS,50 M Butterfly,SCM,W,55-59,47.45,Dana L Scruggs,,1st Annual Last Chance at Warren,2015,1
+LMS,100 M Individual Medley,SCM,W,55-59,1:46.47,Dana L Scruggs,,1st Annual Last Chance at Warren,2015,1
+MMA,100 M Butterfly,SCM,W,18-24,1:22.80,Katie M Dobis,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,200 M Freestyle,SCM,W,50-54,3:08.25,Elaine McCracken,,2015 PPSC Masters,2015,1
+MMA,400 M Freestyle,SCM,W,50-54,6:06.17,Barbara Bolda,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,400 M Freestyle,SCM,W,50-54,6:37.27,Elaine McCracken,,2015 PPSC Masters,2015,2
+MMA,800 M Freestyle,SCM,W,50-54,12:11.48,Barbara Bolda,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,50 M Butterfly,SCM,W,50-54,43.87,Barbara Bolda,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,100 M Individual Medley,SCM,W,50-54,1:34.94,Barbara Bolda,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,50 M Freestyle,SCM,M,18-24,31.61,Pascual A Delgado,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,50 M Freestyle,SCM,M,18-24,35.05,Daniel Carrillo,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+MMA,100 M Freestyle,SCM,M,18-24,1:23.53,Daniel Carrillo,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Freestyle,SCM,M,18-24,1:24.54,Pascual A Delgado,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+MMA,200 M Freestyle,SCM,M,18-24,2:54.03,Daniel Carrillo,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Backstroke,SCM,M,18-24,1:42.45,Pascual A Delgado,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Backstroke,SCM,M,18-24,1:52.58,Daniel Carrillo,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+MMA,100 M Breaststroke,SCM,M,18-24,1:46.36,Pascual A Delgado,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Butterfly,SCM,M,18-24,1:34.22,Pascual A Delgado,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,50 M Freestyle,SCM,M,25-29,28.31,Steven Millies,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Freestyle,SCM,M,25-29,1:08.85,Steven Millies,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,50 M Freestyle,SCM,M,30-34,27.86,Peter Rokosz,,2015 PPSC Masters,2015,1
+MMA,100 M Freestyle,SCM,M,30-34,1:03.56,Peter Rokosz,,2015 PPSC Masters,2015,1
+MMA,400 M Freestyle,SCM,M,30-34,5:48.26,Peter Rokosz,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,50 M Backstroke,SCM,M,30-34,39.22,Peter Rokosz,,2015 PPSC Masters,2015,1
+MMA,100 M Backstroke,SCM,M,30-34,1:19.81,Peter Rokosz,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,50 M Breaststroke,SCM,M,30-34,38.97,Peter Rokosz,,2015 PPSC Masters,2015,1
+MMA,100 M Breaststroke,SCM,M,30-34,1:29.11,Peter Rokosz,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,50 M Butterfly,SCM,M,30-34,39.44,Peter Rokosz,,2015 PPSC Masters,2015,1
+MMA,100 M Individual Medley,SCM,M,30-34,1:22.97,Peter Rokosz,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,50 M Freestyle,SCM,M,40-44,26.19,Bryan M Buksar,,2015 PPSC Masters,2015,1
+MMA,50 M Freestyle,SCM,M,40-44,28.64,Daniel J Zlatic,,2015 PPSC Masters,2015,2
+MMA,50 M Backstroke,SCM,M,40-44,37.70,Daniel J Zlatic,,2015 PPSC Masters,2015,1
+MMA,50 M Breaststroke,SCM,M,40-44,35.86,Daniel J Zlatic,,2015 PPSC Masters,2015,1
+MMA,50 M Butterfly,SCM,M,40-44,32.31,Daniel J Zlatic,,2015 PPSC Masters,2015,1
+MMA,50 M Freestyle,SCM,M,45-49,27.22,Michael S Carlson,,2015 PPSC Masters,2015,1
+MMA,100 M Freestyle,SCM,M,45-49,1:12.63,Michael S Carlson,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,200 M Freestyle,SCM,M,45-49,2:24.43,Michael S Carlson,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,400 M Freestyle,SCM,M,45-49,5:24.65,Michael S Carlson,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,50 M Backstroke,SCM,M,45-49,31.66,Michael S Carlson,,2015 PPSC Masters,2015,1
+MMA,100 M Backstroke,SCM,M,45-49,1:11.27,Michael S Carlson,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,100 M Breaststroke,SCM,M,45-49,1:33.05,Michael S Carlson,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,50 M Butterfly,SCM,M,45-49,29.52,Michael S Carlson,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,100 M Butterfly,SCM,M,45-49,1:09.44,Michael S Carlson,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Individual Medley,SCM,M,45-49,1:10.06,Michael S Carlson,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+MMA,200 M Individual Medley,SCM,M,45-49,2:43.85,Michael S Carlson,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,50 M Freestyle,SCM,M,55-59,31.37,John T Seaman,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+MMA,100 M Breaststroke,SCM,M,55-59,1:41.57,John T Seaman,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+NAST,50 M Freestyle,SCM,W,35-39,32.06,Barbara A Glander,,2015 PPSC Masters,2015,1
+NAST,200 M Freestyle,SCM,W,35-39,2:31.76,Barbara A Glander,,2015 PPSC Masters,2015,1
+NAST,400 M Freestyle,SCM,W,35-39,5:22.66,Barbara A Glander,,2015 PPSC Masters,2015,1
+NAST,50 M Butterfly,SCM,W,35-39,35.43,Barbara A Glander,,2015 PPSC Masters,2015,1
+NAST,50 M Freestyle,SCM,M,30-34,28.77,Nicholas Rosier,,2015 PPSC Masters,2015,1
+NAST,100 M Freestyle,SCM,M,30-34,1:17.45,Matt G Carlson,,2015 PPSC Masters,2015,1
+NAST,200 M Freestyle,SCM,M,30-34,2:57.91,Matt G Carlson,,2015 PPSC Masters,2015,1
+NAST,50 M Backstroke,SCM,M,30-34,45.08,Matt G Carlson,,2015 PPSC Masters,2015,1
+NAST,50 M Breaststroke,SCM,M,30-34,34.68,Nicholas Rosier,,2015 PPSC Masters,2015,1
+NAST,100 M Breaststroke,SCM,M,30-34,1:18.18,Nicholas Rosier,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+NAST,100 M Breaststroke,SCM,M,30-34,1:43.57,Matt G Carlson,,2015 PPSC Masters,2015,2
+NAST,50 M Butterfly,SCM,M,30-34,29.96,Nicholas Rosier,,2015 PPSC Masters,2015,1
+NAST,100 M Individual Medley,SCM,M,30-34,1:33.59,Matt G Carlson,,2015 PPSC Masters,2015,1
+NAST,50 M Freestyle,SCM,M,35-39,27.93,Christopher P Sikich,,2015 PPSC Masters,2015,1
+NAST,100 M Freestyle,SCM,M,35-39,1:00.40,Christopher P Sikich,,2015 PPSC Masters,2015,1
+NAST,400 M Freestyle,SCM,M,35-39,4:56.40,Christopher P Sikich,,2015 PPSC Masters,2015,1
+NAST,50 M Breaststroke,SCM,M,35-39,37.51,Christopher P Sikich,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Butterfly,SCM,M,35-39,31.78,Christopher P Sikich,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Freestyle,SCM,M,40-44,25.14,Frank J Smardo,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Freestyle,SCM,M,40-44,29.36,ROBERT BUNA,,1st Annual Last Chance at Warren,2015,2
+NAST,100 M Freestyle,SCM,M,40-44,1:02.22,Frank J Smardo,,1st Annual Last Chance at Warren,2015,1
+NAST,100 M Freestyle,SCM,M,40-44,1:09.73,ROBERT BUNA,,1st Annual Last Chance at Warren,2015,2
+NAST,50 M Backstroke,SCM,M,40-44,32.46,Frank J Smardo,,2015 PPSC Masters,2015,1
+NAST,50 M Backstroke,SCM,M,40-44,34.54,ROBERT BUNA,,1st Annual Last Chance at Warren,2015,2
+NAST,50 M Breaststroke,SCM,M,40-44,34.34,Frank J Smardo,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Butterfly,SCM,M,40-44,27.04,Frank J Smardo,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Butterfly,SCM,M,40-44,34.68,ROBERT BUNA,,1st Annual Last Chance at Warren,2015,2
+NAST,50 M Freestyle,SCM,M,50-54,27.96,Mark Ahonen,,1st Annual Last Chance at Warren,2015,1
+NAST,100 M Freestyle,SCM,M,50-54,1:06.08,Mark Ahonen,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Butterfly,SCM,M,50-54,31.65,Mark Ahonen,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Freestyle,SCM,M,75-79,1:16.56,Edward K Keefe,,1st Annual Last Chance at Warren,2015,1
+NAST,100 M Freestyle,SCM,M,75-79,3:04.08,Edward K Keefe,,1st Annual Last Chance at Warren,2015,1
+NAST,200 M Freestyle,SCM,M,75-79,6:29.46,Edward K Keefe,,1st Annual Last Chance at Warren,2015,1
+NAST,400 M Freestyle,SCM,M,75-79,13:02.00,Edward K Keefe,,1st Annual Last Chance at Warren,2015,1
+NAST,50 M Backstroke,SCM,M,75-79,1:43.60,Edward K Keefe,,1st Annual Last Chance at Warren,2015,1
+PPSC,50 M Freestyle,SCM,W,35-39,36.79,Rachel J Rivera,,2015 PPSC Masters,2015,1
+PPSC,100 M Freestyle,SCM,W,35-39,1:17.20,Rachel J Rivera,,2015 PPSC Masters,2015,1
+PPSC,200 M Freestyle,SCM,W,35-39,2:49.03,Rachel J Rivera,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+PPSC,200 M Freestyle,SCM,W,35-39,2:53.67,Rachel J Rivera,,2015 PPSC Masters,2015,2
+PPSC,400 M Freestyle,SCM,W,35-39,5:57.93,Rachel J Rivera,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,400 M Freestyle,SCM,W,35-39,6:03.16,Rachel J Rivera,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+PPSC,50 M Backstroke,SCM,W,35-39,46.37,Rachel J Rivera,,2015 PPSC Masters,2015,1
+PPSC,100 M Backstroke,SCM,W,35-39,1:39.37,Rachel J Rivera,,2015 PPSC Masters,2015,1
+PPSC,100 M Individual Medley,SCM,W,35-39,1:40.34,Rachel J Rivera,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,50 M Freestyle,SCM,M,18-24,26.77,Sean Parpart,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+PPSC,50 M Freestyle,SCM,M,18-24,29.24,Jeremy Mendoza,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,2
+PPSC,1500 M Freestyle,SCM,M,18-24,22:39.47,Jeremy Mendoza,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,50 M Backstroke,SCM,M,18-24,34.74,Jeremy Mendoza,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,50 M Butterfly,SCM,M,18-24,32.93,Jeremy Mendoza,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,100 M Individual Medley,SCM,M,18-24,1:17.54,Jeremy Mendoza,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,50 M Freestyle,SCM,M,30-34,29.02,James W Landis,,2015 PPSC Masters,2015,1
+PPSC,50 M Butterfly,SCM,M,30-34,29.50,James W Landis,,2015 PPSC Masters,2015,1
+PPSC,50 M Freestyle,SCM,M,35-39,33.02,George C Scott,,2015 PPSC Masters,2015,1
+PPSC,50 M Freestyle,SCM,M,35-39,41.74,Mark R Illingworth,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,2
+PPSC,100 M Freestyle,SCM,M,35-39,1:32.81,Mark R Illingworth,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+PPSC,50 M Breaststroke,SCM,M,35-39,42.27,George C Scott,,2015 PPSC Masters,2015,1
+PPSC,50 M Breaststroke,SCM,M,35-39,49.46,Mark R Illingworth,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,2
+PPSC,100 M Individual Medley,SCM,M,35-39,1:44.60,Mark R Illingworth,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+UC16,100 M Freestyle,SCM,M,35-39,1:16.54,Timothy F Senovic,,2015 PPSC Masters,2015,1
+UC16,200 M Freestyle,SCM,M,35-39,2:51.39,Timothy F Senovic,,2015 PPSC Masters,2015,1
+UC16,400 M Freestyle,SCM,M,35-39,6:12.60,Timothy F Senovic,,2015 PPSC Masters,2015,1
+UC16,50 M Freestyle,SCM,M,40-44,35.01,Anthony J Geiss,,1st Annual Last Chance at Warren,2015,1
+UC16,50 M Freestyle,SCM,M,40-44,39.13,Carl F Mishler,,2015 PPSC Masters,2015,2
+UC16,100 M Freestyle,SCM,M,40-44,1:25.15,Carl F Mishler,,2015 PPSC Masters,2015,1
+UC16,400 M Freestyle,SCM,M,40-44,6:18.30,Anthony J Geiss,,1st Annual Last Chance at Warren,2015,1
+UC16,50 M Backstroke,SCM,M,40-44,42.70,Anthony J Geiss,,1st Annual Last Chance at Warren,2015,1
+UC16,50 M Butterfly,SCM,M,40-44,37.34,Carl F Mishler,,2015 PPSC Masters,2015,1
+UC16,100 M Individual Medley,SCM,M,40-44,1:41.22,Carl F Mishler,,2015 PPSC Masters,2015,1
+UC16,50 M Freestyle,SCM,M,55-59,33.37,James D Burton,,5th Annual Indy Masters Invitational,2015,1
+UC16,50 M Breaststroke,SCM,M,55-59,49.49,James D Burton,,5th Annual Indy Masters Invitational,2015,1
+VALM,200 M Freestyle,SCM,W,25-29,2:28.70,Brittany  L Fozkos,,2015 PPSC Masters,2015,1
+VALM,400 M Freestyle,SCM,W,25-29,5:01.29,Brittany  L Fozkos,,2015 PPSC Masters,2015,1
+VALM,50 M Butterfly,SCM,W,25-29,31.92,Brittany  L Fozkos,,2015 PPSC Masters,2015,1
+VALM,50 M Freestyle,SCM,W,30-34,31.87,Amber Banning,,2015 PPSC Masters,2015,1
+VALM,100 M Freestyle,SCM,W,40-44,1:39.85,Angelina V Thompson,,2015 PPSC Masters,2015,1
+VALM,200 M Freestyle,SCM,W,40-44,3:44.83,Angelina V Thompson,,2015 PPSC Masters,2015,1
+VALM,100 M Breaststroke,SCM,W,40-44,2:05.82,Angelina V Thompson,,2015 PPSC Masters,2015,1
+VALM,200 M Breaststroke,SCM,W,40-44,4:28.93,Angelina V Thompson,,2015 PPSC Masters,2015,1
+VALM,50 M Freestyle,SCM,W,50-54,34.42,Jody Lee Kupferberg,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,200 M Freestyle,SCM,W,50-54,2:55.19,Jody Lee Kupferberg,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+VALM,50 M Backstroke,SCM,W,50-54,39.08,Jody Lee Kupferberg,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+VALM,100 M Backstroke,SCM,W,50-54,1:22.69,Jody Lee Kupferberg,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Freestyle,SCM,W,55-59,43.26,Mary Andersen,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,100 M Freestyle,SCM,W,55-59,1:35.78,Mary Andersen,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,200 M Freestyle,SCM,W,55-59,3:28.27,Mary Andersen,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Freestyle,SCM,M,18-24,27.56,Kyle T Kerr,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,100 M Freestyle,SCM,M,18-24,1:02.17,Kyle T Kerr,,2015 PPSC Masters,2015,1
+VALM,200 M Freestyle,SCM,M,18-24,2:27.17,Kyle T Kerr,,2015 PPSC Masters,2015,1
+VALM,50 M Freestyle,SCM,M,25-29,33.17,Robert A Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,100 M Freestyle,SCM,M,25-29,1:16.41,Robert A Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,200 M Freestyle,SCM,M,25-29,2:41.99,Robert A Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,400 M Freestyle,SCM,M,25-29,6:00.96,Robert A Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Freestyle,SCM,M,35-39,31.10,Jason P Pritchard,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Freestyle,SCM,M,35-39,32.09,Jeromie R Pritchard,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+VALM,100 M Freestyle,SCM,M,35-39,1:09.73,Jason P Pritchard,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,100 M Freestyle,SCM,M,35-39,1:14.58,Jeromie R Pritchard,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+VALM,200 M Freestyle,SCM,M,35-39,2:44.15,Timothy F Senovic,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,400 M Freestyle,SCM,M,35-39,5:55.63,Timothy F Senovic,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Freestyle,SCM,M,40-44,28.58,Tim J Anderson,,2015 PPSC Masters,2015,1
+VALM,50 M Freestyle,SCM,M,40-44,35.13,Jeffrey A Cunningham,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+VALM,100 M Freestyle,SCM,M,40-44,1:05.16,Tim J Anderson,,2015 PPSC Masters,2015,1
+VALM,100 M Freestyle,SCM,M,40-44,1:23.64,Jeffrey A Cunningham,,Master's Tri-Meet PPSC/Valpo/Munster,2015,2
+VALM,200 M Freestyle,SCM,M,40-44,2:27.10,Tim J Anderson,,2015 PPSC Masters,2015,1
+VALM,400 M Freestyle,SCM,M,40-44,5:16.42,Tim J Anderson,,2015 PPSC Masters,2015,1
+VALM,50 M Butterfly,SCM,M,40-44,32.10,Tim J Anderson,,2015 PPSC Masters,2015,1
+VALM,100 M Freestyle,SCM,M,50-54,1:03.99,Joe Dauginas,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+VALM,200 M Freestyle,SCM,M,50-54,2:21.48,Joe Dauginas,,2015 PPSC Masters,2015,1
+VALM,400 M Freestyle,SCM,M,50-54,4:56.06,Joe Dauginas,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Breaststroke,SCM,M,50-54,43.97,Joe Dauginas,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+VALM,100 M Breaststroke,SCM,M,50-54,1:29.82,Joe Dauginas,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,50 M Butterfly,SCM,M,50-54,32.69,Joe Dauginas,,"1st Annual PPSC ""KItchen Sink"" Invitational",2015,1
+VALM,100 M Butterfly,SCM,M,50-54,1:10.54,Joe Dauginas,,2015 PPSC Masters,2015,1
+VALM,50 M Freestyle,SCM,M,60-64,37.12,Steven L Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,100 M Freestyle,SCM,M,60-64,1:28.64,Steven L Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1
+VALM,200 M Freestyle,SCM,M,60-64,3:26.24,Steven L Langer,,Master's Tri-Meet PPSC/Valpo/Munster,2015,1

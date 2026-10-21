@@ -1,0 +1,418 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CSC,50 M Freestyle,SCM,W,18-24,31.72,Chelsey Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Backstroke,SCM,W,18-24,38.86,Chelsey Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Backstroke,SCM,W,18-24,1:26.48,Chelsey Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Butterfly,SCM,W,18-24,36.97,Chelsey Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Individual Medley,SCM,W,18-24,1:22.68,Chelsey Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Freestyle,SCM,W,45-49,33.71,Jennifer R Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Freestyle,SCM,W,45-49,40.37,Patti L Vollmer,,University of Indianapolis Masters Invitational,2010,2
+CSC,50 M Backstroke,SCM,W,45-49,43.97,Jennifer R Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Backstroke,SCM,W,45-49,48.07,Patti L Vollmer,,University of Indianapolis Masters Invitational,2010,2
+CSC,100 M Backstroke,SCM,W,45-49,1:47.68,Patti L Vollmer,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Breaststroke,SCM,W,45-49,42.24,Jennifer R Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Butterfly,SCM,W,45-49,50.37,Patti L Vollmer,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Butterfly,SCM,W,45-49,1:48.38,Patti L Vollmer,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Individual Medley,SCM,W,45-49,1:41.34,Patti L Vollmer,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Freestyle,SCM,M,18-24,26.08,Brian Dean,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Breaststroke,SCM,M,18-24,32.44,Brian Dean,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Breaststroke,SCM,M,18-24,1:11.82,Brian Dean,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Individual Medley,SCM,M,18-24,1:07.30,Brian Dean,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Freestyle,SCM,M,45-49,35.44,Rob Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Freestyle,SCM,M,45-49,36.03,Rob Beeler,,University of Indianapolis Masters Invitational,2010,2
+CSC,100 M Freestyle,SCM,M,45-49,1:22.30,Rob Joyce,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Breaststroke,SCM,M,45-49,47.72,Rob Beeler,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Individual Medley,SCM,M,45-49,1:33.44,Rob Beeler,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Freestyle,SCM,M,50-54,1:11.98,Joe T Brozinick,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Breaststroke,SCM,M,50-54,38.48,Joe T Brozinick,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Breaststroke,SCM,M,50-54,1:29.92,Joe T Brozinick,,University of Indianapolis Masters Invitational,2010,1
+CSC,50 M Butterfly,SCM,M,50-54,33.36,Joe T Brozinick,,University of Indianapolis Masters Invitational,2010,1
+CSC,100 M Individual Medley,SCM,M,50-54,1:19.73,Joe T Brozinick,,University of Indianapolis Masters Invitational,2010,1
+CSI,50 M Freestyle,SCM,W,18-24,34.06,Anastasia Meurer,,University of Indianapolis Masters Invitational,2010,1
+CSI,200 M Freestyle,SCM,W,18-24,2:49.03,Anastasia Meurer,,University of Indianapolis Masters Invitational,2010,1
+CSI,100 M Backstroke,SCM,W,18-24,1:24.02,Anastasia Meurer,,University of Indianapolis Masters Invitational,2010,1
+CSI,200 M Freestyle,SCM,M,18-24,2:25.42,Will I Jay,,University of Indianapolis Masters Invitational,2010,1
+CSI,400 M Freestyle,SCM,M,18-24,5:06.98,Will I Jay,,University of Indianapolis Masters Invitational,2010,1
+CSI,100 M Backstroke,SCM,M,18-24,1:12.40,Will I Jay,,University of Indianapolis Masters Invitational,2010,1
+CSI,50 M Breaststroke,SCM,M,18-24,35.96,Will I Jay,,University of Indianapolis Masters Invitational,2010,1
+DLMA,50 M Freestyle,SCM,W,50-54,37.26,Karen D Yanson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Backstroke,SCM,W,50-54,47.62,Karen D Yanson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Breaststroke,SCM,W,50-54,47.99,Karen D Yanson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Butterfly,SCM,W,50-54,41.76,Karen D Yanson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,100 M Individual Medley,SCM,W,50-54,1:41.25,Karen D Yanson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Freestyle,SCM,M,35-39,37.59,Michael S Sutter,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,200 M Freestyle,SCM,M,35-39,2:56.91,Michael S Sutter,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Backstroke,SCM,M,35-39,49.52,Michael S Sutter,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Breaststroke,SCM,M,35-39,51.18,Michael S Sutter,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Backstroke,SCM,M,40-44,35.76,Buck Kittredge,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,100 M Backstroke,SCM,M,40-44,1:18.35,Buck Kittredge,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,100 M Individual Medley,SCM,M,40-44,1:19.52,Buck Kittredge,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Freestyle,SCM,M,55-59,27.56,Peter DeWitt,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Freestyle,SCM,M,55-59,45.16,Maurice J Thompson,,2nd Annual Valpo Masters Invitational,2010,2
+DLMA,100 M Freestyle,SCM,M,55-59,1:30.63,Maurice J Thompson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Backstroke,SCM,M,55-59,51.30,Maurice J Thompson,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,50 M Butterfly,SCM,M,55-59,30.62,Peter DeWitt,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,100 M Butterfly,SCM,M,55-59,1:13.80,Peter DeWitt,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,100 M Individual Medley,SCM,M,55-59,1:25.11,Peter DeWitt,,2nd Annual Valpo Masters Invitational,2010,1
+DLMA,400 M Freestyle,SCM,M,60-64,6:55.45,Herb Philbrick,,2nd Annual Valpo Masters Invitational,2010,1
+DOC,400 M Freestyle,SCM,W,45-49,5:04.85,Jutta Schickore,,The Louisville Invitational,2010,1
+DOC,1500 M Freestyle,SCM,W,45-49,19:36.02,Jutta Schickore,,27th Annual Fall Classic,2010,1
+DOC,100 M Butterfly,SCM,W,45-49,1:14.62,Jutta Schickore,,The Louisville Invitational,2010,1
+DOC,200 M Butterfly,SCM,W,45-49,2:41.70,Jutta Schickore,,The Louisville Invitational,2010,1
+DOC,50 M Freestyle,SCM,M,18-24,27.91,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,100 M Freestyle,SCM,M,18-24,58.16,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,200 M Freestyle,SCM,M,18-24,2:03.38,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,400 M Freestyle,SCM,M,18-24,4:13.64,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,800 M Freestyle,SCM,M,18-24,8:34.86,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,1500 M Freestyle,SCM,M,18-24,16:08.13,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,50 M Butterfly,SCM,M,18-24,33.43,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,100 M Individual Medley,SCM,M,18-24,1:10.96,Andrew R Mueller,,27th Annual Fall Classic,2010,1
+DOC,50 M Freestyle,SCM,M,35-39,27.56,James Soare,,Illinois Libertyville Sink or Swim Classic,2010,1
+DOC,100 M Freestyle,SCM,M,35-39,1:05.31,James Soare,,Illinois Libertyville Sink or Swim Classic,2010,1
+DOC,50 M Breaststroke,SCM,M,35-39,37.37,James Soare,,Illinois Libertyville Sink or Swim Classic,2010,1
+DOC,50 M Freestyle,SCM,M,55-59,29.58,Peter R Finn,,27th Annual Fall Classic,2010,1
+DOC,50 M Backstroke,SCM,M,55-59,35.70,Peter R Finn,,27th Annual Fall Classic,2010,1
+DOC,50 M Breaststroke,SCM,M,55-59,33.78,Peter R Finn,,27th Annual Fall Classic,2010,1
+DOC,100 M Breaststroke,SCM,M,55-59,1:15.79,Peter R Finn,,The Louisville Invitational,2010,1
+GRIN,50 M Freestyle,SCM,W,35-39,32.68,Susan J Stoker,,27th Annual Fall Classic,2010,1
+GRIN,200 M Freestyle,SCM,W,35-39,2:41.46,Susan J Stoker,,27th Annual Fall Classic,2010,1
+GRIN,50 M Breaststroke,SCM,W,35-39,40.09,Susan J Stoker,,27th Annual Fall Classic,2010,1
+GRIN,100 M Breaststroke,SCM,W,35-39,1:27.62,Susan J Stoker,,27th Annual Fall Classic,2010,1
+GRIN,200 M Breaststroke,SCM,W,35-39,3:18.91,Susan J Stoker,,27th Annual Fall Classic,2010,1
+GRIN,200 M Individual Medley,SCM,W,35-39,2:57.63,Susan J Stoker,,27th Annual Fall Classic,2010,1
+GRIN,400 M Freestyle,SCM,M,35-39,5:28.67,Anthony J Geiss,,27th Annual Fall Classic,2010,1
+GRIN,50 M Backstroke,SCM,M,35-39,32.11,Bill Holland,,27th Annual Fall Classic,2010,1
+GRIN,50 M Backstroke,SCM,M,35-39,37.09,Anthony J Geiss,,University of Indianapolis Masters Invitational,2010,2
+GRIN,200 M Backstroke,SCM,M,35-39,3:02.01,Anthony J Geiss,,The Louisville Invitational,2010,1
+GRIN,50 M Breaststroke,SCM,M,35-39,40.55,Anthony J Geiss,,27th Annual Fall Classic,2010,1
+GRIN,200 M Breaststroke,SCM,M,35-39,3:19.47,Bill Holland,,27th Annual Fall Classic,2010,1
+GRIN,200 M Breaststroke,SCM,M,35-39,3:32.02,Anthony J Geiss,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,50 M Butterfly,SCM,M,35-39,29.65,Bill Holland,,27th Annual Fall Classic,2010,1
+GRIN,100 M Butterfly,SCM,M,35-39,1:15.56,Anthony J Geiss,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,200 M Butterfly,SCM,M,35-39,3:20.83,Anthony J Geiss,,The Louisville Invitational,2010,1
+GRIN,200 M Butterfly,SCM,M,35-39,3:30.36,Bill Holland,,27th Annual Fall Classic,2010,2
+GRIN,200 M Individual Medley,SCM,M,35-39,2:55.10,Anthony J Geiss,,27th Annual Fall Classic,2010,1
+GRIN,400 M Individual Medley,SCM,M,35-39,6:41.38,Anthony J Geiss,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,50 M Freestyle,SCM,M,45-49,28.23,Jim Russell,,27th Annual Fall Classic,2010,1
+GRIN,100 M Freestyle,SCM,M,45-49,1:05.60,Jim Russell,,27th Annual Fall Classic,2010,1
+GRIN,200 M Freestyle,SCM,M,45-49,2:28.71,Jim Russell,,27th Annual Fall Classic,2010,1
+GRIN,50 M Backstroke,SCM,M,45-49,36.06,Jim Russell,,27th Annual Fall Classic,2010,1
+GRIN,50 M Butterfly,SCM,M,45-49,31.02,Jim Russell,,27th Annual Fall Classic,2010,1
+GRIN,100 M Individual Medley,SCM,M,45-49,1:13.80,Jim Russell,,27th Annual Fall Classic,2010,1
+GRIN,50 M Freestyle,SCM,M,50-54,34.19,Steve Powell,,University of Indianapolis Masters Invitational,2010,1
+GRIN,50 M Breaststroke,SCM,M,50-54,43.89,Steve Powell,,University of Indianapolis Masters Invitational,2010,1
+GRIN,50 M Freestyle,SCM,M,55-59,28.74,Gary H Rodefeld,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,50 M Freestyle,SCM,M,55-59,37.62,Johan A de Jong,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,50 M Freestyle,SCM,M,55-59,39.77,David R Spaethe,,University of Indianapolis Masters Invitational,2010,3
+GRIN,100 M Freestyle,SCM,M,55-59,1:06.60,Gary H Rodefeld,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,100 M Freestyle,SCM,M,55-59,1:26.70,Johan A de Jong,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,200 M Freestyle,SCM,M,55-59,3:14.71,Johan A de Jong,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,400 M Freestyle,SCM,M,55-59,5:27.48,Gary H Rodefeld,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,400 M Freestyle,SCM,M,55-59,7:11.72,Johan A de Jong,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,50 M Backstroke,SCM,M,55-59,45.90,David R Spaethe,,University of Indianapolis Masters Invitational,2010,1
+GRIN,50 M Breaststroke,SCM,M,55-59,44.03,Gary H Rodefeld,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,50 M Breaststroke,SCM,M,55-59,44.84,David R Spaethe,,University of Indianapolis Masters Invitational,2010,2
+GRIN,100 M Breaststroke,SCM,M,55-59,1:39.74,David R Spaethe,,University of Indianapolis Masters Invitational,2010,1
+GRIN,100 M Individual Medley,SCM,M,55-59,1:37.07,David R Spaethe,,University of Indianapolis Masters Invitational,2010,1
+GRIN,50 M Freestyle,SCM,M,65-69,30.97,Richard K Smith,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,100 M Freestyle,SCM,M,65-69,1:13.52,Richard K Smith,,27th Annual Fall Classic,2010,1
+GRIN,200 M Freestyle,SCM,M,65-69,2:44.50,Richard K Smith,,27th Annual Fall Classic,2010,1
+GRIN,400 M Freestyle,SCM,M,65-69,5:49.77,Richard K Smith,,27th Annual Fall Classic,2010,1
+GRIN,400 M Freestyle,SCM,M,65-69,8:48.54,Stephen B Heiny,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,800 M Freestyle,SCM,M,65-69,12:40.47,Richard K Smith,,27th Annual Fall Classic,2010,1
+GRIN,50 M Backstroke,SCM,M,65-69,39.48,Richard K Smith,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,100 M Breaststroke,SCM,M,65-69,2:20.76,Stephen B Heiny,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,50 M Butterfly,SCM,M,65-69,35.67,Richard K Smith,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,100 M Individual Medley,SCM,M,65-69,1:24.01,Richard K Smith,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,100 M Individual Medley,SCM,M,65-69,2:19.64,Stephen B Heiny,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,200 M Individual Medley,SCM,M,65-69,3:03.26,Richard K Smith,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,200 M Individual Medley,SCM,M,65-69,4:45.37,Stephen B Heiny,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+GRIN,50 M Freestyle,SCM,M,70-74,40.44,George Murphy,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,50 M Breaststroke,SCM,M,70-74,46.95,George Murphy,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,100 M Breaststroke,SCM,M,70-74,1:51.28,George Murphy,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+GRIN,50 M Butterfly,SCM,M,70-74,44.09,George Murphy,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+HPX,50 M Freestyle,SCM,W,50-54,35.88,Jane H Ruemmele,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+HPX,100 M Freestyle,SCM,W,50-54,1:20.21,Jane H Ruemmele,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+HPX,50 M Backstroke,SCM,W,50-54,45.57,Jane H Ruemmele,,The Louisville Invitational,2010,1
+HPX,100 M Backstroke,SCM,W,50-54,1:48.35,Jane H Ruemmele,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+HPX,50 M Butterfly,SCM,W,50-54,43.72,Jane H Ruemmele,,The Louisville Invitational,2010,1
+HPX,100 M Butterfly,SCM,W,50-54,1:43.51,Jane H Ruemmele,,27th Annual Fall Classic,2010,1
+HPX,100 M Individual Medley,SCM,W,50-54,1:38.73,Jane H Ruemmele,,27th Annual Fall Classic,2010,1
+IRM,50 M Freestyle,SCM,M,50-54,44.41,Kip D Cook,,2nd Annual Valpo Masters Invitational,2010,1
+IRM,100 M Freestyle,SCM,M,50-54,1:43.94,Kip D Cook,,2nd Annual Valpo Masters Invitational,2010,1
+IRM,200 M Freestyle,SCM,M,50-54,3:49.57,Kip D Cook,,2nd Annual Valpo Masters Invitational,2010,1
+IRM,400 M Freestyle,SCM,M,50-54,7:58.49,Kip D Cook,,2nd Annual Valpo Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,W,18-24,29.93,Mallory R Mead,,2nd Annual Valpo Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,W,18-24,31.84,Thelma E Herman,,27th Annual Fall Classic,2010,2
+ISF,100 M Freestyle,SCM,W,18-24,1:04.95,Mallory R Mead,,2nd Annual Valpo Masters Invitational,2010,1
+ISF,100 M Freestyle,SCM,W,18-24,1:08.92,Thelma E Herman,,27th Annual Fall Classic,2010,2
+ISF,200 M Freestyle,SCM,W,18-24,2:30.52,Thelma E Herman,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,W,18-24,4:47.17,Mallory R Mead,,2nd Annual Valpo Masters Invitational,2010,1
+ISF,100 M Breaststroke,SCM,W,18-24,1:32.38,Thelma E Herman,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,18-24,33.87,Thelma E Herman,,27th Annual Fall Classic,2010,1
+ISF,100 M Butterfly,SCM,W,18-24,1:11.00,Mallory R Mead,,2nd Annual Valpo Masters Invitational,2010,1
+ISF,100 M Butterfly,SCM,W,18-24,1:16.98,Thelma E Herman,,27th Annual Fall Classic,2010,2
+ISF,200 M Individual Medley,SCM,W,18-24,2:39.03,Mallory R Mead,,2nd Annual Valpo Masters Invitational,2010,1
+ISF,200 M Individual Medley,SCM,W,18-24,2:48.67,Thelma E Herman,,27th Annual Fall Classic,2010,2
+ISF,50 M Freestyle,SCM,W,25-29,34.29,Patti Davies,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Freestyle,SCM,W,25-29,1:17.73,Patti Davies,,University of Indianapolis Masters Invitational,2010,1
+ISF,200 M Freestyle,SCM,W,25-29,2:44.90,Patti Davies,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,W,25-29,5:54.30,Patti Davies,,Missouri Valley SCM Championship,2010,1
+ISF,50 M Backstroke,SCM,W,25-29,40.96,Patti Davies,,Missouri Valley SCM Championship,2010,1
+ISF,100 M Backstroke,SCM,W,25-29,1:34.22,Patti Davies,,27th Annual Fall Classic,2010,1
+ISF,200 M Backstroke,SCM,W,25-29,3:11.99,Patti Davies,,27th Annual Fall Classic,2010,1
+ISF,50 M Breaststroke,SCM,W,25-29,50.30,Patti Davies,,Missouri Valley SCM Championship,2010,1
+ISF,100 M Breaststroke,SCM,W,25-29,1:55.88,Patti Davies,,University of Indianapolis Masters Invitational,2010,1
+ISF,200 M Breaststroke,SCM,W,25-29,4:00.44,Patti Davies,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,25-29,42.43,Patti Davies,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Butterfly,SCM,W,25-29,1:37.12,Patti Davies,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Individual Medley,SCM,W,25-29,1:30.09,Patti Davies,,University of Indianapolis Masters Invitational,2010,1
+ISF,200 M Individual Medley,SCM,W,25-29,3:18.00,Patti Davies,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,30-34,34.55,Kathryn E Hicks,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,30-34,35.73,Rose Jones,,27th Annual Fall Classic,2010,2
+ISF,400 M Freestyle,SCM,W,30-34,6:24.66,Kathryn E Hicks,,University of Indianapolis Masters Invitational,2010,1
+ISF,800 M Freestyle,SCM,W,30-34,11:49.25,Kathryn E Hicks,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,W,30-34,40.27,Rose Jones,,27th Annual Fall Classic,2010,1
+ISF,50 M Breaststroke,SCM,W,30-34,47.72,Kathryn E Hicks,,University of Indianapolis Masters Invitational,2010,1
+ISF,200 M Breaststroke,SCM,W,30-34,3:34.38,Kathryn E Hicks,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,30-34,37.57,Rose Jones,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,30-34,43.07,Kathryn E Hicks,,University of Indianapolis Masters Invitational,2010,2
+ISF,100 M Individual Medley,SCM,W,30-34,1:37.94,Kathryn E Hicks,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,W,35-39,31.01,Linda L Marvin,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,W,35-39,1:09.91,Linda L Marvin,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,W,35-39,2:35.22,Linda L Marvin,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,W,35-39,5:43.54,Linda L Marvin,,27th Annual Fall Classic,2010,1
+ISF,800 M Freestyle,SCM,W,35-39,11:42.38,Linda L Marvin,,27th Annual Fall Classic,2010,1
+ISF,1500 M Freestyle,SCM,W,35-39,23:24.41,Linda L Marvin,,27th Annual Fall Classic,2010,1
+ISF,100 M Breaststroke,SCM,W,35-39,1:45.26,Linda L Marvin,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,100 M Butterfly,SCM,W,35-39,1:20.47,Juliet E Port,,27th Annual Fall Classic,2010,1
+ISF,100 M Individual Medley,SCM,W,35-39,1:25.19,Linda L Marvin,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,400 M Individual Medley,SCM,W,35-39,5:59.79,Juliet E Port,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,40-44,28.25,Michelle C Harter,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,40-44,31.06,Victoria L Rian,,27th Annual Fall Classic,2010,2
+ISF,50 M Freestyle,SCM,W,40-44,35.07,Karen J Gernert,,Miami RedFin Masters Fall SCM Swim Meet,2010,3
+ISF,50 M Freestyle,SCM,W,40-44,35.97,Catherine M LaCrosse,,27th Annual Fall Classic,2010,4
+ISF,100 M Freestyle,SCM,W,40-44,1:02.05,Michelle C Harter,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,W,40-44,1:16.81,Karen J Gernert,,University of Indianapolis Masters Invitational,2010,2
+ISF,200 M Freestyle,SCM,W,40-44,2:16.47,Michelle C Harter,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,W,40-44,2:19.58,Victoria L Rian,,27th Annual Fall Classic,2010,2
+ISF,400 M Freestyle,SCM,W,40-44,4:53.41,Victoria L Rian,,27th Annual Fall Classic,2010,1
+ISF,800 M Freestyle,SCM,W,40-44,10:00.78,Victoria L Rian,,27th Annual Fall Classic,2010,1
+ISF,1500 M Freestyle,SCM,W,40-44,19:09.54,Victoria L Rian,,27th Annual Fall Classic,2010,1
+ISF,1500 M Freestyle,SCM,W,40-44,24:16.55,Catherine M LaCrosse,,27th Annual Fall Classic,2010,2
+ISF,50 M Backstroke,SCM,W,40-44,44.61,Karen J Gernert,,27th Annual Fall Classic,2010,1
+ISF,100 M Backstroke,SCM,W,40-44,1:14.43,Michelle C Harter,,27th Annual Fall Classic,2010,1
+ISF,100 M Backstroke,SCM,W,40-44,1:19.57,Victoria L Rian,,27th Annual Fall Classic,2010,2
+ISF,100 M Backstroke,SCM,W,40-44,1:36.25,Karen J Gernert,,Miami RedFin Masters Fall SCM Swim Meet,2010,3
+ISF,200 M Backstroke,SCM,W,40-44,2:41.34,Michelle C Harter,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,40-44,33.87,Victoria L Rian,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,40-44,38.27,Karen J Gernert,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+ISF,100 M Individual Medley,SCM,W,40-44,1:35.12,Karen J Gernert,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,100 M Freestyle,SCM,W,45-49,1:12.87,Lisa L Zedonis,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,W,45-49,2:35.44,Lisa L Zedonis,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,W,45-49,5:05.65,Susie Shuck,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,W,45-49,5:34.88,Lisa L Zedonis,,27th Annual Fall Classic,2010,2
+ISF,800 M Freestyle,SCM,W,45-49,10:22.74,Susie Shuck,,27th Annual Fall Classic,2010,1
+ISF,800 M Freestyle,SCM,W,45-49,11:24.54,Lisa L Zedonis,,27th Annual Fall Classic,2010,2
+ISF,1500 M Freestyle,SCM,W,45-49,21:52.10,Lisa L Zedonis,,27th Annual Fall Classic,2010,1
+ISF,200 M Backstroke,SCM,W,45-49,2:46.68,Susie Shuck,,27th Annual Fall Classic,2010,1
+ISF,100 M Butterfly,SCM,W,45-49,1:14.13,Susie Shuck,,27th Annual Fall Classic,2010,1
+ISF,200 M Butterfly,SCM,W,45-49,2:42.02,Susie Shuck,,University of Indianapolis Masters Invitational,2010,1
+ISF,200 M Individual Medley,SCM,W,45-49,2:47.05,Susie Shuck,,University of Indianapolis Masters Invitational,2010,1
+ISF,400 M Individual Medley,SCM,W,45-49,5:45.30,Susie Shuck,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,W,50-54,33.06,Cheryl M Gettelfinger,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,W,50-54,49.99,Kate A Traylor,,2nd Annual Valpo Masters Invitational,2010,2
+ISF,100 M Freestyle,SCM,W,50-54,1:13.99,Cheryl M Gettelfinger,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,W,50-54,1:48.12,Kate A Traylor,,2nd Annual Valpo Masters Invitational,2010,2
+ISF,200 M Freestyle,SCM,W,50-54,2:45.58,Cheryl M Gettelfinger,,The Louisville Invitational,2010,1
+ISF,200 M Freestyle,SCM,W,50-54,3:49.06,Kate A Traylor,,2nd Annual Valpo Masters Invitational,2010,2
+ISF,800 M Freestyle,SCM,W,50-54,11:37.74,Christine E Pedersen,,27th Annual Fall Classic,2010,1
+ISF,1500 M Freestyle,SCM,W,50-54,22:32.99,Christine E Pedersen,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,W,50-54,46.75,Dana L Scruggs,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,50 M Backstroke,SCM,W,50-54,1:02.16,Kate A Traylor,,27th Annual Fall Classic,2010,2
+ISF,100 M Backstroke,SCM,W,50-54,1:42.95,Cheryl M Gettelfinger,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,50 M Breaststroke,SCM,W,50-54,49.50,Dana L Scruggs,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,100 M Breaststroke,SCM,W,50-54,1:32.24,Cheryl M Gettelfinger,,The Louisville Invitational,2010,1
+ISF,200 M Breaststroke,SCM,W,50-54,3:19.05,Cheryl M Gettelfinger,,The Louisville Invitational,2010,1
+ISF,50 M Butterfly,SCM,W,50-54,38.04,Cheryl M Gettelfinger,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,50 M Butterfly,SCM,W,50-54,41.76,Dana L Scruggs,,Miami RedFin Masters Fall SCM Swim Meet,2010,2
+ISF,100 M Butterfly,SCM,W,50-54,1:34.66,Cheryl M Gettelfinger,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Individual Medley,SCM,W,50-54,1:36.49,Dana L Scruggs,,27th Annual Fall Classic,2010,1
+ISF,200 M Individual Medley,SCM,W,50-54,3:44.72,Dana L Scruggs,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,400 M Individual Medley,SCM,W,50-54,7:44.50,Dana L Scruggs,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,50 M Freestyle,SCM,W,55-59,40.15,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,55-59,59.17,Maren R Breitwieser,,27th Annual Fall Classic,2010,2
+ISF,100 M Freestyle,SCM,W,55-59,1:30.10,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,W,55-59,3:12.60,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,W,55-59,3:19.70,Jan C Johnson,,27th Annual Fall Classic,2010,2
+ISF,400 M Freestyle,SCM,W,55-59,6:30.34,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,W,55-59,6:50.98,Jan C Johnson,,27th Annual Fall Classic,2010,2
+ISF,800 M Freestyle,SCM,W,55-59,13:39.94,Jan C Johnson,,27th Annual Fall Classic,2010,1
+ISF,1500 M Freestyle,SCM,W,55-59,25:45.96,Jan C Johnson,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,W,55-59,47.84,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,W,55-59,1:13.32,Maren R Breitwieser,,27th Annual Fall Classic,2010,2
+ISF,100 M Backstroke,SCM,W,55-59,1:44.09,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,200 M Breaststroke,SCM,W,55-59,5:34.29,Maren R Breitwieser,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,55-59,46.45,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,55-59,1:38.34,Maren R Breitwieser,,27th Annual Fall Classic,2010,2
+ISF,100 M Individual Medley,SCM,W,55-59,1:42.83,Anne E Fisher Campbell,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,60-64,1:01.51,Sue Cosper,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,W,60-64,4:46.89,Sue Cosper,,27th Annual Fall Classic,2010,1
+ISF,800 M Freestyle,SCM,W,60-64,19:53.19,Sue Cosper,,27th Annual Fall Classic,2010,1
+ISF,200 M Breaststroke,SCM,W,60-64,6:03.12,Sue Cosper,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,65-69,39.15,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,W,65-69,1:27.84,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,100 M Breaststroke,SCM,W,65-69,1:53.00,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,W,65-69,46.18,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,100 M Butterfly,SCM,W,65-69,1:47.89,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,100 M Individual Medley,SCM,W,65-69,1:39.34,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,200 M Individual Medley,SCM,W,65-69,3:39.54,Susan L Meyers,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,W,70-74,42.98,Sally Newell,,2010 St. Nicholas SCM Invitational,2010,1
+ISF,200 M Backstroke,SCM,W,70-74,4:05.47,Sally Newell,,2010 St. Nicholas SCM Invitational,2010,1
+ISF,50 M Breaststroke,SCM,W,70-74,54.04,Sally Newell,,2010 St. Nicholas SCM Invitational,2010,1
+ISF,100 M Breaststroke,SCM,W,70-74,2:00.44,Sally Newell,,2010 St. Nicholas SCM Invitational,2010,1
+ISF,200 M Breaststroke,SCM,W,70-74,4:22.74,Sally Newell,,2010 St. Nicholas SCM Invitational,2010,1
+ISF,50 M Freestyle,SCM,M,18-24,28.72,Trevor S Roach,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Freestyle,SCM,M,18-24,1:05.23,Trevor S Roach,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Butterfly,SCM,M,18-24,29.26,Trevor S Roach,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Butterfly,SCM,M,18-24,1:07.77,Trevor S Roach,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,M,25-29,26.37,Luke J Dickson,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,M,25-29,29.21,Andrew M Roy,,27th Annual Fall Classic,2010,2
+ISF,200 M Freestyle,SCM,M,25-29,2:29.82,Andrew M Roy,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,M,25-29,28.01,Luke J Dickson,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,M,25-29,37.19,Andrew M Roy,,27th Annual Fall Classic,2010,2
+ISF,200 M Backstroke,SCM,M,25-29,2:51.71,Andrew M Roy,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,M,25-29,27.42,Luke J Dickson,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,M,25-29,34.14,Andrew M Roy,,27th Annual Fall Classic,2010,2
+ISF,50 M Freestyle,SCM,M,30-34,23.61,Ben J Christoffel,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,M,30-34,25.10,Thomas J Krajewski,,2010 Last Minute SCM Meet,2010,2
+ISF,100 M Freestyle,SCM,M,30-34,54.39,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,M,30-34,1:01.23,Mark V O'Malley,,University of Indianapolis Masters Invitational,2010,2
+ISF,200 M Freestyle,SCM,M,30-34,2:03.71,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,M,30-34,2:07.97,Mark V O'Malley,,27th Annual Fall Classic,2010,2
+ISF,50 M Backstroke,SCM,M,30-34,29.33,Thomas J Krajewski,,2010 Last Minute SCM Meet,2010,1
+ISF,100 M Backstroke,SCM,M,30-34,1:06.33,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,50 M Breaststroke,SCM,M,30-34,30.47,Ben J Christoffel,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Breaststroke,SCM,M,30-34,33.24,Mark V O'Malley,,27th Annual Fall Classic,2010,2
+ISF,100 M Breaststroke,SCM,M,30-34,1:09.34,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,100 M Breaststroke,SCM,M,30-34,1:22.20,Mark V O'Malley,,27th Annual Fall Classic,2010,2
+ISF,200 M Breaststroke,SCM,M,30-34,2:40.62,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,M,30-34,27.12,Thomas J Krajewski,,2010 Last Minute SCM Meet,2010,1
+ISF,50 M Butterfly,SCM,M,30-34,29.50,Mark V O'Malley,,27th Annual Fall Classic,2010,2
+ISF,100 M Butterfly,SCM,M,30-34,1:04.58,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,100 M Butterfly,SCM,M,30-34,1:05.10,Mark V O'Malley,,27th Annual Fall Classic,2010,2
+ISF,200 M Butterfly,SCM,M,30-34,2:25.37,Mark V O'Malley,,27th Annual Fall Classic,2010,1
+ISF,200 M Individual Medley,SCM,M,30-34,2:20.48,Ben J Christoffel,,27th Annual Fall Classic,2010,1
+ISF,200 M Individual Medley,SCM,M,30-34,2:27.59,Mark V O'Malley,,University of Indianapolis Masters Invitational,2010,2
+ISF,400 M Individual Medley,SCM,M,30-34,5:15.84,Mark V O'Malley,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,M,35-39,29.18,Ryan K Stephens,,27th Annual Fall Classic,2010,1
+ISF,800 M Freestyle,SCM,M,35-39,10:24.42,Rosendo (Sextus) L Tansinsin,,27th Annual Fall Classic,2010,1
+ISF,50 M Breaststroke,SCM,M,35-39,34.65,Ryan K Stephens,,27th Annual Fall Classic,2010,1
+ISF,100 M Breaststroke,SCM,M,35-39,1:16.16,Ryan K Stephens,,27th Annual Fall Classic,2010,1
+ISF,200 M Breaststroke,SCM,M,35-39,2:53.46,Ryan K Stephens,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,M,35-39,30.60,Ryan K Stephens,,27th Annual Fall Classic,2010,1
+ISF,100 M Individual Medley,SCM,M,35-39,1:08.72,Rosendo (Sextus) L Tansinsin,,27th Annual Fall Classic,2010,1
+ISF,200 M Individual Medley,SCM,M,35-39,2:34.71,Rosendo (Sextus) L Tansinsin,,27th Annual Fall Classic,2010,1
+ISF,400 M Individual Medley,SCM,M,35-39,5:25.66,Rosendo (Sextus) L Tansinsin,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,M,40-44,5:26.79,Jeffrey K Berridge,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Backstroke,SCM,M,40-44,33.13,Kirk T Mustard,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,100 M Backstroke,SCM,M,40-44,1:12.99,Kirk T Mustard,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,200 M Backstroke,SCM,M,40-44,2:40.09,Kirk T Mustard,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+ISF,200 M Backstroke,SCM,M,40-44,2:48.52,Jeffrey K Berridge,,University of Indianapolis Masters Invitational,2010,2
+ISF,50 M Breaststroke,SCM,M,40-44,38.37,Jeffrey K Berridge,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Butterfly,SCM,M,40-44,30.33,Kirk T Mustard,,University of Indianapolis Masters Invitational,2010,1
+ISF,200 M Individual Medley,SCM,M,40-44,2:44.60,Jeffrey K Berridge,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Freestyle,SCM,M,45-49,26.57,William M Huibregtse,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,M,45-49,59.14,William M Huibregtse,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,M,45-49,2:07.42,William M Huibregtse,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,M,45-49,4:34.74,William M Huibregtse,,27th Annual Fall Classic,2010,1
+ISF,800 M Freestyle,SCM,M,45-49,9:35.16,William M Huibregtse,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,M,50-54,39.36,Vernon C Imhoff,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,M,50-54,1:26.60,Vernon C Imhoff,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,M,50-54,3:11.79,Vernon C Imhoff,,27th Annual Fall Classic,2010,1
+ISF,400 M Freestyle,SCM,M,60-64,5:18.99,Douglas K Miller,,27th Annual Fall Classic,2010,1
+ISF,200 M Butterfly,SCM,M,60-64,2:56.73,Douglas K Miller,,27th Annual Fall Classic,2010,1
+ISF,100 M Individual Medley,SCM,M,60-64,1:21.45,Douglas K Miller,,27th Annual Fall Classic,2010,1
+ISF,200 M Individual Medley,SCM,M,60-64,2:49.93,Douglas K Miller,,27th Annual Fall Classic,2010,1
+ISF,400 M Individual Medley,SCM,M,60-64,5:59.74,Douglas K Miller,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,M,70-74,1:03.79,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,100 M Freestyle,SCM,M,70-74,2:29.88,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,200 M Freestyle,SCM,M,70-74,6:06.92,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,50 M Backstroke,SCM,M,70-74,1:26.46,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,100 M Backstroke,SCM,M,70-74,2:58.23,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,200 M Backstroke,SCM,M,70-74,4:56.54,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,50 M Breaststroke,SCM,M,70-74,1:40.13,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,M,70-74,40.03,Mel E Goldstein,,27th Annual Fall Classic,2010,1
+ISF,50 M Butterfly,SCM,M,70-74,1:28.58,John F McGinty,,27th Annual Fall Classic,2010,2
+ISF,100 M Individual Medley,SCM,M,70-74,3:03.72,John F McGinty,,27th Annual Fall Classic,2010,1
+ISF,50 M Freestyle,SCM,M,80-84,46.97,Robert L Risley,,University of Indianapolis Masters Invitational,2010,1
+ISF,50 M Butterfly,SCM,M,80-84,1:03.50,Robert L Risley,,University of Indianapolis Masters Invitational,2010,1
+ISF,100 M Individual Medley,SCM,M,80-84,2:15.01,Robert L Risley,,University of Indianapolis Masters Invitational,2010,1
+NAST,50 M Freestyle,SCM,W,50-54,33.87,Sally Childress,,27th Annual Fall Classic,2010,1
+NAST,200 M Freestyle,SCM,W,50-54,2:57.97,Sally Childress,,27th Annual Fall Classic,2010,1
+NAST,50 M Backstroke,SCM,W,50-54,42.28,Sally Childress,,27th Annual Fall Classic,2010,1
+NAST,50 M Butterfly,SCM,W,50-54,43.14,Sally Childress,,27th Annual Fall Classic,2010,1
+NAST,50 M Freestyle,SCM,M,35-39,27.92,Jeffrey M Maydak,,27th Annual Fall Classic,2010,1
+NAST,800 M Freestyle,SCM,M,35-39,9:51.85,Jeffrey M Maydak,,27th Annual Fall Classic,2010,1
+NAST,50 M Backstroke,SCM,M,35-39,30.98,Jeffrey M Maydak,,27th Annual Fall Classic,2010,1
+NAST,100 M Backstroke,SCM,M,35-39,1:06.03,Jeffrey M Maydak,,27th Annual Fall Classic,2010,1
+NAST,200 M Backstroke,SCM,M,35-39,2:23.69,Jeffrey M Maydak,,27th Annual Fall Classic,2010,1
+NAST,50 M Freestyle,SCM,M,50-54,28.99,Robert K Miller,,2nd Annual Valpo Masters Invitational,2010,1
+NAST,100 M Freestyle,SCM,M,50-54,1:04.69,Robert K Miller,,2nd Annual Valpo Masters Invitational,2010,1
+NAST,200 M Freestyle,SCM,M,50-54,2:21.78,Robert K Miller,,2nd Annual Valpo Masters Invitational,2010,1
+NAST,400 M Freestyle,SCM,M,50-54,5:06.78,Robert K Miller,,2nd Annual Valpo Masters Invitational,2010,1
+NAST,100 M Individual Medley,SCM,M,50-54,1:20.48,Robert K Miller,,2nd Annual Valpo Masters Invitational,2010,1
+NAST,50 M Freestyle,SCM,M,70-74,1:01.35,Edward K Keefe,,University of Indianapolis Masters Invitational,2010,1
+NAST,100 M Freestyle,SCM,M,70-74,2:26.68,Edward K Keefe,,27th Annual Fall Classic,2010,1
+NAST,200 M Freestyle,SCM,M,70-74,5:09.95,Edward K Keefe,,27th Annual Fall Classic,2010,1
+NAST,400 M Freestyle,SCM,M,70-74,10:52.38,Edward K Keefe,,University of Indianapolis Masters Invitational,2010,1
+NAST,800 M Freestyle,SCM,M,70-74,22:54.13,Edward K Keefe,,27th Annual Fall Classic,2010,1
+NAST,1500 M Freestyle,SCM,M,70-74,44:25.89,Edward K Keefe,,27th Annual Fall Classic,2010,1
+NAST,50 M Backstroke,SCM,M,70-74,1:34.39,Edward K Keefe,,27th Annual Fall Classic,2010,1
+NAST,100 M Backstroke,SCM,M,70-74,3:18.03,Edward K Keefe,,27th Annual Fall Classic,2010,1
+NAST,50 M Breaststroke,SCM,M,70-74,1:47.96,Edward K Keefe,,University of Indianapolis Masters Invitational,2010,1
+NSC,50 M Freestyle,SCM,W,18-24,35.96,Andrea J Klotz,,27th Annual Fall Classic,2010,1
+NSC,200 M Freestyle,SCM,W,18-24,2:54.97,Andrea J Klotz,,27th Annual Fall Classic,2010,1
+NSC,800 M Freestyle,SCM,W,18-24,12:34.33,Andrea J Klotz,,27th Annual Fall Classic,2010,1
+NSC,50 M Freestyle,SCM,W,40-44,1:00.08,Carol L Lesh,,27th Annual Fall Classic,2010,1
+NSC,200 M Freestyle,SCM,W,40-44,4:15.93,Heather L Bowling,,27th Annual Fall Classic,2010,1
+NSC,200 M Freestyle,SCM,W,40-44,5:23.04,Carol L Lesh,,27th Annual Fall Classic,2010,2
+NSC,800 M Freestyle,SCM,W,40-44,17:16.36,Heather L Bowling,,27th Annual Fall Classic,2010,1
+NSC,50 M Backstroke,SCM,W,40-44,1:03.39,Carol L Lesh,,27th Annual Fall Classic,2010,1
+NSC,200 M Backstroke,SCM,W,40-44,5:34.59,Heather L Bowling,,27th Annual Fall Classic,2010,1
+NSC,50 M Butterfly,SCM,W,40-44,2:10.91,Carol L Lesh,,27th Annual Fall Classic,2010,1
+UNAT,50 M Freestyle,SCM,W,18-24,31.69,Denise Brunton,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+UNAT,100 M Freestyle,SCM,W,18-24,1:14.11,Denise Brunton,,Beckett Ridge Masters Meet,2010,1
+UNAT,200 M Freestyle,SCM,W,18-24,2:38.73,Denise Brunton,,Beckett Ridge Masters Meet,2010,1
+UNAT,400 M Freestyle,SCM,W,18-24,5:33.89,Denise Brunton,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+UNAT,100 M Backstroke,SCM,W,18-24,1:26.31,Denise Brunton,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+UNAT,100 M Individual Medley,SCM,W,18-24,1:24.54,Denise Brunton,,Miami RedFin Masters Fall SCM Swim Meet,2010,1
+UNAT,50 M Freestyle,SCM,W,35-39,34.29,Karin M Wegner,,UCLA Bruin Masters  Short Course Meters Swim Meet,2010,1
+UNAT,200 M Freestyle,SCM,W,35-39,2:47.07,Karin M Wegner,,UCLA Bruin Masters  Short Course Meters Swim Meet,2010,1
+UNAT,50 M Freestyle,SCM,W,55-59,32.02,Karlene Denby,,Rowdy Gaines Masters Classic,2010,1
+UNAT,100 M Freestyle,SCM,W,55-59,1:13.19,Karlene Denby,,Rowdy Gaines Masters Classic,2010,1
+UNAT,200 M Freestyle,SCM,W,55-59,2:38.05,Karlene Denby,,Rowdy Gaines Masters Classic,2010,1
+UNAT,400 M Freestyle,SCM,W,55-59,5:36.81,Karlene Denby,,Rowdy Gaines Masters Classic,2010,1
+UNAT,200 M Backstroke,SCM,W,55-59,3:01.82,Karlene Denby,,Rowdy Gaines Masters Classic,2010,1
+UNAT,100 M Individual Medley,SCM,W,55-59,1:27.78,Karlene Denby,,Rowdy Gaines Masters Classic,2010,1
+UNAT,50 M Freestyle,SCM,M,35-39,27.09,Dan Wegner,,UCLA Bruin Masters  Short Course Meters Swim Meet,2010,1
+UNAT,50 M Backstroke,SCM,M,35-39,32.17,Dan Wegner,,UCLA Bruin Masters  Short Course Meters Swim Meet,2010,1
+UNAT,200 M Freestyle,SCM,M,45-49,2:57.74,Nicholas G Gatton,,27th Annual Fall Classic,2010,1
+UNAT,800 M Freestyle,SCM,M,45-49,13:17.23,Nicholas G Gatton,,27th Annual Fall Classic,2010,1
+VALM,50 M Freestyle,SCM,W,25-29,30.04,Amber Banning,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,100 M Freestyle,SCM,W,25-29,1:06.29,Amber Banning,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Breaststroke,SCM,W,25-29,41.38,Amber Banning,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,200 M Individual Medley,SCM,W,25-29,2:52.46,Amber Banning,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,100 M Freestyle,SCM,W,45-49,1:28.29,Elaine McCracken,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,200 M Freestyle,SCM,W,45-49,3:13.32,Elaine McCracken,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,400 M Freestyle,SCM,W,45-49,6:42.85,Elaine McCracken,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Backstroke,SCM,M,25-29,33.57,Justin J Reeder,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,100 M Backstroke,SCM,M,25-29,1:10.05,Justin J Reeder,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Butterfly,SCM,M,25-29,33.53,Justin J Reeder,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Freestyle,SCM,M,35-39,40.69,Carl F Mishler,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,100 M Freestyle,SCM,M,35-39,1:29.83,Carl F Mishler,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Breaststroke,SCM,M,35-39,39.01,Carl F Mishler,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Butterfly,SCM,M,35-39,39.01,Carl F Mishler,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,100 M Butterfly,SCM,M,35-39,1:27.04,Carl F Mishler,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Freestyle,SCM,M,50-54,32.04,Rick A Owens,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,50 M Freestyle,SCM,M,55-59,34.58,Steven L Langer,,2nd Annual Valpo Masters Invitational,2010,1
+VALM,100 M Freestyle,SCM,M,55-59,1:25.32,Steven L Langer,,2nd Annual Valpo Masters Invitational,2010,1
