@@ -1,0 +1,990 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AGUA,50 M Freestyle,SCM,W,18-24,31.89,Marielle Balz,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,18-24,34.03,Kellyn E Baconcini,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,W,18-24,1:07.82,Marielle Balz,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,W,18-24,1:13.11,Kellyn E Baconcini,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,200 M Freestyle,SCM,W,18-24,2:45.38,Kellyn E Baconcini,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Backstroke,SCM,W,18-24,38.41,Kellyn E Baconcini,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Backstroke,SCM,W,18-24,1:22.05,Kellyn E Baconcini,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Backstroke,SCM,W,18-24,3:00.41,Kellyn E Baconcini,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Freestyle,SCM,W,25-29,30.36,Magdalena Waszkiewicz,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,25-29,31.30,Audrey S Catipon,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,50 M Freestyle,SCM,W,25-29,32.76,Jessica C Thorpe,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,50 M Freestyle,SCM,W,25-29,33.06,Lyndsay R Hodge,,6th Bearcat Masters SCM Invitational,2013,4
+AGUA,100 M Freestyle,SCM,W,25-29,1:08.88,Audrey S Catipon,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,W,25-29,1:09.99,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,W,25-29,1:10.50,Jessica C Thorpe,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,50 M Backstroke,SCM,W,25-29,39.40,Lyndsay R Hodge,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,W,25-29,36.17,Magdalena Waszkiewicz,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,W,25-29,43.85,Lyndsay R Hodge,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,50 M Butterfly,SCM,W,25-29,35.72,Audrey S Catipon,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Butterfly,SCM,W,25-29,1:16.04,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,W,25-29,1:18.03,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,W,25-29,1:22.54,Audrey S Catipon,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Individual Medley,SCM,W,25-29,1:27.44,Lyndsay R Hodge,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,200 M Individual Medley,SCM,W,25-29,2:45.58,Erin M Merritt,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,30-34,30.26,Elizabeth Roble,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,30-34,30.72,Lindsay L Madden,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Freestyle,SCM,W,30-34,31.34,Olivia Mast,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,50 M Freestyle,SCM,W,30-34,33.08,MaryBeth Moore,,AGUA Masters SC Meter Sprint Classic,2013,4
+AGUA,50 M Freestyle,SCM,W,30-34,44.55,Christine C Duque,,6th Bearcat Masters SCM Invitational,2013,5
+AGUA,100 M Freestyle,SCM,W,30-34,1:04.22,Elizabeth Roble,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,W,30-34,1:06.63,Lindsay L Madden,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,W,30-34,1:13.39,MaryBeth Moore,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,100 M Freestyle,SCM,W,30-34,1:23.05,Sarah M Penrose,,6th Bearcat Masters SCM Invitational,2013,4
+AGUA,50 M Backstroke,SCM,W,30-34,36.75,Meghan K Newcomer,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Backstroke,SCM,W,30-34,37.74,Olivia Mast,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Backstroke,SCM,W,30-34,51.66,Christine C Duque,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,50 M Breaststroke,SCM,W,30-34,42.30,Meghan K Newcomer,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,W,30-34,47.41,Sarah M Penrose,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,50 M Breaststroke,SCM,W,30-34,1:02.58,Christine C Duque,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,100 M Breaststroke,SCM,W,30-34,1:43.87,Sarah M Penrose,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Butterfly,SCM,W,30-34,32.24,Elizabeth Roble,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,W,30-34,33.53,Lindsay L Madden,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Butterfly,SCM,W,30-34,34.48,Olivia Mast,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,50 M Butterfly,SCM,W,30-34,35.21,Meghan K Newcomer,,AGUA Masters SC Meter Sprint Classic,2013,4
+AGUA,50 M Butterfly,SCM,W,30-34,51.13,Christine C Duque,,AGUA Masters SC Meter Sprint Classic,2013,5
+AGUA,100 M Individual Medley,SCM,W,30-34,1:19.59,Meghan K Newcomer,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,W,30-34,1:21.09,Olivia Mast,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Individual Medley,SCM,W,30-34,1:50.53,Christine C Duque,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,100 M Freestyle,SCM,W,35-39,1:05.99,Chanterelle Sung,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Backstroke,SCM,W,35-39,1:18.18,Chanterelle Sung,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,W,35-39,1:27.71,Chanterelle Sung,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,W,35-39,2:46.89,Chanterelle Sung,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,45-49,44.25,Priscilla C O'Carroll,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Backstroke,SCM,W,45-49,52.04,Priscilla C O'Carroll,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,W,45-49,59.61,Priscilla C O'Carroll,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Breaststroke,SCM,W,45-49,2:13.82,Priscilla C O'Carroll,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,W,50-54,42.22,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,W,50-54,1:31.20,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,W,50-54,41.76,Hayley E Cort,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Individual Medley,SCM,W,50-54,1:24.71,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,W,50-54,2:59.25,Hayley E Cort,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,55-59,35.21,Shawn A Ehlers,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Freestyle,SCM,W,55-59,39.52,Susan H Bates,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Freestyle,SCM,W,55-59,49.81,Maura A Hanlon-Grossi,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,100 M Freestyle,SCM,W,55-59,1:18.15,Shawn A Ehlers,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Freestyle,SCM,W,55-59,2:00.93,Maura A Hanlon-Grossi,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,200 M Freestyle,SCM,W,55-59,3:47.76,Sharon M Snyder,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Backstroke,SCM,W,55-59,53.35,Susan H Bates,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,W,55-59,48.42,Shawn A Ehlers,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,W,55-59,54.74,Susan H Bates,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Butterfly,SCM,W,55-59,52.94,Sharon M Snyder,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Butterfly,SCM,W,55-59,2:04.12,Sharon M Snyder,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Butterfly,SCM,W,55-59,4:32.73,Sharon M Snyder,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,200 M Individual Medley,SCM,W,55-59,4:19.26,Sharon M Snyder,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,W,60-64,37.46,Joan P Craffey,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,100 M Freestyle,SCM,W,60-64,1:17.56,Frances E Hare,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,W,60-64,1:17.99,Joan P Craffey,,3rd Annual Thanksgiving Classic,2013,2
+AGUA,200 M Freestyle,SCM,W,60-64,2:53.41,Joan P Craffey,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,400 M Freestyle,SCM,W,60-64,5:51.23,Joan P Craffey,,"October Swim Fest, Simmons College",2013,1
+AGUA,800 M Freestyle,SCM,W,60-64,11:47.77,Joan P Craffey,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,1500 M Freestyle,SCM,W,60-64,22:08.43,Joan P Craffey,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,50 M Backstroke,SCM,W,60-64,40.97,Joan P Craffey,,Two for One Invitational (SCM Day),2013,1
+AGUA,100 M Backstroke,SCM,W,60-64,1:26.80,Joan P Craffey,,Two for One Invitational (SCM Day),2013,1
+AGUA,200 M Backstroke,SCM,W,60-64,3:02.73,Joan P Craffey,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,W,60-64,46.74,Joan P Craffey,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,100 M Breaststroke,SCM,W,60-64,1:43.48,Joan P Craffey,,"October Swim Fest, Simmons College",2013,1
+AGUA,100 M Individual Medley,SCM,W,60-64,1:30.25,Joan P Craffey,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,200 M Individual Medley,SCM,W,60-64,3:10.49,Joan P Craffey,,Two for One Invitational (SCM Day),2013,1
+AGUA,50 M Freestyle,SCM,W,70-74,44.13,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Freestyle,SCM,W,70-74,3:19.14,Jane Katz,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,400 M Freestyle,SCM,W,70-74,6:46.89,Jane Katz,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,800 M Freestyle,SCM,W,70-74,13:27.10,Jane Katz,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,1500 M Freestyle,SCM,W,70-74,25:46.23,Jane Katz,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,50 M Backstroke,SCM,W,70-74,49.90,Jane Katz,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Backstroke,SCM,W,70-74,1:47.37,Jane Katz,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Backstroke,SCM,W,70-74,3:42.41,Jane Katz,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,W,70-74,58.08,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,W,70-74,2:03.96,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,W,70-74,2:01.35,Kathleen B Sarg,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,W,70-74,4:12.78,Jane Katz,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Freestyle,SCM,M,18-24,25.48,Jonathan Champagne,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,18-24,57.09,Jonathan Champagne,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,18-24,26.90,Jonathan Champagne,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Butterfly,SCM,M,18-24,1:01.13,Jonathan Champagne,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,25-29,23.64,Bradley Test,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,25-29,26.21,Nathan C Freeman,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Freestyle,SCM,M,25-29,27.48,David A Lucena,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,50 M Freestyle,SCM,M,25-29,28.80,Arman Kayupov,,6th Bearcat Masters SCM Invitational,2013,4
+AGUA,50 M Freestyle,SCM,M,25-29,29.24,Kayvan Fathimani,,6th Bearcat Masters SCM Invitational,2013,5
+AGUA,100 M Freestyle,SCM,M,25-29,52.13,Bradley Test,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,25-29,54.01,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,M,25-29,1:01.81,David A Lucena,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,100 M Freestyle,SCM,M,25-29,1:04.22,Arman Kayupov,,6th Bearcat Masters SCM Invitational,2013,4
+AGUA,100 M Freestyle,SCM,M,25-29,1:07.60,Kayvan Fathimani,,6th Bearcat Masters SCM Invitational,2013,5
+AGUA,200 M Freestyle,SCM,M,25-29,2:14.62,Jonas Y Altman-Kurosaki,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Backstroke,SCM,M,25-29,1:02.14,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Backstroke,SCM,M,25-29,2:31.38,Jonas Y Altman-Kurosaki,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,M,25-29,35.36,David A Lucena,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,M,25-29,1:09.79,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,M,25-29,1:19.59,David A Lucena,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,200 M Breaststroke,SCM,M,25-29,3:12.03,Jonas Y Altman-Kurosaki,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Butterfly,SCM,M,25-29,30.93,David A Lucena,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,25-29,33.06,Kayvan Fathimani,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,50 M Butterfly,SCM,M,25-29,33.74,Arman Kayupov,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,100 M Butterfly,SCM,M,25-29,58.66,Bradley Test,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Butterfly,SCM,M,25-29,2:41.28,Jonas Y Altman-Kurosaki,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Individual Medley,SCM,M,25-29,1:02.51,Edward F Hagerty,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,M,25-29,1:10.25,David A Lucena,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,100 M Individual Medley,SCM,M,25-29,1:21.56,Kayvan Fathimani,,6th Bearcat Masters SCM Invitational,2013,3
+AGUA,200 M Individual Medley,SCM,M,25-29,2:28.47,Jonas Y Altman-Kurosaki,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Freestyle,SCM,M,30-34,27.59,Doug R Mark,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,30-34,1:00.16,Doug R Mark,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Freestyle,SCM,M,30-34,2:09.91,Doug R Mark,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,M,30-34,35.93,Ryan A Aiken,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Individual Medley,SCM,M,30-34,1:09.95,Doug R Mark,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,M,30-34,1:14.15,Ryan A Aiken,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,200 M Individual Medley,SCM,M,30-34,2:33.10,Doug R Mark,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Freestyle,SCM,M,35-39,1:07.63,John Ratzan,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Backstroke,SCM,M,35-39,31.99,Marc S Lener,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,35-39,30.37,Marc S Lener,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,35-39,36.55,John Ratzan,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Freestyle,SCM,M,40-44,30.92,Benjamin J Lloyd,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,40-44,35.64,Matthew F Strozier,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,M,40-44,1:07.78,Robert J Valentin,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,40-44,1:08.68,Benjamin J Lloyd,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,M,40-44,1:18.39,Matthew F Strozier,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,200 M Freestyle,SCM,M,40-44,2:29.86,Robert J Valentin,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,200 M Freestyle,SCM,M,40-44,3:26.87,Charles L Smith,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,100 M Backstroke,SCM,M,40-44,1:19.60,Robert J Valentin,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,M,40-44,1:56.83,Charles L Smith,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Breaststroke,SCM,M,40-44,4:14.70,Charles L Smith,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Butterfly,SCM,M,40-44,1:15.93,Robert J Valentin,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Butterfly,SCM,M,40-44,1:48.18,Charles L Smith,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,200 M Butterfly,SCM,M,40-44,4:04.26,Charles L Smith,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Individual Medley,SCM,M,40-44,1:48.59,Charles L Smith,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,M,40-44,2:50.80,Robert J Valentin,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,M,40-44,3:54.25,Charles L Smith,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,50 M Freestyle,SCM,M,45-49,28.08,Vladimir Gavroff,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Freestyle,SCM,M,45-49,37.22,Alister Ramirez-Marquez,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Freestyle,SCM,M,45-49,42.89,Marc A Scott,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,100 M Freestyle,SCM,M,45-49,1:25.48,Alister Ramirez-Marquez,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,45-49,1:34.89,Marc A Scott,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Backstroke,SCM,M,45-49,47.76,Alister Ramirez-Marquez,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,M,45-49,37.72,Vladimir Gavroff,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Breaststroke,SCM,M,45-49,51.32,Marc A Scott,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Butterfly,SCM,M,45-49,53.42,Alister Ramirez-Marquez,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,50-54,28.70,Robert Z Bliss,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,50-54,33.24,Andy McCutcheon,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,M,50-54,1:05.83,Matthew R Rockwood,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,50-54,1:11.74,Andy McCutcheon,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,M,50-54,1:22.60,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,50 M Backstroke,SCM,M,50-54,34.72,Robert Z Bliss,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,M,50-54,1:39.80,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,50-54,32.36,Robert Z Bliss,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,50-54,37.64,Andy McCutcheon,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Butterfly,SCM,M,50-54,46.00,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,100 M Individual Medley,SCM,M,50-54,1:25.06,Andy McCutcheon,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,M,50-54,1:39.62,Paul C Thomas,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Freestyle,SCM,M,55-59,31.80,Gilles A Chalandon,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,55-59,1:10.19,Gilles A Chalandon,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Freestyle,SCM,M,55-59,1:13.66,Steven P Sokolow,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Backstroke,SCM,M,55-59,1:26.86,Steven P Sokolow,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,55-59,36.19,Gilles A Chalandon,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,100 M Butterfly,SCM,M,55-59,1:29.96,Gilles A Chalandon,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Individual Medley,SCM,M,55-59,1:23.05,Gilles A Chalandon,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,50 M Freestyle,SCM,M,60-64,45.45,Richard A Davis,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,60-64,1:56.26,Richard A Davis,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,M,60-64,44.22,Jeffrey N Altman,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,M,60-64,46.11,Richard M Grose,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Breaststroke,SCM,M,60-64,1:39.54,Jeffrey N Altman,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Breaststroke,SCM,M,60-64,1:42.30,Richard M Grose,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Individual Medley,SCM,M,60-64,1:38.22,Jeffrey N Altman,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,65-69,37.16,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,65-69,38.95,Tom Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Freestyle,SCM,M,65-69,1:17.35,Rich Bernstein,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,65-69,1:29.68,Tom Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,200 M Freestyle,SCM,M,65-69,2:49.12,Rich Bernstein,,2013 NE-LMSC SCM Championship Meet,2013,1
+AGUA,400 M Freestyle,SCM,M,65-69,5:50.67,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,800 M Freestyle,SCM,M,65-69,11:38.31,Rich Bernstein,,2013 NE-LMSC SCM Championship Meet,2013,1
+AGUA,1500 M Freestyle,SCM,M,65-69,22:41.53,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,50 M Backstroke,SCM,M,65-69,40.47,Bob Kolonkowski,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Backstroke,SCM,M,65-69,46.61,Rich Bernstein,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,50 M Backstroke,SCM,M,65-69,53.76,Tom Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,3
+AGUA,100 M Backstroke,SCM,M,65-69,1:28.79,Bob Kolonkowski,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Backstroke,SCM,M,65-69,1:38.98,Rich Bernstein,,2013 NE-LMSC SCM Championship Meet,2013,2
+AGUA,200 M Backstroke,SCM,M,65-69,3:30.28,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,200 M Backstroke,SCM,M,65-69,3:36.21,Bob Kolonkowski,,6th Bearcat Masters SCM Invitational,2013,2
+AGUA,50 M Breaststroke,SCM,M,65-69,48.09,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,50 M Breaststroke,SCM,M,65-69,56.78,Tom Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,100 M Breaststroke,SCM,M,65-69,1:43.23,Rich Bernstein,,2013 NE-LMSC SCM Championship Meet,2013,1
+AGUA,200 M Breaststroke,SCM,M,65-69,3:36.52,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,50 M Butterfly,SCM,M,65-69,51.78,Rich Bernstein,,3rd Annual Thanksgiving Classic,2013,1
+AGUA,200 M Butterfly,SCM,M,65-69,3:35.82,Bob Kolonkowski,,6th Bearcat Masters SCM Invitational,2013,1
+AGUA,200 M Butterfly,SCM,M,65-69,4:14.65,Rich Bernstein,,2013 NE-LMSC SCM Championship Meet,2013,2
+AGUA,100 M Individual Medley,SCM,M,65-69,1:34.47,Rich Bernstein,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,M,65-69,3:17.13,Rich Bernstein,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,200 M Individual Medley,SCM,M,65-69,3:17.80,Bob Kolonkowski,,AGUA Masters SC Meter Sprint Classic,2013,2
+AGUA,400 M Individual Medley,SCM,M,65-69,6:55.52,Rich Bernstein,,2013 NE-LMSC SCM Championship Meet,2013,1
+AGUA,50 M Freestyle,SCM,M,70-74,45.82,Eugene Schloss,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,100 M Freestyle,SCM,M,70-74,1:44.02,Eugene Schloss,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Freestyle,SCM,M,80-84,37.66,Stanley J Shechter,,AGUA Masters SC Meter Sprint Classic,2013,1
+AGUA,50 M Breaststroke,SCM,M,80-84,57.02,Stanley J Shechter,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Freestyle,SCM,W,18-24,30.63,Lindsay G Hall,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,W,18-24,32.24,Cindy Lin,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,100 M Freestyle,SCM,W,18-24,1:11.86,Cindy Lin,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,800 M Freestyle,SCM,W,18-24,10:10.69,Maftuna Tuhtasinova,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Backstroke,SCM,W,18-24,1:09.50,Maftuna Tuhtasinova,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Breaststroke,SCM,W,18-24,37.41,Lindsay G Hall,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Butterfly,SCM,W,18-24,38.44,Cindy Lin,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Individual Medley,SCM,W,18-24,1:16.89,Lindsay G Hall,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,200 M Individual Medley,SCM,W,18-24,2:35.47,Maftuna Tuhtasinova,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,W,25-29,31.83,Amanda Dugan,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Freestyle,SCM,W,25-29,33.76,Brittney R Villalva,,Dallas Aquatic Masters Fall Short Course Meters Meet,2013,2
+BCTM,50 M Freestyle,SCM,W,25-29,36.67,Emily Shek,,6th Bearcat Masters SCM Invitational,2013,3
+BCTM,100 M Freestyle,SCM,W,25-29,1:10.32,Amanda Dugan,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,100 M Freestyle,SCM,W,25-29,1:24.69,Madeleine  Myers,,AGUA Masters SC Meter Sprint Classic,2013,2
+BCTM,50 M Backstroke,SCM,W,25-29,43.32,Andrea L Menio,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Breaststroke,SCM,W,25-29,43.19,Brittney R Villalva,,Dallas Aquatic Masters Fall Short Course Meters Meet,2013,1
+BCTM,50 M Breaststroke,SCM,W,25-29,43.74,Emily Shek,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,100 M Breaststroke,SCM,W,25-29,1:31.86,Brittney R Villalva,,Dallas Aquatic Masters Fall Short Course Meters Meet,2013,1
+BCTM,100 M Breaststroke,SCM,W,25-29,1:41.16,Emily Shek,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,100 M Breaststroke,SCM,W,25-29,1:48.31,Madeleine  Myers,,AGUA Masters SC Meter Sprint Classic,2013,3
+BCTM,50 M Butterfly,SCM,W,25-29,34.14,Amanda Dugan,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Butterfly,SCM,W,25-29,42.83,Andrea L Menio,,AGUA Masters SC Meter Sprint Classic,2013,2
+BCTM,100 M Butterfly,SCM,W,25-29,1:18.77,Amanda Dugan,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,100 M Individual Medley,SCM,W,25-29,1:28.07,Brittney R Villalva,,Dallas Aquatic Masters Fall Short Course Meters Meet,2013,1
+BCTM,100 M Individual Medley,SCM,W,25-29,1:36.27,Andrea L Menio,,AGUA Masters SC Meter Sprint Classic,2013,2
+BCTM,200 M Individual Medley,SCM,W,25-29,3:34.67,Madeleine  Myers,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Freestyle,SCM,W,30-34,30.38,Hayley Gonnason,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,W,30-34,37.45,Tori L Bass,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Freestyle,SCM,W,30-34,40.62,Wai Yu Yeung,,6th Bearcat Masters SCM Invitational,2013,3
+BCTM,50 M Breaststroke,SCM,W,30-34,48.01,Wai Yu Yeung,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Breaststroke,SCM,W,30-34,1:55.41,Wai Yu Yeung,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Butterfly,SCM,W,30-34,49.24,Wai Yu Yeung,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Individual Medley,SCM,W,30-34,1:59.20,Wai Yu Yeung,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,W,35-39,40.62,Nina Pearlman,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,800 M Freestyle,SCM,W,35-39,12:57.13,Tuula Vartiainen,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Breaststroke,SCM,W,35-39,51.07,Nina Pearlman,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,W,45-49,27.57,Fall Willeboordse,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,100 M Freestyle,SCM,W,45-49,1:02.52,Fall Willeboordse,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Backstroke,SCM,W,45-49,31.54,Fall Willeboordse,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,50 M Butterfly,SCM,W,45-49,30.86,Fall Willeboordse,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Butterfly,SCM,W,45-49,1:08.38,Fall Willeboordse,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Individual Medley,SCM,W,45-49,1:09.00,Fall Willeboordse,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,50 M Freestyle,SCM,W,60-64,35.18,Elizabeth J Merena,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+BCTM,100 M Freestyle,SCM,W,60-64,1:21.96,Elizabeth J Merena,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,50 M Breaststroke,SCM,W,60-64,46.22,Elizabeth J Merena,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+BCTM,100 M Breaststroke,SCM,W,60-64,1:41.93,Elizabeth J Merena,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+BCTM,200 M Breaststroke,SCM,W,60-64,3:49.82,Elizabeth J Merena,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,50 M Backstroke,SCM,W,65-69,1:26.11,Nila Shiwnath,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,18-24,25.20,Ryan Flynn,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,18-24,26.70,Kenny Kim,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Freestyle,SCM,M,18-24,27.82,Chengyin Ye,,6th Bearcat Masters SCM Invitational,2013,3
+BCTM,100 M Freestyle,SCM,M,18-24,1:02.93,Chengyin Ye,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,200 M Freestyle,SCM,M,18-24,2:07.73,Kenny Kim,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Butterfly,SCM,M,18-24,31.12,Chengyin Ye,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Butterfly,SCM,M,18-24,1:09.28,Chengyin Ye,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Butterfly,SCM,M,18-24,1:10.17,Kenny Kim,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Freestyle,SCM,M,25-29,24.68,Philip Dzieniszewski,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,25-29,24.99,Rafael E Labour,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Freestyle,SCM,M,25-29,25.11,Grant Wieczorek,,6th Bearcat Masters SCM Invitational,2013,3
+BCTM,50 M Freestyle,SCM,M,25-29,26.24,Brian D Ramirez,,6th Bearcat Masters SCM Invitational,2013,4
+BCTM,50 M Freestyle,SCM,M,25-29,28.70,Jaszver C Bauzon,,6th Bearcat Masters SCM Invitational,2013,5
+BCTM,50 M Freestyle,SCM,M,25-29,29.01,Ryan J Bosch,,AGUA Masters SC Meter Sprint Classic,2013,6
+BCTM,50 M Freestyle,SCM,M,25-29,29.65,Filip M Szymanski,,6th Bearcat Masters SCM Invitational,2013,7
+BCTM,100 M Freestyle,SCM,M,25-29,59.19,Jesse A Tibert,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Freestyle,SCM,M,25-29,1:02.44,Jaszver C Bauzon,,AGUA Masters SC Meter Sprint Classic,2013,2
+BCTM,100 M Freestyle,SCM,M,25-29,1:05.06,Ryan J Bosch,,AGUA Masters SC Meter Sprint Classic,2013,3
+BCTM,100 M Freestyle,SCM,M,25-29,1:08.23,Filip M Szymanski,,6th Bearcat Masters SCM Invitational,2013,4
+BCTM,200 M Freestyle,SCM,M,25-29,2:15.32,Jesse A Tibert,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Backstroke,SCM,M,25-29,34.78,Jaszver C Bauzon,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Backstroke,SCM,M,25-29,1:06.66,Mikey Shiwnath,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Backstroke,SCM,M,25-29,1:08.66,Haftom G Ambaye,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Breaststroke,SCM,M,25-29,31.44,Philip Dzieniszewski,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Breaststroke,SCM,M,25-29,38.71,Filip M Szymanski,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Breaststroke,SCM,M,25-29,40.06,Jaszver C Bauzon,,6th Bearcat Masters SCM Invitational,2013,3
+BCTM,100 M Breaststroke,SCM,M,25-29,1:29.37,Filip M Szymanski,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Butterfly,SCM,M,25-29,26.54,Philip Dzieniszewski,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Butterfly,SCM,M,25-29,30.14,Jaszver C Bauzon,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Butterfly,SCM,M,25-29,33.48,Ryan J Bosch,,AGUA Masters SC Meter Sprint Classic,2013,3
+BCTM,50 M Butterfly,SCM,M,25-29,35.26,Filip M Szymanski,,6th Bearcat Masters SCM Invitational,2013,4
+BCTM,100 M Butterfly,SCM,M,25-29,1:02.01,Grant Wieczorek,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Individual Medley,SCM,M,25-29,1:14.14,Jaszver C Bauzon,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,200 M Individual Medley,SCM,M,25-29,2:30.00,Haftom G Ambaye,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,30-34,28.05,Trevor R Owens,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,30-34,28.75,Paul Ulane,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Freestyle,SCM,M,30-34,28.78,Michael K Burns,,AGUA Masters SC Meter Sprint Classic,2013,3
+BCTM,50 M Freestyle,SCM,M,30-34,29.92,Joel Abreu,,6th Bearcat Masters SCM Invitational,2013,4
+BCTM,50 M Freestyle,SCM,M,30-34,39.51,Chris Calimano,,6th Bearcat Masters SCM Invitational,2013,5
+BCTM,100 M Freestyle,SCM,M,30-34,57.52,Eric Zhai,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Freestyle,SCM,M,30-34,1:01.41,Trevor R Owens,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,100 M Freestyle,SCM,M,30-34,1:03.59,Michael K Burns,,AGUA Masters SC Meter Sprint Classic,2013,3
+BCTM,100 M Freestyle,SCM,M,30-34,1:29.49,Chris Calimano,,6th Bearcat Masters SCM Invitational,2013,4
+BCTM,200 M Freestyle,SCM,M,30-34,2:09.59,Eric Zhai,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,200 M Freestyle,SCM,M,30-34,3:20.16,Chris Calimano,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Backstroke,SCM,M,30-34,54.90,Chris Calimano,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Backstroke,SCM,M,30-34,2:10.65,Chris Calimano,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Breaststroke,SCM,M,30-34,36.17,Paul Ulane,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Breaststroke,SCM,M,30-34,39.06,Joel Abreu,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,100 M Breaststroke,SCM,M,30-34,1:16.23,Noel Cedanio,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,200 M Breaststroke,SCM,M,30-34,2:38.97,Noel Cedanio,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Butterfly,SCM,M,30-34,32.65,Michael K Burns,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Butterfly,SCM,M,30-34,34.27,Paul Ulane,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,100 M Butterfly,SCM,M,30-34,1:09.90,Noel Cedanio,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Individual Medley,SCM,M,30-34,1:15.53,Michael K Burns,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,200 M Individual Medley,SCM,M,30-34,2:27.64,Eric Zhai,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,35-39,28.70,Rob Taylor,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Freestyle,SCM,M,35-39,28.76,Nathaniel R Dean,,6th Bearcat Masters SCM Invitational,2013,2
+BCTM,50 M Freestyle,SCM,M,35-39,30.25,Eric Arnold,,2013 NE-LMSC SCM Championship Meet,2013,3
+BCTM,100 M Freestyle,SCM,M,35-39,1:03.82,Rob Taylor,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,100 M Freestyle,SCM,M,35-39,1:04.89,Eric Arnold,,2013 NE-LMSC SCM Championship Meet,2013,2
+BCTM,200 M Freestyle,SCM,M,35-39,2:22.43,Nathaniel R Dean,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,400 M Freestyle,SCM,M,35-39,4:58.78,Nathaniel R Dean,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,800 M Freestyle,SCM,M,35-39,10:23.30,Nathaniel R Dean,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Backstroke,SCM,M,35-39,32.97,Cody M Jones,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Backstroke,SCM,M,35-39,1:12.05,Cody M Jones,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Breaststroke,SCM,M,35-39,36.04,Cody M Jones,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Breaststroke,SCM,M,35-39,36.65,Nathaniel R Dean,,2013 NE-LMSC SCM Championship Meet,2013,2
+BCTM,50 M Breaststroke,SCM,M,35-39,44.75,Eric Arnold,,2013 NE-LMSC SCM Championship Meet,2013,3
+BCTM,100 M Breaststroke,SCM,M,35-39,1:21.45,Nathaniel R Dean,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,200 M Breaststroke,SCM,M,35-39,2:59.31,Nathaniel R Dean,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,100 M Butterfly,SCM,M,35-39,1:25.75,Nathaniel R Dean,,2013 NE-LMSC SCM Championship Meet,2013,1
+BCTM,100 M Individual Medley,SCM,M,35-39,1:11.35,Cody M Jones,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Individual Medley,SCM,M,35-39,1:17.04,Rob Taylor,,AGUA Masters SC Meter Sprint Classic,2013,2
+BCTM,50 M Freestyle,SCM,M,40-44,29.00,Rob Code,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Freestyle,SCM,M,40-44,1:04.37,Rob Code,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,100 M Backstroke,SCM,M,40-44,1:16.70,Rob Code,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Breaststroke,SCM,M,40-44,39.77,Rob Code,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,50 M Freestyle,SCM,M,50-54,34.68,Jordan George,,6th Bearcat Masters SCM Invitational,2013,1
+BCTM,100 M Freestyle,SCM,M,50-54,1:20.49,Jordan George,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Backstroke,SCM,M,50-54,53.85,Jordan George,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Breaststroke,SCM,M,50-54,1:08.78,Jordan George,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Freestyle,SCM,M,65-69,43.54,Stephan Landsman,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,100 M Freestyle,SCM,M,65-69,1:38.07,Stephan Landsman,,AGUA Masters SC Meter Sprint Classic,2013,1
+BCTM,50 M Backstroke,SCM,M,65-69,53.76,Stephan Landsman,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,50 M Freestyle,SCM,W,45-49,46.39,Catherine Albert,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,50 M Freestyle,SCM,M,30-34,25.81,Radenko Miskovic,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,100 M Freestyle,SCM,M,30-34,58.21,Radenko Miskovic,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,50 M Backstroke,SCM,M,30-34,33.87,Radenko Miskovic,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,100 M Backstroke,SCM,M,30-34,1:18.08,Radenko Miskovic,,3rd Annual Thanksgiving Classic,2013,1
+CHEL,50 M Breaststroke,SCM,M,30-34,36.84,Radenko Miskovic,,3rd Annual Thanksgiving Classic,2013,1
+CHEL,50 M Freestyle,SCM,M,50-54,37.26,Russell E Calabrese,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,100 M Freestyle,SCM,M,50-54,1:48.46,Russell E Calabrese,,3rd Annual Thanksgiving Classic,2013,1
+CHEL,50 M Freestyle,SCM,M,55-59,36.43,Thomas D Currier,,6th Bearcat Masters SCM Invitational,2013,1
+CHEL,200 M Freestyle,SCM,M,55-59,3:09.55,Thomas D Currier,,6th Bearcat Masters SCM Invitational,2013,1
+CHEL,400 M Freestyle,SCM,M,55-59,5:19.33,John B Chambers,,3rd Annual Thanksgiving Classic,2013,1
+CHEL,50 M Butterfly,SCM,M,55-59,34.36,John B Chambers,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,100 M Butterfly,SCM,M,55-59,1:17.69,John B Chambers,,AGUA Masters SC Meter Sprint Classic,2013,1
+CHEL,200 M Butterfly,SCM,M,55-59,2:50.78,John B Chambers,,3rd Annual Thanksgiving Classic,2013,1
+CTRI,1500 M Freestyle,SCM,M,30-34,18:32.50,Michael C Sabala,,2013 Canadian Masters Swimming Nationals,2013,1
+CTRI,50 M Backstroke,SCM,M,30-34,30.17,Michael C Sabala,,2013 Canadian Masters Swimming Nationals,2013,1
+CTRI,100 M Butterfly,SCM,M,30-34,1:08.93,Michael C Sabala,,2013 Canadian Masters Swimming Nationals,2013,1
+CTRI,200 M Individual Medley,SCM,M,30-34,2:26.30,Michael C Sabala,,2013 Canadian Masters Swimming Nationals,2013,1
+LIEM,50 M Freestyle,SCM,W,30-34,37.53,Alaine Caccavallo,,6th Bearcat Masters SCM Invitational,2013,1
+LIEM,200 M Freestyle,SCM,W,30-34,2:53.52,Adele E Goldberg,,6th Bearcat Masters SCM Invitational,2013,1
+LIEM,200 M Freestyle,SCM,W,30-34,2:58.57,Alaine Caccavallo,,6th Bearcat Masters SCM Invitational,2013,2
+LIEM,100 M Backstroke,SCM,W,30-34,1:42.37,Adele E Goldberg,,AGUA Masters SC Meter Sprint Classic,2013,1
+LIEM,50 M Breaststroke,SCM,W,30-34,45.61,Alaine Caccavallo,,AGUA Masters SC Meter Sprint Classic,2013,1
+LIEM,50 M Breaststroke,SCM,W,30-34,48.31,Adele E Goldberg,,6th Bearcat Masters SCM Invitational,2013,2
+LIEM,100 M Butterfly,SCM,W,30-34,1:36.11,Adele E Goldberg,,AGUA Masters SC Meter Sprint Classic,2013,1
+LIEM,100 M Individual Medley,SCM,W,30-34,1:33.43,Alaine Caccavallo,,AGUA Masters SC Meter Sprint Classic,2013,1
+LIEM,200 M Individual Medley,SCM,W,30-34,3:25.18,Adele E Goldberg,,6th Bearcat Masters SCM Invitational,2013,1
+LIEM,100 M Breaststroke,SCM,M,18-24,1:23.86,Mike Garcia,,6th Bearcat Masters SCM Invitational,2013,1
+LIEM,200 M Individual Medley,SCM,M,18-24,2:46.94,Mike Garcia,,6th Bearcat Masters SCM Invitational,2013,1
+METR,50 M Freestyle,SCM,W,35-39,39.74,Margaret R Sagan,,AGUA Masters SC Meter Sprint Classic,2013,1
+METR,50 M Breaststroke,SCM,W,35-39,48.55,Margaret R Sagan,,AGUA Masters SC Meter Sprint Classic,2013,1
+METR,50 M Freestyle,SCM,M,75-79,46.79,Steve Schloss,,AGUA Masters SC Meter Sprint Classic,2013,1
+METR,100 M Freestyle,SCM,M,75-79,1:48.69,Steve Schloss,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Breaststroke,SCM,W,18-24,41.20,Kirsten Kellstrom,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Breaststroke,SCM,W,18-24,1:31.69,Kirsten Kellstrom,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,W,18-24,1:25.02,Kirsten Kellstrom,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,W,25-29,30.98,Melanie Andorfer,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,W,25-29,32.30,Gabrielle A Nadig,,6th Bearcat Masters SCM Invitational,2013,2
+NYCH,50 M Freestyle,SCM,W,25-29,32.55,Jenny Kim,,AGUA Masters SC Meter Sprint Classic,2013,3
+NYCH,50 M Freestyle,SCM,W,25-29,32.57,Kelly Kearns,,6th Bearcat Masters SCM Invitational,2013,4
+NYCH,100 M Freestyle,SCM,W,25-29,1:12.41,Kelly Kearns,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Freestyle,SCM,W,25-29,1:12.93,Jenny Kim,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,50 M Backstroke,SCM,W,25-29,37.64,Gabrielle A Nadig,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Backstroke,SCM,W,25-29,48.79,Samantha N Hong,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,100 M Breaststroke,SCM,W,25-29,1:34.98,Kelly Kearns,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Butterfly,SCM,W,25-29,33.63,Melanie Andorfer,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Butterfly,SCM,W,25-29,35.82,Kelly Kearns,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,50 M Butterfly,SCM,W,25-29,36.01,Gabrielle A Nadig,,AGUA Masters SC Meter Sprint Classic,2013,3
+NYCH,100 M Butterfly,SCM,W,25-29,1:24.09,Kelly Kearns,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,W,25-29,1:29.40,Jenny Kim,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,W,25-29,1:41.42,Samantha N Hong,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,50 M Backstroke,SCM,W,30-34,46.39,Lauren A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Backstroke,SCM,W,30-34,1:41.74,Lauren A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Breaststroke,SCM,W,30-34,48.34,Lauren A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,W,30-34,1:38.05,Lauren A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,W,35-39,41.74,Allison F Avery,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Breaststroke,SCM,W,35-39,1:05.84,Allison F Avery,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Breaststroke,SCM,W,45-49,45.28,Valerie D Pierce,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,W,55-59,43.57,Vicky M Harnik,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,W,55-59,53.93,Claire M Quigley,,6th Bearcat Masters SCM Invitational,2013,2
+NYCH,100 M Freestyle,SCM,W,55-59,1:56.70,Claire M Quigley,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Backstroke,SCM,W,55-59,1:01.90,Claire M Quigley,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Breaststroke,SCM,W,55-59,53.39,Vicky M Harnik,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,W,55-59,1:53.69,Vicky M Harnik,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,M,18-24,26.06,Edward Qian,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,100 M Freestyle,SCM,M,18-24,1:05.54,Nick Paganelli,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,800 M Freestyle,SCM,M,18-24,10:31.16,Nick Paganelli,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,100 M Backstroke,SCM,M,18-24,1:12.27,Nick Paganelli,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,200 M Backstroke,SCM,M,18-24,2:46.07,Nick Paganelli,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Breaststroke,SCM,M,18-24,36.67,Edward Qian,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Butterfly,SCM,M,18-24,33.46,Nick Paganelli,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,M,18-24,1:13.67,Nick Paganelli,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,200 M Individual Medley,SCM,M,18-24,2:41.48,Nick Paganelli,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Breaststroke,SCM,M,30-34,32.16,James C Esposito,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Individual Medley,SCM,M,30-34,1:08.87,James C Esposito,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Freestyle,SCM,M,35-39,32.92,Eric M Doviak,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Freestyle,SCM,M,35-39,33.60,Richard Jakob,,6th Bearcat Masters SCM Invitational,2013,2
+NYCH,50 M Freestyle,SCM,M,35-39,34.10,Richard H Zimmerman,,AGUA Masters SC Meter Sprint Classic,2013,3
+NYCH,100 M Freestyle,SCM,M,35-39,1:18.04,Richard Jakob,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,100 M Freestyle,SCM,M,35-39,1:19.50,Richard H Zimmerman,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,200 M Freestyle,SCM,M,35-39,2:51.29,Richard Jakob,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,50 M Breaststroke,SCM,M,35-39,38.66,Nino G Sani,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,50 M Breaststroke,SCM,M,35-39,39.65,Eric M Doviak,,6th Bearcat Masters SCM Invitational,2013,2
+NYCH,50 M Breaststroke,SCM,M,35-39,42.71,Richard Jakob,,AGUA Masters SC Meter Sprint Classic,2013,3
+NYCH,100 M Breaststroke,SCM,M,35-39,1:22.15,Nino G Sani,,AGUA Masters SC Meter Sprint Classic,2013,1
+NYCH,100 M Breaststroke,SCM,M,35-39,1:30.37,Eric M Doviak,,6th Bearcat Masters SCM Invitational,2013,2
+NYCH,100 M Breaststroke,SCM,M,35-39,1:38.98,Richard Jakob,,6th Bearcat Masters SCM Invitational,2013,3
+NYCH,50 M Butterfly,SCM,M,35-39,29.76,Marc P Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+NYCH,50 M Butterfly,SCM,M,35-39,39.43,Richard Jakob,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,100 M Butterfly,SCM,M,35-39,1:07.85,Marc P Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+NYCH,200 M Butterfly,SCM,M,35-39,2:40.92,Marc P Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+NYCH,100 M Individual Medley,SCM,M,35-39,1:11.05,Marc P Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+NYCH,100 M Individual Medley,SCM,M,35-39,1:32.30,Richard Jakob,,AGUA Masters SC Meter Sprint Classic,2013,2
+NYCH,200 M Individual Medley,SCM,M,35-39,2:40.38,Marc P Madonia,,3rd Annual Thanksgiving Classic,2013,1
+NYCH,400 M Individual Medley,SCM,M,35-39,5:43.44,Marc P Madonia,,2013 NE-LMSC SCM Championship Meet,2013,1
+NYCH,50 M Freestyle,SCM,M,45-49,31.95,Bruce A Cadenhead,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,200 M Freestyle,SCM,M,45-49,2:40.12,Bruce A Cadenhead,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,200 M Butterfly,SCM,M,45-49,3:23.35,Bruce A Cadenhead,,6th Bearcat Masters SCM Invitational,2013,1
+NYCH,200 M Individual Medley,SCM,M,45-49,3:02.70,Bruce A Cadenhead,,6th Bearcat Masters SCM Invitational,2013,1
+POST,50 M Freestyle,SCM,W,50-54,32.25,Carolyn Koster,,6th Bearcat Masters SCM Invitational,2013,1
+POST,50 M Breaststroke,SCM,W,50-54,40.57,Carolyn Koster,,6th Bearcat Masters SCM Invitational,2013,1
+POST,100 M Breaststroke,SCM,W,50-54,1:29.37,Carolyn Koster,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Freestyle,SCM,W,25-29,31.37,Kelsey S Dean,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,W,25-29,31.63,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Freestyle,SCM,W,25-29,32.68,Clio C Crespy,,6th Bearcat Masters SCM Invitational,2013,3
+REDT,50 M Freestyle,SCM,W,25-29,34.57,Heather L Appleby,,6th Bearcat Masters SCM Invitational,2013,4
+REDT,50 M Freestyle,SCM,W,25-29,44.10,Camille V Hausheer,,AGUA Masters SC Meter Sprint Classic,2013,5
+REDT,100 M Freestyle,SCM,W,25-29,1:06.88,Kelsey S Dean,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,W,25-29,1:07.57,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Freestyle,SCM,W,25-29,1:09.87,Julie Erhart,,6th Bearcat Masters SCM Invitational,2013,3
+REDT,100 M Freestyle,SCM,W,25-29,1:35.20,Camille V Hausheer,,AGUA Masters SC Meter Sprint Classic,2013,4
+REDT,50 M Backstroke,SCM,W,25-29,40.22,Clio C Crespy,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Backstroke,SCM,W,25-29,40.46,Heather L Appleby,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Backstroke,SCM,W,25-29,1:25.28,Heather L Appleby,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,200 M Backstroke,SCM,W,25-29,3:00.87,Heather L Appleby,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Breaststroke,SCM,W,25-29,42.64,Clio C Crespy,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Breaststroke,SCM,W,25-29,48.26,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Breaststroke,SCM,W,25-29,52.43,Camille V Hausheer,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,100 M Breaststroke,SCM,W,25-29,1:27.29,Julie Erhart,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Breaststroke,SCM,W,25-29,1:46.72,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Breaststroke,SCM,W,25-29,1:48.90,Camille V Hausheer,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,50 M Butterfly,SCM,W,25-29,34.27,Lindsay R Messina,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,W,25-29,35.49,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Butterfly,SCM,W,25-29,39.06,Clio C Crespy,,6th Bearcat Masters SCM Invitational,2013,3
+REDT,50 M Butterfly,SCM,W,25-29,40.24,Heather L Appleby,,6th Bearcat Masters SCM Invitational,2013,4
+REDT,100 M Butterfly,SCM,W,25-29,1:15.86,Julie Erhart,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Butterfly,SCM,W,25-29,1:18.45,Zahava Lipton,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Individual Medley,SCM,W,25-29,1:17.95,Kelsey S Dean,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Individual Medley,SCM,W,25-29,1:30.77,Heather L Appleby,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Freestyle,SCM,W,30-34,33.46,Erin M Dougherty,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,W,30-34,36.40,Kacey J Koeppel,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,800 M Freestyle,SCM,W,30-34,11:14.17,Erin M Dougherty,,UDMS Fall Harvest SCM Meet,2013,1
+REDT,50 M Backstroke,SCM,W,30-34,33.44,Tal Shpaizer,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Backstroke,SCM,W,30-34,42.66,Kacey J Koeppel,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Backstroke,SCM,W,30-34,1:10.99,Tal Shpaizer,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Breaststroke,SCM,W,30-34,38.65,Tal Shpaizer,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Breaststroke,SCM,W,30-34,41.69,Erin M Dougherty,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Breaststroke,SCM,W,30-34,1:27.51,Erin M Dougherty,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,W,30-34,32.02,Tal Shpaizer,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,W,35-39,32.55,Susannah V Levi,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,W,35-39,35.87,Rachel F Cohen,,6th Bearcat Masters SCM Invitational,2013,2
+REDT,100 M Freestyle,SCM,W,35-39,1:13.61,Susannah V Levi,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,W,35-39,1:19.31,Rachel F Cohen,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Freestyle,SCM,W,35-39,1:33.54,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,100 M Freestyle,SCM,W,35-39,1:44.24,Deborah K Fung,,AGUA Masters SC Meter Sprint Classic,2013,4
+REDT,200 M Freestyle,SCM,W,35-39,2:57.43,Rachel F Cohen,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,400 M Freestyle,SCM,W,35-39,6:02.02,Abigail A Fairman,,UDMS Fall Harvest SCM Meet,2013,1
+REDT,1500 M Freestyle,SCM,W,35-39,23:06.44,Abigail A Fairman,,UDMS Fall Harvest SCM Meet,2013,1
+REDT,50 M Backstroke,SCM,W,35-39,43.35,Abigail A Fairman,,UDMS Fall Harvest SCM Meet,2013,1
+REDT,50 M Backstroke,SCM,W,35-39,53.66,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Backstroke,SCM,W,35-39,2:16.10,Deborah K Fung,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Breaststroke,SCM,W,35-39,44.12,Susannah V Levi,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,W,35-39,33.37,Nancy Jo,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,W,35-39,53.21,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Individual Medley,SCM,W,35-39,1:15.38,Nancy Jo,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Individual Medley,SCM,W,35-39,1:52.59,Mariya V Vasileva,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Individual Medley,SCM,W,35-39,2:06.13,Deborah K Fung,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,800 M Freestyle,SCM,W,40-44,11:03.29,Anna S Armentrout,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Backstroke,SCM,W,40-44,35.76,Anna S Armentrout,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Backstroke,SCM,W,40-44,1:18.33,Anna S Armentrout,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Butterfly,SCM,W,40-44,35.46,Anna S Armentrout,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Freestyle,SCM,W,45-49,40.58,Mikiko Yamashita,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Freestyle,SCM,W,45-49,1:04.59,Kristin J Gary,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,200 M Freestyle,SCM,W,45-49,3:21.95,Mikiko Yamashita,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Backstroke,SCM,W,45-49,1:10.12,Kristin J Gary,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Breaststroke,SCM,W,45-49,54.37,Mikiko Yamashita,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,W,50-54,39.87,Marty Munson,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Freestyle,SCM,W,50-54,1:27.42,Marty Munson,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Freestyle,SCM,W,65-69,43.88,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,W,65-69,1:42.13,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Backstroke,SCM,W,65-69,58.98,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,W,65-69,58.51,Barbara B Charles,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,25-29,1:00.54,Kyle A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,200 M Freestyle,SCM,M,25-29,2:39.76,Donald P Curran,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Backstroke,SCM,M,25-29,38.33,Donald P Curran,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Breaststroke,SCM,M,25-29,42.28,Donald P Curran,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,M,25-29,35.43,Donald P Curran,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Butterfly,SCM,M,25-29,1:15.29,Kyle A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,200 M Individual Medley,SCM,M,25-29,2:27.83,Kyle A Jones,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,M,30-34,27.13,Romain J Rouaud,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Freestyle,SCM,M,30-34,28.70,Alex Berg,,6th Bearcat Masters SCM Invitational,2013,2
+REDT,100 M Freestyle,SCM,M,30-34,1:00.54,Brennan P Kelly,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,30-34,1:05.76,Alex Berg,,6th Bearcat Masters SCM Invitational,2013,2
+REDT,100 M Freestyle,SCM,M,30-34,1:06.63,Heon Goo Lee,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,50 M Backstroke,SCM,M,30-34,34.16,Romain J Rouaud,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Breaststroke,SCM,M,30-34,35.28,Romain J Rouaud,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Breaststroke,SCM,M,30-34,35.51,Joshua L Storch,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Breaststroke,SCM,M,30-34,1:19.52,Joshua L Storch,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,M,30-34,29.86,Heon Goo Lee,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,M,30-34,29.88,Romain J Rouaud,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Butterfly,SCM,M,30-34,1:11.75,Heon Goo Lee,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Individual Medley,SCM,M,30-34,1:08.75,Brennan P Kelly,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Individual Medley,SCM,M,30-34,1:10.56,Romain J Rouaud,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Individual Medley,SCM,M,30-34,1:13.04,Joshua L Storch,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,200 M Individual Medley,SCM,M,30-34,2:32.88,Brennan P Kelly,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,200 M Individual Medley,SCM,M,30-34,2:39.87,Joshua L Storch,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Freestyle,SCM,M,35-39,28.60,Jon A Wilkening,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,35-39,1:03.73,Jon A Wilkening,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,M,35-39,31.75,Jon A Wilkening,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Butterfly,SCM,M,35-39,1:15.08,Jon A Wilkening,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,40-44,1:09.99,Jonathan R Massey,,Nazareth Masters Short Course Meters Meet,2013,1
+REDT,200 M Freestyle,SCM,M,40-44,2:39.02,Jonathan R Massey,,Nazareth Masters Short Course Meters Meet,2013,1
+REDT,50 M Freestyle,SCM,M,45-49,27.26,Mitch A Baranowski,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,M,45-49,28.28,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,2
+REDT,50 M Freestyle,SCM,M,45-49,28.97,John R Jonge-Poerink,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,100 M Freestyle,SCM,M,45-49,1:01.33,Mitch A Baranowski,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,45-49,1:01.85,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,2
+REDT,100 M Freestyle,SCM,M,45-49,1:03.02,Robert Goodman,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,100 M Freestyle,SCM,M,45-49,1:04.21,John R Jonge-Poerink,,AGUA Masters SC Meter Sprint Classic,2013,4
+REDT,200 M Freestyle,SCM,M,45-49,2:16.18,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,1
+REDT,400 M Freestyle,SCM,M,45-49,4:50.60,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,1
+REDT,800 M Freestyle,SCM,M,45-49,10:05.04,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,1
+REDT,100 M Backstroke,SCM,M,45-49,1:12.25,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,1
+REDT,200 M Backstroke,SCM,M,45-49,2:32.82,Greg S Werlinich,,2013 NE-LMSC SCM Championship Meet,2013,1
+REDT,50 M Butterfly,SCM,M,45-49,32.74,Robert Goodman,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,M,45-49,35.38,John R Jonge-Poerink,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Butterfly,SCM,M,45-49,1:10.07,Mitch A Baranowski,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Individual Medley,SCM,M,45-49,1:14.19,Robert Goodman,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Individual Medley,SCM,M,45-49,1:21.12,John R Jonge-Poerink,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Freestyle,SCM,M,50-54,32.35,James W McSpiritt,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,50-54,1:07.44,Pascal Borderies,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,50-54,1:15.35,James W McSpiritt,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Butterfly,SCM,M,50-54,1:14.77,Pascal Borderies,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Individual Medley,SCM,M,50-54,1:28.94,James W McSpiritt,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Freestyle,SCM,M,60-64,28.32,Craig E Saint-Amour,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,50 M Freestyle,SCM,M,60-64,32.16,Stan V Filatov,,6th Bearcat Masters SCM Invitational,2013,2
+REDT,50 M Freestyle,SCM,M,60-64,34.80,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,100 M Freestyle,SCM,M,60-64,1:03.43,Craig E Saint-Amour,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Freestyle,SCM,M,60-64,1:15.09,Stan V Filatov,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,100 M Freestyle,SCM,M,60-64,1:15.80,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,200 M Freestyle,SCM,M,60-64,2:30.26,Craig E Saint-Amour,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,200 M Freestyle,SCM,M,60-64,3:00.33,Stan V Filatov,,6th Bearcat Masters SCM Invitational,2013,2
+REDT,50 M Butterfly,SCM,M,60-64,32.27,Craig E Saint-Amour,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,50 M Butterfly,SCM,M,60-64,34.60,Stan V Filatov,,AGUA Masters SC Meter Sprint Classic,2013,2
+REDT,50 M Butterfly,SCM,M,60-64,36.95,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2013,3
+REDT,100 M Butterfly,SCM,M,60-64,1:17.53,Craig E Saint-Amour,,6th Bearcat Masters SCM Invitational,2013,1
+REDT,100 M Individual Medley,SCM,M,60-64,1:17.60,Craig E Saint-Amour,,AGUA Masters SC Meter Sprint Classic,2013,1
+REDT,100 M Individual Medley,SCM,M,60-64,1:29.14,Jonathan M Silver,,AGUA Masters SC Meter Sprint Classic,2013,2
+TNYA,50 M Freestyle,SCM,W,25-29,32.23,Allison Wright,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,W,25-29,32.54,Mariko Watt,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Freestyle,SCM,W,25-29,38.09,Judy Stephens,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Freestyle,SCM,W,25-29,1:11.20,Mariko Watt,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,W,25-29,1:25.58,Judy Stephens,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Backstroke,SCM,W,25-29,38.48,Allison Wright,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,W,25-29,51.18,Judy Stephens,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Breaststroke,SCM,W,25-29,43.10,Mariko Watt,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,W,25-29,46.60,Allison Wright,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Breaststroke,SCM,W,25-29,1:34.23,Mariko Watt,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,W,25-29,37.94,Allison Wright,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,W,25-29,43.10,Judy Stephens,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Individual Medley,SCM,W,25-29,1:25.18,Mariko Watt,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,W,25-29,1:26.83,Allison Wright,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Individual Medley,SCM,W,25-29,1:40.99,Judy Stephens,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Freestyle,SCM,W,30-34,1:18.13,Alexandra Curtis,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,200 M Freestyle,SCM,W,30-34,2:48.46,Alexandra Curtis,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,50 M Backstroke,SCM,W,30-34,39.30,Alexandra Curtis,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,50 M Butterfly,SCM,W,30-34,38.24,Alexandra Curtis,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,50 M Freestyle,SCM,W,35-39,31.74,Shannon B Rodarte,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,W,35-39,1:11.40,Shannon B Rodarte,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,W,35-39,3:14.60,Rachel B Cutler,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,W,35-39,6:39.52,Rachel B Cutler,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,W,35-39,13:43.18,Rachel B Cutler,,2013 IGLA Swimming Championships,2013,1
+TNYA,1500 M Freestyle,SCM,W,35-39,26:01.81,Rachel B Cutler,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,W,35-39,52.46,Rachel B Cutler,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,W,35-39,1:26.41,Shannon B Rodarte,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,W,35-39,1:21.83,Shannon B Rodarte,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Individual Medley,SCM,W,35-39,3:08.34,Shannon B Rodarte,,2013 IGLA Swimming Championships,2013,1
+TNYA,1500 M Freestyle,SCM,W,40-44,24:40.54,Elisabeth Turnbull-Brown,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,W,40-44,43.73,Elisabeth Turnbull-Brown,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,W,40-44,1:36.97,Elisabeth Turnbull-Brown,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,W,40-44,3:33.08,Elisabeth Turnbull-Brown,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,W,40-44,1:36.80,Elisabeth Turnbull-Brown,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,W,45-49,36.12,Janet Harris,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,W,45-49,42.58,Janet Harris,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,W,45-49,34.13,Janet Harris,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Butterfly,SCM,W,45-49,1:20.87,Janet Harris,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Individual Medley,SCM,W,45-49,2:58.48,Janet Harris,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,W,50-54,1:41.84,Miriam S Tuliao,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,W,50-54,7:39.00,Miriam S Tuliao,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,W,50-54,16:10.79,Miriam S Tuliao,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,W,50-54,2:11.33,Miriam S Tuliao,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,W,50-54,2:02.01,Miriam S Tuliao,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,W,65-69,49.92,Kathleen Romano,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,W,65-69,8:00.79,Kathleen Romano,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,W,65-69,16:21.93,Kathleen Romano,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,W,65-69,58.44,Kathleen Romano,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,W,65-69,2:05.40,Kathleen Romano,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,18-24,30.81,Thomas K Smallwood,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,18-24,55.10,Alex Ray,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,M,18-24,2:03.48,Alex Ray,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,M,18-24,3:18.45,Thomas K Smallwood,,2013 IGLA Swimming Championships,2013,2
+TNYA,400 M Freestyle,SCM,M,18-24,4:31.51,Alex Ray,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,M,18-24,6:38.05,Timothy S Parks Lynch,,2013 IGLA Swimming Championships,2013,2
+TNYA,800 M Freestyle,SCM,M,18-24,14:10.13,Timothy S Parks Lynch,,2013 IGLA Swimming Championships,2013,1
+TNYA,1500 M Freestyle,SCM,M,18-24,26:45.67,Timothy S Parks Lynch,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Backstroke,SCM,M,18-24,1:04.46,Alex Ray,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Backstroke,SCM,M,18-24,3:32.17,Timothy S Parks Lynch,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,M,18-24,1:33.94,Thomas K Smallwood,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,M,18-24,3:37.60,Thomas K Smallwood,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,M,18-24,3:49.37,Timothy S Parks Lynch,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Butterfly,SCM,M,18-24,1:01.04,Alex Ray,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,25-29,27.22,Jonathan S Fichman,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,25-29,31.86,Andres Munoz,,AGUA Masters SC Meter Sprint Classic,2013,2
+TNYA,100 M Freestyle,SCM,M,25-29,59.02,Jonathan S Fichman,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,25-29,1:09.08,Andres Munoz,,AGUA Masters SC Meter Sprint Classic,2013,2
+TNYA,200 M Freestyle,SCM,M,25-29,2:08.98,Andrew M Malinak,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,M,25-29,2:17.07,Stephen A Hooper,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Freestyle,SCM,M,25-29,2:17.49,Jonathan S Fichman,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Freestyle,SCM,M,25-29,2:41.93,Zachary A Papas,,2013 IGLA Swimming Championships,2013,4
+TNYA,400 M Freestyle,SCM,M,25-29,4:42.42,Andrew M Malinak,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,M,25-29,4:45.47,Stephen A Hooper,,2013 IGLA Swimming Championships,2013,2
+TNYA,400 M Freestyle,SCM,M,25-29,4:55.76,Jonathan S Fichman,,2013 IGLA Swimming Championships,2013,3
+TNYA,400 M Freestyle,SCM,M,25-29,5:04.27,Audie L McRae,,2013 IGLA Swimming Championships,2013,4
+TNYA,400 M Freestyle,SCM,M,25-29,5:06.51,Jonathan Bermudez,,2013 IGLA Swimming Championships,2013,5
+TNYA,400 M Freestyle,SCM,M,25-29,5:41.83,Zachary A Papas,,2013 IGLA Swimming Championships,2013,6
+TNYA,800 M Freestyle,SCM,M,25-29,9:55.11,Andrew M Malinak,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,M,25-29,10:47.72,Jonathan Bermudez,,2013 IGLA Swimming Championships,2013,2
+TNYA,800 M Freestyle,SCM,M,25-29,11:57.24,Zachary A Papas,,2013 IGLA Swimming Championships,2013,3
+TNYA,1500 M Freestyle,SCM,M,25-29,18:52.71,Stephen A Hooper,,2013 IGLA Swimming Championships,2013,1
+TNYA,1500 M Freestyle,SCM,M,25-29,19:06.73,Andrew M Malinak,,2013 IGLA Swimming Championships,2013,2
+TNYA,1500 M Freestyle,SCM,M,25-29,22:39.06,Jonathan Bermudez,,2013 IGLA Swimming Championships,2013,3
+TNYA,1500 M Freestyle,SCM,M,25-29,23:07.63,Zachary A Papas,,2013 IGLA Swimming Championships,2013,4
+TNYA,50 M Backstroke,SCM,M,25-29,33.16,Audie L McRae,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Backstroke,SCM,M,25-29,1:13.30,Audie L McRae,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Backstroke,SCM,M,25-29,2:38.39,Audie L McRae,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Backstroke,SCM,M,25-29,3:02.96,Tom Garruto,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Breaststroke,SCM,M,25-29,1:11.69,Scott C Jordan,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,M,25-29,2:39.26,Scott C Jordan,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,M,25-29,3:04.54,Jonathan Bermudez,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Breaststroke,SCM,M,25-29,3:07.60,Stephen A Hooper,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Butterfly,SCM,M,25-29,29.06,Andrew M Malinak,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,M,25-29,34.46,Tom Garruto,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Butterfly,SCM,M,25-29,36.01,Andres Munoz,,AGUA Masters SC Meter Sprint Classic,2013,3
+TNYA,100 M Individual Medley,SCM,M,25-29,1:04.37,Scott C Jordan,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,25-29,1:13.37,Jonathan S Fichman,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Individual Medley,SCM,M,25-29,1:17.19,Tom Garruto,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Individual Medley,SCM,M,25-29,2:25.61,Scott C Jordan,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Individual Medley,SCM,M,25-29,2:39.48,Stephen A Hooper,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Individual Medley,SCM,M,25-29,2:56.10,Tom Garruto,,2013 IGLA Swimming Championships,2013,3
+TNYA,400 M Individual Medley,SCM,M,25-29,5:08.84,Scott C Jordan,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,30-34,26.77,Michael Tynan,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,30-34,27.63,Gregory L Lockard,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Freestyle,SCM,M,30-34,27.68,Daniel P Wiederkehr,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Freestyle,SCM,M,30-34,28.22,Alexander T Barclay,,2013 IGLA Swimming Championships,2013,4
+TNYA,50 M Freestyle,SCM,M,30-34,29.19,Shane Ewen,,2013 IGLA Swimming Championships,2013,5
+TNYA,50 M Freestyle,SCM,M,30-34,33.85,Anders J Stachelek,,2013 IGLA Swimming Championships,2013,6
+TNYA,100 M Freestyle,SCM,M,30-34,54.53,Win Chesson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,30-34,56.79,David R Hildebrand,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Freestyle,SCM,M,30-34,59.07,Michael Tynan,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Freestyle,SCM,M,30-34,1:02.38,Alexander T Barclay,,2013 IGLA Swimming Championships,2013,4
+TNYA,200 M Freestyle,SCM,M,30-34,2:10.60,David R Hildebrand,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,M,30-34,2:16.30,Michael Tynan,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Freestyle,SCM,M,30-34,3:28.69,Anders J Stachelek,,2013 IGLA Swimming Championships,2013,3
+TNYA,400 M Freestyle,SCM,M,30-34,4:14.74,Win Chesson,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,M,30-34,4:36.41,David Spires,,2013 IGLA Swimming Championships,2013,2
+TNYA,400 M Freestyle,SCM,M,30-34,4:56.58,Michael Tynan,,2013 IGLA Swimming Championships,2013,3
+TNYA,400 M Freestyle,SCM,M,30-34,5:22.99,Gregory L Lockard,,2013 IGLA Swimming Championships,2013,4
+TNYA,400 M Freestyle,SCM,M,30-34,5:26.26,Gavin Simpson,,2013 IGLA Swimming Championships,2013,5
+TNYA,400 M Freestyle,SCM,M,30-34,8:04.05,Anders J Stachelek,,2013 IGLA Swimming Championships,2013,6
+TNYA,800 M Freestyle,SCM,M,30-34,9:41.54,David Spires,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,M,30-34,11:21.64,Gavin Simpson,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Backstroke,SCM,M,30-34,32.91,Daniel P Wiederkehr,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,M,30-34,36.46,Shane Ewen,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Backstroke,SCM,M,30-34,51.90,Anders J Stachelek,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Backstroke,SCM,M,30-34,1:06.90,David R Hildebrand,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Backstroke,SCM,M,30-34,1:15.63,Gavin Simpson,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Backstroke,SCM,M,30-34,1:55.98,Anders J Stachelek,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Backstroke,SCM,M,30-34,2:25.29,David R Hildebrand,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Backstroke,SCM,M,30-34,2:42.93,Gavin Simpson,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Breaststroke,SCM,M,30-34,32.73,Shachar Keizman,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,M,30-34,35.38,Peter G Isgrigg,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Breaststroke,SCM,M,30-34,42.51,Andrew J Anson,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Breaststroke,SCM,M,30-34,1:11.92,Shachar Keizman,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,M,30-34,1:19.56,Peter G Isgrigg,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Breaststroke,SCM,M,30-34,1:33.88,Andrew J Anson,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Breaststroke,SCM,M,30-34,2:36.95,Shachar Keizman,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,M,30-34,3:00.87,Peter G Isgrigg,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Breaststroke,SCM,M,30-34,3:33.70,Andrew J Anson,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Butterfly,SCM,M,30-34,27.04,Win Chesson,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,M,30-34,29.50,Michael Tynan,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Butterfly,SCM,M,30-34,30.48,Alexander T Barclay,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Butterfly,SCM,M,30-34,30.86,Daniel P Wiederkehr,,2013 IGLA Swimming Championships,2013,4
+TNYA,100 M Butterfly,SCM,M,30-34,1:00.42,Win Chesson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Butterfly,SCM,M,30-34,1:18.38,Gregory L Lockard,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Butterfly,SCM,M,30-34,2:30.15,David Spires,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Butterfly,SCM,M,30-34,2:37.09,Shachar Keizman,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Butterfly,SCM,M,30-34,3:14.52,Gregory L Lockard,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Individual Medley,SCM,M,30-34,1:06.68,Shachar Keizman,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,30-34,1:12.77,Daniel P Wiederkehr,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Individual Medley,SCM,M,30-34,1:24.63,Andrew J Anson,,6th Bearcat Masters SCM Invitational,2013,3
+TNYA,200 M Individual Medley,SCM,M,30-34,2:16.94,Win Chesson,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Individual Medley,SCM,M,30-34,2:26.09,David R Hildebrand,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Individual Medley,SCM,M,30-34,2:26.50,David Spires,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Individual Medley,SCM,M,30-34,2:52.69,Gregory L Lockard,,2013 IGLA Swimming Championships,2013,4
+TNYA,200 M Individual Medley,SCM,M,30-34,3:16.49,Andrew J Anson,,2013 IGLA Swimming Championships,2013,5
+TNYA,400 M Individual Medley,SCM,M,30-34,5:12.47,David Spires,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Individual Medley,SCM,M,30-34,6:03.91,Gavin Simpson,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Freestyle,SCM,M,35-39,26.98,Joshua M Judge,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,35-39,26.99,Michael S Ferris,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Freestyle,SCM,M,35-39,29.61,James M Cronin,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Freestyle,SCM,M,35-39,29.62,Fernando Bejarano,,2013 IGLA Swimming Championships,2013,4
+TNYA,50 M Freestyle,SCM,M,35-39,30.64,Joseph N Marra,,2013 IGLA Swimming Championships,2013,5
+TNYA,100 M Freestyle,SCM,M,35-39,59.28,Joshua M Judge,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,35-39,1:07.27,Joseph N Marra,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Freestyle,SCM,M,35-39,1:08.23,Fernando Bejarano,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Freestyle,SCM,M,35-39,2:12.61,Michael S Ferris,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,M,35-39,2:38.97,James M Cronin,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Freestyle,SCM,M,35-39,2:41.92,Fernando Bejarano,,2013 IGLA Swimming Championships,2013,3
+TNYA,400 M Freestyle,SCM,M,35-39,4:45.62,Michael S Ferris,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,M,35-39,5:21.03,Hugh M McGowan,,2013 IGLA Swimming Championships,2013,2
+TNYA,400 M Freestyle,SCM,M,35-39,5:24.69,Joseph N Marra,,2013 IGLA Swimming Championships,2013,3
+TNYA,400 M Freestyle,SCM,M,35-39,5:43.54,James M Cronin,,2013 IGLA Swimming Championships,2013,4
+TNYA,800 M Freestyle,SCM,M,35-39,11:10.48,Joseph N Marra,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,M,35-39,11:31.18,Jack N Martins,,2013 IGLA Swimming Championships,2013,2
+TNYA,800 M Freestyle,SCM,M,35-39,12:34.55,James M Cronin,,2013 IGLA Swimming Championships,2013,3
+TNYA,1500 M Freestyle,SCM,M,35-39,22:06.59,Jack N Martins,,2013 IGLA Swimming Championships,2013,1
+TNYA,1500 M Freestyle,SCM,M,35-39,24:03.45,James M Cronin,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Backstroke,SCM,M,35-39,38.78,Jack N Martins,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Backstroke,SCM,M,35-39,1:10.58,Michael S Ferris,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Backstroke,SCM,M,35-39,1:25.05,Jack N Martins,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Backstroke,SCM,M,35-39,2:46.42,Hugh M McGowan,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Backstroke,SCM,M,35-39,2:55.07,Jack N Martins,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Breaststroke,SCM,M,35-39,38.75,Fernando Bejarano,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,M,35-39,40.81,Joseph N Marra,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Butterfly,SCM,M,35-39,29.42,Joshua M Judge,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,M,35-39,31.47,Hugh M McGowan,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Butterfly,SCM,M,35-39,1:06.97,Joshua M Judge,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Butterfly,SCM,M,35-39,2:28.99,Michael S Ferris,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,40-44,26.48,Jack Mackenroth,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,40-44,27.41,James K Damron,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Freestyle,SCM,M,40-44,31.36,John R Napoli,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Freestyle,SCM,M,40-44,31.70,James G Morrissey,,2013 IGLA Swimming Championships,2013,4
+TNYA,50 M Freestyle,SCM,M,40-44,38.60,John C Gentile,,AGUA Masters SC Meter Sprint Classic,2013,5
+TNYA,100 M Freestyle,SCM,M,40-44,1:00.47,James K Damron,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,40-44,1:11.73,James G Morrissey,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Freestyle,SCM,M,40-44,1:29.85,John C Gentile,,AGUA Masters SC Meter Sprint Classic,2013,3
+TNYA,400 M Freestyle,SCM,M,40-44,4:36.55,RJ Hermanet,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,M,40-44,6:42.26,Bill Carr,,2013 IGLA Swimming Championships,2013,2
+TNYA,800 M Freestyle,SCM,M,40-44,9:45.37,RJ Hermanet,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,M,40-44,12:41.92,Randall A Chamberlain,,2013 IGLA Swimming Championships,2013,2
+TNYA,800 M Freestyle,SCM,M,40-44,14:06.39,Bill Carr,,2013 IGLA Swimming Championships,2013,3
+TNYA,1500 M Freestyle,SCM,M,40-44,24:28.63,Randall A Chamberlain,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,M,40-44,32.43,James K Damron,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,M,40-44,33.19,Onesimo C Demira,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Backstroke,SCM,M,40-44,43.61,John R Napoli,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Backstroke,SCM,M,40-44,1:09.97,James K Damron,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Backstroke,SCM,M,40-44,2:34.29,James K Damron,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,M,40-44,36.03,Jun Maruta,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,50 M Breaststroke,SCM,M,40-44,40.70,John R Napoli,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Breaststroke,SCM,M,40-44,42.17,James G Morrissey,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Breaststroke,SCM,M,40-44,1:14.52,Jack Mackenroth,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,M,40-44,1:18.70,Jun Maruta,,6th Bearcat Masters SCM Invitational,2013,2
+TNYA,100 M Breaststroke,SCM,M,40-44,1:33.24,John R Napoli,,2013 IGLA Swimming Championships,2013,3
+TNYA,200 M Breaststroke,SCM,M,40-44,2:55.55,Jun Maruta,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,200 M Breaststroke,SCM,M,40-44,3:22.43,John R Napoli,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Breaststroke,SCM,M,40-44,3:45.20,Bill Carr,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Butterfly,SCM,M,40-44,39.13,James G Morrissey,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Butterfly,SCM,M,40-44,1:04.84,RJ Hermanet,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Butterfly,SCM,M,40-44,1:06.85,Jack Mackenroth,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Butterfly,SCM,M,40-44,1:09.27,Onesimo C Demira,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Butterfly,SCM,M,40-44,1:22.21,Randall A Chamberlain,,2013 IGLA Swimming Championships,2013,4
+TNYA,200 M Butterfly,SCM,M,40-44,3:21.32,Randall A Chamberlain,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Butterfly,SCM,M,40-44,3:53.80,Bill Carr,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Individual Medley,SCM,M,40-44,1:08.57,Jack Mackenroth,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,40-44,1:11.37,Onesimo C Demira,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Individual Medley,SCM,M,40-44,2:25.76,RJ Hermanet,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Individual Medley,SCM,M,40-44,2:35.57,Onesimo C Demira,,2013 IGLA Swimming Championships,2013,2
+TNYA,400 M Individual Medley,SCM,M,40-44,5:04.12,RJ Hermanet,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Individual Medley,SCM,M,40-44,5:30.79,Onesimo C Demira,,2013 IGLA Swimming Championships,2013,2
+TNYA,400 M Individual Medley,SCM,M,40-44,6:41.64,Randall A Chamberlain,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Freestyle,SCM,M,45-49,27.46,Daniel Prince,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,100 M Freestyle,SCM,M,45-49,1:00.85,Daniel Prince,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,800 M Freestyle,SCM,M,45-49,12:07.88,Gen Watanabe,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,50 M Backstroke,SCM,M,45-49,35.39,Daniel Prince,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,100 M Backstroke,SCM,M,45-49,1:18.08,Daniel Prince,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,50 M Butterfly,SCM,M,45-49,31.41,Daniel Prince,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,50 M Freestyle,SCM,M,50-54,26.44,Dean E Putterman,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,50-54,37.38,Kent M Lau,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Freestyle,SCM,M,50-54,1:26.63,Kent M Lau,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,M,50-54,31.77,Dean E Putterman,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,M,50-54,44.57,Kent M Lau,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Breaststroke,SCM,M,50-54,1:09.89,Dean E Putterman,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,M,50-54,1:40.73,Kent M Lau,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Breaststroke,SCM,M,50-54,3:40.08,Kent M Lau,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,50-54,1:05.71,Dean E Putterman,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,55-59,30.88,Glenn Wharton,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,50 M Freestyle,SCM,M,55-59,32.79,Brian R Godshall,,2013 IGLA Swimming Championships,2013,2
+TNYA,50 M Freestyle,SCM,M,55-59,38.92,Daniel F Rosemarin,,2013 IGLA Swimming Championships,2013,3
+TNYA,50 M Freestyle,SCM,M,55-59,56.00,Steven Z Goran,,3rd Annual Thanksgiving Classic,2013,4
+TNYA,100 M Freestyle,SCM,M,55-59,1:05.78,Charles A Carson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,55-59,1:08.71,Glenn Wharton,,AGUA Masters SC Meter Sprint Classic,2013,2
+TNYA,100 M Freestyle,SCM,M,55-59,1:11.83,Brian R Godshall,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Freestyle,SCM,M,55-59,1:19.63,Thomas G Gelinne,,2013 IGLA Swimming Championships,2013,4
+TNYA,100 M Freestyle,SCM,M,55-59,1:28.53,Daniel F Rosemarin,,2013 IGLA Swimming Championships,2013,5
+TNYA,100 M Freestyle,SCM,M,55-59,2:05.42,Steven Z Goran,,AGUA Masters SC Meter Sprint Classic,2013,6
+TNYA,200 M Freestyle,SCM,M,55-59,2:36.52,Brian R Godshall,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,200 M Freestyle,SCM,M,55-59,2:55.08,Thomas G Gelinne,,2013 IGLA Swimming Championships,2013,2
+TNYA,200 M Freestyle,SCM,M,55-59,3:21.91,Daniel F Rosemarin,,2013 IGLA Swimming Championships,2013,3
+TNYA,800 M Freestyle,SCM,M,55-59,11:19.83,Brad G Cole,,2013 IGLA Swimming Championships,2013,1
+TNYA,800 M Freestyle,SCM,M,55-59,12:26.72,Thomas G Gelinne,,2013 IGLA Swimming Championships,2013,2
+TNYA,800 M Freestyle,SCM,M,55-59,22:42.26,Steven Z Goran,,3rd Annual Thanksgiving Classic,2013,3
+TNYA,1500 M Freestyle,SCM,M,55-59,23:22.32,Thomas G Gelinne,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Backstroke,SCM,M,55-59,39.13,Brian R Godshall,,6th Bearcat Masters SCM Invitational,2013,1
+TNYA,50 M Backstroke,SCM,M,55-59,39.62,Glenn Wharton,,AGUA Masters SC Meter Sprint Classic,2013,2
+TNYA,50 M Backstroke,SCM,M,55-59,1:22.95,Steven Z Goran,,3rd Annual Thanksgiving Classic,2013,3
+TNYA,100 M Backstroke,SCM,M,55-59,1:18.58,Brad G Cole,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Backstroke,SCM,M,55-59,1:19.38,Charles A Carson,,2013 IGLA Swimming Championships,2013,2
+TNYA,100 M Backstroke,SCM,M,55-59,1:22.20,Brian R Godshall,,2013 IGLA Swimming Championships,2013,3
+TNYA,100 M Backstroke,SCM,M,55-59,1:24.42,Glenn Wharton,,AGUA Masters SC Meter Sprint Classic,2013,4
+TNYA,100 M Backstroke,SCM,M,55-59,1:37.80,Thomas G Gelinne,,2013 IGLA Swimming Championships,2013,5
+TNYA,50 M Breaststroke,SCM,M,55-59,59.39,Daniel F Rosemarin,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,M,55-59,45.87,Daniel F Rosemarin,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,55-59,1:17.65,Charles A Carson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,55-59,2:38.67,Steven Z Goran,,3rd Annual Thanksgiving Classic,2013,2
+TNYA,200 M Individual Medley,SCM,M,55-59,5:44.79,Steven Z Goran,,AGUA Masters SC Meter Sprint Classic,2013,1
+TNYA,50 M Freestyle,SCM,M,60-64,31.65,Edward M Johnson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Freestyle,SCM,M,60-64,1:11.61,Edward M Johnson,,2013 IGLA Swimming Championships,2013,1
+TNYA,400 M Freestyle,SCM,M,60-64,8:02.87,Michael Goldring,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Breaststroke,SCM,M,60-64,47.78,Michael Goldring,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Breaststroke,SCM,M,60-64,1:49.76,Michael Goldring,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Breaststroke,SCM,M,60-64,3:59.00,Michael Goldring,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Butterfly,SCM,M,60-64,37.36,Edward M Johnson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Butterfly,SCM,M,60-64,1:30.81,Edward M Johnson,,2013 IGLA Swimming Championships,2013,1
+TNYA,100 M Individual Medley,SCM,M,60-64,1:24.79,Edward M Johnson,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Individual Medley,SCM,M,60-64,4:07.24,Michael Goldring,,2013 IGLA Swimming Championships,2013,1
+TNYA,50 M Freestyle,SCM,M,65-69,36.43,Richard W Chamberlain,,2013 IGLA Swimming Championships,2013,1
+TNYA,200 M Freestyle,SCM,M,65-69,3:14.80,Richard W Chamberlain,,2013 IGLA Swimming Championships,2013,1
+TNYA,1500 M Freestyle,SCM,M,65-69,28:38.76,Richard W Chamberlain,,2013 IGLA Swimming Championships,2013,1
+UC06,50 M Freestyle,SCM,W,18-24,32.40,Kathryn E Comer,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Backstroke,SCM,W,18-24,35.11,Kathryn E Comer,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,100 M Backstroke,SCM,W,18-24,1:13.51,Kathryn E Comer,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Freestyle,SCM,W,25-29,32.84,Amanda Dugan,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Breaststroke,SCM,W,25-29,37.76,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Breaststroke,SCM,W,25-29,1:22.88,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Butterfly,SCM,W,25-29,30.62,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Butterfly,SCM,W,25-29,35.40,Amanda Dugan,,6th Bearcat Masters SCM Invitational,2013,2
+UC06,100 M Individual Medley,SCM,W,25-29,1:13.72,Lara-Zuzan Golesorkhi,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Individual Medley,SCM,W,25-29,1:25.92,Amanda Dugan,,6th Bearcat Masters SCM Invitational,2013,2
+UC06,50 M Freestyle,SCM,W,35-39,33.32,Marguerite P Verga,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,100 M Freestyle,SCM,W,35-39,1:12.92,Marguerite P Verga,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,200 M Freestyle,SCM,W,35-39,2:40.49,Marguerite P Verga,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Freestyle,SCM,W,50-54,45.17,Kirtna Pai,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Freestyle,SCM,M,18-24,22.46,Drew Modrov,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Freestyle,SCM,M,18-24,50.46,Drew Modrov,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Butterfly,SCM,M,18-24,57.12,Drew Modrov,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,100 M Individual Medley,SCM,M,18-24,58.40,Drew Modrov,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Freestyle,SCM,M,25-29,28.13,James Cha,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Freestyle,SCM,M,25-29,1:00.60,Matthew F Caines,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Breaststroke,SCM,M,25-29,34.74,Matthew F Caines,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,200 M Individual Medley,SCM,M,25-29,2:32.34,Matthew F Caines,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Freestyle,SCM,M,30-34,31.28,Seyed Ali Razavi,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Freestyle,SCM,M,30-34,1:10.28,Seyed Ali Razavi,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Freestyle,SCM,M,35-39,28.47,Kevin J Bishop,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Freestyle,SCM,M,35-39,28.62,Karim Rozwadowski,,AGUA Masters SC Meter Sprint Classic,2013,2
+UC06,50 M Freestyle,SCM,M,35-39,36.04,Jason Mount,,AGUA Masters SC Meter Sprint Classic,2013,3
+UC06,100 M Freestyle,SCM,M,35-39,1:06.77,Kevin J Bishop,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,100 M Freestyle,SCM,M,35-39,1:25.76,Jason Mount,,AGUA Masters SC Meter Sprint Classic,2013,2
+UC06,50 M Butterfly,SCM,M,35-39,35.30,Karim Rozwadowski,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Butterfly,SCM,M,35-39,37.03,Kevin J Bishop,,6th Bearcat Masters SCM Invitational,2013,2
+UC06,100 M Individual Medley,SCM,M,35-39,1:22.72,Kevin J Bishop,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Freestyle,SCM,M,55-59,30.37,Gary P Biester,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,50 M Breaststroke,SCM,M,55-59,39.87,Gary P Biester,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,200 M Butterfly,SCM,M,55-59,2:59.18,John B Chambers,,6th Bearcat Masters SCM Invitational,2013,1
+UC06,200 M Freestyle,SCM,M,60-64,4:41.37,Rashmin S Master,,Rowdy Gaines Masters Classic V,2013,1
+UC06,50 M Freestyle,SCM,M,65-69,40.81,David Owens,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Freestyle,SCM,M,65-69,1:33.17,David Owens,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,50 M Backstroke,SCM,M,65-69,58.86,David Owens,,AGUA Masters SC Meter Sprint Classic,2013,1
+UC06,100 M Backstroke,SCM,M,65-69,2:08.86,David Owens,,AGUA Masters SC Meter Sprint Classic,2013,1
+UNAT,100 M Breaststroke,SCM,M,50-54,1:11.56,Dean E Putterman,,WMST 2013 November Classic,2013,1
+WM,50 M Freestyle,SCM,W,50-54,33.76,Susan Tokayer,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,100 M Freestyle,SCM,W,50-54,1:17.54,Susan Tokayer,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,50 M Butterfly,SCM,W,50-54,38.28,Susan Tokayer,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,100 M Individual Medley,SCM,W,50-54,1:33.74,Susan Tokayer,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,50 M Freestyle,SCM,M,50-54,32.73,Martin Burkhardt,,6th Bearcat Masters SCM Invitational,2013,1
+WM,100 M Freestyle,SCM,M,50-54,1:15.41,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,200 M Freestyle,SCM,M,50-54,2:41.53,Martin Burkhardt,,Two for One Invitational (SCM Day),2013,1
+WM,400 M Freestyle,SCM,M,50-54,5:48.64,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,800 M Freestyle,SCM,M,50-54,11:46.56,Martin Burkhardt,,6th Bearcat Masters SCM Invitational,2013,1
+WM,50 M Backstroke,SCM,M,50-54,43.00,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,100 M Backstroke,SCM,M,50-54,1:28.37,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,200 M Backstroke,SCM,M,50-54,3:10.00,Martin Burkhardt,,Two for One Invitational (SCM Day),2013,1
+WM,50 M Breaststroke,SCM,M,50-54,42.77,Martin Burkhardt,,6th Bearcat Masters SCM Invitational,2013,1
+WM,100 M Breaststroke,SCM,M,50-54,1:31.16,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,200 M Breaststroke,SCM,M,50-54,3:16.84,Martin Burkhardt,,Two for One Invitational (SCM Day),2013,1
+WM,50 M Butterfly,SCM,M,50-54,36.88,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,100 M Butterfly,SCM,M,50-54,1:28.91,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,200 M Butterfly,SCM,M,50-54,3:25.84,Martin Burkhardt,,Two for One Invitational (SCM Day),2013,1
+WM,100 M Individual Medley,SCM,M,50-54,1:25.43,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,200 M Individual Medley,SCM,M,50-54,3:00.18,Martin Burkhardt,,Two for One Invitational (SCM Day),2013,1
+WM,400 M Individual Medley,SCM,M,50-54,6:31.21,Martin Burkhardt,,2013 NE-LMSC SCM Championship Meet,2013,1
+WM,50 M Freestyle,SCM,M,55-59,35.39,George H Steers,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,100 M Freestyle,SCM,M,55-59,1:16.18,George H Steers,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,200 M Freestyle,SCM,M,55-59,2:49.53,George H Steers,,6th Bearcat Masters SCM Invitational,2013,1
+WM,800 M Freestyle,SCM,M,55-59,12:08.98,George H Steers,,6th Bearcat Masters SCM Invitational,2013,1
+WM,100 M Individual Medley,SCM,M,55-59,1:30.64,George H Steers,,AGUA Masters SC Meter Sprint Classic,2013,1
+WM,800 M Freestyle,SCM,M,60-64,10:53.14,John C Needham,,3rd Annual Thanksgiving Classic,2013,1
+WM,1500 M Freestyle,SCM,M,60-64,20:37.20,John C Needham,,3rd Annual Thanksgiving Classic,2013,1
+XCEL,50 M Freestyle,SCM,W,40-44,35.12,Karen Barbosa,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Freestyle,SCM,W,40-44,1:18.77,Karen Barbosa,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,200 M Freestyle,SCM,W,40-44,2:54.29,Karen Barbosa,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,400 M Freestyle,SCM,W,40-44,6:10.50,Karen Barbosa,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,50 M Breaststroke,SCM,W,40-44,50.65,Karen Barbosa,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,50 M Butterfly,SCM,W,40-44,40.99,Karen Barbosa,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Individual Medley,SCM,W,40-44,1:37.44,Karen Barbosa,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+XCEL,200 M Individual Medley,SCM,W,40-44,3:32.05,Karen Barbosa,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+XCEL,100 M Freestyle,SCM,M,30-34,1:04.22,Bruce Pye,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,400 M Freestyle,SCM,M,30-34,4:58.10,Bruce Pye,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,50 M Breaststroke,SCM,M,30-34,36.55,Bruce Pye,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+XCEL,200 M Breaststroke,SCM,M,30-34,2:53.11,Bruce Pye,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Individual Medley,SCM,M,30-34,1:14.25,Bruce Pye,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+XCEL,200 M Individual Medley,SCM,M,30-34,2:42.63,Bruce Pye,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+XCEL,50 M Breaststroke,SCM,M,35-39,33.69,Douglas J Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,100 M Breaststroke,SCM,M,35-39,1:14.92,Douglas J Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,100 M Individual Medley,SCM,M,35-39,1:10.99,Douglas J Gallagher,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,50 M Freestyle,SCM,M,50-54,32.24,Keith Cataldo,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,50 M Freestyle,SCM,M,50-54,32.25,Eric M Kramer,,2013 NE-LMSC SCM Championship Meet,2013,2
+XCEL,100 M Freestyle,SCM,M,50-54,1:10.79,Keith Cataldo,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Freestyle,SCM,M,50-54,1:11.51,Eric M Kramer,,2013 NE-LMSC SCM Championship Meet,2013,2
+XCEL,200 M Freestyle,SCM,M,50-54,2:38.46,Eric M Kramer,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,400 M Freestyle,SCM,M,50-54,5:51.82,Eric M Kramer,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Backstroke,SCM,M,50-54,1:32.28,Keith Cataldo,,3rd Annual Thanksgiving Classic,2013,1
+XCEL,50 M Breaststroke,SCM,M,50-54,40.09,Keith Cataldo,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,50 M Breaststroke,SCM,M,50-54,42.33,Eric M Kramer,,2013 NE-LMSC SCM Championship Meet,2013,2
+XCEL,100 M Breaststroke,SCM,M,50-54,1:30.42,Keith Cataldo,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Breaststroke,SCM,M,50-54,1:30.92,Eric M Kramer,,2013 NE-LMSC SCM Championship Meet,2013,2
+XCEL,50 M Butterfly,SCM,M,50-54,35.75,Keith Cataldo,,2013 NE-LMSC SCM Championship Meet,2013,1
+XCEL,100 M Individual Medley,SCM,M,50-54,1:22.76,Keith Cataldo,,5th Annual UVAC Leaf Peepers Masters SCM Meet,2013,1
+XCEL,100 M Freestyle,SCM,M,60-64,1:16.68,Richard A Benson,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,100 M Backstroke,SCM,M,60-64,1:40.18,Richard A Benson,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,100 M Butterfly,SCM,M,60-64,1:34.51,Richard A Benson,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,200 M Individual Medley,SCM,M,60-64,3:21.41,Richard A Benson,,AGUA Masters SC Meter Sprint Classic,2013,1
+XCEL,100 M Freestyle,SCM,M,75-79,1:30.48,Ira S Rimerman,,Coral Springs Holiday Classic,2013,1
+XCEL,100 M Butterfly,SCM,M,75-79,1:44.55,Ira S Rimerman,,Coral Springs Holiday Classic,2013,1
+XCEL,200 M Butterfly,SCM,M,75-79,4:00.69,Ira S Rimerman,,Coral Springs Holiday Classic,2013,1

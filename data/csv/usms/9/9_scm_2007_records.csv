@@ -1,0 +1,78 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AAA,50 M Freestyle,SCM,W,60-64,45.64,Carolynn Foley,,Holiday Classic,2007,1
+AAA,100 M Freestyle,SCM,W,60-64,1:41.16,Carolynn Foley,,Holiday Classic,2007,1
+AAA,50 M Backstroke,SCM,W,60-64,54.91,Carolynn Foley,,Holiday Classic,2007,1
+COLU,100 M Freestyle,SCM,M,25-29,54.59,Ben A Erb,,Colonies Zone SCM Champs,2007,1
+COLU,200 M Freestyle,SCM,M,25-29,2:03.85,Ben A Erb,,Colonies Zone SCM Champs,2007,1
+HUH,100 M Freestyle,SCM,W,18-24,1:26.60,Lindsay E Rienks,,ALBATROSS OPEN,2007,1
+HUH,50 M Freestyle,SCM,W,30-34,34.17,Amethyst F Tymoch,,ALBATROSS OPEN,2007,1
+HUH,200 M Breaststroke,SCM,W,30-34,3:23.50,Amethyst F Tymoch,,ALBATROSS OPEN,2007,1
+HUH,100 M Individual Medley,SCM,W,30-34,1:26.72,Amethyst F Tymoch,,ALBATROSS OPEN,2007,1
+HUH,50 M Freestyle,SCM,W,35-39,32.41,Karen Heinz,,ALBATROSS OPEN,2007,1
+HUH,50 M Freestyle,SCM,W,35-39,35.08,Allison M Booth,,ALBATROSS OPEN,2007,2
+HUH,50 M Freestyle,SCM,W,35-39,40.58,Jennifer M Farrell,,ALBATROSS OPEN,2007,3
+HUH,50 M Freestyle,SCM,W,35-39,41.78,Pamela L Hovis,,ALBATROSS OPEN,2007,4
+HUH,50 M Freestyle,SCM,W,35-39,42.37,Michele M Firlie,,ALBATROSS OPEN,2007,5
+HUH,100 M Freestyle,SCM,W,35-39,1:17.96,Allison M Booth,,ALBATROSS OPEN,2007,1
+HUH,100 M Freestyle,SCM,W,35-39,1:31.92,Pamela L Hovis,,ALBATROSS OPEN,2007,2
+HUH,100 M Freestyle,SCM,W,35-39,1:36.32,Michele M Firlie,,ALBATROSS OPEN,2007,3
+HUH,100 M Backstroke,SCM,W,35-39,1:32.29,Allison M Booth,,ALBATROSS OPEN,2007,1
+HUH,100 M Backstroke,SCM,W,35-39,1:51.15,Jennifer M Farrell,,ALBATROSS OPEN,2007,2
+HUH,50 M Breaststroke,SCM,W,35-39,39.05,Karen Heinz,,ALBATROSS OPEN,2007,1
+HUH,50 M Breaststroke,SCM,W,35-39,52.49,Michele M Firlie,,ALBATROSS OPEN,2007,2
+HUH,50 M Breaststroke,SCM,W,35-39,1:03.73,Pamela L Hovis,,ALBATROSS OPEN,2007,3
+HUH,100 M Individual Medley,SCM,W,35-39,1:23.61,Karen Heinz,,ALBATROSS OPEN,2007,1
+HUH,100 M Individual Medley,SCM,W,35-39,1:32.63,Allison M Booth,,ALBATROSS OPEN,2007,2
+HUH,100 M Individual Medley,SCM,W,35-39,1:47.44,Michele M Firlie,,ALBATROSS OPEN,2007,3
+HUH,50 M Freestyle,SCM,W,40-44,53.52,Megan A Kirkegaard,,ALBATROSS OPEN,2007,1
+HUH,100 M Freestyle,SCM,W,40-44,1:19.39,Marie A Pohida,,ALBATROSS OPEN,2007,1
+HUH,200 M Freestyle,SCM,W,40-44,2:54.81,Marie A Pohida,,ALBATROSS OPEN,2007,1
+HUH,50 M Backstroke,SCM,W,40-44,47.45,Kathleen Shields,,ALBATROSS OPEN,2007,1
+HUH,50 M Backstroke,SCM,W,40-44,1:08.69,Megan A Kirkegaard,,ALBATROSS OPEN,2007,2
+HUH,200 M Backstroke,SCM,W,40-44,3:29.11,Marie A Pohida,,ALBATROSS OPEN,2007,1
+HUH,50 M Breaststroke,SCM,W,40-44,58.45,Megan Mathews,,ALBATROSS OPEN,2007,1
+HUH,50 M Breaststroke,SCM,W,40-44,1:01.06,Megan A Kirkegaard,,ALBATROSS OPEN,2007,2
+HUH,200 M Breaststroke,SCM,W,40-44,3:41.04,Megan Mathews,,ALBATROSS OPEN,2007,1
+HUH,50 M Butterfly,SCM,W,40-44,42.91,Kathleen Shields,,ALBATROSS OPEN,2007,1
+HUH,100 M Individual Medley,SCM,W,40-44,1:37.59,Kathleen Shields,,ALBATROSS OPEN,2007,1
+HUH,200 M Freestyle,SCM,W,45-49,2:51.16,Kathleen D Capron,,ALBATROSS OPEN,2007,1
+HUH,50 M Breaststroke,SCM,W,45-49,50.71,Shotsie B Wilson,,ALBATROSS OPEN,2007,1
+HUH,100 M Breaststroke,SCM,W,45-49,1:57.82,Shotsie B Wilson,,ALBATROSS OPEN,2007,1
+HUH,200 M Breaststroke,SCM,W,45-49,4:17.08,Shotsie B Wilson,,ALBATROSS OPEN,2007,1
+HUH,50 M Butterfly,SCM,W,45-49,37.17,Kathleen D Capron,,ALBATROSS OPEN,2007,1
+HUH,200 M Individual Medley,SCM,W,45-49,3:10.12,Kathleen D Capron,,ALBATROSS OPEN,2007,1
+HUH,100 M Freestyle,SCM,W,50-54,1:36.85,Anne E Rienks,,ALBATROSS OPEN,2007,1
+HUH,50 M Breaststroke,SCM,W,50-54,57.58,Anne E Rienks,,ALBATROSS OPEN,2007,1
+HUH,100 M Freestyle,SCM,W,55-59,1:30.55,Barbara J Scheffter,,ALBATROSS OPEN,2007,1
+HUH,200 M Freestyle,SCM,W,55-59,3:22.81,Barbara J Scheffter,,ALBATROSS OPEN,2007,1
+HUH,50 M Backstroke,SCM,W,55-59,53.58,Barbara J Scheffter,,ALBATROSS OPEN,2007,1
+HUH,50 M Freestyle,SCM,W,60-64,1:02.36,Donna Brown,,ALBATROSS OPEN,2007,1
+HUH,50 M Breaststroke,SCM,W,60-64,1:18.15,Donna Brown,,ALBATROSS OPEN,2007,1
+HUH,100 M Freestyle,SCM,M,45-49,1:10.66,Gary Melvin,,ALBATROSS OPEN,2007,1
+HUH,100 M Freestyle,SCM,M,45-49,1:31.14,Mark T Dougherty,,ALBATROSS OPEN,2007,2
+HUH,200 M Freestyle,SCM,M,45-49,2:43.75,Gary Melvin,,ALBATROSS OPEN,2007,1
+HUH,100 M Breaststroke,SCM,M,45-49,1:43.72,Mark T Dougherty,,ALBATROSS OPEN,2007,1
+HUH,200 M Breaststroke,SCM,M,45-49,3:45.34,Mark T Dougherty,,ALBATROSS OPEN,2007,1
+HUH,50 M Butterfly,SCM,M,45-49,39.70,Gary Melvin,,ALBATROSS OPEN,2007,1
+HUH,200 M Freestyle,SCM,M,55-59,3:46.98,Dave Beck,,ALBATROSS OPEN,2007,1
+MARY,1500 M Freestyle,SCM,W,40-44,25:17.66,Sandy Swoboda,,SPMA SCM Champs,2007,1
+MARY,400 M Individual Medley,SCM,W,40-44,7:30.94,Sandy Swoboda,,SPMA SCM Champs,2007,1
+MARY,50 M Freestyle,SCM,M,55-59,29.89,Michael Ehrlinger,,Colonies Zone SCM Champs,2007,1
+MARY,100 M Freestyle,SCM,M,55-59,1:05.53,Michael Ehrlinger,,Colonies Zone SCM Champs,2007,1
+MARY,50 M Breaststroke,SCM,M,55-59,37.25,Michael Ehrlinger,,Colonies Zone SCM Champs,2007,1
+MARY,100 M Breaststroke,SCM,M,55-59,1:21.60,Michael Ehrlinger,,Colonies Zone SCM Champs,2007,1
+MARY,200 M Breaststroke,SCM,M,55-59,3:04.32,Michael Ehrlinger,,Colonies Zone SCM Champs,2007,1
+NBAC,100 M Backstroke,SCM,W,30-34,1:08.74,Tobi L Limke,,ALBATROSS OPEN,2007,1
+NBAC,200 M Individual Medley,SCM,W,30-34,2:31.37,Tobi L Limke,,ALBATROSS OPEN,2007,1
+NBAC,50 M Freestyle,SCM,W,35-39,30.42,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,100 M Freestyle,SCM,W,35-39,1:06.71,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,200 M Freestyle,SCM,W,35-39,2:25.21,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,400 M Freestyle,SCM,W,35-39,4:58.97,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,800 M Freestyle,SCM,W,35-39,10:19.61,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,1500 M Freestyle,SCM,W,35-39,19:33.50,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,100 M Backstroke,SCM,W,35-39,1:21.97,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,100 M Individual Medley,SCM,W,35-39,1:19.26,Suzanne Gedney,,Colonies Zone SCM Champs,2007,1
+NBAC,200 M Freestyle,SCM,M,40-44,2:21.01,Gil Mandel,,Colonies Zone SCM Champs,2007,1
+NBAC,50 M Breaststroke,SCM,M,40-44,33.75,Gil Mandel,,Colonies Zone SCM Champs,2007,1
+NBAC,100 M Breaststroke,SCM,M,40-44,1:13.81,Gil Mandel,,Colonies Zone SCM Champs,2007,1
+NBAC,200 M Breaststroke,SCM,M,40-44,2:48.32,Gil Mandel,,Colonies Zone SCM Champs,2007,1

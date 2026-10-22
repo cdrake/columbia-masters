@@ -1,0 +1,79 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+AGUA,400 M Freestyle,LCM,W,60-64,7:14.68,Jane Katz,,PAN AM Masters Champs LCM,2007,1
+AGUA,800 M Freestyle,LCM,W,60-64,14:46.33,Jane Katz,,PAN AM Masters Champs LCM,2007,1
+AGUA,100 M Backstroke,LCM,W,60-64,1:51.44,Jane Katz,,PAN AM Masters Champs LCM,2007,1
+AGUA,200 M Backstroke,LCM,W,60-64,3:45.36,Jane Katz,,PAN AM Masters Champs LCM,2007,1
+AGUA,400 M Freestyle,LCM,M,60-64,5:41.20,Richard F Bernstein,,2007 USMS Long Course Nationals,2007,1
+AGUA,200 M Individual Medley,LCM,M,60-64,3:10.18,Richard F Bernstein,,2007 USMS Long Course Nationals,2007,1
+AGUA,400 M Individual Medley,LCM,M,60-64,6:48.69,Richard F Bernstein,,2007 USMS Long Course Nationals,2007,1
+BDGR,50 M Freestyle,LCM,M,45-49,26.62,Steven M Newman,,Colonies Zone LCM Champs,2007,1
+BDGR,100 M Freestyle,LCM,M,45-49,57.81,Steven M Newman,,Colonies Zone LCM Champs,2007,1
+BDGR,200 M Freestyle,LCM,M,45-49,2:07.25,Steven M Newman,,Colonies Zone LCM Champs,2007,1
+BDGR,50 M Backstroke,LCM,M,45-49,33.29,Steven M Newman,,Colonies Zone LCM Champs,2007,1
+BDGR,100 M Backstroke,LCM,M,45-49,1:10.09,Steven M Newman,,Colonies Zone LCM Champs,2007,1
+BDGR,200 M Backstroke,LCM,M,45-49,2:34.79,Steven M Newman,,Colonies Zone LCM Champs,2007,1
+BDGR,50 M Butterfly,LCM,M,45-49,29.60,Steven M Newman,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+DAMM,200 M Freestyle,LCM,M,55-59,2:37.07,Bruce D Goldberg,,2007 USMS Long Course Nationals,2007,1
+DAMM,400 M Freestyle,LCM,M,55-59,5:31.40,Bruce D Goldberg,,2007 USMS Long Course Nationals,2007,1
+DAMM,800 M Freestyle,LCM,M,55-59,11:25.60,Bruce D Goldberg,,2007 USMS Long Course Nationals,2007,1
+DAMM,1500 M Freestyle,LCM,M,55-59,22:08.68,Bruce D Goldberg,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Freestyle,LCM,W,25-29,36.53,Gillian N Bonanno,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,100 M Freestyle,LCM,W,25-29,1:21.67,Gillian N Bonanno,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,200 M Freestyle,LCM,W,25-29,3:01.08,Gillian N Bonanno,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,50 M Freestyle,LCM,W,40-44,29.76,Fran Kravetz-Pepe,,Colonies Zone LCM Champs,2007,1
+METR,100 M Freestyle,LCM,W,40-44,1:05.33,Fran Kravetz-Pepe,,Colonies Zone LCM Champs,2007,1
+METR,50 M Backstroke,LCM,W,40-44,35.20,Fran Kravetz-Pepe,,Colonies Zone LCM Champs,2007,1
+METR,100 M Backstroke,LCM,W,40-44,1:19.96,Fran Kravetz-Pepe,,Colonies Zone LCM Champs,2007,1
+METR,50 M Butterfly,LCM,W,40-44,32.51,Fran Kravetz-Pepe,,Colonies Zone LCM Champs,2007,1
+METR,400 M Freestyle,LCM,W,55-59,6:51.89,Marie H Vellucci,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,50 M Breaststroke,LCM,W,55-59,51.43,Marie H Vellucci,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,200 M Butterfly,LCM,W,55-59,4:05.21,Marie H Vellucci,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,400 M Freestyle,LCM,W,70-74,7:22.38,Barbara J Love,,2007 USMS Long Course Nationals,2007,1
+METR,100 M Butterfly,LCM,W,70-74,2:00.61,Barbara J Love,,2007 USMS Long Course Nationals,2007,1
+METR,200 M Butterfly,LCM,W,70-74,4:20.00,Barbara J Love,,2007 USMS Long Course Nationals,2007,1
+METR,400 M Individual Medley,LCM,W,70-74,8:43.59,Barbara J Love,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Freestyle,LCM,M,30-34,28.53,Michael S Bonanno,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,100 M Freestyle,LCM,M,30-34,1:09.70,Michael S Bonanno,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,200 M Individual Medley,LCM,M,30-34,3:18.96,Michael S Bonanno,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+METR,100 M Freestyle,LCM,M,35-39,1:05.64,David S Mishkin,,Colonies Zone LCM Champs,2007,1
+METR,200 M Freestyle,LCM,M,35-39,2:29.02,David S Mishkin,,Colonies Zone LCM Champs,2007,1
+METR,400 M Freestyle,LCM,M,35-39,5:25.31,David S Mishkin,,Colonies Zone LCM Champs,2007,1
+METR,100 M Breaststroke,LCM,M,35-39,1:26.65,David S Mishkin,,Colonies Zone LCM Champs,2007,1
+METR,100 M Butterfly,LCM,M,35-39,1:15.76,David S Mishkin,,Colonies Zone LCM Champs,2007,1
+METR,50 M Freestyle,LCM,M,45-49,29.49,Frank Briguglio,,PAN AM Masters Champs LCM,2007,1
+METR,100 M Freestyle,LCM,M,45-49,1:08.26,Frank Briguglio,,PAN AM Masters Champs LCM,2007,1
+METR,200 M Freestyle,LCM,M,45-49,2:47.29,Frank Briguglio,,PAN AM Masters Champs LCM,2007,1
+METR,1500 M Freestyle,LCM,M,50-54,20:57.40,Glenn E Wharton,,SPMA Reg Richardson Memorial LCM at Santa Barbara,2007,1
+METR,50 M Breaststroke,LCM,M,55-59,36.09,Peter L Kingan,,2007 USMS Long Course Nationals,2007,1
+METR,100 M Breaststroke,LCM,M,55-59,1:22.62,Peter L Kingan,,2007 USMS Long Course Nationals,2007,1
+METR,200 M Breaststroke,LCM,M,55-59,3:08.84,Peter L Kingan,,2007 USMS Long Course Nationals,2007,1
+METR,200 M Freestyle,LCM,M,65-69,3:08.93,Richard S Monahan,,2007 USMS Long Course Nationals,2007,1
+METR,400 M Freestyle,LCM,M,65-69,6:44.58,Richard S Monahan,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Backstroke,LCM,M,65-69,48.43,Richard S Monahan,,2007 USMS Long Course Nationals,2007,1
+METR,100 M Backstroke,LCM,M,65-69,1:47.29,Richard S Monahan,,2007 USMS Long Course Nationals,2007,1
+METR,200 M Backstroke,LCM,M,65-69,3:48.45,Richard S Monahan,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Freestyle,LCM,M,75-79,34.35,Stanley J Shechter,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Freestyle,LCM,M,75-79,39.16,Richard Ellis,,2007 USMS Long Course Nationals,2007,2
+METR,100 M Freestyle,LCM,M,75-79,1:20.30,Stanley J Shechter,,2007 USMS Long Course Nationals,2007,1
+METR,100 M Freestyle,LCM,M,75-79,1:33.51,Richard Ellis,,2007 USMS Long Course Nationals,2007,2
+METR,800 M Freestyle,LCM,M,75-79,16:56.76,Richard Ellis,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Backstroke,LCM,M,75-79,53.40,Richard Ellis,,2007 USMS Long Course Nationals,2007,1
+METR,100 M Backstroke,LCM,M,75-79,2:18.96,Richard Ellis,,2007 USMS Long Course Nationals,2007,1
+METR,50 M Butterfly,LCM,M,75-79,1:08.00,Richard Ellis,,2007 USMS Long Course Nationals,2007,1
+NYCH,50 M Freestyle,LCM,W,25-29,28.13,Ngozi R Monu,,Colonies Zone LCM Champs,2007,1
+NYCH,100 M Freestyle,LCM,W,25-29,1:02.86,Ngozi R Monu,,Colonies Zone LCM Champs,2007,1
+NYCH,200 M Freestyle,LCM,W,25-29,2:20.79,Ngozi R Monu,,Colonies Zone LCM Champs,2007,1
+UNAT,50 M Freestyle,LCM,W,18-24,32.57,Melissa C Ninivaggi,,2007 USMS Long Course Nationals,2007,1
+UNAT,100 M Freestyle,LCM,W,18-24,1:16.91,Melissa C Ninivaggi,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Backstroke,LCM,W,18-24,40.98,Melissa C Ninivaggi,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Butterfly,LCM,W,18-24,34.04,Melissa C Ninivaggi,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Freestyle,LCM,M,25-29,27.13,Harold S Gould,,2007 USMS Long Course Nationals,2007,1
+UNAT,100 M Freestyle,LCM,M,25-29,59.30,Harold S Gould,,2007 USMS Long Course Nationals,2007,1
+UNAT,200 M Freestyle,LCM,M,25-29,2:14.79,Harold S Gould,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Butterfly,LCM,M,25-29,29.29,Harold S Gould,,2007 USMS Long Course Nationals,2007,1
+UNAT,100 M Butterfly,LCM,M,25-29,1:03.82,Harold S Gould,,2007 USMS Long Course Nationals,2007,1
+UNAT,200 M Butterfly,LCM,M,25-29,2:38.32,Harold S Gould,,2007 USMS Long Course Nationals,2007,1
+UNAT,50 M Freestyle,LCM,M,55-59,49.24,Robert W McAdams,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+UNAT,50 M Backstroke,LCM,M,55-59,1:06.59,Robert W McAdams,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+UNAT,100 M Backstroke,LCM,M,55-59,2:28.45,Robert W McAdams,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
+UNAT,50 M Breaststroke,LCM,M,55-59,1:15.71,Robert W McAdams,,New Jersey Jason Nessel Memorial LCM at Rahway,2007,1
