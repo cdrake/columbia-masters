@@ -1,0 +1,528 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MICH,200 M Freestyle,SCM,W,18-24,3:54.44,Jessica M Johnson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,400 M Freestyle,SCM,W,18-24,8:07.82,Jessica M Johnson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,800 M Freestyle,SCM,W,18-24,16:27.57,Jessica M Johnson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,1500 M Freestyle,SCM,W,18-24,31:36.94,Jessica M Johnson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,50 M Freestyle,SCM,W,25-29,34.02,Brandy Shuler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,W,25-29,1:15.28,Brandy Shuler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,W,25-29,2:41.66,Brandy Shuler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Individual Medley,SCM,W,25-29,3:01.24,Brandy Shuler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,30-34,36.02,Tara B Kendall,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,30-34,40.76,Julie M Martensen,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,W,30-34,48.22,Cheryl J Machovec,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,W,30-34,1:25.34,Tara B Kendall,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,W,30-34,1:59.14,Cheryl J Machovec,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,W,30-34,2:29.79,Jenny L Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Freestyle,SCM,W,30-34,3:34.46,Julie M Martensen,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,400 M Freestyle,SCM,W,30-34,9:53.53,Cheryl J Machovec,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,800 M Freestyle,SCM,W,30-34,10:51.56,Jenny L Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,1500 M Freestyle,SCM,W,30-34,30:47.05,Julie M Martensen,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,W,30-34,49.14,Tara B Kendall,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Backstroke,SCM,W,30-34,3:16.86,Jenny L Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Butterfly,SCM,W,30-34,3:06.05,Jenny L Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,30-34,1:37.97,Tara B Kendall,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,35-39,33.72,Shelly M Bartnicki,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,35-39,35.42,Teresa M Parker,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,W,35-39,45.32,Barbara L Kaplan,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,W,35-39,1:18.95,Teresa M Parker,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Freestyle,SCM,W,35-39,1:28.41,Maria Sposita,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,W,35-39,3:01.88,Teresa M Parker,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Freestyle,SCM,W,35-39,3:22.84,Maria Sposita,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,400 M Freestyle,SCM,W,35-39,7:15.69,Maria Sposita,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,800 M Freestyle,SCM,W,35-39,14:59.46,Maria Sposita,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Backstroke,SCM,W,35-39,52.23,Teresa M Parker,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,W,35-39,56.03,Barbara L Kaplan,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Breaststroke,SCM,W,35-39,44.21,Shelly M Bartnicki,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,35-39,49.93,Katy Michalski,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Breaststroke,SCM,W,35-39,54.20,Teresa M Parker,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Breaststroke,SCM,W,35-39,1:01.16,Barbara L Kaplan,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,100 M Individual Medley,SCM,W,35-39,1:25.20,Shelly M Bartnicki,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,40-44,38.32,Yoshiko S Tischler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,40-44,40.41,Cherie D Adkins,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,W,40-44,44.79,Clara A Thiry,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,W,40-44,1:11.36,Kerry L Frame,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,W,40-44,1:28.08,Yoshiko S Tischler,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,W,40-44,1:33.75,Cherie D Adkins,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,W,40-44,1:38.09,Irene K Pawley-Kennedy,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,100 M Freestyle,SCM,W,40-44,1:41.44,Kathleen P Wertella,,Michigan Milford Meltdown SCM,2008,5
+MICH,100 M Freestyle,SCM,W,40-44,1:47.91,Naomi L Irvine,,Michigan Milford Meltdown SCM,2008,6
+MICH,200 M Freestyle,SCM,W,40-44,2:32.67,Kerry L Frame,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,W,40-44,3:11.32,Yoshiko S Tischler,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,W,40-44,3:29.20,Irene K Pawley-Kennedy,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Freestyle,SCM,W,40-44,4:07.14,Kathleen P Wertella,,Michigan Milford Meltdown SCM,2008,4
+MICH,400 M Freestyle,SCM,W,40-44,6:46.66,Yoshiko S Tischler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,400 M Freestyle,SCM,W,40-44,7:13.50,Irene K Pawley-Kennedy,,Michigan Milford Meltdown SCM,2008,2
+MICH,800 M Freestyle,SCM,W,40-44,14:57.59,Irene K Pawley-Kennedy,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,W,40-44,15:46.52,Danielle C Porter,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Backstroke,SCM,W,40-44,38.64,Kerry L Frame,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,W,40-44,39.54,Julie L Pierce,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Backstroke,SCM,W,40-44,50.47,Karen E Simonich,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Backstroke,SCM,W,40-44,1:08.36,Naomi L Irvine,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Backstroke,SCM,W,40-44,1:45.66,Karen E Simonich,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,40-44,1:00.25,Kathleen P Wertella,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,40-44,1:04.88,Naomi L Irvine,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Breaststroke,SCM,W,40-44,2:03.41,Danielle C Porter,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,W,40-44,36.45,Julie L Pierce,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Butterfly,SCM,W,40-44,1:28.01,Julie L Pierce,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,40-44,1:22.25,Kerry L Frame,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,40-44,1:23.12,Julie L Pierce,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Individual Medley,SCM,W,40-44,1:43.54,Karen E Simonich,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Individual Medley,SCM,W,40-44,1:52.81,Danielle C Porter,,Michigan Milford Meltdown SCM,2008,4
+MICH,200 M Individual Medley,SCM,W,40-44,3:00.97,Julie L Pierce,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,W,45-49,32.19,Anne Marie Phillips,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,45-49,34.22,Karen C Rosinski,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Freestyle,SCM,W,45-49,34.23,Alexandra Akemann,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,50 M Freestyle,SCM,W,45-49,35.51,Jean C Nelis,,Michigan Milford Meltdown SCM,2008,4
+MICH,50 M Freestyle,SCM,W,45-49,40.54,Julie A Mohan,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,50 M Freestyle,SCM,W,45-49,44.97,Maureen C Strachan,,Brighton Michigan FAST Valentines SCM,2008,6
+MICH,100 M Freestyle,SCM,W,45-49,1:17.19,Karen C Rosinski,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Freestyle,SCM,W,45-49,1:18.48,Alexandra Akemann,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,W,45-49,1:18.66,Jean C Nelis,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Freestyle,SCM,W,45-49,1:42.00,Maureen C Strachan,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,200 M Freestyle,SCM,W,45-49,2:38.43,Anne Marie Phillips,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,W,45-49,2:47.94,Karen C Rosinski,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Freestyle,SCM,W,45-49,2:56.48,Alexandra Akemann,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Freestyle,SCM,W,45-49,3:22.21,Julie A Mohan,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,200 M Freestyle,SCM,W,45-49,3:26.21,Susan C Myers,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,200 M Freestyle,SCM,W,45-49,3:51.91,Maureen C Strachan,,Michigan Milford Meltdown SCM,2008,6
+MICH,400 M Freestyle,SCM,W,45-49,5:59.12,Karen C Rosinski,,Michigan Milford Meltdown SCM,2008,1
+MICH,400 M Freestyle,SCM,W,45-49,7:06.03,Susan C Myers,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,800 M Freestyle,SCM,W,45-49,12:11.54,Karen C Rosinski,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,W,45-49,12:25.39,Anne Marie Phillips,,Michigan Milford Meltdown SCM,2008,2
+MICH,800 M Freestyle,SCM,W,45-49,12:46.86,Suzanne E Grebe,,Michigan Milford Meltdown SCM,2008,3
+MICH,1500 M Freestyle,SCM,W,45-49,22:39.06,Anne Marie Phillips,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,1500 M Freestyle,SCM,W,45-49,27:55.51,Susan M Gutowski,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Backstroke,SCM,W,45-49,56.71,Maureen C Strachan,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,45-49,44.43,Suzanne E Grebe,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,45-49,49.00,Maureen C Strachan,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Breaststroke,SCM,W,45-49,53.15,Julie A Mohan,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Breaststroke,SCM,W,45-49,1:35.93,Suzanne E Grebe,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Breaststroke,SCM,W,45-49,1:48.87,Maureen C Strachan,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Breaststroke,SCM,W,45-49,1:50.06,Susan M Gutowski,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Breaststroke,SCM,W,45-49,3:23.61,Suzanne E Grebe,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,W,45-49,38.65,Anne Marie Phillips,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,45-49,1:29.88,Anne Marie Phillips,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,45-49,1:31.17,Alexandra Akemann,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Individual Medley,SCM,W,45-49,1:32.33,Jean C Nelis,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Individual Medley,SCM,W,45-49,1:47.98,Julie A Mohan,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,100 M Individual Medley,SCM,W,45-49,1:51.21,Susan C Myers,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,100 M Individual Medley,SCM,W,45-49,1:53.19,Susan M Gutowski,,Brighton Michigan FAST Valentines SCM,2008,6
+MICH,200 M Individual Medley,SCM,W,45-49,3:32.42,Suzanne E Grebe,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Individual Medley,SCM,W,45-49,3:59.00,Susan C Myers,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,W,50-54,35.74,Maddie Diedo,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,W,50-54,43.56,Kathleen M Early-Burk,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,W,50-54,1:23.74,Maddie Diedo,,"Canada Masters at Brantford Ontario, USMS only",2008,1
+MICH,100 M Freestyle,SCM,W,50-54,1:36.61,Kathleen M Early-Burk,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,W,50-54,2:59.91,Maddie Diedo,,"Canada Masters at Brantford Ontario, USMS only",2008,1
+MICH,400 M Freestyle,SCM,W,50-54,6:37.72,Maddie Diedo,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Backstroke,SCM,W,50-54,42.89,Maddie Diedo,,Miami Redfin Masters Meet,2008,1
+MICH,50 M Backstroke,SCM,W,50-54,46.16,Paula J Pendergast,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Backstroke,SCM,W,50-54,1:35.16,Maddie Diedo,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,200 M Backstroke,SCM,W,50-54,3:28.09,Maddie Diedo,,Miami Redfin Masters Meet,2008,1
+MICH,50 M Breaststroke,SCM,W,50-54,47.05,Paula J Pendergast,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Breaststroke,SCM,W,50-54,1:44.57,Paula J Pendergast,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,W,50-54,43.53,Paula J Pendergast,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,50-54,1:35.33,Paula J Pendergast,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,W,55-59,33.91,Sally K Guthrie,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,50 M Freestyle,SCM,W,55-59,47.39,Gerrianne E Leitner,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Freestyle,SCM,W,55-59,51.46,Cecilia M Brzys,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,W,55-59,1:13.99,Sally K Guthrie,,Miami Redfin Masters Meet,2008,1
+MICH,100 M Freestyle,SCM,W,55-59,1:55.47,Cecilia M Brzys,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,W,55-59,2:19.58,Sharon A Jaeger,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Freestyle,SCM,W,55-59,2:41.27,Sally K Guthrie,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,400 M Freestyle,SCM,W,55-59,5:55.27,Sally K Guthrie,,2008 Mizzou Masters SCM Meet,2008,1
+MICH,800 M Freestyle,SCM,W,55-59,11:59.89,Sally K Guthrie,,24th Annual GRIN Fall Classic,2008,1
+MICH,800 M Freestyle,SCM,W,55-59,17:00.07,Gerrianne E Leitner,,Michigan Milford Meltdown SCM,2008,2
+MICH,800 M Freestyle,SCM,W,55-59,18:17.02,Gloria Raupp,,Michigan Milford Meltdown SCM,2008,3
+MICH,1500 M Freestyle,SCM,W,55-59,22:39.11,Sally K Guthrie,,24th Annual GRIN Fall Classic,2008,1
+MICH,1500 M Freestyle,SCM,W,55-59,33:29.84,Cecilia M Brzys,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Backstroke,SCM,W,55-59,42.90,Sally K Guthrie,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,50 M Backstroke,SCM,W,55-59,1:00.69,Gloria Raupp,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Backstroke,SCM,W,55-59,1:23.12,Sharon A Jaeger,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Backstroke,SCM,W,55-59,1:39.72,Sally K Guthrie,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Backstroke,SCM,W,55-59,2:13.14,Cecilia M Brzys,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Backstroke,SCM,W,55-59,3:24.18,Sally K Guthrie,,24th Annual GRIN Fall Classic,2008,1
+MICH,50 M Breaststroke,SCM,W,55-59,57.68,Gloria Raupp,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,55-59,1:04.88,Gerrianne E Leitner,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Breaststroke,SCM,W,55-59,1:45.21,Sally K Guthrie,,Miami Redfin Masters Meet,2008,1
+MICH,100 M Breaststroke,SCM,W,55-59,2:02.33,Gloria Raupp,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Breaststroke,SCM,W,55-59,3:45.86,Sally K Guthrie,,2008 Mizzou Masters SCM Meet,2008,1
+MICH,50 M Butterfly,SCM,W,55-59,39.83,Sally K Guthrie,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Butterfly,SCM,W,55-59,1:32.82,Sally K Guthrie,,24th Annual GRIN Fall Classic,2008,1
+MICH,200 M Butterfly,SCM,W,55-59,3:38.70,Sally K Guthrie,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,100 M Individual Medley,SCM,W,55-59,1:29.91,Sally K Guthrie,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Individual Medley,SCM,W,55-59,2:01.60,Gerrianne E Leitner,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Individual Medley,SCM,W,55-59,2:07.97,Gloria Raupp,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Individual Medley,SCM,W,55-59,3:23.44,Sally K Guthrie,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,400 M Individual Medley,SCM,W,55-59,6:53.81,Sally K Guthrie,,Miami Redfin Masters Meet,2008,1
+MICH,50 M Freestyle,SCM,W,60-64,42.21,Mary Dehn,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,W,60-64,1:41.41,Mary Dehn,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,60-64,1:02.56,Mary Dehn,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,65-69,44.36,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,50 M Freestyle,SCM,W,65-69,44.70,Joyce Kowalski,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,W,65-69,1:35.02,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Freestyle,SCM,W,65-69,1:47.21,Joyce Kowalski,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,W,65-69,3:20.30,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,400 M Freestyle,SCM,W,65-69,6:52.18,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,800 M Freestyle,SCM,W,65-69,13:51.71,Jennifer A Parks,,Michigan Milford Meltdown SCM,2008,1
+MICH,1500 M Freestyle,SCM,W,65-69,26:03.50,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,50 M Backstroke,SCM,W,65-69,48.88,Jennifer A Parks,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Backstroke,SCM,W,65-69,1:44.86,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,200 M Backstroke,SCM,W,65-69,3:42.28,Jennifer A Parks,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,50 M Breaststroke,SCM,W,65-69,1:00.58,Joyce Kowalski,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,100 M Breaststroke,SCM,W,65-69,2:09.00,Joyce Kowalski,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Breaststroke,SCM,W,65-69,4:32.79,Joyce Kowalski,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,50 M Butterfly,SCM,W,65-69,54.91,Joyce Kowalski,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Butterfly,SCM,W,65-69,2:06.42,Joyce Kowalski,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,65-69,2:00.93,Joyce Kowalski,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Individual Medley,SCM,W,65-69,4:20.04,Joyce Kowalski,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,50 M Freestyle,SCM,W,70-74,50.97,Laura J Gogola,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,100 M Freestyle,SCM,W,70-74,1:46.60,Laura J Gogola,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Freestyle,SCM,W,70-74,3:50.91,Laura J Gogola,,Michigan Milford Meltdown SCM,2008,1
+MICH,400 M Freestyle,SCM,W,70-74,8:06.51,Laura J Gogola,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,W,70-74,16:39.79,Laura J Gogola,,Michigan Milford Meltdown SCM,2008,1
+MICH,1500 M Freestyle,SCM,W,70-74,31:31.46,Laura J Gogola,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,W,70-74,56.18,Laura J Gogola,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Backstroke,SCM,W,70-74,2:06.87,Laura J Gogola,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Backstroke,SCM,W,70-74,4:31.72,Laura J Gogola,,Miami Redfin Masters Meet,2008,1
+MICH,50 M Breaststroke,SCM,W,70-74,1:11.30,Laura J Gogola,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,50 M Butterfly,SCM,W,70-74,1:07.78,Laura J Gogola,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,100 M Butterfly,SCM,W,70-74,2:32.42,Laura J Gogola,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,100 M Individual Medley,SCM,W,70-74,2:07.82,Laura J Gogola,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,200 M Individual Medley,SCM,W,70-74,4:43.75,Laura J Gogola,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,400 M Individual Medley,SCM,W,70-74,9:54.56,Laura J Gogola,,Miami Redfin Masters Meet,2008,1
+MICH,50 M Freestyle,SCM,W,80-84,54.01,Lois Kivi Nochman,,24th Annual GRIN Fall Classic,2008,1
+MICH,100 M Freestyle,SCM,W,80-84,1:57.96,Lois Kivi Nochman,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Freestyle,SCM,W,80-84,4:15.93,Lois Kivi Nochman,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,400 M Freestyle,SCM,W,80-84,9:24.38,Lois Kivi Nochman,,24th Annual GRIN Fall Classic,2008,1
+MICH,800 M Freestyle,SCM,W,80-84,17:58.31,Lois Kivi Nochman,,Michigan Milford Meltdown SCM,2008,1
+MICH,1500 M Freestyle,SCM,W,80-84,34:53.17,Lois Kivi Nochman,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,W,80-84,1:01.08,Lois Kivi Nochman,,24th Annual GRIN Fall Classic,2008,1
+MICH,100 M Backstroke,SCM,W,80-84,2:10.85,Lois Kivi Nochman,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Backstroke,SCM,W,80-84,4:52.40,Lois Kivi Nochman,,24th Annual GRIN Fall Classic,2008,1
+MICH,50 M Breaststroke,SCM,W,80-84,1:06.86,Lois Kivi Nochman,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Breaststroke,SCM,W,80-84,2:39.72,Lois Kivi Nochman,,Miami Redfin Masters Meet,2008,1
+MICH,200 M Breaststroke,SCM,W,80-84,5:24.83,Lois Kivi Nochman,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,W,80-84,1:00.34,Lois Kivi Nochman,,Miami Redfin Masters Meet,2008,1
+MICH,100 M Butterfly,SCM,W,80-84,2:21.71,Lois Kivi Nochman,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,200 M Butterfly,SCM,W,80-84,5:04.29,Lois Kivi Nochman,,24th Annual GRIN Fall Classic,2008,1
+MICH,100 M Individual Medley,SCM,W,80-84,2:12.35,Lois Kivi Nochman,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Individual Medley,SCM,W,80-84,4:53.26,Lois Kivi Nochman,,Miami Redfin Masters Meet,2008,1
+MICH,400 M Individual Medley,SCM,W,80-84,10:37.67,Lois Kivi Nochman,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,50 M Freestyle,SCM,W,85-89,1:32.86,Clara P Early,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,W,85-89,1:42.67,Clara P Early,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,W,90-94,1:24.18,Edith S Glusac,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Backstroke,SCM,W,90-94,1:20.79,Edith S Glusac,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,W,90-94,1:49.95,Edith S Glusac,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Freestyle,SCM,M,18-24,2:33.73,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,400 M Freestyle,SCM,M,18-24,4:59.39,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,800 M Freestyle,SCM,M,18-24,10:14.72,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,1500 M Freestyle,SCM,M,18-24,19:19.07,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Backstroke,SCM,M,18-24,1:06.58,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,200 M Backstroke,SCM,M,18-24,2:25.28,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Individual Medley,SCM,M,18-24,1:10.39,Derek J Weaver,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,50 M Freestyle,SCM,M,25-29,23.60,Kevin D Doak,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,25-29,28.75,Thilo Fiedler,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,M,25-29,52.76,Kevin D Doak,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,25-29,1:03.18,Andrew J Lapham,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Freestyle,SCM,M,25-29,1:04.78,Thilo Fiedler,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Freestyle,SCM,M,25-29,2:01.51,Jason T Mallory,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,25-29,2:19.13,Andrew J Lapham,,Michigan Milford Meltdown SCM,2008,2
+MICH,400 M Freestyle,SCM,M,25-29,5:05.46,Andrew J Lapham,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,M,25-29,10:40.96,Andrew J Lapham,,Michigan Milford Meltdown SCM,2008,1
+MICH,1500 M Freestyle,SCM,M,25-29,22:19.55,Thilo Fiedler,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,M,25-29,25.83,Kevin D Doak,,24th Annual GRIN Fall Classic,2008,1
+MICH,100 M Backstroke,SCM,M,25-29,56.76,Kevin D Doak,,24th Annual GRIN Fall Classic,2008,1
+MICH,200 M Backstroke,SCM,M,25-29,2:12.26,Jason T Mallory,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Butterfly,SCM,M,25-29,25.05,Kevin D Doak,,24th Annual GRIN Fall Classic,2008,1
+MICH,100 M Butterfly,SCM,M,25-29,59.89,Kevin D Doak,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,25-29,59.52,Kevin D Doak,,24th Annual GRIN Fall Classic,2008,1
+MICH,50 M Freestyle,SCM,M,30-34,29.35,Noah A Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,M,30-34,42.18,Douglas A Gatto,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Freestyle,SCM,M,30-34,58.77,Brice A Chase,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Freestyle,SCM,M,30-34,1:44.83,Douglas A Gatto,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,30-34,2:03.91,Brice A Chase,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Freestyle,SCM,M,30-34,2:15.57,Rodolfo Palma,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,30-34,2:15.86,Stephen E McKenna,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Freestyle,SCM,M,30-34,3:49.70,Douglas A Gatto,,Michigan Milford Meltdown SCM,2008,3
+MICH,400 M Freestyle,SCM,M,30-34,4:59.66,Stephen E McKenna,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,M,30-34,10:26.65,Stephen E McKenna,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Backstroke,SCM,M,30-34,1:09.30,Brice A Chase,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,30-34,33.44,Jason A Colwell,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,30-34,35.50,Noah A Birmelin,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,30-34,1:13.75,Jason A Colwell,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,30-34,1:17.69,Rodolfo Palma,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Butterfly,SCM,M,30-34,30.29,Noah A Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,M,30-34,1:10.96,Brice A Chase,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Butterfly,SCM,M,30-34,1:12.30,Douglas A Gatto,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Butterfly,SCM,M,30-34,1:07.38,Rodolfo Palma,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Butterfly,SCM,M,30-34,2:38.27,Noah A Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,30-34,1:13.57,Noah A Birmelin,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,30-34,1:16.08,Stephen E McKenna,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Individual Medley,SCM,M,30-34,2:29.16,Brice A Chase,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Individual Medley,SCM,M,30-34,2:28.61,Rodolfo Palma,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Individual Medley,SCM,M,30-34,2:39.48,Stephen E McKenna,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,400 M Individual Medley,SCM,M,30-34,5:56.97,Stephen E McKenna,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,M,35-39,24.23,Alec Mull,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,M,35-39,30.82,James M Cahill,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,M,35-39,31.35,Aaron L Frame,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,M,35-39,1:08.43,Aaron L Frame,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,35-39,1:10.15,James M Cahill,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Backstroke,SCM,M,35-39,29.94,Steve T Bargwell,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Backstroke,SCM,M,35-39,1:03.84,Steve T Bargwell,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Backstroke,SCM,M,35-39,2:21.65,Steve T Bargwell,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,35-39,39.29,Aaron L Frame,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,35-39,1:20.67,Don S Griswold,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,35-39,1:23.72,Aaron L Frame,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,35-39,1:29.44,James M Cahill,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Breaststroke,SCM,M,35-39,2:54.18,Don S Griswold,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Butterfly,SCM,M,35-39,26.54,Alec Mull,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Butterfly,SCM,M,35-39,59.95,Alec Mull,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Butterfly,SCM,M,35-39,1:17.23,Don S Griswold,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Individual Medley,SCM,M,35-39,2:46.85,Don S Griswold,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Individual Medley,SCM,M,35-39,3:02.61,James M Cahill,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,M,40-44,26.03,Jeff M Bailey,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,40-44,31.28,Gary L Krimmel,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,M,40-44,34.11,Jaret C Johnson,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Freestyle,SCM,M,40-44,39.21,Douglas L Klingensmith,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Freestyle,SCM,M,40-44,56.84,Jeff M Bailey,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,40-44,1:17.34,Jaret C Johnson,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,M,40-44,1:34.94,Douglas L Klingensmith,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Freestyle,SCM,M,40-44,2:08.04,Jeff M Bailey,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,40-44,2:38.70,Gary L Krimmel,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Freestyle,SCM,M,40-44,2:47.81,Jaret C Johnson,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Freestyle,SCM,M,40-44,3:17.78,Douglas L Klingensmith,,Michigan Milford Meltdown SCM,2008,4
+MICH,400 M Freestyle,SCM,M,40-44,4:37.16,Jeff M Bailey,,Michigan Milford Meltdown SCM,2008,1
+MICH,400 M Freestyle,SCM,M,40-44,5:57.48,Jaret C Johnson,,Michigan Milford Meltdown SCM,2008,2
+MICH,400 M Freestyle,SCM,M,40-44,7:34.21,Douglas L Klingensmith,,Michigan Milford Meltdown SCM,2008,3
+MICH,800 M Freestyle,SCM,M,40-44,12:07.49,Jaret C Johnson,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,M,40-44,16:02.87,Douglas L Klingensmith,,Michigan Milford Meltdown SCM,2008,2
+MICH,1500 M Freestyle,SCM,M,40-44,24:07.99,Jaret C Johnson,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Backstroke,SCM,M,40-44,1:05.85,Daniel M Israel,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Backstroke,SCM,M,40-44,2:24.49,Daniel M Israel,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Backstroke,SCM,M,40-44,2:29.18,Mark A Spore,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Breaststroke,SCM,M,40-44,39.50,Anthony R Ellis,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,40-44,41.32,Gary L Krimmel,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,40-44,1:16.30,Mark A Spore,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,40-44,1:27.76,Anthony R Ellis,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,40-44,1:30.67,Gary L Krimmel,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Breaststroke,SCM,M,40-44,2:46.07,Mark A Spore,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Breaststroke,SCM,M,40-44,3:25.17,Gary L Krimmel,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Butterfly,SCM,M,40-44,35.07,Gary L Krimmel,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Butterfly,SCM,M,40-44,1:03.90,Jeff M Bailey,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,M,45-49,28.25,Eric Shirley,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,45-49,28.98,Chuck L Coffman,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,M,45-49,29.69,Michael C Etienne,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Freestyle,SCM,M,45-49,30.07,Steve R Ruch,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,50 M Freestyle,SCM,M,45-49,30.59,Craig S Tyl,,Michigan Milford Meltdown SCM,2008,5
+MICH,50 M Freestyle,SCM,M,45-49,30.93,Christopher M Luke,,Michigan Milford Meltdown SCM,2008,6
+MICH,50 M Freestyle,SCM,M,45-49,31.40,Steve J Strachan,,Michigan Milford Meltdown SCM,2008,7
+MICH,50 M Freestyle,SCM,M,45-49,32.93,James G Aldrich,,Brighton Michigan FAST Valentines SCM,2008,8
+MICH,50 M Freestyle,SCM,M,45-49,46.64,Craig Bailo,,Michigan Milford Meltdown SCM,2008,9
+MICH,50 M Freestyle,SCM,M,45-49,55.51,Gary F Morgan,,Michigan Milford Meltdown SCM,2008,10
+MICH,100 M Freestyle,SCM,M,45-49,1:01.51,Eric Shirley,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,45-49,1:03.62,Michael S Schuldinger,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Freestyle,SCM,M,45-49,1:05.11,Michael C Etienne,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Freestyle,SCM,M,45-49,1:05.90,Steve R Ruch,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Freestyle,SCM,M,45-49,1:09.57,Steve J Strachan,,Michigan Milford Meltdown SCM,2008,5
+MICH,100 M Freestyle,SCM,M,45-49,1:12.27,Craig S Tyl,,Brighton Michigan FAST Valentines SCM,2008,6
+MICH,100 M Freestyle,SCM,M,45-49,1:14.92,James G Aldrich,,Brighton Michigan FAST Valentines SCM,2008,7
+MICH,100 M Freestyle,SCM,M,45-49,1:24.92,James A Izzi,,Michigan Milford Meltdown SCM,2008,8
+MICH,100 M Freestyle,SCM,M,45-49,1:41.31,Craig Bailo,,Michigan Milford Meltdown SCM,2008,9
+MICH,100 M Freestyle,SCM,M,45-49,2:03.05,Gary F Morgan,,Michigan Milford Meltdown SCM,2008,10
+MICH,200 M Freestyle,SCM,M,45-49,2:17.08,Chuck L Coffman,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,45-49,2:19.49,Michael S Schuldinger,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Freestyle,SCM,M,45-49,2:19.69,Eric Shirley,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Freestyle,SCM,M,45-49,2:22.78,Steve R Ruch,,Michigan Milford Meltdown SCM,2008,4
+MICH,200 M Freestyle,SCM,M,45-49,2:24.96,Michael C Etienne,,Michigan Milford Meltdown SCM,2008,5
+MICH,200 M Freestyle,SCM,M,45-49,2:35.66,Steve J Strachan,,Michigan Milford Meltdown SCM,2008,6
+MICH,200 M Freestyle,SCM,M,45-49,3:10.96,James A Izzi,,Michigan Milford Meltdown SCM,2008,7
+MICH,200 M Freestyle,SCM,M,45-49,4:19.63,Gary F Morgan,,Michigan Milford Meltdown SCM,2008,8
+MICH,400 M Freestyle,SCM,M,45-49,4:54.99,Eric Shirley,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,400 M Freestyle,SCM,M,45-49,5:09.34,Michael S Schuldinger,,Michigan Milford Meltdown SCM,2008,2
+MICH,400 M Freestyle,SCM,M,45-49,5:33.56,Steve R Ruch,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,400 M Freestyle,SCM,M,45-49,7:44.25,James Carl D'Amour,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,400 M Freestyle,SCM,M,45-49,7:44.84,Craig Bailo,,Michigan Milford Meltdown SCM,2008,5
+MICH,400 M Freestyle,SCM,M,45-49,8:55.61,Gary F Morgan,,Michigan Milford Meltdown SCM,2008,6
+MICH,800 M Freestyle,SCM,M,45-49,10:05.09,Chuck L Coffman,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,M,45-49,11:42.64,Steve J Strachan,,Michigan Milford Meltdown SCM,2008,2
+MICH,800 M Freestyle,SCM,M,45-49,14:14.78,James A Izzi,,Michigan Milford Meltdown SCM,2008,3
+MICH,800 M Freestyle,SCM,M,45-49,16:43.75,Craig Bailo,,Michigan Milford Meltdown SCM,2008,4
+MICH,800 M Freestyle,SCM,M,45-49,17:50.60,Gary F Morgan,,Michigan Milford Meltdown SCM,2008,5
+MICH,1500 M Freestyle,SCM,M,45-49,31:17.23,James Carl D'Amour,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,M,45-49,31.68,Jim H Pogue,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Backstroke,SCM,M,45-49,39.48,Craig S Tyl,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Backstroke,SCM,M,45-49,1:26.15,Craig S Tyl,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,45-49,35.40,John N Allen,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,45-49,36.86,Michael Suchara,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Breaststroke,SCM,M,45-49,39.92,Christopher M Luke,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Breaststroke,SCM,M,45-49,41.02,Michael C Etienne,,Michigan Milford Meltdown SCM,2008,4
+MICH,50 M Breaststroke,SCM,M,45-49,45.56,Frank E LaSota,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,50 M Breaststroke,SCM,M,45-49,1:07.77,Craig Bailo,,Michigan Milford Meltdown SCM,2008,6
+MICH,100 M Breaststroke,SCM,M,45-49,1:23.82,Michael Suchara,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,45-49,1:26.98,Christopher M Luke,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,45-49,1:47.41,Frank E LaSota,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Breaststroke,SCM,M,45-49,2:47.74,John N Allen,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Breaststroke,SCM,M,45-49,3:15.88,Christopher M Luke,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Breaststroke,SCM,M,45-49,3:52.16,James Carl D'Amour,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Breaststroke,SCM,M,45-49,4:03.18,Frank E LaSota,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,50 M Butterfly,SCM,M,45-49,27.47,Jim H Pogue,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,M,45-49,28.94,Chuck L Coffman,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Butterfly,SCM,M,45-49,29.20,Jeffrey D Leonard,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,50 M Butterfly,SCM,M,45-49,32.15,Michael Suchara,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Butterfly,SCM,M,45-49,1:04.57,Jim H Pogue,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Butterfly,SCM,M,45-49,1:07.38,Jeffrey D Leonard,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Butterfly,SCM,M,45-49,1:15.63,Michael S Schuldinger,,Michigan Milford Meltdown SCM,2008,3
+MICH,200 M Butterfly,SCM,M,45-49,3:42.85,James Carl D'Amour,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,45-49,1:06.73,Jim H Pogue,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,45-49,1:08.50,John N Allen,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Individual Medley,SCM,M,45-49,1:10.58,Chuck L Coffman,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Individual Medley,SCM,M,45-49,1:18.78,Michael Suchara,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Individual Medley,SCM,M,45-49,1:26.67,James G Aldrich,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,200 M Individual Medley,SCM,M,45-49,2:30.36,John N Allen,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Individual Medley,SCM,M,45-49,2:39.82,Chuck L Coffman,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,400 M Individual Medley,SCM,M,45-49,5:16.60,John N Allen,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,M,50-54,26.38,Mike Schmitz,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,50-54,26.77,Gary M Bice,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Freestyle,SCM,M,50-54,28.04,Duane T Crosthwaite,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,50 M Freestyle,SCM,M,50-54,28.26,Jonathan D Riggs,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,50 M Freestyle,SCM,M,50-54,29.31,Glenn A Farrell,,Michigan Milford Meltdown SCM,2008,5
+MICH,50 M Freestyle,SCM,M,50-54,30.55,Fred J Nelis,,Michigan Milford Meltdown SCM,2008,6
+MICH,50 M Freestyle,SCM,M,50-54,31.71,Robert L Fort,,Michigan Milford Meltdown SCM,2008,7
+MICH,50 M Freestyle,SCM,M,50-54,34.51,David J Zaitchik,,Brighton Michigan FAST Valentines SCM,2008,8
+MICH,50 M Freestyle,SCM,M,50-54,41.98,Charles M Wallin,,Brighton Michigan FAST Valentines SCM,2008,9
+MICH,100 M Freestyle,SCM,M,50-54,59.04,Mike Schmitz,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,50-54,1:01.51,Brian G Tyler,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Freestyle,SCM,M,50-54,1:05.24,Glenn A Farrell,,Michigan Milford Meltdown SCM,2008,3
+MICH,100 M Freestyle,SCM,M,50-54,1:09.28,Fred J Nelis,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Freestyle,SCM,M,50-54,1:10.88,Kenneth P Gutowski,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,100 M Freestyle,SCM,M,50-54,1:13.87,Robert L Fort,,Michigan Milford Meltdown SCM,2008,6
+MICH,100 M Freestyle,SCM,M,50-54,1:36.65,Charles M Wallin,,Michigan Milford Meltdown SCM,2008,7
+MICH,200 M Freestyle,SCM,M,50-54,2:13.78,Paul G Karas,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,50-54,2:21.16,Duane T Crosthwaite,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,M,50-54,2:39.48,Kenneth P Gutowski,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,1500 M Freestyle,SCM,M,50-54,19:35.49,Paul G Karas,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,1500 M Freestyle,SCM,M,50-54,22:04.38,Kenneth P Gutowski,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Backstroke,SCM,M,50-54,32.14,Jonathan D Riggs,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,M,50-54,43.96,Charles M Wallin,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Backstroke,SCM,M,50-54,1:09.06,Gary M Bice,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,50-54,34.02,Randy J Parker,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,50-54,37.63,David A Dale,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Breaststroke,SCM,M,50-54,45.52,David J Zaitchik,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,50 M Breaststroke,SCM,M,50-54,46.33,Glenn A Farrell,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,100 M Breaststroke,SCM,M,50-54,1:15.11,Randy J Parker,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,50-54,1:43.96,David J Zaitchik,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Breaststroke,SCM,M,50-54,3:49.62,David J Zaitchik,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Butterfly,SCM,M,50-54,29.50,Brian G Tyler,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,M,50-54,29.61,Gary M Bice,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Butterfly,SCM,M,50-54,30.55,Jonathan D Riggs,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,50 M Butterfly,SCM,M,50-54,31.08,David A Dale,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,50 M Butterfly,SCM,M,50-54,32.53,Fred J Nelis,,Michigan Milford Meltdown SCM,2008,5
+MICH,50 M Butterfly,SCM,M,50-54,32.73,Glenn A Farrell,,Michigan Milford Meltdown SCM,2008,6
+MICH,50 M Butterfly,SCM,M,50-54,36.81,Robert L Fort,,Michigan Milford Meltdown SCM,2008,7
+MICH,100 M Butterfly,SCM,M,50-54,1:08.74,Paul G Karas,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Butterfly,SCM,M,50-54,1:38.97,Robert L Fort,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Individual Medley,SCM,M,50-54,1:07.84,Mike Schmitz,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,50-54,1:09.87,Brian G Tyler,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Individual Medley,SCM,M,50-54,1:20.08,Glenn A Farrell,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Individual Medley,SCM,M,50-54,1:24.86,Fred J Nelis,,Michigan Milford Meltdown SCM,2008,4
+MICH,100 M Individual Medley,SCM,M,50-54,1:26.03,Kenneth P Gutowski,,Brighton Michigan FAST Valentines SCM,2008,5
+MICH,100 M Individual Medley,SCM,M,50-54,1:32.58,Robert L Fort,,Michigan Milford Meltdown SCM,2008,6
+MICH,100 M Individual Medley,SCM,M,50-54,1:34.42,David J Zaitchik,,Michigan Milford Meltdown SCM,2008,7
+MICH,200 M Individual Medley,SCM,M,50-54,2:37.87,Gary M Bice,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Individual Medley,SCM,M,50-54,2:41.30,Jonathan D Riggs,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Individual Medley,SCM,M,50-54,3:48.69,David J Zaitchik,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Freestyle,SCM,M,55-59,41.85,David W Kurtz,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Freestyle,SCM,M,55-59,1:06.80,Frank L Thompson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Freestyle,SCM,M,55-59,1:15.27,Rodney G Whitbeck,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Freestyle,SCM,M,55-59,1:31.81,Dick D Specht,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,M,55-59,1:52.22,David W Kurtz,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,200 M Freestyle,SCM,M,55-59,2:22.17,Frank L Thompson,,2008 Mizzou Masters SCM Meet,2008,1
+MICH,200 M Freestyle,SCM,M,55-59,2:51.44,Rodney G Whitbeck,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Freestyle,SCM,M,55-59,3:12.20,Dick D Specht,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,200 M Freestyle,SCM,M,55-59,4:01.90,David W Kurtz,,Brighton Michigan FAST Valentines SCM,2008,4
+MICH,400 M Freestyle,SCM,M,55-59,4:56.74,Frank L Thompson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,400 M Freestyle,SCM,M,55-59,6:41.06,Dick D Specht,,Michigan Milford Meltdown SCM,2008,2
+MICH,800 M Freestyle,SCM,M,55-59,10:09.90,Frank L Thompson,,24th Annual GRIN Fall Classic,2008,1
+MICH,800 M Freestyle,SCM,M,55-59,13:29.31,Dick D Specht,,Michigan Milford Meltdown SCM,2008,2
+MICH,1500 M Freestyle,SCM,M,55-59,19:51.85,Frank L Thompson,,24th Annual GRIN Fall Classic,2008,1
+MICH,1500 M Freestyle,SCM,M,55-59,23:16.15,James A Fortune,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,1500 M Freestyle,SCM,M,55-59,26:35.03,Dick D Specht,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,50 M Backstroke,SCM,M,55-59,34.56,Frank L Thompson,,TYR Grand Prix SCM - Louisville,2008,1
+MICH,100 M Backstroke,SCM,M,55-59,1:12.48,Frank L Thompson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Backstroke,SCM,M,55-59,1:25.68,James A Fortune,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Backstroke,SCM,M,55-59,2:36.77,Frank L Thompson,,24th Annual GRIN Fall Classic,2008,1
+MICH,200 M Backstroke,SCM,M,55-59,4:40.27,Dick D Specht,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,55-59,1:37.34,James A Fortune,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Breaststroke,SCM,M,55-59,3:28.92,Frank L Thompson,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Butterfly,SCM,M,55-59,36.57,Rodney G Whitbeck,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Butterfly,SCM,M,55-59,1:13.67,Frank L Thompson,,Miami Redfin Masters Meet,2008,1
+MICH,200 M Butterfly,SCM,M,55-59,3:01.34,Frank L Thompson,,2008 Mizzou Masters SCM Meet,2008,1
+MICH,100 M Individual Medley,SCM,M,55-59,1:15.51,Frank L Thompson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,100 M Individual Medley,SCM,M,55-59,1:50.64,Dick D Specht,,Michigan Milford Meltdown SCM,2008,2
+MICH,200 M Individual Medley,SCM,M,55-59,2:43.70,Frank L Thompson,,TYR Grand Prix SCM - Chicago,2008,1
+MICH,200 M Individual Medley,SCM,M,55-59,2:59.96,James A Fortune,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,200 M Individual Medley,SCM,M,55-59,4:00.57,Dick D Specht,,Michigan Milford Meltdown SCM,2008,3
+MICH,50 M Freestyle,SCM,M,60-64,32.89,Joe D Buys,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,60-64,38.24,Ralph L Davis,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,50 M Freestyle,SCM,M,60-64,40.18,Richard L Fortune,,Brighton Michigan FAST Valentines SCM,2008,3
+MICH,100 M Freestyle,SCM,M,60-64,1:34.08,Ralph L Davis,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,60-64,3:05.94,Richard L Fortune,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Freestyle,SCM,M,60-64,3:27.72,Ralph L Davis,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,1500 M Freestyle,SCM,M,60-64,24:32.10,Joe D Buys,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,60-64,45.13,Joe D Buys,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Butterfly,SCM,M,60-64,36.54,Joe D Buys,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Butterfly,SCM,M,60-64,40.77,Richard L Fortune,,Brighton Michigan FAST Valentines SCM,2008,2
+MICH,100 M Individual Medley,SCM,M,60-64,1:37.22,Richard L Fortune,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,65-69,32.85,Donald J Kroeger,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,50 M Freestyle,SCM,M,65-69,40.07,Donald Ferencz,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Freestyle,SCM,M,65-69,1:28.94,Donald J Kroeger,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,200 M Freestyle,SCM,M,65-69,3:23.55,Donald Ferencz,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Freestyle,SCM,M,65-69,3:38.97,Edward J Giroux,,Michigan Milford Meltdown SCM,2008,2
+MICH,400 M Freestyle,SCM,M,65-69,6:23.08,Donald J Kroeger,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,400 M Freestyle,SCM,M,65-69,7:42.26,Edward J Giroux,,Michigan Milford Meltdown SCM,2008,2
+MICH,800 M Freestyle,SCM,M,65-69,15:41.04,Edward J Giroux,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Backstroke,SCM,M,65-69,37.82,Erik Lokensgard,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,M,65-69,44.03,Donald J Kroeger,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Backstroke,SCM,M,65-69,44.47,Frank J Cody,,O*H*I*O Masters Hudson HS SCM,2008,3
+MICH,100 M Backstroke,SCM,M,65-69,1:20.54,Erik Lokensgard,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Backstroke,SCM,M,65-69,1:37.41,Frank J Cody,,O*H*I*O Masters Hudson HS SCM,2008,2
+MICH,200 M Backstroke,SCM,M,65-69,3:27.19,Frank J Cody,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,65-69,43.28,Donald J Kroeger,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,65-69,47.52,Donald Ferencz,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Breaststroke,SCM,M,65-69,1:45.43,Donald Ferencz,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Breaststroke,SCM,M,65-69,3:28.40,Frank J Cody,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,M,65-69,42.64,Donald J Kroeger,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Butterfly,SCM,M,65-69,1:37.68,Frank J Cody,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,200 M Butterfly,SCM,M,65-69,3:35.12,Frank J Cody,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,65-69,1:32.86,Donald J Kroeger,,Michigan Milford Meltdown SCM,2008,1
+MICH,200 M Individual Medley,SCM,M,65-69,3:28.29,Frank J Cody,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,400 M Individual Medley,SCM,M,65-69,7:24.25,Frank J Cody,,Michigan Milford Meltdown SCM,2008,1
+MICH,400 M Individual Medley,SCM,M,65-69,7:39.89,Donald J Kroeger,,O*H*I*O Masters Hudson HS SCM,2008,2
+MICH,50 M Freestyle,SCM,M,70-74,35.09,Allan M Charlton,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Freestyle,SCM,M,70-74,39.91,Tom J Wines,,O*H*I*O Masters Hudson HS SCM,2008,2
+MICH,200 M Freestyle,SCM,M,70-74,2:59.43,Carl T Woolley,,Michigan Milford Meltdown SCM,2008,1
+MICH,400 M Freestyle,SCM,M,70-74,6:16.89,Carl T Woolley,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,M,70-74,12:37.71,Carl T Woolley,,Michigan Milford Meltdown SCM,2008,1
+MICH,800 M Freestyle,SCM,M,70-74,15:05.53,Albert A Morley,,O*H*I*O Masters Hudson HS SCM,2008,2
+MICH,1500 M Freestyle,SCM,M,70-74,26:30.37,Ray G Martin,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,M,70-74,38.87,Allan M Charlton,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Backstroke,SCM,M,70-74,52.89,Michael J Medvezky,,Michigan Milford Meltdown SCM,2008,2
+MICH,100 M Backstroke,SCM,M,70-74,1:30.56,Allan M Charlton,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Backstroke,SCM,M,70-74,1:52.09,Michael J Medvezky,,Michigan Milford Meltdown SCM,2008,2
+MICH,50 M Breaststroke,SCM,M,70-74,53.18,Michael J Medvezky,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Breaststroke,SCM,M,70-74,1:56.66,Michael J Medvezky,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,70-74,1:45.60,Michael J Medvezky,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Freestyle,SCM,M,75-79,38.02,Richard Henderson,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,100 M Freestyle,SCM,M,75-79,1:27.99,Elmer J Egelkraut,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,100 M Freestyle,SCM,M,75-79,1:32.37,Richard Henderson,,O*H*I*O Masters Hudson HS SCM,2008,2
+MICH,200 M Freestyle,SCM,M,75-79,3:11.92,Elmer J Egelkraut,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,200 M Butterfly,SCM,M,75-79,4:18.95,Elmer J Egelkraut,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,400 M Individual Medley,SCM,M,75-79,8:27.50,Elmer J Egelkraut,,O*H*I*O Masters Hudson HS SCM,2008,1
+MICH,400 M Freestyle,SCM,M,85-89,11:30.63,Bob R Doud,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,50 M Breaststroke,SCM,M,85-89,1:20.75,Bob R Doud,,Michigan Milford Meltdown SCM,2008,1
+MICH,50 M Butterfly,SCM,M,85-89,1:13.68,Bob R Doud,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,100 M Butterfly,SCM,M,85-89,2:45.10,Bob R Doud,,Brighton Michigan FAST Valentines SCM,2008,1
+MICH,200 M Butterfly,SCM,M,85-89,6:43.79,Bob R Doud,,Michigan Milford Meltdown SCM,2008,1
+MICH,100 M Individual Medley,SCM,M,85-89,2:50.70,Bob R Doud,,Michigan Milford Meltdown SCM,2008,1
+MICH,400 M Individual Medley,SCM,M,85-89,13:08.94,Bob R Doud,,Michigan Milford Meltdown SCM,2008,1
