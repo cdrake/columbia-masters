@@ -1,0 +1,390 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+DROP,50 M Freestyle,SCM,W,50-54,52.99,Jennifer A Franklin,,Milford Monster Madness Meters Meet,2018,1
+DROP,100 M Freestyle,SCM,W,50-54,1:54.81,Jennifer A Franklin,,Milford Meltdown,2018,1
+DROP,50 M Breaststroke,SCM,W,50-54,1:22.64,Jennifer A Franklin,,Milford Monster Madness Meters Meet,2018,1
+DROP,50 M Butterfly,SCM,W,50-54,1:09.10,Jennifer A Franklin,,Milford Monster Madness Meters Meet,2018,1
+DROP,100 M Individual Medley,SCM,W,50-54,2:19.81,Jennifer A Franklin,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,W,18-24,1:18.53,Marisa N Shock,,Milford Meltdown,2018,1
+MICH,200 M Freestyle,SCM,W,18-24,2:49.58,Marisa N Shock,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,W,18-24,6:10.24,Marisa N Shock,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,25-29,35.85,Meagan J Warden,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,W,25-29,1:14.01,Meghan L Anderson,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,W,25-29,1:17.40,Meagan J Mayer,,Milford Meltdown,2018,2
+MICH,1500 M Freestyle,SCM,W,25-29,23:04.38,Samantha A Bishop,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,25-29,38.56,Meghan L Anderson,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,25-29,42.48,Samantha A Bishop,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,W,25-29,1:20.54,Meghan L Anderson,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,W,25-29,1:33.74,Meagan J Mayer,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,W,25-29,1:42.42,Samantha A Bishop,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Individual Medley,SCM,W,25-29,1:26.31,Meagan J Mayer,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,25-29,1:27.61,Meghan L Anderson,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Individual Medley,SCM,W,25-29,1:31.35,Samantha A Bishop,,Milford Monster Madness Meters Meet,2018,3
+MICH,50 M Freestyle,SCM,W,30-34,27.81,Ava B Ohlgren,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,30-34,32.83,Ava B Ohlgren,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,W,30-34,37.19,Ava B Ohlgren,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,30-34,1:09.38,Ava B Ohlgren,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,35-39,35.64,Katie Glupker,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,35-39,52.33,Elizabeth R Schmaltz,,2018 Miami Redfin Fall Masters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,35-39,1:18.21,Katie Glupker,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,W,35-39,1:35.36,Hong Weng,,Milford Meltdown,2018,2
+MICH,100 M Freestyle,SCM,W,35-39,1:49.40,Elizabeth R Schmaltz,,Milford Monster Madness Meters Meet,2018,3
+MICH,200 M Freestyle,SCM,W,35-39,3:24.76,Hong Weng,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,W,35-39,15:47.08,Hong Weng,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,W,35-39,29:12.03,Hong Weng,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,35-39,45.93,Katie Glupker,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,35-39,1:03.87,Elizabeth R Schmaltz,,2018 Miami Redfin Fall Masters Meet,2018,2
+MICH,100 M Backstroke,SCM,W,35-39,1:34.50,Meredith A Hawkins,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,W,35-39,2:12.41,Elizabeth R Schmaltz,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Breaststroke,SCM,W,35-39,48.18,Katie Glupker,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,W,35-39,1:19.51,Elizabeth R Schmaltz,,2018 Miami Redfin Fall Masters Meet,2018,2
+MICH,100 M Breaststroke,SCM,W,35-39,1:44.04,Meredith A Hawkins,,Milford Meltdown,2018,1
+MICH,50 M Butterfly,SCM,W,35-39,1:05.64,Elizabeth R Schmaltz,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Butterfly,SCM,W,35-39,2:10.10,Hong Weng,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,35-39,1:35.32,Katie Glupker,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,35-39,1:37.13,Meredith A Hawkins,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,W,35-39,1:57.44,Hong Weng,,Milford Monster Madness Meters Meet,2018,3
+MICH,200 M Individual Medley,SCM,W,35-39,4:12.97,Hong Weng,,Milford Monster Madness Meters Meet,2018,1
+MICH,400 M Individual Medley,SCM,W,35-39,8:57.21,Hong Weng,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,40-44,34.81,Christina M Jackson,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,40-44,37.73,Melissa M Snody,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,40-44,1:19.63,Christina M Jackson,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,40-44,1:37.18,Melissa M Snody,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,W,40-44,1:43.37,Christina M Jackson,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Breaststroke,SCM,W,40-44,48.74,Melissa M Snody,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,W,40-44,1:33.63,Melissa M Snody,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,40-44,1:35.62,Melissa M Snody,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,40-44,1:35.74,Christina M Jackson,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Individual Medley,SCM,W,40-44,3:32.91,Melissa M Snody,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,45-49,43.20,Dana McCorkle,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,45-49,49.92,Clisty S Sturdy,,2018 Miami Redfin Fall Masters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,45-49,1:14.07,Maria C Veen,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,W,45-49,1:17.62,Kim T Riley,,Milford Meltdown,2018,2
+MICH,100 M Freestyle,SCM,W,45-49,1:21.95,Melissa Richardson,,Milford Meltdown,2018,3
+MICH,100 M Freestyle,SCM,W,45-49,1:45.50,Dana McCorkle,,Milford Meltdown,2018,4
+MICH,200 M Freestyle,SCM,W,45-49,3:35.97,Silke Janz,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,W,45-49,7:25.67,Silke Janz,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,W,45-49,32:39.91,Dana McCorkle,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,45-49,1:08.36,Clisty S Sturdy,,2018 Miami Redfin Fall Masters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,45-49,1:51.64,Silke Janz,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,W,45-49,2:22.25,Clisty S Sturdy,,Milford Meltdown,2018,2
+MICH,50 M Breaststroke,SCM,W,45-49,1:02.87,Clisty S Sturdy,,2018 Miami Redfin Fall Masters Meet,2018,1
+MICH,100 M Breaststroke,SCM,W,45-49,1:58.32,Silke Janz,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,W,45-49,2:14.63,Clisty S Sturdy,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Breaststroke,SCM,W,45-49,4:48.73,Clisty S Sturdy,,Milford Meltdown,2018,1
+MICH,100 M Butterfly,SCM,W,45-49,1:38.40,Maria C Veen,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,W,45-49,3:26.81,Maria C Veen,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,45-49,1:34.04,Kim T Riley,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,45-49,1:55.54,Silke Janz,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,W,45-49,2:02.74,Dana McCorkle,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Individual Medley,SCM,W,45-49,2:09.12,Clisty S Sturdy,,Milford Meltdown,2018,4
+MICH,200 M Individual Medley,SCM,W,45-49,3:22.46,Melissa Richardson,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,W,45-49,3:23.19,Kim T Riley,,Milford Meltdown,2018,2
+MICH,400 M Individual Medley,SCM,W,45-49,7:18.31,Melissa Richardson,,Milford Meltdown,2018,1
+MICH,200 M Freestyle,SCM,W,50-54,3:52.98,Julie Lyons,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,W,50-54,8:14.27,Julie Lyons,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,W,50-54,17:24.06,Selena Horner,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,W,50-54,32:32.26,Selena Horner,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,50-54,39.70,Julie L Pierce,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,50-54,1:24.00,Julie L Pierce,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,W,50-54,45.17,Julie L Pierce,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,W,50-54,1:26.69,Corrin C Buck,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,W,50-54,2:06.01,Julie Lyons,,Milford Meltdown,2018,2
+MICH,200 M Breaststroke,SCM,W,50-54,3:08.39,Corrin C Buck,,Milford Meltdown,2018,1
+MICH,200 M Breaststroke,SCM,W,50-54,4:22.85,Julie Lyons,,Milford Meltdown,2018,2
+MICH,50 M Butterfly,SCM,W,50-54,36.01,Julie L Pierce,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Butterfly,SCM,W,50-54,1:32.31,Julie L Pierce,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,W,50-54,3:18.43,Julie L Pierce,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,50-54,1:24.41,Julie L Pierce,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Individual Medley,SCM,W,50-54,2:50.13,Corrin C Buck,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,W,50-54,3:13.23,Julie L Pierce,,Milford Meltdown,2018,2
+MICH,400 M Individual Medley,SCM,W,50-54,6:41.16,Julie L Pierce,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,55-59,30.62,Muffy MacKenzie,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,55-59,32.79,Suzanne M Noble,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,55-59,1:08.89,Muffy MacKenzie,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,W,55-59,1:10.94,Suzanne M Noble,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,55-59,1:33.67,Jacqueline Thorpe,,Milford Meltdown,2018,3
+MICH,100 M Freestyle,SCM,W,55-59,1:49.82,Mitzi C Amelon,,Milford Meltdown,2018,4
+MICH,200 M Freestyle,SCM,W,55-59,2:47.32,Muffy MacKenzie,,Milford Meltdown,2018,1
+MICH,200 M Freestyle,SCM,W,55-59,4:02.00,Mitzi C Amelon,,Milford Meltdown,2018,2
+MICH,800 M Freestyle,SCM,W,55-59,15:02.80,Nathalie D Gardon,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,W,55-59,27:22.04,Jacqueline Thorpe,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,55-59,41.00,Suzanne M Noble,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,55-59,58.87,Jacqueline Thorpe,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Backstroke,SCM,W,55-59,1:07.30,Mitzi C Amelon,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Backstroke,SCM,W,55-59,2:21.92,Mitzi C Amelon,,Milford Meltdown,2018,1
+MICH,50 M Breaststroke,SCM,W,55-59,54.02,Jacqueline Thorpe,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,W,55-59,1:09.03,Mitzi C Amelon,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Breaststroke,SCM,W,55-59,2:02.98,Nathalie D Gardon,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,W,55-59,2:03.01,Jacqueline Thorpe,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Breaststroke,SCM,W,55-59,2:18.42,Mitzi C Amelon,,Milford Meltdown,2018,3
+MICH,50 M Butterfly,SCM,W,55-59,36.64,Suzanne M Noble,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Butterfly,SCM,W,55-59,1:06.27,Mitzi C Amelon,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Individual Medley,SCM,W,55-59,1:24.56,Suzanne M Noble,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,55-59,1:45.83,Ellen M Bunting,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,W,55-59,1:51.64,Jacqueline Thorpe,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Individual Medley,SCM,W,55-59,2:12.64,Mitzi C Amelon,,Milford Monster Madness Meters Meet,2018,4
+MICH,200 M Individual Medley,SCM,W,55-59,3:56.36,Nathalie D Gardon,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,W,55-59,4:50.52,Mitzi C Amelon,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Freestyle,SCM,W,60-64,47.04,Karen D Deighton,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,60-64,55.59,Ann C Ward,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,60-64,1:23.16,Sue Weir,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,W,60-64,1:46.22,Sue M Hadden,,Milford Meltdown,2018,2
+MICH,100 M Freestyle,SCM,W,60-64,1:58.75,Ann C Ward,,Milford Monster Madness Meters Meet,2018,3
+MICH,200 M Freestyle,SCM,W,60-64,3:52.89,Sue M Hadden,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,W,60-64,7:54.56,Rebecca Kanner,,Milford Meltdown,2018,1
+MICH,50 M Backstroke,SCM,W,60-64,43.27,Wendy Szymczak,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,60-64,56.37,Karen D Deighton,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,W,60-64,1:33.63,Sue Weir,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,W,60-64,1:36.86,Wendy Szymczak,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,W,60-64,2:01.00,Karen D Deighton,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Backstroke,SCM,W,60-64,2:12.83,Sue M Hadden,,Milford Meltdown,2018,4
+MICH,200 M Backstroke,SCM,W,60-64,3:29.44,Sue Weir,,Milford Meltdown,2018,1
+MICH,50 M Breaststroke,SCM,W,60-64,47.67,Wendy Szymczak,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,W,60-64,57.18,Ann C Ward,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Breaststroke,SCM,W,60-64,1:51.69,Wendy Szymczak,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,W,60-64,2:05.17,Rebecca Kanner,,Milford Meltdown,2018,2
+MICH,100 M Breaststroke,SCM,W,60-64,2:08.52,Sue M Hadden,,Milford Meltdown,2018,3
+MICH,100 M Breaststroke,SCM,W,60-64,2:20.29,Terry L Bond-Manville,,Milford Meltdown,2018,4
+MICH,100 M Individual Medley,SCM,W,60-64,1:33.85,Wendy Szymczak,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,60-64,1:34.30,Sue Weir,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,W,60-64,1:58.69,Karen D Deighton,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Individual Medley,SCM,W,60-64,2:01.85,Rebecca Kanner,,Milford Meltdown,2018,4
+MICH,100 M Individual Medley,SCM,W,60-64,2:15.73,Ann C Ward,,Milford Monster Madness Meters Meet,2018,5
+MICH,200 M Individual Medley,SCM,W,60-64,4:14.41,Rebecca Kanner,,Milford Meltdown,2018,1
+MICH,400 M Individual Medley,SCM,W,60-64,8:58.56,Rebecca Kanner,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,65-69,47.68,Monica Andrei,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,W,65-69,58.98,Gail M Dummer,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,W,65-69,2:00.20,Carol L Schemanske,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Freestyle,SCM,W,65-69,4:05.02,Carol L Schemanske,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,W,65-69,17:37.38,Carol L Schemanske,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,W,65-69,34:30.30,Carol L Schemanske,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,65-69,53.92,Monica Andrei,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,65-69,2:16.99,Carol L Schemanske,,Milford Meltdown,2018,1
+MICH,50 M Breaststroke,SCM,W,65-69,1:03.73,Gail M Dummer,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,W,65-69,1:36.21,Carol L Schemanske,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Breaststroke,SCM,W,65-69,2:14.68,Gail M Dummer,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Butterfly,SCM,W,65-69,1:57.69,Carol L Schemanske,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Butterfly,SCM,W,65-69,3:42.00,Carol L Schemanske,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,65-69,2:20.74,Gail M Dummer,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,W,65-69,2:35.99,Carol L Schemanske,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Freestyle,SCM,W,70-74,4:24.99,Kitty Vanden Brulle,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,W,70-74,9:12.19,Kitty Vanden Brulle,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,W,70-74,37:01.03,Kitty Vanden Brulle,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,W,70-74,1:08.20,Kitty Vanden Brulle,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,70-74,2:35.16,Kitty Vanden Brulle,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Backstroke,SCM,W,70-74,5:09.80,Kitty Vanden Brulle,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,75-79,55.90,Ann E Hunt,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,W,75-79,2:04.28,Ann E Hunt,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,W,75-79,2:11.96,Peggy A Bruin,,Milford Meltdown,2018,2
+MICH,200 M Freestyle,SCM,W,75-79,4:32.04,Ann E Hunt,,Huntsman World Senior Games,2018,1
+MICH,400 M Freestyle,SCM,W,75-79,9:37.41,Ann E Hunt,,Huntsman World Senior Games,2018,1
+MICH,800 M Freestyle,SCM,W,75-79,19:57.98,Ann E Hunt,,Huntsman World Senior Games,2018,1
+MICH,1500 M Freestyle,SCM,W,75-79,37:27.06,Ann E Hunt,,Huntsman World Senior Games,2018,1
+MICH,50 M Backstroke,SCM,W,75-79,58.05,Ann E Hunt,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,75-79,2:02.55,Ann E Hunt,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Backstroke,SCM,W,75-79,4:30.87,Ann E Hunt,,Huntsman World Senior Games,2018,1
+MICH,100 M Breaststroke,SCM,W,75-79,2:32.13,Peggy A Bruin,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,W,75-79,2:21.46,Peggy A Bruin,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,W,75-79,5:01.10,Peggy A Bruin,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,W,80-84,52.92,Pat M Butler,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,W,80-84,2:51.85,Pat M Butler,,Milford Meltdown,2018,1
+MICH,50 M Backstroke,SCM,W,80-84,1:43.65,Pat M Butler,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,W,80-84,3:37.42,Pat M Butler,,Milford Meltdown,2018,1
+MICH,50 M Breaststroke,SCM,W,80-84,1:53.98,Pat M Butler,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,W,80-84,3:51.05,Pat M Butler,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,W,85-89,3:11.46,Rita Gelman,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,W,85-89,3:24.34,Rita Gelman,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,W,85-89,3:54.67,Rita Gelman,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,18-24,1:49.17,Luke E Drumright,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,18-24,1:58.33,Luke E Drumright,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,18-24,1:54.68,Luke E Drumright,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,25-29,1:26.61,Michael J Allon,,Milford Meltdown,2018,1
+MICH,200 M Freestyle,SCM,M,25-29,3:23.47,Michael J Allon,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,25-29,1:12.03,Fares Ksebati,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,25-29,1:05.56,Fares Ksebati,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,M,35-39,23.83,Kevin Doak,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,35-39,57.59,Kevin Doak,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,35-39,28.33,Kevin Doak,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,M,35-39,58.12,Kevin Doak,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,35-39,1:11.53,Christian Vanderkaay,,Milford Meltdown,2018,1
+MICH,200 M Breaststroke,SCM,M,35-39,2:30.26,Christian Vanderkaay,,Milford Meltdown,2018,1
+MICH,100 M Butterfly,SCM,M,35-39,58.03,Kevin Doak,,Milford Meltdown,2018,1
+MICH,100 M Butterfly,SCM,M,35-39,1:04.05,Christian Vanderkaay,,Milford Meltdown,2018,2
+MICH,200 M Butterfly,SCM,M,35-39,2:14.42,Christian Vanderkaay,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,35-39,1:00.43,Kevin Doak,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,M,35-39,2:13.80,Christian Vanderkaay,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,M,40-44,48.29,Brice A Chase,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,M,40-44,1:49.46,Brice A Chase,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Freestyle,SCM,M,40-44,3:52.32,Brice A Chase,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,40-44,8:22.45,Brice A Chase,,Milford Meltdown,2018,1
+MICH,50 M Backstroke,SCM,M,40-44,1:04.62,Brice A Chase,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,M,40-44,2:17.13,Brice A Chase,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,40-44,1:26.73,Ryan W Tracy,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,40-44,1:27.10,Brandon Marriott,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Butterfly,SCM,M,40-44,58.03,Brice A Chase,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,40-44,1:17.01,Brandon Marriott,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,40-44,1:58.44,Brice A Chase,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Individual Medley,SCM,M,40-44,2:53.38,Brandon Marriott,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,M,45-49,29.42,Patrick R Sturdy,,2018 Miami Redfin Fall Masters Meet,2018,1
+MICH,50 M Freestyle,SCM,M,45-49,31.26,Kevin Markell,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,M,45-49,1:07.15,James A Nitkiewicz,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,45-49,1:08.89,Kevin Markell,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,M,45-49,1:26.31,Nathanael V Evans,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Freestyle,SCM,M,45-49,1:40.68,Kevin S Terry,,Milford Monster Madness Meters Meet,2018,4
+MICH,200 M Freestyle,SCM,M,45-49,2:28.57,James A Nitkiewicz,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,45-49,5:42.07,Patrick R Sturdy,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,45-49,6:37.42,Nathanael V Evans,,Milford Meltdown,2018,2
+MICH,800 M Freestyle,SCM,M,45-49,13:01.64,Mike Smith,,Milford Meltdown,2018,1
+MICH,50 M Backstroke,SCM,M,45-49,36.12,Patrick R Sturdy,,2018 Miami Redfin Fall Masters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,45-49,48.37,Kevin S Terry,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Backstroke,SCM,M,45-49,49.09,Nathanael V Evans,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Backstroke,SCM,M,45-49,1:33.58,Mike Smith,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,M,45-49,1:38.76,Nathanael V Evans,,Milford Meltdown,2018,2
+MICH,50 M Breaststroke,SCM,M,45-49,40.79,Patrick R Sturdy,,2018 Miami Redfin Fall Masters Meet,2018,1
+MICH,50 M Breaststroke,SCM,M,45-49,43.28,James A Nitkiewicz,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Breaststroke,SCM,M,45-49,52.83,Nathanael V Evans,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Breaststroke,SCM,M,45-49,1:52.12,Nathanael V Evans,,Milford Meltdown,2018,1
+MICH,100 M Butterfly,SCM,M,45-49,1:22.26,James A Nitkiewicz,,Milford Meltdown,2018,1
+MICH,100 M Butterfly,SCM,M,45-49,1:28.77,Patrick R Sturdy,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Butterfly,SCM,M,45-49,3:19.81,Patrick R Sturdy,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,M,45-49,3:48.97,Mike Smith,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,M,45-49,1:22.60,Kevin Markell,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,45-49,1:40.63,Nathanael V Evans,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,M,45-49,1:52.42,Kevin S Terry,,Milford Monster Madness Meters Meet,2018,3
+MICH,200 M Individual Medley,SCM,M,45-49,2:52.35,Patrick R Sturdy,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Individual Medley,SCM,M,45-49,2:56.47,James A Nitkiewicz,,Milford Monster Madness Meters Meet,2018,2
+MICH,400 M Individual Medley,SCM,M,45-49,7:12.60,Mike Smith,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,M,50-54,26.67,Jeff M Bailey,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,M,50-54,40.59,Douglas A Trojanowski,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,M,50-54,57.69,Jeff M Bailey,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,50-54,1:05.83,John M Cassidy,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,M,50-54,1:05.95,Mark VanderMey,,Milford Meltdown,2018,3
+MICH,100 M Freestyle,SCM,M,50-54,1:27.35,John G Flynn,,Milford Meltdown,2018,4
+MICH,100 M Freestyle,SCM,M,50-54,1:29.76,Douglas A Trojanowski,,Milford Monster Madness Meters Meet,2018,5
+MICH,200 M Freestyle,SCM,M,50-54,2:57.06,Tom M Lynch,,Milford Meltdown,2018,1
+MICH,200 M Freestyle,SCM,M,50-54,3:13.28,Ari McEntire,,Milford Meltdown,2018,2
+MICH,1500 M Freestyle,SCM,M,50-54,27:12.57,Douglas A Trojanowski,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,50-54,57.21,Douglas A Trojanowski,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,M,50-54,1:10.06,Kurt A Christensen,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,M,50-54,1:18.05,John M Cassidy,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,M,50-54,2:00.70,Ari McEntire,,Milford Meltdown,2018,3
+MICH,200 M Backstroke,SCM,M,50-54,2:34.32,Kurt A Christensen,,Milford Meltdown,2018,1
+MICH,50 M Breaststroke,SCM,M,50-54,39.16,John M Cassidy,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,M,50-54,44.46,John G Flynn,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Breaststroke,SCM,M,50-54,53.67,Douglas A Trojanowski,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Breaststroke,SCM,M,50-54,1:14.67,Mark VanderMey,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,50-54,1:39.26,John G Flynn,,Milford Meltdown,2018,2
+MICH,100 M Breaststroke,SCM,M,50-54,1:40.20,Tom M Lynch,,Milford Meltdown,2018,3
+MICH,200 M Breaststroke,SCM,M,50-54,2:51.71,Mark VanderMey,,Milford Meltdown,2018,1
+MICH,200 M Breaststroke,SCM,M,50-54,3:46.51,John G Flynn,,Milford Meltdown,2018,2
+MICH,50 M Butterfly,SCM,M,50-54,28.98,Jeff M Bailey,,Milford Meltdown,2018,1
+MICH,50 M Butterfly,SCM,M,50-54,46.36,John G Flynn,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Butterfly,SCM,M,50-54,1:20.54,Jeff M Bailey,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,M,50-54,4:09.84,Tom M Lynch,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,50-54,1:13.51,Mark VanderMey,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,50-54,1:42.92,John G Flynn,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Individual Medley,SCM,M,50-54,3:40.46,Tom M Lynch,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,M,50-54,3:43.98,Ari McEntire,,Milford Meltdown,2018,2
+MICH,50 M Freestyle,SCM,M,55-59,28.11,Jim H Pogue,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,M,55-59,1:11.63,Tom Welsh,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,55-59,1:12.22,Jim H Pogue,,Milford Meltdown,2018,2
+MICH,100 M Freestyle,SCM,M,55-59,1:21.04,Paul E Lundin,,Milford Meltdown,2018,3
+MICH,400 M Freestyle,SCM,M,55-59,8:19.92,Ali Turfe,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,M,55-59,10:37.56,Michael S Schuldinger,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,M,55-59,12:25.79,James A Izzi,,Milford Meltdown,2018,2
+MICH,800 M Freestyle,SCM,M,55-59,12:28.39,Paul E Lundin,,Milford Meltdown,2018,3
+MICH,800 M Freestyle,SCM,M,55-59,16:39.63,James Carl D'Amour,,Milford Meltdown,2018,4
+MICH,800 M Freestyle,SCM,M,55-59,20:28.63,Ali Turfe,,Milford Meltdown,2018,5
+MICH,1500 M Freestyle,SCM,M,55-59,22:44.25,Paul Lichtenberg,,Milford Monster Madness Meters Meet,2018,1
+MICH,1500 M Freestyle,SCM,M,55-59,42:00.56,Ali Turfe,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Backstroke,SCM,M,55-59,34.38,Jim H Pogue,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,55-59,40.11,Paul Lichtenberg,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,M,55-59,1:15.76,Jim H Pogue,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,M,55-59,1:26.56,Paul Lichtenberg,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Backstroke,SCM,M,55-59,3:16.70,James A Izzi,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,55-59,1:34.95,Tom Welsh,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,55-59,1:39.61,Paul E Lundin,,Milford Meltdown,2018,2
+MICH,50 M Butterfly,SCM,M,55-59,29.93,Jim H Pogue,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Butterfly,SCM,M,55-59,34.41,Paul Lichtenberg,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Butterfly,SCM,M,55-59,1:14.05,Jim H Pogue,,Milford Meltdown,2018,1
+MICH,100 M Butterfly,SCM,M,55-59,1:28.95,Tom Welsh,,Milford Meltdown,2018,2
+MICH,200 M Butterfly,SCM,M,55-59,3:36.32,James A Izzi,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,M,55-59,3:58.69,James Carl D'Amour,,Milford Meltdown,2018,2
+MICH,100 M Individual Medley,SCM,M,55-59,1:24.01,Tom Welsh,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,55-59,1:24.21,Paul Lichtenberg,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Individual Medley,SCM,M,55-59,1:47.19,Ali Turfe,,Milford Meltdown,2018,3
+MICH,200 M Individual Medley,SCM,M,55-59,4:06.09,Ali Turfe,,Milford Meltdown,2018,1
+MICH,400 M Individual Medley,SCM,M,55-59,5:53.87,Michael S Schuldinger,,Milford Meltdown,2018,1
+MICH,400 M Individual Medley,SCM,M,55-59,8:49.00,Ali Turfe,,Milford Meltdown,2018,2
+MICH,50 M Freestyle,SCM,M,60-64,33.07,Peter M Simon,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,M,60-64,1:07.87,Paul M Chadwick,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,60-64,1:12.78,Peter M Simon,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Freestyle,SCM,M,60-64,1:23.03,Olivier Lecerf,,Milford Meltdown,2018,3
+MICH,200 M Freestyle,SCM,M,60-64,2:26.52,Paul M Chadwick,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,60-64,5:22.46,Paul M Chadwick,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,60-64,6:47.31,Olivier Lecerf,,Milford Meltdown,2018,2
+MICH,800 M Freestyle,SCM,M,60-64,11:05.37,Paul M Chadwick,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,M,60-64,13:44.58,Olivier Lecerf,,Milford Meltdown,2018,2
+MICH,1500 M Freestyle,SCM,M,60-64,26:08.21,Olivier Lecerf,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,M,60-64,34.13,Randy J Parker,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,M,60-64,1:15.25,Randy J Parker,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,60-64,1:20.33,William K Durbahn,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,60-64,1:40.36,Olivier Lecerf,,Milford Monster Madness Meters Meet,2018,2
+MICH,200 M Individual Medley,SCM,M,60-64,2:56.52,William K Durbahn,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,M,60-64,3:03.74,Paul M Chadwick,,Milford Meltdown,2018,2
+MICH,200 M Individual Medley,SCM,M,60-64,3:48.79,Olivier Lecerf,,Milford Meltdown,2018,3
+MICH,50 M Freestyle,SCM,M,65-69,29.81,Chuck A Olson,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Freestyle,SCM,M,65-69,34.45,David P Grunewald,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Freestyle,SCM,M,65-69,38.10,Bruce B Wyman,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Freestyle,SCM,M,65-69,1:05.86,Chuck A Olson,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,M,65-69,1:31.43,Robert Rossbach,,Milford Meltdown,2018,2
+MICH,1500 M Freestyle,SCM,M,65-69,25:47.60,Bruce B Wyman,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,65-69,38.39,Chuck A Olson,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,65-69,45.09,Bruce B Wyman,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,M,65-69,1:15.58,Lawrence J Day,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,M,65-69,1:37.99,Bruce B Wyman,,Milford Monster Madness Meters Meet,2018,2
+MICH,100 M Backstroke,SCM,M,65-69,1:38.94,David P Grunewald,,Milford Monster Madness Meters Meet,2018,3
+MICH,100 M Backstroke,SCM,M,65-69,1:53.23,Robert Rossbach,,Milford Meltdown,2018,4
+MICH,200 M Backstroke,SCM,M,65-69,2:31.16,Lawrence J Day,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,65-69,1:39.53,David P Grunewald,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Breaststroke,SCM,M,65-69,1:45.67,Bruce B Wyman,,Milford Monster Madness Meters Meet,2018,2
+MICH,50 M Butterfly,SCM,M,65-69,35.77,Chuck A Olson,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,65-69,1:38.49,David P Grunewald,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,65-69,1:49.79,Robert Rossbach,,Milford Meltdown,2018,2
+MICH,50 M Freestyle,SCM,M,70-74,34.39,Richard C Ten Hoor,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Freestyle,SCM,M,70-74,2:46.71,Gaard Arneson,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,70-74,5:44.48,Gaard Arneson,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,M,70-74,11:49.33,Gaard Arneson,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,M,70-74,22:28.31,Gaard Arneson,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,70-74,37.58,Richard C Ten Hoor,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,M,70-74,1:42.78,Richard C Ten Hoor,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Individual Medley,SCM,M,70-74,1:57.28,Erich C Mehnert,,Milford Meltdown,2018,1
+MICH,50 M Freestyle,SCM,M,75-79,51.63,Donald J Kroeger,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Freestyle,SCM,M,75-79,1:37.42,Thomas Neal,,Milford Meltdown,2018,1
+MICH,100 M Freestyle,SCM,M,75-79,1:43.78,Donald J Kroeger,,Milford Meltdown,2018,2
+MICH,800 M Freestyle,SCM,M,75-79,16:07.17,Thomas Neal,,Milford Meltdown,2018,1
+MICH,1500 M Freestyle,SCM,M,75-79,29:53.97,Donald J Kroeger,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Backstroke,SCM,M,75-79,56.84,Donald J Kroeger,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Backstroke,SCM,M,75-79,1:49.62,Thomas Neal,,Milford Meltdown,2018,1
+MICH,100 M Backstroke,SCM,M,75-79,2:03.13,Donald J Kroeger,,Milford Meltdown,2018,2
+MICH,200 M Backstroke,SCM,M,75-79,4:09.73,Thomas Neal,,Milford Meltdown,2018,1
+MICH,200 M Backstroke,SCM,M,75-79,4:26.66,Richard Han,,Milford Meltdown,2018,2
+MICH,200 M Backstroke,SCM,M,75-79,4:32.43,Donald J Kroeger,,Milford Meltdown,2018,3
+MICH,50 M Breaststroke,SCM,M,75-79,1:01.05,Donald J Kroeger,,Milford Monster Madness Meters Meet,2018,1
+MICH,200 M Breaststroke,SCM,M,75-79,4:38.35,Donald J Kroeger,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,M,75-79,3:43.40,Erik Lokensgard,,Milford Meltdown,2018,1
+MICH,100 M Individual Medley,SCM,M,75-79,2:05.79,Donald J Kroeger,,Milford Meltdown,2018,1
+MICH,200 M Freestyle,SCM,M,80-84,3:21.99,Ray G Martin,,Milford Meltdown,2018,1
+MICH,400 M Freestyle,SCM,M,80-84,6:53.33,Ray G Martin,,Milford Meltdown,2018,1
+MICH,800 M Freestyle,SCM,M,80-84,13:50.03,Ray G Martin,,Milford Meltdown,2018,1
+MICH,50 M Backstroke,SCM,M,80-84,43.35,Allan Charlton,,Milford Monster Madness Meters Meet,2018,1
+MICH,50 M Breaststroke,SCM,M,95-99,2:27.86,Robert R Doud,,Milford Meltdown,2018,1
+MICH,100 M Breaststroke,SCM,M,95-99,5:03.09,Robert R Doud,,Milford Meltdown,2018,1
+MICH,50 M Butterfly,SCM,M,95-99,2:02.24,Robert R Doud,,Milford Monster Madness Meters Meet,2018,1
+MICH,100 M Butterfly,SCM,M,95-99,5:36.78,Robert R Doud,,Milford Meltdown,2018,1
+MICH,200 M Butterfly,SCM,M,95-99,11:08.68,Robert R Doud,,Milford Meltdown,2018,1
+MICH,200 M Individual Medley,SCM,M,95-99,10:39.89,Robert R Doud,,Milford Monster Madness Meters Meet,2018,1
+UC19,50 M Freestyle,SCM,W,50-54,36.90,Judy Degenfelder,,Milford Monster Madness Meters Meet,2018,1
+UC19,100 M Freestyle,SCM,W,50-54,1:21.94,Judy Degenfelder,,Milford Monster Madness Meters Meet,2018,1
+UC19,50 M Backstroke,SCM,W,50-54,44.52,Judy Degenfelder,,Milford Monster Madness Meters Meet,2018,1
+UC19,100 M Individual Medley,SCM,W,50-54,1:33.91,Judy Degenfelder,,Milford Monster Madness Meters Meet,2018,1

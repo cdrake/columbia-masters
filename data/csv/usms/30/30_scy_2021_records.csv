@@ -1,0 +1,399 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+HAST,50 Y Freestyle,SCY,M,40-44,27.90,Joshua G Salzman,,Spring Sojourn 2021,2021,1
+HAST,100 Y Freestyle,SCY,M,40-44,1:03.61,Joshua G Salzman,,Spring Sojourn 2021,2021,1
+HAST,200 Y Freestyle,SCY,M,40-44,2:23.40,Joshua G Salzman,,Spring Sojourn 2021,2021,1
+HAST,100 Y Backstroke,SCY,M,40-44,1:16.09,Joshua G Salzman,,Spring Sojourn 2021,2021,1
+HAST,100 Y Individual Medley,SCY,M,40-44,1:12.71,Joshua G Salzman,,Spring Sojourn 2021,2021,1
+HAST,50 Y Freestyle,SCY,M,55-59,33.83,Louis J Plevell,,Spring Sojourn 2021,2021,1
+HAST,500 Y Freestyle,SCY,M,55-59,9:55.48,Louis J Plevell,,Spring Sojourn 2021,2021,1
+ISMT,100 Y Freestyle,SCY,W,18-24,2:07.74,Emily Eischens,,Spring Sojourn 2021,2021,1
+ISMT,100 Y Backstroke,SCY,W,18-24,2:04.67,Emily Eischens,,Spring Sojourn 2021,2021,1
+ISMT,200 Y Breaststroke,SCY,W,18-24,5:09.08,Emily Eischens,,Spring Sojourn 2021,2021,1
+ISMT,100 Y Individual Medley,SCY,W,18-24,2:08.07,Emily Eischens,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,W,18-24,27.46,Madeline Blumenfeld,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,18-24,29.71,Kara Hippen,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,W,18-24,1:01.02,Madeline Blumenfeld,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,18-24,1:03.29,Kara Hippen,,West Express Masters Maynia,2021,2
+MINN,200 Y Freestyle,SCY,W,18-24,2:07.81,Madeline Blumenfeld,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,W,18-24,5:57.42,Kara Hippen,,West Express Masters Maynia,2021,1
+MINN,1000 Y Freestyle,SCY,W,18-24,12:14.90,Kara Hippen,,West Express Masters Maynia,2021,1
+MINN,1000 Y Freestyle,SCY,W,18-24,13:57.28,Kayla Albers,,West Express Masters Maynia,2021,2
+MINN,50 Y Breaststroke,SCY,W,18-24,36.47,Madeline Blumenfeld,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,W,18-24,1:14.38,Madeline Blumenfeld,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,W,18-24,1:21.79,Kayla Albers,,West Express Masters Maynia,2021,2
+MINN,100 Y Individual Medley,SCY,W,18-24,1:08.96,Madeline Blumenfeld,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,W,18-24,1:19.34,Kayla Albers,,West Express Masters Maynia,2021,2
+MINN,200 Y Individual Medley,SCY,W,18-24,2:24.07,Madeline Blumenfeld,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,25-29,28.14,Joleen M Plekkenpol,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,25-29,1:02.08,Joleen M Plekkenpol,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,W,25-29,6:49.66,Julie M Thurmes,,West Express Masters Maynia,2021,1
+MINN,1000 Y Freestyle,SCY,W,25-29,12:36.96,Joleen M Plekkenpol,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,25-29,46.48,Julie M Thurmes,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,30-34,27.30,Molly Woodford,,Spring Sojourn 2021,2021,1
+MINN,200 Y Freestyle,SCY,W,30-34,2:07.07,Molly Woodford,,West Express Masters Maynia,2021,1
+MINN,1000 Y Freestyle,SCY,W,30-34,12:03.57,Molly Woodford,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,W,30-34,30.03,Molly Woodford,,Spring Sojourn 2021,2021,1
+MINN,100 Y Butterfly,SCY,W,30-34,1:05.94,Molly Woodford,,West Express Masters Maynia,2021,1
+MINN,200 Y Individual Medley,SCY,W,30-34,2:27.20,Molly Woodford,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,35-39,27.40,Elizabeth A Nymeyer,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,35-39,30.41,Stacey Thureen,,West Express Masters Maynia,2021,2
+MINN,50 Y Freestyle,SCY,W,35-39,30.92,Melissa J Jacobsen,,“Riptide’s Return to Racing”,2021,3
+MINN,100 Y Freestyle,SCY,W,35-39,1:03.88,Stacey Thureen,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,35-39,1:07.77,Melissa J Jacobsen,,“Riptide’s Return to Racing”,2021,2
+MINN,200 Y Freestyle,SCY,W,35-39,2:14.61,Sandra E Frimerman-Bergquist,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Freestyle,SCY,W,35-39,2:15.75,Stacey Thureen,,West Express Masters Maynia,2021,2
+MINN,200 Y Freestyle,SCY,W,35-39,2:29.03,Melissa J Jacobsen,,“Riptide’s Return to Racing”,2021,3
+MINN,500 Y Freestyle,SCY,W,35-39,5:45.40,Sandra E Frimerman-Bergquist,,“Riptide’s Return to Racing”,2021,1
+MINN,500 Y Freestyle,SCY,W,35-39,6:40.30,Melissa J Jacobsen,,“Riptide’s Return to Racing”,2021,2
+MINN,100 Y Backstroke,SCY,W,35-39,1:14.40,Elizabeth A Nymeyer,,West Express Masters Maynia,2021,1
+MINN,200 Y Backstroke,SCY,W,35-39,2:40.37,Elizabeth A Nymeyer,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,35-39,38.67,Stacey Thureen,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,W,35-39,1:20.96,Stacey Thureen,,West Express Masters Maynia,2021,1
+MINN,100 Y Butterfly,SCY,W,35-39,1:13.70,Sandra E Frimerman-Bergquist,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Butterfly,SCY,W,35-39,2:36.28,Sandra E Frimerman-Bergquist,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Individual Medley,SCY,W,35-39,1:11.64,Stacey Thureen,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,40-44,31.49,Courtney J Major,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Freestyle,SCY,W,40-44,32.04,Andrea K Williams,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,W,40-44,1:09.44,Andrea K Williams,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,40-44,1:14.43,Courtney J Major,,“Riptide’s Return to Racing”,2021,2
+MINN,200 Y Freestyle,SCY,W,40-44,2:33.27,Andrea K Williams,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,W,40-44,36.61,Courtney J Major,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Individual Medley,SCY,W,40-44,1:24.55,Courtney J Major,,“Riptide’s Return to Racing”,2021,1
+MINN,400 Y Individual Medley,SCY,W,40-44,6:16.53,Andrea K Williams,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,45-49,30.93,Kristin A Sullivan,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,45-49,32.11,Karin Clemon,,Spring Sojourn 2021,2021,2
+MINN,50 Y Freestyle,SCY,W,45-49,32.72,Nicole M Roberts,,West Express Masters Maynia,2021,3
+MINN,100 Y Freestyle,SCY,W,45-49,1:09.14,Kristin A Sullivan,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,45-49,1:10.13,Carly Weaver,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,W,45-49,1:13.81,Karin Clemon,,Spring Sojourn 2021,2021,3
+MINN,50 Y Backstroke,SCY,W,45-49,37.02,Nicole M Roberts,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,45-49,40.64,Nicole M Roberts,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,W,45-49,34.01,Kristin A Sullivan,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,W,45-49,36.83,Nicole M Roberts,,West Express Masters Maynia,2021,2
+MINN,100 Y Individual Medley,SCY,W,45-49,1:16.83,Kristin A Sullivan,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,W,45-49,1:23.46,Carly Weaver,,West Express Masters Maynia,2021,2
+MINN,50 Y Freestyle,SCY,W,50-54,34.11,Leanne Lefebvre Larson,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Freestyle,SCY,W,50-54,59.36,Jennifer Ridge,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Freestyle,SCY,W,50-54,1:15.91,Cindy Bradehoft,,Spring Sojourn 2021,2021,2
+MINN,100 Y Freestyle,SCY,W,50-54,1:17.33,Leanne Lefebvre Larson,,“Riptide’s Return to Racing”,2021,3
+MINN,200 Y Freestyle,SCY,W,50-54,2:36.25,Nicki J Phillips,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,W,50-54,6:06.35,Carrie E Stolar,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,W,50-54,6:32.29,Nicki J Phillips,,West Express Masters Maynia,2021,2
+MINN,500 Y Freestyle,SCY,W,50-54,7:25.72,Leanne Lefebvre Larson,,“Riptide’s Return to Racing”,2021,3
+MINN,1000 Y Freestyle,SCY,W,50-54,12:14.54,Carrie E Stolar,,West Express Masters Maynia,2021,1
+MINN,1000 Y Freestyle,SCY,W,50-54,13:44.95,Nicki J Phillips,,Spring Sojourn 2021,2021,2
+MINN,50 Y Backstroke,SCY,W,50-54,31.86,Jennifer Ridge,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Backstroke,SCY,W,50-54,37.98,Lara Etnier,,West Express Masters Maynia,2021,2
+MINN,50 Y Backstroke,SCY,W,50-54,39.28,Cindy Bradehoft,,Spring Sojourn 2021,2021,3
+MINN,100 Y Backstroke,SCY,W,50-54,1:21.05,Lara Etnier,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,W,50-54,1:24.07,Cindy Bradehoft,,Spring Sojourn 2021,2021,2
+MINN,200 Y Backstroke,SCY,W,50-54,3:01.61,Lara Etnier,,West Express Masters Maynia,2021,1
+MINN,200 Y Backstroke,SCY,W,50-54,3:23.65,Nicki J Phillips,,West Express Masters Maynia,2021,2
+MINN,100 Y Breaststroke,SCY,W,50-54,1:14.98,Jennifer Ridge,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Butterfly,SCY,W,50-54,31.01,Carrie E Stolar,,West Express Masters Maynia,2021,1
+MINN,100 Y Butterfly,SCY,W,50-54,1:08.64,Carrie E Stolar,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,W,50-54,1:13.01,Carrie E Stolar,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,W,50-54,1:30.54,Leanne Lefebvre Larson,,“Riptide’s Return to Racing”,2021,2
+MINN,200 Y Individual Medley,SCY,W,50-54,2:25.63,Jennifer Ridge,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Individual Medley,SCY,W,50-54,2:36.42,Carrie E Stolar,,West Express Masters Maynia,2021,2
+MINN,400 Y Individual Medley,SCY,W,50-54,6:34.05,Nicki J Phillips,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,55-59,32.69,Judith A Bloom,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,55-59,34.88,Jacqueline D Strebe,,Spring Sojourn 2021,2021,2
+MINN,50 Y Freestyle,SCY,W,55-59,39.35,Margo T Brady,,West Express Masters Maynia,2021,3
+MINN,50 Y Freestyle,SCY,W,55-59,52.87,Allyn M Silver,,West Express Masters Maynia,2021,4
+MINN,100 Y Freestyle,SCY,W,55-59,1:11.42,Susan L Mohn,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,55-59,1:15.15,Judith A Bloom,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,W,55-59,1:19.58,Jacqueline D Strebe,,Spring Sojourn 2021,2021,3
+MINN,100 Y Freestyle,SCY,W,55-59,1:33.16,Margo T Brady,,2021 SD Masters State Meet,2021,4
+MINN,200 Y Freestyle,SCY,W,55-59,2:49.82,Sarah Hromada,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,W,55-59,40.00,Sarah Hromada,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,W,55-59,52.69,Margo T Brady,,2021 SD Masters State Meet,2021,2
+MINN,50 Y Backstroke,SCY,W,55-59,59.73,Allyn M Silver,,West Express Masters Maynia,2021,3
+MINN,100 Y Backstroke,SCY,W,55-59,1:30.69,Sarah Hromada,,Spring Sojourn 2021,2021,1
+MINN,100 Y Backstroke,SCY,W,55-59,1:49.71,Margo T Brady,,West Express Masters Maynia,2021,2
+MINN,50 Y Breaststroke,SCY,W,55-59,41.29,Susan L Mohn,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,55-59,44.17,Judith A Bloom,,West Express Masters Maynia,2021,2
+MINN,50 Y Breaststroke,SCY,W,55-59,47.77,Jacqueline D Strebe,,Spring Sojourn 2021,2021,3
+MINN,50 Y Breaststroke,SCY,W,55-59,52.14,Margo T Brady,,West Express Masters Maynia,2021,4
+MINN,50 Y Breaststroke,SCY,W,55-59,1:00.21,Allyn M Silver,,West Express Masters Maynia,2021,5
+MINN,100 Y Breaststroke,SCY,W,55-59,1:29.41,Susan L Mohn,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,W,55-59,1:40.19,Judith A Bloom,,“Riptide’s Return to Racing”,2021,2
+MINN,200 Y Breaststroke,SCY,W,55-59,3:44.19,Judith A Bloom,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Butterfly,SCY,W,55-59,53.50,Jacqueline D Strebe,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Individual Medley,SCY,W,55-59,1:51.62,Margo T Brady,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,60-64,29.33,Peggy Kratz,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,60-64,33.47,Amy A Parratto,,West Express Masters Maynia,2021,2
+MINN,50 Y Freestyle,SCY,W,60-64,37.16,Sara J Stoltman,,Spring Sojourn 2021,2021,3
+MINN,100 Y Freestyle,SCY,W,60-64,1:03.62,Peggy Kratz,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Freestyle,SCY,W,60-64,1:23.55,Sara J Stoltman,,Spring Sojourn 2021,2021,2
+MINN,200 Y Freestyle,SCY,W,60-64,2:26.28,Peggy Kratz,,“Riptide’s Return to Racing”,2021,1
+MINN,500 Y Freestyle,SCY,W,60-64,6:24.12,Peggy Kratz,,“Riptide’s Return to Racing”,2021,1
+MINN,1000 Y Freestyle,SCY,W,60-64,13:23.17,Peggy Kratz,,West Express Masters Maynia,2021,1
+MINN,50 Y Backstroke,SCY,W,60-64,40.29,Amy A Parratto,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,W,60-64,1:23.75,Amy A Parratto,,Spring Sojourn 2021,2021,1
+MINN,200 Y Backstroke,SCY,W,60-64,2:53.79,Amy A Parratto,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,W,60-64,36.71,Amy A Parratto,,Spring Sojourn 2021,2021,1
+MINN,100 Y Butterfly,SCY,W,60-64,1:20.97,Peggy Kratz,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Butterfly,SCY,W,60-64,2:51.28,Peggy Kratz,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Butterfly,SCY,W,60-64,3:14.77,Amy A Parratto,,Spring Sojourn 2021,2021,2
+MINN,200 Y Individual Medley,SCY,W,60-64,2:44.84,Peggy Kratz,,West Express Masters Maynia,2021,1
+MINN,50 Y Backstroke,SCY,W,65-69,44.63,Paula J Pendergast,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,W,65-69,1:40.68,Paula J Pendergast,,West Express Masters Maynia,2021,1
+MINN,200 Y Backstroke,SCY,W,65-69,5:14.64,Mary R Vonderharr,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,65-69,46.54,Paula J Pendergast,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,W,65-69,1:42.92,Paula J Pendergast,,West Express Masters Maynia,2021,1
+MINN,200 Y Breaststroke,SCY,W,65-69,3:38.11,Sharon M Lee-Sheridan,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,W,65-69,1:16.86,Mary R Vonderharr,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,W,65-69,1:37.71,Paula J Pendergast,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,W,65-69,2:23.34,Mary R Vonderharr,,West Express Masters Maynia,2021,2
+MINN,50 Y Freestyle,SCY,W,70-74,40.18,Mary F Conway,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,W,70-74,40.73,Babs H Larsen,,Spring Sojourn 2021,2021,2
+MINN,100 Y Freestyle,SCY,W,70-74,1:32.38,Mary F Conway,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,W,70-74,46.83,Babs H Larsen,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,W,70-74,1:44.94,Babs H Larsen,,Spring Sojourn 2021,2021,1
+MINN,200 Y Backstroke,SCY,W,70-74,3:38.28,Babs H Larsen,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,70-74,53.37,Mary F Conway,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,W,70-74,50.13,Babs H Larsen,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,W,70-74,51.29,Mary F Conway,,Spring Sojourn 2021,2021,2
+MINN,100 Y Individual Medley,SCY,W,70-74,1:45.88,Mary F Conway,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,W,70-74,1:46.79,Babs H Larsen,,Spring Sojourn 2021,2021,2
+MINN,50 Y Freestyle,SCY,W,75-79,1:31.92,Sandra A Pierce,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,W,75-79,2:20.57,Pat J Lillehei,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,W,75-79,1:02.15,AnnLiv Bacon,,West Express Masters Maynia,2021,1
+MINN,50 Y Backstroke,SCY,W,75-79,1:42.59,Sandra A Pierce,,West Express Masters Maynia,2021,2
+MINN,100 Y Backstroke,SCY,W,75-79,2:15.85,AnnLiv Bacon,,West Express Masters Maynia,2021,1
+MINN,200 Y Backstroke,SCY,W,75-79,4:52.25,AnnLiv Bacon,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,W,75-79,1:12.78,Pat J Lillehei,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,W,75-79,2:41.73,Pat J Lillehei,,Spring Sojourn 2021,2021,1
+MINN,200 Y Breaststroke,SCY,W,75-79,5:48.74,Pat J Lillehei,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,W,75-79,1:24.62,AnnLiv Bacon,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,M,18-24,23.73,Ryan  W Wedl,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,18-24,24.57,Noah Becker,,Spring Sojourn 2021,2021,2
+MINN,100 Y Freestyle,SCY,M,18-24,51.99,Ryan  W Wedl,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,M,18-24,26.79,Noah Becker,,Spring Sojourn 2021,2021,1
+MINN,100 Y Backstroke,SCY,M,18-24,59.23,Noah Becker,,Spring Sojourn 2021,2021,1
+MINN,200 Y Backstroke,SCY,M,18-24,2:27.05,Noah Becker,,Spring Sojourn 2021,2021,1
+MINN,50 Y Breaststroke,SCY,M,18-24,30.10,Ryan  W Wedl,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,M,18-24,1:04.61,Ryan  W Wedl,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,18-24,25.94,Noah Becker,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,M,18-24,58.09,Ryan  W Wedl,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,25-29,21.44,Bryce P Boston,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,25-29,22.04,Benjamin G Fisher,,Spring Sojourn 2021,2021,2
+MINN,50 Y Freestyle,SCY,M,25-29,22.15,Phil Albu,,Spring Sojourn 2021,2021,3
+MINN,50 Y Freestyle,SCY,M,25-29,23.34,Seth J Baetzold,,2021 Central Zone Speedo Sectionals Series,2021,4
+MINN,50 Y Freestyle,SCY,M,25-29,23.36,Wilson Josephson,,Spring Sojourn 2021,2021,5
+MINN,50 Y Freestyle,SCY,M,25-29,24.25,Zach Hingtgen,,Spring Sojourn 2021,2021,6
+MINN,100 Y Freestyle,SCY,M,25-29,50.00,Phil Albu,,Spring Sojourn 2021,2021,1
+MINN,100 Y Freestyle,SCY,M,25-29,51.01,Wilson Josephson,,Spring Sojourn 2021,2021,2
+MINN,100 Y Freestyle,SCY,M,25-29,51.89,Benjamin G Fisher,,Spring Sojourn 2021,2021,3
+MINN,100 Y Freestyle,SCY,M,25-29,1:04.72,Zach Hingtgen,,Spring Sojourn 2021,2021,4
+MINN,500 Y Freestyle,SCY,M,25-29,5:15.09,Wilson Josephson,,Spring Sojourn 2021,2021,1
+MINN,500 Y Freestyle,SCY,M,25-29,5:27.50,Phil Albu,,“Riptide’s Return to Racing”,2021,2
+MINN,500 Y Freestyle,SCY,M,25-29,6:05.57,Austin M Campbell,,“Riptide’s Return to Racing”,2021,3
+MINN,1000 Y Freestyle,SCY,M,25-29,10:54.08,Phil Albu,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,M,25-29,25.81,Phil Albu,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,M,25-29,29.30,Zach Hingtgen,,Spring Sojourn 2021,2021,2
+MINN,50 Y Breaststroke,SCY,M,25-29,27.77,Benjamin G Fisher,,Spring Sojourn 2021,2021,1
+MINN,50 Y Breaststroke,SCY,M,25-29,32.64,Seth J Baetzold,,West Express Masters Maynia,2021,2
+MINN,100 Y Breaststroke,SCY,M,25-29,1:00.66,Benjamin G Fisher,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,M,25-29,1:15.39,Austin M Campbell,,“Riptide’s Return to Racing”,2021,2
+MINN,200 Y Breaststroke,SCY,M,25-29,2:53.68,Austin M Campbell,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Butterfly,SCY,M,25-29,22.87,Bryce P Boston,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,25-29,25.52,Seth J Baetzold,,“Riptide’s Return to Racing”,2021,2
+MINN,50 Y Butterfly,SCY,M,25-29,26.87,Zach Hingtgen,,Spring Sojourn 2021,2021,3
+MINN,100 Y Butterfly,SCY,M,25-29,51.66,Bryce P Boston,,Spring Sojourn 2021,2021,1
+MINN,100 Y Butterfly,SCY,M,25-29,55.35,Seth J Baetzold,,2021 Central Zone Speedo Sectionals Series,2021,2
+MINN,100 Y Butterfly,SCY,M,25-29,59.18,Wilson Josephson,,Spring Sojourn 2021,2021,3
+MINN,200 Y Butterfly,SCY,M,25-29,2:06.31,Seth J Baetzold,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Individual Medley,SCY,M,25-29,2:36.09,Austin M Campbell,,“Riptide’s Return to Racing”,2021,1
+MINN,400 Y Individual Medley,SCY,M,25-29,5:06.37,Seth J Baetzold,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,M,30-34,28.10,Paul Kittelson,,Spring Sojourn 2021,2021,1
+MINN,100 Y Freestyle,SCY,M,30-34,1:06.72,Paul Kittelson,,West Express Masters Maynia,2021,1
+MINN,200 Y Freestyle,SCY,M,30-34,2:34.80,Paul Kittelson,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,M,30-34,36.11,Paul Kittelson,,Spring Sojourn 2021,2021,1
+MINN,50 Y Breaststroke,SCY,M,30-34,38.51,Paul Kittelson,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,M,30-34,1:29.12,Paul Kittelson,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Breaststroke,SCY,M,30-34,3:17.64,Paul Kittelson,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Butterfly,SCY,M,30-34,34.46,Paul Kittelson,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Freestyle,SCY,M,35-39,30.31,Michael Karau,,Spring Sojourn 2021,2021,1
+MINN,100 Y Freestyle,SCY,M,35-39,1:01.04,Patrick Parish,,Spring Sojourn 2021,2021,1
+MINN,100 Y Freestyle,SCY,M,35-39,1:10.42,Michael Karau,,Spring Sojourn 2021,2021,2
+MINN,500 Y Freestyle,SCY,M,35-39,6:04.93,Patrick Parish,,Spring Sojourn 2021,2021,1
+MINN,500 Y Freestyle,SCY,M,35-39,7:19.05,Michael Karau,,Spring Sojourn 2021,2021,2
+MINN,100 Y Backstroke,SCY,M,35-39,1:17.31,Patrick Parish,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,35-39,30.30,Patrick Parish,,West Express Masters Maynia,2021,1
+MINN,100 Y Butterfly,SCY,M,35-39,1:08.76,Patrick Parish,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,M,35-39,1:11.92,Patrick Parish,,West Express Masters Maynia,2021,1
+MINN,200 Y Individual Medley,SCY,M,35-39,2:31.54,Patrick Parish,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,40-44,23.18,Luke A Vestrum,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,40-44,30.23,Curtis Majeski,,West Express Masters Maynia,2021,2
+MINN,200 Y Freestyle,SCY,M,40-44,1:51.44,Curt G Wood,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,M,40-44,4:58.78,Curt G Wood,,West Express Masters Maynia,2021,1
+MINN,1000 Y Freestyle,SCY,M,40-44,10:31.60,Curt G Wood,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,M,40-44,1:23.63,Curtis Majeski,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,40-44,29.36,Luke A Vestrum,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,40-44,25.05,Luke A Vestrum,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,M,40-44,57.43,Luke A Vestrum,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,45-49,26.00,Micah A Roberts,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,M,45-49,26.83,Brandon S Thornton,,West Express Masters Maynia,2021,2
+MINN,50 Y Freestyle,SCY,M,45-49,27.08,Noah R Pruzek,,West Express Masters Maynia,2021,3
+MINN,50 Y Freestyle,SCY,M,45-49,27.90,Brad Smith,,“Riptide’s Return to Racing”,2021,4
+MINN,50 Y Freestyle,SCY,M,45-49,35.45,Ryan D Redetzke,,“Riptide’s Return to Racing”,2021,5
+MINN,100 Y Freestyle,SCY,M,45-49,59.11,Brandon S Thornton,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,M,45-49,1:00.92,Noah R Pruzek,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,M,45-49,1:08.34,Chad A Manbeck,,Spring Sojourn 2021,2021,3
+MINN,200 Y Freestyle,SCY,M,45-49,2:13.30,Brad Smith,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Freestyle,SCY,M,45-49,2:27.06,Chad A Manbeck,,Spring Sojourn 2021,2021,2
+MINN,200 Y Freestyle,SCY,M,45-49,3:16.65,Ryan D Redetzke,,“Riptide’s Return to Racing”,2021,3
+MINN,500 Y Freestyle,SCY,M,45-49,6:26.99,Chad A Manbeck,,Spring Sojourn 2021,2021,1
+MINN,1000 Y Freestyle,SCY,M,45-49,12:05.89,Micah A Roberts,,West Express Masters Maynia,2021,1
+MINN,50 Y Backstroke,SCY,M,45-49,34.47,Brad Smith,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Breaststroke,SCY,M,45-49,35.14,Noah R Pruzek,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,45-49,42.90,Ryan D Redetzke,,“Riptide’s Return to Racing”,2021,2
+MINN,100 Y Breaststroke,SCY,M,45-49,1:18.06,Chad A Manbeck,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,M,45-49,1:22.62,Brandon S Thornton,,West Express Masters Maynia,2021,2
+MINN,100 Y Breaststroke,SCY,M,45-49,1:34.54,Ryan D Redetzke,,“Riptide’s Return to Racing”,2021,3
+MINN,50 Y Butterfly,SCY,M,45-49,29.91,Micah A Roberts,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,M,45-49,29.92,Noah R Pruzek,,West Express Masters Maynia,2021,2
+MINN,100 Y Individual Medley,SCY,M,45-49,1:09.11,Brad Smith,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Individual Medley,SCY,M,45-49,1:10.28,Noah R Pruzek,,West Express Masters Maynia,2021,2
+MINN,50 Y Freestyle,SCY,M,50-54,29.68,Jeff Clemon,,Spring Sojourn 2021,2021,1
+MINN,100 Y Freestyle,SCY,M,50-54,1:00.19,Jonathan A Merkle,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,M,50-54,1:06.95,Jeff Clemon,,Spring Sojourn 2021,2021,2
+MINN,200 Y Freestyle,SCY,M,50-54,2:09.83,Jonathan A Merkle,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,50-54,33.74,Jonathan A Merkle,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,M,50-54,1:14.10,Jonathan A Merkle,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,M,50-54,1:08.15,Jonathan A Merkle,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,M,55-59,25.87,Robert A Young,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Freestyle,SCY,M,55-59,28.60,Steven D Gruenwald,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,M,55-59,1:01.37,Steven D Gruenwald,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,M,55-59,27.44,Robert A Young,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Butterfly,SCY,M,55-59,32.54,Steven D Gruenwald,,West Express Masters Maynia,2021,2
+MINN,100 Y Butterfly,SCY,M,55-59,1:06.85,Robert A Young,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Freestyle,SCY,M,60-64,26.73,Gary Muchow,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,60-64,27.23,Brian K Holthus,,West Express Masters Maynia,2021,2
+MINN,100 Y Freestyle,SCY,M,60-64,1:18.21,Dan E Ploenzke,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Freestyle,SCY,M,60-64,2:09.22,Gary Muchow,,West Express Masters Maynia,2021,1
+MINN,50 Y Backstroke,SCY,M,60-64,31.39,Brian K Holthus,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,M,60-64,1:07.39,Brian K Holthus,,West Express Masters Maynia,2021,1
+MINN,200 Y Backstroke,SCY,M,60-64,2:27.74,Brian K Holthus,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,60-64,29.55,James L Kochendorfer,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,M,60-64,1:05.48,James L Kochendorfer,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,60-64,31.22,Didier B Lamour,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,60-64,35.92,Dan E Ploenzke,,“Riptide’s Return to Racing”,2021,2
+MINN,100 Y Butterfly,SCY,M,60-64,1:08.01,Gary Muchow,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,M,60-64,1:12.32,Didier B Lamour,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,M,60-64,1:25.67,Dan E Ploenzke,,“Riptide’s Return to Racing”,2021,2
+MINN,200 Y Individual Medley,SCY,M,60-64,2:29.04,Gary Muchow,,West Express Masters Maynia,2021,1
+MINN,400 Y Individual Medley,SCY,M,60-64,5:30.90,Gary Muchow,,Spring Sojourn 2021,2021,1
+MINN,50 Y Freestyle,SCY,M,65-69,30.78,Steven E Nelson,,West Express Masters Maynia,2021,1
+MINN,50 Y Freestyle,SCY,M,65-69,55.68,Duane R Jacobson,,West Express Masters Maynia,2021,2
+MINN,100 Y Backstroke,SCY,M,65-69,1:18.65,Steven E Nelson,,West Express Masters Maynia,2021,1
+MINN,200 Y Backstroke,SCY,M,65-69,2:48.15,Steven E Nelson,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,65-69,1:03.12,Duane R Jacobson,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Freestyle,SCY,M,70-74,28.76,Marc S Anderson,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Freestyle,SCY,M,70-74,32.25,Robin T Kleffman,,Spring Sojourn 2021,2021,2
+MINN,50 Y Freestyle,SCY,M,70-74,33.12,James D Parker,,Spring Sojourn 2021,2021,3
+MINN,100 Y Freestyle,SCY,M,70-74,1:05.59,Marc S Anderson,,West Express Masters Maynia,2021,1
+MINN,100 Y Freestyle,SCY,M,70-74,1:13.54,James D Parker,,Spring Sojourn 2021,2021,2
+MINN,200 Y Freestyle,SCY,M,70-74,2:36.58,Marc S Anderson,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,M,70-74,6:40.42,Marc S Anderson,,West Express Masters Maynia,2021,1
+MINN,500 Y Freestyle,SCY,M,70-74,7:33.66,James D Parker,,West Express Masters Maynia,2021,2
+MINN,1000 Y Freestyle,SCY,M,70-74,14:28.68,Marc S Anderson,,Spring Sojourn 2021,2021,1
+MINN,1000 Y Freestyle,SCY,M,70-74,16:09.02,Thomas A Hodgson,,Spring Sojourn 2021,2021,2
+MINN,50 Y Backstroke,SCY,M,70-74,36.99,Marc S Anderson,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Backstroke,SCY,M,70-74,38.20,Robin T Kleffman,,Spring Sojourn 2021,2021,2
+MINN,100 Y Backstroke,SCY,M,70-74,1:24.55,Daniel S Kornblatt,,West Express Masters Maynia,2021,1
+MINN,100 Y Backstroke,SCY,M,70-74,1:28.14,Thomas A Hodgson,,Spring Sojourn 2021,2021,2
+MINN,100 Y Backstroke,SCY,M,70-74,1:35.72,Marc S Anderson,,Spring Sojourn 2021,2021,3
+MINN,200 Y Backstroke,SCY,M,70-74,3:16.94,Marc S Anderson,,Spring Sojourn 2021,2021,1
+MINN,50 Y Breaststroke,SCY,M,70-74,38.30,Marc S Anderson,,“Riptide’s Return to Racing”,2021,1
+MINN,50 Y Breaststroke,SCY,M,70-74,39.14,Robin T Kleffman,,Spring Sojourn 2021,2021,2
+MINN,50 Y Breaststroke,SCY,M,70-74,40.09,Gary M Fine,,West Express Masters Maynia,2021,3
+MINN,50 Y Breaststroke,SCY,M,70-74,44.57,James D Parker,,Spring Sojourn 2021,2021,4
+MINN,100 Y Breaststroke,SCY,M,70-74,1:28.80,Marc S Anderson,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,M,70-74,1:29.36,Gary M Fine,,Spring Sojourn 2021,2021,2
+MINN,100 Y Breaststroke,SCY,M,70-74,1:38.27,James D Parker,,Spring Sojourn 2021,2021,3
+MINN,200 Y Breaststroke,SCY,M,70-74,3:15.53,Marc S Anderson,,Spring Sojourn 2021,2021,1
+MINN,200 Y Breaststroke,SCY,M,70-74,3:17.46,Gary M Fine,,Spring Sojourn 2021,2021,2
+MINN,200 Y Breaststroke,SCY,M,70-74,4:48.27,Mark Kaplan,,West Express Masters Maynia,2021,3
+MINN,50 Y Butterfly,SCY,M,70-74,32.11,Robin T Kleffman,,Spring Sojourn 2021,2021,1
+MINN,50 Y Butterfly,SCY,M,70-74,34.71,Marc S Anderson,,“Riptide’s Return to Racing”,2021,2
+MINN,50 Y Butterfly,SCY,M,70-74,42.19,Gary M Fine,,“Riptide’s Return to Racing”,2021,3
+MINN,50 Y Butterfly,SCY,M,70-74,1:04.96,Mark Kaplan,,“Riptide’s Return to Racing”,2021,4
+MINN,100 Y Butterfly,SCY,M,70-74,1:27.94,Gary M Fine,,“Riptide’s Return to Racing”,2021,1
+MINN,100 Y Butterfly,SCY,M,70-74,1:32.59,Marc S Anderson,,West Express Masters Maynia,2021,2
+MINN,200 Y Butterfly,SCY,M,70-74,3:19.50,Gary M Fine,,“Riptide’s Return to Racing”,2021,1
+MINN,200 Y Butterfly,SCY,M,70-74,6:38.32,Mark Kaplan,,West Express Masters Maynia,2021,2
+MINN,100 Y Individual Medley,SCY,M,70-74,1:18.57,Marc S Anderson,,Spring Sojourn 2021,2021,1
+MINN,100 Y Individual Medley,SCY,M,70-74,1:22.42,Gary M Fine,,West Express Masters Maynia,2021,2
+MINN,100 Y Individual Medley,SCY,M,70-74,1:27.46,Thomas A Hodgson,,Spring Sojourn 2021,2021,3
+MINN,100 Y Individual Medley,SCY,M,70-74,1:30.20,James D Parker,,Spring Sojourn 2021,2021,4
+MINN,100 Y Individual Medley,SCY,M,70-74,1:55.63,Mark Kaplan,,“Riptide’s Return to Racing”,2021,5
+MINN,200 Y Individual Medley,SCY,M,70-74,3:04.71,Marc S Anderson,,Spring Sojourn 2021,2021,1
+MINN,200 Y Individual Medley,SCY,M,70-74,4:30.40,Mark Kaplan,,Spring Sojourn 2021,2021,2
+MINN,400 Y Individual Medley,SCY,M,70-74,6:38.56,Marc S Anderson,,West Express Masters Maynia,2021,1
+MINN,400 Y Individual Medley,SCY,M,70-74,7:04.14,Gary M Fine,,Spring Sojourn 2021,2021,2
+MINN,400 Y Individual Medley,SCY,M,70-74,9:48.69,Mark Kaplan,,Spring Sojourn 2021,2021,3
+MINN,50 Y Freestyle,SCY,M,80-84,36.36,Pete Magee,,Spring Sojourn 2021,2021,1
+MINN,200 Y Freestyle,SCY,M,80-84,3:24.27,Pete Magee,,Spring Sojourn 2021,2021,1
+MINN,50 Y Backstroke,SCY,M,80-84,49.32,Pete Magee,,Spring Sojourn 2021,2021,1
+MINN,200 Y Backstroke,SCY,M,80-84,4:13.46,Pete Magee,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,80-84,47.47,David C Arlander,,Spring Sojourn 2021,2021,1
+MINN,100 Y Breaststroke,SCY,M,80-84,1:43.92,David C Arlander,,Spring Sojourn 2021,2021,1
+MINN,200 Y Breaststroke,SCY,M,80-84,3:52.52,David C Arlander,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,M,80-84,1:02.98,Pete Magee,,West Express Masters Maynia,2021,1
+MINN,50 Y Breaststroke,SCY,M,85-89,1:00.69,Bill Kansas,,West Express Masters Maynia,2021,1
+MINN,100 Y Breaststroke,SCY,M,85-89,2:42.66,Bill Kansas,,West Express Masters Maynia,2021,1
+MINN,50 Y Butterfly,SCY,M,85-89,1:25.13,Bill Kansas,,West Express Masters Maynia,2021,1
+MINN,100 Y Individual Medley,SCY,M,85-89,2:35.69,Bill Kansas,,West Express Masters Maynia,2021,1
+MINN,200 Y Individual Medley,SCY,M,85-89,5:46.74,Bill Kansas,,West Express Masters Maynia,2021,1
+NORT,50 Y Freestyle,SCY,M,65-69,34.09,Charles C Stewart,,West Express Masters Maynia,2021,1
+NORT,100 Y Individual Medley,SCY,M,65-69,1:26.29,Charles C Stewart,,West Express Masters Maynia,2021,1
+NORT,200 Y Individual Medley,SCY,M,65-69,3:15.58,Charles C Stewart,,West Express Masters Maynia,2021,1
+UC30,50 Y Freestyle,SCY,W,18-24,29.58,Kara Hippen,,“Riptide’s Return to Racing”,2021,1
+UC30,100 Y Freestyle,SCY,W,18-24,1:04.80,Kara Hippen,,“Riptide’s Return to Racing”,2021,1
+UC30,200 Y Freestyle,SCY,W,18-24,2:19.00,Kara Hippen,,“Riptide’s Return to Racing”,2021,1
+UC30,500 Y Freestyle,SCY,W,18-24,6:07.25,Kara Hippen,,“Riptide’s Return to Racing”,2021,1
+UC30,100 Y Backstroke,SCY,W,30-34,1:20.28,Jacquelyn Runholt,,“Riptide’s Return to Racing”,2021,1
+UC30,200 Y Individual Medley,SCY,W,30-34,3:00.20,Jacquelyn Runholt,,“Riptide’s Return to Racing”,2021,1
+UC30,50 Y Freestyle,SCY,W,50-54,36.07,Theresa  M Chasar,,West Express Masters Maynia,2021,1
+UC30,50 Y Breaststroke,SCY,W,50-54,44.84,Theresa  M Chasar,,West Express Masters Maynia,2021,1
+UC30,100 Y Individual Medley,SCY,W,50-54,1:31.89,Theresa  M Chasar,,West Express Masters Maynia,2021,1
+UC30,50 Y Freestyle,SCY,M,18-24,23.90,Jack H Swanson,,Spring Sojourn 2021,2021,1
+UC30,200 Y Freestyle,SCY,M,18-24,1:49.56,Jack H Swanson,,Spring Sojourn 2021,2021,1
+UC30,1000 Y Freestyle,SCY,M,18-24,10:29.06,Jack H Swanson,,Spring Sojourn 2021,2021,1
+UC30,100 Y Individual Medley,SCY,M,18-24,1:00.33,Jack H Swanson,,Spring Sojourn 2021,2021,1
+UC30,50 Y Freestyle,SCY,M,25-29,23.48,Sam J Konsor,,West Express Masters Maynia,2021,1
+UC30,100 Y Freestyle,SCY,M,25-29,53.75,Sam J Konsor,,West Express Masters Maynia,2021,1
+UC30,50 Y Butterfly,SCY,M,25-29,26.17,Sam J Konsor,,West Express Masters Maynia,2021,1
+UC30,100 Y Breaststroke,SCY,M,30-34,1:04.69,Chris J Corbett,,Spring Sojourn 2021,2021,1
+UC30,200 Y Breaststroke,SCY,M,30-34,2:22.42,Chris J Corbett,,Spring Sojourn 2021,2021,1
+UC30,100 Y Individual Medley,SCY,M,30-34,59.39,Chris J Corbett,,Spring Sojourn 2021,2021,1
+UC30,400 Y Individual Medley,SCY,M,30-34,4:46.89,Chris J Corbett,,Spring Sojourn 2021,2021,1
+UC30,50 Y Freestyle,SCY,M,35-39,28.19,Cosmin  C Tarau,,“Riptide’s Return to Racing”,2021,1
+UC30,50 Y Breaststroke,SCY,M,35-39,34.55,Cosmin  C Tarau,,“Riptide’s Return to Racing”,2021,1
+UC30,100 Y Freestyle,SCY,M,50-54,1:02.93,Steven Kahl,,West Express Masters Maynia,2021,1
+UC30,200 Y Freestyle,SCY,M,50-54,2:24.87,Steven Kahl,,West Express Masters Maynia,2021,1
+UC30,500 Y Freestyle,SCY,M,50-54,6:16.16,Steven Kahl,,West Express Masters Maynia,2021,1
+UC30,100 Y Breaststroke,SCY,M,50-54,1:24.01,Steven Kahl,,West Express Masters Maynia,2021,1
+UC30,100 Y Freestyle,SCY,M,65-69,56.88,Trip Hedrick,,2021 DSMY Masters SC Invitational,2021,1
+UC30,200 Y Freestyle,SCY,M,65-69,2:50.33,Trip Hedrick,,2021 DSMY Masters SC Invitational,2021,1
+UC30,50 Y Breaststroke,SCY,M,65-69,43.87,Kevin P Carroll,,“Riptide’s Return to Racing”,2021,1
+UC30,100 Y Breaststroke,SCY,M,65-69,1:38.58,Kevin P Carroll,,“Riptide’s Return to Racing”,2021,1
+UC30,200 Y Breaststroke,SCY,M,65-69,3:51.79,Kevin P Carroll,,“Riptide’s Return to Racing”,2021,1
+UC30,50 Y Butterfly,SCY,M,65-69,26.33,Trip Hedrick,,2021 DSMY Masters SC Invitational,2021,1
+UC30,100 Y Individual Medley,SCY,M,65-69,1:33.19,Kevin P Carroll,,“Riptide’s Return to Racing”,2021,1
+UC30,200 Y Individual Medley,SCY,M,65-69,3:28.60,Trip Hedrick,,2021 DSMY Masters SC Invitational,2021,1
+UC30,200 Y Freestyle,SCY,M,70-74,2:57.38,Bill Durell,,Spring Sojourn 2021,2021,1
+UC30,500 Y Freestyle,SCY,M,70-74,7:42.23,Bill Durell,,Spring Sojourn 2021,2021,1
+UC30,1000 Y Freestyle,SCY,M,70-74,15:50.36,Bill Durell,,Back in Action,2021,1
+UC30,1650 Y Freestyle,SCY,M,70-74,26:14.99,Bill Durell,,2021 DSMY Masters SC Invitational,2021,1
+UC30,100 Y Backstroke,SCY,M,70-74,1:32.16,Bill Durell,,Spring Sojourn 2021,2021,1
+UC30,200 Y Backstroke,SCY,M,70-74,3:20.54,Bill Durell,,“Riptide’s Return to Racing”,2021,1
+UC30,100 Y Breaststroke,SCY,M,70-74,1:36.25,Bill Durell,,2021 DSMY Masters SC Invitational,2021,1
+UC30,200 Y Breaststroke,SCY,M,70-74,3:36.25,Bill Durell,,Back in Action,2021,1
+UC30,100 Y Butterfly,SCY,M,70-74,1:52.22,Bill Durell,,Back in Action,2021,1
+UC30,200 Y Butterfly,SCY,M,70-74,4:06.23,Bill Durell,,USMS South Central Zone Short Course Yards Championships Oklahoma/Arkansas Region,2021,1
+UC30,200 Y Individual Medley,SCY,M,70-74,3:22.12,Bill Durell,,2021 DSMY Masters SC Invitational,2021,1
+UC30,400 Y Individual Medley,SCY,M,70-74,7:19.08,Bill Durell,,Back in Action,2021,1

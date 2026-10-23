@@ -1,0 +1,461 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MICH,50 M Freestyle,SCM,W,18-24,34.72,Grace A Gagnier,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,18-24,1:19.95,Grace A Gagnier,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,18-24,1:21.90,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Freestyle,SCM,W,18-24,3:05.89,Grace A Gagnier,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,18-24,6:43.83,Grace A Gagnier,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,18-24,6:47.62,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,800 M Freestyle,SCM,W,18-24,13:50.37,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,18-24,44.04,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,18-24,1:38.86,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,W,18-24,3:34.42,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Individual Medley,SCM,W,18-24,8:01.26,Savannah R Fritz,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,W,25-29,28.86,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,W,25-29,31.22,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Freestyle,SCM,W,25-29,1:06.19,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,25-29,1:09.14,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Freestyle,SCM,W,25-29,1:13.55,Katherine Itchue,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Freestyle,SCM,W,25-29,1:15.57,Claire E Stanley,,Milford Meltdown Masters Meet,2026,4
+MICH,100 M Freestyle,SCM,W,25-29,1:28.26,Julia E Lane,,2026 Speedo Canadian Masters Swimming Championships,2026,5
+MICH,100 M Freestyle,SCM,W,25-29,1:31.54,Maya Hannagan,,2026 Speedo Canadian Masters Swimming Championships,2026,6
+MICH,200 M Freestyle,SCM,W,25-29,2:33.43,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,25-29,5:33.72,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,25-29,7:18.15,Maya Hannagan,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,800 M Freestyle,SCM,W,25-29,14:39.06,Julia E Lane,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,1500 M Freestyle,SCM,W,25-29,21:53.83,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,W,25-29,32.72,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,W,25-29,1:13.55,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,W,25-29,1:19.92,Katherine Itchue,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Breaststroke,SCM,W,25-29,40.77,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,25-29,31.17,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,25-29,37.74,Claire E Stanley,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Butterfly,SCM,W,25-29,40.36,Katherine Itchue,,Milford Meltdown Masters Meet,2026,3
+MICH,50 M Butterfly,SCM,W,25-29,40.51,Julia E Lane,,2026 Speedo Canadian Masters Swimming Championships,2026,4
+MICH,100 M Butterfly,SCM,W,25-29,1:14.18,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,25-29,1:19.77,Emily C Gunderson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,25-29,1:24.69,Hannah Wiley,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,W,25-29,1:24.97,Katherine Itchue,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Individual Medley,SCM,W,25-29,1:30.88,Claire E Stanley,,Milford Meltdown Masters Meet,2026,4
+MICH,50 M Freestyle,SCM,W,30-34,29.27,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,30-34,1:04.10,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,30-34,1:14.37,Taylor Oberson,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Freestyle,SCM,W,30-34,2:23.49,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,30-34,6:03.45,Emily L Murphy,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,1500 M Freestyle,SCM,W,30-34,24:09.37,Emily L Murphy,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,W,30-34,35.85,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,30-34,39.46,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,30-34,47.48,Taylor Oberson,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Breaststroke,SCM,W,30-34,1:40.37,Emily L Murphy,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,30-34,32.70,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,30-34,1:15.20,Haley M Kornburger,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,W,35-39,28.09,Ali M Blondell,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,W,35-39,32.77,Rachel A Griffioen,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Freestyle,SCM,W,35-39,36.75,Rachel Garfinkel,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,50 M Freestyle,SCM,W,35-39,37.12,Samantha Bishop,,Milford Meltdown Masters Meet,2026,4
+MICH,50 M Freestyle,SCM,W,35-39,41.40,Lauren A Chapman,,2026 Speedo Canadian Masters Swimming Championships,2026,5
+MICH,100 M Freestyle,SCM,W,35-39,1:01.99,Ali M Blondell,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,35-39,1:12.08,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Freestyle,SCM,W,35-39,1:22.69,Rachel Garfinkel,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Freestyle,SCM,W,35-39,2:20.93,Ali M Blondell,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Freestyle,SCM,W,35-39,2:35.48,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,400 M Freestyle,SCM,W,35-39,5:15.32,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,35-39,5:46.35,Samantha Bishop,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,400 M Freestyle,SCM,W,35-39,6:32.89,Sara A Jordan,,Milford Meltdown Masters Meet,2026,3
+MICH,800 M Freestyle,SCM,W,35-39,10:08.34,Ali M Blondell,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,W,35-39,10:40.57,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,800 M Freestyle,SCM,W,35-39,11:59.63,Samantha Bishop,,Milford Meltdown Masters Meet,2026,3
+MICH,1500 M Freestyle,SCM,W,35-39,20:39.98,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,W,35-39,1:34.01,Samantha Bishop,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Backstroke,SCM,W,35-39,1:35.14,Rachel Garfinkel,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Backstroke,SCM,W,35-39,2:51.37,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,W,35-39,3:14.92,Samantha Bishop,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Breaststroke,SCM,W,35-39,39.72,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,35-39,47.88,Rachel Garfinkel,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Breaststroke,SCM,W,35-39,49.43,Samantha Bishop,,Milford Meltdown Masters Meet,2026,3
+MICH,50 M Breaststroke,SCM,W,35-39,1:00.13,Lauren A Chapman,,2026 Speedo Canadian Masters Swimming Championships,2026,4
+MICH,100 M Breaststroke,SCM,W,35-39,1:24.49,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Breaststroke,SCM,W,35-39,1:25.15,Ali M Blondell,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Breaststroke,SCM,W,35-39,1:39.23,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Breaststroke,SCM,W,35-39,3:02.84,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Breaststroke,SCM,W,35-39,3:23.82,Sarah A Lipton,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Butterfly,SCM,W,35-39,29.78,Ali M Blondell,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,35-39,33.05,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Butterfly,SCM,W,35-39,42.73,Sarah A Lipton,,Milford Meltdown Masters Meet,2026,3
+MICH,50 M Butterfly,SCM,W,35-39,43.31,Rachel Garfinkel,,2026 Speedo Canadian Masters Swimming Championships,2026,4
+MICH,100 M Butterfly,SCM,W,35-39,1:06.94,Ali M Blondell,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,35-39,1:10.52,Ali M Blondell,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,35-39,1:15.39,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,W,35-39,1:32.59,Samantha Bishop,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Individual Medley,SCM,W,35-39,1:35.13,Rachel Garfinkel,,2026 Speedo Canadian Masters Swimming Championships,2026,4
+MICH,200 M Individual Medley,SCM,W,35-39,2:39.30,Ali M Blondell,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Individual Medley,SCM,W,35-39,2:55.72,Rachel A Griffioen,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Individual Medley,SCM,W,35-39,3:09.99,Sarah A Lipton,,Milford Meltdown Masters Meet,2026,3
+MICH,400 M Individual Medley,SCM,W,35-39,6:03.32,Rachel A Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,W,40-44,28.40,Lindsay Wojewuczki,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,W,40-44,2:28.88,Lindsey K McFarlane,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Freestyle,SCM,W,40-44,3:53.60,Hong Weng,,Milford Meltdown Masters Meet,2026,2
+MICH,400 M Freestyle,SCM,W,40-44,8:04.33,Hong Weng,,Milford Meltdown Masters Meet,2026,1
+MICH,800 M Freestyle,SCM,W,40-44,10:42.36,Lindsey K McFarlane,,Milford Meltdown Masters Meet,2026,1
+MICH,800 M Freestyle,SCM,W,40-44,16:40.02,Hong Weng,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,W,40-44,1:17.96,Lindsey K McFarlane,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,W,40-44,41.71,Kimberly A Dondzila,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Breaststroke,SCM,W,40-44,1:30.78,Kimberly A Dondzila,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Breaststroke,SCM,W,40-44,4:55.63,Hong Weng,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,W,40-44,1:18.42,Lindsey K McFarlane,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Individual Medley,SCM,W,40-44,4:40.96,Hong Weng,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,W,45-49,49.28,Kerry L Monroe,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,W,45-49,1:01.96,Sandra Eyl,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,W,45-49,2:13.27,Sandra Eyl,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Backstroke,SCM,W,45-49,1:10.86,Sandra Eyl,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,W,45-49,1:02.48,Kerry L Monroe,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,45-49,1:09.69,Sandra Eyl,,Milford Meltdown Masters Meet,2026,2
+MICH,800 M Freestyle,SCM,W,50-54,17:59.93,Angela Griffiths,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,W,55-59,52.44,Ro Coppola,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,55-59,1:36.19,Ann E Kehn,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,55-59,1:54.59,Ro Coppola,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Freestyle,SCM,W,55-59,4:02.80,Ro Coppola,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,55-59,8:38.53,Ro Coppola,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,W,55-59,11:59.30,Lou Ann Dixon,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,W,55-59,42.97,Lou Ann Dixon,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,W,55-59,45.14,Kate Burns-Jager,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Breaststroke,SCM,W,55-59,1:35.01,Lou Ann Dixon,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Breaststroke,SCM,W,55-59,1:41.76,Kate Burns-Jager,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Breaststroke,SCM,W,55-59,3:32.00,Lou Ann Dixon,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Butterfly,SCM,W,55-59,42.75,Kate Burns-Jager,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Butterfly,SCM,W,55-59,59.63,Ann E Kehn,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,W,55-59,1:29.43,Lou Ann Dixon,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,W,55-59,1:37.50,Kate Burns-Jager,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Individual Medley,SCM,W,55-59,1:53.36,Ann E Kehn,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,50 M Freestyle,SCM,W,60-64,35.76,Carol Taylor,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,W,60-64,38.04,Karen M Spaun,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Freestyle,SCM,W,60-64,45.45,Laurie A Worthington,,Milford Meltdown Masters Meet,2026,3
+MICH,50 M Freestyle,SCM,W,60-64,47.03,Susan Ott,,Milford Meltdown Masters Meet,2026,4
+MICH,100 M Freestyle,SCM,W,60-64,1:13.87,Sallie A Bartkowiak,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Freestyle,SCM,W,60-64,1:20.53,Karen M Spaun,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,W,60-64,1:43.65,Susan Ott,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Freestyle,SCM,W,60-64,2:03.47,Mary Lou Miller,,Milford Meltdown Masters Meet,2026,4
+MICH,100 M Freestyle,SCM,W,60-64,2:15.14,Lisa M Rourke,,Milford Meltdown Masters Meet,2026,5
+MICH,200 M Freestyle,SCM,W,60-64,2:39.36,Sallie A Bartkowiak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,W,60-64,3:17.72,Carol Taylor,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Freestyle,SCM,W,60-64,3:38.44,Susan Ott,,Milford Meltdown Masters Meet,2026,3
+MICH,200 M Freestyle,SCM,W,60-64,3:47.89,Laurie A Worthington,,Milford Meltdown Masters Meet,2026,4
+MICH,400 M Freestyle,SCM,W,60-64,5:43.69,Sallie A Bartkowiak,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Freestyle,SCM,W,60-64,7:32.82,Susan Ott,,Milford Meltdown Masters Meet,2026,2
+MICH,400 M Freestyle,SCM,W,60-64,9:34.19,Lisa M Rourke,,Milford Meltdown Masters Meet,2026,3
+MICH,800 M Freestyle,SCM,W,60-64,11:42.31,Sallie A Bartkowiak,,Arkansas Masters SCM Invitational,2026,1
+MICH,800 M Freestyle,SCM,W,60-64,15:07.95,Susan Ott,,Milford Meltdown Masters Meet,2026,2
+MICH,800 M Freestyle,SCM,W,60-64,18:47.52,Mary Lou Miller,,Milford Meltdown Masters Meet,2026,3
+MICH,800 M Freestyle,SCM,W,60-64,18:52.62,Lisa M Rourke,,Milford Meltdown Masters Meet,2026,4
+MICH,1500 M Freestyle,SCM,W,60-64,22:24.77,Sallie A Bartkowiak,,Arkansas Masters SCM Invitational,2026,1
+MICH,200 M Backstroke,SCM,W,60-64,3:07.03,Sallie A Bartkowiak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,60-64,38.78,Corrin Buck,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,60-64,53.68,Renee C Orr,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Breaststroke,SCM,W,60-64,1:25.17,Corrin Buck,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Breaststroke,SCM,W,60-64,1:59.73,Carol Taylor,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Breaststroke,SCM,W,60-64,2:06.34,Laurie A Worthington,,Milford Meltdown Masters Meet,2026,3
+MICH,200 M Breaststroke,SCM,W,60-64,3:09.38,Corrin Buck,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,60-64,46.08,Renee C Orr,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,60-64,51.30,Laurie A Worthington,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Individual Medley,SCM,W,60-64,1:44.65,Carol Taylor,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,W,60-64,1:56.77,Laurie A Worthington,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Individual Medley,SCM,W,60-64,3:25.31,Karen M Spaun,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Individual Medley,SCM,W,60-64,3:56.41,Carol Taylor,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Freestyle,SCM,W,65-69,34.09,Wendy Szymczak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,65-69,1:17.98,Wendy Szymczak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,W,65-69,3:17.37,Jacqueline Thorpe,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,65-69,6:01.38,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,W,65-69,12:30.96,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,W,65-69,13:37.29,Wendy Szymczak,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,1500 M Freestyle,SCM,W,65-69,23:25.82,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,W,65-69,1:30.91,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,W,65-69,3:10.87,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,65-69,46.39,Wendy Szymczak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,65-69,52.83,Jacqueline Thorpe,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Butterfly,SCM,W,65-69,40.35,Wendy Szymczak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,W,65-69,1:44.82,Jacqueline Thorpe,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Butterfly,SCM,W,65-69,3:54.17,Jacqueline Thorpe,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,65-69,1:34.04,Wendy Szymczak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,W,65-69,3:21.35,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,W,65-69,3:54.55,Jacqueline Thorpe,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,400 M Individual Medley,SCM,W,65-69,7:13.92,Denise H Brown,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Individual Medley,SCM,W,65-69,7:58.48,Jacqueline Thorpe,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Freestyle,SCM,W,70-74,55.00,Carol A Mallard,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,W,70-74,57.11,Carol L Schemanske,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Freestyle,SCM,W,70-74,1:26.58,Sheryl B Walsh,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Freestyle,SCM,W,70-74,1:46.95,Laurie Canfield,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,W,70-74,2:10.70,Carol L Schemanske,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,W,70-74,3:01.07,Sheryl B Walsh,,Milford Meltdown Masters Meet,2026,3
+MICH,200 M Freestyle,SCM,W,70-74,6:06.59,Sheryl B Walsh,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Freestyle,SCM,W,70-74,6:19.38,Patricia J Mankin,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Freestyle,SCM,W,70-74,7:54.67,Laurie Canfield,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,400 M Freestyle,SCM,W,70-74,8:06.65,Sue Hadden,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,400 M Freestyle,SCM,W,70-74,12:01.39,Sheryl B Walsh,,Milford Meltdown Masters Meet,2026,4
+MICH,800 M Freestyle,SCM,W,70-74,12:52.40,Patricia J Mankin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,W,70-74,15:20.92,Joannie Eastridge,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,800 M Freestyle,SCM,W,70-74,23:52.40,Sheryl B Walsh,,Milford Meltdown Masters Meet,2026,3
+MICH,1500 M Freestyle,SCM,W,70-74,24:22.70,Patricia J Mankin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,1500 M Freestyle,SCM,W,70-74,31:14.33,Sue Hadden,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Backstroke,SCM,W,70-74,42.84,Barbara Church,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,W,70-74,57.96,Sue Hadden,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Backstroke,SCM,W,70-74,1:10.50,Carol L Schemanske,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Backstroke,SCM,W,70-74,1:30.78,Barbara Church,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,W,70-74,1:43.19,Patricia J Mankin,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Backstroke,SCM,W,70-74,2:39.36,Carol L Schemanske,,Milford Meltdown Masters Meet,2026,3
+MICH,200 M Backstroke,SCM,W,70-74,4:42.48,Laurie Canfield,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,W,70-74,4:45.37,Sue Hadden,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Breaststroke,SCM,W,70-74,1:00.48,Joannie Eastridge,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,70-74,1:04.26,Carol A Mallard,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Breaststroke,SCM,W,70-74,2:14.00,Sue Hadden,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Breaststroke,SCM,W,70-74,2:33.43,Carol A Mallard,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Breaststroke,SCM,W,70-74,4:03.85,Patricia J Mankin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,W,70-74,1:47.50,Patricia J Mankin,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Butterfly,SCM,W,70-74,2:08.48,Joannie Eastridge,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Butterfly,SCM,W,70-74,3:51.45,Patricia J Mankin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Butterfly,SCM,W,70-74,4:34.40,Joannie Eastridge,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,W,70-74,1:39.83,Patricia J Mankin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,W,70-74,2:05.15,Sue Hadden,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,W,70-74,2:24.57,Laurie Canfield,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Individual Medley,SCM,W,70-74,3:35.38,Patricia J Mankin,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Individual Medley,SCM,W,70-74,7:30.93,Patricia J Mankin,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Individual Medley,SCM,W,70-74,8:33.03,Joannie Eastridge,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Freestyle,SCM,W,75-79,58.87,Laura B Nathan,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,W,75-79,4:22.81,Laura B Nathan,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,W,75-79,4:42.95,Donna M McMinn,,2026 Huntsman World Senior Games,2026,2
+MICH,400 M Freestyle,SCM,W,75-79,9:19.61,Laura B Nathan,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,W,75-79,9:55.39,Donna M McMinn,,2026 Huntsman World Senior Games,2026,2
+MICH,800 M Freestyle,SCM,W,75-79,0.00,Donna M McMinn,,2026 Huntsman World Senior Games,2026,1
+MICH,1500 M Freestyle,SCM,W,75-79,35:23.36,Laura B Nathan,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,1500 M Freestyle,SCM,W,75-79,39:16.02,Donna M McMinn,,2026 Huntsman World Senior Games,2026,2
+MICH,100 M Backstroke,SCM,W,75-79,2:45.36,Laura B Nathan,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,W,75-79,5:39.20,Laura B Nathan,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,W,75-79,59.45,Monica Andrei,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Breaststroke,SCM,W,75-79,4:41.98,Monica Andrei,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,W,75-79,1:01.32,Monica Andrei,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,W,75-79,4:13.49,Monica Andrei,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,18-24,25.34,jonas freeman,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Backstroke,SCM,M,18-24,32.04,jonas freeman,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,18-24,35.68,jonas freeman,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Butterfly,SCM,M,18-24,27.18,jonas freeman,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,M,25-29,24.69,Dalton J Pokley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,25-29,27.18,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Freestyle,SCM,M,25-29,36.85,Tin Nguyen,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,100 M Freestyle,SCM,M,25-29,55.13,Dalton J Pokley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,M,25-29,1:03.08,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Freestyle,SCM,M,25-29,1:26.33,Tin Nguyen,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Freestyle,SCM,M,25-29,2:21.27,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,M,25-29,3:05.11,Tin Nguyen,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,400 M Freestyle,SCM,M,25-29,5:07.58,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,M,25-29,7:11.49,Tin Nguyen,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,800 M Freestyle,SCM,M,25-29,10:46.24,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,25-29,28.89,Dalton J Pokley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,M,25-29,33.19,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,M,25-29,33.84,Dalton J Pokley,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Butterfly,SCM,M,25-29,26.37,Dalton J Pokley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,25-29,30.26,Nicholas B Martin,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Butterfly,SCM,M,25-29,59.87,Dalton J Pokley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,25-29,1:02.63,Dalton J Pokley,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,M,30-34,4:34.73,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,M,30-34,9:30.76,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,1500 M Freestyle,SCM,M,30-34,18:08.65,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,M,30-34,2:11.92,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,M,30-34,57.98,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Butterfly,SCM,M,30-34,2:14.05,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,30-34,1:00.18,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,M,30-34,2:12.59,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Individual Medley,SCM,M,30-34,4:49.05,AARON W HELANDER,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,35-39,27.72,Joseph M Milkovich,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Freestyle,SCM,M,35-39,1:01.13,Joseph M Milkovich,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Freestyle,SCM,M,35-39,1:04.50,Kevin M Cislo,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Freestyle,SCM,M,35-39,2:20.24,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,M,35-39,1:08.67,Kevin M Cislo,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Backstroke,SCM,M,35-39,1:09.54,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Breaststroke,SCM,M,35-39,34.70,Joseph M Milkovich,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,35-39,37.09,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Breaststroke,SCM,M,35-39,1:06.62,Fares Ksebati,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Breaststroke,SCM,M,35-39,1:16.64,Joseph M Milkovich,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Breaststroke,SCM,M,35-39,2:55.79,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,35-39,29.90,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,M,35-39,1:06.10,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,35-39,1:09.88,Luke Griffioen,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,40-44,26.09,Paul Edick,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,40-44,35.12,Andrew McFee,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,M,40-44,57.96,Paul Edick,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,800 M Freestyle,SCM,M,40-44,11:34.59,Andrew McFee,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Backstroke,SCM,M,40-44,30.64,Andrew McFee,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Backstroke,SCM,M,40-44,32.01,Paul Edick,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,M,40-44,1:07.02,Andrew McFee,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,40-44,34.54,Paul Edick,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,40-44,29.15,Paul Edick,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,M,40-44,1:08.94,Andrew McFee,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,M,40-44,1:06.82,Paul Edick,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,45-49,23.94,Kevin Doak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,45-49,26.82,Lucas B Womack,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Backstroke,SCM,M,45-49,25.92,Kevin Doak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,45-49,30.66,Lucas B Womack,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,M,45-49,56.37,Kevin Doak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,M,45-49,2:50.62,Jared Cavis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Breaststroke,SCM,M,45-49,1:23.55,Jared Cavis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Breaststroke,SCM,M,45-49,3:10.18,Jared Cavis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,45-49,25.11,Kevin Doak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,45-49,28.66,Lucas B Womack,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Butterfly,SCM,M,45-49,55.91,Kevin Doak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,45-49,58.84,Kevin Doak,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,45-49,1:08.98,Lucas B Womack,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Individual Medley,SCM,M,45-49,1:17.92,Jared Cavis,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Individual Medley,SCM,M,45-49,2:48.92,Jared Cavis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Individual Medley,SCM,M,45-49,6:26.34,Jared Cavis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,M,50-54,2:06.82,Ryan Papa,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Freestyle,SCM,M,50-54,4:39.77,Ryan Papa,,Milford Meltdown Masters Meet,2026,1
+MICH,800 M Freestyle,SCM,M,50-54,9:22.70,Ryan Papa,,Milford Meltdown Masters Meet,2026,1
+MICH,800 M Freestyle,SCM,M,50-54,9:51.56,Luca Benetti,,Milford Meltdown Masters Meet,2026,2
+MICH,800 M Freestyle,SCM,M,50-54,10:28.89,Matthew R West,,Milford Meltdown Masters Meet,2026,3
+MICH,1500 M Freestyle,SCM,M,50-54,18:55.05,Luca Benetti,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,50-54,30.32,Charles E Roddis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,M,50-54,1:05.91,Charles E Roddis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,M,50-54,1:11.65,Ido Meron,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Backstroke,SCM,M,50-54,2:35.26,Ido Meron,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,50-54,33.17,Charles E Roddis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,M,50-54,37.43,Ido Meron,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Breaststroke,SCM,M,50-54,1:12.87,Charles E Roddis,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,50-54,28.45,Jayson B Field,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,M,50-54,1:05.42,Jayson B Field,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,M,50-54,1:08.85,Luca Benetti,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Butterfly,SCM,M,50-54,2:37.11,Luca Benetti,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,50-54,1:09.55,Jayson B Field,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,M,50-54,2:22.83,Ryan Papa,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Individual Medley,SCM,M,50-54,2:40.97,Ido Meron,,Milford Meltdown Masters Meet,2026,2
+MICH,400 M Individual Medley,SCM,M,50-54,5:10.46,Ryan Papa,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,M,55-59,27.52,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,55-59,30.10,Jeffrey Musson,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,M,55-59,59.86,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,M,55-59,1:06.83,Jeffrey Musson,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,M,55-59,1:07.33,James A Nitkiewicz,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Freestyle,SCM,M,55-59,2:17.27,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,M,55-59,2:28.44,James A Nitkiewicz,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,400 M Freestyle,SCM,M,55-59,5:00.73,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,M,55-59,5:37.33,James A Nitkiewicz,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,M,55-59,1:25.53,James A Nitkiewicz,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,55-59,34.56,Chad L Steed,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,M,55-59,39.55,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Breaststroke,SCM,M,55-59,44.20,James A Nitkiewicz,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Breaststroke,SCM,M,55-59,1:56.00,John Flynn,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Breaststroke,SCM,M,55-59,3:00.63,Mathew S Wuchte,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Breaststroke,SCM,M,55-59,4:27.52,John Flynn,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Butterfly,SCM,M,55-59,28.98,Chad L Steed,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,55-59,30.49,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Butterfly,SCM,M,55-59,34.13,Jeffrey Musson,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Butterfly,SCM,M,55-59,1:05.50,Chad L Steed,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Butterfly,SCM,M,55-59,1:12.35,Jeff Bailey,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Butterfly,SCM,M,55-59,2:29.79,Chad L Steed,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Butterfly,SCM,M,55-59,2:47.30,Mathew S Wuchte,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,M,55-59,1:17.26,Mathew S Wuchte,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,M,55-59,1:24.02,James A Nitkiewicz,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Individual Medley,SCM,M,55-59,2:39.09,Mathew S Wuchte,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Individual Medley,SCM,M,55-59,5:44.15,Mathew S Wuchte,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,60-64,33.30,Allen Magolan,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,M,60-64,41.86,Steven Heaney,,2026 Huntsman World Senior Games,2026,2
+MICH,100 M Freestyle,SCM,M,60-64,1:19.10,Allen Magolan,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Freestyle,SCM,M,60-64,1:27.07,Steven Heaney,,2026 Huntsman World Senior Games,2026,2
+MICH,200 M Freestyle,SCM,M,60-64,2:47.27,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,400 M Freestyle,SCM,M,60-64,6:04.18,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,800 M Freestyle,SCM,M,60-64,12:54.60,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,1500 M Freestyle,SCM,M,60-64,0.00,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,50 M Backstroke,SCM,M,60-64,36.32,John M Cassidy,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Backstroke,SCM,M,60-64,1:18.58,Todd Raeker,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Backstroke,SCM,M,60-64,1:20.22,John M Cassidy,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Backstroke,SCM,M,60-64,2:51.37,Todd Raeker,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Backstroke,SCM,M,60-64,2:53.76,John M Cassidy,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Backstroke,SCM,M,60-64,3:26.00,Steven Heaney,,2026 Huntsman World Senior Games,2026,3
+MICH,200 M Breaststroke,SCM,M,60-64,3:44.58,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,50 M Butterfly,SCM,M,60-64,40.35,Allen Magolan,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Butterfly,SCM,M,60-64,3:28.92,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,100 M Individual Medley,SCM,M,60-64,1:17.72,John M Cassidy,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,M,60-64,1:18.41,Todd Raeker,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Individual Medley,SCM,M,60-64,1:34.32,Allen Magolan,,Milford Meltdown Masters Meet,2026,3
+MICH,200 M Individual Medley,SCM,M,60-64,3:21.14,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,400 M Individual Medley,SCM,M,60-64,7:13.25,Steven Heaney,,2026 Huntsman World Senior Games,2026,1
+MICH,50 M Freestyle,SCM,M,65-69,33.44,Robert L Fort,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,65-69,39.15,Melvin L Chapman,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Freestyle,SCM,M,65-69,44.99,Charles A Clement,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,100 M Freestyle,SCM,M,65-69,1:27.02,Robert L Fort,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,M,65-69,1:39.76,Charles A Clement,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Freestyle,SCM,M,65-69,3:04.33,Steve Wright,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,M,65-69,3:07.30,Jim Izzi,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Freestyle,SCM,M,65-69,3:22.15,Timothy M Funk,,Milford Meltdown Masters Meet,2026,3
+MICH,400 M Freestyle,SCM,M,65-69,6:49.07,Steve Wright,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,65-69,40.19,Daniel C Hood,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,M,65-69,3:24.93,Timothy M Funk,,Milford Meltdown Masters Meet,2026,1
+MICH,200 M Backstroke,SCM,M,65-69,3:32.26,Jim Izzi,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Backstroke,SCM,M,65-69,3:38.59,Steve Wright,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,50 M Breaststroke,SCM,M,65-69,40.07,Daniel C Hood,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Breaststroke,SCM,M,65-69,55.32,Charles A Clement,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Breaststroke,SCM,M,65-69,1:24.06,Timothy J Jenkins,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Breaststroke,SCM,M,65-69,1:31.72,Daniel C Hood,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Breaststroke,SCM,M,65-69,2:03.42,Charles A Clement,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,200 M Breaststroke,SCM,M,65-69,3:28.45,Daniel C Hood,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,65-69,38.63,Robert L Fort,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Butterfly,SCM,M,65-69,53.12,Timothy M Funk,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Butterfly,SCM,M,65-69,1:46.72,Jim Izzi,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Butterfly,SCM,M,65-69,1:56.99,Robert L Fort,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Butterfly,SCM,M,65-69,4:18.95,Steve Wright,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,65-69,1:20.78,Daniel C Hood,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,M,65-69,1:35.21,JAMES L McNutt,,Rowdy Gaines Masters Classic 17,2026,2
+MICH,100 M Individual Medley,SCM,M,65-69,1:37.62,Robert L Fort,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,100 M Individual Medley,SCM,M,65-69,1:45.58,Timothy M Funk,,Milford Meltdown Masters Meet,2026,4
+MICH,200 M Individual Medley,SCM,M,65-69,2:43.25,Timothy J Jenkins,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Individual Medley,SCM,M,65-69,3:52.93,Steve Wright,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,200 M Individual Medley,SCM,M,65-69,4:00.50,Timothy M Funk,,Milford Meltdown Masters Meet,2026,3
+MICH,400 M Individual Medley,SCM,M,65-69,10:06.63,Charles A Clement,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,70-74,32.33,Richard H McCarthy,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Freestyle,SCM,M,70-74,34.90,Chris P Dondzila,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Freestyle,SCM,M,70-74,35.80,David P Mange,,2026 Speedo Canadian Masters Swimming Championships,2026,3
+MICH,100 M Freestyle,SCM,M,70-74,1:23.57,David P Mange,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,400 M Freestyle,SCM,M,70-74,7:25.32,Mike Pryce,,Milford Meltdown Masters Meet,2026,1
+MICH,800 M Freestyle,SCM,M,70-74,18:48.80,Paul C Wright,,Milford Meltdown Masters Meet,2026,1
+MICH,1500 M Freestyle,SCM,M,70-74,37:25.26,Paul C Wright,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,70-74,41.49,David P Mange,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,70-74,44.54,Chris P Dondzila,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Backstroke,SCM,M,70-74,45.48,Mike Pryce,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Backstroke,SCM,M,70-74,1:34.48,David P Mange,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Backstroke,SCM,M,70-74,1:49.77,Mike Pryce,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,M,70-74,2:32.45,Paul C Wright,,Milford Meltdown Masters Meet,2026,3
+MICH,200 M Backstroke,SCM,M,70-74,3:27.43,David P Mange,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Backstroke,SCM,M,70-74,5:06.34,Paul C Wright,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Breaststroke,SCM,M,70-74,38.11,Randy J Parker,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,70-74,47.06,Chris P Dondzila,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,50 M Breaststroke,SCM,M,70-74,1:09.93,Paul C Wright,,Milford Meltdown Masters Meet,2026,3
+MICH,100 M Breaststroke,SCM,M,70-74,1:26.63,Randy J Parker,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Butterfly,SCM,M,70-74,37.50,Richard H McCarthy,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,M,70-74,1:33.26,Richard H McCarthy,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Individual Medley,SCM,M,70-74,1:47.38,David P Mange,,2026 Speedo Canadian Masters Swimming Championships,2026,2
+MICH,100 M Individual Medley,SCM,M,70-74,3:03.81,Paul C Wright,,Milford Meltdown Masters Meet,2026,3
+MICH,50 M Freestyle,SCM,M,75-79,30.20,Chuck A Olson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Freestyle,SCM,M,75-79,40.10,David P Grunewald,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Freestyle,SCM,M,75-79,1:05.62,Chuck A Olson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Freestyle,SCM,M,75-79,1:33.72,James D Holloway,,Milford Meltdown Masters Meet,2026,2
+MICH,200 M Freestyle,SCM,M,75-79,2:29.25,Chuck A Olson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,200 M Freestyle,SCM,M,75-79,3:31.06,James D Holloway,,Milford Meltdown Masters Meet,2026,2
+MICH,400 M Freestyle,SCM,M,75-79,5:42.22,Chuck A Olson,,Milford Meltdown Masters Meet,2026,1
+MICH,400 M Freestyle,SCM,M,75-79,7:23.15,James D Holloway,,Milford Meltdown Masters Meet,2026,2
+MICH,50 M Backstroke,SCM,M,75-79,37.66,Chuck A Olson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,50 M Backstroke,SCM,M,75-79,49.61,David P Grunewald,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,M,75-79,1:25.41,Chuck A Olson,,Milford Meltdown Masters Meet,2026,1
+MICH,100 M Backstroke,SCM,M,75-79,1:56.42,David P Grunewald,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Backstroke,SCM,M,75-79,2:10.88,James D Holloway,,Milford Meltdown Masters Meet,2026,3
+MICH,50 M Breaststroke,SCM,M,75-79,58.94,David P Grunewald,,Milford Meltdown Masters Meet,2026,1
+MICH,50 M Breaststroke,SCM,M,75-79,1:02.60,James D Holloway,,Milford Meltdown Masters Meet,2026,2
+MICH,100 M Individual Medley,SCM,M,75-79,1:22.68,Chuck A Olson,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MICH,100 M Individual Medley,SCM,M,75-79,2:01.11,David P Grunewald,,Milford Meltdown Masters Meet,2026,2
+MINQX,50 M Breaststroke,SCM,M,40-44,32.72,Andy Fillmore,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MINQX,100 M Breaststroke,SCM,M,40-44,1:11.28,Andy Fillmore,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MINQX,200 M Breaststroke,SCM,M,40-44,2:36.54,Andy Fillmore,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MINQX,100 M Individual Medley,SCM,M,40-44,1:06.20,Andy Fillmore,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
+MINQX,200 M Individual Medley,SCM,M,40-44,2:25.30,Andy Fillmore,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+MINQX,400 M Individual Medley,SCM,M,40-44,5:12.96,Andy Fillmore,,2026 Speedo Canadian Masters Swimming Championships,2026,1
+UC19,50 M Freestyle,SCM,W,30-34,29.99,Kelsey Slayton,,Milford Meltdown Masters Meet,2026,1
+UC19,50 M Butterfly,SCM,W,30-34,30.51,Kelsey Slayton,,Milford Meltdown Masters Meet,2026,1
+UC19,50 M Breaststroke,SCM,M,25-29,36.16,Zakary M Wilkins,,Milford Meltdown Masters Meet,2026,1
+UC19,100 M Breaststroke,SCM,M,25-29,1:23.10,Zakary M Wilkins,,Milford Meltdown Masters Meet,2026,1
+UC19,100 M Individual Medley,SCM,M,25-29,1:15.86,Zakary M Wilkins,,Milford Meltdown Masters Meet,2026,1
+UC19,50 M Breaststroke,SCM,M,70-74,51.63,John W Blok,,Rowdy Gaines Masters Classic 17,2026,1
+UC19,100 M Breaststroke,SCM,M,70-74,1:54.55,John W Blok,,Rowdy Gaines Masters Classic 17,2026,1

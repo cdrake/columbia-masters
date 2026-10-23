@@ -1,0 +1,494 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+MINN,50 M Freestyle,LCM,W,18-24,35.75,Brianna M Thornton,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,W,18-24,1:04.72,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,18-24,2:12.47,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,W,18-24,4:40.96,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,18-24,9:29.62,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,W,18-24,18:25.14,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,18-24,30.77,Adelyn M Diaz,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,18-24,32.31,Abbey Erwin,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,W,18-24,1:06.54,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,200 M Backstroke,LCM,W,18-24,2:22.30,Abbey Erwin,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,18-24,46.85,Brianna M Thornton,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,18-24,29.70,Adelyn M Diaz,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,18-24,37.25,Allison C Peck,,Swim into Summer Masters Meet 2022,2022,2
+MINN,50 M Butterfly,LCM,W,18-24,41.02,Brianna M Thornton,,Gopher Masters Mania,2022,3
+MINN,100 M Butterfly,LCM,W,18-24,1:24.55,Allison C Peck,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Individual Medley,LCM,W,18-24,3:05.95,Allison C Peck,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Freestyle,LCM,W,25-29,30.87,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,25-29,31.23,Madeline Blumenfeld,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,W,25-29,1:06.42,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,25-29,2:20.88,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,25-29,2:29.60,Madeline Blumenfeld,,Gopher Masters Mania,2022,2
+MINN,400 M Freestyle,LCM,W,25-29,4:50.03,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,25-29,9:53.84,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,25-29,11:27.40,Carolyn A Fittipaldi,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,W,25-29,35.66,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,100 M Backstroke,LCM,W,25-29,1:17.48,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,25-29,40.60,Madeline Blumenfeld,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,25-29,40.83,Linnea M Rizzo,,Gopher Masters Mania,2022,2
+MINN,50 M Butterfly,LCM,W,25-29,33.29,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,25-29,36.74,Carolyn A Fittipaldi,,Swim into Summer Masters Meet 2022,2022,2
+MINN,200 M Individual Medley,LCM,W,25-29,2:38.67,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,200 M Individual Medley,LCM,W,25-29,2:50.62,Madeline Blumenfeld,,Gopher Masters Mania,2022,2
+MINN,200 M Individual Medley,LCM,W,25-29,2:56.26,Carolyn A Fittipaldi,,Swim into Summer Masters Meet 2022,2022,3
+MINN,400 M Individual Medley,LCM,W,25-29,5:39.84,Linnea M Rizzo,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,30-34,32.17,Katherine Kaiser,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Freestyle,LCM,W,30-34,32.85,Carly Krump,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,W,30-34,33.66,Katherine Maguire,,Gopher Masters Mania,2022,3
+MINN,50 M Freestyle,LCM,W,30-34,38.02,Julie M Thurmes,,Gopher Masters Mania,2022,4
+MINN,100 M Freestyle,LCM,W,30-34,1:14.66,Carly Krump,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,W,30-34,1:16.50,Katherine Maguire,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,W,30-34,1:25.02,Julie M Thurmes,,Gopher Masters Mania,2022,3
+MINN,200 M Freestyle,LCM,W,30-34,3:06.16,Julie M Thurmes,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,30-34,37.09,Katherine Kaiser,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,30-34,38.11,Carly Krump,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,W,30-34,1:21.20,Katherine Kaiser,,Gopher Masters Mania,2022,1
+MINN,100 M Backstroke,LCM,W,30-34,1:30.42,Katherine Maguire,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,W,30-34,1:30.75,Carly Krump,,Gopher Masters Mania,2022,3
+MINN,200 M Backstroke,LCM,W,30-34,2:54.13,Katherine Kaiser,,Gopher Masters Mania,2022,1
+MINN,200 M Backstroke,LCM,W,30-34,3:18.97,Carly Krump,,Gopher Masters Mania,2022,2
+MINN,200 M Backstroke,LCM,W,30-34,3:25.58,Katherine Maguire,,Memorial Day Classic,2022,3
+MINN,50 M Breaststroke,LCM,W,30-34,44.05,Carly Krump,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,30-34,50.69,Katherine Maguire,,Gopher Masters Mania,2022,2
+MINN,50 M Breaststroke,LCM,W,30-34,55.84,Julie M Thurmes,,Gopher Masters Mania,2022,3
+MINN,100 M Breaststroke,LCM,W,30-34,1:44.79,Carly Krump,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,30-34,36.73,Katherine Kaiser,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Individual Medley,LCM,W,30-34,2:52.03,Katherine Kaiser,,Gopher Masters Mania,2022,1
+MINN,200 M Individual Medley,LCM,W,30-34,3:15.08,Carly Krump,,Gopher Masters Mania,2022,2
+MINN,400 M Individual Medley,LCM,W,30-34,6:12.03,Katherine Kaiser,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,35-39,33.84,Kate Aitchison,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,W,35-39,1:18.92,Kate Aitchison,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,W,35-39,6:19.04,Kate Aitchison,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,35-39,47.64,Kate Aitchison,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Butterfly,LCM,W,35-39,37.98,Kate Aitchison,,Gopher Masters Mania,2022,1
+MINN,200 M Individual Medley,LCM,W,35-39,3:28.77,Kate Aitchison,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Freestyle,LCM,W,40-44,30.91,Elizabeth Nymeyer,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,40-44,36.86,Andrea K Williams,,Swim into Summer Masters Meet 2022,2022,2
+MINN,100 M Freestyle,LCM,W,40-44,1:13.93,Stacey Thureen,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,W,40-44,1:16.24,Elizabeth Nymeyer,,Swim into Summer Masters Meet 2022,2022,2
+MINN,100 M Freestyle,LCM,W,40-44,1:17.44,Andrea K Williams,,Memorial Day Classic,2022,3
+MINN,800 M Freestyle,LCM,W,40-44,12:49.02,Elizabeth Nymeyer,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Backstroke,LCM,W,40-44,44.87,Elizabeth Nymeyer,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Backstroke,LCM,W,40-44,1:27.28,Andrea K Williams,,Memorial Day Classic,2022,1
+MINN,200 M Backstroke,LCM,W,40-44,3:12.66,Elizabeth Nymeyer,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,40-44,42.84,Andrea K Williams,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Breaststroke,LCM,W,40-44,1:32.67,Andrea K Williams,,Memorial Day Classic,2022,1
+MINN,50 M Butterfly,LCM,W,40-44,34.74,Stacey Thureen,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,40-44,40.41,Andrea K Williams,,Swim into Summer Masters Meet 2022,2022,2
+MINN,200 M Individual Medley,LCM,W,40-44,2:52.27,Stacey Thureen,,Gopher Masters Mania,2022,1
+MINN,200 M Individual Medley,LCM,W,40-44,3:08.33,Andrea K Williams,,Memorial Day Classic,2022,2
+MINN,400 M Individual Medley,LCM,W,40-44,7:02.75,Andrea K Williams,,Memorial Day Classic,2022,1
+MINN,50 M Freestyle,LCM,W,50-54,30.96,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,50-54,34.00,Michele L Graves,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,W,50-54,37.47,Karyn Maki,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Freestyle,LCM,W,50-54,1:07.58,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,50-54,2:31.14,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,50-54,3:05.49,Michele L Graves,,Gopher Masters Mania,2022,2
+MINN,200 M Freestyle,LCM,W,50-54,3:09.43,Nicki J Phillips,,Swim into Summer Masters Meet 2022,2022,3
+MINN,400 M Freestyle,LCM,W,50-54,5:18.40,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,W,50-54,5:46.55,Nicki J Phillips,,Gopher Masters Mania,2022,2
+MINN,800 M Freestyle,LCM,W,50-54,11:56.19,Nicki J Phillips,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,W,50-54,22:57.70,Nicki J Phillips,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,50-54,35.30,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,50-54,42.87,Michele L Graves,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,W,50-54,51.16,Karyn Maki,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Backstroke,LCM,W,50-54,1:19.49,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,100 M Backstroke,LCM,W,50-54,1:36.98,Michele L Graves,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,W,50-54,1:48.22,Karyn Maki,,Swim into Summer Masters Meet 2022,2022,3
+MINN,50 M Breaststroke,LCM,W,50-54,40.87,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,50-54,51.41,Karyn Maki,,Swim into Summer Masters Meet 2022,2022,2
+MINN,100 M Breaststroke,LCM,W,50-54,1:30.87,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,50-54,33.58,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,50-54,35.94,Michele L Graves,,Gopher Masters Mania,2022,2
+MINN,100 M Butterfly,LCM,W,50-54,1:36.83,Michele L Graves,,Gopher Masters Mania,2022,1
+MINN,200 M Individual Medley,LCM,W,50-54,2:49.93,Jennifer Ridge,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,55-59,34.98,Susan L Mohn,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,55-59,35.07,Maureen Mook,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,W,55-59,37.12,Karen P Slakey,,Gopher Masters Mania,2022,3
+MINN,50 M Freestyle,LCM,W,55-59,41.52,Jacqueline D Strebe,,Gopher Masters Mania,2022,4
+MINN,50 M Freestyle,LCM,W,55-59,44.83,Caroline R Hale-Coldwell,,Gopher Masters Mania,2022,5
+MINN,50 M Freestyle,LCM,W,55-59,46.02,Margo T Brady,,Gopher Masters Mania,2022,6
+MINN,50 M Freestyle,LCM,W,55-59,1:01.43,Allyn M Silver,,Gopher Masters Mania,2022,7
+MINN,100 M Freestyle,LCM,W,55-59,1:19.19,Maureen Mook,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,W,55-59,1:20.82,Susan L Mohn,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,W,55-59,1:32.98,Karen P Slakey,,Gopher Masters Mania,2022,3
+MINN,100 M Freestyle,LCM,W,55-59,1:43.54,Caroline R Hale-Coldwell,,Gopher Masters Mania,2022,4
+MINN,100 M Freestyle,LCM,W,55-59,1:54.59,Margo T Brady,,Gopher Masters Mania,2022,5
+MINN,100 M Freestyle,LCM,W,55-59,2:21.61,Allyn M Silver,,Gopher Masters Mania,2022,6
+MINN,200 M Freestyle,LCM,W,55-59,3:09.91,Maureen Mook,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,55-59,3:20.52,Loralie Langman,,Gopher Masters Mania,2022,2
+MINN,200 M Freestyle,LCM,W,55-59,3:43.97,Caroline R Hale-Coldwell,,Gopher Masters Mania,2022,3
+MINN,400 M Freestyle,LCM,W,55-59,7:04.22,Judith A Bloom,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,55-59,11:52.19,Carrie Stolar,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,55-59,13:40.84,Loralie Langman,,2022 U.S. Masters Swimming Summer National Championship,2022,2
+MINN,800 M Freestyle,LCM,W,55-59,14:14.56,Judith A Bloom,,Gopher Masters Mania,2022,3
+MINN,1500 M Freestyle,LCM,W,55-59,22:14.21,Carrie Stolar,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,W,55-59,27:46.73,Judith A Bloom,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,W,55-59,48.41,Loralie Langman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Backstroke,LCM,W,55-59,55.70,Jacqueline D Strebe,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,W,55-59,1:03.51,Margo T Brady,,Gopher Masters Mania,2022,3
+MINN,50 M Backstroke,LCM,W,55-59,1:10.60,Allyn M Silver,,Gopher Masters Mania,2022,4
+MINN,100 M Backstroke,LCM,W,55-59,1:42.71,Loralie Langman,,Gopher Masters Mania,2022,1
+MINN,100 M Backstroke,LCM,W,55-59,2:25.47,Margo T Brady,,Gopher Masters Mania,2022,2
+MINN,200 M Backstroke,LCM,W,55-59,3:41.05,Loralie Langman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Breaststroke,LCM,W,55-59,51.02,Judith A Bloom,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,55-59,57.40,Jacqueline D Strebe,,Gopher Masters Mania,2022,2
+MINN,50 M Breaststroke,LCM,W,55-59,1:05.58,Margo T Brady,,Gopher Masters Mania,2022,3
+MINN,100 M Breaststroke,LCM,W,55-59,1:44.62,Susan L Mohn,,Gopher Masters Mania,2022,1
+MINN,100 M Breaststroke,LCM,W,55-59,1:54.26,Judith A Bloom,,Gopher Masters Mania,2022,2
+MINN,100 M Breaststroke,LCM,W,55-59,2:06.67,Caroline R Hale-Coldwell,,Gopher Masters Mania,2022,3
+MINN,100 M Breaststroke,LCM,W,55-59,2:13.62,Jacqueline D Strebe,,Gopher Masters Mania,2022,4
+MINN,100 M Breaststroke,LCM,W,55-59,2:28.14,Margo T Brady,,Gopher Masters Mania,2022,5
+MINN,200 M Breaststroke,LCM,W,55-59,4:14.73,Judith A Bloom,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,55-59,38.22,Carrie Stolar,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,55-59,40.22,Maureen Mook,,Gopher Masters Mania,2022,2
+MINN,50 M Butterfly,LCM,W,55-59,44.71,Karen P Slakey,,Gopher Masters Mania,2022,3
+MINN,200 M Individual Medley,LCM,W,55-59,3:31.46,Maureen A Mook,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Individual Medley,LCM,W,55-59,5:25.39,Margo T Brady,,Swim into Summer Masters Meet 2022,2022,2
+MINN,400 M Individual Medley,LCM,W,55-59,7:27.00,Maureen Mook,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,60-64,32.97,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,60-64,41.96,Susan B Schumacher,,Gopher Masters Mania,2022,2
+MINN,200 M Freestyle,LCM,W,60-64,2:52.37,Peggy Kratz,,Swim into Summer Masters Meet 2022,2022,1
+MINN,400 M Freestyle,LCM,W,60-64,5:48.12,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,60-64,12:04.72,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,W,60-64,23:41.57,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,60-64,42.39,Barbara Ballard,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Backstroke,LCM,W,60-64,45.93,Amy A Parratto,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,W,60-64,51.10,Susan B Schumacher,,Gopher Masters Mania,2022,3
+MINN,100 M Backstroke,LCM,W,60-64,1:36.47,Barbara Ballard,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Breaststroke,LCM,W,60-64,1:01.17,Susan B Schumacher,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,60-64,38.97,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,60-64,40.77,Amy A Parratto,,Gopher Masters Mania,2022,2
+MINN,100 M Butterfly,LCM,W,60-64,1:30.96,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,200 M Butterfly,LCM,W,60-64,3:29.51,Peggy Kratz,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,65-69,35.14,Sarah Eicher Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Freestyle,LCM,W,65-69,40.93,Pamela C Ogden,,2022 SPMS and Southwest Zone Summer Championships,2022,2
+MINN,50 M Freestyle,LCM,W,65-69,44.22,Paula J Pendergast,,Gopher Masters Mania,2022,3
+MINN,100 M Freestyle,LCM,W,65-69,1:20.01,Sarah Eicher Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,100 M Freestyle,LCM,W,65-69,1:44.11,Pamela C Ogden,,Gopher Masters Mania,2022,2
+MINN,200 M Freestyle,LCM,W,65-69,2:56.16,Sarah Eicher Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,200 M Freestyle,LCM,W,65-69,3:52.60,Pamela C Ogden,,Gopher Masters Mania,2022,2
+MINN,400 M Freestyle,LCM,W,65-69,6:05.28,Sarah Eicher Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,400 M Freestyle,LCM,W,65-69,7:17.54,Pamela C Ogden,,2022 SPMS and Southwest Zone Summer Championships,2022,2
+MINN,800 M Freestyle,LCM,W,65-69,12:49.53,Sarah Eicher Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Backstroke,LCM,W,65-69,49.40,Paula J Pendergast,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,65-69,1:16.63,Mary R Vonderharr,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,W,65-69,2:03.88,Pamela C Ogden,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,65-69,50.45,Paula J Pendergast,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,65-69,51.68,Sara J Stoltman,,Gopher Masters Mania,2022,2
+MINN,50 M Breaststroke,LCM,W,65-69,1:08.67,Mary R Vonderharr,,Gopher Masters Mania,2022,3
+MINN,100 M Breaststroke,LCM,W,65-69,1:50.54,Paula J Pendergast,,Gopher Masters Mania,2022,1
+MINN,200 M Breaststroke,LCM,W,65-69,4:20.04,Paula J Pendergast,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,65-69,40.73,Sarah Eicher Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Butterfly,LCM,W,65-69,52.56,Paula J Pendergast,,Gopher Masters Mania,2022,2
+MINN,200 M Individual Medley,LCM,W,65-69,3:48.82,Paula J Pendergast,,Memorial Day Classic,2022,1
+MINN,400 M Individual Medley,LCM,W,65-69,8:15.06,Paula J Pendergast,,Memorial Day Classic,2022,1
+MINN,50 M Freestyle,LCM,W,70-74,40.10,Sharon M Lee-Sheridan,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,70-74,3:15.82,Sharon M Lee-Sheridan,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,W,70-74,7:06.07,Sharon M Lee-Sheridan,,Memorial Day Classic,2022,1
+MINN,800 M Freestyle,LCM,W,70-74,14:18.37,Sharon M Lee-Sheridan,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,W,70-74,26:39.17,Sharon M Lee-Sheridan,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,70-74,45.71,Sharon M Lee-Sheridan,,Gopher Masters Mania,2022,1
+MINN,200 M Backstroke,LCM,W,70-74,3:34.89,Sharon M Lee-Sheridan,,Memorial Day Classic,2022,1
+MINN,50 M Breaststroke,LCM,W,70-74,52.57,Sharon M Lee-Sheridan,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Breaststroke,LCM,W,70-74,1:55.05,Sharon M Lee-Sheridan,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Breaststroke,LCM,W,70-74,4:09.90,Sharon M Lee-Sheridan,,Memorial Day Classic,2022,1
+MINN,50 M Butterfly,LCM,W,70-74,49.77,Sharon M Lee-Sheridan,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Butterfly,LCM,W,70-74,2:01.77,Sharon M Lee-Sheridan,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Individual Medley,LCM,W,70-74,3:46.78,Sharon M Lee-Sheridan,,Memorial Day Classic,2022,1
+MINN,400 M Individual Medley,LCM,W,70-74,7:49.92,Sharon M Lee-Sheridan,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,W,75-79,1:15.97,Martha L Arradondo,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,W,75-79,2:57.30,Patsy Lillehei,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,W,75-79,3:36.42,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,W,75-79,8:07.79,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,W,75-79,16:32.61,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,W,75-79,31:06.58,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,75-79,52.18,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,W,75-79,1:03.48,Carol S Smollen,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,W,75-79,1:31.54,Martha L Arradondo,,Gopher Masters Mania,2022,3
+MINN,100 M Backstroke,LCM,W,75-79,1:58.91,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,200 M Backstroke,LCM,W,75-79,4:08.81,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,75-79,1:13.78,Carol S Smollen,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,W,75-79,1:28.17,Patsy Lillehei,,Swim into Summer Masters Meet 2022,2022,2
+MINN,100 M Breaststroke,LCM,W,75-79,2:43.22,Carol S Smollen,,Gopher Masters Mania,2022,1
+MINN,100 M Breaststroke,LCM,W,75-79,3:09.77,Patsy Lillehei,,Gopher Masters Mania,2022,2
+MINN,200 M Breaststroke,LCM,W,75-79,7:06.49,Patsy Lillehei,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,W,75-79,58.86,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,100 M Butterfly,LCM,W,75-79,2:13.43,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,200 M Butterfly,LCM,W,75-79,4:31.17,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,200 M Individual Medley,LCM,W,75-79,4:15.31,Babs H Larsen,,Gopher Masters Mania,2022,1
+MINN,400 M Individual Medley,LCM,W,75-79,8:57.31,Babs H Larsen,,Memorial Day Classic,2022,1
+MINN,50 M Freestyle,LCM,M,25-29,25.28,Bryce P Boston,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,M,25-29,27.47,Zach Hingtgen,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,M,25-29,27.82,Noah Becker,,Gopher Masters Mania,2022,3
+MINN,50 M Freestyle,LCM,M,25-29,27.95,Jack H Swanson,,Memorial Day Classic,2022,4
+MINN,50 M Freestyle,LCM,M,25-29,28.98,Seth J Baetzold,,Memorial Day Classic,2022,5
+MINN,50 M Freestyle,LCM,M,25-29,29.27,Christopher J Nichols,,Gopher Masters Mania,2022,6
+MINN,50 M Freestyle,LCM,M,25-29,29.33,Joey R Kleinow,,Gopher Masters Mania,2022,7
+MINN,50 M Freestyle,LCM,M,25-29,33.38,Malekai  X Mischke,,Gopher Masters Mania,2022,8
+MINN,100 M Freestyle,LCM,M,25-29,59.11,Jack H Swanson,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,M,25-29,1:01.04,Zach Hingtgen,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,M,25-29,1:09.81,Joey R Kleinow,,Gopher Masters Mania,2022,3
+MINN,100 M Freestyle,LCM,M,25-29,1:13.49,Christopher J Nichols,,Gopher Masters Mania,2022,4
+MINN,100 M Freestyle,LCM,M,25-29,1:14.43,Malekai  X Mischke,,Gopher Masters Mania,2022,5
+MINN,200 M Freestyle,LCM,M,25-29,2:09.25,Jack H Swanson,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,M,25-29,2:26.88,Zach Hingtgen,,Gopher Masters Mania,2022,2
+MINN,400 M Freestyle,LCM,M,25-29,4:39.52,Jack H Swanson,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,M,25-29,5:35.84,Malekai  X Mischke,,Gopher Masters Mania,2022,2
+MINN,800 M Freestyle,LCM,M,25-29,10:20.12,Seth J Baetzold,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,M,25-29,11:13.52,Malekai  X Mischke,,Gopher Masters Mania,2022,2
+MINN,1500 M Freestyle,LCM,M,25-29,19:43.09,Seth J Baetzold,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,M,25-29,21:50.33,Malekai  X Mischke,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,M,25-29,32.90,Noah Becker,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,M,25-29,34.25,Zach Hingtgen,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,M,25-29,1:19.98,Christopher J Nichols,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,25-29,35.88,Noah Becker,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,25-29,39.00,Christopher J Nichols,,Gopher Masters Mania,2022,2
+MINN,100 M Breaststroke,LCM,M,25-29,1:26.21,Christopher J Nichols,,Gopher Masters Mania,2022,1
+MINN,100 M Breaststroke,LCM,M,25-29,1:45.42,Gabriel W Hartog,,Gopher Masters Mania,2022,2
+MINN,50 M Butterfly,LCM,M,25-29,30.42,Noah Becker,,Gopher Masters Mania,2022,1
+MINN,100 M Butterfly,LCM,M,25-29,58.39,Bryce P Boston,,Gopher Masters Mania,2022,1
+MINN,100 M Butterfly,LCM,M,25-29,1:05.05,Seth J Baetzold,,Memorial Day Classic,2022,2
+MINN,100 M Butterfly,LCM,M,25-29,1:09.73,Jack H Swanson,,Memorial Day Classic,2022,3
+MINN,200 M Butterfly,LCM,M,25-29,2:23.75,Seth J Baetzold,,Memorial Day Classic,2022,1
+MINN,400 M Individual Medley,LCM,M,25-29,5:50.15,Seth J Baetzold,,Memorial Day Classic,2022,1
+MINN,400 M Individual Medley,LCM,M,25-29,7:38.93,Gabriel W Hartog,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,M,30-34,27.30,Tony Challeen,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,M,30-34,28.68,Adam Rose,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,M,30-34,1:05.72,Matthew Stegeman,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,M,30-34,1:07.32,Adam Rose,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,M,30-34,1:07.91,Tony Challeen,,Gopher Masters Mania,2022,3
+MINN,50 M Backstroke,LCM,M,30-34,38.46,Tony Challeen,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,30-34,48.55,Tony Challeen,,Gopher Masters Mania,2022,1
+MINN,100 M Breaststroke,LCM,M,30-34,1:26.43,Matthew Stegeman,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,30-34,30.46,Adam Rose,,Gopher Masters Mania,2022,1
+MINN,100 M Butterfly,LCM,M,30-34,1:19.56,Matthew Stegeman,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,M,35-39,32.39,Paul Kittelson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Freestyle,LCM,M,35-39,1:16.72,Paul Kittelson,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,M,35-39,2:43.32,James Hoke,,Swim into Summer Masters Meet 2022,2022,1
+MINN,400 M Freestyle,LCM,M,35-39,6:36.91,Paul Kittelson,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,M,35-39,11:27.24,James Hoke,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Backstroke,LCM,M,35-39,43.72,Paul Kittelson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Breaststroke,LCM,M,35-39,44.12,Paul Kittelson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Breaststroke,LCM,M,35-39,44.19,James Hoke,,Swim into Summer Masters Meet 2022,2022,2
+MINN,100 M Breaststroke,LCM,M,35-39,1:36.57,James Hoke,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Breaststroke,LCM,M,35-39,3:46.71,Paul Kittelson,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,35-39,30.28,Andrew Wilson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Butterfly,LCM,M,35-39,38.19,Paul Kittelson,,Gopher Masters Mania,2022,2
+MINN,100 M Butterfly,LCM,M,35-39,1:09.56,Andrew Wilson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Freestyle,LCM,M,40-44,25.77,Erik Esbjornsson,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,M,40-44,30.45,Luke B Johnson,,Swim into Summer Masters Meet 2022,2022,2
+MINN,200 M Freestyle,LCM,M,40-44,2:33.73,Luke B Johnson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,800 M Freestyle,LCM,M,40-44,11:03.11,Luke B Johnson,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,M,40-44,21:47.97,Luke B Johnson,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,M,40-44,36.75,Luke B Johnson,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Breaststroke,LCM,M,40-44,41.25,Luke B Johnson,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,M,45-49,30.75,Brandon S Thornton,,Gopher Masters Mania,2022,1
+MINN,50 M Freestyle,LCM,M,45-49,33.65,Michael S Ward,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,M,45-49,1:15.01,Michael S Ward,,Memorial Day Classic,2022,1
+MINN,50 M Backstroke,LCM,M,45-49,41.30,Michael S Ward,,Gopher Masters Mania,2022,1
+MINN,100 M Backstroke,LCM,M,45-49,1:28.72,Michael S Ward,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,45-49,42.42,Brandon S Thornton,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,45-49,43.96,Michael S Ward,,Gopher Masters Mania,2022,2
+MINN,100 M Breaststroke,LCM,M,45-49,1:40.58,Michael S Ward,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,45-49,35.85,Brandon S Thornton,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,45-49,39.63,Michael S Ward,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,M,55-59,27.94,Robert A Young,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,M,55-59,37.95,Robert A Young,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,M,55-59,47.22,Richard Diaz,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,M,55-59,1:42.31,Richard Diaz,,Gopher Masters Mania,2022,1
+MINN,100 M Breaststroke,LCM,M,55-59,1:45.05,Steven L Redding,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Butterfly,LCM,M,55-59,29.17,Robert A Young,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,55-59,41.77,Steven L Redding,,Swim into Summer Masters Meet 2022,2022,2
+MINN,200 M Individual Medley,LCM,M,55-59,3:46.35,Steven L Redding,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Freestyle,LCM,M,60-64,32.12,Ray Barriuso,,Swim into Summer Masters Meet 2022,2022,1
+MINN,50 M Freestyle,LCM,M,60-64,33.80,Randal Ness,,Swim into Summer Masters Meet 2022,2022,2
+MINN,50 M Freestyle,LCM,M,60-64,48.08,Steve P McLaughlin,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Freestyle,LCM,M,60-64,1:08.66,Gary Muchow,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,M,60-64,1:15.83,Randal Ness,,Swim into Summer Masters Meet 2022,2022,2
+MINN,100 M Freestyle,LCM,M,60-64,1:18.43,Ray Barriuso,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Freestyle,LCM,M,60-64,1:20.60,Mark J Countryman,,Gopher Masters Mania,2022,4
+MINN,100 M Freestyle,LCM,M,60-64,2:05.42,Steve P McLaughlin,,Gopher Masters Mania,2022,5
+MINN,200 M Freestyle,LCM,M,60-64,2:35.16,Gary Muchow,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,M,60-64,2:52.14,Craig Collins,,Swim into Summer Masters Meet 2022,2022,2
+MINN,200 M Freestyle,LCM,M,60-64,2:53.26,Randal Ness,,Swim into Summer Masters Meet 2022,2022,3
+MINN,200 M Freestyle,LCM,M,60-64,3:04.79,Mark J Countryman,,Gopher Masters Mania,2022,4
+MINN,200 M Freestyle,LCM,M,60-64,3:06.01,Ray Barriuso,,Gopher Masters Mania,2022,5
+MINN,400 M Freestyle,LCM,M,60-64,5:31.00,Steven D Gruenwald,,Gopher Masters Mania,2022,1
+MINN,400 M Freestyle,LCM,M,60-64,5:31.11,Gary Muchow,,Gopher Masters Mania,2022,2
+MINN,400 M Freestyle,LCM,M,60-64,6:37.50,Mark J Countryman,,Gopher Masters Mania,2022,3
+MINN,400 M Freestyle,LCM,M,60-64,9:29.40,Steve P McLaughlin,,Gopher Masters Mania,2022,4
+MINN,800 M Freestyle,LCM,M,60-64,11:29.32,Steven D Gruenwald,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,M,60-64,11:33.67,Gary Muchow,,Gopher Masters Mania,2022,2
+MINN,800 M Freestyle,LCM,M,60-64,12:30.37,Craig Collins,,Swim into Summer Masters Meet 2022,2022,3
+MINN,800 M Freestyle,LCM,M,60-64,13:40.40,Mark J Countryman,,Gopher Masters Mania,2022,4
+MINN,800 M Freestyle,LCM,M,60-64,17:55.20,Steve P McLaughlin,,Swim into Summer Masters Meet 2022,2022,5
+MINN,1500 M Freestyle,LCM,M,60-64,22:48.42,Steven D Gruenwald,,Gopher Masters Mania,2022,1
+MINN,1500 M Freestyle,LCM,M,60-64,26:42.55,Mark J Countryman,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,M,60-64,41.10,Stephen C Nelson,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,M,60-64,1:15.10,Steve P McLaughlin,,Gopher Masters Mania,2022,2
+MINN,100 M Backstroke,LCM,M,60-64,1:28.03,Stephen C Nelson,,Gopher Masters Mania,2022,1
+MINN,200 M Backstroke,LCM,M,60-64,3:06.76,Stephen C Nelson,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,60-64,33.77,James L Kochendorfer,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,60-64,45.28,Ray Barriuso,,Swim into Summer Masters Meet 2022,2022,2
+MINN,50 M Breaststroke,LCM,M,60-64,55.36,Steve P McLaughlin,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Breaststroke,LCM,M,60-64,1:28.42,James L Kochendorfer,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Breaststroke,LCM,M,60-64,1:34.74,Stephen C Nelson,,Gopher Masters Mania,2022,2
+MINN,100 M Breaststroke,LCM,M,60-64,1:59.60,Steve P McLaughlin,,Swim into Summer Masters Meet 2022,2022,3
+MINN,200 M Breaststroke,LCM,M,60-64,3:24.35,Stephen C Nelson,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,60-64,37.28,Ray Barriuso,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,60-64,1:03.47,Steve P McLaughlin,,Gopher Masters Mania,2022,2
+MINN,200 M Individual Medley,LCM,M,60-64,3:36.72,Craig Collins,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Individual Medley,LCM,M,60-64,4:36.04,Steve P McLaughlin,,Swim into Summer Masters Meet 2022,2022,2
+MINN,50 M Freestyle,LCM,M,65-69,28.00,Bruce Paakh,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Freestyle,LCM,M,65-69,38.96,John Maguire,,Gopher Masters Mania,2022,2
+MINN,100 M Freestyle,LCM,M,65-69,1:03.59,Bruce Paakh,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,400 M Freestyle,LCM,M,65-69,6:33.88,Bruce Paakh,,DSMY Masters 2022 Long Course Invitational,2022,1
+MINN,800 M Freestyle,LCM,M,65-69,14:19.32,John Maguire,,Gopher Masters Mania,2022,1
+MINN,50 M Backstroke,LCM,M,65-69,35.83,Bruce Paakh,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Backstroke,LCM,M,65-69,41.30,Curtis L Nelson,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,M,65-69,50.80,John Maguire,,Gopher Masters Mania,2022,3
+MINN,100 M Backstroke,LCM,M,65-69,1:35.52,Bruce Paakh,,DSMY Masters 2022 Long Course Invitational,2022,1
+MINN,200 M Backstroke,LCM,M,65-69,3:22.82,Curtis L Nelson,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,65-69,36.67,Bruce Paakh,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Breaststroke,LCM,M,65-69,59.38,John Maguire,,Gopher Masters Mania,2022,2
+MINN,50 M Butterfly,LCM,M,65-69,30.25,Bruce Paakh,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Butterfly,LCM,M,65-69,45.02,John Maguire,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,M,70-74,33.32,Steven E Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Freestyle,LCM,M,70-74,33.87,Marc Anderson,,Gopher Masters Mania,2022,2
+MINN,50 M Freestyle,LCM,M,70-74,1:22.93,Duane R Jacobson,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Freestyle,LCM,M,70-74,1:14.92,Steven E Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,100 M Freestyle,LCM,M,70-74,1:17.30,Marc Anderson,,Gopher Masters Mania,2022,2
+MINN,200 M Freestyle,LCM,M,70-74,2:56.65,Marc Anderson,,Gopher Masters Mania,2022,1
+MINN,200 M Freestyle,LCM,M,70-74,3:12.32,Steven E Nelson,,Swim into Summer Masters Meet 2022,2022,2
+MINN,200 M Freestyle,LCM,M,70-74,3:22.98,Gary M Fine,,Gopher Masters Mania,2022,3
+MINN,400 M Freestyle,LCM,M,70-74,6:24.82,Marc Anderson,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,M,70-74,12:59.88,Marc Anderson,,Gopher Masters Mania,2022,1
+MINN,800 M Freestyle,LCM,M,70-74,16:09.68,Thomas Hodgson,,Swim into Summer Masters Meet 2022,2022,2
+MINN,50 M Backstroke,LCM,M,70-74,37.64,Steven E Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Backstroke,LCM,M,70-74,42.54,Marc Anderson,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,M,70-74,45.00,Daniel Kornblatt,,Gopher Masters Mania,2022,3
+MINN,50 M Backstroke,LCM,M,70-74,49.10,Bill Durell,,Gopher Masters Mania,2022,4
+MINN,100 M Backstroke,LCM,M,70-74,1:22.61,Steven E Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,100 M Backstroke,LCM,M,70-74,1:38.69,Marc Anderson,,Gopher Masters Mania,2022,2
+MINN,200 M Backstroke,LCM,M,70-74,2:58.99,Steven E Nelson,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,200 M Backstroke,LCM,M,70-74,3:43.46,Bill Durell,,Mission Viejo Nadadores Masters LCM Swim Meet,2022,2
+MINN,50 M Breaststroke,LCM,M,70-74,43.23,Marc Anderson,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,70-74,52.74,Bill Durell,,Gopher Masters Mania,2022,2
+MINN,50 M Breaststroke,LCM,M,70-74,1:13.33,Duane R Jacobson,,Swim into Summer Masters Meet 2022,2022,3
+MINN,100 M Breaststroke,LCM,M,70-74,1:47.54,Gary M Fine,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,100 M Breaststroke,LCM,M,70-74,1:47.61,Marc Anderson,,Gopher Masters Mania,2022,2
+MINN,200 M Breaststroke,LCM,M,70-74,3:55.79,Gary M Fine,,Gopher Masters Mania,2022,1
+MINN,200 M Breaststroke,LCM,M,70-74,4:13.60,Bill Durell,,Mission Viejo Nadadores Masters LCM Swim Meet,2022,2
+MINN,50 M Butterfly,LCM,M,70-74,42.32,Marc Anderson,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,70-74,43.12,Gary M Fine,,2022 U.S. Masters Swimming Summer National Championship,2022,2
+MINN,100 M Butterfly,LCM,M,70-74,1:40.72,Gary M Fine,,Swim into Summer Masters Meet 2022,2022,1
+MINN,100 M Butterfly,LCM,M,70-74,2:14.55,Bill Durell,,Mission Viejo Nadadores Masters LCM Swim Meet,2022,2
+MINN,200 M Butterfly,LCM,M,70-74,4:03.67,Gary M Fine,,Gopher Masters Mania,2022,1
+MINN,200 M Butterfly,LCM,M,70-74,4:53.15,Bill Durell,,Mission Viejo Nadadores Masters LCM Swim Meet,2022,2
+MINN,200 M Individual Medley,LCM,M,70-74,3:36.28,Marc Anderson,,Gopher Masters Mania,2022,1
+MINN,400 M Individual Medley,LCM,M,70-74,8:01.54,Gary M Fine,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,400 M Individual Medley,LCM,M,70-74,8:29.74,Bill Durell,,Mission Viejo Nadadores Masters LCM Swim Meet,2022,2
+MINN,50 M Backstroke,LCM,M,75-79,41.85,Robin T Kleffman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,100 M Backstroke,LCM,M,75-79,1:40.04,Robin T Kleffman,,Swim into Summer Masters Meet 2022,2022,1
+MINN,200 M Backstroke,LCM,M,75-79,3:27.48,Robin T Kleffman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Breaststroke,LCM,M,75-79,44.35,Robin T Kleffman,,Gopher Masters Mania,2022,1
+MINN,50 M Butterfly,LCM,M,75-79,34.49,Robin T Kleffman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Butterfly,LCM,M,75-79,41.97,John T Ziegenhagen,,Gopher Masters Mania,2022,2
+MINN,100 M Butterfly,LCM,M,75-79,1:38.11,Robin T Kleffman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,200 M Butterfly,LCM,M,75-79,3:52.21,Robin T Kleffman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,200 M Individual Medley,LCM,M,75-79,3:25.99,Robin T Kleffman,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+MINN,50 M Freestyle,LCM,M,80-84,49.56,David C Arlander,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,M,80-84,1:49.99,David C Arlander,,Gopher Masters Mania,2022,1
+MINN,100 M Freestyle,LCM,M,80-84,1:58.40,Norman Solberg,,Gopher Masters Mania,2022,2
+MINN,50 M Backstroke,LCM,M,80-84,59.30,Norman Solberg,,Gopher Masters Mania,2022,1
+MINN,100 M Backstroke,LCM,M,80-84,2:16.36,Norman Solberg,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,80-84,53.76,David C Arlander,,Gopher Masters Mania,2022,1
+MINN,50 M Breaststroke,LCM,M,80-84,54.63,Norman Solberg,,Gopher Masters Mania,2022,2
+MINN,100 M Breaststroke,LCM,M,80-84,1:58.71,Norman Solberg,,Gopher Masters Mania,2022,1
+MINN,100 M Breaststroke,LCM,M,80-84,2:01.74,David C Arlander,,Gopher Masters Mania,2022,2
+MINN,200 M Breaststroke,LCM,M,80-84,4:18.90,Norman Solberg,,Gopher Masters Mania,2022,1
+MINN,200 M Breaststroke,LCM,M,80-84,4:32.76,David C Arlander,,Gopher Masters Mania,2022,2
+NORT,200 M Freestyle,LCM,W,25-29,2:49.36,Kelly Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,50 M Backstroke,LCM,W,25-29,39.30,Kelly Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,100 M Backstroke,LCM,W,25-29,1:22.12,Kelly Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,100 M Breaststroke,LCM,W,25-29,1:44.98,Kelly Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,50 M Butterfly,LCM,W,25-29,36.57,Kelly Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,50 M Freestyle,LCM,W,30-34,31.16,Emily Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Backstroke,LCM,W,30-34,38.52,Emily Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Breaststroke,LCM,W,30-34,40.27,Emily Punyko,,Gopher Masters Mania,2022,1
+NORT,200 M Individual Medley,LCM,W,30-34,3:04.39,Emily Punyko,,Gopher Masters Mania,2022,1
+NORT,200 M Freestyle,LCM,W,35-39,2:50.00,Amy M Flessert,,2022 Pan Am Aquatics Championships,2022,1
+NORT,400 M Freestyle,LCM,W,35-39,5:57.82,Amy M Flessert,,Gopher Masters Mania,2022,1
+NORT,800 M Freestyle,LCM,W,35-39,12:10.43,Amy M Flessert,,Gopher Masters Mania,2022,1
+NORT,1500 M Freestyle,LCM,W,35-39,23:24.89,Amy M Flessert,,Gopher Masters Mania,2022,1
+NORT,50 M Breaststroke,LCM,W,35-39,45.57,Amy M Flessert,,Gopher Masters Mania,2022,1
+NORT,100 M Breaststroke,LCM,W,35-39,1:36.68,Amy M Flessert,,2022 Pan Am Aquatics Championships,2022,1
+NORT,200 M Breaststroke,LCM,W,35-39,3:30.74,Amy M Flessert,,2022 Pan Am Aquatics Championships,2022,1
+NORT,50 M Freestyle,LCM,W,60-64,42.88,Judy M Seliga-Punyko,,Gopher Masters Mania,2022,1
+NORT,100 M Freestyle,LCM,W,60-64,1:40.23,Judy M Seliga-Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,200 M Freestyle,LCM,W,60-64,3:40.55,Judy M Seliga-Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Backstroke,LCM,W,60-64,1:00.17,Judy M Seliga-Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Breaststroke,LCM,W,60-64,51.18,Judy M Seliga-Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,100 M Breaststroke,LCM,W,60-64,1:56.43,Judy M Seliga-Punyko,,Swim into Summer Masters Meet 2022,2022,1
+NORT,200 M Individual Medley,LCM,W,60-64,4:02.96,Judy M Seliga-Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Freestyle,LCM,M,25-29,29.32,Austin M Bongers,,Swim into Summer Masters Meet 2022,2022,1
+NORT,100 M Freestyle,LCM,M,25-29,1:05.44,Austin M Bongers,,Gopher Masters Mania,2022,1
+NORT,200 M Freestyle,LCM,M,25-29,2:32.34,Austin M Bongers,,Swim into Summer Masters Meet 2022,2022,1
+NORT,400 M Freestyle,LCM,M,25-29,5:27.39,Austin M Bongers,,Gopher Masters Mania,2022,1
+NORT,800 M Freestyle,LCM,M,25-29,11:38.51,Austin M Bongers,,Gopher Masters Mania,2022,1
+NORT,50 M Backstroke,LCM,M,25-29,37.79,Austin M Bongers,,Swim into Summer Masters Meet 2022,2022,1
+NORT,100 M Backstroke,LCM,M,25-29,1:18.70,Austin M Bongers,,Gopher Masters Mania,2022,1
+NORT,200 M Individual Medley,LCM,M,25-29,2:55.58,Austin M Bongers,,Gopher Masters Mania,2022,1
+NORT,50 M Freestyle,LCM,M,60-64,34.60,Bill Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Backstroke,LCM,M,60-64,41.74,Bill Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Butterfly,LCM,M,60-64,42.73,Bill Punyko,,Gopher Masters Mania,2022,1
+NORT,50 M Freestyle,LCM,M,65-69,41.11,Richard H Stevens,,Swim into Summer Masters Meet 2022,2022,1
+NORT,200 M Freestyle,LCM,M,65-69,3:27.57,Richard H Stevens,,Swim into Summer Masters Meet 2022,2022,1
+NORT,800 M Freestyle,LCM,M,65-69,16:13.05,Richard H Stevens,,Swim into Summer Masters Meet 2022,2022,1
+NORT,50 M Freestyle,LCM,M,70-74,33.89,Perry Brown,,Gopher Masters Mania,2022,1
+NORT,50 M Freestyle,LCM,M,70-74,40.04,Charles C Stewart,,Gopher Masters Mania,2022,2
+NORT,100 M Freestyle,LCM,M,70-74,1:20.35,Perry Brown,,Gopher Masters Mania,2022,1
+NORT,100 M Freestyle,LCM,M,70-74,1:33.26,Charles C Stewart,,Gopher Masters Mania,2022,2
+NORT,50 M Backstroke,LCM,M,70-74,39.50,Charles C Stewart,,Gopher Masters Mania,2022,1
+NORT,100 M Backstroke,LCM,M,70-74,1:47.08,Charles C Stewart,,Gopher Masters Mania,2022,1
+NORT,200 M Individual Medley,LCM,M,70-74,3:43.13,Charles C Stewart,,Gopher Masters Mania,2022,1
+STMA,50 M Freestyle,LCM,W,45-49,38.32,Lindsey M Farwell,,Memorial Day Classic,2022,1
+STMA,200 M Freestyle,LCM,W,45-49,3:12.30,Lindsey M Farwell,,Memorial Day Classic,2022,1
+STMA,200 M Individual Medley,LCM,W,45-49,3:31.63,Lindsey M Farwell,,Memorial Day Classic,2022,1
+TACMN,50 M Freestyle,LCM,W,25-29,38.54,Alayne M Beneke,,Swim into Summer Masters Meet 2022,2022,1
+TACMN,200 M Freestyle,LCM,W,25-29,3:18.51,Alayne M Beneke,,Swim into Summer Masters Meet 2022,2022,1
+TACMN,800 M Freestyle,LCM,W,25-29,14:24.50,Alayne M Beneke,,Swim into Summer Masters Meet 2022,2022,1
+TACMN,100 M Backstroke,LCM,W,25-29,1:40.89,Alayne M Beneke,,Swim into Summer Masters Meet 2022,2022,1
+TACMN,50 M Butterfly,LCM,W,25-29,45.56,Alayne M Beneke,,Swim into Summer Masters Meet 2022,2022,1
+UC30,50 M Freestyle,LCM,W,18-24,30.94,Kayla R Gant,,Swim into Summer Masters Meet 2022,2022,1
+UC30,50 M Freestyle,LCM,W,18-24,31.74,Katelyn G Thornton,,Gopher Masters Mania,2022,2
+UC30,100 M Freestyle,LCM,W,18-24,1:12.21,Kayla R Gant,,Swim into Summer Masters Meet 2022,2022,1
+UC30,50 M Breaststroke,LCM,W,18-24,44.61,Katelyn G Thornton,,Gopher Masters Mania,2022,1
+UC30,50 M Butterfly,LCM,W,18-24,37.51,Katelyn G Thornton,,Gopher Masters Mania,2022,1
+UC30,50 M Freestyle,LCM,W,25-29,38.60,Lindsay A Moynihan,,Gopher Masters Mania,2022,1
+UC30,50 M Backstroke,LCM,W,25-29,47.67,Lindsay A Moynihan,,Gopher Masters Mania,2022,1
+UC30,50 M Breaststroke,LCM,W,25-29,1:00.90,Lindsay A Moynihan,,Gopher Masters Mania,2022,1
+UC30,50 M Butterfly,LCM,W,25-29,47.44,Lindsay A Moynihan,,Gopher Masters Mania,2022,1
+UC30,50 M Freestyle,LCM,W,30-34,37.82,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,100 M Freestyle,LCM,W,30-34,1:23.33,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,200 M Freestyle,LCM,W,30-34,2:56.85,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,400 M Freestyle,LCM,W,30-34,6:02.56,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,50 M Backstroke,LCM,W,30-34,46.34,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,50 M Breaststroke,LCM,W,30-34,51.19,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,100 M Breaststroke,LCM,W,30-34,1:50.39,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,50 M Butterfly,LCM,W,30-34,42.76,Mackenzie Koeck,,Gopher Masters Mania,2022,1
+UC30,50 M Freestyle,LCM,W,60-64,47.83,Cyndy Travers,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+UC30,50 M Backstroke,LCM,W,60-64,59.95,Cyndy Travers,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+UC30,50 M Breaststroke,LCM,W,60-64,1:02.09,Cyndy Travers,,2022 U.S. Masters Swimming Summer National Championship,2022,1
+UC30,50 M Freestyle,LCM,M,25-29,25.09,Michael S Foss,,Gopher Masters Mania,2022,1
+UC30,50 M Butterfly,LCM,M,25-29,27.80,Michael S Foss,,Gopher Masters Mania,2022,1
+UC30,100 M Freestyle,LCM,M,50-54,1:04.70,Matthews Grant,,Swim into Summer Masters Meet 2022,2022,1
+UC30,800 M Freestyle,LCM,M,50-54,11:51.98,Matthews Grant,,Swim into Summer Masters Meet 2022,2022,1
+UC30,200 M Freestyle,LCM,M,60-64,3:12.80,Mark J Countryman,,Swim into Summer Masters Meet 2022,2022,1
+UC30,800 M Freestyle,LCM,M,60-64,14:07.41,Mark J Countryman,,Swim into Summer Masters Meet 2022,2022,1
+WMNS,50 M Freestyle,LCM,M,45-49,30.55,Lucas Stangl,,DSMY Masters 2022 Long Course Invitational,2022,1
+WMNS,100 M Freestyle,LCM,M,45-49,1:06.56,Lucas Stangl,,DSMY Masters 2022 Long Course Invitational,2022,1
+WMNS,400 M Freestyle,LCM,M,45-49,5:23.26,Lucas Stangl,,DSMY Masters 2022 Long Course Invitational,2022,1
+WMNS,100 M Butterfly,LCM,M,45-49,1:25.09,Lucas Stangl,,DSMY Masters 2022 Long Course Invitational,2022,1

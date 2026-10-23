@@ -1,0 +1,506 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+DROP,50 M Freestyle,SCM,M,45-49,29.16,Chris A Inch,,28th Annual “Super” Swim Meet,2015,1
+DROP,200 M Freestyle,SCM,M,45-49,2:25.81,Chris A Inch,,28th Annual “Super” Swim Meet,2015,1
+DROP,100 M Butterfly,SCM,M,45-49,1:16.63,Chris A Inch,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Freestyle,SCM,W,18-24,28.39,Suzanne M Lessnau,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,18-24,33.51,Mary B Skinner,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Freestyle,SCM,W,18-24,34.86,Danielle K Fowler,,8th Annual Milford Meltdown,2015,3
+MICH,100 M Freestyle,SCM,W,18-24,1:04.25,Suzanne M Lessnau,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,W,18-24,2:33.83,Samantha R Hindle,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,W,18-24,2:51.41,Danielle K Fowler,,8th Annual Milford Meltdown,2015,2
+MICH,800 M Freestyle,SCM,W,18-24,10:48.59,Samantha R Hindle,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,18-24,38.57,Mary B Skinner,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,W,18-24,47.43,Danielle K Fowler,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Breaststroke,SCM,W,18-24,3:34.56,Danielle K Fowler,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,18-24,30.89,Suzanne M Lessnau,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,18-24,36.76,Mary B Skinner,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Butterfly,SCM,W,18-24,3:03.54,Samantha R Hindle,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,25-29,35.45,Stephanie L Dueweke,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,W,25-29,1:16.90,Stephanie L Dueweke,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,W,25-29,2:22.73,Katherine Pickard,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,W,25-29,2:27.98,Megan Toney,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Freestyle,SCM,W,25-29,2:39.94,Sarah A Bednarcik,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,W,25-29,2:51.54,Stephanie L Dueweke,,8th Annual Milford Meltdown,2015,4
+MICH,400 M Freestyle,SCM,W,25-29,4:54.31,Katherine Pickard,,28th Annual “Super” Swim Meet,2015,1
+MICH,800 M Freestyle,SCM,W,25-29,13:05.19,Stephanie L Dueweke,,8th Annual Milford Meltdown,2015,1
+MICH,1500 M Freestyle,SCM,W,25-29,19:04.10,Katherine Pickard,,28th Annual “Super” Swim Meet,2015,1
+MICH,1500 M Freestyle,SCM,W,25-29,21:18.57,Sarah A Bednarcik,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,W,25-29,37.00,Megan Toney,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Backstroke,SCM,W,25-29,1:19.19,Megan Toney,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Backstroke,SCM,W,25-29,2:49.37,Megan Toney,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,W,25-29,45.06,Sarah A Bednarcik,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Breaststroke,SCM,W,25-29,1:39.09,Sarah A Bednarcik,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Individual Medley,SCM,W,25-29,2:36.96,Katherine Pickard,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Freestyle,SCM,W,30-34,1:22.26,Meredith A Hawkins,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,W,30-34,2:57.98,Meredith A Hawkins,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,W,30-34,4:12.21,Hong Weng,,8th Annual Milford Meltdown,2015,2
+MICH,400 M Freestyle,SCM,W,30-34,9:04.22,Hong Weng,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,W,30-34,18:36.51,Hong Weng,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,30-34,43.30,Meredith A Hawkins,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Backstroke,SCM,W,30-34,5:34.51,Hong Weng,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,W,30-34,47.39,Meredith A Hawkins,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Breaststroke,SCM,W,30-34,4:56.59,Hong Weng,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Individual Medley,SCM,W,30-34,4:57.81,Hong Weng,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,35-39,36.85,Amanda M Terzes,,28th Annual “Super” Swim Meet,2015,1
+MICH,400 M Freestyle,SCM,W,35-39,7:40.64,Elizabeth R Schmaltz,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,W,35-39,2:10.68,Elizabeth R Schmaltz,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,35-39,39.10,Amanda M Terzes,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Butterfly,SCM,W,35-39,2:33.88,Elizabeth R Schmaltz,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,W,35-39,1:31.88,Amanda M Terzes,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Individual Medley,SCM,W,35-39,4:31.52,Elizabeth R Schmaltz,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,40-44,44.18,April A Maunu,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,40-44,47.89,Clisty Kinlin,,2015 Fall Miami Redfin Masters Meet,2015,2
+MICH,200 M Freestyle,SCM,W,40-44,3:37.01,Claudia Skinner,,28th Annual “Super” Swim Meet,2015,1
+MICH,400 M Freestyle,SCM,W,40-44,8:54.13,Clisty Kinlin,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,W,40-44,2:16.44,Clisty Kinlin,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Breaststroke,SCM,W,40-44,4:18.13,Claudia Skinner,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Butterfly,SCM,W,40-44,55.48,April A Maunu,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,W,40-44,2:05.87,April A Maunu,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,W,40-44,2:06.04,Clisty Kinlin,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Individual Medley,SCM,W,40-44,4:42.14,Clisty Kinlin,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,100 M Freestyle,SCM,W,45-49,1:18.67,Melissa Richardson,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,W,45-49,1:28.80,Rachel M Jones,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,W,45-49,1:46.62,PAULA M BEJIN,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,W,45-49,2:52.12,Julie L Pierce,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,W,45-49,3:10.26,Rachel M Jones,,28th Annual “Super” Swim Meet,2015,2
+MICH,800 M Freestyle,SCM,W,45-49,12:33.62,Melissa Richardson,,8th Annual Milford Meltdown,2015,1
+MICH,1500 M Freestyle,SCM,W,45-49,26:00.15,Rachel M Jones,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Backstroke,SCM,W,45-49,40.31,Julie L Pierce,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Backstroke,SCM,W,45-49,48.00,Melissa Richardson,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Backstroke,SCM,W,45-49,52.89,Rachel M Jones,,28th Annual “Super” Swim Meet,2015,3
+MICH,50 M Backstroke,SCM,W,45-49,54.89,PAULA M BEJIN,,28th Annual “Super” Swim Meet,2015,4
+MICH,50 M Breaststroke,SCM,W,45-49,40.99,Lou Ann Dixon,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,W,45-49,50.80,Melissa Richardson,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Breaststroke,SCM,W,45-49,1:26.59,Lou Ann Dixon,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Breaststroke,SCM,W,45-49,1:58.34,PAULA M BEJIN,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Breaststroke,SCM,W,45-49,3:06.24,Lou Ann Dixon,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Breaststroke,SCM,W,45-49,4:13.28,PAULA M BEJIN,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Individual Medley,SCM,W,45-49,1:26.00,Julie L Pierce,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,W,45-49,1:34.22,Melissa Richardson,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,W,50-54,43.81,Carol Morrissey,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Freestyle,SCM,W,50-54,48.05,Mitzi C Amelon,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Freestyle,SCM,W,50-54,3:42.58,Carol Morrissey,,28th Annual “Super” Swim Meet,2015,1
+MICH,800 M Freestyle,SCM,W,50-54,17:09.02,Mitzi C Amelon,,8th Annual Milford Meltdown,2015,1
+MICH,1500 M Freestyle,SCM,W,50-54,23:34.32,Lori J Friesner,,28th Annual “Super” Swim Meet,2015,1
+MICH,1500 M Freestyle,SCM,W,50-54,30:11.76,Carol Morrissey,,28th Annual “Super” Swim Meet,2015,2
+MICH,1500 M Freestyle,SCM,W,50-54,32:27.37,Colleen Hoffman,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Backstroke,SCM,W,50-54,2:03.20,Carol Morrissey,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,W,50-54,39.31,Corrin C Buck,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,W,50-54,1:06.10,Mitzi C Amelon,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Breaststroke,SCM,W,50-54,1:26.61,Corrin C Buck,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Breaststroke,SCM,W,50-54,3:04.88,Corrin C Buck,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Butterfly,SCM,W,50-54,2:39.18,Mitzi C Amelon,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Individual Medley,SCM,W,50-54,2:46.97,Corrin C Buck,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,55-59,35.82,Barbara K Belfore,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Freestyle,SCM,W,55-59,41.82,Sharon B Long,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,W,55-59,45.94,Patricia B Logan,,8th Annual Milford Meltdown,2015,3
+MICH,50 M Freestyle,SCM,W,55-59,49.42,Ann Ray,,28th Annual “Super” Swim Meet,2015,4
+MICH,50 M Freestyle,SCM,W,55-59,49.93,Gale T Otremba,,8th Annual Milford Meltdown,2015,5
+MICH,50 M Freestyle,SCM,W,55-59,50.15,Claudia A Trudeau,,28th Annual “Super” Swim Meet,2015,6
+MICH,100 M Freestyle,SCM,W,55-59,1:20.58,Barbara K Belfore,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Freestyle,SCM,W,55-59,1:24.04,Wendy Szymczak,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,W,55-59,1:42.22,Julie A Mohan,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Freestyle,SCM,W,55-59,1:44.37,Rebecca Kanner,,8th Annual Milford Meltdown,2015,4
+MICH,100 M Freestyle,SCM,W,55-59,1:45.92,Patricia B Logan,,8th Annual Milford Meltdown,2015,5
+MICH,100 M Freestyle,SCM,W,55-59,1:51.10,Ann Ray,,28th Annual “Super” Swim Meet,2015,6
+MICH,100 M Freestyle,SCM,W,55-59,2:03.72,Claudia A Trudeau,,28th Annual “Super” Swim Meet,2015,7
+MICH,200 M Freestyle,SCM,W,55-59,2:33.64,Denise H Brown,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Freestyle,SCM,W,55-59,3:05.96,Wendy Szymczak,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Freestyle,SCM,W,55-59,3:29.22,Susan M Gutowski,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,W,55-59,3:41.70,Rebecca Kanner,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Freestyle,SCM,W,55-59,4:01.60,Ann Ray,,28th Annual “Super” Swim Meet,2015,5
+MICH,400 M Freestyle,SCM,W,55-59,5:20.07,Denise H Brown,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,400 M Freestyle,SCM,W,55-59,6:30.61,Wendy Szymczak,,8th Annual Milford Meltdown,2015,2
+MICH,400 M Freestyle,SCM,W,55-59,8:15.11,Carolyn L Romzick,,28th Annual “Super” Swim Meet,2015,3
+MICH,800 M Freestyle,SCM,W,55-59,16:47.91,Patricia B Logan,,8th Annual Milford Meltdown,2015,1
+MICH,1500 M Freestyle,SCM,W,55-59,27:44.01,Susan M Gutowski,,28th Annual “Super” Swim Meet,2015,1
+MICH,1500 M Freestyle,SCM,W,55-59,32:55.46,Ann Ray,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,W,55-59,51.23,Sharon B Long,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,55-59,55.63,Gale T Otremba,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Backstroke,SCM,W,55-59,1:02.72,Claudia A Trudeau,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Backstroke,SCM,W,55-59,2:11.69,Claudia A Trudeau,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Backstroke,SCM,W,55-59,4:50.77,Carolyn L Romzick,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,W,55-59,55.64,Patricia B Logan,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,W,55-59,1:56.51,Julie A Mohan,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Breaststroke,SCM,W,55-59,1:57.50,Susan M Gutowski,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Breaststroke,SCM,W,55-59,2:06.19,Carolyn L Romzick,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Breaststroke,SCM,W,55-59,4:21.87,Carolyn L Romzick,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Breaststroke,SCM,W,55-59,4:51.96,Jacqueline Thorpe,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Butterfly,SCM,W,55-59,44.08,Wendy Szymczak,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,55-59,49.63,Sharon B Long,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Butterfly,SCM,W,55-59,1:00.54,Rebecca Kanner,,8th Annual Milford Meltdown,2015,3
+MICH,200 M Butterfly,SCM,W,55-59,4:35.69,Jacqueline Thorpe,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,W,55-59,1:29.51,Barbara K Belfore,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,W,55-59,1:49.44,Sharon B Long,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Individual Medley,SCM,W,55-59,1:58.48,Susan M Gutowski,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Individual Medley,SCM,W,55-59,2:00.31,Rebecca Kanner,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Individual Medley,SCM,W,55-59,3:00.36,Denise H Brown,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Individual Medley,SCM,W,55-59,3:16.52,Barbara K Belfore,,28th Annual “Super” Swim Meet,2015,2
+MICH,400 M Individual Medley,SCM,W,55-59,6:21.07,Denise H Brown,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,400 M Individual Medley,SCM,W,55-59,7:50.03,Wendy Szymczak,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,W,60-64,34.18,Barbara E Church,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,60-64,44.13,Ann C Ward,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Freestyle,SCM,W,60-64,3:51.99,Ann M Franas,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,W,60-64,4:05.05,Carol L Schemanske,,8th Annual Milford Meltdown,2015,2
+MICH,800 M Freestyle,SCM,W,60-64,17:22.25,Carol L Schemanske,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,60-64,37.01,Barbara E Church,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,60-64,1:00.88,Marilyn Reichenbach,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Backstroke,SCM,W,60-64,2:17.06,Sue S Haapaniemi,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,W,60-64,2:18.13,Carol L Schemanske,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Backstroke,SCM,W,60-64,4:34.16,Barbara W Hertz,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,W,60-64,53.06,Marilyn Reichenbach,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,W,60-64,58.92,Ann C Ward,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Breaststroke,SCM,W,60-64,2:00.34,Marilyn Reichenbach,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,W,60-64,2:05.09,Ann C Ward,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Breaststroke,SCM,W,60-64,2:29.88,Sue S Haapaniemi,,8th Annual Milford Meltdown,2015,3
+MICH,200 M Breaststroke,SCM,W,60-64,4:21.30,Ann M Franas,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,60-64,56.92,Barbara W Hertz,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,60-64,1:20.97,Carol L Schemanske,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Individual Medley,SCM,W,60-64,1:58.21,Ann M Franas,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,W,60-64,2:02.11,Barbara W Hertz,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Individual Medley,SCM,W,60-64,2:03.67,Ann C Ward,,8th Annual Milford Meltdown,2015,3
+MICH,100 M Individual Medley,SCM,W,60-64,2:13.36,Sue S Haapaniemi,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Individual Medley,SCM,W,60-64,4:15.44,Ann M Franas,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Individual Medley,SCM,W,60-64,4:29.64,Marilyn Reichenbach,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,W,65-69,36.30,Sally K Guthrie,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,50 M Freestyle,SCM,W,65-69,50.48,Cecilia M Brzys,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,W,65-69,1:18.00,Sally K Guthrie,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Freestyle,SCM,W,65-69,3:18.04,Kate Z Apple,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,W,65-69,4:10.82,Cecilia M Brzys,,28th Annual “Super” Swim Meet,2015,2
+MICH,400 M Freestyle,SCM,W,65-69,6:52.76,Kate Z Apple,,28th Annual “Super” Swim Meet,2015,1
+MICH,400 M Freestyle,SCM,W,65-69,9:06.17,Cecilia M Brzys,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,W,65-69,43.53,Sally K Guthrie,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,65-69,1:11.39,Cecilia M Brzys,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Backstroke,SCM,W,65-69,1:50.84,Kate Z Apple,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Backstroke,SCM,W,65-69,3:29.17,Sally K Guthrie,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Backstroke,SCM,W,65-69,3:54.15,Kate Z Apple,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Breaststroke,SCM,W,65-69,3:53.50,Sally K Guthrie,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Butterfly,SCM,W,65-69,1:36.35,Sally K Guthrie,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Butterfly,SCM,W,65-69,3:45.82,Sally K Guthrie,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,100 M Individual Medley,SCM,W,65-69,1:34.42,Sally K Guthrie,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,70-74,42.11,Mary Dehn,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Freestyle,SCM,W,70-74,1:37.19,Mary Dehn,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,W,70-74,4:18.81,Kitty Vanden Brulle,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,W,70-74,8:37.66,Peggy A Bruin,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,W,70-74,18:38.88,Kitty Vanden Brulle,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,70-74,1:09.60,Kitty Vanden Brulle,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,W,70-74,1:01.08,Mary Dehn,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Breaststroke,SCM,W,70-74,2:32.13,Peggy A Bruin,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,W,70-74,1:03.99,Peggy A Bruin,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,W,70-74,1:58.68,Mary Dehn,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,W,70-74,2:17.27,Peggy A Bruin,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,W,75-79,53.32,Ann E Hunt,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Freestyle,SCM,W,75-79,1:10.32,Ellen S Voss,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,W,75-79,2:27.69,Ellen S Voss,,28th Annual “Super” Swim Meet,2015,1
+MICH,800 M Freestyle,SCM,W,75-79,20:09.74,Ann E Hunt,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,75-79,54.37,Ann E Hunt,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,75-79,1:18.92,Ellen S Voss,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Backstroke,SCM,W,75-79,2:00.14,Ann E Hunt,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Backstroke,SCM,W,75-79,4:26.51,Ann E Hunt,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,W,75-79,1:46.90,Ellen S Voss,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,W,75-79,2:23.20,Laura J Gogola,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,W,80-84,1:16.21,Rita Gelman,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,W,80-84,1:25.54,Rita Gelman,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,W,80-84,1:34.95,Rita Gelman,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,18-24,25.87,Jesse M Knowles,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,18-24,27.13,Fares Ksebati,,2015 SCM Turkey Shoot,2015,2
+MICH,50 M Freestyle,SCM,M,18-24,27.58,Alexander M Pappas,,8th Annual Milford Meltdown,2015,3
+MICH,50 M Freestyle,SCM,M,18-24,28.52,Adam Oxner,,2015 SCM Turkey Shoot,2015,4
+MICH,50 M Freestyle,SCM,M,18-24,29.86,Kyle A Johnson,,28th Annual “Super” Swim Meet,2015,5
+MICH,50 M Freestyle,SCM,M,18-24,32.18,Carl J Elgin,,8th Annual Milford Meltdown,2015,6
+MICH,100 M Freestyle,SCM,M,18-24,57.43,Jesse M Knowles,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,18-24,1:03.90,Evan P Davis,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,18-24,1:07.07,Kyle A Johnson,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Freestyle,SCM,M,18-24,1:12.04,Carl J Elgin,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Freestyle,SCM,M,18-24,2:21.62,Evan P Davis,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,M,18-24,2:30.29,Kyle A Johnson,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,M,18-24,31.56,Jesse M Knowles,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,18-24,1:12.51,Jesse M Knowles,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,18-24,1:17.40,Luke Griffioen,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Breaststroke,SCM,M,18-24,33.79,Fares Ksebati,,2015 SCM Turkey Shoot,2015,1
+MICH,50 M Breaststroke,SCM,M,18-24,34.08,Adam Oxner,,2015 SCM Turkey Shoot,2015,2
+MICH,50 M Breaststroke,SCM,M,18-24,47.79,Carl J Elgin,,8th Annual Milford Meltdown,2015,3
+MICH,100 M Breaststroke,SCM,M,18-24,1:15.68,Tyler E Rutkowski,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,M,18-24,1:22.91,Evan P Davis,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Butterfly,SCM,M,18-24,27.13,Herman E Conner,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,18-24,30.58,Robert Garza,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Butterfly,SCM,M,18-24,31.32,Evan P Davis,,28th Annual “Super” Swim Meet,2015,3
+MICH,50 M Butterfly,SCM,M,18-24,32.31,Alexander M Pappas,,8th Annual Milford Meltdown,2015,4
+MICH,50 M Butterfly,SCM,M,18-24,36.91,Joseph C Manzella,,8th Annual Milford Meltdown,2015,5
+MICH,100 M Butterfly,SCM,M,18-24,1:08.08,Luke Griffioen,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,18-24,1:05.98,Herman E Conner,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,18-24,1:10.43,Adam Oxner,,2015 SCM Turkey Shoot,2015,2
+MICH,100 M Individual Medley,SCM,M,18-24,1:11.06,Fares Ksebati,,2015 SCM Turkey Shoot,2015,3
+MICH,100 M Individual Medley,SCM,M,18-24,1:15.58,Kyle A Johnson,,28th Annual “Super” Swim Meet,2015,4
+MICH,100 M Individual Medley,SCM,M,18-24,1:15.61,Robert Garza,,8th Annual Milford Meltdown,2015,5
+MICH,100 M Individual Medley,SCM,M,18-24,1:33.66,Carl J Elgin,,8th Annual Milford Meltdown,2015,6
+MICH,200 M Individual Medley,SCM,M,18-24,2:37.37,Tyler E Rutkowski,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Individual Medley,SCM,M,18-24,2:39.44,Luke Griffioen,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,25-29,1:02.80,William C Vann,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,M,25-29,2:20.44,William C Vann,,28th Annual “Super” Swim Meet,2015,1
+MICH,400 M Freestyle,SCM,M,25-29,5:08.32,William C Vann,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,25-29,1:19.71,William C Vann,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Freestyle,SCM,M,30-34,24.85,Kevin Doak,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Freestyle,SCM,M,30-34,32.19,Brad Chiasson,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,30-34,57.22,Kevin Doak,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Freestyle,SCM,M,30-34,1:14.04,Brad Chiasson,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,M,30-34,28.35,Kevin Doak,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,30-34,1:19.61,Adam V Chiasson,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,M,30-34,43.79,Adam V Chiasson,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Breaststroke,SCM,M,30-34,1:35.19,Adam V Chiasson,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Butterfly,SCM,M,30-34,26.79,Kevin Doak,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Butterfly,SCM,M,30-34,57.38,Christian Vanderkaay,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Butterfly,SCM,M,30-34,2:13.32,Christian Vanderkaay,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,30-34,1:03.44,Kevin Doak,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,30-34,1:26.96,Brad Chiasson,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Individual Medley,SCM,M,30-34,3:08.04,Adam V Chiasson,,28th Annual “Super” Swim Meet,2015,1
+MICH,400 M Individual Medley,SCM,M,30-34,4:49.92,Christian Vanderkaay,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,50 M Freestyle,SCM,M,35-39,25.32,Trevor Asti,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,35-39,48.94,Brice A Chase,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,35-39,1:16.48,Cedric Robaye,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,35-39,1:28.96,Sam C Calma,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Freestyle,SCM,M,35-39,1:55.16,Brice A Chase,,8th Annual Milford Meltdown,2015,3
+MICH,200 M Freestyle,SCM,M,35-39,2:05.52,Brad Rietema,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,35-39,2:14.89,Jeremy C Kennedy,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Freestyle,SCM,M,35-39,2:15.99,Alexander Meyer,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,M,35-39,3:24.83,Sam C Calma,,8th Annual Milford Meltdown,2015,4
+MICH,400 M Freestyle,SCM,M,35-39,4:35.44,Brad Rietema,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,M,35-39,4:43.46,Jeremy C Kennedy,,8th Annual Milford Meltdown,2015,2
+MICH,400 M Freestyle,SCM,M,35-39,7:53.23,Sam C Calma,,8th Annual Milford Meltdown,2015,3
+MICH,400 M Freestyle,SCM,M,35-39,8:22.75,Brice A Chase,,8th Annual Milford Meltdown,2015,4
+MICH,800 M Freestyle,SCM,M,35-39,9:47.98,Jeremy C Kennedy,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,M,35-39,16:02.59,Sam C Calma,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Backstroke,SCM,M,35-39,27.64,Ryan Papa,,2015 O*H*I*O Masters SCM Swim Meet - Hudson,2015,1
+MICH,50 M Backstroke,SCM,M,35-39,29.86,Trevor Asti,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Backstroke,SCM,M,35-39,59.82,Ryan Papa,,2015 O*H*I*O Masters SCM Swim Meet - Hudson,2015,1
+MICH,100 M Backstroke,SCM,M,35-39,2:18.27,Brice A Chase,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Backstroke,SCM,M,35-39,2:13.34,Ryan Papa,,2015 O*H*I*O Masters SCM Swim Meet - Hudson,2015,1
+MICH,50 M Breaststroke,SCM,M,35-39,33.29,Trevor Asti,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,M,35-39,39.47,Cedric Robaye,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Breaststroke,SCM,M,35-39,3:17.18,Cedric Robaye,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,35-39,29.00,Trevor Asti,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,35-39,30.96,Jeremy C Kennedy,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Butterfly,SCM,M,35-39,58.97,Brice A Chase,,8th Annual Milford Meltdown,2015,3
+MICH,100 M Butterfly,SCM,M,35-39,1:11.72,Alexander Meyer,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Butterfly,SCM,M,35-39,2:46.87,Alexander Meyer,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,35-39,1:58.49,Brice A Chase,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,40-44,2:19.12,Matthew R West,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,M,40-44,4:56.83,Matthew R West,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,M,40-44,10:02.48,Matthew R West,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,M,40-44,1:21.35,Chad L Steed,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,40-44,28.81,Chad L Steed,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,40-44,36.21,Matthew R West,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Butterfly,SCM,M,40-44,2:36.27,Chad L Steed,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,45-49,26.86,Jeff M Bailey,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,45-49,29.55,Kurt F Einhaus,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Freestyle,SCM,M,45-49,30.74,Patrick R Sturdy,,2015 Fall Miami Redfin Masters Meet,2015,3
+MICH,100 M Freestyle,SCM,M,45-49,58.66,Jeff M Bailey,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,45-49,1:07.06,Kurt F Einhaus,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,45-49,1:08.49,David M Kubicek,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,M,45-49,2:13.86,Jeff M Bailey,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,45-49,2:28.41,Patrick R Sturdy,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Freestyle,SCM,M,45-49,2:28.43,David M Kubicek,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,M,45-49,2:32.04,Kurt F Einhaus,,28th Annual “Super” Swim Meet,2015,4
+MICH,400 M Freestyle,SCM,M,45-49,5:10.99,Patrick R Sturdy,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,M,45-49,5:40.14,Michal Ovsjannikov,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Breaststroke,SCM,M,45-49,43.93,Mike Smith,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,M,45-49,44.95,John G Flynn,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Breaststroke,SCM,M,45-49,1:29.43,Patrick R Sturdy,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,M,45-49,1:44.01,John G Flynn,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Breaststroke,SCM,M,45-49,3:51.21,John G Flynn,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Butterfly,SCM,M,45-49,3:16.07,Patrick R Sturdy,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Butterfly,SCM,M,45-49,4:18.40,Mike Smith,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Individual Medley,SCM,M,45-49,1:17.25,David M Kubicek,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,45-49,1:31.27,Mike Smith,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Individual Medley,SCM,M,45-49,2:46.98,Patrick R Sturdy,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,400 M Individual Medley,SCM,M,45-49,7:35.17,Mike Smith,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,50-54,27.32,John M Cassidy,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,50-54,31.55,Tom A Melgar,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,M,50-54,32.48,Tom Welsh,,8th Annual Milford Meltdown,2015,3
+MICH,50 M Freestyle,SCM,M,50-54,34.83,James A Izzi,,2015 Fall Miami Redfin Masters Meet,2015,4
+MICH,100 M Freestyle,SCM,M,50-54,1:01.89,John M Cassidy,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,50-54,1:13.18,Tom Welsh,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Freestyle,SCM,M,50-54,1:17.67,James A Izzi,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Freestyle,SCM,M,50-54,1:35.14,George B Sveda,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Freestyle,SCM,M,50-54,2:19.14,Michael S Schuldinger,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,50-54,2:34.53,Steven Heaney,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Freestyle,SCM,M,50-54,2:37.97,Robert Sommerfeldt,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,M,50-54,2:54.85,Paul E Lundin,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Freestyle,SCM,M,50-54,3:06.04,Allen Magolan,,28th Annual “Super” Swim Meet,2015,5
+MICH,200 M Freestyle,SCM,M,50-54,3:12.21,George B Sveda,,8th Annual Milford Meltdown,2015,6
+MICH,400 M Freestyle,SCM,M,50-54,4:58.82,Michael S Schuldinger,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,M,50-54,12:53.58,James A Izzi,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,M,50-54,14:19.56,George B Sveda,,8th Annual Milford Meltdown,2015,2
+MICH,1500 M Freestyle,SCM,M,50-54,20:20.97,Keith Erickson,,28th Annual “Super” Swim Meet,2015,1
+MICH,1500 M Freestyle,SCM,M,50-54,21:49.84,Robert Sommerfeldt,,28th Annual “Super” Swim Meet,2015,2
+MICH,1500 M Freestyle,SCM,M,50-54,22:03.11,Andrew M Berger,,28th Annual “Super” Swim Meet,2015,3
+MICH,1500 M Freestyle,SCM,M,50-54,26:06.33,Allen Magolan,,28th Annual “Super” Swim Meet,2015,4
+MICH,50 M Backstroke,SCM,M,50-54,32.42,Louis E Probst,,2015 O*H*I*O Masters SCM Swim Meet - Hudson,2015,1
+MICH,50 M Backstroke,SCM,M,50-54,39.03,Bill Caldwell,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,M,50-54,42.06,Tom A Melgar,,8th Annual Milford Meltdown,2015,3
+MICH,50 M Backstroke,SCM,M,50-54,42.69,James A Izzi,,8th Annual Milford Meltdown,2015,4
+MICH,50 M Backstroke,SCM,M,50-54,54.27,George B Sveda,,8th Annual Milford Meltdown,2015,5
+MICH,100 M Backstroke,SCM,M,50-54,1:09.27,Louis E Probst,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Backstroke,SCM,M,50-54,1:12.34,John M Cassidy,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Backstroke,SCM,M,50-54,1:23.30,Bill Caldwell,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Backstroke,SCM,M,50-54,2:31.21,Louis E Probst,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Backstroke,SCM,M,50-54,3:23.09,James A Izzi,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Breaststroke,SCM,M,50-54,40.49,Tom A Melgar,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Breaststroke,SCM,M,50-54,3:32.82,Paul E Lundin,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,50-54,37.36,Tom A Melgar,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,50-54,37.54,Tom Welsh,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Butterfly,SCM,M,50-54,41.05,James A Izzi,,2015 Fall Miami Redfin Masters Meet,2015,3
+MICH,100 M Butterfly,SCM,M,50-54,1:26.12,Steven Heaney,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Butterfly,SCM,M,50-54,1:31.00,Tom Welsh,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Butterfly,SCM,M,50-54,1:37.61,James A Izzi,,2015 Fall Miami Redfin Masters Meet,2015,3
+MICH,200 M Butterfly,SCM,M,50-54,3:04.79,Steven Heaney,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Butterfly,SCM,M,50-54,3:41.95,James A Izzi,,2015 Fall Miami Redfin Masters Meet,2015,2
+MICH,100 M Individual Medley,SCM,M,50-54,1:21.40,Bill Caldwell,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,50-54,1:28.24,James A Izzi,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Individual Medley,SCM,M,50-54,1:32.35,Robert Sommerfeldt,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Individual Medley,SCM,M,50-54,2:43.09,Michael S Schuldinger,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Individual Medley,SCM,M,50-54,3:00.78,Bill Caldwell,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Individual Medley,SCM,M,50-54,3:19.69,James A Izzi,,2015 Fall Miami Redfin Masters Meet,2015,3
+MICH,400 M Individual Medley,SCM,M,50-54,5:56.67,Michael S Schuldinger,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Individual Medley,SCM,M,50-54,6:34.54,Steven Heaney,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,M,55-59,27.54,Jim H Pogue,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,55-59,37.96,David J Zaitchik,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Freestyle,SCM,M,55-59,39.50,Larry G Kaplan,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Freestyle,SCM,M,55-59,1:04.26,Daniel C Hood,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,55-59,1:14.99,Kenneth P Gutowski,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,55-59,1:29.26,Christopher M Summers,,8th Annual Milford Meltdown,2015,3
+MICH,100 M Freestyle,SCM,M,55-59,1:29.57,Larry G Kaplan,,28th Annual “Super” Swim Meet,2015,4
+MICH,100 M Freestyle,SCM,M,55-59,1:44.07,Scott Thorpe,,8th Annual Milford Meltdown,2015,5
+MICH,200 M Freestyle,SCM,M,55-59,2:36.66,Joe Aumiller,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,M,55-59,2:44.04,Kenneth P Gutowski,,28th Annual “Super” Swim Meet,2015,2
+MICH,200 M Freestyle,SCM,M,55-59,2:54.82,Olivier Lecerf,,28th Annual “Super” Swim Meet,2015,3
+MICH,200 M Freestyle,SCM,M,55-59,3:45.46,Scott Thorpe,,8th Annual Milford Meltdown,2015,4
+MICH,400 M Freestyle,SCM,M,55-59,6:54.00,Tim M Funk,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,M,55-59,7:19.32,Christopher M Summers,,8th Annual Milford Meltdown,2015,2
+MICH,800 M Freestyle,SCM,M,55-59,15:57.52,Scott Thorpe,,8th Annual Milford Meltdown,2015,1
+MICH,1500 M Freestyle,SCM,M,55-59,22:09.86,Kenneth P Gutowski,,28th Annual “Super” Swim Meet,2015,1
+MICH,1500 M Freestyle,SCM,M,55-59,25:10.25,Olivier Lecerf,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,M,55-59,34.18,Jim H Pogue,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,M,55-59,37.02,Clay Putnam,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Backstroke,SCM,M,55-59,1:20.60,Clay Putnam,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Backstroke,SCM,M,55-59,1:28.34,Tim M Funk,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Backstroke,SCM,M,55-59,3:13.47,Tim M Funk,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,M,55-59,47.87,Olivier Lecerf,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,M,55-59,48.48,Larry G Kaplan,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Breaststroke,SCM,M,55-59,48.52,David J Zaitchik,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Breaststroke,SCM,M,55-59,1:46.08,Larry G Kaplan,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Butterfly,SCM,M,55-59,29.30,Jim H Pogue,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,55-59,39.49,Joe Aumiller,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Butterfly,SCM,M,55-59,1:10.58,Jim H Pogue,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,55-59,1:13.69,Daniel C Hood,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,55-59,1:25.12,Clay Putnam,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Individual Medley,SCM,M,55-59,1:26.50,Joe Aumiller,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Individual Medley,SCM,M,55-59,1:40.68,Olivier Lecerf,,28th Annual “Super” Swim Meet,2015,4
+MICH,100 M Individual Medley,SCM,M,55-59,1:46.68,Christopher M Summers,,8th Annual Milford Meltdown,2015,5
+MICH,200 M Individual Medley,SCM,M,55-59,3:08.07,Joe Aumiller,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Individual Medley,SCM,M,55-59,3:35.11,Tim M Funk,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,M,60-64,28.17,Dennis J Toth,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,50 M Freestyle,SCM,M,60-64,31.74,Jim Shirey,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Freestyle,SCM,M,60-64,33.49,Jim Stein,,28th Annual “Super” Swim Meet,2015,3
+MICH,50 M Freestyle,SCM,M,60-64,34.04,David P Grunewald,,28th Annual “Super” Swim Meet,2015,4
+MICH,50 M Freestyle,SCM,M,60-64,37.52,Bruce B Wyman,,28th Annual “Super” Swim Meet,2015,5
+MICH,50 M Freestyle,SCM,M,60-64,41.91,Paul C Wright,,28th Annual “Super” Swim Meet,2015,6
+MICH,50 M Freestyle,SCM,M,60-64,44.45,James P Deren,,8th Annual Milford Meltdown,2015,7
+MICH,100 M Freestyle,SCM,M,60-64,1:05.33,Dennis J Toth,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,100 M Freestyle,SCM,M,60-64,1:17.43,Jim Shirey,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Freestyle,SCM,M,60-64,1:21.04,Jim Stein,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Freestyle,SCM,M,60-64,1:21.75,David P Grunewald,,28th Annual “Super” Swim Meet,2015,4
+MICH,100 M Freestyle,SCM,M,60-64,1:24.60,Bruce B Wyman,,28th Annual “Super” Swim Meet,2015,5
+MICH,100 M Freestyle,SCM,M,60-64,1:37.70,James P Deren,,8th Annual Milford Meltdown,2015,6
+MICH,200 M Freestyle,SCM,M,60-64,3:13.36,Bruce B Wyman,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Freestyle,SCM,M,60-64,3:13.78,Charles M Wallin,,8th Annual Milford Meltdown,2015,2
+MICH,400 M Freestyle,SCM,M,60-64,5:40.61,Dennis J Toth,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,800 M Freestyle,SCM,M,60-64,16:36.69,James P Deren,,8th Annual Milford Meltdown,2015,1
+MICH,1500 M Freestyle,SCM,M,60-64,29:48.77,Paul C Wright,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Backstroke,SCM,M,60-64,37.49,Frank L Thompson,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,M,60-64,44.76,David P Grunewald,,28th Annual “Super” Swim Meet,2015,2
+MICH,50 M Backstroke,SCM,M,60-64,45.66,Bruce B Wyman,,28th Annual “Super” Swim Meet,2015,3
+MICH,50 M Backstroke,SCM,M,60-64,47.36,Jim Stein,,28th Annual “Super” Swim Meet,2015,4
+MICH,50 M Backstroke,SCM,M,60-64,58.35,James P Deren,,8th Annual Milford Meltdown,2015,5
+MICH,100 M Backstroke,SCM,M,60-64,1:25.58,Frank L Thompson,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,200 M Backstroke,SCM,M,60-64,2:57.98,Frank L Thompson,,2015 Fall Miami Redfin Masters Meet,2015,1
+MICH,50 M Breaststroke,SCM,M,60-64,33.54,Randy J Parker,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,M,60-64,37.10,Dennis J Toth,,2015 Fall Miami Redfin Masters Meet,2015,2
+MICH,50 M Breaststroke,SCM,M,60-64,44.16,Michael J Morrow,,8th Annual Milford Meltdown,2015,3
+MICH,50 M Breaststroke,SCM,M,60-64,49.31,Paul C Wright,,28th Annual “Super” Swim Meet,2015,4
+MICH,100 M Breaststroke,SCM,M,60-64,1:14.56,Randy J Parker,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Breaststroke,SCM,M,60-64,1:39.75,Michael J Morrow,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Breaststroke,SCM,M,60-64,3:38.90,Michael J Morrow,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,60-64,31.39,Randy J Parker,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,60-64,37.24,Jim Shirey,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Butterfly,SCM,M,60-64,38.75,Frank L Thompson,,2015 Fall Miami Redfin Masters Meet,2015,3
+MICH,50 M Butterfly,SCM,M,60-64,1:06.57,Paul C Wright,,28th Annual “Super” Swim Meet,2015,4
+MICH,200 M Butterfly,SCM,M,60-64,7:51.78,David J Forgione,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,60-64,1:26.76,Jim Shirey,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,60-64,1:29.70,Jim Stein,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Individual Medley,SCM,M,60-64,1:37.47,David P Grunewald,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Individual Medley,SCM,M,60-64,2:50.44,David J Forgione,,8th Annual Milford Meltdown,2015,4
+MICH,200 M Individual Medley,SCM,M,60-64,6:03.91,David J Forgione,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Individual Medley,SCM,M,60-64,12:32.56,David J Forgione,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,65-69,30.77,Bill Palmer,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,65-69,32.64,Jack Colliton,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,M,65-69,33.51,Kelly C Revenaugh,,8th Annual Milford Meltdown,2015,3
+MICH,50 M Freestyle,SCM,M,65-69,38.99,Erich C Mehnert,,28th Annual “Super” Swim Meet,2015,4
+MICH,100 M Freestyle,SCM,M,65-69,1:08.73,Leonard J Brockhahn,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,65-69,2:32.83,Leonard J Brockhahn,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,65-69,3:21.89,Tom Scallen,,28th Annual “Super” Swim Meet,2015,2
+MICH,400 M Freestyle,SCM,M,65-69,5:32.85,Leonard J Brockhahn,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,M,65-69,6:52.58,Tom Scallen,,28th Annual “Super” Swim Meet,2015,2
+MICH,1500 M Freestyle,SCM,M,65-69,27:04.39,Tom Scallen,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Backstroke,SCM,M,65-69,38.72,Kelly C Revenaugh,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,M,65-69,40.69,Bill Palmer,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Backstroke,SCM,M,65-69,1:45.60,Tom Scallen,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Breaststroke,SCM,M,65-69,43.39,Bill Palmer,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,M,65-69,44.58,Jack Colliton,,8th Annual Milford Meltdown,2015,2
+MICH,100 M Breaststroke,SCM,M,65-69,1:40.77,Jack Colliton,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,65-69,34.80,Bill Palmer,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,70-74,37.55,Donald J Kroeger,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,70-74,37.62,Thomas Neal,,8th Annual Milford Meltdown,2015,2
+MICH,50 M Freestyle,SCM,M,70-74,40.87,William L Porter,,28th Annual “Super” Swim Meet,2015,3
+MICH,100 M Freestyle,SCM,M,70-74,1:17.02,Erik Lokensgard,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,70-74,1:33.06,Donald J Kroeger,,28th Annual “Super” Swim Meet,2015,2
+MICH,100 M Freestyle,SCM,M,70-74,2:14.09,Thomas Neal,,8th Annual Milford Meltdown,2015,3
+MICH,200 M Freestyle,SCM,M,70-74,3:32.90,Donald J Kroeger,,8th Annual Milford Meltdown,2015,1
+MICH,400 M Freestyle,SCM,M,70-74,7:11.96,Donald J Kroeger,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Backstroke,SCM,M,70-74,45.37,Thomas Neal,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,70-74,1:44.67,Thomas Neal,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Backstroke,SCM,M,70-74,3:49.88,Thomas Neal,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,M,70-74,43.99,William L Porter,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Breaststroke,SCM,M,70-74,4:04.43,Donald J Kroeger,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Butterfly,SCM,M,70-74,49.55,William L Porter,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Individual Medley,SCM,M,70-74,1:58.00,Donald J Kroeger,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Individual Medley,SCM,M,70-74,4:12.44,Donald J Kroeger,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,75-79,44.80,Edward J Giroux,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,75-79,1:36.63,Edward J Giroux,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,75-79,3:36.22,Edward J Giroux,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,75-79,3:37.16,Carl T Woolley,,8th Annual Milford Meltdown,2015,2
+MICH,400 M Freestyle,SCM,M,75-79,7:28.86,Carl T Woolley,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,M,75-79,14:33.47,Carl T Woolley,,8th Annual Milford Meltdown,2015,1
+MICH,800 M Freestyle,SCM,M,75-79,15:46.92,Edward J Giroux,,8th Annual Milford Meltdown,2015,2
+MICH,1500 M Freestyle,SCM,M,75-79,26:53.43,Ray G Martin,,28th Annual “Super” Swim Meet,2015,1
+MICH,50 M Backstroke,SCM,M,75-79,45.92,Richard Han,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,75-79,1:34.07,Ray G Martin,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,75-79,1:42.24,Richard Han,,8th Annual Milford Meltdown,2015,2
+MICH,200 M Backstroke,SCM,M,75-79,3:44.49,Richard Han,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Breaststroke,SCM,M,75-79,1:49.89,Ray G Martin,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Breaststroke,SCM,M,75-79,4:12.04,Ray G Martin,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,80-84,1:28.46,Joel M Lockwood,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Backstroke,SCM,M,80-84,1:54.64,Joel M Lockwood,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Backstroke,SCM,M,80-84,3:59.80,Joel M Lockwood,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,80-84,1:44.25,Joel M Lockwood,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Freestyle,SCM,M,90-94,1:06.49,Robert R Doud,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Freestyle,SCM,M,90-94,2:40.26,Robert R Doud,,8th Annual Milford Meltdown,2015,1
+MICH,200 M Freestyle,SCM,M,90-94,5:59.21,Robert R Doud,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Breaststroke,SCM,M,90-94,1:49.21,Robert R Doud,,8th Annual Milford Meltdown,2015,1
+MICH,50 M Butterfly,SCM,M,90-94,1:48.05,Robert R Doud,,28th Annual “Super” Swim Meet,2015,1
+MICH,100 M Butterfly,SCM,M,90-94,4:38.95,Robert R Doud,,28th Annual “Super” Swim Meet,2015,1
+MICH,200 M Butterfly,SCM,M,90-94,9:42.02,Robert R Doud,,8th Annual Milford Meltdown,2015,1
+MICH,100 M Individual Medley,SCM,M,90-94,3:48.47,Robert R Doud,,28th Annual “Super” Swim Meet,2015,1
+UC19,200 M Freestyle,SCM,M,35-39,2:20.64,Jacob H Bahl,,8th Annual Milford Meltdown,2015,1
+UC19,100 M Breaststroke,SCM,M,35-39,1:21.08,Jacob H Bahl,,8th Annual Milford Meltdown,2015,1
+UC19,50 M Butterfly,SCM,M,35-39,31.85,Jacob H Bahl,,8th Annual Milford Meltdown,2015,1
