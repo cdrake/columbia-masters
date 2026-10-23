@@ -1,0 +1,186 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+BTAC,100 Y Freestyle,SCY,W,35-39,1:28.88,Kristen Peterson,,Keep it Short,2022,1
+BTAC,100 Y Backstroke,SCY,W,35-39,1:34.55,Kristen Peterson,,Keep it Short,2022,1
+BTAC,50 Y Breaststroke,SCY,W,35-39,47.96,Kristen Peterson,,Keep it Short,2022,1
+BTAC,100 Y Individual Medley,SCY,W,35-39,1:32.79,Kristen Peterson,,Keep it Short,2022,1
+BTAC,100 Y Freestyle,SCY,M,25-29,1:05.62,James V Ahlgren,,Keep it Short,2022,1
+BTAC,200 Y Freestyle,SCY,M,25-29,2:06.92,James V Ahlgren,,Keep it Short,2022,1
+BTAC,50 Y Butterfly,SCY,M,25-29,26.89,James V Ahlgren,,Keep it Short,2022,1
+BTAC,100 Y Butterfly,SCY,M,25-29,1:01.88,James V Ahlgren,,Keep it Short,2022,1
+BTAC,200 Y Individual Medley,SCY,M,25-29,2:37.29,James V Ahlgren,,Keep it Short,2022,1
+BTAC,100 Y Freestyle,SCY,M,40-44,1:00.59,Lowell C Wallace III,,Keep it Short,2022,1
+BTAC,50 Y Breaststroke,SCY,M,40-44,34.95,Lowell C Wallace III,,Keep it Short,2022,1
+BTAC,100 Y Breaststroke,SCY,M,40-44,1:17.20,Lowell C Wallace III,,Keep it Short,2022,1
+BTAC,100 Y Individual Medley,SCY,M,40-44,1:07.85,Lowell C Wallace III,,Keep it Short,2022,1
+BTAC,100 Y Backstroke,SCY,M,50-54,1:27.85,Jed Parry,,Keep it Short,2022,1
+BTAC,100 Y Individual Medley,SCY,M,50-54,1:19.09,Jed Parry,,Keep it Short,2022,1
+CGCC,50 Y Freestyle,SCY,W,40-44,27.31,Jamie L Gustafson,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Freestyle,SCY,W,40-44,32.77,Kristin M Prusmack,,Keep it Short,2022,2
+CGCC,100 Y Freestyle,SCY,W,40-44,1:01.12,Jamie L Gustafson,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,200 Y Freestyle,SCY,W,40-44,2:14.61,Jamie L Gustafson,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,500 Y Freestyle,SCY,W,40-44,6:05.64,Jamie L Gustafson,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Breaststroke,SCY,W,40-44,39.84,Kristin M Prusmack,,Keep it Short,2022,1
+CGCC,50 Y Butterfly,SCY,W,40-44,31.04,Jamie L Gustafson,,Keep it Short,2022,1
+CGCC,100 Y Individual Medley,SCY,W,40-44,1:11.93,Jamie L Gustafson,,Keep it Short,2022,1
+CGCC,100 Y Individual Medley,SCY,W,40-44,1:21.29,Kristin M Prusmack,,Keep it Short,2022,2
+CGCC,50 Y Freestyle,SCY,W,60-64,29.50,Barb Edgar,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+CGCC,100 Y Freestyle,SCY,W,60-64,1:06.19,Barb Edgar,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+CGCC,50 Y Backstroke,SCY,W,60-64,35.68,Barb Edgar,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+CGCC,100 Y Backstroke,SCY,W,60-64,1:16.21,Barb Edgar,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+CGCC,50 Y Breaststroke,SCY,W,60-64,40.22,Barb Edgar,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+CGCC,100 Y Individual Medley,SCY,W,60-64,1:16.19,Barb Edgar,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+CGCC,50 Y Freestyle,SCY,W,65-69,53.32,Claire Bushong,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+CGCC,50 Y Freestyle,SCY,W,65-69,1:05.44,Dianna L Carda,,December Splash,2022,2
+CGCC,100 Y Freestyle,SCY,W,65-69,2:25.28,Dianna L Carda,,Keep it Short,2022,1
+CGCC,50 Y Backstroke,SCY,W,65-69,1:07.11,Claire Bushong,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+CGCC,50 Y Backstroke,SCY,W,65-69,1:12.12,Dianna L Carda,,Summer Iowa Senior Games Swim Meet,2022,2
+CGCC,100 Y Backstroke,SCY,W,65-69,2:29.75,Dianna L Carda,,Keep it Short,2022,1
+CGCC,200 Y Backstroke,SCY,W,65-69,5:11.99,Dianna L Carda,,December Splash,2022,1
+CGCC,50 Y Breaststroke,SCY,W,65-69,1:21.86,Dianna L Carda,,Summer Iowa Senior Games Swim Meet,2022,1
+CGCC,50 Y Butterfly,SCY,W,65-69,1:16.16,Dianna L Carda,,December Splash,2022,1
+CGCC,100 Y Butterfly,SCY,W,65-69,2:47.59,Dianna L Carda,,Keep it Short,2022,1
+CGCC,200 Y Butterfly,SCY,W,65-69,6:53.32,Dianna L Carda,,Summer Iowa Senior Games Swim Meet,2022,1
+CGCC,100 Y Individual Medley,SCY,W,65-69,2:26.52,Claire Bushong,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+CGCC,200 Y Individual Medley,SCY,W,65-69,5:26.47,Dianna L Carda,,Summer Iowa Senior Games Swim Meet,2022,1
+CGCC,50 Y Freestyle,SCY,W,70-74,49.74,Claire Bushong,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Freestyle,SCY,W,70-74,1:04.21,Jan L Sedivy,,December Splash,2022,2
+CGCC,100 Y Freestyle,SCY,W,70-74,1:49.14,Claire Bushong,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Backstroke,SCY,W,70-74,1:06.20,Jan L Sedivy,,Keep it Short,2022,1
+CGCC,100 Y Backstroke,SCY,W,70-74,2:24.65,Jan L Sedivy,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Breaststroke,SCY,W,70-74,1:08.28,Claire Bushong,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Breaststroke,SCY,W,70-74,1:13.87,Jan L Sedivy,,2022 Iowa Masters Short Course State Championship,2022,2
+CGCC,100 Y Breaststroke,SCY,W,70-74,2:36.83,Jan L Sedivy,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,100 Y Individual Medley,SCY,W,70-74,2:19.82,Claire Bushong,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,100 Y Freestyle,SCY,M,18-24,54.91,Andy D Vasquez,,December Splash,2022,1
+CGCC,500 Y Freestyle,SCY,M,18-24,5:24.64,Andy D Vasquez,,December Splash,2022,1
+CGCC,1000 Y Freestyle,SCY,M,18-24,11:15.71,Andy D Vasquez,,Minnesota Masters 2022 SCY State Meet,2022,1
+CGCC,1650 Y Freestyle,SCY,M,18-24,18:31.84,Andy D Vasquez,,Minnesota Masters 2022 SCY State Meet,2022,1
+CGCC,50 Y Breaststroke,SCY,M,18-24,30.72,Andy D Vasquez,,Minnesota Masters 2022 SCY State Meet,2022,1
+CGCC,100 Y Breaststroke,SCY,M,18-24,1:09.97,Andy D Vasquez,,Keep it Short,2022,1
+CGCC,200 Y Breaststroke,SCY,M,18-24,2:28.50,Andy D Vasquez,,December Splash,2022,1
+CGCC,200 Y Butterfly,SCY,M,18-24,2:11.31,Andy D Vasquez,,Minnesota Masters 2022 SCY State Meet,2022,1
+CGCC,100 Y Individual Medley,SCY,M,18-24,1:01.77,Andy D Vasquez,,Keep it Short,2022,1
+CGCC,200 Y Individual Medley,SCY,M,18-24,2:16.86,Andy D Vasquez,,Keep it Short,2022,1
+CGCC,50 Y Freestyle,SCY,M,40-44,27.24,Michael Hansbrough,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,100 Y Freestyle,SCY,M,40-44,1:00.08,Michael Hansbrough,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,200 Y Freestyle,SCY,M,40-44,2:16.24,Michael Hansbrough,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,1650 Y Freestyle,SCY,M,40-44,21:36.37,Michael Hansbrough,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Freestyle,SCY,M,45-49,32.04,Benjamin J Kramer,,Keep it Short,2022,1
+CGCC,50 Y Breaststroke,SCY,M,45-49,44.91,Benjamin J Kramer,,Keep it Short,2022,1
+CGCC,100 Y Individual Medley,SCY,M,45-49,1:24.34,Benjamin J Kramer,,Keep it Short,2022,1
+CGCC,50 Y Freestyle,SCY,M,60-64,26.09,Dave Wells,,Summer Iowa Senior Games Swim Meet,2022,1
+CGCC,100 Y Freestyle,SCY,M,60-64,58.82,Dave Wells,,Summer Iowa Senior Games Swim Meet,2022,1
+CGCC,200 Y Freestyle,SCY,M,60-64,2:13.07,Dave Wells,,Keep it Short,2022,1
+CGCC,500 Y Freestyle,SCY,M,60-64,5:58.14,Dave Wells,,December Splash,2022,1
+CGCC,1000 Y Freestyle,SCY,M,60-64,12:39.10,Dave Wells,,December Splash,2022,1
+CGCC,1650 Y Freestyle,SCY,M,60-64,21:04.52,Dave Wells,,2022 Iowa Masters Short Course State Championship,2022,1
+CGCC,50 Y Breaststroke,SCY,M,60-64,34.38,Dave Wells,,Minnesota Masters 2022 SCY State Meet,2022,1
+CGCC,50 Y Freestyle,SCY,M,65-69,29.39,John G Kraemer,,December Splash,2022,1
+CGCC,100 Y Freestyle,SCY,M,65-69,1:12.70,John G Kraemer,,December Splash,2022,1
+CGCC,50 Y Butterfly,SCY,M,65-69,39.65,John G Kraemer,,December Splash,2022,1
+CGCC,50 Y Freestyle,SCY,M,70-74,33.54,Ralph A Bradley,,Keep it Short,2022,1
+CGCC,50 Y Breaststroke,SCY,M,70-74,49.19,Rolly D Kleeman,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+CGCC,100 Y Individual Medley,SCY,M,70-74,1:50.43,Rolly D Kleeman,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+FASTM,500 Y Freestyle,SCY,W,60-64,10:06.72,Cathy J Ross,,December Splash,2022,1
+FASTM,50 Y Backstroke,SCY,W,60-64,47.40,Cathy J Ross,,December Splash,2022,1
+LMAO,100 Y Breaststroke,SCY,W,30-34,1:25.66,Mercy  L Manzanares,,December Splash,2022,1
+LMAO,200 Y Breaststroke,SCY,W,30-34,3:03.17,Mercy  L Manzanares,,December Splash,2022,1
+LMAO,100 Y Individual Medley,SCY,W,30-34,1:19.69,Mercy  L Manzanares,,December Splash,2022,1
+LMAO,200 Y Individual Medley,SCY,W,30-34,2:49.91,Mercy  L Manzanares,,December Splash,2022,1
+LMAO,50 Y Breaststroke,SCY,W,35-39,33.12,Blair A Bagley,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,100 Y Breaststroke,SCY,W,35-39,1:14.97,Blair A Bagley,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,50 Y Butterfly,SCY,W,35-39,30.18,Blair A Bagley,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,100 Y Individual Medley,SCY,W,35-39,1:09.06,Blair A Bagley,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,500 Y Freestyle,SCY,W,45-49,6:21.24,Becky W Mantonya,,December Splash,2022,1
+LMAO,1000 Y Freestyle,SCY,W,45-49,13:16.66,Becky W Mantonya,,December Splash,2022,1
+LMAO,50 Y Backstroke,SCY,W,45-49,36.49,Becky W Mantonya,,Keep it Short,2022,1
+LMAO,100 Y Backstroke,SCY,W,45-49,1:24.14,Becky W Mantonya,,December Splash,2022,1
+LMAO,200 Y Backstroke,SCY,W,45-49,2:58.04,Becky W Mantonya,,December Splash,2022,1
+LMAO,50 Y Breaststroke,SCY,W,45-49,38.65,Becky W Mantonya,,December Splash,2022,1
+LMAO,50 Y Butterfly,SCY,W,45-49,31.88,Becky W Mantonya,,Keep it Short,2022,1
+LMAO,100 Y Individual Medley,SCY,W,45-49,1:14.02,Becky W Mantonya,,December Splash,2022,1
+LMAO,200 Y Individual Medley,SCY,W,45-49,2:45.96,Becky W Mantonya,,Keep it Short,2022,1
+LMAO,50 Y Freestyle,SCY,W,55-59,32.78,Sharill L Prey-Luedtke,,Keep it Short,2022,1
+LMAO,200 Y Freestyle,SCY,W,55-59,2:21.12,Sharill L Prey-Luedtke,,December Splash,2022,1
+LMAO,500 Y Freestyle,SCY,W,55-59,6:13.40,Sharill L Prey-Luedtke,,December Splash,2022,1
+LMAO,1000 Y Freestyle,SCY,W,55-59,12:50.55,Sharill L Prey-Luedtke,,December Splash,2022,1
+LMAO,50 Y Backstroke,SCY,W,55-59,34.96,Sharill L Prey-Luedtke,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,100 Y Backstroke,SCY,W,55-59,1:13.35,Sharill L Prey-Luedtke,,December Splash,2022,1
+LMAO,200 Y Backstroke,SCY,W,55-59,2:32.88,Sharill L Prey-Luedtke,,December Splash,2022,1
+LMAO,100 Y Breaststroke,SCY,W,55-59,1:32.34,Sharill L Prey-Luedtke,,Keep it Short,2022,1
+LMAO,200 Y Breaststroke,SCY,W,55-59,3:16.79,Sharill L Prey-Luedtke,,Summer Iowa Senior Games Swim Meet,2022,1
+LMAO,50 Y Butterfly,SCY,W,55-59,38.72,Sharill L Prey-Luedtke,,Keep it Short,2022,1
+LMAO,200 Y Butterfly,SCY,W,55-59,3:08.08,Sharill L Prey-Luedtke,,Summer Iowa Senior Games Swim Meet,2022,1
+LMAO,100 Y Individual Medley,SCY,W,55-59,1:17.50,Sharill L Prey-Luedtke,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,400 Y Individual Medley,SCY,W,55-59,5:54.50,Sharill L Prey-Luedtke,,Summer Iowa Senior Games Swim Meet,2022,1
+LMAO,50 Y Freestyle,SCY,M,25-29,25.16,Tony M Rublaitus,,December Splash,2022,1
+LMAO,100 Y Freestyle,SCY,M,25-29,53.83,Tony M Rublaitus,,December Splash,2022,1
+LMAO,200 Y Freestyle,SCY,M,25-29,2:11.69,Tony M Rublaitus,,December Splash,2022,1
+LMAO,50 Y Freestyle,SCY,M,60-64,32.34,Duane J Hugo,,12th Annual Gladstone Masters Meet,2022,1
+LMAO,100 Y Freestyle,SCY,M,60-64,1:11.62,Duane J Hugo,,12th Annual Gladstone Masters Meet,2022,1
+LMAO,200 Y Freestyle,SCY,M,60-64,2:43.67,Duane J Hugo,,12th Annual Gladstone Masters Meet,2022,1
+LMAO,50 Y Backstroke,SCY,M,60-64,43.70,Duane J Hugo,,12th Annual Gladstone Masters Meet,2022,1
+LMAO,50 Y Freestyle,SCY,M,70-74,52.68,Robert Becker,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,50 Y Backstroke,SCY,M,70-74,57.30,Robert Becker,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,100 Y Backstroke,SCY,M,70-74,2:08.36,Robert Becker,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+LMAO,50 Y Breaststroke,SCY,M,70-74,1:02.26,Robert Becker,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+OMAH,50 Y Freestyle,SCY,W,18-24,28.12,Allison L Marks,,Summer Iowa Games,2022,1
+OMAH,100 Y Freestyle,SCY,W,18-24,1:02.54,Allison L Marks,,Summer Iowa Games,2022,1
+OMAH,50 Y Breaststroke,SCY,W,18-24,34.13,Allison L Marks,,Summer Iowa Games,2022,1
+OMAH,100 Y Breaststroke,SCY,W,18-24,1:14.90,Allison L Marks,,Summer Iowa Games,2022,1
+OMAH,100 Y Individual Medley,SCY,W,18-24,1:14.29,Allison L Marks,,December Splash,2022,1
+OMAH,50 Y Freestyle,SCY,W,25-29,25.73,Cassie M Jahn,,December Splash,2022,1
+OMAH,100 Y Freestyle,SCY,W,25-29,57.36,Cassie M Jahn,,December Splash,2022,1
+OMAH,200 Y Freestyle,SCY,W,25-29,2:07.22,Cassie M Jahn,,December Splash,2022,1
+OMAH,100 Y Breaststroke,SCY,W,25-29,1:22.26,Cassie M Jahn,,December Splash,2022,1
+OMAH,50 Y Butterfly,SCY,W,25-29,29.48,Cassie M Jahn,,December Splash,2022,1
+OMAH,50 Y Freestyle,SCY,M,45-49,29.24,Jason Howell,,December Splash,2022,1
+OMAH,100 Y Freestyle,SCY,M,45-49,1:05.62,Jason Howell,,December Splash,2022,1
+OMAH,50 Y Backstroke,SCY,M,45-49,37.67,Jason Howell,,December Splash,2022,1
+OMAH,50 Y Breaststroke,SCY,M,45-49,34.63,Jason Howell,,December Splash,2022,1
+OMAH,100 Y Breaststroke,SCY,M,45-49,1:21.81,Jason Howell,,December Splash,2022,1
+UC29,50 Y Freestyle,SCY,W,18-24,29.28,Addison L Peitz,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,50 Y Backstroke,SCY,W,18-24,35.35,Addison L Peitz,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,50 Y Breaststroke,SCY,W,18-24,39.64,Addison L Peitz,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,50 Y Butterfly,SCY,W,18-24,31.51,Addison L Peitz,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,400 Y Individual Medley,SCY,W,18-24,5:54.39,Addison L Peitz,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,50 Y Freestyle,SCY,W,40-44,31.70,Amy E St.Cyr,,Keep it Short,2022,1
+UC29,100 Y Freestyle,SCY,W,40-44,1:08.47,Amy E St.Cyr,,December Splash,2022,1
+UC29,100 Y Backstroke,SCY,W,40-44,1:26.74,Amy E St.Cyr,,December Splash,2022,1
+UC29,100 Y Breaststroke,SCY,W,40-44,1:33.34,Amy E St.Cyr,,Keep it Short,2022,1
+UC29,50 Y Butterfly,SCY,W,40-44,33.86,Amy E St.Cyr,,December Splash,2022,1
+UC29,100 Y Individual Medley,SCY,W,40-44,1:18.64,Amy E St.Cyr,,Keep it Short,2022,1
+UC29,500 Y Freestyle,SCY,W,45-49,6:14.32,Miranda S Long,,December Splash,2022,1
+UC29,100 Y Backstroke,SCY,W,45-49,1:14.87,Miranda S Long,,December Splash,2022,1
+UC29,200 Y Backstroke,SCY,W,45-49,2:38.65,Miranda S Long,,December Splash,2022,1
+UC29,50 Y Breaststroke,SCY,W,45-49,37.48,Miranda S Long,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,100 Y Breaststroke,SCY,W,45-49,1:21.66,Miranda S Long,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,100 Y Individual Medley,SCY,W,45-49,1:12.71,Miranda S Long,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,100 Y Butterfly,SCY,M,18-24,1:02.60,Christopher  E Grunke,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,50 Y Freestyle,SCY,M,35-39,29.45,Drake Sauer,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,100 Y Freestyle,SCY,M,35-39,1:06.25,Drake Sauer,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,50 Y Freestyle,SCY,M,40-44,26.99,Michael C Hansbrough,,December Splash,2022,1
+UC29,100 Y Freestyle,SCY,M,40-44,1:01.10,Michael C Hansbrough,,December Splash,2022,1
+UC29,200 Y Freestyle,SCY,M,40-44,2:18.03,Michael C Hansbrough,,December Splash,2022,1
+UC29,500 Y Freestyle,SCY,M,40-44,6:17.45,Michael C Hansbrough,,December Splash,2022,1
+UC29,1000 Y Freestyle,SCY,M,40-44,13:03.10,Michael C Hansbrough,,December Splash,2022,1
+UC29,50 Y Freestyle,SCY,M,55-59,26.65,Michael S Hein,,Sweetheart Swim 2022,2022,1
+UC29,100 Y Freestyle,SCY,M,55-59,49.86,Mike Irvin,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,100 Y Freestyle,SCY,M,55-59,1:00.39,Michael S Hein,,Keep it Short,2022,2
+UC29,50 Y Backstroke,SCY,M,55-59,25.96,Mike Irvin,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,50 Y Backstroke,SCY,M,55-59,35.03,Michael S Hein,,Keep it Short,2022,2
+UC29,100 Y Backstroke,SCY,M,55-59,54.51,Mike Irvin,,2022 MW Midwestern Short Course Championship,2022,1
+UC29,100 Y Backstroke,SCY,M,55-59,1:15.46,Michael S Hein,,Keep it Short,2022,2
+UC29,200 Y Backstroke,SCY,M,55-59,2:01.53,Mike Irvin,,2022 MW Midwestern Short Course Championship,2022,1
+UC29,50 Y Breaststroke,SCY,M,55-59,36.13,Michael S Hein,,Sweetheart Swim 2022,2022,1
+UC29,50 Y Butterfly,SCY,M,55-59,24.41,Mike Irvin,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,100 Y Butterfly,SCY,M,55-59,55.03,Mike Irvin,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,100 Y Individual Medley,SCY,M,55-59,55.71,Mike Irvin,,2022 U.S. Masters Swimming Spring National Championship,2022,1
+UC29,100 Y Individual Medley,SCY,M,55-59,1:12.35,Michael S Hein,,Sweetheart Swim 2022,2022,2
+UC29,200 Y Individual Medley,SCY,M,55-59,2:00.44,Mike Irvin,,2022 MW Midwestern Short Course Championship,2022,1
+UC29,100 Y Freestyle,SCY,M,60-64,1:16.01,Douglas Law,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,50 Y Breaststroke,SCY,M,60-64,40.97,Douglas Law,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,100 Y Breaststroke,SCY,M,60-64,1:30.57,Douglas Law,,2021 Cornhusker State Games Masters Swim Meet,2022,1
+UC29,50 Y Freestyle,SCY,M,65-69,34.20,Tracy J Connor,,Keep it Short,2022,1
+UC29,50 Y Breaststroke,SCY,M,65-69,40.18,Tracy J Connor,,Keep it Short,2022,1
+UC29,100 Y Breaststroke,SCY,M,65-69,1:33.55,Tracy J Connor,,Keep it Short,2022,1
