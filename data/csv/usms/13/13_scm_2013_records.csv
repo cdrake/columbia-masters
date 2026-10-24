@@ -1,0 +1,431 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+NCMS,50 M Freestyle,SCM,W,25-29,33.86,Leah C Swisher,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,W,25-29,1:14.80,Leah C Swisher,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,W,30-34,26.41,Ruth N Jones,,21st Annual Albatross Open,2013,1
+NCMS,50 M Freestyle,SCM,W,30-34,34.25,Noelle M Donovan,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,W,30-34,39.65,Alissa Gallagher,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,W,30-34,58.56,Ruth N Jones,,21st Annual Albatross Open,2013,1
+NCMS,100 M Freestyle,SCM,W,30-34,1:17.46,Meri L Amweg,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,W,30-34,1:17.60,Noelle M Donovan,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,W,30-34,1:36.99,Alissa Gallagher,,North Carolina State SCM Championship,2013,4
+NCMS,200 M Freestyle,SCM,W,30-34,2:54.52,Noelle M Donovan,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,W,30-34,3:33.40,Alissa Gallagher,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,W,30-34,7:32.90,Alissa Gallagher,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,W,30-34,35.84,Jennifer K Perrottet,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,W,30-34,43.12,Noelle M Donovan,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Backstroke,SCM,W,30-34,56.16,Alissa Gallagher,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Backstroke,SCM,W,30-34,1:14.21,Jennifer K Perrottet,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Backstroke,SCM,W,30-34,2:39.47,Jennifer K Perrottet,,South Carolina SCM Championships,2013,1
+NCMS,50 M Breaststroke,SCM,W,30-34,45.66,Meri L Amweg,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,W,30-34,46.52,Noelle M Donovan,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,W,30-34,54.26,Alissa Gallagher,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Butterfly,SCM,W,30-34,28.53,Ruth N Jones,,21st Annual Albatross Open,2013,1
+NCMS,50 M Butterfly,SCM,W,30-34,33.66,Jennifer K Perrottet,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,W,30-34,39.62,Noelle M Donovan,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Individual Medley,SCM,W,30-34,1:17.68,Jennifer K Perrottet,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,30-34,1:27.94,Noelle M Donovan,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Individual Medley,SCM,W,30-34,2:46.72,Jennifer K Perrottet,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,W,35-39,27.70,Kerry Lindauer,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,W,35-39,1:00.95,Kerry Lindauer,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,W,35-39,1:01.74,Alicia K Uhl,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,W,35-39,1:02.64,Jennifer Stringer,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,W,35-39,1:08.99,Koren T Ayers,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Backstroke,SCM,W,35-39,1:12.60,Alicia K Uhl,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Backstroke,SCM,W,35-39,1:21.28,Koren T Ayers,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,W,35-39,36.61,Kerry Lindauer,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,W,35-39,1:19.52,Kerry Lindauer,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,W,35-39,31.19,Kerry Lindauer,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,W,35-39,31.45,Alicia K Uhl,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Individual Medley,SCM,W,35-39,1:09.64,Kerry Lindauer,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,35-39,1:11.12,Alicia K Uhl,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Individual Medley,SCM,W,35-39,1:19.25,Koren T Ayers,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Individual Medley,SCM,W,35-39,2:34.74,Alicia K Uhl,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Individual Medley,SCM,W,35-39,2:37.01,Kerry Lindauer,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Individual Medley,SCM,W,35-39,2:51.01,Koren T Ayers,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Freestyle,SCM,W,40-44,26.22,Erika L Braun,,21st Annual Albatross Open,2013,1
+NCMS,50 M Freestyle,SCM,W,40-44,30.09,Jennifer A Buckley-Kornatz,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,W,40-44,31.59,Stacey Harris,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Freestyle,SCM,W,40-44,33.82,Kamie M Rudisill,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Freestyle,SCM,W,40-44,36.00,Sharon Wooten,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Freestyle,SCM,W,40-44,41.08,Dana M Greene,,Shark Tank SCM Meet,2013,6
+NCMS,100 M Freestyle,SCM,W,40-44,57.58,Erika L Braun,,21st Annual Albatross Open,2013,1
+NCMS,100 M Freestyle,SCM,W,40-44,1:05.64,Jennifer A Buckley-Kornatz,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,W,40-44,1:09.59,Stacey Harris,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,W,40-44,1:12.23,Kamie M Rudisill,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Freestyle,SCM,W,40-44,1:14.47,Leanne Vella,,South Carolina SCM Championships,2013,5
+NCMS,100 M Freestyle,SCM,W,40-44,1:19.17,Sharon Wooten,,North Carolina State SCM Championship,2013,6
+NCMS,100 M Freestyle,SCM,W,40-44,1:38.82,Dana M Greene,,Shark Tank SCM Meet,2013,7
+NCMS,200 M Freestyle,SCM,W,40-44,2:36.18,Stacey Harris,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,W,40-44,2:41.04,Maureen H Holden,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,W,40-44,5:26.70,Kamie M Rudisill,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,W,40-44,5:30.48,Stacey Harris,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,W,40-44,5:43.38,Maureen H Holden,,North Carolina State SCM Championship,2013,3
+NCMS,400 M Freestyle,SCM,W,40-44,5:46.90,Leanne Vella,,North Carolina State SCM Championship,2013,4
+NCMS,1500 M Freestyle,SCM,W,40-44,23:22.23,Leanne Vella,,South Carolina SCM Championships,2013,1
+NCMS,50 M Backstroke,SCM,W,40-44,1:09.18,Dana M Greene,,Shark Tank SCM Meet,2013,1
+NCMS,100 M Backstroke,SCM,W,40-44,1:24.61,Kamie M Rudisill,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Backstroke,SCM,W,40-44,1:32.82,Sharon Wooten,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,W,40-44,34.55,Erika L Braun,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,W,40-44,43.81,Kathy Wholley,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,W,40-44,47.36,Hailey M Robins,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Breaststroke,SCM,W,40-44,48.21,Kamie M Rudisill,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Breaststroke,SCM,W,40-44,52.03,Dana M Greene,,Shark Tank SCM Meet,2013,5
+NCMS,100 M Breaststroke,SCM,W,40-44,1:31.12,Maureen H Holden,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,W,40-44,1:45.13,Kathy Wholley,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Breaststroke,SCM,W,40-44,4:27.41,Dana M Greene,,The 10th Annual Alan Liu Memorial SCM Invitational,2013,1
+NCMS,50 M Butterfly,SCM,W,40-44,28.19,Erika L Braun,,21st Annual Albatross Open,2013,1
+NCMS,50 M Butterfly,SCM,W,40-44,33.20,Jennifer A Buckley-Kornatz,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,W,40-44,36.44,Stacey Harris,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Butterfly,SCM,W,40-44,37.44,Kathy Wholley,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Butterfly,SCM,W,40-44,43.92,Sharon Wooten,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Butterfly,SCM,W,40-44,51.73,Angela Henry,,North Carolina State SCM Championship,2013,6
+NCMS,50 M Butterfly,SCM,W,40-44,56.48,Dana M Greene,,Shark Tank SCM Meet,2013,7
+NCMS,100 M Butterfly,SCM,W,40-44,1:16.98,Jennifer A Buckley-Kornatz,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,W,40-44,2:24.38,Dana M Greene,,Shark Tank SCM Meet,2013,2
+NCMS,200 M Butterfly,SCM,W,40-44,6:00.11,Dana M Greene,,The 10th Annual Alan Liu Memorial SCM Invitational,2013,1
+NCMS,100 M Individual Medley,SCM,W,40-44,1:06.94,Erika L Braun,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,40-44,1:20.82,Stacey Harris,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Individual Medley,SCM,W,40-44,1:23.44,Maureen H Holden,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Individual Medley,SCM,W,40-44,1:32.80,Kathy Wholley,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Individual Medley,SCM,W,40-44,1:53.47,Angela Henry,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Freestyle,SCM,W,45-49,43.16,Lynn J Mangan,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,W,45-49,1:38.88,Lynn J Mangan,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,W,45-49,2:50.72,Melissa Welch,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,W,45-49,3:32.86,Lynn J Mangan,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,W,45-49,5:59.73,Melissa Welch,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,W,45-49,7:28.36,Lynn J Mangan,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Backstroke,SCM,W,45-49,42.25,Danielle Kryssing,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,W,45-49,55.75,Lynn J Mangan,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,W,45-49,1:34.53,Danielle Kryssing,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,45-49,1:27.43,Danielle Kryssing,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,45-49,1:30.94,Melissa Welch,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,W,50-54,31.97,Mary G Dore,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,W,50-54,34.78,Patty A Tiska,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,W,50-54,36.27,Kathy Pawlowski,,South Carolina SCM Championships,2013,3
+NCMS,50 M Freestyle,SCM,W,50-54,36.58,Carrie E Waldrop,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Freestyle,SCM,W,50-54,37.14,Nancy L Whelchel,,North Carolina State SCM Championship,2013,5
+NCMS,100 M Freestyle,SCM,W,50-54,1:10.49,Mary G Dore,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,W,50-54,1:17.72,Kathy Pawlowski,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,W,50-54,1:19.99,Patty A Tiska,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,W,50-54,1:25.24,Nancy L Whelchel,,North Carolina State SCM Championship,2013,4
+NCMS,200 M Freestyle,SCM,W,50-54,2:34.71,Mary G Dore,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,W,50-54,2:50.82,Kathy Pawlowski,,South Carolina SCM Championships,2013,2
+NCMS,200 M Freestyle,SCM,W,50-54,3:06.53,Nancy L Whelchel,,North Carolina State SCM Championship,2013,3
+NCMS,400 M Freestyle,SCM,W,50-54,5:21.64,Mary G Dore,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,W,50-54,33.57,Frances T McEachran,,21st Annual Albatross Open,2013,1
+NCMS,50 M Backstroke,SCM,W,50-54,46.88,Kathy Pawlowski,,South Carolina SCM Championships,2013,2
+NCMS,50 M Backstroke,SCM,W,50-54,47.21,Nancy L Whelchel,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Backstroke,SCM,W,50-54,1:28.49,Diane E Quillen,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Backstroke,SCM,W,50-54,1:37.27,Kathy Pawlowski,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Backstroke,SCM,W,50-54,1:40.78,Marjorie D Lawrence,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Backstroke,SCM,W,50-54,3:17.21,Diane E Quillen,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,W,50-54,44.68,Diane E Quillen,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,W,50-54,47.38,Carrie E Waldrop,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,W,50-54,47.59,Marjorie D Lawrence,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Breaststroke,SCM,W,50-54,51.79,Patty A Tiska,,North Carolina State SCM Championship,2013,4
+NCMS,200 M Breaststroke,SCM,W,50-54,3:43.86,Carrie E Waldrop,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Breaststroke,SCM,W,50-54,3:50.27,Marjorie D Lawrence,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,W,50-54,36.13,Diane E Quillen,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,W,50-54,40.09,Patty A Tiska,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,W,50-54,46.53,Nancy L Whelchel,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Butterfly,SCM,W,50-54,3:09.52,Mary G Dore,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,50-54,1:35.52,Nancy L Whelchel,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Individual Medley,SCM,W,50-54,6:22.46,Mary G Dore,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Backstroke,SCM,W,60-64,1:32.65,Cheryl A Murray,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,W,60-64,39.67,Cheryl A Murray,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Butterfly,SCM,W,60-64,3:21.52,Cheryl A Murray,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,W,60-64,1:29.95,Cheryl A Murray,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Individual Medley,SCM,W,60-64,3:10.38,Cheryl A Murray,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Individual Medley,SCM,W,60-64,6:29.58,Cheryl A Murray,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,W,85-89,1:14.80,Carolyn M Derr,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,W,85-89,3:10.87,Carolyn M Derr,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,W,85-89,1:22.72,Carolyn M Derr,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,25-29,26.08,Michael T Hogg,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,25-29,27.35,Jeremy C Walton,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,M,25-29,1:03.60,Jeremy C Walton,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,M,25-29,34.34,Jeremy C Walton,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,25-29,36.70,Jeremy C Walton,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,M,25-29,1:22.13,Jeremy C Walton,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,M,25-29,1:00.99,Michael T Hogg,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,M,25-29,1:11.33,Jeremy C Walton,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Individual Medley,SCM,M,25-29,5:14.61,Michael T Hogg,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,35-39,27.16,Scott J Dallamura,,South Carolina SCM Championships,2013,1
+NCMS,100 M Freestyle,SCM,M,35-39,59.82,Sean Stringer,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,M,35-39,28.49,Scott J Dallamura,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,M,35-39,1:06.79,Scott J Dallamura,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,M,35-39,1:05.41,Sean Stringer,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,40-44,24.72,Jeff L Murray,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,40-44,26.15,Morten Andersen,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,M,40-44,27.63,Pete Butterfield,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Freestyle,SCM,M,40-44,27.86,Steve W Robling,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Freestyle,SCM,M,40-44,28.27,Michael D Bingaman,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Freestyle,SCM,M,40-44,31.68,Charles M Parkerson,,North Carolina State SCM Championship,2013,6
+NCMS,50 M Freestyle,SCM,M,40-44,35.89,Chad Weston,,North Carolina State SCM Championship,2013,7
+NCMS,100 M Freestyle,SCM,M,40-44,54.66,Jeff L Murray,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,M,40-44,57.80,Morten Andersen,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,M,40-44,1:02.57,Steve Pegram,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,M,40-44,1:03.26,Pete Butterfield,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Freestyle,SCM,M,40-44,1:07.06,Michael D Bingaman,,North Carolina State SCM Championship,2013,5
+NCMS,100 M Freestyle,SCM,M,40-44,1:09.54,Mark S Rubacky,,North Carolina State SCM Championship,2013,6
+NCMS,100 M Freestyle,SCM,M,40-44,1:13.77,Charles M Parkerson,,North Carolina State SCM Championship,2013,7
+NCMS,100 M Freestyle,SCM,M,40-44,1:23.34,Chad Weston,,North Carolina State SCM Championship,2013,8
+NCMS,200 M Freestyle,SCM,M,40-44,2:10.61,Morten Andersen,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,M,40-44,2:22.64,Steve Pegram,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Freestyle,SCM,M,40-44,2:26.00,Mark S Rubacky,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Freestyle,SCM,M,40-44,2:47.01,Dan Holden,,North Carolina State SCM Championship,2013,4
+NCMS,400 M Freestyle,SCM,M,40-44,5:01.70,Mark S Rubacky,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,M,40-44,5:04.96,Steve Pegram,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,M,40-44,6:08.70,Dan Holden,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Backstroke,SCM,M,40-44,35.01,Michael D Bingaman,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,M,40-44,42.01,Dan Holden,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Backstroke,SCM,M,40-44,1:20.52,Michael D Bingaman,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,40-44,41.85,Pete Butterfield,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,40-44,42.26,Michael D Bingaman,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,M,40-44,43.60,James K Ensey,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Breaststroke,SCM,M,40-44,44.36,Chad Weston,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Breaststroke,SCM,M,40-44,1:13.58,Morten Andersen,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,M,40-44,1:30.86,Michael D Bingaman,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Breaststroke,SCM,M,40-44,1:46.29,Chad Weston,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Breaststroke,SCM,M,40-44,3:12.47,Mark S Rubacky,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Breaststroke,SCM,M,40-44,3:55.57,Chad Weston,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,M,40-44,31.24,Steve W Robling,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,M,40-44,33.92,Pete Butterfield,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Butterfly,SCM,M,40-44,1:02.85,Morten Andersen,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,M,40-44,1:06.12,Steve Pegram,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Individual Medley,SCM,M,40-44,1:06.14,Morten Andersen,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,M,40-44,1:13.81,Steve W Robling,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Individual Medley,SCM,M,40-44,1:17.47,Michael D Bingaman,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Individual Medley,SCM,M,40-44,1:28.42,Dan Holden,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Individual Medley,SCM,M,40-44,1:42.66,Chad Weston,,North Carolina State SCM Championship,2013,5
+NCMS,200 M Individual Medley,SCM,M,40-44,2:54.35,Mark S Rubacky,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Individual Medley,SCM,M,40-44,3:50.22,Chad Weston,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Individual Medley,SCM,M,40-44,6:04.39,Mark S Rubacky,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,45-49,26.06,Norman E Schultz,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,45-49,27.09,Earl E Anderson,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,M,45-49,36.03,Doug Sheafor,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,M,45-49,59.27,Norman E Schultz,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,M,45-49,1:00.42,Earl E Anderson,,South Carolina SCM Championships,2013,2
+NCMS,100 M Freestyle,SCM,M,45-49,1:01.81,William A Davis,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Freestyle,SCM,M,45-49,2:16.10,Norman E Schultz,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Freestyle,SCM,M,45-49,2:22.32,Earl E Anderson,,South Carolina SCM Championships,2013,2
+NCMS,400 M Freestyle,SCM,M,45-49,4:43.83,William A Davis,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,M,45-49,4:51.74,Norman E Schultz,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,M,45-49,5:20.49,Earl E Anderson,,South Carolina SCM Championships,2013,3
+NCMS,800 M Freestyle,SCM,M,45-49,11:18.37,Earl E Anderson,,South Carolina SCM Championships,2013,1
+NCMS,1500 M Freestyle,SCM,M,45-49,21:04.91,Earl E Anderson,,South Carolina SCM Championships,2013,1
+NCMS,50 M Backstroke,SCM,M,45-49,36.38,Earl E Anderson,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,M,45-49,51.55,Doug Sheafor,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Backstroke,SCM,M,45-49,2:50.27,Earl E Anderson,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,45-49,35.29,Earl E Anderson,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,45-49,48.02,Doug Sheafor,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Breaststroke,SCM,M,45-49,1:20.32,Earl E Anderson,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,M,45-49,1:48.61,Doug Sheafor,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Breaststroke,SCM,M,45-49,3:01.71,Earl E Anderson,,South Carolina SCM Championships,2013,1
+NCMS,200 M Breaststroke,SCM,M,45-49,3:11.72,Norman E Schultz,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Breaststroke,SCM,M,45-49,3:55.44,Doug Sheafor,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Butterfly,SCM,M,45-49,29.85,Earl E Anderson,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,M,45-49,1:17.69,Earl E Anderson,,South Carolina SCM Championships,2013,1
+NCMS,200 M Butterfly,SCM,M,45-49,3:18.21,Norman E Schultz,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Individual Medley,SCM,M,45-49,1:10.94,Earl E Anderson,,South Carolina SCM Championships,2013,1
+NCMS,100 M Individual Medley,SCM,M,45-49,1:42.35,Doug Sheafor,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Individual Medley,SCM,M,45-49,2:41.37,Earl E Anderson,,South Carolina SCM Championships,2013,1
+NCMS,400 M Individual Medley,SCM,M,45-49,5:38.02,William A Davis,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Individual Medley,SCM,M,45-49,6:01.51,Norman E Schultz,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Individual Medley,SCM,M,45-49,6:05.54,Earl E Anderson,,South Carolina SCM Championships,2013,3
+NCMS,50 M Freestyle,SCM,M,50-54,25.97,Henry D Stewart,,21st Annual Albatross Open,2013,1
+NCMS,50 M Freestyle,SCM,M,50-54,27.66,Tom Brekovsky,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,M,50-54,27.98,Mark Hopkins,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Freestyle,SCM,M,50-54,28.39,Alan T Arnholt,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Freestyle,SCM,M,50-54,28.65,Henry P Singletary,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Freestyle,SCM,M,50-54,29.00,Ned S Williams,,North Carolina State SCM Championship,2013,6
+NCMS,50 M Freestyle,SCM,M,50-54,29.36,James A McFarland,,North Carolina State SCM Championship,2013,7
+NCMS,50 M Freestyle,SCM,M,50-54,30.36,Donald C Putney,,North Carolina State SCM Championship,2013,8
+NCMS,50 M Freestyle,SCM,M,50-54,35.93,Jay K White,,North Carolina State SCM Championship,2013,9
+NCMS,100 M Freestyle,SCM,M,50-54,57.26,Henry D Stewart,,21st Annual Albatross Open,2013,1
+NCMS,100 M Freestyle,SCM,M,50-54,1:02.93,Henry P Singletary,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Freestyle,SCM,M,50-54,1:04.25,Tom Brekovsky,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,M,50-54,1:04.54,Alan T Arnholt,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Freestyle,SCM,M,50-54,1:05.61,Ned S Williams,,North Carolina State SCM Championship,2013,5
+NCMS,200 M Freestyle,SCM,M,50-54,2:28.98,James A McFarland,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,M,50-54,5:28.32,Tom A Turpin,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,M,50-54,5:37.07,James A McFarland,,South Carolina SCM Championships,2013,2
+NCMS,50 M Backstroke,SCM,M,50-54,37.87,Jay K White,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Backstroke,SCM,M,50-54,1:14.93,James A McFarland,,South Carolina SCM Championships,2013,1
+NCMS,100 M Backstroke,SCM,M,50-54,1:26.68,Jay K White,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Backstroke,SCM,M,50-54,2:49.58,James A McFarland,,South Carolina SCM Championships,2013,1
+NCMS,50 M Breaststroke,SCM,M,50-54,31.64,Jon W Blank,,21st Annual Albatross Open,2013,1
+NCMS,50 M Breaststroke,SCM,M,50-54,32.65,Lars A Wennborg,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Breaststroke,SCM,M,50-54,37.34,Tom Brekovsky,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Breaststroke,SCM,M,50-54,1:10.61,Lars A Wennborg,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,M,50-54,1:21.93,Tom Brekovsky,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Breaststroke,SCM,M,50-54,2:39.63,Lars A Wennborg,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Breaststroke,SCM,M,50-54,2:51.89,Jon W Blank,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,M,50-54,28.12,Henry D Stewart,,21st Annual Albatross Open,2013,1
+NCMS,50 M Butterfly,SCM,M,50-54,28.93,Jon W Blank,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,M,50-54,30.41,Henry P Singletary,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Butterfly,SCM,M,50-54,31.28,James A McFarland,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Butterfly,SCM,M,50-54,31.84,Mark Hopkins,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Butterfly,SCM,M,50-54,32.33,Donald C Putney,,North Carolina State SCM Championship,2013,6
+NCMS,50 M Butterfly,SCM,M,50-54,32.57,Tom Brekovsky,,North Carolina State SCM Championship,2013,7
+NCMS,50 M Butterfly,SCM,M,50-54,32.86,Alan T Arnholt,,North Carolina State SCM Championship,2013,8
+NCMS,100 M Butterfly,SCM,M,50-54,1:09.70,Henry P Singletary,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,M,50-54,1:13.08,James A McFarland,,South Carolina SCM Championships,2013,2
+NCMS,100 M Butterfly,SCM,M,50-54,1:17.39,Alan T Arnholt,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Butterfly,SCM,M,50-54,1:18.85,Donald C Putney,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Individual Medley,SCM,M,50-54,1:06.79,Jon W Blank,,21st Annual Albatross Open,2013,1
+NCMS,100 M Individual Medley,SCM,M,50-54,1:13.42,James A McFarland,,South Carolina SCM Championships,2013,2
+NCMS,100 M Individual Medley,SCM,M,50-54,1:14.47,Henry P Singletary,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Individual Medley,SCM,M,50-54,1:14.70,Tom Brekovsky,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Individual Medley,SCM,M,50-54,1:14.90,Mark Hopkins,,North Carolina State SCM Championship,2013,5
+NCMS,100 M Individual Medley,SCM,M,50-54,1:30.49,Jay K White,,North Carolina State SCM Championship,2013,6
+NCMS,200 M Individual Medley,SCM,M,50-54,2:46.55,James A McFarland,,South Carolina SCM Championships,2013,1
+NCMS,200 M Individual Medley,SCM,M,50-54,2:54.19,Mark Hopkins,,North Carolina State SCM Championship,2013,2
+NCMS,200 M Individual Medley,SCM,M,50-54,2:54.50,Tom Brekovsky,,North Carolina State SCM Championship,2013,3
+NCMS,200 M Individual Medley,SCM,M,50-54,3:02.86,Tom A Turpin,,North Carolina State SCM Championship,2013,4
+NCMS,400 M Individual Medley,SCM,M,50-54,6:42.95,Donald C Putney,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,55-59,28.08,David A Berting,,South Carolina SCM Championships,2013,1
+NCMS,50 M Freestyle,SCM,M,55-59,30.13,Richard N Miller,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Freestyle,SCM,M,55-59,32.08,Tim White,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Freestyle,SCM,M,55-59,32.69,Michael Byrd,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Freestyle,SCM,M,55-59,34.58,Michael C Treman,,South Carolina SCM Championships,2013,5
+NCMS,50 M Freestyle,SCM,M,55-59,36.41,Steven C LaRue,,South Carolina SCM Championships,2013,6
+NCMS,50 M Freestyle,SCM,M,55-59,37.88,Jeff Garrett,,North Carolina State SCM Championship,2013,7
+NCMS,50 M Freestyle,SCM,M,55-59,39.26,Scott A Acheson,,North Carolina State SCM Championship,2013,8
+NCMS,50 M Freestyle,SCM,M,55-59,40.51,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,9
+NCMS,100 M Freestyle,SCM,M,55-59,1:02.04,David A Berting,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,M,55-59,1:03.76,Jonathan W Washburn,,South Carolina SCM Championships,2013,2
+NCMS,100 M Freestyle,SCM,M,55-59,1:06.08,Richard N Miller,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Freestyle,SCM,M,55-59,1:08.17,Jonathan E Klein,,21st Annual Albatross Open,2013,4
+NCMS,100 M Freestyle,SCM,M,55-59,1:11.95,Tim White,,North Carolina State SCM Championship,2013,5
+NCMS,100 M Freestyle,SCM,M,55-59,1:14.70,Michael Byrd,,North Carolina State SCM Championship,2013,6
+NCMS,100 M Freestyle,SCM,M,55-59,1:16.84,Michael C Treman,,North Carolina State SCM Championship,2013,7
+NCMS,100 M Freestyle,SCM,M,55-59,1:21.09,Steven C LaRue,,South Carolina SCM Championships,2013,8
+NCMS,100 M Freestyle,SCM,M,55-59,1:23.74,Kent D Boyles,,North Carolina State SCM Championship,2013,9
+NCMS,100 M Freestyle,SCM,M,55-59,1:26.22,Scott A Acheson,,North Carolina State SCM Championship,2013,10
+NCMS,100 M Freestyle,SCM,M,55-59,1:35.12,Jamie A Miller,,South Carolina SCM Championships,2013,11
+NCMS,200 M Freestyle,SCM,M,55-59,2:18.86,David A Berting,,South Carolina SCM Championships,2013,1
+NCMS,200 M Freestyle,SCM,M,55-59,2:50.43,Michael C Treman,,North Carolina State SCM Championship,2013,2
+NCMS,400 M Freestyle,SCM,M,55-59,4:55.82,David A Berting,,North Carolina State SCM Championship,2013,1
+NCMS,400 M Freestyle,SCM,M,55-59,4:57.55,Jonathan W Washburn,,South Carolina SCM Championships,2013,2
+NCMS,400 M Freestyle,SCM,M,55-59,5:34.48,Tim White,,North Carolina State SCM Championship,2013,3
+NCMS,400 M Freestyle,SCM,M,55-59,6:05.04,Michael C Treman,,South Carolina SCM Championships,2013,4
+NCMS,400 M Freestyle,SCM,M,55-59,7:56.44,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,5
+NCMS,800 M Freestyle,SCM,M,55-59,10:36.55,David A Berting,,South Carolina SCM Championships,2013,1
+NCMS,800 M Freestyle,SCM,M,55-59,16:43.23,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,2
+NCMS,1500 M Freestyle,SCM,M,55-59,20:13.25,David A Berting,,South Carolina SCM Championships,2013,1
+NCMS,1500 M Freestyle,SCM,M,55-59,31:14.94,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,2
+NCMS,50 M Backstroke,SCM,M,55-59,30.24,Jonathan E Klein,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,M,55-59,43.30,Steven C LaRue,,South Carolina SCM Championships,2013,2
+NCMS,50 M Backstroke,SCM,M,55-59,59.75,Jamie A Miller,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Backstroke,SCM,M,55-59,1:06.39,Jonathan E Klein,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Backstroke,SCM,M,55-59,3:16.66,Jonathan E Klein,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,55-59,34.85,Neal L Vestal,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,55-59,37.75,Jonathan W Washburn,,South Carolina SCM Championships,2013,2
+NCMS,50 M Breaststroke,SCM,M,55-59,44.77,Michael Byrd,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Breaststroke,SCM,M,55-59,44.99,Michael C Treman,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Breaststroke,SCM,M,55-59,46.43,Kent D Boyles,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Breaststroke,SCM,M,55-59,46.72,Steven C LaRue,,South Carolina SCM Championships,2013,6
+NCMS,50 M Breaststroke,SCM,M,55-59,50.79,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,7
+NCMS,50 M Breaststroke,SCM,M,55-59,50.81,Scott A Acheson,,North Carolina State SCM Championship,2013,8
+NCMS,100 M Breaststroke,SCM,M,55-59,1:20.09,Neal L Vestal,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Breaststroke,SCM,M,55-59,1:25.75,Jonathan W Washburn,,South Carolina SCM Championships,2013,2
+NCMS,100 M Breaststroke,SCM,M,55-59,1:39.13,Michael Byrd,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Breaststroke,SCM,M,55-59,1:43.92,Michael C Treman,,South Carolina SCM Championships,2013,4
+NCMS,100 M Breaststroke,SCM,M,55-59,1:53.33,Scott A Acheson,,North Carolina State SCM Championship,2013,5
+NCMS,100 M Breaststroke,SCM,M,55-59,1:53.96,Jamie A Miller,,North Carolina State SCM Championship,2013,6
+NCMS,200 M Breaststroke,SCM,M,55-59,3:02.85,Jonathan W Washburn,,South Carolina SCM Championships,2013,1
+NCMS,200 M Breaststroke,SCM,M,55-59,4:08.10,Michael C Treman,,South Carolina SCM Championships,2013,2
+NCMS,200 M Breaststroke,SCM,M,55-59,4:15.84,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,3
+NCMS,50 M Butterfly,SCM,M,55-59,28.84,Jonathan E Klein,,21st Annual Albatross Open,2013,1
+NCMS,50 M Butterfly,SCM,M,55-59,32.30,Neal L Vestal,,North Carolina State SCM Championship,2013,2
+NCMS,50 M Butterfly,SCM,M,55-59,35.01,Richard N Miller,,North Carolina State SCM Championship,2013,3
+NCMS,50 M Butterfly,SCM,M,55-59,35.84,Tim White,,North Carolina State SCM Championship,2013,4
+NCMS,50 M Butterfly,SCM,M,55-59,42.85,Michael Byrd,,North Carolina State SCM Championship,2013,5
+NCMS,50 M Butterfly,SCM,M,55-59,47.23,Michael C Treman,,South Carolina SCM Championships,2013,6
+NCMS,100 M Butterfly,SCM,M,55-59,1:39.17,Jonathan W Washburn,,South Carolina SCM Championships,2013,1
+NCMS,100 M Butterfly,SCM,M,55-59,2:04.18,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,2
+NCMS,200 M Butterfly,SCM,M,55-59,3:21.95,Jonathan W Washburn,,South Carolina SCM Championships,2013,1
+NCMS,200 M Butterfly,SCM,M,55-59,4:49.44,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,2
+NCMS,100 M Individual Medley,SCM,M,55-59,1:12.53,Jonathan W Washburn,,South Carolina SCM Championships,2013,1
+NCMS,100 M Individual Medley,SCM,M,55-59,1:13.30,Neal L Vestal,,North Carolina State SCM Championship,2013,2
+NCMS,100 M Individual Medley,SCM,M,55-59,1:30.02,Michael Byrd,,North Carolina State SCM Championship,2013,3
+NCMS,100 M Individual Medley,SCM,M,55-59,1:41.11,Michael C Treman,,North Carolina State SCM Championship,2013,4
+NCMS,100 M Individual Medley,SCM,M,55-59,1:44.22,Scott A Acheson,,North Carolina State SCM Championship,2013,5
+NCMS,100 M Individual Medley,SCM,M,55-59,1:57.56,Jamie A Miller,,South Carolina SCM Championships,2013,6
+NCMS,200 M Individual Medley,SCM,M,55-59,2:39.17,Jonathan W Washburn,,South Carolina SCM Championships,2013,1
+NCMS,200 M Individual Medley,SCM,M,55-59,4:09.71,Jamie A Miller,,South Carolina SCM Championships,2013,2
+NCMS,400 M Individual Medley,SCM,M,55-59,5:51.99,Jonathan W Washburn,,South Carolina SCM Championships,2013,1
+NCMS,400 M Individual Medley,SCM,M,55-59,9:15.51,Jamie A Miller,,Rowdy Gaines Masters Classic V,2013,2
+NCMS,50 M Freestyle,SCM,M,60-64,34.73,Paul C Rhyne,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Backstroke,SCM,M,60-64,43.35,Paul C Rhyne,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,M,60-64,46.81,Paul C Rhyne,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,65-69,33.52,Andrew M Richelson,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Butterfly,SCM,M,65-69,37.69,Andrew M Richelson,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,70-74,36.90,Louis C Gadol,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Freestyle,SCM,M,70-74,1:34.77,Louis C Gadol,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Backstroke,SCM,M,70-74,1:49.33,Louis C Gadol,,North Carolina State SCM Championship,2013,1
+NCMS,200 M Breaststroke,SCM,M,70-74,4:07.98,Louis C Gadol,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,75-79,35.89,Jerry Clark,,South Carolina SCM Championships,2013,1
+NCMS,50 M Freestyle,SCM,M,75-79,41.28,Ray Scharf,,21st Annual Albatross Open,2013,2
+NCMS,100 M Freestyle,SCM,M,75-79,1:19.11,Jerry Clark,,South Carolina SCM Championships,2013,1
+NCMS,100 M Freestyle,SCM,M,75-79,1:35.74,Ray Scharf,,21st Annual Albatross Open,2013,2
+NCMS,200 M Freestyle,SCM,M,75-79,3:04.09,Jerry Clark,,South Carolina SCM Championships,2013,1
+NCMS,400 M Freestyle,SCM,M,75-79,6:57.74,Jerry Clark,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,75-79,52.28,Ray Scharf,,21st Annual Albatross Open,2013,1
+NCMS,100 M Breaststroke,SCM,M,75-79,2:06.83,Ray Scharf,,21st Annual Albatross Open,2013,1
+NCMS,50 M Butterfly,SCM,M,75-79,1:01.39,John J Huson,,North Carolina State SCM Championship,2013,1
+NCMS,100 M Butterfly,SCM,M,75-79,2:27.18,John J Huson,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,80-84,37.93,John D Kortheuer,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Freestyle,SCM,M,80-84,47.43,Steve Barrett,,Huntsman World Senior Games,2013,2
+NCMS,100 M Freestyle,SCM,M,80-84,1:45.92,Steve Barrett,,Huntsman World Senior Games,2013,1
+NCMS,50 M Backstroke,SCM,M,80-84,59.24,Steve Barrett,,Huntsman World Senior Games,2013,1
+NCMS,50 M Breaststroke,SCM,M,80-84,48.98,John D Kortheuer,,North Carolina State SCM Championship,2013,1
+NCMS,50 M Breaststroke,SCM,M,80-84,58.46,Steve Barrett,,Huntsman World Senior Games,2013,2
+NCMS,100 M Breaststroke,SCM,M,80-84,2:21.31,Steve Barrett,,Huntsman World Senior Games,2013,1
+NCMS,50 M Butterfly,SCM,M,80-84,57.85,Steve Barrett,,Huntsman World Senior Games,2013,1
+NCMS,100 M Individual Medley,SCM,M,80-84,2:07.11,Steve Barrett,,Huntsman World Senior Games,2013,1
+NCMS,50 M Freestyle,SCM,M,90-94,1:04.58,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,200 M Freestyle,SCM,M,90-94,5:11.65,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,400 M Freestyle,SCM,M,90-94,10:43.32,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,800 M Freestyle,SCM,M,90-94,23:03.86,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,1500 M Freestyle,SCM,M,90-94,44:51.43,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,50 M Breaststroke,SCM,M,90-94,1:18.50,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,100 M Breaststroke,SCM,M,90-94,2:48.46,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,200 M Breaststroke,SCM,M,90-94,6:14.16,E Ole Larson,,Huntsman World Senior Games,2013,1
+NCMS,100 M Individual Medley,SCM,M,90-94,2:53.27,E Ole Larson,,Huntsman World Senior Games,2013,1
+UC13,50 M Freestyle,SCM,W,18-24,38.95,Kristina  L Bond,,North Carolina State SCM Championship,2013,1
+UC13,50 M Breaststroke,SCM,W,18-24,55.83,Kristina  L Bond,,North Carolina State SCM Championship,2013,1
+UC13,50 M Freestyle,SCM,W,25-29,28.35,Liza Engstrom,,North Carolina State SCM Championship,2013,1
+UC13,50 M Freestyle,SCM,W,25-29,33.84,Kelly Levie,,North Carolina State SCM Championship,2013,2
+UC13,50 M Freestyle,SCM,W,25-29,33.97,Alayna Levie,,North Carolina State SCM Championship,2013,3
+UC13,100 M Freestyle,SCM,W,25-29,1:14.32,Kelly Levie,,North Carolina State SCM Championship,2013,1
+UC13,100 M Freestyle,SCM,W,25-29,1:17.20,Alayna Levie,,North Carolina State SCM Championship,2013,2
+UC13,100 M Backstroke,SCM,W,25-29,1:09.33,Liza Engstrom,,North Carolina State SCM Championship,2013,1
+UC13,100 M Backstroke,SCM,W,25-29,1:26.76,Kelly Levie,,North Carolina State SCM Championship,2013,2
+UC13,50 M Breaststroke,SCM,W,25-29,48.68,Alayna Levie,,North Carolina State SCM Championship,2013,1
+UC13,50 M Breaststroke,SCM,W,25-29,49.40,Kelly Levie,,North Carolina State SCM Championship,2013,2
+UC13,100 M Breaststroke,SCM,W,25-29,1:15.02,Maria A Vlashchenko,,North Carolina State SCM Championship,2013,1
+UC13,50 M Butterfly,SCM,W,25-29,31.14,Liza Engstrom,,North Carolina State SCM Championship,2013,1
+UC13,50 M Butterfly,SCM,W,25-29,40.45,Kelly Levie,,North Carolina State SCM Championship,2013,2
+UC13,50 M Butterfly,SCM,W,25-29,43.15,Alayna Levie,,North Carolina State SCM Championship,2013,3
+UC13,100 M Individual Medley,SCM,W,25-29,1:08.06,Maria A Vlashchenko,,North Carolina State SCM Championship,2013,1
+UC13,400 M Individual Medley,SCM,W,25-29,6:40.01,Alayna Levie,,North Carolina State SCM Championship,2013,1
+UC13,50 M Freestyle,SCM,W,30-34,30.31,Brooke E Wheeler,,Rowdy Gaines Masters Classic V,2013,1
+UC13,100 M Individual Medley,SCM,W,30-34,1:21.35,Brooke E Wheeler,,Rowdy Gaines Masters Classic V,2013,1
+UC13,50 M Freestyle,SCM,M,25-29,22.62,John S Long,,North Carolina State SCM Championship,2013,1
+UC13,100 M Freestyle,SCM,M,25-29,50.18,John S Long,,North Carolina State SCM Championship,2013,1
+UC13,200 M Freestyle,SCM,M,25-29,2:08.81,John S Long,,North Carolina State SCM Championship,2013,1
+UC13,50 M Butterfly,SCM,M,25-29,26.79,John S Long,,North Carolina State SCM Championship,2013,1
+UC13,100 M Individual Medley,SCM,M,25-29,58.92,John S Long,,North Carolina State SCM Championship,2013,1
+UC13,400 M Individual Medley,SCM,M,25-29,4:46.06,Jeremy A Gregory,,North Carolina State SCM Championship,2013,1
+UC13,50 M Breaststroke,SCM,M,50-54,38.24,John W Albanese,,North Carolina State SCM Championship,2013,1
+UC13,100 M Breaststroke,SCM,M,50-54,1:23.04,John W Albanese,,North Carolina State SCM Championship,2013,1
+UC13,200 M Breaststroke,SCM,M,50-54,3:00.65,John W Albanese,,North Carolina State SCM Championship,2013,1
+UC13,50 M Butterfly,SCM,M,50-54,38.39,John W Albanese,,North Carolina State SCM Championship,2013,1
+UC13,100 M Individual Medley,SCM,M,50-54,1:16.86,John W Albanese,,North Carolina State SCM Championship,2013,1
+UC13,200 M Individual Medley,SCM,M,50-54,2:49.47,John W Albanese,,North Carolina State SCM Championship,2013,1
+UC13,400 M Individual Medley,SCM,M,50-54,5:55.34,John W Albanese,,North Carolina State SCM Championship,2013,1
+UNAT,50 M Freestyle,SCM,W,18-24,29.57,Libby Sanderson,,1st Chance Meet - SCM,2013,1
+UNAT,400 M Freestyle,SCM,W,18-24,4:53.85,Libby Sanderson,,1st Chance Meet - SCM,2013,1
+UNAT,50 M Butterfly,SCM,W,18-24,32.87,Libby Sanderson,,1st Chance Meet - SCM,2013,1
+UNAT,100 M Individual Medley,SCM,W,18-24,1:14.66,Libby Sanderson,,1st Chance Meet - SCM,2013,1

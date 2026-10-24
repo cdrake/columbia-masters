@@ -1,0 +1,954 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+NCMS,50 Y Freestyle,SCY,W,18-24,24.03,Lauren Rhodes,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,18-24,1:13.44,Denise Ashley E Mangaoang,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,18-24,36.35,Denise Ashley E Mangaoang,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,18-24,1:31.34,Denise Ashley E Mangaoang,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,18-24,35.83,Denise Ashley E Mangaoang,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,25-29,23.66,Carly R Tanner,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,25-29,24.90,Whitney S Hauser,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,25-29,26.12,Rachel Lowe,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,W,25-29,26.93,Kelsi G Hobbs,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,25-29,29.15,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,W,25-29,49.01,Brittany L White,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Freestyle,SCY,W,25-29,52.68,Carly R Tanner,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,25-29,54.74,Whitney S Hauser,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,W,25-29,1:01.53,Jennifer O Brophy,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,25-29,1:04.55,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,W,25-29,2:03.37,Whitney S Hauser,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,25-29,2:07.01,Alicia Cheripka,,2019 DCAC Capital Classic,2020,2
+NCMS,200 Y Freestyle,SCY,W,25-29,2:15.40,Jennifer O Brophy,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,W,25-29,2:24.61,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,W,25-29,5:45.64,Whitney S Hauser,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,25-29,6:08.52,Jennifer O Brophy,,46th Annual Sunbelt Meet,2020,2
+NCMS,1000 Y Freestyle,SCY,W,25-29,11:07.79,Rachel Lowe,,46th Annual Sunbelt Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,W,25-29,12:58.78,Rebecca Clopp,,46th Annual Sunbelt Meet,2020,2
+NCMS,1650 Y Freestyle,SCY,W,25-29,21:43.63,Jennifer O Brophy,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,25-29,30.41,Kelsi G Hobbs,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,25-29,35.10,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,25-29,1:01.86,Alicia Cheripka,,2019 DCAC Capital Classic,2020,1
+NCMS,200 Y Backstroke,SCY,W,25-29,2:13.73,Alicia Cheripka,,2019 DCAC Capital Classic,2020,1
+NCMS,50 Y Breaststroke,SCY,W,25-29,39.04,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,25-29,27.67,Whitney S Hauser,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,25-29,27.88,Kelsi G Hobbs,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,W,25-29,29.92,Jennifer O Brophy,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Butterfly,SCY,W,25-29,1:03.63,Kelsi G Hobbs,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Butterfly,SCY,W,25-29,1:05.32,Rachel Lowe,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Butterfly,SCY,W,25-29,1:09.99,Katie Ganley,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Butterfly,SCY,W,25-29,2:32.40,Katie Ganley,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,25-29,59.37,Carly R Tanner,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,25-29,1:05.42,Whitney S Hauser,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,25-29,1:06.93,Kelsi G Hobbs,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,25-29,1:10.18,Katie Ganley,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,W,25-29,1:15.13,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Individual Medley,SCY,W,25-29,2:26.55,Kelsi G Hobbs,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,W,25-29,2:31.39,Katie Ganley,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,W,25-29,2:45.95,Claire E Grimsley,,46th Annual Sunbelt Meet,2020,3
+NCMS,400 Y Individual Medley,SCY,W,25-29,4:56.28,Rachel Lowe,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,30-34,23.60,Karlee Carver,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,30-34,25.50,Asheton Brown,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,30-34,31.78,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,W,30-34,32.58,Amanda J von Thron,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,30-34,35.48,Veronica M Bryant,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,W,30-34,56.90,Asheton Brown,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,30-34,58.54,Caroline Bevillard,,2020 VMST David Gregg III Memorial Meet,2020,2
+NCMS,100 Y Freestyle,SCY,W,30-34,1:02.33,Chloe Faucher,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,30-34,1:11.42,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,W,30-34,1:12.78,Whitney K Held,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,W,30-34,1:13.13,Amanda J von Thron,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Freestyle,SCY,W,30-34,1:54.74,Karlee Carver,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,30-34,2:43.37,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,30-34,30.51,Caroline Bevillard,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,30-34,39.36,Whitney K Held,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,30-34,39.83,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,W,30-34,46.88,Veronica M Bryant,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,W,30-34,58.51,Karlee Carver,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,30-34,1:15.30,Chloe Faucher,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,30-34,1:27.07,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,W,30-34,39.98,Amanda J von Thron,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,30-34,43.76,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,W,30-34,1:17.36,Caroline Bevillard,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,30-34,1:31.23,Amanda J von Thron,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,W,30-34,1:36.29,Quinn L Pletcher,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,W,30-34,37.96,Whitney K Held,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,30-34,41.40,Amanda J von Thron,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,W,30-34,42.15,Veronica M Bryant,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,30-34,58.02,Karlee Carver,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,30-34,1:06.10,Caroline Bevillard,,2020 VMST David Gregg III Memorial Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,30-34,1:27.27,Amanda J von Thron,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,30-34,1:34.20,Veronica M Bryant,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Individual Medley,SCY,W,30-34,2:23.98,Caroline Bevillard,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,W,30-34,2:42.23,Chloe Faucher,,46th Annual Sunbelt Meet,2020,2
+NCMS,400 Y Individual Medley,SCY,W,30-34,5:06.37,Caroline Bevillard,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,35-39,27.86,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,35-39,30.01,Meghan Kruse,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,35-39,35.72,Carla K Brannon,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,W,35-39,37.44,Amy Leigh Groomes,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,W,35-39,1:04.68,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,35-39,1:06.98,Meghan Kruse,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,W,35-39,2:05.05,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,W,35-39,11:29.33,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,W,35-39,18:56.40,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,35-39,29.73,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,35-39,37.30,Meghan Kruse,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,35-39,1:07.30,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,W,35-39,2:22.80,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,W,35-39,2:35.79,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,35-39,37.85,Meghan Kruse,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,35-39,46.45,Carla K Brannon,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,35-39,49.11,Amy Leigh Groomes,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,W,35-39,1:25.00,Meghan Kruse,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,W,35-39,2:38.36,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,35-39,31.50,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,35-39,34.25,Meghan Kruse,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Butterfly,SCY,W,35-39,2:18.96,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,35-39,1:06.36,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,35-39,1:09.46,Amy H Buttrick,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,35-39,1:15.37,Meghan Kruse,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,35-39,1:29.12,Carla K Brannon,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Individual Medley,SCY,W,35-39,2:18.28,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,W,35-39,4:52.78,Irish Holland,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,40-44,26.49,Carrie T Lindquist,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,40-44,30.59,Victoria A King,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,40-44,31.19,Betsy Stec Market,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,W,40-44,33.01,Kelly E Tabor,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,40-44,33.28,Jessica Hargis,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,W,40-44,33.93,Camilla Vidarsson,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,W,40-44,36.28,Claire E Lukens,,46th Annual Sunbelt Meet,2020,7
+NCMS,50 Y Freestyle,SCY,W,40-44,37.15,Dana L Savage,,46th Annual Sunbelt Meet,2020,8
+NCMS,50 Y Freestyle,SCY,W,40-44,37.48,Amanda M Law,,46th Annual Sunbelt Meet,2020,9
+NCMS,50 Y Freestyle,SCY,W,40-44,39.38,Jennifer B Wood,,46th Annual Sunbelt Meet,2020,10
+NCMS,50 Y Freestyle,SCY,W,40-44,40.02,Katherine S Mihalick,,46th Annual Sunbelt Meet,2020,11
+NCMS,100 Y Freestyle,SCY,W,40-44,1:01.15,Brooke L Koeppel,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,40-44,1:05.84,Trista Mennen,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,W,40-44,1:12.86,Jessica Hargis,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,40-44,1:20.73,Lisa R Rankin,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,W,40-44,1:22.03,Dana L Savage,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,W,40-44,1:26.84,Claire E Lukens,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Freestyle,SCY,W,40-44,2:34.28,Amanda L Leftwich,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,40-44,2:43.64,Jessica Hargis,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,W,40-44,2:44.86,Victoria A King,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,W,40-44,3:02.07,Camilla Vidarsson,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,W,40-44,3:10.46,Dana L Savage,,46th Annual Sunbelt Meet,2020,5
+NCMS,500 Y Freestyle,SCY,W,40-44,6:45.54,Trista Mennen,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,40-44,7:02.97,Amanda L Leftwich,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,W,40-44,7:08.17,Jessica Hargis,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,W,40-44,8:02.00,Lisa R Rankin,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,W,40-44,8:36.12,Dana L Savage,,46th Annual Sunbelt Meet,2020,5
+NCMS,1000 Y Freestyle,SCY,W,40-44,13:31.53,Elizabeth Kalka,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,W,40-44,22:16.17,Elizabeth Kalka,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,W,40-44,22:41.05,Catherine A Old,,2020 SC SCY State Championship,2020,2
+NCMS,1650 Y Freestyle,SCY,W,40-44,24:34.47,Jessica Hargis,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,W,40-44,30.62,LeeAnne Quattropani,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,40-44,40.57,Dana L Savage,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,40-44,44.09,Claire E Lukens,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,W,40-44,47.18,Lisa R Rankin,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,W,40-44,1:08.60,Carrie T Lindquist,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,40-44,1:28.28,Dana L Savage,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,40-44,1:29.34,Victoria A King,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Backstroke,SCY,W,40-44,1:41.01,Claire E Lukens,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Backstroke,SCY,W,40-44,2:32.22,LeeAnne Quattropani,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,200 Y Backstroke,SCY,W,40-44,2:50.73,Trista Mennen,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,40-44,33.90,Brooke L Koeppel,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,40-44,36.25,Carrie T Lindquist,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,40-44,38.79,LeeAnne Quattropani,,2020 VMST David Gregg III Memorial Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,W,40-44,39.90,Kelly E Tabor,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Breaststroke,SCY,W,40-44,40.56,Betsy Stec Market,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Breaststroke,SCY,W,40-44,41.14,Amanda L Leftwich,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Breaststroke,SCY,W,40-44,43.03,Amanda M Law,,46th Annual Sunbelt Meet,2020,7
+NCMS,50 Y Breaststroke,SCY,W,40-44,47.78,Claire E Lukens,,46th Annual Sunbelt Meet,2020,8
+NCMS,50 Y Breaststroke,SCY,W,40-44,50.56,Jennifer B Wood,,46th Annual Sunbelt Meet,2020,9
+NCMS,50 Y Breaststroke,SCY,W,40-44,56.47,Katherine S Mihalick,,46th Annual Sunbelt Meet,2020,10
+NCMS,100 Y Breaststroke,SCY,W,40-44,1:12.71,Brooke L Koeppel,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,40-44,1:12.87,Karen M Stump,,2020 SC SCY State Championship,2020,2
+NCMS,100 Y Breaststroke,SCY,W,40-44,1:24.80,Victoria A King,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,W,40-44,1:29.64,Amanda L Leftwich,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Breaststroke,SCY,W,40-44,1:47.87,Claire E Lukens,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Breaststroke,SCY,W,40-44,2:34.16,Brooke L Koeppel,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,W,40-44,3:03.73,Victoria A King,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Breaststroke,SCY,W,40-44,3:33.33,Amanda M Law,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,W,40-44,27.88,Karen M Stump,,2020 SC SCY State Championship,2020,1
+NCMS,50 Y Butterfly,SCY,W,40-44,39.25,Jessica Hargis,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,W,40-44,43.48,Dana L Savage,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,W,40-44,47.18,Claire E Lukens,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Butterfly,SCY,W,40-44,1:03.82,Karen M Stump,,2020 SC SCY State Championship,2020,1
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:04.86,Karen M Stump,,2020 SC SCY State Championship,2020,1
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:08.11,Carrie T Lindquist,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:12.37,LeeAnne Quattropani,,2020 VMST David Gregg III Memorial Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:19.71,Betsy Stec Market,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:21.42,Amanda L Leftwich,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:27.43,Jessica Hargis,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:32.12,Amanda M Law,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:35.66,Claire E Lukens,,46th Annual Sunbelt Meet,2020,8
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:40.14,Dana L Savage,,46th Annual Sunbelt Meet,2020,9
+NCMS,100 Y Individual Medley,SCY,W,40-44,1:48.33,Katherine S Mihalick,,46th Annual Sunbelt Meet,2020,10
+NCMS,200 Y Individual Medley,SCY,W,40-44,3:32.01,Dana L Savage,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,45-49,24.32,Erika L Braun,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,45-49,24.43,Kerry Lindauer,,2020 January Jump Start,2020,2
+NCMS,50 Y Freestyle,SCY,W,45-49,26.52,Maureen M Townes,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,W,45-49,26.57,Jennifer A Buckley,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,45-49,27.53,Sara Dunn,,2020 January Jump Start,2020,5
+NCMS,50 Y Freestyle,SCY,W,45-49,36.11,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,W,45-49,36.88,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,7
+NCMS,50 Y Freestyle,SCY,W,45-49,37.22,Heather Skelton,,46th Annual Sunbelt Meet,2020,8
+NCMS,100 Y Freestyle,SCY,W,45-49,52.76,Erika L Braun,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,45-49,53.84,Kerry Lindauer,,2020 January Jump Start,2020,2
+NCMS,100 Y Freestyle,SCY,W,45-49,59.12,Maureen M Townes,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,45-49,1:01.97,Sara Dunn,,2020 January Jump Start,2020,4
+NCMS,100 Y Freestyle,SCY,W,45-49,1:11.27,Meredith H Moore,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,W,45-49,1:13.10,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Freestyle,SCY,W,45-49,1:19.14,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Freestyle,SCY,W,45-49,1:25.92,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,8
+NCMS,200 Y Freestyle,SCY,W,45-49,2:19.32,Sara Dunn,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,45-49,2:36.25,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,W,45-49,2:50.71,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,W,45-49,3:06.83,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,W,45-49,6:22.82,Sara Dunn,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,45-49,6:56.28,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,W,45-49,7:04.83,Meredith H Moore,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,W,45-49,7:43.32,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,W,45-49,7:48.88,Laura Fricano,,46th Annual Sunbelt Meet,2020,5
+NCMS,1000 Y Freestyle,SCY,W,45-49,14:07.34,Alison Rankin,,46th Annual Sunbelt Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,W,45-49,14:44.94,Megan M Lassen,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,45-49,28.70,Erika L Braun,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,45-49,29.73,Kerry Lindauer,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,45-49,32.87,Maureen M Townes,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,W,45-49,34.40,Sara Dunn,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Backstroke,SCY,W,45-49,42.24,Laura Fricano,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Backstroke,SCY,W,45-49,46.11,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Backstroke,SCY,W,45-49,47.80,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Backstroke,SCY,W,45-49,1:01.61,Kerry Lindauer,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,45-49,1:08.45,Jennifer A Buckley,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,45-49,1:23.98,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Backstroke,SCY,W,45-49,1:49.45,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Backstroke,SCY,W,45-49,2:22.41,Kerry Lindauer,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,W,45-49,3:07.09,Alison Rankin,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,45-49,31.80,Kerry Lindauer,,2020 January Jump Start,2020,1
+NCMS,50 Y Breaststroke,SCY,W,45-49,32.57,Sara Dunn,,2020 January Jump Start,2020,2
+NCMS,50 Y Breaststroke,SCY,W,45-49,36.09,Maureen M Townes,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,W,45-49,45.15,Heather Skelton,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Breaststroke,SCY,W,45-49,46.37,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Breaststroke,SCY,W,45-49,1:10.00,Sara Dunn,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,45-49,1:33.93,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,W,45-49,1:40.36,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,W,45-49,2:00.09,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Breaststroke,SCY,W,45-49,2:32.82,Sara Dunn,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,W,45-49,3:22.57,Megan M Lassen,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,W,45-49,26.45,Erika L Braun,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,45-49,28.64,Kerry Lindauer,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,W,45-49,29.60,Maureen M Townes,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,W,45-49,30.09,Jennifer A Buckley,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Butterfly,SCY,W,45-49,30.90,Sara Dunn,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Butterfly,SCY,W,45-49,39.73,Meredith H Moore,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Butterfly,SCY,W,45-49,55.19,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Butterfly,SCY,W,45-49,59.56,Erika L Braun,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Butterfly,SCY,W,45-49,2:45.92,Jennifer A Buckley,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:00.78,Erika L Braun,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:02.00,Kerry Lindauer,,2020 January Jump Start,2020,2
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:07.98,Jennifer A Buckley,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:08.36,Maureen M Townes,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:08.36,Sara Dunn,,2020 January Jump Start,2020,5
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:22.58,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Individual Medley,SCY,W,45-49,1:35.28,Violetta Gratsou-Zodl,,46th Annual Sunbelt Meet,2020,7
+NCMS,200 Y Individual Medley,SCY,W,45-49,2:36.53,Jennifer A Buckley,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,W,45-49,2:59.00,Kathrin J Rzepecki,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,W,45-49,3:06.41,Meredith H Moore,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Individual Medley,SCY,W,45-49,3:58.38,Christa C Sumwalt,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,50-54,28.86,Katie Gilbert,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,50-54,29.31,Celia Wolff,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Freestyle,SCY,W,50-54,29.97,Angie Ballenger,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,W,50-54,32.07,Rebecca L Jones,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,50-54,32.20,Sandra Y Smith,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,W,50-54,36.21,Alexandra S Schmid,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,W,50-54,36.34,Dana M Greene,,2020 Auburn Masters SCY Invitational,2020,7
+NCMS,50 Y Freestyle,SCY,W,50-54,36.45,Cassie Primavera,,46th Annual Sunbelt Meet,2020,8
+NCMS,50 Y Freestyle,SCY,W,50-54,36.87,Katie Paschall,,46th Annual Sunbelt Meet,2020,9
+NCMS,100 Y Freestyle,SCY,W,50-54,1:01.06,Katie Gilbert,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,50-54,1:07.06,Angie Ballenger,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,W,50-54,1:11.84,Sandra Y Smith,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,50-54,1:21.22,Alexandra S Schmid,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,W,50-54,1:26.17,Dana M Greene,,2019 TYR Teddy Bear Classic,2020,5
+NCMS,100 Y Freestyle,SCY,W,50-54,1:28.19,Katie Paschall,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Freestyle,SCY,W,50-54,2:17.50,Maria E Vazquez,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,50-54,3:02.50,Cassie Primavera,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,W,50-54,3:09.09,Dana M Greene,,2020 Auburn Masters SCY Invitational,2020,3
+NCMS,500 Y Freestyle,SCY,W,50-54,8:29.78,Alexandra S Schmid,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,50-54,8:39.07,Dana M Greene,,2019 TYR Teddy Bear Classic,2020,2
+NCMS,1650 Y Freestyle,SCY,W,50-54,20:45.07,Lynn Salazar,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,W,50-54,27:12.52,Dana M Greene,,2020 Auburn Masters SCY Invitational,2020,2
+NCMS,50 Y Backstroke,SCY,W,50-54,33.53,Maria E Vazquez,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,50-54,34.30,Celia Wolff,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Backstroke,SCY,W,50-54,35.93,Katie Gilbert,,2020 VMST David Gregg III Memorial Meet,2020,3
+NCMS,50 Y Backstroke,SCY,W,50-54,44.42,Alexandra S Schmid,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,W,50-54,1:10.03,Maria E Vazquez,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,50-54,1:16.97,Celia Wolff,,2020 SC SCY State Championship,2020,2
+NCMS,100 Y Backstroke,SCY,W,50-54,1:22.70,Rebecca L Jones,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Backstroke,SCY,W,50-54,2:31.48,Maria E Vazquez,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,50-54,38.04,Angie Ballenger,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,50-54,39.54,Katie Gilbert,,2020 VMST David Gregg III Memorial Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,50-54,40.07,Rebecca L Jones,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,W,50-54,41.08,Celia Wolff,,2020 SC SCY State Championship,2020,4
+NCMS,50 Y Breaststroke,SCY,W,50-54,42.83,Sandra Y Smith,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Breaststroke,SCY,W,50-54,45.30,Cassie Primavera,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Breaststroke,SCY,W,50-54,49.62,Alexandra S Schmid,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Breaststroke,SCY,W,50-54,1:24.10,Angie Ballenger,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,50-54,1:35.29,Sandra Y Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,W,50-54,1:45.48,Alexandra S Schmid,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Breaststroke,SCY,W,50-54,3:03.54,Angie Ballenger,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,50-54,31.50,Katie Gilbert,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,50-54,34.02,Angie Ballenger,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,50-54,1:13.66,Katie Gilbert,,2020 VMST David Gregg III Memorial Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,50-54,1:15.97,Angie Ballenger,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,50-54,1:20.97,Rebecca L Jones,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,W,50-54,1:35.42,Cassie Primavera,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,W,50-54,1:38.69,Katie Paschall,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Individual Medley,SCY,W,50-54,2:37.84,Maria E Vazquez,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,W,50-54,2:45.04,Angie Ballenger,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,55-59,28.66,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,55-59,31.16,Patty A Tiska,,State Games of America,2020,2
+NCMS,50 Y Freestyle,SCY,W,55-59,32.57,Mary Anne Savage,,2020 SC SCY State Championship,2020,3
+NCMS,50 Y Freestyle,SCY,W,55-59,33.32,Carol M Gregory,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,W,55-59,48.51,Kimberly G Bell,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,W,55-59,50.84,Tonja A Horn,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,W,55-59,53.38,Deirdre Guerriero,,46th Annual Sunbelt Meet,2020,7
+NCMS,50 Y Freestyle,SCY,W,55-59,55.46,Elizabeth Boswell,,46th Annual Sunbelt Meet,2020,8
+NCMS,100 Y Freestyle,SCY,W,55-59,1:03.92,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,55-59,1:06.51,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,W,55-59,1:15.75,Margot Strickler,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,W,55-59,2:28.75,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,55-59,3:58.23,Kimberly G Bell,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,W,55-59,6:40.35,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,55-59,6:50.29,Mary Anne Savage,,2020 SC SCY State Championship,2020,2
+NCMS,500 Y Freestyle,SCY,W,55-59,7:08.19,Margot Strickler,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,W,55-59,7:09.49,Carol M Gregory,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,W,55-59,8:23.60,Trudy L Wakeman,,46th Annual Sunbelt Meet,2020,5
+NCMS,1000 Y Freestyle,SCY,W,55-59,14:32.33,Mary Anne Savage,,2020 SC SCY State Championship,2020,1
+NCMS,1000 Y Freestyle,SCY,W,55-59,16:51.97,Trudy L Wakeman,,46th Annual Sunbelt Meet,2020,2
+NCMS,1000 Y Freestyle,SCY,W,55-59,20:51.46,Kimberly G Bell,,46th Annual Sunbelt Meet,2020,3
+NCMS,1650 Y Freestyle,SCY,W,55-59,23:53.96,Mary Anne Savage,,2020 SC SCY State Championship,2020,1
+NCMS,50 Y Backstroke,SCY,W,55-59,39.08,Patty A Tiska,,State Games of America,2020,1
+NCMS,50 Y Backstroke,SCY,W,55-59,40.64,Carol M Gregory,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,55-59,41.60,Mary Anne Savage,,2020 SC SCY State Championship,2020,3
+NCMS,50 Y Backstroke,SCY,W,55-59,59.21,Elizabeth Boswell,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,W,55-59,1:17.96,Barbara A Young,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,55-59,1:23.47,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,55-59,1:24.58,Carol M Gregory,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Backstroke,SCY,W,55-59,2:57.40,Carol M Gregory,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,55-59,36.77,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,55-59,42.87,Mary Anne Savage,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Breaststroke,SCY,W,55-59,49.06,Carol M Gregory,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,W,55-59,1:07.23,Deirdre Guerriero,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Breaststroke,SCY,W,55-59,1:21.66,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,55-59,1:32.52,Mary Anne Savage,,2020 SC SCY State Championship,2020,2
+NCMS,100 Y Breaststroke,SCY,W,55-59,2:10.92,Elizabeth Boswell,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Breaststroke,SCY,W,55-59,2:55.19,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,55-59,34.15,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,55-59,36.54,Patty A Tiska,,State Games of America,2020,2
+NCMS,50 Y Butterfly,SCY,W,55-59,36.86,Mary Anne Savage,,2020 SC SCY State Championship,2020,3
+NCMS,50 Y Butterfly,SCY,W,55-59,40.44,Margot Strickler,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Butterfly,SCY,W,55-59,1:18.36,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Butterfly,SCY,W,55-59,3:12.74,Mary Anne Savage,,2020 SC SCY State Championship,2020,1
+NCMS,100 Y Individual Medley,SCY,W,55-59,1:13.28,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,55-59,1:19.12,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,55-59,1:24.02,Mary Anne Savage,,2020 SC SCY State Championship,2020,3
+NCMS,100 Y Individual Medley,SCY,W,55-59,1:26.60,Carol M Gregory,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,W,55-59,2:15.99,Kimberly G Bell,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Individual Medley,SCY,W,55-59,2:19.85,Elizabeth Boswell,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Individual Medley,SCY,W,55-59,2:45.43,Janice M Campagna,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,W,55-59,2:54.09,Anne C Rasmussen,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,W,55-59,3:12.73,Margot Strickler,,46th Annual Sunbelt Meet,2020,3
+NCMS,400 Y Individual Medley,SCY,W,55-59,6:19.46,Mary Anne Savage,,2020 SC SCY State Championship,2020,1
+NCMS,50 Y Freestyle,SCY,W,60-64,32.87,Dale M Alton,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,60-64,36.49,Jocelyn Robinson,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,60-64,38.09,Carla Gambrell,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,60-64,1:19.63,Jocelyn Robinson,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,60-64,1:38.42,Jennifer Sperry,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,W,60-64,2:57.00,Jocelyn Robinson,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,60-64,7:49.75,Carla Gambrell,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,60-64,10:28.10,Jennifer Sperry,,46th Annual Sunbelt Meet,2020,2
+NCMS,1650 Y Freestyle,SCY,W,60-64,26:07.11,Carla Gambrell,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,60-64,38.67,Dale M Alton,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,60-64,46.61,Carla Gambrell,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,W,60-64,50.66,Jennifer Sperry,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Backstroke,SCY,W,60-64,1:23.72,Dale M Alton,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,60-64,1:28.54,Karen Hefron,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,60-64,39.10,Dale M Alton,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,W,60-64,1:25.79,Dale M Alton,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,W,60-64,57.12,Jennifer Sperry,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,60-64,1:21.64,Dale M Alton,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,60-64,1:27.85,Karen Hefron,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,60-64,1:35.54,Jocelyn Robinson,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Individual Medley,SCY,W,60-64,4:08.02,Jennifer Sperry,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,65-69,31.96,Beverly O Amick,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,65-69,33.61,Ann M Sims,,St. Patrick's Day Invitational 2020,2020,2
+NCMS,100 Y Freestyle,SCY,W,65-69,1:11.76,Beverly O Amick,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,W,65-69,1:13.02,Ann M Sims,,St. Patrick's Day Invitational 2020,2020,2
+NCMS,200 Y Freestyle,SCY,W,65-69,2:35.50,Ann M Sims,,St. Patrick's Day Invitational 2020,2020,1
+NCMS,200 Y Freestyle,SCY,W,65-69,2:39.60,Debbie R Wilson,,2020 Auburn Masters SCY Invitational,2020,2
+NCMS,200 Y Freestyle,SCY,W,65-69,3:21.37,Donna C Parsons,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,W,65-69,6:56.70,Debbie R Wilson,,2020 Auburn Masters SCY Invitational,2020,1
+NCMS,1000 Y Freestyle,SCY,W,65-69,13:57.45,Ann M Sims,,46th Annual Sunbelt Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,W,65-69,17:40.46,Donna C Parsons,,46th Annual Sunbelt Meet,2020,2
+NCMS,1650 Y Freestyle,SCY,W,65-69,22:25.87,Cheryl A Murray,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,W,65-69,23:14.71,Debbie R Wilson,,2020 Auburn Masters SCY Invitational,2020,2
+NCMS,50 Y Backstroke,SCY,W,65-69,38.78,Beverly O Amick,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,65-69,48.36,Mary Pat Moeller,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,65-69,1:31.00,Debbie R Wilson,,2020 Auburn Masters SCY Invitational,2020,1
+NCMS,100 Y Backstroke,SCY,W,65-69,1:42.70,Mary Pat Moeller,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,W,65-69,1:51.91,Donna C Parsons,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Backstroke,SCY,W,65-69,3:08.36,Debbie R Wilson,,2020 Auburn Masters SCY Invitational,2020,1
+NCMS,200 Y Backstroke,SCY,W,65-69,3:36.61,Mary Pat Moeller,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,W,65-69,45.46,Ann M Sims,,St. Patrick's Day Invitational 2020,2020,1
+NCMS,50 Y Breaststroke,SCY,W,65-69,49.91,Mary Pat Moeller,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,W,65-69,1:35.61,Ann M Sims,,St. Patrick's Day Invitational 2020,2020,1
+NCMS,100 Y Breaststroke,SCY,W,65-69,1:50.91,Mary Pat Moeller,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Breaststroke,SCY,W,65-69,3:26.68,Ann M Sims,,St. Patrick's Day Invitational 2020,2020,1
+NCMS,50 Y Butterfly,SCY,W,65-69,35.28,Beverly O Amick,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Butterfly,SCY,W,65-69,1:19.83,Beverly O Amick,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Butterfly,SCY,W,65-69,3:10.86,Cheryl A Murray,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,65-69,1:21.97,Beverly O Amick,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,W,65-69,1:44.46,Mary Pat Moeller,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,W,65-69,1:50.54,Donna C Parsons,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,W,70-74,1:45.66,Greta Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,70-74,3:50.30,Greta Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,500 Y Freestyle,SCY,W,70-74,10:03.82,Greta Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,W,70-74,20:13.97,Greta Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,70-74,58.76,Greta Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,75-79,47.47,Nicola N Lallande,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,W,75-79,1:06.75,S A M Brooks,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,W,75-79,2:35.39,S A M Brooks,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,W,75-79,3:53.90,Nicola N Lallande,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,W,75-79,1:11.94,S A M Brooks,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,75-79,2:13.32,Nicola N Lallande,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,W,75-79,2:47.68,S A M Brooks,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,W,80-84,59.99,Mary Katherine Vass,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,W,80-84,1:26.40,Mary Katherine Vass,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,18-24,22.56,anthony  balkus,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,18-24,22.97,Matthew Honnold,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,18-24,23.38,Jacob W Cole,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,18-24,48.85,anthony  balkus,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,18-24,49.65,Matthew Honnold,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,18-24,50.67,Jacob W Cole,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,M,18-24,26.00,anthony  balkus,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,18-24,58.77,Jacob W Cole,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,18-24,28.33,Matthew Honnold,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,18-24,1:04.07,Matthew Honnold,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,18-24,1:05.58,Jacob W Cole,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,M,18-24,24.66,anthony  balkus,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,18-24,25.23,Matthew Honnold,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Butterfly,SCY,M,18-24,53.79,anthony  balkus,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Butterfly,SCY,M,18-24,1:00.12,Jacob W Cole,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,18-24,58.54,Matthew Honnold,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,18-24,58.85,Jacob W Cole,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,25-29,23.77,Evan J Maxwell,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,25-29,26.30,Donald J Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,25-29,50.40,Evan J Maxwell,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,25-29,1:47.80,Alex C Benham,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,25-29,1:48.34,Austin H Snyder,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,M,25-29,2:15.90,Donald J Smith,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,M,25-29,4:54.94,Alex C Benham,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,25-29,22.75,Michael J Baric,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,25-29,50.76,Michael J Baric,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,25-29,37.61,Donald J Smith,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,25-29,22.42,Michael J Baric,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,25-29,52.75,Michael J Baric,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,25-29,1:13.93,Donald J Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,M,25-29,2:03.93,Alex C Benham,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,25-29,4:10.04,Austin H Snyder,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,25-29,4:20.03,Alex C Benham,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,30-34,22.98,Chandler P Thomas,,Sweetheart Swim 2020,2020,1
+NCMS,50 Y Freestyle,SCY,M,30-34,24.22,Paul D Mayfield,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,30-34,24.66,Doug A Miller,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,30-34,24.98,Andrew D Whitley-Williams,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,M,30-34,30.62,Stephen T Brock,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,M,30-34,53.78,Dave Rossi,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,30-34,53.79,Kevin Parks,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,30-34,54.05,Andrew D Whitley-Williams,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,30-34,56.34,Doug A Miller,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,M,30-34,1:08.39,Stephen T Brock,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Freestyle,SCY,M,30-34,1:53.25,Chandler P Thomas,,Sweetheart Swim 2020,2020,1
+NCMS,200 Y Freestyle,SCY,M,30-34,1:55.62,Paul D Mayfield,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,M,30-34,2:00.10,Dave Rossi,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,M,30-34,2:02.65,Andrew D Whitley-Williams,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,M,30-34,2:14.40,Doug A Miller,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Freestyle,SCY,M,30-34,2:48.40,Stephen T Brock,,46th Annual Sunbelt Meet,2020,6
+NCMS,500 Y Freestyle,SCY,M,30-34,5:08.58,Chandler P Thomas,,Sweetheart Swim 2020,2020,1
+NCMS,500 Y Freestyle,SCY,M,30-34,5:27.96,Dave Rossi,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,M,30-34,5:31.53,Andrew D Whitley-Williams,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,M,30-34,8:18.24,Stephen T Brock,,46th Annual Sunbelt Meet,2020,4
+NCMS,1000 Y Freestyle,SCY,M,30-34,11:23.81,Dave Rossi,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,30-34,27.11,Kevin Parks,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,30-34,28.84,Keith Nelson,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Breaststroke,SCY,M,30-34,28.36,Chandler P Thomas,,2020 Auburn Masters SCY Invitational,2020,1
+NCMS,50 Y Breaststroke,SCY,M,30-34,30.02,Paul D Mayfield,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,M,30-34,1:02.03,Chandler P Thomas,,March Madness Meet hosted by Rice Aquatics Masters,2020,1
+NCMS,100 Y Breaststroke,SCY,M,30-34,1:05.17,Keith Nelson,,2020 SC SCY State Championship,2020,2
+NCMS,100 Y Breaststroke,SCY,M,30-34,1:05.44,Kevin Parks,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,M,30-34,1:16.14,Doug A Miller,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Breaststroke,SCY,M,30-34,2:17.11,Paul D Mayfield,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,M,30-34,2:18.20,Chandler P Thomas,,March Madness Meet hosted by Rice Aquatics Masters,2020,2
+NCMS,50 Y Butterfly,SCY,M,30-34,24.44,Chandler P Thomas,,2020 Auburn Masters SCY Invitational,2020,1
+NCMS,50 Y Butterfly,SCY,M,30-34,26.04,Trace U Sauter,,Evanston Masters 2020 January Invite,2020,2
+NCMS,50 Y Butterfly,SCY,M,30-34,26.21,Keith Nelson,,2020 SC SCY State Championship,2020,3
+NCMS,50 Y Butterfly,SCY,M,30-34,28.69,Andrew D Whitley-Williams,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,M,30-34,55.83,Chandler P Thomas,,2020 Auburn Masters SCY Invitational,2020,1
+NCMS,100 Y Individual Medley,SCY,M,30-34,59.71,Keith Nelson,,2020 SC SCY State Championship,2020,2
+NCMS,400 Y Individual Medley,SCY,M,30-34,4:58.79,Dave Rossi,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,30-34,5:06.90,Paul D Mayfield,,46th Annual Sunbelt Meet,2020,2
+NCMS,400 Y Individual Medley,SCY,M,30-34,5:17.27,Trace U Sauter,,Evanston Masters 2020 January Invite,2020,3
+NCMS,50 Y Freestyle,SCY,M,35-39,24.13,Seth Hall,,State Games of America,2020,1
+NCMS,50 Y Freestyle,SCY,M,35-39,24.51,Kurt Havens,,Patriot Masters Sprint Classic,2020,2
+NCMS,50 Y Freestyle,SCY,M,35-39,24.71,Jonathan R Piscitelli,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,35-39,28.52,Caleb Funkhauser,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,M,35-39,35.39,David Andersen,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,M,35-39,50.12,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,35-39,56.14,Kurt Havens,,6th Annual Snag Holmes Masters Invitational,2020,2
+NCMS,100 Y Freestyle,SCY,M,35-39,56.33,Jonathan R Piscitelli,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,35-39,1:05.41,Caleb Funkhauser,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,M,35-39,1:07.31,Thomas P Sloan,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,M,35-39,1:23.13,David Andersen,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Freestyle,SCY,M,35-39,1:48.82,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,35-39,1:53.59,Jeffrey C Glasco,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,M,35-39,2:04.77,Seth Hall,,State Games of America,2020,3
+NCMS,200 Y Freestyle,SCY,M,35-39,2:28.86,Thomas P Sloan,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,M,35-39,6:34.71,Thomas P Sloan,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,35-39,17:14.05,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,35-39,26.85,Jeffrey C Glasco,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,35-39,30.54,Kurt Havens,,Patriot Masters Sprint Classic,2020,2
+NCMS,50 Y Backstroke,SCY,M,35-39,36.52,Caleb Funkhauser,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,M,35-39,41.65,David Andersen,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,M,35-39,58.22,Jeffrey C Glasco,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,35-39,1:33.31,David Andersen,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,35-39,1:44.08,Thomas P Sloan,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Backstroke,SCY,M,35-39,2:04.96,Jeffrey C Glasco,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,M,35-39,2:59.04,SONNY NGUYEN,,State Games of America,2020,2
+NCMS,200 Y Backstroke,SCY,M,35-39,3:08.06,Thomas P Sloan,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,M,35-39,30.74,Kurt Havens,,Patriot Masters Sprint Classic,2020,1
+NCMS,50 Y Breaststroke,SCY,M,35-39,34.73,Ian C Douglass,,State Games of America,2020,2
+NCMS,50 Y Breaststroke,SCY,M,35-39,36.62,Caleb Funkhauser,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,M,35-39,1:08.53,Kurt Havens,,Patriot Masters Sprint Classic,2020,1
+NCMS,100 Y Breaststroke,SCY,M,35-39,1:27.25,Caleb Funkhauser,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Breaststroke,SCY,M,35-39,2:14.02,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,M,35-39,2:51.98,SONNY NGUYEN,,State Games of America,2020,2
+NCMS,50 Y Butterfly,SCY,M,35-39,26.15,Jeffrey C Glasco,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,35-39,26.87,Seth Hall,,State Games of America,2020,2
+NCMS,50 Y Butterfly,SCY,M,35-39,28.31,Jonathan R Piscitelli,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Butterfly,SCY,M,35-39,2:05.41,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Butterfly,SCY,M,35-39,2:55.61,SONNY NGUYEN,,State Games of America,2020,2
+NCMS,100 Y Individual Medley,SCY,M,35-39,55.89,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,35-39,58.58,Jeffrey C Glasco,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,35-39,1:02.21,Kurt Havens,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,M,35-39,1:06.64,Jonathan R Piscitelli,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,M,35-39,1:23.74,Thomas P Sloan,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Individual Medley,SCY,M,35-39,2:01.17,Michael Dellanoce,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,35-39,2:19.30,Kurt Havens,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,M,35-39,2:30.94,Seth Hall,,State Games of America,2020,3
+NCMS,400 Y Individual Medley,SCY,M,35-39,5:12.42,Kurt Havens,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,40-44,23.54,Scott J Dallamura,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,40-44,25.05,David F Brewster,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,40-44,35.19,Adrian Manso,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,40-44,1:02.06,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,40-44,1:07.20,Brian Johnson,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,40-44,1:26.36,Adrian Manso,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,M,40-44,2:41.49,Brian Johnson,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,M,40-44,6:09.71,Andrew H Peppercorn,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,M,40-44,7:38.24,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,2
+NCMS,1000 Y Freestyle,SCY,M,40-44,12:21.37,Andrew H Peppercorn,,46th Annual Sunbelt Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,M,40-44,15:23.87,Brian Johnson,,46th Annual Sunbelt Meet,2020,2
+NCMS,1650 Y Freestyle,SCY,M,40-44,20:42.54,Andrew H Peppercorn,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,40-44,28.20,Scott J Dallamura,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,40-44,50.17,Adrian Manso,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,40-44,1:22.38,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,M,40-44,3:18.52,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,40-44,34.45,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,40-44,1:16.29,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,40-44,1:21.81,Brian Johnson,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,M,40-44,1:36.03,Adrian Manso,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Breaststroke,SCY,M,40-44,2:58.90,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,M,40-44,3:02.95,Brian Johnson,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Breaststroke,SCY,M,40-44,3:44.02,Adrian Manso,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,M,40-44,24.53,Scott J Dallamura,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,40-44,29.29,Andrew H Peppercorn,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,M,40-44,36.78,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Butterfly,SCY,M,40-44,54.30,Scott J Dallamura,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Butterfly,SCY,M,40-44,1:33.06,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Butterfly,SCY,M,40-44,2:39.57,Andrew H Peppercorn,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,40-44,2:58.10,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,40-44,5:19.01,Andrew H Peppercorn,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,40-44,6:29.31,SONNY NGUYEN,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,45-49,23.21,Gregg Higson,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,45-49,24.87,Joseph M Walter,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,45-49,25.02,Bill T McCormick,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,45-49,25.13,David A Major,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,M,45-49,25.33,Jeff Lyons,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,M,45-49,25.94,John L Challis,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,M,45-49,27.39,Roberto Munoz,,46th Annual Sunbelt Meet,2020,7
+NCMS,50 Y Freestyle,SCY,M,45-49,30.55,Pedram Mohseni,,46th Annual Sunbelt Meet,2020,8
+NCMS,50 Y Freestyle,SCY,M,45-49,35.49,Jason V Philbin,,46th Annual Sunbelt Meet,2020,9
+NCMS,100 Y Freestyle,SCY,M,45-49,54.91,Bill T McCormick,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,45-49,55.27,Jeff Lyons,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,45-49,55.56,Joseph M Walter,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,45-49,55.75,David A Major,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,M,45-49,59.43,John L Challis,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,M,45-49,1:00.07,Roberto Munoz,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Freestyle,SCY,M,45-49,1:11.52,Pedram Mohseni,,46th Annual Sunbelt Meet,2020,7
+NCMS,200 Y Freestyle,SCY,M,45-49,1:58.57,Joseph M Walter,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,45-49,2:07.11,David A Major,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,M,45-49,2:13.95,Eric S King,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,M,45-49,2:57.01,Jason V Philbin,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,M,45-49,5:21.09,Joseph M Walter,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,M,45-49,5:35.10,Jeff Lyons,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,M,45-49,5:41.08,Robert R Pardo,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,M,45-49,6:11.69,Jason Sturgis,,46th Annual Sunbelt Meet,2020,4
+NCMS,1000 Y Freestyle,SCY,M,45-49,11:47.74,Robert R Pardo,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,45-49,19:38.03,Robert R Pardo,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,45-49,21:51.09,Jason Sturgis,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,M,45-49,27.18,Gregg Higson,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,45-49,30.06,John L Challis,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,M,45-49,32.43,Rob Butcher,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,M,45-49,35.24,Jason Sturgis,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,M,45-49,58.30,Gregg Higson,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,45-49,58.33,Robert Flynn,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,45-49,1:09.90,John L Challis,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Backstroke,SCY,M,45-49,1:18.54,Jason Sturgis,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,M,45-49,1:30.70,Pedram Mohseni,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Backstroke,SCY,M,45-49,2:08.96,Gregg Higson,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,45-49,29.46,Bill T McCormick,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,45-49,30.32,Rob Butcher,,St. Patrick's Day Invitational 2020,2020,2
+NCMS,50 Y Breaststroke,SCY,M,45-49,31.28,Joseph M Walter,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,M,45-49,40.97,Pedram Mohseni,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Breaststroke,SCY,M,45-49,42.19,Jason Sturgis,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Breaststroke,SCY,M,45-49,45.99,Jason V Philbin,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Breaststroke,SCY,M,45-49,1:04.31,Rob Butcher,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,45-49,1:05.13,Bill T McCormick,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,M,45-49,1:33.81,Jason Sturgis,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Breaststroke,SCY,M,45-49,2:29.49,Bill T McCormick,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,M,45-49,2:37.28,Rob Butcher,,St. Patrick's Day Invitational 2020,2020,2
+NCMS,50 Y Butterfly,SCY,M,45-49,25.41,Robert Flynn,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,45-49,25.87,Morten Andersen,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,M,45-49,27.63,Jeff Lyons,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,M,45-49,27.80,Joseph M Walter,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Butterfly,SCY,M,45-49,29.33,John L Challis,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Butterfly,SCY,M,45-49,31.30,Roberto Munoz,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Butterfly,SCY,M,45-49,43.76,Pedram Mohseni,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Butterfly,SCY,M,45-49,57.06,Morten Andersen,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Butterfly,SCY,M,45-49,1:01.53,Jeff Lyons,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Butterfly,SCY,M,45-49,1:05.48,Eric S King,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Butterfly,SCY,M,45-49,1:12.17,Roberto Munoz,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Butterfly,SCY,M,45-49,2:10.52,Morten Andersen,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,45-49,55.18,Robert Flynn,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:00.09,Morten Andersen,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:01.46,Joseph M Walter,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:01.58,Bill T McCormick,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:03.35,Jeff Lyons,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:04.81,Rob Butcher,,St. Patrick's Day Invitational 2020,2020,6
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:07.22,John L Challis,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Individual Medley,SCY,M,45-49,1:12.15,Roberto Munoz,,46th Annual Sunbelt Meet,2020,8
+NCMS,200 Y Individual Medley,SCY,M,45-49,2:11.87,Morten Andersen,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,45-49,2:18.44,Rob Butcher,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,M,45-49,2:18.47,Jeff Lyons,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Individual Medley,SCY,M,45-49,2:30.20,Eric S King,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Individual Medley,SCY,M,45-49,2:44.85,Roberto Munoz,,46th Annual Sunbelt Meet,2020,5
+NCMS,400 Y Individual Medley,SCY,M,45-49,4:48.33,Morten Andersen,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,45-49,5:22.35,Eric S King,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,50-54,24.18,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,50-54,24.81,Edison Sandrini,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,50-54,28.21,Patrick F Harrison,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,50-54,29.11,Theodore I Gossert,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,M,50-54,53.88,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,50-54,55.48,Chuck Graf,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,50-54,1:00.01,Stephen C Brown,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,50-54,1:07.63,Marcus Barton,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,M,50-54,1:08.75,Theodore I Gossert,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Freestyle,SCY,M,50-54,1:59.69,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,50-54,2:13.58,Stephen C Brown,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,M,50-54,5:36.23,Norman E Schultz,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,M,50-54,5:43.32,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,M,50-54,6:07.13,Stephen C Brown,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,M,50-54,7:04.17,Marcus Barton,,46th Annual Sunbelt Meet,2020,4
+NCMS,1000 Y Freestyle,SCY,M,50-54,11:35.97,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,1
+NCMS,1000 Y Freestyle,SCY,M,50-54,12:03.39,Norman E Schultz,,46th Annual Sunbelt Meet,2020,2
+NCMS,1000 Y Freestyle,SCY,M,50-54,12:15.36,Stephen C Brown,,46th Annual Sunbelt Meet,2020,3
+NCMS,1650 Y Freestyle,SCY,M,50-54,19:40.12,Norman E Schultz,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,50-54,20:27.70,Stephen C Brown,,46th Annual Sunbelt Meet,2020,2
+NCMS,1650 Y Freestyle,SCY,M,50-54,25:13.60,Mark Makhuli,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,M,50-54,28.71,Chuck Niemeyer,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,50-54,39.64,Theodore I Gossert,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,50-54,1:03.48,Chuck Niemeyer,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,50-54,30.32,John P Finn,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,50-54,31.31,Chuck Graf,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,M,50-54,37.64,Theodore I Gossert,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,M,50-54,37.82,Patrick F Harrison,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Breaststroke,SCY,M,50-54,1:05.55,John P Finn,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,50-54,1:23.01,Paul E Kern,,2020 SC SCY State Championship,2020,2
+NCMS,200 Y Breaststroke,SCY,M,50-54,2:30.68,Chuck Graf,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,50-54,26.48,Chuck Niemeyer,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,50-54,28.47,Chuck Graf,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,M,50-54,31.75,Stephen C Brown,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,M,50-54,33.20,Paul E Kern,,2020 SC SCY State Championship,2020,4
+NCMS,50 Y Butterfly,SCY,M,50-54,34.91,Patrick F Harrison,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Butterfly,SCY,M,50-54,2:51.70,Stephen C Brown,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,50-54,1:00.91,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,50-54,1:03.19,John P Finn,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,50-54,1:03.73,Chuck Graf,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,M,50-54,1:11.08,Stephen C Brown,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,M,50-54,1:22.17,Theodore I Gossert,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Individual Medley,SCY,M,50-54,2:17.61,Chuck Graf,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,50-54,2:19.34,Tyge Pistorio,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,M,50-54,2:33.85,Stephen C Brown,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Individual Medley,SCY,M,50-54,2:47.97,Paul E Kern,,2020 SC SCY State Championship,2020,4
+NCMS,400 Y Individual Medley,SCY,M,50-54,5:39.23,Stephen C Brown,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,55-59,24.77,Henry D Stewart,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,55-59,25.42,John Moore,,6th Annual Growler Invitational,2020,2
+NCMS,50 Y Freestyle,SCY,M,55-59,25.95,Robert W Cole,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,55-59,26.53,Ned S Williams,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,M,55-59,27.97,Eric A Carlson,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,M,55-59,28.58,David Harmon,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,M,55-59,29.96,James L Keffer,,46th Annual Sunbelt Meet,2020,7
+NCMS,50 Y Freestyle,SCY,M,55-59,30.12,Robert Rose,,46th Annual Sunbelt Meet,2020,8
+NCMS,50 Y Freestyle,SCY,M,55-59,30.66,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,9
+NCMS,50 Y Freestyle,SCY,M,55-59,31.31,David A Scott,,46th Annual Sunbelt Meet,2020,10
+NCMS,50 Y Freestyle,SCY,M,55-59,33.07,G. Bryon Gragg,,46th Annual Sunbelt Meet,2020,11
+NCMS,50 Y Freestyle,SCY,M,55-59,33.50,patrick Guerriero,,46th Annual Sunbelt Meet,2020,12
+NCMS,50 Y Freestyle,SCY,M,55-59,36.36,Stefano Mignardi,,46th Annual Sunbelt Meet,2020,13
+NCMS,50 Y Freestyle,SCY,M,55-59,43.53,Ben Stamey,,National Senior Games,2020,14
+NCMS,100 Y Freestyle,SCY,M,55-59,54.73,Henry D Stewart,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,55-59,56.71,John Moore,,2020 SC SCY State Championship,2020,2
+NCMS,100 Y Freestyle,SCY,M,55-59,58.16,Robert W Cole,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Freestyle,SCY,M,55-59,59.43,Ned S Williams,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Freestyle,SCY,M,55-59,1:06.44,Thomas H Handy,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Freestyle,SCY,M,55-59,1:07.46,Eric A Carlson,,State Games of America,2020,6
+NCMS,100 Y Freestyle,SCY,M,55-59,1:08.59,James L Keffer,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Freestyle,SCY,M,55-59,1:08.84,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,8
+NCMS,100 Y Freestyle,SCY,M,55-59,1:13.89,G. Bryon Gragg,,46th Annual Sunbelt Meet,2020,9
+NCMS,100 Y Freestyle,SCY,M,55-59,1:41.80,Ben Stamey,,National Senior Games,2020,10
+NCMS,200 Y Freestyle,SCY,M,55-59,2:05.12,John Moore,,2020 SC SCY State Championship,2020,1
+NCMS,200 Y Freestyle,SCY,M,55-59,2:13.72,Robert W Cole,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,M,55-59,2:24.50,Eric A Carlson,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,M,55-59,2:32.10,Thomas H Handy,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,M,55-59,2:38.07,David A Scott,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Freestyle,SCY,M,55-59,2:44.38,Robert Rose,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Freestyle,SCY,M,55-59,3:02.56,Stefano Mignardi,,46th Annual Sunbelt Meet,2020,7
+NCMS,500 Y Freestyle,SCY,M,55-59,5:42.99,John Moore,,6th Annual Growler Invitational,2020,1
+NCMS,500 Y Freestyle,SCY,M,55-59,5:51.43,Stratton Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,500 Y Freestyle,SCY,M,55-59,6:54.01,James L Keffer,,46th Annual Sunbelt Meet,2020,3
+NCMS,500 Y Freestyle,SCY,M,55-59,7:22.91,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,4
+NCMS,500 Y Freestyle,SCY,M,55-59,7:43.42,Fred Holtz,,6th Annual Growler Invitational,2020,5
+NCMS,1000 Y Freestyle,SCY,M,55-59,11:37.35,John Moore,,6th Annual Growler Invitational,2020,1
+NCMS,1650 Y Freestyle,SCY,M,55-59,19:41.05,Stratton Smith,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,55-59,20:04.42,John Moore,,2020 SC SCY State Championship,2020,2
+NCMS,1650 Y Freestyle,SCY,M,55-59,23:36.38,David F Dawson-Elli,,46th Annual Sunbelt Meet,2020,3
+NCMS,1650 Y Freestyle,SCY,M,55-59,25:19.57,Robert Rose,,46th Annual Sunbelt Meet,2020,4
+NCMS,1650 Y Freestyle,SCY,M,55-59,27:56.09,Stefano Mignardi,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Backstroke,SCY,M,55-59,28.83,Henry D Stewart,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,55-59,32.13,John Moore,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Backstroke,SCY,M,55-59,40.12,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,M,55-59,44.00,Harry R Pirie,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Backstroke,SCY,M,55-59,44.83,Fred Holtz,,6th Annual Growler Invitational,2020,5
+NCMS,50 Y Backstroke,SCY,M,55-59,47.88,Ben Stamey,,National Senior Games,2020,6
+NCMS,100 Y Backstroke,SCY,M,55-59,1:07.01,Ned S Williams,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,55-59,1:07.38,Stratton Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,55-59,1:11.53,Robert W Cole,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Backstroke,SCY,M,55-59,1:35.64,Harry R Pirie,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Backstroke,SCY,M,55-59,2:39.31,Robert W Cole,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,55-59,34.04,John Moore,,2020 SC SCY State Championship,2020,1
+NCMS,50 Y Breaststroke,SCY,M,55-59,38.08,G. Bryon Gragg,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,M,55-59,38.12,David Harmon,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Breaststroke,SCY,M,55-59,38.30,James L Keffer,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Breaststroke,SCY,M,55-59,42.46,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Breaststroke,SCY,M,55-59,42.62,Harry R Pirie,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Breaststroke,SCY,M,55-59,44.63,Fred Holtz,,6th Annual Growler Invitational,2020,7
+NCMS,50 Y Breaststroke,SCY,M,55-59,46.27,patrick Guerriero,,46th Annual Sunbelt Meet,2020,8
+NCMS,50 Y Breaststroke,SCY,M,55-59,54.66,Ben Stamey,,National Senior Games,2020,9
+NCMS,100 Y Breaststroke,SCY,M,55-59,1:24.32,G. Bryon Gragg,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,55-59,1:24.62,James L Keffer,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,M,55-59,1:34.73,Harry R Pirie,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,M,55-59,2:01.11,Ben Stamey,,National Senior Games,2020,4
+NCMS,50 Y Butterfly,SCY,M,55-59,27.08,Henry D Stewart,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,55-59,29.14,John Moore,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Butterfly,SCY,M,55-59,36.69,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Butterfly,SCY,M,55-59,1:01.40,Henry D Stewart,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Butterfly,SCY,M,55-59,2:42.65,Stratton Smith,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:06.13,John Moore,,6th Annual Growler Invitational,2020,1
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:07.67,Stratton Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:10.49,Robert W Cole,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:14.46,David Harmon,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:19.49,Thomas H Handy,,46th Annual Sunbelt Meet,2020,5
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:22.40,G. Bryon Gragg,,46th Annual Sunbelt Meet,2020,6
+NCMS,100 Y Individual Medley,SCY,M,55-59,1:24.85,Matthew J Arnold,,46th Annual Sunbelt Meet,2020,7
+NCMS,200 Y Individual Medley,SCY,M,55-59,2:29.85,John Moore,,6th Annual Growler Invitational,2020,1
+NCMS,200 Y Individual Medley,SCY,M,55-59,2:34.06,Robert W Cole,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Individual Medley,SCY,M,55-59,2:59.67,Eric A Carlson,,State Games of America,2020,3
+NCMS,400 Y Individual Medley,SCY,M,55-59,5:18.06,John Moore,,2020 SC SCY State Championship,2020,1
+NCMS,400 Y Individual Medley,SCY,M,55-59,5:19.11,Stratton Smith,,46th Annual Sunbelt Meet,2020,2
+NCMS,400 Y Individual Medley,SCY,M,55-59,5:57.13,Eric A Carlson,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,60-64,26.54,Gene Kennedy,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,60-64,28.66,Albert M Adcock,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,60-64,37.13,Rick Schmidt,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Freestyle,SCY,M,60-64,39.39,Richard D Lipson,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,M,60-64,2:13.73,Gene Kennedy,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,60-64,21:17.68,Gene Kennedy,,46th Annual Sunbelt Meet,2020,1
+NCMS,1650 Y Freestyle,SCY,M,60-64,27:17.30,Richard Sheinis,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,60-64,1:04.80,Jonathan E Klein,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,60-64,45.97,Rick Schmidt,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,60-64,1:18.69,Albert M Adcock,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,60-64,1:39.83,Rick Schmidt,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,65-69,27.22,Donald B Gilchrist,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,65-69,28.94,Carlos Glender,,National Senior Games,2020,2
+NCMS,100 Y Freestyle,SCY,M,65-69,1:06.47,Carlos Glender,,National Senior Games,2020,1
+NCMS,200 Y Freestyle,SCY,M,65-69,4:01.56,Jamie A Miller,,2020 SC SCY State Championship,2020,1
+NCMS,500 Y Freestyle,SCY,M,65-69,6:48.35,Peter B Meyers,,46th Annual Sunbelt Meet,2020,1
+NCMS,500 Y Freestyle,SCY,M,65-69,11:00.72,Jamie A Miller,,2020 SC SCY State Championship,2020,2
+NCMS,1650 Y Freestyle,SCY,M,65-69,36:32.91,Jamie A Miller,,2020 SC SCY State Championship,2020,1
+NCMS,50 Y Backstroke,SCY,M,65-69,33.34,Donald B Gilchrist,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,65-69,1:17.33,Warren A White,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,M,65-69,2:45.96,Warren A White,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Backstroke,SCY,M,65-69,5:12.76,Jamie A Miller,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Breaststroke,SCY,M,65-69,31.79,Neal L Vestal,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,65-69,34.56,Donald B Gilchrist,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,M,65-69,38.02,Carlos Glender,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Breaststroke,SCY,M,65-69,1:10.73,Neal L Vestal,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,65-69,1:35.07,Carlos Glender,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Breaststroke,SCY,M,65-69,2:44.68,Neal L Vestal,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,M,65-69,4:51.94,Jamie A Miller,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Butterfly,SCY,M,65-69,28.69,Neal L Vestal,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,65-69,30.22,Donald B Gilchrist,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Butterfly,SCY,M,65-69,31.84,Peter B Meyers,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Butterfly,SCY,M,65-69,34.87,Carlos Glender,,National Senior Games,2020,4
+NCMS,50 Y Butterfly,SCY,M,65-69,59.26,Jamie A Miller,,2020 SC SCY State Championship,2020,5
+NCMS,100 Y Butterfly,SCY,M,65-69,1:28.56,Carlos Glender,,National Senior Games,2020,1
+NCMS,100 Y Butterfly,SCY,M,65-69,2:36.27,Jamie A Miller,,2020 SC SCY State Championship,2020,2
+NCMS,200 Y Butterfly,SCY,M,65-69,3:32.46,Carlos Glender,,National Senior Games,2020,1
+NCMS,100 Y Individual Medley,SCY,M,65-69,1:07.59,Neal L Vestal,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,65-69,1:18.28,Carlos Glender,,National Senior Games,2020,2
+NCMS,200 Y Individual Medley,SCY,M,65-69,3:15.25,Carlos Glender,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,65-69,4:49.46,Jamie A Miller,,2020 SC SCY State Championship,2020,2
+NCMS,400 Y Individual Medley,SCY,M,65-69,7:11.90,Carlos Glender,,46th Annual Sunbelt Meet,2020,1
+NCMS,400 Y Individual Medley,SCY,M,65-69,10:35.29,Jamie A Miller,,2020 SC SCY State Championship,2020,2
+NCMS,50 Y Freestyle,SCY,M,70-74,28.87,Ernie Glass,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,70-74,32.17,J Edward McFadden,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Freestyle,SCY,M,70-74,35.47,Jim E Boston,,2020 SC SCY State Championship,2020,3
+NCMS,50 Y Freestyle,SCY,M,70-74,35.95,Harry M Snyder,,46th Annual Sunbelt Meet,2020,4
+NCMS,50 Y Freestyle,SCY,M,70-74,36.64,Fredie Borrero,,46th Annual Sunbelt Meet,2020,5
+NCMS,50 Y Freestyle,SCY,M,70-74,38.49,John A Purdie,,46th Annual Sunbelt Meet,2020,6
+NCMS,50 Y Freestyle,SCY,M,70-74,48.57,Douglas W Bailey,,46th Annual Sunbelt Meet,2020,7
+NCMS,100 Y Freestyle,SCY,M,70-74,1:04.19,Ernie Glass,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,70-74,1:11.75,J Edward McFadden,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Freestyle,SCY,M,70-74,1:26.71,Jim E Boston,,2020 SC SCY State Championship,2020,3
+NCMS,100 Y Freestyle,SCY,M,70-74,1:55.90,Douglas W Bailey,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,M,70-74,2:26.48,Ernie Glass,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,70-74,2:57.68,J Edward McFadden,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Freestyle,SCY,M,70-74,3:07.13,David W Schumann,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Freestyle,SCY,M,70-74,3:10.61,John A Purdie,,46th Annual Sunbelt Meet,2020,4
+NCMS,200 Y Freestyle,SCY,M,70-74,3:17.41,Fredie Borrero,,46th Annual Sunbelt Meet,2020,5
+NCMS,200 Y Freestyle,SCY,M,70-74,3:30.34,Jim E Boston,,2020 SC SCY State Championship,2020,6
+NCMS,200 Y Freestyle,SCY,M,70-74,3:34.69,Gerald H Meyer,,National Senior Games,2020,7
+NCMS,500 Y Freestyle,SCY,M,70-74,10:14.10,Gerald H Meyer,,National Senior Games,2020,1
+NCMS,1650 Y Freestyle,SCY,M,70-74,29:06.31,David W Schumann,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,70-74,37.09,Michael J Conroy,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,70-74,37.16,Ernie Glass,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Backstroke,SCY,M,70-74,39.92,J Edward McFadden,,46th Annual Sunbelt Meet,2020,3
+NCMS,50 Y Backstroke,SCY,M,70-74,1:02.04,Douglas W Bailey,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Backstroke,SCY,M,70-74,1:21.22,Michael J Conroy,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Backstroke,SCY,M,70-74,1:44.77,David W Schumann,,46th Annual Sunbelt Meet,2020,2
+NCMS,200 Y Backstroke,SCY,M,70-74,3:05.67,Michael J Conroy,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,70-74,42.20,J Edward McFadden,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,70-74,51.81,Fredie Borrero,,46th Annual Sunbelt Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,M,70-74,52.82,Jim E Boston,,2020 SC SCY State Championship,2020,3
+NCMS,50 Y Breaststroke,SCY,M,70-74,54.64,John A Purdie,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Breaststroke,SCY,M,70-74,1:30.69,J Edward McFadden,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,70-74,1:52.23,Gerald H Meyer,,National Senior Games,2020,2
+NCMS,100 Y Breaststroke,SCY,M,70-74,2:29.74,Douglas W Bailey,,46th Annual Sunbelt Meet,2020,3
+NCMS,200 Y Breaststroke,SCY,M,70-74,4:18.81,Gerald H Meyer,,National Senior Games,2020,1
+NCMS,50 Y Butterfly,SCY,M,70-74,33.70,Ernie Glass,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,70-74,1:16.98,Ernie Glass,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,70-74,1:26.25,Michael J Conroy,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,70-74,1:37.91,Fredie Borrero,,46th Annual Sunbelt Meet,2020,3
+NCMS,100 Y Individual Medley,SCY,M,70-74,1:47.15,John A Purdie,,46th Annual Sunbelt Meet,2020,4
+NCMS,100 Y Individual Medley,SCY,M,70-74,1:55.90,Gerald H Meyer,,National Senior Games,2020,5
+NCMS,100 Y Individual Medley,SCY,M,70-74,2:17.23,Douglas W Bailey,,46th Annual Sunbelt Meet,2020,6
+NCMS,200 Y Individual Medley,SCY,M,70-74,3:19.10,Michael J Conroy,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,70-74,4:15.63,Gerald H Meyer,,National Senior Games,2020,2
+NCMS,50 Y Freestyle,SCY,M,75-79,30.46,Bernard T White,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Freestyle,SCY,M,75-79,1:46.66,Gerald H Meyer,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Freestyle,SCY,M,75-79,3:23.27,Louis C Gadol,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,75-79,49.18,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,50 Y Backstroke,SCY,M,75-79,1:02.51,Gerald H Meyer,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Backstroke,SCY,M,75-79,1:47.78,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,200 Y Backstroke,SCY,M,75-79,3:55.94,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,75-79,46.38,Louis C Gadol,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,75-79,50.14,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,2
+NCMS,50 Y Breaststroke,SCY,M,75-79,54.59,Ron Parks,,National Senior Games,2020,3
+NCMS,100 Y Breaststroke,SCY,M,75-79,1:49.58,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,100 Y Breaststroke,SCY,M,75-79,2:02.39,Gerald H Meyer,,46th Annual Sunbelt Meet,2020,2
+NCMS,100 Y Breaststroke,SCY,M,75-79,2:07.12,Ron Parks,,National Senior Games,2020,3
+NCMS,200 Y Breaststroke,SCY,M,75-79,3:56.95,Louis C Gadol,,46th Annual Sunbelt Meet,2020,1
+NCMS,200 Y Breaststroke,SCY,M,75-79,3:59.88,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,2
+NCMS,200 Y Breaststroke,SCY,M,75-79,5:01.08,Ron Parks,,National Senior Games,2020,3
+NCMS,50 Y Butterfly,SCY,M,75-79,35.09,Bernard T White,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Butterfly,SCY,M,75-79,51.00,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,75-79,1:38.91,Louis C Gadol,,46th Annual Sunbelt Meet,2020,1
+NCMS,100 Y Individual Medley,SCY,M,75-79,1:46.83,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,2
+NCMS,100 Y Individual Medley,SCY,M,75-79,2:28.11,Ron Parks,,National Senior Games,2020,3
+NCMS,200 Y Individual Medley,SCY,M,75-79,3:56.15,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,200 Y Individual Medley,SCY,M,75-79,4:29.63,Gerald H Meyer,,46th Annual Sunbelt Meet,2020,2
+NCMS,400 Y Individual Medley,SCY,M,75-79,9:00.26,Hans P Van Meeteren,,28th Annual Masters SCY Valentine's Meet,2020,1
+NCMS,50 Y Freestyle,SCY,M,80-84,36.40,Rolffs S Pinkerton,,National Senior Games,2020,1
+NCMS,50 Y Backstroke,SCY,M,80-84,43.36,Rolffs S Pinkerton,,National Senior Games,2020,1
+NCMS,100 Y Backstroke,SCY,M,80-84,1:38.54,Rolffs S Pinkerton,,National Senior Games,2020,1
+NCMS,200 Y Backstroke,SCY,M,80-84,3:35.45,Rolffs S Pinkerton,,National Senior Games,2020,1
+NCMS,50 Y Freestyle,SCY,M,85-89,46.11,Steve Barrett,,National Senior Games,2020,1
+NCMS,100 Y Freestyle,SCY,M,85-89,1:48.48,Steve Barrett,,National Senior Games,2020,1
+NCMS,100 Y Backstroke,SCY,M,85-89,2:03.99,Steve Barrett,,46th Annual Sunbelt Meet,2020,1
+NCMS,50 Y Breaststroke,SCY,M,85-89,1:00.91,Steve Barrett,,National Senior Games,2020,1
+NCMS,100 Y Breaststroke,SCY,M,85-89,2:22.18,Steve Barrett,,National Senior Games,2020,1
+NCMS,50 Y Butterfly,SCY,M,85-89,1:06.09,Steve Barrett,,National Senior Games,2020,1
+NCMS,100 Y Individual Medley,SCY,M,85-89,2:08.65,Steve Barrett,,National Senior Games,2020,1
+UC13,100 Y Breaststroke,SCY,W,30-34,1:16.98,Laura A Watterson,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Butterfly,SCY,W,30-34,30.78,Laura A Watterson,,46th Annual Sunbelt Meet,2020,1
+UC13,200 Y Individual Medley,SCY,W,30-34,2:33.95,Laura A Watterson,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Freestyle,SCY,W,45-49,34.65,Patty Shoaf,,46th Annual Sunbelt Meet,2020,1
+UC13,100 Y Freestyle,SCY,W,45-49,1:20.35,Patty Shoaf,,46th Annual Sunbelt Meet,2020,1
+UC13,200 Y Freestyle,SCY,W,45-49,3:05.93,Patty Shoaf,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Backstroke,SCY,W,45-49,51.48,Patty Shoaf,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Freestyle,SCY,W,65-69,33.17,Virginia L MacColl,,National Senior Games,2020,1
+UC13,50 Y Breaststroke,SCY,W,65-69,44.75,Virginia L MacColl,,National Senior Games,2020,1
+UC13,500 Y Freestyle,SCY,W,70-74,9:09.35,Patricia A Barratt,,National Senior Games,2020,1
+UC13,50 Y Backstroke,SCY,W,70-74,48.80,Patricia A Barratt,,National Senior Games,2020,1
+UC13,100 Y Backstroke,SCY,W,70-74,1:46.50,Patricia A Barratt,,National Senior Games,2020,1
+UC13,200 Y Backstroke,SCY,W,70-74,3:48.87,Patricia A Barratt,,National Senior Games,2020,1
+UC13,50 Y Butterfly,SCY,W,70-74,50.80,Patricia A Barratt,,National Senior Games,2020,1
+UC13,50 Y Freestyle,SCY,M,25-29,19.98,Aaron S Greenberg,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Freestyle,SCY,M,25-29,23.78,Evante E Gibson,,46th Annual Sunbelt Meet,2020,2
+UC13,100 Y Freestyle,SCY,M,25-29,44.62,Aaron S Greenberg,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Breaststroke,SCY,M,25-29,25.24,Aaron S Greenberg,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Butterfly,SCY,M,25-29,21.92,Aaron S Greenberg,,46th Annual Sunbelt Meet,2020,1
+UC13,100 Y Butterfly,SCY,M,25-29,55.00,Evante E Gibson,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Freestyle,SCY,M,35-39,24.27,Jeremy Carroll,,46th Annual Sunbelt Meet,2020,1
+UC13,100 Y Freestyle,SCY,M,35-39,54.06,Jeremy Carroll,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Butterfly,SCY,M,35-39,26.76,Jeremy Carroll,,46th Annual Sunbelt Meet,2020,1
+UC13,100 Y Butterfly,SCY,M,35-39,1:01.78,Jeremy Carroll,,46th Annual Sunbelt Meet,2020,1
+UC13,100 Y Individual Medley,SCY,M,35-39,1:02.79,Jeremy Carroll,,46th Annual Sunbelt Meet,2020,1
+UC13,50 Y Freestyle,SCY,M,60-64,27.53,Robert J Plough,,5th Annual Club Tribe Masters Classic,2020,1
+UC13,100 Y Freestyle,SCY,M,60-64,1:01.10,Robert J Plough,,5th Annual Club Tribe Masters Classic,2020,1
+UC13,50 Y Backstroke,SCY,M,60-64,33.17,Robert J Plough,,5th Annual Club Tribe Masters Classic,2020,1
+UC13,50 Y Butterfly,SCY,M,60-64,30.76,Robert J Plough,,5th Annual Club Tribe Masters Classic,2020,1
+USAM,50 Y Freestyle,SCY,W,35-39,39.46,Brandi  D Collier,,46th Annual Sunbelt Meet,2020,1
+USAM,100 Y Freestyle,SCY,W,35-39,1:31.65,Brandi  D Collier,,46th Annual Sunbelt Meet,2020,1
+USAM,50 Y Backstroke,SCY,W,35-39,52.11,Brandi  D Collier,,46th Annual Sunbelt Meet,2020,1
+USAM,100 Y Backstroke,SCY,W,35-39,2:03.29,Brandi  D Collier,,46th Annual Sunbelt Meet,2020,1
+USAM,50 Y Freestyle,SCY,W,45-49,43.53,Susan R Pasko,,46th Annual Sunbelt Meet,2020,1
+USAM,50 Y Breaststroke,SCY,W,45-49,52.57,Susan R Pasko,,46th Annual Sunbelt Meet,2020,1
+USAM,50 Y Freestyle,SCY,W,65-69,47.18,Darnell L Ivory,,46th Annual Sunbelt Meet,2020,1
+USAM,100 Y Freestyle,SCY,W,65-69,1:52.08,Darnell L Ivory,,46th Annual Sunbelt Meet,2020,1
+USAM,50 Y Breaststroke,SCY,W,65-69,1:00.66,Darnell L Ivory,,46th Annual Sunbelt Meet,2020,1
+USAM,100 Y Breaststroke,SCY,W,65-69,2:11.93,Darnell L Ivory,,46th Annual Sunbelt Meet,2020,1
+YOBX,50 Y Freestyle,SCY,M,30-34,29.86,Curtis  W Price,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,100 Y Freestyle,SCY,M,30-34,1:03.91,Curtis  W Price,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,200 Y Freestyle,SCY,M,30-34,2:27.84,Curtis  W Price,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,50 Y Freestyle,SCY,M,60-64,29.33,Jack D Horst,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,50 Y Freestyle,SCY,M,60-64,32.07,John Donlan,,5th Annual Club Tribe Masters Classic,2020,2
+YOBX,100 Y Freestyle,SCY,M,60-64,1:07.48,Jack D Horst,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,100 Y Freestyle,SCY,M,60-64,1:12.52,John Donlan,,5th Annual Club Tribe Masters Classic,2020,2
+YOBX,200 Y Freestyle,SCY,M,60-64,2:45.44,John Donlan,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,50 Y Backstroke,SCY,M,60-64,35.89,Jack D Horst,,5th Annual Club Tribe Masters Classic,2020,1
+YOBX,100 Y Individual Medley,SCY,M,60-64,1:19.98,Jack D Horst,,5th Annual Club Tribe Masters Classic,2020,1

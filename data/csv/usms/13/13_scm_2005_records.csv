@@ -1,0 +1,359 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+NCMS,50 M Freestyle,SCM,W,18-24,32.52,Laura E Alsager,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,W,18-24,1:26.29,Laura E Alsager,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,W,18-24,1:36.00,Rebecca T Thomason,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,W,18-24,35.52,Rebecca T Thomason,,NC Masters Fall Splash,2005,1
+NCMS,100 M Butterfly,SCM,W,18-24,1:23.78,Laura E Alsager,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,18-24,1:23.32,Rebecca T Thomason,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,W,18-24,2:56.35,Laura E Alsager,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,25-29,32.12,Brooke E Baker,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,25-29,32.90,Melissa S Tandlmayer,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,W,25-29,34.40,Danielle R Newton,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,W,25-29,34.64,Meri L Amweg,,NC Masters Fall Splash,2005,4
+NCMS,50 M Freestyle,SCM,W,25-29,35.26,Jan A Schuettpelz,,NC Masters Fall Splash,2005,5
+NCMS,50 M Freestyle,SCM,W,25-29,39.66,Lindsay Allen,,NC Masters Fall Splash,2005,6
+NCMS,50 M Freestyle,SCM,W,25-29,39.94,Melissa Marie Feimster,,NC Masters Fall Splash,2005,7
+NCMS,100 M Freestyle,SCM,W,25-29,59.76,Shandra C E Johnson,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,W,25-29,1:04.16,Liane R Teplitsky,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,W,25-29,1:08.55,Jeannine L Carpenter,,NC Masters Fall Splash,2005,3
+NCMS,100 M Freestyle,SCM,W,25-29,1:15.29,Meri L Amweg,,NC Masters Fall Splash,2005,4
+NCMS,200 M Freestyle,SCM,W,25-29,2:18.22,Liane R Teplitsky,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,W,25-29,2:47.65,Jennifer C Lewis,,NC Masters Fall Splash,2005,2
+NCMS,400 M Freestyle,SCM,W,25-29,4:36.48,Shandra C E Johnson,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,W,25-29,4:53.03,Liane R Teplitsky,,NC Masters Fall Splash,2005,2
+NCMS,400 M Freestyle,SCM,W,25-29,5:56.10,Jennifer C Lewis,,NC Masters Fall Splash,2005,3
+NCMS,50 M Backstroke,SCM,W,25-29,35.83,Brooke E Baker,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,25-29,36.63,Jennifer C Lewis,,NC Masters Fall Splash,2005,2
+NCMS,50 M Backstroke,SCM,W,25-29,37.92,Jeannine L Carpenter,,NC Masters Fall Splash,2005,3
+NCMS,50 M Backstroke,SCM,W,25-29,40.15,Melissa S Tandlmayer,,NC Masters Fall Splash,2005,4
+NCMS,50 M Backstroke,SCM,W,25-29,41.12,Danielle R Newton,,NC Masters Fall Splash,2005,5
+NCMS,50 M Backstroke,SCM,W,25-29,45.14,Lindsay Allen,,NC Masters Fall Splash,2005,6
+NCMS,100 M Backstroke,SCM,W,25-29,1:17.73,Jennifer C Lewis,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,W,25-29,1:19.77,Brooke E Baker,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,W,25-29,38.86,Cynthia A Nagle,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,W,25-29,40.53,Melissa S Tandlmayer,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,W,25-29,44.20,Meri L Amweg,,NC Masters Fall Splash,2005,3
+NCMS,50 M Breaststroke,SCM,W,25-29,47.22,Jan A Schuettpelz,,NC Masters Fall Splash,2005,4
+NCMS,50 M Breaststroke,SCM,W,25-29,51.04,Melissa Marie Feimster,,NC Masters Fall Splash,2005,5
+NCMS,50 M Breaststroke,SCM,W,25-29,51.84,Lindsay Allen,,NC Masters Fall Splash,2005,6
+NCMS,100 M Breaststroke,SCM,W,25-29,1:22.65,Cynthia A Nagle,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,W,25-29,1:48.95,Melissa Marie Feimster,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,W,25-29,35.66,Cynthia A Nagle,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,W,25-29,36.23,Melissa S Tandlmayer,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,W,25-29,38.19,Meri L Amweg,,NC Masters Fall Splash,2005,3
+NCMS,100 M Individual Medley,SCM,W,25-29,1:07.13,Shandra C E Johnson,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,25-29,1:15.52,Liane R Teplitsky,,NC Masters Fall Splash,2005,2
+NCMS,100 M Individual Medley,SCM,W,25-29,1:19.05,Brooke E Baker,,NC Masters Fall Splash,2005,3
+NCMS,200 M Individual Medley,SCM,W,25-29,3:00.30,Jennifer C Lewis,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,35-39,35.75,Dana M Greene,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,35-39,36.89,Rachelle S Gold,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,W,35-39,38.73,Dawn C Franklin,,NC Masters Fall Splash,2005,3
+NCMS,100 M Freestyle,SCM,W,35-39,1:19.41,Dana M Greene,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,W,35-39,1:26.00,Rachelle S Gold,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,W,35-39,1:26.96,Ami J Levine,,IGLA Championships,2005,3
+NCMS,50 M Breaststroke,SCM,W,35-39,47.98,Dana M Greene,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,W,35-39,48.46,Dawn C Franklin,,NC Masters Fall Splash,2005,2
+NCMS,100 M Breaststroke,SCM,W,35-39,1:24.01,Pamela M Lindroos,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,W,35-39,1:26.35,Alicia J Parr,,NC Masters Fall Splash,2005,2
+NCMS,100 M Breaststroke,SCM,W,35-39,1:41.13,Ami J Levine,,IGLA Championships,2005,3
+NCMS,200 M Breaststroke,SCM,W,35-39,3:38.99,Ami J Levine,,IGLA Championships,2005,1
+NCMS,100 M Butterfly,SCM,W,35-39,1:12.11,Pamela M Lindroos,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,35-39,1:17.18,Alicia J Parr,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,35-39,1:34.89,Ami J Levine,,IGLA Championships,2005,2
+NCMS,100 M Individual Medley,SCM,W,35-39,1:40.17,Rachelle S Gold,,NC Masters Fall Splash,2005,3
+NCMS,200 M Individual Medley,SCM,W,35-39,2:51.61,Alicia J Parr,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,W,35-39,3:28.61,Ami J Levine,,IGLA Championships,2005,2
+NCMS,400 M Individual Medley,SCM,W,35-39,6:12.15,Alicia J Parr,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,40-44,33.30,Cathy C Culton,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,40-44,34.44,Sharon M Barrell,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,W,40-44,45.12,Carol A Scheible,,NC Masters Fall Splash,2005,3
+NCMS,100 M Freestyle,SCM,W,40-44,1:04.62,Elizabeth A Nowak,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,W,40-44,1:14.52,Cathy C Culton,,NC Masters Fall Splash,2005,2
+NCMS,200 M Freestyle,SCM,W,40-44,2:20.56,Elizabeth A Nowak,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,W,40-44,7:49.21,Carol A Scheible,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,40-44,40.68,Sharon M Barrell,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,W,40-44,40.31,Ruth M Battle,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,W,40-44,57.43,Carol A Scheible,,NC Masters Fall Splash,2005,2
+NCMS,100 M Breaststroke,SCM,W,40-44,1:21.77,Elizabeth A Nowak,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,W,40-44,36.66,Cathy C Culton,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,40-44,1:12.64,Elizabeth A Nowak,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,40-44,1:29.71,Cathy C Culton,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,W,45-49,32.90,Alis Rojas Woodard,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,45-49,38.59,Gretchen VanDeCarr,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,W,45-49,46.88,Stephanie J London,,NC Masters Fall Splash,2005,3
+NCMS,100 M Freestyle,SCM,W,45-49,1:12.76,Alis Rojas Woodard,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,W,45-49,1:26.47,Gretchen VanDeCarr,,NC Masters Fall Splash,2005,2
+NCMS,200 M Freestyle,SCM,W,45-49,2:45.28,Alis Rojas Woodard,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,W,45-49,5:52.45,Kim Stott,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,W,45-49,6:39.61,Gretchen VanDeCarr,,NC Masters Fall Splash,2005,2
+NCMS,50 M Backstroke,SCM,W,45-49,39.72,Kim Stott,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,45-49,48.54,Stephanie J London,,NC Masters Fall Splash,2005,2
+NCMS,100 M Butterfly,SCM,W,45-49,1:41.65,Alis Rojas Woodard,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,45-49,1:51.63,Stephanie J London,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,W,50-54,2:45.65,Beverly O Amick,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,50-54,42.78,Eugenia (Jennie) A Rogers,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,W,50-54,1:25.29,Beverly O Amick,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,W,50-54,1:31.87,Eugenia (Jennie) A Rogers,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,W,50-54,35.97,Beverly O Amick,,NC Masters Fall Splash,2005,1
+NCMS,100 M Butterfly,SCM,W,50-54,1:22.35,Beverly O Amick,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,50-54,1:26.07,Beverly O Amick,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,W,50-54,3:23.16,Eugenia (Jennie) A Rogers,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,55-59,36.59,Jeannie R Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,200 M Freestyle,SCM,W,55-59,3:48.20,Greta Van Meeteren,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,W,55-59,6:28.56,Jeannie R Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,50 M Backstroke,SCM,W,55-59,40.93,Jeannie R Mitchell,,St Pete Masters Developmental SCM Meet,2005,1
+NCMS,100 M Backstroke,SCM,W,55-59,1:29.15,Jeannie R Mitchell,,St Pete Masters Developmental SCM Meet,2005,1
+NCMS,200 M Backstroke,SCM,W,55-59,3:17.60,Jeannie R Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,200 M Backstroke,SCM,W,55-59,3:37.31,Sandra G Cathey,,GRIN Fall Classic SCM Meet,2005,2
+NCMS,50 M Breaststroke,SCM,W,55-59,49.40,Jeannie R Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,50 M Breaststroke,SCM,W,55-59,53.79,Greta Van Meeteren,,NC Masters Fall Splash,2005,2
+NCMS,100 M Breaststroke,SCM,W,55-59,1:46.18,Sandra G Cathey,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,W,55-59,1:55.40,Greta Van Meeteren,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,W,55-59,45.90,Jeannie R Mitchell,,St Pete Masters Developmental SCM Meet,2005,1
+NCMS,200 M Butterfly,SCM,W,55-59,3:46.23,Sandra G Cathey,,GRIN Fall Classic SCM Meet,2005,1
+NCMS,100 M Individual Medley,SCM,W,55-59,1:33.89,Jeannie R Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,200 M Individual Medley,SCM,W,55-59,3:24.76,Jeannie R Mitchell,,St Pete Masters Developmental SCM Meet,2005,1
+NCMS,400 M Individual Medley,SCM,W,55-59,7:21.55,Sandra G Cathey,,GRIN Fall Classic SCM Meet,2005,1
+NCMS,50 M Freestyle,SCM,W,60-64,46.19,Susan S Husson,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,W,60-64,1:41.13,Susan S Husson,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,W,60-64,3:50.07,Susan S Husson,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,W,60-64,2:03.19,Susan S Husson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,W,70-74,47.01,Rachel P White,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,W,70-74,1:51.46,Rachel P White,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,70-74,50.60,Suzanne E Robbins-Bonitz,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,70-74,54.03,Rachel P White,,NC Masters Fall Splash,2005,2
+NCMS,100 M Backstroke,SCM,W,70-74,2:02.97,Suzanne E Robbins-Bonitz,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,W,70-74,2:08.85,Rachel P White,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,W,70-74,1:02.93,Suzanne E Robbins-Bonitz,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,W,70-74,1:01.24,Rachel P White,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,W,80-84,1:21.28,Judy Ann Kelly,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,W,80-84,2:54.14,Judy Ann Kelly,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,18-24,30.57,Benjamin R Parker,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,18-24,1:07.31,Benjamin R Parker,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,M,18-24,2:31.24,Benjamin R Parker,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,25-29,26.78,Mark A Medendorp,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,25-29,28.17,Tommy Gainer,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,25-29,28.99,Filippo M Porco,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,M,25-29,29.42,Gary W Barker,,NC Masters Fall Splash,2005,4
+NCMS,50 M Freestyle,SCM,M,25-29,31.14,Matt McElwee,,NC Masters Fall Splash,2005,5
+NCMS,100 M Freestyle,SCM,M,25-29,1:05.53,Matt McElwee,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,M,25-29,2:28.52,Filippo M Porco,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,M,25-29,4:59.37,Tommy Gainer,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,25-29,33.74,Mark A Medendorp,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,25-29,36.31,Mark A Medendorp,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,25-29,36.56,Gary W Barker,,NC Masters Fall Splash,2005,2
+NCMS,100 M Breaststroke,SCM,M,25-29,1:20.27,Gary W Barker,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,25-29,1:24.09,Filippo M Porco,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,25-29,27.88,Mark A Medendorp,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,25-29,30.96,Gary W Barker,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,25-29,32.65,Matt McElwee,,NC Masters Fall Splash,2005,3
+NCMS,50 M Butterfly,SCM,M,25-29,32.84,Filippo M Porco,,NC Masters Fall Splash,2005,4
+NCMS,50 M Freestyle,SCM,M,30-34,24.23,Razvan D Petcu,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,30-34,27.44,Jason D Chamberlain,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,30-34,28.06,Gregory T Ray,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,M,30-34,28.23,Derek C Parr,,NC Masters Fall Splash,2005,4
+NCMS,50 M Freestyle,SCM,M,30-34,28.63,Jimmy P Murphy,,NC Masters Fall Splash,2005,5
+NCMS,50 M Freestyle,SCM,M,30-34,30.06,Erik P McFetters,,NC Masters Fall Splash,2005,6
+NCMS,50 M Freestyle,SCM,M,30-34,32.44,Matthew A Carpenter,,NC Masters Fall Splash,2005,7
+NCMS,100 M Freestyle,SCM,M,30-34,1:04.06,Derek C Parr,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,30-34,1:05.12,Jason D Chamberlain,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,M,30-34,1:05.25,Gregory T Ray,,NC Masters Fall Splash,2005,3
+NCMS,100 M Freestyle,SCM,M,30-34,1:07.65,Erik P McFetters,,NC Masters Fall Splash,2005,4
+NCMS,100 M Freestyle,SCM,M,30-34,1:10.38,Matthew A Carpenter,,NC Masters Fall Splash,2005,5
+NCMS,100 M Freestyle,SCM,M,30-34,1:12.39,Gregory R Yanz,,NC Masters Fall Splash,2005,6
+NCMS,200 M Freestyle,SCM,M,30-34,2:22.94,Derek C Parr,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,M,30-34,2:32.53,Erik P McFetters,,NC Masters Fall Splash,2005,2
+NCMS,200 M Freestyle,SCM,M,30-34,2:50.21,Gregory R Yanz,,NC Masters Fall Splash,2005,3
+NCMS,200 M Freestyle,SCM,M,30-34,2:56.29,Matthew A Carpenter,,NC Masters Fall Splash,2005,4
+NCMS,50 M Breaststroke,SCM,M,30-34,35.04,Derek C Parr,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,30-34,1:18.16,Derek C Parr,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,30-34,1:40.21,Gregory R Yanz,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,30-34,25.99,Razvan D Petcu,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,30-34,35.27,Matthew A Carpenter,,NC Masters Fall Splash,2005,2
+NCMS,100 M Butterfly,SCM,M,30-34,57.86,Razvan D Petcu,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,30-34,1:11.14,Jimmy P Murphy,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,30-34,1:22.95,Erik P McFetters,,NC Masters Fall Splash,2005,2
+NCMS,100 M Individual Medley,SCM,M,30-34,1:25.57,Matthew A Carpenter,,NC Masters Fall Splash,2005,3
+NCMS,200 M Individual Medley,SCM,M,30-34,3:02.57,Erik P McFetters,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,M,30-34,3:34.00,Gregory R Yanz,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,35-39,25.71,Nicolai A Tvermoes,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,35-39,31.06,Russell F Jewett,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,35-39,37.07,Tim Foskey,,IGLA Championships,2005,3
+NCMS,100 M Freestyle,SCM,M,35-39,1:06.54,Greg D Sousa,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,35-39,1:07.44,Russell F Jewett,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,M,35-39,1:17.37,Tim Foskey,,IGLA Championships,2005,3
+NCMS,200 M Freestyle,SCM,M,35-39,2:02.61,Andrew J Farrell,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,M,35-39,4:24.49,Andrew J Farrell,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,35-39,30.49,Nicolai A Tvermoes,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,35-39,45.40,Tim Foskey,,IGLA Championships,2005,2
+NCMS,100 M Backstroke,SCM,M,35-39,1:26.90,Greg D Sousa,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,35-39,33.36,Nicolai A Tvermoes,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,35-39,48.65,Tim Foskey,,IGLA Championships,2005,2
+NCMS,100 M Breaststroke,SCM,M,35-39,1:12.82,Morten Andersen,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,35-39,1:32.37,John W Allran,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,35-39,27.53,Nicolai A Tvermoes,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,35-39,28.35,Kirk White,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,35-39,35.84,Russell F Jewett,,NC Masters Fall Splash,2005,3
+NCMS,50 M Butterfly,SCM,M,35-39,37.42,John W Allran,,NC Masters Fall Splash,2005,4
+NCMS,100 M Butterfly,SCM,M,35-39,1:01.73,Kirk White,,NC Masters Fall Splash,2005,1
+NCMS,100 M Butterfly,SCM,M,35-39,1:01.89,Morten Andersen,,NC Masters Fall Splash,2005,2
+NCMS,100 M Butterfly,SCM,M,35-39,1:22.79,John W Allran,,NC Masters Fall Splash,2005,3
+NCMS,100 M Individual Medley,SCM,M,35-39,1:25.99,John W Allran,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,35-39,1:34.67,Tim Foskey,,IGLA Championships,2005,2
+NCMS,200 M Individual Medley,SCM,M,35-39,2:23.53,Morten Andersen,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,M,35-39,3:01.78,Russell F Jewett,,NC Masters Fall Splash,2005,2
+NCMS,400 M Individual Medley,SCM,M,35-39,5:11.23,Morten Andersen,,NC Masters Fall Splash,2005,1
+NCMS,400 M Individual Medley,SCM,M,35-39,5:13.82,Andrew J Farrell,,NC Masters Fall Splash,2005,2
+NCMS,400 M Individual Medley,SCM,M,35-39,6:31.73,Russell F Jewett,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,M,40-44,24.61,Henry D Stewart,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,40-44,27.49,Dan S Fritsch,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,40-44,28.64,Christopher D Willms,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,M,40-44,28.70,Eric A Postel,,NC Masters Fall Splash,2005,4
+NCMS,100 M Freestyle,SCM,M,40-44,55.01,Henry D Stewart,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,40-44,1:03.13,Eric A Postel,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,M,40-44,1:10.89,Robert M Love,,NC Masters Fall Splash,2005,3
+NCMS,200 M Freestyle,SCM,M,40-44,2:03.64,Henry D Stewart,,Albatross Open,2005,1
+NCMS,200 M Freestyle,SCM,M,40-44,2:29.02,Christopher D Willms,,NC Masters Fall Splash,2005,2
+NCMS,400 M Freestyle,SCM,M,40-44,5:18.77,David S Bacon,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,M,40-44,1:12.82,John E Riley,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,M,40-44,1:23.32,Robert M Love,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,M,40-44,35.26,Christopher D Willms,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,40-44,36.34,Dan S Fritsch,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,M,40-44,36.76,Eric A Postel,,NC Masters Fall Splash,2005,3
+NCMS,100 M Breaststroke,SCM,M,40-44,1:19.22,Christopher D Willms,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,40-44,27.06,Henry D Stewart,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,40-44,28.66,Dan S Fritsch,,NC Masters Fall Splash,2005,2
+NCMS,100 M Butterfly,SCM,M,40-44,1:00.24,Henry D Stewart,,Albatross Open,2005,1
+NCMS,100 M Individual Medley,SCM,M,40-44,1:04.60,Henry D Stewart,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,40-44,1:09.51,Dan S Fritsch,,NC Masters Fall Splash,2005,2
+NCMS,100 M Individual Medley,SCM,M,40-44,1:13.25,David S Bacon,,NC Masters Fall Splash,2005,3
+NCMS,200 M Individual Medley,SCM,M,40-44,2:35.36,John E Riley,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,M,40-44,2:58.88,Robert M Love,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,45-49,25.68,Fritz E Lehman,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,45-49,25.99,Jon W Blank,,Albatross Open,2005,2
+NCMS,50 M Freestyle,SCM,M,45-49,26.11,Chris T Lechner,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,M,45-49,26.34,Jonathan E Klein,,NC Masters Fall Splash,2005,4
+NCMS,50 M Freestyle,SCM,M,45-49,26.86,Walter Bowser,,NC Masters Fall Splash,2005,5
+NCMS,50 M Freestyle,SCM,M,45-49,31.13,Larry S Hartley,,NC Masters Fall Splash,2005,6
+NCMS,50 M Freestyle,SCM,M,45-49,39.15,Scott A Acheson,,NC Masters Fall Splash,2005,7
+NCMS,50 M Freestyle,SCM,M,45-49,39.40,Jay K White,,IGLA Championships,2005,8
+NCMS,100 M Freestyle,SCM,M,45-49,57.59,Jonathan E Klein,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,45-49,59.18,Walter Bowser,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,M,45-49,1:28.10,Scott A Acheson,,NC Masters Fall Splash,2005,3
+NCMS,200 M Freestyle,SCM,M,45-49,2:20.80,Craig O Siegel,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,M,45-49,2:37.49,Larry S Hartley,,NC Masters Fall Splash,2005,2
+NCMS,200 M Freestyle,SCM,M,45-49,3:19.67,Scott A Acheson,,NC Masters Fall Splash,2005,3
+NCMS,400 M Freestyle,SCM,M,45-49,4:59.06,Craig O Siegel,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,M,45-49,5:53.17,Richard M A Ward,,NC Masters Fall Splash,2005,2
+NCMS,400 M Freestyle,SCM,M,45-49,6:59.03,Scott A Acheson,,NC Masters Fall Splash,2005,3
+NCMS,400 M Freestyle,SCM,M,45-49,7:03.96,Erdem M Narter,,NC Masters Fall Splash,2005,4
+NCMS,50 M Backstroke,SCM,M,45-49,29.70,Fritz E Lehman,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,45-49,32.12,Mark Doyle,,NC Masters Fall Splash,2005,2
+NCMS,50 M Backstroke,SCM,M,45-49,37.48,Larry S Hartley,,NC Masters Fall Splash,2005,3
+NCMS,50 M Backstroke,SCM,M,45-49,44.08,Jay K White,,IGLA Championships,2005,4
+NCMS,100 M Backstroke,SCM,M,45-49,1:01.74,Fritz E Lehman,,Albatross Open,2005,1
+NCMS,50 M Breaststroke,SCM,M,45-49,33.39,Jon W Blank,,Albatross Open,2005,1
+NCMS,50 M Breaststroke,SCM,M,45-49,41.53,Richard M A Ward,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,M,45-49,42.14,Larry S Hartley,,NC Masters Fall Splash,2005,3
+NCMS,50 M Breaststroke,SCM,M,45-49,46.89,Jay K White,,IGLA Championships,2005,4
+NCMS,100 M Breaststroke,SCM,M,45-49,1:08.40,Jon W Blank,,Albatross Open,2005,1
+NCMS,100 M Breaststroke,SCM,M,45-49,1:45.30,Jay K White,,IGLA Championships,2005,2
+NCMS,200 M Breaststroke,SCM,M,45-49,2:32.29,Jon W Blank,,Albatross Open,2005,1
+NCMS,50 M Butterfly,SCM,M,45-49,28.48,Chris T Lechner,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,45-49,28.95,Fritz E Lehman,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,45-49,35.68,Richard M A Ward,,NC Masters Fall Splash,2005,3
+NCMS,100 M Butterfly,SCM,M,45-49,1:01.40,Fritz E Lehman,,Albatross Open,2005,1
+NCMS,100 M Butterfly,SCM,M,45-49,1:04.04,Chris T Lechner,,NC Masters Fall Splash,2005,2
+NCMS,100 M Butterfly,SCM,M,45-49,1:13.99,Craig O Siegel,,NC Masters Fall Splash,2005,3
+NCMS,100 M Individual Medley,SCM,M,45-49,1:02.47,Fritz E Lehman,,Albatross Open,2005,1
+NCMS,100 M Individual Medley,SCM,M,45-49,1:38.31,Jay K White,,IGLA Championships,2005,2
+NCMS,200 M Individual Medley,SCM,M,45-49,2:38.98,Walter Bowser,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,M,45-49,2:39.79,Mark Doyle,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,50-54,27.89,Donald B Gilchrist,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,50-54,29.83,Dennis D McGraw,,NC Masters Fall Splash,2005,2
+NCMS,50 M Freestyle,SCM,M,50-54,29.84,Richard N Miller,,NC Masters Fall Splash,2005,3
+NCMS,50 M Freestyle,SCM,M,50-54,31.55,Joseph D Gosha,,NC Masters Fall Splash,2005,4
+NCMS,50 M Freestyle,SCM,M,50-54,32.70,Leonard Sibley,,NC Masters Fall Splash,2005,5
+NCMS,50 M Freestyle,SCM,M,50-54,38.03,Henry V Coddington,,IGLA Championships,2005,6
+NCMS,50 M Freestyle,SCM,M,50-54,43.21,Mark R Smith,,NC Masters Fall Splash,2005,7
+NCMS,100 M Freestyle,SCM,M,50-54,1:00.58,Donald B Gilchrist,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,50-54,1:06.62,Richard N Miller,,NC Masters Fall Splash,2005,2
+NCMS,100 M Freestyle,SCM,M,50-54,1:07.09,Hill Carrow,,NC Masters Fall Splash,2005,3
+NCMS,100 M Freestyle,SCM,M,50-54,1:07.55,Dennis D McGraw,,NC Masters Fall Splash,2005,4
+NCMS,100 M Freestyle,SCM,M,50-54,1:08.48,Gerry M Chapman,,NC Masters Fall Splash,2005,5
+NCMS,100 M Freestyle,SCM,M,50-54,1:47.17,Mark R Smith,,NC Masters Fall Splash,2005,6
+NCMS,200 M Freestyle,SCM,M,50-54,2:33.21,Dennis D McGraw,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,M,50-54,2:35.84,Richard N Miller,,NC Masters Fall Splash,2005,2
+NCMS,400 M Freestyle,SCM,M,50-54,5:36.84,Richard N Miller,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,50-54,40.75,Leonard Sibley,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,50-54,41.66,Joseph D Gosha,,NC Masters Fall Splash,2005,2
+NCMS,50 M Backstroke,SCM,M,50-54,49.27,Henry V Coddington,,IGLA Championships,2005,3
+NCMS,50 M Breaststroke,SCM,M,50-54,35.45,Donald B Gilchrist,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,50-54,35.56,Robert L Schmitz,,NC Masters Fall Splash,2005,2
+NCMS,50 M Breaststroke,SCM,M,50-54,41.33,Joseph D Gosha,,NC Masters Fall Splash,2005,3
+NCMS,50 M Breaststroke,SCM,M,50-54,43.12,Leonard Sibley,,NC Masters Fall Splash,2005,4
+NCMS,50 M Butterfly,SCM,M,50-54,32.16,Hill Carrow,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,50-54,33.19,Dennis D McGraw,,NC Masters Fall Splash,2005,2
+NCMS,50 M Butterfly,SCM,M,50-54,33.94,Gerry M Chapman,,NC Masters Fall Splash,2005,3
+NCMS,50 M Butterfly,SCM,M,50-54,36.81,Leonard Sibley,,NC Masters Fall Splash,2005,4
+NCMS,100 M Butterfly,SCM,M,50-54,1:14.33,Hill Carrow,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,50-54,1:17.35,Hill Carrow,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,50-54,1:21.98,Richard N Miller,,NC Masters Fall Splash,2005,2
+NCMS,100 M Individual Medley,SCM,M,50-54,1:26.48,Leonard Sibley,,NC Masters Fall Splash,2005,3
+NCMS,100 M Individual Medley,SCM,M,50-54,1:48.47,Henry V Coddington,,IGLA Championships,2005,4
+NCMS,50 M Freestyle,SCM,M,55-59,31.13,Andrew M Richelson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Backstroke,SCM,M,55-59,44.42,Andrew M Richelson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,55-59,42.70,Andrew M Richelson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,55-59,33.95,Andrew M Richelson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,60-64,38.50,James N Enyart,,NC Masters Fall Splash,2005,1
+NCMS,100 M Freestyle,SCM,M,60-64,1:27.45,James N Enyart,,NC Masters Fall Splash,2005,1
+NCMS,200 M Freestyle,SCM,M,60-64,3:16.83,James N Enyart,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,M,60-64,6:47.03,James N Enyart,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,M,60-64,1:32.63,Bob Husson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,60-64,38.70,Bob Husson,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,60-64,1:27.10,Bob Husson,,NC Masters Fall Splash,2005,1
+NCMS,100 M Individual Medley,SCM,M,60-64,1:57.32,James N Enyart,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,M,60-64,3:03.15,Bob Husson,,NC Masters Fall Splash,2005,1
+NCMS,400 M Individual Medley,SCM,M,60-64,6:48.01,Bob Husson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,65-69,29.86,Jerry Clark,,St Nick's SCM Meet,2005,1
+NCMS,50 M Freestyle,SCM,M,65-69,42.72,Edward J Weiss,,St Nick's SCM Meet,2005,2
+NCMS,100 M Freestyle,SCM,M,65-69,1:06.80,Jerry Clark,,St Nick's SCM Meet,2005,1
+NCMS,100 M Freestyle,SCM,M,65-69,1:46.75,Edward J Weiss,,St Nick's SCM Meet,2005,2
+NCMS,200 M Freestyle,SCM,M,65-69,3:11.82,Charles E Simmons,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,M,65-69,5:49.32,Jerry Clark,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,65-69,42.13,Jerry Clark,,St Nick's SCM Meet,2005,1
+NCMS,50 M Breaststroke,SCM,M,65-69,50.90,Edward J Weiss,,St Nick's SCM Meet,2005,2
+NCMS,100 M Breaststroke,SCM,M,65-69,1:38.52,Charles E Simmons,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,65-69,1:59.28,Edward J Weiss,,St Nick's SCM Meet,2005,2
+NCMS,50 M Butterfly,SCM,M,65-69,34.48,Richard W Kitchell,,St Nick's SCM Meet,2005,1
+NCMS,100 M Individual Medley,SCM,M,65-69,1:31.25,Charles E Simmons,,NC Masters Fall Splash,2005,1
+NCMS,400 M Individual Medley,SCM,M,65-69,6:30.08,Richard W Kitchell,,St Nick's SCM Meet,2005,1
+NCMS,50 M Freestyle,SCM,M,70-74,31.58,Clarke E Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,50 M Backstroke,SCM,M,70-74,38.94,Clarke E Mitchell,,NC Masters Fall Splash,2005,1
+NCMS,100 M Backstroke,SCM,M,70-74,1:23.72,Clarke E Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,50 M Breaststroke,SCM,M,70-74,40.56,John D Kortheuer,,NC Masters Fall Splash,2005,1
+NCMS,50 M Butterfly,SCM,M,70-74,35.39,Clarke E Mitchell,,St Nick's SCM Meet,2005,1
+NCMS,100 M Butterfly,SCM,M,70-74,2:04.87,John J Huson,,NC Masters Fall Splash,2005,1
+NCMS,50 M Freestyle,SCM,M,80-84,49.17,Vester Boone,,DAM Fall SCM Meet,2005,1
+NCMS,100 M Freestyle,SCM,M,80-84,1:48.12,Vester Boone,,GRIN Fall Classic SCM Meet,2005,1
+NCMS,200 M Freestyle,SCM,M,80-84,3:58.63,Vester Boone,,GRIN Fall Classic SCM Meet,2005,1
+NCMS,400 M Freestyle,SCM,M,80-84,8:28.00,Vester Boone,,NC Masters Fall Splash,2005,1
+NCMS,400 M Freestyle,SCM,M,80-84,8:55.10,E Ole Larson,,Huntsman World Senior Games,2005,2
+NCMS,800 M Freestyle,SCM,M,80-84,17:28.91,Vester Boone,,GRIN Fall Classic SCM Meet,2005,1
+NCMS,800 M Freestyle,SCM,M,80-84,19:05.31,E Ole Larson,,Huntsman World Senior Games,2005,2
+NCMS,1500 M Freestyle,SCM,M,80-84,33:22.66,Vester Boone,,DAM Fall SCM Meet,2005,1
+NCMS,1500 M Freestyle,SCM,M,80-84,35:10.63,E Ole Larson,,Huntsman World Senior Games,2005,2
+NCMS,50 M Breaststroke,SCM,M,80-84,1:00.93,Vester Boone,,NC Masters Fall Splash,2005,1
+NCMS,50 M Breaststroke,SCM,M,80-84,1:03.45,E Ole Larson,,Huntsman World Senior Games,2005,2
+NCMS,100 M Breaststroke,SCM,M,80-84,2:16.54,Vester Boone,,NC Masters Fall Splash,2005,1
+NCMS,100 M Breaststroke,SCM,M,80-84,2:23.76,E Ole Larson,,Huntsman World Senior Games,2005,2
+NCMS,200 M Breaststroke,SCM,M,80-84,5:10.16,Vester Boone,,GRIN Fall Classic SCM Meet,2005,1
+NCMS,200 M Breaststroke,SCM,M,80-84,5:11.62,E Ole Larson,,Huntsman World Senior Games,2005,2
+NCMS,100 M Individual Medley,SCM,M,80-84,2:12.18,Vester Boone,,NC Masters Fall Splash,2005,1
+NCMS,200 M Individual Medley,SCM,M,80-84,5:08.00,Vester Boone,,DAM Fall SCM Meet,2005,1
+NCMS,50 M Backstroke,SCM,M,85-89,1:02.88,Fred E Holdrege,,NC Masters Fall Splash,2005,1
+UNAT,50 M Freestyle,SCM,M,35-39,24.93,Dennis P Meehan,,NC Masters Fall Splash,2005,1
+UNAT,100 M Freestyle,SCM,M,35-39,56.00,Dennis P Meehan,,NC Masters Fall Splash,2005,1
+UNAT,50 M Backstroke,SCM,M,35-39,29.83,Dennis P Meehan,,NC Masters Fall Splash,2005,1
+UNAT,50 M Butterfly,SCM,M,35-39,26.81,Dennis P Meehan,,NC Masters Fall Splash,2005,1
+UNAT,100 M Individual Medley,SCM,M,35-39,1:06.47,Dennis P Meehan,,NC Masters Fall Splash,2005,1
