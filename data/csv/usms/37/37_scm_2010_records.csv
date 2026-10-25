@@ -1,0 +1,536 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+OREG,50 M Freestyle,SCM,W,18-24,38.68,Kristin L Phillips,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,W,18-24,1:06.95,Briana M Willia,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,W,18-24,1:13.77,Elizabeth J Esser,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,W,18-24,1:33.45,Kristin L Phillips,,Hood River Short Course Meters Meet,2010,3
+OREG,200 M Freestyle,SCM,W,18-24,2:31.37,Briana M Willia,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Freestyle,SCM,W,18-24,2:33.05,Kate M Stephens,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Freestyle,SCM,W,18-24,2:39.74,Elizabeth J Esser,,Hood River Short Course Meters Meet,2010,3
+OREG,400 M Freestyle,SCM,W,18-24,5:33.92,Elizabeth J Esser,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,18-24,33.31,Kate M Stephens,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,18-24,36.41,Olivia M Schane,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,W,18-24,44.32,Kristin L Phillips,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Backstroke,SCM,W,18-24,1:12.45,Kate M Stephens,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,W,18-24,1:19.46,Olivia M Schane,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Backstroke,SCM,W,18-24,2:34.33,Kate M Stephens,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,18-24,33.53,Olivia M Schane,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Butterfly,SCM,W,18-24,1:16.32,Briana M Willia,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Individual Medley,SCM,W,18-24,1:17.81,Briana M Willia,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Individual Medley,SCM,W,18-24,1:17.93,Kate M Stephens,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Individual Medley,SCM,W,18-24,1:19.42,Olivia M Schane,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Individual Medley,SCM,W,18-24,1:29.82,Elizabeth J Esser,,Hood River Short Course Meters Meet,2010,4
+OREG,200 M Individual Medley,SCM,W,18-24,2:53.87,Briana M Willia,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,W,25-29,29.81,Aubree M Gustafson,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,W,25-29,30.73,Sandra M Ludwig,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,W,25-29,34.03,Grace D Smay,,Hood River Short Course Meters Meet,2010,3
+OREG,50 M Freestyle,SCM,W,25-29,38.84,Courtney Szper,,COMA Short Course Meters Penta,2010,4
+OREG,50 M Freestyle,SCM,W,25-29,47.33,Britta L Anderson,,Hood River Short Course Meters Meet,2010,5
+OREG,100 M Freestyle,SCM,W,25-29,1:07.45,Sandra M Ludwig,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,W,25-29,1:07.70,Kelsey G Holmberg,,COMA Short Course Meters Penta,2010,2
+OREG,800 M Freestyle,SCM,W,25-29,10:33.87,Emmelie M Alexander,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,25-29,37.88,Aubree M Gustafson,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,W,25-29,38.04,Grace D Smay,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,W,25-29,59.47,Britta L Anderson,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Backstroke,SCM,W,25-29,1:19.51,Kelsey G Holmberg,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,W,25-29,1:25.73,Grace D Smay,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Breaststroke,SCM,W,25-29,38.57,Aubree M Gustafson,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,W,25-29,38.81,Emmelie M Alexander,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Breaststroke,SCM,W,25-29,50.50,Courtney Szper,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Breaststroke,SCM,W,25-29,1:26.17,Emmelie M Alexander,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,W,25-29,1:27.91,Kelsey G Holmberg,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Breaststroke,SCM,W,25-29,1:29.09,Sandra M Ludwig,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Breaststroke,SCM,W,25-29,1:36.47,Grace D Smay,,Hood River Short Course Meters Meet,2010,4
+OREG,200 M Breaststroke,SCM,W,25-29,3:07.40,Emmelie M Alexander,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,25-29,33.76,Aubree M Gustafson,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Butterfly,SCM,W,25-29,45.38,Courtney Szper,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Butterfly,SCM,W,25-29,54.02,Britta L Anderson,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Butterfly,SCM,W,25-29,1:16.80,Kelsey G Holmberg,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,W,25-29,1:16.77,Aubree M Gustafson,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,W,25-29,1:21.32,Sandra M Ludwig,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Individual Medley,SCM,W,25-29,1:38.66,Courtney Szper,,COMA Short Course Meters Penta,2010,3
+OREG,200 M Individual Medley,SCM,W,25-29,2:49.53,Kelsey G Holmberg,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,W,25-29,2:50.96,Emmelie M Alexander,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,W,30-34,58.55,Lauren M Thies,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Freestyle,SCM,W,30-34,1:05.17,Emily R Melina,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Freestyle,SCM,W,30-34,1:15.69,Evelyn G Pryor,,COMA Short Course Meters Penta,2010,3
+OREG,200 M Freestyle,SCM,W,30-34,2:06.39,Lauren M Thies,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,400 M Freestyle,SCM,W,30-34,4:31.63,Lauren M Thies,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Backstroke,SCM,W,30-34,1:15.41,Emily R Melina,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,W,30-34,1:29.33,Evelyn G Pryor,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Breaststroke,SCM,W,30-34,1:28.15,Emily R Melina,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Breaststroke,SCM,W,30-34,1:41.98,Evelyn G Pryor,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Butterfly,SCM,W,30-34,29.23,Lauren M Thies,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Butterfly,SCM,W,30-34,1:04.31,Lauren M Thies,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Butterfly,SCM,W,30-34,1:12.35,Emily R Melina,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Butterfly,SCM,W,30-34,1:30.40,Evelyn G Pryor,,COMA Short Course Meters Penta,2010,3
+OREG,200 M Individual Medley,SCM,W,30-34,2:22.68,Lauren M Thies,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Individual Medley,SCM,W,30-34,2:39.83,Emily R Melina,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Individual Medley,SCM,W,30-34,3:10.84,Evelyn G Pryor,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Freestyle,SCM,W,35-39,31.21,Amy K Kasenga,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,W,35-39,35.40,Jodi R Ready,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,W,35-39,1:10.08,Amy K Kasenga,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,W,35-39,1:15.48,Anicia Criscione,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Freestyle,SCM,W,35-39,1:19.96,Lisa E Sandoval,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Freestyle,SCM,W,35-39,1:20.81,Jodi R Ready,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Freestyle,SCM,W,35-39,1:33.57,Jennifer E Strelkauskas,,Hood River Short Course Meters Meet,2010,5
+OREG,400 M Freestyle,SCM,W,35-39,5:25.95,Amy K Kasenga,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,35-39,51.11,Jennifer E Strelkauskas,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,W,35-39,1:24.99,Anicia Criscione,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,W,35-39,1:27.52,Lisa E Sandoval,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Backstroke,SCM,W,35-39,4:21.34,Jennifer E Strelkauskas,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,35-39,40.14,Amy K Kasenga,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,35-39,48.49,Jodi R Ready,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Breaststroke,SCM,W,35-39,1:28.56,Amy K Kasenga,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,W,35-39,1:34.99,Anicia Criscione,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Breaststroke,SCM,W,35-39,1:35.84,Lisa E Sandoval,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Butterfly,SCM,W,35-39,41.50,Jodi R Ready,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,35-39,56.65,Jennifer E Strelkauskas,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Butterfly,SCM,W,35-39,1:32.14,Anicia Criscione,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Butterfly,SCM,W,35-39,1:32.79,Lisa E Sandoval,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Individual Medley,SCM,W,35-39,1:34.01,Jodi R Ready,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Individual Medley,SCM,W,35-39,3:06.38,Anicia Criscione,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,W,35-39,3:12.31,Lisa E Sandoval,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,W,40-44,36.19,Jen L Hart,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,W,40-44,45.08,Julianna G Mears,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,W,40-44,1:10.74,Gillian G Salton,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Freestyle,SCM,W,40-44,1:23.74,Kris Kendall,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Freestyle,SCM,W,40-44,3:03.46,Kris Kendall,,Hood River Short Course Meters Meet,2010,1
+OREG,400 M Freestyle,SCM,W,40-44,5:16.39,Susie S Young,,Hood River Short Course Meters Meet,2010,1
+OREG,400 M Freestyle,SCM,W,40-44,6:16.82,Kris Kendall,,Hood River Short Course Meters Meet,2010,2
+OREG,800 M Freestyle,SCM,W,40-44,10:40.59,Susie S Young,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,40-44,46.74,Kris Kendall,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,W,40-44,1:20.43,Gillian G Salton,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,W,40-44,1:40.65,Susan Gorman,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Breaststroke,SCM,W,40-44,41.18,Jen L Hart,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,40-44,43.80,Susie S Young,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Breaststroke,SCM,W,40-44,1:30.84,Jen L Hart,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,W,40-44,1:41.44,Gillian G Salton,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Breaststroke,SCM,W,40-44,1:43.89,Susan Gorman,,COMA Short Course Meters Penta,2010,3
+OREG,200 M Breaststroke,SCM,W,40-44,4:04.91,Julianna G Mears,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,W,40-44,1:25.59,Gillian G Salton,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Butterfly,SCM,W,40-44,3:05.63,Susie S Young,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Individual Medley,SCM,W,40-44,3:07.73,Gillian G Salton,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,W,40-44,3:32.89,Susan Gorman,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,W,45-49,29.93,Arlene Delmage,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,W,45-49,33.49,MJ Caswell,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,W,45-49,36.68,Sandra Schmidt,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Freestyle,SCM,W,45-49,38.51,Susan G Sutherland,,Hood River Short Course Meters Meet,2010,4
+OREG,50 M Freestyle,SCM,W,45-49,41.08,Carolyn L Welty-Fick,,Hood River Short Course Meters Meet,2010,5
+OREG,100 M Freestyle,SCM,W,45-49,1:04.71,Arlene Delmage,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Freestyle,SCM,W,45-49,1:23.57,Susan G Sutherland,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Freestyle,SCM,W,45-49,2:19.30,Arlene Delmage,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Freestyle,SCM,W,45-49,3:01.92,Susan G Sutherland,,Hood River Short Course Meters Meet,2010,2
+OREG,400 M Freestyle,SCM,W,45-49,5:02.48,Arlene Delmage,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,400 M Freestyle,SCM,W,45-49,6:21.86,Susan G Sutherland,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,W,45-49,33.01,Valerie G Jenkins,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,45-49,45.55,Sandra Schmidt,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Backstroke,SCM,W,45-49,47.18,Carolyn L Welty-Fick,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Backstroke,SCM,W,45-49,1:32.90,Pam J Snider,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Backstroke,SCM,W,45-49,3:15.42,Pam J Snider,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,45-49,43.36,MJ Caswell,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,45-49,45.64,Carolyn L Welty-Fick,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Breaststroke,SCM,W,45-49,51.28,Sandra Schmidt,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Breaststroke,SCM,W,45-49,1:36.15,Pam J Snider,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,W,45-49,1:43.21,Carolyn L Welty-Fick,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Breaststroke,SCM,W,45-49,3:19.78,Pam J Snider,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,45-49,31.90,Arlene Delmage,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,45-49,45.21,Sandra Schmidt,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Butterfly,SCM,W,45-49,1:10.71,Arlene Delmage,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Butterfly,SCM,W,45-49,2:38.44,Arlene Delmage,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Individual Medley,SCM,W,45-49,1:29.13,Pam J Snider,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Individual Medley,SCM,W,45-49,1:39.83,Sandra Schmidt,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Individual Medley,SCM,W,45-49,2:43.58,Arlene Delmage,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Freestyle,SCM,W,50-54,34.86,Lori E Lamoureux,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,W,50-54,42.45,Christina M Fox,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,W,50-54,1:28.25,Christina M Fox,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Freestyle,SCM,W,50-54,2:52.03,Laura K Schob,,Huntsman Senior Games,2010,1
+OREG,400 M Freestyle,SCM,W,50-54,6:02.12,Laura K Schob,,Huntsman Senior Games,2010,1
+OREG,800 M Freestyle,SCM,W,50-54,12:30.76,Laura K Schob,,Huntsman Senior Games,2010,1
+OREG,1500 M Freestyle,SCM,W,50-54,20:12.88,Mary Sweat,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,W,50-54,33.94,Karen Andrus-Hughes,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,50-54,37.77,Ann R Goodman,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,W,50-54,45.43,Lori E Lamoureux,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Backstroke,SCM,W,50-54,1:22.45,Ann R Goodman,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,W,50-54,1:38.77,Christina M Fox,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Backstroke,SCM,W,50-54,2:54.00,Ann R Goodman,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,50-54,39.64,Colette M Crabbe,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,50-54,52.58,Christina M Fox,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Breaststroke,SCM,W,50-54,1:47.13,Christina M Fox,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,50-54,40.32,Ann R Goodman,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,50-54,41.33,Lori E Lamoureux,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Butterfly,SCM,W,50-54,1:38.04,Lori E Lamoureux,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,W,50-54,1:50.46,Christina M Fox,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Individual Medley,SCM,W,50-54,1:27.23,Ann R Goodman,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Individual Medley,SCM,W,50-54,1:30.90,Lori E Lamoureux,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Individual Medley,SCM,W,50-54,3:35.97,Christina M Fox,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Freestyle,SCM,W,55-59,1:22.21,Jeanna Summers,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,W,55-59,1:32.73,Jeanna Summers,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,W,55-59,52.14,Claudia Daly,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Breaststroke,SCM,W,55-59,4:08.60,Claudia Daly,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,W,55-59,1:46.56,Jeanna Summers,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,W,55-59,1:55.37,Claudia Daly,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Individual Medley,SCM,W,55-59,3:38.00,Jeanna Summers,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,W,55-59,4:08.61,Claudia Daly,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,W,60-64,36.00,Janet Gettling,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,W,60-64,39.55,Sandi Rousseau,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,W,60-64,40.92,Ginger L Pierson,,Huntsman Senior Games,2010,3
+OREG,50 M Backstroke,SCM,W,60-64,45.28,Janet Gettling,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,W,60-64,46.35,Sandi Rousseau,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,W,60-64,46.83,Ginger L Pierson,,Huntsman Senior Games,2010,3
+OREG,100 M Backstroke,SCM,W,60-64,1:40.91,Sandi Rousseau,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,W,60-64,44.54,Ginger L Pierson,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Breaststroke,SCM,W,60-64,44.74,Janet Gettling,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Breaststroke,SCM,W,60-64,55.46,Sandi Rousseau,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Breaststroke,SCM,W,60-64,1:37.44,Ginger L Pierson,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Breaststroke,SCM,W,60-64,3:35.27,Ginger L Pierson,,Huntsman Senior Games,2010,1
+OREG,50 M Butterfly,SCM,W,60-64,40.46,Janet Gettling,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Butterfly,SCM,W,60-64,40.49,Sandi Rousseau,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Butterfly,SCM,W,60-64,48.54,Ginger L Pierson,,Huntsman Senior Games,2010,3
+OREG,100 M Butterfly,SCM,W,60-64,1:44.78,Sandi Rousseau,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,W,60-64,1:52.00,Ginger L Pierson,,Huntsman Senior Games,2010,2
+OREG,200 M Butterfly,SCM,W,60-64,3:59.44,Ginger L Pierson,,Huntsman Senior Games,2010,1
+OREG,100 M Individual Medley,SCM,W,60-64,1:32.56,Janet Gettling,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,W,60-64,1:42.45,Ginger L Pierson,,Huntsman Senior Games,2010,2
+OREG,100 M Individual Medley,SCM,W,60-64,1:45.61,Sandi Rousseau,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Freestyle,SCM,W,65-69,37.20,Joy Ward,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,65-69,42.92,Joy Ward,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,W,65-69,1:35.64,Joy Ward,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Backstroke,SCM,W,65-69,3:20.36,Joy Ward,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,W,65-69,42.14,Joy Ward,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Individual Medley,SCM,W,65-69,1:40.97,Joy Ward,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,W,65-69,3:40.71,Joy Ward,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,W,70-74,1:01.56,Kaleo B Schroder,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,W,70-74,2:16.66,Kaleo B Schroder,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,W,70-74,1:06.81,Kaleo B Schroder,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Backstroke,SCM,W,70-74,5:30.93,Kaleo B Schroder,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,W,70-74,1:16.83,Kaleo B Schroder,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Breaststroke,SCM,W,70-74,5:56.48,Kaleo B Schroder,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,W,75-79,1:17.16,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,100 M Freestyle,SCM,W,75-79,2:44.91,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,200 M Freestyle,SCM,W,75-79,6:00.75,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,400 M Freestyle,SCM,W,75-79,12:31.92,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,50 M Backstroke,SCM,W,75-79,1:24.34,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,100 M Backstroke,SCM,W,75-79,2:57.39,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,200 M Backstroke,SCM,W,75-79,6:38.78,Beverly L'Esperance,,Huntsman Senior Games,2010,1
+OREG,50 M Freestyle,SCM,M,18-24,30.79,Thomas A Esser,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,18-24,38.74,Thomas A Esser,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Butterfly,SCM,M,18-24,33.06,Thomas A Esser,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,M,18-24,1:18.33,Thomas A Esser,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,25-29,24.47,Benjamin C Weston,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,M,25-29,26.95,Erik S Cardone,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Freestyle,SCM,M,25-29,53.05,Benjamin C Weston,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Freestyle,SCM,M,25-29,2:02.27,Benjamin C Weston,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Freestyle,SCM,M,25-29,2:18.09,Brendan C Lyons-Keefe,,2010 SPMA Short Course Meters Championships,2010,2
+OREG,400 M Freestyle,SCM,M,25-29,5:05.00,Brendan C Lyons-Keefe,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,800 M Freestyle,SCM,M,25-29,10:27.83,Brendan C Lyons-Keefe,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Backstroke,SCM,M,25-29,33.29,Erik S Cardone,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,25-29,34.13,Alec J Schramek,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,M,25-29,43.19,Erik S Cardone,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Breaststroke,SCM,M,25-29,1:20.55,Kevin H Cleary,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,M,25-29,1:20.69,Alec J Schramek,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Butterfly,SCM,M,25-29,33.07,Erik S Cardone,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Butterfly,SCM,M,25-29,1:00.01,Benjamin C Weston,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,M,25-29,1:11.28,Alec J Schramek,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Individual Medley,SCM,M,25-29,1:12.25,Erik S Cardone,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,30-34,29.09,Joseph W Hjelm,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,M,30-34,30.47,Bryan M McGeeney,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,M,30-34,36.60,Joel C Hart,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Freestyle,SCM,M,30-34,1:00.44,Cemil M Atay,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Freestyle,SCM,M,30-34,1:05.83,Joseph W Hjelm,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,M,30-34,1:16.61,Bryan M McGeeney,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Freestyle,SCM,M,30-34,1:32.16,Joel C Hart,,Hood River Short Course Meters Meet,2010,4
+OREG,200 M Freestyle,SCM,M,30-34,2:20.27,CHris Donnermeyer,,Hood River Short Course Meters Meet,2010,1
+OREG,400 M Freestyle,SCM,M,30-34,5:04.87,CHris Donnermeyer,,Hood River Short Course Meters Meet,2010,1
+OREG,800 M Freestyle,SCM,M,30-34,10:32.40,CHris Donnermeyer,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,M,30-34,1:12.16,Cemil M Atay,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,30-34,33.97,Nick Thorpe,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,M,30-34,1:17.06,Cemil M Atay,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Breaststroke,SCM,M,30-34,2:47.74,Nick Thorpe,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,M,30-34,33.70,Bryan M McGeeney,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,M,30-34,46.79,Joel C Hart,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Butterfly,SCM,M,30-34,1:07.90,Cemil M Atay,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Butterfly,SCM,M,30-34,1:11.20,CHris Donnermeyer,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Individual Medley,SCM,M,30-34,1:11.24,Nick Thorpe,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Individual Medley,SCM,M,30-34,2:36.15,Cemil M Atay,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,M,30-34,2:45.66,Nick Thorpe,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,M,35-39,27.65,Andrew R Singer,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,35-39,33.88,Scott Hamilton,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,M,35-39,37.26,Eric W Kreps,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Freestyle,SCM,M,35-39,1:15.21,Scott Hamilton,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,M,35-39,1:29.67,Eric W Kreps,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Freestyle,SCM,M,35-39,2:19.19,Christian F Tujo,,COMA Short Course Meters Penta,2010,1
+OREG,400 M Freestyle,SCM,M,35-39,6:01.91,Scott Hamilton,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,M,35-39,38.82,Andrew R Singer,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,M,35-39,53.96,Eric W Kreps,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Backstroke,SCM,M,35-39,2:55.08,Christian F Tujo,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,35-39,37.04,Andrew R Singer,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,35-39,47.06,Eric W Kreps,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Breaststroke,SCM,M,35-39,2:59.34,Christian F Tujo,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Butterfly,SCM,M,35-39,31.15,Robbert Van Andel,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,M,35-39,32.67,Andrew R Singer,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Butterfly,SCM,M,35-39,2:40.95,Christian F Tujo,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,M,35-39,1:14.60,Andrew R Singer,,COMA Short Course Meters Penta,2010,1
+OREG,400 M Individual Medley,SCM,M,35-39,5:48.69,Christian F Tujo,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,40-44,25.70,Eric Wan,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Freestyle,SCM,M,40-44,27.09,David C Hay,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,M,40-44,27.77,Jeff J Kuykendall,,Mission Viejo Nadadores  Short Course Meters Swim Meet,2010,3
+OREG,50 M Freestyle,SCM,M,40-44,34.85,Rob R Waltz,,COMA Short Course Meters Penta,2010,4
+OREG,100 M Freestyle,SCM,M,40-44,56.51,Eric Wan,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Freestyle,SCM,M,40-44,1:02.10,Jeff J Kuykendall,,Mission Viejo Nadadores  Short Course Meters Swim Meet,2010,2
+OREG,200 M Freestyle,SCM,M,40-44,2:09.54,Eric Wan,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Backstroke,SCM,M,40-44,35.07,David C Hay,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,M,40-44,47.65,Rob R Waltz,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Backstroke,SCM,M,40-44,1:12.58,Jeff J Kuykendall,,Mission Viejo Nadadores  Short Course Meters Swim Meet,2010,1
+OREG,50 M Breaststroke,SCM,M,40-44,33.73,David C Hay,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,40-44,51.01,Rob R Waltz,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Butterfly,SCM,M,40-44,29.73,Eric Wan,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Butterfly,SCM,M,40-44,29.90,David C Hay,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Butterfly,SCM,M,40-44,42.60,Rob R Waltz,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Individual Medley,SCM,M,40-44,1:09.89,David C Hay,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,45-49,27.39,Brent C Washburne,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,M,45-49,29.85,Terry L Cossey,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,M,45-49,31.85,Jan Voeller,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Freestyle,SCM,M,45-49,36.11,Barry Paul,,Hood River Short Course Meters Meet,2010,4
+OREG,50 M Freestyle,SCM,M,45-49,41.16,Michael Brinster,,Hood River Short Course Meters Meet,2010,5
+OREG,100 M Freestyle,SCM,M,45-49,1:04.54,Osh McNulty,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,M,45-49,1:07.52,Scott G Miller,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Freestyle,SCM,M,45-49,1:07.95,Rod T Parmenter,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Freestyle,SCM,M,45-49,1:08.67,Terry L Cossey,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Freestyle,SCM,M,45-49,1:10.20,Steve D Wursta,,COMA Short Course Meters Penta,2010,5
+OREG,200 M Freestyle,SCM,M,45-49,2:17.45,Hardy C Lussier,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Freestyle,SCM,M,45-49,2:21.32,Kris Calvin,,COMA Short Course Meters Penta,2010,2
+OREG,400 M Freestyle,SCM,M,45-49,5:07.89,Osh McNulty,,Hood River Short Course Meters Meet,2010,1
+OREG,400 M Freestyle,SCM,M,45-49,5:12.51,Brent C Washburne,,2010 SPMA Short Course Meters Championships,2010,2
+OREG,400 M Freestyle,SCM,M,45-49,7:26.66,Michael Brinster,,Hood River Short Course Meters Meet,2010,3
+OREG,800 M Freestyle,SCM,M,45-49,13:39.96,Eric Peterson,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,M,45-49,33.02,Brent C Washburne,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Backstroke,SCM,M,45-49,41.94,Rod T Parmenter,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,M,45-49,44.20,Jan Voeller,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Backstroke,SCM,M,45-49,45.09,Barry Paul,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Backstroke,SCM,M,45-49,1:17.88,Osh McNulty,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,M,45-49,1:23.62,Scott G Miller,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Backstroke,SCM,M,45-49,1:34.51,Steve D Wursta,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Backstroke,SCM,M,45-49,1:58.29,Michael Brinster,,Hood River Short Course Meters Meet,2010,4
+OREG,200 M Backstroke,SCM,M,45-49,2:38.08,Hardy C Lussier,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Backstroke,SCM,M,45-49,2:42.16,Kris Calvin,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Backstroke,SCM,M,45-49,2:48.93,Brent C Washburne,,2010 SPMA Short Course Meters Championships,2010,3
+OREG,50 M Breaststroke,SCM,M,45-49,38.00,Brent C Washburne,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,M,45-49,40.57,Terry L Cossey,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Breaststroke,SCM,M,45-49,42.87,Rod T Parmenter,,Hood River Short Course Meters Meet,2010,3
+OREG,50 M Breaststroke,SCM,M,45-49,43.47,Eric Peterson,,Hood River Short Course Meters Meet,2010,4
+OREG,50 M Breaststroke,SCM,M,45-49,46.79,Jan Voeller,,COMA Short Course Meters Penta,2010,5
+OREG,50 M Breaststroke,SCM,M,45-49,47.09,Barry Paul,,Hood River Short Course Meters Meet,2010,6
+OREG,50 M Breaststroke,SCM,M,45-49,56.68,Michael Brinster,,Hood River Short Course Meters Meet,2010,7
+OREG,100 M Breaststroke,SCM,M,45-49,1:27.65,Osh McNulty,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Breaststroke,SCM,M,45-49,1:29.13,Steve D Wursta,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Breaststroke,SCM,M,45-49,1:30.47,Rutger R Engbersen,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Breaststroke,SCM,M,45-49,1:33.98,Scott G Miller,,COMA Short Course Meters Penta,2010,4
+OREG,100 M Breaststroke,SCM,M,45-49,1:36.89,Eric Peterson,,Hood River Short Course Meters Meet,2010,5
+OREG,200 M Breaststroke,SCM,M,45-49,2:49.70,Hardy C Lussier,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Breaststroke,SCM,M,45-49,3:02.83,Kris Calvin,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Breaststroke,SCM,M,45-49,3:15.20,Rutger R Engbersen,,Hood River Short Course Meters Meet,2010,3
+OREG,50 M Butterfly,SCM,M,45-49,30.67,Brent C Washburne,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,M,45-49,34.87,Terry L Cossey,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Butterfly,SCM,M,45-49,36.49,Steve D Wursta,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Butterfly,SCM,M,45-49,39.25,Eric Peterson,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Butterfly,SCM,M,45-49,1:10.33,Brent C Washburne,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Butterfly,SCM,M,45-49,1:15.34,Scott G Miller,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Butterfly,SCM,M,45-49,1:29.32,Rod T Parmenter,,Hood River Short Course Meters Meet,2010,3
+OREG,200 M Butterfly,SCM,M,45-49,2:24.06,Hardy C Lussier,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Butterfly,SCM,M,45-49,2:41.58,Kris Calvin,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Individual Medley,SCM,M,45-49,1:13.72,Osh McNulty,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,M,45-49,1:21.18,Terry L Cossey,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Individual Medley,SCM,M,45-49,1:23.54,Steve D Wursta,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Individual Medley,SCM,M,45-49,1:27.10,Rod T Parmenter,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Individual Medley,SCM,M,45-49,1:27.98,Rutger R Engbersen,,Hood River Short Course Meters Meet,2010,5
+OREG,100 M Individual Medley,SCM,M,45-49,1:34.33,Jan Voeller,,COMA Short Course Meters Penta,2010,6
+OREG,100 M Individual Medley,SCM,M,45-49,1:37.98,Eric Peterson,,Hood River Short Course Meters Meet,2010,7
+OREG,100 M Individual Medley,SCM,M,45-49,1:53.45,Michael Brinster,,Hood River Short Course Meters Meet,2010,8
+OREG,200 M Individual Medley,SCM,M,45-49,2:40.71,Brent C Washburne,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Individual Medley,SCM,M,45-49,2:43.41,Osh McNulty,,Hood River Short Course Meters Meet,2010,2
+OREG,200 M Individual Medley,SCM,M,45-49,2:57.02,Scott G Miller,,COMA Short Course Meters Penta,2010,3
+OREG,400 M Individual Medley,SCM,M,45-49,5:14.14,Hardy C Lussier,,COMA Short Course Meters Penta,2010,1
+OREG,400 M Individual Medley,SCM,M,45-49,5:38.72,Kris Calvin,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,M,50-54,27.07,Steve A George,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Freestyle,SCM,M,50-54,28.42,Curt R La Count,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,M,50-54,28.57,Bill H Sumerfield,,Hood River Short Course Meters Meet,2010,3
+OREG,50 M Freestyle,SCM,M,50-54,31.80,Mike N Van Dooren,,Hood River Short Course Meters Meet,2010,4
+OREG,50 M Freestyle,SCM,M,50-54,32.39,Steve F Roberts,,Hood River Short Course Meters Meet,2010,5
+OREG,50 M Freestyle,SCM,M,50-54,33.78,John Powell,,COMA Short Course Meters Penta,2010,6
+OREG,50 M Freestyle,SCM,M,50-54,37.42,Charlie E Helm,,Hood River Short Course Meters Meet,2010,7
+OREG,50 M Freestyle,SCM,M,50-54,41.02,Mark Lane,,COMA Short Course Meters Penta,2010,8
+OREG,100 M Freestyle,SCM,M,50-54,1:00.64,David Hathaway,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Freestyle,SCM,M,50-54,1:00.89,Curt R La Count,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,M,50-54,1:03.23,Bill H Sumerfield,,Hood River Short Course Meters Meet,2010,3
+OREG,100 M Freestyle,SCM,M,50-54,1:10.79,Steve F Roberts,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Freestyle,SCM,M,50-54,1:15.66,Mark A Ribkoff,,Hood River Short Course Meters Meet,2010,5
+OREG,200 M Freestyle,SCM,M,50-54,2:12.76,David Hathaway,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Freestyle,SCM,M,50-54,2:44.60,Mike N Van Dooren,,Hood River Short Course Meters Meet,2010,2
+OREG,400 M Freestyle,SCM,M,50-54,4:41.61,David Hathaway,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,400 M Freestyle,SCM,M,50-54,5:01.71,Curt R La Count,,Hood River Short Course Meters Meet,2010,2
+OREG,400 M Freestyle,SCM,M,50-54,5:51.51,Mike N Van Dooren,,Hood River Short Course Meters Meet,2010,3
+OREG,400 M Freestyle,SCM,M,50-54,6:16.74,Mark A Ribkoff,,Hood River Short Course Meters Meet,2010,4
+OREG,800 M Freestyle,SCM,M,50-54,9:47.21,David Hathaway,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,800 M Freestyle,SCM,M,50-54,12:21.03,Mike B Dowd,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,M,50-54,31.16,Steve A George,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,M,50-54,32.48,Curt R La Count,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Backstroke,SCM,M,50-54,33.07,David Hathaway,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Backstroke,SCM,M,50-54,39.97,Bill H Sumerfield,,COMA Short Course Meters Penta,2010,4
+OREG,50 M Backstroke,SCM,M,50-54,43.61,John Powell,,COMA Short Course Meters Penta,2010,5
+OREG,50 M Backstroke,SCM,M,50-54,54.00,Charlie E Helm,,Hood River Short Course Meters Meet,2010,6
+OREG,50 M Backstroke,SCM,M,50-54,1:00.54,Mark Lane,,COMA Short Course Meters Penta,2010,7
+OREG,100 M Backstroke,SCM,M,50-54,1:09.59,Curt R La Count,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,M,50-54,1:11.59,Steve A George,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Backstroke,SCM,M,50-54,1:11.65,David Hathaway,,2nd Annual Whidbey Island SCM Meet,2010,3
+OREG,200 M Backstroke,SCM,M,50-54,2:31.95,Steve A George,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Backstroke,SCM,M,50-54,2:34.59,David Hathaway,,2010 SPMA Short Course Meters Championships,2010,2
+OREG,50 M Breaststroke,SCM,M,50-54,34.80,Patrick Allender,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,M,50-54,36.53,Bill H Sumerfield,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Breaststroke,SCM,M,50-54,37.43,David Hathaway,,COMA Short Course Meters Penta,2010,3
+OREG,50 M Breaststroke,SCM,M,50-54,39.69,Mike B Dowd,,Hood River Short Course Meters Meet,2010,4
+OREG,50 M Breaststroke,SCM,M,50-54,41.06,Curt R La Count,,COMA Short Course Meters Penta,2010,5
+OREG,50 M Breaststroke,SCM,M,50-54,42.01,Mike N Van Dooren,,Hood River Short Course Meters Meet,2010,6
+OREG,50 M Breaststroke,SCM,M,50-54,43.98,Steve F Roberts,,Hood River Short Course Meters Meet,2010,7
+OREG,50 M Breaststroke,SCM,M,50-54,47.41,John Powell,,COMA Short Course Meters Penta,2010,8
+OREG,50 M Breaststroke,SCM,M,50-54,53.95,Charlie E Helm,,Hood River Short Course Meters Meet,2010,9
+OREG,50 M Breaststroke,SCM,M,50-54,1:06.77,Mark Lane,,COMA Short Course Meters Penta,2010,10
+OREG,100 M Breaststroke,SCM,M,50-54,1:15.54,Patrick Allender,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,M,50-54,1:24.95,David Hathaway,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Breaststroke,SCM,M,50-54,1:25.65,Mike B Dowd,,Hood River Short Course Meters Meet,2010,3
+OREG,200 M Breaststroke,SCM,M,50-54,2:42.00,Patrick Allender,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Breaststroke,SCM,M,50-54,3:08.41,Mike B Dowd,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Butterfly,SCM,M,50-54,29.25,Curt R La Count,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Butterfly,SCM,M,50-54,30.13,David Hathaway,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Butterfly,SCM,M,50-54,36.92,Bill H Sumerfield,,Hood River Short Course Meters Meet,2010,3
+OREG,50 M Butterfly,SCM,M,50-54,38.90,John Powell,,COMA Short Course Meters Penta,2010,4
+OREG,50 M Butterfly,SCM,M,50-54,54.58,Mark Lane,,COMA Short Course Meters Penta,2010,5
+OREG,100 M Butterfly,SCM,M,50-54,1:06.92,Curt R La Count,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,M,50-54,1:07.95,David Hathaway,,2nd Annual Whidbey Island SCM Meet,2010,2
+OREG,200 M Butterfly,SCM,M,50-54,2:43.02,David Hathaway,,2nd Annual Whidbey Island SCM Meet,2010,1
+OREG,200 M Butterfly,SCM,M,50-54,3:12.54,Mike B Dowd,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Individual Medley,SCM,M,50-54,1:09.22,David Hathaway,,2nd Annual Whidbey Island SCM Meet,2010,1
+OREG,100 M Individual Medley,SCM,M,50-54,1:13.06,Curt R La Count,,COMA Short Course Meters Penta,2010,2
+OREG,100 M Individual Medley,SCM,M,50-54,1:19.24,Bill H Sumerfield,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Individual Medley,SCM,M,50-54,1:24.04,Steve F Roberts,,Hood River Short Course Meters Meet,2010,4
+OREG,100 M Individual Medley,SCM,M,50-54,1:29.33,John Powell,,COMA Short Course Meters Penta,2010,5
+OREG,100 M Individual Medley,SCM,M,50-54,1:30.14,Mike N Van Dooren,,Hood River Short Course Meters Meet,2010,6
+OREG,100 M Individual Medley,SCM,M,50-54,1:49.45,Charlie E Helm,,Hood River Short Course Meters Meet,2010,7
+OREG,100 M Individual Medley,SCM,M,50-54,2:05.87,Mark Lane,,COMA Short Course Meters Penta,2010,8
+OREG,200 M Individual Medley,SCM,M,50-54,2:29.92,David Hathaway,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,200 M Individual Medley,SCM,M,50-54,2:35.27,Patrick Allender,,Hood River Short Course Meters Meet,2010,2
+OREG,400 M Individual Medley,SCM,M,50-54,5:31.84,David Hathaway,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Freestyle,SCM,M,55-59,28.28,Doug Brockbank,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Freestyle,SCM,M,55-59,1:48.97,Walter R Carter,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Freestyle,SCM,M,55-59,2:54.96,David C Amperse,,COMA Short Course Meters Penta,2010,1
+OREG,800 M Freestyle,SCM,M,55-59,13:16.96,Reggie Sherwood,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,M,55-59,33.31,Doug Brockbank,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,M,55-59,37.80,Michael R Stephenson,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,M,55-59,38.20,Charles B Dwight,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Backstroke,SCM,M,55-59,1:22.23,Michael R Stephenson,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Backstroke,SCM,M,55-59,1:37.19,Stan R Hardy,,Huntsman Senior Games,2010,2
+OREG,100 M Backstroke,SCM,M,55-59,2:18.11,Walter R Carter,,COMA Short Course Meters Penta,2010,3
+OREG,200 M Backstroke,SCM,M,55-59,2:55.08,Michael R Stephenson,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Backstroke,SCM,M,55-59,3:30.05,David C Amperse,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Breaststroke,SCM,M,55-59,39.04,Charles B Dwight,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Breaststroke,SCM,M,55-59,2:26.45,Walter R Carter,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Breaststroke,SCM,M,55-59,3:17.55,Charles B Dwight,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Breaststroke,SCM,M,55-59,3:31.83,David C Amperse,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Butterfly,SCM,M,55-59,31.84,Doug Brockbank,,Hood River Short Course Meters Meet,2010,1
+OREG,100 M Butterfly,SCM,M,55-59,2:07.13,Walter R Carter,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Butterfly,SCM,M,55-59,3:32.23,David C Amperse,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,M,55-59,1:19.55,Charles B Dwight,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Individual Medley,SCM,M,55-59,4:41.86,Walter R Carter,,COMA Short Course Meters Penta,2010,1
+OREG,400 M Individual Medley,SCM,M,55-59,7:08.88,David C Amperse,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,60-64,35.94,Mike H Warren,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,60-64,36.56,Michael P Carew,,COMA Short Course Meters Penta,2010,2
+OREG,1500 M Freestyle,SCM,M,60-64,24:37.97,Michael P Carew,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,M,60-64,46.82,Mike H Warren,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,60-64,33.99,Allen L Stark,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,50 M Breaststroke,SCM,M,60-64,46.13,Mike H Warren,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Breaststroke,SCM,M,60-64,46.87,Michael P Carew,,COMA Short Course Meters Penta,2010,3
+OREG,100 M Breaststroke,SCM,M,60-64,1:20.97,Allen L Stark,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Breaststroke,SCM,M,60-64,1:45.55,Michael P Carew,,COMA Short Course Meters Penta,2010,2
+OREG,200 M Breaststroke,SCM,M,60-64,2:50.28,Allen L Stark,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Individual Medley,SCM,M,60-64,1:16.16,Allen L Stark,,2010 SPMA Short Course Meters Championships,2010,1
+OREG,100 M Individual Medley,SCM,M,60-64,1:38.27,Michael P Carew,,COMA Short Course Meters Penta,2010,2
+OREG,50 M Freestyle,SCM,M,65-69,33.61,Bren Hirschberg,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,65-69,40.09,Bill Mellow,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Freestyle,SCM,M,65-69,43.03,Richard H Juhala,,Huntsman Senior Games,2010,3
+OREG,100 M Freestyle,SCM,M,65-69,1:12.89,Tom Landis,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Freestyle,SCM,M,65-69,3:07.40,John L Spence,,COMA Short Course Meters Penta,2010,1
+OREG,400 M Freestyle,SCM,M,65-69,7:54.76,Richard H Juhala,,Huntsman Senior Games,2010,1
+OREG,800 M Freestyle,SCM,M,65-69,13:03.67,Robert S Smith,,Hood River Short Course Meters Meet,2010,1
+OREG,800 M Freestyle,SCM,M,65-69,15:14.67,Bill Mellow,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Backstroke,SCM,M,65-69,44.25,Bren Hirschberg,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,M,65-69,51.88,Richard H Juhala,,Huntsman Senior Games,2010,2
+OREG,100 M Backstroke,SCM,M,65-69,1:30.34,Tom Landis,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Backstroke,SCM,M,65-69,1:54.94,Richard H Juhala,,Huntsman Senior Games,2010,2
+OREG,200 M Backstroke,SCM,M,65-69,4:02.82,Richard H Juhala,,Huntsman Senior Games,2010,1
+OREG,50 M Breaststroke,SCM,M,65-69,40.99,Robert S Smith,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Breaststroke,SCM,M,65-69,47.50,Bill Mellow,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Breaststroke,SCM,M,65-69,49.20,Richard H Juhala,,Huntsman Senior Games,2010,3
+OREG,100 M Breaststroke,SCM,M,65-69,1:38.96,Tom Landis,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Breaststroke,SCM,M,65-69,1:47.92,Richard H Juhala,,Huntsman Senior Games,2010,2
+OREG,100 M Breaststroke,SCM,M,65-69,1:54.09,Bill Mellow,,Hood River Short Course Meters Meet,2010,3
+OREG,200 M Breaststroke,SCM,M,65-69,3:58.74,Richard H Juhala,,Huntsman Senior Games,2010,1
+OREG,200 M Breaststroke,SCM,M,65-69,4:06.27,Bill Mellow,,Hood River Short Course Meters Meet,2010,2
+OREG,50 M Butterfly,SCM,M,65-69,36.92,Bren Hirschberg,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Butterfly,SCM,M,65-69,1:27.62,Tom Landis,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,M,65-69,1:31.01,Bren Hirschberg,,COMA Short Course Meters Penta,2010,1
+OREG,100 M Individual Medley,SCM,M,65-69,1:48.00,Richard H Juhala,,Huntsman Senior Games,2010,2
+OREG,200 M Individual Medley,SCM,M,65-69,3:01.85,Tom Landis,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,70-74,36.34,George D Thayer,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,70-74,39.00,Gary Dielman,,Hood River Short Course Meters Meet,2010,2
+OREG,100 M Freestyle,SCM,M,70-74,1:27.30,Gary Dielman,,Hood River Short Course Meters Meet,2010,1
+OREG,200 M Freestyle,SCM,M,70-74,3:19.49,Gary Dielman,,Hood River Short Course Meters Meet,2010,1
+OREG,400 M Freestyle,SCM,M,70-74,7:10.44,Gary Dielman,,Hood River Short Course Meters Meet,2010,1
+OREG,800 M Freestyle,SCM,M,70-74,15:04.63,Gary Dielman,,Hood River Short Course Meters Meet,2010,1
+OREG,50 M Backstroke,SCM,M,70-74,43.51,George D Thayer,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Backstroke,SCM,M,70-74,3:36.11,George D Thayer,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Breaststroke,SCM,M,70-74,49.74,George D Thayer,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,75-79,31.16,David A Radcliff,,Huntsman Senior Games,2010,1
+OREG,100 M Freestyle,SCM,M,75-79,1:08.99,David A Radcliff,,Huntsman Senior Games,2010,1
+OREG,200 M Freestyle,SCM,M,75-79,2:31.21,David A Radcliff,,Huntsman Senior Games,2010,1
+OREG,400 M Freestyle,SCM,M,75-79,5:31.85,David A Radcliff,,Huntsman Senior Games,2010,1
+OREG,800 M Freestyle,SCM,M,75-79,11:30.21,David A Radcliff,,Huntsman Senior Games,2010,1
+OREG,1500 M Freestyle,SCM,M,75-79,21:47.57,David A Radcliff,,Huntsman Senior Games,2010,1
+OREG,50 M Freestyle,SCM,M,85-89,39.70,Willard J Lamb,,COMA Short Course Meters Penta,2010,1
+OREG,200 M Freestyle,SCM,M,85-89,3:23.62,Willard J Lamb,,COMA Short Course Meters Penta,2010,1
+OREG,1500 M Freestyle,SCM,M,85-89,29:07.90,Willard J Lamb,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Backstroke,SCM,M,85-89,51.17,Willard J Lamb,,COMA Short Course Meters Penta,2010,1
+OREG,50 M Freestyle,SCM,M,90-94,51.35,Bert Singer,,Huntsman Senior Games,2010,1
+OREG,50 M Backstroke,SCM,M,90-94,58.90,Bert Singer,,Huntsman Senior Games,2010,1
+OREG,50 M Breaststroke,SCM,M,90-94,1:16.15,Bert Singer,,Huntsman Senior Games,2010,1
+OREG,100 M Breaststroke,SCM,M,90-94,2:51.53,Bert Singer,,Huntsman Senior Games,2010,1
+SWMS,50 M Breaststroke,SCM,W,50-54,42.70,Nancy C Vincent,,Hood River Short Course Meters Meet,2010,1
+SWMS,100 M Breaststroke,SCM,W,50-54,1:33.49,Nancy C Vincent,,Hood River Short Course Meters Meet,2010,1
+SWMS,200 M Breaststroke,SCM,W,50-54,3:18.42,Nancy C Vincent,,Hood River Short Course Meters Meet,2010,1
+SWMS,50 M Butterfly,SCM,W,50-54,38.25,Nancy C Vincent,,Hood River Short Course Meters Meet,2010,1
+SWMS,100 M Butterfly,SCM,W,50-54,1:31.07,Nancy C Vincent,,Hood River Short Course Meters Meet,2010,1
+SWMS,100 M Freestyle,SCM,W,65-69,1:53.03,Esther B Ellis,,Hood River Short Course Meters Meet,2010,1
+SWMS,200 M Freestyle,SCM,W,65-69,4:01.40,Esther B Ellis,,Hood River Short Course Meters Meet,2010,1
+SWMS,400 M Freestyle,SCM,W,65-69,8:23.69,Esther B Ellis,,Hood River Short Course Meters Meet,2010,1
+SWMS,100 M Backstroke,SCM,M,55-59,1:39.89,Stephen Darnell,,Hood River Short Course Meters Meet,2010,1
+SWMS,200 M Backstroke,SCM,M,55-59,3:43.20,Stephen Darnell,,Hood River Short Course Meters Meet,2010,1
+SWMS,100 M Individual Medley,SCM,M,55-59,1:42.29,Stephen Darnell,,Hood River Short Course Meters Meet,2010,1
+SWMS,100 M Freestyle,SCM,M,60-64,1:23.80,John L Ellis,,Hood River Short Course Meters Meet,2010,1
+UNAT,50 M Freestyle,SCM,W,18-24,34.55,Tracey K Lester,,2nd Annual Whidbey Island SCM Meet,2010,1
+UNAT,100 M Freestyle,SCM,W,18-24,1:16.33,Tracey K Lester,,2nd Annual Whidbey Island SCM Meet,2010,1
+UNAT,50 M Butterfly,SCM,W,18-24,39.20,Tracey K Lester,,2nd Annual Whidbey Island SCM Meet,2010,1
+UNAT,50 M Freestyle,SCM,W,45-49,38.35,Julie A Andrade,,Hood River Short Course Meters Meet,2010,1
+UNAT,100 M Freestyle,SCM,W,45-49,1:18.87,LeAnne E Schrotzberger,,Hood River Short Course Meters Meet,2010,1
+UNAT,100 M Freestyle,SCM,W,45-49,1:26.65,Julie A Andrade,,Hood River Short Course Meters Meet,2010,2
+UNAT,100 M Backstroke,SCM,W,45-49,1:33.61,LeAnne E Schrotzberger,,Hood River Short Course Meters Meet,2010,1
+UNAT,50 M Breaststroke,SCM,W,45-49,47.91,Julie A Andrade,,Hood River Short Course Meters Meet,2010,1
+UNAT,100 M Breaststroke,SCM,W,45-49,1:43.92,LeAnne E Schrotzberger,,Hood River Short Course Meters Meet,2010,1
+UNAT,50 M Butterfly,SCM,W,45-49,45.43,Julie A Andrade,,Hood River Short Course Meters Meet,2010,1
+UNAT,100 M Butterfly,SCM,W,45-49,1:38.03,LeAnne E Schrotzberger,,Hood River Short Course Meters Meet,2010,1
+UNAT,100 M Individual Medley,SCM,W,45-49,1:42.10,Julie A Andrade,,Hood River Short Course Meters Meet,2010,1
+UNAT,200 M Individual Medley,SCM,W,45-49,3:15.12,LeAnne E Schrotzberger,,Hood River Short Course Meters Meet,2010,1
+UNAT,100 M Freestyle,SCM,M,55-59,1:11.60,Allen J Larson,,Huntsman Senior Games,2010,1
+UNAT,200 M Freestyle,SCM,M,55-59,2:40.67,Allen J Larson,,Huntsman Senior Games,2010,1
+UNAT,400 M Freestyle,SCM,M,55-59,5:48.42,Allen J Larson,,Huntsman Senior Games,2010,1
+UNAT,800 M Freestyle,SCM,M,55-59,12:11.14,Allen J Larson,,Huntsman Senior Games,2010,1
+UNAT,1500 M Freestyle,SCM,M,55-59,22:51.37,Allen J Larson,,Huntsman Senior Games,2010,1
+UNAT,100 M Breaststroke,SCM,M,55-59,1:42.74,Allen J Larson,,Huntsman Senior Games,2010,1
+UNAT,100 M Individual Medley,SCM,M,55-59,1:32.06,Allen J Larson,,Huntsman Senior Games,2010,1

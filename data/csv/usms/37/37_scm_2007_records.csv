@@ -1,0 +1,477 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+OREG,50 M Freestyle,SCM,W,18-24,31.37,Karen Fahrni,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,W,18-24,2:28.81,Karen Fahrni,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,W,18-24,2:44.62,Jessica Brandes,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,800 M Freestyle,SCM,W,18-24,12:02.45,Jessica Brandes,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,18-24,33.83,Karen Fahrni,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Butterfly,SCM,W,18-24,1:15.30,Karen Fahrni,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,25-29,29.61,Aubree Gustafson,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,25-29,31.60,Rebecca Woloszczuk,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,W,25-29,35.72,Andrea Smith,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Freestyle,SCM,W,25-29,2:30.48,Aubree Gustafson,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,25-29,10:47.33,Rebecca Woloszczuk,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,25-29,38.49,Aubree Gustafson,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,W,25-29,39.88,Aubree Gustafson,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,W,25-29,42.95,Andrea Smith,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Breaststroke,SCM,W,25-29,52.52,Ronni Etterman,,Oregon Patriot Games,2007,3
+OREG,100 M Breaststroke,SCM,W,25-29,1:28.20,Aubree Gustafson,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,25-29,34.67,Aubree Gustafson,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,25-29,39.12,Andrea Smith,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Butterfly,SCM,W,25-29,1:19.75,Rebecca Woloszczuk,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,W,25-29,1:18.43,Aubree Gustafson,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,W,25-29,1:25.49,Andrea Smith,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Individual Medley,SCM,W,25-29,3:04.15,Andrea Smith,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,30-34,32.04,Amy Kasenga,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,W,30-34,32.48,Laila Goldring,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,W,30-34,32.96,Ellen Kramer,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Freestyle,SCM,W,30-34,1:11.72,Laila Goldring,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,W,30-34,1:12.43,Ellen Kramer,,Oregon Patriot Games,2007,2
+OREG,200 M Freestyle,SCM,W,30-34,2:45.19,Anna Malsch,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,30-34,11:02.78,Ellen Kramer,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,30-34,12:23.88,Anna Malsch,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,W,30-34,39.07,Amy Kasenga,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,W,30-34,39.41,Amy Kasenga,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,W,30-34,43.03,Anna White,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Breaststroke,SCM,W,30-34,43.60,Ellen Kramer,,Oregon Patriot Games,2007,3
+OREG,100 M Breaststroke,SCM,W,30-34,1:32.51,Anna White,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Breaststroke,SCM,W,30-34,1:33.51,Ellen Kramer,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Breaststroke,SCM,W,30-34,3:22.36,Laila Goldring,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,30-34,35.48,Amy Kasenga,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,30-34,36.25,Laila Goldring,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,W,30-34,1:20.24,Amy Kasenga,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,W,30-34,1:21.90,Laila Goldring,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,W,30-34,1:23.52,Anna White,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Freestyle,SCM,W,35-39,28.56,Nikki Weeks,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,W,35-39,34.50,Deborah Topp,,Oregon Patriot Games,2007,2
+OREG,50 M Freestyle,SCM,W,35-39,35.82,Melinda Walters,,Oregon Patriot Games,2007,3
+OREG,400 M Freestyle,SCM,W,35-39,5:20.93,Alison B Moore,,VMST Fall SCM at Virginia Beach,2007,1
+OREG,800 M Freestyle,SCM,W,35-39,10:48.80,Alison B Moore,,VMST Fall SCM at Virginia Beach,2007,1
+OREG,1500 M Freestyle,SCM,W,35-39,19:28.92,Sara Q Nelson,,PNA Bellevue Club,2007,1
+OREG,50 M Backstroke,SCM,W,35-39,34.86,Nikki Weeks,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,W,35-39,44.25,Deborah Topp,,Oregon Patriot Games,2007,2
+OREG,200 M Backstroke,SCM,W,35-39,2:52.53,Sara Q Nelson,,PNA Bellevue Club,2007,1
+OREG,50 M Breaststroke,SCM,W,35-39,36.50,Jayna Tomac,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,W,35-39,37.03,Nikki Weeks,,Oregon Patriot Games,2007,2
+OREG,50 M Breaststroke,SCM,W,35-39,46.36,Deborah Topp,,Oregon Patriot Games,2007,3
+OREG,100 M Breaststroke,SCM,W,35-39,1:20.39,Jayna Tomac,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,W,35-39,2:58.87,Jayna Tomac,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,W,35-39,3:14.53,Alison B Moore,,VMST Fall SCM at Virginia Beach,2007,2
+OREG,50 M Butterfly,SCM,W,35-39,31.07,Nikki Weeks,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,35-39,35.76,Deborah Topp,,Oregon Patriot Games,2007,2
+OREG,100 M Individual Medley,SCM,W,35-39,1:11.93,Nikki Weeks,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,W,35-39,1:14.02,Jayna Tomac,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,W,35-39,1:28.57,Deborah Topp,,Oregon Patriot Games,2007,3
+OREG,100 M Individual Medley,SCM,W,35-39,1:31.26,Melinda Walters,,Oregon Patriot Games,2007,4
+OREG,200 M Individual Medley,SCM,W,35-39,2:48.57,Sara Q Nelson,,PNA Bellevue Club,2007,1
+OREG,50 M Freestyle,SCM,W,40-44,29.81,Lynn Squires,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,40-44,31.09,Elizabeth Watkins,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,W,40-44,33.44,Kathy Marsh,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Freestyle,SCM,W,40-44,47.93,Christine Etterman,,Oregon Patriot Games,2007,4
+OREG,100 M Freestyle,SCM,W,40-44,1:20.44,Susan Shaw,,Oregon Patriot Games,2007,1
+OREG,200 M Freestyle,SCM,W,40-44,2:22.95,Lynn Squires,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,40-44,10:18.76,Elizabeth Watkins,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,40-44,10:20.37,Lynn Squires,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,W,40-44,43.15,Kathy Marsh,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,W,40-44,59.96,Christine Etterman,,Oregon Patriot Games,2007,2
+OREG,100 M Backstroke,SCM,W,40-44,1:37.86,Susan Shaw,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,W,40-44,43.01,Kathy Marsh,,Oregon Patriot Games,2007,1
+OREG,100 M Breaststroke,SCM,W,40-44,1:40.88,Susan Shaw,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,40-44,38.01,Kathy Marsh,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Butterfly,SCM,W,40-44,1:48.29,Susan Shaw,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,W,40-44,1:26.89,Kathy Marsh,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Individual Medley,SCM,W,40-44,3:18.33,Susan Shaw,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,W,45-49,31.50,Sharon Foley,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,W,45-49,35.56,Pam Snider,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,W,45-49,38.36,Christina Fox,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Freestyle,SCM,W,45-49,1:11.40,Mary J Caswell,,Ron Johnson Invitational at Tempe,2007,1
+OREG,100 M Freestyle,SCM,W,45-49,1:24.67,Christina Fox,,Oregon Patriot Games,2007,2
+OREG,200 M Freestyle,SCM,W,45-49,2:37.13,Mary J Caswell,,Ron Johnson Invitational at Tempe,2007,1
+OREG,200 M Freestyle,SCM,W,45-49,2:45.75,Pam Snider,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Freestyle,SCM,W,45-49,2:56.71,Christina Fox,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,400 M Freestyle,SCM,W,45-49,5:35.81,Mary J Caswell,,Ron Johnson Invitational at Tempe,2007,1
+OREG,800 M Freestyle,SCM,W,45-49,10:04.90,Holly Vaughn-Edmonds,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,45-49,11:33.54,Mary J Caswell,,Ron Johnson Invitational at Tempe,2007,2
+OREG,50 M Backstroke,SCM,W,45-49,38.28,Ann Goodman,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,45-49,42.17,Pam Snider,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,W,45-49,44.37,Sharon Foley,,Oregon Patriot Games,2007,3
+OREG,100 M Backstroke,SCM,W,45-49,1:20.39,Ann R Goodman,,Ron Johnson Invitational at Tempe,2007,1
+OREG,100 M Backstroke,SCM,W,45-49,1:31.39,Christina Fox,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Backstroke,SCM,W,45-49,2:56.93,Ann R Goodman,,Ron Johnson Invitational at Tempe,2007,1
+OREG,50 M Breaststroke,SCM,W,45-49,41.74,Sharon Foley,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Breaststroke,SCM,W,45-49,1:41.95,Christina Fox,,Oregon Patriot Games,2007,1
+OREG,100 M Breaststroke,SCM,W,45-49,1:49.98,Janie Malloy,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Butterfly,SCM,W,45-49,35.17,Sharon Foley,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,45-49,35.70,Mary J Caswell,,Ron Johnson Invitational at Tempe,2007,2
+OREG,50 M Butterfly,SCM,W,45-49,39.32,Pam Snider,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Butterfly,SCM,W,45-49,50.99,Christina Fox,,Oregon Patriot Games,2007,4
+OREG,100 M Butterfly,SCM,W,45-49,1:08.54,Arlene Delmage,,Oregon Patriot Games,2007,1
+OREG,200 M Butterfly,SCM,W,45-49,3:25.05,Pam Snider,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Butterfly,SCM,W,45-49,3:58.42,Janie Malloy,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,W,45-49,1:22.90,Mary J Caswell,,Ron Johnson Invitational at Tempe,2007,1
+OREG,100 M Individual Medley,SCM,W,45-49,1:24.00,Sharon Foley,,Oregon Patriot Games,2007,2
+OREG,100 M Individual Medley,SCM,W,45-49,1:33.33,Christina Fox,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Individual Medley,SCM,W,45-49,1:41.38,Janie Malloy,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,200 M Individual Medley,SCM,W,45-49,2:44.38,Arlene Delmage,,Oregon Patriot Games,2007,1
+OREG,200 M Individual Medley,SCM,W,45-49,3:10.11,Ann Goodman,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Individual Medley,SCM,W,45-49,3:23.58,Christina Fox,,Oregon Patriot Games,2007,3
+OREG,50 M Freestyle,SCM,W,50-54,39.90,Dianne Sherwood,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,W,50-54,1:03.47,Karen Andrus-Hughes,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,50-54,12:36.86,Elizabeth Budd,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,50-54,13:49.48,Jeanna Summers,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,W,50-54,32.67,Karen Andrus-Hughes,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,W,50-54,51.61,Dianne Sherwood,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Backstroke,SCM,W,50-54,1:10.35,Karen Andrus-Hughes,,Oregon Patriot Games,2007,1
+OREG,100 M Backstroke,SCM,W,50-54,1:33.49,Jeanna Summers,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Backstroke,SCM,W,50-54,3:21.67,Jeanna Summers,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Breaststroke,SCM,W,50-54,1:48.06,Dianne Sherwood,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,W,50-54,3:51.24,Dianne Sherwood,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,50-54,42.79,Elizabeth Budd,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,W,50-54,1:30.80,Elizabeth Budd,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Individual Medley,SCM,W,50-54,3:38.68,Jeanna Summers,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,55-59,40.97,Jane Gray,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,55-59,47.35,Carol Stark,,SPMA SCM Champs,2007,2
+OREG,100 M Freestyle,SCM,W,55-59,1:35.04,Jane Gray,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,55-59,54.85,Carol Stark,,SPMA SCM Champs,2007,1
+OREG,50 M Backstroke,SCM,W,55-59,58.63,Jane Gray,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,W,60-64,36.16,Sandi Rousseau,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,60-64,56.29,Darby Sitter,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,W,60-64,1:20.90,Sandi Rousseau,,PNA Bellevue Club,2007,1
+OREG,200 M Freestyle,SCM,W,60-64,5:04.29,Darby Sitter,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,60-64,1:12.20,Darby Sitter,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Backstroke,SCM,W,60-64,1:40.44,Sandi Rousseau,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,60-64,39.31,Sandi Rousseau,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,W,60-64,1:07.84,Darby Sitter,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Butterfly,SCM,W,60-64,1:38.80,Sandi Rousseau,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,W,60-64,1:37.98,Sandi Rousseau,,PNA Bellevue Club,2007,1
+OREG,100 M Individual Medley,SCM,W,60-64,2:30.15,Darby Sitter,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,W,65-69,36.19,Barbara Frid,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,65-69,37.06,Joy Ward,,Oregon Patriot Games,2007,2
+OREG,50 M Backstroke,SCM,W,65-69,41.82,Joy Ward,,PNA Bellevue Club,2007,1
+OREG,50 M Backstroke,SCM,W,65-69,44.13,Barbara Frid,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Backstroke,SCM,W,65-69,1:31.22,Joy Ward,,PNA Bellevue Club,2007,1
+OREG,200 M Backstroke,SCM,W,65-69,3:17.17,Joy Ward,,PNA Bellevue Club,2007,1
+OREG,50 M Breaststroke,SCM,W,65-69,47.47,Barbara Frid,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,W,65-69,51.79,Joy Ward,,Oregon Patriot Games,2007,2
+OREG,50 M Butterfly,SCM,W,65-69,38.06,Joy Ward,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,65-69,40.95,Barbara Frid,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Butterfly,SCM,W,65-69,1:40.75,Joy Ward,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Butterfly,SCM,W,65-69,3:42.91,Joy Ward,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,W,65-69,1:32.98,Barbara Frid,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,W,65-69,1:35.51,Joy Ward,,Oregon Patriot Games,2007,2
+OREG,200 M Individual Medley,SCM,W,65-69,3:30.76,Joy Ward,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,W,70-74,49.96,Geraldine Kawabata,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,W,70-74,57.55,Dolores Dinneen,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,W,70-74,2:14.78,Dolores Dinneen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,W,70-74,4:44.07,Dolores Dinneen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,70-74,1:02.35,Geraldine Kawabata,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,W,70-74,1:22.60,Geraldine Kawabata,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,70-74,1:08.36,Geraldine Kawabata,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,W,70-74,2:26.71,Geraldine Kawabata,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,W,80-84,1:49.42,Margaret Wells,,Oregon Patriot Games,2007,1
+OREG,100 M Freestyle,SCM,W,80-84,2:38.46,Betsy Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,W,80-84,5:15.37,Betsy Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,W,80-84,22:16.83,Betsy Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,80-84,1:33.24,Margaret Wells,,Oregon Patriot Games,2007,1
+OREG,100 M Backstroke,SCM,W,80-84,3:13.27,Betsy Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Backstroke,SCM,W,80-84,6:38.23,Betsy Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,W,80-84,2:07.65,Margaret Wells,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,80-84,2:16.73,Margaret Wells,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,W,80-84,4:04.53,Margaret Wells,,Oregon Patriot Games,2007,1
+OREG,100 M Freestyle,SCM,W,85-89,3:40.30,Elfie Stevenin,,Oregon Patriot Games,2007,1
+OREG,800 M Freestyle,SCM,W,85-89,39:27.00,Elfie Stevenin,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,W,85-89,1:54.69,Elfie Stevenin,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Backstroke,SCM,W,85-89,3:45.04,Elfie Stevenin,,Oregon Patriot Games,2007,1
+OREG,100 M Breaststroke,SCM,W,85-89,5:34.25,Elfie Stevenin,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,W,85-89,2:45.54,Elfie Stevenin,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Butterfly,SCM,W,85-89,5:19.48,Elfie Stevenin,,Oregon Patriot Games,2007,1
+OREG,200 M Individual Medley,SCM,W,85-89,9:28.91,Elfie Stevenin,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,W,90-94,2:50.87,Hilda Buel,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,18-24,28.28,Ryan Brenteson,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,18-24,28.31,Kevin Cleary,,Oregon Patriot Games,2007,2
+OREG,100 M Freestyle,SCM,M,18-24,1:08.13,Ryan Brenteson,,Oregon Patriot Games,2007,1
+OREG,1500 M Freestyle,SCM,M,18-24,21:52.39,Kevin Cleary,,Oak Harbor Pentathlon North Whidbey Masters,2007,1
+OREG,50 M Backstroke,SCM,M,18-24,35.33,Kevin Cleary,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,M,18-24,36.58,Ryan Brenteson,,Oregon Patriot Games,2007,2
+OREG,50 M Breaststroke,SCM,M,18-24,36.38,Kevin Cleary,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,M,18-24,41.40,Ryan Brenteson,,Oregon Patriot Games,2007,2
+OREG,100 M Breaststroke,SCM,M,18-24,1:20.87,Kevin Cleary,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,M,18-24,3:08.05,Kevin Cleary,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,M,18-24,30.58,Kevin Cleary,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,18-24,30.99,Ryan Brenteson,,Oregon Patriot Games,2007,2
+OREG,100 M Butterfly,SCM,M,18-24,1:06.98,Kevin Cleary,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Butterfly,SCM,M,18-24,2:48.01,Kevin Cleary,,Oak Harbor Pentathlon North Whidbey Masters,2007,1
+OREG,100 M Individual Medley,SCM,M,18-24,1:10.90,Kevin Cleary,,Oregon Patriot Games,2007,1
+OREG,400 M Individual Medley,SCM,M,18-24,6:06.50,Kevin Cleary,,Oak Harbor Pentathlon North Whidbey Masters,2007,1
+OREG,50 M Freestyle,SCM,M,30-34,30.79,Byron Kuzara,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,M,30-34,1:08.69,Byron Kuzara,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,30-34,2:36.39,Byron Kuzara,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,35-39,24.91,Curtis Taylor,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,35-39,32.60,Robert Whiting,,Oregon Patriot Games,2007,2
+OREG,100 M Freestyle,SCM,M,35-39,1:15.65,Robert Whiting,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,M,35-39,31.02,Curtis Taylor,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,M,35-39,34.08,Curtis Taylor,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,M,35-39,49.22,Robert Whiting,,Oregon Patriot Games,2007,2
+OREG,100 M Breaststroke,SCM,M,35-39,1:45.79,Robert Whiting,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,35-39,27.79,Curtis Taylor,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,35-39,1:06.28,Curtis Taylor,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,35-39,1:15.44,Jason Aldred,,Oregon Patriot Games,2007,2
+OREG,50 M Freestyle,SCM,M,40-44,26.13,Eric Wan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,40-44,26.24,Gano Butcher,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,M,40-44,27.17,William Clydesdale,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Freestyle,SCM,M,40-44,27.33,David Shoup,,Oregon Patriot Games,2007,4
+OREG,50 M Freestyle,SCM,M,40-44,27.44,Jon-Erik Larsen,,Multnomah Athletic Club Oregon SCM,2007,5
+OREG,50 M Freestyle,SCM,M,40-44,29.57,Chris Gaarder,,Multnomah Athletic Club Oregon SCM,2007,6
+OREG,50 M Freestyle,SCM,M,40-44,29.73,Timothy Waud,,Oregon Patriot Games,2007,7
+OREG,100 M Freestyle,SCM,M,40-44,57.15,Eric Wan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,M,40-44,58.48,Gano Butcher,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,M,40-44,1:00.76,Timothy D Nelson,,PNA Bellevue Club,2007,3
+OREG,400 M Freestyle,SCM,M,40-44,4:36.53,Timothy D Nelson,,PNA Bellevue Club,2007,1
+OREG,1500 M Freestyle,SCM,M,40-44,18:46.52,Timothy D Nelson,,PNA Bellevue Club,2007,1
+OREG,50 M Backstroke,SCM,M,40-44,30.43,Gano Butcher,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,M,40-44,33.04,David Shoup,,Oregon Patriot Games,2007,2
+OREG,50 M Backstroke,SCM,M,40-44,34.21,Timothy Waud,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Backstroke,SCM,M,40-44,39.53,Chris Gaarder,,Oregon Patriot Games,2007,4
+OREG,100 M Backstroke,SCM,M,40-44,1:08.40,Gano Butcher,,Oak Harbor Pentathlon North Whidbey Masters,2007,1
+OREG,100 M Backstroke,SCM,M,40-44,1:15.02,Timothy Waud,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Backstroke,SCM,M,40-44,2:39.28,Timothy D Nelson,,PNA Bellevue Club,2007,1
+OREG,200 M Backstroke,SCM,M,40-44,2:42.18,Timothy Waud,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Breaststroke,SCM,M,40-44,31.87,James L Corbeau,,Pacific Masters SCM Championship,2007,1
+OREG,50 M Breaststroke,SCM,M,40-44,34.52,Jon-Erik Larsen,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Breaststroke,SCM,M,40-44,35.39,Gano Butcher,,Oregon Patriot Games,2007,3
+OREG,50 M Breaststroke,SCM,M,40-44,36.18,Chris Gaarder,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,50 M Breaststroke,SCM,M,40-44,36.35,Timothy Waud,,Multnomah Athletic Club Oregon SCM,2007,5
+OREG,50 M Breaststroke,SCM,M,40-44,38.03,David Shoup,,Oregon Patriot Games,2007,6
+OREG,100 M Breaststroke,SCM,M,40-44,1:10.72,James L Corbeau,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Breaststroke,SCM,M,40-44,1:19.51,Chris Gaarder,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Breaststroke,SCM,M,40-44,1:26.41,Gano Butcher,,Oak Harbor Pentathlon North Whidbey Masters,2007,3
+OREG,200 M Breaststroke,SCM,M,40-44,2:50.17,Timothy Waud,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,M,40-44,3:02.93,Timothy D Nelson,,PNA Bellevue Club,2007,2
+OREG,50 M Butterfly,SCM,M,40-44,28.76,Gano Butcher,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,40-44,30.09,David Shoup,,Oregon Patriot Games,2007,2
+OREG,50 M Butterfly,SCM,M,40-44,30.50,William Clydesdale,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Butterfly,SCM,M,40-44,30.63,Jon-Erik Larsen,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,50 M Butterfly,SCM,M,40-44,31.65,Timothy Waud,,Oregon Patriot Games,2007,5
+OREG,50 M Butterfly,SCM,M,40-44,33.91,Chris Gaarder,,Oregon Patriot Games,2007,6
+OREG,100 M Butterfly,SCM,M,40-44,1:15.02,Gano Butcher,,Oak Harbor Pentathlon North Whidbey Masters,2007,1
+OREG,100 M Individual Medley,SCM,M,40-44,1:08.38,Eric Wan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,M,40-44,1:08.48,Gano Butcher,,Oregon Patriot Games,2007,2
+OREG,100 M Individual Medley,SCM,M,40-44,1:09.95,William Clydesdale,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Individual Medley,SCM,M,40-44,1:10.95,David Shoup,,Oregon Patriot Games,2007,4
+OREG,100 M Individual Medley,SCM,M,40-44,1:13.28,Timothy Waud,,Oregon Patriot Games,2007,5
+OREG,100 M Individual Medley,SCM,M,40-44,1:14.64,Chris Gaarder,,Multnomah Athletic Club Oregon SCM,2007,6
+OREG,50 M Freestyle,SCM,M,45-49,26.97,David Hathaway,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,45-49,27.10,Jim Rabe,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Freestyle,SCM,M,45-49,27.72,Brent Washburne,,Oregon Patriot Games,2007,3
+OREG,50 M Freestyle,SCM,M,45-49,27.89,Bill Sumerfield,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,50 M Freestyle,SCM,M,45-49,28.53,Scott Culbertson,,Oregon Patriot Games,2007,5
+OREG,50 M Freestyle,SCM,M,45-49,29.00,Lou Boone,,Multnomah Athletic Club Oregon SCM,2007,6
+OREG,50 M Freestyle,SCM,M,45-49,29.89,Keith Stelzer,,Multnomah Athletic Club Oregon SCM,2007,7
+OREG,100 M Freestyle,SCM,M,45-49,1:00.16,Brent Washburne,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,M,45-49,1:00.26,David Hathaway,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,M,45-49,1:03.00,Bill Sumerfield,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Freestyle,SCM,M,45-49,1:03.30,Douglas Otto,,Oregon Patriot Games,2007,4
+OREG,100 M Freestyle,SCM,M,45-49,1:07.50,Lou Boone,,Multnomah Athletic Club Oregon SCM,2007,5
+OREG,100 M Freestyle,SCM,M,45-49,1:13.01,Keith Stelzer,,Multnomah Athletic Club Oregon SCM,2007,6
+OREG,200 M Freestyle,SCM,M,45-49,2:16.25,Jim Rabe,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,45-49,2:22.45,Bill Sumerfield,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,M,45-49,32.49,Rick Rodriguez,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,M,45-49,32.71,David Hathaway,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,M,45-49,33.42,Brent Washburne,,Oregon Patriot Games,2007,3
+OREG,50 M Backstroke,SCM,M,45-49,36.72,Jim Rabe,,Oregon Patriot Games,2007,4
+OREG,50 M Backstroke,SCM,M,45-49,39.11,Scott Culbertson,,Oregon Patriot Games,2007,5
+OREG,50 M Backstroke,SCM,M,45-49,41.45,Bill Sumerfield,,Oregon Patriot Games,2007,6
+OREG,100 M Backstroke,SCM,M,45-49,1:14.10,Douglas Otto,,Oregon Patriot Games,2007,1
+OREG,100 M Backstroke,SCM,M,45-49,1:14.86,Brent Washburne,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Backstroke,SCM,M,45-49,1:19.19,Lou Boone,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Backstroke,SCM,M,45-49,2:37.55,Rick Rodriguez,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,M,45-49,37.69,Bill Sumerfield,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,M,45-49,37.82,David Hathaway,,Oregon Patriot Games,2007,2
+OREG,50 M Breaststroke,SCM,M,45-49,38.20,Brent Washburne,,Oregon Patriot Games,2007,3
+OREG,50 M Breaststroke,SCM,M,45-49,39.18,Jim Rabe,,Oregon Patriot Games,2007,4
+OREG,50 M Breaststroke,SCM,M,45-49,41.67,Scott Culbertson,,Oregon Patriot Games,2007,5
+OREG,100 M Breaststroke,SCM,M,45-49,1:18.72,Douglas Otto,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,45-49,30.30,Brent Washburne,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,45-49,30.88,Jim Rabe,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Butterfly,SCM,M,45-49,30.90,David Hathaway,,Oregon Patriot Games,2007,3
+OREG,50 M Butterfly,SCM,M,45-49,32.75,Scott Culbertson,,Oregon Patriot Games,2007,4
+OREG,50 M Butterfly,SCM,M,45-49,33.57,Keith Stelzer,,Multnomah Athletic Club Oregon SCM,2007,5
+OREG,50 M Butterfly,SCM,M,45-49,37.54,Bill Sumerfield,,Oregon Patriot Games,2007,6
+OREG,100 M Butterfly,SCM,M,45-49,1:13.48,Douglas Otto,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,45-49,1:09.80,David Hathaway,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,45-49,1:10.20,Brent Washburne,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,M,45-49,1:15.39,Jim Rabe,,Oregon Patriot Games,2007,3
+OREG,100 M Individual Medley,SCM,M,45-49,1:16.14,Lou Boone,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,100 M Individual Medley,SCM,M,45-49,1:17.06,Scott Culbertson,,Oregon Patriot Games,2007,5
+OREG,100 M Individual Medley,SCM,M,45-49,1:19.98,Bill Sumerfield,,Oregon Patriot Games,2007,6
+OREG,200 M Individual Medley,SCM,M,45-49,2:36.51,Douglas Otto,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,50-54,26.28,Mike Tennant,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,50-54,26.43,Wes Edwards,,PNA Bellevue Club,2007,2
+OREG,50 M Freestyle,SCM,M,50-54,28.87,Mike Peyton,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Freestyle,SCM,M,50-54,28.95,Edward Mann,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,50 M Freestyle,SCM,M,50-54,35.58,Stephen Darnell,,Oregon Patriot Games,2007,5
+OREG,100 M Freestyle,SCM,M,50-54,1:00.43,Wes Edwards,,Oregon Patriot Games,2007,1
+OREG,100 M Freestyle,SCM,M,50-54,1:00.52,Mike Tennant,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,M,50-54,1:05.68,Mike Peyton,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Freestyle,SCM,M,50-54,1:07.66,Kermit Yensen,,Oregon Patriot Games,2007,4
+OREG,100 M Freestyle,SCM,M,50-54,1:15.87,Stan R Hardy,,Huntsman Senior Games,2007,5
+OREG,200 M Freestyle,SCM,M,50-54,2:14.38,Stephen Kevan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,50-54,2:26.72,Edward Mann,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Freestyle,SCM,M,50-54,2:29.29,Mike Peyton,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Freestyle,SCM,M,50-54,2:37.84,Kermit Yensen,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,200 M Freestyle,SCM,M,50-54,3:00.29,Stan R Hardy,,Huntsman Senior Games,2007,5
+OREG,800 M Freestyle,SCM,M,50-54,11:00.30,Ed Ramsey,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,M,50-54,12:25.02,Kermit Yensen,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,800 M Freestyle,SCM,M,50-54,14:22.30,David Preston,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Backstroke,SCM,M,50-54,31.57,Wes Edwards,,PNA Bellevue Club,2007,1
+OREG,50 M Backstroke,SCM,M,50-54,38.37,Mike Peyton,,Oregon Patriot Games,2007,2
+OREG,50 M Backstroke,SCM,M,50-54,44.99,Stephen Darnell,,Oregon Patriot Games,2007,3
+OREG,100 M Backstroke,SCM,M,50-54,1:06.41,Wes Edwards,,Oregon Patriot Games,2007,1
+OREG,100 M Backstroke,SCM,M,50-54,1:11.19,Peter Metzger,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Backstroke,SCM,M,50-54,1:25.29,Kermit Yensen,,Oregon Patriot Games,2007,3
+OREG,100 M Backstroke,SCM,M,50-54,1:36.00,Stan R Hardy,,Huntsman Senior Games,2007,4
+OREG,200 M Backstroke,SCM,M,50-54,2:24.93,Wes Edwards,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Backstroke,SCM,M,50-54,2:51.51,Ed Ramsey,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Breaststroke,SCM,M,50-54,38.64,Edward Mann,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,M,50-54,41.16,Mike Peyton,,Oregon Patriot Games,2007,2
+OREG,50 M Breaststroke,SCM,M,50-54,48.70,Stephen Darnell,,Oregon Patriot Games,2007,3
+OREG,100 M Breaststroke,SCM,M,50-54,1:23.89,Wes Edwards,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Breaststroke,SCM,M,50-54,1:36.90,Kermit Yensen,,Oregon Patriot Games,2007,2
+OREG,200 M Breaststroke,SCM,M,50-54,3:10.36,Charles Taylor,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,M,50-54,29.90,Stephen Kevan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Butterfly,SCM,M,50-54,32.71,Mike Peyton,,Oregon Patriot Games,2007,2
+OREG,50 M Butterfly,SCM,M,50-54,43.72,Stephen Darnell,,Oregon Patriot Games,2007,3
+OREG,100 M Butterfly,SCM,M,50-54,1:08.57,Stephen Kevan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Butterfly,SCM,M,50-54,1:21.45,Kermit Yensen,,Oregon Patriot Games,2007,2
+OREG,200 M Butterfly,SCM,M,50-54,3:11.12,Kermit Yensen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Butterfly,SCM,M,50-54,3:39.81,Charles Taylor,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,M,50-54,1:09.75,Stephen Kevan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,M,50-54,1:11.56,Mike Tennant,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,M,50-54,1:16.23,Edward Mann,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Individual Medley,SCM,M,50-54,1:17.32,Mike Peyton,,Oregon Patriot Games,2007,4
+OREG,100 M Individual Medley,SCM,M,50-54,1:35.73,Stephen Darnell,,Oregon Patriot Games,2007,5
+OREG,200 M Individual Medley,SCM,M,50-54,2:35.04,Stephen Kevan,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Individual Medley,SCM,M,50-54,2:57.09,Kermit Yensen,,Oregon Patriot Games,2007,2
+OREG,50 M Freestyle,SCM,M,55-59,29.93,Vern Dasch,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,55-59,30.75,Jed Cronin,,Oregon Patriot Games,2007,2
+OREG,50 M Freestyle,SCM,M,55-59,31.14,Reggie Sherwood,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Freestyle,SCM,M,55-59,1:06.87,Vern Dasch,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,M,55-59,1:07.14,Robert Maestre,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,M,55-59,1:11.05,Reggie Sherwood,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Freestyle,SCM,M,55-59,2:33.47,Vern Dasch,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,55-59,2:35.21,Thomas Macaulay,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Freestyle,SCM,M,55-59,2:36.98,Robert Maestre,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Freestyle,SCM,M,55-59,2:45.98,Reggie Sherwood,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,50 M Backstroke,SCM,M,55-59,39.17,Jed Cronin,,Oregon Patriot Games,2007,1
+OREG,200 M Backstroke,SCM,M,55-59,2:58.04,Robert Maestre,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,M,55-59,33.73,Allen Stark,,SPMA SCM Champs,2007,1
+OREG,50 M Breaststroke,SCM,M,55-59,41.33,Thomas Macaulay,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Breaststroke,SCM,M,55-59,43.00,Reggie Sherwood,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Breaststroke,SCM,M,55-59,46.36,Jed Cronin,,Oregon Patriot Games,2007,4
+OREG,100 M Breaststroke,SCM,M,55-59,1:15.26,Allen Stark,,SPMA SCM Champs,2007,1
+OREG,200 M Breaststroke,SCM,M,55-59,2:46.36,Allen Stark,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,M,55-59,3:21.91,Reggie Sherwood,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Butterfly,SCM,M,55-59,34.35,Jed Cronin,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,55-59,35.96,Robert Maestre,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Butterfly,SCM,M,55-59,3:07.85,Allen Stark,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Individual Medley,SCM,M,55-59,1:15.98,Allen Stark,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,55-59,1:21.72,Thomas Macaulay,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Individual Medley,SCM,M,55-59,1:27.09,Jed Cronin,,Oregon Patriot Games,2007,3
+OREG,200 M Individual Medley,SCM,M,55-59,2:59.36,Thomas Macaulay,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,60-64,28.94,Robert Smith,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,60-64,31.27,Michael Silvey,,Oregon Patriot Games,2007,2
+OREG,50 M Freestyle,SCM,M,60-64,37.67,William Lewis,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Freestyle,SCM,M,60-64,41.39,Richard Juhala,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,100 M Freestyle,SCM,M,60-64,1:10.76,Daniel Rueff,,Oregon Patriot Games,2007,1
+OREG,100 M Freestyle,SCM,M,60-64,1:11.52,Michael Silvey,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,M,60-64,1:28.42,William Lewis,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Freestyle,SCM,M,60-64,1:30.06,William Smith,,Oregon Patriot Games,2007,4
+OREG,100 M Freestyle,SCM,M,60-64,1:38.09,Richard Juhala,,Oregon Patriot Games,2007,5
+OREG,800 M Freestyle,SCM,M,60-64,14:12.03,William Smith,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,M,60-64,15:33.83,Richard H Juhala,,Huntsman Senior Games,2007,2
+OREG,1500 M Freestyle,SCM,M,60-64,31:26.17,Richard H Juhala,,Huntsman Senior Games,2007,1
+OREG,50 M Backstroke,SCM,M,60-64,34.43,Robert Smith,,Oregon Patriot Games,2007,1
+OREG,50 M Backstroke,SCM,M,60-64,41.96,Michael Silvey,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,M,60-64,51.98,Richard Juhala,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,50 M Backstroke,SCM,M,60-64,59.10,William Smith,,Multnomah Athletic Club Oregon SCM,2007,4
+OREG,100 M Backstroke,SCM,M,60-64,1:30.28,Daniel Rueff,,Oregon Patriot Games,2007,1
+OREG,100 M Backstroke,SCM,M,60-64,1:50.99,Richard Juhala,,Oregon Patriot Games,2007,2
+OREG,100 M Backstroke,SCM,M,60-64,2:07.69,William Smith,,Oregon Patriot Games,2007,3
+OREG,200 M Backstroke,SCM,M,60-64,3:58.84,Richard H Juhala,,Huntsman Senior Games,2007,1
+OREG,50 M Breaststroke,SCM,M,60-64,39.05,John Weinbrecht,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,M,60-64,40.22,Robert Smith,,Oregon Patriot Games,2007,2
+OREG,50 M Breaststroke,SCM,M,60-64,45.70,Richard H Juhala,,Huntsman Senior Games,2007,3
+OREG,50 M Breaststroke,SCM,M,60-64,49.18,Michael Silvey,,Oregon Patriot Games,2007,4
+OREG,100 M Breaststroke,SCM,M,60-64,1:38.05,Daniel Rueff,,Oregon Patriot Games,2007,1
+OREG,100 M Breaststroke,SCM,M,60-64,1:44.01,Richard H Juhala,,Huntsman Senior Games,2007,2
+OREG,100 M Breaststroke,SCM,M,60-64,1:51.27,William Smith,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Breaststroke,SCM,M,60-64,3:07.55,John Weinbrecht,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,M,60-64,3:58.32,Richard H Juhala,,Huntsman Senior Games,2007,2
+OREG,50 M Butterfly,SCM,M,60-64,33.23,Robert Smith,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,60-64,35.49,Michael Silvey,,Oregon Patriot Games,2007,2
+OREG,50 M Butterfly,SCM,M,60-64,46.84,Richard Juhala,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Butterfly,SCM,M,60-64,1:25.02,Daniel Rueff,,Oregon Patriot Games,2007,1
+OREG,100 M Butterfly,SCM,M,60-64,1:49.66,Richard Juhala,,Oregon Patriot Games,2007,2
+OREG,100 M Butterfly,SCM,M,60-64,1:54.27,William Smith,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,200 M Butterfly,SCM,M,60-64,4:13.81,Richard H Juhala,,Huntsman Senior Games,2007,1
+OREG,100 M Individual Medley,SCM,M,60-64,1:26.43,Michael Silvey,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,60-64,1:45.07,Richard H Juhala,,Huntsman Senior Games,2007,2
+OREG,200 M Individual Medley,SCM,M,60-64,3:04.20,Daniel Rueff,,Oregon Patriot Games,2007,1
+OREG,200 M Individual Medley,SCM,M,60-64,3:52.03,Richard Juhala,,Oregon Patriot Games,2007,2
+OREG,200 M Individual Medley,SCM,M,60-64,4:00.92,William Smith,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,400 M Individual Medley,SCM,M,60-64,8:25.85,Richard H Juhala,,Huntsman Senior Games,2007,1
+OREG,50 M Freestyle,SCM,M,65-69,29.29,Tom Landis,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,M,65-69,1:02.12,Tom Landis,,PNA Bellevue Club,2007,1
+OREG,200 M Freestyle,SCM,M,65-69,2:22.15,Tom Landis,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,400 M Freestyle,SCM,M,65-69,4:55.56,Tom Landis,,PNA Bellevue Club,2007,1
+OREG,1500 M Freestyle,SCM,M,65-69,19:32.78,Tom Landis,,PNA Bellevue Club,2007,1
+OREG,50 M Butterfly,SCM,M,65-69,31.68,Bert Petersen,,Oregon Patriot Games,2007,1
+OREG,200 M Individual Medley,SCM,M,65-69,2:57.40,Tom Landis,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,70-74,31.96,David Radcliff,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,70-74,33.07,George Thayer,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,100 M Freestyle,SCM,M,70-74,1:25.04,Bill King,,PNA Bellevue Club,2007,1
+OREG,200 M Freestyle,SCM,M,70-74,2:30.45,David Radcliff,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,70-74,3:09.30,Bill King,,Huntsman Senior Games,2007,2
+OREG,400 M Freestyle,SCM,M,70-74,5:18.28,David A Radcliff,,PNA Bellevue Club,2007,1
+OREG,800 M Freestyle,SCM,M,70-74,11:01.38,David Radcliff,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,800 M Freestyle,SCM,M,70-74,14:37.37,Bill King,,Huntsman Senior Games,2007,2
+OREG,1500 M Freestyle,SCM,M,70-74,21:24.18,David A Radcliff,,PNA Bellevue Club,2007,1
+OREG,1500 M Freestyle,SCM,M,70-74,27:41.62,Bill King,,Oak Harbor Pentathlon North Whidbey Masters,2007,2
+OREG,50 M Backstroke,SCM,M,70-74,40.54,George Thayer,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,M,70-74,43.65,David Radcliff,,Oregon Patriot Games,2007,2
+OREG,100 M Backstroke,SCM,M,70-74,1:31.54,George D Thayer,,PNA Bellevue Club,2007,1
+OREG,200 M Backstroke,SCM,M,70-74,3:22.92,George D Thayer,,PNA Bellevue Club,2007,1
+OREG,50 M Breaststroke,SCM,M,70-74,44.12,David Radcliff,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,M,70-74,47.33,George Thayer,,Oregon Patriot Games,2007,2
+OREG,50 M Butterfly,SCM,M,70-74,37.20,David Radcliff,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,70-74,49.49,George Thayer,,Oregon Patriot Games,2007,2
+OREG,100 M Individual Medley,SCM,M,70-74,1:41.65,George Thayer,,Oregon Patriot Games,2007,1
+OREG,50 M Freestyle,SCM,M,75-79,36.59,Milton Marks,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,75-79,43.12,Alan Lertzman,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,M,75-79,46.04,Milton Marks,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,M,75-79,46.61,Milton Marks,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Breaststroke,SCM,M,75-79,3:58.08,Milton Marks,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,80-84,58.23,Clark Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Freestyle,SCM,M,80-84,2:20.58,Clark Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,80-84,5:13.53,Clark Austen,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,85-89,36.51,Willard Lamb,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Freestyle,SCM,M,85-89,45.23,Gilbert Young,,Oregon Patriot Games,2007,2
+OREG,100 M Freestyle,SCM,M,85-89,1:25.28,Willard Lamb,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,85-89,3:12.85,Willard Lamb,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,200 M Freestyle,SCM,M,85-89,5:18.02,Charles Bushey,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,800 M Freestyle,SCM,M,85-89,22:19.80,Charles Bushey,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,M,85-89,49.65,Willard Lamb,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Backstroke,SCM,M,85-89,1:00.18,Gilbert Young,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,50 M Backstroke,SCM,M,85-89,1:20.11,Charles Bushey,,Multnomah Athletic Club Oregon SCM,2007,3
+OREG,100 M Backstroke,SCM,M,85-89,1:57.99,Willard Lamb,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,100 M Backstroke,SCM,M,85-89,2:54.99,Charles Bushey,,Multnomah Athletic Club Oregon SCM,2007,2
+OREG,200 M Backstroke,SCM,M,85-89,5:07.35,Gilbert Young,,Multnomah Athletic Club Oregon SCM,2007,1
+OREG,50 M Breaststroke,SCM,M,85-89,1:03.98,Gilbert Young,,Oregon Patriot Games,2007,1
+OREG,50 M Breaststroke,SCM,M,85-89,1:04.10,Willard Lamb,,Oregon Patriot Games,2007,2
+OREG,100 M Breaststroke,SCM,M,85-89,2:41.67,Gilbert Young,,Oregon Patriot Games,2007,1
+OREG,50 M Butterfly,SCM,M,85-89,1:14.61,Willard Lamb,,Oregon Patriot Games,2007,1
+OREG,100 M Individual Medley,SCM,M,85-89,2:10.99,Willard Lamb,,Oregon Patriot Games,2007,1
+UNAT,50 M Freestyle,SCM,M,40-44,26.36,Eric Wan,,Oregon Patriot Games,2007,1
+UNAT,50 M Backstroke,SCM,M,40-44,34.49,Eric Wan,,Oregon Patriot Games,2007,1
+UNAT,50 M Breaststroke,SCM,M,40-44,37.22,Eric Wan,,Oregon Patriot Games,2007,1
+UNAT,50 M Butterfly,SCM,M,40-44,31.28,Eric Wan,,Oregon Patriot Games,2007,1
+UNAT,100 M Individual Medley,SCM,M,40-44,1:09.08,Eric Wan,,Oregon Patriot Games,2007,1

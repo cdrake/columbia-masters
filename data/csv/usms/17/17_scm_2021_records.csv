@@ -1,0 +1,99 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ANBM,50 M Freestyle,SCM,W,55-59,33.48,Heidi I Wiedamann,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+ANBM,100 M Freestyle,SCM,W,55-59,1:18.42,Heidi I Wiedamann,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+ANBM,50 M Backstroke,SCM,W,55-59,41.14,Heidi I Wiedamann,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+ANBM,100 M Backstroke,SCM,W,55-59,1:30.11,Heidi I Wiedamann,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+ANBM,200 M Backstroke,SCM,W,55-59,3:21.06,Heidi I Wiedamann,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+ANBM,50 M Breaststroke,SCM,W,55-59,45.21,Heidi I Wiedamann,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+ANBM,100 M Individual Medley,SCM,W,55-59,1:37.46,Heidi I Wiedamann,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+ANBM,50 M Freestyle,SCM,M,50-54,33.10,William C Fleece,,Last Chance Masters Meet at the IU Natatorium,2021,1
+ANBM,100 M Freestyle,SCM,M,50-54,1:19.96,William C Fleece,,Last Chance Masters Meet at the IU Natatorium,2021,1
+ANBM,200 M Freestyle,SCM,M,50-54,3:05.97,William C Fleece,,Last Chance Masters Meet at the IU Natatorium,2021,1
+ANBM,50 M Butterfly,SCM,M,50-54,38.26,William C Fleece,,Last Chance Masters Meet at the IU Natatorium,2021,1
+ANBM,100 M Individual Medley,SCM,M,50-54,1:30.05,William C Fleece,,Last Chance Masters Meet at the IU Natatorium,2021,1
+CSMT,50 M Freestyle,SCM,W,30-34,28.39,Ella M Meier,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,100 M Freestyle,SCM,W,30-34,1:01.71,Ella M Meier,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,50 M Butterfly,SCM,W,30-34,31.20,Ella M Meier,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,100 M Individual Medley,SCM,W,30-34,1:10.57,Ella M Meier,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,50 M Freestyle,SCM,M,35-39,22.94,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,100 M Freestyle,SCM,M,35-39,49.27,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,200 M Freestyle,SCM,M,35-39,1:52.22,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,100 M Backstroke,SCM,M,35-39,57.71,Adam J Ritter,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,50 M Breaststroke,SCM,M,35-39,28.55,Adam J Ritter,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,100 M Breaststroke,SCM,M,35-39,1:00.21,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,200 M Breaststroke,SCM,M,35-39,2:20.00,Adam J Ritter,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,50 M Butterfly,SCM,M,35-39,24.39,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,100 M Butterfly,SCM,M,35-39,54.73,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,100 M Individual Medley,SCM,M,35-39,55.16,Adam J Ritter,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+CSMT,200 M Individual Medley,SCM,M,35-39,2:08.21,Adam J Ritter,,2021 Chris Jackson Memorial SCM Meet,2021,1
+CSMT,50 M Freestyle,SCM,M,65-69,28.39,James H Ritter,,The Louisville Invitational,2021,1
+CSMT,100 M Freestyle,SCM,M,65-69,1:00.82,James H Ritter,,The Louisville Invitational,2021,1
+CSMT,200 M Freestyle,SCM,M,65-69,2:17.16,James H Ritter,,2021 Milford Monster Madness SCM Meet,2021,1
+CSMT,400 M Freestyle,SCM,M,65-69,4:58.14,James H Ritter,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+CSMT,800 M Freestyle,SCM,M,65-69,10:11.05,James H Ritter,,2021 Milford Monster Madness SCM Meet,2021,1
+CSMT,1500 M Freestyle,SCM,M,65-69,19:09.50,James H Ritter,,2021 Milford Monster Madness SCM Meet,2021,1
+CSMT,200 M Backstroke,SCM,M,65-69,2:35.40,James H Ritter,,2021 Milford Monster Madness SCM Meet,2021,1
+CSMT,50 M Butterfly,SCM,M,65-69,31.63,James H Ritter,,The Louisville Invitational,2021,1
+CSMT,200 M Butterfly,SCM,M,65-69,2:46.29,James H Ritter,,2021 Milford Monster Madness SCM Meet,2021,1
+CSMT,100 M Individual Medley,SCM,M,65-69,1:12.67,James H Ritter,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+CSMT,200 M Individual Medley,SCM,M,65-69,2:42.90,James H Ritter,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+CSMT,400 M Individual Medley,SCM,M,65-69,5:38.97,James H Ritter,,The Louisville Invitational,2021,1
+NAM,50 M Freestyle,SCM,M,60-64,27.80,Michael T Bergman,,The Louisville Invitational,2021,1
+NAM,100 M Freestyle,SCM,M,60-64,1:03.50,Michael T Bergman,,The Louisville Invitational,2021,1
+NAM,400 M Freestyle,SCM,M,60-64,4:55.33,Jim Callahan,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+NAM,800 M Freestyle,SCM,M,60-64,10:11.63,Jim Callahan,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1
+NAM,100 M Breaststroke,SCM,M,60-64,1:17.81,Jeff G Naylor,,2021 NE-LMSC &amp; Colonies Zone SCM Championships,2021,1
+NAM,200 M Breaststroke,SCM,M,60-64,2:51.65,Jeff G Naylor,,2021 NE-LMSC &amp; Colonies Zone SCM Championships,2021,1
+NAM,50 M Butterfly,SCM,M,60-64,31.56,Michael T Bergman,,The Louisville Invitational,2021,1
+NAM,100 M Individual Medley,SCM,M,60-64,1:11.38,Jeff G Naylor,,2021 NE-LMSC &amp; Colonies Zone SCM Championships,2021,1
+NAM,100 M Individual Medley,SCM,M,60-64,1:11.85,Jim Callahan,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,2
+NAM,100 M Individual Medley,SCM,M,60-64,1:15.22,Michael T Bergman,,The Louisville Invitational,2021,3
+NAM,200 M Individual Medley,SCM,M,60-64,2:35.85,Jeff G Naylor,,2021 NE-LMSC &amp; Colonies Zone SCM Championships,2021,1
+NAM,400 M Individual Medley,SCM,M,60-64,5:31.28,Jeff G Naylor,,2021 NE-LMSC &amp; Colonies Zone SCM Championships,2021,1
+NAM,400 M Individual Medley,SCM,M,60-64,5:43.05,Jim Callahan,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,2
+NAT,50 M Freestyle,SCM,W,65-69,1:57.70,Cynthia Braden,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+NAT,100 M Freestyle,SCM,W,65-69,4:09.79,Cynthia Braden,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+NAT,200 M Freestyle,SCM,W,65-69,8:46.94,Cynthia Braden,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+NAT,50 M Backstroke,SCM,W,65-69,1:56.39,Cynthia Braden,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+NAT,100 M Backstroke,SCM,W,65-69,4:13.33,Cynthia Braden,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+NAT,200 M Backstroke,SCM,W,65-69,9:00.26,Cynthia Braden,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+PCY,50 M Backstroke,SCM,W,25-29,35.71,Caitlin Gagnon,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,100 M Backstroke,SCM,W,25-29,1:19.20,Caitlin Gagnon,,The Louisville Invitational,2021,1
+PCY,200 M Backstroke,SCM,W,25-29,2:49.04,Caitlin Gagnon,,The Louisville Invitational,2021,1
+PCY,50 M Butterfly,SCM,W,25-29,34.70,Caitlin Gagnon,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,200 M Butterfly,SCM,W,25-29,2:59.93,Caitlin Gagnon,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,100 M Individual Medley,SCM,W,25-29,1:19.60,Caitlin Gagnon,,The Louisville Invitational,2021,1
+PCY,50 M Freestyle,SCM,M,30-34,25.32,Zachary R Fischer,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,50 M Backstroke,SCM,M,30-34,28.31,Zachary R Fischer,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,100 M Backstroke,SCM,M,30-34,1:05.42,Zachary R Fischer,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,50 M Freestyle,SCM,M,65-69,46.37,David Tanner,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,100 M Freestyle,SCM,M,65-69,1:53.52,David Tanner,,Last Chance Masters Meet at the IU Natatorium,2021,1
+PCY,1500 M Freestyle,SCM,M,65-69,23:36.90,Neil R Wasserman,,The Louisville Invitational,2021,1
+PCY,200 M Backstroke,SCM,M,65-69,2:51.89,Neil R Wasserman,,The Louisville Invitational,2021,1
+PCY,200 M Breaststroke,SCM,M,65-69,3:07.32,Neil R Wasserman,,The Louisville Invitational,2021,1
+PCY,400 M Individual Medley,SCM,M,65-69,5:52.24,Neil R Wasserman,,The Louisville Invitational,2021,1
+UC17,100 M Freestyle,SCM,W,18-24,1:08.24,Rhiannon F Reese,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,200 M Freestyle,SCM,W,18-24,2:37.71,Rhiannon F Reese,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,400 M Freestyle,SCM,W,18-24,5:20.76,Rhiannon F Reese,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,100 M Backstroke,SCM,W,18-24,1:20.17,Rhiannon F Reese,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,200 M Breaststroke,SCM,W,18-24,3:07.19,Rhiannon F Reese,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,100 M Butterfly,SCM,W,18-24,1:19.34,Rhiannon F Reese,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,200 M Freestyle,SCM,W,40-44,2:56.00,Masako Hashimoto,,Last Chance Masters Meet at the IU Natatorium,2021,1
+UC17,100 M Backstroke,SCM,W,40-44,1:32.81,Masako Hashimoto,,Last Chance Masters Meet at the IU Natatorium,2021,1
+UC17,200 M Backstroke,SCM,W,40-44,3:17.06,Masako Hashimoto,,Last Chance Masters Meet at the IU Natatorium,2021,1
+UC17,50 M Freestyle,SCM,W,70-74,42.45,June E Wagner,,Last Chance Masters Meet at the IU Natatorium,2021,1
+UC17,50 M Breaststroke,SCM,W,70-74,52.74,June E Wagner,,The Louisville Invitational,2021,1
+UC17,100 M Breaststroke,SCM,W,70-74,2:02.36,June E Wagner,,The Louisville Invitational,2021,1
+UC17,200 M Breaststroke,SCM,W,70-74,4:28.29,June E Wagner,,The Louisville Invitational,2021,1
+UC17,100 M Individual Medley,SCM,W,70-74,1:55.47,June E Wagner,,Last Chance Masters Meet at the IU Natatorium,2021,1
+UC17,50 M Freestyle,SCM,M,45-49,31.14,Brad Fahrenkamp,,The Louisville Invitational,2021,1
+UC17,50 M Backstroke,SCM,M,45-49,35.91,Brad Fahrenkamp,,The Louisville Invitational,2021,1
+UC17,100 M Backstroke,SCM,M,45-49,1:27.27,Brad Fahrenkamp,,The Louisville Invitational,2021,1
+UC17,50 M Freestyle,SCM,M,55-59,33.87,Michael Klingler,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,100 M Freestyle,SCM,M,55-59,1:16.98,Michael Klingler,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,200 M Freestyle,SCM,M,55-59,2:52.28,Michael Klingler,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,400 M Freestyle,SCM,M,55-59,6:02.11,Michael Klingler,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,50 M Breaststroke,SCM,M,65-69,53.84,Brian V Jarvis,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,100 M Breaststroke,SCM,M,65-69,2:09.10,Brian V Jarvis,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,200 M Breaststroke,SCM,M,65-69,4:55.66,Brian V Jarvis,,2021 OHIO Masters SCM Swim Meet - Hudson,2021,1
+UC17,50 M Freestyle,SCM,M,70-74,42.51,Peter G Dorff,,Rowdy Gaines Masters Classic 13 (Version 2.0),2021,1

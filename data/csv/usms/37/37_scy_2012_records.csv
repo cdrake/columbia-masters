@@ -1,0 +1,814 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+DUCK,50 Y Freestyle,SCY,W,18-24,26.53,Taylor A Kay,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Freestyle,SCY,W,18-24,26.69,Kelsey L Stewart,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,50 Y Freestyle,SCY,W,18-24,26.74,Tess Krimmer,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,50 Y Freestyle,SCY,W,18-24,29.28,Carolyn Watling,,Chehalem SCY Meet,2012,4
+DUCK,50 Y Freestyle,SCY,W,18-24,30.16,Lauren E Hoffman,,2012 U.S. Masters Swimming Spring National Championship,2012,5
+DUCK,50 Y Freestyle,SCY,W,18-24,30.27,Allison M Schierholtz,,Chehalem SCY Meet,2012,6
+DUCK,50 Y Freestyle,SCY,W,18-24,31.92,Shannon M Mohr,,Tualatin Hills Pentathlon,2012,7
+DUCK,50 Y Freestyle,SCY,W,18-24,32.06,Samantha A Lent,,Chehalem SCY Meet,2012,8
+DUCK,50 Y Freestyle,SCY,W,18-24,35.61,Claire S Mitchell,,Tualatin Hills Pentathlon,2012,9
+DUCK,100 Y Freestyle,SCY,W,18-24,57.31,Karissa DeRousseau,,Tualatin Hills Pentathlon,2012,1
+DUCK,100 Y Freestyle,SCY,W,18-24,58.55,Tess Krimmer,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,100 Y Freestyle,SCY,W,18-24,59.07,Kelsey L Stewart,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,100 Y Freestyle,SCY,W,18-24,59.28,Taylor A Kay,,2012 U.S. Masters Swimming Spring National Championship,2012,4
+DUCK,100 Y Freestyle,SCY,W,18-24,1:04.04,Carolyn Watling,,Chehalem SCY Meet,2012,5
+DUCK,100 Y Freestyle,SCY,W,18-24,1:06.26,Allison M Schierholtz,,Chehalem SCY Meet,2012,6
+DUCK,100 Y Freestyle,SCY,W,18-24,1:10.79,Gabriella E Rubino,,Tualatin Hills Pentathlon,2012,7
+DUCK,100 Y Freestyle,SCY,W,18-24,1:16.31,Shannon M Mohr,,Chehalem SCY Meet,2012,8
+DUCK,200 Y Freestyle,SCY,W,18-24,2:08.46,Karissa DeRousseau,,Chehalem SCY Meet,2012,1
+DUCK,200 Y Freestyle,SCY,W,18-24,2:18.02,Carolyn Watling,,Canby Animal Meet,2012,2
+DUCK,200 Y Freestyle,SCY,W,18-24,2:30.07,Gabriella E Rubino,,Canby Animal Meet,2012,3
+DUCK,200 Y Freestyle,SCY,W,18-24,3:02.27,Laura J Bainbridge,,Canby Animal Meet,2012,4
+DUCK,500 Y Freestyle,SCY,W,18-24,5:27.77,Karissa DeRousseau,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,500 Y Freestyle,SCY,W,18-24,6:03.14,Carolyn Watling,,Canby Animal Meet,2012,2
+DUCK,500 Y Freestyle,SCY,W,18-24,6:03.38,Taylor A Kay,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,500 Y Freestyle,SCY,W,18-24,6:19.80,Tess Krimmer,,Canby Animal Meet,2012,4
+DUCK,500 Y Freestyle,SCY,W,18-24,6:34.07,Kaitlyn M Abdie,,Canby Animal Meet,2012,5
+DUCK,1650 Y Freestyle,SCY,W,18-24,21:13.95,Kaitlyn M Abdie,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Backstroke,SCY,W,18-24,30.54,Karissa DeRousseau,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Backstroke,SCY,W,18-24,32.13,Kelsey L Stewart,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,100 Y Backstroke,SCY,W,18-24,1:02.98,Karissa DeRousseau,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Backstroke,SCY,W,18-24,1:08.90,Kelsey L Stewart,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,100 Y Backstroke,SCY,W,18-24,1:12.60,Taylor A Kay,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,100 Y Backstroke,SCY,W,18-24,1:14.25,Ariana A Sturr,,Chehalem SCY Meet,2012,4
+DUCK,100 Y Backstroke,SCY,W,18-24,1:15.11,Tia L Berg,,Tualatin Hills Pentathlon,2012,5
+DUCK,200 Y Backstroke,SCY,W,18-24,2:16.04,Karissa DeRousseau,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Breaststroke,SCY,W,18-24,36.71,Kaitlyn M Abdie,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Breaststroke,SCY,W,18-24,38.37,Taylor A Kay,,Tualatin Hills Pentathlon,2012,2
+DUCK,50 Y Breaststroke,SCY,W,18-24,39.46,Lauren E Hoffman,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,50 Y Breaststroke,SCY,W,18-24,39.59,Samantha A Lent,,Chehalem SCY Meet,2012,4
+DUCK,50 Y Breaststroke,SCY,W,18-24,40.63,Gabriella E Rubino,,Tualatin Hills Pentathlon,2012,5
+DUCK,100 Y Breaststroke,SCY,W,18-24,1:19.29,Kaitlyn M Abdie,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Breaststroke,SCY,W,18-24,1:20.16,Tess Krimmer,,Tualatin Hills Pentathlon,2012,2
+DUCK,100 Y Breaststroke,SCY,W,18-24,1:21.59,Ariana A Sturr,,Chehalem SCY Meet,2012,3
+DUCK,100 Y Breaststroke,SCY,W,18-24,1:27.35,Tia L Berg,,Tualatin Hills Pentathlon,2012,4
+DUCK,100 Y Breaststroke,SCY,W,18-24,1:28.58,Lauren E Hoffman,,Tualatin Hills Pentathlon,2012,5
+DUCK,200 Y Breaststroke,SCY,W,18-24,2:46.74,Kaitlyn M Abdie,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,200 Y Breaststroke,SCY,W,18-24,3:07.01,Lauren E Hoffman,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,50 Y Butterfly,SCY,W,18-24,29.70,Kelsey L Stewart,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Butterfly,SCY,W,18-24,29.93,Taylor A Kay,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,50 Y Butterfly,SCY,W,18-24,30.03,Karissa DeRousseau,,Tualatin Hills Pentathlon,2012,3
+DUCK,50 Y Butterfly,SCY,W,18-24,32.12,Tess Krimmer,,Canby Animal Meet,2012,4
+DUCK,50 Y Butterfly,SCY,W,18-24,32.57,Tia L Berg,,Tualatin Hills Pentathlon,2012,5
+DUCK,50 Y Butterfly,SCY,W,18-24,33.74,Gabriella E Rubino,,Canby Animal Meet,2012,6
+DUCK,50 Y Butterfly,SCY,W,18-24,34.35,Allison M Schierholtz,,Chehalem SCY Meet,2012,7
+DUCK,100 Y Butterfly,SCY,W,18-24,1:14.36,Kaitlyn M Abdie,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:05.44,Karissa DeRousseau,,Chehalem SCY Meet,2012,1
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:11.64,Kelsey L Stewart,,Canby Animal Meet,2012,2
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:12.67,Taylor A Kay,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:13.55,Tia L Berg,,Canby Animal Meet,2012,4
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:19.28,Allison M Schierholtz,,Canby Animal Meet,2012,5
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:22.07,Lauren E Hoffman,,Tualatin Hills Pentathlon,2012,6
+DUCK,100 Y Individual Medley,SCY,W,18-24,1:28.73,Laura J Bainbridge,,Canby Animal Meet,2012,7
+DUCK,200 Y Individual Medley,SCY,W,18-24,2:15.66,Karissa DeRousseau,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,200 Y Individual Medley,SCY,W,18-24,2:42.94,Kaitlyn M Abdie,,Canby Animal Meet,2012,2
+DUCK,400 Y Individual Medley,SCY,W,18-24,4:47.06,Karissa DeRousseau,,Tualatin Hills Pentathlon,2012,1
+DUCK,50 Y Freestyle,SCY,M,18-24,23.09,Kevin R Rhodes,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Freestyle,SCY,M,18-24,23.39,Christopher L Kunz,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,50 Y Freestyle,SCY,M,18-24,23.39,Justin Burr,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,50 Y Freestyle,SCY,M,18-24,23.54,Zach T Sipiora,,2012 U.S. Masters Swimming Spring National Championship,2012,4
+DUCK,50 Y Freestyle,SCY,M,18-24,23.72,Ross C Priewe,,2012 U.S. Masters Swimming Spring National Championship,2012,5
+DUCK,50 Y Freestyle,SCY,M,18-24,24.32,Adam J Oldenkamp,,Tualatin Hills Pentathlon,2012,6
+DUCK,50 Y Freestyle,SCY,M,18-24,24.72,Justin C Becherer,,Tualatin Hills Pentathlon,2012,7
+DUCK,50 Y Freestyle,SCY,M,18-24,26.46,Benjamin B Boudreau,,Chehalem SCY Meet,2012,8
+DUCK,50 Y Freestyle,SCY,M,18-24,30.92,Kevin Brand,,Chehalem SCY Meet,2012,9
+DUCK,100 Y Freestyle,SCY,M,18-24,51.38,Justin Burr,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Freestyle,SCY,M,18-24,51.45,Ross C Priewe,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,100 Y Freestyle,SCY,M,18-24,54.42,Shawn S Hui,,Chehalem SCY Meet,2012,3
+DUCK,100 Y Freestyle,SCY,M,18-24,56.44,Duncan R Sutherland,,Chehalem SCY Meet,2012,4
+DUCK,100 Y Freestyle,SCY,M,18-24,59.04,Benjamin B Boudreau,,Chehalem SCY Meet,2012,5
+DUCK,100 Y Freestyle,SCY,M,18-24,59.40,Receld R Delos Reyes,,Tualatin Hills Pentathlon,2012,6
+DUCK,100 Y Freestyle,SCY,M,18-24,1:03.34,Graham E Bryan,,Chehalem SCY Meet,2012,7
+DUCK,200 Y Freestyle,SCY,M,18-24,1:57.53,Justin Burr,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,200 Y Freestyle,SCY,M,18-24,2:02.04,Christopher L Kunz,,Canby Animal Meet,2012,2
+DUCK,200 Y Freestyle,SCY,M,18-24,2:05.18,Andrew Naugle,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+DUCK,200 Y Freestyle,SCY,M,18-24,2:06.87,Shawn S Hui,,Canby Animal Meet,2012,4
+DUCK,200 Y Freestyle,SCY,M,18-24,2:09.76,Duncan R Sutherland,,Canby Animal Meet,2012,5
+DUCK,200 Y Freestyle,SCY,M,18-24,2:19.69,Benjamin B Boudreau,,Canby Animal Meet,2012,6
+DUCK,500 Y Freestyle,SCY,M,18-24,5:34.44,Andrew Naugle,,Canby Animal Meet,2012,1
+DUCK,500 Y Freestyle,SCY,M,18-24,5:38.26,Kevin R Rhodes,,Canby Animal Meet,2012,2
+DUCK,500 Y Freestyle,SCY,M,18-24,6:09.16,Jeffrey H Tsoi,,Chehalem SCY Meet,2012,3
+DUCK,1000 Y Freestyle,SCY,M,18-24,11:37.08,Kevin R Rhodes,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Backstroke,SCY,M,18-24,28.65,Justin C Becherer,,Tualatin Hills Pentathlon,2012,1
+DUCK,50 Y Backstroke,SCY,M,18-24,34.25,Chris A Brooklier,,Tualatin Hills Pentathlon,2012,2
+DUCK,50 Y Backstroke,SCY,M,18-24,34.89,Graham E Bryan,,Chehalem SCY Meet,2012,3
+DUCK,100 Y Backstroke,SCY,M,18-24,1:02.53,Ross C Priewe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Backstroke,SCY,M,18-24,1:06.98,Shawn S Hui,,Chehalem SCY Meet,2012,2
+DUCK,100 Y Backstroke,SCY,M,18-24,1:10.94,Duncan R Sutherland,,Chehalem SCY Meet,2012,3
+DUCK,100 Y Backstroke,SCY,M,18-24,1:19.26,Chris A Brooklier,,Tualatin Hills Pentathlon,2012,4
+DUCK,200 Y Backstroke,SCY,M,18-24,3:11.61,Chris A Brooklier,,Chehalem SCY Meet,2012,1
+DUCK,50 Y Breaststroke,SCY,M,18-24,32.71,Zach T Sipiora,,Tualatin Hills Pentathlon,2012,1
+DUCK,50 Y Breaststroke,SCY,M,18-24,34.25,Jeffrey H Tsoi,,Chehalem SCY Meet,2012,2
+DUCK,50 Y Breaststroke,SCY,M,18-24,35.01,Kevin Brand,,Tualatin Hills Pentathlon,2012,3
+DUCK,100 Y Breaststroke,SCY,M,18-24,1:09.74,Kevin R Rhodes,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Breaststroke,SCY,M,18-24,1:13.94,Zach T Sipiora,,Tualatin Hills Pentathlon,2012,2
+DUCK,100 Y Breaststroke,SCY,M,18-24,1:23.80,Kevin Brand,,Tualatin Hills Pentathlon,2012,3
+DUCK,200 Y Breaststroke,SCY,M,18-24,2:33.04,Kevin R Rhodes,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,200 Y Breaststroke,SCY,M,18-24,3:16.71,Kevin Brand,,Tualatin Hills Pentathlon,2012,2
+DUCK,50 Y Butterfly,SCY,M,18-24,25.37,Ross C Priewe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,50 Y Butterfly,SCY,M,18-24,25.45,Andrew Naugle,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,50 Y Butterfly,SCY,M,18-24,25.83,Shawn S Hui,,Canby Animal Meet,2012,3
+DUCK,50 Y Butterfly,SCY,M,18-24,26.24,Adam J Oldenkamp,,Tualatin Hills Pentathlon,2012,4
+DUCK,50 Y Butterfly,SCY,M,18-24,26.45,Christopher L Kunz,,2012 U.S. Masters Swimming Spring National Championship,2012,5
+DUCK,50 Y Butterfly,SCY,M,18-24,26.85,Justin Burr,,Canby Animal Meet,2012,6
+DUCK,50 Y Butterfly,SCY,M,18-24,27.18,Zach T Sipiora,,Canby Animal Meet,2012,7
+DUCK,50 Y Butterfly,SCY,M,18-24,27.30,Justin C Becherer,,Tualatin Hills Pentathlon,2012,8
+DUCK,50 Y Butterfly,SCY,M,18-24,29.09,Graham Intlekofer,,Canby Animal Meet,2012,9
+DUCK,50 Y Butterfly,SCY,M,18-24,29.41,Benjamin B Boudreau,,Canby Animal Meet,2012,10
+DUCK,50 Y Butterfly,SCY,M,18-24,31.51,Duncan R Sutherland,,Canby Animal Meet,2012,11
+DUCK,50 Y Butterfly,SCY,M,18-24,33.30,Kevin Brand,,Tualatin Hills Pentathlon,2012,12
+DUCK,100 Y Butterfly,SCY,M,18-24,57.25,Andrew Naugle,,Canby Animal Meet,2012,1
+DUCK,100 Y Butterfly,SCY,M,18-24,58.07,Ross C Priewe,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+DUCK,100 Y Butterfly,SCY,M,18-24,59.11,Shawn S Hui,,Chehalem SCY Meet,2012,3
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:00.33,Andrew Naugle,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:00.56,Ross C Priewe,,Tualatin Hills Pentathlon,2012,2
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:01.31,Christopher L Kunz,,Canby Animal Meet,2012,3
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:01.46,Justin Burr,,2012 U.S. Masters Swimming Spring National Championship,2012,4
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:01.93,Zach T Sipiora,,2012 U.S. Masters Swimming Spring National Championship,2012,5
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:03.53,Kevin R Rhodes,,Canby Animal Meet,2012,6
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:06.02,Duncan R Sutherland,,Canby Animal Meet,2012,7
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:08.11,Jeffrey H Tsoi,,Chehalem SCY Meet,2012,8
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:10.04,Graham Intlekofer,,Canby Animal Meet,2012,9
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:10.48,Benjamin B Boudreau,,Canby Animal Meet,2012,10
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:19.76,Kevin Brand,,Tualatin Hills Pentathlon,2012,11
+DUCK,100 Y Individual Medley,SCY,M,18-24,1:29.16,Chris A Brooklier,,Chehalem SCY Meet,2012,12
+DUCK,200 Y Individual Medley,SCY,M,18-24,2:12.04,Andrew Naugle,,Canby Animal Meet,2012,1
+DUCK,50 Y Freestyle,SCY,M,45-49,24.95,Douglas A Christensen,,Tualatin Hills Pentathlon,2012,1
+DUCK,50 Y Backstroke,SCY,M,45-49,29.52,Douglas A Christensen,,Tualatin Hills Pentathlon,2012,1
+DUCK,50 Y Breaststroke,SCY,M,45-49,31.19,Douglas A Christensen,,Tualatin Hills Pentathlon,2012,1
+DUCK,50 Y Butterfly,SCY,M,45-49,25.72,Douglas A Christensen,,Tualatin Hills Pentathlon,2012,1
+DUCK,100 Y Individual Medley,SCY,M,45-49,1:01.72,Douglas A Christensen,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,18-24,28.16,Annemarie Wanzenried,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,18-24,28.67,Delaney C Elliott,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Freestyle,SCY,W,18-24,1:02.80,Annemarie Wanzenried,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,W,18-24,5:54.61,Karri-ann E Benthin,,Canby Animal Meet,2012,1
+OREG,1000 Y Freestyle,SCY,W,18-24,11:39.86,Natascha R Mangan,,Canby Animal Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,18-24,36.18,Annemarie Wanzenried,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,18-24,37.02,Delaney C Elliott,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,18-24,38.38,Annemarie Wanzenried,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,W,18-24,31.17,Delaney C Elliott,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,W,18-24,31.79,Annemarie Wanzenried,,Chehalem SCY Meet,2012,2
+OREG,100 Y Butterfly,SCY,W,18-24,1:07.47,Karri-ann E Benthin,,Canby Animal Meet,2012,1
+OREG,100 Y Butterfly,SCY,W,18-24,1:15.02,Annemarie Wanzenried,,Canby Animal Meet,2012,2
+OREG,200 Y Butterfly,SCY,W,18-24,2:10.60,Natascha R Mangan,,Canby Animal Meet,2012,1
+OREG,100 Y Individual Medley,SCY,W,18-24,1:12.70,Annemarie Wanzenried,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,W,18-24,1:13.86,Delaney C Elliott,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Individual Medley,SCY,W,18-24,2:28.59,Karri-ann E Benthin,,Canby Animal Meet,2012,1
+OREG,200 Y Individual Medley,SCY,W,18-24,2:45.53,Annemarie Wanzenried,,Canby Animal Meet,2012,2
+OREG,400 Y Individual Medley,SCY,W,18-24,4:48.38,Natascha R Mangan,,Canby Animal Meet,2012,1
+OREG,50 Y Freestyle,SCY,W,25-29,28.67,Aubrie L LeGault,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,W,25-29,2:25.42,Aubrie L LeGault,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,W,25-29,6:28.90,Aubrie L LeGault,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,W,25-29,6:46.78,Kayla R Scheafer,,Canby Animal Meet,2012,2
+OREG,50 Y Backstroke,SCY,W,25-29,34.61,Aubrie L LeGault,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,25-29,39.40,Aubrie L LeGault,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,W,25-29,31.16,Aubrie L LeGault,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,W,25-29,1:24.39,Kayla R Scheafer,,Canby Animal Meet,2012,1
+OREG,100 Y Individual Medley,SCY,W,25-29,1:13.43,Aubrie L LeGault,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Individual Medley,SCY,W,25-29,2:59.17,Kayla R Scheafer,,Canby Animal Meet,2012,1
+OREG,50 Y Freestyle,SCY,W,30-34,28.00,Vicky Buelow,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,W,30-34,28.01,Jennifer M Faith,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,W,30-34,1:00.75,Erin M Popelka,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,W,30-34,1:11.93,Erin M Popelka,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,30-34,34.19,Jennifer M Faith,,Chehalem SCY Meet,2012,1
+OREG,100 Y Breaststroke,SCY,W,30-34,1:15.86,Jennifer M Faith,,Chehalem SCY Meet,2012,1
+OREG,100 Y Breaststroke,SCY,W,30-34,1:16.09,Erin M Popelka,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,W,30-34,29.46,Vicky Buelow,,Chehalem SCY Meet,2012,1
+OREG,100 Y Butterfly,SCY,W,30-34,1:05.33,Erin M Popelka,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,W,30-34,1:08.33,Vicky Buelow,,Chehalem SCY Meet,2012,2
+OREG,100 Y Individual Medley,SCY,W,30-34,1:10.38,Jennifer M Faith,,Chehalem SCY Meet,2012,1
+OREG,200 Y Individual Medley,SCY,W,30-34,2:26.34,Erin M Popelka,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,35-39,37.36,Anna Casey,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,35-39,38.12,Neva J Winter,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Freestyle,SCY,W,35-39,40.81,Elizabeth A Harrison,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Freestyle,SCY,W,35-39,1:17.25,Anna Casey,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,W,35-39,2:53.08,Jennifer A Hartley,,Canby Animal Meet,2012,1
+OREG,200 Y Freestyle,SCY,W,35-39,3:06.70,Elizabeth A Harrison,,Canby Animal Meet,2012,2
+OREG,200 Y Freestyle,SCY,W,35-39,3:07.19,Neva J Winter,,Canby Animal Meet,2012,3
+OREG,500 Y Freestyle,SCY,W,35-39,6:49.69,Robin L Hoffman,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,35-39,46.72,Neva J Winter,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,35-39,56.07,Elizabeth A Harrison,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,W,35-39,49.44,Anna Casey,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,35-39,53.25,Neva J Winter,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,W,35-39,1:08.68,Elizabeth A Harrison,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Butterfly,SCY,W,35-39,43.77,Jennifer A Hartley,,Canby Animal Meet,2012,1
+OREG,50 Y Butterfly,SCY,W,35-39,43.88,Anna Casey,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,W,35-39,45.90,Neva J Winter,,Canby Animal Meet,2012,3
+OREG,50 Y Butterfly,SCY,W,35-39,49.97,Elizabeth A Harrison,,Canby Animal Meet,2012,4
+OREG,100 Y Butterfly,SCY,W,35-39,1:34.26,Anna Casey,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,W,35-39,1:29.69,Jennifer A Hartley,,Canby Animal Meet,2012,1
+OREG,100 Y Individual Medley,SCY,W,35-39,1:33.35,Robin L Hoffman,,Chehalem SCY Meet,2012,2
+OREG,100 Y Individual Medley,SCY,W,35-39,1:37.55,Neva J Winter,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Individual Medley,SCY,W,35-39,1:52.86,Elizabeth A Harrison,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Freestyle,SCY,W,40-44,34.91,Sarah Starr,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,W,40-44,38.91,Helen J Thurlow,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,W,40-44,1:05.64,Laura L Kramer,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Freestyle,SCY,W,40-44,1:32.97,Helen J Thurlow,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Freestyle,SCY,W,40-44,3:31.23,Helen J Thurlow,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,W,40-44,8:54.10,Helen J Thurlow,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,40-44,53.18,Helen J Thurlow,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,W,40-44,1:18.47,Laura L Kramer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,40-44,47.61,Sarah Starr,,Chehalem SCY Meet,2012,1
+OREG,100 Y Breaststroke,SCY,W,40-44,1:31.40,Laura L Kramer,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,W,40-44,1:17.44,Laura L Kramer,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Individual Medley,SCY,W,40-44,2:53.20,Laura L Kramer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,45-49,26.51,Jill M Asch,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,45-49,28.13,Valerie G Jenkins,,Chehalem SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,W,45-49,30.22,Terri L Tyynismaa,,Chehalem SCY Meet,2012,3
+OREG,50 Y Freestyle,SCY,W,45-49,30.22,Britta M Daubersmith,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Freestyle,SCY,W,45-49,33.07,Linda Fox,,Chehalem SCY Meet,2012,5
+OREG,50 Y Freestyle,SCY,W,45-49,40.10,Mika Nukaga,,Tualatin Hills Pentathlon,2012,6
+OREG,50 Y Freestyle,SCY,W,45-49,41.01,Kerry J McDaniel Boenisch,,Chehalem SCY Meet,2012,7
+OREG,50 Y Freestyle,SCY,W,45-49,41.80,Linda S Gormley,,Chehalem SCY Meet,2012,8
+OREG,100 Y Freestyle,SCY,W,45-49,59.93,Valerie G Jenkins,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,W,45-49,1:05.04,Terri L Tyynismaa,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,W,45-49,1:11.67,Linda Fox,,Chehalem SCY Meet,2012,3
+OREG,200 Y Freestyle,SCY,W,45-49,2:13.84,Valerie G Jenkins,,Chehalem SCY Meet,2012,1
+OREG,200 Y Freestyle,SCY,W,45-49,2:21.78,Terri L Tyynismaa,,Chehalem SCY Meet,2012,2
+OREG,200 Y Freestyle,SCY,W,45-49,2:29.56,Britta M Daubersmith,,Canby Animal Meet,2012,3
+OREG,200 Y Freestyle,SCY,W,45-49,2:44.65,Linda Fox,,Chehalem SCY Meet,2012,4
+OREG,500 Y Freestyle,SCY,W,45-49,5:54.78,Valerie G Jenkins,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,W,45-49,6:19.24,Terri L Tyynismaa,,Chehalem SCY Meet,2012,2
+OREG,1000 Y Freestyle,SCY,W,45-49,13:06.92,Terri L Tyynismaa,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,45-49,31.10,Jill M Asch,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,W,45-49,34.95,Britta M Daubersmith,,Chehalem SCY Meet,2012,2
+OREG,50 Y Backstroke,SCY,W,45-49,42.35,Darcy Smith,,Chehalem SCY Meet,2012,3
+OREG,50 Y Backstroke,SCY,W,45-49,50.99,Kerry J McDaniel Boenisch,,Chehalem SCY Meet,2012,4
+OREG,100 Y Backstroke,SCY,W,45-49,1:28.33,Linda Fox,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,W,45-49,35.45,Jill M Asch,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,45-49,40.96,Britta M Daubersmith,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,W,45-49,42.62,Darcy Smith,,Chehalem SCY Meet,2012,3
+OREG,50 Y Breaststroke,SCY,W,45-49,47.15,Linda S Gormley,,Chehalem SCY Meet,2012,4
+OREG,50 Y Breaststroke,SCY,W,45-49,50.27,Kerry J McDaniel Boenisch,,Chehalem SCY Meet,2012,5
+OREG,100 Y Breaststroke,SCY,W,45-49,1:32.49,Mika Nukaga,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Breaststroke,SCY,W,45-49,1:39.55,Darcy Smith,,Chehalem SCY Meet,2012,2
+OREG,100 Y Breaststroke,SCY,W,45-49,1:52.46,Kerry J McDaniel Boenisch,,Chehalem SCY Meet,2012,3
+OREG,200 Y Breaststroke,SCY,W,45-49,3:33.23,Darcy Smith,,Chehalem SCY Meet,2012,1
+OREG,50 Y Butterfly,SCY,W,45-49,29.61,Jill M Asch,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,W,45-49,33.41,Britta M Daubersmith,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,W,45-49,1:08.66,Jill M Asch,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,W,45-49,1:14.41,Britta M Daubersmith,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,W,45-49,1:35.34,Darcy Smith,,Chehalem SCY Meet,2012,3
+OREG,100 Y Individual Medley,SCY,W,45-49,1:41.96,Mika Nukaga,,Tualatin Hills Pentathlon,2012,4
+OREG,100 Y Individual Medley,SCY,W,45-49,1:53.86,Kerry J McDaniel Boenisch,,Chehalem SCY Meet,2012,5
+OREG,200 Y Individual Medley,SCY,W,45-49,2:48.32,Britta M Daubersmith,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,W,50-54,27.58,Karen Andrus-Hughes,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,50-54,29.86,Lori E Lamoureux,,Chehalem SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,W,50-54,30.88,Dianne Viales,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,W,50-54,31.03,Sue Harrington,,Chehalem SCY Meet,2012,4
+OREG,50 Y Freestyle,SCY,W,50-54,34.44,Julie A Andrade,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Freestyle,SCY,W,50-54,40.95,Carol J Kenney,,Tualatin Hills Pentathlon,2012,6
+OREG,100 Y Freestyle,SCY,W,50-54,1:02.76,MJ Caswell,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Freestyle,SCY,W,50-54,1:07.41,Lori E Lamoureux,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Freestyle,SCY,W,50-54,1:07.42,Ann R Goodman,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Freestyle,SCY,W,50-54,1:09.90,Sue Harrington,,Chehalem SCY Meet,2012,4
+OREG,100 Y Freestyle,SCY,W,50-54,1:16.01,Pam J Snider,,Tualatin Hills Pentathlon,2012,5
+OREG,100 Y Freestyle,SCY,W,50-54,1:20.88,Christina M Fox,,Chehalem SCY Meet,2012,6
+OREG,200 Y Freestyle,SCY,W,50-54,2:28.59,Ann R Goodman,,Chehalem SCY Meet,2012,1
+OREG,200 Y Freestyle,SCY,W,50-54,2:45.47,Julie A Andrade,,Canby Animal Meet,2012,2
+OREG,200 Y Freestyle,SCY,W,50-54,2:46.89,Christina M Fox,,Tualatin Hills Pentathlon,2012,3
+OREG,500 Y Freestyle,SCY,W,50-54,7:21.95,Christina M Fox,,Canby Animal Meet,2012,1
+OREG,1000 Y Freestyle,SCY,W,50-54,14:12.66,Lori E Lamoureux,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,50-54,31.28,Karen Andrus-Hughes,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,W,50-54,33.42,Ann R Goodman,,Chehalem SCY Meet,2012,2
+OREG,50 Y Backstroke,SCY,W,50-54,35.48,Laura A Worden,,Chehalem SCY Meet,2012,3
+OREG,50 Y Backstroke,SCY,W,50-54,36.87,Dianne Viales,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Backstroke,SCY,W,50-54,41.87,Sue Harrington,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Backstroke,SCY,W,50-54,42.43,Julie A Andrade,,Tualatin Hills Pentathlon,2012,6
+OREG,50 Y Backstroke,SCY,W,50-54,53.55,Carol J Kenney,,Tualatin Hills Pentathlon,2012,7
+OREG,100 Y Backstroke,SCY,W,50-54,1:09.88,Ann R Goodman,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,W,50-54,1:16.30,MJ Caswell,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Backstroke,SCY,W,50-54,1:22.54,Pam J Snider,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Backstroke,SCY,W,50-54,1:26.83,Christina M Fox,,Tualatin Hills Pentathlon,2012,4
+OREG,200 Y Backstroke,SCY,W,50-54,2:35.23,Ann R Goodman,,Chehalem SCY Meet,2012,1
+OREG,200 Y Backstroke,SCY,W,50-54,2:56.79,Pam J Snider,,Chehalem SCY Meet,2012,2
+OREG,50 Y Breaststroke,SCY,W,50-54,39.64,Karen Andrus-Hughes,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,50-54,40.20,Lori E Lamoureux,,Chehalem SCY Meet,2012,2
+OREG,50 Y Breaststroke,SCY,W,50-54,40.33,Sue Harrington,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Breaststroke,SCY,W,50-54,40.98,Dianne Viales,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Breaststroke,SCY,W,50-54,41.11,Julie A Andrade,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Breaststroke,SCY,W,50-54,45.26,Christina M Fox,,Chehalem SCY Meet,2012,6
+OREG,50 Y Breaststroke,SCY,W,50-54,53.83,Carol J Kenney,,Tualatin Hills Pentathlon,2012,7
+OREG,100 Y Breaststroke,SCY,W,50-54,1:21.87,MJ Caswell,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Breaststroke,SCY,W,50-54,1:27.38,Pam J Snider,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Breaststroke,SCY,W,50-54,1:28.05,Lori E Lamoureux,,Chehalem SCY Meet,2012,3
+OREG,100 Y Breaststroke,SCY,W,50-54,1:30.37,Sue Harrington,,Chehalem SCY Meet,2012,4
+OREG,100 Y Breaststroke,SCY,W,50-54,1:30.78,Julie A Andrade,,Chehalem SCY Meet,2012,5
+OREG,100 Y Breaststroke,SCY,W,50-54,1:32.00,Ann R Goodman,,Tualatin Hills Pentathlon,2012,6
+OREG,200 Y Breaststroke,SCY,W,50-54,3:06.19,Pam J Snider,,Chehalem SCY Meet,2012,1
+OREG,200 Y Breaststroke,SCY,W,50-54,3:10.59,Lori E Lamoureux,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Breaststroke,SCY,W,50-54,3:14.56,Julie A Andrade,,Chehalem SCY Meet,2012,3
+OREG,200 Y Breaststroke,SCY,W,50-54,3:15.43,Sue Harrington,,Chehalem SCY Meet,2012,4
+OREG,200 Y Breaststroke,SCY,W,50-54,3:19.63,Christina M Fox,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Butterfly,SCY,W,50-54,30.74,Karen Andrus-Hughes,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,W,50-54,31.16,MJ Caswell,,Chehalem SCY Meet,2012,2
+OREG,50 Y Butterfly,SCY,W,50-54,32.22,Laura A Worden,,Chehalem SCY Meet,2012,3
+OREG,50 Y Butterfly,SCY,W,50-54,33.97,Dianne Viales,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Butterfly,SCY,W,50-54,34.64,Sue Harrington,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Butterfly,SCY,W,50-54,39.90,Julie A Andrade,,Canby Animal Meet,2012,6
+OREG,50 Y Butterfly,SCY,W,50-54,43.34,Christina M Fox,,Canby Animal Meet,2012,7
+OREG,100 Y Butterfly,SCY,W,50-54,1:09.59,MJ Caswell,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,W,50-54,1:12.27,Laura A Worden,,Chehalem SCY Meet,2012,2
+OREG,100 Y Butterfly,SCY,W,50-54,1:22.42,Pam J Snider,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Butterfly,SCY,W,50-54,1:23.80,Ann R Goodman,,Tualatin Hills Pentathlon,2012,4
+OREG,100 Y Individual Medley,SCY,W,50-54,1:10.78,Karen Andrus-Hughes,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,W,50-54,1:14.11,MJ Caswell,,Chehalem SCY Meet,2012,2
+OREG,100 Y Individual Medley,SCY,W,50-54,1:15.70,Dianne Viales,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Individual Medley,SCY,W,50-54,1:19.91,Laura A Worden,,Chehalem SCY Meet,2012,4
+OREG,100 Y Individual Medley,SCY,W,50-54,1:20.25,Lori E Lamoureux,,Tualatin Hills Pentathlon,2012,5
+OREG,100 Y Individual Medley,SCY,W,50-54,1:22.27,Pam J Snider,,Chehalem SCY Meet,2012,6
+OREG,100 Y Individual Medley,SCY,W,50-54,1:25.10,Julie A Andrade,,Canby Animal Meet,2012,7
+OREG,200 Y Individual Medley,SCY,W,50-54,2:35.14,MJ Caswell,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Individual Medley,SCY,W,50-54,2:51.29,Laura A Worden,,Chehalem SCY Meet,2012,2
+OREG,200 Y Individual Medley,SCY,W,50-54,2:52.18,Pam J Snider,,Tualatin Hills Pentathlon,2012,3
+OREG,200 Y Individual Medley,SCY,W,50-54,3:05.64,Christina M Fox,,Tualatin Hills Pentathlon,2012,4
+OREG,400 Y Individual Medley,SCY,W,50-54,5:50.76,Ann R Goodman,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,55-59,41.78,Carole A Miles,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,W,55-59,3:06.20,Elke M Asleson,,Tualatin Hills Pentathlon,2012,1
+OREG,1000 Y Freestyle,SCY,W,55-59,13:04.47,Colette M Crabbe,,Canby Animal Meet,2012,1
+OREG,1000 Y Freestyle,SCY,W,55-59,14:44.91,Jeanna Summers,,Canby Animal Meet,2012,2
+OREG,50 Y Backstroke,SCY,W,55-59,50.54,Carole A Miles,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Backstroke,SCY,W,55-59,3:22.94,Elke M Asleson,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,55-59,35.57,Colette M Crabbe,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,W,55-59,50.25,Carole A Miles,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Breaststroke,SCY,W,55-59,2:50.52,Colette M Crabbe,,Chehalem SCY Meet,2012,1
+OREG,200 Y Breaststroke,SCY,W,55-59,3:55.44,Elke M Asleson,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Butterfly,SCY,W,55-59,1:08.40,Colette M Crabbe,,Chehalem SCY Meet,2012,1
+OREG,200 Y Butterfly,SCY,W,55-59,2:31.47,Colette M Crabbe,,Canby Animal Meet,2012,1
+OREG,200 Y Butterfly,SCY,W,55-59,3:34.40,Elke M Asleson,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,W,55-59,1:10.39,Colette M Crabbe,,Chehalem SCY Meet,2012,1
+OREG,100 Y Individual Medley,SCY,W,55-59,1:46.94,Carole A Miles,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Individual Medley,SCY,W,55-59,2:32.85,Colette M Crabbe,,Chehalem SCY Meet,2012,1
+OREG,200 Y Individual Medley,SCY,W,55-59,3:14.39,Jeanna Summers,,Canby Animal Meet,2012,2
+OREG,400 Y Individual Medley,SCY,W,55-59,5:18.42,Colette M Crabbe,,Canby Animal Meet,2012,1
+OREG,400 Y Individual Medley,SCY,W,55-59,7:08.24,Elke M Asleson,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Freestyle,SCY,W,60-64,31.73,Janet Gettling,,Fall in the Hole,2012,1
+OREG,100 Y Freestyle,SCY,W,60-64,1:14.34,Kathleen Buck,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,60-64,38.76,Janet Gettling,,Fall in the Hole,2012,1
+OREG,100 Y Backstroke,SCY,W,60-64,1:29.94,Janet Gettling,,Fall in the Hole,2012,1
+OREG,50 Y Breaststroke,SCY,W,60-64,39.68,Janet Gettling,,Fall in the Hole,2012,1
+OREG,100 Y Breaststroke,SCY,W,60-64,1:41.18,Kathleen Buck,,Chehalem SCY Meet,2012,1
+OREG,100 Y Individual Medley,SCY,W,60-64,1:23.73,Janet Gettling,,Fall in the Hole,2012,1
+OREG,100 Y Individual Medley,SCY,W,60-64,1:32.73,Kathleen Buck,,Chehalem SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,W,65-69,33.52,Joy Ward,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,W,65-69,3:36.99,Ginger L Pierson,,Canby Animal Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,65-69,37.99,Joy Ward,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,W,65-69,1:22.62,Joy Ward,,Chehalem SCY Meet,2012,1
+OREG,200 Y Backstroke,SCY,W,65-69,2:55.47,Joy Ward,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,W,65-69,40.29,Ginger L Pierson,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,65-69,48.73,Joy Ward,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Breaststroke,SCY,W,65-69,1:27.28,Ginger L Pierson,,Lake Washington Master SCY Meet,2012,1
+OREG,200 Y Breaststroke,SCY,W,65-69,3:12.74,Ginger L Pierson,,Lake Washington Master SCY Meet,2012,1
+OREG,50 Y Butterfly,SCY,W,65-69,37.36,Joy Ward,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,W,65-69,1:32.72,Joy Ward,,Canby Animal Meet,2012,1
+OREG,100 Y Butterfly,SCY,W,65-69,1:40.38,Ginger L Pierson,,Chehalem SCY Meet,2012,2
+OREG,200 Y Butterfly,SCY,W,65-69,3:19.97,Ginger L Pierson,,Canby Animal Meet,2012,1
+OREG,100 Y Individual Medley,SCY,W,65-69,1:26.81,Joy Ward,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Individual Medley,SCY,W,65-69,3:11.27,Joy Ward,,Chehalem SCY Meet,2012,1
+OREG,200 Y Individual Medley,SCY,W,65-69,3:15.22,Ginger L Pierson,,Lake Washington Master SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,W,70-74,32.38,Barbara Frid,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Backstroke,SCY,W,70-74,39.84,Barbara Frid,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Backstroke,SCY,W,70-74,1:30.87,Barbara Frid,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Breaststroke,SCY,W,70-74,42.78,Barbara Frid,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Butterfly,SCY,W,70-74,35.38,Barbara Frid,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Individual Medley,SCY,W,70-74,1:23.43,Barbara Frid,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Freestyle,SCY,W,75-79,46.52,Geraldine L Kawabata,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,75-79,1:15.87,Geraldine L Kawabata,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,W,75-79,1:04.85,Geraldine L Kawabata,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,W,75-79,2:07.97,Geraldine L Kawabata,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,W,90-94,2:09.16,Elfie J Stevenin,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,W,90-94,9:19.89,Elfie J Stevenin,,Canby Animal Meet,2012,1
+OREG,50 Y Backstroke,SCY,W,90-94,1:51.92,Elfie J Stevenin,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,W,90-94,2:47.91,Elfie J Stevenin,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,W,90-94,3:09.81,Elfie J Stevenin,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,W,90-94,5:13.43,Elfie J Stevenin,,Canby Animal Meet,2012,1
+OREG,50 Y Freestyle,SCY,M,18-24,24.70,Stephen P James,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Freestyle,SCY,M,18-24,56.85,Stephen P James,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,M,18-24,2:01.10,Keahi Horowitz,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Freestyle,SCY,M,18-24,2:06.29,Nick Wood,,Tualatin Hills Pentathlon,2012,2
+OREG,1000 Y Freestyle,SCY,M,18-24,11:50.15,Nick Wood,,Chehalem SCY Meet,2012,1
+OREG,100 Y Backstroke,SCY,M,18-24,1:01.92,Keahi Horowitz,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Backstroke,SCY,M,18-24,2:12.33,Keahi Horowitz,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Backstroke,SCY,M,18-24,2:24.43,Nick Wood,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,M,18-24,31.70,Nick Wood,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,M,18-24,33.45,Stephen P James,,Chehalem SCY Meet,2012,2
+OREG,100 Y Breaststroke,SCY,M,18-24,1:10.77,Nick Wood,,Chehalem SCY Meet,2012,1
+OREG,100 Y Breaststroke,SCY,M,18-24,1:13.17,Stephen P James,,Chehalem SCY Meet,2012,2
+OREG,200 Y Breaststroke,SCY,M,18-24,2:27.79,Nick Wood,,Chehalem SCY Meet,2012,1
+OREG,50 Y Butterfly,SCY,M,18-24,29.32,Keahi Horowitz,,Canby Animal Meet,2012,1
+OREG,100 Y Butterfly,SCY,M,18-24,1:03.22,Keahi Horowitz,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Butterfly,SCY,M,18-24,2:17.64,Nick Wood,,Chehalem SCY Meet,2012,1
+OREG,100 Y Individual Medley,SCY,M,18-24,1:04.62,Keahi Horowitz,,Canby Animal Meet,2012,1
+OREG,100 Y Individual Medley,SCY,M,18-24,1:06.61,Stephen P James,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Individual Medley,SCY,M,18-24,2:16.16,Keahi Horowitz,,Tualatin Hills Pentathlon,2012,1
+OREG,400 Y Individual Medley,SCY,M,18-24,4:45.01,Nick Wood,,Tualatin Hills Pentathlon,2012,1
+OREG,1000 Y Freestyle,SCY,M,25-29,12:37.53,Kevin H Cleary,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Backstroke,SCY,M,25-29,31.95,Kevin H Cleary,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,M,25-29,30.15,Kevin H Cleary,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Breaststroke,SCY,M,25-29,1:06.86,Kevin H Cleary,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,200 Y Breaststroke,SCY,M,25-29,2:38.39,Kevin H Cleary,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Butterfly,SCY,M,25-29,26.51,Kevin H Cleary,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Butterfly,SCY,M,25-29,57.95,Kevin H Cleary,,2012 Steve Engle Memorial PNA Championship Meet,2012,1
+OREG,200 Y Butterfly,SCY,M,25-29,2:14.79,Kevin H Cleary,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Freestyle,SCY,M,30-34,26.52,Anthony M Cibik,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Freestyle,SCY,M,30-34,49.73,Benjamin C Weston,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Freestyle,SCY,M,30-34,55.74,Nick Thorpe,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Freestyle,SCY,M,30-34,57.95,Matt D Miller,,Chehalem SCY Meet,2012,3
+OREG,100 Y Freestyle,SCY,M,30-34,59.98,Brock H Jones,,Tualatin Hills Pentathlon,2012,4
+OREG,200 Y Freestyle,SCY,M,30-34,2:03.52,Matt D Miller,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,M,30-34,5:36.63,Matt D Miller,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,M,30-34,5:47.00,Brock H Jones,,Chehalem SCY Meet,2012,2
+OREG,500 Y Freestyle,SCY,M,30-34,6:43.38,Michael L Kalk,,Canby Animal Meet,2012,3
+OREG,1000 Y Freestyle,SCY,M,30-34,11:31.34,Matt D Miller,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,M,30-34,33.01,Anthony M Cibik,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,M,30-34,58.84,Benjamin C Weston,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,M,30-34,1:09.36,Brock H Jones,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Backstroke,SCY,M,30-34,1:15.09,Nick Thorpe,,Tualatin Hills Pentathlon,2012,3
+OREG,200 Y Backstroke,SCY,M,30-34,2:29.75,Brock H Jones,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,M,30-34,29.72,Nick Thorpe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Breaststroke,SCY,M,30-34,34.69,Brock H Jones,,Chehalem SCY Meet,2012,2
+OREG,100 Y Breaststroke,SCY,M,30-34,1:05.41,Benjamin C Weston,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Breaststroke,SCY,M,30-34,1:05.48,Nick Thorpe,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+OREG,100 Y Breaststroke,SCY,M,30-34,1:14.53,Brock H Jones,,Tualatin Hills Pentathlon,2012,3
+OREG,200 Y Breaststroke,SCY,M,30-34,2:29.01,Nick Thorpe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Butterfly,SCY,M,30-34,32.20,Anthony M Cibik,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,M,30-34,55.37,Benjamin C Weston,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,M,30-34,1:04.66,Nick Thorpe,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Butterfly,SCY,M,30-34,1:07.27,Brock H Jones,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Butterfly,SCY,M,30-34,1:34.27,Michael L Kalk,,Canby Animal Meet,2012,4
+OREG,100 Y Individual Medley,SCY,M,30-34,1:02.09,Nick Thorpe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Individual Medley,SCY,M,30-34,1:09.76,Matt D Miller,,Chehalem SCY Meet,2012,2
+OREG,100 Y Individual Medley,SCY,M,30-34,1:14.58,Anthony M Cibik,,Tualatin Hills Pentathlon,2012,3
+OREG,200 Y Individual Medley,SCY,M,30-34,2:04.61,Benjamin C Weston,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Individual Medley,SCY,M,30-34,2:24.56,Nick Thorpe,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Individual Medley,SCY,M,30-34,2:25.81,Brock H Jones,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,M,35-39,23.52,Joaquin B Romera,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,35-39,24.37,Paul Slotemaker,,Chehalem SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,M,35-39,26.01,Daron Lindsey,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,M,35-39,28.08,Rob Rainwater,,Chehalem SCY Meet,2012,4
+OREG,50 Y Freestyle,SCY,M,35-39,28.42,Duane Casey,,Chehalem SCY Meet,2012,5
+OREG,50 Y Freestyle,SCY,M,35-39,28.62,John Notis,,Chehalem SCY Meet,2012,6
+OREG,100 Y Freestyle,SCY,M,35-39,53.64,Paul Slotemaker,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,M,35-39,1:01.03,Matt D Browning,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Freestyle,SCY,M,35-39,1:03.39,Duane Casey,,Chehalem SCY Meet,2012,3
+OREG,100 Y Freestyle,SCY,M,35-39,1:04.20,John Notis,,Chehalem SCY Meet,2012,4
+OREG,200 Y Freestyle,SCY,M,35-39,2:33.47,Duane Casey,,Canby Animal Meet,2012,1
+OREG,500 Y Freestyle,SCY,M,35-39,5:57.45,Matthew S Boles,,Chehalem SCY Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,35-39,14:58.62,John Notis,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,M,35-39,28.06,Joaquin B Romera,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,M,35-39,28.84,Paul Slotemaker,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Backstroke,SCY,M,35-39,31.51,Daron Lindsey,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Backstroke,SCY,M,35-39,31.56,Matthew S Boles,,Chehalem SCY Meet,2012,4
+OREG,50 Y Backstroke,SCY,M,35-39,32.98,Rob Rainwater,,Chehalem SCY Meet,2012,5
+OREG,100 Y Backstroke,SCY,M,35-39,1:02.05,Paul Slotemaker,,Chehalem SCY Meet,2012,1
+OREG,100 Y Backstroke,SCY,M,35-39,1:21.50,Matt D Browning,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,M,35-39,30.41,Joaquin B Romera,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,35-39,31.62,Daron Lindsey,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,M,35-39,35.51,Paul Slotemaker,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Breaststroke,SCY,M,35-39,36.76,Rob Rainwater,,Chehalem SCY Meet,2012,4
+OREG,100 Y Breaststroke,SCY,M,35-39,1:20.56,Matt D Browning,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,35-39,25.83,Joaquin B Romera,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,35-39,27.34,Daron Lindsey,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,M,35-39,28.41,Paul Slotemaker,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Butterfly,SCY,M,35-39,32.23,Duane Casey,,Canby Animal Meet,2012,4
+OREG,100 Y Butterfly,SCY,M,35-39,1:08.30,Matt D Browning,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,35-39,59.72,Joaquin B Romera,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,35-39,1:03.43,Paul Slotemaker,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,35-39,1:04.08,Daron Lindsey,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Individual Medley,SCY,M,35-39,1:12.20,Rob Rainwater,,Chehalem SCY Meet,2012,4
+OREG,100 Y Individual Medley,SCY,M,35-39,1:15.82,Duane Casey,,Canby Animal Meet,2012,5
+OREG,200 Y Individual Medley,SCY,M,35-39,2:42.01,Matt D Browning,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,40-44,22.96,Mike Self,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,M,40-44,26.05,Anton W Leneis,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Freestyle,SCY,M,40-44,27.56,Mark Fletcher,,Chehalem SCY Meet,2012,3
+OREG,50 Y Freestyle,SCY,M,40-44,27.57,Patrick S Mason,,Chehalem SCY Meet,2012,4
+OREG,50 Y Freestyle,SCY,M,40-44,29.67,Scott Ferguson,,Chehalem SCY Meet,2012,5
+OREG,100 Y Freestyle,SCY,M,40-44,49.72,Mike Self,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,M,40-44,53.62,Eric C Moore,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Freestyle,SCY,M,40-44,56.11,Christian F Tujo,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Freestyle,SCY,M,40-44,1:00.26,Mark Fletcher,,Chehalem SCY Meet,2012,4
+OREG,100 Y Freestyle,SCY,M,40-44,1:01.11,Patrick S Mason,,Chehalem SCY Meet,2012,5
+OREG,100 Y Freestyle,SCY,M,40-44,1:04.53,Scott Ferguson,,Tualatin Hills Pentathlon,2012,6
+OREG,200 Y Freestyle,SCY,M,40-44,2:18.69,Patrick S Mason,,Chehalem SCY Meet,2012,1
+OREG,200 Y Freestyle,SCY,M,40-44,2:31.05,Scott Ferguson,,Chehalem SCY Meet,2012,2
+OREG,500 Y Freestyle,SCY,M,40-44,5:59.97,Timothy P Waud,,Chehalem SCY Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,40-44,12:03.11,Timothy P Waud,,Canby Animal Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,40-44,13:00.07,Christian F Tujo,,Canby Animal Meet,2012,2
+OREG,50 Y Backstroke,SCY,M,40-44,25.91,Mike Self,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,M,40-44,28.58,Eric C Moore,,Chehalem SCY Meet,2012,2
+OREG,50 Y Backstroke,SCY,M,40-44,33.65,Anton W Leneis,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Backstroke,SCY,M,40-44,1:00.49,Eric C Moore,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Backstroke,SCY,M,40-44,1:10.30,Timothy P Waud,,Chehalem SCY Meet,2012,2
+OREG,100 Y Backstroke,SCY,M,40-44,1:11.51,Christian F Tujo,,Tualatin Hills Pentathlon,2012,3
+OREG,200 Y Backstroke,SCY,M,40-44,2:04.64,Mike Self,,Chehalem SCY Meet,2012,1
+OREG,200 Y Backstroke,SCY,M,40-44,2:12.18,Eric C Moore,,Chehalem SCY Meet,2012,2
+OREG,50 Y Breaststroke,SCY,M,40-44,32.73,Anton W Leneis,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,40-44,34.68,Mark Fletcher,,Chehalem SCY Meet,2012,2
+OREG,100 Y Breaststroke,SCY,M,40-44,1:11.31,Christian F Tujo,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Breaststroke,SCY,M,40-44,1:14.50,Eric C Moore,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Breaststroke,SCY,M,40-44,1:16.15,Mark Fletcher,,Chehalem SCY Meet,2012,3
+OREG,100 Y Breaststroke,SCY,M,40-44,1:22.10,Scott Ferguson,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Butterfly,SCY,M,40-44,29.00,Anton W Leneis,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,40-44,30.02,Timothy P Waud,,Chehalem SCY Meet,2012,2
+OREG,100 Y Butterfly,SCY,M,40-44,1:00.38,Christian F Tujo,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Butterfly,SCY,M,40-44,1:05.60,Eric C Moore,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Butterfly,SCY,M,40-44,1:07.44,Timothy P Waud,,Chehalem SCY Meet,2012,3
+OREG,100 Y Butterfly,SCY,M,40-44,1:18.38,Scott Ferguson,,Tualatin Hills Pentathlon,2012,4
+OREG,200 Y Butterfly,SCY,M,40-44,2:31.14,Christian F Tujo,,Canby Animal Meet,2012,1
+OREG,200 Y Butterfly,SCY,M,40-44,2:33.95,Timothy P Waud,,Canby Animal Meet,2012,2
+OREG,100 Y Individual Medley,SCY,M,40-44,1:06.02,Anton W Leneis,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,40-44,1:18.90,Scott Ferguson,,Chehalem SCY Meet,2012,2
+OREG,200 Y Individual Medley,SCY,M,40-44,2:18.11,Eric C Moore,,Tualatin Hills Pentathlon,2012,1
+OREG,200 Y Individual Medley,SCY,M,40-44,2:21.91,Christian F Tujo,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Individual Medley,SCY,M,40-44,2:49.76,Scott Ferguson,,Tualatin Hills Pentathlon,2012,3
+OREG,400 Y Individual Medley,SCY,M,40-44,5:07.03,Timothy P Waud,,Canby Animal Meet,2012,1
+OREG,400 Y Individual Medley,SCY,M,40-44,5:14.95,Christian F Tujo,,Canby Animal Meet,2012,2
+OREG,50 Y Freestyle,SCY,M,45-49,22.97,Michael D Baele,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,M,45-49,25.50,Darrin M Lajoie,,Chehalem SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,M,45-49,25.95,Scott G Miller,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,M,45-49,26.19,Gano Butcher,,Chehalem SCY Meet,2012,4
+OREG,50 Y Freestyle,SCY,M,45-49,26.72,Darren M McCarthy,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Freestyle,SCY,M,45-49,27.81,Douglas A Hancock,,Chehalem SCY Meet,2012,6
+OREG,50 Y Freestyle,SCY,M,45-49,33.64,David J Galbraith,,Tualatin Hills Pentathlon,2012,7
+OREG,100 Y Freestyle,SCY,M,45-49,50.16,Michael D Baele,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,M,45-49,54.49,Darrin M Lajoie,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,M,45-49,55.85,Bryan C Watt,,Chehalem SCY Meet,2012,3
+OREG,100 Y Freestyle,SCY,M,45-49,1:02.61,Robert B Dettmer,,Tualatin Hills Pentathlon,2012,4
+OREG,100 Y Freestyle,SCY,M,45-49,1:04.67,Douglas A Hancock,,Chehalem SCY Meet,2012,5
+OREG,200 Y Freestyle,SCY,M,45-49,1:54.01,Michael D Baele,,Canby Animal Meet,2012,1
+OREG,200 Y Freestyle,SCY,M,45-49,2:03.33,Darrin M Lajoie,,Chehalem SCY Meet,2012,2
+OREG,200 Y Freestyle,SCY,M,45-49,2:06.46,Paul Carr,,Canby Animal Meet,2012,3
+OREG,200 Y Freestyle,SCY,M,45-49,2:29.12,Douglas A Hancock,,Chehalem SCY Meet,2012,4
+OREG,500 Y Freestyle,SCY,M,45-49,5:27.22,Darrin M Lajoie,,Chehalem SCY Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,45-49,11:20.58,Darrin M Lajoie,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,M,45-49,28.04,Michael D Baele,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,M,45-49,29.54,Gano Butcher,,Chehalem SCY Meet,2012,2
+OREG,50 Y Backstroke,SCY,M,45-49,30.35,Scott G Miller,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Backstroke,SCY,M,45-49,30.47,Darren M McCarthy,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Backstroke,SCY,M,45-49,36.90,Douglas A Hancock,,Chehalem SCY Meet,2012,5
+OREG,50 Y Backstroke,SCY,M,45-49,47.08,David J Galbraith,,Tualatin Hills Pentathlon,2012,6
+OREG,100 Y Backstroke,SCY,M,45-49,1:14.96,Robert B Dettmer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,45-49,30.60,Michael D Baele,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,45-49,31.09,Darren M McCarthy,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,M,45-49,33.80,Gano Butcher,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Breaststroke,SCY,M,45-49,36.53,Scott G Miller,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Breaststroke,SCY,M,45-49,43.97,David J Galbraith,,Tualatin Hills Pentathlon,2012,5
+OREG,100 Y Breaststroke,SCY,M,45-49,1:11.51,Robert B Dettmer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,45-49,24.56,Michael D Baele,,Chehalem SCY Meet,2012,1
+OREG,50 Y Butterfly,SCY,M,45-49,27.32,Gano Butcher,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,M,45-49,28.74,Scott G Miller,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Butterfly,SCY,M,45-49,28.88,Darren M McCarthy,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Butterfly,SCY,M,45-49,29.08,Paul Carr,,Canby Animal Meet,2012,5
+OREG,50 Y Butterfly,SCY,M,45-49,29.25,Bryan C Watt,,Chehalem SCY Meet,2012,6
+OREG,50 Y Butterfly,SCY,M,45-49,38.27,Douglas A Hancock,,Tualatin Hills Pentathlon,2012,7
+OREG,50 Y Butterfly,SCY,M,45-49,47.25,David J Galbraith,,Tualatin Hills Pentathlon,2012,8
+OREG,100 Y Butterfly,SCY,M,45-49,55.16,Michael D Baele,,Chehalem SCY Meet,2012,1
+OREG,100 Y Butterfly,SCY,M,45-49,1:17.25,Robert B Dettmer,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,45-49,57.88,Michael D Baele,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,45-49,1:02.72,Darren M McCarthy,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,45-49,1:04.70,Paul Carr,,Canby Animal Meet,2012,3
+OREG,100 Y Individual Medley,SCY,M,45-49,1:05.17,Bryan C Watt,,Chehalem SCY Meet,2012,4
+OREG,100 Y Individual Medley,SCY,M,45-49,1:06.48,Scott G Miller,,Tualatin Hills Pentathlon,2012,5
+OREG,100 Y Individual Medley,SCY,M,45-49,1:21.95,Douglas A Hancock,,Chehalem SCY Meet,2012,6
+OREG,100 Y Individual Medley,SCY,M,45-49,1:44.45,David J Galbraith,,Tualatin Hills Pentathlon,2012,7
+OREG,200 Y Individual Medley,SCY,M,45-49,2:32.19,Robert B Dettmer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,50-54,24.72,Brent C Washburne,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,50-54,26.41,Mark B Wren,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Freestyle,SCY,M,50-54,28.46,James D White,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,M,50-54,29.36,Daniel D Mayhew,,Chehalem SCY Meet,2012,4
+OREG,50 Y Freestyle,SCY,M,50-54,29.43,Warren W Barnes,,Chehalem SCY Meet,2012,5
+OREG,100 Y Freestyle,SCY,M,50-54,54.62,Brent C Washburne,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,M,50-54,1:02.58,James D White,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Freestyle,SCY,M,50-54,1:03.27,Warren W Barnes,,Chehalem SCY Meet,2012,3
+OREG,100 Y Freestyle,SCY,M,50-54,1:05.74,Patrick Curran,,Tualatin Hills Pentathlon,2012,4
+OREG,100 Y Freestyle,SCY,M,50-54,1:05.89,Daniel D Mayhew,,Chehalem SCY Meet,2012,5
+OREG,200 Y Freestyle,SCY,M,50-54,2:15.38,Lou Boone,,Tualatin Hills Pentathlon,2012,1
+OREG,500 Y Freestyle,SCY,M,50-54,5:37.67,Patrick Allender,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,M,50-54,6:23.88,Warren W Barnes,,Chehalem SCY Meet,2012,2
+OREG,500 Y Freestyle,SCY,M,50-54,6:39.77,Tom V Williams,,Chehalem SCY Meet,2012,3
+OREG,1000 Y Freestyle,SCY,M,50-54,13:15.77,Warren W Barnes,,Chehalem SCY Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,50-54,13:38.58,Tom V Williams,,Chehalem SCY Meet,2012,2
+OREG,1000 Y Freestyle,SCY,M,50-54,13:43.43,Lou Boone,,Canby Animal Meet,2012,3
+OREG,1000 Y Freestyle,SCY,M,50-54,14:21.57,Daniel D Mayhew,,Chehalem SCY Meet,2012,4
+OREG,50 Y Backstroke,SCY,M,50-54,29.43,Brent C Washburne,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,M,50-54,34.86,Mark B Wren,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Backstroke,SCY,M,50-54,1:05.37,Brent C Washburne,,Chehalem SCY Meet,2012,1
+OREG,100 Y Backstroke,SCY,M,50-54,1:18.36,Patrick Curran,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Backstroke,SCY,M,50-54,2:31.53,Lou Boone,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,50-54,32.72,Brent C Washburne,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,50-54,35.98,Mark B Wren,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,M,50-54,39.71,James D White,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Breaststroke,SCY,M,50-54,1:12.65,David Hathaway,,Chehalem SCY Meet,2012,1
+OREG,100 Y Breaststroke,SCY,M,50-54,1:14.68,Brent C Washburne,,Chehalem SCY Meet,2012,2
+OREG,100 Y Breaststroke,SCY,M,50-54,1:23.49,Patrick Curran,,Tualatin Hills Pentathlon,2012,3
+OREG,200 Y Breaststroke,SCY,M,50-54,2:27.37,Patrick Allender,,Chehalem SCY Meet,2012,1
+OREG,200 Y Breaststroke,SCY,M,50-54,2:48.32,Lou Boone,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,M,50-54,27.10,Brent C Washburne,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,50-54,29.75,Mark B Wren,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,M,50-54,32.22,Warren W Barnes,,Chehalem SCY Meet,2012,3
+OREG,100 Y Butterfly,SCY,M,50-54,1:03.44,Patrick Allender,,Chehalem SCY Meet,2012,1
+OREG,100 Y Butterfly,SCY,M,50-54,1:18.62,Patrick Curran,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Butterfly,SCY,M,50-54,2:24.47,David Hathaway,,Chehalem SCY Meet,2012,1
+OREG,200 Y Butterfly,SCY,M,50-54,2:58.96,Lou Boone,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,50-54,1:02.71,Brent C Washburne,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,50-54,1:08.40,Mark B Wren,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Individual Medley,SCY,M,50-54,2:20.01,Patrick Allender,,Chehalem SCY Meet,2012,1
+OREG,200 Y Individual Medley,SCY,M,50-54,2:47.02,Patrick Curran,,Tualatin Hills Pentathlon,2012,2
+OREG,400 Y Individual Medley,SCY,M,50-54,5:33.11,Lou Boone,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,55-59,26.56,Jon Gudman,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,M,55-59,26.67,Keith C Dow,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Freestyle,SCY,M,55-59,31.56,Curtis B Williams,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,M,55-59,36.18,Charlie E Helm,,Tualatin Hills Pentathlon,2012,4
+OREG,100 Y Freestyle,SCY,M,55-59,57.77,Jon Gudman,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,M,55-59,58.49,Doug Brockbank,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,M,55-59,59.98,Keith C Dow,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Freestyle,SCY,M,55-59,1:02.70,Tom Phipps,,Chehalem SCY Meet,2012,4
+OREG,100 Y Freestyle,SCY,M,55-59,1:03.71,Allen J Larson,,Chehalem SCY Meet,2012,5
+OREG,200 Y Freestyle,SCY,M,55-59,2:11.30,Larry K Philbrick,,Canby Animal Meet,2012,1
+OREG,200 Y Freestyle,SCY,M,55-59,2:23.52,Ed Ramsey,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Freestyle,SCY,M,55-59,3:18.86,Charlie E Helm,,Canby Animal Meet,2012,3
+OREG,500 Y Freestyle,SCY,M,55-59,6:05.29,Tom Phipps,,Chehalem SCY Meet,2012,1
+OREG,500 Y Freestyle,SCY,M,55-59,6:28.53,Allen J Larson,,Chehalem SCY Meet,2012,2
+OREG,1000 Y Freestyle,SCY,M,55-59,18:40.93,Charlie E Helm,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,M,55-59,34.60,Keith C Dow,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,M,55-59,42.79,Curtis B Williams,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Backstroke,SCY,M,55-59,50.36,Charlie E Helm,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Backstroke,SCY,M,55-59,1:11.02,Doug Brockbank,,Chehalem SCY Meet,2012,1
+OREG,100 Y Backstroke,SCY,M,55-59,1:21.37,Keith C Dow,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Backstroke,SCY,M,55-59,2:34.44,Ed Ramsey,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,55-59,39.61,Curtis B Williams,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,55-59,53.20,Charlie E Helm,,Tualatin Hills Pentathlon,2012,2
+OREG,200 Y Breaststroke,SCY,M,55-59,3:29.63,Allen J Larson,,Chehalem SCY Meet,2012,1
+OREG,50 Y Butterfly,SCY,M,55-59,28.63,Larry K Philbrick,,Canby Animal Meet,2012,1
+OREG,50 Y Butterfly,SCY,M,55-59,29.33,Charles Bannan,,Rinconada Masters Sprint Short Course Meet,2012,2
+OREG,50 Y Butterfly,SCY,M,55-59,30.00,Charles B Dwight,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Butterfly,SCY,M,55-59,34.27,Allen J Larson,,Chehalem SCY Meet,2012,4
+OREG,50 Y Butterfly,SCY,M,55-59,40.63,Curtis B Williams,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Butterfly,SCY,M,55-59,46.86,Charlie E Helm,,Canby Animal Meet,2012,6
+OREG,100 Y Butterfly,SCY,M,55-59,1:08.60,Charles Bannan,,Rinconada Masters Sprint Short Course Meet,2012,1
+OREG,100 Y Butterfly,SCY,M,55-59,1:08.82,Doug Brockbank,,Chehalem SCY Meet,2012,2
+OREG,100 Y Butterfly,SCY,M,55-59,1:11.46,Tom Phipps,,Chehalem SCY Meet,2012,3
+OREG,100 Y Butterfly,SCY,M,55-59,1:22.97,Allen J Larson,,Canby Animal Meet,2012,4
+OREG,100 Y Individual Medley,SCY,M,55-59,1:05.38,Larry K Philbrick,,Canby Animal Meet,2012,1
+OREG,100 Y Individual Medley,SCY,M,55-59,1:15.30,Tom Phipps,,Chehalem SCY Meet,2012,2
+OREG,100 Y Individual Medley,SCY,M,55-59,1:31.27,Curtis B Williams,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Individual Medley,SCY,M,55-59,1:49.21,Charlie E Helm,,Canby Animal Meet,2012,4
+OREG,200 Y Individual Medley,SCY,M,55-59,2:42.75,Tom Phipps,,Canby Animal Meet,2012,1
+OREG,200 Y Individual Medley,SCY,M,55-59,3:01.64,Allen J Larson,,Canby Animal Meet,2012,2
+OREG,50 Y Freestyle,SCY,M,60-64,27.28,Bob A Bruce,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,60-64,28.02,Michael W Kelber,,2012 U.S. Masters Swimming Spring National Championship,2012,2
+OREG,50 Y Freestyle,SCY,M,60-64,29.21,Thomas M Macaulay,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Freestyle,SCY,M,60-64,1:06.55,Thomas M Macaulay,,Chehalem SCY Meet,2012,1
+OREG,100 Y Freestyle,SCY,M,60-64,1:07.29,Michael W Kelber,,Chehalem SCY Meet,2012,2
+OREG,200 Y Freestyle,SCY,M,60-64,2:32.91,Michael W Kelber,,Canby Animal Meet,2012,1
+OREG,200 Y Freestyle,SCY,M,60-64,2:33.99,Michael P Carew,,Chehalem SCY Meet,2012,2
+OREG,500 Y Freestyle,SCY,M,60-64,6:03.31,Bob A Bruce,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,500 Y Freestyle,SCY,M,60-64,6:44.29,Michael P Carew,,Chehalem SCY Meet,2012,2
+OREG,500 Y Freestyle,SCY,M,60-64,6:55.10,Daniel W Rueff,,Chehalem SCY Meet,2012,3
+OREG,500 Y Freestyle,SCY,M,60-64,7:12.16,Michael W Kelber,,2012 U.S. Masters Swimming Spring National Championship,2012,4
+OREG,1000 Y Freestyle,SCY,M,60-64,14:17.04,Michael P Carew,,Chehalem SCY Meet,2012,1
+OREG,1650 Y Freestyle,SCY,M,60-64,20:56.28,Bob A Bruce,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Backstroke,SCY,M,60-64,31.23,Bob A Bruce,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Backstroke,SCY,M,60-64,38.27,Thomas M Macaulay,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Backstroke,SCY,M,60-64,39.90,Michael W Kelber,,2012 U.S. Masters Swimming Spring National Championship,2012,3
+OREG,200 Y Backstroke,SCY,M,60-64,2:40.53,Bob A Bruce,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Breaststroke,SCY,M,60-64,31.14,Allen L Stark,,2012 Pacific Masters SCY Championships,2012,1
+OREG,50 Y Breaststroke,SCY,M,60-64,33.31,Pat Cotter,,Chehalem SCY Meet,2012,2
+OREG,50 Y Breaststroke,SCY,M,60-64,36.92,Bob A Bruce,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Breaststroke,SCY,M,60-64,39.34,Thomas M Macaulay,,Tualatin Hills Pentathlon,2012,4
+OREG,50 Y Breaststroke,SCY,M,60-64,40.13,Michael W Kelber,,Tualatin Hills Pentathlon,2012,5
+OREG,50 Y Breaststroke,SCY,M,60-64,42.33,Michael P Carew,,Chehalem SCY Meet,2012,6
+OREG,100 Y Breaststroke,SCY,M,60-64,1:08.56,Allen L Stark,,2012 Pacific Masters SCY Championships,2012,1
+OREG,100 Y Breaststroke,SCY,M,60-64,1:14.27,Pat Cotter,,Chehalem SCY Meet,2012,2
+OREG,200 Y Breaststroke,SCY,M,60-64,2:31.33,Allen L Stark,,2012 Pacific Masters SCY Championships,2012,1
+OREG,200 Y Breaststroke,SCY,M,60-64,2:39.39,Pat Cotter,,Chehalem SCY Meet,2012,2
+OREG,50 Y Butterfly,SCY,M,60-64,30.96,Bob A Bruce,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,60-64,35.24,Thomas M Macaulay,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,M,60-64,38.98,Michael W Kelber,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Individual Medley,SCY,M,60-64,1:10.74,Bob A Bruce,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,60-64,1:11.53,Pat Cotter,,Chehalem SCY Meet,2012,2
+OREG,100 Y Individual Medley,SCY,M,60-64,1:15.81,Thomas M Macaulay,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Individual Medley,SCY,M,60-64,1:19.49,Michael W Kelber,,2012 U.S. Masters Swimming Spring National Championship,2012,4
+OREG,100 Y Individual Medley,SCY,M,60-64,1:26.41,Michael P Carew,,Chehalem SCY Meet,2012,5
+OREG,400 Y Individual Medley,SCY,M,60-64,5:56.84,Bob A Bruce,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Freestyle,SCY,M,65-69,27.44,Tom Landis,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,65-69,27.49,Jon D Stout,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Freestyle,SCY,M,65-69,27.55,Robert S Smith,,2012 National YMCA Masters Championship,2012,3
+OREG,50 Y Freestyle,SCY,M,65-69,27.65,Bob Kehoe,,Chehalem SCY Meet,2012,4
+OREG,100 Y Freestyle,SCY,M,65-69,1:01.91,Bob Kehoe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Freestyle,SCY,M,65-69,1:03.17,Jon D Stout,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,M,65-69,1:04.71,Robert S Smith,,2012 National YMCA Masters Championship,2012,3
+OREG,100 Y Freestyle,SCY,M,65-69,1:12.71,Roy D Lambert,,Tualatin Hills Pentathlon,2012,4
+OREG,200 Y Freestyle,SCY,M,65-69,2:22.51,Bob Kehoe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,500 Y Freestyle,SCY,M,65-69,6:44.78,Bob Kehoe,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,500 Y Freestyle,SCY,M,65-69,7:10.19,Robert S Smith,,19th Annual Fort Lauderdale Masters Challenge,2012,2
+OREG,50 Y Backstroke,SCY,M,65-69,31.00,Robert S Smith,,2012 National YMCA Masters Championship,2012,1
+OREG,50 Y Backstroke,SCY,M,65-69,34.03,Jon D Stout,,Chehalem SCY Meet,2012,2
+OREG,50 Y Backstroke,SCY,M,65-69,35.96,Tom Landis,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Backstroke,SCY,M,65-69,1:11.07,Robert S Smith,,2012 National YMCA Masters Championship,2012,1
+OREG,50 Y Breaststroke,SCY,M,65-69,37.10,Jon D Stout,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,65-69,37.17,Robert S Smith,,2012 National YMCA Masters Championship,2012,2
+OREG,50 Y Breaststroke,SCY,M,65-69,38.28,Tom Landis,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Breaststroke,SCY,M,65-69,1:21.65,Robert S Smith,,2012 National YMCA Masters Championship,2012,1
+OREG,100 Y Breaststroke,SCY,M,65-69,1:25.34,Roy D Lambert,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Butterfly,SCY,M,65-69,30.06,Tom Landis,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,65-69,33.09,Jon D Stout,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,65-69,1:11.20,Jon D Stout,,Tualatin Hills Pentathlon,2012,1
+OREG,100 Y Individual Medley,SCY,M,65-69,1:11.30,Tom Landis,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,65-69,1:13.98,Robert S Smith,,2012 National YMCA Masters Championship,2012,3
+OREG,100 Y Individual Medley,SCY,M,65-69,1:22.43,Bob Kehoe,,Chehalem SCY Meet,2012,4
+OREG,200 Y Individual Medley,SCY,M,65-69,2:59.75,Bob Kehoe,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,M,70-74,26.54,Tom Landis,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Freestyle,SCY,M,70-74,29.02,Chris L Hiatt,,Chehalem SCY Meet,2012,2
+OREG,50 Y Freestyle,SCY,M,70-74,45.38,Jon Schieltz,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Freestyle,SCY,M,70-74,58.29,Tom Landis,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,200 Y Freestyle,SCY,M,70-74,2:08.68,Tom Landis,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,500 Y Freestyle,SCY,M,70-74,6:00.54,Tom Landis,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,1650 Y Freestyle,SCY,M,70-74,20:49.51,Tom Landis,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,50 Y Backstroke,SCY,M,70-74,34.58,Chris L Hiatt,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Backstroke,SCY,M,70-74,1:09.27,Jon Schieltz,,Tualatin Hills Pentathlon,2012,2
+OREG,50 Y Breaststroke,SCY,M,70-74,39.80,Chris L Hiatt,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,M,70-74,42.05,David J Keudell,,Chehalem SCY Meet,2012,2
+OREG,50 Y Breaststroke,SCY,M,70-74,1:01.87,Jon Schieltz,,Tualatin Hills Pentathlon,2012,3
+OREG,100 Y Breaststroke,SCY,M,70-74,1:36.86,David J Keudell,,Chehalem SCY Meet,2012,1
+OREG,200 Y Breaststroke,SCY,M,70-74,3:33.02,David J Keudell,,Chehalem SCY Meet,2012,1
+OREG,50 Y Butterfly,SCY,M,70-74,32.43,Chris L Hiatt,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Butterfly,SCY,M,70-74,58.75,Jon Schieltz,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,70-74,1:09.78,Tom Landis,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Individual Medley,SCY,M,70-74,1:14.25,Chris L Hiatt,,Tualatin Hills Pentathlon,2012,2
+OREG,100 Y Individual Medley,SCY,M,70-74,2:11.59,Jon Schieltz,,Tualatin Hills Pentathlon,2012,3
+OREG,50 Y Freestyle,SCY,M,75-79,32.25,George D Thayer,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+OREG,100 Y Freestyle,SCY,M,75-79,1:21.47,Bill King,,2012 Steve Engle Memorial PNA Championship Meet,2012,1
+OREG,200 Y Freestyle,SCY,M,75-79,2:26.23,David A Radcliff,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+OREG,200 Y Freestyle,SCY,M,75-79,3:06.12,Bill King,,2012 Steve Engle Memorial PNA Championship Meet,2012,2
+OREG,500 Y Freestyle,SCY,M,75-79,6:17.18,David A Radcliff,,Chehalem SCY Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,75-79,13:06.24,David A Radcliff,,Chehalem SCY Meet,2012,1
+OREG,1000 Y Freestyle,SCY,M,75-79,18:26.10,Bill King,,2012 Steve Engle Memorial PNA Championship Meet,2012,2
+OREG,1650 Y Freestyle,SCY,M,75-79,23:16.52,David A Radcliff,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+OREG,50 Y Backstroke,SCY,M,75-79,38.68,George D Thayer,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+OREG,100 Y Backstroke,SCY,M,75-79,1:26.66,George D Thayer,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+OREG,200 Y Backstroke,SCY,M,75-79,3:16.00,George D Thayer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Breaststroke,SCY,M,75-79,41.96,George D Thayer,,2012 U.S. Masters Swimming Spring National Championship,2012,1
+OREG,100 Y Breaststroke,SCY,M,75-79,1:45.66,George D Thayer,,Chehalem SCY Meet,2012,1
+OREG,100 Y Individual Medley,SCY,M,75-79,1:35.67,George D Thayer,,Tualatin Hills Pentathlon,2012,1
+OREG,50 Y Freestyle,SCY,M,80-84,34.11,Milton R Marks,,Chehalem SCY Meet,2012,1
+OREG,50 Y Freestyle,SCY,M,80-84,54.84,Michael Popovich,,Chehalem SCY Meet,2012,2
+OREG,100 Y Freestyle,SCY,M,80-84,2:07.61,Michael Popovich,,Chehalem SCY Meet,2012,1
+OREG,50 Y Backstroke,SCY,M,80-84,43.98,Milton R Marks,,Chehalem SCY Meet,2012,1
+OREG,50 Y Breaststroke,SCY,M,80-84,43.82,Milton R Marks,,Chehalem SCY Meet,2012,1
+OREG,100 Y Individual Medley,SCY,M,80-84,1:35.90,Milton R Marks,,Chehalem SCY Meet,2012,1
+SWMS,50 Y Freestyle,SCY,W,35-39,36.80,Katy Myers,,Tualatin Hills Pentathlon,2012,1
+SWMS,50 Y Backstroke,SCY,W,35-39,49.01,Katy Myers,,Tualatin Hills Pentathlon,2012,1
+SWMS,50 Y Breaststroke,SCY,W,35-39,50.20,Katy Myers,,Tualatin Hills Pentathlon,2012,1
+SWMS,50 Y Butterfly,SCY,W,35-39,44.22,Katy Myers,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Individual Medley,SCY,W,35-39,1:39.70,Katy Myers,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Freestyle,SCY,W,50-54,1:08.57,Nancy C Vincent,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Backstroke,SCY,W,50-54,1:34.49,Nancy C Vincent,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Breaststroke,SCY,W,50-54,1:24.63,Nancy C Vincent,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Butterfly,SCY,W,50-54,1:22.22,Nancy C Vincent,,Tualatin Hills Pentathlon,2012,1
+SWMS,200 Y Individual Medley,SCY,W,50-54,2:56.42,Nancy C Vincent,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Freestyle,SCY,W,65-69,1:27.47,Joan D Delgado,,BEAT THE CLOCK,2012,1
+SWMS,1650 Y Freestyle,SCY,W,65-69,28:05.57,Joan D Delgado,,BEAT THE CLOCK,2012,1
+SWMS,50 Y Freestyle,SCY,M,30-34,25.04,Jonathan G Matthews,,2012 Steve Engle Memorial PNA Championship Meet,2012,1
+SWMS,100 Y Freestyle,SCY,M,30-34,55.37,Jonathan G Matthews,,2012 Steve Engle Memorial PNA Championship Meet,2012,1
+SWMS,200 Y Freestyle,SCY,M,30-34,2:01.25,Jonathan G Matthews,,2012 Steve Engle Memorial PNA Championship Meet,2012,1
+SWMS,500 Y Freestyle,SCY,M,30-34,5:48.49,Jonathan G Matthews,,2012 Steve Engle Memorial PNA Championship Meet,2012,1
+SWMS,50 Y Freestyle,SCY,M,50-54,27.04,Richard K Howell,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Freestyle,SCY,M,50-54,1:00.73,Richard K Howell,,Chehalem SCY Meet,2012,1
+SWMS,50 Y Backstroke,SCY,M,50-54,35.02,Richard K Howell,,Tualatin Hills Pentathlon,2012,1
+SWMS,50 Y Breaststroke,SCY,M,50-54,31.64,Richard K Howell,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,100 Y Breaststroke,SCY,M,50-54,1:11.52,Richard K Howell,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,200 Y Breaststroke,SCY,M,50-54,2:39.37,Richard K Howell,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,50 Y Butterfly,SCY,M,50-54,29.86,Richard K Howell,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Individual Medley,SCY,M,50-54,1:08.08,Richard K Howell,,Tualatin Hills Pentathlon,2012,1
+SWMS,200 Y Individual Medley,SCY,M,50-54,2:30.24,Richard K Howell,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,50 Y Freestyle,SCY,M,55-59,24.72,Wes Edwards,,Tualatin Hills Pentathlon,2012,1
+SWMS,50 Y Backstroke,SCY,M,55-59,28.59,Wes Edwards,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,100 Y Backstroke,SCY,M,55-59,1:01.09,Wes Edwards,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,200 Y Backstroke,SCY,M,55-59,2:13.27,Wes Edwards,,Inland NW LMSC &amp; NW Zone SCY Championships,2012,1
+SWMS,50 Y Breaststroke,SCY,M,55-59,35.32,Wes Edwards,,Tualatin Hills Pentathlon,2012,1
+SWMS,50 Y Butterfly,SCY,M,55-59,30.01,Wes Edwards,,Tualatin Hills Pentathlon,2012,1
+SWMS,100 Y Individual Medley,SCY,M,55-59,1:03.64,Wes Edwards,,Tualatin Hills Pentathlon,2012,1
+UNAT,500 Y Freestyle,SCY,W,18-24,5:48.41,Anna M Kralovec,,Canby Animal Meet,2012,1
+UNAT,100 Y Butterfly,SCY,W,18-24,1:08.31,Anna M Kralovec,,Canby Animal Meet,2012,1
+UNAT,200 Y Individual Medley,SCY,W,18-24,2:32.92,Anna M Kralovec,,Canby Animal Meet,2012,1
+UNAT,50 Y Freestyle,SCY,M,45-49,25.87,Gary May,,Chehalem SCY Meet,2012,1
+UNAT,50 Y Freestyle,SCY,M,45-49,28.30,Craig J Wilson,,Tualatin Hills Pentathlon,2012,2
+UNAT,100 Y Freestyle,SCY,M,45-49,59.20,Gary May,,Chehalem SCY Meet,2012,1
+UNAT,200 Y Freestyle,SCY,M,45-49,2:18.39,Gary May,,Canby Animal Meet,2012,1
+UNAT,50 Y Backstroke,SCY,M,45-49,35.87,Craig J Wilson,,Tualatin Hills Pentathlon,2012,1
+UNAT,50 Y Breaststroke,SCY,M,45-49,37.67,Craig J Wilson,,Tualatin Hills Pentathlon,2012,1
+UNAT,50 Y Butterfly,SCY,M,45-49,29.30,Gary May,,Canby Animal Meet,2012,1
+UNAT,50 Y Butterfly,SCY,M,45-49,31.19,Craig J Wilson,,Tualatin Hills Pentathlon,2012,2
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:10.29,Gary May,,Canby Animal Meet,2012,1
+UNAT,100 Y Individual Medley,SCY,M,45-49,1:14.59,Craig J Wilson,,Tualatin Hills Pentathlon,2012,2
+UNAT,50 Y Freestyle,SCY,M,50-54,29.09,Roland E Wanzenried,,Tualatin Hills Pentathlon,2012,1
+UNAT,200 Y Freestyle,SCY,M,50-54,2:27.62,Roland E Wanzenried,,Canby Animal Meet,2012,1
+UNAT,50 Y Backstroke,SCY,M,50-54,42.67,Roland E Wanzenried,,Tualatin Hills Pentathlon,2012,1
+UNAT,50 Y Breaststroke,SCY,M,50-54,40.25,Roland E Wanzenried,,Tualatin Hills Pentathlon,2012,1
+UNAT,50 Y Butterfly,SCY,M,50-54,34.55,Roland E Wanzenried,,Tualatin Hills Pentathlon,2012,1
+UNAT,100 Y Individual Medley,SCY,M,50-54,1:19.45,Roland E Wanzenried,,Tualatin Hills Pentathlon,2012,1
+UNAT,500 Y Freestyle,SCY,M,65-69,8:45.86,John Foges,,Chehalem SCY Meet,2012,1
+UNAT,1000 Y Freestyle,SCY,M,65-69,17:59.55,John Foges,,Chehalem SCY Meet,2012,1
+UNAT,1650 Y Freestyle,SCY,M,65-69,33:40.86,Jerry Balser,,Arizona Senior Olympics,2012,1
