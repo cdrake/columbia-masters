@@ -1,0 +1,575 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+OREG,50 M Freestyle,SCM,W,25-29,29.46,Briana M Balsbough,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Freestyle,SCM,W,25-29,1:17.37,Anna B Davidson,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,25-29,35.30,Briana M Balsbough,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,25-29,37.45,Victoria L Vanderpoel,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Backstroke,SCM,W,25-29,2:42.85,Victoria L Vanderpoel,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,25-29,36.31,Briana M Balsbough,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,W,25-29,1:47.83,Anna B Davidson,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,25-29,32.49,Briana M Balsbough,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,25-29,34.80,Victoria L Vanderpoel,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Butterfly,SCM,W,25-29,41.19,Anna B Davidson,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Butterfly,SCM,W,25-29,3:15.05,Victoria L Vanderpoel,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,25-29,1:18.04,Victoria L Vanderpoel,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Individual Medley,SCM,W,25-29,6:07.88,Victoria L Vanderpoel,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,W,30-34,29.10,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,W,30-34,30.97,Valerie Madden,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,W,30-34,36.72,Aquilegia Leet,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Freestyle,SCM,W,30-34,37.31,Geneva Olson,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Freestyle,SCM,W,30-34,38.14,Jaquie Bruechert,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,50 M Freestyle,SCM,W,30-34,39.08,Leah J Guliasi,,1st Annual Nationwide Pentathlon Championship (SCM),2024,6
+OREG,100 M Freestyle,SCM,W,30-34,1:03.05,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Freestyle,SCM,W,30-34,1:21.26,Geneva Olson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,W,30-34,1:22.08,Aquilegia Leet,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Freestyle,SCM,W,30-34,2:29.35,Kayla Lankford,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,30-34,2:56.01,Geneva Olson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Freestyle,SCM,W,30-34,3:06.66,Aquilegia Leet,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,400 M Freestyle,SCM,W,30-34,5:24.11,Kayla Lankford,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,30-34,5:26.54,Carolyn Bernhardt,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,800 M Freestyle,SCM,W,30-34,9:57.59,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,1500 M Freestyle,SCM,W,30-34,18:52.86,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Backstroke,SCM,W,30-34,32.18,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Backstroke,SCM,W,30-34,35.11,Carolyn Bernhardt,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Backstroke,SCM,W,30-34,36.97,Kayla Lankford,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Backstroke,SCM,W,30-34,49.75,Leah J Guliasi,,1st Annual Nationwide Pentathlon Championship (SCM),2024,4
+OREG,100 M Backstroke,SCM,W,30-34,1:08.63,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Backstroke,SCM,W,30-34,1:18.71,Kayla Lankford,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Backstroke,SCM,W,30-34,2:26.32,Ilsa Feierabend,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Breaststroke,SCM,W,30-34,40.28,Valerie Madden,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,30-34,40.79,Ilsa Feierabend,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Breaststroke,SCM,W,30-34,46.34,Aquilegia Leet,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Breaststroke,SCM,W,30-34,48.45,Leah J Guliasi,,1st Annual Nationwide Pentathlon Championship (SCM),2024,4
+OREG,50 M Breaststroke,SCM,W,30-34,52.53,Jaquie Bruechert,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,100 M Breaststroke,SCM,W,30-34,1:27.57,Ilsa Feierabend,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Breaststroke,SCM,W,30-34,1:37.03,Ava C Williams,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Breaststroke,SCM,W,30-34,1:41.84,Aquilegia Leet,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Breaststroke,SCM,W,30-34,3:30.82,Ava C Williams,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,30-34,35.37,Kayla Lankford,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,30-34,42.26,Geneva Olson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Butterfly,SCM,W,30-34,44.16,Leah J Guliasi,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,100 M Butterfly,SCM,W,30-34,1:12.04,Ilsa Feierabend,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,W,30-34,1:21.03,Kayla Lankford,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,30-34,1:21.20,Ava C Williams,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,30-34,1:43.08,Leah J Guliasi,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,200 M Individual Medley,SCM,W,30-34,2:37.22,Ilsa Feierabend,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,200 M Individual Medley,SCM,W,30-34,2:51.17,Carolyn Bernhardt,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,W,35-39,29.66,Alyson E Wilson,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,35-39,30.21,Jessica L Stacy,,2024 SPMS SCM Championships,2024,2
+OREG,50 M Freestyle,SCM,W,35-39,30.64,Julie Baker,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Freestyle,SCM,W,35-39,33.20,Megan Tosh,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Freestyle,SCM,W,35-39,33.29,April Isa,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,50 M Freestyle,SCM,W,35-39,33.48,Victoria Sise,,Oregon City Spring Ahead SCM Meet,2024,6
+OREG,50 M Freestyle,SCM,W,35-39,36.45,Melisa Wells,,Oregon City Spring Ahead SCM Meet,2024,7
+OREG,100 M Freestyle,SCM,W,35-39,1:07.31,Julie Baker,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Freestyle,SCM,W,35-39,1:18.15,April Isa,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,W,35-39,1:25.26,Melisa Wells,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Freestyle,SCM,W,35-39,2:39.39,Megan Tosh,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,35-39,3:19.51,Tamra Heberling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,400 M Freestyle,SCM,W,35-39,5:29.46,Julie Baker,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,35-39,5:44.69,Megan Tosh,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Backstroke,SCM,W,35-39,34.54,Alyson E Wilson,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Backstroke,SCM,W,35-39,50.76,Melisa Wells,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,W,35-39,1:39.62,April Isa,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,W,35-39,1:58.73,Melisa Wells,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Backstroke,SCM,W,35-39,3:37.99,Tamra Heberling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Breaststroke,SCM,W,35-39,38.20,Lauren I Wikholm,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,35-39,38.57,Jessica L Stacy,,2024 SPMS SCM Championships,2024,2
+OREG,50 M Breaststroke,SCM,W,35-39,43.85,April Isa,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Breaststroke,SCM,W,35-39,45.65,Victoria Sise,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Breaststroke,SCM,W,35-39,48.45,Alyson E Wilson,,1st Annual Nationwide Pentathlon Championship (SCM),2024,5
+OREG,50 M Breaststroke,SCM,W,35-39,1:02.94,Melisa Wells,,Oregon City Spring Ahead SCM Meet,2024,6
+OREG,100 M Breaststroke,SCM,W,35-39,1:24.35,Jessica L Stacy,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Breaststroke,SCM,W,35-39,1:42.99,April Isa,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Breaststroke,SCM,W,35-39,3:07.91,Jessica L Stacy,,2024 SPMS SCM Championships,2024,1
+OREG,200 M Breaststroke,SCM,W,35-39,3:13.02,Lauren I Wikholm,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Breaststroke,SCM,W,35-39,4:19.93,Tamra Heberling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,50 M Butterfly,SCM,W,35-39,33.21,Alyson E Wilson,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Butterfly,SCM,W,35-39,34.10,Julie Baker,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Butterfly,SCM,W,35-39,37.57,April Isa,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Butterfly,SCM,W,35-39,1:17.47,Julie Baker,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Butterfly,SCM,W,35-39,4:34.66,Tamra Heberling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,W,35-39,1:13.44,Jessica L Stacy,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Individual Medley,SCM,W,35-39,1:18.58,Julie Baker,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,35-39,1:19.85,Alyson E Wilson,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,100 M Individual Medley,SCM,W,35-39,1:52.03,Melisa Wells,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,400 M Individual Medley,SCM,W,35-39,8:03.87,Tamra Heberling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,40-44,28.78,Lex Higlett,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,W,40-44,28.79,Leslie A Kragt,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,W,40-44,28.91,Sara Shepherd,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Freestyle,SCM,W,40-44,31.42,Shannon F Cowles,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Freestyle,SCM,W,40-44,32.29,Anna Thames,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,100 M Freestyle,SCM,W,40-44,1:01.26,Leslie A Kragt,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Freestyle,SCM,W,40-44,1:03.42,Lex Higlett,,NSW SC championship,2024,2
+OREG,100 M Freestyle,SCM,W,40-44,1:12.03,Elise J Mahoney,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Freestyle,SCM,W,40-44,2:16.08,Leslie A Kragt,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,40-44,2:19.69,Lex Higlett,,2024 SPMS SCM Championships,2024,2
+OREG,200 M Freestyle,SCM,W,40-44,2:29.28,Shannon F Cowles,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Freestyle,SCM,W,40-44,2:37.31,Anna Thames,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,400 M Freestyle,SCM,W,40-44,5:24.22,Elise J Mahoney,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,40-44,5:26.66,Shannon F Cowles,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,400 M Freestyle,SCM,W,40-44,6:05.64,Michelle J Cary,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Backstroke,SCM,W,40-44,31.71,Sara Shepherd,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,40-44,38.10,Elise J Mahoney,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Backstroke,SCM,W,40-44,38.67,Michelle J Cary,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Backstroke,SCM,W,40-44,1:07.56,Sara Shepherd,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,W,40-44,1:13.09,Leslie A Kragt,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,W,40-44,1:20.12,Elise J Mahoney,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Backstroke,SCM,W,40-44,1:26.04,Michelle J Cary,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,200 M Backstroke,SCM,W,40-44,2:25.28,Sara Shepherd,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,W,40-44,2:37.76,Lex Higlett,,NSW SC championship,2024,2
+OREG,200 M Backstroke,SCM,W,40-44,2:47.13,Elise J Mahoney,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Backstroke,SCM,W,40-44,3:11.62,Michelle J Cary,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Breaststroke,SCM,W,40-44,34.98,Leslie A Kragt,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,40-44,38.68,Shannon F Cowles,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Breaststroke,SCM,W,40-44,41.39,Anna Thames,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Breaststroke,SCM,W,40-44,46.96,Michelle J Cary,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,100 M Breaststroke,SCM,W,40-44,1:16.44,Leslie A Kragt,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,W,40-44,1:31.71,Anna Thames,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Butterfly,SCM,W,40-44,34.68,Lex Higlett,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Butterfly,SCM,W,40-44,1:15.18,Lex Higlett,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Butterfly,SCM,W,40-44,1:17.94,Shannon F Cowles,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,40-44,1:09.62,Sara Shepherd,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,40-44,1:22.69,Anna Thames,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,40-44,1:29.38,Michelle J Cary,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Individual Medley,SCM,W,40-44,2:30.68,Sara Shepherd,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,W,40-44,2:42.88,Lex Higlett,,NSW SC championship,2024,2
+OREG,400 M Individual Medley,SCM,W,40-44,5:39.03,Lex Higlett,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,W,45-49,31.67,Maresa Jackson,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,W,45-49,39.71,Sandra K Golden,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,W,45-49,50.53,Emily Grassman,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Freestyle,SCM,W,45-49,1:08.32,Stacey L Kiefer,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Freestyle,SCM,W,45-49,1:12.16,Stacey L Ostrin,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,W,45-49,1:31.00,Sandra K Golden,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Freestyle,SCM,W,45-49,2:31.68,Maresa Jackson,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,45-49,5:27.25,Stacey L Ostrin,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,45-49,37.26,Stacey L Ostrin,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,45-49,1:03.53,Emily Grassman,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,W,45-49,1:17.57,Stacey L Kiefer,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Backstroke,SCM,W,45-49,1:19.34,Stacey L Ostrin,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,W,45-49,1:19.75,Maresa Jackson,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Backstroke,SCM,W,45-49,2:47.03,Stacey L Ostrin,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,45-49,40.00,Sonja Skinner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,45-49,47.73,Sandra K Golden,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Breaststroke,SCM,W,45-49,1:03.03,Emily Grassman,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Breaststroke,SCM,W,45-49,1:25.38,Sonja Skinner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,W,45-49,1:29.44,Stacey L Kiefer,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Breaststroke,SCM,W,45-49,1:47.62,Sandra K Golden,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Breaststroke,SCM,W,45-49,3:07.31,Sonja Skinner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,45-49,32.86,Sonja Skinner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,45-49,58.79,Emily Grassman,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,W,45-49,1:13.70,Stacey L Kiefer,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Butterfly,SCM,W,45-49,1:15.63,Sonja Skinner,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,W,45-49,2:06.88,Emily Grassman,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Individual Medley,SCM,W,45-49,1:17.99,Sonja Skinner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,45-49,1:48.19,Sandra K Golden,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,45-49,2:05.91,Emily Grassman,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Individual Medley,SCM,W,45-49,2:48.49,Stacey L Kiefer,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,50-54,29.19,Christine M Mcclafferty,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,W,50-54,30.10,Beth Martell,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,W,50-54,35.01,Jenna Gretsch,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Freestyle,SCM,W,50-54,44.01,Diane H Kono,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Freestyle,SCM,W,50-54,1:06.48,Kristina L Franklin,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,100 M Freestyle,SCM,W,50-54,1:06.71,Christine M Mcclafferty,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Freestyle,SCM,W,50-54,1:23.76,Jenna Gretsch,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,W,50-54,1:39.81,Diane H Kono,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Freestyle,SCM,W,50-54,2:32.40,Christine M Mcclafferty,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,200 M Freestyle,SCM,W,50-54,3:42.19,Diane H Kono,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,400 M Freestyle,SCM,W,50-54,4:59.70,Christine M Mcclafferty,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,800 M Freestyle,SCM,W,50-54,10:24.15,Christine M Mcclafferty,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,1500 M Freestyle,SCM,W,50-54,19:36.98,Christine M Mcclafferty,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,50 M Backstroke,SCM,W,50-54,34.18,Christine M Mcclafferty,,TACM Fall Kick-Off,2024,1
+OREG,50 M Backstroke,SCM,W,50-54,58.57,Diane H Kono,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Backstroke,SCM,W,50-54,1:12.14,Kristina L Franklin,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Backstroke,SCM,W,50-54,1:14.95,Christine M Mcclafferty,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,W,50-54,2:41.67,Christine M Mcclafferty,,TACM Fall Kick-Off,2024,1
+OREG,50 M Breaststroke,SCM,W,50-54,38.55,Christine M Mcclafferty,,TACM Fall Kick-Off,2024,1
+OREG,50 M Breaststroke,SCM,W,50-54,40.20,Beth Martell,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Breaststroke,SCM,W,50-54,47.16,Jenna Gretsch,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Breaststroke,SCM,W,50-54,1:04.75,Diane H Kono,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Breaststroke,SCM,W,50-54,1:33.64,Kristina L Franklin,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,100 M Breaststroke,SCM,W,50-54,1:22.96,Christine M Mcclafferty,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Breaststroke,SCM,W,50-54,1:45.23,Jenna Gretsch,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Breaststroke,SCM,W,50-54,2:17.88,Diane H Kono,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Butterfly,SCM,W,50-54,30.39,Christine M Mcclafferty,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Butterfly,SCM,W,50-54,1:27.41,Kristina L Franklin,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,W,50-54,1:07.75,Christine M Mcclafferty,,2024 SPMS SCM Championships,2024,1
+OREG,200 M Butterfly,SCM,W,50-54,2:34.94,Christine M Mcclafferty,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,50-54,1:13.36,Christine M Mcclafferty,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,50-54,1:39.15,Jenna Gretsch,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,50-54,2:46.52,Kristina L Franklin,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Individual Medley,SCM,W,50-54,2:40.69,Beth Martell,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,W,50-54,2:40.98,Christine M Mcclafferty,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,2
+OREG,50 M Freestyle,SCM,W,55-59,30.06,Jill M Asch,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,50 M Freestyle,SCM,W,55-59,32.43,Francie Haffner,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Freestyle,SCM,W,55-59,33.35,Cheryl A Morgen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,50 M Freestyle,SCM,W,55-59,35.59,Gillian G Salton,,1st Annual Nationwide Pentathlon Championship (SCM),2024,4
+OREG,50 M Freestyle,SCM,W,55-59,48.84,Mary Ann Decker,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,100 M Freestyle,SCM,W,55-59,1:37.27,Laurie J Kilbourn,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,55-59,2:31.47,Francie Haffner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,55-59,3:15.00,Angela Fadlovich,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,400 M Freestyle,SCM,W,55-59,5:49.26,Jayette R Pettit,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,55-59,5:58.38,Cheryl A Morgen,,TACM Fall Kick-Off,2024,2
+OREG,400 M Freestyle,SCM,W,55-59,6:49.27,Angela Fadlovich,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,800 M Freestyle,SCM,W,55-59,12:10.51,Cheryl A Morgen,,TACM Fall Kick-Off,2024,1
+OREG,50 M Backstroke,SCM,W,55-59,35.88,Francie Haffner,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Backstroke,SCM,W,55-59,39.96,Gillian G Salton,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Backstroke,SCM,W,55-59,41.25,Cheryl A Morgen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,50 M Backstroke,SCM,W,55-59,42.58,Britta M Daubersmith,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Backstroke,SCM,W,55-59,55.11,Mary Ann Decker,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,100 M Backstroke,SCM,W,55-59,1:17.80,Francie Haffner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,W,55-59,2:48.75,Francie Haffner,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,W,55-59,3:17.68,Britta M Daubersmith,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Breaststroke,SCM,W,55-59,39.65,Jill M Asch,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,50 M Breaststroke,SCM,W,55-59,44.99,Francie Haffner,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Breaststroke,SCM,W,55-59,45.48,Cheryl A Morgen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,50 M Breaststroke,SCM,W,55-59,48.15,Jayette R Pettit,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,50 M Breaststroke,SCM,W,55-59,49.42,Gillian G Salton,,1st Annual Nationwide Pentathlon Championship (SCM),2024,5
+OREG,50 M Breaststroke,SCM,W,55-59,53.74,Mary Ann Decker,,Oregon City Spring Ahead SCM Meet,2024,6
+OREG,100 M Breaststroke,SCM,W,55-59,2:02.76,Laurie J Kilbourn,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Breaststroke,SCM,W,55-59,3:32.71,Jayette R Pettit,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,55-59,33.87,Jill M Asch,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,50 M Butterfly,SCM,W,55-59,34.82,Cheryl A Morgen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Butterfly,SCM,W,55-59,36.58,Francie Haffner,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,50 M Butterfly,SCM,W,55-59,42.40,Gillian G Salton,,1st Annual Nationwide Pentathlon Championship (SCM),2024,4
+OREG,50 M Butterfly,SCM,W,55-59,47.16,Laurie J Kilbourn,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,50 M Butterfly,SCM,W,55-59,56.80,Mary Ann Decker,,Oregon City Spring Ahead SCM Meet,2024,6
+OREG,100 M Butterfly,SCM,W,55-59,1:59.19,Angela Fadlovich,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Butterfly,SCM,W,55-59,2:09.21,Mary Ann Decker,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,55-59,1:18.28,Jill M Asch,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,100 M Individual Medley,SCM,W,55-59,1:20.53,Francie Haffner,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,W,55-59,1:27.25,Cheryl A Morgen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,100 M Individual Medley,SCM,W,55-59,1:33.49,Britta M Daubersmith,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,100 M Individual Medley,SCM,W,55-59,1:35.22,Gillian G Salton,,1st Annual Nationwide Pentathlon Championship (SCM),2024,5
+OREG,100 M Individual Medley,SCM,W,55-59,1:52.70,Laurie J Kilbourn,,Oregon City Spring Ahead SCM Meet,2024,6
+OREG,100 M Individual Medley,SCM,W,55-59,1:58.27,Mary Ann Decker,,Oregon City Spring Ahead SCM Meet,2024,7
+OREG,200 M Individual Medley,SCM,W,55-59,2:55.88,Jill M Asch,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,200 M Individual Medley,SCM,W,55-59,4:05.77,Angela Fadlovich,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,400 M Individual Medley,SCM,W,55-59,6:13.74,Jill M Asch,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,50 M Freestyle,SCM,W,60-64,32.52,Cherie L Touchette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,60-64,46.07,Christina M Fox,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Backstroke,SCM,W,60-64,41.11,Cherie L Touchette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Backstroke,SCM,W,60-64,52.13,Christina M Fox,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,200 M Backstroke,SCM,W,60-64,3:15.31,Arlene Delmage,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,50 M Breaststroke,SCM,W,60-64,47.17,Cherie L Touchette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Breaststroke,SCM,W,60-64,56.12,Christina M Fox,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Breaststroke,SCM,W,60-64,1:35.36,Arlene Delmage,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,50 M Butterfly,SCM,W,60-64,34.02,Arlene Delmage,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,50 M Butterfly,SCM,W,60-64,36.95,Cherie L Touchette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Butterfly,SCM,W,60-64,1:17.87,Arlene Delmage,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,200 M Butterfly,SCM,W,60-64,2:54.96,Arlene Delmage,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,100 M Individual Medley,SCM,W,60-64,1:27.43,Cherie L Touchette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,65-69,33.26,Karen Andrus-Hughes,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,65-69,37.12,Nancy C Vincent,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,400 M Freestyle,SCM,W,65-69,6:35.35,Nancy C Vincent,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,65-69,36.85,Karen Andrus-Hughes,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,W,65-69,53.13,Nancy C Vincent,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Backstroke,SCM,W,65-69,1:22.12,Karen Andrus-Hughes,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,65-69,45.68,Nancy C Vincent,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,65-69,49.64,Karen Andrus-Hughes,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Breaststroke,SCM,W,65-69,1:40.94,Nancy C Vincent,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Breaststroke,SCM,W,65-69,3:42.51,Nancy C Vincent,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,65-69,39.75,Karen Andrus-Hughes,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Butterfly,SCM,W,65-69,42.45,Nancy C Vincent,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Individual Medley,SCM,W,65-69,1:26.21,Karen Andrus-Hughes,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,W,65-69,1:35.99,Nancy C Vincent,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,W,70-74,1:33.79,Jeanna Summers,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,200 M Freestyle,SCM,W,70-74,3:15.33,Jeanna Summers,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,70-74,6:50.29,Jeanna Summers,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,800 M Freestyle,SCM,W,70-74,13:58.67,Jeanna Summers,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,1500 M Freestyle,SCM,W,70-74,26:04.88,Jeanna Summers,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,100 M Backstroke,SCM,W,70-74,1:32.31,Evie Lynch,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,W,70-74,1:38.69,Jeanna Summers,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Backstroke,SCM,W,70-74,3:31.65,Jeanna Summers,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,W,70-74,51.35,Evie Lynch,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,W,70-74,2:17.11,Jeanna Summers,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Butterfly,SCM,W,70-74,2:10.61,Jeanna Summers,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,200 M Individual Medley,SCM,W,70-74,3:23.78,Evie Lynch,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,W,70-74,4:02.42,Jeanna Summers,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,400 M Individual Medley,SCM,W,70-74,8:13.80,Jeanna Summers,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,W,75-79,39.61,Janet Gettling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,75-79,51.10,Sylvia A Grant,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,W,75-79,1:41.17,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,75-79,3:31.31,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,75-79,4:21.66,Sylvia A Grant,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,400 M Freestyle,SCM,W,75-79,7:10.54,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,75-79,8:57.92,Sylvia A Grant,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Backstroke,SCM,W,75-79,49.36,Janet Gettling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Backstroke,SCM,W,75-79,1:18.03,Sylvia A Grant,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,W,75-79,2:40.50,Carol R Stark,,MSABC provincial Championships,2024,1
+OREG,200 M Backstroke,SCM,W,75-79,5:38.20,Carol R Stark,,MSABC provincial Championships,2024,1
+OREG,50 M Breaststroke,SCM,W,75-79,49.72,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,W,75-79,1:53.40,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,W,75-79,50.19,Janet Gettling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Butterfly,SCM,W,75-79,1:16.27,Sylvia A Grant,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,W,75-79,1:55.64,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Butterfly,SCM,W,75-79,4:12.26,Janet Gettling,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,75-79,1:45.65,Janet Gettling,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,W,80-84,44.93,Joy Ward,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Freestyle,SCM,W,80-84,1:45.71,Joy Ward,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,W,80-84,4:32.22,Judy Ziemer,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,W,80-84,8:59.87,Judy Ziemer,,Huntsman World Senior Games,2024,1
+OREG,50 M Backstroke,SCM,W,80-84,50.25,Joy Ward,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Breaststroke,SCM,W,80-84,1:03.43,Joy Ward,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Butterfly,SCM,W,80-84,57.34,Joy Ward,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Butterfly,SCM,W,80-84,2:45.50,Joy Ward,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,W,80-84,1:56.59,Joy Ward,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,200 M Individual Medley,SCM,W,80-84,4:15.64,Joy Ward,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,25-29,27.56,Martin Toney,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,M,25-29,27.63,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,2
+OREG,100 M Freestyle,SCM,M,25-29,59.06,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,100 M Freestyle,SCM,M,25-29,1:00.86,Martin Toney,,2024 SPMS SCM Championships,2024,2
+OREG,200 M Freestyle,SCM,M,25-29,2:07.52,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,200 M Freestyle,SCM,M,25-29,2:13.46,Martin Toney,,2024 SPMS SCM Championships,2024,2
+OREG,400 M Freestyle,SCM,M,25-29,4:31.47,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,1500 M Freestyle,SCM,M,25-29,18:06.05,Evan Edwards,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,100 M Backstroke,SCM,M,25-29,1:08.33,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,200 M Backstroke,SCM,M,25-29,2:23.97,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,50 M Butterfly,SCM,M,25-29,29.60,Martin Toney,,2024 SPMS SCM Championships,2024,1
+OREG,200 M Individual Medley,SCM,M,25-29,2:33.71,Evan Edwards,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Individual Medley,SCM,M,25-29,5:22.80,Evan Edwards,,2024 Ron Johnson Invitational Arizona State Championship SW Zone Championship SCM Meet and Ultra Distance Extravaganza,2024,1
+OREG,50 M Freestyle,SCM,M,30-34,25.76,Jake P Yraceburu,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Freestyle,SCM,M,30-34,59.55,Jake P Yraceburu,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,M,30-34,5:15.37,Grant D Aldred,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,30-34,32.40,Jake P Yraceburu,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,M,30-34,1:13.95,Jake P Yraceburu,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,30-34,28.03,Jake P Yraceburu,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,30-34,31.75,Grant D Aldred,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,M,30-34,1:14.41,Grant D Aldred,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Butterfly,SCM,M,30-34,2:44.13,Grant D Aldred,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,M,30-34,2:33.63,Jake P Yraceburu,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Individual Medley,SCM,M,30-34,5:57.98,Grant D Aldred,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,35-39,28.26,Cameron J Wynhof,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,35-39,29.41,Zachary Divilbiss,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,M,35-39,1:03.59,Cameron J Wynhof,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,M,35-39,2:34.90,Zachary Divilbiss,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,M,35-39,5:20.58,Cameron J Wynhof,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,M,35-39,1:15.45,Cameron J Wynhof,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,M,35-39,2:44.57,Cameron J Wynhof,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,M,35-39,1:15.60,Cameron J Wynhof,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,40-44,27.50,Jonathan D Wildi,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,40-44,30.30,Patrick J Donnelly,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,M,40-44,1:08.93,Patrick J Donnelly,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,M,40-44,4:54.87,Jonathan D Wildi,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,1500 M Freestyle,SCM,M,40-44,27:08.98,Patrick Aitchison,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,100 M Breaststroke,SCM,M,40-44,1:15.09,Jonathan D Wildi,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,40-44,29.45,Jonathan D Wildi,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,40-44,32.42,Patrick J Donnelly,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,M,40-44,1:21.61,Patrick J Donnelly,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,M,40-44,1:07.30,Jonathan D Wildi,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,M,40-44,1:20.23,Patrick J Donnelly,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Individual Medley,SCM,M,40-44,2:26.57,Jonathan D Wildi,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,M,40-44,2:56.74,Patrick J Donnelly,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,M,45-49,28.90,David Kilburn,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,45-49,29.68,Aaron Hawkins,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,M,45-49,1:02.92,James A Adams,,2024 February Flurry,2024,1
+OREG,100 M Freestyle,SCM,M,45-49,1:03.39,Adam Trexler,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,2
+OREG,200 M Freestyle,SCM,M,45-49,2:18.70,James A Adams,,2024 February Flurry,2024,1
+OREG,200 M Freestyle,SCM,M,45-49,2:19.90,Adam Trexler,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,2
+OREG,400 M Freestyle,SCM,M,45-49,4:51.19,James A Adams,,2024 February Flurry,2024,1
+OREG,800 M Freestyle,SCM,M,45-49,10:10.83,James A Adams,,2024 February Flurry,2024,1
+OREG,800 M Freestyle,SCM,M,45-49,10:55.35,Matt Miller,,2024 Ozark LMSC Short Course Meters Championship,2024,2
+OREG,1500 M Freestyle,SCM,M,45-49,20:42.56,Matt Miller,,2024 Ozark LMSC Short Course Meters Championship,2024,1
+OREG,50 M Backstroke,SCM,M,45-49,36.11,Aaron Hawkins,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,M,45-49,1:13.21,David Kilburn,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,M,45-49,1:16.63,Aaron Hawkins,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,M,45-49,1:18.38,Brad Cota,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,200 M Backstroke,SCM,M,45-49,2:38.87,David Kilburn,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,M,45-49,2:51.53,Matt Miller,,2024 Ozark LMSC Short Course Meters Championship,2024,2
+OREG,50 M Breaststroke,SCM,M,45-49,36.19,Brad Cota,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,45-49,42.11,Aaron Hawkins,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Butterfly,SCM,M,45-49,31.12,James A Adams,,2024 February Flurry,2024,1
+OREG,50 M Butterfly,SCM,M,45-49,33.49,Aaron Hawkins,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,M,45-49,1:07.04,Adam Trexler,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,100 M Butterfly,SCM,M,45-49,1:17.86,Brad Cota,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Butterfly,SCM,M,45-49,2:38.04,Adam Trexler,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,200 M Butterfly,SCM,M,45-49,3:12.51,Matt Miller,,2024 Ozark LMSC Short Course Meters Championship,2024,2
+OREG,100 M Individual Medley,SCM,M,45-49,1:16.92,Aaron Hawkins,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,M,45-49,2:37.98,James A Adams,,2024 February Flurry,2024,1
+OREG,400 M Individual Medley,SCM,M,45-49,5:35.43,James A Adams,,2024 February Flurry,2024,1
+OREG,400 M Individual Medley,SCM,M,45-49,5:38.09,Adam Trexler,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,2
+OREG,50 M Freestyle,SCM,M,50-54,25.35,Kurt Grote,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,M,50-54,33.78,Michael A Posner,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,M,50-54,1:07.33,Christian F Tujo,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Freestyle,SCM,M,50-54,1:11.92,Brian Ross,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,M,50-54,1:14.23,Neil Hatler,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Freestyle,SCM,M,50-54,1:18.08,Michael A Posner,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,100 M Freestyle,SCM,M,50-54,1:41.47,David Rosenfeld,,Oregon City Spring Ahead SCM Meet,2024,5
+OREG,200 M Freestyle,SCM,M,50-54,2:01.71,Kurt Grote,,2024 SPMS SCM Championships,2024,1
+OREG,200 M Freestyle,SCM,M,50-54,2:10.91,Mike L Self,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Freestyle,SCM,M,50-54,2:26.44,Christian F Tujo,,Huntsman World Senior Games,2024,3
+OREG,400 M Freestyle,SCM,M,50-54,4:20.89,Kurt Grote,,2024 SPMS SCM Championships,2024,1
+OREG,400 M Freestyle,SCM,M,50-54,5:18.89,Christian F Tujo,,Huntsman World Senior Games,2024,2
+OREG,800 M Freestyle,SCM,M,50-54,11:22.61,Christian F Tujo,,Huntsman World Senior Games,2024,1
+OREG,1500 M Freestyle,SCM,M,50-54,21:28.23,Christian F Tujo,,Huntsman World Senior Games,2024,1
+OREG,50 M Backstroke,SCM,M,50-54,29.18,Mike L Self,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,M,50-54,1:02.55,David Rosenfeld,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Backstroke,SCM,M,50-54,1:03.95,Mike L Self,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,M,50-54,1:31.14,Christian F Tujo,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,200 M Backstroke,SCM,M,50-54,2:19.51,Mike L Self,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,50-54,30.75,Kurt Grote,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Breaststroke,SCM,M,50-54,42.18,Michael A Posner,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Breaststroke,SCM,M,50-54,1:27.63,Christian F Tujo,,Huntsman World Senior Games,2024,1
+OREG,100 M Breaststroke,SCM,M,50-54,1:34.14,Michael A Posner,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Breaststroke,SCM,M,50-54,2:27.84,Kurt Grote,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Butterfly,SCM,M,50-54,34.20,Christian F Tujo,,Huntsman World Senior Games,2024,1
+OREG,50 M Butterfly,SCM,M,50-54,38.16,Neil Hatler,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Butterfly,SCM,M,50-54,1:13.64,Christian F Tujo,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,M,50-54,2:17.68,David Rosenfeld,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,M,50-54,2:17.61,Kurt Grote,,2024 SPMS SCM Championships,2024,1
+OREG,200 M Individual Medley,SCM,M,50-54,2:54.51,Christian F Tujo,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,400 M Individual Medley,SCM,M,50-54,6:11.92,Christian F Tujo,,Huntsman World Senior Games,2024,1
+OREG,50 M Freestyle,SCM,M,55-59,27.54,Scot A Sullivan,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,55-59,31.37,Brian Halter,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Freestyle,SCM,M,55-59,59.86,Scot A Sullivan,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Freestyle,SCM,M,55-59,1:13.95,Steve D Wursta,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,200 M Freestyle,SCM,M,55-59,2:13.04,Scot A Sullivan,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Backstroke,SCM,M,55-59,32.03,Scot A Sullivan,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,M,55-59,44.15,Brian Halter,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Backstroke,SCM,M,55-59,1:08.78,Scot A Sullivan,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Backstroke,SCM,M,55-59,1:36.27,Steve D Wursta,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Breaststroke,SCM,M,55-59,35.23,Scot A Sullivan,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,55-59,43.57,Brian Halter,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Breaststroke,SCM,M,55-59,1:18.97,Scot A Sullivan,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,M,55-59,1:36.73,Steve D Wursta,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Butterfly,SCM,M,55-59,39.13,Brian Halter,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Butterfly,SCM,M,55-59,1:37.69,Steve D Wursta,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,M,55-59,1:10.77,Scot A Sullivan,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Individual Medley,SCM,M,55-59,1:27.89,Brian Halter,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,200 M Individual Medley,SCM,M,55-59,2:34.40,Scot A Sullivan,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,M,55-59,3:15.29,Steve D Wursta,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Freestyle,SCM,M,60-64,1:04.05,David Hathaway,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,100 M Freestyle,SCM,M,60-64,1:04.74,Douglas A Christensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,200 M Freestyle,SCM,M,60-64,2:19.82,David Hathaway,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,400 M Freestyle,SCM,M,60-64,4:52.44,David Hathaway,,2024 SPMS SCM Championships,2024,1
+OREG,800 M Freestyle,SCM,M,60-64,10:13.82,David Hathaway,,San Diego Swim Masters San Diego North County SCM Meet,2024,1
+OREG,1500 M Freestyle,SCM,M,60-64,19:31.75,David Hathaway,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Backstroke,SCM,M,60-64,35.04,David Hathaway,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Backstroke,SCM,M,60-64,1:14.63,Douglas A Christensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Backstroke,SCM,M,60-64,1:15.17,David Hathaway,,San Diego Swim Masters San Diego North County SCM Meet,2024,2
+OREG,200 M Backstroke,SCM,M,60-64,2:43.82,David Hathaway,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Breaststroke,SCM,M,60-64,40.19,David Hathaway,,TACM Fall Kick-Off,2024,1
+OREG,100 M Breaststroke,SCM,M,60-64,1:19.57,Douglas A Christensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Breaststroke,SCM,M,60-64,1:30.06,David Hathaway,,TACM Fall Kick-Off,2024,2
+OREG,200 M Breaststroke,SCM,M,60-64,3:16.98,David Hathaway,,TACM Fall Kick-Off,2024,1
+OREG,50 M Butterfly,SCM,M,60-64,33.23,David Hathaway,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Butterfly,SCM,M,60-64,1:09.36,Douglas A Christensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Butterfly,SCM,M,60-64,1:15.49,David Hathaway,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Butterfly,SCM,M,60-64,3:07.95,David Hathaway,,2024 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2024,1
+OREG,100 M Individual Medley,SCM,M,60-64,1:13.83,David Hathaway,,San Diego Swim Masters San Diego North County SCM Meet,2024,1
+OREG,200 M Individual Medley,SCM,M,60-64,2:35.40,Douglas A Christensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,200 M Individual Medley,SCM,M,60-64,2:41.85,David Hathaway,,2024 SPMS SCM Championships,2024,2
+OREG,400 M Individual Medley,SCM,M,60-64,6:02.92,David Hathaway,,2024 SPMS SCM Championships,2024,1
+OREG,400 M Individual Medley,SCM,M,60-64,6:17.16,Brent C Washburne,,2024 SPMS SCM Championships,2024,2
+OREG,50 M Freestyle,SCM,M,65-69,31.50,Richard K Howell,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,M,65-69,34.37,Jeffrey Piette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Freestyle,SCM,M,65-69,40.14,jonathan flecker,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,50 M Freestyle,SCM,M,65-69,50.83,Charlie Helm,,Oregon City Spring Ahead SCM Meet,2024,4
+OREG,100 M Freestyle,SCM,M,65-69,1:56.87,Charlie Helm,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,M,65-69,2:52.00,Richard K Howell,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,200 M Freestyle,SCM,M,65-69,4:21.77,Charlie Helm,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,400 M Freestyle,SCM,M,65-69,5:49.59,Mark B Wren,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,M,65-69,5:51.01,Richard K Howell,,6th Annual Bellevue Club Masters Mile,2024,2
+OREG,400 M Freestyle,SCM,M,65-69,9:35.66,Charlie Helm,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,800 M Freestyle,SCM,M,65-69,11:55.35,Richard K Howell,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,1500 M Freestyle,SCM,M,65-69,22:32.13,Richard K Howell,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,50 M Backstroke,SCM,M,65-69,41.30,Jeffrey Piette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Backstroke,SCM,M,65-69,42.42,Richard K Howell,,TACM Fall Kick-Off,2024,2
+OREG,100 M Backstroke,SCM,M,65-69,1:31.66,Richard K Howell,,TACM Fall Kick-Off,2024,1
+OREG,200 M Backstroke,SCM,M,65-69,3:26.71,Richard K Howell,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Breaststroke,SCM,M,65-69,36.43,Richard K Howell,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Breaststroke,SCM,M,65-69,47.10,jonathan flecker,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Breaststroke,SCM,M,65-69,47.55,Jeffrey Piette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,3
+OREG,100 M Breaststroke,SCM,M,65-69,1:22.12,Richard K Howell,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Breaststroke,SCM,M,65-69,2:41.51,Charlie Helm,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Breaststroke,SCM,M,65-69,3:08.21,Richard K Howell,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,65-69,35.47,Richard K Howell,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Butterfly,SCM,M,65-69,39.75,Jeffrey Piette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Butterfly,SCM,M,65-69,1:24.36,Daniel J Warnshuis,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Butterfly,SCM,M,65-69,1:25.77,Richard K Howell,,2024 SPMS SCM Championships,2024,2
+OREG,200 M Butterfly,SCM,M,65-69,3:16.95,Richard K Howell,,2024 SPMS SCM Championships,2024,1
+OREG,100 M Individual Medley,SCM,M,65-69,1:22.61,Richard K Howell,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,M,65-69,1:30.45,Jeffrey Piette,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,200 M Individual Medley,SCM,M,65-69,2:56.74,Richard K Howell,,2024 SPMS SCM Championships,2024,1
+OREG,50 M Freestyle,SCM,M,70-74,36.30,Kermit D Yensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,M,70-74,38.33,Allen J Larson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,50 M Freestyle,SCM,M,70-74,39.95,Anthony J Moyes,,Oregon City Spring Ahead SCM Meet,2024,3
+OREG,100 M Freestyle,SCM,M,70-74,1:25.17,Allen J Larson,,Huntsman World Senior Games,2024,1
+OREG,200 M Freestyle,SCM,M,70-74,3:01.80,Kermit D Yensen,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,M,70-74,3:12.48,Allen J Larson,,Huntsman World Senior Games,2024,2
+OREG,400 M Freestyle,SCM,M,70-74,6:33.45,Kermit D Yensen,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,M,70-74,6:56.65,Allen J Larson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,800 M Freestyle,SCM,M,70-74,13:28.89,Kermit D Yensen,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,800 M Freestyle,SCM,M,70-74,14:27.21,Allen J Larson,,Huntsman World Senior Games,2024,2
+OREG,1500 M Freestyle,SCM,M,70-74,25:06.10,Kermit D Yensen,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,1500 M Freestyle,SCM,M,70-74,27:51.75,Allen J Larson,,Huntsman World Senior Games,2024,2
+OREG,50 M Backstroke,SCM,M,70-74,42.97,Kermit D Yensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Breaststroke,SCM,M,70-74,46.23,Anthony J Moyes,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,70-74,49.66,Kermit D Yensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Breaststroke,SCM,M,70-74,1:45.36,Anthony J Moyes,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,M,70-74,1:47.08,Kermit D Yensen,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Breaststroke,SCM,M,70-74,2:19.39,Allen J Larson,,Huntsman World Senior Games,2024,3
+OREG,200 M Breaststroke,SCM,M,70-74,3:52.30,Anthony J Moyes,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,70-74,44.81,Kermit D Yensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Butterfly,SCM,M,70-74,51.17,Allen J Larson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Individual Medley,SCM,M,70-74,1:36.01,Kermit D Yensen,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,M,70-74,1:49.96,Allen J Larson,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,200 M Individual Medley,SCM,M,70-74,4:15.96,Allen J Larson,,Huntsman World Senior Games,2024,1
+OREG,400 M Individual Medley,SCM,M,70-74,7:51.05,Kermit D Yensen,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Freestyle,SCM,M,75-79,33.53,Bob A Bruce,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,50 M Freestyle,SCM,M,75-79,47.27,Michel Ridgeway,,Oregon City Spring Ahead SCM Meet,2024,2
+OREG,100 M Freestyle,SCM,M,75-79,1:10.15,Dan L Kirkland,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Freestyle,SCM,M,75-79,2:30.38,Dan L Kirkland,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,400 M Freestyle,SCM,M,75-79,5:15.06,Dan L Kirkland,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,800 M Freestyle,SCM,M,75-79,10:57.22,Dan L Kirkland,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,1500 M Freestyle,SCM,M,75-79,21:01.53,Dan L Kirkland,,6th Annual Bellevue Club Masters Mile,2024,1
+OREG,50 M Backstroke,SCM,M,75-79,37.67,Dan L Kirkland,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Backstroke,SCM,M,75-79,40.87,Bob A Bruce,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Backstroke,SCM,M,75-79,1:19.07,Dan L Kirkland,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,M,75-79,2:48.83,Dan L Kirkland,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,75-79,37.78,Allen Stark,,MSABC provincial Championships,2024,1
+OREG,50 M Breaststroke,SCM,M,75-79,44.88,Bob A Bruce,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,100 M Breaststroke,SCM,M,75-79,1:26.35,Allen Stark,,MSABC provincial Championships,2024,1
+OREG,200 M Breaststroke,SCM,M,75-79,3:16.16,Allen Stark,,MSABC provincial Championships,2024,1
+OREG,200 M Breaststroke,SCM,M,75-79,3:38.34,Dan L Kirkland,,1st Annual Nationwide Pentathlon Championship (SCM),2024,2
+OREG,50 M Butterfly,SCM,M,75-79,39.44,Bob A Bruce,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,200 M Butterfly,SCM,M,75-79,3:48.27,Dan L Kirkland,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Individual Medley,SCM,M,75-79,1:29.82,Bob A Bruce,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,400 M Individual Medley,SCM,M,75-79,6:44.30,Dan L Kirkland,,1st Annual Nationwide Pentathlon Championship (SCM),2024,1
+OREG,100 M Backstroke,SCM,M,80-84,2:16.53,Peter P Berghaus,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Backstroke,SCM,M,80-84,5:08.21,Peter P Berghaus,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Breaststroke,SCM,M,80-84,58.64,Peter P Berghaus,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Breaststroke,SCM,M,80-84,2:23.96,Peter P Berghaus,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,200 M Breaststroke,SCM,M,80-84,5:24.78,Peter P Berghaus,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,50 M Butterfly,SCM,M,80-84,1:26.94,Arthur M Noxon,,Oregon City Spring Ahead SCM Meet,2024,1
+OREG,100 M Individual Medley,SCM,M,80-84,2:20.86,Peter P Berghaus,,Oregon City Spring Ahead SCM Meet,2024,1
+TIDES,50 M Freestyle,SCM,M,65-69,30.76,Peter A Vince,,Oregon City Spring Ahead SCM Meet,2024,1
+TIDES,200 M Individual Medley,SCM,M,65-69,3:14.56,Peter A Vince,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Freestyle,SCM,W,18-24,33.33,Isabelle  S Hall,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Freestyle,SCM,W,18-24,1:14.41,Isabelle  S Hall,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,200 M Freestyle,SCM,W,18-24,2:49.60,Isabelle  S Hall,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Breaststroke,SCM,W,18-24,1:37.13,Annah C Shollenbarger,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Butterfly,SCM,W,18-24,37.74,Annah C Shollenbarger,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Butterfly,SCM,W,18-24,1:15.48,Julianne R Abrigonde,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Butterfly,SCM,W,18-24,1:30.35,Annah C Shollenbarger,,Oregon City Spring Ahead SCM Meet,2024,2
+UC37,100 M Individual Medley,SCM,W,18-24,1:26.36,Annah C Shollenbarger,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,200 M Individual Medley,SCM,W,18-24,2:48.80,Julianne R Abrigonde,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,200 M Individual Medley,SCM,W,18-24,3:09.43,Annah C Shollenbarger,,Oregon City Spring Ahead SCM Meet,2024,2
+UC37,50 M Freestyle,SCM,W,40-44,41.08,Brie Petrie,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Breaststroke,SCM,W,40-44,50.46,Brie Petrie,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,200 M Breaststroke,SCM,W,40-44,4:05.44,Brie Petrie,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,200 M Freestyle,SCM,W,50-54,3:01.27,Erin T Nardone,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,400 M Freestyle,SCM,W,50-54,6:17.53,Erin T Nardone,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Freestyle,SCM,M,18-24,25.55,Alex Feng,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Freestyle,SCM,M,18-24,56.55,Alex Feng,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Freestyle,SCM,M,18-24,1:02.26,Benjamin H Kono,,Oregon City Spring Ahead SCM Meet,2024,2
+UC37,50 M Butterfly,SCM,M,18-24,27.25,Alex Feng,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Butterfly,SCM,M,18-24,30.81,Benjamin H Kono,,Oregon City Spring Ahead SCM Meet,2024,2
+UC37,100 M Butterfly,SCM,M,18-24,1:03.44,Alex Feng,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Freestyle,SCM,M,30-34,1:01.03,Scott D Walker,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Backstroke,SCM,M,30-34,32.76,Scott D Walker,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Breaststroke,SCM,M,30-34,1:19.39,Scott D Walker,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Butterfly,SCM,M,30-34,29.80,Scott D Walker,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,50 M Freestyle,SCM,M,40-44,28.90,Blake E Anghilante,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,100 M Butterfly,SCM,M,40-44,1:17.12,Blake E Anghilante,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,200 M Freestyle,SCM,M,75-79,2:48.34,James R Wiens,,Oregon City Spring Ahead SCM Meet,2024,1
+UC37,400 M Freestyle,SCM,M,75-79,5:56.29,James R Wiens,,Oregon City Spring Ahead SCM Meet,2024,1
