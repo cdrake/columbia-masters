@@ -36,6 +36,9 @@ export function scalars(t: Tenant): Record<string, string> {
     ogImage: `${c.domain}/icon-512.png`,
     shortName: esc(c.shortName),
     name: esc(c.name),
+    heroLogo: c.logo
+      ? `<img class="hero-logo" src="${esc(c.logo.src)}" alt="${esc(c.logo.alt)}" width="${c.logo.width}" height="${c.logo.height}" />`
+      : "",
     // The Sheet's content tab (snapshot in fallback/content.json) wins over tenant.json,
     // so the static HTML matches what the runtime override shows.
     heroSub: mdInline(sheet(t, "hero_sub") ?? c.hero.sub),

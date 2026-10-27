@@ -12,6 +12,12 @@
     "sub": "US Masters Swimming in South Carolina",
     "tagline": "Find a club near you and search the state's fastest Masters swims"
   },
+  "logo": {
+    "src": "/logos/sc-masters-usms-light.png",
+    "alt": "South Carolina Masters and U.S. Masters Swimming logos",
+    "width": 720,
+    "height": 242
+  },
   "colors": {},
   "socials": [
     {

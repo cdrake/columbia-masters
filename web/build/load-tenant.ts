@@ -42,6 +42,8 @@ export interface TenantConfig {
   sheet: { publishedId: string; gids: Record<string, number> };
   records: { startYear: number };
   images?: { accountHash: string };
+  /** Optional hero logo: a path under public/ (use a light variant — the hero is dark). */
+  logo?: { src: string; alt: string; width: number; height: number };
   /** IANA zone for "upcoming" event filtering; defaults to America/New_York. */
   timeZone?: string;
   /** State (lmsc) sites: member clubs, for the content API and llms.txt. */
@@ -153,6 +155,11 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     req(typeof config.sheet.gids[tab] === "number", `tenant.json missing sheet.gids.${tab}`);
   }
   req(Array.isArray(config.socials), `tenant.json missing socials[]`);
+  if (config.logo) {
+    const { src, alt, width, height } = config.logo;
+    req(src?.startsWith("/") && alt && width > 0 && height > 0, `tenant.json logo needs src (/path), alt, width, height`);
+    req(fs.existsSync(path.join(dir, "public", src)), `tenant.json logo not found: public${src}`);
+  }
   // "faq" is an optional sheet tab — tenants that haven't added it yet simply omit the gid.
 
   const contentDir = path.join(dir, "content");
