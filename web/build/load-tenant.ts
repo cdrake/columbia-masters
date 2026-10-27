@@ -66,6 +66,19 @@ export interface ClassProgram {
   taglineHtml: string;
 }
 
+/** A state site's club, from public/data/clubs.json (written by `refresh` from the crawl). */
+export interface ClubEntry {
+  code: string;
+  name?: string;
+  city?: string;
+  url?: string;
+  note?: string;
+  firstYear: number;
+  lastYear: number;
+  seasons: number;
+  records: number;
+}
+
 export interface Tenant {
   config: TenantConfig;
   aboutHtml: string;
@@ -77,6 +90,8 @@ export interface Tenant {
   fallback: SheetData;
   /** Site pages from content/pages/*.json; home is always first. */
   pages: Page[];
+  /** State sites: every club with records (empty for a club site). */
+  clubDirectory: ClubEntry[];
   /** Design template + accent from content/site.json (written by the editor); null = default look. */
   site: SiteSettings | null;
   dir: string;
@@ -200,7 +215,11 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     req(!errs.length, `${siteFile}:\n  ${errs.join("\n  ")}`);
   }
 
-  return { config, aboutHtml, about, coaches, classes, fallback, pages, site, dir, publicDir };
+  const clubDirectory = isLmsc
+    ? (readJsonIfExists<{ clubs: ClubEntry[] }>(path.join(publicDir, "data", "clubs.json"))?.clubs ?? [])
+    : [];
+
+  return { config, aboutHtml, about, coaches, classes, fallback, pages, clubDirectory, site, dir, publicDir };
 }
 
 /**

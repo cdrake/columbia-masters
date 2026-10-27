@@ -32,6 +32,11 @@ class Tenant:
         return Path("data") / "csv" / "usms" / self.lmsc_id / "lmsc_top10"
 
     @property
+    def lmsc_club_csv_dir(self) -> Path:
+        """Crawl phase 2: every club's own top-10s, one CSV per course/year."""
+        return Path("data") / "csv" / "usms" / self.lmsc_id
+
+    @property
     def public_dir(self) -> Path:
         return self.root / "public"
 

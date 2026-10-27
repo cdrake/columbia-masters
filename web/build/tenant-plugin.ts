@@ -5,7 +5,7 @@ import { answer } from "../shared/records";
 import { answerContent, buildContent, loadSheetData, openApi, todayIn } from "../shared/content";
 import { adminDevApi } from "./admin-dev-api";
 import { loadTenant, sheetUrls } from "./load-tenant";
-import { composePage, loadSectionPartials, pageForUrl, renderShell } from "./pages";
+import { clubPages, composePage, loadSectionPartials, pageForUrl, renderShell } from "./pages";
 import * as render from "./render";
 
 const VIRTUAL_ID = "virtual:tenant";
@@ -120,8 +120,8 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
       if (!isSiteTemplate(ctx.path)) return html;
       const shell = renderShell(html, tenant);
       if (!ctx.server) return shell;
-      const page = pageForUrl(tenant, ctx.originalUrl ?? "/");
-      return composePage(shell, tenant, page, loadSectionPartials(webRoot));
+      const { page, scalars } = pageForUrl(tenant, ctx.originalUrl ?? "/");
+      return composePage(shell, tenant, page, loadSectionPartials(webRoot), scalars);
     },
 
     resolveId(id) {
@@ -158,6 +158,13 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
             type: "asset",
             fileName: `${page.slug}/index.html`,
             source: composePage(shell, tenant, page, partials),
+          });
+        }
+        for (const { page, scalars } of clubPages(tenant)) {
+          this.emitFile({
+            type: "asset",
+            fileName: `${page.slug}/index.html`,
+            source: composePage(shell, tenant, page, partials, scalars),
           });
         }
 

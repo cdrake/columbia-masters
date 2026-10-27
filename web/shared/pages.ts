@@ -9,7 +9,7 @@ import { Marked, type Tokens } from "marked";
 /** Built-in home sections. Their markup lives in web/build/sections/<id>.html. */
 export const SECTION_IDS = [
   "hero", "about", "schedule", "events", "classes",
-  "faq", "gallery", "coaches", "board", "records",
+  "faq", "gallery", "coaches", "board", "records", "clubs",
 ] as const;
 export type SectionId = (typeof SECTION_IDS)[number];
 
@@ -24,6 +24,7 @@ export const SECTION_LABELS: Record<SectionId, string> = {
   coaches: "Coaches",
   board: "Board & Leadership",
   records: "Team Records",
+  clubs: "Club Directory (state sites)",
 };
 
 /** Nav label for each section's anchor link (hero has none). */
@@ -37,6 +38,7 @@ export const SECTION_NAV: Partial<Record<SectionId, string>> = {
   coaches: "Coaches",
   board: "Board",
   records: "Records",
+  clubs: "Clubs",
 };
 
 export type Background = "default" | "alt";
@@ -123,7 +125,7 @@ export const HOME_SLUG = "home";
 /** Slugs that collide with generated/static paths in tenants/<slug>/public or the app. */
 export const RESERVED_SLUGS = new Set([
   "admin", "api", "assets", "data", "gallery", "locations", "uploads",
-  "workouts", "images", "coaches", "classes", "index", "404",
+  "workouts", "images", "coaches", "classes", "clubs", "index", "404",
 ]);
 
 export const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;

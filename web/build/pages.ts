@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import type { Tenant } from "./load-tenant";
+import type { ClubEntry, Tenant } from "./load-tenant";
 import * as render from "./render";
 import {
   esc,
@@ -41,14 +41,27 @@ function markers(t: Tenant): Record<string, string> {
     "footer-resources": render.footerResources(t),
     copyright: render.copyright(t),
     "json-ld": render.jsonLd(t),
+    "club-directory": render.clubDirectory(t),
   };
 }
+
+/** Per-page `{{ key }}` scalar overrides (e.g. a club page's records source). */
+export type ScalarOverrides = Record<string, string>;
+
+/** A page plus the scalar overrides it renders with. */
+export interface RenderPage {
+  page: Page;
+  scalars?: ScalarOverrides;
+}
+
+/** Hidden when it has nothing to show: the club directory on a club site. */
+const isEmptySection = (t: Tenant, id: SectionId) => id === "clubs" && !t.clubDirectory.length;
 
 /**
  * Fill tenant markers and `{{ key }}` scalars in trusted template HTML.
  * `<!-- tenant:page-* -->` markers and `{{ page.* }}` are left for composePage().
  */
-function applyTemplate(html: string, t: Tenant, where: string): string {
+function applyTemplate(html: string, t: Tenant, where: string, overrides: ScalarOverrides = {}): string {
   let out = html;
   for (const [name, content] of Object.entries(markers(t))) {
     out = out.replaceAll(`<!-- tenant:${name} -->`, () => content);
@@ -56,7 +69,7 @@ function applyTemplate(html: string, t: Tenant, where: string): string {
   const leftover = out.match(/<!-- tenant:(?!page-)([\w-]+) -->/);
   if (leftover) throw new Error(`[tenant] ${where} has unknown marker ${leftover[0]}`);
 
-  const scalars = render.scalars(t);
+  const scalars = { ...render.scalars(t), ...overrides };
   return out.replace(/\{\{\s*(\w+)\s*\}\}/g, (_, key: string) => {
     const value = scalars[key];
     if (value === undefined) {
@@ -83,7 +96,7 @@ function navLinks(t: Tenant, page: Page): string {
 
   for (const b of visibleBlocks(t.pages[0])) {
     const label =
-      b.type === "section"
+      b.type === "section" && !isEmptySection(t, b.id)
         ? b.id === "records" && t.config.kind === "lmsc"
           ? "Records"
           : SECTION_NAV[b.id]
@@ -101,7 +114,12 @@ function navLinks(t: Tenant, page: Page): string {
   return items.join("\n          ");
 }
 
-function pageBody(t: Tenant, page: Page, partials: Record<SectionId, string>): string {
+function pageBody(
+  t: Tenant,
+  page: Page,
+  partials: Record<SectionId, string>,
+  overrides: ScalarOverrides
+): string {
   const parts: string[] = [];
   if (page.slug !== HOME_SLUG) {
     parts.push(`    <header class="page-header">
@@ -112,9 +130,10 @@ function pageBody(t: Tenant, page: Page, partials: Record<SectionId, string>): s
   }
   let prev: Block | undefined;
   for (const b of visibleBlocks(page)) {
+    if (b.type === "section" && isEmptySection(t, b.id)) continue;
     const html =
       b.type === "section"
-        ? dropDeadSectionLinks(applyTemplate(partials[b.id], t, `sections/${b.id}.html`), t)
+        ? dropDeadSectionLinks(applyTemplate(partials[b.id], t, `sections/${b.id}.html`, overrides), t)
         : `    ${renderContentBlock(b, prev)}`;
     if (html.trim()) {
       parts.push(html);
@@ -129,7 +148,8 @@ export function composePage(
   shell: string,
   t: Tenant,
   page: Page,
-  partials: Record<SectionId, string>
+  partials: Record<SectionId, string>,
+  overrides: ScalarOverrides = {}
 ): string {
   const c = t.config;
   const isHome = page.slug === HOME_SLUG;
@@ -154,7 +174,7 @@ export function composePage(
   // Body last, so admin-authored text is never scanned for markers/scalars.
   out = out.replace("<!-- tenant:page-nav -->", () => navLinks(t, page));
   out = dropDeadSectionLinks(out, t);
-  return out.replace("<!-- tenant:page-body -->", () => pageBody(t, page, partials));
+  return out.replace("<!-- tenant:page-body -->", () => pageBody(t, page, partials, overrides));
 }
 
 /**
@@ -173,8 +193,49 @@ function dropDeadSectionLinks(html: string, t: Tenant): string {
     .replace(new RegExp(`\\s*<a href="/?#(?:${dead})" class="btn[^"]*">[^<]*</a>`, "g"), "");
 }
 
-/** Map a dev-server URL like /join/ to its page (home for anything unknown). */
-export function pageForUrl(t: Tenant, url: string): Page {
+/** Map a dev-server URL like /join/ or /clubs/colm/ to its page (home for anything unknown). */
+export function pageForUrl(t: Tenant, url: string): RenderPage {
   const slug = url.split(/[?#]/)[0].replace(/^\/+|\/+$/g, "").replace(/\/index\.html$/, "");
-  return t.pages.find((p) => p.slug === slug && slug !== HOME_SLUG) ?? t.pages[0];
+  const club = clubPages(t).find((c) => c.page.slug === slug);
+  if (club) return club;
+  return { page: t.pages.find((p) => p.slug === slug && slug !== HOME_SLUG) ?? t.pages[0] };
+}
+
+/**
+ * State sites: one generated page per club (`clubs/<code>/`) with an intro and the
+ * records section pointed at that club's own records file.
+ */
+export function clubPages(t: Tenant): RenderPage[] {
+  return t.clubDirectory.map((k) => clubPage(t, k));
+}
+
+function clubPage(t: Tenant, k: ClubEntry): RenderPage {
+  const c = t.config;
+  const name = k.name ?? k.code;
+  const title = k.name && k.name !== k.code ? `${k.name} (${k.code})` : k.code;
+  const seasons = `${k.seasons} season${k.seasons === 1 ? "" : "s"}`;
+  const lines = [
+    `Top times by **${k.code}** swimmers in ${c.lmscName}, ${render.clubSpan(k)} (${seasons}, ${k.records.toLocaleString("en-US")} swims), from the USMS Top Times database.`,
+    [k.city, k.note].filter(Boolean).join(" · "),
+    [k.url ? `[Club website](${k.url})` : "", `[All ${c.lmscName} clubs](/#clubs)`].filter(Boolean).join(" · "),
+  ].filter(Boolean);
+  const page: Page = {
+    slug: render.clubPath(k.code).replace(/^\/|\/$/g, ""),
+    title,
+    description: `${name} US Masters Swimming top times in ${c.lmscName}, ${render.clubSpan(k)}.`,
+    nav: null,
+    blocks: [
+      { id: "b-clubintro", type: "richText", props: { markdown: lines.join("\n\n") } },
+      { id: "records", type: "section" },
+    ],
+  };
+  return {
+    page,
+    scalars: {
+      recordsTitle: `${esc(k.code)} Records`,
+      teamHeader: "",
+      teamFilter: "",
+      recordsSrc: `data/clubs/${encodeURIComponent(k.code)}.json`,
+    },
+  };
 }

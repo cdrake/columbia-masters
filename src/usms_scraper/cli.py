@@ -330,7 +330,71 @@ def _publish_lmsc_records(tenant: Tenant) -> int:
     else:
         logging.info(f"  Website data unchanged: {dest}")
     _update_data_index(tenant.web_data_dir, len(records), tenant, changed)
+    _publish_lmsc_clubs(tenant)
     return len(records)
+
+
+# Crawl codes for unattached swimmers, not clubs.
+UNATTACHED_CODES = {"UNAT", "UC55"}
+
+
+def _write_if_changed(dest: Path, payload: bytes) -> bool:
+    if dest.exists() and dest.read_bytes() == payload:
+        return False
+    dest.write_bytes(payload)
+    return True
+
+
+def _publish_lmsc_clubs(tenant: Tenant) -> None:
+    """Publish each club's records (data/clubs/<CODE>.json) and the directory (data/clubs.json).
+
+    Source is crawl phase 2 (each club's own top-10s). The directory merges the crawl's seasons
+    with names/cities/urls from tenant.json `clubs`; files are only rewritten when they change.
+    """
+    by_club: dict[str, list[dict]] = {}
+    for csv_path in sorted(tenant.lmsc_club_csv_dir.glob("*_records.csv")):
+        with open(csv_path, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                code = row.get("team", "").strip()
+                if not code or code in UNATTACHED_CODES:
+                    continue
+                record = transform_record(row)
+                if record:
+                    by_club.setdefault(code, []).append(record.to_dict())
+    if not by_club:
+        logging.warning(f"  No club records in {tenant.lmsc_club_csv_dir} (crawl phase 2)")
+        return
+
+    clubs_dir = tenant.web_data_dir / "clubs"
+    clubs_dir.mkdir(parents=True, exist_ok=True)
+    known = {c["code"]: c for c in tenant.raw.get("clubs", [])}
+    directory = []
+    changed = 0
+    for code, records in sorted(by_club.items()):
+        payload = json.dumps(records, separators=(",", ":"), ensure_ascii=False).encode("utf-8")
+        changed += _write_if_changed(clubs_dir / f"{code}.json", payload)
+        seasons = sorted({int(r["year"]) for r in records})
+        entry = {k: v for k, v in known.get(code, {}).items() if k != "code"}
+        directory.append(
+            {
+                "code": code,
+                **entry,
+                "firstYear": seasons[0],
+                "lastYear": seasons[-1],
+                "seasons": len(seasons),
+                "records": len(records),
+            }
+        )
+    for stale in clubs_dir.glob("*.json"):
+        if stale.stem not in by_club:
+            stale.unlink()
+            changed += 1
+    payload = (json.dumps({"clubs": directory}, indent=2, ensure_ascii=False) + "\n").encode()
+    changed += _write_if_changed(tenant.web_data_dir / "clubs.json", payload)
+    logging.info(
+        f"  Club records: {len(directory)} club(s), "
+        f"{sum(d['records'] for d in directory)} records, {changed} file(s) updated"
+    )
 
 
 def _update_data_index(

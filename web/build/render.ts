@@ -1,4 +1,4 @@
-import type { Tenant } from "./load-tenant";
+import type { ClubEntry, Tenant } from "./load-tenant";
 import { mdInline, mdBlock, sheetUrls } from "./load-tenant";
 import fs from "node:fs";
 import path from "node:path";
@@ -44,10 +44,58 @@ export function scalars(t: Tenant): Record<string, string> {
     recordsTitle: isLmsc(t) ? `${esc(c.lmscName)} Records` : "Team Records",
     // State sites list every club's swims, so the table gets a sortable Team column.
     teamHeader: isLmsc(t) ? `<th data-sort="team">Team</th>` : "",
+    teamFilter: isLmsc(t)
+      ? `<select id="filter-team"><option value="">All Clubs</option></select>`
+      : "",
+    recordsSrc: `data/${esc(c.teamCode)}_all_records.json`,
   };
 }
 
 export const isLmsc = (t: Tenant) => t.config.kind === "lmsc";
+
+/** State-site club page path, e.g. /clubs/colm/. */
+export const clubPath = (code: string) => `/clubs/${code.toLowerCase()}/`;
+
+/** Seasons a club has records, e.g. "2002–2026". */
+export const clubSpan = (k: ClubEntry) =>
+  k.firstYear === k.lastYear ? String(k.firstYear) : `${k.firstYear}–${k.lastYear}`;
+
+/**
+ * State-site club directory: clubs with records in the latest two seasons are listed as
+ * cards (name, city, site link); older clubs collapse into a list. Empty for club sites.
+ */
+export function clubDirectory(t: Tenant): string {
+  const clubs = t.clubDirectory;
+  if (!clubs.length) return "";
+  const latest = Math.max(...clubs.map((k) => k.lastYear));
+  const active = clubs.filter((k) => k.lastYear >= latest - 1);
+  const former = clubs.filter((k) => k.lastYear < latest - 1).sort((a, b) => b.lastYear - a.lastYear);
+  const card = (k: ClubEntry) => {
+    const name = k.name && k.name !== k.code ? `${esc(k.name)} <span class="club-code">${esc(k.code)}</span>` : esc(k.code);
+    const meta = [k.city, k.note].filter(Boolean).map((s) => esc(s!)).join(" · ");
+    const site = k.url ? `<a href="${esc(k.url)}" target="_blank" rel="noopener">Club website</a>` : "";
+    return `<li class="club-card">
+            <h3>${name}</h3>
+            ${meta ? `<p class="club-meta">${meta}</p>` : ""}
+            <p class="club-links"><a href="${clubPath(k.code)}">Club records</a>${site ? ` · ${site}` : ""}</p>
+          </li>`;
+  };
+  const formerItem = (k: ClubEntry) =>
+    `<li><a href="${clubPath(k.code)}">${esc(k.name ?? k.code)}</a> <span class="club-meta">${clubSpan(k)}</span></li>`;
+  return `<ul class="club-list">
+          ${active.map(card).join("\n          ")}
+        </ul>${
+          former.length
+            ? `
+        <details class="club-former">
+          <summary>Former clubs (${former.length})</summary>
+          <ul>
+            ${former.map(formerItem).join("\n            ")}
+          </ul>
+        </details>`
+            : ""
+        }`;
+}
 
 /** `<html>` attributes selecting the design template; empty without content/site.json. */
 export function themeAttrs(t: Tenant): string {
@@ -372,7 +420,8 @@ export function sitePages(t: Tenant): SiteManifest["pages"] {
 }
 
 export function sitemapXml(t: Tenant): string {
-  const urls = sitePages(t)
+  const clubPages = t.clubDirectory.map((k) => ({ path: clubPath(k.code) }));
+  const urls = [...sitePages(t), ...clubPages]
     .map((p) => {
       const home = p.path === "/";
       return `

@@ -43,41 +43,41 @@
       "code": "PALM",
       "name": "Palmetto Masters",
       "city": "Mt. Pleasant & North Charleston",
-      "url": "https://palm.swimclubs.org"
+      "url": "http://localhost:5173/"
     },
     {
       "code": "GS",
       "name": "Greenville Splash Masters",
       "city": "Greenville",
-      "url": "https://gs.swimclubs.org"
+      "note": "Site coming soon"
     },
     {
       "code": "GSMS",
       "name": "Grand Strand Masters Swimming",
       "city": "North Myrtle Beach",
-      "url": "https://gsms.swimclubs.org"
+      "note": "Site coming soon"
     },
     {
       "code": "LOCO",
       "name": "Lowcountry Masters Swimming",
       "city": "Beaufort",
-      "url": "https://loco.swimclubs.org"
+      "note": "Site coming soon"
     },
     {
       "code": "SCHH",
       "name": "Sun City Hilton Head Masters",
       "city": "Bluffton",
-      "url": "https://schh.swimclubs.org"
+      "note": "Site coming soon"
     },
     {
       "code": "SMRT",
       "name": "SMRT",
-      "url": "https://smrt.swimclubs.org"
+      "note": "Site coming soon"
     },
     {
       "code": "UP",
       "name": "UP",
-      "url": "https://up.swimclubs.org"
+      "note": "Site coming soon"
     },
     {
       "code": "SCC",

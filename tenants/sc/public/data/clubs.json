@@ -1,0 +1,308 @@
+{
+  "clubs": [
+    {
+      "code": "AAMY",
+      "firstYear": 2024,
+      "lastYear": 2024,
+      "seasons": 1,
+      "records": 9
+    },
+    {
+      "code": "AM",
+      "firstYear": 2000,
+      "lastYear": 2005,
+      "seasons": 2,
+      "records": 16
+    },
+    {
+      "code": "AMSC",
+      "firstYear": 2019,
+      "lastYear": 2022,
+      "seasons": 2,
+      "records": 35
+    },
+    {
+      "code": "BLF",
+      "firstYear": 2010,
+      "lastYear": 2014,
+      "seasons": 5,
+      "records": 166
+    },
+    {
+      "code": "BMST",
+      "firstYear": 2005,
+      "lastYear": 2015,
+      "seasons": 11,
+      "records": 5865
+    },
+    {
+      "code": "CA",
+      "firstYear": 2006,
+      "lastYear": 2006,
+      "seasons": 1,
+      "records": 29
+    },
+    {
+      "code": "CASC",
+      "firstYear": 2012,
+      "lastYear": 2018,
+      "seasons": 6,
+      "records": 150
+    },
+    {
+      "code": "CAT",
+      "firstYear": 2005,
+      "lastYear": 2021,
+      "seasons": 16,
+      "records": 304
+    },
+    {
+      "code": "COLM",
+      "name": "Columbia Masters",
+      "city": "Columbia",
+      "url": "https://columbiamastersswim.org",
+      "firstYear": 2002,
+      "lastYear": 2026,
+      "seasons": 22,
+      "records": 1346
+    },
+    {
+      "code": "CYMS",
+      "firstYear": 2005,
+      "lastYear": 2006,
+      "seasons": 2,
+      "records": 23
+    },
+    {
+      "code": "EACM",
+      "firstYear": 2005,
+      "lastYear": 2006,
+      "seasons": 2,
+      "records": 45
+    },
+    {
+      "code": "GAME",
+      "firstYear": 2023,
+      "lastYear": 2024,
+      "seasons": 2,
+      "records": 21
+    },
+    {
+      "code": "GMSC",
+      "firstYear": 2008,
+      "lastYear": 2010,
+      "seasons": 3,
+      "records": 370
+    },
+    {
+      "code": "GS",
+      "name": "Greenville Splash Masters",
+      "city": "Greenville",
+      "note": "Site coming soon",
+      "firstYear": 2009,
+      "lastYear": 2026,
+      "seasons": 18,
+      "records": 4613
+    },
+    {
+      "code": "GSMS",
+      "name": "Grand Strand Masters Swimming",
+      "city": "North Myrtle Beach",
+      "note": "Site coming soon",
+      "firstYear": 2008,
+      "lastYear": 2026,
+      "seasons": 19,
+      "records": 6343
+    },
+    {
+      "code": "GYMS",
+      "firstYear": 2006,
+      "lastYear": 2017,
+      "seasons": 8,
+      "records": 303
+    },
+    {
+      "code": "HHAC",
+      "firstYear": 2002,
+      "lastYear": 2014,
+      "seasons": 9,
+      "records": 674
+    },
+    {
+      "code": "LCM",
+      "firstYear": 2007,
+      "lastYear": 2012,
+      "seasons": 6,
+      "records": 510
+    },
+    {
+      "code": "LOCO",
+      "name": "Lowcountry Masters Swimming",
+      "city": "Beaufort",
+      "note": "Site coming soon",
+      "firstYear": 2014,
+      "lastYear": 2026,
+      "seasons": 13,
+      "records": 3286
+    },
+    {
+      "code": "LTP",
+      "firstYear": 2013,
+      "lastYear": 2013,
+      "seasons": 1,
+      "records": 12
+    },
+    {
+      "code": "MCLS",
+      "firstYear": 2016,
+      "lastYear": 2018,
+      "seasons": 3,
+      "records": 48
+    },
+    {
+      "code": "NCMS",
+      "firstYear": 2008,
+      "lastYear": 2009,
+      "seasons": 2,
+      "records": 12
+    },
+    {
+      "code": "NTC",
+      "firstYear": 2006,
+      "lastYear": 2006,
+      "seasons": 1,
+      "records": 3
+    },
+    {
+      "code": "PALM",
+      "name": "Palmetto Masters",
+      "city": "Mt. Pleasant & North Charleston",
+      "url": "http://localhost:5173/",
+      "firstYear": 2002,
+      "lastYear": 2026,
+      "seasons": 24,
+      "records": 10219
+    },
+    {
+      "code": "PIMM",
+      "firstYear": 2002,
+      "lastYear": 2004,
+      "seasons": 2,
+      "records": 9
+    },
+    {
+      "code": "RM",
+      "firstYear": 2011,
+      "lastYear": 2011,
+      "seasons": 1,
+      "records": 4
+    },
+    {
+      "code": "SCC",
+      "name": "South Carolina State Team",
+      "note": "Combined team for USMS Nationals",
+      "firstYear": 2026,
+      "lastYear": 2026,
+      "seasons": 1,
+      "records": 220
+    },
+    {
+      "code": "SCHH",
+      "name": "Sun City Hilton Head Masters",
+      "city": "Bluffton",
+      "note": "Site coming soon",
+      "firstYear": 2014,
+      "lastYear": 2026,
+      "seasons": 13,
+      "records": 2401
+    },
+    {
+      "code": "SCHS",
+      "firstYear": 2017,
+      "lastYear": 2020,
+      "seasons": 4,
+      "records": 72
+    },
+    {
+      "code": "SMRT",
+      "name": "SMRT",
+      "note": "Site coming soon",
+      "firstYear": 2008,
+      "lastYear": 2026,
+      "seasons": 14,
+      "records": 246
+    },
+    {
+      "code": "SSCM",
+      "firstYear": 2016,
+      "lastYear": 2018,
+      "seasons": 3,
+      "records": 70
+    },
+    {
+      "code": "SWYS",
+      "firstYear": 2010,
+      "lastYear": 2014,
+      "seasons": 4,
+      "records": 270
+    },
+    {
+      "code": "SYMS",
+      "firstYear": 2010,
+      "lastYear": 2010,
+      "seasons": 1,
+      "records": 19
+    },
+    {
+      "code": "SYS",
+      "firstYear": 2016,
+      "lastYear": 2019,
+      "seasons": 4,
+      "records": 432
+    },
+    {
+      "code": "TCM",
+      "firstYear": 2005,
+      "lastYear": 2005,
+      "seasons": 1,
+      "records": 13
+    },
+    {
+      "code": "TGM",
+      "firstYear": 2002,
+      "lastYear": 2013,
+      "seasons": 10,
+      "records": 1456
+    },
+    {
+      "code": "UP",
+      "name": "UP",
+      "note": "Site coming soon",
+      "firstYear": 2024,
+      "lastYear": 2025,
+      "seasons": 2,
+      "records": 5
+    },
+    {
+      "code": "WAMT",
+      "firstYear": 2014,
+      "lastYear": 2015,
+      "seasons": 2,
+      "records": 112
+    },
+    {
+      "code": "YCSC",
+      "firstYear": 2015,
+      "lastYear": 2024,
+      "seasons": 10,
+      "records": 365
+    },
+    {
+      "code": "YSMS",
+      "firstYear": 2000,
+      "lastYear": 2002,
+      "seasons": 2,
+      "records": 10
+    }
+  ]
+}

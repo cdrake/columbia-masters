@@ -34,9 +34,11 @@ const $opt = <T extends HTMLElement>(sel: string) => document.querySelector<T>(s
 
 async function init() {
   const hasRecords = !!$opt("#results");
+  // State-site club pages point the records section at that club's file.
+  const recordsSrc = $opt("#records")?.dataset.src ?? `data/${tenant.teamCode}_all_records.json`;
   const [recordsRes, sheetData] = await Promise.all([
     hasRecords
-      ? fetch(`${import.meta.env.BASE_URL}data/${tenant.teamCode}_all_records.json`).then((r) => r.json())
+      ? fetch(`${import.meta.env.BASE_URL}${recordsSrc}`).then((r) => r.json())
       : Promise.resolve([]),
     fetchAllSheets(),
   ]);
@@ -69,10 +71,12 @@ function populateFilters() {
   fillSelect("filter-distance", getDistances());
   fillSelect("filter-year", unique("year").sort((a, b) => b.localeCompare(a)));
   fillSelect("filter-age", unique("ageGroup"));
+  fillSelect("filter-team", unique("team"));
 }
 
 function fillSelect(id: string, values: string[]) {
-  const sel = $<HTMLSelectElement>(`#${id}`);
+  const sel = $opt<HTMLSelectElement>(`#${id}`);
+  if (!sel) return;
   for (const v of values) {
     const opt = document.createElement("option");
     opt.value = v;
@@ -121,8 +125,8 @@ function formatLabel(filterId: string, value: string): string {
 function wireEvents() {
   $<HTMLInputElement>("#search").addEventListener("input", debounce(render, 150));
 
-  for (const id of ["filter-course", "filter-gender", "filter-event", "filter-distance", "filter-year", "filter-age"]) {
-    $<HTMLSelectElement>(`#${id}`).addEventListener("change", render);
+  for (const id of ["filter-course", "filter-gender", "filter-event", "filter-distance", "filter-year", "filter-age", "filter-team"]) {
+    $opt<HTMLSelectElement>(`#${id}`)?.addEventListener("change", render);
   }
 
   for (const th of document.querySelectorAll<HTMLElement>("th[data-sort]")) {
@@ -159,6 +163,7 @@ function getFiltered(): TeamRecord[] {
   const distance = $<HTMLSelectElement>("#filter-distance").value;
   const year = $<HTMLSelectElement>("#filter-year").value;
   const age = $<HTMLSelectElement>("#filter-age").value;
+  const team = $opt<HTMLSelectElement>("#filter-team")?.value;
 
   return allRecords.filter((r) => {
     if (course && r.course !== course) return false;
@@ -166,6 +171,7 @@ function getFiltered(): TeamRecord[] {
     if (event && extractStroke(r.event) !== event) return false;
     if (distance && extractDistance(r.event) !== distance) return false;
     if (age && r.ageGroup !== age) return false;
+    if (team && r.team !== team) return false;
     if (year && r.year !== year) return false;
     if (query) {
       const haystack = `${r.swimmer} ${r.event} ${r.meet} ${r.team}`.toLowerCase();
@@ -194,7 +200,7 @@ function render() {
   const sorted = getSorted(filtered);
 
   const tbody = $<HTMLTableSectionElement>("#results tbody");
-  const teamCol = tenant.kind === "lmsc";
+  const teamCol = !!$opt('th[data-sort="team"]');
   // Thousands of <tr>s make filtering sluggish (state sites have ~18k rows), so cap the table.
   tbody.innerHTML = sorted
     .slice(0, MAX_ROWS)

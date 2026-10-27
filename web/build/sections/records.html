@@ -1,5 +1,5 @@
     <!-- Records -->
-    <section id="records" class="section">
+    <section id="records" class="section" data-src="{{ recordsSrc }}">
       <div class="container">
         <h2>{{ recordsTitle }}</h2>
 
@@ -17,6 +17,7 @@
             <select id="filter-event"><option value="">All Strokes</option></select>
             <select id="filter-distance"><option value="">All Distances</option></select>
             <select id="filter-age"><option value="">All Age Groups</option></select>
+            {{ teamFilter }}
           </div>
         </div>
 
