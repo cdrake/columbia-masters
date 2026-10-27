@@ -1,0 +1,383 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ALEX,50 M Backstroke,SCM,M,35-39,33.33,Tim Taylor,,2026 Albatross Open (SCM),2026,1
+ALEX,100 M Backstroke,SCM,M,35-39,1:12.60,Tim Taylor,,2026 Albatross Open (SCM),2026,1
+ALEX,200 M Backstroke,SCM,M,35-39,2:41.32,Tim Taylor,,2026 Albatross Open (SCM),2026,1
+ALEX,50 M Breaststroke,SCM,M,35-39,36.48,Tim Taylor,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,W,30-34,39.01,Emily M Harris,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,W,30-34,44.52,Emily M Harris,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,W,40-44,30.47,Randi Y Zung,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,W,40-44,32.28,Samantha C Herrera,,2026 Albatross Open (SCM),2026,2
+ANCM,100 M Freestyle,SCM,W,40-44,1:14.89,Mary S Markley,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,W,40-44,33.99,Randi Y Zung,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,W,40-44,38.82,Samantha C Herrera,,2026 Albatross Open (SCM),2026,2
+ANCM,100 M Backstroke,SCM,W,40-44,1:15.52,Randi Y Zung,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Backstroke,SCM,W,40-44,2:49.10,Randi Y Zung,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Breaststroke,SCM,W,40-44,43.30,Mary S Markley,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Breaststroke,SCM,W,40-44,43.79,Samantha C Herrera,,2026 Albatross Open (SCM),2026,2
+ANCM,100 M Individual Medley,SCM,W,40-44,1:25.71,Samantha C Herrera,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Freestyle,SCM,W,55-59,1:14.90,Tracey C Diss,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Backstroke,SCM,W,55-59,1:21.33,Tracey C Diss,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Backstroke,SCM,W,55-59,2:57.86,Tracey C Diss,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,W,60-64,35.76,Kathryn Larin,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,W,60-64,50.50,Clare A Narrod,,2026 Albatross Open (SCM),2026,2
+ANCM,100 M Freestyle,SCM,W,60-64,1:21.41,Kathryn Larin,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Freestyle,SCM,W,60-64,3:02.01,Kathryn Larin,,2026 Albatross Open (SCM),2026,1
+ANCM,400 M Freestyle,SCM,W,60-64,7:33.15,Jody C Gan,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Butterfly,SCM,W,60-64,1:10.99,Clare A Narrod,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,W,80-84,1:40.67,Dorothy L Buchhagen,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Backstroke,SCM,W,80-84,3:35.96,Dorothy L Buchhagen,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,M,40-44,29.66,Chris LaMance,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Freestyle,SCM,M,40-44,1:19.92,Kevin Belle,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Breaststroke,SCM,M,40-44,44.11,Kevin Belle,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Breaststroke,SCM,M,40-44,1:31.23,Kevin Belle,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Freestyle,SCM,M,45-49,1:06.09,Patrick Doherty,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,M,45-49,35.01,Patrick Doherty,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Backstroke,SCM,M,45-49,1:14.94,Patrick Doherty,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,M,50-54,27.48,Jose-Luis Gallagher,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Freestyle,SCM,M,50-54,2:18.34,Jose-Luis Gallagher,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Freestyle,SCM,M,50-54,2:27.39,Kevin C Scott,,2026 Albatross Open (SCM),2026,2
+ANCM,200 M Backstroke,SCM,M,50-54,2:33.23,Jose-Luis Gallagher,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Breaststroke,SCM,M,50-54,3:07.29,Jose-Luis Gallagher,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Butterfly,SCM,M,50-54,1:20.17,Kevin C Scott,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,M,55-59,26.78,Scott T Russell,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,M,55-59,30.20,Ian W Record,,2026 Albatross Open (SCM),2026,2
+ANCM,50 M Freestyle,SCM,M,55-59,31.24,John E McCaffrey,,2026 Albatross Open (SCM),2026,3
+ANCM,100 M Freestyle,SCM,M,55-59,1:01.22,Scott T Russell,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,M,55-59,32.28,Scott T Russell,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Butterfly,SCM,M,55-59,32.52,Ian W Record,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Breaststroke,SCM,M,65-69,4:10.39,Thomas A Denes,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Breaststroke,SCM,M,70-74,59.00,Paul M Adler,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Breaststroke,SCM,M,70-74,2:17.15,Paul M Adler,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Freestyle,SCM,M,75-79,38.43,Kenneth R Hinga,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Freestyle,SCM,M,75-79,1:27.30,Kenneth R Hinga,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Freestyle,SCM,M,75-79,1:30.23,David Harmon,,2026 Albatross Open (SCM),2026,2
+ANCM,400 M Freestyle,SCM,M,75-79,7:28.14,David Harmon,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Backstroke,SCM,M,75-79,44.21,Roger F Leonard,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Backstroke,SCM,M,75-79,1:36.86,Roger F Leonard,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Backstroke,SCM,M,75-79,3:29.25,Roger F Leonard,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Breaststroke,SCM,M,75-79,44.94,Dan Morrow,,2026 Albatross Open (SCM),2026,1
+ANCM,50 M Breaststroke,SCM,M,75-79,56.26,Kenneth R Hinga,,2026 Albatross Open (SCM),2026,2
+ANCM,100 M Breaststroke,SCM,M,75-79,1:39.64,Dan Morrow,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Breaststroke,SCM,M,75-79,3:45.30,Dan Morrow,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Individual Medley,SCM,M,75-79,1:44.22,Dan Morrow,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Individual Medley,SCM,M,75-79,1:49.83,Kenneth R Hinga,,2026 Albatross Open (SCM),2026,2
+ANCM,50 M Freestyle,SCM,M,85-89,59.98,Neal P Gillen,,2026 Albatross Open (SCM),2026,1
+ANCM,100 M Freestyle,SCM,M,90-94,2:04.67,Robert F Benson,,2026 Albatross Open (SCM),2026,1
+ANCM,200 M Freestyle,SCM,M,90-94,4:32.42,Robert F Benson,,2026 Albatross Open (SCM),2026,1
+ARMS,100 M Freestyle,SCM,W,40-44,1:34.39,Ellen U Hufford,,2026 Albatross Open (SCM),2026,1
+ARMS,200 M Freestyle,SCM,W,40-44,3:23.38,Ellen U Hufford,,2026 Albatross Open (SCM),2026,1
+ARMS,50 M Breaststroke,SCM,W,40-44,58.69,Ellen U Hufford,,2026 Albatross Open (SCM),2026,1
+ARMS,50 M Butterfly,SCM,W,40-44,51.55,Ellen U Hufford,,2026 Albatross Open (SCM),2026,1
+ARMS,100 M Freestyle,SCM,M,35-39,1:00.95,William Tran,,2026 Albatross Open (SCM),2026,1
+ARMS,100 M Backstroke,SCM,M,35-39,1:07.89,William Tran,,2026 Albatross Open (SCM),2026,1
+ARMS,50 M Butterfly,SCM,M,35-39,30.55,William Tran,,2026 Albatross Open (SCM),2026,1
+ARMS,100 M Individual Medley,SCM,M,35-39,1:08.82,William Tran,,2026 Albatross Open (SCM),2026,1
+CEC,50 M Freestyle,SCM,W,40-44,30.69,Holly M Wittsack,,2026 Albatross Open (SCM),2026,1
+CEC,50 M Butterfly,SCM,W,40-44,34.18,Holly M Wittsack,,2026 Albatross Open (SCM),2026,1
+CEC,100 M Butterfly,SCM,W,40-44,1:17.99,Holly M Wittsack,,2026 Albatross Open (SCM),2026,1
+CEC,200 M Freestyle,SCM,M,25-29,1:53.15,Alexander Colson,,2026 Albatross Open (SCM),2026,1
+CEC,100 M Butterfly,SCM,M,25-29,53.07,Alexander Colson,,2026 Albatross Open (SCM),2026,1
+CEC,100 M Freestyle,SCM,M,40-44,56.16,Bryan Rivera,,2026 Albatross Open (SCM),2026,1
+CEC,200 M Freestyle,SCM,M,40-44,2:02.81,Bryan Rivera,,2026 Albatross Open (SCM),2026,1
+CEC,400 M Freestyle,SCM,M,40-44,4:28.40,Bryan Rivera,,2026 Albatross Open (SCM),2026,1
+CEC,100 M Freestyle,SCM,M,45-49,1:04.94,Ryan Hadley,,2026 Albatross Open (SCM),2026,1
+CEC,100 M Breaststroke,SCM,M,45-49,1:24.87,Ryan Hadley,,2026 Albatross Open (SCM),2026,1
+CEC,200 M Individual Medley,SCM,M,45-49,2:40.64,Ryan Hadley,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Freestyle,SCM,W,30-34,1:15.23,Camille E Galles,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Backstroke,SCM,W,30-34,1:22.42,Camille E Galles,,2026 Albatross Open (SCM),2026,1
+DCAC,200 M Backstroke,SCM,W,30-34,2:55.65,Camille E Galles,,2026 Albatross Open (SCM),2026,1
+DCAC,50 M Freestyle,SCM,W,40-44,29.81,Noura Hemady,,Aquapalooza VI,2026,1
+DCAC,100 M Freestyle,SCM,W,40-44,1:06.22,Noura Hemady,,Aquapalooza VI,2026,1
+DCAC,50 M Backstroke,SCM,W,40-44,38.05,Mallory O'Connor,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Backstroke,SCM,W,40-44,1:24.58,Mallory O'Connor,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Breaststroke,SCM,W,40-44,1:30.67,Noura Hemady,,Aquapalooza VI,2026,1
+DCAC,50 M Butterfly,SCM,W,40-44,39.00,Mallory O'Connor,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Individual Medley,SCM,W,40-44,1:17.76,Noura Hemady,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,W,40-44,1:29.99,Mallory O'Connor,,2026 Albatross Open (SCM),2026,2
+DCAC,200 M Breaststroke,SCM,W,45-49,3:13.58,Jane Paul,,2026 Albatross Open (SCM),2026,1
+DCAC,50 M Freestyle,SCM,W,55-59,41.92,Yumiko MIZUGUCHI,,2026 Albatross Open (SCM),2026,1
+DCAC,400 M Freestyle,SCM,M,25-29,4:35.81,Matthew T Youngbar,,Aquapalooza VI,2026,1
+DCAC,800 M Freestyle,SCM,M,25-29,9:39.29,Matthew T Youngbar,,Aquapalooza VI,2026,1
+DCAC,800 M Freestyle,SCM,M,25-29,9:57.31,Marc J Stern,,Aquapalooza VI,2026,2
+DCAC,50 M Backstroke,SCM,M,25-29,34.90,Jacob S Nishimura,,Aquapalooza VI,2026,1
+DCAC,50 M Butterfly,SCM,M,25-29,30.68,Jacob S Nishimura,,Aquapalooza VI,2026,1
+DCAC,100 M Butterfly,SCM,M,25-29,1:01.73,Marc J Stern,,Aquapalooza VI,2026,1
+DCAC,100 M Butterfly,SCM,M,25-29,1:11.36,Jacob S Nishimura,,Aquapalooza VI,2026,2
+DCAC,200 M Butterfly,SCM,M,25-29,2:23.13,Matthew T Youngbar,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,M,25-29,1:04.38,Marc J Stern,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,M,25-29,1:14.61,Jacob S Nishimura,,Aquapalooza VI,2026,2
+DCAC,50 M Freestyle,SCM,M,35-39,26.33,Dylan Monteiro,,Aquapalooza VI,2026,1
+DCAC,50 M Freestyle,SCM,M,35-39,27.62,Chris C Meadows,,Aquapalooza VI,2026,2
+DCAC,50 M Freestyle,SCM,M,35-39,28.88,Colin M Oldenburg,,Aquapalooza VI,2026,3
+DCAC,100 M Freestyle,SCM,M,35-39,1:09.36,Simone Martelli,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Freestyle,SCM,M,35-39,1:11.02,Colin M Oldenburg,,Aquapalooza VI,2026,2
+DCAC,200 M Freestyle,SCM,M,35-39,2:21.83,Francis Cullo,,Aquapalooza VI,2026,1
+DCAC,200 M Freestyle,SCM,M,35-39,2:29.72,Simone Martelli,,2026 Albatross Open (SCM),2026,2
+DCAC,50 M Backstroke,SCM,M,35-39,32.56,Dylan Monteiro,,Aquapalooza VI,2026,1
+DCAC,100 M Backstroke,SCM,M,35-39,1:09.63,Crosby M Jurkiewicz,,2026 Albatross Open (SCM),2026,1
+DCAC,50 M Breaststroke,SCM,M,35-39,34.85,Chris C Meadows,,2026 Albatross Open (SCM),2026,1
+DCAC,50 M Breaststroke,SCM,M,35-39,44.12,Michael Lambright,,Aquapalooza VI,2026,2
+DCAC,100 M Breaststroke,SCM,M,35-39,1:17.66,Chris C Meadows,,Aquapalooza VI,2026,1
+DCAC,100 M Breaststroke,SCM,M,35-39,1:35.58,Michael Lambright,,Aquapalooza VI,2026,2
+DCAC,50 M Butterfly,SCM,M,35-39,29.08,Chris C Meadows,,Aquapalooza VI,2026,1
+DCAC,100 M Butterfly,SCM,M,35-39,1:03.40,Crosby M Jurkiewicz,,2026 Albatross Open (SCM),2026,1
+DCAC,200 M Butterfly,SCM,M,35-39,2:39.82,Francis Cullo,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,M,35-39,1:09.02,Dylan Monteiro,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,M,35-39,1:23.84,Colin M Oldenburg,,Aquapalooza VI,2026,2
+DCAC,200 M Individual Medley,SCM,M,35-39,2:26.01,Crosby M Jurkiewicz,,2026 Albatross Open (SCM),2026,1
+DCAC,100 M Freestyle,SCM,M,40-44,1:02.47,Ian D White,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,M,40-44,1:16.69,Ian D White,,Aquapalooza VI,2026,1
+DCAC,50 M Freestyle,SCM,M,50-54,30.09,John Tustin,,Aquapalooza VI,2026,1
+DCAC,50 M Backstroke,SCM,M,50-54,35.53,John Tustin,,Aquapalooza VI,2026,1
+DCAC,100 M Individual Medley,SCM,M,50-54,1:16.62,John Tustin,,Aquapalooza VI,2026,1
+DCAC,50 M Freestyle,SCM,M,55-59,33.37,John R Napoli,,Aquapalooza VI,2026,1
+DCAC,100 M Backstroke,SCM,M,55-59,1:22.10,Charles Cockrell,,2026 Albatross Open (SCM),2026,1
+DCAC,200 M Backstroke,SCM,M,55-59,2:55.68,Charles Cockrell,,Aquapalooza VI,2026,1
+DCAC,50 M Breaststroke,SCM,M,55-59,46.21,John R Napoli,,Aquapalooza VI,2026,1
+DCAC,100 M Breaststroke,SCM,M,55-59,1:25.45,Charles Cockrell,,Aquapalooza VI,2026,1
+DCAC,100 M Breaststroke,SCM,M,55-59,1:44.32,John R Napoli,,Aquapalooza VI,2026,2
+DCAC,200 M Breaststroke,SCM,M,55-59,3:08.46,Charles Cockrell,,Aquapalooza VI,2026,1
+DCAC,200 M Breaststroke,SCM,M,55-59,3:53.46,John R Napoli,,Aquapalooza VI,2026,2
+DCAC,100 M Individual Medley,SCM,M,55-59,1:24.06,Charles Cockrell,,2026 Albatross Open (SCM),2026,1
+DCAC,50 M Freestyle,SCM,M,60-64,27.80,Carr Phillips,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
+DCAC,100 M Freestyle,SCM,M,60-64,1:04.08,Carr Phillips,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
+DCAC,50 M Backstroke,SCM,M,60-64,33.93,Carr Phillips,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
+DCAC,100 M Backstroke,SCM,M,60-64,1:14.07,Carr Phillips,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
+DCWW,50 M Freestyle,SCM,W,45-49,52.05,Nidia P Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,45-49,2:02.43,Nidia P Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Freestyle,SCM,W,45-49,4:38.81,Nidia P Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Backstroke,SCM,W,45-49,1:05.17,Nidia P Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,55-59,2:03.09,Christina Carrasco,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,55-59,2:04.67,Layla S Doman,,2026 Albatross Open (SCM),2026,2
+DCWW,200 M Freestyle,SCM,W,55-59,4:32.60,Layla S Doman,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Freestyle,SCM,W,55-59,4:52.35,Christina Carrasco,,2026 Albatross Open (SCM),2026,2
+DCWW,400 M Freestyle,SCM,W,55-59,9:46.21,Layla S Doman,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Backstroke,SCM,W,55-59,6:05.93,Christina Carrasco,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Freestyle,SCM,W,60-64,49.42,Chari Marple,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,60-64,1:48.26,OLGA Fonseca,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,60-64,1:50.95,Chari Marple,,2026 Albatross Open (SCM),2026,2
+DCWW,50 M Backstroke,SCM,W,60-64,54.45,OLGA Fonseca,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Backstroke,SCM,W,60-64,1:05.07,Chari Marple,,2026 Albatross Open (SCM),2026,2
+DCWW,100 M Backstroke,SCM,W,60-64,2:06.92,OLGA Fonseca,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Breaststroke,SCM,W,60-64,2:43.14,Mary Donatelli,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Breaststroke,SCM,W,60-64,5:43.23,Mary Donatelli,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Butterfly,SCM,W,60-64,1:12.99,Chari Marple,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Butterfly,SCM,W,60-64,2:48.08,Mary Donatelli,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,W,60-64,2:08.44,OLGA Fonseca,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Butterfly,SCM,W,65-69,58.08,Lisa Rarick,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Butterfly,SCM,W,65-69,2:10.96,Lisa Rarick,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,W,65-69,1:57.99,Lisa Rarick,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Individual Medley,SCM,W,65-69,4:10.32,Lisa Rarick,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Freestyle,SCM,W,70-74,1:06.26,Teresa S Rankin,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,70-74,2:32.07,Teresa S Rankin,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Freestyle,SCM,W,70-74,5:14.40,Teresa S Rankin,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Butterfly,SCM,W,70-74,1:52.45,Teresa S Rankin,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,W,75-79,1:40.75,Kathy A Labukas,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Backstroke,SCM,W,75-79,52.02,Kathy A Labukas,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Backstroke,SCM,W,75-79,1:53.95,Kathy A Labukas,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Backstroke,SCM,W,75-79,2:04.11,Karyn Baiorunos,,2026 Albatross Open (SCM),2026,2
+DCWW,200 M Backstroke,SCM,W,75-79,4:06.60,Kathy A Labukas,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Breaststroke,SCM,W,75-79,2:22.33,Karyn Baiorunos,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,W,75-79,2:12.67,Karyn Baiorunos,,2026 Albatross Open (SCM),2026,1
+DCWW,400 M Freestyle,SCM,M,35-39,4:45.63,Andrew V Loiacono,,2026 Albatross Open (SCM),2026,1
+DCWW,400 M Freestyle,SCM,M,35-39,5:25.11,Joshua Malamud,,2026 Albatross Open (SCM),2026,2
+DCWW,100 M Backstroke,SCM,M,35-39,1:18.17,Andrew V Loiacono,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Backstroke,SCM,M,35-39,2:59.87,Joshua Malamud,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Breaststroke,SCM,M,35-39,36.63,Andrew V Loiacono,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Breaststroke,SCM,M,35-39,39.09,Joshua Malamud,,2026 Albatross Open (SCM),2026,2
+DCWW,100 M Butterfly,SCM,M,35-39,1:20.77,Joshua Malamud,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,M,35-39,1:13.60,Andrew V Loiacono,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,M,55-59,1:12.76,Ross S Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,400 M Freestyle,SCM,M,55-59,5:52.79,Ross S Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Backstroke,SCM,M,55-59,1:19.12,David Diaz,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Backstroke,SCM,M,55-59,2:59.16,David Diaz,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Breaststroke,SCM,M,55-59,40.29,Ross S Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Butterfly,SCM,M,55-59,1:17.25,David Diaz,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,M,55-59,1:26.54,Ross S Dence,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Individual Medley,SCM,M,55-59,2:58.32,David Diaz,,2026 Albatross Open (SCM),2026,1
+DCWW,400 M Freestyle,SCM,M,60-64,6:05.82,Luis R Salazar,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Backstroke,SCM,M,60-64,1:17.99,Luis R Salazar,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Backstroke,SCM,M,60-64,2:52.44,Luis R Salazar,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Butterfly,SCM,M,60-64,1:29.56,Luis R Salazar,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,M,65-69,1:34.46,William T Kam,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Breaststroke,SCM,M,65-69,1:57.39,William T Kam,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Backstroke,SCM,M,70-74,1:10.82,Lawrence Thurston,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Backstroke,SCM,M,70-74,2:44.97,Lawrence Thurston,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Butterfly,SCM,M,70-74,1:08.88,Lawrence Thurston,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,M,70-74,2:46.20,Lawrence Thurston,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Freestyle,SCM,M,75-79,37.97,Bruce D Bradford,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Freestyle,SCM,M,75-79,44.87,Marvin R Blount,,2026 Albatross Open (SCM),2026,2
+DCWW,100 M Freestyle,SCM,M,75-79,1:24.22,Bruce D Bradford,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Freestyle,SCM,M,75-79,1:45.53,Marvin R Blount,,2026 Albatross Open (SCM),2026,2
+DCWW,200 M Freestyle,SCM,M,75-79,3:41.93,Patrick N Pope,,2026 Albatross Open (SCM),2026,1
+DCWW,400 M Freestyle,SCM,M,75-79,7:50.10,Patrick N Pope,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Backstroke,SCM,M,75-79,1:01.66,Marvin R Blount,,2026 Albatross Open (SCM),2026,1
+DCWW,50 M Breaststroke,SCM,M,75-79,51.29,Bruce D Bradford,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Breaststroke,SCM,M,75-79,1:58.19,Bruce D Bradford,,2026 Albatross Open (SCM),2026,1
+DCWW,200 M Breaststroke,SCM,M,75-79,4:34.77,Patrick N Pope,,2026 Albatross Open (SCM),2026,1
+DCWW,100 M Individual Medley,SCM,M,75-79,2:09.71,Marvin R Blount,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Breaststroke,SCM,W,18-24,1:39.19,Chloe G Vetter,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Individual Medley,SCM,W,18-24,1:33.28,Chloe G Vetter,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,25-29,32.89,Alice Ricci,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Butterfly,SCM,W,25-29,35.23,Alice Ricci,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Butterfly,SCM,W,25-29,2:55.18,Alice Ricci,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,35-39,33.13,Stephanie S White,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,W,35-39,1:14.13,Stephanie S White,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,W,35-39,2:31.45,Amy L Funk,,2026 Albatross Open (SCM),2026,1
+GERM,400 M Freestyle,SCM,W,35-39,5:20.41,Amy L Funk,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Backstroke,SCM,W,35-39,40.97,Stephanie S White,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Backstroke,SCM,W,35-39,2:53.66,Amy L Funk,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Butterfly,SCM,W,35-39,1:22.80,Amy L Funk,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Individual Medley,SCM,W,35-39,1:32.34,Stephanie S White,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,45-49,30.51,Dorota M Hassett,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,W,45-49,2:27.51,Lisa M Chin,,2026 Albatross Open (SCM),2026,1
+GERM,400 M Freestyle,SCM,W,45-49,5:08.42,Lisa M Chin,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Breaststroke,SCM,W,45-49,3:17.11,Dorota M Hassett,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,50-54,46.97,Christina Baur,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,W,50-54,1:11.02,Jenny Carswell,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,W,50-54,2:32.47,Jenny Carswell,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Breaststroke,SCM,W,50-54,52.53,Christina Baur,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Butterfly,SCM,W,50-54,41.76,Laurence E Lemiale,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Individual Medley,SCM,W,50-54,3:00.25,Jenny Carswell,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,55-59,36.15,Gena C Rezmer,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,W,55-59,1:20.17,Gena C Rezmer,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Backstroke,SCM,W,55-59,42.73,Gena C Rezmer,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Backstroke,SCM,W,55-59,1:30.42,Gena C Rezmer,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,60-64,40.53,Elizabeth Spear,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,W,60-64,1:14.69,Denise L Dombay,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,W,60-64,2:41.77,Denise L Dombay,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,W,60-64,3:04.16,Elizabeth Spear,,2026 Albatross Open (SCM),2026,2
+GERM,400 M Freestyle,SCM,W,60-64,5:51.23,Denise L Dombay,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Butterfly,SCM,W,60-64,47.38,Elizabeth Spear,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Individual Medley,SCM,W,60-64,1:27.37,Denise L Dombay,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Individual Medley,SCM,W,60-64,1:43.74,Elizabeth Spear,,2026 Albatross Open (SCM),2026,2
+GERM,50 M Backstroke,SCM,W,70-74,41.86,Jeanne L Lappin,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Backstroke,SCM,W,70-74,1:31.71,Jeanne L Lappin,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Breaststroke,SCM,W,70-74,1:46.90,Jeanne L Lappin,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Individual Medley,SCM,W,70-74,1:30.85,Jeanne L Lappin,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,W,80-84,1:24.12,Arlene Proebsting,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,W,80-84,3:48.28,Arlene Proebsting,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,M,35-39,30.23,Kempsey Clark,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,M,35-39,2:40.75,Jason J George,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Backstroke,SCM,M,35-39,34.72,Kempsey Clark,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Backstroke,SCM,M,35-39,1:15.62,Kempsey Clark,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Backstroke,SCM,M,35-39,2:49.29,Kempsey Clark,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Breaststroke,SCM,M,35-39,3:07.39,Jason J George,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Individual Medley,SCM,M,35-39,2:55.72,Jason J George,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Breaststroke,SCM,M,50-54,33.02,Gustavo Sandi,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Breaststroke,SCM,M,50-54,1:15.99,Gustavo Sandi,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,M,60-64,31.38,Scott M Golden,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,M,60-64,1:10.22,Scott M Golden,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Freestyle,SCM,M,60-64,2:46.65,Scott M Golden,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Butterfly,SCM,M,60-64,33.86,Scott M Golden,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Butterfly,SCM,M,65-69,37.81,Steve Jolles,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Individual Medley,SCM,M,65-69,1:32.97,Steve Jolles,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,M,70-74,39.99,Mark Walters,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,M,70-74,1:26.22,Mark Walters,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Breaststroke,SCM,M,70-74,48.70,Mark Walters,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Butterfly,SCM,M,70-74,41.01,Mark Walters,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,M,75-79,1:27.19,Stephen Wright,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Backstroke,SCM,M,75-79,42.80,Stephen Wright,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Backstroke,SCM,M,75-79,1:05.80,John A Abbott,,2026 Albatross Open (SCM),2026,2
+GERM,100 M Backstroke,SCM,M,75-79,1:35.53,Stephen Wright,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Backstroke,SCM,M,75-79,3:28.47,Stephen Wright,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Breaststroke,SCM,M,75-79,58.29,John A Abbott,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Freestyle,SCM,M,80-84,50.23,Ronald E Greger,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Freestyle,SCM,M,80-84,1:40.60,David L Robinson,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Backstroke,SCM,M,80-84,2:04.07,David L Robinson,,2026 Albatross Open (SCM),2026,1
+GERM,200 M Backstroke,SCM,M,80-84,4:42.27,David L Robinson,,2026 Albatross Open (SCM),2026,1
+GERM,50 M Breaststroke,SCM,M,80-84,58.96,Ronald E Greger,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Breaststroke,SCM,M,80-84,2:11.47,Ronald E Greger,,2026 Albatross Open (SCM),2026,1
+GERM,100 M Breaststroke,SCM,M,80-84,2:13.94,David L Robinson,,2026 Albatross Open (SCM),2026,2
+GERM,200 M Breaststroke,SCM,M,80-84,4:51.85,Ronald E Greger,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Freestyle,SCM,W,40-44,38.35,Rachel Boehm,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Backstroke,SCM,W,40-44,45.98,Rachel Boehm,,2026 Albatross Open (SCM),2026,1
+L4S,100 M Backstroke,SCM,W,40-44,1:28.90,Sarah E Bofinger,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Breaststroke,SCM,W,40-44,40.43,Sarah E Bofinger,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Breaststroke,SCM,W,40-44,52.46,Rachel Boehm,,2026 Albatross Open (SCM),2026,2
+L4S,200 M Breaststroke,SCM,W,40-44,3:24.31,Sarah E Bofinger,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Butterfly,SCM,W,40-44,44.77,Rachel Boehm,,2026 Albatross Open (SCM),2026,1
+L4S,100 M Freestyle,SCM,M,60-64,1:06.82,Jay T Kress,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Backstroke,SCM,M,60-64,36.18,Jay T Kress,,2026 Albatross Open (SCM),2026,1
+L4S,50 M Breaststroke,SCM,M,60-64,40.30,Jay T Kress,,2026 Albatross Open (SCM),2026,1
+MASH,50 M Butterfly,SCM,M,60-64,33.08,Stephen H King,,2026 Albatross Open (SCM),2026,1
+MASH,100 M Butterfly,SCM,M,60-64,1:17.39,Stephen H King,,2026 Albatross Open (SCM),2026,1
+MASH,200 M Butterfly,SCM,M,60-64,2:59.94,Stephen H King,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Breaststroke,SCM,W,65-69,49.42,Merri Flynn,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Breaststroke,SCM,W,65-69,1:50.73,Merri Flynn,,2026 Albatross Open (SCM),2026,1
+RMST,200 M Freestyle,SCM,M,25-29,2:06.54,Jack Ham,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Backstroke,SCM,M,25-29,28.61,Jack Ham,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Backstroke,SCM,M,25-29,35.21,Stephen L Elliott,,2026 Albatross Open (SCM),2026,2
+RMST,50 M Backstroke,SCM,M,25-29,1:35.26,Nihaal Yerram,,2026 Albatross Open (SCM),2026,3
+RMST,50 M Breaststroke,SCM,M,25-29,42.18,Stephen L Elliott,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Butterfly,SCM,M,25-29,31.12,Stephen L Elliott,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Butterfly,SCM,M,25-29,1:03.88,Jack Ham,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Individual Medley,SCM,M,25-29,1:04.33,Jack Ham,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Freestyle,SCM,M,35-39,27.91,Aristides R Sevilla,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Freestyle,SCM,M,35-39,1:01.64,Aristides R Sevilla,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Butterfly,SCM,M,35-39,30.59,Aristides R Sevilla,,2026 Albatross Open (SCM),2026,1
+RMST,400 M Freestyle,SCM,M,45-49,4:35.60,Thomas J Dion,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Freestyle,SCM,M,60-64,1:15.61,Brian R Evans,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Backstroke,SCM,M,60-64,1:31.38,Brian R Evans,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Butterfly,SCM,M,60-64,1:32.27,Brian R Evans,,2026 Albatross Open (SCM),2026,1
+RMST,100 M Freestyle,SCM,M,80-84,1:54.20,Larry S Snowhite,,2026 Albatross Open (SCM),2026,1
+RMST,200 M Freestyle,SCM,M,80-84,4:00.18,Larry S Snowhite,,2026 Albatross Open (SCM),2026,1
+RMST,400 M Freestyle,SCM,M,80-84,9:01.64,Larry S Snowhite,,2026 Albatross Open (SCM),2026,1
+RMST,50 M Backstroke,SCM,M,80-84,1:08.97,Larry S Snowhite,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Freestyle,SCM,W,35-39,2:17.29,Courtney Randolph,,2026 Albatross Open (SCM),2026,1
+TERR,400 M Freestyle,SCM,W,35-39,4:44.49,Courtney Randolph,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Breaststroke,SCM,W,35-39,37.16,Courtney Randolph,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Individual Medley,SCM,W,35-39,1:11.58,Courtney Randolph,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Freestyle,SCM,W,45-49,1:03.80,Mollie K Grover,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Backstroke,SCM,W,45-49,34.36,Mollie K Grover,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Butterfly,SCM,W,45-49,31.83,Mollie K Grover,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Freestyle,SCM,M,18-24,28.15,Daniel Greigg,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Freestyle,SCM,M,18-24,1:03.68,Andrew D Byham-Maier,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Freestyle,SCM,M,18-24,2:19.12,Daniel Greigg,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Butterfly,SCM,M,18-24,30.47,Andrew D Byham-Maier,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Butterfly,SCM,M,18-24,1:07.09,Daniel Greigg,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Individual Medley,SCM,M,18-24,1:07.92,Daniel Greigg,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Individual Medley,SCM,M,18-24,1:13.57,Andrew D Byham-Maier,,2026 Albatross Open (SCM),2026,2
+TERR,100 M Freestyle,SCM,M,30-34,56.74,Jose De Jesus,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Freestyle,SCM,M,30-34,2:00.53,Mark Smith,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Breaststroke,SCM,M,30-34,31.78,Jose De Jesus,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Butterfly,SCM,M,30-34,26.65,Mark Smith,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Butterfly,SCM,M,30-34,58.23,Mark Smith,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Breaststroke,SCM,M,50-54,33.74,Michael R Goodison,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Breaststroke,SCM,M,50-54,2:46.05,Michael R Goodison,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Butterfly,SCM,M,50-54,1:08.70,Michael R Goodison,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Butterfly,SCM,M,50-54,1:20.35,Santiago Solares,,2026 Albatross Open (SCM),2026,2
+TERR,200 M Butterfly,SCM,M,50-54,3:17.85,Santiago Solares,,2026 Albatross Open (SCM),2026,1
+TERR,100 M Individual Medley,SCM,M,50-54,1:20.96,Santiago Solares,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Individual Medley,SCM,M,50-54,3:01.00,Santiago Solares,,2026 Albatross Open (SCM),2026,1
+TERR,50 M Backstroke,SCM,M,60-64,32.77,Emad H Elshafei,,Masters Fall SCM Record Breaker Meet,2026,1
+TERR,100 M Backstroke,SCM,M,60-64,1:13.26,Emad H Elshafei,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Backstroke,SCM,M,60-64,2:37.99,Emad H Elshafei,,Masters Fall SCM Record Breaker Meet,2026,1
+TERR,50 M Breaststroke,SCM,M,60-64,37.59,Emad H Elshafei,,2026 Albatross Open (SCM),2026,1
+TERR,200 M Breaststroke,SCM,M,60-64,3:01.13,Emad H Elshafei,,Masters Fall SCM Record Breaker Meet,2026,1
+TERR,100 M Individual Medley,SCM,M,60-64,1:13.98,Emad H Elshafei,,Masters Fall SCM Record Breaker Meet,2026,1
+TERR,200 M Individual Medley,SCM,M,60-64,2:39.27,Emad H Elshafei,,Masters Fall SCM Record Breaker Meet,2026,1
+UC10,50 M Freestyle,SCM,M,18-24,22.95,Evan J Zhang,,2026 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2026,1
+UC10,50 M Freestyle,SCM,M,18-24,27.01,John C Bajwa,,2026 Albatross Open (SCM),2026,2
+UC10,100 M Freestyle,SCM,M,18-24,53.04,Evan J Zhang,,2026 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2026,1
+UC10,100 M Freestyle,SCM,M,18-24,1:00.19,John C Bajwa,,2026 Albatross Open (SCM),2026,2
+UC10,200 M Freestyle,SCM,M,18-24,2:16.46,John C Bajwa,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Breaststroke,SCM,M,18-24,29.37,Evan J Zhang,,2026 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2026,1
+UC10,50 M Butterfly,SCM,M,18-24,25.71,Evan J Zhang,,2026 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2026,1
+UC10,100 M Individual Medley,SCM,M,18-24,1:00.20,Evan J Zhang,,2026 Pacific Masters Swimming Kerry O'Brien Short Course Meters Championships,2026,1
+UC10,100 M Freestyle,SCM,M,40-44,1:06.54,Joshua S Silverstein,,2026 Albatross Open (SCM),2026,1
+UC10,200 M Freestyle,SCM,M,40-44,2:30.62,Joshua S Silverstein,,2026 Albatross Open (SCM),2026,1
+UC10,200 M Individual Medley,SCM,M,40-44,2:50.27,Joshua S Silverstein,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Freestyle,SCM,M,45-49,25.47,Devin M Scanlon,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Freestyle,SCM,M,45-49,28.88,Paavo Miettinen,,2026 Albatross Open (SCM),2026,2
+UC10,200 M Freestyle,SCM,M,45-49,2:24.67,Paavo Miettinen,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Breaststroke,SCM,M,45-49,32.85,Devin M Scanlon,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Butterfly,SCM,M,45-49,27.47,Devin M Scanlon,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Butterfly,SCM,M,45-49,30.38,Paavo Miettinen,,2026 Albatross Open (SCM),2026,2
+UC10,100 M Butterfly,SCM,M,45-49,1:12.10,Paavo Miettinen,,2026 Albatross Open (SCM),2026,1
+UC10,400 M Freestyle,SCM,M,55-59,5:06.76,James W Mello,,2026 Albatross Open (SCM),2026,1
+UC10,100 M Backstroke,SCM,M,55-59,1:20.91,James W Mello,,2026 Albatross Open (SCM),2026,1
+UC10,100 M Breaststroke,SCM,M,55-59,1:30.70,James W Mello,,2026 Albatross Open (SCM),2026,1
+UC10,200 M Individual Medley,SCM,M,55-59,2:54.09,James W Mello,,2026 Albatross Open (SCM),2026,1
+UC10,50 M Backstroke,SCM,M,85-89,46.01,Howard Rolston,,2026 Albatross Open (SCM),2026,1
+UC10,100 M Backstroke,SCM,M,85-89,1:43.88,Howard Rolston,,2026 Albatross Open (SCM),2026,1

@@ -1,0 +1,835 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ALEX,50 M Freestyle,SCM,W,30-34,31.26,Stephanie Gauzens,,2018 Albatross Open,2018,1
+ALEX,100 M Backstroke,SCM,W,30-34,1:19.86,Stephanie Gauzens,,2018 Albatross Open,2018,1
+ALEX,100 M Butterfly,SCM,W,30-34,1:18.24,Stephanie Gauzens,,2018 Albatross Open,2018,1
+ALEX,100 M Freestyle,SCM,W,55-59,1:14.92,Fay V Lachney,,2018 Last Chance Meters Meet,2018,1
+ALEX,200 M Freestyle,SCM,W,55-59,2:39.37,Fay V Lachney,,2018 Last Chance Meters Meet,2018,1
+ALEX,800 M Freestyle,SCM,W,55-59,11:26.49,Fay V Lachney,,2018 Last Chance Meters Meet,2018,1
+ALEX,100 M Freestyle,SCM,M,25-29,53.42,Scott M McHenry,,2018 Albatross Open,2018,1
+ALEX,50 M Breaststroke,SCM,M,25-29,30.39,Scott M McHenry,,2018 Albatross Open,2018,1
+ALEX,50 M Butterfly,SCM,M,25-29,26.75,Scott M McHenry,,2018 Albatross Open,2018,1
+ALEX,100 M Individual Medley,SCM,M,25-29,1:00.03,Scott M McHenry,,2018 Albatross Open,2018,1
+ALEX,100 M Freestyle,SCM,M,30-34,1:04.62,Tim Taylor,,2018 Albatross Open,2018,1
+ALEX,100 M Backstroke,SCM,M,30-34,1:12.09,Tim Taylor,,2018 Albatross Open,2018,1
+ALEX,100 M Breaststroke,SCM,M,30-34,1:20.98,Tim Taylor,,2018 Albatross Open,2018,1
+ALEX,100 M Individual Medley,SCM,M,30-34,1:11.38,Tim Taylor,,2018 Albatross Open,2018,1
+ALEX,100 M Breaststroke,SCM,M,35-39,1:22.27,Jim Schiess,,6th Annual Solstice SCM Swim Meet,2018,1
+ALEX,50 M Butterfly,SCM,M,35-39,29.81,Jim Schiess,,6th Annual Solstice SCM Swim Meet,2018,1
+ALEX,200 M Individual Medley,SCM,M,35-39,2:45.49,Jim Schiess,,6th Annual Solstice SCM Swim Meet,2018,1
+ALEX,50 M Backstroke,SCM,M,70-74,40.94,Kevin V Culhane,,6th Annual Solstice SCM Swim Meet,2018,1
+ALEX,50 M Breaststroke,SCM,M,70-74,44.10,Kevin V Culhane,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,W,30-34,36.69,Marissa A Bartol,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,W,30-34,1:21.15,Marissa A Bartol,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,W,30-34,3:22.05,Julie F Goldberg,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Backstroke,SCM,W,30-34,51.64,Julie F Goldberg,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,W,30-34,56.37,Julie F Goldberg,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,W,30-34,45.58,Marissa A Bartol,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,W,30-34,51.08,Julie F Goldberg,,2018 Albatross Open,2018,2
+ANCM,100 M Individual Medley,SCM,W,30-34,1:46.12,Julie F Goldberg,,2018 Albatross Open,2018,1
+ANCM,100 M Backstroke,SCM,W,35-39,1:24.36,Kristen A Koehler,,2018 Albatross Open,2018,1
+ANCM,100 M Butterfly,SCM,W,35-39,1:20.74,Kristen A Koehler,,2018 Albatross Open,2018,1
+ANCM,200 M Individual Medley,SCM,W,35-39,3:01.20,Kristen A Koehler,,2018 Albatross Open,2018,1
+ANCM,400 M Freestyle,SCM,W,40-44,4:58.73,Julie Roddin,,2018 Albatross Open,2018,1
+ANCM,400 M Freestyle,SCM,W,40-44,5:48.50,Hannah G Rubin,,2018 Albatross Open,2018,2
+ANCM,100 M Backstroke,SCM,W,40-44,1:13.71,Julie Roddin,,2018 Albatross Open,2018,1
+ANCM,200 M Backstroke,SCM,W,40-44,2:37.33,Julie Roddin,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,W,40-44,1:26.49,Hannah G Rubin,,2018 Albatross Open,2018,1
+ANCM,50 M Freestyle,SCM,W,45-49,43.78,Bonnie W Johnson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Backstroke,SCM,W,45-49,53.28,Bonnie W Johnson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Individual Medley,SCM,W,45-49,1:53.67,Bonnie W Johnson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,W,50-54,35.96,Nanci K Sundel,,2018 Albatross Open,2018,1
+ANCM,50 M Freestyle,SCM,W,50-54,39.91,Jody C Gan,,2018 Albatross Open,2018,2
+ANCM,100 M Freestyle,SCM,W,50-54,1:19.45,Nanci K Sundel,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,W,50-54,2:45.09,Cathy C Gainor,,2018 Albatross Open,2018,1
+ANCM,400 M Freestyle,SCM,W,50-54,5:48.23,Cathy C Gainor,,2018 Albatross Open,2018,1
+ANCM,50 M Backstroke,SCM,W,50-54,1:06.90,Kira E Mock,,2018 Albatross Open,2018,1
+ANCM,200 M Backstroke,SCM,W,50-54,3:28.13,Cathy C Gainor,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Individual Medley,SCM,W,50-54,2:24.91,Kira E Mock,,2018 Albatross Open,2018,1
+ANCM,200 M Individual Medley,SCM,W,50-54,3:08.63,Cathy C Gainor,,2018 Albatross Open,2018,1
+ANCM,400 M Individual Medley,SCM,W,50-54,6:46.71,Cathy C Gainor,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,W,55-59,34.47,Leslie L Anchor,,2018 Albatross Open,2018,1
+ANCM,50 M Freestyle,SCM,W,55-59,1:02.67,Stephanie A Sugg,,6th Annual Solstice SCM Swim Meet,2018,2
+ANCM,100 M Freestyle,SCM,W,55-59,2:20.44,Stephanie A Sugg,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,W,55-59,2:50.38,Leslie L Anchor,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,W,55-59,3:19.20,Pam Hepp,,2018 Albatross Open,2018,2
+ANCM,200 M Freestyle,SCM,W,55-59,4:57.58,Stephanie A Sugg,,2018 Albatross Open,2018,3
+ANCM,50 M Backstroke,SCM,W,55-59,42.51,Leslie L Anchor,,2018 Albatross Open,2018,1
+ANCM,50 M Backstroke,SCM,W,55-59,1:04.67,Stephanie A Sugg,,6th Annual Solstice SCM Swim Meet,2018,2
+ANCM,200 M Backstroke,SCM,W,55-59,3:25.21,Leslie L Anchor,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,W,55-59,1:41.54,Pam Hepp,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,W,55-59,2:18.82,Stephanie A Sugg,,2018 Albatross Open,2018,2
+ANCM,50 M Freestyle,SCM,W,60-64,48.62,Deborah A Yochelson,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,W,60-64,1:47.71,Deborah A Yochelson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Backstroke,SCM,W,60-64,1:47.34,Linda K Foley,,2018 Albatross Open,2018,1
+ANCM,200 M Backstroke,SCM,W,60-64,3:51.05,Linda K Foley,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,W,60-64,1:00.81,Deborah A Yochelson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Breaststroke,SCM,W,60-64,2:13.38,Deborah A Yochelson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,200 M Breaststroke,SCM,W,60-64,4:49.14,Deborah A Yochelson,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Individual Medley,SCM,W,60-64,1:58.55,Linda K Foley,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Individual Medley,SCM,W,60-64,2:03.33,Deborah A Yochelson,,2018 Albatross Open,2018,2
+ANCM,200 M Individual Medley,SCM,W,60-64,4:08.38,Linda K Foley,,2018 Albatross Open,2018,1
+ANCM,100 M Breaststroke,SCM,W,70-74,1:42.13,Margot K Pettijohn,,2018 Albatross Open,2018,1
+ANCM,200 M Breaststroke,SCM,W,70-74,3:37.98,Margot K Pettijohn,,2018 Albatross Open,2018,1
+ANCM,100 M Butterfly,SCM,W,70-74,1:34.98,Margot K Pettijohn,,2018 Albatross Open,2018,1
+ANCM,200 M Butterfly,SCM,W,70-74,3:43.45,Margot K Pettijohn,,2018 Albatross Open,2018,1
+ANCM,50 M Freestyle,SCM,M,30-34,37.11,Nii-Kwanchie Ankrah,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,M,30-34,1:31.99,Nii-Kwanchie Ankrah,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,M,40-44,1:25.90,Todd J Moses,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,M,40-44,2:30.57,Brian R Hooker,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,M,40-44,3:18.43,Todd J Moses,,6th Annual Solstice SCM Swim Meet,2018,2
+ANCM,400 M Freestyle,SCM,M,40-44,7:14.45,Todd J Moses,,2018 Albatross Open,2018,1
+ANCM,100 M Backstroke,SCM,M,40-44,1:25.05,Brian R Hooker,,2018 Albatross Open,2018,1
+ANCM,50 M Freestyle,SCM,M,45-49,29.07,Andrew C Schulz,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,M,45-49,30.42,John E Mc Caffrey,,2018 Albatross Open,2018,2
+ANCM,100 M Freestyle,SCM,M,45-49,1:05.64,Andrew C Schulz,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Freestyle,SCM,M,45-49,1:07.40,Aydar Gabidullin,,2018 Albatross Open,2018,2
+ANCM,200 M Freestyle,SCM,M,45-49,2:35.12,Aydar Gabidullin,,2018 Albatross Open,2018,1
+ANCM,400 M Freestyle,SCM,M,45-49,4:54.59,Kevin C Scott,,2018 Albatross Open,2018,1
+ANCM,50 M Backstroke,SCM,M,45-49,33.07,James M Rosenthal,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,M,45-49,36.53,Andrew C Schulz,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Breaststroke,SCM,M,45-49,1:20.29,Andrew C Schulz,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Breaststroke,SCM,M,45-49,1:25.88,Aydar Gabidullin,,2018 Albatross Open,2018,2
+ANCM,50 M Butterfly,SCM,M,45-49,28.05,Jeffrey H Roddin,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,M,45-49,33.84,John E Mc Caffrey,,2018 Albatross Open,2018,2
+ANCM,100 M Butterfly,SCM,M,45-49,1:00.55,Jeffrey H Roddin,,2018 Albatross Open,2018,1
+ANCM,100 M Butterfly,SCM,M,45-49,1:01.67,James M Rosenthal,,2018 Albatross Open,2018,2
+ANCM,100 M Individual Medley,SCM,M,45-49,1:02.43,Jeffrey H Roddin,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,200 M Individual Medley,SCM,M,45-49,2:20.85,Jeffrey H Roddin,,2018 Albatross Open,2018,1
+ANCM,400 M Individual Medley,SCM,M,45-49,5:04.42,Jeffrey H Roddin,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,M,50-54,29.15,George Humbert,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,M,50-54,1:06.06,George Humbert,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,M,50-54,2:24.32,George Humbert,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,M,50-54,39.77,Jeff S Dubin,,2018 Albatross Open,2018,1
+ANCM,100 M Breaststroke,SCM,M,50-54,1:28.37,Jeff S Dubin,,2018 Albatross Open,2018,1
+ANCM,200 M Breaststroke,SCM,M,50-54,3:11.40,Jeff S Dubin,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,M,50-54,33.75,George Humbert,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Individual Medley,SCM,M,50-54,1:16.26,George Humbert,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,M,55-59,32.36,Brian Oliver,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,M,55-59,1:02.82,Justin H Kenney,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,M,55-59,1:17.33,Peter C Johnson,,2018 Albatross Open,2018,2
+ANCM,100 M Freestyle,SCM,M,55-59,1:40.01,Alexander Goldberg,,2018 Albatross Open,2018,3
+ANCM,200 M Freestyle,SCM,M,55-59,2:19.74,Justin H Kenney,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,M,55-59,2:58.68,Peter C Johnson,,2018 Albatross Open,2018,2
+ANCM,50 M Backstroke,SCM,M,55-59,29.16,Clay Britt,,2018 Albatross Open,2018,1
+ANCM,50 M Backstroke,SCM,M,55-59,38.98,Brian Oliver,,2018 Albatross Open,2018,2
+ANCM,100 M Backstroke,SCM,M,55-59,1:03.86,Clay Britt,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,M,55-59,42.19,Brian Oliver,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,M,55-59,29.24,Clay Britt,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,M,55-59,36.86,Brian Oliver,,2018 Albatross Open,2018,2
+ANCM,50 M Butterfly,SCM,M,55-59,1:05.25,Alexander Goldberg,,2018 Albatross Open,2018,3
+ANCM,100 M Individual Medley,SCM,M,55-59,1:06.20,Clay Britt,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,M,55-59,1:12.59,Justin H Kenney,,2018 Albatross Open,2018,2
+ANCM,100 M Individual Medley,SCM,M,55-59,1:35.65,Peter C Johnson,,6th Annual Solstice SCM Swim Meet,2018,3
+ANCM,100 M Individual Medley,SCM,M,55-59,1:37.45,Daniel J Blumenthal,,2018 Albatross Open,2018,4
+ANCM,100 M Individual Medley,SCM,M,55-59,2:15.62,Alexander Goldberg,,2018 Albatross Open,2018,5
+ANCM,50 M Freestyle,SCM,M,60-64,34.73,Duncan C Ferguson,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,M,60-64,2:51.84,Mauricio A Rezende,,2018 Albatross Open,2018,1
+ANCM,200 M Backstroke,SCM,M,60-64,3:10.59,Thomas A Denes,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Breaststroke,SCM,M,60-64,38.63,David W Cheney,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Breaststroke,SCM,M,60-64,41.26,James J Vandegriff,,2018 Albatross Open,2018,2
+ANCM,100 M Breaststroke,SCM,M,60-64,1:42.59,Thomas A Denes,,2018 Albatross Open,2018,1
+ANCM,50 M Butterfly,SCM,M,60-64,35.73,Thomas A Denes,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Butterfly,SCM,M,60-64,1:11.98,David W Cheney,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Butterfly,SCM,M,60-64,1:29.06,David M Friedland,,2018 Albatross Open,2018,2
+ANCM,200 M Butterfly,SCM,M,60-64,2:54.79,David W Cheney,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Individual Medley,SCM,M,60-64,1:24.17,Thomas A Denes,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,M,60-64,1:26.82,James J Vandegriff,,2018 Albatross Open,2018,2
+ANCM,200 M Individual Medley,SCM,M,60-64,2:49.84,David W Cheney,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,200 M Individual Medley,SCM,M,60-64,3:03.23,Thomas A Denes,,2018 Albatross Open,2018,2
+ANCM,50 M Freestyle,SCM,M,65-69,30.14,Charles N Wight,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Freestyle,SCM,M,65-69,32.56,Thomas J DeBettencourt,,2018 Albatross Open,2018,2
+ANCM,100 M Freestyle,SCM,M,65-69,1:08.15,Charles N Wight,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,200 M Freestyle,SCM,M,65-69,2:47.18,David C Harmon,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,400 M Freestyle,SCM,M,65-69,5:55.88,David C Harmon,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,M,65-69,40.41,Charles N Wight,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Breaststroke,SCM,M,65-69,48.12,Kenneth R Hinga,,2018 Albatross Open,2018,2
+ANCM,100 M Breaststroke,SCM,M,65-69,1:32.38,Dan Morrow,,2018 Albatross Open,2018,1
+ANCM,100 M Breaststroke,SCM,M,65-69,1:45.45,Kenneth R Hinga,,2018 Albatross Open,2018,2
+ANCM,200 M Breaststroke,SCM,M,65-69,3:28.28,Dan Morrow,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,M,65-69,1:30.87,David C Harmon,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,M,65-69,1:32.60,Dan Morrow,,2018 Albatross Open,2018,2
+ANCM,200 M Individual Medley,SCM,M,65-69,3:12.13,David C Harmon,,2018 Albatross Open,2018,1
+ANCM,200 M Individual Medley,SCM,M,65-69,3:25.11,Dan Morrow,,2018 Albatross Open,2018,2
+ANCM,400 M Individual Medley,SCM,M,65-69,7:00.06,David C Harmon,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Freestyle,SCM,M,70-74,1:17.38,Roger F Leonard,,2018 Albatross Open,2018,1
+ANCM,200 M Freestyle,SCM,M,70-74,2:49.54,Roger F Leonard,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Backstroke,SCM,M,70-74,1:31.48,Roger F Leonard,,2018 Albatross Open,2018,1
+ANCM,50 M Breaststroke,SCM,M,70-74,42.06,Roger F Leonard,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,100 M Breaststroke,SCM,M,70-74,1:35.86,Roger F Leonard,,2018 Albatross Open,2018,1
+ANCM,100 M Individual Medley,SCM,M,70-74,1:26.66,Roger F Leonard,,6th Annual Solstice SCM Swim Meet,2018,1
+ANCM,50 M Breaststroke,SCM,M,75-79,1:02.15,Louis H Diamond,,2018 Albatross Open,2018,1
+ANCM,50 M Freestyle,SCM,M,80-84,49.28,Neal P Gillen,,2018 Albatross Open,2018,1
+ANCM,100 M Freestyle,SCM,M,80-84,1:58.97,Neal P Gillen,,2018 Albatross Open,2018,1
+ANCM,50 M Backstroke,SCM,M,80-84,50.36,Marshall R Greer,,2018 Albatross Open,2018,1
+ANCM,50 M Backstroke,SCM,M,80-84,1:05.57,Neal P Gillen,,2018 Albatross Open,2018,2
+ANCM,100 M Backstroke,SCM,M,80-84,2:04.94,Marshall R Greer,,2018 Albatross Open,2018,1
+ANCM,100 M Backstroke,SCM,M,80-84,2:31.17,Neal P Gillen,,2018 Albatross Open,2018,2
+ARMS,50 M Freestyle,SCM,W,35-39,42.68,Ellen U Hufford,,2018 Albatross Open,2018,1
+ARMS,100 M Freestyle,SCM,W,35-39,1:29.76,Ellen U Hufford,,2018 Albatross Open,2018,1
+ARMS,200 M Freestyle,SCM,W,35-39,3:14.77,Ellen U Hufford,,2018 Albatross Open,2018,1
+ARMS,50 M Butterfly,SCM,W,35-39,48.07,Ellen U Hufford,,2018 Albatross Open,2018,1
+ARMS,50 M Breaststroke,SCM,M,25-29,33.32,Aaron D Frederick,,2018 Albatross Open,2018,1
+ARMS,100 M Butterfly,SCM,M,25-29,1:02.79,Aaron D Frederick,,2018 Albatross Open,2018,1
+ARMS,100 M Individual Medley,SCM,M,25-29,1:08.64,Aaron D Frederick,,2018 Albatross Open,2018,1
+DCAC,50 M Freestyle,SCM,W,25-29,31.61,Alexis D Philbrick,,2018 Albatross Open,2018,1
+DCAC,100 M Freestyle,SCM,W,25-29,1:10.49,Jillian Ames,,2018 Albatross Open,2018,1
+DCAC,50 M Backstroke,SCM,W,25-29,39.16,Alexis D Philbrick,,2018 Albatross Open,2018,1
+DCAC,50 M Breaststroke,SCM,W,25-29,42.26,Alexis D Philbrick,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,W,25-29,1:22.77,Jillian Ames,,2018 Albatross Open,2018,1
+DCAC,100 M Freestyle,SCM,W,30-34,1:09.45,Noura Hemady,,2018 Gay Games,2018,1
+DCAC,100 M Freestyle,SCM,W,30-34,1:34.17,Faren A Campbell,,2018 Albatross Open,2018,2
+DCAC,200 M Freestyle,SCM,W,30-34,2:27.01,Noura Hemady,,2018 Gay Games,2018,1
+DCAC,100 M Backstroke,SCM,W,30-34,1:21.23,Noura Hemady,,2018 Gay Games,2018,1
+DCAC,50 M Breaststroke,SCM,W,30-34,42.43,Noura Hemady,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,W,30-34,1:20.15,Noura Hemady,,2018 Gay Games,2018,1
+DCAC,200 M Individual Medley,SCM,W,30-34,2:52.26,Noura Hemady,,2018 Gay Games,2018,1
+DCAC,400 M Freestyle,SCM,W,35-39,6:05.58,Sara Hewitt,,2018 Gay Games,2018,1
+DCAC,800 M Freestyle,SCM,W,35-39,12:35.60,Sara Hewitt,,2018 Gay Games,2018,1
+DCAC,1500 M Freestyle,SCM,W,35-39,24:08.24,Sara Hewitt,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,W,35-39,1:29.16,Sara Hewitt,,2018 Gay Games,2018,1
+DCAC,200 M Individual Medley,SCM,W,35-39,3:18.08,Sara Hewitt,,2018 Gay Games,2018,1
+DCAC,200 M Breaststroke,SCM,W,45-49,3:17.65,Sheila A Walsh,,2018 Albatross Open,2018,1
+DCAC,200 M Butterfly,SCM,W,45-49,3:11.40,Sheila A Walsh,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,W,45-49,1:24.13,Sheila A Walsh,,2018 Albatross Open,2018,1
+DCAC,50 M Freestyle,SCM,M,25-29,23.15,Amr E El-Sayed,,2018 Gay Games,2018,1
+DCAC,50 M Freestyle,SCM,M,25-29,26.57,Arthur M Staub,,2018 Gay Games,2018,2
+DCAC,100 M Freestyle,SCM,M,25-29,51.28,Amr E El-Sayed,,2018 Gay Games,2018,1
+DCAC,100 M Freestyle,SCM,M,25-29,59.78,William T Scibilia,,2018 Gay Games,2018,2
+DCAC,100 M Freestyle,SCM,M,25-29,1:00.08,Arthur M Staub,,2018 Gay Games,2018,3
+DCAC,100 M Freestyle,SCM,M,25-29,1:03.44,Logan C Dawson,,2018 Albatross Open,2018,4
+DCAC,100 M Freestyle,SCM,M,25-29,1:04.12,Marcus Fitts,,2018 Albatross Open,2018,5
+DCAC,200 M Freestyle,SCM,M,25-29,1:52.43,Amr E El-Sayed,,2018 Gay Games,2018,1
+DCAC,200 M Freestyle,SCM,M,25-29,2:08.91,William T Scibilia,,2018 Gay Games,2018,2
+DCAC,200 M Freestyle,SCM,M,25-29,2:22.59,Logan C Dawson,,2018 Albatross Open,2018,3
+DCAC,200 M Freestyle,SCM,M,25-29,2:23.84,Arthur M Staub,,2018 Gay Games,2018,4
+DCAC,200 M Freestyle,SCM,M,25-29,2:34.18,Matthew Gay,,2018 Gay Games,2018,5
+DCAC,400 M Freestyle,SCM,M,25-29,5:17.67,Logan C Dawson,,2018 Gay Games,2018,1
+DCAC,400 M Freestyle,SCM,M,25-29,5:46.37,Matthew Gay,,2018 Gay Games,2018,2
+DCAC,800 M Freestyle,SCM,M,25-29,11:11.51,Logan C Dawson,,2018 Gay Games,2018,1
+DCAC,800 M Freestyle,SCM,M,25-29,11:41.71,Matthew Gay,,2018 Gay Games,2018,2
+DCAC,100 M Backstroke,SCM,M,25-29,1:06.36,William T Scibilia,,2018 Gay Games,2018,1
+DCAC,100 M Backstroke,SCM,M,25-29,1:12.11,Tim Claus,,2018 Gay Games,2018,2
+DCAC,200 M Backstroke,SCM,M,25-29,2:22.78,William T Scibilia,,2018 Gay Games,2018,1
+DCAC,100 M Breaststroke,SCM,M,25-29,1:25.90,Marcus Fitts,,2018 Albatross Open,2018,1
+DCAC,200 M Breaststroke,SCM,M,25-29,3:01.59,Matthew Gay,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,25-29,26.13,Amr E El-Sayed,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,25-29,31.58,Logan C Dawson,,2018 Albatross Open,2018,2
+DCAC,100 M Butterfly,SCM,M,25-29,1:02.84,William T Scibilia,,2018 Gay Games,2018,1
+DCAC,100 M Butterfly,SCM,M,25-29,1:09.97,Logan C Dawson,,2018 Albatross Open,2018,2
+DCAC,200 M Butterfly,SCM,M,25-29,2:55.42,Logan C Dawson,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,M,25-29,1:12.95,Tim Claus,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,M,25-29,1:13.79,Arthur M Staub,,2018 Gay Games,2018,2
+DCAC,400 M Individual Medley,SCM,M,25-29,6:02.91,Logan C Dawson,,2018 Gay Games,2018,1
+DCAC,200 M Freestyle,SCM,M,30-34,2:25.27,Kevin Bobsein,,2018 Albatross Open,2018,1
+DCAC,200 M Backstroke,SCM,M,30-34,2:40.84,Kevin Bobsein,,2018 Albatross Open,2018,1
+DCAC,50 M Butterfly,SCM,M,30-34,33.43,Kevin Bobsein,,2018 Albatross Open,2018,1
+DCAC,100 M Butterfly,SCM,M,30-34,1:12.31,Kevin Bobsein,,2018 Albatross Open,2018,1
+DCAC,50 M Freestyle,SCM,M,35-39,26.38,Patrick M Barrett,,2018 Gay Games,2018,1
+DCAC,100 M Freestyle,SCM,M,35-39,58.49,Patrick M Barrett,,2018 Albatross Open,2018,1
+DCAC,200 M Freestyle,SCM,M,35-39,2:18.54,Patrick M Barrett,,2018 Gay Games,2018,1
+DCAC,200 M Freestyle,SCM,M,35-39,2:20.05,Greg Koch,,2018 Gay Games,2018,2
+DCAC,200 M Freestyle,SCM,M,35-39,2:30.27,Dana E Connors,,2018 Albatross Open,2018,3
+DCAC,50 M Backstroke,SCM,M,35-39,30.23,Patrick M Barrett,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,35-39,32.91,Greg Koch,,2018 Gay Games,2018,2
+DCAC,50 M Backstroke,SCM,M,35-39,40.38,Dana E Connors,,2018 Albatross Open,2018,3
+DCAC,100 M Backstroke,SCM,M,35-39,1:06.40,Patrick M Barrett,,2018 Gay Games,2018,1
+DCAC,200 M Backstroke,SCM,M,35-39,2:36.51,Greg Koch,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,35-39,30.63,Greg Koch,,2018 Gay Games,2018,1
+DCAC,100 M Butterfly,SCM,M,35-39,1:17.01,Dana E Connors,,2018 Albatross Open,2018,1
+DCAC,100 M Butterfly,SCM,M,35-39,1:22.25,Matthew B Quinn,,2018 Gay Games,2018,2
+DCAC,100 M Individual Medley,SCM,M,35-39,1:12.72,Greg Koch,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,M,35-39,1:15.66,Matthew B Quinn,,2018 Gay Games,2018,2
+DCAC,400 M Individual Medley,SCM,M,35-39,6:28.28,Matthew B Quinn,,2018 Gay Games,2018,1
+DCAC,100 M Freestyle,SCM,M,40-44,1:02.62,WonKee Moon,,2018 Albatross Open,2018,1
+DCAC,50 M Backstroke,SCM,M,40-44,34.28,John Tustin,,2018 Gay Games,2018,1
+DCAC,100 M Backstroke,SCM,M,40-44,1:17.36,John Tustin,,2018 Gay Games,2018,1
+DCAC,200 M Backstroke,SCM,M,40-44,2:46.33,John Tustin,,2018 Gay Games,2018,1
+DCAC,50 M Breaststroke,SCM,M,40-44,35.20,WonKee Moon,,2018 Albatross Open,2018,1
+DCAC,100 M Butterfly,SCM,M,40-44,1:16.38,John Tustin,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,M,40-44,1:10.35,WonKee Moon,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,M,40-44,1:17.46,John Tustin,,2018 Albatross Open,2018,2
+DCAC,50 M Freestyle,SCM,M,45-49,29.86,Jay J Gibb,,2018 Gay Games,2018,1
+DCAC,50 M Freestyle,SCM,M,45-49,37.59,Laphang K Fung,,2018 Albatross Open,2018,2
+DCAC,200 M Freestyle,SCM,M,45-49,2:36.13,Jay J Gibb,,2018 Gay Games,2018,1
+DCAC,400 M Freestyle,SCM,M,45-49,4:56.03,Matthew A Kinney,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,45-49,30.91,Corey M Carlisle,,2018 Gay Games,2018,1
+DCAC,50 M Breaststroke,SCM,M,45-49,49.78,Laphang K Fung,,2018 Albatross Open,2018,1
+DCAC,100 M Breaststroke,SCM,M,45-49,1:13.85,Matthew A Kinney,,2018 Gay Games,2018,1
+DCAC,200 M Breaststroke,SCM,M,45-49,2:39.96,Matthew A Kinney,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,45-49,29.18,Corey M Carlisle,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,45-49,48.77,Laphang K Fung,,2018 Albatross Open,2018,2
+DCAC,400 M Individual Medley,SCM,M,45-49,5:23.46,Matthew A Kinney,,2018 Gay Games,2018,1
+DCAC,50 M Freestyle,SCM,M,50-54,26.08,Neill Williams,,2018 Dixie Zone SCM Championship Meet,2018,1
+DCAC,50 M Freestyle,SCM,M,50-54,36.15,David Amezcua,,2018 Albatross Open,2018,2
+DCAC,100 M Freestyle,SCM,M,50-54,1:00.54,Neill Williams,,2018 Dixie Zone SCM Championship Meet,2018,1
+DCAC,100 M Freestyle,SCM,M,50-54,1:17.27,David Amezcua,,2018 Albatross Open,2018,2
+DCAC,200 M Freestyle,SCM,M,50-54,2:06.82,Jerome A Frentsos,,2018 Gay Games,2018,1
+DCAC,200 M Freestyle,SCM,M,50-54,2:20.43,Frederick E Dever,,2018 Gay Games,2018,2
+DCAC,400 M Freestyle,SCM,M,50-54,6:22.26,Kei Koizumi,,2018 Gay Games,2018,1
+DCAC,800 M Freestyle,SCM,M,50-54,10:32.07,Frederick E Dever,,2018 Gay Games,2018,1
+DCAC,1500 M Freestyle,SCM,M,50-54,26:14.94,Kei Koizumi,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,50-54,29.33,Neill Williams,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,50-54,35.30,Eric W Czander,,2018 Gay Games,2018,2
+DCAC,100 M Backstroke,SCM,M,50-54,1:08.73,Neill Williams,,2018 Albatross Open,2018,1
+DCAC,100 M Backstroke,SCM,M,50-54,1:29.68,Kei Koizumi,,2018 Gay Games,2018,2
+DCAC,200 M Backstroke,SCM,M,50-54,2:36.55,Eric W Czander,,2018 Gay Games,2018,1
+DCAC,50 M Breaststroke,SCM,M,50-54,31.21,Neill Williams,,2018 Dixie Zone SCM Championship Meet,2018,1
+DCAC,50 M Breaststroke,SCM,M,50-54,37.23,Eric W Czander,,2018 Gay Games,2018,2
+DCAC,100 M Breaststroke,SCM,M,50-54,1:09.21,Neill Williams,,2018 Dixie Zone SCM Championship Meet,2018,1
+DCAC,100 M Breaststroke,SCM,M,50-54,1:23.24,Eric W Czander,,2018 Gay Games,2018,2
+DCAC,100 M Breaststroke,SCM,M,50-54,1:30.84,David Amezcua,,2018 Albatross Open,2018,3
+DCAC,200 M Breaststroke,SCM,M,50-54,2:42.19,Neill Williams,,2018 Albatross Open,2018,1
+DCAC,200 M Breaststroke,SCM,M,50-54,3:27.67,Kei Koizumi,,2018 Gay Games,2018,2
+DCAC,50 M Butterfly,SCM,M,50-54,27.99,Neill Williams,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,50-54,39.01,Kei Koizumi,,2018 Gay Games,2018,2
+DCAC,100 M Butterfly,SCM,M,50-54,1:02.56,Jerome A Frentsos,,2018 Gay Games,2018,1
+DCAC,100 M Butterfly,SCM,M,50-54,1:09.48,Frederick E Dever,,2018 Gay Games,2018,2
+DCAC,200 M Butterfly,SCM,M,50-54,2:32.63,Jerome A Frentsos,,2018 Gay Games,2018,1
+DCAC,200 M Butterfly,SCM,M,50-54,2:36.68,Frederick E Dever,,2018 Gay Games,2018,2
+DCAC,100 M Individual Medley,SCM,M,50-54,1:01.61,Jerome A Frentsos,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,M,50-54,1:03.80,Neill Williams,,2018 Gay Games,2018,2
+DCAC,200 M Individual Medley,SCM,M,50-54,2:13.82,Jerome A Frentsos,,2018 Albatross Open,2018,1
+DCAC,200 M Individual Medley,SCM,M,50-54,2:39.73,Eric W Czander,,2018 Gay Games,2018,2
+DCAC,200 M Individual Medley,SCM,M,50-54,3:17.66,David Amezcua,,2018 Albatross Open,2018,3
+DCAC,50 M Freestyle,SCM,M,55-59,28.84,Kevin M Majoros,,Coupe de Montreal 2018,2018,1
+DCAC,50 M Freestyle,SCM,M,55-59,29.48,Jay M Calhoun,,2018 Gay Games,2018,2
+DCAC,50 M Freestyle,SCM,M,55-59,39.48,Charles A McManus,,2018 Gay Games,2018,3
+DCAC,200 M Freestyle,SCM,M,55-59,2:19.45,Jay M Calhoun,,2018 Gay Games,2018,1
+DCAC,200 M Freestyle,SCM,M,55-59,2:54.55,Scott Bloom,,2018 Gay Games,2018,2
+DCAC,50 M Backstroke,SCM,M,55-59,42.00,Scott Bloom,,Coupe de Montreal 2018,2018,1
+DCAC,100 M Backstroke,SCM,M,55-59,1:23.08,Drew Fitzmorris,,2018 Gay Games,2018,1
+DCAC,200 M Backstroke,SCM,M,55-59,3:01.03,Drew Fitzmorris,,2018 Gay Games,2018,1
+DCAC,50 M Breaststroke,SCM,M,55-59,34.76,Matthew Frentsos,,2018 Albatross Open,2018,1
+DCAC,50 M Breaststroke,SCM,M,55-59,39.16,Jay M Calhoun,,2018 Gay Games,2018,2
+DCAC,50 M Breaststroke,SCM,M,55-59,39.29,Kevin M Majoros,,2018 Gay Games,2018,3
+DCAC,50 M Breaststroke,SCM,M,55-59,47.45,Charles A McManus,,2018 Gay Games,2018,4
+DCAC,100 M Breaststroke,SCM,M,55-59,1:19.16,Matthew Frentsos,,2018 Albatross Open,2018,1
+DCAC,100 M Breaststroke,SCM,M,55-59,1:48.60,Charles A McManus,,2018 Gay Games,2018,2
+DCAC,50 M Butterfly,SCM,M,55-59,32.61,Kevin M Majoros,,2018 Gay Games,2018,1
+DCAC,100 M Butterfly,SCM,M,55-59,1:39.79,Scott Bloom,,2018 Gay Games,2018,1
+DCAC,200 M Butterfly,SCM,M,55-59,3:14.26,Drew Fitzmorris,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,M,55-59,1:08.64,Matthew Frentsos,,2018 Albatross Open,2018,1
+DCAC,200 M Individual Medley,SCM,M,55-59,3:02.27,Drew Fitzmorris,,2018 Gay Games,2018,1
+DCAC,200 M Individual Medley,SCM,M,55-59,3:30.57,Scott Bloom,,2018 Gay Games,2018,2
+DCAC,400 M Individual Medley,SCM,M,55-59,6:18.30,Drew Fitzmorris,,2018 Gay Games,2018,1
+DCAC,50 M Freestyle,SCM,M,60-64,29.00,Jeffrey D Mead,,2018 Gay Games,2018,1
+DCAC,100 M Freestyle,SCM,M,60-64,1:05.20,Jeffrey D Mead,,2018 Gay Games,2018,1
+DCAC,400 M Freestyle,SCM,M,60-64,5:18.78,Jay N Fisette,,2018 Gay Games,2018,1
+DCAC,800 M Freestyle,SCM,M,60-64,11:22.49,Jay N Fisette,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,60-64,34.62,Jay N Fisette,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,60-64,36.05,Jeffrey D Mead,,2018 Gay Games,2018,2
+DCAC,100 M Breaststroke,SCM,M,60-64,1:24.35,Jay N Fisette,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,60-64,33.36,Jeffrey D Mead,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,M,60-64,1:15.13,Jay N Fisette,,2018 Gay Games,2018,1
+DCAC,100 M Individual Medley,SCM,M,60-64,1:15.64,Jeffrey D Mead,,2018 Gay Games,2018,2
+DCAC,50 M Freestyle,SCM,M,65-69,32.72,Craig J Franz,,2018 Albatross Open,2018,1
+DCAC,50 M Freestyle,SCM,M,65-69,34.73,Jack Markey,,2018 Gay Games,2018,2
+DCAC,100 M Freestyle,SCM,M,65-69,1:10.73,Craig J Franz,,2018 Gay Games,2018,1
+DCAC,200 M Freestyle,SCM,M,65-69,2:33.50,Craig J Franz,,2018 Gay Games,2018,1
+DCAC,400 M Freestyle,SCM,M,65-69,5:25.43,Craig J Franz,,2018 Gay Games,2018,1
+DCAC,800 M Freestyle,SCM,M,65-69,11:19.72,Craig J Franz,,2018 Gay Games,2018,1
+DCAC,1500 M Freestyle,SCM,M,65-69,21:43.93,Craig J Franz,,2018 Gay Games,2018,1
+DCAC,50 M Backstroke,SCM,M,65-69,47.18,Jack Markey,,2018 Gay Games,2018,1
+DCAC,100 M Backstroke,SCM,M,65-69,1:33.41,Dawson Nash,,2018 Gay Games,2018,1
+DCAC,100 M Backstroke,SCM,M,65-69,1:49.80,Jack Markey,,2018 Gay Games,2018,2
+DCAC,200 M Backstroke,SCM,M,65-69,3:28.68,Dawson Nash,,2018 Gay Games,2018,1
+DCAC,200 M Backstroke,SCM,M,65-69,3:56.48,Jack Markey,,2018 Gay Games,2018,2
+DCAC,50 M Breaststroke,SCM,M,65-69,41.84,Barry L Haddan,,2018 Gay Games,2018,1
+DCAC,100 M Breaststroke,SCM,M,65-69,1:32.80,Barry L Haddan,,2018 Gay Games,2018,1
+DCAC,200 M Breaststroke,SCM,M,65-69,3:36.33,Barry L Haddan,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,65-69,41.43,Barry L Haddan,,2018 Gay Games,2018,1
+DCAC,50 M Butterfly,SCM,M,65-69,43.27,Dawson Nash,,2018 Albatross Open,2018,2
+DCAC,100 M Butterfly,SCM,M,65-69,1:32.28,Dawson Nash,,2018 Gay Games,2018,1
+DCAC,200 M Butterfly,SCM,M,65-69,3:42.76,Dawson Nash,,2018 Albatross Open,2018,1
+DCAC,100 M Individual Medley,SCM,M,65-69,1:30.35,Barry L Haddan,,Coupe de Montreal 2018,2018,1
+DCAC,400 M Individual Medley,SCM,M,65-69,7:19.97,Barry L Haddan,,2018 Gay Games,2018,1
+DCAC,400 M Individual Medley,SCM,M,65-69,7:40.43,Dawson Nash,,2018 Gay Games,2018,2
+DCM,50 M Freestyle,SCM,M,70-74,38.98,Mitchell P Berliner,,6th Annual Solstice SCM Swim Meet,2018,1
+DCRP,200 M Freestyle,SCM,W,50-54,2:36.57,Kim Dustin,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,W,30-34,44.54,Anne M Henochowicz,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Freestyle,SCM,W,30-34,1:36.83,Anne M Henochowicz,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Freestyle,SCM,W,30-34,3:27.03,Anne M Henochowicz,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Breaststroke,SCM,W,30-34,1:58.29,Anne M Henochowicz,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,W,35-39,36.65,Mikala Shremshock,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,W,35-39,1:32.90,Mikala Shremshock,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Freestyle,SCM,W,35-39,2:27.99,Lisa M Chin,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,400 M Freestyle,SCM,W,35-39,5:16.22,Lisa M Chin,,2018 Albatross Open,2018,1
+GERM,200 M Backstroke,SCM,W,35-39,3:44.16,Mikala Shremshock,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,W,35-39,1:38.81,Mikala Shremshock,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,W,40-44,30.60,Dorota M Hassett,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Butterfly,SCM,W,40-44,1:22.29,Jenny Carswell,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,W,40-44,1:19.15,Dorota M Hassett,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Individual Medley,SCM,W,40-44,2:58.42,Jenny Carswell,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,W,45-49,1:16.08,Caren C Bancroft,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Freestyle,SCM,W,45-49,1:18.31,Johanna Schneider,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,200 M Freestyle,SCM,W,45-49,2:59.16,Caren C Bancroft,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Breaststroke,SCM,W,45-49,1:32.25,Johanna Schneider,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,W,45-49,3:23.85,Johanna Schneider,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Butterfly,SCM,W,45-49,44.36,Caren C Bancroft,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Individual Medley,SCM,W,45-49,1:29.94,Johanna Schneider,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,W,50-54,53.39,Susan C Lynch,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,W,50-54,1:31.34,Barbara S Mallon,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,W,50-54,1:57.89,Susan C Lynch,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,200 M Freestyle,SCM,W,50-54,2:32.31,Denise L Dombay,,2018 Albatross Open,2018,1
+GERM,400 M Freestyle,SCM,W,50-54,5:27.51,Denise L Dombay,,2018 Albatross Open,2018,1
+GERM,50 M Backstroke,SCM,W,50-54,1:03.88,Susan C Lynch,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Backstroke,SCM,W,50-54,1:24.45,Denise L Dombay,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Backstroke,SCM,W,50-54,1:44.53,Barbara S Mallon,,2018 Albatross Open,2018,2
+GERM,100 M Backstroke,SCM,W,50-54,2:11.51,Susan C Lynch,,6th Annual Solstice SCM Swim Meet,2018,3
+GERM,200 M Backstroke,SCM,W,50-54,3:01.44,Denise L Dombay,,2018 Albatross Open,2018,1
+GERM,100 M Breaststroke,SCM,W,50-54,1:53.64,Barbara S Mallon,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,W,50-54,3:23.77,Denise L Dombay,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,W,50-54,4:01.33,Barbara S Mallon,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,100 M Individual Medley,SCM,W,50-54,1:22.08,Denise L Dombay,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Individual Medley,SCM,W,50-54,3:57.74,Barbara S Mallon,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Freestyle,SCM,W,55-59,3:04.39,Deborah A Gilgore,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,W,60-64,46.43,Maggie Bartlett,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Freestyle,SCM,W,60-64,1:43.80,Maggie Bartlett,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Breaststroke,SCM,W,60-64,53.69,Maggie Bartlett,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Breaststroke,SCM,W,60-64,1:56.03,Maggie Bartlett,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Butterfly,SCM,W,60-64,35.97,Jeanne L Lappin,,2018 Albatross Open,2018,1
+GERM,100 M Butterfly,SCM,W,60-64,1:19.93,Jeanne L Lappin,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,W,60-64,1:24.82,Jeanne L Lappin,,2018 Albatross Open,2018,1
+GERM,200 M Individual Medley,SCM,W,60-64,3:00.53,Jeanne L Lappin,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,W,70-74,43.64,Lynne Andrews,,2018 Albatross Open,2018,1
+GERM,50 M Backstroke,SCM,W,70-74,48.82,Lynne Andrews,,2018 Albatross Open,2018,1
+GERM,50 M Breaststroke,SCM,W,70-74,1:01.09,Lynne Andrews,,2018 Albatross Open,2018,1
+GERM,50 M Backstroke,SCM,W,75-79,1:07.33,Linda S Carter,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,M,18-24,27.19,Evan M Murdock,,2018 Albatross Open,2018,1
+GERM,50 M Backstroke,SCM,M,18-24,30.49,Evan M Murdock,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,18-24,31.08,Evan M Murdock,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,25-29,26.14,Marcus Martinez,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,25-29,30.26,Kempsey Clark,,2018 Albatross Open,2018,2
+GERM,50 M Freestyle,SCM,M,25-29,35.80,Siddharth Paruchuru,,2018 Albatross Open,2018,3
+GERM,100 M Freestyle,SCM,M,25-29,58.26,Marcus Martinez,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,25-29,1:22.45,Siddharth Paruchuru,,2018 Albatross Open,2018,2
+GERM,200 M Freestyle,SCM,M,25-29,2:21.63,Kempsey Clark,,2018 Albatross Open,2018,1
+GERM,400 M Freestyle,SCM,M,25-29,7:02.79,Siddharth Paruchuru,,2018 Albatross Open,2018,1
+GERM,200 M Backstroke,SCM,M,25-29,3:38.23,Siddharth Paruchuru,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Butterfly,SCM,M,25-29,34.18,Kempsey Clark,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,25-29,44.94,Siddharth Paruchuru,,2018 Albatross Open,2018,2
+GERM,100 M Butterfly,SCM,M,25-29,1:20.75,Kempsey Clark,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,M,25-29,1:07.77,Marcus Martinez,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,30-34,27.18,Todd Culliton,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,30-34,32.88,Dmitrijs Milajevs,,2018 Albatross Open,2018,2
+GERM,100 M Freestyle,SCM,M,30-34,1:03.20,Todd Culliton,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,30-34,1:05.83,Thomas J Culliton,,2018 Albatross Open,2018,2
+GERM,100 M Freestyle,SCM,M,30-34,1:12.44,Steven K Krempasky,,2018 Albatross Open,2018,3
+GERM,200 M Freestyle,SCM,M,30-34,2:00.81,Bryan C Rivera,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Freestyle,SCM,M,30-34,2:27.79,Thomas J Culliton,,2018 Albatross Open,2018,2
+GERM,200 M Freestyle,SCM,M,30-34,2:41.69,Dmitrijs Milajevs,,2018 Albatross Open,2018,3
+GERM,400 M Freestyle,SCM,M,30-34,5:23.25,Jason J George,,2018 Albatross Open,2018,1
+GERM,400 M Freestyle,SCM,M,30-34,6:17.11,Steven K Krempasky,,2018 Albatross Open,2018,2
+GERM,100 M Backstroke,SCM,M,30-34,1:04.70,Bryan C Rivera,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Breaststroke,SCM,M,30-34,37.07,Todd Culliton,,2018 Albatross Open,2018,1
+GERM,50 M Breaststroke,SCM,M,30-34,45.77,Steven K Krempasky,,2018 Albatross Open,2018,2
+GERM,100 M Breaststroke,SCM,M,30-34,1:39.84,Steven K Krempasky,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,M,30-34,2:59.08,Jason J George,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,30-34,38.42,Dmitrijs Milajevs,,2018 Albatross Open,2018,1
+GERM,200 M Butterfly,SCM,M,30-34,2:50.98,Jason J George,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,M,30-34,1:04.12,Bryan C Rivera,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Individual Medley,SCM,M,30-34,1:22.85,Dmitrijs Milajevs,,2018 Albatross Open,2018,2
+GERM,200 M Individual Medley,SCM,M,30-34,2:44.34,Jason J George,,2018 Albatross Open,2018,1
+GERM,400 M Individual Medley,SCM,M,30-34,5:50.15,Jason J George,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,M,35-39,27.50,Matthew K Paushter,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,35-39,1:00.18,Matthew K Paushter,,2018 Albatross Open,2018,1
+GERM,200 M Freestyle,SCM,M,35-39,2:14.70,Matthew K Paushter,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Butterfly,SCM,M,35-39,31.26,Matthew K Paushter,,2018 Albatross Open,2018,1
+GERM,400 M Individual Medley,SCM,M,35-39,5:33.98,Matthew K Paushter,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,M,40-44,31.22,Chad G Matthews,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,40-44,1:09.20,Chad G Matthews,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,40-44,33.28,Chad G Matthews,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,M,40-44,1:23.19,Chad G Matthews,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,M,45-49,30.20,Eric C Spates,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Freestyle,SCM,M,45-49,30.75,Farol L Tomson,,2018 Albatross Open,2018,2
+GERM,50 M Freestyle,SCM,M,45-49,33.21,Bryan A Main,,6th Annual Solstice SCM Swim Meet,2018,3
+GERM,800 M Freestyle,SCM,M,45-49,12:20.57,Farol L Tomson,,2018 YWMA Go the Distance Meet,2018,1
+GERM,1500 M Freestyle,SCM,M,45-49,23:04.62,Farol L Tomson,,2018 YWMA Go the Distance Meet,2018,1
+GERM,50 M Backstroke,SCM,M,45-49,31.23,Anthony S Higgins,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Backstroke,SCM,M,45-49,36.25,Farol L Tomson,,2018 Albatross Open,2018,2
+GERM,100 M Backstroke,SCM,M,45-49,1:06.89,Anthony S Higgins,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Backstroke,SCM,M,45-49,2:28.55,Anthony S Higgins,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Breaststroke,SCM,M,45-49,33.17,Gustavo Sandi,,2018 Albatross Open,2018,1
+GERM,50 M Breaststroke,SCM,M,45-49,40.55,Farol L Tomson,,2018 Albatross Open,2018,2
+GERM,50 M Breaststroke,SCM,M,45-49,42.11,Bryan A Main,,6th Annual Solstice SCM Swim Meet,2018,3
+GERM,100 M Breaststroke,SCM,M,45-49,1:14.50,Gustavo Sandi,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Breaststroke,SCM,M,45-49,1:30.48,Bryan A Main,,2018 Albatross Open,2018,2
+GERM,200 M Breaststroke,SCM,M,45-49,2:50.02,Gustavo Sandi,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,45-49,34.08,Farol L Tomson,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,45-49,35.42,Bryan A Main,,2018 Albatross Open,2018,2
+GERM,200 M Individual Medley,SCM,M,45-49,2:52.55,Bryan A Main,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,50-54,28.26,Karl E Wunderlich,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Backstroke,SCM,M,50-54,2:48.27,Daniel B Blitz,,2018 Albatross Open,2018,1
+GERM,100 M Breaststroke,SCM,M,50-54,1:26.98,Daniel B Blitz,,2018 Albatross Open,2018,1
+GERM,100 M Breaststroke,SCM,M,50-54,1:27.40,Karl E Wunderlich,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,200 M Breaststroke,SCM,M,50-54,3:06.70,Daniel B Blitz,,2018 Albatross Open,2018,1
+GERM,200 M Butterfly,SCM,M,50-54,3:08.17,Daniel B Blitz,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,55-59,29.28,Scott M Golden,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,55-59,34.40,Greg A Nelson,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,200 M Freestyle,SCM,M,55-59,2:28.43,Mark A Young,,2018 Albatross Open,2018,1
+GERM,100 M Backstroke,SCM,M,55-59,1:36.74,Greg A Nelson,,2018 Albatross Open,2018,1
+GERM,200 M Backstroke,SCM,M,55-59,2:56.10,Mark A Young,,2018 Albatross Open,2018,1
+GERM,50 M Breaststroke,SCM,M,55-59,48.47,Greg A Nelson,,2018 Albatross Open,2018,1
+GERM,100 M Breaststroke,SCM,M,55-59,1:40.13,Greg A Nelson,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,M,55-59,3:15.76,Mark A Young,,2018 Albatross Open,2018,1
+GERM,50 M Butterfly,SCM,M,55-59,31.55,Scott M Golden,,2018 Albatross Open,2018,1
+GERM,100 M Butterfly,SCM,M,55-59,1:11.65,Scott M Golden,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,M,55-59,1:33.87,Greg A Nelson,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Individual Medley,SCM,M,55-59,2:52.18,Mark A Young,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,60-64,1:11.33,Dan Thomas,,2018 Albatross Open,2018,1
+GERM,200 M Freestyle,SCM,M,60-64,3:11.87,Thomas P Offenbacher,,2018 Albatross Open,2018,1
+GERM,50 M Backstroke,SCM,M,60-64,41.76,Dan Thomas,,2018 Albatross Open,2018,1
+GERM,200 M Backstroke,SCM,M,60-64,3:37.28,Thomas P Offenbacher,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,65-69,1:19.10,Stephen G Wright,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Backstroke,SCM,M,65-69,39.61,Stephen G Wright,,2018 Albatross Open,2018,1
+GERM,100 M Backstroke,SCM,M,65-69,1:28.04,Stephen G Wright,,2018 Albatross Open,2018,1
+GERM,100 M Backstroke,SCM,M,65-69,2:11.95,Michael F Boyle,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,200 M Backstroke,SCM,M,65-69,3:14.75,Stephen G Wright,,2018 Albatross Open,2018,1
+GERM,100 M Breaststroke,SCM,M,65-69,2:13.46,Michael F Boyle,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Breaststroke,SCM,M,65-69,3:36.72,Mark C Walters,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,M,65-69,5:15.52,Michael F Boyle,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,50 M Butterfly,SCM,M,65-69,35.67,Mark C Walters,,2018 Albatross Open,2018,1
+GERM,100 M Butterfly,SCM,M,65-69,1:23.15,Mark C Walters,,2018 Albatross Open,2018,1
+GERM,100 M Individual Medley,SCM,M,65-69,2:10.91,Michael F Boyle,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Breaststroke,SCM,M,70-74,50.19,Ronald E Greger,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,50 M Breaststroke,SCM,M,70-74,56.54,James R Hillman,,2018 Albatross Open,2018,2
+GERM,100 M Breaststroke,SCM,M,70-74,1:52.59,Ronald E Greger,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Breaststroke,SCM,M,70-74,4:10.09,James R Hillman,,2018 Albatross Open,2018,1
+GERM,200 M Breaststroke,SCM,M,70-74,4:25.24,Ronald E Greger,,6th Annual Solstice SCM Swim Meet,2018,2
+GERM,100 M Individual Medley,SCM,M,70-74,2:01.65,James R Hillman,,2018 Albatross Open,2018,1
+GERM,50 M Freestyle,SCM,M,75-79,37.15,David L Robinson,,2018 Albatross Open,2018,1
+GERM,100 M Freestyle,SCM,M,75-79,1:24.64,David L Robinson,,2018 Albatross Open,2018,1
+GERM,200 M Freestyle,SCM,M,75-79,3:13.78,David L Robinson,,2018 YWMA Go the Distance Meet,2018,1
+GERM,800 M Freestyle,SCM,M,75-79,14:54.40,David L Robinson,,2018 YWMA Go the Distance Meet,2018,1
+GERM,100 M Backstroke,SCM,M,75-79,1:40.46,David L Robinson,,2018 Albatross Open,2018,1
+GERM,200 M Backstroke,SCM,M,75-79,3:45.98,David L Robinson,,2018 Albatross Open,2018,1
+GERM,50 M Breaststroke,SCM,M,75-79,58.02,Richard S Durham,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,100 M Breaststroke,SCM,M,75-79,2:14.74,Richard S Durham,,6th Annual Solstice SCM Swim Meet,2018,1
+GERM,200 M Breaststroke,SCM,M,75-79,5:10.52,Richard S Durham,,2018 Albatross Open,2018,1
+GMUP,50 M Breaststroke,SCM,W,35-39,37.46,Evangeline A Geskos,,2018 Albatross Open,2018,1
+GMUP,100 M Breaststroke,SCM,W,35-39,1:21.44,Evangeline A Geskos,,2018 Albatross Open,2018,1
+GMUP,50 M Butterfly,SCM,W,35-39,32.04,Evangeline A Geskos,,2018 Albatross Open,2018,1
+GMUP,50 M Freestyle,SCM,M,25-29,26.16,Ryan Wolfe,,2018 Albatross Open,2018,1
+GMUP,50 M Freestyle,SCM,M,25-29,28.13,Tim Xu,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,2
+GMUP,50 M Breaststroke,SCM,M,25-29,31.96,Ryan Wolfe,,2018 Albatross Open,2018,1
+GMUP,100 M Breaststroke,SCM,M,25-29,1:08.91,Ryan Wolfe,,2018 Albatross Open,2018,1
+GMUP,100 M Breaststroke,SCM,M,25-29,1:18.09,Tim Xu,,Concord Masters Mini Meet,2018,2
+GMUP,100 M Butterfly,SCM,M,25-29,1:09.70,Tim Xu,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+GMUP,100 M Individual Medley,SCM,M,25-29,1:04.55,Ryan Wolfe,,2018 Albatross Open,2018,1
+GMUP,200 M Individual Medley,SCM,M,25-29,2:33.16,Tim Xu,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+GMUP,100 M Butterfly,SCM,M,55-59,1:22.01,Paul A Grecco,,6th Annual Solstice SCM Swim Meet,2018,1
+GMUP,200 M Butterfly,SCM,M,55-59,3:04.78,Paul A Grecco,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,200 M Freestyle,SCM,W,18-24,3:11.25,Kate Sours,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,W,18-24,1:46.86,Kate Sours,,2018 Albatross Open,2018,1
+L4S,50 M Freestyle,SCM,W,30-34,30.09,Jessica Conway,,2018 Albatross Open,2018,1
+L4S,50 M Freestyle,SCM,W,30-34,35.63,Colleen Stranzl,,2018 Albatross Open,2018,2
+L4S,100 M Freestyle,SCM,W,30-34,1:06.43,Jessica Conway,,2018 Albatross Open,2018,1
+L4S,100 M Freestyle,SCM,W,30-34,1:13.45,Sarah E Bofinger,,2018 Last Chance Meters Meet,2018,2
+L4S,100 M Freestyle,SCM,W,30-34,1:17.24,Colleen Stranzl,,2018 Albatross Open,2018,3
+L4S,100 M Freestyle,SCM,W,30-34,1:29.45,Marci Goldberg,,6th Annual Solstice SCM Swim Meet,2018,4
+L4S,200 M Freestyle,SCM,W,30-34,2:25.43,Jessica Conway,,2018 Albatross Open,2018,1
+L4S,200 M Freestyle,SCM,W,30-34,2:32.37,Sarah E Bofinger,,6th Annual Solstice SCM Swim Meet,2018,2
+L4S,400 M Freestyle,SCM,W,30-34,6:29.20,Marci Goldberg,,2018 Albatross Open,2018,1
+L4S,800 M Freestyle,SCM,W,30-34,11:21.65,Sarah E Bofinger,,2018 Last Chance Meters Meet,2018,1
+L4S,50 M Breaststroke,SCM,W,30-34,41.35,Colleen Stranzl,,2018 Albatross Open,2018,1
+L4S,50 M Breaststroke,SCM,W,30-34,42.82,Sarah E Bofinger,,2018 Albatross Open,2018,2
+L4S,50 M Breaststroke,SCM,W,30-34,50.69,Marci Goldberg,,2018 Albatross Open,2018,3
+L4S,100 M Breaststroke,SCM,W,30-34,1:35.09,Sarah E Bofinger,,2018 Last Chance Meters Meet,2018,1
+L4S,100 M Breaststroke,SCM,W,30-34,1:48.72,Marci Goldberg,,6th Annual Solstice SCM Swim Meet,2018,2
+L4S,50 M Butterfly,SCM,W,30-34,34.64,Sarah E Bofinger,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Butterfly,SCM,W,30-34,36.50,Colleen Stranzl,,2018 Albatross Open,2018,2
+L4S,100 M Butterfly,SCM,W,30-34,1:20.49,Sarah E Bofinger,,2018 Last Chance Meters Meet,2018,1
+L4S,200 M Butterfly,SCM,W,30-34,2:59.75,Sarah E Bofinger,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,200 M Butterfly,SCM,W,30-34,3:31.87,Marci Goldberg,,2018 Albatross Open,2018,2
+L4S,100 M Individual Medley,SCM,W,30-34,1:19.94,Jessica Conway,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,W,30-34,1:23.85,Sarah E Bofinger,,6th Annual Solstice SCM Swim Meet,2018,2
+L4S,200 M Individual Medley,SCM,W,30-34,2:53.88,Sarah E Bofinger,,2018 Albatross Open,2018,1
+L4S,50 M Freestyle,SCM,W,35-39,38.68,Lesley Bozeman,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,100 M Freestyle,SCM,W,35-39,1:25.51,Lesley Bozeman,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Breaststroke,SCM,W,35-39,48.15,Lesley Bozeman,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,100 M Breaststroke,SCM,W,35-39,1:45.81,Lesley Bozeman,,2018 Albatross Open,2018,1
+L4S,50 M Butterfly,SCM,W,35-39,35.13,Kimberly G Groves,,2018 Albatross Open,2018,1
+L4S,100 M Butterfly,SCM,W,35-39,1:20.45,Kimberly G Groves,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,W,35-39,1:23.50,Kimberly G Groves,,2018 Albatross Open,2018,1
+L4S,200 M Individual Medley,SCM,W,35-39,3:02.10,Kimberly G Groves,,2018 Albatross Open,2018,1
+L4S,50 M Freestyle,SCM,W,50-54,41.90,Gina M Welc,,2018 Albatross Open,2018,1
+L4S,100 M Freestyle,SCM,W,50-54,1:33.85,Gina M Welc,,2018 Albatross Open,2018,1
+L4S,200 M Freestyle,SCM,W,50-54,3:17.81,Gina M Welc,,2018 Albatross Open,2018,1
+L4S,50 M Backstroke,SCM,W,50-54,31.82,Susan O Williams,,2018 Albatross Open,2018,1
+L4S,50 M Breaststroke,SCM,W,50-54,53.34,Renee J Roberts,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Butterfly,SCM,W,50-54,30.29,Susan O Williams,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,W,50-54,1:48.51,Gina M Welc,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,W,50-54,1:49.97,Renee J Roberts,,6th Annual Solstice SCM Swim Meet,2018,2
+L4S,100 M Freestyle,SCM,W,55-59,1:37.14,Catherine L Snyder-Charlip,,2018 Albatross Open,2018,1
+L4S,100 M Freestyle,SCM,W,55-59,1:38.91,Susan W Beach,,2018 Albatross Open,2018,2
+L4S,200 M Freestyle,SCM,W,55-59,2:49.66,Heidi Henning,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Backstroke,SCM,W,55-59,40.22,Heidi Henning,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Backstroke,SCM,W,55-59,52.46,Susan W Beach,,2018 Albatross Open,2018,2
+L4S,100 M Backstroke,SCM,W,55-59,1:26.95,Heidi Henning,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,100 M Backstroke,SCM,W,55-59,1:38.34,Catherine L Snyder-Charlip,,2018 Albatross Open,2018,2
+L4S,100 M Individual Medley,SCM,W,55-59,1:45.41,Catherine L Snyder-Charlip,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,W,55-59,1:59.67,Susan W Beach,,2018 Albatross Open,2018,2
+L4S,100 M Individual Medley,SCM,W,60-64,1:42.33,Connie L Jacobson,,2018 Albatross Open,2018,1
+L4S,200 M Individual Medley,SCM,W,60-64,3:53.29,Connie L Jacobson,,2018 Albatross Open,2018,1
+L4S,50 M Breaststroke,SCM,M,18-24,37.98,Tommy Williams,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Butterfly,SCM,M,18-24,29.30,Tommy Williams,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Freestyle,SCM,M,30-34,25.67,Nicholas J Macedonia,,2018 Albatross Open,2018,1
+L4S,50 M Breaststroke,SCM,M,30-34,32.14,Nicholas J Macedonia,,2018 Albatross Open,2018,1
+L4S,50 M Breaststroke,SCM,M,30-34,34.97,Troy A Sattgast,,6th Annual Solstice SCM Swim Meet,2018,2
+L4S,50 M Butterfly,SCM,M,30-34,27.71,Nicholas J Macedonia,,2018 Albatross Open,2018,1
+L4S,100 M Individual Medley,SCM,M,30-34,1:03.52,Troy A Sattgast,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,100 M Individual Medley,SCM,M,30-34,1:07.65,Nicholas J Macedonia,,2018 Albatross Open,2018,2
+L4S,200 M Backstroke,SCM,M,45-49,2:42.00,Daniel A Rudolph,,2018 Albatross Open,2018,1
+L4S,200 M Individual Medley,SCM,M,45-49,2:37.42,Daniel A Rudolph,,2018 Albatross Open,2018,1
+L4S,100 M Freestyle,SCM,M,55-59,1:02.87,Jay T Kress,,2018 Albatross Open,2018,1
+L4S,100 M Freestyle,SCM,M,55-59,1:21.00,Michael Zisk,,6th Annual Solstice SCM Swim Meet,2018,2
+L4S,50 M Backstroke,SCM,M,55-59,46.03,Michael Zisk,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,100 M Backstroke,SCM,M,55-59,1:16.00,Jay T Kress,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,50 M Breaststroke,SCM,M,55-59,37.85,Jay T Kress,,2018 Albatross Open,2018,1
+L4S,50 M Butterfly,SCM,M,55-59,31.00,Jay T Kress,,6th Annual Solstice SCM Swim Meet,2018,1
+L4S,100 M Individual Medley,SCM,M,55-59,1:11.77,Jay T Kress,,6th Annual Solstice SCM Swim Meet,2018,1
+MSSC,50 M Freestyle,SCM,M,35-39,29.79,Chris Shaw,,6th Annual Solstice SCM Swim Meet,2018,1
+MSSC,100 M Freestyle,SCM,M,35-39,1:08.89,Chris Shaw,,6th Annual Solstice SCM Swim Meet,2018,1
+MSSC,200 M Freestyle,SCM,M,35-39,2:34.85,Chris Shaw,,6th Annual Solstice SCM Swim Meet,2018,1
+NAMI,100 M Freestyle,SCM,M,18-24,1:04.40,Nate Dreier,,6th Annual Solstice SCM Swim Meet,2018,1
+NAMI,100 M Individual Medley,SCM,M,18-24,1:12.43,Nate Dreier,,6th Annual Solstice SCM Swim Meet,2018,1
+NAMI,100 M Backstroke,SCM,M,30-34,1:25.84,Javier Folgar,,2018 Albatross Open,2018,1
+NAMI,50 M Breaststroke,SCM,M,30-34,39.62,Javier Folgar,,2018 Albatross Open,2018,1
+NAMI,100 M Breaststroke,SCM,M,30-34,1:30.42,Javier Folgar,,2018 Albatross Open,2018,1
+NAMI,100 M Individual Medley,SCM,M,30-34,1:24.41,Javier Folgar,,2018 Albatross Open,2018,1
+RIPM,50 M Backstroke,SCM,M,40-44,26.62,James Zenyuh,,6th Annual Solstice SCM Swim Meet,2018,1
+RIPM,50 M Butterfly,SCM,M,40-44,25.62,James Zenyuh,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,W,18-24,1:19.44,Sharon D Romero,,2018 Albatross Open,2018,1
+RMST,100 M Backstroke,SCM,W,18-24,1:31.41,Sharon D Romero,,2018 Albatross Open,2018,1
+RMST,200 M Backstroke,SCM,W,18-24,3:24.79,Sharon D Romero,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,W,18-24,40.47,Sharon D Romero,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Individual Medley,SCM,W,18-24,1:29.37,Sharon D Romero,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Individual Medley,SCM,W,18-24,3:17.09,Sharon D Romero,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,W,30-34,35.89,Michele M Cox,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,W,30-34,1:21.28,Michele M Cox,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,W,30-34,3:00.19,Michele M Cox,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Backstroke,SCM,W,30-34,43.19,Gabriela Trainor,,2018 Albatross Open,2018,1
+RMST,100 M Individual Medley,SCM,W,30-34,1:31.28,Michele M Cox,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Individual Medley,SCM,W,30-34,1:34.78,Gabriela Trainor,,2018 Albatross Open,2018,2
+RMST,50 M Freestyle,SCM,W,35-39,30.73,Jennifer M Carlson,,Thunderbird Aquatic club Masters 2018 TAC SCM Masters Meet,2018,1
+RMST,200 M Breaststroke,SCM,W,35-39,3:09.32,Jennifer M Carlson,,Thunderbird Aquatic club Masters 2018 TAC SCM Masters Meet,2018,1
+RMST,400 M Individual Medley,SCM,W,35-39,5:57.47,Jennifer M Carlson,,Thunderbird Aquatic club Masters 2018 TAC SCM Masters Meet,2018,1
+RMST,100 M Breaststroke,SCM,W,40-44,1:31.22,Margaret S Shapiro,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Individual Medley,SCM,W,40-44,1:19.53,Margaret S Shapiro,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,400 M Individual Medley,SCM,W,40-44,6:09.05,Margaret S Shapiro,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,W,45-49,1:09.71,Amy H Bass,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,W,45-49,2:38.06,Amy H Bass,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,W,45-49,36.91,Amy H Bass,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,W,50-54,33.48,Beth S McNamara,,2018 Albatross Open,2018,1
+RMST,100 M Freestyle,SCM,W,50-54,1:15.75,Beth S McNamara,,2018 Albatross Open,2018,1
+RMST,200 M Freestyle,SCM,W,50-54,2:51.76,Beth S McNamara,,2018 Albatross Open,2018,1
+RMST,50 M Breaststroke,SCM,W,50-54,39.88,Lisa J Groves,,2018 Albatross Open,2018,1
+RMST,100 M Breaststroke,SCM,W,50-54,1:30.96,Lisa J Groves,,2018 Albatross Open,2018,1
+RMST,200 M Breaststroke,SCM,W,50-54,3:14.26,Lisa J Groves,,2018 Albatross Open,2018,1
+RMST,100 M Individual Medley,SCM,W,50-54,1:23.26,Lisa J Groves,,2018 Albatross Open,2018,1
+RMST,100 M Individual Medley,SCM,W,50-54,1:37.51,Beth S McNamara,,2018 Albatross Open,2018,2
+RMST,50 M Freestyle,SCM,W,55-59,32.68,Kim M Brightwell,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,W,55-59,51.06,Sally F Kidd,,2018 Albatross Open,2018,2
+RMST,100 M Freestyle,SCM,W,55-59,1:25.93,Michelle A Moyer,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,W,55-59,1:51.97,Sally F Kidd,,2018 Albatross Open,2018,2
+RMST,50 M Backstroke,SCM,W,55-59,35.64,Kim M Brightwell,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Backstroke,SCM,W,55-59,44.31,Cynthia L Hyland,,6th Annual Solstice SCM Swim Meet,2018,2
+RMST,100 M Backstroke,SCM,W,55-59,2:13.73,Sally F Kidd,,2018 Albatross Open,2018,1
+RMST,50 M Breaststroke,SCM,W,55-59,43.82,Kim M Brightwell,,2018 Albatross Open,2018,1
+RMST,50 M Butterfly,SCM,W,55-59,36.27,Kim M Brightwell,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,W,55-59,41.96,Cynthia L Hyland,,6th Annual Solstice SCM Swim Meet,2018,2
+RMST,100 M Individual Medley,SCM,W,55-59,1:25.44,Kim M Brightwell,,2018 Albatross Open,2018,1
+RMST,100 M Individual Medley,SCM,W,55-59,1:45.27,Merri Flynn,,6th Annual Solstice SCM Swim Meet,2018,2
+RMST,100 M Freestyle,SCM,W,70-74,1:32.76,Ruth R Bennett,,2018 Albatross Open,2018,1
+RMST,200 M Freestyle,SCM,W,70-74,3:17.70,Ruth R Bennett,,2018 Albatross Open,2018,1
+RMST,100 M Freestyle,SCM,W,75-79,1:56.10,Lucy M Manheim,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Backstroke,SCM,W,75-79,1:01.64,Lucy M Manheim,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Backstroke,SCM,W,75-79,2:12.92,Lucy M Manheim,,2018 Albatross Open,2018,1
+RMST,100 M Individual Medley,SCM,W,75-79,2:33.83,Lucy M Manheim,,2018 Albatross Open,2018,1
+RMST,50 M Backstroke,SCM,M,18-24,38.42,Arthur Raven,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Breaststroke,SCM,M,18-24,44.15,Arthur Raven,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,M,18-24,36.39,Arthur Raven,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Backstroke,SCM,M,30-34,3:06.71,Aram G Thomasian,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Breaststroke,SCM,M,30-34,1:27.17,Aram G Thomasian,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Individual Medley,SCM,M,30-34,1:18.46,Aram G Thomasian,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,35-39,29.66,Jeremy P Hanford,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Backstroke,SCM,M,35-39,30.19,Adam Orton,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Breaststroke,SCM,M,35-39,35.95,Jeremy P Hanford,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Breaststroke,SCM,M,35-39,36.52,Adam Orton,,6th Annual Solstice SCM Swim Meet,2018,2
+RMST,100 M Breaststroke,SCM,M,35-39,1:18.19,Jeremy P Hanford,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Breaststroke,SCM,M,35-39,2:56.51,Jeremy P Hanford,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,M,35-39,29.00,Adam Orton,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Individual Medley,SCM,M,35-39,1:13.50,Jeremy P Hanford,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,40-44,27.21,Craig M Baldwin,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,40-44,29.89,Glenn Gwilliam,,6th Annual Solstice SCM Swim Meet,2018,2
+RMST,100 M Freestyle,SCM,M,40-44,59.23,Craig M Baldwin,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,M,40-44,1:09.02,Glenn Gwilliam,,2018 Albatross Open,2018,2
+RMST,200 M Freestyle,SCM,M,40-44,2:10.48,Craig M Baldwin,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,M,40-44,2:42.91,Glenn Gwilliam,,6th Annual Solstice SCM Swim Meet,2018,2
+RMST,50 M Breaststroke,SCM,M,40-44,34.80,Craig M Baldwin,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Breaststroke,SCM,M,40-44,1:18.36,Craig M Baldwin,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Breaststroke,SCM,M,40-44,2:45.01,Craig M Baldwin,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Individual Medley,SCM,M,40-44,1:20.23,Glenn Gwilliam,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,M,45-49,2:59.88,Anthony G Wynes,,2018 Albatross Open,2018,1
+RMST,200 M Backstroke,SCM,M,45-49,3:29.81,Anthony G Wynes,,2018 Albatross Open,2018,1
+RMST,200 M Breaststroke,SCM,M,45-49,3:42.38,Anthony G Wynes,,2018 Albatross Open,2018,1
+RMST,50 M Butterfly,SCM,M,45-49,48.34,Anthony G Wynes,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Butterfly,SCM,M,45-49,4:04.19,Anthony G Wynes,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Individual Medley,SCM,M,45-49,3:26.89,Anthony G Wynes,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,400 M Individual Medley,SCM,M,45-49,7:17.02,Anthony G Wynes,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,55-59,35.77,Chun Hong,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,M,55-59,3:44.49,Mitchell H Raful,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Breaststroke,SCM,M,55-59,43.35,Chun Hong,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,M,55-59,59.45,Mitchell H Raful,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,M,60-64,2:51.98,Steven N Moyer,,2018 Albatross Open,2018,1
+RMST,200 M Backstroke,SCM,M,60-64,3:57.95,Steven N Moyer,,2018 Albatross Open,2018,1
+RMST,200 M Backstroke,SCM,M,65-69,3:49.42,Laurence W Paulson,,2018 Albatross Open,2018,1
+RMST,100 M Butterfly,SCM,M,65-69,2:02.50,Laurence W Paulson,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Butterfly,SCM,M,65-69,4:28.99,Laurence W Paulson,,2018 Albatross Open,2018,1
+RMST,100 M Individual Medley,SCM,M,65-69,1:52.50,Laurence W Paulson,,2018 Albatross Open,2018,1
+RMST,200 M Individual Medley,SCM,M,65-69,4:10.23,Laurence W Paulson,,2018 Albatross Open,2018,1
+RMST,400 M Individual Medley,SCM,M,65-69,8:47.23,Laurence W Paulson,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,70-74,44.93,Larry S Snowhite,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,M,70-74,1:38.14,Larry S Snowhite,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,M,70-74,4:42.30,Larry S Snowhite,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,75-79,43.64,Sterling Pilette,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Freestyle,SCM,M,75-79,1:39.19,Sterling Pilette,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,200 M Freestyle,SCM,M,75-79,3:46.89,Sterling Pilette,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Butterfly,SCM,M,75-79,44.46,Sterling Pilette,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Freestyle,SCM,M,85-89,49.71,Frank T Manheim,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,50 M Backstroke,SCM,M,85-89,55.10,Frank T Manheim,,6th Annual Solstice SCM Swim Meet,2018,1
+RMST,100 M Backstroke,SCM,M,85-89,2:08.15,Frank T Manheim,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Freestyle,SCM,W,50-54,1:21.12,Elizabeth Spear,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,200 M Freestyle,SCM,W,50-54,2:49.18,Judy L Lyons,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,200 M Freestyle,SCM,W,50-54,2:52.30,Elizabeth Spear,,6th Annual Solstice SCM Swim Meet,2018,2
+UC10,50 M Breaststroke,SCM,W,50-54,48.95,Elizabeth Spear,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Individual Medley,SCM,W,50-54,1:33.87,Elizabeth Spear,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Freestyle,SCM,W,60-64,1:33.48,Amy Subar,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,200 M Freestyle,SCM,W,60-64,3:23.98,Amy Subar,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Freestyle,SCM,W,65-69,1:09.46,Valarie A Prue,,2018 Albatross Open,2018,1
+UC10,100 M Backstroke,SCM,W,65-69,3:27.29,Valarie A Prue,,2018 Albatross Open,2018,1
+UC10,50 M Breaststroke,SCM,W,65-69,1:42.03,Valarie A Prue,,2018 Albatross Open,2018,1
+UC10,50 M Freestyle,SCM,W,70-74,1:23.61,Gloria R Clarke,,2018 Albatross Open,2018,1
+UC10,100 M Freestyle,SCM,W,70-74,3:18.33,Gloria R Clarke,,2018 Albatross Open,2018,1
+UC10,200 M Freestyle,SCM,W,70-74,5:50.21,Gloria R Clarke,,2018 Albatross Open,2018,1
+UC10,50 M Freestyle,SCM,M,30-34,31.38,Joseph Covington,,2018 Albatross Open,2018,1
+UC10,100 M Freestyle,SCM,M,30-34,1:11.92,Joseph Covington,,2018 Albatross Open,2018,1
+UC10,100 M Freestyle,SCM,M,30-34,1:14.74,Ryan M Rudiger,,2018 Last Chance Meters Meet,2018,2
+UC10,200 M Freestyle,SCM,M,30-34,2:47.85,Joseph Covington,,2018 Albatross Open,2018,1
+UC10,200 M Freestyle,SCM,M,30-34,2:50.82,Ryan M Rudiger,,2018 Last Chance Meters Meet,2018,2
+UC10,400 M Freestyle,SCM,M,30-34,5:51.40,Ryan M Rudiger,,2018 Last Chance Meters Meet,2018,1
+UC10,800 M Freestyle,SCM,M,30-34,11:59.00,Ryan M Rudiger,,2018 Last Chance Meters Meet,2018,1
+UC10,50 M Butterfly,SCM,M,30-34,37.08,Joseph Covington,,2018 Albatross Open,2018,1
+UC10,100 M Freestyle,SCM,M,40-44,1:02.10,Ryan Hadley,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,200 M Freestyle,SCM,M,40-44,2:17.00,Ryan Hadley,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Butterfly,SCM,M,40-44,30.84,Ryan Hadley,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Individual Medley,SCM,M,40-44,1:11.84,Ryan Hadley,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Breaststroke,SCM,M,45-49,36.97,Nicholas T Irons,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Freestyle,SCM,M,55-59,40.36,Gang Luo,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Breaststroke,SCM,M,55-59,44.73,Gang Luo,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Breaststroke,SCM,M,55-59,1:38.51,Gang Luo,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,200 M Breaststroke,SCM,M,55-59,3:51.13,Gang Luo,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Breaststroke,SCM,M,60-64,42.82,Charlie A Salcetti,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Breaststroke,SCM,M,60-64,1:39.96,Charlie A Salcetti,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Freestyle,SCM,M,65-69,2:52.36,Joseph Jackson,,2018 Albatross Open,2018,1
+UC10,50 M Breaststroke,SCM,M,65-69,1:01.73,Joseph Jackson,,2018 Albatross Open,2018,1
+UC10,100 M Breaststroke,SCM,M,65-69,2:24.00,Joseph Jackson,,2018 Albatross Open,2018,1
+UC10,50 M Freestyle,SCM,M,80-84,41.89,Lawrence Cohen,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Freestyle,SCM,M,80-84,1:36.67,Lawrence Cohen,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,50 M Breaststroke,SCM,M,80-84,57.23,Lawrence Cohen,,6th Annual Solstice SCM Swim Meet,2018,1
+UC10,100 M Breaststroke,SCM,M,80-84,2:10.60,Lawrence Cohen,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Breaststroke,SCM,W,18-24,1:42.04,Sabrina Elshafei,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,200 M Breaststroke,SCM,W,18-24,3:43.13,Sabrina Elshafei,,2018 Last Chance Meters Meet,2018,1
+UMAC,100 M Individual Medley,SCM,W,18-24,1:35.13,Sabrina Elshafei,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Freestyle,SCM,W,25-29,1:00.60,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Freestyle,SCM,W,25-29,2:12.68,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,400 M Freestyle,SCM,W,25-29,4:32.84,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Backstroke,SCM,W,25-29,32.20,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Backstroke,SCM,W,25-29,1:07.38,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Breaststroke,SCM,W,25-29,38.25,Courtney M Randolph,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Breaststroke,SCM,W,25-29,1:16.95,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Butterfly,SCM,W,25-29,31.51,Courtney M Randolph,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Individual Medley,SCM,W,25-29,1:10.67,Courtney M Randolph,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,200 M Individual Medley,SCM,W,25-29,2:24.39,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,400 M Individual Medley,SCM,W,25-29,5:07.41,Courtney M Randolph,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Freestyle,SCM,W,30-34,30.34,Laura C Rose,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Freestyle,SCM,W,30-34,1:06.10,Laura C Rose,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Freestyle,SCM,W,30-34,2:23.58,Laura C Rose,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Freestyle,SCM,W,30-34,2:25.56,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,2
+UMAC,400 M Freestyle,SCM,W,30-34,4:59.99,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Breaststroke,SCM,W,30-34,39.46,Laura C Rose,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Breaststroke,SCM,W,30-34,42.63,Marlena L Tonelli,,2018 Wisconsin Masters SCM Swim Meet,2018,2
+UMAC,100 M Breaststroke,SCM,W,30-34,1:23.61,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Breaststroke,SCM,W,30-34,3:01.49,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Butterfly,SCM,W,30-34,33.72,Laura C Rose,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Butterfly,SCM,W,30-34,1:17.15,Laura C Rose,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Individual Medley,SCM,W,30-34,1:16.75,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Individual Medley,SCM,W,30-34,2:44.85,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,400 M Individual Medley,SCM,W,30-34,5:49.91,Marlena L Tonelli,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Freestyle,SCM,W,35-39,29.11,Mollie K Grover,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Freestyle,SCM,W,35-39,44.80,Angela L Fu,,2018 Albatross Open,2018,2
+UMAC,100 M Freestyle,SCM,W,35-39,1:00.49,Mollie K Grover,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Freestyle,SCM,W,35-39,1:41.93,Angela L Fu,,2018 Albatross Open,2018,2
+UMAC,50 M Backstroke,SCM,W,35-39,32.25,Mollie K Grover,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Backstroke,SCM,W,35-39,59.11,Angela L Fu,,2018 Albatross Open,2018,2
+UMAC,100 M Backstroke,SCM,W,35-39,1:07.67,Mollie K Grover,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Backstroke,SCM,W,35-39,2:29.26,Mollie K Grover,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Breaststroke,SCM,W,35-39,38.65,Mollie K Grover,,2018 Albatross Open,2018,1
+UMAC,50 M Butterfly,SCM,W,35-39,31.98,Mollie K Grover,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Individual Medley,SCM,W,35-39,2:09.22,Angela L Fu,,2018 Albatross Open,2018,1
+UMAC,800 M Freestyle,SCM,W,50-54,13:01.45,Donna L Elshafei,,2018 Last Chance Meters Meet,2018,1
+UMAC,200 M Breaststroke,SCM,W,50-54,3:59.14,Donna L Elshafei,,2018 Last Chance Meters Meet,2018,1
+UMAC,200 M Freestyle,SCM,M,30-34,2:02.93,Brett C Laplante,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,400 M Freestyle,SCM,M,30-34,4:28.29,Brett C Laplante,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Backstroke,SCM,M,30-34,30.44,Brett C Laplante,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Backstroke,SCM,M,30-34,1:05.52,Brett C Laplante,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Breaststroke,SCM,M,30-34,35.22,Brett C Laplante,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Breaststroke,SCM,M,30-34,1:13.79,Brett C Laplante,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Butterfly,SCM,M,30-34,29.34,Brett C Laplante,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,100 M Individual Medley,SCM,M,30-34,1:04.33,Brett C Laplante,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Individual Medley,SCM,M,30-34,2:19.18,Brett C Laplante,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Freestyle,SCM,M,35-39,26.74,Jeffrey R Strahota,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Freestyle,SCM,M,35-39,28.63,Jonathan OLoughlin,,6th Annual Solstice SCM Swim Meet,2018,2
+UMAC,100 M Freestyle,SCM,M,35-39,59.06,Jeffrey R Strahota,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Freestyle,SCM,M,35-39,1:01.72,Jonathan OLoughlin,,2018 Albatross Open,2018,2
+UMAC,200 M Freestyle,SCM,M,35-39,2:09.39,Jeffrey R Strahota,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,400 M Freestyle,SCM,M,35-39,4:42.56,Jeffrey R Strahota,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Breaststroke,SCM,M,35-39,1:23.69,Jeffrey R Strahota,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,50 M Butterfly,SCM,M,35-39,29.90,Jeffrey R Strahota,,2018 Albatross Open,2018,1
+UMAC,100 M Butterfly,SCM,M,35-39,1:05.39,Jeffrey R Strahota,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Individual Medley,SCM,M,35-39,1:09.52,Jeffrey R Strahota,,2018 Albatross Open,2018,1
+UMAC,100 M Individual Medley,SCM,M,35-39,1:13.32,Jonathan OLoughlin,,6th Annual Solstice SCM Swim Meet,2018,2
+UMAC,200 M Individual Medley,SCM,M,35-39,2:28.17,Jeffrey R Strahota,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Freestyle,SCM,M,40-44,1:01.03,Dave Romack,,2018 Albatross Open,2018,1
+UMAC,100 M Freestyle,SCM,M,40-44,1:08.71,Noah L Dowell,,6th Annual Solstice SCM Swim Meet,2018,2
+UMAC,200 M Freestyle,SCM,M,40-44,2:16.75,Dave Romack,,2018 Albatross Open,2018,1
+UMAC,200 M Freestyle,SCM,M,40-44,2:35.60,Noah L Dowell,,6th Annual Solstice SCM Swim Meet,2018,2
+UMAC,400 M Freestyle,SCM,M,40-44,4:54.30,Dave Romack,,2018 Albatross Open,2018,1
+UMAC,200 M Backstroke,SCM,M,40-44,2:28.41,Dave Romack,,2018 Albatross Open,2018,1
+UMAC,50 M Freestyle,SCM,M,45-49,25.35,Michael P Doane,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,200 M Freestyle,SCM,M,45-49,2:17.67,Michael R Goodison,,2018 Albatross Open,2018,1
+UMAC,50 M Breaststroke,SCM,M,45-49,32.78,Michael P Doane,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,50 M Breaststroke,SCM,M,45-49,32.86,Michael R Goodison,,6th Annual Solstice SCM Swim Meet,2018,2
+UMAC,100 M Breaststroke,SCM,M,45-49,1:13.49,Michael R Goodison,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,200 M Breaststroke,SCM,M,45-49,2:45.31,Michael R Goodison,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,50 M Butterfly,SCM,M,45-49,27.47,Michael P Doane,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,50 M Butterfly,SCM,M,45-49,28.97,Michael R Goodison,,6th Annual Solstice SCM Swim Meet,2018,2
+UMAC,100 M Butterfly,SCM,M,45-49,1:06.44,Michael R Goodison,,2018 Albatross Open,2018,1
+UMAC,100 M Individual Medley,SCM,M,45-49,1:07.71,Michael R Goodison,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,200 M Individual Medley,SCM,M,45-49,2:31.94,Michael R Goodison,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Freestyle,SCM,M,50-54,2:16.43,Emad H Elshafei,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,400 M Freestyle,SCM,M,50-54,4:46.03,Emad H Elshafei,,2018 Albatross Open,2018,1
+UMAC,800 M Freestyle,SCM,M,50-54,10:07.47,Emad H Elshafei,,2018 Last Chance Meters Meet,2018,1
+UMAC,200 M Backstroke,SCM,M,50-54,2:43.23,Andrew F Ellis,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Breaststroke,SCM,M,50-54,1:20.93,Andrew F Ellis,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,200 M Breaststroke,SCM,M,50-54,2:51.91,Andrew F Ellis,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,1
+UMAC,100 M Individual Medley,SCM,M,50-54,1:07.46,Emad H Elshafei,,2018 Albatross Open,2018,1
+UMAC,200 M Individual Medley,SCM,M,50-54,2:26.45,Emad H Elshafei,,2018 Albatross Open,2018,1
+UMAC,200 M Individual Medley,SCM,M,50-54,2:34.95,Andrew F Ellis,,2018 NE-LMSC &amp; Colonies Zone SCM Championships,2018,2
+UMAC,400 M Individual Medley,SCM,M,50-54,5:22.94,Emad H Elshafei,,6th Annual Solstice SCM Swim Meet,2018,1
+UMAC,50 M Freestyle,SCM,M,55-59,34.50,Stephen D Payne,,2018 Albatross Open,2018,1
+UMAC,100 M Freestyle,SCM,M,55-59,1:15.18,Stephen D Payne,,2018 Albatross Open,2018,1
+UMAC,100 M Individual Medley,SCM,M,55-59,1:39.01,Stephen D Payne,,2018 Albatross Open,2018,1
+UMAC,50 M Breaststroke,SCM,M,65-69,41.29,Charles L Hoffman,,2018 Albatross Open,2018,1
+UMAC,100 M Breaststroke,SCM,M,65-69,1:31.68,Charles L Hoffman,,2018 Albatross Open,2018,1
+UMAC,200 M Breaststroke,SCM,M,65-69,3:17.33,Charles L Hoffman,,2018 Albatross Open,2018,1

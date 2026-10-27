@@ -1,0 +1,615 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ALEX,50 M Breaststroke,SCM,M,30-34,31.51,Andrew S Killian,,2009 Albatross Open,2009,1
+ALEX,200 M Breaststroke,SCM,M,30-34,2:36.11,Andrew S Killian,,2009 Albatross Open,2009,1
+ALEX,50 M Breaststroke,SCM,M,50-54,40.84,Ray Novitske,,2009 Albatross Open,2009,1
+ALEX,100 M Individual Medley,SCM,M,50-54,1:32.35,Ray Novitske,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,W,18-24,36.75,Mary E Spalding,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,18-24,1:21.77,Mary E Spalding,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,W,18-24,44.84,Mary E Spalding,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,25-29,1:14.65,Megan Campbell,,2009 Albatross Open,2009,1
+ANCM,200 M Freestyle,SCM,W,25-29,2:45.24,Megan Campbell,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+ANCM,200 M Freestyle,SCM,W,25-29,2:49.10,Kristina L Waha,,2009 Albatross Open,2009,2
+ANCM,400 M Freestyle,SCM,W,25-29,5:50.02,Megan Campbell,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+ANCM,50 M Backstroke,SCM,W,25-29,41.46,Megan Campbell,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+ANCM,100 M Backstroke,SCM,W,25-29,1:29.08,Megan Campbell,,2009 Albatross Open,2009,1
+ANCM,100 M Breaststroke,SCM,W,25-29,1:26.29,Courtney Welsh,,2009 Albatross Open,2009,1
+ANCM,100 M Individual Medley,SCM,W,25-29,1:20.08,Courtney Welsh,,2009 Albatross Open,2009,1
+ANCM,200 M Individual Medley,SCM,W,25-29,3:06.43,Kristina L Waha,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,35-39,1:37.05,Elissa M Golan,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,W,35-39,52.22,Elissa M Golan,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,W,40-44,33.78,Nanci K Sundel,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,40-44,1:15.81,Nanci K Sundel,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,40-44,1:34.20,Cathy C Gainor,,2009 Last Chance SCM Meet,2009,2
+ANCM,200 M Freestyle,SCM,W,40-44,2:47.69,Nanci K Sundel,,2009 Albatross Open,2009,1
+ANCM,200 M Freestyle,SCM,W,40-44,2:54.27,Cathy C Gainor,,2009 Last Chance SCM Meet,2009,2
+ANCM,400 M Freestyle,SCM,W,40-44,5:59.70,Cathy C Gainor,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Freestyle,SCM,W,45-49,45.64,Stephanie A Sugg,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,45-49,1:13.27,Cj-Lockman Hall,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,W,45-49,1:50.15,Stephanie A Sugg,,2009 Albatross Open,2009,2
+ANCM,200 M Freestyle,SCM,W,45-49,3:57.91,Stephanie A Sugg,,2009 Albatross Open,2009,1
+ANCM,50 M Backstroke,SCM,W,45-49,46.54,Greta D Ober,,2009 Albatross Open,2009,1
+ANCM,100 M Backstroke,SCM,W,45-49,1:48.09,Greta D Ober,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,W,45-49,41.03,Cj-Lockman Hall,,2009 Albatross Open,2009,1
+ANCM,100 M Individual Medley,SCM,W,45-49,2:13.34,Stephanie A Sugg,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,W,60-64,44.81,Margot K Pettijohn,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Breaststroke,SCM,W,60-64,1:37.01,Margot K Pettijohn,,2009 Albatross Open,2009,1
+ANCM,200 M Breaststroke,SCM,W,60-64,3:25.28,Margot K Pettijohn,,2009 Albatross Open,2009,1
+ANCM,100 M Butterfly,SCM,W,60-64,1:29.24,Margot K Pettijohn,,2009 Albatross Open,2009,1
+ANCM,200 M Butterfly,SCM,W,60-64,3:39.14,Margot K Pettijohn,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Individual Medley,SCM,W,60-64,1:32.65,Margot K Pettijohn,,2009 Last Chance SCM Meet,2009,1
+ANCM,200 M Individual Medley,SCM,W,60-64,3:22.18,Margot K Pettijohn,,2009 Last Chance SCM Meet,2009,1
+ANCM,400 M Individual Medley,SCM,W,60-64,7:05.10,Margot K Pettijohn,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,M,30-34,31.68,Daniel I Genin,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,M,30-34,57.97,Eugene Rubtsov,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,M,30-34,1:07.71,Daniel I Genin,,2009 Albatross Open,2009,2
+ANCM,50 M Butterfly,SCM,M,30-34,29.11,Eugene Rubtsov,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,M,40-44,25.20,Jeffrey H Roddin,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,M,40-44,28.40,John E Mc Caffrey,,2009 Last Chance SCM Meet,2009,2
+ANCM,50 M Freestyle,SCM,M,40-44,36.49,Michael S Brodsky,,2009 Last Chance SCM Meet,2009,3
+ANCM,100 M Freestyle,SCM,M,40-44,1:04.38,John E Mc Caffrey,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Freestyle,SCM,M,40-44,1:23.06,Michael S Brodsky,,2009 Last Chance SCM Meet,2009,2
+ANCM,400 M Freestyle,SCM,M,40-44,6:33.60,Michael S Brodsky,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Breaststroke,SCM,M,40-44,37.90,John E Mc Caffrey,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Breaststroke,SCM,M,40-44,39.15,Jeff S Dubin,,2009 Albatross Open,2009,2
+ANCM,50 M Breaststroke,SCM,M,40-44,45.83,Michael S Brodsky,,2009 Last Chance SCM Meet,2009,3
+ANCM,100 M Breaststroke,SCM,M,40-44,1:23.31,Jeff S Dubin,,2009 Albatross Open,2009,1
+ANCM,100 M Butterfly,SCM,M,40-44,59.84,Jeffrey H Roddin,,2009 Albatross Open,2009,1
+ANCM,200 M Butterfly,SCM,M,40-44,2:15.35,Jeffrey H Roddin,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Individual Medley,SCM,M,40-44,1:00.53,Jeffrey H Roddin,,2009 Last Chance SCM Meet,2009,1
+ANCM,400 M Individual Medley,SCM,M,40-44,4:58.38,Jeffrey H Roddin,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Freestyle,SCM,M,45-49,1:14.59,Peter C Johnson,,2009 Albatross Open,2009,1
+ANCM,50 M Backstroke,SCM,M,45-49,27.98,J Clay Britt,,2009 Albatross Open,2009,1
+ANCM,100 M Backstroke,SCM,M,45-49,59.02,J Clay Britt,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,M,45-49,30.06,Wally C Dicks,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,M,45-49,44.19,Peter C Johnson,,2009 Albatross Open,2009,2
+ANCM,50 M Butterfly,SCM,M,45-49,26.70,J Clay Britt,,2009 Albatross Open,2009,1
+ANCM,100 M Butterfly,SCM,M,45-49,1:04.41,Jason A Crist,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,M,50-54,28.92,George W Gigioli,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,M,50-54,33.99,Jeffrey P Loman,,2009 Albatross Open,2009,2
+ANCM,50 M Freestyle,SCM,M,50-54,34.20,Thomas A Denes,,2009 Last Chance SCM Meet,2009,3
+ANCM,100 M Freestyle,SCM,M,50-54,1:14.59,Mauricio A Rezende,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,M,50-54,1:18.51,Jeffrey P Loman,,2009 Albatross Open,2009,2
+ANCM,200 M Freestyle,SCM,M,50-54,2:56.75,Jeffrey P Loman,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,M,50-54,37.52,George W Gigioli,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,M,50-54,51.23,Thomas A Denes,,2009 Last Chance SCM Meet,2009,2
+ANCM,50 M Butterfly,SCM,M,50-54,34.34,George W Gigioli,,2009 Albatross Open,2009,1
+ANCM,50 M Butterfly,SCM,M,50-54,42.40,Peter A Chang,,2009 Albatross Open,2009,2
+ANCM,200 M Individual Medley,SCM,M,50-54,3:20.95,Peter A Chang,,2009 Albatross Open,2009,1
+ANCM,400 M Individual Medley,SCM,M,50-54,6:36.44,Thomas A Denes,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Freestyle,SCM,M,55-59,27.73,Edwin W McCleskey,,2009 Albatross Open,2009,1
+ANCM,100 M Freestyle,SCM,M,55-59,1:27.03,Ben Stubenberg,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Backstroke,SCM,M,55-59,32.95,Mark Pugliese,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Breaststroke,SCM,M,55-59,46.10,Ben Stubenberg,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Breaststroke,SCM,M,55-59,1:40.59,Ben Stubenberg,,2009 Albatross Open,2009,1
+ANCM,200 M Breaststroke,SCM,M,55-59,3:38.01,Ben Stubenberg,,2009 Last Chance SCM Meet,2009,1
+ANCM,50 M Butterfly,SCM,M,55-59,29.75,Mark Pugliese,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Individual Medley,SCM,M,55-59,1:11.02,Edwin W McCleskey,,2009 Albatross Open,2009,1
+ANCM,100 M Individual Medley,SCM,M,55-59,1:12.36,Mark Pugliese,,2009 Last Chance SCM Meet,2009,2
+ANCM,50 M Freestyle,SCM,M,60-64,31.12,David C Harmon,,2009 Last Chance SCM Meet,2009,1
+ANCM,100 M Freestyle,SCM,M,60-64,1:13.76,Dan Morrow,,2009 Last Chance SCM Meet,2009,1
+ANCM,200 M Freestyle,SCM,M,60-64,2:29.31,David C Harmon,,2009 Albatross Open,2009,1
+ANCM,100 M Backstroke,SCM,M,60-64,1:20.92,Roger F Leonard,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,M,60-64,41.28,Dan Morrow,,2009 Albatross Open,2009,1
+ANCM,100 M Breaststroke,SCM,M,60-64,1:26.98,Dan Morrow,,2009 Albatross Open,2009,1
+ANCM,200 M Breaststroke,SCM,M,60-64,3:05.69,Roger F Leonard,,2009 Albatross Open,2009,1
+ANCM,200 M Breaststroke,SCM,M,60-64,3:11.21,Dan Morrow,,2009 Last Chance SCM Meet,2009,2
+ANCM,200 M Individual Medley,SCM,M,60-64,2:52.08,David C Harmon,,2009 Albatross Open,2009,1
+ANCM,400 M Individual Medley,SCM,M,60-64,6:17.38,David C Harmon,,2009 Albatross Open,2009,1
+ANCM,400 M Individual Medley,SCM,M,60-64,6:44.64,Dan Morrow,,2009 Albatross Open,2009,2
+ANCM,50 M Backstroke,SCM,M,70-74,41.46,Marshall R Greer,,2009 Albatross Open,2009,1
+ANCM,100 M Backstroke,SCM,M,70-74,1:33.13,Marshall R Greer,,2009 Albatross Open,2009,1
+ANCM,50 M Breaststroke,SCM,M,70-74,43.15,Louis H Diamond,,2009 Albatross Open,2009,1
+ANCM,100 M Breaststroke,SCM,M,70-74,1:37.97,Louis H Diamond,,2009 Albatross Open,2009,1
+ANCM,200 M Breaststroke,SCM,M,70-74,3:51.21,Louis H Diamond,,2009 Albatross Open,2009,1
+ANCM,50 M Freestyle,SCM,M,75-79,49.41,Frank B Robinson,,2009 Albatross Open,2009,1
+ARMS,50 M Freestyle,SCM,W,25-29,36.24,Felice M Raiteri,,2009 Albatross Open,2009,1
+ARMS,50 M Freestyle,SCM,W,25-29,39.37,Ellen U Hufford,,2009 Albatross Open,2009,2
+ARMS,100 M Freestyle,SCM,W,25-29,1:20.42,Felice M Raiteri,,2009 Albatross Open,2009,1
+ARMS,100 M Freestyle,SCM,W,25-29,1:25.14,Ellen U Hufford,,2009 Albatross Open,2009,2
+ARMS,200 M Freestyle,SCM,W,25-29,3:05.98,Ellen U Hufford,,2009 Albatross Open,2009,1
+ARMS,50 M Breaststroke,SCM,W,25-29,45.19,Felice M Raiteri,,2009 Albatross Open,2009,1
+ARMS,50 M Breaststroke,SCM,W,25-29,57.62,Ellen U Hufford,,2009 Albatross Open,2009,2
+ARMS,100 M Individual Medley,SCM,W,25-29,1:31.35,Felice M Raiteri,,2009 Albatross Open,2009,1
+CUBU,100 M Freestyle,SCM,M,30-34,57.73,Jose-Luis Gallagher,,2009 Last Chance SCM Meet,2009,1
+CUBU,200 M Freestyle,SCM,M,30-34,2:09.34,Jose-Luis Gallagher,,2009 Last Chance SCM Meet,2009,1
+CUBU,400 M Freestyle,SCM,M,30-34,4:45.90,Jose-Luis Gallagher,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+CUBU,50 M Backstroke,SCM,M,30-34,29.31,Jose-Luis Gallagher,,2009 Albatross Open,2009,1
+CUBU,100 M Backstroke,SCM,M,30-34,1:03.42,Jose-Luis Gallagher,,2009 Albatross Open,2009,1
+CUBU,200 M Backstroke,SCM,M,30-34,2:20.11,Jose-Luis Gallagher,,2009 Albatross Open,2009,1
+CUBU,50 M Breaststroke,SCM,M,30-34,29.87,Blake A Holden,,2009 Albatross Open,2009,1
+CUBU,100 M Breaststroke,SCM,M,30-34,1:04.81,Blake A Holden,,2009 Albatross Open,2009,1
+CUBU,200 M Breaststroke,SCM,M,30-34,2:23.31,Blake A Holden,,2009 Albatross Open,2009,1
+CUBU,100 M Butterfly,SCM,M,30-34,59.89,Blake A Holden,,2009 Albatross Open,2009,1
+CUBU,200 M Individual Medley,SCM,M,30-34,2:22.65,Jose-Luis Gallagher,,2009 Last Chance SCM Meet,2009,1
+CUBU,400 M Individual Medley,SCM,M,30-34,5:16.04,Jose-Luis Gallagher,,2009 Albatross Open,2009,1
+CUBU,100 M Freestyle,SCM,M,40-44,1:05.65,William A Adams,,2009 Last Chance SCM Meet,2009,1
+CUBU,200 M Freestyle,SCM,M,40-44,2:24.59,William A Adams,,2009 Last Chance SCM Meet,2009,1
+CUBU,100 M Freestyle,SCM,M,45-49,56.48,Mark C Michael,,2009 Last Chance SCM Meet,2009,1
+CUBU,400 M Freestyle,SCM,M,45-49,4:54.26,Denis Crean,,2009 Last Chance SCM Meet,2009,1
+CUBU,50 M Backstroke,SCM,M,45-49,35.13,Mark C Michael,,2009 Last Chance SCM Meet,2009,1
+CUBU,50 M Breaststroke,SCM,M,45-49,38.95,Denis Crean,,2009 Last Chance SCM Meet,2009,1
+CUBU,50 M Butterfly,SCM,M,45-49,28.14,Mark C Michael,,2009 Last Chance SCM Meet,2009,1
+CUBU,200 M Freestyle,SCM,M,70-74,4:03.57,Kenton H Pattie,,VMST 29th Annual Fall Swim Meet,2009,1
+CUBU,1500 M Freestyle,SCM,M,70-74,32:43.13,Kenton H Pattie,,VMST 29th Annual Fall Swim Meet,2009,1
+CUBU,50 M Backstroke,SCM,M,70-74,50.87,Kenton H Pattie,,2009 Albatross Open,2009,1
+CUBU,100 M Backstroke,SCM,M,70-74,1:52.50,Kenton H Pattie,,2009 Albatross Open,2009,1
+CUBU,200 M Backstroke,SCM,M,70-74,4:01.54,Kenton H Pattie,,2009 Albatross Open,2009,1
+CUBU,100 M Individual Medley,SCM,M,70-74,1:58.09,Kenton H Pattie,,2009 Albatross Open,2009,1
+DCAC,50 M Freestyle,SCM,W,25-29,28.89,Meredith A Stakem,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+DCAC,100 M Freestyle,SCM,W,25-29,1:32.68,LeeAnn N David,,2009 Last Chance SCM Meet,2009,1
+DCAC,400 M Freestyle,SCM,W,25-29,5:12.57,Meredith A Stakem,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+DCAC,50 M Backstroke,SCM,W,25-29,49.34,LeeAnn N David,,2009 Last Chance SCM Meet,2009,1
+DCAC,200 M Individual Medley,SCM,W,25-29,2:46.77,Meredith A Stakem,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+DCAC,50 M Freestyle,SCM,W,30-34,32.53,Leah Golshani,,2009 Last Chance SCM Meet,2009,1
+DCAC,100 M Freestyle,SCM,W,30-34,1:13.64,Leah Golshani,,2009 Last Chance SCM Meet,2009,1
+DCAC,200 M Freestyle,SCM,W,30-34,2:46.79,Leah Golshani,,2009 Last Chance SCM Meet,2009,1
+DCAC,50 M Freestyle,SCM,M,30-34,28.16,Michael C Graham,,2009 Albatross Open,2009,1
+DCAC,100 M Freestyle,SCM,M,30-34,59.30,Jean-Philippe Richard,,2009 Albatross Open,2009,1
+DCAC,100 M Freestyle,SCM,M,30-34,1:03.39,Michael C Graham,,2009 Albatross Open,2009,2
+DCAC,200 M Freestyle,SCM,M,30-34,2:13.04,Jean-Philippe Richard,,2009 Albatross Open,2009,1
+DCAC,100 M Breaststroke,SCM,M,30-34,1:16.14,Jean-Philippe Richard,,2009 Albatross Open,2009,1
+DCAC,200 M Breaststroke,SCM,M,30-34,2:45.71,Jean-Philippe Richard,,2009 Albatross Open,2009,1
+DCAC,100 M Freestyle,SCM,M,35-39,1:08.31,Jonathan Horsford,,2009 Albatross Open,2009,1
+DCAC,50 M Backstroke,SCM,M,35-39,37.88,Jonathan Horsford,,2009 Albatross Open,2009,1
+DCAC,200 M Breaststroke,SCM,M,35-39,2:59.87,Jonathan Horsford,,2009 Albatross Open,2009,1
+DCAC,100 M Individual Medley,SCM,M,35-39,1:15.49,Jonathan Horsford,,2009 Albatross Open,2009,1
+DCAC,50 M Freestyle,SCM,M,40-44,25.30,Neill C Williams,,2009 Albatross Open,2009,1
+DCAC,100 M Freestyle,SCM,M,40-44,1:11.33,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,50 M Backstroke,SCM,M,40-44,29.64,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,50 M Breaststroke,SCM,M,40-44,31.47,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,100 M Breaststroke,SCM,M,40-44,1:09.00,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,200 M Breaststroke,SCM,M,40-44,2:36.45,Neill C Williams,,2009 Albatross Open,2009,1
+DCAC,50 M Butterfly,SCM,M,40-44,26.30,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,100 M Butterfly,SCM,M,40-44,1:01.09,Neill C Williams,,2009 Albatross Open,2009,1
+DCAC,100 M Individual Medley,SCM,M,40-44,1:01.96,Neill C Williams,,2009 Albatross Open,2009,1
+DCAC,200 M Individual Medley,SCM,M,40-44,2:19.82,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,400 M Individual Medley,SCM,M,40-44,5:12.17,Neill Williams,,Rowdy Gaines Masters Classic,2009,1
+DCAC,100 M Backstroke,SCM,M,55-59,1:26.31,Dawson Nash,,2009 Albatross Open,2009,1
+DCAC,50 M Breaststroke,SCM,M,55-59,42.39,Gary D Gaffield,,2009 Albatross Open,2009,1
+DCAC,100 M Breaststroke,SCM,M,55-59,1:34.57,Gary D Gaffield,,2009 Albatross Open,2009,1
+DCAC,100 M Butterfly,SCM,M,55-59,1:24.34,Dawson Nash,,2009 Albatross Open,2009,1
+DCAC,200 M Butterfly,SCM,M,55-59,3:26.83,Dawson Nash,,2009 Albatross Open,2009,1
+DCAC,400 M Individual Medley,SCM,M,55-59,6:58.95,Dawson Nash,,2009 Albatross Open,2009,1
+DCAC,50 M Freestyle,SCM,M,60-64,29.11,Kieran Kelleher,,2009 Albatross Open,2009,1
+DCAC,100 M Butterfly,SCM,M,60-64,1:11.42,Kieran Kelleher,,2009 Albatross Open,2009,1
+DCAC,100 M Individual Medley,SCM,M,60-64,1:13.54,Kieran Kelleher,,2009 Albatross Open,2009,1
+DCM,50 M Freestyle,SCM,M,40-44,26.66,William H English,,2009 Albatross Open,2009,1
+DCM,100 M Freestyle,SCM,M,40-44,1:00.80,William H English,,2009 Albatross Open,2009,1
+DCM,50 M Breaststroke,SCM,M,40-44,34.02,William H English,,2009 Albatross Open,2009,1
+DCM,50 M Butterfly,SCM,M,40-44,30.70,William H English,,2009 Last Chance SCM Meet,2009,1
+DCM,100 M Butterfly,SCM,M,65-69,1:45.73,Roger M Golden,,2009 Albatross Open,2009,1
+DCM,200 M Butterfly,SCM,M,65-69,3:57.48,Roger M Golden,,2009 Albatross Open,2009,1
+DCRP,100 M Freestyle,SCM,W,18-24,1:09.89,Lindsay R Messina,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Backstroke,SCM,W,18-24,1:16.60,Lindsay R Messina,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Individual Medley,SCM,W,18-24,1:18.46,Lindsay R Messina,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Freestyle,SCM,W,25-29,30.21,Francesca E Di Silvio,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Backstroke,SCM,W,25-29,1:15.30,Francesca E Di Silvio,,2009 Last Chance SCM Meet,2009,1
+DCRP,200 M Backstroke,SCM,W,25-29,2:41.53,Francesca E Di Silvio,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Breaststroke,SCM,W,25-29,1:20.10,Kim J Jenko,,2009 Last Chance SCM Meet,2009,1
+DCRP,200 M Breaststroke,SCM,W,25-29,2:53.06,Kim J Jenko,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,W,25-29,33.58,Kim J Jenko,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Butterfly,SCM,W,25-29,1:31.16,Kim J Jenko,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,W,35-39,34.98,Juliette M De Sousa,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Butterfly,SCM,W,35-39,1:19.35,Juliette M De Sousa,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Individual Medley,SCM,W,35-39,1:18.63,Juliette M De Sousa,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Freestyle,SCM,W,40-44,1:29.26,Carolyn Gallaher,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Backstroke,SCM,W,40-44,43.09,Kathy Bainbridge,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Breaststroke,SCM,W,40-44,50.05,Kathy Bainbridge,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Breaststroke,SCM,W,40-44,1:45.37,Carolyn Gallaher,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,W,40-44,38.65,Kathy Bainbridge,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Individual Medley,SCM,W,40-44,1:34.79,Kathy Bainbridge,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Breaststroke,SCM,M,25-29,1:17.58,Bryan D Evangelista,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,M,25-29,28.60,Bryan D Evangelista,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Butterfly,SCM,M,25-29,1:04.55,Bryan D Evangelista,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Freestyle,SCM,M,35-39,27.02,Carter Groome,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Freestyle,SCM,M,35-39,35.14,Ben Werner,,2009 Last Chance SCM Meet,2009,2
+DCRP,100 M Freestyle,SCM,M,35-39,1:00.82,Carter Groome,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Freestyle,SCM,M,35-39,1:18.24,Ben Werner,,2009 Last Chance SCM Meet,2009,2
+DCRP,200 M Freestyle,SCM,M,35-39,2:58.32,Ben Werner,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,M,35-39,31.64,Carter Groome,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Individual Medley,SCM,M,35-39,1:29.36,Carter Groome,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Freestyle,SCM,M,40-44,32.48,Diego M Sourrouille,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Freestyle,SCM,M,40-44,1:11.71,Diego M Sourrouille,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Breaststroke,SCM,M,40-44,1:17.70,Max Kukoy,,2009 Last Chance SCM Meet,2009,1
+DCRP,200 M Breaststroke,SCM,M,40-44,2:52.96,Max Kukoy,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,M,40-44,31.28,Max Kukoy,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Butterfly,SCM,M,40-44,1:20.10,Max Kukoy,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Freestyle,SCM,M,55-59,1:11.48,Lawrence Demille-Wagman,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Freestyle,SCM,M,60-64,37.28,Robert A Axelrod,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Freestyle,SCM,M,60-64,1:25.51,Robert A Axelrod,,2009 Last Chance SCM Meet,2009,1
+DCRP,400 M Freestyle,SCM,M,60-64,6:30.05,Robert A Axelrod,,2009 Last Chance SCM Meet,2009,1
+DCRP,50 M Butterfly,SCM,M,75-79,47.48,H Donald Messer,,2009 Last Chance SCM Meet,2009,1
+DCRP,100 M Butterfly,SCM,M,75-79,1:59.82,H Donald Messer,,2009 Albatross Open,2009,1
+DCRP,100 M Individual Medley,SCM,M,75-79,2:03.08,H Donald Messer,,2009 Last Chance SCM Meet,2009,1
+FBST,100 M Freestyle,SCM,M,45-49,1:05.41,Mark E Harris,,UVAC Leaf Peepers Masters Meet,2009,1
+FBST,200 M Freestyle,SCM,M,45-49,2:26.47,Mark E Harris,,2009 Albatross Open,2009,1
+FBST,50 M Breaststroke,SCM,M,45-49,36.99,Mark E Harris,,2009 Albatross Open,2009,1
+FBST,100 M Breaststroke,SCM,M,45-49,1:23.63,Mark E Harris,,2009 Albatross Open,2009,1
+FBST,200 M Breaststroke,SCM,M,45-49,3:03.36,Mark E Harris,,UVAC Leaf Peepers Masters Meet,2009,1
+FXCM,50 M Breaststroke,SCM,W,45-49,39.61,Sara E Demyanovich,,2009 Albatross Open,2009,1
+FXCM,100 M Breaststroke,SCM,W,45-49,1:25.91,Sara E Demyanovich,,2009 Albatross Open,2009,1
+FXCM,200 M Breaststroke,SCM,W,45-49,3:05.06,Sara E Demyanovich,,2009 Albatross Open,2009,1
+FXCM,400 M Individual Medley,SCM,W,45-49,5:55.57,Sara E Demyanovich,,2009 Albatross Open,2009,1
+FXCM,50 M Backstroke,SCM,M,18-24,28.90,Brad D Oglevee,,2009 Last Chance SCM Meet,2009,1
+FXCM,200 M Backstroke,SCM,M,18-24,2:17.78,Brad D Oglevee,,2009 Last Chance SCM Meet,2009,1
+FXCM,100 M Butterfly,SCM,M,18-24,1:03.48,Brad D Oglevee,,2009 Last Chance SCM Meet,2009,1
+FXCM,100 M Individual Medley,SCM,M,18-24,1:05.12,Brad D Oglevee,,2009 Last Chance SCM Meet,2009,1
+FXCM,50 M Freestyle,SCM,M,25-29,27.46,Juan P Cortes,,2009 Albatross Open,2009,1
+FXCM,100 M Freestyle,SCM,M,25-29,1:01.42,Juan P Cortes,,2009 Albatross Open,2009,1
+FXCM,200 M Freestyle,SCM,M,25-29,2:13.56,Juan P Cortes,,2009 Albatross Open,2009,1
+FXCM,100 M Butterfly,SCM,M,25-29,1:07.17,Juan P Cortes,,2009 Albatross Open,2009,1
+FXCM,50 M Freestyle,SCM,M,35-39,29.37,Michael E Hannesschlager,,2009 Albatross Open,2009,1
+FXCM,50 M Backstroke,SCM,M,35-39,32.95,Michael E Hannesschlager,,2009 Albatross Open,2009,1
+FXCM,50 M Butterfly,SCM,M,35-39,29.42,Michael E Hannesschlager,,2009 Albatross Open,2009,1
+FXCM,50 M Freestyle,SCM,M,45-49,27.21,David J Varner,,2009 Albatross Open,2009,1
+FXCM,50 M Freestyle,SCM,M,45-49,28.12,Jay T Kress,,2009 Last Chance SCM Meet,2009,2
+FXCM,50 M Freestyle,SCM,M,45-49,28.35,Stan D Calvert,,2009 Last Chance SCM Meet,2009,3
+FXCM,200 M Freestyle,SCM,M,45-49,2:10.11,David J Varner,,2009 Albatross Open,2009,1
+FXCM,200 M Freestyle,SCM,M,45-49,2:14.96,Stan D Calvert,,2009 Last Chance SCM Meet,2009,2
+FXCM,200 M Freestyle,SCM,M,45-49,2:19.15,Jay T Kress,,2009 Last Chance SCM Meet,2009,3
+FXCM,200 M Freestyle,SCM,M,45-49,2:37.14,David B Deitch,,2009 Albatross Open,2009,4
+FXCM,50 M Backstroke,SCM,M,45-49,31.72,Jay T Kress,,2009 Albatross Open,2009,1
+FXCM,100 M Backstroke,SCM,M,45-49,1:10.21,Jay T Kress,,2009 Albatross Open,2009,1
+FXCM,200 M Backstroke,SCM,M,45-49,2:32.95,Stan D Calvert,,2009 Last Chance SCM Meet,2009,1
+FXCM,200 M Backstroke,SCM,M,45-49,2:35.75,Jay T Kress,,2009 Albatross Open,2009,2
+FXCM,50 M Breaststroke,SCM,M,45-49,34.65,Jay T Kress,,2009 Albatross Open,2009,1
+FXCM,100 M Breaststroke,SCM,M,45-49,1:17.71,Jay T Kress,,2009 Last Chance SCM Meet,2009,1
+FXCM,200 M Breaststroke,SCM,M,45-49,2:58.82,Jay T Kress,,2009 Last Chance SCM Meet,2009,1
+FXCM,50 M Butterfly,SCM,M,45-49,32.28,Stan D Calvert,,2009 Last Chance SCM Meet,2009,1
+FXCM,100 M Freestyle,SCM,M,50-54,1:03.89,Alan K Rickard,,2009 Albatross Open,2009,1
+FXCM,200 M Freestyle,SCM,M,50-54,2:25.32,Alan K Rickard,,2009 Albatross Open,2009,1
+FXCM,50 M Butterfly,SCM,M,50-54,34.03,Alan K Rickard,,2009 Last Chance SCM Meet,2009,1
+FXCM,100 M Butterfly,SCM,M,50-54,1:22.05,Alan K Rickard,,2009 Albatross Open,2009,1
+FXCM,200 M Individual Medley,SCM,M,50-54,3:04.44,Alan K Rickard,,2009 Albatross Open,2009,1
+GERM,50 M Backstroke,SCM,W,35-39,39.61,Jennifer L Halem,,2009 Albatross Open,2009,1
+GERM,100 M Backstroke,SCM,W,35-39,1:22.96,Jennifer L Halem,,2009 Albatross Open,2009,1
+GERM,200 M Backstroke,SCM,W,35-39,3:02.92,Jennifer L Halem,,2009 Albatross Open,2009,1
+GERM,100 M Individual Medley,SCM,W,35-39,1:29.12,Jennifer L Halem,,2009 Albatross Open,2009,1
+GERM,200 M Freestyle,SCM,W,40-44,2:25.01,Denise L Noznesky,,2009 Albatross Open,2009,1
+GERM,100 M Individual Medley,SCM,W,40-44,1:18.74,Denise L Noznesky,,2009 Albatross Open,2009,1
+GERM,200 M Individual Medley,SCM,W,40-44,2:43.55,Denise L Noznesky,,2009 Albatross Open,2009,1
+GERM,400 M Individual Medley,SCM,W,40-44,5:52.58,Denise L Noznesky,,2009 Albatross Open,2009,1
+GERM,200 M Freestyle,SCM,W,50-54,2:39.34,Karen R Cosgrove,,2009 Albatross Open,2009,1
+GERM,50 M Backstroke,SCM,W,50-54,33.29,Lisa Van Pelt-Diller,,2009 Albatross Open,2009,1
+GERM,100 M Backstroke,SCM,W,50-54,1:11.99,Lisa Van Pelt-Diller,,2009 Albatross Open,2009,1
+GERM,50 M Breaststroke,SCM,W,50-54,41.84,Amy B Cooley,,2009 Albatross Open,2009,1
+GERM,100 M Breaststroke,SCM,W,50-54,1:29.88,Karen R Cosgrove,,2009 Albatross Open,2009,1
+GERM,100 M Breaststroke,SCM,W,50-54,1:30.84,Amy B Cooley,,2009 Albatross Open,2009,2
+GERM,200 M Breaststroke,SCM,W,50-54,3:15.84,Karen R Cosgrove,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,W,50-54,34.90,Jeanne L Lappin,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,W,50-54,42.85,Dyann Charette,,2009 Albatross Open,2009,2
+GERM,100 M Butterfly,SCM,W,50-54,1:19.29,Jeanne L Lappin,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,30-34,33.68,Monte A Lewis,,2009 Albatross Open,2009,1
+GERM,100 M Freestyle,SCM,M,30-34,1:14.87,Monte A Lewis,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,M,30-34,36.61,Monte A Lewis,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,35-39,25.49,John C Elliott,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,35-39,30.68,Bryan A Main,,2009 Albatross Open,2009,2
+GERM,200 M Freestyle,SCM,M,35-39,2:29.70,Bryan A Main,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,M,35-39,28.08,John C Elliott,,2009 Albatross Open,2009,1
+GERM,100 M Butterfly,SCM,M,35-39,1:00.90,John C Elliott,,2009 Albatross Open,2009,1
+GERM,100 M Butterfly,SCM,M,35-39,1:18.10,Bryan A Main,,2009 Albatross Open,2009,2
+GERM,100 M Individual Medley,SCM,M,35-39,1:06.20,John C Elliott,,2009 Albatross Open,2009,1
+GERM,200 M Individual Medley,SCM,M,35-39,2:51.80,Bryan A Main,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,40-44,27.08,Paul R Wolf,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,40-44,29.75,Jeffery S Williams,,2009 Albatross Open,2009,2
+GERM,50 M Freestyle,SCM,M,40-44,32.87,Keir R Knight,,2009 Albatross Open,2009,3
+GERM,100 M Freestyle,SCM,M,40-44,1:02.70,Karl E Wunderlich,,2009 Albatross Open,2009,1
+GERM,100 M Freestyle,SCM,M,40-44,1:14.61,Keir R Knight,,2009 Albatross Open,2009,2
+GERM,50 M Backstroke,SCM,M,40-44,31.88,Paul R Wolf,,2009 Albatross Open,2009,1
+GERM,200 M Backstroke,SCM,M,40-44,2:44.55,Daniel B Blitz,,2009 Albatross Open,2009,1
+GERM,50 M Breaststroke,SCM,M,40-44,39.15,Jeffery S Williams,,2009 Albatross Open,2009,1
+GERM,50 M Breaststroke,SCM,M,40-44,45.02,Keir R Knight,,2009 Albatross Open,2009,2
+GERM,100 M Breaststroke,SCM,M,40-44,1:23.26,Karl E Wunderlich,,2009 Albatross Open,2009,1
+GERM,100 M Breaststroke,SCM,M,40-44,1:41.34,Keir R Knight,,2009 Albatross Open,2009,2
+GERM,200 M Breaststroke,SCM,M,40-44,3:03.48,Daniel B Blitz,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,M,40-44,29.92,Paul R Wolf,,2009 Albatross Open,2009,1
+GERM,200 M Butterfly,SCM,M,40-44,2:54.72,Daniel B Blitz,,2009 Albatross Open,2009,1
+GERM,200 M Individual Medley,SCM,M,40-44,2:39.57,Daniel B Blitz,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,45-49,28.35,Scott M Golden,,2009 Last Chance SCM Meet,2009,1
+GERM,100 M Freestyle,SCM,M,45-49,1:04.96,Scott M Golden,,2009 Last Chance SCM Meet,2009,1
+GERM,50 M Butterfly,SCM,M,45-49,30.48,Timothy E Brockway,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,M,45-49,30.67,Scott M Golden,,2009 Last Chance SCM Meet,2009,2
+GERM,100 M Butterfly,SCM,M,45-49,1:10.94,Scott M Golden,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,50-54,29.97,Dan Thomas,,2009 Albatross Open,2009,1
+GERM,100 M Individual Medley,SCM,M,50-54,1:16.96,Robert T Lewis,,2009 Albatross Open,2009,1
+GERM,100 M Individual Medley,SCM,M,50-54,1:20.85,Dan Thomas,,2009 Albatross Open,2009,2
+GERM,200 M Individual Medley,SCM,M,50-54,2:51.71,Robert T Lewis,,2009 Albatross Open,2009,1
+GERM,200 M Backstroke,SCM,M,55-59,3:10.11,John R Farrell,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,M,55-59,33.81,Mark C Walters,,2009 Albatross Open,2009,1
+GERM,100 M Butterfly,SCM,M,55-59,1:16.76,Mark C Walters,,2009 Albatross Open,2009,1
+GERM,200 M Butterfly,SCM,M,55-59,3:01.79,Mark C Walters,,2009 Albatross Open,2009,1
+GERM,100 M Freestyle,SCM,M,60-64,1:13.71,Timothy C Miller,,2009 Albatross Open,2009,1
+GERM,50 M Breaststroke,SCM,M,60-64,43.46,Timothy C Miller,,2009 Albatross Open,2009,1
+GERM,100 M Breaststroke,SCM,M,60-64,1:34.77,Timothy C Miller,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,65-69,36.19,Kenneth J Wall,,2009 Albatross Open,2009,1
+GERM,50 M Freestyle,SCM,M,65-69,37.99,Roy Pinchot,,2009 Last Chance SCM Meet,2009,2
+GERM,100 M Freestyle,SCM,M,65-69,1:17.34,David L Robinson,,2009 Albatross Open,2009,1
+GERM,100 M Freestyle,SCM,M,65-69,1:20.75,Roy Pinchot,,2009 Last Chance SCM Meet,2009,2
+GERM,50 M Backstroke,SCM,M,65-69,43.77,Kenneth J Wall,,2009 Albatross Open,2009,1
+GERM,100 M Backstroke,SCM,M,65-69,1:36.94,David L Robinson,,2009 Albatross Open,2009,1
+GERM,100 M Backstroke,SCM,M,65-69,1:40.76,Kenneth J Wall,,2009 Albatross Open,2009,2
+GERM,200 M Backstroke,SCM,M,65-69,3:52.88,Kenneth J Wall,,2009 Albatross Open,2009,1
+GERM,100 M Breaststroke,SCM,M,65-69,1:49.43,David L Robinson,,2009 Albatross Open,2009,1
+GERM,100 M Breaststroke,SCM,M,65-69,1:58.29,Richard S Durham,,2009 Albatross Open,2009,2
+GERM,200 M Breaststroke,SCM,M,65-69,4:17.92,Richard S Durham,,2009 Albatross Open,2009,1
+GERM,50 M Butterfly,SCM,M,65-69,43.20,Roy Pinchot,,2009 Last Chance SCM Meet,2009,1
+GERM,100 M Individual Medley,SCM,M,65-69,1:40.06,Roy Pinchot,,2009 Last Chance SCM Meet,2009,1
+GERM,400 M Individual Medley,SCM,M,65-69,7:38.46,David L Robinson,,2009 Albatross Open,2009,1
+GMUP,50 M Backstroke,SCM,W,40-44,33.78,Barbara J Clifford-Dicks,,2009 Last Chance SCM Meet,2009,1
+GMUP,100 M Backstroke,SCM,W,40-44,1:12.61,Barbara J Clifford-Dicks,,2009 Last Chance SCM Meet,2009,1
+GMUP,50 M Freestyle,SCM,W,45-49,28.20,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,100 M Freestyle,SCM,W,45-49,1:35.53,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,50 M Backstroke,SCM,W,45-49,31.14,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,100 M Backstroke,SCM,W,45-49,1:09.58,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,50 M Breaststroke,SCM,W,45-49,37.62,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,100 M Breaststroke,SCM,W,45-49,1:33.88,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,50 M Butterfly,SCM,W,45-49,29.69,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,100 M Butterfly,SCM,W,45-49,1:09.80,Leslie C Livingston,,2009 Albatross Open,2009,1
+GMUP,100 M Individual Medley,SCM,W,45-49,1:11.56,Leslie C Livingston,,New England LMSC SCM Championships,2009,1
+GMUP,50 M Freestyle,SCM,M,35-39,25.12,Pete A von Loewe,,Colonies Zone SCM Championships,2009,1
+GMUP,100 M Freestyle,SCM,M,35-39,55.24,Pete A von Loewe,,Colonies Zone SCM Championships,2009,1
+GMUP,200 M Freestyle,SCM,M,35-39,2:05.38,Pete A von Loewe,,Colonies Zone SCM Championships,2009,1
+GMUP,200 M Backstroke,SCM,M,35-39,2:22.62,Pete A von Loewe,,Colonies Zone SCM Championships,2009,1
+GMUP,200 M Butterfly,SCM,M,35-39,2:26.18,Pete A von Loewe,,Colonies Zone SCM Championships,2009,1
+GMUP,400 M Individual Medley,SCM,M,35-39,5:11.48,Pete A von Loewe,,Colonies Zone SCM Championships,2009,1
+GMUP,400 M Freestyle,SCM,M,40-44,4:52.80,William C Sax,,VMST 29th Annual Fall Swim Meet,2009,1
+GMUP,800 M Freestyle,SCM,M,40-44,9:54.37,William C Sax,,VMST 29th Annual Fall Swim Meet,2009,1
+GMUP,1500 M Freestyle,SCM,M,40-44,19:02.01,William C Sax,,VMST 29th Annual Fall Swim Meet,2009,1
+GMUP,50 M Butterfly,SCM,M,40-44,31.59,William C Sax,,2009 Albatross Open,2009,1
+GMUP,100 M Butterfly,SCM,M,40-44,1:11.08,William C Sax,,2009 Albatross Open,2009,1
+GMUP,200 M Butterfly,SCM,M,40-44,2:39.72,William C Sax,,VMST 29th Annual Fall Swim Meet,2009,1
+GMUP,400 M Individual Medley,SCM,M,40-44,5:47.26,William C Sax,,2009 Albatross Open,2009,1
+GMUP,50 M Freestyle,SCM,M,50-54,29.22,Dan Grecco,,Southern Masters SCM Championships,2009,1
+GMUP,50 M Freestyle,SCM,M,50-54,33.21,Robert K Weidner,,2009 Albatross Open,2009,2
+GMUP,100 M Freestyle,SCM,M,50-54,1:06.68,Dan Grecco,,Southern Masters SCM Championships,2009,1
+GMUP,100 M Freestyle,SCM,M,50-54,1:15.11,Robert K Weidner,,2009 Albatross Open,2009,2
+GMUP,50 M Backstroke,SCM,M,50-54,38.48,Dan Grecco,,Southern Masters SCM Championships,2009,1
+GMUP,50 M Backstroke,SCM,M,50-54,39.21,Robert K Weidner,,2009 Albatross Open,2009,2
+GMUP,100 M Backstroke,SCM,M,50-54,1:29.94,Robert K Weidner,,2009 Albatross Open,2009,1
+GMUP,50 M Breaststroke,SCM,M,50-54,40.08,Dan Grecco,,Southern Masters SCM Championships,2009,1
+GMUP,50 M Butterfly,SCM,M,50-54,33.14,Dan Grecco,,Southern Masters SCM Championships,2009,1
+GMUP,50 M Freestyle,SCM,M,55-59,26.43,Brad Gandee,,Long Beach Grunions SPMA SCM,2009,1
+GMUP,50 M Freestyle,SCM,M,60-64,33.63,Timothy T Timmons,,2009 Last Chance SCM Meet,2009,1
+GMUP,50 M Backstroke,SCM,M,60-64,36.79,Timothy T Timmons,,2009 Albatross Open,2009,1
+GMUP,100 M Backstroke,SCM,M,60-64,1:23.69,Timothy T Timmons,,2009 Albatross Open,2009,1
+GMUP,200 M Backstroke,SCM,M,60-64,3:13.24,Timothy T Timmons,,2009 Albatross Open,2009,1
+GMUP,50 M Butterfly,SCM,M,60-64,38.52,Timothy T Timmons,,2009 Last Chance SCM Meet,2009,1
+MASH,100 M Freestyle,SCM,M,50-54,1:09.18,Cleveland L Charles,,2009 Last Chance SCM Meet,2009,1
+MASH,100 M Individual Medley,SCM,M,50-54,1:21.13,Cleveland L Charles,,2009 Last Chance SCM Meet,2009,1
+MASH,200 M Individual Medley,SCM,M,50-54,2:58.86,Cleveland L Charles,,2009 Last Chance SCM Meet,2009,1
+NCYM,50 M Freestyle,SCM,W,25-29,30.15,Kendra E Berner,,2009 Albatross Open,2009,1
+NCYM,50 M Freestyle,SCM,W,25-29,36.00,Megan E Harris,,2009 Last Chance SCM Meet,2009,2
+NCYM,100 M Freestyle,SCM,W,25-29,1:04.62,Kendra E Berner,,2009 Albatross Open,2009,1
+NCYM,200 M Freestyle,SCM,W,25-29,2:19.66,Kendra E Berner,,2009 Albatross Open,2009,1
+NCYM,50 M Breaststroke,SCM,W,25-29,45.11,Megan E Harris,,2009 Last Chance SCM Meet,2009,1
+NCYM,100 M Breaststroke,SCM,W,25-29,1:36.01,Megan E Harris,,2009 Last Chance SCM Meet,2009,1
+NCYM,100 M Individual Medley,SCM,W,25-29,1:19.48,Kendra E Berner,,2009 Albatross Open,2009,1
+NCYM,100 M Breaststroke,SCM,M,25-29,1:17.83,Travis M Rothway,,2009 Last Chance SCM Meet,2009,1
+NCYM,200 M Breaststroke,SCM,M,25-29,2:42.26,Travis M Rothway,,2009 Albatross Open,2009,1
+NCYM,100 M Individual Medley,SCM,M,25-29,1:06.68,Travis M Rothway,,2009 Albatross Open,2009,1
+NCYM,200 M Individual Medley,SCM,M,25-29,2:25.36,Travis M Rothway,,2009 Last Chance SCM Meet,2009,1
+NCYM,400 M Individual Medley,SCM,M,25-29,5:17.06,Travis M Rothway,,2009 Last Chance SCM Meet,2009,1
+NCYM,50 M Freestyle,SCM,M,30-34,25.80,Sam R Ullery,,2009 Albatross Open,2009,1
+NCYM,50 M Freestyle,SCM,M,30-34,27.63,Jeffrey A Miller,,2009 Last Chance SCM Meet,2009,2
+NCYM,100 M Freestyle,SCM,M,30-34,58.67,Sam R Ullery,,2009 Albatross Open,2009,1
+NCYM,200 M Freestyle,SCM,M,30-34,2:14.80,Sam R Ullery,,2009 Albatross Open,2009,1
+NCYM,50 M Breaststroke,SCM,M,30-34,36.22,Jeffrey A Miller,,2009 Last Chance SCM Meet,2009,1
+NCYM,50 M Butterfly,SCM,M,30-34,32.33,Jeffrey A Miller,,2009 Last Chance SCM Meet,2009,1
+NCYM,100 M Individual Medley,SCM,M,30-34,1:08.21,Sam R Ullery,,2009 Last Chance SCM Meet,2009,1
+NCYM,100 M Freestyle,SCM,M,35-39,1:11.68,Peter S Lee,,2009 Albatross Open,2009,1
+NCYM,200 M Freestyle,SCM,M,35-39,2:43.53,Peter S Lee,,2009 Albatross Open,2009,1
+NCYM,200 M Individual Medley,SCM,M,35-39,2:53.32,Peter S Lee,,2009 Albatross Open,2009,1
+RMST,100 M Breaststroke,SCM,W,18-24,1:29.09,Casey Worrall,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Butterfly,SCM,W,18-24,35.53,Casey Worrall,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Individual Medley,SCM,W,18-24,1:20.73,Casey Worrall,,2009 Last Chance SCM Meet,2009,1
+RMST,400 M Individual Medley,SCM,W,18-24,6:10.39,Casey Worrall,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Freestyle,SCM,W,25-29,29.65,Jillian C Coleman,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Freestyle,SCM,W,25-29,1:16.98,Jessica L Hancock,,2009 Albatross Open,2009,1
+RMST,50 M Backstroke,SCM,W,25-29,33.77,Jillian C Coleman,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Backstroke,SCM,W,25-29,44.08,Jessica L Hancock,,2009 Albatross Open,2009,2
+RMST,100 M Backstroke,SCM,W,25-29,1:33.69,Jessica L Hancock,,2009 Albatross Open,2009,1
+RMST,50 M Breaststroke,SCM,W,25-29,40.70,Jillian C Coleman,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Butterfly,SCM,W,25-29,30.46,Jillian C Coleman,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Individual Medley,SCM,W,25-29,1:34.01,Jessica L Hancock,,2009 Albatross Open,2009,1
+RMST,50 M Freestyle,SCM,W,30-34,28.75,Jennifer M O'Reilly,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,W,30-34,1:01.34,Jennifer M O'Reilly,,2009 Last Chance SCM Meet,2009,1
+RMST,200 M Freestyle,SCM,W,30-34,2:14.07,Jennifer M O'Reilly,,2009 Albatross Open,2009,1
+RMST,400 M Freestyle,SCM,W,30-34,4:42.39,Jennifer M O'Reilly,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Backstroke,SCM,W,30-34,1:11.11,Jennifer M O'Reilly,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Butterfly,SCM,W,30-34,1:09.64,Jennifer M O'Reilly,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Individual Medley,SCM,W,30-34,1:11.66,Jennifer M O'Reilly,,2009 Albatross Open,2009,1
+RMST,200 M Individual Medley,SCM,W,30-34,2:38.40,Jennifer M O'Reilly,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,50 M Freestyle,SCM,W,40-44,34.23,Sheryl K Katsaros,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,W,40-44,1:15.37,Sheryl K Katsaros,,2009 Albatross Open,2009,1
+RMST,100 M Backstroke,SCM,W,40-44,1:26.94,Sheryl K Katsaros,,2009 Albatross Open,2009,1
+RMST,100 M Individual Medley,SCM,W,40-44,1:27.65,Sheryl K Katsaros,,2009 Albatross Open,2009,1
+RMST,50 M Freestyle,SCM,W,45-49,33.28,Mandy Dawson,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,W,45-49,1:13.34,Mandy Dawson,,2009 Albatross Open,2009,1
+RMST,50 M Backstroke,SCM,W,45-49,36.76,Kim M Brightwell,,2009 Albatross Open,2009,1
+RMST,50 M Breaststroke,SCM,W,45-49,40.61,Kathy S Gibson,,2009 Albatross Open,2009,1
+RMST,50 M Breaststroke,SCM,W,45-49,40.88,Mandy Dawson,,2009 Albatross Open,2009,2
+RMST,100 M Breaststroke,SCM,W,45-49,1:30.35,Mandy Dawson,,2009 Albatross Open,2009,1
+RMST,50 M Butterfly,SCM,W,45-49,36.18,Kathy S Gibson,,2009 Albatross Open,2009,1
+RMST,100 M Individual Medley,SCM,W,45-49,1:22.22,Kim M Brightwell,,2009 Albatross Open,2009,1
+RMST,200 M Individual Medley,SCM,W,45-49,3:02.27,Kim M Brightwell,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,W,65-69,1:58.41,Lucy M Manheim,,2009 Albatross Open,2009,1
+RMST,50 M Backstroke,SCM,W,65-69,57.34,Lucy M Manheim,,2009 Albatross Open,2009,1
+RMST,50 M Breaststroke,SCM,W,65-69,1:10.75,Lucy M Manheim,,2009 Albatross Open,2009,1
+RMST,50 M Backstroke,SCM,M,25-29,28.27,Adam D Orton,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Backstroke,SCM,M,25-29,1:00.57,Adam D Orton,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Breaststroke,SCM,M,25-29,1:30.98,James C Goodwin,,2009 Albatross Open,2009,1
+RMST,50 M Butterfly,SCM,M,25-29,26.60,Adam D Orton,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Butterfly,SCM,M,25-29,59.99,Adam D Orton,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Butterfly,SCM,M,25-29,1:33.63,James C Goodwin,,2009 Albatross Open,2009,2
+RMST,100 M Individual Medley,SCM,M,25-29,1:24.28,James C Goodwin,,2009 Albatross Open,2009,1
+RMST,50 M Freestyle,SCM,M,35-39,29.45,John Carlson,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,M,35-39,1:05.28,John Carlson,,2009 Albatross Open,2009,1
+RMST,200 M Freestyle,SCM,M,35-39,2:26.15,John Carlson,,2009 Albatross Open,2009,1
+RMST,400 M Freestyle,SCM,M,35-39,5:21.21,John Carlson,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,800 M Freestyle,SCM,M,35-39,11:08.90,John Carlson,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,50 M Breaststroke,SCM,M,35-39,36.72,Craig M Baldwin,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Breaststroke,SCM,M,35-39,1:17.56,Craig M Baldwin,,2009 Last Chance SCM Meet,2009,1
+RMST,200 M Breaststroke,SCM,M,35-39,2:48.53,Craig M Baldwin,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Butterfly,SCM,M,35-39,31.00,John Carlson,,2009 Albatross Open,2009,1
+RMST,100 M Backstroke,SCM,M,45-49,1:17.46,Thomas B Sealey,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,200 M Backstroke,SCM,M,45-49,2:45.24,Thomas B Sealey,,2009 Albatross Open,2009,1
+RMST,100 M Butterfly,SCM,M,45-49,1:22.72,Thomas B Sealey,,2009 Albatross Open,2009,1
+RMST,200 M Butterfly,SCM,M,45-49,3:18.85,Thomas B Sealey,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,100 M Individual Medley,SCM,M,45-49,1:17.00,Thomas B Sealey,,2009 Albatross Open,2009,1
+RMST,200 M Individual Medley,SCM,M,45-49,2:54.22,Thomas B Sealey,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,400 M Individual Medley,SCM,M,45-49,6:13.84,Thomas B Sealey,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,M,50-54,1:07.88,Timothy P Dayton,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,200 M Freestyle,SCM,M,50-54,2:27.53,Timothy P Dayton,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,400 M Freestyle,SCM,M,50-54,5:10.10,Timothy P Dayton,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,100 M Backstroke,SCM,M,50-54,1:22.06,Timothy P Dayton,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,200 M Backstroke,SCM,M,50-54,2:50.49,Timothy P Dayton,,VMST 29th Annual Fall Swim Meet,2009,1
+RMST,50 M Breaststroke,SCM,M,50-54,41.41,Muraji Nakazawa,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Freestyle,SCM,M,55-59,30.99,Bob Smoot,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Freestyle,SCM,M,55-59,37.38,Michael F Boyle,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,2
+RMST,100 M Freestyle,SCM,M,55-59,1:14.57,Bob Smoot,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Freestyle,SCM,M,55-59,1:20.77,Michael F Boyle,,2009 Albatross Open,2009,2
+RMST,400 M Freestyle,SCM,M,55-59,7:13.51,Bob Smoot,,2009 Last Chance SCM Meet,2009,1
+RMST,50 M Breaststroke,SCM,M,55-59,43.73,Bob Smoot,,2009 Last Chance SCM Meet,2009,1
+RMST,100 M Breaststroke,SCM,M,55-59,1:53.52,Michael F Boyle,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+RMST,50 M Freestyle,SCM,M,65-69,37.81,Sterling S Pilette,,2009 Albatross Open,2009,1
+RMST,100 M Freestyle,SCM,M,65-69,1:31.27,Sterling S Pilette,,2009 Albatross Open,2009,1
+RMST,200 M Freestyle,SCM,M,65-69,3:27.70,Sterling S Pilette,,2009 Albatross Open,2009,1
+RMST,50 M Backstroke,SCM,M,65-69,54.47,Sterling S Pilette,,2009 Albatross Open,2009,1
+RMST,50 M Freestyle,SCM,M,70-74,38.36,Nick Nobbe,,2009 Albatross Open,2009,1
+RMST,200 M Freestyle,SCM,M,70-74,3:25.12,Nick Nobbe,,2009 Albatross Open,2009,1
+RMST,50 M Freestyle,SCM,M,75-79,39.92,Frank T Manheim,,2009 Albatross Open,2009,1
+RMST,50 M Backstroke,SCM,M,75-79,48.11,Frank T Manheim,,2009 Albatross Open,2009,1
+RMST,200 M Backstroke,SCM,M,75-79,4:02.35,Frank T Manheim,,2009 Albatross Open,2009,1
+RMST,50 M Breaststroke,SCM,M,75-79,53.13,Frank T Manheim,,2009 Albatross Open,2009,1
+TERR,50 M Freestyle,SCM,W,25-29,29.21,Mollie K Grover,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,W,25-29,1:04.89,Mollie K Grover,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+TERR,200 M Freestyle,SCM,W,25-29,2:13.45,Mollie K Grover,,2009 Last Chance SCM Meet,2009,1
+TERR,50 M Backstroke,SCM,W,25-29,33.95,Mollie K Grover,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Backstroke,SCM,W,25-29,1:10.77,Mollie K Grover,,Colonies Zone SCM Championships,2009,1
+TERR,200 M Backstroke,SCM,W,25-29,2:28.11,Mollie K Grover,,2009 Last Chance SCM Meet,2009,1
+TERR,100 M Individual Medley,SCM,W,25-29,1:11.45,Mollie K Grover,,2009 Last Chance SCM Meet,2009,1
+TERR,200 M Freestyle,SCM,W,30-34,2:29.38,Julie Roddin,,2009 Last Chance SCM Meet,2009,1
+TERR,400 M Freestyle,SCM,W,30-34,5:05.00,Julie Roddin,,2009 Last Chance SCM Meet,2009,1
+TERR,200 M Backstroke,SCM,W,30-34,2:35.24,Julie Roddin,,2009 Last Chance SCM Meet,2009,1
+TERR,400 M Individual Medley,SCM,W,30-34,6:00.13,Julie Roddin,,2009 Last Chance SCM Meet,2009,1
+TERR,50 M Freestyle,SCM,W,40-44,29.19,Gretchen F Ekstrom,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,W,40-44,1:04.81,Gretchen F Ekstrom,,Colonies Zone SCM Championships,2009,1
+TERR,200 M Freestyle,SCM,W,40-44,2:21.04,Gretchen F Ekstrom,,Colonies Zone SCM Championships,2009,1
+TERR,400 M Freestyle,SCM,W,40-44,5:08.46,Gretchen F Ekstrom,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Backstroke,SCM,W,40-44,1:16.13,Gretchen F Ekstrom,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Individual Medley,SCM,W,40-44,1:17.60,Gretchen F Ekstrom,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,W,55-59,1:23.13,Cheryl A Wagner,,2009 Albatross Open,2009,1
+TERR,50 M Freestyle,SCM,M,18-24,24.72,Yannick Van Heers,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,M,18-24,55.32,Yannick Van Heers,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Backstroke,SCM,M,18-24,28.88,Yannick Van Heers,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Butterfly,SCM,M,18-24,26.86,Yannick Van Heers,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Individual Medley,SCM,M,18-24,1:06.33,Yannick Van Heers,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,M,25-29,56.74,Edward J Edson,,2009 Albatross Open,2009,1
+TERR,100 M Freestyle,SCM,M,25-29,57.92,Jeffrey R Strahota,,2009 Last Chance SCM Meet,2009,2
+TERR,200 M Freestyle,SCM,M,25-29,2:07.33,Jeffrey R Strahota,,Colonies Zone SCM Championships,2009,1
+TERR,400 M Freestyle,SCM,M,25-29,4:29.49,Jeffrey R Strahota,,2009 Last Chance SCM Meet,2009,1
+TERR,1500 M Freestyle,SCM,M,25-29,18:21.94,Jeffrey R Strahota,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Backstroke,SCM,M,25-29,32.79,Jeffrey R Strahota,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Backstroke,SCM,M,25-29,1:06.05,Edward J Edson,,2009 Albatross Open,2009,1
+TERR,100 M Backstroke,SCM,M,25-29,1:08.20,Jeffrey R Strahota,,2009 Last Chance SCM Meet,2009,2
+TERR,200 M Backstroke,SCM,M,25-29,2:30.98,Jeffrey R Strahota,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Butterfly,SCM,M,25-29,29.34,Edward J Edson,,2009 Albatross Open,2009,1
+TERR,50 M Freestyle,SCM,M,35-39,25.14,Michael P Doane,,2009 Last Chance SCM Meet,2009,1
+TERR,100 M Freestyle,SCM,M,35-39,57.38,Michael P Doane,,2009 Albatross Open,2009,1
+TERR,50 M Breaststroke,SCM,M,35-39,31.03,Michael P Doane,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Breaststroke,SCM,M,35-39,31.47,Michael R Goodison,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,2
+TERR,100 M Breaststroke,SCM,M,35-39,1:09.52,Michael R Goodison,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,1
+TERR,100 M Breaststroke,SCM,M,35-39,1:10.77,Michael P Doane,,2009 Last Chance SCM Meet,2009,2
+TERR,200 M Breaststroke,SCM,M,35-39,2:41.49,Michael R Goodison,,2009 Albatross Open,2009,1
+TERR,50 M Butterfly,SCM,M,35-39,26.84,Michael P Doane,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Butterfly,SCM,M,35-39,27.76,Michael R Goodison,,Maryland Carol Chidester Memorial Swim Series 6 at Big Vanilla Pasadena,2009,2
+TERR,100 M Butterfly,SCM,M,35-39,1:01.55,Michael P Doane,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Butterfly,SCM,M,35-39,1:02.95,Michael R Goodison,,Colonies Zone SCM Championships,2009,2
+TERR,100 M Individual Medley,SCM,M,35-39,1:06.28,Michael R Goodison,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Freestyle,SCM,M,40-44,28.03,Andrew F Ellis,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,M,40-44,1:00.38,Andrew F Ellis,,Colonies Zone SCM Championships,2009,1
+TERR,400 M Freestyle,SCM,M,40-44,4:46.10,Andrew F Ellis,,Colonies Zone SCM Championships,2009,1
+TERR,50 M Backstroke,SCM,M,40-44,30.16,Emad H Elshafei,,2009 Albatross Open,2009,1
+TERR,100 M Backstroke,SCM,M,40-44,1:04.40,Emad H Elshafei,,2009 Albatross Open,2009,1
+TERR,100 M Butterfly,SCM,M,40-44,1:05.50,Andrew F Ellis,,Colonies Zone SCM Championships,2009,1
+TERR,200 M Individual Medley,SCM,M,40-44,2:21.42,Emad H Elshafei,,2009 Albatross Open,2009,1
+TERR,400 M Individual Medley,SCM,M,40-44,5:11.96,Emad H Elshafei,,2009 Albatross Open,2009,1
+TERR,400 M Individual Medley,SCM,M,40-44,5:31.26,Andrew F Ellis,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,2
+TERR,50 M Freestyle,SCM,M,45-49,27.61,Bill M Shipp,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,M,45-49,1:00.09,Bill M Shipp,,Colonies Zone SCM Championships,2009,1
+TERR,200 M Freestyle,SCM,M,45-49,2:12.72,Bill M Shipp,,Colonies Zone SCM Championships,2009,1
+TERR,400 M Freestyle,SCM,M,45-49,4:43.17,Bill M Shipp,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Individual Medley,SCM,M,45-49,1:11.92,Bill M Shipp,,Colonies Zone SCM Championships,2009,1
+TERR,400 M Individual Medley,SCM,M,45-49,5:36.86,Bill M Shipp,,Colonies Zone SCM Championships,2009,1
+TERR,100 M Freestyle,SCM,M,55-59,1:07.39,Charles L Hoffman,,2009 Albatross Open,2009,1
+TERR,50 M Breaststroke,SCM,M,55-59,38.06,Charles L Hoffman,,2009 Albatross Open,2009,1
+TERR,50 M Butterfly,SCM,M,55-59,32.55,Charles L Hoffman,,2009 Albatross Open,2009,1
+TRIN,100 M Freestyle,SCM,M,30-34,1:09.17,James Tramel,,2009 Last Chance SCM Meet,2009,1
+TRIN,400 M Freestyle,SCM,M,30-34,5:43.49,James Tramel,,2009 Last Chance SCM Meet,2009,1
+TRIN,50 M Butterfly,SCM,M,30-34,33.07,James Tramel,,2009 Last Chance SCM Meet,2009,1
+TRIN,100 M Individual Medley,SCM,M,30-34,1:24.07,James Tramel,,2009 Last Chance SCM Meet,2009,1
+UNAT,400 M Freestyle,SCM,W,25-29,5:41.18,Victoria K Anderson,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Backstroke,SCM,W,25-29,1:24.60,Victoria K Anderson,,2009 Last Chance SCM Meet,2009,1
+UNAT,200 M Butterfly,SCM,W,25-29,3:09.33,Victoria K Anderson,,2009 Last Chance SCM Meet,2009,1
+UNAT,200 M Individual Medley,SCM,W,25-29,2:57.76,Victoria K Anderson,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Freestyle,SCM,W,30-34,1:05.10,Chio E Hatakeyama,,2009 Albatross Open,2009,1
+UNAT,100 M Freestyle,SCM,W,30-34,1:10.99,Nicole Hauser,,2009 Last Chance SCM Meet,2009,2
+UNAT,200 M Freestyle,SCM,W,30-34,2:28.56,Nicole Hauser,,2009 Albatross Open,2009,1
+UNAT,400 M Freestyle,SCM,W,30-34,5:15.44,Nicole Hauser,,2009 Last Chance SCM Meet,2009,1
+UNAT,400 M Freestyle,SCM,W,30-34,6:06.55,Ruth L Jacobsen,,2009 Last Chance SCM Meet,2009,2
+UNAT,200 M Backstroke,SCM,W,30-34,2:51.21,Nicole Hauser,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,W,30-34,37.11,Chio E Hatakeyama,,2009 Albatross Open,2009,1
+UNAT,100 M Breaststroke,SCM,W,30-34,1:33.09,Kelly A Riedinger,,2009 Albatross Open,2009,1
+UNAT,200 M Breaststroke,SCM,W,30-34,3:21.55,Kelly A Riedinger,,2009 Albatross Open,2009,1
+UNAT,100 M Butterfly,SCM,W,30-34,1:28.09,Kelly A Riedinger,,2009 Albatross Open,2009,1
+UNAT,100 M Individual Medley,SCM,W,30-34,1:13.13,Chio E Hatakeyama,,2009 Albatross Open,2009,1
+UNAT,200 M Individual Medley,SCM,W,30-34,3:13.08,Ruth L Jacobsen,,2009 Last Chance SCM Meet,2009,1
+UNAT,400 M Individual Medley,SCM,W,30-34,6:45.56,Kelly A Riedinger,,2009 Albatross Open,2009,1
+UNAT,400 M Individual Medley,SCM,W,30-34,6:50.54,Ruth L Jacobsen,,2009 Last Chance SCM Meet,2009,2
+UNAT,100 M Freestyle,SCM,W,35-39,1:33.75,Deanne R Marino,,2009 Albatross Open,2009,1
+UNAT,200 M Backstroke,SCM,W,35-39,4:12.83,Deanne R Marino,,2009 Albatross Open,2009,1
+UNAT,50 M Butterfly,SCM,W,35-39,53.38,Deanne R Marino,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,W,40-44,1:07.38,Hagit Shatkay,,2009 Albatross Open,2009,1
+UNAT,100 M Breaststroke,SCM,W,40-44,1:35.32,Anne Colevas,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Individual Medley,SCM,W,40-44,1:27.88,Anne Colevas,,2009 Last Chance SCM Meet,2009,1
+UNAT,200 M Individual Medley,SCM,W,40-44,3:17.33,Anne Colevas,,2009 Last Chance SCM Meet,2009,1
+UNAT,50 M Freestyle,SCM,W,45-49,39.42,Catherine L Snyder-Charlip,,2009 Albatross Open,2009,1
+UNAT,50 M Freestyle,SCM,W,45-49,42.44,Susan W Beach,,2009 Albatross Open,2009,2
+UNAT,100 M Freestyle,SCM,W,45-49,1:28.31,Catherine L Snyder-Charlip,,2009 Albatross Open,2009,1
+UNAT,100 M Freestyle,SCM,W,45-49,1:38.52,Susan W Beach,,2009 Albatross Open,2009,2
+UNAT,100 M Backstroke,SCM,W,45-49,1:42.32,Catherine L Snyder-Charlip,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,W,45-49,49.94,Susan W Beach,,2009 Albatross Open,2009,1
+UNAT,100 M Breaststroke,SCM,W,45-49,1:55.44,Susan W Beach,,2009 Albatross Open,2009,1
+UNAT,50 M Butterfly,SCM,W,45-49,46.08,Catherine L Snyder-Charlip,,2009 Albatross Open,2009,1
+UNAT,50 M Freestyle,SCM,W,50-54,44.72,Daphne P Geanacopoulos,,2009 Albatross Open,2009,1
+UNAT,100 M Freestyle,SCM,W,50-54,1:40.66,Daphne P Geanacopoulos,,2009 Albatross Open,2009,1
+UNAT,200 M Freestyle,SCM,W,50-54,3:48.97,Daphne P Geanacopoulos,,2009 Albatross Open,2009,1
+UNAT,50 M Freestyle,SCM,M,25-29,26.64,Jeff C Brown,,2009 Albatross Open,2009,1
+UNAT,100 M Freestyle,SCM,M,25-29,1:00.80,Jeff C Brown,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,M,25-29,31.68,EJ Amyot,,2009 Albatross Open,2009,1
+UNAT,50 M Butterfly,SCM,M,25-29,29.76,Jeff C Brown,,2009 Albatross Open,2009,1
+UNAT,100 M Freestyle,SCM,M,30-34,58.19,Javad Shockri,,2009 Albatross Open,2009,1
+UNAT,200 M Freestyle,SCM,M,30-34,2:10.88,Javad Shockri,,2009 Albatross Open,2009,1
+UNAT,50 M Freestyle,SCM,M,40-44,29.77,Matt Rees,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Freestyle,SCM,M,40-44,1:06.03,Matt Rees,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Freestyle,SCM,M,40-44,1:06.26,Jonathan Salkoff,,2009 Last Chance SCM Meet,2009,2
+UNAT,100 M Freestyle,SCM,M,40-44,1:14.17,Brian T Egan,,2009 Albatross Open,2009,3
+UNAT,50 M Butterfly,SCM,M,40-44,32.06,Matt Rees,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Individual Medley,SCM,M,40-44,1:20.10,Matt Rees,,2009 Last Chance SCM Meet,2009,1
+UNAT,50 M Freestyle,SCM,M,45-49,29.30,Matthew W Fetters,,2009 Albatross Open,2009,1
+UNAT,100 M Freestyle,SCM,M,45-49,1:18.72,Mark Grannis,,2009 Albatross Open,2009,1
+UNAT,50 M Backstroke,SCM,M,45-49,37.18,Matthew W Fetters,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,M,45-49,39.39,Matthew W Fetters,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,M,45-49,39.67,Mark Grannis,,2009 Albatross Open,2009,2
+UNAT,100 M Breaststroke,SCM,M,45-49,1:26.42,Mark Grannis,,2009 Albatross Open,2009,1
+UNAT,200 M Breaststroke,SCM,M,45-49,3:13.28,Mark Grannis,,2009 Albatross Open,2009,1
+UNAT,50 M Butterfly,SCM,M,45-49,31.53,Matthew W Fetters,,2009 Albatross Open,2009,1
+UNAT,50 M Freestyle,SCM,M,55-59,29.89,Paul A Fetters,,2009 Albatross Open,2009,1
+UNAT,50 M Backstroke,SCM,M,55-59,33.89,Paul A Fetters,,2009 Albatross Open,2009,1
+UNAT,50 M Breaststroke,SCM,M,55-59,38.85,Paul A Fetters,,2009 Albatross Open,2009,1
+UNAT,50 M Butterfly,SCM,M,55-59,32.57,Paul A Fetters,,2009 Albatross Open,2009,1
+UNAT,400 M Freestyle,SCM,M,65-69,6:32.74,Howard Rolston,,2009 Last Chance SCM Meet,2009,1
+UNAT,50 M Breaststroke,SCM,M,65-69,47.05,Peter A Garfield,,2009 Last Chance SCM Meet,2009,1
+UNAT,100 M Breaststroke,SCM,M,65-69,1:35.21,William L Chadsey,,2009 Albatross Open,2009,1
+UNAT,200 M Breaststroke,SCM,M,65-69,3:25.75,William L Chadsey,,2009 Albatross Open,2009,1
+UNAT,50 M Butterfly,SCM,M,65-69,37.05,Howard Rolston,,2009 Last Chance SCM Meet,2009,1
