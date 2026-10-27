@@ -101,21 +101,15 @@ Verified against the Cloudflare edge (local resolver caches lag for up to the ol
 - Sheet-driven content (alert banner, schedule, events) was verified on the same build at
   `columbia-masters.pages.dev` in step 3.
 
-### 7. Decommission GitHub Pages (only after you're confident) — TODO
-- Give it a day or two of confidence on Cloudflare first. GitHub Pages still serving is
-  harmless (and is what stale DNS caches hit during propagation).
-- Then disable the Pages deploy so the two don't compete: either turn off GitHub Pages
-  in repo Settings, or remove/disable `.github/workflows/deploy.yml`.
-- Keep it disabled rather than deleted for a while, in case of rollback.
+### 7. Decommission GitHub Pages — DONE 2026-10-27
+- Removed `.github/workflows/deploy.yml` and `web/CNAME`, and disabled GitHub Pages in the
+  repo. The repo homepage points at https://www.columbiamastersswim.org/.
 
 ## Rollback
-If the live site misbehaves after cutover, restore the DNS records you saved in step 1
-(point `www` and apex back to GitHub Pages). GitHub Pages still has the last good build,
-so traffic returns to the previous host as DNS propagates.
+GitHub Pages is decommissioned (step 7), so DNS rollback to it no longer works. To roll back
+a bad deploy, use Cloudflare Pages: Deployments → pick the last good build → Rollback.
 
 ## Notes
-- `web/CNAME` is a GitHub Pages mechanism and is ignored by Cloudflare. It's harmless to leave;
-  remove it later if you want to avoid confusion.
 - The site's pages are real static paths (not client-side SPA routes), so no SPA fallback config
   is needed. If we later add client-side routing, add a Cloudflare `_redirects` rule to serve
   `index.html` for unknown paths.
