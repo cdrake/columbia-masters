@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "role": "Chair",
+    "name": "Nicole Smith"
+  },
+  {
+    "role": "Secretary",
+    "name": "Karen Fitch"
+  },
+  {
+    "role": "Vice Chair & Registrar",
+    "name": "Leslie Scott"
+  },
+  {
+    "role": "Treasurer & Open Water",
+    "name": "Stephanie Waninger"
+  },
+  {
+    "role": "Records, Sanctions & Top Ten",
+    "name": "Carolyn Moore"
+  },
+  {
+    "role": "Coaches",
+    "name": "Billy Buck"
+  },
+  {
+    "role": "Officials",
+    "name": "Jeff Steele"
+  },
+  {
+    "role": "Webmaster & Social Media",
+    "name": "Tyler Sites"
+  }
+]

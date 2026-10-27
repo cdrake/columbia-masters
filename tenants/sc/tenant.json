@@ -21,12 +21,13 @@
   ],
   "documents": [],
   "sheet": {
-    "publishedId": "PENDING",
+    "publishedId": "2PACX-1vSv3TtGdoKbVo26jXGp3vECF0GK6t1C8jht68HD-NqcvpiL6vERIpH3r6NpWPlsCPq6aycgRobf1t1T",
     "gids": {
-      "events": 0,
-      "schedule": 0,
-      "board": 0,
-      "content": 0
+      "events": 1573603180,
+      "schedule": 1599164011,
+      "board": 970679582,
+      "content": 1535471218,
+      "faq": 1961477820
     }
   },
   "records": {
@@ -71,17 +72,17 @@
     },
     {
       "code": "SMRT",
-      "name": "SMRT",
+      "name": "Southern Marlins Racing Team",
       "note": "Site coming soon"
     },
     {
       "code": "UP",
-      "name": "UP",
+      "name": "USC Upstate Spartan Rec",
       "note": "Site coming soon"
     },
     {
       "code": "SCC",
-      "name": "South Carolina State Team",
+      "name": "South Carolina Current",
       "note": "Combined team for USMS Nationals"
     }
   ]

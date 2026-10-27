@@ -13,11 +13,19 @@
       "type": "section"
     },
     {
+      "id": "events",
+      "type": "section"
+    },
+    {
       "id": "clubs",
       "type": "section"
     },
     {
       "id": "records",
+      "type": "section"
+    },
+    {
+      "id": "board",
       "type": "section"
     }
   ]
