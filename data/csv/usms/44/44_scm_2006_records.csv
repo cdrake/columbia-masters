@@ -1,0 +1,692 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CARL,50 M Backstroke,SCM,W,40-44,43.74,Therese M O'Rourke,,SPMA SCM Champs,2006,1
+CARL,100 M Backstroke,SCM,W,40-44,1:34.35,Therese M O'Rourke,,UCLA Bruin Masters SCM,2006,1
+CARL,50 M Breaststroke,SCM,W,40-44,43.54,Therese M O'Rourke,,UCLA Bruin Masters SCM,2006,1
+CARL,100 M Breaststroke,SCM,W,40-44,1:35.23,Therese M O'Rourke,,UCLA Bruin Masters SCM,2006,1
+CARL,200 M Breaststroke,SCM,W,40-44,3:32.92,Therese M O'Rourke,,SPMA SCM Champs,2006,1
+CARL,50 M Butterfly,SCM,W,40-44,40.44,Therese M O'Rourke,,SPMA SCM Champs,2006,1
+CARL,100 M Individual Medley,SCM,W,40-44,1:29.73,Therese M O'Rourke,,SPMA SCM Champs,2006,1
+CARL,200 M Individual Medley,SCM,W,40-44,3:15.57,Therese M O'Rourke,,SPMA SCM Champs,2006,1
+CARL,50 M Freestyle,SCM,W,55-59,37.87,Deborah Raboin,,SPMA SCM Champs,2006,1
+CARL,100 M Freestyle,SCM,W,55-59,1:25.39,Deborah Raboin,,SPMA SCM Champs,2006,1
+CARL,200 M Freestyle,SCM,W,55-59,3:23.36,Deborah Raboin,,SPMA SCM Champs,2006,1
+CARL,400 M Freestyle,SCM,W,55-59,7:11.16,Deborah Raboin,,SPMA SCM Champs,2006,1
+CARL,50 M Breaststroke,SCM,W,55-59,48.67,Deborah Raboin,,UCLA Bruin Masters SCM,2006,1
+CARL,100 M Backstroke,SCM,M,45-49,1:06.92,Vincent D Morales,,SPMA SCM Champs,2006,1
+CARL,50 M Butterfly,SCM,M,45-49,29.31,Vincent D Morales,,SPMA SCM Champs,2006,1
+HSAM,200 M Freestyle,SCM,W,18-24,2:33.34,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,400 M Freestyle,SCM,W,18-24,5:21.46,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,400 M Freestyle,SCM,W,18-24,5:38.58,Elspeth J Corduah,,SPMA SCM Champs,2006,2
+HSAM,100 M Backstroke,SCM,W,18-24,1:17.56,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,100 M Backstroke,SCM,W,18-24,1:21.21,Amanda E Zabrowski,,HSAM SCM at El Cajon Valley HS,2006,2
+HSAM,200 M Backstroke,SCM,W,18-24,2:45.99,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,100 M Butterfly,SCM,W,18-24,1:24.46,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,100 M Individual Medley,SCM,W,18-24,1:22.43,Amanda E Zabrowski,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Individual Medley,SCM,W,18-24,1:29.91,Elspeth J Corduah,,SPMA SCM Champs,2006,2
+HSAM,200 M Individual Medley,SCM,W,18-24,2:52.20,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,400 M Individual Medley,SCM,W,18-24,6:10.44,Emily A Nicholson,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,W,25-29,36.51,Christine M Spicer,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,800 M Freestyle,SCM,W,25-29,11:42.05,Christine M Spicer,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Backstroke,SCM,W,25-29,1:32.77,Christine M Spicer,,SPMA SCM Champs,2006,1
+HSAM,100 M Breaststroke,SCM,W,25-29,1:38.27,Christine M Spicer,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,800 M Freestyle,SCM,W,35-39,11:30.04,Nancy A North,,SPMA SCM Champs,2006,1
+HSAM,1500 M Freestyle,SCM,W,35-39,21:20.57,Nancy A North,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,W,40-44,30.20,Surrena Lovell,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Freestyle,SCM,W,40-44,1:06.61,Surrena Lovell,,SPMA SCM Champs,2006,1
+HSAM,200 M Freestyle,SCM,W,40-44,2:25.44,Surrena Lovell,,SPMA SCM Champs,2006,1
+HSAM,800 M Freestyle,SCM,W,40-44,12:22.08,Rebecca M Jackman,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Breaststroke,SCM,W,40-44,3:16.90,Surrena Lovell,,SPMA SCM Champs,2006,1
+HSAM,100 M Butterfly,SCM,W,40-44,1:19.57,Surrena Lovell,,SPMA SCM Champs,2006,1
+HSAM,200 M Butterfly,SCM,W,40-44,3:02.49,Surrena Lovell,,SPMA SCM Champs,2006,1
+HSAM,100 M Individual Medley,SCM,W,40-44,1:20.58,Surrena Lovell,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Individual Medley,SCM,W,40-44,2:49.06,Surrena Lovell,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,W,45-49,37.09,Judy L Seid,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,W,45-49,1:25.51,Judy L Seid,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Freestyle,SCM,W,45-49,2:24.14,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,400 M Freestyle,SCM,W,45-49,5:02.12,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,400 M Freestyle,SCM,W,45-49,6:45.36,Judy L Seid,,SPMA SCM Champs,2006,2
+HSAM,800 M Freestyle,SCM,W,45-49,10:20.66,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,100 M Backstroke,SCM,W,45-49,1:21.40,Patty M Starks,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Breaststroke,SCM,W,45-49,43.08,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,50 M Breaststroke,SCM,W,45-49,46.34,Judy L Seid,,SPMA SCM Champs,2006,2
+HSAM,50 M Butterfly,SCM,W,45-49,35.21,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,100 M Butterfly,SCM,W,45-49,1:16.56,Patty M Starks,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Butterfly,SCM,W,45-49,2:58.76,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,200 M Individual Medley,SCM,W,45-49,2:54.10,Robin L Sherg,,SPMA SCM Champs,2006,1
+HSAM,200 M Individual Medley,SCM,W,45-49,3:44.30,Judy L Seid,,SPMA SCM Champs,2006,2
+HSAM,50 M Freestyle,SCM,W,50-54,49.36,Betty W Courtney,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,W,50-54,1:34.98,Patricia S Emerich,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,W,50-54,2:02.05,Betty W Courtney,,SPMA SCM Champs,2006,2
+HSAM,200 M Freestyle,SCM,W,50-54,3:12.11,Patricia S Emerich,,SPMA SCM Champs,2006,1
+HSAM,400 M Freestyle,SCM,W,50-54,7:02.06,Patricia S Emerich,,SPMA SCM Champs,2006,1
+HSAM,800 M Freestyle,SCM,W,50-54,21:56.46,Rosalind C Haselbeck,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,1500 M Freestyle,SCM,W,50-54,27:40.41,Patricia S Emerich,,SPMA SCM Champs,2006,1
+HSAM,50 M Backstroke,SCM,W,50-54,55.10,Betty W Courtney,,SPMA SCM Champs,2006,1
+HSAM,100 M Backstroke,SCM,W,50-54,1:47.48,Patricia S Emerich,,SPMA SCM Champs,2006,1
+HSAM,100 M Backstroke,SCM,W,50-54,2:07.36,Betty W Courtney,,SPMA SCM Champs,2006,2
+HSAM,50 M Breaststroke,SCM,W,50-54,56.33,Patricia S Emerich,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,W,60-64,42.57,Diane Flaherty,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,W,60-64,1:37.25,Diane Flaherty,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Freestyle,SCM,W,60-64,3:41.25,Diane Flaherty,,SPMA SCM Champs,2006,1
+HSAM,50 M Breaststroke,SCM,W,60-64,55.27,Diane Flaherty,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Breaststroke,SCM,W,60-64,1:58.80,Diane Flaherty,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Freestyle,SCM,W,65-69,3:36.44,Marlee R Valderhaug,,SPMA SCM Champs,2006,1
+HSAM,800 M Freestyle,SCM,W,65-69,15:04.78,Marilyn A Ramey,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,800 M Freestyle,SCM,W,65-69,15:27.65,Marlee R Valderhaug,,SPMA SCM Champs,2006,2
+HSAM,1500 M Freestyle,SCM,W,65-69,29:14.98,Marlee R Valderhaug,,SPMA SCM Champs,2006,1
+HSAM,100 M Backstroke,SCM,W,65-69,1:55.29,Marilyn A Ramey,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Breaststroke,SCM,W,65-69,55.78,Marilyn A Ramey,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Breaststroke,SCM,W,65-69,2:01.26,Marilyn A Ramey,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Individual Medley,SCM,W,65-69,1:51.24,Marilyn A Ramey,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Freestyle,SCM,W,70-74,2:11.22,Bernie Pollett,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Freestyle,SCM,W,70-74,2:39.50,Trish A Hunter,,HSAM SCM at El Cajon Valley HS,2006,2
+HSAM,50 M Breaststroke,SCM,W,70-74,1:04.59,Bernie Pollett,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Individual Medley,SCM,W,70-74,3:16.69,Trish A Hunter,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Freestyle,SCM,W,75-79,58.31,Nancy L Reed,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,W,75-79,2:10.39,Nancy L Reed,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Freestyle,SCM,W,75-79,4:39.38,Nancy L Reed,,SPMA SCM Champs,2006,1
+HSAM,400 M Freestyle,SCM,W,75-79,10:01.88,Nancy L Reed,,SPMA SCM Champs,2006,1
+HSAM,800 M Freestyle,SCM,W,75-79,19:11.39,Nancy L Reed,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Backstroke,SCM,W,75-79,1:14.93,Nancy L Reed,,SPMA SCM Champs,2006,1
+HSAM,100 M Backstroke,SCM,W,75-79,2:39.68,Nancy L Reed,,SPMA SCM Champs,2006,1
+HSAM,100 M Breaststroke,SCM,M,25-29,1:29.37,Bryon E Spicer,,SPMA SCM Champs,2006,1
+HSAM,200 M Butterfly,SCM,M,25-29,3:12.34,Bryon E Spicer,,SPMA SCM Champs,2006,1
+HSAM,200 M Individual Medley,SCM,M,25-29,2:58.33,Bryon E Spicer,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,M,30-34,28.54,Dolan S Mayeda,,SPMA SCM Champs,2006,1
+HSAM,50 M Butterfly,SCM,M,30-34,31.33,Dolan S Mayeda,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,M,40-44,30.61,Patrick M Greeson,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Freestyle,SCM,M,40-44,34.05,Sean P Purcell,,SPMA SCM Champs,2006,2
+HSAM,100 M Freestyle,SCM,M,40-44,1:05.75,Patrick M Greeson,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,M,40-44,1:14.73,Sean P Purcell,,HSAM SCM at El Cajon Valley HS,2006,2
+HSAM,200 M Freestyle,SCM,M,40-44,2:52.53,Sean P Purcell,,SPMA SCM Champs,2006,1
+HSAM,800 M Freestyle,SCM,M,40-44,12:37.63,Sean P Purcell,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Butterfly,SCM,M,40-44,34.21,Patrick M Greeson,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Butterfly,SCM,M,40-44,1:19.64,Patrick M Greeson,,SPMA SCM Champs,2006,1
+HSAM,100 M Individual Medley,SCM,M,40-44,1:22.53,Patrick M Greeson,,SPMA SCM Champs,2006,1
+HSAM,200 M Freestyle,SCM,M,45-49,2:23.79,Ron P Schafer,,SPMA SCM Champs,2006,1
+HSAM,50 M Breaststroke,SCM,M,45-49,33.64,Ron P Schafer,,SPMA SCM Champs,2006,1
+HSAM,100 M Breaststroke,SCM,M,45-49,1:13.33,Ron P Schafer,,SPMA SCM Champs,2006,1
+HSAM,200 M Breaststroke,SCM,M,45-49,2:39.72,Ron P Schafer,,SPMA SCM Champs,2006,1
+HSAM,100 M Individual Medley,SCM,M,45-49,1:17.65,Ron P Schafer,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Individual Medley,SCM,M,45-49,2:45.65,Ron P Schafer,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Freestyle,SCM,M,50-54,32.89,Al F Graham,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,M,50-54,1:00.50,Lee E Mench,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,200 M Freestyle,SCM,M,50-54,3:07.15,Al F Graham,,SPMA SCM Champs,2006,1
+HSAM,800 M Freestyle,SCM,M,50-54,10:12.99,Lee E Mench,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,800 M Freestyle,SCM,M,50-54,13:49.84,Al F Graham,,HSAM SCM at El Cajon Valley HS,2006,2
+HSAM,100 M Backstroke,SCM,M,50-54,1:33.66,Moze A Mossay,,SPMA SCM Champs,2006,1
+HSAM,50 M Breaststroke,SCM,M,50-54,40.96,Moze A Mossay,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Breaststroke,SCM,M,50-54,44.44,Al F Graham,,HSAM SCM at El Cajon Valley HS,2006,2
+HSAM,100 M Breaststroke,SCM,M,50-54,1:31.98,Moze A Mossay,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Breaststroke,SCM,M,50-54,1:41.72,Al F Graham,,SPMA SCM Champs,2006,2
+HSAM,100 M Individual Medley,SCM,M,50-54,1:30.19,Moze A Mossay,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,50 M Freestyle,SCM,M,55-59,34.69,Bruce Menzies,,SPMA SCM Champs,2006,1
+HSAM,100 M Freestyle,SCM,M,55-59,1:17.99,Bruce Menzies,,SPMA SCM Champs,2006,1
+HSAM,200 M Freestyle,SCM,M,55-59,2:55.11,Bruce Menzies,,SPMA SCM Champs,2006,1
+HSAM,50 M Freestyle,SCM,M,60-64,46.09,Paul M Nagel,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Freestyle,SCM,M,60-64,1:50.53,Paul M Nagel,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,800 M Freestyle,SCM,M,60-64,11:33.31,Douglas W Selby,,SPMA SCM Champs,2006,1
+HSAM,1500 M Freestyle,SCM,M,60-64,21:51.86,Douglas W Selby,,SPMA SCM Champs,2006,1
+HSAM,50 M Backstroke,SCM,M,60-64,44.55,David E Szuch,,HSAM SCM at El Cajon Valley HS,2006,1
+HSAM,100 M Backstroke,SCM,M,60-64,1:34.51,David E Szuch,,SPMA SCM Champs,2006,1
+HSAM,200 M Backstroke,SCM,M,60-64,3:21.14,David E Szuch,,SPMA SCM Champs,2006,1
+HSAM,50 M Butterfly,SCM,M,60-64,39.89,David E Szuch,,SPMA SCM Champs,2006,1
+HSAM,100 M Individual Medley,SCM,M,60-64,1:31.51,David E Szuch,,SPMA SCM Champs,2006,1
+HSAM,200 M Individual Medley,SCM,M,60-64,3:17.26,David E Szuch,,SPMA SCM Champs,2006,1
+LMM,100 M Freestyle,SCM,W,40-44,1:08.52,Joanne J Steinauer,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Backstroke,SCM,W,40-44,1:21.12,Joanne J Steinauer,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Butterfly,SCM,W,40-44,1:13.99,Joanne J Steinauer,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Individual Medley,SCM,W,40-44,1:18.97,Joanne J Steinauer,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Freestyle,SCM,W,75-79,2:40.70,Ann J Martin,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,800 M Freestyle,SCM,W,75-79,23:03.26,Ann J Martin,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,50 M Backstroke,SCM,W,75-79,1:33.12,Ann J Martin,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Backstroke,SCM,W,75-79,3:19.54,Ann J Martin,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Breaststroke,SCM,W,75-79,3:45.49,Ann J Martin,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Freestyle,SCM,M,45-49,1:08.30,George W Burtless,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,50 M Breaststroke,SCM,M,45-49,37.49,George W Burtless,,HSAM SCM at El Cajon Valley HS,2006,1
+LMM,100 M Individual Medley,SCM,M,45-49,1:17.38,George W Burtless,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Freestyle,SCM,W,25-29,30.86,Heather M DeFelice,,SPMA SCM Champs,2006,1
+SDSM,100 M Freestyle,SCM,W,25-29,1:06.10,Heather M DeFelice,,SPMA SCM Champs,2006,1
+SDSM,50 M Backstroke,SCM,W,25-29,34.02,Heather M DeFelice,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,W,25-29,36.85,Heather M DeFelice,,SPMA SCM Champs,2006,1
+SDSM,100 M Breaststroke,SCM,W,25-29,1:21.52,Heather M DeFelice,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,W,25-29,1:14.24,Heather M DeFelice,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,W,30-34,34.33,Sinthya Carranza,,Gay Games at Chicago,2006,1
+SDSM,100 M Freestyle,SCM,W,30-34,1:10.23,Tabitha S Frawley,,Mission Viejo SCM,2006,1
+SDSM,100 M Freestyle,SCM,W,30-34,1:17.61,Sinthya Carranza,,Gay Games at Chicago,2006,2
+SDSM,400 M Freestyle,SCM,W,30-34,5:28.26,Wendy A Kellner,,Gay Games at Chicago,2006,1
+SDSM,50 M Backstroke,SCM,W,30-34,38.56,Wendy A Kellner,,Gay Games at Chicago,2006,1
+SDSM,100 M Backstroke,SCM,W,30-34,1:23.81,Wendy A Kellner,,Gay Games at Chicago,2006,1
+SDSM,100 M Backstroke,SCM,W,30-34,1:30.22,Sinthya Carranza,,Gay Games at Chicago,2006,2
+SDSM,50 M Breaststroke,SCM,W,30-34,40.78,Christina M Mc Call,,Gay Games at Chicago,2006,1
+SDSM,100 M Breaststroke,SCM,W,30-34,1:24.50,Tabitha S Frawley,,SPMA SCM Champs,2006,1
+SDSM,200 M Breaststroke,SCM,W,30-34,2:57.10,Tabitha S Frawley,,SPMA SCM Champs,2006,1
+SDSM,200 M Breaststroke,SCM,W,30-34,3:19.71,Wendy A Kellner,,Gay Games at Chicago,2006,2
+SDSM,50 M Butterfly,SCM,W,30-34,39.26,Sinthya Carranza,,Gay Games at Chicago,2006,1
+SDSM,100 M Butterfly,SCM,W,30-34,1:16.72,Tabitha S Frawley,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,W,30-34,1:20.33,Wendy A Kellner,,Gay Games at Chicago,2006,1
+SDSM,200 M Individual Medley,SCM,W,30-34,2:41.79,Tabitha S Frawley,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,W,35-39,46.61,Mandy L Sapsford,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,W,40-44,27.68,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,W,40-44,31.47,Linda K Rudolf,,SPMA SCM Champs,2006,2
+SDSM,100 M Freestyle,SCM,W,40-44,59.02,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,100 M Freestyle,SCM,W,40-44,1:09.99,Linda K Rudolf,,SPMA SCM Champs,2006,2
+SDSM,100 M Freestyle,SCM,W,40-44,1:33.88,Kim E Theriault,,Gay Games at Chicago,2006,3
+SDSM,200 M Freestyle,SCM,W,40-44,2:08.08,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,W,40-44,2:33.49,Linda K Rudolf,,SPMA SCM Champs,2006,2
+SDSM,400 M Freestyle,SCM,W,40-44,4:27.34,Karlyn Pipes-Neilsen,,Gay Games at Chicago,2006,1
+SDSM,800 M Freestyle,SCM,W,40-44,10:49.13,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,800 M Freestyle,SCM,W,40-44,15:43.09,Kim E Theriault,,Gay Games at Chicago,2006,2
+SDSM,1500 M Freestyle,SCM,W,40-44,17:50.15,Karlyn Pipes-Neilsen,,Gay Games at Chicago,2006,1
+SDSM,50 M Backstroke,SCM,W,40-44,31.88,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,50 M Backstroke,SCM,W,40-44,35.79,Linda K Rudolf,,SPMA SCM Champs,2006,2
+SDSM,100 M Backstroke,SCM,W,40-44,1:18.96,Linda K Rudolf,,SPMA SCM Champs,2006,1
+SDSM,100 M Backstroke,SCM,W,40-44,1:27.03,Annette M Bernier,,Gay Games at Chicago,2006,2
+SDSM,200 M Backstroke,SCM,W,40-44,2:22.52,Karlyn Pipes-Neilsen,,Gay Games at Chicago,2006,1
+SDSM,200 M Backstroke,SCM,W,40-44,2:49.65,Linda K Rudolf,,SPMA SCM Champs,2006,2
+SDSM,50 M Breaststroke,SCM,W,40-44,52.24,Eurika Otto,,Gay Games at Chicago,2006,1
+SDSM,50 M Breaststroke,SCM,W,40-44,52.57,Maureen K Fitzgerald,,Gay Games at Chicago,2006,2
+SDSM,100 M Butterfly,SCM,W,40-44,1:05.46,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,100 M Butterfly,SCM,W,40-44,1:27.36,Annette M Bernier,,Gay Games at Chicago,2006,2
+SDSM,200 M Butterfly,SCM,W,40-44,3:21.58,Annette M Bernier,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,W,40-44,1:06.49,Karlyn Pipes-Neilsen,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,W,40-44,1:25.98,Annette M Bernier,,Gay Games at Chicago,2006,2
+SDSM,200 M Individual Medley,SCM,W,40-44,2:24.21,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2006,1
+SDSM,200 M Individual Medley,SCM,W,40-44,3:06.35,Annette M Bernier,,Gay Games at Chicago,2006,2
+SDSM,400 M Individual Medley,SCM,W,40-44,5:07.16,Karlyn Pipes-Neilsen,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,W,45-49,35.51,Lauri J Stock,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,W,45-49,36.72,Karen D Poirier,,Gay Games at Chicago,2006,2
+SDSM,50 M Freestyle,SCM,W,45-49,52.68,Rosa Cardenas,,Gay Games at Chicago,2006,3
+SDSM,100 M Freestyle,SCM,W,45-49,1:15.17,Nancy Kemper,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Freestyle,SCM,W,45-49,1:20.64,Lauri J Stock,,Gay Games at Chicago,2006,2
+SDSM,100 M Freestyle,SCM,W,45-49,1:26.65,Karen D Poirier,,Gay Games at Chicago,2006,3
+SDSM,100 M Freestyle,SCM,W,45-49,2:03.42,Rosa Cardenas,,Gay Games at Chicago,2006,4
+SDSM,200 M Freestyle,SCM,W,45-49,2:41.48,Lisa J Leonard,,Gay Games at Chicago,2006,1
+SDSM,200 M Freestyle,SCM,W,45-49,3:11.68,Karen D Poirier,,Gay Games at Chicago,2006,2
+SDSM,400 M Freestyle,SCM,W,45-49,5:34.36,Lisa J Leonard,,Gay Games at Chicago,2006,1
+SDSM,400 M Freestyle,SCM,W,45-49,6:59.96,Karen D Poirier,,Gay Games at Chicago,2006,2
+SDSM,800 M Freestyle,SCM,W,45-49,11:07.18,Nancy Kemper,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,800 M Freestyle,SCM,W,45-49,11:36.89,Lisa J Leonard,,Gay Games at Chicago,2006,2
+SDSM,50 M Breaststroke,SCM,W,45-49,1:03.92,Rosa Cardenas,,Gay Games at Chicago,2006,1
+SDSM,50 M Butterfly,SCM,W,45-49,37.00,Lisa J Leonard,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,W,50-54,32.50,Marilyn A Fink,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Freestyle,SCM,W,50-54,1:11.90,Marilyn A Fink,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Backstroke,SCM,W,50-54,37.72,Marilyn A Fink,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Freestyle,SCM,W,55-59,39.49,Gini M Baker,,Huntsman World Senior Games,2006,1
+SDSM,100 M Freestyle,SCM,W,55-59,1:30.51,Gini M Baker,,Huntsman World Senior Games,2006,1
+SDSM,200 M Freestyle,SCM,W,55-59,3:20.19,Gini M Baker,,Huntsman World Senior Games,2006,1
+SDSM,400 M Freestyle,SCM,W,55-59,5:22.73,Barbara G Dunbar,,Mission Viejo SCM,2006,1
+SDSM,400 M Freestyle,SCM,W,55-59,7:05.96,Gini M Baker,,Huntsman World Senior Games,2006,2
+SDSM,800 M Freestyle,SCM,W,55-59,10:51.50,Barbara G Dunbar,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,800 M Freestyle,SCM,W,55-59,14:53.42,Gini M Baker,,Huntsman World Senior Games,2006,2
+SDSM,1500 M Freestyle,SCM,W,55-59,21:00.55,Barbara G Dunbar,,Mission Viejo SCM,2006,1
+SDSM,1500 M Freestyle,SCM,W,55-59,27:50.13,Gini M Baker,,Huntsman World Senior Games,2006,2
+SDSM,50 M Breaststroke,SCM,W,55-59,52.63,Diane M Hirakawa,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,W,55-59,54.74,Gini M Baker,,Huntsman World Senior Games,2006,2
+SDSM,100 M Breaststroke,SCM,W,55-59,1:53.97,Diane M Hirakawa,,SPMA SCM Champs,2006,1
+SDSM,100 M Breaststroke,SCM,W,55-59,2:08.95,Gini M Baker,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,200 M Breaststroke,SCM,W,55-59,4:07.68,Diane M Hirakawa,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,W,55-59,36.61,Barbara G Dunbar,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Butterfly,SCM,W,55-59,47.10,Diane M Hirakawa,,SPMA SCM Champs,2006,2
+SDSM,50 M Butterfly,SCM,W,55-59,54.97,Gini M Baker,,Huntsman World Senior Games,2006,3
+SDSM,100 M Butterfly,SCM,W,55-59,1:18.40,Barbara G Dunbar,,Mission Viejo SCM,2006,1
+SDSM,100 M Butterfly,SCM,W,55-59,1:55.62,Diane M Hirakawa,,SPMA SCM Champs,2006,2
+SDSM,200 M Butterfly,SCM,W,55-59,2:58.26,Barbara G Dunbar,,Mission Viejo SCM,2006,1
+SDSM,100 M Individual Medley,SCM,W,55-59,1:26.53,Barbara G Dunbar,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Individual Medley,SCM,W,55-59,1:52.71,Diane M Hirakawa,,SPMA SCM Champs,2006,2
+SDSM,200 M Individual Medley,SCM,W,55-59,3:03.31,Barbara G Dunbar,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,200 M Individual Medley,SCM,W,55-59,4:00.35,Diane M Hirakawa,,SPMA SCM Champs,2006,2
+SDSM,400 M Individual Medley,SCM,W,55-59,6:15.43,Barbara G Dunbar,,Mission Viejo SCM,2006,1
+SDSM,50 M Freestyle,SCM,W,60-64,34.84,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,100 M Freestyle,SCM,W,60-64,1:17.81,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,W,60-64,2:49.10,Jackie M Marr,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,400 M Freestyle,SCM,W,60-64,5:48.15,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,1500 M Freestyle,SCM,W,60-64,22:54.12,Jackie M Marr,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,50 M Backstroke,SCM,W,60-64,42.58,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,100 M Backstroke,SCM,W,60-64,1:31.55,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,200 M Backstroke,SCM,W,60-64,3:15.96,Jackie M Marr,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,200 M Breaststroke,SCM,W,60-64,3:40.02,Jackie M Marr,,Huntsman World Senior Games,2006,1
+SDSM,100 M Butterfly,SCM,W,60-64,1:39.39,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,W,60-64,1:29.60,Jackie M Marr,,Huntsman World Senior Games,2006,1
+SDSM,200 M Individual Medley,SCM,W,60-64,3:14.76,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,400 M Individual Medley,SCM,W,60-64,6:46.64,Jackie M Marr,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,W,65-69,38.75,Lynne H Lund,,Huntsman World Senior Games,2006,1
+SDSM,50 M Freestyle,SCM,W,65-69,39.49,Jeanne Little,,SPMA SCM Champs,2006,2
+SDSM,100 M Freestyle,SCM,W,65-69,1:24.04,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,100 M Freestyle,SCM,W,65-69,1:32.33,Lynne H Lund,,SPMA SCM Champs,2006,2
+SDSM,200 M Freestyle,SCM,W,65-69,3:13.83,Jeanne Little,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,W,65-69,3:38.26,Lynne H Lund,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,400 M Freestyle,SCM,W,65-69,6:39.45,Anne H Williams,,SPMA SCM Champs,2006,1
+SDSM,800 M Freestyle,SCM,W,65-69,13:12.48,Betsy T Jordan,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,1500 M Freestyle,SCM,W,65-69,25:32.97,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,50 M Backstroke,SCM,W,65-69,42.49,Betsy T Jordan,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Backstroke,SCM,W,65-69,54.59,Lynne H Lund,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,100 M Backstroke,SCM,W,65-69,1:32.60,Betsy T Jordan,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Backstroke,SCM,W,65-69,2:00.19,Lynne H Lund,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,200 M Backstroke,SCM,W,65-69,3:27.44,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,200 M Backstroke,SCM,W,65-69,4:15.74,Lynne H Lund,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,50 M Breaststroke,SCM,W,65-69,48.31,Anne H Williams,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,W,65-69,53.82,Lynne H Lund,,Huntsman World Senior Games,2006,2
+SDSM,100 M Breaststroke,SCM,W,65-69,1:43.57,Anne H Williams,,SPMA SCM Champs,2006,1
+SDSM,100 M Breaststroke,SCM,W,65-69,2:01.56,Lynne H Lund,,SPMA SCM Champs,2006,2
+SDSM,200 M Breaststroke,SCM,W,65-69,3:41.13,Anne H Williams,,SPMA SCM Champs,2006,1
+SDSM,200 M Breaststroke,SCM,W,65-69,4:17.27,Lynne H Lund,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,50 M Butterfly,SCM,W,65-69,43.49,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,50 M Butterfly,SCM,W,65-69,44.91,Jeanne Little,,SPMA SCM Champs,2006,2
+SDSM,50 M Butterfly,SCM,W,65-69,45.48,Lynne H Lund,,Huntsman World Senior Games,2006,3
+SDSM,100 M Butterfly,SCM,W,65-69,1:42.75,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,100 M Butterfly,SCM,W,65-69,1:54.09,Lynne H Lund,,Huntsman World Senior Games,2006,2
+SDSM,200 M Butterfly,SCM,W,65-69,3:53.65,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,200 M Butterfly,SCM,W,65-69,4:09.91,Lynne H Lund,,SPMA SCM Champs,2006,2
+SDSM,100 M Individual Medley,SCM,W,65-69,1:48.39,Lynne H Lund,,Huntsman World Senior Games,2006,1
+SDSM,200 M Individual Medley,SCM,W,65-69,3:31.57,Betsy T Jordan,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,200 M Individual Medley,SCM,W,65-69,3:40.24,Lynne H Lund,,Huntsman World Senior Games,2006,2
+SDSM,400 M Individual Medley,SCM,W,65-69,7:28.15,Betsy T Jordan,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,400 M Individual Medley,SCM,W,65-69,8:22.47,Lynne H Lund,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,50 M Freestyle,SCM,W,70-74,55.23,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,100 M Freestyle,SCM,W,70-74,2:12.79,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,200 M Freestyle,SCM,W,70-74,4:49.08,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,400 M Freestyle,SCM,W,70-74,10:09.39,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,800 M Freestyle,SCM,W,70-74,20:30.35,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,50 M Backstroke,SCM,W,70-74,1:18.86,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,100 M Backstroke,SCM,W,70-74,2:55.90,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,200 M Backstroke,SCM,W,70-74,6:13.60,Anita G Painter,,Huntsman World Senior Games,2006,1
+SDSM,50 M Freestyle,SCM,W,75-79,1:12.31,Marian E Wolle,,New Mexico White Sands MR SCM,2006,1
+SDSM,800 M Freestyle,SCM,W,75-79,22:06.02,Marian E Wolle,,Huntsman World Senior Games,2006,1
+SDSM,50 M Backstroke,SCM,W,75-79,1:29.50,Marian E Wolle,,New Mexico White Sands MR SCM,2006,1
+SDSM,50 M Breaststroke,SCM,W,75-79,1:58.88,Marian E Wolle,,New Mexico White Sands MR SCM,2006,1
+SDSM,50 M Butterfly,SCM,W,75-79,2:03.44,Marian E Wolle,,New Mexico White Sands MR SCM,2006,1
+SDSM,200 M Individual Medley,SCM,W,75-79,7:48.18,Marian E Wolle,,Huntsman World Senior Games,2006,1
+SDSM,50 M Freestyle,SCM,M,25-29,26.76,Chattrin Homcheon,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,M,25-29,2:18.60,Chattrin Homcheon,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,M,25-29,2:54.88,Paul T Wang,,Gay Games at Chicago,2006,2
+SDSM,50 M Breaststroke,SCM,M,25-29,43.11,Paul T Wang,,Gay Games at Chicago,2006,1
+SDSM,50 M Butterfly,SCM,M,25-29,30.97,Chattrin Homcheon,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,30-34,25.48,Matthew T Pentland,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,30-34,25.71,Matthew V Young,,SPMA SCM Champs,2006,2
+SDSM,50 M Freestyle,SCM,M,30-34,33.41,Kyle E West,,Gay Games at Chicago,2006,3
+SDSM,100 M Freestyle,SCM,M,30-34,57.17,Matthew V Young,,SPMA SCM Champs,2006,1
+SDSM,100 M Freestyle,SCM,M,30-34,57.81,Matthew T Pentland,,SPMA SCM Champs,2006,2
+SDSM,100 M Freestyle,SCM,M,30-34,1:13.92,Kyle E West,,Gay Games at Chicago,2006,3
+SDSM,200 M Freestyle,SCM,M,30-34,2:52.35,Kyle E West,,Gay Games at Chicago,2006,1
+SDSM,800 M Freestyle,SCM,M,30-34,12:45.68,Gregory E Koch,,Gay Games at Chicago,2006,1
+SDSM,1500 M Freestyle,SCM,M,30-34,25:03.42,Gregory E Koch,,Gay Games at Chicago,2006,1
+SDSM,50 M Backstroke,SCM,M,30-34,29.51,Matthew T Pentland,,SPMA SCM Champs,2006,1
+SDSM,50 M Backstroke,SCM,M,30-34,39.14,Kyle E West,,Gay Games at Chicago,2006,2
+SDSM,100 M Backstroke,SCM,M,30-34,1:03.88,Matthew T Pentland,,SPMA SCM Champs,2006,1
+SDSM,200 M Backstroke,SCM,M,30-34,2:24.95,Matthew T Pentland,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,M,30-34,33.43,Matthew V Young,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,M,30-34,35.26,Matthew T Pentland,,SPMA SCM Champs,2006,2
+SDSM,100 M Breaststroke,SCM,M,30-34,1:20.28,Matthew V Young,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,M,30-34,29.00,Matthew T Pentland,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,M,30-34,30.38,Matthew V Young,,SPMA SCM Champs,2006,2
+SDSM,100 M Individual Medley,SCM,M,30-34,1:13.19,Matthew V Young,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,35-39,26.31,Kenton R Jones,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Freestyle,SCM,M,35-39,27.59,Matthew J Shade,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,100 M Freestyle,SCM,M,35-39,59.96,Tim R Murphy,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Freestyle,SCM,M,35-39,1:02.36,Bradley A Schuber,,SPMA SCM Champs,2006,2
+SDSM,100 M Freestyle,SCM,M,35-39,1:03.06,Manuel A Adum,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,100 M Freestyle,SCM,M,35-39,1:17.38,Douglas S Rehg,,Gay Games at Chicago,2006,4
+SDSM,100 M Freestyle,SCM,M,35-39,1:19.56,Adolfo Yee,,Gay Games at Chicago,2006,5
+SDSM,200 M Freestyle,SCM,M,35-39,2:06.50,Kenton R Jones,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,M,35-39,2:39.90,Daniel F Scharffe,,Gay Games at Chicago,2006,2
+SDSM,400 M Freestyle,SCM,M,35-39,4:36.54,Kenton R Jones,,SPMA SCM Champs,2006,1
+SDSM,400 M Freestyle,SCM,M,35-39,5:44.80,Daniel F Scharffe,,Gay Games at Chicago,2006,2
+SDSM,800 M Freestyle,SCM,M,35-39,9:15.61,Kenton R Jones,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,800 M Freestyle,SCM,M,35-39,10:32.99,Manuel A Adum,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,800 M Freestyle,SCM,M,35-39,11:00.84,Matthew J Shade,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,1500 M Freestyle,SCM,M,35-39,18:10.29,Kenton R Jones,,SPMA SCM Champs,2006,1
+SDSM,50 M Backstroke,SCM,M,35-39,33.94,Kenton R Jones,,Mission Viejo SCM,2006,1
+SDSM,100 M Backstroke,SCM,M,35-39,1:12.66,Kenton R Jones,,Santa Clarita SCM,2006,1
+SDSM,200 M Backstroke,SCM,M,35-39,2:37.60,Kenton R Jones,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,M,35-39,32.54,Antonio Whiteley,,Gay Games at Chicago,2006,1
+SDSM,50 M Breaststroke,SCM,M,35-39,33.75,Kenton R Jones,,Mission Viejo SCM,2006,2
+SDSM,50 M Breaststroke,SCM,M,35-39,37.81,Matthew J Shade,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,50 M Breaststroke,SCM,M,35-39,41.04,Yachun Hung,,Gay Games at Chicago,2006,4
+SDSM,50 M Breaststroke,SCM,M,35-39,43.02,Douglas S Rehg,,Gay Games at Chicago,2006,5
+SDSM,50 M Breaststroke,SCM,M,35-39,44.62,Adolfo Yee,,Gay Games at Chicago,2006,6
+SDSM,100 M Breaststroke,SCM,M,35-39,1:12.67,Antonio Whiteley,,Gay Games at Chicago,2006,1
+SDSM,100 M Breaststroke,SCM,M,35-39,1:32.39,Yachun Hung,,Gay Games at Chicago,2006,2
+SDSM,100 M Breaststroke,SCM,M,35-39,1:41.05,Douglas S Rehg,,Gay Games at Chicago,2006,3
+SDSM,200 M Breaststroke,SCM,M,35-39,2:45.12,Antonio Whiteley,,Gay Games at Chicago,2006,1
+SDSM,200 M Breaststroke,SCM,M,35-39,2:52.38,Kenton R Jones,,SPMA SCM Champs,2006,2
+SDSM,200 M Breaststroke,SCM,M,35-39,3:18.89,Yachun Hung,,Gay Games at Chicago,2006,3
+SDSM,50 M Butterfly,SCM,M,35-39,37.42,Yachun Hung,,Gay Games at Chicago,2006,1
+SDSM,100 M Butterfly,SCM,M,35-39,1:04.71,Matthew J Shade,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Butterfly,SCM,M,35-39,1:09.76,Kenton R Jones,,Santa Clarita SCM,2006,2
+SDSM,200 M Butterfly,SCM,M,35-39,2:36.24,Kenton R Jones,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:08.95,Antonio Whiteley,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:11.15,Matthew J Shade,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,100 M Individual Medley,SCM,M,35-39,1:13.34,Kenton R Jones,,Mission Viejo SCM,2006,3
+SDSM,200 M Individual Medley,SCM,M,35-39,2:29.38,Kenton R Jones,,SPMA SCM Champs,2006,1
+SDSM,200 M Individual Medley,SCM,M,35-39,2:34.97,Antonio Whiteley,,Gay Games at Chicago,2006,2
+SDSM,200 M Individual Medley,SCM,M,35-39,3:02.61,Yachun Hung,,Gay Games at Chicago,2006,3
+SDSM,400 M Individual Medley,SCM,M,35-39,5:28.82,Kenton R Jones,,Mission Viejo SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,40-44,27.43,Greg A Seale,,Santa Clarita SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,40-44,28.40,Wes B Stone,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,50 M Freestyle,SCM,M,40-44,31.33,Jim W Harden,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,50 M Freestyle,SCM,M,40-44,31.48,Rodney R Schwan,,Gay Games at Chicago,2006,4
+SDSM,50 M Freestyle,SCM,M,40-44,34.11,Ruben Villegas,,HSAM SCM at El Cajon Valley HS,2006,5
+SDSM,50 M Freestyle,SCM,M,40-44,35.01,Rob J Bowsher,,HSAM SCM at El Cajon Valley HS,2006,6
+SDSM,50 M Freestyle,SCM,M,40-44,35.19,Russ L Emmons,,HSAM SCM at El Cajon Valley HS,2006,7
+SDSM,100 M Freestyle,SCM,M,40-44,1:00.36,Greg A Seale,,Santa Clarita SCM,2006,1
+SDSM,100 M Freestyle,SCM,M,40-44,1:15.90,Ruben Villegas,,Gay Games at Chicago,2006,2
+SDSM,100 M Freestyle,SCM,M,40-44,1:16.84,Rob J Bowsher,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,100 M Freestyle,SCM,M,40-44,1:17.27,Rodney R Schwan,,Gay Games at Chicago,2006,4
+SDSM,100 M Freestyle,SCM,M,40-44,1:18.34,Russ L Emmons,,HSAM SCM at El Cajon Valley HS,2006,5
+SDSM,200 M Freestyle,SCM,M,40-44,2:14.19,Greg A Seale,,Santa Clarita SCM,2006,1
+SDSM,200 M Freestyle,SCM,M,40-44,2:23.16,Joey Hinton,,SPMA SCM Champs,2006,2
+SDSM,200 M Freestyle,SCM,M,40-44,2:26.23,Eric E Neilsen,,Gay Games at Chicago,2006,3
+SDSM,200 M Freestyle,SCM,M,40-44,2:37.35,John W Hall,,Gay Games at Chicago,2006,4
+SDSM,200 M Freestyle,SCM,M,40-44,2:49.48,Russ L Emmons,,Gay Games at Chicago,2006,5
+SDSM,200 M Freestyle,SCM,M,40-44,2:56.72,Rob J Bowsher,,Gay Games at Chicago,2006,6
+SDSM,200 M Freestyle,SCM,M,40-44,3:13.87,Ruben Villegas,,Gay Games at Chicago,2006,7
+SDSM,400 M Freestyle,SCM,M,40-44,5:04.76,Joey Hinton,,SPMA SCM Champs,2006,1
+SDSM,400 M Freestyle,SCM,M,40-44,6:14.41,Rob J Bowsher,,Gay Games at Chicago,2006,2
+SDSM,400 M Freestyle,SCM,M,40-44,6:17.23,Russ L Emmons,,Gay Games at Chicago,2006,3
+SDSM,400 M Freestyle,SCM,M,40-44,6:54.80,Ruben Villegas,,Gay Games at Chicago,2006,4
+SDSM,800 M Freestyle,SCM,M,40-44,10:24.98,Joey Hinton,,SPMA SCM Champs,2006,1
+SDSM,800 M Freestyle,SCM,M,40-44,11:07.26,Michael A Given,,Gay Games at Chicago,2006,2
+SDSM,800 M Freestyle,SCM,M,40-44,12:13.20,Rob J Bowsher,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,800 M Freestyle,SCM,M,40-44,12:17.09,John W Hall,,Gay Games at Chicago,2006,4
+SDSM,800 M Freestyle,SCM,M,40-44,13:24.44,Russ L Emmons,,HSAM SCM at El Cajon Valley HS,2006,5
+SDSM,50 M Backstroke,SCM,M,40-44,36.70,Timothy F Brouillette,,Gay Games at Chicago,2006,1
+SDSM,100 M Backstroke,SCM,M,40-44,1:19.27,Timothy F Brouillette,,Gay Games at Chicago,2006,1
+SDSM,200 M Backstroke,SCM,M,40-44,2:53.69,Michael A Given,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,M,40-44,34.52,Robert J Ryan,,Gay Games at Chicago,2006,1
+SDSM,50 M Breaststroke,SCM,M,40-44,37.62,Jim W Harden,,SPMA SCM Champs,2006,2
+SDSM,50 M Breaststroke,SCM,M,40-44,39.61,Timothy F Brouillette,,Gay Games at Chicago,2006,3
+SDSM,50 M Breaststroke,SCM,M,40-44,43.04,Wes B Stone,,HSAM SCM at El Cajon Valley HS,2006,4
+SDSM,100 M Breaststroke,SCM,M,40-44,1:18.89,Robert J Ryan,,Gay Games at Chicago,2006,1
+SDSM,100 M Breaststroke,SCM,M,40-44,1:21.61,Eric E Neilsen,,Gay Games at Chicago,2006,2
+SDSM,100 M Breaststroke,SCM,M,40-44,1:22.25,Jimmy W Harden,,Gay Games at Chicago,2006,3
+SDSM,100 M Breaststroke,SCM,M,40-44,1:26.63,Timothy F Brouillette,,Gay Games at Chicago,2006,4
+SDSM,200 M Breaststroke,SCM,M,40-44,2:56.94,Jim W Harden,,SPMA SCM Champs,2006,1
+SDSM,200 M Breaststroke,SCM,M,40-44,3:01.62,Eric E Neilsen,,Gay Games at Chicago,2006,2
+SDSM,200 M Breaststroke,SCM,M,40-44,3:06.29,Robert J Ryan,,Gay Games at Chicago,2006,3
+SDSM,50 M Butterfly,SCM,M,40-44,33.58,Jim W Harden,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Butterfly,SCM,M,40-44,34.41,John W Hall,,Gay Games at Chicago,2006,2
+SDSM,50 M Butterfly,SCM,M,40-44,36.38,Rodney R Schwan,,Gay Games at Chicago,2006,3
+SDSM,50 M Butterfly,SCM,M,40-44,37.64,Ruben Villegas,,Gay Games at Chicago,2006,4
+SDSM,50 M Butterfly,SCM,M,40-44,45.80,Russ L Emmons,,HSAM SCM at El Cajon Valley HS,2006,5
+SDSM,100 M Butterfly,SCM,M,40-44,1:15.68,Eric E Neilsen,,Gay Games at Chicago,2006,1
+SDSM,100 M Butterfly,SCM,M,40-44,1:15.81,Jimmy W Harden,,Gay Games at Chicago,2006,2
+SDSM,100 M Butterfly,SCM,M,40-44,1:17.03,Michael A Given,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,100 M Butterfly,SCM,M,40-44,1:47.03,Russ L Emmons,,Gay Games at Chicago,2006,4
+SDSM,200 M Butterfly,SCM,M,40-44,2:53.27,Michael A Given,,Gay Games at Chicago,2006,1
+SDSM,200 M Butterfly,SCM,M,40-44,3:03.20,Jim W Harden,,SPMA SCM Champs,2006,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:14.63,Robert J Ryan,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,M,40-44,1:15.32,Michael A Given,,SPMA SCM Champs,2006,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:16.57,Timothy F Brouillette,,Gay Games at Chicago,2006,3
+SDSM,100 M Individual Medley,SCM,M,40-44,1:24.55,John W Hall,,Gay Games at Chicago,2006,4
+SDSM,100 M Individual Medley,SCM,M,40-44,1:29.40,Rodney R Schwan,,Gay Games at Chicago,2006,5
+SDSM,100 M Individual Medley,SCM,M,40-44,1:35.51,Ruben Villegas,,Gay Games at Chicago,2006,6
+SDSM,200 M Individual Medley,SCM,M,40-44,2:47.79,Michael A Given,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,400 M Individual Medley,SCM,M,40-44,5:55.60,Eric E Neilsen,,Gay Games at Chicago,2006,1
+SDSM,400 M Individual Medley,SCM,M,40-44,6:03.07,Michael A Given,,Gay Games at Chicago,2006,2
+SDSM,50 M Freestyle,SCM,M,45-49,26.82,Chris A Dixon,,Mission Viejo SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,45-49,27.89,Gerald C Livingston,,Mission Viejo SCM,2006,2
+SDSM,50 M Freestyle,SCM,M,45-49,31.34,Ion A Beza,,SPMA SCM Champs,2006,3
+SDSM,50 M Freestyle,SCM,M,45-49,31.65,Jonathan S Koelle,,Gay Games at Chicago,2006,4
+SDSM,50 M Freestyle,SCM,M,45-49,34.68,Alan Palmer,,Gay Games at Chicago,2006,5
+SDSM,100 M Freestyle,SCM,M,45-49,1:00.49,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,100 M Freestyle,SCM,M,45-49,1:01.84,Gerald C Livingston,,Mission Viejo SCM,2006,2
+SDSM,100 M Freestyle,SCM,M,45-49,1:07.10,Ion A Beza,,SPMA SCM Champs,2006,3
+SDSM,100 M Freestyle,SCM,M,45-49,1:10.53,Jonathan S Koelle,,Gay Games at Chicago,2006,4
+SDSM,100 M Freestyle,SCM,M,45-49,1:14.12,Terry R Beardslee,,Gay Games at Chicago,2006,5
+SDSM,100 M Freestyle,SCM,M,45-49,1:20.33,Alan Palmer,,Gay Games at Chicago,2006,6
+SDSM,200 M Freestyle,SCM,M,45-49,2:21.18,Gerald C Livingston,,Mission Viejo SCM,2006,1
+SDSM,200 M Freestyle,SCM,M,45-49,2:29.92,Ion A Beza,,SPMA SCM Champs,2006,2
+SDSM,200 M Freestyle,SCM,M,45-49,2:41.16,Jonathan S Koelle,,Gay Games at Chicago,2006,3
+SDSM,200 M Freestyle,SCM,M,45-49,2:45.32,Brian R Kelly,,Gay Games at Chicago,2006,4
+SDSM,400 M Freestyle,SCM,M,45-49,5:23.06,Ion A Beza,,SPMA SCM Champs,2006,1
+SDSM,400 M Freestyle,SCM,M,45-49,5:53.82,Jonathan S Koelle,,Gay Games at Chicago,2006,2
+SDSM,400 M Freestyle,SCM,M,45-49,6:09.89,Brian R Kelly,,Gay Games at Chicago,2006,3
+SDSM,800 M Freestyle,SCM,M,45-49,10:07.41,Gerald C Livingston,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,800 M Freestyle,SCM,M,45-49,12:50.17,Brian R Kelly,,Gay Games at Chicago,2006,2
+SDSM,50 M Backstroke,SCM,M,45-49,32.87,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,50 M Backstroke,SCM,M,45-49,34.34,Gerald C Livingston,,Mission Viejo SCM,2006,2
+SDSM,50 M Backstroke,SCM,M,45-49,34.42,Abel Menchaca,,Gay Games at Chicago,2006,3
+SDSM,100 M Backstroke,SCM,M,45-49,1:15.12,Abel Menchaca,,Gay Games at Chicago,2006,1
+SDSM,100 M Backstroke,SCM,M,45-49,1:34.39,Terry R Beardslee,,Gay Games at Chicago,2006,2
+SDSM,50 M Breaststroke,SCM,M,45-49,35.83,Chris A Dixon,,Mission Viejo SCM,2006,1
+SDSM,50 M Breaststroke,SCM,M,45-49,36.40,Abel Menchaca,,Gay Games at Chicago,2006,2
+SDSM,50 M Butterfly,SCM,M,45-49,29.28,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,M,45-49,29.29,Chris A Dixon,,Mission Viejo SCM,2006,2
+SDSM,50 M Butterfly,SCM,M,45-49,32.03,Gerald C Livingston,,Mission Viejo SCM,2006,3
+SDSM,50 M Butterfly,SCM,M,45-49,37.16,Jonathan S Koelle,,Gay Games at Chicago,2006,4
+SDSM,100 M Butterfly,SCM,M,45-49,1:07.45,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,200 M Butterfly,SCM,M,45-49,2:36.63,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:09.99,Chris A Dixon,,Mission Viejo SCM,2006,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:12.90,Abel Menchaca,,Gay Games at Chicago,2006,2
+SDSM,100 M Individual Medley,SCM,M,45-49,1:30.78,Terry R Beardslee,,Gay Games at Chicago,2006,3
+SDSM,200 M Individual Medley,SCM,M,45-49,2:38.19,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,400 M Individual Medley,SCM,M,45-49,5:38.99,Jim E Boswell,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,50-54,26.29,Mark W Croshier,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,50-54,28.20,Bart J McDermott,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,100 M Freestyle,SCM,M,50-54,57.72,Mark Wussler,,Gay Games at Chicago,2006,1
+SDSM,100 M Freestyle,SCM,M,50-54,59.90,Mark W Croshier,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,100 M Freestyle,SCM,M,50-54,1:07.92,Scott B Ehrlich,,Gay Games at Chicago,2006,3
+SDSM,100 M Freestyle,SCM,M,50-54,1:08.17,Dan B McCullar,,Gay Games at Chicago,2006,4
+SDSM,200 M Freestyle,SCM,M,50-54,2:07.22,Bart J McDermott,,Gay Games at Chicago,2006,1
+SDSM,200 M Freestyle,SCM,M,50-54,2:09.73,Mark Wussler,,Gay Games at Chicago,2006,2
+SDSM,200 M Freestyle,SCM,M,50-54,2:27.60,Mark W Spratt,,Gay Games at Chicago,2006,3
+SDSM,200 M Freestyle,SCM,M,50-54,2:51.43,Fabio Astudillo,,Mission Viejo SCM,2006,4
+SDSM,400 M Freestyle,SCM,M,50-54,4:35.70,Bart J McDermott,,Gay Games at Chicago,2006,1
+SDSM,400 M Freestyle,SCM,M,50-54,5:05.68,Mark W Spratt,,Gay Games at Chicago,2006,2
+SDSM,800 M Freestyle,SCM,M,50-54,10:25.92,Mark W Spratt,,Gay Games at Chicago,2006,1
+SDSM,1500 M Freestyle,SCM,M,50-54,20:13.60,Mark W Spratt,,Gay Games at Chicago,2006,1
+SDSM,50 M Backstroke,SCM,M,50-54,31.09,Mark W Croshier,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,100 M Backstroke,SCM,M,50-54,1:11.71,Bart J Mc Dermott,,SPMA SCM Champs,2006,1
+SDSM,200 M Backstroke,SCM,M,50-54,2:51.44,Mark W Spratt,,Gay Games at Chicago,2006,1
+SDSM,50 M Breaststroke,SCM,M,50-54,35.40,Mark Wussler,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Breaststroke,SCM,M,50-54,36.54,Mark W Croshier,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,50 M Breaststroke,SCM,M,50-54,41.25,Dan B McCullar,,Gay Games at Chicago,2006,3
+SDSM,100 M Breaststroke,SCM,M,50-54,1:14.89,Mark Wussler,,Gay Games at Chicago,2006,1
+SDSM,200 M Breaststroke,SCM,M,50-54,2:54.76,Mark Wussler,,Gay Games at Chicago,2006,1
+SDSM,50 M Butterfly,SCM,M,50-54,28.17,Mark W Croshier,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,M,50-54,28.50,Bart J McDermott,,Gay Games at Chicago,2006,2
+SDSM,50 M Butterfly,SCM,M,50-54,35.29,Dan B McCullar,,Gay Games at Chicago,2006,3
+SDSM,50 M Butterfly,SCM,M,50-54,35.51,Scott B Ehrlich,,Gay Games at Chicago,2006,4
+SDSM,100 M Butterfly,SCM,M,50-54,1:03.50,Bart J McDermott,,Gay Games at Chicago,2006,1
+SDSM,100 M Butterfly,SCM,M,50-54,1:15.78,Mark Wussler,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,100 M Butterfly,SCM,M,50-54,1:27.83,Scott B Ehrlich,,Gay Games at Chicago,2006,3
+SDSM,100 M Butterfly,SCM,M,50-54,1:30.36,Fabio Astudillo,,Mission Viejo SCM,2006,4
+SDSM,200 M Butterfly,SCM,M,50-54,2:21.70,Bart J McDermott,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:07.41,Mark W Croshier,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:20.32,Dan B McCullar,,Gay Games at Chicago,2006,2
+SDSM,100 M Individual Medley,SCM,M,50-54,1:20.57,Scott B Ehrlich,,Gay Games at Chicago,2006,3
+SDSM,100 M Individual Medley,SCM,M,50-54,1:30.30,Fabio Astudillo,,Mission Viejo SCM,2006,4
+SDSM,200 M Individual Medley,SCM,M,50-54,2:31.86,Bart J McDermott,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,400 M Individual Medley,SCM,M,50-54,7:03.22,Fabio Astudillo,,Mission Viejo SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,55-59,30.34,Federico Sicard,,Mission Viejo SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,55-59,44.18,Ian Dolman,,Gay Games at Chicago,2006,2
+SDSM,100 M Freestyle,SCM,M,55-59,1:07.59,Federico Sicard,,Mission Viejo SCM,2006,1
+SDSM,200 M Freestyle,SCM,M,55-59,2:30.70,Federico Sicard,,Mission Viejo SCM,2006,1
+SDSM,400 M Freestyle,SCM,M,55-59,5:19.24,Federico Sicard,,Mission Viejo SCM,2006,1
+SDSM,50 M Backstroke,SCM,M,55-59,47.98,Charles A Kaehler,,Gay Games at Chicago,2006,1
+SDSM,50 M Breaststroke,SCM,M,55-59,42.88,Charles A Kaehler,,Gay Games at Chicago,2006,1
+SDSM,100 M Breaststroke,SCM,M,55-59,1:36.84,Charles A Kaehler,,Gay Games at Chicago,2006,1
+SDSM,200 M Breaststroke,SCM,M,55-59,3:45.86,Charles A Kaehler,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,M,55-59,1:33.31,Charles A Kaehler,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,M,60-64,27.99,Michael L Ahern,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,M,60-64,32.77,Tar Larner,,Gay Games at Chicago,2006,2
+SDSM,100 M Freestyle,SCM,M,60-64,1:04.42,Michael L Ahern,,Gay Games at Chicago,2006,1
+SDSM,100 M Freestyle,SCM,M,60-64,1:14.02,Tar Larner,,Gay Games at Chicago,2006,2
+SDSM,400 M Freestyle,SCM,M,60-64,7:06.90,Mike T Greenberg,,Gay Games at Chicago,2006,1
+SDSM,50 M Backstroke,SCM,M,60-64,35.66,Michael L Ahern,,Gay Games at Chicago,2006,1
+SDSM,50 M Backstroke,SCM,M,60-64,44.91,Mike T Greenberg,,Gay Games at Chicago,2006,2
+SDSM,100 M Backstroke,SCM,M,60-64,1:39.73,Mike T Greenberg,,Gay Games at Chicago,2006,1
+SDSM,100 M Backstroke,SCM,M,60-64,1:59.65,Fred A Will,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,200 M Backstroke,SCM,M,60-64,3:39.52,Mike T Greenberg,,Gay Games at Chicago,2006,1
+SDSM,50 M Breaststroke,SCM,M,60-64,45.20,Tar Larner,,Gay Games at Chicago,2006,1
+SDSM,50 M Butterfly,SCM,M,60-64,32.43,Michael L Ahern,,Gay Games at Chicago,2006,1
+SDSM,50 M Butterfly,SCM,M,60-64,37.65,Tar Larner,,Gay Games at Chicago,2006,2
+SDSM,100 M Butterfly,SCM,M,60-64,2:07.30,Fred A Will,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:14.74,Michael L Ahern,,Gay Games at Chicago,2006,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:36.74,Mike T Greenberg,,Gay Games at Chicago,2006,2
+SDSM,100 M Individual Medley,SCM,M,60-64,1:56.48,Fred A Will,,Gay Games at Chicago,2006,3
+SDSM,200 M Individual Medley,SCM,M,60-64,3:53.14,Mike T Greenberg,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,200 M Individual Medley,SCM,M,60-64,4:18.47,Fred A Will,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,400 M Individual Medley,SCM,M,60-64,8:54.42,Fred A Will,,Gay Games at Chicago,2006,1
+SDSM,50 M Freestyle,SCM,M,65-69,28.94,Mike R Freshley,,Santa Clarita SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,65-69,30.29,Frank Williams,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,50 M Freestyle,SCM,M,65-69,35.95,Ted Stephenson,,Huntsman World Senior Games,2006,3
+SDSM,100 M Freestyle,SCM,M,65-69,1:05.89,Mike R Freshley,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,100 M Freestyle,SCM,M,65-69,1:08.53,Frank Williams,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,100 M Freestyle,SCM,M,65-69,1:23.08,Ted Stephenson,,Huntsman World Senior Games,2006,3
+SDSM,200 M Freestyle,SCM,M,65-69,2:28.48,Mike R Freshley,,Santa Clarita SCM,2006,1
+SDSM,200 M Freestyle,SCM,M,65-69,2:30.33,Frank Williams,,SPMA SCM Champs,2006,2
+SDSM,200 M Freestyle,SCM,M,65-69,3:06.98,Ted Stephenson,,Huntsman World Senior Games,2006,3
+SDSM,400 M Freestyle,SCM,M,65-69,5:27.67,Frank Williams,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,400 M Freestyle,SCM,M,65-69,5:28.79,Mike R Freshley,,Santa Clarita SCM,2006,2
+SDSM,400 M Freestyle,SCM,M,65-69,6:53.15,Ted Stephenson,,Huntsman World Senior Games,2006,3
+SDSM,800 M Freestyle,SCM,M,65-69,11:22.35,Frank Williams,,SPMA SCM Champs,2006,1
+SDSM,800 M Freestyle,SCM,M,65-69,14:22.64,Ted Stephenson,,Huntsman World Senior Games,2006,2
+SDSM,1500 M Freestyle,SCM,M,65-69,21:59.01,Frank Williams,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,1500 M Freestyle,SCM,M,65-69,28:23.83,Ted Stephenson,,Huntsman World Senior Games,2006,2
+SDSM,50 M Backstroke,SCM,M,65-69,36.38,Mike R Freshley,,Huntsman World Senior Games,2006,1
+SDSM,50 M Backstroke,SCM,M,65-69,44.74,Ted Stephenson,,Huntsman World Senior Games,2006,2
+SDSM,100 M Backstroke,SCM,M,65-69,1:20.94,Mike R Freshley,,Huntsman World Senior Games,2006,1
+SDSM,100 M Backstroke,SCM,M,65-69,1:42.63,Ted Stephenson,,Huntsman World Senior Games,2006,2
+SDSM,200 M Backstroke,SCM,M,65-69,2:57.13,Mike R Freshley,,Huntsman World Senior Games,2006,1
+SDSM,50 M Breaststroke,SCM,M,65-69,37.61,Mike R Freshley,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,50 M Breaststroke,SCM,M,65-69,47.76,Peter E Riddle,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,100 M Breaststroke,SCM,M,65-69,1:22.44,Mike R Freshley,,Huntsman World Senior Games,2006,1
+SDSM,100 M Breaststroke,SCM,M,65-69,1:50.62,Peter E Riddle,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,200 M Breaststroke,SCM,M,65-69,3:00.13,Mike R Freshley,,SPMA SCM Champs,2006,1
+SDSM,200 M Breaststroke,SCM,M,65-69,4:11.51,Peter E Riddle,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,50 M Butterfly,SCM,M,65-69,31.28,Mike R Freshley,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,M,65-69,33.57,Frank Williams,,Southwest Zone SCM Champs at Tempe,2006,2
+SDSM,100 M Butterfly,SCM,M,65-69,1:18.88,Frank Williams,,SPMA SCM Champs,2006,1
+SDSM,200 M Butterfly,SCM,M,65-69,3:09.60,Frank Williams,,SPMA SCM Champs,2006,1
+SDSM,100 M Individual Medley,SCM,M,65-69,1:14.99,Mike R Freshley,,SPMA SCM Champs,2006,1
+SDSM,200 M Individual Medley,SCM,M,65-69,2:43.49,Mike R Freshley,,Huntsman World Senior Games,2006,1
+SDSM,400 M Individual Medley,SCM,M,65-69,5:58.93,Mike R Freshley,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,70-74,32.68,Bob Best,,Santa Clarita SCM,2006,1
+SDSM,50 M Freestyle,SCM,M,70-74,35.58,Tom Mitchell,,Mission Viejo SCM,2006,2
+SDSM,50 M Freestyle,SCM,M,70-74,1:06.64,Rick Williamson,,Huntsman World Senior Games,2006,3
+SDSM,100 M Freestyle,SCM,M,70-74,1:25.11,Tom Mitchell,,Mission Viejo SCM,2006,1
+SDSM,200 M Freestyle,SCM,M,70-74,2:49.59,Bob Best,,Santa Clarita SCM,2006,1
+SDSM,200 M Freestyle,SCM,M,70-74,3:07.85,Tom Mitchell,,SPMA SCM Champs,2006,2
+SDSM,400 M Freestyle,SCM,M,70-74,6:47.22,Tom Mitchell,,SPMA SCM Champs,2006,1
+SDSM,800 M Freestyle,SCM,M,70-74,14:21.65,Tom Mitchell,,UCLA Bruin Masters SCM,2006,1
+SDSM,50 M Backstroke,SCM,M,70-74,46.10,Bob Best,,Santa Clarita SCM,2006,1
+SDSM,100 M Backstroke,SCM,M,70-74,1:53.63,Tom Mitchell,,UCLA Bruin Masters SCM,2006,1
+SDSM,200 M Backstroke,SCM,M,70-74,4:12.06,Tom Mitchell,,Mission Viejo SCM,2006,1
+SDSM,50 M Breaststroke,SCM,M,70-74,41.87,Bob Best,,SPMA SCM Champs,2006,1
+SDSM,50 M Breaststroke,SCM,M,70-74,51.15,Tom Mitchell,,UCLA Bruin Masters SCM,2006,2
+SDSM,100 M Breaststroke,SCM,M,70-74,1:37.83,Bob Best,,SPMA SCM Champs,2006,1
+SDSM,100 M Breaststroke,SCM,M,70-74,1:56.11,Tom Mitchell,,UCLA Bruin Masters SCM,2006,2
+SDSM,200 M Breaststroke,SCM,M,70-74,3:40.67,Bob Best,,SPMA SCM Champs,2006,1
+SDSM,200 M Breaststroke,SCM,M,70-74,3:59.71,Tom Mitchell,,SPMA Pierce Turkey Shoot SCM,2006,2
+SDSM,50 M Butterfly,SCM,M,70-74,41.00,Bob Best,,Santa Clarita SCM,2006,1
+SDSM,50 M Butterfly,SCM,M,70-74,48.16,Tom Mitchell,,SPMA Pierce Turkey Shoot SCM,2006,2
+SDSM,100 M Butterfly,SCM,M,70-74,1:50.43,Tom Mitchell,,SPMA SCM Champs,2006,1
+SDSM,200 M Butterfly,SCM,M,70-74,3:41.74,Bob Best,,SPMA Pierce Turkey Shoot SCM,2006,1
+SDSM,200 M Butterfly,SCM,M,70-74,4:07.74,Tom Mitchell,,SPMA SCM Champs,2006,2
+SDSM,100 M Individual Medley,SCM,M,70-74,1:27.70,Bob Best,,SPMA SCM Champs,2006,1
+SDSM,200 M Individual Medley,SCM,M,70-74,3:20.46,Bob Best,,SPMA SCM Champs,2006,1
+SDSM,200 M Individual Medley,SCM,M,70-74,3:42.94,Tom Mitchell,,SPMA SCM Champs,2006,2
+SDSM,400 M Individual Medley,SCM,M,70-74,7:01.52,Bob Best,,SPMA Pierce Turkey Shoot SCM,2006,1
+SDSM,400 M Individual Medley,SCM,M,70-74,7:49.70,Tom Mitchell,,Mission Viejo SCM,2006,2
+SDSM,50 M Freestyle,SCM,M,75-79,34.13,Donald J Baker,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Freestyle,SCM,M,75-79,36.58,Ken Kimball,,Huntsman World Senior Games,2006,2
+SDSM,50 M Freestyle,SCM,M,75-79,40.99,Jordan B Wolle,,Huntsman World Senior Games,2006,3
+SDSM,100 M Freestyle,SCM,M,75-79,1:15.26,Donald J Baker,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Freestyle,SCM,M,75-79,1:20.87,Ken Kimball,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,100 M Freestyle,SCM,M,75-79,1:36.71,Jordan B Wolle,,Huntsman World Senior Games,2006,3
+SDSM,200 M Freestyle,SCM,M,75-79,3:07.16,Donald J Baker,,Huntsman World Senior Games,2006,1
+SDSM,200 M Freestyle,SCM,M,75-79,3:12.95,Ken Kimball,,SPMA SCM Champs,2006,2
+SDSM,200 M Freestyle,SCM,M,75-79,3:38.36,Jordan B Wolle,,Huntsman World Senior Games,2006,3
+SDSM,400 M Freestyle,SCM,M,75-79,6:59.74,Ken Kimball,,Huntsman World Senior Games,2006,1
+SDSM,400 M Freestyle,SCM,M,75-79,7:44.03,Jordan B Wolle,,New Mexico White Sands MR SCM,2006,2
+SDSM,800 M Freestyle,SCM,M,75-79,15:03.25,Donald J Baker,,Huntsman World Senior Games,2006,1
+SDSM,800 M Freestyle,SCM,M,75-79,15:46.76,Jordan B Wolle,,New Mexico White Sands MR SCM,2006,2
+SDSM,1500 M Freestyle,SCM,M,75-79,28:37.67,Ken Kimball,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,1500 M Freestyle,SCM,M,75-79,29:30.36,Donald J Baker,,Huntsman World Senior Games,2006,2
+SDSM,1500 M Freestyle,SCM,M,75-79,29:55.43,Jordan B Wolle,,New Mexico White Sands MR SCM,2006,3
+SDSM,50 M Backstroke,SCM,M,75-79,44.45,Ken Kimball,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Backstroke,SCM,M,75-79,1:41.34,Ken Kimball,,SPMA SCM Champs,2006,1
+SDSM,100 M Backstroke,SCM,M,75-79,1:51.80,Donald J Baker,,SPMA SCM Champs,2006,2
+SDSM,200 M Backstroke,SCM,M,75-79,3:52.03,Ken Kimball,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,50 M Breaststroke,SCM,M,75-79,44.82,Donald J Baker,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,50 M Breaststroke,SCM,M,75-79,56.91,Paul (Biff) Lowry,,Huntsman World Senior Games,2006,2
+SDSM,100 M Breaststroke,SCM,M,75-79,1:42.23,Donald J Baker,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Breaststroke,SCM,M,75-79,2:07.14,Paul (Biff) Lowry,,Huntsman World Senior Games,2006,2
+SDSM,200 M Breaststroke,SCM,M,75-79,4:31.79,Paul (Biff) Lowry,,Huntsman World Senior Games,2006,1
+SDSM,50 M Butterfly,SCM,M,75-79,50.48,Donald J Baker,,Huntsman World Senior Games,2006,1
+SDSM,100 M Butterfly,SCM,M,75-79,1:57.19,Donald J Baker,,Huntsman World Senior Games,2006,1
+SDSM,200 M Individual Medley,SCM,M,75-79,3:59.95,Donald J Baker,,SPMA SCM Champs,2006,1
+SDSM,400 M Individual Medley,SCM,M,75-79,8:42.83,Donald J Baker,,Huntsman World Senior Games,2006,1
+SDSM,50 M Freestyle,SCM,M,80-84,34.43,Frank M Piemme,,SPMA SCM Champs,2006,1
+SDSM,50 M Freestyle,SCM,M,80-84,35.52,Dale A Webster,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,50 M Freestyle,SCM,M,80-84,39.89,Jurgen B Schmidt,,Huntsman World Senior Games,2006,3
+SDSM,100 M Freestyle,SCM,M,80-84,1:21.13,Frank M Piemme,,SPMA Pierce Turkey Shoot SCM,2006,1
+SDSM,100 M Freestyle,SCM,M,80-84,1:21.71,Dale A Webster,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,100 M Freestyle,SCM,M,80-84,1:32.06,Jurgen B Schmidt,,SPMA SCM Champs,2006,3
+SDSM,100 M Freestyle,SCM,M,80-84,1:44.70,Lee C Arth,,Mission Viejo SCM,2006,4
+SDSM,200 M Freestyle,SCM,M,80-84,3:06.06,Frank M Piemme,,SPMA SCM Champs,2006,1
+SDSM,200 M Freestyle,SCM,M,80-84,3:15.88,Jurgen B Schmidt,,Huntsman World Senior Games,2006,2
+SDSM,200 M Freestyle,SCM,M,80-84,3:43.34,Lee C Arth,,Mission Viejo SCM,2006,3
+SDSM,400 M Freestyle,SCM,M,80-84,6:40.77,Frank M Piemme,,SPMA SCM Champs,2006,1
+SDSM,400 M Freestyle,SCM,M,80-84,6:59.98,Jurgen B Schmidt,,Huntsman World Senior Games,2006,2
+SDSM,400 M Freestyle,SCM,M,80-84,7:51.43,Lee C Arth,,SPMA SCM Champs,2006,3
+SDSM,800 M Freestyle,SCM,M,80-84,14:27.85,Jurgen B Schmidt,,Huntsman World Senior Games,2006,1
+SDSM,800 M Freestyle,SCM,M,80-84,15:14.23,Lee C Arth,,HSAM SCM at El Cajon Valley HS,2006,2
+SDSM,1500 M Freestyle,SCM,M,80-84,27:43.00,Jurgen B Schmidt,,Huntsman World Senior Games,2006,1
+SDSM,50 M Backstroke,SCM,M,80-84,42.11,Dale A Webster,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,50 M Backstroke,SCM,M,80-84,52.52,Jurgen B Schmidt,,SPMA SCM Champs,2006,2
+SDSM,100 M Backstroke,SCM,M,80-84,1:38.01,Dale A Webster,,SPMA SCM Champs,2006,1
+SDSM,100 M Backstroke,SCM,M,80-84,1:48.41,Frank M Piemme,,SPMA Pierce Turkey Shoot SCM,2006,2
+SDSM,100 M Backstroke,SCM,M,80-84,1:54.92,Jurgen B Schmidt,,SPMA SCM Champs,2006,3
+SDSM,100 M Backstroke,SCM,M,80-84,1:56.30,Lee C Arth,,HSAM SCM at El Cajon Valley HS,2006,4
+SDSM,200 M Backstroke,SCM,M,80-84,3:47.94,Dale A Webster,,Huntsman World Senior Games,2006,1
+SDSM,200 M Backstroke,SCM,M,80-84,4:09.48,Lee C Arth,,SPMA SCM Champs,2006,2
+SDSM,200 M Backstroke,SCM,M,80-84,4:20.59,Jurgen B Schmidt,,SPMA Pierce Turkey Shoot SCM,2006,3
+SDSM,50 M Breaststroke,SCM,M,80-84,57.33,Dale A Webster,,Huntsman World Senior Games,2006,1
+SDSM,50 M Breaststroke,SCM,M,80-84,1:00.27,Jurgen B Schmidt,,SPMA SCM Champs,2006,2
+SDSM,100 M Breaststroke,SCM,M,80-84,1:46.34,Frank M Piemme,,SPMA Pierce Turkey Shoot SCM,2006,1
+SDSM,100 M Breaststroke,SCM,M,80-84,2:14.45,Lee C Arth,,SPMA Pierce Turkey Shoot SCM,2006,2
+SDSM,100 M Breaststroke,SCM,M,80-84,2:18.55,Dale A Webster,,Huntsman World Senior Games,2006,3
+SDSM,200 M Breaststroke,SCM,M,80-84,4:29.39,Lee C Arth,,Mission Viejo SCM,2006,1
+SDSM,50 M Butterfly,SCM,M,80-84,41.78,Frank M Piemme,,SPMA SCM Champs,2006,1
+SDSM,50 M Butterfly,SCM,M,80-84,46.32,Dale A Webster,,SPMA SCM Champs,2006,2
+SDSM,50 M Butterfly,SCM,M,80-84,57.36,Jurgen B Schmidt,,Huntsman World Senior Games,2006,3
+SDSM,100 M Butterfly,SCM,M,80-84,2:14.09,Lee C Arth,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:45.26,Dale A Webster,,Southwest Zone SCM Champs at Tempe,2006,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:51.74,Jurgen B Schmidt,,Huntsman World Senior Games,2006,2
+SDSM,100 M Individual Medley,SCM,M,80-84,1:59.12,Lee C Arth,,HSAM SCM at El Cajon Valley HS,2006,3
+SDSM,200 M Individual Medley,SCM,M,80-84,4:11.51,Lee C Arth,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,200 M Individual Medley,SCM,M,80-84,4:19.93,Jurgen B Schmidt,,Huntsman World Senior Games,2006,2
+SDSM,400 M Individual Medley,SCM,M,80-84,7:57.48,Frank M Piemme,,SPMA Pierce Turkey Shoot SCM,2006,1
+SDSM,400 M Individual Medley,SCM,M,80-84,8:38.78,Lee C Arth,,Mission Viejo SCM,2006,2
+SDSM,400 M Individual Medley,SCM,M,80-84,8:48.44,Jurgen B Schmidt,,Mission Viejo SCM,2006,3
+SDSM,50 M Freestyle,SCM,M,85-89,57.81,Tom Haver,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Freestyle,SCM,M,85-89,2:16.57,Tom Haver,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,200 M Freestyle,SCM,M,85-89,5:19.10,Tom Haver,,SPMA SCM Champs,2006,1
+SDSM,50 M Backstroke,SCM,M,85-89,54.43,Tom Haver,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,100 M Backstroke,SCM,M,85-89,2:05.07,Tom Haver,,HSAM SCM at El Cajon Valley HS,2006,1
+SDSM,200 M Backstroke,SCM,M,85-89,5:11.13,Tom Haver,,SPMA SCM Champs,2006,1
+UNAT,50 M Freestyle,SCM,W,25-29,31.75,Sarah J Hammen,,SPMA SCM Champs,2006,1
+UNAT,100 M Backstroke,SCM,W,25-29,1:18.47,Sarah J Hammen,,SPMA SCM Champs,2006,1
+UNAT,50 M Butterfly,SCM,W,25-29,34.43,Sarah J Hammen,,SPMA SCM Champs,2006,1
+UNAT,50 M Freestyle,SCM,W,70-74,1:10.06,Barbara A Bolanos-Moore,,Huntsman World Senior Games,2006,1
+UNAT,100 M Freestyle,SCM,W,70-74,2:33.02,Barbara A Bolanos-Moore,,Huntsman World Senior Games,2006,1
+UNAT,200 M Freestyle,SCM,W,70-74,5:51.80,Barbara A Bolanos-Moore,,Huntsman World Senior Games,2006,1
+UNAT,50 M Backstroke,SCM,W,70-74,1:13.05,Barbara A Bolanos-Moore,,Huntsman World Senior Games,2006,1
+UNAT,100 M Backstroke,SCM,W,70-74,2:48.61,Barbara A Bolanos-Moore,,Huntsman World Senior Games,2006,1
+UNAT,200 M Backstroke,SCM,W,70-74,5:57.22,Barbara A Bolanos-Moore,,Huntsman World Senior Games,2006,1
+UNAT,50 M Freestyle,SCM,M,18-24,27.35,John J Bixler,,SPMA SCM Champs,2006,1
+UNAT,100 M Freestyle,SCM,M,18-24,59.45,John J Bixler,,SPMA SCM Champs,2006,1
+UNAT,200 M Freestyle,SCM,M,18-24,2:08.40,John J Bixler,,SPMA SCM Champs,2006,1
+UNAT,50 M Backstroke,SCM,M,18-24,31.23,John J Bixler,,SPMA SCM Champs,2006,1
+UNAT,100 M Backstroke,SCM,M,18-24,1:07.90,John J Bixler,,SPMA SCM Champs,2006,1
+UNAT,200 M Backstroke,SCM,M,18-24,2:17.37,John J Bixler,,SPMA SCM Champs,2006,1
+UNAT,50 M Freestyle,SCM,M,55-59,32.74,Kelsey Williams,,Huntsman World Senior Games,2006,1
+UNAT,50 M Freestyle,SCM,M,55-59,36.83,John L Van Wagoner,,Huntsman World Senior Games,2006,2
+UNAT,400 M Freestyle,SCM,M,55-59,6:44.10,John L Van Wagoner,,Huntsman World Senior Games,2006,1
+UNAT,100 M Backstroke,SCM,M,55-59,2:02.46,John L Van Wagoner,,Huntsman World Senior Games,2006,1
+UNAT,50 M Breaststroke,SCM,M,55-59,46.51,Kelsey Williams,,Huntsman World Senior Games,2006,1
+UNAT,50 M Butterfly,SCM,M,55-59,37.60,Kelsey Williams,,Huntsman World Senior Games,2006,1
+UNAT,100 M Individual Medley,SCM,M,55-59,1:37.21,Kelsey Williams,,Huntsman World Senior Games,2006,1

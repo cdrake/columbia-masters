@@ -1,0 +1,594 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ECFY,50 M Freestyle,SCM,W,60-64,54.33,Linda J Cervantes,,SPMA Short Course Meters Championships,2011,1
+ECFY,50 M Backstroke,SCM,W,60-64,1:08.66,Linda J Cervantes,,San Diego Swim Masters 2011 SCM Meet,2011,1
+ECFY,100 M Backstroke,SCM,W,60-64,2:25.21,Linda J Cervantes,,SPMA Short Course Meters Championships,2011,1
+ECFY,50 M Breaststroke,SCM,W,60-64,1:33.02,Linda J Cervantes,,San Diego Swim Masters 2011 SCM Meet,2011,1
+ECFY,50 M Butterfly,SCM,W,60-64,1:10.69,Linda J Cervantes,,SPMA Short Course Meters Championships,2011,1
+ECFY,100 M Individual Medley,SCM,W,60-64,2:38.59,Linda J Cervantes,,San Diego Swim Masters 2011 SCM Meet,2011,1
+ECFY,200 M Individual Medley,SCM,W,60-64,5:42.71,Linda J Cervantes,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,W,25-29,31.53,Donna Pilkington,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,W,25-29,1:08.11,Donna Pilkington,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,200 M Freestyle,SCM,W,25-29,2:31.78,Donna Pilkington,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Breaststroke,SCM,W,25-29,1:35.25,Donna Pilkington,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Individual Medley,SCM,W,25-29,1:21.82,Donna Pilkington,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,W,40-44,1:07.66,Diana R Barnard,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,200 M Freestyle,SCM,W,40-44,2:25.99,Diana R Barnard,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,400 M Freestyle,SCM,W,40-44,5:12.24,Diana R Barnard,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,800 M Freestyle,SCM,W,40-44,11:24.23,Nancy A North,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+HSAM,1500 M Freestyle,SCM,W,40-44,19:48.92,Diana R Barnard,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,1500 M Freestyle,SCM,W,40-44,21:20.51,Nancy A North,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+HSAM,200 M Butterfly,SCM,W,40-44,3:00.02,Nancy A North,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,W,50-54,35.93,Judy L Seid,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,W,50-54,47.64,Diana J Steinert,,San Diego Swim Masters 2011 SCM Meet,2011,2
+HSAM,100 M Freestyle,SCM,W,50-54,1:22.54,Judy L Seid,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,W,65-69,48.14,Diane Flaherty,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,W,65-69,1:46.01,Diane Flaherty,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Breaststroke,SCM,W,65-69,56.44,Diane Flaherty,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Backstroke,SCM,W,70-74,1:00.44,Marlee R Valderhaug,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Breaststroke,SCM,W,70-74,1:02.62,Marlee R Valderhaug,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,W,80-84,1:08.50,Nancy L Reed,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,W,80-84,2:39.47,Nancy L Reed,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,200 M Freestyle,SCM,W,80-84,5:30.55,Nancy L Reed,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Backstroke,SCM,W,80-84,1:26.47,Nancy L Reed,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Backstroke,SCM,W,80-84,3:00.59,Nancy L Reed,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,200 M Freestyle,SCM,M,35-39,2:20.48,Ben T Soule,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Breaststroke,SCM,M,35-39,37.64,Ben T Soule,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Butterfly,SCM,M,35-39,31.97,Ben T Soule,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Individual Medley,SCM,M,35-39,1:11.54,Ben T Soule,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,M,45-49,30.50,Patrick M Greeson,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,M,45-49,1:05.15,Patrick M Greeson,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,200 M Freestyle,SCM,M,45-49,2:22.81,Patrick M Greeson,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Butterfly,SCM,M,45-49,32.84,Patrick M Greeson,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Butterfly,SCM,M,45-49,1:17.36,Patrick M Greeson,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Freestyle,SCM,M,55-59,34.77,Scott A Steinert,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,M,55-59,1:02.24,Lee E Mench,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,100 M Freestyle,SCM,M,55-59,1:21.24,Scott A Steinert,,San Diego Swim Masters 2011 SCM Meet,2011,2
+HSAM,200 M Freestyle,SCM,M,55-59,2:17.10,Lee E Mench,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,1500 M Freestyle,SCM,M,55-59,19:55.83,Ned S Maggiora,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,50 M Butterfly,SCM,M,55-59,42.83,Scott A Steinert,,San Diego Swim Masters 2011 SCM Meet,2011,1
+HSAM,400 M Individual Medley,SCM,M,55-59,5:46.77,Ned S Maggiora,,San Diego Swim Masters 2011 SCM Meet,2011,1
+LJSM,50 M Freestyle,SCM,W,30-34,29.26,Evelyn W Peelle,,SPMA Short Course Meters Championships,2011,1
+LJSM,200 M Freestyle,SCM,W,30-34,2:30.23,Evelyn W Peelle,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Breaststroke,SCM,W,30-34,37.72,Stacy E Peterson,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Breaststroke,SCM,W,30-34,44.42,Evelyn W Peelle,,SPMA Short Course Meters Championships,2011,2
+LJSM,50 M Butterfly,SCM,W,30-34,29.83,Stacy E Peterson,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Butterfly,SCM,W,30-34,32.54,Evelyn W Peelle,,SPMA Short Course Meters Championships,2011,2
+LJSM,200 M Freestyle,SCM,M,25-29,2:12.44,Chris Berg,,SPMA Short Course Meters Championships,2011,1
+LJSM,400 M Freestyle,SCM,M,25-29,4:34.11,Chris Berg,,SPMA Short Course Meters Championships,2011,1
+LJSM,800 M Freestyle,SCM,M,25-29,9:22.76,Chris Berg,,SPMA Short Course Meters Championships,2011,1
+LJSM,100 M Butterfly,SCM,M,25-29,1:07.84,Chris Berg,,SPMA Short Course Meters Championships,2011,1
+LJSM,400 M Individual Medley,SCM,M,25-29,5:23.36,Chris Berg,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Freestyle,SCM,M,35-39,26.77,Rodrigo J Iglesias,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Freestyle,SCM,M,35-39,27.29,Ryan F Foster,,SPMA Short Course Meters Championships,2011,2
+LJSM,100 M Freestyle,SCM,M,35-39,58.96,Ryan F Foster,,SPMA Short Course Meters Championships,2011,1
+LJSM,100 M Freestyle,SCM,M,35-39,1:00.42,Rodrigo J Iglesias,,SPMA Short Course Meters Championships,2011,2
+LJSM,50 M Breaststroke,SCM,M,35-39,36.39,Ryan F Foster,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Butterfly,SCM,M,35-39,29.20,Rodrigo J Iglesias,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Butterfly,SCM,M,35-39,29.98,Ryan F Foster,,SPMA Short Course Meters Championships,2011,2
+LJSM,100 M Butterfly,SCM,M,35-39,1:07.06,Ryan F Foster,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Freestyle,SCM,M,40-44,25.44,Paton M McClung,,SPMA Short Course Meters Championships,2011,1
+LJSM,100 M Freestyle,SCM,M,40-44,58.55,Paton M McClung,,SPMA Short Course Meters Championships,2011,1
+LJSM,400 M Freestyle,SCM,M,40-44,4:46.33,Paton M McClung,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Breaststroke,SCM,M,40-44,35.41,Paton M McClung,,SPMA Short Course Meters Championships,2011,1
+LJSM,50 M Butterfly,SCM,M,40-44,29.13,Paton M McClung,,SPMA Short Course Meters Championships,2011,1
+NCSM,400 M Freestyle,SCM,M,45-49,4:39.33,Mason T Bailey,,2011 AZ Masters SCM State Championship,2011,1
+NCSM,100 M Individual Medley,SCM,M,45-49,1:07.41,Mason T Bailey,,2011 AZ Masters SCM State Championship,2011,1
+SBSM,50 M Backstroke,SCM,M,45-49,31.41,Tom M Grady,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SBSM,100 M Backstroke,SCM,M,45-49,1:07.84,Tom M Grady,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SBSM,100 M Individual Medley,SCM,M,45-49,1:10.97,Tom M Grady,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Freestyle,SCM,W,25-29,1:01.63,Emily S Parker,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,W,25-29,1:08.55,Heidi M Amundson,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Freestyle,SCM,W,25-29,2:12.13,Emily S Parker,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,W,25-29,2:19.73,Erin J Hunter,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Freestyle,SCM,W,25-29,4:32.08,Emily S Parker,,SPMA Short Course Meters Championships,2011,1
+SDSM,800 M Freestyle,SCM,W,25-29,9:23.04,Emily S Parker,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,25-29,1:10.12,Emily S Parker,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Backstroke,SCM,W,25-29,2:55.99,Heidi M Amundson,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,W,25-29,1:19.02,Erin J Hunter,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,W,25-29,2:48.41,Erin J Hunter,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,W,25-29,1:10.37,Erin J Hunter,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Butterfly,SCM,W,25-29,2:34.30,Erin J Hunter,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Individual Medley,SCM,W,25-29,2:28.43,Emily S Parker,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Individual Medley,SCM,W,25-29,2:59.47,Heidi M Amundson,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Individual Medley,SCM,W,25-29,5:12.00,Erin J Hunter,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Individual Medley,SCM,W,25-29,5:14.77,Emily S Parker,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Freestyle,SCM,W,30-34,1:04.65,Kendra Ksiazek,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,W,30-34,1:13.40,Catherine J Moyer,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Freestyle,SCM,W,30-34,2:20.23,Kendra Ksiazek,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,30-34,31.80,Emily Finanger,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,30-34,39.50,Catherine J Moyer,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Backstroke,SCM,W,30-34,1:08.56,Emily Finanger,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,30-34,1:30.48,Catherine J Moyer,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Backstroke,SCM,W,30-34,2:25.55,Emily Finanger,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,W,30-34,3:15.63,Catherine J Moyer,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Breaststroke,SCM,W,30-34,1:26.63,Kendra Ksiazek,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,W,30-34,3:02.66,Kendra Ksiazek,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,W,30-34,35.94,Catherine J Moyer,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,W,30-34,1:22.09,Catherine J Moyer,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,W,30-34,1:09.89,Emily Finanger,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,W,30-34,1:15.40,Kendra Ksiazek,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Individual Medley,SCM,W,30-34,2:28.14,Emily Finanger,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Individual Medley,SCM,W,30-34,2:40.40,Kendra Ksiazek,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Individual Medley,SCM,W,30-34,5:07.79,Emily Finanger,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,W,35-39,30.42,Kristina M Maroudis,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,W,35-39,1:06.35,Kristina M Maroudis,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,W,35-39,2:27.28,Kristina M Maroudis,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,W,35-39,2:40.61,Kara W Barnett,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Freestyle,SCM,W,35-39,5:27.16,Kristina M Maroudis,,SPMA Short Course Meters Championships,2011,1
+SDSM,800 M Freestyle,SCM,W,35-39,11:25.78,Kristina M Maroudis,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,1500 M Freestyle,SCM,W,35-39,21:27.08,Kristina M Maroudis,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,W,35-39,37.07,Kara W Barnett,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,35-39,1:19.08,Kristina M Maroudis,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,W,35-39,2:47.09,Kristina M Maroudis,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,W,35-39,1:21.94,Kara W Barnett,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,40-44,35.26,Lara Paul,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,40-44,1:17.95,Lara Paul,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,W,40-44,2:49.46,Lara Paul,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,W,40-44,34.75,Lara Paul,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,W,40-44,1:20.60,Lara Paul,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,200 M Individual Medley,SCM,W,40-44,2:53.42,Lara Paul,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,W,45-49,30.55,Jasmine Stiles,,UCLA Bruin Masters SCM Swim Meet,2011,1
+SDSM,50 M Freestyle,SCM,W,45-49,30.78,Linda K Rudolf,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Freestyle,SCM,W,45-49,1:05.64,Jasmine Stiles,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,W,45-49,1:06.54,Caroline Krattli,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Freestyle,SCM,W,45-49,1:10.55,Linda K Rudolf,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,200 M Freestyle,SCM,W,45-49,2:33.16,Linda K Rudolf,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,400 M Freestyle,SCM,W,45-49,4:58.95,Caroline Krattli,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,W,45-49,35.60,Linda K Rudolf,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,W,45-49,37.56,Jasmine Stiles,,UCLA Bruin Masters SCM Swim Meet,2011,2
+SDSM,100 M Backstroke,SCM,W,45-49,1:13.68,Caroline Krattli,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,100 M Backstroke,SCM,W,45-49,1:16.80,Linda K Rudolf,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Backstroke,SCM,W,45-49,2:50.08,Linda K Rudolf,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Breaststroke,SCM,W,45-49,36.27,Caroline Krattli,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Breaststroke,SCM,W,45-49,40.60,Jasmine Stiles,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Breaststroke,SCM,W,45-49,1:17.57,Caroline Krattli,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Breaststroke,SCM,W,45-49,1:29.48,Jasmine Stiles,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,200 M Breaststroke,SCM,W,45-49,3:12.96,Jasmine Stiles,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,W,45-49,34.73,Linda K Rudolf,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,W,45-49,1:18.54,Jasmine Stiles,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Freestyle,SCM,W,50-54,31.22,Claudia Ettelson,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,W,50-54,34.99,Lolita V Veloso,,Huntsman Senior Games,2011,2
+SDSM,100 M Freestyle,SCM,W,50-54,1:20.13,Lolita V Veloso,,Huntsman Senior Games,2011,1
+SDSM,200 M Freestyle,SCM,W,50-54,2:47.68,Marieke Thayer,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,50-54,36.08,Claudia Ettelson,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,50-54,42.07,Lolita V Veloso,,Huntsman Senior Games,2011,2
+SDSM,100 M Backstroke,SCM,W,50-54,1:18.36,Claudia Ettelson,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,50-54,1:36.09,Lolita V Veloso,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,200 M Backstroke,SCM,W,50-54,2:43.49,Claudia Ettelson,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,W,50-54,3:41.35,Lolita V Veloso,,Huntsman Senior Games,2011,2
+SDSM,50 M Butterfly,SCM,W,50-54,35.48,Claudia Ettelson,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,W,50-54,41.13,Marieke Thayer,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Butterfly,SCM,W,50-54,42.54,Lolita V Veloso,,Huntsman Senior Games,2011,3
+SDSM,100 M Butterfly,SCM,W,50-54,1:34.71,Marieke Thayer,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Butterfly,SCM,W,50-54,1:48.67,Lolita V Veloso,,Huntsman Senior Games,2011,2
+SDSM,100 M Individual Medley,SCM,W,50-54,1:19.03,Claudia Ettelson,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,W,50-54,1:31.27,Marieke Thayer,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Individual Medley,SCM,W,50-54,1:34.05,Lolita V Veloso,,Huntsman Senior Games,2011,3
+SDSM,200 M Individual Medley,SCM,W,50-54,3:14.77,Marieke Thayer,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Individual Medley,SCM,W,50-54,3:36.87,Lolita V Veloso,,Huntsman Senior Games,2011,2
+SDSM,50 M Freestyle,SCM,W,55-59,32.38,Marilyn A Fink,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Freestyle,SCM,W,55-59,38.39,Leslie Frankenberger,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,W,55-59,48.87,Kim Miller,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,3
+SDSM,100 M Freestyle,SCM,W,55-59,1:12.85,Marilyn A Fink,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,400 M Freestyle,SCM,W,55-59,6:40.49,Leslie Frankenberger,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,55-59,37.74,Marilyn A Fink,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Backstroke,SCM,W,55-59,1:21.85,Marilyn A Fink,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Breaststroke,SCM,W,55-59,1:47.17,Leslie Frankenberger,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,W,55-59,4:23.00,Kim Miller,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,W,55-59,1:52.40,Kim Miller,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,W,60-64,35.46,Deborah Raboin,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,W,60-64,39.15,Gini M Baker,,Huntsman Senior Games,2011,2
+SDSM,100 M Freestyle,SCM,W,60-64,1:23.97,Deborah Raboin,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,W,60-64,1:31.36,Gini M Baker,,Huntsman Senior Games,2011,2
+SDSM,100 M Freestyle,SCM,W,60-64,1:37.31,Alta F Stengel,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,3
+SDSM,200 M Freestyle,SCM,W,60-64,3:18.18,Gini M Baker,,2011 Ron Johnson Invitational,2011,1
+SDSM,400 M Freestyle,SCM,W,60-64,5:43.73,Barbara G Dunbar,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,400 M Freestyle,SCM,W,60-64,6:58.32,Gini M Baker,,2011 Ron Johnson Invitational,2011,2
+SDSM,400 M Freestyle,SCM,W,60-64,6:59.38,Alta F Stengel,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,800 M Freestyle,SCM,W,60-64,11:39.52,Barbara G Dunbar,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,800 M Freestyle,SCM,W,60-64,14:11.84,Alta F Stengel,,SPMA Short Course Meters Championships,2011,2
+SDSM,800 M Freestyle,SCM,W,60-64,14:35.56,Gini M Baker,,Huntsman Senior Games,2011,3
+SDSM,1500 M Freestyle,SCM,W,60-64,22:01.40,Barbara G Dunbar,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,1500 M Freestyle,SCM,W,60-64,26:42.86,Alta F Stengel,,SPMA Short Course Meters Championships,2011,2
+SDSM,1500 M Freestyle,SCM,W,60-64,27:45.45,Gini M Baker,,Huntsman Senior Games,2011,3
+SDSM,50 M Backstroke,SCM,W,60-64,48.87,Alta F Stengel,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,60-64,1:47.53,Alta F Stengel,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,W,60-64,3:48.26,Alta F Stengel,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Breaststroke,SCM,W,60-64,47.56,Deborah Raboin,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Breaststroke,SCM,W,60-64,56.34,Diane M Hirakawa,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Breaststroke,SCM,W,60-64,2:09.03,Diane M Hirakawa,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,W,60-64,4:33.05,Diane M Hirakawa,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,200 M Breaststroke,SCM,W,60-64,4:40.83,Gini M Baker,,Huntsman Senior Games,2011,2
+SDSM,50 M Butterfly,SCM,W,60-64,39.05,Barbara G Dunbar,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Butterfly,SCM,W,60-64,45.47,Alta F Stengel,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,50 M Butterfly,SCM,W,60-64,53.10,Diane M Hirakawa,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,100 M Butterfly,SCM,W,60-64,1:26.07,Barbara G Dunbar,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Butterfly,SCM,W,60-64,2:10.05,Diane M Hirakawa,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,200 M Butterfly,SCM,W,60-64,3:15.07,Barbara G Dunbar,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Individual Medley,SCM,W,60-64,1:53.92,Gini M Baker,,Huntsman Senior Games,2011,1
+SDSM,100 M Individual Medley,SCM,W,60-64,2:02.96,Diane M Hirakawa,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,200 M Individual Medley,SCM,W,60-64,4:17.26,Gini M Baker,,Huntsman Senior Games,2011,1
+SDSM,400 M Individual Medley,SCM,W,60-64,6:36.75,Barbara G Dunbar,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Freestyle,SCM,W,65-69,38.89,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,W,65-69,1:22.78,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,W,65-69,3:05.84,Jackie M Marr,,2011 Ron Johnson Invitational,2011,1
+SDSM,400 M Freestyle,SCM,W,65-69,6:23.08,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,800 M Freestyle,SCM,W,65-69,12:58.71,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,W,65-69,43.66,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,W,65-69,1:41.75,Jackie M Marr,,2011 Ron Johnson Invitational,2011,1
+SDSM,200 M Backstroke,SCM,W,65-69,3:32.96,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,W,65-69,1:55.77,Jackie M Marr,,2011 Ron Johnson Invitational,2011,1
+SDSM,100 M Individual Medley,SCM,W,65-69,1:41.34,Jackie M Marr,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Individual Medley,SCM,W,65-69,3:57.45,Jackie M Marr,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Freestyle,SCM,W,70-74,37.71,Gynt Clifford,,Huntsman Senior Games,2011,1
+SDSM,100 M Freestyle,SCM,W,70-74,1:26.53,Gynt Clifford,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Backstroke,SCM,W,70-74,47.79,Gynt Clifford,,Huntsman Senior Games,2011,1
+SDSM,50 M Backstroke,SCM,W,70-74,55.31,Marilyn A Ramey,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Backstroke,SCM,W,70-74,1:52.35,Gynt Clifford,,2011 AZ Masters SCM State Championship,2011,1
+SDSM,200 M Backstroke,SCM,W,70-74,3:54.26,Gynt Clifford,,Huntsman Senior Games,2011,1
+SDSM,50 M Breaststroke,SCM,W,70-74,59.19,Marilyn A Ramey,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Butterfly,SCM,W,70-74,45.16,Gynt Clifford,,2011 AZ Masters SCM State Championship,2011,1
+SDSM,50 M Butterfly,SCM,W,70-74,57.17,Marilyn A Ramey,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Butterfly,SCM,W,70-74,1:50.39,Gynt Clifford,,MAC SCM Turkey Splash,2011,1
+SDSM,200 M Butterfly,SCM,W,70-74,4:18.03,Gynt Clifford,,2011 AZ Masters SCM State Championship,2011,1
+SDSM,100 M Individual Medley,SCM,W,70-74,1:46.58,Gynt Clifford,,Huntsman Senior Games,2011,1
+SDSM,100 M Individual Medley,SCM,W,70-74,1:59.32,Marilyn A Ramey,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,200 M Individual Medley,SCM,W,70-74,4:23.44,Marilyn A Ramey,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Freestyle,SCM,W,75-79,46.73,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,100 M Freestyle,SCM,W,75-79,1:41.99,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,200 M Freestyle,SCM,W,75-79,3:43.55,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,400 M Freestyle,SCM,W,75-79,8:08.89,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,800 M Freestyle,SCM,W,75-79,16:03.64,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,1500 M Freestyle,SCM,W,75-79,31:23.73,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,50 M Butterfly,SCM,W,75-79,59.02,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,100 M Individual Medley,SCM,W,75-79,2:08.02,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,200 M Individual Medley,SCM,W,75-79,4:49.43,Adrienne S Pipes,,Huntsman Senior Games,2011,1
+SDSM,50 M Freestyle,SCM,W,80-84,1:23.46,Marian E Wolle,,Huntsman Senior Games,2011,1
+SDSM,100 M Freestyle,SCM,W,80-84,3:06.82,Marian E Wolle,,Huntsman Senior Games,2011,1
+SDSM,200 M Freestyle,SCM,W,80-84,6:21.74,Marian E Wolle,,Huntsman Senior Games,2011,1
+SDSM,50 M Freestyle,SCM,M,18-24,27.46,Brian T Jenkins,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Freestyle,SCM,M,18-24,5:02.16,Brian T Jenkins,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,M,18-24,1:19.46,Brian T Jenkins,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,18-24,31.34,Brian T Jenkins,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,25-29,25.48,Stephen D Banister,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,25-29,25.78,Michael Borokhov,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,M,25-29,28.34,Frank Geraci,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Freestyle,SCM,M,25-29,30.34,Paolo Gatchalian,,SPMA Short Course Meters Championships,2011,4
+SDSM,100 M Freestyle,SCM,M,25-29,57.64,Michael Borokhov,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,M,25-29,1:00.37,Frank Geraci,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Freestyle,SCM,M,25-29,1:01.14,John J Bixler,,2011 Ron Johnson Invitational,2011,3
+SDSM,200 M Freestyle,SCM,M,25-29,2:11.34,Stephen D Banister,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,M,25-29,2:12.68,John J Bixler,,2011 Ron Johnson Invitational,2011,2
+SDSM,200 M Freestyle,SCM,M,25-29,2:13.94,Frank Geraci,,SPMA Short Course Meters Championships,2011,3
+SDSM,400 M Freestyle,SCM,M,25-29,5:00.89,Frank Geraci,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,25-29,32.20,John J Bixler,,2011 Ron Johnson Invitational,2011,1
+SDSM,100 M Backstroke,SCM,M,25-29,1:07.61,John J Bixler,,2011 Ron Johnson Invitational,2011,1
+SDSM,200 M Backstroke,SCM,M,25-29,2:24.97,John J Bixler,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Breaststroke,SCM,M,25-29,32.87,Andrew A Mullen,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,25-29,34.43,Michael Borokhov,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Breaststroke,SCM,M,25-29,35.08,Kyle W Broderick,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Breaststroke,SCM,M,25-29,1:13.50,Andrew A Mullen,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Breaststroke,SCM,M,25-29,1:26.64,Paolo Gatchalian,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Breaststroke,SCM,M,25-29,2:38.31,Andrew A Mullen,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Butterfly,SCM,M,25-29,28.27,Michael Borokhov,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,25-29,29.18,Kyle W Broderick,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Butterfly,SCM,M,25-29,29.60,Stephen D Banister,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Butterfly,SCM,M,25-29,31.84,Frank Geraci,,SPMA Short Course Meters Championships,2011,4
+SDSM,50 M Butterfly,SCM,M,25-29,33.16,Paolo Gatchalian,,SPMA Short Course Meters Championships,2011,5
+SDSM,100 M Butterfly,SCM,M,25-29,1:02.19,Michael Borokhov,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,M,25-29,1:04.18,Andrew A Mullen,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Individual Medley,SCM,M,25-29,1:04.73,Andrew A Mullen,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,25-29,1:23.26,Frank Geraci,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Individual Medley,SCM,M,25-29,2:25.39,Andrew A Mullen,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Individual Medley,SCM,M,25-29,2:32.97,John J Bixler,,2011 Ron Johnson Invitational,2011,2
+SDSM,50 M Freestyle,SCM,M,30-34,26.66,Pete J Murphy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Freestyle,SCM,M,30-34,27.27,Chattrin Homcheon,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,M,30-34,29.47,James A Coloma,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Freestyle,SCM,M,30-34,1:00.68,Pete J Murphy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,M,30-34,32.80,James A Coloma,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,30-34,1:11.37,James A Coloma,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,30-34,34.39,Mike D Blundell,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Breaststroke,SCM,M,30-34,1:16.97,Mike D Blundell,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Butterfly,SCM,M,30-34,28.75,Matt Eklund,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Butterfly,SCM,M,30-34,29.27,Mike D Blundell,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Butterfly,SCM,M,30-34,32.88,James A Coloma,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Butterfly,SCM,M,30-34,1:04.67,Matt Eklund,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Individual Medley,SCM,M,30-34,1:06.01,Matt Eklund,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Individual Medley,SCM,M,30-34,1:09.87,Pete J Murphy,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Individual Medley,SCM,M,30-34,1:14.39,James A Coloma,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Individual Medley,SCM,M,30-34,1:20.85,Jeremy D Fackenthal,,SPMA Short Course Meters Championships,2011,4
+SDSM,200 M Individual Medley,SCM,M,30-34,2:30.05,Matt Eklund,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Freestyle,SCM,M,35-39,25.94,Steven R Perunovich,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,35-39,27.55,Jay Akin,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,M,35-39,27.60,David R Hughes,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Freestyle,SCM,M,35-39,30.55,Santiago Ramos,,SPMA Short Course Meters Championships,2011,4
+SDSM,50 M Freestyle,SCM,M,35-39,38.28,Giuseppe A Lauritano,,2011 Ron Johnson Invitational,2011,5
+SDSM,100 M Freestyle,SCM,M,35-39,1:00.04,David R Hughes,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,100 M Freestyle,SCM,M,35-39,1:27.81,Giuseppe A Lauritano,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,200 M Freestyle,SCM,M,35-39,2:25.97,Henry G Morales,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,M,35-39,3:16.05,Giuseppe A Lauritano,,2011 Ron Johnson Invitational,2011,2
+SDSM,400 M Freestyle,SCM,M,35-39,4:51.29,David R Hughes,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,400 M Freestyle,SCM,M,35-39,5:17.18,Henry G Morales,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,800 M Freestyle,SCM,M,35-39,10:30.63,Henry G Morales,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,35-39,32.75,Jay Akin,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,35-39,1:11.58,Jay Akin,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,35-39,1:12.47,Steven R Perunovich,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Backstroke,SCM,M,35-39,2:38.21,Jay Akin,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,35-39,36.73,Peter Attia,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Breaststroke,SCM,M,35-39,40.96,Santiago Ramos,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Breaststroke,SCM,M,35-39,44.37,Giuseppe A Lauritano,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Breaststroke,SCM,M,35-39,1:17.02,David R Hughes,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,M,35-39,1:25.56,Peter Attia,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Breaststroke,SCM,M,35-39,1:38.70,Giuseppe A Lauritano,,2011 Ron Johnson Invitational,2011,3
+SDSM,200 M Breaststroke,SCM,M,35-39,2:59.10,David R Hughes,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,200 M Breaststroke,SCM,M,35-39,3:10.29,Peter Attia,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,200 M Breaststroke,SCM,M,35-39,3:42.62,Giuseppe A Lauritano,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Butterfly,SCM,M,35-39,27.97,David R Hughes,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,35-39,29.19,Steven R Perunovich,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Butterfly,SCM,M,35-39,30.98,Jay Akin,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Butterfly,SCM,M,35-39,1:13.74,Henry G Morales,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Butterfly,SCM,M,35-39,2:47.50,Henry G Morales,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:09.90,Jay Akin,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:24.10,Santiago Ramos,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Individual Medley,SCM,M,35-39,5:48.67,David R Hughes,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Individual Medley,SCM,M,35-39,6:00.87,Henry G Morales,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,M,40-44,27.16,Kenton R Jones,,UCLA Bruin Masters SCM Swim Meet,2011,1
+SDSM,50 M Freestyle,SCM,M,40-44,28.13,Matthew J Shade,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Freestyle,SCM,M,40-44,30.78,John R Gross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,3
+SDSM,50 M Freestyle,SCM,M,40-44,31.17,Silvio F Cuellar,,2011 Ron Johnson Invitational,2011,4
+SDSM,50 M Freestyle,SCM,M,40-44,33.20,Joe Clauson,,SPMA Short Course Meters Championships,2011,5
+SDSM,100 M Freestyle,SCM,M,40-44,59.52,Kenton R Jones,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,100 M Freestyle,SCM,M,40-44,1:11.38,John R Gross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Freestyle,SCM,M,40-44,1:11.92,Silvio F Cuellar,,East Valley Invite,2011,3
+SDSM,100 M Freestyle,SCM,M,40-44,1:17.14,Joe Clauson,,San Diego Swim Masters 2011 SCM Meet,2011,4
+SDSM,200 M Freestyle,SCM,M,40-44,2:28.78,Terry Frogley,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,M,40-44,2:42.14,John R Gross,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Freestyle,SCM,M,40-44,4:35.16,Kenton R Jones,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Freestyle,SCM,M,40-44,4:57.85,Terry Frogley,,SPMA Short Course Meters Championships,2011,2
+SDSM,800 M Freestyle,SCM,M,40-44,9:36.60,Kenton R Jones,,SPMA Short Course Meters Championships,2011,1
+SDSM,1500 M Freestyle,SCM,M,40-44,18:51.60,Kenton R Jones,,2011 Ron Johnson Invitational,2011,1
+SDSM,1500 M Freestyle,SCM,M,40-44,22:20.39,Matthew J Shade,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Backstroke,SCM,M,40-44,33.90,Kenton R Jones,,UCLA Bruin Masters SCM Swim Meet,2011,1
+SDSM,50 M Backstroke,SCM,M,40-44,38.82,Silvio F Cuellar,,2011 Ron Johnson Invitational,2011,2
+SDSM,50 M Backstroke,SCM,M,40-44,39.94,Joe Clauson,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Backstroke,SCM,M,40-44,41.22,John R Gross,,SPMA Short Course Meters Championships,2011,4
+SDSM,100 M Backstroke,SCM,M,40-44,1:12.05,Kenton R Jones,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,40-44,1:22.79,Matthew J Shade,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Backstroke,SCM,M,40-44,1:29.55,Joe Clauson,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,100 M Backstroke,SCM,M,40-44,1:30.98,John R Gross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,4
+SDSM,200 M Backstroke,SCM,M,40-44,2:31.73,Kenton R Jones,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,40-44,34.04,Kenton R Jones,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,40-44,40.09,John R Gross,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Breaststroke,SCM,M,40-44,42.60,Silvio F Cuellar,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,100 M Breaststroke,SCM,M,40-44,1:16.23,Kenton R Jones,,2011 Ron Johnson Invitational,2011,1
+SDSM,100 M Breaststroke,SCM,M,40-44,1:29.98,John R Gross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Breaststroke,SCM,M,40-44,1:35.35,Silvio F Cuellar,,SPMA Short Course Meters Championships,2011,3
+SDSM,200 M Breaststroke,SCM,M,40-44,3:20.82,John R Gross,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,M,40-44,3:31.54,Matthew J Shade,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Butterfly,SCM,M,40-44,30.09,Kenton R Jones,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Butterfly,SCM,M,40-44,30.21,Matthew J Shade,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Butterfly,SCM,M,40-44,33.49,Cris Dobrosielski,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Butterfly,SCM,M,40-44,36.41,Joe Clauson,,SPMA Short Course Meters Championships,2011,4
+SDSM,200 M Butterfly,SCM,M,40-44,2:27.68,Kenton R Jones,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Butterfly,SCM,M,40-44,2:57.58,Terry Frogley,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Butterfly,SCM,M,40-44,3:12.59,Cris Dobrosielski,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Individual Medley,SCM,M,40-44,1:08.50,Kenton R Jones,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,40-44,1:18.49,Silvio F Cuellar,,East Valley Invite,2011,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:21.73,John R Gross,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Individual Medley,SCM,M,40-44,1:31.15,Joe Clauson,,San Diego Swim Masters 2011 SCM Meet,2011,4
+SDSM,200 M Individual Medley,SCM,M,40-44,2:37.86,Kenton R Jones,,2011 Ron Johnson Invitational,2011,1
+SDSM,200 M Individual Medley,SCM,M,40-44,2:56.19,Cris Dobrosielski,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Individual Medley,SCM,M,40-44,5:36.47,Kenton R Jones,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Freestyle,SCM,M,45-49,28.64,Will Bechtel,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Freestyle,SCM,M,45-49,29.11,Peter Merz,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Freestyle,SCM,M,45-49,32.53,Michael W Little,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,100 M Freestyle,SCM,M,45-49,1:03.75,Will Bechtel,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Freestyle,SCM,M,45-49,1:05.04,Peter Merz,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Freestyle,SCM,M,45-49,1:12.16,Joseph J Baldacci,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Freestyle,SCM,M,45-49,1:26.02,Michael W Little,,San Diego Swim Masters 2011 SCM Meet,2011,4
+SDSM,200 M Freestyle,SCM,M,45-49,2:28.06,Peter Merz,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,200 M Freestyle,SCM,M,45-49,2:42.83,John C Gravelle,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Freestyle,SCM,M,45-49,3:10.51,Michael W Little,,SPMA Short Course Meters Championships,2011,3
+SDSM,800 M Freestyle,SCM,M,45-49,10:20.31,Raymond H Summers,,SPMA Short Course Meters Championships,2011,1
+SDSM,1500 M Freestyle,SCM,M,45-49,21:00.51,Peter Merz,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,45-49,42.08,Jimmy W Harden,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Breaststroke,SCM,M,45-49,37.89,Joseph J Baldacci,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,45-49,39.70,Jimmy W Harden,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Breaststroke,SCM,M,45-49,39.90,Michael W Little,,SPMA Short Course Meters Championships,2011,3
+SDSM,50 M Breaststroke,SCM,M,45-49,41.69,Will Bechtel,,San Diego Swim Masters 2011 SCM Meet,2011,4
+SDSM,100 M Breaststroke,SCM,M,45-49,1:22.73,Joseph J Baldacci,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,M,45-49,1:22.74,Will Bechtel,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Breaststroke,SCM,M,45-49,1:26.48,Jimmy W Harden,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Breaststroke,SCM,M,45-49,1:36.11,Michael W Little,,SPMA Short Course Meters Championships,2011,4
+SDSM,200 M Breaststroke,SCM,M,45-49,3:07.13,Jimmy W Harden,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,45-49,29.66,Shaun P Whitaker,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:18.16,Joseph J Baldacci,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:21.56,John C Gravelle,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Individual Medley,SCM,M,45-49,1:23.10,Jimmy W Harden,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Individual Medley,SCM,M,45-49,1:33.68,Michael W Little,,SPMA Short Course Meters Championships,2011,4
+SDSM,200 M Individual Medley,SCM,M,45-49,2:46.78,Peter Merz,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Individual Medley,SCM,M,45-49,2:48.54,Joseph J Baldacci,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Individual Medley,SCM,M,45-49,5:45.47,Raymond H Summers,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Individual Medley,SCM,M,45-49,5:59.36,Peter Merz,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,400 M Individual Medley,SCM,M,45-49,6:17.00,Joseph J Baldacci,,SPMA Short Course Meters Championships,2011,3
+SDSM,400 M Individual Medley,SCM,M,45-49,7:03.64,Jimmy W Harden,,SPMA Short Course Meters Championships,2011,4
+SDSM,50 M Freestyle,SCM,M,50-54,29.36,Dan Stoneman,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,50-54,30.04,James A Ney,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Freestyle,SCM,M,50-54,1:06.73,James A Ney,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Freestyle,SCM,M,50-54,2:10.83,Alan Voisard,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Freestyle,SCM,M,50-54,2:24.09,Dan Stoneman,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Freestyle,SCM,M,50-54,6:02.29,Darrell L Jett,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,1500 M Freestyle,SCM,M,50-54,23:37.19,Darrell L Jett,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,M,50-54,36.97,Abel Menchaca,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,50-54,38.14,James A Ney,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,50 M Backstroke,SCM,M,50-54,39.69,Darrell L Jett,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,100 M Backstroke,SCM,M,50-54,1:23.99,Dan Stoneman,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,M,50-54,3:07.09,Darrell L Jett,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Breaststroke,SCM,M,50-54,37.62,Abel Menchaca,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,50-54,37.70,Dan Stoneman,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Breaststroke,SCM,M,50-54,1:26.76,Dan Stoneman,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,50-54,34.69,James A Ney,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:09.75,Alan Voisard,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:17.13,Dan Stoneman,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,M,55-59,29.24,John McLintock,,Huntsman Senior Games,2011,1
+SDSM,100 M Freestyle,SCM,M,55-59,1:11.18,John McLintock,,Huntsman Senior Games,2011,1
+SDSM,200 M Freestyle,SCM,M,55-59,2:45.99,Fabio Astudillo,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Freestyle,SCM,M,55-59,5:54.76,John McLintock,,Huntsman Senior Games,2011,1
+SDSM,50 M Backstroke,SCM,M,55-59,37.69,Jon R Schlueter,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,55-59,43.22,Fabio Astudillo,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Backstroke,SCM,M,55-59,1:25.02,Jon R Schlueter,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Backstroke,SCM,M,55-59,3:07.97,Jon R Schlueter,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Butterfly,SCM,M,55-59,33.55,John McLintock,,Huntsman Senior Games,2011,1
+SDSM,50 M Butterfly,SCM,M,55-59,34.33,Fabio Astudillo,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Butterfly,SCM,M,55-59,1:26.70,Fabio Astudillo,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,M,55-59,1:26.82,Jon R Schlueter,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Butterfly,SCM,M,55-59,3:26.48,Jon R Schlueter,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Butterfly,SCM,M,55-59,3:34.49,Fabio Astudillo,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Individual Medley,SCM,M,55-59,1:17.60,John McLintock,,Huntsman Senior Games,2011,1
+SDSM,100 M Individual Medley,SCM,M,55-59,1:23.50,Jon R Schlueter,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Individual Medley,SCM,M,55-59,2:55.64,John McLintock,,Huntsman Senior Games,2011,1
+SDSM,200 M Individual Medley,SCM,M,55-59,3:07.88,Jon R Schlueter,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,400 M Individual Medley,SCM,M,55-59,6:44.92,Jon R Schlueter,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,400 M Individual Medley,SCM,M,55-59,6:45.27,John McLintock,,Huntsman Senior Games,2011,2
+SDSM,50 M Freestyle,SCM,M,60-64,30.42,Bill G Behun,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,60-64,31.40,Federico Sicard,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Freestyle,SCM,M,60-64,1:00.87,Bill G Behun,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,100 M Freestyle,SCM,M,60-64,1:09.72,Federico Sicard,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Freestyle,SCM,M,60-64,2:22.01,Bill G Behun,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,400 M Freestyle,SCM,M,60-64,5:22.43,Federico Sicard,,SPMA Short Course Meters Championships,2011,1
+SDSM,800 M Freestyle,SCM,M,60-64,11:21.40,Federico Sicard,,SPMA Short Course Meters Championships,2011,1
+SDSM,1500 M Freestyle,SCM,M,60-64,29:03.41,Jorge E Martinez,,SPMA Short Course Meters Championships,2011,1
+SDSM,1500 M Freestyle,SCM,M,60-64,33:31.47,Federico Sicard,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Backstroke,SCM,M,60-64,1:33.52,Jorge E Martinez,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,M,60-64,3:16.57,Jorge E Martinez,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,60-64,29.85,Bill G Behun,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Butterfly,SCM,M,60-64,34.82,Jorge E Martinez,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Butterfly,SCM,M,60-64,1:12.08,Bill G Behun,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,M,60-64,1:20.82,Jorge E Martinez,,SPMA Short Course Meters Championships,2011,2
+SDSM,200 M Butterfly,SCM,M,60-64,3:15.71,Jorge E Martinez,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:15.32,Bill G Behun,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Individual Medley,SCM,M,60-64,6:16.78,Bill G Behun,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,65-69,30.75,Peter Andersen,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,65-69,37.73,Daniel W Henry,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Freestyle,SCM,M,65-69,45.69,Mark A Krakower,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Freestyle,SCM,M,65-69,1:12.11,Peter Andersen,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Freestyle,SCM,M,65-69,1:29.97,Daniel W Henry,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Freestyle,SCM,M,65-69,1:44.31,Mark A Krakower,,SPMA Short Course Meters Championships,2011,3
+SDSM,200 M Freestyle,SCM,M,65-69,3:09.85,Daniel W Henry,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Freestyle,SCM,M,65-69,3:52.97,Mark A Krakower,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,400 M Freestyle,SCM,M,65-69,6:56.83,Daniel W Henry,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Freestyle,SCM,M,65-69,8:13.26,Mark A Krakower,,SPMA Short Course Meters Championships,2011,2
+SDSM,800 M Freestyle,SCM,M,65-69,14:39.84,Daniel W Henry,,SPMA Short Course Meters Championships,2011,1
+SDSM,800 M Freestyle,SCM,M,65-69,17:19.18,Mark A Krakower,,SPMA Short Course Meters Championships,2011,2
+SDSM,1500 M Freestyle,SCM,M,65-69,32:26.32,Mark A Krakower,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,50 M Backstroke,SCM,M,65-69,45.23,Daniel W Henry,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,65-69,1:38.73,Daniel W Henry,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,M,65-69,3:38.23,Daniel W Henry,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Breaststroke,SCM,M,65-69,37.57,Peter Andersen,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,M,65-69,1:27.89,Peter Andersen,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,65-69,1:23.94,Peter Andersen,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,70-74,30.85,Mike R Freshley,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Freestyle,SCM,M,70-74,1:08.88,Brian M Jones,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Freestyle,SCM,M,70-74,1:09.14,Mike R Freshley,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Freestyle,SCM,M,70-74,1:45.68,Stephen C Cross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Freestyle,SCM,M,70-74,2:33.88,Brian M Jones,,SPMA Short Course Meters Championships,2011,3
+SDSM,200 M Freestyle,SCM,M,70-74,2:40.14,Mike R Freshley,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Freestyle,SCM,M,70-74,2:44.92,Frank Williams,,SPMA Short Course Meters Championships,2011,2
+SDSM,400 M Freestyle,SCM,M,70-74,5:47.38,Frank Williams,,SPMA Short Course Meters Championships,2011,1
+SDSM,800 M Freestyle,SCM,M,70-74,12:05.68,Frank Williams,,SPMA Short Course Meters Championships,2011,1
+SDSM,1500 M Freestyle,SCM,M,70-74,23:51.97,Frank Williams,,SPMA Short Course Meters Championships,2011,1
+SDSM,1500 M Freestyle,SCM,M,70-74,30:57.71,Stephen C Cross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,50 M Backstroke,SCM,M,70-74,37.37,Mike R Freshley,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,M,70-74,1:03.52,Brian M Jones,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Breaststroke,SCM,M,70-74,39.32,Mike R Freshley,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,70-74,59.95,Brian M Jones,,SPMA Short Course Meters Championships,2011,2
+SDSM,100 M Breaststroke,SCM,M,70-74,1:26.92,Mike R Freshley,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,M,70-74,3:07.85,Mike R Freshley,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,200 M Breaststroke,SCM,M,70-74,4:34.14,Stephen C Cross,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,50 M Butterfly,SCM,M,70-74,33.27,Mike R Freshley,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,M,70-74,1:26.29,Frank Williams,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Butterfly,SCM,M,70-74,1:30.59,Mike R Freshley,,UCLA Bruin Masters SCM Swim Meet,2011,2
+SDSM,200 M Butterfly,SCM,M,70-74,3:26.07,Frank Williams,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,70-74,1:20.10,Mike R Freshley,,Huntsman Senior Games,2011,1
+SDSM,200 M Individual Medley,SCM,M,70-74,2:54.26,Mike R Freshley,,SPMA Short Course Meters Championships,2011,1
+SDSM,400 M Individual Medley,SCM,M,70-74,6:36.77,Mike R Freshley,,Huntsman Senior Games,2011,1
+SDSM,50 M Freestyle,SCM,M,75-79,34.57,Bob Best,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,75-79,40.22,Bill Coles,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,50 M Freestyle,SCM,M,75-79,42.27,Tom Mitchell,,UCLA Bruin Masters SCM Swim Meet,2011,3
+SDSM,100 M Freestyle,SCM,M,75-79,1:21.68,Bob Best,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,200 M Freestyle,SCM,M,75-79,3:14.24,Bob Best,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,50 M Backstroke,SCM,M,75-79,47.47,Eric Hubach,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,75-79,47.85,Bill A Coles,,2011 Ron Johnson Invitational,2011,2
+SDSM,100 M Backstroke,SCM,M,75-79,1:43.85,Eric Hubach,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,75-79,1:48.29,Bill A Coles,,2011 Ron Johnson Invitational,2011,2
+SDSM,200 M Backstroke,SCM,M,75-79,3:43.83,Eric Hubach,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,M,75-79,3:49.38,Bill Coles,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,50 M Breaststroke,SCM,M,75-79,44.15,Bob Best,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,75-79,52.35,Bill A Coles,,2011 Ron Johnson Invitational,2011,2
+SDSM,50 M Breaststroke,SCM,M,75-79,54.25,Eric Hubach,,San Diego Swim Masters 2011 SCM Meet,2011,3
+SDSM,50 M Breaststroke,SCM,M,75-79,56.00,Tom Mitchell,,UCLA Bruin Masters SCM Swim Meet,2011,4
+SDSM,100 M Breaststroke,SCM,M,75-79,1:43.90,Bob Best,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,M,75-79,2:01.07,Eric Hubach,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,100 M Breaststroke,SCM,M,75-79,2:06.19,Tom Mitchell,,UCLA Bruin Masters SCM Swim Meet,2011,3
+SDSM,200 M Breaststroke,SCM,M,75-79,4:02.23,Bob Best,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,M,75-79,4:17.28,Eric Hubach,,SPMA Short Course Meters Championships,2011,2
+SDSM,50 M Butterfly,SCM,M,75-79,47.64,Bob Best,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1
+SDSM,100 M Butterfly,SCM,M,75-79,1:54.73,Bob Best,,San Diego Swim Masters 2011 SCM Meet,2011,1
+SDSM,100 M Individual Medley,SCM,M,75-79,1:34.45,Bob Best,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Individual Medley,SCM,M,75-79,1:52.99,Eric Hubach,,San Diego Swim Masters 2011 SCM Meet,2011,2
+SDSM,200 M Individual Medley,SCM,M,75-79,3:37.21,Bob Best,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Freestyle,SCM,M,80-84,41.41,Donald J Baker,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Freestyle,SCM,M,80-84,46.17,Jordan B Wolle,,Huntsman Senior Games,2011,2
+SDSM,50 M Freestyle,SCM,M,80-84,48.78,Ken Kimball,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Freestyle,SCM,M,80-84,1:21.94,Frank Tanner,,Huntsman Senior Games,2011,1
+SDSM,100 M Freestyle,SCM,M,80-84,1:35.94,Donald J Baker,,Huntsman Senior Games,2011,2
+SDSM,100 M Freestyle,SCM,M,80-84,1:40.70,Ken Kimball,,SPMA Short Course Meters Championships,2011,3
+SDSM,100 M Freestyle,SCM,M,80-84,1:53.85,Jordan B Wolle,,Huntsman Senior Games,2011,4
+SDSM,200 M Freestyle,SCM,M,80-84,3:12.63,Frank Tanner,,Huntsman Senior Games,2011,1
+SDSM,200 M Freestyle,SCM,M,80-84,3:48.51,Donald J Baker,,Huntsman Senior Games,2011,2
+SDSM,200 M Freestyle,SCM,M,80-84,4:33.37,Jordan B Wolle,,Huntsman Senior Games,2011,3
+SDSM,400 M Freestyle,SCM,M,80-84,8:24.66,Donald J Baker,,Huntsman Senior Games,2011,1
+SDSM,400 M Freestyle,SCM,M,80-84,9:15.48,Jordan B Wolle,,Huntsman Senior Games,2011,2
+SDSM,800 M Freestyle,SCM,M,80-84,17:40.35,Donald J Baker,,Huntsman Senior Games,2011,1
+SDSM,800 M Freestyle,SCM,M,80-84,19:19.33,Jordan B Wolle,,Huntsman Senior Games,2011,2
+SDSM,1500 M Freestyle,SCM,M,80-84,34:40.47,Donald J Baker,,Huntsman Senior Games,2011,1
+SDSM,1500 M Freestyle,SCM,M,80-84,36:31.54,Jordan B Wolle,,Huntsman Senior Games,2011,2
+SDSM,50 M Backstroke,SCM,M,80-84,53.39,Donald J Baker,,2011 Ron Johnson Invitational,2011,1
+SDSM,50 M Backstroke,SCM,M,80-84,54.36,Ken Kimball,,Huntsman Senior Games,2011,2
+SDSM,100 M Backstroke,SCM,M,80-84,1:56.90,Ken Kimball,,Huntsman Senior Games,2011,1
+SDSM,100 M Backstroke,SCM,M,80-84,2:08.37,Donald J Baker,,2011 Ron Johnson Invitational,2011,2
+SDSM,200 M Backstroke,SCM,M,80-84,4:27.76,Ken Kimball,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Backstroke,SCM,M,80-84,4:45.42,Donald J Baker,,2011 Ron Johnson Invitational,2011,2
+SDSM,50 M Breaststroke,SCM,M,80-84,50.59,Frederick J Hoppe,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,80-84,55.30,Donald J Baker,,Huntsman Senior Games,2011,2
+SDSM,100 M Breaststroke,SCM,M,80-84,1:52.89,Frederick J Hoppe,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Breaststroke,SCM,M,80-84,2:04.87,Donald J Baker,,Huntsman Senior Games,2011,2
+SDSM,200 M Breaststroke,SCM,M,80-84,4:17.21,Frederick J Hoppe,,SPMA Short Course Meters Championships,2011,1
+SDSM,200 M Breaststroke,SCM,M,80-84,4:49.78,Donald J Baker,,Huntsman Senior Games,2011,2
+SDSM,50 M Butterfly,SCM,M,80-84,49.65,Frederick J Hoppe,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Butterfly,SCM,M,80-84,1:36.78,Ken Kimball,,Huntsman Senior Games,2011,2
+SDSM,100 M Butterfly,SCM,M,80-84,2:25.18,Donald J Baker,,2011 Ron Johnson Invitational,2011,1
+SDSM,200 M Butterfly,SCM,M,80-84,4:27.06,Frank Tanner,,Huntsman Senior Games,2011,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:41.29,Frank Tanner,,Huntsman Senior Games,2011,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:51.95,Frederick J Hoppe,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,2
+SDSM,100 M Individual Medley,SCM,M,80-84,1:57.45,Donald J Baker,,2011 Ron Johnson Invitational,2011,3
+SDSM,100 M Individual Medley,SCM,M,80-84,2:18.84,Ken Kimball,,Huntsman Senior Games,2011,4
+SDSM,200 M Individual Medley,SCM,M,80-84,3:38.22,Frank Tanner,,Huntsman Senior Games,2011,1
+SDSM,200 M Individual Medley,SCM,M,80-84,4:32.21,Donald J Baker,,Huntsman Senior Games,2011,2
+SDSM,400 M Individual Medley,SCM,M,80-84,8:03.48,Frank Tanner,,Huntsman Senior Games,2011,1
+SDSM,50 M Freestyle,SCM,M,85-89,42.06,Dale A Webster,,2011 Ron Johnson Invitational,2011,1
+SDSM,100 M Freestyle,SCM,M,85-89,1:34.63,Dale A Webster,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Backstroke,SCM,M,85-89,50.11,Dale A Webster,,SPMA Short Course Meters Championships,2011,1
+SDSM,100 M Backstroke,SCM,M,85-89,1:54.23,Dale A Webster,,2011 Ron Johnson Invitational,2011,1
+SDSM,200 M Backstroke,SCM,M,85-89,4:23.67,Dale A Webster,,SPMA Short Course Meters Championships,2011,1
+SDSM,50 M Breaststroke,SCM,M,85-89,1:25.93,Dale A Webster,,2011 Ron Johnson Invitational,2011,1
+UNAT,100 M Freestyle,SCM,M,18-24,1:08.05,Vincent R Kennedy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,100 M Breaststroke,SCM,M,18-24,1:31.19,Vincent R Kennedy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,100 M Individual Medley,SCM,M,18-24,1:14.91,Vincent R Kennedy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,50 M Freestyle,SCM,M,25-29,33.49,Ghaleb Hamdan,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,25-29,1:15.66,Ghaleb Hamdan,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,200 M Freestyle,SCM,M,25-29,2:47.21,Ghaleb Hamdan,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,50-54,1:47.76,Frank Kennedy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,200 M Freestyle,SCM,M,50-54,3:54.17,Frank Kennedy,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,50 M Freestyle,SCM,M,65-69,34.74,Dale Wilson,,San Diego Swim Masters 2011 SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,65-69,1:20.80,Dale Wilson,,San Diego Swim Masters 2011 SCM Meet,2011,1

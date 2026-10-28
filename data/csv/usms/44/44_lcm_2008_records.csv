@@ -1,0 +1,417 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CARL,50 M Breaststroke,LCM,W,35-39,38.29,LeAnne C Farmer,,2008 USMS Long Course Nationals,2008,1
+CARL,100 M Breaststroke,LCM,W,35-39,1:24.12,LeAnne C Farmer,,2008 USMS Long Course Nationals,2008,1
+CARL,200 M Breaststroke,LCM,W,35-39,3:03.81,LeAnne C Farmer,,2008 USMS Long Course Nationals,2008,1
+CARL,200 M Individual Medley,LCM,W,35-39,2:53.20,LeAnne C Farmer,,2008 USMS Long Course Nationals,2008,1
+HSAM,50 M Backstroke,LCM,W,18-24,40.33,Steena M Harriman,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,400 M Freestyle,LCM,W,25-29,5:35.41,Christine M Spicer,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Backstroke,LCM,W,25-29,3:16.52,Christine M Spicer,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Breaststroke,LCM,W,25-29,1:40.22,Christine M Spicer,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Freestyle,LCM,W,40-44,2:31.23,Diana R Philippi,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,800 M Freestyle,LCM,W,40-44,10:31.18,Diana R Philippi,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Butterfly,LCM,W,40-44,2:47.90,Diana R Philippi,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,50 M Freestyle,LCM,W,45-49,37.07,Bonnie J Stockton,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Freestyle,LCM,W,45-49,1:20.03,Bonnie J Stockton,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Freestyle,LCM,W,45-49,2:50.55,Bonnie J Stockton,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,400 M Freestyle,LCM,W,45-49,6:00.23,Bonnie J Stockton,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,400 M Freestyle,LCM,W,65-69,7:56.60,Marlee R Valderhaug,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,800 M Freestyle,LCM,W,65-69,15:43.44,Marilyn A Ramey,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,800 M Freestyle,LCM,W,65-69,16:14.95,Marlee R Valderhaug,,San Diego Imperial LMSC LCM Champs,2008,2
+HSAM,200 M Backstroke,LCM,W,65-69,4:17.04,Marilyn A Ramey,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Breaststroke,LCM,W,65-69,2:04.17,Marilyn A Ramey,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Breaststroke,LCM,W,65-69,4:17.01,Marilyn A Ramey,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Individual Medley,LCM,W,65-69,4:06.35,Marilyn A Ramey,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Freestyle,LCM,M,18-24,1:00.05,Weston A Thompson,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,50 M Breaststroke,LCM,M,18-24,35.09,Weston A Thompson,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Breaststroke,LCM,M,18-24,1:17.39,Weston A Thompson,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,50 M Breaststroke,LCM,M,25-29,35.70,David G Heiland,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Breaststroke,LCM,M,25-29,1:21.13,David G Heiland,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,50 M Butterfly,LCM,M,25-29,29.62,David G Heiland,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,50 M Freestyle,LCM,M,50-54,36.08,Jackie C Larkin,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,100 M Freestyle,LCM,M,50-54,1:03.80,Bill McNulty,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Freestyle,LCM,M,50-54,2:19.26,Ned S Maggiora,,2008 USMS Long Course Nationals,2008,1
+HSAM,400 M Freestyle,LCM,M,50-54,4:56.28,Ned S Maggiora,,2008 USMS Long Course Nationals,2008,1
+HSAM,800 M Freestyle,LCM,M,50-54,10:25.34,Ned S Maggiora,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,1500 M Freestyle,LCM,M,50-54,19:33.83,Ned S Maggiora,,2008 USMS Long Course Nationals,2008,1
+HSAM,100 M Butterfly,LCM,M,50-54,1:15.39,Ned S Maggiora,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,200 M Butterfly,LCM,M,50-54,2:44.11,Ned S Maggiora,,2008 USMS Long Course Nationals,2008,1
+HSAM,200 M Butterfly,LCM,M,50-54,2:49.29,Bill McNulty,,San Diego Imperial LMSC LCM Champs,2008,2
+HSAM,200 M Individual Medley,LCM,M,50-54,2:44.81,Ned S Maggiora,,San Diego Imperial LMSC LCM Champs,2008,1
+HSAM,400 M Individual Medley,LCM,M,50-54,5:46.66,Ned S Maggiora,,2008 USMS Long Course Nationals,2008,1
+LJSM,50 M Freestyle,LCM,W,25-29,29.62,Erin E Mc Intyre,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Freestyle,LCM,W,25-29,31.64,Evelyn W Peelle,,San Diego Imperial LMSC LCM Champs,2008,2
+LJSM,100 M Freestyle,LCM,W,25-29,1:04.27,Erin E Mc Intyre,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,100 M Freestyle,LCM,W,25-29,1:11.57,Evelyn W Peelle,,San Diego Imperial LMSC LCM Champs,2008,2
+LJSM,200 M Freestyle,LCM,W,25-29,2:17.86,Erin E Mc Intyre,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Backstroke,LCM,W,25-29,39.26,Evelyn W Peelle,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Breaststroke,LCM,W,25-29,48.26,Evelyn W Peelle,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Butterfly,LCM,W,25-29,34.56,Evelyn W Peelle,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,100 M Butterfly,LCM,W,25-29,1:09.13,Erin E Mc Intyre,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,200 M Individual Medley,LCM,W,25-29,2:34.99,Erin E Mc Intyre,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,100 M Freestyle,LCM,M,25-29,56.19,Benjamin C Weston,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,1500 M Freestyle,LCM,M,25-29,18:57.62,Benjamin C Weston,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Butterfly,LCM,M,25-29,27.60,Benjamin C Weston,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,100 M Freestyle,LCM,M,30-34,1:00.42,Ryan F Foster,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,200 M Freestyle,LCM,M,30-34,2:13.16,Ryan F Foster,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,400 M Freestyle,LCM,M,30-34,4:50.08,Ryan F Foster,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,100 M Backstroke,LCM,M,30-34,1:14.60,Rodrigo J Iglesias,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Butterfly,LCM,M,30-34,31.23,Ryan F Foster,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,200 M Individual Medley,LCM,M,30-34,2:32.90,Rodrigo J Iglesias,,San Diego Imperial LMSC LCM Champs,2008,1
+LJSM,50 M Freestyle,LCM,M,35-39,25.45,Paton M McClung,,2008 USMS Long Course Nationals,2008,1
+LJSM,100 M Freestyle,LCM,M,35-39,57.14,Paton M McClung,,2008 USMS Long Course Nationals,2008,1
+LJSM,50 M Butterfly,LCM,M,35-39,28.85,Paton M McClung,,2008 USMS Long Course Nationals,2008,1
+LJSM,50 M Freestyle,LCM,M,65-69,29.23,John K Whitley,,2008 USMS Long Course Nationals,2008,1
+LJSM,100 M Freestyle,LCM,M,65-69,1:07.08,John K Whitley,,2008 World Masters Champs LCM at Perth,2008,1
+LJSM,50 M Backstroke,LCM,M,65-69,36.46,John K Whitley,,2008 World Masters Champs LCM at Perth,2008,1
+LJSM,100 M Backstroke,LCM,M,65-69,1:24.13,John K Whitley,,2008 World Masters Champs LCM at Perth,2008,1
+LJSM,50 M Butterfly,LCM,M,65-69,34.25,John K Whitley,,2008 USMS Long Course Nationals,2008,1
+SBSM,200 M Freestyle,LCM,W,30-34,2:40.53,Almut C Reinicke,,2008 World Masters Champs LCM at Perth,2008,1
+SBSM,400 M Freestyle,LCM,W,30-34,5:38.86,Almut C Reinicke,,2008 World Masters Champs LCM at Perth,2008,1
+SBSM,100 M Breaststroke,LCM,W,30-34,1:29.10,Almut C Reinicke,,2008 World Masters Champs LCM at Perth,2008,1
+SBSM,200 M Breaststroke,LCM,W,30-34,3:10.79,Almut C Reinicke,,2008 World Masters Champs LCM at Perth,2008,1
+SBSM,50 M Freestyle,LCM,W,35-39,44.94,Pey-Lih H Littler,,San Diego Imperial LMSC LCM Champs,2008,1
+SBSM,100 M Freestyle,LCM,W,35-39,1:39.36,Pey-Lih H Littler,,San Diego Imperial LMSC LCM Champs,2008,1
+SBSM,50 M Freestyle,LCM,M,35-39,30.13,Robert P Nichols,,2008 World Masters Champs LCM at Perth,2008,1
+SBSM,100 M Freestyle,LCM,M,35-39,1:10.26,Robert P Nichols,,2008 World Masters Champs LCM at Perth,2008,1
+SBSM,50 M Freestyle,LCM,M,40-44,26.66,Rob J Mackle,,San Diego Imperial LMSC LCM Champs,2008,1
+SBSM,100 M Freestyle,LCM,M,40-44,57.41,Rob J Mackle,,2008 USMS Long Course Nationals,2008,1
+SBSM,200 M Freestyle,LCM,M,40-44,2:04.91,Rob J Mackle,,San Diego Imperial LMSC LCM Champs,2008,1
+SBSM,400 M Freestyle,LCM,M,40-44,4:23.37,Rob J Mackle,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Freestyle,LCM,W,18-24,38.37,Erin G Carmody,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Freestyle,LCM,W,18-24,1:06.47,Emily S Parker,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Freestyle,LCM,W,18-24,1:28.49,Erin G Carmody,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Freestyle,LCM,W,18-24,2:22.44,Emily S Parker,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,400 M Freestyle,LCM,W,18-24,5:09.00,Emily S Parker,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Backstroke,LCM,W,18-24,45.19,Erin G Carmody,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Backstroke,LCM,W,18-24,1:18.99,Emily S Parker,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Backstroke,LCM,W,18-24,1:37.53,Erin G Carmody,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Backstroke,LCM,W,18-24,3:33.58,Erin G Carmody,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,W,25-29,37.08,Melissa Halverson,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Freestyle,LCM,W,25-29,1:20.47,Melissa Halverson,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,1500 M Freestyle,LCM,W,25-29,30:04.83,Charlotte T Bockman,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Breaststroke,LCM,W,25-29,46.28,Melissa Halverson,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Breaststroke,LCM,W,30-34,39.23,Tabitha S Frawley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Butterfly,LCM,W,30-34,1:21.10,Tabitha S Frawley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Individual Medley,LCM,W,30-34,2:49.11,Tabitha S Frawley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,W,35-39,33.02,Kara W Barnett,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Backstroke,LCM,W,35-39,40.24,Kara W Barnett,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Butterfly,LCM,W,35-39,36.92,Kara W Barnett,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Freestyle,LCM,W,45-49,1:00.02,Karlyn Pipes-Neilsen,,2008 USMS Long Course Nationals,2008,1
+SDSM,400 M Freestyle,LCM,W,45-49,5:00.65,Caroline M Krattli,,Mission Viejo LCM meet,2008,1
+SDSM,1500 M Freestyle,LCM,W,45-49,18:50.04,Karlyn Pipes-Neilsen,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Backstroke,LCM,W,45-49,37.07,Linda K Rudolf,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Backstroke,LCM,W,45-49,1:08.48,Karlyn Pipes-Neilsen,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Backstroke,LCM,W,45-49,1:24.78,Linda K Rudolf,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Backstroke,LCM,W,45-49,2:26.30,Karlyn Pipes-Neilsen,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Backstroke,LCM,W,45-49,2:59.87,Linda K Rudolf,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Breaststroke,LCM,W,45-49,35.24,Caroline M Krattli,,Mission Viejo LCM meet,2008,1
+SDSM,100 M Breaststroke,LCM,W,45-49,1:18.01,Caroline M Krattli,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Breaststroke,LCM,W,45-49,2:51.41,Caroline M Krattli,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Butterfly,LCM,W,45-49,32.42,Caroline M Krattli,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Butterfly,LCM,W,45-49,36.62,Linda K Rudolf,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Individual Medley,LCM,W,45-49,2:27.57,Karlyn Pipes-Neilsen,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Individual Medley,LCM,W,45-49,2:39.22,Caroline M Krattli,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Freestyle,LCM,W,50-54,33.16,Marilyn A Fink,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,W,50-54,43.09,Kim Miller,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Freestyle,LCM,W,50-54,1:13.70,Marilyn A Fink,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Backstroke,LCM,W,50-54,38.98,Marilyn A Fink,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Backstroke,LCM,W,50-54,53.98,Kim Miller,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Backstroke,LCM,W,50-54,1:26.70,Marilyn A Fink,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,W,50-54,1:51.06,Kim Miller,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Butterfly,LCM,W,50-54,45.63,Kim Miller,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,W,55-59,41.26,Gini M Baker,,Pacific Menlo Masters Dick Bennett Memorial LCM,2008,1
+SDSM,50 M Freestyle,LCM,W,55-59,45.30,Diane M Hirakawa,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Freestyle,LCM,W,55-59,53.87,Laura G Meldrum,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,100 M Freestyle,LCM,W,55-59,1:29.44,Gini M Baker,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,W,55-59,1:32.54,Susan E Weston,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Freestyle,LCM,W,55-59,2:47.24,Barbara G Dunbar,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Freestyle,LCM,W,55-59,3:21.39,Susan E Weston,,2008 USMS Long Course Nationals,2008,2
+SDSM,200 M Freestyle,LCM,W,55-59,3:22.09,Gini M Baker,,2008 USMS Long Course Nationals,2008,3
+SDSM,400 M Freestyle,LCM,W,55-59,5:35.17,Barbara G Dunbar,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,400 M Freestyle,LCM,W,55-59,7:17.68,Gini M Baker,,2008 USMS Long Course Nationals,2008,2
+SDSM,800 M Freestyle,LCM,W,55-59,11:35.88,Barbara G Dunbar,,Mission Viejo LCM meet,2008,1
+SDSM,800 M Freestyle,LCM,W,55-59,14:59.08,Gini M Baker,,2008 USMS Long Course Nationals,2008,2
+SDSM,1500 M Freestyle,LCM,W,55-59,21:47.06,Barbara G Dunbar,,Mission Viejo LCM meet,2008,1
+SDSM,1500 M Freestyle,LCM,W,55-59,29:29.81,Gini M Baker,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Backstroke,LCM,W,55-59,58.81,Laura G Meldrum,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Backstroke,LCM,W,55-59,2:08.16,Laura G Meldrum,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Breaststroke,LCM,W,55-59,57.51,Diane M Hirakawa,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Breaststroke,LCM,W,55-59,1:14.29,Laura G Meldrum,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Breaststroke,LCM,W,55-59,2:01.81,Diane M Hirakawa,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,W,55-59,2:09.95,Gini M Baker,,PAC Masters LCM Champs at Santa Cruz,2008,2
+SDSM,200 M Breaststroke,LCM,W,55-59,4:47.45,Gini M Baker,,PAC Masters LCM Champs at Santa Cruz,2008,1
+SDSM,50 M Butterfly,LCM,W,55-59,37.98,Barbara G Dunbar,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Butterfly,LCM,W,55-59,40.98,Susan E Weston,,2008 USMS Long Course Nationals,2008,2
+SDSM,50 M Butterfly,LCM,W,55-59,50.85,Diane M Hirakawa,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,50 M Butterfly,LCM,W,55-59,1:01.33,Laura G Meldrum,,San Diego Imperial LMSC LCM Champs,2008,4
+SDSM,100 M Butterfly,LCM,W,55-59,1:22.62,Barbara G Dunbar,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Butterfly,LCM,W,55-59,3:06.90,Barbara G Dunbar,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Butterfly,LCM,W,55-59,4:09.86,Susan E Weston,,2008 USMS Long Course Nationals,2008,2
+SDSM,200 M Individual Medley,LCM,W,55-59,3:13.80,Barbara G Dunbar,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Individual Medley,LCM,W,55-59,3:56.02,Susan E Weston,,2008 USMS Long Course Nationals,2008,2
+SDSM,200 M Individual Medley,LCM,W,55-59,4:24.73,Diane M Hirakawa,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,400 M Individual Medley,LCM,W,55-59,6:36.41,Barbara G Dunbar,,Mission Viejo LCM meet,2008,1
+SDSM,400 M Individual Medley,LCM,W,55-59,8:17.23,Susan E Weston,,2008 USMS Long Course Nationals,2008,2
+SDSM,100 M Freestyle,LCM,W,65-69,1:15.75,Jackie M Marr,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Freestyle,LCM,W,65-69,2:45.42,Jackie M Marr,,Arizona LC State Champs at Brophy,2008,1
+SDSM,400 M Freestyle,LCM,W,65-69,5:46.65,Jackie M Marr,,2008 USMS Long Course Nationals,2008,1
+SDSM,800 M Freestyle,LCM,W,65-69,11:55.93,Jackie M Marr,,2008 USMS Long Course Nationals,2008,1
+SDSM,1500 M Freestyle,LCM,W,65-69,23:07.49,Jackie M Marr,,Sun Devil Invite at Mona Plummer Pool,2008,1
+SDSM,50 M Backstroke,LCM,W,65-69,46.05,Jackie M Marr,,Arizona LC State Champs at Brophy,2008,1
+SDSM,100 M Backstroke,LCM,W,65-69,1:32.39,Jackie M Marr,,Oregon Association LCM Champs,2008,1
+SDSM,200 M Backstroke,LCM,W,65-69,3:15.75,Jackie M Marr,,Oregon Association LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,W,65-69,1:51.22,Jackie M Marr,,Arizona LC State Champs at Brophy,2008,1
+SDSM,100 M Butterfly,LCM,W,65-69,1:45.51,Jackie M Marr,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Individual Medley,LCM,W,65-69,3:13.33,Jackie M Marr,,2008 USMS Long Course Nationals,2008,1
+SDSM,400 M Individual Medley,LCM,W,65-69,6:54.46,Jackie M Marr,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Freestyle,LCM,W,70-74,37.48,Jeanne Little,,Pasadena Senior Games,2008,1
+SDSM,50 M Freestyle,LCM,W,70-74,37.77,Gynt H Clifford,,Arizona LC State Champs at Brophy,2008,2
+SDSM,50 M Freestyle,LCM,W,70-74,41.83,Betsy T Jordan,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,100 M Freestyle,LCM,W,70-74,1:28.05,Jeanne Little,,Pasadena Senior Games,2008,1
+SDSM,100 M Freestyle,LCM,W,70-74,1:31.23,Gynt H Clifford,,Arizona LC State Champs at Brophy,2008,2
+SDSM,100 M Freestyle,LCM,W,70-74,1:32.92,Betsy T Jordan,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,100 M Freestyle,LCM,W,70-74,1:37.01,Adrienne S Pipes,,2008 World Masters Champs LCM at Perth,2008,4
+SDSM,200 M Freestyle,LCM,W,70-74,3:12.54,Betsy T Jordan,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Freestyle,LCM,W,70-74,3:18.69,Jeanne Little,,Mission Viejo LCM meet,2008,2
+SDSM,200 M Freestyle,LCM,W,70-74,3:19.70,Gynt H Clifford,,Arizona LC State Champs at Brophy,2008,3
+SDSM,200 M Freestyle,LCM,W,70-74,3:25.70,Anne H Williams,,San Diego Imperial LMSC LCM Champs,2008,4
+SDSM,200 M Freestyle,LCM,W,70-74,3:31.11,Adrienne S Pipes,,2008 World Masters Champs LCM at Perth,2008,5
+SDSM,400 M Freestyle,LCM,W,70-74,6:56.77,Anne H Williams,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,400 M Freestyle,LCM,W,70-74,7:04.33,Betsy T Jordan,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,400 M Freestyle,LCM,W,70-74,7:22.78,Adrienne S Pipes,,2008 World Masters Champs LCM at Perth,2008,3
+SDSM,400 M Freestyle,LCM,W,70-74,7:23.83,Jeanne Little,,Pasadena Senior Games,2008,4
+SDSM,800 M Freestyle,LCM,W,70-74,13:57.65,Anne H Williams,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,800 M Freestyle,LCM,W,70-74,14:27.23,Betsy T Jordan,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,800 M Freestyle,LCM,W,70-74,15:11.43,Adrienne S Pipes,,2008 World Masters Champs LCM at Perth,2008,3
+SDSM,1500 M Freestyle,LCM,W,70-74,27:13.09,Betsy T Jordan,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Backstroke,LCM,W,70-74,43.74,Betsy T Jordan,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Backstroke,LCM,W,70-74,1:41.38,Betsy T Jordan,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Backstroke,LCM,W,70-74,3:37.25,Betsy T Jordan,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Breaststroke,LCM,W,70-74,51.25,Anne H Williams,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,W,70-74,1:51.02,Anne H Williams,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,W,70-74,2:04.22,Betsy T Jordan,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Breaststroke,LCM,W,70-74,3:54.23,Anne H Williams,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Breaststroke,LCM,W,70-74,4:45.24,Betsy T Jordan,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Butterfly,LCM,W,70-74,44.19,Betsy T Jordan,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Butterfly,LCM,W,70-74,45.79,Gynt H Clifford,,Arizona LC State Champs at Brophy,2008,2
+SDSM,50 M Butterfly,LCM,W,70-74,46.17,Jeanne Little,,Pasadena Senior Games,2008,3
+SDSM,50 M Butterfly,LCM,W,70-74,54.36,Adrienne S Pipes,,2008 World Masters Champs LCM at Perth,2008,4
+SDSM,100 M Butterfly,LCM,W,70-74,1:50.70,Gynt H Clifford,,Arizona LC State Champs at Brophy,2008,1
+SDSM,100 M Butterfly,LCM,W,70-74,1:51.40,Betsy T Jordan,,Mission Viejo LCM meet,2008,2
+SDSM,200 M Butterfly,LCM,W,70-74,4:13.55,Betsy T Jordan,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Individual Medley,LCM,W,70-74,3:47.80,Betsy T Jordan,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Individual Medley,LCM,W,70-74,3:57.89,Gynt H Clifford,,Arizona LC State Champs at Brophy,2008,2
+SDSM,400 M Individual Medley,LCM,W,70-74,8:04.75,Betsy T Jordan,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,W,80-84,2:44.16,Marian E Wolle,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,200 M Freestyle,LCM,W,80-84,6:28.54,Marian E Wolle,,2008 USMS Long Course Nationals,2008,1
+SDSM,400 M Freestyle,LCM,W,80-84,13:01.80,Marian E Wolle,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Freestyle,LCM,M,18-24,32.43,Timothy M Schneider,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Freestyle,LCM,M,18-24,1:13.14,Timothy M Schneider,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,M,25-29,27.43,Chattrin Homcheon,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,M,25-29,28.96,Marc A Beard,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Freestyle,LCM,M,25-29,1:01.88,Chattrin Homcheon,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Freestyle,LCM,M,25-29,2:20.11,Robert H Krohn,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,M,25-29,1:17.55,Robert H Krohn,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Butterfly,LCM,M,25-29,1:09.21,Robert H Krohn,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,M,35-39,28.54,Antonio Whiteley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,M,35-39,41.88,Giuseppe A Lauritano,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Freestyle,LCM,M,35-39,1:08.45,P Cris Dobrosielski,,Mission Viejo LCM meet,2008,1
+SDSM,100 M Freestyle,LCM,M,35-39,1:33.53,Giuseppe A Lauritano,,2008 USMS Long Course Nationals,2008,2
+SDSM,200 M Freestyle,LCM,M,35-39,2:31.59,P Cris Dobrosielski,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Freestyle,LCM,M,35-39,3:31.45,Giuseppe A Lauritano,,2008 USMS Long Course Nationals,2008,2
+SDSM,50 M Breaststroke,LCM,M,35-39,34.48,Antonio Whiteley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Breaststroke,LCM,M,35-39,51.57,Giuseppe A Lauritano,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Breaststroke,LCM,M,35-39,1:17.96,Antonio Whiteley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,M,35-39,1:53.13,Giuseppe A Lauritano,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Breaststroke,LCM,M,35-39,3:17.55,Terry C Frogley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Butterfly,LCM,M,35-39,31.97,P Cris Dobrosielski,,Mission Viejo LCM meet,2008,1
+SDSM,100 M Butterfly,LCM,M,35-39,1:17.31,Terry C Frogley,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Individual Medley,LCM,M,35-39,2:52.09,P Cris Dobrosielski,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Individual Medley,LCM,M,35-39,2:52.77,Terry C Frogley,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Freestyle,LCM,M,40-44,27.62,Matthew J Shade,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,M,40-44,27.98,Matthew A Boese,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Freestyle,LCM,M,40-44,59.77,Kenton R Jones,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,M,40-44,1:02.18,Matthew A Boese,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Freestyle,LCM,M,40-44,1:02.37,Luke A Salerno,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,200 M Freestyle,LCM,M,40-44,2:13.46,Kenton R Jones,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,400 M Freestyle,LCM,M,40-44,4:38.91,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,1500 M Freestyle,LCM,M,40-44,18:32.52,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,50 M Backstroke,LCM,M,40-44,33.11,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,100 M Backstroke,LCM,M,40-44,1:14.12,Kenton R Jones,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Backstroke,LCM,M,40-44,2:43.07,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,50 M Breaststroke,LCM,M,40-44,35.04,Luke A Salerno,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,M,40-44,1:16.23,Luke A Salerno,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Breaststroke,LCM,M,40-44,1:17.13,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,200 M Breaststroke,LCM,M,40-44,2:49.60,Luke A Salerno,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Breaststroke,LCM,M,40-44,2:50.29,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,50 M Butterfly,LCM,M,40-44,29.19,Matthew J Shade,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Butterfly,LCM,M,40-44,29.66,Kenton R Jones,,2008 USMS Long Course Nationals,2008,2
+SDSM,100 M Butterfly,LCM,M,40-44,1:08.04,Matthew J Shade,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Butterfly,LCM,M,40-44,1:11.24,Kenton R Jones,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Individual Medley,LCM,M,40-44,2:34.21,Kenton R Jones,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,200 M Individual Medley,LCM,M,40-44,2:50.35,Matthew J Shade,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,400 M Individual Medley,LCM,M,40-44,5:23.28,Kenton R Jones,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Individual Medley,LCM,M,45-49,2:43.48,Dana J Groot,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Freestyle,LCM,M,50-54,26.30,Mark W Croshier,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Freestyle,LCM,M,50-54,28.17,Gerald C Livingston,,2008 USMS Long Course Nationals,2008,2
+SDSM,50 M Freestyle,LCM,M,50-54,28.92,Mark Wussler,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,50 M Freestyle,LCM,M,50-54,30.83,James A Ney,,San Diego Imperial LMSC LCM Champs,2008,4
+SDSM,100 M Freestyle,LCM,M,50-54,1:00.91,Gerald C Livingston,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,M,50-54,1:08.20,James A Ney,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Freestyle,LCM,M,50-54,2:18.65,Gerald C Livingston,,2008 USMS Long Course Nationals,2008,1
+SDSM,400 M Freestyle,LCM,M,50-54,4:58.19,Mark Wussler,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,400 M Freestyle,LCM,M,50-54,5:00.03,Gerald C Livingston,,2008 USMS Long Course Nationals,2008,2
+SDSM,400 M Freestyle,LCM,M,50-54,5:00.39,Jeffery C Milton,,Mission Viejo LCM meet,2008,3
+SDSM,800 M Freestyle,LCM,M,50-54,10:04.27,Jeffery C Milton,,Mission Viejo LCM meet,2008,1
+SDSM,800 M Freestyle,LCM,M,50-54,10:40.01,Gerald C Livingston,,2008 USMS Long Course Nationals,2008,2
+SDSM,1500 M Freestyle,LCM,M,50-54,18:48.72,Jeffery C Milton,,Mission Viejo LCM meet,2008,1
+SDSM,1500 M Freestyle,LCM,M,50-54,26:42.46,Darrell L Jett,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Backstroke,LCM,M,50-54,31.74,Mark W Croshier,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Backstroke,LCM,M,50-54,40.78,Darrell L Jett,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Backstroke,LCM,M,50-54,41.12,James A Ney,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,100 M Backstroke,LCM,M,50-54,1:08.23,Mark W Croshier,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Backstroke,LCM,M,50-54,1:30.97,Darrell L Jett,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Backstroke,LCM,M,50-54,2:42.87,Mark W Croshier,,Arizona LC State Champs at Brophy,2008,1
+SDSM,200 M Backstroke,LCM,M,50-54,3:21.14,Darrell L Jett,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Breaststroke,LCM,M,50-54,38.47,Mark W Croshier,,Arizona LC State Champs at Brophy,2008,1
+SDSM,100 M Breaststroke,LCM,M,50-54,1:25.32,Mark Wussler,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,50 M Butterfly,LCM,M,50-54,27.83,Mark W Croshier,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Butterfly,LCM,M,50-54,1:03.98,Mark W Croshier,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Individual Medley,LCM,M,50-54,2:43.42,Mark W Croshier,,Arizona LC State Champs at Brophy,2008,1
+SDSM,200 M Individual Medley,LCM,M,50-54,3:19.40,Darrell L Jett,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Freestyle,LCM,M,55-59,29.83,Harry G Duffield,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Freestyle,LCM,M,55-59,32.15,Fabio Astudillo,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,100 M Freestyle,LCM,M,55-59,1:10.39,Harry G Duffield,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,M,55-59,1:15.07,Fabio Astudillo,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,200 M Freestyle,LCM,M,55-59,2:46.23,Fabio Astudillo,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,200 M Freestyle,LCM,M,55-59,2:46.62,Harry G Duffield,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Butterfly,LCM,M,55-59,33.19,Fabio Astudillo,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,100 M Butterfly,LCM,M,55-59,1:30.86,Fabio Astudillo,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,200 M Butterfly,LCM,M,55-59,3:36.45,Fabio Astudillo,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,50 M Freestyle,LCM,M,65-69,27.74,Vinus Van Baalen,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Freestyle,LCM,M,65-69,29.76,Mike R Freshley,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,50 M Freestyle,LCM,M,65-69,33.00,Frank Williams,,Arizona LC Brute Squad Meet,2008,3
+SDSM,50 M Freestyle,LCM,M,65-69,35.73,Daniel W Henry,,San Diego Imperial LMSC LCM Champs,2008,4
+SDSM,100 M Freestyle,LCM,M,65-69,1:04.64,Vinus Van Baalen,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,M,65-69,1:10.48,Mike R Freshley,,Mission Viejo LCM meet,2008,2
+SDSM,200 M Freestyle,LCM,M,65-69,2:36.79,Mike R Freshley,,Las Vegas Masters LCM meet,2008,1
+SDSM,400 M Freestyle,LCM,M,65-69,5:58.25,Frank Williams,,Arizona LC Brute Squad Meet,2008,1
+SDSM,800 M Freestyle,LCM,M,65-69,12:35.66,Mike R Freshley,,Arizona LC State Champs at Brophy,2008,1
+SDSM,50 M Backstroke,LCM,M,65-69,33.74,Vinus Van Baalen,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Backstroke,LCM,M,65-69,40.26,Mike R Freshley,,Mission Viejo LCM meet,2008,2
+SDSM,50 M Backstroke,LCM,M,65-69,44.21,Daniel W Henry,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,100 M Backstroke,LCM,M,65-69,1:39.20,Daniel W Henry,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Backstroke,LCM,M,65-69,3:06.05,Vinus Van Baalen,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Breaststroke,LCM,M,65-69,39.72,Mike R Freshley,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,100 M Breaststroke,LCM,M,65-69,1:30.36,Mike R Freshley,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,50 M Butterfly,LCM,M,65-69,32.33,Mike R Freshley,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Butterfly,LCM,M,65-69,36.42,Frank Williams,,Arizona LC Brute Squad Meet,2008,2
+SDSM,100 M Butterfly,LCM,M,65-69,1:24.80,Mike R Freshley,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Butterfly,LCM,M,65-69,3:25.11,Mike R Freshley,,Arizona LC State Champs at Brophy,2008,1
+SDSM,200 M Butterfly,LCM,M,65-69,3:33.88,Frank Williams,,Arizona LC Brute Squad Meet,2008,2
+SDSM,200 M Individual Medley,LCM,M,65-69,2:51.50,Mike R Freshley,,2008 USMS Long Course Nationals,2008,1
+SDSM,400 M Individual Medley,LCM,M,65-69,6:23.16,Mike R Freshley,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Breaststroke,LCM,M,70-74,49.43,Peter E Riddle,,Mission Viejo LCM meet,2008,1
+SDSM,100 M Breaststroke,LCM,M,70-74,1:58.81,Peter E Riddle,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Freestyle,LCM,M,75-79,32.46,Bob Best,,Pasadena Senior Games,2008,1
+SDSM,50 M Freestyle,LCM,M,75-79,37.37,Donald J Baker,,PAC Masters LCM Champs at Santa Cruz,2008,2
+SDSM,50 M Freestyle,LCM,M,75-79,38.03,Tom Mitchell,,Mission Viejo LCM meet,2008,3
+SDSM,100 M Freestyle,LCM,M,75-79,1:29.70,Tom Mitchell,,Mission Viejo LCM meet,2008,1
+SDSM,100 M Freestyle,LCM,M,75-79,1:32.13,Donald J Baker,,PAC Masters LCM Champs at Santa Cruz,2008,2
+SDSM,200 M Freestyle,LCM,M,75-79,3:19.60,Donald J Baker,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Freestyle,LCM,M,75-79,3:27.36,Ken Kimball,,2008 USMS Long Course Nationals,2008,2
+SDSM,200 M Freestyle,LCM,M,75-79,3:27.46,Tom Mitchell,,Pasadena Senior Games,2008,3
+SDSM,400 M Freestyle,LCM,M,75-79,7:25.38,Tom Mitchell,,San Luis Obispo Masters LCM Meet,2008,1
+SDSM,400 M Freestyle,LCM,M,75-79,7:52.29,Donald J Baker,,2008 USMS Long Course Nationals,2008,2
+SDSM,400 M Freestyle,LCM,M,75-79,8:07.76,Ken Kimball,,2008 USMS Long Course Nationals,2008,3
+SDSM,800 M Freestyle,LCM,M,75-79,15:41.22,Tom Mitchell,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,800 M Freestyle,LCM,M,75-79,16:29.79,Donald J Baker,,2008 USMS Long Course Nationals,2008,2
+SDSM,1500 M Freestyle,LCM,M,75-79,30:04.86,Tom Mitchell,,Santa Clarita LCM Meet,2008,1
+SDSM,50 M Backstroke,LCM,M,75-79,48.01,Ken Kimball,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,50 M Backstroke,LCM,M,75-79,53.05,Tom Mitchell,,Santa Clarita LCM Meet,2008,2
+SDSM,100 M Backstroke,LCM,M,75-79,1:49.50,Ken Kimball,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,100 M Backstroke,LCM,M,75-79,2:03.92,Tom Mitchell,,Santa Clarita LCM Meet,2008,2
+SDSM,100 M Backstroke,LCM,M,75-79,2:05.76,Donald J Baker,,PAC Masters LCM Champs at Santa Cruz,2008,3
+SDSM,200 M Backstroke,LCM,M,75-79,4:02.60,Ken Kimball,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Backstroke,LCM,M,75-79,4:33.24,Tom Mitchell,,Santa Clarita LCM Meet,2008,2
+SDSM,200 M Backstroke,LCM,M,75-79,4:37.50,Donald J Baker,,PAC Masters LCM Champs at Santa Cruz,2008,3
+SDSM,50 M Breaststroke,LCM,M,75-79,43.66,Bob Best,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Breaststroke,LCM,M,75-79,51.48,Donald J Baker,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Breaststroke,LCM,M,75-79,53.33,Tom Mitchell,,Conejo Simi Long Course Regional Championships,2008,3
+SDSM,100 M Breaststroke,LCM,M,75-79,1:42.39,Bob Best,,Mission Viejo LCM meet,2008,1
+SDSM,100 M Breaststroke,LCM,M,75-79,1:59.30,Tom Mitchell,,San Luis Obispo Masters LCM Meet,2008,2
+SDSM,100 M Breaststroke,LCM,M,75-79,2:00.49,Donald J Baker,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,200 M Breaststroke,LCM,M,75-79,3:54.39,Bob Best,,Pasadena Senior Games,2008,1
+SDSM,200 M Breaststroke,LCM,M,75-79,4:17.06,Tom Mitchell,,Mission Viejo LCM meet,2008,2
+SDSM,50 M Butterfly,LCM,M,75-79,39.73,Bob Best,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Butterfly,LCM,M,75-79,48.78,Tom Mitchell,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,50 M Butterfly,LCM,M,75-79,58.32,Donald J Baker,,San Diego Imperial LMSC LCM Champs,2008,3
+SDSM,100 M Butterfly,LCM,M,75-79,1:51.60,Tom Mitchell,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,200 M Butterfly,LCM,M,75-79,4:21.21,Tom Mitchell,,Conejo Simi Long Course Regional Championships,2008,1
+SDSM,200 M Individual Medley,LCM,M,75-79,3:28.48,Bob Best,,Pasadena Senior Games,2008,1
+SDSM,200 M Individual Medley,LCM,M,75-79,3:55.96,Tom Mitchell,,Conejo Simi Long Course Regional Championships,2008,2
+SDSM,200 M Individual Medley,LCM,M,75-79,4:24.13,Donald J Baker,,PAC Masters LCM Champs at Santa Cruz,2008,3
+SDSM,400 M Individual Medley,LCM,M,75-79,8:27.23,Tom Mitchell,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Freestyle,LCM,M,80-84,35.71,Dale A Webster,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,50 M Freestyle,LCM,M,80-84,38.14,Donald J Hubbard,,2008 USMS Long Course Nationals,2008,2
+SDSM,50 M Freestyle,LCM,M,80-84,42.37,Jordan B Wolle,,2008 USMS Long Course Nationals,2008,3
+SDSM,100 M Freestyle,LCM,M,80-84,1:23.70,Dale A Webster,,2008 USMS Long Course Nationals,2008,1
+SDSM,100 M Freestyle,LCM,M,80-84,1:32.42,Donald J Hubbard,,2008 World Masters Champs LCM at Perth,2008,2
+SDSM,100 M Freestyle,LCM,M,80-84,1:42.12,Jordan B Wolle,,2008 World Masters Champs LCM at Perth,2008,3
+SDSM,200 M Freestyle,LCM,M,80-84,3:52.28,Jordan B Wolle,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,200 M Freestyle,LCM,M,80-84,3:55.93,Donald J Hubbard,,PAC Masters LCM Champs at Santa Cruz,2008,2
+SDSM,400 M Freestyle,LCM,M,80-84,8:13.57,Jordan B Wolle,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,400 M Freestyle,LCM,M,80-84,8:49.14,Lee C Arth,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,800 M Freestyle,LCM,M,80-84,16:22.35,Donald J Hubbard,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,800 M Freestyle,LCM,M,80-84,17:03.58,Jordan B Wolle,,2008 World Masters Champs LCM at Perth,2008,2
+SDSM,1500 M Freestyle,LCM,M,80-84,33:51.02,Jordan B Wolle,,2008 USMS Long Course Nationals,2008,1
+SDSM,50 M Backstroke,LCM,M,80-84,45.08,Dale A Webster,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,100 M Backstroke,LCM,M,80-84,1:38.30,Dale A Webster,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,200 M Backstroke,LCM,M,80-84,3:51.89,Dale A Webster,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,200 M Backstroke,LCM,M,80-84,4:36.48,Lee C Arth,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,100 M Breaststroke,LCM,M,80-84,2:22.59,Donald J Hubbard,,Pasadena Senior Games,2008,1
+SDSM,100 M Breaststroke,LCM,M,80-84,2:28.17,Lee C Arth,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,200 M Breaststroke,LCM,M,80-84,5:16.98,Donald J Hubbard,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Breaststroke,LCM,M,80-84,5:21.27,Lee C Arth,,San Diego Imperial LMSC LCM Champs,2008,2
+SDSM,50 M Butterfly,LCM,M,80-84,54.09,Donald J Hubbard,,2008 World Masters Champs LCM at Perth,2008,1
+SDSM,100 M Butterfly,LCM,M,80-84,2:13.14,Donald J Hubbard,,2008 USMS Long Course Nationals,2008,1
+SDSM,200 M Individual Medley,LCM,M,80-84,4:50.16,Lee C Arth,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Individual Medley,LCM,M,80-84,4:58.18,Donald J Hubbard,,PAC Masters LCM Champs at Santa Cruz,2008,2
+SDSM,50 M Freestyle,LCM,M,90-94,58.78,Tom Haver,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Freestyle,LCM,M,90-94,2:20.48,Tom Haver,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,200 M Freestyle,LCM,M,90-94,5:17.87,Tom Haver,,Mission Viejo LCM meet,2008,1
+SDSM,50 M Backstroke,LCM,M,90-94,59.21,Tom Haver,,San Diego Imperial LMSC LCM Champs,2008,1
+SDSM,100 M Backstroke,LCM,M,90-94,2:21.25,Tom Haver,,Mission Viejo LCM meet,2008,1
+SDSM,200 M Backstroke,LCM,M,90-94,5:16.75,Tom Haver,,Mission Viejo LCM meet,2008,1
+UNAT,400 M Freestyle,LCM,W,18-24,5:52.70,Dannelly W Brown,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,200 M Backstroke,LCM,W,18-24,3:00.04,Dannelly W Brown,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,200 M Individual Medley,LCM,W,18-24,3:05.81,Dannelly W Brown,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,400 M Individual Medley,LCM,W,18-24,6:26.37,Dannelly W Brown,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,200 M Freestyle,LCM,W,25-29,2:31.69,Emily Schmied,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,50 M Breaststroke,LCM,W,25-29,42.34,Emily Schmied,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,200 M Individual Medley,LCM,W,25-29,2:45.63,Emily Schmied,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,400 M Individual Medley,LCM,W,25-29,5:49.94,Emily Schmied,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,50 M Backstroke,LCM,W,65-69,1:43.61,Christa Sherrod,,Pasadena Senior Games,2008,1
+UNAT,50 M Breaststroke,LCM,W,65-69,57.63,Christa Sherrod,,Pasadena Senior Games,2008,1
+UNAT,100 M Breaststroke,LCM,W,65-69,2:07.75,Christa Sherrod,,Pasadena Senior Games,2008,1
+UNAT,200 M Breaststroke,LCM,W,65-69,4:38.82,Christa Sherrod,,Pasadena Senior Games,2008,1
+UNAT,200 M Individual Medley,LCM,W,65-69,5:09.84,Christa Sherrod,,Pasadena Senior Games,2008,1
+UNAT,400 M Freestyle,LCM,M,25-29,4:41.82,Michael Kleinert,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,100 M Backstroke,LCM,M,25-29,1:11.57,Michael Kleinert,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,200 M Freestyle,LCM,M,40-44,2:04.25,Timothy C Gallaudet,,2008 USMS Long Course Nationals,2008,1
+UNAT,400 M Freestyle,LCM,M,40-44,4:19.04,Timothy C Gallaudet,,2008 USMS Long Course Nationals,2008,1
+UNAT,800 M Freestyle,LCM,M,40-44,9:01.87,Timothy C Gallaudet,,San Diego Imperial LMSC LCM Champs,2008,1
+UNAT,1500 M Freestyle,LCM,M,40-44,16:48.68,Timothy C Gallaudet,,2008 USMS Long Course Nationals,2008,1
+UNAT,50 M Freestyle,LCM,M,55-59,30.34,Harry G Duffield,,Pasadena Senior Games,2008,1
+UNAT,100 M Freestyle,LCM,M,55-59,1:11.22,Harry G Duffield,,Pasadena Senior Games,2008,1
+UNAT,200 M Freestyle,LCM,M,55-59,2:45.03,Harry G Duffield,,Pasadena Senior Games,2008,1
+UNAT,50 M Backstroke,LCM,M,55-59,1:04.08,John F Higgins,,Wilton YMCA Summer Sizzler LCM (Connecticut),2008,1
+UNAT,100 M Backstroke,LCM,M,55-59,2:31.85,John F Higgins,,Wilton YMCA Summer Sizzler LCM (Connecticut),2008,1
+UNAT,200 M Backstroke,LCM,M,55-59,5:22.18,John F Higgins,,Wilton YMCA Summer Sizzler LCM (Connecticut),2008,1
+UNAT,100 M Breaststroke,LCM,M,55-59,2:10.78,John F Higgins,,Jason Nessel Memorial Invitation,2008,1
+UNAT,200 M Individual Medley,LCM,M,55-59,5:05.77,John F Higgins,,Jason Nessel Memorial Invitation,2008,1
+UNAT,50 M Freestyle,LCM,M,80-84,56.18,Robert L Sears,,Las Vegas Masters LCM meet,2008,1
+UNAT,100 M Freestyle,LCM,M,80-84,2:19.36,Robert L Sears,,Las Vegas Masters LCM meet,2008,1
+UNAT,200 M Freestyle,LCM,M,80-84,5:12.30,Robert L Sears,,Las Vegas Masters LCM meet,2008,1
+UNAT,50 M Backstroke,LCM,M,80-84,1:16.56,Robert L Sears,,Las Vegas Masters LCM meet,2008,1
+UNAT,100 M Breaststroke,LCM,M,80-84,2:40.18,Robert L Sears,,Las Vegas Masters LCM meet,2008,1
