@@ -11,7 +11,8 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "41st Annual Sunbelt Meet",
-    "year": "2015"
+    "year": "2015",
+    "swimmerId": "01GXA"
   },
   {
     "id": "COLM_50_y_butterfly_scy_men_70_74",
@@ -25,7 +26,8 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "Growler Invitational",
-    "year": "2015"
+    "year": "2015",
+    "swimmerId": "01GXA"
   },
   {
     "id": "COLM_100_y_butterfly_scy_men_70_74",
@@ -39,7 +41,8 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "Growler Invitational",
-    "year": "2015"
+    "year": "2015",
+    "swimmerId": "01GXA"
   },
   {
     "id": "COLM_200_y_butterfly_scy_men_70_74",
@@ -53,6 +56,7 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "Growler Invitational",
-    "year": "2015"
+    "year": "2015",
+    "swimmerId": "01GXA"
   }
 ]

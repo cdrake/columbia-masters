@@ -11,7 +11,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_400_m_freestyle_lcm_men_45_49",
@@ -25,7 +26,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_100_m_backstroke_lcm_men_45_49",
@@ -39,7 +41,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_50_m_butterfly_lcm_men_45_49",
@@ -53,7 +56,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_50_m_freestyle_lcm_men_50_54",
@@ -67,7 +71,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_100_m_freestyle_lcm_men_50_54",
@@ -81,7 +86,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_50_m_backstroke_lcm_men_50_54",
@@ -95,7 +101,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_50_m_breaststroke_lcm_men_50_54",
@@ -109,7 +116,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_50_m_butterfly_lcm_men_50_54",
@@ -123,6 +131,7 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "Blue Tides Dog Days of Summer Invitational",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   }
 ]
