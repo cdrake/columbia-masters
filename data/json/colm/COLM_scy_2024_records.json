@@ -11,7 +11,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_100_y_freestyle_scy_men_45_49",
@@ -25,7 +26,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_50_y_backstroke_scy_men_45_49",
@@ -39,7 +41,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_100_y_backstroke_scy_men_45_49",
@@ -53,7 +56,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_50_y_butterfly_scy_men_45_49",
@@ -67,7 +71,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_100_y_individual_medley_scy_men_45_49",
@@ -81,7 +86,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_200_y_individual_medley_scy_men_45_49",
@@ -95,7 +101,8 @@
     "swimmer": "Joshua McDuffie",
     "date": null,
     "meet": "49th Annual Jerry Clark Sunbelt Swimming Championships",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "YZFEE"
   },
   {
     "id": "COLM_50_y_freestyle_scy_men_50_54",
@@ -109,7 +116,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "2024 South Carolina SCY Championship",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_100_y_freestyle_scy_men_50_54",
@@ -123,7 +131,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "2024 South Carolina SCY Championship",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_50_y_backstroke_scy_men_50_54",
@@ -137,7 +146,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "South Carolina Senior Games",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_50_y_breaststroke_scy_men_50_54",
@@ -151,7 +161,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "South Carolina Senior Games",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_100_y_breaststroke_scy_men_50_54",
@@ -165,7 +176,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "2024 South Carolina SCY Championship",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_200_y_breaststroke_scy_men_50_54",
@@ -179,7 +191,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "2024 South Carolina SCY Championship",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_50_y_butterfly_scy_men_50_54",
@@ -193,7 +206,8 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "2024 South Carolina SCY Championship",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   },
   {
     "id": "COLM_100_y_individual_medley_scy_men_50_54",
@@ -207,6 +221,7 @@
     "swimmer": "Kerstan  P Kranker",
     "date": null,
     "meet": "South Carolina Senior Games",
-    "year": "2024"
+    "year": "2024",
+    "swimmerId": "VYV22"
   }
 ]

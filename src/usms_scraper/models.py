@@ -20,6 +20,7 @@ class TeamRecord:
     date: Optional[str] = None
     meet: Optional[str] = None
     year: Optional[str] = None
+    swimmer_id: Optional[str] = None
 
     @property
     def id(self) -> str:
@@ -46,6 +47,7 @@ class TeamRecord:
             "date": self.date,
             "meet": self.meet,
             "year": self.year,
+            "swimmerId": self.swimmer_id,
         }
 
 

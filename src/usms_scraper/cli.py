@@ -141,7 +141,8 @@ def _record_key(record: dict) -> tuple:
 
 def _record_content(record: dict) -> tuple:
     """Content tuple for change detection."""
-    return (record["time"], record["swimmer"], record["meet"])
+    # .get: CSVs written before swimmer_id existed lack the column; a re-scrape backfills it.
+    return (record["time"], record["swimmer"], record["meet"], record.get("swimmer_id", ""))
 
 
 def _load_existing_csv(path: Path) -> list[dict]:
@@ -227,6 +228,7 @@ def _new_data_index(tenant: Tenant, record_count: int) -> dict:
                     "time": "Formatted swim time, e.g. '1:01.29'",
                     "timeInSeconds": "Numeric time in seconds for sorting/comparison",
                     "swimmer": "Swimmer's full name",
+                    "swimmerId": "Permanent USMS member ID (null for older records)",
                     "date": "Date of the swim (ISO string or null)",
                     "meet": "Name of the meet where the time was recorded",
                     "year": "Year the time was recorded",
@@ -290,6 +292,7 @@ def _new_data_index_common(tenant: Tenant, record_count: int) -> dict:
                     "time": "Formatted swim time, e.g. '1:01.29'",
                     "timeInSeconds": "Numeric time in seconds for sorting/comparison",
                     "swimmer": "Swimmer's full name",
+                    "swimmerId": "Permanent USMS member ID (null for older records)",
                     "date": "Date of the swim (ISO string or null)",
                     "meet": "Name of the meet where the time was recorded",
                     "year": "Year the time was recorded",
