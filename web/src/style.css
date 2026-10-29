@@ -1399,3 +1399,45 @@ footer p {
 .site-alert-dismiss:hover {
   opacity: 1;
 }
+
+/* ─── Swimmer pages (build/pages.ts swimmerPages) ─── */
+
+.swimmer-summary,
+.swimmer-letters {
+  margin-bottom: 1.5rem;
+  color: var(--text-muted);
+}
+
+.swimmer-page h2 {
+  margin: 2rem 0 0.75rem;
+}
+
+.swimmer-page h3 {
+  margin: 1.5rem 0 0.5rem;
+  color: var(--navy);
+}
+
+.swimmer-links {
+  margin-top: 2rem;
+}
+
+.swimmer-letters a {
+  display: inline-block;
+  padding: 0.15rem 0.4rem;
+  font-weight: 600;
+}
+
+.swimmer-index h2 {
+  margin-top: 1.5rem;
+}
+
+.swimmer-index ul {
+  list-style: none;
+  margin-top: 0.5rem;
+  columns: 3 200px;
+  column-gap: 1.5rem;
+}
+
+.swimmer-index li {
+  margin-bottom: 0.35rem;
+}

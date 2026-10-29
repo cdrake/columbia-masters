@@ -5,6 +5,7 @@ import { Marked } from "marked";
 import { defaultHomePage, HOME_SLUG, validatePage, type Page } from "../shared/pages";
 import { validateSite, type SiteSettings } from "../shared/site";
 import { normalizeTab, type ClubLink, type SheetData } from "../shared/content";
+import { groupSwimmers, type Swimmer, type SwimRecord } from "./swimmer-names";
 
 const marked = new Marked();
 
@@ -48,6 +49,12 @@ export interface TenantConfig {
   timeZone?: string;
   /** State (lmsc) sites: member clubs, for the content API and llms.txt. */
   clubs?: ClubLink[];
+  /** Generate a static page per swimmer at /swimmers/<slug>/ from the records file. */
+  swimmerPages?: boolean;
+  /** Swimmer names that get no page (case/whitespace-insensitive). */
+  swimmerOptOut?: string[];
+  /** Variant swimmer name → canonical name, merged onto one page. */
+  swimmerAliases?: Record<string, string>;
 }
 
 export interface Coach {
@@ -94,6 +101,8 @@ export interface Tenant {
   pages: Page[];
   /** State sites: every club with records (empty for a club site). */
   clubDirectory: ClubEntry[];
+  /** Swimmers with a /swimmers/<slug>/ page (empty unless tenant.json swimmerPages). */
+  swimmers: Swimmer[];
   /** Design template + accent from content/site.json (written by the editor); null = default look. */
   site: SiteSettings | null;
   dir: string;
@@ -160,6 +169,18 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     req(src?.startsWith("/") && alt && width > 0 && height > 0, `tenant.json logo needs src (/path), alt, width, height`);
     req(fs.existsSync(path.join(dir, "public", src)), `tenant.json logo not found: public${src}`);
   }
+  req(config.swimmerPages === undefined || typeof config.swimmerPages === "boolean", `tenant.json swimmerPages must be true/false`);
+  req(
+    config.swimmerOptOut === undefined ||
+      (Array.isArray(config.swimmerOptOut) && config.swimmerOptOut.every((n) => typeof n === "string")),
+    `tenant.json swimmerOptOut must be an array of names`
+  );
+  req(
+    config.swimmerAliases === undefined ||
+      (typeof config.swimmerAliases === "object" && !Array.isArray(config.swimmerAliases) &&
+        Object.values(config.swimmerAliases).every((n) => typeof n === "string" && n.trim())),
+    `tenant.json swimmerAliases must map variant name → canonical name`
+  );
   // "faq" is an optional sheet tab — tenants that haven't added it yet simply omit the gid.
 
   const contentDir = path.join(dir, "content");
@@ -226,7 +247,18 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     ? (readJsonIfExists<{ clubs: ClubEntry[] }>(path.join(publicDir, "data", "clubs.json"))?.clubs ?? [])
     : [];
 
-  return { config, aboutHtml, about, coaches, classes, fallback, pages, clubDirectory, site, dir, publicDir };
+  let swimmers: Swimmer[] = [];
+  if (config.swimmerPages) {
+    const recordsFile = path.join(publicDir, "data", `${config.teamCode}_all_records.json`);
+    req(fs.existsSync(recordsFile), `swimmerPages needs ${recordsFile}`);
+    req(!pages.some((p) => p.slug === "swimmers") && !fs.existsSync(path.join(publicDir, "swimmers")),
+      `swimmerPages: "swimmers" is taken by a page or public/swimmers`);
+    const grouped = groupSwimmers(readJson<SwimRecord[]>(recordsFile), config.swimmerAliases, config.swimmerOptOut);
+    for (const w of grouped.warnings) console.warn(`[tenant] ${w}`);
+    swimmers = grouped.swimmers;
+  }
+
+  return { config, aboutHtml, about, coaches, classes, fallback, pages, clubDirectory, swimmers, site, dir, publicDir };
 }
 
 /**

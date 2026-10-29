@@ -424,14 +424,17 @@ export function sitePages(t: Tenant): SiteManifest["pages"] {
 
 export function sitemapXml(t: Tenant): string {
   const clubPages = t.clubDirectory.map((k) => ({ path: clubPath(k.code) }));
-  const urls = [...sitePages(t), ...clubPages]
-    .map((p) => {
+  const swimmerPages = t.swimmers.length
+    ? ["/swimmers/", ...t.swimmers.map((s) => `/swimmers/${s.slug}/`)].map((path) => ({ path, priority: "0.5" }))
+    : [];
+  const urls = [...sitePages(t), ...clubPages, ...swimmerPages]
+    .map((p: { path: string; priority?: string }) => {
       const home = p.path === "/";
       return `
   <url>
     <loc>${t.config.domain}${p.path}</loc>
     <changefreq>${home ? "weekly" : "monthly"}</changefreq>
-    <priority>${home ? "1.0" : "0.7"}</priority>
+    <priority>${home ? "1.0" : (p.priority ?? "0.7")}</priority>
   </url>`;
     })
     .join("");

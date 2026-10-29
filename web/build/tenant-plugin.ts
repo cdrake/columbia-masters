@@ -5,7 +5,7 @@ import { answer } from "../shared/records";
 import { answerContent, buildContent, loadSheetData, openApi, todayIn } from "../shared/content";
 import { adminDevApi } from "./admin-dev-api";
 import { loadTenant, sheetUrls } from "./load-tenant";
-import { clubPages, composePage, loadSectionPartials, pageForUrl, renderShell } from "./pages";
+import { clubPages, composePage, loadSectionPartials, pageForUrl, renderShell, swimmerPages } from "./pages";
 import * as render from "./render";
 
 const VIRTUAL_ID = "virtual:tenant";
@@ -120,8 +120,8 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
       if (!isSiteTemplate(ctx.path)) return html;
       const shell = renderShell(html, tenant);
       if (!ctx.server) return shell;
-      const { page, scalars } = pageForUrl(tenant, ctx.originalUrl ?? "/");
-      return composePage(shell, tenant, page, loadSectionPartials(webRoot), scalars);
+      const { page, ...extra } = pageForUrl(tenant, ctx.originalUrl ?? "/");
+      return composePage(shell, tenant, page, loadSectionPartials(webRoot), extra);
     },
 
     resolveId(id) {
@@ -134,6 +134,7 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
         slug: tenant.config.slug,
         kind: tenant.config.kind ?? "club",
         teamCode: tenant.config.teamCode,
+        swimmerPages: tenant.swimmers.length > 0,
         sheetUrls: sheetUrls(tenant.config),
         imageBase: tenant.config.images?.accountHash
           ? `https://imagedelivery.net/${tenant.config.images.accountHash}/`
@@ -160,11 +161,11 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
             source: composePage(shell, tenant, page, partials),
           });
         }
-        for (const { page, scalars } of clubPages(tenant)) {
+        for (const { page, ...extra } of [...clubPages(tenant), ...swimmerPages(tenant)]) {
           this.emitFile({
             type: "asset",
             fileName: `${page.slug}/index.html`,
-            source: composePage(shell, tenant, page, partials, scalars),
+            source: composePage(shell, tenant, page, partials, extra),
           });
         }
 
@@ -176,6 +177,11 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
           // Read by functions/api/content.ts and functions/llms.txt.ts.
           "data/site.json": JSON.stringify(render.siteManifest(tenant)) + "\n",
         };
+        if (tenant.swimmers.length) {
+          // Raw records `swimmer` string → page slug, for linking names in the records table.
+          const slugs = Object.fromEntries(tenant.swimmers.flatMap((s) => s.rawNames.map((n) => [n, s.slug])));
+          files["data/swimmers.json"] = JSON.stringify(slugs) + "\n";
+        }
         for (const [fileName, source] of Object.entries(files)) {
           this.emitFile({ type: "asset", fileName, source });
         }
