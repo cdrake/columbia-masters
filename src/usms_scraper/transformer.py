@@ -47,6 +47,7 @@ def transform_record(raw: dict) -> Optional[TeamRecord]:
         date = raw.get("date", "").strip() or None
         meet = raw.get("meet", "").strip() or None
         year = raw.get("year", "").strip() or None
+        swimmer_id = (raw.get("swimmer_id") or "").strip() or None
 
         # Validate required fields
         if not all([team, event, course, gender, age_group, time_str, swimmer]):
@@ -71,6 +72,7 @@ def transform_record(raw: dict) -> Optional[TeamRecord]:
             date=date,
             meet=meet,
             year=year,
+            swimmer_id=swimmer_id,
         )
 
     except Exception as e:

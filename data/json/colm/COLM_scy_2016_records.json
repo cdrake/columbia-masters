@@ -11,7 +11,8 @@
     "swimmer": "Veronica L McCumber",
     "date": null,
     "meet": "25th Annual Valentine's Meet",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "0A73Y"
   },
   {
     "id": "COLM_100_y_freestyle_scy_women_25_29",
@@ -25,7 +26,8 @@
     "swimmer": "Veronica L McCumber",
     "date": null,
     "meet": "25th Annual Valentine's Meet",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "0A73Y"
   },
   {
     "id": "COLM_200_y_freestyle_scy_women_25_29",
@@ -39,7 +41,8 @@
     "swimmer": "Veronica L McCumber",
     "date": null,
     "meet": "25th Annual Valentine's Meet",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "0A73Y"
   },
   {
     "id": "COLM_500_y_freestyle_scy_women_25_29",
@@ -53,7 +56,8 @@
     "swimmer": "Veronica L McCumber",
     "date": null,
     "meet": "25th Annual Valentine's Meet",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "0A73Y"
   },
   {
     "id": "COLM_100_y_backstroke_scy_women_25_29",
@@ -67,7 +71,8 @@
     "swimmer": "Veronica L McCumber",
     "date": null,
     "meet": "25th Annual Valentine's Meet",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "0A73Y"
   },
   {
     "id": "COLM_100_y_individual_medley_scy_women_25_29",
@@ -81,7 +86,8 @@
     "swimmer": "Veronica L McCumber",
     "date": null,
     "meet": "25th Annual Valentine's Meet",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "0A73Y"
   },
   {
     "id": "COLM_50_y_butterfly_scy_men_70_74",
@@ -95,7 +101,8 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "Growler Invitational",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "01GXA"
   },
   {
     "id": "COLM_100_y_butterfly_scy_men_70_74",
@@ -109,7 +116,8 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "2016 SUNBELT MASTERS MEET",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "01GXA"
   },
   {
     "id": "COLM_200_y_butterfly_scy_men_70_74",
@@ -123,6 +131,7 @@
     "swimmer": "Robert M Poiletman",
     "date": null,
     "meet": "Growler Invitational",
-    "year": "2016"
+    "year": "2016",
+    "swimmerId": "01GXA"
   }
 ]

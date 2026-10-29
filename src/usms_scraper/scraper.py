@@ -55,6 +55,7 @@ RECORD_FIELDS = [
     "meet",
     "year",
     "rank",
+    "swimmer_id",
 ]
 
 # Event header lines inside the <pre> block: <strong><u>Men 45-49 50 Y Freestyle </u></strong>
@@ -145,6 +146,8 @@ def parse_top_ten_html(
                 "meet": meet,
                 "year": str(year),
                 "rank": data_match.group(1),
+                # "554U-YZFEE": the part after the dash is the member's permanent USMS ID.
+                "swimmer_id": data_match.group(6).rsplit("-", 1)[-1],
             }
         )
 

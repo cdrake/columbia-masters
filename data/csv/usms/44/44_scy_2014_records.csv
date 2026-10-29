@@ -1,0 +1,737 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+HSAM,50 Y Freestyle,SCY,W,18-24,28.13,Sereena Castillo,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,500 Y Freestyle,SCY,W,18-24,6:22.22,Sereena Castillo,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,50 Y Breaststroke,SCY,W,18-24,37.99,Sereena Castillo,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,100 Y Individual Medley,SCY,W,18-24,1:13.08,Sereena Castillo,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,50 Y Freestyle,SCY,W,40-44,28.92,Carrie N Morgan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,500 Y Freestyle,SCY,W,40-44,6:04.57,Carrie N Morgan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,50 Y Backstroke,SCY,W,40-44,35.23,Carrie N Morgan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,50 Y Butterfly,SCY,W,40-44,33.29,Carrie N Morgan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,50 Y Freestyle,SCY,W,70-74,45.33,Marlee R Valderhaug,,2013 San Diego Senior Games,2014,1
+HSAM,200 Y Freestyle,SCY,W,70-74,3:35.07,Marlee R Valderhaug,,2013 San Diego Senior Games,2014,1
+HSAM,500 Y Freestyle,SCY,W,70-74,9:48.88,Marlee R Valderhaug,,2013 San Diego Senior Games,2014,1
+HSAM,50 Y Backstroke,SCY,W,70-74,56.92,Marlee R Valderhaug,,2013 San Diego Senior Games,2014,1
+HSAM,50 Y Breaststroke,SCY,W,70-74,57.53,Marlee R Valderhaug,,2013 San Diego Senior Games,2014,1
+HSAM,50 Y Freestyle,SCY,W,85-89,1:05.19,Nancy L Reed,,2013 San Diego Senior Games,2014,1
+HSAM,100 Y Freestyle,SCY,W,85-89,2:21.58,Nancy L Reed,,2013 San Diego Senior Games,2014,1
+HSAM,200 Y Freestyle,SCY,W,85-89,5:04.25,Nancy L Reed,,2013 San Diego Senior Games,2014,1
+HSAM,500 Y Freestyle,SCY,W,85-89,13:52.34,Nancy L Reed,,2013 San Diego Senior Games,2014,1
+HSAM,50 Y Backstroke,SCY,W,85-89,1:23.52,Nancy L Reed,,2013 San Diego Senior Games,2014,1
+HSAM,50 Y Freestyle,SCY,M,35-39,29.63,David Nevius,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,500 Y Freestyle,SCY,M,35-39,7:20.03,David Nevius,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+HSAM,100 Y Individual Medley,SCY,M,35-39,1:22.11,David Nevius,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+NCSM,50 Y Backstroke,SCY,M,55-59,29.38,Vincent D Morales,,Mission Viejo Masters SCY Swim Meet,2014,1
+NCSM,100 Y Backstroke,SCY,M,55-59,1:02.01,Vincent D Morales,,UCLA Bruin Masters SCY Swim Meet,2014,1
+NCSM,200 Y Backstroke,SCY,M,55-59,2:15.44,Vincent D Morales,,UCLA Bruin Masters SCY Swim Meet,2014,1
+NCSM,50 Y Butterfly,SCY,M,55-59,29.80,Vincent D Morales,,Mission Viejo Masters SCY Swim Meet,2014,1
+NCSM,100 Y Individual Medley,SCY,M,55-59,1:04.81,Vincent D Morales,,Mission Viejo Masters SCY Swim Meet,2014,1
+NCSM,200 Y Individual Medley,SCY,M,55-59,2:18.43,Vincent D Morales,,Mission Viejo Masters SCY Swim Meet,2014,1
+SBSM,50 Y Freestyle,SCY,M,45-49,24.81,Bjorn Svinterud,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SBSM,50 Y Freestyle,SCY,M,45-49,25.05,Chris  Hohn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SBSM,100 Y Freestyle,SCY,M,45-49,55.87,Bjorn Svinterud,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SBSM,200 Y Freestyle,SCY,M,45-49,2:09.23,Bjorn Svinterud,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SBSM,50 Y Backstroke,SCY,M,45-49,31.43,Bjorn Svinterud,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SBSM,50 Y Backstroke,SCY,M,45-49,31.62,Chris  Hohn,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SBSM,50 Y Breaststroke,SCY,M,45-49,33.42,Chris  Hohn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SBSM,50 Y Butterfly,SCY,M,45-49,26.37,Chris  Hohn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SBSM,100 Y Butterfly,SCY,M,45-49,59.81,Chris  Hohn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SBSM,100 Y Individual Medley,SCY,M,45-49,1:03.67,Chris  Hohn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SBSM,100 Y Individual Medley,SCY,M,45-49,1:09.40,Bjorn Svinterud,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,W,18-24,26.34,Diana C Gonzalez,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,W,18-24,31.42,Diana C Gonzalez,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,18-24,35.29,Diana C Gonzalez,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,18-24,29.08,Diana C Gonzalez,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,18-24,1:08.60,Diana C Gonzalez,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,25-29,26.85,Heidi M Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,25-29,27.16,Amy R Sweeney,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Freestyle,SCY,W,25-29,58.73,Emily S Parker,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,100 Y Freestyle,SCY,W,25-29,1:01.41,Amy R Sweeney,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Freestyle,SCY,W,25-29,1:05.39,Dannelly W Brown,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Freestyle,SCY,W,25-29,2:03.07,Emily S Parker,,UCI Masters SCY,2014,1
+SDSM,500 Y Freestyle,SCY,W,25-29,5:23.90,Emily S Parker,,UCI Masters SCY,2014,1
+SDSM,50 Y Backstroke,SCY,W,25-29,31.26,Heidi M Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Backstroke,SCY,W,25-29,1:11.65,Allegra Conway,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Backstroke,SCY,W,25-29,1:12.02,Dannelly W Brown,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Backstroke,SCY,W,25-29,2:23.52,Emily S Parker,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,25-29,39.09,Heidi M Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Breaststroke,SCY,W,25-29,1:15.43,Stella A Paz,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,100 Y Breaststroke,SCY,W,25-29,1:19.66,Allegra Conway,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Breaststroke,SCY,W,25-29,1:30.77,Dannelly W Brown,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Breaststroke,SCY,W,25-29,2:53.32,Emily S Parker,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,25-29,30.04,Heidi M Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Butterfly,SCY,W,25-29,1:04.65,Stella A Paz,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,100 Y Butterfly,SCY,W,25-29,1:13.48,Allegra Conway,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Butterfly,SCY,W,25-29,1:14.61,Dannelly W Brown,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Butterfly,SCY,W,25-29,2:23.89,Emily S Parker,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,25-29,1:09.70,Emily S Parker,,RBAC Masters SCY Swim Meet,2014,1
+SDSM,100 Y Individual Medley,SCY,W,25-29,1:10.05,Heidi M Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Individual Medley,SCY,W,25-29,2:24.45,Stella A Paz,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,200 Y Individual Medley,SCY,W,25-29,2:43.34,Dannelly W Brown,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,400 Y Individual Medley,SCY,W,25-29,5:01.93,Emily S Parker,,RBAC Masters SCY Swim Meet,2014,1
+SDSM,400 Y Individual Medley,SCY,W,25-29,5:09.49,Stella A Paz,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,50 Y Freestyle,SCY,W,30-34,28.71,Jacqueline D Edelman,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,30-34,29.03,Cari Murtagh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,W,30-34,29.54,Jacqueline A Kowalik,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Freestyle,SCY,W,30-34,1:06.59,Catherine J Moyer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,500 Y Freestyle,SCY,W,30-34,6:24.97,Catherine J Moyer,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,50 Y Backstroke,SCY,W,30-34,33.41,Cari Murtagh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,W,30-34,33.57,Jacqueline A Kowalik,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Backstroke,SCY,W,30-34,37.01,Jacqueline D Edelman,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Backstroke,SCY,W,30-34,1:17.96,Catherine J Moyer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,30-34,38.42,Jacqueline D Edelman,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,30-34,40.64,Cari Murtagh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,W,30-34,42.25,Jacqueline A Kowalik,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Breaststroke,SCY,W,30-34,1:42.78,Catherine J Moyer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,30-34,31.52,Catherine J Moyer,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,50 Y Butterfly,SCY,W,30-34,31.54,Cari Murtagh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,W,30-34,32.48,Jacqueline A Kowalik,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,W,30-34,32.81,Jacqueline D Edelman,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Butterfly,SCY,W,30-34,1:10.45,Catherine J Moyer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,30-34,1:13.51,Cari Murtagh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,30-34,1:13.90,Jacqueline D Edelman,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Individual Medley,SCY,W,30-34,1:16.46,Jacqueline A Kowalik,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Individual Medley,SCY,W,30-34,2:50.55,Catherine J Moyer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,35-39,28.49,Katherine Callaghan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,35-39,32.36,Emma Piggott,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,W,35-39,32.91,Michelle T Neff,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Freestyle,SCY,W,35-39,1:01.68,Sonja Steinbrech,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Freestyle,SCY,W,35-39,2:15.00,Kristina M Maroudis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,500 Y Freestyle,SCY,W,35-39,8:13.04,Michelle T Neff,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,W,35-39,34.56,Sonja Steinbrech,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,W,35-39,35.38,Katherine Callaghan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Backstroke,SCY,W,35-39,36.57,Emma Piggott,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Backstroke,SCY,W,35-39,38.36,Michelle T Neff,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,200 Y Backstroke,SCY,W,35-39,2:34.61,Kristina M Maroudis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,35-39,39.02,Katherine Callaghan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,35-39,39.99,Emma Piggott,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Breaststroke,SCY,W,35-39,1:20.92,Sonja Steinbrech,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Breaststroke,SCY,W,35-39,3:05.31,Kristina M Maroudis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,35-39,31.01,Sonja Steinbrech,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,35-39,32.21,Katherine Callaghan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,W,35-39,34.37,Michelle T Neff,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,W,35-39,38.14,Emma Piggott,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,200 Y Butterfly,SCY,W,35-39,2:55.10,Kristina M Maroudis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,35-39,1:12.43,Katherine Callaghan,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,35-39,1:19.99,Emma Piggott,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,400 Y Individual Medley,SCY,W,35-39,5:29.73,Kristina M Maroudis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,40-44,28.07,Andrea Stagg,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,1650 Y Freestyle,SCY,W,40-44,25:42.85,Nancy Quiroga,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,W,40-44,35.16,Andrea Stagg,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,40-44,40.06,Andrea Stagg,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,40-44,31.07,Andrea Stagg,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,40-44,1:14.95,Andrea Stagg,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,45-49,27.31,Jasmine Stiles,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,45-49,29.58,Tara Rakotz,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,50 Y Freestyle,SCY,W,45-49,29.85,Lisa M Simpson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,100 Y Freestyle,SCY,W,45-49,1:01.43,Irene T Damsky,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Freestyle,SCY,W,45-49,1:05.40,Tara Rakotz,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Freestyle,SCY,W,45-49,1:11.31,Lisa M Simpson,,Masters of Yucaipa Short Course Swim Meet,2014,3
+SDSM,200 Y Freestyle,SCY,W,45-49,2:11.63,Irene T Damsky,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Freestyle,SCY,W,45-49,2:26.32,Tara Rakotz,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,200 Y Freestyle,SCY,W,45-49,2:35.49,Karen A Feld,,RBAC Masters SCY Swim Meet,2014,3
+SDSM,500 Y Freestyle,SCY,W,45-49,7:00.20,Karen A Feld,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,1
+SDSM,50 Y Backstroke,SCY,W,45-49,33.23,Irene T Damsky,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,W,45-49,34.69,Jasmine Stiles,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Backstroke,SCY,W,45-49,37.00,Tara Rakotz,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,50 Y Backstroke,SCY,W,45-49,37.69,Karen A Feld,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,4
+SDSM,50 Y Backstroke,SCY,W,45-49,38.50,Lisa M Simpson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,100 Y Backstroke,SCY,W,45-49,1:09.92,Irene T Damsky,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Backstroke,SCY,W,45-49,1:19.20,Karen A Feld,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,2
+SDSM,100 Y Backstroke,SCY,W,45-49,1:22.96,Tara Rakotz,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Backstroke,SCY,W,45-49,2:51.07,Karen A Feld,,RBAC Masters SCY Swim Meet,2014,1
+SDSM,50 Y Breaststroke,SCY,W,45-49,35.91,Jasmine Stiles,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,45-49,36.63,Lisa M Simpson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Breaststroke,SCY,W,45-49,1:20.19,Lisa M Simpson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,W,45-49,1:30.79,Tara Rakotz,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Breaststroke,SCY,W,45-49,3:19.22,Karen A Feld,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,45-49,31.33,Jasmine Stiles,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,W,45-49,32.76,Tara Rakotz,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Butterfly,SCY,W,45-49,33.29,Lisa M Simpson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,W,45-49,36.66,Karen A Feld,,Masters of Yucaipa Short Course Swim Meet,2014,4
+SDSM,100 Y Butterfly,SCY,W,45-49,1:16.71,Tara Rakotz,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Butterfly,SCY,W,45-49,3:05.11,Karen A Feld,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,45-49,1:08.49,Jasmine Stiles,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,45-49,1:14.10,Lisa M Simpson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Individual Medley,SCY,W,45-49,1:17.05,Tara Rakotz,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,100 Y Individual Medley,SCY,W,45-49,1:21.78,Karen A Feld,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,4
+SDSM,200 Y Individual Medley,SCY,W,45-49,2:52.95,Karen A Feld,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,1
+SDSM,200 Y Individual Medley,SCY,W,45-49,2:54.22,Tara Rakotz,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,400 Y Individual Medley,SCY,W,45-49,6:07.75,Karen A Feld,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,1
+SDSM,50 Y Freestyle,SCY,W,50-54,29.06,Sarah Turner,,UCI Masters SCY,2014,1
+SDSM,50 Y Freestyle,SCY,W,50-54,29.53,Claudia Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,W,50-54,32.24,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,50 Y Freestyle,SCY,W,50-54,51.14,Mara P McSparran,,2013 San Diego Senior Games,2014,4
+SDSM,100 Y Freestyle,SCY,W,50-54,1:11.70,Marieke Thayer,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,100 Y Freestyle,SCY,W,50-54,1:50.02,Mara P McSparran,,2013 San Diego Senior Games,2014,2
+SDSM,500 Y Freestyle,SCY,W,50-54,6:54.32,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,1000 Y Freestyle,SCY,W,50-54,14:08.31,Marieke Thayer,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,1650 Y Freestyle,SCY,W,50-54,23:40.45,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,W,50-54,33.26,Claudia Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,W,50-54,40.58,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Backstroke,SCY,W,50-54,1:27.75,Marieke Thayer,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,200 Y Backstroke,SCY,W,50-54,3:07.52,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,W,50-54,40.72,Claudia Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,W,50-54,48.19,Marieke Thayer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,W,50-54,55.22,Mara P McSparran,,2013 San Diego Senior Games,2014,3
+SDSM,100 Y Breaststroke,SCY,W,50-54,2:00.82,Mara P McSparran,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Butterfly,SCY,W,50-54,32.86,Sarah Turner,,UCI Masters SCY,2014,1
+SDSM,50 Y Butterfly,SCY,W,50-54,33.26,Claudia Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,W,50-54,38.24,Marieke Thayer,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Butterfly,SCY,W,50-54,1:29.64,Marieke Thayer,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,1
+SDSM,100 Y Individual Medley,SCY,W,50-54,1:13.02,Claudia Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,W,50-54,1:21.29,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,200 Y Individual Medley,SCY,W,50-54,2:54.71,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,400 Y Individual Medley,SCY,W,50-54,6:24.38,Marieke Thayer,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,W,55-59,28.74,Christine L Siegel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,W,55-59,28.93,Cathy Ganze,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Freestyle,SCY,W,55-59,30.26,Marilyn A Fink,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Freestyle,SCY,W,55-59,30.29,Cathy V Neville,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,4
+SDSM,50 Y Freestyle,SCY,W,55-59,34.23,Leslie Frankenberger,,2013 San Diego Senior Games,2014,5
+SDSM,100 Y Freestyle,SCY,W,55-59,1:04.29,Cathy Ganze,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Freestyle,SCY,W,55-59,1:04.36,Marilyn A Fink,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Freestyle,SCY,W,55-59,1:05.72,Cathy V Neville,,USF Valentines Affair SCY,2014,3
+SDSM,100 Y Freestyle,SCY,W,55-59,1:15.75,Leslie Frankenberger,,2013 San Diego Senior Games,2014,4
+SDSM,200 Y Freestyle,SCY,W,55-59,2:22.72,Cathy V Neville,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Freestyle,SCY,W,55-59,2:25.44,Diana Dolan LaMar,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,500 Y Freestyle,SCY,W,55-59,6:19.04,Cathy V Neville,,2014 Pacific Masters Short Course Championships,2014,1
+SDSM,500 Y Freestyle,SCY,W,55-59,6:29.88,Diana Dolan LaMar,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,1000 Y Freestyle,SCY,W,55-59,13:07.06,Cathy V Neville,,2014 Pacific Masters Short Course Championships,2014,1
+SDSM,1650 Y Freestyle,SCY,W,55-59,21:56.68,Cathy V Neville,,2014 Pacific Masters Short Course Championships,2014,1
+SDSM,50 Y Backstroke,SCY,W,55-59,34.26,Christine L Siegel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,W,55-59,34.76,Marilyn A Fink,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Backstroke,SCY,W,55-59,37.63,Lolita V Veloso,,USF Valentines Affair SCY,2014,3
+SDSM,50 Y Backstroke,SCY,W,55-59,37.72,Cathy V Neville,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,4
+SDSM,50 Y Backstroke,SCY,W,55-59,42.93,Leslie Frankenberger,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,100 Y Backstroke,SCY,W,55-59,1:15.94,Christine L Siegel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Backstroke,SCY,W,55-59,1:16.53,Marilyn A Fink,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Backstroke,SCY,W,55-59,1:23.71,Cathy V Neville,,USF Valentines Affair SCY,2014,3
+SDSM,200 Y Backstroke,SCY,W,55-59,3:00.67,Cathy V Neville,,Flower Power Meet,2014,1
+SDSM,50 Y Breaststroke,SCY,W,55-59,38.37,Christine L Siegel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,W,55-59,39.50,Diana Dolan LaMar,,2013 San Diego Senior Games,2014,2
+SDSM,50 Y Breaststroke,SCY,W,55-59,44.00,Leslie Frankenberger,,2013 San Diego Senior Games,2014,3
+SDSM,50 Y Breaststroke,SCY,W,55-59,44.65,Marilyn A Fink,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,50 Y Breaststroke,SCY,W,55-59,47.30,Cathy V Neville,,CAL Aquatic Masters (CALM) Spring Short Course Yards Meet,2014,5
+SDSM,100 Y Breaststroke,SCY,W,55-59,1:26.72,Christine L Siegel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,W,55-59,1:26.89,Diana Dolan LaMar,,Southwest Aquatic Masters Spring Meet,2014,2
+SDSM,100 Y Breaststroke,SCY,W,55-59,1:33.97,Cathy V Neville,,USF Valentines Affair SCY,2014,3
+SDSM,100 Y Breaststroke,SCY,W,55-59,1:36.72,Leslie Frankenberger,,2013 San Diego Senior Games,2014,4
+SDSM,200 Y Breaststroke,SCY,W,55-59,3:10.49,Diana Dolan LaMar,,2013 San Diego Senior Games,2014,1
+SDSM,200 Y Breaststroke,SCY,W,55-59,3:25.37,Cathy V Neville,,Flower Power Meet,2014,2
+SDSM,50 Y Butterfly,SCY,W,55-59,32.10,Cathy Ganze,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Butterfly,SCY,W,55-59,33.19,Cathy V Neville,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Butterfly,SCY,W,55-59,34.70,Marilyn A Fink,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,W,55-59,37.40,Lolita V Veloso,,USF Valentines Affair SCY,2014,4
+SDSM,50 Y Butterfly,SCY,W,55-59,39.18,Leslie Frankenberger,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,100 Y Butterfly,SCY,W,55-59,1:13.92,Cathy V Neville,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Butterfly,SCY,W,55-59,1:14.55,Cathy Ganze,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,200 Y Butterfly,SCY,W,55-59,3:01.95,Cathy V Neville,,Southwest Aquatic Masters Spring Meet,2014,1
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:14.35,Cathy Ganze,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:18.95,Marilyn A Fink,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:19.89,Cathy V Neville,,Sonoma Wine Country Games,2014,3
+SDSM,100 Y Individual Medley,SCY,W,55-59,1:27.25,Leslie Frankenberger,,2013 San Diego Senior Games,2014,4
+SDSM,200 Y Individual Medley,SCY,W,55-59,2:44.25,Cathy Ganze,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Individual Medley,SCY,W,55-59,2:49.00,Cathy V Neville,,Southwest Aquatic Masters Spring Meet,2014,2
+SDSM,200 Y Individual Medley,SCY,W,55-59,2:49.25,Diana Dolan LaMar,,Southwest Aquatic Masters Spring Meet,2014,3
+SDSM,400 Y Individual Medley,SCY,W,55-59,6:14.25,Cathy V Neville,,Southwest Aquatic Masters Spring Meet,2014,1
+SDSM,50 Y Freestyle,SCY,W,60-64,33.68,Deborah Raboin,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,W,60-64,36.68,Alta F Stengel,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,50 Y Freestyle,SCY,W,60-64,39.36,Cathie Ellis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Freestyle,SCY,W,60-64,49.94,Linda J Cervantes,,2013 San Diego Senior Games,2014,4
+SDSM,50 Y Freestyle,SCY,W,60-64,51.42,Pamela Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,50 Y Freestyle,SCY,W,60-64,53.27,Laura G Meldrum,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,6
+SDSM,100 Y Freestyle,SCY,W,60-64,1:17.03,Deborah Raboin,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,100 Y Freestyle,SCY,W,60-64,1:45.10,Nancy V Rouse,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Freestyle,SCY,W,60-64,1:57.80,Pam Amundson,,2013 San Diego Senior Games,2014,3
+SDSM,200 Y Freestyle,SCY,W,60-64,2:56.95,Deborah Raboin,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,200 Y Freestyle,SCY,W,60-64,2:58.86,Alta F Stengel,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Freestyle,SCY,W,60-64,4:18.50,Pam Amundson,,2013 San Diego Senior Games,2014,3
+SDSM,500 Y Freestyle,SCY,W,60-64,6:33.15,Barbara G Dunbar,,2013 San Diego Senior Games,2014,1
+SDSM,500 Y Freestyle,SCY,W,60-64,7:52.33,Alta F Stengel,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,500 Y Freestyle,SCY,W,60-64,7:57.21,Deborah Raboin,,Mission Viejo Masters SCY Swim Meet,2014,3
+SDSM,500 Y Freestyle,SCY,W,60-64,10:34.98,Pam Amundson,,2013 San Diego Senior Games,2014,4
+SDSM,500 Y Freestyle,SCY,W,60-64,10:42.31,Nancy V Rouse,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,500 Y Freestyle,SCY,W,60-64,10:49.73,Linda J Cervantes,,2013 San Diego Senior Games,2014,6
+SDSM,1650 Y Freestyle,SCY,W,60-64,27:03.00,Alta F Stengel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,W,60-64,41.42,Alta F Stengel,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Backstroke,SCY,W,60-64,46.05,Deborah Raboin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Backstroke,SCY,W,60-64,48.39,Cathie Ellis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Backstroke,SCY,W,60-64,58.20,Laura G Meldrum,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Backstroke,SCY,W,60-64,1:29.29,Alta F Stengel,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Backstroke,SCY,W,60-64,2:16.60,Linda J Cervantes,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,200 Y Backstroke,SCY,W,60-64,3:13.44,Alta F Stengel,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Breaststroke,SCY,W,60-64,42.79,Deborah Raboin,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Breaststroke,SCY,W,60-64,50.57,Cathie Ellis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,W,60-64,1:02.63,Pamela Amundson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Breaststroke,SCY,W,60-64,1:11.32,Laura G Meldrum,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,50 Y Breaststroke,SCY,W,60-64,1:19.72,Linda J Cervantes,,Mission Viejo Masters SCY Swim Meet,2014,5
+SDSM,200 Y Breaststroke,SCY,W,60-64,6:59.41,Linda J Cervantes,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Butterfly,SCY,W,60-64,35.45,Barbara G Dunbar,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Butterfly,SCY,W,60-64,41.33,Alta F Stengel,,2013 San Diego Senior Games,2014,2
+SDSM,50 Y Butterfly,SCY,W,60-64,45.62,Deborah Raboin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,W,60-64,48.12,Cathie Ellis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,50 Y Butterfly,SCY,W,60-64,1:01.85,Laura G Meldrum,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,50 Y Butterfly,SCY,W,60-64,1:11.67,Linda J Cervantes,,2013 San Diego Senior Games,2014,6
+SDSM,100 Y Butterfly,SCY,W,60-64,1:17.92,Barbara G Dunbar,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Butterfly,SCY,W,60-64,1:49.88,Alta F Stengel,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,200 Y Butterfly,SCY,W,60-64,3:01.04,Barbara G Dunbar,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Individual Medley,SCY,W,60-64,1:34.71,Alta F Stengel,,California Senior Games - Pasadena (SCY),2014,1
+SDSM,100 Y Individual Medley,SCY,W,60-64,1:38.31,Deborah Raboin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Individual Medley,SCY,W,60-64,1:40.24,Cathie Ellis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Individual Medley,SCY,W,60-64,2:09.56,Laura G Meldrum,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Individual Medley,SCY,W,60-64,2:30.43,Linda J Cervantes,,2013 San Diego Senior Games,2014,5
+SDSM,400 Y Individual Medley,SCY,W,60-64,6:10.17,Barbara G Dunbar,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,W,65-69,35.21,Mary L Christensen,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Freestyle,SCY,W,65-69,1:16.45,Mary L Christensen,,2013 San Diego Senior Games,2014,1
+SDSM,200 Y Freestyle,SCY,W,65-69,2:26.22,Barbara G Dunbar,,SPMS Short Course Championships,2014,1
+SDSM,200 Y Freestyle,SCY,W,65-69,2:48.44,Mary L Christensen,,2013 San Diego Senior Games,2014,2
+SDSM,500 Y Freestyle,SCY,W,65-69,6:20.15,Barbara G Dunbar,,SPMS Short Course Championships,2014,1
+SDSM,500 Y Freestyle,SCY,W,65-69,7:38.60,Mary L Christensen,,2013 San Diego Senior Games,2014,2
+SDSM,1000 Y Freestyle,SCY,W,65-69,13:05.26,Barbara G Dunbar,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,1650 Y Freestyle,SCY,W,65-69,21:50.50,Barbara G Dunbar,,SPMS Short Course Championships,2014,1
+SDSM,100 Y Breaststroke,SCY,W,65-69,1:43.69,Mary L Christensen,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,50 Y Butterfly,SCY,W,65-69,35.00,Barbara G Dunbar,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,100 Y Butterfly,SCY,W,65-69,1:15.56,Barbara G Dunbar,,UCI Masters SCY,2014,1
+SDSM,200 Y Butterfly,SCY,W,65-69,2:55.91,Barbara G Dunbar,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Individual Medley,SCY,W,65-69,2:51.71,Barbara G Dunbar,,UCI Masters SCY,2014,1
+SDSM,400 Y Individual Medley,SCY,W,65-69,6:01.18,Barbara G Dunbar,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,W,70-74,35.51,Jackie M Marr,,YMCA Masters Nationals,2014,1
+SDSM,50 Y Freestyle,SCY,W,70-74,46.38,Marilyn A Ramey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Freestyle,SCY,W,70-74,1:18.32,Jackie M Marr,,2013 National Senior Games,2014,1
+SDSM,200 Y Freestyle,SCY,W,70-74,2:46.99,Jackie M Marr,,2013 National Senior Games,2014,1
+SDSM,200 Y Freestyle,SCY,W,70-74,3:39.71,Marilyn A Ramey,,2013 San Diego Senior Games,2014,2
+SDSM,500 Y Freestyle,SCY,W,70-74,7:29.62,Jackie M Marr,,2013 National Senior Games,2014,1
+SDSM,1000 Y Freestyle,SCY,W,70-74,16:13.33,Jackie M Marr,,YMCA Masters Nationals,2014,1
+SDSM,50 Y Backstroke,SCY,W,70-74,42.68,Jackie M Marr,,3rd Annual Masters Grand Prix,2014,1
+SDSM,50 Y Backstroke,SCY,W,70-74,52.63,Marilyn A Ramey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Backstroke,SCY,W,70-74,1:29.36,Jackie M Marr,,2013 National Senior Games,2014,1
+SDSM,100 Y Backstroke,SCY,W,70-74,1:50.58,Marilyn A Ramey,,2013 San Diego Senior Games,2014,2
+SDSM,200 Y Backstroke,SCY,W,70-74,3:23.23,Jackie M Marr,,YMCA Masters Nationals,2014,1
+SDSM,50 Y Breaststroke,SCY,W,70-74,51.18,Jackie M Marr,,3rd Annual Masters Grand Prix,2014,1
+SDSM,50 Y Breaststroke,SCY,W,70-74,54.07,Marilyn A Ramey,,2013 San Diego Senior Games,2014,2
+SDSM,50 Y Butterfly,SCY,W,70-74,46.24,Jackie M Marr,,YMCA Masters Nationals,2014,1
+SDSM,50 Y Butterfly,SCY,W,70-74,54.54,Marilyn A Ramey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Individual Medley,SCY,W,70-74,1:31.85,Jackie M Marr,,YMCA Masters Nationals,2014,1
+SDSM,100 Y Individual Medley,SCY,W,70-74,1:47.39,Marilyn A Ramey,,2013 San Diego Senior Games,2014,2
+SDSM,200 Y Individual Medley,SCY,W,70-74,3:17.05,Jackie M Marr,,2013 National Senior Games,2014,1
+SDSM,200 Y Individual Medley,SCY,W,70-74,4:00.56,Marilyn A Ramey,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Freestyle,SCY,W,75-79,1:24.93,Anne H Williams,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,200 Y Freestyle,SCY,W,75-79,2:58.31,Anne H Williams,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,500 Y Freestyle,SCY,W,75-79,7:54.57,Anne H Williams,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,1000 Y Freestyle,SCY,W,75-79,16:03.06,Anne H Williams,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,1650 Y Freestyle,SCY,W,75-79,27:05.68,Anne H Williams,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Backstroke,SCY,W,75-79,1:39.02,Anne H Williams,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,200 Y Backstroke,SCY,W,75-79,3:20.03,Anne H Williams,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,W,75-79,44.02,Anne H Williams,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,W,75-79,1:40.01,Anne H Williams,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Breaststroke,SCY,W,75-79,3:30.67,Anne H Williams,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,W,85-89,1:52.18,Marian E Wolle,,2013 National Senior Games,2014,1
+SDSM,100 Y Freestyle,SCY,W,85-89,3:56.36,Marian E Wolle,,2013 National Senior Games,2014,1
+SDSM,200 Y Freestyle,SCY,W,85-89,9:09.24,Marian E Wolle,,2013 National Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,M,18-24,23.08,Colton A Kawamura,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Freestyle,SCY,M,18-24,52.17,Colton A Kawamura,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Freestyle,SCY,M,18-24,52.35,Ramon A Navarro,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Freestyle,SCY,M,18-24,1:56.81,John A Lovett,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,500 Y Freestyle,SCY,M,18-24,5:27.13,John A Lovett,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,M,18-24,31.73,Colton A Kawamura,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Backstroke,SCY,M,18-24,1:07.83,Ramon A Navarro,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Breaststroke,SCY,M,18-24,1:06.12,Ramon A Navarro,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Breaststroke,SCY,M,18-24,1:10.47,John A Lovett,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,M,18-24,27.50,John A Lovett,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Butterfly,SCY,M,18-24,1:00.89,Ramon A Navarro,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,M,18-24,1:02.59,John A Lovett,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Individual Medley,SCY,M,18-24,2:19.24,Ramon A Navarro,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,M,25-29,27.87,Waldemar Juschin,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,M,25-29,1:01.67,Waldemar Juschin,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Breaststroke,SCY,M,25-29,2:15.15,Waldemar Juschin,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Butterfly,SCY,M,25-29,1:00.46,Waldemar Juschin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,M,25-29,58.73,Waldemar Juschin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,M,30-34,45.56,Ryan C Gambrell,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Freestyle,SCY,M,30-34,56.32,Yatindra Pandya,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Freestyle,SCY,M,30-34,2:05.31,Yatindra Pandya,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,50 Y Backstroke,SCY,M,30-34,29.99,Yatindra Pandya,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Backstroke,SCY,M,30-34,1:06.94,Yatindra Pandya,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,M,30-34,31.18,Yatindra Pandya,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,M,30-34,1:08.65,Yatindra Pandya,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Breaststroke,SCY,M,30-34,2:32.88,Yatindra Pandya,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Butterfly,SCY,M,30-34,1:00.03,Yatindra Pandya,,Mission Viejo Masters SCY Swim Meet,2014,1
+SDSM,200 Y Individual Medley,SCY,M,30-34,2:15.98,Yatindra Pandya,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,M,35-39,27.52,Frank Arrasmith,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,M,35-39,28.41,Juan P Romero,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Freestyle,SCY,M,35-39,57.31,Joseph A Ernst,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,M,35-39,37.06,Frank Arrasmith,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,M,35-39,38.07,Frank Arrasmith,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Breaststroke,SCY,M,35-39,1:10.85,Joseph A Ernst,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,M,35-39,29.26,Joseph A Ernst,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,M,35-39,29.67,Frank Arrasmith,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,M,35-39,32.61,Juan P Romero,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Individual Medley,SCY,M,35-39,1:10.55,Frank Arrasmith,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,M,35-39,1:14.93,Juan P Romero,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Individual Medley,SCY,M,35-39,2:26.93,Joseph A Ernst,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,M,40-44,23.99,Greg Davies,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,M,40-44,30.56,Socrates S Maroudis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Freestyle,SCY,M,40-44,55.03,Dale W Webster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Freestyle,SCY,M,40-44,1:02.51,Henry G Morales,,UCI Masters SCY,2014,2
+SDSM,200 Y Freestyle,SCY,M,40-44,2:03.49,Terry Frogley,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Freestyle,SCY,M,40-44,2:15.33,Jeffrey Ricks,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Freestyle,SCY,M,40-44,2:15.94,Henry G Morales,,UCI Masters SCY,2014,3
+SDSM,500 Y Freestyle,SCY,M,40-44,5:56.08,Henry G Morales,,UCI Masters SCY,2014,1
+SDSM,50 Y Backstroke,SCY,M,40-44,30.34,Dale W Webster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,M,40-44,30.34,Greg Davies,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Backstroke,SCY,M,40-44,2:30.79,Jeffrey Ricks,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,200 Y Backstroke,SCY,M,40-44,2:35.01,Terry Frogley,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,M,40-44,31.34,Dale W Webster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,M,40-44,31.94,Greg Davies,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Breaststroke,SCY,M,40-44,1:07.93,Dale W Webster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,M,40-44,1:19.33,John R Gross,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,200 Y Breaststroke,SCY,M,40-44,2:20.99,Libardo A Mendez-Ramirez,,21st Annual Fort Lauderdale Masters Challenge,2014,1
+SDSM,200 Y Breaststroke,SCY,M,40-44,2:44.01,Terry Frogley,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Breaststroke,SCY,M,40-44,3:03.49,Jeffrey Ricks,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,M,40-44,25.43,Greg Davies,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,M,40-44,27.77,Dale W Webster,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,M,40-44,31.38,John R Gross,,Mission Viejo Masters SCY Swim Meet,2014,3
+SDSM,100 Y Butterfly,SCY,M,40-44,56.01,Libardo A Mendez-Ramirez,,21st Annual Fort Lauderdale Masters Challenge,2014,1
+SDSM,100 Y Butterfly,SCY,M,40-44,1:18.96,John R Gross,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,200 Y Butterfly,SCY,M,40-44,2:03.69,Libardo A Mendez-Ramirez,,21st Annual Fort Lauderdale Masters Challenge,2014,1
+SDSM,200 Y Butterfly,SCY,M,40-44,2:35.31,Terry Frogley,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Butterfly,SCY,M,40-44,2:55.83,Jeffrey Ricks,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Individual Medley,SCY,M,40-44,58.15,Libardo A Mendez-Ramirez,,21st Annual Fort Lauderdale Masters Challenge,2014,1
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:01.09,Dale W Webster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:02.12,Greg Davies,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Individual Medley,SCY,M,40-44,1:14.61,Henry G Morales,,UCI Masters SCY,2014,4
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:06.69,Libardo A Mendez-Ramirez,,21st Annual Fort Lauderdale Masters Challenge,2014,1
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:17.97,Dale W Webster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,200 Y Individual Medley,SCY,M,40-44,2:51.89,John R Gross,,Mission Viejo Masters SCY Swim Meet,2014,3
+SDSM,400 Y Individual Medley,SCY,M,40-44,4:27.47,Libardo A Mendez-Ramirez,,21st Annual Fort Lauderdale Masters Challenge,2014,1
+SDSM,400 Y Individual Medley,SCY,M,40-44,5:10.92,Terry Frogley,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,400 Y Individual Medley,SCY,M,40-44,5:42.23,Jeffrey Ricks,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Freestyle,SCY,M,45-49,25.23,Tom S Wilson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,M,45-49,27.58,Michael Nitsch,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,2
+SDSM,100 Y Freestyle,SCY,M,45-49,52.89,Kenton R Jones,,Southwest Aquatic Masters Spring Meet,2014,1
+SDSM,100 Y Freestyle,SCY,M,45-49,1:01.51,Tom S Wilson,,Masters of Yucaipa Short Course Swim Meet,2014,2
+SDSM,100 Y Freestyle,SCY,M,45-49,1:02.67,Michael A Given,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Freestyle,SCY,M,45-49,1:04.18,Michael Nitsch,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,4
+SDSM,200 Y Freestyle,SCY,M,45-49,1:58.57,Kenton R Jones,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,200 Y Freestyle,SCY,M,45-49,2:32.37,Michael Nitsch,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,500 Y Freestyle,SCY,M,45-49,5:18.31,Kenton R Jones,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,1
+SDSM,1000 Y Freestyle,SCY,M,45-49,10:44.27,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,1650 Y Freestyle,SCY,M,45-49,18:40.34,Kenton R Jones,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,M,45-49,30.14,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,M,45-49,32.82,Tom S Wilson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Backstroke,SCY,M,45-49,36.64,Michael Nitsch,,Masters of Yucaipa Short Course Swim Meet,2014,3
+SDSM,100 Y Backstroke,SCY,M,45-49,1:08.59,Kenton R Jones,,UCI Masters SCY,2014,1
+SDSM,100 Y Backstroke,SCY,M,45-49,1:16.40,Michael A Given,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Backstroke,SCY,M,45-49,1:28.71,Michael Nitsch,,UCI Masters SCY,2014,3
+SDSM,200 Y Backstroke,SCY,M,45-49,2:24.32,Kenton R Jones,,Southwest Aquatic Masters Spring Meet,2014,1
+SDSM,50 Y Breaststroke,SCY,M,45-49,31.83,Kenton R Jones,,UCI Masters SCY,2014,1
+SDSM,50 Y Breaststroke,SCY,M,45-49,35.28,Tom S Wilson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,M,45-49,41.96,Michael Nitsch,,Caltech Pentathlon SCY Swim Meet,2014,3
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:06.90,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,M,45-49,1:23.65,Michael A Given,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Breaststroke,SCY,M,45-49,2:28.80,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Butterfly,SCY,M,45-49,27.55,Kenton R Jones,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,50 Y Butterfly,SCY,M,45-49,28.53,Tom S Wilson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Butterfly,SCY,M,45-49,31.43,Michael Nitsch,,Caltech Pentathlon SCY Swim Meet,2014,3
+SDSM,100 Y Butterfly,SCY,M,45-49,58.94,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Butterfly,SCY,M,45-49,1:08.25,Michael A Given,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Butterfly,SCY,M,45-49,2:13.77,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:01.82,Kenton R Jones,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:06.87,Tom S Wilson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Individual Medley,SCY,M,45-49,1:17.32,Michael Nitsch,,Caltech Pentathlon SCY Swim Meet,2014,3
+SDSM,200 Y Individual Medley,SCY,M,45-49,2:12.59,Kenton R Jones,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Individual Medley,SCY,M,45-49,2:32.31,Michael A Given,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Individual Medley,SCY,M,45-49,2:58.79,Michael Nitsch,,UCI Masters SCY,2014,3
+SDSM,400 Y Individual Medley,SCY,M,45-49,4:45.49,Kenton R Jones,,Southwest Aquatic Masters Spring Meet,2014,1
+SDSM,50 Y Freestyle,SCY,M,50-54,24.38,Andrey A Komissarov,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,M,50-54,28.74,Tony Bruno,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,M,50-54,30.14,Kevin Ohlin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Freestyle,SCY,M,50-54,30.47,Michael W Little,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,50 Y Freestyle,SCY,M,50-54,39.57,Frank Kennedy,,2013 San Diego Senior Games,2014,5
+SDSM,50 Y Freestyle,SCY,M,50-54,45.67,David M Jackson,,Masters of Yucaipa Short Course Swim Meet,2014,6
+SDSM,100 Y Freestyle,SCY,M,50-54,1:07.04,Jimmy Harden,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Freestyle,SCY,M,50-54,1:28.42,Frank Kennedy,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Freestyle,SCY,M,50-54,1:49.62,David M Jackson,,Masters of Yucaipa Short Course Swim Meet,2014,3
+SDSM,200 Y Freestyle,SCY,M,50-54,3:28.23,Frank Kennedy,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Backstroke,SCY,M,50-54,34.23,Tony Bruno,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,M,50-54,36.37,Kevin Ohlin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Backstroke,SCY,M,50-54,1:26.97,Jimmy Harden,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,M,50-54,35.65,Tony Bruno,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,M,50-54,38.90,Kevin Ohlin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,M,50-54,50.33,Frank Kennedy,,2013 San Diego Senior Games,2014,3
+SDSM,100 Y Breaststroke,SCY,M,50-54,1:04.67,Andrey A Komissarov,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Breaststroke,SCY,M,50-54,1:17.97,Jimmy Harden,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,200 Y Breaststroke,SCY,M,50-54,2:22.76,Andrey A Komissarov,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Butterfly,SCY,M,50-54,31.32,Tony Bruno,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,M,50-54,32.15,Kevin Ohlin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Butterfly,SCY,M,50-54,58.28,Andrey A Komissarov,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Butterfly,SCY,M,50-54,1:07.28,Vernon E Jacobs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Butterfly,SCY,M,50-54,1:14.45,Jimmy Harden,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Butterfly,SCY,M,50-54,2:29.34,Vernon E Jacobs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:13.98,Tony Bruno,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:15.40,Kevin Ohlin,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:25.16,Michael W Little,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Individual Medley,SCY,M,50-54,1:43.36,Frank Kennedy,,2013 San Diego Senior Games,2014,4
+SDSM,200 Y Individual Medley,SCY,M,50-54,2:07.44,Andrey A Komissarov,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Individual Medley,SCY,M,50-54,2:40.44,Jimmy Harden,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,M,55-59,26.87,Domenic C Rigoglioso,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Freestyle,SCY,M,55-59,27.61,Christopher D Webb,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Freestyle,SCY,M,55-59,28.07,John McLintock,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Freestyle,SCY,M,55-59,28.69,Steven J Plackemeier,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,50 Y Freestyle,SCY,M,55-59,28.75,Jack F Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,50 Y Freestyle,SCY,M,55-59,29.89,Kevin R Bishop,,2013 San Diego Senior Games,2014,6
+SDSM,50 Y Freestyle,SCY,M,55-59,34.75,Bill Walsh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,7
+SDSM,100 Y Freestyle,SCY,M,55-59,1:02.86,Christopher D Webb,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,1
+SDSM,100 Y Freestyle,SCY,M,55-59,1:04.45,Kevin R Bishop,,2013 San Diego Senior Games,2014,2
+SDSM,200 Y Freestyle,SCY,M,55-59,2:20.91,Christopher D Webb,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,1
+SDSM,200 Y Freestyle,SCY,M,55-59,2:25.27,Kevin R Bishop,,2013 San Diego Senior Games,2014,2
+SDSM,200 Y Freestyle,SCY,M,55-59,2:39.81,Darrell L Jett,,2013 San Diego Senior Games,2014,3
+SDSM,500 Y Freestyle,SCY,M,55-59,6:32.17,Christopher D Webb,,2013 San Diego Senior Games,2014,1
+SDSM,500 Y Freestyle,SCY,M,55-59,6:32.38,Kevin R Bishop,,2013 San Diego Senior Games,2014,2
+SDSM,500 Y Freestyle,SCY,M,55-59,7:21.06,Darrell L Jett,,2013 San Diego Senior Games,2014,3
+SDSM,1000 Y Freestyle,SCY,M,55-59,12:50.55,Steven J Plackemeier,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,50 Y Backstroke,SCY,M,55-59,35.15,Christopher D Webb,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,M,55-59,35.94,Steven J Plackemeier,,Masters of Yucaipa Short Course Swim Meet,2014,2
+SDSM,50 Y Backstroke,SCY,M,55-59,36.06,Darrell L Jett,,2013 San Diego Senior Games,2014,3
+SDSM,50 Y Backstroke,SCY,M,55-59,38.11,Bill Walsh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Backstroke,SCY,M,55-59,1:17.40,Darrell L Jett,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Backstroke,SCY,M,55-59,1:17.75,Steven J Plackemeier,,Masters of Yucaipa Short Course Swim Meet,2014,2
+SDSM,200 Y Backstroke,SCY,M,55-59,3:03.74,Darrell L Jett,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Breaststroke,SCY,M,55-59,36.33,John McLintock,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Breaststroke,SCY,M,55-59,38.04,Christopher D Webb,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Breaststroke,SCY,M,55-59,40.17,Bill Walsh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Breaststroke,SCY,M,55-59,41.45,Steven J Plackemeier,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,50 Y Butterfly,SCY,M,55-59,31.08,Domenic C Rigoglioso,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Butterfly,SCY,M,55-59,33.17,Steven J Plackemeier,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,50 Y Butterfly,SCY,M,55-59,35.43,Christopher D Webb,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,M,55-59,39.09,Bill Walsh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:11.12,Domenic C Rigoglioso,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:14.33,John McLintock,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:17.79,Jack F Ettelson,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:19.43,Christopher D Webb,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:19.76,Steven J Plackemeier,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,100 Y Individual Medley,SCY,M,55-59,1:20.38,Bill Walsh,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,6
+SDSM,50 Y Freestyle,SCY,M,60-64,25.60,Lee E Mench,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,M,60-64,28.02,Harry G Duffield,,2013 San Diego Senior Games,2014,2
+SDSM,50 Y Freestyle,SCY,M,60-64,32.54,Predrag Samardzic,,Masters of Yucaipa Short Course Swim Meet,2014,3
+SDSM,50 Y Freestyle,SCY,M,60-64,35.14,Carlos A Tortoza,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,100 Y Freestyle,SCY,M,60-64,55.82,Lee E Mench,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Freestyle,SCY,M,60-64,1:03.32,Harry G Duffield,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Freestyle,SCY,M,60-64,1:21.09,Predrag Samardzic,,2013 San Diego Senior Games,2014,3
+SDSM,100 Y Freestyle,SCY,M,60-64,1:21.67,Carlos A Tortoza,,2013 National Senior Games,2014,4
+SDSM,200 Y Freestyle,SCY,M,60-64,2:05.13,Lee E Mench,,2013 San Diego Senior Games,2014,1
+SDSM,200 Y Freestyle,SCY,M,60-64,2:31.85,Federico Sicard,,2013 San Diego Senior Games,2014,2
+SDSM,200 Y Freestyle,SCY,M,60-64,2:32.38,Harry G Duffield,,2013 San Diego Senior Games,2014,3
+SDSM,200 Y Freestyle,SCY,M,60-64,3:03.62,Predrag Samardzic,,UCI Masters SCY,2014,4
+SDSM,200 Y Freestyle,SCY,M,60-64,3:08.96,Carlos A Tortoza,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,500 Y Freestyle,SCY,M,60-64,5:38.19,Lee E Mench,,2013 San Diego Senior Games,2014,1
+SDSM,500 Y Freestyle,SCY,M,60-64,8:49.19,Predrag Samardzic,,2013 San Diego Senior Games,2014,2
+SDSM,50 Y Backstroke,SCY,M,60-64,47.02,Predrag Samardzic,,UCI Masters SCY,2014,1
+SDSM,50 Y Backstroke,SCY,M,60-64,56.95,Carlos A Tortoza,,2013 National Senior Games,2014,2
+SDSM,50 Y Breaststroke,SCY,M,60-64,36.46,Lee E Mench,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Breaststroke,SCY,M,60-64,47.03,Predrag Samardzic,,UCI Masters SCY,2014,2
+SDSM,50 Y Breaststroke,SCY,M,60-64,47.62,Carlos A Tortoza,,2013 National Senior Games,2014,3
+SDSM,100 Y Breaststroke,SCY,M,60-64,1:35.71,Federico Sicard,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Breaststroke,SCY,M,60-64,1:52.27,Carlos A Tortoza,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,2
+SDSM,100 Y Breaststroke,SCY,M,60-64,1:52.46,Predrag Samardzic,,UCI Masters SCY,2014,3
+SDSM,200 Y Breaststroke,SCY,M,60-64,3:29.95,Federico Sicard,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Individual Medley,SCY,M,60-64,1:26.82,Federico Sicard,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Individual Medley,SCY,M,60-64,1:38.36,Predrag Samardzic,,Masters of Yucaipa Short Course Swim Meet,2014,2
+SDSM,100 Y Individual Medley,SCY,M,60-64,1:54.97,Carlos A Tortoza,,2013 National Senior Games,2014,3
+SDSM,200 Y Individual Medley,SCY,M,60-64,3:13.30,Federico Sicard,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,M,65-69,26.25,Peter Andersen,,2013 National Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,M,65-69,31.52,Jerry O'Mara,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Freestyle,SCY,M,65-69,1:02.82,Peter Andersen,,2013 National Senior Games,2014,1
+SDSM,100 Y Freestyle,SCY,M,65-69,1:11.45,Jerry O'Mara,,2013 San Diego Senior Games,2014,2
+SDSM,200 Y Freestyle,SCY,M,65-69,2:40.93,Jerry O'Mara,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Backstroke,SCY,M,65-69,34.11,Howard W Rhoads,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Backstroke,SCY,M,65-69,1:18.94,Howard W Rhoads,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Breaststroke,SCY,M,65-69,33.00,Peter Andersen,,2013 National Senior Games,2014,1
+SDSM,50 Y Breaststroke,SCY,M,65-69,41.07,Jerry O'Mara,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Breaststroke,SCY,M,65-69,1:16.06,Peter Andersen,,2013 National Senior Games,2014,1
+SDSM,200 Y Breaststroke,SCY,M,65-69,2:58.22,Peter Andersen,,2013 National Senior Games,2014,1
+SDSM,100 Y Individual Medley,SCY,M,65-69,1:13.72,Peter Andersen,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Individual Medley,SCY,M,65-69,1:24.44,Jerry O'Mara,,2013 San Diego Senior Games,2014,2
+SDSM,50 Y Freestyle,SCY,M,70-74,27.20,Peter Andersen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,M,70-74,28.04,Tony Ralphs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Freestyle,SCY,M,70-74,28.40,Mike R Freshley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,50 Y Freestyle,SCY,M,70-74,29.98,Larry Walker,,Southwest Aquatic Masters Spring Meet,2014,4
+SDSM,50 Y Freestyle,SCY,M,70-74,30.01,John L Bell,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,5
+SDSM,50 Y Freestyle,SCY,M,70-74,53.76,Brian M Jones,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,6
+SDSM,100 Y Freestyle,SCY,M,70-74,1:02.70,Peter Andersen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Freestyle,SCY,M,70-74,1:04.81,Tony Ralphs,,Mission Viejo Masters SCY Swim Meet,2014,2
+SDSM,100 Y Freestyle,SCY,M,70-74,1:05.51,Mike R Freshley,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,3
+SDSM,100 Y Freestyle,SCY,M,70-74,1:07.84,Larry Walker,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,4
+SDSM,100 Y Freestyle,SCY,M,70-74,1:08.86,John L Bell,,CVMM Inaugural MATT BIONDI Masters SCY Classic,2014,5
+SDSM,200 Y Freestyle,SCY,M,70-74,2:21.94,Tony Ralphs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Freestyle,SCY,M,70-74,2:24.63,Mike R Freshley,,2013 National Senior Games,2014,2
+SDSM,200 Y Freestyle,SCY,M,70-74,2:39.56,Larry Walker,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,200 Y Freestyle,SCY,M,70-74,2:45.84,John L Bell,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,4
+SDSM,200 Y Freestyle,SCY,M,70-74,3:08.99,Daniel W Henry,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,500 Y Freestyle,SCY,M,70-74,6:25.91,Tony Ralphs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,500 Y Freestyle,SCY,M,70-74,6:51.97,Mike R Freshley,,2013 San Diego Senior Games,2014,2
+SDSM,1000 Y Freestyle,SCY,M,70-74,13:17.32,Tony Ralphs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,1650 Y Freestyle,SCY,M,70-74,22:10.73,Tony Ralphs,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Backstroke,SCY,M,70-74,35.13,Mike R Freshley,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,50 Y Backstroke,SCY,M,70-74,36.08,Larry Walker,,UCI Masters SCY,2014,2
+SDSM,50 Y Backstroke,SCY,M,70-74,39.35,Peter Andersen,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Backstroke,SCY,M,70-74,40.83,John L Bell,,SPMS Short Course Championships,2014,4
+SDSM,50 Y Backstroke,SCY,M,70-74,53.07,Brian M Jones,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,100 Y Backstroke,SCY,M,70-74,1:17.17,Mike R Freshley,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,100 Y Backstroke,SCY,M,70-74,1:18.96,Larry Walker,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,200 Y Backstroke,SCY,M,70-74,2:52.82,Larry Walker,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,M,70-74,33.68,Peter Andersen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,M,70-74,37.00,Mike R Freshley,,RBAC Masters SCY Swim Meet,2014,2
+SDSM,50 Y Breaststroke,SCY,M,70-74,43.53,Larry Walker,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Breaststroke,SCY,M,70-74,49.01,Brian M Jones,,2013 San Diego Senior Games,2014,4
+SDSM,100 Y Breaststroke,SCY,M,70-74,1:18.16,Peter Andersen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,M,70-74,1:19.49,Mike R Freshley,,2013 National Senior Games,2014,2
+SDSM,100 Y Breaststroke,SCY,M,70-74,1:53.62,Brian M Jones,,2013 San Diego Senior Games,2014,3
+SDSM,200 Y Breaststroke,SCY,M,70-74,2:51.14,Mike R Freshley,,2013 National Senior Games,2014,1
+SDSM,200 Y Breaststroke,SCY,M,70-74,2:56.50,Peter Andersen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Butterfly,SCY,M,70-74,31.05,Mike R Freshley,,2013 National Senior Games,2014,1
+SDSM,50 Y Butterfly,SCY,M,70-74,34.21,John L Bell,,AZ Senior Olympic Swim Meet,2014,2
+SDSM,50 Y Butterfly,SCY,M,70-74,36.99,Peter Andersen,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,3
+SDSM,50 Y Butterfly,SCY,M,70-74,37.14,Larry Walker,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,4
+SDSM,200 Y Butterfly,SCY,M,70-74,3:39.38,Tony Ralphs,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Individual Medley,SCY,M,70-74,1:11.20,Mike R Freshley,,2013 National Senior Games,2014,1
+SDSM,100 Y Individual Medley,SCY,M,70-74,1:13.75,Peter Andersen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,100 Y Individual Medley,SCY,M,70-74,1:20.63,John L Bell,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,100 Y Individual Medley,SCY,M,70-74,1:22.32,Larry Walker,,RBAC Masters SCY Swim Meet,2014,4
+SDSM,100 Y Individual Medley,SCY,M,70-74,2:21.25,Brian M Jones,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,5
+SDSM,200 Y Individual Medley,SCY,M,70-74,2:42.22,Mike R Freshley,,2013 National Senior Games,2014,1
+SDSM,200 Y Individual Medley,SCY,M,70-74,3:04.65,Larry Walker,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,400 Y Individual Medley,SCY,M,70-74,6:01.59,Mike R Freshley,,RBAC Masters SCY Swim Meet,2014,1
+SDSM,100 Y Backstroke,SCY,M,75-79,1:25.21,Laurance O Hill,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Backstroke,SCY,M,75-79,3:01.10,Laurance O Hill,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,M,80-84,30.79,Bob Best,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,50 Y Freestyle,SCY,M,80-84,38.36,Tom Mitchell,,Caltech Pentathlon SCY Swim Meet,2014,2
+SDSM,100 Y Freestyle,SCY,M,80-84,1:12.84,Bob Best,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,100 Y Freestyle,SCY,M,80-84,1:30.97,Tom Mitchell,,UCLA Bruin Masters SCY Swim Meet,2014,2
+SDSM,200 Y Freestyle,SCY,M,80-84,2:48.57,Bob Best,,UCI Masters SCY,2014,1
+SDSM,200 Y Freestyle,SCY,M,80-84,3:19.52,Tom Mitchell,,2013 San Diego Senior Games,2014,2
+SDSM,500 Y Freestyle,SCY,M,80-84,9:44.29,Tom Mitchell,,SPMS Short Course Championships,2014,1
+SDSM,1000 Y Freestyle,SCY,M,80-84,19:46.65,Tom Mitchell,,SPMS Short Course Championships,2014,1
+SDSM,1650 Y Freestyle,SCY,M,80-84,32:37.74,Tom Mitchell,,SPMS Short Course Championships,2014,1
+SDSM,50 Y Backstroke,SCY,M,80-84,42.24,Bob Best,,Caltech Pentathlon SCY Swim Meet,2014,1
+SDSM,50 Y Backstroke,SCY,M,80-84,44.35,Eric Hubach,,2013 National Senior Games,2014,2
+SDSM,50 Y Backstroke,SCY,M,80-84,49.55,Tom Mitchell,,Caltech Pentathlon SCY Swim Meet,2014,3
+SDSM,100 Y Backstroke,SCY,M,80-84,1:32.42,Bob Best,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,100 Y Backstroke,SCY,M,80-84,1:35.99,Eric Hubach,,2013 National Senior Games,2014,2
+SDSM,100 Y Backstroke,SCY,M,80-84,1:59.15,Tom Mitchell,,Southwest Aquatic Masters Spring Meet,2014,3
+SDSM,200 Y Backstroke,SCY,M,80-84,3:31.28,Eric Hubach,,2013 San Diego Senior Games,2014,1
+SDSM,200 Y Backstroke,SCY,M,80-84,4:27.36,Tom Mitchell,,Southwest Aquatic Masters Spring Meet,2014,2
+SDSM,50 Y Breaststroke,SCY,M,80-84,39.49,Bob Best,,SPMS Short Course Championships,2014,1
+SDSM,50 Y Breaststroke,SCY,M,80-84,49.21,Eric Hubach,,2013 National Senior Games,2014,2
+SDSM,50 Y Breaststroke,SCY,M,80-84,51.31,Tom Mitchell,,Caltech Pentathlon SCY Swim Meet,2014,3
+SDSM,100 Y Breaststroke,SCY,M,80-84,1:30.27,Bob Best,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,100 Y Breaststroke,SCY,M,80-84,1:51.06,Tom Mitchell,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,2
+SDSM,100 Y Breaststroke,SCY,M,80-84,1:51.61,Eric Hubach,,2013 National Senior Games,2014,3
+SDSM,200 Y Breaststroke,SCY,M,80-84,3:33.25,Bob Best,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+SDSM,200 Y Breaststroke,SCY,M,80-84,4:03.19,Eric Hubach,,2013 National Senior Games,2014,2
+SDSM,200 Y Breaststroke,SCY,M,80-84,4:10.09,Tom Mitchell,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+SDSM,50 Y Butterfly,SCY,M,80-84,38.68,Bob Best,,Caltech Pentathlon SCY Swim Meet,2014,1
+SDSM,50 Y Butterfly,SCY,M,80-84,51.69,Tom Mitchell,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,2
+SDSM,100 Y Butterfly,SCY,M,80-84,1:39.59,Bob Best,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,100 Y Butterfly,SCY,M,80-84,2:02.20,Tom Mitchell,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,2
+SDSM,100 Y Individual Medley,SCY,M,80-84,1:23.34,Bob Best,,Masters of Yucaipa Short Course Swim Meet,2014,1
+SDSM,100 Y Individual Medley,SCY,M,80-84,1:41.63,Eric Hubach,,2013 San Diego Senior Games,2014,2
+SDSM,100 Y Individual Medley,SCY,M,80-84,1:44.18,Tom Mitchell,,2014 Desert Classic SCY Meet hosted by The City of Palm Springs and The Piranha Swim Team Masters,2014,3
+SDSM,200 Y Individual Medley,SCY,M,80-84,3:11.60,Bob Best,,UCI Masters SCY,2014,1
+SDSM,200 Y Individual Medley,SCY,M,80-84,3:53.62,Tom Mitchell,,2013 San Diego Senior Games,2014,2
+SDSM,400 Y Individual Medley,SCY,M,80-84,7:21.37,Bob Best,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+SDSM,400 Y Individual Medley,SCY,M,80-84,8:37.61,Tom Mitchell,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+SDSM,50 Y Freestyle,SCY,M,85-89,37.05,Donald J Hubbard,,2013 San Diego Senior Games,2014,1
+SDSM,50 Y Freestyle,SCY,M,85-89,43.88,Jordan B Wolle,,2013 National Senior Games,2014,2
+SDSM,100 Y Freestyle,SCY,M,85-89,1:31.34,Donald J Hubbard,,2013 San Diego Senior Games,2014,1
+SDSM,100 Y Freestyle,SCY,M,85-89,1:53.01,Jordan B Wolle,,2013 National Senior Games,2014,2
+SDSM,200 Y Freestyle,SCY,M,85-89,4:15.59,Jordan B Wolle,,2013 National Senior Games,2014,1
+SDSM,500 Y Freestyle,SCY,M,85-89,9:48.71,Donald J Hubbard,,2013 San Diego Senior Games,2014,1
+SDSM,500 Y Freestyle,SCY,M,85-89,11:26.11,Jordan B Wolle,,2013 National Senior Games,2014,2
+SDSM,1000 Y Freestyle,SCY,M,85-89,26:16.22,Jordan B Wolle,,Misty Hyman Classic &amp; Arizona SCY Championship,2014,1
+SDSM,1650 Y Freestyle,SCY,M,85-89,43:45.62,Jordan B Wolle,,Misty Hyman Classic &amp; Arizona SCY Championship,2014,1
+SDSM,50 Y Breaststroke,SCY,M,85-89,59.07,Donald J Hubbard,,2013 San Diego Senior Games,2014,1
+UC44,50 Y Breaststroke,SCY,W,70-74,48.81,Ilona J Sike,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,100 Y Breaststroke,SCY,W,70-74,1:46.73,Ilona J Sike,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,200 Y Breaststroke,SCY,W,70-74,3:49.50,Ilona J Sike,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,50 Y Freestyle,SCY,M,25-29,23.72,Gari D Altamirano,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+UC44,50 Y Backstroke,SCY,M,25-29,27.80,Gari D Altamirano,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+UC44,50 Y Breaststroke,SCY,M,25-29,31.30,Gari D Altamirano,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+UC44,50 Y Butterfly,SCY,M,25-29,25.25,Gari D Altamirano,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+UC44,100 Y Individual Medley,SCY,M,25-29,58.09,Gari D Altamirano,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+UC44,50 Y Freestyle,SCY,M,50-54,23.93,Tore Blichfeldt,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,100 Y Freestyle,SCY,M,50-54,51.74,Tore Blichfeldt,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,200 Y Freestyle,SCY,M,50-54,1:53.13,Tore Blichfeldt,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,500 Y Freestyle,SCY,M,50-54,5:07.87,Tore Blichfeldt,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,1000 Y Freestyle,SCY,M,50-54,10:41.62,Tore Blichfeldt,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,50 Y Freestyle,SCY,M,65-69,31.01,Dale Wilson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UC44,100 Y Freestyle,SCY,M,65-69,1:12.07,Dale Wilson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+UNAT,50 Y Freestyle,SCY,M,50-54,25.43,Robert K Dowell,,2013 San Diego Senior Games,2014,1
+UNAT,100 Y Freestyle,SCY,M,50-54,57.63,Robert K Dowell,,2013 San Diego Senior Games,2014,1
+WIND,50 Y Freestyle,SCY,W,18-24,26.59,Erica S Burmood,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Freestyle,SCY,W,18-24,57.56,Erica S Burmood,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,500 Y Freestyle,SCY,W,18-24,5:50.56,Erica S Burmood,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Butterfly,SCY,W,18-24,1:01.32,Erica S Burmood,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Butterfly,SCY,W,18-24,2:19.30,Erica S Burmood,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,400 Y Individual Medley,SCY,W,18-24,5:08.51,Erica S Burmood,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,W,35-39,25.03,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,500 Y Freestyle,SCY,W,35-39,5:17.18,Cynthia J Lewis,,UCI Masters SCY,2014,1
+WIND,50 Y Backstroke,SCY,W,35-39,31.55,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Breaststroke,SCY,W,35-39,1:02.82,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Breaststroke,SCY,W,35-39,2:19.74,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Butterfly,SCY,W,35-39,27.23,Cynthia J Lewis,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+WIND,100 Y Butterfly,SCY,W,35-39,59.30,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,W,35-39,58.97,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Individual Medley,SCY,W,35-39,2:09.37,Cynthia J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,500 Y Freestyle,SCY,W,40-44,5:46.70,Natasha Reiss,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Breaststroke,SCY,W,40-44,36.42,Natasha Reiss,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Breaststroke,SCY,W,40-44,1:16.69,Natasha Reiss,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,W,40-44,1:08.77,Natasha Reiss,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Individual Medley,SCY,W,40-44,2:29.99,Natasha Reiss,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,W,45-49,31.42,Liane Bathey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+WIND,100 Y Freestyle,SCY,W,45-49,1:04.32,Liane Bathey,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Breaststroke,SCY,W,45-49,39.40,Liane Bathey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+WIND,100 Y Breaststroke,SCY,W,45-49,1:20.31,Liane Bathey,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,W,45-49,1:19.07,Liane Bathey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+WIND,100 Y Freestyle,SCY,M,25-29,52.85,Chris Berg,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,500 Y Freestyle,SCY,M,25-29,5:16.59,Chris Berg,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,1000 Y Freestyle,SCY,M,25-29,10:42.22,Chris Berg,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Butterfly,SCY,M,25-29,2:12.56,Chris Berg,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,400 Y Individual Medley,SCY,M,25-29,4:53.65,Chris Berg,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,M,35-39,23.28,Rodrigo J Iglesias,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,M,35-39,24.27,Ryan F Foster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+WIND,50 Y Freestyle,SCY,M,35-39,24.92,Chris Mahn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+WIND,100 Y Freestyle,SCY,M,35-39,50.41,Rodrigo J Iglesias,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Freestyle,SCY,M,35-39,52.85,Ryan F Foster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+WIND,100 Y Freestyle,SCY,M,35-39,54.46,Chris Mahn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+WIND,500 Y Freestyle,SCY,M,35-39,5:07.99,Ryan F Foster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,1000 Y Freestyle,SCY,M,35-39,10:40.91,Ryan F Foster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Backstroke,SCY,M,35-39,29.25,Chris Mahn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Backstroke,SCY,M,35-39,2:17.57,Chris Mahn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Butterfly,SCY,M,35-39,25.76,Rodrigo J Iglesias,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Butterfly,SCY,M,35-39,27.19,Ryan F Foster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+WIND,100 Y Butterfly,SCY,M,35-39,57.63,Rodrigo J Iglesias,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,M,35-39,58.52,Rodrigo J Iglesias,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,M,35-39,1:00.92,Chris Mahn,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2
+WIND,100 Y Individual Medley,SCY,M,35-39,1:01.69,Ryan F Foster,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,3
+WIND,50 Y Freestyle,SCY,M,40-44,23.33,Paton M McClung,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Freestyle,SCY,M,40-44,51.57,Paton M McClung,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Butterfly,SCY,M,40-44,25.95,Paton M McClung,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,M,40-44,1:01.90,Paton M McClung,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,500 Y Freestyle,SCY,M,45-49,5:25.87,Mike J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Backstroke,SCY,M,45-49,2:21.70,Mike J Lewis,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,M,50-54,26.60,Tony E Bathey,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Freestyle,SCY,M,50-54,58.58,Tony E Bathey,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Freestyle,SCY,M,50-54,2:09.54,Tony E Bathey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+WIND,500 Y Freestyle,SCY,M,50-54,6:00.01,Tony E Bathey,,Mission Valley YMCA 2014 Masters SCY Pancake Pentathlon,2014,1
+WIND,50 Y Freestyle,SCY,M,55-59,26.22,Robert Fremont,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Freestyle,SCY,M,55-59,58.23,Robert Fremont,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Backstroke,SCY,M,55-59,30.32,Robert Fremont,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,M,60-64,27.05,Jonathan Scheff,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Freestyle,SCY,M,60-64,59.68,Jonathan Scheff,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,200 Y Freestyle,SCY,M,60-64,2:16.93,Jonathan Scheff,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,500 Y Freestyle,SCY,M,60-64,6:19.55,Jonathan Scheff,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Freestyle,SCY,M,70-74,28.46,John K Whitley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Backstroke,SCY,M,70-74,34.41,John K Whitley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Backstroke,SCY,M,70-74,1:15.92,John K Whitley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Breaststroke,SCY,M,70-74,37.21,John K Whitley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,50 Y Butterfly,SCY,M,70-74,33.37,John K Whitley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1
+WIND,100 Y Individual Medley,SCY,M,70-74,1:14.15,John K Whitley,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1

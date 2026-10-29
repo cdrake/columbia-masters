@@ -1,0 +1,555 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+CARL,100 M Backstroke,SCM,W,45-49,1:22.34,Karen R Sing,,SPMA SCM Champs,2005,1
+CARL,100 M Breaststroke,SCM,W,45-49,1:31.77,Karen R Sing,,SPMA SCM Champs,2005,1
+CARL,50 M Butterfly,SCM,W,45-49,34.41,Karen R Sing,,SPMA SCM Champs,2005,1
+CARL,100 M Freestyle,SCM,M,30-34,54.54,Sean C Swain,,SPMA SCM Champs,2005,1
+CARL,200 M Freestyle,SCM,M,30-34,1:59.28,Sean C Swain,,SPMA SCM Champs,2005,1
+CARL,400 M Freestyle,SCM,M,30-34,4:18.78,Sean C Swain,,SPMA SCM Champs,2005,1
+CARL,100 M Freestyle,SCM,M,35-39,53.82,Jeffrey M Prior,,SPMA SCM Champs,2005,1
+CARL,200 M Backstroke,SCM,M,35-39,2:15.37,Jeffrey M Prior,,SPMA SCM Champs,2005,1
+CARL,100 M Butterfly,SCM,M,35-39,58.61,Jeffrey M Prior,,SPMA SCM Champs,2005,1
+CARL,100 M Individual Medley,SCM,M,35-39,1:00.94,Jeffrey M Prior,,SPMA SCM Champs,2005,1
+CARL,400 M Individual Medley,SCM,M,35-39,4:47.27,Jeffrey M Prior,,SPMA SCM Champs,2005,1
+CARL,50 M Backstroke,SCM,M,45-49,30.69,Vincent D Morales,,SPMA SCM Champs,2005,1
+CARL,100 M Backstroke,SCM,M,45-49,1:07.27,Vincent D Morales,,SPMA SCM Champs,2005,1
+CARL,200 M Backstroke,SCM,M,45-49,2:24.72,Vincent D Morales,,SPMA SCM Champs,2005,1
+CARL,50 M Butterfly,SCM,M,45-49,29.76,Vincent D Morales,,SPMA SCM Champs,2005,1
+CARL,100 M Individual Medley,SCM,M,45-49,1:07.26,Vincent D Morales,,SPMA SCM Champs,2005,1
+CARL,200 M Individual Medley,SCM,M,45-49,2:26.99,Vincent D Morales,,SPMA SCM Champs,2005,1
+DSST,100 M Freestyle,SCM,M,40-44,1:16.78,Rob J Bowsher,,IGLA Championships,2005,1
+DSST,200 M Freestyle,SCM,M,40-44,2:49.68,Rob J Bowsher,,IGLA Championships,2005,1
+DSST,400 M Freestyle,SCM,M,40-44,6:08.41,Rob J Bowsher,,IGLA Championships,2005,1
+DSST,800 M Freestyle,SCM,M,40-44,12:48.45,Rob J Bowsher,,IGLA Championships,2005,1
+DSST,1500 M Freestyle,SCM,M,40-44,23:58.53,Rob J Bowsher,,IGLA Championships,2005,1
+HSAM,200 M Freestyle,SCM,W,18-24,2:32.43,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,400 M Freestyle,SCM,W,18-24,5:19.28,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,100 M Backstroke,SCM,W,18-24,1:15.80,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,200 M Backstroke,SCM,W,18-24,2:42.70,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,100 M Butterfly,SCM,W,18-24,1:23.22,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,100 M Individual Medley,SCM,W,18-24,1:22.18,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,200 M Individual Medley,SCM,W,18-24,2:51.25,Emily A Nicholson,,SPMA SCM Champs,2005,1
+HSAM,400 M Freestyle,SCM,W,25-29,5:45.87,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,W,25-29,11:59.88,Christine M Spicer,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Backstroke,SCM,W,25-29,1:28.89,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,50 M Breaststroke,SCM,W,25-29,46.04,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,W,25-29,1:38.05,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,200 M Breaststroke,SCM,W,25-29,3:24.38,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,200 M Individual Medley,SCM,W,25-29,3:09.78,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,400 M Individual Medley,SCM,W,25-29,6:26.77,Christine M Spicer,,SPMA SCM Champs,2005,1
+HSAM,50 M Freestyle,SCM,W,35-39,29.73,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,100 M Freestyle,SCM,W,35-39,1:05.00,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,W,35-39,2:19.30,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,W,35-39,2:23.79,Nancy A North,,SPMA SCM Champs,2005,2
+HSAM,400 M Freestyle,SCM,W,35-39,5:10.65,Nancy A North,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,W,35-39,10:48.80,Nancy A North,,HSAM Short Course Meters Meet,2005,1
+HSAM,1500 M Freestyle,SCM,W,35-39,20:35.04,Nancy A North,,Santa Clarita SCM Meet,2005,1
+HSAM,50 M Backstroke,SCM,W,35-39,36.23,Nancy A North,,SPMA SCM Champs,2005,1
+HSAM,100 M Backstroke,SCM,W,35-39,1:18.18,Nancy A North,,SPMA SCM Champs,2005,1
+HSAM,200 M Backstroke,SCM,W,35-39,2:43.14,Nancy A North,,SPMA SCM Champs,2005,1
+HSAM,50 M Breaststroke,SCM,W,35-39,40.81,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,W,35-39,1:27.51,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,200 M Breaststroke,SCM,W,35-39,3:11.72,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,200 M Butterfly,SCM,W,35-39,2:43.47,Nancy A North,,SPMA SCM Champs,2005,1
+HSAM,100 M Individual Medley,SCM,W,35-39,1:17.68,Surrena Lovell,,SPMA SCM Champs,2005,1
+HSAM,400 M Individual Medley,SCM,W,35-39,5:50.57,Nancy A North,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,W,40-44,2:26.12,Robin L Sherg,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,W,40-44,10:42.73,Robin L Sherg,,SPMA SCM Champs,2005,1
+HSAM,1500 M Freestyle,SCM,W,40-44,19:53.95,Robin L Sherg,,SPMA SCM Champs,2005,1
+HSAM,200 M Butterfly,SCM,W,40-44,3:01.73,Robin L Sherg,,SPMA SCM Champs,2005,1
+HSAM,200 M Individual Medley,SCM,W,40-44,2:59.11,Robin L Sherg,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,W,50-54,14:30.88,Patricia S Emerich,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Breaststroke,SCM,W,50-54,1:59.41,Patricia S Emerich,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Individual Medley,SCM,W,50-54,1:47.49,Patricia S Emerich,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Freestyle,SCM,W,55-59,41.93,Sue Brassy,,SPMA SCM Champs,2005,1
+HSAM,100 M Freestyle,SCM,W,55-59,1:53.58,Jane S O'Dea,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Breaststroke,SCM,W,55-59,49.56,Sue Brassy,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,W,55-59,1:50.82,Sue Brassy,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,W,55-59,2:05.94,Jane S O'Dea,,HSAM Short Course Meters Meet,2005,2
+HSAM,200 M Breaststroke,SCM,W,55-59,4:05.03,Sue Brassy,,SPMA SCM Champs,2005,1
+HSAM,100 M Individual Medley,SCM,W,55-59,1:49.02,Sue Brassy,,SPMA SCM Champs,2005,1
+HSAM,50 M Freestyle,SCM,W,60-64,46.24,Diane Flaherty,,SPMA SCM Champs,2005,1
+HSAM,100 M Freestyle,SCM,W,60-64,1:40.47,Diane Flaherty,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,W,60-64,3:38.66,Diane Flaherty,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,W,60-64,3:38.68,Marlee R Valderhaug,,SPMA SCM Champs,2005,2
+HSAM,400 M Freestyle,SCM,W,60-64,7:44.23,Marlee R Valderhaug,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,W,60-64,15:15.13,Marlee R Valderhaug,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,W,60-64,15:57.27,Diane Flaherty,,SPMA SCM Champs,2005,2
+HSAM,1500 M Freestyle,SCM,W,60-64,29:25.53,Marlee R Valderhaug,,SPMA SCM Champs,2005,1
+HSAM,50 M Backstroke,SCM,W,60-64,1:00.54,Marlee R Valderhaug,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Breaststroke,SCM,W,60-64,54.93,Diane Flaherty,,SPMA SCM Champs,2005,1
+HSAM,50 M Breaststroke,SCM,W,60-64,55.81,Marlee R Valderhaug,,SPMA SCM Champs,2005,2
+HSAM,100 M Breaststroke,SCM,W,60-64,1:59.16,Diane Flaherty,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,W,60-64,2:03.75,Marlee R Valderhaug,,HSAM Short Course Meters Meet,2005,2
+HSAM,800 M Freestyle,SCM,W,65-69,15:19.25,Marilyn A Ramey,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Backstroke,SCM,W,65-69,1:49.06,Marilyn A Ramey,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Breaststroke,SCM,W,65-69,54.26,Marilyn A Ramey,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Breaststroke,SCM,W,65-69,1:57.63,Marilyn A Ramey,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Individual Medley,SCM,W,65-69,1:48.95,Marilyn A Ramey,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Freestyle,SCM,W,75-79,58.49,Nancy L Reed,,SPMA SCM Champs,2005,1
+HSAM,100 M Freestyle,SCM,W,75-79,2:06.27,Nancy L Reed,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,W,75-79,4:32.07,Nancy L Reed,,SPMA SCM Champs,2005,1
+HSAM,400 M Freestyle,SCM,W,75-79,9:30.13,Nancy L Reed,,HSAM Short Course Meters Meet,2005,1
+HSAM,800 M Freestyle,SCM,W,75-79,19:10.88,Nancy L Reed,,HSAM Short Course Meters Meet,2005,1
+HSAM,1500 M Freestyle,SCM,W,75-79,39:01.69,Nancy L Reed,,SPMA SCM Champs,2005,1
+HSAM,50 M Backstroke,SCM,W,75-79,1:08.48,Nancy L Reed,,SPMA SCM Champs,2005,1
+HSAM,50 M Freestyle,SCM,M,18-24,28.81,Nathan B Selby,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Breaststroke,SCM,M,18-24,37.06,Nathan B Selby,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Breaststroke,SCM,M,25-29,1:25.14,Bryon E Spicer,,SPMA SCM Champs,2005,1
+HSAM,200 M Breaststroke,SCM,M,25-29,3:07.96,Bryon E Spicer,,SPMA SCM Champs,2005,1
+HSAM,100 M Butterfly,SCM,M,25-29,1:22.51,Bryon E Spicer,,SPMA SCM Champs,2005,1
+HSAM,100 M Individual Medley,SCM,M,25-29,1:18.21,Bryon E Spicer,,SPMA SCM Champs,2005,1
+HSAM,200 M Individual Medley,SCM,M,25-29,2:53.19,Bryon E Spicer,,SPMA SCM Champs,2005,1
+HSAM,400 M Individual Medley,SCM,M,25-29,6:12.08,Bryon E Spicer,,SPMA SCM Champs,2005,1
+HSAM,800 M Freestyle,SCM,M,40-44,14:45.28,Sean P Purcell,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Freestyle,SCM,M,45-49,1:05.67,Ron P Schafer,,HSAM Short Course Meters Meet,2005,1
+HSAM,200 M Freestyle,SCM,M,45-49,2:24.40,Ron P Schafer,,SPMA SCM Champs,2005,1
+HSAM,400 M Freestyle,SCM,M,45-49,5:15.75,Ron P Schafer,,SPMA SCM Champs,2005,1
+HSAM,100 M Backstroke,SCM,M,45-49,1:21.12,Ron P Schafer,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Breaststroke,SCM,M,45-49,33.95,Ron P Schafer,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,M,45-49,1:13.20,Ron P Schafer,,SPMA SCM Champs,2005,1
+HSAM,200 M Breaststroke,SCM,M,45-49,2:39.84,Ron P Schafer,,SPMA SCM Champs,2005,1
+HSAM,200 M Individual Medley,SCM,M,45-49,2:38.97,Ron P Schafer,,SPMA SCM Champs,2005,1
+HSAM,50 M Freestyle,SCM,M,50-54,26.84,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,100 M Freestyle,SCM,M,50-54,58.30,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,200 M Freestyle,SCM,M,50-54,2:07.49,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,400 M Freestyle,SCM,M,50-54,4:33.50,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,1500 M Freestyle,SCM,M,50-54,19:10.35,Lee E Mench,,Santa Clarita SCM Meet,2005,1
+HSAM,50 M Breaststroke,SCM,M,50-54,35.31,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,50 M Breaststroke,SCM,M,50-54,41.60,Moze A Mossay,,HSAM Short Course Meters Meet,2005,2
+HSAM,100 M Breaststroke,SCM,M,50-54,1:30.44,Moze A Mossay,,HSAM Short Course Meters Meet,2005,1
+HSAM,200 M Breaststroke,SCM,M,50-54,3:18.12,Moze A Mossay,,SPMA SCM Champs,2005,1
+HSAM,50 M Butterfly,SCM,M,50-54,31.21,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,50 M Butterfly,SCM,M,50-54,39.53,Moze A Mossay,,SPMA SCM Champs,2005,2
+HSAM,100 M Individual Medley,SCM,M,50-54,1:08.33,Lee E Mench,,SPMA SCM Champs,2005,1
+HSAM,100 M Individual Medley,SCM,M,50-54,1:32.07,Moze A Mossay,,SPMA SCM Champs,2005,2
+HSAM,50 M Freestyle,SCM,M,55-59,34.57,Bruce Menzies,,HSAM Short Course Meters Meet,2005,1
+HSAM,800 M Freestyle,SCM,M,55-59,17:31.02,Paul M Nagel,,HSAM Short Course Meters Meet,2005,1
+HSAM,800 M Freestyle,SCM,M,60-64,11:26.47,Douglas W Selby,,SPMA SCM Champs,2005,1
+HSAM,1500 M Freestyle,SCM,M,60-64,21:51.12,Douglas W Selby,,SPMA SCM Champs,2005,1
+HSAM,50 M Backstroke,SCM,M,60-64,43.78,David E Szuch,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Backstroke,SCM,M,60-64,1:27.73,Douglas W Selby,,HSAM Short Course Meters Meet,2005,1
+HSAM,100 M Backstroke,SCM,M,60-64,1:36.89,David E Szuch,,HSAM Short Course Meters Meet,2005,2
+HSAM,100 M Individual Medley,SCM,M,60-64,1:31.01,David E Szuch,,HSAM Short Course Meters Meet,2005,1
+HSAM,200 M Individual Medley,SCM,M,60-64,3:22.56,David E Szuch,,HSAM Short Course Meters Meet,2005,1
+HSAM,50 M Breaststroke,SCM,M,75-79,55.13,Gene Sapper,,SPMA SCM Champs,2005,1
+HSAM,100 M Breaststroke,SCM,M,75-79,2:27.42,Gene Sapper,,SPMA SCM Champs,2005,1
+HSAM,50 M Butterfly,SCM,M,75-79,1:00.02,Gene Sapper,,SPMA SCM Champs,2005,1
+HSAM,100 M Butterfly,SCM,M,75-79,2:23.46,Gene Sapper,,SPMA SCM Champs,2005,1
+HSAM,200 M Butterfly,SCM,M,75-79,5:21.12,Gene Sapper,,SPMA SCM Champs,2005,1
+LMM,100 M Backstroke,SCM,W,18-24,1:31.02,Janelle M Malueg,,HSAM Short Course Meters Meet,2005,1
+LMM,50 M Butterfly,SCM,W,18-24,43.83,Janelle M Malueg,,HSAM Short Course Meters Meet,2005,1
+LMM,100 M Individual Medley,SCM,W,18-24,1:31.78,Janelle M Malueg,,HSAM Short Course Meters Meet,2005,1
+LMM,50 M Breaststroke,SCM,M,40-44,37.29,George W Burtless,,HSAM Short Course Meters Meet,2005,1
+LMM,50 M Butterfly,SCM,M,40-44,33.13,George W Burtless,,HSAM Short Course Meters Meet,2005,1
+LMM,100 M Individual Medley,SCM,M,40-44,1:15.44,George W Burtless,,HSAM Short Course Meters Meet,2005,1
+LMM,800 M Freestyle,SCM,M,60-64,12:04.86,Alfredo Guzman,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Freestyle,SCM,W,18-24,31.24,Rebecca D Fink,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Freestyle,SCM,W,18-24,1:09.34,Rebecca D Fink,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Butterfly,SCM,W,18-24,34.64,Johanna P Schroeder,,SPMA SCM Champs,2005,1
+SDSM,100 M Butterfly,SCM,W,18-24,1:24.12,Johanna P Schroeder,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,18-24,1:20.89,Johanna P Schroeder,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,W,18-24,3:01.57,Johanna P Schroeder,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,W,30-34,43.69,Tiffany D Merkin,,SPMA SCM Champs,2005,1
+SDSM,200 M Backstroke,SCM,W,30-34,3:00.32,Wendy A Kellner,,IGLA Championships,2005,1
+SDSM,50 M Breaststroke,SCM,W,30-34,48.50,Tiffany D Merkin,,SPMA SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,W,30-34,1:48.43,Tiffany D Merkin,,SPMA SCM Champs,2005,1
+SDSM,200 M Breaststroke,SCM,W,30-34,3:50.49,Tiffany D Merkin,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,W,30-34,3:02.12,Wendy A Kellner,,IGLA Championships,2005,1
+SDSM,400 M Individual Medley,SCM,W,30-34,6:33.59,Wendy A Kellner,,IGLA Championships,2005,1
+SDSM,50 M Freestyle,SCM,W,35-39,37.44,Peggy A Cuppy,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,35-39,47.02,Peggy A Cuppy,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,35-39,1:44.36,Peggy A Cuppy,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,W,40-44,27.21,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,W,40-44,28.93,Vicky M Davidson,,HSAM Short Course Meters Meet,2005,2
+SDSM,50 M Freestyle,SCM,W,40-44,30.99,Janet G Coover,,SPMA SCM Champs,2005,3
+SDSM,50 M Freestyle,SCM,W,40-44,41.46,Amy J Lepine,,SPMA SCM Champs,2005,4
+SDSM,100 M Freestyle,SCM,W,40-44,58.36,Karlyn Pipes-Neilsen,,SW Zone SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,W,40-44,1:03.87,Caroline M Krattli,,HSAM Short Course Meters Meet,2005,2
+SDSM,100 M Freestyle,SCM,W,40-44,1:33.93,Kim E Theriault,,SPMA SCM Champs,2005,3
+SDSM,100 M Freestyle,SCM,W,40-44,1:41.58,Amy J Lepine,,SPMA SCM Champs,2005,4
+SDSM,200 M Freestyle,SCM,W,40-44,2:07.14,Karlyn Pipes-Neilsen,,SW Zone SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,W,40-44,3:29.11,Kim E Theriault,,SPMA SCM Champs,2005,2
+SDSM,200 M Freestyle,SCM,W,40-44,3:53.80,Amy J Lepine,,SPMA SCM Champs,2005,3
+SDSM,400 M Freestyle,SCM,W,40-44,4:28.03,Karlyn Pipes-Neilsen,,SW Zone SCM Champs,2005,1
+SDSM,1500 M Freestyle,SCM,W,40-44,19:52.30,Janet G Coover,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,50 M Backstroke,SCM,W,40-44,30.97,Karlyn Pipes-Neilsen,,SW Zone Official Splits,2005,1
+SDSM,50 M Backstroke,SCM,W,40-44,33.01,Vicky M Davidson,,HSAM Short Course Meters Meet,2005,2
+SDSM,50 M Backstroke,SCM,W,40-44,55.29,Kim E Theriault,,SPMA SCM Champs,2005,3
+SDSM,100 M Backstroke,SCM,W,40-44,1:06.05,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,W,40-44,1:12.39,Caroline M Krattli,,HSAM Short Course Meters Meet,2005,2
+SDSM,100 M Backstroke,SCM,W,40-44,2:12.14,Kim E Theriault,,SPMA SCM Champs,2005,3
+SDSM,200 M Backstroke,SCM,W,40-44,2:21.95,Karlyn Pipes-Neilsen,,SW Zone SCM Champs,2005,1
+SDSM,200 M Backstroke,SCM,W,40-44,2:48.34,Janet G Coover,,Mission Viejo Nadadores SCM Meet,2005,2
+SDSM,50 M Breaststroke,SCM,W,40-44,34.67,Caroline M Krattli,,SW Zone SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,W,40-44,38.99,Janet G Coover,,Mission Viejo Nadadores SCM Meet,2005,2
+SDSM,100 M Breaststroke,SCM,W,40-44,1:14.42,Caroline M Krattli,,SW Zone SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,W,40-44,1:22.73,Janet G Coover,,SPMA SCM Champs,2005,2
+SDSM,200 M Breaststroke,SCM,W,40-44,2:42.40,Caroline M Krattli,,SW Zone SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,40-44,29.72,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,40-44,31.74,Vicky M Davidson,,HSAM Short Course Meters Meet,2005,2
+SDSM,50 M Butterfly,SCM,W,40-44,35.86,Janet G Coover,,SPMA SCM Champs,2005,3
+SDSM,50 M Butterfly,SCM,W,40-44,56.63,Amy J Lepine,,SPMA SCM Champs,2005,4
+SDSM,100 M Butterfly,SCM,W,40-44,1:03.90,Karlyn Pipes-Neilsen,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,40-44,1:05.72,Karlyn Pipes-Neilsen,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,40-44,1:09.64,Caroline M Krattli,,SW Zone SCM Champs,2005,2
+SDSM,100 M Individual Medley,SCM,W,40-44,1:13.76,Vicky M Davidson,,HSAM Short Course Meters Meet,2005,3
+SDSM,200 M Individual Medley,SCM,W,40-44,2:22.67,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,W,40-44,2:30.86,Caroline M Krattli,,SW Zone SCM Champs,2005,2
+SDSM,200 M Individual Medley,SCM,W,40-44,2:41.37,Janet G Coover,,SPMA SCM Champs,2005,3
+SDSM,400 M Individual Medley,SCM,W,40-44,5:02.73,Karlyn Pipes-Neilsen,,SPMA SCM Champs,2005,1
+SDSM,400 M Individual Medley,SCM,W,40-44,5:41.49,Janet G Coover,,Mission Viejo Nadadores SCM Meet,2005,2
+SDSM,50 M Freestyle,SCM,W,45-49,38.61,Karen D Poirier,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,W,45-49,1:18.44,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,W,45-49,1:27.79,Karen D Poirier,,SPMA SCM Champs,2005,2
+SDSM,200 M Freestyle,SCM,W,45-49,3:15.39,Karen D Poirier,,SPMA SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,W,45-49,6:39.48,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,W,45-49,51.25,Karen D Poirier,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,45-49,36.96,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,45-49,46.16,Karen D Poirier,,SPMA SCM Champs,2005,2
+SDSM,100 M Butterfly,SCM,W,45-49,1:27.61,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,200 M Butterfly,SCM,W,45-49,3:21.71,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,45-49,1:29.79,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,W,45-49,3:13.67,Patricia B Thomas,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,W,50-54,31.33,Marilyn A Fink,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Freestyle,SCM,W,50-54,1:10.52,Marilyn A Fink,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Backstroke,SCM,W,50-54,37.30,Marilyn A Fink,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Freestyle,SCM,W,55-59,32.56,Barbara G Dunbar,,SW Zone Official Splits,2005,1
+SDSM,50 M Freestyle,SCM,W,55-59,37.76,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,100 M Freestyle,SCM,W,55-59,1:13.23,Barbara G Dunbar,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Freestyle,SCM,W,55-59,1:29.45,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,200 M Freestyle,SCM,W,55-59,2:31.52,Barbara G Dunbar,,SW Zone SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,W,55-59,3:18.42,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,400 M Freestyle,SCM,W,55-59,5:21.31,Barbara G Dunbar,,HSAM Short Course Meters Meet,2005,1
+SDSM,400 M Freestyle,SCM,W,55-59,7:10.14,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,800 M Freestyle,SCM,W,55-59,10:52.75,Barbara G Dunbar,,HSAM Short Course Meters Meet,2005,1
+SDSM,800 M Freestyle,SCM,W,55-59,14:42.04,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,1500 M Freestyle,SCM,W,55-59,20:19.27,Barbara G Dunbar,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,1500 M Freestyle,SCM,W,55-59,27:37.25,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,100 M Backstroke,SCM,W,55-59,1:26.74,Barbara G Dunbar,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Breaststroke,SCM,W,55-59,48.63,Barbara G Dunbar,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Breaststroke,SCM,W,55-59,55.06,Virginia Baker,,Huntsman World Senior Games,2005,2
+SDSM,100 M Breaststroke,SCM,W,55-59,2:03.64,Virginia Baker,,Huntsman World Senior Games,2005,1
+SDSM,200 M Breaststroke,SCM,W,55-59,4:22.12,Virginia Baker,,Huntsman World Senior Games,2005,1
+SDSM,100 M Butterfly,SCM,W,55-59,1:20.78,Barbara G Dunbar,,SW Zone SCM Champs,2005,1
+SDSM,200 M Butterfly,SCM,W,55-59,3:09.87,Barbara G Dunbar,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,55-59,1:52.02,Virginia Baker,,Huntsman World Senior Games,2005,1
+SDSM,200 M Individual Medley,SCM,W,55-59,3:00.47,Barbara G Dunbar,,SW Zone SCM Champs,2005,1
+SDSM,400 M Individual Medley,SCM,W,55-59,6:26.62,Barbara G Dunbar,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,50 M Freestyle,SCM,W,60-64,37.02,Jackie M Marr,,SW Zone Official Splits,2005,1
+SDSM,100 M Freestyle,SCM,W,60-64,1:17.65,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,W,60-64,2:52.80,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,W,60-64,6:12.07,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,W,60-64,46.38,Jackie M Marr,,SW Zone Official Splits,2005,1
+SDSM,100 M Backstroke,SCM,W,60-64,1:36.33,Jackie M Marr,,SW Zone Official Splits,2005,1
+SDSM,200 M Backstroke,SCM,W,60-64,3:16.49,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,W,60-64,50.98,Jackie M Marr,,SW Zone Official Splits,2005,1
+SDSM,100 M Breaststroke,SCM,W,60-64,1:46.70,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,200 M Breaststroke,SCM,W,60-64,3:38.21,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,60-64,47.66,Jackie M Marr,,SW Zone Official Splits,2005,1
+SDSM,100 M Individual Medley,SCM,W,60-64,1:32.99,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,W,60-64,3:27.52,Jackie M Marr,,SW Zone SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,W,65-69,37.41,Lynne H Lund,,SW Zone SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,W,65-69,1:27.40,Lynne H Lund,,Huntsman World Senior Games,2005,1
+SDSM,200 M Freestyle,SCM,W,65-69,3:05.11,Lynne H Lund,,SPMA SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,W,65-69,3:07.54,Betsy T Jordan,,SW Zone SCM Champs,2005,2
+SDSM,400 M Freestyle,SCM,W,65-69,6:24.22,Betsy T Jordan,,SW Zone SCM Champs,2005,1
+SDSM,800 M Freestyle,SCM,W,65-69,13:16.23,Betsy T Jordan,,HSAM Short Course Meters Meet,2005,1
+SDSM,1500 M Freestyle,SCM,W,65-69,25:30.49,Betsy T Jordan,,SW Zone SCM Champs,2005,1
+SDSM,1500 M Freestyle,SCM,W,65-69,25:32.25,Lynne H Lund,,Huntsman World Senior Games,2005,2
+SDSM,50 M Backstroke,SCM,W,65-69,41.90,Betsy T Jordan,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Backstroke,SCM,W,65-69,45.30,Lynne H Lund,,SW Zone SCM Champs,2005,2
+SDSM,100 M Backstroke,SCM,W,65-69,1:32.83,Betsy T Jordan,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Backstroke,SCM,W,65-69,1:39.24,Lynne H Lund,,SW Zone SCM Champs,2005,2
+SDSM,200 M Backstroke,SCM,W,65-69,3:26.07,Betsy T Jordan,,SW Zone SCM Champs,2005,1
+SDSM,200 M Backstroke,SCM,W,65-69,3:33.43,Lynne H Lund,,SPMA SCM Champs,2005,2
+SDSM,100 M Breaststroke,SCM,W,65-69,1:58.02,Lynne H Lund,,SPMA SCM Champs,2005,1
+SDSM,200 M Breaststroke,SCM,W,65-69,4:03.76,Lynne H Lund,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,W,65-69,39.79,Lynne H Lund,,SW Zone SCM Champs,2005,1
+SDSM,100 M Butterfly,SCM,W,65-69,1:35.28,Lynne H Lund,,SW Zone SCM Champs,2005,1
+SDSM,100 M Butterfly,SCM,W,65-69,1:45.43,Betsy T Jordan,,SW Zone SCM Champs,2005,2
+SDSM,200 M Butterfly,SCM,W,65-69,3:42.95,Lynne H Lund,,SW Zone SCM Champs,2005,1
+SDSM,200 M Butterfly,SCM,W,65-69,3:48.35,Betsy T Jordan,,SW Zone SCM Champs,2005,2
+SDSM,100 M Individual Medley,SCM,W,65-69,1:36.35,Lynne H Lund,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,65-69,1:39.66,Betsy T Jordan,,SW Zone SCM Champs,2005,2
+SDSM,200 M Individual Medley,SCM,W,65-69,3:29.42,Betsy T Jordan,,HSAM Short Course Meters Meet,2005,1
+SDSM,200 M Individual Medley,SCM,W,65-69,3:29.73,Lynne H Lund,,SPMA SCM Champs,2005,2
+SDSM,400 M Individual Medley,SCM,W,65-69,7:20.51,Lynne H Lund,,SW Zone SCM Champs,2005,1
+SDSM,400 M Individual Medley,SCM,W,65-69,7:39.51,Betsy T Jordan,,SW Zone SCM Champs,2005,2
+SDSM,800 M Freestyle,SCM,W,75-79,22:24.11,Marian E Wolle,,SW Zone SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,W,75-79,3:13.07,Marian E Wolle,,Huntsman World Senior Games,2005,1
+SDSM,100 M Breaststroke,SCM,W,75-79,4:22.31,Marian E Wolle,,Huntsman World Senior Games,2005,1
+SDSM,50 M Butterfly,SCM,W,75-79,1:56.91,Marian E Wolle,,Huntsman World Senior Games,2005,1
+SDSM,200 M Butterfly,SCM,W,75-79,9:34.27,Marian E Wolle,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,W,75-79,3:29.39,Marian E Wolle,,Huntsman World Senior Games,2005,1
+SDSM,200 M Individual Medley,SCM,W,75-79,7:17.78,Marian E Wolle,,Huntsman World Senior Games,2005,1
+SDSM,400 M Individual Medley,SCM,W,75-79,16:12.47,Marian E Wolle,,SW Zone SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,W,80-84,58.03,Diana M Silva,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Freestyle,SCM,W,80-84,2:06.29,Diana M Silva,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Backstroke,SCM,W,80-84,1:06.25,Diana M Silva,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Backstroke,SCM,W,80-84,2:24.02,Diana M Silva,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Freestyle,SCM,M,18-24,28.36,Will T Senn,,SPMA SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,M,18-24,1:20.62,Will T Senn,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,18-24,31.16,Will T Senn,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,25-29,24.10,Adam M Conway,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,25-29,25.18,Matthew T Pentland,,SPMA SCM Champs,2005,2
+SDSM,50 M Freestyle,SCM,M,25-29,25.69,Matthew V Young,,SPMA SCM Champs,2005,3
+SDSM,100 M Freestyle,SCM,M,25-29,53.44,Adam M Conway,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,M,25-29,56.82,Matthew T Pentland,,SPMA SCM Champs,2005,2
+SDSM,100 M Freestyle,SCM,M,25-29,59.10,Matthew V Young,,SPMA SCM Champs,2005,3
+SDSM,100 M Freestyle,SCM,M,25-29,1:14.32,Kevin B Mc Gowan,,DC Aquatics Club Fall Swim,2005,4
+SDSM,200 M Freestyle,SCM,M,25-29,2:04.85,Adam M Conway,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,200 M Freestyle,SCM,M,25-29,2:44.52,Kevin B Mc Gowan,,DC Aquatics Club Fall Swim,2005,2
+SDSM,400 M Freestyle,SCM,M,25-29,5:56.28,Kevin B Mc Gowan,,DC Aquatics Club Fall Swim,2005,1
+SDSM,50 M Backstroke,SCM,M,25-29,28.90,Matthew T Pentland,,SPMA SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,M,25-29,1:03.22,Matthew T Pentland,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,25-29,35.53,Matthew V Young,,SPMA SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,M,25-29,1:21.06,Johan M Pulgarin,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,25-29,25.61,Adam M Conway,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,25-29,30.55,Johan M Pulgarin,,SPMA SCM Champs,2005,2
+SDSM,100 M Butterfly,SCM,M,25-29,56.45,Adam M Conway,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,25-29,1:00.86,Adam M Conway,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,30-34,32.01,Matthew M Thomas,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,M,30-34,1:08.63,Matthew M Thomas,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,30-34,36.96,Matthew M Thomas,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,30-34,39.34,Yachun Hung,,IGLA Championships,2005,2
+SDSM,100 M Breaststroke,SCM,M,30-34,1:27.86,Yachun Hung,,IGLA Championships,2005,1
+SDSM,200 M Breaststroke,SCM,M,30-34,3:09.48,Yachun Hung,,IGLA Championships,2005,1
+SDSM,50 M Butterfly,SCM,M,30-34,32.68,Matthew M Thomas,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,30-34,1:17.64,Matthew M Thomas,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,35-39,26.73,Kenton R Jones,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,35-39,30.94,Brian K Robinson,,IGLA Championships,2005,2
+SDSM,100 M Freestyle,SCM,M,35-39,58.77,Kenton R Jones,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,M,35-39,1:16.51,Douglas S Rehg,,IGLA Championships,2005,2
+SDSM,200 M Freestyle,SCM,M,35-39,2:11.04,Kenton R Jones,,SPMA SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,M,35-39,4:43.99,Kenton R Jones,,SPMA SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,M,35-39,32.89,Kenton R Jones,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Backstroke,SCM,M,35-39,34.77,Brian K Robinson,,IGLA Championships,2005,2
+SDSM,100 M Backstroke,SCM,M,35-39,1:20.22,Brian K Robinson,,IGLA Championships,2005,1
+SDSM,50 M Breaststroke,SCM,M,35-39,43.11,Douglas S Rehg,,SPMA SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,M,35-39,1:15.78,Kenton R Jones,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Breaststroke,SCM,M,35-39,1:34.28,Douglas S Rehg,,SPMA SCM Champs,2005,2
+SDSM,200 M Breaststroke,SCM,M,35-39,3:29.42,Douglas S Rehg,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,35-39,41.12,Douglas S Rehg,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,35-39,1:08.54,Kenton R Jones,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,40-44,29.75,Robert J Ryan,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,50 M Freestyle,SCM,M,40-44,31.99,Rodney R Schwan,,IGLA Championships,2005,2
+SDSM,100 M Freestyle,SCM,M,40-44,1:12.14,Rodney R Schwan,,IGLA Championships,2005,1
+SDSM,200 M Freestyle,SCM,M,40-44,2:23.35,Joey Hinton,,SPMA SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,M,40-44,5:04.81,Joey Hinton,,SPMA SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,M,40-44,5:20.54,Michael A Given,,SPMA SCM Champs,2005,2
+SDSM,800 M Freestyle,SCM,M,40-44,10:29.79,Joey Hinton,,SPMA SCM Champs,2005,1
+SDSM,1500 M Freestyle,SCM,M,40-44,21:14.83,Michael A Given,,IGLA Championships,2005,1
+SDSM,50 M Backstroke,SCM,M,40-44,36.22,Timothy F Brouillette,,IGLA Championships,2005,1
+SDSM,100 M Backstroke,SCM,M,40-44,1:19.37,Timothy F Brouillette,,IGLA Championships,2005,1
+SDSM,100 M Backstroke,SCM,M,40-44,1:22.25,Michael A Given,,SPMA SCM Champs,2005,2
+SDSM,50 M Breaststroke,SCM,M,40-44,35.84,Robert J Ryan,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,40-44,36.54,Jimmy W Harden,,IGLA Championships,2005,2
+SDSM,50 M Breaststroke,SCM,M,40-44,39.33,Timothy F Brouillette,,IGLA Championships,2005,3
+SDSM,50 M Breaststroke,SCM,M,40-44,39.89,Michael A Given,,SPMA SCM Champs,2005,4
+SDSM,100 M Breaststroke,SCM,M,40-44,1:21.68,Jimmy W Harden,,IGLA Championships,2005,1
+SDSM,100 M Breaststroke,SCM,M,40-44,1:22.87,Robert J Ryan,,SPMA SCM Champs,2005,2
+SDSM,100 M Breaststroke,SCM,M,40-44,1:25.41,Timothy F Brouillette,,IGLA Championships,2005,3
+SDSM,100 M Breaststroke,SCM,M,40-44,1:29.24,Michael A Given,,SPMA SCM Champs,2005,4
+SDSM,200 M Breaststroke,SCM,M,40-44,2:59.39,Jimmy W Harden,,IGLA Championships,2005,1
+SDSM,200 M Breaststroke,SCM,M,40-44,3:12.77,Robert J Ryan,,SPMA SCM Champs,2005,2
+SDSM,50 M Butterfly,SCM,M,40-44,32.66,Michael A Given,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,40-44,34.99,Rodney R Schwan,,IGLA Championships,2005,2
+SDSM,100 M Butterfly,SCM,M,40-44,1:19.58,Jimmy W Harden,,IGLA Championships,2005,1
+SDSM,200 M Butterfly,SCM,M,40-44,2:51.72,Michael A Given,,IGLA Championships,2005,1
+SDSM,200 M Butterfly,SCM,M,40-44,3:11.44,Jimmy W Harden,,IGLA Championships,2005,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:13.84,Timothy F Brouillette,,IGLA Championships,2005,1
+SDSM,100 M Individual Medley,SCM,M,40-44,1:15.46,Michael A Given,,SPMA SCM Champs,2005,2
+SDSM,100 M Individual Medley,SCM,M,40-44,1:25.24,Robert J Ryan,,IGLA Championships,2005,3
+SDSM,200 M Individual Medley,SCM,M,40-44,2:45.21,Michael A Given,,SPMA SCM Champs,2005,1
+SDSM,400 M Individual Medley,SCM,M,40-44,5:49.68,Michael A Given,,IGLA Championships,2005,1
+SDSM,50 M Freestyle,SCM,M,45-49,28.01,Bart J Mc Dermott,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,45-49,31.53,Jonathan S Koelle,,SPMA SCM Champs,2005,2
+SDSM,100 M Freestyle,SCM,M,45-49,59.18,Bart J McDermott,,IGLA Championships,2005,1
+SDSM,100 M Freestyle,SCM,M,45-49,1:08.65,Darrell L Jett,,HSAM Short Course Meters Meet,2005,2
+SDSM,100 M Freestyle,SCM,M,45-49,1:09.35,Paul R Stricker,,SPMA SCM Champs,2005,3
+SDSM,100 M Freestyle,SCM,M,45-49,1:11.55,Jonathan S Koelle,,SPMA SCM Champs,2005,4
+SDSM,200 M Freestyle,SCM,M,45-49,3:02.63,Jonathan S Koelle,,IGLA Championships,2005,1
+SDSM,400 M Freestyle,SCM,M,45-49,4:49.92,Bart J McDermott,,IGLA Championships,2005,1
+SDSM,400 M Freestyle,SCM,M,45-49,6:07.23,Brian R Kelly,,SPMA SCM Champs,2005,2
+SDSM,400 M Freestyle,SCM,M,45-49,6:10.18,Jonathan S Koelle,,IGLA Championships,2005,3
+SDSM,800 M Freestyle,SCM,M,45-49,12:45.36,Brian R Kelly,,SPMA SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,M,45-49,34.55,Abel Menchaca,,IGLA Championships,2005,1
+SDSM,50 M Backstroke,SCM,M,45-49,37.49,Darrell L Jett,,HSAM Short Course Meters Meet,2005,2
+SDSM,100 M Backstroke,SCM,M,45-49,1:14.00,Paul R Stricker,,SPMA SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,M,45-49,1:14.91,Abel Menchaca,,IGLA Championships,2005,2
+SDSM,100 M Backstroke,SCM,M,45-49,1:21.00,Darrell L Jett,,HSAM Short Course Meters Meet,2005,3
+SDSM,50 M Breaststroke,SCM,M,45-49,36.15,Abel Menchaca,,IGLA Championships,2005,1
+SDSM,100 M Breaststroke,SCM,M,45-49,1:20.83,Abel Menchaca,,IGLA Championships,2005,1
+SDSM,50 M Butterfly,SCM,M,45-49,28.80,Paul R Stricker,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,45-49,29.10,Bart J McDermott,,IGLA Championships,2005,2
+SDSM,50 M Butterfly,SCM,M,45-49,37.87,Jonathan S Koelle,,SPMA SCM Champs,2005,3
+SDSM,50 M Butterfly,SCM,M,45-49,43.35,Brian R Kelly,,SPMA SCM Champs,2005,4
+SDSM,100 M Butterfly,SCM,M,45-49,1:05.24,Bart J McDermott,,IGLA Championships,2005,1
+SDSM,200 M Butterfly,SCM,M,45-49,2:29.71,Bart J McDermott,,IGLA Championships,2005,1
+SDSM,100 M Individual Medley,SCM,M,45-49,1:29.10,Jonathan S Koelle,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,M,45-49,2:34.41,Bart J Mc Dermott,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,M,45-49,2:58.73,Darrell L Jett,,HSAM Short Course Meters Meet,2005,2
+SDSM,50 M Freestyle,SCM,M,50-54,26.80,Mark Wussler,,IGLA Championships,2005,1
+SDSM,50 M Freestyle,SCM,M,50-54,30.74,Scott B Ehrlich,,SPMA SCM Champs,2005,2
+SDSM,100 M Freestyle,SCM,M,50-54,1:00.72,Mark Wussler,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,M,50-54,1:08.73,Scott B Ehrlich,,IGLA Championships,2005,2
+SDSM,100 M Freestyle,SCM,M,50-54,1:11.60,Fabio Astudillo,,SPMA SCM Champs,2005,3
+SDSM,200 M Freestyle,SCM,M,50-54,2:09.96,Mark Wussler,,IGLA Championships,2005,1
+SDSM,400 M Freestyle,SCM,M,50-54,4:57.09,Mark Wussler,,SPMA SCM Champs,2005,1
+SDSM,800 M Freestyle,SCM,M,50-54,10:42.77,Mark Wussler,,HSAM Short Course Meters Meet,2005,1
+SDSM,50 M Breaststroke,SCM,M,50-54,33.86,Mark Wussler,,IGLA Championships,2005,1
+SDSM,50 M Breaststroke,SCM,M,50-54,43.53,Charles Kaehler,,IGLA Championships,2005,2
+SDSM,100 M Breaststroke,SCM,M,50-54,1:15.38,Mark Wussler,,IGLA Championships,2005,1
+SDSM,100 M Breaststroke,SCM,M,50-54,1:38.98,Charles Kaehler,,IGLA Championships,2005,2
+SDSM,200 M Breaststroke,SCM,M,50-54,2:45.98,Mark Wussler,,IGLA Championships,2005,1
+SDSM,200 M Breaststroke,SCM,M,50-54,3:48.59,Charles Kaehler,,IGLA Championships,2005,2
+SDSM,50 M Butterfly,SCM,M,50-54,33.12,Fabio Astudillo,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,50-54,34.81,Scott B Ehrlich,,IGLA Championships,2005,2
+SDSM,100 M Butterfly,SCM,M,50-54,1:16.52,Fabio Astudillo,,SPMA SCM Champs,2005,1
+SDSM,100 M Butterfly,SCM,M,50-54,1:25.56,Scott B Ehrlich,,IGLA Championships,2005,2
+SDSM,200 M Butterfly,SCM,M,50-54,3:20.94,Fabio Astudillo,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:11.53,Mark Wussler,,SPMA SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,50-54,1:19.33,Scott B Ehrlich,,IGLA Championships,2005,2
+SDSM,100 M Individual Medley,SCM,M,50-54,1:24.58,Fabio Astudillo,,SPMA SCM Champs,2005,3
+SDSM,100 M Individual Medley,SCM,M,50-54,1:34.21,Charles Kaehler,,IGLA Championships,2005,4
+SDSM,200 M Individual Medley,SCM,M,50-54,3:04.18,Scott B Ehrlich,,IGLA Championships,2005,1
+SDSM,200 M Individual Medley,SCM,M,50-54,3:11.97,Fabio Astudillo,,SPMA SCM Champs,2005,2
+SDSM,50 M Freestyle,SCM,M,55-59,46.31,Ian Dolman,,IGLA Championships,2005,1
+SDSM,100 M Freestyle,SCM,M,55-59,1:07.08,Federico Sicard,,SPMA SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,M,55-59,5:37.02,Federico Sicard,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,60-64,27.07,Vinus Van Baalen,,SW Zone SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,60-64,29.08,Mike R Freshley,,SW Zone SCM Champs,2005,2
+SDSM,50 M Freestyle,SCM,M,60-64,33.00,Juan Molina,,SPMA SCM Champs,2005,3
+SDSM,50 M Freestyle,SCM,M,60-64,33.55,Ricky L Evans,,Pierce College Turkey Shoot,2005,4
+SDSM,100 M Freestyle,SCM,M,60-64,1:02.78,Vinus Van Baalen,,SW Zone SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,M,60-64,32.59,Vinus Van Baalen,,SW Zone SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,M,60-64,36.55,Mike R Freshley,,UCLA SCM,2005,2
+SDSM,50 M Backstroke,SCM,M,60-64,38.14,Ricky L Evans,,SPMA SCM Champs,2005,3
+SDSM,50 M Backstroke,SCM,M,60-64,41.20,Juan Molina,,Pierce College Turkey Shoot,2005,4
+SDSM,100 M Backstroke,SCM,M,60-64,1:24.37,Ricky L Evans,,SPMA SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,M,60-64,1:27.74,Vinus Van Baalen,,SW Zone SCM Champs,2005,2
+SDSM,200 M Backstroke,SCM,M,60-64,3:12.33,Ricky L Evans,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,60-64,38.12,Mike R Freshley,,SW Zone SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,M,60-64,1:23.63,Mike R Freshley,,SW Zone SCM Champs,2005,1
+SDSM,200 M Breaststroke,SCM,M,60-64,3:01.89,Mike R Freshley,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,60-64,31.08,Mike R Freshley,,SW Zone SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,60-64,33.60,Vinus Van Baalen,,SPMA SCM Champs,2005,2
+SDSM,100 M Butterfly,SCM,M,60-64,1:21.49,Mike R Freshley,,Huntsman World Senior Games,2005,1
+SDSM,200 M Butterfly,SCM,M,60-64,3:02.61,Mike R Freshley,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:14.30,Mike R Freshley,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,60-64,1:25.38,Ricky L Evans,,SPMA SCM Champs,2005,2
+SDSM,200 M Individual Medley,SCM,M,60-64,2:48.60,Mike R Freshley,,SPMA SCM Champs,2005,1
+SDSM,400 M Individual Medley,SCM,M,60-64,6:05.90,Mike R Freshley,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,65-69,30.05,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,M,65-69,1:08.44,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,M,65-69,2:30.33,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,M,65-69,5:28.68,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,800 M Freestyle,SCM,M,65-69,11:32.06,Frank Williams,,SW Zone Official Splits,2005,1
+SDSM,1500 M Freestyle,SCM,M,65-69,21:41.05,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,65-69,47.71,Peter E Riddle,,SW Zone SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,M,65-69,1:52.05,Peter E Riddle,,SW Zone SCM Champs,2005,1
+SDSM,200 M Breaststroke,SCM,M,65-69,4:15.10,Peter E Riddle,,SW Zone SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,65-69,32.70,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,100 M Butterfly,SCM,M,65-69,1:19.11,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,200 M Butterfly,SCM,M,65-69,3:33.18,Frank Williams,,SW Zone SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,70-74,32.77,Bob Best,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,50 M Freestyle,SCM,M,70-74,34.43,Graham M Johnston,,San Antonio Nadadores SCM Meet,2005,2
+SDSM,50 M Freestyle,SCM,M,70-74,34.84,Donald J Baker,,SW Zone SCM Champs,2005,3
+SDSM,50 M Freestyle,SCM,M,70-74,1:13.94,Gary L Vyne,,IGLA Championships,2005,4
+SDSM,100 M Freestyle,SCM,M,70-74,1:14.41,Graham M Johnston,,San Antonio Nadadores SCM Meet,2005,1
+SDSM,100 M Freestyle,SCM,M,70-74,1:14.63,Bob Best,,UCLA SCM,2005,2
+SDSM,100 M Freestyle,SCM,M,70-74,1:17.74,Donald J Baker,,SW Zone SCM Champs,2005,3
+SDSM,100 M Freestyle,SCM,M,70-74,3:04.11,Gary L Vyne,,IGLA Championships,2005,4
+SDSM,200 M Freestyle,SCM,M,70-74,2:47.54,Graham M Johnston,,San Antonio Nadadores SCM Meet,2005,1
+SDSM,200 M Freestyle,SCM,M,70-74,3:01.26,Donald J Baker,,SW Zone SCM Champs,2005,2
+SDSM,400 M Freestyle,SCM,M,70-74,6:20.51,Bob Best,,UCLA SCM,2005,1
+SDSM,400 M Freestyle,SCM,M,70-74,6:42.84,Donald J Baker,,SW Zone SCM Champs,2005,2
+SDSM,800 M Freestyle,SCM,M,70-74,12:57.19,Bob Best,,UCLA SCM,2005,1
+SDSM,800 M Freestyle,SCM,M,70-74,14:31.92,Donald J Baker,,Huntsman World Senior Games,2005,2
+SDSM,50 M Backstroke,SCM,M,70-74,42.55,Graham M Johnston,,San Antonio Nadadores SCM Meet,2005,1
+SDSM,50 M Backstroke,SCM,M,70-74,43.91,Bob Best,,Mission Viejo Nadadores SCM Meet,2005,2
+SDSM,50 M Backstroke,SCM,M,70-74,45.96,Donald J Baker,,Huntsman World Senior Games,2005,3
+SDSM,100 M Backstroke,SCM,M,70-74,1:38.00,Bob Best,,UCLA SCM,2005,1
+SDSM,50 M Breaststroke,SCM,M,70-74,40.26,Bob Best,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,70-74,46.51,Donald J Baker,,SW Zone SCM Champs,2005,2
+SDSM,50 M Breaststroke,SCM,M,70-74,1:22.50,Gary L Vyne,,IGLA Championships,2005,3
+SDSM,100 M Breaststroke,SCM,M,70-74,1:34.46,Bob Best,,SPMA SCM Champs,2005,1
+SDSM,100 M Breaststroke,SCM,M,70-74,1:48.47,Donald J Baker,,SW Zone SCM Champs,2005,2
+SDSM,100 M Breaststroke,SCM,M,70-74,3:09.75,Gary L Vyne,,IGLA Championships,2005,3
+SDSM,200 M Breaststroke,SCM,M,70-74,3:31.33,Bob Best,,SPMA SCM Champs,2005,1
+SDSM,50 M Butterfly,SCM,M,70-74,38.03,Bob Best,,SPMA SCM Champs,2005,1
+SDSM,100 M Butterfly,SCM,M,70-74,1:35.75,Bob Best,,UCLA SCM,2005,1
+SDSM,200 M Butterfly,SCM,M,70-74,3:46.32,Bob Best,,Pierce College Turkey Shoot,2005,1
+SDSM,100 M Individual Medley,SCM,M,70-74,1:25.65,Bob Best,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,100 M Individual Medley,SCM,M,70-74,1:30.48,Graham M Johnston,,San Antonio Nadadores SCM Meet,2005,2
+SDSM,100 M Individual Medley,SCM,M,70-74,1:33.86,Donald J Baker,,SW Zone SCM Champs,2005,3
+SDSM,200 M Individual Medley,SCM,M,70-74,3:15.21,Bob Best,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,75-79,34.94,Ken Kimball,,Huntsman World Senior Games,2005,1
+SDSM,50 M Freestyle,SCM,M,75-79,34.98,Dale A Webster,,SW Zone SCM Champs,2005,2
+SDSM,50 M Freestyle,SCM,M,75-79,37.90,Donald J Hubbard,,Huntsman World Senior Games,2005,3
+SDSM,50 M Freestyle,SCM,M,75-79,38.37,Duane L Draves,,SPMA SCM Champs,2005,4
+SDSM,50 M Freestyle,SCM,M,75-79,39.38,Jordan B Wolle,,Huntsman World Senior Games,2005,5
+SDSM,100 M Freestyle,SCM,M,75-79,1:20.00,Ken Kimball,,Huntsman World Senior Games,2005,1
+SDSM,100 M Freestyle,SCM,M,75-79,1:23.33,Dale A Webster,,SW Zone SCM Champs,2005,2
+SDSM,100 M Freestyle,SCM,M,75-79,1:33.10,Jordan B Wolle,,SW Zone SCM Champs,2005,3
+SDSM,100 M Freestyle,SCM,M,75-79,1:47.90,Donald J Hubbard,,HSAM Short Course Meters Meet,2005,4
+SDSM,200 M Freestyle,SCM,M,75-79,3:03.04,Ken Kimball,,Huntsman World Senior Games,2005,1
+SDSM,200 M Freestyle,SCM,M,75-79,3:13.13,Dale A Webster,,SW Zone SCM Champs,2005,2
+SDSM,200 M Freestyle,SCM,M,75-79,3:14.02,Duane L Draves,,SPMA SCM Champs,2005,3
+SDSM,200 M Freestyle,SCM,M,75-79,3:36.11,Jordan B Wolle,,Huntsman World Senior Games,2005,4
+SDSM,400 M Freestyle,SCM,M,75-79,7:01.88,Ken Kimball,,Huntsman World Senior Games,2005,1
+SDSM,400 M Freestyle,SCM,M,75-79,7:27.64,Jordan B Wolle,,SW Zone SCM Champs,2005,2
+SDSM,800 M Freestyle,SCM,M,75-79,14:13.78,Ken Kimball,,Huntsman World Senior Games,2005,1
+SDSM,800 M Freestyle,SCM,M,75-79,15:51.74,Jordan B Wolle,,SW Zone Official Splits,2005,2
+SDSM,1500 M Freestyle,SCM,M,75-79,26:40.88,Ken Kimball,,Huntsman World Senior Games,2005,1
+SDSM,1500 M Freestyle,SCM,M,75-79,29:53.72,Jordan B Wolle,,SW Zone SCM Champs,2005,2
+SDSM,50 M Backstroke,SCM,M,75-79,43.20,Dale A Webster,,SW Zone SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,M,75-79,43.80,Ken Kimball,,HSAM Short Course Meters Meet,2005,2
+SDSM,50 M Backstroke,SCM,M,75-79,46.02,Duane L Draves,,SPMA SCM Champs,2005,3
+SDSM,100 M Backstroke,SCM,M,75-79,1:39.34,Duane L Draves,,SPMA SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,M,75-79,1:39.36,Dale A Webster,,SW Zone SCM Champs,2005,2
+SDSM,100 M Backstroke,SCM,M,75-79,1:41.12,Ken Kimball,,Huntsman World Senior Games,2005,3
+SDSM,200 M Backstroke,SCM,M,75-79,3:43.99,Dale A Webster,,SW Zone SCM Champs,2005,1
+SDSM,200 M Backstroke,SCM,M,75-79,3:48.26,Duane L Draves,,SPMA SCM Champs,2005,2
+SDSM,200 M Breaststroke,SCM,M,75-79,4:49.78,Donald J Hubbard,,Huntsman World Senior Games,2005,1
+SDSM,50 M Butterfly,SCM,M,75-79,50.33,Donald J Hubbard,,HSAM Short Course Meters Meet,2005,1
+SDSM,100 M Butterfly,SCM,M,75-79,2:11.18,Donald J Hubbard,,HSAM Short Course Meters Meet,2005,1
+SDSM,200 M Butterfly,SCM,M,75-79,5:24.19,Donald J Hubbard,,Huntsman World Senior Games,2005,1
+SDSM,100 M Individual Medley,SCM,M,75-79,1:39.17,Dale A Webster,,SW Zone SCM Champs,2005,1
+SDSM,100 M Individual Medley,SCM,M,75-79,1:43.44,Duane L Draves,,SPMA SCM Champs,2005,2
+SDSM,100 M Individual Medley,SCM,M,75-79,2:04.90,Donald J Hubbard,,HSAM Short Course Meters Meet,2005,3
+SDSM,200 M Individual Medley,SCM,M,75-79,3:58.56,Dale A Webster,,SW Zone SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,M,75-79,4:31.36,Donald J Hubbard,,Huntsman World Senior Games,2005,2
+SDSM,400 M Individual Medley,SCM,M,75-79,9:31.43,Donald J Hubbard,,Huntsman World Senior Games,2005,1
+SDSM,50 M Freestyle,SCM,M,80-84,32.80,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,50 M Freestyle,SCM,M,80-84,38.81,Jurgen B Schmidt,,SPMA SCM Champs,2005,2
+SDSM,100 M Freestyle,SCM,M,80-84,1:17.02,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,M,80-84,3:00.86,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,200 M Freestyle,SCM,M,80-84,3:21.23,Jurgen B Schmidt,,SPMA SCM Champs,2005,2
+SDSM,400 M Freestyle,SCM,M,80-84,6:38.23,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,400 M Freestyle,SCM,M,80-84,6:55.00,Jurgen B Schmidt,,SPMA SCM Champs,2005,2
+SDSM,800 M Freestyle,SCM,M,80-84,13:41.19,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,1500 M Freestyle,SCM,M,80-84,27:32.71,Jurgen B Schmidt,,Mission Viejo Nadadores SCM Meet,2005,1
+SDSM,100 M Backstroke,SCM,M,80-84,1:54.49,Jurgen B Schmidt,,SPMA SCM Champs,2005,1
+SDSM,50 M Breaststroke,SCM,M,80-84,46.55,Frank M Piemme,,Pierce College Turkey Shoot,2005,1
+SDSM,100 M Breaststroke,SCM,M,80-84,1:42.05,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,200 M Breaststroke,SCM,M,80-84,3:47.87,Frank M Piemme,,Pierce College Turkey Shoot,2005,1
+SDSM,100 M Individual Medley,SCM,M,80-84,1:32.65,Frank M Piemme,,SPMA SCM Champs,2005,1
+SDSM,200 M Individual Medley,SCM,M,80-84,4:00.12,Frank Piemme,,Huntsman World Senior Games,2005,1
+SDSM,200 M Individual Medley,SCM,M,80-84,4:17.09,Jurgen B Schmidt,,SPMA SCM Champs,2005,2
+SDSM,400 M Individual Medley,SCM,M,80-84,7:49.23,Frank M Piemme,,Pierce College Turkey Shoot,2005,1
+SDSM,50 M Freestyle,SCM,M,85-89,55.32,Tom Haver,,SPMA SCM Champs,2005,1
+SDSM,100 M Freestyle,SCM,M,85-89,2:19.34,Tom Haver,,HSAM Short Course Meters Meet,2005,1
+SDSM,200 M Freestyle,SCM,M,85-89,5:24.92,Tom Haver,,SPMA SCM Champs,2005,1
+SDSM,50 M Backstroke,SCM,M,85-89,56.10,Tom Haver,,SPMA SCM Champs,2005,1
+SDSM,100 M Backstroke,SCM,M,85-89,2:12.22,Tom Haver,,SPMA SCM Champs,2005,1
+SDSM,200 M Backstroke,SCM,M,85-89,4:55.23,Tom Haver,,SPMA SCM Champs,2005,1
+SSLM,50 M Freestyle,SCM,M,25-29,24.67,Dylan O Malagrino,,SPMA SCM Champs,2005,1
+SSLM,100 M Freestyle,SCM,M,25-29,55.01,Dylan O Malagrino,,UCLA SCM,2005,1
+SSLM,50 M Butterfly,SCM,M,25-29,27.61,Dylan O Malagrino,,SPMA SCM Champs,2005,1
+SSR,800 M Freestyle,SCM,W,35-39,10:17.63,Karen M Guerin,,HSAM Short Course Meters Meet,2005,1
+SSR,100 M Breaststroke,SCM,W,35-39,1:24.54,Karen M Guerin,,HSAM Short Course Meters Meet,2005,1
+SSR,100 M Butterfly,SCM,W,35-39,1:21.03,Karen M Guerin,,HSAM Short Course Meters Meet,2005,1
+SSR,100 M Individual Medley,SCM,W,35-39,1:15.76,Karen M Guerin,,HSAM Short Course Meters Meet,2005,1
+SSR,200 M Individual Medley,SCM,W,35-39,2:46.18,Karen M Guerin,,HSAM Short Course Meters Meet,2005,1
+SSR,200 M Individual Medley,SCM,M,35-39,2:24.41,J T Guerin,,HSAM Short Course Meters Meet,2005,1

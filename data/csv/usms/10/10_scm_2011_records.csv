@@ -1,0 +1,599 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ALEX,50 M Backstroke,SCM,M,18-24,35.29,Tim Taylor,,2011 Last Chance SCM Meet,2011,1
+ALEX,100 M Backstroke,SCM,M,18-24,1:14.97,Tim Taylor,,2011 Last Chance SCM Meet,2011,1
+ALEX,50 M Butterfly,SCM,M,18-24,31.28,Tim Taylor,,2011 Last Chance SCM Meet,2011,1
+ALEX,50 M Butterfly,SCM,M,18-24,33.68,Christopher Hoffman,,2011 Last Chance SCM Meet,2011,2
+ALEX,100 M Butterfly,SCM,M,18-24,1:16.69,Tim Taylor,,2011 Last Chance SCM Meet,2011,1
+ALEX,100 M Butterfly,SCM,M,18-24,1:24.19,Christopher Hoffman,,2011 Last Chance SCM Meet,2011,2
+ALEX,200 M Butterfly,SCM,M,18-24,3:38.58,Christopher Hoffman,,2011 Last Chance SCM Meet,2011,1
+ALEX,50 M Breaststroke,SCM,M,55-59,40.68,Ray Novitske,,Albatross Open,2011,1
+ALEX,100 M Breaststroke,SCM,M,55-59,1:33.11,Ray Novitske,,Albatross Open,2011,1
+ALEX,200 M Breaststroke,SCM,M,55-59,3:23.00,Ray Novitske,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,W,18-24,1:09.95,Rebecca Martz,,Albatross Open,2011,1
+ANCM,200 M Freestyle,SCM,W,18-24,2:32.64,Rebecca Martz,,Albatross Open,2011,1
+ANCM,50 M Breaststroke,SCM,W,25-29,48.17,Laura McFadden,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,W,25-29,1:41.61,Laura McFadden,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,W,25-29,1:50.21,Jillian A Humphreys,,Albatross Open,2011,2
+ANCM,100 M Individual Medley,SCM,W,25-29,1:24.55,Faye Barthold,,Albatross Open,2011,1
+ANCM,100 M Individual Medley,SCM,W,25-29,1:36.82,Laura McFadden,,Albatross Open,2011,2
+ANCM,100 M Individual Medley,SCM,W,25-29,1:43.40,Jillian A Humphreys,,Albatross Open,2011,3
+ANCM,200 M Individual Medley,SCM,W,25-29,3:03.63,Faye Barthold,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,W,30-34,1:18.27,Megan Campbell,,Albatross Open,2011,1
+ANCM,50 M Backstroke,SCM,W,30-34,43.69,Megan Campbell,,Albatross Open,2011,1
+ANCM,100 M Backstroke,SCM,W,30-34,1:32.98,Megan Campbell,,Albatross Open,2011,1
+ANCM,50 M Breaststroke,SCM,W,30-34,57.79,Toshie Sato,,Albatross Open,2011,1
+ANCM,50 M Butterfly,SCM,W,30-34,45.81,Megan Campbell,,Albatross Open,2011,1
+ANCM,50 M Backstroke,SCM,W,40-44,42.22,Suzanne Stack,,Albatross Open,2011,1
+ANCM,100 M Backstroke,SCM,W,40-44,1:44.99,Carol Clark,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,W,40-44,1:43.29,Carol Clark,,Albatross Open,2011,1
+ANCM,100 M Individual Medley,SCM,W,40-44,1:36.12,Pamela M Blumenthal,,Albatross Open,2011,1
+ANCM,100 M Individual Medley,SCM,W,40-44,1:38.84,Carol Clark,,Albatross Open,2011,2
+ANCM,200 M Individual Medley,SCM,W,40-44,3:12.48,Suzanne Stack,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,W,45-49,37.38,Catherine L Davila,,2011 Last Chance SCM Meet,2011,1
+ANCM,50 M Freestyle,SCM,W,45-49,38.46,Jody C Gan,,Albatross Open,2011,2
+ANCM,50 M Freestyle,SCM,W,45-49,41.81,Mary J Braid-Forbes,,Albatross Open,2011,3
+ANCM,50 M Freestyle,SCM,W,45-49,48.74,Stephanie A Sugg,,Albatross Open,2011,4
+ANCM,100 M Freestyle,SCM,W,45-49,1:13.08,Leslie L Anchor,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,W,45-49,1:29.01,Jody C Gan,,Albatross Open,2011,2
+ANCM,100 M Freestyle,SCM,W,45-49,1:50.44,Stephanie A Sugg,,Albatross Open,2011,3
+ANCM,200 M Freestyle,SCM,W,45-49,2:44.67,Leslie L Anchor,,Albatross Open,2011,1
+ANCM,200 M Freestyle,SCM,W,45-49,4:00.60,Stephanie A Sugg,,Albatross Open,2011,2
+ANCM,50 M Backstroke,SCM,W,45-49,41.25,Leslie L Anchor,,Albatross Open,2011,1
+ANCM,200 M Backstroke,SCM,W,45-49,3:12.10,Leslie L Anchor,,Albatross Open,2011,1
+ANCM,200 M Backstroke,SCM,W,45-49,3:46.78,Mary J Braid-Forbes,,Albatross Open,2011,2
+ANCM,50 M Breaststroke,SCM,W,45-49,47.10,Catherine L Davila,,2011 Last Chance SCM Meet,2011,1
+ANCM,200 M Butterfly,SCM,W,45-49,4:21.89,Mary J Braid-Forbes,,Albatross Open,2011,1
+ANCM,400 M Individual Medley,SCM,W,45-49,7:27.29,Patricia C Guay-Berry,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,W,55-59,45.97,Lynda E Honberg,,Albatross Open,2011,1
+ANCM,200 M Backstroke,SCM,W,55-59,3:27.68,Barbara C Mueller,,Albatross Open,2011,1
+ANCM,50 M Breaststroke,SCM,W,55-59,56.45,Lynda E Honberg,,Albatross Open,2011,1
+ANCM,200 M Individual Medley,SCM,W,55-59,3:32.79,Barbara C Mueller,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,W,65-69,50.54,Kathleen C Fisken,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,W,65-69,2:18.04,Kathleen C Fisken,,2011 Last Chance SCM Meet,2011,1
+ANCM,200 M Freestyle,SCM,W,65-69,4:32.35,Kathleen C Fisken,,Albatross Open,2011,1
+ANCM,50 M Backstroke,SCM,W,65-69,59.09,Kathleen C Fisken,,Albatross Open,2011,1
+ANCM,100 M Backstroke,SCM,W,65-69,2:27.49,Kathleen C Fisken,,2011 Last Chance SCM Meet,2011,1
+ANCM,50 M Breaststroke,SCM,W,65-69,46.56,Margot K Pettijohn,,2011 Last Chance SCM Meet,2011,1
+ANCM,100 M Breaststroke,SCM,W,65-69,1:37.40,Margot K Pettijohn,,Albatross Open,2011,1
+ANCM,200 M Breaststroke,SCM,W,65-69,3:30.56,Margot K Pettijohn,,Albatross Open,2011,1
+ANCM,100 M Butterfly,SCM,W,65-69,1:31.00,Margot K Pettijohn,,Albatross Open,2011,1
+ANCM,200 M Butterfly,SCM,W,65-69,3:44.69,Margot K Pettijohn,,2011 Last Chance SCM Meet,2011,1
+ANCM,100 M Individual Medley,SCM,W,65-69,1:35.24,Margot K Pettijohn,,2011 Last Chance SCM Meet,2011,1
+ANCM,200 M Individual Medley,SCM,W,65-69,3:23.86,Margot K Pettijohn,,2011 Last Chance SCM Meet,2011,1
+ANCM,400 M Individual Medley,SCM,W,65-69,7:14.47,Margot K Pettijohn,,Albatross Open,2011,1
+ANCM,200 M Freestyle,SCM,M,30-34,2:26.34,Joel Iams,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,M,30-34,1:20.05,Joel Iams,,Albatross Open,2011,1
+ANCM,200 M Breaststroke,SCM,M,30-34,2:51.60,Joel Iams,,Albatross Open,2011,1
+ANCM,100 M Individual Medley,SCM,M,30-34,1:15.35,Joel Iams,,Albatross Open,2011,1
+ANCM,200 M Freestyle,SCM,M,35-39,3:27.86,Motoki Sato,,Albatross Open,2011,1
+ANCM,100 M Individual Medley,SCM,M,35-39,1:36.28,Motoki Sato,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,M,40-44,28.56,John E Mc Caffrey,,Albatross Open,2011,1
+ANCM,100 M Backstroke,SCM,M,40-44,1:05.43,Jeffrey H Roddin,,2011 Last Chance SCM Meet,2011,1
+ANCM,50 M Breaststroke,SCM,M,40-44,37.45,John E Mc Caffrey,,Albatross Open,2011,1
+ANCM,100 M Butterfly,SCM,M,40-44,1:02.92,Jeffrey H Roddin,,2011 Last Chance SCM Meet,2011,1
+ANCM,100 M Individual Medley,SCM,M,40-44,1:04.14,Jeffrey H Roddin,,2011 Last Chance SCM Meet,2011,1
+ANCM,100 M Individual Medley,SCM,M,40-44,1:15.12,John E Mc Caffrey,,Albatross Open,2011,2
+ANCM,50 M Breaststroke,SCM,M,45-49,38.82,Jeff S Dubin,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,M,45-49,1:08.65,Wally C Dicks,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,M,45-49,1:24.45,Jeff S Dubin,,Albatross Open,2011,2
+ANCM,50 M Freestyle,SCM,M,50-54,33.01,Greg A Nelson,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,M,50-54,33.97,Duncan C Ferguson,,Albatross Open,2011,2
+ANCM,50 M Freestyle,SCM,M,50-54,36.35,Jeffrey P Loman,,2011 Last Chance SCM Meet,2011,3
+ANCM,100 M Freestyle,SCM,M,50-54,1:13.00,Peter C Johnson,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,M,50-54,1:13.80,Greg A Nelson,,Albatross Open,2011,2
+ANCM,100 M Freestyle,SCM,M,50-54,1:22.42,Jeffrey P Loman,,2011 Last Chance SCM Meet,2011,3
+ANCM,200 M Freestyle,SCM,M,50-54,3:03.50,Jeffrey P Loman,,2011 Last Chance SCM Meet,2011,1
+ANCM,400 M Freestyle,SCM,M,50-54,6:33.17,Jeffrey P Loman,,2011 Last Chance SCM Meet,2011,1
+ANCM,50 M Backstroke,SCM,M,50-54,28.75,Clay Britt,,Albatross Open,2011,1
+ANCM,50 M Backstroke,SCM,M,50-54,38.81,Thomas A Denes,,Albatross Open,2011,2
+ANCM,100 M Backstroke,SCM,M,50-54,1:01.99,Clay Britt,,Albatross Open,2011,1
+ANCM,50 M Breaststroke,SCM,M,50-54,42.91,Peter C Johnson,,Albatross Open,2011,1
+ANCM,50 M Breaststroke,SCM,M,50-54,46.17,Thomas A Denes,,Albatross Open,2011,2
+ANCM,100 M Individual Medley,SCM,M,50-54,1:06.65,Clay Britt,,2011 Last Chance SCM Meet,2011,1
+ANCM,100 M Individual Medley,SCM,M,50-54,1:28.13,Thomas A Denes,,Albatross Open,2011,2
+ANCM,50 M Freestyle,SCM,M,55-59,32.97,John W Maurer,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,M,55-59,39.24,Ben Stubenberg,,Albatross Open,2011,2
+ANCM,100 M Freestyle,SCM,M,55-59,1:06.79,Jonathan P Jarow,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,M,55-59,1:25.99,Ben Stubenberg,,Albatross Open,2011,2
+ANCM,200 M Freestyle,SCM,M,55-59,2:32.64,Jonathan P Jarow,,Albatross Open,2011,1
+ANCM,200 M Freestyle,SCM,M,55-59,2:54.38,John W Maurer,,Albatross Open,2011,2
+ANCM,50 M Breaststroke,SCM,M,55-59,46.00,Ben Stubenberg,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,M,55-59,1:41.07,Ben Stubenberg,,Albatross Open,2011,1
+ANCM,50 M Butterfly,SCM,M,55-59,36.52,John W Maurer,,Albatross Open,2011,1
+ANCM,400 M Individual Medley,SCM,M,55-59,6:02.59,Edwin W McCleskey,,Albatross Open,2011,1
+ANCM,200 M Backstroke,SCM,M,60-64,2:57.98,Roger F Leonard,,Albatross Open,2011,1
+ANCM,100 M Breaststroke,SCM,M,60-64,1:26.04,Roger F Leonard,,Albatross Open,2011,1
+ANCM,50 M Butterfly,SCM,M,60-64,39.41,Dan Morrow,,2011 Last Chance SCM Meet,2011,1
+ANCM,200 M Butterfly,SCM,M,60-64,3:16.57,David C Harmon,,Albatross Open,2011,1
+ANCM,200 M Individual Medley,SCM,M,60-64,2:55.04,Roger F Leonard,,Albatross Open,2011,1
+ANCM,200 M Individual Medley,SCM,M,60-64,3:15.72,Dan Morrow,,2011 Last Chance SCM Meet,2011,2
+ANCM,400 M Individual Medley,SCM,M,60-64,6:30.21,David C Harmon,,Albatross Open,2011,1
+ANCM,50 M Freestyle,SCM,M,70-74,44.88,Neal P Gillen,,Albatross Open,2011,1
+ANCM,100 M Freestyle,SCM,M,70-74,1:52.41,Neal P Gillen,,Albatross Open,2011,1
+ANCM,50 M Breaststroke,SCM,M,70-74,45.94,Louis H Diamond,,2011 Last Chance SCM Meet,2011,1
+ANCM,100 M Breaststroke,SCM,M,70-74,1:46.75,Louis H Diamond,,2011 Last Chance SCM Meet,2011,1
+ANCM,200 M Breaststroke,SCM,M,70-74,4:08.27,Louis H Diamond,,2011 Last Chance SCM Meet,2011,1
+ANCM,50 M Freestyle,SCM,M,75-79,52.79,Frank B Robinson,,Albatross Open,2011,1
+ARMS,100 M Freestyle,SCM,W,18-24,1:19.58,Kelly R Serfling,,Albatross Open,2011,1
+ARMS,50 M Breaststroke,SCM,W,18-24,46.38,Kelly R Serfling,,Albatross Open,2011,1
+ARMS,100 M Breaststroke,SCM,W,18-24,1:43.36,Kelly R Serfling,,Albatross Open,2011,1
+ARMS,100 M Individual Medley,SCM,W,18-24,1:30.54,Kelly R Serfling,,Albatross Open,2011,1
+ARMS,50 M Freestyle,SCM,W,25-29,40.77,Ellen U Hufford,,Albatross Open,2011,1
+ARMS,100 M Freestyle,SCM,W,25-29,1:26.46,Ellen U Hufford,,Albatross Open,2011,1
+ARMS,200 M Freestyle,SCM,W,25-29,3:07.75,Ellen U Hufford,,Albatross Open,2011,1
+ARMS,50 M Breaststroke,SCM,W,25-29,57.08,Ellen U Hufford,,Albatross Open,2011,1
+ARMS,50 M Freestyle,SCM,W,40-44,38.58,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,100 M Freestyle,SCM,W,40-44,1:25.16,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,200 M Freestyle,SCM,W,40-44,3:07.81,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,50 M Backstroke,SCM,W,40-44,46.15,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,100 M Backstroke,SCM,W,40-44,1:46.34,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,200 M Backstroke,SCM,W,40-44,3:39.97,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,50 M Breaststroke,SCM,W,40-44,54.65,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,50 M Butterfly,SCM,W,40-44,43.77,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,100 M Butterfly,SCM,W,40-44,1:44.06,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ARMS,100 M Individual Medley,SCM,W,40-44,1:38.87,Shawn M Hynes,,Rowdy Gaines Masters Classic,2011,1
+ASTA,100 M Backstroke,SCM,M,18-24,1:15.77,Georgi Minov,,2011 Last Chance SCM Meet,2011,1
+ASTA,50 M Butterfly,SCM,M,18-24,30.64,Georgi Minov,,2011 Last Chance SCM Meet,2011,1
+ATHN,50 M Freestyle,SCM,M,25-29,43.83,Evan D Marcy,,Albatross Open,2011,1
+ATHN,100 M Freestyle,SCM,M,25-29,1:31.27,Evan D Marcy,,Albatross Open,2011,1
+ATHN,50 M Backstroke,SCM,M,25-29,47.01,Evan D Marcy,,Albatross Open,2011,1
+CUBU,50 M Freestyle,SCM,W,18-24,33.56,Bettina Rasch,,Albatross Open,2011,1
+CUBU,50 M Butterfly,SCM,W,18-24,34.63,Bettina Rasch,,Albatross Open,2011,1
+CUBU,50 M Freestyle,SCM,W,25-29,31.34,Elisabeth Perry,,Albatross Open,2011,1
+CUBU,100 M Individual Medley,SCM,W,25-29,1:21.28,Elisabeth Perry,,Albatross Open,2011,1
+CUBU,100 M Freestyle,SCM,W,30-34,1:08.38,Alaina L Van Horn,,Albatross Open,2011,1
+CUBU,200 M Backstroke,SCM,W,30-34,2:44.98,Alaina L Van Horn,,Albatross Open,2011,1
+CUBU,50 M Breaststroke,SCM,W,30-34,51.46,Andrea M Butler,,Albatross Open,2011,1
+CUBU,100 M Breaststroke,SCM,W,30-34,1:49.07,Andrea M Butler,,Albatross Open,2011,1
+CUBU,100 M Butterfly,SCM,W,30-34,1:16.79,Alaina L Van Horn,,Albatross Open,2011,1
+CUBU,200 M Butterfly,SCM,W,30-34,2:45.15,Alaina L Van Horn,,Albatross Open,2011,1
+CUBU,100 M Freestyle,SCM,W,65-69,1:28.55,Ruth R Bennett,,Albatross Open,2011,1
+CUBU,100 M Butterfly,SCM,M,18-24,1:10.62,Matt Dantas-McCutcheon,,Albatross Open,2011,1
+CUBU,400 M Individual Medley,SCM,M,18-24,5:55.08,Matt Dantas-McCutcheon,,Albatross Open,2011,1
+CUBU,50 M Freestyle,SCM,M,25-29,26.27,Matthew A McGillicuddy,,2011 Last Chance SCM Meet,2011,1
+CUBU,100 M Freestyle,SCM,M,25-29,57.76,Matthew A McGillicuddy,,2011 Last Chance SCM Meet,2011,1
+CUBU,50 M Butterfly,SCM,M,25-29,28.76,Matthew A McGillicuddy,,2011 Last Chance SCM Meet,2011,1
+CUBU,100 M Individual Medley,SCM,M,25-29,1:04.40,Matthew A McGillicuddy,,2011 Last Chance SCM Meet,2011,1
+CUBU,50 M Freestyle,SCM,M,30-34,28.09,Mario di Filippo,,Albatross Open,2011,1
+CUBU,100 M Freestyle,SCM,M,30-34,1:01.58,Mario di Filippo,,Albatross Open,2011,1
+CUBU,200 M Freestyle,SCM,M,30-34,2:21.06,Mario di Filippo,,Albatross Open,2011,1
+CUBU,200 M Butterfly,SCM,M,30-34,2:40.16,Mario di Filippo,,Albatross Open,2011,1
+CUBU,100 M Freestyle,SCM,M,35-39,57.06,Jose-Luis Gallagher,,Albatross Open,2011,1
+CUBU,100 M Backstroke,SCM,M,35-39,1:04.02,Jose-Luis Gallagher,,Albatross Open,2011,1
+CUBU,200 M Backstroke,SCM,M,35-39,2:22.51,Jose-Luis Gallagher,,Albatross Open,2011,1
+CUBU,400 M Individual Medley,SCM,M,35-39,5:20.18,Jose-Luis Gallagher,,Albatross Open,2011,1
+CUBU,100 M Backstroke,SCM,M,50-54,1:06.18,Glenn H Battle,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CUBU,200 M Backstroke,SCM,M,50-54,2:23.86,Glenn H Battle,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+CUBU,50 M Backstroke,SCM,M,70-74,56.83,Kenton H Pattie,,Albatross Open,2011,1
+CUBU,100 M Backstroke,SCM,M,70-74,2:03.82,Kenton H Pattie,,Albatross Open,2011,1
+CUBU,100 M Butterfly,SCM,M,70-74,2:36.47,Kenton H Pattie,,Albatross Open,2011,1
+CUBU,200 M Individual Medley,SCM,M,70-74,4:41.57,Kenton H Pattie,,Albatross Open,2011,1
+DCAC,100 M Freestyle,SCM,W,30-34,1:18.45,Aileen Kenney,,Albatross Open,2011,1
+DCAC,100 M Backstroke,SCM,W,30-34,1:30.55,Aileen Kenney,,Albatross Open,2011,1
+DCAC,200 M Freestyle,SCM,M,18-24,2:43.15,Thomas Happell,,Albatross Open,2011,1
+DCAC,50 M Freestyle,SCM,M,25-29,34.52,Michael F Parisi,,2011 Last Chance SCM Meet,2011,1
+DCAC,100 M Freestyle,SCM,M,25-29,1:20.10,Michael F Parisi,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Butterfly,SCM,M,25-29,40.03,Michael F Parisi,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Freestyle,SCM,M,30-34,27.65,Nicholas Davidson,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Freestyle,SCM,M,30-34,27.68,Ross A Linderman,,Albatross Open,2011,2
+DCAC,100 M Freestyle,SCM,M,30-34,55.83,Ryan Sprengel,,Albatross Open,2011,1
+DCAC,100 M Freestyle,SCM,M,30-34,1:08.01,John F Crowe,,Albatross Open,2011,2
+DCAC,200 M Freestyle,SCM,M,30-34,2:12.57,Ryan Sprengel,,Albatross Open,2011,1
+DCAC,200 M Freestyle,SCM,M,30-34,2:12.66,Justin M Burkhardt,,2011 Last Chance SCM Meet,2011,2
+DCAC,200 M Freestyle,SCM,M,30-34,2:26.57,John F Crowe,,Albatross Open,2011,3
+DCAC,400 M Freestyle,SCM,M,30-34,4:32.57,Justin M Burkhardt,,2011 Last Chance SCM Meet,2011,1
+DCAC,400 M Freestyle,SCM,M,30-34,5:10.88,Nicholas Davidson,,2011 Last Chance SCM Meet,2011,2
+DCAC,50 M Backstroke,SCM,M,30-34,34.13,Ross A Linderman,,Albatross Open,2011,1
+DCAC,200 M Backstroke,SCM,M,30-34,2:27.80,Justin M Burkhardt,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Butterfly,SCM,M,30-34,30.23,Ross A Linderman,,Albatross Open,2011,1
+DCAC,100 M Individual Medley,SCM,M,30-34,1:14.02,Ross A Linderman,,Albatross Open,2011,1
+DCAC,100 M Individual Medley,SCM,M,30-34,1:15.84,Nicholas Davidson,,2011 Last Chance SCM Meet,2011,2
+DCAC,200 M Individual Medley,SCM,M,30-34,2:27.36,Justin M Burkhardt,,2011 Last Chance SCM Meet,2011,1
+DCAC,200 M Individual Medley,SCM,M,30-34,2:46.35,Nicholas Davidson,,2011 Last Chance SCM Meet,2011,2
+DCAC,200 M Freestyle,SCM,M,35-39,2:12.69,Jean-Philippe Richard,,Albatross Open,2011,1
+DCAC,50 M Backstroke,SCM,M,35-39,33.83,John Tustin,,Albatross Open,2011,1
+DCAC,100 M Backstroke,SCM,M,35-39,1:18.47,John Tustin,,Albatross Open,2011,1
+DCAC,200 M Breaststroke,SCM,M,35-39,2:46.83,Jean-Philippe Richard,,Albatross Open,2011,1
+DCAC,100 M Butterfly,SCM,M,35-39,1:07.47,Jean-Philippe Richard,,Albatross Open,2011,1
+DCAC,100 M Individual Medley,SCM,M,35-39,1:08.26,Jean-Philippe Richard,,Albatross Open,2011,1
+DCAC,100 M Individual Medley,SCM,M,35-39,1:18.36,John Tustin,,Albatross Open,2011,2
+DCAC,50 M Freestyle,SCM,M,40-44,26.38,Neill Williams,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Freestyle,SCM,M,40-44,28.92,John Fahr,,Albatross Open,2011,2
+DCAC,50 M Freestyle,SCM,M,40-44,31.64,Ed V Pesce,,Albatross Open,2011,3
+DCAC,100 M Freestyle,SCM,M,40-44,1:04.49,John Fahr,,Albatross Open,2011,1
+DCAC,100 M Freestyle,SCM,M,40-44,1:12.26,Ed V Pesce,,Albatross Open,2011,2
+DCAC,200 M Freestyle,SCM,M,40-44,2:22.02,John Fahr,,Albatross Open,2011,1
+DCAC,50 M Backstroke,SCM,M,40-44,30.35,Neill Williams,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Breaststroke,SCM,M,40-44,31.23,Neill Williams,,Albatross Open,2011,1
+DCAC,50 M Breaststroke,SCM,M,40-44,43.01,Ed V Pesce,,Albatross Open,2011,2
+DCAC,100 M Breaststroke,SCM,M,40-44,1:09.35,Neill Williams,,Albatross Open,2011,1
+DCAC,200 M Breaststroke,SCM,M,40-44,2:34.96,Neill Williams,,Albatross Open,2011,1
+DCAC,50 M Butterfly,SCM,M,40-44,27.09,Neill Williams,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Butterfly,SCM,M,40-44,32.92,John Fahr,,Albatross Open,2011,2
+DCAC,100 M Individual Medley,SCM,M,40-44,1:03.56,Neill Williams,,Albatross Open,2011,1
+DCAC,100 M Individual Medley,SCM,M,40-44,1:24.70,Ed V Pesce,,Albatross Open,2011,2
+DCAC,100 M Freestyle,SCM,M,45-49,1:00.62,Enrique Quinones,,Albatross Open,2011,1
+DCAC,200 M Freestyle,SCM,M,45-49,2:13.43,Enrique Quinones,,Albatross Open,2011,1
+DCAC,200 M Freestyle,SCM,M,45-49,2:59.29,Scott Bloom,,2011 Last Chance SCM Meet,2011,2
+DCAC,100 M Individual Medley,SCM,M,45-49,1:26.32,Scott Bloom,,2011 Last Chance SCM Meet,2011,1
+DCAC,100 M Freestyle,SCM,M,55-59,1:03.02,Jeffrey D Mead,,Albatross Open,2011,1
+DCAC,50 M Breaststroke,SCM,M,55-59,35.18,Jose E V Cunningham,,2011 Last Chance SCM Meet,2011,1
+DCAC,200 M Breaststroke,SCM,M,55-59,2:54.36,Jose E V Cunningham,,2011 Last Chance SCM Meet,2011,1
+DCAC,50 M Butterfly,SCM,M,55-59,32.17,Jeffrey D Mead,,Albatross Open,2011,1
+DCAC,100 M Individual Medley,SCM,M,55-59,1:13.63,Jeffrey D Mead,,Albatross Open,2011,1
+DCAC,100 M Butterfly,SCM,M,60-64,1:14.30,Kieran Kelleher,,Albatross Open,2011,1
+DCM,50 M Freestyle,SCM,W,95-99,1:43.20,Mary Lathram,,Albatross Open,2011,1
+DCM,50 M Backstroke,SCM,W,95-99,1:58.80,Mary Lathram,,Albatross Open,2011,1
+DCM,100 M Backstroke,SCM,W,95-99,4:30.25,Mary Lathram,,Albatross Open,2011,1
+DCM,50 M Breaststroke,SCM,M,60-64,40.48,Steven D Harrison,,Albatross Open,2011,1
+DCM,100 M Breaststroke,SCM,M,60-64,1:32.99,Steven D Harrison,,Albatross Open,2011,1
+DCM,200 M Breaststroke,SCM,M,60-64,3:29.18,Steven D Harrison,,Albatross Open,2011,1
+DCM,100 M Individual Medley,SCM,M,60-64,1:28.30,Steven D Harrison,,Albatross Open,2011,1
+DCM,100 M Butterfly,SCM,M,65-69,1:49.74,Roger M Golden,,Albatross Open,2011,1
+DCM,200 M Butterfly,SCM,M,65-69,3:56.67,Roger M Golden,,Albatross Open,2011,1
+DCM,200 M Individual Medley,SCM,M,65-69,3:35.33,Roger M Golden,,Albatross Open,2011,1
+DCRP,100 M Freestyle,SCM,W,30-34,1:25.90,Rebecca J Simon,,2011 Last Chance SCM Meet,2011,1
+DCRP,200 M Freestyle,SCM,W,30-34,3:02.97,Rebecca J Simon,,2011 Last Chance SCM Meet,2011,1
+DCRP,400 M Freestyle,SCM,W,30-34,5:38.04,Victoria K Anderson,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Backstroke,SCM,W,30-34,46.90,Rebecca J Simon,,2011 Last Chance SCM Meet,2011,1
+DCRP,100 M Backstroke,SCM,W,30-34,1:37.73,Rebecca J Simon,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Butterfly,SCM,W,30-34,32.17,Leah S Heil,,2011 Last Chance SCM Meet,2011,1
+DCRP,100 M Butterfly,SCM,W,30-34,1:16.60,Leah S Heil,,2011 Last Chance SCM Meet,2011,1
+DCRP,100 M Individual Medley,SCM,W,30-34,1:17.25,Leah S Heil,,2011 Last Chance SCM Meet,2011,1
+DCRP,200 M Individual Medley,SCM,W,30-34,2:48.62,Leah S Heil,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Freestyle,SCM,W,40-44,32.92,Juliette M De Sousa,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,200 M Freestyle,SCM,W,40-44,2:32.23,Juliette M De Sousa,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,50 M Butterfly,SCM,W,40-44,34.73,Juliette M De Sousa,,2011 Last Chance SCM Meet,2011,1
+DCRP,100 M Butterfly,SCM,W,40-44,1:17.01,Juliette M De Sousa,,2011 Last Chance SCM Meet,2011,1
+DCRP,100 M Individual Medley,SCM,W,40-44,1:18.84,Juliette M De Sousa,,2011 Last Chance SCM Meet,2011,1
+DCRP,200 M Backstroke,SCM,W,45-49,3:18.67,Kathy Bainbridge,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Freestyle,SCM,W,50-54,33.29,Barbara Shycoff,,Albatross Open,2011,1
+DCRP,50 M Butterfly,SCM,W,50-54,37.73,Barbara Shycoff,,Albatross Open,2011,1
+DCRP,100 M Butterfly,SCM,W,50-54,1:34.58,Barbara Shycoff,,Albatross Open,2011,1
+DCRP,100 M Individual Medley,SCM,W,50-54,1:24.59,Barbara Shycoff,,Albatross Open,2011,1
+DCRP,50 M Backstroke,SCM,M,30-34,32.08,Marc S Lener,,Bearcat Masters Tech-suit Invitational,2011,1
+DCRP,100 M Backstroke,SCM,M,30-34,1:12.03,Marc S Lener,,Bearcat Masters Tech-suit Invitational,2011,1
+DCRP,50 M Freestyle,SCM,M,35-39,28.54,William G Johnston,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,50 M Freestyle,SCM,M,35-39,29.53,Gilles C Alliaume,,2011 Last Chance SCM Meet,2011,2
+DCRP,50 M Freestyle,SCM,M,35-39,34.85,Ben Werner,,2011 Last Chance SCM Meet,2011,3
+DCRP,100 M Freestyle,SCM,M,35-39,1:18.25,Ben Werner,,2011 Last Chance SCM Meet,2011,1
+DCRP,200 M Freestyle,SCM,M,35-39,2:20.79,William G Johnston,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,400 M Freestyle,SCM,M,35-39,5:14.66,Gilles C Alliaume,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Breaststroke,SCM,M,35-39,38.52,Gilles C Alliaume,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Butterfly,SCM,M,35-39,30.66,William G Johnston,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,50 M Butterfly,SCM,M,35-39,39.06,Ben Werner,,2011 Last Chance SCM Meet,2011,2
+DCRP,200 M Freestyle,SCM,M,40-44,2:45.46,Garret W Sern,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,100 M Backstroke,SCM,M,40-44,2:08.89,Garret W Sern,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,50 M Butterfly,SCM,M,40-44,36.28,Garret W Sern,,Southern Masters SCM Swimming Championships,2011,1
+DCRP,50 M Freestyle,SCM,M,65-69,41.26,Peter A Garfield,,2011 Last Chance SCM Meet,2011,1
+DCRP,50 M Breaststroke,SCM,M,65-69,48.79,Peter A Garfield,,2011 Last Chance SCM Meet,2011,1
+DCRP,200 M Freestyle,SCM,M,80-84,4:02.16,H Donald Messer,,Albatross Open,2011,1
+DCRP,50 M Butterfly,SCM,M,80-84,48.73,H Donald Messer,,2011 Last Chance SCM Meet,2011,1
+DCRP,100 M Butterfly,SCM,M,80-84,2:02.01,H Donald Messer,,2011 Last Chance SCM Meet,2011,1
+FBST,400 M Freestyle,SCM,W,18-24,4:45.53,Kim E Case,,2011 Last Chance SCM Meet,2011,1
+FBST,200 M Individual Medley,SCM,W,18-24,2:38.20,Kim E Case,,2011 Last Chance SCM Meet,2011,1
+FBST,50 M Freestyle,SCM,M,35-39,28.82,Chad J Mirt,,2011 Last Chance SCM Meet,2011,1
+FBST,100 M Freestyle,SCM,M,35-39,1:05.57,Chad J Mirt,,2011 Last Chance SCM Meet,2011,1
+FBST,50 M Backstroke,SCM,M,35-39,34.78,Chad J Mirt,,2011 Last Chance SCM Meet,2011,1
+FBST,100 M Backstroke,SCM,M,35-39,1:16.78,Chad J Mirt,,2011 Last Chance SCM Meet,2011,1
+FBST,100 M Freestyle,SCM,M,40-44,1:06.64,Anthony J Pignatello,,2011 Last Chance SCM Meet,2011,1
+FBST,200 M Individual Medley,SCM,M,40-44,2:36.64,Anthony J Pignatello,,2011 Last Chance SCM Meet,2011,1
+FBST,50 M Backstroke,SCM,M,45-49,39.03,David L Mc Lain,,2011 Last Chance SCM Meet,2011,1
+FBST,50 M Butterfly,SCM,M,45-49,34.75,David L Mc Lain,,2011 Last Chance SCM Meet,2011,1
+FBST,100 M Individual Medley,SCM,M,45-49,1:21.43,David L Mc Lain,,2011 Last Chance SCM Meet,2011,1
+FXCM,100 M Freestyle,SCM,W,35-39,1:15.00,Joanne E Hopkins,,2011 Last Chance SCM Meet,2011,1
+FXCM,400 M Freestyle,SCM,W,35-39,5:46.76,Joanne E Hopkins,,2011 Last Chance SCM Meet,2011,1
+FXCM,50 M Butterfly,SCM,W,35-39,40.22,Joanne E Hopkins,,2011 Last Chance SCM Meet,2011,1
+FXCM,200 M Individual Medley,SCM,W,35-39,3:08.89,Joanne E Hopkins,,2011 Last Chance SCM Meet,2011,1
+FXCM,100 M Backstroke,SCM,W,45-49,1:29.96,Jennifer W Gittins-Harfst,,Albatross Open,2011,1
+FXCM,200 M Backstroke,SCM,W,45-49,3:19.18,Jennifer W Gittins-Harfst,,Albatross Open,2011,1
+FXCM,200 M Individual Medley,SCM,W,45-49,3:23.18,Jennifer W Gittins-Harfst,,Albatross Open,2011,1
+FXCM,100 M Freestyle,SCM,M,45-49,1:01.55,Roger Andelin,,JCC Fall Opener,2011,1
+FXCM,100 M Freestyle,SCM,M,45-49,1:03.25,Stan D Calvert,,2011 Last Chance SCM Meet,2011,2
+FXCM,50 M Backstroke,SCM,M,45-49,32.76,Jay T Kress,,2011 Last Chance SCM Meet,2011,1
+FXCM,100 M Backstroke,SCM,M,45-49,1:10.91,Jay T Kress,,2011 Last Chance SCM Meet,2011,1
+FXCM,100 M Backstroke,SCM,M,45-49,1:11.82,Stan D Calvert,,2011 Last Chance SCM Meet,2011,2
+FXCM,200 M Backstroke,SCM,M,45-49,2:37.25,Stan D Calvert,,2011 Last Chance SCM Meet,2011,1
+FXCM,50 M Breaststroke,SCM,M,45-49,35.21,Jay T Kress,,2011 Last Chance SCM Meet,2011,1
+FXCM,100 M Breaststroke,SCM,M,45-49,1:19.99,Roger Andelin,,JCC Fall Opener,2011,1
+FXCM,200 M Breaststroke,SCM,M,45-49,2:58.77,Roger Andelin,,JCC Fall Opener,2011,1
+FXCM,50 M Butterfly,SCM,M,45-49,29.94,Roger Andelin,,JCC Fall Opener,2011,1
+FXCM,100 M Freestyle,SCM,M,50-54,1:06.36,Alan K Rickard,,Albatross Open,2011,1
+FXCM,200 M Freestyle,SCM,M,50-54,2:25.24,Alan K Rickard,,Albatross Open,2011,1
+FXCM,100 M Individual Medley,SCM,M,50-54,1:22.52,Alan K Rickard,,Albatross Open,2011,1
+FXCM,50 M Freestyle,SCM,M,65-69,35.65,Roderick O Uveges,,2011 Last Chance SCM Meet,2011,1
+FXCM,50 M Backstroke,SCM,M,65-69,47.71,Roderick O Uveges,,2011 Last Chance SCM Meet,2011,1
+FXCM,50 M Breaststroke,SCM,M,65-69,55.67,Roderick O Uveges,,2011 Last Chance SCM Meet,2011,1
+FXCM,50 M Butterfly,SCM,M,65-69,54.81,Roderick O Uveges,,2011 Last Chance SCM Meet,2011,1
+GERM,50 M Freestyle,SCM,W,45-49,32.69,Carole B Valis,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,W,45-49,1:06.73,Denise L Noznesky,,Albatross Open,2011,1
+GERM,200 M Freestyle,SCM,W,45-49,2:23.53,Denise L Noznesky,,Albatross Open,2011,1
+GERM,200 M Individual Medley,SCM,W,45-49,2:44.81,Denise L Noznesky,,Albatross Open,2011,1
+GERM,400 M Individual Medley,SCM,W,45-49,5:56.48,Denise L Noznesky,,Albatross Open,2011,1
+GERM,50 M Breaststroke,SCM,W,55-59,41.45,Amy B Cooley,,Albatross Open,2011,1
+GERM,100 M Breaststroke,SCM,W,55-59,1:30.35,Amy B Cooley,,Albatross Open,2011,1
+GERM,50 M Butterfly,SCM,W,55-59,35.02,Jeanne L Lappin,,Albatross Open,2011,1
+GERM,100 M Butterfly,SCM,W,55-59,1:18.25,Jeanne L Lappin,,Albatross Open,2011,1
+GERM,200 M Individual Medley,SCM,W,55-59,2:58.82,Jeanne L Lappin,,Albatross Open,2011,1
+GERM,400 M Individual Medley,SCM,W,55-59,6:20.23,Jeanne L Lappin,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,30-34,32.12,Jorge Neyra,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,M,30-34,1:14.21,Jorge Neyra,,Albatross Open,2011,1
+GERM,50 M Breaststroke,SCM,M,30-34,46.56,Jorge Neyra,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,35-39,33.19,Monte A Lewis,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,M,35-39,1:09.03,Bryan A Main,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,M,35-39,1:13.77,Monte A Lewis,,Albatross Open,2011,2
+GERM,100 M Backstroke,SCM,M,35-39,1:28.89,Monte A Lewis,,Albatross Open,2011,1
+GERM,200 M Backstroke,SCM,M,35-39,3:00.41,Bryan A Main,,Albatross Open,2011,1
+GERM,50 M Butterfly,SCM,M,35-39,36.12,Monte A Lewis,,Albatross Open,2011,1
+GERM,200 M Butterfly,SCM,M,35-39,3:13.72,Bryan A Main,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,40-44,32.86,Keir R Knight,,Albatross Open,2011,1
+GERM,200 M Freestyle,SCM,M,40-44,2:22.52,Daniel B Blitz,,Albatross Open,2011,1
+GERM,50 M Backstroke,SCM,M,40-44,29.83,Anthony S Higgins,,Albatross Open,2011,1
+GERM,100 M Backstroke,SCM,M,40-44,1:06.17,Anthony S Higgins,,Albatross Open,2011,1
+GERM,100 M Breaststroke,SCM,M,40-44,1:23.26,Daniel B Blitz,,Albatross Open,2011,1
+GERM,100 M Breaststroke,SCM,M,40-44,1:43.91,Keir R Knight,,Albatross Open,2011,2
+GERM,200 M Breaststroke,SCM,M,40-44,2:59.33,Daniel B Blitz,,Albatross Open,2011,1
+GERM,400 M Individual Medley,SCM,M,40-44,5:50.04,Daniel B Blitz,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,45-49,26.90,Karl E Wunderlich,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,45-49,28.77,Scott M Golden,,Albatross Open,2011,2
+GERM,100 M Freestyle,SCM,M,45-49,1:00.77,Karl E Wunderlich,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,M,45-49,1:11.72,Scott M Golden,,2011 Last Chance SCM Meet,2011,2
+GERM,200 M Freestyle,SCM,M,45-49,2:32.71,Scott M Golden,,Albatross Open,2011,1
+GERM,50 M Butterfly,SCM,M,45-49,30.82,Scott M Golden,,Albatross Open,2011,1
+GERM,100 M Butterfly,SCM,M,45-49,1:10.75,Scott M Golden,,Albatross Open,2011,1
+GERM,100 M Individual Medley,SCM,M,45-49,1:13.39,Karl E Wunderlich,,Albatross Open,2011,1
+GERM,200 M Individual Medley,SCM,M,45-49,2:48.94,Karl E Wunderlich,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,50-54,28.90,Timothy E Brockway,,Albatross Open,2011,1
+GERM,200 M Freestyle,SCM,M,50-54,2:44.65,Dan Thomas,,Albatross Open,2011,1
+GERM,50 M Backstroke,SCM,M,50-54,35.65,Delwin T Brockett,,Albatross Open,2011,1
+GERM,50 M Backstroke,SCM,M,50-54,38.55,Dan Thomas,,Albatross Open,2011,2
+GERM,100 M Backstroke,SCM,M,50-54,1:18.02,Delwin T Brockett,,Albatross Open,2011,1
+GERM,200 M Backstroke,SCM,M,50-54,2:56.45,Delwin T Brockett,,Albatross Open,2011,1
+GERM,50 M Butterfly,SCM,M,50-54,31.06,Timothy E Brockway,,Albatross Open,2011,1
+GERM,50 M Butterfly,SCM,M,50-54,35.11,Dan Thomas,,Albatross Open,2011,2
+GERM,200 M Individual Medley,SCM,M,50-54,2:57.09,Delwin T Brockett,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,55-59,42.53,John C Pugh,,Albatross Open,2011,1
+GERM,200 M Freestyle,SCM,M,55-59,2:44.15,Mark C Walters,,Albatross Open,2011,1
+GERM,50 M Butterfly,SCM,M,55-59,36.16,Mark C Walters,,Albatross Open,2011,1
+GERM,100 M Butterfly,SCM,M,55-59,1:21.71,Mark C Walters,,Albatross Open,2011,1
+GERM,200 M Butterfly,SCM,M,55-59,3:19.82,Mark C Walters,,Albatross Open,2011,1
+GERM,50 M Backstroke,SCM,M,60-64,40.06,John A Abbott,,Albatross Open,2011,1
+GERM,50 M Breaststroke,SCM,M,60-64,41.65,John A Abbott,,Albatross Open,2011,1
+GERM,100 M Breaststroke,SCM,M,60-64,1:41.75,John A Abbott,,Albatross Open,2011,1
+GERM,100 M Individual Medley,SCM,M,60-64,1:28.95,John A Abbott,,Albatross Open,2011,1
+GERM,50 M Freestyle,SCM,M,65-69,34.97,Timothy C Miller,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,M,65-69,1:20.40,David L Robinson,,2011 Last Chance SCM Meet,2011,1
+GERM,50 M Breaststroke,SCM,M,65-69,44.86,Timothy C Miller,,Albatross Open,2011,1
+GERM,50 M Breaststroke,SCM,M,65-69,55.97,David L Robinson,,Albatross Open,2011,2
+GERM,200 M Breaststroke,SCM,M,65-69,4:21.63,David L Robinson,,Albatross Open,2011,1
+GERM,100 M Butterfly,SCM,M,65-69,1:53.19,David L Robinson,,2011 Last Chance SCM Meet,2011,1
+GERM,100 M Individual Medley,SCM,M,65-69,1:31.39,Timothy C Miller,,Albatross Open,2011,1
+GERM,100 M Individual Medley,SCM,M,65-69,1:39.27,David L Robinson,,2011 Last Chance SCM Meet,2011,2
+GERM,50 M Freestyle,SCM,M,70-74,36.28,Kenneth J Wall,,Albatross Open,2011,1
+GERM,100 M Freestyle,SCM,M,70-74,1:25.61,Kenneth J Wall,,Albatross Open,2011,1
+GERM,50 M Backstroke,SCM,M,70-74,42.57,Kenneth J Wall,,Albatross Open,2011,1
+GERM,100 M Individual Medley,SCM,M,70-74,1:43.70,Kenneth J Wall,,Albatross Open,2011,1
+GMUP,50 M Freestyle,SCM,W,25-29,35.41,Eliana Carreño,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Breaststroke,SCM,W,25-29,44.51,Eliana Carreño,,2011 Last Chance SCM Meet,2011,1
+GMUP,200 M Breaststroke,SCM,W,25-29,3:36.75,Eliana Carreño,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Backstroke,SCM,W,45-49,34.82,Barbara Clifford-Dicks,,Albatross Open,2011,1
+GMUP,100 M Backstroke,SCM,W,45-49,1:15.22,Barbara Clifford-Dicks,,Albatross Open,2011,1
+GMUP,50 M Freestyle,SCM,W,50-54,28.53,Leslie C Livingston,,2011 New England LMSC SCM Championship,2011,1
+GMUP,100 M Freestyle,SCM,W,50-54,1:32.10,Leslie C Livingston,,2011 New England LMSC SCM Championship,2011,1
+GMUP,50 M Backstroke,SCM,W,50-54,30.58,Leslie C Livingston,,Albatross Open,2011,1
+GMUP,100 M Backstroke,SCM,W,50-54,1:09.25,Leslie C Livingston,,Albatross Open,2011,1
+GMUP,50 M Breaststroke,SCM,W,50-54,38.22,Leslie C Livingston,,2011 New England LMSC SCM Championship,2011,1
+GMUP,50 M Butterfly,SCM,W,50-54,30.35,Leslie C Livingston,,2011 New England LMSC SCM Championship,2011,1
+GMUP,100 M Butterfly,SCM,W,50-54,1:11.30,Leslie C Livingston,,2011 New England LMSC SCM Championship,2011,1
+GMUP,100 M Individual Medley,SCM,W,50-54,1:11.99,Leslie C Livingston,,2011 New England LMSC SCM Championship,2011,1
+GMUP,100 M Backstroke,SCM,W,70-74,2:17.47,Carmen A Decarli,,2011 Last Chance SCM Meet,2011,1
+GMUP,100 M Individual Medley,SCM,W,70-74,2:32.77,Carmen A Decarli,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Breaststroke,SCM,M,35-39,32.93,Gustavo Sandi,,2011 Last Chance SCM Meet,2011,1
+GMUP,100 M Breaststroke,SCM,M,35-39,1:13.44,Gustavo Sandi,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Freestyle,SCM,M,40-44,24.99,Pete A von Loewe,,2011 Last Chance SCM Meet,2011,1
+GMUP,100 M Freestyle,SCM,M,40-44,55.71,Pete A von Loewe,,2011 Last Chance SCM Meet,2011,1
+GMUP,400 M Freestyle,SCM,M,40-44,5:57.92,Pete A von Loewe,,2011 Last Chance SCM Meet,2011,1
+GMUP,100 M Backstroke,SCM,M,40-44,1:02.29,Pete A von Loewe,,2011 Last Chance SCM Meet,2011,1
+GMUP,400 M Individual Medley,SCM,M,40-44,5:19.77,Pete A von Loewe,,Albatross Open,2011,1
+GMUP,50 M Freestyle,SCM,M,45-49,33.49,Eric T Schmidt,,2011 Last Chance SCM Meet,2011,1
+GMUP,100 M Freestyle,SCM,M,45-49,1:14.97,Eric T Schmidt,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Breaststroke,SCM,M,45-49,52.51,Eric T Schmidt,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Breaststroke,SCM,M,50-54,36.56,Paul A Grecco,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Butterfly,SCM,M,50-54,31.90,Paul A Grecco,,2011 Last Chance SCM Meet,2011,1
+GMUP,100 M Individual Medley,SCM,M,50-54,1:15.29,Paul A Grecco,,2011 Last Chance SCM Meet,2011,1
+GMUP,50 M Freestyle,SCM,M,55-59,26.81,Brad Gandee,,SPMA Short Course Meters Championships,2011,1
+GMUP,100 M Freestyle,SCM,M,55-59,59.40,Brad Gandee,,SPMA Short Course Meters Championships,2011,1
+GMUP,400 M Freestyle,SCM,M,55-59,4:46.18,Brad Gandee,,SPMA Short Course Meters Championships,2011,1
+MACH,50 M Breaststroke,SCM,W,45-49,38.07,Lisa J Groves,,2011 Last Chance SCM Meet,2011,1
+MACH,100 M Breaststroke,SCM,W,45-49,1:25.07,Lisa J Groves,,2011 Last Chance SCM Meet,2011,1
+MACH,200 M Breaststroke,SCM,W,45-49,3:05.03,Lisa J Groves,,2011 Last Chance SCM Meet,2011,1
+MACH,100 M Freestyle,SCM,M,45-49,1:26.59,Frank J Purcell,,2011 Last Chance SCM Meet,2011,1
+MACH,200 M Freestyle,SCM,M,45-49,3:43.95,Frank J Purcell,,2011 Last Chance SCM Meet,2011,1
+MACH,100 M Breaststroke,SCM,M,45-49,1:49.35,Frank J Purcell,,2011 Last Chance SCM Meet,2011,1
+MACH,50 M Butterfly,SCM,M,45-49,39.87,Frank J Purcell,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Freestyle,SCM,W,25-29,32.34,Tyler Smith,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Freestyle,SCM,W,25-29,44.77,Jacqueline G Cohen,,2011 Last Chance SCM Meet,2011,2
+NCYM,100 M Freestyle,SCM,W,25-29,1:10.25,Tyler Smith,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Breaststroke,SCM,W,25-29,52.51,Jacqueline G Cohen,,2011 Last Chance SCM Meet,2011,1
+NCYM,100 M Breaststroke,SCM,W,25-29,1:52.64,Jacqueline G Cohen,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Butterfly,SCM,W,25-29,36.40,Tyler Smith,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Freestyle,SCM,W,30-34,36.08,Megan E Harris,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Breaststroke,SCM,W,30-34,44.72,Megan E Harris,,2011 Last Chance SCM Meet,2011,1
+NCYM,100 M Breaststroke,SCM,W,30-34,1:37.92,Megan E Harris,,2011 Last Chance SCM Meet,2011,1
+NCYM,100 M Breaststroke,SCM,M,25-29,1:16.67,Travis M Rothway,,Albatross Open,2011,1
+NCYM,100 M Individual Medley,SCM,M,25-29,1:07.82,Travis M Rothway,,Albatross Open,2011,1
+NCYM,200 M Individual Medley,SCM,M,25-29,2:27.37,Travis M Rothway,,Albatross Open,2011,1
+NCYM,50 M Freestyle,SCM,M,30-34,26.31,Luis Sanchez Torrente,,3rd Annual Bearcat Masters SCM Invitational,2011,1
+NCYM,50 M Freestyle,SCM,M,30-34,30.78,Karim Khoury,,2011 Last Chance SCM Meet,2011,2
+NCYM,100 M Freestyle,SCM,M,30-34,59.54,Luis Sanchez Torrente,,3rd Annual Bearcat Masters SCM Invitational,2011,1
+NCYM,100 M Freestyle,SCM,M,30-34,1:07.38,Karim Khoury,,2011 Last Chance SCM Meet,2011,2
+NCYM,200 M Freestyle,SCM,M,30-34,2:16.31,Luis Sanchez Torrente,,Albatross Open,2011,1
+NCYM,200 M Freestyle,SCM,M,30-34,2:32.52,Karim Khoury,,2011 Last Chance SCM Meet,2011,2
+NCYM,50 M Breaststroke,SCM,M,30-34,41.57,Karim Khoury,,3rd Annual Bearcat Masters SCM Invitational,2011,1
+NCYM,100 M Breaststroke,SCM,M,30-34,1:16.91,Luis Sanchez Torrente,,Albatross Open,2011,1
+NCYM,50 M Butterfly,SCM,M,30-34,29.16,Luis Sanchez Torrente,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Butterfly,SCM,M,30-34,35.29,Karim Khoury,,2011 Last Chance SCM Meet,2011,2
+NCYM,100 M Individual Medley,SCM,M,30-34,1:09.21,Luis Sanchez Torrente,,3rd Annual Bearcat Masters SCM Invitational,2011,1
+NCYM,200 M Individual Medley,SCM,M,30-34,2:37.30,Luis Sanchez Torrente,,Bearcat Masters Tech-suit Invitational,2011,1
+NCYM,400 M Individual Medley,SCM,M,30-34,5:49.51,Luis Sanchez Torrente,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Freestyle,SCM,M,35-39,37.01,Sebastian Lopez Azumendi,,2011 Last Chance SCM Meet,2011,1
+NCYM,200 M Freestyle,SCM,M,35-39,2:33.30,Francisco J Gonzales,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Backstroke,SCM,M,35-39,30.01,Sidney Nakahodo,,Albatross Open,2011,1
+NCYM,100 M Backstroke,SCM,M,35-39,1:06.19,Sidney Nakahodo,,Albatross Open,2011,1
+NCYM,200 M Backstroke,SCM,M,35-39,2:34.57,Sidney Nakahodo,,Albatross Open,2011,1
+NCYM,50 M Breaststroke,SCM,M,35-39,34.09,Francisco J Gonzales,,2011 Last Chance SCM Meet,2011,1
+NCYM,100 M Breaststroke,SCM,M,35-39,1:18.13,Francisco J Gonzales,,2011 Last Chance SCM Meet,2011,1
+NCYM,200 M Breaststroke,SCM,M,35-39,2:58.14,Francisco J Gonzales,,2011 Last Chance SCM Meet,2011,1
+NCYM,50 M Butterfly,SCM,M,35-39,40.55,Sebastian Lopez Azumendi,,2011 Last Chance SCM Meet,2011,1
+NCYM,100 M Freestyle,SCM,M,45-49,1:09.03,Greg Schlimm,,Albatross Open,2011,1
+NCYM,50 M Backstroke,SCM,M,45-49,37.63,Greg Schlimm,,Albatross Open,2011,1
+NCYM,100 M Individual Medley,SCM,M,45-49,1:23.47,Greg Schlimm,,Albatross Open,2011,1
+RMST,400 M Freestyle,SCM,W,25-29,4:58.48,Jayme K Van Erden,,2011 Last Chance SCM Meet,2011,1
+RMST,200 M Backstroke,SCM,W,25-29,2:36.54,Jayme K Van Erden,,2011 Last Chance SCM Meet,2011,1
+RMST,200 M Individual Medley,SCM,W,25-29,2:37.07,Jayme K Van Erden,,2011 Last Chance SCM Meet,2011,1
+RMST,400 M Individual Medley,SCM,W,25-29,5:40.41,Jayme K Van Erden,,2011 Last Chance SCM Meet,2011,1
+RMST,400 M Freestyle,SCM,W,30-34,5:28.01,Andrea M Cardy,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Breaststroke,SCM,W,30-34,1:29.79,Andrea M Cardy,,2011 Last Chance SCM Meet,2011,1
+RMST,50 M Freestyle,SCM,W,35-39,34.61,Aurora K Swanson,,Albatross Open,2011,1
+RMST,100 M Freestyle,SCM,W,35-39,1:08.35,Suni L Pitman,,Albatross Open,2011,1
+RMST,100 M Freestyle,SCM,W,35-39,1:18.44,Aurora K Swanson,,Albatross Open,2011,2
+RMST,50 M Backstroke,SCM,W,35-39,39.02,Aurora K Swanson,,Albatross Open,2011,1
+RMST,200 M Backstroke,SCM,W,35-39,3:13.35,Aurora K Swanson,,Albatross Open,2011,1
+RMST,50 M Breaststroke,SCM,W,35-39,41.75,Suni L Pitman,,Albatross Open,2011,1
+RMST,100 M Breaststroke,SCM,W,35-39,1:30.35,Suni L Pitman,,Albatross Open,2011,1
+RMST,100 M Individual Medley,SCM,W,35-39,1:19.53,Suni L Pitman,,Albatross Open,2011,1
+RMST,50 M Freestyle,SCM,W,40-44,33.56,Sheryl K Katsaros,,Albatross Open,2011,1
+RMST,100 M Freestyle,SCM,W,40-44,1:12.56,Sheryl K Katsaros,,Albatross Open,2011,1
+RMST,100 M Backstroke,SCM,W,40-44,1:24.89,Sheryl K Katsaros,,Albatross Open,2011,1
+RMST,100 M Individual Medley,SCM,W,40-44,1:24.84,Sheryl K Katsaros,,Albatross Open,2011,1
+RMST,50 M Freestyle,SCM,W,50-54,33.05,Cynthia M Hajost,,2011 Last Chance SCM Meet,2011,1
+RMST,200 M Freestyle,SCM,W,50-54,2:46.26,Cynthia M Hajost,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+RMST,400 M Freestyle,SCM,W,50-54,5:23.73,Cynthia M Hajost,,2011 Last Chance SCM Meet,2011,1
+RMST,800 M Freestyle,SCM,W,50-54,11:13.77,Cynthia M Hajost,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+RMST,1500 M Freestyle,SCM,W,50-54,21:21.05,Cynthia M Hajost,,2011 O*H*I*O Masters SCM Swim Meet,2011,1
+RMST,100 M Backstroke,SCM,W,50-54,1:18.48,Kim M Brightwell,,Albatross Open,2011,1
+RMST,200 M Backstroke,SCM,W,50-54,2:57.91,Cynthia M Hajost,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Individual Medley,SCM,W,50-54,1:21.39,Kim M Brightwell,,Albatross Open,2011,1
+RMST,200 M Individual Medley,SCM,W,50-54,2:59.20,Kim M Brightwell,,Albatross Open,2011,1
+RMST,50 M Freestyle,SCM,W,55-59,34.28,Lynn A Wymelenberg,,Albatross Open,2011,1
+RMST,100 M Freestyle,SCM,W,55-59,1:15.30,Lynn A Wymelenberg,,Albatross Open,2011,1
+RMST,200 M Freestyle,SCM,W,55-59,2:53.78,Lynn A Wymelenberg,,Albatross Open,2011,1
+RMST,50 M Butterfly,SCM,W,55-59,40.77,Lynn A Wymelenberg,,Albatross Open,2011,1
+RMST,100 M Freestyle,SCM,W,65-69,1:57.41,Lucy M Manheim,,Albatross Open,2011,1
+RMST,200 M Freestyle,SCM,W,65-69,4:22.45,Lucy M Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Backstroke,SCM,W,65-69,2:08.56,Lucy M Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,50 M Breaststroke,SCM,W,65-69,1:09.06,Lucy M Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Breaststroke,SCM,W,65-69,2:44.45,Lucy M Manheim,,Albatross Open,2011,1
+RMST,100 M Individual Medley,SCM,W,65-69,2:14.39,Lucy M Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,50 M Freestyle,SCM,M,30-34,29.41,Alex Chisholm,,Albatross Open,2011,1
+RMST,50 M Breaststroke,SCM,M,30-34,42.06,Alex Chisholm,,Albatross Open,2011,1
+RMST,100 M Individual Medley,SCM,M,30-34,1:21.35,Alex Chisholm,,Albatross Open,2011,1
+RMST,200 M Individual Medley,SCM,M,30-34,3:06.57,Alex Chisholm,,Albatross Open,2011,1
+RMST,50 M Breaststroke,SCM,M,55-59,40.44,Muraji Nakazawa,,Albatross Open,2011,1
+RMST,100 M Freestyle,SCM,M,60-64,1:21.51,Michael F Boyle,,2011 Last Chance SCM Meet,2011,1
+RMST,50 M Breaststroke,SCM,M,60-64,50.17,Michael F Boyle,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Breaststroke,SCM,M,60-64,1:49.92,Michael F Boyle,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Individual Medley,SCM,M,60-64,1:52.32,Michael F Boyle,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Breaststroke,SCM,M,65-69,1:44.70,William L Chadsey,,Albatross Open,2011,1
+RMST,200 M Breaststroke,SCM,M,65-69,3:39.94,William L Chadsey,,Albatross Open,2011,1
+RMST,100 M Individual Medley,SCM,M,65-69,1:32.63,William L Chadsey,,Albatross Open,2011,1
+RMST,50 M Freestyle,SCM,M,80-84,42.47,Frank T Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,50 M Backstroke,SCM,M,80-84,47.71,Frank T Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,100 M Individual Medley,SCM,M,80-84,1:59.35,Frank T Manheim,,2011 Last Chance SCM Meet,2011,1
+RMST,200 M Individual Medley,SCM,M,80-84,4:24.73,Frank T Manheim,,2011 Last Chance SCM Meet,2011,1
+SDS,50 M Freestyle,SCM,W,55-59,51.28,Adell Crowe,,2011 Last Chance SCM Meet,2011,1
+SDS,100 M Freestyle,SCM,W,55-59,1:52.10,Adell Crowe,,2011 Last Chance SCM Meet,2011,1
+SDS,50 M Backstroke,SCM,W,55-59,1:01.10,Adell Crowe,,2011 Last Chance SCM Meet,2011,1
+TERR,800 M Freestyle,SCM,W,25-29,9:56.32,Lillian M Thomas,,VMST 31st Annual Fall Swim Meet,2011,1
+TERR,1500 M Freestyle,SCM,W,25-29,18:49.25,Lillian M Thomas,,VMST 31st Annual Fall Swim Meet,2011,1
+TERR,50 M Freestyle,SCM,W,30-34,29.32,Mollie K Grover,,Albatross Open,2011,1
+TERR,100 M Freestyle,SCM,W,30-34,1:07.45,Mollie K Grover,,Albatross Open,2011,1
+TERR,200 M Freestyle,SCM,W,30-34,2:21.48,Mollie K Grover,,2011 Last Chance SCM Meet,2011,1
+TERR,400 M Freestyle,SCM,W,30-34,5:35.10,Mollie K Grover,,2011 Last Chance SCM Meet,2011,1
+TERR,50 M Backstroke,SCM,W,30-34,34.20,Mollie K Grover,,2011 Last Chance SCM Meet,2011,1
+TERR,100 M Backstroke,SCM,W,30-34,1:11.99,Mollie K Grover,,2011 Last Chance SCM Meet,2011,1
+TERR,200 M Backstroke,SCM,W,30-34,2:32.93,Mollie K Grover,,2011 Last Chance SCM Meet,2011,1
+TERR,400 M Freestyle,SCM,W,35-39,5:18.78,Julie Roddin,,2011 Last Chance SCM Meet,2011,1
+TERR,200 M Backstroke,SCM,W,35-39,2:55.92,Julie Roddin,,2011 Last Chance SCM Meet,2011,1
+TERR,100 M Freestyle,SCM,W,55-59,1:23.96,Cheryl A Wagner,,Albatross Open,2011,1
+TERR,50 M Freestyle,SCM,M,30-34,28.69,Jeffrey R Strahota,,2011 Last Chance SCM Meet,2011,1
+TERR,100 M Freestyle,SCM,M,30-34,1:01.90,Jeffrey R Strahota,,Albatross Open,2011,1
+TERR,200 M Freestyle,SCM,M,30-34,2:15.06,Jeffrey R Strahota,,2011 Last Chance SCM Meet,2011,1
+TERR,400 M Freestyle,SCM,M,30-34,4:45.62,Jeffrey R Strahota,,2011 Last Chance SCM Meet,2011,1
+TERR,100 M Backstroke,SCM,M,30-34,1:13.08,Jeffrey R Strahota,,Albatross Open,2011,1
+TERR,50 M Butterfly,SCM,M,30-34,31.18,Jeffrey R Strahota,,Albatross Open,2011,1
+TERR,200 M Individual Medley,SCM,M,30-34,2:34.33,Jeffrey R Strahota,,Albatross Open,2011,1
+TERR,50 M Breaststroke,SCM,M,35-39,32.23,Michael R Goodison,,Albatross Open,2011,1
+TERR,100 M Breaststroke,SCM,M,35-39,1:11.32,Michael R Goodison,,Albatross Open,2011,1
+TERR,200 M Breaststroke,SCM,M,35-39,2:37.09,Michael R Goodison,,Albatross Open,2011,1
+TERR,100 M Butterfly,SCM,M,35-39,1:04.46,Michael R Goodison,,Albatross Open,2011,1
+TERR,50 M Freestyle,SCM,M,40-44,25.60,Michael P Doane,,2011 Last Chance SCM Meet,2011,1
+TERR,50 M Breaststroke,SCM,M,40-44,31.88,Michael P Doane,,2011 Last Chance SCM Meet,2011,1
+TERR,50 M Butterfly,SCM,M,40-44,27.48,Michael P Doane,,2011 Last Chance SCM Meet,2011,1
+TERR,200 M Backstroke,SCM,M,45-49,2:23.13,Emad H Elshafei,,Albatross Open,2011,1
+TERR,200 M Individual Medley,SCM,M,45-49,2:24.82,Emad H Elshafei,,Albatross Open,2011,1
+TERR,400 M Individual Medley,SCM,M,45-49,5:16.88,Emad H Elshafei,,Albatross Open,2011,1
+TERR,50 M Freestyle,SCM,M,55-59,27.31,Pete J Reider,,Albatross Open,2011,1
+TERR,50 M Backstroke,SCM,M,55-59,31.52,Pete J Reider,,Albatross Open,2011,1
+TERR,50 M Butterfly,SCM,M,55-59,29.02,Pete J Reider,,Albatross Open,2011,1
+TERR,50 M Breaststroke,SCM,M,60-64,38.46,Charles L Hoffman,,Albatross Open,2011,1
+TERR,100 M Breaststroke,SCM,M,60-64,1:24.82,Charles L Hoffman,,Albatross Open,2011,1
+TERR,200 M Breaststroke,SCM,M,60-64,3:04.69,Charles L Hoffman,,Albatross Open,2011,1
+UNAT,50 M Freestyle,SCM,W,18-24,34.17,Katie J Day,,2011 FAST Pumpkin Plunge SCM Invitational,2011,1
+UNAT,100 M Freestyle,SCM,W,18-24,1:20.30,Katie J Day,,2011 FAST Pumpkin Plunge SCM Invitational,2011,1
+UNAT,50 M Butterfly,SCM,W,18-24,39.34,Katie J Day,,2011 FAST Pumpkin Plunge SCM Invitational,2011,1
+UNAT,400 M Freestyle,SCM,W,25-29,5:30.75,Jill E Bastien,,2011 Last Chance SCM Meet,2011,1
+UNAT,50 M Breaststroke,SCM,W,25-29,38.05,Jill E Bastien,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Breaststroke,SCM,W,25-29,1:23.93,Jill E Bastien,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,W,35-39,1:13.00,Nicole Hauser,,Albatross Open,2011,1
+UNAT,400 M Freestyle,SCM,W,35-39,5:22.12,Nicole Hauser,,2011 New England LMSC SCM Championship,2011,1
+UNAT,50 M Backstroke,SCM,W,35-39,40.46,Nicole Hauser,,2011 New England LMSC SCM Championship,2011,1
+UNAT,100 M Backstroke,SCM,W,35-39,1:26.46,Nicole Hauser,,Albatross Open,2011,1
+UNAT,200 M Backstroke,SCM,W,35-39,2:57.71,Nicole Hauser,,Albatross Open,2011,1
+UNAT,50 M Breaststroke,SCM,W,40-44,45.37,Terri Postma,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Breaststroke,SCM,W,40-44,1:41.21,Terri Postma,,2011 Last Chance SCM Meet,2011,1
+UNAT,200 M Breaststroke,SCM,W,40-44,3:39.99,Terri Postma,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,W,65-69,2:11.30,Linda S Carter,,Albatross Open,2011,1
+UNAT,50 M Backstroke,SCM,W,65-69,1:02.78,Linda S Carter,,Albatross Open,2011,1
+UNAT,100 M Backstroke,SCM,W,65-69,2:14.87,Linda S Carter,,Albatross Open,2011,1
+UNAT,50 M Freestyle,SCM,M,25-29,24.93,Brian M Goldman,,Albatross Open,2011,1
+UNAT,200 M Freestyle,SCM,M,25-29,2:00.64,Bryan C Rivera,,Albatross Open,2011,1
+UNAT,400 M Freestyle,SCM,M,25-29,4:18.05,Bryan C Rivera,,2011 Last Chance SCM Meet,2011,1
+UNAT,50 M Butterfly,SCM,M,25-29,27.54,Bryan C Rivera,,Albatross Open,2011,1
+UNAT,100 M Freestyle,SCM,M,40-44,1:03.16,Barry R Liden,,Albatross Open,2011,1
+UNAT,200 M Freestyle,SCM,M,40-44,2:16.12,Barry R Liden,,Albatross Open,2011,1
+UNAT,100 M Breaststroke,SCM,M,40-44,1:21.32,Barry R Liden,,Albatross Open,2011,1
+UNAT,50 M Butterfly,SCM,M,40-44,32.42,Matt Rees,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Individual Medley,SCM,M,40-44,1:12.52,Barry R Liden,,Albatross Open,2011,1
+UNAT,100 M Freestyle,SCM,M,45-49,1:02.78,Eric Johnson,,Albatross Open,2011,1
+UNAT,200 M Freestyle,SCM,M,45-49,2:36.57,Jeff Chaloupek,,2011 Last Chance SCM Meet,2011,1
+UNAT,50 M Breaststroke,SCM,M,45-49,34.15,Eric Johnson,,Albatross Open,2011,1
+UNAT,50 M Butterfly,SCM,M,45-49,35.47,Jeff Chaloupek,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Individual Medley,SCM,M,45-49,1:09.26,Eric Johnson,,Albatross Open,2011,1
+UNAT,100 M Individual Medley,SCM,M,45-49,1:21.62,Jeff Chaloupek,,Albatross Open,2011,2
+UNAT,200 M Individual Medley,SCM,M,45-49,2:54.82,Jeff Chaloupek,,Albatross Open,2011,1
+UNAT,50 M Freestyle,SCM,M,50-54,36.37,Dave Ault,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,50-54,1:22.40,Dave Ault,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Breaststroke,SCM,M,50-54,1:44.23,Dave Ault,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Individual Medley,SCM,M,50-54,1:33.33,Dave Ault,,2011 Last Chance SCM Meet,2011,1
+UNAT,100 M Freestyle,SCM,M,70-74,1:15.31,Howard Rolston,,Albatross Open,2011,1
+UNAT,200 M Freestyle,SCM,M,70-74,2:45.23,Howard Rolston,,Albatross Open,2011,1
+WARD,200 M Freestyle,SCM,W,25-29,2:30.97,Vanessa N Rai,,Albatross Open,2011,1
+WARD,50 M Backstroke,SCM,W,25-29,38.03,Vanessa N Rai,,Albatross Open,2011,1
+WARD,100 M Butterfly,SCM,W,25-29,1:13.51,Vanessa N Rai,,Albatross Open,2011,1
+WARD,50 M Backstroke,SCM,W,30-34,40.56,Lindsay L Cromarty,,Albatross Open,2011,1
+WARD,100 M Backstroke,SCM,W,30-34,1:26.43,Lindsay L Cromarty,,Albatross Open,2011,1
+WARD,50 M Freestyle,SCM,W,40-44,27.67,Margaret G Conze,,2011 Last Chance SCM Meet,2011,1
+WARD,100 M Freestyle,SCM,W,40-44,1:03.52,Margaret G Conze,,Albatross Open,2011,1
+WARD,50 M Butterfly,SCM,W,40-44,30.07,Margaret G Conze,,2011 Last Chance SCM Meet,2011,1
+WARD,50 M Backstroke,SCM,W,45-49,30.82,Susan O Williams,,2011 Last Chance SCM Meet,2011,1
+WARD,100 M Backstroke,SCM,W,45-49,1:07.41,Susan O Williams,,2011 Last Chance SCM Meet,2011,1
+WARD,50 M Butterfly,SCM,W,45-49,31.03,Susan O Williams,,Albatross Open,2011,1
+WARD,50 M Backstroke,SCM,M,18-24,39.59,Jorge Pasten,,Albatross Open,2011,1
+WARD,50 M Butterfly,SCM,M,18-24,34.33,Jorge Pasten,,Albatross Open,2011,1
+WARD,50 M Freestyle,SCM,M,25-29,24.56,Nicholas Kaufman-O'Reilly,,Albatross Open,2011,1
+WARD,100 M Freestyle,SCM,M,25-29,56.41,Nicholas Kaufman-O'Reilly,,Albatross Open,2011,1
+WARD,200 M Freestyle,SCM,M,25-29,2:00.51,Sam A Garner,,Albatross Open,2011,1
+WARD,50 M Butterfly,SCM,M,25-29,27.85,Nicholas Kaufman-O'Reilly,,Albatross Open,2011,1
+WARD,50 M Butterfly,SCM,M,25-29,28.28,Sam A Garner,,Albatross Open,2011,2
+WARD,100 M Butterfly,SCM,M,25-29,1:02.46,Sam A Garner,,Albatross Open,2011,1

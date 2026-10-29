@@ -1,0 +1,434 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
+ALEX,50 M Freestyle,LCM,W,25-29,35.37,Shannon E Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,200 M Freestyle,LCM,W,25-29,2:51.40,Shannon E Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,200 M Freestyle,LCM,W,25-29,3:04.23,Jessica Mundi,,UMAC Masters Terrapin Cup,2016,2
+ALEX,400 M Freestyle,LCM,W,25-29,6:00.74,Shannon E Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,400 M Freestyle,LCM,W,25-29,6:28.11,Jessica Mundi,,DCRP US Masters Team Long Course Swim Meet,2016,2
+ALEX,800 M Freestyle,LCM,W,25-29,12:32.64,Shannon E Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,1500 M Freestyle,LCM,W,25-29,23:49.89,Shannon E Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,50 M Backstroke,LCM,W,25-29,44.29,Shannon E Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,100 M Backstroke,LCM,W,25-29,1:37.30,Shannon E Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,200 M Backstroke,LCM,W,25-29,3:20.97,Shannon E Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,50 M Breaststroke,LCM,W,25-29,50.00,Jessica Mundi,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,100 M Breaststroke,LCM,W,25-29,1:51.71,Jessica Mundi,,UMAC Masters Terrapin Cup,2016,1
+ALEX,200 M Breaststroke,LCM,W,25-29,3:50.93,Jessica Mundi,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,50 M Butterfly,LCM,W,25-29,39.19,Jessica Mundi,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,50 M Butterfly,LCM,W,25-29,47.34,Shannon E Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,2
+ALEX,50 M Freestyle,LCM,M,25-29,35.17,Eugene Diefenbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,100 M Freestyle,LCM,M,25-29,1:09.86,Robert J Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,100 M Freestyle,LCM,M,25-29,1:24.13,Eugene Diefenbach,,DCRP US Masters Team Long Course Swim Meet,2016,2
+ALEX,400 M Freestyle,LCM,M,25-29,7:39.92,Eugene Diefenbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,100 M Backstroke,LCM,M,25-29,1:26.47,Robert J Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,50 M Breaststroke,LCM,M,25-29,36.91,Robert J Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,100 M Breaststroke,LCM,M,25-29,1:23.44,Robert J Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,200 M Breaststroke,LCM,M,25-29,3:09.25,Robert J Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,50 M Butterfly,LCM,M,25-29,32.74,Robert J Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,100 M Butterfly,LCM,M,25-29,1:13.47,Robert J Vayda,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,200 M Individual Medley,LCM,M,25-29,2:57.33,Robert J Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,400 M Individual Medley,LCM,M,25-29,6:30.21,Robert J Vayda,,UMAC Masters Terrapin Cup,2016,1
+ALEX,100 M Backstroke,LCM,M,40-44,1:19.09,Corey Hastings,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,200 M Backstroke,LCM,M,40-44,2:57.44,Corey Hastings,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,50 M Butterfly,LCM,M,40-44,30.97,Corey Hastings,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ALEX,50 M Freestyle,LCM,M,50-54,28.93,Mark E Harris,,UMAC Masters Terrapin Cup,2016,1
+ALEX,100 M Freestyle,LCM,M,50-54,1:05.03,Mark E Harris,,UMAC Masters Terrapin Cup,2016,1
+ALEX,200 M Freestyle,LCM,M,50-54,2:22.91,Mark E Harris,,2016 Dixie Zone Long Course Championship Meet,2016,1
+ALEX,400 M Freestyle,LCM,M,50-54,5:06.49,Mark E Harris,,2016 Dixie Zone Long Course Championship Meet,2016,1
+ALEX,50 M Breaststroke,LCM,M,50-54,36.39,Mark E Harris,,2016 Dixie Zone Long Course Championship Meet,2016,1
+ALEX,100 M Breaststroke,LCM,M,50-54,1:27.69,Mark E Harris,,UMAC Masters Terrapin Cup,2016,1
+ALEX,50 M Butterfly,LCM,M,50-54,32.83,Mark E Harris,,2016 CT Long Course Masters Championship,2016,1
+ALEX,200 M Backstroke,LCM,M,60-64,4:02.12,Ray Novitske,,Virginia Commonwealth Games - Adult Long Course Swim Meet,2016,1
+ALEX,50 M Breaststroke,LCM,M,60-64,45.83,Ray Novitske,,Virginia Commonwealth Games - Adult Long Course Swim Meet,2016,1
+ALEX,100 M Breaststroke,LCM,M,60-64,1:45.32,Ray Novitske,,Virginia Commonwealth Games - Adult Long Course Swim Meet,2016,1
+ANCM,50 M Freestyle,LCM,W,35-39,34.70,Paula A Valencia,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Breaststroke,LCM,W,35-39,46.82,Paula A Valencia,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Butterfly,LCM,W,35-39,39.17,Paula A Valencia,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Freestyle,LCM,W,40-44,33.40,Hannah G Rubin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,400 M Freestyle,LCM,W,40-44,5:21.19,Julie Roddin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,800 M Freestyle,LCM,W,40-44,11:06.72,Julie Roddin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,1500 M Freestyle,LCM,W,40-44,21:03.34,Julie Roddin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Backstroke,LCM,W,40-44,2:50.64,Julie Roddin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Breaststroke,LCM,W,40-44,45.03,Hannah G Rubin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Freestyle,LCM,W,60-64,3:31.08,Linda K Foley,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Backstroke,LCM,W,60-64,1:57.23,Linda K Foley,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Freestyle,LCM,W,70-74,1:24.94,Dorothy L Buchhagen,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Freestyle,LCM,W,70-74,2:59.28,Dorothy L Buchhagen,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Freestyle,LCM,W,70-74,6:11.24,Dorothy L Buchhagen,,UMAC Masters Terrapin Cup,2016,1
+ANCM,400 M Freestyle,LCM,W,70-74,12:33.86,Dorothy L Buchhagen,,UMAC Masters Terrapin Cup,2016,1
+ANCM,800 M Freestyle,LCM,W,70-74,25:15.86,Dorothy L Buchhagen,,UMAC Masters Terrapin Cup,2016,1
+ANCM,1500 M Freestyle,LCM,W,70-74,48:26.54,Dorothy L Buchhagen,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Backstroke,LCM,W,70-74,1:45.47,Margot K Pettijohn,,Summer Meet No.1,2016,1
+ANCM,200 M Backstroke,LCM,W,70-74,3:40.71,Margot K Pettijohn,,Summer Meet No.1,2016,1
+ANCM,50 M Breaststroke,LCM,W,70-74,45.13,Margot K Pettijohn,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Breaststroke,LCM,W,70-74,1:40.78,Margot K Pettijohn,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Breaststroke,LCM,W,70-74,3:47.80,Margot K Pettijohn,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Butterfly,LCM,W,70-74,41.30,Margot K Pettijohn,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Butterfly,LCM,W,70-74,1:35.09,Margot K Pettijohn,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Butterfly,LCM,W,70-74,3:37.41,Margot K Pettijohn,,Summer Meet No.1,2016,1
+ANCM,200 M Individual Medley,LCM,W,70-74,3:20.72,Margot K Pettijohn,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,400 M Individual Medley,LCM,W,70-74,7:16.18,Margot K Pettijohn,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,50 M Freestyle,LCM,M,45-49,29.43,Andrew C Schulz,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,50 M Freestyle,LCM,M,45-49,29.78,George Humbert,,DCRP US Masters Team Long Course Swim Meet,2016,2
+ANCM,100 M Freestyle,LCM,M,45-49,1:05.01,George Humbert,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,100 M Freestyle,LCM,M,45-49,1:07.16,Andrew C Schulz,,DCRP US Masters Team Long Course Swim Meet,2016,2
+ANCM,200 M Freestyle,LCM,M,45-49,2:37.57,George Humbert,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,100 M Breaststroke,LCM,M,45-49,1:26.85,Andrew C Schulz,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,50 M Butterfly,LCM,M,45-49,28.25,Jeffrey H Roddin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Butterfly,LCM,M,45-49,1:02.83,Jeffrey H Roddin,,UMAC Masters Terrapin Cup,2016,1
+ANCM,50 M Freestyle,LCM,M,60-64,27.77,Edwin W McCleskey,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,50 M Breaststroke,LCM,M,60-64,39.43,Edwin W McCleskey,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ANCM,50 M Freestyle,LCM,M,65-69,33.13,David C Harmon,,UMAC Masters Terrapin Cup,2016,1
+ANCM,100 M Freestyle,LCM,M,65-69,1:14.87,David C Harmon,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Freestyle,LCM,M,65-69,2:51.23,David C Harmon,,UMAC Masters Terrapin Cup,2016,1
+ANCM,200 M Individual Medley,LCM,M,65-69,3:13.96,David C Harmon,,UMAC Masters Terrapin Cup,2016,1
+ANCM,400 M Individual Medley,LCM,M,65-69,7:10.88,David C Harmon,,UMAC Masters Terrapin Cup,2016,1
+ARMS,50 M Freestyle,LCM,W,30-34,35.12,S Victoria J Long,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ARMS,100 M Freestyle,LCM,W,30-34,1:27.46,S Victoria J Long,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ARMS,800 M Freestyle,LCM,W,30-34,13:27.60,S Victoria J Long,,UMAC Masters Terrapin Cup,2016,1
+ARMS,1500 M Freestyle,LCM,W,30-34,25:28.01,S Victoria J Long,,UMAC Masters Terrapin Cup,2016,1
+ARMS,100 M Butterfly,LCM,W,30-34,1:30.73,S Victoria J Long,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ARMS,200 M Individual Medley,LCM,W,30-34,3:27.21,S Victoria J Long,,DCRP US Masters Team Long Course Swim Meet,2016,1
+ARMS,200 M Individual Medley,LCM,M,25-29,2:21.95,John Guiffre,,UMAC Masters Terrapin Cup,2016,1
+ARMS,400 M Individual Medley,LCM,M,25-29,5:03.53,John Guiffre,,UMAC Masters Terrapin Cup,2016,1
+ARMS,50 M Freestyle,LCM,M,35-39,31.78,Ryan C Egan,,UMAC Masters Terrapin Cup,2016,1
+DCAC,50 M Freestyle,LCM,W,45-49,35.78,Sheila A Walsh,,UMAC Masters Terrapin Cup,2016,1
+DCAC,100 M Breaststroke,LCM,W,45-49,1:33.48,Sheila A Walsh,,UMAC Masters Terrapin Cup,2016,1
+DCAC,200 M Breaststroke,LCM,W,45-49,3:19.46,Sheila A Walsh,,UMAC Masters Terrapin Cup,2016,1
+DCAC,50 M Butterfly,LCM,W,45-49,37.12,Sheila A Walsh,,UMAC Masters Terrapin Cup,2016,1
+DCAC,200 M Individual Medley,LCM,W,45-49,3:03.44,Sheila A Walsh,,UMAC Masters Terrapin Cup,2016,1
+DCAC,50 M Breaststroke,LCM,W,55-59,50.44,Rebecca A Menes,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,100 M Breaststroke,LCM,W,55-59,1:52.75,Rebecca A Menes,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,200 M Breaststroke,LCM,W,55-59,4:09.46,Rebecca A Menes,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,100 M Freestyle,LCM,M,18-24,1:09.91,Sean J Ward,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,200 M Freestyle,LCM,M,18-24,2:43.41,Sean J Ward,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,100 M Butterfly,LCM,M,18-24,1:27.20,Sean J Ward,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,50 M Freestyle,LCM,M,45-49,27.03,Neill Williams,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,50 M Backstroke,LCM,M,45-49,31.19,Neill Williams,,Summer Meet No.1,2016,1
+DCAC,100 M Backstroke,LCM,M,45-49,1:11.11,Neill Williams,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,50 M Breaststroke,LCM,M,45-49,32.90,Neill Williams,,Summer Meet No.1,2016,1
+DCAC,100 M Breaststroke,LCM,M,45-49,1:13.97,Neill Williams,,Summer Meet No.1,2016,1
+DCAC,200 M Breaststroke,LCM,M,45-49,2:48.67,Neill Williams,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,50 M Butterfly,LCM,M,45-49,27.92,Neill Williams,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,200 M Freestyle,LCM,M,55-59,2:42.70,Wilson B Rumble,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCAC,400 M Freestyle,LCM,M,55-59,5:47.78,Wilson B Rumble,,UMAC Masters Terrapin Cup,2016,1
+DCAC,200 M Breaststroke,LCM,M,55-59,3:38.92,Wilson B Rumble,,UMAC Masters Terrapin Cup,2016,1
+DCAC,200 M Butterfly,LCM,M,55-59,3:23.27,Wilson B Rumble,,Summer Meet No.1,2016,1
+DCAC,200 M Individual Medley,LCM,M,55-59,3:09.51,Wilson B Rumble,,UMAC Masters Terrapin Cup,2016,1
+DCAC,400 M Individual Medley,LCM,M,55-59,6:49.17,Wilson B Rumble,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCM,50 M Freestyle,LCM,M,75-79,42.71,Barry P Shay,,UMAC Masters Terrapin Cup,2016,1
+DCM,100 M Freestyle,LCM,M,75-79,1:38.46,Barry P Shay,,UMAC Masters Terrapin Cup,2016,1
+DCM,200 M Freestyle,LCM,M,75-79,3:46.30,Barry P Shay,,UMAC Masters Terrapin Cup,2016,1
+DCM,400 M Freestyle,LCM,M,75-79,7:57.25,Barry P Shay,,UMAC Masters Terrapin Cup,2016,1
+DCRP,50 M Freestyle,LCM,W,25-29,30.64,Allison K Alexander,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,W,25-29,1:10.07,Emily M McClintock,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,W,25-29,1:18.48,Erin Talkington,,DCRP US Masters Team Long Course Swim Meet,2016,2
+DCRP,200 M Freestyle,LCM,W,25-29,2:38.50,Emily M McClintock,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Freestyle,LCM,W,25-29,2:44.19,Erin Talkington,,DCRP US Masters Team Long Course Swim Meet,2016,2
+DCRP,50 M Backstroke,LCM,W,25-29,36.40,Allison K Alexander,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Backstroke,LCM,W,25-29,2:56.32,Allison K Alexander,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Breaststroke,LCM,W,25-29,42.37,Emily M McClintock,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Butterfly,LCM,W,25-29,33.90,Emily M McClintock,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Butterfly,LCM,W,25-29,35.56,Allison K Alexander,,DCRP US Masters Team Long Course Swim Meet,2016,2
+DCRP,100 M Butterfly,LCM,W,25-29,1:16.57,Emily M McClintock,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Individual Medley,LCM,W,25-29,3:11.09,Erin Talkington,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,W,35-39,1:10.91,Francesca E Di Silvio,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Freestyle,LCM,W,35-39,2:56.94,Rebecca J Simon,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Backstroke,LCM,W,35-39,2:55.89,Francesca E Di Silvio,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,400 M Freestyle,LCM,W,40-44,7:16.80,Sarah Wessel,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Breaststroke,LCM,W,40-44,46.76,Sarah Wessel,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Breaststroke,LCM,W,40-44,1:48.70,Sarah Wessel,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Butterfly,LCM,W,45-49,36.32,Juliette M DeSousa,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,W,55-59,1:21.61,Barbara Shycoff,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Freestyle,LCM,W,55-59,3:08.38,Barbara Shycoff,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Freestyle,LCM,M,25-29,28.66,Sean C Williams,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,M,25-29,58.79,Christopher M DeLaFuente,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Breaststroke,LCM,M,25-29,34.03,Christopher M DeLaFuente,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Butterfly,LCM,M,25-29,28.06,Christopher M DeLaFuente,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Individual Medley,LCM,M,25-29,2:43.57,Sean C Williams,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,M,30-34,1:01.50,William L Holby,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Backstroke,LCM,M,30-34,34.42,Michael Houston,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Breaststroke,LCM,M,30-34,1:31.36,Michael Houston,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Butterfly,LCM,M,30-34,29.00,William L Holby,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Freestyle,LCM,M,40-44,29.76,Alexander N Chororos,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,50 M Freestyle,LCM,M,40-44,34.22,Juan Julio Gutierrez,,DCRP US Masters Team Long Course Swim Meet,2016,2
+DCRP,100 M Freestyle,LCM,M,40-44,1:16.04,Juan Julio Gutierrez,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Individual Medley,LCM,M,40-44,2:43.37,Alexander N Chororos,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,400 M Freestyle,LCM,M,45-49,6:18.00,Garret W Sern,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,100 M Freestyle,LCM,M,65-69,1:39.52,Peter B Grinnell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,200 M Freestyle,LCM,M,65-69,3:51.91,Peter B Grinnell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+DCRP,400 M Freestyle,LCM,M,65-69,7:41.99,Peter B Grinnell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+FBST,800 M Freestyle,LCM,M,45-49,11:00.81,James Murray,,UMAC Masters Terrapin Cup,2016,1
+FBST,1500 M Freestyle,LCM,M,45-49,20:32.73,James Murray,,UMAC Masters Terrapin Cup,2016,1
+GERM,100 M Freestyle,LCM,W,30-34,1:37.87,Meredith Tibbetts,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,50 M Backstroke,LCM,W,30-34,44.79,Meredith Tibbetts,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,100 M Backstroke,LCM,W,30-34,1:42.86,Meredith Tibbetts,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,400 M Freestyle,LCM,W,45-49,6:37.88,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,800 M Freestyle,LCM,W,45-49,13:22.56,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,1500 M Freestyle,LCM,W,45-49,25:06.79,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Backstroke,LCM,W,45-49,4:10.93,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Breaststroke,LCM,W,45-49,42.21,Terri Postma,,2016 CT Long Course Masters Championship,2016,1
+GERM,100 M Breaststroke,LCM,W,45-49,1:44.49,Terri Postma,,2016 CT Long Course Masters Championship,2016,1
+GERM,200 M Breaststroke,LCM,W,45-49,3:27.81,Terri Postma,,2016 CT Long Course Masters Championship,2016,1
+GERM,50 M Butterfly,LCM,W,45-49,41.06,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Butterfly,LCM,W,45-49,3:44.38,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Individual Medley,LCM,W,45-49,3:25.46,Terri Postma,,UMAC Masters Terrapin Cup,2016,1
+GERM,400 M Individual Medley,LCM,W,45-49,7:02.56,Terri Postma,,2016 CT Long Course Masters Championship,2016,1
+GERM,100 M Backstroke,LCM,W,60-64,1:25.29,Jeanne L Lappin,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Butterfly,LCM,W,60-64,35.36,Jeanne L Lappin,,UMAC Masters Terrapin Cup,2016,1
+GERM,100 M Butterfly,LCM,W,60-64,1:20.26,Jeanne L Lappin,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Individual Medley,LCM,W,60-64,3:02.20,Jeanne L Lappin,,UMAC Masters Terrapin Cup,2016,1
+GERM,400 M Individual Medley,LCM,W,60-64,6:27.23,Jeanne L Lappin,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Breaststroke,LCM,M,35-39,31.61,Jeffrey Jarczynski,,UMAC Masters Terrapin Cup,2016,1
+GERM,100 M Breaststroke,LCM,M,35-39,1:11.13,Jeffrey Jarczynski,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Breaststroke,LCM,M,35-39,2:40.05,Jeffrey Jarczynski,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Individual Medley,LCM,M,35-39,2:28.97,Jeffrey Jarczynski,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Freestyle,LCM,M,45-49,29.89,Farol L Tomson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GERM,100 M Freestyle,LCM,M,45-49,1:10.31,Farol L Tomson,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Backstroke,LCM,M,45-49,36.49,Farol L Tomson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GERM,100 M Backstroke,LCM,M,45-49,1:23.57,Farol L Tomson,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Backstroke,LCM,M,45-49,3:04.74,Farol L Tomson,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,50 M Breaststroke,LCM,M,45-49,41.93,Farol L Tomson,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,100 M Breaststroke,LCM,M,45-49,1:31.83,Farol L Tomson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GERM,200 M Breaststroke,LCM,M,45-49,3:34.98,Farol L Tomson,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Butterfly,LCM,M,45-49,32.54,Farol L Tomson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GERM,200 M Individual Medley,LCM,M,45-49,2:54.02,Farol L Tomson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GERM,200 M Freestyle,LCM,M,50-54,2:31.48,Karl E Wunderlich,,Summer Meet No.1,2016,1
+GERM,200 M Individual Medley,LCM,M,50-54,2:52.87,Karl E Wunderlich,,Summer Meet No.1,2016,1
+GERM,50 M Freestyle,LCM,M,65-69,41.92,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,100 M Freestyle,LCM,M,65-69,1:20.02,Stephen G Wright,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,100 M Freestyle,LCM,M,65-69,1:35.69,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,2
+GERM,200 M Freestyle,LCM,M,65-69,3:40.85,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,800 M Freestyle,LCM,M,65-69,16:22.84,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,50 M Backstroke,LCM,M,65-69,40.27,Stephen G Wright,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,50 M Backstroke,LCM,M,65-69,54.31,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,2
+GERM,100 M Backstroke,LCM,M,65-69,1:32.30,Stephen G Wright,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,100 M Backstroke,LCM,M,65-69,2:08.72,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,2
+GERM,200 M Backstroke,LCM,M,65-69,3:24.12,Stephen G Wright,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,50 M Breaststroke,LCM,M,65-69,59.26,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,100 M Breaststroke,LCM,M,65-69,2:12.84,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,200 M Breaststroke,LCM,M,65-69,4:42.16,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,200 M Individual Medley,LCM,M,65-69,5:02.10,Michael F Boyle,,2016 Masters Swimming Australia National Championships,2016,1
+GERM,50 M Freestyle,LCM,M,70-74,39.30,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,100 M Freestyle,LCM,M,70-74,1:39.13,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,400 M Freestyle,LCM,M,70-74,7:57.16,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Backstroke,LCM,M,70-74,50.19,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,100 M Backstroke,LCM,M,70-74,1:53.46,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Backstroke,LCM,M,70-74,4:06.44,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Breaststroke,LCM,M,70-74,55.29,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,100 M Breaststroke,LCM,M,70-74,2:14.47,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,200 M Individual Medley,LCM,M,70-74,4:01.10,David L Robinson,,UMAC Masters Terrapin Cup,2016,1
+GERM,50 M Freestyle,LCM,M,75-79,55.15,Richard S Durham,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GERM,200 M Breaststroke,LCM,M,75-79,5:03.54,Richard S Durham,,DCRP US Masters Team Long Course Swim Meet,2016,1
+GMUP,400 M Freestyle,LCM,M,45-49,5:17.44,William C Sax,,San Diego - Imperial Masters Swimming 2016 Long Course Championships,2016,1
+GMUP,800 M Freestyle,LCM,M,45-49,10:58.50,William C Sax,,San Diego - Imperial Masters Swimming 2016 Long Course Championships,2016,1
+GMUP,50 M Butterfly,LCM,M,45-49,32.44,William C Sax,,San Diego - Imperial Masters Swimming 2016 Long Course Championships,2016,1
+GMUP,100 M Butterfly,LCM,M,45-49,1:13.72,William C Sax,,San Diego - Imperial Masters Swimming 2016 Long Course Championships,2016,1
+GMUP,200 M Butterfly,LCM,M,45-49,2:45.60,William C Sax,,San Diego - Imperial Masters Swimming 2016 Long Course Championships,2016,1
+GMUP,50 M Freestyle,LCM,M,70-74,35.41,Frederick J Zamon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GMUP,100 M Freestyle,LCM,M,70-74,1:24.72,Frederick J Zamon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GMUP,50 M Butterfly,LCM,M,70-74,45.73,Frederick J Zamon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GMUP,100 M Butterfly,LCM,M,70-74,1:59.22,Frederick J Zamon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+GMUP,200 M Individual Medley,LCM,M,70-74,4:10.51,Frederick J Zamon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+L4S,200 M Freestyle,LCM,W,40-44,2:47.51,Heather G Eaton,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+L4S,400 M Freestyle,LCM,W,40-44,5:57.32,Heather G Eaton,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+L4S,800 M Freestyle,LCM,W,40-44,12:10.31,Heather G Eaton,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+L4S,50 M Freestyle,LCM,W,50-54,29.34,Susan O Williams,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Backstroke,LCM,W,50-54,33.28,Susan O Williams,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Butterfly,LCM,W,50-54,29.82,Susan O Williams,,Summer Meet No.1,2016,1
+L4S,50 M Freestyle,LCM,M,18-24,30.07,Patrick E Gelbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,100 M Freestyle,LCM,M,18-24,1:07.12,Patrick E Gelbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,200 M Freestyle,LCM,M,18-24,2:32.66,Patrick E Gelbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,50 M Backstroke,LCM,M,18-24,35.60,Patrick E Gelbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,50 M Butterfly,LCM,M,18-24,35.20,Patrick E Gelbach,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,50 M Freestyle,LCM,M,50-54,29.10,Jay T Kress,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,100 M Freestyle,LCM,M,50-54,1:04.55,Scott Schutzmeister,,UMAC Masters Terrapin Cup,2016,1
+L4S,100 M Freestyle,LCM,M,50-54,1:05.92,Jay T Kress,,Summer Meet No.1,2016,2
+L4S,200 M Freestyle,LCM,M,50-54,2:31.56,Jay T Kress,,Summer Meet No.1,2016,1
+L4S,400 M Freestyle,LCM,M,50-54,5:05.19,Kenneth A Swinnerton,,UMAC Masters Terrapin Cup,2016,1
+L4S,800 M Freestyle,LCM,M,50-54,10:33.72,Kenneth A Swinnerton,,UMAC Masters Terrapin Cup,2016,1
+L4S,1500 M Freestyle,LCM,M,50-54,19:51.36,Kenneth A Swinnerton,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Backstroke,LCM,M,50-54,35.44,Jay T Kress,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,100 M Backstroke,LCM,M,50-54,1:17.70,Jay T Kress,,UMAC Masters Terrapin Cup,2016,1
+L4S,200 M Backstroke,LCM,M,50-54,2:59.38,Jay T Kress,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Breaststroke,LCM,M,50-54,39.87,Jay T Kress,,DCRP US Masters Team Long Course Swim Meet,2016,1
+L4S,100 M Breaststroke,LCM,M,50-54,1:28.83,Jay T Kress,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Butterfly,LCM,M,50-54,30.54,Scott Schutzmeister,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Butterfly,LCM,M,50-54,31.72,Jay T Kress,,DCRP US Masters Team Long Course Swim Meet,2016,2
+L4S,100 M Butterfly,LCM,M,50-54,1:10.16,Scott Schutzmeister,,UMAC Masters Terrapin Cup,2016,1
+L4S,200 M Butterfly,LCM,M,50-54,2:45.96,Scott Schutzmeister,,UMAC Masters Terrapin Cup,2016,1
+L4S,200 M Individual Medley,LCM,M,50-54,2:53.29,Jay T Kress,,UMAC Masters Terrapin Cup,2016,1
+L4S,100 M Backstroke,LCM,M,55-59,1:11.50,Glenn H Battle,,O*H*I*O Masters 2016 LCM Swim Meet - CSU,2016,1
+L4S,100 M Freestyle,LCM,M,60-64,1:17.74,Don Edgell,,UMAC Masters Terrapin Cup,2016,1
+L4S,400 M Freestyle,LCM,M,60-64,6:10.16,Don Edgell,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Butterfly,LCM,M,60-64,41.79,Don Edgell,,UMAC Masters Terrapin Cup,2016,1
+L4S,50 M Breaststroke,LCM,M,65-69,46.40,Charles W Frost,,UMAC Masters Terrapin Cup,2016,1
+LMAC,50 M Freestyle,LCM,M,50-54,37.30,Frank J Purcell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+LMAC,50 M Breaststroke,LCM,M,50-54,52.34,Frank J Purcell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+LMAC,50 M Butterfly,LCM,M,50-54,40.20,Frank J Purcell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+LMAC,200 M Individual Medley,LCM,M,50-54,4:00.31,Frank J Purcell,,DCRP US Masters Team Long Course Swim Meet,2016,1
+MACH,50 M Freestyle,LCM,M,55-59,32.54,Thomas N Black,,UMAC Masters Terrapin Cup,2016,1
+MACH,200 M Freestyle,LCM,M,55-59,2:53.15,Thomas N Black,,UMAC Masters Terrapin Cup,2016,1
+NAMI,100 M Butterfly,LCM,W,18-24,1:15.61,Felicity G Hicks,,UMAC Masters Terrapin Cup,2016,1
+NAMI,200 M Breaststroke,LCM,W,25-29,4:03.11,Elise Burns,,UMAC Masters Terrapin Cup,2016,1
+NAMI,400 M Freestyle,LCM,W,30-34,5:50.45,Shannon M Mockler,,UMAC Masters Terrapin Cup,2016,1
+NAMI,800 M Freestyle,LCM,W,30-34,12:38.74,Shannon M Mockler,,UMAC Masters Terrapin Cup,2016,1
+NAMI,1500 M Freestyle,LCM,W,30-34,23:52.95,Shannon M Mockler,,UMAC Masters Terrapin Cup,2016,1
+NAMI,200 M Individual Medley,LCM,W,30-34,3:12.69,Shannon M Mockler,,UMAC Masters Terrapin Cup,2016,1
+NAMI,50 M Freestyle,LCM,W,35-39,31.86,Kelby M Conley,,UMAC Masters Terrapin Cup,2016,1
+NAMI,100 M Backstroke,LCM,W,35-39,1:22.39,Kelby M Conley,,UMAC Masters Terrapin Cup,2016,1
+NAMI,50 M Breaststroke,LCM,W,35-39,44.92,Kelby M Conley,,UMAC Masters Terrapin Cup,2016,1
+NAMI,50 M Freestyle,LCM,W,65-69,45.07,Wallis A Lahtinen-Hicks,,UMAC Masters Terrapin Cup,2016,1
+NAMI,50 M Freestyle,LCM,M,30-34,26.59,Matthew M Murphy,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+NAMI,50 M Backstroke,LCM,M,30-34,31.65,Matthew M Murphy,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+NAMI,100 M Backstroke,LCM,M,30-34,1:13.43,Matthew M Murphy,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+NAMI,200 M Backstroke,LCM,M,30-34,2:49.34,Matthew M Murphy,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+NAMI,200 M Individual Medley,LCM,M,30-34,2:49.50,Matthew M Murphy,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,800 M Freestyle,LCM,W,35-39,11:31.69,Jennifer M Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Breaststroke,LCM,W,35-39,41.09,Jennifer M Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Breaststroke,LCM,W,35-39,1:30.54,Jennifer M Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,W,35-39,36.09,Jennifer M Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Individual Medley,LCM,W,35-39,2:54.45,Jennifer M Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Freestyle,LCM,W,40-44,3:34.82,Kendall R Beels,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,800 M Freestyle,LCM,W,40-44,15:44.04,Kendall R Beels,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Freestyle,LCM,W,55-59,32.58,Kim M Brightwell,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Backstroke,LCM,W,55-59,37.15,Kim M Brightwell,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Backstroke,LCM,W,55-59,1:21.62,Kim M Brightwell,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Breaststroke,LCM,W,55-59,41.11,Kim M Brightwell,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Breaststroke,LCM,W,55-59,1:34.71,Kim M Brightwell,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,W,55-59,34.88,Kim M Brightwell,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Individual Medley,LCM,W,55-59,3:09.00,Kim M Brightwell,,UMAC Masters Terrapin Cup,2016,1
+RMST,50 M Freestyle,LCM,W,70-74,52.41,Lucy M Manheim,,UMAC Masters Terrapin Cup,2016,1
+RMST,100 M Freestyle,LCM,W,70-74,1:55.47,Lucy M Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,1500 M Freestyle,LCM,W,70-74,35:30.83,Lucy M Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Backstroke,LCM,W,70-74,1:02.92,Lucy M Manheim,,UMAC Masters Terrapin Cup,2016,1
+RMST,100 M Backstroke,LCM,W,70-74,2:18.98,Lucy M Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Backstroke,LCM,W,70-74,5:02.24,Lucy M Manheim,,UMAC Masters Terrapin Cup,2016,1
+RMST,400 M Freestyle,LCM,M,30-34,5:36.41,Aram G Thomasian,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,M,30-34,31.59,Aram G Thomasian,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Butterfly,LCM,M,30-34,1:15.01,Aram G Thomasian,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Individual Medley,LCM,M,30-34,2:53.48,Aram G Thomasian,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Freestyle,LCM,M,35-39,32.70,Glenn Gwilliam,,UMAC Masters Terrapin Cup,2016,1
+RMST,200 M Freestyle,LCM,M,35-39,3:02.16,Glenn Gwilliam,,UMAC Masters Terrapin Cup,2016,1
+RMST,50 M Backstroke,LCM,M,35-39,31.06,Adam Orton,,UMAC Masters Terrapin Cup,2016,1
+RMST,100 M Backstroke,LCM,M,35-39,1:10.70,Adam Orton,,UMAC Masters Terrapin Cup,2016,1
+RMST,50 M Breaststroke,LCM,M,35-39,36.92,Cory M Davis,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Breaststroke,LCM,M,35-39,1:25.99,Cory M Davis,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Breaststroke,LCM,M,35-39,3:14.31,Cory M Davis,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,M,35-39,28.50,Adam Orton,,UMAC Masters Terrapin Cup,2016,1
+RMST,50 M Freestyle,LCM,M,45-49,30.94,John Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,800 M Freestyle,LCM,M,45-49,12:52.66,John Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,M,45-49,34.13,John Carlson,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Backstroke,LCM,M,65-69,37.11,Jon C Rysdon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Backstroke,LCM,M,65-69,1:20.40,Jon C Rysdon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Backstroke,LCM,M,65-69,2:55.09,Jon C Rysdon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,M,65-69,40.05,Jon C Rysdon,,UMAC Masters Terrapin Cup,2016,1
+RMST,200 M Butterfly,LCM,M,65-69,3:44.44,Jon C Rysdon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,200 M Individual Medley,LCM,M,65-69,3:18.28,Jon C Rysdon,,UMAC Masters Terrapin Cup,2016,1
+RMST,400 M Individual Medley,LCM,M,65-69,7:01.93,Jon C Rysdon,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Freestyle,LCM,M,85-89,44.84,Frank T Manheim,,UMAC Masters Terrapin Cup,2016,1
+RMST,50 M Backstroke,LCM,M,85-89,49.36,Frank T Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,100 M Backstroke,LCM,M,85-89,2:01.21,Frank T Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Breaststroke,LCM,M,85-89,1:09.48,Frank T Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+RMST,50 M Butterfly,LCM,M,85-89,1:06.02,Frank T Manheim,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+TA,50 M Freestyle,LCM,M,55-59,29.22,Chris J Laiti,,Summer Meet No.1,2016,1
+TA,50 M Backstroke,LCM,M,55-59,34.99,Chris J Laiti,,Summer Meet No.1,2016,1
+UC10,50 M Freestyle,LCM,W,35-39,32.21,Deborah Gayle,,Summer Meet No.1,2016,1
+UC10,800 M Freestyle,LCM,W,35-39,11:45.33,Deborah Gayle,,UMAC Masters Terrapin Cup,2016,1
+UC10,1500 M Freestyle,LCM,W,35-39,21:30.22,Deborah Gayle,,One Mile Time Trial,2016,1
+UC10,50 M Breaststroke,LCM,W,35-39,43.69,Deborah Gayle,,Summer Meet No.1,2016,1
+UC10,50 M Butterfly,LCM,W,35-39,35.02,Deborah Gayle,,Summer Meet No.1,2016,1
+UC10,100 M Freestyle,LCM,W,55-59,1:15.15,Sandra Stewart,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UC10,200 M Freestyle,LCM,W,55-59,2:48.85,Sandra Stewart,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UC10,400 M Freestyle,LCM,W,55-59,5:56.28,Sandra Stewart,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,200 M Individual Medley,LCM,W,55-59,3:15.33,Sandra Stewart,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,50 M Freestyle,LCM,M,30-34,27.24,Matthew M Murphy,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Freestyle,LCM,M,30-34,29.31,Brett R Keyes,,DCRP US Masters Team Long Course Swim Meet,2016,2
+UC10,50 M Freestyle,LCM,M,30-34,29.90,Richard C Collier,,DCRP US Masters Team Long Course Swim Meet,2016,3
+UC10,100 M Freestyle,LCM,M,30-34,1:07.24,Richard C Collier,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,100 M Freestyle,LCM,M,30-34,1:07.66,Brett R Keyes,,DCRP US Masters Team Long Course Swim Meet,2016,2
+UC10,200 M Freestyle,LCM,M,30-34,2:34.45,Brett R Keyes,,UMAC Masters Terrapin Cup,2016,1
+UC10,400 M Freestyle,LCM,M,30-34,5:37.48,Brett R Keyes,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Backstroke,LCM,M,30-34,32.67,Matthew M Murphy,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Backstroke,LCM,M,30-34,35.29,Richard C Collier,,DCRP US Masters Team Long Course Swim Meet,2016,2
+UC10,100 M Backstroke,LCM,M,30-34,1:13.48,Matthew M Murphy,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Breaststroke,LCM,M,30-34,37.10,Brett R Keyes,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,100 M Breaststroke,LCM,M,30-34,1:27.63,Brett R Keyes,,UMAC Masters Terrapin Cup,2016,1
+UC10,100 M Breaststroke,LCM,M,30-34,1:29.39,Richard C Collier,,DCRP US Masters Team Long Course Swim Meet,2016,2
+UC10,50 M Butterfly,LCM,M,30-34,30.34,Matthew M Murphy,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Butterfly,LCM,M,30-34,32.11,Brett R Keyes,,UMAC Masters Terrapin Cup,2016,2
+UC10,100 M Freestyle,LCM,M,35-39,1:06.77,Mario Di Filippo,,UMAC Masters Terrapin Cup,2016,1
+UC10,200 M Freestyle,LCM,M,35-39,2:31.31,Mario Di Filippo,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,400 M Freestyle,LCM,M,35-39,5:05.60,Mario Di Filippo,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,800 M Freestyle,LCM,M,35-39,10:39.48,Mario Di Filippo,,UMAC Masters Terrapin Cup,2016,1
+UC10,1500 M Freestyle,LCM,M,35-39,20:14.33,Mario Di Filippo,,UMAC Masters Terrapin Cup,2016,1
+UC10,100 M Backstroke,LCM,M,35-39,1:24.95,Mario Di Filippo,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,200 M Butterfly,LCM,M,35-39,2:50.77,Mario Di Filippo,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,50 M Freestyle,LCM,M,40-44,25.64,James Zenyuh,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UC10,50 M Backstroke,LCM,M,40-44,28.10,James Zenyuh,,UMAC Masters Terrapin Cup,2016,1
+UC10,100 M Backstroke,LCM,M,40-44,1:01.69,James Zenyuh,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Butterfly,LCM,M,40-44,25.82,James Zenyuh,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Freestyle,LCM,M,50-54,33.56,David K Fallick,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Breaststroke,LCM,M,50-54,50.83,David K Fallick,,UMAC Masters Terrapin Cup,2016,1
+UC10,800 M Freestyle,LCM,M,55-59,11:50.64,Matthew W Fetters,,UMAC Masters Terrapin Cup,2016,1
+UC10,1500 M Freestyle,LCM,M,55-59,22:32.32,Matthew W Fetters,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Breaststroke,LCM,M,55-59,39.17,Jeffrey L Osborn,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UC10,100 M Breaststroke,LCM,M,55-59,1:30.84,Jeffrey L Osborn,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UC10,200 M Individual Medley,LCM,M,55-59,3:11.27,Jeffrey L Osborn,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UC10,100 M Freestyle,LCM,M,75-79,1:57.29,Leonard Deege,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Backstroke,LCM,M,75-79,54.73,Leonard Deege,,UMAC Masters Terrapin Cup,2016,1
+UC10,50 M Butterfly,LCM,M,75-79,1:05.83,Leonard Deege,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Freestyle,LCM,W,25-29,29.57,Courtney M Randolph,,UMAC Masters Terrapin Cup,2016,1
+UMAC,100 M Freestyle,LCM,W,25-29,1:03.93,Courtney M Randolph,,UMAC Masters Terrapin Cup,2016,1
+UMAC,400 M Freestyle,LCM,W,25-29,4:59.19,Courtney M Randolph,,UMAC Masters Terrapin Cup,2016,1
+UMAC,100 M Breaststroke,LCM,W,25-29,1:24.02,Courtney M Randolph,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Freestyle,LCM,W,35-39,28.56,Mollie K Grover,,2016 Speedo Sectionals Long Course Region 2 (South) (USA- Masters Only),2016,1
+UMAC,50 M Freestyle,LCM,W,35-39,45.72,Angela L Fu,,UMAC Masters Terrapin Cup,2016,2
+UMAC,100 M Freestyle,LCM,W,35-39,1:02.09,Mollie K Grover,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Freestyle,LCM,W,35-39,1:49.79,Angela L Fu,,UMAC Masters Terrapin Cup,2016,2
+UMAC,50 M Backstroke,LCM,W,35-39,33.79,Mollie K Grover,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,50 M Backstroke,LCM,W,35-39,1:14.13,Angela L Fu,,UMAC Masters Terrapin Cup,2016,2
+UMAC,100 M Backstroke,LCM,W,35-39,1:10.14,Mollie K Grover,,2016 Speedo Sectionals Long Course Region 2 (South) (USA- Masters Only),2016,1
+UMAC,200 M Backstroke,LCM,W,35-39,2:34.51,Mollie K Grover,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,50 M Breaststroke,LCM,W,35-39,39.90,Mollie K Grover,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UMAC,50 M Breaststroke,LCM,W,35-39,1:03.32,Angela L Fu,,UMAC Masters Terrapin Cup,2016,2
+UMAC,50 M Butterfly,LCM,W,35-39,31.35,Mollie K Grover,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UMAC,400 M Freestyle,LCM,W,60-64,6:49.73,Cheryl A Wagner,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UMAC,800 M Freestyle,LCM,W,60-64,14:19.09,Cheryl A Wagner,,UMAC Masters Terrapin Cup,2016,1
+UMAC,1500 M Freestyle,LCM,W,60-64,26:51.65,Cheryl A Wagner,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Freestyle,LCM,M,30-34,28.54,Jonathan OLoughlin,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,50 M Freestyle,LCM,M,30-34,29.36,Chris Shaw,,2016 U.S. Masters Swimming Summer National Championship,2016,2
+UMAC,100 M Freestyle,LCM,M,30-34,1:01.26,Jonathan OLoughlin,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Freestyle,LCM,M,30-34,1:09.65,Chris Shaw,,2016 U.S. Masters Swimming Summer National Championship,2016,2
+UMAC,200 M Freestyle,LCM,M,30-34,2:39.74,Chris Shaw,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,400 M Freestyle,LCM,M,30-34,5:01.33,Jonathan OLoughlin,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Breaststroke,LCM,M,30-34,31.91,Cejih J Yung,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Breaststroke,LCM,M,30-34,1:12.06,Cejih J Yung,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,200 M Breaststroke,LCM,M,30-34,2:40.04,Cejih Yung,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Butterfly,LCM,M,30-34,31.83,Jonathan OLoughlin,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,200 M Individual Medley,LCM,M,30-34,2:28.33,Cejih Yung,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Freestyle,LCM,M,35-39,27.86,Jeffrey R Strahota,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Freestyle,LCM,M,35-39,1:01.05,Jeffrey R Strahota,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,200 M Freestyle,LCM,M,35-39,2:21.45,Jeffrey R Strahota,,UMAC Masters Terrapin Cup,2016,1
+UMAC,400 M Freestyle,LCM,M,35-39,5:03.65,Jeffrey R Strahota,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UMAC,50 M Backstroke,LCM,M,35-39,34.44,Jeffrey R Strahota,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Backstroke,LCM,M,35-39,1:17.90,Jeffrey R Strahota,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UMAC,50 M Breaststroke,LCM,M,35-39,30.09,Blake A Holden,,2015 AT&amp;T Winter Nationals (USA- Masters Only),2016,1
+UMAC,50 M Breaststroke,LCM,M,35-39,36.19,Jeffrey R Strahota,,2016 U.S. Masters Swimming Summer National Championship,2016,2
+UMAC,100 M Breaststroke,LCM,M,35-39,1:05.04,Blake A Holden,,2015 AT&amp;T Winter Nationals (USA- Masters Only),2016,1
+UMAC,50 M Butterfly,LCM,M,35-39,30.21,Jeffrey R Strahota,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Butterfly,LCM,M,35-39,1:08.53,Jeffrey R Strahota,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,50 M Freestyle,LCM,M,40-44,25.66,Blake A Holden,,2016 Speedo Sectionals Long Course Region 2 (South) (USA- Masters Only),2016,1
+UMAC,100 M Breaststroke,LCM,M,40-44,1:06.20,Blake A Holden,,2016 Speedo Sectionals Long Course Region 2 (South) (USA- Masters Only),2016,1
+UMAC,100 M Butterfly,LCM,M,40-44,1:02.51,Blake A Holden,,2016 Speedo Sectionals Long Course Region 2 (South) (USA- Masters Only),2016,1
+UMAC,50 M Freestyle,LCM,M,45-49,26.35,Michael P Doane,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,50 M Breaststroke,LCM,M,45-49,32.91,Michael P Doane,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,100 M Breaststroke,LCM,M,45-49,1:17.32,Michael P Doane,,2016 U.S. Masters Swimming Summer National Championship,2016,1
+UMAC,50 M Butterfly,LCM,M,45-49,28.21,Michael P Doane,,UMAC Masters Terrapin Cup,2016,1
+UMAC,100 M Butterfly,LCM,M,45-49,1:05.83,Michael P Doane,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Freestyle,LCM,M,55-59,35.01,Stephen D Payne,,UMAC Masters Terrapin Cup,2016,1
+UMAC,100 M Freestyle,LCM,M,55-59,1:22.44,Stephen D Payne,,UMAC Masters Terrapin Cup,2016,1
+UMAC,200 M Freestyle,LCM,M,55-59,3:11.34,Stephen D Payne,,UMAC Masters Terrapin Cup,2016,1
+UMAC,400 M Freestyle,LCM,M,55-59,6:41.13,Stephen D Payne,,UMAC Masters Terrapin Cup,2016,1
+UMAC,50 M Freestyle,LCM,M,65-69,33.31,Charles L Hoffman,,DCRP US Masters Team Long Course Swim Meet,2016,1
+UMAC,50 M Breaststroke,LCM,M,65-69,41.03,Charles L Hoffman,,UMAC Masters Terrapin Cup,2016,1
+UMAC,100 M Breaststroke,LCM,M,65-69,1:29.52,Charles L Hoffman,,UMAC Masters Terrapin Cup,2016,1
+UMAC,200 M Breaststroke,LCM,M,65-69,3:18.88,Charles L Hoffman,,UMAC Masters Terrapin Cup,2016,1

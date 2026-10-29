@@ -11,7 +11,8 @@
     "swimmer": "Richard S McCain",
     "date": null,
     "meet": "2020 South Carolina SCM State Meet",
-    "year": "2020"
+    "year": "2020",
+    "swimmerId": "04E9A"
   },
   {
     "id": "COLM_100_m_backstroke_scm_men_65_69",
@@ -25,7 +26,8 @@
     "swimmer": "Richard S McCain",
     "date": null,
     "meet": "2020 South Carolina SCM State Meet",
-    "year": "2020"
+    "year": "2020",
+    "swimmerId": "04E9A"
   },
   {
     "id": "COLM_100_m_breaststroke_scm_men_65_69",
@@ -39,6 +41,7 @@
     "swimmer": "Richard S McCain",
     "date": null,
     "meet": "2020 South Carolina SCM State Meet",
-    "year": "2020"
+    "year": "2020",
+    "swimmerId": "04E9A"
   }
 ]
