@@ -23,6 +23,12 @@ function md(s: string): string {
 }
 
 let allRecords: TeamRecord[] = [];
+/** Records `swimmerId` (else `swimmer`) → /swimmers/<slug>/ (data/swimmers.json; empty without swimmer pages). */
+let swimmerSlugs: Record<string, string> = {};
+const swimmerLink = (r: TeamRecord) => {
+  const slug = swimmerSlugs[r.swimmerId || r.swimmer];
+  return slug ? `<a href="/swimmers/${slug}/">${esc(r.swimmer)}</a>` : esc(r.swimmer);
+};
 let sortKey: keyof TeamRecord = "time";
 let sortAsc = true;
 
@@ -36,13 +42,17 @@ async function init() {
   const hasRecords = !!$opt("#results");
   // State-site club pages point the records section at that club's file.
   const recordsSrc = $opt("#records")?.dataset.src ?? `data/${tenant.teamCode}_all_records.json`;
-  const [recordsRes, sheetData] = await Promise.all([
+  const [recordsRes, sheetData, slugs] = await Promise.all([
     hasRecords
       ? fetch(`${import.meta.env.BASE_URL}${recordsSrc}`).then((r) => r.json())
       : Promise.resolve([]),
     fetchAllSheets(),
+    hasRecords && tenant.swimmerPages
+      ? fetch(`${import.meta.env.BASE_URL}data/swimmers.json`).then((r) => (r.ok ? r.json() : {}), () => ({}))
+      : Promise.resolve({}),
   ]);
   allRecords = recordsRes;
+  swimmerSlugs = slugs;
 
   if (sheetData.events.length) renderEvents(sheetData.events);
   if (sheetData.schedule.length) renderSchedule(sheetData.schedule);
@@ -207,7 +217,7 @@ function render() {
     .map(
       (r) => `<tr>
       ${teamCol ? `<td>${esc(r.team)}</td>` : ""}<td>${esc(r.event)}</td>
-      <td>${esc(r.swimmer)}</td>
+      <td>${swimmerLink(r)}</td>
       <td class="time">${esc(r.time)}</td>
       <td>${esc(r.ageGroup)}</td>
       <td>${esc(r.course.toUpperCase())}</td>
