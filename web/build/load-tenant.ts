@@ -253,6 +253,7 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     req(fs.existsSync(recordsFile), `swimmerPages needs ${recordsFile}`);
     req(!pages.some((p) => p.slug === "swimmers") && !fs.existsSync(path.join(publicDir, "swimmers")),
       `swimmerPages: "swimmers" is taken by a page or public/swimmers`);
+    req(!fs.existsSync(path.join(publicDir, "_redirects")), `swimmerPages writes _redirects; merge public/_redirects into it first`);
     const grouped = groupSwimmers(readJson<SwimRecord[]>(recordsFile), config.swimmerAliases, config.swimmerOptOut);
     for (const w of grouped.warnings) console.warn(`[tenant] ${w}`);
     swimmers = grouped.swimmers;

@@ -12,14 +12,18 @@ export interface SwimRecord {
   swimmer: string;
   meet: string;
   year: string | null;
+  /** Permanent USMS member ID (the part after the dash of the registration number). */
+  swimmerId?: string | null;
 }
 
 export interface Swimmer {
-  /** Display name: the most common spelling in the group. */
+  /** USMS ID, when the records carry one. */
+  id?: string;
+  /** Display name: the most recent spelling in the group. */
   name: string;
   slug: string;
-  /** Every `swimmer` string (as written in the records) that maps to this swimmer. */
-  rawNames: string[];
+  /** Slugs of this swimmer's other spellings, redirected to `slug` (e.g. after a name change). */
+  oldSlugs: string[];
   records: SwimRecord[];
 }
 
@@ -37,14 +41,17 @@ export function lastName(name: string): string {
   return tokens[tokens.length - 1];
 }
 
-/** Ties go to the spelling with more capitals ("Kristi M Panayotoff" over "kristi M panayotoff"). */
 const capitals = (s: string) => s.replace(/[^A-Z]/g, "").length;
+const yearOf = (r: SwimRecord) => Number(r.year) || 0;
 
 /**
- * Group records by swimmer: names are cleaned, aliased (variant → canonical) and compared
- * case-insensitively. Opted-out names (raw or canonical) get no swimmer entry. Returns
- * swimmers in slug order plus build warnings for slug collisions and names that differ
- * only by a middle initial (those are reported, never merged).
+ * Group records by swimmer. Records with a USMS ID group by it; records without one join the
+ * ID group whose name matches (cleaned, aliased, case-insensitive) when exactly one does,
+ * otherwise group by name. The display name is the most recent spelling. Slugs come from the
+ * name; when swimmers share one, the one with the earliest swim keeps it and the others get
+ * their ID appended (or -2, -3… without an ID), so established URLs never move. Opted-out
+ * swimmers (any of their names, or their ID) get no entry. Warns on slug collisions and on
+ * names that differ only by a middle initial where an ID can't tell them apart.
  */
 export function groupSwimmers(
   records: SwimRecord[],
@@ -53,47 +60,74 @@ export function groupSwimmers(
 ): { swimmers: Swimmer[]; warnings: string[] } {
   const alias = new Map(Object.entries(aliases).map(([k, v]) => [cleanName(k).toLowerCase(), cleanName(v)]));
   const skip = new Set(optOut.map((n) => cleanName(n).toLowerCase()));
-
-  const groups = new Map<string, { spellings: Map<string, number>; raw: Set<string>; records: SwimRecord[] }>();
-  for (const r of records) {
+  const nameOf = (r: SwimRecord) => {
     const raw = cleanName(r.swimmer);
-    if (!raw) continue;
-    const name = alias.get(raw.toLowerCase()) ?? raw;
-    const key = name.toLowerCase();
-    if (skip.has(key) || skip.has(raw.toLowerCase())) continue;
+    return alias.get(raw.toLowerCase()) ?? raw;
+  };
+
+  // Name → IDs seen with it, so ID-less records can find their swimmer.
+  const idsByName = new Map<string, Set<string>>();
+  for (const r of records) {
+    if (!r.swimmerId || !nameOf(r)) continue;
+    const k = nameOf(r).toLowerCase();
+    idsByName.set(k, (idsByName.get(k) ?? new Set()).add(r.swimmerId));
+  }
+
+  type Group = { id?: string; names: Set<string>; spellings: Map<string, { n: number; year: number }>; records: SwimRecord[] };
+  const groups = new Map<string, Group>();
+  for (const r of records) {
+    const name = nameOf(r);
+    if (!name) continue;
+    const ids = idsByName.get(name.toLowerCase());
+    const id = r.swimmerId || (ids?.size === 1 ? [...ids][0] : undefined);
+    const key = id ? `id:${id}` : `name:${name.toLowerCase()}`;
     let g = groups.get(key);
-    if (!g) groups.set(key, (g = { spellings: new Map(), raw: new Set(), records: [] }));
-    g.spellings.set(name, (g.spellings.get(name) ?? 0) + 1);
-    g.raw.add(r.swimmer);
+    if (!g) groups.set(key, (g = { id, names: new Set(), spellings: new Map(), records: [] }));
+    const sp = g.spellings.get(name) ?? { n: 0, year: 0 };
+    g.spellings.set(name, { n: sp.n + 1, year: Math.max(sp.year, yearOf(r)) });
+    g.names.add(name.toLowerCase()).add(cleanName(r.swimmer).toLowerCase());
     g.records.push(r);
   }
+
+  const kept = [...groups.values()]
+    .filter((g) => !(g.id && skip.has(g.id.toLowerCase())) && ![...g.names].some((n) => skip.has(n)))
+    .map((g) => ({
+      ...g,
+      name: [...g.spellings].sort(
+        (a, b) => b[1].year - a[1].year || b[1].n - a[1].n || capitals(b[0]) - capitals(a[0])
+      )[0][0],
+      first: Math.min(...g.records.map(yearOf).filter(Boolean), 9999),
+    }))
+    .sort((a, b) => a.first - b.first || (a.id ?? "~").localeCompare(b.id ?? "~") || a.name.localeCompare(b.name));
 
   const warnings: string[] = [];
   const used = new Set<string>();
   const swimmers: Swimmer[] = [];
-  for (const key of [...groups.keys()].sort()) {
-    const g = groups.get(key)!;
-    const name = [...g.spellings].sort((a, b) => b[1] - a[1] || capitals(b[0]) - capitals(a[0]))[0][0];
-    const base = nameSlug(name) || "swimmer";
+  for (const g of kept) {
+    const base = nameSlug(g.name) || "swimmer";
     let slug = base;
+    if (used.has(slug) && g.id) slug = `${base}-${g.id.toLowerCase()}`;
     for (let n = 2; used.has(slug); n++) slug = `${base}-${n}`;
-    if (slug !== base) warnings.push(`swimmer slug collision: "${name}" → /swimmers/${slug}/ (${base} taken)`);
+    if (slug !== base) warnings.push(`swimmer slug collision: "${g.name}" → /swimmers/${slug}/ (${base} taken)`);
     used.add(slug);
-    swimmers.push({ name, slug, rawNames: [...g.raw], records: g.records });
+    swimmers.push({ ...(g.id && { id: g.id }), name: g.name, slug, oldSlugs: [...g.spellings.keys()].map(nameSlug), records: g.records });
   }
+  // Old spellings redirect only when no live page uses that slug.
+  for (const s of swimmers) s.oldSlugs = [...new Set(s.oldSlugs)].filter((o) => o && !used.has(o));
   swimmers.sort((a, b) => a.slug.localeCompare(b.slug));
 
   // "Erin Moro" vs "Erin C Moro": same first + last, middle tokens all single letters.
-  const byInitials = new Map<string, string[]>();
+  // Two different IDs are two different people, so only warn when one side has no ID.
+  const byInitials = new Map<string, Swimmer[]>();
   for (const s of swimmers) {
     const tokens = s.name.toLowerCase().split(" ");
     if (tokens.length < 2 || !tokens.slice(1, -1).every((t) => t.replace(".", "").length === 1)) continue;
     const sig = `${tokens[0]} ${tokens[tokens.length - 1]}`;
-    byInitials.set(sig, [...(byInitials.get(sig) ?? []), s.name]);
+    byInitials.set(sig, [...(byInitials.get(sig) ?? []), s]);
   }
-  for (const names of byInitials.values()) {
-    if (names.length > 1) {
-      warnings.push(`swimmer names differ only by middle initial (not merged): ${names.map((n) => `"${n}"`).join(", ")}`);
+  for (const group of byInitials.values()) {
+    if (new Set(group.map((s) => s.name)).size > 1 && group.some((s) => !s.id)) {
+      warnings.push(`swimmer names differ only by middle initial (not merged): ${group.map((s) => `"${s.name}"`).join(", ")}`);
     }
   }
   return { swimmers, warnings };

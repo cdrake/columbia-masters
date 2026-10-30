@@ -178,9 +178,16 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
           "data/site.json": JSON.stringify(render.siteManifest(tenant)) + "\n",
         };
         if (tenant.swimmers.length) {
-          // Raw records `swimmer` string → page slug, for linking names in the records table.
-          const slugs = Object.fromEntries(tenant.swimmers.flatMap((s) => s.rawNames.map((n) => [n, s.slug])));
+          // USMS ID (or raw `swimmer` string for ID-less records) → page slug, for the records table.
+          const slugs = Object.fromEntries(
+            tenant.swimmers.flatMap((s) => s.records.map((r) => [r.swimmerId || r.swimmer, s.slug]))
+          );
           files["data/swimmers.json"] = JSON.stringify(slugs) + "\n";
+          // Cloudflare Pages redirects: a swimmer's other spellings (name changes) → current page.
+          const redirects = tenant.swimmers.flatMap((s) =>
+            s.oldSlugs.map((o) => `/swimmers/${o}/ /swimmers/${s.slug}/ 301`)
+          );
+          if (redirects.length) files["_redirects"] = redirects.join("\n") + "\n";
         }
         for (const [fileName, source] of Object.entries(files)) {
           this.emitFile({ type: "asset", fileName, source });

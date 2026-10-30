@@ -23,8 +23,12 @@ function md(s: string): string {
 }
 
 let allRecords: TeamRecord[] = [];
-/** Records `swimmer` → /swimmers/<slug>/ (data/swimmers.json; empty without swimmer pages). */
+/** Records `swimmerId` (else `swimmer`) → /swimmers/<slug>/ (data/swimmers.json; empty without swimmer pages). */
 let swimmerSlugs: Record<string, string> = {};
+const swimmerLink = (r: TeamRecord) => {
+  const slug = swimmerSlugs[r.swimmerId || r.swimmer];
+  return slug ? `<a href="/swimmers/${slug}/">${esc(r.swimmer)}</a>` : esc(r.swimmer);
+};
 let sortKey: keyof TeamRecord = "time";
 let sortAsc = true;
 
@@ -213,7 +217,7 @@ function render() {
     .map(
       (r) => `<tr>
       ${teamCol ? `<td>${esc(r.team)}</td>` : ""}<td>${esc(r.event)}</td>
-      <td>${swimmerSlugs[r.swimmer] ? `<a href="/swimmers/${swimmerSlugs[r.swimmer]}/">${esc(r.swimmer)}</a>` : esc(r.swimmer)}</td>
+      <td>${swimmerLink(r)}</td>
       <td class="time">${esc(r.time)}</td>
       <td>${esc(r.ageGroup)}</td>
       <td>${esc(r.course.toUpperCase())}</td>
