@@ -33,6 +33,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException, WebDriverException
+from urllib3.exceptions import ReadTimeoutError
 
 from .scraper import create_driver, parse_top_ten_html, write_records_csv
 
@@ -349,9 +350,21 @@ class UsmsCrawler:
                 last_error = e
                 logger.warning(f"  attempt {attempt}: browser error for {url}: {e}")
                 time.sleep(5 * attempt)
+            except ReadTimeoutError as e:
+                # chromedriver hung (no reply in 120s); a fresh browser is the only way out.
+                last_error = e
+                logger.warning(f"  attempt {attempt}: browser hung on {url}; restarting it")
+                self._restart_driver()
             finally:
                 time.sleep(self.delay)
         raise CrawlBlockedError(f"Gave up on {url}: {last_error}")
+
+    def _restart_driver(self) -> None:
+        try:
+            self.driver.quit()
+        except Exception:
+            pass  # the old session is wedged; abandon it
+        self.driver = create_driver(headless=self.headless)
 
     def _dump_debug(self, label: str) -> None:
         if not self.debug_dir or not self.driver:
