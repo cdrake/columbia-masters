@@ -83,3 +83,14 @@ test("middle-initial pairs with distinct IDs don't warn; opt-out by ID or any na
   assert.deepEqual(groupSwimmers([rec("Old Name", "Q9", "2010"), rec("New Name", "Q9")], {}, ["old name"]).swimmers, []);
   assert.deepEqual(groupSwimmers([rec("Pat Lee", "Q9")], {}, ["q9"]).swimmers, []);
 });
+
+test("an ID alias merges two registrations of one swimmer", () => {
+  const { swimmers, warnings } = groupSwimmers(
+    [rec("Steve Robling", "00110", "2002"), rec("Steve Robling", "01GW4", "2009"), rec("Smith Jones", "AAAAA")],
+    { "00110": "01gw4", Smith: "Bob" }
+  );
+  assert.deepEqual(swimmers.map((s) => [s.slug, s.id, s.records.length]), [
+    ["smith-jones", "AAAAA", 1], ["steve-robling", "01GW4", 2],
+  ]);
+  assert.deepEqual(warnings, []);
+});

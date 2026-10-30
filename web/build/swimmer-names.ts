@@ -47,7 +47,8 @@ const yearOf = (r: SwimRecord) => Number(r.year) || 0;
 /**
  * Group records by swimmer. Records with a USMS ID group by it; records without one join the
  * ID group whose name matches (cleaned, aliased, case-insensitive) when exactly one does,
- * otherwise group by name. The display name is the most recent spelling. Slugs come from the
+ * otherwise group by name. An alias keyed by a USMS ID maps it to another ID (one person,
+ * two registrations). The display name is the most recent spelling. Slugs come from the
  * name; when swimmers share one, the one with the earliest swim keeps it and the others get
  * their ID appended (or -2, -3… without an ID), so established URLs never move. Opted-out
  * swimmers (any of their names, or their ID) get no entry. Warns on slug collisions and on
@@ -60,6 +61,13 @@ export function groupSwimmers(
 ): { swimmers: Swimmer[]; warnings: string[] } {
   const alias = new Map(Object.entries(aliases).map(([k, v]) => [cleanName(k).toLowerCase(), cleanName(v)]));
   const skip = new Set(optOut.map((n) => cleanName(n).toLowerCase()));
+  const ids = new Set(records.map((r) => r.swimmerId?.toUpperCase()).filter(Boolean));
+  const idAlias = new Map(
+    Object.entries(aliases)
+      .filter(([k]) => ids.has(k.trim().toUpperCase()))
+      .map(([k, v]) => [k.trim().toUpperCase(), v.trim().toUpperCase()])
+  );
+  const idOf = (r: SwimRecord) => (r.swimmerId && idAlias.get(r.swimmerId.toUpperCase())) || r.swimmerId;
   const nameOf = (r: SwimRecord) => {
     const raw = cleanName(r.swimmer);
     return alias.get(raw.toLowerCase()) ?? raw;
@@ -68,9 +76,10 @@ export function groupSwimmers(
   // Name → IDs seen with it, so ID-less records can find their swimmer.
   const idsByName = new Map<string, Set<string>>();
   for (const r of records) {
-    if (!r.swimmerId || !nameOf(r)) continue;
+    const id = idOf(r);
+    if (!id || !nameOf(r)) continue;
     const k = nameOf(r).toLowerCase();
-    idsByName.set(k, (idsByName.get(k) ?? new Set()).add(r.swimmerId));
+    idsByName.set(k, (idsByName.get(k) ?? new Set()).add(id));
   }
 
   type Group = { id?: string; names: Set<string>; spellings: Map<string, { n: number; year: number }>; records: SwimRecord[] };
@@ -78,8 +87,8 @@ export function groupSwimmers(
   for (const r of records) {
     const name = nameOf(r);
     if (!name) continue;
-    const ids = idsByName.get(name.toLowerCase());
-    const id = r.swimmerId || (ids?.size === 1 ? [...ids][0] : undefined);
+    const named = idsByName.get(name.toLowerCase());
+    const id = idOf(r) || (named?.size === 1 ? [...named][0] : undefined);
     const key = id ? `id:${id}` : `name:${name.toLowerCase()}`;
     let g = groups.get(key);
     if (!g) groups.set(key, (g = { id, names: new Set(), spellings: new Map(), records: [] }));

@@ -53,7 +53,7 @@ export interface TenantConfig {
   swimmerPages?: boolean;
   /** Swimmer names that get no page (case/whitespace-insensitive). */
   swimmerOptOut?: string[];
-  /** Variant swimmer name → canonical name, merged onto one page. */
+  /** Variant swimmer name → canonical name (or USMS ID → ID), merged onto one page. */
   swimmerAliases?: Record<string, string>;
 }
 
@@ -179,7 +179,7 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
     config.swimmerAliases === undefined ||
       (typeof config.swimmerAliases === "object" && !Array.isArray(config.swimmerAliases) &&
         Object.values(config.swimmerAliases).every((n) => typeof n === "string" && n.trim())),
-    `tenant.json swimmerAliases must map variant name → canonical name`
+    `tenant.json swimmerAliases must map variant name → canonical name (or ID → ID)`
   );
   // "faq" is an optional sheet tab — tenants that haven't added it yet simply omit the gid.
 
