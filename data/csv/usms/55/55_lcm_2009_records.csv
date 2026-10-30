@@ -1,446 +1,446 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-BMST,50 M Freestyle,LCM,W,25-29,33.84,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,W,25-29,34.30,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Freestyle,LCM,W,25-29,45.31,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3
-BMST,100 M Freestyle,LCM,W,25-29,1:18.51,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,W,25-29,1:18.76,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Freestyle,LCM,W,25-29,1:42.48,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3
-BMST,200 M Freestyle,LCM,W,25-29,3:03.57,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,W,25-29,3:39.00,Stacy B Gartner,,Team Greenville Masters Invitational,2009,2
-BMST,400 M Freestyle,LCM,W,25-29,6:20.91,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,W,25-29,13:26.38,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,25-29,40.89,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,25-29,59.37,Stacy B Gartner,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Backstroke,LCM,W,25-29,1:28.86,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,W,25-29,1:40.31,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Backstroke,LCM,W,25-29,2:17.13,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Breaststroke,LCM,W,25-29,42.56,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,W,25-29,46.69,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Breaststroke,LCM,W,25-29,1:03.28,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3
-BMST,100 M Breaststroke,LCM,W,25-29,1:34.09,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,W,25-29,1:41.87,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Breaststroke,LCM,W,25-29,2:06.99,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3
-BMST,200 M Breaststroke,LCM,W,25-29,3:33.87,Susan M Markham,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,W,25-29,3:40.91,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Butterfly,LCM,W,25-29,37.27,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,W,25-29,41.40,Susan M Markham,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Butterfly,LCM,W,25-29,1:31.94,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,W,25-29,3:17.35,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,W,40-44,36.00,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,W,40-44,1:23.75,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,W,40-44,3:08.06,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,W,40-44,6:43.35,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,W,40-44,14:10.74,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,40-44,45.35,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,W,40-44,1:40.34,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,W,40-44,47.01,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,W,40-44,1:45.49,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,W,40-44,47.90,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,W,45-49,35.77,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,W,45-49,1:21.91,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,45-49,42.22,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,45-49,58.21,Eve Fleming,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Backstroke,LCM,W,45-49,1:30.89,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,W,45-49,2:11.13,Eve Fleming,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Backstroke,LCM,W,45-49,3:34.27,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,W,45-49,4:52.40,Eve Fleming,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Breaststroke,LCM,W,45-49,50.22,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,W,45-49,42.69,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,W,45-49,1:02.34,Eve Fleming,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Butterfly,LCM,W,45-49,2:28.08,Eve Fleming,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,W,45-49,3:25.13,Brooke A Dean,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,W,45-49,4:33.96,Eve Fleming,,Team Greenville Masters Invitational,2009,2
-BMST,400 M Individual Medley,LCM,W,45-49,10:09.26,Eve Fleming,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,W,50-54,33.89,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,W,50-54,1:18.30,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,W,50-54,1:33.04,Viki Hill,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Freestyle,LCM,W,50-54,1:37.68,Jane Frederick,,Team Greenville Masters Invitational,2009,3
-BMST,200 M Freestyle,LCM,W,50-54,3:00.69,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,W,50-54,3:40.72,Jane Frederick,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Freestyle,LCM,W,50-54,3:41.55,Viki Hill,,Team Greenville Masters Invitational,2009,3
-BMST,400 M Freestyle,LCM,W,50-54,6:24.73,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,W,50-54,7:47.34,Viki Hill,,Team Greenville Masters Invitational,2009,2
-BMST,400 M Freestyle,LCM,W,50-54,8:02.55,Jane Frederick,,Team Greenville Masters Invitational,2009,3
-BMST,800 M Freestyle,LCM,W,50-54,15:29.79,Viki Hill,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,50-54,42.17,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,W,50-54,1:33.21,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,W,50-54,2:04.41,Jane Frederick,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Backstroke,LCM,W,50-54,2:07.36,Viki Hill,,Team Greenville Masters Invitational,2009,3
-BMST,200 M Backstroke,LCM,W,50-54,3:24.82,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,W,50-54,4:15.25,Jane Frederick,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Backstroke,LCM,W,50-54,4:24.67,Viki Hill,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Breaststroke,LCM,W,50-54,54.45,Jane Frederick,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,W,50-54,55.67,Donna Altman,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Breaststroke,LCM,W,50-54,57.73,Viki Hill,,Team Greenville Masters Invitational,2009,3
-BMST,100 M Breaststroke,LCM,W,50-54,1:58.65,Jane Frederick,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,W,50-54,2:01.96,Viki Hill,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Breaststroke,LCM,W,50-54,4:28.28,Viki Hill,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,W,50-54,4:38.21,Donna Altman,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Butterfly,LCM,W,50-54,39.39,Donna Altman,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Butterfly,LCM,W,50-54,4:45.34,Jane Frederick,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,W,50-54,4:00.87,Jane Frederick,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Individual Medley,LCM,W,50-54,8:39.34,Jane Frederick,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,W,55-59,4:17.24,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,W,55-59,8:59.12,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,W,55-59,18:27.34,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,W,55-59,57.51,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,W,55-59,2:14.69,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,W,55-59,4:45.38,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,W,55-59,59.22,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,W,55-59,2:07.98,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,W,55-59,4:48.97,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,W,55-59,4:43.24,Susan B Thomas,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,30-34,29.85,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,30-34,1:08.04,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,30-34,2:37.69,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,30-34,34.46,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,30-34,1:13.95,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,M,30-34,2:49.49,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,30-34,40.16,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,M,30-34,34.16,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,M,30-34,2:46.19,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Individual Medley,LCM,M,30-34,6:29.43,Ethan M Howell,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,35-39,27.09,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,35-39,1:01.78,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,35-39,2:17.31,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,35-39,4:55.74,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,35-39,10:30.18,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,35-39,32.86,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,35-39,1:09.90,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,M,35-39,2:28.97,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,M,35-39,29.58,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Individual Medley,LCM,M,35-39,5:38.72,Carlton Bruner,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,45-49,35.93,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,45-49,1:22.47,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,45-49,3:10.47,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,45-49,6:58.85,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,45-49,14:25.91,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,45-49,45.17,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,45-49,1:45.41,Donald C White,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,50-54,31.09,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,50-54,1:13.58,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,50-54,2:57.55,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,50-54,6:36.82,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,50-54,14:14.82,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,50-54,42.40,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,50-54,51.86,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Backstroke,LCM,M,50-54,1:34.70,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,M,50-54,4:16.25,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,50-54,43.33,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,50-54,57.42,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Breaststroke,LCM,M,50-54,1:47.66,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,50-54,1:59.68,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Breaststroke,LCM,M,50-54,4:06.87,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,50-54,4:33.37,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Butterfly,LCM,M,50-54,32.54,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Butterfly,LCM,M,50-54,1:52.91,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Butterfly,LCM,M,50-54,3:59.72,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,M,50-54,3:22.84,Robert C Banfield,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Individual Medley,LCM,M,50-54,8:02.19,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,55-59,34.23,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,55-59,41.29,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Freestyle,LCM,M,55-59,1:22.65,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,55-59,1:46.59,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Freestyle,LCM,M,55-59,3:19.00,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,55-59,4:27.76,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,400 M Freestyle,LCM,M,55-59,9:33.41,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,55-59,20:52.84,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,55-59,41.58,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,55-59,1:36.57,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,55-59,2:31.29,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Backstroke,LCM,M,55-59,5:38.18,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,55-59,44.51,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,55-59,1:40.85,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,55-59,3:41.89,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,55-59,5:21.18,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Butterfly,LCM,M,55-59,40.96,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,M,55-59,56.58,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Individual Medley,LCM,M,55-59,3:25.68,John W Harris,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,M,55-59,4:54.70,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Freestyle,LCM,M,60-64,34.37,Jim VanCleve,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,60-64,34.40,David B Jennings,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Freestyle,LCM,M,60-64,35.91,Charles S Graber,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Freestyle,LCM,M,60-64,36.83,Dennis A Glaves,,Team Greenville Masters Invitational,2009,4
-BMST,50 M Freestyle,LCM,M,60-64,43.16,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5
-BMST,50 M Freestyle,LCM,M,60-64,46.71,Michael R Hughes,,Team Greenville Masters Invitational,2009,6
-BMST,100 M Freestyle,LCM,M,60-64,1:20.82,Jim VanCleve,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,60-64,1:21.04,Charles S Graber,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Freestyle,LCM,M,60-64,1:27.05,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3
-BMST,100 M Freestyle,LCM,M,60-64,1:28.85,David B Jennings,,Team Greenville Masters Invitational,2009,4
-BMST,100 M Freestyle,LCM,M,60-64,1:56.00,Wallace C Thomas,,Team Greenville Masters Invitational,2009,5
-BMST,100 M Freestyle,LCM,M,60-64,1:57.90,Daniel B Ahern,,Team Greenville Masters Invitational,2009,6
-BMST,100 M Freestyle,LCM,M,60-64,2:03.41,Michael R Hughes,,Team Greenville Masters Invitational,2009,7
-BMST,200 M Freestyle,LCM,M,60-64,3:04.37,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,60-64,3:14.04,Jim VanCleve,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Freestyle,LCM,M,60-64,3:24.76,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3
-BMST,200 M Freestyle,LCM,M,60-64,3:36.41,David B Jennings,,Team Greenville Masters Invitational,2009,4
-BMST,200 M Freestyle,LCM,M,60-64,4:16.71,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5
-BMST,200 M Freestyle,LCM,M,60-64,4:32.55,Wallace C Thomas,,Team Greenville Masters Invitational,2009,6
-BMST,200 M Freestyle,LCM,M,60-64,4:48.29,Michael R Hughes,,Team Greenville Masters Invitational,2009,7
-BMST,400 M Freestyle,LCM,M,60-64,6:38.19,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,60-64,8:04.40,Dennis A Glaves,,Team Greenville Masters Invitational,2009,2
-BMST,400 M Freestyle,LCM,M,60-64,9:33.29,Daniel B Ahern,,Team Greenville Masters Invitational,2009,3
-BMST,400 M Freestyle,LCM,M,60-64,9:37.18,Wallace C Thomas,,Team Greenville Masters Invitational,2009,4
-BMST,800 M Freestyle,LCM,M,60-64,13:48.68,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,60-64,19:15.91,Wallace C Thomas,,Team Greenville Masters Invitational,2009,2
-BMST,800 M Freestyle,LCM,M,60-64,19:41.73,Daniel B Ahern,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Backstroke,LCM,M,60-64,47.32,David B Jennings,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,60-64,49.30,Jim VanCleve,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Backstroke,LCM,M,60-64,55.14,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Backstroke,LCM,M,60-64,1:01.85,Michael R Hughes,,Team Greenville Masters Invitational,2009,4
-BMST,50 M Backstroke,LCM,M,60-64,1:08.02,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5
-BMST,100 M Backstroke,LCM,M,60-64,1:47.23,David B Jennings,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,60-64,1:49.17,Jim VanCleve,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Backstroke,LCM,M,60-64,2:02.98,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3
-BMST,100 M Backstroke,LCM,M,60-64,2:23.24,Michael R Hughes,,Team Greenville Masters Invitational,2009,4
-BMST,100 M Backstroke,LCM,M,60-64,2:41.76,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5
-BMST,100 M Backstroke,LCM,M,60-64,2:43.25,Wallace C Thomas,,Team Greenville Masters Invitational,2009,6
-BMST,200 M Backstroke,LCM,M,60-64,3:51.42,Jim VanCleve,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,M,60-64,3:52.47,David B Jennings,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Backstroke,LCM,M,60-64,5:11.80,Michael R Hughes,,Team Greenville Masters Invitational,2009,3
-BMST,200 M Backstroke,LCM,M,60-64,5:59.68,Wallace C Thomas,,Team Greenville Masters Invitational,2009,4
-BMST,50 M Breaststroke,LCM,M,60-64,45.19,David B Jennings,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,60-64,45.50,Jim VanCleve,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Breaststroke,LCM,M,60-64,1:03.23,Michael R Hughes,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Breaststroke,LCM,M,60-64,1:20.62,Wallace C Thomas,,Team Greenville Masters Invitational,2009,4
-BMST,100 M Breaststroke,LCM,M,60-64,1:41.63,Jim VanCleve,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,60-64,1:46.17,David B Jennings,,Team Greenville Masters Invitational,2009,2
-BMST,100 M Breaststroke,LCM,M,60-64,2:28.10,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3
-BMST,100 M Breaststroke,LCM,M,60-64,2:34.79,Michael R Hughes,,Team Greenville Masters Invitational,2009,4
-BMST,100 M Breaststroke,LCM,M,60-64,2:59.90,Wallace C Thomas,,Team Greenville Masters Invitational,2009,5
-BMST,200 M Breaststroke,LCM,M,60-64,3:54.51,Jim VanCleve,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,60-64,3:59.33,David B Jennings,,Team Greenville Masters Invitational,2009,2
-BMST,200 M Breaststroke,LCM,M,60-64,6:16.52,Wallace C Thomas,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Butterfly,LCM,M,60-64,43.39,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,M,60-64,46.92,Jim VanCleve,,Team Greenville Masters Invitational,2009,2
-BMST,50 M Butterfly,LCM,M,60-64,48.54,David B Jennings,,Team Greenville Masters Invitational,2009,3
-BMST,50 M Butterfly,LCM,M,60-64,1:05.55,Daniel B Ahern,,Team Greenville Masters Invitational,2009,4
-BMST,100 M Butterfly,LCM,M,60-64,1:55.06,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Butterfly,LCM,M,60-64,4:14.58,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,M,60-64,3:38.30,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,M,60-64,6:02.04,Wallace C Thomas,,Team Greenville Masters Invitational,2009,2
-BMST,400 M Individual Medley,LCM,M,60-64,8:14.22,Charles S Graber,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,65-69,41.22,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,65-69,3:39.83,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,65-69,45.43,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,65-69,1:40.58,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,M,65-69,3:47.85,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,65-69,52.22,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,65-69,1:51.54,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,65-69,3:54.12,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Butterfly,LCM,M,65-69,46.46,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Individual Medley,LCM,M,65-69,3:45.18,Carlos Black,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,70-74,39.11,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,70-74,3:32.87,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,70-74,7:10.93,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,70-74,15:08.84,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,70-74,48.26,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,70-74,1:48.50,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Backstroke,LCM,M,70-74,3:58.95,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,70-74,51.93,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,70-74,1:56.19,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,70-74,4:17.46,Pete Palmer,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,75-79,40.61,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,75-79,1:36.12,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,75-79,3:50.65,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,75-79,8:36.01,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,75-79,18:36.31,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Backstroke,LCM,M,75-79,54.45,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,75-79,2:04.67,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,75-79,56.53,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,75-79,2:16.27,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Breaststroke,LCM,M,75-79,5:23.47,John W Youmans,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Freestyle,LCM,M,80-84,1:05.02,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Freestyle,LCM,M,80-84,2:22.48,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,200 M Freestyle,LCM,M,80-84,5:28.39,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,400 M Freestyle,LCM,M,80-84,11:35.00,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,800 M Freestyle,LCM,M,80-84,25:38.38,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,1500 M Freestyle,LCM,M,80-84,51:09.95,Philip H Neubig,,2009 USMS National Long Course Championships,2009,1
-BMST,50 M Backstroke,LCM,M,80-84,1:40.94,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Backstroke,LCM,M,80-84,3:44.93,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,50 M Breaststroke,LCM,M,80-84,1:56.81,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-BMST,100 M Breaststroke,LCM,M,80-84,4:20.41,Philip H Neubig,,Team Greenville Masters Invitational,2009,1
-COLM,100 M Freestyle,LCM,M,25-29,1:18.21,William Poiletman,,2009 USMS National Long Course Championships,2009,1
-COLM,50 M Breaststroke,LCM,M,25-29,42.31,William Poiletman,,2009 USMS National Long Course Championships,2009,1
-COLM,200 M Breaststroke,LCM,M,25-29,3:29.64,William Poiletman,,2009 USMS National Long Course Championships,2009,1
-COLM,100 M Freestyle,LCM,M,65-69,1:07.09,Robert M Poiletman,,2009 USMS National Long Course Championships,2009,1
-COLM,800 M Freestyle,LCM,M,65-69,11:50.10,Robert M Poiletman,,Team Greenville Masters Invitational,2009,1
-COLM,200 M Backstroke,LCM,M,65-69,3:16.66,Robert M Poiletman,,Classic City Masters LCM Meet,2009,1
-COLM,50 M Butterfly,LCM,M,65-69,31.63,Robert M Poiletman,,Team Greenville Masters Invitational,2009,1
-COLM,100 M Butterfly,LCM,M,65-69,1:09.60,Robert M Poiletman,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-COLM,200 M Butterfly,LCM,M,65-69,2:50.18,Robert M Poiletman,,Classic City Masters LCM Meet,2009,1
-GMSC,50 M Freestyle,LCM,W,18-24,28.34,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1
-GMSC,100 M Freestyle,LCM,W,18-24,1:02.71,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1
-GMSC,200 M Freestyle,LCM,W,18-24,2:25.38,Sherah Aiken,,Team Greenville Masters Invitational,2009,1
-GMSC,400 M Freestyle,LCM,W,18-24,4:38.84,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1
-GMSC,50 M Backstroke,LCM,W,18-24,34.96,Sherah Aiken,,Team Greenville Masters Invitational,2009,1
-GMSC,50 M Breaststroke,LCM,W,18-24,34.46,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1
-GMSC,200 M Freestyle,LCM,M,50-54,3:01.38,John Rose,,Team Greenville Masters Invitational,2009,1
-GMSC,50 M Breaststroke,LCM,M,50-54,46.01,John Rose,,Team Greenville Masters Invitational,2009,1
-GMSC,100 M Breaststroke,LCM,M,50-54,1:42.31,John Rose,,Team Greenville Masters Invitational,2009,1
-GMSC,50 M Butterfly,LCM,M,50-54,39.08,John Rose,,Team Greenville Masters Invitational,2009,1
-GMSC,200 M Individual Medley,LCM,M,50-54,3:18.73,John Rose,,Team Greenville Masters Invitational,2009,1
-GS,400 M Freestyle,LCM,W,45-49,6:03.09,Leslie Scott,,Team Greenville Masters Invitational,2009,1
-GS,50 M Breaststroke,LCM,W,45-49,43.91,Leslie Scott,,2009 USMS National Long Course Championships,2009,1
-GS,100 M Breaststroke,LCM,W,45-49,1:36.60,Leslie Scott,,2009 USMS National Long Course Championships,2009,1
-GS,200 M Individual Medley,LCM,W,45-49,3:14.53,Leslie Scott,,Team Greenville Masters Invitational,2009,1
-GS,400 M Individual Medley,LCM,W,45-49,6:39.69,Leslie Scott,,2009 USMS National Long Course Championships,2009,1
-GSMS,50 M Freestyle,LCM,W,45-49,29.62,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1
-GSMS,100 M Freestyle,LCM,W,45-49,1:03.97,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1
-GSMS,200 M Freestyle,LCM,W,45-49,2:19.14,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1
-GSMS,400 M Freestyle,LCM,W,45-49,4:53.66,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1
-GSMS,800 M Freestyle,LCM,W,45-49,10:00.40,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1
-GSMS,100 M Backstroke,LCM,W,45-49,1:26.68,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1
-GSMS,50 M Breaststroke,LCM,W,45-49,42.69,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1
-GSMS,50 M Butterfly,LCM,W,45-49,34.97,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1
-GSMS,100 M Butterfly,LCM,W,45-49,1:18.69,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1
-GSMS,50 M Freestyle,LCM,M,50-54,31.52,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,100 M Freestyle,LCM,M,50-54,1:13.16,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,200 M Freestyle,LCM,M,50-54,2:47.83,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,400 M Freestyle,LCM,M,50-54,6:31.10,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,100 M Backstroke,LCM,M,50-54,1:35.98,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,50 M Butterfly,LCM,M,50-54,40.10,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,100 M Butterfly,LCM,M,50-54,1:48.78,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,200 M Individual Medley,LCM,M,50-54,3:33.58,Edward W King,,Team Greenville Masters Invitational,2009,1
-GSMS,400 M Individual Medley,LCM,M,50-54,7:45.36,Edward W King,,Team Greenville Masters Invitational,2009,1
-LCM,100 M Freestyle,LCM,W,25-29,1:20.34,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Freestyle,LCM,W,25-29,3:00.20,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Butterfly,LCM,W,25-29,41.06,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Individual Medley,LCM,W,25-29,3:21.60,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Freestyle,LCM,W,60-64,1:00.82,Jane H Ludick,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Backstroke,LCM,W,60-64,1:01.74,Jane H Ludick,,Classic City Masters LCM Meet,2009,1
-LCM,100 M Backstroke,LCM,W,60-64,2:15.93,Jane H Ludick,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Backstroke,LCM,W,60-64,5:03.87,Jane H Ludick,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Breaststroke,LCM,W,60-64,1:14.64,Jane H Ludick,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Butterfly,LCM,W,60-64,1:12.56,Jane H Ludick,,Classic City Masters LCM Meet,2009,1
-LCM,200 M Individual Medley,LCM,W,60-64,5:35.95,Jane H Ludick,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Freestyle,LCM,W,70-74,48.17,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,100 M Freestyle,LCM,W,70-74,1:48.43,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Freestyle,LCM,W,70-74,4:04.66,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,800 M Freestyle,LCM,W,70-74,17:54.15,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Backstroke,LCM,W,70-74,4:33.70,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Butterfly,LCM,W,70-74,1:08.60,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,100 M Butterfly,LCM,W,70-74,2:39.29,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Individual Medley,LCM,W,70-74,4:44.89,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,400 M Individual Medley,LCM,W,70-74,10:53.54,Nana Whalen,,Team Greenville Masters Invitational,2009,1
-LCM,100 M Freestyle,LCM,W,75-79,2:17.49,Barbara Eisele,,Classic City Masters LCM Meet,2009,1
-LCM,400 M Freestyle,LCM,W,75-79,10:10.74,Barbara Eisele,,Classic City Masters LCM Meet,2009,1
-LCM,100 M Backstroke,LCM,W,75-79,2:42.04,Barbara Eisele,,Classic City Masters LCM Meet,2009,1
-LCM,100 M Butterfly,LCM,W,75-79,3:16.35,Barbara Eisele,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-LCM,200 M Individual Medley,LCM,W,75-79,6:01.11,Barbara Eisele,,Classic City Masters LCM Meet,2009,1
-LCM,100 M Freestyle,LCM,M,25-29,1:03.19,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,400 M Freestyle,LCM,M,25-29,5:04.00,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,800 M Freestyle,LCM,M,25-29,10:32.71,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Backstroke,LCM,M,25-29,36.26,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Breaststroke,LCM,M,25-29,34.45,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,100 M Breaststroke,LCM,M,25-29,1:15.00,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,200 M Breaststroke,LCM,M,25-29,2:49.48,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Butterfly,LCM,M,25-29,32.44,John Curwen,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Freestyle,LCM,M,75-79,44.42,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1
-LCM,100 M Freestyle,LCM,M,75-79,1:47.43,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1
-LCM,400 M Freestyle,LCM,M,75-79,9:49.53,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1
-LCM,50 M Butterfly,LCM,M,75-79,1:00.45,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1
-SMRT,50 M Backstroke,LCM,M,60-64,32.12,Hugh Wilder,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-SMRT,100 M Backstroke,LCM,M,60-64,1:11.25,Hugh Wilder,,Classic City Masters LCM Meet,2009,1
-SMRT,200 M Backstroke,LCM,M,60-64,2:46.39,Hugh Wilder,,Classic City Masters LCM Meet,2009,1
-TGM,50 M Freestyle,LCM,W,45-49,42.48,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Freestyle,LCM,W,45-49,1:41.74,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Backstroke,LCM,W,45-49,53.29,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,W,45-49,1:57.90,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Breaststroke,LCM,W,45-49,56.36,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Breaststroke,LCM,W,45-49,2:01.42,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Butterfly,LCM,W,45-49,52.75,Leah A Aragon,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Freestyle,LCM,W,50-54,48.94,Cile K Williamson,,Classic City Masters LCM Meet,2009,1
-TGM,100 M Freestyle,LCM,W,50-54,1:51.82,Cile K Williamson,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-TGM,200 M Freestyle,LCM,W,50-54,2:47.73,Kelly R Gillig,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Freestyle,LCM,W,50-54,3:09.00,Deborah G Gambon,,Team Greenville Masters Invitational,2009,2
-TGM,200 M Freestyle,LCM,W,50-54,4:05.71,Cile K Williamson,,Team Greenville Masters Invitational,2009,3
-TGM,400 M Freestyle,LCM,W,50-54,8:35.13,Cile K Williamson,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Backstroke,LCM,W,50-54,1:05.07,Cile K Williamson,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,W,50-54,2:21.53,Cile K Williamson,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Breaststroke,LCM,W,50-54,44.94,Deborah G Gambon,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Breaststroke,LCM,W,50-54,48.08,Kelly R Gillig,,Team Greenville Masters Invitational,2009,2
-TGM,50 M Breaststroke,LCM,W,50-54,1:00.69,Cile K Williamson,,Team Greenville Masters Invitational,2009,3
-TGM,100 M Breaststroke,LCM,W,50-54,2:22.24,Cile K Williamson,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Breaststroke,LCM,W,50-54,3:50.53,Deborah G Gambon,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Butterfly,LCM,W,50-54,36.77,Kelly R Gillig,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Freestyle,LCM,W,55-59,47.72,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,800 M Freestyle,LCM,W,55-59,16:41.24,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Backstroke,LCM,W,55-59,1:02.06,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,W,55-59,2:09.32,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Breaststroke,LCM,W,55-59,55.16,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Breaststroke,LCM,W,55-59,2:05.19,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Breaststroke,LCM,W,55-59,4:31.48,Barbara A Barber,,Team Greenville Masters Invitational,2009,1
-TGM,400 M Freestyle,LCM,W,65-69,7:00.70,Pamela W Wingerter,,Classic City Masters LCM Meet,2009,1
-TGM,100 M Backstroke,LCM,W,65-69,1:45.99,Pamela W Wingerter,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-TGM,50 M Breaststroke,LCM,W,65-69,50.85,Pamela W Wingerter,,Classic City Masters LCM Meet,2009,1
-TGM,100 M Breaststroke,LCM,W,65-69,1:50.52,Pamela W Wingerter,,Classic City Masters LCM Meet,2009,1
-TGM,50 M Butterfly,LCM,W,65-69,49.05,Pamela W Wingerter,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-TGM,50 M Freestyle,LCM,M,35-39,31.04,Stan C Stuart,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Freestyle,LCM,M,40-44,29.48,Steven J Stuart,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Freestyle,LCM,M,40-44,29.50,James H Tindal,,Team Greenville Masters Invitational,2009,2
-TGM,50 M Freestyle,LCM,M,40-44,30.23,Thomas E Dudley,,Team Greenville Masters Invitational,2009,3
-TGM,50 M Freestyle,LCM,M,40-44,31.52,William G Tervo,,Team Greenville Masters Invitational,2009,4
-TGM,100 M Freestyle,LCM,M,40-44,1:07.48,James H Tindal,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Freestyle,LCM,M,40-44,2:35.54,James H Tindal,,Team Greenville Masters Invitational,2009,1
-TGM,800 M Freestyle,LCM,M,40-44,11:21.27,Steven J Stuart,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Backstroke,LCM,M,40-44,35.85,James H Tindal,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,M,40-44,1:11.40,Rick Gantt,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,M,40-44,1:19.68,James H Tindal,,Team Greenville Masters Invitational,2009,2
-TGM,200 M Backstroke,LCM,M,40-44,2:37.45,Rick Gantt,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Backstroke,LCM,M,40-44,3:07.82,Thomas E Dudley,,Team Greenville Masters Invitational,2009,2
-TGM,50 M Butterfly,LCM,M,40-44,31.35,Thomas E Dudley,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Butterfly,LCM,M,40-44,35.20,William G Tervo,,Classic City Masters LCM Meet,2009,2
-TGM,100 M Butterfly,LCM,M,40-44,1:08.41,Rick Gantt,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Butterfly,LCM,M,40-44,1:37.73,William G Tervo,,Team Greenville Masters Invitational,2009,2
-TGM,200 M Butterfly,LCM,M,40-44,3:12.28,Steven J Stuart,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Freestyle,LCM,M,45-49,29.54,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Freestyle,LCM,M,45-49,1:09.91,Roy E Dessloch,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-TGM,200 M Freestyle,LCM,M,45-49,2:42.53,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Backstroke,LCM,M,45-49,34.71,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,M,45-49,1:18.90,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Backstroke,LCM,M,45-49,2:58.31,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1
-TGM,50 M Breaststroke,LCM,M,45-49,39.41,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Breaststroke,LCM,M,45-49,1:33.85,Roy E Dessloch,,Classic City Masters LCM Meet,2009,1
-TGM,200 M Freestyle,LCM,M,50-54,3:31.06,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1
-TGM,800 M Freestyle,LCM,M,50-54,16:30.76,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1
-TGM,100 M Backstroke,LCM,M,50-54,1:58.67,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1
-TGM,200 M Breaststroke,LCM,M,50-54,4:11.05,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1
-TGM,400 M Individual Medley,LCM,M,50-54,9:01.38,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Freestyle,LCM,W,45-49,44.56,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,100 M Freestyle,LCM,W,45-49,1:41.88,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Freestyle,LCM,W,45-49,2:43.55,Cheryl M Reinke,,Cleveland State University LCM,2009,1
-UNAT,200 M Freestyle,LCM,W,45-49,3:44.84,Denise L Ross,,Team Greenville Masters Invitational,2009,2
-UNAT,400 M Freestyle,LCM,W,45-49,5:39.85,Cheryl M Reinke,,Cleveland State University LCM,2009,1
-UNAT,800 M Freestyle,LCM,W,45-49,11:37.24,Cheryl M Reinke,,Cleveland State University LCM,2009,1
-UNAT,800 M Freestyle,LCM,W,45-49,15:58.20,Denise L Ross,,Team Greenville Masters Invitational,2009,2
-UNAT,1500 M Freestyle,LCM,W,45-49,22:01.14,Cheryl M Reinke,,Cleveland State University LCM,2009,1
-UNAT,50 M Backstroke,LCM,W,45-49,56.60,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,100 M Backstroke,LCM,W,45-49,2:03.48,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Backstroke,LCM,W,45-49,4:14.22,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Breaststroke,LCM,W,45-49,1:00.60,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,100 M Breaststroke,LCM,W,45-49,2:03.98,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Breaststroke,LCM,W,45-49,4:19.32,Denise L Ross,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Freestyle,LCM,M,35-39,28.97,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,100 M Freestyle,LCM,M,35-39,1:05.65,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Freestyle,LCM,M,35-39,2:24.89,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Backstroke,LCM,M,35-39,32.72,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,100 M Backstroke,LCM,M,35-39,1:09.56,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Backstroke,LCM,M,35-39,2:42.85,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Butterfly,LCM,M,35-39,45.29,Paul J Reilly,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Freestyle,LCM,M,45-49,32.95,David A Ericson,,Classic City Masters LCM Meet,2009,1
-UNAT,100 M Freestyle,LCM,M,45-49,1:19.25,David A Ericson,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Breaststroke,LCM,M,45-49,47.13,David A Ericson,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Butterfly,LCM,M,45-49,38.89,David A Ericson,,Team Greenville Masters Invitational,2009,1
-UNAT,400 M Freestyle,LCM,M,60-64,6:33.41,Steven M Conover,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Backstroke,LCM,M,60-64,3:58.33,Steven M Conover,,Classic City Masters LCM Meet,2009,1
-UNAT,50 M Breaststroke,LCM,M,60-64,57.94,Steven M Conover,,Classic City (Georgia Masters) LCM @ UGA,2009,1
-UNAT,100 M Breaststroke,LCM,M,60-64,2:03.87,Steven M Conover,,Classic City Masters LCM Meet,2009,1
-UNAT,50 M Butterfly,LCM,M,60-64,46.79,Steven M Conover,,Classic City Masters LCM Meet,2009,1
-UNAT,100 M Butterfly,LCM,M,60-64,1:45.92,Steven M Conover,,Team Greenville Masters Invitational,2009,1
-UNAT,200 M Butterfly,LCM,M,60-64,3:49.11,Steven M Conover,,Classic City Masters LCM Meet,2009,1
-UNAT,200 M Individual Medley,LCM,M,60-64,3:44.88,Steven M Conover,,Team Greenville Masters Invitational,2009,1
-UNAT,400 M Individual Medley,LCM,M,60-64,7:59.90,Steven M Conover,,Team Greenville Masters Invitational,2009,1
-UNAT,50 M Freestyle,LCM,M,70-74,30.51,David J Painter,,2009 USMS National Long Course Championships,2009,1
-UNAT,50 M Backstroke,LCM,M,70-74,40.39,David J Painter,,2009 USMS National Long Course Championships,2009,1
-UNAT,200 M Individual Medley,LCM,M,70-74,3:20.15,David J Painter,,2009 USMS National Long Course Championships,2009,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+BMST,50 M Freestyle,LCM,W,25-29,33.84,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,50 M Freestyle,LCM,W,25-29,34.30,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2,060PF
+BMST,50 M Freestyle,LCM,W,25-29,45.31,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3,068HF
+BMST,100 M Freestyle,LCM,W,25-29,1:18.51,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,100 M Freestyle,LCM,W,25-29,1:18.76,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2,060PF
+BMST,100 M Freestyle,LCM,W,25-29,1:42.48,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3,068HF
+BMST,200 M Freestyle,LCM,W,25-29,3:03.57,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1,060PF
+BMST,200 M Freestyle,LCM,W,25-29,3:39.00,Stacy B Gartner,,Team Greenville Masters Invitational,2009,2,068HF
+BMST,400 M Freestyle,LCM,W,25-29,6:20.91,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,800 M Freestyle,LCM,W,25-29,13:26.38,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,50 M Backstroke,LCM,W,25-29,40.89,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,50 M Backstroke,LCM,W,25-29,59.37,Stacy B Gartner,,Team Greenville Masters Invitational,2009,2,068HF
+BMST,100 M Backstroke,LCM,W,25-29,1:28.86,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,100 M Backstroke,LCM,W,25-29,1:40.31,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2,060PF
+BMST,100 M Backstroke,LCM,W,25-29,2:17.13,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3,068HF
+BMST,50 M Breaststroke,LCM,W,25-29,42.56,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,50 M Breaststroke,LCM,W,25-29,46.69,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2,060PF
+BMST,50 M Breaststroke,LCM,W,25-29,1:03.28,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3,068HF
+BMST,100 M Breaststroke,LCM,W,25-29,1:34.09,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,100 M Breaststroke,LCM,W,25-29,1:41.87,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2,060PF
+BMST,100 M Breaststroke,LCM,W,25-29,2:06.99,Stacy B Gartner,,Team Greenville Masters Invitational,2009,3,068HF
+BMST,200 M Breaststroke,LCM,W,25-29,3:33.87,Susan M Markham,,Team Greenville Masters Invitational,2009,1,01HCH
+BMST,200 M Breaststroke,LCM,W,25-29,3:40.91,Katie M Ticknor,,Team Greenville Masters Invitational,2009,2,060PF
+BMST,50 M Butterfly,LCM,W,25-29,37.27,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1,060PF
+BMST,50 M Butterfly,LCM,W,25-29,41.40,Susan M Markham,,Team Greenville Masters Invitational,2009,2,01HCH
+BMST,100 M Butterfly,LCM,W,25-29,1:31.94,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1,060PF
+BMST,200 M Individual Medley,LCM,W,25-29,3:17.35,Katie M Ticknor,,Team Greenville Masters Invitational,2009,1,060PF
+BMST,50 M Freestyle,LCM,W,40-44,36.00,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,100 M Freestyle,LCM,W,40-44,1:23.75,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,200 M Freestyle,LCM,W,40-44,3:08.06,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,400 M Freestyle,LCM,W,40-44,6:43.35,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,800 M Freestyle,LCM,W,40-44,14:10.74,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,50 M Backstroke,LCM,W,40-44,45.35,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,100 M Backstroke,LCM,W,40-44,1:40.34,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,50 M Breaststroke,LCM,W,40-44,47.01,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,100 M Breaststroke,LCM,W,40-44,1:45.49,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,50 M Butterfly,LCM,W,40-44,47.90,Shannon S Gibson,,Team Greenville Masters Invitational,2009,1,05WRW
+BMST,50 M Freestyle,LCM,W,45-49,35.77,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,100 M Freestyle,LCM,W,45-49,1:21.91,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,50 M Backstroke,LCM,W,45-49,42.22,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,50 M Backstroke,LCM,W,45-49,58.21,Eve Fleming,,Team Greenville Masters Invitational,2009,2,01H55
+BMST,100 M Backstroke,LCM,W,45-49,1:30.89,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,100 M Backstroke,LCM,W,45-49,2:11.13,Eve Fleming,,Team Greenville Masters Invitational,2009,2,01H55
+BMST,200 M Backstroke,LCM,W,45-49,3:34.27,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,200 M Backstroke,LCM,W,45-49,4:52.40,Eve Fleming,,Team Greenville Masters Invitational,2009,2,01H55
+BMST,50 M Breaststroke,LCM,W,45-49,50.22,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,50 M Butterfly,LCM,W,45-49,42.69,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,50 M Butterfly,LCM,W,45-49,1:02.34,Eve Fleming,,Team Greenville Masters Invitational,2009,2,01H55
+BMST,100 M Butterfly,LCM,W,45-49,2:28.08,Eve Fleming,,Team Greenville Masters Invitational,2009,1,01H55
+BMST,200 M Individual Medley,LCM,W,45-49,3:25.13,Brooke A Dean,,Team Greenville Masters Invitational,2009,1,064WV
+BMST,200 M Individual Medley,LCM,W,45-49,4:33.96,Eve Fleming,,Team Greenville Masters Invitational,2009,2,01H55
+BMST,400 M Individual Medley,LCM,W,45-49,10:09.26,Eve Fleming,,Team Greenville Masters Invitational,2009,1,01H55
+BMST,50 M Freestyle,LCM,W,50-54,33.89,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,100 M Freestyle,LCM,W,50-54,1:18.30,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,100 M Freestyle,LCM,W,50-54,1:33.04,Viki Hill,,Team Greenville Masters Invitational,2009,2,01GZ5
+BMST,100 M Freestyle,LCM,W,50-54,1:37.68,Jane Frederick,,Team Greenville Masters Invitational,2009,3,01GYD
+BMST,200 M Freestyle,LCM,W,50-54,3:00.69,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,200 M Freestyle,LCM,W,50-54,3:40.72,Jane Frederick,,Team Greenville Masters Invitational,2009,2,01GYD
+BMST,200 M Freestyle,LCM,W,50-54,3:41.55,Viki Hill,,Team Greenville Masters Invitational,2009,3,01GZ5
+BMST,400 M Freestyle,LCM,W,50-54,6:24.73,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,400 M Freestyle,LCM,W,50-54,7:47.34,Viki Hill,,Team Greenville Masters Invitational,2009,2,01GZ5
+BMST,400 M Freestyle,LCM,W,50-54,8:02.55,Jane Frederick,,Team Greenville Masters Invitational,2009,3,01GYD
+BMST,800 M Freestyle,LCM,W,50-54,15:29.79,Viki Hill,,Team Greenville Masters Invitational,2009,1,01GZ5
+BMST,50 M Backstroke,LCM,W,50-54,42.17,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,100 M Backstroke,LCM,W,50-54,1:33.21,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,100 M Backstroke,LCM,W,50-54,2:04.41,Jane Frederick,,Team Greenville Masters Invitational,2009,2,01GYD
+BMST,100 M Backstroke,LCM,W,50-54,2:07.36,Viki Hill,,Team Greenville Masters Invitational,2009,3,01GZ5
+BMST,200 M Backstroke,LCM,W,50-54,3:24.82,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,200 M Backstroke,LCM,W,50-54,4:15.25,Jane Frederick,,Team Greenville Masters Invitational,2009,2,01GYD
+BMST,200 M Backstroke,LCM,W,50-54,4:24.67,Viki Hill,,Team Greenville Masters Invitational,2009,3,01GZ5
+BMST,50 M Breaststroke,LCM,W,50-54,54.45,Jane Frederick,,Team Greenville Masters Invitational,2009,1,01GYD
+BMST,50 M Breaststroke,LCM,W,50-54,55.67,Donna Altman,,Team Greenville Masters Invitational,2009,2,01GWF
+BMST,50 M Breaststroke,LCM,W,50-54,57.73,Viki Hill,,Team Greenville Masters Invitational,2009,3,01GZ5
+BMST,100 M Breaststroke,LCM,W,50-54,1:58.65,Jane Frederick,,Team Greenville Masters Invitational,2009,1,01GYD
+BMST,100 M Breaststroke,LCM,W,50-54,2:01.96,Viki Hill,,Team Greenville Masters Invitational,2009,2,01GZ5
+BMST,200 M Breaststroke,LCM,W,50-54,4:28.28,Viki Hill,,Team Greenville Masters Invitational,2009,1,01GZ5
+BMST,200 M Breaststroke,LCM,W,50-54,4:38.21,Donna Altman,,Team Greenville Masters Invitational,2009,2,01GWF
+BMST,50 M Butterfly,LCM,W,50-54,39.39,Donna Altman,,Team Greenville Masters Invitational,2009,1,01GWF
+BMST,200 M Butterfly,LCM,W,50-54,4:45.34,Jane Frederick,,Team Greenville Masters Invitational,2009,1,01GYD
+BMST,200 M Individual Medley,LCM,W,50-54,4:00.87,Jane Frederick,,Team Greenville Masters Invitational,2009,1,01GYD
+BMST,400 M Individual Medley,LCM,W,50-54,8:39.34,Jane Frederick,,Team Greenville Masters Invitational,2009,1,01GYD
+BMST,200 M Freestyle,LCM,W,55-59,4:17.24,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,400 M Freestyle,LCM,W,55-59,8:59.12,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,800 M Freestyle,LCM,W,55-59,18:27.34,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,50 M Backstroke,LCM,W,55-59,57.51,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,100 M Backstroke,LCM,W,55-59,2:14.69,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,200 M Backstroke,LCM,W,55-59,4:45.38,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,50 M Breaststroke,LCM,W,55-59,59.22,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,100 M Breaststroke,LCM,W,55-59,2:07.98,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,200 M Breaststroke,LCM,W,55-59,4:48.97,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,200 M Individual Medley,LCM,W,55-59,4:43.24,Susan B Thomas,,Team Greenville Masters Invitational,2009,1,01H8E
+BMST,50 M Freestyle,LCM,M,30-34,29.85,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,100 M Freestyle,LCM,M,30-34,1:08.04,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,200 M Freestyle,LCM,M,30-34,2:37.69,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,50 M Backstroke,LCM,M,30-34,34.46,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,100 M Backstroke,LCM,M,30-34,1:13.95,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,200 M Backstroke,LCM,M,30-34,2:49.49,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,50 M Breaststroke,LCM,M,30-34,40.16,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,50 M Butterfly,LCM,M,30-34,34.16,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,200 M Individual Medley,LCM,M,30-34,2:46.19,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,400 M Individual Medley,LCM,M,30-34,6:29.43,Ethan M Howell,,Team Greenville Masters Invitational,2009,1,03EXT
+BMST,50 M Freestyle,LCM,M,35-39,27.09,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,100 M Freestyle,LCM,M,35-39,1:01.78,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,200 M Freestyle,LCM,M,35-39,2:17.31,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,400 M Freestyle,LCM,M,35-39,4:55.74,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,800 M Freestyle,LCM,M,35-39,10:30.18,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,50 M Backstroke,LCM,M,35-39,32.86,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,100 M Backstroke,LCM,M,35-39,1:09.90,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,200 M Backstroke,LCM,M,35-39,2:28.97,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,50 M Butterfly,LCM,M,35-39,29.58,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,400 M Individual Medley,LCM,M,35-39,5:38.72,Carlton Bruner,,Team Greenville Masters Invitational,2009,1,02EE1
+BMST,50 M Freestyle,LCM,M,45-49,35.93,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,100 M Freestyle,LCM,M,45-49,1:22.47,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,200 M Freestyle,LCM,M,45-49,3:10.47,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,400 M Freestyle,LCM,M,45-49,6:58.85,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,800 M Freestyle,LCM,M,45-49,14:25.91,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,50 M Backstroke,LCM,M,45-49,45.17,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,100 M Backstroke,LCM,M,45-49,1:45.41,Donald C White,,Team Greenville Masters Invitational,2009,1,068HH
+BMST,50 M Freestyle,LCM,M,50-54,31.09,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,100 M Freestyle,LCM,M,50-54,1:13.58,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,200 M Freestyle,LCM,M,50-54,2:57.55,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,400 M Freestyle,LCM,M,50-54,6:36.82,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1,02VS4
+BMST,800 M Freestyle,LCM,M,50-54,14:14.82,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1,02VS4
+BMST,50 M Backstroke,LCM,M,50-54,42.40,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,50 M Backstroke,LCM,M,50-54,51.86,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2,02VS4
+BMST,100 M Backstroke,LCM,M,50-54,1:34.70,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,200 M Backstroke,LCM,M,50-54,4:16.25,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1,02VS4
+BMST,50 M Breaststroke,LCM,M,50-54,43.33,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,50 M Breaststroke,LCM,M,50-54,57.42,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2,02VS4
+BMST,100 M Breaststroke,LCM,M,50-54,1:47.66,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,100 M Breaststroke,LCM,M,50-54,1:59.68,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2,02VS4
+BMST,200 M Breaststroke,LCM,M,50-54,4:06.87,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,200 M Breaststroke,LCM,M,50-54,4:33.37,Nicholas Neubig,,Team Greenville Masters Invitational,2009,2,02VS4
+BMST,50 M Butterfly,LCM,M,50-54,32.54,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,100 M Butterfly,LCM,M,50-54,1:52.91,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1,02VS4
+BMST,200 M Butterfly,LCM,M,50-54,3:59.72,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1,02VS4
+BMST,200 M Individual Medley,LCM,M,50-54,3:22.84,Robert C Banfield,,Team Greenville Masters Invitational,2009,1,01HHT
+BMST,400 M Individual Medley,LCM,M,50-54,8:02.19,Nicholas Neubig,,Team Greenville Masters Invitational,2009,1,02VS4
+BMST,50 M Freestyle,LCM,M,55-59,34.23,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,50 M Freestyle,LCM,M,55-59,41.29,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,100 M Freestyle,LCM,M,55-59,1:22.65,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,100 M Freestyle,LCM,M,55-59,1:46.59,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,200 M Freestyle,LCM,M,55-59,3:19.00,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,200 M Freestyle,LCM,M,55-59,4:27.76,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,400 M Freestyle,LCM,M,55-59,9:33.41,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,1,01GWM
+BMST,800 M Freestyle,LCM,M,55-59,20:52.84,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,1,01GWM
+BMST,50 M Backstroke,LCM,M,55-59,41.58,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,100 M Backstroke,LCM,M,55-59,1:36.57,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,100 M Backstroke,LCM,M,55-59,2:31.29,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,200 M Backstroke,LCM,M,55-59,5:38.18,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,1,01GWM
+BMST,50 M Breaststroke,LCM,M,55-59,44.51,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,100 M Breaststroke,LCM,M,55-59,1:40.85,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,200 M Breaststroke,LCM,M,55-59,3:41.89,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,200 M Breaststroke,LCM,M,55-59,5:21.18,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,50 M Butterfly,LCM,M,55-59,40.96,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,50 M Butterfly,LCM,M,55-59,56.58,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,200 M Individual Medley,LCM,M,55-59,3:25.68,John W Harris,,Team Greenville Masters Invitational,2009,1,01GX5
+BMST,200 M Individual Medley,LCM,M,55-59,4:54.70,Timothy I Andrepont,,Team Greenville Masters Invitational,2009,2,01GWM
+BMST,50 M Freestyle,LCM,M,60-64,34.37,Jim VanCleve,,Team Greenville Masters Invitational,2009,1,01GWH
+BMST,50 M Freestyle,LCM,M,60-64,34.40,David B Jennings,,Team Greenville Masters Invitational,2009,2,01HA8
+BMST,50 M Freestyle,LCM,M,60-64,35.91,Charles S Graber,,Team Greenville Masters Invitational,2009,3,01GYH
+BMST,50 M Freestyle,LCM,M,60-64,36.83,Dennis A Glaves,,Team Greenville Masters Invitational,2009,4,01HA6
+BMST,50 M Freestyle,LCM,M,60-64,43.16,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5,01HJ0
+BMST,50 M Freestyle,LCM,M,60-64,46.71,Michael R Hughes,,Team Greenville Masters Invitational,2009,6,05GU1
+BMST,100 M Freestyle,LCM,M,60-64,1:20.82,Jim VanCleve,,Team Greenville Masters Invitational,2009,1,01GWH
+BMST,100 M Freestyle,LCM,M,60-64,1:21.04,Charles S Graber,,Team Greenville Masters Invitational,2009,2,01GYH
+BMST,100 M Freestyle,LCM,M,60-64,1:27.05,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3,01HA6
+BMST,100 M Freestyle,LCM,M,60-64,1:28.85,David B Jennings,,Team Greenville Masters Invitational,2009,4,01HA8
+BMST,100 M Freestyle,LCM,M,60-64,1:56.00,Wallace C Thomas,,Team Greenville Masters Invitational,2009,5,01GY7
+BMST,100 M Freestyle,LCM,M,60-64,1:57.90,Daniel B Ahern,,Team Greenville Masters Invitational,2009,6,01HJ0
+BMST,100 M Freestyle,LCM,M,60-64,2:03.41,Michael R Hughes,,Team Greenville Masters Invitational,2009,7,05GU1
+BMST,200 M Freestyle,LCM,M,60-64,3:04.37,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,200 M Freestyle,LCM,M,60-64,3:14.04,Jim VanCleve,,Team Greenville Masters Invitational,2009,2,01GWH
+BMST,200 M Freestyle,LCM,M,60-64,3:24.76,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3,01HA6
+BMST,200 M Freestyle,LCM,M,60-64,3:36.41,David B Jennings,,Team Greenville Masters Invitational,2009,4,01HA8
+BMST,200 M Freestyle,LCM,M,60-64,4:16.71,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5,01HJ0
+BMST,200 M Freestyle,LCM,M,60-64,4:32.55,Wallace C Thomas,,Team Greenville Masters Invitational,2009,6,01GY7
+BMST,200 M Freestyle,LCM,M,60-64,4:48.29,Michael R Hughes,,Team Greenville Masters Invitational,2009,7,05GU1
+BMST,400 M Freestyle,LCM,M,60-64,6:38.19,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,400 M Freestyle,LCM,M,60-64,8:04.40,Dennis A Glaves,,Team Greenville Masters Invitational,2009,2,01HA6
+BMST,400 M Freestyle,LCM,M,60-64,9:33.29,Daniel B Ahern,,Team Greenville Masters Invitational,2009,3,01HJ0
+BMST,400 M Freestyle,LCM,M,60-64,9:37.18,Wallace C Thomas,,Team Greenville Masters Invitational,2009,4,01GY7
+BMST,800 M Freestyle,LCM,M,60-64,13:48.68,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,800 M Freestyle,LCM,M,60-64,19:15.91,Wallace C Thomas,,Team Greenville Masters Invitational,2009,2,01GY7
+BMST,800 M Freestyle,LCM,M,60-64,19:41.73,Daniel B Ahern,,Team Greenville Masters Invitational,2009,3,01HJ0
+BMST,50 M Backstroke,LCM,M,60-64,47.32,David B Jennings,,Team Greenville Masters Invitational,2009,1,01HA8
+BMST,50 M Backstroke,LCM,M,60-64,49.30,Jim VanCleve,,Team Greenville Masters Invitational,2009,2,01GWH
+BMST,50 M Backstroke,LCM,M,60-64,55.14,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3,01HA6
+BMST,50 M Backstroke,LCM,M,60-64,1:01.85,Michael R Hughes,,Team Greenville Masters Invitational,2009,4,05GU1
+BMST,50 M Backstroke,LCM,M,60-64,1:08.02,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5,01HJ0
+BMST,100 M Backstroke,LCM,M,60-64,1:47.23,David B Jennings,,Team Greenville Masters Invitational,2009,1,01HA8
+BMST,100 M Backstroke,LCM,M,60-64,1:49.17,Jim VanCleve,,Team Greenville Masters Invitational,2009,2,01GWH
+BMST,100 M Backstroke,LCM,M,60-64,2:02.98,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3,01HA6
+BMST,100 M Backstroke,LCM,M,60-64,2:23.24,Michael R Hughes,,Team Greenville Masters Invitational,2009,4,05GU1
+BMST,100 M Backstroke,LCM,M,60-64,2:41.76,Daniel B Ahern,,Team Greenville Masters Invitational,2009,5,01HJ0
+BMST,100 M Backstroke,LCM,M,60-64,2:43.25,Wallace C Thomas,,Team Greenville Masters Invitational,2009,6,01GY7
+BMST,200 M Backstroke,LCM,M,60-64,3:51.42,Jim VanCleve,,Team Greenville Masters Invitational,2009,1,01GWH
+BMST,200 M Backstroke,LCM,M,60-64,3:52.47,David B Jennings,,Team Greenville Masters Invitational,2009,2,01HA8
+BMST,200 M Backstroke,LCM,M,60-64,5:11.80,Michael R Hughes,,Team Greenville Masters Invitational,2009,3,05GU1
+BMST,200 M Backstroke,LCM,M,60-64,5:59.68,Wallace C Thomas,,Team Greenville Masters Invitational,2009,4,01GY7
+BMST,50 M Breaststroke,LCM,M,60-64,45.19,David B Jennings,,Team Greenville Masters Invitational,2009,1,01HA8
+BMST,50 M Breaststroke,LCM,M,60-64,45.50,Jim VanCleve,,Team Greenville Masters Invitational,2009,2,01GWH
+BMST,50 M Breaststroke,LCM,M,60-64,1:03.23,Michael R Hughes,,Team Greenville Masters Invitational,2009,3,05GU1
+BMST,50 M Breaststroke,LCM,M,60-64,1:20.62,Wallace C Thomas,,Team Greenville Masters Invitational,2009,4,01GY7
+BMST,100 M Breaststroke,LCM,M,60-64,1:41.63,Jim VanCleve,,Team Greenville Masters Invitational,2009,1,01GWH
+BMST,100 M Breaststroke,LCM,M,60-64,1:46.17,David B Jennings,,Team Greenville Masters Invitational,2009,2,01HA8
+BMST,100 M Breaststroke,LCM,M,60-64,2:28.10,Dennis A Glaves,,Team Greenville Masters Invitational,2009,3,01HA6
+BMST,100 M Breaststroke,LCM,M,60-64,2:34.79,Michael R Hughes,,Team Greenville Masters Invitational,2009,4,05GU1
+BMST,100 M Breaststroke,LCM,M,60-64,2:59.90,Wallace C Thomas,,Team Greenville Masters Invitational,2009,5,01GY7
+BMST,200 M Breaststroke,LCM,M,60-64,3:54.51,Jim VanCleve,,Team Greenville Masters Invitational,2009,1,01GWH
+BMST,200 M Breaststroke,LCM,M,60-64,3:59.33,David B Jennings,,Team Greenville Masters Invitational,2009,2,01HA8
+BMST,200 M Breaststroke,LCM,M,60-64,6:16.52,Wallace C Thomas,,Team Greenville Masters Invitational,2009,3,01GY7
+BMST,50 M Butterfly,LCM,M,60-64,43.39,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,50 M Butterfly,LCM,M,60-64,46.92,Jim VanCleve,,Team Greenville Masters Invitational,2009,2,01GWH
+BMST,50 M Butterfly,LCM,M,60-64,48.54,David B Jennings,,Team Greenville Masters Invitational,2009,3,01HA8
+BMST,50 M Butterfly,LCM,M,60-64,1:05.55,Daniel B Ahern,,Team Greenville Masters Invitational,2009,4,01HJ0
+BMST,100 M Butterfly,LCM,M,60-64,1:55.06,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,200 M Butterfly,LCM,M,60-64,4:14.58,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,200 M Individual Medley,LCM,M,60-64,3:38.30,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,200 M Individual Medley,LCM,M,60-64,6:02.04,Wallace C Thomas,,Team Greenville Masters Invitational,2009,2,01GY7
+BMST,400 M Individual Medley,LCM,M,60-64,8:14.22,Charles S Graber,,Team Greenville Masters Invitational,2009,1,01GYH
+BMST,50 M Freestyle,LCM,M,65-69,41.22,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,200 M Freestyle,LCM,M,65-69,3:39.83,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,50 M Backstroke,LCM,M,65-69,45.43,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,100 M Backstroke,LCM,M,65-69,1:40.58,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,200 M Backstroke,LCM,M,65-69,3:47.85,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,50 M Breaststroke,LCM,M,65-69,52.22,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,100 M Breaststroke,LCM,M,65-69,1:51.54,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,200 M Breaststroke,LCM,M,65-69,3:54.12,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,50 M Butterfly,LCM,M,65-69,46.46,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,200 M Individual Medley,LCM,M,65-69,3:45.18,Carlos Black,,Team Greenville Masters Invitational,2009,1,01GY8
+BMST,50 M Freestyle,LCM,M,70-74,39.11,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,200 M Freestyle,LCM,M,70-74,3:32.87,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,400 M Freestyle,LCM,M,70-74,7:10.93,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,800 M Freestyle,LCM,M,70-74,15:08.84,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,50 M Backstroke,LCM,M,70-74,48.26,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,100 M Backstroke,LCM,M,70-74,1:48.50,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,200 M Backstroke,LCM,M,70-74,3:58.95,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,50 M Breaststroke,LCM,M,70-74,51.93,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,100 M Breaststroke,LCM,M,70-74,1:56.19,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,200 M Breaststroke,LCM,M,70-74,4:17.46,Pete Palmer,,Team Greenville Masters Invitational,2009,1,01GXS
+BMST,50 M Freestyle,LCM,M,75-79,40.61,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,100 M Freestyle,LCM,M,75-79,1:36.12,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,200 M Freestyle,LCM,M,75-79,3:50.65,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,400 M Freestyle,LCM,M,75-79,8:36.01,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,800 M Freestyle,LCM,M,75-79,18:36.31,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,50 M Backstroke,LCM,M,75-79,54.45,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,100 M Backstroke,LCM,M,75-79,2:04.67,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,50 M Breaststroke,LCM,M,75-79,56.53,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,100 M Breaststroke,LCM,M,75-79,2:16.27,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,200 M Breaststroke,LCM,M,75-79,5:23.47,John W Youmans,,Team Greenville Masters Invitational,2009,1,01HFP
+BMST,50 M Freestyle,LCM,M,80-84,1:05.02,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,100 M Freestyle,LCM,M,80-84,2:22.48,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,200 M Freestyle,LCM,M,80-84,5:28.39,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,400 M Freestyle,LCM,M,80-84,11:35.00,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,800 M Freestyle,LCM,M,80-84,25:38.38,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,1500 M Freestyle,LCM,M,80-84,51:09.95,Philip H Neubig,,2009 USMS National Long Course Championships,2009,1,01H1N
+BMST,50 M Backstroke,LCM,M,80-84,1:40.94,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,100 M Backstroke,LCM,M,80-84,3:44.93,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,50 M Breaststroke,LCM,M,80-84,1:56.81,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+BMST,100 M Breaststroke,LCM,M,80-84,4:20.41,Philip H Neubig,,Team Greenville Masters Invitational,2009,1,01H1N
+COLM,100 M Freestyle,LCM,M,25-29,1:18.21,William Poiletman,,2009 USMS National Long Course Championships,2009,1,01GXD
+COLM,50 M Breaststroke,LCM,M,25-29,42.31,William Poiletman,,2009 USMS National Long Course Championships,2009,1,01GXD
+COLM,200 M Breaststroke,LCM,M,25-29,3:29.64,William Poiletman,,2009 USMS National Long Course Championships,2009,1,01GXD
+COLM,100 M Freestyle,LCM,M,65-69,1:07.09,Robert M Poiletman,,2009 USMS National Long Course Championships,2009,1,01GXA
+COLM,800 M Freestyle,LCM,M,65-69,11:50.10,Robert M Poiletman,,Team Greenville Masters Invitational,2009,1,01GXA
+COLM,200 M Backstroke,LCM,M,65-69,3:16.66,Robert M Poiletman,,Classic City Masters LCM Meet,2009,1,01GXA
+COLM,50 M Butterfly,LCM,M,65-69,31.63,Robert M Poiletman,,Team Greenville Masters Invitational,2009,1,01GXA
+COLM,100 M Butterfly,LCM,M,65-69,1:09.60,Robert M Poiletman,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GXA
+COLM,200 M Butterfly,LCM,M,65-69,2:50.18,Robert M Poiletman,,Classic City Masters LCM Meet,2009,1,01GXA
+GMSC,50 M Freestyle,LCM,W,18-24,28.34,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1,0612M
+GMSC,100 M Freestyle,LCM,W,18-24,1:02.71,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1,0612M
+GMSC,200 M Freestyle,LCM,W,18-24,2:25.38,Sherah Aiken,,Team Greenville Masters Invitational,2009,1,0612M
+GMSC,400 M Freestyle,LCM,W,18-24,4:38.84,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1,0612M
+GMSC,50 M Backstroke,LCM,W,18-24,34.96,Sherah Aiken,,Team Greenville Masters Invitational,2009,1,0612M
+GMSC,50 M Breaststroke,LCM,W,18-24,34.46,Sherah Aiken,,2009 USMS National Long Course Championships,2009,1,0612M
+GMSC,200 M Freestyle,LCM,M,50-54,3:01.38,John Rose,,Team Greenville Masters Invitational,2009,1,01GZJ
+GMSC,50 M Breaststroke,LCM,M,50-54,46.01,John Rose,,Team Greenville Masters Invitational,2009,1,01GZJ
+GMSC,100 M Breaststroke,LCM,M,50-54,1:42.31,John Rose,,Team Greenville Masters Invitational,2009,1,01GZJ
+GMSC,50 M Butterfly,LCM,M,50-54,39.08,John Rose,,Team Greenville Masters Invitational,2009,1,01GZJ
+GMSC,200 M Individual Medley,LCM,M,50-54,3:18.73,John Rose,,Team Greenville Masters Invitational,2009,1,01GZJ
+GS,400 M Freestyle,LCM,W,45-49,6:03.09,Leslie Scott,,Team Greenville Masters Invitational,2009,1,03AU8
+GS,50 M Breaststroke,LCM,W,45-49,43.91,Leslie Scott,,2009 USMS National Long Course Championships,2009,1,03AU8
+GS,100 M Breaststroke,LCM,W,45-49,1:36.60,Leslie Scott,,2009 USMS National Long Course Championships,2009,1,03AU8
+GS,200 M Individual Medley,LCM,W,45-49,3:14.53,Leslie Scott,,Team Greenville Masters Invitational,2009,1,03AU8
+GS,400 M Individual Medley,LCM,W,45-49,6:39.69,Leslie Scott,,2009 USMS National Long Course Championships,2009,1,03AU8
+GSMS,50 M Freestyle,LCM,W,45-49,29.62,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1,01HH0
+GSMS,100 M Freestyle,LCM,W,45-49,1:03.97,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1,01HH0
+GSMS,200 M Freestyle,LCM,W,45-49,2:19.14,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1,01HH0
+GSMS,400 M Freestyle,LCM,W,45-49,4:53.66,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1,01HH0
+GSMS,800 M Freestyle,LCM,W,45-49,10:00.40,Maria L Elias-Williams,,2009 USMS National Long Course Championships,2009,1,01HH0
+GSMS,100 M Backstroke,LCM,W,45-49,1:26.68,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1,01HH0
+GSMS,50 M Breaststroke,LCM,W,45-49,42.69,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1,01HH0
+GSMS,50 M Butterfly,LCM,W,45-49,34.97,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1,01HH0
+GSMS,100 M Butterfly,LCM,W,45-49,1:18.69,Maria L Elias-Williams,,Team Greenville Masters Invitational,2009,1,01HH0
+GSMS,50 M Freestyle,LCM,M,50-54,31.52,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,100 M Freestyle,LCM,M,50-54,1:13.16,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,200 M Freestyle,LCM,M,50-54,2:47.83,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,400 M Freestyle,LCM,M,50-54,6:31.10,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,100 M Backstroke,LCM,M,50-54,1:35.98,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,50 M Butterfly,LCM,M,50-54,40.10,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,100 M Butterfly,LCM,M,50-54,1:48.78,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,200 M Individual Medley,LCM,M,50-54,3:33.58,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+GSMS,400 M Individual Medley,LCM,M,50-54,7:45.36,Edward W King,,Team Greenville Masters Invitational,2009,1,05UR7
+LCM,100 M Freestyle,LCM,W,25-29,1:20.34,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1,01HGX
+LCM,200 M Freestyle,LCM,W,25-29,3:00.20,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1,01HGX
+LCM,50 M Butterfly,LCM,W,25-29,41.06,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1,01HGX
+LCM,200 M Individual Medley,LCM,W,25-29,3:21.60,Bridget A Campbell,,Team Greenville Masters Invitational,2009,1,01HGX
+LCM,50 M Freestyle,LCM,W,60-64,1:00.82,Jane H Ludick,,Team Greenville Masters Invitational,2009,1,01H6A
+LCM,50 M Backstroke,LCM,W,60-64,1:01.74,Jane H Ludick,,Classic City Masters LCM Meet,2009,1,01H6A
+LCM,100 M Backstroke,LCM,W,60-64,2:15.93,Jane H Ludick,,Team Greenville Masters Invitational,2009,1,01H6A
+LCM,200 M Backstroke,LCM,W,60-64,5:03.87,Jane H Ludick,,Team Greenville Masters Invitational,2009,1,01H6A
+LCM,50 M Breaststroke,LCM,W,60-64,1:14.64,Jane H Ludick,,Team Greenville Masters Invitational,2009,1,01H6A
+LCM,50 M Butterfly,LCM,W,60-64,1:12.56,Jane H Ludick,,Classic City Masters LCM Meet,2009,1,01H6A
+LCM,200 M Individual Medley,LCM,W,60-64,5:35.95,Jane H Ludick,,Team Greenville Masters Invitational,2009,1,01H6A
+LCM,50 M Freestyle,LCM,W,70-74,48.17,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,100 M Freestyle,LCM,W,70-74,1:48.43,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,200 M Freestyle,LCM,W,70-74,4:04.66,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,800 M Freestyle,LCM,W,70-74,17:54.15,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,200 M Backstroke,LCM,W,70-74,4:33.70,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,50 M Butterfly,LCM,W,70-74,1:08.60,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,100 M Butterfly,LCM,W,70-74,2:39.29,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,200 M Individual Medley,LCM,W,70-74,4:44.89,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,400 M Individual Medley,LCM,W,70-74,10:53.54,Nana Whalen,,Team Greenville Masters Invitational,2009,1,01GWU
+LCM,100 M Freestyle,LCM,W,75-79,2:17.49,Barbara Eisele,,Classic City Masters LCM Meet,2009,1,01GWS
+LCM,400 M Freestyle,LCM,W,75-79,10:10.74,Barbara Eisele,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GWS
+LCM,100 M Backstroke,LCM,W,75-79,2:42.04,Barbara Eisele,,Classic City Masters LCM Meet,2009,1,01GWS
+LCM,100 M Butterfly,LCM,W,75-79,3:16.35,Barbara Eisele,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GWS
+LCM,200 M Individual Medley,LCM,W,75-79,6:01.11,Barbara Eisele,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GWS
+LCM,100 M Freestyle,LCM,M,25-29,1:03.19,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,400 M Freestyle,LCM,M,25-29,5:04.00,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,800 M Freestyle,LCM,M,25-29,10:32.71,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,50 M Backstroke,LCM,M,25-29,36.26,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,50 M Breaststroke,LCM,M,25-29,34.45,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,100 M Breaststroke,LCM,M,25-29,1:15.00,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,200 M Breaststroke,LCM,M,25-29,2:49.48,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,50 M Butterfly,LCM,M,25-29,32.44,John Curwen,,Team Greenville Masters Invitational,2009,1,06838
+LCM,50 M Freestyle,LCM,M,75-79,44.42,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1,01GWP
+LCM,100 M Freestyle,LCM,M,75-79,1:47.43,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1,01GWP
+LCM,400 M Freestyle,LCM,M,75-79,9:49.53,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1,01GWP
+LCM,50 M Butterfly,LCM,M,75-79,1:00.45,Joe Bongiorno,,Team Greenville Masters Invitational,2009,1,01GWP
+SMRT,50 M Backstroke,LCM,M,60-64,32.12,Hugh Wilder,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GWW
+SMRT,100 M Backstroke,LCM,M,60-64,1:11.25,Hugh Wilder,,Classic City Masters LCM Meet,2009,1,01GWW
+SMRT,200 M Backstroke,LCM,M,60-64,2:46.39,Hugh Wilder,,Classic City Masters LCM Meet,2009,1,01GWW
+TGM,50 M Freestyle,LCM,W,45-49,42.48,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,100 M Freestyle,LCM,W,45-49,1:41.74,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,50 M Backstroke,LCM,W,45-49,53.29,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,100 M Backstroke,LCM,W,45-49,1:57.90,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,50 M Breaststroke,LCM,W,45-49,56.36,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,100 M Breaststroke,LCM,W,45-49,2:01.42,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,50 M Butterfly,LCM,W,45-49,52.75,Leah A Aragon,,Team Greenville Masters Invitational,2009,1,05VME
+TGM,50 M Freestyle,LCM,W,50-54,48.94,Cile K Williamson,,Classic City Masters LCM Meet,2009,1,01HDE
+TGM,100 M Freestyle,LCM,W,50-54,1:51.82,Cile K Williamson,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01HDE
+TGM,200 M Freestyle,LCM,W,50-54,2:47.73,Kelly R Gillig,,Team Greenville Masters Invitational,2009,1,05SHX
+TGM,200 M Freestyle,LCM,W,50-54,3:09.00,Deborah G Gambon,,Team Greenville Masters Invitational,2009,2,01H63
+TGM,200 M Freestyle,LCM,W,50-54,4:05.71,Cile K Williamson,,Team Greenville Masters Invitational,2009,3,01HDE
+TGM,400 M Freestyle,LCM,W,50-54,8:35.13,Cile K Williamson,,Team Greenville Masters Invitational,2009,1,01HDE
+TGM,50 M Backstroke,LCM,W,50-54,1:05.07,Cile K Williamson,,Team Greenville Masters Invitational,2009,1,01HDE
+TGM,100 M Backstroke,LCM,W,50-54,2:21.53,Cile K Williamson,,Team Greenville Masters Invitational,2009,1,01HDE
+TGM,50 M Breaststroke,LCM,W,50-54,44.94,Deborah G Gambon,,Team Greenville Masters Invitational,2009,1,01H63
+TGM,50 M Breaststroke,LCM,W,50-54,48.08,Kelly R Gillig,,Team Greenville Masters Invitational,2009,2,05SHX
+TGM,50 M Breaststroke,LCM,W,50-54,1:00.69,Cile K Williamson,,Team Greenville Masters Invitational,2009,3,01HDE
+TGM,100 M Breaststroke,LCM,W,50-54,2:22.24,Cile K Williamson,,Team Greenville Masters Invitational,2009,1,01HDE
+TGM,200 M Breaststroke,LCM,W,50-54,3:50.53,Deborah G Gambon,,Team Greenville Masters Invitational,2009,1,01H63
+TGM,50 M Butterfly,LCM,W,50-54,36.77,Kelly R Gillig,,Team Greenville Masters Invitational,2009,1,05SHX
+TGM,50 M Freestyle,LCM,W,55-59,47.72,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,800 M Freestyle,LCM,W,55-59,16:41.24,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,50 M Backstroke,LCM,W,55-59,1:02.06,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,100 M Backstroke,LCM,W,55-59,2:09.32,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,50 M Breaststroke,LCM,W,55-59,55.16,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,100 M Breaststroke,LCM,W,55-59,2:05.19,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,200 M Breaststroke,LCM,W,55-59,4:31.48,Barbara A Barber,,Team Greenville Masters Invitational,2009,1,01H9K
+TGM,400 M Freestyle,LCM,W,65-69,7:00.70,Pamela W Wingerter,,Classic City Masters LCM Meet,2009,1,01VCF
+TGM,100 M Backstroke,LCM,W,65-69,1:45.99,Pamela W Wingerter,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01VCF
+TGM,50 M Breaststroke,LCM,W,65-69,50.85,Pamela W Wingerter,,Classic City Masters LCM Meet,2009,1,01VCF
+TGM,100 M Breaststroke,LCM,W,65-69,1:50.52,Pamela W Wingerter,,Classic City Masters LCM Meet,2009,1,01VCF
+TGM,50 M Butterfly,LCM,W,65-69,49.05,Pamela W Wingerter,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01VCF
+TGM,50 M Freestyle,LCM,M,35-39,31.04,Stan C Stuart,,Team Greenville Masters Invitational,2009,1,06CG5
+TGM,50 M Freestyle,LCM,M,40-44,29.48,Steven J Stuart,,Team Greenville Masters Invitational,2009,1,01HGT
+TGM,50 M Freestyle,LCM,M,40-44,29.50,James H Tindal,,Team Greenville Masters Invitational,2009,2,067CE
+TGM,50 M Freestyle,LCM,M,40-44,30.23,Thomas E Dudley,,Team Greenville Masters Invitational,2009,3,01H97
+TGM,50 M Freestyle,LCM,M,40-44,31.52,William G Tervo,,Team Greenville Masters Invitational,2009,4,06931
+TGM,100 M Freestyle,LCM,M,40-44,1:07.48,James H Tindal,,Team Greenville Masters Invitational,2009,1,067CE
+TGM,200 M Freestyle,LCM,M,40-44,2:35.54,James H Tindal,,Team Greenville Masters Invitational,2009,1,067CE
+TGM,800 M Freestyle,LCM,M,40-44,11:21.27,Steven J Stuart,,Team Greenville Masters Invitational,2009,1,01HGT
+TGM,50 M Backstroke,LCM,M,40-44,35.85,James H Tindal,,Team Greenville Masters Invitational,2009,1,067CE
+TGM,100 M Backstroke,LCM,M,40-44,1:11.40,Rick Gantt,,Team Greenville Masters Invitational,2009,1,01HFY
+TGM,100 M Backstroke,LCM,M,40-44,1:19.68,James H Tindal,,Team Greenville Masters Invitational,2009,2,067CE
+TGM,200 M Backstroke,LCM,M,40-44,2:37.45,Rick Gantt,,Team Greenville Masters Invitational,2009,1,01HFY
+TGM,200 M Backstroke,LCM,M,40-44,3:07.82,Thomas E Dudley,,Team Greenville Masters Invitational,2009,2,01H97
+TGM,50 M Butterfly,LCM,M,40-44,31.35,Thomas E Dudley,,Team Greenville Masters Invitational,2009,1,01H97
+TGM,50 M Butterfly,LCM,M,40-44,35.20,William G Tervo,,Classic City Masters LCM Meet,2009,2,06931
+TGM,100 M Butterfly,LCM,M,40-44,1:08.41,Rick Gantt,,Team Greenville Masters Invitational,2009,1,01HFY
+TGM,100 M Butterfly,LCM,M,40-44,1:37.73,William G Tervo,,Team Greenville Masters Invitational,2009,2,06931
+TGM,200 M Butterfly,LCM,M,40-44,3:12.28,Steven J Stuart,,Team Greenville Masters Invitational,2009,1,01HGT
+TGM,50 M Freestyle,LCM,M,45-49,29.54,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1,01GUW
+TGM,100 M Freestyle,LCM,M,45-49,1:09.91,Roy E Dessloch,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GUW
+TGM,200 M Freestyle,LCM,M,45-49,2:42.53,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1,01GUW
+TGM,50 M Backstroke,LCM,M,45-49,34.71,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1,01GUW
+TGM,100 M Backstroke,LCM,M,45-49,1:18.90,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1,01GUW
+TGM,200 M Backstroke,LCM,M,45-49,2:58.31,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1,01GUW
+TGM,50 M Breaststroke,LCM,M,45-49,39.41,Roy E Dessloch,,Team Greenville Masters Invitational,2009,1,01GUW
+TGM,100 M Breaststroke,LCM,M,45-49,1:33.85,Roy E Dessloch,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01GUW
+TGM,200 M Freestyle,LCM,M,50-54,3:31.06,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1,01GUY
+TGM,800 M Freestyle,LCM,M,50-54,16:30.76,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1,01GUY
+TGM,100 M Backstroke,LCM,M,50-54,1:58.67,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1,01GUY
+TGM,200 M Breaststroke,LCM,M,50-54,4:11.05,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1,01GUY
+TGM,400 M Individual Medley,LCM,M,50-54,9:01.38,Jeffrey S Gaines,,Team Greenville Masters Invitational,2009,1,01GUY
+UNAT,50 M Freestyle,LCM,W,45-49,44.56,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,100 M Freestyle,LCM,W,45-49,1:41.88,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,200 M Freestyle,LCM,W,45-49,2:43.55,Cheryl M Reinke,,Cleveland State University LCM,2009,1,063UX
+UNAT,200 M Freestyle,LCM,W,45-49,3:44.84,Denise L Ross,,Team Greenville Masters Invitational,2009,2,01HFF
+UNAT,400 M Freestyle,LCM,W,45-49,5:39.85,Cheryl M Reinke,,Cleveland State University LCM,2009,1,063UX
+UNAT,800 M Freestyle,LCM,W,45-49,11:37.24,Cheryl M Reinke,,Cleveland State University LCM,2009,1,063UX
+UNAT,800 M Freestyle,LCM,W,45-49,15:58.20,Denise L Ross,,Team Greenville Masters Invitational,2009,2,01HFF
+UNAT,1500 M Freestyle,LCM,W,45-49,22:01.14,Cheryl M Reinke,,Cleveland State University LCM,2009,1,063UX
+UNAT,50 M Backstroke,LCM,W,45-49,56.60,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,100 M Backstroke,LCM,W,45-49,2:03.48,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,200 M Backstroke,LCM,W,45-49,4:14.22,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,50 M Breaststroke,LCM,W,45-49,1:00.60,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,100 M Breaststroke,LCM,W,45-49,2:03.98,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,200 M Breaststroke,LCM,W,45-49,4:19.32,Denise L Ross,,Team Greenville Masters Invitational,2009,1,01HFF
+UNAT,50 M Freestyle,LCM,M,35-39,28.97,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,100 M Freestyle,LCM,M,35-39,1:05.65,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,200 M Freestyle,LCM,M,35-39,2:24.89,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,50 M Backstroke,LCM,M,35-39,32.72,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,100 M Backstroke,LCM,M,35-39,1:09.56,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,200 M Backstroke,LCM,M,35-39,2:42.85,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,50 M Butterfly,LCM,M,35-39,45.29,Paul J Reilly,,Team Greenville Masters Invitational,2009,1,0670F
+UNAT,50 M Freestyle,LCM,M,45-49,32.95,David A Ericson,,Classic City Masters LCM Meet,2009,1,0619Z
+UNAT,100 M Freestyle,LCM,M,45-49,1:19.25,David A Ericson,,Team Greenville Masters Invitational,2009,1,0619Z
+UNAT,50 M Breaststroke,LCM,M,45-49,47.13,David A Ericson,,Team Greenville Masters Invitational,2009,1,0619Z
+UNAT,50 M Butterfly,LCM,M,45-49,38.89,David A Ericson,,Team Greenville Masters Invitational,2009,1,0619Z
+UNAT,400 M Freestyle,LCM,M,60-64,6:33.41,Steven M Conover,,Team Greenville Masters Invitational,2009,1,01PRX
+UNAT,200 M Backstroke,LCM,M,60-64,3:58.33,Steven M Conover,,Classic City Masters LCM Meet,2009,1,01PRX
+UNAT,50 M Breaststroke,LCM,M,60-64,57.94,Steven M Conover,,Classic City (Georgia Masters) LCM @ UGA,2009,1,01PRX
+UNAT,100 M Breaststroke,LCM,M,60-64,2:03.87,Steven M Conover,,Classic City Masters LCM Meet,2009,1,01PRX
+UNAT,50 M Butterfly,LCM,M,60-64,46.79,Steven M Conover,,Classic City Masters LCM Meet,2009,1,01PRX
+UNAT,100 M Butterfly,LCM,M,60-64,1:45.92,Steven M Conover,,Team Greenville Masters Invitational,2009,1,01PRX
+UNAT,200 M Butterfly,LCM,M,60-64,3:49.11,Steven M Conover,,Classic City Masters LCM Meet,2009,1,01PRX
+UNAT,200 M Individual Medley,LCM,M,60-64,3:44.88,Steven M Conover,,Team Greenville Masters Invitational,2009,1,01PRX
+UNAT,400 M Individual Medley,LCM,M,60-64,7:59.90,Steven M Conover,,Team Greenville Masters Invitational,2009,1,01PRX
+UNAT,50 M Freestyle,LCM,M,70-74,30.51,David J Painter,,2009 USMS National Long Course Championships,2009,1,01GZF
+UNAT,50 M Backstroke,LCM,M,70-74,40.39,David J Painter,,2009 USMS National Long Course Championships,2009,1,01GZF
+UNAT,200 M Individual Medley,LCM,M,70-74,3:20.15,David J Painter,,2009 USMS National Long Course Championships,2009,1,01GZF
