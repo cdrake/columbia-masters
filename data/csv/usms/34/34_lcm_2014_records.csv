@@ -1,0 +1,234 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+HASC,50 M Freestyle,LCM,M,55-59,37.03,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+HASC,100 M Freestyle,LCM,M,55-59,1:26.11,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+HASC,200 M Freestyle,LCM,M,55-59,3:23.92,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+HASC,400 M Freestyle,LCM,M,55-59,7:28.03,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+HASC,1500 M Freestyle,LCM,M,55-59,30:17.99,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+HASC,50 M Breaststroke,LCM,M,55-59,51.14,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+HASC,100 M Breaststroke,LCM,M,55-59,2:05.41,Jerry L Hunsaker,,Utah Summer Games,2014,1,0960D
+OACM,400 M Freestyle,LCM,W,40-44,5:55.26,Julie H Tate,,Utah Summer Games,2014,1,076MA
+OACM,50 M Backstroke,LCM,W,40-44,39.81,Julie H Tate,,Utah Summer Games,2014,1,076MA
+OACM,100 M Backstroke,LCM,W,40-44,1:25.08,Julie H Tate,,Utah Summer Games,2014,1,076MA
+OACM,100 M Breaststroke,LCM,W,40-44,1:36.14,Julie H Tate,,Utah Summer Games,2014,1,076MA
+OACM,50 M Butterfly,LCM,W,40-44,36.42,Julie H Tate,,Utah Summer Games,2014,1,076MA
+OACM,200 M Individual Medley,LCM,W,40-44,3:03.75,Julie H Tate,,Utah Summer Games,2014,1,076MA
+OACM,100 M Freestyle,LCM,W,50-54,1:59.23,Leslee  Ellis,,Utah Summer Games,2014,1,09AR8
+OACM,50 M Backstroke,LCM,W,50-54,57.24,Leslee  Ellis,,Utah Summer Games,2014,1,09AR8
+OACM,100 M Backstroke,LCM,W,50-54,2:12.82,Leslee  Ellis,,Utah Summer Games,2014,1,09AR8
+OACM,100 M Breaststroke,LCM,W,50-54,2:43.03,Leslee  Ellis,,Utah Summer Games,2014,1,09AR8
+QUAC,100 M Freestyle,LCM,M,30-34,1:01.59,James B Hochstrasser,,Gay Games Long Course Meet,2014,1,06AVZ
+QUAC,200 M Freestyle,LCM,M,30-34,2:19.83,James B Hochstrasser,,Gay Games Long Course Meet,2014,1,06AVZ
+QUAC,400 M Freestyle,LCM,M,30-34,4:50.89,James B Hochstrasser,,Gay Games Long Course Meet,2014,1,06AVZ
+QUAC,800 M Freestyle,LCM,M,30-34,10:09.22,James B Hochstrasser,,Gay Games Long Course Meet,2014,1,06AVZ
+QUAC,1500 M Freestyle,LCM,M,30-34,19:24.91,James B Hochstrasser,,Gay Games Long Course Meet,2014,1,06AVZ
+QUAC,50 M Freestyle,LCM,M,35-39,33.41,Jeffrey Lewis,,Gay Games Long Course Meet,2014,1,05RRA
+QUAC,100 M Freestyle,LCM,M,35-39,1:11.71,Jeffrey Lewis,,Gay Games Long Course Meet,2014,1,05RRA
+QUAC,50 M Butterfly,LCM,M,35-39,35.10,Jeffrey Lewis,,Gay Games Long Course Meet,2014,1,05RRA
+QUAC,100 M Freestyle,LCM,M,40-44,1:07.00,Travis F Wall,,Gay Games Long Course Meet,2014,1,096S9
+QUAC,400 M Freestyle,LCM,M,40-44,5:37.90,Travis F Wall,,Gay Games Long Course Meet,2014,1,096S9
+QUAC,100 M Backstroke,LCM,M,40-44,1:17.97,Travis F Wall,,Gay Games Long Course Meet,2014,1,096S9
+QUAC,200 M Backstroke,LCM,M,40-44,2:52.43,Travis F Wall,,Gay Games Long Course Meet,2014,1,096S9
+QUAC,50 M Butterfly,LCM,M,40-44,33.19,Travis F Wall,,Gay Games Long Course Meet,2014,1,096S9
+QUAC,50 M Freestyle,LCM,M,45-49,37.49,Kevin L McDaniel,,Gay Games Long Course Meet,2014,1,06PU6
+QUAC,100 M Freestyle,LCM,M,45-49,1:27.70,Kevin L McDaniel,,Gay Games Long Course Meet,2014,1,06PU6
+QUAC,50 M Breaststroke,LCM,M,45-49,50.20,Kevin L McDaniel,,Gay Games Long Course Meet,2014,1,06PU6
+QUAC,100 M Breaststroke,LCM,M,45-49,1:50.65,Kevin L McDaniel,,Gay Games Long Course Meet,2014,1,06PU6
+QUAC,50 M Freestyle,LCM,M,50-54,41.25,Thad Applegate,,Gay Games Long Course Meet,2014,1,05SR2
+QUAC,100 M Freestyle,LCM,M,50-54,1:35.98,Thad Applegate,,Gay Games Long Course Meet,2014,1,05SR2
+QUAC,200 M Freestyle,LCM,M,50-54,3:44.24,Thad Applegate,,Gay Games Long Course Meet,2014,1,05SR2
+QUAC,400 M Freestyle,LCM,M,50-54,8:00.64,Thad Applegate,,Gay Games Long Course Meet,2014,1,05SR2
+SALT,50 M Butterfly,LCM,W,60-64,43.26,Marie Newton,,Utah Summer Games,2014,1,06MBC
+SALT,100 M Butterfly,LCM,W,60-64,1:45.30,Marie Newton,,Utah Summer Games,2014,1,06MBC
+SALT,200 M Butterfly,LCM,W,60-64,4:00.45,Marie Newton,,Utah Summer Games,2014,1,06MBC
+SALT,50 M Freestyle,LCM,M,60-64,33.97,Gary D Shaw,,Utah Summer Games,2014,1,0043E
+SALT,50 M Backstroke,LCM,M,60-64,44.39,Gary D Shaw,,Utah Summer Games,2014,1,0043E
+SALT,200 M Backstroke,LCM,M,60-64,3:41.32,Gary D Shaw,,Utah Summer Games,2014,1,0043E
+SALT,50 M Breaststroke,LCM,M,60-64,38.58,Gary D Shaw,,2014 FINA World Masters Championship,2014,1,0043E
+SALT,100 M Breaststroke,LCM,M,60-64,1:27.96,Gary D Shaw,,2014 FINA World Masters Championship,2014,1,0043E
+SALT,200 M Breaststroke,LCM,M,60-64,3:21.14,Gary D Shaw,,Utah Summer Games,2014,1,0043E
+SALT,50 M Butterfly,LCM,M,60-64,36.96,Gary D Shaw,,Utah Summer Games,2014,1,0043E
+SALT,100 M Butterfly,LCM,M,60-64,1:34.71,Gary D Shaw,,Utah Summer Games,2014,1,0043E
+SALT,200 M Individual Medley,LCM,M,60-64,3:10.15,Gary D Shaw,,2014 FINA World Masters Championship,2014,1,0043E
+SALT,400 M Individual Medley,LCM,M,60-64,6:59.15,Gary D Shaw,,2014 FINA World Masters Championship,2014,1,0043E
+SALT,50 M Freestyle,LCM,M,65-69,35.15,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,100 M Freestyle,LCM,M,65-69,1:39.32,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,200 M Freestyle,LCM,M,65-69,3:14.37,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,400 M Freestyle,LCM,M,65-69,7:04.82,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,1500 M Freestyle,LCM,M,65-69,28:08.47,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,50 M Backstroke,LCM,M,65-69,46.47,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,50 M Breaststroke,LCM,M,65-69,46.41,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,50 M Butterfly,LCM,M,65-69,47.64,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+SALT,200 M Individual Medley,LCM,M,65-69,3:56.26,Robert A Shaw,,Utah Summer Games,2014,1,01Z75
+UC34,50 M Freestyle,LCM,W,18-24,32.37,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,100 M Freestyle,LCM,W,18-24,1:12.82,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,200 M Freestyle,LCM,W,18-24,2:48.28,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,400 M Freestyle,LCM,W,18-24,6:11.40,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,1500 M Freestyle,LCM,W,18-24,25:11.03,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,50 M Butterfly,LCM,W,18-24,38.12,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,100 M Butterfly,LCM,W,18-24,1:37.03,Heidi A Cook,,Utah Summer Games,2014,1,090RC
+UC34,50 M Freestyle,LCM,W,35-39,35.06,Christina K Jackson,,Utah Summer Games,2014,1,07RJT
+UC34,100 M Freestyle,LCM,W,35-39,1:19.16,Christina K Jackson,,Utah Summer Games,2014,1,07RJT
+UC34,200 M Freestyle,LCM,W,35-39,2:56.43,Christina K Jackson,,Utah Summer Games,2014,1,07RJT
+UC34,400 M Freestyle,LCM,W,35-39,6:18.66,Christina K Jackson,,Utah Summer Games,2014,1,07RJT
+UC34,1500 M Freestyle,LCM,W,35-39,25:03.03,Christina K Jackson,,Utah Summer Games,2014,1,07RJT
+UC34,50 M Backstroke,LCM,W,35-39,39.77,Tamara C Lemmon,,Utah Summer Games,2014,1,07S04
+UC34,100 M Backstroke,LCM,W,35-39,1:24.21,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,200 M Backstroke,LCM,W,35-39,3:14.36,Tamara C Lemmon,,Utah Summer Games,2014,1,07S04
+UC34,50 M Breaststroke,LCM,W,35-39,41.28,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,50 M Breaststroke,LCM,W,35-39,44.81,Christina K Jackson,,Utah Summer Games,2014,2,07RJT
+UC34,100 M Breaststroke,LCM,W,35-39,1:28.97,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,100 M Breaststroke,LCM,W,35-39,1:40.46,Christina K Jackson,,Utah Summer Games,2014,2,07RJT
+UC34,200 M Breaststroke,LCM,W,35-39,3:08.33,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,200 M Breaststroke,LCM,W,35-39,3:42.36,Christina K Jackson,,Utah Summer Games,2014,2,07RJT
+UC34,100 M Butterfly,LCM,W,35-39,1:26.98,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,200 M Individual Medley,LCM,W,35-39,2:54.83,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,400 M Individual Medley,LCM,W,35-39,6:21.51,Tamara C Lemmon,,2014 SW Zone/SPMS Regional Long Course Summer Championships,2014,1,07S04
+UC34,50 M Freestyle,LCM,W,45-49,44.23,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,200 M Freestyle,LCM,W,45-49,3:13.77,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,400 M Freestyle,LCM,W,45-49,6:46.87,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,1500 M Freestyle,LCM,W,45-49,26:16.45,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,50 M Backstroke,LCM,W,45-49,58.09,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,50 M Breaststroke,LCM,W,45-49,55.05,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,100 M Breaststroke,LCM,W,45-49,1:58.89,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,200 M Breaststroke,LCM,W,45-49,4:24.76,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,200 M Butterfly,LCM,W,45-49,4:20.62,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,400 M Individual Medley,LCM,W,45-49,8:13.88,Jayme L Jorgensen,,Utah Summer Games,2014,1,09897
+UC34,50 M Freestyle,LCM,M,18-24,28.86,Scott H Shumway,,Utah Summer Games,2014,1,08012
+UC34,200 M Breaststroke,LCM,M,18-24,3:29.57,Scott H Shumway,,Utah Summer Games,2014,1,08012
+UC34,1500 M Freestyle,LCM,M,25-29,21:09.58,Shawn M King,,Utah Summer Games,2014,1,0844X
+UC34,100 M Breaststroke,LCM,M,25-29,1:24.72,Shawn M King,,Utah Summer Games,2014,1,0844X
+UC34,200 M Breaststroke,LCM,M,25-29,3:05.75,Shawn M King,,Utah Summer Games,2014,1,0844X
+UC34,200 M Individual Medley,LCM,M,25-29,2:43.11,Shawn M King,,Utah Summer Games,2014,1,0844X
+UC34,400 M Individual Medley,LCM,M,25-29,5:53.13,Shawn M King,,Utah Summer Games,2014,1,0844X
+UC34,50 M Freestyle,LCM,M,40-44,27.03,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,100 M Freestyle,LCM,M,40-44,1:02.01,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,200 M Freestyle,LCM,M,40-44,2:24.07,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,400 M Freestyle,LCM,M,40-44,5:10.43,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,50 M Backstroke,LCM,M,40-44,33.41,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,50 M Butterfly,LCM,M,40-44,28.90,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,100 M Butterfly,LCM,M,40-44,1:10.50,Kelly S Karren,,Utah Summer Games,2014,1,06Y20
+UC34,50 M Freestyle,LCM,M,55-59,31.08,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,100 M Freestyle,LCM,M,55-59,1:13.27,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,200 M Freestyle,LCM,M,55-59,2:54.05,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,50 M Backstroke,LCM,M,55-59,41.60,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,100 M Backstroke,LCM,M,55-59,1:37.26,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,200 M Backstroke,LCM,M,55-59,3:31.50,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,50 M Breaststroke,LCM,M,55-59,40.54,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,100 M Breaststroke,LCM,M,55-59,1:32.73,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,50 M Butterfly,LCM,M,55-59,37.61,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,200 M Individual Medley,LCM,M,55-59,3:17.55,David A Cook,,Utah Summer Games,2014,1,08ECZ
+UC34,200 M Freestyle,LCM,M,65-69,4:50.97,Jack Paige,,Utah Summer Games,2014,1,098B1
+UC34,400 M Freestyle,LCM,M,65-69,11:00.08,Jack Paige,,Utah Summer Games,2014,1,098B1
+UC34,50 M Backstroke,LCM,M,65-69,1:10.57,Jack Paige,,Utah Summer Games,2014,1,098B1
+UC34,200 M Backstroke,LCM,M,65-69,6:12.84,Jack Paige,,Utah Summer Games,2014,1,098B1
+UC34,50 M Freestyle,LCM,M,70-74,41.13,Leland E Modesitt,,Utah Summer Games,2014,1,08CAN
+UC34,100 M Freestyle,LCM,M,70-74,1:34.81,Leland E Modesitt,,Utah Summer Games,2014,1,08CAN
+UC34,50 M Backstroke,LCM,M,70-74,50.03,Leland E Modesitt,,Utah Summer Games,2014,1,08CAN
+UC34,50 M Breaststroke,LCM,M,70-74,47.48,Leland E Modesitt,,Utah Summer Games,2014,1,08CAN
+UC34,100 M Breaststroke,LCM,M,70-74,1:54.55,Leland E Modesitt,,Utah Summer Games,2014,1,08CAN
+UC34,50 M Freestyle,LCM,M,80-84,1:53.11,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,100 M Freestyle,LCM,M,80-84,4:46.92,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,200 M Freestyle,LCM,M,80-84,9:24.21,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,50 M Backstroke,LCM,M,80-84,2:08.85,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,100 M Backstroke,LCM,M,80-84,4:44.40,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,200 M Backstroke,LCM,M,80-84,9:56.47,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,50 M Breaststroke,LCM,M,80-84,2:46.02,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UC34,200 M Breaststroke,LCM,M,80-84,13:10.85,Jim Flora,,Utah Summer Games,2014,1,07S7D
+UTAH,50 M Freestyle,LCM,W,45-49,32.17,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,100 M Freestyle,LCM,W,45-49,1:13.96,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,200 M Freestyle,LCM,W,45-49,2:50.17,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,400 M Freestyle,LCM,W,45-49,6:11.39,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,50 M Backstroke,LCM,W,45-49,37.65,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,100 M Backstroke,LCM,W,45-49,1:29.27,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,200 M Backstroke,LCM,W,45-49,3:18.02,Heather E Creel,,Utah Summer Games,2014,1,00683
+UTAH,50 M Freestyle,LCM,W,50-54,40.67,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,100 M Freestyle,LCM,W,50-54,1:30.69,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,400 M Freestyle,LCM,W,50-54,7:11.51,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,50 M Backstroke,LCM,W,50-54,46.32,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,100 M Backstroke,LCM,W,50-54,1:42.93,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,100 M Breaststroke,LCM,W,50-54,1:54.87,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,200 M Breaststroke,LCM,W,50-54,4:21.51,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,50 M Butterfly,LCM,W,50-54,50.53,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,200 M Individual Medley,LCM,W,50-54,3:49.59,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,400 M Individual Medley,LCM,W,50-54,8:07.25,Diane E Pratt,,Utah Summer Games,2014,1,03AY6
+UTAH,50 M Freestyle,LCM,W,60-64,32.37,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,50 M Freestyle,LCM,W,60-64,42.86,Katherine Kenal,,2014 FINA World Masters Championship,2014,2,00415
+UTAH,100 M Freestyle,LCM,W,60-64,1:10.20,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,100 M Freestyle,LCM,W,60-64,1:28.96,Carolyn B Lyman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,2,00440
+UTAH,100 M Freestyle,LCM,W,60-64,1:41.51,Katherine Kenal,,2014 FINA World Masters Championship,2014,3,00415
+UTAH,200 M Freestyle,LCM,W,60-64,2:32.17,Lo D Knapp,,2014 FINA World Masters Championship,2014,1,003ZB
+UTAH,200 M Freestyle,LCM,W,60-64,2:53.14,Katy L Kessinger,,2014 Pacific Masters Long Course Championships,2014,2,00491
+UTAH,200 M Freestyle,LCM,W,60-64,3:10.20,Carolyn B Lyman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,3,00440
+UTAH,400 M Freestyle,LCM,W,60-64,5:21.02,Lo D Knapp,,2014 FINA World Masters Championship,2014,1,003ZB
+UTAH,400 M Freestyle,LCM,W,60-64,5:56.00,Katy L Kessinger,,2014 FINA World Masters Championship,2014,2,00491
+UTAH,400 M Freestyle,LCM,W,60-64,6:49.16,Carolyn B Lyman,,Utah Summer Games,2014,3,00440
+UTAH,800 M Freestyle,LCM,W,60-64,11:28.16,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,800 M Freestyle,LCM,W,60-64,12:21.06,Katy L Kessinger,,2014 Pacific Masters Long Course Championships,2014,2,00491
+UTAH,1500 M Freestyle,LCM,W,60-64,21:24.84,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,1500 M Freestyle,LCM,W,60-64,23:22.13,Katy L Kessinger,,2014 Pacific Masters Long Course Championships,2014,2,00491
+UTAH,1500 M Freestyle,LCM,W,60-64,25:42.83,Carolyn B Lyman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,3,00440
+UTAH,1500 M Freestyle,LCM,W,60-64,37:33.67,Theodora Fox,,Utah Summer Games,2014,4,092VU
+UTAH,50 M Backstroke,LCM,W,60-64,39.60,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,50 M Backstroke,LCM,W,60-64,44.34,Carolyn B Lyman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,2,00440
+UTAH,200 M Backstroke,LCM,W,60-64,3:33.27,Carolyn B Lyman,,Utah Summer Games,2014,1,00440
+UTAH,50 M Breaststroke,LCM,W,60-64,40.95,Lo D Knapp,,2014 FINA World Masters Championship,2014,1,003ZB
+UTAH,50 M Breaststroke,LCM,W,60-64,46.08,Katy L Kessinger,,2014 FINA World Masters Championship,2014,2,00491
+UTAH,50 M Breaststroke,LCM,W,60-64,52.38,Carolyn B Lyman,,Utah Summer Games,2014,3,00440
+UTAH,100 M Breaststroke,LCM,W,60-64,1:27.95,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,100 M Breaststroke,LCM,W,60-64,1:44.29,Katy L Kessinger,,2014 Pacific Masters Long Course Championships,2014,2,00491
+UTAH,100 M Breaststroke,LCM,W,60-64,1:57.11,Carolyn B Lyman,,Utah Summer Games,2014,3,00440
+UTAH,200 M Breaststroke,LCM,W,60-64,3:08.07,Lo D Knapp,,2014 Pacific Masters Long Course Championships,2014,1,003ZB
+UTAH,200 M Breaststroke,LCM,W,60-64,3:45.36,Katy L Kessinger,,2014 FINA World Masters Championship,2014,2,00491
+UTAH,100 M Butterfly,LCM,W,60-64,1:29.96,Katy L Kessinger,,2014 FINA World Masters Championship,2014,1,00491
+UTAH,400 M Individual Medley,LCM,W,60-64,7:53.04,Carolyn B Lyman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,1,00440
+UTAH,50 M Freestyle,LCM,W,65-69,1:04.19,Sharyle Karren,,Utah Summer Games,2014,1,06Y21
+UTAH,100 M Freestyle,LCM,W,65-69,2:36.67,Sharyle Karren,,Utah Summer Games,2014,1,06Y21
+UTAH,50 M Breaststroke,LCM,W,65-69,1:13.78,Sharyle Karren,,Utah Summer Games,2014,1,06Y21
+UTAH,100 M Breaststroke,LCM,W,65-69,2:48.81,Sharyle Karren,,Utah Summer Games,2014,1,06Y21
+UTAH,200 M Breaststroke,LCM,W,65-69,6:11.45,Sharyle Karren,,Utah Summer Games,2014,1,06Y21
+UTAH,200 M Freestyle,LCM,W,70-74,3:52.47,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,400 M Freestyle,LCM,W,70-74,7:57.21,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,800 M Freestyle,LCM,W,70-74,15:47.94,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,1500 M Freestyle,LCM,W,70-74,29:28.64,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,50 M Butterfly,LCM,W,70-74,59.10,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,100 M Butterfly,LCM,W,70-74,2:21.82,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,200 M Butterfly,LCM,W,70-74,5:20.06,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,200 M Individual Medley,LCM,W,70-74,4:32.07,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,400 M Individual Medley,LCM,W,70-74,9:27.22,Lynne H Lund,,Utah Summer Games,2014,1,02BUP
+UTAH,400 M Freestyle,LCM,W,75-79,11:07.24,Ruth E Sluder,,Utah Summer Games,2014,1,05ERG
+UTAH,1500 M Freestyle,LCM,W,75-79,44:19.63,Ruth E Sluder,,Utah Summer Games,2014,1,05ERG
+UTAH,200 M Individual Medley,LCM,W,75-79,7:16.26,Ruth E Sluder,,Utah Summer Games,2014,1,05ERG
+UTAH,50 M Breaststroke,LCM,M,35-39,32.40,Jeremy S Weight,,Utah Summer Games,2014,1,07PJ4
+UTAH,100 M Breaststroke,LCM,M,35-39,1:12.48,Jeremy S Weight,,Utah Summer Games,2014,1,07PJ4
+UTAH,200 M Breaststroke,LCM,M,35-39,2:45.61,Jeremy S Weight,,Utah Summer Games,2014,1,07PJ4
+UTAH,200 M Freestyle,LCM,M,45-49,2:29.77,John Karren,,Utah Summer Games,2014,1,07993
+UTAH,400 M Freestyle,LCM,M,45-49,5:20.64,John Karren,,Utah Summer Games,2014,1,07993
+UTAH,1500 M Freestyle,LCM,M,45-49,21:34.90,John Karren,,Utah Summer Games,2014,1,07993
+UTAH,50 M Butterfly,LCM,M,45-49,32.01,John Karren,,Utah Summer Games,2014,1,07993
+UTAH,50 M Freestyle,LCM,M,50-54,32.50,Nathan H Merrill,,Utah Summer Games,2014,1,07U22
+UTAH,50 M Backstroke,LCM,M,50-54,39.11,Nathan H Merrill,,Utah Summer Games,2014,1,07U22
+UTAH,100 M Backstroke,LCM,M,50-54,1:20.91,Gerald S Treiman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,1,0043A
+UTAH,100 M Backstroke,LCM,M,50-54,1:25.30,Nathan H Merrill,,Utah Summer Games,2014,2,07U22
+UTAH,200 M Backstroke,LCM,M,50-54,2:50.30,Gerald S Treiman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,1,0043A
+UTAH,200 M Backstroke,LCM,M,50-54,3:13.52,Nathan H Merrill,,Utah Summer Games,2014,2,07U22
+UTAH,50 M Breaststroke,LCM,M,50-54,49.29,Nathan H Merrill,,Utah Summer Games,2014,1,07U22
+UTAH,50 M Butterfly,LCM,M,50-54,36.89,Nathan H Merrill,,Utah Summer Games,2014,1,07U22
+UTAH,200 M Individual Medley,LCM,M,50-54,3:17.77,Gerald S Treiman,,2014 Marriott U.S. Masters Swimming Summer National Championship,2014,1,0043A
+UTAH,200 M Individual Medley,LCM,M,50-54,3:29.31,Nathan H Merrill,,Utah Summer Games,2014,2,07U22
+UTAH,50 M Freestyle,LCM,M,75-79,43.45,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,100 M Freestyle,LCM,M,75-79,1:43.58,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,200 M Freestyle,LCM,M,75-79,4:05.07,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,400 M Freestyle,LCM,M,75-79,8:21.22,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,1500 M Freestyle,LCM,M,75-79,35:10.24,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,50 M Backstroke,LCM,M,75-79,1:01.21,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,50 M Breaststroke,LCM,M,75-79,56.78,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,100 M Breaststroke,LCM,M,75-79,2:08.95,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,200 M Breaststroke,LCM,M,75-79,4:42.49,Phil Cherry,,Utah Summer Games,2014,1,003Y1
+UTAH,50 M Freestyle,LCM,M,85-89,1:01.22,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,100 M Freestyle,LCM,M,85-89,2:44.56,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,200 M Freestyle,LCM,M,85-89,6:20.91,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,50 M Backstroke,LCM,M,85-89,1:16.86,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,100 M Backstroke,LCM,M,85-89,2:55.32,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,200 M Backstroke,LCM,M,85-89,5:58.32,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,50 M Breaststroke,LCM,M,85-89,1:21.06,Robert L Sears,,Utah Summer Games,2014,1,04MMS
+UTAH,100 M Breaststroke,LCM,M,85-89,3:15.47,Robert L Sears,,Utah Summer Games,2014,1,04MMS

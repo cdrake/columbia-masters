@@ -1,0 +1,225 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+QUAC,50 M Freestyle,SCM,W,30-34,37.37,Audra L West,,JCC Fall Opener,2011,1,07A68
+QUAC,50 M Backstroke,SCM,W,30-34,44.12,Audra L West,,JCC Fall Opener,2011,1,07A68
+QUAC,50 M Butterfly,SCM,W,30-34,44.29,Audra L West,,JCC Fall Opener,2011,1,07A68
+QUAC,100 M Individual Medley,SCM,W,30-34,1:38.14,Audra L West,,JCC Fall Opener,2011,1,07A68
+QUAC,50 M Freestyle,SCM,W,65-69,38.37,Barbara P Nash,,Huntsman Senior Games,2011,1,0047N
+QUAC,50 M Breaststroke,SCM,W,65-69,47.56,Barbara P Nash,,Huntsman Senior Games,2011,1,0047N
+QUAC,100 M Breaststroke,SCM,W,65-69,1:52.32,Barbara P Nash,,Huntsman Senior Games,2011,1,0047N
+QUAC,200 M Breaststroke,SCM,W,65-69,4:10.79,Barbara P Nash,,Huntsman Senior Games,2011,1,0047N
+QUAC,100 M Freestyle,SCM,M,18-24,1:36.54,Christopher Thurman,,JCC Fall Opener,2011,1,07GGW
+QUAC,100 M Freestyle,SCM,M,25-29,1:05.12,James B Hochstrasser,,JCC Fall Opener,2011,1,06AVZ
+QUAC,200 M Freestyle,SCM,M,25-29,2:13.09,James B Hochstrasser,,JCC Fall Opener,2011,1,06AVZ
+QUAC,400 M Freestyle,SCM,M,25-29,4:41.78,James B Hochstrasser,,JCC Fall Opener,2011,1,06AVZ
+QUAC,800 M Freestyle,SCM,M,25-29,9:51.06,James B Hochstrasser,,JCC Fall Opener,2011,1,06AVZ
+QUAC,50 M Freestyle,SCM,M,35-39,34.93,Sterling R Fuhriman,,JCC Fall Opener,2011,1,0730U
+QUAC,50 M Backstroke,SCM,M,35-39,46.49,Sterling R Fuhriman,,JCC Fall Opener,2011,1,0730U
+QUAC,50 M Breaststroke,SCM,M,35-39,53.05,Sterling R Fuhriman,,JCC Fall Opener,2011,1,0730U
+QUAC,100 M Individual Medley,SCM,M,35-39,1:42.37,Sterling R Fuhriman,,JCC Fall Opener,2011,1,0730U
+QUAC,100 M Freestyle,SCM,M,40-44,1:23.55,Matt Furness,,JCC Fall Opener,2011,1,0049X
+QUAC,800 M Freestyle,SCM,M,40-44,14:15.52,Matt Furness,,JCC Fall Opener,2011,1,0049X
+QUAC,50 M Breaststroke,SCM,M,40-44,49.62,Kevin L McDaniel,,JCC Fall Opener,2011,1,06PU6
+QUAC,100 M Breaststroke,SCM,M,40-44,1:45.29,Kevin L McDaniel,,JCC Fall Opener,2011,1,06PU6
+QUAC,200 M Breaststroke,SCM,M,40-44,3:53.68,Kevin L McDaniel,,JCC Fall Opener,2011,1,06PU6
+QUAC,50 M Butterfly,SCM,M,40-44,51.26,Matt Furness,,JCC Fall Opener,2011,1,0049X
+QUAC,100 M Individual Medley,SCM,M,40-44,1:42.64,Matt Furness,,JCC Fall Opener,2011,1,0049X
+QUAC,200 M Individual Medley,SCM,M,40-44,3:56.17,Matt Furness,,JCC Fall Opener,2011,1,0049X
+SALT,100 M Freestyle,SCM,M,18-24,1:02.71,Brandon S Slaugh,,JCC Fall Opener,2011,1,07GFT
+SALT,200 M Freestyle,SCM,M,18-24,2:15.49,Brandon S Slaugh,,JCC Fall Opener,2011,1,07GFT
+SALT,400 M Freestyle,SCM,M,18-24,5:01.60,Brandon S Slaugh,,JCC Fall Opener,2011,1,07GFT
+SALT,800 M Freestyle,SCM,M,18-24,10:26.67,Brandon S Slaugh,,JCC Fall Opener,2011,1,07GFT
+SALT,200 M Individual Medley,SCM,M,18-24,2:35.30,Brandon S Slaugh,,JCC Fall Opener,2011,1,07GFT
+UNAT,50 M Freestyle,SCM,W,30-34,51.78,Rachel A Wagner,,JCC Fall Opener,2011,1,07GE1
+UNAT,200 M Freestyle,SCM,W,30-34,5:01.39,Rachel A Wagner,,JCC Fall Opener,2011,1,07GE1
+UNAT,400 M Freestyle,SCM,W,30-34,10:28.38,Rachel A Wagner,,JCC Fall Opener,2011,1,07GE1
+UNAT,50 M Freestyle,SCM,W,40-44,34.71,Tracey Perks,,JCC Fall Opener,2011,1,06E3J
+UNAT,100 M Freestyle,SCM,W,40-44,1:21.82,Tracey Perks,,JCC Fall Opener,2011,1,06E3J
+UNAT,200 M Freestyle,SCM,W,40-44,3:05.87,Tracey Perks,,JCC Fall Opener,2011,1,06E3J
+UNAT,50 M Backstroke,SCM,W,40-44,44.33,Tracey Perks,,JCC Fall Opener,2011,1,06E3J
+UNAT,50 M Butterfly,SCM,W,40-44,44.48,Tracey Perks,,JCC Fall Opener,2011,1,06E3J
+UNAT,50 M Freestyle,SCM,W,50-54,46.25,Joanna Harmon,,JCC Fall Opener,2011,1,070HG
+UNAT,200 M Freestyle,SCM,W,50-54,3:56.39,Joanna Harmon,,Huntsman Senior Games,2011,1,070HG
+UNAT,800 M Freestyle,SCM,W,50-54,17:11.97,Joanna Harmon,,JCC Fall Opener,2011,1,070HG
+UNAT,1500 M Freestyle,SCM,W,50-54,32:20.89,Joanna Harmon,,Huntsman Senior Games,2011,1,070HG
+UNAT,50 M Backstroke,SCM,W,50-54,1:21.11,Joanna Harmon,,JCC Fall Opener,2011,1,070HG
+UNAT,100 M Backstroke,SCM,W,50-54,2:25.22,Joanna Harmon,,Huntsman Senior Games,2011,1,070HG
+UNAT,50 M Butterfly,SCM,W,50-54,57.23,Joanna Harmon,,JCC Fall Opener,2011,1,070HG
+UNAT,50 M Freestyle,SCM,W,60-64,57.62,Sharyle Karren,,Huntsman Senior Games,2011,1,06Y21
+UNAT,100 M Freestyle,SCM,W,60-64,2:22.43,Sharyle Karren,,Huntsman Senior Games,2011,1,06Y21
+UNAT,200 M Freestyle,SCM,W,60-64,5:30.14,Sharyle Karren,,Huntsman Senior Games,2011,1,06Y21
+UNAT,50 M Breaststroke,SCM,W,60-64,1:09.77,Sharyle Karren,,Huntsman Senior Games,2011,1,06Y21
+UNAT,100 M Breaststroke,SCM,W,60-64,2:36.87,Sharyle Karren,,Huntsman Senior Games,2011,1,06Y21
+UNAT,200 M Breaststroke,SCM,W,60-64,5:56.04,Sharyle Karren,,Huntsman Senior Games,2011,1,06Y21
+UNAT,50 M Freestyle,SCM,M,25-29,32.51,Parker Jones,,JCC Fall Opener,2011,1,0730T
+UNAT,100 M Freestyle,SCM,M,25-29,1:16.64,Parker Jones,,JCC Fall Opener,2011,1,0730T
+UNAT,200 M Freestyle,SCM,M,25-29,2:49.82,Parker Jones,,JCC Fall Opener,2011,1,0730T
+UNAT,50 M Freestyle,SCM,M,45-49,44.21,Kelly Killpack,,JCC Fall Opener,2011,1,07G5F
+UNAT,50 M Freestyle,SCM,M,50-54,31.07,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,100 M Freestyle,SCM,M,50-54,1:08.75,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,200 M Freestyle,SCM,M,50-54,2:38.97,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,50 M Backstroke,SCM,M,50-54,39.25,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,100 M Backstroke,SCM,M,50-54,1:31.43,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,100 M Individual Medley,SCM,M,50-54,1:25.18,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,200 M Individual Medley,SCM,M,50-54,3:15.88,Tom Lybyer,,Huntsman Senior Games,2011,1,072GF
+UNAT,400 M Freestyle,SCM,M,55-59,6:39.01,Kevin B Johnson,,Huntsman Senior Games,2011,1,003YP
+UNAT,800 M Freestyle,SCM,M,55-59,13:54.14,Kevin B Johnson,,JCC Fall Opener,2011,1,003YP
+UNAT,50 M Backstroke,SCM,M,55-59,39.45,Kevin B Johnson,,Huntsman Senior Games,2011,1,003YP
+UNAT,100 M Backstroke,SCM,M,55-59,1:27.10,Kevin B Johnson,,Huntsman Senior Games,2011,1,003YP
+UNAT,200 M Backstroke,SCM,M,55-59,3:09.30,Kevin B Johnson,,JCC Fall Opener,2011,1,003YP
+UNAT,100 M Breaststroke,SCM,M,55-59,1:43.72,Kevin B Johnson,,Huntsman Senior Games,2011,1,003YP
+UNAT,200 M Breaststroke,SCM,M,55-59,3:43.00,Kevin B Johnson,,Huntsman Senior Games,2011,1,003YP
+UNAT,100 M Individual Medley,SCM,M,55-59,1:32.10,Kevin B Johnson,,Huntsman Senior Games,2011,1,003YP
+UTAH,50 M Freestyle,SCM,W,18-24,31.94,Maleia M Boyd,,JCC Fall Opener,2011,1,07747
+UTAH,50 M Freestyle,SCM,W,18-24,32.71,Anita Priddis,,JCC Fall Opener,2011,2,070UE
+UTAH,100 M Freestyle,SCM,W,18-24,1:12.27,Anita Priddis,,JCC Fall Opener,2011,1,070UE
+UTAH,200 M Freestyle,SCM,W,18-24,2:45.13,Anita Priddis,,JCC Fall Opener,2011,1,070UE
+UTAH,200 M Freestyle,SCM,W,18-24,2:48.89,Maleia M Boyd,,JCC Fall Opener,2011,2,07747
+UTAH,50 M Backstroke,SCM,W,18-24,40.72,Maleia M Boyd,,JCC Fall Opener,2011,1,07747
+UTAH,100 M Freestyle,SCM,W,25-29,1:16.03,Sarah Hart-Mudge,,3rd Annual Whidbey Island,2011,1,02CTJ
+UTAH,1500 M Freestyle,SCM,W,25-29,22:09.12,Sarah Hart-Mudge,,3rd Annual Whidbey Island,2011,1,02CTJ
+UTAH,100 M Backstroke,SCM,W,25-29,1:22.77,Sarah Hart-Mudge,,3rd Annual Whidbey Island,2011,1,02CTJ
+UTAH,100 M Individual Medley,SCM,W,25-29,1:27.16,Sarah Hart-Mudge,,3rd Annual Whidbey Island,2011,1,02CTJ
+UTAH,200 M Individual Medley,SCM,W,25-29,3:02.22,Sarah Hart-Mudge,,3rd Annual Whidbey Island,2011,1,02CTJ
+UTAH,50 M Backstroke,SCM,W,30-34,47.32,Erin B Jensen,,JCC Fall Opener,2011,1,003ZE
+UTAH,200 M Backstroke,SCM,W,30-34,3:31.63,Erin B Jensen,,JCC Fall Opener,2011,1,003ZE
+UTAH,400 M Individual Medley,SCM,W,30-34,7:32.00,Erin B Jensen,,JCC Fall Opener,2011,1,003ZE
+UTAH,50 M Freestyle,SCM,W,35-39,29.85,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,100 M Freestyle,SCM,W,35-39,1:10.93,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,200 M Freestyle,SCM,W,35-39,2:29.89,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,50 M Backstroke,SCM,W,35-39,37.32,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,50 M Breaststroke,SCM,W,35-39,41.19,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,100 M Breaststroke,SCM,W,35-39,1:28.95,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,50 M Butterfly,SCM,W,35-39,34.77,Julie Tate,,JCC Fall Opener,2011,1,076MA
+UTAH,50 M Freestyle,SCM,W,45-49,38.70,Nancy C Hughes,,JCC Fall Opener,2011,1,06TEV
+UTAH,50 M Breaststroke,SCM,W,45-49,47.77,Nancy C Hughes,,JCC Fall Opener,2011,1,06TEV
+UTAH,100 M Breaststroke,SCM,W,45-49,1:50.69,Nancy C Hughes,,JCC Fall Opener,2011,1,06TEV
+UTAH,200 M Freestyle,SCM,W,50-54,4:14.50,Christina M Gorzalski,,Huntsman Senior Games,2011,1,06J9Z
+UTAH,50 M Breaststroke,SCM,W,50-54,44.63,Debra S Penney,,JCC Fall Opener,2011,1,05F5K
+UTAH,100 M Breaststroke,SCM,W,50-54,1:35.69,Debra S Penney,,JCC Fall Opener,2011,1,05F5K
+UTAH,200 M Breaststroke,SCM,W,50-54,3:26.27,Debra S Penney,,JCC Fall Opener,2011,1,05F5K
+UTAH,100 M Individual Medley,SCM,W,50-54,1:32.61,Debra S Penney,,JCC Fall Opener,2011,1,05F5K
+UTAH,200 M Individual Medley,SCM,W,50-54,3:14.44,Debra S Penney,,JCC Fall Opener,2011,1,05F5K
+UTAH,50 M Freestyle,SCM,W,55-59,33.72,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,100 M Freestyle,SCM,W,55-59,1:16.45,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,200 M Freestyle,SCM,W,55-59,2:50.16,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,400 M Freestyle,SCM,W,55-59,6:02.41,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,400 M Freestyle,SCM,W,55-59,6:08.20,Cindy Gilmore,,Huntsman Senior Games,2011,2,05J4V
+UTAH,400 M Freestyle,SCM,W,55-59,8:54.89,Mary M Mallon,,JCC Fall Opener,2011,3,003YD
+UTAH,50 M Backstroke,SCM,W,55-59,40.72,Cindy Gilmore,,Huntsman Senior Games,2011,1,05J4V
+UTAH,100 M Backstroke,SCM,W,55-59,1:25.84,Cindy Gilmore,,Huntsman Senior Games,2011,1,05J4V
+UTAH,200 M Backstroke,SCM,W,55-59,3:06.48,Cindy Gilmore,,Huntsman Senior Games,2011,1,05J4V
+UTAH,50 M Breaststroke,SCM,W,55-59,42.84,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,50 M Breaststroke,SCM,W,55-59,46.64,Cindy Gilmore,,Huntsman Senior Games,2011,2,05J4V
+UTAH,100 M Breaststroke,SCM,W,55-59,1:36.98,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,100 M Breaststroke,SCM,W,55-59,1:40.95,Cindy Gilmore,,Huntsman Senior Games,2011,2,05J4V
+UTAH,100 M Breaststroke,SCM,W,55-59,2:10.69,Mary M Mallon,,JCC Fall Opener,2011,3,003YD
+UTAH,200 M Breaststroke,SCM,W,55-59,3:29.37,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,200 M Breaststroke,SCM,W,55-59,3:32.20,Cindy Gilmore,,Huntsman Senior Games,2011,2,05J4V
+UTAH,200 M Breaststroke,SCM,W,55-59,4:40.94,Mary M Mallon,,JCC Fall Opener,2011,3,003YD
+UTAH,100 M Individual Medley,SCM,W,55-59,1:26.44,Dorothy Maryon,,Huntsman Senior Games,2011,1,004BY
+UTAH,100 M Individual Medley,SCM,W,55-59,1:27.89,Cindy Gilmore,,Huntsman Senior Games,2011,2,05J4V
+UTAH,200 M Individual Medley,SCM,W,55-59,3:17.46,Cindy Gilmore,,Huntsman Senior Games,2011,1,05J4V
+UTAH,50 M Freestyle,SCM,W,60-64,42.47,Lorinda E Luck,,2011 AZ Masters SCM State Championship,2011,1,0041A
+UTAH,200 M Freestyle,SCM,W,60-64,3:01.41,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,400 M Freestyle,SCM,W,60-64,6:24.87,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,800 M Freestyle,SCM,W,60-64,12:59.73,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,1500 M Freestyle,SCM,W,60-64,24:31.09,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,50 M Backstroke,SCM,W,60-64,42.57,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,50 M Backstroke,SCM,W,60-64,58.42,Lorinda E Luck,,2011 AZ Masters SCM State Championship,2011,2,0041A
+UTAH,100 M Backstroke,SCM,W,60-64,1:31.60,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,200 M Backstroke,SCM,W,60-64,3:13.06,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,200 M Breaststroke,SCM,W,60-64,3:58.47,Lorinda E Luck,,2011 AZ Masters SCM State Championship,2011,1,0041A
+UTAH,200 M Butterfly,SCM,W,60-64,4:08.93,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,200 M Individual Medley,SCM,W,60-64,3:25.07,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,400 M Individual Medley,SCM,W,60-64,7:23.26,Carolyn B Lyman,,Huntsman Senior Games,2011,1,00440
+UTAH,50 M Freestyle,SCM,W,70-74,47.69,Lynne H Lund,,JCC Fall Opener,2011,1,02BUP
+UTAH,50 M Freestyle,SCM,W,70-74,1:00.77,Kathie Villard,,Huntsman Senior Games,2011,2,05XJW
+UTAH,100 M Freestyle,SCM,W,70-74,1:48.87,Lynne H Lund,,JCC Fall Opener,2011,1,02BUP
+UTAH,100 M Freestyle,SCM,W,70-74,2:18.87,Kathie Villard,,Huntsman Senior Games,2011,2,05XJW
+UTAH,200 M Freestyle,SCM,W,70-74,3:47.18,Lynne H Lund,,JCC Fall Opener,2011,1,02BUP
+UTAH,400 M Freestyle,SCM,W,70-74,7:53.93,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,800 M Freestyle,SCM,W,70-74,15:58.43,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,1500 M Freestyle,SCM,W,70-74,30:03.43,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,50 M Backstroke,SCM,W,70-74,1:05.38,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,100 M Backstroke,SCM,W,70-74,2:11.94,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,200 M Backstroke,SCM,W,70-74,4:29.27,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,50 M Breaststroke,SCM,W,70-74,1:02.35,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,100 M Breaststroke,SCM,W,70-74,2:17.36,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,200 M Breaststroke,SCM,W,70-74,4:45.78,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,200 M Butterfly,SCM,W,70-74,5:22.81,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,100 M Individual Medley,SCM,W,70-74,2:05.49,Lynne H Lund,,JCC Fall Opener,2011,1,02BUP
+UTAH,200 M Individual Medley,SCM,W,70-74,4:25.97,Lynne H Lund,,JCC Fall Opener,2011,1,02BUP
+UTAH,400 M Individual Medley,SCM,W,70-74,8:59.56,Lynne H Lund,,Huntsman Senior Games,2011,1,02BUP
+UTAH,400 M Freestyle,SCM,W,75-79,10:46.07,Ruth E Sluder,,Huntsman Senior Games,2011,1,05ERG
+UTAH,50 M Freestyle,SCM,M,18-24,27.09,DJ Wiley,,JCC Fall Opener,2011,1,07G82
+UTAH,100 M Freestyle,SCM,M,18-24,1:00.46,Marcus G Singleton,,JCC Fall Opener,2011,1,06U8T
+UTAH,100 M Freestyle,SCM,M,18-24,1:04.23,DJ Wiley,,JCC Fall Opener,2011,2,07G82
+UTAH,100 M Freestyle,SCM,M,18-24,1:05.14,Kyle J Neuberger,,JCC Fall Opener,2011,3,077T5
+UTAH,100 M Freestyle,SCM,M,18-24,1:09.62,Michael Welch,,JCC Fall Opener,2011,4,07FNA
+UTAH,200 M Freestyle,SCM,M,18-24,2:16.66,Marcus G Singleton,,JCC Fall Opener,2011,1,06U8T
+UTAH,200 M Freestyle,SCM,M,18-24,2:27.90,Kyle J Neuberger,,JCC Fall Opener,2011,2,077T5
+UTAH,200 M Freestyle,SCM,M,18-24,2:29.99,DJ Wiley,,JCC Fall Opener,2011,3,07G82
+UTAH,100 M Backstroke,SCM,M,18-24,1:14.08,Marcus G Singleton,,JCC Fall Opener,2011,1,06U8T
+UTAH,100 M Backstroke,SCM,M,18-24,1:20.09,Michael Welch,,JCC Fall Opener,2011,2,07FNA
+UTAH,100 M Breaststroke,SCM,M,18-24,1:16.23,William B Leonhart,,JCC Fall Opener,2011,1,07GHH
+UTAH,100 M Butterfly,SCM,M,18-24,1:16.21,Michael Welch,,JCC Fall Opener,2011,1,07FNA
+UTAH,100 M Individual Medley,SCM,M,18-24,1:08.37,William B Leonhart,,JCC Fall Opener,2011,1,07GHH
+UTAH,50 M Freestyle,SCM,M,25-29,26.09,Wesley Constandse,,JCC Fall Opener,2011,1,06SN6
+UTAH,50 M Breaststroke,SCM,M,25-29,34.59,Wesley Constandse,,JCC Fall Opener,2011,1,06SN6
+UTAH,100 M Individual Medley,SCM,M,25-29,1:11.93,Wesley Constandse,,JCC Fall Opener,2011,1,06SN6
+UTAH,100 M Freestyle,SCM,M,35-39,1:03.52,Kelly S Karren,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1,06Y20
+UTAH,50 M Backstroke,SCM,M,35-39,32.93,Kelly S Karren,,SPMA Short Course Meters Championships,2011,1,06Y20
+UTAH,100 M Backstroke,SCM,M,35-39,1:11.27,Kelly S Karren,,SPMA Short Course Meters Championships,2011,1,06Y20
+UTAH,200 M Backstroke,SCM,M,35-39,2:38.11,Kelly S Karren,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1,06Y20
+UTAH,200 M Breaststroke,SCM,M,35-39,3:08.12,Kelly S Karren,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1,06Y20
+UTAH,50 M Butterfly,SCM,M,35-39,28.95,Kelly S Karren,,SPMA Short Course Meters Championships,2011,1,06Y20
+UTAH,100 M Butterfly,SCM,M,35-39,1:09.02,Kelly S Karren,,SPMA Short Course Meters Championships,2011,1,06Y20
+UTAH,100 M Individual Medley,SCM,M,35-39,1:11.94,Kelly S Karren,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1,06Y20
+UTAH,200 M Individual Medley,SCM,M,35-39,2:44.35,Kelly S Karren,,Mission Viejo Nadadores Short Course Meters Swim Meet,2011,1,06Y20
+UTAH,400 M Individual Medley,SCM,M,35-39,5:46.90,Kelly S Karren,,SPMA Short Course Meters Championships,2011,1,06Y20
+UTAH,50 M Freestyle,SCM,M,40-44,28.11,Mark Belnap,,JCC Fall Opener,2011,1,06J0H
+UTAH,100 M Freestyle,SCM,M,40-44,1:04.77,Mark Belnap,,JCC Fall Opener,2011,1,06J0H
+UTAH,200 M Freestyle,SCM,M,40-44,2:23.28,Mark Belnap,,JCC Fall Opener,2011,1,06J0H
+UTAH,50 M Butterfly,SCM,M,40-44,31.03,Mark Belnap,,JCC Fall Opener,2011,1,06J0H
+UTAH,50 M Freestyle,SCM,M,45-49,30.89,Brad M Steinfeldt,,JCC Fall Opener,2011,1,004AV
+UTAH,100 M Freestyle,SCM,M,45-49,1:19.92,Albert H Park,,JCC Fall Opener,2011,1,05U7K
+UTAH,200 M Freestyle,SCM,M,45-49,2:56.65,Albert H Park,,JCC Fall Opener,2011,1,05U7K
+UTAH,400 M Freestyle,SCM,M,45-49,4:39.39,Dennis N Tesch,,JCC Fall Opener,2011,1,003XN
+UTAH,400 M Freestyle,SCM,M,45-49,6:23.36,Albert H Park,,JCC Fall Opener,2011,2,05U7K
+UTAH,800 M Freestyle,SCM,M,45-49,13:27.34,Albert H Park,,JCC Fall Opener,2011,1,05U7K
+UTAH,50 M Breaststroke,SCM,M,45-49,39.73,Brad M Steinfeldt,,JCC Fall Opener,2011,1,004AV
+UTAH,100 M Breaststroke,SCM,M,45-49,1:26.32,Brad M Steinfeldt,,JCC Fall Opener,2011,1,004AV
+UTAH,400 M Individual Medley,SCM,M,45-49,5:31.65,Dennis N Tesch,,JCC Fall Opener,2011,1,003XN
+UTAH,800 M Freestyle,SCM,M,50-54,10:06.83,David Lundberg,,Huntsman Senior Games,2011,1,00643
+UTAH,50 M Backstroke,SCM,M,50-54,30.36,David Lundberg,,Huntsman Senior Games,2011,1,00643
+UTAH,100 M Breaststroke,SCM,M,50-54,1:37.59,Garth E Sears,,Huntsman Senior Games,2011,1,070VZ
+UTAH,50 M Butterfly,SCM,M,50-54,40.16,Garth E Sears,,Huntsman Senior Games,2011,1,070VZ
+UTAH,100 M Individual Medley,SCM,M,50-54,1:04.99,David Lundberg,,Huntsman Senior Games,2011,1,00643
+UTAH,400 M Individual Medley,SCM,M,50-54,5:19.46,David Lundberg,,Huntsman Senior Games,2011,1,00643
+UTAH,50 M Backstroke,SCM,M,55-59,36.26,Roger S Bruford,,JCC Fall Opener,2011,1,06RPP
+UTAH,50 M Butterfly,SCM,M,55-59,38.12,Roger S Bruford,,JCC Fall Opener,2011,1,06RPP
+UTAH,50 M Butterfly,SCM,M,55-59,48.27,Christopher R Mart,,Huntsman Senior Games,2011,2,0048R
+UTAH,200 M Butterfly,SCM,M,55-59,5:19.66,Christopher R Mart,,Huntsman Senior Games,2011,1,0048R
+UTAH,100 M Individual Medley,SCM,M,55-59,1:19.09,Roger S Bruford,,JCC Fall Opener,2011,1,06RPP
+UTAH,50 M Freestyle,SCM,M,60-64,29.81,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,50 M Freestyle,SCM,M,60-64,34.72,Kelsey Williams,,Huntsman Senior Games,2011,2,02D2F
+UTAH,100 M Freestyle,SCM,M,60-64,1:07.58,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,400 M Freestyle,SCM,M,60-64,5:16.05,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,800 M Freestyle,SCM,M,60-64,11:05.42,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,1500 M Freestyle,SCM,M,60-64,21:00.03,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,50 M Butterfly,SCM,M,60-64,31.29,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,50 M Butterfly,SCM,M,60-64,39.04,Kelsey Williams,,Huntsman Senior Games,2011,2,02D2F
+UTAH,100 M Butterfly,SCM,M,60-64,1:09.91,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,200 M Butterfly,SCM,M,60-64,2:53.29,Fred C Baird,,Huntsman Senior Games,2011,1,0042P
+UTAH,50 M Freestyle,SCM,M,70-74,45.14,Phil E Cherry,,JCC Fall Opener,2011,1,003Y1
+UTAH,50 M Backstroke,SCM,M,70-74,56.48,Phil E Cherry,,JCC Fall Opener,2011,1,003Y1
+UTAH,50 M Breaststroke,SCM,M,70-74,52.87,Phil E Cherry,,JCC Fall Opener,2011,1,003Y1
+UTAH,100 M Breaststroke,SCM,M,70-74,1:58.70,Phil E Cherry,,JCC Fall Opener,2011,1,003Y1
+UTAH,200 M Breaststroke,SCM,M,70-74,4:26.90,Phil E Cherry,,JCC Fall Opener,2011,1,003Y1
+UTAH,50 M Backstroke,SCM,M,80-84,48.03,Horace S Knowlton,,Huntsman Senior Games,2011,1,00425
+UTAH,50 M Backstroke,SCM,M,80-84,1:02.30,Robert L Sears,,Huntsman Senior Games,2011,2,04MMS
+UTAH,100 M Backstroke,SCM,M,80-84,1:44.08,Horace S Knowlton,,Huntsman Senior Games,2011,1,00425
+UTAH,100 M Backstroke,SCM,M,80-84,2:22.08,Robert L Sears,,Huntsman Senior Games,2011,2,04MMS
+UTAH,200 M Backstroke,SCM,M,80-84,3:48.89,Horace S Knowlton,,Huntsman Senior Games,2011,1,00425
+UTAH,200 M Backstroke,SCM,M,80-84,4:40.03,Paul (Biff) Lowry,,Huntsman Senior Games,2011,2,03ARJ
+UTAH,100 M Breaststroke,SCM,M,80-84,2:30.48,Robert L Sears,,Huntsman Senior Games,2011,1,04MMS

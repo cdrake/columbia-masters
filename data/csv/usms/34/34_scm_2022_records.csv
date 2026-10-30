@@ -1,0 +1,141 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+LMMC,50 M Freestyle,SCM,M,65-69,30.15,David C Widtfeldt,,Huntsman World Senior Games,2022,1,06VUN
+LMMC,100 M Freestyle,SCM,M,65-69,1:09.70,David C Widtfeldt,,Huntsman World Senior Games,2022,1,06VUN
+LMMC,50 M Butterfly,SCM,M,65-69,32.71,David C Widtfeldt,,Huntsman World Senior Games,2022,1,06VUN
+LMMC,100 M Individual Medley,SCM,M,65-69,1:20.78,David C Widtfeldt,,Huntsman World Senior Games,2022,1,06VUN
+SALT,50 M Freestyle,SCM,M,60-64,33.43,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,100 M Freestyle,SCM,M,60-64,1:16.48,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,50 M Breaststroke,SCM,M,60-64,40.16,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,100 M Breaststroke,SCM,M,60-64,1:32.40,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,200 M Breaststroke,SCM,M,60-64,3:31.74,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,50 M Butterfly,SCM,M,60-64,36.25,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,100 M Butterfly,SCM,M,60-64,1:37.22,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SALT,200 M Butterfly,SCM,M,60-64,3:56.57,Robert Olson,,Huntsman World Senior Games,2022,1,045X6
+SDMST,50 M Backstroke,SCM,M,60-64,38.94,Patrick J Russell,,Huntsman World Senior Games,2022,1,072GG
+SDMST,100 M Backstroke,SCM,M,60-64,1:23.70,Patrick J Russell,,Huntsman World Senior Games,2022,1,072GG
+SDMST,50 M Breaststroke,SCM,M,60-64,41.32,Patrick J Russell,,Huntsman World Senior Games,2022,1,072GG
+SDMST,100 M Individual Medley,SCM,M,60-64,1:24.76,Patrick J Russell,,Huntsman World Senior Games,2022,1,072GG
+TM,50 M Freestyle,SCM,W,65-69,37.99,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,100 M Freestyle,SCM,W,65-69,1:19.87,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,50 M Backstroke,SCM,W,65-69,42.02,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,100 M Backstroke,SCM,W,65-69,1:32.89,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,200 M Backstroke,SCM,W,65-69,3:15.33,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,50 M Breaststroke,SCM,W,65-69,46.82,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,100 M Individual Medley,SCM,W,65-69,1:32.43,Cindy Gilmore,,Huntsman World Senior Games,2022,1,05J4V
+TM,50 M Freestyle,SCM,W,70-74,39.12,Mary C Smith,,Huntsman World Senior Games,2022,1,0APMS
+TM,50 M Breaststroke,SCM,W,70-74,53.10,Mary C Smith,,Huntsman World Senior Games,2022,1,0APMS
+TM,100 M Individual Medley,SCM,W,70-74,1:47.62,Mary C Smith,,Huntsman World Senior Games,2022,1,0APMS
+TM,50 M Freestyle,SCM,M,50-54,31.50,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,50 M Freestyle,SCM,M,50-54,35.17,Paul Goodin,,Huntsman World Senior Games,2022,2,CHETF
+TM,100 M Freestyle,SCM,M,50-54,1:11.35,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,200 M Freestyle,SCM,M,50-54,2:42.12,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,50 M Backstroke,SCM,M,50-54,38.95,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,50 M Backstroke,SCM,M,50-54,44.88,Paul Goodin,,Huntsman World Senior Games,2022,2,CHETF
+TM,50 M Breaststroke,SCM,M,50-54,45.42,Paul Goodin,,Huntsman World Senior Games,2022,1,CHETF
+TM,50 M Butterfly,SCM,M,50-54,35.33,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,100 M Individual Medley,SCM,M,50-54,1:24.72,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,200 M Individual Medley,SCM,M,50-54,3:23.12,Sterling Cabana,,Huntsman World Senior Games,2022,1,0749A
+TM,50 M Freestyle,SCM,M,70-74,47.05,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,100 M Freestyle,SCM,M,70-74,1:26.97,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,200 M Freestyle,SCM,M,70-74,3:08.18,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,400 M Freestyle,SCM,M,70-74,6:39.18,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,800 M Freestyle,SCM,M,70-74,13:41.94,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,1500 M Freestyle,SCM,M,70-74,26:24.15,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,50 M Breaststroke,SCM,M,70-74,47.01,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,100 M Breaststroke,SCM,M,70-74,1:45.37,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+TM,200 M Breaststroke,SCM,M,70-74,3:49.76,Bruce Schroeder,,Huntsman World Senior Games,2022,1,088HG
+UC34,50 M Freestyle,SCM,W,60-64,53.64,Stacy S Johnson,,Huntsman World Senior Games,2022,1,062A1
+UC34,100 M Freestyle,SCM,W,60-64,2:09.26,Stacy S Johnson,,Huntsman World Senior Games,2022,1,062A1
+UC34,50 M Breaststroke,SCM,W,60-64,1:14.62,Stacy S Johnson,,Huntsman World Senior Games,2022,1,062A1
+UC34,50 M Butterfly,SCM,W,60-64,1:26.99,Stacy S Johnson,,Huntsman World Senior Games,2022,1,062A1
+UC34,100 M Individual Medley,SCM,W,60-64,2:32.39,Stacy S Johnson,,Huntsman World Senior Games,2022,1,062A1
+UC34,50 M Freestyle,SCM,W,65-69,34.95,Teresa J Weydert,,Huntsman World Senior Games,2022,1,00891
+UC34,100 M Freestyle,SCM,W,65-69,1:20.73,Teresa J Weydert,,Huntsman World Senior Games,2022,1,00891
+UC34,100 M Individual Medley,SCM,W,65-69,1:38.79,Teresa J Weydert,,Huntsman World Senior Games,2022,1,00891
+UC34,400 M Freestyle,SCM,M,55-59,5:40.07,Sean McNeal,,Huntsman World Senior Games,2022,1,9PB41
+UC34,50 M Backstroke,SCM,M,55-59,37.81,Sean McNeal,,Huntsman World Senior Games,2022,1,9PB41
+UC34,100 M Backstroke,SCM,M,55-59,1:23.89,Sean McNeal,,Huntsman World Senior Games,2022,1,9PB41
+UC34,200 M Breaststroke,SCM,M,55-59,3:25.20,Sean McNeal,,Huntsman World Senior Games,2022,1,9PB41
+UC34,50 M Butterfly,SCM,M,55-59,36.66,Sean McNeal,,Huntsman World Senior Games,2022,1,9PB41
+UC34,100 M Individual Medley,SCM,M,55-59,1:22.07,Sean McNeal,,Huntsman World Senior Games,2022,1,9PB41
+UC34,100 M Freestyle,SCM,M,60-64,1:16.82,Paul M Havick,,Huntsman World Senior Games,2022,1,01H64
+UC34,400 M Freestyle,SCM,M,60-64,6:19.52,Paul M Havick,,Huntsman World Senior Games,2022,1,01H64
+UC34,50 M Backstroke,SCM,M,60-64,44.97,Paul M Havick,,Huntsman World Senior Games,2022,1,01H64
+UC34,200 M Backstroke,SCM,M,60-64,2:51.99,Gerald S Treiman,,Mission Viejo Nadadores Masters Short Course Meters Meet,2022,1,0043A
+UC34,50 M Freestyle,SCM,M,65-69,30.29,Fred Axelgard,,Huntsman World Senior Games,2022,1,FWAXE
+UC34,50 M Freestyle,SCM,M,65-69,33.61,David A Cox,,Huntsman World Senior Games,2022,2,0AJAC
+UC34,100 M Freestyle,SCM,M,65-69,1:07.79,Fred Axelgard,,Huntsman World Senior Games,2022,1,FWAXE
+UC34,100 M Freestyle,SCM,M,65-69,1:19.61,David A Cox,,Huntsman World Senior Games,2022,2,0AJAC
+UC34,200 M Freestyle,SCM,M,65-69,2:36.94,Fred Axelgard,,Huntsman World Senior Games,2022,1,FWAXE
+UC34,200 M Freestyle,SCM,M,65-69,3:00.39,David A Cox,,Huntsman World Senior Games,2022,2,0AJAC
+UC34,400 M Freestyle,SCM,M,65-69,6:28.81,David A Cox,,Huntsman World Senior Games,2022,1,0AJAC
+UC34,50 M Butterfly,SCM,M,65-69,40.98,David A Cox,,Huntsman World Senior Games,2022,1,0AJAC
+UC34,100 M Freestyle,SCM,M,70-74,1:09.11,Mark Barrand,,Huntsman World Senior Games,2022,1,0823H
+UC34,50 M Backstroke,SCM,M,70-74,37.09,Mark Barrand,,Huntsman World Senior Games,2022,1,0823H
+UC34,100 M Backstroke,SCM,M,70-74,1:21.18,Mark Barrand,,Huntsman World Senior Games,2022,1,0823H
+UC34,200 M Backstroke,SCM,M,70-74,3:03.68,Mark Barrand,,Huntsman World Senior Games,2022,1,0823H
+UC34,100 M Individual Medley,SCM,M,70-74,1:19.37,Mark Barrand,,Huntsman World Senior Games,2022,1,0823H
+UC34,200 M Individual Medley,SCM,M,70-74,2:58.58,Mark Barrand,,Huntsman World Senior Games,2022,1,0823H
+UC34,400 M Freestyle,SCM,M,75-79,6:28.01,Dennis R Meyring,,Huntsman World Senior Games,2022,1,004BU
+UC34,800 M Freestyle,SCM,M,75-79,13:47.48,Dennis R Meyring,,Huntsman World Senior Games,2022,1,004BU
+UC34,1500 M Freestyle,SCM,M,75-79,26:38.25,Dennis R Meyring,,Huntsman World Senior Games,2022,1,004BU
+UTAH,400 M Freestyle,SCM,W,70-74,6:44.79,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,800 M Freestyle,SCM,W,70-74,13:46.63,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,1500 M Freestyle,SCM,W,70-74,26:09.50,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,50 M Backstroke,SCM,W,70-74,47.79,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,100 M Backstroke,SCM,W,70-74,1:46.01,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,200 M Backstroke,SCM,W,70-74,3:43.03,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,100 M Breaststroke,SCM,W,70-74,1:58.49,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,100 M Individual Medley,SCM,W,70-74,1:46.39,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,400 M Individual Medley,SCM,W,70-74,8:07.48,Carolyn B Lyman,,Huntsman World Senior Games,2022,1,00440
+UTAH,50 M Freestyle,SCM,W,80-84,1:02.03,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,100 M Freestyle,SCM,W,80-84,2:08.09,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,200 M Freestyle,SCM,W,80-84,4:23.65,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,400 M Freestyle,SCM,W,80-84,8:48.73,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,800 M Freestyle,SCM,W,80-84,16:39.86,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,1500 M Freestyle,SCM,W,80-84,32:39.07,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,50 M Backstroke,SCM,W,80-84,1:15.06,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,100 M Backstroke,SCM,W,80-84,2:33.04,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,200 M Backstroke,SCM,W,80-84,5:06.72,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,50 M Breaststroke,SCM,W,80-84,1:27.09,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,100 M Breaststroke,SCM,W,80-84,3:01.78,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,200 M Breaststroke,SCM,W,80-84,6:09.24,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,50 M Butterfly,SCM,W,80-84,1:16.83,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,100 M Butterfly,SCM,W,80-84,2:50.51,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,200 M Butterfly,SCM,W,80-84,6:14.91,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,100 M Individual Medley,SCM,W,80-84,2:23.65,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,200 M Individual Medley,SCM,W,80-84,5:13.22,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,400 M Individual Medley,SCM,W,80-84,10:26.29,Lynne H Lund,,Huntsman World Senior Games,2022,1,02BUP
+UTAH,400 M Freestyle,SCM,M,55-59,7:23.90,Pete Bowden,,Huntsman World Senior Games,2022,1,VCWTR
+UTAH,800 M Freestyle,SCM,M,55-59,15:11.21,Pete Bowden,,Huntsman World Senior Games,2022,1,VCWTR
+UTAH,1500 M Freestyle,SCM,M,55-59,28:56.70,Pete Bowden,,Huntsman World Senior Games,2022,1,VCWTR
+UTAH,400 M Freestyle,SCM,M,65-69,7:56.96,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,800 M Freestyle,SCM,M,65-69,16:22.10,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,1500 M Freestyle,SCM,M,65-69,32:06.18,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,50 M Backstroke,SCM,M,65-69,45.71,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,100 M Backstroke,SCM,M,65-69,1:42.95,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,200 M Backstroke,SCM,M,65-69,3:47.41,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,50 M Breaststroke,SCM,M,65-69,55.02,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,100 M Breaststroke,SCM,M,65-69,1:59.69,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,200 M Breaststroke,SCM,M,65-69,4:22.62,Kevin B Johnson,,Huntsman World Senior Games,2022,1,003YP
+UTAH,50 M Freestyle,SCM,M,70-74,38.75,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,100 M Freestyle,SCM,M,70-74,1:29.52,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,200 M Freestyle,SCM,M,70-74,3:07.15,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,400 M Freestyle,SCM,M,70-74,6:32.73,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,800 M Freestyle,SCM,M,70-74,13:28.20,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,1500 M Freestyle,SCM,M,70-74,25:08.40,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,100 M Breaststroke,SCM,M,70-74,1:50.88,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,200 M Breaststroke,SCM,M,70-74,3:49.75,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,100 M Individual Medley,SCM,M,70-74,1:49.77,William Cerny,,Huntsman World Senior Games,2022,1,003YW
+UTAH,50 M Breaststroke,SCM,M,85-89,1:28.52,Ulrich Scholz,,Huntsman World Senior Games,2022,1,JWERN
+UTAH,100 M Breaststroke,SCM,M,85-89,3:45.45,Ulrich Scholz,,Huntsman World Senior Games,2022,1,JWERN
+UTAH,200 M Breaststroke,SCM,M,85-89,8:26.38,Ulrich Scholz,,Huntsman World Senior Games,2022,1,JWERN
+WSG,50 M Freestyle,SCM,M,65-69,36.17,Kevin Moyle,,Huntsman World Senior Games,2022,1,09HSU
+WSG,100 M Freestyle,SCM,M,65-69,1:21.19,Kevin Moyle,,Huntsman World Senior Games,2022,1,09HSU
+WSG,200 M Freestyle,SCM,M,65-69,3:14.91,Kevin Moyle,,Huntsman World Senior Games,2022,1,09HSU
+WSG,50 M Freestyle,SCM,M,70-74,32.83,Steven L Oliver,,Huntsman World Senior Games,2022,1,07NAS
+WSG,100 M Freestyle,SCM,M,70-74,1:21.43,Steven L Oliver,,Huntsman World Senior Games,2022,1,07NAS
+WSG,50 M Backstroke,SCM,M,70-74,42.93,Steven L Oliver,,Huntsman World Senior Games,2022,1,07NAS
+WSG,50 M Butterfly,SCM,M,70-74,40.42,Steven L Oliver,,Huntsman World Senior Games,2022,1,07NAS
+WSG,100 M Individual Medley,SCM,M,70-74,1:32.58,Steven L Oliver,,Huntsman World Senior Games,2022,1,07NAS
+WSG,50 M Backstroke,SCM,M,75-79,45.92,john T kesler,,Huntsman World Senior Games,2022,1,V2XGN

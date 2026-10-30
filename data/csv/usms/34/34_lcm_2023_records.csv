@@ -1,0 +1,53 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+HAMR,50 M Backstroke,LCM,M,25-29,35.94,Calvin L Smith,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MTR81
+HAMR,100 M Backstroke,LCM,M,25-29,1:16.83,Calvin L Smith,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MTR81
+HAMR,200 M Backstroke,LCM,M,25-29,2:44.79,Calvin L Smith,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MTR81
+HAMR,50 M Freestyle,LCM,M,55-59,32.86,Michael E Wynn,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,R4H44
+HAMR,100 M Freestyle,LCM,M,55-59,1:15.94,Michael E Wynn,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,R4H44
+HAMR,50 M Butterfly,LCM,M,55-59,38.00,Michael E Wynn,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,R4H44
+LMMC,50 M Freestyle,LCM,M,65-69,31.56,David Widtfeldt,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,06VUN
+LMMC,100 M Freestyle,LCM,M,65-69,1:12.15,David Widtfeldt,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,06VUN
+OMAC,50 M Freestyle,LCM,M,35-39,31.46,Ryan Schuetzler,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,ZAU65
+OMAC,100 M Breaststroke,LCM,M,35-39,1:35.61,Ryan Schuetzler,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,ZAU65
+OMAC,100 M Butterfly,LCM,M,35-39,1:25.02,Ryan Schuetzler,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,ZAU65
+OMAC,200 M Individual Medley,LCM,M,35-39,3:00.95,Ryan Schuetzler,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,ZAU65
+OMAC,100 M Freestyle,LCM,M,40-44,1:14.65,Ben Spackensen,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,UYER0
+OMAC,200 M Freestyle,LCM,M,40-44,2:45.52,Ben Spackensen,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,UYER0
+OMAC,400 M Freestyle,LCM,M,40-44,6:25.88,Ben Spackensen,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,UYER0
+QUAC,50 M Backstroke,LCM,M,70-74,1:08.70,Thomas Meyer,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,9SY4J
+QUAC,100 M Backstroke,LCM,M,70-74,2:33.60,Thomas Meyer,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,9SY4J
+QUAC,200 M Backstroke,LCM,M,70-74,5:36.78,Thomas Meyer,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,9SY4J
+SALT,50 M Breaststroke,LCM,M,60-64,42.08,Robert Olson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,045X6
+SALT,200 M Breaststroke,LCM,M,60-64,3:46.65,Robert Olson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,045X6
+SALT,50 M Butterfly,LCM,M,60-64,39.25,Robert Olson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,045X6
+SDMST,1500 M Freestyle,LCM,M,70-74,31:11.26,David H Robbins,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,081GA
+SDMST,400 M Individual Medley,LCM,M,70-74,9:18.94,David H Robbins,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,081GA
+TM,400 M Freestyle,LCM,W,70-74,7:16.00,Carolyn B Lyman,,2023 U.S. Masters Swimming Summer National Championship,2023,1,00440
+TM,1500 M Freestyle,LCM,W,70-74,28:13.17,Carolyn B Lyman,,2023 U.S. Masters Swimming Summer National Championship,2023,1,00440
+TM,50 M Backstroke,LCM,W,70-74,50.67,Carolyn B Lyman,,2023 U.S. Masters Swimming Summer National Championship,2023,1,00440
+TM,100 M Backstroke,LCM,W,70-74,1:51.52,Carolyn B Lyman,,2023 U.S. Masters Swimming Summer National Championship,2023,1,00440
+TM,50 M Breaststroke,LCM,W,70-74,1:11.74,Carolyn B Lyman,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,00440
+TM,100 M Breaststroke,LCM,W,70-74,2:05.81,Carolyn B Lyman,,2023 U.S. Masters Swimming Summer National Championship,2023,1,00440
+UC34,50 M Freestyle,LCM,W,35-39,46.08,Wendy Glackin,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,6MDSV
+UC34,100 M Freestyle,LCM,W,35-39,1:42.47,Wendy Glackin,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,6MDSV
+UC34,1500 M Freestyle,LCM,W,35-39,30:12.53,Wendy Glackin,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,6MDSV
+UC34,50 M Butterfly,LCM,W,35-39,1:00.42,Wendy Glackin,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,6MDSV
+UC34,50 M Freestyle,LCM,W,70-74,48.44,Mary Mallon,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YD
+UC34,100 M Freestyle,LCM,W,70-74,2:15.72,Mary Mallon,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YD
+UC34,50 M Breaststroke,LCM,W,70-74,1:10.50,Mary Mallon,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YD
+UC34,100 M Breaststroke,LCM,W,70-74,2:38.28,Mary Mallon,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YD
+UC34,50 M Freestyle,LCM,M,30-34,27.91,Ken Reese,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MWTF4
+UC34,400 M Freestyle,LCM,M,30-34,5:36.34,Ken Reese,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MWTF4
+UC34,50 M Breaststroke,LCM,M,30-34,37.18,Ken Reese,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MWTF4
+UC34,100 M Breaststroke,LCM,M,30-34,1:18.27,Ken Reese,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,MWTF4
+UC34,100 M Freestyle,LCM,M,50-54,1:16.06,Travis Smith,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,RNTUE
+UC34,100 M Backstroke,LCM,M,50-54,1:27.61,Travis Smith,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,RNTUE
+UC34,50 M Butterfly,LCM,M,50-54,36.67,Travis Smith,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,RNTUE
+UC34,1500 M Freestyle,LCM,M,60-64,24:07.13,Gerald S Treiman,,2023 SPMS &amp; Southwest Zone Summer Championships,2023,1,0043A
+UC34,200 M Backstroke,LCM,M,60-64,3:00.45,Gerald S Treiman,,First Chance Long Course Invitational,2023,1,0043A
+UC34,1500 M Freestyle,LCM,M,65-69,30:45.31,Mark G Angelos,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,0ATJ8
+UTAH,400 M Freestyle,LCM,M,65-69,9:15.87,Kevin B Johnson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YP
+UTAH,1500 M Freestyle,LCM,M,65-69,34:42.25,Kevin B Johnson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YP
+UTAH,50 M Backstroke,LCM,M,65-69,53.40,Kevin B Johnson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YP
+UTAH,100 M Backstroke,LCM,M,65-69,2:33.83,Kevin B Johnson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YP
+UTAH,200 M Backstroke,LCM,M,65-69,4:15.69,Kevin B Johnson,,2023 Summer’s Last Dip Effort Swim Meet,2023,1,003YP

@@ -1,0 +1,494 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+HAMR,50 Y Backstroke,SCY,M,25-29,28.66,Calvin L Smith,,2023 Ski-n-Swim,2023,1,MTR81
+HAMR,100 Y Backstroke,SCY,M,25-29,1:02.83,Calvin L Smith,,2023 Ski-n-Swim,2023,1,MTR81
+HAMR,200 Y Backstroke,SCY,M,25-29,2:20.25,Calvin L Smith,,2023 Ski-n-Swim,2023,1,MTR81
+HAMR,100 Y Individual Medley,SCY,M,25-29,1:06.90,Calvin L Smith,,2023 Ski-n-Swim,2023,1,MTR81
+HAMR,200 Y Individual Medley,SCY,M,25-29,2:27.58,Calvin L Smith,,2023 Ski-n-Swim,2023,1,MTR81
+HAMR,50 Y Freestyle,SCY,M,55-59,27.82,Michael E Wynn,,2023 Ski-n-Swim,2023,1,R4H44
+HAMR,50 Y Butterfly,SCY,M,55-59,32.45,Michael E Wynn,,2023 Ski-n-Swim,2023,1,R4H44
+HAMR,200 Y Individual Medley,SCY,M,55-59,2:51.41,Michael E Wynn,,2023 Ski-n-Swim,2023,1,R4H44
+LMMC,50 Y Freestyle,SCY,M,60-64,27.99,David C Widtfeldt,,16th Annual SDRC Masters Swim Meet,2023,1,06VUN
+LMMC,50 Y Butterfly,SCY,M,60-64,30.13,David C Widtfeldt,,16th Annual SDRC Masters Swim Meet,2023,1,06VUN
+LMMC,100 Y Butterfly,SCY,M,60-64,1:10.29,David C Widtfeldt,,16th Annual SDRC Masters Swim Meet,2023,1,06VUN
+LMMC,50 Y Freestyle,SCY,M,65-69,27.66,David C Widtfeldt,,2023 Trailblazer Masters Swim Meet,2023,1,06VUN
+LMMC,500 Y Freestyle,SCY,M,65-69,6:24.65,David C Widtfeldt,,2023 Trailblazer Masters Swim Meet,2023,1,06VUN
+LMMC,50 Y Butterfly,SCY,M,65-69,29.23,David C Widtfeldt,,2023 Trailblazer Masters Swim Meet,2023,1,06VUN
+MPACM,50 Y Freestyle,SCY,M,40-44,29.08,David J LaTomme,,2023 Ski-n-Swim,2023,1,B6PXE
+MPACM,50 Y Backstroke,SCY,M,40-44,34.40,David J LaTomme,,2023 Ski-n-Swim,2023,1,B6PXE
+MPACM,50 Y Breaststroke,SCY,M,40-44,38.19,David J LaTomme,,2023 Ski-n-Swim,2023,1,B6PXE
+MPACM,50 Y Butterfly,SCY,M,40-44,33.29,David J LaTomme,,2023 Ski-n-Swim,2023,1,B6PXE
+MPACM,100 Y Individual Medley,SCY,M,40-44,1:14.49,David J LaTomme,,2023 Ski-n-Swim,2023,1,B6PXE
+OMAC,100 Y Freestyle,SCY,M,40-44,1:03.35,Ben Spackensen,,2023 Ski-n-Swim,2023,1,UYER0
+OMAC,200 Y Freestyle,SCY,M,40-44,2:23.70,Ben Spackensen,,2023 Ski-n-Swim,2023,1,UYER0
+OMAC,500 Y Freestyle,SCY,M,40-44,6:49.95,Ben Spackensen,,2023 Ski-n-Swim,2023,1,UYER0
+OMAC,200 Y Breaststroke,SCY,M,40-44,3:17.50,Ben Spackensen,,16th Annual SDRC Masters Swim Meet,2023,1,UYER0
+QUAC,100 Y Freestyle,SCY,W,25-29,1:06.02,Sophie Anderson,,2023 Ski-n-Swim,2023,1,A9WB3
+QUAC,100 Y Freestyle,SCY,W,25-29,1:14.31,Silvana Alarcon,,16th Annual SDRC Masters Swim Meet,2023,2,09DDV
+QUAC,200 Y Freestyle,SCY,W,25-29,2:30.88,Sophie Anderson,,2023 Ski-n-Swim,2023,1,A9WB3
+QUAC,500 Y Freestyle,SCY,W,25-29,6:52.70,Sophie Anderson,,16th Annual SDRC Masters Swim Meet,2023,1,A9WB3
+QUAC,50 Y Backstroke,SCY,W,25-29,38.42,Silvana Alarcon,,16th Annual SDRC Masters Swim Meet,2023,1,09DDV
+QUAC,50 Y Breaststroke,SCY,W,25-29,42.62,Silvana Alarcon,,16th Annual SDRC Masters Swim Meet,2023,1,09DDV
+QUAC,100 Y Breaststroke,SCY,W,25-29,1:32.52,Silvana Alarcon,,16th Annual SDRC Masters Swim Meet,2023,1,09DDV
+QUAC,50 Y Butterfly,SCY,W,25-29,36.32,Sophie Anderson,,2023 Ski-n-Swim,2023,1,A9WB3
+QUAC,100 Y Individual Medley,SCY,W,25-29,1:22.18,Sophie Anderson,,16th Annual SDRC Masters Swim Meet,2023,1,A9WB3
+QUAC,100 Y Individual Medley,SCY,W,25-29,1:23.44,Silvana Alarcon,,16th Annual SDRC Masters Swim Meet,2023,2,09DDV
+QUAC,50 Y Freestyle,SCY,W,30-34,36.59,Meghan Rooney,,2023 Ski-n-Swim,2023,1,9RUSK
+QUAC,50 Y Breaststroke,SCY,W,30-34,48.34,Meghan Rooney,,2023 Ski-n-Swim,2023,1,9RUSK
+QUAC,100 Y Freestyle,SCY,W,40-44,1:03.33,Magdalena Michalowicz,,16th Annual SDRC Masters Swim Meet,2023,1,0B4XC
+QUAC,100 Y Backstroke,SCY,W,40-44,1:14.32,Magdalena Michalowicz,,16th Annual SDRC Masters Swim Meet,2023,1,0B4XC
+QUAC,100 Y Breaststroke,SCY,W,40-44,1:23.22,Magdalena Michalowicz,,16th Annual SDRC Masters Swim Meet,2023,1,0B4XC
+QUAC,50 Y Freestyle,SCY,M,18-24,25.16,Joshua  E Arndt,,2023 Ski-n-Swim,2023,1,VWGM2
+QUAC,50 Y Freestyle,SCY,M,18-24,31.85,Nathan J Dalley,,2023 Ski-n-Swim,2023,2,568G5
+QUAC,100 Y Freestyle,SCY,M,18-24,55.24,Joshua  E Arndt,,2023 Ski-n-Swim,2023,1,VWGM2
+QUAC,200 Y Freestyle,SCY,M,18-24,2:02.11,Joshua  E Arndt,,2023 Ski-n-Swim,2023,1,VWGM2
+QUAC,500 Y Freestyle,SCY,M,18-24,6:02.97,Joshua  E Arndt,,2023 Ski-n-Swim,2023,1,VWGM2
+QUAC,50 Y Backstroke,SCY,M,18-24,50.91,Marshall Andersen,,16th Annual SDRC Masters Swim Meet,2023,1,PEECS
+QUAC,50 Y Freestyle,SCY,M,25-29,26.97,Joel S Berg,,2023 Ski-n-Swim,2023,1,09TZP
+QUAC,50 Y Freestyle,SCY,M,25-29,43.53,Marshall Andersen,,2023 Ski-n-Swim,2023,2,PEECS
+QUAC,100 Y Freestyle,SCY,M,25-29,53.86,Kyle Spicer,,2023 Ski-n-Swim,2023,1,J535Z
+QUAC,100 Y Freestyle,SCY,M,25-29,55.52,Jake S Mecham,,16th Annual SDRC Masters Swim Meet,2023,2,ERXUT
+QUAC,100 Y Freestyle,SCY,M,25-29,1:02.27,Joel S Berg,,2023 Ski-n-Swim,2023,3,09TZP
+QUAC,100 Y Freestyle,SCY,M,25-29,1:07.33,Joshua Kivlovitz,,16th Annual SDRC Masters Swim Meet,2023,4,HJ1FF
+QUAC,50 Y Backstroke,SCY,M,25-29,52.22,Marshall Andersen,,2023 Ski-n-Swim,2023,1,PEECS
+QUAC,100 Y Backstroke,SCY,M,25-29,1:52.41,Marshall Andersen,,2023 Ski-n-Swim,2023,1,PEECS
+QUAC,50 Y Breaststroke,SCY,M,25-29,33.60,Kyle Spicer,,2023 Ski-n-Swim,2023,1,J535Z
+QUAC,50 Y Breaststroke,SCY,M,25-29,39.35,Joshua Kivlovitz,,16th Annual SDRC Masters Swim Meet,2023,2,HJ1FF
+QUAC,100 Y Breaststroke,SCY,M,25-29,1:07.43,Jake S Mecham,,2023 Ski-n-Swim,2023,1,ERXUT
+QUAC,100 Y Breaststroke,SCY,M,25-29,1:14.96,Kyle Spicer,,16th Annual SDRC Masters Swim Meet,2023,2,J535Z
+QUAC,50 Y Butterfly,SCY,M,25-29,25.63,Kyle Spicer,,2023 Ski-n-Swim,2023,1,J535Z
+QUAC,50 Y Butterfly,SCY,M,25-29,29.93,Joel S Berg,,2023 Ski-n-Swim,2023,2,09TZP
+QUAC,50 Y Butterfly,SCY,M,25-29,32.74,Joshua Kivlovitz,,16th Annual SDRC Masters Swim Meet,2023,3,HJ1FF
+QUAC,100 Y Individual Medley,SCY,M,25-29,1:02.40,Jake S Mecham,,2023 Ski-n-Swim,2023,1,ERXUT
+QUAC,100 Y Individual Medley,SCY,M,25-29,1:02.59,Kyle Spicer,,16th Annual SDRC Masters Swim Meet,2023,2,J535Z
+QUAC,100 Y Individual Medley,SCY,M,25-29,1:18.06,Joshua Kivlovitz,,16th Annual SDRC Masters Swim Meet,2023,3,HJ1FF
+QUAC,50 Y Freestyle,SCY,M,30-34,26.40,Skyler S Peterson,,16th Annual SDRC Masters Swim Meet,2023,1,0819A
+QUAC,50 Y Freestyle,SCY,M,30-34,28.06,Jerad Giottonini,,16th Annual SDRC Masters Swim Meet,2023,2,7KWZP
+QUAC,50 Y Freestyle,SCY,M,30-34,29.73,Jonathan B Huck,,2023 Ski-n-Swim,2023,3,0A9MJ
+QUAC,50 Y Freestyle,SCY,M,30-34,30.12,Tien Nguyen,,2023 Ski-n-Swim,2023,4,T5D19
+QUAC,50 Y Freestyle,SCY,M,30-34,30.95,Brock Madsen,,2023 Ski-n-Swim,2023,5,M1F0Z
+QUAC,50 Y Freestyle,SCY,M,30-34,30.97,Ian A Madsen,,16th Annual SDRC Masters Swim Meet,2023,6,09VV3
+QUAC,50 Y Freestyle,SCY,M,30-34,31.20,JOSE G AREVALO-RIVERS,,2023 Ski-n-Swim,2023,7,0B8A5
+QUAC,100 Y Freestyle,SCY,M,30-34,1:02.50,Skyler S Peterson,,2023 Ski-n-Swim,2023,1,0819A
+QUAC,100 Y Freestyle,SCY,M,30-34,1:05.39,Jonathan B Huck,,2023 Ski-n-Swim,2023,2,0A9MJ
+QUAC,100 Y Freestyle,SCY,M,30-34,1:07.19,Tien Nguyen,,2023 Ski-n-Swim,2023,3,T5D19
+QUAC,100 Y Freestyle,SCY,M,30-34,1:12.97,JOSE G AREVALO-RIVERS,,2023 Ski-n-Swim,2023,4,0B8A5
+QUAC,500 Y Freestyle,SCY,M,30-34,7:37.88,Ian A Madsen,,16th Annual SDRC Masters Swim Meet,2023,1,09VV3
+QUAC,50 Y Backstroke,SCY,M,30-34,28.38,Martin Johansen,,2023 Ski-n-Swim,2023,1,9JKFV
+QUAC,50 Y Backstroke,SCY,M,30-34,42.31,Ian A Madsen,,2023 Ski-n-Swim,2023,2,09VV3
+QUAC,50 Y Breaststroke,SCY,M,30-34,30.13,Martin Johansen,,2023 Ski-n-Swim,2023,1,9JKFV
+QUAC,50 Y Breaststroke,SCY,M,30-34,31.49,Christopher W Bender,,2023 Ski-n-Swim,2023,2,8EZ3V
+QUAC,50 Y Breaststroke,SCY,M,30-34,33.12,Skyler S Peterson,,2023 Ski-n-Swim,2023,3,0819A
+QUAC,50 Y Breaststroke,SCY,M,30-34,36.66,Jonathan B Huck,,2023 Ski-n-Swim,2023,4,0A9MJ
+QUAC,100 Y Breaststroke,SCY,M,30-34,1:07.11,Martin Johansen,,2023 Ski-n-Swim,2023,1,9JKFV
+QUAC,100 Y Breaststroke,SCY,M,30-34,1:07.50,Christopher W Bender,,2023 Ski-n-Swim,2023,2,8EZ3V
+QUAC,100 Y Breaststroke,SCY,M,30-34,1:13.91,Skyler S Peterson,,2023 Ski-n-Swim,2023,3,0819A
+QUAC,200 Y Breaststroke,SCY,M,30-34,2:39.01,Christopher W Bender,,2023 Ski-n-Swim,2023,1,8EZ3V
+QUAC,50 Y Butterfly,SCY,M,30-34,31.02,Jerad Giottonini,,16th Annual SDRC Masters Swim Meet,2023,1,7KWZP
+QUAC,50 Y Butterfly,SCY,M,30-34,31.19,Skyler S Peterson,,16th Annual SDRC Masters Swim Meet,2023,2,0819A
+QUAC,50 Y Butterfly,SCY,M,30-34,34.42,Jonathan B Huck,,2023 Ski-n-Swim,2023,3,0A9MJ
+QUAC,50 Y Butterfly,SCY,M,30-34,35.47,Ian A Madsen,,16th Annual SDRC Masters Swim Meet,2023,4,09VV3
+QUAC,50 Y Butterfly,SCY,M,30-34,38.25,Tien Nguyen,,2023 Ski-n-Swim,2023,5,T5D19
+QUAC,100 Y Butterfly,SCY,M,30-34,57.93,Adam Wingate,,16th Annual SDRC Masters Swim Meet,2023,1,FY7YH
+QUAC,100 Y Butterfly,SCY,M,30-34,1:28.33,Brock Madsen,,2023 Ski-n-Swim,2023,2,M1F0Z
+QUAC,200 Y Butterfly,SCY,M,30-34,3:16.96,Ian A Madsen,,2023 Ski-n-Swim,2023,1,09VV3
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:00.33,Martin Johansen,,2023 Ski-n-Swim,2023,1,9JKFV
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:03.21,Adam Wingate,,16th Annual SDRC Masters Swim Meet,2023,2,FY7YH
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:14.23,Skyler S Peterson,,16th Annual SDRC Masters Swim Meet,2023,3,0819A
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:14.67,Jonathan B Huck,,2023 Ski-n-Swim,2023,4,0A9MJ
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:20.53,Brock Madsen,,2023 Ski-n-Swim,2023,5,M1F0Z
+QUAC,50 Y Freestyle,SCY,M,35-39,26.23,John Sutter,,16th Annual SDRC Masters Swim Meet,2023,1,U9GB5
+QUAC,50 Y Freestyle,SCY,M,35-39,29.74,John Wiest,,16th Annual SDRC Masters Swim Meet,2023,2,0AA4J
+QUAC,50 Y Freestyle,SCY,M,35-39,30.16,Joshua B Reusser,,2023 Ski-n-Swim,2023,3,07PPJ
+QUAC,50 Y Freestyle,SCY,M,35-39,31.92,Edwin Ortiz,,16th Annual SDRC Masters Swim Meet,2023,4,SAHN2
+QUAC,100 Y Freestyle,SCY,M,35-39,1:13.48,John Wiest,,2023 Ski-n-Swim,2023,1,0AA4J
+QUAC,100 Y Freestyle,SCY,M,35-39,1:13.98,Edwin Ortiz,,16th Annual SDRC Masters Swim Meet,2023,2,SAHN2
+QUAC,500 Y Freestyle,SCY,M,35-39,6:38.90,AJ  Barney,,2023 Ski-n-Swim,2023,1,C9G97
+QUAC,50 Y Backstroke,SCY,M,35-39,37.74,Joshua B Reusser,,2023 Ski-n-Swim,2023,1,07PPJ
+QUAC,100 Y Backstroke,SCY,M,35-39,1:22.46,Joshua B Reusser,,16th Annual SDRC Masters Swim Meet,2023,1,07PPJ
+QUAC,50 Y Breaststroke,SCY,M,35-39,38.49,John Wiest,,2023 Ski-n-Swim,2023,1,0AA4J
+QUAC,50 Y Breaststroke,SCY,M,35-39,43.98,Edwin Ortiz,,16th Annual SDRC Masters Swim Meet,2023,2,SAHN2
+QUAC,100 Y Breaststroke,SCY,M,35-39,1:17.35,Joshua B Reusser,,2023 Ski-n-Swim,2023,1,07PPJ
+QUAC,100 Y Breaststroke,SCY,M,35-39,1:24.75,John Wiest,,16th Annual SDRC Masters Swim Meet,2023,2,0AA4J
+QUAC,50 Y Butterfly,SCY,M,35-39,33.59,John Sutter,,16th Annual SDRC Masters Swim Meet,2023,1,U9GB5
+QUAC,50 Y Butterfly,SCY,M,35-39,34.53,Joshua B Reusser,,16th Annual SDRC Masters Swim Meet,2023,2,07PPJ
+QUAC,50 Y Butterfly,SCY,M,35-39,39.47,John Wiest,,16th Annual SDRC Masters Swim Meet,2023,3,0AA4J
+QUAC,100 Y Individual Medley,SCY,M,35-39,1:15.85,Joshua B Reusser,,2023 Ski-n-Swim,2023,1,07PPJ
+QUAC,200 Y Individual Medley,SCY,M,35-39,2:43.22,AJ  Barney,,2023 Ski-n-Swim,2023,1,C9G97
+QUAC,50 Y Freestyle,SCY,M,40-44,26.43,Swen B Nielsen,,16th Annual SDRC Masters Swim Meet,2023,1,0A2KN
+QUAC,50 Y Freestyle,SCY,M,40-44,30.23,Brian Smith,,16th Annual SDRC Masters Swim Meet,2023,2,07P4P
+QUAC,50 Y Freestyle,SCY,M,40-44,30.56,Justin Zsiros,,2023 Ski-n-Swim,2023,3,0JKZW
+QUAC,50 Y Freestyle,SCY,M,40-44,32.32,Yutaka Yanase,,2023 Ski-n-Swim,2023,4,0B7WF
+QUAC,100 Y Freestyle,SCY,M,40-44,1:01.13,Swen B Nielsen,,16th Annual SDRC Masters Swim Meet,2023,1,0A2KN
+QUAC,100 Y Freestyle,SCY,M,40-44,1:10.44,Brian Smith,,16th Annual SDRC Masters Swim Meet,2023,2,07P4P
+QUAC,50 Y Backstroke,SCY,M,40-44,37.22,Justin Zsiros,,2023 Ski-n-Swim,2023,1,0JKZW
+QUAC,100 Y Backstroke,SCY,M,40-44,56.79,Joshua Johnston,,2023 Ski-n-Swim,2023,1,09C58
+QUAC,50 Y Breaststroke,SCY,M,40-44,39.98,Justin Zsiros,,2023 Ski-n-Swim,2023,1,0JKZW
+QUAC,50 Y Breaststroke,SCY,M,40-44,42.95,Brian Smith,,2023 Ski-n-Swim,2023,2,07P4P
+QUAC,50 Y Breaststroke,SCY,M,40-44,43.22,Yutaka Yanase,,2023 Ski-n-Swim,2023,3,0B7WF
+QUAC,50 Y Butterfly,SCY,M,40-44,30.55,Swen B Nielsen,,16th Annual SDRC Masters Swim Meet,2023,1,0A2KN
+QUAC,50 Y Butterfly,SCY,M,40-44,34.66,Brian Smith,,16th Annual SDRC Masters Swim Meet,2023,2,07P4P
+QUAC,100 Y Butterfly,SCY,M,40-44,55.17,Joshua Johnston,,2023 Ski-n-Swim,2023,1,09C58
+QUAC,100 Y Individual Medley,SCY,M,40-44,1:21.87,Brian Smith,,2023 Ski-n-Swim,2023,1,07P4P
+QUAC,50 Y Backstroke,SCY,M,50-54,37.64,duncan B chalmers,,2023 Ski-n-Swim,2023,1,0A1JK
+QUAC,50 Y Breaststroke,SCY,M,50-54,37.93,duncan B chalmers,,2023 Ski-n-Swim,2023,1,0A1JK
+QUAC,100 Y Individual Medley,SCY,M,50-54,1:18.26,duncan B chalmers,,2023 Ski-n-Swim,2023,1,0A1JK
+QUAC,50 Y Freestyle,SCY,M,70-74,37.82,Bert E Holland,,Palm Springs Masters SCY Swim Meet,2023,1,5DWT6
+QUAC,100 Y Freestyle,SCY,M,70-74,1:27.62,Bert E Holland,,Palm Springs Masters SCY Swim Meet,2023,1,5DWT6
+QUAC,100 Y Breaststroke,SCY,M,70-74,1:48.04,Bert E Holland,,Palm Springs Masters SCY Swim Meet,2023,1,5DWT6
+SALT,50 Y Freestyle,SCY,M,35-39,26.11,Patrick Powers,,16th Annual SDRC Masters Swim Meet,2023,1,JC69A
+SALT,50 Y Backstroke,SCY,M,35-39,30.53,Patrick Powers,,16th Annual SDRC Masters Swim Meet,2023,1,JC69A
+SALT,50 Y Breaststroke,SCY,M,35-39,34.76,Patrick Powers,,16th Annual SDRC Masters Swim Meet,2023,1,JC69A
+SALT,50 Y Butterfly,SCY,M,35-39,27.96,Patrick Powers,,16th Annual SDRC Masters Swim Meet,2023,1,JC69A
+SALT,50 Y Freestyle,SCY,M,60-64,29.30,Robert Olson,,16th Annual SDRC Masters Swim Meet,2023,1,045X6
+SALT,100 Y Freestyle,SCY,M,60-64,1:13.93,Robert Olson,,SW Idaho Senior Games,2023,1,045X6
+SALT,50 Y Breaststroke,SCY,M,60-64,35.58,Robert Olson,,16th Annual SDRC Masters Swim Meet,2023,1,045X6
+SALT,100 Y Breaststroke,SCY,M,60-64,1:29.71,Robert Olson,,16th Annual SDRC Masters Swim Meet,2023,1,045X6
+SALT,50 Y Butterfly,SCY,M,60-64,32.88,Robert Olson,,16th Annual SDRC Masters Swim Meet,2023,1,045X6
+SALT,100 Y Butterfly,SCY,M,60-64,1:25.70,Robert Olson,,16th Annual SDRC Masters Swim Meet,2023,1,045X6
+SDMST,100 Y Freestyle,SCY,W,40-44,1:03.39,Shannon Manning,,2023 U.S. Masters Swimming Spring National Championship,2023,1,BY4F2
+SDMST,200 Y Freestyle,SCY,W,40-44,2:20.20,Rachelle Woodbury,,2023 Ski-n-Swim,2023,1,09K9N
+SDMST,500 Y Freestyle,SCY,W,40-44,6:14.09,Rachelle Woodbury,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09K9N
+SDMST,500 Y Freestyle,SCY,W,40-44,6:35.42,Shannon Manning,,16th Annual SDRC Masters Swim Meet,2023,2,BY4F2
+SDMST,1000 Y Freestyle,SCY,W,40-44,12:57.97,Rachelle Woodbury,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09K9N
+SDMST,50 Y Backstroke,SCY,W,40-44,32.59,Shannon Manning,,2023 U.S. Masters Swimming Spring National Championship,2023,1,BY4F2
+SDMST,50 Y Backstroke,SCY,W,40-44,33.96,Jamie L Holzer,,2023 U.S. Masters Swimming Spring National Championship,2023,2,03XFJ
+SDMST,100 Y Backstroke,SCY,W,40-44,1:10.73,Shannon Manning,,2023 U.S. Masters Swimming Spring National Championship,2023,1,BY4F2
+SDMST,100 Y Backstroke,SCY,W,40-44,1:13.40,Rachelle Woodbury,,16th Annual SDRC Masters Swim Meet,2023,2,09K9N
+SDMST,200 Y Backstroke,SCY,W,40-44,2:33.24,Shannon Manning,,2023 U.S. Masters Swimming Spring National Championship,2023,1,BY4F2
+SDMST,100 Y Breaststroke,SCY,W,40-44,1:16.85,Jamie L Holzer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,03XFJ
+SDMST,50 Y Butterfly,SCY,W,40-44,30.47,Jamie L Holzer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,03XFJ
+SDMST,50 Y Butterfly,SCY,W,40-44,33.01,Shannon Manning,,16th Annual SDRC Masters Swim Meet,2023,2,BY4F2
+SDMST,100 Y Individual Medley,SCY,W,40-44,1:09.13,Jamie L Holzer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,03XFJ
+SDMST,100 Y Individual Medley,SCY,W,40-44,1:10.87,Rachelle Woodbury,,2023 U.S. Masters Swimming Spring National Championship,2023,2,09K9N
+SDMST,100 Y Individual Medley,SCY,W,40-44,1:12.64,Shannon Manning,,2023 U.S. Masters Swimming Spring National Championship,2023,3,BY4F2
+SDMST,200 Y Individual Medley,SCY,W,40-44,2:34.02,Rachelle Woodbury,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09K9N
+SDMST,200 Y Individual Medley,SCY,W,40-44,2:43.95,Shannon Manning,,16th Annual SDRC Masters Swim Meet,2023,2,BY4F2
+SDMST,400 Y Individual Medley,SCY,W,40-44,5:26.70,Rachelle Woodbury,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09K9N
+SDMST,50 Y Freestyle,SCY,W,45-49,27.34,Mindy Hopfenbeck,,2023 U.S. Masters Swimming Spring National Championship,2023,1,00452
+SDMST,50 Y Freestyle,SCY,W,45-49,28.90,Stacy Edholm,,2023 U.S. Masters Swimming Spring National Championship,2023,2,HC0X6
+SDMST,50 Y Freestyle,SCY,W,45-49,31.63,Stephanie A Breinholt,,16th Annual SDRC Masters Swim Meet,2023,3,091C3
+SDMST,100 Y Freestyle,SCY,W,45-49,1:02.23,Kim R Patterson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,097SY
+SDMST,100 Y Freestyle,SCY,W,45-49,1:03.72,Stacy Edholm,,2023 U.S. Masters Swimming Spring National Championship,2023,2,HC0X6
+SDMST,100 Y Freestyle,SCY,W,45-49,1:04.80,Stephanie A Breinholt,,2023 U.S. Masters Swimming Spring National Championship,2023,3,091C3
+SDMST,500 Y Freestyle,SCY,W,45-49,6:09.88,Kim R Patterson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,097SY
+SDMST,500 Y Freestyle,SCY,W,45-49,6:28.81,Mindy Hopfenbeck,,2023 Ski-n-Swim,2023,2,00452
+SDMST,1000 Y Freestyle,SCY,W,45-49,12:40.31,Kim R Patterson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,097SY
+SDMST,1650 Y Freestyle,SCY,W,45-49,22:44.35,Kim R Patterson,,16th Annual SDRC Masters Swim Meet,2023,1,097SY
+SDMST,50 Y Backstroke,SCY,W,45-49,32.87,Mindy Hopfenbeck,,16th Annual SDRC Masters Swim Meet,2023,1,00452
+SDMST,50 Y Backstroke,SCY,W,45-49,33.16,Stacy Edholm,,2023 U.S. Masters Swimming Spring National Championship,2023,2,HC0X6
+SDMST,50 Y Backstroke,SCY,W,45-49,33.50,Kim R Patterson,,2023 U.S. Masters Swimming Spring National Championship,2023,3,097SY
+SDMST,50 Y Backstroke,SCY,W,45-49,34.02,Stephanie A Breinholt,,2023 U.S. Masters Swimming Spring National Championship,2023,4,091C3
+SDMST,100 Y Backstroke,SCY,W,45-49,1:09.00,Stacy Edholm,,2023 U.S. Masters Swimming Spring National Championship,2023,1,HC0X6
+SDMST,100 Y Backstroke,SCY,W,45-49,1:10.23,Mindy Hopfenbeck,,16th Annual SDRC Masters Swim Meet,2023,2,00452
+SDMST,100 Y Backstroke,SCY,W,45-49,1:11.30,Kim R Patterson,,16th Annual SDRC Masters Swim Meet,2023,3,097SY
+SDMST,200 Y Backstroke,SCY,W,45-49,2:33.73,Stacy Edholm,,2023 U.S. Masters Swimming Spring National Championship,2023,1,HC0X6
+SDMST,200 Y Backstroke,SCY,W,45-49,2:34.63,Mindy Hopfenbeck,,16th Annual SDRC Masters Swim Meet,2023,2,00452
+SDMST,200 Y Backstroke,SCY,W,45-49,2:53.89,Stephanie A Breinholt,,2023 U.S. Masters Swimming Spring National Championship,2023,3,091C3
+SDMST,50 Y Butterfly,SCY,W,45-49,30.13,Mindy Hopfenbeck,,2023 U.S. Masters Swimming Spring National Championship,2023,1,00452
+SDMST,100 Y Individual Medley,SCY,W,45-49,1:10.56,Mindy Hopfenbeck,,2023 U.S. Masters Swimming Spring National Championship,2023,1,00452
+SDMST,100 Y Individual Medley,SCY,W,45-49,1:10.76,Stacy Edholm,,2023 U.S. Masters Swimming Spring National Championship,2023,2,HC0X6
+SDMST,100 Y Individual Medley,SCY,W,45-49,1:13.03,Stephanie A Breinholt,,2023 U.S. Masters Swimming Spring National Championship,2023,3,091C3
+SDMST,200 Y Individual Medley,SCY,W,45-49,2:35.11,Mindy Hopfenbeck,,2023 U.S. Masters Swimming Spring National Championship,2023,1,00452
+SDMST,400 Y Individual Medley,SCY,W,45-49,5:49.64,Mindy Hopfenbeck,,2023 Ski-n-Swim,2023,1,00452
+SDMST,50 Y Freestyle,SCY,W,50-54,32.87,Anna Marie Forest,,16th Annual SDRC Masters Swim Meet,2023,1,004BF
+SDMST,50 Y Freestyle,SCY,W,50-54,58.82,Dawn Martindale,,16th Annual SDRC Masters Swim Meet,2023,2,0AZEP
+SDMST,100 Y Freestyle,SCY,W,50-54,1:10.21,Anna Marie Forest,,2023 Ski-n-Swim,2023,1,004BF
+SDMST,100 Y Freestyle,SCY,W,50-54,2:20.88,Dawn Martindale,,16th Annual SDRC Masters Swim Meet,2023,2,0AZEP
+SDMST,50 Y Backstroke,SCY,W,50-54,36.18,Anna Marie Forest,,2023 U.S. Masters Swimming Spring National Championship,2023,1,004BF
+SDMST,50 Y Backstroke,SCY,W,50-54,1:13.12,Dawn Martindale,,16th Annual SDRC Masters Swim Meet,2023,2,0AZEP
+SDMST,100 Y Backstroke,SCY,W,50-54,1:16.97,Anna Marie Forest,,2023 U.S. Masters Swimming Spring National Championship,2023,1,004BF
+SDMST,200 Y Backstroke,SCY,W,50-54,2:46.65,Anna Marie Forest,,2023 U.S. Masters Swimming Spring National Championship,2023,1,004BF
+SDMST,50 Y Breaststroke,SCY,W,50-54,36.34,Anna Marie Forest,,2023 U.S. Masters Swimming Spring National Championship,2023,1,004BF
+SDMST,50 Y Breaststroke,SCY,W,50-54,1:10.53,Dawn Martindale,,16th Annual SDRC Masters Swim Meet,2023,2,0AZEP
+SDMST,100 Y Breaststroke,SCY,W,50-54,1:18.74,Anna Marie Forest,,2023 U.S. Masters Swimming Spring National Championship,2023,1,004BF
+SDMST,200 Y Breaststroke,SCY,W,50-54,2:56.91,Anna Marie Forest,,2023 U.S. Masters Swimming Spring National Championship,2023,1,004BF
+SDMST,100 Y Individual Medley,SCY,W,50-54,1:17.57,Anna Marie Forest,,2023 Ski-n-Swim,2023,1,004BF
+SDMST,100 Y Individual Medley,SCY,W,50-54,2:29.78,Dawn Martindale,,16th Annual SDRC Masters Swim Meet,2023,2,0AZEP
+SDMST,50 Y Backstroke,SCY,W,55-59,36.05,Kia F Hodgson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,061G1
+SDMST,50 Y Backstroke,SCY,W,55-59,44.10,Martha Arndt,,2023 U.S. Masters Swimming Spring National Championship,2023,2,0AP8T
+SDMST,100 Y Backstroke,SCY,W,55-59,1:18.36,Kia F Hodgson,,16th Annual SDRC Masters Swim Meet,2023,1,061G1
+SDMST,100 Y Backstroke,SCY,W,55-59,1:36.88,Martha Arndt,,2023 Ski-n-Swim,2023,2,0AP8T
+SDMST,200 Y Backstroke,SCY,W,55-59,2:48.11,Kia F Hodgson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,061G1
+SDMST,50 Y Breaststroke,SCY,W,55-59,39.50,Kia F Hodgson,,2023 Ski-n-Swim,2023,1,061G1
+SDMST,100 Y Breaststroke,SCY,W,55-59,1:22.11,Kia F Hodgson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,061G1
+SDMST,50 Y Butterfly,SCY,W,55-59,36.70,Kia F Hodgson,,16th Annual SDRC Masters Swim Meet,2023,1,061G1
+SDMST,50 Y Butterfly,SCY,W,55-59,42.13,Martha Arndt,,2023 U.S. Masters Swimming Spring National Championship,2023,2,0AP8T
+SDMST,100 Y Individual Medley,SCY,W,55-59,1:17.85,Kia F Hodgson,,16th Annual SDRC Masters Swim Meet,2023,1,061G1
+SDMST,100 Y Individual Medley,SCY,W,55-59,1:31.49,Martha Arndt,,2023 U.S. Masters Swimming Spring National Championship,2023,2,0AP8T
+SDMST,200 Y Individual Medley,SCY,W,55-59,2:45.15,Kia F Hodgson,,2023 U.S. Masters Swimming Spring National Championship,2023,1,061G1
+SDMST,500 Y Freestyle,SCY,W,60-64,10:56.44,Connie J Larson,,16th Annual SDRC Masters Swim Meet,2023,1,0BA8U
+SDMST,50 Y Freestyle,SCY,W,65-69,1:11.36,Christi A Majors,,16th Annual SDRC Masters Swim Meet,2023,1,0A6FF
+SDMST,100 Y Freestyle,SCY,W,65-69,2:42.46,Christi A Majors,,16th Annual SDRC Masters Swim Meet,2023,1,0A6FF
+SDMST,50 Y Breaststroke,SCY,W,65-69,1:13.51,Christi A Majors,,16th Annual SDRC Masters Swim Meet,2023,1,0A6FF
+SDMST,100 Y Breaststroke,SCY,W,65-69,2:39.49,Christi A Majors,,16th Annual SDRC Masters Swim Meet,2023,1,0A6FF
+SDMST,100 Y Individual Medley,SCY,W,65-69,3:07.45,Christi A Majors,,2023 Ski-n-Swim,2023,1,0A6FF
+SDMST,50 Y Freestyle,SCY,M,18-24,23.89,Micah Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,1,08Y2N
+SDMST,100 Y Freestyle,SCY,M,18-24,51.46,Micah Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,1,08Y2N
+SDMST,200 Y Freestyle,SCY,M,18-24,1:56.02,Spencer Curley,,16th Annual SDRC Masters Swim Meet,2023,1,0AKAD
+SDMST,50 Y Backstroke,SCY,M,18-24,27.78,Micah Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,1,08Y2N
+SDMST,100 Y Backstroke,SCY,M,18-24,57.93,Spencer Curley,,16th Annual SDRC Masters Swim Meet,2023,1,0AKAD
+SDMST,200 Y Backstroke,SCY,M,18-24,2:10.54,Spencer Curley,,16th Annual SDRC Masters Swim Meet,2023,1,0AKAD
+SDMST,50 Y Butterfly,SCY,M,18-24,25.70,Micah Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,1,08Y2N
+SDMST,100 Y Butterfly,SCY,M,18-24,56.89,Micah Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,1,08Y2N
+SDMST,100 Y Individual Medley,SCY,M,18-24,1:00.24,Micah Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,1,08Y2N
+SDMST,400 Y Individual Medley,SCY,M,18-24,4:44.85,Spencer Curley,,16th Annual SDRC Masters Swim Meet,2023,1,0AKAD
+SDMST,50 Y Freestyle,SCY,M,25-29,23.20,Cristian Corbett,,2023 U.S. Masters Swimming Spring National Championship,2023,1,Y0JF2
+SDMST,100 Y Freestyle,SCY,M,25-29,50.92,Cristian Corbett,,2023 U.S. Masters Swimming Spring National Championship,2023,1,Y0JF2
+SDMST,100 Y Freestyle,SCY,M,25-29,52.60,Spencer Curley,,2023 Ski-n-Swim,2023,2,0AKAD
+SDMST,200 Y Freestyle,SCY,M,25-29,1:54.34,Spencer Curley,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AKAD
+SDMST,200 Y Freestyle,SCY,M,25-29,1:54.85,Cristian Corbett,,2023 U.S. Masters Swimming Spring National Championship,2023,2,Y0JF2
+SDMST,500 Y Freestyle,SCY,M,25-29,5:13.27,Spencer Curley,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AKAD
+SDMST,50 Y Backstroke,SCY,M,25-29,27.73,Spencer Curley,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AKAD
+SDMST,200 Y Backstroke,SCY,M,25-29,2:10.49,Spencer Curley,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AKAD
+SDMST,100 Y Breaststroke,SCY,M,25-29,1:04.98,Cristian Corbett,,2023 U.S. Masters Swimming Spring National Championship,2023,1,Y0JF2
+SDMST,100 Y Butterfly,SCY,M,25-29,1:04.44,Spencer Curley,,2023 Ski-n-Swim,2023,1,0AKAD
+SDMST,100 Y Individual Medley,SCY,M,25-29,59.34,Cristian Corbett,,2023 U.S. Masters Swimming Spring National Championship,2023,1,Y0JF2
+SDMST,400 Y Individual Medley,SCY,M,25-29,4:47.81,Spencer Curley,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AKAD
+SDMST,50 Y Freestyle,SCY,M,35-39,26.75,Ryan D McMullin,,16th Annual SDRC Masters Swim Meet,2023,1,T4V63
+SDMST,100 Y Freestyle,SCY,M,35-39,1:00.68,Ryan D McMullin,,16th Annual SDRC Masters Swim Meet,2023,1,T4V63
+SDMST,50 Y Butterfly,SCY,M,35-39,30.27,Ryan D McMullin,,16th Annual SDRC Masters Swim Meet,2023,1,T4V63
+SDMST,50 Y Freestyle,SCY,M,40-44,31.81,Paul Dixon,,16th Annual SDRC Masters Swim Meet,2023,1,09KA5
+SDMST,100 Y Freestyle,SCY,M,40-44,1:14.60,Paul Dixon,,16th Annual SDRC Masters Swim Meet,2023,1,09KA5
+SDMST,200 Y Freestyle,SCY,M,40-44,2:52.84,Paul Dixon,,16th Annual SDRC Masters Swim Meet,2023,1,09KA5
+SDMST,50 Y Butterfly,SCY,M,40-44,38.41,Paul Dixon,,16th Annual SDRC Masters Swim Meet,2023,1,09KA5
+SDMST,50 Y Freestyle,SCY,M,45-49,25.77,Russell Walter,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0ANRG
+SDMST,50 Y Freestyle,SCY,M,45-49,26.09,Bryan J Ragsdale,,16th Annual SDRC Masters Swim Meet,2023,2,0A8FG
+SDMST,50 Y Freestyle,SCY,M,45-49,26.18,Paul Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,3,44JGG
+SDMST,50 Y Freestyle,SCY,M,45-49,28.16,Aaron Norton,,2023 U.S. Masters Swimming Spring National Championship,2023,4,090ND
+SDMST,50 Y Freestyle,SCY,M,45-49,30.79,William A Burt,,2023 Ski-n-Swim,2023,5,061FN
+SDMST,100 Y Freestyle,SCY,M,45-49,51.98,Matt E Chamberlain,,16th Annual SDRC Masters Swim Meet,2023,1,004BW
+SDMST,100 Y Freestyle,SCY,M,45-49,56.43,Bryan J Ragsdale,,2023 U.S. Masters Swimming Spring National Championship,2023,2,0A8FG
+SDMST,100 Y Freestyle,SCY,M,45-49,58.11,Paul Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,3,44JGG
+SDMST,100 Y Freestyle,SCY,M,45-49,58.23,Russell Walter,,2023 U.S. Masters Swimming Spring National Championship,2023,4,0ANRG
+SDMST,200 Y Freestyle,SCY,M,45-49,2:07.45,Bryan J Ragsdale,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0A8FG
+SDMST,500 Y Freestyle,SCY,M,45-49,5:14.64,Joe B Linford,,2023 Trailblazer Masters Swim Meet,2023,1,089M0
+SDMST,1650 Y Freestyle,SCY,M,45-49,17:58.96,Joe B Linford,,2023 Trailblazer Masters Swim Meet,2023,1,089M0
+SDMST,50 Y Backstroke,SCY,M,45-49,33.42,Bryan J Ragsdale,,2023 Montana SCY Championship Meet,2023,1,0A8FG
+SDMST,50 Y Backstroke,SCY,M,45-49,33.56,Paul Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,2,44JGG
+SDMST,50 Y Backstroke,SCY,M,45-49,37.10,William A Burt,,16th Annual SDRC Masters Swim Meet,2023,3,061FN
+SDMST,50 Y Backstroke,SCY,M,45-49,37.96,Aaron Norton,,2023 U.S. Masters Swimming Spring National Championship,2023,4,090ND
+SDMST,100 Y Backstroke,SCY,M,45-49,58.80,Matt E Chamberlain,,16th Annual SDRC Masters Swim Meet,2023,1,004BW
+SDMST,50 Y Breaststroke,SCY,M,45-49,32.06,Bryan J Ragsdale,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0A8FG
+SDMST,50 Y Breaststroke,SCY,M,45-49,32.89,Russell Walter,,2023 U.S. Masters Swimming Spring National Championship,2023,2,0ANRG
+SDMST,100 Y Breaststroke,SCY,M,45-49,1:11.20,Russell Walter,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0ANRG
+SDMST,100 Y Breaststroke,SCY,M,45-49,1:14.40,Bryan J Ragsdale,,2023 Montana SCY Championship Meet,2023,2,0A8FG
+SDMST,50 Y Butterfly,SCY,M,45-49,25.84,Matt E Chamberlain,,16th Annual SDRC Masters Swim Meet,2023,1,004BW
+SDMST,50 Y Butterfly,SCY,M,45-49,27.07,Joe B Linford,,2023 Ski-n-Swim,2023,2,089M0
+SDMST,50 Y Butterfly,SCY,M,45-49,29.49,Bryan J Ragsdale,,2023 U.S. Masters Swimming Spring National Championship,2023,3,0A8FG
+SDMST,50 Y Butterfly,SCY,M,45-49,30.56,Paul Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,4,44JGG
+SDMST,50 Y Butterfly,SCY,M,45-49,32.64,Aaron Norton,,2023 U.S. Masters Swimming Spring National Championship,2023,5,090ND
+SDMST,50 Y Butterfly,SCY,M,45-49,35.38,William A Burt,,16th Annual SDRC Masters Swim Meet,2023,6,061FN
+SDMST,100 Y Butterfly,SCY,M,45-49,57.78,Joe B Linford,,16th Annual SDRC Masters Swim Meet,2023,1,089M0
+SDMST,200 Y Butterfly,SCY,M,45-49,2:08.68,Joe B Linford,,16th Annual SDRC Masters Swim Meet,2023,1,089M0
+SDMST,100 Y Individual Medley,SCY,M,45-49,58.69,Matt E Chamberlain,,16th Annual SDRC Masters Swim Meet,2023,1,004BW
+SDMST,100 Y Individual Medley,SCY,M,45-49,1:05.55,Bryan J Ragsdale,,2023 U.S. Masters Swimming Spring National Championship,2023,2,0A8FG
+SDMST,100 Y Individual Medley,SCY,M,45-49,1:05.69,Russell Walter,,2023 U.S. Masters Swimming Spring National Championship,2023,3,0ANRG
+SDMST,100 Y Individual Medley,SCY,M,45-49,1:08.53,Paul Feser,,2023 U.S. Masters Swimming Spring National Championship,2023,4,44JGG
+SDMST,50 Y Freestyle,SCY,M,50-54,25.72,Mark Belnap,,16th Annual SDRC Masters Swim Meet,2023,1,06J0H
+SDMST,50 Y Breaststroke,SCY,M,50-54,32.75,Mark Belnap,,16th Annual SDRC Masters Swim Meet,2023,1,06J0H
+SDMST,100 Y Breaststroke,SCY,M,50-54,1:15.26,Mark Belnap,,16th Annual SDRC Masters Swim Meet,2023,1,06J0H
+SDMST,50 Y Butterfly,SCY,M,50-54,28.70,Mark Belnap,,16th Annual SDRC Masters Swim Meet,2023,1,06J0H
+SDMST,200 Y Freestyle,SCY,M,55-59,2:24.25,Sean McNeal,,2023 Ski-n-Swim,2023,1,9PB41
+SDMST,50 Y Backstroke,SCY,M,55-59,33.66,Sean McNeal,,2023 U.S. Masters Swimming Spring National Championship,2023,1,9PB41
+SDMST,50 Y Butterfly,SCY,M,55-59,30.34,Sean McNeal,,2023 Trailblazer Masters Swim Meet,2023,1,9PB41
+SDMST,100 Y Individual Medley,SCY,M,55-59,1:10.90,Sean McNeal,,2023 U.S. Masters Swimming Spring National Championship,2023,1,9PB41
+SDMST,200 Y Individual Medley,SCY,M,55-59,2:41.44,Sean McNeal,,2023 Ski-n-Swim,2023,1,9PB41
+SDMST,50 Y Freestyle,SCY,M,60-64,26.02,Thomas B Woods,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09J2T
+SDMST,100 Y Freestyle,SCY,M,60-64,57.55,Thomas B Woods,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09J2T
+SDMST,100 Y Freestyle,SCY,M,60-64,1:12.94,Kevin L Mortensen,,2023 U.S. Masters Swimming Spring National Championship,2023,2,4M0RT
+SDMST,500 Y Freestyle,SCY,M,60-64,7:04.54,Kevin L Mortensen,,2023 U.S. Masters Swimming Spring National Championship,2023,1,4M0RT
+SDMST,1650 Y Freestyle,SCY,M,60-64,24:16.65,Kevin L Mortensen,,2023 U.S. Masters Swimming Spring National Championship,2023,1,4M0RT
+SDMST,50 Y Backstroke,SCY,M,60-64,31.75,Thomas B Woods,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09J2T
+SDMST,50 Y Breaststroke,SCY,M,60-64,34.30,Thomas B Woods,,2023 Ski-n-Swim,2023,1,09J2T
+SDMST,100 Y Breaststroke,SCY,M,60-64,1:17.55,Thomas B Woods,,16th Annual SDRC Masters Swim Meet,2023,1,09J2T
+SDMST,50 Y Butterfly,SCY,M,60-64,28.94,Thomas B Woods,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09J2T
+SDMST,100 Y Butterfly,SCY,M,60-64,1:26.32,Kevin L Mortensen,,2023 U.S. Masters Swimming Spring National Championship,2023,1,4M0RT
+SDMST,200 Y Butterfly,SCY,M,60-64,3:32.35,Kevin L Mortensen,,16th Annual SDRC Masters Swim Meet,2023,1,4M0RT
+SDMST,100 Y Individual Medley,SCY,M,60-64,1:05.38,Thomas B Woods,,2023 U.S. Masters Swimming Spring National Championship,2023,1,09J2T
+SDMST,100 Y Freestyle,SCY,M,65-69,1:06.23,Brent Scoville,,2023 Trailblazer Masters Swim Meet,2023,1,026D0
+SDMST,200 Y Freestyle,SCY,M,65-69,2:32.15,Brent Scoville,,2023 Trailblazer Masters Swim Meet,2023,1,026D0
+SDMST,500 Y Freestyle,SCY,M,65-69,6:51.04,Brent Scoville,,2023 Ski-n-Swim,2023,1,026D0
+SDMST,1650 Y Freestyle,SCY,M,65-69,23:37.21,Brent Scoville,,2023 Ski-n-Swim,2023,1,026D0
+SDMST,50 Y Backstroke,SCY,M,65-69,35.68,Brent Scoville,,2023 Ski-n-Swim,2023,1,026D0
+SDMST,100 Y Backstroke,SCY,M,65-69,1:17.04,Brent Scoville,,2023 Trailblazer Masters Swim Meet,2023,1,026D0
+SDMST,200 Y Backstroke,SCY,M,65-69,2:48.51,Brent Scoville,,2023 Trailblazer Masters Swim Meet,2023,1,026D0
+SDMST,100 Y Individual Medley,SCY,M,65-69,1:20.95,Brent Scoville,,2023 Trailblazer Masters Swim Meet,2023,1,026D0
+SDMST,500 Y Freestyle,SCY,M,70-74,8:09.65,David H Robbins,,16th Annual SDRC Masters Swim Meet,2023,1,081GA
+SDMST,50 Y Butterfly,SCY,M,70-74,38.06,David H Robbins,,2023 Trailblazer Masters Swim Meet,2023,1,081GA
+SDMST,100 Y Butterfly,SCY,M,70-74,1:45.29,David H Robbins,,2023 Trailblazer Masters Swim Meet,2023,1,081GA
+SDMST,200 Y Butterfly,SCY,M,70-74,3:46.42,David H Robbins,,2023 Trailblazer Masters Swim Meet,2023,1,081GA
+SDMST,400 Y Individual Medley,SCY,M,70-74,7:13.38,David H Robbins,,2023 Trailblazer Masters Swim Meet,2023,1,081GA
+TM,50 Y Freestyle,SCY,W,18-24,29.38,Skye C Evans,,2023 Trailblazer Masters Swim Meet,2023,1,6X3Y4
+TM,50 Y Freestyle,SCY,W,18-24,30.69,Allie M Baumgartner,,2023 Trailblazer Masters Swim Meet,2023,2,ZHXVY
+TM,100 Y Freestyle,SCY,W,18-24,1:03.44,Skye C Evans,,2023 Trailblazer Masters Swim Meet,2023,1,6X3Y4
+TM,100 Y Freestyle,SCY,W,18-24,1:04.75,Allie M Baumgartner,,2023 Trailblazer Masters Swim Meet,2023,2,ZHXVY
+TM,100 Y Backstroke,SCY,W,18-24,1:16.59,Allie M Baumgartner,,2023 Trailblazer Masters Swim Meet,2023,1,ZHXVY
+TM,50 Y Butterfly,SCY,W,18-24,31.10,Skye C Evans,,2023 Trailblazer Masters Swim Meet,2023,1,6X3Y4
+TM,100 Y Butterfly,SCY,W,18-24,1:10.39,Skye C Evans,,2023 Trailblazer Masters Swim Meet,2023,1,6X3Y4
+TM,100 Y Individual Medley,SCY,W,18-24,1:21.30,Allie M Baumgartner,,2023 Trailblazer Masters Swim Meet,2023,1,ZHXVY
+TM,400 Y Individual Medley,SCY,W,18-24,6:09.26,Allie M Baumgartner,,2023 Trailblazer Masters Swim Meet,2023,1,ZHXVY
+TM,200 Y Freestyle,SCY,W,30-34,2:49.23,Rebekah-Anne Duncan,,16th Annual SDRC Masters Swim Meet,2023,1,SD1ZX
+TM,500 Y Freestyle,SCY,W,30-34,7:31.21,Rebekah-Anne Duncan,,16th Annual SDRC Masters Swim Meet,2023,1,SD1ZX
+TM,50 Y Backstroke,SCY,W,30-34,38.01,Rebekah-Anne Duncan,,16th Annual SDRC Masters Swim Meet,2023,1,SD1ZX
+TM,50 Y Butterfly,SCY,W,30-34,39.93,Rebekah-Anne Duncan,,2023 Trailblazer Masters Swim Meet,2023,1,SD1ZX
+TM,100 Y Individual Medley,SCY,W,30-34,1:29.84,Rebekah-Anne Duncan,,2023 Trailblazer Masters Swim Meet,2023,1,SD1ZX
+TM,50 Y Freestyle,SCY,W,65-69,34.15,Cindy Gilmore,,2023 Trailblazer Masters Swim Meet,2023,1,05J4V
+TM,50 Y Freestyle,SCY,W,65-69,36.55,Laura L Fairchild,,16th Annual SDRC Masters Swim Meet,2023,2,0B7KB
+TM,50 Y Backstroke,SCY,W,65-69,39.30,Cindy Gilmore,,2023 Trailblazer Masters Swim Meet,2023,1,05J4V
+TM,50 Y Backstroke,SCY,W,65-69,44.74,Laura L Fairchild,,16th Annual SDRC Masters Swim Meet,2023,2,0B7KB
+TM,100 Y Backstroke,SCY,W,65-69,1:21.07,Cindy Gilmore,,16th Annual SDRC Masters Swim Meet,2023,1,05J4V
+TM,50 Y Breaststroke,SCY,W,65-69,42.08,Cindy Gilmore,,16th Annual SDRC Masters Swim Meet,2023,1,05J4V
+TM,50 Y Breaststroke,SCY,W,65-69,51.36,Laura L Fairchild,,16th Annual SDRC Masters Swim Meet,2023,2,0B7KB
+TM,100 Y Individual Medley,SCY,W,65-69,1:22.90,Cindy Gilmore,,16th Annual SDRC Masters Swim Meet,2023,1,05J4V
+TM,100 Y Individual Medley,SCY,W,65-69,1:40.23,Laura L Fairchild,,16th Annual SDRC Masters Swim Meet,2023,2,0B7KB
+TM,50 Y Freestyle,SCY,W,70-74,34.66,Mary C Smith,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0APMS
+TM,100 Y Freestyle,SCY,W,70-74,1:19.05,Mary C Smith,,2023 Trailblazer Masters Swim Meet,2023,1,0APMS
+TM,100 Y Freestyle,SCY,W,70-74,1:26.78,Carolyn B Lyman,,2023 Ski-n-Swim,2023,2,00440
+TM,1650 Y Freestyle,SCY,W,70-74,27:12.69,Carolyn B Lyman,,2023 Ski-n-Swim,2023,1,00440
+TM,50 Y Backstroke,SCY,W,70-74,44.86,Carolyn B Lyman,,2023 Ski-n-Swim,2023,1,00440
+TM,200 Y Backstroke,SCY,W,70-74,3:24.07,Carolyn B Lyman,,2023 Ski-n-Swim,2023,1,00440
+TM,50 Y Breaststroke,SCY,W,70-74,48.00,Mary C Smith,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0APMS
+TM,50 Y Butterfly,SCY,W,70-74,42.32,Mary C Smith,,2023 Trailblazer Masters Swim Meet,2023,1,0APMS
+TM,100 Y Individual Medley,SCY,W,70-74,1:35.59,Mary C Smith,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0APMS
+TM,50 Y Freestyle,SCY,M,18-24,25.21,Kyler P Goodin,,16th Annual SDRC Masters Swim Meet,2023,1,Z6J1T
+TM,100 Y Freestyle,SCY,M,18-24,59.83,Kyler P Goodin,,16th Annual SDRC Masters Swim Meet,2023,1,Z6J1T
+TM,50 Y Butterfly,SCY,M,18-24,30.35,Kyler P Goodin,,2023 Ski-n-Swim,2023,1,Z6J1T
+TM,100 Y Individual Medley,SCY,M,18-24,1:11.01,Kyler P Goodin,,2023 Ski-n-Swim,2023,1,Z6J1T
+TM,50 Y Freestyle,SCY,M,25-29,26.19,Philip J Gebler,,16th Annual SDRC Masters Swim Meet,2023,1,TDBA5
+TM,50 Y Breaststroke,SCY,M,25-29,34.17,Philip J Gebler,,16th Annual SDRC Masters Swim Meet,2023,1,TDBA5
+TM,50 Y Freestyle,SCY,M,50-54,29.31,Sterling Cabana,,2023 Trailblazer Masters Swim Meet,2023,1,0749A
+TM,50 Y Backstroke,SCY,M,50-54,35.04,Chad M Hodo,,2023 Trailblazer Masters Swim Meet,2023,1,0948W
+TM,50 Y Backstroke,SCY,M,50-54,36.38,Sterling Cabana,,2023 Trailblazer Masters Swim Meet,2023,2,0749A
+TM,50 Y Breaststroke,SCY,M,50-54,39.10,Sterling Cabana,,2023 Trailblazer Masters Swim Meet,2023,1,0749A
+TM,50 Y Breaststroke,SCY,M,50-54,40.54,Chad M Hodo,,2023 Trailblazer Masters Swim Meet,2023,2,0948W
+TM,50 Y Butterfly,SCY,M,50-54,30.53,Chad M Hodo,,2023 Trailblazer Masters Swim Meet,2023,1,0948W
+TM,50 Y Butterfly,SCY,M,50-54,32.38,Sterling Cabana,,2023 Trailblazer Masters Swim Meet,2023,2,0749A
+TM,100 Y Individual Medley,SCY,M,50-54,1:13.94,Chad M Hodo,,2023 Trailblazer Masters Swim Meet,2023,1,0948W
+TM,100 Y Individual Medley,SCY,M,50-54,1:14.85,Sterling Cabana,,2023 Trailblazer Masters Swim Meet,2023,2,0749A
+TM,500 Y Freestyle,SCY,M,70-74,7:36.74,Bruce Schroeder,,2023 U.S. Masters Swimming Spring National Championship,2023,1,088HG
+TM,1000 Y Freestyle,SCY,M,70-74,15:08.35,Bruce Schroeder,,2023 U.S. Masters Swimming Spring National Championship,2023,1,088HG
+TM,50 Y Breaststroke,SCY,M,70-74,42.02,Bruce Schroeder,,2023 U.S. Masters Swimming Spring National Championship,2023,1,088HG
+TM,100 Y Breaststroke,SCY,M,70-74,1:33.34,Bruce Schroeder,,2023 U.S. Masters Swimming Spring National Championship,2023,1,088HG
+TM,200 Y Breaststroke,SCY,M,70-74,3:16.91,Bruce Schroeder,,2023 U.S. Masters Swimming Spring National Championship,2023,1,088HG
+UC34,50 Y Freestyle,SCY,W,25-29,26.86,Hannah H Allen,,2023 Ski-n-Swim,2023,1,4MS5T
+UC34,50 Y Backstroke,SCY,W,25-29,31.77,Hannah H Allen,,2023 Ski-n-Swim,2023,1,4MS5T
+UC34,50 Y Breaststroke,SCY,W,25-29,33.95,Hannah H Allen,,2023 Ski-n-Swim,2023,1,4MS5T
+UC34,50 Y Butterfly,SCY,W,25-29,28.24,Hannah H Allen,,2023 Ski-n-Swim,2023,1,4MS5T
+UC34,100 Y Individual Medley,SCY,W,25-29,1:06.81,Hannah H Allen,,2023 Ski-n-Swim,2023,1,4MS5T
+UC34,50 Y Freestyle,SCY,W,30-34,33.11,Sydney Olson,,16th Annual SDRC Masters Swim Meet,2023,1,H3794
+UC34,100 Y Freestyle,SCY,W,30-34,1:28.10,Wendy Glackin,,2023 Ski-n-Swim,2023,1,6MDSV
+UC34,500 Y Freestyle,SCY,W,30-34,7:51.84,Sydney Olson,,16th Annual SDRC Masters Swim Meet,2023,1,H3794
+UC34,500 Y Freestyle,SCY,W,30-34,8:32.40,Wendy Glackin,,2023 Ski-n-Swim,2023,2,6MDSV
+UC34,50 Y Breaststroke,SCY,W,30-34,44.34,Sydney Olson,,16th Annual SDRC Masters Swim Meet,2023,1,H3794
+UC34,50 Y Butterfly,SCY,W,30-34,39.43,Sydney Olson,,16th Annual SDRC Masters Swim Meet,2023,1,H3794
+UC34,200 Y Individual Medley,SCY,W,30-34,3:12.08,Sydney Olson,,16th Annual SDRC Masters Swim Meet,2023,1,H3794
+UC34,50 Y Backstroke,SCY,W,45-49,32.22,Lynn L Dixon,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AJY0
+UC34,100 Y Backstroke,SCY,W,45-49,1:10.83,Lynn L Dixon,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AJY0
+UC34,200 Y Backstroke,SCY,W,45-49,2:39.05,Lynn L Dixon,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0AJY0
+UC34,50 Y Freestyle,SCY,W,70-74,1:00.79,Mary Mallon,,2023 Ski-n-Swim,2023,1,003YD
+UC34,100 Y Freestyle,SCY,W,70-74,2:09.54,Mary Mallon,,2023 Ski-n-Swim,2023,1,003YD
+UC34,200 Y Freestyle,SCY,W,70-74,4:04.95,Mary Mallon,,2023 Ski-n-Swim,2023,1,003YD
+UC34,500 Y Freestyle,SCY,W,70-74,11:07.75,Mary Mallon,,2023 Ski-n-Swim,2023,1,003YD
+UC34,50 Y Freestyle,SCY,M,18-24,23.93,Trevor W Ence,,2023 Ski-n-Swim,2023,1,ZH0XG
+UC34,50 Y Freestyle,SCY,M,18-24,24.80,David W Harris,,16th Annual SDRC Masters Swim Meet,2023,2,K5D30
+UC34,50 Y Freestyle,SCY,M,18-24,25.31,Addison Morris,,2023 Ski-n-Swim,2023,3,MEYRN
+UC34,100 Y Freestyle,SCY,M,18-24,49.66,Trevor W Ence,,2023 U.S. Masters Swimming Spring National Championship,2023,1,ZH0XG
+UC34,100 Y Freestyle,SCY,M,18-24,55.45,Addison Morris,,2023 Ski-n-Swim,2023,2,MEYRN
+UC34,100 Y Freestyle,SCY,M,18-24,58.98,David W Harris,,2023 Ski-n-Swim,2023,3,K5D30
+UC34,200 Y Freestyle,SCY,M,18-24,1:52.64,Trevor W Ence,,2023 U.S. Masters Swimming Spring National Championship,2023,1,ZH0XG
+UC34,200 Y Freestyle,SCY,M,18-24,1:58.68,Addison Morris,,2023 Ski-n-Swim,2023,2,MEYRN
+UC34,200 Y Freestyle,SCY,M,18-24,2:07.66,David W Harris,,2023 Ski-n-Swim,2023,3,K5D30
+UC34,500 Y Freestyle,SCY,M,18-24,5:51.30,David W Harris,,16th Annual SDRC Masters Swim Meet,2023,1,K5D30
+UC34,50 Y Butterfly,SCY,M,18-24,24.62,Trevor W Ence,,2023 U.S. Masters Swimming Spring National Championship,2023,1,ZH0XG
+UC34,100 Y Butterfly,SCY,M,18-24,53.47,Trevor W Ence,,2023 U.S. Masters Swimming Spring National Championship,2023,1,ZH0XG
+UC34,100 Y Butterfly,SCY,M,18-24,1:04.14,David W Harris,,16th Annual SDRC Masters Swim Meet,2023,2,K5D30
+UC34,200 Y Butterfly,SCY,M,18-24,2:09.68,Trevor W Ence,,2023 U.S. Masters Swimming Spring National Championship,2023,1,ZH0XG
+UC34,100 Y Individual Medley,SCY,M,18-24,1:01.19,Addison Morris,,2023 Ski-n-Swim,2023,1,MEYRN
+UC34,50 Y Freestyle,SCY,M,25-29,21.70,Justice D Kramer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,MZ20S
+UC34,100 Y Freestyle,SCY,M,25-29,52.04,Cason D Flygare,,16th Annual SDRC Masters Swim Meet,2023,1,D8J30
+UC34,50 Y Backstroke,SCY,M,25-29,23.42,Justice D Kramer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,MZ20S
+UC34,50 Y Breaststroke,SCY,M,25-29,31.83,Cason D Flygare,,16th Annual SDRC Masters Swim Meet,2023,1,D8J30
+UC34,50 Y Butterfly,SCY,M,25-29,26.20,Cason D Flygare,,16th Annual SDRC Masters Swim Meet,2023,1,D8J30
+UC34,100 Y Butterfly,SCY,M,25-29,50.15,Justice D Kramer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,MZ20S
+UC34,200 Y Butterfly,SCY,M,25-29,1:57.01,Justice D Kramer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,MZ20S
+UC34,100 Y Individual Medley,SCY,M,25-29,52.10,Justice D Kramer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,MZ20S
+UC34,100 Y Individual Medley,SCY,M,25-29,1:00.54,Cason D Flygare,,16th Annual SDRC Masters Swim Meet,2023,2,D8J30
+UC34,50 Y Freestyle,SCY,M,30-34,22.95,Blake D Schaeffer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,UC3ZY
+UC34,50 Y Freestyle,SCY,M,30-34,23.83,Ken Reese,,16th Annual SDRC Masters Swim Meet,2023,2,MWTF4
+UC34,100 Y Freestyle,SCY,M,30-34,51.12,Blake D Schaeffer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,UC3ZY
+UC34,50 Y Backstroke,SCY,M,30-34,28.49,Blake D Schaeffer,,2023 Ski-n-Swim,2023,1,UC3ZY
+UC34,50 Y Breaststroke,SCY,M,30-34,30.25,Ken Reese,,16th Annual SDRC Masters Swim Meet,2023,1,MWTF4
+UC34,100 Y Breaststroke,SCY,M,30-34,1:05.68,Ken Reese,,16th Annual SDRC Masters Swim Meet,2023,1,MWTF4
+UC34,200 Y Breaststroke,SCY,M,30-34,2:26.69,Ken Reese,,16th Annual SDRC Masters Swim Meet,2023,1,MWTF4
+UC34,50 Y Butterfly,SCY,M,30-34,24.22,Blake D Schaeffer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,UC3ZY
+UC34,50 Y Butterfly,SCY,M,30-34,26.15,Ken Reese,,2023 Ski-n-Swim,2023,2,MWTF4
+UC34,100 Y Butterfly,SCY,M,30-34,55.57,Blake D Schaeffer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,UC3ZY
+UC34,100 Y Butterfly,SCY,M,30-34,59.22,Ken Reese,,2023 Ski-n-Swim,2023,2,MWTF4
+UC34,100 Y Individual Medley,SCY,M,30-34,58.45,Blake D Schaeffer,,2023 U.S. Masters Swimming Spring National Championship,2023,1,UC3ZY
+UC34,100 Y Individual Medley,SCY,M,30-34,59.82,Ken Reese,,2023 Ski-n-Swim,2023,2,MWTF4
+UC34,200 Y Individual Medley,SCY,M,30-34,2:13.73,Ken Reese,,16th Annual SDRC Masters Swim Meet,2023,1,MWTF4
+UC34,100 Y Breaststroke,SCY,M,40-44,1:07.56,David Koob,,16th Annual SDRC Masters Swim Meet,2023,1,09DKT
+UC34,200 Y Breaststroke,SCY,M,40-44,2:32.92,David Koob,,16th Annual SDRC Masters Swim Meet,2023,1,09DKT
+UC34,50 Y Backstroke,SCY,M,45-49,31.93,Travis Smith,,2023 U.S. Masters Swimming Spring National Championship,2023,1,RNTUE
+UC34,50 Y Butterfly,SCY,M,45-49,30.29,Travis Smith,,2023 U.S. Masters Swimming Spring National Championship,2023,1,RNTUE
+UC34,100 Y Individual Medley,SCY,M,45-49,1:10.30,Travis Smith,,2023 U.S. Masters Swimming Spring National Championship,2023,1,RNTUE
+UC34,200 Y Backstroke,SCY,M,60-64,2:36.71,Gerald S Treiman,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0043A
+UC34,200 Y Butterfly,SCY,M,60-64,3:45.98,Gerald S Treiman,,2023 U.S. Masters Swimming Spring National Championship,2023,1,0043A
+UC34,50 Y Freestyle,SCY,M,75-79,34.38,Dennis R Meyring,,2023 Trailblazer Masters Swim Meet,2023,1,004BU
+UC34,100 Y Freestyle,SCY,M,75-79,1:17.20,Dennis R Meyring,,2023 Trailblazer Masters Swim Meet,2023,1,004BU
+UC34,200 Y Freestyle,SCY,M,75-79,2:50.82,Dennis R Meyring,,2023 Trailblazer Masters Swim Meet,2023,1,004BU
+UTAH,50 Y Freestyle,SCY,W,30-34,1:00.82,jacqueline timpson,,2023 Trailblazer Masters Swim Meet,2023,1,KH3V7
+UTAH,50 Y Backstroke,SCY,W,30-34,1:03.20,jacqueline timpson,,2023 Trailblazer Masters Swim Meet,2023,1,KH3V7
+UTAH,100 Y Individual Medley,SCY,W,30-34,2:22.60,jacqueline timpson,,2023 Trailblazer Masters Swim Meet,2023,1,KH3V7
+UTAH,50 Y Breaststroke,SCY,W,50-54,47.99,Mandy Finsand,,2023 Trailblazer Masters Swim Meet,2023,1,FWAJY
+UTAH,200 Y Breaststroke,SCY,W,50-54,3:45.75,Mandy Finsand,,2023 Trailblazer Masters Swim Meet,2023,1,FWAJY
+UTAH,100 Y Individual Medley,SCY,W,50-54,1:35.27,Mandy Finsand,,2023 Trailblazer Masters Swim Meet,2023,1,FWAJY
+UTAH,200 Y Individual Medley,SCY,W,50-54,3:28.47,Mandy Finsand,,2023 Trailblazer Masters Swim Meet,2023,1,FWAJY
+UTAH,50 Y Freestyle,SCY,W,65-69,34.94,Katy L Kessinger,,Pacific Masters Short Course Championships,2023,1,00491
+UTAH,50 Y Freestyle,SCY,W,65-69,35.85,Debra S Penney,,2023 Ski-n-Swim,2023,2,05F5K
+UTAH,100 Y Freestyle,SCY,W,65-69,1:05.16,Lo D Knapp,,Pacific Masters Short Course Championships,2023,1,003ZB
+UTAH,100 Y Freestyle,SCY,W,65-69,1:15.15,Katy L Kessinger,,Pacific Masters Short Course Championships,2023,2,00491
+UTAH,200 Y Freestyle,SCY,W,65-69,2:38.44,Katy L Kessinger,,Pacific Masters Short Course Championships,2023,1,00491
+UTAH,500 Y Freestyle,SCY,W,65-69,6:31.70,Lo D Knapp,,2023 Ski-n-Swim,2023,1,003ZB
+UTAH,500 Y Freestyle,SCY,W,65-69,6:47.71,Katy L Kessinger,,Pacific Masters Short Course Championships,2023,2,00491
+UTAH,1650 Y Freestyle,SCY,W,65-69,21:49.44,Lo D Knapp,,Pacific Masters Short Course Championships,2023,1,003ZB
+UTAH,1650 Y Freestyle,SCY,W,65-69,22:58.65,Katy L Kessinger,,Pacific Masters Short Course Championships,2023,2,00491
+UTAH,50 Y Backstroke,SCY,W,65-69,37.68,Lo D Knapp,,2023 Ski-n-Swim,2023,1,003ZB
+UTAH,200 Y Backstroke,SCY,W,65-69,2:49.28,Lo D Knapp,,Pacific Masters Short Course Championships,2023,1,003ZB
+UTAH,50 Y Breaststroke,SCY,W,65-69,39.10,Lo D Knapp,,Pacific Masters Short Course Championships,2023,1,003ZB
+UTAH,50 Y Breaststroke,SCY,W,65-69,41.94,Debra S Penney,,Pacific Masters Short Course Championships,2023,2,05F5K
+UTAH,100 Y Breaststroke,SCY,W,65-69,1:26.31,Lo D Knapp,,2023 Ski-n-Swim,2023,1,003ZB
+UTAH,100 Y Breaststroke,SCY,W,65-69,1:30.94,Debra S Penney,,2023 Ski-n-Swim,2023,2,05F5K
+UTAH,200 Y Breaststroke,SCY,W,65-69,3:00.98,Lo D Knapp,,Pacific Masters Short Course Championships,2023,1,003ZB
+UTAH,200 Y Breaststroke,SCY,W,65-69,3:13.56,Debra S Penney,,Pacific Masters Short Course Championships,2023,2,05F5K
+UTAH,100 Y Individual Medley,SCY,W,65-69,1:24.86,Debra S Penney,,Pacific Masters Short Course Championships,2023,1,05F5K
+UTAH,50 Y Freestyle,SCY,W,70-74,56.84,Mary Mallon,,16th Annual SDRC Masters Swim Meet,2023,1,003YD
+UTAH,50 Y Freestyle,SCY,W,70-74,1:05.52,Gloria W Rasmussen,,2023 Trailblazer Masters Swim Meet,2023,2,1B0U8
+UTAH,100 Y Freestyle,SCY,W,70-74,2:10.61,Mary Mallon,,16th Annual SDRC Masters Swim Meet,2023,1,003YD
+UTAH,100 Y Freestyle,SCY,W,70-74,2:31.62,Gloria W Rasmussen,,2023 Trailblazer Masters Swim Meet,2023,2,1B0U8
+UTAH,200 Y Freestyle,SCY,W,70-74,3:54.60,Mary Mallon,,16th Annual SDRC Masters Swim Meet,2023,1,003YD
+UTAH,500 Y Freestyle,SCY,W,70-74,10:37.48,Mary Mallon,,16th Annual SDRC Masters Swim Meet,2023,1,003YD
+UTAH,50 Y Backstroke,SCY,W,70-74,43.35,Carolyn B Lyman,,16th Annual SDRC Masters Swim Meet,2023,1,00440
+UTAH,50 Y Backstroke,SCY,W,70-74,1:21.63,Gloria W Rasmussen,,2023 Trailblazer Masters Swim Meet,2023,2,1B0U8
+UTAH,100 Y Backstroke,SCY,W,70-74,2:49.82,Gloria W Rasmussen,,2023 Trailblazer Masters Swim Meet,2023,1,1B0U8
+UTAH,200 Y Backstroke,SCY,W,70-74,3:18.51,Carolyn B Lyman,,16th Annual SDRC Masters Swim Meet,2023,1,00440
+UTAH,50 Y Breaststroke,SCY,W,70-74,1:53.02,Gloria W Rasmussen,,2023 Trailblazer Masters Swim Meet,2023,1,1B0U8
+UTAH,100 Y Breaststroke,SCY,W,70-74,1:48.03,Carolyn B Lyman,,16th Annual SDRC Masters Swim Meet,2023,1,00440
+UTAH,50 Y Freestyle,SCY,W,75-79,1:11.54,Polly A Kegler,,2023 Trailblazer Masters Swim Meet,2023,1,0ARMA
+UTAH,100 Y Freestyle,SCY,W,75-79,2:36.76,Polly A Kegler,,2023 Trailblazer Masters Swim Meet,2023,1,0ARMA
+UTAH,500 Y Freestyle,SCY,W,75-79,14:22.22,Polly A Kegler,,2023 Trailblazer Masters Swim Meet,2023,1,0ARMA
+UTAH,1000 Y Freestyle,SCY,W,75-79,29:02.00,Polly A Kegler,,2023 Trailblazer Masters Swim Meet,2023,1,0ARMA
+UTAH,500 Y Freestyle,SCY,W,80-84,9:48.92,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,1000 Y Freestyle,SCY,W,80-84,19:37.26,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,1650 Y Freestyle,SCY,W,80-84,32:23.69,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,50 Y Breaststroke,SCY,W,80-84,1:18.81,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,50 Y Butterfly,SCY,W,80-84,1:09.34,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,100 Y Butterfly,SCY,W,80-84,2:35.29,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,200 Y Butterfly,SCY,W,80-84,5:28.49,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,100 Y Individual Medley,SCY,W,80-84,2:12.64,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,400 Y Individual Medley,SCY,W,80-84,9:46.33,Lynne H Lund,,2023 Trailblazer Masters Swim Meet,2023,1,02BUP
+UTAH,500 Y Freestyle,SCY,M,65-69,9:19.19,Kevin B Johnson,,16th Annual SDRC Masters Swim Meet,2023,1,003YP
+UTAH,1650 Y Freestyle,SCY,M,65-69,31:28.57,Kevin B Johnson,,16th Annual SDRC Masters Swim Meet,2023,1,003YP
+UTAH,50 Y Backstroke,SCY,M,65-69,42.05,Kevin B Johnson,,16th Annual SDRC Masters Swim Meet,2023,1,003YP
+UTAH,100 Y Backstroke,SCY,M,65-69,1:34.75,Kevin B Johnson,,2023 Trailblazer Masters Swim Meet,2023,1,003YP
+UTAH,200 Y Backstroke,SCY,M,65-69,3:32.71,Kevin B Johnson,,16th Annual SDRC Masters Swim Meet,2023,1,003YP

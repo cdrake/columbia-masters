@@ -1,0 +1,101 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+UTAH,400 M Freestyle,LCM,W,25-29,7:10.20,Heidi M Dressen,,Utah Kearns LCM,2006,1,0049D
+UTAH,800 M Freestyle,LCM,W,25-29,14:21.40,Heidi M Dressen,,Utah Kearns LCM,2006,1,0049D
+UTAH,400 M Freestyle,LCM,W,30-34,5:09.11,Laura C Arneson,,XI FINA Masters World Championships (USMS Results),2006,1,0021M
+UTAH,400 M Freestyle,LCM,W,30-34,6:32.82,Rebecca A Hurst-Davis,,Utah Kearns LCM,2006,2,0044J
+UTAH,100 M Backstroke,LCM,W,30-34,1:40.62,Rebecca A Hurst-Davis,,Utah Kearns LCM,2006,1,0044J
+UTAH,100 M Breaststroke,LCM,W,30-34,1:45.20,Rebecca A Hurst-Davis,,Utah Kearns LCM,2006,1,0044J
+UTAH,50 M Freestyle,LCM,W,35-39,31.52,Suzanne M Topp,,XI FINA Masters World Championships (USMS Results),2006,1,025VV
+UTAH,50 M Freestyle,LCM,W,35-39,31.81,Karin Ohlson,,XI FINA Masters World Championships (USMS Results),2006,2,0049U
+UTAH,100 M Freestyle,LCM,W,35-39,1:14.24,Karin Ohlson,,XI FINA Masters World Championships (USMS Results),2006,1,0049U
+UTAH,50 M Breaststroke,LCM,W,35-39,39.82,Karin Ohlson,,XI FINA Masters World Championships (USMS Results),2006,1,0049U
+UTAH,100 M Breaststroke,LCM,W,35-39,1:28.29,Karin Ohlson,,XI FINA Masters World Championships (USMS Results),2006,1,0049U
+UTAH,50 M Butterfly,LCM,W,35-39,36.41,Suzanne M Topp,,XI FINA Masters World Championships (USMS Results),2006,1,025VV
+UTAH,50 M Freestyle,LCM,W,40-44,32.68,Kristin A Ohlson-Peercy,,XI FINA Masters World Championships (USMS Results),2006,1,00437
+UTAH,50 M Freestyle,LCM,W,40-44,33.95,Jeanne M Hayes,,Utah Kearns LCM,2006,2,0047S
+UTAH,100 M Freestyle,LCM,W,40-44,1:12.08,Kristin A Ohlson-Peercy,,XI FINA Masters World Championships (USMS Results),2006,1,00437
+UTAH,200 M Freestyle,LCM,W,40-44,4:09.23,Teri M Davenport,,Utah Kearns LCM,2006,1,00436
+UTAH,50 M Backstroke,LCM,W,40-44,56.84,Teri M Davenport,,Utah Kearns LCM,2006,1,00436
+UTAH,100 M Backstroke,LCM,W,40-44,2:00.92,Teri M Davenport,,Utah Kearns LCM,2006,1,00436
+UTAH,50 M Breaststroke,LCM,W,40-44,40.97,Kristin A Ohlson-Peercy,,XI FINA Masters World Championships (USMS Results),2006,1,00437
+UTAH,50 M Breaststroke,LCM,W,40-44,43.54,Jeanne M Hayes,,Utah Kearns LCM,2006,2,0047S
+UTAH,100 M Breaststroke,LCM,W,40-44,1:31.57,Kristin A Ohlson-Peercy,,XI FINA Masters World Championships (USMS Results),2006,1,00437
+UTAH,100 M Breaststroke,LCM,W,40-44,1:36.83,Jeanne M Hayes,,Utah Kearns LCM,2006,2,0047S
+UTAH,50 M Butterfly,LCM,W,40-44,1:04.98,Teri M Davenport,,Utah Kearns LCM,2006,1,00436
+UTAH,50 M Freestyle,LCM,W,45-49,33.80,Jeanne M Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047S
+UTAH,50 M Breaststroke,LCM,W,45-49,42.23,Jeanne M Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047S
+UTAH,100 M Breaststroke,LCM,W,45-49,1:35.79,Jeanne M Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047S
+UTAH,50 M Freestyle,LCM,W,50-54,36.37,Katy L Kessinger,,XI FINA Masters World Championships (USMS Results),2006,1,00491
+UTAH,100 M Freestyle,LCM,W,50-54,1:08.24,Mary M Mallon,,Utah Kearns LCM,2006,1,003YD
+UTAH,100 M Freestyle,LCM,W,50-54,1:10.14,Cathy A Philpot,,XI FINA Masters World Championships (USMS Results),2006,2,003XP
+UTAH,100 M Freestyle,LCM,W,50-54,1:18.76,Katy L Kessinger,,XI FINA Masters World Championships (USMS Results),2006,3,00491
+UTAH,200 M Freestyle,LCM,W,50-54,2:28.98,Lo D Knapp,,XI FINA Masters World Championships (USMS Results),2006,1,003ZB
+UTAH,200 M Freestyle,LCM,W,50-54,2:36.17,Cathy A Philpot,,XI FINA Masters World Championships (USMS Results),2006,2,003XP
+UTAH,200 M Freestyle,LCM,W,50-54,2:50.33,Katy L Kessinger,,XI FINA Masters World Championships (USMS Results),2006,3,00491
+UTAH,200 M Freestyle,LCM,W,50-54,4:14.19,Mary M Mallon,,Utah Kearns LCM,2006,4,003YD
+UTAH,800 M Freestyle,LCM,W,50-54,11:21.49,Cathy A Philpot,,XI FINA Masters World Championships (USMS Results),2006,1,003XP
+UTAH,800 M Freestyle,LCM,W,50-54,12:17.62,Katy L Kessinger,,XI FINA Masters World Championships (USMS Results),2006,2,00491
+UTAH,200 M Backstroke,LCM,W,50-54,3:03.31,Cathy A Philpot,,XI FINA Masters World Championships (USMS Results),2006,1,003XP
+UTAH,100 M Breaststroke,LCM,W,50-54,1:27.79,Lo D Knapp,,XI FINA Masters World Championships (USMS Results),2006,1,003ZB
+UTAH,200 M Breaststroke,LCM,W,50-54,3:08.69,Lo D Knapp,,XI FINA Masters World Championships (USMS Results),2006,1,003ZB
+UTAH,200 M Breaststroke,LCM,W,50-54,4:37.69,Mary M Mallon,,Utah Kearns LCM,2006,2,003YD
+UTAH,50 M Butterfly,LCM,W,50-54,42.24,Katy L Kessinger,,XI FINA Masters World Championships (USMS Results),2006,1,00491
+UTAH,200 M Individual Medley,LCM,W,50-54,2:48.50,Lo D Knapp,,XI FINA Masters World Championships (USMS Results),2006,1,003ZB
+UTAH,400 M Individual Medley,LCM,W,50-54,6:08.79,Lo D Knapp,,XI FINA Masters World Championships (USMS Results),2006,1,003ZB
+UTAH,400 M Freestyle,LCM,W,55-59,6:31.59,Carolyn B Lyman,,Utah Kearns LCM,2006,1,00440
+UTAH,800 M Freestyle,LCM,W,55-59,12:41.75,Carolyn B Lyman,,XI FINA Masters World Championships (USMS Results),2006,1,00440
+UTAH,50 M Backstroke,LCM,W,55-59,46.27,Carolyn B Lyman,,Utah Kearns LCM,2006,1,00440
+UTAH,200 M Backstroke,LCM,W,55-59,3:20.33,Carolyn B Lyman,,XI FINA Masters World Championships (USMS Results),2006,1,00440
+UTAH,100 M Breaststroke,LCM,W,55-59,1:46.31,Carolyn B Lyman,,XI FINA Masters World Championships (USMS Results),2006,1,00440
+UTAH,50 M Butterfly,LCM,W,55-59,45.13,Carolyn B Lyman,,Utah Kearns LCM,2006,1,00440
+UTAH,200 M Individual Medley,LCM,W,55-59,3:24.70,Carolyn B Lyman,,XI FINA Masters World Championships (USMS Results),2006,1,00440
+UTAH,400 M Individual Medley,LCM,W,55-59,7:15.45,Carolyn B Lyman,,XI FINA Masters World Championships (USMS Results),2006,1,00440
+UTAH,50 M Freestyle,LCM,W,60-64,36.08,Barbara P Nash,,XI FINA Masters World Championships (USMS Results),2006,1,0047N
+UTAH,50 M Breaststroke,LCM,W,60-64,45.07,Barbara P Nash,,XI FINA Masters World Championships (USMS Results),2006,1,0047N
+UTAH,100 M Breaststroke,LCM,W,60-64,1:49.21,Barbara P Nash,,XI FINA Masters World Championships (USMS Results),2006,1,0047N
+UTAH,200 M Breaststroke,LCM,W,60-64,4:01.20,Barbara P Nash,,XI FINA Masters World Championships (USMS Results),2006,1,0047N
+UTAH,800 M Freestyle,LCM,M,35-39,10:38.27,Dan L Frost,,XI FINA Masters World Championships (USMS Results),2006,1,02M92
+UTAH,50 M Freestyle,LCM,M,40-44,27.13,Craig A Paller,,XI FINA Masters World Championships (USMS Results),2006,1,02UTD
+UTAH,800 M Freestyle,LCM,M,40-44,11:18.20,James F Jonsson,,Utah Kearns LCM,2006,1,0047D
+UTAH,200 M Backstroke,LCM,M,40-44,2:36.07,Craig A Paller,,XI FINA Masters World Championships (USMS Results),2006,1,02UTD
+UTAH,50 M Breaststroke,LCM,M,40-44,33.04,Craig A Paller,,XI FINA Masters World Championships (USMS Results),2006,1,02UTD
+UTAH,100 M Breaststroke,LCM,M,40-44,1:15.33,Craig A Paller,,XI FINA Masters World Championships (USMS Results),2006,1,02UTD
+UTAH,50 M Freestyle,LCM,M,45-49,26.30,Matthew E Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047T
+UTAH,50 M Freestyle,LCM,M,45-49,37.43,Dennis Clayton,,Utah Kearns LCM,2006,2,00497
+UTAH,100 M Freestyle,LCM,M,45-49,57.20,Matthew E Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047T
+UTAH,100 M Freestyle,LCM,M,45-49,1:13.90,Dennis Clayton,,Utah Kearns LCM,2006,2,00497
+UTAH,50 M Breaststroke,LCM,M,45-49,52.06,Dennis Clayton,,Utah Kearns LCM,2006,1,00497
+UTAH,100 M Breaststroke,LCM,M,45-49,1:17.16,Matthew E Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047T
+UTAH,50 M Butterfly,LCM,M,45-49,46.37,Dennis Clayton,,Utah Kearns LCM,2006,1,00497
+UTAH,200 M Individual Medley,LCM,M,45-49,2:26.63,Matthew E Hayes,,XI FINA Masters World Championships (USMS Results),2006,1,0047T
+UTAH,50 M Freestyle,LCM,M,50-54,33.98,Julio C Facelli,,Utah Kearns LCM,2006,1,003Z5
+UTAH,100 M Freestyle,LCM,M,50-54,1:17.52,Julio C Facelli,,Utah Kearns LCM,2006,1,003Z5
+UTAH,200 M Freestyle,LCM,M,50-54,2:22.01,Randy J Philpot,,XI FINA Masters World Championships (USMS Results),2006,1,003XR
+UTAH,200 M Freestyle,LCM,M,50-54,2:57.13,Julio C Facelli,,Utah Kearns LCM,2006,2,003Z5
+UTAH,800 M Freestyle,LCM,M,50-54,10:39.83,Randy J Philpot,,XI FINA Masters World Championships (USMS Results),2006,1,003XR
+UTAH,800 M Freestyle,LCM,M,50-54,12:52.47,Julio C Facelli,,Utah Kearns LCM,2006,2,003Z5
+UTAH,50 M Backstroke,LCM,M,50-54,32.34,Alistair Cockburn,,XI FINA Masters World Championships (USMS Results),2006,1,00419
+UTAH,100 M Backstroke,LCM,M,50-54,1:14.37,Alistair Cockburn,,XI FINA Masters World Championships (USMS Results),2006,1,00419
+UTAH,200 M Backstroke,LCM,M,50-54,2:45.13,Alistair Cockburn,,XI FINA Masters World Championships (USMS Results),2006,1,00419
+UTAH,50 M Breaststroke,LCM,M,50-54,36.03,Gary D Shaw,,XI FINA Masters World Championships (USMS Results),2006,1,0043E
+UTAH,100 M Breaststroke,LCM,M,50-54,1:21.78,Gary D Shaw,,XI FINA Masters World Championships (USMS Results),2006,1,0043E
+UTAH,100 M Breaststroke,LCM,M,50-54,1:22.19,Randy J Philpot,,XI FINA Masters World Championships (USMS Results),2006,2,003XR
+UTAH,100 M Breaststroke,LCM,M,50-54,1:31.09,Alistair Cockburn,,Utah Kearns LCM,2006,3,00419
+UTAH,200 M Breaststroke,LCM,M,50-54,3:09.31,Gary D Shaw,,Utah Kearns LCM,2006,1,0043E
+UTAH,50 M Butterfly,LCM,M,50-54,33.98,Gary D Shaw,,Utah Kearns LCM,2006,1,0043E
+UTAH,200 M Butterfly,LCM,M,50-54,3:24.14,Alistair Cockburn,,Utah Kearns LCM,2006,1,00419
+UTAH,200 M Individual Medley,LCM,M,50-54,2:39.92,Alistair Cockburn,,XI FINA Masters World Championships (USMS Results),2006,1,00419
+UTAH,400 M Individual Medley,LCM,M,50-54,5:53.03,Randy J Philpot,,XI FINA Masters World Championships (USMS Results),2006,1,003XR
+UTAH,400 M Individual Medley,LCM,M,50-54,6:30.07,Alistair Cockburn,,Utah Kearns LCM,2006,2,00419
+UTAH,50 M Freestyle,LCM,M,55-59,43.23,Douglas Richardson,,Utah Kearns LCM,2006,1,00498
+UTAH,100 M Freestyle,LCM,M,55-59,1:08.24,Richard H Kittel,,Utah Kearns LCM,2006,1,00431
+UTAH,100 M Freestyle,LCM,M,55-59,1:17.52,Douglas Richardson,,Utah Kearns LCM,2006,2,00498
+UTAH,200 M Freestyle,LCM,M,55-59,2:35.00,Richard H Kittel,,Utah Kearns LCM,2006,1,00431
+UTAH,400 M Freestyle,LCM,M,55-59,5:07.28,Fred C Baird,,XI FINA Masters World Championships (USMS Results),2006,1,0042P
+UTAH,800 M Freestyle,LCM,M,55-59,10:46.63,Fred C Baird,,XI FINA Masters World Championships (USMS Results),2006,1,0042P
+UTAH,800 M Freestyle,LCM,M,55-59,11:07.58,William Cerny,,XI FINA Masters World Championships (USMS Results),2006,2,003YW
+UTAH,100 M Backstroke,LCM,M,55-59,1:26.44,Richard H Kittel,,Utah Kearns LCM,2006,1,00431
+UTAH,200 M Backstroke,LCM,M,55-59,3:11.74,Richard H Kittel,,Utah Kearns LCM,2006,1,00431
+UTAH,50 M Butterfly,LCM,M,55-59,29.53,Fred C Baird,,XI FINA Masters World Championships (USMS Results),2006,1,0042P
+UTAH,100 M Butterfly,LCM,M,55-59,1:07.42,Fred C Baird,,XI FINA Masters World Championships (USMS Results),2006,1,0042P
+UTAH,200 M Butterfly,LCM,M,55-59,2:52.06,Fred C Baird,,XI FINA Masters World Championships (USMS Results),2006,1,0042P

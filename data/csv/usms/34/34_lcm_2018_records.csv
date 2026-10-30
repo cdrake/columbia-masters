@@ -1,0 +1,98 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+CSCM,50 M Freestyle,LCM,W,40-44,35.83,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+CSCM,100 M Freestyle,LCM,W,40-44,1:21.41,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+CSCM,200 M Freestyle,LCM,W,40-44,3:04.73,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+CSCM,50 M Backstroke,LCM,W,40-44,46.63,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+CSCM,50 M Breaststroke,LCM,W,40-44,48.94,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+CSCM,100 M Breaststroke,LCM,W,40-44,1:48.21,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+CSCM,50 M Butterfly,LCM,W,40-44,41.37,Kirstin A McCoy,,Utah Summer Games,2018,1,0B9D4
+HOME,50 M Freestyle,LCM,M,40-44,32.06,Gordon R Kennard,,Utah Summer Games,2018,1,06J91
+HOME,100 M Freestyle,LCM,M,40-44,1:07.04,Gordon R Kennard,,Utah Summer Games,2018,1,06J91
+HOME,200 M Freestyle,LCM,M,40-44,2:25.41,Gordon R Kennard,,Utah Summer Games,2018,1,06J91
+HOME,400 M Freestyle,LCM,M,40-44,5:13.96,Gordon R Kennard,,Utah Summer Games,2018,1,06J91
+HOME,1500 M Freestyle,LCM,M,40-44,21:04.43,Gordon R Kennard,,Utah Summer Games,2018,1,06J91
+HOME,200 M Individual Medley,LCM,M,40-44,2:52.56,Gordon R Kennard,,Utah Summer Games,2018,1,06J91
+HOME,100 M Freestyle,LCM,M,70-74,1:22.36,Dennis R Meyring,,Utah Summer Games,2018,1,004BU
+HOME,50 M Breaststroke,LCM,M,70-74,45.22,Dennis R Meyring,,Utah Summer Games,2018,1,004BU
+HOME,100 M Breaststroke,LCM,M,70-74,1:51.25,Dennis R Meyring,,Utah Summer Games,2018,1,004BU
+HOME,100 M Butterfly,LCM,M,70-74,1:42.77,Dennis R Meyring,,Utah Summer Games,2018,1,004BU
+HOME,200 M Individual Medley,LCM,M,70-74,3:31.96,Dennis R Meyring,,Utah Summer Games,2018,1,004BU
+HOME,400 M Individual Medley,LCM,M,70-74,7:33.04,Dennis R Meyring,,Utah Summer Games,2018,1,004BU
+SDM,50 M Backstroke,LCM,W,45-49,39.94,Anna Marie Forest,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,004BF
+SDM,50 M Breaststroke,LCM,W,45-49,40.57,Anna Marie Forest,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,004BF
+SDM,100 M Breaststroke,LCM,W,45-49,1:31.35,Anna Marie Forest,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,004BF
+SDM,200 M Breaststroke,LCM,W,45-49,3:19.36,Anna Marie Forest,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,004BF
+SDM,50 M Freestyle,LCM,M,55-59,29.55,Thomas B Woods,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,09J2T
+SDM,100 M Freestyle,LCM,M,55-59,1:05.95,Thomas B Woods,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,09J2T
+SDM,200 M Freestyle,LCM,M,55-59,2:31.52,Thomas B Woods,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,09J2T
+SDM,100 M Backstroke,LCM,M,55-59,1:17.71,Thomas B Woods,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,09J2T
+SLOW,50 M Freestyle,LCM,M,60-64,43.53,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,100 M Freestyle,LCM,M,60-64,1:36.80,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,200 M Freestyle,LCM,M,60-64,3:45.17,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,400 M Freestyle,LCM,M,60-64,7:43.13,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,1500 M Freestyle,LCM,M,60-64,32:34.35,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,50 M Backstroke,LCM,M,60-64,46.35,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,100 M Backstroke,LCM,M,60-64,1:41.24,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,200 M Backstroke,LCM,M,60-64,3:50.25,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,50 M Breaststroke,LCM,M,60-64,52.84,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,100 M Breaststroke,LCM,M,60-64,1:56.53,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SLOW,200 M Breaststroke,LCM,M,60-64,4:22.56,Kevin B Johnson,,Utah Summer Games,2018,1,003YP
+SUSA,200 M Backstroke,LCM,W,60-64,3:21.78,Cindy Gilmore,,Utah Summer Games,2018,1,05J4V
+SUSA,50 M Breaststroke,LCM,W,60-64,46.85,Cindy Gilmore,,Utah Summer Games,2018,1,05J4V
+SUSA,200 M Freestyle,LCM,W,75-79,3:58.96,Lynne Lund,,Long Course in Vegas Baby!,2018,1,02BUP
+SUSA,400 M Freestyle,LCM,W,75-79,8:02.22,Lynne Lund,,Long Course in Vegas Baby!,2018,1,02BUP
+SUSA,800 M Freestyle,LCM,W,75-79,15:48.42,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,1500 M Freestyle,LCM,W,75-79,29:36.96,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,100 M Backstroke,LCM,W,75-79,2:18.94,Lynne Lund,,Long Course in Vegas Baby!,2018,1,02BUP
+SUSA,200 M Backstroke,LCM,W,75-79,4:40.59,Lynne Lund,,Long Course in Vegas Baby!,2018,1,02BUP
+SUSA,50 M Breaststroke,LCM,W,75-79,1:17.81,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,100 M Breaststroke,LCM,W,75-79,2:40.92,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,200 M Breaststroke,LCM,W,75-79,5:27.53,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,100 M Butterfly,LCM,W,75-79,2:26.44,Lynne Lund,,Long Course in Vegas Baby!,2018,1,02BUP
+SUSA,200 M Butterfly,LCM,W,75-79,5:26.22,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,200 M Individual Medley,LCM,W,75-79,4:42.44,Lynne Lund,,Long Course in Vegas Baby!,2018,1,02BUP
+SUSA,400 M Individual Medley,LCM,W,75-79,9:28.86,Lynne Lund,,Mission Viejo Masters Long Course Swim Meet,2018,1,02BUP
+SUSA,50 M Freestyle,LCM,W,80-84,1:28.51,Dorothy N Kennedy,,Utah Summer Games,2018,1,09699
+SUSA,100 M Freestyle,LCM,W,80-84,3:13.72,Dorothy N Kennedy,,Utah Summer Games,2018,1,09699
+SUSA,200 M Freestyle,LCM,W,80-84,6:36.07,Dorothy N Kennedy,,Utah Summer Games,2018,1,09699
+SUSA,400 M Freestyle,LCM,W,80-84,12:32.88,Ruth E Sluder,,Utah Summer Games,2018,1,05ERG
+SUSA,400 M Freestyle,LCM,W,80-84,13:55.65,Dorothy N Kennedy,,Utah Summer Games,2018,2,09699
+SUSA,1500 M Freestyle,LCM,W,80-84,49:57.71,Ruth E Sluder,,Utah Summer Games,2018,1,05ERG
+SUSA,50 M Backstroke,LCM,W,80-84,1:44.20,Dorothy N Kennedy,,Utah Summer Games,2018,1,09699
+SUSA,400 M Freestyle,LCM,M,65-69,7:10.60,Bruce E Schroeder,,Long Course in Vegas Baby!,2018,1,088HG
+SUSA,50 M Breaststroke,LCM,M,65-69,47.90,Bruce E Schroeder,,Long Course in Vegas Baby!,2018,1,088HG
+SUSA,100 M Breaststroke,LCM,M,65-69,1:45.34,Bruce E Schroeder,,Long Course in Vegas Baby!,2018,1,088HG
+SUSA,200 M Breaststroke,LCM,M,65-69,3:53.36,Bruce E Schroeder,,Long Course in Vegas Baby!,2018,1,088HG
+SUSA,50 M Backstroke,LCM,M,75-79,59.36,John L Warnke,,Long Course in Vegas Baby!,2018,1,09TFG
+SUSA,50 M Breaststroke,LCM,M,75-79,58.66,John L Warnke,,Long Course in Vegas Baby!,2018,1,09TFG
+SUSA,100 M Breaststroke,LCM,M,75-79,2:16.93,John L Warnke,,Long Course in Vegas Baby!,2018,1,09TFG
+SUSA,200 M Breaststroke,LCM,M,75-79,5:06.17,John L Warnke,,Long Course in Vegas Baby!,2018,1,09TFG
+UC34,200 M Freestyle,LCM,M,80-84,13:10.78,Jim Flora,,Utah Summer Games,2018,1,07S7D
+UC34,50 M Backstroke,LCM,M,80-84,2:26.30,Jim Flora,,Utah Summer Games,2018,1,07S7D
+UC34,200 M Backstroke,LCM,M,80-84,12:15.65,Jim Flora,,Utah Summer Games,2018,1,07S7D
+UC34,50 M Breaststroke,LCM,M,80-84,3:41.40,Jim Flora,,Utah Summer Games,2018,1,07S7D
+UC34,100 M Breaststroke,LCM,M,80-84,8:05.65,Jim Flora,,Utah Summer Games,2018,1,07S7D
+UTAH,100 M Freestyle,LCM,W,65-69,1:28.75,Carolyn B Lyman,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,00440
+UTAH,200 M Freestyle,LCM,W,65-69,3:24.77,Carolyn B Lyman,,Utah Summer Games,2018,1,00440
+UTAH,400 M Freestyle,LCM,W,65-69,6:56.19,Carolyn B Lyman,,Utah Summer Games,2018,1,00440
+UTAH,1500 M Freestyle,LCM,W,65-69,26:30.47,Carolyn B Lyman,,Utah Summer Games,2018,1,00440
+UTAH,50 M Backstroke,LCM,W,65-69,47.85,Carolyn B Lyman,,Utah Summer Games,2018,1,00440
+UTAH,100 M Backstroke,LCM,W,65-69,1:38.39,Carolyn B Lyman,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,00440
+UTAH,200 M Backstroke,LCM,W,65-69,3:32.98,Carolyn B Lyman,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,00440
+UTAH,50 M Breaststroke,LCM,W,65-69,51.94,Carolyn B Lyman,,Utah Summer Games,2018,1,00440
+UTAH,200 M Individual Medley,LCM,W,65-69,3:51.82,Carolyn B Lyman,,Utah Summer Games,2018,1,00440
+UTAH,400 M Individual Medley,LCM,W,65-69,7:54.64,Carolyn B Lyman,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,00440
+UTAH,50 M Freestyle,LCM,M,45-49,29.15,Mark Belnap,,Utah Summer Games,2018,1,06J0H
+UTAH,100 M Freestyle,LCM,M,45-49,1:06.54,Mark Belnap,,Utah Summer Games,2018,1,06J0H
+UTAH,1500 M Freestyle,LCM,M,45-49,22:55.03,Mark Belnap,,Utah Summer Games,2018,1,06J0H
+UTAH,50 M Breaststroke,LCM,M,45-49,38.03,Mark Belnap,,Utah Summer Games,2018,1,06J0H
+UTAH,100 M Breaststroke,LCM,M,45-49,1:28.10,Mark Belnap,,Utah Summer Games,2018,1,06J0H
+UTAH,50 M Butterfly,LCM,M,45-49,33.22,Mark Belnap,,Utah Summer Games,2018,1,06J0H
+UTAH,200 M Backstroke,LCM,M,55-59,2:54.35,Gerald S Treiman,,Virginia Commonwealth Games at Liberty University Adult Long Course Swimming,2018,1,0043A
+UTAH,200 M Butterfly,LCM,M,55-59,4:07.95,Gerald S Treiman,,Virginia Commonwealth Games at Liberty University Adult Long Course Swimming,2018,1,0043A
+UTAH,400 M Individual Medley,LCM,M,55-59,7:05.36,Gerald S Treiman,,2018 UANA Pan American Masters Championships presented by SeaWorld and hosted by Rosen YMCA Aquatic Center,2018,1,0043A
+UTAH,200 M Freestyle,LCM,M,70-74,2:59.37,Fred C Baird,,Utah Summer Games,2018,1,0042P
+UTAH,400 M Freestyle,LCM,M,70-74,5:58.74,Fred C Baird,,Utah Summer Games,2018,1,0042P
+UTAH,1500 M Freestyle,LCM,M,70-74,24:32.58,Fred C Baird,,Utah Summer Games,2018,1,0042P
+UTAH,50 M Butterfly,LCM,M,70-74,33.51,Fred C Baird,,Utah Summer Games,2018,1,0042P
+UTAH,100 M Butterfly,LCM,M,70-74,1:25.51,Fred C Baird,,Utah Summer Games,2018,1,0042P
