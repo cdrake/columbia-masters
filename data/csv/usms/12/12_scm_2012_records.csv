@@ -1,0 +1,335 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+MAC,100 M Freestyle,SCM,W,65-69,2:50.39,Andrea Hess,,Virginia Senior Games,2012,1,0669M
+MAC,100 M Backstroke,SCM,W,65-69,2:58.17,Andrea Hess,,Virginia Senior Games,2012,1,0669M
+MAC,200 M Backstroke,SCM,W,65-69,6:19.73,Andrea Hess,,Virginia Senior Games,2012,1,0669M
+SUNF,50 M Breaststroke,SCM,M,50-54,37.11,Stephen Thoresen,,Virginia Senior Games,2012,1,02JPE
+SUNF,200 M Breaststroke,SCM,M,50-54,2:56.06,Stephen Thoresen,,Virginia Senior Games,2012,1,02JPE
+SUNF,50 M Butterfly,SCM,M,50-54,32.16,Stephen Thoresen,,Virginia Senior Games,2012,1,02JPE
+SUNF,200 M Individual Medley,SCM,M,50-54,2:44.69,Stephen Thoresen,,Virginia Senior Games,2012,1,02JPE
+UNAT,50 M Freestyle,SCM,W,40-44,40.39,Tracey E Jablonski,,32nd Annual VMST Fall Meet,2012,1,07W0A
+UNAT,100 M Freestyle,SCM,W,40-44,1:18.56,Pauline M Owen,,20th Annual Albatross Open,2012,1,07N4F
+UNAT,200 M Freestyle,SCM,W,40-44,3:17.36,Pauline M Owen,,20th Annual Albatross Open,2012,1,07N4F
+UNAT,400 M Freestyle,SCM,W,40-44,6:41.94,Pauline M Owen,,20th Annual Albatross Open,2012,1,07N4F
+UNAT,50 M Breaststroke,SCM,W,40-44,49.63,Tracey E Jablonski,,32nd Annual VMST Fall Meet,2012,1,07W0A
+UNAT,100 M Individual Medley,SCM,W,40-44,1:37.99,Tracey E Jablonski,,32nd Annual VMST Fall Meet,2012,1,07W0A
+UNAT,100 M Freestyle,SCM,W,45-49,1:26.22,Maria K Dewing,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02J6B
+UNAT,50 M Breaststroke,SCM,W,60-64,58.53,Carol A Hatch,,Virginia Senior Games,2012,1,07PE3
+UNAT,100 M Breaststroke,SCM,W,60-64,2:03.06,Carol A Hatch,,Virginia Senior Games,2012,1,07PE3
+UNAT,200 M Breaststroke,SCM,W,60-64,4:19.43,Carol A Hatch,,Virginia Senior Games,2012,1,07PE3
+UNAT,100 M Freestyle,SCM,W,70-74,2:39.71,Arlien L Steiner,,32nd Annual VMST Fall Meet,2012,1,02JFG
+UNAT,100 M Backstroke,SCM,W,70-74,2:30.52,Arlien L Steiner,,32nd Annual VMST Fall Meet,2012,1,02JFG
+UNAT,200 M Backstroke,SCM,W,70-74,5:29.73,Arlien L Steiner,,Virginia Senior Games,2012,1,02JFG
+UNAT,50 M Breaststroke,SCM,W,70-74,1:15.96,Arlien L Steiner,,32nd Annual VMST Fall Meet,2012,1,02JFG
+UNAT,100 M Breaststroke,SCM,W,70-74,3:00.99,Arlien L Steiner,,32nd Annual VMST Fall Meet,2012,1,02JFG
+UNAT,200 M Breaststroke,SCM,W,70-74,6:17.94,Arlien L Steiner,,Virginia Senior Games,2012,1,02JFG
+UNAT,50 M Butterfly,SCM,W,70-74,1:22.16,Arlien L Steiner,,Virginia Senior Games,2012,1,02JFG
+UNAT,100 M Individual Medley,SCM,W,70-74,2:44.79,Arlien L Steiner,,32nd Annual VMST Fall Meet,2012,1,02JFG
+UNAT,200 M Individual Medley,SCM,W,70-74,6:12.73,Arlien L Steiner,,Virginia Senior Games,2012,1,02JFG
+UNAT,100 M Freestyle,SCM,M,25-29,1:10.18,Brandon M Hendrickson,,20th Annual Albatross Open,2012,1,062T7
+UNAT,200 M Freestyle,SCM,M,25-29,2:23.62,Nathan Tschohl,,32nd Annual VMST Fall Meet,2012,1,080MU
+UNAT,200 M Freestyle,SCM,M,25-29,2:36.26,Brandon M Hendrickson,,20th Annual Albatross Open,2012,2,062T7
+UNAT,400 M Freestyle,SCM,M,25-29,5:37.25,Brandon M Hendrickson,,20th Annual Albatross Open,2012,1,062T7
+UNAT,100 M Backstroke,SCM,M,25-29,1:12.89,Nathan Tschohl,,32nd Annual VMST Fall Meet,2012,1,080MU
+UNAT,50 M Breaststroke,SCM,M,25-29,35.32,Nathan Tschohl,,32nd Annual VMST Fall Meet,2012,1,080MU
+UNAT,100 M Butterfly,SCM,M,25-29,1:09.02,Nathan Tschohl,,32nd Annual VMST Fall Meet,2012,1,080MU
+UNAT,50 M Freestyle,SCM,M,35-39,27.84,Wayne L Duncan,,32nd Annual VMST Fall Meet,2012,1,080X9
+UNAT,1500 M Freestyle,SCM,M,35-39,22:01.42,Wayne L Duncan,,32nd Annual VMST Fall Meet,2012,1,080X9
+UNAT,50 M Butterfly,SCM,M,35-39,33.07,Wayne L Duncan,,32nd Annual VMST Fall Meet,2012,1,080X9
+UNAT,100 M Individual Medley,SCM,M,35-39,1:15.75,Wayne L Duncan,,32nd Annual VMST Fall Meet,2012,1,080X9
+UNAT,50 M Freestyle,SCM,M,50-54,28.12,Chris J Laiti,,20th Annual Albatross Open,2012,1,02J5A
+UNAT,50 M Freestyle,SCM,M,50-54,29.21,Al Heyder,,32nd Annual VMST Fall Meet,2012,2,0811M
+UNAT,50 M Freestyle,SCM,M,50-54,30.77,Stephen B Joseph,,32nd Annual VMST Fall Meet,2012,3,080HD
+UNAT,50 M Freestyle,SCM,M,50-54,31.11,Jeff Gray,,32nd Annual VMST Fall Meet,2012,4,07WU7
+UNAT,100 M Freestyle,SCM,M,50-54,1:03.17,Chris J Laiti,,20th Annual Albatross Open,2012,1,02J5A
+UNAT,100 M Freestyle,SCM,M,50-54,1:07.93,Al Heyder,,32nd Annual VMST Fall Meet,2012,2,0811M
+UNAT,200 M Freestyle,SCM,M,50-54,2:27.90,Jorge A Cortina,,32nd Annual VMST Fall Meet,2012,1,05UGB
+UNAT,200 M Freestyle,SCM,M,50-54,2:44.92,Stephen B Joseph,,32nd Annual VMST Fall Meet,2012,2,080HD
+UNAT,50 M Backstroke,SCM,M,50-54,36.11,Jorge A Cortina,,32nd Annual VMST Fall Meet,2012,1,05UGB
+UNAT,50 M Breaststroke,SCM,M,50-54,35.47,Chris J Laiti,,20th Annual Albatross Open,2012,1,02J5A
+UNAT,50 M Breaststroke,SCM,M,50-54,42.26,Jeff Gray,,32nd Annual VMST Fall Meet,2012,2,07WU7
+UNAT,100 M Individual Medley,SCM,M,50-54,1:23.62,Jeff Gray,,32nd Annual VMST Fall Meet,2012,1,07WU7
+UNAT,100 M Individual Medley,SCM,M,50-54,1:30.77,Stephen B Joseph,,32nd Annual VMST Fall Meet,2012,2,080HD
+UNAT,200 M Individual Medley,SCM,M,50-54,2:49.93,Jorge A Cortina,,32nd Annual VMST Fall Meet,2012,1,05UGB
+UNAT,50 M Backstroke,SCM,M,55-59,50.76,Larry G Hutton,,32nd Annual VMST Fall Meet,2012,1,07HZX
+UNAT,100 M Backstroke,SCM,M,55-59,2:02.49,Larry G Hutton,,Virginia Senior Games,2012,1,07HZX
+URMS,50 M Freestyle,SCM,W,25-29,32.81,Dianne L Schaus,,32nd Annual VMST Fall Meet,2012,1,07ZBE
+URMS,100 M Freestyle,SCM,W,25-29,1:12.96,Dianne L Schaus,,32nd Annual VMST Fall Meet,2012,1,07ZBE
+URMS,50 M Freestyle,SCM,W,65-69,1:04.96,Kathleen B Martin,,Virginia Senior Games,2012,1,06MAX
+VMST,100 M Freestyle,SCM,W,25-29,1:06.83,Claire C Russo,,32nd Annual VMST Fall Meet,2012,1,046MW
+VMST,400 M Freestyle,SCM,W,25-29,5:06.85,Claire C Russo,,32nd Annual VMST Fall Meet,2012,1,046MW
+VMST,50 M Breaststroke,SCM,W,25-29,37.32,Claire C Russo,,32nd Annual VMST Fall Meet,2012,1,046MW
+VMST,100 M Breaststroke,SCM,W,25-29,1:20.36,Claire C Russo,,32nd Annual VMST Fall Meet,2012,1,046MW
+VMST,50 M Freestyle,SCM,W,35-39,36.90,Andrea T Latell,,32nd Annual VMST Fall Meet,2012,1,05ZTV
+VMST,800 M Freestyle,SCM,W,35-39,13:14.55,Andrea T Latell,,32nd Annual VMST Fall Meet,2012,1,05ZTV
+VMST,100 M Breaststroke,SCM,W,35-39,1:44.70,Andrea T Latell,,32nd Annual VMST Fall Meet,2012,1,05ZTV
+VMST,50 M Butterfly,SCM,W,35-39,44.34,Andrea T Latell,,32nd Annual VMST Fall Meet,2012,1,05ZTV
+VMST,200 M Individual Medley,SCM,W,35-39,3:21.03,Andrea T Latell,,32nd Annual VMST Fall Meet,2012,1,05ZTV
+VMST,50 M Freestyle,SCM,W,40-44,39.12,Esther P Glover,,32nd Annual VMST Fall Meet,2012,1,05ZN5
+VMST,100 M Freestyle,SCM,W,40-44,1:30.30,Esther P Glover,,32nd Annual VMST Fall Meet,2012,1,05ZN5
+VMST,50 M Backstroke,SCM,W,40-44,42.16,Kimberly J Eakin,,32nd Annual VMST Fall Meet,2012,1,07VJ6
+VMST,50 M Backstroke,SCM,W,40-44,45.95,Esther P Glover,,32nd Annual VMST Fall Meet,2012,2,05ZN5
+VMST,100 M Backstroke,SCM,W,40-44,1:30.82,Kimberly J Eakin,,32nd Annual VMST Fall Meet,2012,1,07VJ6
+VMST,100 M Backstroke,SCM,W,40-44,1:39.79,Esther P Glover,,32nd Annual VMST Fall Meet,2012,2,05ZN5
+VMST,200 M Backstroke,SCM,W,40-44,3:32.24,Esther P Glover,,32nd Annual VMST Fall Meet,2012,1,05ZN5
+VMST,50 M Breaststroke,SCM,W,40-44,46.39,Kimberly J Eakin,,32nd Annual VMST Fall Meet,2012,1,07VJ6
+VMST,1500 M Freestyle,SCM,W,45-49,27:17.41,Carol F McCammon,,32nd Annual VMST Fall Meet,2012,1,06KJ1
+VMST,50 M Backstroke,SCM,W,45-49,50.12,Martha H Little,,32nd Annual VMST Fall Meet,2012,1,07HAB
+VMST,50 M Butterfly,SCM,W,45-49,54.18,Martha H Little,,32nd Annual VMST Fall Meet,2012,1,07HAB
+VMST,100 M Individual Medley,SCM,W,45-49,1:50.92,Martha H Little,,32nd Annual VMST Fall Meet,2012,1,07HAB
+VMST,50 M Freestyle,SCM,W,50-54,37.29,Elizabeth E Joseph,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,0814U
+VMST,50 M Freestyle,SCM,W,50-54,38.97,Betsy L Goode,,32nd Annual VMST Fall Meet,2012,2,02K6W
+VMST,50 M Freestyle,SCM,W,50-54,43.98,Carla O Grune,,32nd Annual VMST Fall Meet,2012,3,080W5
+VMST,50 M Freestyle,SCM,W,50-54,48.22,Carla S Hoeker,,32nd Annual VMST Fall Meet,2012,4,029K6
+VMST,100 M Freestyle,SCM,W,50-54,1:52.33,Carla S Hoeker,,32nd Annual VMST Fall Meet,2012,1,029K6
+VMST,200 M Freestyle,SCM,W,50-54,2:43.83,Nancy Speer,,32nd Annual VMST Fall Meet,2012,1,05XR8
+VMST,800 M Freestyle,SCM,W,50-54,14:27.29,Betsy L Goode,,32nd Annual VMST Fall Meet,2012,1,02K6W
+VMST,50 M Backstroke,SCM,W,50-54,51.20,Carla O Grune,,32nd Annual VMST Fall Meet,2012,1,080W5
+VMST,100 M Backstroke,SCM,W,50-54,1:56.94,Carla O Grune,,32nd Annual VMST Fall Meet,2012,1,080W5
+VMST,50 M Breaststroke,SCM,W,50-54,43.60,Nancy Speer,,32nd Annual VMST Fall Meet,2012,1,05XR8
+VMST,50 M Breaststroke,SCM,W,50-54,52.27,Betsy L Goode,,32nd Annual VMST Fall Meet,2012,2,02K6W
+VMST,50 M Breaststroke,SCM,W,50-54,1:20.28,Carla S Hoeker,,32nd Annual VMST Fall Meet,2012,3,029K6
+VMST,100 M Breaststroke,SCM,W,50-54,1:33.93,Nancy Speer,,32nd Annual VMST Fall Meet,2012,1,05XR8
+VMST,100 M Individual Medley,SCM,W,50-54,1:27.06,Nancy Speer,,32nd Annual VMST Fall Meet,2012,1,05XR8
+VMST,100 M Individual Medley,SCM,W,50-54,1:40.39,Elizabeth E Joseph,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,0814U
+VMST,100 M Individual Medley,SCM,W,50-54,1:43.01,Betsy L Goode,,32nd Annual VMST Fall Meet,2012,3,02K6W
+VMST,50 M Freestyle,SCM,W,55-59,40.49,Cheryl E Benn,,32nd Annual VMST Fall Meet,2012,1,05ETS
+VMST,100 M Freestyle,SCM,W,55-59,1:34.69,Cheryl E Benn,,32nd Annual VMST Fall Meet,2012,1,05ETS
+VMST,200 M Freestyle,SCM,W,55-59,3:06.37,Kitten Braaten,,32nd Annual VMST Fall Meet,2012,1,02HKK
+VMST,200 M Freestyle,SCM,W,55-59,3:23.55,Cheryl E Benn,,32nd Annual VMST Fall Meet,2012,2,05ETS
+VMST,800 M Freestyle,SCM,W,55-59,12:44.27,Kitten Braaten,,32nd Annual VMST Fall Meet,2012,1,02HKK
+VMST,100 M Butterfly,SCM,W,55-59,1:42.71,Kitten Braaten,,32nd Annual VMST Fall Meet,2012,1,02HKK
+VMST,200 M Butterfly,SCM,W,55-59,3:44.00,Kitten Braaten,,32nd Annual VMST Fall Meet,2012,1,02HKK
+VMST,50 M Freestyle,SCM,W,60-64,33.80,Shirley A Loftus-Charley,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HKM
+VMST,100 M Freestyle,SCM,W,60-64,1:09.44,Shirley A Loftus-Charley,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HKM
+VMST,200 M Freestyle,SCM,W,60-64,2:31.02,Shirley A Loftus-Charley,,20th Annual Albatross Open,2012,1,02HKM
+VMST,400 M Freestyle,SCM,W,60-64,5:20.29,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,800 M Freestyle,SCM,W,60-64,10:44.67,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,1500 M Freestyle,SCM,W,60-64,20:10.02,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,50 M Backstroke,SCM,W,60-64,41.85,Shirley A Loftus-Charley,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HKM
+VMST,100 M Backstroke,SCM,W,60-64,1:28.87,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,200 M Backstroke,SCM,W,60-64,3:00.78,Shirley A Loftus-Charley,,20th Annual Albatross Open,2012,1,02HKM
+VMST,50 M Breaststroke,SCM,W,60-64,44.95,Shirley A Loftus-Charley,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HKM
+VMST,100 M Breaststroke,SCM,W,60-64,1:37.08,Shirley A Loftus-Charley,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HKM
+VMST,200 M Breaststroke,SCM,W,60-64,3:19.38,Shirley A Loftus-Charley,,20th Annual Albatross Open,2012,1,02HKM
+VMST,50 M Butterfly,SCM,W,60-64,38.65,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,100 M Butterfly,SCM,W,60-64,1:21.46,Shirley A Loftus-Charley,,20th Annual Albatross Open,2012,1,02HKM
+VMST,100 M Individual Medley,SCM,W,60-64,1:24.80,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,200 M Individual Medley,SCM,W,60-64,2:55.53,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,200 M Individual Medley,SCM,W,60-64,4:01.54,Catherine A Rotch,,32nd Annual VMST Fall Meet,2012,2,02JHB
+VMST,400 M Individual Medley,SCM,W,60-64,6:03.62,Shirley A Loftus-Charley,,32nd Annual VMST Fall Meet,2012,1,02HKM
+VMST,50 M Freestyle,SCM,W,65-69,1:29.72,Cheryl H Ptak,,32nd Annual VMST Fall Meet,2012,1,074SY
+VMST,100 M Freestyle,SCM,W,65-69,3:07.87,Cheryl H Ptak,,32nd Annual VMST Fall Meet,2012,1,074SY
+VMST,200 M Freestyle,SCM,W,65-69,6:43.90,Cheryl H Ptak,,32nd Annual VMST Fall Meet,2012,1,074SY
+VMST,100 M Backstroke,SCM,W,65-69,1:50.84,Kathryn S Gregory,,32nd Annual VMST Fall Meet,2012,1,02HM0
+VMST,200 M Backstroke,SCM,W,65-69,3:56.90,Kathryn S Gregory,,32nd Annual VMST Fall Meet,2012,1,02HM0
+VMST,100 M Breaststroke,SCM,W,65-69,2:02.80,Kathryn S Gregory,,32nd Annual VMST Fall Meet,2012,1,02HM0
+VMST,50 M Butterfly,SCM,W,65-69,54.02,Kathryn S Gregory,,32nd Annual VMST Fall Meet,2012,1,02HM0
+VMST,100 M Individual Medley,SCM,W,65-69,4:48.19,Cheryl H Ptak,,32nd Annual VMST Fall Meet,2012,1,074SY
+VMST,50 M Freestyle,SCM,W,70-74,35.94,Beth Schreiner,,20th Annual Albatross Open,2012,1,0367J
+VMST,50 M Freestyle,SCM,W,70-74,42.14,Ida M Hlavacek,,WMST 2012 November Classic,2012,2,0366E
+VMST,50 M Freestyle,SCM,W,70-74,56.62,Kathleen M Broderick,,32nd Annual VMST Fall Meet,2012,3,02J0W
+VMST,100 M Freestyle,SCM,W,70-74,1:23.37,Beth Schreiner,,20th Annual Albatross Open,2012,1,0367J
+VMST,100 M Freestyle,SCM,W,70-74,1:39.91,Ida M Hlavacek,,Arkansas Senior Olympics Swim Meet,2012,2,0366E
+VMST,100 M Freestyle,SCM,W,70-74,2:10.18,Kathleen M Broderick,,32nd Annual VMST Fall Meet,2012,3,02J0W
+VMST,200 M Freestyle,SCM,W,70-74,3:09.36,Beth Schreiner,,20th Annual Albatross Open,2012,1,0367J
+VMST,200 M Freestyle,SCM,W,70-74,3:37.42,Ida M Hlavacek,,Oklahoma Masters Rose St College Swim Meet,2012,2,0366E
+VMST,400 M Freestyle,SCM,W,70-74,7:37.48,Ida M Hlavacek,,Huntsman World Senior Games,2012,1,0366E
+VMST,400 M Freestyle,SCM,W,70-74,9:22.90,Kathleen M Broderick,,32nd Annual VMST Fall Meet,2012,2,02J0W
+VMST,800 M Freestyle,SCM,W,70-74,15:36.55,Ida M Hlavacek,,Oklahoma Masters Rose St College Swim Meet,2012,1,0366E
+VMST,1500 M Freestyle,SCM,W,70-74,30:24.15,Ida M Hlavacek,,Huntsman World Senior Games,2012,1,0366E
+VMST,50 M Backstroke,SCM,W,70-74,50.23,Ida M Hlavacek,,WMST 2012 November Classic,2012,1,0366E
+VMST,50 M Backstroke,SCM,W,70-74,54.84,Judy Martin,,32nd Annual VMST Fall Meet,2012,2,02HKE
+VMST,100 M Backstroke,SCM,W,70-74,1:40.93,Beth Schreiner,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,0367J
+VMST,100 M Backstroke,SCM,W,70-74,1:48.75,Ida M Hlavacek,,Huntsman World Senior Games,2012,2,0366E
+VMST,100 M Backstroke,SCM,W,70-74,1:52.34,Judy Martin,,32nd Annual VMST Fall Meet,2012,3,02HKE
+VMST,200 M Backstroke,SCM,W,70-74,3:59.11,Ida M Hlavacek,,Huntsman World Senior Games,2012,1,0366E
+VMST,200 M Backstroke,SCM,W,70-74,4:00.82,Judy Martin,,32nd Annual VMST Fall Meet,2012,2,02HKE
+VMST,50 M Breaststroke,SCM,W,70-74,55.44,Susan E Marens,,32nd Annual VMST Fall Meet,2012,1,02HSX
+VMST,50 M Breaststroke,SCM,W,70-74,57.10,Judy Martin,,32nd Annual VMST Fall Meet,2012,2,02HKE
+VMST,50 M Breaststroke,SCM,W,70-74,1:05.82,Ida M Hlavacek,,WMST 2012 November Classic,2012,3,0366E
+VMST,100 M Breaststroke,SCM,W,70-74,2:06.34,Susan E Marens,,32nd Annual VMST Fall Meet,2012,1,02HSX
+VMST,100 M Breaststroke,SCM,W,70-74,2:16.65,Ida M Hlavacek,,WMST 2012 November Classic,2012,2,0366E
+VMST,200 M Breaststroke,SCM,W,70-74,5:02.64,Ida M Hlavacek,,WMST 2012 November Classic,2012,1,0366E
+VMST,50 M Butterfly,SCM,W,70-74,54.18,Ida M Hlavacek,,WMST 2012 November Classic,2012,1,0366E
+VMST,50 M Butterfly,SCM,W,70-74,59.21,Susan E Marens,,32nd Annual VMST Fall Meet,2012,2,02HSX
+VMST,100 M Butterfly,SCM,W,70-74,2:02.28,Ida M Hlavacek,,Arkansas Senior Olympics Swim Meet,2012,1,0366E
+VMST,200 M Butterfly,SCM,W,70-74,4:47.53,Ida M Hlavacek,,Huntsman World Senior Games,2012,1,0366E
+VMST,100 M Individual Medley,SCM,W,70-74,1:57.89,Ida M Hlavacek,,WMST 2012 November Classic,2012,1,0366E
+VMST,200 M Individual Medley,SCM,W,70-74,4:02.97,Ida M Hlavacek,,Arkansas Senior Olympics Swim Meet,2012,1,0366E
+VMST,400 M Individual Medley,SCM,W,70-74,8:43.09,Ida M Hlavacek,,Huntsman World Senior Games,2012,1,0366E
+VMST,50 M Freestyle,SCM,W,75-79,38.42,Johnnie Detrick,,32nd Annual VMST Fall Meet,2012,1,02HME
+VMST,50 M Freestyle,SCM,W,75-79,44.00,Laura S Walker,,32nd Annual VMST Fall Meet,2012,2,02HK3
+VMST,50 M Freestyle,SCM,W,75-79,45.76,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,3,036BX
+VMST,100 M Freestyle,SCM,W,75-79,1:28.71,Johnnie Detrick,,20th Annual Albatross Open,2012,1,02HME
+VMST,100 M Freestyle,SCM,W,75-79,1:40.11,Laura S Walker,,32nd Annual VMST Fall Meet,2012,2,02HK3
+VMST,200 M Freestyle,SCM,W,75-79,3:34.45,Johnnie Detrick,,Virginia Senior Games,2012,1,02HME
+VMST,400 M Freestyle,SCM,W,75-79,7:33.12,Johnnie Detrick,,32nd Annual VMST Fall Meet,2012,1,02HME
+VMST,50 M Backstroke,SCM,W,75-79,56.91,Johnnie Detrick,,Virginia Senior Games,2012,1,02HME
+VMST,50 M Backstroke,SCM,W,75-79,1:01.40,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,2,036BX
+VMST,100 M Backstroke,SCM,W,75-79,1:56.61,Laura S Walker,,32nd Annual VMST Fall Meet,2012,1,02HK3
+VMST,200 M Backstroke,SCM,W,75-79,4:06.60,Laura S Walker,,32nd Annual VMST Fall Meet,2012,1,02HK3
+VMST,200 M Backstroke,SCM,W,75-79,4:56.91,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,2,036BX
+VMST,50 M Breaststroke,SCM,W,75-79,52.99,Johnnie Detrick,,20th Annual Albatross Open,2012,1,02HME
+VMST,100 M Breaststroke,SCM,W,75-79,1:59.88,Johnnie Detrick,,Virginia Senior Games,2012,1,02HME
+VMST,200 M Breaststroke,SCM,W,75-79,4:20.23,Johnnie Detrick,,Virginia Senior Games,2012,1,02HME
+VMST,50 M Butterfly,SCM,W,75-79,1:10.39,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,1,036BX
+VMST,100 M Butterfly,SCM,W,75-79,2:53.81,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,1,036BX
+VMST,200 M Butterfly,SCM,W,75-79,6:10.27,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,1,036BX
+VMST,100 M Individual Medley,SCM,W,75-79,1:48.96,Johnnie Detrick,,20th Annual Albatross Open,2012,1,02HME
+VMST,100 M Individual Medley,SCM,W,75-79,2:06.67,Laura S Walker,,32nd Annual VMST Fall Meet,2012,2,02HK3
+VMST,200 M Individual Medley,SCM,W,75-79,4:06.34,Johnnie Detrick,,Virginia Senior Games,2012,1,02HME
+VMST,200 M Individual Medley,SCM,W,75-79,4:48.80,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,2,036BX
+VMST,400 M Individual Medley,SCM,W,75-79,10:06.40,Barbara M Zaremski,,MOVY Lees Summit SCM Champs,2012,1,036BX
+VMST,50 M Freestyle,SCM,W,80-84,59.15,Jeanne H Meredith,,32nd Annual VMST Fall Meet,2012,1,02HT9
+VMST,100 M Freestyle,SCM,W,80-84,2:14.48,Jeanne H Meredith,,32nd Annual VMST Fall Meet,2012,1,02HT9
+VMST,400 M Freestyle,SCM,W,80-84,10:00.45,Jeanne H Meredith,,32nd Annual VMST Fall Meet,2012,1,02HT9
+VMST,50 M Freestyle,SCM,W,85-89,1:14.67,Miriam K Tuovila,,Virginia Senior Games,2012,1,02J19
+VMST,50 M Breaststroke,SCM,W,85-89,1:19.41,Miriam K Tuovila,,Virginia Senior Games,2012,1,02J19
+VMST,100 M Breaststroke,SCM,W,85-89,2:53.90,Miriam K Tuovila,,Virginia Senior Games,2012,1,02J19
+VMST,200 M Breaststroke,SCM,W,85-89,6:22.48,Miriam K Tuovila,,Virginia Senior Games,2012,1,02J19
+VMST,100 M Individual Medley,SCM,W,85-89,3:08.65,Miriam K Tuovila,,Virginia Senior Games,2012,1,02J19
+VMST,50 M Freestyle,SCM,W,90-94,1:12.37,Marianna Berkley,,32nd Annual VMST Fall Meet,2012,1,02HK1
+VMST,50 M Breaststroke,SCM,W,90-94,1:38.44,Marianna Berkley,,32nd Annual VMST Fall Meet,2012,1,02HK1
+VMST,100 M Breaststroke,SCM,W,90-94,3:41.00,Marianna Berkley,,32nd Annual VMST Fall Meet,2012,1,02HK1
+VMST,100 M Individual Medley,SCM,W,90-94,3:52.17,Marianna Berkley,,32nd Annual VMST Fall Meet,2012,1,02HK1
+VMST,50 M Freestyle,SCM,W,100-104,1:44.10,Marie K Kelleher,,Virginia Senior Games,2012,1,02HPV
+VMST,100 M Freestyle,SCM,W,100-104,3:40.00,Marie K Kelleher,,Virginia Senior Games,2012,1,02HPV
+VMST,50 M Freestyle,SCM,M,25-29,27.48,Stephen P Gomez,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02K74
+VMST,100 M Freestyle,SCM,M,25-29,1:03.00,Stephen P Gomez,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02K74
+VMST,50 M Breaststroke,SCM,M,25-29,35.87,Stephen P Gomez,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02K74
+VMST,50 M Butterfly,SCM,M,25-29,29.69,Stephen P Gomez,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02K74
+VMST,100 M Individual Medley,SCM,M,25-29,1:09.39,Stephen P Gomez,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02K74
+VMST,100 M Backstroke,SCM,M,30-34,1:06.76,Sam F Harris,,32nd Annual VMST Fall Meet,2012,1,05S5V
+VMST,100 M Individual Medley,SCM,M,30-34,1:08.64,Sam F Harris,,32nd Annual VMST Fall Meet,2012,1,05S5V
+VMST,50 M Freestyle,SCM,M,35-39,27.77,Wayne L Duncan,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,080X9
+VMST,50 M Backstroke,SCM,M,35-39,37.07,Wayne L Duncan,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,080X9
+VMST,50 M Butterfly,SCM,M,35-39,32.78,Wayne L Duncan,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,080X9
+VMST,100 M Individual Medley,SCM,M,35-39,1:14.61,Wayne L Duncan,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,080X9
+VMST,50 M Freestyle,SCM,M,45-49,27.25,Kirk W Clear,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,005HN
+VMST,50 M Freestyle,SCM,M,45-49,32.04,Derek W Raulerson,,32nd Annual VMST Fall Meet,2012,2,02JMD
+VMST,100 M Freestyle,SCM,M,45-49,1:11.34,Derek W Raulerson,,32nd Annual VMST Fall Meet,2012,1,02JMD
+VMST,200 M Freestyle,SCM,M,45-49,1:59.62,Chris L Stevenson,,South Carolina SCM Championships,2012,1,02J1G
+VMST,400 M Freestyle,SCM,M,45-49,4:16.19,Chris L Stevenson,,South Carolina SCM Championships,2012,1,02J1G
+VMST,800 M Freestyle,SCM,M,45-49,9:05.08,Chris L Stevenson,,32nd Annual VMST Fall Meet,2012,1,02J1G
+VMST,50 M Backstroke,SCM,M,45-49,28.80,Chris L Stevenson,,32nd Annual VMST Fall Meet,2012,1,02J1G
+VMST,50 M Backstroke,SCM,M,45-49,31.59,Kirk W Clear,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,005HN
+VMST,100 M Backstroke,SCM,M,45-49,58.71,Chris L Stevenson,,South Carolina SCM Championships,2012,1,02J1G
+VMST,100 M Backstroke,SCM,M,45-49,1:11.69,Kirk W Clear,,20th Annual Albatross Open,2012,2,005HN
+VMST,200 M Backstroke,SCM,M,45-49,2:10.46,Chris L Stevenson,,South Carolina SCM Championships,2012,1,02J1G
+VMST,50 M Breaststroke,SCM,M,45-49,38.41,Kirk W Clear,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,005HN
+VMST,50 M Butterfly,SCM,M,45-49,30.25,Kirk W Clear,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,005HN
+VMST,50 M Butterfly,SCM,M,45-49,40.58,Derek W Raulerson,,32nd Annual VMST Fall Meet,2012,2,02JMD
+VMST,100 M Butterfly,SCM,M,45-49,59.02,Chris L Stevenson,,South Carolina SCM Championships,2012,1,02J1G
+VMST,50 M Freestyle,SCM,M,50-54,27.14,David B Malsbury,,Virginia Senior Games,2012,1,02HVM
+VMST,50 M Freestyle,SCM,M,50-54,30.08,Stephen B Joseph,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,080HD
+VMST,100 M Freestyle,SCM,M,50-54,1:10.13,Stephen B Joseph,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,080HD
+VMST,200 M Freestyle,SCM,M,50-54,2:34.96,Mitch Saks,,32nd Annual VMST Fall Meet,2012,1,02K4A
+VMST,400 M Freestyle,SCM,M,50-54,5:30.86,Mitch Saks,,32nd Annual VMST Fall Meet,2012,1,02K4A
+VMST,400 M Freestyle,SCM,M,50-54,8:27.23,Steve P Myran,,32nd Annual VMST Fall Meet,2012,2,08150
+VMST,800 M Freestyle,SCM,M,50-54,11:13.35,Mitch Saks,,32nd Annual VMST Fall Meet,2012,1,02K4A
+VMST,800 M Freestyle,SCM,M,50-54,17:27.99,Steve P Myran,,32nd Annual VMST Fall Meet,2012,2,08150
+VMST,1500 M Freestyle,SCM,M,50-54,19:26.73,Jim McFarland,,32nd Annual VMST Fall Meet,2012,1,02J18
+VMST,50 M Backstroke,SCM,M,50-54,31.19,David B Malsbury,,Virginia Senior Games,2012,1,02HVM
+VMST,50 M Backstroke,SCM,M,50-54,38.92,Robert A Romo,,Virginia Senior Games,2012,2,02HT4
+VMST,100 M Backstroke,SCM,M,50-54,1:09.91,David B Malsbury,,20th Annual Albatross Open,2012,1,02HVM
+VMST,100 M Backstroke,SCM,M,50-54,1:24.76,Robert A Romo,,Virginia Senior Games,2012,2,02HT4
+VMST,200 M Backstroke,SCM,M,50-54,2:57.48,David B Malsbury,,Virginia Senior Games,2012,1,02HVM
+VMST,200 M Backstroke,SCM,M,50-54,3:14.48,Robert A Romo,,Virginia Senior Games,2012,2,02HT4
+VMST,50 M Breaststroke,SCM,M,50-54,33.56,David B Malsbury,,Virginia Senior Games,2012,1,02HVM
+VMST,50 M Breaststroke,SCM,M,50-54,40.69,Robert A Romo,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,02HT4
+VMST,100 M Breaststroke,SCM,M,50-54,1:17.55,David B Malsbury,,Virginia Senior Games,2012,1,02HVM
+VMST,50 M Butterfly,SCM,M,50-54,30.46,David B Malsbury,,20th Annual Albatross Open,2012,1,02HVM
+VMST,50 M Butterfly,SCM,M,50-54,34.95,Robert A Romo,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,02HT4
+VMST,50 M Butterfly,SCM,M,50-54,40.05,Stephen B Joseph,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,3,080HD
+VMST,100 M Butterfly,SCM,M,50-54,1:12.10,David B Malsbury,,20th Annual Albatross Open,2012,1,02HVM
+VMST,100 M Individual Medley,SCM,M,50-54,1:12.40,David B Malsbury,,Virginia Senior Games,2012,1,02HVM
+VMST,100 M Individual Medley,SCM,M,50-54,1:14.34,Stephen B Joseph,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,080HD
+VMST,50 M Freestyle,SCM,M,55-59,28.59,William C Throne,,32nd Annual VMST Fall Meet,2012,1,01U6F
+VMST,50 M Freestyle,SCM,M,55-59,29.93,David F Russell,,32nd Annual VMST Fall Meet,2012,2,001HD
+VMST,50 M Freestyle,SCM,M,55-59,34.67,Bill L Nelson,,32nd Annual VMST Fall Meet,2012,3,02JCR
+VMST,100 M Freestyle,SCM,M,55-59,1:19.78,Bill L Nelson,,32nd Annual VMST Fall Meet,2012,1,02JCR
+VMST,200 M Freestyle,SCM,M,55-59,3:08.03,Ralph B Swiger,,Virginia Senior Games,2012,1,02HW9
+VMST,200 M Freestyle,SCM,M,55-59,3:09.52,Bill L Nelson,,32nd Annual VMST Fall Meet,2012,2,02JCR
+VMST,400 M Freestyle,SCM,M,55-59,5:11.03,William C Throne,,32nd Annual VMST Fall Meet,2012,1,01U6F
+VMST,400 M Freestyle,SCM,M,55-59,6:39.99,Ralph B Swiger,,Virginia Senior Games,2012,2,02HW9
+VMST,50 M Backstroke,SCM,M,55-59,42.85,Bryan A Stone,,32nd Annual VMST Fall Meet,2012,1,02J0N
+VMST,50 M Backstroke,SCM,M,55-59,47.24,Ralph B Swiger,,32nd Annual VMST Fall Meet,2012,2,02HW9
+VMST,100 M Backstroke,SCM,M,55-59,1:36.00,Bryan A Stone,,32nd Annual VMST Fall Meet,2012,1,02J0N
+VMST,100 M Backstroke,SCM,M,55-59,1:39.67,Victor H Mickunas,,32nd Annual VMST Fall Meet,2012,2,02HS0
+VMST,100 M Backstroke,SCM,M,55-59,1:43.27,Ralph B Swiger,,Virginia Senior Games,2012,3,02HW9
+VMST,200 M Backstroke,SCM,M,55-59,3:34.94,Bryan A Stone,,32nd Annual VMST Fall Meet,2012,1,02J0N
+VMST,200 M Backstroke,SCM,M,55-59,3:41.83,Ralph B Swiger,,32nd Annual VMST Fall Meet,2012,2,02HW9
+VMST,50 M Breaststroke,SCM,M,55-59,37.97,David F Russell,,32nd Annual VMST Fall Meet,2012,1,001HD
+VMST,50 M Breaststroke,SCM,M,55-59,45.37,Bryan A Stone,,32nd Annual VMST Fall Meet,2012,2,02J0N
+VMST,50 M Breaststroke,SCM,M,55-59,48.95,Ralph B Swiger,,Virginia Senior Games,2012,3,02HW9
+VMST,50 M Breaststroke,SCM,M,55-59,49.87,Bill L Nelson,,32nd Annual VMST Fall Meet,2012,4,02JCR
+VMST,100 M Breaststroke,SCM,M,55-59,1:41.63,Bryan A Stone,,32nd Annual VMST Fall Meet,2012,1,02J0N
+VMST,100 M Breaststroke,SCM,M,55-59,1:45.39,Victor H Mickunas,,32nd Annual VMST Fall Meet,2012,2,02HS0
+VMST,100 M Breaststroke,SCM,M,55-59,1:52.45,Ralph B Swiger,,Virginia Senior Games,2012,3,02HW9
+VMST,200 M Breaststroke,SCM,M,55-59,3:46.44,Ralph B Swiger,,32nd Annual VMST Fall Meet,2012,1,02HW9
+VMST,50 M Butterfly,SCM,M,55-59,32.15,David F Russell,,32nd Annual VMST Fall Meet,2012,1,001HD
+VMST,50 M Butterfly,SCM,M,55-59,34.63,William C Throne,,32nd Annual VMST Fall Meet,2012,2,01U6F
+VMST,50 M Butterfly,SCM,M,55-59,48.53,Ralph B Swiger,,Virginia Senior Games,2012,3,02HW9
+VMST,100 M Butterfly,SCM,M,55-59,1:53.25,Ralph B Swiger,,Virginia Senior Games,2012,1,02HW9
+VMST,100 M Individual Medley,SCM,M,55-59,1:16.47,David F Russell,,32nd Annual VMST Fall Meet,2012,1,001HD
+VMST,100 M Individual Medley,SCM,M,55-59,1:37.50,Victor H Mickunas,,32nd Annual VMST Fall Meet,2012,2,02HS0
+VMST,200 M Individual Medley,SCM,M,55-59,3:35.89,Ralph B Swiger,,32nd Annual VMST Fall Meet,2012,1,02HW9
+VMST,400 M Individual Medley,SCM,M,55-59,7:31.67,Ralph B Swiger,,32nd Annual VMST Fall Meet,2012,1,02HW9
+VMST,200 M Backstroke,SCM,M,60-64,2:56.06,John W Mccorkle,,20th Annual Albatross Open,2012,1,02JS7
+VMST,200 M Breaststroke,SCM,M,60-64,3:13.26,John W Mccorkle,,20th Annual Albatross Open,2012,1,02JS7
+VMST,100 M Butterfly,SCM,M,60-64,1:14.55,John W Mccorkle,,20th Annual Albatross Open,2012,1,02JS7
+VMST,200 M Individual Medley,SCM,M,60-64,2:49.89,John W Mccorkle,,20th Annual Albatross Open,2012,1,02JS7
+VMST,50 M Freestyle,SCM,M,65-69,35.30,James W Davis,,20th Annual Albatross Open,2012,1,05X7V
+VMST,50 M Freestyle,SCM,M,65-69,40.39,Samuel A Finz,,Virginia Senior Games,2012,2,071KT
+VMST,50 M Breaststroke,SCM,M,65-69,41.40,James W Davis,,20th Annual Albatross Open,2012,1,05X7V
+VMST,50 M Breaststroke,SCM,M,65-69,50.79,Samuel A Finz,,Virginia Senior Games,2012,2,071KT
+VMST,100 M Breaststroke,SCM,M,65-69,1:39.38,James W Davis,,20th Annual Albatross Open,2012,1,05X7V
+VMST,100 M Butterfly,SCM,M,65-69,1:41.79,James W Davis,,20th Annual Albatross Open,2012,1,05X7V
+VMST,50 M Freestyle,SCM,M,70-74,46.21,Frank H Miller,,32nd Annual VMST Fall Meet,2012,1,073A5
+VMST,200 M Freestyle,SCM,M,70-74,4:12.00,Frank H Miller,,32nd Annual VMST Fall Meet,2012,1,073A5
+VMST,400 M Freestyle,SCM,M,70-74,8:59.40,Frank H Miller,,32nd Annual VMST Fall Meet,2012,1,073A5
+VMST,50 M Breaststroke,SCM,M,70-74,46.21,Edward H Gaulrapp,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HSH
+VMST,100 M Breaststroke,SCM,M,70-74,1:46.03,Edward H Gaulrapp,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HSH
+VMST,100 M Breaststroke,SCM,M,70-74,2:27.58,Frank H Miller,,32nd Annual VMST Fall Meet,2012,2,073A5
+VMST,200 M Breaststroke,SCM,M,70-74,3:52.82,Edward H Gaulrapp,,20th Annual Albatross Open,2012,1,02HSH
+VMST,50 M Butterfly,SCM,M,70-74,50.13,Edward H Gaulrapp,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HSH
+VMST,100 M Butterfly,SCM,M,70-74,1:47.93,Edward H Gaulrapp,,20th Annual Albatross Open,2012,1,02HSH
+VMST,200 M Butterfly,SCM,M,70-74,4:09.57,Edward H Gaulrapp,,20th Annual Albatross Open,2012,1,02HSH
+VMST,100 M Individual Medley,SCM,M,70-74,1:43.97,Edward H Gaulrapp,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,02HSH
+VMST,200 M Individual Medley,SCM,M,70-74,3:47.17,Edward H Gaulrapp,,20th Annual Albatross Open,2012,1,02HSH
+VMST,50 M Freestyle,SCM,M,75-79,39.92,Owen C Maher,,Virginia Senior Games,2012,1,02HW6
+VMST,100 M Freestyle,SCM,M,75-79,1:31.91,Owen C Maher,,Virginia Senior Games,2012,1,02HW6
+VMST,200 M Freestyle,SCM,M,75-79,3:34.51,Owen C Maher,,Virginia Senior Games,2012,1,02HW6
+VMST,50 M Backstroke,SCM,M,75-79,53.00,Niel L Sween,,Virginia Senior Games,2012,1,036TT
+VMST,50 M Backstroke,SCM,M,75-79,55.43,Alfred C Newbury,,32nd Annual VMST Fall Meet,2012,2,02HK5
+VMST,100 M Backstroke,SCM,M,75-79,1:58.23,Alfred C Newbury,,32nd Annual VMST Fall Meet,2012,1,02HK5
+VMST,100 M Backstroke,SCM,M,75-79,2:03.25,Niel L Sween,,Virginia Senior Games,2012,2,036TT
+VMST,200 M Backstroke,SCM,M,75-79,4:09.37,Alfred C Newbury,,32nd Annual VMST Fall Meet,2012,1,02HK5
+VMST,200 M Backstroke,SCM,M,75-79,4:42.76,Niel L Sween,,Virginia Senior Games,2012,2,036TT
+VMST,50 M Breaststroke,SCM,M,75-79,55.37,Richard A Scott,,32nd Annual VMST Fall Meet,2012,1,02K2C
+VMST,100 M Breaststroke,SCM,M,75-79,2:18.79,Richard A Scott,,32nd Annual VMST Fall Meet,2012,1,02K2C
+VMST,200 M Breaststroke,SCM,M,75-79,4:52.28,Richard A Scott,,32nd Annual VMST Fall Meet,2012,1,02K2C
+VMST,50 M Butterfly,SCM,M,75-79,50.05,Owen C Maher,,Virginia Senior Games,2012,1,02HW6
+VMST,100 M Butterfly,SCM,M,75-79,2:10.46,Owen C Maher,,Virginia Senior Games,2012,1,02HW6
+VMST,200 M Butterfly,SCM,M,75-79,6:06.25,Richard A Scott,,32nd Annual VMST Fall Meet,2012,1,02K2C
+VMST,100 M Individual Medley,SCM,M,75-79,1:55.06,Owen C Maher,,Virginia Senior Games,2012,1,02HW6
+VMST,50 M Freestyle,SCM,M,85-89,52.07,Francis M Hall,,32nd Annual VMST Fall Meet,2012,1,0066R
+VMST,800 M Freestyle,SCM,M,85-89,19:49.12,Calvin W Barnes,,32nd Annual VMST Fall Meet,2012,1,02HPZ
+VMST,1500 M Freestyle,SCM,M,85-89,38:47.15,Calvin W Barnes,,32nd Annual VMST Fall Meet,2012,1,02HPZ
+VMST,200 M Backstroke,SCM,M,85-89,5:03.72,Calvin W Barnes,,32nd Annual VMST Fall Meet,2012,1,02HPZ
+WAVA,50 M Freestyle,SCM,M,35-39,33.84,Drew A Rathgeber,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,07UVE
+WAVA,50 M Breaststroke,SCM,M,35-39,42.51,Drew A Rathgeber,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,07UVE
+WAVA,50 M Freestyle,SCM,M,50-54,30.06,Jeremy A Worst,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,05Z7P
+WAVA,50 M Freestyle,SCM,M,50-54,30.83,Bradley A Convis,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,2,07C1V
+WAVA,100 M Freestyle,SCM,M,50-54,1:11.16,Bradley A Convis,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,07C1V
+WAVA,50 M Breaststroke,SCM,M,50-54,40.59,Bradley A Convis,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,07C1V
+WAVA,100 M Breaststroke,SCM,M,50-54,1:34.43,Bradley A Convis,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,07C1V
+WAVA,50 M Butterfly,SCM,M,50-54,31.27,Jeremy A Worst,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,05Z7P
+WAVA,100 M Butterfly,SCM,M,50-54,1:17.02,Jeremy A Worst,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,05Z7P
+WAVA,100 M Individual Medley,SCM,M,50-54,1:18.08,Jeremy A Worst,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,05Z7P
+WAVA,50 M Backstroke,SCM,M,65-69,57.33,Tim R Frees,,Virginia Senior Games,2012,1,0789E
+WAVA,100 M Backstroke,SCM,M,65-69,2:13.96,Tim R Frees,,Potomac Valley Short Course Meters Relay and Sprint Festival,2012,1,0789E
+WVMS,50 M Breaststroke,SCM,W,60-64,55.98,Carol A Hatch,,32nd Annual VMST Fall Meet,2012,1,07PE3
+WVMS,100 M Breaststroke,SCM,W,60-64,2:01.57,Carol A Hatch,,32nd Annual VMST Fall Meet,2012,1,07PE3
+WVMS,200 M Breaststroke,SCM,W,60-64,4:17.93,Carol A Hatch,,32nd Annual VMST Fall Meet,2012,1,07PE3
+WVMS,50 M Freestyle,SCM,M,65-69,50.11,Ron D Honaker,,32nd Annual VMST Fall Meet,2012,1,07X3A

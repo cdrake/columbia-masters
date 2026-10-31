@@ -1,0 +1,401 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+ACAM,100 M Freestyle,SCM,M,45-49,58.69,Andy Lockman,,2009 Albatross Open,2009,1,02HRC
+CNU,50 M Freestyle,SCM,W,18-24,31.74,Nicola B Donnelly,,VMST 29th Annual Fall Swim Meet,2009,1,06HUP
+CNU,50 M Freestyle,SCM,W,18-24,34.38,Elizabeth N Vignaroli,,VMST 29th Annual Fall Swim Meet,2009,2,06HUE
+CNU,50 M Freestyle,SCM,W,18-24,35.30,Cayla D Haney,,VMST 29th Annual Fall Swim Meet,2009,3,06HUH
+CNU,50 M Freestyle,SCM,W,18-24,35.92,Katelyn J Anders,,VMST 29th Annual Fall Swim Meet,2009,4,06HUJ
+CNU,50 M Freestyle,SCM,W,18-24,36.24,Sydney B Meadows,,VMST 29th Annual Fall Swim Meet,2009,5,06HUF
+CNU,50 M Freestyle,SCM,W,18-24,42.82,Mackenzie S Kegley,,VMST 29th Annual Fall Swim Meet,2009,6,06HUR
+CNU,100 M Freestyle,SCM,W,18-24,1:11.41,Lindsay M Schiller,,VMST 29th Annual Fall Swim Meet,2009,1,06HUN
+CNU,400 M Freestyle,SCM,W,18-24,5:23.97,Lindsay M Schiller,,VMST 29th Annual Fall Swim Meet,2009,1,06HUN
+CNU,50 M Backstroke,SCM,W,18-24,51.23,Mackenzie S Kegley,,VMST 29th Annual Fall Swim Meet,2009,1,06HUR
+CNU,50 M Breaststroke,SCM,W,18-24,40.39,Nicola B Donnelly,,VMST 29th Annual Fall Swim Meet,2009,1,06HUP
+CNU,50 M Breaststroke,SCM,W,18-24,46.06,Sydney B Meadows,,VMST 29th Annual Fall Swim Meet,2009,2,06HUF
+CNU,50 M Breaststroke,SCM,W,18-24,48.20,Katelyn J Anders,,VMST 29th Annual Fall Swim Meet,2009,3,06HUJ
+CNU,50 M Breaststroke,SCM,W,18-24,54.62,Mackenzie S Kegley,,VMST 29th Annual Fall Swim Meet,2009,4,06HUR
+CNU,50 M Breaststroke,SCM,W,18-24,59.82,Jamie L Englert,,VMST 29th Annual Fall Swim Meet,2009,5,06J5E
+CNU,100 M Breaststroke,SCM,W,18-24,1:30.02,Nicola B Donnelly,,VMST 29th Annual Fall Swim Meet,2009,1,06HUP
+CNU,100 M Breaststroke,SCM,W,18-24,1:30.37,Ashley E Lomicka,,VMST 29th Annual Fall Swim Meet,2009,2,06HUT
+CNU,100 M Breaststroke,SCM,W,18-24,1:32.63,Chelsie H Gray,,VMST 29th Annual Fall Swim Meet,2009,3,06HUG
+CNU,100 M Breaststroke,SCM,W,18-24,1:43.07,Sydney B Meadows,,VMST 29th Annual Fall Swim Meet,2009,4,06HUF
+CNU,50 M Butterfly,SCM,W,18-24,36.28,Chelsie H Gray,,VMST 29th Annual Fall Swim Meet,2009,1,06HUG
+CNU,100 M Butterfly,SCM,W,18-24,1:22.81,Lindsay M Schiller,,VMST 29th Annual Fall Swim Meet,2009,1,06HUN
+CNU,100 M Individual Medley,SCM,W,18-24,1:23.10,Chelsie H Gray,,VMST 29th Annual Fall Swim Meet,2009,1,06HUG
+CNU,200 M Individual Medley,SCM,W,18-24,3:05.39,Ashley E Lomicka,,VMST 29th Annual Fall Swim Meet,2009,1,06HUT
+CNU,50 M Freestyle,SCM,M,18-24,30.31,John W Fisher,,VMST 29th Annual Fall Swim Meet,2009,1,06HUK
+CNU,100 M Freestyle,SCM,M,18-24,1:01.28,Marshall A Severin,,VMST 29th Annual Fall Swim Meet,2009,1,06HUS
+CNU,200 M Freestyle,SCM,M,18-24,2:18.52,Marshall A Severin,,VMST 29th Annual Fall Swim Meet,2009,1,06HUS
+CNU,100 M Backstroke,SCM,M,18-24,1:06.10,Marshall A Severin,,VMST 29th Annual Fall Swim Meet,2009,1,06HUS
+CNU,200 M Backstroke,SCM,M,18-24,2:25.45,Marshall A Severin,,VMST 29th Annual Fall Swim Meet,2009,1,06HUS
+CNU,100 M Butterfly,SCM,M,18-24,1:12.82,Marshall A Severin,,VMST 29th Annual Fall Swim Meet,2009,1,06HUS
+CNU,100 M Individual Medley,SCM,M,18-24,1:18.35,John W Fisher,,VMST 29th Annual Fall Swim Meet,2009,1,06HUK
+RCA,50 M Freestyle,SCM,W,18-24,35.43,Catherine T Mika,,VMST 29th Annual Fall Swim Meet,2009,1,06HMP
+RCA,100 M Backstroke,SCM,W,18-24,1:29.00,Catherine T Mika,,VMST 29th Annual Fall Swim Meet,2009,1,06HMP
+RCA,50 M Breaststroke,SCM,W,18-24,46.48,Catherine T Mika,,VMST 29th Annual Fall Swim Meet,2009,1,06HMP
+RCA,100 M Individual Medley,SCM,W,18-24,1:29.03,Catherine T Mika,,VMST 29th Annual Fall Swim Meet,2009,1,06HMP
+SHYM,50 M Backstroke,SCM,W,30-34,34.95,Elizabeth B Graf,,VMST 29th Annual Fall Swim Meet,2009,1,06JDY
+SHYM,100 M Backstroke,SCM,W,30-34,1:14.37,Elizabeth B Graf,,VMST 29th Annual Fall Swim Meet,2009,1,06JDY
+SHYM,200 M Backstroke,SCM,W,30-34,2:41.63,Elizabeth B Graf,,VMST 29th Annual Fall Swim Meet,2009,1,06JDY
+SHYM,50 M Butterfly,SCM,W,30-34,34.24,Elizabeth B Graf,,VMST 29th Annual Fall Swim Meet,2009,1,06JDY
+SHYM,50 M Freestyle,SCM,M,30-34,29.48,Brian T McCune,,VMST 29th Annual Fall Swim Meet,2009,1,06JDW
+SHYM,200 M Freestyle,SCM,M,30-34,2:26.79,Brian T McCune,,VMST 29th Annual Fall Swim Meet,2009,1,06JDW
+SHYM,800 M Freestyle,SCM,M,30-34,10:35.72,Brian T McCune,,VMST 29th Annual Fall Swim Meet,2009,1,06JDW
+SHYM,50 M Freestyle,SCM,M,35-39,27.90,Brian Blalock,,VMST 29th Annual Fall Swim Meet,2009,1,06HY7
+SHYM,400 M Freestyle,SCM,M,35-39,4:46.68,Brian Blalock,,VMST 29th Annual Fall Swim Meet,2009,1,06HY7
+SHYM,800 M Freestyle,SCM,M,35-39,9:42.31,Brian Blalock,,VMST 29th Annual Fall Swim Meet,2009,1,06HY7
+SHYM,100 M Backstroke,SCM,M,35-39,1:05.95,Robert A Hueller,,VMST 29th Annual Fall Swim Meet,2009,1,0342H
+SHYM,200 M Backstroke,SCM,M,35-39,2:20.58,Robert A Hueller,,VMST 29th Annual Fall Swim Meet,2009,1,0342H
+SHYM,100 M Butterfly,SCM,M,35-39,1:08.83,Brian Blalock,,VMST 29th Annual Fall Swim Meet,2009,1,06HY7
+SHYM,200 M Butterfly,SCM,M,35-39,2:30.89,Brian Blalock,,VMST 29th Annual Fall Swim Meet,2009,1,06HY7
+SHYM,100 M Individual Medley,SCM,M,35-39,1:10.54,Robert A Hueller,,VMST 29th Annual Fall Swim Meet,2009,1,0342H
+SHYM,200 M Individual Medley,SCM,M,35-39,2:31.80,Brian Blalock,,VMST 29th Annual Fall Swim Meet,2009,1,06HY7
+SHYM,400 M Individual Medley,SCM,M,35-39,5:20.39,Robert A Hueller,,VMST 29th Annual Fall Swim Meet,2009,1,0342H
+SHYM,50 M Freestyle,SCM,M,40-44,28.24,Steven A Jackson,,VMST 29th Annual Fall Swim Meet,2009,1,06HZ5
+SHYM,50 M Backstroke,SCM,M,40-44,38.20,Steven A Jackson,,VMST 29th Annual Fall Swim Meet,2009,1,06HZ5
+SHYM,100 M Backstroke,SCM,M,40-44,1:19.91,Steven A Jackson,,VMST 29th Annual Fall Swim Meet,2009,1,06HZ5
+SHYM,50 M Butterfly,SCM,M,40-44,31.61,Steven A Jackson,,VMST 29th Annual Fall Swim Meet,2009,1,06HZ5
+SHYM,100 M Individual Medley,SCM,M,40-44,1:13.80,Steven A Jackson,,VMST 29th Annual Fall Swim Meet,2009,1,06HZ5
+SMAM,400 M Freestyle,SCM,W,55-59,5:31.25,Shirley A Loftus-Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HKM
+SMAM,800 M Freestyle,SCM,W,55-59,11:11.35,Shirley A Loftus-Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HKM
+SMAM,1500 M Freestyle,SCM,W,55-59,21:08.78,Shirley A Loftus-Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HKM
+SMAM,100 M Butterfly,SCM,W,55-59,1:27.68,Shirley A Loftus-Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HKM
+SMAM,400 M Individual Medley,SCM,W,55-59,6:21.53,Shirley A Loftus-Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HKM
+SMAM,400 M Freestyle,SCM,M,25-29,5:09.38,Craig R Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HRA
+SMAM,800 M Freestyle,SCM,M,25-29,10:33.33,Craig R Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HRA
+SMAM,1500 M Freestyle,SCM,M,25-29,19:55.63,Craig R Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HRA
+SMAM,100 M Backstroke,SCM,M,25-29,1:16.39,Craig R Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HRA
+SMAM,100 M Individual Medley,SCM,M,25-29,1:15.09,Craig R Charley,,VMST 29th Annual Fall Swim Meet,2009,1,02HRA
+SQST,50 M Freestyle,SCM,W,35-39,38.91,Cleary Maly,,VMST 29th Annual Fall Swim Meet,2009,1,0629B
+SQST,100 M Freestyle,SCM,W,35-39,1:32.95,Cleary Maly,,VMST 29th Annual Fall Swim Meet,2009,1,0629B
+SQST,200 M Freestyle,SCM,W,35-39,3:36.13,Cleary Maly,,VMST 29th Annual Fall Swim Meet,2009,1,0629B
+SQST,50 M Breaststroke,SCM,W,35-39,55.24,Cleary Maly,,VMST 29th Annual Fall Swim Meet,2009,1,0629B
+SQST,400 M Freestyle,SCM,W,40-44,5:18.66,Rebecca L Franklin,,VMST 29th Annual Fall Swim Meet,2009,1,02JEM
+SQST,200 M Breaststroke,SCM,W,40-44,3:15.91,Rebecca L Franklin,,VMST 29th Annual Fall Swim Meet,2009,1,02JEM
+SQST,50 M Freestyle,SCM,W,50-54,30.92,Lisa A Bennett,,VMST 29th Annual Fall Swim Meet,2009,1,02HZJ
+SQST,50 M Breaststroke,SCM,W,50-54,38.93,Lisa A Bennett,,VMST 29th Annual Fall Swim Meet,2009,1,02HZJ
+SQST,100 M Breaststroke,SCM,W,50-54,1:26.25,Lisa A Bennett,,VMST 29th Annual Fall Swim Meet,2009,1,02HZJ
+SQST,50 M Butterfly,SCM,W,50-54,34.75,Lisa A Bennett,,VMST 29th Annual Fall Swim Meet,2009,1,02HZJ
+SQST,100 M Individual Medley,SCM,W,50-54,1:18.26,Lisa A Bennett,,VMST 29th Annual Fall Swim Meet,2009,1,02HZJ
+SQST,100 M Freestyle,SCM,M,50-54,1:10.93,Ira H Pearce,,VMST 29th Annual Fall Swim Meet,2009,1,02K6Z
+SQST,100 M Backstroke,SCM,M,50-54,1:29.16,Ira H Pearce,,VMST 29th Annual Fall Swim Meet,2009,1,02K6Z
+SQST,50 M Butterfly,SCM,M,50-54,34.36,Ira H Pearce,,VMST 29th Annual Fall Swim Meet,2009,1,02K6Z
+SQST,100 M Butterfly,SCM,M,50-54,1:23.82,Ira H Pearce,,VMST 29th Annual Fall Swim Meet,2009,1,02K6Z
+SQST,100 M Individual Medley,SCM,M,50-54,1:22.16,Ira H Pearce,,VMST 29th Annual Fall Swim Meet,2009,1,02K6Z
+SUNF,100 M Freestyle,SCM,M,45-49,1:14.54,Bill Blalock,,Rowdy Gaines Masters Classic,2009,1,05P7F
+SUNF,100 M Breaststroke,SCM,M,45-49,1:36.03,Bill Blalock,,Rowdy Gaines Masters Classic,2009,1,05P7F
+SUNF,50 M Butterfly,SCM,M,45-49,38.33,Bill Blalock,,Rowdy Gaines Masters Classic,2009,1,05P7F
+UNAT,800 M Freestyle,SCM,W,18-24,13:36.52,Maria T Martinez,,VMST 29th Annual Fall Swim Meet,2009,1,06F1K
+UNAT,1500 M Freestyle,SCM,W,18-24,26:38.25,Maria T Martinez,,VMST 29th Annual Fall Swim Meet,2009,1,06F1K
+UNAT,200 M Backstroke,SCM,W,18-24,3:31.87,Maria T Martinez,,VMST 29th Annual Fall Swim Meet,2009,1,06F1K
+UNAT,200 M Butterfly,SCM,W,18-24,3:56.14,Maria T Martinez,,VMST 29th Annual Fall Swim Meet,2009,1,06F1K
+UNAT,400 M Individual Medley,SCM,W,18-24,7:32.11,Maria T Martinez,,VMST 29th Annual Fall Swim Meet,2009,1,06F1K
+UNAT,50 M Freestyle,SCM,W,25-29,32.85,April L Teaford,,2009 Albatross Open,2009,1,067S9
+UNAT,50 M Backstroke,SCM,W,25-29,36.91,Betsy B Bland,,2009 Last Chance SCM Meet,2009,1,06KXY
+UNAT,200 M Breaststroke,SCM,W,25-29,3:46.43,April L Teaford,,2009 Albatross Open,2009,1,067S9
+UNAT,50 M Butterfly,SCM,W,25-29,37.31,Betsy B Bland,,2009 Last Chance SCM Meet,2009,1,06KXY
+UNAT,50 M Butterfly,SCM,W,25-29,39.05,April L Teaford,,2009 Albatross Open,2009,2,067S9
+UNAT,100 M Individual Medley,SCM,W,25-29,1:22.42,Betsy B Bland,,2009 Last Chance SCM Meet,2009,1,06KXY
+UNAT,200 M Individual Medley,SCM,W,25-29,3:12.68,April L Teaford,,2009 Albatross Open,2009,1,067S9
+UNAT,100 M Freestyle,SCM,W,45-49,1:19.55,Cordelia Robinette,,VMST 29th Annual Fall Swim Meet,2009,1,06JEM
+UNAT,100 M Backstroke,SCM,W,45-49,1:33.70,Cordelia Robinette,,VMST 29th Annual Fall Swim Meet,2009,1,06JEM
+UNAT,200 M Backstroke,SCM,W,45-49,3:20.46,Cordelia Robinette,,VMST 29th Annual Fall Swim Meet,2009,1,06JEM
+UNAT,50 M Butterfly,SCM,W,45-49,43.10,Cordelia Robinette,,VMST 29th Annual Fall Swim Meet,2009,1,06JEM
+UNAT,100 M Individual Medley,SCM,W,45-49,1:34.60,Cordelia Robinette,,VMST 29th Annual Fall Swim Meet,2009,1,06JEM
+UNAT,50 M Freestyle,SCM,W,50-54,29.71,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,100 M Freestyle,SCM,W,50-54,1:06.82,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,50 M Breaststroke,SCM,W,50-54,36.99,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,100 M Breaststroke,SCM,W,50-54,1:24.00,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,50 M Butterfly,SCM,W,50-54,32.87,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,100 M Butterfly,SCM,W,50-54,1:17.01,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,100 M Individual Medley,SCM,W,50-54,1:15.48,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,200 M Individual Medley,SCM,W,50-54,2:49.86,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,400 M Individual Medley,SCM,W,50-54,6:04.02,Lisa A Bennett,,New England LMSC SCM Championships,2009,1,02HZJ
+UNAT,50 M Freestyle,SCM,M,18-24,25.54,Patrick M Laiti,,2009 Albatross Open,2009,1,05XJ7
+UNAT,50 M Freestyle,SCM,M,18-24,26.45,Christopher C Stickle,,VMST 29th Annual Fall Swim Meet,2009,2,06HTS
+UNAT,100 M Freestyle,SCM,M,18-24,58.40,Patrick M Laiti,,2009 Albatross Open,2009,1,05XJ7
+UNAT,200 M Freestyle,SCM,M,18-24,2:04.80,Christopher C Stickle,,VMST 29th Annual Fall Swim Meet,2009,1,06HTS
+UNAT,400 M Freestyle,SCM,M,18-24,4:33.31,Christopher C Stickle,,VMST 29th Annual Fall Swim Meet,2009,1,06HTS
+UNAT,800 M Freestyle,SCM,M,18-24,9:08.72,Christopher C Stickle,,VMST 29th Annual Fall Swim Meet,2009,1,06HTS
+UNAT,1500 M Freestyle,SCM,M,18-24,17:10.75,Christopher C Stickle,,VMST 29th Annual Fall Swim Meet,2009,1,06HTS
+UNAT,100 M Backstroke,SCM,M,18-24,1:04.70,Christopher C Stickle,,VMST 29th Annual Fall Swim Meet,2009,1,06HTS
+UNAT,50 M Breaststroke,SCM,M,18-24,32.00,Patrick M Laiti,,2009 Albatross Open,2009,1,05XJ7
+UNAT,100 M Breaststroke,SCM,M,18-24,1:11.98,Patrick M Laiti,,2009 Albatross Open,2009,1,05XJ7
+UNAT,50 M Freestyle,SCM,M,25-29,27.95,Patrick E O'Neill,,2009 Last Chance SCM Meet,2009,1,063P6
+UNAT,100 M Freestyle,SCM,M,25-29,1:05.02,Patrick E O'Neill,,2009 Last Chance SCM Meet,2009,1,063P6
+UNAT,400 M Freestyle,SCM,M,25-29,5:52.53,Patrick E O'Neill,,2009 Last Chance SCM Meet,2009,1,063P6
+UNAT,50 M Freestyle,SCM,M,30-34,28.35,Jason G Welch,,VMST 29th Annual Fall Swim Meet,2009,1,061BA
+UNAT,50 M Breaststroke,SCM,M,30-34,36.55,Jason G Welch,,VMST 29th Annual Fall Swim Meet,2009,1,061BA
+UNAT,100 M Breaststroke,SCM,M,30-34,1:21.87,Jason G Welch,,VMST 29th Annual Fall Swim Meet,2009,1,061BA
+UNAT,100 M Individual Medley,SCM,M,30-34,1:13.92,Jason G Welch,,VMST 29th Annual Fall Swim Meet,2009,1,061BA
+UNAT,50 M Freestyle,SCM,M,40-44,30.45,William Durham,,VMST 29th Annual Fall Swim Meet,2009,1,06FXB
+UNAT,50 M Backstroke,SCM,M,40-44,40.02,William Durham,,VMST 29th Annual Fall Swim Meet,2009,1,06FXB
+UNAT,50 M Breaststroke,SCM,M,40-44,38.33,William Durham,,VMST 29th Annual Fall Swim Meet,2009,1,06FXB
+UNAT,100 M Breaststroke,SCM,M,40-44,1:27.22,William Durham,,VMST 29th Annual Fall Swim Meet,2009,1,06FXB
+UNAT,50 M Butterfly,SCM,M,40-44,36.35,William Durham,,VMST 29th Annual Fall Swim Meet,2009,1,06FXB
+UNAT,50 M Freestyle,SCM,M,45-49,27.57,Chris Laiti,,2009 Albatross Open,2009,1,02J5A
+UNAT,100 M Freestyle,SCM,M,45-49,1:01.87,Chris Laiti,,2009 Albatross Open,2009,1,02J5A
+UNAT,50 M Backstroke,SCM,M,45-49,32.22,Chris Laiti,,2009 Albatross Open,2009,1,02J5A
+UNAT,50 M Freestyle,SCM,M,50-54,28.71,William C Throne,,Long Beach Grunions SPMA SCM,2009,1,01U6F
+UNAT,50 M Freestyle,SCM,M,50-54,31.68,Ken Dixon,,VMST 29th Annual Fall Swim Meet,2009,2,05TW5
+UNAT,100 M Freestyle,SCM,M,50-54,1:03.35,William C Throne,,VMST 29th Annual Fall Swim Meet,2009,1,01U6F
+UNAT,100 M Freestyle,SCM,M,50-54,1:50.50,Dean J Cummings,,VMST 29th Annual Fall Swim Meet,2009,2,06HYS
+UNAT,200 M Freestyle,SCM,M,50-54,2:22.91,William C Throne,,Long Beach Grunions SPMA SCM,2009,1,01U6F
+UNAT,200 M Freestyle,SCM,M,50-54,2:46.60,Ken Dixon,,VMST 29th Annual Fall Swim Meet,2009,2,05TW5
+UNAT,100 M Backstroke,SCM,M,50-54,1:15.24,William C Throne,,Long Beach Grunions SPMA SCM,2009,1,01U6F
+UNAT,200 M Backstroke,SCM,M,50-54,4:36.12,Dean J Cummings,,VMST 29th Annual Fall Swim Meet,2009,1,06HYS
+UNAT,50 M Breaststroke,SCM,M,50-54,40.33,Dale Kivi,,VMST 29th Annual Fall Swim Meet,2009,1,05UPT
+UNAT,50 M Breaststroke,SCM,M,50-54,41.92,Ken Dixon,,VMST 29th Annual Fall Swim Meet,2009,2,05TW5
+UNAT,100 M Breaststroke,SCM,M,50-54,1:26.51,William C Throne,,VMST 29th Annual Fall Swim Meet,2009,1,01U6F
+UNAT,100 M Breaststroke,SCM,M,50-54,1:31.98,Dale Kivi,,VMST 29th Annual Fall Swim Meet,2009,2,05UPT
+UNAT,100 M Breaststroke,SCM,M,50-54,1:34.31,Ken Dixon,,VMST 29th Annual Fall Swim Meet,2009,3,05TW5
+UNAT,200 M Breaststroke,SCM,M,50-54,3:31.30,Dale Kivi,,VMST 29th Annual Fall Swim Meet,2009,1,05UPT
+UNAT,50 M Butterfly,SCM,M,50-54,33.52,William C Throne,,VMST 29th Annual Fall Swim Meet,2009,1,01U6F
+UNAT,100 M Individual Medley,SCM,M,50-54,1:17.83,William C Throne,,VMST 29th Annual Fall Swim Meet,2009,1,01U6F
+UNAT,100 M Individual Medley,SCM,M,50-54,1:23.11,Dale Kivi,,VMST 29th Annual Fall Swim Meet,2009,2,05UPT
+UNAT,200 M Individual Medley,SCM,M,50-54,3:25.68,Dale Kivi,,VMST 29th Annual Fall Swim Meet,2009,1,05UPT
+UNAT,50 M Freestyle,SCM,M,55-59,36.96,Clifford N Arnold,,VMST 29th Annual Fall Swim Meet,2009,1,06J90
+UNAT,400 M Freestyle,SCM,M,55-59,6:58.47,Clifford N Arnold,,VMST 29th Annual Fall Swim Meet,2009,1,06J90
+UNAT,200 M Breaststroke,SCM,M,55-59,3:35.17,Clifford N Arnold,,VMST 29th Annual Fall Swim Meet,2009,1,06J90
+UNAT,50 M Butterfly,SCM,M,55-59,42.37,Clifford N Arnold,,VMST 29th Annual Fall Swim Meet,2009,1,06J90
+UNAT,100 M Individual Medley,SCM,M,55-59,1:30.79,Clifford N Arnold,,VMST 29th Annual Fall Swim Meet,2009,1,06J90
+URMS,100 M Freestyle,SCM,W,25-29,1:23.38,Elizabeth I Cohen,,VMST 29th Annual Fall Swim Meet,2009,1,05H6X
+URMS,400 M Freestyle,SCM,W,25-29,6:02.88,Elizabeth I Cohen,,VMST 29th Annual Fall Swim Meet,2009,1,05H6X
+URMS,50 M Butterfly,SCM,W,25-29,43.84,Elizabeth I Cohen,,VMST 29th Annual Fall Swim Meet,2009,1,05H6X
+URMS,100 M Individual Medley,SCM,W,25-29,1:37.08,Elizabeth I Cohen,,VMST 29th Annual Fall Swim Meet,2009,1,05H6X
+URMS,200 M Individual Medley,SCM,W,25-29,3:18.67,Elizabeth I Cohen,,VMST 29th Annual Fall Swim Meet,2009,1,05H6X
+URMS,800 M Freestyle,SCM,W,45-49,11:58.69,Andrea M Randle,,VMST 29th Annual Fall Swim Meet,2009,1,05VT1
+URMS,1500 M Freestyle,SCM,W,45-49,22:54.88,Andrea M Randle,,VMST 29th Annual Fall Swim Meet,2009,1,05VT1
+URMS,100 M Individual Medley,SCM,W,45-49,1:25.87,Andrea M Randle,,VMST 29th Annual Fall Swim Meet,2009,1,05VT1
+URMS,400 M Individual Medley,SCM,W,45-49,6:56.99,Andrea M Randle,,VMST 29th Annual Fall Swim Meet,2009,1,05VT1
+VMST,200 M Freestyle,SCM,W,25-29,2:54.64,Robin N Blakney,,VMST 29th Annual Fall Swim Meet,2009,1,05XRM
+VMST,400 M Freestyle,SCM,W,25-29,6:15.13,Robin N Blakney,,VMST 29th Annual Fall Swim Meet,2009,1,05XRM
+VMST,50 M Butterfly,SCM,W,25-29,30.25,Lucy B Carrig,,VMST 29th Annual Fall Swim Meet,2009,1,0640C
+VMST,100 M Butterfly,SCM,W,25-29,1:08.62,Lucy B Carrig,,VMST 29th Annual Fall Swim Meet,2009,1,0640C
+VMST,100 M Butterfly,SCM,W,25-29,1:33.58,Robin N Blakney,,VMST 29th Annual Fall Swim Meet,2009,2,05XRM
+VMST,100 M Individual Medley,SCM,W,25-29,1:10.18,Lucy B Carrig,,VMST 29th Annual Fall Swim Meet,2009,1,0640C
+VMST,200 M Individual Medley,SCM,W,25-29,2:33.55,Lucy B Carrig,,VMST 29th Annual Fall Swim Meet,2009,1,0640C
+VMST,50 M Freestyle,SCM,W,35-39,34.96,Michelle A Kitt,,2009 Last Chance SCM Meet,2009,1,062T2
+VMST,50 M Freestyle,SCM,W,35-39,38.78,Susanne Van Zijl,,Winter Freeze Phoenixville Y Masters Meet,2009,2,062RU
+VMST,100 M Freestyle,SCM,W,35-39,1:18.37,Michelle A Kitt,,2009 Last Chance SCM Meet,2009,1,062T2
+VMST,100 M Freestyle,SCM,W,35-39,1:28.36,Susanne Van Zijl,,Winter Freeze Phoenixville Y Masters Meet,2009,2,062RU
+VMST,400 M Freestyle,SCM,W,35-39,6:30.70,Andrea T Latell,,VMST 29th Annual Fall Swim Meet,2009,1,05ZTV
+VMST,800 M Freestyle,SCM,W,35-39,13:16.36,Andrea T Latell,,VMST 29th Annual Fall Swim Meet,2009,1,05ZTV
+VMST,800 M Freestyle,SCM,W,35-39,13:17.06,Ariel L Lotz,,VMST 29th Annual Fall Swim Meet,2009,2,02HWA
+VMST,800 M Freestyle,SCM,W,35-39,14:23.37,Esther V Platsis,,VMST 29th Annual Fall Swim Meet,2009,3,05ZN5
+VMST,1500 M Freestyle,SCM,W,35-39,25:00.97,Ariel L Lotz,,VMST 29th Annual Fall Swim Meet,2009,1,02HWA
+VMST,1500 M Freestyle,SCM,W,35-39,25:29.75,Andrea T Latell,,VMST 29th Annual Fall Swim Meet,2009,2,05ZTV
+VMST,50 M Backstroke,SCM,W,35-39,38.68,Barbara A Streater,,VMST 29th Annual Fall Swim Meet,2009,1,05ZD4
+VMST,50 M Backstroke,SCM,W,35-39,43.15,Michelle A Kitt,,2009 Last Chance SCM Meet,2009,2,062T2
+VMST,200 M Backstroke,SCM,W,35-39,3:32.90,Esther V Platsis,,VMST 29th Annual Fall Swim Meet,2009,1,05ZN5
+VMST,50 M Breaststroke,SCM,W,35-39,39.21,Alison S Meehan,,Winter Freeze Phoenixville Y Masters Meet,2009,1,042GM
+VMST,50 M Breaststroke,SCM,W,35-39,42.07,Barbara A Streater,,VMST 29th Annual Fall Swim Meet,2009,2,05ZD4
+VMST,50 M Breaststroke,SCM,W,35-39,46.18,Andrea T Latell,,VMST 29th Annual Fall Swim Meet,2009,3,05ZTV
+VMST,50 M Breaststroke,SCM,W,35-39,50.16,Esther V Platsis,,VMST 29th Annual Fall Swim Meet,2009,4,05ZN5
+VMST,100 M Breaststroke,SCM,W,35-39,1:26.75,Alison S Meehan,,Winter Freeze Phoenixville Y Masters Meet,2009,1,042GM
+VMST,200 M Breaststroke,SCM,W,35-39,3:05.25,Alison S Meehan,,Winter Freeze Phoenixville Y Masters Meet,2009,1,042GM
+VMST,200 M Breaststroke,SCM,W,35-39,3:11.40,Barbara A Streater,,VMST 29th Annual Fall Swim Meet,2009,2,05ZD4
+VMST,50 M Butterfly,SCM,W,35-39,36.33,Alison S Meehan,,2009 Last Chance SCM Meet,2009,1,042GM
+VMST,50 M Butterfly,SCM,W,35-39,41.40,Michelle A Kitt,,2009 Last Chance SCM Meet,2009,2,062T2
+VMST,100 M Butterfly,SCM,W,35-39,1:26.24,Barbara A Streater,,VMST 29th Annual Fall Swim Meet,2009,1,05ZD4
+VMST,200 M Butterfly,SCM,W,35-39,3:34.67,Andrea T Latell,,VMST 29th Annual Fall Swim Meet,2009,1,05ZTV
+VMST,200 M Butterfly,SCM,W,35-39,4:20.90,Esther V Platsis,,VMST 29th Annual Fall Swim Meet,2009,2,05ZN5
+VMST,400 M Individual Medley,SCM,W,35-39,7:17.54,Andrea T Latell,,VMST 29th Annual Fall Swim Meet,2009,1,05ZTV
+VMST,400 M Individual Medley,SCM,W,35-39,7:58.90,Esther V Platsis,,VMST 29th Annual Fall Swim Meet,2009,2,05ZN5
+VMST,50 M Freestyle,SCM,W,45-49,34.01,Patricia M Miller,,2009 Albatross Open,2009,1,02HJ0
+VMST,100 M Freestyle,SCM,W,45-49,1:07.95,Charlotte A Hollings,,VMST 29th Annual Fall Swim Meet,2009,1,02JDH
+VMST,200 M Freestyle,SCM,W,45-49,2:24.71,Charlotte A Hollings,,2009 Last Chance SCM Meet,2009,1,02JDH
+VMST,200 M Freestyle,SCM,W,45-49,2:54.75,Mary Ann Peterson,,VMST 29th Annual Fall Swim Meet,2009,2,02J6S
+VMST,200 M Freestyle,SCM,W,45-49,3:29.74,Susan P McKerns,,VMST 29th Annual Fall Swim Meet,2009,3,02JJV
+VMST,200 M Freestyle,SCM,W,45-49,4:19.83,Vanda Kennedy,,VMST 29th Annual Fall Swim Meet,2009,4,05EW4
+VMST,400 M Freestyle,SCM,W,45-49,5:04.36,Charlotte A Hollings,,2009 Last Chance SCM Meet,2009,1,02JDH
+VMST,400 M Freestyle,SCM,W,45-49,6:15.46,Mary Ann Peterson,,VMST 29th Annual Fall Swim Meet,2009,2,02J6S
+VMST,400 M Freestyle,SCM,W,45-49,6:50.86,Susan P McKerns,,VMST 29th Annual Fall Swim Meet,2009,3,02JJV
+VMST,400 M Freestyle,SCM,W,45-49,9:12.81,Vanda Kennedy,,VMST 29th Annual Fall Swim Meet,2009,4,05EW4
+VMST,800 M Freestyle,SCM,W,45-49,10:38.44,Charlotte A Hollings,,VMST 29th Annual Fall Swim Meet,2009,1,02JDH
+VMST,800 M Freestyle,SCM,W,45-49,13:44.41,Susan P McKerns,,VMST 29th Annual Fall Swim Meet,2009,2,02JJV
+VMST,1500 M Freestyle,SCM,W,45-49,20:18.52,Charlotte A Hollings,,VMST 29th Annual Fall Swim Meet,2009,1,02JDH
+VMST,1500 M Freestyle,SCM,W,45-49,26:44.87,Susan P McKerns,,VMST 29th Annual Fall Swim Meet,2009,2,02JJV
+VMST,50 M Breaststroke,SCM,W,45-49,40.56,Patricia M Miller,,2009 Albatross Open,2009,1,02HJ0
+VMST,100 M Individual Medley,SCM,W,45-49,1:18.67,Charlotte A Hollings,,2009 Last Chance SCM Meet,2009,1,02JDH
+VMST,100 M Individual Medley,SCM,W,45-49,1:24.69,Patricia M Miller,,2009 Albatross Open,2009,2,02HJ0
+VMST,100 M Individual Medley,SCM,W,45-49,1:37.70,Mary Ann Peterson,,VMST 29th Annual Fall Swim Meet,2009,3,02J6S
+VMST,200 M Individual Medley,SCM,W,45-49,2:52.52,Charlotte A Hollings,,2009 Last Chance SCM Meet,2009,1,02JDH
+VMST,200 M Individual Medley,SCM,W,45-49,3:01.77,Patricia M Miller,,2009 Albatross Open,2009,2,02HJ0
+VMST,200 M Individual Medley,SCM,W,45-49,3:21.94,Mary Ann Peterson,,VMST 29th Annual Fall Swim Meet,2009,3,02J6S
+VMST,400 M Individual Medley,SCM,W,45-49,6:06.91,Charlotte A Hollings,,VMST 29th Annual Fall Swim Meet,2009,1,02JDH
+VMST,400 M Freestyle,SCM,W,50-54,6:12.32,Kitten Braaten,,VMST 29th Annual Fall Swim Meet,2009,1,02HKK
+VMST,800 M Freestyle,SCM,W,50-54,12:29.38,Kitten Braaten,,VMST 29th Annual Fall Swim Meet,2009,1,02HKK
+VMST,200 M Backstroke,SCM,W,50-54,3:26.20,Kitten Braaten,,VMST 29th Annual Fall Swim Meet,2009,1,02HKK
+VMST,50 M Butterfly,SCM,W,50-54,43.83,Kitten Braaten,,VMST 29th Annual Fall Swim Meet,2009,1,02HKK
+VMST,100 M Butterfly,SCM,W,50-54,1:36.81,Kitten Braaten,,VMST 29th Annual Fall Swim Meet,2009,1,02HKK
+VMST,200 M Butterfly,SCM,W,50-54,3:33.49,Kitten Braaten,,VMST 29th Annual Fall Swim Meet,2009,1,02HKK
+VMST,50 M Freestyle,SCM,W,55-59,39.39,Cheryl E Benn,,VMST 29th Annual Fall Swim Meet,2009,1,05ETS
+VMST,100 M Freestyle,SCM,W,55-59,1:33.48,Cheryl E Benn,,VMST 29th Annual Fall Swim Meet,2009,1,05ETS
+VMST,50 M Breaststroke,SCM,W,55-59,56.45,Barbara E Boslego,,VMST 29th Annual Fall Swim Meet,2009,1,02HV9
+VMST,100 M Breaststroke,SCM,W,55-59,1:43.89,Barbara E Boslego,,VMST 29th Annual Fall Swim Meet,2009,1,02HV9
+VMST,200 M Breaststroke,SCM,W,55-59,3:43.54,Barbara E Boslego,,VMST 29th Annual Fall Swim Meet,2009,1,02HV9
+VMST,100 M Individual Medley,SCM,W,55-59,1:37.51,Barbara E Boslego,,VMST 29th Annual Fall Swim Meet,2009,1,02HV9
+VMST,50 M Backstroke,SCM,W,60-64,58.01,Betsy C Chambers,,2009 Albatross Open,2009,1,01V6R
+VMST,100 M Backstroke,SCM,W,60-64,2:03.77,Betsy C Chambers,,2009 Albatross Open,2009,1,01V6R
+VMST,100 M Breaststroke,SCM,W,60-64,2:18.01,Betsy C Chambers,,2009 Albatross Open,2009,1,01V6R
+VMST,200 M Breaststroke,SCM,W,60-64,4:52.81,Betsy C Chambers,,2009 Albatross Open,2009,1,01V6R
+VMST,50 M Freestyle,SCM,W,65-69,34.07,Beth Schreiner,,2009 Albatross Open,2009,1,0367J
+VMST,50 M Freestyle,SCM,W,65-69,42.12,Ida M Hlavacek,,VMST 29th Annual Fall Swim Meet,2009,2,0366E
+VMST,100 M Freestyle,SCM,W,65-69,1:20.78,Beth Schreiner,,2009 Albatross Open,2009,1,0367J
+VMST,100 M Freestyle,SCM,W,65-69,1:29.11,Betsy Durrant,,VMST 29th Annual Fall Swim Meet,2009,2,02HSG
+VMST,100 M Freestyle,SCM,W,65-69,1:40.44,Ida M Hlavacek,,VMST 29th Annual Fall Swim Meet,2009,3,0366E
+VMST,200 M Freestyle,SCM,W,65-69,3:01.25,Beth Schreiner,,2009 Albatross Open,2009,1,0367J
+VMST,200 M Freestyle,SCM,W,65-69,3:07.28,Betsy Durrant,,New England LMSC SCM Championships,2009,2,02HSG
+VMST,200 M Freestyle,SCM,W,65-69,3:33.39,Ida M Hlavacek,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,3,0366E
+VMST,400 M Freestyle,SCM,W,65-69,6:19.39,Beth Schreiner,,2009 Last Chance SCM Meet,2009,1,0367J
+VMST,400 M Freestyle,SCM,W,65-69,6:36.62,Betsy Durrant,,New England LMSC SCM Championships,2009,2,02HSG
+VMST,400 M Freestyle,SCM,W,65-69,7:17.89,Ida M Hlavacek,,VMST 29th Annual Fall Swim Meet,2009,3,0366E
+VMST,800 M Freestyle,SCM,W,65-69,13:34.16,Betsy Durrant,,New England LMSC SCM Championships,2009,1,02HSG
+VMST,800 M Freestyle,SCM,W,65-69,15:02.12,Ida M Hlavacek,,VMST 29th Annual Fall Swim Meet,2009,2,0366E
+VMST,1500 M Freestyle,SCM,W,65-69,28:09.54,Ida M Hlavacek,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,0366E
+VMST,50 M Backstroke,SCM,W,65-69,46.22,Beth Schreiner,,2009 Last Chance SCM Meet,2009,1,0367J
+VMST,50 M Backstroke,SCM,W,65-69,47.11,Betsy Durrant,,New England LMSC SCM Championships,2009,2,02HSG
+VMST,50 M Backstroke,SCM,W,65-69,51.12,Judy Martin,,2009 Last Chance SCM Meet,2009,3,02HKE
+VMST,50 M Backstroke,SCM,W,65-69,51.19,Ida M Hlavacek,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,4,0366E
+VMST,100 M Backstroke,SCM,W,65-69,1:45.41,Betsy Durrant,,New England LMSC SCM Championships,2009,1,02HSG
+VMST,100 M Backstroke,SCM,W,65-69,1:46.02,Judy Martin,,2009 Last Chance SCM Meet,2009,2,02HKE
+VMST,200 M Backstroke,SCM,W,65-69,3:47.61,Judy Martin,,2009 Last Chance SCM Meet,2009,1,02HKE
+VMST,50 M Breaststroke,SCM,W,65-69,48.54,Betsy Durrant,,New England LMSC SCM Championships,2009,1,02HSG
+VMST,50 M Breaststroke,SCM,W,65-69,54.62,Susan E Marens,,VMST 29th Annual Fall Swim Meet,2009,2,02HSX
+VMST,100 M Breaststroke,SCM,W,65-69,1:52.59,Betsy Durrant,,New England LMSC SCM Championships,2009,1,02HSG
+VMST,100 M Breaststroke,SCM,W,65-69,2:03.46,Susan E Marens,,VMST 29th Annual Fall Swim Meet,2009,2,02HSX
+VMST,200 M Breaststroke,SCM,W,65-69,4:29.96,Susan E Marens,,VMST 29th Annual Fall Swim Meet,2009,1,02HSX
+VMST,50 M Butterfly,SCM,W,65-69,53.62,Ida M Hlavacek,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,0366E
+VMST,50 M Butterfly,SCM,W,65-69,54.41,Susan E Marens,,VMST 29th Annual Fall Swim Meet,2009,2,02HSX
+VMST,200 M Butterfly,SCM,W,65-69,4:49.55,Ida M Hlavacek,,VMST 29th Annual Fall Swim Meet,2009,1,0366E
+VMST,100 M Individual Medley,SCM,W,65-69,1:58.81,Ida M Hlavacek,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,0366E
+VMST,400 M Individual Medley,SCM,W,65-69,8:48.81,Ida M Hlavacek,,VMST 29th Annual Fall Swim Meet,2009,1,0366E
+VMST,50 M Freestyle,SCM,W,70-74,37.81,Johnnie Detrick,,VMST 29th Annual Fall Swim Meet,2009,1,02HME
+VMST,50 M Freestyle,SCM,W,70-74,39.73,Barbara M Zaremski,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,2,036BX
+VMST,50 M Freestyle,SCM,W,70-74,42.15,Laura S Walker,,2009 Last Chance SCM Meet,2009,3,02HK3
+VMST,100 M Freestyle,SCM,W,70-74,1:28.27,Johnnie Detrick,,VMST 29th Annual Fall Swim Meet,2009,1,02HME
+VMST,100 M Freestyle,SCM,W,70-74,1:32.93,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,2,036BX
+VMST,100 M Freestyle,SCM,W,70-74,1:34.65,Laura S Walker,,VMST 29th Annual Fall Swim Meet,2009,3,02HK3
+VMST,200 M Freestyle,SCM,W,70-74,3:25.55,Johnnie Detrick,,VMST 29th Annual Fall Swim Meet,2009,1,02HME
+VMST,200 M Freestyle,SCM,W,70-74,3:52.36,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,2,036BX
+VMST,400 M Freestyle,SCM,W,70-74,8:08.04,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,1,036BX
+VMST,800 M Freestyle,SCM,W,70-74,16:47.35,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,1,036BX
+VMST,50 M Backstroke,SCM,W,70-74,51.80,Laura S Walker,,2009 Last Chance SCM Meet,2009,1,02HK3
+VMST,50 M Backstroke,SCM,W,70-74,55.23,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,2,036BX
+VMST,100 M Backstroke,SCM,W,70-74,1:51.02,Laura S Walker,,2009 Last Chance SCM Meet,2009,1,02HK3
+VMST,100 M Backstroke,SCM,W,70-74,1:51.63,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,2,036BX
+VMST,200 M Backstroke,SCM,W,70-74,3:57.27,Laura S Walker,,2009 Last Chance SCM Meet,2009,1,02HK3
+VMST,200 M Backstroke,SCM,W,70-74,4:25.00,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,2,036BX
+VMST,100 M Breaststroke,SCM,W,70-74,2:14.91,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,1,036BX
+VMST,200 M Breaststroke,SCM,W,70-74,5:08.48,Barbara M Zaremski,,Mizzou SCM Masters Meet,2009,1,036BX
+VMST,50 M Butterfly,SCM,W,70-74,57.57,Johnnie Detrick,,VMST 29th Annual Fall Swim Meet,2009,1,02HME
+VMST,200 M Butterfly,SCM,W,70-74,5:40.66,Barbara M Zaremski,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,036BX
+VMST,100 M Individual Medley,SCM,W,70-74,2:01.46,Barbara M Zaremski,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,036BX
+VMST,200 M Individual Medley,SCM,W,70-74,4:28.70,Barbara M Zaremski,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,036BX
+VMST,400 M Individual Medley,SCM,W,70-74,9:23.71,Barbara M Zaremski,,Dallas Aquatic Mstrs (DAMM) Fall SCM,2009,1,036BX
+VMST,100 M Freestyle,SCM,W,80-84,2:06.26,Jeanne H Meredith,,VMST 29th Annual Fall Swim Meet,2009,1,02HT9
+VMST,200 M Freestyle,SCM,W,80-84,4:31.00,Jeanne H Meredith,,VMST 29th Annual Fall Swim Meet,2009,1,02HT9
+VMST,400 M Freestyle,SCM,W,80-84,9:32.97,Jeanne H Meredith,,VMST 29th Annual Fall Swim Meet,2009,1,02HT9
+VMST,800 M Freestyle,SCM,W,80-84,19:22.08,Jeanne H Meredith,,VMST 29th Annual Fall Swim Meet,2009,1,02HT9
+VMST,50 M Breaststroke,SCM,W,80-84,1:16.37,Miriam K Tuovila,,VMST 29th Annual Fall Swim Meet,2009,1,02J19
+VMST,100 M Breaststroke,SCM,W,80-84,2:44.77,Miriam K Tuovila,,VMST 29th Annual Fall Swim Meet,2009,1,02J19
+VMST,100 M Individual Medley,SCM,W,80-84,2:49.24,Miriam K Tuovila,,VMST 29th Annual Fall Swim Meet,2009,1,02J19
+VMST,100 M Freestyle,SCM,W,85-89,2:25.49,Marianna Berkley,,VMST 29th Annual Fall Swim Meet,2009,1,02HK1
+VMST,100 M Backstroke,SCM,W,85-89,2:43.83,Marianna Berkley,,VMST 29th Annual Fall Swim Meet,2009,1,02HK1
+VMST,100 M Breaststroke,SCM,W,85-89,2:58.73,Marianna Berkley,,VMST 29th Annual Fall Swim Meet,2009,1,02HK1
+VMST,100 M Individual Medley,SCM,W,85-89,2:50.14,Marianna Berkley,,VMST 29th Annual Fall Swim Meet,2009,1,02HK1
+VMST,100 M Freestyle,SCM,M,25-29,59.98,Adam S Barley,,VMST 29th Annual Fall Swim Meet,2009,1,06CUX
+VMST,100 M Backstroke,SCM,M,25-29,1:06.15,Adam S Barley,,2009 Last Chance SCM Meet,2009,1,06CUX
+VMST,200 M Backstroke,SCM,M,25-29,2:24.09,Adam S Barley,,2009 Last Chance SCM Meet,2009,1,06CUX
+VMST,200 M Breaststroke,SCM,M,25-29,2:42.19,Adam S Barley,,2009 Last Chance SCM Meet,2009,1,06CUX
+VMST,200 M Individual Medley,SCM,M,25-29,2:24.87,Adam S Barley,,VMST 29th Annual Fall Swim Meet,2009,1,06CUX
+VMST,50 M Freestyle,SCM,M,35-39,24.29,Michael F Picotte,,VMST 29th Annual Fall Swim Meet,2009,1,02CK5
+VMST,100 M Freestyle,SCM,M,35-39,50.72,Michael F Picotte,,VMST 29th Annual Fall Swim Meet,2009,1,02CK5
+VMST,200 M Freestyle,SCM,M,35-39,1:59.14,Michael F Picotte,,VMST 29th Annual Fall Swim Meet,2009,1,02CK5
+VMST,50 M Butterfly,SCM,M,35-39,25.57,Michael F Picotte,,VMST 29th Annual Fall Swim Meet,2009,1,02CK5
+VMST,100 M Butterfly,SCM,M,35-39,56.79,Michael F Picotte,,VMST 29th Annual Fall Swim Meet,2009,1,02CK5
+VMST,400 M Freestyle,SCM,M,40-44,5:21.35,Charles E Cockrell,,VMST 29th Annual Fall Swim Meet,2009,1,02HTW
+VMST,100 M Breaststroke,SCM,M,40-44,1:21.42,Charles E Cockrell,,VMST 29th Annual Fall Swim Meet,2009,1,02HTW
+VMST,200 M Breaststroke,SCM,M,40-44,2:56.40,Charles E Cockrell,,VMST 29th Annual Fall Swim Meet,2009,1,02HTW
+VMST,100 M Butterfly,SCM,M,40-44,1:06.41,Dave Holland,,VMST 29th Annual Fall Swim Meet,2009,1,02HWH
+VMST,100 M Individual Medley,SCM,M,40-44,1:09.22,Dave Holland,,VMST 29th Annual Fall Swim Meet,2009,1,02HWH
+VMST,200 M Individual Medley,SCM,M,40-44,2:45.47,Charles E Cockrell,,VMST 29th Annual Fall Swim Meet,2009,1,02HTW
+VMST,50 M Backstroke,SCM,M,45-49,27.02,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,50 M Backstroke,SCM,M,45-49,30.73,David B Malsbury,,2009 Albatross Open,2009,2,02HVM
+VMST,100 M Backstroke,SCM,M,45-49,57.00,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,200 M Backstroke,SCM,M,45-49,2:05.54,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,50 M Breaststroke,SCM,M,45-49,33.93,David B Malsbury,,2009 Albatross Open,2009,1,02HVM
+VMST,50 M Butterfly,SCM,M,45-49,25.78,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,100 M Butterfly,SCM,M,45-49,57.58,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,100 M Butterfly,SCM,M,45-49,1:08.38,David B Malsbury,,2009 Albatross Open,2009,2,02HVM
+VMST,200 M Butterfly,SCM,M,45-49,2:09.65,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,100 M Individual Medley,SCM,M,45-49,1:08.15,David B Malsbury,,2009 Albatross Open,2009,1,02HVM
+VMST,400 M Individual Medley,SCM,M,45-49,4:46.68,Chris L Stevenson,,New England LMSC SCM Championships,2009,1,02J1G
+VMST,50 M Freestyle,SCM,M,50-54,38.07,Edward C Schiavoni,,VMST 29th Annual Fall Swim Meet,2009,1,02K6A
+VMST,200 M Freestyle,SCM,M,50-54,2:35.60,Mitch Saks,,VMST 29th Annual Fall Swim Meet,2009,1,02K4A
+VMST,400 M Freestyle,SCM,M,50-54,5:24.22,Mitch Saks,,VMST 29th Annual Fall Swim Meet,2009,1,02K4A
+VMST,800 M Freestyle,SCM,M,50-54,11:01.57,Mitch Saks,,VMST 29th Annual Fall Swim Meet,2009,1,02K4A
+VMST,1500 M Freestyle,SCM,M,50-54,28:14.96,Edward C Schiavoni,,VMST 29th Annual Fall Swim Meet,2009,1,02K6A
+VMST,50 M Backstroke,SCM,M,50-54,45.74,Ralph B Swiger,,VMST 29th Annual Fall Swim Meet,2009,1,02HW9
+VMST,100 M Backstroke,SCM,M,50-54,1:36.89,Ralph B Swiger,,VMST 29th Annual Fall Swim Meet,2009,1,02HW9
+VMST,100 M Backstroke,SCM,M,50-54,1:39.41,Victor H Mickunas,,VMST 29th Annual Fall Swim Meet,2009,2,02HS0
+VMST,200 M Backstroke,SCM,M,50-54,3:27.94,Ralph B Swiger,,VMST 29th Annual Fall Swim Meet,2009,1,02HW9
+VMST,100 M Breaststroke,SCM,M,50-54,1:44.49,Victor H Mickunas,,VMST 29th Annual Fall Swim Meet,2009,1,02HS0
+VMST,200 M Butterfly,SCM,M,50-54,3:52.52,Ralph B Swiger,,VMST 29th Annual Fall Swim Meet,2009,1,02HW9
+VMST,100 M Individual Medley,SCM,M,50-54,1:34.04,Victor H Mickunas,,VMST 29th Annual Fall Swim Meet,2009,1,02HS0
+VMST,400 M Individual Medley,SCM,M,50-54,7:14.99,Ralph B Swiger,,VMST 29th Annual Fall Swim Meet,2009,1,02HW9
+VMST,50 M Freestyle,SCM,M,55-59,29.36,Jim W Miller,,2009 Albatross Open,2009,1,02HNX
+VMST,50 M Freestyle,SCM,M,55-59,33.25,Bill L Nelson,,VMST 29th Annual Fall Swim Meet,2009,2,02JCR
+VMST,100 M Freestyle,SCM,M,55-59,1:06.93,Jim W Miller,,2009 Albatross Open,2009,1,02HNX
+VMST,100 M Freestyle,SCM,M,55-59,1:15.02,Bill L Nelson,,VMST 29th Annual Fall Swim Meet,2009,2,02JCR
+VMST,100 M Backstroke,SCM,M,55-59,1:20.69,Jim W Miller,,2009 Albatross Open,2009,1,02HNX
+VMST,50 M Breaststroke,SCM,M,55-59,42.61,Clifford N Arnold,,2009 Last Chance SCM Meet,2009,1,06J90
+VMST,50 M Breaststroke,SCM,M,55-59,49.60,Bill L Nelson,,VMST 29th Annual Fall Swim Meet,2009,2,02JCR
+VMST,100 M Breaststroke,SCM,M,55-59,1:32.13,Clifford N Arnold,,2009 Last Chance SCM Meet,2009,1,06J90
+VMST,200 M Breaststroke,SCM,M,55-59,3:28.07,Clifford N Arnold,,2009 Last Chance SCM Meet,2009,1,06J90
+VMST,50 M Butterfly,SCM,M,55-59,41.64,Clifford N Arnold,,2009 Last Chance SCM Meet,2009,1,06J90
+VMST,50 M Backstroke,SCM,M,60-64,39.47,Mike Duignan,,VMST 29th Annual Fall Swim Meet,2009,1,02HV6
+VMST,100 M Backstroke,SCM,M,60-64,1:34.71,L Clay Beall,,VMST 29th Annual Fall Swim Meet,2009,1,036CN
+VMST,200 M Backstroke,SCM,M,60-64,3:05.61,Mike Duignan,,VMST 29th Annual Fall Swim Meet,2009,1,02HV6
+VMST,200 M Backstroke,SCM,M,60-64,3:36.61,L Clay Beall,,VMST 29th Annual Fall Swim Meet,2009,2,036CN
+VMST,50 M Butterfly,SCM,M,60-64,38.76,L Clay Beall,,VMST 29th Annual Fall Swim Meet,2009,1,036CN
+VMST,100 M Individual Medley,SCM,M,60-64,1:32.89,L Clay Beall,,VMST 29th Annual Fall Swim Meet,2009,1,036CN
+VMST,50 M Freestyle,SCM,M,65-69,32.35,Jack H Schiltz,,VMST 29th Annual Fall Swim Meet,2009,1,02HUZ
+VMST,50 M Freestyle,SCM,M,65-69,33.45,Warner F Brundage,,Rowdy Gaines Masters Classic,2009,2,02HJ6
+VMST,100 M Freestyle,SCM,M,65-69,1:13.42,Warner F Brundage,,Colonies Zone SCM Championships,2009,1,02HJ6
+VMST,200 M Freestyle,SCM,M,65-69,2:42.76,Warner F Brundage,,2009 Albatross Open,2009,1,02HJ6
+VMST,200 M Freestyle,SCM,M,65-69,2:47.97,Jack H Schiltz,,VMST 29th Annual Fall Swim Meet,2009,2,02HUZ
+VMST,50 M Backstroke,SCM,M,65-69,41.09,Jack H Schiltz,,VMST 29th Annual Fall Swim Meet,2009,1,02HUZ
+VMST,50 M Backstroke,SCM,M,65-69,42.58,Warner F Brundage,,VMST 29th Annual Fall Swim Meet,2009,2,02HJ6
+VMST,100 M Backstroke,SCM,M,65-69,1:29.26,Warner F Brundage,,VMST 29th Annual Fall Swim Meet,2009,1,02HJ6
+VMST,200 M Backstroke,SCM,M,65-69,3:09.17,Warner F Brundage,,VMST 29th Annual Fall Swim Meet,2009,1,02HJ6
+VMST,50 M Breaststroke,SCM,M,65-69,40.61,Warner F Brundage,,Colonies Zone SCM Championships,2009,1,02HJ6
+VMST,50 M Breaststroke,SCM,M,65-69,42.61,Jack H Schiltz,,VMST 29th Annual Fall Swim Meet,2009,2,02HUZ
+VMST,50 M Breaststroke,SCM,M,65-69,52.51,Will Grant,,VMST 29th Annual Fall Swim Meet,2009,3,05XX6
+VMST,100 M Breaststroke,SCM,M,65-69,1:29.11,Warner F Brundage,,Rowdy Gaines Masters Classic,2009,1,02HJ6
+VMST,100 M Breaststroke,SCM,M,65-69,2:02.60,Will Grant,,VMST 29th Annual Fall Swim Meet,2009,2,05XX6
+VMST,200 M Breaststroke,SCM,M,65-69,3:14.17,Warner F Brundage,,Colonies Zone SCM Championships,2009,1,02HJ6
+VMST,200 M Breaststroke,SCM,M,65-69,4:48.58,Will Grant,,VMST 29th Annual Fall Swim Meet,2009,2,05XX6
+VMST,50 M Butterfly,SCM,M,65-69,37.57,Jack H Schiltz,,VMST 29th Annual Fall Swim Meet,2009,1,02HUZ
+VMST,50 M Butterfly,SCM,M,65-69,38.93,Warner F Brundage,,VMST 29th Annual Fall Swim Meet,2009,2,02HJ6
+VMST,100 M Individual Medley,SCM,M,65-69,1:21.36,Warner F Brundage,,Colonies Zone SCM Championships,2009,1,02HJ6
+VMST,200 M Individual Medley,SCM,M,65-69,3:02.49,Warner F Brundage,,Rowdy Gaines Masters Classic,2009,1,02HJ6
+VMST,50 M Freestyle,SCM,M,70-74,37.61,Owen C Maher,,VMST 29th Annual Fall Swim Meet,2009,1,02HW6
+VMST,50 M Freestyle,SCM,M,70-74,43.11,Richard A Scott,,VMST 29th Annual Fall Swim Meet,2009,2,02K2C
+VMST,50 M Freestyle,SCM,M,70-74,53.04,Landis O Lee,,VMST 29th Annual Fall Swim Meet,2009,3,02HP5
+VMST,200 M Freestyle,SCM,M,70-74,3:17.85,Owen C Maher,,VMST 29th Annual Fall Swim Meet,2009,1,02HW6
+VMST,50 M Breaststroke,SCM,M,70-74,59.84,Owen C Maher,,VMST 29th Annual Fall Swim Meet,2009,1,02HW6
+VMST,50 M Breaststroke,SCM,M,70-74,1:17.83,Landis O Lee,,VMST 29th Annual Fall Swim Meet,2009,2,02HP5
+VMST,100 M Breaststroke,SCM,M,70-74,1:59.57,Richard A Scott,,2009 Albatross Open,2009,1,02K2C
+VMST,200 M Breaststroke,SCM,M,70-74,4:26.26,Richard A Scott,,2009 Albatross Open,2009,1,02K2C
+VMST,200 M Butterfly,SCM,M,70-74,6:02.73,Richard A Scott,,VMST 29th Annual Fall Swim Meet,2009,1,02K2C
+VMST,100 M Individual Medley,SCM,M,70-74,2:00.90,Richard A Scott,,2009 Albatross Open,2009,1,02K2C
+VMST,200 M Individual Medley,SCM,M,70-74,4:25.90,Richard A Scott,,VMST 29th Annual Fall Swim Meet,2009,1,02K2C
+VMST,100 M Backstroke,SCM,M,75-79,1:54.14,Alfred C Newbury,,VMST 29th Annual Fall Swim Meet,2009,1,02HK5
+VMST,200 M Backstroke,SCM,M,75-79,4:05.67,Alfred C Newbury,,VMST 29th Annual Fall Swim Meet,2009,1,02HK5
+VMST,100 M Butterfly,SCM,M,75-79,2:17.41,Alfred C Newbury,,VMST 29th Annual Fall Swim Meet,2009,1,02HK5
+VMST,200 M Backstroke,SCM,M,80-84,4:54.22,Forrest M Sullivan,,VMST 29th Annual Fall Swim Meet,2009,1,02HUJ
+WAVA,50 M Freestyle,SCM,M,45-49,30.08,Todd Goins,,2009 Albatross Open,2009,1,02JNX
+WAVA,100 M Freestyle,SCM,M,45-49,1:07.57,Todd Goins,,2009 Albatross Open,2009,1,02JNX
+WAVA,50 M Breaststroke,SCM,M,45-49,40.60,Todd Goins,,2009 Albatross Open,2009,1,02JNX
+WAVA,100 M Individual Medley,SCM,M,45-49,1:22.53,Todd Goins,,2009 Albatross Open,2009,1,02JNX

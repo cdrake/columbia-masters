@@ -1,0 +1,458 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+ACAM,50 M Freestyle,SCM,W,75-79,1:15.94,Lee Willis,,Virginia Senior Games,2010,1,05GSK
+ACAM,100 M Freestyle,SCM,W,75-79,2:57.15,Lee Willis,,Virginia Senior Games,2010,1,05GSK
+ACAM,50 M Backstroke,SCM,W,75-79,1:20.31,Lee Willis,,Virginia Senior Games,2010,1,05GSK
+ACAM,100 M Backstroke,SCM,W,75-79,3:12.94,Lee Willis,,Virginia Senior Games,2010,1,05GSK
+LAMS,50 M Freestyle,SCM,M,40-44,29.26,Tom LaLumiere,,2010 Albatross Open,2010,1,06P9N
+LAMS,100 M Freestyle,SCM,M,40-44,1:07.50,Tom LaLumiere,,2010 Albatross Open,2010,1,06P9N
+LAMS,100 M Individual Medley,SCM,M,40-44,1:18.88,Tom LaLumiere,,2010 Albatross Open,2010,1,06P9N
+LAMS,200 M Individual Medley,SCM,M,40-44,2:58.36,Tom LaLumiere,,2010 Albatross Open,2010,1,06P9N
+QMST,50 M Freestyle,SCM,W,40-44,33.20,Rebecca L Franklin,,2010 Albatross Open,2010,1,02JEM
+QMST,100 M Freestyle,SCM,W,40-44,1:11.37,Rebecca L Franklin,,2010 Albatross Open,2010,1,02JEM
+QMST,100 M Individual Medley,SCM,W,40-44,1:23.23,Rebecca L Franklin,,2010 Albatross Open,2010,1,02JEM
+QMST,200 M Individual Medley,SCM,W,40-44,2:56.14,Rebecca L Franklin,,2010 Albatross Open,2010,1,02JEM
+SHYM,50 M Freestyle,SCM,W,35-39,32.80,Shasta L Rouch,,VMST 30th Annual Fall Swim Meet,2010,1,05TUJ
+SHYM,50 M Backstroke,SCM,W,35-39,35.31,Elizabeth B Graf,,VMST 30th Annual Fall Swim Meet,2010,1,06JDY
+SHYM,100 M Backstroke,SCM,W,35-39,1:15.47,Elizabeth B Graf,,VMST 30th Annual Fall Swim Meet,2010,1,06JDY
+SHYM,200 M Backstroke,SCM,W,35-39,2:42.33,Elizabeth B Graf,,VMST 30th Annual Fall Swim Meet,2010,1,06JDY
+SHYM,50 M Butterfly,SCM,W,35-39,33.43,Shasta L Rouch,,VMST 30th Annual Fall Swim Meet,2010,1,05TUJ
+SHYM,50 M Freestyle,SCM,W,45-49,36.86,Mary J Hamilton,,VMST 30th Annual Fall Swim Meet,2010,1,071ZF
+SHYM,100 M Freestyle,SCM,W,45-49,1:22.57,Mary J Hamilton,,VMST 30th Annual Fall Swim Meet,2010,1,071ZF
+SHYM,200 M Freestyle,SCM,W,45-49,2:59.02,Mary J Hamilton,,VMST 30th Annual Fall Swim Meet,2010,1,071ZF
+SHYM,800 M Freestyle,SCM,W,45-49,16:09.76,Barbara Raab,,VMST 30th Annual Fall Swim Meet,2010,1,05VC0
+SHYM,100 M Individual Medley,SCM,W,45-49,1:37.80,Mary J Hamilton,,VMST 30th Annual Fall Swim Meet,2010,1,071ZF
+SHYM,200 M Freestyle,SCM,W,50-54,2:50.55,Gail Kelley,,VMST 30th Annual Fall Swim Meet,2010,1,02JWD
+SHYM,400 M Freestyle,SCM,W,50-54,6:01.90,Gail Kelley,,VMST 30th Annual Fall Swim Meet,2010,1,02JWD
+SHYM,100 M Individual Medley,SCM,W,50-54,1:32.73,Gail Kelley,,VMST 30th Annual Fall Swim Meet,2010,1,02JWD
+SHYM,200 M Backstroke,SCM,W,55-59,3:20.11,Catherine A Blackwood,,VMST 30th Annual Fall Swim Meet,2010,1,02JJW
+SHYM,50 M Butterfly,SCM,W,55-59,45.45,Catherine A Blackwood,,VMST 30th Annual Fall Swim Meet,2010,1,02JJW
+SHYM,100 M Individual Medley,SCM,W,55-59,1:36.85,Catherine A Blackwood,,VMST 30th Annual Fall Swim Meet,2010,1,02JJW
+SHYM,50 M Freestyle,SCM,M,35-39,28.52,Jason K Tubbs,,VMST 30th Annual Fall Swim Meet,2010,1,06P95
+SHYM,200 M Freestyle,SCM,M,35-39,2:11.92,Brian Blalock,,VMST 30th Annual Fall Swim Meet,2010,1,06HY7
+SHYM,200 M Freestyle,SCM,M,35-39,2:14.06,Dave Bandy,,VMST 30th Annual Fall Swim Meet,2010,2,0721W
+SHYM,50 M Backstroke,SCM,M,35-39,32.33,Robert A Hueller,,VMST 30th Annual Fall Swim Meet,2010,1,0342H
+SHYM,100 M Backstroke,SCM,M,35-39,1:08.59,Robert A Hueller,,VMST 30th Annual Fall Swim Meet,2010,1,0342H
+SHYM,50 M Breaststroke,SCM,M,35-39,37.09,Jason K Tubbs,,VMST 30th Annual Fall Swim Meet,2010,1,06P95
+SHYM,50 M Butterfly,SCM,M,35-39,29.83,Jason K Tubbs,,VMST 30th Annual Fall Swim Meet,2010,1,06P95
+SHYM,50 M Butterfly,SCM,M,35-39,31.11,Robert A Hueller,,VMST 30th Annual Fall Swim Meet,2010,2,0342H
+SHYM,100 M Butterfly,SCM,M,35-39,1:06.69,Dave Bandy,,VMST 30th Annual Fall Swim Meet,2010,1,0721W
+SHYM,200 M Butterfly,SCM,M,35-39,2:30.38,Brian Blalock,,VMST 30th Annual Fall Swim Meet,2010,1,06HY7
+SHYM,100 M Individual Medley,SCM,M,35-39,1:09.57,Dave Bandy,,VMST 30th Annual Fall Swim Meet,2010,1,0721W
+SHYM,100 M Individual Medley,SCM,M,35-39,1:11.39,Jason K Tubbs,,VMST 30th Annual Fall Swim Meet,2010,2,06P95
+SHYM,200 M Individual Medley,SCM,M,35-39,2:28.80,Brian Blalock,,VMST 30th Annual Fall Swim Meet,2010,1,06HY7
+SHYM,50 M Freestyle,SCM,M,45-49,27.94,Steven A Jackson,,VMST 30th Annual Fall Swim Meet,2010,1,06HZ5
+SHYM,100 M Freestyle,SCM,M,45-49,1:02.67,Steven A Jackson,,VMST 30th Annual Fall Swim Meet,2010,1,06HZ5
+SHYM,200 M Freestyle,SCM,M,45-49,2:36.03,Mark E Shea,,VMST 30th Annual Fall Swim Meet,2010,1,02HRE
+SHYM,50 M Butterfly,SCM,M,45-49,31.31,Steven A Jackson,,VMST 30th Annual Fall Swim Meet,2010,1,06HZ5
+SUNF,200 M Freestyle,SCM,M,45-49,2:34.69,Todd Goins,,2010 Last Minute SCM Meet,2010,1,02JNX
+SUNF,100 M Breaststroke,SCM,M,45-49,1:27.69,Todd Goins,,2010 Last Minute SCM Meet,2010,1,02JNX
+SUNF,50 M Butterfly,SCM,M,45-49,36.00,Todd Goins,,2010 Last Minute SCM Meet,2010,1,02JNX
+SUNF,100 M Individual Medley,SCM,M,45-49,1:21.32,Todd Goins,,2010 Last Minute SCM Meet,2010,1,02JNX
+UNAT,50 M Freestyle,SCM,W,65-69,58.89,Arlien L Steiner,,VMST 30th Annual Fall Swim Meet,2010,1,02JFG
+UNAT,100 M Backstroke,SCM,W,65-69,2:22.14,Arlien L Steiner,,VMST 30th Annual Fall Swim Meet,2010,1,02JFG
+UNAT,50 M Breaststroke,SCM,W,65-69,1:15.18,Arlien L Steiner,,VMST 30th Annual Fall Swim Meet,2010,1,02JFG
+UNAT,100 M Breaststroke,SCM,W,65-69,2:49.80,Arlien L Steiner,,VMST 30th Annual Fall Swim Meet,2010,1,02JFG
+UNAT,100 M Individual Medley,SCM,W,65-69,2:35.89,Arlien L Steiner,,VMST 30th Annual Fall Swim Meet,2010,1,02JFG
+UNAT,50 M Freestyle,SCM,M,18-24,26.48,Phillip Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,072D4
+UNAT,50 M Freestyle,SCM,M,18-24,29.48,Joshua C Chandler,,VMST 30th Annual Fall Swim Meet,2010,2,0728J
+UNAT,200 M Freestyle,SCM,M,18-24,2:28.12,Joshua C Chandler,,VMST 30th Annual Fall Swim Meet,2010,1,0728J
+UNAT,800 M Freestyle,SCM,M,18-24,10:00.09,Christopher C Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,06HTS
+UNAT,1500 M Freestyle,SCM,M,18-24,20:02.30,Christopher C Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,06HTS
+UNAT,100 M Backstroke,SCM,M,18-24,1:09.13,Phillip Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,072D4
+UNAT,100 M Breaststroke,SCM,M,18-24,1:17.84,Phillip Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,072D4
+UNAT,200 M Butterfly,SCM,M,18-24,2:39.85,Christopher C Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,06HTS
+UNAT,100 M Individual Medley,SCM,M,18-24,1:08.77,Phillip Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,072D4
+UNAT,200 M Individual Medley,SCM,M,18-24,2:39.97,Christopher C Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,06HTS
+UNAT,400 M Individual Medley,SCM,M,18-24,5:35.00,Christopher C Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,06HTS
+UNAT,50 M Freestyle,SCM,M,30-34,27.01,Jack A Evelyn,,VMST 30th Annual Fall Swim Meet,2010,1,060XJ
+UNAT,100 M Freestyle,SCM,M,30-34,1:00.26,Jack A Evelyn,,VMST 30th Annual Fall Swim Meet,2010,1,060XJ
+UNAT,200 M Freestyle,SCM,M,30-34,2:23.22,Jack A Evelyn,,VMST 30th Annual Fall Swim Meet,2010,1,060XJ
+UNAT,200 M Backstroke,SCM,M,30-34,2:20.37,Pieter A De Hart,,2010 Albatross Open,2010,1,01P4S
+UNAT,100 M Breaststroke,SCM,M,30-34,1:14.51,Pieter A De Hart,,2010 Albatross Open,2010,1,01P4S
+UNAT,100 M Butterfly,SCM,M,30-34,1:01.69,Pieter A De Hart,,2010 Albatross Open,2010,1,01P4S
+UNAT,200 M Individual Medley,SCM,M,30-34,2:18.19,Pieter A De Hart,,2010 Albatross Open,2010,1,01P4S
+UNAT,50 M Freestyle,SCM,M,40-44,27.45,Kirk W Clear,,2010 Albatross Open,2010,1,005HN
+UNAT,50 M Freestyle,SCM,M,40-44,30.32,William Durham,,VMST 30th Annual Fall Swim Meet,2010,2,06FXB
+UNAT,50 M Backstroke,SCM,M,40-44,30.86,Kirk W Clear,,2010 Albatross Open,2010,1,005HN
+UNAT,50 M Breaststroke,SCM,M,40-44,38.92,William Durham,,VMST 30th Annual Fall Swim Meet,2010,1,06FXB
+UNAT,50 M Butterfly,SCM,M,40-44,35.89,William Durham,,VMST 30th Annual Fall Swim Meet,2010,1,06FXB
+UNAT,100 M Individual Medley,SCM,M,40-44,1:10.10,Kirk W Clear,,2010 Albatross Open,2010,1,005HN
+UNAT,50 M Freestyle,SCM,M,50-54,30.40,Scott R Morin,,VMST 30th Annual Fall Swim Meet,2010,1,072A7
+UNAT,50 M Freestyle,SCM,M,50-54,31.22,Joey Stickle,,VMST 30th Annual Fall Swim Meet,2010,2,02JCK
+UNAT,50 M Freestyle,SCM,M,50-54,33.14,Stephen R Bilicki,,2010 Albatross Open,2010,3,06HTR
+UNAT,100 M Freestyle,SCM,M,50-54,1:09.55,Scott R Morin,,VMST 30th Annual Fall Swim Meet,2010,1,072A7
+UNAT,100 M Freestyle,SCM,M,50-54,1:14.47,Stephen R Bilicki,,2010 Albatross Open,2010,2,06HTR
+UNAT,200 M Freestyle,SCM,M,50-54,3:12.57,Robert J Bosley,,VMST 30th Annual Fall Swim Meet,2010,1,06P3J
+UNAT,400 M Freestyle,SCM,M,50-54,7:18.27,Robert J Bosley,,VMST 30th Annual Fall Swim Meet,2010,1,06P3J
+UNAT,50 M Breaststroke,SCM,M,50-54,39.85,Joey Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,02JCK
+UNAT,100 M Breaststroke,SCM,M,50-54,1:27.70,Joey Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,02JCK
+UNAT,100 M Individual Medley,SCM,M,50-54,1:23.69,Joey Stickle,,VMST 30th Annual Fall Swim Meet,2010,1,02JCK
+UNAT,100 M Individual Medley,SCM,M,50-54,1:28.18,Stephen R Bilicki,,2010 Albatross Open,2010,2,06HTR
+UNAT,200 M Individual Medley,SCM,M,50-54,3:12.97,Stephen R Bilicki,,2010 Albatross Open,2010,1,06HTR
+UNAT,50 M Freestyle,SCM,M,55-59,31.91,Doug Grant,,Virginia Senior Games,2010,1,06PXW
+UNAT,100 M Freestyle,SCM,M,55-59,1:14.60,Doug Grant,,Virginia Senior Games,2010,1,06PXW
+UNAT,100 M Freestyle,SCM,M,55-59,1:46.85,Dean J Cummings,,VMST 30th Annual Fall Swim Meet,2010,2,06HYS
+UNAT,200 M Backstroke,SCM,M,55-59,4:46.58,Dean J Cummings,,VMST 30th Annual Fall Swim Meet,2010,1,06HYS
+UNAT,400 M Freestyle,SCM,M,65-69,8:58.13,Skip Ferebee,,Virginia Senior Games,2010,1,02JXV
+UNAT,50 M Breaststroke,SCM,M,65-69,52.15,Richard S Durham,,2010 Albatross Open,2010,1,036PH
+UNAT,200 M Breaststroke,SCM,M,65-69,4:15.30,Richard S Durham,,2010 Albatross Open,2010,1,036PH
+UNAT,50 M Backstroke,SCM,M,70-74,1:10.75,Robert C Sass,,Virginia Senior Games,2010,1,02HVV
+UNAT,100 M Backstroke,SCM,M,70-74,2:47.40,Robert C Sass,,VMST 30th Annual Fall Swim Meet,2010,1,02HVV
+UNAT,200 M Backstroke,SCM,M,70-74,6:05.67,Robert C Sass,,VMST 30th Annual Fall Swim Meet,2010,1,02HVV
+URMS,100 M Freestyle,SCM,W,25-29,1:20.26,Elizabeth I Cohen,,VMST 30th Annual Fall Swim Meet,2010,1,05H6X
+URMS,400 M Freestyle,SCM,W,25-29,5:53.21,Elizabeth I Cohen,,VMST 30th Annual Fall Swim Meet,2010,1,05H6X
+URMS,50 M Butterfly,SCM,W,25-29,43.13,Elizabeth I Cohen,,VMST 30th Annual Fall Swim Meet,2010,1,05H6X
+URMS,100 M Individual Medley,SCM,W,25-29,1:34.89,Elizabeth I Cohen,,VMST 30th Annual Fall Swim Meet,2010,1,05H6X
+URMS,200 M Individual Medley,SCM,W,25-29,3:16.53,Elizabeth I Cohen,,VMST 30th Annual Fall Swim Meet,2010,1,05H6X
+VMST,50 M Freestyle,SCM,W,25-29,38.03,Kirsten M Halverson,,VMST 30th Annual Fall Swim Meet,2010,1,07258
+VMST,100 M Freestyle,SCM,W,25-29,1:07.42,Claire C Russo,,VMST 30th Annual Fall Swim Meet,2010,1,046MW
+VMST,200 M Freestyle,SCM,W,25-29,2:24.00,Claire C Russo,,VMST 30th Annual Fall Swim Meet,2010,1,046MW
+VMST,200 M Freestyle,SCM,W,25-29,2:26.85,Betsy Turner,,New England Short Course Meters Championship,2010,2,06CT3
+VMST,400 M Freestyle,SCM,W,25-29,4:40.36,Kate Hibbard,,New England Short Course Meters Championship,2010,1,06M8W
+VMST,400 M Freestyle,SCM,W,25-29,5:04.19,Betsy Turner,,New England Short Course Meters Championship,2010,2,06CT3
+VMST,400 M Freestyle,SCM,W,25-29,5:12.91,Claire C Russo,,VMST 30th Annual Fall Swim Meet,2010,3,046MW
+VMST,800 M Freestyle,SCM,W,25-29,10:27.17,Betsy Turner,,New England Short Course Meters Championship,2010,1,06CT3
+VMST,50 M Backstroke,SCM,W,25-29,31.77,Kate Hibbard,,Albatross Open (Split Requests),2010,1,06M8W
+VMST,100 M Backstroke,SCM,W,25-29,1:06.51,Kate Hibbard,,New England Short Course Meters Championship,2010,1,06M8W
+VMST,100 M Backstroke,SCM,W,25-29,1:50.58,Kirsten M Halverson,,VMST 30th Annual Fall Swim Meet,2010,2,07258
+VMST,200 M Backstroke,SCM,W,25-29,2:25.05,Kate Hibbard,,2010 Albatross Open,2010,1,06M8W
+VMST,50 M Breaststroke,SCM,W,25-29,38.26,Claire C Russo,,VMST 30th Annual Fall Swim Meet,2010,1,046MW
+VMST,50 M Breaststroke,SCM,W,25-29,52.91,Kirsten M Halverson,,VMST 30th Annual Fall Swim Meet,2010,2,07258
+VMST,100 M Breaststroke,SCM,W,25-29,1:22.93,Claire C Russo,,2010 Albatross Open,2010,1,046MW
+VMST,100 M Breaststroke,SCM,W,25-29,2:00.24,Kirsten M Halverson,,VMST 30th Annual Fall Swim Meet,2010,2,07258
+VMST,200 M Breaststroke,SCM,W,25-29,2:58.53,Claire C Russo,,2010 Albatross Open,2010,1,046MW
+VMST,100 M Butterfly,SCM,W,25-29,1:13.68,Claire C Russo,,VMST 30th Annual Fall Swim Meet,2010,1,046MW
+VMST,100 M Butterfly,SCM,W,25-29,1:14.66,Betsy Turner,,New England Short Course Meters Championship,2010,2,06CT3
+VMST,200 M Butterfly,SCM,W,25-29,2:44.96,Betsy Turner,,New England Short Course Meters Championship,2010,1,06CT3
+VMST,100 M Individual Medley,SCM,W,25-29,1:10.54,Kate Hibbard,,New England Short Course Meters Championship,2010,1,06M8W
+VMST,100 M Individual Medley,SCM,W,25-29,1:49.37,Kirsten M Halverson,,VMST 30th Annual Fall Swim Meet,2010,2,07258
+VMST,200 M Individual Medley,SCM,W,25-29,2:27.08,Kate Hibbard,,New England Short Course Meters Championship,2010,1,06M8W
+VMST,200 M Individual Medley,SCM,W,25-29,2:46.69,Betsy Turner,,New England Short Course Meters Championship,2010,2,06CT3
+VMST,400 M Individual Medley,SCM,W,25-29,5:44.78,Betsy Turner,,New England Short Course Meters Championship,2010,1,06CT3
+VMST,800 M Freestyle,SCM,W,35-39,13:01.18,Andrea T Latell,,VMST 30th Annual Fall Swim Meet,2010,1,05ZTV
+VMST,200 M Backstroke,SCM,W,35-39,3:17.90,Andrea T Latell,,VMST 30th Annual Fall Swim Meet,2010,1,05ZTV
+VMST,200 M Breaststroke,SCM,W,35-39,3:35.47,Andrea T Latell,,VMST 30th Annual Fall Swim Meet,2010,1,05ZTV
+VMST,400 M Individual Medley,SCM,W,35-39,6:50.51,Andrea T Latell,,VMST 30th Annual Fall Swim Meet,2010,1,05ZTV
+VMST,100 M Freestyle,SCM,W,40-44,1:10.43,Alison B Moore,,2010 Last Minute SCM Meet,2010,1,025WG
+VMST,400 M Freestyle,SCM,W,40-44,5:15.76,Alison B Moore,,VMST 30th Annual Fall Swim Meet,2010,1,025WG
+VMST,800 M Freestyle,SCM,W,40-44,14:26.72,Esther V Platsis,,VMST 30th Annual Fall Swim Meet,2010,1,05ZN5
+VMST,50 M Backstroke,SCM,W,40-44,39.69,Alison B Moore,,2010 Last Minute SCM Meet,2010,1,025WG
+VMST,200 M Backstroke,SCM,W,40-44,3:34.02,Esther V Platsis,,VMST 30th Annual Fall Swim Meet,2010,1,05ZN5
+VMST,50 M Breaststroke,SCM,W,40-44,52.04,Esther V Platsis,,VMST 30th Annual Fall Swim Meet,2010,1,05ZN5
+VMST,200 M Butterfly,SCM,W,40-44,4:21.46,Esther V Platsis,,VMST 30th Annual Fall Swim Meet,2010,1,05ZN5
+VMST,100 M Individual Medley,SCM,W,40-44,1:18.15,Alison B Moore,,2010 Last Minute SCM Meet,2010,1,025WG
+VMST,200 M Individual Medley,SCM,W,40-44,2:49.74,Alison B Moore,,2010 Last Minute SCM Meet,2010,1,025WG
+VMST,400 M Individual Medley,SCM,W,40-44,5:55.94,Alison B Moore,,VMST 30th Annual Fall Swim Meet,2010,1,025WG
+VMST,400 M Individual Medley,SCM,W,40-44,7:48.73,Esther V Platsis,,VMST 30th Annual Fall Swim Meet,2010,2,05ZN5
+VMST,100 M Freestyle,SCM,W,45-49,1:19.81,Nancy K Speer,,VMST 30th Annual Fall Swim Meet,2010,1,05XR8
+VMST,200 M Freestyle,SCM,W,45-49,2:54.01,Dale L Browning,,VMST 30th Annual Fall Swim Meet,2010,1,0729Y
+VMST,400 M Freestyle,SCM,W,45-49,5:16.27,Alice W Phillips,,VMST 30th Annual Fall Swim Meet,2010,1,02J2Z
+VMST,400 M Freestyle,SCM,W,45-49,5:57.56,Nancy K Speer,,VMST 30th Annual Fall Swim Meet,2010,2,05XR8
+VMST,400 M Freestyle,SCM,W,45-49,6:12.46,Dale L Browning,,VMST 30th Annual Fall Swim Meet,2010,3,0729Y
+VMST,800 M Freestyle,SCM,W,45-49,12:45.75,Dale L Browning,,VMST 30th Annual Fall Swim Meet,2010,1,0729Y
+VMST,50 M Breaststroke,SCM,W,45-49,44.30,Nancy K Speer,,VMST 30th Annual Fall Swim Meet,2010,1,05XR8
+VMST,100 M Breaststroke,SCM,W,45-49,1:37.27,Nancy K Speer,,VMST 30th Annual Fall Swim Meet,2010,1,05XR8
+VMST,50 M Butterfly,SCM,W,45-49,33.65,Alice W Phillips,,VMST 30th Annual Fall Swim Meet,2010,1,02J2Z
+VMST,200 M Individual Medley,SCM,W,45-49,2:43.05,Alice W Phillips,,VMST 30th Annual Fall Swim Meet,2010,1,02J2Z
+VMST,50 M Freestyle,SCM,W,50-54,30.50,Lisa A Bennett,,New England Short Course Meters Championship,2010,1,02HZJ
+VMST,50 M Freestyle,SCM,W,50-54,37.23,Betsy L Goode,,VMST 30th Annual Fall Swim Meet,2010,2,02K6W
+VMST,50 M Freestyle,SCM,W,50-54,38.11,Anne H Kloster,,VMST 30th Annual Fall Swim Meet,2010,3,072M7
+VMST,50 M Freestyle,SCM,W,50-54,39.55,Carol E Downing,,VMST 30th Annual Fall Swim Meet,2010,4,02HZR
+VMST,100 M Freestyle,SCM,W,50-54,1:07.30,Lisa A Bennett,,2010 Albatross Open,2010,1,02HZJ
+VMST,100 M Freestyle,SCM,W,50-54,1:24.05,Betsy L Goode,,VMST 30th Annual Fall Swim Meet,2010,2,02K6W
+VMST,100 M Freestyle,SCM,W,50-54,1:24.81,Mary Ann Peterson,,VMST 30th Annual Fall Swim Meet,2010,3,02J6S
+VMST,100 M Freestyle,SCM,W,50-54,1:29.91,Anne H Kloster,,VMST 30th Annual Fall Swim Meet,2010,4,072M7
+VMST,100 M Freestyle,SCM,W,50-54,1:31.24,Carol E Downing,,VMST 30th Annual Fall Swim Meet,2010,5,02HZR
+VMST,200 M Freestyle,SCM,W,50-54,2:27.53,Lisa A Bennett,,VMST 30th Annual Fall Swim Meet,2010,1,02HZJ
+VMST,200 M Freestyle,SCM,W,50-54,2:53.88,Mary Ann Peterson,,VMST 30th Annual Fall Swim Meet,2010,2,02J6S
+VMST,200 M Freestyle,SCM,W,50-54,3:04.01,Betsy L Goode,,VMST 30th Annual Fall Swim Meet,2010,3,02K6W
+VMST,200 M Freestyle,SCM,W,50-54,3:16.50,Carol E Downing,,VMST 30th Annual Fall Swim Meet,2010,4,02HZR
+VMST,400 M Freestyle,SCM,W,50-54,5:18.12,Lisa A Bennett,,VMST 30th Annual Fall Swim Meet,2010,1,02HZJ
+VMST,400 M Freestyle,SCM,W,50-54,6:08.43,Mary Ann Peterson,,VMST 30th Annual Fall Swim Meet,2010,2,02J6S
+VMST,800 M Freestyle,SCM,W,50-54,10:43.84,Lisa A Bennett,,VMST 30th Annual Fall Swim Meet,2010,1,02HZJ
+VMST,800 M Freestyle,SCM,W,50-54,12:30.62,Mary Ann Peterson,,VMST 30th Annual Fall Swim Meet,2010,2,02J6S
+VMST,1500 M Freestyle,SCM,W,50-54,20:31.22,Lisa A Bennett,,VMST 30th Annual Fall Swim Meet,2010,1,02HZJ
+VMST,100 M Backstroke,SCM,W,50-54,1:20.87,Lisa A Bennett,,VMST 30th Annual Fall Swim Meet,2010,1,02HZJ
+VMST,100 M Backstroke,SCM,W,50-54,1:55.48,Anne H Kloster,,VMST 30th Annual Fall Swim Meet,2010,2,072M7
+VMST,200 M Backstroke,SCM,W,50-54,2:57.13,Lisa A Bennett,,New England Short Course Meters Championship,2010,1,02HZJ
+VMST,50 M Breaststroke,SCM,W,50-54,38.29,Lisa A Bennett,,2010 Albatross Open,2010,1,02HZJ
+VMST,50 M Breaststroke,SCM,W,50-54,48.48,Betsy L Goode,,VMST 30th Annual Fall Swim Meet,2010,2,02K6W
+VMST,50 M Breaststroke,SCM,W,50-54,50.21,Carol E Downing,,VMST 30th Annual Fall Swim Meet,2010,3,02HZR
+VMST,50 M Breaststroke,SCM,W,50-54,52.13,Anne H Kloster,,VMST 30th Annual Fall Swim Meet,2010,4,072M7
+VMST,100 M Breaststroke,SCM,W,50-54,1:26.49,Lisa A Bennett,,VMST 30th Annual Fall Swim Meet,2010,1,02HZJ
+VMST,50 M Butterfly,SCM,W,50-54,36.03,Lisa A Bennett,,New England Short Course Meters Championship,2010,1,02HZJ
+VMST,100 M Butterfly,SCM,W,50-54,1:17.99,Lisa A Bennett,,New England Short Course Meters Championship,2010,1,02HZJ
+VMST,200 M Butterfly,SCM,W,50-54,3:01.54,Lisa A Bennett,,New England Short Course Meters Championship,2010,1,02HZJ
+VMST,100 M Individual Medley,SCM,W,50-54,1:38.60,Betsy L Goode,,VMST 30th Annual Fall Swim Meet,2010,1,02K6W
+VMST,200 M Individual Medley,SCM,W,50-54,3:23.42,Mary Ann Peterson,,VMST 30th Annual Fall Swim Meet,2010,1,02J6S
+VMST,50 M Freestyle,SCM,W,55-59,33.22,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,50 M Freestyle,SCM,W,55-59,42.43,Jann L Brown,,Virginia Senior Games,2010,2,02J3Z
+VMST,50 M Freestyle,SCM,W,55-59,1:04.91,Patricia Sikora,,Virginia Senior Games,2010,3,06JU2
+VMST,50 M Freestyle,SCM,W,55-59,1:27.44,Michelle M Lybarger,,Virginia Senior Games,2010,4,06JU4
+VMST,100 M Freestyle,SCM,W,55-59,1:10.45,Shirley A Loftus-Charley,,2010 Last Minute SCM Meet,2010,1,02HKM
+VMST,100 M Freestyle,SCM,W,55-59,1:38.16,Jann L Brown,,Virginia Senior Games,2010,2,02J3Z
+VMST,200 M Freestyle,SCM,W,55-59,2:34.31,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,200 M Freestyle,SCM,W,55-59,3:03.34,Kitten Braaten,,VMST 30th Annual Fall Swim Meet,2010,2,02HKK
+VMST,200 M Freestyle,SCM,W,55-59,3:14.77,Cindy W Hamilton,,VMST 30th Annual Fall Swim Meet,2010,3,06N36
+VMST,200 M Freestyle,SCM,W,55-59,3:38.25,Jann L Brown,,Virginia Senior Games,2010,4,02J3Z
+VMST,200 M Freestyle,SCM,W,55-59,6:05.60,Patricia Sikora,,Virginia Senior Games,2010,5,06JU2
+VMST,200 M Freestyle,SCM,W,55-59,6:24.22,Michelle M Lybarger,,Virginia Senior Games,2010,6,06JU4
+VMST,400 M Freestyle,SCM,W,55-59,5:12.43,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,400 M Freestyle,SCM,W,55-59,6:18.72,Kitten Braaten,,VMST 30th Annual Fall Swim Meet,2010,2,02HKK
+VMST,400 M Freestyle,SCM,W,55-59,12:25.89,Patricia Sikora,,Virginia Senior Games,2010,3,06JU2
+VMST,400 M Freestyle,SCM,W,55-59,12:48.62,Michelle M Lybarger,,Virginia Senior Games,2010,4,06JU4
+VMST,800 M Freestyle,SCM,W,55-59,10:32.57,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,1500 M Freestyle,SCM,W,55-59,19:47.98,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,100 M Backstroke,SCM,W,55-59,1:28.26,Shirley A Loftus-Charley,,2010 Last Minute SCM Meet,2010,1,02HKM
+VMST,100 M Backstroke,SCM,W,55-59,2:45.09,Michelle M Lybarger,,Virginia Senior Games,2010,2,06JU4
+VMST,200 M Backstroke,SCM,W,55-59,3:23.05,Kitten Braaten,,2010 Albatross Open,2010,1,02HKK
+VMST,200 M Backstroke,SCM,W,55-59,5:40.31,Michelle M Lybarger,,Virginia Senior Games,2010,2,06JU4
+VMST,50 M Breaststroke,SCM,W,55-59,43.96,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,50 M Breaststroke,SCM,W,55-59,53.50,Jann L Brown,,Virginia Senior Games,2010,2,02J3Z
+VMST,100 M Breaststroke,SCM,W,55-59,1:37.27,Shirley A Loftus-Charley,,2010 Last Minute SCM Meet,2010,1,02HKM
+VMST,100 M Breaststroke,SCM,W,55-59,2:00.54,Jann L Brown,,Virginia Senior Games,2010,2,02J3Z
+VMST,100 M Breaststroke,SCM,W,55-59,2:30.87,Patricia Sikora,,Virginia Senior Games,2010,3,06JU2
+VMST,200 M Breaststroke,SCM,W,55-59,3:20.99,Shirley A Loftus-Charley,,2010 Last Minute SCM Meet,2010,1,02HKM
+VMST,100 M Butterfly,SCM,W,55-59,1:22.07,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,100 M Butterfly,SCM,W,55-59,1:35.76,Kitten Braaten,,2010 Albatross Open,2010,2,02HKK
+VMST,200 M Butterfly,SCM,W,55-59,2:55.79,Shirley A Loftus-Charley,,2010 Last Minute SCM Meet,2010,1,02HKM
+VMST,200 M Butterfly,SCM,W,55-59,3:29.20,Kitten Braaten,,2010 Albatross Open,2010,2,02HKK
+VMST,100 M Individual Medley,SCM,W,55-59,1:21.22,Shirley A Loftus-Charley,,2010 Albatross Open,2010,1,02HKM
+VMST,100 M Individual Medley,SCM,W,55-59,1:42.51,Cindy W Hamilton,,VMST 30th Annual Fall Swim Meet,2010,2,06N36
+VMST,200 M Individual Medley,SCM,W,55-59,2:51.87,Shirley A Loftus-Charley,,2010 Albatross Open,2010,1,02HKM
+VMST,200 M Individual Medley,SCM,W,55-59,3:38.43,Cindy W Hamilton,,VMST 30th Annual Fall Swim Meet,2010,2,06N36
+VMST,400 M Individual Medley,SCM,W,55-59,5:58.09,Shirley A Loftus-Charley,,VMST 30th Annual Fall Swim Meet,2010,1,02HKM
+VMST,800 M Freestyle,SCM,W,60-64,22:47.32,Donna L Funkhouser,,VMST 30th Annual Fall Swim Meet,2010,1,02K24
+VMST,100 M Backstroke,SCM,W,60-64,1:46.80,Kathryn S Gregory,,VMST 30th Annual Fall Swim Meet,2010,1,02HM0
+VMST,200 M Backstroke,SCM,W,60-64,3:52.99,Kathryn S Gregory,,VMST 30th Annual Fall Swim Meet,2010,1,02HM0
+VMST,100 M Breaststroke,SCM,W,60-64,1:59.46,Kathryn S Gregory,,VMST 30th Annual Fall Swim Meet,2010,1,02HM0
+VMST,200 M Breaststroke,SCM,W,60-64,4:19.60,Kathryn S Gregory,,VMST 30th Annual Fall Swim Meet,2010,1,02HM0
+VMST,100 M Individual Medley,SCM,W,60-64,1:51.11,Kathryn S Gregory,,VMST 30th Annual Fall Swim Meet,2010,1,02HM0
+VMST,50 M Freestyle,SCM,W,65-69,34.55,Beth Schreiner,,2010 Albatross Open,2010,1,0367J
+VMST,50 M Freestyle,SCM,W,65-69,41.19,Ida M Hlavacek,,Huntsman Senior Games,2010,2,0366E
+VMST,100 M Freestyle,SCM,W,65-69,1:20.43,Beth Schreiner,,2010 Albatross Open,2010,1,0367J
+VMST,100 M Freestyle,SCM,W,65-69,1:34.87,Ida M Hlavacek,,Huntsman Senior Games,2010,2,0366E
+VMST,200 M Freestyle,SCM,W,65-69,3:02.72,Beth Schreiner,,2010 Albatross Open,2010,1,0367J
+VMST,200 M Freestyle,SCM,W,65-69,3:11.15,Betsy Durrant,,VMST 30th Annual Fall Swim Meet,2010,2,02HSG
+VMST,200 M Freestyle,SCM,W,65-69,3:34.53,Ida M Hlavacek,,DAM Fall Short Course Meters Swim Meet,2010,3,0366E
+VMST,200 M Freestyle,SCM,W,65-69,3:48.19,Judy Martin,,North Carolina CSM Autumn Masters Meet,2010,4,02HKE
+VMST,400 M Freestyle,SCM,W,65-69,6:48.12,Betsy Durrant,,VMST 30th Annual Fall Swim Meet,2010,1,02HSG
+VMST,400 M Freestyle,SCM,W,65-69,7:35.57,Ida M Hlavacek,,DAM Fall Short Course Meters Swim Meet,2010,2,0366E
+VMST,1500 M Freestyle,SCM,W,65-69,26:37.52,Betsy Durrant,,North Carolina CSM Autumn Masters Meet,2010,1,02HSG
+VMST,1500 M Freestyle,SCM,W,65-69,29:32.39,Ida M Hlavacek,,VMST 30th Annual Fall Swim Meet,2010,2,0366E
+VMST,50 M Backstroke,SCM,W,65-69,48.36,Betsy Durrant,,North Carolina CSM Autumn Masters Meet,2010,1,02HSG
+VMST,50 M Backstroke,SCM,W,65-69,49.23,Ida M Hlavacek,,Huntsman Senior Games,2010,2,0366E
+VMST,50 M Backstroke,SCM,W,65-69,51.16,Judy Martin,,VMST 30th Annual Fall Swim Meet,2010,3,02HKE
+VMST,100 M Backstroke,SCM,W,65-69,1:47.34,Judy Martin,,VMST 30th Annual Fall Swim Meet,2010,1,02HKE
+VMST,100 M Backstroke,SCM,W,65-69,1:47.65,Ida M Hlavacek,,Huntsman Senior Games,2010,2,0366E
+VMST,200 M Backstroke,SCM,W,65-69,3:50.75,Betsy Durrant,,North Carolina CSM Autumn Masters Meet,2010,1,02HSG
+VMST,200 M Backstroke,SCM,W,65-69,3:53.19,Judy Martin,,VMST 30th Annual Fall Swim Meet,2010,2,02HKE
+VMST,200 M Backstroke,SCM,W,65-69,3:59.83,Ida M Hlavacek,,DAM Fall Short Course Meters Swim Meet,2010,3,0366E
+VMST,50 M Breaststroke,SCM,W,65-69,51.06,Betsy Durrant,,North Carolina CSM Autumn Masters Meet,2010,1,02HSG
+VMST,50 M Breaststroke,SCM,W,65-69,52.47,Judy Martin,,North Carolina CSM Autumn Masters Meet,2010,2,02HKE
+VMST,50 M Breaststroke,SCM,W,65-69,1:03.94,Ida M Hlavacek,,VMST 30th Annual Fall Swim Meet,2010,3,0366E
+VMST,200 M Breaststroke,SCM,W,65-69,4:19.75,Susan E Marens,,VMST 30th Annual Fall Swim Meet,2010,1,02HSX
+VMST,50 M Butterfly,SCM,W,65-69,54.13,Ida M Hlavacek,,Huntsman Senior Games,2010,1,0366E
+VMST,100 M Butterfly,SCM,W,65-69,2:02.58,Ida M Hlavacek,,Huntsman Senior Games,2010,1,0366E
+VMST,100 M Butterfly,SCM,W,65-69,2:05.70,Susan E Marens,,VMST 30th Annual Fall Swim Meet,2010,2,02HSX
+VMST,200 M Butterfly,SCM,W,65-69,4:31.66,Ida M Hlavacek,,DAM Fall Short Course Meters Swim Meet,2010,1,0366E
+VMST,100 M Individual Medley,SCM,W,65-69,1:56.77,Ida M Hlavacek,,VMST 30th Annual Fall Swim Meet,2010,1,0366E
+VMST,200 M Individual Medley,SCM,W,65-69,4:00.49,Ida M Hlavacek,,Huntsman Senior Games,2010,1,0366E
+VMST,400 M Individual Medley,SCM,W,65-69,8:38.41,Ida M Hlavacek,,DAM Fall Short Course Meters Swim Meet,2010,1,0366E
+VMST,50 M Freestyle,SCM,W,70-74,42.07,Laura S Walker,,VMST 30th Annual Fall Swim Meet,2010,1,02HK3
+VMST,50 M Freestyle,SCM,W,70-74,55.59,Joan Averette,,Huntsman Senior Games,2010,2,02HZM
+VMST,400 M Freestyle,SCM,W,70-74,10:22.31,Joan Averette,,Virginia Senior Games,2010,1,02HZM
+VMST,100 M Backstroke,SCM,W,70-74,1:56.80,Laura S Walker,,VMST 30th Annual Fall Swim Meet,2010,1,02HK3
+VMST,50 M Breaststroke,SCM,W,70-74,1:12.63,Joan Averette,,Huntsman Senior Games,2010,1,02HZM
+VMST,100 M Breaststroke,SCM,W,70-74,2:46.25,Joan Averette,,Virginia Senior Games,2010,1,02HZM
+VMST,200 M Breaststroke,SCM,W,70-74,6:04.55,Joan Averette,,Huntsman Senior Games,2010,1,02HZM
+VMST,50 M Butterfly,SCM,W,70-74,1:21.91,Joan Averette,,Huntsman Senior Games,2010,1,02HZM
+VMST,100 M Individual Medley,SCM,W,70-74,2:38.38,Joan Averette,,Huntsman Senior Games,2010,1,02HZM
+VMST,50 M Freestyle,SCM,W,75-79,37.53,Johnnie Detrick,,VMST 30th Annual Fall Swim Meet,2010,1,02HME
+VMST,100 M Freestyle,SCM,W,75-79,1:32.86,Johnnie Detrick,,North Carolina CSM Autumn Masters Meet,2010,1,02HME
+VMST,200 M Freestyle,SCM,W,75-79,5:26.94,Vera K Suit,,Virginia Senior Games,2010,1,02HM8
+VMST,400 M Freestyle,SCM,W,75-79,11:10.00,Vera K Suit,,Virginia Senior Games,2010,1,02HM8
+VMST,50 M Breaststroke,SCM,W,75-79,52.93,Johnnie Detrick,,North Carolina CSM Autumn Masters Meet,2010,1,02HME
+VMST,100 M Breaststroke,SCM,W,75-79,1:59.48,Johnnie Detrick,,VMST 30th Annual Fall Swim Meet,2010,1,02HME
+VMST,200 M Breaststroke,SCM,W,75-79,4:09.87,Johnnie Detrick,,VMST 30th Annual Fall Swim Meet,2010,1,02HME
+VMST,100 M Individual Medley,SCM,W,75-79,1:52.70,Johnnie Detrick,,North Carolina CSM Autumn Masters Meet,2010,1,02HME
+VMST,200 M Individual Medley,SCM,W,75-79,4:12.16,Johnnie Detrick,,North Carolina CSM Autumn Masters Meet,2010,1,02HME
+VMST,50 M Freestyle,SCM,W,80-84,53.37,Jeanne H Meredith,,Huntsman Senior Games,2010,1,02HT9
+VMST,100 M Freestyle,SCM,W,80-84,2:06.10,Jeanne H Meredith,,Huntsman Senior Games,2010,1,02HT9
+VMST,100 M Freestyle,SCM,W,80-84,2:24.47,Terry Sokolik,,Huntsman Senior Games,2010,2,02HND
+VMST,200 M Freestyle,SCM,W,80-84,4:34.76,Jeanne H Meredith,,Huntsman Senior Games,2010,1,02HT9
+VMST,400 M Freestyle,SCM,W,80-84,9:34.78,Jeanne H Meredith,,Huntsman Senior Games,2010,1,02HT9
+VMST,400 M Freestyle,SCM,W,80-84,10:52.85,Terry Sokolik,,Huntsman Senior Games,2010,2,02HND
+VMST,800 M Freestyle,SCM,W,80-84,20:06.35,Jeanne H Meredith,,Huntsman Senior Games,2010,1,02HT9
+VMST,50 M Backstroke,SCM,W,80-84,1:11.45,Jeanne H Meredith,,Huntsman Senior Games,2010,1,02HT9
+VMST,50 M Backstroke,SCM,W,80-84,1:14.43,Terry Sokolik,,Huntsman Senior Games,2010,2,02HND
+VMST,100 M Backstroke,SCM,W,80-84,2:49.74,Terry Sokolik,,Huntsman Senior Games,2010,1,02HND
+VMST,200 M Backstroke,SCM,W,80-84,6:12.42,Terry Sokolik,,VMST 30th Annual Fall Swim Meet,2010,1,02HND
+VMST,50 M Breaststroke,SCM,W,80-84,1:24.07,Terry Sokolik,,Huntsman Senior Games,2010,1,02HND
+VMST,50 M Butterfly,SCM,W,80-84,1:26.38,Terry Sokolik,,Huntsman Senior Games,2010,1,02HND
+VMST,100 M Individual Medley,SCM,W,80-84,2:53.16,Terry Sokolik,,VMST 30th Annual Fall Swim Meet,2010,1,02HND
+VMST,50 M Freestyle,SCM,W,85-89,1:00.49,Marianna Berkley,,Huntsman Senior Games,2010,1,02HK1
+VMST,50 M Freestyle,SCM,W,85-89,1:15.63,Miriam K Tuovila,,Virginia Senior Games,2010,2,02J19
+VMST,100 M Freestyle,SCM,W,85-89,2:27.50,Marianna Berkley,,Huntsman Senior Games,2010,1,02HK1
+VMST,100 M Backstroke,SCM,W,85-89,2:37.77,Marianna Berkley,,VMST 30th Annual Fall Swim Meet,2010,1,02HK1
+VMST,50 M Breaststroke,SCM,W,85-89,1:13.80,Miriam K Tuovila,,Virginia Senior Games,2010,1,02J19
+VMST,50 M Breaststroke,SCM,W,85-89,1:16.24,Marianna Berkley,,Huntsman Senior Games,2010,2,02HK1
+VMST,100 M Breaststroke,SCM,W,85-89,2:46.59,Miriam K Tuovila,,Virginia Senior Games,2010,1,02J19
+VMST,100 M Breaststroke,SCM,W,85-89,2:48.41,Marianna Berkley,,VMST 30th Annual Fall Swim Meet,2010,2,02HK1
+VMST,200 M Breaststroke,SCM,W,85-89,6:03.72,Miriam K Tuovila,,Virginia Senior Games,2010,1,02J19
+VMST,200 M Breaststroke,SCM,W,85-89,6:25.23,Marianna Berkley,,Huntsman Senior Games,2010,2,02HK1
+VMST,100 M Individual Medley,SCM,W,85-89,2:46.15,Marianna Berkley,,VMST 30th Annual Fall Swim Meet,2010,1,02HK1
+VMST,100 M Individual Medley,SCM,W,85-89,2:54.12,Miriam K Tuovila,,Virginia Senior Games,2010,2,02J19
+VMST,200 M Individual Medley,SCM,W,85-89,6:31.25,Marianna Berkley,,Virginia Senior Games,2010,1,02HK1
+VMST,100 M Freestyle,SCM,W,95-99,3:51.88,Marie K Kelleher,,Virginia Senior Games,2010,1,02HPV
+VMST,50 M Breaststroke,SCM,W,95-99,2:10.80,Marie K Kelleher,,Virginia Senior Games,2010,1,02HPV
+VMST,50 M Freestyle,SCM,M,25-29,24.87,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,50 M Freestyle,SCM,M,25-29,26.90,Boyd A Orr,,VMST 30th Annual Fall Swim Meet,2010,2,06D5X
+VMST,100 M Freestyle,SCM,M,25-29,53.62,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,100 M Freestyle,SCM,M,25-29,57.51,Adam S Barley,,Rowdy Gaines Masters Classic,2010,2,06CUX
+VMST,100 M Freestyle,SCM,M,25-29,1:00.11,Boyd A Orr,,VMST 30th Annual Fall Swim Meet,2010,3,06D5X
+VMST,200 M Freestyle,SCM,M,25-29,1:55.42,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,400 M Freestyle,SCM,M,25-29,4:09.84,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,400 M Freestyle,SCM,M,25-29,4:20.99,Adam S Barley,,New England Short Course Meters Championship,2010,2,06CUX
+VMST,800 M Freestyle,SCM,M,25-29,8:39.20,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,800 M Freestyle,SCM,M,25-29,9:05.39,Adam S Barley,,VMST 30th Annual Fall Swim Meet,2010,2,06CUX
+VMST,50 M Backstroke,SCM,M,25-29,28.90,Michael R Hipps,,VMST 30th Annual Fall Swim Meet,2010,1,0725C
+VMST,50 M Backstroke,SCM,M,25-29,29.50,Adam S Barley,,New England Short Course Meters Championship,2010,2,06CUX
+VMST,50 M Backstroke,SCM,M,25-29,36.25,Sam F Harris,,VMST 30th Annual Fall Swim Meet,2010,3,05S5V
+VMST,100 M Backstroke,SCM,M,25-29,1:05.24,Adam S Barley,,Rowdy Gaines Masters Classic,2010,1,06CUX
+VMST,100 M Backstroke,SCM,M,25-29,1:06.47,Sam F Harris,,VMST 30th Annual Fall Swim Meet,2010,2,05S5V
+VMST,200 M Backstroke,SCM,M,25-29,2:17.32,Adam S Barley,,New England Short Course Meters Championship,2010,1,06CUX
+VMST,100 M Breaststroke,SCM,M,25-29,1:13.62,Adam S Barley,,Rowdy Gaines Masters Classic,2010,1,06CUX
+VMST,200 M Breaststroke,SCM,M,25-29,2:40.49,Adam S Barley,,VMST 30th Annual Fall Swim Meet,2010,1,06CUX
+VMST,50 M Butterfly,SCM,M,25-29,26.80,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,50 M Butterfly,SCM,M,25-29,27.60,Michael R Hipps,,VMST 30th Annual Fall Swim Meet,2010,2,0725C
+VMST,50 M Butterfly,SCM,M,25-29,32.18,Boyd A Orr,,Rowdy Gaines Masters Classic,2010,3,06D5X
+VMST,100 M Butterfly,SCM,M,25-29,58.71,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,100 M Butterfly,SCM,M,25-29,1:00.51,Adam S Barley,,New England Short Course Meters Championship,2010,2,06CUX
+VMST,100 M Butterfly,SCM,M,25-29,1:01.11,Michael R Hipps,,VMST 30th Annual Fall Swim Meet,2010,3,0725C
+VMST,100 M Butterfly,SCM,M,25-29,1:06.96,Sam F Harris,,VMST 30th Annual Fall Swim Meet,2010,4,05S5V
+VMST,200 M Butterfly,SCM,M,25-29,2:12.04,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,200 M Butterfly,SCM,M,25-29,2:24.76,Adam S Barley,,2010 Albatross Open,2010,2,06CUX
+VMST,100 M Individual Medley,SCM,M,25-29,1:07.02,Sam F Harris,,VMST 30th Annual Fall Swim Meet,2010,1,05S5V
+VMST,200 M Individual Medley,SCM,M,25-29,2:15.39,Billy Gaines,,New England Short Course Meters Championship,2010,1,06F5M
+VMST,200 M Individual Medley,SCM,M,25-29,2:17.12,Adam S Barley,,New England Short Course Meters Championship,2010,2,06CUX
+VMST,400 M Individual Medley,SCM,M,25-29,4:50.55,Adam S Barley,,New England Short Course Meters Championship,2010,1,06CUX
+VMST,50 M Freestyle,SCM,M,30-34,27.74,Christopher S Scharver,,VMST 30th Annual Fall Swim Meet,2010,1,001F1
+VMST,100 M Freestyle,SCM,M,30-34,1:02.22,Christopher S Scharver,,VMST 30th Annual Fall Swim Meet,2010,1,001F1
+VMST,50 M Breaststroke,SCM,M,30-34,34.43,Christopher S Scharver,,VMST 30th Annual Fall Swim Meet,2010,1,001F1
+VMST,100 M Breaststroke,SCM,M,30-34,1:17.78,Christopher S Scharver,,VMST 30th Annual Fall Swim Meet,2010,1,001F1
+VMST,200 M Breaststroke,SCM,M,30-34,2:49.84,Cliff A Parker,,VMST 30th Annual Fall Swim Meet,2010,1,001FK
+VMST,100 M Individual Medley,SCM,M,30-34,1:09.88,Cliff A Parker,,VMST 30th Annual Fall Swim Meet,2010,1,001FK
+VMST,200 M Individual Medley,SCM,M,30-34,2:29.60,Cliff A Parker,,VMST 30th Annual Fall Swim Meet,2010,1,001FK
+VMST,200 M Individual Medley,SCM,M,30-34,2:40.48,Christopher S Scharver,,VMST 30th Annual Fall Swim Meet,2010,2,001F1
+VMST,50 M Freestyle,SCM,M,35-39,24.63,Michael F Picotte,,VMST 30th Annual Fall Swim Meet,2010,1,02CK5
+VMST,100 M Freestyle,SCM,M,35-39,51.52,Michael F Picotte,,VMST 30th Annual Fall Swim Meet,2010,1,02CK5
+VMST,50 M Freestyle,SCM,M,40-44,26.59,Kirk W Clear,,VMST 30th Annual Fall Swim Meet,2010,1,005HN
+VMST,100 M Freestyle,SCM,M,40-44,1:04.85,Dave Holland,,VMST 30th Annual Fall Swim Meet,2010,1,02HWH
+VMST,400 M Freestyle,SCM,M,40-44,4:49.06,Dave Holland,,VMST 30th Annual Fall Swim Meet,2010,1,02HWH
+VMST,400 M Freestyle,SCM,M,40-44,5:24.60,Charles E Cockrell,,VMST 30th Annual Fall Swim Meet,2010,2,02HTW
+VMST,800 M Freestyle,SCM,M,40-44,9:27.50,Dave Holland,,New England Short Course Meters Championship,2010,1,02HWH
+VMST,50 M Backstroke,SCM,M,40-44,31.46,Kirk W Clear,,VMST 30th Annual Fall Swim Meet,2010,1,005HN
+VMST,100 M Backstroke,SCM,M,40-44,1:12.12,Kirk W Clear,,VMST 30th Annual Fall Swim Meet,2010,1,005HN
+VMST,50 M Breaststroke,SCM,M,40-44,37.43,Kirk W Clear,,VMST 30th Annual Fall Swim Meet,2010,1,005HN
+VMST,100 M Breaststroke,SCM,M,40-44,1:18.58,Charles E Cockrell,,VMST 30th Annual Fall Swim Meet,2010,1,02HTW
+VMST,200 M Breaststroke,SCM,M,40-44,2:55.85,Charles E Cockrell,,VMST 30th Annual Fall Swim Meet,2010,1,02HTW
+VMST,50 M Butterfly,SCM,M,40-44,29.24,Kirk W Clear,,2010 Last Minute SCM Meet,2010,1,005HN
+VMST,100 M Butterfly,SCM,M,40-44,1:03.05,Dave Holland,,2010 Albatross Open,2010,1,02HWH
+VMST,200 M Butterfly,SCM,M,40-44,2:20.00,Dave Holland,,2010 Albatross Open,2010,1,02HWH
+VMST,100 M Individual Medley,SCM,M,40-44,1:06.91,Dave Holland,,2010 Albatross Open,2010,1,02HWH
+VMST,200 M Individual Medley,SCM,M,40-44,2:44.91,Charles E Cockrell,,VMST 30th Annual Fall Swim Meet,2010,1,02HTW
+VMST,400 M Individual Medley,SCM,M,40-44,5:03.86,Dave Holland,,New England Short Course Meters Championship,2010,1,02HWH
+VMST,100 M Freestyle,SCM,M,45-49,54.77,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,200 M Freestyle,SCM,M,45-49,2:05.82,Chris L Stevenson,,North Carolina CSM Autumn Masters Meet,2010,1,02J1G
+VMST,400 M Freestyle,SCM,M,45-49,4:22.21,Chris L Stevenson,,North Carolina CSM Autumn Masters Meet,2010,1,02J1G
+VMST,50 M Backstroke,SCM,M,45-49,27.38,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,100 M Backstroke,SCM,M,45-49,58.40,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,200 M Backstroke,SCM,M,45-49,2:07.55,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,50 M Butterfly,SCM,M,45-49,26.50,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,100 M Butterfly,SCM,M,45-49,57.37,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,200 M Butterfly,SCM,M,45-49,2:11.40,Chris L Stevenson,,New England Short Course Meters Championship,2010,1,02J1G
+VMST,100 M Individual Medley,SCM,M,45-49,1:02.18,Chris L Stevenson,,2010 Albatross Open,2010,1,02J1G
+VMST,200 M Individual Medley,SCM,M,45-49,2:15.74,Chris L Stevenson,,2010 Albatross Open,2010,1,02J1G
+VMST,50 M Freestyle,SCM,M,50-54,28.65,William C Throne,,2010 SPMA Short Course Meters Championships,2010,1,01U6F
+VMST,50 M Freestyle,SCM,M,50-54,33.88,Stephen R Bilicki,,VMST 30th Annual Fall Swim Meet,2010,2,06HTR
+VMST,200 M Freestyle,SCM,M,50-54,2:33.63,Mitch Saks,,VMST 30th Annual Fall Swim Meet,2010,1,02K4A
+VMST,200 M Freestyle,SCM,M,50-54,2:55.70,Stephen R Bilicki,,VMST 30th Annual Fall Swim Meet,2010,2,06HTR
+VMST,400 M Freestyle,SCM,M,50-54,5:04.52,Jim McFarland,,VMST 30th Annual Fall Swim Meet,2010,1,02J18
+VMST,400 M Freestyle,SCM,M,50-54,5:20.66,Mitch Saks,,VMST 30th Annual Fall Swim Meet,2010,2,02K4A
+VMST,400 M Freestyle,SCM,M,50-54,6:10.38,Ralph B Swiger,,Virginia Senior Games,2010,3,02HW9
+VMST,800 M Freestyle,SCM,M,50-54,10:29.13,Jim McFarland,,VMST 30th Annual Fall Swim Meet,2010,1,02J18
+VMST,800 M Freestyle,SCM,M,50-54,10:56.11,Mitch Saks,,VMST 30th Annual Fall Swim Meet,2010,2,02K4A
+VMST,1500 M Freestyle,SCM,M,50-54,20:28.02,Jim McFarland,,VMST 30th Annual Fall Swim Meet,2010,1,02J18
+VMST,50 M Backstroke,SCM,M,50-54,43.38,Bryan A Stone,,VMST 30th Annual Fall Swim Meet,2010,1,02J0N
+VMST,50 M Backstroke,SCM,M,50-54,45.58,Ralph B Swiger,,VMST 30th Annual Fall Swim Meet,2010,2,02HW9
+VMST,100 M Backstroke,SCM,M,50-54,1:35.18,Bryan A Stone,,VMST 30th Annual Fall Swim Meet,2010,1,02J0N
+VMST,100 M Backstroke,SCM,M,50-54,1:39.59,Victor H Mickunas,,VMST 30th Annual Fall Swim Meet,2010,2,02HS0
+VMST,200 M Backstroke,SCM,M,50-54,3:22.90,Ralph B Swiger,,2010 Albatross Open,2010,1,02HW9
+VMST,50 M Breaststroke,SCM,M,50-54,48.60,Victor H Mickunas,,VMST 30th Annual Fall Swim Meet,2010,1,02HS0
+VMST,100 M Breaststroke,SCM,M,50-54,1:36.40,Bryan A Stone,,VMST 30th Annual Fall Swim Meet,2010,1,02J0N
+VMST,100 M Breaststroke,SCM,M,50-54,1:42.71,Ralph B Swiger,,Virginia Senior Games,2010,2,02HW9
+VMST,100 M Breaststroke,SCM,M,50-54,1:47.67,Victor H Mickunas,,VMST 30th Annual Fall Swim Meet,2010,3,02HS0
+VMST,200 M Breaststroke,SCM,M,50-54,3:33.28,Ralph B Swiger,,2010 Albatross Open,2010,1,02HW9
+VMST,100 M Butterfly,SCM,M,50-54,1:42.03,Ralph B Swiger,,VMST 30th Annual Fall Swim Meet,2010,1,02HW9
+VMST,200 M Butterfly,SCM,M,50-54,3:00.58,William C Throne,,2010 SPMA Short Course Meters Championships,2010,1,01U6F
+VMST,200 M Butterfly,SCM,M,50-54,3:41.96,Ralph B Swiger,,2010 Albatross Open,2010,2,02HW9
+VMST,100 M Individual Medley,SCM,M,50-54,1:30.62,Stephen R Bilicki,,VMST 30th Annual Fall Swim Meet,2010,1,06HTR
+VMST,100 M Individual Medley,SCM,M,50-54,1:31.03,Bryan A Stone,,VMST 30th Annual Fall Swim Meet,2010,2,02J0N
+VMST,100 M Individual Medley,SCM,M,50-54,1:35.61,Victor H Mickunas,,VMST 30th Annual Fall Swim Meet,2010,3,02HS0
+VMST,200 M Individual Medley,SCM,M,50-54,3:25.19,Bryan A Stone,,VMST 30th Annual Fall Swim Meet,2010,1,02J0N
+VMST,200 M Individual Medley,SCM,M,50-54,3:27.00,Ralph B Swiger,,Virginia Senior Games,2010,2,02HW9
+VMST,400 M Individual Medley,SCM,M,50-54,7:09.36,Ralph B Swiger,,VMST 30th Annual Fall Swim Meet,2010,1,02HW9
+VMST,50 M Freestyle,SCM,M,55-59,33.60,Bill L Nelson,,VMST 30th Annual Fall Swim Meet,2010,1,02JCR
+VMST,100 M Freestyle,SCM,M,55-59,1:18.34,Bill L Nelson,,VMST 30th Annual Fall Swim Meet,2010,1,02JCR
+VMST,200 M Freestyle,SCM,M,55-59,3:03.67,Bill L Nelson,,VMST 30th Annual Fall Swim Meet,2010,1,02JCR
+VMST,200 M Backstroke,SCM,M,55-59,2:58.76,John W McCorkle,,2010 Albatross Open,2010,1,02JS7
+VMST,50 M Breaststroke,SCM,M,55-59,41.67,Clifford N Arnold,,VMST 30th Annual Fall Swim Meet,2010,1,06J90
+VMST,50 M Breaststroke,SCM,M,55-59,47.73,Bill L Nelson,,VMST 30th Annual Fall Swim Meet,2010,2,02JCR
+VMST,100 M Breaststroke,SCM,M,55-59,1:28.53,John W McCorkle,,2010 Albatross Open,2010,1,02JS7
+VMST,100 M Breaststroke,SCM,M,55-59,1:37.23,Clifford N Arnold,,VMST 30th Annual Fall Swim Meet,2010,2,06J90
+VMST,200 M Breaststroke,SCM,M,55-59,3:14.31,John W McCorkle,,2010 Albatross Open,2010,1,02JS7
+VMST,200 M Breaststroke,SCM,M,55-59,3:33.26,Clifford N Arnold,,VMST 30th Annual Fall Swim Meet,2010,2,06J90
+VMST,100 M Butterfly,SCM,M,55-59,1:13.46,John W McCorkle,,2010 Albatross Open,2010,1,02JS7
+VMST,100 M Individual Medley,SCM,M,55-59,1:33.62,Clifford N Arnold,,VMST 30th Annual Fall Swim Meet,2010,1,06J90
+VMST,200 M Individual Medley,SCM,M,55-59,3:50.34,Clifford N Arnold,,VMST 30th Annual Fall Swim Meet,2010,1,06J90
+VMST,50 M Freestyle,SCM,M,60-64,28.34,Scott D Kauffman,,VMST 30th Annual Fall Swim Meet,2010,1,0700N
+VMST,50 M Freestyle,SCM,M,60-64,34.65,Rick H Stringer,,VMST 30th Annual Fall Swim Meet,2010,2,02HXA
+VMST,100 M Freestyle,SCM,M,60-64,1:06.29,Scott D Kauffman,,VMST 30th Annual Fall Swim Meet,2010,1,0700N
+VMST,800 M Freestyle,SCM,M,60-64,16:08.30,Raymond C Funkhouser,,VMST 30th Annual Fall Swim Meet,2010,1,02JW8
+VMST,50 M Backstroke,SCM,M,60-64,36.83,Rick H Stringer,,VMST 30th Annual Fall Swim Meet,2010,1,02HXA
+VMST,50 M Breaststroke,SCM,M,60-64,51.09,Raymond C Funkhouser,,VMST 30th Annual Fall Swim Meet,2010,1,02JW8
+VMST,50 M Butterfly,SCM,M,60-64,31.48,Scott D Kauffman,,VMST 30th Annual Fall Swim Meet,2010,1,0700N
+VMST,50 M Breaststroke,SCM,M,65-69,55.96,Will Grant,,VMST 30th Annual Fall Swim Meet,2010,1,05XX6
+VMST,100 M Breaststroke,SCM,M,65-69,2:11.31,Will Grant,,VMST 30th Annual Fall Swim Meet,2010,1,05XX6
+VMST,200 M Breaststroke,SCM,M,65-69,4:24.03,Richard S Durham,,VMST 30th Annual Fall Swim Meet,2010,1,036PH
+VMST,200 M Breaststroke,SCM,M,65-69,4:52.72,Will Grant,,VMST 30th Annual Fall Swim Meet,2010,2,05XX6
+VMST,50 M Freestyle,SCM,M,75-79,37.41,Owen C Maher,,Virginia Senior Games,2010,1,02HW6
+VMST,50 M Freestyle,SCM,M,75-79,44.90,Alfred C Newbury,,Huntsman Senior Games,2010,2,02HK5
+VMST,100 M Freestyle,SCM,M,75-79,1:32.57,Owen C Maher,,VMST 30th Annual Fall Swim Meet,2010,1,02HW6
+VMST,200 M Freestyle,SCM,M,75-79,3:40.22,Owen C Maher,,Virginia Senior Games,2010,1,02HW6
+VMST,1500 M Freestyle,SCM,M,75-79,36:25.30,Richard A Scott,,VMST 30th Annual Fall Swim Meet,2010,1,02K2C
+VMST,50 M Backstroke,SCM,M,75-79,50.32,Niel L Sween,,Virginia Senior Games,2010,1,036TT
+VMST,50 M Backstroke,SCM,M,75-79,52.76,Richard A Scott,,South Carolina SCM Championships,2010,2,02K2C
+VMST,50 M Backstroke,SCM,M,75-79,54.87,Alfred C Newbury,,VMST 30th Annual Fall Swim Meet,2010,3,02HK5
+VMST,100 M Backstroke,SCM,M,75-79,1:54.06,Niel L Sween,,Virginia Senior Games,2010,1,036TT
+VMST,100 M Backstroke,SCM,M,75-79,1:59.76,Alfred C Newbury,,VMST 30th Annual Fall Swim Meet,2010,2,02HK5
+VMST,200 M Backstroke,SCM,M,75-79,4:16.52,Alfred C Newbury,,VMST 30th Annual Fall Swim Meet,2010,1,02HK5
+VMST,200 M Backstroke,SCM,M,75-79,4:21.37,Niel L Sween,,Virginia Senior Games,2010,2,036TT
+VMST,50 M Breaststroke,SCM,M,75-79,53.11,Richard A Scott,,North Carolina CSM Autumn Masters Meet,2010,1,02K2C
+VMST,50 M Breaststroke,SCM,M,75-79,57.48,Owen C Maher,,VMST 30th Annual Fall Swim Meet,2010,2,02HW6
+VMST,100 M Breaststroke,SCM,M,75-79,2:00.25,Richard A Scott,,South Carolina SCM Championships,2010,1,02K2C
+VMST,200 M Breaststroke,SCM,M,75-79,4:27.56,Richard A Scott,,2010 Last Minute SCM Meet,2010,1,02K2C
+VMST,50 M Butterfly,SCM,M,75-79,46.14,Owen C Maher,,VMST 30th Annual Fall Swim Meet,2010,1,02HW6
+VMST,50 M Butterfly,SCM,M,75-79,1:00.01,Alfred C Newbury,,Huntsman Senior Games,2010,2,02HK5
+VMST,100 M Butterfly,SCM,M,75-79,2:04.33,Owen C Maher,,Virginia Senior Games,2010,1,02HW6
+VMST,100 M Butterfly,SCM,M,75-79,2:19.50,Alfred C Newbury,,Virginia Senior Games,2010,2,02HK5
+VMST,100 M Butterfly,SCM,M,75-79,2:49.35,Richard A Scott,,Virginia Senior Games,2010,3,02K2C
+VMST,200 M Butterfly,SCM,M,75-79,5:27.28,Richard A Scott,,VMST 30th Annual Fall Swim Meet,2010,1,02K2C
+VMST,100 M Individual Medley,SCM,M,75-79,1:51.28,Owen C Maher,,Virginia Senior Games,2010,1,02HW6
+VMST,200 M Individual Medley,SCM,M,75-79,4:14.75,Richard A Scott,,2010 Last Minute SCM Meet,2010,1,02K2C
+VMST,400 M Individual Medley,SCM,M,75-79,9:38.42,Richard A Scott,,South Carolina SCM Championships,2010,1,02K2C
+VMST,200 M Freestyle,SCM,M,85-89,4:20.19,Calvin W Barnes,,VMST 30th Annual Fall Swim Meet,2010,1,02HPZ
+VMST,1500 M Freestyle,SCM,M,85-89,34:54.07,Calvin W Barnes,,VMST 30th Annual Fall Swim Meet,2010,1,02HPZ
+VMST,100 M Backstroke,SCM,M,85-89,2:12.42,Calvin W Barnes,,VMST 30th Annual Fall Swim Meet,2010,1,02HPZ
+VMST,200 M Backstroke,SCM,M,85-89,4:33.11,Calvin W Barnes,,VMST 30th Annual Fall Swim Meet,2010,1,02HPZ
