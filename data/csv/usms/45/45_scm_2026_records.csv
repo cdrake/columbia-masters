@@ -1,65 +1,76 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-DYNA,200 M Freestyle,SCM,W,18-24,3:21.69,Katherine L Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1
-DYNA,400 M Freestyle,SCM,W,18-24,7:19.69,Katherine L Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1
-DYNA,50 M Butterfly,SCM,W,18-24,52.37,Katherine L Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1
-DYNA,200 M Freestyle,SCM,M,60-64,2:34.10,Igor V Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1
-DYNA,50 M Butterfly,SCM,M,60-64,32.92,Igor V Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1
-DYNA,200 M Butterfly,SCM,M,60-64,2:59.78,Igor V Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Freestyle,SCM,W,35-39,1:00.58,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Freestyle,SCM,W,35-39,2:15.55,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Backstroke,SCM,W,35-39,32.21,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Backstroke,SCM,W,35-39,2:32.16,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Butterfly,SCM,W,35-39,29.50,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Butterfly,SCM,W,35-39,1:06.90,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Individual Medley,SCM,W,35-39,1:09.32,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Individual Medley,SCM,W,35-39,2:37.18,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Freestyle,SCM,W,40-44,2:14.36,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1
-GAJA,200 M Freestyle,SCM,W,40-44,2:20.90,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,2
-GAJA,400 M Freestyle,SCM,W,40-44,4:50.14,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,800 M Freestyle,SCM,W,40-44,9:55.49,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,1500 M Freestyle,SCM,W,40-44,19:31.40,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Breaststroke,SCM,W,40-44,1:15.56,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1
-GAJA,200 M Breaststroke,SCM,W,40-44,2:45.26,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1
-GAJA,200 M Butterfly,SCM,W,40-44,2:31.39,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Individual Medley,SCM,W,40-44,1:07.46,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1
-GAJA,200 M Individual Medley,SCM,W,40-44,2:29.39,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1
-GAJA,400 M Individual Medley,SCM,W,40-44,5:37.50,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Freestyle,SCM,W,70-74,31.31,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,100 M Freestyle,SCM,W,70-74,1:09.10,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,50 M Backstroke,SCM,W,70-74,36.43,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,200 M Backstroke,SCM,W,70-74,3:02.81,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,50 M Butterfly,SCM,W,70-74,34.49,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,100 M Butterfly,SCM,W,70-74,1:21.53,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,200 M Butterfly,SCM,W,70-74,3:10.72,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,100 M Individual Medley,SCM,W,70-74,1:20.28,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,200 M Individual Medley,SCM,W,70-74,3:04.88,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1
-GAJA,800 M Freestyle,SCM,M,60-64,10:13.01,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Backstroke,SCM,M,60-64,31.77,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Backstroke,SCM,M,60-64,1:10.16,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Backstroke,SCM,M,60-64,2:32.68,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Butterfly,SCM,M,60-64,1:07.77,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Individual Medley,SCM,M,60-64,1:09.78,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Individual Medley,SCM,M,60-64,2:30.66,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Backstroke,SCM,M,70-74,40.39,David Carver,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Backstroke,SCM,M,70-74,44.20,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,2
-GAJA,100 M Backstroke,SCM,M,70-74,1:33.35,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,50 M Breaststroke,SCM,M,70-74,43.91,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Breaststroke,SCM,M,70-74,1:39.82,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,200 M Breaststroke,SCM,M,70-74,3:40.56,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Individual Medley,SCM,M,70-74,1:29.33,David Carver,,Rowdy Gaines Masters Classic 17,2026,1
-GAJA,100 M Individual Medley,SCM,M,70-74,1:30.83,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,2
-NAUT,400 M Freestyle,SCM,M,25-29,4:46.06,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,50 M Backstroke,SCM,M,25-29,35.98,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,50 M Breaststroke,SCM,M,25-29,35.07,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,100 M Breaststroke,SCM,M,25-29,1:13.98,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,200 M Breaststroke,SCM,M,25-29,2:49.01,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,50 M Butterfly,SCM,M,25-29,29.73,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,100 M Butterfly,SCM,M,25-29,1:06.24,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,200 M Butterfly,SCM,M,25-29,2:37.57,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,200 M Individual Medley,SCM,M,25-29,2:32.91,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-NAUT,400 M Individual Medley,SCM,M,25-29,5:28.09,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1
-SAVMS,100 M Freestyle,SCM,W,70-74,1:43.47,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1
-SAVMS,100 M Backstroke,SCM,W,70-74,2:40.84,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1
-SAVMS,100 M Breaststroke,SCM,W,70-74,2:23.58,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1
-SAVMS,100 M Butterfly,SCM,W,70-74,2:31.98,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1
-SAVMS,200 M Individual Medley,SCM,W,70-74,4:50.27,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+DYNA,200 M Freestyle,SCM,W,18-24,3:21.69,Katherine L Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1,AAU3C
+DYNA,400 M Freestyle,SCM,W,18-24,7:19.69,Katherine L Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1,AAU3C
+DYNA,50 M Butterfly,SCM,W,18-24,52.37,Katherine L Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1,AAU3C
+DYNA,200 M Freestyle,SCM,M,60-64,2:34.10,Igor V Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1,02DCU
+DYNA,50 M Butterfly,SCM,M,60-64,32.92,Igor V Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1,02DCU
+DYNA,200 M Butterfly,SCM,M,60-64,2:59.78,Igor V Vazhenin,,Rowdy Gaines Masters Classic 17,2026,1,02DCU
+GAJA,100 M Freestyle,SCM,W,35-39,58.77,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,200 M Freestyle,SCM,W,35-39,2:15.55,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1,06U3E
+GAJA,50 M Backstroke,SCM,W,35-39,31.09,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,100 M Backstroke,SCM,W,35-39,1:07.47,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,200 M Backstroke,SCM,W,35-39,2:32.16,Caroline M Johnson,,Rowdy Gaines Masters Classic 17,2026,1,06U3E
+GAJA,50 M Butterfly,SCM,W,35-39,28.73,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,100 M Butterfly,SCM,W,35-39,1:04.44,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,100 M Individual Medley,SCM,W,35-39,1:08.63,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,200 M Individual Medley,SCM,W,35-39,2:27.59,Caroline M Johnson,,Masters Fall SCM Record Breaker Meet,2026,1,06U3E
+GAJA,200 M Freestyle,SCM,W,40-44,2:14.36,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1,07B6S
+GAJA,200 M Freestyle,SCM,W,40-44,2:20.90,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,2,9HND5
+GAJA,400 M Freestyle,SCM,W,40-44,4:50.14,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1,9HND5
+GAJA,800 M Freestyle,SCM,W,40-44,9:55.49,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1,9HND5
+GAJA,1500 M Freestyle,SCM,W,40-44,19:31.40,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1,9HND5
+GAJA,100 M Breaststroke,SCM,W,40-44,1:15.56,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1,07B6S
+GAJA,200 M Breaststroke,SCM,W,40-44,2:45.26,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1,07B6S
+GAJA,200 M Butterfly,SCM,W,40-44,2:31.39,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1,9HND5
+GAJA,100 M Individual Medley,SCM,W,40-44,1:07.46,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1,07B6S
+GAJA,200 M Individual Medley,SCM,W,40-44,2:29.39,Britta O'Leary,,Nacional Master de Pileta corta 2026,2026,1,07B6S
+GAJA,400 M Individual Medley,SCM,W,40-44,5:37.50,Vesna S Shelnutt,,Rowdy Gaines Masters Classic 17,2026,1,9HND5
+GAJA,200 M Backstroke,SCM,W,45-49,2:36.22,Irish Holland,,Masters Fall SCM Record Breaker Meet,2026,1,0B0MF
+GAJA,100 M Butterfly,SCM,W,45-49,1:09.92,Irish Holland,,Masters Fall SCM Record Breaker Meet,2026,1,0B0MF
+GAJA,400 M Individual Medley,SCM,W,45-49,7:19.63,Irish Holland,,Masters Fall SCM Record Breaker Meet,2026,1,0B0MF
+GAJA,50 M Freestyle,SCM,W,70-74,30.88,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,100 M Freestyle,SCM,W,70-74,1:09.10,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1,005PU
+GAJA,50 M Backstroke,SCM,W,70-74,36.43,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1,005PU
+GAJA,100 M Backstroke,SCM,W,70-74,1:23.72,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,200 M Backstroke,SCM,W,70-74,3:02.81,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1,005PU
+GAJA,50 M Breaststroke,SCM,W,70-74,48.35,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,100 M Breaststroke,SCM,W,70-74,1:45.59,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,200 M Breaststroke,SCM,W,70-74,3:48.37,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,50 M Butterfly,SCM,W,70-74,33.75,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,100 M Butterfly,SCM,W,70-74,1:20.98,Penny P Noyes,,Masters Fall SCM Record Breaker Meet,2026,1,005PU
+GAJA,200 M Butterfly,SCM,W,70-74,3:10.72,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1,005PU
+GAJA,100 M Individual Medley,SCM,W,70-74,1:20.28,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1,005PU
+GAJA,200 M Individual Medley,SCM,W,70-74,3:04.88,Penny P Noyes,,2026 Huntsman World Senior Games,2026,1,005PU
+GAJA,100 M Freestyle,SCM,M,45-49,59.89,Matthew J Mills,,Masters Fall SCM Record Breaker Meet,2026,1,00262
+GAJA,50 M Backstroke,SCM,M,45-49,33.72,Matthew J Mills,,Masters Fall SCM Record Breaker Meet,2026,1,00262
+GAJA,50 M Butterfly,SCM,M,45-49,29.62,Matthew J Mills,,Masters Fall SCM Record Breaker Meet,2026,1,00262
+GAJA,800 M Freestyle,SCM,M,60-64,10:13.01,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,50 M Backstroke,SCM,M,60-64,31.77,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,100 M Backstroke,SCM,M,60-64,1:10.16,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,200 M Backstroke,SCM,M,60-64,2:32.68,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,100 M Butterfly,SCM,M,60-64,1:07.77,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,100 M Individual Medley,SCM,M,60-64,1:09.78,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,200 M Individual Medley,SCM,M,60-64,2:30.66,Dan C Beatty,,Rowdy Gaines Masters Classic 17,2026,1,02D7H
+GAJA,50 M Backstroke,SCM,M,70-74,40.39,David Carver,,Rowdy Gaines Masters Classic 17,2026,1,06NGZ
+GAJA,50 M Backstroke,SCM,M,70-74,44.20,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,2,CYXR0
+GAJA,100 M Backstroke,SCM,M,70-74,1:33.35,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1,CYXR0
+GAJA,50 M Breaststroke,SCM,M,70-74,43.91,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1,CYXR0
+GAJA,100 M Breaststroke,SCM,M,70-74,1:39.82,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1,CYXR0
+GAJA,200 M Breaststroke,SCM,M,70-74,3:40.56,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,1,CYXR0
+GAJA,100 M Individual Medley,SCM,M,70-74,1:29.33,David Carver,,Rowdy Gaines Masters Classic 17,2026,1,06NGZ
+GAJA,100 M Individual Medley,SCM,M,70-74,1:30.83,Drew Schilling,,Rowdy Gaines Masters Classic 17,2026,2,CYXR0
+NAUT,400 M Freestyle,SCM,M,25-29,4:46.06,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,50 M Backstroke,SCM,M,25-29,35.98,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,50 M Breaststroke,SCM,M,25-29,35.07,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,100 M Breaststroke,SCM,M,25-29,1:13.98,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,200 M Breaststroke,SCM,M,25-29,2:49.01,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,50 M Butterfly,SCM,M,25-29,29.73,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,100 M Butterfly,SCM,M,25-29,1:06.24,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,200 M Butterfly,SCM,M,25-29,2:37.57,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,200 M Individual Medley,SCM,M,25-29,2:32.91,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+NAUT,400 M Individual Medley,SCM,M,25-29,5:28.09,Daniel A Wondaferew,,Rowdy Gaines Masters Classic 17,2026,1,0BB47
+SAVMS,100 M Freestyle,SCM,W,70-74,1:43.47,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1,06ZZA
+SAVMS,100 M Backstroke,SCM,W,70-74,2:40.84,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1,06ZZA
+SAVMS,100 M Breaststroke,SCM,W,70-74,2:23.58,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1,06ZZA
+SAVMS,100 M Butterfly,SCM,W,70-74,2:31.98,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1,06ZZA
+SAVMS,200 M Individual Medley,SCM,W,70-74,4:50.27,Theresa M Strazzella,,Rowdy Gaines Masters Classic 17,2026,1,06ZZA
