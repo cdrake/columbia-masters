@@ -28,6 +28,10 @@ on:
         description: "First year for a new crawl"
         type: number
         default: 2000
+      end_year:
+        description: "Last year for a new crawl (blank = current year)"
+        type: string
+        default: ""
       budget:
         description: "Override this run's request budget (blank = computed)"
         type: string
@@ -67,6 +71,7 @@ jobs:
           DAYS: ${{ inputs.days }}
           LMSC: ${{ inputs.lmsc }}
           START_YEAR: ${{ inputs.start_year }}
+          END_YEAR: ${{ inputs.end_year }}
           BUDGET: ${{ inputs.budget }}
         run: |
           args=(--max-minutes 320 --debug-html)
@@ -74,6 +79,7 @@ jobs:
           [ -n "$DAYS" ] && args+=(--days "$DAYS")
           [ -n "$LMSC" ] && args+=(--lmsc "$LMSC")
           [ -n "$START_YEAR" ] && args+=(--start-year "$START_YEAR")
+          [ -n "$END_YEAR" ] && args+=(--end-year "$END_YEAR")
           [ -n "$BUDGET" ] && args+=(--budget "$BUDGET")
           python -m usms_scraper.cli crawl "${args[@]}"
 
