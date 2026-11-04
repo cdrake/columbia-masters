@@ -1,17 +1,17 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-PALM,50 Y Freestyle,SCY,W,30-34,28.27,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1
-PALM,50 Y Backstroke,SCY,W,30-34,34.76,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1
-PALM,100 Y Backstroke,SCY,W,30-34,1:08.91,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1
-PALM,50 Y Butterfly,SCY,W,30-34,30.72,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1
-HHAC,50 Y Freestyle,SCY,W,35-39,25.33,Lynnette M Hennessey,,2002 USMS Short Course Nationals,2002,1
-HHAC,200 Y Freestyle,SCY,W,35-39,1:57.95,Lynnette M Hennessey,,2002 USMS Short Course Nationals,2002,1
-HHAC,1650 Y Freestyle,SCY,W,35-39,18:37.40,Lynnette M Hennessey,,2002 USMS Short Course Nationals,2002,1
-PALM,50 Y Freestyle,SCY,M,30-34,22.33,Steve W Robling,,2002 USMS Short Course Nationals,2002,1
-PALM,100 Y Freestyle,SCY,M,30-34,49.46,Steve W Robling,,2002 USMS Short Course Nationals,2002,1
-PALM,200 Y Freestyle,SCY,M,30-34,1:52.09,Steve W Robling,,2002 USMS Short Course Nationals,2002,1
-PALM,50 Y Butterfly,SCY,M,30-34,24.99,Steve W Robling,,2002 USMS Short Course Nationals,2002,1
-PALM,100 Y Individual Medley,SCY,M,30-34,58.15,Steve W Robling,,2002 USMS Short Course Nationals,2002,1
-PALM,400 Y Individual Medley,SCY,M,30-34,4:41.98,Steve W Robling,,2002 USMS Short Course Nationals,2002,1
-PALM,50 Y Freestyle,SCY,M,35-39,27.82,J Gray Soapes,,2002 USMS Short Course Nationals,2002,1
-PIMM,50 Y Freestyle,SCY,M,50-54,26.50,James W Mozley,,2002 USMS Short Course Nationals,2002,1
-PIMM,50 Y Butterfly,SCY,M,50-54,28.63,James W Mozley,,2002 USMS Short Course Nationals,2002,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+PALM,50 Y Freestyle,SCY,W,30-34,28.27,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1,00269
+PALM,50 Y Backstroke,SCY,W,30-34,34.76,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1,00269
+PALM,100 Y Backstroke,SCY,W,30-34,1:08.91,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1,00269
+PALM,50 Y Butterfly,SCY,W,30-34,30.72,Sarah P Soapes,,2002 USMS Short Course Nationals,2002,1,00269
+HHAC,50 Y Freestyle,SCY,W,35-39,25.33,Lynnette M Hennessey,,2002 USMS Short Course Nationals,2002,1,00173
+HHAC,200 Y Freestyle,SCY,W,35-39,1:57.95,Lynnette M Hennessey,,2002 USMS Short Course Nationals,2002,1,00173
+HHAC,1650 Y Freestyle,SCY,W,35-39,18:37.40,Lynnette M Hennessey,,2002 USMS Short Course Nationals,2002,1,00173
+PALM,50 Y Freestyle,SCY,M,30-34,22.33,Steve W Robling,,2002 USMS Short Course Nationals,2002,1,00110
+PALM,100 Y Freestyle,SCY,M,30-34,49.46,Steve W Robling,,2002 USMS Short Course Nationals,2002,1,00110
+PALM,200 Y Freestyle,SCY,M,30-34,1:52.09,Steve W Robling,,2002 USMS Short Course Nationals,2002,1,00110
+PALM,50 Y Butterfly,SCY,M,30-34,24.99,Steve W Robling,,2002 USMS Short Course Nationals,2002,1,00110
+PALM,100 Y Individual Medley,SCY,M,30-34,58.15,Steve W Robling,,2002 USMS Short Course Nationals,2002,1,00110
+PALM,400 Y Individual Medley,SCY,M,30-34,4:41.98,Steve W Robling,,2002 USMS Short Course Nationals,2002,1,00110
+PALM,50 Y Freestyle,SCY,M,35-39,27.82,J Gray Soapes,,2002 USMS Short Course Nationals,2002,1,00267
+PIMM,50 Y Freestyle,SCY,M,50-54,26.50,James W Mozley,,2002 USMS Short Course Nationals,2002,1,00057
+PIMM,50 Y Butterfly,SCY,M,50-54,28.63,James W Mozley,,2002 USMS Short Course Nationals,2002,1,00057
