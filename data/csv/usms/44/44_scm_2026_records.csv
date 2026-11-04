@@ -1,12 +1,40 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-OCSMC,50 M Freestyle,SCM,M,65-69,31.08,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-OCSMC,100 M Freestyle,SCM,M,65-69,1:09.04,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-OCSMC,200 M Freestyle,SCM,M,65-69,2:37.53,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-OCSMC,100 M Individual Medley,SCM,M,65-69,1:21.93,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-SDSM,50 M Backstroke,SCM,W,40-44,43.23,Yuko Iwamoto,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-SDSM,100 M Individual Medley,SCM,W,40-44,1:29.24,Yuko Iwamoto,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-SOWS,50 M Freestyle,SCM,M,55-59,33.57,Stephen Treger,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-SOWS,100 M Freestyle,SCM,M,55-59,1:14.41,Stephen Treger,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-SOWS,200 M Freestyle,SCM,M,55-59,2:46.23,Stephen Treger,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1
-UC44,50 M Freestyle,SCM,M,70-74,36.26,Bud Bertsch,,2026 Huntsman World Senior Games,2026,1
-UC44,1500 M Freestyle,SCM,M,70-74,28:55.55,Bud Bertsch,,2026 Huntsman World Senior Games,2026,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+HSAM,50 M Freestyle,SCM,W,25-29,28.36,Anna K Stahlak,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,SS902
+HSAM,100 M Freestyle,SCM,W,25-29,1:01.72,Anna K Stahlak,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,SS902
+HSAM,200 M Freestyle,SCM,W,25-29,2:15.25,Anna K Stahlak,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,SS902
+HSAM,100 M Individual Medley,SCM,W,25-29,1:10.99,Anna K Stahlak,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,SS902
+HSAM,400 M Freestyle,SCM,M,30-34,4:43.69,Anhton T Tran,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,MYCFP
+HSAM,100 M Breaststroke,SCM,M,30-34,1:18.90,Anhton T Tran,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,MYCFP
+HSAM,50 M Butterfly,SCM,M,30-34,30.29,Anhton T Tran,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,MYCFP
+HSAM,200 M Individual Medley,SCM,M,30-34,2:29.28,Anhton T Tran,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,MYCFP
+OCSMC,50 M Freestyle,SCM,M,65-69,31.08,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,06GBC
+OCSMC,100 M Freestyle,SCM,M,65-69,1:09.04,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,06GBC
+OCSMC,200 M Freestyle,SCM,M,65-69,2:37.53,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,06GBC
+OCSMC,100 M Individual Medley,SCM,M,65-69,1:21.93,Mark Frederickson,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,06GBC
+SDSM,50 M Backstroke,SCM,W,40-44,43.23,Yuko Iwamoto,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,03T7H
+SDSM,100 M Individual Medley,SCM,W,40-44,1:29.24,Yuko Iwamoto,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,03T7H
+SDSM,100 M Freestyle,SCM,W,65-69,1:38.73,Marieke Thayer,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,07H8P
+SDSM,400 M Freestyle,SCM,W,65-69,6:44.76,Cathy V Neville,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02CGR
+SDSM,50 M Butterfly,SCM,W,65-69,53.74,Marieke Thayer,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,07H8P
+SDSM,100 M Butterfly,SCM,W,65-69,1:53.99,Cathy V Neville,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02CGR
+SDSM,200 M Butterfly,SCM,W,65-69,4:13.96,Cathy V Neville,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02CGR
+SDSM,100 M Individual Medley,SCM,W,65-69,1:58.08,Marieke Thayer,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,07H8P
+SDSM,400 M Individual Medley,SCM,W,65-69,8:26.46,Cathy V Neville,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02CGR
+SDSM,50 M Freestyle,SCM,W,70-74,41.45,Jill M King,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,07EXC
+SDSM,50 M Backstroke,SCM,W,70-74,43.56,Andra Jaunzeme,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02KKF
+SDSM,50 M Backstroke,SCM,W,70-74,49.15,Jill M King,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,2,07EXC
+SDSM,100 M Backstroke,SCM,W,70-74,1:32.31,Andra Jaunzeme,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02KKF
+SDSM,50 M Breaststroke,SCM,W,70-74,48.36,Andra Jaunzeme,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02KKF
+SDSM,100 M Breaststroke,SCM,W,70-74,1:45.78,Andra Jaunzeme,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,02KKF
+SDSM,200 M Freestyle,SCM,M,90-94,6:22.30,Tom Mitchell,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,03AGV
+SDSM,50 M Breaststroke,SCM,M,90-94,1:28.63,Tom Mitchell,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,03AGV
+SDSM,100 M Breaststroke,SCM,M,90-94,3:12.68,Tom Mitchell,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,03AGV
+SDSM,200 M Breaststroke,SCM,M,90-94,6:45.06,Tom Mitchell,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,03AGV
+SOWS,50 M Freestyle,SCM,M,55-59,33.57,Stephen Treger,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,8VPES
+SOWS,100 M Freestyle,SCM,M,55-59,1:14.41,Stephen Treger,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,8VPES
+SOWS,200 M Freestyle,SCM,M,55-59,2:46.23,Stephen Treger,,Fabulous Las Vegas Masters Short Course Meters Meet,2026,1,8VPES
+UC44,50 M Freestyle,SCM,W,50-54,34.58,Diane Imperial,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,3H45R
+UC44,100 M Backstroke,SCM,W,50-54,1:27.04,Diane Imperial,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,3H45R
+UC44,200 M Backstroke,SCM,W,50-54,3:08.52,Diane Imperial,,2026 Mission Viejo Nadadores Masters SCM Meet,2026,1,3H45R
+UC44,50 M Freestyle,SCM,M,70-74,36.26,Bud Bertsch,,2026 Huntsman World Senior Games,2026,1,W68KJ
+UC44,1500 M Freestyle,SCM,M,70-74,28:55.55,Bud Bertsch,,2026 Huntsman World Senior Games,2026,1,W68KJ
