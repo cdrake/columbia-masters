@@ -1,0 +1,500 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+ACAM,50 M Freestyle,SCM,W,70-74,1:20.45,Katherine Moore,,Virginia Senior Games,2008,1,05H7E
+ACAM,100 M Freestyle,SCM,W,70-74,3:01.96,Katherine Moore,,Virginia Senior Games,2008,1,05H7E
+ACAM,50 M Backstroke,SCM,W,70-74,1:22.03,Katherine Moore,,Virginia Senior Games,2008,1,05H7E
+ACAM,100 M Backstroke,SCM,W,70-74,2:52.20,Katherine Moore,,Virginia Senior Games,2008,1,05H7E
+BRYM,100 M Freestyle,SCM,M,25-29,1:29.18,Colin R Hardy,,VMST 28th Annual Fall Swim Meet,2008,1,06138
+BRYM,200 M Freestyle,SCM,M,25-29,3:26.81,Colin R Hardy,,VMST 28th Annual Fall Swim Meet,2008,1,06138
+BRYM,400 M Freestyle,SCM,M,25-29,8:17.41,Colin R Hardy,,VMST 28th Annual Fall Swim Meet,2008,1,06138
+BRYM,100 M Breaststroke,SCM,M,25-29,2:07.72,Colin R Hardy,,VMST 28th Annual Fall Swim Meet,2008,1,06138
+BRYM,200 M Breaststroke,SCM,M,25-29,4:57.88,Colin R Hardy,,VMST 28th Annual Fall Swim Meet,2008,1,06138
+SMAM,50 M Freestyle,SCM,W,55-59,34.72,Shirley A Loftus-Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HKM
+SMAM,400 M Freestyle,SCM,W,55-59,5:31.14,Shirley A Loftus-Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HKM
+SMAM,800 M Freestyle,SCM,W,55-59,11:07.14,Shirley A Loftus-Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HKM
+SMAM,50 M Butterfly,SCM,W,55-59,38.93,Shirley A Loftus-Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HKM
+SMAM,100 M Individual Medley,SCM,W,55-59,1:27.95,Shirley A Loftus-Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HKM
+SMAM,200 M Individual Medley,SCM,W,55-59,3:01.89,Shirley A Loftus-Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HKM
+SMAM,50 M Freestyle,SCM,M,25-29,30.37,Craig R Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HRA
+SMAM,200 M Freestyle,SCM,M,25-29,2:26.50,Craig R Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HRA
+SMAM,800 M Freestyle,SCM,M,25-29,10:54.33,Craig R Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HRA
+SMAM,100 M Backstroke,SCM,M,25-29,1:15.98,Craig R Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HRA
+SMAM,200 M Backstroke,SCM,M,25-29,2:45.79,Craig R Charley,,VMST 28th Annual Fall Swim Meet,2008,1,02HRA
+SPST,100 M Freestyle,SCM,M,25-29,1:03.71,Nathaniel A Baker,,VMST 28th Annual Fall Swim Meet,2008,1,061B7
+SPST,50 M Breaststroke,SCM,M,25-29,36.19,Nathaniel A Baker,,VMST 28th Annual Fall Swim Meet,2008,1,061B7
+SPST,100 M Breaststroke,SCM,M,25-29,1:21.41,Nathaniel A Baker,,VMST 28th Annual Fall Swim Meet,2008,1,061B7
+SPST,50 M Butterfly,SCM,M,25-29,30.88,Nathaniel A Baker,,VMST 28th Annual Fall Swim Meet,2008,1,061B7
+SQST,100 M Freestyle,SCM,W,40-44,1:11.50,Dee A Hunter,,2008 Albatross Open,2008,1,02K3F
+SQST,50 M Backstroke,SCM,W,40-44,38.34,Dee A Hunter,,2008 Albatross Open,2008,1,02K3F
+SQST,100 M Backstroke,SCM,W,40-44,1:22.35,Dee A Hunter,,2008 Albatross Open,2008,1,02K3F
+SQST,100 M Freestyle,SCM,W,50-54,1:08.72,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,400 M Freestyle,SCM,W,50-54,5:25.41,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,800 M Freestyle,SCM,W,50-54,11:00.66,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,1500 M Freestyle,SCM,W,50-54,20:55.76,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,100 M Breaststroke,SCM,W,50-54,1:28.12,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,100 M Individual Medley,SCM,W,50-54,1:18.67,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,200 M Individual Medley,SCM,W,50-54,2:51.66,Lisa A Bennett,,VMST 28th Annual Fall Swim Meet,2008,1,02HZJ
+SQST,50 M Backstroke,SCM,W,60-64,48.40,Pam D Dameron,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ2
+SQST,50 M Breaststroke,SCM,W,60-64,49.25,Pam D Dameron,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ2
+SQST,100 M Breaststroke,SCM,W,60-64,1:48.02,Pam D Dameron,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ2
+SQST,200 M Breaststroke,SCM,W,60-64,3:52.10,Pam D Dameron,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ2
+UNAT,100 M Backstroke,SCM,W,18-24,1:18.78,Jenna N Leach,,VMST 28th Annual Fall Swim Meet,2008,1,060Z6
+UNAT,50 M Breaststroke,SCM,W,18-24,32.67,Erla D Haraldsdottir,,VMST 28th Annual Fall Swim Meet,2008,1,061BD
+UNAT,100 M Breaststroke,SCM,W,18-24,1:23.44,Amy C Charley,,VMST 28th Annual Fall Swim Meet,2008,1,061BG
+UNAT,100 M Butterfly,SCM,W,18-24,1:15.81,Jenna N Leach,,VMST 28th Annual Fall Swim Meet,2008,1,060Z6
+UNAT,100 M Individual Medley,SCM,W,18-24,1:03.84,Erla D Haraldsdottir,,VMST 28th Annual Fall Swim Meet,2008,1,061BD
+UNAT,100 M Individual Medley,SCM,W,18-24,1:16.52,Jenna N Leach,,VMST 28th Annual Fall Swim Meet,2008,2,060Z6
+UNAT,200 M Individual Medley,SCM,W,18-24,2:37.79,Amy C Charley,,VMST 28th Annual Fall Swim Meet,2008,1,061BG
+UNAT,200 M Individual Medley,SCM,W,18-24,2:46.88,Jenna N Leach,,VMST 28th Annual Fall Swim Meet,2008,2,060Z6
+UNAT,400 M Individual Medley,SCM,W,18-24,6:22.99,Jenna N Leach,,VMST 28th Annual Fall Swim Meet,2008,1,060Z6
+UNAT,50 M Butterfly,SCM,W,25-29,33.18,Emily R Robbins,,VMST 28th Annual Fall Swim Meet,2008,1,05FX4
+UNAT,100 M Butterfly,SCM,W,25-29,1:27.25,Emily R Robbins,,VMST 28th Annual Fall Swim Meet,2008,1,05FX4
+UNAT,200 M Butterfly,SCM,W,25-29,2:55.14,Emily R Robbins,,VMST 28th Annual Fall Swim Meet,2008,1,05FX4
+UNAT,50 M Freestyle,SCM,W,30-34,43.45,Shana D Garland,,VMST 28th Annual Fall Swim Meet,2008,1,02K1R
+UNAT,50 M Freestyle,SCM,W,30-34,56.50,Wai Angel Ling,,Colonies Zone SCM Championships,2008,2,05X80
+UNAT,100 M Freestyle,SCM,W,30-34,1:23.28,Wai Angel Ling,,Colonies Zone SCM Championships,2008,1,05X80
+UNAT,100 M Freestyle,SCM,W,30-34,1:36.66,Shana D Garland,,VMST 28th Annual Fall Swim Meet,2008,2,02K1R
+UNAT,800 M Freestyle,SCM,W,30-34,16:09.04,Shana D Garland,,VMST 28th Annual Fall Swim Meet,2008,1,02K1R
+UNAT,50 M Breaststroke,SCM,W,30-34,1:03.46,Wai Angel Ling,,Colonies Zone SCM Championships,2008,1,05X80
+UNAT,100 M Breaststroke,SCM,W,30-34,2:20.99,Wai Angel Ling,,Colonies Zone SCM Championships,2008,1,05X80
+UNAT,1500 M Freestyle,SCM,W,35-39,22:39.35,Barbara A Streater,,VMST 28th Annual Fall Swim Meet,2008,1,05ZD4
+UNAT,50 M Backstroke,SCM,W,35-39,40.54,Barbara A Streater,,VMST 28th Annual Fall Swim Meet,2008,1,05ZD4
+UNAT,200 M Breaststroke,SCM,W,35-39,3:21.40,Barbara A Streater,,VMST 28th Annual Fall Swim Meet,2008,1,05ZD4
+UNAT,50 M Butterfly,SCM,W,35-39,34.43,Amy Conard,,VMST 28th Annual Fall Swim Meet,2008,1,02JX5
+UNAT,100 M Butterfly,SCM,W,35-39,1:16.15,Amy Conard,,VMST 28th Annual Fall Swim Meet,2008,1,02JX5
+UNAT,200 M Butterfly,SCM,W,35-39,2:54.27,Amy Conard,,VMST 28th Annual Fall Swim Meet,2008,1,02JX5
+UNAT,200 M Individual Medley,SCM,W,35-39,2:58.02,Amy Conard,,VMST 28th Annual Fall Swim Meet,2008,1,02JX5
+UNAT,200 M Individual Medley,SCM,W,35-39,3:02.28,Barbara A Streater,,VMST 28th Annual Fall Swim Meet,2008,2,05ZD4
+UNAT,100 M Freestyle,SCM,W,45-49,1:17.16,Melissa S Smith,,Virginia Senior Games,2008,1,02JSY
+UNAT,200 M Freestyle,SCM,W,45-49,2:50.53,Melissa S Smith,,Virginia Senior Games,2008,1,02JSY
+UNAT,400 M Freestyle,SCM,W,45-49,6:02.87,Melissa S Smith,,Virginia Senior Games,2008,1,02JSY
+UNAT,50 M Breaststroke,SCM,W,45-49,45.13,Melissa S Smith,,Virginia Senior Games,2008,1,02JSY
+UNAT,100 M Breaststroke,SCM,W,45-49,1:38.46,Melissa S Smith,,Virginia Senior Games,2008,1,02JSY
+UNAT,100 M Individual Medley,SCM,W,45-49,1:26.88,Melissa S Smith,,Virginia Senior Games,2008,1,02JSY
+UNAT,50 M Freestyle,SCM,M,18-24,23.79,Arni M Arnason,,VMST 28th Annual Fall Swim Meet,2008,1,061BC
+UNAT,50 M Freestyle,SCM,M,25-29,25.69,David J Pyle,,VMST 28th Annual Fall Swim Meet,2008,1,05XUG
+UNAT,50 M Freestyle,SCM,M,25-29,26.87,Jack A Evelyn Jr,,VMST 28th Annual Fall Swim Meet,2008,2,060XJ
+UNAT,100 M Freestyle,SCM,M,25-29,1:01.03,Jack A Evelyn Jr,,VMST 28th Annual Fall Swim Meet,2008,1,060XJ
+UNAT,100 M Freestyle,SCM,M,25-29,1:11.65,Brian F Myers,,VMST 28th Annual Fall Swim Meet,2008,2,061B9
+UNAT,200 M Freestyle,SCM,M,25-29,2:18.56,Jack A Evelyn Jr,,VMST 28th Annual Fall Swim Meet,2008,1,060XJ
+UNAT,800 M Freestyle,SCM,M,25-29,10:35.48,Jack A Evelyn Jr,,VMST 28th Annual Fall Swim Meet,2008,1,060XJ
+UNAT,1500 M Freestyle,SCM,M,25-29,19:50.39,Michael W Robbins,,VMST 28th Annual Fall Swim Meet,2008,1,02JWH
+UNAT,100 M Backstroke,SCM,M,25-29,1:18.86,Brian F Myers,,VMST 28th Annual Fall Swim Meet,2008,1,061B9
+UNAT,100 M Individual Medley,SCM,M,25-29,1:19.09,Brian F Myers,,VMST 28th Annual Fall Swim Meet,2008,1,061B9
+UNAT,50 M Freestyle,SCM,M,30-34,27.30,Jason G Welch,,VMST 28th Annual Fall Swim Meet,2008,1,061BA
+UNAT,100 M Freestyle,SCM,M,30-34,1:04.07,Jason G Welch,,Virginia Senior Games,2008,1,061BA
+UNAT,800 M Freestyle,SCM,M,30-34,10:49.13,Jose-Luis Gallagher,,VMST 28th Annual Fall Swim Meet,2008,1,04TDN
+UNAT,1500 M Freestyle,SCM,M,30-34,19:58.77,Jose-Luis Gallagher,,VMST 28th Annual Fall Swim Meet,2008,1,04TDN
+UNAT,100 M Backstroke,SCM,M,30-34,1:05.13,Jose-Luis Gallagher,,VMST 28th Annual Fall Swim Meet,2008,1,04TDN
+UNAT,200 M Backstroke,SCM,M,30-34,2:27.59,Jose-Luis Gallagher,,VMST 28th Annual Fall Swim Meet,2008,1,04TDN
+UNAT,50 M Breaststroke,SCM,M,30-34,35.47,Jason G Welch,,VMST 28th Annual Fall Swim Meet,2008,1,061BA
+UNAT,100 M Breaststroke,SCM,M,30-34,1:21.29,Jason G Welch,,Virginia Senior Games,2008,1,061BA
+UNAT,50 M Butterfly,SCM,M,30-34,31.02,Jason G Welch,,VMST 28th Annual Fall Swim Meet,2008,1,061BA
+UNAT,100 M Individual Medley,SCM,M,30-34,1:12.24,Jason G Welch,,VMST 28th Annual Fall Swim Meet,2008,1,061BA
+UNAT,400 M Individual Medley,SCM,M,30-34,5:22.48,Jose-Luis Gallagher,,VMST 28th Annual Fall Swim Meet,2008,1,04TDN
+UNAT,50 M Freestyle,SCM,M,35-39,28.31,Ted Lynch,,VMST 28th Annual Fall Swim Meet,2008,1,061B8
+UNAT,100 M Freestyle,SCM,M,35-39,1:07.69,David D Dafashy,,VMST 28th Annual Fall Swim Meet,2008,1,060AA
+UNAT,50 M Breaststroke,SCM,M,35-39,36.59,David D Dafashy,,VMST 28th Annual Fall Swim Meet,2008,1,060AA
+UNAT,50 M Butterfly,SCM,M,35-39,31.33,Ted Lynch,,VMST 28th Annual Fall Swim Meet,2008,1,061B8
+UNAT,100 M Individual Medley,SCM,M,35-39,1:12.80,Ted Lynch,,VMST 28th Annual Fall Swim Meet,2008,1,061B8
+UNAT,100 M Individual Medley,SCM,M,35-39,1:13.50,David D Dafashy,,VMST 28th Annual Fall Swim Meet,2008,2,060AA
+UNAT,50 M Freestyle,SCM,M,40-44,26.78,Mark C Downey,,VMST 28th Annual Fall Swim Meet,2008,1,02JJ6
+UNAT,50 M Breaststroke,SCM,M,40-44,35.92,Mark C Downey,,VMST 28th Annual Fall Swim Meet,2008,1,02JJ6
+UNAT,50 M Butterfly,SCM,M,40-44,30.84,Mark C Downey,,VMST 28th Annual Fall Swim Meet,2008,1,02JJ6
+UNAT,100 M Individual Medley,SCM,M,40-44,1:08.48,Mark C Downey,,VMST 28th Annual Fall Swim Meet,2008,1,02JJ6
+UNAT,100 M Freestyle,SCM,M,45-49,1:06.08,Joey Stickle,,Virginia Senior Games,2008,1,02JCK
+UNAT,200 M Freestyle,SCM,M,45-49,2:24.45,Joey Stickle,,Virginia Senior Games,2008,1,02JCK
+UNAT,400 M Freestyle,SCM,M,45-49,5:16.17,Joey Stickle,,Virginia Senior Games,2008,1,02JCK
+UNAT,100 M Breaststroke,SCM,M,45-49,1:24.32,Joey Stickle,,Virginia Senior Games,2008,1,02JCK
+UNAT,200 M Breaststroke,SCM,M,45-49,2:59.76,Joey Stickle,,VMST 28th Annual Fall Swim Meet,2008,1,02JCK
+UNAT,100 M Individual Medley,SCM,M,45-49,1:17.56,Joey Stickle,,Virginia Senior Games,2008,1,02JCK
+UNAT,50 M Freestyle,SCM,M,50-54,31.83,Ken Dixon,,VMST 28th Annual Fall Swim Meet,2008,1,05TW5
+UNAT,100 M Freestyle,SCM,M,50-54,1:14.14,Ken Dixon,,VMST 28th Annual Fall Swim Meet,2008,1,05TW5
+UNAT,100 M Freestyle,SCM,M,50-54,1:17.88,Paul J Anderson,,VMST 28th Annual Fall Swim Meet,2008,2,02JP0
+UNAT,1500 M Freestyle,SCM,M,50-54,21:25.51,William C Throne,,VMST 28th Annual Fall Swim Meet,2008,1,01U6F
+UNAT,50 M Breaststroke,SCM,M,50-54,42.25,Ken Dixon,,VMST 28th Annual Fall Swim Meet,2008,1,05TW5
+UNAT,100 M Breaststroke,SCM,M,50-54,1:36.50,Ken Dixon,,VMST 28th Annual Fall Swim Meet,2008,1,05TW5
+UNAT,100 M Breaststroke,SCM,M,50-54,1:40.15,Paul J Anderson,,VMST 28th Annual Fall Swim Meet,2008,2,02JP0
+UNAT,100 M Individual Medley,SCM,M,50-54,1:33.84,Paul J Anderson,,VMST 28th Annual Fall Swim Meet,2008,1,02JP0
+UNAT,200 M Individual Medley,SCM,M,50-54,3:25.24,Paul J Anderson,,VMST 28th Annual Fall Swim Meet,2008,1,02JP0
+UNAT,1500 M Freestyle,SCM,M,55-59,31:20.76,Michael S Crowe,,VMST 28th Annual Fall Swim Meet,2008,1,0369M
+UNAT,50 M Breaststroke,SCM,M,55-59,1:01.78,Michael S Crowe,,VMST 28th Annual Fall Swim Meet,2008,1,0369M
+UNAT,100 M Breaststroke,SCM,M,55-59,2:25.93,Michael S Crowe,,VMST 28th Annual Fall Swim Meet,2008,1,0369M
+UNAT,50 M Butterfly,SCM,M,55-59,1:13.96,Michael S Crowe,,VMST 28th Annual Fall Swim Meet,2008,1,0369M
+UNAT,100 M Individual Medley,SCM,M,55-59,2:22.95,Michael S Crowe,,VMST 28th Annual Fall Swim Meet,2008,1,0369M
+UNAT,50 M Freestyle,SCM,M,60-64,34.80,Eric T Johnson,,Virginia Senior Games,2008,1,02JJX
+UNAT,100 M Freestyle,SCM,M,60-64,1:24.35,Eric T Johnson,,Virginia Senior Games,2008,1,02JJX
+UNAT,200 M Freestyle,SCM,M,60-64,4:07.64,Skip Ferebee,,VMST 28th Annual Fall Swim Meet,2008,1,02JXV
+UNAT,400 M Freestyle,SCM,M,60-64,8:50.27,Skip Ferebee,,Virginia Senior Games,2008,1,02JXV
+VMST,200 M Backstroke,SCM,W,18-24,2:50.97,Kristin E Stiff,,VMST 28th Annual Fall Swim Meet,2008,1,02K8S
+VMST,50 M Butterfly,SCM,W,18-24,33.81,Kristin E Stiff,,VMST 28th Annual Fall Swim Meet,2008,1,02K8S
+VMST,100 M Freestyle,SCM,W,25-29,1:18.48,Robin N Blakney,,VMST 28th Annual Fall Swim Meet,2008,1,05XRM
+VMST,200 M Freestyle,SCM,W,25-29,2:52.74,Robin N Blakney,,VMST 28th Annual Fall Swim Meet,2008,1,05XRM
+VMST,50 M Backstroke,SCM,W,25-29,46.55,Allison M Czapracki,,Colonies Zone SCM Championships,2008,1,038X1
+VMST,50 M Breaststroke,SCM,W,25-29,47.52,Allison M Czapracki,,Colonies Zone SCM Championships,2008,1,038X1
+VMST,100 M Breaststroke,SCM,W,25-29,1:36.12,Robin N Blakney,,VMST 28th Annual Fall Swim Meet,2008,1,05XRM
+VMST,100 M Breaststroke,SCM,W,25-29,1:40.74,Allison M Czapracki,,Colonies Zone SCM Championships,2008,2,038X1
+VMST,100 M Individual Medley,SCM,W,25-29,1:38.38,Allison M Czapracki,,Colonies Zone SCM Championships,2008,1,038X1
+VMST,200 M Individual Medley,SCM,W,25-29,3:12.60,Robin N Blakney,,VMST 28th Annual Fall Swim Meet,2008,1,05XRM
+VMST,50 M Backstroke,SCM,W,30-34,41.34,Caroline Sturgeon,,VMST 28th Annual Fall Swim Meet,2008,1,061BF
+VMST,100 M Backstroke,SCM,W,30-34,1:28.18,Caroline Sturgeon,,VMST 28th Annual Fall Swim Meet,2008,1,061BF
+VMST,200 M Backstroke,SCM,W,30-34,3:04.51,Caroline Sturgeon,,VMST 28th Annual Fall Swim Meet,2008,1,061BF
+VMST,50 M Freestyle,SCM,W,35-39,34.86,Jennifer A Spencer,,South Carolina SCM Championship,2008,1,006AF
+VMST,100 M Freestyle,SCM,W,35-39,1:14.64,Alison S Meehan,,Colonies Zone SCM Championships,2008,1,042GM
+VMST,400 M Freestyle,SCM,W,35-39,6:41.05,Andrea T Latell,,VMST 28th Annual Fall Swim Meet,2008,1,05ZTV
+VMST,800 M Freestyle,SCM,W,35-39,13:42.00,Andrea T Latell,,VMST 28th Annual Fall Swim Meet,2008,1,05ZTV
+VMST,1500 M Freestyle,SCM,W,35-39,26:24.95,Andrea T Latell,,VMST 28th Annual Fall Swim Meet,2008,1,05ZTV
+VMST,50 M Backstroke,SCM,W,35-39,41.51,Jennifer A Spencer,,South Carolina SCM Championship,2008,1,006AF
+VMST,50 M Breaststroke,SCM,W,35-39,39.34,Alison S Meehan,,Colonies Zone SCM Championships,2008,1,042GM
+VMST,50 M Breaststroke,SCM,W,35-39,46.39,Andrea T Latell,,VMST 28th Annual Fall Swim Meet,2008,2,05ZTV
+VMST,100 M Breaststroke,SCM,W,35-39,1:26.43,Alison S Meehan,,Colonies Zone SCM Championships,2008,1,042GM
+VMST,200 M Breaststroke,SCM,W,35-39,3:06.62,Alison S Meehan,,Colonies Zone SCM Championships,2008,1,042GM
+VMST,50 M Butterfly,SCM,W,35-39,44.27,Andrea T Latell,,VMST 28th Annual Fall Swim Meet,2008,1,05ZTV
+VMST,100 M Individual Medley,SCM,W,35-39,1:22.88,Alison S Meehan,,Colonies Zone SCM Championships,2008,1,042GM
+VMST,200 M Individual Medley,SCM,W,35-39,3:22.29,Jennifer A Spencer,,South Carolina SCM Championship,2008,1,006AF
+VMST,50 M Freestyle,SCM,W,40-44,32.23,Donna M Armento,,2008 Albatross Open,2008,1,02K8U
+VMST,50 M Freestyle,SCM,W,40-44,55.37,Sue Iseman,,VMST 28th Annual Fall Swim Meet,2008,2,061HK
+VMST,100 M Freestyle,SCM,W,40-44,1:13.69,Donna M Armento,,2008 Albatross Open,2008,1,02K8U
+VMST,200 M Freestyle,SCM,W,40-44,2:20.70,Alice W Phillips,,2008 Albatross Open,2008,1,02J2Z
+VMST,200 M Freestyle,SCM,W,40-44,4:04.86,Vanda Kennedy,,Virginia Senior Games,2008,2,05EW4
+VMST,400 M Freestyle,SCM,W,40-44,6:47.35,Susan P McKerns,,VMST 28th Annual Fall Swim Meet,2008,1,02JJV
+VMST,400 M Freestyle,SCM,W,40-44,8:37.35,Vanda Kennedy,,Virginia Senior Games,2008,2,05EW4
+VMST,800 M Freestyle,SCM,W,40-44,13:41.84,Susan P McKerns,,VMST 28th Annual Fall Swim Meet,2008,1,02JJV
+VMST,800 M Freestyle,SCM,W,40-44,17:45.11,Vanda Kennedy,,VMST 28th Annual Fall Swim Meet,2008,2,05EW4
+VMST,1500 M Freestyle,SCM,W,40-44,27:13.13,Susan P McKerns,,VMST 28th Annual Fall Swim Meet,2008,1,02JJV
+VMST,100 M Backstroke,SCM,W,40-44,1:32.85,Donna M Armento,,2008 Albatross Open,2008,1,02K8U
+VMST,100 M Individual Medley,SCM,W,40-44,1:31.84,Donna M Armento,,2008 Albatross Open,2008,1,02K8U
+VMST,200 M Individual Medley,SCM,W,40-44,2:40.73,Alice W Phillips,,2008 Albatross Open,2008,1,02J2Z
+VMST,50 M Freestyle,SCM,W,45-49,37.79,Betsy L Goode,,VMST 28th Annual Fall Swim Meet,2008,1,02K6W
+VMST,50 M Freestyle,SCM,W,45-49,38.29,Carol E Downing,,VMST 28th Annual Fall Swim Meet,2008,2,02HZR
+VMST,100 M Freestyle,SCM,W,45-49,1:12.18,Debbie K Jaeger,,2008 Albatross Open,2008,1,02HUT
+VMST,100 M Freestyle,SCM,W,45-49,1:15.09,Patricia M Miller,,2008 Albatross Open,2008,2,02HJ0
+VMST,100 M Freestyle,SCM,W,45-49,1:26.03,Betsy L Goode,,VMST 28th Annual Fall Swim Meet,2008,3,02K6W
+VMST,100 M Freestyle,SCM,W,45-49,1:27.47,Carol E Downing,,VMST 28th Annual Fall Swim Meet,2008,4,02HZR
+VMST,200 M Freestyle,SCM,W,45-49,3:14.09,Carol E Downing,,VMST 28th Annual Fall Swim Meet,2008,1,02HZR
+VMST,400 M Freestyle,SCM,W,45-49,6:39.04,Betsy L Goode,,VMST 28th Annual Fall Swim Meet,2008,1,02K6W
+VMST,1500 M Freestyle,SCM,W,45-49,26:52.73,Beth Frackleton,,VMST 28th Annual Fall Swim Meet,2008,1,05XV6
+VMST,50 M Backstroke,SCM,W,45-49,38.74,Debbie K Jaeger,,2008 Albatross Open,2008,1,02HUT
+VMST,100 M Backstroke,SCM,W,45-49,1:25.10,Debbie K Jaeger,,2008 Albatross Open,2008,1,02HUT
+VMST,50 M Breaststroke,SCM,W,45-49,39.84,Patricia M Miller,,2008 Albatross Open,2008,1,02HJ0
+VMST,50 M Breaststroke,SCM,W,45-49,42.78,Nancy Speer,,VMST 28th Annual Fall Swim Meet,2008,2,05XR8
+VMST,50 M Breaststroke,SCM,W,45-49,47.06,Betsy L Goode,,VMST 28th Annual Fall Swim Meet,2008,3,02K6W
+VMST,50 M Breaststroke,SCM,W,45-49,47.09,Carol E Downing,,VMST 28th Annual Fall Swim Meet,2008,4,02HZR
+VMST,100 M Breaststroke,SCM,W,45-49,1:37.24,Nancy Speer,,VMST 28th Annual Fall Swim Meet,2008,1,05XR8
+VMST,200 M Breaststroke,SCM,W,45-49,3:07.53,Patricia M Miller,,2008 Albatross Open,2008,1,02HJ0
+VMST,50 M Butterfly,SCM,W,45-49,45.97,Beth Frackleton,,VMST 28th Annual Fall Swim Meet,2008,1,05XV6
+VMST,100 M Individual Medley,SCM,W,45-49,1:30.55,Nancy Speer,,VMST 28th Annual Fall Swim Meet,2008,1,05XR8
+VMST,50 M Freestyle,SCM,W,55-59,38.61,Cheryl E Benn,,Virginia Senior Games,2008,1,05ETS
+VMST,100 M Freestyle,SCM,W,55-59,1:32.87,Cheryl E Benn,,VMST 28th Annual Fall Swim Meet,2008,1,05ETS
+VMST,200 M Freestyle,SCM,W,55-59,3:37.50,Cheryl E Benn,,VMST 28th Annual Fall Swim Meet,2008,1,05ETS
+VMST,400 M Freestyle,SCM,W,55-59,6:24.99,Barbara E Boslego,,Virginia Senior Games,2008,1,02HV9
+VMST,800 M Freestyle,SCM,W,55-59,13:18.93,Barbara E Boslego,,VMST 28th Annual Fall Swim Meet,2008,1,02HV9
+VMST,50 M Backstroke,SCM,W,55-59,47.79,Barbara E Boslego,,Virginia Senior Games,2008,1,02HV9
+VMST,200 M Backstroke,SCM,W,55-59,3:31.21,Barbara E Boslego,,Virginia Senior Games,2008,1,02HV9
+VMST,50 M Breaststroke,SCM,W,55-59,45.73,Barbara E Boslego,,Virginia Senior Games,2008,1,02HV9
+VMST,50 M Breaststroke,SCM,W,55-59,56.13,Cheryl E Benn,,Virginia Senior Games,2008,2,05ETS
+VMST,200 M Breaststroke,SCM,W,55-59,3:42.56,Barbara E Boslego,,Virginia Senior Games,2008,1,02HV9
+VMST,100 M Individual Medley,SCM,W,55-59,2:05.38,Cheryl E Benn,,Virginia Senior Games,2008,1,05ETS
+VMST,50 M Freestyle,SCM,W,60-64,52.86,Katherine F Hall,,Virginia Senior Games,2008,1,02K5Y
+VMST,100 M Freestyle,SCM,W,60-64,2:00.28,Katherine F Hall,,Virginia Senior Games,2008,1,02K5Y
+VMST,200 M Freestyle,SCM,W,60-64,2:45.51,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,400 M Freestyle,SCM,W,60-64,5:59.74,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,800 M Freestyle,SCM,W,60-64,12:05.74,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,1500 M Freestyle,SCM,W,60-64,22:51.13,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,50 M Backstroke,SCM,W,60-64,41.77,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,50 M Backstroke,SCM,W,60-64,58.77,Betsy C Chambers,,Maryland Ann Johnsen Memorial Summer Swim Series #1 at Big Vanila,2008,2,01V6R
+VMST,100 M Backstroke,SCM,W,60-64,1:31.61,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,100 M Backstroke,SCM,W,60-64,1:45.67,Kathryn S Gregory,,VMST 28th Annual Fall Swim Meet,2008,2,02HM0
+VMST,200 M Backstroke,SCM,W,60-64,3:15.00,Marcia L Barry,,VMST 28th Annual Fall Swim Meet,2008,1,027G9
+VMST,200 M Backstroke,SCM,W,60-64,3:51.46,Kathryn S Gregory,,VMST 28th Annual Fall Swim Meet,2008,2,02HM0
+VMST,200 M Backstroke,SCM,W,60-64,4:34.94,Betsy C Chambers,,Maryland Ann Johnsen Memorial Summer Swim Series #1 at Big Vanila,2008,3,01V6R
+VMST,50 M Breaststroke,SCM,W,60-64,58.58,Katherine F Hall,,Virginia Senior Games,2008,1,02K5Y
+VMST,100 M Breaststroke,SCM,W,60-64,1:59.58,Kathryn S Gregory,,VMST 28th Annual Fall Swim Meet,2008,1,02HM0
+VMST,100 M Breaststroke,SCM,W,60-64,2:15.11,Betsy C Chambers,,Maryland Ann Johnsen Memorial Summer Swim Series #1 at Big Vanila,2008,2,01V6R
+VMST,100 M Breaststroke,SCM,W,60-64,2:25.45,Katherine F Hall,,Virginia Senior Games,2008,3,02K5Y
+VMST,100 M Individual Medley,SCM,W,60-64,1:47.89,Kathryn S Gregory,,VMST 28th Annual Fall Swim Meet,2008,1,02HM0
+VMST,200 M Individual Medley,SCM,W,60-64,3:49.96,Kathryn S Gregory,,Maryland Ann Johnsen Memorial Summer Swim Series #1 at Big Vanila,2008,1,02HM0
+VMST,50 M Freestyle,SCM,W,65-69,35.22,Beth Schreiner,,Virginia Senior Games,2008,1,0367J
+VMST,50 M Freestyle,SCM,W,65-69,40.28,Betsy Durrant,,Virginia Senior Games,2008,2,02HSG
+VMST,50 M Freestyle,SCM,W,65-69,41.41,Ida M Hlavacek,,VMST 28th Annual Fall Swim Meet,2008,3,0366E
+VMST,100 M Freestyle,SCM,W,65-69,1:21.95,Beth Schreiner,,Virginia Senior Games,2008,1,0367J
+VMST,100 M Freestyle,SCM,W,65-69,1:29.36,Betsy Durrant,,Virginia Senior Games,2008,2,02HSG
+VMST,100 M Freestyle,SCM,W,65-69,1:36.51,Ida M Hlavacek,,VMST 28th Annual Fall Swim Meet,2008,3,0366E
+VMST,200 M Freestyle,SCM,W,65-69,3:03.08,Beth Schreiner,,Virginia Senior Games,2008,1,0367J
+VMST,200 M Freestyle,SCM,W,65-69,3:20.03,Betsy Durrant,,Colonies Zone SCM Championships,2008,2,02HSG
+VMST,200 M Freestyle,SCM,W,65-69,3:22.40,Ida M Hlavacek,,VMST 28th Annual Fall Swim Meet,2008,3,0366E
+VMST,400 M Freestyle,SCM,W,65-69,6:31.77,Beth Schreiner,,Virginia Senior Games,2008,1,0367J
+VMST,400 M Freestyle,SCM,W,65-69,7:05.30,Betsy Durrant,,VMST 28th Annual Fall Swim Meet,2008,2,02HSG
+VMST,400 M Freestyle,SCM,W,65-69,7:14.31,Ida M Hlavacek,,VMST 28th Annual Fall Swim Meet,2008,3,0366E
+VMST,400 M Freestyle,SCM,W,65-69,7:20.57,Judy Martin,,Virginia Senior Games,2008,4,02HKE
+VMST,800 M Freestyle,SCM,W,65-69,14:25.35,Betsy Durrant,,VMST 28th Annual Fall Swim Meet,2008,1,02HSG
+VMST,1500 M Freestyle,SCM,W,65-69,27:23.53,Betsy Durrant,,VMST 28th Annual Fall Swim Meet,2008,1,02HSG
+VMST,50 M Backstroke,SCM,W,65-69,44.60,Beth Schreiner,,Virginia Senior Games,2008,1,0367J
+VMST,50 M Backstroke,SCM,W,65-69,47.05,Betsy Durrant,,Colonies Zone SCM Championships,2008,2,02HSG
+VMST,50 M Backstroke,SCM,W,65-69,49.58,Judy Martin,,Virginia Senior Games,2008,3,02HKE
+VMST,100 M Backstroke,SCM,W,65-69,1:44.74,Judy Martin,,Virginia Senior Games,2008,1,02HKE
+VMST,100 M Backstroke,SCM,W,65-69,1:45.92,Betsy Durrant,,Colonies Zone SCM Championships,2008,2,02HSG
+VMST,200 M Backstroke,SCM,W,65-69,3:45.62,Judy Martin,,Virginia Senior Games,2008,1,02HKE
+VMST,200 M Backstroke,SCM,W,65-69,3:48.76,Betsy Durrant,,Colonies Zone SCM Championships,2008,2,02HSG
+VMST,50 M Breaststroke,SCM,W,65-69,50.94,Betsy Durrant,,Colonies Zone SCM Championships,2008,1,02HSG
+VMST,50 M Breaststroke,SCM,W,65-69,52.33,Judy Martin,,Virginia Senior Games,2008,2,02HKE
+VMST,100 M Breaststroke,SCM,W,65-69,1:52.08,Betsy Durrant,,Colonies Zone SCM Championships,2008,1,02HSG
+VMST,100 M Breaststroke,SCM,W,65-69,1:59.53,Judy Martin,,Colonies Zone SCM Championships,2008,2,02HKE
+VMST,100 M Breaststroke,SCM,W,65-69,2:02.14,Susan E Marens,,VMST 28th Annual Fall Swim Meet,2008,3,02HSX
+VMST,200 M Breaststroke,SCM,W,65-69,4:10.63,Betsy Durrant,,Colonies Zone SCM Championships,2008,1,02HSG
+VMST,200 M Breaststroke,SCM,W,65-69,4:20.31,Susan E Marens,,VMST 28th Annual Fall Swim Meet,2008,2,02HSX
+VMST,200 M Breaststroke,SCM,W,65-69,4:30.24,Judy Martin,,Colonies Zone SCM Championships,2008,3,02HKE
+VMST,50 M Butterfly,SCM,W,65-69,51.75,Betsy Durrant,,Virginia Senior Games,2008,1,02HSG
+VMST,100 M Butterfly,SCM,W,65-69,2:03.96,Susan E Marens,,VMST 28th Annual Fall Swim Meet,2008,1,02HSX
+VMST,100 M Individual Medley,SCM,W,65-69,1:45.12,Betsy Durrant,,Virginia Senior Games,2008,1,02HSG
+VMST,100 M Individual Medley,SCM,W,65-69,1:52.81,Susan E Marens,,VMST 28th Annual Fall Swim Meet,2008,2,02HSX
+VMST,200 M Individual Medley,SCM,W,65-69,4:08.61,Susan E Marens,,VMST 28th Annual Fall Swim Meet,2008,1,02HSX
+VMST,50 M Freestyle,SCM,W,70-74,38.22,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,50 M Freestyle,SCM,W,70-74,41.23,Laura S Walker,,Colonies Zone SCM Championships,2008,2,02HK3
+VMST,50 M Freestyle,SCM,W,70-74,42.73,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,3,036BX
+VMST,100 M Freestyle,SCM,W,70-74,1:29.20,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,100 M Freestyle,SCM,W,70-74,1:33.19,Laura S Walker,,Colonies Zone SCM Championships,2008,2,02HK3
+VMST,100 M Freestyle,SCM,W,70-74,1:40.55,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,3,036BX
+VMST,100 M Freestyle,SCM,W,70-74,1:56.70,Kathleen M Broderick,,2008 Albatross Open,2008,4,02J0W
+VMST,200 M Freestyle,SCM,W,70-74,3:22.03,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,200 M Freestyle,SCM,W,70-74,3:31.50,Laura S Walker,,Colonies Zone SCM Championships,2008,2,02HK3
+VMST,800 M Freestyle,SCM,W,70-74,16:44.60,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,1,036BX
+VMST,50 M Backstroke,SCM,W,70-74,52.69,Laura S Walker,,Virginia Senior Games,2008,1,02HK3
+VMST,50 M Backstroke,SCM,W,70-74,53.19,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,2,036BX
+VMST,50 M Backstroke,SCM,W,70-74,1:05.25,Kathleen M Broderick,,2008 Albatross Open,2008,3,02J0W
+VMST,100 M Backstroke,SCM,W,70-74,1:51.11,Laura S Walker,,VMST 28th Annual Fall Swim Meet,2008,1,02HK3
+VMST,100 M Backstroke,SCM,W,70-74,2:03.51,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,2,036BX
+VMST,200 M Backstroke,SCM,W,70-74,3:58.74,Laura S Walker,,Virginia Senior Games,2008,1,02HK3
+VMST,200 M Backstroke,SCM,W,70-74,4:35.44,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,2,036BX
+VMST,50 M Breaststroke,SCM,W,70-74,53.40,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,50 M Breaststroke,SCM,W,70-74,58.19,Laura S Walker,,Colonies Zone SCM Championships,2008,2,02HK3
+VMST,100 M Breaststroke,SCM,W,70-74,1:56.88,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,100 M Breaststroke,SCM,W,70-74,2:15.12,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,2,036BX
+VMST,200 M Breaststroke,SCM,W,70-74,4:16.00,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,200 M Breaststroke,SCM,W,70-74,5:07.57,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,2,036BX
+VMST,50 M Butterfly,SCM,W,70-74,56.63,Laura S Walker,,Colonies Zone SCM Championships,2008,1,02HK3
+VMST,50 M Butterfly,SCM,W,70-74,1:11.32,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,2,036BX
+VMST,100 M Individual Medley,SCM,W,70-74,1:49.12,Johnnie Detrick,,VMST 28th Annual Fall Swim Meet,2008,1,02HME
+VMST,100 M Individual Medley,SCM,W,70-74,1:51.46,Laura S Walker,,Colonies Zone SCM Championships,2008,2,02HK3
+VMST,100 M Individual Medley,SCM,W,70-74,2:00.98,Barbara M Zaremski,,2008 Mizzou Masters SCM Meet,2008,3,036BX
+VMST,100 M Individual Medley,SCM,W,70-74,2:33.76,Kathleen M Broderick,,2008 Albatross Open,2008,4,02J0W
+VMST,200 M Individual Medley,SCM,W,70-74,3:59.32,Johnnie Detrick,,Virginia Senior Games,2008,1,02HME
+VMST,50 M Freestyle,SCM,W,75-79,1:02.68,Susan A Henley,,Virginia Senior Games,2008,1,02HXP
+VMST,100 M Freestyle,SCM,W,75-79,2:20.27,Susan A Henley,,Virginia Senior Games,2008,1,02HXP
+VMST,200 M Freestyle,SCM,W,75-79,4:58.33,Susan A Henley,,Virginia Senior Games,2008,1,02HXP
+VMST,50 M Backstroke,SCM,W,75-79,1:09.29,Susan A Henley,,Virginia Senior Games,2008,1,02HXP
+VMST,100 M Backstroke,SCM,W,75-79,2:28.06,Susan A Henley,,Virginia Senior Games,2008,1,02HXP
+VMST,200 M Backstroke,SCM,W,75-79,5:22.96,Susan A Henley,,Virginia Senior Games,2008,1,02HXP
+VMST,50 M Freestyle,SCM,W,80-84,55.79,Terry Sokolik,,Virginia Senior Games,2008,1,02HND
+VMST,50 M Freestyle,SCM,W,80-84,56.21,Jeanne H Meredith,,Virginia Senior Games,2008,2,02HT9
+VMST,50 M Freestyle,SCM,W,80-84,1:14.49,Miriam K Tuovila,,Virginia Senior Games,2008,3,02J19
+VMST,100 M Freestyle,SCM,W,80-84,2:04.89,Jeanne H Meredith,,Virginia Senior Games,2008,1,02HT9
+VMST,100 M Freestyle,SCM,W,80-84,2:11.52,Terry Sokolik,,Virginia Senior Games,2008,2,02HND
+VMST,200 M Freestyle,SCM,W,80-84,4:28.66,Jeanne H Meredith,,Virginia Senior Games,2008,1,02HT9
+VMST,200 M Freestyle,SCM,W,80-84,4:39.26,Terry Sokolik,,Virginia Senior Games,2008,2,02HND
+VMST,400 M Freestyle,SCM,W,80-84,9:16.38,Jeanne H Meredith,,Virginia Senior Games,2008,1,02HT9
+VMST,400 M Freestyle,SCM,W,80-84,9:38.92,Terry Sokolik,,Virginia Senior Games,2008,2,02HND
+VMST,50 M Backstroke,SCM,W,80-84,1:21.77,Miriam K Tuovila,,Virginia Senior Games,2008,1,02J19
+VMST,100 M Backstroke,SCM,W,80-84,2:48.08,Jeanne H Meredith,,Virginia Senior Games,2008,1,02HT9
+VMST,200 M Backstroke,SCM,W,80-84,5:41.24,Jeanne H Meredith,,Virginia Senior Games,2008,1,02HT9
+VMST,50 M Breaststroke,SCM,W,80-84,1:14.21,Miriam K Tuovila,,Virginia Senior Games,2008,1,02J19
+VMST,50 M Breaststroke,SCM,W,80-84,1:20.47,Terry Sokolik,,Virginia Senior Games,2008,2,02HND
+VMST,100 M Breaststroke,SCM,W,80-84,2:33.72,Miriam K Tuovila,,Virginia Senior Games,2008,1,02J19
+VMST,200 M Breaststroke,SCM,W,80-84,5:53.89,Miriam K Tuovila,,Virginia Senior Games,2008,1,02J19
+VMST,50 M Butterfly,SCM,W,80-84,1:11.97,Terry Sokolik,,Virginia Senior Games,2008,1,02HND
+VMST,100 M Individual Medley,SCM,W,80-84,2:34.11,Terry Sokolik,,Virginia Senior Games,2008,1,02HND
+VMST,100 M Individual Medley,SCM,W,80-84,2:42.73,Miriam K Tuovila,,Virginia Senior Games,2008,2,02J19
+VMST,50 M Freestyle,SCM,W,85-89,1:00.45,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,200 M Backstroke,SCM,W,85-89,5:26.36,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,50 M Breaststroke,SCM,W,85-89,1:12.16,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,100 M Breaststroke,SCM,W,85-89,2:51.96,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,200 M Breaststroke,SCM,W,85-89,5:47.33,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,100 M Individual Medley,SCM,W,85-89,2:31.14,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,200 M Individual Medley,SCM,W,85-89,5:53.44,Marianna Berkley,,Virginia Senior Games,2008,1,02HK1
+VMST,100 M Freestyle,SCM,W,95-99,3:10.36,Marie K Kelleher,,Virginia Senior Games,2008,1,02HPV
+VMST,200 M Freestyle,SCM,W,95-99,6:50.52,Marie K Kelleher,,Virginia Senior Games,2008,1,02HPV
+VMST,100 M Individual Medley,SCM,W,95-99,3:54.89,Marie K Kelleher,,Virginia Senior Games,2008,1,02HPV
+VMST,100 M Breaststroke,SCM,M,18-24,1:13.99,Nick Mrozowski,,VMST 28th Annual Fall Swim Meet,2008,1,05WFM
+VMST,200 M Breaststroke,SCM,M,18-24,2:42.23,Nick Mrozowski,,VMST 28th Annual Fall Swim Meet,2008,1,05WFM
+VMST,100 M Individual Medley,SCM,M,18-24,1:07.91,Nick Mrozowski,,VMST 28th Annual Fall Swim Meet,2008,1,05WFM
+VMST,200 M Individual Medley,SCM,M,18-24,2:28.42,Nick Mrozowski,,VMST 28th Annual Fall Swim Meet,2008,1,05WFM
+VMST,100 M Freestyle,SCM,M,25-29,57.82,Sam F Harris,,Virginia Senior Games,2008,1,05S5V
+VMST,50 M Backstroke,SCM,M,25-29,28.85,Sam F Harris,,Virginia Senior Games,2008,1,05S5V
+VMST,100 M Backstroke,SCM,M,25-29,1:01.07,Sam F Harris,,VMST 28th Annual Fall Swim Meet,2008,1,05S5V
+VMST,200 M Backstroke,SCM,M,25-29,2:20.46,Sam F Harris,,Virginia Senior Games,2008,1,05S5V
+VMST,100 M Butterfly,SCM,M,25-29,1:02.81,Sam F Harris,,Virginia Senior Games,2008,1,05S5V
+VMST,100 M Individual Medley,SCM,M,25-29,1:02.67,Sam F Harris,,VMST 28th Annual Fall Swim Meet,2008,1,05S5V
+VMST,200 M Individual Medley,SCM,M,25-29,2:19.36,Sam F Harris,,VMST 28th Annual Fall Swim Meet,2008,1,05S5V
+VMST,50 M Freestyle,SCM,M,30-34,23.45,Troy D Johnson,,2008 Albatross Open,2008,1,02JCB
+VMST,100 M Freestyle,SCM,M,30-34,53.25,Troy D Johnson,,2008 Albatross Open,2008,1,02JCB
+VMST,200 M Freestyle,SCM,M,30-34,2:01.57,Troy D Johnson,,2008 Albatross Open,2008,1,02JCB
+VMST,50 M Butterfly,SCM,M,30-34,26.30,Troy D Johnson,,2008 Albatross Open,2008,1,02JCB
+VMST,50 M Freestyle,SCM,M,35-39,24.84,Michael F Picotte,,VMST 28th Annual Fall Swim Meet,2008,1,02CK5
+VMST,100 M Freestyle,SCM,M,35-39,51.55,Michael F Picotte,,VMST 28th Annual Fall Swim Meet,2008,1,02CK5
+VMST,50 M Butterfly,SCM,M,35-39,26.13,Michael F Picotte,,VMST 28th Annual Fall Swim Meet,2008,1,02CK5
+VMST,100 M Butterfly,SCM,M,35-39,57.16,Michael F Picotte,,VMST 28th Annual Fall Swim Meet,2008,1,02CK5
+VMST,50 M Freestyle,SCM,M,40-44,28.36,Chris Hakim,,Virginia Senior Games,2008,1,05UE4
+VMST,100 M Freestyle,SCM,M,40-44,1:03.47,Chris Hakim,,Virginia Senior Games,2008,1,05UE4
+VMST,200 M Freestyle,SCM,M,40-44,2:24.01,Chris Hakim,,Virginia Senior Games,2008,1,05UE4
+VMST,400 M Freestyle,SCM,M,40-44,5:19.76,Chris Hakim,,Virginia Senior Games,2008,1,05UE4
+VMST,1500 M Freestyle,SCM,M,40-44,17:53.15,Dave Holland,,Colonies Zone SCM Championships,2008,1,02HWH
+VMST,50 M Backstroke,SCM,M,40-44,26.56,Chris L Stevenson,,Colonies Zone SCM Championships,2008,1,02J1G
+VMST,50 M Backstroke,SCM,M,40-44,30.55,Bill Winters,,Colonies Zone SCM Championships,2008,2,02UDM
+VMST,100 M Backstroke,SCM,M,40-44,55.90,Chris L Stevenson,,Colonies Zone SCM Championships,2008,1,02J1G
+VMST,200 M Backstroke,SCM,M,40-44,2:04.96,Chris L Stevenson,,Colonies Zone SCM Championships,2008,1,02J1G
+VMST,200 M Backstroke,SCM,M,40-44,3:36.09,John Salgado,,VMST 28th Annual Fall Swim Meet,2008,2,02K60
+VMST,50 M Breaststroke,SCM,M,40-44,42.00,John Salgado,,VMST 28th Annual Fall Swim Meet,2008,1,02K60
+VMST,100 M Breaststroke,SCM,M,40-44,1:10.64,Evan R Davis,,Colonies Zone SCM Championships,2008,1,002RN
+VMST,50 M Butterfly,SCM,M,40-44,27.63,Dave Holland,,2008 Albatross Open,2008,1,02HWH
+VMST,50 M Butterfly,SCM,M,40-44,29.82,Evan R Davis,,Colonies Zone SCM Championships,2008,2,002RN
+VMST,100 M Butterfly,SCM,M,40-44,56.99,Chris L Stevenson,,Colonies Zone SCM Championships,2008,1,02J1G
+VMST,100 M Butterfly,SCM,M,40-44,1:00.53,Dave Holland,,2008 Albatross Open,2008,2,02HWH
+VMST,200 M Butterfly,SCM,M,40-44,2:10.99,Chris L Stevenson,,Colonies Zone SCM Championships,2008,1,02J1G
+VMST,200 M Butterfly,SCM,M,40-44,2:15.29,Dave Holland,,2008 Albatross Open,2008,2,02HWH
+VMST,100 M Individual Medley,SCM,M,40-44,1:21.49,Chris Hakim,,Virginia Senior Games,2008,1,05UE4
+VMST,200 M Individual Medley,SCM,M,40-44,2:24.26,Dave Holland,,Colonies Zone SCM Championships,2008,1,02HWH
+VMST,200 M Individual Medley,SCM,M,40-44,2:25.69,Bill Winters,,Colonies Zone SCM Championships,2008,2,02UDM
+VMST,200 M Individual Medley,SCM,M,40-44,2:33.24,Evan R Davis,,Colonies Zone SCM Championships,2008,3,002RN
+VMST,50 M Freestyle,SCM,M,45-49,25.92,David B Malsbury,,Virginia Senior Games,2008,1,02HVM
+VMST,100 M Freestyle,SCM,M,45-49,1:15.39,Michael D Hodges,,VMST 28th Annual Fall Swim Meet,2008,1,0612S
+VMST,800 M Freestyle,SCM,M,45-49,13:01.62,Michael D Hodges,,VMST 28th Annual Fall Swim Meet,2008,1,0612S
+VMST,50 M Backstroke,SCM,M,45-49,29.62,David B Malsbury,,Virginia Senior Games,2008,1,02HVM
+VMST,50 M Breaststroke,SCM,M,45-49,32.90,David B Malsbury,,2008 Albatross Open,2008,1,02HVM
+VMST,100 M Breaststroke,SCM,M,45-49,1:14.00,David B Malsbury,,Virginia Senior Games,2008,1,02HVM
+VMST,50 M Butterfly,SCM,M,45-49,29.24,David B Malsbury,,Virginia Senior Games,2008,1,02HVM
+VMST,50 M Butterfly,SCM,M,45-49,38.96,Michael D Hodges,,VMST 28th Annual Fall Swim Meet,2008,2,0612S
+VMST,100 M Individual Medley,SCM,M,45-49,1:06.51,David B Malsbury,,2008 Albatross Open,2008,1,02HVM
+VMST,200 M Individual Medley,SCM,M,45-49,2:31.98,David B Malsbury,,2008 Albatross Open,2008,1,02HVM
+VMST,50 M Freestyle,SCM,M,50-54,28.45,Jim McFarland,,VMST 28th Annual Fall Swim Meet,2008,1,02J18
+VMST,50 M Freestyle,SCM,M,50-54,30.17,Joseph S Black,,Virginia Senior Games,2008,2,05FX1
+VMST,50 M Freestyle,SCM,M,50-54,31.00,Mitch Saks,,Virginia Senior Games,2008,3,02K4A
+VMST,50 M Freestyle,SCM,M,50-54,37.56,Edward C Schiavoni,,VMST 28th Annual Fall Swim Meet,2008,4,02K6A
+VMST,100 M Freestyle,SCM,M,50-54,1:09.55,Mitch Saks,,Virginia Senior Games,2008,1,02K4A
+VMST,100 M Freestyle,SCM,M,50-54,1:10.15,Joseph S Black,,Virginia Senior Games,2008,2,05FX1
+VMST,200 M Freestyle,SCM,M,50-54,2:17.04,Jim McFarland,,VMST 28th Annual Fall Swim Meet,2008,1,02J18
+VMST,200 M Freestyle,SCM,M,50-54,2:19.20,Perry L Lange,,Virginia Senior Games,2008,2,005PV
+VMST,200 M Freestyle,SCM,M,50-54,2:31.86,Mitch Saks,,Virginia Senior Games,2008,3,02K4A
+VMST,400 M Freestyle,SCM,M,50-54,4:48.43,Jim McFarland,,VMST 28th Annual Fall Swim Meet,2008,1,02J18
+VMST,400 M Freestyle,SCM,M,50-54,4:56.71,Perry L Lange,,Virginia Senior Games,2008,2,005PV
+VMST,400 M Freestyle,SCM,M,50-54,5:17.19,Mitch Saks,,Virginia Senior Games,2008,3,02K4A
+VMST,800 M Freestyle,SCM,M,50-54,10:14.13,Jim McFarland,,VMST 28th Annual Fall Swim Meet,2008,1,02J18
+VMST,800 M Freestyle,SCM,M,50-54,11:07.46,Mitch Saks,,VMST 28th Annual Fall Swim Meet,2008,2,02K4A
+VMST,800 M Freestyle,SCM,M,50-54,12:42.51,Ralph B Swiger,,VMST 28th Annual Fall Swim Meet,2008,3,02HW9
+VMST,1500 M Freestyle,SCM,M,50-54,19:17.10,Jim McFarland,,VMST 28th Annual Fall Swim Meet,2008,1,02J18
+VMST,1500 M Freestyle,SCM,M,50-54,26:50.49,Edward C Schiavoni,,VMST 28th Annual Fall Swim Meet,2008,2,02K6A
+VMST,50 M Backstroke,SCM,M,50-54,33.83,Perry L Lange,,Virginia Senior Games,2008,1,005PV
+VMST,50 M Backstroke,SCM,M,50-54,46.89,Ralph B Swiger,,Virginia Senior Games,2008,2,02HW9
+VMST,100 M Backstroke,SCM,M,50-54,1:29.23,Joseph S Black,,Virginia Senior Games,2008,1,05FX1
+VMST,100 M Backstroke,SCM,M,50-54,1:35.42,Bryan A Stone,,VMST 28th Annual Fall Swim Meet,2008,2,02J0N
+VMST,100 M Backstroke,SCM,M,50-54,1:39.77,Ralph B Swiger,,Virginia Senior Games,2008,3,02HW9
+VMST,200 M Backstroke,SCM,M,50-54,3:24.86,Ralph B Swiger,,VMST 28th Annual Fall Swim Meet,2008,1,02HW9
+VMST,50 M Breaststroke,SCM,M,50-54,43.94,Bryan A Stone,,VMST 28th Annual Fall Swim Meet,2008,1,02J0N
+VMST,50 M Breaststroke,SCM,M,50-54,47.19,Ralph B Swiger,,Virginia Senior Games,2008,2,02HW9
+VMST,100 M Breaststroke,SCM,M,50-54,1:36.39,Bryan A Stone,,VMST 28th Annual Fall Swim Meet,2008,1,02J0N
+VMST,100 M Breaststroke,SCM,M,50-54,1:40.17,Ralph B Swiger,,Virginia Senior Games,2008,2,02HW9
+VMST,200 M Breaststroke,SCM,M,50-54,3:29.52,Ralph B Swiger,,VMST 28th Annual Fall Swim Meet,2008,1,02HW9
+VMST,200 M Breaststroke,SCM,M,50-54,3:38.60,Bryan A Stone,,VMST 28th Annual Fall Swim Meet,2008,2,02J0N
+VMST,50 M Butterfly,SCM,M,50-54,30.16,Perry L Lange,,Virginia Senior Games,2008,1,005PV
+VMST,50 M Butterfly,SCM,M,50-54,35.10,J B Brinkman,,VMST 28th Annual Fall Swim Meet,2008,2,02HXD
+VMST,50 M Butterfly,SCM,M,50-54,35.52,Mitch Saks,,Virginia Senior Games,2008,3,02K4A
+VMST,50 M Butterfly,SCM,M,50-54,35.95,Joseph S Black,,Virginia Senior Games,2008,4,05FX1
+VMST,50 M Butterfly,SCM,M,50-54,40.05,Ralph B Swiger,,Virginia Senior Games,2008,5,02HW9
+VMST,100 M Butterfly,SCM,M,50-54,1:38.15,Ralph B Swiger,,Virginia Senior Games,2008,1,02HW9
+VMST,200 M Butterfly,SCM,M,50-54,3:53.87,Ralph B Swiger,,VMST 28th Annual Fall Swim Meet,2008,1,02HW9
+VMST,100 M Individual Medley,SCM,M,50-54,1:14.09,Perry L Lange,,Virginia Senior Games,2008,1,005PV
+VMST,100 M Individual Medley,SCM,M,50-54,1:23.26,J B Brinkman,,VMST 28th Annual Fall Swim Meet,2008,2,02HXD
+VMST,100 M Individual Medley,SCM,M,50-54,1:25.08,Joseph S Black,,Virginia Senior Games,2008,3,05FX1
+VMST,100 M Individual Medley,SCM,M,50-54,1:26.03,Mitch Saks,,Virginia Senior Games,2008,4,02K4A
+VMST,100 M Individual Medley,SCM,M,50-54,1:32.35,Ralph B Swiger,,Virginia Senior Games,2008,5,02HW9
+VMST,200 M Individual Medley,SCM,M,50-54,3:22.49,Ralph B Swiger,,Virginia Senior Games,2008,1,02HW9
+VMST,400 M Individual Medley,SCM,M,50-54,7:04.66,Ralph B Swiger,,VMST 28th Annual Fall Swim Meet,2008,1,02HW9
+VMST,50 M Freestyle,SCM,M,55-59,29.72,Jim W Miller,,2008 Albatross Open,2008,1,02HNX
+VMST,50 M Freestyle,SCM,M,55-59,34.31,Alvin Richardson,,VMST 28th Annual Fall Swim Meet,2008,2,02HZB
+VMST,50 M Freestyle,SCM,M,55-59,34.67,Bill L Nelson,,VMST 28th Annual Fall Swim Meet,2008,3,02JCR
+VMST,50 M Freestyle,SCM,M,55-59,37.52,Dale E Darr,,VMST 28th Annual Fall Swim Meet,2008,4,02JJK
+VMST,100 M Freestyle,SCM,M,55-59,1:06.08,Jim W Miller,,2008 Albatross Open,2008,1,02HNX
+VMST,100 M Freestyle,SCM,M,55-59,1:18.94,Bill L Nelson,,VMST 28th Annual Fall Swim Meet,2008,2,02JCR
+VMST,100 M Freestyle,SCM,M,55-59,1:21.13,Dale E Darr,,VMST 28th Annual Fall Swim Meet,2008,3,02JJK
+VMST,200 M Freestyle,SCM,M,55-59,2:55.94,Alvin Richardson,,VMST 28th Annual Fall Swim Meet,2008,1,02HZB
+VMST,100 M Backstroke,SCM,M,55-59,1:22.56,Jim W Miller,,2008 Albatross Open,2008,1,02HNX
+VMST,200 M Backstroke,SCM,M,55-59,2:59.61,Jim W Miller,,2008 Albatross Open,2008,1,02HNX
+VMST,50 M Breaststroke,SCM,M,55-59,46.18,Bill L Nelson,,Virginia Senior Games,2008,1,02JCR
+VMST,100 M Breaststroke,SCM,M,55-59,1:45.73,Bill L Nelson,,Virginia Senior Games,2008,1,02JCR
+VMST,50 M Butterfly,SCM,M,55-59,44.04,Alvin Richardson,,VMST 28th Annual Fall Swim Meet,2008,1,02HZB
+VMST,100 M Individual Medley,SCM,M,55-59,1:23.87,Jim W Miller,,2008 Albatross Open,2008,1,02HNX
+VMST,50 M Freestyle,SCM,M,60-64,32.80,Mike Duignan,,Virginia Senior Games,2008,1,02HV6
+VMST,200 M Freestyle,SCM,M,60-64,4:32.41,Mark Patterson,,Virginia Senior Games,2008,1,02K2Y
+VMST,400 M Freestyle,SCM,M,60-64,5:58.40,Mike Duignan,,Virginia Senior Games,2008,1,02HV6
+VMST,400 M Freestyle,SCM,M,60-64,9:17.24,Mark Patterson,,Virginia Senior Games,2008,2,02K2Y
+VMST,50 M Backstroke,SCM,M,60-64,38.73,Mike Duignan,,VMST 28th Annual Fall Swim Meet,2008,1,02HV6
+VMST,50 M Backstroke,SCM,M,60-64,43.03,L Clay Beall,,Virginia Senior Games,2008,2,036CN
+VMST,100 M Backstroke,SCM,M,60-64,1:23.79,Mike Duignan,,VMST 28th Annual Fall Swim Meet,2008,1,02HV6
+VMST,100 M Backstroke,SCM,M,60-64,1:32.37,L Clay Beall,,Virginia Senior Games,2008,2,036CN
+VMST,200 M Backstroke,SCM,M,60-64,3:02.02,Mike Duignan,,VMST 28th Annual Fall Swim Meet,2008,1,02HV6
+VMST,200 M Backstroke,SCM,M,60-64,3:30.49,L Clay Beall,,Virginia Senior Games,2008,2,036CN
+VMST,100 M Individual Medley,SCM,M,60-64,1:29.77,L Clay Beall,,Virginia Senior Games,2008,1,036CN
+VMST,200 M Individual Medley,SCM,M,60-64,3:36.36,L Clay Beall,,Virginia Senior Games,2008,1,036CN
+VMST,50 M Freestyle,SCM,M,65-69,33.35,Warner F Brundage,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ6
+VMST,50 M Freestyle,SCM,M,65-69,36.63,Chris S Frogley,,VMST 28th Annual Fall Swim Meet,2008,2,027GA
+VMST,50 M Freestyle,SCM,M,65-69,41.75,Howard U Butts,,Virginia Senior Games,2008,3,02J1K
+VMST,100 M Freestyle,SCM,M,65-69,1:13.72,Warner F Brundage,,Colonies Zone SCM Championships,2008,1,02HJ6
+VMST,100 M Freestyle,SCM,M,65-69,1:24.09,Chris S Frogley,,VMST 28th Annual Fall Swim Meet,2008,2,027GA
+VMST,100 M Freestyle,SCM,M,65-69,1:44.94,Howard U Butts,,Virginia Senior Games,2008,3,02J1K
+VMST,200 M Freestyle,SCM,M,65-69,2:45.86,Warner F Brundage,,Colonies Zone SCM Championships,2008,1,02HJ6
+VMST,200 M Freestyle,SCM,M,65-69,4:06.93,Howard U Butts,,Virginia Senior Games,2008,2,02J1K
+VMST,400 M Freestyle,SCM,M,65-69,5:57.52,Warner F Brundage,,Colonies Zone SCM Championships,2008,1,02HJ6
+VMST,50 M Backstroke,SCM,M,65-69,57.76,Howard U Butts,,Virginia Senior Games,2008,1,02J1K
+VMST,100 M Backstroke,SCM,M,65-69,2:19.89,Howard U Butts,,Virginia Senior Games,2008,1,02J1K
+VMST,200 M Backstroke,SCM,M,65-69,5:11.05,Howard U Butts,,Virginia Senior Games,2008,1,02J1K
+VMST,50 M Breaststroke,SCM,M,65-69,40.69,Warner F Brundage,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ6
+VMST,50 M Breaststroke,SCM,M,65-69,51.10,Howard U Butts,,Virginia Senior Games,2008,2,02J1K
+VMST,50 M Breaststroke,SCM,M,65-69,51.73,Will Grant,,VMST 28th Annual Fall Swim Meet,2008,3,05XX6
+VMST,50 M Breaststroke,SCM,M,65-69,51.91,Chris S Frogley,,VMST 28th Annual Fall Swim Meet,2008,4,027GA
+VMST,100 M Breaststroke,SCM,M,65-69,1:29.03,Warner F Brundage,,Colonies Zone SCM Championships,2008,1,02HJ6
+VMST,100 M Breaststroke,SCM,M,65-69,2:02.43,Will Grant,,VMST 28th Annual Fall Swim Meet,2008,2,05XX6
+VMST,100 M Breaststroke,SCM,M,65-69,2:02.87,Howard U Butts,,Virginia Senior Games,2008,3,02J1K
+VMST,100 M Breaststroke,SCM,M,65-69,2:03.26,Chris S Frogley,,VMST 28th Annual Fall Swim Meet,2008,4,027GA
+VMST,200 M Breaststroke,SCM,M,65-69,3:20.80,Warner F Brundage,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ6
+VMST,200 M Breaststroke,SCM,M,65-69,4:37.31,Will Grant,,VMST 28th Annual Fall Swim Meet,2008,2,05XX6
+VMST,100 M Individual Medley,SCM,M,65-69,1:24.28,Warner F Brundage,,VMST 28th Annual Fall Swim Meet,2008,1,02HJ6
+VMST,200 M Individual Medley,SCM,M,65-69,3:04.50,Warner F Brundage,,Colonies Zone SCM Championships,2008,1,02HJ6
+VMST,50 M Freestyle,SCM,M,70-74,38.61,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,50 M Freestyle,SCM,M,70-74,43.57,Alfred C Newbury,,Virginia Senior Games,2008,2,02HK5
+VMST,100 M Freestyle,SCM,M,70-74,1:30.36,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,200 M Freestyle,SCM,M,70-74,3:17.26,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,200 M Freestyle,SCM,M,70-74,4:21.72,Landis O Lee,,Virginia Senior Games,2008,2,02HP5
+VMST,400 M Freestyle,SCM,M,70-74,7:35.18,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,400 M Freestyle,SCM,M,70-74,9:30.20,Landis O Lee,,Virginia Senior Games,2008,2,02HP5
+VMST,50 M Backstroke,SCM,M,70-74,54.56,Alfred C Newbury,,Virginia Senior Games,2008,1,02HK5
+VMST,50 M Backstroke,SCM,M,70-74,57.02,Landis O Lee,,Virginia Senior Games,2008,2,02HP5
+VMST,100 M Backstroke,SCM,M,70-74,1:52.38,Alfred C Newbury,,VMST 28th Annual Fall Swim Meet,2008,1,02HK5
+VMST,200 M Backstroke,SCM,M,70-74,4:08.02,Alfred C Newbury,,VMST 28th Annual Fall Swim Meet,2008,1,02HK5
+VMST,50 M Breaststroke,SCM,M,70-74,51.45,Richard A Scott,,2008 Albatross Open,2008,1,02K2C
+VMST,50 M Breaststroke,SCM,M,70-74,56.33,Owen C Maher,,Virginia Senior Games,2008,2,02HW6
+VMST,100 M Breaststroke,SCM,M,70-74,1:57.87,Richard A Scott,,VMST 28th Annual Fall Swim Meet,2008,1,02K2C
+VMST,200 M Breaststroke,SCM,M,70-74,4:15.69,Richard A Scott,,2008 Albatross Open,2008,1,02K2C
+VMST,50 M Butterfly,SCM,M,70-74,47.65,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,100 M Butterfly,SCM,M,70-74,2:05.53,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,100 M Butterfly,SCM,M,70-74,2:12.06,Alfred C Newbury,,Virginia Senior Games,2008,2,02HK5
+VMST,100 M Individual Medley,SCM,M,70-74,1:47.03,Owen C Maher,,Virginia Senior Games,2008,1,02HW6
+VMST,100 M Individual Medley,SCM,M,70-74,1:52.89,Richard A Scott,,Maryland Ann Johnsen Memorial Summer Swim Series #1 at Big Vanila,2008,2,02K2C
+VMST,100 M Individual Medley,SCM,M,70-74,1:58.57,Alfred C Newbury,,Virginia Senior Games,2008,3,02HK5
+VMST,200 M Individual Medley,SCM,M,70-74,4:14.61,Richard A Scott,,VMST 28th Annual Fall Swim Meet,2008,1,02K2C
+VMST,100 M Freestyle,SCM,M,75-79,1:29.81,Charles H Erwin,,Virginia Senior Games,2008,1,02HK2
+VMST,200 M Freestyle,SCM,M,75-79,3:21.77,Charles H Erwin,,Virginia Senior Games,2008,1,02HK2
+VMST,400 M Freestyle,SCM,M,75-79,7:11.67,Charles H Erwin,,Virginia Senior Games,2008,1,02HK2
+VMST,800 M Freestyle,SCM,M,75-79,14:18.42,Charles H Erwin,,VMST 28th Annual Fall Swim Meet,2008,1,02HK2
+VMST,50 M Backstroke,SCM,M,75-79,52.68,Forrest M Sullivan,,Virginia Senior Games,2008,1,02HUJ
+VMST,100 M Backstroke,SCM,M,75-79,1:58.18,Forrest M Sullivan,,Virginia Senior Games,2008,1,02HUJ
+VMST,50 M Breaststroke,SCM,M,75-79,55.30,Thomas F Lyons,,Virginia Senior Games,2008,1,02HJJ
+VMST,50 M Breaststroke,SCM,M,75-79,58.64,Charles H Erwin,,Virginia Senior Games,2008,2,02HK2
+VMST,100 M Breaststroke,SCM,M,75-79,2:10.81,Thomas F Lyons,,Virginia Senior Games,2008,1,02HJJ
+VMST,100 M Breaststroke,SCM,M,75-79,2:16.85,Charles H Erwin,,Virginia Senior Games,2008,2,02HK2
+VMST,200 M Breaststroke,SCM,M,75-79,4:49.53,Thomas F Lyons,,Virginia Senior Games,2008,1,02HJJ
+VMST,200 M Breaststroke,SCM,M,75-79,4:51.37,Charles H Erwin,,Virginia Senior Games,2008,2,02HK2
+VMST,50 M Butterfly,SCM,M,75-79,1:02.86,Thomas F Lyons,,Virginia Senior Games,2008,1,02HJJ
+VMST,100 M Freestyle,SCM,M,80-84,1:52.82,Richard E Briesemeister,,Colonies Zone SCM Championships,2008,1,02XH2
+WAVA,50 M Freestyle,SCM,M,45-49,30.37,Todd Goins,,2008 Albatross Open,2008,1,02JNX
+WAVA,100 M Freestyle,SCM,M,45-49,1:08.52,Todd Goins,,2008 Albatross Open,2008,1,02JNX
+WAVA,50 M Breaststroke,SCM,M,45-49,42.73,Todd Goins,,2008 Albatross Open,2008,1,02JNX
+WMS,100 M Freestyle,SCM,W,45-49,1:23.70,Suni M Perka,,IGLA 2008 Championships,2008,1,02JKP
+WMS,400 M Freestyle,SCM,W,45-49,6:32.71,Suni M Perka,,IGLA 2008 Championships,2008,1,02JKP

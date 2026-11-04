@@ -1,0 +1,361 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+BWAC,50 M Freestyle,SCM,M,60-64,34.74,Glen M Chang,,Huntsman World Senior Games,2025,1,KDDDF
+BWAC,50 M Breaststroke,SCM,M,60-64,39.25,Glen M Chang,,Huntsman World Senior Games,2025,1,KDDDF
+BWAC,100 M Breaststroke,SCM,M,60-64,1:32.97,Glen M Chang,,Huntsman World Senior Games,2025,1,KDDDF
+BWAC,50 M Freestyle,SCM,M,65-69,33.23,Robert A Olson,,Huntsman World Senior Games,2025,1,045X6
+BWAC,50 M Freestyle,SCM,M,65-69,33.63,David O Spencer,,Huntsman World Senior Games,2025,2,25BMU
+BWAC,50 M Backstroke,SCM,M,65-69,43.21,David O Spencer,,Huntsman World Senior Games,2025,1,25BMU
+BWAC,100 M Backstroke,SCM,M,65-69,1:38.06,David O Spencer,,Huntsman World Senior Games,2025,1,25BMU
+BWAC,50 M Breaststroke,SCM,M,65-69,39.01,Robert A Olson,,Arizona Masters Short Course Meters State Championship,2025,1,045X6
+BWAC,50 M Breaststroke,SCM,M,65-69,47.23,David O Spencer,,Huntsman World Senior Games,2025,2,25BMU
+BWAC,100 M Breaststroke,SCM,M,65-69,1:30.10,Robert A Olson,,Huntsman World Senior Games,2025,1,045X6
+BWAC,200 M Breaststroke,SCM,M,65-69,3:18.53,Robert A Olson,,Arizona Masters Short Course Meters State Championship,2025,1,045X6
+BWAC,50 M Butterfly,SCM,M,65-69,37.43,Robert A Olson,,Huntsman World Senior Games,2025,1,045X6
+BWAC,50 M Butterfly,SCM,M,65-69,40.15,David O Spencer,,Huntsman World Senior Games,2025,2,25BMU
+BWAC,100 M Butterfly,SCM,M,65-69,1:31.21,Robert A Olson,,Huntsman World Senior Games,2025,1,045X6
+BWAC,100 M Butterfly,SCM,M,65-69,1:49.91,David O Spencer,,Huntsman World Senior Games,2025,2,25BMU
+BWAC,100 M Individual Medley,SCM,M,65-69,1:34.81,David O Spencer,,Huntsman World Senior Games,2025,1,25BMU
+LMMC,50 M Freestyle,SCM,M,55-59,31.08,Matthew W Cousins,,Huntsman World Senior Games,2025,1,3H8G8
+LMMC,50 M Breaststroke,SCM,M,55-59,44.16,Matthew W Cousins,,Huntsman World Senior Games,2025,1,3H8G8
+LMMC,50 M Butterfly,SCM,M,55-59,38.69,Matthew W Cousins,,Huntsman World Senior Games,2025,1,3H8G8
+LMMC,100 M Individual Medley,SCM,M,55-59,1:33.05,Matthew W Cousins,,Huntsman World Senior Games,2025,1,3H8G8
+QUAC,50 M Freestyle,SCM,M,25-29,25.33,Ryan Clay,,IGLA+ 2025 Championship,2025,1,TWF6H
+QUAC,50 M Freestyle,SCM,M,25-29,30.58,Manuel Castellanos,,IGLA+ 2025 Championship,2025,2,HESHF
+QUAC,100 M Freestyle,SCM,M,25-29,56.63,Ryan Clay,,IGLA+ 2025 Championship,2025,1,TWF6H
+QUAC,400 M Freestyle,SCM,M,25-29,5:51.16,Manuel Castellanos,,IGLA+ 2025 Championship,2025,1,HESHF
+QUAC,200 M Backstroke,SCM,M,25-29,2:32.01,Ryan Clay,,IGLA+ 2025 Championship,2025,1,TWF6H
+QUAC,50 M Butterfly,SCM,M,25-29,28.86,Ryan Clay,,IGLA+ 2025 Championship,2025,1,TWF6H
+QUAC,50 M Butterfly,SCM,M,25-29,32.08,Manuel Castellanos,,IGLA+ 2025 Championship,2025,2,HESHF
+QUAC,100 M Individual Medley,SCM,M,25-29,1:18.52,Manuel Castellanos,,IGLA+ 2025 Championship,2025,1,HESHF
+QUAC,50 M Freestyle,SCM,M,30-34,27.89,Kyle Spicer,,IGLA+ 2025 Championship,2025,1,J535Z
+QUAC,400 M Freestyle,SCM,M,30-34,5:05.40,Kyle Spicer,,IGLA+ 2025 Championship,2025,1,J535Z
+QUAC,100 M Breaststroke,SCM,M,30-34,1:22.78,Kyle Spicer,,IGLA+ 2025 Championship,2025,1,J535Z
+QUAC,100 M Individual Medley,SCM,M,30-34,1:10.49,Kyle Spicer,,IGLA+ 2025 Championship,2025,1,J535Z
+QUAC,100 M Freestyle,SCM,M,35-39,1:20.44,John Wiest,,IGLA+ 2025 Championship,2025,1,0AA4J
+QUAC,100 M Breaststroke,SCM,M,35-39,1:37.01,John Wiest,,IGLA+ 2025 Championship,2025,1,0AA4J
+QUAC,100 M Freestyle,SCM,M,40-44,1:08.79,Nathaniel T Freeman,,IGLA+ 2025 Championship,2025,1,07J0B
+QUAC,800 M Freestyle,SCM,M,40-44,12:20.60,Nathaniel T Freeman,,IGLA+ 2025 Championship,2025,1,07J0B
+QUAC,100 M Backstroke,SCM,M,40-44,1:28.20,Nathaniel T Freeman,,IGLA+ 2025 Championship,2025,1,07J0B
+QUAC,50 M Butterfly,SCM,M,40-44,37.92,Nathaniel T Freeman,,IGLA+ 2025 Championship,2025,1,07J0B
+QUAC,50 M Freestyle,SCM,M,45-49,34.72,Yutaka Yanase,,IGLA+ 2025 Championship,2025,1,0B7WF
+QUAC,100 M Freestyle,SCM,M,45-49,1:20.13,Yutaka Yanase,,IGLA+ 2025 Championship,2025,1,0B7WF
+QUAC,50 M Breaststroke,SCM,M,45-49,47.67,Yutaka Yanase,,IGLA+ 2025 Championship,2025,1,0B7WF
+QUAC,100 M Breaststroke,SCM,M,45-49,1:42.64,Yutaka Yanase,,IGLA+ 2025 Championship,2025,1,0B7WF
+QUAC,50 M Backstroke,SCM,M,55-59,1:04.23,Kenneth R Johansson,,IGLA+ 2025 Championship,2025,1,03BHB
+QUAC,50 M Breaststroke,SCM,M,70-74,1:01.89,Rennly J Charlesworth,,Huntsman World Senior Games,2025,1,Z8GF6
+SDMST,400 M Freestyle,SCM,W,55-59,8:57.13,Andrea B Crookston,,Huntsman World Senior Games,2025,1,ARCR9
+SDMST,800 M Freestyle,SCM,W,55-59,19:00.23,Andrea B Crookston,,Huntsman World Senior Games,2025,1,ARCR9
+SDMST,1500 M Freestyle,SCM,W,55-59,35:44.53,Andrea B Crookston,,Huntsman World Senior Games,2025,1,ARCR9
+SDMST,50 M Backstroke,SCM,W,55-59,41.33,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,100 M Backstroke,SCM,W,55-59,1:30.33,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,200 M Backstroke,SCM,W,55-59,3:11.93,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,50 M Breaststroke,SCM,W,55-59,43.03,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,100 M Breaststroke,SCM,W,55-59,1:35.82,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,200 M Breaststroke,SCM,W,55-59,3:30.54,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,100 M Individual Medley,SCM,W,55-59,1:27.62,Anna Marie Forest,,Huntsman World Senior Games,2025,1,004BF
+SDMST,50 M Freestyle,SCM,W,60-64,42.57,kathleen blake,,Huntsman World Senior Games,2025,1,NGN5B
+SDMST,100 M Freestyle,SCM,W,60-64,1:36.06,kathleen blake,,Huntsman World Senior Games,2025,1,NGN5B
+SDMST,50 M Backstroke,SCM,W,60-64,52.50,kathleen blake,,Huntsman World Senior Games,2025,1,NGN5B
+SDMST,50 M Freestyle,SCM,W,75-79,1:07.62,Christine M Baxter,,Huntsman World Senior Games,2025,1,CS19A
+SDMST,100 M Freestyle,SCM,W,75-79,2:46.96,Christine M Baxter,,Huntsman World Senior Games,2025,1,CS19A
+SDMST,200 M Freestyle,SCM,W,75-79,5:56.28,Christine M Baxter,,Huntsman World Senior Games,2025,1,CS19A
+TM,50 M Backstroke,SCM,W,55-59,42.95,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,100 M Backstroke,SCM,W,55-59,1:34.83,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,200 M Backstroke,SCM,W,55-59,3:30.74,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,50 M Breaststroke,SCM,W,55-59,46.98,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,50 M Butterfly,SCM,W,55-59,39.62,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,100 M Butterfly,SCM,W,55-59,1:45.60,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,100 M Individual Medley,SCM,W,55-59,1:32.68,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,200 M Individual Medley,SCM,W,55-59,3:28.90,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,400 M Individual Medley,SCM,W,55-59,7:42.05,Jennifer M Turley,,Huntsman World Senior Games,2025,1,7WJN2
+TM,50 M Freestyle,SCM,W,70-74,37.21,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,50 M Backstroke,SCM,W,70-74,42.73,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,100 M Backstroke,SCM,W,70-74,1:29.58,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,200 M Backstroke,SCM,W,70-74,3:17.31,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,50 M Breaststroke,SCM,W,70-74,46.92,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,100 M Breaststroke,SCM,W,70-74,1:44.46,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,100 M Individual Medley,SCM,W,70-74,1:32.73,Cindy Gilmore,,Huntsman World Senior Games,2025,1,05J4V
+TM,50 M Freestyle,SCM,M,55-59,30.95,Sterling Cabana,,Huntsman World Senior Games,2025,1,0749A
+TM,50 M Freestyle,SCM,M,55-59,34.10,Paul Goodin,,Huntsman World Senior Games,2025,2,CHETF
+TM,100 M Freestyle,SCM,M,55-59,1:11.78,Craig B Nelson,,Huntsman World Senior Games,2025,1,V5C6Z
+TM,100 M Freestyle,SCM,M,55-59,1:27.03,Paul Goodin,,Huntsman World Senior Games,2025,2,CHETF
+TM,200 M Freestyle,SCM,M,55-59,2:45.60,Craig B Nelson,,Huntsman World Senior Games,2025,1,V5C6Z
+TM,50 M Backstroke,SCM,M,55-59,43.87,Paul Goodin,,Huntsman World Senior Games,2025,1,CHETF
+TM,100 M Backstroke,SCM,M,55-59,1:37.87,Paul Goodin,,Huntsman World Senior Games,2025,1,CHETF
+TM,50 M Breaststroke,SCM,M,55-59,40.28,Sterling Cabana,,Huntsman World Senior Games,2025,1,0749A
+TM,50 M Breaststroke,SCM,M,55-59,41.42,Paul Goodin,,Huntsman World Senior Games,2025,2,CHETF
+TM,100 M Breaststroke,SCM,M,55-59,1:37.14,Paul Goodin,,Huntsman World Senior Games,2025,1,CHETF
+TM,50 M Butterfly,SCM,M,55-59,35.54,Sterling Cabana,,Huntsman World Senior Games,2025,1,0749A
+TM,100 M Individual Medley,SCM,M,55-59,1:22.44,Sterling Cabana,,Huntsman World Senior Games,2025,1,0749A
+TM,100 M Individual Medley,SCM,M,55-59,1:32.93,Paul Goodin,,Huntsman World Senior Games,2025,2,CHETF
+TM,200 M Freestyle,SCM,M,60-64,2:57.18,Paul M Havick,,Huntsman World Senior Games,2025,1,01H64
+TM,400 M Freestyle,SCM,M,60-64,6:17.58,Paul M Havick,,Huntsman World Senior Games,2025,1,01H64
+TM,800 M Freestyle,SCM,M,60-64,12:56.76,Paul M Havick,,Huntsman World Senior Games,2025,1,01H64
+TM,1500 M Freestyle,SCM,M,60-64,25:04.75,Paul M Havick,,Huntsman World Senior Games,2025,1,01H64
+TM,50 M Freestyle,SCM,M,70-74,40.28,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,100 M Freestyle,SCM,M,70-74,1:29.06,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,400 M Freestyle,SCM,M,70-74,7:02.03,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,800 M Freestyle,SCM,M,70-74,13:52.53,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,1500 M Freestyle,SCM,M,70-74,26:48.02,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,50 M Breaststroke,SCM,M,70-74,48.34,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,100 M Breaststroke,SCM,M,70-74,1:44.63,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,200 M Breaststroke,SCM,M,70-74,3:53.36,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TM,100 M Individual Medley,SCM,M,70-74,1:47.13,Bruce Schroeder,,Huntsman World Senior Games,2025,1,088HG
+TMAT,50 M Freestyle,SCM,W,55-59,33.11,Heather E Creel,,Huntsman World Senior Games,2025,1,00683
+TMAT,50 M Freestyle,SCM,W,55-59,37.45,Staci R Smith,,Huntsman World Senior Games,2025,2,SBMN5
+TMAT,100 M Freestyle,SCM,W,55-59,1:15.91,Heather E Creel,,Huntsman World Senior Games,2025,1,00683
+TMAT,400 M Freestyle,SCM,W,55-59,6:06.61,Heather E Creel,,Huntsman World Senior Games,2025,1,00683
+TMAT,800 M Freestyle,SCM,W,55-59,12:44.26,Heather E Creel,,Huntsman World Senior Games,2025,1,00683
+TMAT,50 M Backstroke,SCM,W,55-59,39.04,Heather E Creel,,Huntsman World Senior Games,2025,1,00683
+TMAT,50 M Backstroke,SCM,W,55-59,39.12,Holly Tate,,Huntsman World Senior Games,2025,2,0308K
+TMAT,50 M Backstroke,SCM,W,55-59,49.72,Staci R Smith,,Huntsman World Senior Games,2025,3,SBMN5
+TMAT,100 M Backstroke,SCM,W,55-59,1:21.65,Holly Tate,,Huntsman World Senior Games,2025,1,0308K
+TMAT,100 M Backstroke,SCM,W,55-59,1:26.13,Heather E Creel,,Huntsman World Senior Games,2025,2,00683
+TMAT,200 M Backstroke,SCM,W,55-59,2:54.10,Holly Tate,,Huntsman World Senior Games,2025,1,0308K
+TMAT,200 M Backstroke,SCM,W,55-59,3:12.13,Heather E Creel,,Huntsman World Senior Games,2025,2,00683
+TMAT,50 M Breaststroke,SCM,W,55-59,45.86,Staci R Smith,,Huntsman World Senior Games,2025,1,SBMN5
+TMAT,100 M Breaststroke,SCM,W,55-59,1:41.77,Staci R Smith,,Huntsman World Senior Games,2025,1,SBMN5
+TMAT,50 M Butterfly,SCM,W,55-59,43.99,Staci R Smith,,Huntsman World Senior Games,2025,1,SBMN5
+TMAT,50 M Butterfly,SCM,W,55-59,45.40,Holly Tate,,Huntsman World Senior Games,2025,2,0308K
+TMAT,100 M Individual Medley,SCM,W,55-59,1:29.49,Heather E Creel,,Huntsman World Senior Games,2025,1,00683
+TMAT,100 M Individual Medley,SCM,W,55-59,1:30.90,Holly Tate,,Huntsman World Senior Games,2025,2,0308K
+TMAT,100 M Individual Medley,SCM,W,55-59,1:35.81,Staci R Smith,,Huntsman World Senior Games,2025,3,SBMN5
+TMAT,50 M Freestyle,SCM,W,65-69,47.20,Janet M Huffman,,Huntsman World Senior Games,2025,1,98RP0
+TMAT,100 M Freestyle,SCM,W,65-69,1:48.12,Janet M Huffman,,Huntsman World Senior Games,2025,1,98RP0
+TMAT,50 M Freestyle,SCM,M,50-54,45.70,Joshua J Decola,,Huntsman World Senior Games,2025,1,7D1FJ
+TMAT,100 M Freestyle,SCM,M,50-54,1:45.99,Joshua J Decola,,Huntsman World Senior Games,2025,1,7D1FJ
+TMAT,400 M Freestyle,SCM,M,50-54,8:36.52,Joshua J Decola,,Huntsman World Senior Games,2025,1,7D1FJ
+TMAT,800 M Freestyle,SCM,M,50-54,17:09.87,Joshua J Decola,,Huntsman World Senior Games,2025,1,7D1FJ
+UC34,50 M Freestyle,SCM,W,50-54,49.19,Charity Weaver,,Huntsman World Senior Games,2025,1,KU09V
+UC34,100 M Freestyle,SCM,W,50-54,2:00.06,Charity Weaver,,Huntsman World Senior Games,2025,1,KU09V
+UC34,50 M Backstroke,SCM,W,50-54,55.54,Charity Weaver,,Huntsman World Senior Games,2025,1,KU09V
+UC34,100 M Backstroke,SCM,W,50-54,2:13.60,Charity Weaver,,Huntsman World Senior Games,2025,1,KU09V
+UC34,100 M Freestyle,SCM,W,60-64,1:05.86,Mary M Plant,,23rd Annual Saint Nicholas Meet,2025,1,ACW2P
+UC34,50 M Butterfly,SCM,W,60-64,31.19,Mary M Plant,,23rd Annual Saint Nicholas Meet,2025,1,ACW2P
+UC34,100 M Butterfly,SCM,W,60-64,1:09.06,Mary M Plant,,23rd Annual Saint Nicholas Meet,2025,1,ACW2P
+UC34,200 M Butterfly,SCM,W,60-64,2:40.92,Mary M Plant,,23rd Annual Saint Nicholas Meet,2025,1,ACW2P
+UC34,50 M Freestyle,SCM,W,65-69,1:02.09,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,100 M Freestyle,SCM,W,65-69,2:15.67,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,200 M Freestyle,SCM,W,65-69,5:23.28,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,1500 M Freestyle,SCM,W,65-69,21:58.43,Karen M Oliver,,The Olympic Club 1500 meter meet,2025,1,0042N
+UC34,100 M Backstroke,SCM,W,65-69,2:25.46,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,200 M Backstroke,SCM,W,65-69,5:04.51,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,50 M Breaststroke,SCM,W,65-69,1:09.83,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,100 M Breaststroke,SCM,W,65-69,2:35.60,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,200 M Breaststroke,SCM,W,65-69,5:42.08,Kristine S Smith,,Huntsman World Senior Games,2025,1,XGUGH
+UC34,50 M Freestyle,SCM,W,70-74,48.81,sue grassley,,Huntsman World Senior Games,2025,1,BV790
+UC34,100 M Freestyle,SCM,W,70-74,1:50.30,sue grassley,,Huntsman World Senior Games,2025,1,BV790
+UC34,400 M Freestyle,SCM,W,75-79,9:10.66,Anne P Cerny,,Huntsman World Senior Games,2025,1,WTPEX
+UC34,800 M Freestyle,SCM,W,75-79,18:58.17,Anne P Cerny,,Huntsman World Senior Games,2025,1,WTPEX
+UC34,100 M Breaststroke,SCM,W,75-79,2:39.51,Anne P Cerny,,Huntsman World Senior Games,2025,1,WTPEX
+UC34,200 M Breaststroke,SCM,W,75-79,5:36.81,Anne P Cerny,,Huntsman World Senior Games,2025,1,WTPEX
+UC34,100 M Individual Medley,SCM,W,75-79,2:28.95,Anne P Cerny,,Huntsman World Senior Games,2025,1,WTPEX
+UC34,200 M Backstroke,SCM,M,55-59,3:42.36,DEVIN R SHELLEY,,Huntsman World Senior Games,2025,1,P7475
+UC34,100 M Breaststroke,SCM,M,55-59,1:46.82,DEVIN R SHELLEY,,Huntsman World Senior Games,2025,1,P7475
+UC34,100 M Butterfly,SCM,M,55-59,1:58.60,DEVIN R SHELLEY,,Huntsman World Senior Games,2025,1,P7475
+UC34,200 M Individual Medley,SCM,M,55-59,3:48.12,DEVIN R SHELLEY,,Huntsman World Senior Games,2025,1,P7475
+UC34,50 M Freestyle,SCM,M,60-64,28.04,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,100 M Freestyle,SCM,M,60-64,1:03.09,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,200 M Freestyle,SCM,M,60-64,2:24.81,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,50 M Butterfly,SCM,M,60-64,31.20,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,100 M Butterfly,SCM,M,60-64,1:14.37,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,100 M Individual Medley,SCM,M,60-64,1:13.81,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,200 M Individual Medley,SCM,M,60-64,2:45.40,Lorne Johnson,,Huntsman World Senior Games,2025,1,03D0E
+UC34,200 M Backstroke,SCM,M,65-69,2:57.36,Gerald S Treiman,,Mission Viejo Nadadores Masters Short Course Meters Meet,2025,1,0043A
+UC34,50 M Freestyle,SCM,M,70-74,54.87,Thomas H Reneer,,Huntsman World Senior Games,2025,1,0B9MR
+UC34,50 M Backstroke,SCM,M,70-74,49.13,John D Holyoake,,Huntsman World Senior Games,2025,1,JH7J7
+UC34,50 M Backstroke,SCM,M,70-74,1:13.99,Thomas H Reneer,,Huntsman World Senior Games,2025,2,0B9MR
+UC34,50 M Breaststroke,SCM,M,70-74,1:09.67,Thomas H Reneer,,Huntsman World Senior Games,2025,1,0B9MR
+UC34,50 M Freestyle,SCM,M,75-79,45.28,Paul J Sabin,,Huntsman World Senior Games,2025,1,Y6F9H
+UC34,100 M Freestyle,SCM,M,75-79,1:29.74,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,100 M Freestyle,SCM,M,75-79,1:46.62,Paul J Sabin,,Huntsman World Senior Games,2025,2,Y6F9H
+UC34,200 M Freestyle,SCM,M,75-79,3:16.44,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,400 M Freestyle,SCM,M,75-79,6:50.10,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,800 M Freestyle,SCM,M,75-79,14:47.07,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,800 M Freestyle,SCM,M,75-79,19:45.39,William  K Blackwell,,Huntsman World Senior Games,2025,2,K15BN
+UC34,1500 M Freestyle,SCM,M,75-79,26:27.49,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,1500 M Freestyle,SCM,M,75-79,37:47.74,William  K Blackwell,,Huntsman World Senior Games,2025,2,K15BN
+UC34,50 M Backstroke,SCM,M,75-79,52.85,Paul J Sabin,,Huntsman World Senior Games,2025,1,Y6F9H
+UC34,100 M Backstroke,SCM,M,75-79,2:06.39,Paul J Sabin,,Huntsman World Senior Games,2025,1,Y6F9H
+UC34,50 M Breaststroke,SCM,M,75-79,1:03.70,William  K Blackwell,,Huntsman World Senior Games,2025,1,K15BN
+UC34,100 M Breaststroke,SCM,M,75-79,1:55.41,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,100 M Breaststroke,SCM,M,75-79,2:24.64,William  K Blackwell,,Huntsman World Senior Games,2025,2,K15BN
+UC34,200 M Breaststroke,SCM,M,75-79,4:13.05,William A Cerny,,Huntsman World Senior Games,2025,1,003YW
+UC34,200 M Breaststroke,SCM,M,75-79,5:08.71,William  K Blackwell,,Huntsman World Senior Games,2025,2,K15BN
+UTAH,50 M Freestyle,SCM,W,60-64,1:15.37,Linda M Wright,,Huntsman World Senior Games,2025,1,0AP52
+UTAH,50 M Breaststroke,SCM,W,60-64,1:14.87,Linda M Wright,,Huntsman World Senior Games,2025,1,0AP52
+UTAH,200 M Individual Medley,SCM,W,60-64,5:59.56,Linda M Wright,,Huntsman World Senior Games,2025,1,0AP52
+UTAH,50 M Freestyle,SCM,W,75-79,49.45,Charlene M Ashworth,,Huntsman World Senior Games,2025,1,06EA7
+UTAH,100 M Freestyle,SCM,W,75-79,1:48.71,Charlene M Ashworth,,Huntsman World Senior Games,2025,1,06EA7
+UTAH,50 M Breaststroke,SCM,W,75-79,1:09.65,Charlene M Ashworth,,Huntsman World Senior Games,2025,1,06EA7
+UTAH,100 M Breaststroke,SCM,W,75-79,2:32.84,Charlene M Ashworth,,Huntsman World Senior Games,2025,1,06EA7
+UTAH,100 M Freestyle,SCM,M,70-74,1:19.62,Bud Sadler,,Huntsman World Senior Games,2025,1,06C4A
+UTAH,400 M Freestyle,SCM,M,70-74,8:32.42,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,800 M Freestyle,SCM,M,70-74,18:37.42,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,1500 M Freestyle,SCM,M,70-74,33:51.52,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,50 M Backstroke,SCM,M,70-74,51.19,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,100 M Backstroke,SCM,M,70-74,1:53.40,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,200 M Backstroke,SCM,M,70-74,3:56.75,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,50 M Breaststroke,SCM,M,70-74,56.71,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,100 M Breaststroke,SCM,M,70-74,2:10.35,Kevin B Johnson,,Huntsman World Senior Games,2025,1,003YP
+UTAH,50 M Breaststroke,SCM,M,85-89,1:49.18,Ulrich Scholz,,Huntsman World Senior Games,2025,1,JWERN
+UTAH,100 M Breaststroke,SCM,M,85-89,4:39.95,Ulrich Scholz,,Huntsman World Senior Games,2025,1,JWERN
+UTAH,200 M Breaststroke,SCM,M,85-89,10:52.30,Ulrich Scholz,,Huntsman World Senior Games,2025,1,JWERN
+WSG,50 M Freestyle,SCM,W,50-54,32.29,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,50 M Freestyle,SCM,W,50-54,34.36,Heather L Freeman,,Huntsman World Senior Games,2025,2,07PDT
+WSG,50 M Freestyle,SCM,W,50-54,48.32,Jennifer D Hancock,,Huntsman World Senior Games,2025,3,H33B1
+WSG,100 M Freestyle,SCM,W,50-54,1:11.92,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,100 M Freestyle,SCM,W,50-54,1:18.32,Heather L Freeman,,Huntsman World Senior Games,2025,2,07PDT
+WSG,100 M Freestyle,SCM,W,50-54,2:05.09,Jennifer D Hancock,,Huntsman World Senior Games,2025,3,H33B1
+WSG,200 M Freestyle,SCM,W,50-54,2:54.50,Heather L Freeman,,Huntsman World Senior Games,2025,1,07PDT
+WSG,1500 M Freestyle,SCM,W,50-54,24:58.70,Heather L Freeman,,Huntsman World Senior Games,2025,1,07PDT
+WSG,50 M Backstroke,SCM,W,50-54,38.61,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,50 M Backstroke,SCM,W,50-54,43.81,Heather L Freeman,,Huntsman World Senior Games,2025,2,07PDT
+WSG,100 M Backstroke,SCM,W,50-54,1:21.27,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,100 M Backstroke,SCM,W,50-54,1:35.16,Heather L Freeman,,Huntsman World Senior Games,2025,2,07PDT
+WSG,200 M Backstroke,SCM,W,50-54,2:58.72,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,200 M Backstroke,SCM,W,50-54,3:30.79,Heather L Freeman,,Huntsman World Senior Games,2025,2,07PDT
+WSG,50 M Breaststroke,SCM,W,50-54,42.46,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,50 M Breaststroke,SCM,W,50-54,57.57,Jennifer D Hancock,,Huntsman World Senior Games,2025,2,H33B1
+WSG,100 M Breaststroke,SCM,W,50-54,1:35.65,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,200 M Breaststroke,SCM,W,50-54,3:33.70,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,50 M Butterfly,SCM,W,50-54,57.55,Debora L Smith,,Huntsman World Senior Games,2025,1,VVMBG
+WSG,100 M Individual Medley,SCM,W,50-54,1:23.03,Christine A Hansler,,Huntsman World Senior Games,2025,1,EZ36G
+WSG,50 M Freestyle,SCM,W,55-59,36.69,Miriam Aiazzi,,Huntsman World Senior Games,2025,1,DBRBH
+WSG,50 M Freestyle,SCM,W,55-59,47.73,Joanne P Bentley,,Huntsman World Senior Games,2025,2,HHD8J
+WSG,100 M Freestyle,SCM,W,55-59,1:21.62,Miriam Aiazzi,,Huntsman World Senior Games,2025,1,DBRBH
+WSG,200 M Freestyle,SCM,W,55-59,3:06.45,Miriam Aiazzi,,Huntsman World Senior Games,2025,1,DBRBH
+WSG,50 M Breaststroke,SCM,W,55-59,59.22,Joanne P Bentley,,Huntsman World Senior Games,2025,1,HHD8J
+WSG,100 M Freestyle,SCM,W,60-64,2:35.29,Michele Peters Liptak,,Huntsman World Senior Games,2025,1,RJXEK
+WSG,1500 M Freestyle,SCM,W,60-64,46:54.25,Andrea T Miller,,Huntsman World Senior Games,2025,1,M5C93
+WSG,100 M Backstroke,SCM,W,60-64,2:48.77,Andrea T Miller,,Huntsman World Senior Games,2025,1,M5C93
+WSG,50 M Freestyle,SCM,W,65-69,35.30,Chris Hodges,,Huntsman World Senior Games,2025,1,770RN
+WSG,50 M Freestyle,SCM,W,65-69,51.65,Gay Neibaur,,Huntsman World Senior Games,2025,2,JU7UN
+WSG,100 M Freestyle,SCM,W,65-69,1:23.03,Chris Hodges,,Huntsman World Senior Games,2025,1,770RN
+WSG,100 M Freestyle,SCM,W,65-69,1:53.07,Gay Neibaur,,Huntsman World Senior Games,2025,2,JU7UN
+WSG,200 M Freestyle,SCM,W,65-69,4:16.96,Gay Neibaur,,Huntsman World Senior Games,2025,1,JU7UN
+WSG,400 M Freestyle,SCM,W,65-69,9:12.74,Gay Neibaur,,Huntsman World Senior Games,2025,1,JU7UN
+WSG,50 M Backstroke,SCM,W,65-69,45.54,Chris Hodges,,Huntsman World Senior Games,2025,1,770RN
+WSG,50 M Backstroke,SCM,W,65-69,53.82,Gay Neibaur,,Huntsman World Senior Games,2025,2,JU7UN
+WSG,50 M Breaststroke,SCM,W,65-69,43.68,Chris Hodges,,Huntsman World Senior Games,2025,1,770RN
+WSG,50 M Breaststroke,SCM,W,65-69,1:07.62,Gay Neibaur,,Huntsman World Senior Games,2025,2,JU7UN
+WSG,100 M Breaststroke,SCM,W,65-69,1:40.72,Chris Hodges,,Huntsman World Senior Games,2025,1,770RN
+WSG,100 M Breaststroke,SCM,W,65-69,2:30.39,Gay Neibaur,,Huntsman World Senior Games,2025,2,JU7UN
+WSG,50 M Butterfly,SCM,W,65-69,41.23,Chris Hodges,,Huntsman World Senior Games,2025,1,770RN
+WSG,100 M Individual Medley,SCM,W,65-69,2:16.28,Gay Neibaur,,Huntsman World Senior Games,2025,1,JU7UN
+WSG,50 M Backstroke,SCM,W,70-74,1:42.39,karen Mann,,Huntsman World Senior Games,2025,1,A2R7G
+WSG,100 M Backstroke,SCM,W,70-74,3:26.17,karen Mann,,Huntsman World Senior Games,2025,1,A2R7G
+WSG,200 M Backstroke,SCM,W,70-74,6:59.92,karen Mann,,Huntsman World Senior Games,2025,1,A2R7G
+WSG,50 M Freestyle,SCM,W,75-79,1:11.32,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,100 M Freestyle,SCM,W,75-79,2:29.76,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,200 M Freestyle,SCM,W,75-79,5:16.57,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,400 M Freestyle,SCM,W,75-79,11:08.27,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,100 M Backstroke,SCM,W,75-79,2:54.60,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,200 M Backstroke,SCM,W,75-79,4:21.68,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,200 M Backstroke,SCM,W,75-79,6:15.84,Bertha K Bowen,,Huntsman World Senior Games,2025,2,DJF4Y
+WSG,50 M Breaststroke,SCM,W,75-79,1:35.44,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,100 M Breaststroke,SCM,W,75-79,3:18.53,Bertha K Bowen,,Huntsman World Senior Games,2025,1,DJF4Y
+WSG,50 M Butterfly,SCM,W,75-79,52.91,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,100 M Butterfly,SCM,W,75-79,2:12.32,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,200 M Butterfly,SCM,W,75-79,4:55.92,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,100 M Individual Medley,SCM,W,75-79,2:00.14,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,200 M Individual Medley,SCM,W,75-79,4:23.74,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,400 M Individual Medley,SCM,W,75-79,9:53.14,Rosemary Sexton,,Huntsman World Senior Games,2025,1,SJWP6
+WSG,400 M Freestyle,SCM,W,80-84,14:23.00,Heather H Rollingson,,Huntsman World Senior Games,2025,1,9F0NM
+WSG,50 M Freestyle,SCM,W,85-89,56.67,Verna B Nelson,,Huntsman World Senior Games,2025,1,WJPNE
+WSG,50 M Freestyle,SCM,W,85-89,1:41.59,Eva M Fry,,Huntsman World Senior Games,2025,2,9PWBJ
+WSG,100 M Freestyle,SCM,W,85-89,3:47.58,Eva M Fry,,Huntsman World Senior Games,2025,1,9PWBJ
+WSG,50 M Backstroke,SCM,W,85-89,1:12.58,Verna B Nelson,,Huntsman World Senior Games,2025,1,WJPNE
+WSG,50 M Backstroke,SCM,W,85-89,2:11.47,Eva M Fry,,Huntsman World Senior Games,2025,2,9PWBJ
+WSG,50 M Breaststroke,SCM,W,85-89,1:08.32,Verna B Nelson,,Huntsman World Senior Games,2025,1,WJPNE
+WSG,100 M Breaststroke,SCM,W,85-89,2:40.29,Verna B Nelson,,Huntsman World Senior Games,2025,1,WJPNE
+WSG,100 M Freestyle,SCM,M,50-54,1:30.89,Jon K Hansen,,Huntsman World Senior Games,2025,1,K04J7
+WSG,200 M Freestyle,SCM,M,50-54,4:17.60,Shannon J Adam,,Huntsman World Senior Games,2025,1,TPJE5
+WSG,800 M Freestyle,SCM,M,50-54,19:27.96,Shannon J Adam,,Huntsman World Senior Games,2025,1,TPJE5
+WSG,100 M Individual Medley,SCM,M,50-54,1:48.71,Jon K Hansen,,Huntsman World Senior Games,2025,1,K04J7
+WSG,50 M Freestyle,SCM,M,55-59,27.46,Derek P Robinson,,Huntsman World Senior Games,2025,1,03BAV
+WSG,50 M Freestyle,SCM,M,55-59,33.29,Chris S Meservey,,Huntsman World Senior Games,2025,2,03B7U
+WSG,100 M Freestyle,SCM,M,55-59,1:15.13,Chris S Meservey,,Huntsman World Senior Games,2025,1,03B7U
+WSG,50 M Backstroke,SCM,M,55-59,31.01,Derek P Robinson,,Huntsman World Senior Games,2025,1,03BAV
+WSG,100 M Backstroke,SCM,M,55-59,1:33.07,Chris S Meservey,,Huntsman World Senior Games,2025,1,03B7U
+WSG,50 M Breaststroke,SCM,M,55-59,34.97,Derek P Robinson,,Huntsman World Senior Games,2025,1,03BAV
+WSG,50 M Breaststroke,SCM,M,55-59,46.33,Chris S Meservey,,Huntsman World Senior Games,2025,2,03B7U
+WSG,200 M Breaststroke,SCM,M,55-59,3:39.28,Chris S Meservey,,Huntsman World Senior Games,2025,1,03B7U
+WSG,50 M Butterfly,SCM,M,55-59,28.82,Derek P Robinson,,Huntsman World Senior Games,2025,1,03BAV
+WSG,50 M Butterfly,SCM,M,55-59,40.69,Chris S Meservey,,Huntsman World Senior Games,2025,2,03B7U
+WSG,100 M Butterfly,SCM,M,55-59,1:07.13,Derek P Robinson,,Huntsman World Senior Games,2025,1,03BAV
+WSG,100 M Butterfly,SCM,M,55-59,1:40.89,Chris S Meservey,,Huntsman World Senior Games,2025,2,03B7U
+WSG,100 M Individual Medley,SCM,M,55-59,1:10.43,Derek P Robinson,,Huntsman World Senior Games,2025,1,03BAV
+WSG,100 M Individual Medley,SCM,M,55-59,1:28.82,Chris S Meservey,,Huntsman World Senior Games,2025,2,03B7U
+WSG,200 M Individual Medley,SCM,M,55-59,3:13.28,Chris S Meservey,,Huntsman World Senior Games,2025,1,03B7U
+WSG,50 M Freestyle,SCM,M,60-64,31.81,John S Pennington,,Huntsman World Senior Games,2025,1,G95WU
+WSG,50 M Freestyle,SCM,M,60-64,36.49,Michael Fox,,Huntsman World Senior Games,2025,2,WETTD
+WSG,50 M Freestyle,SCM,M,60-64,36.81,scott G Scoville,,Huntsman World Senior Games,2025,3,XSZ3J
+WSG,100 M Freestyle,SCM,M,60-64,1:21.82,scott G Scoville,,Huntsman World Senior Games,2025,1,XSZ3J
+WSG,100 M Freestyle,SCM,M,60-64,1:26.26,Michael Fox,,Huntsman World Senior Games,2025,2,WETTD
+WSG,200 M Freestyle,SCM,M,60-64,3:12.22,scott G Scoville,,Huntsman World Senior Games,2025,1,XSZ3J
+WSG,200 M Freestyle,SCM,M,60-64,3:30.46,Michael Fox,,Huntsman World Senior Games,2025,2,WETTD
+WSG,400 M Freestyle,SCM,M,60-64,6:56.97,Richard D England,,Huntsman World Senior Games,2025,1,UC9S2
+WSG,400 M Freestyle,SCM,M,60-64,7:54.30,Michael Fox,,Huntsman World Senior Games,2025,2,WETTD
+WSG,800 M Freestyle,SCM,M,60-64,15:00.54,Richard D England,,Huntsman World Senior Games,2025,1,UC9S2
+WSG,800 M Freestyle,SCM,M,60-64,17:15.31,Jeff F Shmoorkoff,,Huntsman World Senior Games,2025,2,JAJDX
+WSG,800 M Freestyle,SCM,M,60-64,23:00.23,Richard O Lopez,,Huntsman World Senior Games,2025,3,YF9Z6
+WSG,1500 M Freestyle,SCM,M,60-64,33:12.14,Jeff F Shmoorkoff,,Huntsman World Senior Games,2025,1,JAJDX
+WSG,50 M Breaststroke,SCM,M,60-64,37.06,John S Pennington,,Huntsman World Senior Games,2025,1,G95WU
+WSG,50 M Breaststroke,SCM,M,60-64,50.61,scott G Scoville,,Huntsman World Senior Games,2025,2,XSZ3J
+WSG,100 M Breaststroke,SCM,M,60-64,1:28.57,John S Pennington,,Huntsman World Senior Games,2025,1,G95WU
+WSG,100 M Breaststroke,SCM,M,60-64,1:54.05,Jeff F Shmoorkoff,,Huntsman World Senior Games,2025,2,JAJDX
+WSG,100 M Breaststroke,SCM,M,60-64,1:59.17,scott G Scoville,,Huntsman World Senior Games,2025,3,XSZ3J
+WSG,200 M Breaststroke,SCM,M,60-64,3:39.92,John S Pennington,,Huntsman World Senior Games,2025,1,G95WU
+WSG,200 M Breaststroke,SCM,M,60-64,4:14.99,scott G Scoville,,Huntsman World Senior Games,2025,2,XSZ3J
+WSG,50 M Butterfly,SCM,M,60-64,38.29,John S Pennington,,Huntsman World Senior Games,2025,1,G95WU
+WSG,100 M Individual Medley,SCM,M,60-64,1:31.91,John S Pennington,,Huntsman World Senior Games,2025,1,G95WU
+WSG,100 M Individual Medley,SCM,M,60-64,1:49.25,scott G Scoville,,Huntsman World Senior Games,2025,2,XSZ3J
+WSG,50 M Freestyle,SCM,M,65-69,31.20,Kirk J Meyer,,Huntsman World Senior Games,2025,1,1TGZ1
+WSG,50 M Freestyle,SCM,M,65-69,33.98,Brian C Bastin,,Huntsman World Senior Games,2025,2,D4P1E
+WSG,50 M Freestyle,SCM,M,65-69,40.74,Miguel  A Toral,,Huntsman World Senior Games,2025,3,7PF55
+WSG,50 M Freestyle,SCM,M,65-69,44.91,Tim McMahon,,Huntsman World Senior Games,2025,4,CSDGZ
+WSG,50 M Freestyle,SCM,M,65-69,46.77,Mike Hawkins,,Huntsman World Senior Games,2025,5,D5MNZ
+WSG,100 M Freestyle,SCM,M,65-69,1:15.41,Kirk J Meyer,,Huntsman World Senior Games,2025,1,1TGZ1
+WSG,100 M Freestyle,SCM,M,65-69,1:24.09,Brian C Bastin,,Huntsman World Senior Games,2025,2,D4P1E
+WSG,100 M Freestyle,SCM,M,65-69,1:48.83,Mike Hawkins,,Huntsman World Senior Games,2025,3,D5MNZ
+WSG,200 M Freestyle,SCM,M,65-69,4:11.57,Mike Hawkins,,Huntsman World Senior Games,2025,1,D5MNZ
+WSG,1500 M Freestyle,SCM,M,65-69,32:46.81,Miguel  A Toral,,Huntsman World Senior Games,2025,1,7PF55
+WSG,1500 M Freestyle,SCM,M,65-69,1:03:24.79,Lane E Henderson,,Huntsman World Senior Games,2025,2,0AJE6
+WSG,50 M Butterfly,SCM,M,65-69,35.89,Kirk J Meyer,,Huntsman World Senior Games,2025,1,1TGZ1
+WSG,50 M Butterfly,SCM,M,65-69,41.96,Brian C Bastin,,Huntsman World Senior Games,2025,2,D4P1E
+WSG,100 M Butterfly,SCM,M,65-69,1:28.76,Kirk J Meyer,,Huntsman World Senior Games,2025,1,1TGZ1
+WSG,200 M Butterfly,SCM,M,65-69,5:08.35,Miguel  A Toral,,Huntsman World Senior Games,2025,1,7PF55
+WSG,100 M Individual Medley,SCM,M,65-69,1:27.23,Kirk J Meyer,,Huntsman World Senior Games,2025,1,1TGZ1
+WSG,200 M Individual Medley,SCM,M,65-69,3:16.12,Kirk J Meyer,,Huntsman World Senior Games,2025,1,1TGZ1
+WSG,50 M Freestyle,SCM,M,70-74,31.29,Terry R Bergerson,,Huntsman World Senior Games,2025,1,0WX6Y
+WSG,50 M Freestyle,SCM,M,70-74,45.82,Joseph Richards,,Huntsman World Senior Games,2025,2,KGT18
+WSG,100 M Freestyle,SCM,M,70-74,1:11.29,Terry R Bergerson,,Huntsman World Senior Games,2025,1,0WX6Y
+WSG,200 M Freestyle,SCM,M,70-74,2:52.09,Terry R Bergerson,,Huntsman World Senior Games,2025,1,0WX6Y
+WSG,400 M Freestyle,SCM,M,70-74,6:29.65,Terry R Bergerson,,Huntsman World Senior Games,2025,1,0WX6Y
+WSG,400 M Freestyle,SCM,M,70-74,7:10.76,Kim  D Shiner,,Huntsman World Senior Games,2025,2,GBGAG
+WSG,800 M Freestyle,SCM,M,70-74,14:06.50,Terry R Bergerson,,Huntsman World Senior Games,2025,1,0WX6Y
+WSG,50 M Backstroke,SCM,M,70-74,43.12,Mark Braaten,,Huntsman World Senior Games,2025,1,ZX18E
+WSG,50 M Backstroke,SCM,M,70-74,59.46,Joseph Richards,,Huntsman World Senior Games,2025,2,KGT18
+WSG,100 M Backstroke,SCM,M,70-74,1:42.81,Mark Braaten,,Huntsman World Senior Games,2025,1,ZX18E
+WSG,50 M Breaststroke,SCM,M,70-74,48.94,Joseph Richards,,Huntsman World Senior Games,2025,1,KGT18
+WSG,100 M Breaststroke,SCM,M,70-74,1:49.67,Joseph Richards,,Huntsman World Senior Games,2025,1,KGT18
+WSG,200 M Breaststroke,SCM,M,70-74,4:22.45,Joseph Richards,,Huntsman World Senior Games,2025,1,KGT18
+WSG,100 M Individual Medley,SCM,M,70-74,1:48.61,Mark Braaten,,Huntsman World Senior Games,2025,1,ZX18E
+WSG,400 M Individual Medley,SCM,M,70-74,9:41.61,Kim  D Shiner,,Huntsman World Senior Games,2025,1,GBGAG
+WSG,50 M Freestyle,SCM,M,75-79,40.16,Jim Weinzettel,,Huntsman World Senior Games,2025,1,ED41C
+WSG,50 M Breaststroke,SCM,M,75-79,52.52,Jim Weinzettel,,Huntsman World Senior Games,2025,1,ED41C
+WSG,50 M Freestyle,SCM,M,80-84,39.83,John Disterdick,,Huntsman World Senior Games,2025,1,09U90
+WSG,50 M Freestyle,SCM,M,80-84,1:01.34,Ronald B Funk,,Huntsman World Senior Games,2025,2,KAMVM
+WSG,100 M Freestyle,SCM,M,80-84,1:41.57,John Disterdick,,Huntsman World Senior Games,2025,1,09U90
+WSG,200 M Freestyle,SCM,M,80-84,4:26.96,John Disterdick,,Huntsman World Senior Games,2025,1,09U90
+WSG,800 M Freestyle,SCM,M,80-84,19:46.44,John Disterdick,,Huntsman World Senior Games,2025,1,09U90
+WSG,50 M Backstroke,SCM,M,80-84,1:10.90,Dr Ron H Snipe,,Huntsman World Senior Games,2025,1,5R13H
+WSG,100 M Backstroke,SCM,M,80-84,2:40.53,Dr Ron H Snipe,,Huntsman World Senior Games,2025,1,5R13H
+WSG,200 M Backstroke,SCM,M,80-84,6:49.51,Dr Ron H Snipe,,Huntsman World Senior Games,2025,1,5R13H
+WSG,50 M Breaststroke,SCM,M,80-84,1:12.97,John Disterdick,,Huntsman World Senior Games,2025,1,09U90
+WSG,50 M Breaststroke,SCM,M,80-84,1:20.63,Ronald B Funk,,Huntsman World Senior Games,2025,2,KAMVM
+WSG,50 M Breaststroke,SCM,M,80-84,1:26.62,Dr Ron H Snipe,,Huntsman World Senior Games,2025,3,5R13H
+WSG,100 M Breaststroke,SCM,M,80-84,4:26.14,Dr Ron H Snipe,,Huntsman World Senior Games,2025,1,5R13H
+WSG,100 M Individual Medley,SCM,M,80-84,2:30.43,John Disterdick,,Huntsman World Senior Games,2025,1,09U90
+WSG,100 M Individual Medley,SCM,M,80-84,3:21.59,Dr Ron H Snipe,,Huntsman World Senior Games,2025,2,5R13H

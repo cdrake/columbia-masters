@@ -1,0 +1,6988 @@
+{
+  "generated": "2026-11-04",
+  "lmscs": {
+    "3": {
+      "name": "Adirondack",
+      "clubs": {
+        "ADMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BLKDG": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BLUWV": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ECMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC03": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "USAMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VENT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "56": {
+      "name": "Alaska",
+      "clubs": {
+        "AKMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SFA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC56": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "11": {
+      "name": "Allegheny Mountain",
+      "clubs": {
+        "CRAMP": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FFH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HDMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MLAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NHA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "Nacam": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "STEEL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TIGR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TPIT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC11": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "48": {
+      "name": "Arizona",
+      "clubs": {
+        "ARIZ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AZPV": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AZSBM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DDSA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FORDM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "HEAT": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LTFAZ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MMAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RIO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SDM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SMST": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "UC48": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "23": {
+      "name": "Arkansas",
+      "clubs": {
+        "FSM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "HAWG": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LRM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NWAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RMRM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SEACY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC23": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "32": {
+      "name": "Colorado",
+      "clubs": {
+        "AACM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CPRWY": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "DAWGS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DUMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "EACO": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LOCOM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "OPA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PPAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSFBG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RMRM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SOPR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC32": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "USAFA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "WMSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "5": {
+      "name": "Connecticut",
+      "clubs": {
+        "CONN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GYMM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RAC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "UC05": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WFYO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "8": {
+      "name": "Delaware Valley",
+      "clubs": {
+        "1776": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ACMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BYMCA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CAP": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CBRY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DCCSM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FCA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FCR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FINSP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HACM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HACMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HAY": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "JWM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LASH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LEBY": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LTKOP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PENN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PV": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "RACMA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SCMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SFYDE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SJ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SVY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC08": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WASC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WBP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YWMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YYMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "14": {
+      "name": "Florida",
+      "clubs": {
+        "4SWM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AQNT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ATAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AVSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BDO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BGJCC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BMAC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BOLTS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BSS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FACT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FFST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "FLA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FLCNS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GCST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GTSA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HLJ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "JCM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "JWS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LHM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LMSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MELB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NFS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PALB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PCSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SARS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCCS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SFYH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SHARK": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SLAP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SPM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SRA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SRQM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "STRT": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SWAG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWHYM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SWIM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWOUT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SYMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "T2NM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TCA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TEAM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TMC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TMSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TTM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TYSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC14": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VMAS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WAHOO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WFLM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "WVMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YCFM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "50": {
+      "name": "Florida Gold Coast",
+      "clubs": {
+        "AZFL": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CSMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DIA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DSC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FAA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GOLD": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GRSC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "HAFL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KWMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "L4S": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LHPYC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MCDA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MSAC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PAQM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PBM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SFTL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWELT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TSMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC50": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "45": {
+      "name": "Georgia",
+      "clubs": {
+        "ARP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ART": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ATLY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AWYY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CBF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CPAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DYNA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GAJA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GMAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HURM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "KSUM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LTMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NAUT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NOPES": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NSANM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SAVMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC45": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UNG": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        }
+      }
+    },
+    "25": {
+      "name": "Gulf",
+      "clubs": {
+        "BATS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BTA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CFK": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CFSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "COOG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DADS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ESA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "ETEX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FBMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FCST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FRSTM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HOUST": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "KAMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MACA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MOB": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NOCHM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "RICE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SHAC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SPAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SSSMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TASCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TEST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TFY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC25": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "39": {
+      "name": "Hawaii",
+      "clubs": {
+        "BLOC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HAQ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HIMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HOKU": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "ISCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KMSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "KONA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MMSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OCMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC39": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UHM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "21": {
+      "name": "Illinois",
+      "clubs": {
+        "ABM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CCGMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "IM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LIB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LSLP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LZU": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "M3A": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MSQC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NBKLT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OBMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ODMST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SAMKM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCAM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SFY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWED": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC21": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "16": {
+      "name": "Indiana",
+      "clubs": {
+        "COLE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CON": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CSIN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DLMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DOC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DONM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "ELK": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FSAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FWYS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HPX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "INDY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ISWIM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LAAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NAST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RCME": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWIN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "THT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC16": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VALPM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ZAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "35": {
+      "name": "Inland Northwest",
+      "clubs": {
+        "CWUSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "EM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "INAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LCNM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MRA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "STRG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TCAS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC35": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "40": {
+      "name": "Iowa",
+      "clubs": {
+        "AMAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DASH": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DSMY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DST": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FLAME": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "IAMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ICE": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LTIAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC40": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "41": {
+      "name": "Kentucky",
+      "clubs": {
+        "SKY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC41": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UKCS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        }
+      }
+    },
+    "18": {
+      "name": "Lake Erie",
+      "clubs": {
+        "CAQT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MAJCC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MCAQ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NCLE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OHAAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RAZR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC18": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "9": {
+      "name": "Maryland",
+      "clubs": {
+        "4MSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "AAA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ACSS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ASD": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BBP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CMYM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "COLU": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CRAB": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "DAMD": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HUH": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MARY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MBKM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MERR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PEAK": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "QACAP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TCYS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC09": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WTC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        }
+      }
+    },
+    "6": {
+      "name": "Metropolitan",
+      "clubs": {
+        "AGUA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BCTM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BURN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CHEL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CTRI": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "EEM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "EXMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FREE": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "FRNY": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HVD": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "IA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LICY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "METR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NYAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NYCH": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PATZ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PINE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PMSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "QNS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "REDT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SEAW": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TDALY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TNYA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TRDNT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC06": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UN": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "YM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "19": {
+      "name": "Michigan",
+      "clubs": {
+        "MICH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MINQX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC19": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "30": {
+      "name": "Minnesota",
+      "clubs": {
+        "BSF": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HAST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ISMT": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LTMN": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LTSWM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MAKO": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MINN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NORT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RFSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SEMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "STCSM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "STMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC30": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UMDC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UMDCS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "28": {
+      "name": "Missouri Valley",
+      "clubs": {
+        "CS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "ESCC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "FTLL": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LMAO": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MOVY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC28": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "31": {
+      "name": "Montana",
+      "clubs": {
+        "BOZE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BSMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC31": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "29": {
+      "name": "Nebraska",
+      "clubs": {
+        "BTAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CGCC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FASTM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HTSC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LMAO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OMAH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCSCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SYDM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC29": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "2": {
+      "name": "New England",
+      "clubs": {
+        "CCBAR": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DCAC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "EMM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GBM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GYM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HOLY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JCCS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KFAC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LIFE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LRSCM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MESC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NBPB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NEM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NMST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NWM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SCIU": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SFD": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SHSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC02": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WYST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "7": {
+      "name": "New Jersey",
+      "clubs": {
+        "GSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JACM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JAM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "JCMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LTMTL": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MAY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NEM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "OCY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PAA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RBAY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RY": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SCYM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCYST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC07": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VHL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WMYM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "XCL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YGMC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "42": {
+      "name": "New Mexico",
+      "clubs": {
+        "ACM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BEAST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CAQM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CUDAS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FCAT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LOBO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NMMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RAACM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RGSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ROGUE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCMSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "TAOSM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC42": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "4": {
+      "name": "Niagara",
+      "clubs": {
+        "AYST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BUMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CDGA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FAIR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GRAYS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "GVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "IYMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NAZ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NIAG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NICK": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ROCH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SKAN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "STAQ": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "UC04": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YCNY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "13": {
+      "name": "North Carolina",
+      "clubs": {
+        "AQUA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "ARCM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BBAR": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BBARS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "DUKEM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "HFT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MORM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NCMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PINN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PMW": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "QCDM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC13": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "USAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YOBX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "52": {
+      "name": "North Dakota",
+      "clubs": {
+        "DKTA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC52": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "26": {
+      "name": "North Texas",
+      "clubs": {
+        "ABI": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CWTWN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DTY": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FAST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JMMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MARS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "O2": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PAMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PCAT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RIDG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TFAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TNOW": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC26": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "17": {
+      "name": "Ohio",
+      "clubs": {
+        "BGSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BGSU": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BSCOH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BST": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CBUSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CFY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "COAS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DAS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DORC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KENM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LTDUB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MCF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MHSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NAT": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "OHSP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PCY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RUSH": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SWIMJ": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SWOM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SYL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TCSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UAR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC17": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "27": {
+      "name": "Oklahoma",
+      "clubs": {
+        "AESC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KMMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OKMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TRIDM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TULS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC27": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "37": {
+      "name": "Oregon",
+      "clubs": {
+        "BEAST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "OREG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWMTK": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TEAMM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TIDES": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC37": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "22": {
+      "name": "Ozark",
+      "clubs": {
+        "CSPM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ROCKR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SLAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC22": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UCSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ZILA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ZILLA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "38": {
+      "name": "Pacific",
+      "clubs": {
+        "AAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ALB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ALMA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "AQUM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BAMF": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BAYCL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BHAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CARS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CCA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CHICO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CLOV": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CMAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CRUZ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CSTS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CUDA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DERM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "DHM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "EBAT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ECAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ECYM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "FBSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FDM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FGST": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "FREM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GFDM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GOOG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HTUB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JAMM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LGSR": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LNRS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LOM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MAAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MAQ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MELO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MEMO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MICH": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NBA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NCA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OAK": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OCCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PALO": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "PARKT": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "PCCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSK": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PSWIM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "QSS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RAMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RHMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RPM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RWR": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SACM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SACMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SERC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SFGG": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SJCF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SJSU": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SLTM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SMAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SMM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SNM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SON": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SRM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SRVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "STAN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SVSS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SYSM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "TAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TBOOM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "TCAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TEME": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TOC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TSUN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TVAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC38": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UCSF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "USF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VACA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "VJO": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "WCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WGM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WINE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WOOD": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YPAC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        }
+      }
+    },
+    "36": {
+      "name": "Pacific Northwest",
+      "clubs": {
+        "BWAQ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "IMST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "OMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "OSTM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PASC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ROCK": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RTB": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "TXLA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC36": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WWU": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "10": {
+      "name": "Potomac Valley",
+      "clubs": {
+        "ALEX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ANCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ARMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AXOL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CEC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "DCAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DCRP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DCWW": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GERM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GMUP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HACCM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "L4S": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MASH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NAMI": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "NCAP": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PMM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "RMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SDS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SFAF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "STJS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TERR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC09": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC10": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC12": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "WEA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "44": {
+      "name": "San Diego - Imperial",
+      "clubs": {
+        "HSAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OCSMC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "PLUNJ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RAQ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SBSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SDSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SOWS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC44": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WIND": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "59": {
+      "name": "Snake River",
+      "clubs": {
+        "SASR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SAWS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC59": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "55": {
+      "name": "South Carolina",
+      "clubs": {
+        "COLM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GSMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LOCO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PALM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SCHH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SMRT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC55": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UP": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        }
+      }
+    },
+    "54": {
+      "name": "South Dakota",
+      "clubs": {
+        "RMRM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SDPM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC54": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VAMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "43": {
+      "name": "South Texas",
+      "clubs": {
+        "AAAA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "AAMAH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AARG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ACAMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "ASC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "BCAA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CTS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DJCCM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "GTX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HCAM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "HOT": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LSCU": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MOSA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "MOST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NBM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NBTX": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "NITR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "RGMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SOCK": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TIKI": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "TTEX": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TW": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TXLA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC43": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WHAC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "WLOO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "15": {
+      "name": "Southeastern",
+      "clubs": {
+        "AMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ARC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ATMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CAMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CAT5": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "CMSA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "COAST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CTMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "ENSW": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ESMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FCMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "GCPS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HUNT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JAC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "JMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KOWS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LFMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LPM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LTMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MASC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MATT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MTM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MTSC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "NASH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PCST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSLM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SWAN": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "TNAQ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC15": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "XCEL": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YOMC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "24": {
+      "name": "Southern",
+      "clubs": {
+        "CGMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CREEK": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "JAMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PACM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "RVRAT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SLST": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SWMT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC24": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "33": {
+      "name": "Southern Pacific",
+      "clubs": {
+        "AMD": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "ATCM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BEAV": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BRC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CANY": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CCAM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CCAQ": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CLMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CMAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CROC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CTM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CTMA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CVMM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DDM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "DOGZ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DOT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "DSST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "EQX": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "FASWM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FLOW": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FMT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "GRA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HSAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ISM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KMAN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LAPS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LASC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LBG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LVBN": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "LVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MLIBU": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "MVN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MYST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NOVA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OJAI": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OREG": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "PCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PHINS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "PSMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PTRT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "RAA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RCSAV": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RIPT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RMDA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "ROSE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SAMO": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SBM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCAC": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SCAQ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SCVST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SDA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SLOSM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SMSC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SOBA": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "SOCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SONAR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SPAR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SPP": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SWHM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "SWMLB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TAM": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "TCC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TCCMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TRB": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC33": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UCLA": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "USM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "VCM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VKNG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VLVM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WH2O": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YOCMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "34": {
+      "name": "Utah",
+      "clubs": {
+        "ACD1M": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "BWAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HAMR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HASC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "JAW": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LMMC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "MPACM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OACM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "OMAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "QUAC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SALT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SDMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TMAT": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "UC34": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "USU": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "UTAH": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WSG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "12": {
+      "name": "Virginia",
+      "clubs": {
+        "1693": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "AURA": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "BAM1": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CAMT": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "CGMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "CRIMZ": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FAFC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "FAFF": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "HRBM": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "KCM": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "L4S": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "LACG": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "LOUD": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "NCAP": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "NERD": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "NTSTY": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "PSDN": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "RRY": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "SUMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TIDE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "TRB": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "UC12": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VABR": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "VCU": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "VMST": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WCMS": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "YSRGE": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    },
+    "20": {
+      "name": "Wisconsin",
+      "clubs": {
+        "ISC": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "PACMS": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "PX3": {
+          "firstYear": 2026,
+          "lastYear": 2026,
+          "years": [
+            2026
+          ]
+        },
+        "RWMS": {
+          "firstYear": 2025,
+          "lastYear": 2025,
+          "years": [
+            2025
+          ]
+        },
+        "UC20": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        },
+        "WISC": {
+          "firstYear": 2025,
+          "lastYear": 2026,
+          "years": [
+            2025,
+            2026
+          ]
+        }
+      }
+    }
+  }
+}

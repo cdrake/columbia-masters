@@ -119,6 +119,14 @@ function navLinks(t: Tenant, page: Page): string {
     const current = page.slug === "swimmers" ? ' aria-current="page"' : "";
     items.push(`<li><a href="/swimmers/"${current}>Swimmers</a></li>`);
   }
+  // A standalone /workouts/ page (tenants/<slug>/public/workouts/) gets a menu link,
+  // unless a home section already links to it (the club "classes" section does).
+  const homeSections = new Set(
+    visibleBlocks(t.pages[0]).flatMap((b) => (b.type === "section" ? [b.id as string] : []))
+  );
+  if (!homeSections.has("classes") && fs.existsSync(path.join(t.publicDir, "workouts", "index.html"))) {
+    items.push(`<li><a href="/workouts/">Workouts</a></li>`);
+  }
   items.push(`<li><a href="${base}#contact">Contact</a></li>`);
   return items.join("\n          ");
 }

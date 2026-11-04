@@ -1,0 +1,779 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+WMAC,1000 Y Freestyle,SCY,W,18-24,12:49.18,Michelle M Czuprynski,,Wisconsin Masters SCY Champs,2006,1,01RNP
+WMAC,1650 Y Freestyle,SCY,W,18-24,21:17.04,Michelle M Czuprynski,,Wisconsin Masters SCY Champs,2006,1,01RNP
+WMAC,50 Y Backstroke,SCY,W,18-24,34.20,Michelle M Czuprynski,,Wisconsin Masters SCY Champs,2006,1,01RNP
+WMAC,50 Y Breaststroke,SCY,W,18-24,34.58,Jessica A Diel,,Wisconsin Masters Oconomowoc Meet,2006,1,01RGY
+WMAC,100 Y Breaststroke,SCY,W,18-24,1:14.88,Jessica A Diel,,Wisconsin Masters Oconomowoc Meet,2006,1,01RGY
+WMAC,50 Y Butterfly,SCY,W,18-24,28.37,Jessica A Diel,,Wisconsin Masters Oconomowoc Meet,2006,1,01RGY
+WMAC,50 Y Butterfly,SCY,W,18-24,30.24,Michelle M Czuprynski,,Wisconsin Masters SCY Champs,2006,2,01RNP
+WMAC,100 Y Butterfly,SCY,W,18-24,1:04.52,Jessica A Diel,,Wisconsin Masters Oconomowoc Meet,2006,1,01RGY
+WMAC,100 Y Individual Medley,SCY,W,18-24,1:10.98,Michelle M Czuprynski,,Wisconsin Masters SCY Champs,2006,1,01RNP
+WMAC,200 Y Individual Medley,SCY,W,18-24,2:26.03,Jessica A Diel,,Wisconsin Masters Oconomowoc Meet,2006,1,01RGY
+WMAC,50 Y Freestyle,SCY,W,25-29,27.26,Sarah M Schneider,,Wisconsin Masters Oconomowoc Meet,2006,1,03A87
+WMAC,50 Y Freestyle,SCY,W,25-29,27.30,Kimberly J Von During,,Wisconsin Masters Short Course,2006,2,01RUJ
+WMAC,50 Y Freestyle,SCY,W,25-29,28.59,Erin E Schneider,,Wisconsin Masters Short Course,2006,3,01RM3
+WMAC,50 Y Freestyle,SCY,W,25-29,38.97,Kelly A Neveln,,Wisconsin Masters Short Course,2006,4,01RPA
+WMAC,50 Y Freestyle,SCY,W,25-29,39.95,Melinda R Mulryan-Gehin,,Wisconsin Masters Short Course,2006,5,01RUT
+WMAC,100 Y Freestyle,SCY,W,25-29,59.49,Kimberly J Von During,,Wisconsin Masters Short Course,2006,1,01RUJ
+WMAC,100 Y Freestyle,SCY,W,25-29,1:06.25,Mindy E Seidler,,Wisconsin Masters Oconomowoc Meet,2006,2,01R8S
+WMAC,100 Y Freestyle,SCY,W,25-29,1:07.26,Aubrey L Mangi,,Wisconsin Masters SCY Champs,2006,3,01RNN
+WMAC,100 Y Freestyle,SCY,W,25-29,1:13.76,Jennifer C Kuehl,,Madison East YMCA Short Course Meet,2006,4,01RVE
+WMAC,100 Y Freestyle,SCY,W,25-29,1:33.43,Melinda R Mulryan-Gehin,,Wisconsin Masters Short Course,2006,5,01RUT
+WMAC,200 Y Freestyle,SCY,W,25-29,2:06.93,Kristen LeFevre,,Madison East YMCA Short Course Meet,2006,1,01RFU
+WMAC,200 Y Freestyle,SCY,W,25-29,2:08.73,Jessica A Diel,,Wisconsin Masters SCY Champs,2006,2,01RGY
+WMAC,200 Y Freestyle,SCY,W,25-29,2:22.28,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,3,01R8S
+WMAC,200 Y Freestyle,SCY,W,25-29,3:39.40,Melinda R Mulryan-Gehin,,Madison East YMCA Short Course Meet,2006,4,01RUT
+WMAC,500 Y Freestyle,SCY,W,25-29,5:37.27,Kristen LeFevre,,Madison East YMCA Short Course Meet,2006,1,01RFU
+WMAC,500 Y Freestyle,SCY,W,25-29,6:18.73,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,2,01R8S
+WMAC,500 Y Freestyle,SCY,W,25-29,9:50.63,Melinda R Mulryan-Gehin,,Wisconsin Masters Short Course,2006,3,01RUT
+WMAC,1000 Y Freestyle,SCY,W,25-29,12:36.60,Stacey L Kiefer,,Wisconsin Masters SCY Champs,2006,1,01RAS
+WMAC,1000 Y Freestyle,SCY,W,25-29,19:46.85,Melinda R Mulryan-Gehin,,Wisconsin Masters Short Course,2006,2,01RUT
+WMAC,1650 Y Freestyle,SCY,W,25-29,20:26.92,Stacey L Kiefer,,2006 USMS Short Course Nationals,2006,1,01RAS
+WMAC,50 Y Backstroke,SCY,W,25-29,31.74,Kimberly J Von During,,Wisconsin Masters Short Course,2006,1,01RUJ
+WMAC,50 Y Backstroke,SCY,W,25-29,32.99,Sarah M Schneider,,Wisconsin Masters Oconomowoc Meet,2006,2,03A87
+WMAC,50 Y Backstroke,SCY,W,25-29,34.62,Chris S Stich,,2006 USMS Short Course Nationals,2006,3,01RS4
+WMAC,50 Y Backstroke,SCY,W,25-29,36.55,Aubrey L Mangi,,Wisconsin Masters SCY Champs,2006,4,01RNN
+WMAC,50 Y Backstroke,SCY,W,25-29,54.54,Melinda R Mulryan-Gehin,,Wisconsin Masters Short Course,2006,5,01RUT
+WMAC,100 Y Backstroke,SCY,W,25-29,1:14.24,Chris S Stich,,2006 USMS Short Course Nationals,2006,1,01RS4
+WMAC,200 Y Backstroke,SCY,W,25-29,2:30.93,Kristen LeFevre,,Madison East YMCA Short Course Meet,2006,1,01RFU
+WMAC,50 Y Breaststroke,SCY,W,25-29,34.06,Sarah M Schneider,,Wisconsin Masters Oconomowoc Meet,2006,1,03A87
+WMAC,50 Y Breaststroke,SCY,W,25-29,34.61,Erin Detwiler,,Wisconsin Masters Short Course,2006,2,02WPG
+WMAC,50 Y Breaststroke,SCY,W,25-29,36.94,Stacey L Kiefer,,Wisconsin Masters Short Course,2006,3,01RAS
+WMAC,50 Y Breaststroke,SCY,W,25-29,38.16,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,4,01R8S
+WMAC,50 Y Breaststroke,SCY,W,25-29,48.50,Kelly A Neveln,,Wisconsin Masters Short Course,2006,5,01RPA
+WMAC,100 Y Breaststroke,SCY,W,25-29,1:14.42,Jessica A Diel,,2006 USMS Short Course Nationals,2006,1,01RGY
+WMAC,100 Y Breaststroke,SCY,W,25-29,1:21.61,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,2,01R8S
+WMAC,200 Y Breaststroke,SCY,W,25-29,2:40.62,Jessica A Diel,,2006 USMS Short Course Nationals,2006,1,01RGY
+WMAC,200 Y Breaststroke,SCY,W,25-29,2:46.09,Stacey L Kiefer,,2006 USMS Short Course Nationals,2006,2,01RAS
+WMAC,50 Y Butterfly,SCY,W,25-29,28.35,Jessica A Diel,,2006 USMS Short Course Nationals,2006,1,01RGY
+WMAC,50 Y Butterfly,SCY,W,25-29,29.95,Sarah M Schneider,,Wisconsin Masters Oconomowoc Meet,2006,2,03A87
+WMAC,50 Y Butterfly,SCY,W,25-29,31.19,Stacey L Kiefer,,Wisconsin Masters Short Course,2006,3,01RAS
+WMAC,50 Y Butterfly,SCY,W,25-29,31.22,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,4,01R8S
+WMAC,50 Y Butterfly,SCY,W,25-29,31.37,Erin E Schneider,,Wisconsin Masters Short Course,2006,5,01RM3
+WMAC,50 Y Butterfly,SCY,W,25-29,32.11,Erin Detwiler,,Wisconsin Masters Short Course,2006,6,02WPG
+WMAC,50 Y Butterfly,SCY,W,25-29,46.83,Kelly A Neveln,,Madison East YMCA Short Course Meet,2006,7,01RPA
+WMAC,100 Y Butterfly,SCY,W,25-29,1:02.62,Jessica A Diel,,2006 USMS Short Course Nationals,2006,1,01RGY
+WMAC,100 Y Butterfly,SCY,W,25-29,1:10.64,Stacey L Kiefer,,Wisconsin Masters SCY Champs,2006,2,01RAS
+WMAC,100 Y Butterfly,SCY,W,25-29,1:12.46,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,3,01R8S
+WMAC,100 Y Butterfly,SCY,W,25-29,1:47.85,Kelly A Neveln,,Madison East YMCA Short Course Meet,2006,4,01RPA
+WMAC,200 Y Butterfly,SCY,W,25-29,2:31.47,Erin E Schneider,,Wisconsin Masters Short Course,2006,1,01RM3
+WMAC,200 Y Butterfly,SCY,W,25-29,2:34.84,Jessica A Diel,,Wisconsin Masters SCY Champs,2006,2,01RGY
+WMAC,100 Y Individual Medley,SCY,W,25-29,1:08.37,Kimberly J Von During,,Wisconsin Masters Short Course,2006,1,01RUJ
+WMAC,100 Y Individual Medley,SCY,W,25-29,1:09.26,Stacey L Kiefer,,Wisconsin Masters SCY Champs,2006,2,01RAS
+WMAC,100 Y Individual Medley,SCY,W,25-29,1:09.78,Erin Detwiler,,Wisconsin Masters Short Course,2006,3,02WPG
+WMAC,100 Y Individual Medley,SCY,W,25-29,1:12.57,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,4,01R8S
+WMAC,100 Y Individual Medley,SCY,W,25-29,1:41.26,Kelly A Neveln,,Wisconsin Masters Short Course,2006,5,01RPA
+WMAC,200 Y Individual Medley,SCY,W,25-29,2:22.98,Jessica A Diel,,2006 USMS Short Course Nationals,2006,1,01RGY
+WMAC,200 Y Individual Medley,SCY,W,25-29,2:28.67,Stacey L Kiefer,,Wisconsin Masters SCY Champs,2006,2,01RAS
+WMAC,200 Y Individual Medley,SCY,W,25-29,2:36.01,Mindy E Seidler,,2006 YMCA Masters Nationals at ISHOF SCY,2006,3,01R8S
+WMAC,200 Y Individual Medley,SCY,W,25-29,3:52.71,Kelly A Neveln,,Madison East YMCA Short Course Meet,2006,4,01RPA
+WMAC,400 Y Individual Medley,SCY,W,25-29,5:15.03,Jessica A Diel,,Wisconsin Masters SCY Champs,2006,1,01RGY
+WMAC,400 Y Individual Medley,SCY,W,25-29,5:19.70,Stacey L Kiefer,,2006 USMS Short Course Nationals,2006,2,01RAS
+WMAC,50 Y Freestyle,SCY,W,30-34,25.34,Trina R Schaetz,,2006 USMS Short Course Nationals,2006,1,01RJ1
+WMAC,50 Y Freestyle,SCY,W,30-34,27.63,Krista R Van Enkenvoort,,2006 USMS Short Course Nationals,2006,2,01R8Y
+WMAC,50 Y Freestyle,SCY,W,30-34,28.91,Carrie L Johnson,,2006 USMS Short Course Nationals,2006,3,01R9Y
+WMAC,50 Y Freestyle,SCY,W,30-34,33.16,Elizabeth R Folberg,,Wisconsin Masters SCY Champs,2006,4,01RVD
+WMAC,50 Y Freestyle,SCY,W,30-34,36.53,Carrie L Kostopulos,,Wisconsin Masters Short Course,2006,5,01RUG
+WMAC,100 Y Freestyle,SCY,W,30-34,56.64,Trina R Schaetz,,2006 USMS Short Course Nationals,2006,1,01RJ1
+WMAC,100 Y Freestyle,SCY,W,30-34,1:02.24,Krista R Van Enkenvoort,,2006 USMS Short Course Nationals,2006,2,01R8Y
+WMAC,100 Y Freestyle,SCY,W,30-34,1:03.32,Carrie Haberstich,,Wisconsin Masters SCY Champs,2006,3,01R9Y
+WMAC,100 Y Freestyle,SCY,W,30-34,1:11.90,Elizabeth R Folberg,,Wisconsin Masters SCY Champs,2006,4,01RVD
+WMAC,100 Y Freestyle,SCY,W,30-34,1:18.60,Carrie L Kostopulos,,Wisconsin Masters SCY Champs,2006,5,01RUG
+WMAC,200 Y Freestyle,SCY,W,30-34,2:36.15,Jayne M Wanless,,Madison East YMCA Short Course Meet,2006,1,01RJC
+WMAC,200 Y Freestyle,SCY,W,30-34,2:36.32,Elizabeth R Folberg,,Wisconsin Masters SCY Champs,2006,2,01RVD
+WMAC,200 Y Freestyle,SCY,W,30-34,3:05.38,Carrie L Kostopulos,,Wisconsin Masters SCY Champs,2006,3,01RUG
+WMAC,500 Y Freestyle,SCY,W,30-34,6:27.26,Heather L Curnutt,,Madison East YMCA Short Course Meet,2006,1,02XC5
+WMAC,500 Y Freestyle,SCY,W,30-34,8:09.85,Carrie L Kostopulos,,Wisconsin Masters SCY Champs,2006,2,01RUG
+WMAC,1000 Y Freestyle,SCY,W,30-34,13:22.45,Krista R Van Enkenvoort,,Wisconsin Masters SCY Champs,2006,1,01R8Y
+WMAC,1000 Y Freestyle,SCY,W,30-34,17:21.38,Carrie L Kostopulos,,Wisconsin Masters Short Course,2006,2,01RUG
+WMAC,1650 Y Freestyle,SCY,W,30-34,22:18.34,Krista R Van Enkenvoort,,Wisconsin Masters SCY Champs,2006,1,01R8Y
+WMAC,50 Y Backstroke,SCY,W,30-34,38.18,Jayne M Wanless,,Madison East YMCA Short Course Meet,2006,1,01RJC
+WMAC,100 Y Backstroke,SCY,W,30-34,1:35.60,Carrie L Kostopulos,,Wisconsin Masters SCY Champs,2006,1,01RUG
+WMAC,50 Y Breaststroke,SCY,W,30-34,32.58,Trina R Schaetz,,2006 USMS Short Course Nationals,2006,1,01RJ1
+WMAC,50 Y Breaststroke,SCY,W,30-34,36.68,Carrie L Johnson,,2006 USMS Short Course Nationals,2006,2,01R9Y
+WMAC,50 Y Breaststroke,SCY,W,30-34,38.37,Krista R Van Enkenvoort,,Wisconsin Masters SCY Champs,2006,3,01R8Y
+WMAC,50 Y Breaststroke,SCY,W,30-34,46.01,Elizabeth R Folberg,,Wisconsin Masters SCY Champs,2006,4,01RVD
+WMAC,100 Y Breaststroke,SCY,W,30-34,1:10.34,Trina R Schaetz,,2006 USMS Short Course Nationals,2006,1,01RJ1
+WMAC,100 Y Breaststroke,SCY,W,30-34,1:18.47,Carrie L Johnson,,2006 USMS Short Course Nationals,2006,2,01R9Y
+WMAC,100 Y Breaststroke,SCY,W,30-34,1:19.34,Heather L Curnutt,,Madison East YMCA Short Course Meet,2006,3,02XC5
+WMAC,100 Y Breaststroke,SCY,W,30-34,1:20.40,Krista R Van Enkenvoort,,2006 USMS Short Course Nationals,2006,4,01R8Y
+WMAC,200 Y Breaststroke,SCY,W,30-34,2:48.44,Carrie L Johnson,,2006 USMS Short Course Nationals,2006,1,01R9Y
+WMAC,50 Y Butterfly,SCY,W,30-34,28.39,Trina R Schaetz,,2006 USMS Short Course Nationals,2006,1,01RJ1
+WMAC,50 Y Butterfly,SCY,W,30-34,30.24,Heather L Curnutt,,Madison East YMCA Short Course Meet,2006,2,02XC5
+WMAC,50 Y Butterfly,SCY,W,30-34,31.64,Krista R Van Enkenvoort,,Wisconsin Masters SCY Champs,2006,3,01R8Y
+WMAC,50 Y Butterfly,SCY,W,30-34,34.85,Jayne M Wanless,,Madison East YMCA Short Course Meet,2006,4,01RJC
+WMAC,50 Y Butterfly,SCY,W,30-34,39.96,Elizabeth R Folberg,,Wisconsin Masters SCY Champs,2006,5,01RVD
+WMAC,100 Y Butterfly,SCY,W,30-34,1:11.34,Heather L Curnutt,,Madison East YMCA Short Course Meet,2006,1,02XC5
+WMAC,100 Y Individual Medley,SCY,W,30-34,1:10.18,Carrie L Johnson,,2006 USMS Short Course Nationals,2006,1,01R9Y
+WMAC,100 Y Individual Medley,SCY,W,30-34,1:10.77,Krista R Van Enkenvoort,,2006 USMS Short Course Nationals,2006,2,01R8Y
+WMAC,100 Y Individual Medley,SCY,W,30-34,1:29.14,Elizabeth R Folberg,,Wisconsin Masters SCY Champs,2006,3,01RVD
+WMAC,100 Y Individual Medley,SCY,W,30-34,1:31.38,Carrie L Kostopulos,,Wisconsin Masters SCY Champs,2006,4,01RUG
+WMAC,200 Y Individual Medley,SCY,W,30-34,2:33.17,Heather L Curnutt,,Madison East YMCA Short Course Meet,2006,1,02XC5
+WMAC,50 Y Freestyle,SCY,W,35-39,29.33,Nora C Settimi,,2006 USMS Short Course Nationals,2006,1,01RKU
+WMAC,50 Y Freestyle,SCY,W,35-39,31.35,Mary C Hanney,,Madison East YMCA Short Course Meet,2006,2,006H8
+WMAC,50 Y Freestyle,SCY,W,35-39,32.92,Sheri L Villani,,Wisconsin Masters SCY Champs,2006,3,01RNJ
+WMAC,50 Y Freestyle,SCY,W,35-39,33.30,Lynn S Riley,,Madison East YMCA Short Course Meet,2006,4,01RFG
+WMAC,50 Y Freestyle,SCY,W,35-39,33.52,Christine E Donlon,,Wisconsin Masters Short Course,2006,5,01RSN
+WMAC,50 Y Freestyle,SCY,W,35-39,41.64,Audrey Go,,Wisconsin Masters SCY Champs,2006,6,01R93
+WMAC,100 Y Freestyle,SCY,W,35-39,1:05.66,Nora C Settimi,,Wisconsin Masters SCY Champs,2006,1,01RKU
+WMAC,100 Y Freestyle,SCY,W,35-39,1:13.98,Lynn S Riley,,Wisconsin Masters SCY Champs,2006,2,01RFG
+WMAC,100 Y Freestyle,SCY,W,35-39,1:14.08,Christine E Donlon,,Wisconsin Masters SCY Champs,2006,3,01RSN
+WMAC,100 Y Freestyle,SCY,W,35-39,1:35.90,Audrey Go,,Wisconsin Masters SCY Champs,2006,4,01R93
+WMAC,200 Y Freestyle,SCY,W,35-39,2:27.43,Melodee A Nugent,,Wisconsin Masters SCY Champs,2006,1,01RDA
+WMAC,200 Y Freestyle,SCY,W,35-39,2:35.87,Lynn S Riley,,Wisconsin Masters SCY Champs,2006,2,01RFG
+WMAC,200 Y Freestyle,SCY,W,35-39,2:51.29,Sheri L Villani,,Wisconsin Masters SCY Champs,2006,3,01RNJ
+WMAC,500 Y Freestyle,SCY,W,35-39,6:23.76,Melodee A Nugent,,Wisconsin Masters SCY Champs,2006,1,01RDA
+WMAC,500 Y Freestyle,SCY,W,35-39,6:34.33,Mary C Hanney,,Madison East YMCA Short Course Meet,2006,2,006H8
+WMAC,500 Y Freestyle,SCY,W,35-39,7:05.43,Lynn S Riley,,Wisconsin Masters SCY Champs,2006,3,01RFG
+WMAC,1000 Y Freestyle,SCY,W,35-39,13:08.91,Melodee A Nugent,,Wisconsin Masters Short Course,2006,1,01RDA
+WMAC,1000 Y Freestyle,SCY,W,35-39,14:43.03,Lynn S Riley,,Wisconsin Masters SCY Champs,2006,2,01RFG
+WMAC,1650 Y Freestyle,SCY,W,35-39,21:51.84,Melodee A Nugent,,Wisconsin Masters SCY Champs,2006,1,01RDA
+WMAC,1650 Y Freestyle,SCY,W,35-39,24:15.87,Lynn S Riley,,Wisconsin Masters SCY Champs,2006,2,01RFG
+WMAC,50 Y Backstroke,SCY,W,35-39,36.92,Lynn S Riley,,Madison East YMCA Short Course Meet,2006,1,01RFG
+WMAC,50 Y Backstroke,SCY,W,35-39,40.23,Elyce Dilworth,,Wisconsin Masters Short Course,2006,2,01R6M
+WMAC,100 Y Backstroke,SCY,W,35-39,1:23.64,Lynn S Riley,,Madison East YMCA Short Course Meet,2006,1,01RFG
+WMAC,100 Y Backstroke,SCY,W,35-39,1:27.41,Elyce Dilworth,,Madison East YMCA Short Course Meet,2006,2,01R6M
+WMAC,50 Y Breaststroke,SCY,W,35-39,36.51,Nora C Settimi,,2006 USMS Short Course Nationals,2006,1,01RKU
+WMAC,50 Y Breaststroke,SCY,W,35-39,42.89,Elyce Dilworth,,Wisconsin Masters Short Course,2006,2,01R6M
+WMAC,50 Y Breaststroke,SCY,W,35-39,56.08,Audrey Go,,Wisconsin Masters SCY Champs,2006,3,01R93
+WMAC,100 Y Breaststroke,SCY,W,35-39,1:19.40,Nora C Settimi,,2006 USMS Short Course Nationals,2006,1,01RKU
+WMAC,100 Y Breaststroke,SCY,W,35-39,1:21.16,Mary C Hanney,,Madison East YMCA Short Course Meet,2006,2,006H8
+WMAC,200 Y Breaststroke,SCY,W,35-39,2:50.41,Nora C Settimi,,2006 USMS Short Course Nationals,2006,1,01RKU
+WMAC,200 Y Breaststroke,SCY,W,35-39,2:55.15,Mary C Hanney,,Madison East YMCA Short Course Meet,2006,2,006H8
+WMAC,50 Y Butterfly,SCY,W,35-39,34.71,Christine E Donlon,,Wisconsin Masters SCY Champs,2006,1,01RSN
+WMAC,50 Y Butterfly,SCY,W,35-39,47.97,Audrey Go,,Wisconsin Masters SCY Champs,2006,2,01R93
+WMAC,100 Y Individual Medley,SCY,W,35-39,1:14.12,Nora C Settimi,,2006 USMS Short Course Nationals,2006,1,01RKU
+WMAC,100 Y Individual Medley,SCY,W,35-39,1:25.20,Lynn S Riley,,Wisconsin Masters SCY Champs,2006,2,01RFG
+WMAC,100 Y Individual Medley,SCY,W,35-39,1:27.59,Elyce Dilworth,,Wisconsin Masters Short Course,2006,3,01R6M
+WMAC,100 Y Individual Medley,SCY,W,35-39,1:52.65,Audrey Go,,Wisconsin Masters SCY Champs,2006,4,01R93
+WMAC,50 Y Freestyle,SCY,W,40-44,32.16,Suzi Green,,Madison East YMCA Short Course Meet,2006,1,01R65
+WMAC,50 Y Freestyle,SCY,W,40-44,33.39,Petrina A Simms,,Madison East YMCA Short Course Meet,2006,2,01RVA
+WMAC,50 Y Freestyle,SCY,W,40-44,33.88,Kerri J Roberts,,Wisconsin Masters SCY Champs,2006,3,01RGU
+WMAC,50 Y Freestyle,SCY,W,40-44,35.83,Marion L Stenz,,Wisconsin Masters Oconomowoc Meet,2006,4,01RPX
+WMAC,50 Y Freestyle,SCY,W,40-44,36.43,Geri T Krupp-Gordon,,Wisconsin Masters Oconomowoc Meet,2006,5,01RR1
+WMAC,50 Y Freestyle,SCY,W,40-44,43.34,Laurie A Schroeder,,Madison East YMCA Short Course Meet,2006,6,01R8W
+WMAC,50 Y Freestyle,SCY,W,40-44,49.88,Janice M Beers,,Madison East YMCA Short Course Meet,2006,7,01RU7
+WMAC,50 Y Freestyle,SCY,W,40-44,51.65,Akiko Somura,,Wisconsin Masters SCY Champs,2006,8,01RSU
+WMAC,100 Y Freestyle,SCY,W,40-44,1:11.46,Suzi Green,,Wisconsin Masters SCY Champs,2006,1,01R65
+WMAC,100 Y Freestyle,SCY,W,40-44,1:20.48,Marion L Stenz,,Wisconsin Masters Oconomowoc Meet,2006,2,01RPX
+WMAC,100 Y Freestyle,SCY,W,40-44,1:21.61,Geri T Krupp-Gordon,,Wisconsin Masters Oconomowoc Meet,2006,3,01RR1
+WMAC,100 Y Freestyle,SCY,W,40-44,1:43.23,Laurie A Schroeder,,Madison East YMCA Short Course Meet,2006,4,01R8W
+WMAC,100 Y Freestyle,SCY,W,40-44,1:47.62,Akiko Somura,,Wisconsin Masters SCY Champs,2006,5,01RSU
+WMAC,100 Y Freestyle,SCY,W,40-44,1:56.26,Janice M Beers,,Madison East YMCA Short Course Meet,2006,6,01RU7
+WMAC,200 Y Freestyle,SCY,W,40-44,2:39.59,Suzi Green,,Wisconsin Masters SCY Champs,2006,1,01R65
+WMAC,200 Y Freestyle,SCY,W,40-44,2:43.99,Kerri J Roberts,,Wisconsin Masters SCY Champs,2006,2,01RGU
+WMAC,500 Y Freestyle,SCY,W,40-44,7:03.35,Suzi Green,,Madison East YMCA Short Course Meet,2006,1,01R65
+WMAC,500 Y Freestyle,SCY,W,40-44,10:00.45,Akiko Somura,,Wisconsin Masters SCY Champs,2006,2,01RSU
+WMAC,1000 Y Freestyle,SCY,W,40-44,14:31.48,Suzi Green,,Wisconsin Masters Short Course,2006,1,01R65
+WMAC,1000 Y Freestyle,SCY,W,40-44,20:16.71,Akiko Somura,,Wisconsin Masters Short Course,2006,2,01RSU
+WMAC,1650 Y Freestyle,SCY,W,40-44,24:15.50,Suzi Green,,Wisconsin Masters SCY Champs,2006,1,01R65
+WMAC,1650 Y Freestyle,SCY,W,40-44,34:57.44,Akiko Somura,,Wisconsin Masters SCY Champs,2006,2,01RSU
+WMAC,50 Y Backstroke,SCY,W,40-44,44.58,Petrina A Simms,,Madison East YMCA Short Course Meet,2006,1,01RVA
+WMAC,50 Y Backstroke,SCY,W,40-44,1:08.03,Janice M Beers,,Madison East YMCA Short Course Meet,2006,2,01RU7
+WMAC,100 Y Backstroke,SCY,W,40-44,1:39.38,Kerri J Roberts,,Wisconsin Masters SCY Champs,2006,1,01RGU
+WMAC,50 Y Breaststroke,SCY,W,40-44,46.78,Petrina A Simms,,Madison East YMCA Short Course Meet,2006,1,01RVA
+WMAC,50 Y Breaststroke,SCY,W,40-44,51.44,Janice M Beers,,Madison East YMCA Short Course Meet,2006,2,01RU7
+WMAC,100 Y Breaststroke,SCY,W,40-44,1:53.21,Janice M Beers,,Madison East YMCA Short Course Meet,2006,1,01RU7
+WMAC,100 Y Breaststroke,SCY,W,40-44,1:59.74,Akiko Somura,,Wisconsin Masters SCY Champs,2006,2,01RSU
+WMAC,50 Y Butterfly,SCY,W,40-44,41.64,Marion L Stenz,,Wisconsin Masters Oconomowoc Meet,2006,1,01RPX
+WMAC,50 Y Butterfly,SCY,W,40-44,45.33,Geri T Krupp-Gordon,,Wisconsin Masters Oconomowoc Meet,2006,2,01RR1
+WMAC,100 Y Individual Medley,SCY,W,40-44,1:25.51,Suzi Green,,Wisconsin Masters SCY Champs,2006,1,01R65
+WMAC,100 Y Individual Medley,SCY,W,40-44,1:28.32,Petrina A Simms,,Madison East YMCA Short Course Meet,2006,2,01RVA
+WMAC,100 Y Individual Medley,SCY,W,40-44,1:38.73,Geri T Krupp-Gordon,,Wisconsin Masters Oconomowoc Meet,2006,3,01RR1
+WMAC,50 Y Freestyle,SCY,W,45-49,30.36,Julie M Van Cleave,,Wisconsin Masters SCY Champs,2006,1,01R7V
+WMAC,50 Y Freestyle,SCY,W,45-49,32.19,Kim B Mayer,,Madison East YMCA Short Course Meet,2006,2,01RD1
+WMAC,50 Y Freestyle,SCY,W,45-49,39.92,Diane M Diel,,Wisconsin Masters Oconomowoc Meet,2006,3,01RSZ
+WMAC,50 Y Freestyle,SCY,W,45-49,41.75,Frances L Monroe Jennings,,Madison East YMCA Short Course Meet,2006,4,01RAA
+WMAC,50 Y Freestyle,SCY,W,45-49,59.98,Cindy A Carter,,Wisconsin Masters Oconomowoc Meet,2006,5,01RNS
+WMAC,100 Y Freestyle,SCY,W,45-49,1:06.51,Julie M Van Cleave,,2006 USMS Short Course Nationals,2006,1,01R7V
+WMAC,100 Y Freestyle,SCY,W,45-49,1:37.63,Frances L Monroe Jennings,,Madison East YMCA Short Course Meet,2006,2,01RAA
+WMAC,100 Y Freestyle,SCY,W,45-49,2:26.20,Cindy A Carter,,Wisconsin Masters Short Course,2006,3,01RNS
+WMAC,200 Y Freestyle,SCY,W,45-49,2:31.67,Julie M Van Cleave,,Wisconsin Masters Oconomowoc Meet,2006,1,01R7V
+WMAC,500 Y Freestyle,SCY,W,45-49,5:57.28,Melinda J Mann,,Wisconsin Masters SCY Champs,2006,1,01R7X
+WMAC,500 Y Freestyle,SCY,W,45-49,6:05.79,Laurie J Alioto,,Madison East YMCA Short Course Meet,2006,2,01R8P
+WMAC,500 Y Freestyle,SCY,W,45-49,6:56.25,Julie M Van Cleave,,Wisconsin Masters SCY Champs,2006,3,01R7V
+WMAC,500 Y Freestyle,SCY,W,45-49,9:18.12,Frances L Monroe Jennings,,Madison East YMCA Short Course Meet,2006,4,01RAA
+WMAC,1000 Y Freestyle,SCY,W,45-49,11:48.56,Laurie J Alioto,,2006 USMS Short Course Nationals,2006,1,01R8P
+WMAC,50 Y Backstroke,SCY,W,45-49,33.58,Melinda J Mann,,Wisconsin Masters SCY Champs,2006,1,01R7X
+WMAC,50 Y Backstroke,SCY,W,45-49,1:28.70,Cindy A Carter,,Wisconsin Masters Short Course,2006,2,01RNS
+WMAC,100 Y Backstroke,SCY,W,45-49,1:08.29,Laurie J Alioto,,2006 USMS Short Course Nationals,2006,1,01R8P
+WMAC,100 Y Backstroke,SCY,W,45-49,1:51.25,Frances L Monroe Jennings,,Madison East YMCA Short Course Meet,2006,2,01RAA
+WMAC,100 Y Backstroke,SCY,W,45-49,2:55.56,Cindy A Carter,,Wisconsin Masters Oconomowoc Meet,2006,3,01RNS
+WMAC,200 Y Backstroke,SCY,W,45-49,2:27.39,Laurie J Alioto,,2006 USMS Short Course Nationals,2006,1,01R8P
+WMAC,50 Y Breaststroke,SCY,W,45-49,33.48,Melinda J Mann,,Wisconsin Masters SCY Champs,2006,1,01R7X
+WMAC,50 Y Breaststroke,SCY,W,45-49,40.08,Julie M Van Cleave,,Wisconsin Masters SCY Champs,2006,2,01R7V
+WMAC,50 Y Breaststroke,SCY,W,45-49,47.62,Diane M Diel,,Wisconsin Masters Oconomowoc Meet,2006,3,01RSZ
+WMAC,50 Y Breaststroke,SCY,W,45-49,1:17.07,Cindy A Carter,,Wisconsin Masters Short Course,2006,4,01RNS
+WMAC,100 Y Breaststroke,SCY,W,45-49,1:12.49,Melinda J Mann,,Wisconsin Masters SCY Champs,2006,1,01R7X
+WMAC,100 Y Breaststroke,SCY,W,45-49,1:28.78,Julie M Van Cleave,,Wisconsin Masters Oconomowoc Meet,2006,2,01R7V
+WMAC,100 Y Breaststroke,SCY,W,45-49,1:44.03,Diane M Diel,,Wisconsin Masters Oconomowoc Meet,2006,3,01RSZ
+WMAC,200 Y Breaststroke,SCY,W,45-49,2:41.20,Melinda J Mann,,Wisconsin Masters SCY Champs,2006,1,01R7X
+WMAC,200 Y Breaststroke,SCY,W,45-49,3:09.49,Julie M Van Cleave,,2006 USMS Short Course Nationals,2006,2,01R7V
+WMAC,50 Y Butterfly,SCY,W,45-49,30.19,Melinda J Mann,,Wisconsin Masters SCY Champs,2006,1,01R7X
+WMAC,100 Y Butterfly,SCY,W,45-49,1:05.13,Laurie J Alioto,,2006 USMS Short Course Nationals,2006,1,01R8P
+WMAC,100 Y Butterfly,SCY,W,45-49,1:30.68,Kim B Mayer,,Madison East YMCA Short Course Meet,2006,2,01RD1
+WMAC,200 Y Butterfly,SCY,W,45-49,2:23.81,Laurie J Alioto,,2006 USMS Short Course Nationals,2006,1,01R8P
+WMAC,100 Y Individual Medley,SCY,W,45-49,1:50.63,Frances L Monroe Jennings,,Madison East YMCA Short Course Meet,2006,1,01RAA
+WMAC,400 Y Individual Medley,SCY,W,45-49,5:11.77,Laurie J Alioto,,2006 USMS Short Course Nationals,2006,1,01R8P
+WMAC,50 Y Freestyle,SCY,W,50-54,47.59,Phyllis Jane Smith,,Wisconsin Masters SCY Champs,2006,1,01RMX
+WMAC,50 Y Freestyle,SCY,W,50-54,47.97,Mary P Schneider,,Wisconsin Masters Oconomowoc Meet,2006,2,01RMA
+WMAC,100 Y Freestyle,SCY,W,50-54,1:16.78,Kathy Nelson,,Wisconsin Masters Short Course,2006,1,01RPH
+WMAC,100 Y Freestyle,SCY,W,50-54,1:46.54,Phyllis Jane Smith,,Wisconsin Masters Short Course,2006,2,01RMX
+WMAC,200 Y Freestyle,SCY,W,50-54,2:22.02,Cynthia L Maltry,,Wisconsin Masters SCY Champs,2006,1,01R61
+WMAC,200 Y Freestyle,SCY,W,50-54,3:00.34,Connie L Welch,,Madison East YMCA Short Course Meet,2006,2,01R69
+WMAC,200 Y Freestyle,SCY,W,50-54,3:44.29,Phyllis Jane Smith,,2006 YMCA Masters Nationals at ISHOF SCY,2006,3,01RMX
+WMAC,500 Y Freestyle,SCY,W,50-54,7:08.34,Kathy Nelson,,Wisconsin Masters SCY Champs,2006,1,01RPH
+WMAC,500 Y Freestyle,SCY,W,50-54,7:52.47,Connie L Welch,,Madison East YMCA Short Course Meet,2006,2,01R69
+WMAC,1000 Y Freestyle,SCY,W,50-54,14:32.91,Kathy Nelson,,Wisconsin Masters Short Course,2006,1,01RPH
+WMAC,1000 Y Freestyle,SCY,W,50-54,20:50.76,Phyllis Jane Smith,,2006 YMCA Masters Nationals at ISHOF SCY,2006,2,01RMX
+WMAC,1650 Y Freestyle,SCY,W,50-54,24:33.88,Kathy Nelson,,Wisconsin Masters SCY Champs,2006,1,01RPH
+WMAC,50 Y Backstroke,SCY,W,50-54,41.03,Kathy Nelson,,Wisconsin Masters SCY Champs,2006,1,01RPH
+WMAC,50 Y Backstroke,SCY,W,50-54,56.14,Phyllis Jane Smith,,2006 YMCA Masters Nationals at ISHOF SCY,2006,2,01RMX
+WMAC,50 Y Backstroke,SCY,W,50-54,1:00.78,Mary P Schneider,,Wisconsin Masters Oconomowoc Meet,2006,3,01RMA
+WMAC,100 Y Backstroke,SCY,W,50-54,1:28.19,Kathy Nelson,,Wisconsin Masters SCY Champs,2006,1,01RPH
+WMAC,100 Y Backstroke,SCY,W,50-54,2:00.39,Phyllis Jane Smith,,Wisconsin Masters SCY Champs,2006,2,01RMX
+WMAC,200 Y Backstroke,SCY,W,50-54,2:41.87,Cynthia L Maltry,,Wisconsin Masters SCY Champs,2006,1,01R61
+WMAC,200 Y Backstroke,SCY,W,50-54,3:10.26,Kathy Nelson,,Wisconsin Masters SCY Champs,2006,2,01RPH
+WMAC,200 Y Backstroke,SCY,W,50-54,3:13.01,Janet Schultz,,Madison East YMCA Short Course Meet,2006,3,01RCA
+WMAC,50 Y Breaststroke,SCY,W,50-54,36.97,Cynthia L Maltry,,Wisconsin Masters SCY Champs,2006,1,01R61
+WMAC,50 Y Breaststroke,SCY,W,50-54,39.26,Nancy L Ehrke,,Wisconsin Masters SCY Champs,2006,2,004YW
+WMAC,50 Y Breaststroke,SCY,W,50-54,48.86,Cindy Sisulak,,Wisconsin Masters Oconomowoc Meet,2006,3,01RUM
+WMAC,50 Y Breaststroke,SCY,W,50-54,1:10.07,Mary P Schneider,,Wisconsin Masters Oconomowoc Meet,2006,4,01RMA
+WMAC,100 Y Breaststroke,SCY,W,50-54,1:24.21,Nancy L Ehrke,,Wisconsin Masters SCY Champs,2006,1,004YW
+WMAC,100 Y Breaststroke,SCY,W,50-54,1:37.90,Janet Schultz,,Madison East YMCA Short Course Meet,2006,2,01RCA
+WMAC,200 Y Breaststroke,SCY,W,50-54,3:04.18,Nancy L Ehrke,,Wisconsin Masters SCY Champs,2006,1,004YW
+WMAC,200 Y Breaststroke,SCY,W,50-54,3:26.70,Janet Schultz,,Madison East YMCA Short Course Meet,2006,2,01RCA
+WMAC,50 Y Butterfly,SCY,W,50-54,30.51,Cynthia L Maltry,,Wisconsin Masters SCY Champs,2006,1,01R61
+WMAC,50 Y Butterfly,SCY,W,50-54,44.24,Connie L Welch,,Madison East YMCA Short Course Meet,2006,2,01R69
+WMAC,50 Y Butterfly,SCY,W,50-54,1:01.18,Phyllis Jane Smith,,Wisconsin Masters SCY Champs,2006,3,01RMX
+WMAC,100 Y Individual Medley,SCY,W,50-54,1:09.26,Cynthia L Maltry,,Wisconsin Masters SCY Champs,2006,1,01R61
+WMAC,100 Y Individual Medley,SCY,W,50-54,1:21.93,Nancy L Ehrke,,Wisconsin Masters Oconomowoc Meet,2006,2,004YW
+WMAC,100 Y Individual Medley,SCY,W,50-54,1:33.75,Janet Schultz,,Madison East YMCA Short Course Meet,2006,3,01RCA
+WMAC,100 Y Individual Medley,SCY,W,50-54,1:38.39,Cindy Sisulak,,Wisconsin Masters Oconomowoc Meet,2006,4,01RUM
+WMAC,200 Y Individual Medley,SCY,W,50-54,2:37.73,Cynthia L Maltry,,Wisconsin Masters SCY Champs,2006,1,01R61
+WMAC,400 Y Individual Medley,SCY,W,50-54,6:26.70,Nancy L Ehrke,,Wisconsin Masters SCY Champs,2006,1,004YW
+WMAC,50 Y Freestyle,SCY,W,55-59,31.25,Germaine L Havel,,Wisconsin Senior Olympics,2006,1,01R7D
+WMAC,50 Y Freestyle,SCY,W,55-59,35.93,Candy J Christenson,,Wisconsin Masters SCY Champs,2006,2,01R84
+WMAC,50 Y Freestyle,SCY,W,55-59,39.67,Judy Effenheim,,Wisconsin Senior Olympics,2006,3,01RSB
+WMAC,50 Y Freestyle,SCY,W,55-59,1:00.26,Jeanne Seidler,,Wisconsin Masters Oconomowoc Meet,2006,4,01R6A
+WMAC,100 Y Freestyle,SCY,W,55-59,1:08.48,Germaine L Havel,,Wisconsin Senior Olympics,2006,1,01R7D
+WMAC,100 Y Freestyle,SCY,W,55-59,1:20.05,Candy J Christenson,,Wisconsin Masters SCY Champs,2006,2,01R84
+WMAC,100 Y Freestyle,SCY,W,55-59,2:28.31,Jeanne Seidler,,Wisconsin Masters SCY Champs,2006,3,01R6A
+WMAC,200 Y Freestyle,SCY,W,55-59,2:51.06,Colleen F Moore,,Madison East YMCA Short Course Meet,2006,1,008E1
+WMAC,200 Y Freestyle,SCY,W,55-59,3:07.56,Candy J Christenson,,Wisconsin Masters Oconomowoc Meet,2006,2,01R84
+WMAC,500 Y Freestyle,SCY,W,55-59,7:10.49,Germaine L Havel,,Wisconsin Senior Olympics,2006,1,01R7D
+WMAC,500 Y Freestyle,SCY,W,55-59,8:10.88,Candy J Christenson,,Wisconsin Masters SCY Champs,2006,2,01R84
+WMAC,500 Y Freestyle,SCY,W,55-59,10:05.21,Judy Effenheim,,Wisconsin Senior Olympics,2006,3,01RSB
+WMAC,500 Y Freestyle,SCY,W,55-59,12:44.57,Jeanne Seidler,,Wisconsin Masters SCY Champs,2006,4,01R6A
+WMAC,1000 Y Freestyle,SCY,W,55-59,16:32.35,Candy J Christenson,,Wisconsin Masters Short Course,2006,1,01R84
+WMAC,1000 Y Freestyle,SCY,W,55-59,25:56.40,Jeanne Seidler,,Wisconsin Masters Short Course,2006,2,01R6A
+WMAC,1650 Y Freestyle,SCY,W,55-59,43:31.14,Jeanne Seidler,,Wisconsin Masters SCY Champs,2006,1,01R6A
+WMAC,50 Y Backstroke,SCY,W,55-59,38.65,Germaine L Havel,,Wisconsin Senior Olympics,2006,1,01R7D
+WMAC,50 Y Backstroke,SCY,W,55-59,50.40,Judy Effenheim,,Wisconsin Senior Olympics,2006,2,01RSB
+WMAC,50 Y Backstroke,SCY,W,55-59,1:03.78,Jeanne Seidler,,Wisconsin Masters Short Course,2006,3,01R6A
+WMAC,100 Y Backstroke,SCY,W,55-59,2:21.53,Jeanne Seidler,,Wisconsin Masters Oconomowoc Meet,2006,1,01R6A
+WMAC,200 Y Backstroke,SCY,W,55-59,3:14.32,Janet Schultz,,Wisconsin Masters SCY Champs,2006,1,01RCA
+WMAC,200 Y Backstroke,SCY,W,55-59,4:57.31,Jeanne Seidler,,Wisconsin Masters Short Course,2006,2,01R6A
+WMAC,50 Y Breaststroke,SCY,W,55-59,41.48,Candy J Christenson,,2006 USMS Short Course Nationals,2006,1,01R84
+WMAC,100 Y Breaststroke,SCY,W,55-59,1:36.47,Candy J Christenson,,Wisconsin Senior Olympics,2006,1,01R84
+WMAC,100 Y Breaststroke,SCY,W,55-59,1:37.76,Janet Schultz,,Wisconsin Masters SCY Champs,2006,2,01RCA
+WMAC,200 Y Breaststroke,SCY,W,55-59,3:34.44,Candy J Christenson,,2006 USMS Short Course Nationals,2006,1,01R84
+WMAC,50 Y Butterfly,SCY,W,55-59,40.65,Candy J Christenson,,2006 USMS Short Course Nationals,2006,1,01R84
+WMAC,50 Y Butterfly,SCY,W,55-59,42.42,Colleen F Moore,,Madison East YMCA Short Course Meet,2006,2,008E1
+WMAC,100 Y Butterfly,SCY,W,55-59,1:41.43,Candy J Christenson,,2006 USMS Short Course Nationals,2006,1,01R84
+WMAC,100 Y Individual Medley,SCY,W,55-59,1:24.80,Germaine L Havel,,Wisconsin Senior Olympics,2006,1,01R7D
+WMAC,100 Y Individual Medley,SCY,W,55-59,1:31.65,Candy J Christenson,,Wisconsin Senior Olympics,2006,2,01R84
+WMAC,100 Y Individual Medley,SCY,W,55-59,1:32.30,Janet Schultz,,Wisconsin Masters SCY Champs,2006,3,01RCA
+WMAC,100 Y Individual Medley,SCY,W,55-59,1:34.97,Colleen F Moore,,Madison East YMCA Short Course Meet,2006,4,008E1
+WMAC,50 Y Freestyle,SCY,W,60-64,31.96,Nancy Kranpitz,,2006 USMS Short Course Nationals,2006,1,01R9F
+WMAC,50 Y Freestyle,SCY,W,60-64,49.55,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,2,01RAB
+WMAC,100 Y Freestyle,SCY,W,60-64,1:14.29,Nancy Kranpitz,,St Pete Masters SCY Champs,2006,1,01R9F
+WMAC,100 Y Freestyle,SCY,W,60-64,1:52.13,Dorothy F Rose,,Wisconsin Masters Oconomowoc Meet,2006,2,01RAB
+WMAC,100 Y Freestyle,SCY,W,60-64,1:53.24,Nancy J Thiele,,Wisconsin Masters Oconomowoc Meet,2006,3,01RPG
+WMAC,200 Y Freestyle,SCY,W,60-64,4:05.00,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,1,01RAB
+WMAC,500 Y Freestyle,SCY,W,60-64,10:54.16,Dorothy F Rose,,Wisconsin Masters Oconomowoc Meet,2006,1,01RAB
+WMAC,1000 Y Freestyle,SCY,W,60-64,23:31.17,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,1,01RAB
+WMAC,1650 Y Freestyle,SCY,W,60-64,38:56.63,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,1,01RAB
+WMAC,50 Y Backstroke,SCY,W,60-64,42.83,Nancy Kranpitz,,St Pete Masters SCY Champs,2006,1,01R9F
+WMAC,50 Y Backstroke,SCY,W,60-64,1:02.60,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,2,01RAB
+WMAC,50 Y Breaststroke,SCY,W,60-64,59.33,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,1,01RAB
+WMAC,100 Y Breaststroke,SCY,W,60-64,1:41.17,Nancy Kranpitz,,St Pete Masters SCY Champs,2006,1,01R9F
+WMAC,100 Y Breaststroke,SCY,W,60-64,2:10.04,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,2,01RAB
+WMAC,200 Y Breaststroke,SCY,W,60-64,3:39.22,Nancy Kranpitz,,St Pete Masters SCY Champs,2006,1,01R9F
+WMAC,50 Y Butterfly,SCY,W,60-64,36.33,Nancy Kranpitz,,2006 USMS Short Course Nationals,2006,1,01R9F
+WMAC,50 Y Butterfly,SCY,W,60-64,1:00.26,Dorothy F Rose,,Wisconsin Masters SCY Champs,2006,2,01RAB
+WMAC,100 Y Butterfly,SCY,W,60-64,1:29.09,Nancy Kranpitz,,2006 USMS Short Course Nationals,2006,1,01R9F
+WMAC,200 Y Butterfly,SCY,W,60-64,3:25.10,Nancy Kranpitz,,St Pete Masters SCY Champs,2006,1,01R9F
+WMAC,100 Y Individual Medley,SCY,W,60-64,1:27.08,Nancy Kranpitz,,2006 USMS Short Course Nationals,2006,1,01R9F
+WMAC,100 Y Individual Medley,SCY,W,60-64,2:12.19,Dorothy F Rose,,Wisconsin Senior Olympics,2006,2,01RAB
+WMAC,200 Y Individual Medley,SCY,W,60-64,3:17.23,Nancy Kranpitz,,St Pete Masters SCY Champs,2006,1,01R9F
+WMAC,50 Y Freestyle,SCY,W,65-69,46.21,Adele S Douglass,,Madison East YMCA Short Course Meet,2006,1,01RU3
+WMAC,100 Y Freestyle,SCY,W,65-69,1:37.91,Joanne E Moder,,Wisconsin Masters SCY Champs,2006,1,01RDV
+WMAC,100 Y Freestyle,SCY,W,65-69,1:39.76,Ingrid M Stine,,Wisconsin Senior Olympics,2006,2,01R5P
+WMAC,200 Y Freestyle,SCY,W,65-69,3:29.74,Carol J Reinke,,Wisconsin Senior Olympics,2006,1,01RC8
+WMAC,200 Y Freestyle,SCY,W,65-69,3:30.56,Ingrid M Stine,,Wisconsin Masters SCY Champs,2006,2,01R5P
+WMAC,200 Y Freestyle,SCY,W,65-69,3:36.76,Joanne E Moder,,Wisconsin Masters SCY Champs,2006,3,01RDV
+WMAC,200 Y Freestyle,SCY,W,65-69,3:47.98,Adele S Douglass,,Madison East YMCA Short Course Meet,2006,4,01RU3
+WMAC,500 Y Freestyle,SCY,W,65-69,9:13.21,Ingrid M Stine,,Wisconsin Senior Olympics,2006,1,01R5P
+WMAC,500 Y Freestyle,SCY,W,65-69,9:30.99,Joanne E Moder,,Wisconsin Masters SCY Champs,2006,2,01RDV
+WMAC,500 Y Freestyle,SCY,W,65-69,9:57.90,Adele S Douglass,,Madison East YMCA Short Course Meet,2006,3,01RU3
+WMAC,1000 Y Freestyle,SCY,W,65-69,18:54.95,Ingrid M Stine,,Wisconsin Masters Short Course,2006,1,01R5P
+WMAC,1650 Y Freestyle,SCY,W,65-69,32:29.80,Ingrid M Stine,,Wisconsin Masters SCY Champs,2006,1,01R5P
+WMAC,50 Y Backstroke,SCY,W,65-69,57.52,Mary B Strupp,,Wisconsin Masters Oconomowoc Meet,2006,1,01RRE
+WMAC,100 Y Backstroke,SCY,W,65-69,1:54.24,Joanne E Moder,,Wisconsin Masters SCY Champs,2006,1,01RDV
+WMAC,100 Y Backstroke,SCY,W,65-69,2:07.72,Mary B Strupp,,Wisconsin Masters Oconomowoc Meet,2006,2,01RRE
+WMAC,200 Y Backstroke,SCY,W,65-69,4:02.18,Joanne E Moder,,Wisconsin Masters SCY Champs,2006,1,01RDV
+WMAC,50 Y Breaststroke,SCY,W,65-69,51.61,Carol J Reinke,,Wisconsin Senior Olympics,2006,1,01RC8
+WMAC,50 Y Breaststroke,SCY,W,65-69,1:09.73,Mary B Strupp,,Wisconsin Masters SCY Champs,2006,2,01RRE
+WMAC,100 Y Breaststroke,SCY,W,65-69,1:54.46,Carol J Reinke,,Wisconsin Senior Olympics,2006,1,01RC8
+WMAC,200 Y Breaststroke,SCY,W,65-69,3:58.58,Carol J Reinke,,Wisconsin Senior Olympics,2006,1,01RC8
+WMAC,50 Y Butterfly,SCY,W,65-69,55.23,Ingrid M Stine,,Wisconsin Senior Olympics,2006,1,01R5P
+WMAC,100 Y Butterfly,SCY,W,65-69,1:58.31,Ingrid M Stine,,Wisconsin Masters SCY Champs,2006,1,01R5P
+WMAC,100 Y Individual Medley,SCY,W,65-69,1:55.58,Ingrid M Stine,,Wisconsin Senior Olympics,2006,1,01R5P
+WMAC,100 Y Individual Medley,SCY,W,65-69,2:18.58,Mary B Strupp,,Wisconsin Masters Oconomowoc Meet,2006,2,01RRE
+WMAC,200 Y Individual Medley,SCY,W,65-69,4:02.03,Ingrid M Stine,,Wisconsin Masters SCY Champs,2006,1,01R5P
+WMAC,200 Y Individual Medley,SCY,W,65-69,4:52.33,Mary B Strupp,,Wisconsin Masters SCY Champs,2006,2,01RRE
+WMAC,400 Y Individual Medley,SCY,W,65-69,8:21.99,Ingrid M Stine,,Wisconsin Masters SCY Champs,2006,1,01R5P
+WMAC,50 Y Freestyle,SCY,W,70-74,1:02.85,Janice M Wolowicz,,Wisconsin Masters Short Course,2006,1,01RCP
+WMAC,50 Y Backstroke,SCY,W,70-74,1:03.55,Janice M Wolowicz,,Wisconsin Masters Short Course,2006,1,01RCP
+WMAC,200 Y Backstroke,SCY,W,70-74,5:06.79,Janice M Wolowicz,,Wisconsin Masters Short Course,2006,1,01RCP
+WMAC,50 Y Freestyle,SCY,W,75-79,39.99,Betty S Lorenzi,,Wisconsin Senior Olympics,2006,1,01R8B
+WMAC,50 Y Freestyle,SCY,W,75-79,53.86,Janet E Moldenhauer,,Wisconsin Masters SCY Champs,2006,2,01R6N
+WMAC,50 Y Freestyle,SCY,W,75-79,1:16.98,Mary J Byers,,National Senior Games,2006,3,01RCE
+WMAC,100 Y Freestyle,SCY,W,75-79,1:58.25,Janet E Moldenhauer,,Wisconsin Senior Olympics,2006,1,01R6N
+WMAC,200 Y Freestyle,SCY,W,75-79,3:20.56,Betty S Lorenzi,,Wisconsin Senior Olympics,2006,1,01R8B
+WMAC,200 Y Freestyle,SCY,W,75-79,4:12.35,Janet E Moldenhauer,,Wisconsin Masters SCY Champs,2006,2,01R6N
+WMAC,50 Y Backstroke,SCY,W,75-79,43.06,Betty S Lorenzi,,Wisconsin Senior Olympics,2006,1,01R8B
+WMAC,50 Y Backstroke,SCY,W,75-79,1:04.48,Janet E Moldenhauer,,Wisconsin Masters Short Course,2006,2,01R6N
+WMAC,50 Y Backstroke,SCY,W,75-79,1:24.43,Mary J Byers,,National Senior Games,2006,3,01RCE
+WMAC,100 Y Backstroke,SCY,W,75-79,1:36.69,Betty S Lorenzi,,Wisconsin Senior Olympics,2006,1,01R8B
+WMAC,200 Y Backstroke,SCY,W,75-79,3:30.22,Betty S Lorenzi,,Wisconsin Senior Olympics,2006,1,01R8B
+WMAC,100 Y Individual Medley,SCY,W,75-79,2:21.93,Janet E Moldenhauer,,Wisconsin Senior Olympics,2006,1,01R6N
+WMAC,50 Y Freestyle,SCY,M,18-24,23.93,Casey J Griffiths,,Wisconsin Masters SCY Champs,2006,1,01RTR
+WMAC,50 Y Freestyle,SCY,M,18-24,24.55,Andrew Steenrod,,Wisconsin Masters Short Course,2006,2,01RTS
+WMAC,50 Y Breaststroke,SCY,M,18-24,31.66,Andrew Steenrod,,Wisconsin Masters Short Course,2006,1,01RTS
+WMAC,50 Y Butterfly,SCY,M,18-24,27.42,Andrew Steenrod,,Wisconsin Masters Short Course,2006,1,01RTS
+WMAC,100 Y Butterfly,SCY,M,18-24,57.22,Casey J Griffiths,,Wisconsin Masters SCY Champs,2006,1,01RTR
+WMAC,100 Y Individual Medley,SCY,M,18-24,1:02.41,Andrew Steenrod,,Wisconsin Masters Short Course,2006,1,01RTS
+WMAC,200 Y Individual Medley,SCY,M,18-24,2:16.13,Casey J Griffiths,,Wisconsin Masters SCY Champs,2006,1,01RTR
+WMAC,400 Y Individual Medley,SCY,M,18-24,4:38.72,Andrew Steenrod,,Wisconsin Masters Short Course,2006,1,01RTS
+WMAC,50 Y Freestyle,SCY,M,25-29,21.48,Ryan S Zahorik,,2006 USMS Short Course Nationals,2006,1,01RH2
+WMAC,50 Y Freestyle,SCY,M,25-29,24.72,Robert J Verhelst,,Wisconsin Masters Oconomowoc Meet,2006,2,01RJU
+WMAC,50 Y Freestyle,SCY,M,25-29,26.11,Erick D Rasmuson,,Madison East YMCA Short Course Meet,2006,3,01RV5
+WMAC,50 Y Freestyle,SCY,M,25-29,27.71,Kenneth J Leising,,Wisconsin Masters SCY Champs,2006,4,01RRU
+WMAC,50 Y Freestyle,SCY,M,25-29,30.87,Eric Chu,,Madison East YMCA Short Course Meet,2006,5,01RVB
+WMAC,100 Y Freestyle,SCY,M,25-29,55.10,Robert J Verhelst,,Wisconsin Masters Oconomowoc Meet,2006,1,01RJU
+WMAC,100 Y Freestyle,SCY,M,25-29,1:05.83,Kenneth J Leising,,Madison East YMCA Short Course Meet,2006,2,01RRU
+WMAC,500 Y Freestyle,SCY,M,25-29,7:42.19,Kenneth J Leising,,Wisconsin Masters SCY Champs,2006,1,01RRU
+WMAC,50 Y Backstroke,SCY,M,25-29,25.69,Ryan S Zahorik,,Wisconsin Masters SCY Champs,2006,1,01RH2
+WMAC,50 Y Backstroke,SCY,M,25-29,32.71,Erick D Rasmuson,,Madison East YMCA Short Course Meet,2006,2,01RV5
+WMAC,100 Y Backstroke,SCY,M,25-29,1:06.88,Robert J Verhelst,,Wisconsin Masters Oconomowoc Meet,2006,1,01RJU
+WMAC,50 Y Breaststroke,SCY,M,25-29,26.68,Ryan S Zahorik,,2006 USMS Short Course Nationals,2006,1,01RH2
+WMAC,50 Y Breaststroke,SCY,M,25-29,35.08,Eric Chu,,Madison East YMCA Short Course Meet,2006,2,01RVB
+WMAC,50 Y Breaststroke,SCY,M,25-29,35.58,Erick D Rasmuson,,Madison East YMCA Short Course Meet,2006,3,01RV5
+WMAC,100 Y Breaststroke,SCY,M,25-29,56.54,Ryan S Zahorik,,2006 USMS Short Course Nationals,2006,1,01RH2
+WMAC,100 Y Breaststroke,SCY,M,25-29,1:19.04,Eric Chu,,Madison East YMCA Short Course Meet,2006,2,01RVB
+WMAC,200 Y Breaststroke,SCY,M,25-29,2:04.52,Ryan S Zahorik,,2006 USMS Short Course Nationals,2006,1,01RH2
+WMAC,200 Y Breaststroke,SCY,M,25-29,3:10.28,Kenneth J Leising,,Wisconsin Masters SCY Champs,2006,2,01RRU
+WMAC,50 Y Butterfly,SCY,M,25-29,23.55,Ryan S Zahorik,,2006 USMS Short Course Nationals,2006,1,01RH2
+WMAC,50 Y Butterfly,SCY,M,25-29,29.76,Robert J Verhelst,,Wisconsin Masters Oconomowoc Meet,2006,2,01RJU
+WMAC,50 Y Butterfly,SCY,M,25-29,30.62,Eric Chu,,Madison East YMCA Short Course Meet,2006,3,01RVB
+WMAC,50 Y Butterfly,SCY,M,25-29,32.02,Kenneth J Leising,,Madison East YMCA Short Course Meet,2006,4,01RRU
+WMAC,100 Y Butterfly,SCY,M,25-29,1:22.98,Kenneth J Leising,,Madison East YMCA Short Course Meet,2006,1,01RRU
+WMAC,100 Y Individual Medley,SCY,M,25-29,52.58,Ryan S Zahorik,,2006 USMS Short Course Nationals,2006,1,01RH2
+WMAC,100 Y Individual Medley,SCY,M,25-29,1:02.44,Robert J Verhelst,,Wisconsin Masters Oconomowoc Meet,2006,2,01RJU
+WMAC,100 Y Individual Medley,SCY,M,25-29,1:13.80,Eric Chu,,Madison East YMCA Short Course Meet,2006,3,01RVB
+WMAC,100 Y Individual Medley,SCY,M,25-29,1:14.41,Kenneth J Leising,,Madison East YMCA Short Course Meet,2006,4,01RRU
+WMAC,200 Y Individual Medley,SCY,M,25-29,3:04.63,Kenneth J Leising,,Wisconsin Masters SCY Champs,2006,1,01RRU
+WMAC,50 Y Freestyle,SCY,M,30-34,22.81,Darryl D Stich,,2006 USMS Short Course Nationals,2006,1,01RP7
+WMAC,50 Y Freestyle,SCY,M,30-34,31.53,Neil B Holland,,Wisconsin Masters SCY Champs,2006,2,01REF
+WMAC,100 Y Freestyle,SCY,M,30-34,49.73,Darryl D Stich,,2006 USMS Short Course Nationals,2006,1,01RP7
+WMAC,100 Y Freestyle,SCY,M,30-34,1:01.85,C. Ian Dewar,,Madison East YMCA Short Course Meet,2006,2,01RV1
+WMAC,100 Y Freestyle,SCY,M,30-34,1:02.57,Matthew S Kading,,Madison East YMCA Short Course Meet,2006,3,01RFM
+WMAC,100 Y Freestyle,SCY,M,30-34,1:09.85,Neil B Holland,,Wisconsin Masters SCY Champs,2006,4,01REF
+WMAC,200 Y Freestyle,SCY,M,30-34,2:18.00,C. Ian Dewar,,Madison East YMCA Short Course Meet,2006,1,01RV1
+WMAC,200 Y Freestyle,SCY,M,30-34,2:31.30,Neil B Holland,,2006 USMS Short Course Nationals,2006,2,01REF
+WMAC,500 Y Freestyle,SCY,M,30-34,6:27.92,C. Ian Dewar,,Madison East YMCA Short Course Meet,2006,1,01RV1
+WMAC,500 Y Freestyle,SCY,M,30-34,6:54.12,Neil B Holland,,Wisconsin Masters SCY Champs,2006,2,01REF
+WMAC,1000 Y Freestyle,SCY,M,30-34,14:46.81,Neil B Holland,,Wisconsin Masters SCY Champs,2006,1,01REF
+WMAC,1650 Y Freestyle,SCY,M,30-34,23:56.07,Neil B Holland,,2006 USMS Short Course Nationals,2006,1,01REF
+WMAC,100 Y Backstroke,SCY,M,30-34,1:15.24,C. Ian Dewar,,Madison East YMCA Short Course Meet,2006,1,01RV1
+WMAC,100 Y Breaststroke,SCY,M,30-34,1:06.03,Darryl D Stich,,Wisconsin Masters Oconomowoc Meet,2006,1,01RP7
+WMAC,50 Y Butterfly,SCY,M,30-34,24.52,Darryl D Stich,,2006 USMS Short Course Nationals,2006,1,01RP7
+WMAC,50 Y Butterfly,SCY,M,30-34,29.47,Matthew S Kading,,Madison East YMCA Short Course Meet,2006,2,01RFM
+WMAC,100 Y Butterfly,SCY,M,30-34,54.37,Darryl D Stich,,2006 USMS Short Course Nationals,2006,1,01RP7
+WMAC,100 Y Butterfly,SCY,M,30-34,1:09.05,Matthew S Kading,,Madison East YMCA Short Course Meet,2006,2,01RFM
+WMAC,100 Y Individual Medley,SCY,M,30-34,58.34,Darryl D Stich,,Wisconsin Masters SCY Champs,2006,1,01RP7
+WMAC,100 Y Individual Medley,SCY,M,30-34,1:11.02,C. Ian Dewar,,Madison East YMCA Short Course Meet,2006,2,01RV1
+WMAC,100 Y Individual Medley,SCY,M,30-34,1:12.69,Matthew S Kading,,Madison East YMCA Short Course Meet,2006,3,01RFM
+WMAC,200 Y Individual Medley,SCY,M,30-34,2:04.22,Darryl D Stich,,2006 USMS Short Course Nationals,2006,1,01RP7
+WMAC,400 Y Individual Medley,SCY,M,30-34,4:34.03,Darryl D Stich,,2006 USMS Short Course Nationals,2006,1,01RP7
+WMAC,50 Y Freestyle,SCY,M,35-39,22.60,Laren A Tiltmann,,2006 USMS Short Course Nationals,2006,1,01REY
+WMAC,50 Y Freestyle,SCY,M,35-39,23.83,Daniel J Schaetz,,Wisconsin Masters SCY Champs,2006,2,01RBZ
+WMAC,50 Y Freestyle,SCY,M,35-39,24.17,Matt E Thiele,,Wisconsin Masters SCY Champs,2006,3,01RPZ
+WMAC,50 Y Freestyle,SCY,M,35-39,27.70,Gregory J Broghammer,,Wisconsin Masters Short Course,2006,4,01RE9
+WMAC,50 Y Freestyle,SCY,M,35-39,29.87,John F Rublein,,Madison East YMCA Short Course Meet,2006,5,01RVC
+WMAC,50 Y Freestyle,SCY,M,35-39,33.99,Peter T Sheridan,,Madison East YMCA Short Course Meet,2006,6,01RV4
+WMAC,100 Y Freestyle,SCY,M,35-39,58.13,Peter J Bridge,,Wisconsin Masters Short Course,2006,1,01RVV
+WMAC,100 Y Freestyle,SCY,M,35-39,59.52,Randy D Klopfer,,Wisconsin Masters SCY Champs,2006,2,01RPN
+WMAC,100 Y Freestyle,SCY,M,35-39,1:01.84,Gregory J Broghammer,,Wisconsin Masters Short Course,2006,3,01RE9
+WMAC,100 Y Freestyle,SCY,M,35-39,1:03.54,Reto Frei,,Wisconsin Masters SCY Champs,2006,4,01RVU
+WMAC,100 Y Freestyle,SCY,M,35-39,1:08.61,David C Guzik,,Wisconsin Masters Oconomowoc Meet,2006,5,01RFV
+WMAC,100 Y Freestyle,SCY,M,35-39,1:14.11,Peter T Sheridan,,Madison East YMCA Short Course Meet,2006,6,01RV4
+WMAC,200 Y Freestyle,SCY,M,35-39,2:33.26,David C Guzik,,Madison East YMCA Short Course Meet,2006,1,01RFV
+WMAC,500 Y Freestyle,SCY,M,35-39,5:45.28,Jason Martin,,Wisconsin Masters Short Course,2006,1,01RB2
+WMAC,500 Y Freestyle,SCY,M,35-39,6:11.62,Gregory J Broghammer,,Wisconsin Masters Short Course,2006,2,01RE9
+WMAC,500 Y Freestyle,SCY,M,35-39,6:36.73,David C Guzik,,Wisconsin Masters Oconomowoc Meet,2006,3,01RFV
+WMAC,1000 Y Freestyle,SCY,M,35-39,11:32.78,Jason Martin,,Wisconsin Masters Short Course,2006,1,01RB2
+WMAC,1000 Y Freestyle,SCY,M,35-39,12:26.60,Gregory J Broghammer,,Wisconsin Masters Short Course,2006,2,01RE9
+WMAC,50 Y Backstroke,SCY,M,35-39,26.31,Laren A Tiltmann,,2006 USMS Short Course Nationals,2006,1,01REY
+WMAC,200 Y Backstroke,SCY,M,35-39,2:21.32,Jason Martin,,Wisconsin Masters Short Course,2006,1,01RB2
+WMAC,50 Y Breaststroke,SCY,M,35-39,28.83,Daniel J Schaetz,,2006 USMS Short Course Nationals,2006,1,01RBZ
+WMAC,50 Y Breaststroke,SCY,M,35-39,31.00,Matt E Thiele,,Wisconsin Masters SCY Champs,2006,2,01RPZ
+WMAC,50 Y Breaststroke,SCY,M,35-39,35.66,John F Rublein,,Madison East YMCA Short Course Meet,2006,3,01RVC
+WMAC,50 Y Breaststroke,SCY,M,35-39,37.03,David C Guzik,,Wisconsin Masters Oconomowoc Meet,2006,4,01RFV
+WMAC,50 Y Breaststroke,SCY,M,35-39,40.18,Peter T Sheridan,,Madison East YMCA Short Course Meet,2006,5,01RV4
+WMAC,100 Y Breaststroke,SCY,M,35-39,1:03.15,Daniel J Schaetz,,2006 USMS Short Course Nationals,2006,1,01RBZ
+WMAC,100 Y Breaststroke,SCY,M,35-39,1:10.25,Matt E Thiele,,Wisconsin Masters SCY Champs,2006,2,01RPZ
+WMAC,100 Y Breaststroke,SCY,M,35-39,1:18.44,David C Guzik,,Madison East YMCA Short Course Meet,2006,3,01RFV
+WMAC,100 Y Breaststroke,SCY,M,35-39,1:18.80,Reto Frei,,Wisconsin Masters SCY Champs,2006,4,01RVU
+WMAC,100 Y Breaststroke,SCY,M,35-39,1:32.28,Peter T Sheridan,,Madison East YMCA Short Course Meet,2006,5,01RV4
+WMAC,200 Y Breaststroke,SCY,M,35-39,2:48.03,David C Guzik,,Madison East YMCA Short Course Meet,2006,1,01RFV
+WMAC,50 Y Butterfly,SCY,M,35-39,24.67,Daniel J Schaetz,,Wisconsin Masters SCY Champs,2006,1,01RBZ
+WMAC,50 Y Butterfly,SCY,M,35-39,25.07,Laren A Tiltmann,,2006 USMS Short Course Nationals,2006,2,01REY
+WMAC,50 Y Butterfly,SCY,M,35-39,27.00,Matt E Thiele,,Wisconsin Masters SCY Champs,2006,3,01RPZ
+WMAC,50 Y Butterfly,SCY,M,35-39,29.87,Peter J Bridge,,Wisconsin Masters Short Course,2006,4,01RVV
+WMAC,50 Y Butterfly,SCY,M,35-39,29.91,Randy D Klopfer,,Wisconsin Masters SCY Champs,2006,5,01RPN
+WMAC,50 Y Butterfly,SCY,M,35-39,32.47,Gregory J Broghammer,,Wisconsin Masters Short Course,2006,6,01RE9
+WMAC,50 Y Butterfly,SCY,M,35-39,32.65,John F Rublein,,Madison East YMCA Short Course Meet,2006,7,01RVC
+WMAC,100 Y Butterfly,SCY,M,35-39,54.64,Daniel J Schaetz,,2006 USMS Short Course Nationals,2006,1,01RBZ
+WMAC,100 Y Individual Medley,SCY,M,35-39,57.74,Daniel J Schaetz,,Wisconsin Masters SCY Champs,2006,1,01RBZ
+WMAC,100 Y Individual Medley,SCY,M,35-39,1:05.17,Jason Martin,,Wisconsin Masters Short Course,2006,2,01RB2
+WMAC,100 Y Individual Medley,SCY,M,35-39,1:06.26,Matt E Thiele,,Wisconsin Masters Oconomowoc Meet,2006,3,01RPZ
+WMAC,100 Y Individual Medley,SCY,M,35-39,1:10.29,Peter J Bridge,,Wisconsin Masters Short Course,2006,4,01RVV
+WMAC,100 Y Individual Medley,SCY,M,35-39,1:11.48,Randy D Klopfer,,Wisconsin Masters SCY Champs,2006,5,01RPN
+WMAC,100 Y Individual Medley,SCY,M,35-39,1:15.86,Gregory J Broghammer,,Wisconsin Masters Short Course,2006,6,01RE9
+WMAC,100 Y Individual Medley,SCY,M,35-39,1:19.17,David C Guzik,,Wisconsin Masters Oconomowoc Meet,2006,7,01RFV
+WMAC,400 Y Individual Medley,SCY,M,35-39,4:57.42,Jason Martin,,Wisconsin Masters Short Course,2006,1,01RB2
+WMAC,50 Y Freestyle,SCY,M,40-44,24.91,Mark T Foster,,Wisconsin Masters SCY Champs,2006,1,02W0M
+WMAC,50 Y Freestyle,SCY,M,40-44,27.57,David C Miller,,Wisconsin Masters SCY Champs,2006,2,01RPD
+WMAC,50 Y Freestyle,SCY,M,40-44,27.97,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,3,01RBE
+WMAC,50 Y Freestyle,SCY,M,40-44,30.87,Lee R Polacheck,,Wisconsin Masters Oconomowoc Meet,2006,4,01RT6
+WMAC,50 Y Freestyle,SCY,M,40-44,31.41,Michael J Fried,,Wisconsin Masters Short Course,2006,5,01RUW
+WMAC,50 Y Freestyle,SCY,M,40-44,33.54,Bertram R Nickles,,Madison East YMCA Short Course Meet,2006,6,01R60
+WMAC,100 Y Freestyle,SCY,M,40-44,53.73,Steven C Davis,,Wisconsin Masters Oconomowoc Meet,2006,1,01R5Z
+WMAC,100 Y Freestyle,SCY,M,40-44,56.67,Mark T Foster,,Wisconsin Masters SCY Champs,2006,2,02W0M
+WMAC,100 Y Freestyle,SCY,M,40-44,57.28,Jeff J Bauer,,Wisconsin Masters SCY Champs,2006,3,01RAC
+WMAC,100 Y Freestyle,SCY,M,40-44,1:00.19,David C Miller,,Wisconsin Masters SCY Champs,2006,4,01RPD
+WMAC,100 Y Freestyle,SCY,M,40-44,1:01.17,Andy Mixell,,Wisconsin Masters Short Course,2006,5,01RVS
+WMAC,100 Y Freestyle,SCY,M,40-44,1:03.83,Jerry Lourigan,,Madison East YMCA Short Course Meet,2006,6,01RD2
+WMAC,100 Y Freestyle,SCY,M,40-44,1:08.27,Lee R Polacheck,,Wisconsin Masters Oconomowoc Meet,2006,7,01RT6
+WMAC,100 Y Freestyle,SCY,M,40-44,1:10.26,Michael J Fried,,Madison East YMCA Short Course Meet,2006,8,01RUW
+WMAC,100 Y Freestyle,SCY,M,40-44,1:15.46,Bertram R Nickles,,Wisconsin Masters Oconomowoc Meet,2006,9,01R60
+WMAC,200 Y Freestyle,SCY,M,40-44,1:59.71,Steven C Davis,,Wisconsin Masters Oconomowoc Meet,2006,1,01R5Z
+WMAC,200 Y Freestyle,SCY,M,40-44,2:09.26,Mark T Foster,,Wisconsin Masters SCY Champs,2006,2,02W0M
+WMAC,200 Y Freestyle,SCY,M,40-44,2:12.19,Jeff J Bauer,,Madison East YMCA Short Course Meet,2006,3,01RAC
+WMAC,200 Y Freestyle,SCY,M,40-44,2:17.95,David C Miller,,Wisconsin Masters SCY Champs,2006,4,01RPD
+WMAC,200 Y Freestyle,SCY,M,40-44,2:19.13,Jerry Lourigan,,Wisconsin Masters SCY Champs,2006,5,01RD2
+WMAC,200 Y Freestyle,SCY,M,40-44,2:19.97,Kurt W Kleppek,,Wisconsin Masters Oconomowoc Meet,2006,6,01RBE
+WMAC,200 Y Freestyle,SCY,M,40-44,2:44.40,Michael J Fried,,Madison East YMCA Short Course Meet,2006,7,01RUW
+WMAC,500 Y Freestyle,SCY,M,40-44,5:24.96,Steven C Davis,,Wisconsin Masters Oconomowoc Meet,2006,1,01R5Z
+WMAC,500 Y Freestyle,SCY,M,40-44,6:05.27,Jerry Lourigan,,Wisconsin Masters SCY Champs,2006,2,01RD2
+WMAC,500 Y Freestyle,SCY,M,40-44,6:25.05,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,3,01RBE
+WMAC,500 Y Freestyle,SCY,M,40-44,6:26.52,David C Miller,,Wisconsin Masters SCY Champs,2006,4,01RPD
+WMAC,500 Y Freestyle,SCY,M,40-44,6:31.12,Andy Mixell,,Wisconsin Masters Short Course,2006,5,01RVS
+WMAC,500 Y Freestyle,SCY,M,40-44,7:27.66,Michael J Fried,,Wisconsin Masters Oconomowoc Meet,2006,6,01RUW
+WMAC,1000 Y Freestyle,SCY,M,40-44,12:37.17,Jerry Lourigan,,Wisconsin Masters Short Course,2006,1,01RD2
+WMAC,1000 Y Freestyle,SCY,M,40-44,12:49.11,Andy Mixell,,Wisconsin Masters Short Course,2006,2,01RVS
+WMAC,1000 Y Freestyle,SCY,M,40-44,13:23.86,Kurt W Kleppek,,Wisconsin Masters Short Course,2006,3,01RBE
+WMAC,1000 Y Freestyle,SCY,M,40-44,13:41.07,David C Miller,,Wisconsin Masters SCY Champs,2006,4,01RPD
+WMAC,1000 Y Freestyle,SCY,M,40-44,14:56.64,Michael J Fried,,Wisconsin Masters Short Course,2006,5,01RUW
+WMAC,1650 Y Freestyle,SCY,M,40-44,21:01.72,Jerry Lourigan,,Wisconsin Masters SCY Champs,2006,1,01RD2
+WMAC,1650 Y Freestyle,SCY,M,40-44,22:32.03,David C Miller,,Wisconsin Masters SCY Champs,2006,2,01RPD
+WMAC,50 Y Backstroke,SCY,M,40-44,30.05,Jeff J Bauer,,Wisconsin Masters Oconomowoc Meet,2006,1,01RAC
+WMAC,50 Y Backstroke,SCY,M,40-44,36.19,Michael J Fried,,Wisconsin Masters Short Course,2006,2,01RUW
+WMAC,50 Y Backstroke,SCY,M,40-44,36.99,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,3,01RBE
+WMAC,100 Y Backstroke,SCY,M,40-44,1:05.03,Jeff J Bauer,,Madison East YMCA Short Course Meet,2006,1,01RAC
+WMAC,100 Y Backstroke,SCY,M,40-44,1:14.46,Jerry Lourigan,,Madison East YMCA Short Course Meet,2006,2,01RD2
+WMAC,100 Y Backstroke,SCY,M,40-44,1:20.88,Kurt W Kleppek,,Wisconsin Masters Oconomowoc Meet,2006,3,01RBE
+WMAC,200 Y Backstroke,SCY,M,40-44,2:42.47,Jerry Lourigan,,Wisconsin Masters SCY Champs,2006,1,01RD2
+WMAC,50 Y Breaststroke,SCY,M,40-44,32.17,Jeff J Bauer,,Wisconsin Masters Oconomowoc Meet,2006,1,01RAC
+WMAC,50 Y Breaststroke,SCY,M,40-44,32.55,Scott G Powley,,Wisconsin Masters SCY Champs,2006,2,01RVT
+WMAC,50 Y Breaststroke,SCY,M,40-44,35.20,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,3,01RBE
+WMAC,50 Y Breaststroke,SCY,M,40-44,46.07,Bertram R Nickles,,Wisconsin Masters Oconomowoc Meet,2006,4,01R60
+WMAC,100 Y Breaststroke,SCY,M,40-44,1:09.24,Scott G Powley,,Wisconsin Masters SCY Champs,2006,1,01RVT
+WMAC,100 Y Breaststroke,SCY,M,40-44,1:10.88,Jeff J Bauer,,Wisconsin Masters Oconomowoc Meet,2006,2,01RAC
+WMAC,100 Y Breaststroke,SCY,M,40-44,1:21.20,Jerry Lourigan,,Madison East YMCA Short Course Meet,2006,3,01RD2
+WMAC,200 Y Breaststroke,SCY,M,40-44,2:52.81,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,1,01RBE
+WMAC,200 Y Breaststroke,SCY,M,40-44,2:54.74,Jerry Lourigan,,Wisconsin Masters SCY Champs,2006,2,01RD2
+WMAC,200 Y Breaststroke,SCY,M,40-44,3:39.96,Lee R Polacheck,,Wisconsin Masters Oconomowoc Meet,2006,3,01RT6
+WMAC,50 Y Butterfly,SCY,M,40-44,28.18,Chris J Beyer,,Wisconsin Masters SCY Champs,2006,1,01R73
+WMAC,50 Y Butterfly,SCY,M,40-44,28.73,Mark T Foster,,Wisconsin Masters SCY Champs,2006,2,02W0M
+WMAC,50 Y Butterfly,SCY,M,40-44,29.23,Scott G Powley,,Wisconsin Masters SCY Champs,2006,3,01RVT
+WMAC,50 Y Butterfly,SCY,M,40-44,37.48,Michael J Fried,,Wisconsin Masters Short Course,2006,4,01RUW
+WMAC,50 Y Butterfly,SCY,M,40-44,41.58,Bertram R Nickles,,Madison East YMCA Short Course Meet,2006,5,01R60
+WMAC,100 Y Butterfly,SCY,M,40-44,1:08.65,Scott G Powley,,Wisconsin Masters SCY Champs,2006,1,01RVT
+WMAC,100 Y Butterfly,SCY,M,40-44,1:15.37,Jerry Lourigan,,Madison East YMCA Short Course Meet,2006,2,01RD2
+WMAC,200 Y Butterfly,SCY,M,40-44,2:51.46,Jerry Lourigan,,Wisconsin Masters Oconomowoc Meet,2006,1,01RD2
+WMAC,200 Y Butterfly,SCY,M,40-44,2:56.63,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,2,01RBE
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:03.96,Jeff J Bauer,,Wisconsin Masters SCY Champs,2006,1,01RAC
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:05.21,Chris J Beyer,,Wisconsin Masters SCY Champs,2006,2,01R73
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:05.76,Scott G Powley,,Wisconsin Masters SCY Champs,2006,3,01RVT
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:08.47,Mark T Foster,,Wisconsin Masters SCY Champs,2006,4,02W0M
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:14.76,Jerry Lourigan,,Wisconsin Masters Short Course,2006,5,01RD2
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:30.27,Lee R Polacheck,,Wisconsin Masters Oconomowoc Meet,2006,6,01RT6
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:32.38,Michael J Fried,,Madison East YMCA Short Course Meet,2006,7,01RUW
+WMAC,100 Y Individual Medley,SCY,M,40-44,1:41.36,Bertram R Nickles,,Madison East YMCA Short Course Meet,2006,8,01R60
+WMAC,200 Y Individual Medley,SCY,M,40-44,2:26.72,Scott G Powley,,Wisconsin Masters SCY Champs,2006,1,01RVT
+WMAC,200 Y Individual Medley,SCY,M,40-44,2:29.20,Mark T Foster,,Wisconsin Masters SCY Champs,2006,2,02W0M
+WMAC,200 Y Individual Medley,SCY,M,40-44,2:34.67,Jerry Lourigan,,Wisconsin Masters SCY Champs,2006,3,01RD2
+WMAC,400 Y Individual Medley,SCY,M,40-44,5:30.74,Jerry Lourigan,,Wisconsin Masters Oconomowoc Meet,2006,1,01RD2
+WMAC,400 Y Individual Medley,SCY,M,40-44,5:42.24,Kurt W Kleppek,,Wisconsin Masters SCY Champs,2006,2,01RBE
+WMAC,50 Y Freestyle,SCY,M,45-49,24.65,Terry D Krause,,Wisconsin Masters SCY Champs,2006,1,01RSP
+WMAC,50 Y Freestyle,SCY,M,45-49,27.21,Scott Weas,,Wisconsin Masters Oconomowoc Meet,2006,2,01RUU
+WMAC,50 Y Freestyle,SCY,M,45-49,29.47,James P Roman,,Wisconsin Masters SCY Champs,2006,3,01RPM
+WMAC,50 Y Freestyle,SCY,M,45-49,29.78,James F Drought,,Wisconsin Masters Short Course,2006,4,01RGZ
+WMAC,50 Y Freestyle,SCY,M,45-49,31.48,Gus I Robledo,,Wisconsin Masters SCY Champs,2006,5,01RDJ
+WMAC,50 Y Freestyle,SCY,M,45-49,38.16,Timothy J Potter,,Madison East YMCA Short Course Meet,2006,6,01R67
+WMAC,100 Y Freestyle,SCY,M,45-49,54.48,Terry D Krause,,Wisconsin Masters SCY Champs,2006,1,01RSP
+WMAC,100 Y Freestyle,SCY,M,45-49,1:04.70,Peter J Maternowski,,Madison East YMCA Short Course Meet,2006,2,01RD5
+WMAC,100 Y Freestyle,SCY,M,45-49,1:08.59,James P Roman,,Wisconsin Masters Oconomowoc Meet,2006,3,01RPM
+WMAC,100 Y Freestyle,SCY,M,45-49,1:10.97,Gus I Robledo,,Wisconsin Masters SCY Champs,2006,4,01RDJ
+WMAC,100 Y Freestyle,SCY,M,45-49,1:12.65,Tod A Hussinger,,Wisconsin Masters Oconomowoc Meet,2006,5,01RT3
+WMAC,100 Y Freestyle,SCY,M,45-49,1:28.06,Timothy J Potter,,Wisconsin Masters Oconomowoc Meet,2006,6,01R67
+WMAC,200 Y Freestyle,SCY,M,45-49,2:08.69,Terry D Krause,,Wisconsin Masters SCY Champs,2006,1,01RSP
+WMAC,200 Y Freestyle,SCY,M,45-49,2:41.79,Tod A Hussinger,,Wisconsin Masters Oconomowoc Meet,2006,2,01RT3
+WMAC,200 Y Freestyle,SCY,M,45-49,3:19.42,Dennis J Mueller,,Wisconsin Masters Oconomowoc Meet,2006,3,01RUR
+WMAC,500 Y Freestyle,SCY,M,45-49,6:02.33,Terry D Krause,,Wisconsin Masters SCY Champs,2006,1,01RSP
+WMAC,500 Y Freestyle,SCY,M,45-49,6:46.94,James F Drought,,Wisconsin Masters SCY Champs,2006,2,01RGZ
+WMAC,500 Y Freestyle,SCY,M,45-49,7:34.91,Tod A Hussinger,,Wisconsin Masters Oconomowoc Meet,2006,3,01RT3
+WMAC,500 Y Freestyle,SCY,M,45-49,8:59.44,Dennis J Mueller,,Wisconsin Masters Oconomowoc Meet,2006,4,01RUR
+WMAC,500 Y Freestyle,SCY,M,45-49,9:13.71,Timothy J Potter,,Madison East YMCA Short Course Meet,2006,5,01R67
+WMAC,50 Y Backstroke,SCY,M,45-49,39.12,James P Roman,,Wisconsin Masters SCY Champs,2006,1,01RPM
+WMAC,50 Y Backstroke,SCY,M,45-49,46.30,Timothy J Potter,,Madison East YMCA Short Course Meet,2006,2,01R67
+WMAC,100 Y Backstroke,SCY,M,45-49,1:26.99,James P Roman,,Wisconsin Masters SCY Champs,2006,1,01RPM
+WMAC,200 Y Backstroke,SCY,M,45-49,3:14.74,James P Roman,,Wisconsin Masters SCY Champs,2006,1,01RPM
+WMAC,50 Y Breaststroke,SCY,M,45-49,34.53,James F Drought,,Wisconsin Masters Oconomowoc Meet,2006,1,01RGZ
+WMAC,50 Y Breaststroke,SCY,M,45-49,39.04,Gus I Robledo,,Wisconsin Masters SCY Champs,2006,2,01RDJ
+WMAC,50 Y Breaststroke,SCY,M,45-49,41.19,John J O'Neill,,Wisconsin Masters Oconomowoc Meet,2006,3,01RS0
+WMAC,100 Y Breaststroke,SCY,M,45-49,1:07.06,Peter J Allen,,Wisconsin Masters SCY Champs,2006,1,01RCB
+WMAC,100 Y Breaststroke,SCY,M,45-49,1:17.62,James F Drought,,Madison East YMCA Short Course Meet,2006,2,01RGZ
+WMAC,100 Y Breaststroke,SCY,M,45-49,1:27.16,Gus I Robledo,,Wisconsin Masters SCY Champs,2006,3,01RDJ
+WMAC,100 Y Breaststroke,SCY,M,45-49,1:29.20,Tod A Hussinger,,Wisconsin Masters Oconomowoc Meet,2006,4,01RT3
+WMAC,100 Y Breaststroke,SCY,M,45-49,1:31.86,John J O'Neill,,Wisconsin Masters Oconomowoc Meet,2006,5,01RS0
+WMAC,200 Y Breaststroke,SCY,M,45-49,2:53.42,James F Drought,,Wisconsin Masters SCY Champs,2006,1,01RGZ
+WMAC,200 Y Breaststroke,SCY,M,45-49,3:17.18,Gus I Robledo,,Wisconsin Masters SCY Champs,2006,2,01RDJ
+WMAC,200 Y Breaststroke,SCY,M,45-49,3:17.96,John J O'Neill,,Wisconsin Masters Oconomowoc Meet,2006,3,01RS0
+WMAC,50 Y Butterfly,SCY,M,45-49,27.76,Terry D Krause,,Wisconsin Masters SCY Champs,2006,1,01RSP
+WMAC,50 Y Butterfly,SCY,M,45-49,28.29,Eric J Jernberg,,Wisconsin Masters SCY Champs,2006,2,01R77
+WMAC,50 Y Butterfly,SCY,M,45-49,28.58,Peter J Allen,,Wisconsin Masters SCY Champs,2006,3,01RCB
+WMAC,50 Y Butterfly,SCY,M,45-49,30.80,James F Drought,,Wisconsin Masters Oconomowoc Meet,2006,4,01RGZ
+WMAC,50 Y Butterfly,SCY,M,45-49,35.03,Peter J Maternowski,,Madison East YMCA Short Course Meet,2006,5,01RD5
+WMAC,50 Y Butterfly,SCY,M,45-49,43.74,Timothy J Potter,,Wisconsin Masters Oconomowoc Meet,2006,6,01R67
+WMAC,100 Y Butterfly,SCY,M,45-49,1:00.69,Eric J Jernberg,,Wisconsin Masters Oconomowoc Meet,2006,1,01R77
+WMAC,100 Y Butterfly,SCY,M,45-49,1:14.10,James F Drought,,Wisconsin Masters SCY Champs,2006,2,01RGZ
+WMAC,200 Y Butterfly,SCY,M,45-49,2:17.09,Eric J Jernberg,,Wisconsin Masters Oconomowoc Meet,2006,1,01R77
+WMAC,100 Y Individual Medley,SCY,M,45-49,1:04.65,Peter J Allen,,Wisconsin Masters SCY Champs,2006,1,01RCB
+WMAC,100 Y Individual Medley,SCY,M,45-49,1:04.96,Terry D Krause,,Wisconsin Masters SCY Champs,2006,2,01RSP
+WMAC,100 Y Individual Medley,SCY,M,45-49,1:12.87,James F Drought,,Wisconsin Masters Oconomowoc Meet,2006,3,01RGZ
+WMAC,100 Y Individual Medley,SCY,M,45-49,1:13.93,Scott Weas,,Wisconsin Masters Oconomowoc Meet,2006,4,01RUU
+WMAC,100 Y Individual Medley,SCY,M,45-49,1:24.42,Gus I Robledo,,Wisconsin Masters Short Course,2006,5,01RDJ
+WMAC,100 Y Individual Medley,SCY,M,45-49,1:39.51,Timothy J Potter,,Wisconsin Masters Oconomowoc Meet,2006,6,01R67
+WMAC,200 Y Individual Medley,SCY,M,45-49,3:04.46,Peter J Maternowski,,Madison East YMCA Short Course Meet,2006,1,01RD5
+WMAC,200 Y Individual Medley,SCY,M,45-49,3:41.25,Timothy J Potter,,Wisconsin Masters Oconomowoc Meet,2006,2,01R67
+WMAC,50 Y Freestyle,SCY,M,50-54,24.00,Steve R Forrer,,Wisconsin Masters SCY Champs,2006,1,01R7G
+WMAC,50 Y Freestyle,SCY,M,50-54,25.38,Jeffrey E Holcomb,,Madison East YMCA Short Course Meet,2006,2,01RMG
+WMAC,50 Y Freestyle,SCY,M,50-54,25.80,Thomas S Jones,,Wisconsin Masters Oconomowoc Meet,2006,3,01RCZ
+WMAC,50 Y Freestyle,SCY,M,50-54,25.91,Eric J Ehrke,,Wisconsin Masters SCY Champs,2006,4,01RSV
+WMAC,50 Y Freestyle,SCY,M,50-54,26.01,Geoff L Mykleby,,Wisconsin Masters Oconomowoc Meet,2006,5,02V9A
+WMAC,50 Y Freestyle,SCY,M,50-54,26.52,Cary F DeGrazia,,Wisconsin Masters SCY Champs,2006,6,01RKM
+WMAC,50 Y Freestyle,SCY,M,50-54,26.62,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,7,01RSG
+WMAC,50 Y Freestyle,SCY,M,50-54,28.66,David T Watts,,Wisconsin Masters SCY Champs,2006,8,01RSS
+WMAC,50 Y Freestyle,SCY,M,50-54,29.48,Jay S Kemp,,Wisconsin Masters SCY Champs,2006,9,01RFP
+WMAC,50 Y Freestyle,SCY,M,50-54,30.76,Peter J Ives,,Madison East YMCA Short Course Meet,2006,10,01RCR
+WMAC,50 Y Freestyle,SCY,M,50-54,31.44,Stephen W Justinger,,Wisconsin Masters SCY Champs,2006,11,01RBV
+WMAC,50 Y Freestyle,SCY,M,50-54,35.92,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,12,01R67
+WMAC,50 Y Freestyle,SCY,M,50-54,37.84,Gary A Braman,,Wisconsin Masters Short Course,2006,13,01RUY
+WMAC,100 Y Freestyle,SCY,M,50-54,54.40,Steve R Forrer,,Wisconsin Masters SCY Champs,2006,1,01R7G
+WMAC,100 Y Freestyle,SCY,M,50-54,57.00,Eric J Ehrke,,Wisconsin Masters SCY Champs,2006,2,01RSV
+WMAC,100 Y Freestyle,SCY,M,50-54,59.71,Jeffrey Nelson,,Wisconsin Masters SCY Champs,2006,3,01RCM
+WMAC,100 Y Freestyle,SCY,M,50-54,59.81,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,4,01RSG
+WMAC,100 Y Freestyle,SCY,M,50-54,1:00.10,Thomas S Jones,,Wisconsin Masters Oconomowoc Meet,2006,5,01RCZ
+WMAC,100 Y Freestyle,SCY,M,50-54,1:04.34,Peter J Ives,,Madison East YMCA Short Course Meet,2006,6,01RCR
+WMAC,100 Y Freestyle,SCY,M,50-54,1:06.03,Jay S Kemp,,Wisconsin Masters SCY Champs,2006,7,01RFP
+WMAC,100 Y Freestyle,SCY,M,50-54,1:07.07,John P Cler,,Wisconsin Masters Oconomowoc Meet,2006,8,01RRW
+WMAC,100 Y Freestyle,SCY,M,50-54,1:07.95,Stephen W Justinger,,Wisconsin Masters SCY Champs,2006,9,01RBV
+WMAC,100 Y Freestyle,SCY,M,50-54,1:18.86,Pete Pronold,,Wisconsin Masters Oconomowoc Meet,2006,10,01RD6
+WMAC,100 Y Freestyle,SCY,M,50-54,1:27.54,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,11,01R67
+WMAC,100 Y Freestyle,SCY,M,50-54,1:34.45,Gary A Braman,,Madison East YMCA Short Course Meet,2006,12,01RUY
+WMAC,200 Y Freestyle,SCY,M,50-54,2:04.72,Steve R Forrer,,Wisconsin Masters SCY Champs,2006,1,01R7G
+WMAC,200 Y Freestyle,SCY,M,50-54,2:10.93,Eric J Ehrke,,Wisconsin Masters SCY Champs,2006,2,01RSV
+WMAC,200 Y Freestyle,SCY,M,50-54,2:13.98,Jeffrey Nelson,,Wisconsin Masters SCY Champs,2006,3,01RCM
+WMAC,200 Y Freestyle,SCY,M,50-54,2:25.31,John P Cler,,Wisconsin Masters Oconomowoc Meet,2006,4,01RRW
+WMAC,200 Y Freestyle,SCY,M,50-54,2:26.85,David T Watts,,Wisconsin Masters SCY Champs,2006,5,01RSS
+WMAC,200 Y Freestyle,SCY,M,50-54,2:28.69,Stephen W Justinger,,Wisconsin Masters SCY Champs,2006,6,01RBV
+WMAC,200 Y Freestyle,SCY,M,50-54,2:35.19,Jay S Kemp,,Wisconsin Masters SCY Champs,2006,7,01RFP
+WMAC,200 Y Freestyle,SCY,M,50-54,2:52.04,Pete Pronold,,Wisconsin Masters Oconomowoc Meet,2006,8,01RD6
+WMAC,500 Y Freestyle,SCY,M,50-54,5:52.84,Eric J Ehrke,,Wisconsin Masters SCY Champs,2006,1,01RSV
+WMAC,500 Y Freestyle,SCY,M,50-54,5:55.25,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,2,01RSG
+WMAC,500 Y Freestyle,SCY,M,50-54,6:04.06,Jeffrey Nelson,,Wisconsin Masters SCY Champs,2006,3,01RCM
+WMAC,500 Y Freestyle,SCY,M,50-54,6:26.70,John P Cler,,Wisconsin Masters Oconomowoc Meet,2006,4,01RRW
+WMAC,500 Y Freestyle,SCY,M,50-54,6:33.77,David T Watts,,Wisconsin Masters SCY Champs,2006,5,01RSS
+WMAC,500 Y Freestyle,SCY,M,50-54,6:39.60,Stephen W Justinger,,Wisconsin Masters SCY Champs,2006,6,01RBV
+WMAC,500 Y Freestyle,SCY,M,50-54,7:40.77,Pete Pronold,,Wisconsin Masters Oconomowoc Meet,2006,7,01RD6
+WMAC,500 Y Freestyle,SCY,M,50-54,8:53.81,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,8,01R67
+WMAC,1000 Y Freestyle,SCY,M,50-54,12:30.28,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,1,01RSG
+WMAC,1000 Y Freestyle,SCY,M,50-54,13:41.57,Stephen W Justinger,,Wisconsin Masters Short Course,2006,2,01RBV
+WMAC,1000 Y Freestyle,SCY,M,50-54,18:45.64,Timothy J Potter,,Wisconsin Masters Short Course,2006,3,01R67
+WMAC,1650 Y Freestyle,SCY,M,50-54,20:40.79,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,1,01RSG
+WMAC,1650 Y Freestyle,SCY,M,50-54,22:35.90,Stephen W Justinger,,Wisconsin Masters SCY Champs,2006,2,01RBV
+WMAC,1650 Y Freestyle,SCY,M,50-54,31:21.40,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,3,01R67
+WMAC,50 Y Backstroke,SCY,M,50-54,27.68,Geoff L Mykleby,,2006 USMS Short Course Nationals,2006,1,02V9A
+WMAC,50 Y Backstroke,SCY,M,50-54,33.20,Eric J Ehrke,,Wisconsin Masters Oconomowoc Meet,2006,2,01RSV
+WMAC,50 Y Backstroke,SCY,M,50-54,44.18,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,3,01R67
+WMAC,50 Y Backstroke,SCY,M,50-54,50.84,Gary A Braman,,Wisconsin Masters Short Course,2006,4,01RUY
+WMAC,100 Y Backstroke,SCY,M,50-54,59.85,Geoff L Mykleby,,2006 USMS Short Course Nationals,2006,1,02V9A
+WMAC,100 Y Backstroke,SCY,M,50-54,1:18.04,Peter J Ives,,Madison East YMCA Short Course Meet,2006,2,01RCR
+WMAC,100 Y Backstroke,SCY,M,50-54,1:35.94,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,3,01R67
+WMAC,200 Y Backstroke,SCY,M,50-54,2:18.89,Geoff L Mykleby,,2006 USMS Short Course Nationals,2006,1,02V9A
+WMAC,50 Y Breaststroke,SCY,M,50-54,34.16,Steve R Forrer,,Wisconsin Masters SCY Champs,2006,1,01R7G
+WMAC,50 Y Breaststroke,SCY,M,50-54,34.31,Cary F DeGrazia,,Wisconsin Masters SCY Champs,2006,2,01RKM
+WMAC,50 Y Breaststroke,SCY,M,50-54,34.98,Geoff L Mykleby,,Wisconsin Masters Oconomowoc Meet,2006,3,02V9A
+WMAC,50 Y Breaststroke,SCY,M,50-54,45.58,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,4,01R67
+WMAC,50 Y Breaststroke,SCY,M,50-54,51.03,Gary A Braman,,Wisconsin Masters Short Course,2006,5,01RUY
+WMAC,100 Y Breaststroke,SCY,M,50-54,1:58.44,Gary A Braman,,Madison East YMCA Short Course Meet,2006,1,01RUY
+WMAC,200 Y Breaststroke,SCY,M,50-54,2:44.99,Jeffrey A Busse,,Wisconsin Masters SCY Champs,2006,1,01RAU
+WMAC,200 Y Breaststroke,SCY,M,50-54,2:50.51,Peter J Ives,,Madison East YMCA Short Course Meet,2006,2,01RCR
+WMAC,200 Y Breaststroke,SCY,M,50-54,4:16.94,Gary A Braman,,Madison East YMCA Short Course Meet,2006,3,01RUY
+WMAC,50 Y Butterfly,SCY,M,50-54,26.45,Geoff L Mykleby,,2006 YMCA Masters Nationals at ISHOF SCY,2006,1,02V9A
+WMAC,50 Y Butterfly,SCY,M,50-54,28.79,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,2,01RSG
+WMAC,50 Y Butterfly,SCY,M,50-54,31.00,Thomas S Jones,,Wisconsin Masters Oconomowoc Meet,2006,3,01RCZ
+WMAC,50 Y Butterfly,SCY,M,50-54,31.19,Jeffrey Nelson,,Wisconsin Masters SCY Champs,2006,4,01RCM
+WMAC,50 Y Butterfly,SCY,M,50-54,32.35,Jay S Kemp,,Wisconsin Masters SCY Champs,2006,5,01RFP
+WMAC,50 Y Butterfly,SCY,M,50-54,42.00,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,6,01R67
+WMAC,100 Y Butterfly,SCY,M,50-54,59.71,Geoff L Mykleby,,2006 USMS Short Course Nationals,2006,1,02V9A
+WMAC,100 Y Butterfly,SCY,M,50-54,1:04.56,Mike R Jajtner,,Wisconsin Masters SCY Champs,2006,2,01RSG
+WMAC,100 Y Butterfly,SCY,M,50-54,1:09.82,Jeffrey A Busse,,Wisconsin Masters SCY Champs,2006,3,01RAU
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:01.13,Geoff L Mykleby,,2006 YMCA Masters Nationals at ISHOF SCY,2006,1,02V9A
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:06.34,Steve R Forrer,,Wisconsin Masters SCY Champs,2006,2,01R7G
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:09.03,Jeffrey E Holcomb,,Madison East YMCA Short Course Meet,2006,3,01RMG
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:11.11,Peter J Ives,,Madison East YMCA Short Course Meet,2006,4,01RCR
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:20.14,Jay S Kemp,,Wisconsin Masters SCY Champs,2006,5,01RFP
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:24.87,Stephen W Justinger,,Wisconsin Masters Short Course,2006,6,01RBV
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:35.07,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,7,01R67
+WMAC,100 Y Individual Medley,SCY,M,50-54,1:51.99,Gary A Braman,,Wisconsin Masters Short Course,2006,8,01RUY
+WMAC,200 Y Individual Medley,SCY,M,50-54,2:22.07,Geoff L Mykleby,,2006 YMCA Masters Nationals at ISHOF SCY,2006,1,02V9A
+WMAC,200 Y Individual Medley,SCY,M,50-54,2:33.51,Jeffrey A Busse,,Wisconsin Masters SCY Champs,2006,2,01RAU
+WMAC,200 Y Individual Medley,SCY,M,50-54,3:32.13,Timothy J Potter,,Wisconsin Masters SCY Champs,2006,3,01R67
+WMAC,400 Y Individual Medley,SCY,M,50-54,5:57.60,Jeffrey A Busse,,Wisconsin Masters Oconomowoc Meet,2006,1,01RAU
+WMAC,50 Y Freestyle,SCY,M,55-59,27.46,Daniel R Slick,,Wisconsin Masters Oconomowoc Meet,2006,1,01RDC
+WMAC,50 Y Freestyle,SCY,M,55-59,28.06,John M Couper,,Madison East YMCA Short Course Meet,2006,2,01R7R
+WMAC,50 Y Freestyle,SCY,M,55-59,28.22,Bill Koller,,Madison East YMCA Short Course Meet,2006,3,01RA2
+WMAC,50 Y Freestyle,SCY,M,55-59,31.00,Ken P Thompson,,Wisconsin Masters Short Course,2006,4,01RUZ
+WMAC,50 Y Freestyle,SCY,M,55-59,31.33,Mike Murray,,Wisconsin Masters SCY Champs,2006,5,01RAJ
+WMAC,50 Y Freestyle,SCY,M,55-59,32.95,Tom P Effenheim,,Wisconsin Senior Olympics,2006,6,01RJA
+WMAC,50 Y Freestyle,SCY,M,55-59,34.61,William J Roegge,,Wisconsin Masters SCY Champs,2006,7,01RV9
+WMAC,100 Y Freestyle,SCY,M,55-59,1:02.44,John M Couper,,Wisconsin Masters Oconomowoc Meet,2006,1,01R7R
+WMAC,500 Y Freestyle,SCY,M,55-59,9:45.39,Darrell W Griesbach,,Wisconsin Senior Olympics,2006,1,01RD8
+WMAC,50 Y Backstroke,SCY,M,55-59,32.81,Daniel R Slick,,Wisconsin Masters SCY Champs,2006,1,01RDC
+WMAC,50 Y Backstroke,SCY,M,55-59,38.32,Mike Murray,,Wisconsin Masters SCY Champs,2006,2,01RAJ
+WMAC,50 Y Backstroke,SCY,M,55-59,42.45,Tom P Effenheim,,Wisconsin Senior Olympics,2006,3,01RJA
+WMAC,100 Y Backstroke,SCY,M,55-59,1:09.93,Daniel R Slick,,Wisconsin Masters Oconomowoc Meet,2006,1,01RDC
+WMAC,100 Y Backstroke,SCY,M,55-59,1:17.63,John M Couper,,Wisconsin Masters Oconomowoc Meet,2006,2,01R7R
+WMAC,50 Y Breaststroke,SCY,M,55-59,34.06,Bill Koller,,Madison East YMCA Short Course Meet,2006,1,01RA2
+WMAC,50 Y Breaststroke,SCY,M,55-59,37.08,John M Couper,,Madison East YMCA Short Course Meet,2006,2,01R7R
+WMAC,50 Y Breaststroke,SCY,M,55-59,38.17,Mike Murray,,Wisconsin Masters SCY Champs,2006,3,01RAJ
+WMAC,50 Y Breaststroke,SCY,M,55-59,39.11,Tom P Effenheim,,Wisconsin Senior Olympics,2006,4,01RJA
+WMAC,50 Y Breaststroke,SCY,M,55-59,39.30,Ken P Thompson,,Wisconsin Masters Short Course,2006,5,01RUZ
+WMAC,50 Y Breaststroke,SCY,M,55-59,40.97,Daniel R Slick,,Madison East YMCA Short Course Meet,2006,6,01RDC
+WMAC,50 Y Breaststroke,SCY,M,55-59,41.43,Darrell W Griesbach,,Wisconsin Masters Short Course,2006,7,01RD8
+WMAC,100 Y Breaststroke,SCY,M,55-59,1:23.35,Mike Murray,,Wisconsin Masters SCY Champs,2006,1,01RAJ
+WMAC,100 Y Breaststroke,SCY,M,55-59,1:27.09,Daniel R Slick,,Wisconsin Masters SCY Champs,2006,2,01RDC
+WMAC,100 Y Breaststroke,SCY,M,55-59,1:33.53,Darrell W Griesbach,,Wisconsin Senior Olympics,2006,3,01RD8
+WMAC,200 Y Breaststroke,SCY,M,55-59,3:05.21,Mike Murray,,Wisconsin Masters SCY Champs,2006,1,01RAJ
+WMAC,200 Y Breaststroke,SCY,M,55-59,3:21.37,Darrell W Griesbach,,Wisconsin Masters Short Course,2006,2,01RD8
+WMAC,50 Y Butterfly,SCY,M,55-59,30.11,Tom Meehan,,Wisconsin Masters SCY Champs,2006,1,01R70
+WMAC,50 Y Butterfly,SCY,M,55-59,30.95,John M Couper,,Wisconsin Masters Oconomowoc Meet,2006,2,01R7R
+WMAC,50 Y Butterfly,SCY,M,55-59,39.14,Tom P Effenheim,,Wisconsin Senior Olympics,2006,3,01RJA
+WMAC,200 Y Butterfly,SCY,M,55-59,2:57.22,Tom Meehan,,Wisconsin Masters SCY Champs,2006,1,01R70
+WMAC,100 Y Individual Medley,SCY,M,55-59,1:13.73,John M Couper,,Madison East YMCA Short Course Meet,2006,1,01R7R
+WMAC,100 Y Individual Medley,SCY,M,55-59,1:20.79,Mike Murray,,Wisconsin Masters SCY Champs,2006,2,01RAJ
+WMAC,100 Y Individual Medley,SCY,M,55-59,1:24.53,Ken P Thompson,,Wisconsin Masters Short Course,2006,3,01RUZ
+WMAC,100 Y Individual Medley,SCY,M,55-59,1:25.36,Tom P Effenheim,,Wisconsin Senior Olympics,2006,4,01RJA
+WMAC,100 Y Individual Medley,SCY,M,55-59,1:42.09,Darrell W Griesbach,,Wisconsin Senior Olympics,2006,5,01RD8
+WMAC,50 Y Freestyle,SCY,M,60-64,27.68,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,50 Y Freestyle,SCY,M,60-64,28.90,Jack R Behm,,Wisconsin Masters SCY Champs,2006,2,01RUX
+WMAC,50 Y Freestyle,SCY,M,60-64,30.61,Dick M Pitman,,Wisconsin Masters Short Course,2006,3,01RE7
+WMAC,100 Y Freestyle,SCY,M,60-64,1:01.87,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,100 Y Freestyle,SCY,M,60-64,1:06.14,Dick M Pitman,,Madison East YMCA Short Course Meet,2006,2,01RE7
+WMAC,200 Y Freestyle,SCY,M,60-64,2:25.95,Dick M Pitman,,Madison East YMCA Short Course Meet,2006,1,01RE7
+WMAC,500 Y Freestyle,SCY,M,60-64,6:57.07,Dick M Pitman,,Wisconsin Masters SCY Champs,2006,1,01RE7
+WMAC,50 Y Backstroke,SCY,M,60-64,35.58,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,100 Y Backstroke,SCY,M,60-64,1:19.21,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,100 Y Backstroke,SCY,M,60-64,1:25.65,Dick M Pitman,,Wisconsin Masters SCY Champs,2006,2,01RE7
+WMAC,200 Y Backstroke,SCY,M,60-64,2:48.61,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,50 Y Breaststroke,SCY,M,60-64,35.65,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,50 Y Breaststroke,SCY,M,60-64,41.50,Dick M Pitman,,Madison East YMCA Short Course Meet,2006,2,01RE7
+WMAC,50 Y Butterfly,SCY,M,60-64,30.37,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,100 Y Individual Medley,SCY,M,60-64,1:12.41,John M Couper,,Wisconsin Masters SCY Champs,2006,1,01R7R
+WMAC,100 Y Individual Medley,SCY,M,60-64,1:19.15,Dick M Pitman,,Wisconsin Masters SCY Champs,2006,2,01RE7
+WMAC,100 Y Freestyle,SCY,M,65-69,1:40.27,Howard S Schwartz,,Madison East YMCA Short Course Meet,2006,1,01RV3
+WMAC,200 Y Freestyle,SCY,M,65-69,3:57.64,Howard S Schwartz,,Madison East YMCA Short Course Meet,2006,1,01RV3
+WMAC,500 Y Freestyle,SCY,M,65-69,9:08.00,Bob Swain,,Wisconsin Masters SCY Champs,2006,1,01R62
+WMAC,500 Y Freestyle,SCY,M,65-69,10:25.60,Howard S Schwartz,,Madison East YMCA Short Course Meet,2006,2,01RV3
+WMAC,50 Y Breaststroke,SCY,M,65-69,46.98,Bob Swain,,Wisconsin Masters SCY Champs,2006,1,01R62
+WMAC,100 Y Breaststroke,SCY,M,65-69,2:10.22,Howard S Schwartz,,Madison East YMCA Short Course Meet,2006,1,01RV3
+WMAC,200 Y Breaststroke,SCY,M,65-69,3:55.52,Bob Swain,,Wisconsin Masters SCY Champs,2006,1,01R62
+WMAC,200 Y Individual Medley,SCY,M,65-69,3:46.17,Bob Swain,,Wisconsin Masters SCY Champs,2006,1,01R62
+WMAC,50 Y Freestyle,SCY,M,70-74,40.40,Fred Salzmann,,Wisconsin Masters Short Course,2006,1,01R9S
+WMAC,50 Y Freestyle,SCY,M,70-74,41.34,Tom Michelson,,Wisconsin Masters Oconomowoc Meet,2006,2,01R6T
+WMAC,50 Y Freestyle,SCY,M,70-74,52.02,Jack H Hughes,,Wisconsin Masters Short Course,2006,3,01RCJ
+WMAC,100 Y Freestyle,SCY,M,70-74,1:37.25,Fred Salzmann,,Wisconsin Masters SCY Champs,2006,1,01R9S
+WMAC,200 Y Freestyle,SCY,M,70-74,3:29.22,Fred Salzmann,,Wisconsin Masters SCY Champs,2006,1,01R9S
+WMAC,500 Y Freestyle,SCY,M,70-74,9:19.81,Fred Salzmann,,Madison East YMCA Short Course Meet,2006,1,01R9S
+WMAC,1000 Y Freestyle,SCY,M,70-74,19:16.88,Fred Salzmann,,2006 YMCA Masters Nationals at ISHOF SCY,2006,1,01R9S
+WMAC,1650 Y Freestyle,SCY,M,70-74,32:14.46,Fred Salzmann,,Wisconsin Masters SCY Champs,2006,1,01R9S
+WMAC,50 Y Backstroke,SCY,M,70-74,36.41,Bela Sandor,,Wisconsin Masters SCY Champs,2006,1,01R5U
+WMAC,50 Y Backstroke,SCY,M,70-74,44.86,Fred Salzmann,,Wisconsin Masters Oconomowoc Meet,2006,2,01R9S
+WMAC,50 Y Backstroke,SCY,M,70-74,47.22,Tom Michelson,,Wisconsin Masters Oconomowoc Meet,2006,3,01R6T
+WMAC,50 Y Backstroke,SCY,M,70-74,1:09.91,Jack H Hughes,,Wisconsin Masters Short Course,2006,4,01RCJ
+WMAC,100 Y Backstroke,SCY,M,70-74,1:40.80,Fred Salzmann,,Wisconsin Masters SCY Champs,2006,1,01R9S
+WMAC,200 Y Backstroke,SCY,M,70-74,3:33.74,Fred Salzmann,,Wisconsin Masters Oconomowoc Meet,2006,1,01R9S
+WMAC,50 Y Breaststroke,SCY,M,70-74,35.19,Bela Sandor,,Wisconsin Masters SCY Champs,2006,1,01R5U
+WMAC,50 Y Breaststroke,SCY,M,70-74,48.53,Tom Michelson,,Wisconsin Masters Oconomowoc Meet,2006,2,01R6T
+WMAC,50 Y Breaststroke,SCY,M,70-74,51.19,Fred Salzmann,,Wisconsin Masters SCY Champs,2006,3,01R9S
+WMAC,100 Y Breaststroke,SCY,M,70-74,1:17.05,Bela Sandor,,Wisconsin Masters SCY Champs,2006,1,01R5U
+WMAC,200 Y Breaststroke,SCY,M,70-74,2:52.92,Bela Sandor,,Wisconsin Masters SCY Champs,2006,1,01R5U
+WMAC,50 Y Butterfly,SCY,M,70-74,52.47,Tom Michelson,,Wisconsin Masters Oconomowoc Meet,2006,1,01R6T
+WMAC,200 Y Individual Medley,SCY,M,70-74,2:54.88,Bela Sandor,,Wisconsin Masters Oconomowoc Meet,2006,1,01R5U
+WMAC,50 Y Freestyle,SCY,M,75-79,37.26,Bill Payne,,Madison East YMCA Short Course Meet,2006,1,01R7H
+WMAC,50 Y Freestyle,SCY,M,75-79,47.83,Gordon J Schalla,,National Senior Games,2006,2,01R6D
+WMAC,50 Y Freestyle,SCY,M,75-79,49.98,James R Sevenich,,Wisconsin Masters Short Course,2006,3,01R5R
+WMAC,100 Y Freestyle,SCY,M,75-79,1:15.06,W Morgan Byers,,National Senior Games,2006,1,01R6S
+WMAC,100 Y Freestyle,SCY,M,75-79,1:18.49,Bill Payne,,National Senior Games,2006,2,01R7H
+WMAC,100 Y Freestyle,SCY,M,75-79,2:01.96,James R Sevenich,,Wisconsin Masters Short Course,2006,3,01R5R
+WMAC,200 Y Freestyle,SCY,M,75-79,2:48.13,W Morgan Byers,,National Senior Games,2006,1,01R6S
+WMAC,500 Y Freestyle,SCY,M,75-79,7:44.78,W Morgan Byers,,National Senior Games,2006,1,01R6S
+WMAC,500 Y Freestyle,SCY,M,75-79,10:21.82,John H Bauman,,Wisconsin Masters SCY Champs,2006,2,01R5N
+WMAC,1000 Y Freestyle,SCY,M,75-79,17:12.35,W Morgan Byers,,Wisconsin Masters Short Course,2006,1,01R6S
+WMAC,1000 Y Freestyle,SCY,M,75-79,21:55.30,John H Bauman,,2006 USMS Short Course Nationals,2006,2,01R5N
+WMAC,50 Y Backstroke,SCY,M,75-79,46.14,Alex J MacGillis,,Wisconsin Senior Olympics,2006,1,01R9W
+WMAC,50 Y Backstroke,SCY,M,75-79,47.46,John H Bauman,,2006 USMS Short Course Nationals,2006,2,01R5N
+WMAC,50 Y Backstroke,SCY,M,75-79,54.63,Gordon J Schalla,,National Senior Games,2006,3,01R6D
+WMAC,50 Y Backstroke,SCY,M,75-79,1:03.60,James R Sevenich,,Wisconsin Masters Short Course,2006,4,01R5R
+WMAC,100 Y Backstroke,SCY,M,75-79,1:34.71,W Morgan Byers,,National Senior Games,2006,1,01R6S
+WMAC,200 Y Backstroke,SCY,M,75-79,3:30.54,W Morgan Byers,,National Senior Games,2006,1,01R6S
+WMAC,50 Y Breaststroke,SCY,M,75-79,43.63,John H Bauman,,2006 USMS Short Course Nationals,2006,1,01R5N
+WMAC,50 Y Breaststroke,SCY,M,75-79,45.26,Alex J MacGillis,,Wisconsin Senior Olympics,2006,2,01R9W
+WMAC,50 Y Breaststroke,SCY,M,75-79,57.30,Gordon J Schalla,,National Senior Games,2006,3,01R6D
+WMAC,100 Y Breaststroke,SCY,M,75-79,1:43.30,John H Bauman,,2006 USMS Short Course Nationals,2006,1,01R5N
+WMAC,100 Y Breaststroke,SCY,M,75-79,1:44.72,Alex J MacGillis,,Wisconsin Senior Olympics,2006,2,01R9W
+WMAC,200 Y Breaststroke,SCY,M,75-79,3:55.36,John H Bauman,,Wisconsin Masters SCY Champs,2006,1,01R5N
+WMAC,50 Y Butterfly,SCY,M,75-79,40.94,Bill Payne,,National Senior Games,2006,1,01R7H
+WMAC,50 Y Butterfly,SCY,M,75-79,46.69,Alex J MacGillis,,Wisconsin Masters Oconomowoc Meet,2006,2,01R9W
+WMAC,100 Y Butterfly,SCY,M,75-79,1:36.87,Bill Payne,,National Senior Games,2006,1,01R7H
+WMAC,100 Y Butterfly,SCY,M,75-79,1:49.55,Alex J MacGillis,,Wisconsin Senior Olympics,2006,2,01R9W
+WMAC,100 Y Individual Medley,SCY,M,75-79,1:30.83,Bill Payne,,National Senior Games,2006,1,01R7H
+WMAC,100 Y Individual Medley,SCY,M,75-79,1:45.18,John H Bauman,,Wisconsin Masters Oconomowoc Meet,2006,2,01R5N
+WMAC,200 Y Individual Medley,SCY,M,75-79,3:22.36,W Morgan Byers,,National Senior Games,2006,1,01R6S
+WMAC,200 Y Individual Medley,SCY,M,75-79,3:32.16,Bill Payne,,National Senior Games,2006,2,01R7H

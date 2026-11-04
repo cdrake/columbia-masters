@@ -1,7 +1,46 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-UC29,50 M Freestyle,SCM,W,75-79,52.95,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1
-UC29,100 M Freestyle,SCM,W,75-79,2:03.58,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1
-UC29,200 M Freestyle,SCM,W,75-79,4:17.00,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1
-UC29,400 M Freestyle,SCM,W,75-79,9:02.22,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1
-UC29,800 M Freestyle,SCM,W,75-79,18:28.68,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1
-UC29,1500 M Freestyle,SCM,W,75-79,35:22.35,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+OMAH,50 M Freestyle,SCM,W,35-39,44.02,Michelle Halagarda,,2026 Southwest Iowa Masters Fall Meet,2026,1,0882B
+OMAH,800 M Freestyle,SCM,W,35-39,14:29.19,Michelle Halagarda,,2026 Southwest Iowa Masters Fall Meet,2026,1,0882B
+LMAO,800 M Freestyle,SCM,W,35-39,15:26.56,Nicole M Osborne,,2026 Southwest Iowa Masters Fall Meet,2026,2,K127U
+OMAH,50 M Breaststroke,SCM,W,35-39,51.52,Michelle Halagarda,,2026 Southwest Iowa Masters Fall Meet,2026,1,0882B
+UC29,50 M Freestyle,SCM,W,40-44,34.16,Megan M Ockander,,2026 Southwest Iowa Masters Fall Meet,2026,1,08ANN
+UC29,100 M Freestyle,SCM,W,40-44,1:17.36,Megan M Ockander,,2026 Southwest Iowa Masters Fall Meet,2026,1,08ANN
+UC29,100 M Individual Medley,SCM,W,40-44,1:35.61,Megan M Ockander,,2026 Southwest Iowa Masters Fall Meet,2026,1,08ANN
+UC29,50 M Freestyle,SCM,W,45-49,34.14,Amy E St.Cyr,,2026 Southwest Iowa Masters Fall Meet,2026,1,PU2KF
+UC29,100 M Backstroke,SCM,W,45-49,1:33.36,Amy E St.Cyr,,2026 Southwest Iowa Masters Fall Meet,2026,1,PU2KF
+UC29,100 M Individual Medley,SCM,W,45-49,1:27.05,Amy E St.Cyr,,2026 Southwest Iowa Masters Fall Meet,2026,1,PU2KF
+OMAH,50 M Freestyle,SCM,W,60-64,31.65,Carol C Olson,,2026 Southwest Iowa Masters Fall Meet,2026,1,01JC4
+OMAH,100 M Freestyle,SCM,W,60-64,1:18.20,Carol C Olson,,2026 Southwest Iowa Masters Fall Meet,2026,1,01JC4
+OMAH,50 M Butterfly,SCM,W,60-64,36.53,Carol C Olson,,2026 Southwest Iowa Masters Fall Meet,2026,1,01JC4
+CGCC,50 M Freestyle,SCM,W,70-74,1:40.88,Dianna Carda,,2026 Southwest Iowa Masters Fall Meet,2026,1,06MCY
+CGCC,200 M Freestyle,SCM,W,70-74,7:22.03,Dianna Carda,,2026 Southwest Iowa Masters Fall Meet,2026,1,06MCY
+CGCC,100 M Backstroke,SCM,W,70-74,3:15.27,Dianna Carda,,2026 Southwest Iowa Masters Fall Meet,2026,1,06MCY
+CGCC,200 M Backstroke,SCM,W,70-74,6:38.29,Dianna Carda,,2026 Southwest Iowa Masters Fall Meet,2026,1,06MCY
+CGCC,50 M Breaststroke,SCM,W,70-74,1:58.36,Dianna Carda,,2026 Southwest Iowa Masters Fall Meet,2026,1,06MCY
+UC29,50 M Freestyle,SCM,W,75-79,52.95,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1,8F5KV
+UC29,100 M Freestyle,SCM,W,75-79,2:03.58,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1,8F5KV
+UC29,200 M Freestyle,SCM,W,75-79,4:17.00,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1,8F5KV
+UC29,400 M Freestyle,SCM,W,75-79,9:02.22,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1,8F5KV
+UC29,800 M Freestyle,SCM,W,75-79,18:28.68,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1,8F5KV
+UC29,1500 M Freestyle,SCM,W,75-79,35:22.35,Valerie MacLeod,,2026 Huntsman World Senior Games,2026,1,8F5KV
+UC29,50 M Freestyle,SCM,M,25-29,25.15,Nicholas J Soltys,,2026 Southwest Iowa Masters Fall Meet,2026,1,7VMA6
+UC29,100 M Freestyle,SCM,M,25-29,1:00.97,Nicholas J Soltys,,2026 Southwest Iowa Masters Fall Meet,2026,1,7VMA6
+UC29,50 M Breaststroke,SCM,M,25-29,32.39,Nicholas J Soltys,,2026 Southwest Iowa Masters Fall Meet,2026,1,7VMA6
+UC29,50 M Butterfly,SCM,M,25-29,27.49,Nicholas J Soltys,,2026 Southwest Iowa Masters Fall Meet,2026,1,7VMA6
+UC29,100 M Individual Medley,SCM,M,25-29,1:07.75,Nicholas J Soltys,,2026 Southwest Iowa Masters Fall Meet,2026,1,7VMA6
+UC29,50 M Freestyle,SCM,M,35-39,32.25,Mauro  Siso,,2026 Southwest Iowa Masters Fall Meet,2026,1,HHZJ1
+UC29,100 M Freestyle,SCM,M,35-39,1:13.68,Mauro  Siso,,2026 Southwest Iowa Masters Fall Meet,2026,1,HHZJ1
+UC29,50 M Butterfly,SCM,M,35-39,32.11,Mauro  Siso,,2026 Southwest Iowa Masters Fall Meet,2026,1,HHZJ1
+UC29,100 M Butterfly,SCM,M,35-39,1:13.22,Mauro  Siso,,2026 Southwest Iowa Masters Fall Meet,2026,1,HHZJ1
+UC29,100 M Individual Medley,SCM,M,35-39,1:24.60,Mauro  Siso,,2026 Southwest Iowa Masters Fall Meet,2026,1,HHZJ1
+SYDM,100 M Freestyle,SCM,M,40-44,1:08.41,Adam L Nitzschke,,2026 Southwest Iowa Masters Fall Meet,2026,1,ZA1BJ
+SYDM,400 M Freestyle,SCM,M,40-44,5:28.71,Adam L Nitzschke,,2026 Southwest Iowa Masters Fall Meet,2026,1,ZA1BJ
+SYDM,800 M Freestyle,SCM,M,40-44,11:29.07,Adam L Nitzschke,,2026 Southwest Iowa Masters Fall Meet,2026,1,ZA1BJ
+SCSCM,50 M Freestyle,SCM,M,55-59,29.16,Kevin Kerekes,,2026 Southwest Iowa Masters Fall Meet,2026,1,CRY01
+SCSCM,800 M Freestyle,SCM,M,55-59,11:09.16,Kevin Kerekes,,2026 Southwest Iowa Masters Fall Meet,2026,1,CRY01
+SCSCM,50 M Backstroke,SCM,M,55-59,39.43,Kevin Kerekes,,2026 Southwest Iowa Masters Fall Meet,2026,1,CRY01
+SCSCM,50 M Breaststroke,SCM,M,55-59,40.77,Kevin Kerekes,,2026 Southwest Iowa Masters Fall Meet,2026,1,CRY01
+SCSCM,50 M Butterfly,SCM,M,55-59,34.08,Kevin Kerekes,,2026 Southwest Iowa Masters Fall Meet,2026,1,CRY01
+SYDM,200 M Backstroke,SCM,M,65-69,3:02.67,Daniel A Patterson,,2026 Southwest Iowa Masters Fall Meet,2026,1,07UY1
+SYDM,100 M Individual Medley,SCM,M,65-69,1:31.72,Daniel A Patterson,,2026 Southwest Iowa Masters Fall Meet,2026,1,07UY1
+SYDM,400 M Individual Medley,SCM,M,65-69,7:04.23,Daniel A Patterson,,2026 Southwest Iowa Masters Fall Meet,2026,1,07UY1

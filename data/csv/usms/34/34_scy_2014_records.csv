@@ -1,0 +1,766 @@
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+HASC,50 Y Freestyle,SCY,M,30-34,31.97,Kyle Moore,,Ground Hog Day Classic,2014,1,0962Y
+HASC,50 Y Backstroke,SCY,M,30-34,44.03,Kyle Moore,,Ground Hog Day Classic,2014,1,0962Y
+HASC,50 Y Breaststroke,SCY,M,30-34,43.95,Kyle Moore,,Ground Hog Day Classic,2014,1,0962Y
+HASC,50 Y Butterfly,SCY,M,30-34,34.12,Kyle Moore,,Ground Hog Day Classic,2014,1,0962Y
+HASC,200 Y Backstroke,SCY,M,45-49,2:16.20,Dennis N Tesch,,Ground Hog Day Classic,2014,1,003XN
+HASC,200 Y Breaststroke,SCY,M,45-49,2:38.69,Dennis N Tesch,,Utah Masters Short-Course Championships Swim Meet,2014,1,003XN
+HASC,100 Y Individual Medley,SCY,M,45-49,1:01.05,Dennis N Tesch,,Utah Masters Short-Course Championships Swim Meet,2014,1,003XN
+HASC,200 Y Individual Medley,SCY,M,45-49,2:14.63,Dennis N Tesch,,Utah Masters Short-Course Championships Swim Meet,2014,1,003XN
+HASC,1650 Y Freestyle,SCY,M,55-59,30:35.80,Jerry L Hunsaker,,Ground Hog Day Classic,2014,1,0960D
+MPS,200 Y Freestyle,SCY,W,35-39,2:28.41,Kim R Patterson,,Utah Masters Short-Course Championships Swim Meet,2014,1,097SY
+MPS,500 Y Freestyle,SCY,W,35-39,6:43.15,Kim R Patterson,,Utah Masters Short-Course Championships Swim Meet,2014,1,097SY
+MPS,50 Y Freestyle,SCY,M,35-39,25.62,Nathan R Toll,,Utah Masters Short-Course Championships Swim Meet,2014,1,094XU
+MPS,100 Y Freestyle,SCY,M,35-39,57.51,Nathan R Toll,,Utah Masters Short-Course Championships Swim Meet,2014,1,094XU
+MPS,50 Y Breaststroke,SCY,M,35-39,37.85,Nathan R Toll,,Ground Hog Day Classic,2014,1,094XU
+MPS,100 Y Individual Medley,SCY,M,35-39,1:10.88,Nathan R Toll,,Utah Masters Short-Course Championships Swim Meet,2014,1,094XU
+MPS,100 Y Breaststroke,SCY,M,45-49,1:29.03,Thomas Sichz,,Utah Masters Short-Course Championships Swim Meet,2014,1,09599
+MPS,100 Y Individual Medley,SCY,M,45-49,1:39.89,Thomas Sichz,,Utah Masters Short-Course Championships Swim Meet,2014,1,09599
+OACM,50 Y Freestyle,SCY,W,30-34,30.25,Laura A Randall,,Utah Masters Short-Course Championships Swim Meet,2014,1,0042X
+OACM,50 Y Freestyle,SCY,W,30-34,32.95,Heather Hilton,,Utah Masters Short-Course Championships Swim Meet,2014,2,092FS
+OACM,200 Y Freestyle,SCY,W,30-34,2:17.50,Kimberly V Howe,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BX
+OACM,500 Y Freestyle,SCY,W,30-34,7:26.94,Heather Hilton,,Utah Masters Short-Course Championships Swim Meet,2014,1,092FS
+OACM,1650 Y Freestyle,SCY,W,30-34,21:05.35,Kimberly V Howe,,Ground Hog Day Classic,2014,1,004BX
+OACM,50 Y Backstroke,SCY,W,30-34,31.46,Kimberly V Howe,,Ground Hog Day Classic,2014,1,004BX
+OACM,50 Y Backstroke,SCY,W,30-34,36.34,Laura A Randall,,Utah Masters Short-Course Championships Swim Meet,2014,2,0042X
+OACM,100 Y Backstroke,SCY,W,30-34,1:09.93,Kimberly V Howe,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BX
+OACM,100 Y Breaststroke,SCY,W,30-34,1:26.08,Laura A Randall,,Utah Masters Short-Course Championships Swim Meet,2014,1,0042X
+OACM,100 Y Breaststroke,SCY,W,30-34,1:38.41,Heather Hilton,,Utah Masters Short-Course Championships Swim Meet,2014,2,092FS
+OACM,50 Y Butterfly,SCY,W,30-34,32.98,Kimberly V Howe,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BX
+OACM,100 Y Individual Medley,SCY,W,30-34,1:10.13,Kimberly V Howe,,Ground Hog Day Classic,2014,1,004BX
+OACM,100 Y Freestyle,SCY,W,40-44,1:00.75,Julie H Tate,,Utah Masters Short-Course Championships Swim Meet,2014,1,076MA
+OACM,100 Y Butterfly,SCY,W,40-44,1:09.14,Julie H Tate,,Utah Masters Short-Course Championships Swim Meet,2014,1,076MA
+OACM,100 Y Individual Medley,SCY,W,40-44,1:09.53,Julie H Tate,,Utah Masters Short-Course Championships Swim Meet,2014,1,076MA
+OACM,1650 Y Freestyle,SCY,W,50-54,22:42.94,Karen M Oliver,,Utah Masters Short-Course Championships Swim Meet,2014,1,0042N
+OACM,100 Y Backstroke,SCY,W,50-54,1:18.17,Karen M Oliver,,Utah Masters Short-Course Championships Swim Meet,2014,1,0042N
+OACM,100 Y Individual Medley,SCY,W,50-54,1:25.16,Karen M Oliver,,Utah Masters Short-Course Championships Swim Meet,2014,1,0042N
+OACM,50 Y Freestyle,SCY,M,40-44,24.96,Thomas M Thorum,,Utah Masters Short-Course Championships Swim Meet,2014,1,00426
+OACM,50 Y Freestyle,SCY,M,40-44,34.56,Joel B Kincart,,Utah Masters Short-Course Championships Swim Meet,2014,2,090X9
+OACM,100 Y Freestyle,SCY,M,40-44,1:05.94,Shawn Q Stringham,,Utah Masters Short-Course Championships Swim Meet,2014,1,06743
+OACM,100 Y Freestyle,SCY,M,40-44,1:12.61,Joel B Kincart,,Utah Masters Short-Course Championships Swim Meet,2014,2,090X9
+OACM,1650 Y Freestyle,SCY,M,40-44,20:03.22,Thomas M Thorum,,Utah Masters Short-Course Championships Swim Meet,2014,1,00426
+OACM,1650 Y Freestyle,SCY,M,40-44,23:05.52,Shawn Q Stringham,,Ground Hog Day Classic,2014,2,06743
+OACM,50 Y Freestyle,SCY,M,45-49,27.43,Lee D Chamberlain,,Utah Masters Short-Course Championships Swim Meet,2014,1,068ZV
+OACM,50 Y Freestyle,SCY,M,45-49,29.98,Rich Halbersleben,,Utah Masters Short-Course Championships Swim Meet,2014,2,007S1
+OACM,100 Y Freestyle,SCY,M,45-49,1:05.98,Richard L Wagner,,Ground Hog Day Classic,2014,1,0939D
+OACM,50 Y Backstroke,SCY,M,45-49,34.28,Lee D Chamberlain,,Utah Masters Short-Course Championships Swim Meet,2014,1,068ZV
+OACM,50 Y Breaststroke,SCY,M,45-49,37.06,Richard L Wagner,,Ground Hog Day Classic,2014,1,0939D
+QUAC,50 Y Freestyle,SCY,W,18-24,30.74,Leah Holliday,,2014 Ski-n-Swim,2014,1,086J6
+QUAC,50 Y Backstroke,SCY,W,18-24,35.30,Leah Holliday,,2014 Ski-n-Swim,2014,1,086J6
+QUAC,50 Y Freestyle,SCY,W,25-29,32.16,Sara J Maaranen,,2013 South Davis Masters Meet,2014,1,085YS
+QUAC,100 Y Freestyle,SCY,W,25-29,1:14.12,Sara J Maaranen,,2013 South Davis Masters Meet,2014,1,085YS
+QUAC,500 Y Freestyle,SCY,W,25-29,7:11.14,Sara J Maaranen,,2014 Ski-n-Swim,2014,1,085YS
+QUAC,1650 Y Freestyle,SCY,W,25-29,25:03.30,Sara J Maaranen,,2013 South Davis Masters Meet,2014,1,085YS
+QUAC,50 Y Backstroke,SCY,W,25-29,41.17,Sara J Maaranen,,2014 Ski-n-Swim,2014,1,085YS
+QUAC,50 Y Breaststroke,SCY,W,25-29,40.75,Sara J Maaranen,,2014 Ski-n-Swim,2014,1,085YS
+QUAC,100 Y Individual Medley,SCY,W,25-29,1:22.70,Sara J Maaranen,,2014 Ski-n-Swim,2014,1,085YS
+QUAC,50 Y Freestyle,SCY,W,40-44,36.43,Katherine Thom,,2014 Ski-n-Swim,2014,1,094KA
+QUAC,100 Y Freestyle,SCY,W,40-44,1:29.90,Katherine Thom,,2014 Ski-n-Swim,2014,1,094KA
+QUAC,50 Y Butterfly,SCY,W,55-59,42.10,Kit B Kobe,,2014 Ski-n-Swim,2014,1,0934J
+QUAC,100 Y Individual Medley,SCY,W,55-59,1:31.85,Kit B Kobe,,2014 Ski-n-Swim,2014,1,0934J
+QUAC,50 Y Freestyle,SCY,M,18-24,24.78,Forrest R Sontag,,2014 Ski-n-Swim,2014,1,095XU
+QUAC,50 Y Freestyle,SCY,M,18-24,25.20,Skyler S Peterson,,2013 South Davis Masters Meet,2014,2,0819A
+QUAC,100 Y Freestyle,SCY,M,18-24,58.98,Skyler S Peterson,,2013 South Davis Masters Meet,2014,1,0819A
+QUAC,100 Y Freestyle,SCY,M,18-24,59.77,Forrest R Sontag,,2014 Ski-n-Swim,2014,2,095XU
+QUAC,500 Y Freestyle,SCY,M,18-24,6:25.85,Skyler S Peterson,,2014 Ski-n-Swim,2014,1,0819A
+QUAC,50 Y Backstroke,SCY,M,18-24,31.59,Forrest R Sontag,,2014 Ski-n-Swim,2014,1,095XU
+QUAC,100 Y Backstroke,SCY,M,18-24,1:12.21,Forrest R Sontag,,2014 Ski-n-Swim,2014,1,095XU
+QUAC,100 Y Breaststroke,SCY,M,18-24,1:10.87,Skyler S Peterson,,2013 South Davis Masters Meet,2014,1,0819A
+QUAC,50 Y Butterfly,SCY,M,18-24,29.53,Skyler S Peterson,,2013 South Davis Masters Meet,2014,1,0819A
+QUAC,100 Y Individual Medley,SCY,M,18-24,1:06.74,Skyler S Peterson,,2014 Ski-n-Swim,2014,1,0819A
+QUAC,100 Y Individual Medley,SCY,M,18-24,1:07.98,Forrest R Sontag,,2014 Ski-n-Swim,2014,2,095XU
+QUAC,50 Y Freestyle,SCY,M,25-29,26.29,James B Hochstrasser,,1st Annual Chattanooga River Rats Swim Meet,2014,1,06AVZ
+QUAC,50 Y Freestyle,SCY,M,25-29,28.45,Jordan E Callister,,2014 Ski-n-Swim,2014,2,0895W
+QUAC,50 Y Freestyle,SCY,M,25-29,28.51,Jerrett B Swarr,,2014 Ski-n-Swim,2014,3,093N3
+QUAC,50 Y Freestyle,SCY,M,25-29,28.66,Christopher R Thurman,,2014 Ski-n-Swim,2014,4,07GGW
+QUAC,50 Y Freestyle,SCY,M,25-29,28.85,James Le,,2014 Ski-n-Swim,2014,5,095WJ
+QUAC,100 Y Freestyle,SCY,M,25-29,54.39,James B Hochstrasser,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06AVZ
+QUAC,100 Y Freestyle,SCY,M,25-29,1:05.98,Jordan E Callister,,2014 Ski-n-Swim,2014,2,0895W
+QUAC,100 Y Freestyle,SCY,M,25-29,1:06.99,Jerrett B Swarr,,2014 Ski-n-Swim,2014,3,093N3
+QUAC,100 Y Freestyle,SCY,M,25-29,1:07.01,James Le,,2014 Ski-n-Swim,2014,4,095WJ
+QUAC,200 Y Freestyle,SCY,M,25-29,1:58.92,James B Hochstrasser,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06AVZ
+QUAC,500 Y Freestyle,SCY,M,25-29,5:22.93,James B Hochstrasser,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06AVZ
+QUAC,1650 Y Freestyle,SCY,M,25-29,19:00.72,James B Hochstrasser,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06AVZ
+QUAC,50 Y Breaststroke,SCY,M,25-29,35.77,Brian R Rogers,,2014 Ski-n-Swim,2014,1,07HPW
+QUAC,50 Y Breaststroke,SCY,M,25-29,36.03,Christopher R Thurman,,2014 Ski-n-Swim,2014,2,07GGW
+QUAC,100 Y Breaststroke,SCY,M,25-29,1:19.21,Brian R Rogers,,2014 Ski-n-Swim,2014,1,07HPW
+QUAC,100 Y Breaststroke,SCY,M,25-29,1:30.29,James Le,,2014 Ski-n-Swim,2014,2,095WJ
+QUAC,50 Y Butterfly,SCY,M,25-29,27.90,Devin S Ross,,2014 Ski-n-Swim,2014,1,094EB
+QUAC,50 Y Butterfly,SCY,M,25-29,32.86,Jordan E Callister,,2014 Ski-n-Swim,2014,2,0895W
+QUAC,100 Y Butterfly,SCY,M,25-29,1:03.18,Devin S Ross,,2014 Ski-n-Swim,2014,1,094EB
+QUAC,100 Y Individual Medley,SCY,M,25-29,1:05.92,Devin S Ross,,2014 Ski-n-Swim,2014,1,094EB
+QUAC,100 Y Individual Medley,SCY,M,25-29,1:14.07,James Le,,2014 Ski-n-Swim,2014,2,095WJ
+QUAC,100 Y Individual Medley,SCY,M,25-29,1:17.30,Jordan E Callister,,2014 Ski-n-Swim,2014,3,0895W
+QUAC,50 Y Freestyle,SCY,M,30-34,24.72,Jared W Walker,,2014 Ski-n-Swim,2014,1,0041B
+QUAC,50 Y Freestyle,SCY,M,30-34,25.38,Trevor Smith,,2014 Ski-n-Swim,2014,2,09503
+QUAC,50 Y Freestyle,SCY,M,30-34,25.93,Brandon J Hutchinson,,2014 Ski-n-Swim,2014,3,0044X
+QUAC,50 Y Freestyle,SCY,M,30-34,25.96,Jake Adams,,2014 Ski-n-Swim,2014,4,07AXM
+QUAC,50 Y Freestyle,SCY,M,30-34,26.45,Shane Gatenby,,2014 Ski-n-Swim,2014,5,0943M
+QUAC,50 Y Freestyle,SCY,M,30-34,29.16,Nathaniel Freeman,,2013 South Davis Masters Meet,2014,6,07J0B
+QUAC,50 Y Freestyle,SCY,M,30-34,29.19,Logan S Harward,,2014 Ski-n-Swim,2014,7,096KR
+QUAC,50 Y Freestyle,SCY,M,30-34,31.46,Guy Duffner,,2014 Ski-n-Swim,2014,8,095VK
+QUAC,50 Y Freestyle,SCY,M,30-34,35.49,Joseph S Leyba,,2014 Ski-n-Swim,2014,9,0973E
+QUAC,50 Y Freestyle,SCY,M,30-34,50.14,Dickson Lei,,2014 Ski-n-Swim,2014,10,096C0
+QUAC,100 Y Freestyle,SCY,M,30-34,56.07,Jared W Walker,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041B
+QUAC,100 Y Freestyle,SCY,M,30-34,56.84,Trevor Smith,,2014 Ski-n-Swim,2014,2,09503
+QUAC,100 Y Freestyle,SCY,M,30-34,1:00.51,Jake Adams,,2013 South Davis Masters Meet,2014,3,07AXM
+QUAC,100 Y Freestyle,SCY,M,30-34,1:03.16,Shane Gatenby,,2014 Ski-n-Swim,2014,4,0943M
+QUAC,100 Y Freestyle,SCY,M,30-34,1:09.93,Guy Duffner,,2014 Ski-n-Swim,2014,5,095VK
+QUAC,100 Y Freestyle,SCY,M,30-34,1:23.85,Joseph S Leyba,,2014 Ski-n-Swim,2014,6,0973E
+QUAC,200 Y Freestyle,SCY,M,30-34,2:42.70,Nathaniel Freeman,,2013 South Davis Masters Meet,2014,1,07J0B
+QUAC,1650 Y Freestyle,SCY,M,30-34,26:05.89,Nathaniel Freeman,,2013 South Davis Masters Meet,2014,1,07J0B
+QUAC,50 Y Backstroke,SCY,M,30-34,33.89,Nathaniel Freeman,,2013 South Davis Masters Meet,2014,1,07J0B
+QUAC,50 Y Backstroke,SCY,M,30-34,51.53,Dickson Lei,,2014 Ski-n-Swim,2014,2,096C0
+QUAC,50 Y Breaststroke,SCY,M,30-34,36.34,Shane Gatenby,,2014 Ski-n-Swim,2014,1,0943M
+QUAC,50 Y Breaststroke,SCY,M,30-34,39.94,Guy Duffner,,2014 Ski-n-Swim,2014,2,095VK
+QUAC,100 Y Breaststroke,SCY,M,30-34,1:21.06,Shane Gatenby,,2014 Ski-n-Swim,2014,1,0943M
+QUAC,200 Y Breaststroke,SCY,M,30-34,3:20.76,Nathaniel Freeman,,2013 South Davis Masters Meet,2014,1,07J0B
+QUAC,50 Y Butterfly,SCY,M,30-34,29.10,Jared W Walker,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041B
+QUAC,50 Y Butterfly,SCY,M,30-34,31.78,Jake Adams,,2014 Ski-n-Swim,2014,2,07AXM
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:07.38,Trevor Smith,,2014 Ski-n-Swim,2014,1,09503
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:08.41,Jared W Walker,,Utah Masters Short-Course Championships Swim Meet,2014,2,0041B
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:09.09,Brandon J Hutchinson,,2014 Ski-n-Swim,2014,3,0044X
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:13.32,Jake Adams,,2013 South Davis Masters Meet,2014,4,07AXM
+QUAC,100 Y Individual Medley,SCY,M,30-34,1:13.75,Shane Gatenby,,2014 Ski-n-Swim,2014,5,0943M
+QUAC,50 Y Freestyle,SCY,M,35-39,28.62,Jeffrey Lewis,,2014 Ski-n-Swim,2014,1,05RRA
+QUAC,50 Y Freestyle,SCY,M,35-39,33.10,Milan Jendrisek,,2014 Ski-n-Swim,2014,2,004A5
+QUAC,100 Y Freestyle,SCY,M,35-39,1:05.46,Jeffrey Lewis,,2014 Ski-n-Swim,2014,1,05RRA
+QUAC,100 Y Freestyle,SCY,M,35-39,1:18.32,Milan Jendrisek,,2014 Ski-n-Swim,2014,2,004A5
+QUAC,200 Y Freestyle,SCY,M,35-39,2:16.31,Travis F Wall,,2014 Ski-n-Swim,2014,1,096S9
+QUAC,500 Y Freestyle,SCY,M,35-39,7:05.24,Paul W Reynolds,,2014 Ski-n-Swim,2014,1,0046S
+QUAC,50 Y Backstroke,SCY,M,35-39,30.76,Travis F Wall,,2014 Ski-n-Swim,2014,1,096S9
+QUAC,100 Y Backstroke,SCY,M,35-39,1:09.27,Travis F Wall,,2014 Ski-n-Swim,2014,1,096S9
+QUAC,50 Y Breaststroke,SCY,M,35-39,38.50,Paul W Reynolds,,2014 Ski-n-Swim,2014,1,0046S
+QUAC,50 Y Butterfly,SCY,M,35-39,31.23,Jeffrey Lewis,,2014 Ski-n-Swim,2014,1,05RRA
+QUAC,50 Y Butterfly,SCY,M,35-39,35.34,Milan Jendrisek,,2014 Ski-n-Swim,2014,2,004A5
+QUAC,100 Y Individual Medley,SCY,M,35-39,1:16.43,Jeffrey Lewis,,2014 Ski-n-Swim,2014,1,05RRA
+QUAC,100 Y Individual Medley,SCY,M,35-39,1:35.13,Milan Jendrisek,,2014 Ski-n-Swim,2014,2,004A5
+QUAC,200 Y Individual Medley,SCY,M,35-39,2:51.04,Paul W Reynolds,,2014 Ski-n-Swim,2014,1,0046S
+QUAC,50 Y Freestyle,SCY,M,40-44,23.40,Jason P Markey,,2014 Ski-n-Swim,2014,1,004T5
+QUAC,50 Y Freestyle,SCY,M,40-44,30.19,Weston L Heaps,,2014 Ski-n-Swim,2014,2,0046P
+QUAC,50 Y Freestyle,SCY,M,40-44,33.49,Kevin L McDaniel,,2013 South Davis Masters Meet,2014,3,06PU6
+QUAC,50 Y Breaststroke,SCY,M,40-44,43.50,Kevin L McDaniel,,2013 South Davis Masters Meet,2014,1,06PU6
+QUAC,100 Y Breaststroke,SCY,M,40-44,1:36.45,Kevin L McDaniel,,2013 South Davis Masters Meet,2014,1,06PU6
+QUAC,50 Y Butterfly,SCY,M,40-44,26.14,Jason P Markey,,2014 Ski-n-Swim,2014,1,004T5
+QUAC,100 Y Individual Medley,SCY,M,40-44,1:00.84,Jason P Markey,,2014 Ski-n-Swim,2014,1,004T5
+QUAC,50 Y Freestyle,SCY,M,45-49,33.38,Kevin L McDaniel,,2014 Ski-n-Swim,2014,1,06PU6
+QUAC,50 Y Breaststroke,SCY,M,45-49,43.26,Kevin L McDaniel,,2014 Ski-n-Swim,2014,1,06PU6
+QUAC,100 Y Breaststroke,SCY,M,45-49,1:38.45,Kevin L McDaniel,,2014 Ski-n-Swim,2014,1,06PU6
+QUAC,200 Y Freestyle,SCY,M,50-54,3:11.95,Thad Applegate,,2014 Ski-n-Swim,2014,1,05SR2
+QUAC,50 Y Freestyle,SCY,M,55-59,34.49,Val J Mansfield,,2014 Ski-n-Swim,2014,1,00448
+QUAC,50 Y Backstroke,SCY,M,55-59,41.75,Val J Mansfield,,2014 Ski-n-Swim,2014,1,00448
+QUAC,100 Y Backstroke,SCY,M,55-59,1:28.80,Val J Mansfield,,2014 Ski-n-Swim,2014,1,00448
+SALT,1000 Y Freestyle,SCY,W,18-24,11:37.68,Dominique M Maack,,Utah Masters Short-Course Championships Swim Meet,2014,1,081H1
+SALT,50 Y Freestyle,SCY,W,25-29,37.56,Kara Van De Graaff,,2013 South Davis Masters Meet,2014,1,09112
+SALT,200 Y Freestyle,SCY,W,25-29,3:25.71,Kara Van De Graaff,,2013 South Davis Masters Meet,2014,1,09112
+SALT,500 Y Freestyle,SCY,W,25-29,9:46.94,Kara Van De Graaff,,2013 South Davis Masters Meet,2014,1,09112
+SALT,50 Y Breaststroke,SCY,W,25-29,55.30,Kara Van De Graaff,,2013 South Davis Masters Meet,2014,1,09112
+SALT,100 Y Individual Medley,SCY,W,25-29,1:46.59,Kara Van De Graaff,,2013 South Davis Masters Meet,2014,1,09112
+SALT,50 Y Freestyle,SCY,W,30-34,27.46,Jamie R Hubbard,,2013 South Davis Masters Meet,2014,1,07KEZ
+SALT,100 Y Freestyle,SCY,W,30-34,1:02.49,Jamie R Hubbard,,2013 South Davis Masters Meet,2014,1,07KEZ
+SALT,100 Y Backstroke,SCY,W,30-34,1:10.52,Jamie R Hubbard,,2013 South Davis Masters Meet,2014,1,07KEZ
+SALT,100 Y Individual Medley,SCY,W,30-34,1:07.97,Jamie R Hubbard,,2013 South Davis Masters Meet,2014,1,07KEZ
+SALT,200 Y Individual Medley,SCY,W,30-34,2:31.01,Jamie R Hubbard,,2013 South Davis Masters Meet,2014,1,07KEZ
+SALT,500 Y Freestyle,SCY,W,40-44,6:41.05,Vicky R Steinbrech,,Utah Masters Short-Course Championships Swim Meet,2014,1,00406
+SALT,100 Y Breaststroke,SCY,W,40-44,1:25.04,Vicky R Steinbrech,,Utah Masters Short-Course Championships Swim Meet,2014,1,00406
+SALT,200 Y Individual Medley,SCY,W,40-44,2:48.39,Vicky R Steinbrech,,Utah Masters Short-Course Championships Swim Meet,2014,1,00406
+SALT,100 Y Freestyle,SCY,W,45-49,1:09.16,Christena K Ensign,,Utah Masters Short-Course Championships Swim Meet,2014,1,082R4
+SALT,50 Y Butterfly,SCY,W,60-64,39.03,Marie Newton,,Utah Masters Short-Course Championships Swim Meet,2014,1,06MBC
+SALT,100 Y Butterfly,SCY,W,60-64,1:30.61,Marie Newton,,Utah Masters Short-Course Championships Swim Meet,2014,1,06MBC
+SALT,50 Y Freestyle,SCY,M,40-44,24.13,Jon W Frohlich,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041R
+SALT,100 Y Freestyle,SCY,M,40-44,52.64,Jon W Frohlich,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041R
+SALT,200 Y Freestyle,SCY,M,40-44,1:57.40,Jon W Frohlich,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041R
+SALT,50 Y Backstroke,SCY,M,40-44,29.95,Jon W Frohlich,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041R
+SALT,50 Y Breaststroke,SCY,M,40-44,32.90,Jon W Frohlich,,Utah Masters Short-Course Championships Swim Meet,2014,1,0041R
+SALT,100 Y Freestyle,SCY,M,45-49,1:06.62,Craig A Paller,,1st Annual Utah Masters vs Utah Seniors,2014,1,02UTD
+SALT,50 Y Breaststroke,SCY,M,45-49,30.20,Craig A Paller,,1st Annual Utah Masters vs Utah Seniors,2014,1,02UTD
+SALT,100 Y Breaststroke,SCY,M,45-49,1:07.08,Craig A Paller,,1st Annual Utah Masters vs Utah Seniors,2014,1,02UTD
+SALT,50 Y Butterfly,SCY,M,45-49,28.98,Craig A Paller,,1st Annual Utah Masters vs Utah Seniors,2014,1,02UTD
+SALT,50 Y Freestyle,SCY,M,50-54,26.06,Dave Ashton,,1st Annual Utah Masters vs Utah Seniors,2014,1,00466
+SALT,50 Y Freestyle,SCY,M,50-54,33.31,Don Brown,,2013 South Davis Masters Meet,2014,2,06U3F
+SALT,100 Y Freestyle,SCY,M,50-54,58.93,Dave Ashton,,1st Annual Utah Masters vs Utah Seniors,2014,1,00466
+SALT,100 Y Freestyle,SCY,M,50-54,1:13.91,Don Brown,,2013 South Davis Masters Meet,2014,2,06U3F
+SALT,500 Y Freestyle,SCY,M,50-54,7:57.90,Don Brown,,2013 South Davis Masters Meet,2014,1,06U3F
+SALT,50 Y Butterfly,SCY,M,50-54,30.38,Dave Ashton,,1st Annual Utah Masters vs Utah Seniors,2014,1,00466
+SALT,50 Y Butterfly,SCY,M,50-54,41.48,Don Brown,,2013 South Davis Masters Meet,2014,2,06U3F
+SALT,50 Y Breaststroke,SCY,M,55-59,33.25,Gary D Shaw,,2013 South Davis Masters Meet,2014,1,0043E
+SALT,100 Y Breaststroke,SCY,M,55-59,1:16.85,Gary D Shaw,,2013 South Davis Masters Meet,2014,1,0043E
+SALT,200 Y Breaststroke,SCY,M,55-59,2:51.19,Gary D Shaw,,2013 South Davis Masters Meet,2014,1,0043E
+SALT,500 Y Freestyle,SCY,M,60-64,6:08.99,William W Reeves,,Utah Masters Short-Course Championships Swim Meet,2014,1,0310P
+SALT,1000 Y Freestyle,SCY,M,60-64,12:45.24,William W Reeves,,Utah Masters Short-Course Championships Swim Meet,2014,1,0310P
+SALT,200 Y Backstroke,SCY,M,60-64,2:34.70,William W Reeves,,2013 South Davis Masters Meet,2014,1,0310P
+SALT,200 Y Breaststroke,SCY,M,60-64,2:48.62,William W Reeves,,2013 South Davis Masters Meet,2014,1,0310P
+SALT,200 Y Butterfly,SCY,M,60-64,2:34.00,William W Reeves,,Utah Masters Short-Course Championships Swim Meet,2014,1,0310P
+SALT,200 Y Individual Medley,SCY,M,60-64,2:29.65,William W Reeves,,Utah Masters Short-Course Championships Swim Meet,2014,1,0310P
+SALT,400 Y Individual Medley,SCY,M,60-64,5:25.68,William W Reeves,,2013 South Davis Masters Meet,2014,1,0310P
+SDM,100 Y Freestyle,SCY,W,18-24,1:12.16,Jill Whiting,,S.H.A.C. Pentathlon,2014,1,07HDW
+SDM,200 Y Freestyle,SCY,W,18-24,2:21.55,Jill Whiting,,S.H.A.C. Pentathlon,2014,1,07HDW
+SDM,500 Y Freestyle,SCY,W,18-24,6:15.95,Jill Whiting,,S.H.A.C. Pentathlon,2014,1,07HDW
+SDM,50 Y Breaststroke,SCY,W,18-24,32.44,Jill Whiting,,S.H.A.C. Pentathlon,2014,1,07HDW
+SDM,50 Y Freestyle,SCY,W,35-39,27.08,Kris M Edwards,,S.H.A.C. Pentathlon,2014,1,004BR
+SDM,50 Y Freestyle,SCY,W,35-39,28.65,Mindy Hopfenbeck,,Utah Masters Short-Course Championships Swim Meet,2014,2,00452
+SDM,50 Y Freestyle,SCY,W,35-39,30.00,Sarah H Jones,,2014 Ski-n-Swim,2014,3,0913A
+SDM,100 Y Freestyle,SCY,W,35-39,1:04.03,Mindy Hopfenbeck,,Utah Masters Short-Course Championships Swim Meet,2014,1,00452
+SDM,100 Y Freestyle,SCY,W,35-39,1:04.39,Sarah H Jones,,2014 Ski-n-Swim,2014,2,0913A
+SDM,200 Y Freestyle,SCY,W,35-39,2:35.50,Sarah H Jones,,S.H.A.C. Pentathlon,2014,1,0913A
+SDM,500 Y Freestyle,SCY,W,35-39,7:05.38,Sarah H Jones,,S.H.A.C. Pentathlon,2014,1,0913A
+SDM,1000 Y Freestyle,SCY,W,35-39,14:44.21,Sarah H Jones,,S.H.A.C. Pentathlon,2014,1,0913A
+SDM,50 Y Backstroke,SCY,W,35-39,31.64,Kris M Edwards,,S.H.A.C. Pentathlon,2014,1,004BR
+SDM,50 Y Breaststroke,SCY,W,35-39,35.27,Kris M Edwards,,S.H.A.C. Pentathlon,2014,1,004BR
+SDM,50 Y Breaststroke,SCY,W,35-39,44.83,Sarah H Jones,,2014 Ski-n-Swim,2014,2,0913A
+SDM,100 Y Breaststroke,SCY,W,35-39,1:28.78,Mindy Hopfenbeck,,Utah Masters Short-Course Championships Swim Meet,2014,1,00452
+SDM,50 Y Butterfly,SCY,W,35-39,28.78,Kris M Edwards,,S.H.A.C. Pentathlon,2014,1,004BR
+SDM,50 Y Butterfly,SCY,W,35-39,33.36,Mindy Hopfenbeck,,Utah Masters Short-Course Championships Swim Meet,2014,2,00452
+SDM,50 Y Butterfly,SCY,W,35-39,37.97,Sarah H Jones,,2014 Ski-n-Swim,2014,3,0913A
+SDM,100 Y Individual Medley,SCY,W,35-39,1:05.53,Kris M Edwards,,S.H.A.C. Pentathlon,2014,1,004BR
+SDM,100 Y Individual Medley,SCY,W,35-39,1:18.91,Mindy Hopfenbeck,,Utah Masters Short-Course Championships Swim Meet,2014,2,00452
+SDM,100 Y Individual Medley,SCY,W,35-39,1:26.93,Sarah H Jones,,2014 Ski-n-Swim,2014,3,0913A
+SDM,50 Y Freestyle,SCY,W,40-44,33.28,Julie G Keyes,,S.H.A.C. Pentathlon,2014,1,091DN
+SDM,100 Y Freestyle,SCY,W,40-44,1:11.80,Julie G Keyes,,Utah Masters Short-Course Championships Swim Meet,2014,1,091DN
+SDM,200 Y Freestyle,SCY,W,40-44,2:40.44,Julie G Keyes,,Utah Masters Short-Course Championships Swim Meet,2014,1,091DN
+SDM,50 Y Backstroke,SCY,W,40-44,42.22,Julie G Keyes,,S.H.A.C. Pentathlon,2014,1,091DN
+SDM,50 Y Breaststroke,SCY,W,40-44,43.47,Julie G Keyes,,S.H.A.C. Pentathlon,2014,1,091DN
+SDM,100 Y Breaststroke,SCY,W,40-44,1:34.80,Julie G Keyes,,Utah Masters Short-Course Championships Swim Meet,2014,1,091DN
+SDM,50 Y Butterfly,SCY,W,40-44,41.22,Julie G Keyes,,S.H.A.C. Pentathlon,2014,1,091DN
+SDM,100 Y Individual Medley,SCY,W,40-44,1:25.53,Julie G Keyes,,S.H.A.C. Pentathlon,2014,1,091DN
+SDM,200 Y Individual Medley,SCY,W,40-44,3:10.63,Julie G Keyes,,Utah Masters Short-Course Championships Swim Meet,2014,1,091DN
+SDM,50 Y Freestyle,SCY,M,18-24,26.16,Nazariy B Kikena,,S.H.A.C. Pentathlon,2014,1,094DT
+SDM,50 Y Backstroke,SCY,M,18-24,33.60,Nazariy B Kikena,,S.H.A.C. Pentathlon,2014,1,094DT
+SDM,50 Y Breaststroke,SCY,M,18-24,37.08,Nazariy B Kikena,,S.H.A.C. Pentathlon,2014,1,094DT
+SDM,50 Y Butterfly,SCY,M,18-24,30.88,Nazariy B Kikena,,S.H.A.C. Pentathlon,2014,1,094DT
+SDM,100 Y Individual Medley,SCY,M,18-24,1:08.64,Nazariy B Kikena,,S.H.A.C. Pentathlon,2014,1,094DT
+SDM,100 Y Freestyle,SCY,M,35-39,51.03,Matt E Chamberlain,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BW
+SDM,100 Y Butterfly,SCY,M,35-39,54.98,Matt E Chamberlain,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BW
+SDM,400 Y Individual Medley,SCY,M,35-39,4:33.62,Matt E Chamberlain,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BW
+SDM,50 Y Freestyle,SCY,M,40-44,25.93,John Eyring,,Utah Masters Short-Course Championships Swim Meet,2014,1,072BN
+SDM,50 Y Freestyle,SCY,M,40-44,28.08,Chad M Hodo,,S.H.A.C. Pentathlon,2014,2,0948W
+SDM,50 Y Freestyle,SCY,M,40-44,34.14,Cody R Edwards,,Ground Hog Day Classic,2014,3,090ZT
+SDM,100 Y Freestyle,SCY,M,40-44,58.11,John Eyring,,Utah Masters Short-Course Championships Swim Meet,2014,1,072BN
+SDM,50 Y Backstroke,SCY,M,40-44,34.58,Chad M Hodo,,S.H.A.C. Pentathlon,2014,1,0948W
+SDM,50 Y Backstroke,SCY,M,40-44,50.82,Cody R Edwards,,S.H.A.C. Pentathlon,2014,2,090ZT
+SDM,100 Y Backstroke,SCY,M,40-44,1:07.40,Craig W Barnes,,Ground Hog Day Classic,2014,1,066N0
+SDM,50 Y Breaststroke,SCY,M,40-44,34.34,John Eyring,,Utah Masters Short-Course Championships Swim Meet,2014,1,072BN
+SDM,50 Y Breaststroke,SCY,M,40-44,40.21,Cody R Edwards,,Ground Hog Day Classic,2014,2,090ZT
+SDM,50 Y Breaststroke,SCY,M,40-44,41.29,Chad M Hodo,,S.H.A.C. Pentathlon,2014,3,0948W
+SDM,100 Y Breaststroke,SCY,M,40-44,1:29.49,Cody R Edwards,,Ground Hog Day Classic,2014,1,090ZT
+SDM,50 Y Butterfly,SCY,M,40-44,27.88,Craig W Barnes,,Ground Hog Day Classic,2014,1,066N0
+SDM,50 Y Butterfly,SCY,M,40-44,29.98,Chad M Hodo,,S.H.A.C. Pentathlon,2014,2,0948W
+SDM,50 Y Butterfly,SCY,M,40-44,40.24,Cody R Edwards,,Ground Hog Day Classic,2014,3,090ZT
+SDM,100 Y Individual Medley,SCY,M,40-44,1:12.02,Chad M Hodo,,S.H.A.C. Pentathlon,2014,1,0948W
+SDM,100 Y Individual Medley,SCY,M,40-44,1:33.48,Cody R Edwards,,S.H.A.C. Pentathlon,2014,2,090ZT
+SDM,50 Y Freestyle,SCY,M,45-49,36.63,Scott Wheeler,,S.H.A.C. Pentathlon,2014,1,091DU
+SDM,100 Y Freestyle,SCY,M,45-49,1:21.21,Scott Wheeler,,S.H.A.C. Pentathlon,2014,1,091DU
+SDM,50 Y Backstroke,SCY,M,45-49,42.35,Scott Wheeler,,S.H.A.C. Pentathlon,2014,1,091DU
+SLOW,50 Y Freestyle,SCY,W,18-24,29.56,Stacey Schluckebier,,2013 South Davis Masters Meet,2014,1,0860J
+SLOW,100 Y Freestyle,SCY,W,18-24,1:08.70,Stacey Schluckebier,,2013 South Davis Masters Meet,2014,1,0860J
+SLOW,200 Y Freestyle,SCY,W,18-24,2:27.18,Stacey Schluckebier,,2014 Ski-n-Swim,2014,1,0860J
+SLOW,100 Y Individual Medley,SCY,W,18-24,1:17.24,Stacey Schluckebier,,2013 South Davis Masters Meet,2014,1,0860J
+SLOW,50 Y Freestyle,SCY,W,40-44,33.49,Sue K Frehse,,2013 South Davis Masters Meet,2014,1,034PF
+SLOW,200 Y Freestyle,SCY,W,40-44,2:33.18,Sue K Frehse,,1st Annual Utah Masters vs Utah Seniors,2014,1,034PF
+SLOW,500 Y Freestyle,SCY,W,40-44,6:38.17,Sue K Frehse,,1st Annual Utah Masters vs Utah Seniors,2014,1,034PF
+SLOW,50 Y Breaststroke,SCY,W,40-44,41.99,Sue K Frehse,,2013 South Davis Masters Meet,2014,1,034PF
+SLOW,50 Y Butterfly,SCY,W,40-44,35.95,Sue K Frehse,,2014 Ski-n-Swim,2014,1,034PF
+SLOW,100 Y Individual Medley,SCY,W,40-44,1:20.80,Sue K Frehse,,2013 South Davis Masters Meet,2014,1,034PF
+SLOW,200 Y Freestyle,SCY,M,25-29,1:51.79,Wesley J Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,0730P
+SLOW,500 Y Freestyle,SCY,M,25-29,5:01.94,Wesley J Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,0730P
+SLOW,50 Y Freestyle,SCY,M,30-34,25.42,Josh Green,,2013 South Davis Masters Meet,2014,1,06BWV
+SLOW,100 Y Freestyle,SCY,M,30-34,57.88,Josh Green,,Utah Masters Short-Course Championships Swim Meet,2014,1,06BWV
+SLOW,200 Y Freestyle,SCY,M,30-34,2:10.72,Josh Green,,1st Annual Utah Masters vs Utah Seniors,2014,1,06BWV
+SLOW,500 Y Freestyle,SCY,M,30-34,5:56.72,Josh Green,,2014 Ski-n-Swim,2014,1,06BWV
+SLOW,1650 Y Freestyle,SCY,M,30-34,21:29.90,Josh Green,,2013 South Davis Masters Meet,2014,1,06BWV
+SLOW,50 Y Breaststroke,SCY,M,30-34,37.35,Josh Green,,2014 Ski-n-Swim,2014,1,06BWV
+SLOW,100 Y Breaststroke,SCY,M,30-34,1:20.85,Josh Green,,2014 Ski-n-Swim,2014,1,06BWV
+SLOW,50 Y Freestyle,SCY,M,35-39,28.23,Goody Tyler,,2013 South Davis Masters Meet,2014,1,06VCS
+SLOW,100 Y Freestyle,SCY,M,35-39,1:05.53,Goody Tyler,,Utah Masters Short-Course Championships Swim Meet,2014,1,06VCS
+SLOW,200 Y Freestyle,SCY,M,35-39,2:33.30,Goody Tyler,,2014 Ski-n-Swim,2014,1,06VCS
+SLOW,500 Y Freestyle,SCY,M,35-39,6:54.67,Goody Tyler,,Utah Masters Short-Course Championships Swim Meet,2014,1,06VCS
+SLOW,1650 Y Freestyle,SCY,M,35-39,25:43.65,Goody Tyler,,2013 South Davis Masters Meet,2014,1,06VCS
+SLOW,100 Y Butterfly,SCY,M,35-39,1:31.50,Goody Tyler,,2014 Ski-n-Swim,2014,1,06VCS
+SLOW,100 Y Individual Medley,SCY,M,35-39,1:17.28,Goody Tyler,,Utah Masters Short-Course Championships Swim Meet,2014,1,06VCS
+SLOW,50 Y Freestyle,SCY,M,40-44,26.40,Gordon R Gridley,,2013 South Davis Masters Meet,2014,1,060M7
+SLOW,50 Y Freestyle,SCY,M,40-44,28.56,Todd M Frehse,,2013 South Davis Masters Meet,2014,2,082T8
+SLOW,50 Y Freestyle,SCY,M,40-44,28.59,Chad W Starks,,2014 Ski-n-Swim,2014,3,07CH8
+SLOW,100 Y Freestyle,SCY,M,40-44,57.22,Gordon R Gridley,,Ground Hog Day Classic,2014,1,060M7
+SLOW,100 Y Freestyle,SCY,M,40-44,1:07.55,Chad W Starks,,2014 Ski-n-Swim,2014,2,07CH8
+SLOW,200 Y Freestyle,SCY,M,40-44,2:04.09,Gordon R Gridley,,S.H.A.C. Pentathlon,2014,1,060M7
+SLOW,500 Y Freestyle,SCY,M,40-44,5:32.02,Gordon R Gridley,,2014 Ski-n-Swim,2014,1,060M7
+SLOW,1000 Y Freestyle,SCY,M,40-44,11:41.29,Gordon R Gridley,,S.H.A.C. Pentathlon,2014,1,060M7
+SLOW,1650 Y Freestyle,SCY,M,40-44,19:58.10,Gordon R Gridley,,2013 South Davis Masters Meet,2014,1,060M7
+SLOW,50 Y Backstroke,SCY,M,40-44,32.57,Todd M Frehse,,1st Annual Utah Masters vs Utah Seniors,2014,1,082T8
+SLOW,50 Y Backstroke,SCY,M,40-44,35.33,Chad W Starks,,2014 Ski-n-Swim,2014,2,07CH8
+SLOW,100 Y Backstroke,SCY,M,40-44,1:14.73,Todd M Frehse,,1st Annual Utah Masters vs Utah Seniors,2014,1,082T8
+SLOW,50 Y Butterfly,SCY,M,40-44,28.65,Gordon R Gridley,,2013 South Davis Masters Meet,2014,1,060M7
+SLOW,100 Y Individual Medley,SCY,M,40-44,1:11.87,Chad W Starks,,2014 Ski-n-Swim,2014,1,07CH8
+SLOW,50 Y Freestyle,SCY,M,45-49,28.64,Todd M Frehse,,2014 Ski-n-Swim,2014,1,082T8
+SLOW,100 Y Backstroke,SCY,M,45-49,1:12.80,Todd M Frehse,,2014 Ski-n-Swim,2014,1,082T8
+SLOW,50 Y Freestyle,SCY,M,55-59,35.61,Kevin B Johnson,,S.H.A.C. Pentathlon,2014,1,003YP
+SLOW,100 Y Freestyle,SCY,M,55-59,1:22.50,Kevin B Johnson,,S.H.A.C. Pentathlon,2014,1,003YP
+SLOW,200 Y Freestyle,SCY,M,55-59,2:52.85,Kevin B Johnson,,2014 Ski-n-Swim,2014,1,003YP
+SLOW,500 Y Freestyle,SCY,M,55-59,7:46.03,Kevin B Johnson,,2014 Ski-n-Swim,2014,1,003YP
+SLOW,1000 Y Freestyle,SCY,M,55-59,15:46.81,Kevin B Johnson,,S.H.A.C. Pentathlon,2014,1,003YP
+SLOW,1650 Y Freestyle,SCY,M,55-59,26:28.64,Kevin B Johnson,,Ground Hog Day Classic,2014,1,003YP
+SLOW,50 Y Backstroke,SCY,M,55-59,36.71,Kevin B Johnson,,Utah Masters Short-Course Championships Swim Meet,2014,1,003YP
+SLOW,100 Y Backstroke,SCY,M,55-59,1:21.52,Kevin B Johnson,,2014 Ski-n-Swim,2014,1,003YP
+SLOW,200 Y Backstroke,SCY,M,55-59,2:58.31,Kevin B Johnson,,Utah Masters Short-Course Championships Swim Meet,2014,1,003YP
+SLOW,100 Y Breaststroke,SCY,M,55-59,1:35.85,Kevin B Johnson,,2014 Ski-n-Swim,2014,1,003YP
+SLOW,50 Y Freestyle,SCY,M,65-69,33.90,Donald Barrus,,Ground Hog Day Classic,2014,1,087MB
+SLOW,100 Y Freestyle,SCY,M,65-69,1:19.54,Donald Barrus,,Ground Hog Day Classic,2014,1,087MB
+SLOW,1650 Y Freestyle,SCY,M,65-69,34:37.45,Donald Barrus,,Utah Masters Short-Course Championships Swim Meet,2014,1,087MB
+UC34,50 Y Freestyle,SCY,W,18-24,25.84,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098GJ
+UC34,50 Y Freestyle,SCY,W,18-24,27.69,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,2,098H6
+UC34,50 Y Freestyle,SCY,W,18-24,28.14,Heidi A Cook,,2013 South Davis Masters Meet,2014,3,090RC
+UC34,100 Y Freestyle,SCY,W,18-24,57.51,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098GJ
+UC34,100 Y Freestyle,SCY,W,18-24,1:01.54,Heidi A Cook,,2013 South Davis Masters Meet,2014,2,090RC
+UC34,100 Y Freestyle,SCY,W,18-24,1:04.94,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,3,098H6
+UC34,200 Y Freestyle,SCY,W,18-24,2:12.48,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098GJ
+UC34,200 Y Freestyle,SCY,W,18-24,2:29.36,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,2,098H6
+UC34,500 Y Freestyle,SCY,W,18-24,6:58.19,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098H6
+UC34,50 Y Backstroke,SCY,W,18-24,29.29,Elizabeth R Thompson,,2013 South Davis Masters Meet,2014,1,08FFV
+UC34,50 Y Backstroke,SCY,W,18-24,31.19,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,2,098GJ
+UC34,50 Y Backstroke,SCY,W,18-24,37.58,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,3,098H6
+UC34,100 Y Backstroke,SCY,W,18-24,1:19.88,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098H6
+UC34,50 Y Breaststroke,SCY,W,18-24,34.80,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098GJ
+UC34,50 Y Breaststroke,SCY,W,18-24,39.96,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,2,098H6
+UC34,100 Y Breaststroke,SCY,W,18-24,1:17.20,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,1,098GJ
+UC34,50 Y Butterfly,SCY,W,18-24,26.95,Elizabeth R Thompson,,2013 South Davis Masters Meet,2014,1,08FFV
+UC34,50 Y Butterfly,SCY,W,18-24,28.51,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,2,098GJ
+UC34,50 Y Butterfly,SCY,W,18-24,33.34,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,3,098H6
+UC34,50 Y Butterfly,SCY,W,18-24,34.16,Heidi A Cook,,2013 South Davis Masters Meet,2014,4,090RC
+UC34,100 Y Butterfly,SCY,W,18-24,1:22.01,Heidi A Cook,,2013 South Davis Masters Meet,2014,1,090RC
+UC34,100 Y Individual Medley,SCY,W,18-24,1:04.83,Elizabeth R Thompson,,2013 South Davis Masters Meet,2014,1,08FFV
+UC34,100 Y Individual Medley,SCY,W,18-24,1:06.27,Alison Ceranski,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,2,098GJ
+UC34,100 Y Individual Medley,SCY,W,18-24,1:14.88,Heidi A Cook,,2013 South Davis Masters Meet,2014,3,090RC
+UC34,100 Y Individual Medley,SCY,W,18-24,1:17.33,Emily Fisher,,2014 Breadbasket Zone and COMSA Short Course Swimming Championships,2014,4,098H6
+UC34,400 Y Individual Medley,SCY,W,18-24,6:22.21,Heidi A Cook,,Utah Masters Short-Course Championships Swim Meet,2014,1,090RC
+UC34,50 Y Freestyle,SCY,W,30-34,26.55,Kathleen Ayala,,2014 Ski-n-Swim,2014,1,07YCY
+UC34,100 Y Freestyle,SCY,W,30-34,59.86,Kathleen Ayala,,Utah Masters Short-Course Championships Swim Meet,2014,1,07YCY
+UC34,200 Y Freestyle,SCY,W,30-34,2:15.78,Kathleen Ayala,,2014 Ski-n-Swim,2014,1,07YCY
+UC34,200 Y Freestyle,SCY,W,30-34,2:28.11,Jamie R Hubbard,,Ground Hog Day Classic,2014,2,07KEZ
+UC34,500 Y Freestyle,SCY,W,30-34,6:01.21,Jamie R Hubbard,,2014 Ski-n-Swim,2014,1,07KEZ
+UC34,1650 Y Freestyle,SCY,W,30-34,20:26.57,Jamie R Hubbard,,Utah Masters Short-Course Championships Swim Meet,2014,1,07KEZ
+UC34,1650 Y Freestyle,SCY,W,30-34,22:21.93,Kathleen Ayala,,2013 South Davis Masters Meet,2014,2,07YCY
+UC34,50 Y Backstroke,SCY,W,30-34,30.57,Kathleen Ayala,,2013 South Davis Masters Meet,2014,1,07YCY
+UC34,50 Y Backstroke,SCY,W,30-34,33.67,Jamie R Hubbard,,2014 Ski-n-Swim,2014,2,07KEZ
+UC34,100 Y Backstroke,SCY,W,30-34,1:12.12,Kathleen Ayala,,2014 Ski-n-Swim,2014,1,07YCY
+UC34,50 Y Breaststroke,SCY,W,30-34,34.91,Jamie R Hubbard,,2014 Ski-n-Swim,2014,1,07KEZ
+UC34,100 Y Breaststroke,SCY,W,30-34,1:16.17,Jamie R Hubbard,,2014 Ski-n-Swim,2014,1,07KEZ
+UC34,50 Y Butterfly,SCY,W,30-34,29.24,Kathleen Ayala,,Utah Masters Short-Course Championships Swim Meet,2014,1,07YCY
+UC34,100 Y Individual Medley,SCY,W,30-34,1:07.52,Jamie R Hubbard,,Ground Hog Day Classic,2014,1,07KEZ
+UC34,200 Y Individual Medley,SCY,W,30-34,2:37.65,Jamie R Hubbard,,Utah Masters Short-Course Championships Swim Meet,2014,1,07KEZ
+UC34,50 Y Freestyle,SCY,W,35-39,29.55,Stephanie A Breinholt,,2013 South Davis Masters Meet,2014,1,091C3
+UC34,50 Y Freestyle,SCY,W,35-39,30.95,Christina K Jackson,,2013 South Davis Masters Meet,2014,2,07RJT
+UC34,50 Y Freestyle,SCY,W,35-39,32.25,Sarah H Jones,,2013 South Davis Masters Meet,2014,3,0913A
+UC34,100 Y Freestyle,SCY,W,35-39,59.02,Kris M Edwards,,2013 South Davis Masters Meet,2014,1,004BR
+UC34,100 Y Freestyle,SCY,W,35-39,1:08.83,Christina K Jackson,,2013 South Davis Masters Meet,2014,2,07RJT
+UC34,100 Y Freestyle,SCY,W,35-39,1:13.29,Sarah H Jones,,2013 South Davis Masters Meet,2014,3,0913A
+UC34,200 Y Freestyle,SCY,W,35-39,2:36.05,Christina K Jackson,,2013 South Davis Masters Meet,2014,1,07RJT
+UC34,50 Y Breaststroke,SCY,W,35-39,36.06,Kris M Edwards,,2013 South Davis Masters Meet,2014,1,004BR
+UC34,50 Y Breaststroke,SCY,W,35-39,40.72,Christina K Jackson,,2013 South Davis Masters Meet,2014,2,07RJT
+UC34,100 Y Individual Medley,SCY,W,35-39,1:07.10,Kris M Edwards,,2013 South Davis Masters Meet,2014,1,004BR
+UC34,100 Y Individual Medley,SCY,W,35-39,1:16.14,Stephanie A Breinholt,,2013 South Davis Masters Meet,2014,2,091C3
+UC34,50 Y Freestyle,SCY,W,40-44,33.32,Julie G Keyes,,2013 South Davis Masters Meet,2014,1,091DN
+UC34,100 Y Freestyle,SCY,W,40-44,1:17.78,Julie G Keyes,,2013 South Davis Masters Meet,2014,1,091DN
+UC34,50 Y Breaststroke,SCY,W,40-44,44.31,Julie G Keyes,,2013 South Davis Masters Meet,2014,1,091DN
+UC34,100 Y Individual Medley,SCY,W,40-44,1:30.13,Julie G Keyes,,2013 South Davis Masters Meet,2014,1,091DN
+UC34,1650 Y Freestyle,SCY,W,45-49,25:27.28,Jayme L Jorgensen,,Utah Masters Short-Course Championships Swim Meet,2014,1,09897
+UC34,200 Y Butterfly,SCY,W,45-49,3:53.64,Jayme L Jorgensen,,Utah Masters Short-Course Championships Swim Meet,2014,1,09897
+UC34,400 Y Individual Medley,SCY,W,45-49,7:14.49,Jayme L Jorgensen,,Utah Masters Short-Course Championships Swim Meet,2014,1,09897
+UC34,50 Y Freestyle,SCY,W,55-59,40.69,Pamela J Thompson,,2013 South Davis Masters Meet,2014,1,061E4
+UC34,100 Y Freestyle,SCY,W,55-59,1:30.66,Pamela J Thompson,,2013 South Davis Masters Meet,2014,1,061E4
+UC34,1650 Y Freestyle,SCY,W,55-59,29:14.37,Pamela J Thompson,,2013 South Davis Masters Meet,2014,1,061E4
+UC34,50 Y Backstroke,SCY,W,55-59,52.36,Pamela J Thompson,,2013 South Davis Masters Meet,2014,1,061E4
+UC34,50 Y Freestyle,SCY,M,18-24,23.00,Sky C Sandberg,,2013 South Davis Masters Meet,2014,1,090SW
+UC34,50 Y Freestyle,SCY,M,18-24,24.89,Scott H Shumway,,2014 Ski-n-Swim,2014,2,08012
+UC34,50 Y Freestyle,SCY,M,18-24,25.95,Wayne E Hovey,,Utah Masters Short-Course Championships Swim Meet,2014,3,095TD
+UC34,50 Y Freestyle,SCY,M,18-24,26.76,Clarence Kelley,,2013 South Davis Masters Meet,2014,4,081ED
+UC34,100 Y Freestyle,SCY,M,18-24,52.54,Sky C Sandberg,,2013 South Davis Masters Meet,2014,1,090SW
+UC34,200 Y Freestyle,SCY,M,18-24,2:07.16,Wayne E Hovey,,Utah Masters Short-Course Championships Swim Meet,2014,1,095TD
+UC34,500 Y Freestyle,SCY,M,18-24,5:57.11,Wayne E Hovey,,Utah Masters Short-Course Championships Swim Meet,2014,1,095TD
+UC34,1650 Y Freestyle,SCY,M,18-24,20:58.37,Wayne E Hovey,,Utah Masters Short-Course Championships Swim Meet,2014,1,095TD
+UC34,50 Y Breaststroke,SCY,M,18-24,33.13,Scott H Shumway,,2014 Ski-n-Swim,2014,1,08012
+UC34,100 Y Breaststroke,SCY,M,18-24,1:13.38,Scott H Shumway,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,08012
+UC34,200 Y Breaststroke,SCY,M,18-24,2:50.12,Scott H Shumway,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,08012
+UC34,200 Y Breaststroke,SCY,M,18-24,2:55.73,Clarence Kelley,,2013 South Davis Masters Meet,2014,2,081ED
+UC34,50 Y Butterfly,SCY,M,18-24,26.03,Sky C Sandberg,,2013 South Davis Masters Meet,2014,1,090SW
+UC34,50 Y Butterfly,SCY,M,18-24,33.29,Clarence Kelley,,2013 South Davis Masters Meet,2014,2,081ED
+UC34,100 Y Individual Medley,SCY,M,18-24,1:02.35,Wayne E Hovey,,Utah Masters Short-Course Championships Swim Meet,2014,1,095TD
+UC34,200 Y Individual Medley,SCY,M,18-24,2:20.98,Wayne E Hovey,,2014 Ski-n-Swim,2014,1,095TD
+UC34,50 Y Freestyle,SCY,M,25-29,23.65,Russell D Brusch,,2013 South Davis Masters Meet,2014,1,080D9
+UC34,100 Y Freestyle,SCY,M,25-29,50.58,Kevin Sheridan,,2013 South Davis Masters Meet,2014,1,091AF
+UC34,100 Y Freestyle,SCY,M,25-29,51.79,Russell D Brusch,,2013 South Davis Masters Meet,2014,2,080D9
+UC34,100 Y Freestyle,SCY,M,25-29,1:03.07,Chad R Burgin,,2013 South Davis Masters Meet,2014,3,0914R
+UC34,200 Y Freestyle,SCY,M,25-29,1:56.87,Russell D Brusch,,S.H.A.C. Pentathlon,2014,1,080D9
+UC34,200 Y Freestyle,SCY,M,25-29,2:13.45,Kevin Sheridan,,2013 South Davis Masters Meet,2014,2,091AF
+UC34,500 Y Freestyle,SCY,M,25-29,5:27.52,Russell D Brusch,,Ground Hog Day Classic,2014,1,080D9
+UC34,100 Y Backstroke,SCY,M,25-29,55.12,Henry D Hudson,,2013 South Davis Masters Meet,2014,1,07HXT
+UC34,100 Y Backstroke,SCY,M,25-29,1:12.89,Chad R Burgin,,2013 South Davis Masters Meet,2014,2,0914R
+UC34,50 Y Breaststroke,SCY,M,25-29,28.99,Henry D Hudson,,2013 South Davis Masters Meet,2014,1,07HXT
+UC34,50 Y Butterfly,SCY,M,25-29,25.41,Russell D Brusch,,Ground Hog Day Classic,2014,1,080D9
+UC34,200 Y Butterfly,SCY,M,25-29,2:39.65,Kevin Sheridan,,2013 South Davis Masters Meet,2014,1,091AF
+UC34,100 Y Individual Medley,SCY,M,25-29,55.88,Henry D Hudson,,2013 South Davis Masters Meet,2014,1,07HXT
+UC34,100 Y Individual Medley,SCY,M,25-29,59.71,Kevin Sheridan,,2013 South Davis Masters Meet,2014,2,091AF
+UC34,100 Y Individual Medley,SCY,M,25-29,1:10.95,Chad R Burgin,,2013 South Davis Masters Meet,2014,3,0914R
+UC34,400 Y Individual Medley,SCY,M,25-29,4:51.91,Kevin Sheridan,,2013 South Davis Masters Meet,2014,1,091AF
+UC34,50 Y Freestyle,SCY,M,30-34,23.38,Michael A Nappi,,2014 Ski-n-Swim,2014,1,094ZY
+UC34,100 Y Freestyle,SCY,M,30-34,54.53,Michael A Nappi,,Ground Hog Day Classic,2014,1,094ZY
+UC34,50 Y Backstroke,SCY,M,30-34,30.32,Michael A Nappi,,2014 Ski-n-Swim,2014,1,094ZY
+UC34,50 Y Breaststroke,SCY,M,30-34,31.25,Michael A Nappi,,2014 Ski-n-Swim,2014,1,094ZY
+UC34,50 Y Butterfly,SCY,M,30-34,27.51,Michael A Nappi,,Ground Hog Day Classic,2014,1,094ZY
+UC34,50 Y Freestyle,SCY,M,35-39,28.83,Aaron Norton,,2013 South Davis Masters Meet,2014,1,090ND
+UC34,50 Y Freestyle,SCY,M,40-44,26.78,Jason L Smith,,2013 South Davis Masters Meet,2014,1,091EA
+UC34,50 Y Freestyle,SCY,M,40-44,33.59,Cody R Edwards,,2013 South Davis Masters Meet,2014,2,090ZT
+UC34,50 Y Freestyle,SCY,M,40-44,39.10,Jared Goff,,S.H.A.C. Pentathlon,2014,3,0835E
+UC34,100 Y Freestyle,SCY,M,40-44,1:02.91,Jason L Smith,,2013 South Davis Masters Meet,2014,1,091EA
+UC34,200 Y Freestyle,SCY,M,40-44,2:45.99,Jason L Smith,,2013 South Davis Masters Meet,2014,1,091EA
+UC34,50 Y Backstroke,SCY,M,40-44,30.04,Craig W Barnes,,2013 South Davis Masters Meet,2014,1,066N0
+UC34,50 Y Backstroke,SCY,M,40-44,46.31,Jared Goff,,S.H.A.C. Pentathlon,2014,2,0835E
+UC34,50 Y Breaststroke,SCY,M,40-44,38.97,Cody R Edwards,,2013 South Davis Masters Meet,2014,1,090ZT
+UC34,50 Y Breaststroke,SCY,M,40-44,58.55,Jared Goff,,S.H.A.C. Pentathlon,2014,2,0835E
+UC34,100 Y Breaststroke,SCY,M,40-44,1:26.89,Cody R Edwards,,2013 South Davis Masters Meet,2014,1,090ZT
+UC34,50 Y Butterfly,SCY,M,40-44,28.68,Craig W Barnes,,2013 South Davis Masters Meet,2014,1,066N0
+UC34,50 Y Butterfly,SCY,M,40-44,47.76,Jared Goff,,S.H.A.C. Pentathlon,2014,2,0835E
+UC34,100 Y Individual Medley,SCY,M,40-44,1:05.98,Craig W Barnes,,2013 South Davis Masters Meet,2014,1,066N0
+UC34,100 Y Individual Medley,SCY,M,40-44,1:44.48,Jared Goff,,S.H.A.C. Pentathlon,2014,2,0835E
+UC34,50 Y Freestyle,SCY,M,45-49,25.99,Steve Johnson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,09078
+UC34,50 Y Freestyle,SCY,M,45-49,26.21,Graeme M Wagner,,Utah Masters Short-Course Championships Swim Meet,2014,2,07Y9P
+UC34,50 Y Freestyle,SCY,M,45-49,32.69,Don B Stringham,,2013 South Davis Masters Meet,2014,3,082ET
+UC34,50 Y Freestyle,SCY,M,45-49,35.09,Scott Wheeler,,2013 South Davis Masters Meet,2014,4,091DU
+UC34,100 Y Freestyle,SCY,M,45-49,56.58,Steve Johnson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,09078
+UC34,1650 Y Freestyle,SCY,M,45-49,22:23.96,Steve Johnson,,Ground Hog Day Classic,2014,1,09078
+UC34,50 Y Backstroke,SCY,M,45-49,28.94,Graeme M Wagner,,2013 South Davis Masters Meet,2014,1,07Y9P
+UC34,50 Y Backstroke,SCY,M,45-49,42.45,Scott Wheeler,,2013 South Davis Masters Meet,2014,2,091DU
+UC34,100 Y Backstroke,SCY,M,45-49,1:07.85,Graeme M Wagner,,Utah Masters Short-Course Championships Swim Meet,2014,1,07Y9P
+UC34,200 Y Backstroke,SCY,M,45-49,2:25.34,Graeme M Wagner,,2013 South Davis Masters Meet,2014,1,07Y9P
+UC34,50 Y Breaststroke,SCY,M,45-49,32.72,Graeme M Wagner,,Utah Masters Short-Course Championships Swim Meet,2014,1,07Y9P
+UC34,50 Y Butterfly,SCY,M,45-49,39.45,Don B Stringham,,2013 South Davis Masters Meet,2014,1,082ET
+UC34,100 Y Individual Medley,SCY,M,45-49,1:04.10,Graeme M Wagner,,Utah Masters Short-Course Championships Swim Meet,2014,1,07Y9P
+UC34,100 Y Individual Medley,SCY,M,45-49,1:09.48,Steve Johnson,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2,09078
+UC34,50 Y Freestyle,SCY,M,50-54,27.65,David A Cook,,2013 South Davis Masters Meet,2014,1,08ECZ
+UC34,100 Y Freestyle,SCY,M,50-54,1:02.30,David A Cook,,2013 South Davis Masters Meet,2014,1,08ECZ
+UC34,100 Y Freestyle,SCY,M,50-54,1:05.23,Brad McKinnon,,2013 South Davis Masters Meet,2014,2,08DYB
+UC34,50 Y Backstroke,SCY,M,50-54,36.69,David A Cook,,2013 South Davis Masters Meet,2014,1,08ECZ
+UC34,100 Y Backstroke,SCY,M,50-54,1:16.16,Brad McKinnon,,2013 South Davis Masters Meet,2014,1,08DYB
+UC34,100 Y Breaststroke,SCY,M,50-54,1:19.82,David A Cook,,2013 South Davis Masters Meet,2014,1,08ECZ
+UC34,50 Y Butterfly,SCY,M,50-54,32.67,Brad McKinnon,,2013 South Davis Masters Meet,2014,1,08DYB
+UC34,100 Y Individual Medley,SCY,M,50-54,1:14.33,Brad McKinnon,,2013 South Davis Masters Meet,2014,1,08DYB
+UC34,100 Y Individual Medley,SCY,M,50-54,1:14.94,David A Cook,,2013 South Davis Masters Meet,2014,2,08ECZ
+UC34,200 Y Individual Medley,SCY,M,50-54,2:45.96,Brad McKinnon,,Ground Hog Day Classic,2014,1,08DYB
+UC34,50 Y Freestyle,SCY,M,55-59,27.13,David A Cook,,Utah Masters Short-Course Championships Swim Meet,2014,1,08ECZ
+UC34,50 Y Freestyle,SCY,M,55-59,36.04,Mark C Woodbury,,S.H.A.C. Pentathlon,2014,2,067PT
+UC34,100 Y Freestyle,SCY,M,55-59,1:01.00,David A Cook,,Utah Masters Short-Course Championships Swim Meet,2014,1,08ECZ
+UC34,50 Y Backstroke,SCY,M,55-59,42.92,Mark C Woodbury,,S.H.A.C. Pentathlon,2014,1,067PT
+UC34,50 Y Breaststroke,SCY,M,55-59,35.71,David A Cook,,Utah Masters Short-Course Championships Swim Meet,2014,1,08ECZ
+UC34,50 Y Breaststroke,SCY,M,55-59,1:03.47,Mark C Woodbury,,S.H.A.C. Pentathlon,2014,2,067PT
+UC34,200 Y Breaststroke,SCY,M,55-59,3:06.78,David A Cook,,Utah Masters Short-Course Championships Swim Meet,2014,1,08ECZ
+UC34,50 Y Butterfly,SCY,M,55-59,42.30,Mark C Woodbury,,S.H.A.C. Pentathlon,2014,1,067PT
+UC34,100 Y Individual Medley,SCY,M,55-59,1:11.04,David A Cook,,Utah Masters Short-Course Championships Swim Meet,2014,1,08ECZ
+UC34,100 Y Individual Medley,SCY,M,55-59,1:46.84,Mark C Woodbury,,S.H.A.C. Pentathlon,2014,2,067PT
+UC34,50 Y Breaststroke,SCY,M,60-64,35.37,Fred W Axelgard,,2013 South Davis Masters Meet,2014,1,039AS
+UC34,50 Y Breaststroke,SCY,M,60-64,40.68,David Robbins,,2013 South Davis Masters Meet,2014,2,081GA
+UC34,50 Y Butterfly,SCY,M,60-64,30.13,Fred W Axelgard,,2013 South Davis Masters Meet,2014,1,039AS
+UC34,50 Y Butterfly,SCY,M,60-64,37.42,David Robbins,,2013 South Davis Masters Meet,2014,2,081GA
+UC34,100 Y Butterfly,SCY,M,60-64,1:32.75,David Robbins,,2013 South Davis Masters Meet,2014,1,081GA
+UC34,100 Y Individual Medley,SCY,M,60-64,1:10.02,Fred W Axelgard,,2013 South Davis Masters Meet,2014,1,039AS
+UC34,100 Y Individual Medley,SCY,M,60-64,1:26.67,David Robbins,,2013 South Davis Masters Meet,2014,2,081GA
+UC34,400 Y Individual Medley,SCY,M,60-64,5:53.22,Fred W Axelgard,,2013 South Davis Masters Meet,2014,1,039AS
+UC34,50 Y Freestyle,SCY,M,75-79,1:37.43,Jim Flora,,Utah Masters Short-Course Championships Swim Meet,2014,1,07S7D
+UC34,50 Y Backstroke,SCY,M,75-79,1:45.48,Jim Flora,,Utah Masters Short-Course Championships Swim Meet,2014,1,07S7D
+UC34,100 Y Backstroke,SCY,M,75-79,3:48.33,Jim Flora,,Utah Masters Short-Course Championships Swim Meet,2014,1,07S7D
+UC34,50 Y Breaststroke,SCY,M,75-79,2:23.23,Jim Flora,,Utah Masters Short-Course Championships Swim Meet,2014,1,07S7D
+UC34,100 Y Breaststroke,SCY,M,75-79,5:37.57,Jim Flora,,Utah Masters Short-Course Championships Swim Meet,2014,1,07S7D
+UNAT,100 Y Freestyle,SCY,W,25-29,1:12.39,MIRIAM JENKINS,,1st Annual Utah Masters vs Utah Seniors,2014,1,0905W
+UNAT,500 Y Freestyle,SCY,W,25-29,7:07.88,MIRIAM JENKINS,,1st Annual Utah Masters vs Utah Seniors,2014,1,0905W
+UNAT,50 Y Butterfly,SCY,M,18-24,30.70,Clarence Kelley,,1st Annual Utah Masters vs Utah Seniors,2014,1,081ED
+UNAT,100 Y Butterfly,SCY,M,18-24,1:14.62,Clarence Kelley,,1st Annual Utah Masters vs Utah Seniors,2014,1,081ED
+UNAT,100 Y Freestyle,SCY,M,25-29,52.66,Russell D Brusch,,1st Annual Utah Masters vs Utah Seniors,2014,1,080D9
+UNAT,200 Y Freestyle,SCY,M,25-29,1:56.21,Russell D Brusch,,1st Annual Utah Masters vs Utah Seniors,2014,1,080D9
+UNAT,50 Y Backstroke,SCY,M,25-29,30.77,Russell D Brusch,,1st Annual Utah Masters vs Utah Seniors,2014,1,080D9
+UNAT,50 Y Butterfly,SCY,M,25-29,26.38,Russell D Brusch,,1st Annual Utah Masters vs Utah Seniors,2014,1,080D9
+UNAT,50 Y Freestyle,SCY,M,30-34,23.29,Jared Huff,,1st Annual Utah Masters vs Utah Seniors,2014,1,081HM
+UNAT,50 Y Butterfly,SCY,M,30-34,25.08,Jared Huff,,1st Annual Utah Masters vs Utah Seniors,2014,1,081HM
+UNAT,100 Y Butterfly,SCY,M,30-34,1:00.57,Jared Huff,,1st Annual Utah Masters vs Utah Seniors,2014,1,081HM
+UNAT,50 Y Freestyle,SCY,M,45-49,26.76,Steve Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,09078
+UNAT,50 Y Freestyle,SCY,M,45-49,34.97,Chris McClelland,,1st Annual Utah Masters vs Utah Seniors,2014,2,084GZ
+UNAT,100 Y Freestyle,SCY,M,45-49,59.13,Steve Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,09078
+UNAT,500 Y Freestyle,SCY,M,45-49,6:04.19,Graeme M Wagner,,1st Annual Utah Masters vs Utah Seniors,2014,1,07Y9P
+UNAT,50 Y Backstroke,SCY,M,45-49,29.21,Graeme M Wagner,,1st Annual Utah Masters vs Utah Seniors,2014,1,07Y9P
+UNAT,100 Y Backstroke,SCY,M,45-49,1:08.37,Brett Ormsby,,1st Annual Utah Masters vs Utah Seniors,2014,1,08FGK
+UNAT,50 Y Breaststroke,SCY,M,45-49,44.54,Chris McClelland,,1st Annual Utah Masters vs Utah Seniors,2014,1,084GZ
+UNAT,50 Y Butterfly,SCY,M,45-49,27.37,Brett Ormsby,,1st Annual Utah Masters vs Utah Seniors,2014,1,08FGK
+UNAT,100 Y Butterfly,SCY,M,45-49,1:01.85,Brett Ormsby,,1st Annual Utah Masters vs Utah Seniors,2014,1,08FGK
+UNAT,50 Y Freestyle,SCY,M,50-54,30.35,David A Cook,,1st Annual Utah Masters vs Utah Seniors,2014,1,08ECZ
+UNAT,100 Y Freestyle,SCY,M,50-54,1:12.10,David A Cook,,1st Annual Utah Masters vs Utah Seniors,2014,1,08ECZ
+UNAT,100 Y Breaststroke,SCY,M,50-54,1:23.58,David A Cook,,1st Annual Utah Masters vs Utah Seniors,2014,1,08ECZ
+UNAT,50 Y Butterfly,SCY,M,50-54,37.24,David A Cook,,1st Annual Utah Masters vs Utah Seniors,2014,1,08ECZ
+UNAT,200 Y Individual Medley,SCY,M,50-54,2:56.54,David A Cook,,1st Annual Utah Masters vs Utah Seniors,2014,1,08ECZ
+UNAT,50 Y Freestyle,SCY,M,60-64,26.76,Fred W Axelgard,,1st Annual Utah Masters vs Utah Seniors,2014,1,039AS
+UNAT,50 Y Butterfly,SCY,M,60-64,30.37,Fred W Axelgard,,1st Annual Utah Masters vs Utah Seniors,2014,1,039AS
+UNAT,200 Y Individual Medley,SCY,M,60-64,2:31.84,Fred W Axelgard,,1st Annual Utah Masters vs Utah Seniors,2014,1,039AS
+UNAT,50 Y Freestyle,SCY,M,65-69,29.57,Terrence S Throssell,,1st Annual Utah Masters vs Utah Seniors,2014,1,004AP
+UNAT,50 Y Backstroke,SCY,M,65-69,34.65,Terrence S Throssell,,1st Annual Utah Masters vs Utah Seniors,2014,1,004AP
+UNAT,100 Y Breaststroke,SCY,M,65-69,1:26.77,Terrence S Throssell,,1st Annual Utah Masters vs Utah Seniors,2014,1,004AP
+UTAH,50 Y Freestyle,SCY,W,18-24,28.44,Angela Mickelsen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,098YZ
+UTAH,100 Y Freestyle,SCY,W,18-24,1:02.25,Angela Mickelsen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,098YZ
+UTAH,100 Y Freestyle,SCY,W,18-24,1:04.43,Amanda Barber,,2013 South Davis Masters Meet,2014,2,07Z8X
+UTAH,200 Y Freestyle,SCY,W,18-24,2:18.54,Amanda Barber,,2013 South Davis Masters Meet,2014,1,07Z8X
+UTAH,100 Y Backstroke,SCY,W,18-24,1:15.24,Amanda Barber,,2013 South Davis Masters Meet,2014,1,07Z8X
+UTAH,50 Y Breaststroke,SCY,W,18-24,32.98,Jill Whiting,,2013 South Davis Masters Meet,2014,1,07HDW
+UTAH,50 Y Breaststroke,SCY,W,18-24,36.28,Angela Mickelsen,,Utah Masters Short-Course Championships Swim Meet,2014,2,098YZ
+UTAH,100 Y Breaststroke,SCY,W,18-24,1:12.05,Jill Whiting,,2013 South Davis Masters Meet,2014,1,07HDW
+UTAH,100 Y Breaststroke,SCY,W,18-24,1:17.86,Angela Mickelsen,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,2,098YZ
+UTAH,200 Y Breaststroke,SCY,W,18-24,2:43.27,Jill Whiting,,2013 South Davis Masters Meet,2014,1,07HDW
+UTAH,100 Y Individual Medley,SCY,W,18-24,1:12.51,Jill Whiting,,2013 South Davis Masters Meet,2014,1,07HDW
+UTAH,500 Y Freestyle,SCY,W,25-29,6:50.45,Joelle Y Beard,,2013 South Davis Masters Meet,2014,1,07FW3
+UTAH,100 Y Backstroke,SCY,W,25-29,1:20.07,Joelle Y Beard,,2013 South Davis Masters Meet,2014,1,07FW3
+UTAH,100 Y Butterfly,SCY,W,25-29,1:25.73,Joelle Y Beard,,2013 South Davis Masters Meet,2014,1,07FW3
+UTAH,50 Y Freestyle,SCY,W,35-39,30.55,Leigh A Anderson,,2014 Ski-n-Swim,2014,1,079SK
+UTAH,100 Y Freestyle,SCY,W,35-39,1:11.05,Leigh A Anderson,,2014 Ski-n-Swim,2014,1,079SK
+UTAH,50 Y Backstroke,SCY,W,35-39,37.51,Leigh A Anderson,,2014 Ski-n-Swim,2014,1,079SK
+UTAH,50 Y Breaststroke,SCY,W,35-39,38.31,Leigh A Anderson,,2014 Ski-n-Swim,2014,1,079SK
+UTAH,100 Y Breaststroke,SCY,W,35-39,1:24.40,Leigh A Anderson,,2014 Ski-n-Swim,2014,1,079SK
+UTAH,50 Y Freestyle,SCY,W,40-44,28.23,Julie H Tate,,2013 South Davis Masters Meet,2014,1,076MA
+UTAH,50 Y Freestyle,SCY,W,40-44,28.56,Heather E Creel,,1st Annual Utah Masters vs Utah Seniors,2014,2,00683
+UTAH,50 Y Freestyle,SCY,W,40-44,31.91,Anna Marie Forest,,2013 South Davis Masters Meet,2014,3,004BF
+UTAH,100 Y Freestyle,SCY,W,40-44,1:06.88,Heather E Creel,,1st Annual Utah Masters vs Utah Seniors,2014,1,00683
+UTAH,500 Y Freestyle,SCY,W,40-44,6:13.06,Julie H Tate,,2013 South Davis Masters Meet,2014,1,076MA
+UTAH,50 Y Backstroke,SCY,W,40-44,33.50,Heather E Creel,,1st Annual Utah Masters vs Utah Seniors,2014,1,00683
+UTAH,50 Y Backstroke,SCY,W,40-44,37.21,Anna Marie Forest,,2014 Ski-n-Swim,2014,2,004BF
+UTAH,100 Y Backstroke,SCY,W,40-44,1:26.47,Anna Marie Forest,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BF
+UTAH,200 Y Backstroke,SCY,W,40-44,2:59.53,Anna Marie Forest,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BF
+UTAH,50 Y Breaststroke,SCY,W,40-44,37.31,Anna Marie Forest,,2014 Ski-n-Swim,2014,1,004BF
+UTAH,100 Y Breaststroke,SCY,W,40-44,1:21.24,Anna Marie Forest,,1st Annual Utah Masters vs Utah Seniors,2014,1,004BF
+UTAH,200 Y Breaststroke,SCY,W,40-44,3:00.19,Anna Marie Forest,,Utah Masters Short-Course Championships Swim Meet,2014,1,004BF
+UTAH,50 Y Butterfly,SCY,W,40-44,32.64,Julie H Tate,,2013 South Davis Masters Meet,2014,1,076MA
+UTAH,100 Y Individual Medley,SCY,W,40-44,1:10.67,Julie H Tate,,2013 South Davis Masters Meet,2014,1,076MA
+UTAH,100 Y Individual Medley,SCY,W,40-44,1:17.98,Anna Marie Forest,,2014 Ski-n-Swim,2014,2,004BF
+UTAH,200 Y Individual Medley,SCY,W,40-44,2:53.88,Anna Marie Forest,,1st Annual Utah Masters vs Utah Seniors,2014,1,004BF
+UTAH,50 Y Freestyle,SCY,W,45-49,28.07,Heather E Creel,,2014 Ski-n-Swim,2014,1,00683
+UTAH,50 Y Freestyle,SCY,W,45-49,30.70,Sandi Smith,,S.H.A.C. Pentathlon,2014,2,00465
+UTAH,50 Y Freestyle,SCY,W,45-49,31.60,Ellen H Cibula,,2013 South Davis Masters Meet,2014,3,06J2N
+UTAH,100 Y Freestyle,SCY,W,45-49,1:05.35,Heather E Creel,,2014 Ski-n-Swim,2014,1,00683
+UTAH,100 Y Freestyle,SCY,W,45-49,1:13.47,Sandi Smith,,S.H.A.C. Pentathlon,2014,2,00465
+UTAH,100 Y Freestyle,SCY,W,45-49,1:14.45,Ellen H Cibula,,2013 South Davis Masters Meet,2014,3,06J2N
+UTAH,200 Y Freestyle,SCY,W,45-49,2:27.73,Heather E Creel,,2014 Ski-n-Swim,2014,1,00683
+UTAH,200 Y Freestyle,SCY,W,45-49,3:01.33,Sandi Smith,,S.H.A.C. Pentathlon,2014,2,00465
+UTAH,500 Y Freestyle,SCY,W,45-49,7:04.61,Sandi Smith,,S.H.A.C. Pentathlon,2014,1,00465
+UTAH,1000 Y Freestyle,SCY,W,45-49,14:28.48,Sandi Smith,,S.H.A.C. Pentathlon,2014,1,00465
+UTAH,50 Y Backstroke,SCY,W,45-49,34.00,Heather E Creel,,2014 Ski-n-Swim,2014,1,00683
+UTAH,50 Y Butterfly,SCY,W,45-49,33.66,Ellen H Cibula,,2013 South Davis Masters Meet,2014,1,06J2N
+UTAH,100 Y Butterfly,SCY,W,45-49,1:19.81,Ellen H Cibula,,1st Annual Utah Masters vs Utah Seniors,2014,1,06J2N
+UTAH,100 Y Individual Medley,SCY,W,45-49,1:16.86,Heather E Creel,,2014 Ski-n-Swim,2014,1,00683
+UTAH,50 Y Freestyle,SCY,W,50-54,29.26,Lisa K Kuwahara,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003Z6
+UTAH,50 Y Freestyle,SCY,W,50-54,54.76,Ruth Menlove,,S.H.A.C. Pentathlon,2014,2,09217
+UTAH,50 Y Breaststroke,SCY,W,50-54,36.04,Lisa K Kuwahara,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003Z6
+UTAH,50 Y Breaststroke,SCY,W,50-54,1:18.50,Ruth Menlove,,S.H.A.C. Pentathlon,2014,2,09217
+UTAH,100 Y Breaststroke,SCY,W,50-54,1:17.96,Lisa K Kuwahara,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003Z6
+UTAH,200 Y Breaststroke,SCY,W,50-54,2:51.10,Lisa K Kuwahara,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003Z6
+UTAH,200 Y Breaststroke,SCY,W,50-54,6:35.60,Ruth Menlove,,S.H.A.C. Pentathlon,2014,2,09217
+UTAH,50 Y Butterfly,SCY,W,50-54,30.54,Lisa K Kuwahara,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003Z6
+UTAH,100 Y Butterfly,SCY,W,50-54,1:12.30,Lisa K Kuwahara,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003Z6
+UTAH,50 Y Freestyle,SCY,W,55-59,29.53,Lo D Knapp,,Utah Masters Short-Course Championships Swim Meet,2014,1,003ZB
+UTAH,50 Y Freestyle,SCY,W,55-59,35.38,Katy L Kessinger,,Utah Masters Short-Course Championships Swim Meet,2014,2,00491
+UTAH,100 Y Freestyle,SCY,W,55-59,1:00.87,Lo D Knapp,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003ZB
+UTAH,100 Y Freestyle,SCY,W,55-59,1:12.44,Katy L Kessinger,,CAL Aquatic Masters (CALM) Spring Short Course Yards Meet,2014,2,00491
+UTAH,100 Y Freestyle,SCY,W,55-59,1:41.92,Christina M Gorzalski,,S.H.A.C. Pentathlon,2014,3,06J9Z
+UTAH,200 Y Freestyle,SCY,W,55-59,2:12.59,Lo D Knapp,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003ZB
+UTAH,200 Y Freestyle,SCY,W,55-59,2:42.22,Katy L Kessinger,,2014 Ski-n-Swim,2014,2,00491
+UTAH,500 Y Freestyle,SCY,W,55-59,6:10.71,Lo D Knapp,,2014 Ski-n-Swim,2014,1,003ZB
+UTAH,500 Y Freestyle,SCY,W,55-59,6:48.99,Katy L Kessinger,,CAL Aquatic Masters (CALM) Spring Short Course Yards Meet,2014,2,00491
+UTAH,1000 Y Freestyle,SCY,W,55-59,12:59.25,Lo D Knapp,,Utah Masters Short-Course Championships Swim Meet,2014,1,003ZB
+UTAH,1650 Y Freestyle,SCY,W,55-59,24:58.15,Katy L Kessinger,,Utah Masters Short-Course Championships Swim Meet,2014,1,00491
+UTAH,50 Y Backstroke,SCY,W,55-59,56.61,Christina M Gorzalski,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,1,06J9Z
+UTAH,100 Y Backstroke,SCY,W,55-59,1:57.96,Christina M Gorzalski,,S.H.A.C. Pentathlon,2014,1,06J9Z
+UTAH,200 Y Backstroke,SCY,W,55-59,2:35.49,Lo D Knapp,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003ZB
+UTAH,50 Y Breaststroke,SCY,W,55-59,37.56,Dorothy Maryon,,2013 National Senior Games,2014,1,004BY
+UTAH,50 Y Breaststroke,SCY,W,55-59,38.44,Lo D Knapp,,Utah Masters Short-Course Championships Swim Meet,2014,2,003ZB
+UTAH,50 Y Breaststroke,SCY,W,55-59,42.54,Katy L Kessinger,,2014 Ski-n-Swim,2014,3,00491
+UTAH,100 Y Breaststroke,SCY,W,55-59,1:17.28,Lo D Knapp,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003ZB
+UTAH,100 Y Breaststroke,SCY,W,55-59,1:21.63,Dorothy Maryon,,2013 National Senior Games,2014,2,004BY
+UTAH,100 Y Breaststroke,SCY,W,55-59,1:39.29,Katy L Kessinger,,Utah Masters Short-Course Championships Swim Meet,2014,3,00491
+UTAH,100 Y Breaststroke,SCY,W,55-59,2:40.07,Christina M Gorzalski,,S.H.A.C. Pentathlon,2014,4,06J9Z
+UTAH,200 Y Breaststroke,SCY,W,55-59,2:45.48,Lo D Knapp,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003ZB
+UTAH,200 Y Breaststroke,SCY,W,55-59,3:00.66,Dorothy Maryon,,2013 National Senior Games,2014,2,004BY
+UTAH,200 Y Breaststroke,SCY,W,55-59,3:29.21,Katy L Kessinger,,Utah Masters Short-Course Championships Swim Meet,2014,3,00491
+UTAH,50 Y Butterfly,SCY,W,55-59,33.46,Dorothy Maryon,,2013 National Senior Games,2014,1,004BY
+UTAH,50 Y Butterfly,SCY,W,55-59,53.76,Christina M Gorzalski,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,2,06J9Z
+UTAH,100 Y Butterfly,SCY,W,55-59,2:03.90,Christina M Gorzalski,,S.H.A.C. Pentathlon,2014,1,06J9Z
+UTAH,100 Y Individual Medley,SCY,W,55-59,1:14.15,Dorothy Maryon,,2013 National Senior Games,2014,1,004BY
+UTAH,200 Y Individual Medley,SCY,W,55-59,2:30.41,Lo D Knapp,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,003ZB
+UTAH,200 Y Individual Medley,SCY,W,55-59,2:41.50,Dorothy Maryon,,2013 National Senior Games,2014,2,004BY
+UTAH,200 Y Individual Medley,SCY,W,55-59,4:28.60,Christina M Gorzalski,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,3,06J9Z
+UTAH,50 Y Freestyle,SCY,W,60-64,35.85,Carolyn B Lyman,,2013 South Davis Masters Meet,2014,1,00440
+UTAH,50 Y Freestyle,SCY,W,60-64,45.76,Theodora Fox,,S.H.A.C. Pentathlon,2014,2,092VU
+UTAH,50 Y Freestyle,SCY,W,60-64,54.02,Mary Mallon,,2014 Ski-n-Swim,2014,3,003YD
+UTAH,100 Y Freestyle,SCY,W,60-64,1:39.94,Mary Mallon,,2013 South Davis Masters Meet,2014,1,003YD
+UTAH,100 Y Freestyle,SCY,W,60-64,1:43.63,Theodora Fox,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,2,092VU
+UTAH,200 Y Freestyle,SCY,W,60-64,2:50.10,Carolyn B Lyman,,S.H.A.C. Pentathlon,2014,1,00440
+UTAH,200 Y Freestyle,SCY,W,60-64,3:46.62,Mary Mallon,,2013 South Davis Masters Meet,2014,2,003YD
+UTAH,200 Y Freestyle,SCY,W,60-64,3:49.51,Theodora Fox,,S.H.A.C. Pentathlon,2014,3,092VU
+UTAH,500 Y Freestyle,SCY,W,60-64,7:06.65,Carolyn B Lyman,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,00440
+UTAH,500 Y Freestyle,SCY,W,60-64,10:11.01,Theodora Fox,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,2,092VU
+UTAH,1000 Y Freestyle,SCY,W,60-64,14:38.06,Carolyn B Lyman,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,00440
+UTAH,50 Y Backstroke,SCY,W,60-64,39.72,Carolyn B Lyman,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,00440
+UTAH,50 Y Backstroke,SCY,W,60-64,1:07.21,Mary Mallon,,S.H.A.C. Pentathlon,2014,2,003YD
+UTAH,50 Y Backstroke,SCY,W,60-64,1:08.31,Theodora Fox,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,3,092VU
+UTAH,200 Y Backstroke,SCY,W,60-64,2:55.41,Carolyn B Lyman,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,00440
+UTAH,50 Y Breaststroke,SCY,W,60-64,54.40,Mary Mallon,,Utah Masters Short-Course Championships Swim Meet,2014,1,003YD
+UTAH,50 Y Breaststroke,SCY,W,60-64,1:11.03,Theodora Fox,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,2,092VU
+UTAH,100 Y Breaststroke,SCY,W,60-64,1:34.04,Carolyn B Lyman,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,00440
+UTAH,200 Y Breaststroke,SCY,W,60-64,3:35.82,Carolyn B Lyman,,S.H.A.C. Pentathlon,2014,1,00440
+UTAH,50 Y Butterfly,SCY,W,60-64,44.87,Carolyn B Lyman,,2013 South Davis Masters Meet,2014,1,00440
+UTAH,50 Y Butterfly,SCY,W,60-64,53.89,Mary Mallon,,S.H.A.C. Pentathlon,2014,2,003YD
+UTAH,200 Y Butterfly,SCY,W,60-64,3:49.18,Carolyn B Lyman,,S.H.A.C. Pentathlon,2014,1,00440
+UTAH,100 Y Individual Medley,SCY,W,60-64,1:31.15,Carolyn B Lyman,,2013 South Davis Masters Meet,2014,1,00440
+UTAH,100 Y Individual Medley,SCY,W,60-64,1:57.14,Mary Mallon,,2014 Ski-n-Swim,2014,2,003YD
+UTAH,100 Y Individual Medley,SCY,W,60-64,2:20.10,Theodora Fox,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,3,092VU
+UTAH,200 Y Individual Medley,SCY,W,60-64,3:16.34,Carolyn B Lyman,,2014 Ski-n-Swim,2014,1,00440
+UTAH,200 Y Individual Medley,SCY,W,60-64,4:22.80,Mary Mallon,,Utah Masters Short-Course Championships Swim Meet,2014,2,003YD
+UTAH,400 Y Individual Medley,SCY,W,60-64,6:36.49,Carolyn B Lyman,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,00440
+UTAH,200 Y Freestyle,SCY,W,70-74,3:16.43,Lynne H Lund,,S.H.A.C. Pentathlon,2014,1,02BUP
+UTAH,500 Y Freestyle,SCY,W,70-74,8:44.13,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,1000 Y Freestyle,SCY,W,70-74,17:32.50,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,1650 Y Freestyle,SCY,W,70-74,28:50.44,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,100 Y Backstroke,SCY,W,70-74,1:54.48,Lynne H Lund,,Utah Masters Short-Course Championships Swim Meet,2014,1,02BUP
+UTAH,200 Y Backstroke,SCY,W,70-74,3:52.86,Lynne H Lund,,S.H.A.C. Pentathlon,2014,1,02BUP
+UTAH,50 Y Breaststroke,SCY,W,70-74,1:00.02,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,100 Y Breaststroke,SCY,W,70-74,2:05.27,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,200 Y Breaststroke,SCY,W,70-74,4:20.36,Lynne H Lund,,S.H.A.C. Pentathlon,2014,1,02BUP
+UTAH,50 Y Butterfly,SCY,W,70-74,50.36,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,100 Y Butterfly,SCY,W,70-74,1:54.87,Lynne H Lund,,Utah Masters Short-Course Championships Swim Meet,2014,1,02BUP
+UTAH,200 Y Butterfly,SCY,W,70-74,4:11.86,Lynne H Lund,,S.H.A.C. Pentathlon,2014,1,02BUP
+UTAH,100 Y Individual Medley,SCY,W,70-74,1:50.49,Lynne H Lund,,2013 South Davis Masters Meet,2014,1,02BUP
+UTAH,200 Y Individual Medley,SCY,W,70-74,3:55.20,Lynne H Lund,,Utah Masters Short-Course Championships Swim Meet,2014,1,02BUP
+UTAH,400 Y Individual Medley,SCY,W,70-74,7:55.64,Lynne H Lund,,S.H.A.C. Pentathlon,2014,1,02BUP
+UTAH,50 Y Freestyle,SCY,W,80-84,1:03.11,Barbara A Bolanos-Moore,,S.H.A.C. Pentathlon,2014,1,02D1M
+UTAH,100 Y Freestyle,SCY,W,80-84,2:20.06,Barbara A Bolanos-Moore,,S.H.A.C. Pentathlon,2014,1,02D1M
+UTAH,200 Y Freestyle,SCY,W,80-84,4:56.89,Barbara A Bolanos-Moore,,S.H.A.C. Pentathlon,2014,1,02D1M
+UTAH,500 Y Freestyle,SCY,W,80-84,11:38.57,Barbara A Bolanos-Moore,,2013 South Davis Masters Meet,2014,1,02D1M
+UTAH,1000 Y Freestyle,SCY,W,80-84,25:23.18,Barbara A Bolanos-Moore,,S.H.A.C. Pentathlon,2014,1,02D1M
+UTAH,1650 Y Freestyle,SCY,W,80-84,45:10.30,Barbara A Bolanos-Moore,,2013 South Davis Masters Meet,2014,1,02D1M
+UTAH,100 Y Backstroke,SCY,W,80-84,2:34.80,Barbara A Bolanos-Moore,,Utah Masters Short-Course Championships Swim Meet,2014,1,02D1M
+UTAH,50 Y Freestyle,SCY,M,18-24,22.53,Christopher P Mair,,1st Annual Utah Masters vs Utah Seniors,2014,1,07S30
+UTAH,50 Y Freestyle,SCY,M,18-24,24.11,Marcus G Singleton,,2013 South Davis Masters Meet,2014,2,06U8T
+UTAH,50 Y Freestyle,SCY,M,18-24,24.26,DJ Wiley,,2013 South Davis Masters Meet,2014,3,07G82
+UTAH,50 Y Freestyle,SCY,M,18-24,24.27,Shane Callihan,,2013 South Davis Masters Meet,2014,4,0917H
+UTAH,100 Y Freestyle,SCY,M,18-24,51.16,Christopher P Mair,,1st Annual Utah Masters vs Utah Seniors,2014,1,07S30
+UTAH,100 Y Freestyle,SCY,M,18-24,52.02,Shane Callihan,,2013 South Davis Masters Meet,2014,2,0917H
+UTAH,100 Y Freestyle,SCY,M,18-24,53.21,DJ Wiley,,2013 South Davis Masters Meet,2014,3,07G82
+UTAH,100 Y Freestyle,SCY,M,18-24,53.54,Marcus G Singleton,,2013 South Davis Masters Meet,2014,4,06U8T
+UTAH,200 Y Freestyle,SCY,M,18-24,2:00.36,Marcus G Singleton,,2013 South Davis Masters Meet,2014,1,06U8T
+UTAH,100 Y Backstroke,SCY,M,18-24,55.95,Shane Callihan,,2013 South Davis Masters Meet,2014,1,0917H
+UTAH,50 Y Breaststroke,SCY,M,18-24,32.55,DJ Wiley,,2013 South Davis Masters Meet,2014,1,07G82
+UTAH,100 Y Breaststroke,SCY,M,18-24,1:09.68,DJ Wiley,,2013 South Davis Masters Meet,2014,1,07G82
+UTAH,50 Y Butterfly,SCY,M,18-24,24.82,Christopher P Mair,,1st Annual Utah Masters vs Utah Seniors,2014,1,07S30
+UTAH,200 Y Individual Medley,SCY,M,18-24,2:13.87,Shane Callihan,,2013 South Davis Masters Meet,2014,1,0917H
+UTAH,50 Y Freestyle,SCY,M,25-29,23.76,Marcus G Singleton,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06U8T
+UTAH,100 Y Freestyle,SCY,M,25-29,51.84,Marcus G Singleton,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06U8T
+UTAH,200 Y Freestyle,SCY,M,25-29,1:55.16,Marcus G Singleton,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06U8T
+UTAH,500 Y Freestyle,SCY,M,25-29,5:16.29,Marcus G Singleton,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06U8T
+UTAH,50 Y Freestyle,SCY,M,30-34,27.97,Joshua B Reusser,,2013 South Davis Masters Meet,2014,1,07PPJ
+UTAH,200 Y Freestyle,SCY,M,30-34,2:42.76,David A Wellman,,S.H.A.C. Pentathlon,2014,1,0266P
+UTAH,200 Y Backstroke,SCY,M,30-34,2:48.27,David A Wellman,,S.H.A.C. Pentathlon,2014,1,0266P
+UTAH,100 Y Breaststroke,SCY,M,30-34,1:16.01,Joshua B Reusser,,2013 South Davis Masters Meet,2014,1,07PPJ
+UTAH,200 Y Breaststroke,SCY,M,30-34,3:11.63,David A Wellman,,S.H.A.C. Pentathlon,2014,1,0266P
+UTAH,200 Y Butterfly,SCY,M,30-34,3:01.94,David A Wellman,,S.H.A.C. Pentathlon,2014,1,0266P
+UTAH,100 Y Individual Medley,SCY,M,30-34,1:12.04,Joshua B Reusser,,2013 South Davis Masters Meet,2014,1,07PPJ
+UTAH,400 Y Individual Medley,SCY,M,30-34,5:45.70,David A Wellman,,S.H.A.C. Pentathlon,2014,1,0266P
+UTAH,100 Y Freestyle,SCY,M,35-39,51.57,Matt E Chamberlain,,2013 South Davis Masters Meet,2014,1,004BW
+UTAH,50 Y Breaststroke,SCY,M,35-39,29.45,Jeremy S Weight,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,07PJ4
+UTAH,100 Y Breaststroke,SCY,M,35-39,1:02.48,Jeremy S Weight,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,07PJ4
+UTAH,200 Y Breaststroke,SCY,M,35-39,2:16.03,Jeremy S Weight,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,07PJ4
+UTAH,100 Y Butterfly,SCY,M,35-39,56.35,Matt E Chamberlain,,2013 South Davis Masters Meet,2014,1,004BW
+UTAH,100 Y Individual Medley,SCY,M,35-39,58.16,Matt E Chamberlain,,2013 South Davis Masters Meet,2014,1,004BW
+UTAH,100 Y Individual Medley,SCY,M,35-39,1:04.95,Jeremy S Weight,,Utah Masters Short-Course Championships Swim Meet,2014,2,07PJ4
+UTAH,200 Y Individual Medley,SCY,M,35-39,2:20.77,Jeremy S Weight,,2014 Ski-n-Swim,2014,1,07PJ4
+UTAH,50 Y Freestyle,SCY,M,40-44,23.44,Kelly S Karren,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06Y20
+UTAH,50 Y Freestyle,SCY,M,40-44,25.00,Mark Belnap,,1st Annual Utah Masters vs Utah Seniors,2014,2,06J0H
+UTAH,50 Y Freestyle,SCY,M,40-44,25.83,John Eyring,,2013 South Davis Masters Meet,2014,3,072BN
+UTAH,50 Y Freestyle,SCY,M,40-44,28.54,Alex Burt,,2013 South Davis Masters Meet,2014,4,061FN
+UTAH,100 Y Freestyle,SCY,M,40-44,52.98,Kelly S Karren,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06Y20
+UTAH,100 Y Freestyle,SCY,M,40-44,56.43,Mark Belnap,,Utah Masters Short-Course Championships Swim Meet,2014,2,06J0H
+UTAH,100 Y Freestyle,SCY,M,40-44,58.11,John Eyring,,2013 South Davis Masters Meet,2014,3,072BN
+UTAH,200 Y Freestyle,SCY,M,40-44,2:11.08,Mark Belnap,,2013 South Davis Masters Meet,2014,1,06J0H
+UTAH,50 Y Backstroke,SCY,M,40-44,33.84,Mark Belnap,,S.H.A.C. Pentathlon,2014,1,06J0H
+UTAH,100 Y Backstroke,SCY,M,40-44,1:00.89,Kelly S Karren,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06Y20
+UTAH,200 Y Backstroke,SCY,M,40-44,2:15.54,Kelly S Karren,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06Y20
+UTAH,50 Y Breaststroke,SCY,M,40-44,33.31,Mark Belnap,,Utah Masters Short-Course Championships Swim Meet,2014,1,06J0H
+UTAH,50 Y Breaststroke,SCY,M,40-44,36.66,John Eyring,,2013 South Davis Masters Meet,2014,2,072BN
+UTAH,50 Y Breaststroke,SCY,M,40-44,39.73,Alex Burt,,2013 South Davis Masters Meet,2014,3,061FN
+UTAH,100 Y Breaststroke,SCY,M,40-44,1:13.49,Mark Belnap,,Ground Hog Day Classic,2014,1,06J0H
+UTAH,50 Y Butterfly,SCY,M,40-44,25.49,Kelly S Karren,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06Y20
+UTAH,50 Y Butterfly,SCY,M,40-44,28.91,Mark Belnap,,S.H.A.C. Pentathlon,2014,2,06J0H
+UTAH,100 Y Butterfly,SCY,M,40-44,57.57,Kelly S Karren,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,06Y20
+UTAH,100 Y Butterfly,SCY,M,40-44,1:19.59,Alex Burt,,2013 South Davis Masters Meet,2014,2,061FN
+UTAH,100 Y Individual Medley,SCY,M,40-44,1:04.17,Kelly S Karren,,SPMS Short Course Championships,2014,1,06Y20
+UTAH,100 Y Individual Medley,SCY,M,40-44,1:06.16,Mark Belnap,,2013 South Davis Masters Meet,2014,2,06J0H
+UTAH,100 Y Individual Medley,SCY,M,40-44,1:15.35,Alex Burt,,2013 South Davis Masters Meet,2014,3,061FN
+UTAH,500 Y Freestyle,SCY,M,45-49,5:14.38,Dennis N Tesch,,1st Annual Utah Masters vs Utah Seniors,2014,1,003XN
+UTAH,50 Y Butterfly,SCY,M,45-49,27.08,Dennis N Tesch,,1st Annual Utah Masters vs Utah Seniors,2014,1,003XN
+UTAH,200 Y Freestyle,SCY,M,50-54,2:26.17,Gerald S Treiman,,2014 Ski-n-Swim,2014,1,0043A
+UTAH,100 Y Backstroke,SCY,M,50-54,1:10.06,Gerald S Treiman,,2014 Ski-n-Swim,2014,1,0043A
+UTAH,200 Y Backstroke,SCY,M,50-54,2:28.14,Gerald S Treiman,,Ground Hog Day Classic,2014,1,0043A
+UTAH,50 Y Freestyle,SCY,M,55-59,32.14,Jeff M Hansen,,2013 South Davis Masters Meet,2014,1,06JGC
+UTAH,100 Y Freestyle,SCY,M,55-59,1:51.73,Dave C Moore,,2014 Ski-n-Swim,2014,1,05F5M
+UTAH,200 Y Freestyle,SCY,M,55-59,2:52.09,Kevin B Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,003YP
+UTAH,200 Y Freestyle,SCY,M,55-59,3:54.60,Dave C Moore,,2014 Ski-n-Swim,2014,2,05F5M
+UTAH,500 Y Freestyle,SCY,M,55-59,7:42.16,Kevin B Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,003YP
+UTAH,500 Y Freestyle,SCY,M,55-59,10:37.82,Dave C Moore,,2013 South Davis Masters Meet,2014,2,05F5M
+UTAH,1650 Y Freestyle,SCY,M,55-59,25:17.78,Jeff M Hansen,,2013 South Davis Masters Meet,2014,1,06JGC
+UTAH,50 Y Backstroke,SCY,M,55-59,58.91,Dave C Moore,,2014 Ski-n-Swim,2014,1,05F5M
+UTAH,100 Y Backstroke,SCY,M,55-59,1:22.89,Kevin B Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,003YP
+UTAH,100 Y Backstroke,SCY,M,55-59,2:06.08,Dave C Moore,,2013 South Davis Masters Meet,2014,2,05F5M
+UTAH,200 Y Backstroke,SCY,M,55-59,4:26.53,Dave C Moore,,2013 South Davis Masters Meet,2014,1,05F5M
+UTAH,100 Y Breaststroke,SCY,M,55-59,1:39.31,Kevin B Johnson,,1st Annual Utah Masters vs Utah Seniors,2014,1,003YP
+UTAH,50 Y Freestyle,SCY,M,60-64,30.99,Dick Heinrich,,S.H.A.C. Pentathlon,2014,1,06NWM
+UTAH,100 Y Freestyle,SCY,M,60-64,1:07.22,Dick Heinrich,,S.H.A.C. Pentathlon,2014,1,06NWM
+UTAH,200 Y Freestyle,SCY,M,60-64,2:27.91,Dick Heinrich,,S.H.A.C. Pentathlon,2014,1,06NWM
+UTAH,500 Y Freestyle,SCY,M,60-64,6:48.60,Dick Heinrich,,S.H.A.C. Pentathlon,2014,1,06NWM
+UTAH,1000 Y Freestyle,SCY,M,60-64,14:06.76,Dick Heinrich,,S.H.A.C. Pentathlon,2014,1,06NWM
+UTAH,50 Y Backstroke,SCY,M,60-64,31.57,Roger S Bruford,,1st Annual Utah Masters vs Utah Seniors,2014,1,06RPP
+UTAH,50 Y Breaststroke,SCY,M,60-64,34.72,Roger S Bruford,,Utah Masters Short-Course Championships Swim Meet,2014,1,06RPP
+UTAH,100 Y Individual Medley,SCY,M,60-64,1:10.31,Roger S Bruford,,Utah Masters Short-Course Championships Swim Meet,2014,1,06RPP
+UTAH,50 Y Freestyle,SCY,M,65-69,29.60,Terrence S Throssell,,Utah Masters Short-Course Championships Swim Meet,2014,1,004AP
+UTAH,100 Y Freestyle,SCY,M,65-69,1:09.38,Terrence S Throssell,,2013 South Davis Masters Meet,2014,1,004AP
+UTAH,50 Y Backstroke,SCY,M,65-69,36.26,Terrence S Throssell,,2013 South Davis Masters Meet,2014,1,004AP
+UTAH,100 Y Backstroke,SCY,M,65-69,1:18.84,Terrence S Throssell,,2013 South Davis Masters Meet,2014,1,004AP
+UTAH,100 Y Breaststroke,SCY,M,65-69,1:31.07,Terrence S Throssell,,Utah Masters Short-Course Championships Swim Meet,2014,1,004AP
+UTAH,50 Y Butterfly,SCY,M,65-69,28.18,Fred C Baird,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,1,0042P
+UTAH,50 Y Butterfly,SCY,M,65-69,38.94,Terrence S Throssell,,Utah Masters Short-Course Championships Swim Meet,2014,2,004AP
+UTAH,100 Y Butterfly,SCY,M,65-69,1:03.44,Fred C Baird,,"Las Vegas ""Free Play"" Short Course Yards Swim Meet",2014,1,0042P
+UTAH,200 Y Butterfly,SCY,M,65-69,2:35.29,Fred C Baird,,2014 Nationwide U.S. Masters Swimming Spring National Championship,2014,1,0042P
+UTAH,100 Y Individual Medley,SCY,M,65-69,1:21.59,Terrence S Throssell,,2013 South Davis Masters Meet,2014,1,004AP
+UTAH,50 Y Freestyle,SCY,M,75-79,37.77,Phil Cherry,,Ground Hog Day Classic,2014,1,003Y1
+UTAH,100 Y Freestyle,SCY,M,75-79,1:28.49,Phil Cherry,,Ground Hog Day Classic,2014,1,003Y1
+UTAH,200 Y Freestyle,SCY,M,75-79,3:30.44,Phil Cherry,,2013 South Davis Masters Meet,2014,1,003Y1
+UTAH,500 Y Freestyle,SCY,M,75-79,9:26.94,Phil Cherry,,2013 South Davis Masters Meet,2014,1,003Y1
+UTAH,1650 Y Freestyle,SCY,M,75-79,33:06.53,Phil Cherry,,2013 South Davis Masters Meet,2014,1,003Y1
+UTAH,50 Y Backstroke,SCY,M,75-79,55.74,Phil Cherry,,Utah Masters Short-Course Championships Swim Meet,2014,1,003Y1
+UTAH,50 Y Breaststroke,SCY,M,75-79,48.90,Phil Cherry,,2013 South Davis Masters Meet,2014,1,003Y1
+UTAH,100 Y Breaststroke,SCY,M,75-79,1:56.12,Phil Cherry,,Utah Masters Short-Course Championships Swim Meet,2014,1,003Y1
+UTAH,200 Y Breaststroke,SCY,M,75-79,4:10.35,Phil Cherry,,2013 South Davis Masters Meet,2014,1,003Y1
+WSUM,50 Y Backstroke,SCY,W,18-24,37.81,Rachel N Mize,,2013 South Davis Masters Meet,2014,1,08428
+WSUM,50 Y Freestyle,SCY,M,18-24,25.07,Alex Johnson,,2013 South Davis Masters Meet,2014,1,091BN
+WSUM,50 Y Freestyle,SCY,M,18-24,25.82,Zack S Myers,,2014 Ski-n-Swim,2014,2,090UZ
+WSUM,50 Y Freestyle,SCY,M,18-24,26.42,Clarence Kelley,,S.H.A.C. Pentathlon,2014,3,081ED
+WSUM,50 Y Freestyle,SCY,M,18-24,30.86,Randy Barnes,,S.H.A.C. Pentathlon,2014,4,0916C
+WSUM,100 Y Freestyle,SCY,M,18-24,55.65,Zack S Myers,,2013 South Davis Masters Meet,2014,1,090UZ
+WSUM,100 Y Freestyle,SCY,M,18-24,1:08.88,Randy Barnes,,2014 Ski-n-Swim,2014,2,0916C
+WSUM,200 Y Freestyle,SCY,M,18-24,2:57.42,Randy Barnes,,S.H.A.C. Pentathlon,2014,1,0916C
+WSUM,500 Y Freestyle,SCY,M,18-24,7:44.85,Randy Barnes,,S.H.A.C. Pentathlon,2014,1,0916C
+WSUM,1000 Y Freestyle,SCY,M,18-24,13:30.05,Zack S Myers,,S.H.A.C. Pentathlon,2014,1,090UZ
+WSUM,1000 Y Freestyle,SCY,M,18-24,17:06.94,Randy Barnes,,S.H.A.C. Pentathlon,2014,2,0916C
+WSUM,50 Y Backstroke,SCY,M,18-24,28.85,Zack S Myers,,2013 South Davis Masters Meet,2014,1,090UZ
+WSUM,50 Y Backstroke,SCY,M,18-24,34.76,Clarence Kelley,,S.H.A.C. Pentathlon,2014,2,081ED
+WSUM,100 Y Backstroke,SCY,M,18-24,1:02.78,Zack S Myers,,2013 South Davis Masters Meet,2014,1,090UZ
+WSUM,50 Y Breaststroke,SCY,M,18-24,34.82,Clarence Kelley,,S.H.A.C. Pentathlon,2014,1,081ED
+WSUM,50 Y Breaststroke,SCY,M,18-24,35.83,Zack S Myers,,S.H.A.C. Pentathlon,2014,2,090UZ
+WSUM,100 Y Breaststroke,SCY,M,18-24,1:27.54,Randy Barnes,,2014 Ski-n-Swim,2014,1,0916C
+WSUM,200 Y Breaststroke,SCY,M,18-24,2:52.59,Clarence Kelley,,Ground Hog Day Classic,2014,1,081ED
+WSUM,50 Y Butterfly,SCY,M,18-24,28.17,Alex Johnson,,2013 South Davis Masters Meet,2014,1,091BN
+WSUM,50 Y Butterfly,SCY,M,18-24,31.24,Clarence Kelley,,S.H.A.C. Pentathlon,2014,2,081ED
+WSUM,50 Y Butterfly,SCY,M,18-24,32.59,Randy Barnes,,2013 South Davis Masters Meet,2014,3,0916C
+WSUM,100 Y Butterfly,SCY,M,18-24,1:16.54,Randy Barnes,,2014 Ski-n-Swim,2014,1,0916C
+WSUM,200 Y Butterfly,SCY,M,18-24,3:17.81,Clarence Kelley,,Ground Hog Day Classic,2014,1,081ED
+WSUM,100 Y Individual Medley,SCY,M,18-24,1:05.46,Zack S Myers,,S.H.A.C. Pentathlon,2014,1,090UZ
+WSUM,100 Y Individual Medley,SCY,M,18-24,1:11.88,Clarence Kelley,,S.H.A.C. Pentathlon,2014,2,081ED
+WSUM,100 Y Individual Medley,SCY,M,18-24,1:16.21,Randy Barnes,,2014 Ski-n-Swim,2014,3,0916C
