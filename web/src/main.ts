@@ -48,7 +48,7 @@ async function init() {
       : Promise.resolve([]),
     fetchAllSheets(),
     hasRecords && tenant.swimmerPages
-      ? fetch(`${import.meta.env.BASE_URL}data/swimmers.json`).then((r) => (r.ok ? r.json() : {}), () => ({}))
+      ? fetch(`${import.meta.env.BASE_URL}data/swimmers.json`).then((r) => (r.ok ? r.json() : {})).catch(() => ({})) // build-emitted; dev serves HTML here
       : Promise.resolve({}),
   ]);
   allRecords = recordsRes;
@@ -64,6 +64,7 @@ async function init() {
 
   if (!hasRecords) return;
   populateFilters();
+  restoreFilters();
   wireEvents();
   updateSortIndicators();
   render();
@@ -130,14 +131,57 @@ function formatLabel(filterId: string, value: string): string {
   return value;
 }
 
+// --- Remembered filters (this browser only; localStorage, so nothing is sent to the server) ---
+
+const FILTER_IDS = ["filter-course", "filter-gender", "filter-event", "filter-distance", "filter-year", "filter-age", "filter-team"];
+const FILTERS_KEY = "recordFilters";
+
+function saveFilters() {
+  try {
+    if (!$opt<HTMLInputElement>("#remember-filters")?.checked) {
+      localStorage.removeItem(FILTERS_KEY);
+      return;
+    }
+    const saved: Record<string, string> = {};
+    for (const id of FILTER_IDS) {
+      const v = $opt<HTMLSelectElement>(`#${id}`)?.value;
+      if (v) saved[id] = v;
+    }
+    localStorage.setItem(FILTERS_KEY, JSON.stringify(saved));
+  } catch {
+    // Storage blocked (private mode): filters just aren't remembered.
+  }
+}
+
+function restoreFilters() {
+  try {
+    const raw = localStorage.getItem(FILTERS_KEY);
+    if (!raw) return;
+    const box = $opt<HTMLInputElement>("#remember-filters");
+    if (box) box.checked = true;
+    const saved = JSON.parse(raw) as Record<string, string>;
+    for (const id of FILTER_IDS) {
+      const sel = $opt<HTMLSelectElement>(`#${id}`);
+      // A value no longer offered (e.g. a club with no records left) is skipped.
+      if (sel && saved[id] && [...sel.options].some((o) => o.value === saved[id])) sel.value = saved[id];
+    }
+  } catch {
+    // Missing or corrupt entry: start with no filters.
+  }
+}
+
 // --- Events ---
 
 function wireEvents() {
   $<HTMLInputElement>("#search").addEventListener("input", debounce(render, 150));
 
-  for (const id of ["filter-course", "filter-gender", "filter-event", "filter-distance", "filter-year", "filter-age", "filter-team"]) {
-    $opt<HTMLSelectElement>(`#${id}`)?.addEventListener("change", render);
+  for (const id of FILTER_IDS) {
+    $opt<HTMLSelectElement>(`#${id}`)?.addEventListener("change", () => {
+      saveFilters();
+      render();
+    });
   }
+  $opt<HTMLInputElement>("#remember-filters")?.addEventListener("change", saveFilters);
 
   for (const th of document.querySelectorAll<HTMLElement>("th[data-sort]")) {
     th.addEventListener("click", () => {

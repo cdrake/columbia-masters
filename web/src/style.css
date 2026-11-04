@@ -988,9 +988,20 @@ body {
 }
 
 .status {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem;
   margin-bottom: 0.75rem;
   font-size: 0.85rem;
   color: var(--text-muted);
+}
+
+.remember-filters {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  cursor: pointer;
 }
 
 .table-wrap {
