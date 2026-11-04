@@ -467,6 +467,56 @@
       }
 
       loadWorkouts();
+
+      // Optional page text from the Sheet's Content tab (key, value columns), same as the
+      // home page's content keys. A blank or missing key keeps the text written above.
+      //   workouts_title    -> page heading (and the browser tab title)
+      //   workouts_subtitle -> line under the heading
+      //   workouts_intro    -> intro text; separate paragraphs with a blank line
+      var CONTENT_GID = 1535471218; // Content tab gid (tenants/sc/tenant.json -> sheet.gids.content)
+
+      function loadPageText() {
+        var url =
+          "https://docs.google.com/spreadsheets/d/e/" +
+          SHEET_PUBLISHED_ID +
+          "/pub?gid=" +
+          CONTENT_GID +
+          "&single=true&output=csv";
+        fetch(url)
+          .then(function (res) {
+            return res.ok ? res.text() : Promise.reject(res.status);
+          })
+          .then(function (csv) {
+            var text = {};
+            (Papa.parse(csv, { header: true, skipEmptyLines: true }).data || []).forEach(function (r) {
+              if (r.key && r.value && r.value.trim()) text[r.key.trim()] = r.value.trim();
+            });
+            if (text.workouts_title) {
+              document.querySelector("header h1").textContent = text.workouts_title;
+              document.title = text.workouts_title + " \u2014 South Carolina Masters Swimming";
+            }
+            if (text.workouts_subtitle) {
+              document.querySelector("header .sub").textContent = text.workouts_subtitle;
+            }
+            if (text.workouts_intro) {
+              var intro = document.querySelector(".intro");
+              var key = intro.querySelector(".key");
+              intro.querySelectorAll("p").forEach(function (p) {
+                p.remove();
+              });
+              text.workouts_intro.split(/\n\s*\n/).forEach(function (para) {
+                var p = document.createElement("p");
+                p.textContent = para.trim();
+                intro.insertBefore(p, key);
+              });
+            }
+          })
+          .catch(function () {
+            // Sheet unreachable: keep the text written above.
+          });
+      }
+
+      loadPageText();
     </script>
   </body>
 </html>
