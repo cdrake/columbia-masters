@@ -1,6 +1,6 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-PALM,50 M Freestyle,LCM,M,45-49,26.90,Joe Shake,,2003 USMS Long Course Nationals,2003,1
-PALM,100 M Freestyle,LCM,M,45-49,1:00.09,Joe Shake,,2003 USMS Long Course Nationals,2003,1
-PALM,200 M Freestyle,LCM,M,45-49,2:21.87,Joe Shake,,2003 USMS Long Course Nationals,2003,1
-PALM,50 M Breaststroke,LCM,M,45-49,36.78,Joe Shake,,2003 USMS Long Course Nationals,2003,1
-PALM,50 M Butterfly,LCM,M,45-49,29.99,Joe Shake,,2003 USMS Long Course Nationals,2003,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+PALM,50 M Freestyle,LCM,M,45-49,26.90,Joe Shake,,2003 USMS Long Course Nationals,2003,1,01GX7
+PALM,100 M Freestyle,LCM,M,45-49,1:00.09,Joe Shake,,2003 USMS Long Course Nationals,2003,1,01GX7
+PALM,200 M Freestyle,LCM,M,45-49,2:21.87,Joe Shake,,2003 USMS Long Course Nationals,2003,1,01GX7
+PALM,50 M Breaststroke,LCM,M,45-49,36.78,Joe Shake,,2003 USMS Long Course Nationals,2003,1,01GX7
+PALM,50 M Butterfly,LCM,M,45-49,29.99,Joe Shake,,2003 USMS Long Course Nationals,2003,1,01GX7

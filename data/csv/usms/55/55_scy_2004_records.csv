@@ -1,4 +1,4 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-HHAC,500 Y Freestyle,SCY,W,30-34,9:33.37,Sara H Somerall,,Sun Belt SCY Champs,2004,1
-HHAC,50 Y Backstroke,SCY,W,30-34,45.74,Sara H Somerall,,Sun Belt SCY Champs,2004,1
-HHAC,100 Y Breaststroke,SCY,W,30-34,1:59.80,Sara H Somerall,,Sun Belt SCY Champs,2004,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+HHAC,500 Y Freestyle,SCY,W,30-34,9:33.37,Sara H Somerall,,Sun Belt SCY Champs,2004,1,01H50
+HHAC,50 Y Backstroke,SCY,W,30-34,45.74,Sara H Somerall,,Sun Belt SCY Champs,2004,1,01H50
+HHAC,100 Y Breaststroke,SCY,W,30-34,1:59.80,Sara H Somerall,,Sun Belt SCY Champs,2004,1,01H50

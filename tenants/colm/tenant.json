@@ -1,6 +1,9 @@
 {
   "slug": "colm",
   "teamCode": "COLM",
+  "swimmerPages": true,
+  "swimmerOptOut": [],
+  "swimmerAliases": {},
   "lmscId": "55",
   "lmscName": "South Carolina",
   "name": "Columbia Masters Swim Team",

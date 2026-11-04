@@ -1,13 +1,13 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-COLM,1500 M Freestyle,LCM,M,50-54,22:57.44,Barry W Clark,,2004 USMS Long Course Nationals,2004,1
-COLM,400 M Individual Medley,LCM,M,50-54,7:03.54,Barry W Clark,,2004 USMS Long Course Nationals,2004,1
-HHAC,50 M Backstroke,LCM,W,65-69,56.29,Nana Whalen,,2004 USMS Long Course Nationals,2004,1
-HHAC,100 M Backstroke,LCM,W,65-69,2:10.05,Nana Whalen,,2004 USMS Long Course Nationals,2004,1
-HHAC,50 M Butterfly,LCM,W,65-69,1:02.36,Nana Whalen,,2004 USMS Long Course Nationals,2004,1
-HHAC,100 M Butterfly,LCM,W,65-69,2:26.66,Nana Whalen,,2004 USMS Long Course Nationals,2004,1
-HHAC,400 M Individual Medley,LCM,W,65-69,10:52.58,Nana Whalen,,2004 USMS Long Course Nationals,2004,1
-HHAC,50 M Freestyle,LCM,M,35-39,31.20,Russell Gernaat,,2004 USMS Long Course Nationals,2004,1
-HHAC,100 M Freestyle,LCM,M,35-39,1:09.25,Russell Gernaat,,2004 USMS Long Course Nationals,2004,1
-HHAC,50 M Breaststroke,LCM,M,35-39,46.01,Russell Gernaat,,2004 USMS Long Course Nationals,2004,1
-PIMM,50 M Freestyle,LCM,M,40-44,30.84,David Mandell,,2004 USMS Long Course Nationals,2004,1
-PIMM,100 M Freestyle,LCM,M,40-44,1:11.01,David Mandell,,2004 USMS Long Course Nationals,2004,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+COLM,1500 M Freestyle,LCM,M,50-54,22:57.44,Barry W Clark,,2004 USMS Long Course Nationals,2004,1,01GWX
+COLM,400 M Individual Medley,LCM,M,50-54,7:03.54,Barry W Clark,,2004 USMS Long Course Nationals,2004,1,01GWX
+HHAC,50 M Backstroke,LCM,W,65-69,56.29,Nana Whalen,,2004 USMS Long Course Nationals,2004,1,01GWU
+HHAC,100 M Backstroke,LCM,W,65-69,2:10.05,Nana Whalen,,2004 USMS Long Course Nationals,2004,1,01GWU
+HHAC,50 M Butterfly,LCM,W,65-69,1:02.36,Nana Whalen,,2004 USMS Long Course Nationals,2004,1,01GWU
+HHAC,100 M Butterfly,LCM,W,65-69,2:26.66,Nana Whalen,,2004 USMS Long Course Nationals,2004,1,01GWU
+HHAC,400 M Individual Medley,LCM,W,65-69,10:52.58,Nana Whalen,,2004 USMS Long Course Nationals,2004,1,01GWU
+HHAC,50 M Freestyle,LCM,M,35-39,31.20,Russell Gernaat,,2004 USMS Long Course Nationals,2004,1,03H7K
+HHAC,100 M Freestyle,LCM,M,35-39,1:09.25,Russell Gernaat,,2004 USMS Long Course Nationals,2004,1,03H7K
+HHAC,50 M Breaststroke,LCM,M,35-39,46.01,Russell Gernaat,,2004 USMS Long Course Nationals,2004,1,03H7K
+PIMM,50 M Freestyle,LCM,M,40-44,30.84,David Mandell,,2004 USMS Long Course Nationals,2004,1,01GXZ
+PIMM,100 M Freestyle,LCM,M,40-44,1:11.01,David Mandell,,2004 USMS Long Course Nationals,2004,1,01GXZ

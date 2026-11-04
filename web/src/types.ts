@@ -55,6 +55,8 @@ export interface TeamRecord {
   time: string;
   timeInSeconds: number;
   swimmer: string;
+  /** Permanent USMS member ID, when scraped. */
+  swimmerId?: string | null;
   date: string | null;
   meet: string;
   year: string | null;
