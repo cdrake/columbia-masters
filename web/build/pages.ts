@@ -228,7 +228,7 @@ export function pageForUrl(t: Tenant, url: string): RenderPage {
  * records section pointed at that club's own records file.
  */
 export function clubPages(t: Tenant): RenderPage[] {
-  return t.clubDirectory.map((k) => clubPage(t, k));
+  return t.clubDirectory.filter((k) => k.records).map((k) => clubPage(t, k));
 }
 
 function clubPage(t: Tenant, k: ClubEntry): RenderPage {

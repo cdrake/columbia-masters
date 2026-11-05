@@ -16,6 +16,8 @@
     },
     {
       "code": "AMSC",
+      "name": "Miller Masters Swim Club",
+      "active": true,
       "firstYear": 2019,
       "lastYear": 2022,
       "seasons": 2,
@@ -138,8 +140,8 @@
     {
       "code": "LOCO",
       "name": "Lowcountry Masters Swimming",
-      "city": "Beaufort",
-      "note": "Site coming soon",
+      "city": "Beaufort & Hilton Head",
+      "url": "https://www.lowcountryswimming.com/",
       "firstYear": 2014,
       "lastYear": 2026,
       "seasons": 13,
@@ -210,7 +212,6 @@
       "code": "SCHH",
       "name": "Sun City Hilton Head Masters",
       "city": "Bluffton",
-      "note": "Site coming soon",
       "firstYear": 2014,
       "lastYear": 2026,
       "seasons": 13,
@@ -226,14 +227,26 @@
     {
       "code": "SMRT",
       "name": "Southern Marlins Racing Team",
-      "note": "Site coming soon",
       "firstYear": 2008,
       "lastYear": 2026,
       "seasons": 14,
       "records": 246
     },
     {
+      "code": "SODA",
+      "name": "Soda City Masters",
+      "city": "Columbia",
+      "active": true,
+      "firstYear": 0,
+      "lastYear": 0,
+      "seasons": 0,
+      "records": 0
+    },
+    {
       "code": "SSCM",
+      "name": "ACAC Five Forks Masters Swim",
+      "city": "Simpsonville",
+      "active": true,
       "firstYear": 2016,
       "lastYear": 2018,
       "seasons": 3,
@@ -277,7 +290,6 @@
     {
       "code": "UP",
       "name": "USC Upstate Spartan Rec",
-      "note": "Site coming soon",
       "firstYear": 2024,
       "lastYear": 2025,
       "seasons": 2,

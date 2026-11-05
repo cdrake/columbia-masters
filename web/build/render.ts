@@ -71,16 +71,18 @@ export function clubDirectory(t: Tenant): string {
   const clubs = t.clubDirectory;
   if (!clubs.length) return "";
   const latest = Math.max(...clubs.map((k) => k.lastYear));
-  const active = clubs.filter((k) => k.lastYear >= latest - 1);
-  const former = clubs.filter((k) => k.lastYear < latest - 1).sort((a, b) => b.lastYear - a.lastYear);
+  const isActive = (k: ClubEntry) => k.active || k.lastYear >= latest - 1;
+  const active = clubs.filter(isActive);
+  const former = clubs.filter((k) => !isActive(k)).sort((a, b) => b.lastYear - a.lastYear);
   const card = (k: ClubEntry) => {
     const name = k.name && k.name !== k.code ? `${esc(k.name)} <span class="club-code">${esc(k.code)}</span>` : esc(k.code);
     const meta = [k.city, k.note].filter(Boolean).map((s) => esc(s!)).join(" · ");
-    const site = k.url ? `<a href="${esc(k.url)}" target="_blank" rel="noopener">Club website</a>` : "";
+    // Records stay at /clubs/<code>/ (linked from swimmer pages); the card only links the club's site.
+    const site = k.url ? `<a href="${esc(k.url)}" target="_blank" rel="noopener">Club website</a>` : "Site coming soon";
     return `<li class="club-card">
             <h3>${name}</h3>
             ${meta ? `<p class="club-meta">${meta}</p>` : ""}
-            <p class="club-links"><a href="${clubPath(k.code)}">Club records</a>${site ? ` · ${site}` : ""}</p>
+            <p class="club-links">${site}</p>
           </li>`;
   };
   const formerItem = (k: ClubEntry) =>
@@ -423,7 +425,7 @@ export function sitePages(t: Tenant): SiteManifest["pages"] {
 }
 
 export function sitemapXml(t: Tenant): string {
-  const clubPages = t.clubDirectory.map((k) => ({ path: clubPath(k.code) }));
+  const clubPages = t.clubDirectory.filter((k) => k.records).map((k) => ({ path: clubPath(k.code) }));
   const swimmerPages = t.swimmers.length
     ? ["/swimmers/", ...t.swimmers.map((s) => `/swimmers/${s.slug}/`)].map((path) => ({ path, priority: "0.5" }))
     : [];

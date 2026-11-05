@@ -82,24 +82,38 @@
     {
       "code": "LOCO",
       "name": "Lowcountry Masters Swimming",
-      "city": "Beaufort",
-      "note": "Site coming soon"
+      "city": "Beaufort & Hilton Head",
+      "url": "https://www.lowcountryswimming.com/"
     },
     {
       "code": "SCHH",
       "name": "Sun City Hilton Head Masters",
-      "city": "Bluffton",
-      "note": "Site coming soon"
+      "city": "Bluffton"
     },
     {
       "code": "SMRT",
-      "name": "Southern Marlins Racing Team",
-      "note": "Site coming soon"
+      "name": "Southern Marlins Racing Team"
     },
     {
       "code": "UP",
-      "name": "USC Upstate Spartan Rec",
-      "note": "Site coming soon"
+      "name": "USC Upstate Spartan Rec"
+    },
+    {
+      "code": "SODA",
+      "name": "Soda City Masters",
+      "city": "Columbia",
+      "active": true
+    },
+    {
+      "code": "AMSC",
+      "name": "Miller Masters Swim Club",
+      "active": true
+    },
+    {
+      "code": "SSCM",
+      "name": "ACAC Five Forks Masters Swim",
+      "city": "Simpsonville",
+      "active": true
     },
     {
       "code": "SCC",

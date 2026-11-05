@@ -388,6 +388,13 @@ def _publish_lmsc_clubs(tenant: Tenant) -> None:
                 "records": len(records),
             }
         )
+    # Clubs USMS lists as active but with no top times yet still get a directory card.
+    for code, entry in known.items():
+        if entry.get("active") and code not in by_club:
+            extra = {k: v for k, v in entry.items() if k != "code"}
+            empty = {"firstYear": 0, "lastYear": 0, "seasons": 0, "records": 0}
+            directory.append({"code": code, **extra, **empty})
+    directory.sort(key=lambda d: d["code"])
     for stale in clubs_dir.glob("*.json"):
         if stale.stem not in by_club:
             stale.unlink()

@@ -82,6 +82,8 @@ export interface ClubEntry {
   city?: string;
   url?: string;
   note?: string;
+  /** On the USMS active-club list: always a directory card, even without recent (or any) records. */
+  active?: boolean;
   firstYear: number;
   lastYear: number;
   seasons: number;
