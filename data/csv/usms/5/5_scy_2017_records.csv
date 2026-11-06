@@ -1,722 +1,722 @@
-team,event,course,gender,age_group,time,swimmer,date,meet,year,rank
-CCAT,100 Y Freestyle,SCY,M,50-54,1:03.94,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1
-CCAT,50 Y Breaststroke,SCY,M,50-54,36.57,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1
-CCAT,100 Y Breaststroke,SCY,M,50-54,1:22.05,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1
-CCAT,200 Y Breaststroke,SCY,M,50-54,3:10.52,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,18-24,26.47,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Freestyle,SCY,W,18-24,1:00.35,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,18-24,31.61,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Breaststroke,SCY,W,18-24,1:09.33,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Breaststroke,SCY,W,18-24,2:35.85,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,W,18-24,1:08.27,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,25-29,24.95,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Freestyle,SCY,W,25-29,37.68,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Freestyle,SCY,W,25-29,58.45,Anna C Gryglewska,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Freestyle,SCY,W,25-29,1:29.12,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Freestyle,SCY,W,25-29,2:01.22,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Freestyle,SCY,W,25-29,2:11.71,Jessica Davis,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Freestyle,SCY,W,25-29,2:39.90,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,200 Y Freestyle,SCY,W,25-29,2:46.23,Maura Keating,,Connecticut Masters' Games Swim Meet,2017,4
-CONN,200 Y Freestyle,SCY,W,25-29,3:30.46,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,5
-CONN,500 Y Freestyle,SCY,W,25-29,5:59.60,Jessica Davis,,2017 NE LMSC SCY Championships,2017,1
-CONN,500 Y Freestyle,SCY,W,25-29,7:21.28,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2
-CONN,500 Y Freestyle,SCY,W,25-29,9:35.27,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Backstroke,SCY,W,25-29,29.04,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Backstroke,SCY,W,25-29,38.77,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,100 Y Backstroke,SCY,W,25-29,1:07.04,Anna C Gryglewska,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Backstroke,SCY,W,25-29,1:24.92,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Backstroke,SCY,W,25-29,2:17.28,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Backstroke,SCY,W,25-29,2:59.71,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2
-CONN,50 Y Breaststroke,SCY,W,25-29,34.76,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,25-29,50.17,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Breaststroke,SCY,W,25-29,1:14.94,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,100 Y Breaststroke,SCY,W,25-29,1:49.62,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Breaststroke,SCY,W,25-29,4:05.95,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Butterfly,SCY,W,25-29,38.92,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Butterfly,SCY,W,25-29,44.82,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Individual Medley,SCY,W,25-29,1:09.18,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,W,25-29,1:19.26,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Individual Medley,SCY,W,25-29,1:26.87,Maura Keating,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,200 Y Individual Medley,SCY,W,25-29,2:34.68,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,200 Y Individual Medley,SCY,W,25-29,2:57.95,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,200 Y Individual Medley,SCY,W,25-29,3:14.80,Maura Keating,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,50 Y Freestyle,SCY,W,30-34,27.96,Christina A DiGiacomo,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,30-34,29.17,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,2
-CONN,50 Y Freestyle,SCY,W,30-34,29.85,Michelle Zelek,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Freestyle,SCY,W,30-34,30.92,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,4
-CONN,50 Y Freestyle,SCY,W,30-34,31.68,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,5
-CONN,50 Y Freestyle,SCY,W,30-34,32.73,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,6
-CONN,50 Y Freestyle,SCY,W,30-34,35.98,Veronica M Suleski,,Nutmeg State Games Masters' Swim Meet,2017,7
-CONN,50 Y Freestyle,SCY,W,30-34,36.29,Madeline Bey,,2017 NE LMSC SCY Championships,2017,8
-CONN,50 Y Freestyle,SCY,W,30-34,1:02.00,Sarah K Perkins,,Connecticut Masters' Games Swim Meet,2017,9
-CONN,100 Y Freestyle,SCY,W,30-34,1:02.22,Christina A DiGiacomo,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Freestyle,SCY,W,30-34,1:04.18,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Freestyle,SCY,W,30-34,1:06.29,Michelle Zelek,,2017 NE LMSC SCY Championships,2017,3
-CONN,100 Y Freestyle,SCY,W,30-34,1:16.53,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,4
-CONN,100 Y Freestyle,SCY,W,30-34,1:16.93,Kate Powers,,Greater Holyoke YMCA Winter Warm Up,2017,5
-CONN,100 Y Freestyle,SCY,W,30-34,1:17.26,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,6
-CONN,200 Y Freestyle,SCY,W,30-34,2:22.78,Christina A DiGiacomo,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Freestyle,SCY,W,30-34,2:40.41,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Freestyle,SCY,W,30-34,2:47.43,Madeline Bey,,2017 NE LMSC SCY Championships,2017,3
-CONN,500 Y Freestyle,SCY,W,30-34,5:50.82,Heather M Bernstein,,2017 NE LMSC SCY Championships,2017,1
-CONN,500 Y Freestyle,SCY,W,30-34,7:26.71,Madeline Bey,,2017 NE LMSC SCY Championships,2017,2
-CONN,500 Y Freestyle,SCY,W,30-34,7:35.57,Kate Powers,,Greater Holyoke YMCA Winter Warm Up,2017,3
-CONN,500 Y Freestyle,SCY,W,30-34,7:39.02,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,4
-CONN,500 Y Freestyle,SCY,W,30-34,7:49.88,Kaitlyn M Guardino,,2017 NE LMSC SCY Championships,2017,5
-CONN,1650 Y Freestyle,SCY,W,30-34,26:24.06,Kate Powers,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Backstroke,SCY,W,30-34,34.72,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Backstroke,SCY,W,30-34,35.81,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Backstroke,SCY,W,30-34,39.79,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,50 Y Backstroke,SCY,W,30-34,42.60,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,4
-CONN,50 Y Backstroke,SCY,W,30-34,1:31.31,Sarah K Perkins,,32nd Annual Groundhog Meet,2017,5
-CONN,100 Y Backstroke,SCY,W,30-34,1:29.47,Kaitlyn M Guardino,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Backstroke,SCY,W,30-34,3:05.73,Sarah K Perkins,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Backstroke,SCY,W,30-34,6:58.07,Sarah K Perkins,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,30-34,33.55,Lauren Finnegan,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,30-34,35.16,Michelle Zelek,,2017 NE LMSC SCY Championships,2017,2
-CONN,50 Y Breaststroke,SCY,W,30-34,41.45,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,3
-CONN,50 Y Breaststroke,SCY,W,30-34,45.68,Madeline Bey,,Connecticut Masters' Games Swim Meet,2017,4
-CONN,100 Y Breaststroke,SCY,W,30-34,1:13.99,Lauren Finnegan,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Breaststroke,SCY,W,30-34,1:16.93,Michelle Zelek,,2017 Adirondack District Masters Championships,2017,2
-CONN,100 Y Breaststroke,SCY,W,30-34,1:35.60,Kate Powers,,Greater Holyoke YMCA Winter Warm Up,2017,3
-CONN,100 Y Breaststroke,SCY,W,30-34,1:40.38,Madeline Bey,,2017 NE LMSC SCY Championships,2017,4
-CONN,100 Y Breaststroke,SCY,W,30-34,3:14.05,Sarah K Perkins,,32nd Annual Groundhog Meet,2017,5
-CONN,200 Y Breaststroke,SCY,W,30-34,2:47.90,Michelle Zelek,,2017 Adirondack District Masters Championships,2017,1
-CONN,50 Y Butterfly,SCY,W,30-34,29.37,Lauren Finnegan,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Butterfly,SCY,W,30-34,32.56,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Butterfly,SCY,W,30-34,37.71,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Butterfly,SCY,W,30-34,41.01,Madeline Bey,,2017 NE LMSC SCY Championships,2017,4
-CONN,50 Y Butterfly,SCY,W,30-34,45.49,Veronica M Suleski,,Nutmeg State Games Masters' Swim Meet,2017,5
-CONN,100 Y Butterfly,SCY,W,30-34,1:07.94,Heather M Bernstein,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Individual Medley,SCY,W,30-34,1:13.17,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Individual Medley,SCY,W,30-34,1:13.95,Heather M Bernstein,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Individual Medley,SCY,W,30-34,1:14.12,Michelle Zelek,,2017 Adirondack District Masters Championships,2017,3
-CONN,100 Y Individual Medley,SCY,W,30-34,1:17.35,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,4
-CONN,100 Y Individual Medley,SCY,W,30-34,1:26.33,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,5
-CONN,100 Y Individual Medley,SCY,W,30-34,1:28.92,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,6
-CONN,100 Y Individual Medley,SCY,W,30-34,1:31.94,Madeline Bey,,2017 NE LMSC SCY Championships,2017,7
-CONN,100 Y Individual Medley,SCY,W,30-34,1:34.58,Veronica M Suleski,,Nutmeg State Games Masters' Swim Meet,2017,8
-CONN,100 Y Individual Medley,SCY,W,30-34,2:50.26,Sarah K Perkins,,Connecticut Masters' Games Swim Meet,2017,9
-CONN,200 Y Individual Medley,SCY,W,30-34,2:41.82,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Individual Medley,SCY,W,30-34,2:43.11,Michelle Zelek,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,200 Y Individual Medley,SCY,W,30-34,3:10.88,Madeline Bey,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Freestyle,SCY,W,35-39,29.91,Lindsay S Breekland,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,35-39,35.80,Veronica M Suleski,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,50 Y Freestyle,SCY,W,35-39,40.78,Serafina Sumargo,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Freestyle,SCY,W,35-39,1:05.75,Lindsay S Breekland,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Freestyle,SCY,W,35-39,1:19.42,Serafina Sumargo,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Freestyle,SCY,W,35-39,2:38.37,Marta A Taddeo,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,W,35-39,2:51.37,Veronica M Suleski,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,200 Y Freestyle,SCY,W,35-39,2:54.36,Serafina Sumargo,,32nd Annual Groundhog Meet,2017,3
-CONN,200 Y Freestyle,SCY,W,35-39,3:12.78,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,4
-CONN,500 Y Freestyle,SCY,W,35-39,6:40.65,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,500 Y Freestyle,SCY,W,35-39,7:35.78,Veronica M Suleski,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,1650 Y Freestyle,SCY,W,35-39,23:23.66,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Backstroke,SCY,W,35-39,50.00,Robyn DeMarco,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Backstroke,SCY,W,35-39,1:24.25,Marta A Taddeo,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Backstroke,SCY,W,35-39,3:02.69,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Backstroke,SCY,W,35-39,3:52.98,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Breaststroke,SCY,W,35-39,34.98,Cyndia Sanchez,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,35-39,38.54,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,2
-CONN,50 Y Breaststroke,SCY,W,35-39,48.05,Robyn DeMarco,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,100 Y Breaststroke,SCY,W,35-39,1:15.61,Cyndia Sanchez,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Breaststroke,SCY,W,35-39,1:25.58,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,2
-CONN,100 Y Breaststroke,SCY,W,35-39,1:44.05,Robyn DeMarco,,32nd Annual Groundhog Meet,2017,3
-CONN,200 Y Breaststroke,SCY,W,35-39,3:04.36,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Breaststroke,SCY,W,35-39,3:34.87,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Butterfly,SCY,W,35-39,34.42,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Butterfly,SCY,W,35-39,1:26.60,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Butterfly,SCY,W,35-39,1:39.45,Robyn DeMarco,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Butterfly,SCY,W,35-39,3:12.42,Marta A Taddeo,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,200 Y Butterfly,SCY,W,35-39,3:39.34,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,100 Y Individual Medley,SCY,W,35-39,1:17.28,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Individual Medley,SCY,W,35-39,1:22.33,Lindsay S Breekland,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Individual Medley,SCY,W,35-39,1:32.37,Robyn DeMarco,,2017 NE LMSC SCY Championships,2017,3
-CONN,200 Y Individual Medley,SCY,W,35-39,2:49.64,Marta A Taddeo,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Individual Medley,SCY,W,35-39,3:28.23,Robyn DeMarco,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,400 Y Individual Medley,SCY,W,35-39,6:02.27,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1
-CONN,400 Y Individual Medley,SCY,W,35-39,7:19.50,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Freestyle,SCY,W,40-44,26.92,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,40-44,28.16,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,50 Y Freestyle,SCY,W,40-44,32.76,Christine A Matarese,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,50 Y Freestyle,SCY,W,40-44,42.38,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,4
-CONN,100 Y Freestyle,SCY,W,40-44,58.30,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Freestyle,SCY,W,40-44,1:17.56,Ally Sega,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Freestyle,SCY,W,40-44,1:39.52,Laura A Campbell,,32nd Annual Groundhog Meet,2017,3
-CONN,200 Y Freestyle,SCY,W,40-44,2:09.87,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,W,40-44,2:42.44,Christine A Matarese,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,200 Y Freestyle,SCY,W,40-44,2:48.86,Ally Sega,,2017 NE LMSC SCY Championships,2017,3
-CONN,200 Y Freestyle,SCY,W,40-44,3:28.77,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,4
-CONN,500 Y Freestyle,SCY,W,40-44,7:30.24,Ally Sega,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,500 Y Freestyle,SCY,W,40-44,9:40.70,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,2
-CONN,1000 Y Freestyle,SCY,W,40-44,15:17.96,Ally Sega,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,1650 Y Freestyle,SCY,W,40-44,27:32.24,Ally Sega,,2017 Adirondack District Masters Championships,2017,1
-CONN,1650 Y Freestyle,SCY,W,40-44,32:23.18,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,2
-CONN,50 Y Backstroke,SCY,W,40-44,30.94,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,50 Y Backstroke,SCY,W,40-44,51.63,Laura A Campbell,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Backstroke,SCY,W,40-44,1:08.97,Brenda J Glidden,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Backstroke,SCY,W,40-44,2:19.26,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,200 Y Backstroke,SCY,W,40-44,3:18.07,Christine A Matarese,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,200 Y Backstroke,SCY,W,40-44,3:26.00,Ally Sega,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Breaststroke,SCY,W,40-44,37.08,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Breaststroke,SCY,W,40-44,1:22.30,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Breaststroke,SCY,W,40-44,1:47.17,Ally Sega,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Breaststroke,SCY,W,40-44,2:58.73,Christine A Matarese,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,200 Y Breaststroke,SCY,W,40-44,3:36.27,Ally Sega,,2017 NE LMSC SCY Championships,2017,2
-CONN,50 Y Butterfly,SCY,W,40-44,37.76,Christine A Matarese,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Butterfly,SCY,W,40-44,42.04,Ally Sega,,2017 Adirondack District Masters Championships,2017,2
-CONN,50 Y Butterfly,SCY,W,40-44,52.93,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,3
-CONN,100 Y Butterfly,SCY,W,40-44,1:27.51,Ally Sega,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Butterfly,SCY,W,40-44,2:00.40,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Butterfly,SCY,W,40-44,3:11.99,Ally Sega,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Individual Medley,SCY,W,40-44,1:07.06,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,100 Y Individual Medley,SCY,W,40-44,1:08.34,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,100 Y Individual Medley,SCY,W,40-44,1:17.23,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,3
-CONN,100 Y Individual Medley,SCY,W,40-44,1:32.83,Ally Sega,,32nd Annual Groundhog Meet,2017,4
-CONN,200 Y Individual Medley,SCY,W,40-44,2:24.62,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,200 Y Individual Medley,SCY,W,40-44,2:53.01,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Individual Medley,SCY,W,40-44,3:13.58,Ally Sega,,2017 NE LMSC SCY Championships,2017,3
-CONN,400 Y Individual Medley,SCY,W,40-44,6:52.79,Ally Sega,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Freestyle,SCY,W,45-49,1:00.27,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,100 Y Freestyle,SCY,W,45-49,1:01.01,Jennifer Fredricks,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Freestyle,SCY,W,45-49,1:05.68,Christie M Anbar,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Freestyle,SCY,W,45-49,1:08.35,Renee Cortland,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,4
-CONN,200 Y Freestyle,SCY,W,45-49,2:10.00,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,200 Y Freestyle,SCY,W,45-49,2:12.13,Jennifer Fredricks,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Freestyle,SCY,W,45-49,2:24.01,Christie M Anbar,,32nd Annual Groundhog Meet,2017,3
-CONN,500 Y Freestyle,SCY,W,45-49,5:52.85,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,1000 Y Freestyle,SCY,W,45-49,12:08.89,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,1650 Y Freestyle,SCY,W,45-49,20:13.08,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,50 Y Backstroke,SCY,W,45-49,32.83,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,50 Y Backstroke,SCY,W,45-49,35.11,Christie M Anbar,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Backstroke,SCY,W,45-49,1:15.38,Ashley C Olson,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Backstroke,SCY,W,45-49,1:15.90,Christie M Anbar,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Backstroke,SCY,W,45-49,2:35.55,Ashley C Olson,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Breaststroke,SCY,W,45-49,1:22.66,Renee Cortland,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,200 Y Breaststroke,SCY,W,45-49,2:59.00,Renee Cortland,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Individual Medley,SCY,W,45-49,1:20.55,Renee Cortland,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,200 Y Individual Medley,SCY,W,45-49,2:56.63,Renee Cortland,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,50-54,28.36,Tracy Phillips,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Freestyle,SCY,W,50-54,28.57,Denise Callahan,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Freestyle,SCY,W,50-54,36.08,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,3
-CONN,100 Y Freestyle,SCY,W,50-54,1:12.68,Cheryl S Edison,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,W,50-54,2:28.32,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,W,50-54,2:38.02,Cheryl S Edison,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,500 Y Freestyle,SCY,W,50-54,7:41.17,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Backstroke,SCY,W,50-54,51.45,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,100 Y Backstroke,SCY,W,50-54,1:29.52,Cheryl S Edison,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Backstroke,SCY,W,50-54,2:44.66,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,50-54,45.50,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,50-54,50.24,Lisa L Brailey,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Breaststroke,SCY,W,50-54,1:43.41,Carolyn Daniels,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Breaststroke,SCY,W,50-54,1:48.84,Lisa L Brailey,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Breaststroke,SCY,W,50-54,3:40.30,Carolyn Daniels,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Breaststroke,SCY,W,50-54,3:58.05,Lisa L Brailey,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Butterfly,SCY,W,50-54,32.28,Tracy Phillips,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Butterfly,SCY,W,50-54,49.40,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,100 Y Butterfly,SCY,W,50-54,1:13.33,Denise Callahan,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Butterfly,SCY,W,50-54,1:16.64,Tracy Phillips,,2017 YMCA Masters Nationals,2017,2
-CONN,100 Y Butterfly,SCY,W,50-54,1:20.51,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,100 Y Butterfly,SCY,W,50-54,1:29.84,Cheryl S Edison,,32nd Annual Groundhog Meet,2017,4
-CONN,100 Y Butterfly,SCY,W,50-54,1:31.44,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,5
-CONN,200 Y Butterfly,SCY,W,50-54,3:15.86,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,W,50-54,1:17.39,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,W,50-54,1:25.45,Cheryl S Edison,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Individual Medley,SCY,W,50-54,1:43.27,Carolyn Daniels,,2017 NE LMSC SCY Championships,2017,3
-CONN,200 Y Individual Medley,SCY,W,50-54,3:04.12,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Individual Medley,SCY,W,50-54,3:43.80,Carolyn Daniels,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Freestyle,SCY,W,55-59,28.03,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,50 Y Freestyle,SCY,W,55-59,28.19,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,2
-CONN,50 Y Freestyle,SCY,W,55-59,40.24,Maryanne M Boyen,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Freestyle,SCY,W,55-59,1:00.30,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,100 Y Freestyle,SCY,W,55-59,1:11.25,Colleen M Brandon,,2017 YMCA Masters Nationals,2017,2
-CONN,200 Y Freestyle,SCY,W,55-59,2:12.73,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Freestyle,SCY,W,55-59,2:14.24,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,500 Y Freestyle,SCY,W,55-59,9:01.63,Maryanne M Boyen,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Backstroke,SCY,W,55-59,31.44,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Backstroke,SCY,W,55-59,39.85,Ellen Lang,,2017 YMCA Masters Nationals,2017,2
-CONN,100 Y Backstroke,SCY,W,55-59,1:07.75,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Backstroke,SCY,W,55-59,1:27.78,Ellen Lang,,2017 YMCA Masters Nationals,2017,2
-CONN,200 Y Backstroke,SCY,W,55-59,2:27.63,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Breaststroke,SCY,W,55-59,43.01,Ellen Lang,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Breaststroke,SCY,W,55-59,1:35.22,Ellen Lang,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Butterfly,SCY,W,55-59,31.19,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Butterfly,SCY,W,55-59,36.73,Colleen M Brandon,,2017 YMCA Masters Nationals,2017,2
-CONN,100 Y Individual Medley,SCY,W,55-59,1:11.87,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Individual Medley,SCY,W,55-59,1:11.93,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,100 Y Individual Medley,SCY,W,55-59,1:20.47,Colleen M Brandon,,2017 YMCA Masters Nationals,2017,3
-CONN,100 Y Individual Medley,SCY,W,55-59,1:24.59,Ellen Lang,,2017 YMCA Masters Nationals,2017,4
-CONN,50 Y Freestyle,SCY,W,60-64,55.95,Elaine B Guardino,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,W,60-64,1:14.84,Elaine B Guardino,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,W,70-74,53.50,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Freestyle,SCY,W,70-74,2:07.74,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,W,70-74,4:13.53,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Backstroke,SCY,W,70-74,2:41.58,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Backstroke,SCY,W,70-74,5:32.68,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,W,70-74,2:28.26,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,18-24,23.48,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,18-24,26.11,William H Gerard,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,18-24,52.45,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Freestyle,SCY,M,18-24,56.99,William H Gerard,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Freestyle,SCY,M,18-24,2:02.12,William H Gerard,,2017 NE LMSC SCY Championships,2017,1
-CONN,500 Y Freestyle,SCY,M,18-24,5:28.76,William H Gerard,,2017 NE LMSC SCY Championships,2017,1
-CONN,1000 Y Freestyle,SCY,M,18-24,11:27.80,William H Gerard,,2017 Adirondack District Masters Championships,2017,1
-CONN,1650 Y Freestyle,SCY,M,18-24,19:08.36,William H Gerard,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Backstroke,SCY,M,18-24,29.42,William H Gerard,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Backstroke,SCY,M,18-24,1:07.08,William H Gerard,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,18-24,31.00,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Butterfly,SCY,M,18-24,28.09,William H Gerard,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Individual Medley,SCY,M,18-24,1:01.73,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,25-29,24.14,Andrew Vogel,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Freestyle,SCY,M,25-29,53.53,Andrew Vogel,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Freestyle,SCY,M,25-29,2:03.32,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,500 Y Freestyle,SCY,M,25-29,5:31.35,Andrew Vogel,,2017 NE LMSC SCY Championships,2017,1
-CONN,500 Y Freestyle,SCY,M,25-29,5:32.17,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,200 Y Backstroke,SCY,M,25-29,2:21.38,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Butterfly,SCY,M,25-29,28.30,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Individual Medley,SCY,M,25-29,2:20.11,Andrew Vogel,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Freestyle,SCY,M,30-34,25.90,Gregory R Matzkevich,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Freestyle,SCY,M,30-34,52.11,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Freestyle,SCY,M,30-34,58.25,Gregory R Matzkevich,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Freestyle,SCY,M,30-34,1:00.55,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,3
-CONN,200 Y Freestyle,SCY,M,30-34,2:09.15,Robert E Duguay,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,500 Y Freestyle,SCY,M,30-34,5:42.29,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,1000 Y Freestyle,SCY,M,30-34,12:04.57,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,1650 Y Freestyle,SCY,M,30-34,20:01.96,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Backstroke,SCY,M,30-34,40.06,Robert E Duguay,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,200 Y Backstroke,SCY,M,30-34,2:46.38,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Breaststroke,SCY,M,30-34,32.40,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Breaststroke,SCY,M,30-34,34.17,Gregory R Matzkevich,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,50 Y Breaststroke,SCY,M,30-34,39.64,Robert E Duguay,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Breaststroke,SCY,M,30-34,1:21.01,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Breaststroke,SCY,M,30-34,2:55.52,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Butterfly,SCY,M,30-34,25.61,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Butterfly,SCY,M,30-34,27.76,Gregory R Matzkevich,,2017 NE LMSC SCY Championships,2017,2
-CONN,50 Y Butterfly,SCY,M,30-34,27.76,Ray Savner,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Butterfly,SCY,M,30-34,34.02,Robert E Duguay,,Connecticut Masters' Games Swim Meet,2017,4
-CONN,100 Y Individual Medley,SCY,M,30-34,1:01.01,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Individual Medley,SCY,M,30-34,1:14.00,Gregory R Matzkevich,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,100 Y Individual Medley,SCY,M,30-34,1:14.47,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,3
-CONN,200 Y Individual Medley,SCY,M,30-34,2:34.75,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,400 Y Individual Medley,SCY,M,30-34,5:31.61,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Freestyle,SCY,M,35-39,25.00,James T Auxier,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Freestyle,SCY,M,35-39,25.03,Patrick Bates,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Freestyle,SCY,M,35-39,25.90,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Freestyle,SCY,M,35-39,51.64,Jeremy C Virgil,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Freestyle,SCY,M,35-39,54.53,Patrick Bates,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Freestyle,SCY,M,35-39,1:50.69,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1
-CONN,200 Y Freestyle,SCY,M,35-39,1:58.28,James T Auxier,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Freestyle,SCY,M,35-39,2:05.58,Patrick Bates,,32nd Annual Groundhog Meet,2017,3
-CONN,500 Y Freestyle,SCY,M,35-39,5:00.77,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1
-CONN,500 Y Freestyle,SCY,M,35-39,6:24.70,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,2
-CONN,1000 Y Freestyle,SCY,M,35-39,10:20.69,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1
-CONN,1650 Y Freestyle,SCY,M,35-39,17:22.19,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1
-CONN,100 Y Backstroke,SCY,M,35-39,1:04.80,Patrick Bates,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Backstroke,SCY,M,35-39,2:06.44,James T Auxier,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Backstroke,SCY,M,35-39,2:34.78,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,35-39,29.73,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Butterfly,SCY,M,35-39,56.08,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1
-CONN,200 Y Butterfly,SCY,M,35-39,2:03.48,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1
-CONN,100 Y Individual Medley,SCY,M,35-39,1:07.43,Patrick Bates,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Individual Medley,SCY,M,35-39,2:39.52,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,40-44,25.66,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,40-44,29.56,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,40-44,52.93,Alexander E Lunding,,2017 Pacific Masters Short Course Yards Championships,2017,1
-CONN,100 Y Freestyle,SCY,M,40-44,59.13,Erik Higgens,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,40-44,1:08.40,Matthew C Parkhouse,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,200 Y Freestyle,SCY,M,40-44,1:58.29,Alexander E Lunding,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Freestyle,SCY,M,40-44,2:25.42,Erik Higgens,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,50 Y Backstroke,SCY,M,40-44,31.67,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Backstroke,SCY,M,40-44,40.28,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,100 Y Backstroke,SCY,M,40-44,1:30.55,Matthew C Parkhouse,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Backstroke,SCY,M,40-44,2:40.13,Erik Higgens,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,40-44,36.16,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,40-44,38.51,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,40-44,27.52,Alexander E Lunding,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Butterfly,SCY,M,40-44,29.31,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,40-44,34.62,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,3
-CONN,100 Y Butterfly,SCY,M,40-44,1:16.66,Erik Higgens,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Individual Medley,SCY,M,40-44,1:02.57,Alexander E Lunding,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,M,40-44,1:12.40,Erik Higgens,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,100 Y Individual Medley,SCY,M,40-44,1:21.76,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,3
-CONN,50 Y Freestyle,SCY,M,45-49,27.66,Chuck Sala,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,45-49,28.00,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,45-49,1:07.11,Peter D Sheldrick,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Freestyle,SCY,M,45-49,1:52.69,Stephen G Akers,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,M,45-49,2:13.54,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,2
-CONN,500 Y Freestyle,SCY,M,45-49,5:05.02,Stephen G Akers,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Backstroke,SCY,M,45-49,1:27.55,Peter D Sheldrick,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,45-49,35.41,Chuck Sala,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Breaststroke,SCY,M,45-49,1:16.48,Chuck Sala,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Breaststroke,SCY,M,45-49,1:17.29,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Breaststroke,SCY,M,45-49,2:53.81,Chuck Sala,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Butterfly,SCY,M,45-49,1:00.77,Stephen G Akers,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Individual Medley,SCY,M,45-49,1:11.06,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,1
-CONN,400 Y Individual Medley,SCY,M,45-49,5:38.39,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,50-54,23.06,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Freestyle,SCY,M,50-54,24.06,Andy Reul,,2017 YMCA Masters Nationals,2017,2
-CONN,50 Y Freestyle,SCY,M,50-54,24.39,David Louden,,32nd Annual Groundhog Meet,2017,3
-CONN,50 Y Freestyle,SCY,M,50-54,25.45,Gregory O Sargent,,32nd Annual Groundhog Meet,2017,4
-CONN,50 Y Freestyle,SCY,M,50-54,27.40,Thomas O Merritt,,32nd Annual Groundhog Meet,2017,5
-CONN,50 Y Freestyle,SCY,M,50-54,28.13,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,6
-CONN,50 Y Freestyle,SCY,M,50-54,28.96,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,7
-CONN,50 Y Freestyle,SCY,M,50-54,34.73,Jerold Kochman,,32nd Annual Groundhog Meet,2017,8
-CONN,100 Y Freestyle,SCY,M,50-54,52.45,Andy Reul,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Freestyle,SCY,M,50-54,1:00.41,Thomas O Merritt,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,50-54,1:02.09,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,3
-CONN,100 Y Freestyle,SCY,M,50-54,1:22.38,Jerold Kochman,,32nd Annual Groundhog Meet,2017,4
-CONN,200 Y Freestyle,SCY,M,50-54,1:52.25,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Freestyle,SCY,M,50-54,1:54.27,Andy Reul,,2017 YMCA Masters Nationals,2017,2
-CONN,200 Y Freestyle,SCY,M,50-54,1:56.03,David Louden,,32nd Annual Groundhog Meet,2017,3
-CONN,200 Y Freestyle,SCY,M,50-54,2:09.40,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,4
-CONN,200 Y Freestyle,SCY,M,50-54,2:28.29,Michael C Wertheimer,,Connecticut Masters' Games Swim Meet,2017,5
-CONN,500 Y Freestyle,SCY,M,50-54,5:11.34,Andy Reul,,2017 YMCA Masters Nationals,2017,1
-CONN,500 Y Freestyle,SCY,M,50-54,5:56.29,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,1000 Y Freestyle,SCY,M,50-54,10:45.09,Andy Reul,,2017 YMCA Masters Nationals,2017,1
-CONN,1650 Y Freestyle,SCY,M,50-54,19:34.59,Andy Reul,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Backstroke,SCY,M,50-54,28.12,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Backstroke,SCY,M,50-54,43.71,Jerold Kochman,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Backstroke,SCY,M,50-54,1:01.54,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Backstroke,SCY,M,50-54,1:13.98,Benjamin W Wyckoff,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Backstroke,SCY,M,50-54,2:18.52,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Backstroke,SCY,M,50-54,2:53.90,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Breaststroke,SCY,M,50-54,30.62,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Breaststroke,SCY,M,50-54,31.51,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,50 Y Breaststroke,SCY,M,50-54,36.58,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Breaststroke,SCY,M,50-54,39.21,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,4
-CONN,100 Y Breaststroke,SCY,M,50-54,1:03.51,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Breaststroke,SCY,M,50-54,1:09.17,Jeff Sargent,,2017 YMCA Masters Nationals,2017,2
-CONN,100 Y Breaststroke,SCY,M,50-54,1:09.29,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,3
-CONN,100 Y Breaststroke,SCY,M,50-54,1:18.22,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,4
-CONN,200 Y Breaststroke,SCY,M,50-54,2:20.07,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Breaststroke,SCY,M,50-54,2:38.08,Benjamin W Wyckoff,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,50-54,26.23,Gregory O Sargent,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Butterfly,SCY,M,50-54,26.68,Matthew H Gordon,,32nd Annual Groundhog Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,50-54,26.97,Jeff Sargent,,2017 YMCA Masters Nationals,2017,3
-CONN,50 Y Butterfly,SCY,M,50-54,27.28,Benjamin W Wyckoff,,Connecticut Masters' Games Swim Meet,2017,4
-CONN,50 Y Butterfly,SCY,M,50-54,31.11,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,5
-CONN,50 Y Butterfly,SCY,M,50-54,32.15,Thomas O Merritt,,32nd Annual Groundhog Meet,2017,6
-CONN,100 Y Butterfly,SCY,M,50-54,1:00.25,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,100 Y Butterfly,SCY,M,50-54,1:01.10,Gregory O Sargent,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Individual Medley,SCY,M,50-54,57.66,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Individual Medley,SCY,M,50-54,1:01.78,Jeff Sargent,,2017 YMCA Masters Nationals,2017,2
-CONN,100 Y Individual Medley,SCY,M,50-54,1:02.75,David Louden,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Individual Medley,SCY,M,50-54,1:04.67,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,4
-CONN,100 Y Individual Medley,SCY,M,50-54,1:13.30,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,5
-CONN,200 Y Individual Medley,SCY,M,50-54,2:07.75,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Individual Medley,SCY,M,50-54,2:24.75,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,400 Y Individual Medley,SCY,M,50-54,4:38.29,Gregory O Sargent,,2017 YMCA Masters Nationals,2017,1
-CONN,400 Y Individual Medley,SCY,M,50-54,5:18.91,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Freestyle,SCY,M,55-59,25.18,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Freestyle,SCY,M,55-59,25.34,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,50 Y Freestyle,SCY,M,55-59,25.50,George Hebner,,2017 YMCA Masters Nationals,2017,3
-CONN,50 Y Freestyle,SCY,M,55-59,27.47,Charles Shapiro,,2017 NE LMSC SCY Championships,2017,4
-CONN,50 Y Freestyle,SCY,M,55-59,28.06,Chris Thompson,,32nd Annual Groundhog Meet,2017,5
-CONN,50 Y Freestyle,SCY,M,55-59,29.11,Peter Canning,,2017 NE LMSC SCY Championships,2017,6
-CONN,50 Y Freestyle,SCY,M,55-59,29.34,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,7
-CONN,100 Y Freestyle,SCY,M,55-59,55.83,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Freestyle,SCY,M,55-59,56.64,George Hebner,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,55-59,56.82,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,3
-CONN,100 Y Freestyle,SCY,M,55-59,1:01.78,Chris Thompson,,32nd Annual Groundhog Meet,2017,4
-CONN,100 Y Freestyle,SCY,M,55-59,1:10.84,Peter Canning,,Nutmeg State Games Masters' Swim Meet,2017,5
-CONN,200 Y Freestyle,SCY,M,55-59,2:05.95,George Hebner,,2017 YMCA Masters Nationals,2017,1
-CONN,500 Y Freestyle,SCY,M,55-59,5:42.58,Jeffrey S Stuart,,Boston LANES Tea Party Swim Meet (TP7),2017,1
-CONN,50 Y Backstroke,SCY,M,55-59,28.99,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Backstroke,SCY,M,55-59,37.92,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,2
-CONN,50 Y Backstroke,SCY,M,55-59,40.08,Peter Canning,,2017 NE LMSC SCY Championships,2017,3
-CONN,100 Y Backstroke,SCY,M,55-59,1:02.32,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Backstroke,SCY,M,55-59,1:07.09,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Backstroke,SCY,M,55-59,1:41.35,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,3
-CONN,200 Y Backstroke,SCY,M,55-59,2:16.88,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Backstroke,SCY,M,55-59,2:31.25,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,2
-CONN,200 Y Backstroke,SCY,M,55-59,3:49.71,Peter Canning,,Connecticut Masters' Games Swim Meet,2017,3
-CONN,50 Y Breaststroke,SCY,M,55-59,34.99,Robert J Lamontagne,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Breaststroke,SCY,M,55-59,37.30,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,2
-CONN,50 Y Breaststroke,SCY,M,55-59,38.14,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,3
-CONN,100 Y Breaststroke,SCY,M,55-59,1:18.52,Robert J Lamontagne,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Breaststroke,SCY,M,55-59,1:28.68,Peter Canning,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Breaststroke,SCY,M,55-59,2:50.92,Robert J Lamontagne,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Breaststroke,SCY,M,55-59,3:35.33,Peter Canning,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,55-59,27.93,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Butterfly,SCY,M,55-59,28.53,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,50 Y Butterfly,SCY,M,55-59,31.06,Charles Shapiro,,2017 NE LMSC SCY Championships,2017,3
-CONN,50 Y Butterfly,SCY,M,55-59,32.39,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,4
-CONN,50 Y Butterfly,SCY,M,55-59,32.63,Chris Thompson,,32nd Annual Groundhog Meet,2017,5
-CONN,100 Y Butterfly,SCY,M,55-59,1:43.78,Peter Canning,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,M,55-59,1:09.59,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1
-CONN,100 Y Individual Medley,SCY,M,55-59,1:13.46,Charles Shapiro,,2017 NE LMSC SCY Championships,2017,2
-CONN,100 Y Individual Medley,SCY,M,55-59,1:18.02,Chris Thompson,,32nd Annual Groundhog Meet,2017,3
-CONN,100 Y Individual Medley,SCY,M,55-59,1:25.57,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,4
-CONN,200 Y Individual Medley,SCY,M,55-59,2:28.86,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Individual Medley,SCY,M,55-59,2:47.95,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,2
-CONN,200 Y Individual Medley,SCY,M,55-59,3:16.62,Peter Canning,,2017 NE LMSC SCY Championships,2017,3
-CONN,400 Y Individual Medley,SCY,M,55-59,5:01.11,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1
-CONN,400 Y Individual Medley,SCY,M,55-59,5:22.32,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,2
-CONN,400 Y Individual Medley,SCY,M,55-59,7:41.53,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,3
-CONN,50 Y Freestyle,SCY,M,60-64,26.28,Chris Thompson,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,60-64,26.68,Charles F Lang,,2017 YMCA Masters Nationals,2017,2
-CONN,50 Y Freestyle,SCY,M,60-64,29.19,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,3
-CONN,50 Y Freestyle,SCY,M,60-64,33.43,Michael F Barry,,32nd Annual Groundhog Meet,2017,4
-CONN,100 Y Freestyle,SCY,M,60-64,58.14,Charles F Lang,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Freestyle,SCY,M,60-64,59.60,Chris Thompson,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,100 Y Freestyle,SCY,M,60-64,1:05.23,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,3
-CONN,200 Y Freestyle,SCY,M,60-64,2:10.69,Charles F Lang,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Freestyle,SCY,M,60-64,2:22.40,Steven J Jaroszewski,,SUNY New Paltz Masters Swim Meet,2017,2
-CONN,200 Y Freestyle,SCY,M,60-64,2:49.74,Michael F Barry,,32nd Annual Groundhog Meet,2017,3
-CONN,500 Y Freestyle,SCY,M,60-64,6:03.69,Charles F Lang,,2017 YMCA Masters Nationals,2017,1
-CONN,500 Y Freestyle,SCY,M,60-64,6:36.42,Kevin T Hoffman,,2017 NE LMSC SCY Championships,2017,2
-CONN,1000 Y Freestyle,SCY,M,60-64,12:45.88,Charles F Lang,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Breaststroke,SCY,M,60-64,36.18,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,60-64,42.93,Michael F Barry,,32nd Annual Groundhog Meet,2017,2
-CONN,100 Y Breaststroke,SCY,M,60-64,1:20.65,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Breaststroke,SCY,M,60-64,3:01.62,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Butterfly,SCY,M,60-64,33.15,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,1
-CONN,100 Y Butterfly,SCY,M,60-64,1:23.05,Steven J Jaroszewski,,SUNY New Paltz Masters Swim Meet,2017,1
-CONN,200 Y Butterfly,SCY,M,60-64,2:54.99,Kevin T Hoffman,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Individual Medley,SCY,M,60-64,1:14.75,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Individual Medley,SCY,M,60-64,1:19.61,Chris Thompson,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,100 Y Individual Medley,SCY,M,60-64,1:32.71,Michael F Barry,,32nd Annual Groundhog Meet,2017,3
-CONN,200 Y Individual Medley,SCY,M,60-64,2:46.45,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,65-69,36.89,Rick Spear,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Freestyle,SCY,M,65-69,1:05.88,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Freestyle,SCY,M,65-69,1:20.57,Rick Spear,,2017 NE LMSC SCY Championships,2017,2
-CONN,200 Y Freestyle,SCY,M,65-69,2:48.99,Rick Spear,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Freestyle,SCY,M,65-69,3:02.12,John Schwarten,,2017 YMCA Masters Nationals,2017,2
-CONN,500 Y Freestyle,SCY,M,65-69,8:11.97,John Schwarten,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Backstroke,SCY,M,65-69,38.69,John Schwarten,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Backstroke,SCY,M,65-69,1:21.42,William J Geoghegan,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Backstroke,SCY,M,65-69,1:49.68,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,200 Y Backstroke,SCY,M,65-69,2:56.51,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Backstroke,SCY,M,65-69,2:59.07,John Schwarten,,2017 YMCA Masters Nationals,2017,2
-CONN,200 Y Backstroke,SCY,M,65-69,3:42.03,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,3
-CONN,50 Y Breaststroke,SCY,M,65-69,43.59,Alan J Smally,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,65-69,45.33,William F Traester,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,100 Y Breaststroke,SCY,M,65-69,1:36.34,Alan J Smally,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,100 Y Breaststroke,SCY,M,65-69,1:53.52,Rick Spear,,Connecticut Masters' Games Swim Meet,2017,2
-CONN,200 Y Breaststroke,SCY,M,65-69,3:09.16,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Breaststroke,SCY,M,65-69,3:30.29,Alan J Smally,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,50 Y Butterfly,SCY,M,65-69,42.53,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,1
-CONN,200 Y Butterfly,SCY,M,65-69,3:05.76,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Individual Medley,SCY,M,65-69,1:30.04,John Schwarten,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Individual Medley,SCY,M,65-69,1:44.81,William F Traester,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2
-CONN,200 Y Individual Medley,SCY,M,65-69,2:49.31,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Individual Medley,SCY,M,65-69,3:30.53,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,2
-CONN,200 Y Individual Medley,SCY,M,65-69,3:54.34,William F Traester,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,3
-CONN,400 Y Individual Medley,SCY,M,65-69,6:08.58,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1
-CONN,50 Y Freestyle,SCY,M,70-74,37.41,David F Bean,,5th Annual Swim Against Huntington's Disease Master Meet SCY,2017,1
-CONN,200 Y Freestyle,SCY,M,70-74,2:50.79,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,500 Y Freestyle,SCY,M,70-74,7:40.89,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Backstroke,SCY,M,70-74,49.44,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Backstroke,SCY,M,70-74,3:42.13,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Breaststroke,SCY,M,70-74,43.40,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,100 Y Breaststroke,SCY,M,70-74,1:33.74,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Breaststroke,SCY,M,70-74,3:33.03,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Butterfly,SCY,M,70-74,43.85,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,400 Y Individual Medley,SCY,M,70-74,7:30.25,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,50 Y Freestyle,SCY,M,75-79,31.72,Michael A Laux,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Freestyle,SCY,M,75-79,1:10.79,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Freestyle,SCY,M,75-79,2:36.56,Michael A Laux,,32nd Annual Groundhog Meet,2017,1
-CONN,500 Y Freestyle,SCY,M,75-79,7:27.30,Michael A Laux,,2017 YMCA Masters Nationals,2017,1
-CONN,1000 Y Freestyle,SCY,M,75-79,15:32.09,Michael A Laux,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Backstroke,SCY,M,75-79,3:39.59,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Breaststroke,SCY,M,75-79,39.19,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1
-CONN,100 Y Breaststroke,SCY,M,75-79,1:27.99,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1
-CONN,200 Y Breaststroke,SCY,M,75-79,3:16.57,Michael A Laux,,32nd Annual Groundhog Meet,2017,1
-CONN,50 Y Butterfly,SCY,M,75-79,34.91,Michael A Laux,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Individual Medley,SCY,M,75-79,1:22.69,Michael A Laux,,32nd Annual Groundhog Meet,2017,1
-CONN,200 Y Individual Medley,SCY,M,75-79,3:10.50,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1
-CONN,50 Y Freestyle,SCY,M,80-84,38.54,Howard Alkoff,,2017 YMCA Masters Nationals,2017,1
-CONN,100 Y Freestyle,SCY,M,80-84,1:37.65,Howard Alkoff,,2017 YMCA Masters Nationals,2017,1
-CONN,200 Y Freestyle,SCY,M,80-84,3:36.37,Howard Alkoff,,Connecticut Masters' Games Swim Meet,2017,1
-CONN,200 Y Freestyle,SCY,M,80-84,6:03.25,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,2
-CONN,500 Y Freestyle,SCY,M,80-84,9:37.78,Howard Alkoff,,2017 YMCA Masters Nationals,2017,1
-CONN,500 Y Freestyle,SCY,M,80-84,15:40.76,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,2
-CONN,100 Y Backstroke,SCY,M,80-84,2:37.85,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,1
-CONN,100 Y Butterfly,SCY,M,80-84,5:20.53,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,1
-CPCT,200 Y Freestyle,SCY,M,55-59,2:12.56,Howard Fife,,32nd Annual Groundhog Meet,2017,1
-GRYM,50 Y Freestyle,SCY,W,35-39,34.97,Laina Malm-Levine,,32nd Annual Groundhog Meet,2017,1
-GRYM,50 Y Backstroke,SCY,W,35-39,39.84,Laina Malm-Levine,,32nd Annual Groundhog Meet,2017,1
-GRYM,50 Y Freestyle,SCY,W,40-44,28.39,Kim Wang,,32nd Annual Groundhog Meet,2017,1
-GRYM,100 Y Freestyle,SCY,W,40-44,1:02.20,Kim Wang,,32nd Annual Groundhog Meet,2017,1
-GRYM,50 Y Backstroke,SCY,W,40-44,35.15,Kim Wang,,32nd Annual Groundhog Meet,2017,1
-GRYM,50 Y Freestyle,SCY,M,50-54,29.81,Rod Halmshaw,,32nd Annual Groundhog Meet,2017,1
-HMAS,50 Y Freestyle,SCY,W,60-64,31.68,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1
-HMAS,50 Y Breaststroke,SCY,W,60-64,39.31,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1
-HMAS,100 Y Breaststroke,SCY,W,60-64,1:26.20,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1
-HMAS,200 Y Breaststroke,SCY,W,60-64,3:07.99,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1
-RAC,50 Y Freestyle,SCY,W,25-29,25.84,Thammara Clemente,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Freestyle,SCY,W,25-29,56.91,Thammara Clemente,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,W,25-29,1:14.25,Thammara Clemente,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Freestyle,SCY,W,45-49,28.93,Cindy Liu,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Freestyle,SCY,W,45-49,1:08.94,Tracy Inall,,32nd Annual Groundhog Meet,2017,1
-RAC,200 Y Freestyle,SCY,W,45-49,2:30.29,Tracy Inall,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Backstroke,SCY,W,45-49,1:14.63,Cindy Liu,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Freestyle,SCY,W,50-54,1:13.05,Kate Turner,,32nd Annual Groundhog Meet,2017,1
-RAC,200 Y Freestyle,SCY,W,50-54,2:36.73,Kate Turner,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,W,50-54,1:24.03,Kate Turner,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Freestyle,SCY,W,55-59,35.53,Jennifer Phelps,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Freestyle,SCY,W,55-59,1:14.01,Maria C Klutey,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Freestyle,SCY,W,55-59,1:18.90,Jennifer Phelps,,32nd Annual Groundhog Meet,2017,2
-RAC,200 Y Individual Medley,SCY,W,55-59,3:00.03,Maria C Klutey,,32nd Annual Groundhog Meet,2017,1
-RAC,200 Y Freestyle,SCY,W,60-64,2:58.85,Karin Fallon,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Backstroke,SCY,W,60-64,1:33.58,Karin Fallon,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,W,60-64,1:32.98,Karin Fallon,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Freestyle,SCY,M,25-29,25.43,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Backstroke,SCY,M,25-29,32.96,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Breaststroke,SCY,M,25-29,34.28,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Butterfly,SCY,M,25-29,26.86,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,M,25-29,1:05.88,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Freestyle,SCY,M,30-34,24.51,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Freestyle,SCY,M,30-34,56.17,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Breaststroke,SCY,M,30-34,31.54,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Butterfly,SCY,M,30-34,27.70,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,M,30-34,1:10.68,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Freestyle,SCY,M,35-39,27.98,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,1
-RAC,500 Y Freestyle,SCY,M,35-39,6:29.47,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Breaststroke,SCY,M,35-39,30.04,Emmanuel Lanzo,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Breaststroke,SCY,M,35-39,34.79,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,2
-RAC,100 Y Breaststroke,SCY,M,35-39,1:11.54,Emmanuel Lanzo,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Butterfly,SCY,M,35-39,31.47,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,M,35-39,1:08.58,Emmanuel Lanzo,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,M,35-39,1:10.55,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,2
-RAC,100 Y Freestyle,SCY,M,50-54,59.37,John Turner,,32nd Annual Groundhog Meet,2017,1
-RAC,200 Y Freestyle,SCY,M,50-54,2:21.49,Rick Klutey,,32nd Annual Groundhog Meet,2017,1
-RAC,50 Y Backstroke,SCY,M,50-54,29.07,John Turner,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Backstroke,SCY,M,50-54,1:03.03,John Turner,,32nd Annual Groundhog Meet,2017,1
-RAC,200 Y Breaststroke,SCY,M,50-54,2:52.87,Rick Klutey,,32nd Annual Groundhog Meet,2017,1
-RAC,100 Y Individual Medley,SCY,M,50-54,1:13.62,Rick Klutey,,32nd Annual Groundhog Meet,2017,1
-TBH,200 Y Individual Medley,SCY,M,45-49,2:31.58,Adrian Stroie,,2017 NE LMSC SCY Championships,2017,1
-UC05,50 Y Freestyle,SCY,W,25-29,27.70,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,W,25-29,2:15.35,Alexandra L Huffman,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,W,25-29,2:18.67,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,200 Y Freestyle,SCY,W,25-29,3:02.51,Melissa Duguay,,Connecticut Masters' Games Swim Meet,2017,3
-UC05,500 Y Freestyle,SCY,W,25-29,5:58.01,Alexandra L Huffman,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,500 Y Freestyle,SCY,W,25-29,6:12.67,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,500 Y Freestyle,SCY,W,25-29,6:17.69,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,3
-UC05,500 Y Freestyle,SCY,W,25-29,8:04.63,Melissa Duguay,,Connecticut Masters' Games Swim Meet,2017,4
-UC05,50 Y Backstroke,SCY,W,25-29,32.35,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Backstroke,SCY,W,25-29,1:35.47,Melissa Duguay,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Butterfly,SCY,W,25-29,31.57,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,100 Y Butterfly,SCY,W,25-29,1:14.88,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,W,25-29,1:09.99,Alexandra L Huffman,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,W,25-29,1:14.10,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,50 Y Freestyle,SCY,W,40-44,28.68,Aubrey Meyenburg,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,W,40-44,32.65,Aubrey Meyenburg,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,100 Y Backstroke,SCY,W,40-44,1:12.71,Aubrey Meyenburg,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,200 Y Backstroke,SCY,W,40-44,2:42.68,Aubrey Meyenburg,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Freestyle,SCY,W,45-49,30.90,Heather Arencibia,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Freestyle,SCY,W,45-49,32.05,Ann V Wronski,,32nd Annual Groundhog Meet,2017,2
-UC05,100 Y Freestyle,SCY,W,45-49,1:11.75,Ann V Wronski,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Butterfly,SCY,W,45-49,34.44,Heather Arencibia,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Freestyle,SCY,W,50-54,28.74,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,W,50-54,34.36,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Backstroke,SCY,W,50-54,2:47.25,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,W,50-54,39.98,Bethamy Aronow,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Breaststroke,SCY,W,50-54,43.02,NING WEI,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,100 Y Individual Medley,SCY,W,50-54,1:14.89,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,W,50-54,1:23.81,NING WEI,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,200 Y Individual Medley,SCY,W,50-54,3:10.35,NING WEI,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,W,55-59,30.98,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,W,55-59,32.89,Kristin N Mudge,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,500 Y Freestyle,SCY,W,55-59,8:19.10,Kristin N Mudge,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,W,55-59,38.05,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Breaststroke,SCY,W,55-59,1:24.09,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,W,55-59,1:17.03,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Breaststroke,SCY,W,60-64,1:36.05,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Breaststroke,SCY,W,60-64,3:38.38,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Butterfly,SCY,W,60-64,39.90,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Butterfly,SCY,W,60-64,1:40.41,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,W,60-64,1:32.83,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Individual Medley,SCY,W,60-64,3:35.44,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,18-24,21.61,Oscar Pereiro Carril,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,18-24,22.32,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,50 Y Freestyle,SCY,M,18-24,27.13,JAEGER P BAILEY,,Connecticut Masters' Games Swim Meet,2017,3
-UC05,50 Y Freestyle,SCY,M,18-24,28.42,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,4
-UC05,100 Y Freestyle,SCY,M,18-24,1:00.44,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,18-24,1:51.72,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,500 Y Freestyle,SCY,M,18-24,6:06.01,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,18-24,23.57,Oscar Pereiro Carril,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,18-24,30.53,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,100 Y Backstroke,SCY,M,18-24,1:06.74,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,100 Y Backstroke,SCY,M,18-24,1:17.56,JAEGER P BAILEY,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,50 Y Butterfly,SCY,M,18-24,22.70,Oscar Pereiro Carril,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,100 Y Butterfly,SCY,M,18-24,53.52,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,18-24,54.93,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Individual Medley,SCY,M,18-24,2:03.75,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,25-29,20.14,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1
-UC05,100 Y Freestyle,SCY,M,25-29,46.70,Oscar Pereiro Carril,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,25-29,2:19.59,John G MacDonald,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,25-29,22.31,Oscar Pereiro Carril,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Backstroke,SCY,M,25-29,49.77,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1
-UC05,50 Y Breaststroke,SCY,M,25-29,34.15,John G MacDonald,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Breaststroke,SCY,M,25-29,1:19.26,John G MacDonald,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,25-29,21.84,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1
-UC05,50 Y Butterfly,SCY,M,25-29,27.97,John G MacDonald,,32nd Annual Groundhog Meet,2017,2
-UC05,100 Y Butterfly,SCY,M,25-29,50.05,Oscar Pereiro Carril,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,25-29,52.08,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1
-UC05,400 Y Individual Medley,SCY,M,25-29,5:18.43,John G MacDonald,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,30-34,28.52,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Freestyle,SCY,M,30-34,1:01.80,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,30-34,2:19.03,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,30-34,34.57,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Backstroke,SCY,M,30-34,1:12.38,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Backstroke,SCY,M,30-34,2:41.71,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,30-34,34.70,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,30-34,1:12.82,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Freestyle,SCY,M,35-39,1:08.04,Brian J Martineau,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,35-39,2:35.72,Brian J Martineau,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,35-39,29.40,Ryan D Spoon,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Breaststroke,SCY,M,35-39,1:05.45,Ryan D Spoon,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,35-39,1:06.83,Ryan D Spoon,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,40-44,25.26,Ryan T McNamara,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,40-44,25.94,James E Lenger,,Evanston Masters 2016 December Invite,2017,2
-UC05,100 Y Freestyle,SCY,M,40-44,59.14,James E Lenger,,Evanston Masters 2016 December Invite,2017,1
-UC05,50 Y Backstroke,SCY,M,40-44,29.02,Ryan T McNamara,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,45-49,28.22,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Freestyle,SCY,M,45-49,1:01.83,Scott Moxham,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,45-49,39.61,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,45-49,31.52,Linney J O'Malley,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,45-49,39.54,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,100 Y Breaststroke,SCY,M,45-49,1:11.23,Scott Moxham,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,45-49,28.56,Scott Moxham,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,45-49,28.83,Linney J O'Malley,,32nd Annual Groundhog Meet,2017,2
-UC05,50 Y Butterfly,SCY,M,45-49,36.44,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,3
-UC05,100 Y Individual Medley,SCY,M,45-49,1:05.46,Linney J O'Malley,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,45-49,1:19.27,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,50 Y Freestyle,SCY,M,50-54,27.11,Darrin S Reed,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,50-54,31.24,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,100 Y Freestyle,SCY,M,50-54,53.75,Christopher J Doyle,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,50-54,1:59.71,Christopher J Doyle,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,50-54,2:16.41,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,200 Y Freestyle,SCY,M,50-54,2:25.55,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,3
-UC05,500 Y Freestyle,SCY,M,50-54,6:02.79,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,50-54,34.41,Darrin S Reed,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,50-54,35.49,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,50-54,38.62,Darrin S Reed,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,50 Y Butterfly,SCY,M,50-54,31.87,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,50-54,35.31,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,100 Y Butterfly,SCY,M,50-54,59.77,Christopher J Doyle,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,50-54,1:13.81,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,50-54,1:22.87,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,2
-UC05,50 Y Freestyle,SCY,M,55-59,25.62,David A Benjamin,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Freestyle,SCY,M,55-59,1:01.18,David A Benjamin,,32nd Annual Groundhog Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,55-59,2:19.03,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,500 Y Freestyle,SCY,M,55-59,6:11.64,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,55-59,33.88,David A Benjamin,,32nd Annual Groundhog Meet,2017,1
-UC05,100 Y Breaststroke,SCY,M,55-59,1:19.34,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,55-59,28.74,David A Benjamin,,32nd Annual Groundhog Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,55-59,32.71,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,100 Y Individual Medley,SCY,M,55-59,1:15.70,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Individual Medley,SCY,M,55-59,2:43.79,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,60-64,28.41,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Freestyle,SCY,M,60-64,1:08.71,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,60-64,36.21,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Backstroke,SCY,M,60-64,1:22.06,Steve F Celmer,,Connecticut Masters' Games Swim Meet,2017,2
-UC05,100 Y Backstroke,SCY,M,60-64,3:26.50,Steve F Celmer,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Breaststroke,SCY,M,60-64,37.80,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Butterfly,SCY,M,60-64,31.09,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Individual Medley,SCY,M,60-64,1:15.94,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,50 Y Freestyle,SCY,M,70-74,45.05,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,100 Y Freestyle,SCY,M,70-74,1:40.94,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,200 Y Freestyle,SCY,M,70-74,3:36.97,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1
-UC05,500 Y Freestyle,SCY,M,70-74,9:26.65,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1
+team,event,course,gender,age_group,time,swimmer,date,meet,year,rank,swimmer_id
+CCAT,100 Y Freestyle,SCY,M,50-54,1:03.94,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1,0ABS8
+CCAT,50 Y Breaststroke,SCY,M,50-54,36.57,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1,0ABS8
+CCAT,100 Y Breaststroke,SCY,M,50-54,1:22.05,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1,0ABS8
+CCAT,200 Y Breaststroke,SCY,M,50-54,3:10.52,Christopher Main,,Nutmeg State Games Masters' Swim Meet,2017,1,0ABS8
+CONN,50 Y Freestyle,SCY,W,18-24,26.47,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1,0AXXA
+CONN,100 Y Freestyle,SCY,W,18-24,1:00.35,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1,0AXXA
+CONN,50 Y Breaststroke,SCY,W,18-24,31.61,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1,0AXXA
+CONN,100 Y Breaststroke,SCY,W,18-24,1:09.33,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1,0AXXA
+CONN,200 Y Breaststroke,SCY,W,18-24,2:35.85,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1,0AXXA
+CONN,100 Y Individual Medley,SCY,W,18-24,1:08.27,Audrey R Butler,,Connecticut Masters' Games Swim Meet,2017,1,0AXXA
+CONN,50 Y Freestyle,SCY,W,25-29,24.95,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1,09VKJ
+CONN,50 Y Freestyle,SCY,W,25-29,37.68,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2,097W1
+CONN,100 Y Freestyle,SCY,W,25-29,58.45,Anna C Gryglewska,,32nd Annual Groundhog Meet,2017,1,09VKJ
+CONN,100 Y Freestyle,SCY,W,25-29,1:29.12,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2,097W1
+CONN,200 Y Freestyle,SCY,W,25-29,2:01.22,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1,09VKJ
+CONN,200 Y Freestyle,SCY,W,25-29,2:11.71,Jessica Davis,,2017 NE LMSC SCY Championships,2017,2,0A7NY
+CONN,200 Y Freestyle,SCY,W,25-29,2:39.90,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,3,09WHA
+CONN,200 Y Freestyle,SCY,W,25-29,2:46.23,Maura Keating,,Connecticut Masters' Games Swim Meet,2017,4,09JRP
+CONN,200 Y Freestyle,SCY,W,25-29,3:30.46,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,5,097W1
+CONN,500 Y Freestyle,SCY,W,25-29,5:59.60,Jessica Davis,,2017 NE LMSC SCY Championships,2017,1,0A7NY
+CONN,500 Y Freestyle,SCY,W,25-29,7:21.28,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2,09WHA
+CONN,500 Y Freestyle,SCY,W,25-29,9:35.27,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,3,097W1
+CONN,50 Y Backstroke,SCY,W,25-29,29.04,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1,09VKJ
+CONN,50 Y Backstroke,SCY,W,25-29,38.77,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,2,09WHA
+CONN,100 Y Backstroke,SCY,W,25-29,1:07.04,Anna C Gryglewska,,32nd Annual Groundhog Meet,2017,1,09VKJ
+CONN,100 Y Backstroke,SCY,W,25-29,1:24.92,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2,09WHA
+CONN,200 Y Backstroke,SCY,W,25-29,2:17.28,Anna C Gryglewska,,2017 YMCA Masters Nationals,2017,1,09VKJ
+CONN,200 Y Backstroke,SCY,W,25-29,2:59.71,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2,09WHA
+CONN,50 Y Breaststroke,SCY,W,25-29,34.76,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1,0A487
+CONN,50 Y Breaststroke,SCY,W,25-29,50.17,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2,097W1
+CONN,100 Y Breaststroke,SCY,W,25-29,1:14.94,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1,0A487
+CONN,100 Y Breaststroke,SCY,W,25-29,1:49.62,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2,097W1
+CONN,200 Y Breaststroke,SCY,W,25-29,4:05.95,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,1,097W1
+CONN,50 Y Butterfly,SCY,W,25-29,38.92,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,1,09WHA
+CONN,50 Y Butterfly,SCY,W,25-29,44.82,Kimberly B Martin,,2017 NE LMSC SCY Championships,2017,2,097W1
+CONN,100 Y Individual Medley,SCY,W,25-29,1:09.18,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1,0A487
+CONN,100 Y Individual Medley,SCY,W,25-29,1:19.26,Morgan L Guardino,,2017 NE LMSC SCY Championships,2017,2,09WHA
+CONN,100 Y Individual Medley,SCY,W,25-29,1:26.87,Maura Keating,,Connecticut Masters' Games Swim Meet,2017,3,09JRP
+CONN,200 Y Individual Medley,SCY,W,25-29,2:34.68,Amanda L Brown,,Nutmeg State Games Masters' Swim Meet,2017,1,0A487
+CONN,200 Y Individual Medley,SCY,W,25-29,2:57.95,Morgan L Guardino,,Connecticut Masters' Games Swim Meet,2017,2,09WHA
+CONN,200 Y Individual Medley,SCY,W,25-29,3:14.80,Maura Keating,,Connecticut Masters' Games Swim Meet,2017,3,09JRP
+CONN,50 Y Freestyle,SCY,W,30-34,27.96,Christina A DiGiacomo,,32nd Annual Groundhog Meet,2017,1,096KM
+CONN,50 Y Freestyle,SCY,W,30-34,29.17,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,2,07HDB
+CONN,50 Y Freestyle,SCY,W,30-34,29.85,Michelle Zelek,,2017 NE LMSC SCY Championships,2017,3,0AM7N
+CONN,50 Y Freestyle,SCY,W,30-34,30.92,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,4,0AGFG
+CONN,50 Y Freestyle,SCY,W,30-34,31.68,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,5,09WE9
+CONN,50 Y Freestyle,SCY,W,30-34,32.73,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,6,0AVHK
+CONN,50 Y Freestyle,SCY,W,30-34,35.98,Veronica M Suleski,,Nutmeg State Games Masters' Swim Meet,2017,7,09KGH
+CONN,50 Y Freestyle,SCY,W,30-34,36.29,Madeline Bey,,2017 NE LMSC SCY Championships,2017,8,09MGD
+CONN,50 Y Freestyle,SCY,W,30-34,1:02.00,Sarah K Perkins,,Connecticut Masters' Games Swim Meet,2017,9,0ATTH
+CONN,100 Y Freestyle,SCY,W,30-34,1:02.22,Christina A DiGiacomo,,32nd Annual Groundhog Meet,2017,1,096KM
+CONN,100 Y Freestyle,SCY,W,30-34,1:04.18,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,2,07HDB
+CONN,100 Y Freestyle,SCY,W,30-34,1:06.29,Michelle Zelek,,2017 NE LMSC SCY Championships,2017,3,0AM7N
+CONN,100 Y Freestyle,SCY,W,30-34,1:16.53,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,4,09WE9
+CONN,100 Y Freestyle,SCY,W,30-34,1:16.93,Kate Powers,,Greater Holyoke YMCA Winter Warm Up,2017,5,091AP
+CONN,100 Y Freestyle,SCY,W,30-34,1:17.26,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,6,0AVHK
+CONN,200 Y Freestyle,SCY,W,30-34,2:22.78,Christina A DiGiacomo,,32nd Annual Groundhog Meet,2017,1,096KM
+CONN,200 Y Freestyle,SCY,W,30-34,2:40.41,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,2,09WE9
+CONN,200 Y Freestyle,SCY,W,30-34,2:47.43,Madeline Bey,,2017 NE LMSC SCY Championships,2017,3,09MGD
+CONN,500 Y Freestyle,SCY,W,30-34,5:50.82,Heather M Bernstein,,2017 NE LMSC SCY Championships,2017,1,06X79
+CONN,500 Y Freestyle,SCY,W,30-34,7:26.71,Madeline Bey,,2017 NE LMSC SCY Championships,2017,2,09MGD
+CONN,500 Y Freestyle,SCY,W,30-34,7:35.57,Kate Powers,,Greater Holyoke YMCA Winter Warm Up,2017,3,091AP
+CONN,500 Y Freestyle,SCY,W,30-34,7:39.02,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,4,09WE9
+CONN,500 Y Freestyle,SCY,W,30-34,7:49.88,Kaitlyn M Guardino,,2017 NE LMSC SCY Championships,2017,5,0AVHK
+CONN,1650 Y Freestyle,SCY,W,30-34,26:24.06,Kate Powers,,2017 NE LMSC SCY Championships,2017,1,091AP
+CONN,50 Y Backstroke,SCY,W,30-34,34.72,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,1,07HDB
+CONN,50 Y Backstroke,SCY,W,30-34,35.81,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,2,0AGFG
+CONN,50 Y Backstroke,SCY,W,30-34,39.79,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,3,0AVHK
+CONN,50 Y Backstroke,SCY,W,30-34,42.60,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,4,09WE9
+CONN,50 Y Backstroke,SCY,W,30-34,1:31.31,Sarah K Perkins,,32nd Annual Groundhog Meet,2017,5,0ATTH
+CONN,100 Y Backstroke,SCY,W,30-34,1:29.47,Kaitlyn M Guardino,,2017 NE LMSC SCY Championships,2017,1,0AVHK
+CONN,100 Y Backstroke,SCY,W,30-34,3:05.73,Sarah K Perkins,,32nd Annual Groundhog Meet,2017,2,0ATTH
+CONN,200 Y Backstroke,SCY,W,30-34,6:58.07,Sarah K Perkins,,Connecticut Masters' Games Swim Meet,2017,1,0ATTH
+CONN,50 Y Breaststroke,SCY,W,30-34,33.55,Lauren Finnegan,,32nd Annual Groundhog Meet,2017,1,07N45
+CONN,50 Y Breaststroke,SCY,W,30-34,35.16,Michelle Zelek,,2017 NE LMSC SCY Championships,2017,2,0AM7N
+CONN,50 Y Breaststroke,SCY,W,30-34,41.45,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,3,0AGFG
+CONN,50 Y Breaststroke,SCY,W,30-34,45.68,Madeline Bey,,Connecticut Masters' Games Swim Meet,2017,4,09MGD
+CONN,100 Y Breaststroke,SCY,W,30-34,1:13.99,Lauren Finnegan,,32nd Annual Groundhog Meet,2017,1,07N45
+CONN,100 Y Breaststroke,SCY,W,30-34,1:16.93,Michelle Zelek,,2017 Adirondack District Masters Championships,2017,2,0AM7N
+CONN,100 Y Breaststroke,SCY,W,30-34,1:35.60,Kate Powers,,Greater Holyoke YMCA Winter Warm Up,2017,3,091AP
+CONN,100 Y Breaststroke,SCY,W,30-34,1:40.38,Madeline Bey,,2017 NE LMSC SCY Championships,2017,4,09MGD
+CONN,100 Y Breaststroke,SCY,W,30-34,3:14.05,Sarah K Perkins,,32nd Annual Groundhog Meet,2017,5,0ATTH
+CONN,200 Y Breaststroke,SCY,W,30-34,2:47.90,Michelle Zelek,,2017 Adirondack District Masters Championships,2017,1,0AM7N
+CONN,50 Y Butterfly,SCY,W,30-34,29.37,Lauren Finnegan,,32nd Annual Groundhog Meet,2017,1,07N45
+CONN,50 Y Butterfly,SCY,W,30-34,32.56,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,2,0AGFG
+CONN,50 Y Butterfly,SCY,W,30-34,37.71,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,3,09WE9
+CONN,50 Y Butterfly,SCY,W,30-34,41.01,Madeline Bey,,2017 NE LMSC SCY Championships,2017,4,09MGD
+CONN,50 Y Butterfly,SCY,W,30-34,45.49,Veronica M Suleski,,Nutmeg State Games Masters' Swim Meet,2017,5,09KGH
+CONN,100 Y Butterfly,SCY,W,30-34,1:07.94,Heather M Bernstein,,2017 NE LMSC SCY Championships,2017,1,06X79
+CONN,100 Y Individual Medley,SCY,W,30-34,1:13.17,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,1,07HDB
+CONN,100 Y Individual Medley,SCY,W,30-34,1:13.95,Heather M Bernstein,,2017 NE LMSC SCY Championships,2017,2,06X79
+CONN,100 Y Individual Medley,SCY,W,30-34,1:14.12,Michelle Zelek,,2017 Adirondack District Masters Championships,2017,3,0AM7N
+CONN,100 Y Individual Medley,SCY,W,30-34,1:17.35,Colleen Devino,,Nutmeg State Games Masters' Swim Meet,2017,4,0AGFG
+CONN,100 Y Individual Medley,SCY,W,30-34,1:26.33,Kaitlyn M Guardino,,Connecticut Masters' Games Swim Meet,2017,5,0AVHK
+CONN,100 Y Individual Medley,SCY,W,30-34,1:28.92,Nicole Guglielmo,,2017 NE LMSC SCY Championships,2017,6,09WE9
+CONN,100 Y Individual Medley,SCY,W,30-34,1:31.94,Madeline Bey,,2017 NE LMSC SCY Championships,2017,7,09MGD
+CONN,100 Y Individual Medley,SCY,W,30-34,1:34.58,Veronica M Suleski,,Nutmeg State Games Masters' Swim Meet,2017,8,09KGH
+CONN,100 Y Individual Medley,SCY,W,30-34,2:50.26,Sarah K Perkins,,Connecticut Masters' Games Swim Meet,2017,9,0ATTH
+CONN,200 Y Individual Medley,SCY,W,30-34,2:41.82,Kristin L Kulinka,,2017 NE LMSC SCY Championships,2017,1,07HDB
+CONN,200 Y Individual Medley,SCY,W,30-34,2:43.11,Michelle Zelek,,Connecticut Masters' Games Swim Meet,2017,2,0AM7N
+CONN,200 Y Individual Medley,SCY,W,30-34,3:10.88,Madeline Bey,,2017 NE LMSC SCY Championships,2017,3,09MGD
+CONN,50 Y Freestyle,SCY,W,35-39,29.91,Lindsay S Breekland,,32nd Annual Groundhog Meet,2017,1,02E48
+CONN,50 Y Freestyle,SCY,W,35-39,35.80,Veronica M Suleski,,Connecticut Masters' Games Swim Meet,2017,2,09KGH
+CONN,50 Y Freestyle,SCY,W,35-39,40.78,Serafina Sumargo,,32nd Annual Groundhog Meet,2017,3,0AN12
+CONN,100 Y Freestyle,SCY,W,35-39,1:05.75,Lindsay S Breekland,,32nd Annual Groundhog Meet,2017,1,02E48
+CONN,100 Y Freestyle,SCY,W,35-39,1:19.42,Serafina Sumargo,,32nd Annual Groundhog Meet,2017,2,0AN12
+CONN,200 Y Freestyle,SCY,W,35-39,2:38.37,Marta A Taddeo,,Nutmeg State Games Masters' Swim Meet,2017,1,09ZCJ
+CONN,200 Y Freestyle,SCY,W,35-39,2:51.37,Veronica M Suleski,,Connecticut Masters' Games Swim Meet,2017,2,09KGH
+CONN,200 Y Freestyle,SCY,W,35-39,2:54.36,Serafina Sumargo,,32nd Annual Groundhog Meet,2017,3,0AN12
+CONN,200 Y Freestyle,SCY,W,35-39,3:12.78,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,4,085V8
+CONN,500 Y Freestyle,SCY,W,35-39,6:40.65,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,500 Y Freestyle,SCY,W,35-39,7:35.78,Veronica M Suleski,,Connecticut Masters' Games Swim Meet,2017,2,09KGH
+CONN,1650 Y Freestyle,SCY,W,35-39,23:23.66,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,50 Y Backstroke,SCY,W,35-39,50.00,Robyn DeMarco,,Connecticut Masters' Games Swim Meet,2017,1,085V8
+CONN,100 Y Backstroke,SCY,W,35-39,1:24.25,Marta A Taddeo,,32nd Annual Groundhog Meet,2017,1,09ZCJ
+CONN,200 Y Backstroke,SCY,W,35-39,3:02.69,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,200 Y Backstroke,SCY,W,35-39,3:52.98,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2,085V8
+CONN,50 Y Breaststroke,SCY,W,35-39,34.98,Cyndia Sanchez,,Connecticut Masters' Games Swim Meet,2017,1,09WF8
+CONN,50 Y Breaststroke,SCY,W,35-39,38.54,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,2,09ZCJ
+CONN,50 Y Breaststroke,SCY,W,35-39,48.05,Robyn DeMarco,,Connecticut Masters' Games Swim Meet,2017,3,085V8
+CONN,100 Y Breaststroke,SCY,W,35-39,1:15.61,Cyndia Sanchez,,Connecticut Masters' Games Swim Meet,2017,1,09WF8
+CONN,100 Y Breaststroke,SCY,W,35-39,1:25.58,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,2,09ZCJ
+CONN,100 Y Breaststroke,SCY,W,35-39,1:44.05,Robyn DeMarco,,32nd Annual Groundhog Meet,2017,3,085V8
+CONN,200 Y Breaststroke,SCY,W,35-39,3:04.36,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,200 Y Breaststroke,SCY,W,35-39,3:34.87,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2,085V8
+CONN,50 Y Butterfly,SCY,W,35-39,34.42,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,100 Y Butterfly,SCY,W,35-39,1:26.60,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,100 Y Butterfly,SCY,W,35-39,1:39.45,Robyn DeMarco,,2017 NE LMSC SCY Championships,2017,2,085V8
+CONN,200 Y Butterfly,SCY,W,35-39,3:12.42,Marta A Taddeo,,Nutmeg State Games Masters' Swim Meet,2017,1,09ZCJ
+CONN,200 Y Butterfly,SCY,W,35-39,3:39.34,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2,085V8
+CONN,100 Y Individual Medley,SCY,W,35-39,1:17.28,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,100 Y Individual Medley,SCY,W,35-39,1:22.33,Lindsay S Breekland,,32nd Annual Groundhog Meet,2017,2,02E48
+CONN,100 Y Individual Medley,SCY,W,35-39,1:32.37,Robyn DeMarco,,2017 NE LMSC SCY Championships,2017,3,085V8
+CONN,200 Y Individual Medley,SCY,W,35-39,2:49.64,Marta A Taddeo,,32nd Annual Groundhog Meet,2017,1,09ZCJ
+CONN,200 Y Individual Medley,SCY,W,35-39,3:28.23,Robyn DeMarco,,Connecticut Masters' Games Swim Meet,2017,2,085V8
+CONN,400 Y Individual Medley,SCY,W,35-39,6:02.27,Marta A Taddeo,,2017 YMCA Masters Nationals,2017,1,09ZCJ
+CONN,400 Y Individual Medley,SCY,W,35-39,7:19.50,Robyn DeMarco,,Nutmeg State Games Masters' Swim Meet,2017,2,085V8
+CONN,50 Y Freestyle,SCY,W,40-44,26.92,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,1,0AX2H
+CONN,50 Y Freestyle,SCY,W,40-44,28.16,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,09M1K
+CONN,50 Y Freestyle,SCY,W,40-44,32.76,Christine A Matarese,,Connecticut Masters' Games Swim Meet,2017,3,09VXG
+CONN,50 Y Freestyle,SCY,W,40-44,42.38,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,4,09KHZ
+CONN,100 Y Freestyle,SCY,W,40-44,58.30,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,1,0AX2H
+CONN,100 Y Freestyle,SCY,W,40-44,1:17.56,Ally Sega,,2017 NE LMSC SCY Championships,2017,2,01SHH
+CONN,100 Y Freestyle,SCY,W,40-44,1:39.52,Laura A Campbell,,32nd Annual Groundhog Meet,2017,3,09KHZ
+CONN,200 Y Freestyle,SCY,W,40-44,2:09.87,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,1,0AX2H
+CONN,200 Y Freestyle,SCY,W,40-44,2:42.44,Christine A Matarese,,Connecticut Masters' Games Swim Meet,2017,2,09VXG
+CONN,200 Y Freestyle,SCY,W,40-44,2:48.86,Ally Sega,,2017 NE LMSC SCY Championships,2017,3,01SHH
+CONN,200 Y Freestyle,SCY,W,40-44,3:28.77,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,4,09KHZ
+CONN,500 Y Freestyle,SCY,W,40-44,7:30.24,Ally Sega,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,01SHH
+CONN,500 Y Freestyle,SCY,W,40-44,9:40.70,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,2,09KHZ
+CONN,1000 Y Freestyle,SCY,W,40-44,15:17.96,Ally Sega,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,01SHH
+CONN,1650 Y Freestyle,SCY,W,40-44,27:32.24,Ally Sega,,2017 Adirondack District Masters Championships,2017,1,01SHH
+CONN,1650 Y Freestyle,SCY,W,40-44,32:23.18,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,2,09KHZ
+CONN,50 Y Backstroke,SCY,W,40-44,30.94,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,09M1K
+CONN,50 Y Backstroke,SCY,W,40-44,51.63,Laura A Campbell,,32nd Annual Groundhog Meet,2017,2,09KHZ
+CONN,100 Y Backstroke,SCY,W,40-44,1:08.97,Brenda J Glidden,,32nd Annual Groundhog Meet,2017,1,09M1K
+CONN,200 Y Backstroke,SCY,W,40-44,2:19.26,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,09M1K
+CONN,200 Y Backstroke,SCY,W,40-44,3:18.07,Christine A Matarese,,Nutmeg State Games Masters' Swim Meet,2017,2,09VXG
+CONN,200 Y Backstroke,SCY,W,40-44,3:26.00,Ally Sega,,2017 NE LMSC SCY Championships,2017,3,01SHH
+CONN,50 Y Breaststroke,SCY,W,40-44,37.08,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,1,09VXG
+CONN,100 Y Breaststroke,SCY,W,40-44,1:22.30,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,1,09VXG
+CONN,100 Y Breaststroke,SCY,W,40-44,1:47.17,Ally Sega,,32nd Annual Groundhog Meet,2017,2,01SHH
+CONN,200 Y Breaststroke,SCY,W,40-44,2:58.73,Christine A Matarese,,Nutmeg State Games Masters' Swim Meet,2017,1,09VXG
+CONN,200 Y Breaststroke,SCY,W,40-44,3:36.27,Ally Sega,,2017 NE LMSC SCY Championships,2017,2,01SHH
+CONN,50 Y Butterfly,SCY,W,40-44,37.76,Christine A Matarese,,Connecticut Masters' Games Swim Meet,2017,1,09VXG
+CONN,50 Y Butterfly,SCY,W,40-44,42.04,Ally Sega,,2017 Adirondack District Masters Championships,2017,2,01SHH
+CONN,50 Y Butterfly,SCY,W,40-44,52.93,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,3,09KHZ
+CONN,100 Y Butterfly,SCY,W,40-44,1:27.51,Ally Sega,,2017 NE LMSC SCY Championships,2017,1,01SHH
+CONN,100 Y Butterfly,SCY,W,40-44,2:00.40,Laura A Campbell,,2017 NE LMSC SCY Championships,2017,2,09KHZ
+CONN,200 Y Butterfly,SCY,W,40-44,3:11.99,Ally Sega,,2017 NE LMSC SCY Championships,2017,1,01SHH
+CONN,100 Y Individual Medley,SCY,W,40-44,1:07.06,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,09M1K
+CONN,100 Y Individual Medley,SCY,W,40-44,1:08.34,Sarah R Vale,,Connecticut Masters' Games Swim Meet,2017,2,0AX2H
+CONN,100 Y Individual Medley,SCY,W,40-44,1:17.23,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,3,09VXG
+CONN,100 Y Individual Medley,SCY,W,40-44,1:32.83,Ally Sega,,32nd Annual Groundhog Meet,2017,4,01SHH
+CONN,200 Y Individual Medley,SCY,W,40-44,2:24.62,Brenda J Glidden,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,09M1K
+CONN,200 Y Individual Medley,SCY,W,40-44,2:53.01,Christine A Matarese,,2017 NE LMSC SCY Championships,2017,2,09VXG
+CONN,200 Y Individual Medley,SCY,W,40-44,3:13.58,Ally Sega,,2017 NE LMSC SCY Championships,2017,3,01SHH
+CONN,400 Y Individual Medley,SCY,W,40-44,6:52.79,Ally Sega,,2017 NE LMSC SCY Championships,2017,1,01SHH
+CONN,100 Y Freestyle,SCY,W,45-49,1:00.27,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,07NG5
+CONN,100 Y Freestyle,SCY,W,45-49,1:01.01,Jennifer Fredricks,,32nd Annual Groundhog Meet,2017,2,003NP
+CONN,100 Y Freestyle,SCY,W,45-49,1:05.68,Christie M Anbar,,32nd Annual Groundhog Meet,2017,3,06TER
+CONN,100 Y Freestyle,SCY,W,45-49,1:08.35,Renee Cortland,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,4,RC0RT
+CONN,200 Y Freestyle,SCY,W,45-49,2:10.00,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,07NG5
+CONN,200 Y Freestyle,SCY,W,45-49,2:12.13,Jennifer Fredricks,,32nd Annual Groundhog Meet,2017,2,003NP
+CONN,200 Y Freestyle,SCY,W,45-49,2:24.01,Christie M Anbar,,32nd Annual Groundhog Meet,2017,3,06TER
+CONN,500 Y Freestyle,SCY,W,45-49,5:52.85,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,07NG5
+CONN,1000 Y Freestyle,SCY,W,45-49,12:08.89,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,07NG5
+CONN,1650 Y Freestyle,SCY,W,45-49,20:13.08,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,07NG5
+CONN,50 Y Backstroke,SCY,W,45-49,32.83,Ashley C Olson,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,07NG5
+CONN,50 Y Backstroke,SCY,W,45-49,35.11,Christie M Anbar,,32nd Annual Groundhog Meet,2017,2,06TER
+CONN,100 Y Backstroke,SCY,W,45-49,1:15.38,Ashley C Olson,,32nd Annual Groundhog Meet,2017,1,07NG5
+CONN,100 Y Backstroke,SCY,W,45-49,1:15.90,Christie M Anbar,,32nd Annual Groundhog Meet,2017,2,06TER
+CONN,200 Y Backstroke,SCY,W,45-49,2:35.55,Ashley C Olson,,32nd Annual Groundhog Meet,2017,1,07NG5
+CONN,100 Y Breaststroke,SCY,W,45-49,1:22.66,Renee Cortland,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,RC0RT
+CONN,200 Y Breaststroke,SCY,W,45-49,2:59.00,Renee Cortland,,32nd Annual Groundhog Meet,2017,1,RC0RT
+CONN,100 Y Individual Medley,SCY,W,45-49,1:20.55,Renee Cortland,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,RC0RT
+CONN,200 Y Individual Medley,SCY,W,45-49,2:56.63,Renee Cortland,,32nd Annual Groundhog Meet,2017,1,RC0RT
+CONN,50 Y Freestyle,SCY,W,50-54,28.36,Tracy Phillips,,2017 YMCA Masters Nationals,2017,1,07P06
+CONN,50 Y Freestyle,SCY,W,50-54,28.57,Denise Callahan,,32nd Annual Groundhog Meet,2017,2,07DMG
+CONN,50 Y Freestyle,SCY,W,50-54,36.08,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,3,01SHR
+CONN,100 Y Freestyle,SCY,W,50-54,1:12.68,Cheryl S Edison,,Connecticut Masters' Games Swim Meet,2017,1,0AGMX
+CONN,200 Y Freestyle,SCY,W,50-54,2:28.32,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,1,01SD7
+CONN,200 Y Freestyle,SCY,W,50-54,2:38.02,Cheryl S Edison,,Connecticut Masters' Games Swim Meet,2017,2,0AGMX
+CONN,500 Y Freestyle,SCY,W,50-54,7:41.17,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,1,01SF1
+CONN,50 Y Backstroke,SCY,W,50-54,51.45,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,1,01SHR
+CONN,100 Y Backstroke,SCY,W,50-54,1:29.52,Cheryl S Edison,,Connecticut Masters' Games Swim Meet,2017,1,0AGMX
+CONN,200 Y Backstroke,SCY,W,50-54,2:44.66,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,1,01SD7
+CONN,50 Y Breaststroke,SCY,W,50-54,45.50,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,1,01SHR
+CONN,50 Y Breaststroke,SCY,W,50-54,50.24,Lisa L Brailey,,32nd Annual Groundhog Meet,2017,2,09AJ7
+CONN,100 Y Breaststroke,SCY,W,50-54,1:43.41,Carolyn Daniels,,2017 NE LMSC SCY Championships,2017,1,01SHR
+CONN,100 Y Breaststroke,SCY,W,50-54,1:48.84,Lisa L Brailey,,32nd Annual Groundhog Meet,2017,2,09AJ7
+CONN,200 Y Breaststroke,SCY,W,50-54,3:40.30,Carolyn Daniels,,32nd Annual Groundhog Meet,2017,1,01SHR
+CONN,200 Y Breaststroke,SCY,W,50-54,3:58.05,Lisa L Brailey,,32nd Annual Groundhog Meet,2017,2,09AJ7
+CONN,50 Y Butterfly,SCY,W,50-54,32.28,Tracy Phillips,,2017 YMCA Masters Nationals,2017,1,07P06
+CONN,50 Y Butterfly,SCY,W,50-54,49.40,Carolyn Daniels,,Nutmeg State Games Masters' Swim Meet,2017,2,01SHR
+CONN,100 Y Butterfly,SCY,W,50-54,1:13.33,Denise Callahan,,32nd Annual Groundhog Meet,2017,1,07DMG
+CONN,100 Y Butterfly,SCY,W,50-54,1:16.64,Tracy Phillips,,2017 YMCA Masters Nationals,2017,2,07P06
+CONN,100 Y Butterfly,SCY,W,50-54,1:20.51,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,3,01SD7
+CONN,100 Y Butterfly,SCY,W,50-54,1:29.84,Cheryl S Edison,,32nd Annual Groundhog Meet,2017,4,0AGMX
+CONN,100 Y Butterfly,SCY,W,50-54,1:31.44,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,5,01SF1
+CONN,200 Y Butterfly,SCY,W,50-54,3:15.86,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,1,01SF1
+CONN,100 Y Individual Medley,SCY,W,50-54,1:17.39,Linda K Lepeak,,Connecticut Masters' Games Swim Meet,2017,1,01SD7
+CONN,100 Y Individual Medley,SCY,W,50-54,1:25.45,Cheryl S Edison,,32nd Annual Groundhog Meet,2017,2,0AGMX
+CONN,100 Y Individual Medley,SCY,W,50-54,1:43.27,Carolyn Daniels,,2017 NE LMSC SCY Championships,2017,3,01SHR
+CONN,200 Y Individual Medley,SCY,W,50-54,3:04.12,Gretchen N Wierdsma,,Connecticut Masters' Games Swim Meet,2017,1,01SF1
+CONN,200 Y Individual Medley,SCY,W,50-54,3:43.80,Carolyn Daniels,,32nd Annual Groundhog Meet,2017,2,01SHR
+CONN,50 Y Freestyle,SCY,W,55-59,28.03,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,05FKA
+CONN,50 Y Freestyle,SCY,W,55-59,28.19,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,2,01SCC
+CONN,50 Y Freestyle,SCY,W,55-59,40.24,Maryanne M Boyen,,32nd Annual Groundhog Meet,2017,3,0ANG6
+CONN,100 Y Freestyle,SCY,W,55-59,1:00.30,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,05FKA
+CONN,100 Y Freestyle,SCY,W,55-59,1:11.25,Colleen M Brandon,,2017 YMCA Masters Nationals,2017,2,0633R
+CONN,200 Y Freestyle,SCY,W,55-59,2:12.73,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1,01SCC
+CONN,200 Y Freestyle,SCY,W,55-59,2:14.24,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,05FKA
+CONN,500 Y Freestyle,SCY,W,55-59,9:01.63,Maryanne M Boyen,,32nd Annual Groundhog Meet,2017,1,0ANG6
+CONN,50 Y Backstroke,SCY,W,55-59,31.44,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1,01SCC
+CONN,50 Y Backstroke,SCY,W,55-59,39.85,Ellen Lang,,2017 YMCA Masters Nationals,2017,2,0AWJX
+CONN,100 Y Backstroke,SCY,W,55-59,1:07.75,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1,01SCC
+CONN,100 Y Backstroke,SCY,W,55-59,1:27.78,Ellen Lang,,2017 YMCA Masters Nationals,2017,2,0AWJX
+CONN,200 Y Backstroke,SCY,W,55-59,2:27.63,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1,01SCC
+CONN,50 Y Breaststroke,SCY,W,55-59,43.01,Ellen Lang,,2017 YMCA Masters Nationals,2017,1,0AWJX
+CONN,100 Y Breaststroke,SCY,W,55-59,1:35.22,Ellen Lang,,2017 YMCA Masters Nationals,2017,1,0AWJX
+CONN,50 Y Butterfly,SCY,W,55-59,31.19,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1,01SCC
+CONN,50 Y Butterfly,SCY,W,55-59,36.73,Colleen M Brandon,,2017 YMCA Masters Nationals,2017,2,0633R
+CONN,100 Y Individual Medley,SCY,W,55-59,1:11.87,Sheila M Stolarski,,2017 YMCA Masters Nationals,2017,1,01SCC
+CONN,100 Y Individual Medley,SCY,W,55-59,1:11.93,Pam Henry Moss,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,05FKA
+CONN,100 Y Individual Medley,SCY,W,55-59,1:20.47,Colleen M Brandon,,2017 YMCA Masters Nationals,2017,3,0633R
+CONN,100 Y Individual Medley,SCY,W,55-59,1:24.59,Ellen Lang,,2017 YMCA Masters Nationals,2017,4,0AWJX
+CONN,50 Y Freestyle,SCY,W,60-64,55.95,Elaine B Guardino,,Connecticut Masters' Games Swim Meet,2017,1,0A8TS
+CONN,50 Y Breaststroke,SCY,W,60-64,1:14.84,Elaine B Guardino,,Connecticut Masters' Games Swim Meet,2017,1,0A8TS
+CONN,50 Y Freestyle,SCY,W,70-74,53.50,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1,01SB7
+CONN,100 Y Freestyle,SCY,W,70-74,2:07.74,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1,01SB7
+CONN,200 Y Freestyle,SCY,W,70-74,4:13.53,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1,01SB7
+CONN,100 Y Backstroke,SCY,W,70-74,2:41.58,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1,01SB7
+CONN,200 Y Backstroke,SCY,W,70-74,5:32.68,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1,01SB7
+CONN,100 Y Individual Medley,SCY,W,70-74,2:28.26,Ann Louise Onton,,Connecticut Masters' Games Swim Meet,2017,1,01SB7
+CONN,50 Y Freestyle,SCY,M,18-24,23.48,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1,0AP3B
+CONN,50 Y Freestyle,SCY,M,18-24,26.11,William H Gerard,,32nd Annual Groundhog Meet,2017,2,0A6F5
+CONN,100 Y Freestyle,SCY,M,18-24,52.45,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1,0AP3B
+CONN,100 Y Freestyle,SCY,M,18-24,56.99,William H Gerard,,2017 NE LMSC SCY Championships,2017,2,0A6F5
+CONN,200 Y Freestyle,SCY,M,18-24,2:02.12,William H Gerard,,2017 NE LMSC SCY Championships,2017,1,0A6F5
+CONN,500 Y Freestyle,SCY,M,18-24,5:28.76,William H Gerard,,2017 NE LMSC SCY Championships,2017,1,0A6F5
+CONN,1000 Y Freestyle,SCY,M,18-24,11:27.80,William H Gerard,,2017 Adirondack District Masters Championships,2017,1,0A6F5
+CONN,1650 Y Freestyle,SCY,M,18-24,19:08.36,William H Gerard,,2017 NE LMSC SCY Championships,2017,1,0A6F5
+CONN,50 Y Backstroke,SCY,M,18-24,29.42,William H Gerard,,2017 NE LMSC SCY Championships,2017,1,0A6F5
+CONN,100 Y Backstroke,SCY,M,18-24,1:07.08,William H Gerard,,Nutmeg State Games Masters' Swim Meet,2017,1,0A6F5
+CONN,50 Y Breaststroke,SCY,M,18-24,31.00,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1,0AP3B
+CONN,50 Y Butterfly,SCY,M,18-24,28.09,William H Gerard,,2017 NE LMSC SCY Championships,2017,1,0A6F5
+CONN,100 Y Individual Medley,SCY,M,18-24,1:01.73,Connor J McGuire,,Connecticut Masters' Games Swim Meet,2017,1,0AP3B
+CONN,50 Y Freestyle,SCY,M,25-29,24.14,Andrew Vogel,,32nd Annual Groundhog Meet,2017,1,084AG
+CONN,100 Y Freestyle,SCY,M,25-29,53.53,Andrew Vogel,,2017 NE LMSC SCY Championships,2017,1,084AG
+CONN,200 Y Freestyle,SCY,M,25-29,2:03.32,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,1,0A6F5
+CONN,500 Y Freestyle,SCY,M,25-29,5:31.35,Andrew Vogel,,2017 NE LMSC SCY Championships,2017,1,084AG
+CONN,500 Y Freestyle,SCY,M,25-29,5:32.17,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,2,0A6F5
+CONN,200 Y Backstroke,SCY,M,25-29,2:21.38,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,1,0A6F5
+CONN,50 Y Butterfly,SCY,M,25-29,28.30,William H Gerard,,Connecticut Masters' Games Swim Meet,2017,1,0A6F5
+CONN,200 Y Individual Medley,SCY,M,25-29,2:20.11,Andrew Vogel,,2017 NE LMSC SCY Championships,2017,1,084AG
+CONN,50 Y Freestyle,SCY,M,30-34,25.90,Gregory R Matzkevich,,2017 NE LMSC SCY Championships,2017,1,01SP7
+CONN,100 Y Freestyle,SCY,M,30-34,52.11,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1,087J1
+CONN,100 Y Freestyle,SCY,M,30-34,58.25,Gregory R Matzkevich,,2017 NE LMSC SCY Championships,2017,2,01SP7
+CONN,100 Y Freestyle,SCY,M,30-34,1:00.55,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,3,01SNZ
+CONN,200 Y Freestyle,SCY,M,30-34,2:09.15,Robert E Duguay,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,01SNZ
+CONN,500 Y Freestyle,SCY,M,30-34,5:42.29,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,1000 Y Freestyle,SCY,M,30-34,12:04.57,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,1650 Y Freestyle,SCY,M,30-34,20:01.96,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,50 Y Backstroke,SCY,M,30-34,40.06,Robert E Duguay,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,01SNZ
+CONN,200 Y Backstroke,SCY,M,30-34,2:46.38,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,50 Y Breaststroke,SCY,M,30-34,32.40,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1,087J1
+CONN,50 Y Breaststroke,SCY,M,30-34,34.17,Gregory R Matzkevich,,Connecticut Masters' Games Swim Meet,2017,2,01SP7
+CONN,50 Y Breaststroke,SCY,M,30-34,39.64,Robert E Duguay,,32nd Annual Groundhog Meet,2017,3,01SNZ
+CONN,100 Y Breaststroke,SCY,M,30-34,1:21.01,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,200 Y Breaststroke,SCY,M,30-34,2:55.52,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,50 Y Butterfly,SCY,M,30-34,25.61,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1,087J1
+CONN,50 Y Butterfly,SCY,M,30-34,27.76,Gregory R Matzkevich,,2017 NE LMSC SCY Championships,2017,2,01SP7
+CONN,50 Y Butterfly,SCY,M,30-34,27.76,Ray Savner,,2017 NE LMSC SCY Championships,2017,3,087HR
+CONN,50 Y Butterfly,SCY,M,30-34,34.02,Robert E Duguay,,Connecticut Masters' Games Swim Meet,2017,4,01SNZ
+CONN,100 Y Individual Medley,SCY,M,30-34,1:01.01,Alexei Bachuretz,,2017 NE LMSC SCY Championships,2017,1,087J1
+CONN,100 Y Individual Medley,SCY,M,30-34,1:14.00,Gregory R Matzkevich,,Connecticut Masters' Games Swim Meet,2017,2,01SP7
+CONN,100 Y Individual Medley,SCY,M,30-34,1:14.47,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,3,01SNZ
+CONN,200 Y Individual Medley,SCY,M,30-34,2:34.75,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,400 Y Individual Medley,SCY,M,30-34,5:31.61,Robert E Duguay,,2017 NE LMSC SCY Championships,2017,1,01SNZ
+CONN,50 Y Freestyle,SCY,M,35-39,25.00,James T Auxier,,2017 NE LMSC SCY Championships,2017,1,048RV
+CONN,50 Y Freestyle,SCY,M,35-39,25.03,Patrick Bates,,32nd Annual Groundhog Meet,2017,2,0AN6T
+CONN,50 Y Freestyle,SCY,M,35-39,25.90,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,3,06J6G
+CONN,100 Y Freestyle,SCY,M,35-39,51.64,Jeremy C Virgil,,32nd Annual Groundhog Meet,2017,1,01SPC
+CONN,100 Y Freestyle,SCY,M,35-39,54.53,Patrick Bates,,32nd Annual Groundhog Meet,2017,2,0AN6T
+CONN,200 Y Freestyle,SCY,M,35-39,1:50.69,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1,01SPC
+CONN,200 Y Freestyle,SCY,M,35-39,1:58.28,James T Auxier,,2017 NE LMSC SCY Championships,2017,2,048RV
+CONN,200 Y Freestyle,SCY,M,35-39,2:05.58,Patrick Bates,,32nd Annual Groundhog Meet,2017,3,0AN6T
+CONN,500 Y Freestyle,SCY,M,35-39,5:00.77,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1,01SPC
+CONN,500 Y Freestyle,SCY,M,35-39,6:24.70,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,2,06J6G
+CONN,1000 Y Freestyle,SCY,M,35-39,10:20.69,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1,01SPC
+CONN,1650 Y Freestyle,SCY,M,35-39,17:22.19,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1,01SPC
+CONN,100 Y Backstroke,SCY,M,35-39,1:04.80,Patrick Bates,,32nd Annual Groundhog Meet,2017,1,0AN6T
+CONN,200 Y Backstroke,SCY,M,35-39,2:06.44,James T Auxier,,2017 NE LMSC SCY Championships,2017,1,048RV
+CONN,200 Y Backstroke,SCY,M,35-39,2:34.78,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,2,06J6G
+CONN,50 Y Butterfly,SCY,M,35-39,29.73,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,1,06J6G
+CONN,100 Y Butterfly,SCY,M,35-39,56.08,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1,01SPC
+CONN,200 Y Butterfly,SCY,M,35-39,2:03.48,Jeremy C Virgil,,2017 SC Senior Open Championships,2017,1,01SPC
+CONN,100 Y Individual Medley,SCY,M,35-39,1:07.43,Patrick Bates,,32nd Annual Groundhog Meet,2017,1,0AN6T
+CONN,200 Y Individual Medley,SCY,M,35-39,2:39.52,Matthew S Mehlhaff,,32nd Annual Groundhog Meet,2017,1,06J6G
+CONN,50 Y Freestyle,SCY,M,40-44,25.66,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,1,09JRV
+CONN,50 Y Freestyle,SCY,M,40-44,29.56,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,2,09KGB
+CONN,100 Y Freestyle,SCY,M,40-44,52.93,Alexander E Lunding,,2017 Pacific Masters Short Course Yards Championships,2017,1,09J1P
+CONN,100 Y Freestyle,SCY,M,40-44,59.13,Erik Higgens,,32nd Annual Groundhog Meet,2017,2,09JRV
+CONN,100 Y Freestyle,SCY,M,40-44,1:08.40,Matthew C Parkhouse,,Connecticut Masters' Games Swim Meet,2017,3,09KGB
+CONN,200 Y Freestyle,SCY,M,40-44,1:58.29,Alexander E Lunding,,2017 NE LMSC SCY Championships,2017,1,09J1P
+CONN,200 Y Freestyle,SCY,M,40-44,2:25.42,Erik Higgens,,Connecticut Masters' Games Swim Meet,2017,2,09JRV
+CONN,50 Y Backstroke,SCY,M,40-44,31.67,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,1,09JRV
+CONN,50 Y Backstroke,SCY,M,40-44,40.28,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,2,09KGB
+CONN,100 Y Backstroke,SCY,M,40-44,1:30.55,Matthew C Parkhouse,,Connecticut Masters' Games Swim Meet,2017,1,09KGB
+CONN,200 Y Backstroke,SCY,M,40-44,2:40.13,Erik Higgens,,32nd Annual Groundhog Meet,2017,1,09JRV
+CONN,50 Y Breaststroke,SCY,M,40-44,36.16,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,1,09JRV
+CONN,50 Y Breaststroke,SCY,M,40-44,38.51,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,2,09KGB
+CONN,50 Y Butterfly,SCY,M,40-44,27.52,Alexander E Lunding,,2017 NE LMSC SCY Championships,2017,1,09J1P
+CONN,50 Y Butterfly,SCY,M,40-44,29.31,Erik Higgens,,Nutmeg State Games Masters' Swim Meet,2017,2,09JRV
+CONN,50 Y Butterfly,SCY,M,40-44,34.62,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,3,09KGB
+CONN,100 Y Butterfly,SCY,M,40-44,1:16.66,Erik Higgens,,32nd Annual Groundhog Meet,2017,1,09JRV
+CONN,100 Y Individual Medley,SCY,M,40-44,1:02.57,Alexander E Lunding,,Connecticut Masters' Games Swim Meet,2017,1,09J1P
+CONN,100 Y Individual Medley,SCY,M,40-44,1:12.40,Erik Higgens,,Connecticut Masters' Games Swim Meet,2017,2,09JRV
+CONN,100 Y Individual Medley,SCY,M,40-44,1:21.76,Matthew C Parkhouse,,Nutmeg State Games Masters' Swim Meet,2017,3,09KGB
+CONN,50 Y Freestyle,SCY,M,45-49,27.66,Chuck Sala,,32nd Annual Groundhog Meet,2017,1,085KF
+CONN,50 Y Freestyle,SCY,M,45-49,28.00,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,2,01SSS
+CONN,100 Y Freestyle,SCY,M,45-49,1:07.11,Peter D Sheldrick,,32nd Annual Groundhog Meet,2017,1,09KJF
+CONN,200 Y Freestyle,SCY,M,45-49,1:52.69,Stephen G Akers,,Connecticut Masters' Games Swim Meet,2017,1,07PPS
+CONN,200 Y Freestyle,SCY,M,45-49,2:13.54,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,2,01SSS
+CONN,500 Y Freestyle,SCY,M,45-49,5:05.02,Stephen G Akers,,32nd Annual Groundhog Meet,2017,1,07PPS
+CONN,100 Y Backstroke,SCY,M,45-49,1:27.55,Peter D Sheldrick,,32nd Annual Groundhog Meet,2017,1,09KJF
+CONN,50 Y Breaststroke,SCY,M,45-49,35.41,Chuck Sala,,32nd Annual Groundhog Meet,2017,1,085KF
+CONN,100 Y Breaststroke,SCY,M,45-49,1:16.48,Chuck Sala,,32nd Annual Groundhog Meet,2017,1,085KF
+CONN,100 Y Breaststroke,SCY,M,45-49,1:17.29,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,2,01SSS
+CONN,200 Y Breaststroke,SCY,M,45-49,2:53.81,Chuck Sala,,32nd Annual Groundhog Meet,2017,1,085KF
+CONN,100 Y Butterfly,SCY,M,45-49,1:00.77,Stephen G Akers,,32nd Annual Groundhog Meet,2017,1,07PPS
+CONN,100 Y Individual Medley,SCY,M,45-49,1:11.06,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,1,01SSS
+CONN,400 Y Individual Medley,SCY,M,45-49,5:38.39,Joseph H Kaufman,,32nd Annual Groundhog Meet,2017,1,01SSS
+CONN,50 Y Freestyle,SCY,M,50-54,23.06,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1,05J3H
+CONN,50 Y Freestyle,SCY,M,50-54,24.06,Andy Reul,,2017 YMCA Masters Nationals,2017,2,0253A
+CONN,50 Y Freestyle,SCY,M,50-54,24.39,David Louden,,32nd Annual Groundhog Meet,2017,3,07Z8M
+CONN,50 Y Freestyle,SCY,M,50-54,25.45,Gregory O Sargent,,32nd Annual Groundhog Meet,2017,4,004S3
+CONN,50 Y Freestyle,SCY,M,50-54,27.40,Thomas O Merritt,,32nd Annual Groundhog Meet,2017,5,0AUF4
+CONN,50 Y Freestyle,SCY,M,50-54,28.13,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,6,042HN
+CONN,50 Y Freestyle,SCY,M,50-54,28.96,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,7,01SFU
+CONN,50 Y Freestyle,SCY,M,50-54,34.73,Jerold Kochman,,32nd Annual Groundhog Meet,2017,8,08092
+CONN,100 Y Freestyle,SCY,M,50-54,52.45,Andy Reul,,2017 YMCA Masters Nationals,2017,1,0253A
+CONN,100 Y Freestyle,SCY,M,50-54,1:00.41,Thomas O Merritt,,32nd Annual Groundhog Meet,2017,2,0AUF4
+CONN,100 Y Freestyle,SCY,M,50-54,1:02.09,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,3,042HN
+CONN,100 Y Freestyle,SCY,M,50-54,1:22.38,Jerold Kochman,,32nd Annual Groundhog Meet,2017,4,08092
+CONN,200 Y Freestyle,SCY,M,50-54,1:52.25,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1,05J3H
+CONN,200 Y Freestyle,SCY,M,50-54,1:54.27,Andy Reul,,2017 YMCA Masters Nationals,2017,2,0253A
+CONN,200 Y Freestyle,SCY,M,50-54,1:56.03,David Louden,,32nd Annual Groundhog Meet,2017,3,07Z8M
+CONN,200 Y Freestyle,SCY,M,50-54,2:09.40,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,4,09D4Y
+CONN,200 Y Freestyle,SCY,M,50-54,2:28.29,Michael C Wertheimer,,Connecticut Masters' Games Swim Meet,2017,5,035Z4
+CONN,500 Y Freestyle,SCY,M,50-54,5:11.34,Andy Reul,,2017 YMCA Masters Nationals,2017,1,0253A
+CONN,500 Y Freestyle,SCY,M,50-54,5:56.29,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,2,09D4Y
+CONN,1000 Y Freestyle,SCY,M,50-54,10:45.09,Andy Reul,,2017 YMCA Masters Nationals,2017,1,0253A
+CONN,1650 Y Freestyle,SCY,M,50-54,19:34.59,Andy Reul,,2017 YMCA Masters Nationals,2017,1,0253A
+CONN,50 Y Backstroke,SCY,M,50-54,28.12,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1,01STS
+CONN,50 Y Backstroke,SCY,M,50-54,43.71,Jerold Kochman,,32nd Annual Groundhog Meet,2017,2,08092
+CONN,100 Y Backstroke,SCY,M,50-54,1:01.54,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1,01STS
+CONN,100 Y Backstroke,SCY,M,50-54,1:13.98,Benjamin W Wyckoff,,2017 NE LMSC SCY Championships,2017,2,09D4Y
+CONN,200 Y Backstroke,SCY,M,50-54,2:18.52,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1,01STS
+CONN,200 Y Backstroke,SCY,M,50-54,2:53.90,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,2,01SFU
+CONN,50 Y Breaststroke,SCY,M,50-54,30.62,Jeff Sargent,,2017 YMCA Masters Nationals,2017,1,01STS
+CONN,50 Y Breaststroke,SCY,M,50-54,31.51,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,09D4Y
+CONN,50 Y Breaststroke,SCY,M,50-54,36.58,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,3,042HN
+CONN,50 Y Breaststroke,SCY,M,50-54,39.21,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,4,01SFU
+CONN,100 Y Breaststroke,SCY,M,50-54,1:03.51,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1,05J3H
+CONN,100 Y Breaststroke,SCY,M,50-54,1:09.17,Jeff Sargent,,2017 YMCA Masters Nationals,2017,2,01STS
+CONN,100 Y Breaststroke,SCY,M,50-54,1:09.29,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,3,09D4Y
+CONN,100 Y Breaststroke,SCY,M,50-54,1:18.22,Eduardo Fernandez-Duque,,2017 NE LMSC SCY Championships,2017,4,042HN
+CONN,200 Y Breaststroke,SCY,M,50-54,2:20.07,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1,05J3H
+CONN,200 Y Breaststroke,SCY,M,50-54,2:38.08,Benjamin W Wyckoff,,32nd Annual Groundhog Meet,2017,2,09D4Y
+CONN,50 Y Butterfly,SCY,M,50-54,26.23,Gregory O Sargent,,2017 YMCA Masters Nationals,2017,1,004S3
+CONN,50 Y Butterfly,SCY,M,50-54,26.68,Matthew H Gordon,,32nd Annual Groundhog Meet,2017,2,093W3
+CONN,50 Y Butterfly,SCY,M,50-54,26.97,Jeff Sargent,,2017 YMCA Masters Nationals,2017,3,01STS
+CONN,50 Y Butterfly,SCY,M,50-54,27.28,Benjamin W Wyckoff,,Connecticut Masters' Games Swim Meet,2017,4,09D4Y
+CONN,50 Y Butterfly,SCY,M,50-54,31.11,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,5,01SFU
+CONN,50 Y Butterfly,SCY,M,50-54,32.15,Thomas O Merritt,,32nd Annual Groundhog Meet,2017,6,0AUF4
+CONN,100 Y Butterfly,SCY,M,50-54,1:00.25,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,09D4Y
+CONN,100 Y Butterfly,SCY,M,50-54,1:01.10,Gregory O Sargent,,32nd Annual Groundhog Meet,2017,2,004S3
+CONN,100 Y Individual Medley,SCY,M,50-54,57.66,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1,05J3H
+CONN,100 Y Individual Medley,SCY,M,50-54,1:01.78,Jeff Sargent,,2017 YMCA Masters Nationals,2017,2,01STS
+CONN,100 Y Individual Medley,SCY,M,50-54,1:02.75,David Louden,,32nd Annual Groundhog Meet,2017,3,07Z8M
+CONN,100 Y Individual Medley,SCY,M,50-54,1:04.67,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,4,09D4Y
+CONN,100 Y Individual Medley,SCY,M,50-54,1:13.30,Anthony J Palluzzi,,32nd Annual Groundhog Meet,2017,5,01SFU
+CONN,200 Y Individual Medley,SCY,M,50-54,2:07.75,Myles G Lynch,,2017 YMCA Masters Nationals,2017,1,05J3H
+CONN,200 Y Individual Medley,SCY,M,50-54,2:24.75,Benjamin W Wyckoff,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,09D4Y
+CONN,400 Y Individual Medley,SCY,M,50-54,4:38.29,Gregory O Sargent,,2017 YMCA Masters Nationals,2017,1,004S3
+CONN,400 Y Individual Medley,SCY,M,50-54,5:18.91,Benjamin W Wyckoff,,Nutmeg State Games Masters' Swim Meet,2017,2,09D4Y
+CONN,50 Y Freestyle,SCY,M,55-59,25.18,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,50 Y Freestyle,SCY,M,55-59,25.34,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,0AWM1
+CONN,50 Y Freestyle,SCY,M,55-59,25.50,George Hebner,,2017 YMCA Masters Nationals,2017,3,01SP6
+CONN,50 Y Freestyle,SCY,M,55-59,27.47,Charles Shapiro,,2017 NE LMSC SCY Championships,2017,4,0AJ86
+CONN,50 Y Freestyle,SCY,M,55-59,28.06,Chris Thompson,,32nd Annual Groundhog Meet,2017,5,06K7J
+CONN,50 Y Freestyle,SCY,M,55-59,29.11,Peter Canning,,2017 NE LMSC SCY Championships,2017,6,092WD
+CONN,50 Y Freestyle,SCY,M,55-59,29.34,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,7,092CT
+CONN,100 Y Freestyle,SCY,M,55-59,55.83,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,100 Y Freestyle,SCY,M,55-59,56.64,George Hebner,,32nd Annual Groundhog Meet,2017,2,01SP6
+CONN,100 Y Freestyle,SCY,M,55-59,56.82,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,3,0AWM1
+CONN,100 Y Freestyle,SCY,M,55-59,1:01.78,Chris Thompson,,32nd Annual Groundhog Meet,2017,4,06K7J
+CONN,100 Y Freestyle,SCY,M,55-59,1:10.84,Peter Canning,,Nutmeg State Games Masters' Swim Meet,2017,5,092WD
+CONN,200 Y Freestyle,SCY,M,55-59,2:05.95,George Hebner,,2017 YMCA Masters Nationals,2017,1,01SP6
+CONN,500 Y Freestyle,SCY,M,55-59,5:42.58,Jeffrey S Stuart,,Boston LANES Tea Party Swim Meet (TP7),2017,1,003NJ
+CONN,50 Y Backstroke,SCY,M,55-59,28.99,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,50 Y Backstroke,SCY,M,55-59,37.92,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,2,092CT
+CONN,50 Y Backstroke,SCY,M,55-59,40.08,Peter Canning,,2017 NE LMSC SCY Championships,2017,3,092WD
+CONN,100 Y Backstroke,SCY,M,55-59,1:02.32,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,100 Y Backstroke,SCY,M,55-59,1:07.09,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,2,0AA2E
+CONN,100 Y Backstroke,SCY,M,55-59,1:41.35,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,3,092WD
+CONN,200 Y Backstroke,SCY,M,55-59,2:16.88,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,200 Y Backstroke,SCY,M,55-59,2:31.25,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,2,0AA2E
+CONN,200 Y Backstroke,SCY,M,55-59,3:49.71,Peter Canning,,Connecticut Masters' Games Swim Meet,2017,3,092WD
+CONN,50 Y Breaststroke,SCY,M,55-59,34.99,Robert J Lamontagne,,2017 NE LMSC SCY Championships,2017,1,0AJ4Z
+CONN,50 Y Breaststroke,SCY,M,55-59,37.30,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,2,092CT
+CONN,50 Y Breaststroke,SCY,M,55-59,38.14,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,3,092WD
+CONN,100 Y Breaststroke,SCY,M,55-59,1:18.52,Robert J Lamontagne,,32nd Annual Groundhog Meet,2017,1,0AJ4Z
+CONN,100 Y Breaststroke,SCY,M,55-59,1:28.68,Peter Canning,,2017 NE LMSC SCY Championships,2017,2,092WD
+CONN,200 Y Breaststroke,SCY,M,55-59,2:50.92,Robert J Lamontagne,,2017 NE LMSC SCY Championships,2017,1,0AJ4Z
+CONN,200 Y Breaststroke,SCY,M,55-59,3:35.33,Peter Canning,,Connecticut Masters' Games Swim Meet,2017,2,092WD
+CONN,50 Y Butterfly,SCY,M,55-59,27.93,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,50 Y Butterfly,SCY,M,55-59,28.53,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,0AWM1
+CONN,50 Y Butterfly,SCY,M,55-59,31.06,Charles Shapiro,,2017 NE LMSC SCY Championships,2017,3,0AJ86
+CONN,50 Y Butterfly,SCY,M,55-59,32.39,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,4,092CT
+CONN,50 Y Butterfly,SCY,M,55-59,32.63,Chris Thompson,,32nd Annual Groundhog Meet,2017,5,06K7J
+CONN,100 Y Butterfly,SCY,M,55-59,1:43.78,Peter Canning,,Connecticut Masters' Games Swim Meet,2017,1,092WD
+CONN,100 Y Individual Medley,SCY,M,55-59,1:09.59,Thomas W Arenz,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,1,0AWM1
+CONN,100 Y Individual Medley,SCY,M,55-59,1:13.46,Charles Shapiro,,2017 NE LMSC SCY Championships,2017,2,0AJ86
+CONN,100 Y Individual Medley,SCY,M,55-59,1:18.02,Chris Thompson,,32nd Annual Groundhog Meet,2017,3,06K7J
+CONN,100 Y Individual Medley,SCY,M,55-59,1:25.57,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,4,092WD
+CONN,200 Y Individual Medley,SCY,M,55-59,2:28.86,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,1,0AA2E
+CONN,200 Y Individual Medley,SCY,M,55-59,2:47.95,Steven J Jaroszewski,,Key West Master Invitational  2016,2017,2,092CT
+CONN,200 Y Individual Medley,SCY,M,55-59,3:16.62,Peter Canning,,2017 NE LMSC SCY Championships,2017,3,092WD
+CONN,400 Y Individual Medley,SCY,M,55-59,5:01.11,Arthur Gunzl,,2017 NE LMSC SCY Championships,2017,1,074SN
+CONN,400 Y Individual Medley,SCY,M,55-59,5:22.32,Kevin J Hebner,,32nd Annual Groundhog Meet,2017,2,0AA2E
+CONN,400 Y Individual Medley,SCY,M,55-59,7:41.53,Peter Canning,,3rd Annual Snag Holmes Masters Invitational,2017,3,092WD
+CONN,50 Y Freestyle,SCY,M,60-64,26.28,Chris Thompson,,Connecticut Masters' Games Swim Meet,2017,1,06K7J
+CONN,50 Y Freestyle,SCY,M,60-64,26.68,Charles F Lang,,2017 YMCA Masters Nationals,2017,2,05RWM
+CONN,50 Y Freestyle,SCY,M,60-64,29.19,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,3,092CT
+CONN,50 Y Freestyle,SCY,M,60-64,33.43,Michael F Barry,,32nd Annual Groundhog Meet,2017,4,05V53
+CONN,100 Y Freestyle,SCY,M,60-64,58.14,Charles F Lang,,2017 YMCA Masters Nationals,2017,1,05RWM
+CONN,100 Y Freestyle,SCY,M,60-64,59.60,Chris Thompson,,Connecticut Masters' Games Swim Meet,2017,2,06K7J
+CONN,100 Y Freestyle,SCY,M,60-64,1:05.23,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,3,092CT
+CONN,200 Y Freestyle,SCY,M,60-64,2:10.69,Charles F Lang,,2017 YMCA Masters Nationals,2017,1,05RWM
+CONN,200 Y Freestyle,SCY,M,60-64,2:22.40,Steven J Jaroszewski,,SUNY New Paltz Masters Swim Meet,2017,2,092CT
+CONN,200 Y Freestyle,SCY,M,60-64,2:49.74,Michael F Barry,,32nd Annual Groundhog Meet,2017,3,05V53
+CONN,500 Y Freestyle,SCY,M,60-64,6:03.69,Charles F Lang,,2017 YMCA Masters Nationals,2017,1,05RWM
+CONN,500 Y Freestyle,SCY,M,60-64,6:36.42,Kevin T Hoffman,,2017 NE LMSC SCY Championships,2017,2,01S90
+CONN,1000 Y Freestyle,SCY,M,60-64,12:45.88,Charles F Lang,,2017 YMCA Masters Nationals,2017,1,05RWM
+CONN,50 Y Breaststroke,SCY,M,60-64,36.18,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1,092CT
+CONN,50 Y Breaststroke,SCY,M,60-64,42.93,Michael F Barry,,32nd Annual Groundhog Meet,2017,2,05V53
+CONN,100 Y Breaststroke,SCY,M,60-64,1:20.65,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1,092CT
+CONN,200 Y Breaststroke,SCY,M,60-64,3:01.62,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1,092CT
+CONN,50 Y Butterfly,SCY,M,60-64,33.15,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,1,092CT
+CONN,100 Y Butterfly,SCY,M,60-64,1:23.05,Steven J Jaroszewski,,SUNY New Paltz Masters Swim Meet,2017,1,092CT
+CONN,200 Y Butterfly,SCY,M,60-64,2:54.99,Kevin T Hoffman,,2017 NE LMSC SCY Championships,2017,1,01S90
+CONN,100 Y Individual Medley,SCY,M,60-64,1:14.75,Steven J Jaroszewski,,Connecticut Masters' Games Swim Meet,2017,1,092CT
+CONN,100 Y Individual Medley,SCY,M,60-64,1:19.61,Chris Thompson,,Connecticut Masters' Games Swim Meet,2017,2,06K7J
+CONN,100 Y Individual Medley,SCY,M,60-64,1:32.71,Michael F Barry,,32nd Annual Groundhog Meet,2017,3,05V53
+CONN,200 Y Individual Medley,SCY,M,60-64,2:46.45,Steven J Jaroszewski,,32nd Annual Groundhog Meet,2017,1,092CT
+CONN,50 Y Freestyle,SCY,M,65-69,36.89,Rick Spear,,Connecticut Masters' Games Swim Meet,2017,1,09U9U
+CONN,100 Y Freestyle,SCY,M,65-69,1:05.88,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1,01S82
+CONN,100 Y Freestyle,SCY,M,65-69,1:20.57,Rick Spear,,2017 NE LMSC SCY Championships,2017,2,09U9U
+CONN,200 Y Freestyle,SCY,M,65-69,2:48.99,Rick Spear,,2017 NE LMSC SCY Championships,2017,1,09U9U
+CONN,200 Y Freestyle,SCY,M,65-69,3:02.12,John Schwarten,,2017 YMCA Masters Nationals,2017,2,003PU
+CONN,500 Y Freestyle,SCY,M,65-69,8:11.97,John Schwarten,,2017 YMCA Masters Nationals,2017,1,003PU
+CONN,50 Y Backstroke,SCY,M,65-69,38.69,John Schwarten,,2017 YMCA Masters Nationals,2017,1,003PU
+CONN,100 Y Backstroke,SCY,M,65-69,1:21.42,William J Geoghegan,,2017 NE LMSC SCY Championships,2017,1,01S82
+CONN,100 Y Backstroke,SCY,M,65-69,1:49.68,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,2,01S68
+CONN,200 Y Backstroke,SCY,M,65-69,2:56.51,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1,01S82
+CONN,200 Y Backstroke,SCY,M,65-69,2:59.07,John Schwarten,,2017 YMCA Masters Nationals,2017,2,003PU
+CONN,200 Y Backstroke,SCY,M,65-69,3:42.03,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,3,01S68
+CONN,50 Y Breaststroke,SCY,M,65-69,43.59,Alan J Smally,,Nutmeg State Games Masters' Swim Meet,2017,1,0ACHP
+CONN,50 Y Breaststroke,SCY,M,65-69,45.33,William F Traester,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,01S8E
+CONN,100 Y Breaststroke,SCY,M,65-69,1:36.34,Alan J Smally,,Nutmeg State Games Masters' Swim Meet,2017,1,0ACHP
+CONN,100 Y Breaststroke,SCY,M,65-69,1:53.52,Rick Spear,,Connecticut Masters' Games Swim Meet,2017,2,09U9U
+CONN,200 Y Breaststroke,SCY,M,65-69,3:09.16,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1,01S82
+CONN,200 Y Breaststroke,SCY,M,65-69,3:30.29,Alan J Smally,,Nutmeg State Games Masters' Swim Meet,2017,2,0ACHP
+CONN,50 Y Butterfly,SCY,M,65-69,42.53,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,1,01S68
+CONN,200 Y Butterfly,SCY,M,65-69,3:05.76,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1,01S82
+CONN,100 Y Individual Medley,SCY,M,65-69,1:30.04,John Schwarten,,2017 YMCA Masters Nationals,2017,1,003PU
+CONN,100 Y Individual Medley,SCY,M,65-69,1:44.81,William F Traester,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,2,01S8E
+CONN,200 Y Individual Medley,SCY,M,65-69,2:49.31,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1,01S82
+CONN,200 Y Individual Medley,SCY,M,65-69,3:30.53,Robert M Cahill,,Nutmeg State Games Masters' Swim Meet,2017,2,01S68
+CONN,200 Y Individual Medley,SCY,M,65-69,3:54.34,William F Traester,,2017 Nationwide U.S. Masters Swimming  Spring National Championship,2017,3,01S8E
+CONN,400 Y Individual Medley,SCY,M,65-69,6:08.58,William J Geoghegan,,2017 YMCA Masters Nationals,2017,1,01S82
+CONN,50 Y Freestyle,SCY,M,70-74,37.41,David F Bean,,5th Annual Swim Against Huntington's Disease Master Meet SCY,2017,1,0ADEE
+CONN,200 Y Freestyle,SCY,M,70-74,2:50.79,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1,01S7Z
+CONN,500 Y Freestyle,SCY,M,70-74,7:40.89,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1,01S7Z
+CONN,50 Y Backstroke,SCY,M,70-74,49.44,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1,01S68
+CONN,200 Y Backstroke,SCY,M,70-74,3:42.13,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1,01S68
+CONN,50 Y Breaststroke,SCY,M,70-74,43.40,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1,01S7Z
+CONN,100 Y Breaststroke,SCY,M,70-74,1:33.74,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1,01S7Z
+CONN,200 Y Breaststroke,SCY,M,70-74,3:33.03,Paul M Epstein,,Connecticut Masters' Games Swim Meet,2017,1,01S7Z
+CONN,50 Y Butterfly,SCY,M,70-74,43.85,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1,01S68
+CONN,400 Y Individual Medley,SCY,M,70-74,7:30.25,Robert M Cahill,,Connecticut Masters' Games Swim Meet,2017,1,01S68
+CONN,50 Y Freestyle,SCY,M,75-79,31.72,Michael A Laux,,2017 YMCA Masters Nationals,2017,1,01SBT
+CONN,100 Y Freestyle,SCY,M,75-79,1:10.79,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1,01SBT
+CONN,200 Y Freestyle,SCY,M,75-79,2:36.56,Michael A Laux,,32nd Annual Groundhog Meet,2017,1,01SBT
+CONN,500 Y Freestyle,SCY,M,75-79,7:27.30,Michael A Laux,,2017 YMCA Masters Nationals,2017,1,01SBT
+CONN,1000 Y Freestyle,SCY,M,75-79,15:32.09,Michael A Laux,,2017 YMCA Masters Nationals,2017,1,01SBT
+CONN,200 Y Backstroke,SCY,M,75-79,3:39.59,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1,01SBT
+CONN,50 Y Breaststroke,SCY,M,75-79,39.19,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1,01SBT
+CONN,100 Y Breaststroke,SCY,M,75-79,1:27.99,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1,01SBT
+CONN,200 Y Breaststroke,SCY,M,75-79,3:16.57,Michael A Laux,,32nd Annual Groundhog Meet,2017,1,01SBT
+CONN,50 Y Butterfly,SCY,M,75-79,34.91,Michael A Laux,,2017 YMCA Masters Nationals,2017,1,01SBT
+CONN,100 Y Individual Medley,SCY,M,75-79,1:22.69,Michael A Laux,,32nd Annual Groundhog Meet,2017,1,01SBT
+CONN,200 Y Individual Medley,SCY,M,75-79,3:10.50,Michael A Laux,,2017 NE LMSC SCY Championships,2017,1,01SBT
+CONN,50 Y Freestyle,SCY,M,80-84,38.54,Howard Alkoff,,2017 YMCA Masters Nationals,2017,1,01S65
+CONN,100 Y Freestyle,SCY,M,80-84,1:37.65,Howard Alkoff,,2017 YMCA Masters Nationals,2017,1,01S65
+CONN,200 Y Freestyle,SCY,M,80-84,3:36.37,Howard Alkoff,,Connecticut Masters' Games Swim Meet,2017,1,01S65
+CONN,200 Y Freestyle,SCY,M,80-84,6:03.25,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,2,033B2
+CONN,500 Y Freestyle,SCY,M,80-84,9:37.78,Howard Alkoff,,2017 YMCA Masters Nationals,2017,1,01S65
+CONN,500 Y Freestyle,SCY,M,80-84,15:40.76,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,2,033B2
+CONN,100 Y Backstroke,SCY,M,80-84,2:37.85,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,1,033B2
+CONN,100 Y Butterfly,SCY,M,80-84,5:20.53,Bruce C Kurtz,,Greater Holyoke YMCA Winter Warm Up,2017,1,033B2
+CPCT,200 Y Freestyle,SCY,M,55-59,2:12.56,Howard Fife,,32nd Annual Groundhog Meet,2017,1,0ANU7
+GRYM,50 Y Freestyle,SCY,W,35-39,34.97,Laina Malm-Levine,,32nd Annual Groundhog Meet,2017,1,0ATHP
+GRYM,50 Y Backstroke,SCY,W,35-39,39.84,Laina Malm-Levine,,32nd Annual Groundhog Meet,2017,1,0ATHP
+GRYM,50 Y Freestyle,SCY,W,40-44,28.39,Kim Wang,,32nd Annual Groundhog Meet,2017,1,0AATD
+GRYM,100 Y Freestyle,SCY,W,40-44,1:02.20,Kim Wang,,32nd Annual Groundhog Meet,2017,1,0AATD
+GRYM,50 Y Backstroke,SCY,W,40-44,35.15,Kim Wang,,32nd Annual Groundhog Meet,2017,1,0AATD
+GRYM,50 Y Freestyle,SCY,M,50-54,29.81,Rod Halmshaw,,32nd Annual Groundhog Meet,2017,1,0AU97
+HMAS,50 Y Freestyle,SCY,W,60-64,31.68,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1,09KCE
+HMAS,50 Y Breaststroke,SCY,W,60-64,39.31,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1,09KCE
+HMAS,100 Y Breaststroke,SCY,W,60-64,1:26.20,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1,09KCE
+HMAS,200 Y Breaststroke,SCY,W,60-64,3:07.99,Nikki J Holbrook,,Nutmeg State Games Masters' Swim Meet,2017,1,09KCE
+RAC,50 Y Freestyle,SCY,W,25-29,25.84,Thammara Clemente,,32nd Annual Groundhog Meet,2017,1,0APAX
+RAC,100 Y Freestyle,SCY,W,25-29,56.91,Thammara Clemente,,32nd Annual Groundhog Meet,2017,1,0APAX
+RAC,100 Y Individual Medley,SCY,W,25-29,1:14.25,Thammara Clemente,,32nd Annual Groundhog Meet,2017,1,0APAX
+RAC,50 Y Freestyle,SCY,W,45-49,28.93,Cindy Liu,,32nd Annual Groundhog Meet,2017,1,07MFD
+RAC,100 Y Freestyle,SCY,W,45-49,1:08.94,Tracy Inall,,32nd Annual Groundhog Meet,2017,1,084H7
+RAC,200 Y Freestyle,SCY,W,45-49,2:30.29,Tracy Inall,,32nd Annual Groundhog Meet,2017,1,084H7
+RAC,100 Y Backstroke,SCY,W,45-49,1:14.63,Cindy Liu,,32nd Annual Groundhog Meet,2017,1,07MFD
+RAC,100 Y Freestyle,SCY,W,50-54,1:13.05,Kate Turner,,32nd Annual Groundhog Meet,2017,1,07UGG
+RAC,200 Y Freestyle,SCY,W,50-54,2:36.73,Kate Turner,,32nd Annual Groundhog Meet,2017,1,07UGG
+RAC,100 Y Individual Medley,SCY,W,50-54,1:24.03,Kate Turner,,32nd Annual Groundhog Meet,2017,1,07UGG
+RAC,50 Y Freestyle,SCY,W,55-59,35.53,Jennifer Phelps,,32nd Annual Groundhog Meet,2017,1,07TNR
+RAC,100 Y Freestyle,SCY,W,55-59,1:14.01,Maria C Klutey,,32nd Annual Groundhog Meet,2017,1,01SGW
+RAC,100 Y Freestyle,SCY,W,55-59,1:18.90,Jennifer Phelps,,32nd Annual Groundhog Meet,2017,2,07TNR
+RAC,200 Y Individual Medley,SCY,W,55-59,3:00.03,Maria C Klutey,,32nd Annual Groundhog Meet,2017,1,01SGW
+RAC,200 Y Freestyle,SCY,W,60-64,2:58.85,Karin Fallon,,32nd Annual Groundhog Meet,2017,1,074WH
+RAC,100 Y Backstroke,SCY,W,60-64,1:33.58,Karin Fallon,,32nd Annual Groundhog Meet,2017,1,074WH
+RAC,100 Y Individual Medley,SCY,W,60-64,1:32.98,Karin Fallon,,32nd Annual Groundhog Meet,2017,1,074WH
+RAC,50 Y Freestyle,SCY,M,25-29,25.43,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1,0A82S
+RAC,50 Y Backstroke,SCY,M,25-29,32.96,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1,0A82S
+RAC,50 Y Breaststroke,SCY,M,25-29,34.28,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1,0A82S
+RAC,50 Y Butterfly,SCY,M,25-29,26.86,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1,0A82S
+RAC,100 Y Individual Medley,SCY,M,25-29,1:05.88,Graham V Bodner,,32nd Annual Groundhog Meet,2017,1,0A82S
+RAC,50 Y Freestyle,SCY,M,30-34,24.51,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1,0AR0P
+RAC,100 Y Freestyle,SCY,M,30-34,56.17,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1,0AR0P
+RAC,50 Y Breaststroke,SCY,M,30-34,31.54,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1,0AR0P
+RAC,50 Y Butterfly,SCY,M,30-34,27.70,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1,0AR0P
+RAC,100 Y Individual Medley,SCY,M,30-34,1:10.68,Lyhonel J Gonzalez,,32nd Annual Groundhog Meet,2017,1,0AR0P
+RAC,50 Y Freestyle,SCY,M,35-39,27.98,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,1,0AN75
+RAC,500 Y Freestyle,SCY,M,35-39,6:29.47,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,1,0AN75
+RAC,50 Y Breaststroke,SCY,M,35-39,30.04,Emmanuel Lanzo,,32nd Annual Groundhog Meet,2017,1,0A82T
+RAC,50 Y Breaststroke,SCY,M,35-39,34.79,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,2,0AN75
+RAC,100 Y Breaststroke,SCY,M,35-39,1:11.54,Emmanuel Lanzo,,32nd Annual Groundhog Meet,2017,1,0A82T
+RAC,50 Y Butterfly,SCY,M,35-39,31.47,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,1,0AN75
+RAC,100 Y Individual Medley,SCY,M,35-39,1:08.58,Emmanuel Lanzo,,32nd Annual Groundhog Meet,2017,1,0A82T
+RAC,100 Y Individual Medley,SCY,M,35-39,1:10.55,Ivan Dusenko,,32nd Annual Groundhog Meet,2017,2,0AN75
+RAC,100 Y Freestyle,SCY,M,50-54,59.37,John Turner,,32nd Annual Groundhog Meet,2017,1,0AU4C
+RAC,200 Y Freestyle,SCY,M,50-54,2:21.49,Rick Klutey,,32nd Annual Groundhog Meet,2017,1,01S5V
+RAC,50 Y Backstroke,SCY,M,50-54,29.07,John Turner,,32nd Annual Groundhog Meet,2017,1,0AU4C
+RAC,100 Y Backstroke,SCY,M,50-54,1:03.03,John Turner,,32nd Annual Groundhog Meet,2017,1,0AU4C
+RAC,200 Y Breaststroke,SCY,M,50-54,2:52.87,Rick Klutey,,32nd Annual Groundhog Meet,2017,1,01S5V
+RAC,100 Y Individual Medley,SCY,M,50-54,1:13.62,Rick Klutey,,32nd Annual Groundhog Meet,2017,1,01S5V
+TBH,200 Y Individual Medley,SCY,M,45-49,2:31.58,Adrian Stroie,,2017 NE LMSC SCY Championships,2017,1,01SJ3
+UC05,50 Y Freestyle,SCY,W,25-29,27.70,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,1,077NT
+UC05,200 Y Freestyle,SCY,W,25-29,2:15.35,Alexandra L Huffman,,Connecticut Masters' Games Swim Meet,2017,1,0AXZU
+UC05,200 Y Freestyle,SCY,W,25-29,2:18.67,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,2,0AA3B
+UC05,200 Y Freestyle,SCY,W,25-29,3:02.51,Melissa Duguay,,Connecticut Masters' Games Swim Meet,2017,3,0AYF4
+UC05,500 Y Freestyle,SCY,W,25-29,5:58.01,Alexandra L Huffman,,Connecticut Masters' Games Swim Meet,2017,1,0AXZU
+UC05,500 Y Freestyle,SCY,W,25-29,6:12.67,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,2,0AA3B
+UC05,500 Y Freestyle,SCY,W,25-29,6:17.69,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,3,077NT
+UC05,500 Y Freestyle,SCY,W,25-29,8:04.63,Melissa Duguay,,Connecticut Masters' Games Swim Meet,2017,4,0AYF4
+UC05,50 Y Backstroke,SCY,W,25-29,32.35,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,1,077NT
+UC05,100 Y Backstroke,SCY,W,25-29,1:35.47,Melissa Duguay,,Connecticut Masters' Games Swim Meet,2017,1,0AYF4
+UC05,50 Y Butterfly,SCY,W,25-29,31.57,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,1,0AA3B
+UC05,100 Y Butterfly,SCY,W,25-29,1:14.88,Kelsea Fortner,,Nutmeg State Games Masters' Swim Meet,2017,1,0AA3B
+UC05,100 Y Individual Medley,SCY,W,25-29,1:09.99,Alexandra L Huffman,,Connecticut Masters' Games Swim Meet,2017,1,0AXZU
+UC05,100 Y Individual Medley,SCY,W,25-29,1:14.10,Julie Madison,,Connecticut Masters' Games Swim Meet,2017,2,077NT
+UC05,50 Y Freestyle,SCY,W,40-44,28.68,Aubrey Meyenburg,,Nutmeg State Games Masters' Swim Meet,2017,1,09Z4E
+UC05,50 Y Backstroke,SCY,W,40-44,32.65,Aubrey Meyenburg,,Nutmeg State Games Masters' Swim Meet,2017,1,09Z4E
+UC05,100 Y Backstroke,SCY,W,40-44,1:12.71,Aubrey Meyenburg,,Nutmeg State Games Masters' Swim Meet,2017,1,09Z4E
+UC05,200 Y Backstroke,SCY,W,40-44,2:42.68,Aubrey Meyenburg,,32nd Annual Groundhog Meet,2017,1,09Z4E
+UC05,50 Y Freestyle,SCY,W,45-49,30.90,Heather Arencibia,,32nd Annual Groundhog Meet,2017,1,0AND7
+UC05,50 Y Freestyle,SCY,W,45-49,32.05,Ann V Wronski,,32nd Annual Groundhog Meet,2017,2,0AUCX
+UC05,100 Y Freestyle,SCY,W,45-49,1:11.75,Ann V Wronski,,32nd Annual Groundhog Meet,2017,1,0AUCX
+UC05,50 Y Butterfly,SCY,W,45-49,34.44,Heather Arencibia,,32nd Annual Groundhog Meet,2017,1,0AND7
+UC05,50 Y Freestyle,SCY,W,50-54,28.74,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1,0647P
+UC05,50 Y Backstroke,SCY,W,50-54,34.36,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1,0647P
+UC05,200 Y Backstroke,SCY,W,50-54,2:47.25,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1,0647P
+UC05,50 Y Breaststroke,SCY,W,50-54,39.98,Bethamy Aronow,,32nd Annual Groundhog Meet,2017,1,01SHW
+UC05,50 Y Breaststroke,SCY,W,50-54,43.02,NING WEI,,Connecticut Masters' Games Swim Meet,2017,2,0AUJY
+UC05,100 Y Individual Medley,SCY,W,50-54,1:14.89,Eileen M Lawrence,,Connecticut Masters' Games Swim Meet,2017,1,0647P
+UC05,100 Y Individual Medley,SCY,W,50-54,1:23.81,NING WEI,,Connecticut Masters' Games Swim Meet,2017,2,0AUJY
+UC05,200 Y Individual Medley,SCY,W,50-54,3:10.35,NING WEI,,Connecticut Masters' Games Swim Meet,2017,1,0AUJY
+UC05,50 Y Freestyle,SCY,W,55-59,30.98,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1,0AC3B
+UC05,50 Y Freestyle,SCY,W,55-59,32.89,Kristin N Mudge,,Connecticut Masters' Games Swim Meet,2017,2,0AY0V
+UC05,500 Y Freestyle,SCY,W,55-59,8:19.10,Kristin N Mudge,,Connecticut Masters' Games Swim Meet,2017,1,0AY0V
+UC05,50 Y Breaststroke,SCY,W,55-59,38.05,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1,0AC3B
+UC05,100 Y Breaststroke,SCY,W,55-59,1:24.09,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1,0AC3B
+UC05,100 Y Individual Medley,SCY,W,55-59,1:17.03,Sandra W Ferreira,,Connecticut Masters' Games Swim Meet,2017,1,0AC3B
+UC05,100 Y Breaststroke,SCY,W,60-64,1:36.05,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1,0AWJ7
+UC05,200 Y Breaststroke,SCY,W,60-64,3:38.38,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1,0AWJ7
+UC05,50 Y Butterfly,SCY,W,60-64,39.90,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1,0AWJ7
+UC05,100 Y Butterfly,SCY,W,60-64,1:40.41,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1,0AWJ7
+UC05,100 Y Individual Medley,SCY,W,60-64,1:32.83,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1,0AWJ7
+UC05,200 Y Individual Medley,SCY,W,60-64,3:35.44,Megan Van Eyck,,Connecticut Masters' Games Swim Meet,2017,1,0AWJ7
+UC05,50 Y Freestyle,SCY,M,18-24,21.61,Oscar Pereiro Carril,,Nutmeg State Games Masters' Swim Meet,2017,1,0AEW1
+UC05,50 Y Freestyle,SCY,M,18-24,22.32,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,2,0AY1B
+UC05,50 Y Freestyle,SCY,M,18-24,27.13,JAEGER P BAILEY,,Connecticut Masters' Games Swim Meet,2017,3,0AY44
+UC05,50 Y Freestyle,SCY,M,18-24,28.42,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,4,0AGG6
+UC05,100 Y Freestyle,SCY,M,18-24,1:00.44,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,1,0AGG6
+UC05,200 Y Freestyle,SCY,M,18-24,1:51.72,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1,0AY1B
+UC05,500 Y Freestyle,SCY,M,18-24,6:06.01,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,1,0AGG6
+UC05,50 Y Backstroke,SCY,M,18-24,23.57,Oscar Pereiro Carril,,Nutmeg State Games Masters' Swim Meet,2017,1,0AEW1
+UC05,50 Y Backstroke,SCY,M,18-24,30.53,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,2,0AGG6
+UC05,100 Y Backstroke,SCY,M,18-24,1:06.74,Reed C Truax,,Nutmeg State Games Masters' Swim Meet,2017,1,0AGG6
+UC05,100 Y Backstroke,SCY,M,18-24,1:17.56,JAEGER P BAILEY,,Connecticut Masters' Games Swim Meet,2017,2,0AY44
+UC05,50 Y Butterfly,SCY,M,18-24,22.70,Oscar Pereiro Carril,,Nutmeg State Games Masters' Swim Meet,2017,1,0AEW1
+UC05,100 Y Butterfly,SCY,M,18-24,53.52,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1,0AY1B
+UC05,100 Y Individual Medley,SCY,M,18-24,54.93,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1,0AY1B
+UC05,200 Y Individual Medley,SCY,M,18-24,2:03.75,Maxwell L Dolan,,Connecticut Masters' Games Swim Meet,2017,1,0AY1B
+UC05,50 Y Freestyle,SCY,M,25-29,20.14,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1,0AEW1
+UC05,100 Y Freestyle,SCY,M,25-29,46.70,Oscar Pereiro Carril,,Connecticut Masters' Games Swim Meet,2017,1,0AEW1
+UC05,200 Y Freestyle,SCY,M,25-29,2:19.59,John G MacDonald,,32nd Annual Groundhog Meet,2017,1,09KGK
+UC05,50 Y Backstroke,SCY,M,25-29,22.31,Oscar Pereiro Carril,,Connecticut Masters' Games Swim Meet,2017,1,0AEW1
+UC05,100 Y Backstroke,SCY,M,25-29,49.77,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1,0AEW1
+UC05,50 Y Breaststroke,SCY,M,25-29,34.15,John G MacDonald,,32nd Annual Groundhog Meet,2017,1,09KGK
+UC05,100 Y Breaststroke,SCY,M,25-29,1:19.26,John G MacDonald,,32nd Annual Groundhog Meet,2017,1,09KGK
+UC05,50 Y Butterfly,SCY,M,25-29,21.84,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1,0AEW1
+UC05,50 Y Butterfly,SCY,M,25-29,27.97,John G MacDonald,,32nd Annual Groundhog Meet,2017,2,09KGK
+UC05,100 Y Butterfly,SCY,M,25-29,50.05,Oscar Pereiro Carril,,Connecticut Masters' Games Swim Meet,2017,1,0AEW1
+UC05,100 Y Individual Medley,SCY,M,25-29,52.08,Oscar Pereiro Carril,,2017 NE LMSC SCY Championships,2017,1,0AEW1
+UC05,400 Y Individual Medley,SCY,M,25-29,5:18.43,John G MacDonald,,32nd Annual Groundhog Meet,2017,1,09KGK
+UC05,50 Y Freestyle,SCY,M,30-34,28.52,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1,08C2J
+UC05,100 Y Freestyle,SCY,M,30-34,1:01.80,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1,08C2J
+UC05,200 Y Freestyle,SCY,M,30-34,2:19.03,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1,08C2J
+UC05,50 Y Backstroke,SCY,M,30-34,34.57,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1,08C2J
+UC05,100 Y Backstroke,SCY,M,30-34,1:12.38,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1,08C2J
+UC05,200 Y Backstroke,SCY,M,30-34,2:41.71,Timothy J Brown,,Connecticut Masters' Games Swim Meet,2017,1,08C2J
+UC05,50 Y Butterfly,SCY,M,30-34,34.70,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1,08C2J
+UC05,100 Y Individual Medley,SCY,M,30-34,1:12.82,Timothy J Brown,,32nd Annual Groundhog Meet,2017,1,08C2J
+UC05,100 Y Freestyle,SCY,M,35-39,1:08.04,Brian J Martineau,,Nutmeg State Games Masters' Swim Meet,2017,1,0AAPU
+UC05,200 Y Freestyle,SCY,M,35-39,2:35.72,Brian J Martineau,,Nutmeg State Games Masters' Swim Meet,2017,1,0AAPU
+UC05,50 Y Breaststroke,SCY,M,35-39,29.40,Ryan D Spoon,,32nd Annual Groundhog Meet,2017,1,03V09
+UC05,100 Y Breaststroke,SCY,M,35-39,1:05.45,Ryan D Spoon,,32nd Annual Groundhog Meet,2017,1,03V09
+UC05,100 Y Individual Medley,SCY,M,35-39,1:06.83,Ryan D Spoon,,32nd Annual Groundhog Meet,2017,1,03V09
+UC05,50 Y Freestyle,SCY,M,40-44,25.26,Ryan T McNamara,,Connecticut Masters' Games Swim Meet,2017,1,0AY2T
+UC05,50 Y Freestyle,SCY,M,40-44,25.94,James E Lenger,,Evanston Masters 2016 December Invite,2017,2,09RV4
+UC05,100 Y Freestyle,SCY,M,40-44,59.14,James E Lenger,,Evanston Masters 2016 December Invite,2017,1,09RV4
+UC05,50 Y Backstroke,SCY,M,40-44,29.02,Ryan T McNamara,,Connecticut Masters' Games Swim Meet,2017,1,0AY2T
+UC05,50 Y Freestyle,SCY,M,45-49,28.22,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,1,0AX7M
+UC05,100 Y Freestyle,SCY,M,45-49,1:01.83,Scott Moxham,,32nd Annual Groundhog Meet,2017,1,0A665
+UC05,50 Y Backstroke,SCY,M,45-49,39.61,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,1,0AX7M
+UC05,50 Y Breaststroke,SCY,M,45-49,31.52,Linney J O'Malley,,32nd Annual Groundhog Meet,2017,1,0AN0N
+UC05,50 Y Breaststroke,SCY,M,45-49,39.54,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,2,0AX7M
+UC05,100 Y Breaststroke,SCY,M,45-49,1:11.23,Scott Moxham,,32nd Annual Groundhog Meet,2017,1,0A665
+UC05,50 Y Butterfly,SCY,M,45-49,28.56,Scott Moxham,,32nd Annual Groundhog Meet,2017,1,0A665
+UC05,50 Y Butterfly,SCY,M,45-49,28.83,Linney J O'Malley,,32nd Annual Groundhog Meet,2017,2,0AN0N
+UC05,50 Y Butterfly,SCY,M,45-49,36.44,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,3,0AX7M
+UC05,100 Y Individual Medley,SCY,M,45-49,1:05.46,Linney J O'Malley,,32nd Annual Groundhog Meet,2017,1,0AN0N
+UC05,100 Y Individual Medley,SCY,M,45-49,1:19.27,Mike Arisian,,Connecticut Masters' Games Swim Meet,2017,2,0AX7M
+UC05,50 Y Freestyle,SCY,M,50-54,27.11,Darrin S Reed,,Connecticut Masters' Games Swim Meet,2017,1,0AYDE
+UC05,50 Y Freestyle,SCY,M,50-54,31.24,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,2,035Z4
+UC05,100 Y Freestyle,SCY,M,50-54,53.75,Christopher J Doyle,,Connecticut Masters' Games Swim Meet,2017,1,0AW6S
+UC05,200 Y Freestyle,SCY,M,50-54,1:59.71,Christopher J Doyle,,Connecticut Masters' Games Swim Meet,2017,1,0AW6S
+UC05,200 Y Freestyle,SCY,M,50-54,2:16.41,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,2,088YN
+UC05,200 Y Freestyle,SCY,M,50-54,2:25.55,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,3,035Z4
+UC05,500 Y Freestyle,SCY,M,50-54,6:02.79,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1,088YN
+UC05,50 Y Backstroke,SCY,M,50-54,34.41,Darrin S Reed,,Connecticut Masters' Games Swim Meet,2017,1,0AYDE
+UC05,50 Y Breaststroke,SCY,M,50-54,35.49,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1,088YN
+UC05,50 Y Breaststroke,SCY,M,50-54,38.62,Darrin S Reed,,Connecticut Masters' Games Swim Meet,2017,2,0AYDE
+UC05,50 Y Butterfly,SCY,M,50-54,31.87,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1,088YN
+UC05,50 Y Butterfly,SCY,M,50-54,35.31,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,2,035Z4
+UC05,100 Y Butterfly,SCY,M,50-54,59.77,Christopher J Doyle,,Connecticut Masters' Games Swim Meet,2017,1,0AW6S
+UC05,100 Y Individual Medley,SCY,M,50-54,1:13.81,C.J. Thomas,,Nutmeg State Games Masters' Swim Meet,2017,1,088YN
+UC05,100 Y Individual Medley,SCY,M,50-54,1:22.87,Michael C Wertheimer,,Nutmeg State Games Masters' Swim Meet,2017,2,035Z4
+UC05,50 Y Freestyle,SCY,M,55-59,25.62,David A Benjamin,,32nd Annual Groundhog Meet,2017,1,03PHP
+UC05,100 Y Freestyle,SCY,M,55-59,1:01.18,David A Benjamin,,32nd Annual Groundhog Meet,2017,1,03PHP
+UC05,200 Y Freestyle,SCY,M,55-59,2:19.03,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1,088YN
+UC05,500 Y Freestyle,SCY,M,55-59,6:11.64,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1,088YN
+UC05,50 Y Breaststroke,SCY,M,55-59,33.88,David A Benjamin,,32nd Annual Groundhog Meet,2017,1,03PHP
+UC05,100 Y Breaststroke,SCY,M,55-59,1:19.34,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1,088YN
+UC05,50 Y Butterfly,SCY,M,55-59,28.74,David A Benjamin,,32nd Annual Groundhog Meet,2017,1,03PHP
+UC05,50 Y Butterfly,SCY,M,55-59,32.71,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,2,088YN
+UC05,100 Y Individual Medley,SCY,M,55-59,1:15.70,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1,088YN
+UC05,200 Y Individual Medley,SCY,M,55-59,2:43.79,C.J. Thomas,,Connecticut Masters' Games Swim Meet,2017,1,088YN
+UC05,50 Y Freestyle,SCY,M,60-64,28.41,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1,083B8
+UC05,100 Y Freestyle,SCY,M,60-64,1:08.71,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1,083B8
+UC05,50 Y Backstroke,SCY,M,60-64,36.21,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1,083B8
+UC05,50 Y Backstroke,SCY,M,60-64,1:22.06,Steve F Celmer,,Connecticut Masters' Games Swim Meet,2017,2,0AWN1
+UC05,100 Y Backstroke,SCY,M,60-64,3:26.50,Steve F Celmer,,Connecticut Masters' Games Swim Meet,2017,1,0AWN1
+UC05,50 Y Breaststroke,SCY,M,60-64,37.80,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1,083B8
+UC05,50 Y Butterfly,SCY,M,60-64,31.09,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1,083B8
+UC05,100 Y Individual Medley,SCY,M,60-64,1:15.94,Miles Ahrens,,Connecticut Masters' Games Swim Meet,2017,1,083B8
+UC05,50 Y Freestyle,SCY,M,70-74,45.05,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1,099XJ
+UC05,100 Y Freestyle,SCY,M,70-74,1:40.94,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1,099XJ
+UC05,200 Y Freestyle,SCY,M,70-74,3:36.97,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1,099XJ
+UC05,500 Y Freestyle,SCY,M,70-74,9:26.65,Robert W Lohmann,,Connecticut Masters' Games Swim Meet,2017,1,099XJ
