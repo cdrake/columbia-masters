@@ -9,6 +9,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
+from . import swimjson
 from .crawl import (
     DEFAULT_START_YEAR,
     LMSCS,
@@ -20,7 +21,13 @@ from .crawl import (
 from .gallery import build_index, create_event_folder, init_from_records
 from .locations import build_index as build_locations_index, create_location_folder
 from .sheet_sync import agent_links, sync_index_links, sync_tenant
-from .scraper import scrape_team_records, ScraperConfig, USMSScraper, write_records_csv
+from .scraper import (
+    RECORD_FIELDS,
+    ScraperConfig,
+    USMSScraper,
+    scrape_team_records,
+    write_records_csv,
+)
 from .tenants import Tenant, load_tenant, load_tenants
 from .transformer import (
     transform_multiple_csvs,
@@ -712,6 +719,67 @@ def cmd_sync_content(args: argparse.Namespace) -> int:
     return run(args.tenant)
 
 
+def _rows_signature(rows: list[dict]) -> list[tuple]:
+    """Order-insensitive view of CSV rows, to tell a real change from a re-sort."""
+    return sorted(tuple(r.get(f) or "" for f in RECORD_FIELDS) for r in rows)
+
+
+def cmd_ingest_swimjson(args: argparse.Namespace) -> int:
+    """EXPERIMENTAL: merge SwimJSON meet results into a tenant's records CSVs.
+
+    Club tenants: the club's own swims go into data/csv/<slug>/<TEAM>_<course>_<year>_records.csv.
+    State (LMSC) tenants: swims by the state's clubs (tenant.json `clubs`) go into the crawl's
+    per-club CSVs and the state top-10 CSVs. Publish afterwards as usual (`publish` for clubs,
+    `refresh --skip-scrape` for state sites). See SWIMJSON.md.
+    """
+    tenant = load_tenant(args.tenant)
+    rows: list[dict] = []
+    for path in args.files:
+        report = swimjson.document_to_rows(swimjson.load_document(Path(path)), source=path)
+        rows.extend(report.rows)
+
+    if tenant.is_lmsc:
+        codes = {c["code"] for c in tenant.raw.get("clubs", [])}
+        rows = [r for r in rows if r["team"] in codes]
+        targets = [
+            (tenant.lmsc_club_csv_dir, "{lmsc}_{course}_{year}_records.csv", True),
+            (tenant.lmsc_csv_dir, "{lmsc}_{course}_{year}_top10.csv", False),
+        ]
+    else:
+        rows = [r for r in rows if r["team"] == tenant.team_code]
+        targets = [(tenant.csv_dir, f"{tenant.team_code}_{{course}}_{{year}}_records.csv", True)]
+    logging.info(f"{len(rows)} swim(s) by {tenant.slug} swimmers")
+
+    changed = 0
+    for (course, year), group in sorted(swimjson.group_by_file(rows).items()):
+        for directory, pattern, by_team in targets:
+            name = pattern.format(lmsc=tenant.lmsc_id, course=course.lower(), year=year)
+            path = directory / name
+            existing = _load_existing_csv(path)
+            merged = swimjson.merge_top_n(existing, group, by_team=by_team)
+            if _rows_signature(merged) == _rows_signature(existing):
+                logging.info(f"  {name}: no changes")
+                continue
+            before = {_record_key(r): _record_content(r) for r in existing}
+            fresh = [r for r in merged if before.get(_record_key(r)) != _record_content(r)]
+            for r in fresh:
+                logging.info(
+                    f"    + {r['team']} {r['gender']} {r['age_group']} {r['event']}"
+                    f" #{r['rank']} {r['time']} ({r['swimmer']}, {r['meet']})"
+                )
+            changed += 1
+            if not args.dry_run:
+                _save_records_csv(merged, path)
+            logging.info(
+                f"  {name}: {len(fresh)} new/changed row(s)"
+                + (" (dry run)" if args.dry_run else "")
+            )
+    if changed and not args.dry_run:
+        step = "refresh --skip-scrape" if tenant.is_lmsc else "publish"
+        logging.info(f"Updated {changed} CSV(s). Next: hatch run {step} -- --tenant {tenant.slug}")
+    return 0
+
+
 def cmd_crawl(args: argparse.Namespace) -> int:
     """Run one paced slice of the nationwide USMS crawl (every LMSC, every club)."""
     state_path = Path(args.state)
@@ -1321,6 +1389,19 @@ Examples:
     sync_parser.add_argument("--tenant", default=None, help="Only this tenant slug (default: all)")
     sync_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
     sync_parser.set_defaults(func=cmd_sync_content)
+
+    # Ingest SwimJSON meet results (experimental)
+    ingest_parser = subparsers.add_parser(
+        "ingest-swimjson",
+        help="EXPERIMENTAL: merge SwimJSON meet results into a tenant's records CSVs",
+    )
+    ingest_parser.add_argument("files", nargs="+", help="SwimJSON meet result file(s)")
+    ingest_parser.add_argument("--tenant", required=True, help="Tenant slug (e.g., colm, sc)")
+    ingest_parser.add_argument(
+        "--dry-run", action="store_true", help="Report what would change without writing CSVs"
+    )
+    ingest_parser.add_argument("-v", "--verbose", action="store_true", help="Enable debug logging")
+    ingest_parser.set_defaults(func=cmd_ingest_swimjson)
 
     # All command (scrape + transform)
     all_parser = subparsers.add_parser("all", help="Scrape and transform in one step")

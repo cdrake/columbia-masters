@@ -1,0 +1,40 @@
+{
+  "_comment": "Hand-made test fixture. SwimJSON's spec is unpublished; the document layout (top-level meet/clubs/athletes/events/results) is our ASSUMPTION. Event/result field names follow the swimjson.org examples. Swimmers are fictional.",
+  "swimjson": "0.1",
+  "meet": {
+    "id": "m-1",
+    "name": "Test Fall Classic",
+    "course": "SCY",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "sanctioningBody": "USMS"
+  },
+  "clubs": [
+    { "id": "c-1", "code": "COLM", "name": "Columbia Masters" },
+    { "id": "c-2", "code": "GSMS", "name": "Grand Strand Masters" },
+    { "id": "c-3", "code": "ATL", "name": "Out-of-state club" }
+  ],
+  "athletes": [
+    { "id": "a-1", "firstName": "Pat", "lastName": "Swimmer", "sex": "F", "birthDate": "1980-12-01", "clubId": "c-1", "usmsId": "554U-ABCDE" },
+    { "id": "a-2", "firstName": "Lee", "lastName": "Fast", "sex": "M", "birthDate": "1975-03-02", "clubId": "c-2", "usmsId": "555D-FGHIJ" },
+    { "id": "a-3", "firstName": "Sam", "lastName": "Away", "sex": "M", "birthDate": "1990-05-05", "clubId": "c-3" },
+    { "id": "a-4", "firstName": "Kim", "lastName": "Yearonly", "sex": "F", "birthDate": "1985", "clubId": "c-1" }
+  ],
+  "events": [
+    { "id": "ev-1", "number": 1, "sessionId": "s-1", "name": "Women 50 Free", "sex": "F", "distance": 50, "stroke": "FREE", "relayCount": 1, "course": "SCY", "status": "OFFICIAL" },
+    { "id": "ev-2", "number": 2, "sessionId": "s-1", "name": "Mixed 100 IM", "sex": "X", "distance": 100, "stroke": "MEDLEY", "relayCount": 1, "course": "SCY", "status": "OFFICIAL" },
+    { "id": "ev-3", "number": 3, "sessionId": "s-1", "name": "Exhibition 50 Back", "sex": "X", "distance": 50, "stroke": "BACK", "relayCount": 1, "course": "SCY", "eventType": "EXHIBITION" },
+    { "id": "ev-4", "number": 4, "sessionId": "s-1", "name": "Mixed 200 Free Relay", "sex": "X", "distance": 200, "stroke": "FREE", "relayCount": 4, "course": "SCY" }
+  ],
+  "results": [
+    { "id": "r-1", "eventId": "ev-1", "round": "TIM", "athleteId": "a-1", "lane": 3, "date": "2026-10-17", "officialTime": "29.10", "course": "SCY", "status": "VALID", "place": 1 },
+    { "id": "r-2", "eventId": "ev-2", "round": "TIM", "athleteId": "a-2", "lane": 4, "date": "2026-10-18", "officialTime": "1:01.55", "course": "SCY", "status": "VALID", "place": 1 },
+    { "id": "r-3", "eventId": "ev-2", "round": "TIM", "athleteId": "a-1", "lane": 5, "date": "2026-10-18", "officialTime": "1:12.40", "course": "SCY", "status": "VALID", "place": 2 },
+    { "id": "r-4", "eventId": "ev-2", "round": "TIM", "athleteId": "a-3", "lane": 6, "date": "2026-10-18", "officialTime": "1:05.00", "course": "SCY", "status": "VALID", "place": 3 },
+    { "id": "r-5", "eventId": "ev-1", "round": "TIM", "athleteId": "a-4", "lane": 2, "date": "2026-10-17", "officialTime": "31.00", "course": "SCY", "status": "VALID", "place": 2 },
+    { "id": "r-6", "eventId": "ev-1", "round": "TIM", "athleteId": "a-1", "lane": 1, "date": "2026-10-17", "officialTime": "", "course": "SCY", "status": "DSQ" },
+    { "id": "r-7", "eventId": "ev-3", "round": "TIM", "athleteId": "a-2", "lane": 1, "date": "2026-10-17", "officialTime": "30.00", "course": "SCY", "status": "VALID" },
+    { "id": "r-8", "eventId": "ev-4", "round": "TIM", "relayId": "r-COLM-A-ev-4", "date": "2026-10-18", "officialTime": "1:50.00", "course": "SCY", "status": "VALID",
+      "relayLegs": [ { "position": 1, "athleteId": "a-1", "legTime": "27.50" } ] }
+  ]
+}
