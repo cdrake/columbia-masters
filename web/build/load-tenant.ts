@@ -5,6 +5,7 @@ import { Marked } from "marked";
 import { defaultHomePage, HOME_SLUG, validatePage, type Page } from "../shared/pages";
 import { validateSite, type SiteSettings } from "../shared/site";
 import { normalizeTab, type ClubLink, type SheetData } from "../shared/content";
+import { validateTeamStore, type TeamStore } from "../shared/team-store";
 import { groupSwimmers, type Swimmer, type SwimRecord } from "./swimmer-names";
 
 const marked = new Marked();
@@ -55,6 +56,8 @@ export interface TenantConfig {
   swimmerOptOut?: string[];
   /** Variant swimmer name → canonical name (or USMS ID → ID), merged onto one page. */
   swimmerAliases?: Record<string, string>;
+  /** Optional vendor team store, logged into by a POST form (footer + "team-store" events). */
+  teamStore?: TeamStore;
 }
 
 export interface Coach {
@@ -183,6 +186,10 @@ export function loadTenant(webRoot: string, slug: string): Tenant {
         Object.values(config.swimmerAliases).every((n) => typeof n === "string" && n.trim())),
     `tenant.json swimmerAliases must map variant name → canonical name (or ID → ID)`
   );
+  if (config.teamStore !== undefined) {
+    const errs = validateTeamStore(config.teamStore);
+    req(!errs.length, `tenant.json ${errs.join("; ")}`);
+  }
   // "faq" is an optional sheet tab — tenants that haven't added it yet simply omit the gid.
 
   const contentDir = path.join(dir, "content");

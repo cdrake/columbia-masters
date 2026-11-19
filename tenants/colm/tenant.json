@@ -45,5 +45,11 @@
   },
   "records": {
     "startYear": 2015
+  },
+  "teamStore": {
+    "label": "Team Store",
+    "action": "https://www.augustaswimsupply.com/verify_access.cfm",
+    "url": "https://www.augustaswimsupply.com/teams.cfm",
+    "fields": { "txtUsername": "COLUMBIA", "txtPassword": "MASTERS" }
   }
 }

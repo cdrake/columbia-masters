@@ -8,6 +8,8 @@
 // build bakes into the HTML and data/site.json. The Functions read the live Sheet
 // and fall back to that snapshot per tab.
 
+import { TEAM_STORE_KEYWORD } from "./team-store.ts";
+
 // --- Sheet rows (also the fallback file shapes) ---
 
 export interface ScheduleRow {
@@ -27,6 +29,7 @@ export interface EventRow {
   location: string;
   /** Inline markdown. */
   notes: string;
+  /** Link, or "team-store" for the club's store login button (see team-store.ts). */
   url: string;
 }
 
@@ -78,6 +81,8 @@ export interface ClubInfo {
   address: { street: string; city: string; region: string; postalCode: string };
   socials: { label: string; url: string }[];
   documents: { label: string; url: string }[];
+  /** Vendor team store; its login form needs a POST, so agents get the page + login instead. */
+  teamStore?: { url: string; login: string };
 }
 
 export interface SiteManifest {
@@ -292,7 +297,9 @@ export function buildContent(
     about: aboutParagraphs(manifest, data.content),
     scheduleNote: data.content.schedule_note || manifest.scheduleNote,
     schedule: data.schedule,
-    events: upcomingEvents(data.events, today),
+    events: upcomingEvents(data.events, today).map((e) =>
+      e.url === TEAM_STORE_KEYWORD ? { ...e, url: manifest.club.teamStore?.url ?? "" } : e
+    ),
     board: data.board,
     faq: data.faq,
     coaches: manifest.coaches,
@@ -421,9 +428,10 @@ export function llmsTxt(m: SiteManifest, c: ClubContent): string {
   }
 
   const links = [...club.socials, ...club.documents];
-  if (links.length) {
+  if (links.length || club.teamStore) {
     out.push("## Links", "");
     for (const l of links) out.push(`- [${l.label}](${l.url.startsWith("/") ? d + l.url : l.url})`);
+    if (club.teamStore) out.push(`- Team store (login: ${club.teamStore.login}) at ${club.teamStore.url}`);
     out.push("");
   }
 

@@ -15,6 +15,8 @@ declare module "virtual:tenant" {
     };
     /** "https://imagedelivery.net/<accountHash>/" or "" until Cloudflare Images is configured. */
     imageBase: string;
+    /** tenant.json teamStore, when the club has one. */
+    teamStore?: import("../shared/team-store").TeamStore;
   }
   const tenant: TenantRuntime;
   export default tenant;
