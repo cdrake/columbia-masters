@@ -1101,14 +1101,38 @@ footer p {
   margin-bottom: 0.35rem;
 }
 
-.footer-links a {
+/* Team store POST form (shared/team-store.ts): the button reads as a link. */
+.team-store-form {
+  display: inline;
+}
+
+.team-store-form button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+/* Same colour as the event title links, which use the browser default. */
+.event-info .team-store-form button {
+  color: LinkText;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.footer-links a,
+.footer-links button {
   color: rgba(255, 255, 255, 0.7);
   text-decoration: none;
   font-size: 0.85rem;
   transition: color 0.15s;
 }
 
-.footer-links a:hover {
+.footer-links a:hover,
+.footer-links button:hover {
   color: var(--accent);
 }
 

@@ -10,6 +10,7 @@ import type {
 } from "./types";
 import tenant from "virtual:tenant";
 import { fetchAllSheets } from "./sheets";
+import { EVENT_STORE_BUTTON, TEAM_STORE_KEYWORD, teamStoreForm } from "../shared/team-store";
 import { initThemePreview } from "./theme-preview";
 import "./style.css";
 
@@ -296,11 +297,12 @@ function renderEvents(events: SiteEvent[]) {
       const d = parseEventDate(e.date);
       const month = d ? d.toLocaleString("en", { month: "short" }) : "";
       const day = e.endDate ? `${d?.getDate()}-${parseEventDate(e.endDate)?.getDate()}` : String(d?.getDate() ?? "");
+      const store = e.url === TEAM_STORE_KEYWORD;
       return `<article class="event-card">
         <div class="event-date"><span class="month">${esc(month)}</span><span class="day">${esc(day)}</span></div>
         <div class="event-info">
-          <h3>${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</h3>
-          <p>${esc(e.location)}${e.notes ? " &mdash; " + md(e.notes) : ""}</p>
+          <h3>${e.url && !store ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title)}</h3>
+          <p>${esc(e.location)}${e.notes ? " &mdash; " + md(e.notes) : ""}</p>${store && tenant.teamStore ? teamStoreForm(tenant.teamStore, EVENT_STORE_BUTTON) : ""}
         </div>
       </article>`;
     })

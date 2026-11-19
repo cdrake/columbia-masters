@@ -11,6 +11,7 @@ import {
   upcomingEvents,
   type SiteManifest,
 } from "../shared/content";
+import { EVENT_STORE_BUTTON, TEAM_STORE_KEYWORD, teamStoreForm } from "../shared/team-store";
 
 function esc(s: string): string {
   return s
@@ -190,19 +191,22 @@ const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "
  * in src/main.ts, as of build day in the club's time zone.
  */
 export function eventsFallback(t: Tenant): string {
+  const c = t.config;
   const day = (iso: string) => (/^\d{4}-\d{2}-\d{2}$/.test(iso) ? String(Number(iso.slice(8))) : "");
   return upcomingEvents(t.fallback.events, todayIn(timeZone(t)))
     .map((e) => {
       const month = /^\d{4}-\d{2}/.test(e.date) ? MONTHS[Number(e.date.slice(5, 7)) - 1] ?? "" : "";
       const days = e.endDate ? `${day(e.date)}-${day(e.endDate)}` : day(e.date);
-      const title = e.url
+      const store = e.url === TEAM_STORE_KEYWORD;
+      const title = e.url && !store
         ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`
         : esc(e.title);
       return `<article class="event-card">
             <div class="event-date"><span class="month">${esc(month)}</span><span class="day">${esc(days)}</span></div>
             <div class="event-info">
               <h3>${title}</h3>
-              <p>${esc(e.location)}${e.notes ? " &mdash; " + mdInline(e.notes) : ""}</p>
+              <p>${esc(e.location)}${e.notes ? " &mdash; " + mdInline(e.notes) : ""}</p>${
+                store && c.teamStore ? `\n              ${teamStoreForm(c.teamStore, EVENT_STORE_BUTTON)}` : ""}
             </div>
           </article>`;
     })
@@ -310,9 +314,11 @@ export function footerSocials(t: Tenant): string {
 
 /** Optional club document links (e.g. bylaws PDF) appended to the footer Resources list. */
 export function footerResources(t: Tenant): string {
-  return (t.config.documents ?? [])
-    .map((d) => `<li><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.label)}</a></li>`)
-    .join("\n              ");
+  const store = t.config.teamStore;
+  return [
+    ...(t.config.documents ?? []).map((d) => `<li><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.label)}</a></li>`),
+    ...(store ? [`<li>${teamStoreForm(store)}</li>`] : []),
+  ].join("\n              ");
 }
 
 export function copyright(t: Tenant): string {
@@ -331,7 +337,7 @@ export function jsonLd(t: Tenant): string {
       startDate: e.date,
       ...(e.endDate ? { endDate: e.endDate } : {}),
       ...(e.location ? { location: { "@type": "Place", name: e.location } } : {}),
-      ...(e.url ? { url: e.url } : {}),
+      ...(e.url && e.url !== TEAM_STORE_KEYWORD ? { url: e.url } : {}),
       sport: "Swimming",
     }));
 
@@ -463,6 +469,9 @@ export function siteManifest(t: Tenant): SiteManifest {
       address: c.address,
       socials: c.socials.map((s) => ({ label: s.label, url: abs(s.url) })),
       documents: (c.documents ?? []).map((d) => ({ label: d.label, url: abs(d.url) })),
+      ...(c.teamStore
+        ? { teamStore: { url: c.teamStore.url ?? c.teamStore.action, login: Object.values(c.teamStore.fields).join(" / ") } }
+        : {}),
     },
     timeZone: timeZone(t),
     sheetUrls: sheetUrls(c),

@@ -139,6 +139,7 @@ export function tenantPlugin(webRoot: string, slug: string): Plugin[] {
         imageBase: tenant.config.images?.accountHash
           ? `https://imagedelivery.net/${tenant.config.images.accountHash}/`
           : "",
+        ...(tenant.config.teamStore ? { teamStore: tenant.config.teamStore } : {}),
       };
       return `export default ${JSON.stringify(runtime)};`;
     },

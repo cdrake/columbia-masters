@@ -36,6 +36,7 @@ Throughout, `<slug>` is the club's lowercase team code, for example `colm`. It i
   - `sheet.publishedId` and `sheet.gids` from step 1. Leave out `faq` if the club has no FAQ tab.
   - `records.startYear`
   - `colors`: leave this as `{}` to use the theme default.
+  - Optional `teamStore` if the club has a vendor team store login (see README "Team Store Button").
 - [ ] Rewrite the content:
   - `content/about.md`
   - `content/coaches/*.md` (frontmatter: `name`, `photo`)

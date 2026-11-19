@@ -61,3 +61,4 @@ Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenant
 - `hatch run refresh` and `hatch run crawl` must stay idempotent/resumable.
 - USMS HTML parsing lives in `parse_top_ten_html`; check it first if the site changes.
 - Ruff config: line-length 100, target Python 3.10.
+- Optional `tenant.json` `teamStore` (validated in web/shared/team-store.ts) renders a POST login form in the footer and for Events rows whose url is `team-store`; agents get the store page + login via llms.txt and `/api/content` instead.

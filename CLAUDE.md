@@ -70,6 +70,7 @@ Pipeline per tenant: **scrape HTML → data/csv/<slug>/ → transform → tenant
 - The Sheet `content` tab overrides baked-in HTML at runtime (keys: hero_sub, about_text, alert_message, location_info_<slug>, …) — template changes must keep those element ids.
 - Fallback schedule/events/board/faq/content in tenants/<slug>/content/fallback/ are Sheet snapshots in Sheet-row shape (events use ISO `date`/`endDate`; schedule `type` is optional), written by `sync-content`/`refresh`. They are rendered into the static HTML at build (content.json's hero_sub/hero_tagline/about_text*/schedule_note override tenant.json/about.md) and replaced at runtime by live Sheet data. Hand edits get overwritten by the next sync — edit the Sheet instead.
 - Optional `timeZone` in tenant.json (default America/New_York) decides which events count as upcoming.
+- Optional `tenant.json` `teamStore` (validated in web/shared/team-store.ts) renders a POST login form in the footer and for Events rows whose url is `team-store`; agents get the store page + login via llms.txt and `/api/content` instead.
 - The `faq` Sheet tab is optional (gid lives at `sheet.gids.faq`); tenants without it just show the static fallback. See README.md "Adding the FAQ Tab" for setup.
 - `hatch run refresh` must stay idempotent: no-op when USMS has no new records and indexes are current.
 - USMS HTML parsing in `_parse_results_table()` is generic and may need adjustment when the site structure changes — check `ScraperConfig` URL patterns first.

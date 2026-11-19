@@ -89,6 +89,23 @@ To wire it up:
 4. In `tenants/<slug>/public/workouts/index.html`, find the `SHEET_GID` constant near the bottom of the file and set it to that number (it starts as `null`, meaning "no tab yet, show the static fallback").
 5. Commit and push. The static markup in `#workouts-container` stays in the file as a fallback if the Sheet is ever unreachable — no need to remove it.
 
+### Team Store Button
+
+A club whose suit vendor has a team store behind a login form (no direct link) can add an optional `teamStore` block to `tenant.json`:
+
+```json
+"teamStore": {
+  "label": "Team Store",
+  "action": "https://www.augustaswimsupply.com/verify_access.cfm",
+  "url": "https://www.augustaswimsupply.com/teams.cfm",
+  "fields": { "txtUsername": "COLUMBIA", "txtPassword": "MASTERS" }
+}
+```
+
+- The footer's Resources list gets a `label` button: a POST form with `fields` as hidden inputs, opening the store in a new tab. Only use a shared team code that is already public (e.g. on the club flyer); it is visible in the page source.
+- In the **Events** tab, set an event's `url` to `team-store` to show a "Shop the team store" button instead of a link.
+- `llms.txt` and `/api/content` (`club.teamStore`) list the store page `url` (defaults to `action`) with the login, since agents can't submit forms. A `team-store` event's url becomes that page. It is not added to JSON-LD.
+
 ### Publishing an Alert (e.g., Pool Closure)
 
 To display a site-wide alert banner (pool closed, schedule change, etc.):
