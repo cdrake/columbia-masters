@@ -29,7 +29,7 @@ test("validateTeamStore rejects bad blocks", () => {
 test("teamStoreForm is an escaped POST form", () => {
   assert.equal(
     teamStoreForm({ label: "A&B", action: "https://s.com/l?a=1&b=2", fields: { u: 'x"y' } }),
-    '<form class="team-store-form" method="post" action="https://s.com/l?a=1&amp;b=2" target="_blank" rel="noopener">' +
+    '<form class="team-store-form" method="post" action="https://s.com/l?a=1&amp;b=2">' +
       '<input type="hidden" name="u" value="x&quot;y"><button type="submit">A&amp;B</button></form>'
   );
   assert.match(teamStoreForm(store, EVENT_STORE_BUTTON), /<button type="submit">Shop the team store<\/button>/);

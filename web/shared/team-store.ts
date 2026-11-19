@@ -39,10 +39,10 @@ export function validateTeamStore(s: unknown): string[] {
 const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-/** POST form that logs into the store in a new tab; no JavaScript needed. */
+/** POST form that logs into the store in the same tab: some in-app browsers drop the POST body for target=_blank. */
 export function teamStoreForm(s: TeamStore, buttonText: string = s.label): string {
   const inputs = Object.entries(s.fields)
     .map(([k, v]) => `<input type="hidden" name="${esc(k)}" value="${esc(v)}">`)
     .join("");
-  return `<form class="team-store-form" method="post" action="${esc(s.action)}" target="_blank" rel="noopener">${inputs}<button type="submit">${esc(buttonText)}</button></form>`;
+  return `<form class="team-store-form" method="post" action="${esc(s.action)}">${inputs}<button type="submit">${esc(buttonText)}</button></form>`;
 }

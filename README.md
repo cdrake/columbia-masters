@@ -102,7 +102,7 @@ A club whose suit vendor has a team store behind a login form (no direct link) c
 }
 ```
 
-- The footer's Resources list gets a `label` button: a POST form with `fields` as hidden inputs, opening the store in a new tab. Only use a shared team code that is already public (e.g. on the club flyer); it is visible in the page source.
+- The footer's Resources list gets a `label` button: a POST form with `fields` as hidden inputs, opening the store in the same tab. Only use a shared team code that is already public (e.g. on the club flyer); it is visible in the page source.
 - In the **Events** tab, set an event's `url` to `team-store` to show a "Shop the team store" button instead of a link.
 - `llms.txt` and `/api/content` (`club.teamStore`) list the store page `url` (defaults to `action`) with the login, since agents can't submit forms. A `team-store` event's url becomes that page. It is not added to JSON-LD.
 
